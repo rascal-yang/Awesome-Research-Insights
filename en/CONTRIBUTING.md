@@ -20,6 +20,8 @@ Propose an insight or a correction in a pull request. You can use a GitHub issue
 
 ## Keep the Index Current
 
+Count papers in their primary domain indexes. Each paper counts once regardless of its insight count or cross-links. Update the domain counts on both homepages when adding, removing, or moving a paper.
+
 - **On merge.** Use the merge date for the latest additions on both homepages. Keep the three most recent batches in **Recent Updates**. Earlier changes remain in the pull request history.
 - **As needed.** Correct claims and replace stale links in the canonical entry. Mention substantive corrections in **Recent Updates**. When moving or renaming an entry, update inbound links in the same pull request.
 - **Monthly.** Review the month's additions and any flagged entries for source accuracy, resource links, duplicates, and taxonomy. Update **Last reviewed** with the date and scope after the check.

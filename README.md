@@ -44,14 +44,14 @@
 
 **全部论文领域**
 
-| 领域 | 收录范围 |
-| :--- | :--- |
-| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 语言建模、后训练与推理。 |
-| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 视觉识别、表征学习与生成。 |
-| <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 语言处理、检索与结构化预测。 |
-| <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 从交互、反馈和离线经验中学习。 |
-| [机器人学](papers/robotics.md) | 机器人感知、策略学习、规划与控制。 |
-| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 结合图像、文本、音频等模态进行学习。 |
+| 领域 | 收录论文 | 收录范围 |
+| :--- | ---: | :--- |
+| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 0 | 语言建模、后训练与推理。 |
+| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 0 | 视觉识别、表征学习与生成。 |
+| <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 0 | 语言处理、检索与结构化预测。 |
+| <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 0 | 从交互、反馈和离线经验中学习。 |
+| [机器人学](papers/robotics.md) | 1 | 机器人感知、策略学习、规划与控制。 |
+| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 0 | 结合图像、文本、音频等模态进行学习。 |
 
 <p align="right"><a href="#top">↑ 回到顶部</a></p>
 

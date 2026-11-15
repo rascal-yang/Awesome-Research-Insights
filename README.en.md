@@ -40,14 +40,14 @@ Browse by the paper’s primary field, then follow its links to individual techn
 
 **All Paper Domains**
 
-| Domain | Scope |
-| :--- | :--- |
-| <a id="large-language-models"></a>[Large Language Models](en/papers/llm.md) | Language modeling, post-training, and reasoning. |
-| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | Recognition, visual representations, and generation. |
-| <a id="natural-language-processing"></a>[Natural Language Processing](en/papers/nlp.md) | Language processing, retrieval, and structured prediction. |
-| <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | Learning from interaction, feedback, and offline experience. |
-| [Robotics](en/papers/robotics.md) | Robot perception, policy learning, planning, and control. |
-| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | Learning from images, text, audio, and other modalities. |
+| Domain | Papers | Scope |
+| :--- | ---: | :--- |
+| <a id="large-language-models"></a>[Large Language Models](en/papers/llm.md) | 0 | Language modeling, post-training, and reasoning. |
+| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | 0 | Recognition, visual representations, and generation. |
+| <a id="natural-language-processing"></a>[Natural Language Processing](en/papers/nlp.md) | 0 | Language processing, retrieval, and structured prediction. |
+| <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 0 | Learning from interaction, feedback, and offline experience. |
+| [Robotics](en/papers/robotics.md) | 1 | Robot perception, policy learning, planning, and control. |
+| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 0 | Learning from images, text, audio, and other modalities. |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
