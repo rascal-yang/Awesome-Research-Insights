@@ -14,7 +14,7 @@
 
 跨领域科研技术灵感库，收录论文中可迁移的模块、损失、优化方法与训练策略。
 
-**最新收录 · 2026-11-15** · [ReconVLA 的两条 Insight](#recent-updates)
+**最新收录 · 2026-11-15** · [ICML 2026 · 3 篇论文、3 条 Insight](#icml-2026-first-batch)
 
 **最近核查 · 2026-11-15** · 首批条目及交叉链接
 
@@ -48,10 +48,10 @@
 | 领域 | 收录论文 | 收录范围 |
 | :--- | ---: | :--- |
 | <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 0 | 语言建模、后训练与推理。 |
-| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 0 | 视觉识别、表征学习与生成。 |
+| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 1 | 视觉识别、表征学习与生成。 |
 | <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 0 | 语言处理、检索与结构化预测。 |
-| <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 0 | 从交互、反馈和离线经验中学习。 |
-| [机器人学](papers/robotics.md) | 1 | 机器人感知、策略学习、规划与控制。 |
+| <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 1 | 从交互、反馈和离线经验中学习。 |
+| [机器人学](papers/robotics.md) | 2 | 机器人感知、策略学习、规划与控制。 |
 | <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 0 | 结合图像、文本、音频等模态进行学习。 |
 
 <p align="right"><a href="#top">↑ 回到顶部</a></p>
@@ -112,6 +112,10 @@
 <a id="recent-updates"></a>
 
 ## 最近更新
+
+<a id="icml-2026-first-batch"></a>
+
+- **2026-11-15** · 新增 3 篇论文、3 条 Insight，来自 [ICML 2026](https://proceedings.mlr.press/v306/)。 [用潜动作监督动作专家的中间层](insights/loss-functions.md#align-action-features-with-latent-actions) · [只加宽学生模型的蒸馏接口](insights/modules.md#widen-the-student-distillation-interface) · [多奖励先分别归一化再聚合](insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 - **2026-11-15** · 收录 ReconVLA（AAAI 2026）的两条 Insight。 [用目标区域重建做辅助监督](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) · [用指令前缀让视觉表征感知任务](insights/modules.md#instruction-prefixes-for-causal-visual-grounding)
 

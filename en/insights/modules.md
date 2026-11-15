@@ -30,3 +30,28 @@ The same image can contain several manipulable objects. A reconstruction target 
 - **Transfer hypothesis · Decoder-only vision-language policies.** Move a goal or question ahead of image tokens if an auxiliary head reads their hidden states. Check the actual attention mask and readout position. A head that already reads a post-instruction state can have access to the goal under either layout.
 
 Related insight: [Target-Region Reconstruction as Auxiliary Supervision](loss-functions.md#target-region-reconstruction-as-auxiliary-supervision).
+
+## Distillation Interface Design
+
+### Widen the Student Distillation Interface
+
+**Source**
+
+[Lift / WideLast](https://proceedings.mlr.press/v306/tian26k.html) (Huiyuan Tian et al., ICML 2026) · [§§2.1–2.3](https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26k/tian26k.pdf#page=4) · [§§3.1–3.3 and Table 2](https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26k/tian26k.pdf#page=6) · [Table 8](https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26k/tian26k.pdf#page=9) · [Paper index](../papers/computer-vision.md#vision-model-distillation)
+
+**Core Idea**
+
+When distilling into a substantially narrower ViT, widen the interface where it meets the teacher and keep most earlier layers narrow.
+
+**Mechanism**
+
+Lift applies a token-wise linear expansion after the final student layer. The classifier consumes the expanded features, and the projection remains at inference. WideLast widens only the final Transformer block to teacher width. Either interface can take a feature loss.
+
+**Motivation**
+
+Teacher features can be low rank for each image while occupying different subspaces across inputs. Shared PCA across images gives a better check on whether a fixed, narrow interface can cover those features than per-image SVD alone.
+
+**Potential Applications**
+
+- **Paper evidence** · On ImageNet-1K with CaiT-S24 as teacher and DeiT-Tiny as student, the standalone baseline was 74.86% top-1. The best Lift and WideLast settings reached 77.53% and 78.23% (Table 2). Wider interfaces also helped without distillation (Table 8).
+- **Transfer hypothesis** · For a compact visual encoder, compare widening alone with widening plus distillation and report deployment cost. This can help isolate benefits from capacity and from teacher supervision.

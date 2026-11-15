@@ -30,3 +30,30 @@ The authors observed that action prediction could attend to distractors. A targe
 - **Transfer hypothesis · Small visuomotor policies.** Supervise the features that feed the action head using target or contact patches. This requires reliable per-frame crops during training, such as projected ground-truth boxes in simulation. A lightweight feature-prediction head is a possible adaptation whose effectiveness needs testing.
 
 Related insight: [Instruction Prefixes for Causal Visual Grounding](modules.md#instruction-prefixes-for-causal-visual-grounding).
+
+## Latent Action Alignment
+
+<a id="align-action-features-with-latent-actions"></a>
+
+### Align Action-Expert Features with Latent Actions
+
+**Source**
+
+[LARA](https://proceedings.mlr.press/v306/liu26bl.html) (Mengya Liu et al., ICML 2026) · [§4.1, Figure 3, Eqs. 6–7](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=4) · [Table 2](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=7) · [§5.6, Figure 6](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=8) · [Paper index](../papers/robotics.md#vision-language-action-models)
+
+**Core Idea**
+
+Align intermediate action-expert features with a latent action inferred from two frames, adding supervision about state changes.
+
+**Mechanism**
+
+An inverse dynamics encoder extracts a continuous latent action from the current and future frame. Project an intermediate action DiT feature and apply cosine alignment to the pre-quantization latent action. Jointly optimize action flow matching, alignment, and future-frame reconstruction in the latent action model, allowing alignment gradients into both branches. The future frame supplies training supervision.
+
+**Motivation**
+
+Video reconstruction can encode nuisance changes such as lighting. Behavior cloning mainly supervises action prediction. Joint training lets visual changes and the action representation constrain each other.
+
+**Potential Applications**
+
+- **Paper evidence** · In GR00T-N1.6 post-training on G1, average full-task success rose from 72% to 76% across two tasks with 50 trials each. Full Grasp-n-Pour success was 68% in both settings. On LIBERO-Long, joint training beat the frozen latent-action baseline. The best alignment layer varied by backbone.
+- **Transfer hypothesis** · For a small VLA, compare action loss alone, frozen latent-action supervision, and joint training. This needs aligned frame pairs and action labels. A layer near the action output is a starting point.

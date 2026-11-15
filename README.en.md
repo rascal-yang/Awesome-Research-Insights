@@ -14,7 +14,7 @@
 
 A cross-disciplinary collection of reusable modules, losses, optimization methods, and training strategies from research papers.
 
-**Latest additions · 2026-11-15** · [Two insights from ReconVLA](#recent-updates)
+**Latest additions · 2026-11-15** · [ICML 2026 · Three papers and three insights](#icml-2026-first-batch)
 
 **Last reviewed · 2026-11-15** · Initial entries and cross-links
 
@@ -44,10 +44,10 @@ Browse by the paper’s primary field, then follow its links to individual techn
 | Domain | Papers | Scope |
 | :--- | ---: | :--- |
 | <a id="large-language-models"></a>[Large Language Models](en/papers/llm.md) | 0 | Language modeling, post-training, and reasoning. |
-| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | 0 | Recognition, visual representations, and generation. |
+| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | 1 | Recognition, visual representations, and generation. |
 | <a id="natural-language-processing"></a>[Natural Language Processing](en/papers/nlp.md) | 0 | Language processing, retrieval, and structured prediction. |
-| <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 0 | Learning from interaction, feedback, and offline experience. |
-| [Robotics](en/papers/robotics.md) | 1 | Robot perception, policy learning, planning, and control. |
+| <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 1 | Learning from interaction, feedback, and offline experience. |
+| [Robotics](en/papers/robotics.md) | 2 | Robot perception, policy learning, planning, and control. |
 | <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 0 | Learning from images, text, audio, and other modalities. |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
@@ -100,6 +100,10 @@ The initial collection prioritizes **main-conference papers from the 2025 and 20
 We screen papers by technical topic when a conference publishes its official main-conference acceptance list or proceedings. To include an insight, we look for an accessible full paper, a traceable source for the method, and a concrete transfer scenario. Batches follow conference announcements.
 
 ## Recent Updates
+
+<a id="icml-2026-first-batch"></a>
+
+- **2026-11-15** · Added three papers and three insights from [ICML 2026](https://proceedings.mlr.press/v306/). [Align Action-Expert Features with Latent Actions](en/insights/loss-functions.md#align-action-features-with-latent-actions) · [Widen the Student Distillation Interface](en/insights/modules.md#widen-the-student-distillation-interface) · [Normalize Each Reward Before Aggregation](en/insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 - **2026-11-15** · Added two insights from ReconVLA (AAAI 2026). [Target-region reconstruction](en/insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) · [Instruction prefixes](en/insights/modules.md#instruction-prefixes-for-causal-visual-grounding)
 
