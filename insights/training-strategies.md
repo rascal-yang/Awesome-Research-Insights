@@ -1,7 +1,7 @@
-# Training Strategies
+# 训练策略
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/insights/training-strategies.md)
 
-Training schedules, curricula, and task or stage composition.
+训练日程、课程学习与多阶段训练。
 
-This index is open for contributions.
+欢迎贡献首批条目。

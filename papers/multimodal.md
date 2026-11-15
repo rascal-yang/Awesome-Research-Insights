@@ -1,7 +1,7 @@
-# Multimodal Learning
+# 多模态学习
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/papers/multimodal.md)
 
-Learning across modalities such as images, text, audio, and video.
+结合图像、文本、音频等模态进行学习。
 
-This index is open for contributions.
+欢迎贡献首批条目。

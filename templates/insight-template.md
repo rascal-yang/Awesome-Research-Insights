@@ -1,24 +1,32 @@
-# Insight Entry Template
+# Insight 条目模板
 
-Add the following under the appropriate H2 method family in the primary technical category.
+[English](../en/templates/insight-template.md)
+
+在主技术分类的 H2 方法族下新增 H3。中英文条目使用同一个英文锚点。
 
 ```markdown
-### Name the mechanism
+<a id="insight-title"></a>
 
-**Source**  
-Link to the original paper and point to the relevant section, figure, equation, or implementation.
+### 用一句话写出技术机制
 
-**Core Idea**  
-Explain the reusable idea in one or two sentences.
+**来源**
 
-**Mechanism**  
-Describe what to change, where it connects, and what data or conditions it needs. Mention whether it runs during training or inference when relevant.
+给出论文链接，并定位小节、公式、图或实现代码。
 
-**Motivation**  
-Describe the limitation or observation that prompted the technique.
+**核心思路**
 
-**Potential Applications**
+一到两句话概括可复用的做法。
 
-- **Paper evidence · Setting.** State what was evaluated and what the comparison supports.
-- **Transfer hypothesis · New setting.** Describe one concrete application and the conditions it would require.
+**实现机制**
+
+讲清楚改哪里、接在哪里、需要什么数据或条件。必要时注明它用在训练还是推理中。
+
+**设计动机**
+
+说明作者观察到了什么问题。
+
+**潜在应用**
+
+- **论文证据 · 场景。** 说明论文验证了什么，以及对比能支持什么结论。
+- **迁移设想 · 新场景。** 给一个具体用法和需要满足的条件。
 ```

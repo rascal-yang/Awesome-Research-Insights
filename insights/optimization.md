@@ -1,7 +1,7 @@
-# Optimization
+# 优化
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/insights/optimization.md)
 
-Gradient updates, parameterization, and optimization dynamics.
+梯度更新、参数化与优化过程。
 
-This index is open for contributions.
+欢迎贡献首批条目。

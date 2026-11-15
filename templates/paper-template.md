@@ -1,11 +1,11 @@
-# Paper Entry Template
+# 论文索引模板
 
-Add a row under the relevant research theme in the paper's primary domain page. Record the first public release date in YYYY-MM-DD format and cite the venue when confirmed. Link each extracted insight directly.
+[English](../en/templates/paper-template.md)
+
+在论文所属的主领域页找合适的研究主题，添加一行。首次公开日期使用 YYYY-MM-DD，发表信息附出处。
 
 ```markdown
-| Paper | First public | Venue | Transferable insights | Resources |
-| --- | --- | --- | --- | --- |
-| **Short name**<br>Author et al., *Full title* | YYYY-MM-DD | [Confirmed venue](https://example.org/proceedings) or Preprint | [Insight title](../insights/category.md#insight-title) | [Paper](https://example.org/paper) · [Code](https://example.org/code) |
+| 论文 | 首次公开 / 发表 | 可借鉴的技术 | 资源 |
+| :--- | :--- | :--- | :--- |
+| **论文简称**<br><sub>作者等，完整标题</sub> | YYYY-MM-DD<br><sub>[发表出处](https://example.org/proceedings)</sub> | [Insight 标题](../insights/category.md#insight-title) | [论文](https://example.org/paper) · [代码](https://example.org/code) |
 ```
-
-Include resource links as available.

@@ -1,7 +1,7 @@
-# Data Strategies
+# 数据策略
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/insights/data-strategies.md)
 
-Data selection, annotation, augmentation, and sampling.
+数据筛选、标注、增强与采样。
 
-This index is open for contributions.
+欢迎贡献首批条目。

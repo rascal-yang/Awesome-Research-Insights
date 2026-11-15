@@ -1,7 +1,7 @@
-# Reinforcement Learning Methods
+# 强化学习方法
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/insights/reinforcement-learning.md)
 
-Rewards, exploration, credit assignment, and policy improvement.
+奖励、探索、信用分配与策略改进。
 
-This index is open for contributions.
+欢迎贡献首批条目。

@@ -1,79 +1,107 @@
+<a id="top"></a>
+
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="论文、技术与迁移应用">
+</p>
+
 <h1 align="center">Awesome Research Insights</h1>
 
-<p align="center"><strong>Discover ideas. Transfer methods. Explore new possibilities.</strong></p>
-<p align="center"><a href="#papers-by-domain">Browse papers</a> · <a href="#insights-by-technical-category">Browse insights</a> · <a href="CONTRIBUTING.md">Contribute</a></p>
+<p align="center"><strong>从不同领域的论文中，提取值得借鉴的技术。</strong></p>
 
-A community-curated collection of transferable research techniques, indexed by paper domain and technical category.
+<p align="center">
+  <strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="CONTRIBUTING.md">参与贡献</a>
+</p>
 
-**Latest additions · 2026-11-15** · [2 insights from ReconVLA](#recent-updates)  
-**Last reviewed · 2026-11-15** · Initial entries and cross-links
+跨领域科研技术灵感库，收录论文中可迁移的模块、损失、优化方法与训练策略。
 
-## Papers by Domain
+**最新收录 · 2026-11-15** · [ReconVLA 的两条 Insight](#recent-updates)
 
-### Large Language Models
+**最近核查 · 2026-11-15** · 首批条目及交叉链接
 
-[Paper index](papers/llm.md) · Language modeling, post-training, and reasoning methods from LLM research.
+**目录**
 
-### Computer Vision
+- [按论文领域浏览](#papers-by-domain)
+  - [机器人学](#robotics)
+- [按技术类型浏览](#insights-by-technical-category)
+  - [损失函数](#loss-functions)
+  - [模块](#modules)
+- [最近更新](#recent-updates)
+- [参与贡献](#contributing)
 
-[Paper index](papers/computer-vision.md) · Visual representation, recognition, reconstruction, and generation.
+<a id="papers-by-domain"></a>
 
-### Natural Language Processing
+## 按论文领域浏览
 
-[Paper index](papers/nlp.md) · Language processing methods, including structured prediction and retrieval.
+按论文的主要研究领域查找，再跳到对应的技术条目。
 
-### Reinforcement Learning
+<a id="robotics"></a>
 
-[Paper index](papers/reinforcement-learning.md) · Learning from interaction, feedback, and offline experience.
+### 机器人学
 
-### Robotics
+| 论文 | 首次公开 / 发表 | 可借鉴的技术 | 资源 |
+| :--- | :--- | :--- | :--- |
+| [**ReconVLA**](papers/robotics.md#vision-language-action-models)<br><sub>Song et al.</sub> | 2025-08-14<br><sub>[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883)</sub> | [用目标区域重建做辅助监督](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)<br>[用指令前缀让视觉表征感知任务](insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | [论文](https://arxiv.org/abs/2508.10333) · [项目](https://zionchow.github.io/ReconVLA/) · [代码](https://github.com/OpenHelix-Team/ReconVLA) |
 
-[Paper index](papers/robotics.md) · Robot perception, policy learning, planning, and control. Start with [ReconVLA](papers/robotics.md#vision-language-action-models).
+**全部论文领域**
 
-### Multimodal Learning
+| 领域 | 收录范围 |
+| :--- | :--- |
+| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 语言建模、后训练与推理。 |
+| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 视觉识别、表征学习与生成。 |
+| <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 语言处理、检索与结构化预测。 |
+| <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 从交互、反馈和离线经验中学习。 |
+| [机器人学](papers/robotics.md) | 机器人感知、策略学习、规划与控制。 |
+| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 结合图像、文本、音频等模态进行学习。 |
 
-[Paper index](papers/multimodal.md) · Learning across modalities such as images, text, audio, and video.
+<p align="right"><a href="#top">↑ 回到顶部</a></p>
 
-## Insights by Technical Category
+<a id="insights-by-technical-category"></a>
 
-### Architectures
+## 按技术类型浏览
 
-[Insight index](insights/architecture.md) · Model-wide design and information flow.
+从想借用的技术入手，比如辅助损失、模块改动或训练策略。
 
-### Modules
+<a id="loss-functions"></a>
 
-[Insight index](insights/modules.md) · Reusable components and local changes to model inputs or connections. Start with [Instruction Prefixes for Causal Visual Grounding](insights/modules.md#instruction-prefixes-for-causal-visual-grounding).
+### 损失函数
 
-### Loss Functions
+| Insight | 一句话概括 | 来源 |
+| :--- | :--- | :--- |
+| [**用目标区域重建做辅助监督**](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) | 用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。 | [ReconVLA](papers/robotics.md#vision-language-action-models) |
 
-[Insight index](insights/loss-functions.md) · Objectives, auxiliary supervision, and regularization. Start with [Target-Region Reconstruction as Auxiliary Supervision](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision).
+<a id="modules"></a>
 
-### Optimization
+### 模块
 
-[Insight index](insights/optimization.md) · Gradient updates, parameterization, and optimization dynamics.
+| Insight | 一句话概括 | 来源 |
+| :--- | :--- | :--- |
+| [**用指令前缀让视觉表征感知任务**](insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | 把指令 token 放在图像 token 前，使视觉隐藏状态能通过因果注意力读取任务信息。 | [ReconVLA](papers/robotics.md#vision-language-action-models) |
 
-### Reinforcement Learning Methods
+**全部技术分类**
 
-[Insight index](insights/reinforcement-learning.md) · Rewards, exploration, credit assignment, and policy improvement.
+| 技术分类 | 收录范围 |
+| :--- | :--- |
+| <a id="architectures"></a>[模型架构](insights/architecture.md) | 整体架构与信息流。 |
+| [模块](insights/modules.md) | 可复用组件与局部连接方式。 |
+| [损失函数](insights/loss-functions.md) | 训练目标、辅助监督与正则化。 |
+| <a id="optimization"></a>[优化](insights/optimization.md) | 梯度更新、参数化与优化过程。 |
+| <a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 奖励、探索、信用分配与策略改进。 |
+| <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 训练日程、课程学习与多阶段训练。 |
+| <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 数据筛选、标注、增强与采样。 |
+| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 解码、测试时适配与高效执行。 |
 
-### Training Strategies
+<p align="right"><a href="#top">↑ 回到顶部</a></p>
 
-[Insight index](insights/training-strategies.md) · Training schedules, curricula, and task or stage composition.
+<a id="recent-updates"></a>
 
-### Data Strategies
+## 最近更新
 
-[Insight index](insights/data-strategies.md) · Data selection, annotation, augmentation, and sampling.
+- **2026-11-15** · 收录 ReconVLA（AAAI 2026）的两条 Insight。 [用目标区域重建做辅助监督](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) · [用指令前缀让视觉表征感知任务](insights/modules.md#instruction-prefixes-for-causal-visual-grounding)
 
-### Inference Strategies
+<a id="contributing"></a>
 
-[Insight index](insights/inference.md) · Decoding, test-time adaptation, and efficient execution.
+## 参与贡献
 
-## Recent Updates
-
-- **2026-11-15** · Added ReconVLA (AAAI 2026) with two insights: [target-region reconstruction](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) and [instruction prefixes](insights/modules.md#instruction-prefixes-for-causal-visual-grounding).
-
-## Contributing
-
-Use the [contribution guide](CONTRIBUTING.md) to add a paper, extract an insight, or correct an existing entry.
+欢迎补充论文、提取可复用技术或修正已有条目。见 [贡献指南](CONTRIBUTING.md)。
 
 [MIT License](LICENSE)

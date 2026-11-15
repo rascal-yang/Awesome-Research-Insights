@@ -1,7 +1,7 @@
-# Large Language Models
+# 大语言模型
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/papers/llm.md)
 
-Language modeling, post-training, and reasoning methods from LLM research.
+语言建模、后训练与推理。
 
-This index is open for contributions.
+欢迎贡献首批条目。

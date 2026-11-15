@@ -1,28 +1,34 @@
-# Modules
+# 模块
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/insights/modules.md)
 
-Reusable components and local changes to model inputs or connections.
+可复用组件与局部连接方式。
 
-## Multimodal Token Layout
+## 多模态 token 排列
 
-### Instruction Prefixes for Causal Visual Grounding
+<a id="instruction-prefixes-for-causal-visual-grounding"></a>
 
-**Source**  
-ReconVLA (Song et al., AAAI 2026) · [§3.2, Figure 3 and the causal-attention discussion](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883#page=4) · [Paper index](../papers/robotics.md#vision-language-action-models)
+### 用指令前缀让视觉表征感知任务
 
-**Core Idea**  
-Put the task instruction before the image tokens when a causal decoder needs to produce task-conditioned visual representations.
+**来源**
 
-**Mechanism**  
-In a decoder with a standard causal mask, an image-token hidden state can attend to earlier instruction tokens. ReconVLA places instruction tokens before image tokens so that the visual states used to condition the reconstruction branch can carry task information. The order acts inside the multimodal decoder. The vision encoder still processes the image separately.
+ReconVLA（Song 等，AAAI 2026） · [§3.2、图 3 与因果注意力说明](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883#page=4) · [论文索引](../papers/robotics.md#vision-language-action-models)
 
-**Motivation**  
-The same image can contain several manipulable objects. A reconstruction target selected by the instruction is easier to represent when the visual states can see the task before the reconstruction head reads them.
+**核心思路**
 
-**Potential Applications**
+如果下游模块读取因果解码器里的图像 token，把任务指令放在图像 token 前面，使这些视觉隐藏状态能读到指令。
 
-- **Paper use · Language-conditioned reconstruction.** ReconVLA uses this layout in its reconstruction pipeline. The paper does not report a controlled token-order ablation that isolates its effect on policy success.
-- **Transfer hypothesis · Decoder-only vision-language policies.** Move a goal or question ahead of image tokens if an auxiliary head reads their hidden states. Check the actual attention mask and readout position. A head that already reads a post-instruction state can have access to the goal under either layout.
+**实现机制**
 
-Related insight: [Target-Region Reconstruction as Auxiliary Supervision](loss-functions.md#target-region-reconstruction-as-auxiliary-supervision).
+在标准因果掩码下，一个位置只能读取自己与此前位置。ReconVLA 把指令 token 放在图像 token 前面，让用于给重建分支提供条件的视觉状态能融合任务信息。顺序调整发生在多模态解码器中，视觉编码器仍单独处理图像。
+
+**设计动机**
+
+同一张图里可能有多个可操作物体。重建分支要恢复指令指定的物体，读到的视觉状态需要带有区分当前目标的信息。
+
+**潜在应用**
+
+- **论文用法 · 语言条件重建。** ReconVLA 在重建流程中使用这一顺序。论文对该设计的结论来自完整系统，单独改变 token 顺序对策略成功率的影响待验证。
+- **迁移设想 · 仅解码器式视觉语言策略。** 如果辅助头读取图像 token 的隐藏状态，可以把目标指令或问题移到图像 token 之前。迁移前看清注意力掩码和读出位置。若读出位置本来就在指令之后，两种排列都可能让辅助头读到指令。
+
+相关 Insight · [用目标区域重建做辅助监督](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)

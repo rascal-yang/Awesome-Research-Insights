@@ -1,7 +1,7 @@
-# Computer Vision
+# 计算机视觉
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/papers/computer-vision.md)
 
-Visual representation, recognition, reconstruction, and generation.
+视觉识别、表征学习与生成。
 
-This index is open for contributions.
+欢迎贡献首批条目。

@@ -1,7 +1,7 @@
-# Inference Strategies
+# 推理策略
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/insights/inference.md)
 
-Decoding, test-time adaptation, and efficient execution.
+解码、测试时适配与高效执行。
 
-This index is open for contributions.
+欢迎贡献首批条目。

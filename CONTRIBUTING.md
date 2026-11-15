@@ -1,25 +1,29 @@
-# Contributing
+# 参与贡献
 
-Propose an insight or a correction in a pull request. You can use a GitHub issue to suggest a paper or discuss where a technique belongs.
+[首页](README.md) · [English](en/CONTRIBUTING.md)
 
-## Add an Insight
+欢迎通过 Pull Request 提交新的技术条目或修正。也可以先开 Issue 推荐论文或讨论分类。
 
-1. Find the original paper and locate the relevant section, figure, equation, or code.
-2. Add the insight to its primary technical category using the [insight template](templates/insight-template.md). Use one H3 per insight; use an existing H2 when it fits or add a focused method family.
-3. Add or update the paper's primary domain entry using the [paper template](templates/paper-template.md). Link directly to each associated insight. Use cross-links when a paper or insight fits additional categories.
-4. For an addition, update the homepage's latest-additions date and add one line under **Recent Updates** when preparing the batch for merge.
+## 新增 Insight
 
-### Review Checklist
+1. 阅读原文，定位能支撑技术描述的小节、公式、图或代码位置。
+2. 选择一个主技术分类，照 [Insight 模板](templates/insight-template.md) 新增条目。H2 是方法族，H3 是一条具体 Insight。条目标题尽量写出做法。
+3. 照 [论文模板](templates/paper-template.md) 在论文所属的主领域添加或更新索引行，链接到具体 Insight。一篇论文可对应多条 Insight。其他分类需要引用时，用交叉链接。
+4. 同一批变更中同步英文索引和条目。中英文条目使用相同的英文锚点。合并前同步更新 [中文首页](README.md#recent-updates) 和 [英文首页](README.en.md#recent-updates) 的收录记录。
 
-- The source is easy to locate and supports the mechanism described.
-- The insight explains what changes, what inputs or supervision it needs, and why the authors introduced it.
-- Paper evidence and transfer hypotheses are labeled separately.
-- Relative links resolve, including links into individual insight headings.
+### 提交前检查
 
-## Keep the Index Current
+- 读者能从来源跳到技术细节。
+- 条目讲清楚改了哪里、依赖哪些输入或监督、作者为什么这么改。
+- 论文证据和迁移设想分别标注。
+- 两种语言的相对链接和标题锚点都能跳转。
 
-- **On merge.** Use the merge date for the homepage's latest additions. Keep the three most recent batches in **Recent Updates**. Earlier changes remain in the pull request history.
-- **As needed.** Correct claims and replace stale links in the canonical entry. Mention substantive corrections in **Recent Updates**. When moving or renaming an entry, update inbound links in the same pull request.
-- **Monthly.** Review the month's additions and any flagged entries for source accuracy, resource links, duplicates, and taxonomy. Update **Last reviewed** with the date and scope after the check.
+## 更新机制
 
-Maintain one canonical paper row and one canonical insight body. Keep the homepage headings stable so existing links remain easy to find.
+| 节奏 | 维护事项 |
+| :--- | :--- |
+| 随 PR 收录 | 用合并日期更新「最新收录」。两版首页的「最近更新」保留最近三批，较早的变更可以从 PR 历史查到。 |
+| 随时修正 | 回到主条目修正技术表述、出处或失效链接。重要更正在首页留一行。移动或改名时，在同一 PR 更新入链。 |
+| 每月核查 | 核对当月新增和收到反馈的条目，检查证据、链接、重复收录与分类。完成后同步更新两版首页的「最近核查」日期和范围。 |
+
+每篇论文维护一个主索引条目，每个 Insight 在主技术分类维护正文。英文版与中文主条目同步。

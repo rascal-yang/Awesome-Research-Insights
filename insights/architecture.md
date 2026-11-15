@@ -1,7 +1,7 @@
-# Architectures
+# 模型架构
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/insights/architecture.md)
 
-Model-wide design and information flow.
+整体架构与信息流。
 
-This index is open for contributions.
+欢迎贡献首批条目。

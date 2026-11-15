@@ -1,7 +1,7 @@
-# Natural Language Processing
+# 自然语言处理
 
-[Home](../README.md) · [Contributing](../CONTRIBUTING.md)
+[首页](../README.md) · [参与贡献](../CONTRIBUTING.md) · [English](../en/papers/nlp.md)
 
-Language processing methods, including structured prediction and retrieval.
+语言处理、检索与结构化预测。
 
-This index is open for contributions.
+欢迎贡献首批条目。
