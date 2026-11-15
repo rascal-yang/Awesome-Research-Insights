@@ -20,47 +20,42 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 
 **Contents**
 
-- [Papers by Domain](#papers-by-domain)
-  - [Robotics](#robotics)
-- [Insights by Technical Category](#insights-by-technical-category)
+- [All Paper Domains](#papers-by-domain)
+- [Robotics](#robotics)
   - [Loss Functions](#loss-functions)
   - [Modules](#modules)
+- [Computer Vision](#computer-vision)
+  - [Modules](#computer-vision-modules)
+- [Reinforcement Learning](#reinforcement-learning)
+  - [Reward and Advantage Estimation](#reward-and-advantage-estimation)
+- [Browse by Technique](#insights-by-technical-category)
 - [Conference Sources and Update Cadence](#conference-sources)
 - [Recent Updates](#recent-updates)
 - [Contributing](#contributing)
 
-## Papers by Domain
+<a id="papers-by-domain"></a>
 
-Browse by the paper’s primary field, then follow its links to individual techniques.
-
-### Robotics
-
-| Paper | First public / venue | Transferable insights | Resources |
-| :--- | :--- | :--- | :--- |
-| [**ReconVLA**](en/papers/robotics.md#vision-language-action-models)<br><sub>Song et al.</sub> | 2025-08-14<br><sub>[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883)</sub> | [Target-region reconstruction](en/insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)<br>[Instruction prefixes](en/insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | [Paper](https://arxiv.org/abs/2508.10333) · [Project](https://zionchow.github.io/ReconVLA/) · [Code](https://github.com/OpenHelix-Team/ReconVLA) |
-
-**All Paper Domains**
+## All Paper Domains
 
 | Domain | Papers | Scope |
 | :--- | ---: | :--- |
 | <a id="large-language-models"></a>[Large Language Models](en/papers/llm.md) | 0 | Language modeling, post-training, and reasoning. |
-| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | 1 | Recognition, visual representations, and generation. |
+| [Computer Vision](#computer-vision) | 1 | Recognition, visual representations, and generation. |
 | <a id="natural-language-processing"></a>[Natural Language Processing](en/papers/nlp.md) | 0 | Language processing, retrieval, and structured prediction. |
-| <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 1 | Learning from interaction, feedback, and offline experience. |
-| [Robotics](en/papers/robotics.md) | 2 | Robot perception, policy learning, planning, and control. |
+| [Reinforcement Learning](#reinforcement-learning) | 1 | Learning from interaction, feedback, and offline experience. |
+| [Robotics](#robotics) | 2 | Robot perception, policy learning, planning, and control. |
 | <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 0 | Learning from images, text, audio, and other modalities. |
 
-<p align="right"><a href="#top">↑ Back to top</a></p>
+## Robotics
 
-## Insights by Technical Category
-
-Start with the kind of change you want to borrow, such as an auxiliary loss, a module, or a training strategy.
+[Paper index](en/papers/robotics.md)
 
 ### Loss Functions
 
 | Insight | One-sentence takeaway | Source |
 | :--- | :--- | :--- |
 | [**Target-Region Reconstruction as Auxiliary Supervision**](en/insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) | Train the policy representation with a latent reconstruction objective on a crop of the target object. | [ReconVLA](en/papers/robotics.md#vision-language-action-models) |
+| [**Align Action-Expert Features with Latent Actions**](en/insights/loss-functions.md#align-action-features-with-latent-actions) | Align an intermediate action-model layer with latent actions learned from frame pairs. | [LARA](en/papers/robotics.md#vision-language-action-models) |
 
 ### Modules
 
@@ -68,7 +63,33 @@ Start with the kind of change you want to borrow, such as an auxiliary loss, a m
 | :--- | :--- | :--- |
 | [**Instruction Prefixes for Causal Visual Grounding**](en/insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | Place instruction tokens before image tokens so visual hidden states can attend to the task under a causal mask. | [ReconVLA](en/papers/robotics.md#vision-language-action-models) |
 
-**All Technical Categories**
+## Computer Vision
+
+[Paper index](en/papers/computer-vision.md)
+
+<a id="computer-vision-modules"></a>
+
+### Modules
+
+| Insight | One-sentence takeaway | Source |
+| :--- | :--- | :--- |
+| [**Widen the Student Distillation Interface**](en/insights/modules.md#widen-the-student-distillation-interface) | Widen the student’s feature interface or final Transformer block for feature distillation. | [Lift / WideLast](en/papers/computer-vision.md#vision-model-distillation) |
+
+## Reinforcement Learning
+
+[Paper index](en/papers/reinforcement-learning.md)
+
+### Reward and Advantage Estimation
+
+| Insight | One-sentence takeaway | Source |
+| :--- | :--- | :--- |
+| [**Normalize Each Reward Before Aggregation**](en/insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) | Normalize each reward component within a rollout group before combining advantages. | [GDPO](en/papers/reinforcement-learning.md#group-relative-policy-optimization) |
+
+<a id="insights-by-technical-category"></a>
+
+## Browse by Technique
+
+Browse the complete technique indexes across domains.
 
 | Technique | Scope |
 | :--- | :--- |

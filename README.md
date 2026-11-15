@@ -20,47 +20,37 @@
 
 **目录**
 
-- [按论文领域浏览](#papers-by-domain)
-  - [机器人学](#robotics)
-- [按技术类型浏览](#insights-by-technical-category)
+- [全部论文领域](#papers-by-domain)
+- [机器人学](#robotics)
   - [损失函数](#loss-functions)
   - [模块](#modules)
+- [计算机视觉](#computer-vision)
+  - [模块](#computer-vision-modules)
+- [强化学习](#reinforcement-learning)
+  - [奖励与优势估计](#reward-and-advantage-estimation)
+- [跨领域技术索引](#insights-by-technical-category)
 - [关注会议与收录节奏](#conference-sources)
 - [最近更新](#recent-updates)
 - [参与贡献](#contributing)
 
 <a id="papers-by-domain"></a>
 
-## 按论文领域浏览
-
-按论文的主要研究领域查找，再跳到对应的技术条目。
-
-<a id="robotics"></a>
-
-### 机器人学
-
-| 论文 | 首次公开 / 发表 | 可借鉴的技术 | 资源 |
-| :--- | :--- | :--- | :--- |
-| [**ReconVLA**](papers/robotics.md#vision-language-action-models)<br><sub>Song et al.</sub> | 2025-08-14<br><sub>[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883)</sub> | [用目标区域重建做辅助监督](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)<br>[用指令前缀让视觉表征感知任务](insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | [论文](https://arxiv.org/abs/2508.10333) · [项目](https://zionchow.github.io/ReconVLA/) · [代码](https://github.com/OpenHelix-Team/ReconVLA) |
-
-**全部论文领域**
+## 全部论文领域
 
 | 领域 | 收录论文 | 收录范围 |
 | :--- | ---: | :--- |
 | <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 0 | 语言建模、后训练与推理。 |
-| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 1 | 视觉识别、表征学习与生成。 |
+| [计算机视觉](#computer-vision) | 1 | 视觉识别、表征学习与生成。 |
 | <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 0 | 语言处理、检索与结构化预测。 |
-| <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 1 | 从交互、反馈和离线经验中学习。 |
-| [机器人学](papers/robotics.md) | 2 | 机器人感知、策略学习、规划与控制。 |
+| [强化学习](#reinforcement-learning) | 1 | 从交互、反馈和离线经验中学习。 |
+| [机器人学](#robotics) | 2 | 机器人感知、策略学习、规划与控制。 |
 | <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 0 | 结合图像、文本、音频等模态进行学习。 |
 
-<p align="right"><a href="#top">↑ 回到顶部</a></p>
+<a id="robotics"></a>
 
-<a id="insights-by-technical-category"></a>
+## 机器人学
 
-## 按技术类型浏览
-
-从想借用的技术入手，比如辅助损失、模块改动或训练策略。
+[论文索引](papers/robotics.md)
 
 <a id="loss-functions"></a>
 
@@ -69,6 +59,7 @@
 | Insight | 一句话概括 | 来源 |
 | :--- | :--- | :--- |
 | [**用目标区域重建做辅助监督**](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) | 用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。 | [ReconVLA](papers/robotics.md#vision-language-action-models) |
+| [**用潜动作监督动作专家的中间层**](insights/loss-functions.md#align-action-features-with-latent-actions) | 用前后帧提取的潜动作监督动作模型的中间层。 | [LARA](papers/robotics.md#vision-language-action-models) |
 
 <a id="modules"></a>
 
@@ -78,7 +69,39 @@
 | :--- | :--- | :--- |
 | [**用指令前缀让视觉表征感知任务**](insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | 把指令 token 放在图像 token 前，使视觉隐藏状态能通过因果注意力读取任务信息。 | [ReconVLA](papers/robotics.md#vision-language-action-models) |
 
-**全部技术分类**
+<a id="computer-vision"></a>
+
+## 计算机视觉
+
+[论文索引](papers/computer-vision.md)
+
+<a id="computer-vision-modules"></a>
+
+### 模块
+
+| Insight | 一句话概括 | 来源 |
+| :--- | :--- | :--- |
+| [**只加宽学生模型的蒸馏接口**](insights/modules.md#widen-the-student-distillation-interface) | 做特征蒸馏时，只加宽学生模型的特征接口或最后一个 Transformer 块。 | [Lift / WideLast](papers/computer-vision.md#vision-model-distillation) |
+
+<a id="reinforcement-learning"></a>
+
+## 强化学习
+
+[论文索引](papers/reinforcement-learning.md)
+
+<a id="reward-and-advantage-estimation"></a>
+
+### 奖励与优势估计
+
+| Insight | 一句话概括 | 来源 |
+| :--- | :--- | :--- |
+| [**多奖励先分别归一化再聚合**](insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) | 先在轨迹组内归一化各项奖励，再合并优势。 | [GDPO](papers/reinforcement-learning.md#group-relative-policy-optimization) |
+
+<a id="insights-by-technical-category"></a>
+
+## 跨领域技术索引
+
+按技术类型查找不同领域的条目。
 
 | 技术分类 | 收录范围 |
 | :--- | :--- |
