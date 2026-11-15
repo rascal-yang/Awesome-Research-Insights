@@ -25,6 +25,7 @@
 - [按技术类型浏览](#insights-by-technical-category)
   - [损失函数](#loss-functions)
   - [模块](#modules)
+- [关注会议与收录节奏](#conference-sources)
 - [最近更新](#recent-updates)
 - [参与贡献](#contributing)
 
@@ -91,6 +92,22 @@
 | <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 解码、测试时适配与高效执行。 |
 
 <p align="right"><a href="#top">↑ 回到顶部</a></p>
+
+<a id="conference-sources"></a>
+
+## 关注会议与收录节奏
+
+首批从 **2025–2026 年 CCF A 类会议的主会论文**中筛选，年份按会议届次计算。以下专题来源也会按研究主题查阅。
+
+| 来源 | 会议 | 优先关注 |
+| :--- | :--- | :--- |
+| CCF A 类 · 通用机器学习与人工智能 | ICML、NeurIPS、ICLR、AAAI | 损失函数、表征学习、优化、训练策略与强化学习 |
+| CCF A 类 · 计算机视觉 | CVPR、ICCV | 视觉监督、视频与时序表征、三维感知 |
+| CCF A 类 · 自然语言处理 | ACL | 指令理解、推理与语言表征 |
+| 机器人学习与系统 | CoRL、RSS | 策略学习、模仿学习、规划与机器人操作 |
+| 专题补充 | EMNLP、ECCV、ICRA、IROS | 语言与多模态技术、感知与控制、接触及真机执行 |
+
+会议公布官方主会录用名单或论文集后，按技术主题筛选。有公开全文、能定位原文依据、且有具体迁移场景的技术点可以收录。更新批次随会议出榜安排。
 
 <a id="recent-updates"></a>
 

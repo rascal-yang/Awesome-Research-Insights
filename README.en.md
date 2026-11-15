@@ -25,6 +25,7 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 - [Insights by Technical Category](#insights-by-technical-category)
   - [Loss Functions](#loss-functions)
   - [Modules](#modules)
+- [Conference Sources and Update Cadence](#conference-sources)
 - [Recent Updates](#recent-updates)
 - [Contributing](#contributing)
 
@@ -81,6 +82,22 @@ Start with the kind of change you want to borrow, such as an auxiliary loss, a m
 | <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | Decoding, test-time adaptation, and efficient execution. |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
+
+<a id="conference-sources"></a>
+
+## Conference Sources and Update Cadence
+
+The initial collection prioritizes **main-conference papers from the 2025 and 2026 editions of CCF A venues**. We also consult the specialist venues below when relevant to a topic.
+
+| Source | Conferences | Topics to look for |
+| :--- | :--- | :--- |
+| CCF A · Machine learning and AI | ICML, NeurIPS, ICLR, AAAI | Losses, representation learning, optimization, training strategies, and reinforcement learning |
+| CCF A · Computer vision | CVPR, ICCV | Visual supervision, video and temporal representations, and 3D perception |
+| CCF A · Natural language processing | ACL | Instruction following, reasoning, and language representations |
+| Robot learning and systems | CoRL, RSS | Policy learning, imitation learning, planning, and manipulation |
+| Topic-specific sources | EMNLP, ECCV, ICRA, IROS | Language and multimodal methods, perception and control, contact, and physical robot execution |
+
+We screen papers by technical topic when a conference publishes its official main-conference acceptance list or proceedings. To include an insight, we look for an accessible full paper, a traceable source for the method, and a concrete transfer scenario. Batches follow conference announcements.
 
 ## Recent Updates
 
