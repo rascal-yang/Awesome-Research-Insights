@@ -10,7 +10,11 @@ Use the same criteria across fields and venues. Include only reusable technical 
 
 Four kinds of insight qualify, including **new mechanisms, new approaches, new findings, and failure lessons**. A simple auxiliary loss, reward design, or training technique can qualify when its reuse value is clear.
 
-Apply three checks before considering a paper for inclusion.
+Before scoring, answer: **Which specific technical choice in embodied intelligence or related deep learning research could this paper change?**
+
+The screening rationale must identify the choice, an actionable operation or judgment, and its source location. Examples include demonstration selection, action representations, training objectives, policy updates, perception representations, and deployment approaches. Exclude papers with no concrete answer beyond hypothetical inspiration; leave unverifiable cases pending. Robot experiments are not required, but distinguish validated uses from transfer hypotheses. Do not include or exclude by field name alone. Apply this check to existing cards, including those already scored.
+
+After this relevance check, apply the following three checks. All existing exclusion rules remain in force.
 
 | Question | Required evidence |
 | --- | --- |
