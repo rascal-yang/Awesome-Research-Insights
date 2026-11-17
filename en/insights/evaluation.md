@@ -244,9 +244,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs](../../conferences/icml-2026/cards/3501-3600.md#pan26g-evaluation) · 中文
 - [Memory Savings at What Cost? A Study of Alternatives to Backpropagation](../../conferences/icml-2026/cards/3501-3600.md#panchal26a-evaluation) · 中文
 - [Multi-Agent Teams Hold Experts Back](../../conferences/icml-2026/cards/3501-3600.md#pappu26a-evaluation) · 中文
-- [Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints](../../conferences/icml-2026/cards/3601-3700.md#pattnayak26a-evaluation) · 中文
 - [BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs](../../conferences/icml-2026/cards/3601-3700.md#petrov26a-evaluation) · 中文
-- [Pressure Reveals Character: Behavioural Alignment Evaluation at Depth](../../conferences/icml-2026/cards/3601-3700.md#petrova26a-evaluation) · 中文
 - [Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models](../../conferences/icml-2026/cards/3601-3700.md#pink26a-evaluation) · 中文
 - [Wait, Wait, Wait... Why Do Reasoning Models Loop?](../../conferences/icml-2026/cards/3601-3700.md#pipis26a-evaluation) · 中文
 - [A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](../../conferences/icml-2026/cards/3601-3700.md#pitre26a-evaluation) · 中文
@@ -260,7 +258,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Who can we trust? LLM-as-a-jury for Comparative Assessment](../../conferences/icml-2026/cards/3701-3800.md#qian26i-evaluation) · 中文
 - [Tracing the Persona Circuit: How Large Language Models Encode and Express Character Traits](../../conferences/icml-2026/cards/3701-3800.md#qin26h-evaluation) · 中文
 - [Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions](../../conferences/icml-2026/cards/3701-3800.md#qin26i-evaluation) · 中文
-- [Towards a Science of AI Agent Reliability](../../conferences/icml-2026/cards/3701-3800.md#rabanser26a-evaluation) · 中文
 - [Reasoning Models Are Test Exploiters: Rethinking Multiple Choice](../../conferences/icml-2026/cards/3801-3900.md#raman26a-evaluation) · 中文
 - [Sparks of Cooperative Reasoning: LLMs as Strategic Hanabi Agents](../../conferences/icml-2026/cards/3801-3900.md#ramesh26a-evaluation) · 中文
 - [PostTrainBench: Can LLM Agents Automate LLM Post-Training?](../../conferences/icml-2026/cards/3801-3900.md#rank26a-evaluation) · 中文
@@ -275,17 +272,14 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Scaling Beyond Masked Diffusion Language Models](../../conferences/icml-2026/cards/3901-4000.md#sahoo26a-evaluation) · 中文
 - [From Associations to Activations: Comparing Behavioral and Hidden-State Semantic Geometry in LLMs](../../conferences/icml-2026/cards/3901-4000.md#schiekiera26a-evaluation) · 中文
 - [A Coin Flip for Safety: LLM Judges Fail to Reliably Measure Adversarial Robustness](../../conferences/icml-2026/cards/3901-4000.md#schwinn26a-evaluation) · 中文
-- [FormulaCode: Evaluating Agentic Optimization on Large Codebases](../../conferences/icml-2026/cards/3901-4000.md#sehgal26a-evaluation) · 中文
 - [SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?](../../conferences/icml-2026/cards/3901-4000.md#sehwag26a-evaluation) · 中文
 - [Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](../../conferences/icml-2026/cards/3901-4000.md#sel26a-evaluation) · 中文
 - [Frontier Models Can Take Actions at Low Probabilities](../../conferences/icml-2026/cards/4001-4100.md#serrano26b-evaluation) · 中文
 - [Domain Restriction via Multi SAE Layer Transitions](../../conferences/icml-2026/cards/4001-4100.md#shaheen26a-evaluation) · 中文
 - [ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark](../../conferences/icml-2026/cards/4001-4100.md#shalyt26a-evaluation) · 中文
-- [SciNet: Evaluating AI Agents in Relation-Aware Scientific Literature Retrieval](../../conferences/icml-2026/cards/4001-4100.md#shao26h-evaluation) · 中文
 - [DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions](../../conferences/icml-2026/cards/4001-4100.md#shao26j-evaluation) · 中文
 - [Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage](../../conferences/icml-2026/cards/4001-4100.md#sharma26a-evaluation) · 中文
 - [RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations](../../conferences/icml-2026/cards/4001-4100.md#sharma26b-evaluation) · 中文
-- [IDRBench: Understanding the Capability of Large Language Models on Interdisciplinary Research](../../conferences/icml-2026/cards/4001-4100.md#shen26d-evaluation) · 中文
 - [TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios](../../conferences/icml-2026/cards/4001-4100.md#shen26j-evaluation) · 中文
 - [DecepChain: Inducing Deceptive Reasoning in Large Language Models](../../conferences/icml-2026/cards/4001-4100.md#shen26p-evaluation) · 中文
 - [BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code](../../conferences/icml-2026/cards/4001-4100.md#shen26ac-evaluation) · 中文
@@ -470,14 +464,12 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](../../conferences/icml-2026/cards/3501-3600.md#park26c-evaluation) · 中文
 - [Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](../../conferences/icml-2026/cards/3701-3800.md#qu26h-evaluation) · 中文
 - [$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](../../conferences/icml-2026/cards/3801-3900.md#ray26a-evaluation) · 中文
-- [ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models](../../conferences/icml-2026/cards/3801-3900.md#roberts26a-evaluation) · 中文
 - [The Geometry of Representational Failures in Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#savietto26a-evaluation) · 中文
 - [VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#saxena26b-evaluation) · 中文
 - [Can Vision Language Models Learn Intuitive Physics from Interaction?](../../conferences/icml-2026/cards/3901-4000.md#schulze-buschoff26a-evaluation) · 中文
 - [BEDTime: A Unified Benchmark for Automatically Describing Time Series](../../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · 中文
 - [Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · 中文
 - [Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · 中文
-- [MMClima: A Framework for Multimodal Climate Science Data and Evaluation](../../conferences/icml-2026/cards/4001-4100.md#sheikh26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -528,7 +520,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · 中文
 - [Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · 中文
 - [CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning](../../conferences/icml-2026/cards/3501-3600.md#panayiotou26a-evaluation) · 中文
-- [Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](../../conferences/icml-2026/cards/3801-3900.md#reuel26a-evaluation) · 中文
 - [Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · 中文
 - [MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · 中文
 - [CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · 中文
@@ -581,7 +572,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control](../../conferences/icml-2026/cards/3301-3400.md#naagarajan26a-evaluation) · 中文
 - [Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models](../../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · 中文
 - [TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · 中文
-- [ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](../../conferences/icml-2026/cards/4001-4100.md#shen26h-evaluation) · 中文
 - [SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · 中文
-- [Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories](../../conferences/icml-2026/cards/4001-4100.md#shen26ae-evaluation) · 中文
 <!-- classification:end -->

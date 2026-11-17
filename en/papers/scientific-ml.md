@@ -312,7 +312,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="peng26d-inference"></a>[LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26d)
 - <a id="qin26j-inference"></a>[FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26j)
 - <a id="rehman26a-inference"></a>[Autoregressive Boltzmann Generators](../../conferences/icml-2026/cards/3801-3900.md#paper-rehman26a)
-- <a id="russo26b-inference"></a>[PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline](../../conferences/icml-2026/cards/3901-4000.md#paper-russo26b)
 - <a id="saberi26a-inference"></a>[Training-Free Adversarial Robustness in Computational MRI](../../conferences/icml-2026/cards/3901-4000.md#paper-saberi26a)
 - <a id="savary26a-inference"></a>[Training-Free Bayesian Filtering with Generative Emulators](../../conferences/icml-2026/cards/3901-4000.md#paper-savary26a)
 - <a id="serrano26a-inference"></a>[Test-time Generalization for Physics through Neural Operator Splitting](../../conferences/icml-2026/cards/4001-4100.md#paper-serrano26a)
@@ -417,9 +416,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="naagarajan26a-evaluation"></a>[Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control](../../conferences/icml-2026/cards/3301-3400.md#paper-naagarajan26a)
 - <a id="oota26a-evaluation"></a>[Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-oota26a)
 - <a id="oublal26a-evaluation"></a>[TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#paper-oublal26a)
-- <a id="shen26h-evaluation"></a>[ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26h)
 - <a id="shen26aa-evaluation"></a>[SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26aa)
-- <a id="shen26ae-evaluation"></a>[Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26ae)
 
 <a id="by-theory-statistics"></a>
 

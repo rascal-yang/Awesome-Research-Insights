@@ -546,7 +546,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · 中文
 - [Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · 中文
 - [DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · 中文
-- [LiveFigure: Generating Editable Scientific Illustration with VLM Agents](../../conferences/icml-2026/cards/4001-4100.md#shao26f-inference) · 中文
 - [Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · 中文
 
 <a id="by-ml-foundations"></a>
@@ -649,7 +648,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation](../../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · 中文
 - [FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation](../../conferences/icml-2026/cards/3701-3800.md#qin26j-inference) · 中文
 - [Autoregressive Boltzmann Generators](../../conferences/icml-2026/cards/3801-3900.md#rehman26a-inference) · 中文
-- [PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline](../../conferences/icml-2026/cards/3901-4000.md#russo26b-inference) · 中文
 - [Training-Free Adversarial Robustness in Computational MRI](../../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · 中文
 - [Training-Free Bayesian Filtering with Generative Emulators](../../conferences/icml-2026/cards/3901-4000.md#savary26a-inference) · 中文
 - [Test-time Generalization for Physics through Neural Operator Splitting](../../conferences/icml-2026/cards/4001-4100.md#serrano26a-inference) · 中文

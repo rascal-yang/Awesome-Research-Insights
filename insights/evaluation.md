@@ -244,9 +244,7 @@
 - [推理片段递归归因](../conferences/icml-2026/cards/3501-3600.md#pan26g-evaluation) · Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs
 - [以检查点反传校准省显存训练的对照](../conferences/icml-2026/cards/3501-3600.md#panchal26a-evaluation) · Memory Savings at What Cost? A Study of Alternatives to Backpropagation
 - [用专家身份干预拆解团队协同损失](../conferences/icml-2026/cards/3501-3600.md#pappu26a-evaluation) · Multi-Agent Teams Hold Experts Back
-- [分开测辅助改写的语义与负担](../conferences/icml-2026/cards/3601-3700.md#pattnayak26a-evaluation) · Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints
 - [真假数学命题成对评测](../conferences/icml-2026/cards/3601-3700.md#petrov26a-evaluation) · BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs
-- [在对齐测试中逐步增加压力](../conferences/icml-2026/cards/3601-3700.md#petrova26a-evaluation) · Pressure Reveals Character: Behavioural Alignment Evaluation at Depth
 - [干预注意力头的时间重现方向](../conferences/icml-2026/cards/3601-3700.md#pink26a-evaluation) · Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models
 - [用图任务分离低温推理循环机制](../conferences/icml-2026/cards/3601-3700.md#pipis26a-evaluation) · Wait, Wait, Wait... Why Do Reasoning Models Loop?
 - [用过程指标识别多智能体辩论中的支配和附和](../conferences/icml-2026/cards/3601-3700.md#pitre26a-evaluation) · A Diagnostic Study of Multi-Agent LLMs for Real-World Debates
@@ -260,7 +258,6 @@
 - [成对评审的无标签区分力估计](../conferences/icml-2026/cards/3701-3800.md#qian26i-evaluation) · Who can we trust? LLM-as-a-jury for Comparative Assessment
 - [用对比人格方向定位注意头](../conferences/icml-2026/cards/3701-3800.md#qin26h-evaluation) · Tracing the Persona Circuit: How Large Language Models Encode and Express Character Traits
 - [从词组交互测提示敏感性](../conferences/icml-2026/cards/3701-3800.md#qin26i-evaluation) · Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions
-- [AI 智能体的多维可靠性评测](../conferences/icml-2026/cards/3701-3800.md#rabanser26a-evaluation) · Towards a Science of AI Agent Reliability
 - [按曝光时机拆解选项线索](../conferences/icml-2026/cards/3801-3900.md#raman26a-evaluation) · Reasoning Models Are Test Exploiters: Rethinking Multiple Choice
 - [不完全信息下的 Hanabi 协作推理](../conferences/icml-2026/cards/3801-3900.md#ramesh26a-evaluation) · Sparks of Cooperative Reasoning: LLMs as Strategic Hanabi Agents
 - [面向自动后训练的智能体基准](../conferences/icml-2026/cards/3801-3900.md#rank26a-evaluation) · PostTrainBench: Can LLM Agents Automate LLM Post-Training?
@@ -275,17 +272,14 @@
 - [同时比较扩散语言模型的似然扩展和生成效率](../conferences/icml-2026/cards/3901-4000.md#sahoo26a-evaluation) · Scaling Beyond Masked Diffusion Language Models
 - [用强制语义选择探测隐藏表示](../conferences/icml-2026/cards/3901-4000.md#schiekiera26a-evaluation) · From Associations to Activations: Comparing Behavioral and Hidden-State Semantic Geometry in LLMs
 - [在攻击与受测模型分层校准裁判](../conferences/icml-2026/cards/3901-4000.md#schwinn26a-evaluation) · A Coin Flip for Safety: LLM Judges Fail to Reliably Measure Adversarial Robustness
-- [把正确性和负载回归纳入代码加速评分](../conferences/icml-2026/cards/3901-4000.md#sehgal26a-evaluation) · FormulaCode: Evaluating Agentic Optimization on Large Codebases
 - [把实验结果准确率与自报可预测性一起测](../conferences/icml-2026/cards/3901-4000.md#sehwag26a-evaluation) · SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?
 - [用激活判别复核微调接口安全性](../conferences/icml-2026/cards/3901-4000.md#sel26a-evaluation) · Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning
 - [校准罕见动作频率以估计安全抽检的盲区](../conferences/icml-2026/cards/4001-4100.md#serrano26b-evaluation) · Frontier Models Can Take Actions at Low Probabilities
 - [用跨层 SAE 特征转移识别近域异常请求](../conferences/icml-2026/cards/4001-4100.md#shaheen26a-evaluation) · Domain Restriction via Multi SAE Layer Transitions
 - [用可验证的符号扰动区分数学泛化和题型记忆](../conferences/icml-2026/cards/4001-4100.md#shalyt26a-evaluation) · ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark
-- [分别验证找对论文与接对引文链](../conferences/icml-2026/cards/4001-4100.md#shao26h-evaluation) · SciNet: Evaluating AI Agents in Relation-Aware Scientific Literature Retrieval
 - [用实际解码阶段筛选干预方向](../conferences/icml-2026/cards/4001-4100.md#shao26j-evaluation) · DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions
 - [分辨对话中的风险与可见实际影响](../conferences/icml-2026/cards/4001-4100.md#sharma26a-evaluation) · Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage
 - [用评分衰减曲线定位细则缺口](../conferences/icml-2026/cards/4001-4100.md#sharma26b-evaluation) · RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations
-- [把跨学科研判拆成论文识别、想法整合和推荐](../conferences/icml-2026/cards/4001-4100.md#shen26d-evaluation) · IDRBench: Understanding the Capability of Large Language Models on Interdisciplinary Research
 - [多轮旅行规划及逐轮奖励评测](../conferences/icml-2026/cards/4001-4100.md#shen26j-evaluation) · TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios
 - [貌似可信推理的欺骗行为压力测试](../conferences/icml-2026/cards/4001-4100.md#shen26p-evaluation) · DecepChain: Inducing Deceptive Reasoning in Large Language Models
 - [按子任务规模联合检验代码时空效率](../conferences/icml-2026/cards/4001-4100.md#shen26ac-evaluation) · BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code
@@ -470,14 +464,12 @@
 - [用最小视觉反例训练多模态裁判](../conferences/icml-2026/cards/3501-3600.md#park26c-evaluation) · Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
 - [移动 GUI 智能体的半在线评估](../conferences/icml-2026/cards/3701-3800.md#qu26h-evaluation) · Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation
 - [以音频时钟复现全双工工具任务](../conferences/icml-2026/cards/3801-3900.md#ray26a-evaluation) · $τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains
-- [通过对抗筛题延长视觉推理评测寿命](../conferences/icml-2026/cards/3801-3900.md#roberts26a-evaluation) · ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models
 - [视觉语言模型的概念几何干扰](../conferences/icml-2026/cards/3901-4000.md#savietto26a-evaluation) · The Geometry of Representational Failures in Vision Language Models
 - [用无图对照校准视觉退化损失](../conferences/icml-2026/cards/3901-4000.md#saxena26b-evaluation) · VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models
 - [交叉测试物理能力与任务捷径](../conferences/icml-2026/cards/3901-4000.md#schulze-buschoff26a-evaluation) · Can Vision Language Models Learn Intuitive Physics from Interaction?
 - [跨模态时序描述的基础评测](../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · BEDTime: A Unified Benchmark for Automatically Describing Time Series
 - [沿 Flow Matching 插值路径定位训练成员信号](../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path
 - [用唇形与头部姿态的协调关系检测及归因伪造](../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses
-- [用可追溯气候主张生成并核验跨模态题库](../conferences/icml-2026/cards/4001-4100.md#sheikh26a-evaluation) · MMClima: A Framework for Multimodal Climate Science Data and Evaluation
 
 <a id="by-ml-foundations"></a>
 
@@ -528,7 +520,6 @@
 - [先集成预测函数再估特征重要性](../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · Aggregate Models, Not Explanations: Improving Feature Importance Estimation
 - [用态密度测随机插值与梯度泛化](../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · Revisiting the Volume Hypothesis
 - [结构因果基准取样](../conferences/icml-2026/cards/3501-3600.md#panayiotou26a-evaluation) · CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning
-- [按发布主体和影响类别审计基础模型评测披露](../conferences/icml-2026/cards/3801-3900.md#reuel26a-evaluation) · Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations
 - [扩散模型优先复现常见局部特征](../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?
 - [用随机区域统计比较条件分布](../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · MIRA: A Score for Conditional Distribution Accuracy and Model Comparison
 - [按模型互信息和阈值验证抽取后的所有权](../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks
@@ -581,7 +572,5 @@
 - [融合物理与约束证据解释控制动作](../conferences/icml-2026/cards/3301-3400.md#naagarajan26a-evaluation) · Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control
 - [把大脑信号对齐和语言技能分开测量](../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models
 - [用概念重组测试分布外时序解释](../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models
-- [电力最优潮流建模的可执行评测](../conferences/icml-2026/cards/4001-4100.md#shen26h-evaluation) · ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling
 - [从工具依赖图合成带修复轨迹](../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents
-- [沿训练轨迹测脑表征对齐的先后](../conferences/icml-2026/cards/4001-4100.md#shen26ae-evaluation) · Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories
 <!-- classification:end -->

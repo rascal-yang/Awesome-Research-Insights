@@ -328,7 +328,6 @@
 - <a id="qiu26v-inference"></a>[VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26v)
 - <a id="rout26a-inference"></a>[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../conferences/icml-2026/cards/3801-3900.md#paper-rout26a)
 - <a id="seo26b-inference"></a>[DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../conferences/icml-2026/cards/3901-4000.md#paper-seo26b)
-- <a id="shao26f-inference"></a>[LiveFigure: Generating Editable Scientific Illustration with VLM Agents](../conferences/icml-2026/cards/4001-4100.md#paper-shao26f)
 - <a id="shen26y-inference"></a>[Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../conferences/icml-2026/cards/4001-4100.md#paper-shen26y)
 
 <a id="by-representation-learning"></a>
@@ -447,14 +446,12 @@
 - <a id="park26c-evaluation"></a>[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](../conferences/icml-2026/cards/3501-3600.md#paper-park26c)
 - <a id="qu26h-evaluation"></a>[Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](../conferences/icml-2026/cards/3701-3800.md#paper-qu26h)
 - <a id="ray26a-evaluation"></a>[$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](../conferences/icml-2026/cards/3801-3900.md#paper-ray26a)
-- <a id="roberts26a-evaluation"></a>[ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models](../conferences/icml-2026/cards/3801-3900.md#paper-roberts26a)
 - <a id="savietto26a-evaluation"></a>[The Geometry of Representational Failures in Vision Language Models](../conferences/icml-2026/cards/3901-4000.md#paper-savietto26a)
 - <a id="saxena26b-evaluation"></a>[VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models](../conferences/icml-2026/cards/3901-4000.md#paper-saxena26b)
 - <a id="schulze-buschoff26a-evaluation"></a>[Can Vision Language Models Learn Intuitive Physics from Interaction?](../conferences/icml-2026/cards/3901-4000.md#paper-schulze-buschoff26a)
 - <a id="sen26a-evaluation"></a>[BEDTime: A Unified Benchmark for Automatically Describing Time Series](../conferences/icml-2026/cards/3901-4000.md#paper-sen26a)
 - <a id="sesmat26a-evaluation"></a>[Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../conferences/icml-2026/cards/4001-4100.md#paper-sesmat26a)
 - <a id="she26a-evaluation"></a>[Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../conferences/icml-2026/cards/4001-4100.md#paper-she26a)
-- <a id="sheikh26a-evaluation"></a>[MMClima: A Framework for Multimodal Climate Science Data and Evaluation](../conferences/icml-2026/cards/4001-4100.md#paper-sheikh26a)
 
 <a id="by-theory-statistics"></a>
 

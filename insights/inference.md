@@ -546,7 +546,6 @@
 - [让长视频规划与最终答题证据权限分离](../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority
 - [在离散去噪中先解码可靠锚点](../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · Test-Time Anchoring for Discrete Diffusion Posterior Sampling
 - [按逐层熵变选择视觉对比分支](../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models
-- [把科学插图生成落到可编辑对象](../conferences/icml-2026/cards/4001-4100.md#shao26f-inference) · LiveFigure: Generating Editable Scientific Illustration with VLM Agents
 - [用固定频谱工作区推进视觉思考](../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning
 
 <a id="by-ml-foundations"></a>
@@ -649,7 +648,6 @@
 - [稀疏观测双引导同化](../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation
 - [在后验流中按似然重采样](../conferences/icml-2026/cards/3701-3800.md#qin26j-inference) · FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation
 - [在部分分子构象上提前校正采样](../conferences/icml-2026/cards/3801-3900.md#rehman26a-inference) · Autoregressive Boltzmann Generators
-- [以已知接触位点排序新蛋白互作](../conferences/icml-2026/cards/3901-4000.md#russo26b-inference) · PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline
 - [用重采样一致性校正受扰观测](../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · Training-Free Adversarial Robustness in Computational MRI
 - [生成式动力学模拟器的免训练贝叶斯滤波](../conferences/icml-2026/cards/3901-4000.md#savary26a-inference) · Training-Free Bayesian Filtering with Generative Emulators
 - [在推断时组合训练好的 PDE 算子外推新物理](../conferences/icml-2026/cards/4001-4100.md#serrano26a-inference) · Test-time Generalization for Physics through Neural Operator Splitting

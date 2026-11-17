@@ -325,7 +325,6 @@ Learning from interaction, feedback, and offline experience.
 - <a id="roch26b-theory-statistics"></a>[Distributionally Robust Markov Games with Average Reward](../../conferences/icml-2026/cards/3801-3900.md#paper-roch26b)
 - <a id="russo26a-theory-statistics"></a>[Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success](../../conferences/icml-2026/cards/3901-4000.md#paper-russo26a)
 - <a id="ryabchenko26a-theory-statistics"></a>[Reinforcement Learning with Action-Triggered Observations](../../conferences/icml-2026/cards/3901-4000.md#paper-ryabchenko26a)
-- <a id="sarkar26b-theory-statistics"></a>[Improved Algorithms for Nash Welfare in Linear Bandits](../../conferences/icml-2026/cards/3901-4000.md#paper-sarkar26b)
 - <a id="schnitzer26a-theory-statistics"></a>[Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#paper-schnitzer26a)
 - <a id="shao26c-theory-statistics"></a>[The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints](../../conferences/icml-2026/cards/4001-4100.md#paper-shao26c)
 <!-- classification:end -->
