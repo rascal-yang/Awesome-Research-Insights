@@ -312,6 +312,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Task-Awareness Improves LLM Generations and Uncertainty](../../conferences/icml-2026/cards/4401-4500.md#tomov26a-inference) · 中文
 - [DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling](../../conferences/icml-2026/cards/4501-4600.md#tu26c-inference) · 中文
 - [FPTQuant: Function-Preserving Transforms for LLM Quantization](../../conferences/icml-2026/cards/4501-4600.md#van-breugel26a-inference) · 中文
+- [The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](../../conferences/icml-2026/cards/4501-4600.md#wan26p-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -421,6 +422,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing](../../conferences/icml-2026/cards/4401-4500.md#tong26k-inference) · 中文
 - [Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions](../../conferences/icml-2026/cards/4501-4600.md#nguyen26v-inference) · 中文
 - [Saving Foundation Flow-Matching Priors for Inverse Problems](../../conferences/icml-2026/cards/4501-4600.md#wan26b-inference) · 中文
+- [Video-SVD: Efficient Video Diffusion via Orthogonal Basis Composition](../../conferences/icml-2026/cards/4501-4600.md#wan26g-inference) · 中文
+- [General and Efficient Steering of Unconditional Diffusion Models](../../conferences/icml-2026/cards/4501-4600.md#wang26g-inference) · 中文
+- [Training-Free Rate-Distortion-Perception Traversal With Diffusion](../../conferences/icml-2026/cards/4501-4600.md#wang26i-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -594,6 +598,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Neutral-Reference Prompting for Vision–Language Models](../../conferences/icml-2026/cards/4401-4500.md#tian26j-inference) · 中文
 - [Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models](../../conferences/icml-2026/cards/4401-4500.md#tong26f-inference) · 中文
 - [RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](../../conferences/icml-2026/cards/4501-4600.md#wan26d-inference) · 中文
+- [ActiveScope: Actively Seeking and Correcting Perception for MLLMs](../../conferences/icml-2026/cards/4501-4600.md#wang26h-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -645,6 +650,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [CountsDiff: A diffusion model on the natural numbers for generation and imputation of count-based data](../../conferences/icml-2026/cards/4101-4200.md#soatto26a-inference) · 中文
 - [Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?](../../conferences/icml-2026/cards/4201-4300.md#sommer26a-inference) · 中文
 - [Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation](../../conferences/icml-2026/cards/4301-4400.md#sun26ae-inference) · 中文
+- [Corrected Samplers for Discrete Flow Models](../../conferences/icml-2026/cards/4501-4600.md#wan26j-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

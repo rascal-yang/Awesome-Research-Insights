@@ -409,6 +409,7 @@
 - [无真实数据的KFAC预条件](../conferences/icml-2026/cards/4501-4600.md#van-den-bosch26a-optimization) · DP-KFC: Data-Free Preconditioning for Privacy-Preserving Deep Learning
 - [遗忘梯度作零均值控制变量](../conferences/icml-2026/cards/4501-4600.md#van-waerebeke26a-optimization) · Variance-Reduced $(\varepsilon, δ)-$Unlearning using Forget Set Gradients
 - [在有效DAG空间内优化](../conferences/icml-2026/cards/4501-4600.md#vinas-torne26a-optimization) · PACER: Acyclic Causal Discovery from Large-scale Interventional Data
+- [private-ridge-curvature-guard](../conferences/icml-2026/cards/4501-4600.md#wang26f-optimization) · Decoupling Regularization and Privacy in Differentially Private Ridge Regression and ERM
 
 <a id="by-graph-and-recommendation"></a>
 

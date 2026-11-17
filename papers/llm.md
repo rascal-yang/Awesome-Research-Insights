@@ -912,6 +912,7 @@
 - <a id="tomov26a-inference"></a>[Task-Awareness Improves LLM Generations and Uncertainty](../conferences/icml-2026/cards/4401-4500.md#paper-tomov26a)
 - <a id="tu26c-inference"></a>[DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling](../conferences/icml-2026/cards/4501-4600.md#paper-tu26c)
 - <a id="van-breugel26a-inference"></a>[FPTQuant: Function-Preserving Transforms for LLM Quantization](../conferences/icml-2026/cards/4501-4600.md#paper-van-breugel26a)
+- <a id="wan26p-inference"></a>[The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](../conferences/icml-2026/cards/4501-4600.md#paper-wan26p)
 
 <a id="by-representation-learning"></a>
 
@@ -1250,6 +1251,8 @@
 - <a id="venhoff26a-evaluation"></a>[Base Models Know How to Reason, Thinking Models Learn When](../conferences/icml-2026/cards/4501-4600.md#paper-venhoff26a)
 - <a id="venkataramani26a-evaluation"></a>[MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems](../conferences/icml-2026/cards/4501-4600.md#paper-venkataramani26a)
 - <a id="vergara-browne26a-evaluation"></a>[Operationalising the Superficial Alignment Hypothesis via Task Complexity](../conferences/icml-2026/cards/4501-4600.md#paper-vergara-browne26a)
+- <a id="wang26b-evaluation"></a>[Automatically Finding Reward Model Biases](../conferences/icml-2026/cards/4501-4600.md#paper-wang26b)
+- <a id="wang26d-evaluation"></a>[FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights](../conferences/icml-2026/cards/4501-4600.md#paper-wang26d)
 
 <a id="by-theory-statistics"></a>
 

@@ -326,6 +326,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Base Models Know How to Reason, Thinking Models Learn When](../../conferences/icml-2026/cards/4501-4600.md#venhoff26a-evaluation) · 中文
 - [MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems](../../conferences/icml-2026/cards/4501-4600.md#venkataramani26a-evaluation) · 中文
 - [Operationalising the Superficial Alignment Hypothesis via Task Complexity](../../conferences/icml-2026/cards/4501-4600.md#vergara-browne26a-evaluation) · 中文
+- [Automatically Finding Reward Model Biases](../../conferences/icml-2026/cards/4501-4600.md#wang26b-evaluation) · 中文
+- [FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights](../../conferences/icml-2026/cards/4501-4600.md#wang26d-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -528,6 +530,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26t-evaluation) · 中文
 - [ModernVBERT: Towards Smaller Visual Document Retrievers](../../conferences/icml-2026/cards/4401-4500.md#teiletche26a-evaluation) · 中文
 - [How can embedding models bind concepts?](../../conferences/icml-2026/cards/4501-4600.md#uselis26b-evaluation) · 中文
+- [Multimodal Fact-Level Attribution for Verifiable Reasoning](../../conferences/icml-2026/cards/4501-4600.md#wan26m-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

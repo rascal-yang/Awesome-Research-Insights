@@ -312,6 +312,7 @@
 - [任务结构空间中的Bayes合成](../conferences/icml-2026/cards/4401-4500.md#tomov26a-inference) · Task-Awareness Improves LLM Generations and Uncertainty
 - [stepwise-difficulty-control](../conferences/icml-2026/cards/4501-4600.md#tu26c-inference) · DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling
 - [利用等变性重排量化变换](../conferences/icml-2026/cards/4501-4600.md#van-breugel26a-inference) · FPTQuant: Function-Preserving Transforms for LLM Quantization
+- [reasoning-budget-abandonment](../conferences/icml-2026/cards/4501-4600.md#wan26p-inference) · The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -421,6 +422,9 @@
 - [熵感知视觉稀疏注意力](../conferences/icml-2026/cards/4401-4500.md#tong26k-inference) · Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing
 - [图像扩散后验的Stein校正](../conferences/icml-2026/cards/4501-4600.md#nguyen26v-inference) · Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions
 - [可学习起点与高斯薄壳约束](../conferences/icml-2026/cards/4501-4600.md#wan26b-inference) · Saving Foundation Flow-Matching Priors for Inverse Problems
+- [video-attention-bases](../conferences/icml-2026/cards/4501-4600.md#wan26g-inference) · Video-SVD: Efficient Video Diffusion via Orthogonal Basis Composition
+- [noise-window-activation-steering](../conferences/icml-2026/cards/4501-4600.md#wang26g-inference) · General and Efficient Steering of Unconditional Diffusion Models
+- [score-scaled-compression-decoder](../conferences/icml-2026/cards/4501-4600.md#wang26i-inference) · Training-Free Rate-Distortion-Perception Traversal With Diffusion
 
 <a id="by-nlp"></a>
 
@@ -594,6 +598,7 @@
 - [neutral-reference-pairwise-correction](../conferences/icml-2026/cards/4401-4500.md#tian26j-inference) · Neutral-Reference Prompting for Vision–Language Models
 - [跨模型答案熵选路](../conferences/icml-2026/cards/4401-4500.md#tong26f-inference) · Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models
 - [密集重建视觉token的范数选择和保守合并](../conferences/icml-2026/cards/4501-4600.md#wan26d-inference) · RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference
+- [target-specific-attention-correction](../conferences/icml-2026/cards/4501-4600.md#wang26h-inference) · ActiveScope: Actively Seeking and Correcting Perception for MLLMs
 
 <a id="by-ml-foundations"></a>
 
@@ -645,6 +650,7 @@
 - [自然数扩散的可纠错逆过程](../conferences/icml-2026/cards/4101-4200.md#soatto26a-inference) · CountsDiff: A diffusion model on the natural numbers for generation and imputation of count-based data
 - [微正则采样噪声纠偏](../conferences/icml-2026/cards/4201-4300.md#sommer26a-inference) · Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?
 - [temperature-amortized-posterior](../conferences/icml-2026/cards/4301-4400.md#sun26ae-inference) · Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation
+- [corrected-discrete-flow-sampling](../conferences/icml-2026/cards/4501-4600.md#wan26j-inference) · Corrected Samplers for Discrete Flow Models
 
 <a id="by-graph-and-recommendation"></a>
 

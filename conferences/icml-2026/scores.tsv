@@ -4570,26 +4570,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4569	wan26c	4	4	3	4	76		联邦学习隐私评测应覆盖客户端自适应优化后的参数更新，并明确初始优化器状态是否可见；隐藏原始梯度本身不能作为隐私保证。（PDF第3、6、7页）；新增量见与最近方法对照和限定条件。 可用边界：强条件包括已知初始状态和单客户端更新可见；默认随机权重不代表所有部署；不推及未知状态或安全聚合必失效。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26c/wan26c.pdf	scored
 4570	wan26d	3	3	4	3	64		密集OCR压缩应优先保留高范数视觉token，再用带拒绝槽的匹配吸收剩余信息；压缩率需受文本密度约束，不能沿用稀疏VQA压缩率。（PDF第4、5、8、9页）；新增量见与最近方法对照和限定条件。 可用边界：实际是保留原性能的比例而非99%以上绝对OCR正确率；Base动态olmOCR仍从72.4降至63.7；验证迁移限OCR架构，dense感知迁移尚未验证，范数与注意力相关不证明两次阅读因果。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26d/wan26d.pdf	scored
 4571	wan26e	3	4	3	3	66		返回后探索已有Go-Explore先例，新增量限定两种视频进展/前驱一致性损失，消融16.0%对14.2%支持有限增益；能改变阶段表示损失选择，非把整条搜索管线计为新算法。确定固定种子从同初始状态重放是关键，不是一般随机真实机器人保证；仍用50标注clip；不能把PFR-guided RL结果当无策略搜索结果；规划及前向成功率均有限。；阶段损失假设进展大体单向，含必要回退的任务未验证；返回后探索的先例：https://www.nature.com/articles/s41586-020-03157-9 。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26e/wan26e.pdf	scored
-4572	wan26f							待原文复核评分	pending
-4573	wan26g							待原文复核评分	pending
-4574	wan26h							待原文复核评分	pending
-4575	wan26i							待原文复核评分	pending
-4576	wan26j							待原文复核评分	pending
-4577	wan26k							待原文复核评分	pending
-4578	wan26l							待原文复核评分	pending
-4579	wan26m							待原文复核评分	pending
-4580	wan26n							待原文复核评分	pending
-4581	wan26o							待原文复核评分	pending
-4582	wan26p							待原文复核评分	pending
-4583	wang26a							待原文复核评分	pending
-4584	wang26b							待原文复核评分	pending
-4585	wang26c							待原文复核评分	pending
-4586	wang26d							待原文复核评分	pending
-4587	wang26e							待原文复核评分	pending
-4588	wang26f							待原文复核评分	pending
-4589	wang26g							待原文复核评分	pending
-4590	wang26h							待原文复核评分	pending
-4591	wang26i							待原文复核评分	pending
+4572	wan26f	3	4	4	3	70		跨视角动作分布目标改变latent-action监督，去一致性控制支持增量；DINO成熟降低新增量，实际world-model/control验证增加可用性（PDF3–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26f/wan26f.pdf	scored
+4573	wan26g	3	4	3	3	66		共享混合结构基和残差补偿改变attention近似选择；实测两骨干，但存储、二次矩阵运算和投影启发式限制可用性（PDF4–6）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26g/wan26g.pdf	scored
+4574	wan26h							OpenMAG主要统一19数据集/16编码器/24模型/8任务；正文C1–C4明确援引既有多模态融合/邻居聚合结论，其余编码器、质量与鲁棒性比较尚未给出超出现有模态质量/噪声规律且能改变具身或通用深度学习具体选择的独立机制；不以覆盖广或跑分作为新增量（PDF4–9）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26h/wan26h.pdf	rule-excluded
+4575	wan26i	4	4	4	4	80		范数权重+单位球目标是可直接替换的神经预测损失，方向保持给出条件；不把训练免solver扩大为全流程免solver（PDF3–5）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26i/wan26i.pdf	scored
+4576	wan26j	4	4	4	4	80		独立区分两种冻结误差并给出针对性采样操作；条件复杂度和匹配时间模拟均支持选择，不能宣称所有source同等收益（PDF5–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26j/wan26j.pdf	scored
+4577	wan26k	3	3	3	3	60		保留速率裁剪与早停的条件选择，和4576数值修正分开；统计假设使直接可用性有限（PDF4–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26k/wan26k.pdf	scored
+4578	wan26l							最近方法GIBO2021已用函数观测降低当前参数处梯度后验协方差trace，并以Gaussian conditioning使获取不依赖未知观测值。GVALID改为context上各posterior-mean最优点求和、一次性context和Schur批量更新；强凹/内部stationarity下显式regret界未建立超出既有局部梯度采集的新可操作边界，核心获取机制重复，问题扩展不足以独立保留（本作PDF3–6；[GIBO原文PDF5–6](https://proceedings.neurips.cc/paper/2021/file/ad0f7a25211abc3889cb0f420c85e671-Paper.pdf#page=5)）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26l/wan26l.pdf	rule-excluded
+4579	wan26m	3	4	4	3	70		原子事实引用评测及thinking/归因分离经验改变MLLM诊断选择；自动评估有人工相关性但近似偏差仍在（PDF5–9）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26m/wan26m.pdf	scored
+4580	wan26n	3	4	4	3	70		双通道动作MSE是能独立复用的稳定化操作，PDF22权重控制支持贡献；PDF25明确DRAIL先例，降低机制新颖/独特分。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26n/wan26n.pdf	scored
+4581	wan26o	3	4	4	3	70		逐图头类代理教师及双线索选择是较CAM蒸馏的局部设计；多骨干和权重消融提升可用性，存在负结果（PDF5–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26o/wan26o.pdf	scored
+4582	wan26p	3	4	3	3	66		启动阈值与放弃条件能改变批量预算策略，有限预算有实证；影子价格理论受非凹代理与预测误差限制（PDF3–6）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26p/wan26p.pdf	scored
+4583	wang26a							LEC的E[accepted-error]/E[accepted]改写是恒等式；新增候选为累计(err−αS)≤−1后最大化保留率，但PDF14 Eq17将只由校准集选出的阈值直接视为对校准与测试对称，未建立该关键等式；signed loss非单调，不能直接套用CRC。其余为现有selective/routing校准与基准保留率比较，未隔离另一个可靠且可复用的新机制/经验边界（PDF3–6、13–15）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26a/wang26a.pdf	rule-excluded
+4584	wang26b	3	4	4	3	70		双目标审计与多改写验证改变奖励诊断方法，发现子分布与属性频率边界；演化算法自身成熟，独特性中等（PDF3–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26b/wang26b.pdf	scored
+4585	wang26c							全文将标准DeepBSDE终端匹配求解器用于score场，PDF4/5的Lipschitz存在唯一性不建立保持原扩散prior的逆映射；PDF16实现与PDF23 F6 driver符号不统一，固定Ψ(y)与后续anchor加噪采样的测量一致性未被相同保证覆盖。CT终端约束仍靠解码/投影映射；未隔离出超出现成BSDE求解+projection/inversion且可明确复用的新操作，分数提升不足以补足（PDF4–7、16–18、23）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26c/wang26c.pdf	rule-excluded
+4586	wang26d	3	4	4	3	70		逐claim重发现评测能改变研究agent验收和控制设计诊断，不将低F1本身作为机制；跨任务成本边界明确（PDF3–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26d/wang26d.pdf	scored
+4587	wang26e	3	4	4	3	70		双阶段奖励与视觉重采选择有受控Refine-only/单段证据，不能把单纯管线组合或主表非匹配提升当机制（PDF4–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26e/wang26e.pdf	scored
+4588	wang26f	3	4	4	3	70		双参数全局guard可改变有界冻结特征ridge的α/noise选择；Wang2018已有谱自适应，新增量是固定全局输出敏感度及显式风险条件，非首个谱稳定化。算法输入/偏差代价明确，外部协方差与直接最近基线缺失限制证据（PDF3–9；Wang2018 PDF7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26f/wang26f.pdf	scored
+4589	wang26g	3	4	4	3	70		噪声窗口选择及前向激活跨时间复用是具体增量，单组件控制展示精度质量取舍；PCA/RFM和steering来源成熟（PDF4–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26g/wang26g.pdf	scored
+4590	wang26h	4	4	4	3	77		目标特定的拒绝区域attention边屏蔽超出普通crop搜索，多目标控制给出机制证据；适配要求和自验证偏差限制复用（PDF3–6）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26h/wang26h.pdf	scored
+4591	wang26i	4	4	4	4	80		score缩放提供独立decoder调节操作，和原DiffC相比新增同码率DP轴；Gaussian/逐维/渐近条件与真实图像启发式明确区分（PDF3–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26i/wang26i.pdf	scored
 4592	wang26j							待原文复核评分	pending
 4593	wang26k							待原文复核评分	pending
 4594	wang26l							待原文复核评分	pending

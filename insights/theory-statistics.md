@@ -567,6 +567,7 @@
 - [按误差与有效直径选择核均值特征](../conferences/icml-2026/cards/4501-4600.md#wagner26a-theory-statistics) · New Bounds for Kernel Sums via Fast Spherical Embeddings
 - [测试时更新的谱匹配](../conferences/icml-2026/cards/4501-4600.md#wakayama26a-theory-statistics) · A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt
 - [单样本预测器的单调保形聚合](../conferences/icml-2026/cards/4501-4600.md#waldron26a-theory-statistics) · CAOS: Conformal Aggregation of One-Shot Predictors
+- [discrete-flow-error-budget](../conferences/icml-2026/cards/4501-4600.md#wan26k-theory-statistics) · Error Analysis of Discrete Flow with Generator Matching
 
 <a id="by-graph-and-recommendation"></a>
 

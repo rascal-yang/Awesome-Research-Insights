@@ -173,6 +173,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="tao26f-loss-functions"></a>[The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26f)
 - <a id="torkamani26a-loss-functions"></a>[Magnitude Distance: A Geometric Measure of Dataset Similarity](../../conferences/icml-2026/cards/4401-4500.md#paper-torkamani26a)
 - <a id="tran26h-loss-functions"></a>[Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26h)
+- <a id="wan26i-loss-functions"></a>[A Solver-Free Training Method for Predict-then-Optimize](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26i)
 
 <a id="by-optimization"></a>
 
@@ -415,6 +416,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="van-den-bosch26a-optimization"></a>[DP-KFC: Data-Free Preconditioning for Privacy-Preserving Deep Learning](../../conferences/icml-2026/cards/4501-4600.md#paper-van-den-bosch26a)
 - <a id="van-waerebeke26a-optimization"></a>[Variance-Reduced $(\varepsilon, δ)-$Unlearning using Forget Set Gradients](../../conferences/icml-2026/cards/4501-4600.md#paper-van-waerebeke26a)
 - <a id="vinas-torne26a-optimization"></a>[PACER: Acyclic Causal Discovery from Large-scale Interventional Data](../../conferences/icml-2026/cards/4501-4600.md#paper-vinas-torne26a)
+- <a id="wang26f-optimization"></a>[Decoupling Regularization and Privacy in Differentially Private Ridge Regression and ERM](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26f)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -582,6 +584,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="soatto26a-inference"></a>[CountsDiff: A diffusion model on the natural numbers for generation and imputation of count-based data](../../conferences/icml-2026/cards/4101-4200.md#paper-soatto26a)
 - <a id="sommer26a-inference"></a>[Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?](../../conferences/icml-2026/cards/4201-4300.md#paper-sommer26a)
 - <a id="sun26ae-inference"></a>[Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ae)
+- <a id="wan26j-inference"></a>[Corrected Samplers for Discrete Flow Models](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26j)
 
 <a id="by-representation-learning"></a>
 
@@ -1085,4 +1088,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wagner26a-theory-statistics"></a>[New Bounds for Kernel Sums via Fast Spherical Embeddings](../../conferences/icml-2026/cards/4501-4600.md#paper-wagner26a)
 - <a id="wakayama26a-theory-statistics"></a>[A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt](../../conferences/icml-2026/cards/4501-4600.md#paper-wakayama26a)
 - <a id="waldron26a-theory-statistics"></a>[CAOS: Conformal Aggregation of One-Shot Predictors](../../conferences/icml-2026/cards/4501-4600.md#paper-waldron26a)
+- <a id="wan26k-theory-statistics"></a>[Error Analysis of Discrete Flow with Generator Matching](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26k)
 <!-- classification:end -->

@@ -253,6 +253,7 @@
 - [用后继观察降低少标注动作学习难度](../conferences/icml-2026/cards/3301-3400.md#morin26a-training-strategies) · On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning
 - [用未来交互表示微调少示范策略](../conferences/icml-2026/cards/3401-3500.md#nguyen26b-training-strategies) · FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation
 - [为RL保留动作后验覆盖](../conferences/icml-2026/cards/4501-4600.md#wagenmaker26a-training-strategies) · Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning
+- [dual-on-policy-distillation](../conferences/icml-2026/cards/4501-4600.md#wan26n-training-strategies) · Adversarial Dual On-Policy Distillation from Expressive Teacher
 
 <a id="by-multimodal"></a>
 
@@ -309,6 +310,7 @@
 - [scale-conditioned-spatial-learning](../conferences/icml-2026/cards/4201-4300.md#sun26q-training-strategies) · SpaceVista: All-Scale Visual Spatial Reasoning from mm to km
 - [统一多模态的数据与目标耦合](../conferences/icml-2026/cards/4401-4500.md#tong26c-training-strategies) · Beyond Language Modeling: An Exploration of Multimodal Pretraining
 - [无配对跨模态分阶段适配](../conferences/icml-2026/cards/4401-4500.md#tran26e-training-strategies) · Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm
+- [answer-coupled-video-localization](../conferences/icml-2026/cards/4501-4600.md#wang26e-training-strategies) · Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning
 
 <a id="by-ml-foundations"></a>
 

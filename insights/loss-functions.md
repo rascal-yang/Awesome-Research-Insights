@@ -84,6 +84,7 @@
 - [persistent-connectivity-regularization](../conferences/icml-2026/cards/4301-4400.md#sun26ai-loss-functions) · Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology
 - [clean-forward-noisy-backward-edit-cycle](../conferences/icml-2026/cards/4401-4500.md#tewel26a-loss-functions) · Unpaired Visual Editing with Self-Consistent Flow Matching
 - [trajectory-consistent-koopman](../conferences/icml-2026/cards/4501-4600.md#turan26c-loss-functions) · Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization
+- [head-proxy-cam-distillation](../conferences/icml-2026/cards/4501-4600.md#wan26o-loss-functions) · Shortcut-Resistant CAM Distillation for Long-Tailed Recognition
 
 <a id="by-nlp"></a>
 
@@ -119,6 +120,7 @@
 - [用本体状态距离给视觉摘要提供软监督](../conferences/icml-2026/cards/2101-2200.md#kim26ao-loss-functions) · Contrastive Representation Regularization for Vision-Language-Action Models
 - <a id="align-action-features-with-latent-actions"></a><a id="latent-action-alignment"></a>[用潜动作监督动作专家的中间层](../conferences/icml-2026/cards/2801-2900.md#liu26bl-loss-functions) · LARA: Latent Action Representation Alignment for Vision-Language-Action Models
 - [回报校验的残差正则门控](../conferences/icml-2026/cards/4301-4400.md#sun26al-loss-functions) · From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning
+- [multiview-latent-actions](../conferences/icml-2026/cards/4501-4600.md#wan26f-loss-functions) · Multi-view Consistent Latent Action Learning for World Modeling and Control
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[用目标区域重建做辅助监督](../papers/reconvla.md#reconvla-loss-functions) · ReconVLA
 
 <a id="by-multimodal"></a>
@@ -203,6 +205,7 @@
 - [value-repulsion-grokking](../conferences/icml-2026/cards/4401-4500.md#tao26f-loss-functions) · The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization
 - [多尺度几何集合生成损失](../conferences/icml-2026/cards/4401-4500.md#torkamani26a-loss-functions) · Magnitude Distance: A Geometric Measure of Dataset Similarity
 - [amortized-attribution](../conferences/icml-2026/cards/4401-4500.md#tran26h-loss-functions) · Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation
+- [solver-free-decision-loss](../conferences/icml-2026/cards/4501-4600.md#wan26i-loss-functions) · A Solver-Free Training Method for Predict-then-Optimize
 
 <a id="by-graph-and-recommendation"></a>
 

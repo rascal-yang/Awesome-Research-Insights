@@ -567,6 +567,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [New Bounds for Kernel Sums via Fast Spherical Embeddings](../../conferences/icml-2026/cards/4501-4600.md#wagner26a-theory-statistics) · 中文
 - [A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt](../../conferences/icml-2026/cards/4501-4600.md#wakayama26a-theory-statistics) · 中文
 - [CAOS: Conformal Aggregation of One-Shot Predictors](../../conferences/icml-2026/cards/4501-4600.md#waldron26a-theory-statistics) · 中文
+- [Error Analysis of Discrete Flow with Generator Matching](../../conferences/icml-2026/cards/4501-4600.md#wan26k-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -149,6 +149,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="sun26ai-loss-functions"></a>[Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ai)
 - <a id="tewel26a-loss-functions"></a>[Unpaired Visual Editing with Self-Consistent Flow Matching](../../conferences/icml-2026/cards/4401-4500.md#paper-tewel26a)
 - <a id="turan26c-loss-functions"></a>[Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization](../../conferences/icml-2026/cards/4501-4600.md#paper-turan26c)
+- <a id="wan26o-loss-functions"></a>[Shortcut-Resistant CAM Distillation for Long-Tailed Recognition](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26o)
 
 <a id="by-optimization"></a>
 
@@ -407,6 +408,9 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="tong26k-inference"></a>[Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26k)
 - <a id="nguyen26v-inference"></a>[Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions](../../conferences/icml-2026/cards/4501-4600.md#paper-nguyen26v)
 - <a id="wan26b-inference"></a>[Saving Foundation Flow-Matching Priors for Inverse Problems](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26b)
+- <a id="wan26g-inference"></a>[Video-SVD: Efficient Video Diffusion via Orthogonal Basis Composition](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26g)
+- <a id="wang26g-inference"></a>[General and Efficient Steering of Unconditional Diffusion Models](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26g)
+- <a id="wang26i-inference"></a>[Training-Free Rate-Distortion-Perception Traversal With Diffusion](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26i)
 
 <a id="by-representation-learning"></a>
 

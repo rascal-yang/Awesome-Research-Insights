@@ -84,6 +84,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology](../../conferences/icml-2026/cards/4301-4400.md#sun26ai-loss-functions) · 中文
 - [Unpaired Visual Editing with Self-Consistent Flow Matching](../../conferences/icml-2026/cards/4401-4500.md#tewel26a-loss-functions) · 中文
 - [Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization](../../conferences/icml-2026/cards/4501-4600.md#turan26c-loss-functions) · 中文
+- [Shortcut-Resistant CAM Distillation for Long-Tailed Recognition](../../conferences/icml-2026/cards/4501-4600.md#wan26o-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -119,6 +120,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Contrastive Representation Regularization for Vision-Language-Action Models](../../conferences/icml-2026/cards/2101-2200.md#kim26ao-loss-functions) · 中文
 - <a id="align-action-features-with-latent-actions"></a><a id="latent-action-alignment"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../../conferences/icml-2026/cards/2801-2900.md#liu26bl-loss-functions) · 中文
 - [From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning](../../conferences/icml-2026/cards/4301-4400.md#sun26al-loss-functions) · 中文
+- [Multi-view Consistent Latent Action Learning for World Modeling and Control](../../conferences/icml-2026/cards/4501-4600.md#wan26f-loss-functions) · 中文
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[ReconVLA](../../papers/reconvla.md#reconvla-loss-functions) · 中文
 
 <a id="by-multimodal"></a>
@@ -203,6 +205,7 @@ Objectives, auxiliary supervision, and regularization.
 - [The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization](../../conferences/icml-2026/cards/4401-4500.md#tao26f-loss-functions) · 中文
 - [Magnitude Distance: A Geometric Measure of Dataset Similarity](../../conferences/icml-2026/cards/4401-4500.md#torkamani26a-loss-functions) · 中文
 - [Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation](../../conferences/icml-2026/cards/4401-4500.md#tran26h-loss-functions) · 中文
+- [A Solver-Free Training Method for Predict-then-Optimize](../../conferences/icml-2026/cards/4501-4600.md#wan26i-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

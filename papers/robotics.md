@@ -59,6 +59,7 @@
 - <a id="kim26ao-loss-functions"></a>[Contrastive Representation Regularization for Vision-Language-Action Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ao)
 - <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl)
 - <a id="sun26al-loss-functions"></a>[From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning](../conferences/icml-2026/cards/4301-4400.md#paper-sun26al)
+- <a id="wan26f-loss-functions"></a>[Multi-view Consistent Latent Action Learning for World Modeling and Control](../conferences/icml-2026/cards/4501-4600.md#paper-wan26f)
 - <a id="reconvla-loss-functions"></a><a id="reconvla-modules"></a>[ReconVLA](reconvla.md#paper-reconvla)
 
 <a id="by-optimization"></a>
@@ -122,6 +123,7 @@
 - <a id="morin26a-training-strategies"></a>[On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../conferences/icml-2026/cards/3301-3400.md#paper-morin26a)
 - <a id="nguyen26b-training-strategies"></a>[FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26b)
 - <a id="wagenmaker26a-training-strategies"></a>[Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning](../conferences/icml-2026/cards/4501-4600.md#paper-wagenmaker26a)
+- <a id="wan26n-training-strategies"></a>[Adversarial Dual On-Policy Distillation from Expressive Teacher](../conferences/icml-2026/cards/4501-4600.md#paper-wan26n)
 
 <a id="by-data-strategies"></a>
 

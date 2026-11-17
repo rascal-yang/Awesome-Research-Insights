@@ -326,6 +326,8 @@
 - [构造式模型差分区分机制与调用时机](../conferences/icml-2026/cards/4501-4600.md#venhoff26a-evaluation) · Base Models Know How to Reason, Thinking Models Learn When
 - [多智能体过程验证的迁移失败边界](../conferences/icml-2026/cards/4501-4600.md#venkataramani26a-evaluation) · MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems
 - [以可执行适配程序的码长比较任务复杂度](../conferences/icml-2026/cards/4501-4600.md#vergara-browne26a-evaluation) · Operationalising the Superficial Alignment Hypothesis via Task Complexity
+- [reward-bias-search](../conferences/icml-2026/cards/4501-4600.md#wang26b-evaluation) · Automatically Finding Reward Model Biases
+- [research-claim-rediscovery](../conferences/icml-2026/cards/4501-4600.md#wang26d-evaluation) · FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights
 
 <a id="by-computer-vision"></a>
 
@@ -528,6 +530,7 @@
 - [privacy-perception-reasoning-audit](../conferences/icml-2026/cards/4201-4300.md#sun26t-evaluation) · MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models
 - [bidirectionality-late-interaction-synergy](../conferences/icml-2026/cards/4401-4500.md#teiletche26a-evaluation) · ModernVBERT: Towards Smaller Visual Document Retrievers
 - [binding-vs-unimodal-recoverability](../conferences/icml-2026/cards/4501-4600.md#uselis26b-evaluation) · How can embedding models bind concepts?
+- [atomic-multimodal-attribution](../conferences/icml-2026/cards/4501-4600.md#wan26m-evaluation) · Multimodal Fact-Level Attribution for Verifiable Reasoning
 
 <a id="by-ml-foundations"></a>
 
