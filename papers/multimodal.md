@@ -35,6 +35,7 @@
 - <a id="lin26an-architecture"></a>[Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26an)
 - <a id="liu26as-architecture"></a>[GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26as)
 - <a id="liu26ea-architecture"></a>[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ea)
+- <a id="liu26fc-architecture"></a>[CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fc)
 
 <a id="by-modules"></a>
 
@@ -78,6 +79,7 @@
 - <a id="li26fg-loss-functions"></a>[DenseMLLM: Standard Multimodal LLMs for Dense Prediction](../conferences/icml-2026/cards/2501-2600.md#paper-li26fg)
 - <a id="li26jy-loss-functions"></a>[Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment](../conferences/icml-2026/cards/2601-2700.md#paper-li26jy)
 - <a id="liu26e-loss-functions"></a>[GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](../conferences/icml-2026/cards/2701-2800.md#paper-liu26e)
+- <a id="liu26ei-loss-functions"></a>[STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ei)
 
 <a id="by-optimization"></a>
 
@@ -127,6 +129,9 @@
 - <a id="liu26p-reinforcement-learning"></a>[ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models](../conferences/icml-2026/cards/2701-2800.md#paper-liu26p)
 - <a id="liu26ak-reinforcement-learning"></a>[Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ak)
 - <a id="liu26bs-reinforcement-learning"></a>[Continual GUI Agents](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bs)
+- <a id="liu26ej-reinforcement-learning"></a>[VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ej)
+- <a id="liu26fa-reinforcement-learning"></a>[Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fa)
+- <a id="liu26ff-reinforcement-learning"></a>[Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ff)
 
 <a id="by-training-strategies"></a>
 
@@ -289,6 +294,9 @@
 - <a id="liao26b-representation-learning"></a>[Prototype-guided Bilateral Alignment Multimodal Federated Learning](../conferences/icml-2026/cards/2701-2800.md#paper-liao26b)
 - <a id="liu26ah-representation-learning"></a>[Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ah)
 - <a id="liu26ci-representation-learning"></a>[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ci)
+- <a id="liu26es-representation-learning"></a>[From Talking to Singing: A New Challenge for Audio-Visual Deepfake Detection](../conferences/icml-2026/cards/2901-3000.md#paper-liu26es)
+- <a id="liu26ex-representation-learning"></a>[Calibrated Multimodal Representation Learning with Missing Modalities](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ex)
+- <a id="liu26fw-representation-learning"></a>[UniRTL: Unifying Code and Graph for Robust RTL Representation Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fw)
 
 <a id="by-evaluation"></a>
 

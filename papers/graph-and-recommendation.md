@@ -27,6 +27,7 @@
 - <a id="jin26d-architecture"></a>[Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling](../conferences/icml-2026/cards/1901-2000.md#paper-jin26d)
 - <a id="johnson26a-architecture"></a>[VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../conferences/icml-2026/cards/1901-2000.md#paper-johnson26a)
 - <a id="liu26x-architecture"></a>[Learning Graph Foundation Models on Riemannian Graph-of-Graphs](../conferences/icml-2026/cards/2801-2900.md#paper-liu26x)
+- <a id="liu26ep-architecture"></a>[Ramba: Selective State-Space Models for Relational Deep Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ep)
 
 <a id="by-modules"></a>
 
@@ -38,6 +39,7 @@
 - <a id="choi26d-modules"></a>[Gauge-Equivariant Graph Networks via Self-Interference Cancellation](../conferences/icml-2026/cards/0701-0800.md#paper-choi26d)
 - <a id="fesser26b-modules"></a>[Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs](../conferences/icml-2026/cards/1101-1200.md#paper-fesser26b)
 - <a id="krahn26a-modules"></a>[Collapsed Effective Operators for Higher-order Structures](../conferences/icml-2026/cards/2201-2300.md#paper-krahn26a)
+- <a id="liu26gb-modules"></a>[Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gb)
 
 <a id="by-loss-functions"></a>
 
@@ -149,6 +151,7 @@
 - <a id="liang26y-representation-learning"></a>[CL-GCL: Comprehensive and Lightweight Graph Contrastive Learning](../conferences/icml-2026/cards/2701-2800.md#paper-liang26y)
 - <a id="liu26by-representation-learning"></a>[Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](../conferences/icml-2026/cards/2801-2900.md#paper-liu26by)
 - <a id="liu26cp-representation-learning"></a>[Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cp)
+- <a id="liu26eg-representation-learning"></a>[HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eg)
 
 <a id="by-evaluation"></a>
 
@@ -161,6 +164,7 @@
 - <a id="guan26b-evaluation"></a>[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](../conferences/icml-2026/cards/1301-1400.md#paper-guan26b)
 - <a id="heidari26a-evaluation"></a>[TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions](../conferences/icml-2026/cards/1501-1600.md#paper-heidari26a)
 - <a id="lagesse26a-evaluation"></a>[Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](../conferences/icml-2026/cards/2201-2300.md#paper-lagesse26a)
+- <a id="liu26gd-evaluation"></a>[Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gd)
 
 <a id="by-theory-statistics"></a>
 
@@ -183,4 +187,6 @@
 - <a id="koke26a-theory-statistics"></a>[Graph Neural Networks Are Not Continuous Across Graph Resolutions](../conferences/icml-2026/cards/2101-2200.md#paper-koke26a)
 - <a id="kummer26a-theory-statistics"></a>[A Unifying Relational Perspective on Expressive Lottery Tickets](../conferences/icml-2026/cards/2201-2300.md#paper-kummer26a)
 - <a id="lin26as-theory-statistics"></a>[Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration](../conferences/icml-2026/cards/2701-2800.md#paper-lin26as)
+- <a id="liu26ed-theory-statistics"></a>[Estimating Correlation Clustering Cost in Node-Arrival Stream](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ed)
+- <a id="liu26ee-theory-statistics"></a>[Pseudo-Mallows for Efficient Probabilistic Preference Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ee)
 <!-- classification:end -->

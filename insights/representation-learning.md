@@ -60,6 +60,8 @@
 - [用持久节点上的稀疏状态差分生成矢量动画](../conferences/icml-2026/cards/2701-2800.md#liang26w-representation-learning) · VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation
 - [用高对称连续系数和低对称基组合壁纸群表示](../conferences/icml-2026/cards/2701-2800.md#lin26f-representation-learning) · Planar Symmetric Pattern Generation
 - [沿竞争类别方向校准尾类特征分布](../conferences/icml-2026/cards/2701-2800.md#liu26t-representation-learning) · Risk-Bounded Distribution Reconstruction: Stable Statistic Calibration for Long-Tailed Recognition
+- [三维图元扩散](../conferences/icml-2026/cards/2901-3000.md#liu26eo-representation-learning) · Rethinking 3D Shape Generation: Diffusion over Superquadrics
+- [沿分辨率相关方向校正低清行人嵌入](../conferences/icml-2026/cards/2901-3000.md#liu26fr-representation-learning) · Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification
 
 <a id="by-nlp"></a>
 
@@ -124,6 +126,9 @@
 - [异构联邦中的特征与决策原型](../conferences/icml-2026/cards/2701-2800.md#liao26b-representation-learning) · Prototype-guided Bilateral Alignment Multimodal Federated Learning
 - [用模态内邻域软原型纠正图文错配](../conferences/icml-2026/cards/2801-2900.md#liu26ah-representation-learning) · Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning
 - [对上一片段到下一片段的状态残差建模](../conferences/icml-2026/cards/2801-2900.md#liu26ci-representation-learning) · CAST: Modeling Visual State Transitions for Consistent Video Retrieval
+- [说话到歌唱的伪造检测](../conferences/icml-2026/cards/2901-3000.md#liu26es-representation-learning) · From Talking to Singing: A New Challenge for Audio-Visual Deepfake Detection
+- [缺失模态锚点校准](../conferences/icml-2026/cards/2901-3000.md#liu26ex-representation-learning) · Calibrated Multimodal Representation Learning with Missing Modalities
+- [用相互遮掩对齐电路代码与控制数据流图](../conferences/icml-2026/cards/2901-3000.md#liu26fw-representation-learning) · UniRTL: Unifying Code and Graph for Robust RTL Representation Learning
 
 <a id="by-ml-foundations"></a>
 
@@ -163,6 +168,7 @@
 - [用可分离乘积解释强交互的回归模型](../conferences/icml-2026/cards/2801-2900.md#liu26aw-representation-learning) · Beyond Additive Decompositions: Interpretability Through Separability
 - [先跨视角对齐再单独处理后验不确定样本](../conferences/icml-2026/cards/2801-2900.md#liu26ay-representation-learning) · Dual-stage Contrastive Learning-enhanced Multi-view Variational Clustering
 - [从多变量状态蒸馏单变量邻域](../conferences/icml-2026/cards/2801-2900.md#liu26bp-representation-learning) · TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series
+- [公平多视图聚类](../conferences/icml-2026/cards/2901-3000.md#liu26eq-representation-learning) · Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -191,6 +197,7 @@
 - [用社区粗化中心组织图对比学习](../conferences/icml-2026/cards/2701-2800.md#liang26y-representation-learning) · CL-GCL: Comprehensive and Lightweight Graph Contrastive Learning
 - [将图上模态交互与语义对齐分开训练](../conferences/icml-2026/cards/2801-2900.md#liu26by-representation-learning) · Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach
 - [把跨域图节点映射到关系异常指纹](../conferences/icml-2026/cards/2801-2900.md#liu26cp-representation-learning) · Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach
+- [双曲重心对齐跨域推荐表示](../conferences/icml-2026/cards/2901-3000.md#liu26eg-representation-learning) · HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains
 
 <a id="by-scientific-ml"></a>
 
@@ -237,4 +244,6 @@
 - [神经群体动力学的组间独立分解](../conferences/icml-2026/cards/2601-2700.md#li26ha-representation-learning) · A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity
 - [从演化祖先概率初始化蛋白生成](../conferences/icml-2026/cards/2701-2800.md#liang26aa-representation-learning) · LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation
 - [按功能脑区、通道与时间自监督脑电](../conferences/icml-2026/cards/2901-3000.md#liu26dt-representation-learning) · RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning
+- [医学图像模态信息分解](../conferences/icml-2026/cards/2901-3000.md#liu26fg-representation-learning) · M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model
+- [从映射后网表向综合前电路图蒸馏](../conferences/icml-2026/cards/2901-3000.md#liu26gc-representation-learning) · Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning
 <!-- classification:end -->

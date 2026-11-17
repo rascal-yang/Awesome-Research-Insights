@@ -81,6 +81,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26ap-architecture"></a>[ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ap)
 - <a id="liu26bk-architecture"></a>[Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bk)
 - <a id="liu26ce-architecture"></a>[Geometric Pocket-Centric Protein Encoding for Polypharmacology-Guided Multi-Target Drug Design](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ce)
+- <a id="liu26er-architecture"></a>[Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26er)
+- <a id="liu26ey-architecture"></a>[Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ey)
+- <a id="liu26fl-architecture"></a>[FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fl)
 
 <a id="by-modules"></a>
 
@@ -196,6 +199,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26et-training-strategies"></a>[Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?](../../conferences/icml-2026/cards/2501-2600.md#paper-li26et)
 - <a id="liu26aj-training-strategies"></a>[From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aj)
 - <a id="liu26br-training-strategies"></a>[DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26br)
+- <a id="liu26em-training-strategies"></a>[From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26em)
 
 <a id="by-data-strategies"></a>
 
@@ -235,6 +239,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="kosmala26a-inference"></a>[Speculative Sampling For Faster Molecular Dynamics](../../conferences/icml-2026/cards/2201-2300.md#paper-kosmala26a)
 - <a id="li26cf-inference"></a>[$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cf)
 - <a id="lian26e-inference"></a>[Evidential Reasoning Advances Interpretable Real-World Disease Screening](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26e)
+- <a id="liu26en-inference"></a>[AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26en)
 
 <a id="by-representation-learning"></a>
 
@@ -281,6 +286,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26ha-representation-learning"></a>[A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ha)
 - <a id="liang26aa-representation-learning"></a>[LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26aa)
 - <a id="liu26dt-representation-learning"></a>[RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dt)
+- <a id="liu26fg-representation-learning"></a>[M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fg)
+- <a id="liu26gc-representation-learning"></a>[Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gc)
 
 <a id="by-evaluation"></a>
 

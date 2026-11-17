@@ -60,6 +60,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](../../conferences/icml-2026/cards/2701-2800.md#liang26w-representation-learning) · 中文
 - [Planar Symmetric Pattern Generation](../../conferences/icml-2026/cards/2701-2800.md#lin26f-representation-learning) · 中文
 - [Risk-Bounded Distribution Reconstruction: Stable Statistic Calibration for Long-Tailed Recognition](../../conferences/icml-2026/cards/2701-2800.md#liu26t-representation-learning) · 中文
+- [Rethinking 3D Shape Generation: Diffusion over Superquadrics](../../conferences/icml-2026/cards/2901-3000.md#liu26eo-representation-learning) · 中文
+- [Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification](../../conferences/icml-2026/cards/2901-3000.md#liu26fr-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -124,6 +126,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Prototype-guided Bilateral Alignment Multimodal Federated Learning](../../conferences/icml-2026/cards/2701-2800.md#liao26b-representation-learning) · 中文
 - [Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26ah-representation-learning) · 中文
 - [CAST: Modeling Visual State Transitions for Consistent Video Retrieval](../../conferences/icml-2026/cards/2801-2900.md#liu26ci-representation-learning) · 中文
+- [From Talking to Singing: A New Challenge for Audio-Visual Deepfake Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26es-representation-learning) · 中文
+- [Calibrated Multimodal Representation Learning with Missing Modalities](../../conferences/icml-2026/cards/2901-3000.md#liu26ex-representation-learning) · 中文
+- [UniRTL: Unifying Code and Graph for Robust RTL Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26fw-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -163,6 +168,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Beyond Additive Decompositions: Interpretability Through Separability](../../conferences/icml-2026/cards/2801-2900.md#liu26aw-representation-learning) · 中文
 - [Dual-stage Contrastive Learning-enhanced Multi-view Variational Clustering](../../conferences/icml-2026/cards/2801-2900.md#liu26ay-representation-learning) · 中文
 - [TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series](../../conferences/icml-2026/cards/2801-2900.md#liu26bp-representation-learning) · 中文
+- [Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering](../../conferences/icml-2026/cards/2901-3000.md#liu26eq-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -191,6 +197,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [CL-GCL: Comprehensive and Lightweight Graph Contrastive Learning](../../conferences/icml-2026/cards/2701-2800.md#liang26y-representation-learning) · 中文
 - [Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](../../conferences/icml-2026/cards/2801-2900.md#liu26by-representation-learning) · 中文
 - [Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach](../../conferences/icml-2026/cards/2801-2900.md#liu26cp-representation-learning) · 中文
+- [HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains](../../conferences/icml-2026/cards/2901-3000.md#liu26eg-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -237,4 +244,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](../../conferences/icml-2026/cards/2601-2700.md#li26ha-representation-learning) · 中文
 - [LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation](../../conferences/icml-2026/cards/2701-2800.md#liang26aa-representation-learning) · 中文
 - [RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26dt-representation-learning) · 中文
+- [M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model](../../conferences/icml-2026/cards/2901-3000.md#liu26fg-representation-learning) · 中文
+- [Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26gc-representation-learning) · 中文
 <!-- classification:end -->

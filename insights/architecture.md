@@ -47,6 +47,7 @@
 - [在数据代理任务图上局部重配失败分支](../conferences/icml-2026/cards/2801-2900.md#liu26at-architecture) · $R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration
 - [残差流分叉的并行潜空间计算](../conferences/icml-2026/cards/2801-2900.md#liu26cx-architecture) · Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space
 - [用多视图索引压缩交互记忆并按意图检索](../conferences/icml-2026/cards/2901-3000.md#liu26dx-architecture) · SimpleMem: Efficient Lifelong Memory for LLM Agents
+- [用超网络将上下文映射为 LoRA](../conferences/icml-2026/cards/2901-3000.md#liu26ek-architecture) · SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass
 
 <a id="by-computer-vision"></a>
 
@@ -138,6 +139,7 @@
 - [稀疏三维路点与可复用动作专家](../conferences/icml-2026/cards/2801-2900.md#liu26bf-architecture) · GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert
 - [用低频潜在时空推理支持高频机器人控制](../conferences/icml-2026/cards/2801-2900.md#liu26ch-architecture) · LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model
 - [观察条件作为动作扩散桥端点](../conferences/icml-2026/cards/2801-2900.md#liu26db-architecture) · Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation
+- [用可微连续时间函数表示机器人动作块](../conferences/icml-2026/cards/2901-3000.md#liu26gf-architecture) · Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models
 
 <a id="by-multimodal"></a>
 
@@ -165,6 +167,7 @@
 - [从高层注入绕过语义压缩的取证特征](../conferences/icml-2026/cards/2701-2800.md#lin26an-architecture) · Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models
 - [让模型在二维线索不足时主动调用几何通道](../conferences/icml-2026/cards/2801-2900.md#liu26as-architecture) · GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning
 - [联合 RGB-D 和神经声强向量定位三维声源](../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments
+- [移动界面阶段专家](../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning
 
 <a id="by-ml-foundations"></a>
 
@@ -207,6 +210,7 @@
 - [将 KV 绑定测试时训练改写成线性注意力扫描](../conferences/icml-2026/cards/2801-2900.md#liu26ae-architecture) · Test-Time Training with KV Binding Is Secretly Linear Attention
 - [先拆分时序成分再生成未来的动态相位](../conferences/icml-2026/cards/2801-2900.md#liu26dn-architecture) · PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting
 - [用少量普通 LIF 反馈回路提供长期记忆](../conferences/icml-2026/cards/2801-2900.md#liu26do-architecture) · LIF Recurrent Memory Enables Long-Horizon Spiking Computation
+- [用行注意力与全局寄存器支持表格逐样本退出](../conferences/icml-2026/cards/2901-3000.md#liu26fm-architecture) · TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -226,6 +230,7 @@
 - [分开建模用户兴趣与可持续阈值](../conferences/icml-2026/cards/1901-2000.md#jin26d-architecture) · Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling
 - [先对齐局部坐标再扩散向量信号](../conferences/icml-2026/cards/1901-2000.md#johnson26a-architecture) · VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks
 - [在多尺度子图之图中路由曲率专家](../conferences/icml-2026/cards/2801-2900.md#liu26x-architecture) · Learning Graph Foundation Models on Riemannian Graph-of-Graphs
+- [关系数据库状态空间模型](../conferences/icml-2026/cards/2901-3000.md#liu26ep-architecture) · Ramba: Selective State-Space Models for Relational Deep Learning
 
 <a id="by-scientific-ml"></a>
 
@@ -299,4 +304,7 @@
 - [用轮廓、前景和场景锚分层对齐脑电信号](../conferences/icml-2026/cards/2801-2900.md#liu26ap-architecture) · ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding
 - [几何张量的等变正定协方差](../conferences/icml-2026/cards/2801-2900.md#liu26bk-architecture) · Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning
 - [按共享配体条件联合编码多个口袋](../conferences/icml-2026/cards/2801-2900.md#liu26ce-architecture) · Geometric Pocket-Centric Protein Encoding for Polypharmacology-Guided Multi-Target Drug Design
+- [非平稳交通时空预测](../conferences/icml-2026/cards/2901-3000.md#liu26er-architecture) · Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting
+- [心电到毫米波雷达合成](../conferences/icml-2026/cards/2901-3000.md#liu26ey-architecture) · Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis
+- [由所有非配对点云快照共同初始化连续轨迹](../conferences/icml-2026/cards/2901-3000.md#liu26fl-architecture) · FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots
 <!-- classification:end -->

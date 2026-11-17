@@ -77,6 +77,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing](../../conferences/icml-2026/cards/2801-2900.md#liu26ax-optimization) · 中文
 - [Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](../../conferences/icml-2026/cards/2801-2900.md#liu26cm-optimization) · 中文
 - [The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation](../../conferences/icml-2026/cards/2801-2900.md#liu26cs-optimization) · 中文
+- [Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs](../../conferences/icml-2026/cards/2901-3000.md#liu26ge-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -103,6 +104,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation](../../conferences/icml-2026/cards/2501-2600.md#li26gy-optimization) · 中文
 - [Unlocking the Potential of Continual Model Merging: An ODE Perspective](../../conferences/icml-2026/cards/2701-2800.md#lin26o-optimization) · 中文
 - [FairMerging: Rethinking Model Merging through the Lens of Fairness](../../conferences/icml-2026/cards/2801-2900.md#liu26dl-optimization) · 中文
+- [Condition Number Based Low-Bit Quantization for Image Super-Resolution](../../conferences/icml-2026/cards/2901-3000.md#liu26eh-optimization) · 中文
 
 <a id="by-nlp"></a>
 

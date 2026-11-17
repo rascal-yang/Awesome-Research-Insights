@@ -57,6 +57,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction](../../conferences/icml-2026/cards/2601-2700.md#li26iz-loss-functions) · 中文
 - [Adversarial Flow Models](../../conferences/icml-2026/cards/2701-2800.md#lin26ao-loss-functions) · 中文
 - [Geometric Rate–Distortion Invariance for Domain Generalization](../../conferences/icml-2026/cards/2801-2900.md#liu26cc-loss-functions) · 中文
+- [Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](../../conferences/icml-2026/cards/2901-3000.md#liu26fh-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -108,6 +109,7 @@ Objectives, auxiliary supervision, and regularization.
 - [DenseMLLM: Standard Multimodal LLMs for Dense Prediction](../../conferences/icml-2026/cards/2501-2600.md#li26fg-loss-functions) · 中文
 - [Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment](../../conferences/icml-2026/cards/2601-2700.md#li26jy-loss-functions) · 中文
 - [GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](../../conferences/icml-2026/cards/2701-2800.md#liu26e-loss-functions) · 中文
+- [STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26ei-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

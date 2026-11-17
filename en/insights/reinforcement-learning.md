@@ -119,6 +119,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](../../conferences/icml-2026/cards/2801-2900.md#liu26bn-reinforcement-learning) · 中文
 - [On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](../../conferences/icml-2026/cards/2801-2900.md#liu26de-reinforcement-learning) · 中文
 - [SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26ds-reinforcement-learning) · 中文
+- [Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations](../../conferences/icml-2026/cards/2901-3000.md#liu26fd-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -132,6 +133,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models](../../conferences/icml-2026/cards/1401-1500.md#han26o-reinforcement-learning) · 中文
 - [Embedding-perturbed Exploration Preference Optimization for Flow Models](../../conferences/icml-2026/cards/1601-1700.md#hu26j-reinforcement-learning) · 中文
 - [Optimizing Visual Generative Models via Distribution-wise Rewards](../../conferences/icml-2026/cards/2601-2700.md#li26hw-reinforcement-learning) · 中文
+- [Distillation Models are Good Samplers for Diffusion Reinforcement Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ev-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -253,6 +255,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26jr-reinforcement-learning) · 中文
 - [MapDream: Task-Driven Map Learning for Vision-Language Navigation](../../conferences/icml-2026/cards/2601-2700.md#lian26c-reinforcement-learning) · 中文
 - [DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization](../../conferences/icml-2026/cards/2701-2800.md#lin26af-reinforcement-learning) · 中文
+- [TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance](../../conferences/icml-2026/cards/2901-3000.md#liu26et-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -292,6 +295,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models](../../conferences/icml-2026/cards/2701-2800.md#liu26p-reinforcement-learning) · 中文
 - [Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners](../../conferences/icml-2026/cards/2801-2900.md#liu26ak-reinforcement-learning) · 中文
 - [Continual GUI Agents](../../conferences/icml-2026/cards/2801-2900.md#liu26bs-reinforcement-learning) · 中文
+- [VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos](../../conferences/icml-2026/cards/2901-3000.md#liu26ej-reinforcement-learning) · 中文
+- [Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26fa-reinforcement-learning) · 中文
+- [Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26ff-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

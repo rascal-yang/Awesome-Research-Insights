@@ -157,6 +157,7 @@
 - [在冻结时序模型上学习域条件通道关系](../conferences/icml-2026/cards/2401-2500.md#li26bu-modules) · Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting
 - [用单纯形频率构造多维旋转位置编码](../conferences/icml-2026/cards/2601-2700.md#li26hn-modules) · nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
 - [先消除视图尺度再按不确定性融合证据](../conferences/icml-2026/cards/2701-2800.md#liu26r-modules) · Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification
+- [用局部距离置信限制注意力全局同步](../conferences/icml-2026/cards/2901-3000.md#liu26fs-modules) · Krause Synchronization Transformers
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -168,6 +169,7 @@
 - [异配图消息的自成分消除](../conferences/icml-2026/cards/0701-0800.md#choi26d-modules) · Gauge-Equivariant Graph Networks via Self-Interference Cancellation
 - [有向带属性图的酉卷积](../conferences/icml-2026/cards/1101-1200.md#fesser26b-modules) · Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs
 - [用 Schur 补把高阶作用折回顶点](../conferences/icml-2026/cards/2201-2300.md#krahn26a-modules) · Collapsed Effective Operators for Higher-order Structures
+- [双向建模图异常的局部谱能量偏移](../conferences/icml-2026/cards/2901-3000.md#liu26gb-modules) · Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection
 
 <a id="by-scientific-ml"></a>
 

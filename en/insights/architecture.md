@@ -47,6 +47,7 @@ Model-wide design and information flow.
 - [$R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration](../../conferences/icml-2026/cards/2801-2900.md#liu26at-architecture) · 中文
 - [Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space](../../conferences/icml-2026/cards/2801-2900.md#liu26cx-architecture) · 中文
 - [SimpleMem: Efficient Lifelong Memory for LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26dx-architecture) · 中文
+- [SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass](../../conferences/icml-2026/cards/2901-3000.md#liu26ek-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -138,6 +139,7 @@ Model-wide design and information flow.
 - [GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert](../../conferences/icml-2026/cards/2801-2900.md#liu26bf-architecture) · 中文
 - [LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](../../conferences/icml-2026/cards/2801-2900.md#liu26ch-architecture) · 中文
 - [Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation](../../conferences/icml-2026/cards/2801-2900.md#liu26db-architecture) · 中文
+- [Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gf-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -165,6 +167,7 @@ Model-wide design and information flow.
 - [Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26an-architecture) · 中文
 - [GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26as-architecture) · 中文
 - [JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · 中文
+- [CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -207,6 +210,7 @@ Model-wide design and information flow.
 - [Test-Time Training with KV Binding Is Secretly Linear Attention](../../conferences/icml-2026/cards/2801-2900.md#liu26ae-architecture) · 中文
 - [PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](../../conferences/icml-2026/cards/2801-2900.md#liu26dn-architecture) · 中文
 - [LIF Recurrent Memory Enables Long-Horizon Spiking Computation](../../conferences/icml-2026/cards/2801-2900.md#liu26do-architecture) · 中文
+- [TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](../../conferences/icml-2026/cards/2901-3000.md#liu26fm-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -226,6 +230,7 @@ Model-wide design and information flow.
 - [Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling](../../conferences/icml-2026/cards/1901-2000.md#jin26d-architecture) · 中文
 - [VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../../conferences/icml-2026/cards/1901-2000.md#johnson26a-architecture) · 中文
 - [Learning Graph Foundation Models on Riemannian Graph-of-Graphs](../../conferences/icml-2026/cards/2801-2900.md#liu26x-architecture) · 中文
+- [Ramba: Selective State-Space Models for Relational Deep Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ep-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -299,4 +304,7 @@ Model-wide design and information flow.
 - [ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding](../../conferences/icml-2026/cards/2801-2900.md#liu26ap-architecture) · 中文
 - [Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26bk-architecture) · 中文
 - [Geometric Pocket-Centric Protein Encoding for Polypharmacology-Guided Multi-Target Drug Design](../../conferences/icml-2026/cards/2801-2900.md#liu26ce-architecture) · 中文
+- [Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting](../../conferences/icml-2026/cards/2901-3000.md#liu26er-architecture) · 中文
+- [Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis](../../conferences/icml-2026/cards/2901-3000.md#liu26ey-architecture) · 中文
+- [FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots](../../conferences/icml-2026/cards/2901-3000.md#liu26fl-architecture) · 中文
 <!-- classification:end -->

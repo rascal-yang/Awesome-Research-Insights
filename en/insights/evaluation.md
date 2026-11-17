@@ -227,6 +227,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](../../conferences/icml-2026/cards/2801-2900.md#liu26bh-evaluation) · 中文
 - [TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation](../../conferences/icml-2026/cards/2801-2900.md#liu26ct-evaluation) · 中文
 - [Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26dw-evaluation) · 中文
+- [Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26fq-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -435,6 +436,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Function-Valued Causal Influence in Nonlinear Time Series](../../conferences/icml-2026/cards/2201-2300.md#kuskova26a-evaluation) · 中文
 - [ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation](../../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · 中文
 - [Causes and Consequences of Representational Similarity in Machine Learning Models](../../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · 中文
+- [Beyond Procedure: Substantive Fairness in Conformal Prediction](../../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -447,6 +449,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](../../conferences/icml-2026/cards/1301-1400.md#guan26b-evaluation) · 中文
 - [TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions](../../conferences/icml-2026/cards/1501-1600.md#heidari26a-evaluation) · 中文
 - [Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](../../conferences/icml-2026/cards/2201-2300.md#lagesse26a-evaluation) · 中文
+- [Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](../../conferences/icml-2026/cards/2901-3000.md#liu26gd-evaluation) · 中文
 
 <a id="by-scientific-ml"></a>
 

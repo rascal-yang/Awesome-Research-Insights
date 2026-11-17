@@ -157,6 +157,7 @@ Reusable components and local changes to model inputs or connections.
 - [Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting](../../conferences/icml-2026/cards/2401-2500.md#li26bu-modules) · 中文
 - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../../conferences/icml-2026/cards/2601-2700.md#li26hn-modules) · 中文
 - [Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification](../../conferences/icml-2026/cards/2701-2800.md#liu26r-modules) · 中文
+- [Krause Synchronization Transformers](../../conferences/icml-2026/cards/2901-3000.md#liu26fs-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -168,6 +169,7 @@ Reusable components and local changes to model inputs or connections.
 - [Gauge-Equivariant Graph Networks via Self-Interference Cancellation](../../conferences/icml-2026/cards/0701-0800.md#choi26d-modules) · 中文
 - [Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs](../../conferences/icml-2026/cards/1101-1200.md#fesser26b-modules) · 中文
 - [Collapsed Effective Operators for Higher-order Structures](../../conferences/icml-2026/cards/2201-2300.md#krahn26a-modules) · 中文
+- [Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26gb-modules) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -113,6 +113,7 @@
 - <a id="li26iz-loss-functions"></a>[Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction](../conferences/icml-2026/cards/2601-2700.md#paper-li26iz)
 - <a id="lin26ao-loss-functions"></a>[Adversarial Flow Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ao)
 - <a id="liu26cc-loss-functions"></a>[Geometric Rate–Distortion Invariance for Domain Generalization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cc)
+- <a id="liu26fh-loss-functions"></a>[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fh)
 
 <a id="by-optimization"></a>
 
@@ -139,6 +140,7 @@
 - <a id="li26gy-optimization"></a>[Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation](../conferences/icml-2026/cards/2501-2600.md#paper-li26gy)
 - <a id="lin26o-optimization"></a>[Unlocking the Potential of Continual Model Merging: An ODE Perspective](../conferences/icml-2026/cards/2701-2800.md#paper-lin26o)
 - <a id="liu26dl-optimization"></a>[FairMerging: Rethinking Model Merging through the Lens of Fairness](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dl)
+- <a id="liu26eh-optimization"></a>[Condition Number Based Low-Bit Quantization for Image Super-Resolution](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eh)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -152,6 +154,7 @@
 - <a id="han26o-reinforcement-learning"></a>[ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models](../conferences/icml-2026/cards/1401-1500.md#paper-han26o)
 - <a id="hu26j-reinforcement-learning"></a>[Embedding-perturbed Exploration Preference Optimization for Flow Models](../conferences/icml-2026/cards/1601-1700.md#paper-hu26j)
 - <a id="li26hw-reinforcement-learning"></a>[Optimizing Visual Generative Models via Distribution-wise Rewards](../conferences/icml-2026/cards/2601-2700.md#paper-li26hw)
+- <a id="liu26ev-reinforcement-learning"></a>[Distillation Models are Good Samplers for Diffusion Reinforcement Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ev)
 
 <a id="by-training-strategies"></a>
 
@@ -198,6 +201,7 @@
 - <a id="liu26af-training-strategies"></a>[FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26af)
 - <a id="liu26au-training-strategies"></a>[Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement](../conferences/icml-2026/cards/2801-2900.md#paper-liu26au)
 - <a id="liu26bj-training-strategies"></a>[CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bj)
+- <a id="liu26fj-training-strategies"></a>[Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fj)
 
 <a id="by-data-strategies"></a>
 
@@ -290,6 +294,8 @@
 - <a id="liu26cg-inference"></a>[HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cg)
 - <a id="liu26ck-inference"></a>[XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ck)
 - <a id="liu26du-inference"></a>[AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26du)
+- <a id="liu26fe-inference"></a>[Sparse Relaxed-Lasso Steering: Automatic Sparse Autoencoder Feature Selection for Precise Image Editing](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fe)
+- <a id="liu26fv-inference"></a>[Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fv)
 
 <a id="by-representation-learning"></a>
 
@@ -330,6 +336,8 @@
 - <a id="liang26w-representation-learning"></a>[VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](../conferences/icml-2026/cards/2701-2800.md#paper-liang26w)
 - <a id="lin26f-representation-learning"></a>[Planar Symmetric Pattern Generation](../conferences/icml-2026/cards/2701-2800.md#paper-lin26f)
 - <a id="liu26t-representation-learning"></a>[Risk-Bounded Distribution Reconstruction: Stable Statistic Calibration for Long-Tailed Recognition](../conferences/icml-2026/cards/2701-2800.md#paper-liu26t)
+- <a id="liu26eo-representation-learning"></a>[Rethinking 3D Shape Generation: Diffusion over Superquadrics](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eo)
+- <a id="liu26fr-representation-learning"></a>[Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fr)
 
 <a id="by-evaluation"></a>
 

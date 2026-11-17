@@ -227,6 +227,7 @@
 - [真实 LoRA 回收的等数据对照](../conferences/icml-2026/cards/2801-2900.md#liu26bh-evaluation) · The Appeal and Reality of Recycling LoRAs with Adaptive Merging
 - [基于修复前后测试的主动缺陷发现](../conferences/icml-2026/cards/2801-2900.md#liu26ct-evaluation) · TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation
 - [用协议状态假设驱动多代理发现一致性缺陷](../conferences/icml-2026/cards/2901-3000.md#liu26dw-evaluation) · Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents
+- [用证据清单评测无预设查询的数据探索](../conferences/icml-2026/cards/2901-3000.md#liu26fq-evaluation) · Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -435,6 +436,7 @@
 - [以个体条件期望曲线查看时序边的作用形状](../conferences/icml-2026/cards/2201-2300.md#kuskova26a-evaluation) · Function-Valued Causal Influence in Nonlinear Time Series
 - [条件时序生成的多维评测](../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation
 - [分别控制训练样本和任务重叠以测表征相似性](../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · Causes and Consequences of Representational Similarity in Machine Learning Models
+- [共同检验共形预测集大小与下游群体结果](../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · Beyond Procedure: Substantive Fairness in Conformal Prediction
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -447,6 +449,7 @@
 - [多模态推荐的同步污染诊断](../conferences/icml-2026/cards/1301-1400.md#guan26b-evaluation) · VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems
 - [用图对齐替身摊薄重复归因开销](../conferences/icml-2026/cards/1501-1600.md#heidari26a-evaluation) · TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions
 - [按错边强度生成成对图对齐任务](../conferences/icml-2026/cards/2201-2300.md#lagesse26a-evaluation) · Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings
+- [回溯时序图节点记忆中的早期事件贡献](../conferences/icml-2026/cards/2901-3000.md#liu26gd-evaluation) · Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution
 
 <a id="by-scientific-ml"></a>
 

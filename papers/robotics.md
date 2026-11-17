@@ -31,6 +31,7 @@
 - <a id="liu26bf-architecture"></a>[GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bf)
 - <a id="liu26ch-architecture"></a>[LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ch)
 - <a id="liu26db-architecture"></a>[Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26db)
+- <a id="liu26gf-architecture"></a>[Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gf)
 
 <a id="by-modules"></a>
 
@@ -76,6 +77,7 @@
 - <a id="li26jr-reinforcement-learning"></a>[UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning](../conferences/icml-2026/cards/2601-2700.md#paper-li26jr)
 - <a id="lian26c-reinforcement-learning"></a>[MapDream: Task-Driven Map Learning for Vision-Language Navigation](../conferences/icml-2026/cards/2601-2700.md#paper-lian26c)
 - <a id="lin26af-reinforcement-learning"></a>[DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization](../conferences/icml-2026/cards/2701-2800.md#paper-lin26af)
+- <a id="liu26et-reinforcement-learning"></a>[TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance](../conferences/icml-2026/cards/2901-3000.md#paper-liu26et)
 
 <a id="by-training-strategies"></a>
 
@@ -137,6 +139,7 @@
 - <a id="li26fl-inference"></a>[VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](../conferences/icml-2026/cards/2501-2600.md#paper-li26fl)
 - <a id="li26id-inference"></a>[Embodied Task Planning via Graph-Informed Action Generation with Large Language Models](../conferences/icml-2026/cards/2601-2700.md#paper-li26id)
 - <a id="liang26l-inference"></a>[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](../conferences/icml-2026/cards/2601-2700.md#paper-liang26l)
+- <a id="liu26fo-inference"></a>[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fo)
 
 <a id="by-representation-learning"></a>
 

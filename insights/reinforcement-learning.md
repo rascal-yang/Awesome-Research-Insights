@@ -119,6 +119,7 @@
 - [共享策略内同时更新安全攻防两角色](../conferences/icml-2026/cards/2801-2900.md#liu26bn-reinforcement-learning) · Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models
 - [按连续全对筛掉低信号工具调用并只回传高差异样本](../conferences/icml-2026/cards/2801-2900.md#liu26de-reinforcement-learning) · On Effectiveness and Efficiency of Agentic Tool-calling and RL Training
 - [从失败轨迹生成反思补丁并蒸馏改进轨迹](../conferences/icml-2026/cards/2901-3000.md#liu26ds-reinforcement-learning) · SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning
+- [Triton 内核瓶颈奖励](../conferences/icml-2026/cards/2901-3000.md#liu26fd-reinforcement-learning) · Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations
 
 <a id="by-computer-vision"></a>
 
@@ -132,6 +133,7 @@
 - [扩散模型的局部文本概念擦除](../conferences/icml-2026/cards/1401-1500.md#han26o-reinforcement-learning) · ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models
 - [扰动文本嵌入维持组内探索](../conferences/icml-2026/cards/1601-1700.md#hu26j-reinforcement-learning) · Embedding-perturbed Exploration Preference Optimization for Flow Models
 - [用参考集合的分布变化奖励生成](../conferences/icml-2026/cards/2601-2700.md#li26hw-reinforcement-learning) · Optimizing Visual Generative Models via Distribution-wise Rewards
+- [扩散强化学习快速采样](../conferences/icml-2026/cards/2901-3000.md#liu26ev-reinforcement-learning) · Distillation Models are Good Samplers for Diffusion Reinforcement Learning
 
 <a id="by-nlp"></a>
 
@@ -253,6 +255,7 @@
 - [根据飞控与导航的联合运行反馈调度任务](../conferences/icml-2026/cards/2601-2700.md#li26jr-reinforcement-learning) · UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning
 - [面向导航目标的鸟瞰地图学习](../conferences/icml-2026/cards/2601-2700.md#lian26c-reinforcement-learning) · MapDream: Task-Driven Map Learning for Vision-Language Navigation
 - [多任务机器人策略的残差专家路由](../conferences/icml-2026/cards/2701-2800.md#lin26af-reinforcement-learning) · DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization
+- [被动视频稠密奖励](../conferences/icml-2026/cards/2901-3000.md#liu26et-reinforcement-learning) · TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance
 
 <a id="by-multimodal"></a>
 
@@ -292,6 +295,9 @@
 - [把标注加入可验证奖励轨迹并校准相对优势](../conferences/icml-2026/cards/2701-2800.md#liu26p-reinforcement-learning) · ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models
 - [按指令难度自选直接生成、反思或交错分解](../conferences/icml-2026/cards/2801-2900.md#liu26ak-reinforcement-learning) · Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners
 - [将界面候选点与边界尺度一起多样化](../conferences/icml-2026/cards/2801-2900.md#liu26bs-reinforcement-learning) · Continual GUI Agents
+- [长视频证据定位的按需工具训练](../conferences/icml-2026/cards/2901-3000.md#liu26ej-reinforcement-learning) · VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos
+- [工具验证的视觉推理自演化](../conferences/icml-2026/cards/2901-3000.md#liu26fa-reinforcement-learning) · Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning
+- [跨层自监督幻觉抑制](../conferences/icml-2026/cards/2901-3000.md#liu26ff-reinforcement-learning) · Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

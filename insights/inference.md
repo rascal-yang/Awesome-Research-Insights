@@ -202,6 +202,15 @@
 - [语言模型输出几何的单次幻觉检测](../conferences/icml-2026/cards/2801-2900.md#liu26dc-inference) · From Out-of-Distribution Detection to Hallucination Detection: A Geometric View
 - [以无限预算多数票为目标分配测试推理轨迹](../conferences/icml-2026/cards/2801-2900.md#liu26dg-inference) · PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency
 - [把少样本例子作为完整语义单元保留 KV](../conferences/icml-2026/cards/2901-3000.md#liu26dz-inference) · Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression
+- [持续域偏移下的非对称专家路由](../conferences/icml-2026/cards/2901-3000.md#liu26ec-inference) · TiME: Test-Time Mixture-of-Experts Routing via Asymmetric CO-Optimal Transport for Continual Test-Time Adaptation
+- [重复谈判的对手模拟与候选筛选](../conferences/icml-2026/cards/2901-3000.md#liu26ef-inference) · Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation
+- [自然语言优化建模的结构与解双验](../conferences/icml-2026/cards/2901-3000.md#liu26el-inference) · Opt-Verifier: Unleashing the Power of LLMs for Optimization Modeling via Dual-Side Verification
+- [对稳定提示与变化响应使用不同缓存刷新日程](../conferences/icml-2026/cards/2901-3000.md#liu26fi-inference) · dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching
+- [用未来路径似然引导扩散解掩码粒子](../conferences/icml-2026/cards/2901-3000.md#liu26fk-inference) · Lookahead Path Likelihood Optimization for Diffusion LLMs
+- [从对抗与良性近邻检索上下文安全规则](../conferences/icml-2026/cards/2901-3000.md#liu26fn-inference) · SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety
+- [以全精度本地注意力配合低比特跨设备通信](../conferences/icml-2026/cards/2901-3000.md#liu26fx-inference) · ASTRA: Communication-Efficient Acceleration for Multi-Device Transformer Inference
+- [将检索查询翻译成受图约束的双向证据线索](../conferences/icml-2026/cards/2901-3000.md#liu26fy-inference) · From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation
+- [用临时安全适配器复用推理上下文缓存](../conferences/icml-2026/cards/2901-3000.md#liu26ga-inference) · RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse
 
 <a id="by-computer-vision"></a>
 
@@ -276,6 +285,8 @@
 - [以实体层级与几何可行性约束场景图关系](../conferences/icml-2026/cards/2801-2900.md#liu26cg-inference) · HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning
 - [为图像后续块复用完整去噪历史](../conferences/icml-2026/cards/2801-2900.md#liu26ck-inference) · XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling
 - [降低注意力熵以缓解图生视频的参考图主导](../conferences/icml-2026/cards/2901-3000.md#liu26du-inference) · AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation
+- [稀疏特征图像属性编辑](../conferences/icml-2026/cards/2901-3000.md#liu26fe-inference) · Sparse Relaxed-Lasso Steering: Automatic Sparse Autoencoder Feature Selection for Precise Image Editing
+- [按去噪时间补偿低精度扩散的累积误差](../conferences/icml-2026/cards/2901-3000.md#liu26fv-inference) · Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -335,6 +346,7 @@
 - [仅在动作不确定时启动相对动作评判](../conferences/icml-2026/cards/2501-2600.md#li26fl-inference) · VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model
 - [按场景图检索经验并验证下一步](../conferences/icml-2026/cards/2601-2700.md#li26id-inference) · Embodied Task Planning via Graph-Informed Action Generation with Large Language Models
 - [优先解高置信动作并重开不稳位置](../conferences/icml-2026/cards/2601-2700.md#liang26l-inference) · Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies
+- [把实时重规划做成带时限的预算控制](../conferences/icml-2026/cards/2901-3000.md#liu26fo-inference) · When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents
 
 <a id="by-multimodal"></a>
 
@@ -477,4 +489,5 @@
 - [用快势草拟并行验证分子动力学轨迹](../conferences/icml-2026/cards/2201-2300.md#kosmala26a-inference) · Speculative Sampling For Faster Molecular Dynamics
 - [融合分子图的单次消费边计算减少显存访问](../conferences/icml-2026/cards/2401-2500.md#li26cf-inference) · $\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics
 - [从正常与病理病例同时检索证据](../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · Evidential Reasoning Advances Interpretable Real-World Disease Screening
+- [模拟电路测试台的神经符号生成](../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification
 <!-- classification:end -->

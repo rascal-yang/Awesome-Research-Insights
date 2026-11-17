@@ -50,6 +50,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula](../../conferences/icml-2026/cards/2801-2900.md#liu26ab-theory-statistics) · 中文
 - [Inverse Depth Scaling From Most Layers Being Similar](../../conferences/icml-2026/cards/2801-2900.md#liu26bt-theory-statistics) · 中文
 - [Universal One-third Time Scaling in Learning Peaked Distributions](../../conferences/icml-2026/cards/2801-2900.md#liu26cl-theory-statistics) · 中文
+- [Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality](../../conferences/icml-2026/cards/2901-3000.md#liu26eu-theory-statistics) · 中文
+- [Provable Training Data Identification for Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26ft-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -120,6 +122,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Towards Parameter-Free Temporal Difference Learning](../../conferences/icml-2026/cards/2501-2600.md#li26fb-theory-statistics) · 中文
 - [A Direct Approach for Handling Contextual Bandits with Latent State Dynamics](../../conferences/icml-2026/cards/2501-2600.md#li26fk-theory-statistics) · 中文
 - [Data- and Variance-dependent Regret Bounds for Online Tabular MDPs](../../conferences/icml-2026/cards/2501-2600.md#li26ge-theory-statistics) · 中文
+- [Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](../../conferences/icml-2026/cards/2901-3000.md#liu26fb-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -427,6 +430,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [SpeedCP: Fast Kernel-based Conditional Conformal Prediction](../../conferences/icml-2026/cards/2801-2900.md#liu26bq-theory-statistics) · 中文
 - [Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · 中文
 - [Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy](../../conferences/icml-2026/cards/2801-2900.md#liu26dk-theory-statistics) · 中文
+- [Improving Backward Conformal Prediction via Non-Conformity Score Transformation](../../conferences/icml-2026/cards/2901-3000.md#liu26fu-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -449,6 +453,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Graph Neural Networks Are Not Continuous Across Graph Resolutions](../../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · 中文
 - [A Unifying Relational Perspective on Expressive Lottery Tickets](../../conferences/icml-2026/cards/2201-2300.md#kummer26a-theory-statistics) · 中文
 - [Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration](../../conferences/icml-2026/cards/2701-2800.md#lin26as-theory-statistics) · 中文
+- [Estimating Correlation Clustering Cost in Node-Arrival Stream](../../conferences/icml-2026/cards/2901-3000.md#liu26ed-theory-statistics) · 中文
+- [Pseudo-Mallows for Efficient Probabilistic Preference Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ee-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

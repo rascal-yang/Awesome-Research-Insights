@@ -50,6 +50,8 @@
 - [按可验证样本的接受率安排自训练难度](../conferences/icml-2026/cards/2801-2900.md#liu26ab-theory-statistics) · A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula
 - [比较层更新方向判断深度收益来源](../conferences/icml-2026/cards/2801-2900.md#liu26bt-theory-statistics) · Inverse Depth Scaling From Most Layers Being Similar
 - [以动力学时间拟合尖峰输出的训练损失](../conferences/icml-2026/cards/2801-2900.md#liu26cl-theory-statistics) · Universal One-third Time Scaling in Learning Peaked Distributions
+- [漂移下在线共形事实性](../conferences/icml-2026/cards/2901-3000.md#liu26eu-theory-statistics) · Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality
+- [用已知非成员校准训练数据集合识别](../conferences/icml-2026/cards/2901-3000.md#liu26ft-theory-statistics) · Provable Training Data Identification for Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -120,6 +122,7 @@
 - [用指数步长降低末次 TD 更新的参数依赖](../conferences/icml-2026/cards/2501-2600.md#li26fb-theory-statistics) · Towards Parameter-Free Temporal Difference Learning
 - [为隐状态回报模型成块更新参数](../conferences/icml-2026/cards/2501-2600.md#li26fk-theory-statistics) · A Direct Approach for Handling Contextual Bandits with Latent State Dynamics
 - [让同一在线 MDP 遗憾界适应损失路径或方差](../conferences/icml-2026/cards/2501-2600.md#li26ge-theory-statistics) · Data- and Variance-dependent Regret Bounds for Online Tabular MDPs
+- [Q 值截断的鲁棒算子](../conferences/icml-2026/cards/2901-3000.md#liu26fb-theory-statistics) · Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator
 
 <a id="by-robotics"></a>
 
@@ -427,6 +430,7 @@
 - [沿活动集更新追踪共形阈值](../conferences/icml-2026/cards/2801-2900.md#liu26bq-theory-statistics) · SpeedCP: Fast Kernel-based Conditional Conformal Prediction
 - [从处理的局部边界找因果调整变量](../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions
 - [用灵敏度等距的混合高斯减少标量 DP 噪声](../conferences/icml-2026/cards/2801-2900.md#liu26dk-theory-statistics) · Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy
+- [在固定预测集大小时变换不一致性分数](../conferences/icml-2026/cards/2901-3000.md#liu26fu-theory-statistics) · Improving Backward Conformal Prediction via Non-Conformity Score Transformation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -449,6 +453,8 @@
 - [用图拉普拉斯扩散传播保持跨分辨率连续](../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · Graph Neural Networks Are Not Continuous Across Graph Resolutions
 - [用关系图上的可区分性预筛随机剪枝掩码](../conferences/icml-2026/cards/2201-2300.md#kummer26a-theory-statistics) · A Unifying Relational Perspective on Expressive Lottery Tickets
 - [整查询校准多跳图推理路径](../conferences/icml-2026/cards/2701-2800.md#lin26as-theory-statistics) · Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration
+- [节点到达流中的相关聚类代价估计](../conferences/icml-2026/cards/2901-3000.md#liu26ed-theory-statistics) · Estimating Correlation Clustering Cost in Node-Arrival Stream
+- [按可学习顺序分解排名后验](../conferences/icml-2026/cards/2901-3000.md#liu26ee-theory-statistics) · Pseudo-Mallows for Efficient Probabilistic Preference Learning
 
 <a id="by-scientific-ml"></a>
 

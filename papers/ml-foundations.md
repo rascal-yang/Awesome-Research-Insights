@@ -50,6 +50,7 @@
 - <a id="liu26ae-architecture"></a>[Test-Time Training with KV Binding Is Secretly Linear Attention](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ae)
 - <a id="liu26dn-architecture"></a>[PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dn)
 - <a id="liu26do-architecture"></a>[LIF Recurrent Memory Enables Long-Horizon Spiking Computation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26do)
+- <a id="liu26fm-architecture"></a>[TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fm)
 
 <a id="by-modules"></a>
 
@@ -90,6 +91,7 @@
 - <a id="li26bu-modules"></a>[Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting](../conferences/icml-2026/cards/2401-2500.md#paper-li26bu)
 - <a id="li26hn-modules"></a>[nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../conferences/icml-2026/cards/2601-2700.md#paper-li26hn)
 - <a id="liu26r-modules"></a>[Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification](../conferences/icml-2026/cards/2701-2800.md#paper-liu26r)
+- <a id="liu26fs-modules"></a>[Krause Synchronization Transformers](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fs)
 
 <a id="by-loss-functions"></a>
 
@@ -445,6 +447,7 @@
 - <a id="liu26aw-representation-learning"></a>[Beyond Additive Decompositions: Interpretability Through Separability](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aw)
 - <a id="liu26ay-representation-learning"></a>[Dual-stage Contrastive Learning-enhanced Multi-view Variational Clustering](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ay)
 - <a id="liu26bp-representation-learning"></a>[TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bp)
+- <a id="liu26eq-representation-learning"></a>[Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eq)
 
 <a id="by-evaluation"></a>
 
@@ -490,6 +493,7 @@
 - <a id="kuskova26a-evaluation"></a>[Function-Valued Causal Influence in Nonlinear Time Series](../conferences/icml-2026/cards/2201-2300.md#paper-kuskova26a)
 - <a id="lan26a-evaluation"></a>[ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation](../conferences/icml-2026/cards/2201-2300.md#paper-lan26a)
 - <a id="li26gf-evaluation"></a>[Causes and Consequences of Representational Similarity in Machine Learning Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26gf)
+- <a id="liu26fp-evaluation"></a>[Beyond Procedure: Substantive Fairness in Conformal Prediction](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fp)
 
 <a id="by-theory-statistics"></a>
 
@@ -784,4 +788,5 @@
 - <a id="liu26bq-theory-statistics"></a>[SpeedCP: Fast Kernel-based Conditional Conformal Prediction](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bq)
 - <a id="liu26ca-theory-statistics"></a>[Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ca)
 - <a id="liu26dk-theory-statistics"></a>[Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dk)
+- <a id="liu26fu-theory-statistics"></a>[Improving Backward Conformal Prediction via Non-Conformity Score Transformation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fu)
 <!-- classification:end -->

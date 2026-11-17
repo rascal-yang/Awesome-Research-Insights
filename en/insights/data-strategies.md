@@ -50,6 +50,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Data Difficulty and the Generalization–Extrapolation Tradeoff in LLM Fine-Tuning](../../conferences/icml-2026/cards/2701-2800.md#liu26m-data-strategies) · 中文
 - [AIR: Post-training Data Selection for Reasoning via Attention Head Influence](../../conferences/icml-2026/cards/2801-2900.md#liu26bd-data-strategies) · 中文
 - [Random Selection Reveals Implicit Knowledge Consensus in Code Generation](../../conferences/icml-2026/cards/2801-2900.md#liu26bz-data-strategies) · 中文
+- [Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26ew-data-strategies) · 中文
+- [MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](../../conferences/icml-2026/cards/2901-3000.md#liu26ez-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

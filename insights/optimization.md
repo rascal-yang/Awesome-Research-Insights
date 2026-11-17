@@ -77,6 +77,7 @@
 - [从首编辑层前向传播兼容的知识编辑目标](../conferences/icml-2026/cards/2801-2900.md#liu26ax-optimization) · From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing
 - [先选功能因子再生成架构搜索补丁](../conferences/icml-2026/cards/2801-2900.md#liu26cm-optimization) · Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search
 - [窄域微调退化的谱方向诊断](../conferences/icml-2026/cards/2801-2900.md#liu26cs-optimization) · The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation
+- [分层进化共享元启发式和各任务程序](../conferences/icml-2026/cards/2901-3000.md#liu26ge-optimization) · Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -103,6 +104,7 @@
 - [按视觉生成轨迹初始化稀疏专家](../conferences/icml-2026/cards/2501-2600.md#li26gy-optimization) · Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation
 - [沿损失障碍修正的参数路径选择合并点](../conferences/icml-2026/cards/2701-2800.md#lin26o-optimization) · Unlocking the Potential of Continual Model Merging: An ODE Perspective
 - [在任务向量合并前降低目标子群敏感性](../conferences/icml-2026/cards/2801-2900.md#liu26dl-optimization) · FairMerging: Rethinking Model Merging through the Lens of Fairness
+- [用权重条件数降低低比特激活误差](../conferences/icml-2026/cards/2901-3000.md#liu26eh-optimization) · Condition Number Based Low-Bit Quantization for Image Super-Resolution
 
 <a id="by-nlp"></a>
 

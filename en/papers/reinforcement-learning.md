@@ -237,4 +237,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="li26fb-theory-statistics"></a>[Towards Parameter-Free Temporal Difference Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fb)
 - <a id="li26fk-theory-statistics"></a>[A Direct Approach for Handling Contextual Bandits with Latent State Dynamics](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fk)
 - <a id="li26ge-theory-statistics"></a>[Data- and Variance-dependent Regret Bounds for Online Tabular MDPs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ge)
+- <a id="liu26fb-theory-statistics"></a>[Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fb)
 <!-- classification:end -->

@@ -96,6 +96,7 @@
 - [融合预测与上下文的潜变量推理](../conferences/icml-2026/cards/2801-2900.md#liu26cv-training-strategies) · Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens
 - [混合中训衔接通用预训练与专域后训练](../conferences/icml-2026/cards/2801-2900.md#liu26cz-training-strategies) · Midtraining Bridges Pretraining and Posttraining Distributions
 - [复用跨域频繁激活的 MoE 专家初始化目标模型](../conferences/icml-2026/cards/2901-3000.md#liu26dr-training-strategies) · XPERT: Expert Knowledge Transfer for Effective Training of Language Models
+- [用执行结果训练生成可组合的规划架构](../conferences/icml-2026/cards/2901-3000.md#liu26fz-training-strategies) · TodoEvolve: Learning to Architect Agent Planning Systems
 
 <a id="by-computer-vision"></a>
 
@@ -142,6 +143,7 @@
 - [以分层 Wasserstein 聚合联邦原型并解耦蒸馏](../conferences/icml-2026/cards/2801-2900.md#liu26af-training-strategies) · FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation
 - [用图拉普拉斯双特征向量构造伪装物体伪掩码](../conferences/icml-2026/cards/2801-2900.md#liu26au-training-strategies) · Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement
 - [稀疏相机控制的三维几何蒸馏](../conferences/icml-2026/cards/2801-2900.md#liu26bj-training-strategies) · CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors
+- [以热扩散伪掩码和样本权重双层更新检测器](../conferences/icml-2026/cards/2901-3000.md#liu26fj-training-strategies) · Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection
 
 <a id="by-nlp"></a>
 
@@ -311,4 +313,5 @@
 - [按置信与分歧共同筛选分割伪标](../conferences/icml-2026/cards/2501-2600.md#li26et-training-strategies) · Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?
 - [用回归、上下文去噪与局部性诱导不同轨道世界模型](../conferences/icml-2026/cards/2801-2900.md#liu26aj-training-strategies) · From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers
 - [为多任务健康模型组合共享和条件适配](../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home
+- [无线信号扩散中的可学习物理信道](../conferences/icml-2026/cards/2901-3000.md#liu26em-training-strategies) · From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding
 <!-- classification:end -->

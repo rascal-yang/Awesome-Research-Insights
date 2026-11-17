@@ -47,6 +47,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26at-architecture"></a>[$R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26at)
 - <a id="liu26cx-architecture"></a>[Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cx)
 - <a id="liu26dx-architecture"></a>[SimpleMem: Efficient Lifelong Memory for LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dx)
+- <a id="liu26ek-architecture"></a>[SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ek)
 
 <a id="by-modules"></a>
 
@@ -179,6 +180,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26ax-optimization"></a>[From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ax)
 - <a id="liu26cm-optimization"></a>[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cm)
 - <a id="liu26cs-optimization"></a>[The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cs)
+- <a id="liu26ge-optimization"></a>[Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ge)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -290,6 +292,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26bn-reinforcement-learning"></a>[Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bn)
 - <a id="liu26de-reinforcement-learning"></a>[On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26de)
 - <a id="liu26ds-reinforcement-learning"></a>[SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ds)
+- <a id="liu26fd-reinforcement-learning"></a>[Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fd)
 
 <a id="by-training-strategies"></a>
 
@@ -378,6 +381,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26cv-training-strategies"></a>[Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cv)
 - <a id="liu26cz-training-strategies"></a>[Midtraining Bridges Pretraining and Posttraining Distributions](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cz)
 - <a id="liu26dr-training-strategies"></a>[XPERT: Expert Knowledge Transfer for Effective Training of Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dr)
+- <a id="liu26fz-training-strategies"></a>[TodoEvolve: Learning to Architect Agent Planning Systems](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fz)
 
 <a id="by-data-strategies"></a>
 
@@ -420,6 +424,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26m-data-strategies"></a>[Data Difficulty and the Generalization–Extrapolation Tradeoff in LLM Fine-Tuning](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26m)
 - <a id="liu26bd-data-strategies"></a>[AIR: Post-training Data Selection for Reasoning via Attention Head Influence](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bd)
 - <a id="liu26bz-data-strategies"></a>[Random Selection Reveals Implicit Knowledge Consensus in Code Generation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bz)
+- <a id="liu26ew-data-strategies"></a>[Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ew)
+- <a id="liu26ez-data-strategies"></a>[MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ez)
 
 <a id="by-inference"></a>
 
@@ -614,6 +620,15 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26dc-inference"></a>[From Out-of-Distribution Detection to Hallucination Detection: A Geometric View](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dc)
 - <a id="liu26dg-inference"></a>[PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dg)
 - <a id="liu26dz-inference"></a>[Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dz)
+- <a id="liu26ec-inference"></a>[TiME: Test-Time Mixture-of-Experts Routing via Asymmetric CO-Optimal Transport for Continual Test-Time Adaptation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ec)
+- <a id="liu26ef-inference"></a>[Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ef)
+- <a id="liu26el-inference"></a>[Opt-Verifier: Unleashing the Power of LLMs for Optimization Modeling via Dual-Side Verification](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26el)
+- <a id="liu26fi-inference"></a>[dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fi)
+- <a id="liu26fk-inference"></a>[Lookahead Path Likelihood Optimization for Diffusion LLMs](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fk)
+- <a id="liu26fn-inference"></a>[SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fn)
+- <a id="liu26fx-inference"></a>[ASTRA: Communication-Efficient Acceleration for Multi-Device Transformer Inference](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fx)
+- <a id="liu26fy-inference"></a>[From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fy)
+- <a id="liu26ga-inference"></a>[RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ga)
 
 <a id="by-representation-learning"></a>
 
@@ -845,6 +860,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26bh-evaluation"></a>[The Appeal and Reality of Recycling LoRAs with Adaptive Merging](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bh)
 - <a id="liu26ct-evaluation"></a>[TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ct)
 - <a id="liu26dw-evaluation"></a>[Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dw)
+- <a id="liu26fq-evaluation"></a>[Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fq)
 
 <a id="by-theory-statistics"></a>
 
@@ -887,4 +903,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26ab-theory-statistics"></a>[A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ab)
 - <a id="liu26bt-theory-statistics"></a>[Inverse Depth Scaling From Most Layers Being Similar](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bt)
 - <a id="liu26cl-theory-statistics"></a>[Universal One-third Time Scaling in Learning Peaked Distributions](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cl)
+- <a id="liu26eu-theory-statistics"></a>[Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26eu)
+- <a id="liu26ft-theory-statistics"></a>[Provable Training Data Identification for Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ft)
 <!-- classification:end -->

@@ -202,6 +202,15 @@ Decoding, test-time adaptation, and efficient execution.
 - [From Out-of-Distribution Detection to Hallucination Detection: A Geometric View](../../conferences/icml-2026/cards/2801-2900.md#liu26dc-inference) · 中文
 - [PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency](../../conferences/icml-2026/cards/2801-2900.md#liu26dg-inference) · 中文
 - [Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression](../../conferences/icml-2026/cards/2901-3000.md#liu26dz-inference) · 中文
+- [TiME: Test-Time Mixture-of-Experts Routing via Asymmetric CO-Optimal Transport for Continual Test-Time Adaptation](../../conferences/icml-2026/cards/2901-3000.md#liu26ec-inference) · 中文
+- [Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation](../../conferences/icml-2026/cards/2901-3000.md#liu26ef-inference) · 中文
+- [Opt-Verifier: Unleashing the Power of LLMs for Optimization Modeling via Dual-Side Verification](../../conferences/icml-2026/cards/2901-3000.md#liu26el-inference) · 中文
+- [dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching](../../conferences/icml-2026/cards/2901-3000.md#liu26fi-inference) · 中文
+- [Lookahead Path Likelihood Optimization for Diffusion LLMs](../../conferences/icml-2026/cards/2901-3000.md#liu26fk-inference) · 中文
+- [SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety](../../conferences/icml-2026/cards/2901-3000.md#liu26fn-inference) · 中文
+- [ASTRA: Communication-Efficient Acceleration for Multi-Device Transformer Inference](../../conferences/icml-2026/cards/2901-3000.md#liu26fx-inference) · 中文
+- [From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26fy-inference) · 中文
+- [RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse](../../conferences/icml-2026/cards/2901-3000.md#liu26ga-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -276,6 +285,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26cg-inference) · 中文
 - [XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling](../../conferences/icml-2026/cards/2801-2900.md#liu26ck-inference) · 中文
 - [AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26du-inference) · 中文
+- [Sparse Relaxed-Lasso Steering: Automatic Sparse Autoencoder Feature Selection for Precise Image Editing](../../conferences/icml-2026/cards/2901-3000.md#liu26fe-inference) · 中文
+- [Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#liu26fv-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -335,6 +346,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](../../conferences/icml-2026/cards/2501-2600.md#li26fl-inference) · 中文
 - [Embodied Task Planning via Graph-Informed Action Generation with Large Language Models](../../conferences/icml-2026/cards/2601-2700.md#li26id-inference) · 中文
 - [Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](../../conferences/icml-2026/cards/2601-2700.md#liang26l-inference) · 中文
+- [When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26fo-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -477,4 +489,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Speculative Sampling For Faster Molecular Dynamics](../../conferences/icml-2026/cards/2201-2300.md#kosmala26a-inference) · 中文
 - [$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](../../conferences/icml-2026/cards/2401-2500.md#li26cf-inference) · 中文
 - [Evidential Reasoning Advances Interpretable Real-World Disease Screening](../../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · 中文
+- [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · 中文
 <!-- classification:end -->

@@ -50,6 +50,8 @@
 - [联合调节微调数据预算与推理难度](../conferences/icml-2026/cards/2701-2800.md#liu26m-data-strategies) · Data Difficulty and the Generalization–Extrapolation Tradeoff in LLM Fine-Tuning
 - [由检索头干预识别高价值推理步骤](../conferences/icml-2026/cards/2801-2900.md#liu26bd-data-strategies) · AIR: Post-training Data Selection for Reasoning via Attention Head Influence
 - [把题内均匀抽样当作代码数据筛选对照](../conferences/icml-2026/cards/2801-2900.md#liu26bz-data-strategies) · Random Selection Reveals Implicit Knowledge Consensus in Code Generation
+- [可执行推理题族合成](../conferences/icml-2026/cards/2901-3000.md#liu26ew-data-strategies) · Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning
+- [Lean 缺失经验引理挖掘](../conferences/icml-2026/cards/2901-3000.md#liu26ez-data-strategies) · MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics
 
 <a id="by-computer-vision"></a>
 

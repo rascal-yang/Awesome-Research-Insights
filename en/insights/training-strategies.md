@@ -96,6 +96,7 @@ Training schedules, curricula, and task or stage composition.
 - [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](../../conferences/icml-2026/cards/2801-2900.md#liu26cv-training-strategies) · 中文
 - [Midtraining Bridges Pretraining and Posttraining Distributions](../../conferences/icml-2026/cards/2801-2900.md#liu26cz-training-strategies) · 中文
 - [XPERT: Expert Knowledge Transfer for Effective Training of Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26dr-training-strategies) · 中文
+- [TodoEvolve: Learning to Architect Agent Planning Systems](../../conferences/icml-2026/cards/2901-3000.md#liu26fz-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -142,6 +143,7 @@ Training schedules, curricula, and task or stage composition.
 - [FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation](../../conferences/icml-2026/cards/2801-2900.md#liu26af-training-strategies) · 中文
 - [Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement](../../conferences/icml-2026/cards/2801-2900.md#liu26au-training-strategies) · 中文
 - [CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors](../../conferences/icml-2026/cards/2801-2900.md#liu26bj-training-strategies) · 中文
+- [Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26fj-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -311,4 +313,5 @@ Training schedules, curricula, and task or stage composition.
 - [Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?](../../conferences/icml-2026/cards/2501-2600.md#li26et-training-strategies) · 中文
 - [From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers](../../conferences/icml-2026/cards/2801-2900.md#liu26aj-training-strategies) · 中文
 - [DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · 中文
+- [From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding](../../conferences/icml-2026/cards/2901-3000.md#liu26em-training-strategies) · 中文
 <!-- classification:end -->

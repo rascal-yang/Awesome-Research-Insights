@@ -57,6 +57,7 @@
 - [让高斯基元的颜色歧义反过来指导表面修复](../conferences/icml-2026/cards/2601-2700.md#li26iz-loss-functions) · Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction
 - [用运输代价固定对抗生成的映射](../conferences/icml-2026/cards/2701-2800.md#lin26ao-loss-functions) · Adversarial Flow Models
 - [分别约束类条件子空间方向和谱容量](../conferences/icml-2026/cards/2801-2900.md#liu26cc-loss-functions) · Geometric Rate–Distortion Invariance for Domain Generalization
+- [带噪潜空间偏好建模](../conferences/icml-2026/cards/2901-3000.md#liu26fh-loss-functions) · Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling
 
 <a id="by-nlp"></a>
 
@@ -108,6 +109,7 @@
 - [用相关负类监督视觉词元做密集预测](../conferences/icml-2026/cards/2501-2600.md#li26fg-loss-functions) · DenseMLLM: Standard Multimodal LLMs for Dense Prediction
 - [未量化潜变量对语音解码器的自指导](../conferences/icml-2026/cards/2601-2700.md#li26jy-loss-functions) · Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment
 - [对可能翻转偏好的市场条件单独监督敏感性](../conferences/icml-2026/cards/2701-2800.md#liu26e-loss-functions) · GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction
+- [用梯度式通道正则压缩连续音频](../conferences/icml-2026/cards/2901-3000.md#liu26ei-loss-functions) · STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation
 
 <a id="by-ml-foundations"></a>
 
