@@ -41,6 +41,8 @@
 - <a id="kayyam26a-architecture"></a>[Do Transformers Need Three Projections? Systematic Study of QKV Variants](../conferences/icml-2026/cards/2001-2100.md#paper-kayyam26a)
 - <a id="koromilas26a-architecture"></a>[PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding](../conferences/icml-2026/cards/2201-2300.md#paper-koromilas26a)
 - <a id="li26ba-architecture"></a>[SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm](../conferences/icml-2026/cards/2401-2500.md#paper-li26ba)
+- <a id="li26fd-architecture"></a>[Breaking the Factorization Barrier in Diffusion Language Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26fd)
+- <a id="li26gk-architecture"></a>[OpenSage: Self-programming Agent Generation Engine](../conferences/icml-2026/cards/2501-2600.md#paper-li26gk)
 
 <a id="by-modules"></a>
 
@@ -73,6 +75,7 @@
 - <a id="li26bs-modules"></a>[The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](../conferences/icml-2026/cards/2401-2500.md#paper-li26bs)
 - <a id="li26cd-modules"></a>[Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention](../conferences/icml-2026/cards/2401-2500.md#paper-li26cd)
 - <a id="li26dl-modules"></a>[FiX: Introducing Fine-grained Forget Gate into Softmax Attention](../conferences/icml-2026/cards/2501-2600.md#paper-li26dl)
+- <a id="li26hj-modules"></a>[Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers](../conferences/icml-2026/cards/2601-2700.md#paper-li26hj)
 
 <a id="by-loss-functions"></a>
 
@@ -95,6 +98,7 @@
 - <a id="jin26e-loss-functions"></a>[Entropy-Aware On-Policy Distillation of Language Models](../conferences/icml-2026/cards/1901-2000.md#paper-jin26e)
 - <a id="jin26j-loss-functions"></a>[C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders](../conferences/icml-2026/cards/1901-2000.md#paper-jin26j)
 - <a id="lee26bb-loss-functions"></a>[FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bb)
+- <a id="li26ew-loss-functions"></a>[Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](../conferences/icml-2026/cards/2501-2600.md#paper-li26ew)
 
 <a id="by-optimization"></a>
 
@@ -253,6 +257,8 @@
 - <a id="li26dp-reinforcement-learning"></a>[Trust Region Masking for Long-Horizon LLM Reinforcement Learning](../conferences/icml-2026/cards/2501-2600.md#paper-li26dp)
 - <a id="li26dw-reinforcement-learning"></a>[Tackling Length Inflation Without Trade-offs: Group Relative Reward Rescaling for Reinforcement Learning](../conferences/icml-2026/cards/2501-2600.md#paper-li26dw)
 - <a id="li26es-reinforcement-learning"></a>[Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](../conferences/icml-2026/cards/2501-2600.md#paper-li26es)
+- <a id="li26gq-reinforcement-learning"></a>[ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards](../conferences/icml-2026/cards/2501-2600.md#paper-li26gq)
+- <a id="li26gv-reinforcement-learning"></a>[BOOSTAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26gv)
 
 <a id="by-training-strategies"></a>
 
@@ -329,6 +335,8 @@
 - <a id="li26cs-training-strategies"></a>[Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation](../conferences/icml-2026/cards/2401-2500.md#paper-li26cs)
 - <a id="li26ds-training-strategies"></a>[Layer-wise Gradient Disentanglement: Decoupling Semantics and Preferences in Direct Preference Optimization](../conferences/icml-2026/cards/2501-2600.md#paper-li26ds)
 - <a id="li26ek-training-strategies"></a>[OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving](../conferences/icml-2026/cards/2501-2600.md#paper-li26ek)
+- <a id="li26hf-training-strategies"></a>[SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding](../conferences/icml-2026/cards/2601-2700.md#paper-li26hf)
+- <a id="li26hh-training-strategies"></a>[Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment](../conferences/icml-2026/cards/2601-2700.md#paper-li26hh)
 
 <a id="by-data-strategies"></a>
 
@@ -365,6 +373,7 @@
 - <a id="lee26u-data-strategies"></a>[From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](../conferences/icml-2026/cards/2301-2400.md#paper-lee26u)
 - <a id="levi26a-data-strategies"></a>[Toward Cybersecurity-Expert Small Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-levi26a)
 - <a id="li26av-data-strategies"></a>[Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26av)
+- <a id="li26hl-data-strategies"></a>[Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](../conferences/icml-2026/cards/2601-2700.md#paper-li26hl)
 
 <a id="by-inference"></a>
 
@@ -533,6 +542,11 @@
 - <a id="li26dq-inference"></a>[Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](../conferences/icml-2026/cards/2501-2600.md#paper-li26dq)
 - <a id="li26dt-inference"></a>[AdverMCTS: Combating Pseudo-Correctness in Code Generation via Adversarial Monte Carlo Tree Search](../conferences/icml-2026/cards/2501-2600.md#paper-li26dt)
 - <a id="li26ev-inference"></a>[Stop When Further Reasoning Won’t Help: Attention-State Adaptive Generation in Reasoning Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26ev)
+- <a id="li26fz-inference"></a>[HeraSys: Collaborative Serving of Multiple LLM Workflows via Fine-Grained End-to-End Optimization](../conferences/icml-2026/cards/2501-2600.md#paper-li26fz)
+- <a id="li26gd-inference"></a>[Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs](../conferences/icml-2026/cards/2501-2600.md#paper-li26gd)
+- <a id="li26gh-inference"></a>[ARC-Decode: Accelerated Decoding with Risk-Bounded Acceptance](../conferences/icml-2026/cards/2501-2600.md#paper-li26gh)
+- <a id="li26gn-inference"></a>[Prefix-Cache-Aware Data Reordering for LLM-Augmented Database Analytics](../conferences/icml-2026/cards/2501-2600.md#paper-li26gn)
+- <a id="li26hq-inference"></a>[PlugGuard: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](../conferences/icml-2026/cards/2601-2700.md#paper-li26hq)
 
 <a id="by-representation-learning"></a>
 
@@ -544,6 +558,7 @@
 - <a id="gadgil26a-representation-learning"></a>[Ensembling Sparse Autoencoders](../conferences/icml-2026/cards/1101-1200.md#paper-gadgil26a)
 - <a id="he26z-representation-learning"></a>[LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection](../conferences/icml-2026/cards/1501-1600.md#paper-he26z)
 - <a id="hu26c-representation-learning"></a>[Towards Atoms of Large Language Models](../conferences/icml-2026/cards/1601-1700.md#paper-hu26c)
+- <a id="li26fj-representation-learning"></a>[SemRep : Generative Code Representation Learning with Code Transformations](../conferences/icml-2026/cards/2501-2600.md#paper-li26fj)
 
 <a id="by-evaluation"></a>
 
@@ -742,6 +757,11 @@
 - <a id="li26ei-evaluation"></a>[OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents](../conferences/icml-2026/cards/2501-2600.md#paper-li26ei)
 - <a id="li26ej-evaluation"></a>[Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs](../conferences/icml-2026/cards/2501-2600.md#paper-li26ej)
 - <a id="li26eu-evaluation"></a>[Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs](../conferences/icml-2026/cards/2501-2600.md#paper-li26eu)
+- <a id="li26fe-evaluation"></a>[InteractBench: Benchmarking LLMs on Competitive Programming under Unrevealed Information](../conferences/icml-2026/cards/2501-2600.md#paper-li26fe)
+- <a id="li26fx-evaluation"></a>[Adaptive Testing for LLM Evaluation: A Psychometric Alternative to Static Benchmarks](../conferences/icml-2026/cards/2501-2600.md#paper-li26fx)
+- <a id="li26gg-evaluation"></a>[Large Language Models as Topological Thinkers: A Benchmark on Graph Persistent Homology](../conferences/icml-2026/cards/2501-2600.md#paper-li26gg)
+- <a id="li26gr-evaluation"></a>[Expectation Alignment of Language Models for Real-World User Expectations](../conferences/icml-2026/cards/2501-2600.md#paper-li26gr)
+- <a id="li26gw-evaluation"></a>[Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](../conferences/icml-2026/cards/2501-2600.md#paper-li26gw)
 
 <a id="by-theory-statistics"></a>
 
@@ -778,4 +798,5 @@
 - <a id="lee26bl-theory-statistics"></a>[How to Correctly Report LLM-as-a-Judge Evaluations](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bl)
 - <a id="li26ag-theory-statistics"></a>[Understanding Generalization and Forgetting in In-Context Continual Learning](../conferences/icml-2026/cards/2401-2500.md#paper-li26ag)
 - <a id="li26ed-theory-statistics"></a>[Predicting Large Model Test Losses with a Noisy Quadratic System](../conferences/icml-2026/cards/2501-2600.md#paper-li26ed)
+- <a id="li26fp-theory-statistics"></a>[An Information-Theoretic Criterion for Efficient Data Synthesis](../conferences/icml-2026/cards/2501-2600.md#paper-li26fp)
 <!-- classification:end -->

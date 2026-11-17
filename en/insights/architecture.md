@@ -41,6 +41,8 @@ Model-wide design and information flow.
 - [Do Transformers Need Three Projections? Systematic Study of QKV Variants](../../conferences/icml-2026/cards/2001-2100.md#kayyam26a-architecture) · 中文
 - [PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding](../../conferences/icml-2026/cards/2201-2300.md#koromilas26a-architecture) · 中文
 - [SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm](../../conferences/icml-2026/cards/2401-2500.md#li26ba-architecture) · 中文
+- [Breaking the Factorization Barrier in Diffusion Language Models](../../conferences/icml-2026/cards/2501-2600.md#li26fd-architecture) · 中文
+- [OpenSage: Self-programming Agent Generation Engine](../../conferences/icml-2026/cards/2501-2600.md#li26gk-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -81,6 +83,7 @@ Model-wide design and information flow.
 - [DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring](../../conferences/icml-2026/cards/2401-2500.md#li26bq-architecture) · 中文
 - [SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](../../conferences/icml-2026/cards/2401-2500.md#li26bx-architecture) · 中文
 - [Solving Spatial-Spectral Fusion with Latent Spectral Operators](../../conferences/icml-2026/cards/2501-2600.md#li26en-architecture) · 中文
+- [Towards Trustworthy and Identifiable Virtual Face Generation](../../conferences/icml-2026/cards/2501-2600.md#li26gt-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -116,6 +119,9 @@ Model-wide design and information flow.
 - [HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control](../../conferences/icml-2026/cards/1801-1900.md#ji26k-architecture) · 中文
 - [DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving](../../conferences/icml-2026/cards/1801-1900.md#jia26f-architecture) · 中文
 - [VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs](../../conferences/icml-2026/cards/1901-2000.md#jiang26bf-architecture) · 中文
+- [Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery](../../conferences/icml-2026/cards/2501-2600.md#li26fm-architecture) · 中文
+- [DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter](../../conferences/icml-2026/cards/2501-2600.md#li26fs-architecture) · 中文
+- [Structured 4D Latent Predictive Model for Robot Planning](../../conferences/icml-2026/cards/2601-2700.md#li26hk-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -175,6 +181,7 @@ Model-wide design and information flow.
 - [Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent](../../conferences/icml-2026/cards/2201-2300.md#larue26a-architecture) · 中文
 - [Generalizing Multi-Scale Time-Series Modeling with a Single Operator](../../conferences/icml-2026/cards/2301-2400.md#lee26al-architecture) · 中文
 - [FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences](../../conferences/icml-2026/cards/2401-2500.md#li26cx-architecture) · 中文
+- [MIMOMamba: From Scalar Duality to Matrix-Valued Attention](../../conferences/icml-2026/cards/2501-2600.md#li26ft-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -252,4 +259,6 @@ Model-wide design and information flow.
 - [From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators](../../conferences/icml-2026/cards/2401-2500.md#li26aq-architecture) · 中文
 - [Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations](../../conferences/icml-2026/cards/2501-2600.md#li26dk-architecture) · 中文
 - [CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM](../../conferences/icml-2026/cards/2501-2600.md#li26eh-architecture) · 中文
+- [Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis](../../conferences/icml-2026/cards/2501-2600.md#li26gp-architecture) · 中文
+- [Neural Modular Physics for Elastic Simulation](../../conferences/icml-2026/cards/2601-2700.md#li26ho-architecture) · 中文
 <!-- classification:end -->

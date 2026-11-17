@@ -176,6 +176,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](../../conferences/icml-2026/cards/2501-2600.md#li26dq-inference) · 中文
 - [AdverMCTS: Combating Pseudo-Correctness in Code Generation via Adversarial Monte Carlo Tree Search](../../conferences/icml-2026/cards/2501-2600.md#li26dt-inference) · 中文
 - [Stop When Further Reasoning Won’t Help: Attention-State Adaptive Generation in Reasoning Models](../../conferences/icml-2026/cards/2501-2600.md#li26ev-inference) · 中文
+- [HeraSys: Collaborative Serving of Multiple LLM Workflows via Fine-Grained End-to-End Optimization](../../conferences/icml-2026/cards/2501-2600.md#li26fz-inference) · 中文
+- [Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs](../../conferences/icml-2026/cards/2501-2600.md#li26gd-inference) · 中文
+- [ARC-Decode: Accelerated Decoding with Risk-Bounded Acceptance](../../conferences/icml-2026/cards/2501-2600.md#li26gh-inference) · 中文
+- [Prefix-Cache-Aware Data Reordering for LLM-Augmented Database Analytics](../../conferences/icml-2026/cards/2501-2600.md#li26gn-inference) · 中文
+- [PlugGuard: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](../../conferences/icml-2026/cards/2601-2700.md#li26hq-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -239,6 +244,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [The Velocity Deficit: Initial Energy Injection for Flow Matching](../../conferences/icml-2026/cards/2401-2500.md#li26bi-inference) · 中文
 - [A Kinetic Energy Perspective of Flow Matching](../../conferences/icml-2026/cards/2401-2500.md#li26bk-inference) · 中文
 - [Initialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior](../../conferences/icml-2026/cards/2501-2600.md#li26de-inference) · 中文
+- [FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models](../../conferences/icml-2026/cards/2501-2600.md#li26go-inference) · 中文
+- [DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion](../../conferences/icml-2026/cards/2601-2700.md#li26hx-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -255,6 +262,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Incremental BPE Tokenization](../../conferences/icml-2026/cards/1901-2000.md#jiang26l-inference) · 中文
 - [Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](../../conferences/icml-2026/cards/1901-2000.md#jiang26aa-inference) · 中文
 - [Context-Driven Incremental Compression for Multi-Turn Dialogue Generation](../../conferences/icml-2026/cards/2001-2100.md#jung26e-inference) · 中文
+- [AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing](../../conferences/icml-2026/cards/2501-2600.md#li26ex-inference) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -294,6 +302,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies](../../conferences/icml-2026/cards/2001-2100.md#kapoor26a-inference) · 中文
 - [Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](../../conferences/icml-2026/cards/2301-2400.md#lee26ax-inference) · 中文
 - [STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction](../../conferences/icml-2026/cards/2401-2500.md#li26aa-inference) · 中文
+- [VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](../../conferences/icml-2026/cards/2501-2600.md#li26fl-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -354,6 +363,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](../../conferences/icml-2026/cards/2501-2600.md#li26di-inference) · 中文
 - [Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases](../../conferences/icml-2026/cards/2501-2600.md#li26dj-inference) · 中文
 - [BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception](../../conferences/icml-2026/cards/2501-2600.md#li26eo-inference) · 中文
+- [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](../../conferences/icml-2026/cards/2601-2700.md#li26ht-inference) · 中文
+- [PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models](../../conferences/icml-2026/cards/2601-2700.md#li26hv-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -385,6 +396,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [On the Collapse of Generative Paths: A Criterion and Correction for Diffusion Steering](../../conferences/icml-2026/cards/2301-2400.md#lee26n-inference) · 中文
 - [Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation](../../conferences/icml-2026/cards/2301-2400.md#lee26ar-inference) · 中文
 - [Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](../../conferences/icml-2026/cards/2301-2400.md#lee26aw-inference) · 中文
+- [RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs](../../conferences/icml-2026/cards/2501-2600.md#li26fq-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -397,6 +409,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](../../conferences/icml-2026/cards/1301-1400.md#guo26t-inference) · 中文
 - [X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](../../conferences/icml-2026/cards/1301-1400.md#guo26ac-inference) · 中文
 - [GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#jiang26al-inference) · 中文
+- [LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers](../../conferences/icml-2026/cards/2501-2600.md#li26gz-inference) · 中文
 
 <a id="by-scientific-ml"></a>
 

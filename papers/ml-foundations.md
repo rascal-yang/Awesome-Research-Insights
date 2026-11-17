@@ -46,6 +46,7 @@
 - <a id="larue26a-architecture"></a>[Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent](../conferences/icml-2026/cards/2201-2300.md#paper-larue26a)
 - <a id="lee26al-architecture"></a>[Generalizing Multi-Scale Time-Series Modeling with a Single Operator](../conferences/icml-2026/cards/2301-2400.md#paper-lee26al)
 - <a id="li26cx-architecture"></a>[FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences](../conferences/icml-2026/cards/2401-2500.md#paper-li26cx)
+- <a id="li26ft-architecture"></a>[MIMOMamba: From Scalar Duality to Matrix-Valued Attention](../conferences/icml-2026/cards/2501-2600.md#paper-li26ft)
 
 <a id="by-modules"></a>
 
@@ -84,6 +85,7 @@
 - <a id="kim26bk-modules"></a>[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bk)
 - <a id="lee26h-modules"></a>[Dynamic Relational Priming Improves Transformer in Multivariate Time Series](../conferences/icml-2026/cards/2301-2400.md#paper-lee26h)
 - <a id="li26bu-modules"></a>[Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting](../conferences/icml-2026/cards/2401-2500.md#paper-li26bu)
+- <a id="li26hn-modules"></a>[nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../conferences/icml-2026/cards/2601-2700.md#paper-li26hn)
 
 <a id="by-loss-functions"></a>
 
@@ -109,6 +111,7 @@
 - <a id="kim26ab-loss-functions"></a>[Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ab)
 - <a id="lee26aq-loss-functions"></a>[Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data](../conferences/icml-2026/cards/2301-2400.md#paper-lee26aq)
 - <a id="lee26bd-loss-functions"></a>[Contrastive Order Learning: A General Framework for Ordinal Regression](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bd)
+- <a id="li26fn-loss-functions"></a>[Trajectory Consistency for One-Step Generation on Euler Mean Flows](../conferences/icml-2026/cards/2501-2600.md#paper-li26fn)
 
 <a id="by-optimization"></a>
 
@@ -267,6 +270,7 @@
 - <a id="li26ab-optimization"></a>[MoSSP: A Momentum-Based Single-Loop Stochastic Penalty Method for Nonconvex Constrained DC-regularized Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26ab)
 - <a id="li26as-optimization"></a>[Large Scale Manifold Balanced Clustering](../conferences/icml-2026/cards/2401-2500.md#paper-li26as)
 - <a id="li26dc-optimization"></a>[Breaking Multi-Task Curse: Reward-Weighted Evolution for Black-Box Many-Task Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26dc)
+- <a id="li26gx-optimization"></a>[Cross-task Calibration for Asynchronous Federated Continual Learning](../conferences/icml-2026/cards/2501-2600.md#paper-li26gx)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -328,6 +332,7 @@
 - <a id="leng26b-training-strategies"></a>[LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games](../conferences/icml-2026/cards/2301-2400.md#paper-leng26b)
 - <a id="li26ae-training-strategies"></a>[FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training](../conferences/icml-2026/cards/2401-2500.md#paper-li26ae)
 - <a id="li26ep-training-strategies"></a>[When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](../conferences/icml-2026/cards/2501-2600.md#paper-li26ep)
+- <a id="li26fa-training-strategies"></a>[SURF: Separation via Unsupervised Remixing Flow](../conferences/icml-2026/cards/2501-2600.md#paper-li26fa)
 
 <a id="by-data-strategies"></a>
 
@@ -380,6 +385,7 @@
 - <a id="lee26n-inference"></a>[On the Collapse of Generative Paths: A Criterion and Correction for Diffusion Steering](../conferences/icml-2026/cards/2301-2400.md#paper-lee26n)
 - <a id="lee26ar-inference"></a>[Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ar)
 - <a id="lee26aw-inference"></a>[Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](../conferences/icml-2026/cards/2301-2400.md#paper-lee26aw)
+- <a id="li26fq-inference"></a>[RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs](../conferences/icml-2026/cards/2501-2600.md#paper-li26fq)
 
 <a id="by-representation-learning"></a>
 
@@ -413,6 +419,8 @@
 - <a id="kwon26b-representation-learning"></a>[AI Engram: In Search of Memory Traces in Artificial Intelligence](../conferences/icml-2026/cards/2201-2300.md#paper-kwon26b)
 - <a id="li26cg-representation-learning"></a>[Label-Guided Representation Learning for Incomplete Multi-View Multi-Label Classification](../conferences/icml-2026/cards/2401-2500.md#paper-li26cg)
 - <a id="li26du-representation-learning"></a>[Towards One-for-All Anomaly Detection for Tabular Data](../conferences/icml-2026/cards/2501-2600.md#paper-li26du)
+- <a id="li26fh-representation-learning"></a>[An Asymmetric Latent Factorization-of-Tensors Model for Relation Analysis](../conferences/icml-2026/cards/2501-2600.md#paper-li26fh)
+- <a id="li26fu-representation-learning"></a>[Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](../conferences/icml-2026/cards/2501-2600.md#paper-li26fu)
 
 <a id="by-evaluation"></a>
 
@@ -457,6 +465,7 @@
 - <a id="koulakis26a-evaluation"></a>[The Data Manifold under the Microscope](../conferences/icml-2026/cards/2201-2300.md#paper-koulakis26a)
 - <a id="kuskova26a-evaluation"></a>[Function-Valued Causal Influence in Nonlinear Time Series](../conferences/icml-2026/cards/2201-2300.md#paper-kuskova26a)
 - <a id="lan26a-evaluation"></a>[ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation](../conferences/icml-2026/cards/2201-2300.md#paper-lan26a)
+- <a id="li26gf-evaluation"></a>[Causes and Consequences of Representational Similarity in Machine Learning Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26gf)
 
 <a id="by-theory-statistics"></a>
 
@@ -730,4 +739,9 @@
 - <a id="li26dx-theory-statistics"></a>[How Can Mamba Learn In Context with Outliers and Generalize Provably?](../conferences/icml-2026/cards/2501-2600.md#paper-li26dx)
 - <a id="li26ef-theory-statistics"></a>[A Minimax Approach for Optimal Intervention Policy Learning with Two-Stage Outcomes](../conferences/icml-2026/cards/2501-2600.md#paper-li26ef)
 - <a id="li26eg-theory-statistics"></a>[Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs](../conferences/icml-2026/cards/2501-2600.md#paper-li26eg)
+- <a id="li26ey-theory-statistics"></a>[A Studentized Spherical Harmonics–Based Nonparametric Two-Sample Test for Compositional and Directional Data](../conferences/icml-2026/cards/2501-2600.md#paper-li26ey)
+- <a id="li26gc-theory-statistics"></a>[The Implicit Bias of Steepest Descent with Mini-batch Stochastic Gradient](../conferences/icml-2026/cards/2501-2600.md#paper-li26gc)
+- <a id="li26hd-theory-statistics"></a>[Differentially Private Continual Release with Relative Error](../conferences/icml-2026/cards/2601-2700.md#paper-li26hd)
+- <a id="li26hg-theory-statistics"></a>[Statistical Consistency and Generalization of Contrastive Representation Learning](../conferences/icml-2026/cards/2601-2700.md#paper-li26hg)
+- <a id="li26hu-theory-statistics"></a>[A Recursive Decomposition Framework for Causal Structure Learning in the Presence of Latent Variables](../conferences/icml-2026/cards/2601-2700.md#paper-li26hu)
 <!-- classification:end -->

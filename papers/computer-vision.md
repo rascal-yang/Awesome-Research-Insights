@@ -48,6 +48,7 @@
 - <a id="li26bq-architecture"></a>[DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring](../conferences/icml-2026/cards/2401-2500.md#paper-li26bq)
 - <a id="li26bx-architecture"></a>[SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](../conferences/icml-2026/cards/2401-2500.md#paper-li26bx)
 - <a id="li26en-architecture"></a>[Solving Spatial-Spectral Fusion with Latent Spectral Operators](../conferences/icml-2026/cards/2501-2600.md#paper-li26en)
+- <a id="li26gt-architecture"></a>[Towards Trustworthy and Identifiable Virtual Face Generation](../conferences/icml-2026/cards/2501-2600.md#paper-li26gt)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -76,6 +77,8 @@
 - <a id="kumar26c-modules"></a>[Concept Removal for Frontier Image Generative Models](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26c)
 - <a id="li26cm-modules"></a>[One Model to Translate Them All: Universal Any-to-Any Translation for Heterogeneous Collaborative Perception](../conferences/icml-2026/cards/2401-2500.md#paper-li26cm)
 - <a id="li26cn-modules"></a>[CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception](../conferences/icml-2026/cards/2401-2500.md#paper-li26cn)
+- <a id="li26ff-modules"></a>[Bridging the Perceptual Gap: Residual-Enhanced Downscaling and Manifold-Aware Perception Alignment Adaptation for NR-IQA](../conferences/icml-2026/cards/2501-2600.md#paper-li26ff)
+- <a id="li26fi-modules"></a>[NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams](../conferences/icml-2026/cards/2501-2600.md#paper-li26fi)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -119,6 +122,7 @@
 - <a id="lai26d-optimization"></a>[MoCL: Metabolic Optimization for Curvature-Aware Continual Learning](../conferences/icml-2026/cards/2201-2300.md#paper-lai26d)
 - <a id="lee26ak-optimization"></a>[UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ak)
 - <a id="lee26as-optimization"></a>[Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization](../conferences/icml-2026/cards/2301-2400.md#paper-lee26as)
+- <a id="li26gy-optimization"></a>[Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation](../conferences/icml-2026/cards/2501-2600.md#paper-li26gy)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -131,6 +135,7 @@
 - <a id="guo26h-reinforcement-learning"></a>[Probabilistic Salient Object Ranking](../conferences/icml-2026/cards/1301-1400.md#paper-guo26h)
 - <a id="han26o-reinforcement-learning"></a>[ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models](../conferences/icml-2026/cards/1401-1500.md#paper-han26o)
 - <a id="hu26j-reinforcement-learning"></a>[Embedding-perturbed Exploration Preference Optimization for Flow Models](../conferences/icml-2026/cards/1601-1700.md#paper-hu26j)
+- <a id="li26hw-reinforcement-learning"></a>[Optimizing Visual Generative Models via Distribution-wise Rewards](../conferences/icml-2026/cards/2601-2700.md#paper-li26hw)
 
 <a id="by-training-strategies"></a>
 
@@ -166,6 +171,9 @@
 - <a id="li26db-training-strategies"></a>[High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation](../conferences/icml-2026/cards/2401-2500.md#paper-li26db)
 - <a id="li26em-training-strategies"></a>[PCGS: Deblurring 3D Gaussian Splatting with Patch Comparison](../conferences/icml-2026/cards/2501-2600.md#paper-li26em)
 - <a id="li26eq-training-strategies"></a>[Energy-Structured Low-Rank Adaptation for Continual Learning](../conferences/icml-2026/cards/2501-2600.md#paper-li26eq)
+- <a id="li26fy-training-strategies"></a>[Private and Stable Test-time Adaptation with Differential Privacy](../conferences/icml-2026/cards/2501-2600.md#paper-li26fy)
+- <a id="li26gj-training-strategies"></a>[Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Editing via In-Context Learning](../conferences/icml-2026/cards/2501-2600.md#paper-li26gj)
+- <a id="li26hp-training-strategies"></a>[Object-level Semantic and Spatial Distillation for Open Vocabulary Detection](../conferences/icml-2026/cards/2601-2700.md#paper-li26hp)
 
 <a id="by-data-strategies"></a>
 
@@ -246,6 +254,8 @@
 - <a id="li26bi-inference"></a>[The Velocity Deficit: Initial Energy Injection for Flow Matching](../conferences/icml-2026/cards/2401-2500.md#paper-li26bi)
 - <a id="li26bk-inference"></a>[A Kinetic Energy Perspective of Flow Matching](../conferences/icml-2026/cards/2401-2500.md#paper-li26bk)
 - <a id="li26de-inference"></a>[Initialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior](../conferences/icml-2026/cards/2501-2600.md#paper-li26de)
+- <a id="li26go-inference"></a>[FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26go)
+- <a id="li26hx-inference"></a>[DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion](../conferences/icml-2026/cards/2601-2700.md#paper-li26hx)
 
 <a id="by-representation-learning"></a>
 
@@ -323,6 +333,7 @@
 - <a id="li26h-evaluation"></a>[StableI2I: Spotting Unintended Changes in Image-to-Image Transition](../conferences/icml-2026/cards/2301-2400.md#paper-li26h)
 - <a id="li26s-evaluation"></a>[Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](../conferences/icml-2026/cards/2401-2500.md#paper-li26s)
 - <a id="li26br-evaluation"></a>[Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles](../conferences/icml-2026/cards/2401-2500.md#paper-li26br)
+- <a id="li26he-evaluation"></a>[OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects](../conferences/icml-2026/cards/2601-2700.md#paper-li26he)
 
 <a id="by-theory-statistics"></a>
 

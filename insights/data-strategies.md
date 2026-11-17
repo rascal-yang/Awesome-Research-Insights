@@ -44,6 +44,7 @@
 - [将端侧偏好记忆压缩为可检索指令](../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG
 - [先定义专家推理步骤再用证据改写监督](../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · Toward Cybersecurity-Expert Small Language Models
 - [容量感知的数据配比定律](../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization
+- [瞄准稀疏字典中的数据空缺](../conferences/icml-2026/cards/2601-2700.md#li26hl-data-strategies) · Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders
 
 <a id="by-computer-vision"></a>
 
@@ -150,6 +151,8 @@
 - [选取同时覆盖特征与超图传播的标注节点](../conferences/icml-2026/cards/1601-1700.md#hou26c-data-strategies) · HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization
 - [以扩散邻域影响冲突诊断标签](../conferences/icml-2026/cards/2001-2100.md#ju26c-data-strategies) · Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction
 - [先合成表间连接再生成列分布](../conferences/icml-2026/cards/2201-2300.md#kothapalli26a-data-strategies) · PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models
+- [锚定超图凝缩并对齐两级分布](../conferences/icml-2026/cards/2501-2600.md#li26gi-data-strategies) · Anchor-guided Hypergraph Condensation with Dual-level Discrimination
+- [潜空间单步合成图异常](../conferences/icml-2026/cards/2601-2700.md#li26hb-data-strategies) · GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model
 
 <a id="by-scientific-ml"></a>
 

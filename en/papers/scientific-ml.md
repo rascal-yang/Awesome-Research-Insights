@@ -67,6 +67,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26aq-architecture"></a>[From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators](../../conferences/icml-2026/cards/2401-2500.md#paper-li26aq)
 - <a id="li26dk-architecture"></a>[Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dk)
 - <a id="li26eh-architecture"></a>[CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM](../../conferences/icml-2026/cards/2501-2600.md#paper-li26eh)
+- <a id="li26gp-architecture"></a>[Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gp)
+- <a id="li26ho-architecture"></a>[Neural Modular Physics for Elastic Simulation](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ho)
 
 <a id="by-modules"></a>
 
@@ -148,6 +150,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lai26f-reinforcement-learning"></a>[LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching](../../conferences/icml-2026/cards/2201-2300.md#paper-lai26f)
 - <a id="li26bp-reinforcement-learning"></a>[Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bp)
 - <a id="li26ch-reinforcement-learning"></a>[FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ch)
+- <a id="li26gs-reinforcement-learning"></a>[Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gs)
 
 <a id="by-training-strategies"></a>
 
@@ -252,6 +255,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26bg-representation-learning"></a>[Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bg)
 - <a id="li26bl-representation-learning"></a>[Source-Free Open-World RF Fingerprint Identification](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bl)
 - <a id="li26ct-representation-learning"></a>[Learning Molecular Semantic Invariant Representation with Prototype Constraint](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ct)
+- <a id="li26fo-representation-learning"></a>[Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fo)
+- <a id="li26gl-representation-learning"></a>[Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gl)
+- <a id="li26ha-representation-learning"></a>[A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ha)
 
 <a id="by-evaluation"></a>
 
@@ -281,6 +287,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="kuang26d-evaluation"></a>[PDFBench: A Benchmark for De Novo Protein Design from Function](../../conferences/icml-2026/cards/2201-2300.md#paper-kuang26d)
 - <a id="ledneva26b-evaluation"></a>[GENEB: Why Genomic Models Are Hard to Compare](../../conferences/icml-2026/cards/2301-2400.md#paper-ledneva26b)
 - <a id="li26t-evaluation"></a>[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../../conferences/icml-2026/cards/2401-2500.md#paper-li26t)
+- <a id="li26hr-evaluation"></a>[HEARTS: Benchmarking LLM Reasoning on Health Time Series](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hr)
 
 <a id="by-theory-statistics"></a>
 

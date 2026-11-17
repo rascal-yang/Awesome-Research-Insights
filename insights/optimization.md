@@ -91,6 +91,7 @@
 - [按历史曲率对增量任务的更新作软抑制](../conferences/icml-2026/cards/2201-2300.md#lai26d-optimization) · MoCL: Metabolic Optimization for Curvature-Aware Continual Learning
 - [放松传输边际并用观测似然约束反演](../conferences/icml-2026/cards/2301-2400.md#lee26ak-optimization) · UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems
 - [按感受野位置调节三维大卷积核的梯度](../conferences/icml-2026/cards/2301-2400.md#lee26as-optimization) · Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization
+- [按视觉生成轨迹初始化稀疏专家](../conferences/icml-2026/cards/2501-2600.md#li26gy-optimization) · Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation
 
 <a id="by-nlp"></a>
 
@@ -279,6 +280,7 @@
 - [把惩罚项包络和差分正则两部分并行更新](../conferences/icml-2026/cards/2401-2500.md#li26ab-optimization) · MoSSP: A Momentum-Based Single-Loop Stochastic Penalty Method for Nonconvex Constrained DC-regularized Optimization
 - [锚点流形上的均衡聚类](../conferences/icml-2026/cards/2401-2500.md#li26as-optimization) · Large Scale Manifold Balanced Clustering
 - [用历史进展共同调配评估与跨任务迁移](../conferences/icml-2026/cards/2401-2500.md#li26dc-optimization) · Breaking Multi-Task Curse: Reward-Weighted Evolution for Black-Box Many-Task Optimization
+- [异步联邦持续学习的双重漂移校准](../conferences/icml-2026/cards/2501-2600.md#li26gx-optimization) · Cross-task Calibration for Asynchronous Federated Continual Learning
 
 <a id="by-graph-and-recommendation"></a>
 

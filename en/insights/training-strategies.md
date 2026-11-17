@@ -84,6 +84,8 @@ Training schedules, curricula, and task or stage composition.
 - [Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation](../../conferences/icml-2026/cards/2401-2500.md#li26cs-training-strategies) · 中文
 - [Layer-wise Gradient Disentanglement: Decoupling Semantics and Preferences in Direct Preference Optimization](../../conferences/icml-2026/cards/2501-2600.md#li26ds-training-strategies) · 中文
 - [OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving](../../conferences/icml-2026/cards/2501-2600.md#li26ek-training-strategies) · 中文
+- [SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding](../../conferences/icml-2026/cards/2601-2700.md#li26hf-training-strategies) · 中文
+- [Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment](../../conferences/icml-2026/cards/2601-2700.md#li26hh-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -119,6 +121,9 @@ Training schedules, curricula, and task or stage composition.
 - [High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation](../../conferences/icml-2026/cards/2401-2500.md#li26db-training-strategies) · 中文
 - [PCGS: Deblurring 3D Gaussian Splatting with Patch Comparison](../../conferences/icml-2026/cards/2501-2600.md#li26em-training-strategies) · 中文
 - [Energy-Structured Low-Rank Adaptation for Continual Learning](../../conferences/icml-2026/cards/2501-2600.md#li26eq-training-strategies) · 中文
+- [Private and Stable Test-time Adaptation with Differential Privacy](../../conferences/icml-2026/cards/2501-2600.md#li26fy-training-strategies) · 中文
+- [Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Editing via In-Context Learning](../../conferences/icml-2026/cards/2501-2600.md#li26gj-training-strategies) · 中文
+- [Object-level Semantic and Spatial Distillation for Open Vocabulary Detection](../../conferences/icml-2026/cards/2601-2700.md#li26hp-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -179,6 +184,7 @@ Training schedules, curricula, and task or stage composition.
 - [HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models](../../conferences/icml-2026/cards/2201-2300.md#le26b-training-strategies) · 中文
 - [Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective](../../conferences/icml-2026/cards/2301-2400.md#lee26bk-training-strategies) · 中文
 - [Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining](../../conferences/icml-2026/cards/2401-2500.md#li26q-training-strategies) · 中文
+- [Robust Vision-Language Models via Manifold-Adversarial Adapters](../../conferences/icml-2026/cards/2601-2700.md#li26hs-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -233,6 +239,7 @@ Training schedules, curricula, and task or stage composition.
 - [LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games](../../conferences/icml-2026/cards/2301-2400.md#leng26b-training-strategies) · 中文
 - [FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training](../../conferences/icml-2026/cards/2401-2500.md#li26ae-training-strategies) · 中文
 - [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](../../conferences/icml-2026/cards/2501-2600.md#li26ep-training-strategies) · 中文
+- [SURF: Separation via Unsupervised Remixing Flow](../../conferences/icml-2026/cards/2501-2600.md#li26fa-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -244,6 +251,7 @@ Training schedules, curricula, and task or stage composition.
 - [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](../../conferences/icml-2026/cards/1201-1300.md#gao26ai-training-strategies) · 中文
 - [Certifying Graph Neural Networks Against Label and Structure Poisoning](../../conferences/icml-2026/cards/1301-1400.md#gosch26a-training-strategies) · 中文
 - [Feedback Control for Multi-Objective Graph Self-Supervision](../../conferences/icml-2026/cards/1301-1400.md#grover26a-training-strategies) · 中文
+- [FedRGL: Robust Federated Graph Learning under Label Noise](../../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

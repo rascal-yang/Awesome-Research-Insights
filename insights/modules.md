@@ -40,6 +40,7 @@
 - [在值聚合后修正位置方差](../conferences/icml-2026/cards/2401-2500.md#li26bs-modules) · The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity
 - [按查询路由从多域抽取的注意力方向](../conferences/icml-2026/cards/2401-2500.md#li26cd-modules) · Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention
 - [借 RMSNorm 的尺度消除把逐维遗忘施加在值上](../conferences/icml-2026/cards/2501-2600.md#li26dl-modules) · FiX: Introducing Fine-grained Forget Gate into Softmax Attention
+- [只对专家选择建模贝叶斯不确定性](../conferences/icml-2026/cards/2601-2700.md#li26hj-modules) · Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers
 
 <a id="by-computer-vision"></a>
 
@@ -68,6 +69,8 @@
 - [用可分解转换器编辑内部生成特征](../conferences/icml-2026/cards/2201-2300.md#kumar26c-modules) · Concept Removal for Frontier Image Generative Models
 - [按模态对临时组合协同感知转换器](../conferences/icml-2026/cards/2401-2500.md#li26cm-modules) · One Model to Translate Them All: Universal Any-to-Any Translation for Heterogeneous Collaborative Perception
 - [协同感知协议里的模态统计干预](../conferences/icml-2026/cards/2401-2500.md#li26cn-modules) · CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception
+- [从输入残差和视觉子空间双重恢复失真信号](../conferences/icml-2026/cards/2501-2600.md#li26ff-modules) · Bridging the Perceptual Gap: Residual-Enhanced Downscaling and Manifold-Aware Perception Alignment Adaptation for NR-IQA
+- [惯性补全与脉冲置信门联合修复退化感知](../conferences/icml-2026/cards/2501-2600.md#li26fi-modules) · NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -142,6 +145,7 @@
 - [用输入驱动的辛变换伸缩注意力时间轴](../conferences/icml-2026/cards/2101-2200.md#kim26bk-modules) · StretchTime: Adaptive Time Series Forecasting via Symplectic Attention
 - [用关系条件调制注意力投影](../conferences/icml-2026/cards/2301-2400.md#lee26h-modules) · Dynamic Relational Priming Improves Transformer in Multivariate Time Series
 - [在冻结时序模型上学习域条件通道关系](../conferences/icml-2026/cards/2401-2500.md#li26bu-modules) · Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting
+- [用单纯形频率构造多维旋转位置编码](../conferences/icml-2026/cards/2601-2700.md#li26hn-modules) · nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
 
 <a id="by-graph-and-recommendation"></a>
 

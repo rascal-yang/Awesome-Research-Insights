@@ -206,6 +206,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents](../../conferences/icml-2026/cards/2501-2600.md#li26ei-evaluation) · 中文
 - [Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs](../../conferences/icml-2026/cards/2501-2600.md#li26ej-evaluation) · 中文
 - [Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs](../../conferences/icml-2026/cards/2501-2600.md#li26eu-evaluation) · 中文
+- [InteractBench: Benchmarking LLMs on Competitive Programming under Unrevealed Information](../../conferences/icml-2026/cards/2501-2600.md#li26fe-evaluation) · 中文
+- [Adaptive Testing for LLM Evaluation: A Psychometric Alternative to Static Benchmarks](../../conferences/icml-2026/cards/2501-2600.md#li26fx-evaluation) · 中文
+- [Large Language Models as Topological Thinkers: A Benchmark on Graph Persistent Homology](../../conferences/icml-2026/cards/2501-2600.md#li26gg-evaluation) · 中文
+- [Expectation Alignment of Language Models for Real-World User Expectations](../../conferences/icml-2026/cards/2501-2600.md#li26gr-evaluation) · 中文
+- [Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](../../conferences/icml-2026/cards/2501-2600.md#li26gw-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -248,6 +253,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [StableI2I: Spotting Unintended Changes in Image-to-Image Transition](../../conferences/icml-2026/cards/2301-2400.md#li26h-evaluation) · 中文
 - [Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](../../conferences/icml-2026/cards/2401-2500.md#li26s-evaluation) · 中文
 - [Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles](../../conferences/icml-2026/cards/2401-2500.md#li26br-evaluation) · 中文
+- [OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects](../../conferences/icml-2026/cards/2601-2700.md#li26he-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -295,6 +301,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](../../conferences/icml-2026/cards/1101-1200.md#fu26u-evaluation) · 中文
 - [TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](../../conferences/icml-2026/cards/1701-1800.md#huang26cm-evaluation) · 中文
 - [Moving Out: Physically-grounded Human-AI Collaboration](../../conferences/icml-2026/cards/2001-2100.md#kang26i-evaluation) · 中文
+- [Scaling Robot Policy Evaluation via Discrete Diffusion World Model](../../conferences/icml-2026/cards/2601-2700.md#li26hi-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -352,6 +359,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs](../../conferences/icml-2026/cards/2401-2500.md#li26z-evaluation) · 中文
 - [SAW-Bench: Learning Situated Awareness in the Real World](../../conferences/icml-2026/cards/2401-2500.md#li26bb-evaluation) · 中文
 - [Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](../../conferences/icml-2026/cards/2401-2500.md#li26co-evaluation) · 中文
+- [ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing](../../conferences/icml-2026/cards/2501-2600.md#li26fr-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -396,6 +404,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Data Manifold under the Microscope](../../conferences/icml-2026/cards/2201-2300.md#koulakis26a-evaluation) · 中文
 - [Function-Valued Causal Influence in Nonlinear Time Series](../../conferences/icml-2026/cards/2201-2300.md#kuskova26a-evaluation) · 中文
 - [ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation](../../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · 中文
+- [Causes and Consequences of Representational Similarity in Machine Learning Models](../../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -437,4 +446,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [PDFBench: A Benchmark for De Novo Protein Design from Function](../../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · 中文
 - [GENEB: Why Genomic Models Are Hard to Compare](../../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · 中文
 - [StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · 中文
+- [HEARTS: Benchmarking LLM Reasoning on Health Time Series](../../conferences/icml-2026/cards/2601-2700.md#li26hr-evaluation) · 中文
 <!-- classification:end -->

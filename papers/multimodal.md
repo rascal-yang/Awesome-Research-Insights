@@ -67,6 +67,7 @@
 - <a id="hu26aw-loss-functions"></a>[DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs](../conferences/icml-2026/cards/1601-1700.md#paper-hu26aw)
 - <a id="kosman26a-loss-functions"></a>[Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges](../conferences/icml-2026/cards/2201-2300.md#paper-kosman26a)
 - <a id="li26er-loss-functions"></a>[Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26er)
+- <a id="li26fg-loss-functions"></a>[DenseMLLM: Standard Multimodal LLMs for Dense Prediction](../conferences/icml-2026/cards/2501-2600.md#paper-li26fg)
 
 <a id="by-optimization"></a>
 
@@ -137,6 +138,7 @@
 - <a id="le26b-training-strategies"></a>[HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models](../conferences/icml-2026/cards/2201-2300.md#paper-le26b)
 - <a id="lee26bk-training-strategies"></a>[Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bk)
 - <a id="li26q-training-strategies"></a>[Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining](../conferences/icml-2026/cards/2401-2500.md#paper-li26q)
+- <a id="li26hs-training-strategies"></a>[Robust Vision-Language Models via Manifold-Adversarial Adapters](../conferences/icml-2026/cards/2601-2700.md#paper-li26hs)
 
 <a id="by-data-strategies"></a>
 
@@ -222,6 +224,8 @@
 - <a id="li26di-inference"></a>[Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](../conferences/icml-2026/cards/2501-2600.md#paper-li26di)
 - <a id="li26dj-inference"></a>[Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases](../conferences/icml-2026/cards/2501-2600.md#paper-li26dj)
 - <a id="li26eo-inference"></a>[BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception](../conferences/icml-2026/cards/2501-2600.md#paper-li26eo)
+- <a id="li26ht-inference"></a>[Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](../conferences/icml-2026/cards/2601-2700.md#paper-li26ht)
+- <a id="li26hv-inference"></a>[PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models](../conferences/icml-2026/cards/2601-2700.md#paper-li26hv)
 
 <a id="by-representation-learning"></a>
 
@@ -246,6 +250,7 @@
 - <a id="li26bt-representation-learning"></a>[Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation](../conferences/icml-2026/cards/2401-2500.md#paper-li26bt)
 - <a id="li26by-representation-learning"></a>[Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification](../conferences/icml-2026/cards/2401-2500.md#paper-li26by)
 - <a id="li26ca-representation-learning"></a>[Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](../conferences/icml-2026/cards/2401-2500.md#paper-li26ca)
+- <a id="li26hc-representation-learning"></a>[From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](../conferences/icml-2026/cards/2601-2700.md#paper-li26hc)
 
 <a id="by-evaluation"></a>
 
@@ -303,6 +308,7 @@
 - <a id="li26z-evaluation"></a>[MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs](../conferences/icml-2026/cards/2401-2500.md#paper-li26z)
 - <a id="li26bb-evaluation"></a>[SAW-Bench: Learning Situated Awareness in the Real World](../conferences/icml-2026/cards/2401-2500.md#paper-li26bb)
 - <a id="li26co-evaluation"></a>[Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](../conferences/icml-2026/cards/2401-2500.md#paper-li26co)
+- <a id="li26fr-evaluation"></a>[ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing](../conferences/icml-2026/cards/2501-2600.md#paper-li26fr)
 
 <a id="by-theory-statistics"></a>
 

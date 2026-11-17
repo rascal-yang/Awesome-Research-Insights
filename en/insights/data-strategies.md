@@ -44,6 +44,7 @@ Data selection, annotation, augmentation, and sampling.
 - [From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](../../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · 中文
 - [Toward Cybersecurity-Expert Small Language Models](../../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · 中文
 - [Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · 中文
+- [Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](../../conferences/icml-2026/cards/2601-2700.md#li26hl-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -150,6 +151,8 @@ Data selection, annotation, augmentation, and sampling.
 - [HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](../../conferences/icml-2026/cards/1601-1700.md#hou26c-data-strategies) · 中文
 - [Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](../../conferences/icml-2026/cards/2001-2100.md#ju26c-data-strategies) · 中文
 - [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](../../conferences/icml-2026/cards/2201-2300.md#kothapalli26a-data-strategies) · 中文
+- [Anchor-guided Hypergraph Condensation with Dual-level Discrimination](../../conferences/icml-2026/cards/2501-2600.md#li26gi-data-strategies) · 中文
+- [GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model](../../conferences/icml-2026/cards/2601-2700.md#li26hb-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

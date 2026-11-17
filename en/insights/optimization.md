@@ -91,6 +91,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [MoCL: Metabolic Optimization for Curvature-Aware Continual Learning](../../conferences/icml-2026/cards/2201-2300.md#lai26d-optimization) · 中文
 - [UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems](../../conferences/icml-2026/cards/2301-2400.md#lee26ak-optimization) · 中文
 - [Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization](../../conferences/icml-2026/cards/2301-2400.md#lee26as-optimization) · 中文
+- [Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation](../../conferences/icml-2026/cards/2501-2600.md#li26gy-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -279,6 +280,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [MoSSP: A Momentum-Based Single-Loop Stochastic Penalty Method for Nonconvex Constrained DC-regularized Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ab-optimization) · 中文
 - [Large Scale Manifold Balanced Clustering](../../conferences/icml-2026/cards/2401-2500.md#li26as-optimization) · 中文
 - [Breaking Multi-Task Curse: Reward-Weighted Evolution for Black-Box Many-Task Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26dc-optimization) · 中文
+- [Cross-task Calibration for Asynchronous Federated Continual Learning](../../conferences/icml-2026/cards/2501-2600.md#li26gx-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

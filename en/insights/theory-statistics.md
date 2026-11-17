@@ -44,6 +44,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [How to Correctly Report LLM-as-a-Judge Evaluations](../../conferences/icml-2026/cards/2301-2400.md#lee26bl-theory-statistics) · 中文
 - [Understanding Generalization and Forgetting in In-Context Continual Learning](../../conferences/icml-2026/cards/2401-2500.md#li26ag-theory-statistics) · 中文
 - [Predicting Large Model Test Losses with a Noisy Quadratic System](../../conferences/icml-2026/cards/2501-2600.md#li26ed-theory-statistics) · 中文
+- [An Information-Theoretic Criterion for Efficient Data Synthesis](../../conferences/icml-2026/cards/2501-2600.md#li26fp-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -111,6 +112,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Cost of Commitment in Option-Based Hierarchical RL](../../conferences/icml-2026/cards/2301-2400.md#lefebvre26a-theory-statistics) · 中文
 - [Optimal Regret for Policy Optimization in Contextual Bandits](../../conferences/icml-2026/cards/2301-2400.md#levy26a-theory-statistics) · 中文
 - [Near-Optimal Regret for Policy Optimization in Contextual MDPs with General Offline Function Approximation](../../conferences/icml-2026/cards/2301-2400.md#levy26b-theory-statistics) · 中文
+- [Towards Parameter-Free Temporal Difference Learning](../../conferences/icml-2026/cards/2501-2600.md#li26fb-theory-statistics) · 中文
+- [A Direct Approach for Handling Contextual Bandits with Latent State Dynamics](../../conferences/icml-2026/cards/2501-2600.md#li26fk-theory-statistics) · 中文
+- [Data- and Variance-dependent Regret Bounds for Online Tabular MDPs](../../conferences/icml-2026/cards/2501-2600.md#li26ge-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -397,6 +401,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [How Can Mamba Learn In Context with Outliers and Generalize Provably?](../../conferences/icml-2026/cards/2501-2600.md#li26dx-theory-statistics) · 中文
 - [A Minimax Approach for Optimal Intervention Policy Learning with Two-Stage Outcomes](../../conferences/icml-2026/cards/2501-2600.md#li26ef-theory-statistics) · 中文
 - [Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs](../../conferences/icml-2026/cards/2501-2600.md#li26eg-theory-statistics) · 中文
+- [A Studentized Spherical Harmonics–Based Nonparametric Two-Sample Test for Compositional and Directional Data](../../conferences/icml-2026/cards/2501-2600.md#li26ey-theory-statistics) · 中文
+- [The Implicit Bias of Steepest Descent with Mini-batch Stochastic Gradient](../../conferences/icml-2026/cards/2501-2600.md#li26gc-theory-statistics) · 中文
+- [Differentially Private Continual Release with Relative Error](../../conferences/icml-2026/cards/2601-2700.md#li26hd-theory-statistics) · 中文
+- [Statistical Consistency and Generalization of Contrastive Representation Learning](../../conferences/icml-2026/cards/2601-2700.md#li26hg-theory-statistics) · 中文
+- [A Recursive Decomposition Framework for Causal Structure Learning in the Presence of Latent Variables](../../conferences/icml-2026/cards/2601-2700.md#li26hu-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

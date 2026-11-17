@@ -176,6 +176,11 @@
 - [多轮服务中追加预填充的动态路由](../conferences/icml-2026/cards/2501-2600.md#li26dq-inference) · Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving
 - [对抗树搜索排除代码伪正确解](../conferences/icml-2026/cards/2501-2600.md#li26dt-inference) · AdverMCTS: Combating Pseudo-Correctness in Code Generation via Adversarial Monte Carlo Tree Search
 - [用注意力变化识别推理收敛](../conferences/icml-2026/cards/2501-2600.md#li26ev-inference) · Stop When Further Reasoning Won’t Help: Attention-State Adaptive Generation in Reasoning Models
+- [跨请求复用相同子图并给长任务留最低资源](../conferences/icml-2026/cards/2501-2600.md#li26fz-inference) · HeraSys: Collaborative Serving of Multiple LLM Workflows via Fine-Grained End-to-End Optimization
+- [用编译器反馈压缩证明搜索的状态](../conferences/icml-2026/cards/2501-2600.md#li26gd-inference) · Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs
+- [按分布差异松弛验证并提前裁枝](../conferences/icml-2026/cards/2501-2600.md#li26gh-inference) · ARC-Decode: Accelerated Decoding with Risk-Bounded Acceptance
+- [按关系表重复值塑形提示词前缀树](../conferences/icml-2026/cards/2501-2600.md#li26gn-inference) · Prefix-Cache-Aware Data Reordering for LLM-Augmented Database Analytics
+- [复用隐藏态进行流式风险阻断](../conferences/icml-2026/cards/2601-2700.md#li26hq-inference) · PlugGuard: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection
 
 <a id="by-computer-vision"></a>
 
@@ -239,6 +244,8 @@
 - [流匹配起步速度补偿](../conferences/icml-2026/cards/2401-2500.md#li26bi-inference) · The Velocity Deficit: Initial Energy Injection for Flow Matching
 - [按采样阶段调节轨迹动能](../conferences/icml-2026/cards/2401-2500.md#li26bk-inference) · A Kinetic Energy Perspective of Flow Matching
 - [从引导势的后验挑生成初噪声](../conferences/icml-2026/cards/2501-2600.md#li26de-inference) · Initialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior
+- [视觉自回归只压缩保真细化阶段](../conferences/icml-2026/cards/2501-2600.md#li26go-inference) · FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models
+- [分离历史运动与抖动后再融合视频](../conferences/icml-2026/cards/2601-2700.md#li26hx-inference) · DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion
 
 <a id="by-nlp"></a>
 
@@ -255,6 +262,7 @@
 - [用词元后缀路径维护流式 BPE 前沿](../conferences/icml-2026/cards/1901-2000.md#jiang26l-inference) · Incremental BPE Tokenization
 - [把集合奖励编入扩散检索监督](../conferences/icml-2026/cards/1901-2000.md#jiang26aa-inference) · Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion
 - [对话记忆按话题检索、修订和写回](../conferences/icml-2026/cards/2001-2100.md#jung26e-inference) · Context-Driven Incremental Compression for Multi-Turn Dialogue Generation
+- [把释义后的句级水印检测化为比特同步](../conferences/icml-2026/cards/2501-2600.md#li26ex-inference) · AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing
 
 <a id="by-reinforcement-learning"></a>
 
@@ -294,6 +302,7 @@
 - [在机器人动作采样前计入时序约束](../conferences/icml-2026/cards/2001-2100.md#kapoor26a-inference) · SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies
 - [冻结 VLA 的实例级视觉提示](../conferences/icml-2026/cards/2301-2400.md#lee26ax-inference) · Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting
 - [用时空一致的动作热启动加速扩散控制](../conferences/icml-2026/cards/2401-2500.md#li26aa-inference) · STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction
+- [仅在动作不确定时启动相对动作评判](../conferences/icml-2026/cards/2501-2600.md#li26fl-inference) · VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model
 
 <a id="by-multimodal"></a>
 
@@ -354,6 +363,8 @@
 - [用跨头共识校准视觉注意并补回解码中衰减的历史注意](../conferences/icml-2026/cards/2501-2600.md#li26di-inference) · Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory
 - [先演化定位提示，再以变换后框的一致性计置信](../conferences/icml-2026/cards/2501-2600.md#li26dj-inference) · Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases
 - [以贝叶斯后验更新高清裁剪](../conferences/icml-2026/cards/2501-2600.md#li26eo-inference) · BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception
+- [用剧情侧证修正短台词归属](../conferences/icml-2026/cards/2601-2700.md#li26ht-inference) · Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas
+- [在融合前后分层压缩音视频令牌](../conferences/icml-2026/cards/2601-2700.md#li26hv-inference) · PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models
 
 <a id="by-ml-foundations"></a>
 
@@ -385,6 +396,7 @@
 - [沿采样路径检查密度比的归一性](../conferences/icml-2026/cards/2301-2400.md#lee26n-inference) · On the Collapse of Generative Paths: A Criterion and Correction for Diffusion Steering
 - [只调输入的分片边界和个数来给故障 SNN 降负荷](../conferences/icml-2026/cards/2301-2400.md#lee26ar-inference) · Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation
 - [表格 ICL 的后验先验校正](../conferences/icml-2026/cards/2301-2400.md#lee26aw-inference) · Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment
+- [让轻量变体与显存布局共同参与实时调度](../conferences/icml-2026/cards/2501-2600.md#li26fq-inference) · RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -397,6 +409,7 @@
 - [按需探查图拓扑的工具推理](../conferences/icml-2026/cards/1301-1400.md#guo26t-inference) · GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs
 - [冻结图网络的后验不确定性证据](../conferences/icml-2026/cards/1301-1400.md#guo26ac-inference) · X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks
 - [用目标图的有标注和无标注节点适配提示](../conferences/icml-2026/cards/1901-2000.md#jiang26al-inference) · GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning
+- [逐步预算下的动态交互求解](../conferences/icml-2026/cards/2501-2600.md#li26gz-inference) · LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers
 
 <a id="by-scientific-ml"></a>
 

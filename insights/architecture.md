@@ -41,6 +41,8 @@
 - [共享键和值以减少自回归缓存](../conferences/icml-2026/cards/2001-2100.md#kayyam26a-architecture) · Do Transformers Need Three Projections? Systematic Study of QKV Variants
 - [让稀疏解码器显式建模特征交互](../conferences/icml-2026/cards/2201-2300.md#koromilas26a-architecture) · PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding
 - [共享残差块的双流归一化](../conferences/icml-2026/cards/2401-2500.md#li26ba-architecture) · SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm
+- [用概率电路耦合同步解除掩码的词元](../conferences/icml-2026/cards/2501-2600.md#li26fd-architecture) · Breaking the Factorization Barrier in Diffusion Language Models
+- [让代理生成任务拓扑并用层级图保留上下文](../conferences/icml-2026/cards/2501-2600.md#li26gk-architecture) · OpenSage: Self-programming Agent Generation Engine
 
 <a id="by-computer-vision"></a>
 
@@ -81,6 +83,7 @@
 - [用实例深度锚初始化人体网格](../conferences/icml-2026/cards/2401-2500.md#li26bq-architecture) · DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring
 - [先聚焦视频关系区间再生成稀有事件补样](../conferences/icml-2026/cards/2401-2500.md#li26bx-architecture) · SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation
 - [在潜令牌上求解空间光谱融合](../conferences/icml-2026/cards/2501-2600.md#li26en-architecture) · Solving Spatial-Spectral Fusion with Latent Spectral Operators
+- [可识别虚拟人脸的身份绑定水印](../conferences/icml-2026/cards/2501-2600.md#li26gt-architecture) · Towards Trustworthy and Identifiable Virtual Face Generation
 
 <a id="by-nlp"></a>
 
@@ -116,6 +119,9 @@
 - [按子任务进展触发规划并整理长期记忆](../conferences/icml-2026/cards/1801-1900.md#ji26k-architecture) · HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control
 - [用动作条件潜状态评价驾驶计划](../conferences/icml-2026/cards/1801-1900.md#jia26f-architecture) · DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving
 - [在驾驶仿真中按需补绘车道与交通参与者](../conferences/icml-2026/cards/1901-2000.md#jiang26bf-architecture) · VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs
+- [由状态哨兵按需触发推理与纠错](../conferences/icml-2026/cards/2501-2600.md#li26fm-architecture) · Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery
+- [用独立条件路径和插拔触觉适配器驱动双臂](../conferences/icml-2026/cards/2501-2600.md#li26fs-architecture) · DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter
+- [以稀疏三维子目标规划动作](../conferences/icml-2026/cards/2601-2700.md#li26hk-architecture) · Structured 4D Latent Predictive Model for Robot Planning
 
 <a id="by-multimodal"></a>
 
@@ -175,6 +181,7 @@
 - [用乘积节点和稀疏样本辨别奇偶支持](../conferences/icml-2026/cards/2201-2300.md#larue26a-architecture) · Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent
 - [用单个可学离散 Gaussian 核替换固定多尺度分支](../conferences/icml-2026/cards/2301-2400.md#lee26al-architecture) · Generalizing Multi-Scale Time-Series Modeling with a Single Operator
 - [用不同分数奇异度的输入投影分工记忆远近信息](../conferences/icml-2026/cards/2401-2500.md#li26cx-architecture) · FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences
+- [用共享矩阵多项式推广状态空间对偶](../conferences/icml-2026/cards/2501-2600.md#li26ft-architecture) · MIMOMamba: From Scalar Duality to Matrix-Valued Attention
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -252,4 +259,6 @@
 - [PDE 算子的高斯模态投影](../conferences/icml-2026/cards/2401-2500.md#li26aq-architecture) · From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators
 - [在同一潜空间用稀疏场解 PDE 正向和反向问题](../conferences/icml-2026/cards/2501-2600.md#li26dk-architecture) · Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations
 - [在候选原子处查询冷冻电镜密度](../conferences/icml-2026/cards/2501-2600.md#li26eh-architecture) · CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM
+- [用预训练 fMRI 解码器和状态提示重建脑活动](../conferences/icml-2026/cards/2501-2600.md#li26gp-architecture) · Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis
+- [以应力和内力为接口训练神经模拟器](../conferences/icml-2026/cards/2601-2700.md#li26ho-architecture) · Neural Modular Physics for Elastic Simulation
 <!-- classification:end -->

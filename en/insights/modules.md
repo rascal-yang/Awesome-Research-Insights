@@ -40,6 +40,7 @@ Reusable components and local changes to model inputs or connections.
 - [The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](../../conferences/icml-2026/cards/2401-2500.md#li26bs-modules) · 中文
 - [Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention](../../conferences/icml-2026/cards/2401-2500.md#li26cd-modules) · 中文
 - [FiX: Introducing Fine-grained Forget Gate into Softmax Attention](../../conferences/icml-2026/cards/2501-2600.md#li26dl-modules) · 中文
+- [Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers](../../conferences/icml-2026/cards/2601-2700.md#li26hj-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -68,6 +69,8 @@ Reusable components and local changes to model inputs or connections.
 - [Concept Removal for Frontier Image Generative Models](../../conferences/icml-2026/cards/2201-2300.md#kumar26c-modules) · 中文
 - [One Model to Translate Them All: Universal Any-to-Any Translation for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cm-modules) · 中文
 - [CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cn-modules) · 中文
+- [Bridging the Perceptual Gap: Residual-Enhanced Downscaling and Manifold-Aware Perception Alignment Adaptation for NR-IQA](../../conferences/icml-2026/cards/2501-2600.md#li26ff-modules) · 中文
+- [NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams](../../conferences/icml-2026/cards/2501-2600.md#li26fi-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -142,6 +145,7 @@ Reusable components and local changes to model inputs or connections.
 - [StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](../../conferences/icml-2026/cards/2101-2200.md#kim26bk-modules) · 中文
 - [Dynamic Relational Priming Improves Transformer in Multivariate Time Series](../../conferences/icml-2026/cards/2301-2400.md#lee26h-modules) · 中文
 - [Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting](../../conferences/icml-2026/cards/2401-2500.md#li26bu-modules) · 中文
+- [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../../conferences/icml-2026/cards/2601-2700.md#li26hn-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

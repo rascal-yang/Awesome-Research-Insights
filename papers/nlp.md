@@ -79,6 +79,7 @@
 - <a id="jiang26l-inference"></a>[Incremental BPE Tokenization](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26l)
 - <a id="jiang26aa-inference"></a>[Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aa)
 - <a id="jung26e-inference"></a>[Context-Driven Incremental Compression for Multi-Turn Dialogue Generation](../conferences/icml-2026/cards/2001-2100.md#paper-jung26e)
+- <a id="li26ex-inference"></a>[AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing](../conferences/icml-2026/cards/2501-2600.md#paper-li26ex)
 
 <a id="by-representation-learning"></a>
 

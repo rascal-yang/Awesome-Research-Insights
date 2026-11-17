@@ -106,6 +106,8 @@
 - [按整条轨迹的最大 KL 偏离掩码策略梯度](../conferences/icml-2026/cards/2501-2600.md#li26dp-reinforcement-learning) · Trust Region Masking for Long-Horizon LLM Reinforcement Learning
 - [组相对奖励重缩放控制长度](../conferences/icml-2026/cards/2501-2600.md#li26dw-reinforcement-learning) · Tackling Length Inflation Without Trade-offs: Group Relative Reward Rescaling for Reinforcement Learning
 - [以支配排序分配工具调用的训练优势](../conferences/icml-2026/cards/2501-2600.md#li26es-reinforcement-learning) · Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization
+- [为搜索代理显式奖励证据判断](../conferences/icml-2026/cards/2501-2600.md#li26gq-reinforcement-learning) · ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards
+- [执行反馈下的软件补丁行级信用](../conferences/icml-2026/cards/2501-2600.md#li26gv-reinforcement-learning) · BOOSTAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models
 
 <a id="by-computer-vision"></a>
 
@@ -118,6 +120,7 @@
 - [显著物体排序的多轨迹奖励](../conferences/icml-2026/cards/1301-1400.md#guo26h-reinforcement-learning) · Probabilistic Salient Object Ranking
 - [扩散模型的局部文本概念擦除](../conferences/icml-2026/cards/1401-1500.md#han26o-reinforcement-learning) · ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models
 - [扰动文本嵌入维持组内探索](../conferences/icml-2026/cards/1601-1700.md#hu26j-reinforcement-learning) · Embedding-perturbed Exploration Preference Optimization for Flow Models
+- [用参考集合的分布变化奖励生成](../conferences/icml-2026/cards/2601-2700.md#li26hw-reinforcement-learning) · Optimizing Visual Generative Models via Distribution-wise Rewards
 
 <a id="by-nlp"></a>
 
@@ -207,6 +210,12 @@
 - [用当前策略价值引导可行环境扩散](../conferences/icml-2026/cards/2301-2400.md#li26b-reinforcement-learning) · Scaling Multi-Agent Environment Co-Design with Diffusion Models
 - [由下一帧预测误差驱动探索](../conferences/icml-2026/cards/2401-2500.md#li26bj-reinforcement-learning) · What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity
 - [从最坏响应找关键失效成员](../conferences/icml-2026/cards/2501-2600.md#li26ee-reinforcement-learning) · Vulnerable Agent Identification in Large-Scale Multi-Agent Reinforcement Learning
+- [在偏好代价中为不安全轨迹留出间隔](../conferences/icml-2026/cards/2501-2600.md#li26ez-reinforcement-learning) · Safe Reinforcement Learning with Preference-based Constraint Inference
+- [用核价值归因直接调节演员评论家更新](../conferences/icml-2026/cards/2501-2600.md#li26fc-reinforcement-learning) · SHAP-Guided Kernel Actor-Critic for Explainable Reinforcement Learning
+- [把噪声与 Q 梯度组合为同一期望的后验估计](../conferences/icml-2026/cards/2501-2600.md#li26fw-reinforcement-learning) · Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies
+- [把组内候选先投影成非负可行权重再回归策略](../conferences/icml-2026/cards/2501-2600.md#li26ga-reinforcement-learning) · Learning from Comparison: Constrained Projection Policy Optimization for Pareto-Front Improvement
+- [演化任务掩码并冻结已固化的技能子网](../conferences/icml-2026/cards/2501-2600.md#li26gb-reinforcement-learning) · Neuro-evolutionary Continual Reinforcement Learning
+- [按旧策略概率分配 token 的信赖域预算](../conferences/icml-2026/cards/2501-2600.md#li26gm-reinforcement-learning) · BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -290,4 +299,5 @@
 - [用物理指标奖励少步光刻掩模生成](../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching
 - [把物理引导移到分子扩散后训练](../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields
 - [对齐 Best-of-N 的蛋白质设计策略](../conferences/icml-2026/cards/2401-2500.md#li26ch-reinforcement-learning) · FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization
+- [化学候选空间中的可纠错逆合成推理](../conferences/icml-2026/cards/2501-2600.md#li26gs-reinforcement-learning) · Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis
 <!-- classification:end -->

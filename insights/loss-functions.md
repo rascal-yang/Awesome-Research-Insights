@@ -30,6 +30,7 @@
 - [让教师词元熵决定何时补正向 KL](../conferences/icml-2026/cards/1901-2000.md#jin26e-loss-functions) · Entropy-Aware On-Policy Distillation of Language Models
 - [按解码方向筛选跨样本冗余激活](../conferences/icml-2026/cards/1901-2000.md#jin26j-loss-functions) · C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders
 - [剪枝语言模型的循环起点纠偏](../conferences/icml-2026/cards/2301-2400.md#lee26bb-loss-functions) · FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models
+- [按基座已有能力调节微调损失的低概率权重](../conferences/icml-2026/cards/2501-2600.md#li26ew-loss-functions) · Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum
 
 <a id="by-computer-vision"></a>
 
@@ -97,6 +98,7 @@
 - [跨模型对齐多视图特征分布](../conferences/icml-2026/cards/1601-1700.md#hu26aw-loss-functions) · DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs
 - [用循环一致性约束未配对扩散桥](../conferences/icml-2026/cards/2201-2300.md#kosman26a-loss-functions) · Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges
 - [用双重归一化限制错标梯度](../conferences/icml-2026/cards/2501-2600.md#li26er-loss-functions) · Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models
+- [用相关负类监督视觉词元做密集预测](../conferences/icml-2026/cards/2501-2600.md#li26fg-loss-functions) · DenseMLLM: Standard Multimodal LLMs for Dense Prediction
 
 <a id="by-ml-foundations"></a>
 
@@ -122,6 +124,7 @@
 - [无标签局部预测一致性](../conferences/icml-2026/cards/2101-2200.md#kim26ab-loss-functions) · Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data
 - [把带噪等级变成可比较的概率序](../conferences/icml-2026/cards/2301-2400.md#lee26aq-loss-functions) · Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data
 - [连续秩差的对比学习](../conferences/icml-2026/cards/2301-2400.md#lee26bd-loss-functions) · Contrastive Order Learning: A General Framework for Ordinal Regression
+- [用半群导出的线性代理监督流映射](../conferences/icml-2026/cards/2501-2600.md#li26fn-loss-functions) · Trajectory Consistency for One-Step Generation on Euler Mean Flows
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -206,6 +206,11 @@
 - [工具智能体的可用性红队评估](../conferences/icml-2026/cards/2501-2600.md#li26ei-evaluation) · OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents
 - [用信息剖面对照评测集体推理](../conferences/icml-2026/cards/2501-2600.md#li26ej-evaluation) · Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs
 - [同时衡量越狱发生率和严重性](../conferences/icml-2026/cards/2501-2600.md#li26eu-evaluation) · Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs
+- [用可执行交互器测量程序的查询与状态跟踪](../conferences/icml-2026/cards/2501-2600.md#li26fe-evaluation) · InteractBench: Benchmarking LLMs on Competitive Programming under Unrevealed Information
+- [每次挑对当前模型最能减少能力估计误差的题](../conferences/icml-2026/cards/2501-2600.md#li26fx-evaluation) · Adaptive Testing for LLM Evaluation: A Psychometric Alternative to Static Benchmarks
+- [用滤过推理任务拆开图拓扑能力](../conferences/icml-2026/cards/2501-2600.md#li26gg-evaluation) · Large Language Models as Topological Thinkers: A Benchmark on Graph Persistent Homology
+- [从真实对话提取期望并训练潜在期望表示](../conferences/icml-2026/cards/2501-2600.md#li26gr-evaluation) · Expectation Alignment of Language Models for Real-World User Expectations
+- [工具代理的语义保持型效率风险](../conferences/icml-2026/cards/2501-2600.md#li26gw-evaluation) · Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -248,6 +253,7 @@
 - [按任务允许变化评估图像内容保真](../conferences/icml-2026/cards/2301-2400.md#li26h-evaluation) · StableI2I: Spotting Unintended Changes in Image-to-Image Transition
 - [沿稀疏概念电路读出并编辑视觉模型](../conferences/icml-2026/cards/2401-2500.md#li26s-evaluation) · Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers
 - [用扩散特征污染率监测记忆](../conferences/icml-2026/cards/2401-2500.md#li26br-evaluation) · Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles
+- [用可实现的物体组合排查 LiDAR 漏检](../conferences/icml-2026/cards/2601-2700.md#li26he-evaluation) · OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects
 
 <a id="by-nlp"></a>
 
@@ -295,6 +301,7 @@
 - [机器人代码策略的分层脚手架评测](../conferences/icml-2026/cards/1101-1200.md#fu26u-evaluation) · CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
 - [分开审计 VLA 的指令、推理与动作链路](../conferences/icml-2026/cards/1701-1800.md#huang26cm-evaluation) · TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches
 - [协作增强时交换兼容伙伴轨迹并推演双人动作](../conferences/icml-2026/cards/2001-2100.md#kang26i-evaluation) · Moving Out: Physically-grounded Human-AI Collaboration
+- [用失败轨迹校验世界模型排序](../conferences/icml-2026/cards/2601-2700.md#li26hi-evaluation) · Scaling Robot Policy Evaluation via Discrete Diffusion World Model
 
 <a id="by-multimodal"></a>
 
@@ -352,6 +359,7 @@
 - [把多轮遗忘请求作为测试序列并按实体路由适配器](../conferences/icml-2026/cards/2401-2500.md#li26z-evaluation) · MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs
 - [观察者中心的空间评测](../conferences/icml-2026/cards/2401-2500.md#li26bb-evaluation) · SAW-Bench: Learning Situated Awareness in the Real World
 - [单一扰动的语义依赖攻击评测](../conferences/icml-2026/cards/2401-2500.md#li26co-evaluation) · Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation
+- [把图表编辑拆为局部样式与全局数据变换](../conferences/icml-2026/cards/2501-2600.md#li26fr-evaluation) · ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing
 
 <a id="by-ml-foundations"></a>
 
@@ -396,6 +404,7 @@
 - [以稠密参数网格校验数据流形几何](../conferences/icml-2026/cards/2201-2300.md#koulakis26a-evaluation) · The Data Manifold under the Microscope
 - [以个体条件期望曲线查看时序边的作用形状](../conferences/icml-2026/cards/2201-2300.md#kuskova26a-evaluation) · Function-Valued Causal Influence in Nonlinear Time Series
 - [条件时序生成的多维评测](../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation
+- [分别控制训练样本和任务重叠以测表征相似性](../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · Causes and Consequences of Representational Similarity in Machine Learning Models
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -437,4 +446,5 @@
 - [以多维指标和时间切分评估功能蛋白设计](../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · PDFBench: A Benchmark for De Novo Protein Design from Function
 - [按功能和样本量复核基因组模型排名](../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · GENEB: Why Genomic Models Are Hard to Compare
 - [分开评测光变曲线嵌入的类簇、分类和稀有源检索](../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars
+- [分层诊断健康信号推理能力](../conferences/icml-2026/cards/2601-2700.md#li26hr-evaluation) · HEARTS: Benchmarking LLM Reasoning on Health Time Series
 <!-- classification:end -->

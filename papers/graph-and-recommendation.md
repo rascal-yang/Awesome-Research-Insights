@@ -90,6 +90,7 @@
 - <a id="gao26ai-training-strategies"></a>[GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](../conferences/icml-2026/cards/1201-1300.md#paper-gao26ai)
 - <a id="gosch26a-training-strategies"></a>[Certifying Graph Neural Networks Against Label and Structure Poisoning](../conferences/icml-2026/cards/1301-1400.md#paper-gosch26a)
 - <a id="grover26a-training-strategies"></a>[Feedback Control for Multi-Objective Graph Self-Supervision](../conferences/icml-2026/cards/1301-1400.md#paper-grover26a)
+- <a id="li26fv-training-strategies"></a>[FedRGL: Robust Federated Graph Learning under Label Noise](../conferences/icml-2026/cards/2501-2600.md#paper-li26fv)
 
 <a id="by-data-strategies"></a>
 
@@ -101,6 +102,8 @@
 - <a id="hou26c-data-strategies"></a>[HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](../conferences/icml-2026/cards/1601-1700.md#paper-hou26c)
 - <a id="ju26c-data-strategies"></a>[Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](../conferences/icml-2026/cards/2001-2100.md#paper-ju26c)
 - <a id="kothapalli26a-data-strategies"></a>[PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](../conferences/icml-2026/cards/2201-2300.md#paper-kothapalli26a)
+- <a id="li26gi-data-strategies"></a>[Anchor-guided Hypergraph Condensation with Dual-level Discrimination](../conferences/icml-2026/cards/2501-2600.md#paper-li26gi)
+- <a id="li26hb-data-strategies"></a>[GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model](../conferences/icml-2026/cards/2601-2700.md#paper-li26hb)
 
 <a id="by-inference"></a>
 
@@ -113,6 +116,7 @@
 - <a id="guo26t-inference"></a>[GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](../conferences/icml-2026/cards/1301-1400.md#paper-guo26t)
 - <a id="guo26ac-inference"></a>[X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](../conferences/icml-2026/cards/1301-1400.md#paper-guo26ac)
 - <a id="jiang26al-inference"></a>[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26al)
+- <a id="li26gz-inference"></a>[LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers](../conferences/icml-2026/cards/2501-2600.md#paper-li26gz)
 
 <a id="by-representation-learning"></a>
 
@@ -136,6 +140,8 @@
 - <a id="jiang26b-representation-learning"></a>[Efficient Synthetic Network Generation via Latent Embedding Reconstruction](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26b)
 - <a id="lee26ad-representation-learning"></a>[Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ad)
 - <a id="lee26ah-representation-learning"></a>[View Space: Learning Representation across Arbitrary Graphs](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ah)
+- <a id="li26gu-representation-learning"></a>[CELL: A Causal Perspective for Fairness-aware Graph Adaptation](../conferences/icml-2026/cards/2501-2600.md#paper-li26gu)
+- <a id="li26hm-representation-learning"></a>[Graph is a Substrate Across Data Modalities](../conferences/icml-2026/cards/2601-2700.md#paper-li26hm)
 
 <a id="by-evaluation"></a>
 

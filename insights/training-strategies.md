@@ -84,6 +84,8 @@
 - [扰动 RoPE 位置索引并要求两次预测一致](../conferences/icml-2026/cards/2401-2500.md#li26cs-training-strategies) · Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation
 - [语义与偏好双轴课程的层间监控](../conferences/icml-2026/cards/2501-2600.md#li26ds-training-strategies) · Layer-wise Gradient Disentanglement: Decoupling Semantics and Preferences in Direct Preference Optimization
 - [按证明闭合反馈区分有效战术](../conferences/icml-2026/cards/2501-2600.md#li26ek-training-strategies) · OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving
+- [为草稿训练拆开目标模型执行](../conferences/icml-2026/cards/2601-2700.md#li26hf-training-strategies) · SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding
+- [用无角色预测稳定安全决策](../conferences/icml-2026/cards/2601-2700.md#li26hh-training-strategies) · Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment
 
 <a id="by-computer-vision"></a>
 
@@ -119,6 +121,9 @@
 - [转换后按初始失真给 SNN 局部特征蒸馏加权](../conferences/icml-2026/cards/2401-2500.md#li26db-training-strategies) · High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation
 - [按渲染块残差加密高斯基元](../conferences/icml-2026/cards/2501-2600.md#li26em-training-strategies) · PCGS: Deblurring 3D Gaussian Splatting with Patch Comparison
 - [按实际输出漂移回收持续学习的秩](../conferences/icml-2026/cards/2501-2600.md#li26eq-training-strategies) · Energy-Structured Low-Rank Adaptation for Continual Learning
+- [在测试时无标签更新中按样本裁剪并加噪](../conferences/icml-2026/cards/2501-2600.md#li26fy-training-strategies) · Private and Stable Test-time Adaptation with Differential Privacy
+- [从原图提取字形与风格做场景文字编辑](../conferences/icml-2026/cards/2501-2600.md#li26gj-training-strategies) · Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Editing via In-Context Learning
+- [分开蒸馏开放词汇检测的语义和边界](../conferences/icml-2026/cards/2601-2700.md#li26hp-training-strategies) · Object-level Semantic and Spatial Distillation for Open Vocabulary Detection
 
 <a id="by-nlp"></a>
 
@@ -179,6 +184,7 @@
 - [蒸馏物体词组层级及跨模态关系](../conferences/icml-2026/cards/2201-2300.md#le26b-training-strategies) · HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models
 - [用同类跨模态随机配对平滑监督](../conferences/icml-2026/cards/2301-2400.md#lee26bk-training-strategies) · Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective
 - [用共享语言概念预对齐不同遥感传感器](../conferences/icml-2026/cards/2401-2500.md#li26q-training-strategies) · Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining
+- [把退化表征拉回干净特征分布](../conferences/icml-2026/cards/2601-2700.md#li26hs-training-strategies) · Robust Vision-Language Models via Manifold-Adversarial Adapters
 
 <a id="by-ml-foundations"></a>
 
@@ -233,6 +239,7 @@
 - [异构联邦模型的模块聚合](../conferences/icml-2026/cards/2301-2400.md#leng26b-training-strategies) · LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games
 - [用排队预测决定每轮联邦训练做多少本地工作](../conferences/icml-2026/cards/2401-2500.md#li26ae-training-strategies) · FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training
 - [合并模型时校准共享方向的幅值](../conferences/icml-2026/cards/2501-2600.md#li26ep-training-strategies) · When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging
+- [用教师估计源重混合训练生成式分离器](../conferences/icml-2026/cards/2501-2600.md#li26fa-training-strategies) · SURF: Separation via Unsupervised Remixing Flow
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -244,6 +251,7 @@
 - [空间众包的双视图蒸馏](../conferences/icml-2026/cards/1201-1300.md#gao26ai-training-strategies) · GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation
 - [图分区投毒认证的半监督增强](../conferences/icml-2026/cards/1301-1400.md#gosch26a-training-strategies) · Certifying Graph Neural Networks Against Label and Structure Poisoning
 - [图自监督任务的反馈式预算调度](../conferences/icml-2026/cards/1301-1400.md#grover26a-training-strategies) · Feedback Control for Multi-Objective Graph Self-Supervision
+- [从全局模型和本地图邻居两侧找噪声标签](../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · FedRGL: Robust Federated Graph Learning under Label Noise
 
 <a id="by-scientific-ml"></a>
 

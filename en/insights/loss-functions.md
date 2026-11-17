@@ -30,6 +30,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Entropy-Aware On-Policy Distillation of Language Models](../../conferences/icml-2026/cards/1901-2000.md#jin26e-loss-functions) · 中文
 - [C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders](../../conferences/icml-2026/cards/1901-2000.md#jin26j-loss-functions) · 中文
 - [FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26bb-loss-functions) · 中文
+- [Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](../../conferences/icml-2026/cards/2501-2600.md#li26ew-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -97,6 +98,7 @@ Objectives, auxiliary supervision, and regularization.
 - [DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs](../../conferences/icml-2026/cards/1601-1700.md#hu26aw-loss-functions) · 中文
 - [Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges](../../conferences/icml-2026/cards/2201-2300.md#kosman26a-loss-functions) · 中文
 - [Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models](../../conferences/icml-2026/cards/2501-2600.md#li26er-loss-functions) · 中文
+- [DenseMLLM: Standard Multimodal LLMs for Dense Prediction](../../conferences/icml-2026/cards/2501-2600.md#li26fg-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -122,6 +124,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data](../../conferences/icml-2026/cards/2101-2200.md#kim26ab-loss-functions) · 中文
 - [Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data](../../conferences/icml-2026/cards/2301-2400.md#lee26aq-loss-functions) · 中文
 - [Contrastive Order Learning: A General Framework for Ordinal Regression](../../conferences/icml-2026/cards/2301-2400.md#lee26bd-loss-functions) · 中文
+- [Trajectory Consistency for One-Step Generation on Euler Mean Flows](../../conferences/icml-2026/cards/2501-2600.md#li26fn-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

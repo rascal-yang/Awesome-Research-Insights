@@ -19,6 +19,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Ensembling Sparse Autoencoders](../../conferences/icml-2026/cards/1101-1200.md#gadgil26a-representation-learning) · 中文
 - [LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection](../../conferences/icml-2026/cards/1501-1600.md#he26z-representation-learning) · 中文
 - [Towards Atoms of Large Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26c-representation-learning) · 中文
+- [SemRep : Generative Code Representation Learning with Code Transformations](../../conferences/icml-2026/cards/2501-2600.md#li26fj-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -112,6 +113,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation](../../conferences/icml-2026/cards/2401-2500.md#li26bt-representation-learning) · 中文
 - [Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification](../../conferences/icml-2026/cards/2401-2500.md#li26by-representation-learning) · 中文
 - [Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](../../conferences/icml-2026/cards/2401-2500.md#li26ca-representation-learning) · 中文
+- [From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](../../conferences/icml-2026/cards/2601-2700.md#li26hc-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -145,6 +147,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [AI Engram: In Search of Memory Traces in Artificial Intelligence](../../conferences/icml-2026/cards/2201-2300.md#kwon26b-representation-learning) · 中文
 - [Label-Guided Representation Learning for Incomplete Multi-View Multi-Label Classification](../../conferences/icml-2026/cards/2401-2500.md#li26cg-representation-learning) · 中文
 - [Towards One-for-All Anomaly Detection for Tabular Data](../../conferences/icml-2026/cards/2501-2600.md#li26du-representation-learning) · 中文
+- [An Asymmetric Latent Factorization-of-Tensors Model for Relation Analysis](../../conferences/icml-2026/cards/2501-2600.md#li26fh-representation-learning) · 中文
+- [Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](../../conferences/icml-2026/cards/2501-2600.md#li26fu-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -168,6 +172,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Efficient Synthetic Network Generation via Latent Embedding Reconstruction](../../conferences/icml-2026/cards/1901-2000.md#jiang26b-representation-learning) · 中文
 - [Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion](../../conferences/icml-2026/cards/2301-2400.md#lee26ad-representation-learning) · 中文
 - [View Space: Learning Representation across Arbitrary Graphs](../../conferences/icml-2026/cards/2301-2400.md#lee26ah-representation-learning) · 中文
+- [CELL: A Causal Perspective for Fairness-aware Graph Adaptation](../../conferences/icml-2026/cards/2501-2600.md#li26gu-representation-learning) · 中文
+- [Graph is a Substrate Across Data Modalities](../../conferences/icml-2026/cards/2601-2700.md#li26hm-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -209,4 +215,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](../../conferences/icml-2026/cards/2401-2500.md#li26bg-representation-learning) · 中文
 - [Source-Free Open-World RF Fingerprint Identification](../../conferences/icml-2026/cards/2401-2500.md#li26bl-representation-learning) · 中文
 - [Learning Molecular Semantic Invariant Representation with Prototype Constraint](../../conferences/icml-2026/cards/2401-2500.md#li26ct-representation-learning) · 中文
+- [Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective](../../conferences/icml-2026/cards/2501-2600.md#li26fo-representation-learning) · 中文
+- [Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion](../../conferences/icml-2026/cards/2501-2600.md#li26gl-representation-learning) · 中文
+- [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](../../conferences/icml-2026/cards/2601-2700.md#li26ha-representation-learning) · 中文
 <!-- classification:end -->

@@ -23,6 +23,9 @@ Robot perception, policy learning, planning, and control.
 - <a id="ji26k-architecture"></a>[HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26k)
 - <a id="jia26f-architecture"></a>[DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26f)
 - <a id="jiang26bf-architecture"></a>[VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bf)
+- <a id="li26fm-architecture"></a>[Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fm)
+- <a id="li26fs-architecture"></a>[DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fs)
+- <a id="li26hk-architecture"></a>[Structured 4D Latent Predictive Model for Robot Planning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hk)
 
 <a id="by-modules"></a>
 
@@ -119,6 +122,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="kapoor26a-inference"></a>[SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies](../../conferences/icml-2026/cards/2001-2100.md#paper-kapoor26a)
 - <a id="lee26ax-inference"></a>[Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ax)
 - <a id="li26aa-inference"></a>[STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction](../../conferences/icml-2026/cards/2401-2500.md#paper-li26aa)
+- <a id="li26fl-inference"></a>[VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fl)
 
 <a id="by-representation-learning"></a>
 
@@ -142,6 +146,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26u)
 - <a id="huang26cm-evaluation"></a>[TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cm)
 - <a id="kang26i-evaluation"></a>[Moving Out: Physically-grounded Human-AI Collaboration](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26i)
+- <a id="li26hi-evaluation"></a>[Scaling Robot Policy Evaluation via Discrete Diffusion World Model](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hi)
 
 <a id="by-theory-statistics"></a>
 

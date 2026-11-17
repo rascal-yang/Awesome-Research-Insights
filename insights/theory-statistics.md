@@ -44,6 +44,7 @@
 - [同时报告裁判校正和人工校准的不确定性](../conferences/icml-2026/cards/2301-2400.md#lee26bl-theory-statistics) · How to Correctly Report LLM-as-a-Judge Evaluations
 - [把一段多任务提示的误差拆为噪声与任务干扰](../conferences/icml-2026/cards/2401-2500.md#li26ag-theory-statistics) · Understanding Generalization and Forgetting in In-Context Continual Learning
 - [分开批大小与更新步数的损失预测](../conferences/icml-2026/cards/2501-2600.md#li26ed-theory-statistics) · Predicting Large Model Test Losses with a Noisy Quadratic System
+- [用外部条件互信息诊断合成数据闭环](../conferences/icml-2026/cards/2501-2600.md#li26fp-theory-statistics) · An Information-Theoretic Criterion for Efficient Data Synthesis
 
 <a id="by-computer-vision"></a>
 
@@ -111,6 +112,9 @@
 - [依模型误差来源选择重规划频率](../conferences/icml-2026/cards/2301-2400.md#lefebvre26a-theory-statistics) · The Cost of Commitment in Option-Based Hierarchical RL
 - [用反事实历史动作概率分配赌博机探索奖金](../conferences/icml-2026/cards/2301-2400.md#levy26a-theory-statistics) · Optimal Regret for Policy Optimization in Contextual Bandits
 - [以估计占用率控制上下文 MDP 的双重误差](../conferences/icml-2026/cards/2301-2400.md#levy26b-theory-statistics) · Near-Optimal Regret for Policy Optimization in Contextual MDPs with General Offline Function Approximation
+- [用指数步长降低末次 TD 更新的参数依赖](../conferences/icml-2026/cards/2501-2600.md#li26fb-theory-statistics) · Towards Parameter-Free Temporal Difference Learning
+- [为隐状态回报模型成块更新参数](../conferences/icml-2026/cards/2501-2600.md#li26fk-theory-statistics) · A Direct Approach for Handling Contextual Bandits with Latent State Dynamics
+- [让同一在线 MDP 遗憾界适应损失路径或方差](../conferences/icml-2026/cards/2501-2600.md#li26ge-theory-statistics) · Data- and Variance-dependent Regret Bounds for Online Tabular MDPs
 
 <a id="by-robotics"></a>
 
@@ -397,6 +401,11 @@
 - [Mamba 在含异常示例的上下文学习](../conferences/icml-2026/cards/2501-2600.md#li26dx-theory-statistics) · How Can Mamba Learn In Context with Outliers and Generalize Provably?
 - [两阶段干预的最坏后悔](../conferences/icml-2026/cards/2501-2600.md#li26ef-theory-statistics) · A Minimax Approach for Optimal Intervention Policy Learning with Two-Stage Outcomes
 - [按潜在模式聚合同类令牌去噪](../conferences/icml-2026/cards/2501-2600.md#li26eg-theory-statistics) · Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs
+- [以学生化球谐能量统一检验成分与方向](../conferences/icml-2026/cards/2501-2600.md#li26ey-theory-statistics) · A Studentized Spherical Harmonics–Based Nonparametric Two-Sample Test for Compositional and Directional Data
+- [用动量或方差缩减恢复小批最速下降的间隔](../conferences/icml-2026/cards/2501-2600.md#li26gc-theory-statistics) · The Implicit Bias of Steepest Descent with Mini-batch Stochastic Gradient
+- [相对误差下的差分隐私持续发布](../conferences/icml-2026/cards/2601-2700.md#li26hd-theory-statistics) · Differentially Private Continual Release with Relative Error
+- [按锚点规模配置对比学习负例](../conferences/icml-2026/cards/2601-2700.md#li26hg-theory-statistics) · Statistical Consistency and Generalization of Contrastive Representation Learning
+- [含潜在混杂时递归合并因果骨架](../conferences/icml-2026/cards/2601-2700.md#li26hu-theory-statistics) · A Recursive Decomposition Framework for Causal Structure Learning in the Presence of Latent Variables
 
 <a id="by-graph-and-recommendation"></a>
 

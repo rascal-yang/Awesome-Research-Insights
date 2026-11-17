@@ -117,6 +117,12 @@ Learning from interaction, feedback, and offline experience.
 - <a id="li26b-reinforcement-learning"></a>[Scaling Multi-Agent Environment Co-Design with Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#paper-li26b)
 - <a id="li26bj-reinforcement-learning"></a>[What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bj)
 - <a id="li26ee-reinforcement-learning"></a>[Vulnerable Agent Identification in Large-Scale Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ee)
+- <a id="li26ez-reinforcement-learning"></a>[Safe Reinforcement Learning with Preference-based Constraint Inference](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ez)
+- <a id="li26fc-reinforcement-learning"></a>[SHAP-Guided Kernel Actor-Critic for Explainable Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fc)
+- <a id="li26fw-reinforcement-learning"></a>[Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fw)
+- <a id="li26ga-reinforcement-learning"></a>[Learning from Comparison: Constrained Projection Policy Optimization for Pareto-Front Improvement](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ga)
+- <a id="li26gb-reinforcement-learning"></a>[Neuro-evolutionary Continual Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gb)
+- <a id="li26gm-reinforcement-learning"></a>[BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gm)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-training-strategies"></a>
@@ -217,4 +223,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lefebvre26a-theory-statistics"></a>[The Cost of Commitment in Option-Based Hierarchical RL](../../conferences/icml-2026/cards/2301-2400.md#paper-lefebvre26a)
 - <a id="levy26a-theory-statistics"></a>[Optimal Regret for Policy Optimization in Contextual Bandits](../../conferences/icml-2026/cards/2301-2400.md#paper-levy26a)
 - <a id="levy26b-theory-statistics"></a>[Near-Optimal Regret for Policy Optimization in Contextual MDPs with General Offline Function Approximation](../../conferences/icml-2026/cards/2301-2400.md#paper-levy26b)
+- <a id="li26fb-theory-statistics"></a>[Towards Parameter-Free Temporal Difference Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fb)
+- <a id="li26fk-theory-statistics"></a>[A Direct Approach for Handling Contextual Bandits with Latent State Dynamics](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fk)
+- <a id="li26ge-theory-statistics"></a>[Data- and Variance-dependent Regret Bounds for Online Tabular MDPs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ge)
 <!-- classification:end -->
