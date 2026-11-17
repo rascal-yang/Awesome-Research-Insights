@@ -121,6 +121,7 @@
 - <a id="wang26af-modules"></a>[EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance](../conferences/icml-2026/cards/4601-4700.md#paper-wang26af)
 - <a id="wang26bg-modules"></a>[Granularity-Aware Adaptive Classifier Expansion via Zero-Shot Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bg)
 - <a id="wang26bj-modules"></a>[Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bj)
+- <a id="wang26br-modules"></a>[TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding](../conferences/icml-2026/cards/4601-4700.md#paper-wang26br)
 
 <a id="by-loss-functions"></a>
 
@@ -156,6 +157,7 @@
 - <a id="wang26ao-loss-functions"></a>[Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ao)
 - <a id="wang26ba-loss-functions"></a>[Don’t Overthink with Pixels: Efficient Reasoning for Segmentation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ba)
 - <a id="wang26bi-loss-functions"></a>[StyleDistillation: A New Insight of Image Style Enables Personalized Aesthetic Manipulation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bi)
+- <a id="wang26ch-loss-functions"></a>[Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ch)
 
 <a id="by-optimization"></a>
 
@@ -211,6 +213,7 @@
 - <a id="shi26p-reinforcement-learning"></a>[PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything](../conferences/icml-2026/cards/4101-4200.md#paper-shi26p)
 - <a id="sun26l-reinforcement-learning"></a>[Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function](../conferences/icml-2026/cards/4201-4300.md#paper-sun26l)
 - <a id="wang26an-reinforcement-learning"></a>[UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26an)
+- <a id="wang26bs-reinforcement-learning"></a>[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bs)
 
 <a id="by-training-strategies"></a>
 

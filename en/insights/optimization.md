@@ -169,6 +169,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Modality-Decoupled Online Recursive Editing](../../conferences/icml-2026/cards/2601-2700.md#li26ji-optimization) · 中文
 - [UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation](../../conferences/icml-2026/cards/2701-2800.md#liang26ab-optimization) · 中文
 - [MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](../../conferences/icml-2026/cards/3701-3800.md#qin26a-optimization) · 中文
+- [GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26ca-optimization) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -271,6 +271,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="rajabpour26a-evaluation"></a>[Revisiting OOD Generalization in Programmatic RL](../../conferences/icml-2026/cards/3801-3900.md#paper-rajabpour26a)
 - <a id="tomilin26a-evaluation"></a>[MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tomilin26a)
 - <a id="wang26bn-evaluation"></a>[RAGEN-2: Reasoning Collapse in Agentic RL](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bn)
+- <a id="wang26bx-evaluation"></a>[Investigating Memory in Model-Free RL with POPGym Arcade](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bx)
 
 <a id="by-theory-statistics"></a>
 
@@ -348,4 +349,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="singh26e-theory-statistics"></a>[Holonomy Grid Codes for Generalisation Under Directed Actions](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26e)
 - <a id="tian26b-theory-statistics"></a>[Bridging the Gap Between Average and Discounted TD Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26b)
 - <a id="viano26a-theory-statistics"></a>[Multi-agent imitation learning with function approximation: linear Markov games and beyond](../../conferences/icml-2026/cards/4501-4600.md#paper-viano26a)
+- <a id="wang26ci-theory-statistics"></a>[Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ci)
 <!-- classification:end -->

@@ -88,6 +88,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection](../../conferences/icml-2026/cards/4601-4700.md#wang26ao-loss-functions) · 中文
 - [Don’t Overthink with Pixels: Efficient Reasoning for Segmentation](../../conferences/icml-2026/cards/4601-4700.md#wang26ba-loss-functions) · 中文
 - [StyleDistillation: A New Insight of Image Style Enables Personalized Aesthetic Manipulation](../../conferences/icml-2026/cards/4601-4700.md#wang26bi-loss-functions) · 中文
+- [Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](../../conferences/icml-2026/cards/4601-4700.md#wang26ch-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

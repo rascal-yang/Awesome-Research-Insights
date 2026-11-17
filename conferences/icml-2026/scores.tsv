@@ -4650,26 +4650,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4649	wang26bo	4	4	3	4	76		新增量4：等半径圆周索引与交替几何；复用4：把图像token映射到与文本轴正交的等半径圆周，跨层交替圆周/网格索引，以实验控制跨模态几何和图内局部性之间的取舍。 可用3、独特4：PTD实际为距离平均绝对偏差而非方差；等欧氏距离只在相应径向核假设下消除几何项，不保证真实逐坐标RoPE的全部logit同等；圆周需AGE补局部网格先验。（PDF第4、5、6、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bo/wang26bo.pdf	scored
 4650	wang26bp	3	5	4	3	76		新增量3：重要性有效样本数设剪枝预算；复用5：将非负重要性归一化，保留floor(1/Σω²)个最高分组件，把剪枝预算直接绑定分数集中度；评分质量和真实速度仍需验证。 可用4、独特3：ρ在推导中是保留比例；质量界不等于任务精度保证，loss/Hessian推导针对幅值和局部假设，不能自动覆盖任意语义分数；绝对值不适合符号有意义评分，稀疏率非硬件加速。（PDF第3、5、6、7页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bp/wang26bp.pdf	scored
 4651	wang26bq	3	4	4	3	70		新增量3：按频谱和扩散时刻学习选patch；复用4：patch扩散训练可由频谱+时刻条件门控学习采样分布，再仅训练一个抽样patch；把采样增量与已有patch训练分开比较。 可用4、独特3：部分主表基线数值引用原论文，不能视作全部同机重跑；门控计算和策略方差有成本；理论是带方差残余的平均梯度范数界，非精确收敛保证；迁移到动作扩散未验证。（PDF第4、5、7、8、9页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bq/wang26bq.pdf	scored
-4652	wang26br							待原文复核评分	pending
-4653	wang26bs							待原文复核评分	pending
-4654	wang26bt							待原文复核评分	pending
-4655	wang26bu							待原文复核评分	pending
-4656	wang26bv							待原文复核评分	pending
-4657	wang26bw							待原文复核评分	pending
-4658	wang26bx							待原文复核评分	pending
-4659	wang26by							待原文复核评分	pending
-4660	wang26bz							待原文复核评分	pending
-4661	wang26ca							待原文复核评分	pending
-4662	wang26cb							待原文复核评分	pending
-4663	wang26cc							待原文复核评分	pending
-4664	wang26cd							待原文复核评分	pending
-4665	wang26ce							待原文复核评分	pending
-4666	wang26cf							待原文复核评分	pending
-4667	wang26cg							待原文复核评分	pending
-4668	wang26ch							待原文复核评分	pending
-4669	wang26ci							待原文复核评分	pending
-4670	wang26cj							待原文复核评分	pending
-4671	wang26ck							待原文复核评分	pending
+4652	wang26br	3	4	4	3	70		新增量3：局部单纯形几何提示相对所列近邻有独立增量；复用4：点云PEFT可把坐标、邻域位移、三角面法向/面积/夹角组成14维局部提示，经门控注入并跨层乘性调制；几何原语组合优于只用位置，不能把这些特征等同完整同调计算。；可用4：原语消融同时增加参数，非严格等参数比较；PointGPT-L的ModelNet40 94.5%低于GAPrompt96.2%；局部三角特征不代表一般拓扑不变量保证。；独特3：保留该具体机制/边界，仍需全库去重。证据PDF4,5,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26br/wang26br.pdf	scored
+4653	wang26bs	4	4	3	4	76		新增量4：几何奖励与动态约束轮换相对所列近邻有独立增量；复用4：视频RL可同时奖励重建重投影、额外视角完整性与轨迹一致性，但周期性关闭3D奖励训练动态提示，以免刚性约束压制非刚体运动。；可用3：训练Small/Large用48/96 H200；重建指标依赖重建器，不能当真实物理仿真保证；Large未测VBench；组件消融主要为曲线。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bs/wang26bs.pdf	scored
+4654	wang26bt							PDF3明确谱EEG转视频已有Bashivan2016及Yang2021；§3/PDF4–5新增前端是转置卷积渲染、对称卷积逆变换和标准L1重建，之后沿用VideoMAE。§4/PDF7–8隔离初始化、预训类型和规模及电极子集，但未隔离该前端相对既有谱视频的新机制；结果支持新任务组合与评测协议，未核出独立可复用的普通DL新增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bt/wang26bt.pdf	rule-excluded
+4655	wang26bu	4	4	4	4	80		新增量4：水印检测功效约束选参相对所列近邻有独立增量；复用4：KGW水印可把绿色比例与logit偏移的盲调参改为KL预算下一维功效优化；公式依赖绿色质量近似、平稳混合及非退化长期方差，功效不是普适保证。；可用4：均匀Dirichlet为替代NTP先验；备择需平稳、信息指数衰减和正长期方差；长期方差因子若随候选参数变化，固定常数下的选参不变结论不能直接通用。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF3,4,5,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bu/wang26bu.pdf	scored
+4656	wang26bv	4	5	4	4	86		新增量4：微平面残余应力适配相对所列近邻有独立增量；复用5：可变形物体辨识在校准各向同性先验后，可只学有界微平面应力重分配，而非完整黑盒动力学；结合运动导数监督补偿轻度各向异性与空间异质性。；可用4：面向轻度残差且依赖已校准先验与多视角动态重建；真实数据无真值粒子轨迹；微平面残差并不自动保证应力正定或热力学一致；不能从合成各向同性数据的提升推断发现真实各向异性。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF4,5,7,8,9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bv/wang26bv.pdf	scored
+4657	wang26bw	4	4	3	4	76		新增量4：熵门控世界敏感头缩放相对所列近邻有独立增量；复用4：对明确目标世界的知识冲突，可用前缀世界分类熵触发干预，再按条件score场对均值patch的敏感度选头缩放；静态世界方向不等价于这种局部头选择。；可用3：需世界标签、目标世界和校准隐状态访问；世界一致性由GPT-4o-mini评判；前缀熵不保证识别自信的错世界；迁移至未标记开放世界尚无验证。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF4,5,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bw/wang26bw.pdf	scored
+4658	wang26bx	5	5	4	5	96		新增量5：可观测孪生分离记忆收益相对所列近邻有独立增量；复用5：比较RL记忆模型时，用相同动力学/观测空间的MDP-POMDP孪生把记忆表示不足与优化惩罚分开；短时异常帧即使已消失也可能污染循环状态，回报相同不代表记忆同等有效。；可用4：梯度显著性为局部敏感度而非完整因果归因；Markov环境不强制已训循环网络的历史梯度为零，冗余历史编码本身不证明损害；污染实验测相对Q/策略变化。；独特5：保留该具体机制/边界，仍需全库去重。证据PDF3,4,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bx/wang26bx.pdf	scored
+4659	wang26by							PDF3–4的抽象数学候选显式沿用Graves2006/Havasi2025潜对齐思想；多对一可见映射的边缘化与所写ELBO属于标准潜变量变分/Jensen框架，未核出超出已有通用离散生成与潜变量边缘化的独立普通DL操作或适用条件。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26by/wang26by.pdf	rule-excluded
+4660	wang26bz	3	4	3	3	66		新增量3：疑虑连接词触发反馈相对所列近邻有独立增量；复用4：推理干预可设在转折连接词触发的自检/探索节点，外部评价当前推理的合理性与完整性，再训练模型响应继续/终止反馈；总成本需包括反馈生成器。；可用3：更大的72B代理带来额外推理成本，token缩短不自动等于同等FLOPs节约；连接词为语言/模型相关启发式；互信息非负不能保证实际错误反馈提升准确率。；独特3：保留该具体机制/边界，仍需全库去重。证据PDF4,6,7页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bz/wang26bz.pdf	scored
+4661	wang26ca	3	4	3	4	69		新增量3：缺模态重叠空间协作相对所列近邻有独立增量；复用4：永久缺模态客户端可只在共有模态结构空间耦合，服务器广播带支持掩码的客户端原型；局部代理下降不等于原全局势能每轮下降。；可用3：需固定模态结构、光滑性和受控代理/提升误差；一阶Nash驻点非局部Nash最优；原型陈旧和部分参与下原势函数可波动，保证针对局部代理与条件消散。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF4,5,7,9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ca/wang26ca.pdf	scored
+4662	wang26cb							方法§3.2–3.3/PDF4–6以语义余弦冲突分数、置信加权、熵阈值和临床反馈校准串联专科与通用模型；§4/PDF7–8证明该专用组合有效，但未隔离超出现成加权融合/选择性预测的独立通用机制，难据此改变相关深度学习的具体技术选择。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cb/wang26cb.pdf	rule-excluded
+4663	wang26cc	4	4	4	4	80		新增量4：按训练区间选择SciML优化器相对所列近邻有独立增量；复用4：SciML调参应联合训练损失与测试误差识别可训练、欠优化及数据受限区；NNCG对已可训练区有效，在高难区仍不稳定，不能凭低训练损失或单一曲率指标选择优化器。；可用4：区间阈值经验定义且因系统/模型而变；测试误差诊断需要参考解；不能把图中的相对改善解释成百分点，也不能当所有SciML的三相定理。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF4,5,6,7页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cc/wang26cc.pdf	scored
+4664	wang26cd							§3/PDF3–5在既有锚重建与正交分解上联合样本聚类重建及Z≈PᵀR一致项，§4/PDF7–8评测固定多视图特征；新增量主要是该矩阵聚类目标的耦合，未提供可脱离专用聚类目标的神经训练/表征选择证据或区别最近锚校准机制的独立规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cd/wang26cd.pdf	rule-excluded
+4665	wang26ce	4	4	3	3	73		新增量4：原型漂移下解析ETF旋转相对所列近邻有独立增量；复用4：小样本不平衡分类可用动量类原型和解析Procrustes对齐固定ETF，替代噪声大的梯度旋转；归一化分类支路抑制范数偏置，两个效果应分别消融。；可用3：验证限两个医学音频集；EMA m=0时ECE升至7.2%；论文正文与附录A.2把H=MPᵀ与Tr(RHᵀ)混用，旋转实现需核对转置；校准提升不是分布外诚实度保证。；独特3：保留该具体机制/边界，仍需全库去重。证据PDF3,4,5,7,12页。 原文SVD/转置约定欠清晰，实际复用需先核代码，故可用性降至3。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ce/wang26ce.pdf	scored
+4666	wang26cf	4	4	3	4	76		新增量4：无害音频的跨模态安全干扰相对所列近邻有独立增量；复用4：音频语言模型的防御评测应把音频内容安全与跨模态干扰分开，并复核拒绝前缀过滤的假阴性；无害音频语义仍可能使文本安全行为失稳。；可用3：历史表混用不同数据/打分协议，不能统一声称严格排名；部分自动判别无效样本需单列；小规模人评不是所有模型安全性的完整测量。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF2,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cf/wang26cf.pdf	scored
+4667	wang26cg							§2/PDF2–3相对FormalAlign的CE+对比对齐和LeanScorer/AriaScorer的子任务分解，新增28类SCI标签及判定/分类/定位/修复输出；§4–5/PDF6明确使用标准CE自回归SFT、合成错误与验证重标注。§6/PDF7–9未隔离新训练机制，域外下降亦与合成/自然错误分布同时变化；主要为专用数据和诊断评测贡献，未核出独立可复用的新操作或可靠新规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cg/wang26cg.pdf	rule-excluded
+4668	wang26ch	4	5	3	4	82		新增量4：频谱加权偏好对齐相对所列近邻有独立增量；复用5：生成式超分可用频率衰减噪声协方差的逆矩阵形成Sobolev残差偏好损失，并使用空间对齐的真实伪影负样本；低通协方差对应高频误差加权而非简单低通输出。；可用3：s=1.5经验设定，8 H800训练且需额外伪影模型；附录A另定义Gaussian速度策略代理，局部比值不等原确定性flow的轨迹似然；周期频谱目标不能保证真实流形对齐或恢复未知高频；下游用指定合成退化。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF3,4,7,8,12页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ch/wang26ch.pdf	scored
+4669	wang26ci	5	5	4	5	96		新增量5：GRPO采样维度方差不对称相对所列近邻有独立增量；复用5：固定温度的无价值模型GRPO中，前缀质量的估计应为同一前缀采多条后续；仅增加不同思维数有条件方差底，而后续平均使一阶delta近似方差按1/M降。；可用4：为条件于已采前缀的一阶delta近似，不是任意真实方差全局单调定理；温度固定、非零条件奖励方差且无value model；不保证所有分支点同等好。；独特5：保留该具体机制/边界，仍需全库去重。证据PDF3,4,6页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ci/wang26ci.pdf	scored
+4670	wang26cj	4	4	4	4	80		新增量4：相似特征的非对称最优传输相对所列近邻有独立增量；复用4：当一个模态token高度相似使跨注意力趋于均匀时，可在任务预测概率空间用负JS差异作传输代价，把分歧区域信息送给另一模态；反向仍用注意力，避免机械对称融合。；可用4：需两路有意义的patch任务概率，外推其它模态要验证；额外编码器/OT开销不能只按adapter参数判断；负JS强调分歧而非传统最小相似距离匹配。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF4,5,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cj/wang26cj.pdf	scored
+4671	wang26ck	4	4	3	4	76		新增量4：潜变量采样噪声修正的SGLD调参相对所列近邻有独立增量；复用4：SGLD-Gibbs的全局不确定性调参应加入条件潜变量梯度方差；每样本S次独立条件抽样仅把附加方差缩为1/S，不能照搬无潜变量SGLD的温度/预条件器。；可用3：局部大样本正则极限非深度非凸模型全局保证；S次条件样本独立时1/S成立，LDA自相关使S=5收益有限；神经潜变量模型需另核正则性和可抽样条件。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF3,4,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ck/wang26ck.pdf	scored
 4672	wang26cl							待原文复核评分	pending
 4673	wang26cm							待原文复核评分	pending
 4674	wang26cn							待原文复核评分	pending

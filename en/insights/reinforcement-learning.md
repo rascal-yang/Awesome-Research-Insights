@@ -197,6 +197,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything](../../conferences/icml-2026/cards/4101-4200.md#shi26p-reinforcement-learning) · 中文
 - [Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function](../../conferences/icml-2026/cards/4201-4300.md#sun26l-reinforcement-learning) · 中文
 - [UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#wang26an-reinforcement-learning) · 中文
+- [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](../../conferences/icml-2026/cards/4601-4700.md#wang26bs-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 

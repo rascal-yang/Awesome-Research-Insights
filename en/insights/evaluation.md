@@ -439,6 +439,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Revisiting OOD Generalization in Programmatic RL](../../conferences/icml-2026/cards/3801-3900.md#rajabpour26a-evaluation) · 中文
 - [MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/4401-4500.md#tomilin26a-evaluation) · 中文
 - [RAGEN-2: Reasoning Collapse in Agentic RL](../../conferences/icml-2026/cards/4601-4700.md#wang26bn-evaluation) · 中文
+- [Investigating Memory in Model-Free RL with POPGym Arcade](../../conferences/icml-2026/cards/4601-4700.md#wang26bx-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -538,6 +539,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ModernVBERT: Towards Smaller Visual Document Retrievers](../../conferences/icml-2026/cards/4401-4500.md#teiletche26a-evaluation) · 中文
 - [How can embedding models bind concepts?](../../conferences/icml-2026/cards/4501-4600.md#uselis26b-evaluation) · 中文
 - [Multimodal Fact-Level Attribution for Verifiable Reasoning](../../conferences/icml-2026/cards/4501-4600.md#wan26m-evaluation) · 中文
+- [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26cf-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -649,4 +651,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · 中文
 - [SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · 中文
 - [A Geometric Lens on Physics-Aligned Data Compression](../../conferences/icml-2026/cards/4501-4600.md#ugalde26a-evaluation) · 中文
+- [Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization](../../conferences/icml-2026/cards/4601-4700.md#wang26cc-evaluation) · 中文
 <!-- classification:end -->

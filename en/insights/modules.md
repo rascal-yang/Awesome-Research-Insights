@@ -103,6 +103,7 @@ Reusable components and local changes to model inputs or connections.
 - [EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance](../../conferences/icml-2026/cards/4601-4700.md#wang26af-modules) · 中文
 - [Granularity-Aware Adaptive Classifier Expansion via Zero-Shot Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26bg-modules) · 中文
 - [Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bj-modules) · 中文
+- [TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding](../../conferences/icml-2026/cards/4601-4700.md#wang26br-modules) · 中文
 
 <a id="by-nlp"></a>
 
@@ -130,6 +131,7 @@ Reusable components and local changes to model inputs or connections.
 - [Mixture of Horizons in Action Chunking](../../conferences/icml-2026/cards/1901-2000.md#jing26f-modules) · 中文
 - [Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](../../conferences/icml-2026/cards/2401-2500.md#li26ay-modules) · 中文
 - [QPKO: Differentiable QP-Embedded Deep Koopman Framework for Modeling Nonlinear Systems](../../conferences/icml-2026/cards/4401-4500.md#tian26f-modules) · 中文
+- [MoSA: Motion-constrained Stress Adaptation for Mitigating Real-to-Sim Gap in Continuum Dynamics via Learning Residual Anisotropy](../../conferences/icml-2026/cards/4601-4700.md#wang26bv-modules) · 中文
 - <a id="instruction-prefixes-for-causal-visual-grounding"></a><a id="multimodal-token-layout"></a>[ReconVLA](../../papers/reconvla.md#reconvla-modules) · 中文
 
 <a id="by-multimodal"></a>
@@ -162,6 +164,8 @@ Reusable components and local changes to model inputs or connections.
 - [A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification](../../conferences/icml-2026/cards/4401-4500.md#tian26i-modules) · 中文
 - [API: Adaptive Prototype Imputation for Incomplete Multimodal Sentiment Analysis](../../conferences/icml-2026/cards/4601-4700.md#wang26az-modules) · 中文
 - [Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Vision-Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bo-modules) · 中文
+- [Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis](../../conferences/icml-2026/cards/4601-4700.md#wang26ce-modules) · 中文
+- [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](../../conferences/icml-2026/cards/4601-4700.md#wang26cj-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

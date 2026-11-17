@@ -424,6 +424,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="oublal26a-evaluation"></a>[TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#paper-oublal26a)
 - <a id="shen26aa-evaluation"></a>[SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26aa)
 - <a id="ugalde26a-evaluation"></a>[A Geometric Lens on Physics-Aligned Data Compression](../../conferences/icml-2026/cards/4501-4600.md#paper-ugalde26a)
+- <a id="wang26cc-evaluation"></a>[Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cc)
 
 <a id="by-theory-statistics"></a>
 

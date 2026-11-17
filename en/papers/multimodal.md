@@ -71,6 +71,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="tian26i-modules"></a>[A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26i)
 - <a id="wang26az-modules"></a>[API: Adaptive Prototype Imputation for Incomplete Multimodal Sentiment Analysis](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26az)
 - <a id="wang26bo-modules"></a>[Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Vision-Language Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bo)
+- <a id="wang26ce-modules"></a>[Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ce)
+- <a id="wang26cj-modules"></a>[TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cj)
 
 <a id="by-loss-functions"></a>
 
@@ -120,6 +122,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26ji-optimization"></a>[Modality-Decoupled Online Recursive Editing](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ji)
 - <a id="liang26ab-optimization"></a>[UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26ab)
 - <a id="qin26a-optimization"></a>[MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26a)
+- <a id="wang26ca-optimization"></a>[GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ca)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -492,6 +495,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="teiletche26a-evaluation"></a>[ModernVBERT: Towards Smaller Visual Document Retrievers](../../conferences/icml-2026/cards/4401-4500.md#paper-teiletche26a)
 - <a id="uselis26b-evaluation"></a>[How can embedding models bind concepts?](../../conferences/icml-2026/cards/4501-4600.md#paper-uselis26b)
 - <a id="wan26m-evaluation"></a>[Multimodal Fact-Level Attribution for Verifiable Reasoning](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26m)
+- <a id="wang26cf-evaluation"></a>[Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cf)
 
 <a id="by-theory-statistics"></a>
 

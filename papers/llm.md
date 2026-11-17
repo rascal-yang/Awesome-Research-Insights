@@ -922,6 +922,8 @@
 - <a id="wan26p-inference"></a>[The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](../conferences/icml-2026/cards/4501-4600.md#paper-wan26p)
 - <a id="wang26y-inference"></a>[ProphetKV: User-Query-Driven Selective Recomputation for Efficient KV Cache Reuse in Retrieval-Augmented Generation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26y)
 - <a id="wang26bm-inference"></a>[SLIM: Secure and Efficient Inference for Large Language Models on Untrusted Devices via TEEs](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bm)
+- <a id="wang26bw-inference"></a>[WET: Mitigating World-Conditioned Knowledge Conflicts via World Entropy Tethering](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bw)
+- <a id="wang26bz-inference"></a>[Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bz)
 
 <a id="by-representation-learning"></a>
 
@@ -1327,4 +1329,5 @@
 - <a id="sullivan26a-theory-statistics"></a>[GRPO is Secretly a Process Reward Model](../conferences/icml-2026/cards/4201-4300.md#paper-sullivan26a)
 - <a id="tomlinson26a-theory-statistics"></a>[Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](../conferences/icml-2026/cards/4401-4500.md#paper-tomlinson26a)
 - <a id="wakayama26b-theory-statistics"></a>[In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning](../conferences/icml-2026/cards/4501-4600.md#paper-wakayama26b)
+- <a id="wang26bu-theory-statistics"></a>[Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bu)
 <!-- classification:end -->

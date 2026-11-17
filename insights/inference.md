@@ -315,6 +315,8 @@
 - [reasoning-budget-abandonment](../conferences/icml-2026/cards/4501-4600.md#wan26p-inference) · The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs
 - [Layer-fused query scoring for cache repair](../conferences/icml-2026/cards/4601-4700.md#wang26y-inference) · ProphetKV: User-Query-Driven Selective Recomputation for Efficient KV Cache Reuse in Retrieval-Augmented Generation
 - [跨层级联的TEE表征保护](../conferences/icml-2026/cards/4601-4700.md#wang26bm-inference) · SLIM: Secure and Efficient Inference for Large Language Models on Untrusted Devices via TEEs
+- [熵门控世界敏感头缩放](../conferences/icml-2026/cards/4601-4700.md#wang26bw-inference) · WET: Mitigating World-Conditioned Knowledge Conflicts via World Entropy Tethering
+- [疑虑连接词触发反馈](../conferences/icml-2026/cards/4601-4700.md#wang26bz-inference) · Intervene When It Doubts: Conjunction-Guided Interactive Reasoning
 
 <a id="by-computer-vision"></a>
 

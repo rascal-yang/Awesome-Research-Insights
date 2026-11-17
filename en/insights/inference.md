@@ -315,6 +315,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](../../conferences/icml-2026/cards/4501-4600.md#wan26p-inference) · 中文
 - [ProphetKV: User-Query-Driven Selective Recomputation for Efficient KV Cache Reuse in Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4601-4700.md#wang26y-inference) · 中文
 - [SLIM: Secure and Efficient Inference for Large Language Models on Untrusted Devices via TEEs](../../conferences/icml-2026/cards/4601-4700.md#wang26bm-inference) · 中文
+- [WET: Mitigating World-Conditioned Knowledge Conflicts via World Entropy Tethering](../../conferences/icml-2026/cards/4601-4700.md#wang26bw-inference) · 中文
+- [Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](../../conferences/icml-2026/cards/4601-4700.md#wang26bz-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

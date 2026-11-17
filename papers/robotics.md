@@ -49,6 +49,7 @@
 - <a id="jing26f-modules"></a>[Mixture of Horizons in Action Chunking](../conferences/icml-2026/cards/1901-2000.md#paper-jing26f)
 - <a id="li26ay-modules"></a>[Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](../conferences/icml-2026/cards/2401-2500.md#paper-li26ay)
 - <a id="tian26f-modules"></a>[QPKO: Differentiable QP-Embedded Deep Koopman Framework for Modeling Nonlinear Systems](../conferences/icml-2026/cards/4401-4500.md#paper-tian26f)
+- <a id="wang26bv-modules"></a>[MoSA: Motion-constrained Stress Adaptation for Mitigating Real-to-Sim Gap in Continuum Dynamics via Learning Residual Anisotropy](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bv)
 
 <a id="by-loss-functions"></a><a id="vision-language-action-models"></a>
 

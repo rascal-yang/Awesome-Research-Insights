@@ -197,6 +197,7 @@
 - [分别优化语义和空间点提示](../conferences/icml-2026/cards/4101-4200.md#shi26p-reinforcement-learning) · PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything
 - [终局奖励分布作短段回报](../conferences/icml-2026/cards/4201-4300.md#sun26l-reinforcement-learning) · Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function
 - [前向重加噪声轨迹的GRPO](../conferences/icml-2026/cards/4601-4700.md#wang26an-reinforcement-learning) · UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models
+- [几何奖励与动态约束轮换](../conferences/icml-2026/cards/4601-4700.md#wang26bs-reinforcement-learning) · World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
 
 <a id="by-nlp"></a>
 

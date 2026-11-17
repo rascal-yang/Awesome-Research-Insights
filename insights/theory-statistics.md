@@ -68,6 +68,7 @@
 - [按共享前缀频率重加权GRPO](../conferences/icml-2026/cards/4201-4300.md#sullivan26a-theory-statistics) · GRPO is Secretly a Process Reward Model
 - [有限注意力下CoT预算下界](../conferences/icml-2026/cards/4401-4500.md#tomlinson26a-theory-statistics) · Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs
 - [区分预训练逼近和任务识别误差](../conferences/icml-2026/cards/4501-4600.md#wakayama26b-theory-statistics) · In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning
+- [水印检测功效约束选参](../conferences/icml-2026/cards/4601-4700.md#wang26bu-theory-statistics) · Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking
 
 <a id="by-computer-vision"></a>
 
@@ -168,6 +169,7 @@
 - [非交换动作需要矩阵谱](../conferences/icml-2026/cards/4101-4200.md#singh26e-theory-statistics) · Holonomy Grid Codes for Generalisation Under Directed Actions
 - [independent-chain-average-td](../conferences/icml-2026/cards/4401-4500.md#tian26b-theory-statistics) · Bridging the Gap Between Average and Discounted TD Learning
 - [多智能体模仿的特征覆盖与交互选择](../conferences/icml-2026/cards/4501-4600.md#viano26a-theory-statistics) · Multi-agent imitation learning with function approximation: linear Markov games and beyond
+- [GRPO采样维度方差不对称](../conferences/icml-2026/cards/4601-4700.md#wang26ci-theory-statistics) · Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO
 
 <a id="by-robotics"></a>
 
@@ -571,6 +573,7 @@
 - [有限步长与状态依赖梯度噪声的协方差校准](../conferences/icml-2026/cards/4601-4700.md#wang26ap-theory-statistics) · Accurate Large-sample Uncertainty Quantification using Stochastic Gradient Markov Chain Monte Carlo
 - [预测集合外的损失惩罚](../conferences/icml-2026/cards/4601-4700.md#wang26ar-theory-statistics) · Optimal Decision-Making Based on Prediction Sets
 - [加速随机Newton的在线推断协方差](../conferences/icml-2026/cards/4601-4700.md#wang26au-theory-statistics) · Inference of Online Newton Methods with Nesterov’s Accelerated Sketching
+- [潜变量采样噪声修正的SGLD调参](../conferences/icml-2026/cards/4601-4700.md#wang26ck-theory-statistics) · Large-scale Uncertainty Quantification for Latent Variable Models Using Subsampling Markov Chain Monte Carlo
 
 <a id="by-graph-and-recommendation"></a>
 

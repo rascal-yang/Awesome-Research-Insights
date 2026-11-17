@@ -1097,4 +1097,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wang26ap-theory-statistics"></a>[Accurate Large-sample Uncertainty Quantification using Stochastic Gradient Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ap)
 - <a id="wang26ar-theory-statistics"></a>[Optimal Decision-Making Based on Prediction Sets](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ar)
 - <a id="wang26au-theory-statistics"></a>[Inference of Online Newton Methods with Nesterov’s Accelerated Sketching](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26au)
+- <a id="wang26ck-theory-statistics"></a>[Large-scale Uncertainty Quantification for Latent Variable Models Using Subsampling Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ck)
 <!-- classification:end -->

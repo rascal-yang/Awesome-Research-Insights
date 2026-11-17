@@ -169,6 +169,7 @@
 - [按模态维护编辑约束并在固定低秩空间递推](../conferences/icml-2026/cards/2601-2700.md#li26ji-optimization) · Modality-Decoupled Online Recursive Editing
 - [用完整增量对齐联邦低秩适配器聚合](../conferences/icml-2026/cards/2701-2800.md#liang26ab-optimization) · UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation
 - [视觉语言模型的跨模态攻击迁移](../conferences/icml-2026/cards/3701-3800.md#qin26a-optimization) · MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models
+- [缺模态重叠空间协作](../conferences/icml-2026/cards/4601-4700.md#wang26ca-optimization) · GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning
 
 <a id="by-ml-foundations"></a>
 

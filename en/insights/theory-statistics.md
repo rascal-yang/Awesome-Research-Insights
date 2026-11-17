@@ -68,6 +68,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [GRPO is Secretly a Process Reward Model](../../conferences/icml-2026/cards/4201-4300.md#sullivan26a-theory-statistics) · 中文
 - [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](../../conferences/icml-2026/cards/4401-4500.md#tomlinson26a-theory-statistics) · 中文
 - [In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning](../../conferences/icml-2026/cards/4501-4600.md#wakayama26b-theory-statistics) · 中文
+- [Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking](../../conferences/icml-2026/cards/4601-4700.md#wang26bu-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -168,6 +169,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Holonomy Grid Codes for Generalisation Under Directed Actions](../../conferences/icml-2026/cards/4101-4200.md#singh26e-theory-statistics) · 中文
 - [Bridging the Gap Between Average and Discounted TD Learning](../../conferences/icml-2026/cards/4401-4500.md#tian26b-theory-statistics) · 中文
 - [Multi-agent imitation learning with function approximation: linear Markov games and beyond](../../conferences/icml-2026/cards/4501-4600.md#viano26a-theory-statistics) · 中文
+- [Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](../../conferences/icml-2026/cards/4601-4700.md#wang26ci-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -571,6 +573,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Accurate Large-sample Uncertainty Quantification using Stochastic Gradient Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#wang26ap-theory-statistics) · 中文
 - [Optimal Decision-Making Based on Prediction Sets](../../conferences/icml-2026/cards/4601-4700.md#wang26ar-theory-statistics) · 中文
 - [Inference of Online Newton Methods with Nesterov’s Accelerated Sketching](../../conferences/icml-2026/cards/4601-4700.md#wang26au-theory-statistics) · 中文
+- [Large-scale Uncertainty Quantification for Latent Variable Models Using Subsampling Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#wang26ck-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

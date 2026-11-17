@@ -439,6 +439,7 @@
 - [复核策略泛化时控制奖励和观察](../conferences/icml-2026/cards/3801-3900.md#rajabpour26a-evaluation) · Revisiting OOD Generalization in Programmatic RL
 - [百任务序列暴露正则塑性失效](../conferences/icml-2026/cards/4401-4500.md#tomilin26a-evaluation) · MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning
 - [跨输入可区分性诊断模板坍缩](../conferences/icml-2026/cards/4601-4700.md#wang26bn-evaluation) · RAGEN-2: Reasoning Collapse in Agentic RL
+- [可观测孪生分离记忆收益](../conferences/icml-2026/cards/4601-4700.md#wang26bx-evaluation) · Investigating Memory in Model-Free RL with POPGym Arcade
 
 <a id="by-robotics"></a>
 
@@ -538,6 +539,7 @@
 - [bidirectionality-late-interaction-synergy](../conferences/icml-2026/cards/4401-4500.md#teiletche26a-evaluation) · ModernVBERT: Towards Smaller Visual Document Retrievers
 - [binding-vs-unimodal-recoverability](../conferences/icml-2026/cards/4501-4600.md#uselis26b-evaluation) · How can embedding models bind concepts?
 - [atomic-multimodal-attribution](../conferences/icml-2026/cards/4501-4600.md#wan26m-evaluation) · Multimodal Fact-Level Attribution for Verifiable Reasoning
+- [无害音频的跨模态安全干扰](../conferences/icml-2026/cards/4601-4700.md#wang26cf-evaluation) · Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -649,4 +651,5 @@
 - [用概念重组测试分布外时序解释](../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models
 - [从工具依赖图合成带修复轨迹](../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents
 - [rate-whitened-observable-alignment](../conferences/icml-2026/cards/4501-4600.md#ugalde26a-evaluation) · A Geometric Lens on Physics-Aligned Data Compression
+- [按训练区间选择SciML优化器](../conferences/icml-2026/cards/4601-4700.md#wang26cc-evaluation) · Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization
 <!-- classification:end -->
