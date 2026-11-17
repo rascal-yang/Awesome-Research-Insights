@@ -170,6 +170,7 @@
 - [在扩展状态中计入偏好切换成本](../conferences/icml-2026/cards/1601-1700.md#hu26bd-reinforcement-learning) · Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion
 - [给 critic 中的策略对数概率加界](../conferences/icml-2026/cards/1801-1900.md#iwaki26a-reinforcement-learning) · Mirror Descent Actor Critic via Bounded Advantage Learning
 - [同时约束参数共识和策略诱发的队列](../conferences/icml-2026/cards/1901-2000.md#jiang26u-reinforcement-learning) · Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design
+- [按预算分开选择劫持对象与替换动作](../conferences/icml-2026/cards/1901-2000.md#jiang26ba-reinforcement-learning) · Budget-Efficient Attacks and Robustness Training for Cooperative MARL
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>

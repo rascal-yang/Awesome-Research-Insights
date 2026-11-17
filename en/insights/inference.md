@@ -132,6 +132,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation](../../conferences/icml-2026/cards/1901-2000.md#jiang26f-inference) · 中文
 - [OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration](../../conferences/icml-2026/cards/1901-2000.md#jiang26k-inference) · 中文
 - [HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling](../../conferences/icml-2026/cards/1901-2000.md#jiang26z-inference) · 中文
+- [Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction](../../conferences/icml-2026/cards/1901-2000.md#jiang26bc-inference) · 中文
+- [NaviAgent: Graph-Driven Bilevel Planning for Scalable Tool Orchestration](../../conferences/icml-2026/cards/1901-2000.md#jiang26be-inference) · 中文
+- [PICACO: Pluralistic In-Context Value Alignment via Total Correlation Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26bh-inference) · 中文
+- [DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding](../../conferences/icml-2026/cards/1901-2000.md#jiao26g-inference) · 中文
+- [TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems](../../conferences/icml-2026/cards/1901-2000.md#jiao26h-inference) · 中文
+- [Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](../../conferences/icml-2026/cards/1901-2000.md#jo26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -188,6 +194,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/1801-1900.md#issachar26a-inference) · 中文
 - [Self-Refining Video Sampling](../../conferences/icml-2026/cards/1801-1900.md#jang26d-inference) · 中文
 - [Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance](../../conferences/icml-2026/cards/1801-1900.md#jia26g-inference) · 中文
+- [Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](../../conferences/icml-2026/cards/1901-2000.md#jiao26e-inference) · 中文
 
 <a id="by-nlp"></a>
 

@@ -65,6 +65,7 @@
 - [按 MoE 参数组缩放超参数再迁移](../conferences/icml-2026/cards/1901-2000.md#jiang26a-training-strategies) · Hyperparameter Transfer with Mixture-of-Experts Layers
 - [按安全配置改变标签并维护严重度排序](../conferences/icml-2026/cards/1901-2000.md#jiang26v-training-strategies) · Configurable Reward Model for Balanced Safety Alignment
 - [把少量可程序生成的结构任务放到预训练开头](../conferences/icml-2026/cards/1901-2000.md#jiang26ap-training-strategies) · Procedural Pretraining: Warming Up Language Models with Abstract Data
+- [让扩散预训练掩码随模型成熟度改变](../conferences/icml-2026/cards/1901-2000.md#jing26g-training-strategies) · InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining
 
 <a id="by-computer-vision"></a>
 
@@ -211,4 +212,7 @@
 - [用性能偏好训练单元版图脚本生成](../conferences/icml-2026/cards/1401-1500.md#han26j-training-strategies) · Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM
 - [按分子去噪表现选择化学振动扰动](../conferences/icml-2026/cards/1601-1700.md#hou26f-training-strategies) · MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction
 - [让神经信号预训练覆盖下游任务的时间尺度](../conferences/icml-2026/cards/1801-1900.md#jayalath26b-training-strategies) · MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training
+- [训练模型在医学图像上选区域并核查工具所得证据](../conferences/icml-2026/cards/1901-2000.md#jiang26bd-training-strategies) · Ophiuchus: Incentivizing Tool-augmented ”Think with Images” for Joint Medical Segmentation, Understanding and Reasoning
+- [把诊断规程拆成可奖励的导联证据](../conferences/icml-2026/cards/1901-2000.md#jin26l-training-strategies) · ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation
+- [蒸馏逐切片特征以跨架构联合训练](../conferences/icml-2026/cards/1901-2000.md#jing26b-training-strategies) · Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration
 <!-- classification:end -->

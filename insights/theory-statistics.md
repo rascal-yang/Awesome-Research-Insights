@@ -320,6 +320,8 @@
 - [把下层条件数嵌入两层零链以刻画查询障碍](../conferences/icml-2026/cards/1801-1900.md#ji26f-theory-statistics) · Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles
 - [按地理邻域估计共形残差分位数](../conferences/icml-2026/cards/1901-2000.md#jiang26at-theory-statistics) · Spatial Conformal Inference through Localized Quantile Regression
 - [在分布式符号优化中校正压缩和采样误差](../conferences/icml-2026/cards/1901-2000.md#jiang26ax-theory-statistics) · Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings
+- [用序列网格分离逼近与时序估计误差](../conferences/icml-2026/cards/1901-2000.md#jiao26d-theory-statistics) · Approximation Bounds for Transformer Networks with Application to Regression
+- [截取未来窗口估计非平稳实验的累积效应](../conferences/icml-2026/cards/1901-2000.md#johari26a-theory-statistics) · Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -353,4 +355,6 @@
 - [推理时可调的模型复杂度先验](../conferences/icml-2026/cards/1201-1300.md#gloeckler26a-theory-statistics) · Scalable Simulation-Based Model Inference with Test-Time Complexity Control
 - [从时间快照学习群体 Hamilton 动力学](../conferences/icml-2026/cards/1301-1400.md#guan26a-theory-statistics) · A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots
 - [将多模哈密顿量恢复转成多项式系数估计](../conferences/icml-2026/cards/1701-1800.md#huang26ce-theory-statistics) · Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation
+- [从局部形态分布估计不同部位的发育时标](../conferences/icml-2026/cards/1901-2000.md#jiao26a-theory-statistics) · $\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling
+- [用重尾连接先验形成可外推的低维动力学](../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks
 <!-- classification:end -->

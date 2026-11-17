@@ -36,6 +36,8 @@
 - [交替由学生写风格和教师补解法](../conferences/icml-2026/cards/1701-1800.md#huang26bq-data-strategies) · How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data
 - [把短题答案串成可验收的长链](../conferences/icml-2026/cards/1801-1900.md#ivanova26a-data-strategies) · h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning
 - [用同一教师对齐前后差异筛选监督](../conferences/icml-2026/cards/1901-2000.md#jiang26j-data-strategies) · Contrastive Weak-to-Strong Generalization
+- [先验证可解性再奖励合成题难度](../conferences/icml-2026/cards/1901-2000.md#jiao26f-data-strategies) · Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis
+- [用扰动模型的前缀损失挑长推理样本](../conferences/icml-2026/cards/1901-2000.md#jin26o-data-strategies) · Reasoning Quality Emerges Early: Data Curation for Reasoning Models
 
 <a id="by-computer-vision"></a>
 

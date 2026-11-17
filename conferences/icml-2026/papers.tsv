@@ -1951,50 +1951,50 @@ number	pmlr_id	title	paper_url	insight_status
 1950	jiang26aw	BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency	https://proceedings.mlr.press/v306/jiang26aw.html	written
 1951	jiang26ax	Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings	https://proceedings.mlr.press/v306/jiang26ax.html	written
 1952	jiang26ay	SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation	https://proceedings.mlr.press/v306/jiang26ay.html	written
-1953	jiang26az	EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization	https://proceedings.mlr.press/v306/jiang26az.html	pending
-1954	jiang26ba	Budget-Efficient Attacks and Robustness Training for Cooperative MARL	https://proceedings.mlr.press/v306/jiang26ba.html	pending
-1955	jiang26bb	StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation	https://proceedings.mlr.press/v306/jiang26bb.html	pending
-1956	jiang26bc	Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction	https://proceedings.mlr.press/v306/jiang26bc.html	pending
-1957	jiang26bd	Ophiuchus: Incentivizing Tool-augmented ”Think with Images” for Joint Medical Segmentation, Understanding and Reasoning	https://proceedings.mlr.press/v306/jiang26bd.html	pending
-1958	jiang26be	NaviAgent: Graph-Driven Bilevel Planning for Scalable Tool Orchestration	https://proceedings.mlr.press/v306/jiang26be.html	pending
-1959	jiang26bf	VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs	https://proceedings.mlr.press/v306/jiang26bf.html	pending
-1960	jiang26bg	Seeing Symbols, Missing Structure: A Real-World Handwritten Mathematical Expression Recognition Benchmark for Large Models	https://proceedings.mlr.press/v306/jiang26bg.html	pending
-1961	jiang26bh	PICACO: Pluralistic In-Context Value Alignment via Total Correlation Optimization	https://proceedings.mlr.press/v306/jiang26bh.html	pending
-1962	jiao26a	$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling	https://proceedings.mlr.press/v306/jiao26a.html	pending
-1963	jiao26b	DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?	https://proceedings.mlr.press/v306/jiao26b.html	pending
-1964	jiao26c	Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks	https://proceedings.mlr.press/v306/jiao26c.html	pending
-1965	jiao26d	Approximation Bounds for Transformer Networks with Application to Regression	https://proceedings.mlr.press/v306/jiao26d.html	pending
-1966	jiao26e	Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach	https://proceedings.mlr.press/v306/jiao26e.html	pending
-1967	jiao26f	Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis	https://proceedings.mlr.press/v306/jiao26f.html	pending
-1968	jiao26g	DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding	https://proceedings.mlr.press/v306/jiao26g.html	pending
-1969	jiao26h	TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems	https://proceedings.mlr.press/v306/jiao26h.html	pending
-1970	jin26a	Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay	https://proceedings.mlr.press/v306/jin26a.html	pending
-1971	jin26b	WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views	https://proceedings.mlr.press/v306/jin26b.html	pending
-1972	jin26c	Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems	https://proceedings.mlr.press/v306/jin26c.html	pending
-1973	jin26d	Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling	https://proceedings.mlr.press/v306/jin26d.html	pending
-1974	jin26e	Entropy-Aware On-Policy Distillation of Language Models	https://proceedings.mlr.press/v306/jin26e.html	pending
-1975	jin26f	DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training	https://proceedings.mlr.press/v306/jin26f.html	pending
-1976	jin26g	Robust Signal Enhancement via Fractional Detail Views and Knowledge Guided Multi-view Fusion	https://proceedings.mlr.press/v306/jin26g.html	pending
-1977	jin26h	Margin-Adaptive Confidence Ranking for Reliable LLM Judgement	https://proceedings.mlr.press/v306/jin26h.html	pending
-1978	jin26i	EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design	https://proceedings.mlr.press/v306/jin26i.html	pending
-1979	jin26j	C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders	https://proceedings.mlr.press/v306/jin26j.html	pending
-1980	jin26k	From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale	https://proceedings.mlr.press/v306/jin26k.html	pending
-1981	jin26l	ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation	https://proceedings.mlr.press/v306/jin26l.html	pending
-1982	jin26m	SE-GA: Memory-Augmented Self-Evolution for GUI Agents	https://proceedings.mlr.press/v306/jin26m.html	pending
-1983	jin26n	Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering	https://proceedings.mlr.press/v306/jin26n.html	pending
-1984	jin26o	Reasoning Quality Emerges Early: Data Curation for Reasoning Models	https://proceedings.mlr.press/v306/jin26o.html	pending
-1985	jin26p	Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling	https://proceedings.mlr.press/v306/jin26p.html	pending
-1986	jing26a	SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins	https://proceedings.mlr.press/v306/jing26a.html	pending
-1987	jing26b	Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration	https://proceedings.mlr.press/v306/jing26b.html	pending
-1988	jing26c	Local Constrained Bayesian Optimization	https://proceedings.mlr.press/v306/jing26c.html	pending
-1989	jing26d	Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork	https://proceedings.mlr.press/v306/jing26d.html	pending
-1990	jing26e	Meta-learning Structure-Preserving Dynamics	https://proceedings.mlr.press/v306/jing26e.html	pending
-1991	jing26f	Mixture of Horizons in Action Chunking	https://proceedings.mlr.press/v306/jing26f.html	pending
-1992	jing26g	InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining	https://proceedings.mlr.press/v306/jing26g.html	pending
-1993	jing26h	Scaling-Aware Adapter for Structure-Grounded LLM Reasoning	https://proceedings.mlr.press/v306/jing26h.html	pending
-1994	jo26a	Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection	https://proceedings.mlr.press/v306/jo26a.html	pending
-1995	johari26a	Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator	https://proceedings.mlr.press/v306/johari26a.html	pending
-1996	john26a	An Approximation Algorithm for Graph Label Selection	https://proceedings.mlr.press/v306/john26a.html	pending
+1953	jiang26az	EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization	https://proceedings.mlr.press/v306/jiang26az.html	written
+1954	jiang26ba	Budget-Efficient Attacks and Robustness Training for Cooperative MARL	https://proceedings.mlr.press/v306/jiang26ba.html	written
+1955	jiang26bb	StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation	https://proceedings.mlr.press/v306/jiang26bb.html	written
+1956	jiang26bc	Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction	https://proceedings.mlr.press/v306/jiang26bc.html	written
+1957	jiang26bd	Ophiuchus: Incentivizing Tool-augmented ”Think with Images” for Joint Medical Segmentation, Understanding and Reasoning	https://proceedings.mlr.press/v306/jiang26bd.html	written
+1958	jiang26be	NaviAgent: Graph-Driven Bilevel Planning for Scalable Tool Orchestration	https://proceedings.mlr.press/v306/jiang26be.html	written
+1959	jiang26bf	VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs	https://proceedings.mlr.press/v306/jiang26bf.html	written
+1960	jiang26bg	Seeing Symbols, Missing Structure: A Real-World Handwritten Mathematical Expression Recognition Benchmark for Large Models	https://proceedings.mlr.press/v306/jiang26bg.html	written
+1961	jiang26bh	PICACO: Pluralistic In-Context Value Alignment via Total Correlation Optimization	https://proceedings.mlr.press/v306/jiang26bh.html	written
+1962	jiao26a	$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling	https://proceedings.mlr.press/v306/jiao26a.html	written
+1963	jiao26b	DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?	https://proceedings.mlr.press/v306/jiao26b.html	written
+1964	jiao26c	Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks	https://proceedings.mlr.press/v306/jiao26c.html	written
+1965	jiao26d	Approximation Bounds for Transformer Networks with Application to Regression	https://proceedings.mlr.press/v306/jiao26d.html	written
+1966	jiao26e	Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach	https://proceedings.mlr.press/v306/jiao26e.html	written
+1967	jiao26f	Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis	https://proceedings.mlr.press/v306/jiao26f.html	written
+1968	jiao26g	DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding	https://proceedings.mlr.press/v306/jiao26g.html	written
+1969	jiao26h	TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems	https://proceedings.mlr.press/v306/jiao26h.html	written
+1970	jin26a	Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay	https://proceedings.mlr.press/v306/jin26a.html	written
+1971	jin26b	WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views	https://proceedings.mlr.press/v306/jin26b.html	written
+1972	jin26c	Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems	https://proceedings.mlr.press/v306/jin26c.html	written
+1973	jin26d	Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling	https://proceedings.mlr.press/v306/jin26d.html	written
+1974	jin26e	Entropy-Aware On-Policy Distillation of Language Models	https://proceedings.mlr.press/v306/jin26e.html	written
+1975	jin26f	DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training	https://proceedings.mlr.press/v306/jin26f.html	written
+1976	jin26g	Robust Signal Enhancement via Fractional Detail Views and Knowledge Guided Multi-view Fusion	https://proceedings.mlr.press/v306/jin26g.html	written
+1977	jin26h	Margin-Adaptive Confidence Ranking for Reliable LLM Judgement	https://proceedings.mlr.press/v306/jin26h.html	written
+1978	jin26i	EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design	https://proceedings.mlr.press/v306/jin26i.html	written
+1979	jin26j	C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders	https://proceedings.mlr.press/v306/jin26j.html	written
+1980	jin26k	From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale	https://proceedings.mlr.press/v306/jin26k.html	written
+1981	jin26l	ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation	https://proceedings.mlr.press/v306/jin26l.html	written
+1982	jin26m	SE-GA: Memory-Augmented Self-Evolution for GUI Agents	https://proceedings.mlr.press/v306/jin26m.html	written
+1983	jin26n	Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering	https://proceedings.mlr.press/v306/jin26n.html	written
+1984	jin26o	Reasoning Quality Emerges Early: Data Curation for Reasoning Models	https://proceedings.mlr.press/v306/jin26o.html	written
+1985	jin26p	Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling	https://proceedings.mlr.press/v306/jin26p.html	written
+1986	jing26a	SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins	https://proceedings.mlr.press/v306/jing26a.html	written
+1987	jing26b	Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration	https://proceedings.mlr.press/v306/jing26b.html	written
+1988	jing26c	Local Constrained Bayesian Optimization	https://proceedings.mlr.press/v306/jing26c.html	written
+1989	jing26d	Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork	https://proceedings.mlr.press/v306/jing26d.html	written
+1990	jing26e	Meta-learning Structure-Preserving Dynamics	https://proceedings.mlr.press/v306/jing26e.html	written
+1991	jing26f	Mixture of Horizons in Action Chunking	https://proceedings.mlr.press/v306/jing26f.html	written
+1992	jing26g	InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining	https://proceedings.mlr.press/v306/jing26g.html	written
+1993	jing26h	Scaling-Aware Adapter for Structure-Grounded LLM Reasoning	https://proceedings.mlr.press/v306/jing26h.html	written
+1994	jo26a	Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection	https://proceedings.mlr.press/v306/jo26a.html	written
+1995	johari26a	Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator	https://proceedings.mlr.press/v306/johari26a.html	written
+1996	john26a	An Approximation Algorithm for Graph Label Selection	https://proceedings.mlr.press/v306/john26a.html	written
 1997	johnson26a	VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks	https://proceedings.mlr.press/v306/johnson26a.html	pending
 1998	jones26a	A New Framework for Cybersecurity Refusals in AI Agents	https://proceedings.mlr.press/v306/jones26a.html	pending
 1999	jones26b	When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents	https://proceedings.mlr.press/v306/jones26b.html	pending

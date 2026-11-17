@@ -27,6 +27,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#hu26d-loss-functions) · 中文
 - [Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA](../../conferences/icml-2026/cards/1701-1800.md#huang26s-loss-functions) · 中文
 - [Normalized Rewards for Preference Optimization](../../conferences/icml-2026/cards/1801-1900.md#im26a-loss-functions) · 中文
+- [Entropy-Aware On-Policy Distillation of Language Models](../../conferences/icml-2026/cards/1901-2000.md#jin26e-loss-functions) · 中文
+- [C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders](../../conferences/icml-2026/cards/1901-2000.md#jin26j-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -136,4 +138,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality](../../conferences/icml-2026/cards/1701-1800.md#huh26a-loss-functions) · 中文
 - [Signature-Informed Transformer for Asset Allocation](../../conferences/icml-2026/cards/1701-1800.md#hwang26j-loss-functions) · 中文
 - [Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](../../conferences/icml-2026/cards/1801-1900.md#jia26j-loss-functions) · 中文
+- [From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale](../../conferences/icml-2026/cards/1901-2000.md#jin26k-loss-functions) · 中文
 <!-- classification:end -->

@@ -132,6 +132,12 @@
 - [把逐句引证核验写成多重检验](../conferences/icml-2026/cards/1901-2000.md#jiang26f-inference) · CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation
 - [按实时请求组合切换异构模型部署](../conferences/icml-2026/cards/1901-2000.md#jiang26k-inference) · OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration
 - [分组件监控和扩缩推理工作组](../conferences/icml-2026/cards/1901-2000.md#jiang26z-inference) · HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling
+- [在代理执行工具前纠正可见的中间推理](../conferences/icml-2026/cards/1901-2000.md#jiang26bc-inference) · Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction
+- [用依赖图重组失效的工具调用路径](../conferences/icml-2026/cards/1901-2000.md#jiang26be-inference) · NaviAgent: Graph-Driven Bilevel Planning for Scalable Tool Orchestration
+- [用多目标统计依赖筛选缓和价值冲突的提示](../conferences/icml-2026/cards/1901-2000.md#jiang26bh-inference) · PICACO: Pluralistic In-Context Value Alignment via Total Correlation Optimization
+- [让未提交草稿维持扩散解码的双向上下文](../conferences/icml-2026/cards/1901-2000.md#jiao26g-inference) · DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding
+- [给提示生成器同时输入模型配置和资源偏好](../conferences/icml-2026/cards/1901-2000.md#jiao26h-inference) · TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems
+- [每层临时压缩注意力词元再还原](../conferences/icml-2026/cards/1901-2000.md#jo26a-inference) · Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection
 
 <a id="by-computer-vision"></a>
 
@@ -188,6 +194,7 @@
 - [随去噪阶段伸缩高分辨率位置编码](../conferences/icml-2026/cards/1801-1900.md#issachar26a-inference) · DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion
 - [由视频生成器自校正高不确定区域](../conferences/icml-2026/cards/1801-1900.md#jang26d-inference) · Self-Refining Video Sampling
 - [按局部度量预条件扩散引导](../conferences/icml-2026/cards/1801-1900.md#jia26g-inference) · Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance
+- [把去噪器评估挪到估计的目标端点](../conferences/icml-2026/cards/1901-2000.md#jiao26e-inference) · Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach
 
 <a id="by-nlp"></a>
 

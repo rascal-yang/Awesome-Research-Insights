@@ -231,6 +231,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="javaloy26a-optimization"></a>[An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale](../../conferences/icml-2026/cards/1801-1900.md#paper-javaloy26a)
 - <a id="jiachen26a-optimization"></a>[SC-FAGC: Size Constrained Fast Anchor Graph Clustering](../../conferences/icml-2026/cards/1901-2000.md#paper-jiachen26a)
 - <a id="jiang26w-optimization"></a>[Private Learning with Public Feature Conditioning](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26w)
+- <a id="jing26c-optimization"></a>[Local Constrained Bayesian Optimization](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26c)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -350,6 +351,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="hu26i-representation-learning"></a>[InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26i)
 - <a id="hu26az-representation-learning"></a>[Parameter Manifold Purification](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26az)
 - <a id="jiang26ao-representation-learning"></a>[Transformed Latent Variable Multi-Output Gaussian Processes](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ao)
+- <a id="jin26n-representation-learning"></a>[Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26n)
 
 <a id="by-evaluation"></a>
 
@@ -599,4 +601,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ji26f-theory-statistics"></a>[Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26f)
 - <a id="jiang26at-theory-statistics"></a>[Spatial Conformal Inference through Localized Quantile Regression](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26at)
 - <a id="jiang26ax-theory-statistics"></a>[Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ax)
+- <a id="jiao26d-theory-statistics"></a>[Approximation Bounds for Transformer Networks with Application to Regression](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26d)
+- <a id="johari26a-theory-statistics"></a>[Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator](../../conferences/icml-2026/cards/1901-2000.md#paper-johari26a)
 <!-- classification:end -->

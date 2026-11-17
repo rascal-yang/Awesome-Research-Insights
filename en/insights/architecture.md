@@ -36,6 +36,7 @@ Model-wide design and information flow.
 - [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](../../conferences/icml-2026/cards/1801-1900.md#jaiswal26a-architecture) · 中文
 - [Text Generation as Continuous Latent Dynamics via Reinforcement Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26h-architecture) · 中文
 - [BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency](../../conferences/icml-2026/cards/1901-2000.md#jiang26aw-architecture) · 中文
+- [Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems](../../conferences/icml-2026/cards/1901-2000.md#jin26c-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -64,6 +65,7 @@ Model-wide design and information flow.
 - [CoD-Lite: Real-Time Diffusion-Based Generative Image Compression](../../conferences/icml-2026/cards/1801-1900.md#jia26i-architecture) · 中文
 - [CRAG: Can 3D Generative Models Help 3D Assembly?](../../conferences/icml-2026/cards/1901-2000.md#jiang26ab-architecture) · 中文
 - [Visual Implicit Autoregressive Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiang26ah-architecture) · 中文
+- [StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation](../../conferences/icml-2026/cards/1901-2000.md#jiang26bb-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -94,6 +96,7 @@ Model-wide design and information flow.
 - [AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving](../../conferences/icml-2026/cards/1701-1800.md#huang26cb-architecture) · 中文
 - [HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control](../../conferences/icml-2026/cards/1801-1900.md#ji26k-architecture) · 中文
 - [DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving](../../conferences/icml-2026/cards/1801-1900.md#jia26f-architecture) · 中文
+- [VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs](../../conferences/icml-2026/cards/1901-2000.md#jiang26bf-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -108,6 +111,7 @@ Model-wide design and information flow.
 - [RVAS: Referring Video Active Exploration and Segmentation](../../conferences/icml-2026/cards/1601-1700.md#hu26q-architecture) · 中文
 - [MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#hu26u-architecture) · 中文
 - [CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · 中文
+- [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../../conferences/icml-2026/cards/1901-2000.md#jin26m-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -154,6 +158,7 @@ Model-wide design and information flow.
 - [Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation](../../conferences/icml-2026/cards/1601-1700.md#hossen26a-architecture) · 中文
 - [Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26ax-architecture) · 中文
 - [GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation](../../conferences/icml-2026/cards/1701-1800.md#huang26cj-architecture) · 中文
+- [Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling](../../conferences/icml-2026/cards/1901-2000.md#jin26d-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -194,4 +199,8 @@ Model-wide design and information flow.
 - [ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network](../../conferences/icml-2026/cards/1901-2000.md#jiang26r-architecture) · 中文
 - [LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography](../../conferences/icml-2026/cards/1901-2000.md#jiang26ae-architecture) · 中文
 - [KineFlow: Kinematic Second-Order Flow Matching for Time-Series Forecasting](../../conferences/icml-2026/cards/1901-2000.md#jiang26au-architecture) · 中文
+- [Robust Signal Enhancement via Fractional Detail Views and Knowledge Guided Multi-view Fusion](../../conferences/icml-2026/cards/1901-2000.md#jin26g-architecture) · 中文
+- [EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design](../../conferences/icml-2026/cards/1901-2000.md#jin26i-architecture) · 中文
+- [Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling](../../conferences/icml-2026/cards/1901-2000.md#jin26p-architecture) · 中文
+- [Scaling-Aware Adapter for Structure-Grounded LLM Reasoning](../../conferences/icml-2026/cards/1901-2000.md#jing26h-architecture) · 中文
 <!-- classification:end -->

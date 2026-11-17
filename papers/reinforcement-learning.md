@@ -99,6 +99,7 @@
 - <a id="hu26bd-reinforcement-learning"></a>[Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion](../conferences/icml-2026/cards/1601-1700.md#paper-hu26bd)
 - <a id="iwaki26a-reinforcement-learning"></a>[Mirror Descent Actor Critic via Bounded Advantage Learning](../conferences/icml-2026/cards/1801-1900.md#paper-iwaki26a)
 - <a id="jiang26u-reinforcement-learning"></a>[Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26u)
+- <a id="jiang26ba-reinforcement-learning"></a>[Budget-Efficient Attacks and Robustness Training for Cooperative MARL](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ba)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>
@@ -137,6 +138,7 @@
 - <a id="bates26a-evaluation"></a>[Beyond Rewards in RL for Cyber Defence](../conferences/icml-2026/cards/0201-0300.md#paper-bates26a)
 - <a id="cherepanov26a-evaluation"></a>[KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](../conferences/icml-2026/cards/0701-0800.md#paper-cherepanov26a)
 - <a id="guo26f-evaluation"></a>[PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](../conferences/icml-2026/cards/1301-1400.md#paper-guo26f)
+- <a id="jing26d-evaluation"></a>[Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../conferences/icml-2026/cards/1901-2000.md#paper-jing26d)
 
 <a id="by-theory-statistics"></a>
 

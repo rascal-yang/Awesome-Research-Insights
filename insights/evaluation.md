@@ -161,6 +161,7 @@
 - [按路由干预诊断 MoE 安全集中性](../conferences/icml-2026/cards/1901-2000.md#jiang26o-evaluation) · Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs
 - [用位移与曲率联合诊断推理轨迹](../conferences/icml-2026/cards/1901-2000.md#jiang26af-evaluation) · Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability
 - [跨轮验证代理的安全目标是否被逐步改写](../conferences/icml-2026/cards/1901-2000.md#jiang26as-evaluation) · AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks
+- [把裁判置信度训练为人类一致性排序](../conferences/icml-2026/cards/1901-2000.md#jin26h-evaluation) · Margin-Adaptive Confidence Ranking for Reliable LLM Judgement
 
 <a id="by-computer-vision"></a>
 
@@ -213,6 +214,7 @@
 - [防御强化学习奖励](../conferences/icml-2026/cards/0201-0300.md#bates26a-evaluation) · Beyond Rewards in RL for Cyber Defence
 - [像素策略的单因素泛化评测](../conferences/icml-2026/cards/0701-0800.md#cherepanov26a-evaluation) · KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning
 - [强化学习后门的逐步不确定性监测](../conferences/icml-2026/cards/1301-1400.md#guo26f-evaluation) · PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent
+- [持续记录新队友和新布局中的上下文适应](../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork
 
 <a id="by-robotics"></a>
 
@@ -267,6 +269,9 @@
 - [按视频评判熵筛动作渲染](../conferences/icml-2026/cards/1801-1900.md#ji26l-evaluation) · Zero-Shot Text-to-Motion Evaluation using Video Language Models
 - [用逐模态移除辨别融合干扰](../conferences/icml-2026/cards/1801-1900.md#jia26a-evaluation) · VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning
 - [用受控错误轨迹测视觉幻觉累积](../conferences/icml-2026/cards/1901-2000.md#jiang26t-evaluation) · MM-Snowball: Evaluating and Mitigating Hallucination Snowballing in Multimodal Multi-Turn Dialogue
+- [先识别手写公式结构再转录符号](../conferences/icml-2026/cards/1901-2000.md#jiang26bg-evaluation) · Seeing Symbols, Missing Structure: A Real-World Handwritten Mathematical Expression Recognition Benchmark for Large Models
+- [用独立条件拆解长提示文生图的失败](../conferences/icml-2026/cards/1901-2000.md#jiao26b-evaluation) · DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?
+- [先验证棋盘读数再测规则推理](../conferences/icml-2026/cards/1901-2000.md#jin26a-evaluation) · Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay
 
 <a id="by-ml-foundations"></a>
 

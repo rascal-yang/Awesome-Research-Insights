@@ -32,6 +32,7 @@ Reusable components and local changes to model inputs or connections.
 - [Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning](../../conferences/icml-2026/cards/1601-1700.md#huang26m-modules) · 中文
 - [Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition](../../conferences/icml-2026/cards/1701-1800.md#huang26q-modules) · 中文
 - [Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM](../../conferences/icml-2026/cards/1801-1900.md#ji26i-modules) · 中文
+- [DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training](../../conferences/icml-2026/cards/1901-2000.md#jin26f-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -71,6 +72,7 @@ Reusable components and local changes to model inputs or connections.
 - [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](../../conferences/icml-2026/cards/1101-1200.md#fu26x-modules) · 中文
 - [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../../conferences/icml-2026/cards/1401-1500.md#gyenes26a-modules) · 中文
 - [RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](../../conferences/icml-2026/cards/1801-1900.md#jang26c-modules) · 中文
+- [Mixture of Horizons in Action Chunking](../../conferences/icml-2026/cards/1901-2000.md#jing26f-modules) · 中文
 - <a id="instruction-prefixes-for-causal-visual-grounding"></a><a id="multimodal-token-layout"></a>[ReconVLA](../../papers/reconvla.md#reconvla-modules) · 中文
 
 <a id="by-multimodal"></a>

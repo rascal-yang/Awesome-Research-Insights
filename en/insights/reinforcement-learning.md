@@ -170,6 +170,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion](../../conferences/icml-2026/cards/1601-1700.md#hu26bd-reinforcement-learning) · 中文
 - [Mirror Descent Actor Critic via Bounded Advantage Learning](../../conferences/icml-2026/cards/1801-1900.md#iwaki26a-reinforcement-learning) · 中文
 - [Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design](../../conferences/icml-2026/cards/1901-2000.md#jiang26u-reinforcement-learning) · 中文
+- [Budget-Efficient Attacks and Robustness Training for Cooperative MARL](../../conferences/icml-2026/cards/1901-2000.md#jiang26ba-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>

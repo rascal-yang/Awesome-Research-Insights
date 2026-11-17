@@ -161,6 +161,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs](../../conferences/icml-2026/cards/1901-2000.md#jiang26o-evaluation) · 中文
 - [Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability](../../conferences/icml-2026/cards/1901-2000.md#jiang26af-evaluation) · 中文
 - [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](../../conferences/icml-2026/cards/1901-2000.md#jiang26as-evaluation) · 中文
+- [Margin-Adaptive Confidence Ranking for Reliable LLM Judgement](../../conferences/icml-2026/cards/1901-2000.md#jin26h-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -213,6 +214,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Beyond Rewards in RL for Cyber Defence](../../conferences/icml-2026/cards/0201-0300.md#bates26a-evaluation) · 中文
 - [KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](../../conferences/icml-2026/cards/0701-0800.md#cherepanov26a-evaluation) · 中文
 - [PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](../../conferences/icml-2026/cards/1301-1400.md#guo26f-evaluation) · 中文
+- [Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -267,6 +269,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Zero-Shot Text-to-Motion Evaluation using Video Language Models](../../conferences/icml-2026/cards/1801-1900.md#ji26l-evaluation) · 中文
 - [VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26a-evaluation) · 中文
 - [MM-Snowball: Evaluating and Mitigating Hallucination Snowballing in Multimodal Multi-Turn Dialogue](../../conferences/icml-2026/cards/1901-2000.md#jiang26t-evaluation) · 中文
+- [Seeing Symbols, Missing Structure: A Real-World Handwritten Mathematical Expression Recognition Benchmark for Large Models](../../conferences/icml-2026/cards/1901-2000.md#jiang26bg-evaluation) · 中文
+- [DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?](../../conferences/icml-2026/cards/1901-2000.md#jiao26b-evaluation) · 中文
+- [Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay](../../conferences/icml-2026/cards/1901-2000.md#jin26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

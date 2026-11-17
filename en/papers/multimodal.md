@@ -22,6 +22,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hu26q-architecture"></a>[RVAS: Referring Video Active Exploration and Segmentation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26q)
 - <a id="hu26u-architecture"></a>[MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26u)
 - <a id="huang26be-architecture"></a>[CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26be)
+- <a id="jin26m-architecture"></a>[SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26m)
 
 <a id="by-modules"></a>
 
@@ -240,6 +241,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ji26l-evaluation"></a>[Zero-Shot Text-to-Motion Evaluation using Video Language Models](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26l)
 - <a id="jia26a-evaluation"></a>[VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26a)
 - <a id="jiang26t-evaluation"></a>[MM-Snowball: Evaluating and Mitigating Hallucination Snowballing in Multimodal Multi-Turn Dialogue](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26t)
+- <a id="jiang26bg-evaluation"></a>[Seeing Symbols, Missing Structure: A Real-World Handwritten Mathematical Expression Recognition Benchmark for Large Models](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bg)
+- <a id="jiao26b-evaluation"></a>[DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26b)
+- <a id="jin26a-evaluation"></a>[Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26a)
 
 <a id="by-theory-statistics"></a>
 

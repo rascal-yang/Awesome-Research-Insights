@@ -47,6 +47,7 @@
 - [未知类分布下用关系共识与固定几何锚定位](../conferences/icml-2026/cards/1601-1700.md#hou26e-representation-learning) · Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning
 - [按标签几何为视觉原型分配容量](../conferences/icml-2026/cards/1601-1700.md#hu26z-representation-learning) · AURA: Visually Interpretable Affective Understanding via Robust Archetypes
 - [用跨帧语义变化为潜动作建立共同坐标](../conferences/icml-2026/cards/1901-2000.md#jiang26m-representation-learning) · Olaf-World: Orienting Latent Actions for Video World Modeling
+- [用局部距离约束组织对象身份和位置](../conferences/icml-2026/cards/1901-2000.md#jin26b-representation-learning) · WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views
 
 <a id="by-nlp"></a>
 
@@ -120,6 +121,7 @@
 - [把每数据集的互信息优化摊到预训练](../conferences/icml-2026/cards/1601-1700.md#hu26i-representation-learning) · InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate
 - [在参数局部流形去除污染](../conferences/icml-2026/cards/1601-1700.md#hu26az-representation-learning) · Parameter Manifold Purification
 - [把输出身份嵌入标量高斯过程核](../conferences/icml-2026/cards/1901-2000.md#jiang26ao-representation-learning) · Transformed Latent Variable Multi-Output Gaussian Processes
+- [主动干预视图缺失模式检验聚类](../conferences/icml-2026/cards/1901-2000.md#jin26n-representation-learning) · Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -171,4 +173,5 @@
 - [用进化替换相关性构造小数据蛋白核](../conferences/icml-2026/cards/1801-1900.md#jankowiak26a-representation-learning) · Flexible Kernels for Protein Property Prediction
 - [让 EEG 专家按样本贡献表征](../conferences/icml-2026/cards/1801-1900.md#jia26d-representation-learning) · EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models
 - [把稀疏扰动响应与稳态基因表达分块](../conferences/icml-2026/cards/1901-2000.md#jiang26ad-representation-learning) · What Makes a Representation Good for Single-Cell Perturbation Prediction?
+- [用可快速调制的潜码适配保结构动力学](../conferences/icml-2026/cards/1901-2000.md#jing26e-representation-learning) · Meta-learning Structure-Preserving Dynamics
 <!-- classification:end -->

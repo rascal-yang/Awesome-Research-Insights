@@ -48,6 +48,10 @@
 - <a id="jiang26r-architecture"></a>[ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26r)
 - <a id="jiang26ae-architecture"></a>[LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ae)
 - <a id="jiang26au-architecture"></a>[KineFlow: Kinematic Second-Order Flow Matching for Time-Series Forecasting](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26au)
+- <a id="jin26g-architecture"></a>[Robust Signal Enhancement via Fractional Detail Views and Knowledge Guided Multi-view Fusion](../conferences/icml-2026/cards/1901-2000.md#paper-jin26g)
+- <a id="jin26i-architecture"></a>[EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design](../conferences/icml-2026/cards/1901-2000.md#paper-jin26i)
+- <a id="jin26p-architecture"></a>[Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling](../conferences/icml-2026/cards/1901-2000.md#paper-jin26p)
+- <a id="jing26h-architecture"></a>[Scaling-Aware Adapter for Structure-Grounded LLM Reasoning](../conferences/icml-2026/cards/1901-2000.md#paper-jing26h)
 
 <a id="by-modules"></a>
 
@@ -79,6 +83,7 @@
 - <a id="huh26a-loss-functions"></a>[Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality](../conferences/icml-2026/cards/1701-1800.md#paper-huh26a)
 - <a id="hwang26j-loss-functions"></a>[Signature-Informed Transformer for Asset Allocation](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26j)
 - <a id="jia26j-loss-functions"></a>[Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](../conferences/icml-2026/cards/1801-1900.md#paper-jia26j)
+- <a id="jin26k-loss-functions"></a>[From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale](../conferences/icml-2026/cards/1901-2000.md#paper-jin26k)
 
 <a id="by-optimization"></a>
 
@@ -99,6 +104,7 @@
 - <a id="hu26av-optimization"></a>[Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling](../conferences/icml-2026/cards/1601-1700.md#paper-hu26av)
 - <a id="jeon26a-optimization"></a>[Decision-focused Sparse Tangent Portfolio Optimization](../conferences/icml-2026/cards/1801-1900.md#paper-jeon26a)
 - <a id="jeon26d-optimization"></a>[Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](../conferences/icml-2026/cards/1801-1900.md#paper-jeon26d)
+- <a id="jing26a-optimization"></a>[SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](../conferences/icml-2026/cards/1901-2000.md#paper-jing26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -136,6 +142,9 @@
 - <a id="han26j-training-strategies"></a>[Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](../conferences/icml-2026/cards/1401-1500.md#paper-han26j)
 - <a id="hou26f-training-strategies"></a>[MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction](../conferences/icml-2026/cards/1601-1700.md#paper-hou26f)
 - <a id="jayalath26b-training-strategies"></a>[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](../conferences/icml-2026/cards/1801-1900.md#paper-jayalath26b)
+- <a id="jiang26bd-training-strategies"></a>[Ophiuchus: Incentivizing Tool-augmented ”Think with Images” for Joint Medical Segmentation, Understanding and Reasoning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bd)
+- <a id="jin26l-training-strategies"></a>[ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation](../conferences/icml-2026/cards/1901-2000.md#paper-jin26l)
+- <a id="jing26b-training-strategies"></a>[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](../conferences/icml-2026/cards/1901-2000.md#paper-jing26b)
 
 <a id="by-data-strategies"></a>
 
@@ -201,6 +210,7 @@
 - <a id="jankowiak26a-representation-learning"></a>[Flexible Kernels for Protein Property Prediction](../conferences/icml-2026/cards/1801-1900.md#paper-jankowiak26a)
 - <a id="jia26d-representation-learning"></a>[EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](../conferences/icml-2026/cards/1801-1900.md#paper-jia26d)
 - <a id="jiang26ad-representation-learning"></a>[What Makes a Representation Good for Single-Cell Perturbation Prediction?](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ad)
+- <a id="jing26e-representation-learning"></a>[Meta-learning Structure-Preserving Dynamics](../conferences/icml-2026/cards/1901-2000.md#paper-jing26e)
 
 <a id="by-evaluation"></a>
 
@@ -240,4 +250,6 @@
 - <a id="gloeckler26a-theory-statistics"></a>[Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../conferences/icml-2026/cards/1201-1300.md#paper-gloeckler26a)
 - <a id="guan26a-theory-statistics"></a>[A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](../conferences/icml-2026/cards/1301-1400.md#paper-guan26a)
 - <a id="huang26ce-theory-statistics"></a>[Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ce)
+- <a id="jiao26a-theory-statistics"></a>[$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26a)
+- <a id="jiao26c-theory-statistics"></a>[Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26c)
 <!-- classification:end -->

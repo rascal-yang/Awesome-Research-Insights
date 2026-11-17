@@ -65,6 +65,7 @@ Training schedules, curricula, and task or stage composition.
 - [Hyperparameter Transfer with Mixture-of-Experts Layers](../../conferences/icml-2026/cards/1901-2000.md#jiang26a-training-strategies) · 中文
 - [Configurable Reward Model for Balanced Safety Alignment](../../conferences/icml-2026/cards/1901-2000.md#jiang26v-training-strategies) · 中文
 - [Procedural Pretraining: Warming Up Language Models with Abstract Data](../../conferences/icml-2026/cards/1901-2000.md#jiang26ap-training-strategies) · 中文
+- [InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining](../../conferences/icml-2026/cards/1901-2000.md#jing26g-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -211,4 +212,7 @@ Training schedules, curricula, and task or stage composition.
 - [Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](../../conferences/icml-2026/cards/1401-1500.md#han26j-training-strategies) · 中文
 - [MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction](../../conferences/icml-2026/cards/1601-1700.md#hou26f-training-strategies) · 中文
 - [MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](../../conferences/icml-2026/cards/1801-1900.md#jayalath26b-training-strategies) · 中文
+- [Ophiuchus: Incentivizing Tool-augmented ”Think with Images” for Joint Medical Segmentation, Understanding and Reasoning](../../conferences/icml-2026/cards/1901-2000.md#jiang26bd-training-strategies) · 中文
+- [ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation](../../conferences/icml-2026/cards/1901-2000.md#jin26l-training-strategies) · 中文
+- [Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](../../conferences/icml-2026/cards/1901-2000.md#jing26b-training-strategies) · 中文
 <!-- classification:end -->

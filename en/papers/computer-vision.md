@@ -36,6 +36,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="jia26i-architecture"></a>[CoD-Lite: Real-Time Diffusion-Based Generative Image Compression](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26i)
 - <a id="jiang26ab-architecture"></a>[CRAG: Can 3D Generative Models Help 3D Assembly?](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ab)
 - <a id="jiang26ah-architecture"></a>[Visual Implicit Autoregressive Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ah)
+- <a id="jiang26bb-architecture"></a>[StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bb)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -196,6 +197,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="issachar26a-inference"></a>[DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/1801-1900.md#paper-issachar26a)
 - <a id="jang26d-inference"></a>[Self-Refining Video Sampling](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26d)
 - <a id="jia26g-inference"></a>[Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26g)
+- <a id="jiao26e-inference"></a>[Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26e)
 
 <a id="by-representation-learning"></a>
 
@@ -224,6 +226,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hou26e-representation-learning"></a>[Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26e)
 - <a id="hu26z-representation-learning"></a>[AURA: Visually Interpretable Affective Understanding via Robust Archetypes](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26z)
 - <a id="jiang26m-representation-learning"></a>[Olaf-World: Orienting Latent Actions for Video World Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26m)
+- <a id="jin26b-representation-learning"></a>[WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26b)
 
 <a id="by-evaluation"></a>
 

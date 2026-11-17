@@ -36,6 +36,7 @@
 - [把无上下文前馈支路预计算为词表](../conferences/icml-2026/cards/1801-1900.md#jaiswal26a-architecture) · MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers
 - [让离散发词策略读取连续演化状态](../conferences/icml-2026/cards/1801-1900.md#jia26h-architecture) · Text Generation as Continuous Latent Dynamics via Reinforcement Learning
 - [解码前让行为、隐状态和记忆迭代对齐](../conferences/icml-2026/cards/1901-2000.md#jiang26aw-architecture) · BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency
+- [将协作步骤做成可检索的潜通信原语](../conferences/icml-2026/cards/1901-2000.md#jin26c-architecture) · Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems
 
 <a id="by-computer-vision"></a>
 
@@ -64,6 +65,7 @@
 - [给轻量扩散编解码器预训练重建任务](../conferences/icml-2026/cards/1801-1900.md#jia26i-architecture) · CoD-Lite: Real-Time Diffusion-Based Generative Image Compression
 - [用整体生成约束零件配准](../conferences/icml-2026/cards/1901-2000.md#jiang26ab-architecture) · CRAG: Can 3D Generative Models Help 3D Assembly?
 - [用平衡层给不同生成尺度分配步数](../conferences/icml-2026/cards/1901-2000.md#jiang26ah-architecture) · Visual Implicit Autoregressive Modeling
+- [用关节身份锚定状态更新并显式暴露深度](../conferences/icml-2026/cards/1901-2000.md#jiang26bb-architecture) · StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation
 
 <a id="by-nlp"></a>
 
@@ -94,6 +96,7 @@
 - [让高频动作复用低频理解注意力缓存](../conferences/icml-2026/cards/1701-1800.md#huang26cb-architecture) · AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving
 - [按子任务进展触发规划并整理长期记忆](../conferences/icml-2026/cards/1801-1900.md#ji26k-architecture) · HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control
 - [用动作条件潜状态评价驾驶计划](../conferences/icml-2026/cards/1801-1900.md#jia26f-architecture) · DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving
+- [在驾驶仿真中按需补绘车道与交通参与者](../conferences/icml-2026/cards/1901-2000.md#jiang26bf-architecture) · VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs
 
 <a id="by-multimodal"></a>
 
@@ -108,6 +111,7 @@
 - [用轻量状态判断何时重做视频推理](../conferences/icml-2026/cards/1601-1700.md#hu26q-architecture) · RVAS: Referring Video Active Exploration and Segmentation
 - [把语义提示留在视频编码侧](../conferences/icml-2026/cards/1601-1700.md#hu26u-architecture) · MoVie: Multimodal Video Compression with Text Guidance
 - [按文本词元和三维潜块的粒度拆分自回归分支](../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models
+- [把 GUI 历史动作和跨任务经验分层检索](../conferences/icml-2026/cards/1901-2000.md#jin26m-architecture) · SE-GA: Memory-Augmented Self-Evolution for GUI Agents
 
 <a id="by-ml-foundations"></a>
 
@@ -154,6 +158,7 @@
 - [异配图的有符号分层 Haar 滤波](../conferences/icml-2026/cards/1601-1700.md#hossen26a-architecture) · Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation
 - [在保全关系语义的前提下学习表的节点和边角色](../conferences/icml-2026/cards/1701-1800.md#huang26ax-architecture) · Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning
 - [用地理条件和轴向注意力表达出行流竞争](../conferences/icml-2026/cards/1701-1800.md#huang26cj-architecture) · GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation
+- [分开建模用户兴趣与可持续阈值](../conferences/icml-2026/cards/1901-2000.md#jin26d-architecture) · Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling
 
 <a id="by-scientific-ml"></a>
 
@@ -194,4 +199,8 @@
 - [把短期功能动态和长期脑图融合](../conferences/icml-2026/cards/1901-2000.md#jiang26r-architecture) · ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network
 - [在相邻光刻工序的状态变化上学习干预](../conferences/icml-2026/cards/1901-2000.md#jiang26ae-architecture) · LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography
 - [用速度状态隔开时序位置与变化方向](../conferences/icml-2026/cards/1901-2000.md#jiang26au-architecture) · KineFlow: Kinematic Second-Order Flow Matching for Time-Series Forecasting
+- [以 Wiener 可靠性调节宽域和细节时频视图](../conferences/icml-2026/cards/1901-2000.md#jin26g-architecture) · Robust Signal Enhancement via Fractional Detail Views and Knowledge Guided Multi-view Fusion
+- [让分子流的目标分布逐步集中](../conferences/icml-2026/cards/1901-2000.md#jin26i-architecture) · EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design
+- [把晶体张量等变性放到笛卡尔基组装](../conferences/icml-2026/cards/1901-2000.md#jin26p-architecture) · Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling
+- [按全原子结构复杂度分配语言连接词元](../conferences/icml-2026/cards/1901-2000.md#jing26h-architecture) · Scaling-Aware Adapter for Structure-Grounded LLM Reasoning
 <!-- classification:end -->

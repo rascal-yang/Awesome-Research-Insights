@@ -47,6 +47,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](../../conferences/icml-2026/cards/1601-1700.md#hou26e-representation-learning) · 中文
 - [AURA: Visually Interpretable Affective Understanding via Robust Archetypes](../../conferences/icml-2026/cards/1601-1700.md#hu26z-representation-learning) · 中文
 - [Olaf-World: Orienting Latent Actions for Video World Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiang26m-representation-learning) · 中文
+- [WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](../../conferences/icml-2026/cards/1901-2000.md#jin26b-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -120,6 +121,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate](../../conferences/icml-2026/cards/1601-1700.md#hu26i-representation-learning) · 中文
 - [Parameter Manifold Purification](../../conferences/icml-2026/cards/1601-1700.md#hu26az-representation-learning) · 中文
 - [Transformed Latent Variable Multi-Output Gaussian Processes](../../conferences/icml-2026/cards/1901-2000.md#jiang26ao-representation-learning) · 中文
+- [Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1901-2000.md#jin26n-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -171,4 +173,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Flexible Kernels for Protein Property Prediction](../../conferences/icml-2026/cards/1801-1900.md#jankowiak26a-representation-learning) · 中文
 - [EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](../../conferences/icml-2026/cards/1801-1900.md#jia26d-representation-learning) · 中文
 - [What Makes a Representation Good for Single-Cell Perturbation Prediction?](../../conferences/icml-2026/cards/1901-2000.md#jiang26ad-representation-learning) · 中文
+- [Meta-learning Structure-Preserving Dynamics](../../conferences/icml-2026/cards/1901-2000.md#jing26e-representation-learning) · 中文
 <!-- classification:end -->

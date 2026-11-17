@@ -36,6 +36,8 @@ Data selection, annotation, augmentation, and sampling.
 - [How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data](../../conferences/icml-2026/cards/1701-1800.md#huang26bq-data-strategies) · 中文
 - [h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning](../../conferences/icml-2026/cards/1801-1900.md#ivanova26a-data-strategies) · 中文
 - [Contrastive Weak-to-Strong Generalization](../../conferences/icml-2026/cards/1901-2000.md#jiang26j-data-strategies) · 中文
+- [Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis](../../conferences/icml-2026/cards/1901-2000.md#jiao26f-data-strategies) · 中文
+- [Reasoning Quality Emerges Early: Data Curation for Reasoning Models](../../conferences/icml-2026/cards/1901-2000.md#jin26o-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

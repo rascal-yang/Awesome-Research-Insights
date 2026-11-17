@@ -320,6 +320,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles](../../conferences/icml-2026/cards/1801-1900.md#ji26f-theory-statistics) · 中文
 - [Spatial Conformal Inference through Localized Quantile Regression](../../conferences/icml-2026/cards/1901-2000.md#jiang26at-theory-statistics) · 中文
 - [Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings](../../conferences/icml-2026/cards/1901-2000.md#jiang26ax-theory-statistics) · 中文
+- [Approximation Bounds for Transformer Networks with Application to Regression](../../conferences/icml-2026/cards/1901-2000.md#jiao26d-theory-statistics) · 中文
+- [Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator](../../conferences/icml-2026/cards/1901-2000.md#johari26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -353,4 +355,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../conferences/icml-2026/cards/1201-1300.md#gloeckler26a-theory-statistics) · 中文
 - [A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](../../conferences/icml-2026/cards/1301-1400.md#guan26a-theory-statistics) · 中文
 - [Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation](../../conferences/icml-2026/cards/1701-1800.md#huang26ce-theory-statistics) · 中文
+- [$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiao26a-theory-statistics) · 中文
+- [Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · 中文
 <!-- classification:end -->

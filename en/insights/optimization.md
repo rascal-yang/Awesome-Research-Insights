@@ -49,6 +49,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution](../../conferences/icml-2026/cards/1901-2000.md#jiang26g-optimization) · 中文
 - [Distributed Direct Preference Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26h-optimization) · 中文
 - [Enhancing LLM Training via Spectral Clipping](../../conferences/icml-2026/cards/1901-2000.md#jiang26am-optimization) · 中文
+- [EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26az-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -230,6 +231,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale](../../conferences/icml-2026/cards/1801-1900.md#javaloy26a-optimization) · 中文
 - [SC-FAGC: Size Constrained Fast Anchor Graph Clustering](../../conferences/icml-2026/cards/1901-2000.md#jiachen26a-optimization) · 中文
 - [Private Learning with Public Feature Conditioning](../../conferences/icml-2026/cards/1901-2000.md#jiang26w-optimization) · 中文
+- [Local Constrained Bayesian Optimization](../../conferences/icml-2026/cards/1901-2000.md#jing26c-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -246,6 +248,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Towards Generative Graph Matching for Graph Edit Distance Computation](../../conferences/icml-2026/cards/1701-1800.md#huang26bi-optimization) · 中文
 - [Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization](../../conferences/icml-2026/cards/1701-1800.md#huang26bz-optimization) · 中文
 - [Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](../../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · 中文
+- [An Approximation Algorithm for Graph Label Selection](../../conferences/icml-2026/cards/1901-2000.md#john26a-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -266,4 +269,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling](../../conferences/icml-2026/cards/1601-1700.md#hu26av-optimization) · 中文
 - [Decision-focused Sparse Tangent Portfolio Optimization](../../conferences/icml-2026/cards/1801-1900.md#jeon26a-optimization) · 中文
 - [Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](../../conferences/icml-2026/cards/1801-1900.md#jeon26d-optimization) · 中文
+- [SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](../../conferences/icml-2026/cards/1901-2000.md#jing26a-optimization) · 中文
 <!-- classification:end -->

@@ -22,6 +22,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="huang26cb-architecture"></a>[AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cb)
 - <a id="ji26k-architecture"></a>[HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26k)
 - <a id="jia26f-architecture"></a>[DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26f)
+- <a id="jiang26bf-architecture"></a>[VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bf)
 
 <a id="by-modules"></a>
 
@@ -31,6 +32,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26x)
 - <a id="gyenes26a-modules"></a>[Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../../conferences/icml-2026/cards/1401-1500.md#paper-gyenes26a)
 - <a id="jang26c-modules"></a>[RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26c)
+- <a id="jing26f-modules"></a>[Mixture of Horizons in Action Chunking](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26f)
 
 <a id="by-loss-functions"></a><a id="vision-language-action-models"></a>
 

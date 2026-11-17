@@ -27,6 +27,8 @@
 - [分别约束同层分工与跨层专家路径](../conferences/icml-2026/cards/1601-1700.md#hu26d-loss-functions) · Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization
 - [以局部方向一致性约束隐状态轨迹](../conferences/icml-2026/cards/1701-1800.md#huang26s-loss-functions) · Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA
 - [偏好对的总概率约束](../conferences/icml-2026/cards/1801-1900.md#im26a-loss-functions) · Normalized Rewards for Preference Optimization
+- [让教师词元熵决定何时补正向 KL](../conferences/icml-2026/cards/1901-2000.md#jin26e-loss-functions) · Entropy-Aware On-Policy Distillation of Language Models
+- [按解码方向筛选跨样本冗余激活](../conferences/icml-2026/cards/1901-2000.md#jin26j-loss-functions) · C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders
 
 <a id="by-computer-vision"></a>
 
@@ -136,4 +138,5 @@
 - [用对抗正交隔开坐标变化与动力学修正](../conferences/icml-2026/cards/1701-1800.md#huh26a-loss-functions) · Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality
 - [将路径结构和尾部风险直接接进配置策略](../conferences/icml-2026/cards/1701-1800.md#hwang26j-loss-functions) · Signature-Informed Transformer for Asset Allocation
 - [把物理残差监督送到扩散中间层](../conferences/icml-2026/cards/1801-1900.md#jia26j-loss-functions) · Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment
+- [用有序峰集合替代昂贵的原子指派](../conferences/icml-2026/cards/1901-2000.md#jin26k-loss-functions) · From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale
 <!-- classification:end -->

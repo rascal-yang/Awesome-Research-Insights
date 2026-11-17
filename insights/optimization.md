@@ -49,6 +49,7 @@
 - [把程序搜索历史压缩为可复用的语义差量](../conferences/icml-2026/cards/1901-2000.md#jiang26g-optimization) · DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution
 - [把偏好异质性与通信混合拆进 DPO 收敛](../conferences/icml-2026/cards/1901-2000.md#jiang26h-optimization) · Distributed Direct Preference Optimization
 - [分别对梯度和更新施加软谱裁剪](../conferences/icml-2026/cards/1901-2000.md#jiang26am-optimization) · Enhancing LLM Training via Spectral Clipping
+- [用历次合并成败学习下一组权重](../conferences/icml-2026/cards/1901-2000.md#jiang26az-optimization) · EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -230,6 +231,7 @@
 - [用近流形回缩包装自适应优化器](../conferences/icml-2026/cards/1801-1900.md#javaloy26a-optimization) · An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale
 - [在锚图传输子问题中约束簇大小](../conferences/icml-2026/cards/1901-2000.md#jiachen26a-optimization) · SC-FAGC: Size Constrained Fast Anchor Graph Clustering
 - [用公开特征谱重参数化隐私回归](../conferences/icml-2026/cards/1901-2000.md#jiang26w-optimization) · Private Learning with Public Feature Conditioning
+- [在局部代理下降之间插入约束探索](../conferences/icml-2026/cards/1901-2000.md#jing26c-optimization) · Local Constrained Bayesian Optimization
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -246,6 +248,7 @@
 - [用扩散采样生成多样图编辑候选](../conferences/icml-2026/cards/1701-1800.md#huang26bi-optimization) · Towards Generative Graph Matching for Graph Edit Distance Computation
 - [用传输控制穿越组合松弛能量面](../conferences/icml-2026/cards/1701-1800.md#huang26bz-optimization) · Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization
 - [用扩散轨迹不稳定性寻找集合覆盖修复区](../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion
+- [用树流动态规划分配定额标签预算](../conferences/icml-2026/cards/1901-2000.md#john26a-optimization) · An Approximation Algorithm for Graph Label Selection
 
 <a id="by-scientific-ml"></a>
 
@@ -266,4 +269,5 @@
 - [分开探索候选谱系和编辑规则](../conferences/icml-2026/cards/1601-1700.md#hu26av-optimization) · Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling
 - [让资产筛选与 Sharpe 目标贯通梯度](../conferences/icml-2026/cards/1801-1900.md#jeon26a-optimization) · Decision-focused Sparse Tangent Portfolio Optimization
 - [用廉价法向回拉代替逐步求可行投影](../conferences/icml-2026/cards/1801-1900.md#jeon26d-optimization) · Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing
+- [把状态切换写成可组合的结构约束](../conferences/icml-2026/cards/1901-2000.md#jing26a-optimization) · SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins
 <!-- classification:end -->
