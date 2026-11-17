@@ -16,7 +16,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](https://proceedings.mlr.press/v306/bandyopadhyay26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bandyopadhyay26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) |
-| [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26al-architecture) |
+| [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26al) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26al-architecture) |
 | [Adaptive Memory Retention in Dynamic Graphs](https://proceedings.mlr.press/v306/de-castelli26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#de-castelli26a-architecture) |
 | [Graph Neural Dynamics via Learned Energy and Tangential Flows](https://proceedings.mlr.press/v306/eliasof26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#eliasof26a-architecture) |
 | [MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/fang26g.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fang26g-architecture) |
@@ -57,7 +57,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://proceedings.mlr.press/v306/bai26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26g) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bai26g-optimization) |
 | [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chakraborty26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) |
-| [Differentially Private Range Subgraph Counting](https://proceedings.mlr.press/v306/chen26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26b-optimization) |
+| [Differentially Private Range Subgraph Counting](https://proceedings.mlr.press/v306/chen26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26b-optimization) |
 | [What Makes a Desired Graph for Relational Deep Learning?](https://proceedings.mlr.press/v306/cheng26j.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cheng26j-optimization) |
 | [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](https://proceedings.mlr.press/v306/gupta26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gupta26b-optimization) |
 
@@ -114,7 +114,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](https://proceedings.mlr.press/v306/behmanesh26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-behmanesh26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) |
 | [CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26f) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cai26f-representation-learning) |
-| [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) |
+| [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26ak) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) |
 | [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) |
 | [Computationally-efficient Graph Modeling with Refined Graph Random Features](https://proceedings.mlr.press/v306/choromanski26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#choromanski26a-representation-learning) |
 | [Parametrized Power-Iteration Clustering for Directed Graphs](https://proceedings.mlr.press/v306/debaussart-joniec26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) |

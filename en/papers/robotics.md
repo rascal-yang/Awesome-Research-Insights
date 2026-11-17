@@ -75,7 +75,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
+| [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26d) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
 | [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) | [Read insight (中文)](../../papers/robotics.md#chen26fw-training-strategies) |
 | [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) | [Read insight (中文)](../../papers/robotics.md#feng26n-training-strategies) |
 | [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) | [Read insight (中文)](../../papers/robotics.md#guo26i-training-strategies) |
@@ -86,8 +86,8 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) | [Read insight (中文)](../../papers/robotics.md#chen26j-data-strategies) |
-| [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | [Read insight (中文)](../../papers/robotics.md#chen26ab-data-strategies) |
+| [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26j) | [Read insight (中文)](../../papers/robotics.md#chen26j-data-strategies) |
+| [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26ab) | [Read insight (中文)](../../papers/robotics.md#chen26ab-data-strategies) |
 | [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | [Read insight (中文)](../../papers/robotics.md#chen26cy-data-strategies) |
 | [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) | [Read insight (中文)](../../papers/robotics.md#choi26i-data-strategies) |
 | [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) | [Read insight (中文)](../../papers/robotics.md#fan26b-data-strategies) |
@@ -104,7 +104,7 @@ The linked short insights are available in Chinese.
 | [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-balim26a) | [Read insight (中文)](../../papers/robotics.md#balim26a-inference) |
 | [Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-beyer26a) | [Read insight (中文)](../../papers/robotics.md#beyer26a-inference) |
 | [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chai26a) | [Read insight (中文)](../../papers/robotics.md#chai26a-inference) |
-| [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | [Read insight (中文)](../../papers/robotics.md#chen26i-inference) |
+| [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26i) | [Read insight (中文)](../../papers/robotics.md#chen26i-inference) |
 | [Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](https://proceedings.mlr.press/v306/chen26co.html) | [Read insight (中文)](../../papers/robotics.md#chen26co-inference) |
 | [EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning](https://proceedings.mlr.press/v306/chi26b.html) | [Read insight (中文)](../../papers/robotics.md#chi26b-inference) |
 | [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](https://proceedings.mlr.press/v306/choi26a.html) | [Read insight (中文)](../../papers/robotics.md#choi26a-inference) |
