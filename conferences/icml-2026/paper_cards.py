@@ -27,6 +27,7 @@ FIELDS = {
 COLUMNS = ['pmlr_id', *FIELDS, 'evidence']
 CARD_ANCHOR = re.compile(r'^<a id="paper-([\w-]+)"></a>$', re.M)
 SOURCE_LINK = re.compile(r'\[[^\]\n]+\]\(https://[^\s()]+\)')
+EVIDENCE_PAGE_LINK = re.compile(r'\[([^\]\n]+)\]\((https://[^\s()]+#page=(\d+))\)')
 CARD_LINK = re.compile(r' · \[(?:论文卡|Paper card \(中文\))\]\([^\n)]+\)')
 
 
@@ -91,6 +92,17 @@ def relative_link(source, target):
     return posixpath.relpath(target.as_posix(), source.parent.as_posix())
 
 
+def label_evidence_pages(evidence):
+    def label(match):
+        title, url, page = match.groups()
+        suffix = f'（PDF 第 {page} 页）'
+        if title.endswith(suffix):
+            return match[0]
+        return f'[{title}{suffix}]({url})'
+
+    return EVIDENCE_PAGE_LINK.sub(label, evidence)
+
+
 def render_card(path, paper, row, classification):
     key = paper['pmlr_id']
     if key == 'reconvla':
@@ -114,7 +126,7 @@ def render_card(path, paper, row, classification):
         '',
         *labels,
         '',
-        f"**原文定位** · {row['evidence']}",
+        f"**原文定位** · {label_evidence_pages(row['evidence'])}",
     ])
 
 
