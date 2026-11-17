@@ -211,6 +211,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [ASTRA: Communication-Efficient Acceleration for Multi-Device Transformer Inference](../../conferences/icml-2026/cards/2901-3000.md#liu26fx-inference) · 中文
 - [From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26fy-inference) · 中文
 - [RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse](../../conferences/icml-2026/cards/2901-3000.md#liu26ga-inference) · 中文
+- [Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics](../../conferences/icml-2026/cards/2901-3000.md#liu26gp-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -287,6 +288,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26du-inference) · 中文
 - [Sparse Relaxed-Lasso Steering: Automatic Sparse Autoencoder Feature Selection for Precise Image Editing](../../conferences/icml-2026/cards/2901-3000.md#liu26fe-inference) · 中文
 - [Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#liu26fv-inference) · 中文
+- [SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation](../../conferences/icml-2026/cards/2901-3000.md#liu26gh-inference) · 中文
+- [Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference](../../conferences/icml-2026/cards/2901-3000.md#liu26gq-inference) · 中文
 
 <a id="by-nlp"></a>
 

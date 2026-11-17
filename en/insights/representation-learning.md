@@ -129,6 +129,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [From Talking to Singing: A New Challenge for Audio-Visual Deepfake Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26es-representation-learning) · 中文
 - [Calibrated Multimodal Representation Learning with Missing Modalities](../../conferences/icml-2026/cards/2901-3000.md#liu26ex-representation-learning) · 中文
 - [UniRTL: Unifying Code and Graph for Robust RTL Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26fw-representation-learning) · 中文
+- [SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition](../../conferences/icml-2026/cards/2901-3000.md#liu26gr-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -2967,18 +2967,18 @@ number	pmlr_id	title	paper_url	insight_status
 2966	liu26gd	Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution	https://proceedings.mlr.press/v306/liu26gd.html	written
 2967	liu26ge	Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs	https://proceedings.mlr.press/v306/liu26ge.html	written
 2968	liu26gf	Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models	https://proceedings.mlr.press/v306/liu26gf.html	written
-2969	liu26gg	ChaosNexus: A Foundation Model for ODE-based Chaotic System Forecasting with Hierarchical Multi-scale Awareness	https://proceedings.mlr.press/v306/liu26gg.html	pending
-2970	liu26gh	SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation	https://proceedings.mlr.press/v306/liu26gh.html	pending
-2971	liu26gi	Balancing Understanding and Generation in Discrete Diffusion Models	https://proceedings.mlr.press/v306/liu26gi.html	pending
-2972	liu26gj	Adaptive DNA Sequence Modeling via Synergistic Plasticity Units	https://proceedings.mlr.press/v306/liu26gj.html	pending
-2973	liu26gk	MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models	https://proceedings.mlr.press/v306/liu26gk.html	pending
-2974	liu26gl	Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving	https://proceedings.mlr.press/v306/liu26gl.html	pending
-2975	liu26gm	VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing	https://proceedings.mlr.press/v306/liu26gm.html	pending
-2976	liu26gn	Radial Scaling Voxelization for Accurate Small Object 3D Detection	https://proceedings.mlr.press/v306/liu26gn.html	pending
-2977	liu26go	Rethinking Multimodal Time-Series Forecasting Evaluation	https://proceedings.mlr.press/v306/liu26go.html	pending
-2978	liu26gp	Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics	https://proceedings.mlr.press/v306/liu26gp.html	pending
-2979	liu26gq	Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference	https://proceedings.mlr.press/v306/liu26gq.html	pending
-2980	liu26gr	SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition	https://proceedings.mlr.press/v306/liu26gr.html	pending
+2969	liu26gg	ChaosNexus: A Foundation Model for ODE-based Chaotic System Forecasting with Hierarchical Multi-scale Awareness	https://proceedings.mlr.press/v306/liu26gg.html	written
+2970	liu26gh	SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation	https://proceedings.mlr.press/v306/liu26gh.html	written
+2971	liu26gi	Balancing Understanding and Generation in Discrete Diffusion Models	https://proceedings.mlr.press/v306/liu26gi.html	written
+2972	liu26gj	Adaptive DNA Sequence Modeling via Synergistic Plasticity Units	https://proceedings.mlr.press/v306/liu26gj.html	written
+2973	liu26gk	MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models	https://proceedings.mlr.press/v306/liu26gk.html	written
+2974	liu26gl	Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving	https://proceedings.mlr.press/v306/liu26gl.html	written
+2975	liu26gm	VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing	https://proceedings.mlr.press/v306/liu26gm.html	written
+2976	liu26gn	Radial Scaling Voxelization for Accurate Small Object 3D Detection	https://proceedings.mlr.press/v306/liu26gn.html	written
+2977	liu26go	Rethinking Multimodal Time-Series Forecasting Evaluation	https://proceedings.mlr.press/v306/liu26go.html	written
+2978	liu26gp	Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics	https://proceedings.mlr.press/v306/liu26gp.html	written
+2979	liu26gq	Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference	https://proceedings.mlr.press/v306/liu26gq.html	written
+2980	liu26gr	SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition	https://proceedings.mlr.press/v306/liu26gr.html	written
 2981	liu26gs	FastSESR: Fast Scene-level Explicit Surface Reconstruction	https://proceedings.mlr.press/v306/liu26gs.html	pending
 2982	liu26gt	Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation	https://proceedings.mlr.press/v306/liu26gt.html	pending
 2983	loaiza-ganem26a	Conf-Gen: Conformal Uncertainty Quantification for Generative Models	https://proceedings.mlr.press/v306/loaiza-ganem26a.html	pending

@@ -211,6 +211,7 @@ Model-wide design and information flow.
 - [PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](../../conferences/icml-2026/cards/2801-2900.md#liu26dn-architecture) · 中文
 - [LIF Recurrent Memory Enables Long-Horizon Spiking Computation](../../conferences/icml-2026/cards/2801-2900.md#liu26do-architecture) · 中文
 - [TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](../../conferences/icml-2026/cards/2901-3000.md#liu26fm-architecture) · 中文
+- [Balancing Understanding and Generation in Discrete Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gi-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -307,4 +308,6 @@ Model-wide design and information flow.
 - [Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting](../../conferences/icml-2026/cards/2901-3000.md#liu26er-architecture) · 中文
 - [Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis](../../conferences/icml-2026/cards/2901-3000.md#liu26ey-architecture) · 中文
 - [FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots](../../conferences/icml-2026/cards/2901-3000.md#liu26fl-architecture) · 中文
+- [ChaosNexus: A Foundation Model for ODE-based Chaotic System Forecasting with Hierarchical Multi-scale Awareness](../../conferences/icml-2026/cards/2901-3000.md#liu26gg-architecture) · 中文
+- [Adaptive DNA Sequence Modeling via Synergistic Plasticity Units](../../conferences/icml-2026/cards/2901-3000.md#liu26gj-architecture) · 中文
 <!-- classification:end -->

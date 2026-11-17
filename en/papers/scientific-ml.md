@@ -84,6 +84,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26er-architecture"></a>[Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26er)
 - <a id="liu26ey-architecture"></a>[Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ey)
 - <a id="liu26fl-architecture"></a>[FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fl)
+- <a id="liu26gg-architecture"></a>[ChaosNexus: A Foundation Model for ODE-based Chaotic System Forecasting with Hierarchical Multi-scale Awareness](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gg)
+- <a id="liu26gj-architecture"></a>[Adaptive DNA Sequence Modeling via Synergistic Plasticity Units](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gj)
 
 <a id="by-modules"></a>
 

@@ -228,6 +228,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation](../../conferences/icml-2026/cards/2801-2900.md#liu26ct-evaluation) · 中文
 - [Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26dw-evaluation) · 中文
 - [Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26fq-evaluation) · 中文
+- [Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving](../../conferences/icml-2026/cards/2901-3000.md#liu26gl-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -391,6 +392,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DocOS: Towards Proactive Document-Guided Actions in GUI Agents](../../conferences/icml-2026/cards/2801-2900.md#liu26be-evaluation) · 中文
 - [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](../../conferences/icml-2026/cards/2801-2900.md#liu26cr-evaluation) · 中文
 - [Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26dv-evaluation) · 中文
+- [MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gk-evaluation) · 中文
+- [Rethinking Multimodal Time-Series Forecasting Evaluation](../../conferences/icml-2026/cards/2901-3000.md#liu26go-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

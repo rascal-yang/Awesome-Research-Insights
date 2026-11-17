@@ -129,6 +129,7 @@
 - [说话到歌唱的伪造检测](../conferences/icml-2026/cards/2901-3000.md#liu26es-representation-learning) · From Talking to Singing: A New Challenge for Audio-Visual Deepfake Detection
 - [缺失模态锚点校准](../conferences/icml-2026/cards/2901-3000.md#liu26ex-representation-learning) · Calibrated Multimodal Representation Learning with Missing Modalities
 - [用相互遮掩对齐电路代码与控制数据流图](../conferences/icml-2026/cards/2901-3000.md#liu26fw-representation-learning) · UniRTL: Unifying Code and Graph for Robust RTL Representation Learning
+- [用双曲骨架与语言表示配合多粒度缓存投票](../conferences/icml-2026/cards/2901-3000.md#liu26gr-representation-learning) · SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition
 
 <a id="by-ml-foundations"></a>
 

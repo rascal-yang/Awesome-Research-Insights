@@ -211,6 +211,7 @@
 - [以全精度本地注意力配合低比特跨设备通信](../conferences/icml-2026/cards/2901-3000.md#liu26fx-inference) · ASTRA: Communication-Efficient Acceleration for Multi-Device Transformer Inference
 - [将检索查询翻译成受图约束的双向证据线索](../conferences/icml-2026/cards/2901-3000.md#liu26fy-inference) · From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation
 - [用临时安全适配器复用推理上下文缓存](../conferences/icml-2026/cards/2901-3000.md#liu26ga-inference) · RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse
+- [通过 MCP 让通用编码代理迭代验证形式数学](../conferences/icml-2026/cards/2901-3000.md#liu26gp-inference) · Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics
 
 <a id="by-computer-vision"></a>
 
@@ -287,6 +288,8 @@
 - [降低注意力熵以缓解图生视频的参考图主导](../conferences/icml-2026/cards/2901-3000.md#liu26du-inference) · AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation
 - [稀疏特征图像属性编辑](../conferences/icml-2026/cards/2901-3000.md#liu26fe-inference) · Sparse Relaxed-Lasso Steering: Automatic Sparse Autoencoder Feature Selection for Precise Image Editing
 - [按去噪时间补偿低精度扩散的累积误差](../conferences/icml-2026/cards/2901-3000.md#liu26fv-inference) · Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models
+- [测试时用单样本结构与可靠子空间替代单一熵选择](../conferences/icml-2026/cards/2901-3000.md#liu26gh-inference) · SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation
+- [在边云切分时查找由特征到决策的表示转折](../conferences/icml-2026/cards/2901-3000.md#liu26gq-inference) · Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference
 
 <a id="by-nlp"></a>
 

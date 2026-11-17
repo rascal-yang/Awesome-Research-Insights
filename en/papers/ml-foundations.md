@@ -51,6 +51,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="liu26dn-architecture"></a>[PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dn)
 - <a id="liu26do-architecture"></a>[LIF Recurrent Memory Enables Long-Horizon Spiking Computation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26do)
 - <a id="liu26fm-architecture"></a>[TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fm)
+- <a id="liu26gi-architecture"></a>[Balancing Understanding and Generation in Discrete Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gi)
 
 <a id="by-modules"></a>
 

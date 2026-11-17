@@ -78,6 +78,7 @@
 - [用可变形采样找回错位的多视图渲染线索](../conferences/icml-2026/cards/2701-2800.md#lim26c-modules) · GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting
 - [异构车路感知的逐像素对齐](../conferences/icml-2026/cards/2701-2800.md#lin26y-modules) · X-MoGe: A Cross-Modal Adaptation Framework with Mixture-of-Experts and Geometry Guidance for Heterogeneous Collaborative Perception
 - [用相机位姿引导时空深度特征匹配](../conferences/icml-2026/cards/2801-2900.md#liu26v-modules) · GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth
+- [体素化前径向缩放保留近处小目标细节](../conferences/icml-2026/cards/2901-3000.md#liu26gn-modules) · Radial Scaling Voxelization for Accurate Small Object 3D Detection
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

@@ -132,6 +132,7 @@
 - <a id="liu26ej-reinforcement-learning"></a>[VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ej)
 - <a id="liu26fa-reinforcement-learning"></a>[Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fa)
 - <a id="liu26ff-reinforcement-learning"></a>[Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ff)
+- <a id="liu26gm-reinforcement-learning"></a>[VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gm)
 
 <a id="by-training-strategies"></a>
 
@@ -297,6 +298,7 @@
 - <a id="liu26es-representation-learning"></a>[From Talking to Singing: A New Challenge for Audio-Visual Deepfake Detection](../conferences/icml-2026/cards/2901-3000.md#paper-liu26es)
 - <a id="liu26ex-representation-learning"></a>[Calibrated Multimodal Representation Learning with Missing Modalities](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ex)
 - <a id="liu26fw-representation-learning"></a>[UniRTL: Unifying Code and Graph for Robust RTL Representation Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fw)
+- <a id="liu26gr-representation-learning"></a>[SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gr)
 
 <a id="by-evaluation"></a>
 
@@ -364,6 +366,8 @@
 - <a id="liu26be-evaluation"></a>[DocOS: Towards Proactive Document-Guided Actions in GUI Agents](../conferences/icml-2026/cards/2801-2900.md#paper-liu26be)
 - <a id="liu26cr-evaluation"></a>[Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cr)
 - <a id="liu26dv-evaluation"></a>[Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dv)
+- <a id="liu26gk-evaluation"></a>[MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gk)
+- <a id="liu26go-evaluation"></a>[Rethinking Multimodal Time-Series Forecasting Evaluation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26go)
 
 <a id="by-theory-statistics"></a>
 

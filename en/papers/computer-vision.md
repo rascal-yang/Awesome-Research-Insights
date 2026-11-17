@@ -90,6 +90,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lim26c-modules"></a>[GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting](../../conferences/icml-2026/cards/2701-2800.md#paper-lim26c)
 - <a id="lin26y-modules"></a>[X-MoGe: A Cross-Modal Adaptation Framework with Mixture-of-Experts and Geometry Guidance for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26y)
 - <a id="liu26v-modules"></a>[GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26v)
+- <a id="liu26gn-modules"></a>[Radial Scaling Voxelization for Accurate Small Object 3D Detection](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gn)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -296,6 +297,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="liu26du-inference"></a>[AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26du)
 - <a id="liu26fe-inference"></a>[Sparse Relaxed-Lasso Steering: Automatic Sparse Autoencoder Feature Selection for Precise Image Editing](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fe)
 - <a id="liu26fv-inference"></a>[Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fv)
+- <a id="liu26gh-inference"></a>[SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gh)
+- <a id="liu26gq-inference"></a>[Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gq)
 
 <a id="by-representation-learning"></a>
 

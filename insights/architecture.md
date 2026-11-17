@@ -211,6 +211,7 @@
 - [先拆分时序成分再生成未来的动态相位](../conferences/icml-2026/cards/2801-2900.md#liu26dn-architecture) · PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting
 - [用少量普通 LIF 反馈回路提供长期记忆](../conferences/icml-2026/cards/2801-2900.md#liu26do-architecture) · LIF Recurrent Memory Enables Long-Horizon Spiking Computation
 - [用行注意力与全局寄存器支持表格逐样本退出](../conferences/icml-2026/cards/2901-3000.md#liu26fm-architecture) · TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention
+- [用可调平稳噪声核统一掩码与均匀扩散](../conferences/icml-2026/cards/2901-3000.md#liu26gi-architecture) · Balancing Understanding and Generation in Discrete Diffusion Models
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -307,4 +308,6 @@
 - [非平稳交通时空预测](../conferences/icml-2026/cards/2901-3000.md#liu26er-architecture) · Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting
 - [心电到毫米波雷达合成](../conferences/icml-2026/cards/2901-3000.md#liu26ey-architecture) · Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis
 - [由所有非配对点云快照共同初始化连续轨迹](../conferences/icml-2026/cards/2901-3000.md#liu26fl-architecture) · FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots
+- [用多尺度切片和频谱指纹预测陌生混沌系统](../conferences/icml-2026/cards/2901-3000.md#liu26gg-architecture) · ChaosNexus: A Foundation Model for ODE-based Chaotic System Forecasting with Hierarchical Multi-scale Awareness
+- [将序列局部模体、频域模式与显著度分开适配](../conferences/icml-2026/cards/2901-3000.md#liu26gj-architecture) · Adaptive DNA Sequence Modeling via Synergistic Plasticity Units
 <!-- classification:end -->

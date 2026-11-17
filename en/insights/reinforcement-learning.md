@@ -298,6 +298,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos](../../conferences/icml-2026/cards/2901-3000.md#liu26ej-reinforcement-learning) · 中文
 - [Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26fa-reinforcement-learning) · 中文
 - [Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26ff-reinforcement-learning) · 中文
+- [VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing](../../conferences/icml-2026/cards/2901-3000.md#liu26gm-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

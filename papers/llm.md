@@ -629,6 +629,7 @@
 - <a id="liu26fx-inference"></a>[ASTRA: Communication-Efficient Acceleration for Multi-Device Transformer Inference](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fx)
 - <a id="liu26fy-inference"></a>[From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fy)
 - <a id="liu26ga-inference"></a>[RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ga)
+- <a id="liu26gp-inference"></a>[Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gp)
 
 <a id="by-representation-learning"></a>
 
@@ -861,6 +862,7 @@
 - <a id="liu26ct-evaluation"></a>[TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ct)
 - <a id="liu26dw-evaluation"></a>[Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dw)
 - <a id="liu26fq-evaluation"></a>[Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fq)
+- <a id="liu26gl-evaluation"></a>[Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gl)
 
 <a id="by-theory-statistics"></a>
 

@@ -228,6 +228,7 @@
 - [基于修复前后测试的主动缺陷发现](../conferences/icml-2026/cards/2801-2900.md#liu26ct-evaluation) · TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation
 - [用协议状态假设驱动多代理发现一致性缺陷](../conferences/icml-2026/cards/2901-3000.md#liu26dw-evaluation) · Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents
 - [用证据清单评测无预设查询的数据探索](../conferences/icml-2026/cards/2901-3000.md#liu26fq-evaluation) · Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models
+- [将未知答案设为 Lean 元变量并附证明义务](../conferences/icml-2026/cards/2901-3000.md#liu26gl-evaluation) · Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving
 
 <a id="by-computer-vision"></a>
 
@@ -391,6 +392,8 @@
 - [文档搜索到桌面执行的分段评估](../conferences/icml-2026/cards/2801-2900.md#liu26be-evaluation) · DocOS: Towards Proactive Document-Guided Actions in GUI Agents
 - [用动态交互验证 GUI 智能体的人机差距](../conferences/icml-2026/cards/2801-2900.md#liu26cr-evaluation) · Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense
 - [用统一和拆开两种轨道诊断图文理解与生成协同](../conferences/icml-2026/cards/2901-3000.md#liu26dv-evaluation) · Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation
+- [用分布约束和程序校验持续更新视觉评测](../conferences/icml-2026/cards/2901-3000.md#liu26gk-evaluation) · MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models
+- [用事发时间与知识截止点检查时序预测泄露](../conferences/icml-2026/cards/2901-3000.md#liu26go-evaluation) · Rethinking Multimodal Time-Series Forecasting Evaluation
 
 <a id="by-ml-foundations"></a>
 

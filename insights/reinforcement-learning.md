@@ -298,6 +298,7 @@
 - [长视频证据定位的按需工具训练](../conferences/icml-2026/cards/2901-3000.md#liu26ej-reinforcement-learning) · VideoTemp-o3: Harmonizing Temporal Grounding and Video Understanding in Agentic Thinking-with-Videos
 - [工具验证的视觉推理自演化](../conferences/icml-2026/cards/2901-3000.md#liu26fa-reinforcement-learning) · Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning
 - [跨层自监督幻觉抑制](../conferences/icml-2026/cards/2901-3000.md#liu26ff-reinforcement-learning) · Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models
+- [用组间比较奖励区分整体质量不同的 Vlog 编辑](../conferences/icml-2026/cards/2901-3000.md#liu26gm-reinforcement-learning) · VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing
 
 <a id="by-ml-foundations"></a>
 
