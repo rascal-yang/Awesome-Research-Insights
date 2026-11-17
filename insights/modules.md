@@ -104,6 +104,7 @@
 - [语义簇软路由分类器残差](../conferences/icml-2026/cards/4601-4700.md#wang26bg-modules) · Granularity-Aware Adaptive Classifier Expansion via Zero-Shot Learning
 - [异质感受野乘法与深层稳定化](../conferences/icml-2026/cards/4601-4700.md#wang26bj-modules) · Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models
 - [局部单纯形几何提示](../conferences/icml-2026/cards/4601-4700.md#wang26br-modules) · TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding
+- [双层事件微动态解耦](../conferences/icml-2026/cards/4601-4700.md#wang26cx-modules) · EvReflection: Event-Driven Micro-Dynamics for Reflection Removal
 
 <a id="by-nlp"></a>
 
@@ -217,6 +218,7 @@
 - [硬稀疏可微真值表](../conferences/icml-2026/cards/4101-4200.md#soegeng26a-modules) · TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables
 - [gaussian-associative-memory](../conferences/icml-2026/cards/4401-4500.md#tankala26a-modules) · Dense associative memory for Gaussian distributions
 - [group-shared-sparse-output](../conferences/icml-2026/cards/4501-4600.md#ullah26b-modules) · HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces
+- [先去趋势匹配再压缩变量协同](../conferences/icml-2026/cards/4601-4700.md#wang26cs-modules) · PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting
 
 <a id="by-graph-and-recommendation"></a>
 

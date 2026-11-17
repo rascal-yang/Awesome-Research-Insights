@@ -4670,26 +4670,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4669	wang26ci	5	5	4	5	96		新增量5：GRPO采样维度方差不对称相对所列近邻有独立增量；复用5：固定温度的无价值模型GRPO中，前缀质量的估计应为同一前缀采多条后续；仅增加不同思维数有条件方差底，而后续平均使一阶delta近似方差按1/M降。；可用4：为条件于已采前缀的一阶delta近似，不是任意真实方差全局单调定理；温度固定、非零条件奖励方差且无value model；不保证所有分支点同等好。；独特5：保留该具体机制/边界，仍需全库去重。证据PDF3,4,6页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ci/wang26ci.pdf	scored
 4670	wang26cj	4	4	4	4	80		新增量4：相似特征的非对称最优传输相对所列近邻有独立增量；复用4：当一个模态token高度相似使跨注意力趋于均匀时，可在任务预测概率空间用负JS差异作传输代价，把分歧区域信息送给另一模态；反向仍用注意力，避免机械对称融合。；可用4：需两路有意义的patch任务概率，外推其它模态要验证；额外编码器/OT开销不能只按adapter参数判断；负JS强调分歧而非传统最小相似距离匹配。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF4,5,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cj/wang26cj.pdf	scored
 4671	wang26ck	4	4	3	4	76		新增量4：潜变量采样噪声修正的SGLD调参相对所列近邻有独立增量；复用4：SGLD-Gibbs的全局不确定性调参应加入条件潜变量梯度方差；每样本S次独立条件抽样仅把附加方差缩为1/S，不能照搬无潜变量SGLD的温度/预条件器。；可用3：局部大样本正则极限非深度非凸模型全局保证；S次条件样本独立时1/S成立，LDA自相关使S=5收益有限；神经潜变量模型需另核正则性和可抽样条件。；独特4：保留该具体机制/边界，仍需全库去重。证据PDF3,4,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ck/wang26ck.pdf	scored
-4672	wang26cl							待原文复核评分	pending
-4673	wang26cm							待原文复核评分	pending
-4674	wang26cn							待原文复核评分	pending
-4675	wang26co							待原文复核评分	pending
-4676	wang26cp							待原文复核评分	pending
-4677	wang26cq							待原文复核评分	pending
-4678	wang26cr							待原文复核评分	pending
-4679	wang26cs							待原文复核评分	pending
-4680	wang26ct							待原文复核评分	pending
-4681	wang26cu							待原文复核评分	pending
-4682	wang26cv							待原文复核评分	pending
-4683	wang26cw							待原文复核评分	pending
-4684	wang26cx							待原文复核评分	pending
-4685	wang26cy							待原文复核评分	pending
-4686	wang26cz							待原文复核评分	pending
-4687	wang26da							待原文复核评分	pending
-4688	wang26db							待原文复核评分	pending
-4689	wang26dc							待原文复核评分	pending
-4690	wang26dd							待原文复核评分	pending
-4691	wang26de							待原文复核评分	pending
+4672	wang26cl	4	4	4	4	80		新增量4：U统计量的投影残差采样；复用4：标注预算应分配给一阶Hoeffding投影的残差不确定性，而非原始预测误差；用归一化AIPW校正模型伪标签，使成对评价也能主动查询标签。；使用4：限非退化U统计量、渐近保证及独立 nuisance估计；全伪标签U项一般O(n^r)。原文所谓Gini实际为未归一化平均绝对差；神经成对风险训练需另行验证。；独特性4：沿用AIPW、Hájek和主动均值推断；新增针对U核而非标签残差的采样准则；实比经典均匀IPW和均匀AIPW。 PDF页3,4,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cl/wang26cl.pdf	scored
+4673	wang26cm	3	4	4	3	70		新增量3：生成轨迹池化的适用边界；复用4：提取语言模型语义表征时，优先池化生成位置而非只取末token；收益来自互补生成状态，不能套用于prompt池化，也不能把内部对齐当作事实正确。；使用4：CKA是关系对齐而非下游准确率；95百分位裁剪和归一化参与协议；错误叙述也可在自产生模型中保持内部一致。；独特性3：均值池化已有先例，新增生成侧互补性与prompt侧反例；实比各单token、prompt均值及噪声对照。 PDF页2,5,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cm/wang26cm.pdf	scored
+4674	wang26cn	3	4	3	3	66		新增量3：复数相位跨模态对齐；复用4：将投影特征按通道组成复数，以相对相位项补充余弦和负样本对比，可改善像素匹配；单独相位与混合项的消融比尺度不变性叙事更可靠。；使用3：正数整体缩放下标准余弦本来不变，论文尺度解释不能成立为一般原理；复数通道配对、零值ε和相位环绕处理会影响结果。；独特性3：复数表示与亲和传播均非首次；实比FreeDA、DeCLIP和同架构余弦/内积/相位匹配。 PDF页4,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cn/wang26cn.pdf	scored
+4675	wang26co	4	4	4	4	80		新增量4：按尺度原型修正VAR logits；复用4：数据蒸馏可在VAR每个尺度用原型相似度乘token语义方向修正logits，且将最强引导放中尺度；均匀加常数不改变softmax。；使用4：生成加速不能当全流程同比加速；5倍池带来额外预算。IPC50直接生成时Nette82.1低于D3HR84.6，原型引导本身非全设置最优。；独特性4：VAR、原型coreset及筛选为既有基础；相较DiT/Minimax新增方向和尺度相关logit修正；比D3HR及原型/筛选消融。 PDF页4,6,7 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26co/wang26co.pdf	scored
+4676	wang26cp							主要是将吸收态masked diffusion、双向去噪及身份/数值联合重建配置到单细胞预训练；p3–4方法和p8–9任务结果未建立超出这些已有机制、可独立改变具身或通用神经学习选择的增量，59M细胞规模与领域迁移本身不足。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cp/wang26cp.pdf	rule-excluded
+4677	wang26cq	3	4	4	3	70		新增量3：带非对称反馈噪声的检索记忆；复用4：对未判为支持的句子采用更高观察噪声，以较小增益更新；沿查询方向修正句子记忆并联合维护不确定性，避免删除未被显式选中的桥接证据。；使用4：依赖LLM judge及查询重复分布；非正例并非真负例。论文61%为其多场景平均查询时间缩短，不能泛称所有推理费用降低61%。；独特性3：Kalman更新和记忆RAG已存在；增量在句子检索的查询方向更新与非对称未标记噪声；比REMINDRAG、LinearRAG及固定学习率。 PDF页5,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cq/wang26cq.pdf	scored
+4678	wang26cr	4	4	4	4	80		新增量4：扩散语言模型SAE诊断边界；复用4：扩散模型做SAE诊断时分别采集mask与unmask位置，并区分重建误差和插入后的语言损失；浅层稀疏重建可能降损，不能照搬自回归模型的插入惩罚直觉。；使用4：漂移与准确率为相关性，并未得到可直接提升解码的算法；需独立检查概念控制和流畅度，低重建误差不等于行为无改变。；独特性4：Top-K SAE和特征steering已有；新增mask条件诊断、早层负损失差及固定token后仍漂移的经验边界。 PDF页3,4,7 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cr/wang26cr.pdf	scored
+4679	wang26cs	3	4	3	3	66		新增量3：去趋势Q/K而V保留完整内容的明确区别，但独立收益未隔离；复用4：时序注意力可改；使用3：步骤明确而作用受结构顺序和时间先验限制；独特3：Autoformer/Nonstationary/SDformer已覆盖广泛分解/去噪注意力。本稿PDF3–4、9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cs/wang26cs.pdf	scored
+4680	wang26ct							PDF5–6 Eq17–19实际为自身评分相对模拟同行评分的surprise比值，非评估差异小的稳定性；Eq20–22是argmax分歧后LLM归纳文字约束入记忆。p18案例与既有反思修复重合，p8无单独CESR与matched Reflexion控制，尚未隔离超出surprise聚合+反思记忆集成的独立增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ct/wang26ct.pdf	rule-excluded
+4681	wang26cu	4	4	4	4	80		新增量4：外部调用状态感知的时空调度；复用4：工具调用LLM服务按执行段的内存时间积分排序，并在工具返回后用实际返回量修正；批token预算同时计入可回收暂停KV，可缓解队首阻塞。；使用4：该主文范围与摘要6.5/4.7倍口径不一致；不可混用。50%随机预测扰动下TTFT仍增加，反馈鲁棒性非无损。；独特性4：vLLM/INFERCEPT已有暂停上下文策略；增量为状态分段成本与反馈更新、动态预算联合调度；实比FCFS与预测最短作业优先SSJF。 PDF页4,6,7,9 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cu/wang26cu.pdf	scored
+4682	wang26cv							PDF4–5、14为任务族固定骨架、局部schema、typed allowlist/guarded patch及RETURN提交判终止；HiAgent已做子目标工作记忆（https://aclanthology.org/2025.acl-long.1575.pdf），AWM已做成功轨迹离线workflow归纳（https://arxiv.org/abs/2409.07429）。p7去Patch同时放宽状态执行约束，缺同固定骨架/同schema的HiAgent或AWM控制，尚不能隔离超出既有workflow与结构接口集成的机制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cv/wang26cv.pdf	rule-excluded
+4683	wang26cw	3	5	4	3	76		新增量3：蒸馏按局部不确定性分配硬软监督；复用5：同一蒸馏前缀可用教师置信度或归一化熵调硬软损失权重；实证应比较正确方向与反向权重，不能把任务分数提升解释为已证明唯一的曝光偏差机制。；使用4：硬标签在定义中从教师采样，Forward KL人口目标与硬CE等价；有限数据轨迹可不同。理论κ可带符号，其曝光偏差上界不能无附加条件作一般保证；置信/熵只是代理；附录E未明确教师采样温度。；独特性3：硬标签及软KL均为既有，固定混合也已有；增量是局部权重方向的跨模型证据；比较reverse-proxy、温度/熵正则、on-policy KD。 PDF页2,6,29,33,34 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cw/wang26cw.pdf	scored
+4684	wang26cx	4	4	4	4	80		新增量4：双层事件微动态解耦；复用4：反射分离可先从事件中建模透射与反射两条竞争动态，再以动态先验调制RGB；直接堆事件或换普通光流的收益较小。；使用4：需要事件传感器与差异运动；局部梯度可分条件要求运动矩阵满列秩，共线比例变化不足时不保证分离；厚玻璃双反射仍降低表现。；独特性4：事件恢复与cross-attention已有；新增双叠加层微动态分离，并比RGB基线、普通光流、concat、EvLight/EFNet等。 PDF页3,4,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cx/wang26cx.pdf	scored
+4685	wang26cy							p6–9用现有AlphaEvolve拟合IRPS行为模型并比较复杂度，所得对手历史条件维度是描述性候选解释，原文明确不证明LLM内部机制；单游戏人机行为差异尚不足指导具体神经训练、控制或推理操作。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cy/wang26cy.pdf	rule-excluded
+4686	wang26cz	3	4	4	3	70		新增量3：任务分布一致性与相关性联合剪枝；复用4：多模态token剪枝可在任务预测分布上计算模态内及跨模态JS一致性，再与预测相关性相乘；避免只按一致性保留低信息共识。；使用4：一致性可能排除少数但关键的冲突线索；依赖任务监督的预测分布，不等于通用语义一致性；10%token结论仅指所测情感任务。；独特性3：JS散度、一致性正则及token pruning已有；增量是任务分布空间的双层一致性与相关性统一评分；比MMML及去IntraCS/InterCS/相关性消融。 PDF页3,4,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26cz/wang26cz.pdf	scored
+4687	wang26da	4	4	3	4	76		新增量4：源空间引导的L²误差边界；复用4：源空间reward倾斜的可靠性可由传输映射的L²误差控制，但要求有界Lipschitz reward、Lipschitz映射及Poincaré源分布；强引导会指数放大常数。；使用3：A.4/A.6限制明确，不是任意不连续reward的理论保证；常数对βMR指数恶化，未给快速混合统一预算。Alg1交换接受沿用u的伪代码需实现核查，不据此保证实现正确。；独特性4：源空间steering、pCN、parallel tempering均为既有；新价值是L²稳健性界及多模态实践，而非首次源空间采样；比FK Steering、Best-of-K及DPO/DDPO。 PDF页4,6,12 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26da/wang26da.pdf	scored
+4688	wang26db	4	4	4	4	80		新增量4：由目标梯度反推负采样；复用4：图表征负采样应明确真实负边与未观测边的区别；按当前模型概率重权真实负分布，并对只观察正边的偏差同时校正正负项。；使用4：最优性相对于指定目标而非所有下游指标；需类先验和propensity估计，观察边假设只含真阳性；不能把推荐图结论直接泛化所有对比学习。；独特性4：hard negative sampling和propensity correction已有；新增从既定梯度条件推采样及联合正负偏差校正；比RNS及多种推荐采样基线。 PDF页4,5,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26db/wang26db.pdf	scored
+4689	wang26dc	4	5	4	4	86		新增量4：形态编码与系统条件动力专家；复用5：跨机器人轨迹模型可把连通形态编码加入每个状态/动作通道，并由经过SSM的系统token路由动力专家；将系统差异交给专家而非统一稠密动力层。；使用4：100步误差为归一化空间；规模实验不同环境数的拆分略变；真实Go1部署使用蒸馏两层学生和仿真微调，不是完整模型直接零样本控制。；独特性4：TrajWorld为直接轨迹世界模型比较；MoE/结构编码本身已有，增量是动力系统条件路由与形态结合，含dense SSM和去结构消融。 PDF页3,4,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26dc/wang26dc.pdf	scored
+4690	wang26dd	3	4	3	3	66		新增量3：相较DyDiT仅timestep调宽，当前sample latent驱动整块跳过和前缀宽度，并复用门作边界缓存selector；复用4：可迁移DiT；使用3：width argmax梯度欠说明，δ需调且降质；独特3：动态路由和缓存组合已有强先例。PDF4–8；DyDiT++ §3.2/3.3/8.7。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26dd/wang26dd.pdf	scored
+4691	wang26de	4	4	4	4	80		新增量4：低熵视图单向指导高熵视图；复用4：多视图聚类避免双向拉近污染可靠视图：以聚类分配熵差的正部作权重，并对权重和低熵源表征stop-gradient，只更新高熵目标。；使用4：低熵不保证正确；径向距离只是置信代理，几何不会自动把噪声推中心；需已知簇数、超参搜索和平衡分配假设。；独特性4：双曲表示、Sinkhorn和置信筛选均已有；新增熵方向stop-gradient对齐及共识训练；比CAMERA/CANDY等13方法及去非对称消融。 PDF页4,5,7 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26de/wang26de.pdf	scored
 4692	wang26df							待原文复核评分	pending
 4693	wang26dg							待原文复核评分	pending
 4694	wang26dh							待原文复核评分	pending

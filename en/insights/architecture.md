@@ -180,6 +180,7 @@ Model-wide design and information flow.
 - [HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/4101-4200.md#shou26a-architecture) · 中文
 - [TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction](../../conferences/icml-2026/cards/4201-4300.md#song26q-architecture) · 中文
 - [Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations](../../conferences/icml-2026/cards/4401-4500.md#thompson26a-architecture) · 中文
+- [WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems](../../conferences/icml-2026/cards/4601-4700.md#wang26dc-architecture) · 中文
 
 <a id="by-multimodal"></a>
 

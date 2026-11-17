@@ -140,6 +140,7 @@
 - [上下文长短构造无奖励偏好](../conferences/icml-2026/cards/4501-4600.md#wan26a-training-strategies) · Mitigating Conversational Inertia in Multi-Turn Agents
 - [When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../conferences/icml-2026/cards/4501-4600.md#wang26j-training-strategies) · When RL Meets Adaptive Speculative Training: A Unified Training-Serving System
 - [按收敛状态选择扩深方式](../conferences/icml-2026/cards/4601-4700.md#wang26aq-training-strategies) · Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts
+- [蒸馏按局部不确定性分配硬软监督](../conferences/icml-2026/cards/4601-4700.md#wang26cw-training-strategies) · The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works
 
 <a id="by-computer-vision"></a>
 

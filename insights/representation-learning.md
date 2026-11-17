@@ -29,6 +29,7 @@
 - [从条件独立性预测 Transformer 会否形成因子正交子空间](../conferences/icml-2026/cards/4001-4100.md#shai26a-representation-learning) · Transformers learn factored representations
 - [无需原语料的局部几何遗忘](../conferences/icml-2026/cards/4301-4400.md#tan26c-representation-learning) · Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure
 - [按激活主子空间初始化稀疏字典](../conferences/icml-2026/cards/4601-4700.md#wang26bh-representation-learning) · Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning
+- [生成轨迹池化的适用边界](../conferences/icml-2026/cards/4601-4700.md#wang26cm-representation-learning) · The Truth Lies Somewhere in the Middle (of the Generated Tokens)
 
 <a id="by-computer-vision"></a>
 
@@ -89,6 +90,7 @@
 - [按概念格粒度监督网络中间层](../conferences/icml-2026/cards/4501-4600.md#vemuri26a-representation-learning) · Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning
 - [DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../conferences/icml-2026/cards/4501-4600.md#wang26l-representation-learning) · DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation
 - [DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../conferences/icml-2026/cards/4601-4700.md#wang26aa-representation-learning) · DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning
+- [复数相位跨模态对齐](../conferences/icml-2026/cards/4601-4700.md#wang26cn-representation-learning) · PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation
 
 <a id="by-nlp"></a>
 

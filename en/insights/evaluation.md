@@ -332,6 +332,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../../conferences/icml-2026/cards/4601-4700.md#wang26ab-evaluation) · 中文
 - [HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench](../../conferences/icml-2026/cards/4601-4700.md#wang26bd-evaluation) · 中文
 - [Model Merging Scaling Laws in Large Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bl-evaluation) · 中文
+- [DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](../../conferences/icml-2026/cards/4601-4700.md#wang26cr-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

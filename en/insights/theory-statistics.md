@@ -574,6 +574,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Optimal Decision-Making Based on Prediction Sets](../../conferences/icml-2026/cards/4601-4700.md#wang26ar-theory-statistics) · 中文
 - [Inference of Online Newton Methods with Nesterov’s Accelerated Sketching](../../conferences/icml-2026/cards/4601-4700.md#wang26au-theory-statistics) · 中文
 - [Large-scale Uncertainty Quantification for Latent Variable Models Using Subsampling Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#wang26ck-theory-statistics) · 中文
+- [Learning $U$-Statistics with Active Inference](../../conferences/icml-2026/cards/4601-4700.md#wang26cl-theory-statistics) · 中文
+- [Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions](../../conferences/icml-2026/cards/4601-4700.md#wang26da-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

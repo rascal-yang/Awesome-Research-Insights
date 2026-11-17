@@ -111,6 +111,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="tang26f-loss-functions"></a>[Escaping the Likelihood Trap: Geometric Diversity Optimization for Long-Form Image Captioning](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26f)
 - <a id="tang26u-loss-functions"></a>[Artemis: Structured Visual Reasoning for Perception Policy Learning](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26u)
 - <a id="wang26at-loss-functions"></a>[IBMA: Information Bottleneck-Based Multimodal Alignment](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26at)
+- <a id="wang26de-loss-functions"></a>[Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26de)
 
 <a id="by-optimization"></a>
 
@@ -266,6 +267,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26ag-data-strategies"></a>[TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ag)
 - <a id="naharas26a-data-strategies"></a>[Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../../conferences/icml-2026/cards/3401-3500.md#paper-naharas26a)
 - <a id="ryan26a-data-strategies"></a>[Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-ryan26a)
+- <a id="wang26cz-data-strategies"></a>[ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cz)
 
 <a id="by-inference"></a>
 

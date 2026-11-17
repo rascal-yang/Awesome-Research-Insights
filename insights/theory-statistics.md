@@ -574,6 +574,8 @@
 - [预测集合外的损失惩罚](../conferences/icml-2026/cards/4601-4700.md#wang26ar-theory-statistics) · Optimal Decision-Making Based on Prediction Sets
 - [加速随机Newton的在线推断协方差](../conferences/icml-2026/cards/4601-4700.md#wang26au-theory-statistics) · Inference of Online Newton Methods with Nesterov’s Accelerated Sketching
 - [潜变量采样噪声修正的SGLD调参](../conferences/icml-2026/cards/4601-4700.md#wang26ck-theory-statistics) · Large-scale Uncertainty Quantification for Latent Variable Models Using Subsampling Markov Chain Monte Carlo
+- [U统计量的投影残差采样](../conferences/icml-2026/cards/4601-4700.md#wang26cl-theory-statistics) · Learning $U$-Statistics with Active Inference
+- [源空间引导的L²误差边界](../conferences/icml-2026/cards/4601-4700.md#wang26da-theory-statistics) · Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -29,6 +29,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Transformers learn factored representations](../../conferences/icml-2026/cards/4001-4100.md#shai26a-representation-learning) · 中文
 - [Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](../../conferences/icml-2026/cards/4301-4400.md#tan26c-representation-learning) · 中文
 - [Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26bh-representation-learning) · 中文
+- [The Truth Lies Somewhere in the Middle (of the Generated Tokens)](../../conferences/icml-2026/cards/4601-4700.md#wang26cm-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -89,6 +90,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning](../../conferences/icml-2026/cards/4501-4600.md#vemuri26a-representation-learning) · 中文
 - [DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../../conferences/icml-2026/cards/4501-4600.md#wang26l-representation-learning) · 中文
 - [DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26aa-representation-learning) · 中文
+- [PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation](../../conferences/icml-2026/cards/4601-4700.md#wang26cn-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

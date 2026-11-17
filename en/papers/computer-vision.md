@@ -122,6 +122,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26bg-modules"></a>[Granularity-Aware Adaptive Classifier Expansion via Zero-Shot Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bg)
 - <a id="wang26bj-modules"></a>[Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bj)
 - <a id="wang26br-modules"></a>[TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26br)
+- <a id="wang26cx-modules"></a>[EvReflection: Event-Driven Micro-Dynamics for Reflection Removal](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cx)
 
 <a id="by-loss-functions"></a>
 
@@ -311,6 +312,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="reiss26a-data-strategies"></a>[Alterbute: Editing Intrinsic Attributes of Objects in Images](../../conferences/icml-2026/cards/3801-3900.md#paper-reiss26a)
 - <a id="traub26a-data-strategies"></a>[Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation](../../conferences/icml-2026/cards/4401-4500.md#paper-traub26a)
 - <a id="wang26bq-data-strategies"></a>[FaPS: A General and Fast Training Method for Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bq)
+- <a id="wang26co-data-strategies"></a>[ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26co)
 
 <a id="by-inference"></a>
 
@@ -423,6 +425,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wan26g-inference"></a>[Video-SVD: Efficient Video Diffusion via Orthogonal Basis Composition](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26g)
 - <a id="wang26g-inference"></a>[General and Efficient Steering of Unconditional Diffusion Models](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26g)
 - <a id="wang26i-inference"></a>[Training-Free Rate-Distortion-Perception Traversal With Diffusion](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26i)
+- <a id="wang26dd-inference"></a>[Elastic Diffusion Transformer](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dd)
 
 <a id="by-representation-learning"></a>
 
@@ -483,6 +486,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="vemuri26a-representation-learning"></a>[Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning](../../conferences/icml-2026/cards/4501-4600.md#paper-vemuri26a)
 - <a id="wang26l-representation-learning"></a>[DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26l)
 - <a id="wang26aa-representation-learning"></a>[DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26aa)
+- <a id="wang26cn-representation-learning"></a>[PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cn)
 
 <a id="by-evaluation"></a>
 

@@ -317,6 +317,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [SLIM: Secure and Efficient Inference for Large Language Models on Untrusted Devices via TEEs](../../conferences/icml-2026/cards/4601-4700.md#wang26bm-inference) · 中文
 - [WET: Mitigating World-Conditioned Knowledge Conflicts via World Entropy Tethering](../../conferences/icml-2026/cards/4601-4700.md#wang26bw-inference) · 中文
 - [Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](../../conferences/icml-2026/cards/4601-4700.md#wang26bz-inference) · 中文
+- [GAM-RAG: Gain-Adaptive Memory for Evolving Retrieval in Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4601-4700.md#wang26cq-inference) · 中文
+- [AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](../../conferences/icml-2026/cards/4601-4700.md#wang26cu-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -429,6 +431,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Video-SVD: Efficient Video Diffusion via Orthogonal Basis Composition](../../conferences/icml-2026/cards/4501-4600.md#wan26g-inference) · 中文
 - [General and Efficient Steering of Unconditional Diffusion Models](../../conferences/icml-2026/cards/4501-4600.md#wang26g-inference) · 中文
 - [Training-Free Rate-Distortion-Perception Traversal With Diffusion](../../conferences/icml-2026/cards/4501-4600.md#wang26i-inference) · 中文
+- [Elastic Diffusion Transformer](../../conferences/icml-2026/cards/4601-4700.md#wang26dd-inference) · 中文
 
 <a id="by-nlp"></a>
 

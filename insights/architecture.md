@@ -180,6 +180,7 @@
 - [文本推理视觉子目标分专家](../conferences/icml-2026/cards/4101-4200.md#shou26a-architecture) · HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning
 - [预测趋势与历史细节分源](../conferences/icml-2026/cards/4201-4300.md#song26q-architecture) · TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction
 - [calculus-matched-rough-dynamics](../conferences/icml-2026/cards/4401-4500.md#thompson26a-architecture) · Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations
+- [形态编码与系统条件动力专家](../conferences/icml-2026/cards/4601-4700.md#wang26dc-architecture) · WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems
 
 <a id="by-multimodal"></a>
 

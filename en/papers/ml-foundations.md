@@ -128,6 +128,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="soegeng26a-modules"></a>[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](../../conferences/icml-2026/cards/4101-4200.md#paper-soegeng26a)
 - <a id="tankala26a-modules"></a>[Dense associative memory for Gaussian distributions](../../conferences/icml-2026/cards/4401-4500.md#paper-tankala26a)
 - <a id="ullah26b-modules"></a>[HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces](../../conferences/icml-2026/cards/4501-4600.md#paper-ullah26b)
+- <a id="wang26cs-modules"></a>[PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cs)
 
 <a id="by-loss-functions"></a>
 
@@ -1098,4 +1099,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wang26ar-theory-statistics"></a>[Optimal Decision-Making Based on Prediction Sets](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ar)
 - <a id="wang26au-theory-statistics"></a>[Inference of Online Newton Methods with Nesterov’s Accelerated Sketching](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26au)
 - <a id="wang26ck-theory-statistics"></a>[Large-scale Uncertainty Quantification for Latent Variable Models Using Subsampling Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ck)
+- <a id="wang26cl-theory-statistics"></a>[Learning $U$-Statistics with Active Inference](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cl)
+- <a id="wang26da-theory-statistics"></a>[Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26da)
 <!-- classification:end -->

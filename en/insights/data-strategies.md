@@ -107,6 +107,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Alterbute: Editing Intrinsic Attributes of Objects in Images](../../conferences/icml-2026/cards/3801-3900.md#reiss26a-data-strategies) · 中文
 - [Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation](../../conferences/icml-2026/cards/4401-4500.md#traub26a-data-strategies) · 中文
 - [FaPS: A General and Fast Training Method for Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bq-data-strategies) · 中文
+- [ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](../../conferences/icml-2026/cards/4601-4700.md#wang26co-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -173,6 +174,7 @@ Data selection, annotation, augmentation, and sampling.
 - [TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../../conferences/icml-2026/cards/2801-2900.md#liu26ag-data-strategies) · 中文
 - [Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../../conferences/icml-2026/cards/3401-3500.md#naharas26a-data-strategies) · 中文
 - [Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#ryan26a-data-strategies) · 中文
+- [ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis](../../conferences/icml-2026/cards/4601-4700.md#wang26cz-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -222,6 +224,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Anchor-guided Hypergraph Condensation with Dual-level Discrimination](../../conferences/icml-2026/cards/2501-2600.md#li26gi-data-strategies) · 中文
 - [GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model](../../conferences/icml-2026/cards/2601-2700.md#li26hb-data-strategies) · 中文
 - [Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder](../../conferences/icml-2026/cards/4301-4400.md#tang26l-data-strategies) · 中文
+- [Negative Sampling From the Ground Up: A Redesign for Recommendations](../../conferences/icml-2026/cards/4601-4700.md#wang26db-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

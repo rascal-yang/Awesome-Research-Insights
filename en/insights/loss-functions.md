@@ -165,6 +165,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Escaping the Likelihood Trap: Geometric Diversity Optimization for Long-Form Image Captioning](../../conferences/icml-2026/cards/4301-4400.md#tang26f-loss-functions) · 中文
 - [Artemis: Structured Visual Reasoning for Perception Policy Learning](../../conferences/icml-2026/cards/4301-4400.md#tang26u-loss-functions) · 中文
 - [IBMA: Information Bottleneck-Based Multimodal Alignment](../../conferences/icml-2026/cards/4601-4700.md#wang26at-loss-functions) · 中文
+- [Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling](../../conferences/icml-2026/cards/4601-4700.md#wang26de-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

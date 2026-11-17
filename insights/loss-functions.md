@@ -165,6 +165,7 @@
 - [集合几何奖励与边际信用](../conferences/icml-2026/cards/4301-4400.md#tang26f-loss-functions) · Escaping the Likelihood Trap: Geometric Diversity Optimization for Long-Form Image Captioning
 - [中间对象证据奖励](../conferences/icml-2026/cards/4301-4400.md#tang26u-loss-functions) · Artemis: Structured Visual Reasoning for Perception Policy Learning
 - [各模态自身的信息瓶颈对齐](../conferences/icml-2026/cards/4601-4700.md#wang26at-loss-functions) · IBMA: Information Bottleneck-Based Multimodal Alignment
+- [低熵视图单向指导高熵视图](../conferences/icml-2026/cards/4601-4700.md#wang26de-loss-functions) · Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling
 
 <a id="by-ml-foundations"></a>
 

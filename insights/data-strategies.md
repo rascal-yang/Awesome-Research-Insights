@@ -107,6 +107,7 @@
 - [用细粒度对象簇训练属性编辑](../conferences/icml-2026/cards/3801-3900.md#reiss26a-data-strategies) · Alterbute: Editing Intrinsic Attributes of Objects in Images
 - [object-conditioned-foveation](../conferences/icml-2026/cards/4401-4500.md#traub26a-data-strategies) · Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation
 - [按频谱和扩散时刻学习选patch](../conferences/icml-2026/cards/4601-4700.md#wang26bq-data-strategies) · FaPS: A General and Fast Training Method for Diffusion Models
+- [按尺度原型修正VAR logits](../conferences/icml-2026/cards/4601-4700.md#wang26co-data-strategies) · ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling
 
 <a id="by-nlp"></a>
 
@@ -173,6 +174,7 @@
 - [按系统、图像与用户输入分解注意力识别投毒](../conferences/icml-2026/cards/2801-2900.md#liu26ag-data-strategies) · TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning
 - [用跨模态对齐轨迹选择指令样本](../conferences/icml-2026/cards/3401-3500.md#naharas26a-data-strategies) · Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
 - [用自生成图注增加可利用的跨模态冗余](../conferences/icml-2026/cards/3901-4000.md#ryan26a-data-strategies) · Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models
+- [任务分布一致性与相关性联合剪枝](../conferences/icml-2026/cards/4601-4700.md#wang26cz-data-strategies) · ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis
 
 <a id="by-ml-foundations"></a>
 
@@ -222,6 +224,7 @@
 - [锚定超图凝缩并对齐两级分布](../conferences/icml-2026/cards/2501-2600.md#li26gi-data-strategies) · Anchor-guided Hypergraph Condensation with Dual-level Discrimination
 - [潜空间单步合成图异常](../conferences/icml-2026/cards/2601-2700.md#li26hb-data-strategies) · GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model
 - [按重建支持分层遮蔽](../conferences/icml-2026/cards/4301-4400.md#tang26l-data-strategies) · Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder
+- [由目标梯度反推负采样](../conferences/icml-2026/cards/4601-4700.md#wang26db-data-strategies) · Negative Sampling From the Ground Up: A Redesign for Recommendations
 
 <a id="by-scientific-ml"></a>
 

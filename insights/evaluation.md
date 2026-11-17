@@ -332,6 +332,7 @@
 - [AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../conferences/icml-2026/cards/4601-4700.md#wang26ab-evaluation) · AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition
 - [高熵动作token的中训诊断](../conferences/icml-2026/cards/4601-4700.md#wang26bd-evaluation) · HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench
 - [有限专家池的合并收益预算](../conferences/icml-2026/cards/4601-4700.md#wang26bl-evaluation) · Model Merging Scaling Laws in Large Language Models
+- [扩散语言模型SAE诊断边界](../conferences/icml-2026/cards/4601-4700.md#wang26cr-evaluation) · DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders
 
 <a id="by-computer-vision"></a>
 

@@ -541,6 +541,7 @@
 - <a id="wan26a-training-strategies"></a>[Mitigating Conversational Inertia in Multi-Turn Agents](../conferences/icml-2026/cards/4501-4600.md#paper-wan26a)
 - <a id="wang26j-training-strategies"></a>[When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../conferences/icml-2026/cards/4501-4600.md#paper-wang26j)
 - <a id="wang26aq-training-strategies"></a>[Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts](../conferences/icml-2026/cards/4601-4700.md#paper-wang26aq)
+- <a id="wang26cw-training-strategies"></a>[The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cw)
 
 <a id="by-data-strategies"></a>
 
@@ -924,6 +925,8 @@
 - <a id="wang26bm-inference"></a>[SLIM: Secure and Efficient Inference for Large Language Models on Untrusted Devices via TEEs](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bm)
 - <a id="wang26bw-inference"></a>[WET: Mitigating World-Conditioned Knowledge Conflicts via World Entropy Tethering](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bw)
 - <a id="wang26bz-inference"></a>[Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bz)
+- <a id="wang26cq-inference"></a>[GAM-RAG: Gain-Adaptive Memory for Evolving Retrieval in Retrieval-Augmented Generation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cq)
+- <a id="wang26cu-inference"></a>[AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cu)
 
 <a id="by-representation-learning"></a>
 
@@ -945,6 +948,7 @@
 - <a id="shai26a-representation-learning"></a>[Transformers learn factored representations](../conferences/icml-2026/cards/4001-4100.md#paper-shai26a)
 - <a id="tan26c-representation-learning"></a>[Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](../conferences/icml-2026/cards/4301-4400.md#paper-tan26c)
 - <a id="wang26bh-representation-learning"></a>[Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bh)
+- <a id="wang26cm-representation-learning"></a>[The Truth Lies Somewhere in the Middle (of the Generated Tokens)](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cm)
 
 <a id="by-evaluation"></a>
 
@@ -1269,6 +1273,7 @@
 - <a id="wang26ab-evaluation"></a>[AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ab)
 - <a id="wang26bd-evaluation"></a>[HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bd)
 - <a id="wang26bl-evaluation"></a>[Model Merging Scaling Laws in Large Language Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bl)
+- <a id="wang26cr-evaluation"></a>[DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cr)
 
 <a id="by-theory-statistics"></a>
 

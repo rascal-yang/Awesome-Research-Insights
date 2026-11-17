@@ -104,6 +104,7 @@ Reusable components and local changes to model inputs or connections.
 - [Granularity-Aware Adaptive Classifier Expansion via Zero-Shot Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26bg-modules) · 中文
 - [Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bj-modules) · 中文
 - [TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding](../../conferences/icml-2026/cards/4601-4700.md#wang26br-modules) · 中文
+- [EvReflection: Event-Driven Micro-Dynamics for Reflection Removal](../../conferences/icml-2026/cards/4601-4700.md#wang26cx-modules) · 中文
 
 <a id="by-nlp"></a>
 
@@ -217,6 +218,7 @@ Reusable components and local changes to model inputs or connections.
 - [TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](../../conferences/icml-2026/cards/4101-4200.md#soegeng26a-modules) · 中文
 - [Dense associative memory for Gaussian distributions](../../conferences/icml-2026/cards/4401-4500.md#tankala26a-modules) · 中文
 - [HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces](../../conferences/icml-2026/cards/4501-4600.md#ullah26b-modules) · 中文
+- [PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#wang26cs-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
