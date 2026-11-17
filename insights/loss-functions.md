@@ -224,6 +224,7 @@
 - [多尺度几何集合生成损失](../conferences/icml-2026/cards/4401-4500.md#torkamani26a-loss-functions) · Magnitude Distance: A Geometric Measure of Dataset Similarity
 - [amortized-attribution](../conferences/icml-2026/cards/4401-4500.md#tran26h-loss-functions) · Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation
 - [solver-free-decision-loss](../conferences/icml-2026/cards/4501-4600.md#wan26i-loss-functions) · A Solver-Free Training Method for Predict-then-Optimize
+- [数据分布距离与约束可信度](../conferences/icml-2026/cards/4701-4800.md#wang26gd-loss-functions) · BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting
 
 <a id="by-graph-and-recommendation"></a>
 

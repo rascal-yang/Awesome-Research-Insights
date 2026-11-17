@@ -319,6 +319,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="traub26a-data-strategies"></a>[Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation](../../conferences/icml-2026/cards/4401-4500.md#paper-traub26a)
 - <a id="wang26bq-data-strategies"></a>[FaPS: A General and Fast Training Method for Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bq)
 - <a id="wang26co-data-strategies"></a>[ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26co)
+- <a id="wang26ga-data-strategies"></a>[FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ga)
 
 <a id="by-inference"></a>
 

@@ -1286,6 +1286,7 @@
 - <a id="wang26bl-evaluation"></a>[Model Merging Scaling Laws in Large Language Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bl)
 - <a id="wang26cr-evaluation"></a>[DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cr)
 - <a id="wang26ed-evaluation"></a>[Towards Understanding Massive Activations in Attention Sink Mechanism](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ed)
+- <a id="wang26gf-evaluation"></a>[Persistent Semantic Entities in Tool-Augmented LLM Systems](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gf)
 
 <a id="by-theory-statistics"></a>
 

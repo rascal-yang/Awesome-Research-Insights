@@ -282,6 +282,7 @@
 - [小波局部记忆SSM](../conferences/icml-2026/cards/4101-4200.md#solozabal26a-architecture) · WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention
 - [differentiable-parity-projection](../conferences/icml-2026/cards/4401-4500.md#troxell26a-architecture) · Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning
 - [显式谱因子的预测头](../conferences/icml-2026/cards/4601-4700.md#wang26ax-architecture) · Ellipsoidal Time Series Forecasting
+- [变量排序后再池化压缩](../conferences/icml-2026/cards/4701-4800.md#wang26fy-architecture) · ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence
 
 <a id="by-graph-and-recommendation"></a>
 

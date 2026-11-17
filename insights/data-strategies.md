@@ -109,6 +109,7 @@
 - [object-conditioned-foveation](../conferences/icml-2026/cards/4401-4500.md#traub26a-data-strategies) · Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation
 - [按频谱和扩散时刻学习选patch](../conferences/icml-2026/cards/4601-4700.md#wang26bq-data-strategies) · FaPS: A General and Fast Training Method for Diffusion Models
 - [按尺度原型修正VAR logits](../conferences/icml-2026/cards/4601-4700.md#wang26co-data-strategies) · ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling
+- [按本地与全局预测缺口补数据](../conferences/icml-2026/cards/4701-4800.md#wang26ga-data-strategies) · FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning
 
 <a id="by-nlp"></a>
 
@@ -211,6 +212,9 @@
 - [nonlinear-component-data-valuation](../conferences/icml-2026/cards/4401-4500.md#tian26c-data-strategies) · Is Data Shapley Not Better than Random in Data Selection? Ask NASH
 - [隐私合成样本级两阶段演化](../conferences/icml-2026/cards/4401-4500.md#tran26a-data-strategies) · Differentially Private Synthetic Data via APIs 4: Tabular Data
 - [按公开分布定向混合的隐私采样](../conferences/icml-2026/cards/4501-4600.md#vithana26a-data-strategies) · Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation
+- [目标匹配与优化器区分度联合生成](../conferences/icml-2026/cards/4701-4800.md#wang26fq-data-strategies) · Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model
+- [按来源方向几何筛选共享表示数据](../conferences/icml-2026/cards/4701-4800.md#wang26ft-data-strategies) · On the Power of Source Screening for Learning Shared Feature Extractors
+- [反演结构响应以调整训练权重](../conferences/icml-2026/cards/4701-4800.md#wang26fw-data-strategies) · Patterning: The Dual of Interpretability
 
 <a id="by-graph-and-recommendation"></a>
 

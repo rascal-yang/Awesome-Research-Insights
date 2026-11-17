@@ -224,6 +224,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Magnitude Distance: A Geometric Measure of Dataset Similarity](../../conferences/icml-2026/cards/4401-4500.md#torkamani26a-loss-functions) · 中文
 - [Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation](../../conferences/icml-2026/cards/4401-4500.md#tran26h-loss-functions) · 中文
 - [A Solver-Free Training Method for Predict-then-Optimize](../../conferences/icml-2026/cards/4501-4600.md#wan26i-loss-functions) · 中文
+- [BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting](../../conferences/icml-2026/cards/4701-4800.md#wang26gd-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

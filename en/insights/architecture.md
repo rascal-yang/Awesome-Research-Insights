@@ -282,6 +282,7 @@ Model-wide design and information flow.
 - [WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](../../conferences/icml-2026/cards/4101-4200.md#solozabal26a-architecture) · 中文
 - [Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning](../../conferences/icml-2026/cards/4401-4500.md#troxell26a-architecture) · 中文
 - [Ellipsoidal Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#wang26ax-architecture) · 中文
+- [ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence](../../conferences/icml-2026/cards/4701-4800.md#wang26fy-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -77,6 +77,7 @@
 - <a id="solozabal26a-architecture"></a>[WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](../conferences/icml-2026/cards/4101-4200.md#paper-solozabal26a)
 - <a id="troxell26a-architecture"></a>[Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning](../conferences/icml-2026/cards/4401-4500.md#paper-troxell26a)
 - <a id="wang26ax-architecture"></a>[Ellipsoidal Time Series Forecasting](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ax)
+- <a id="wang26fy-architecture"></a>[ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fy)
 
 <a id="by-modules"></a>
 
@@ -177,6 +178,7 @@
 - <a id="torkamani26a-loss-functions"></a>[Magnitude Distance: A Geometric Measure of Dataset Similarity](../conferences/icml-2026/cards/4401-4500.md#paper-torkamani26a)
 - <a id="tran26h-loss-functions"></a>[Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation](../conferences/icml-2026/cards/4401-4500.md#paper-tran26h)
 - <a id="wan26i-loss-functions"></a>[A Solver-Free Training Method for Predict-then-Optimize](../conferences/icml-2026/cards/4501-4600.md#paper-wan26i)
+- <a id="wang26gd-loss-functions"></a>[BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gd)
 
 <a id="by-optimization"></a>
 
@@ -541,6 +543,9 @@
 - <a id="tian26c-data-strategies"></a>[Is Data Shapley Not Better than Random in Data Selection? Ask NASH](../conferences/icml-2026/cards/4401-4500.md#paper-tian26c)
 - <a id="tran26a-data-strategies"></a>[Differentially Private Synthetic Data via APIs 4: Tabular Data](../conferences/icml-2026/cards/4401-4500.md#paper-tran26a)
 - <a id="vithana26a-data-strategies"></a>[Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation](../conferences/icml-2026/cards/4501-4600.md#paper-vithana26a)
+- <a id="wang26fq-data-strategies"></a>[Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fq)
+- <a id="wang26ft-data-strategies"></a>[On the Power of Source Screening for Learning Shared Feature Extractors](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ft)
+- <a id="wang26fw-data-strategies"></a>[Patterning: The Dual of Interpretability](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fw)
 
 <a id="by-inference"></a>
 
@@ -718,6 +723,7 @@
 - <a id="wan26c-evaluation"></a>[Gradient Inversion Attacks Beyond SGD](../conferences/icml-2026/cards/4501-4600.md#paper-wan26c)
 - <a id="wang26ay-evaluation"></a>[CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ay)
 - <a id="wang26es-evaluation"></a>[Exposing Vulnerabilities in Explanation for Time Series Classifiers via Dual-Target Attacks](../conferences/icml-2026/cards/4701-4800.md#paper-wang26es)
+- <a id="wang26fx-evaluation"></a>[Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fx)
 
 <a id="by-theory-statistics"></a>
 

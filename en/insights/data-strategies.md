@@ -109,6 +109,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation](../../conferences/icml-2026/cards/4401-4500.md#traub26a-data-strategies) · 中文
 - [FaPS: A General and Fast Training Method for Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bq-data-strategies) · 中文
 - [ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](../../conferences/icml-2026/cards/4601-4700.md#wang26co-data-strategies) · 中文
+- [FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26ga-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -211,6 +212,9 @@ Data selection, annotation, augmentation, and sampling.
 - [Is Data Shapley Not Better than Random in Data Selection? Ask NASH](../../conferences/icml-2026/cards/4401-4500.md#tian26c-data-strategies) · 中文
 - [Differentially Private Synthetic Data via APIs 4: Tabular Data](../../conferences/icml-2026/cards/4401-4500.md#tran26a-data-strategies) · 中文
 - [Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation](../../conferences/icml-2026/cards/4501-4600.md#vithana26a-data-strategies) · 中文
+- [Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model](../../conferences/icml-2026/cards/4701-4800.md#wang26fq-data-strategies) · 中文
+- [On the Power of Source Screening for Learning Shared Feature Extractors](../../conferences/icml-2026/cards/4701-4800.md#wang26ft-data-strategies) · 中文
+- [Patterning: The Dual of Interpretability](../../conferences/icml-2026/cards/4701-4800.md#wang26fw-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
