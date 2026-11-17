@@ -112,6 +112,20 @@
 - [智能体对训练接口的依赖诊断](../papers/llm.md#gu26g-evaluation) · What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?
 - [跨推理框架的静默错误定位](../papers/llm.md#gu26q-evaluation) · Ekka: Automated Diagnosis of Silent Errors in LLM Inference
 - [带执行反馈的 Triton 代码智能体评测](../papers/llm.md#guan26d-evaluation) · TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation
+- [推理轨迹的可监测性评测](../papers/llm.md#guan26h-evaluation) · Monitoring Monitorability
+- [工具故障下的智能体失败披露评测](../papers/llm.md#guo26k-evaluation) · Are Your Agents Upward Deceivers?
+- [并发代码的数据竞争定位](../papers/llm.md#guo26z-evaluation) · DRPBench: Evaluating LLMs in Concurrent Code Comprehension via Fine-Grained Data Race Prediction
+- [确定性状态追踪的轨迹漂移度量](../papers/llm.md#guo26ab-evaluation) · The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary
+- [金融问答的真实查询与在线评测](../papers/llm.md#guo26ah-evaluation) · BizFinBench.v2: Towards Reliable LLMs in Finance via Real-User Data and Offline/Online Bilingual Evaluation
+- [部署实例的伪随机指纹](../papers/llm.md#gurvan26a-evaluation) · FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences
+- [多智能体辩论的修订距离](../papers/llm.md#ha26a-evaluation) · Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate
+- [多智能体安全的分阶段评测](../papers/llm.md#hagag26a-evaluation) · Architecture Matters for Multi-Agent Security
+- [异质偏好的局部稳定排行榜](../papers/llm.md#haghtalab26a-evaluation) · Pluralistic Leaderboards
+- [偏好数据中的质量与偏见混杂](../papers/llm.md#hahm26a-evaluation) · Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases
+- [从旋转频率核识别长上下文注意力头](../papers/llm.md#han26e-evaluation) · Revealing Long-context Potential of Attention Heads via Frequency Kernels
+- [专家报告的细粒度核查](../papers/llm.md#han26m-evaluation) · DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation
+- [语言模型自述人格的行为验证](../papers/llm.md#han26n-evaluation) · The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs
+- [内生和提示诱发价值的机制分解](../papers/llm.md#han26q-evaluation) · Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in Large Language Models
 
 ### 计算机视觉
 
@@ -126,6 +140,7 @@
 - [类别遗忘的近邻输出泄漏](../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) · Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations
 - [概念感知的显著性图](../papers/computer-vision.md#elisha26a-evaluation) · ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution
 - [交互世界模型的统一动作编码](../papers/computer-vision.md#fang26l-evaluation) · iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework
+- [高斯泼溅资产的变换溯源](../papers/computer-vision.md#han26t-evaluation) · GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning
 
 ### 自然语言处理
 
@@ -138,11 +153,14 @@
 - [重写式事后文本水印评测](../papers/nlp.md#fernandez26b-evaluation) · How Good is Post-Hoc Watermarking With Language Model Rephrasing?
 - [机器翻译的无参考成对排序](../papers/nlp.md#gao26af-evaluation) · FiRE: Fine-grained Ranking Evaluation for Machine Translation
 - [音频自监督表征的凸门控探测](../papers/nlp.md#ghaffari26a-evaluation) · BAT: Better Audio Transformer Guided by Convex Gated Probing
+- [基于低概率词位的不确定性检测](../papers/nlp.md#guo26w-evaluation) · On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective
+- [基于真实音乐密度的生成检测](../papers/nlp.md#han26u-evaluation) · MusicDET: Zero-Shot AI-Generated Music Detection
 
 ### 强化学习
 
 - [防御强化学习奖励](../papers/reinforcement-learning.md#bates26a-evaluation) · Beyond Rewards in RL for Cyber Defence
 - [像素策略的单因素泛化评测](../papers/reinforcement-learning.md#cherepanov26a-evaluation) · KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning
+- [强化学习后门的逐步不确定性监测](../papers/reinforcement-learning.md#guo26f-evaluation) · PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent
 
 ### 机器人学
 
@@ -180,6 +198,7 @@
 - [多模态伪造的来源与事实双轴评测](../papers/multimodal.md#gao26g-evaluation) · FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content
 - [文本知识编辑的图像迁移诊断](../papers/multimodal.md#gao26ag-evaluation) · Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs
 - [手机 GUI 代理的分能力诊断](../papers/multimodal.md#gong26a-evaluation) · VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics
+- [图文一致的训练数据后门评测](../papers/multimodal.md#guo26q-evaluation) · CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models
 
 ### 机器学习基础与统计
 
@@ -207,6 +226,8 @@
 - [扩散生成的训练样本邻近偏差](../papers/ml-foundations.md#garnier-brun26a-evaluation) · Biased Generalization in Diffusion Models
 - [程序化算法发现任务](../papers/ml-foundations.md#goldie26a-evaluation) · Procedural Generation Of Algorithm Discovery Tasks in Machine Learning
 - [表征相似度的置换零校准](../papers/ml-foundations.md#groger26a-evaluation) · Revisiting the Platonic Representation Hypothesis: An Aristotelian View
+- [按决策收益度量解释价值](../papers/ml-foundations.md#guo26u-evaluation) · Explanations are a Means to an End: Decision Theoretic Explanation Evaluation
+- [时间序列预测的频域稳健性评测](../papers/ml-foundations.md#han26d-evaluation) · TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting
 
 ### 图学习与推荐
 
@@ -235,4 +256,5 @@
 - [按轮次回放蛋白工程候选筛选](../papers/scientific-ml.md#gao26ao-evaluation) · TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering
 - [多语言医疗模型的分维度可信评测](../papers/scientific-ml.md#ghosh26b-evaluation) · CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare
 - [视觉皮层映射的神经样本缩放](../papers/scientific-ml.md#gokce26a-evaluation) · Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex
+- [站点天气预报的物理与业务对照](../papers/scientific-ml.md#han26v-evaluation) · Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting
 <!-- classification:end -->

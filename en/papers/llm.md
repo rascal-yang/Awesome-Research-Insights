@@ -144,6 +144,10 @@ The linked short insights are available in Chinese.
 | [Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue](https://proceedings.mlr.press/v306/gao26aj.html) | [Read insight (中文)](../../papers/llm.md#gao26aj-reinforcement-learning) |
 | [Training AI Co-Scientists Using Rubric Rewards](https://proceedings.mlr.press/v306/goel26b.html) | [Read insight (中文)](../../papers/llm.md#goel26b-reinforcement-learning) |
 | [Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models](https://proceedings.mlr.press/v306/gong26d.html) | [Read insight (中文)](../../papers/llm.md#gong26d-reinforcement-learning) |
+| [MASH: Modeling Abstention via Selective Help-Seeking](https://proceedings.mlr.press/v306/gul26a.html) | [Read insight (中文)](../../papers/llm.md#gul26a-reinforcement-learning) |
+| [Learning to Route Languages for Multilingual Policy Optimization](https://proceedings.mlr.press/v306/guo26v.html) | [Read insight (中文)](../../papers/llm.md#guo26v-reinforcement-learning) |
+| [Adaptive Code Watermarking Through Reinforcement Learning](https://proceedings.mlr.press/v306/guo26am.html) | [Read insight (中文)](../../papers/llm.md#guo26am-reinforcement-learning) |
+| [MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints](https://proceedings.mlr.press/v306/han26r.html) | [Read insight (中文)](../../papers/llm.md#han26r-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -186,6 +190,10 @@ The linked short insights are available in Chinese.
 | [Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://proceedings.mlr.press/v306/fu26q.html) | [Read insight (中文)](../../papers/llm.md#fu26q-training-strategies) |
 | [One-shot Entropy Minimization for Language Model Reasoning](https://proceedings.mlr.press/v306/gao26d.html) | [Read insight (中文)](../../papers/llm.md#gao26d-training-strategies) |
 | [Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](https://proceedings.mlr.press/v306/ghadia26a.html) | [Read insight (中文)](../../papers/llm.md#ghadia26a-training-strategies) |
+| [Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization](https://proceedings.mlr.press/v306/gui26a.html) | [Read insight (中文)](../../papers/llm.md#gui26a-training-strategies) |
+| [Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models](https://proceedings.mlr.press/v306/ham26a.html) | [Read insight (中文)](../../papers/llm.md#ham26a-training-strategies) |
+| [Weight Decay Improves Language Model Plasticity](https://proceedings.mlr.press/v306/han26b.html) | [Read insight (中文)](../../papers/llm.md#han26b-training-strategies) |
+| [ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind](https://proceedings.mlr.press/v306/han26s.html) | [Read insight (中文)](../../papers/llm.md#han26s-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -211,6 +219,7 @@ The linked short insights are available in Chinese.
 | [Understanding Data Temporality Impact on Large Language Models Pre-training](https://proceedings.mlr.press/v306/fabre26a.html) | [Read insight (中文)](../../papers/llm.md#fabre26a-data-strategies) |
 | [Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning](https://proceedings.mlr.press/v306/fu26f.html) | [Read insight (中文)](../../papers/llm.md#fu26f-data-strategies) |
 | [Differentially Private Preference Data Synthesis for Large Language Model Alignment](https://proceedings.mlr.press/v306/gao26ae.html) | [Read insight (中文)](../../papers/llm.md#gao26ae-data-strategies) |
+| [MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering](https://proceedings.mlr.press/v306/guo26aa.html) | [Read insight (中文)](../../papers/llm.md#guo26aa-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -299,6 +308,13 @@ The linked short insights are available in Chinese.
 | [TileQ: Efficient Low-Rank Quantization of Mixture-of-Experts with 2D Tiling](https://proceedings.mlr.press/v306/gu26c.html) | [Read insight (中文)](../../papers/llm.md#gu26c-inference) |
 | [OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference](https://proceedings.mlr.press/v306/gu26h.html) | [Read insight (中文)](../../papers/llm.md#gu26h-inference) |
 | [Detecting the Semantic Fixed Point: A Geometric Framework for Efficient Inference](https://proceedings.mlr.press/v306/gu26k.html) | [Read insight (中文)](../../papers/llm.md#gu26k-inference) |
+| [MOC: Multi-Order Communication in LLM-based Multi-Agent Systems](https://proceedings.mlr.press/v306/guan26i.html) | [Read insight (中文)](../../papers/llm.md#guan26i-inference) |
+| [PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://proceedings.mlr.press/v306/gungordu26a.html) | [Read insight (中文)](../../papers/llm.md#gungordu26a-inference) |
+| [Dynamic Thinking-Token Selection for Efficient Reasoning in Large Reasoning Models](https://proceedings.mlr.press/v306/guo26b.html) | [Read insight (中文)](../../papers/llm.md#guo26b-inference) |
+| [BlueCodeAgent: A Blue Teaming Agent Powered by Automated Red Teaming for CodeGen AI](https://proceedings.mlr.press/v306/guo26o.html) | [Read insight (中文)](../../papers/llm.md#guo26o-inference) |
+| [EGG: An Expert-Guided Agent Framework for Kernel Generation](https://proceedings.mlr.press/v306/han26h.html) | [Read insight (中文)](../../papers/llm.md#han26h-inference) |
+| [PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding](https://proceedings.mlr.press/v306/han26k.html) | [Read insight (中文)](../../papers/llm.md#han26k-inference) |
+| [Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster](https://proceedings.mlr.press/v306/han26p.html) | [Read insight (中文)](../../papers/llm.md#han26p-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -420,6 +436,20 @@ The linked short insights are available in Chinese.
 | [What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?](https://proceedings.mlr.press/v306/gu26g.html) | [Read insight (中文)](../../papers/llm.md#gu26g-evaluation) |
 | [Ekka: Automated Diagnosis of Silent Errors in LLM Inference](https://proceedings.mlr.press/v306/gu26q.html) | [Read insight (中文)](../../papers/llm.md#gu26q-evaluation) |
 | [TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation](https://proceedings.mlr.press/v306/guan26d.html) | [Read insight (中文)](../../papers/llm.md#guan26d-evaluation) |
+| [Monitoring Monitorability](https://proceedings.mlr.press/v306/guan26h.html) | [Read insight (中文)](../../papers/llm.md#guan26h-evaluation) |
+| [Are Your Agents Upward Deceivers?](https://proceedings.mlr.press/v306/guo26k.html) | [Read insight (中文)](../../papers/llm.md#guo26k-evaluation) |
+| [DRPBench: Evaluating LLMs in Concurrent Code Comprehension via Fine-Grained Data Race Prediction](https://proceedings.mlr.press/v306/guo26z.html) | [Read insight (中文)](../../papers/llm.md#guo26z-evaluation) |
+| [The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary](https://proceedings.mlr.press/v306/guo26ab.html) | [Read insight (中文)](../../papers/llm.md#guo26ab-evaluation) |
+| [BizFinBench.v2: Towards Reliable LLMs in Finance via Real-User Data and Offline/Online Bilingual Evaluation](https://proceedings.mlr.press/v306/guo26ah.html) | [Read insight (中文)](../../papers/llm.md#guo26ah-evaluation) |
+| [FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences](https://proceedings.mlr.press/v306/gurvan26a.html) | [Read insight (中文)](../../papers/llm.md#gurvan26a-evaluation) |
+| [Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate](https://proceedings.mlr.press/v306/ha26a.html) | [Read insight (中文)](../../papers/llm.md#ha26a-evaluation) |
+| [Architecture Matters for Multi-Agent Security](https://proceedings.mlr.press/v306/hagag26a.html) | [Read insight (中文)](../../papers/llm.md#hagag26a-evaluation) |
+| [Pluralistic Leaderboards](https://proceedings.mlr.press/v306/haghtalab26a.html) | [Read insight (中文)](../../papers/llm.md#haghtalab26a-evaluation) |
+| [Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases](https://proceedings.mlr.press/v306/hahm26a.html) | [Read insight (中文)](../../papers/llm.md#hahm26a-evaluation) |
+| [Revealing Long-context Potential of Attention Heads via Frequency Kernels](https://proceedings.mlr.press/v306/han26e.html) | [Read insight (中文)](../../papers/llm.md#han26e-evaluation) |
+| [DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation](https://proceedings.mlr.press/v306/han26m.html) | [Read insight (中文)](../../papers/llm.md#han26m-evaluation) |
+| [The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs](https://proceedings.mlr.press/v306/han26n.html) | [Read insight (中文)](../../papers/llm.md#han26n-evaluation) |
+| [Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in Large Language Models](https://proceedings.mlr.press/v306/han26q.html) | [Read insight (中文)](../../papers/llm.md#han26q-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -444,4 +474,6 @@ The linked short insights are available in Chinese.
 | [The Cylindrical Representation Hypothesis for Language Model Steering](https://proceedings.mlr.press/v306/gao26al.html) | [Read insight (中文)](../../papers/llm.md#gao26al-theory-statistics) |
 | [Equivalence of Context and Parameter Updates in Modern Transformer Blocks](https://proceedings.mlr.press/v306/goldwaser26a.html) | [Read insight (中文)](../../papers/llm.md#goldwaser26a-theory-statistics) |
 | [Anytime-Valid Inference for Online Ranking of Large Language Models](https://proceedings.mlr.press/v306/gu26l.html) | [Read insight (中文)](../../papers/llm.md#gu26l-theory-statistics) |
+| [Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing](https://proceedings.mlr.press/v306/guo26j.html) | [Read insight (中文)](../../papers/llm.md#guo26j-theory-statistics) |
+| [Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](https://proceedings.mlr.press/v306/halder26a.html) | [Read insight (中文)](../../papers/llm.md#halder26a-theory-statistics) |
 <!-- classification:end -->

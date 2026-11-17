@@ -35,6 +35,7 @@
 | :--- | :--- | :--- |
 | <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | 视觉动作策略的连续网格采样 | 由任务条件预测少量连续采样坐标，并对各坐标周围四个视觉特征做双线性插值。可微采样允许动作监督调整坐标，也能保留位于图块边界的抓取线索。 |
 | <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | 视觉动作模型的通道相关门控 | 将视觉投影特征分成多个通道子空间，沿空间词元计算通道相关性，再经 sigmoid 门控筛选信息。用这一轻量适配器增强稳健的视觉语义，在论文扰动测试中提升操作策略的鲁棒性。 |
+| <a id="gyenes26a-modules"></a>[Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) | 精密操作的点云傅里叶编码 | 在点云送入策略编码器前，对每个笛卡尔坐标独立计算多波长正余弦特征。高频分量为模仿学习提供更直接的细微几何差异，便于区分插入与重新对位等动作。 |
 | <a id="reconvla-modules"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) | 指令前缀 | 把指令 token 放在图像 token 前，使视觉隐藏状态通过因果注意力读取任务信息。 [详细解读](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
 <a id="by-loss-functions"></a>
@@ -66,6 +67,7 @@
 | <a id="aichmuller26a-reinforcement-learning"></a>[Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | 规划与强化学习 | 用关系图网络预测价值启发式来指导加权 A*，再用搜索产生的经验做 Q-learning，形成可自我改进的规划循环。 |
 | <a id="chowdhury26a-reinforcement-learning"></a>[LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) | 按关键帧分配语言反馈奖励 | 让视觉语言模型对一次操作尝试生成结构化反思，把反思和机器人观测映射到同一表征空间。用状态与反馈相似度的时序变化构造奖励，并用关键帧权重把训练信号集中到关键步骤。 |
 | <a id="ge26a-reinforcement-learning"></a>[Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) | 以专家动态奖励后训练视频预测 | 把多步视频去噪视为策略，用同一编码空间里生成轨迹与专家未来帧的动态一致性作为终局奖励。这样可针对下游操作敏感的预测误差更新生成器，论文在仿真与真机操作中观察到成功率提升。 |
+| <a id="guo26ae-reinforcement-learning"></a>[CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://proceedings.mlr.press/v306/guo26ae.html) | 碰撞预测驱动的驾驶动作自纠正 | 自回归规划器提出运动 token 后用碰撞评论家检查短期风险。未通过的提议保留在注意力上下文中供下一次提议修正，实际执行最终接受的动作，再用世界模型轨迹对这段纠正过程做强化学习。 |
 
 <a id="by-training-strategies"></a>
 
@@ -76,6 +78,7 @@
 | <a id="chen26d-training-strategies"></a>[NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) | 终身轨迹规划 | 让非参数贝叶斯记忆按新驾驶场景增长簇，扩散规划器按簇专门化，并用旧簇生成回放样本以保留此前技能。 |
 | <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) | 部件位姿的弱监督对称估计 | 仅给出对称类型，让模型从点云和预测旋转估计对称轴概率。对镜面对称的候选平面，用原点云与镜像点云的 Chamfer 距离评估一致性，抑制缺少几何支持的平面。 |
 | <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) | 跨构型控制的奇异分量门控 | 将形态感知 Transformer 的权重拆成 SVD 秩一分量，训练时把分量分为通用、构型专用和任务专用三组。用肢体与关节参数以及任务文本生成软门控，部署时可重组与当前机器人和任务相关的控制器。 |
+| <a id="guo26i-training-strategies"></a>[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) | 视觉动作策略与世界模型的交替改进 | 先用当前机器人策略采集真实成功与失败轨迹，更新动作条件视频世界模型，再用它生成策略的额外滚动轨迹。将奖励模型筛出的成功合成轨迹和真实成功轨迹一起用于下一轮策略微调。 |
 
 <a id="by-data-strategies"></a>
 
@@ -89,6 +92,7 @@
 | <a id="choi26i-data-strategies"></a>[EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) | 具身动作风险的组合数据构造 | 为同类场景组合不同危险配置与动作，包括在危险仍存在时改用不会触发它的动作。将图像和动作配对并标注风险，使监督信号针对特定交互的后果，也覆盖容易引发误报的安全动作。 |
 | <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) | 跨来源点云的 VLA 训练 | 在统一训练流程中混合仿真、深度传感器和模型估计的点云，并以形状和尺度变化扩展输入。将学到的三维表征与对应的二维特征融合，可减轻部署时深度来源和尺度差异对操作策略的影响。 |
 | <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) | 人类视频的潜动作监督 | 将相邻视频帧之间的变化通过信息瓶颈编码成连续潜动作，作为未标注人类视频的控制信号预训练机器人世界模型，再以目标机器人真动作做适配。 |
+| <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) | 人形运动跟踪的可行性与难度选样 | 先过滤违反物理约束的轨迹，再用运动嵌入的最近距离和关节速度、加速度衡量多样性与动态难度。每次优先补充覆盖不足且复杂的动作，在论文的 AMASS 实验中，约 3% 的样本已能超过全量训练的跟踪基线。 |
 
 <a id="by-inference"></a>
 
@@ -107,6 +111,7 @@
 | <a id="choi26c-inference"></a>[Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) | 机器人技能代码的局部重绑定 | 把技能的控制流程保存为可执行代码，部署时用本体比对目标机器人的能力和原语 API。对确定的冲突，让小语言模型只填补受影响的代码片段，依赖现场感知的条件留到执行时检验和调整。 |
 | <a id="chun26a-inference"></a>[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) | 函数级 KV 缓存拼接与修补 | 缓存已验证函数的接口和实现。合成机器人代码策略时，将相关接口的 KV 状态拼入上下文并链接现成函数，执行反馈指出需调整的位置后，只重解码受影响的代码片段。 |
 | <a id="ding26r-inference"></a>[AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) | 导航中的熵驱动推理 | 将当前动作词元的平均熵与历史熵走势作为触发推理的先验，用奖励兼顾接近目标与推理成本，再逐步交由学习到的策略选择何时推理。 |
+| <a id="guo26l-inference"></a>[Reflex: Real-Time Vision-Language-Action Control through Streaming Inference](https://proceedings.mlr.press/v306/guo26l.html) | 视觉动作模型的流式分区缓存 | 把上下文分成固定指令、滑动视觉观测和动态流状态，只对第三部分注入去噪时刻并随迭代重算。感知前缀因此可增量复用，在固定输入下保持与整批注意力等价。 |
 
 <a id="by-representation-learning"></a>
 
@@ -115,6 +120,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="fan26f-representation-learning"></a>[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) | 跨机器人共享的视觉运动码 | 用双分支 VQ-VAE 将图像动态和机器人动作压入共享离散码本，再用这些码引导跨本体 VLA 预训练。统一的中间运动表示让不同机器人或视觉来源的动态知识可服务于下游控制。 |
+| <a id="habashy26a-representation-learning"></a>[Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](https://proceedings.mlr.press/v306/habashy26a.html) | 空间语义指针的测地流去噪 | 沿单位球上源向量与目标向量间的大圆弧构造训练路径，让模型回归切向速度并在采样中保持单位范数，有助于抑制脉冲神经 SLAM 路径积分的漂移。 |
 
 <a id="by-evaluation"></a>
 

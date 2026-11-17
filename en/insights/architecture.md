@@ -37,6 +37,8 @@ Model-wide design and information flow.
 - [DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](../../papers/computer-vision.md#gao26aq-architecture) · 中文
 - [Beyond Pixel Histories: World Models with Persistent 3D State](../../papers/computer-vision.md#garcin26a-architecture) · 中文
 - [Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](../../papers/computer-vision.md#gong26f-architecture) · 中文
+- [OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild](../../papers/computer-vision.md#guo26ag-architecture) · 中文
+- [Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction](../../papers/computer-vision.md#han26c-architecture) · 中文
 
 ### Natural Language Processing
 
@@ -122,4 +124,5 @@ Model-wide design and information flow.
 - [LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](../../papers/scientific-ml.md#feng26b-architecture) · 中文
 - [Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](../../papers/scientific-ml.md#friedl26a-architecture) · 中文
 - ["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](../../papers/scientific-ml.md#ghiglino26a-architecture) · 中文
+- [SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](../../papers/scientific-ml.md#hagnberger26a-architecture) · 中文
 <!-- classification:end -->

@@ -27,6 +27,7 @@
 - [语言模型预训练语料的时间排序](../papers/llm.md#fabre26a-data-strategies) · Understanding Data Temporality Impact on Large Language Models Pre-training
 - [指令数据的缺陷分诊](../papers/llm.md#fu26f-data-strategies) · Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning
 - [差分隐私偏好对合成](../papers/llm.md#gao26ae-data-strategies) · Differentially Private Preference Data Synthesis for Large Language Model Alignment
+- [复用可验证的软件环境](../papers/llm.md#guo26aa-data-strategies) · MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering
 
 ### 计算机视觉
 
@@ -59,6 +60,7 @@
 - [具身动作风险的组合数据构造](../papers/robotics.md#choi26i-data-strategies) · EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents
 - [跨来源点云的 VLA 训练](../papers/robotics.md#fan26b-data-strategies) · Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds
 - [人类视频的潜动作监督](../papers/robotics.md#gao26q-data-strategies) · DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
+- [人形运动跟踪的可行性与难度选样](../papers/robotics.md#guan26f-data-strategies) · LIMMT: Less Is More for Motion Tracking
 
 ### 多模态学习
 
@@ -74,6 +76,7 @@
 - [知识密集视频的分技能数据构造](../papers/multimodal.md#fu26s-data-strategies) · VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding
 - [视频到三维空间监督数据](../papers/multimodal.md#gao26o-data-strategies) · Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence
 - [图像到 CAD 的几何反馈扩增](../papers/multimodal.md#giannone26a-data-strategies) · GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback
+- [界面全量解析监督](../papers/multimodal.md#gurbuz26a-data-strategies) · ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision
 
 ### 机器学习基础与统计
 

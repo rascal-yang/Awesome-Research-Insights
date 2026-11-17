@@ -33,11 +33,13 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Event2Vec: Processing neuromorphic events directly by representations in vector space](../../papers/computer-vision.md#fang26o-representation-learning) · 中文
 - [ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning](../../papers/computer-vision.md#gao26ad-representation-learning) · 中文
 - [Learning Latent Action World Models in the Wild](../../papers/computer-vision.md#garrido26a-representation-learning) · 中文
+- [Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](../../papers/computer-vision.md#guo26e-representation-learning) · 中文
 
 ### Natural Language Processing
 
 - [Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](../../papers/nlp.md#cao26p-representation-learning) · 中文
 - [InstEmb: Instruction-Following Embeddings through Glimpses of the Future](../../papers/nlp.md#gao26h-representation-learning) · 中文
+- [Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](../../papers/nlp.md#gupta26c-representation-learning) · 中文
 
 ### Reinforcement Learning
 
@@ -46,6 +48,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 ### Robotics
 
 - [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](../../papers/robotics.md#fan26f-representation-learning) · 中文
+- [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](../../papers/robotics.md#habashy26a-representation-learning) · 中文
 
 ### Multimodal Learning
 
@@ -74,6 +77,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](../../papers/ml-foundations.md#fan26i-representation-learning) · 中文
 - [Sparse Autoencoders are Topic Models](../../papers/ml-foundations.md#girrbach26a-representation-learning) · 中文
 - [Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture – Bridging Predictive and Generative Self-Supervised Learning](../../papers/ml-foundations.md#gogl26a-representation-learning) · 中文
+- [Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](../../papers/ml-foundations.md#guo26an-representation-learning) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -85,6 +89,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Parametrized Power-Iteration Clustering for Directed Graphs](../../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) · 中文
 - [From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters](../../papers/graph-and-recommendation.md#du26o-representation-learning) · 中文
 - [Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation](../../papers/graph-and-recommendation.md#ezoe26a-representation-learning) · 中文
+- [CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation](../../papers/graph-and-recommendation.md#guo26p-representation-learning) · 中文
 
 ### Scientific Machine Learning
 
@@ -100,4 +105,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Adaptive Protein Tokenization](../../papers/scientific-ml.md#dilip26a-representation-learning) · 中文
 - [BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](../../papers/scientific-ml.md#du26f-representation-learning) · 中文
 - [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](../../papers/scientific-ml.md#gelard26a-representation-learning) · 中文
+- [SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](../../papers/scientific-ml.md#guo26a-representation-learning) · 中文
+- [Learning Permutation-invariant Macroscopic Dynamics](../../papers/scientific-ml.md#han26f-representation-learning) · 中文
 <!-- classification:end -->

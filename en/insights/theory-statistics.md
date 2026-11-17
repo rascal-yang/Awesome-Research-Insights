@@ -26,6 +26,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Cylindrical Representation Hypothesis for Language Model Steering](../../papers/llm.md#gao26al-theory-statistics) · 中文
 - [Equivalence of Context and Parameter Updates in Modern Transformer Blocks](../../papers/llm.md#goldwaser26a-theory-statistics) · 中文
 - [Anytime-Valid Inference for Online Ranking of Large Language Models](../../papers/llm.md#gu26l-theory-statistics) · 中文
+- [Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing](../../papers/llm.md#guo26j-theory-statistics) · 中文
+- [Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](../../papers/llm.md#halder26a-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -236,6 +238,14 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks](../../papers/ml-foundations.md#gronich26a-theory-statistics) · 中文
 - [An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems](../../papers/ml-foundations.md#gronlund26a-theory-statistics) · 中文
 - [Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data](../../papers/ml-foundations.md#gu26p-theory-statistics) · 中文
+- [On the Coordination of Value-Maximizing Bidders](../../papers/ml-foundations.md#guan26k-theory-statistics) · 中文
+- [Finite-Width Neural Tangent Kernels from Feynman Diagrams](../../papers/ml-foundations.md#guillen26a-theory-statistics) · 中文
+- [Axiomatic Atlas: A Prescriptive Framework for Neural Architecture Design](../../papers/ml-foundations.md#guo26n-theory-statistics) · 中文
+- [Front-Loaded Robust Conformal Prediction: Heavy Calibration, Minimal Test-Time Cost](../../papers/ml-foundations.md#h-zargarbashi26a-theory-statistics) · 中文
+- [Why Deep Jacobian Spectra Separate: Depth-Induced Scaling and Singular-Vector Alignment](../../papers/ml-foundations.md#haas26a-theory-statistics) · 中文
+- [Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions](../../papers/ml-foundations.md#habring26a-theory-statistics) · 中文
+- [Formalizing and Falsifying Causal Pathways of Rare Events](../../papers/ml-foundations.md#haghighat26a-theory-statistics) · 中文
+- [Lower Bounds for Frank-Wolfe on Strongly Convex Sets](../../papers/ml-foundations.md#halbey26a-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -248,6 +258,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](../../papers/graph-and-recommendation.md#fan26c-theory-statistics) · 中文
 - [Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](../../papers/graph-and-recommendation.md#fetrat-qharabagh26a-theory-statistics) · 中文
 - [Understanding Truncated Positional Encodings for Graph Neural Networks](../../papers/graph-and-recommendation.md#flora26a-theory-statistics) · 中文
+- [Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series](../../papers/graph-and-recommendation.md#guo26d-theory-statistics) · 中文
 
 ### Scientific Machine Learning
 

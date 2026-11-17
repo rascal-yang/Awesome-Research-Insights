@@ -99,6 +99,7 @@ The linked short insights are available in Chinese.
 | [DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](https://proceedings.mlr.press/v306/gerogiannis26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) |
 | [Online Robust Reinforcement Learning with General Function Approximation](https://proceedings.mlr.press/v306/ghosh26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) |
 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://proceedings.mlr.press/v306/goyal26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) |
+| [Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](https://proceedings.mlr.press/v306/han26i.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#han26i-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -122,6 +123,7 @@ The linked short insights are available in Chinese.
 | [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chang26a-inference) |
 | [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cui26h-inference) |
 | [SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](https://proceedings.mlr.press/v306/gu26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gu26a-inference) |
+| [RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://proceedings.mlr.press/v306/guo26r.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26r-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -139,6 +141,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Beyond Rewards in RL for Cyber Defence](https://proceedings.mlr.press/v306/bates26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bates26a-evaluation) |
 | [KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](https://proceedings.mlr.press/v306/cherepanov26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cherepanov26a-evaluation) |
+| [PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](https://proceedings.mlr.press/v306/guo26f.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26f-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

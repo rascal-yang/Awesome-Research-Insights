@@ -82,6 +82,8 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [视觉生成偏好对齐](../papers/computer-vision.md#bai26c-loss-functions) · Threshold-Guided Optimization for Visual Generative Models
 - [密集小目标计数](../papers/computer-vision.md#bo26a-loss-functions) · Benchmarking Dense and Indiscernible Object Counting with Blueberries
 - [单步超分辨率的全路径对齐](../papers/computer-vision.md#deng26e-loss-functions) · Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution
+- [全参考画质的锚定对抗训练](../papers/computer-vision.md#gushchin26a-loss-functions) · BiRQA: Bidirectional Robust Quality Assessment for Images
+- [类别遗忘的邻域保护与表征分散](../papers/computer-vision.md#ha26b-loss-functions) · Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack
 
 ### 自然语言处理
 
@@ -110,6 +112,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [图像实例约束的雷达场景流](../papers/multimodal.md#fu26r-loss-functions) · Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation
 - [统一视觉 token 的分量焦点损失](../papers/multimodal.md#gong26b-loss-functions) · Twins: Learn to Predict Unified Representations with Focal Loss
 - [整流流中的对比速度擦除](../papers/multimodal.md#grebe26a-loss-functions) · GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows
+- [CAD 参数词元的三维点监督](../papers/multimodal.md#guan26g-loss-functions) · Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation
 
 ### 机器学习基础与统计
 

@@ -33,11 +33,13 @@
 - [异步事件的逐事件向量化](../papers/computer-vision.md#fang26o-representation-learning) · Event2Vec: Processing neuromorphic events directly by representations in vector space
 - [扩散自编码的非对称语义蒸馏](../papers/computer-vision.md#gao26ad-representation-learning) · ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning
 - [真实视频中的连续潜动作](../papers/computer-vision.md#garrido26a-representation-learning) · Learning Latent Action World Models in the Wild
+- [以生成模型适配器编码视频](../papers/computer-vision.md#guo26e-representation-learning) · Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models
 
 ### 自然语言处理
 
 - [复杂表格理解](../papers/nlp.md#cao26p-representation-learning) · Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models
 - [用前瞻 token 蒸馏指令嵌入](../papers/nlp.md#gao26h-representation-learning) · InstEmb: Instruction-Following Embeddings through Glimpses of the Future
+- [对比学习的层级检索索引](../papers/nlp.md#gupta26c-representation-learning) · Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency
 
 ### 强化学习
 
@@ -46,6 +48,7 @@
 ### 机器人学
 
 - [跨机器人共享的视觉运动码](../papers/robotics.md#fan26f-representation-learning) · XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations
+- [空间语义指针的测地流去噪](../papers/robotics.md#habashy26a-representation-learning) · Geodesic Flow Matching for Denoising High-Dimensional Structured Representations
 
 ### 多模态学习
 
@@ -74,6 +77,7 @@
 - [连续演化因果机制的混合轨迹](../papers/ml-foundations.md#fan26i-representation-learning) · TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning
 - [稀疏自编码器的主题原子](../papers/ml-foundations.md#girrbach26a-representation-learning) · Sparse Autoencoders are Topic Models
 - [JEPA 的变分潜空间目标](../papers/ml-foundations.md#gogl26a-representation-learning) · Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture – Bridging Predictive and Generative Self-Supervised Learning
+- [缺失视图补全的邻域条件扩散](../papers/ml-foundations.md#guo26an-representation-learning) · Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion
 
 ### 图学习与推荐
 
@@ -85,6 +89,7 @@
 - [有向图的参数化幂迭代聚类](../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) · Parametrized Power-Iteration Clustering for Directed Graphs
 - [图分布的跨环境重心对齐](../papers/graph-and-recommendation.md#du26o-representation-learning) · From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters
 - [动态图的展开归一化拉普拉斯嵌入](../papers/graph-and-recommendation.md#ezoe26a-representation-learning) · Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation
+- [结构与语义共识的推荐对比学习](../papers/graph-and-recommendation.md#guo26p-representation-learning) · CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation
 
 ### 科学机器学习
 
@@ -100,4 +105,6 @@
 - [蛋白结构的可截断全局分词](../papers/scientific-ml.md#dilip26a-representation-learning) · Adaptive Protein Tokenization
 - [生理时序的分频幅相对齐](../papers/scientific-ml.md#du26f-representation-learning) · BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series
 - [转录组与甲基化的双模态掩码学习](../papers/scientific-ml.md#gelard26a-representation-learning) · Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning
+- [脉搏波词元的语义一致量化](../papers/scientific-ml.md#guo26a-representation-learning) · SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model
+- [无序微观系统的宏观状态表征](../papers/scientific-ml.md#han26f-representation-learning) · Learning Permutation-invariant Macroscopic Dynamics
 <!-- classification:end -->

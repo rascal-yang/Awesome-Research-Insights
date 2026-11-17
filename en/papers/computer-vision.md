@@ -34,6 +34,8 @@ The linked short insights are available in Chinese.
 | [DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](https://proceedings.mlr.press/v306/gao26aq.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26aq-architecture) |
 | [Beyond Pixel Histories: World Models with Persistent 3D State](https://proceedings.mlr.press/v306/garcin26a.html) | [Read insight (中文)](../../papers/computer-vision.md#garcin26a-architecture) |
 | [Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](https://proceedings.mlr.press/v306/gong26f.html) | [Read insight (中文)](../../papers/computer-vision.md#gong26f-architecture) |
+| [OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild](https://proceedings.mlr.press/v306/guo26ag.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26ag-architecture) |
+| [Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction](https://proceedings.mlr.press/v306/han26c.html) | [Read insight (中文)](../../papers/computer-vision.md#han26c-architecture) |
 
 <a id="by-modules"></a>
 
@@ -52,6 +54,8 @@ The linked short insights are available in Chinese.
 | [Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?](https://proceedings.mlr.press/v306/dhar26a.html) | [Read insight (中文)](../../papers/computer-vision.md#dhar26a-modules) |
 | [PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors](https://proceedings.mlr.press/v306/dong26i.html) | [Read insight (中文)](../../papers/computer-vision.md#dong26i-modules) |
 | [MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](https://proceedings.mlr.press/v306/duan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#duan26a-modules) |
+| [WildActor: Unconstrained Identity-Preserving Video Generation](https://proceedings.mlr.press/v306/guo26ad.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26ad-modules) |
+| [Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](https://proceedings.mlr.press/v306/hadji26a.html) | [Read insight (中文)](../../papers/computer-vision.md#hadji26a-modules) |
 | [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | [Read insight (中文)](../../papers/computer-vision.md#tian26k-modules) · [Full entry](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -63,6 +67,8 @@ The linked short insights are available in Chinese.
 | [Threshold-Guided Optimization for Visual Generative Models](https://proceedings.mlr.press/v306/bai26c.html) | [Read insight (中文)](../../papers/computer-vision.md#bai26c-loss-functions) |
 | [Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bo26a-loss-functions) |
 | [Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](https://proceedings.mlr.press/v306/deng26e.html) | [Read insight (中文)](../../papers/computer-vision.md#deng26e-loss-functions) |
+| [BiRQA: Bidirectional Robust Quality Assessment for Images](https://proceedings.mlr.press/v306/gushchin26a.html) | [Read insight (中文)](../../papers/computer-vision.md#gushchin26a-loss-functions) |
+| [Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](https://proceedings.mlr.press/v306/ha26b.html) | [Read insight (中文)](../../papers/computer-vision.md#ha26b-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -85,6 +91,8 @@ The linked short insights are available in Chinese.
 | [Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26as-reinforcement-learning) |
 | [RELO: Reinforcement Learning to Localize for Visual Object Tracking](https://proceedings.mlr.press/v306/chen26ea.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ea-reinforcement-learning) |
 | [Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://proceedings.mlr.press/v306/choi26o.html) | [Read insight (中文)](../../papers/computer-vision.md#choi26o-reinforcement-learning) |
+| [Probabilistic Salient Object Ranking](https://proceedings.mlr.press/v306/guo26h.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26h-reinforcement-learning) |
+| [ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models](https://proceedings.mlr.press/v306/han26o.html) | [Read insight (中文)](../../papers/computer-vision.md#han26o-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -167,6 +175,9 @@ The linked short insights are available in Chinese.
 | [(1D) Ordered Tokens Enable Efficient Test-Time Search](https://proceedings.mlr.press/v306/gao26x.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26x-inference) |
 | [Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models](https://proceedings.mlr.press/v306/gu26f.html) | [Read insight (中文)](../../papers/computer-vision.md#gu26f-inference) |
 | [R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations](https://proceedings.mlr.press/v306/gu26m.html) | [Read insight (中文)](../../papers/computer-vision.md#gu26m-inference) |
+| [Sample Margin-Aware Recalibration of Temperature Scaling](https://proceedings.mlr.press/v306/guo26s.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26s-inference) |
+| [Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models](https://proceedings.mlr.press/v306/gupta26a.html) | [Read insight (中文)](../../papers/computer-vision.md#gupta26a-inference) |
+| [Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them](https://proceedings.mlr.press/v306/han26l.html) | [Read insight (中文)](../../papers/computer-vision.md#han26l-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -191,6 +202,7 @@ The linked short insights are available in Chinese.
 | [Event2Vec: Processing neuromorphic events directly by representations in vector space](https://proceedings.mlr.press/v306/fang26o.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26o-representation-learning) |
 | [ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning](https://proceedings.mlr.press/v306/gao26ad.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26ad-representation-learning) |
 | [Learning Latent Action World Models in the Wild](https://proceedings.mlr.press/v306/garrido26a.html) | [Read insight (中文)](../../papers/computer-vision.md#garrido26a-representation-learning) |
+| [Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](https://proceedings.mlr.press/v306/guo26e.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26e-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -209,6 +221,7 @@ The linked short insights are available in Chinese.
 | [Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](https://proceedings.mlr.press/v306/ebrahimpour-boroojeny26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) |
 | [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](https://proceedings.mlr.press/v306/elisha26a.html) | [Read insight (中文)](../../papers/computer-vision.md#elisha26a-evaluation) |
 | [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](https://proceedings.mlr.press/v306/fang26l.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26l-evaluation) |
+| [GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning](https://proceedings.mlr.press/v306/han26t.html) | [Read insight (中文)](../../papers/computer-vision.md#han26t-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

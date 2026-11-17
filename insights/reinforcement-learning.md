@@ -79,6 +79,10 @@
 - [客服多轮决策的成本优势估计](../papers/llm.md#gao26aj-reinforcement-learning) · Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue
 - [从论文提取研究计划的评分奖励](../papers/llm.md#goel26b-reinforcement-learning) · Training AI Co-Scientists Using Rubric Rewards
 - [黑盒提示优化的模仿到探索课程](../papers/llm.md#gong26d-reinforcement-learning) · Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models
+- [按搜索成本训练选择性求助](../papers/llm.md#gul26a-reinforcement-learning) · MASH: Modeling Abstention via Selective Help-Seeking
+- [在线强化学习的多语言采样路由](../papers/llm.md#guo26v-reinforcement-learning) · Learning to Route Languages for Multilingual Policy Optimization
+- [代码水印的位置与词表策略](../papers/llm.md#guo26am-reinforcement-learning) · Adaptive Code Watermarking Through Reinforcement Learning
+- [用 L1 约束语言模型策略改变量](../papers/llm.md#han26r-reinforcement-learning) · MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints
 
 ### 计算机视觉
 
@@ -86,6 +90,8 @@
 - [流匹配测试时优化](../papers/computer-vision.md#chen26as-reinforcement-learning) · Test-Time Reinforcement Learning for Flow Matching
 - [目标跟踪定位策略](../papers/computer-vision.md#chen26ea-reinforcement-learning) · RELO: Reinforcement Learning to Localize for Visual Object Tracking
 - [扩散强化学习的样本似然估计](../papers/computer-vision.md#choi26o-reinforcement-learning) · Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design
+- [显著物体排序的多轨迹奖励](../papers/computer-vision.md#guo26h-reinforcement-learning) · Probabilistic Salient Object Ranking
+- [扩散模型的局部文本概念擦除](../papers/computer-vision.md#han26o-reinforcement-learning) · ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models
 
 ### 自然语言处理
 
@@ -146,6 +152,7 @@
 - [分段平稳老虎机的检测式重启](../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) · DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits
 - [在线稳健 Bellman 的对偶拟合](../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) · Online Robust Reinforcement Learning with General Function Approximation
 - [有限更新的组合 GLM 赌博机](../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) · Contextual Slate GLM Bandits with Limited Adaptivity
+- [由环境后验控制仿真到现实的策略风险](../papers/reinforcement-learning.md#han26i-reinforcement-learning) · Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -153,6 +160,7 @@
 - [规划与强化学习](../papers/robotics.md#aichmuller26a-reinforcement-learning) · Learning to Search and Searching to Learn for Generalization in Planning
 - [按关键帧分配语言反馈奖励](../papers/robotics.md#chowdhury26a-reinforcement-learning) · LAGEA: Language Guided Embodied Agents for Robotic Manipulation
 - [以专家动态奖励后训练视频预测](../papers/robotics.md#ge26a-reinforcement-learning) · Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics
+- [碰撞预测驱动的驾驶动作自纠正](../papers/robotics.md#guo26ae-reinforcement-learning) · CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving
 
 ### 多模态学习
 
@@ -165,6 +173,8 @@
 - [长尾回归的批级一致相关奖励](../papers/multimodal.md#du26j-reinforcement-learning) · Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression
 - [图像诱发情绪的排序奖励](../papers/multimodal.md#gao26l-reinforcement-learning) · EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment
 - [多模态推理的分段策略优化](../papers/multimodal.md#gao26n-reinforcement-learning) · Segment-Aligned Policy Optimization for Multi-Modal Reasoning
+- [多模态遗忘的拒答边界](../papers/multimodal.md#guang26a-reinforcement-learning) · ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models
+- [以自监督扰动构造视觉强化奖励](../papers/multimodal.md#guo26ak-reinforcement-learning) · SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning
 
 ### 图学习与推荐
 

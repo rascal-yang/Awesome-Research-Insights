@@ -44,6 +44,10 @@
 - [自回归转扩散的位置相关掩码](../papers/llm.md#fu26q-training-strategies) · Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed
 - [单样本自生成熵最小化](../papers/llm.md#gao26d-training-strategies) · One-shot Entropy Minimization for Language Model Reasoning
 - [上下文并行的按头显存复用](../papers/llm.md#ghadia26a-training-strategies) · Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking
+- [推理链的分段合并与补全](../papers/llm.md#gui26a-training-strategies) · Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization
+- [安全微调的缓冲与正交合并](../papers/llm.md#ham26a-training-strategies) · Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models
+- [预训练权重衰减与下游可塑性](../papers/llm.md#han26b-training-strategies) · Weight Decay Improves Language Model Plasticity
+- [对话中的反对意见建模](../papers/llm.md#han26s-training-strategies) · ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind
 
 ### 计算机视觉
 
@@ -73,6 +77,7 @@
 - [终身轨迹规划](../papers/robotics.md#chen26d-training-strategies) · NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts
 - [部件位姿的弱监督对称估计](../papers/robotics.md#chen26fw-training-strategies) · Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy
 - [跨构型控制的奇异分量门控](../papers/robotics.md#feng26n-training-strategies) · Knowledge Diversion for Efficient Morphology Control and Policy Transfer
+- [视觉动作策略与世界模型的交替改进](../papers/robotics.md#guo26i-training-strategies) · VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model
 
 ### 多模态学习
 
@@ -86,6 +91,7 @@
 - [多奖励条件的图像生成预训练](../papers/multimodal.md#dufour26a-training-strategies) · MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency
 - [多模态编码与融合的嵌套优化](../papers/multimodal.md#feng26m-training-strategies) · Multimodal Nested Learning for Decoupled and Coordinated Optimization
 - [长视频内容的一次性参数蒸馏](../papers/multimodal.md#guan26c-training-strategies) · From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations
+- [隐蔽文字识别的能力边界训练](../papers/multimodal.md#guo26aj-training-strategies) · ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning
 
 ### 机器学习基础与统计
 
@@ -122,6 +128,7 @@
 - [不规则时序图流的辅助轨迹监督](../papers/ml-foundations.md#gao26ac-training-strategies) · One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification
 - [联合能量模型的边缘采样](../papers/ml-foundations.md#geng26b-training-strategies) · Latent-Guided Cooperative Energy-Based Models
 - [表格 MLP 超参数并行集成](../papers/ml-foundations.md#gorishniy26a-training-strategies) · TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning
+- [在指数族中迁移微调因子](../papers/ml-foundations.md#guo26y-training-strategies) · Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations
 
 ### 图学习与推荐
 
@@ -144,4 +151,7 @@
 - [医学分割任务的在线分簇适配](../papers/scientific-ml.md#gao26s-training-strategies) · MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery
 - [按原子数缩放分子扩散先验](../papers/scientific-ml.md#gao26v-training-strategies) · Scaling the Prior: Size-Consistent Geometric Diffusion for 3D Molecular Generation
 - [网格模拟的模板监督与时序校正](../papers/scientific-ml.md#garnier26a-training-strategies) · Mesh Based Simulations with Spatial and Temporal awareness
+- [遥感多视图聚类的原型对齐](../papers/scientific-ml.md#guan26j-training-strategies) · Federated Multi-view Clustering for Remote Sensing Data
+- [蛋白突变的多源相对偏好蒸馏](../papers/scientific-ml.md#guo26c-training-strategies) · MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects
+- [用性能偏好训练单元版图脚本生成](../papers/scientific-ml.md#han26j-training-strategies) · Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM
 <!-- classification:end -->

@@ -27,6 +27,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Understanding Data Temporality Impact on Large Language Models Pre-training](../../papers/llm.md#fabre26a-data-strategies) · 中文
 - [Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning](../../papers/llm.md#fu26f-data-strategies) · 中文
 - [Differentially Private Preference Data Synthesis for Large Language Model Alignment](../../papers/llm.md#gao26ae-data-strategies) · 中文
+- [MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering](../../papers/llm.md#guo26aa-data-strategies) · 中文
 
 ### Computer Vision
 
@@ -59,6 +60,7 @@ Data selection, annotation, augmentation, and sampling.
 - [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](../../papers/robotics.md#choi26i-data-strategies) · 中文
 - [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](../../papers/robotics.md#fan26b-data-strategies) · 中文
 - [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](../../papers/robotics.md#gao26q-data-strategies) · 中文
+- [LIMMT: Less Is More for Motion Tracking](../../papers/robotics.md#guan26f-data-strategies) · 中文
 
 ### Multimodal Learning
 
@@ -74,6 +76,7 @@ Data selection, annotation, augmentation, and sampling.
 - [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](../../papers/multimodal.md#fu26s-data-strategies) · 中文
 - [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](../../papers/multimodal.md#gao26o-data-strategies) · 中文
 - [GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](../../papers/multimodal.md#giannone26a-data-strategies) · 中文
+- [ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](../../papers/multimodal.md#gurbuz26a-data-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 

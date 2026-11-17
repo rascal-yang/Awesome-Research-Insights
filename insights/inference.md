@@ -90,6 +90,13 @@
 - [MoE 二维分块低秩量化](../papers/llm.md#gu26c-inference) · TileQ: Efficient Low-Rank Quantization of Mixture-of-Experts with 2D Tiling
 - [按注意力输出扰动裁剪 KV 缓存](../papers/llm.md#gu26h-inference) · OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference
 - [由隐藏更新几何判定提前退出](../papers/llm.md#gu26k-inference) · Detecting the Semantic Fixed Point: A Geometric Framework for Efficient Inference
+- [多智能体的多跳消息合并](../papers/llm.md#guan26i-inference) · MOC: Multi-Order Communication in LLM-based Multi-Agent Systems
+- [启发式生成的推导图规划](../papers/llm.md#gungordu26a-inference) · PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs
+- [推理词元的重要性缓存淘汰](../papers/llm.md#guo26b-inference) · Dynamic Thinking-Token Selection for Efficient Reasoning in Large Reasoning Models
+- [代码安全的案例检索与动态核验](../papers/llm.md#guo26o-inference) · BlueCodeAgent: A Blue Teaming Agent Powered by Automated Red Teaming for CodeGen AI
+- [专家引导的分阶段 GPU 内核生成](../papers/llm.md#han26h-inference) · EGG: An Expert-Guided Agent Framework for Kernel Generation
+- [端云投机解码的流水与双阈值验证](../papers/llm.md#han26k-inference) · PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding
+- [按可恢复性分配词元计算](../papers/llm.md#han26p-inference) · Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster
 
 ### 计算机视觉
 
@@ -131,6 +138,9 @@
 - [粗到细图像词元的前缀搜索](../papers/computer-vision.md#gao26x-inference) · (1D) Ordered Tokens Enable Efficient Test-Time Search
 - [扩散生成的实例数布局控制](../papers/computer-vision.md#gu26f-inference) · Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models
 - [三维相对关系链的坐标分解](../papers/computer-vision.md#gu26m-inference) · R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations
+- [按分类间隔自适应温度校准](../papers/computer-vision.md#guo26s-inference) · Sample Margin-Aware Recalibration of Temperature Scaling
+- [多扩散模型的公平区域分工](../papers/computer-vision.md#gupta26a-inference) · Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models
+- [用两步视频生成约束后续运动相位](../papers/computer-vision.md#han26l-inference) · Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them
 
 ### 自然语言处理
 
@@ -139,6 +149,7 @@
 - [句子级水印](../papers/nlp.md#an26a-inference) · IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection
 - [全双工语音的异步检索](../papers/nlp.md#chien26b-inference) · MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models
 - [语音情感的稀疏特征干预](../papers/nlp.md#du26i-inference) · Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech
+- [稀疏编码的多向量倒排检索](../papers/nlp.md#guo26x-inference) · No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval
 
 ### 强化学习
 
@@ -146,6 +157,7 @@
 - [模型强化学习搜索](../papers/reinforcement-learning.md#chang26a-inference) · The Surprising Difficulty of Search in Model-Based Reinforcement Learning
 - [离线竞价的候选生成与价值筛选](../papers/reinforcement-learning.md#cui26h-inference) · DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation
 - [空域避碰策略的运动学约束](../papers/reinforcement-learning.md#gu26a-inference) · SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace
+- [为离线控制检索可达高回报子目标](../papers/reinforcement-learning.md#guo26r-inference) · RAD: Retrieval High-quality Demonstrations to Enhance Decision-making
 
 ### 机器人学
 
@@ -160,6 +172,7 @@
 - [机器人技能代码的局部重绑定](../papers/robotics.md#choi26c-inference) · Efficient Skill Grounding via Code Refactoring with Small Language Models
 - [函数级 KV 缓存拼接与修补](../papers/robotics.md#chun26a-inference) · Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents
 - [导航中的熵驱动推理](../papers/robotics.md#ding26r-inference) · AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation
+- [视觉动作模型的流式分区缓存](../papers/robotics.md#guo26l-inference) · Reflex: Real-Time Vision-Language-Action Control through Streaming Inference
 
 ### 多模态学习
 
@@ -187,6 +200,8 @@
 - [视觉词元压缩的平坦度路由](../papers/multimodal.md#gao26r-inference) · AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density
 - [安全阈值触发的早期推理纠偏](../papers/multimodal.md#ghosal26a-inference) · Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away
 - [文本反事实下的时序预测归因](../papers/multimodal.md#gu26r-inference) · What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions
+- [异常检测的跨模态重建替换](../papers/multimodal.md#guo26ai-inference) · Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer
+- [注意力引导的测试时提示适配](../papers/multimodal.md#hai26a-inference) · Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models
 
 ### 机器学习基础与统计
 
@@ -206,6 +221,7 @@
 - [扩散后验引导的似然边缘化](../papers/ml-foundations.md#geyfman26a-inference) · Calibrated Test-Time Guidance for Bayesian Inference
 - [生成式规划的按深度分桶搜索](../papers/ml-foundations.md#gieselmann26a-inference) · Efficient Test-time Inference for Generative Planning Models with OCL Search
 - [量化置信度的样本自适应缩放](../papers/ml-foundations.md#gu26j-inference) · Precision-Induced Miscalibration: Understanding and Correcting Confidence Distortion in Quantized Neural Networks
+- [联邦测试时的原型拓扑扩散](../papers/ml-foundations.md#guo26m-inference) · FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology
 
 ### 图学习与推荐
 
@@ -213,6 +229,8 @@
 - [在线推荐校准](../papers/graph-and-recommendation.md#bisht26b-inference) · CARE: Adaptive Calibration for Reliable Recommendations
 - [图注意力的 I/O 融合优化](../papers/graph-and-recommendation.md#fomina26a-inference) · On Efficient Scaling of GNNs via IO-Aware Layers Implementations
 - [知识图多跳搜索的语义补边](../papers/graph-and-recommendation.md#gao26t-inference) · Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs
+- [按需探查图拓扑的工具推理](../papers/graph-and-recommendation.md#guo26t-inference) · GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs
+- [冻结图网络的后验不确定性证据](../papers/graph-and-recommendation.md#guo26ac-inference) · X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks
 
 ### 科学机器学习
 
@@ -231,4 +249,5 @@
 - [干旱预测的多分辨率残差校正](../papers/scientific-ml.md#gao26p-inference) · Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting
 - [超大病理切片的动态倍率推理](../papers/scientific-ml.md#ge26b-inference) · Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning
 - [稀疏传感条件下的城市风场扩散](../papers/scientific-ml.md#giral26a-inference) · GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance
+- [原子势的平滑动态截断](../papers/scientific-ml.md#han26g-inference) · Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials
 <!-- classification:end -->

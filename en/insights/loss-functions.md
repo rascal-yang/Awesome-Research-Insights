@@ -80,6 +80,8 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Threshold-Guided Optimization for Visual Generative Models](../../papers/computer-vision.md#bai26c-loss-functions) · 中文
 - [Benchmarking Dense and Indiscernible Object Counting with Blueberries](../../papers/computer-vision.md#bo26a-loss-functions) · 中文
 - [Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](../../papers/computer-vision.md#deng26e-loss-functions) · 中文
+- [BiRQA: Bidirectional Robust Quality Assessment for Images](../../papers/computer-vision.md#gushchin26a-loss-functions) · 中文
+- [Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](../../papers/computer-vision.md#ha26b-loss-functions) · 中文
 
 ### Natural Language Processing
 
@@ -108,6 +110,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation](../../papers/multimodal.md#fu26r-loss-functions) · 中文
 - [Twins: Learn to Predict Unified Representations with Focal Loss](../../papers/multimodal.md#gong26b-loss-functions) · 中文
 - [GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows](../../papers/multimodal.md#grebe26a-loss-functions) · 中文
+- [Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation](../../papers/multimodal.md#guan26g-loss-functions) · 中文
 
 ### Machine Learning Foundations and Statistics
 

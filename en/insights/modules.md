@@ -90,6 +90,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?](../../papers/computer-vision.md#dhar26a-modules) · 中文
 - [PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors](../../papers/computer-vision.md#dong26i-modules) · 中文
 - [MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](../../papers/computer-vision.md#duan26a-modules) · 中文
+- [WildActor: Unconstrained Identity-Preserving Video Generation](../../papers/computer-vision.md#guo26ad-modules) · 中文
+- [Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](../../papers/computer-vision.md#hadji26a-modules) · 中文
 - [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../insights/modules.md#widen-the-student-distillation-interface)
 
 ### Natural Language Processing
@@ -100,6 +102,7 @@ Teacher features can be low rank for each image while occupying different subspa
 
 - [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](../../papers/robotics.md#feng26x-modules) · 中文
 - [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](../../papers/robotics.md#fu26x-modules) · 中文
+- [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../../papers/robotics.md#gyenes26a-modules) · 中文
 - [ReconVLA](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding)
 
 ### Multimodal Learning
@@ -109,6 +112,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [SPR: A Structured Prompt Refinement Network for Modality Missing](../../papers/multimodal.md#chen26dv-modules) · 中文
 - [OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](../../papers/multimodal.md#ding26e-modules) · 中文
 - [EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs](../../papers/multimodal.md#gong26g-modules) · 中文
+- [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](../../papers/multimodal.md#guo26af-modules) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -135,6 +139,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Decoupling The "What" and "Where" With Polar Coordinate Positional Embedding](../../papers/ml-foundations.md#gopalakrishnan26a-modules) · 中文
 - [Byte Pair Encoding for Efficient Time Series Forecasting](../../papers/ml-foundations.md#gotz26a-modules) · 中文
 - [Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion](../../papers/ml-foundations.md#gu26d-modules) · 中文
+- [GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](../../papers/ml-foundations.md#habib26a-modules) · 中文
 
 ### Graph Learning and Recommendation
 

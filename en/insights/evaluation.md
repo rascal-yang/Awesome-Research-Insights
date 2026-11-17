@@ -112,6 +112,20 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?](../../papers/llm.md#gu26g-evaluation) · 中文
 - [Ekka: Automated Diagnosis of Silent Errors in LLM Inference](../../papers/llm.md#gu26q-evaluation) · 中文
 - [TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation](../../papers/llm.md#guan26d-evaluation) · 中文
+- [Monitoring Monitorability](../../papers/llm.md#guan26h-evaluation) · 中文
+- [Are Your Agents Upward Deceivers?](../../papers/llm.md#guo26k-evaluation) · 中文
+- [DRPBench: Evaluating LLMs in Concurrent Code Comprehension via Fine-Grained Data Race Prediction](../../papers/llm.md#guo26z-evaluation) · 中文
+- [The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary](../../papers/llm.md#guo26ab-evaluation) · 中文
+- [BizFinBench.v2: Towards Reliable LLMs in Finance via Real-User Data and Offline/Online Bilingual Evaluation](../../papers/llm.md#guo26ah-evaluation) · 中文
+- [FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences](../../papers/llm.md#gurvan26a-evaluation) · 中文
+- [Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate](../../papers/llm.md#ha26a-evaluation) · 中文
+- [Architecture Matters for Multi-Agent Security](../../papers/llm.md#hagag26a-evaluation) · 中文
+- [Pluralistic Leaderboards](../../papers/llm.md#haghtalab26a-evaluation) · 中文
+- [Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases](../../papers/llm.md#hahm26a-evaluation) · 中文
+- [Revealing Long-context Potential of Attention Heads via Frequency Kernels](../../papers/llm.md#han26e-evaluation) · 中文
+- [DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation](../../papers/llm.md#han26m-evaluation) · 中文
+- [The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs](../../papers/llm.md#han26n-evaluation) · 中文
+- [Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in Large Language Models](../../papers/llm.md#han26q-evaluation) · 中文
 
 ### Computer Vision
 
@@ -126,6 +140,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](../../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) · 中文
 - [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](../../papers/computer-vision.md#elisha26a-evaluation) · 中文
 - [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](../../papers/computer-vision.md#fang26l-evaluation) · 中文
+- [GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning](../../papers/computer-vision.md#han26t-evaluation) · 中文
 
 ### Natural Language Processing
 
@@ -138,11 +153,14 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](../../papers/nlp.md#fernandez26b-evaluation) · 中文
 - [FiRE: Fine-grained Ranking Evaluation for Machine Translation](../../papers/nlp.md#gao26af-evaluation) · 中文
 - [BAT: Better Audio Transformer Guided by Convex Gated Probing](../../papers/nlp.md#ghaffari26a-evaluation) · 中文
+- [On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](../../papers/nlp.md#guo26w-evaluation) · 中文
+- [MusicDET: Zero-Shot AI-Generated Music Detection](../../papers/nlp.md#han26u-evaluation) · 中文
 
 ### Reinforcement Learning
 
 - [Beyond Rewards in RL for Cyber Defence](../../papers/reinforcement-learning.md#bates26a-evaluation) · 中文
 - [KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](../../papers/reinforcement-learning.md#cherepanov26a-evaluation) · 中文
+- [PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](../../papers/reinforcement-learning.md#guo26f-evaluation) · 中文
 
 ### Robotics
 
@@ -180,6 +198,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content](../../papers/multimodal.md#gao26g-evaluation) · 中文
 - [Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](../../papers/multimodal.md#gao26ag-evaluation) · 中文
 - [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](../../papers/multimodal.md#gong26a-evaluation) · 中文
+- [CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](../../papers/multimodal.md#guo26q-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -207,6 +226,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Biased Generalization in Diffusion Models](../../papers/ml-foundations.md#garnier-brun26a-evaluation) · 中文
 - [Procedural Generation Of Algorithm Discovery Tasks in Machine Learning](../../papers/ml-foundations.md#goldie26a-evaluation) · 中文
 - [Revisiting the Platonic Representation Hypothesis: An Aristotelian View](../../papers/ml-foundations.md#groger26a-evaluation) · 中文
+- [Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](../../papers/ml-foundations.md#guo26u-evaluation) · 中文
+- [TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](../../papers/ml-foundations.md#han26d-evaluation) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -235,4 +256,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering](../../papers/scientific-ml.md#gao26ao-evaluation) · 中文
 - [CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare](../../papers/scientific-ml.md#ghosh26b-evaluation) · 中文
 - [Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](../../papers/scientific-ml.md#gokce26a-evaluation) · 中文
+- [Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](../../papers/scientific-ml.md#han26v-evaluation) · 中文
 <!-- classification:end -->

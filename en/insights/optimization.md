@@ -162,6 +162,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling](../../papers/ml-foundations.md#gruhlke26a-optimization) · 中文
 - [Mirror Mean-Field Langevin Dynamics](../../papers/ml-foundations.md#gu26e-optimization) · 中文
 - [Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning](../../papers/ml-foundations.md#gu26n-optimization) · 中文
+- [Constrained Bayesian Experimental Design via Online Planning](../../papers/ml-foundations.md#guo26g-optimization) · 中文
+- [Discrete Adjoint Schrödinger Bridge Sampler](../../papers/ml-foundations.md#guo26al-optimization) · 中文
+- [Maximin Relative Improvement: Fair Learning as a Bargaining Problem](../../papers/ml-foundations.md#han26a-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -169,6 +172,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) · 中文
 - [Differentially Private Range Subgraph Counting](../../papers/graph-and-recommendation.md#chen26b-optimization) · 中文
 - [What Makes a Desired Graph for Relational Deep Learning?](../../papers/graph-and-recommendation.md#cheng26j-optimization) · 中文
+- [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../../papers/graph-and-recommendation.md#gupta26b-optimization) · 中文
 
 ### Scientific Machine Learning
 
@@ -179,4 +183,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../../papers/scientific-ml.md#fink26a-optimization) · 中文
 - [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](../../papers/scientific-ml.md#gao26j-optimization) · 中文
 - [Torus Graphs for Large Scale Neural Phase Analysis](../../papers/scientific-ml.md#goffinet26b-optimization) · 中文
+- [Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](../../papers/scientific-ml.md#guoze26a-optimization) · 中文
+- [Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](../../papers/scientific-ml.md#gutjahr26a-optimization) · 中文
+- [Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../../papers/scientific-ml.md#haddadnia26a-optimization) · 中文
 <!-- classification:end -->

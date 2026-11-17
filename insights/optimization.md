@@ -162,6 +162,9 @@
 - [张量列车求解扩散分数方程](../papers/ml-foundations.md#gruhlke26a-optimization) · Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling
 - [凸约束域上的镜像平均场朗之万动力学](../papers/ml-foundations.md#gu26e-optimization) · Mirror Mean-Field Langevin Dynamics
 - [跨域增量学习的掩码与轨迹调节](../papers/ml-foundations.md#gu26n-optimization) · Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning
+- [动态约束下的贝叶斯实验规划](../papers/ml-foundations.md#guo26g-optimization) · Constrained Bayesian Experimental Design via Online Planning
+- [离散 Schrödinger 桥的伴随匹配](../papers/ml-foundations.md#guo26al-optimization) · Discrete Adjoint Schrödinger Bridge Sampler
+- [群体公平的最大最小相对改善](../papers/ml-foundations.md#han26a-optimization) · Maximin Relative Improvement: Fair Learning as a Bargaining Problem
 
 ### 图学习与推荐
 
@@ -169,6 +172,7 @@
 - [公平排序聚合](../papers/graph-and-recommendation.md#chakraborty26b-optimization) · Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking
 - [隐私图查询](../papers/graph-and-recommendation.md#chen26b-optimization) · Differentially Private Range Subgraph Counting
 - [关系数据库的任务感知图结构优化](../papers/graph-and-recommendation.md#cheng26j-optimization) · What Makes a Desired Graph for Relational Deep Learning?
+- [演化图的粗化映射增量更新](../papers/graph-and-recommendation.md#gupta26b-optimization) · Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening
 
 ### 科学机器学习
 
@@ -179,4 +183,7 @@
 - [代数多重网格的稀疏粗层修正](../papers/scientific-ml.md#fink26a-optimization) · RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections
 - [量子激发态的多态重要性采样](../papers/scientific-ml.md#gao26j-optimization) · Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State
 - [大规模神经振荡相位图的随机分数匹配](../papers/scientific-ml.md#goffinet26b-optimization) · Torus Graphs for Large Scale Neural Phase Analysis
+- [几何潜变量到 PDE 场的可微优化](../papers/scientific-ml.md#guoze26a-optimization) · Geometry-Aware Neural Optimizer for Shape Optimization and Inversion
+- [约束分子生成的顺序微调](../papers/scientific-ml.md#gutjahr26a-optimization) · Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design
+- [分区赌博机分配化学筛选预算](../papers/scientific-ml.md#haddadnia26a-optimization) · Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space
 <!-- classification:end -->

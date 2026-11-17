@@ -32,6 +32,7 @@ The linked short insights are available in Chinese.
 | [SPR: A Structured Prompt Refinement Network for Modality Missing](https://proceedings.mlr.press/v306/chen26dv.html) | [Read insight (中文)](../../papers/multimodal.md#chen26dv-modules) |
 | [OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://proceedings.mlr.press/v306/ding26e.html) | [Read insight (中文)](../../papers/multimodal.md#ding26e-modules) |
 | [EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs](https://proceedings.mlr.press/v306/gong26g.html) | [Read insight (中文)](../../papers/multimodal.md#gong26g-modules) |
+| [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://proceedings.mlr.press/v306/guo26af.html) | [Read insight (中文)](../../papers/multimodal.md#guo26af-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -49,6 +50,7 @@ The linked short insights are available in Chinese.
 | [Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation](https://proceedings.mlr.press/v306/fu26r.html) | [Read insight (中文)](../../papers/multimodal.md#fu26r-loss-functions) |
 | [Twins: Learn to Predict Unified Representations with Focal Loss](https://proceedings.mlr.press/v306/gong26b.html) | [Read insight (中文)](../../papers/multimodal.md#gong26b-loss-functions) |
 | [GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows](https://proceedings.mlr.press/v306/grebe26a.html) | [Read insight (中文)](../../papers/multimodal.md#grebe26a-loss-functions) |
+| [Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation](https://proceedings.mlr.press/v306/guan26g.html) | [Read insight (中文)](../../papers/multimodal.md#guan26g-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -74,6 +76,8 @@ The linked short insights are available in Chinese.
 | [Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](https://proceedings.mlr.press/v306/du26j.html) | [Read insight (中文)](../../papers/multimodal.md#du26j-reinforcement-learning) |
 | [EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment](https://proceedings.mlr.press/v306/gao26l.html) | [Read insight (中文)](../../papers/multimodal.md#gao26l-reinforcement-learning) |
 | [Segment-Aligned Policy Optimization for Multi-Modal Reasoning](https://proceedings.mlr.press/v306/gao26n.html) | [Read insight (中文)](../../papers/multimodal.md#gao26n-reinforcement-learning) |
+| [ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](https://proceedings.mlr.press/v306/guang26a.html) | [Read insight (中文)](../../papers/multimodal.md#guang26a-reinforcement-learning) |
+| [SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](https://proceedings.mlr.press/v306/guo26ak.html) | [Read insight (中文)](../../papers/multimodal.md#guo26ak-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -91,6 +95,7 @@ The linked short insights are available in Chinese.
 | [MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](https://proceedings.mlr.press/v306/dufour26a.html) | [Read insight (中文)](../../papers/multimodal.md#dufour26a-training-strategies) |
 | [Multimodal Nested Learning for Decoupled and Coordinated Optimization](https://proceedings.mlr.press/v306/feng26m.html) | [Read insight (中文)](../../papers/multimodal.md#feng26m-training-strategies) |
 | [From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](https://proceedings.mlr.press/v306/guan26c.html) | [Read insight (中文)](../../papers/multimodal.md#guan26c-training-strategies) |
+| [ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](https://proceedings.mlr.press/v306/guo26aj.html) | [Read insight (中文)](../../papers/multimodal.md#guo26aj-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -110,6 +115,7 @@ The linked short insights are available in Chinese.
 | [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://proceedings.mlr.press/v306/fu26s.html) | [Read insight (中文)](../../papers/multimodal.md#fu26s-data-strategies) |
 | [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://proceedings.mlr.press/v306/gao26o.html) | [Read insight (中文)](../../papers/multimodal.md#gao26o-data-strategies) |
 | [GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](https://proceedings.mlr.press/v306/giannone26a.html) | [Read insight (中文)](../../papers/multimodal.md#giannone26a-data-strategies) |
+| [ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](https://proceedings.mlr.press/v306/gurbuz26a.html) | [Read insight (中文)](../../papers/multimodal.md#gurbuz26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -141,6 +147,8 @@ The linked short insights are available in Chinese.
 | [AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density](https://proceedings.mlr.press/v306/gao26r.html) | [Read insight (中文)](../../papers/multimodal.md#gao26r-inference) |
 | [Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away](https://proceedings.mlr.press/v306/ghosal26a.html) | [Read insight (中文)](../../papers/multimodal.md#ghosal26a-inference) |
 | [What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions](https://proceedings.mlr.press/v306/gu26r.html) | [Read insight (中文)](../../papers/multimodal.md#gu26r-inference) |
+| [Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer](https://proceedings.mlr.press/v306/guo26ai.html) | [Read insight (中文)](../../papers/multimodal.md#guo26ai-inference) |
+| [Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](https://proceedings.mlr.press/v306/hai26a.html) | [Read insight (中文)](../../papers/multimodal.md#hai26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -188,6 +196,7 @@ The linked short insights are available in Chinese.
 | [FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content](https://proceedings.mlr.press/v306/gao26g.html) | [Read insight (中文)](../../papers/multimodal.md#gao26g-evaluation) |
 | [Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](https://proceedings.mlr.press/v306/gao26ag.html) | [Read insight (中文)](../../papers/multimodal.md#gao26ag-evaluation) |
 | [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](https://proceedings.mlr.press/v306/gong26a.html) | [Read insight (中文)](../../papers/multimodal.md#gong26a-evaluation) |
+| [CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](https://proceedings.mlr.press/v306/guo26q.html) | [Read insight (中文)](../../papers/multimodal.md#guo26q-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

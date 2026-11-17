@@ -44,6 +44,10 @@ Training schedules, curricula, and task or stage composition.
 - [Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](../../papers/llm.md#fu26q-training-strategies) · 中文
 - [One-shot Entropy Minimization for Language Model Reasoning](../../papers/llm.md#gao26d-training-strategies) · 中文
 - [Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](../../papers/llm.md#ghadia26a-training-strategies) · 中文
+- [Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization](../../papers/llm.md#gui26a-training-strategies) · 中文
+- [Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models](../../papers/llm.md#ham26a-training-strategies) · 中文
+- [Weight Decay Improves Language Model Plasticity](../../papers/llm.md#han26b-training-strategies) · 中文
+- [ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind](../../papers/llm.md#han26s-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -73,6 +77,7 @@ Training schedules, curricula, and task or stage composition.
 - [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](../../papers/robotics.md#chen26d-training-strategies) · 中文
 - [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](../../papers/robotics.md#chen26fw-training-strategies) · 中文
 - [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](../../papers/robotics.md#feng26n-training-strategies) · 中文
+- [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](../../papers/robotics.md#guo26i-training-strategies) · 中文
 
 ### Multimodal Learning
 
@@ -86,6 +91,7 @@ Training schedules, curricula, and task or stage composition.
 - [MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](../../papers/multimodal.md#dufour26a-training-strategies) · 中文
 - [Multimodal Nested Learning for Decoupled and Coordinated Optimization](../../papers/multimodal.md#feng26m-training-strategies) · 中文
 - [From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](../../papers/multimodal.md#guan26c-training-strategies) · 中文
+- [ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](../../papers/multimodal.md#guo26aj-training-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -122,6 +128,7 @@ Training schedules, curricula, and task or stage composition.
 - [One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification](../../papers/ml-foundations.md#gao26ac-training-strategies) · 中文
 - [Latent-Guided Cooperative Energy-Based Models](../../papers/ml-foundations.md#geng26b-training-strategies) · 中文
 - [TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](../../papers/ml-foundations.md#gorishniy26a-training-strategies) · 中文
+- [Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations](../../papers/ml-foundations.md#guo26y-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -144,4 +151,7 @@ Training schedules, curricula, and task or stage composition.
 - [MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery](../../papers/scientific-ml.md#gao26s-training-strategies) · 中文
 - [Scaling the Prior: Size-Consistent Geometric Diffusion for 3D Molecular Generation](../../papers/scientific-ml.md#gao26v-training-strategies) · 中文
 - [Mesh Based Simulations with Spatial and Temporal awareness](../../papers/scientific-ml.md#garnier26a-training-strategies) · 中文
+- [Federated Multi-view Clustering for Remote Sensing Data](../../papers/scientific-ml.md#guan26j-training-strategies) · 中文
+- [MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](../../papers/scientific-ml.md#guo26c-training-strategies) · 中文
+- [Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](../../papers/scientific-ml.md#han26j-training-strategies) · 中文
 <!-- classification:end -->

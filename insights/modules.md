@@ -94,6 +94,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [卷积权重与特征的双空间扰动](../papers/computer-vision.md#dhar26a-modules) · Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?
 - [偏振物理先验的透明物体深度](../papers/computer-vision.md#dong26i-modules) · PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors
 - [红外可见光融合的卷积分支折叠](../papers/computer-vision.md#duan26a-modules) · MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization
+- [人体视频的非对称身份注意力](../papers/computer-vision.md#guo26ad-modules) · WildActor: Unconstrained Identity-Preserving Video Generation
+- [超分辨率的跨尺度词元前缀](../papers/computer-vision.md#hadji26a-modules) · Hierarchical Image Tokenization for Multi-Scale Image Super Resolution
 - [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 ### 自然语言处理
@@ -104,6 +106,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 
 - [视觉动作策略的连续网格采样](../papers/robotics.md#feng26x-modules) · See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model
 - [视觉动作模型的通道相关门控](../papers/robotics.md#fu26x-modules) · StableVLA: Towards Robust Vision-Language-Action Models without Extra Data
+- [精密操作的点云傅里叶编码](../papers/robotics.md#gyenes26a-modules) · Fourier Features Let Agents Learn High Precision Policies with Imitation Learning
 - [指令前缀](../papers/robotics.md#reconvla-modules) · ReconVLA
 
 ### 多模态学习
@@ -113,6 +116,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [缺失模态的结构化提示](../papers/multimodal.md#chen26dv-modules) · SPR: A Structured Prompt Refinement Network for Modality Missing
 - [音视频非对称 token 压缩](../papers/multimodal.md#ding26e-modules) · OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
 - [视听稀疏采样的 RoPE 抗混叠](../papers/multimodal.md#gong26g-modules) · EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs
+- [用位置编码绑定人物与音色](../papers/multimodal.md#guo26af-modules) · DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation
 
 ### 机器学习基础与统计
 
@@ -139,6 +143,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [位置与内容分离的极坐标编码](../papers/ml-foundations.md#gopalakrishnan26a-modules) · Decoupling The "What" and "Where" With Polar Coordinate Positional Embedding
 - [时序预测的可变长模式词元](../papers/ml-foundations.md#gotz26a-modules) · Byte Pair Encoding for Efficient Time Series Forecasting
 - [ANN 到 SNN 的递推时序编码](../papers/ml-foundations.md#gu26d-modules) · Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion
+- [高维表格的相关特征分组压缩](../papers/ml-foundations.md#habib26a-modules) · GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data
 
 ### 图学习与推荐
 

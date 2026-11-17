@@ -77,6 +77,10 @@ Aggregating rewards before group normalization can map different combinations to
 - [Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue](../../papers/llm.md#gao26aj-reinforcement-learning) · 中文
 - [Training AI Co-Scientists Using Rubric Rewards](../../papers/llm.md#goel26b-reinforcement-learning) · 中文
 - [Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models](../../papers/llm.md#gong26d-reinforcement-learning) · 中文
+- [MASH: Modeling Abstention via Selective Help-Seeking](../../papers/llm.md#gul26a-reinforcement-learning) · 中文
+- [Learning to Route Languages for Multilingual Policy Optimization](../../papers/llm.md#guo26v-reinforcement-learning) · 中文
+- [Adaptive Code Watermarking Through Reinforcement Learning](../../papers/llm.md#guo26am-reinforcement-learning) · 中文
+- [MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints](../../papers/llm.md#han26r-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -84,6 +88,8 @@ Aggregating rewards before group normalization can map different combinations to
 - [Test-Time Reinforcement Learning for Flow Matching](../../papers/computer-vision.md#chen26as-reinforcement-learning) · 中文
 - [RELO: Reinforcement Learning to Localize for Visual Object Tracking](../../papers/computer-vision.md#chen26ea-reinforcement-learning) · 中文
 - [Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](../../papers/computer-vision.md#choi26o-reinforcement-learning) · 中文
+- [Probabilistic Salient Object Ranking](../../papers/computer-vision.md#guo26h-reinforcement-learning) · 中文
+- [ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models](../../papers/computer-vision.md#han26o-reinforcement-learning) · 中文
 
 ### Natural Language Processing
 
@@ -144,6 +150,7 @@ Aggregating rewards before group normalization can map different combinations to
 - [DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](../../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) · 中文
 - [Online Robust Reinforcement Learning with General Function Approximation](../../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) · 中文
 - [Contextual Slate GLM Bandits with Limited Adaptivity](../../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) · 中文
+- [Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](../../papers/reinforcement-learning.md#han26i-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -151,6 +158,7 @@ Aggregating rewards before group normalization can map different combinations to
 - [Learning to Search and Searching to Learn for Generalization in Planning](../../papers/robotics.md#aichmuller26a-reinforcement-learning) · 中文
 - [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](../../papers/robotics.md#chowdhury26a-reinforcement-learning) · 中文
 - [Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](../../papers/robotics.md#ge26a-reinforcement-learning) · 中文
+- [CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](../../papers/robotics.md#guo26ae-reinforcement-learning) · 中文
 
 ### Multimodal Learning
 
@@ -163,6 +171,8 @@ Aggregating rewards before group normalization can map different combinations to
 - [Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](../../papers/multimodal.md#du26j-reinforcement-learning) · 中文
 - [EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment](../../papers/multimodal.md#gao26l-reinforcement-learning) · 中文
 - [Segment-Aligned Policy Optimization for Multi-Modal Reasoning](../../papers/multimodal.md#gao26n-reinforcement-learning) · 中文
+- [ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](../../papers/multimodal.md#guang26a-reinforcement-learning) · 中文
+- [SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](../../papers/multimodal.md#guo26ak-reinforcement-learning) · 中文
 
 ### Graph Learning and Recommendation
 

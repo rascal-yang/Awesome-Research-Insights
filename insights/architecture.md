@@ -37,6 +37,8 @@
 - [按类别难度隔离位姿学习梯度](../papers/computer-vision.md#gao26aq-architecture) · DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation
 - [持久三维状态的交互视频世界模型](../papers/computer-vision.md#garcin26a-architecture) · Beyond Pixel Histories: World Models with Persistent 3D State
 - [姿态可控插入的三路视觉条件](../papers/computer-vision.md#gong26f-architecture) · Direct 3D-Aware Object Insertion via Decomposed Visual Proxies
+- [内容伪迹分离的生成图像鉴别](../papers/computer-vision.md#guo26ag-architecture) · OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild
+- [压缩高光谱重建的局部与全局协调](../papers/computer-vision.md#han26c-architecture) · Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction
 
 ### 自然语言处理
 
@@ -122,4 +124,5 @@
 - [脑电潜事件的电生理先验](../papers/scientific-ml.md#feng26b-architecture) · LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification
 - [辛降维的 Hamilton 动力学](../papers/scientific-ml.md#friedl26a-architecture) · Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach
 - [飞行器拓扑与连续参数的层级扩散](../papers/scientific-ml.md#ghiglino26a-architecture) · "Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design
+- [点云到气动场的跨层解码](../papers/scientific-ml.md#hagnberger26a-architecture) · SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model
 <!-- classification:end -->

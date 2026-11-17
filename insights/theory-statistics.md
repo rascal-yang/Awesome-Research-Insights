@@ -26,6 +26,8 @@
 - [语言模型干预的样本特异几何](../papers/llm.md#gao26al-theory-statistics) · The Cylindrical Representation Hypothesis for Language Model Steering
 - [上下文效应的精确参数等价](../papers/llm.md#goldwaser26a-theory-statistics) · Equivalence of Context and Parameter Updates in Modern Transformer Blocks
 - [在线语言模型排名的任意时推断](../papers/llm.md#gu26l-theory-statistics) · Anytime-Valid Inference for Online Ranking of Large Language Models
+- [事实记忆的率失真界](../papers/llm.md#guo26j-theory-statistics) · Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing
+- [裁判误设下的最优推理采样数](../papers/llm.md#halder26a-theory-statistics) · Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling
 
 ### 计算机视觉
 
@@ -236,6 +238,14 @@
 - [动量优化器的范数间隔偏置](../papers/ml-foundations.md#gronich26a-theory-statistics) · The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks
 - [稀疏线性求解的量子查询分离](../papers/ml-foundations.md#gronlund26a-theory-statistics) · An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems
 - [异质面板的稀疏 Granger 信号筛查](../papers/ml-foundations.md#gu26p-theory-statistics) · Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data
+- [价值最大化竞价的组内协调](../papers/ml-foundations.md#guan26k-theory-statistics) · On the Coordination of Value-Maximizing Bidders
+- [有限宽度神经切线核的图展开](../papers/ml-foundations.md#guillen26a-theory-statistics) · Finite-Width Neural Tangent Kernels from Feynman Diagrams
+- [神经架构响应性的最小割证书](../papers/ml-foundations.md#guo26n-theory-statistics) · Axiomatic Atlas: A Prescriptive Framework for Neural Architecture Design
+- [前置校准的鲁棒保形预测](../papers/ml-foundations.md#h-zargarbashi26a-theory-statistics) · Front-Loaded Robust Conformal Prediction: Heavy Calibration, Minimal Test-Time Cost
+- [固定激活区的深层雅可比谱](../papers/ml-foundations.md#haas26a-theory-statistics) · Why Deep Jacobian Spectra Separate: Depth-Induced Scaling and Singular-Vector Alignment
+- [时变朗之万退火的正向 KL 收敛](../papers/ml-foundations.md#habring26a-theory-statistics) · Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions
+- [罕见事件因果路径的可证伪检验](../papers/ml-foundations.md#haghighat26a-theory-statistics) · Formalizing and Falsifying Causal Pathways of Rare Events
+- [强凸集上 Frank–Wolfe 迭代下界](../papers/ml-foundations.md#halbey26a-theory-statistics) · Lower Bounds for Frank-Wolfe on Strongly Convex Sets
 
 ### 图学习与推荐
 
@@ -248,6 +258,7 @@
 - [网络抽样偏好的福利校正](../papers/graph-and-recommendation.md#fan26c-theory-statistics) · Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation
 - [图算法的局部指令精确执行](../papers/graph-and-recommendation.md#fetrat-qharabagh26a-theory-statistics) · Learning to Execute Graph Algorithms Exactly with Graph Neural Networks
 - [截断图位置编码的表达能力](../papers/graph-and-recommendation.md#flora26a-theory-statistics) · Understanding Truncated Positional Encodings for Graph Neural Networks
+- [图时序的条件频谱共形校准](../papers/graph-and-recommendation.md#guo26d-theory-statistics) · Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series
 
 ### 科学机器学习
 
