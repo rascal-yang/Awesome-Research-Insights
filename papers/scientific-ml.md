@@ -279,7 +279,6 @@
 - <a id="geenjaar26a-data-strategies"></a>[A robust PPG foundation model using multimodal physiological supervision](../conferences/icml-2026/cards/1201-1300.md#paper-geenjaar26a)
 - <a id="huynh26a-data-strategies"></a>[Active Timepoint Selection for Learning Measure-Valued Trajectories](../conferences/icml-2026/cards/1701-1800.md#paper-huynh26a)
 - <a id="li26jn-data-strategies"></a>[Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../conferences/icml-2026/cards/2601-2700.md#paper-li26jn)
-- <a id="makarov26a-data-strategies"></a>[TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins](../conferences/icml-2026/cards/3101-3200.md#paper-makarov26a)
 - <a id="saegert26a-data-strategies"></a>[Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression](../conferences/icml-2026/cards/3901-4000.md#paper-saegert26a)
 
 <a id="by-inference"></a>

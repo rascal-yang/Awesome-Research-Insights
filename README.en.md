@@ -16,7 +16,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest screening · 2026-11-18** · [ICML 2026 · 1,902 / 6,552 screened · 4,056 included](conferences/icml-2026/README.md)
+**Latest screening · 2026-11-18** · [ICML 2026 · 1,904 / 6,552 screened · 4,055 included](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -32,9 +32,9 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 418 | Learning and reasoning across vision, text, audio, and other modalities. |
 | <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 1002 | General learning methods, optimization, learning theory, and inference. |
 | <a id="graph-and-recommendation"></a>[Graph Learning and Recommendation](en/papers/graph-and-recommendation.md) | 158 | Graph models, knowledge graphs, and recommender systems. |
-| <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 405 | Machine learning for physics, medicine, biology, and engineering. |
+| <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 404 | Machine learning for physics, medicine, biology, and engineering. |
 
-**4,057 papers · 4,058 mechanisms.**
+**4,056 papers · 4,057 mechanisms.**
 
 <a id="insights-by-technical-category"></a>
 
@@ -48,7 +48,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="optimization"></a>[Optimization](en/insights/optimization.md) | 405 | Gradient updates, solvers, and optimization dynamics. |
 | <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[Reinforcement Learning Methods](en/insights/reinforcement-learning.md) | 396 | Rewards, exploration, credit assignment, and policy updates. |
 | <a id="training-strategies"></a>[Training Strategies](en/insights/training-strategies.md) | 355 | Schedules, fine-tuning, distillation, and transfer. |
-| <a id="data-strategies"></a>[Data Strategies](en/insights/data-strategies.md) | 164 | Data construction, selection, annotation, and sampling. |
+| <a id="data-strategies"></a>[Data Strategies](en/insights/data-strategies.md) | 163 | Data construction, selection, annotation, and sampling. |
 | <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 611 | Decoding, search, test-time adaptation, and efficient execution. |
 | [Representation Learning](en/insights/representation-learning.md) | 278 | Representation extraction, alignment, transfer, and disentanglement. |
 | [Evaluation and Diagnostics](en/insights/evaluation.md) | 578 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
@@ -56,11 +56,11 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 ## Recent Updates
 
+- **2026-11-18** · Reviewed 2 ICML 2026 cards and removed 1.
+
 - **2026-11-18** · Screened ICML 2026 papers 3188 and updated the indexes.
 
 - **2026-11-18** · Screened ICML 2026 papers 3165 and updated the indexes.
-
-- **2026-11-18** · Reviewed 349 ICML 2026 cards and removed 12.
 
 <a id="icml-2026-first-batch"></a>
 

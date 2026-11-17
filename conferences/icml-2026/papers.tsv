@@ -3191,7 +3191,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3190	maiti26a	Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners	https://proceedings.mlr.press/v306/maiti26a.html		written
 3191	maity26a	Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates	https://proceedings.mlr.press/v306/maity26a.html		written
 3192	majumdar26a	Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards	https://proceedings.mlr.press/v306/majumdar26a.html		written
-3193	makarov26a	TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins	https://proceedings.mlr.press/v306/makarov26a.html		written
+3193	makarov26a	TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins	https://proceedings.mlr.press/v306/makarov26a.html	新增问题与原有增量关复核：PDF第3页§3把患者历史和预测请求文本化，采用标准目标token因果语言模型损失，将既有landmark事件状态加删失标签；第6页推理扩展为教师轨迹SFT后用既有GRPO和负MAE奖励。第8–9页验证的是跨癌种、临床试验预测和临床解释，未提供区别于既有序列化、监督微调、landmarking或GRPO的独立通用学习机制；删失处理的适用性仍依赖临床观察过程。不能把数字孪生名称直接等同机器人世界模型，未指出其改变具身或相关深度学习技术选择的具体新增依据，按专用应用/工程组合排除。	excluded
 3194	makinen26a	Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings	https://proceedings.mlr.press/v306/makinen26a.html		written
 3195	maksymiuk26a	MacroGuide: Topological Guidance for Macrocycle Generation	https://proceedings.mlr.press/v306/maksymiuk26a.html		written
 3196	malay26a	EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings	https://proceedings.mlr.press/v306/malay26a.html		written
@@ -3205,7 +3205,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3204	mandi26a	DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation	https://proceedings.mlr.press/v306/mandi26a.html		written
 3205	manenti26a	Beyond Softmax: A Natural Parameterization for Categorical Random Variables	https://proceedings.mlr.press/v306/manenti26a.html		written
 3206	manenti26b	SWING: Unlocking Implicit Graph Representations for Graph Random Features	https://proceedings.mlr.press/v306/manenti26b.html		written
-3207	mang26a	FrontierCS: Evolving Challenges for Evolving Intelligence	https://proceedings.mlr.press/v306/mang26a.html		written
+3207	mang26a	FrontierCS: Evolving Challenges for Evolving Intelligence	https://proceedings.mlr.press/v306/mang26a.html	新增问题复查通过：具体改变的是用可执行反馈搜索程序时的评测集隔离与停止判断。PDF第8页§5.4在172个算法题上用30%测试例作OpenEvolve搜索反馈，再在全套试例评价；发现反馈集进步未带来同等泛化，46%题的最佳演化程序不优于单轮GPT-5。这支持将反馈可见试例与未见评测分开，不能仅凭代理反馈分数增加迭代预算。该失败经验独立于题库本身，原文只验证代码搜索，不声称机器人实验；同页等价题变体对照也提示表达敏感性。	written
 3208	mani26a	Few-Shot Design Optimization by Exploiting Auxiliary Information	https://proceedings.mlr.press/v306/mani26a.html		written
 3209	mani26b	No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference	https://proceedings.mlr.press/v306/mani26b.html		written
 3210	mansouri26a	Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients	https://proceedings.mlr.press/v306/mansouri26a.html		written

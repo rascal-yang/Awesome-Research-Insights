@@ -215,6 +215,5 @@ Data selection, annotation, augmentation, and sampling.
 - [A robust PPG foundation model using multimodal physiological supervision](../../conferences/icml-2026/cards/1201-1300.md#geenjaar26a-data-strategies) · 中文
 - [Active Timepoint Selection for Learning Measure-Valued Trajectories](../../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · 中文
 - [Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../../conferences/icml-2026/cards/2601-2700.md#li26jn-data-strategies) · 中文
-- [TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins](../../conferences/icml-2026/cards/3101-3200.md#makarov26a-data-strategies) · 中文
 - [Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression](../../conferences/icml-2026/cards/3901-4000.md#saegert26a-data-strategies) · 中文
 <!-- classification:end -->
