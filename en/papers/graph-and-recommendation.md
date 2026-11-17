@@ -81,8 +81,6 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="jourdan26a-optimization"></a>[Fully Dynamic Coreset Spectral Clustering](../../conferences/icml-2026/cards/2001-2100.md#paper-jourdan26a)
 - <a id="kataria26a-optimization"></a>[GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#paper-kataria26a)
 - <a id="li26kb-optimization"></a>[COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26kb)
-- <a id="lu26ad-optimization"></a>[On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ad)
-- <a id="luderssen26a-optimization"></a>[Instance-Specific Approximation Ratios for Correlation Clustering and Max-Cut](../../conferences/icml-2026/cards/3001-3100.md#paper-luderssen26a)
 - <a id="qian26d-optimization"></a>[Learning to Approximate Uniform Facility Location via Graph Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26d)
 
 <a id="by-reinforcement-learning"></a>
@@ -211,7 +209,6 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="kummer26a-theory-statistics"></a>[A Unifying Relational Perspective on Expressive Lottery Tickets](../../conferences/icml-2026/cards/2201-2300.md#paper-kummer26a)
 - <a id="lin26as-theory-statistics"></a>[Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26as)
 - <a id="liu26ed-theory-statistics"></a>[Estimating Correlation Clustering Cost in Node-Arrival Stream](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ed)
-- <a id="liu26ee-theory-statistics"></a>[Pseudo-Mallows for Efficient Probabilistic Preference Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ee)
 - <a id="maruyama26a-theory-statistics"></a>[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](../../conferences/icml-2026/cards/3201-3300.md#paper-maruyama26a)
 - <a id="migali26a-theory-statistics"></a>[Learning to Rank from Incomplete Rankings](../../conferences/icml-2026/cards/3201-3300.md#paper-migali26a)
 - <a id="park26x-theory-statistics"></a>[Quantile-Free Uncertainty Quantification in Graph Neural Networks](../../conferences/icml-2026/cards/3601-3700.md#paper-park26x)

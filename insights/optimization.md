@@ -320,7 +320,6 @@
 - [在近球空间更新并沿可行锚纠正](../conferences/icml-2026/cards/2801-2900.md#liu26cd-optimization) · Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set
 - [梯度更新跨步并行](../conferences/icml-2026/cards/3001-3100.md#lu26h-optimization) · PASO: Step Parallel Stochastic Optimization
 - [分支定界浅层增强](../conferences/icml-2026/cards/3001-3100.md#lu26v-optimization) · Dynamic Stratified Contrastive Learning with Upstream Augmentation for MILP Branching
-- [非负分解外部寻优](../conferences/icml-2026/cards/3001-3100.md#lu26x-optimization) · An Exterior Method for Nonnegative Matrix Factorization
 - [用历史曲率偏置修正联邦平坦度失配](../conferences/icml-2026/cards/3001-3100.md#lu26ap-optimization) · FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning
 - [先聚组父模型神经元再拟合融合模型的内部表示](../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · Model Fusion via Retrofitting
 - [凸差正则后验采样](../conferences/icml-2026/cards/3001-3100.md#luu26b-optimization) · DC-LA: Difference-of-Convex Langevin Algorithm
@@ -398,8 +397,6 @@
 - [动态图只在查询时抽取聚类核心集](../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · Fully Dynamic Coreset Spectral Clustering
 - [经粗化邻域限制新增节点的结构学习](../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s
 - [动态图曝光下的反事实公平控制](../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs
-- [利用松弛正曲率逃逸分数最稠密子图驻点](../conferences/icml-2026/cards/3001-3100.md#lu26ad-optimization) · On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis
-- [用稀疏三角覆盖松弛为每张图计算后验证书](../conferences/icml-2026/cards/3001-3100.md#luderssen26a-optimization) · Instance-Specific Approximation Ratios for Correlation Clustering and Max-Cut
 - [用期望采样成本训练设施开设概率](../conferences/icml-2026/cards/3701-3800.md#qian26d-optimization) · Learning to Approximate Uniform Facility Location via Graph Neural Networks
 
 <a id="by-scientific-ml"></a>
@@ -426,7 +423,6 @@
 - [用残差预测稀疏线性校正子空间](../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems
 - [用零点约束稳定符号回归的稀疏路径](../conferences/icml-2026/cards/2701-2800.md#liu26n-optimization) · Stabilizing Equation Learning via Zero-Point Constraints
 - [用几何扰动期望稳定代理驱动的形状优化](../conferences/icml-2026/cards/2801-2900.md#liu26cn-optimization) · UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics
-- [用细胞外多电极记录拟合刺激响应的生物物理参数](../conferences/icml-2026/cards/2901-3000.md#lotlikar26a-optimization) · Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation
 - [按树突结构调度 GPU 仿真并推导梯度](../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks
 - [用不变密度的测地结构补足稀疏随机轨迹](../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints
 - [芯片宏布局排序](../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution

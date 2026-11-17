@@ -320,7 +320,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set](../../conferences/icml-2026/cards/2801-2900.md#liu26cd-optimization) · 中文
 - [PASO: Step Parallel Stochastic Optimization](../../conferences/icml-2026/cards/3001-3100.md#lu26h-optimization) · 中文
 - [Dynamic Stratified Contrastive Learning with Upstream Augmentation for MILP Branching](../../conferences/icml-2026/cards/3001-3100.md#lu26v-optimization) · 中文
-- [An Exterior Method for Nonnegative Matrix Factorization](../../conferences/icml-2026/cards/3001-3100.md#lu26x-optimization) · 中文
 - [FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26ap-optimization) · 中文
 - [Model Fusion via Retrofitting](../../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · 中文
 - [DC-LA: Difference-of-Convex Langevin Algorithm](../../conferences/icml-2026/cards/3001-3100.md#luu26b-optimization) · 中文
@@ -398,8 +397,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Fully Dynamic Coreset Spectral Clustering](../../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · 中文
 - [GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · 中文
 - [COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · 中文
-- [On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis](../../conferences/icml-2026/cards/3001-3100.md#lu26ad-optimization) · 中文
-- [Instance-Specific Approximation Ratios for Correlation Clustering and Max-Cut](../../conferences/icml-2026/cards/3001-3100.md#luderssen26a-optimization) · 中文
 - [Learning to Approximate Uniform Facility Location via Graph Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#qian26d-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
@@ -426,7 +423,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · 中文
 - [Stabilizing Equation Learning via Zero-Point Constraints](../../conferences/icml-2026/cards/2701-2800.md#liu26n-optimization) · 中文
 - [UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics](../../conferences/icml-2026/cards/2801-2900.md#liu26cn-optimization) · 中文
-- [Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation](../../conferences/icml-2026/cards/2901-3000.md#lotlikar26a-optimization) · 中文
 - [HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · 中文
 - [From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · 中文
 - [Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · 中文

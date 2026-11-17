@@ -185,7 +185,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liao26a-optimization"></a>[G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26a)
 - <a id="liu26n-optimization"></a>[Stabilizing Equation Learning via Zero-Point Constraints](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26n)
 - <a id="liu26cn-optimization"></a>[UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cn)
-- <a id="lotlikar26a-optimization"></a>[Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation](../../conferences/icml-2026/cards/2901-3000.md#paper-lotlikar26a)
 - <a id="lu26ar-optimization"></a>[HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ar)
 - <a id="maoutsa26a-optimization"></a>[From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#paper-maoutsa26a)
 - <a id="mo26d-optimization"></a>[Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26d)
