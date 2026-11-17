@@ -820,7 +820,6 @@ della-vecchia26a	ml-foundations	theory-statistics
 dellali26a	multimodal	loss-functions
 dementyev26a	multimodal	architecture
 demir26a	llm	inference
-demirel26a	ml-foundations	theory-statistics
 deng26a	computer-vision	inference
 deng26b	reinforcement-learning	reinforcement-learning
 deng26c	scientific-ml	architecture
@@ -961,13 +960,10 @@ eberhard26b	reinforcement-learning	reinforcement-learning
 ebi26a	reinforcement-learning	theory-statistics
 ebrahimi26a	ml-foundations	evaluation
 ebrahimpour-boroojeny26a	computer-vision	evaluation
-eden26a	ml-foundations	theory-statistics
 edgar26a	reinforcement-learning	reinforcement-learning
-efthymiou26a	ml-foundations	theory-statistics
 eichin26a	ml-foundations	evaluation
 eisenberg26a	ml-foundations	optimization
 ejaz26a	ml-foundations	theory-statistics
-ek26a	scientific-ml	theory-statistics
 elango26a	llm	architecture
 elbrachter26a	computer-vision	inference
 elhoushi26a	llm	training-strategies
@@ -978,8 +974,6 @@ ellinson26a	ml-foundations	modules
 ellis26a	llm	training-strategies
 elsborg26a	scientific-ml	architecture
 emadi26a	llm	training-strategies
-ene26a	ml-foundations	optimization
-epasto26a	ml-foundations	theory-statistics
 erata26a	ml-foundations	optimization
 eremeev26a	graph-and-recommendation	data-strategies
 erickson26a	ml-foundations	optimization

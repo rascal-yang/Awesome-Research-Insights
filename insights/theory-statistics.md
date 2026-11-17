@@ -284,7 +284,6 @@
 - [序贯均值检验的停止时刻波动](../conferences/icml-2026/cards/0801-0900.md#deep26a-theory-statistics) · Beyond First-order Asymptotics in Sequential Mean Testing
 - [激活噪声敏感性与学习难度](../conferences/icml-2026/cards/0801-0900.md#defilippis26a-theory-statistics) · A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models
 - [动态规划的逐时误差传播](../conferences/icml-2026/cards/0801-0900.md#della-vecchia26a-theory-statistics) · Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing
-- [观察研究的偏差来源诊断](../conferences/icml-2026/cards/0801-0900.md#demirel26a-theory-statistics) · Uncovering Bias Mechanisms in Observational Studies
 - [反上三角约束下多块 ADMM 收敛](../conferences/icml-2026/cards/0801-0900.md#deng26s-theory-statistics) · A proximal ADMM for multiblock problems with block anti-upper triangular constraints
 - [均值平移污染的傅里叶见证](../conferences/icml-2026/cards/0801-0900.md#diakonikolas26a-theory-statistics) · Sample Complexity Bounds for Robust Mean Estimation with Mean-Shift Contamination
 - [隐私训练的信号学习与噪声记忆](../conferences/icml-2026/cards/0901-1000.md#ding26g-theory-statistics) · Understanding Private Learning From Feature Perspective
@@ -296,10 +295,7 @@
 - [无标签配对观测下的共形校准迁移](../conferences/icml-2026/cards/0901-1000.md#doula26a-theory-statistics) · Conformal Calibration Transfer
 - [处理分配不重叠下的数据融合](../conferences/icml-2026/cards/0901-1000.md#du26s-theory-statistics) · Feasible Fusion: Constrained Joint Estimation under Structural Non-Overlap
 - [扩散分数误差的时间加权界](../conferences/icml-2026/cards/0901-1000.md#dupuis26a-theory-statistics) · Tightening the Score Matching Gap for Diffusion Models
-- [预算采购中的效用最优报价](../conferences/icml-2026/cards/1001-1100.md#eden26a-theory-statistics) · From Welfare to Utility: Generalized Objectives in Budget-Feasible Procurement
-- [策略分类中的可取努力公平约束](../conferences/icml-2026/cards/1001-1100.md#efthymiou26a-theory-statistics) · Desirable Effort Fairness and Optimality Trade-offs in Strategic Learning
 - [新对象组合上的关系因果识别](../conferences/icml-2026/cards/1001-1100.md#ejaz26a-theory-statistics) · Relational Structural Causal Models
-- [用户级私有流式计数的空间下界](../conferences/icml-2026/cards/1001-1100.md#epasto26a-theory-statistics) · Keeping a Secret Requires a Good Memory: Unconditional Streaming Lower-Bounds for Differentially Private Algorithms
 - [懒训练的宽度无关局部 Lipschitz 界](../conferences/icml-2026/cards/1001-1100.md#evangelidis26a-theory-statistics) · Width Independent Bounds for the Local Lipschitz Constant of Deep Neural Networks at Random Initialization and after Lazy Training
 - [单层最小权重扰动与压缩诊断](../conferences/icml-2026/cards/1001-1100.md#evans26b-theory-statistics) · Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks
 - [类别相似度修正共形预测集](../conferences/icml-2026/cards/1001-1100.md#fargion26a-theory-statistics) · Enhancing Conformal Prediction via Class Similarity
@@ -602,7 +598,6 @@
 - [密度比估计](../conferences/icml-2026/cards/0101-0200.md#antipov26a-theory-statistics) · Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics
 - [群体动力学反演](../conferences/icml-2026/cards/0201-0300.md#berman26a-theory-statistics) · Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems
 - [多病风险的贝叶斯超图](../conferences/icml-2026/cards/0901-1000.md#ding26c-theory-statistics) · Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference
-- [部分可识别的治疗分配风险](../conferences/icml-2026/cards/1001-1100.md#ek26a-theory-statistics) · Learning Treatment Allocations with Risk Control Under Partial Identifiability
 - [隐藏动态过程的因果可识别性](../conferences/icml-2026/cards/1101-1200.md#fu26i-theory-statistics) · Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis
 - [基于物理似然的 CT 重建置信区域](../conferences/icml-2026/cards/1201-1300.md#gatzner26a-theory-statistics) · Principled Confidence Estimation for Deep Computed Tomography
 - [推理时可调的模型复杂度先验](../conferences/icml-2026/cards/1201-1300.md#gloeckler26a-theory-statistics) · Scalable Simulation-Based Model Inference with Test-Time Complexity Control

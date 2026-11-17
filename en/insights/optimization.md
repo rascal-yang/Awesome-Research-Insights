@@ -241,7 +241,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Variational Entropic Optimal Transport](../../conferences/icml-2026/cards/1001-1100.md#dyachenko26a-optimization) · 中文
 - [Learning Permutation from Structure Without Supervision](../../conferences/icml-2026/cards/1001-1100.md#eisenberg26a-optimization) · 中文
 - [TSP with Predictions: Heatmap to Tour with Provable Guarantees](../../conferences/icml-2026/cards/1001-1100.md#elias26a-optimization) · 中文
-- [Solving Positive Linear Programs with Differential Privacy](../../conferences/icml-2026/cards/1001-1100.md#ene26a-optimization) · 中文
 - [Learning Randomized Reductions](../../conferences/icml-2026/cards/1001-1100.md#erata26a-optimization) · 中文
 - [Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](../../conferences/icml-2026/cards/1001-1100.md#erickson26a-optimization) · 中文
 - [Robust Bayesian Optimisation with Unbounded Corruptions](../../conferences/icml-2026/cards/1001-1100.md#ezzerg26a-optimization) · 中文

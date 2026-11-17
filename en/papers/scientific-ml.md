@@ -442,7 +442,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="antipov26a-theory-statistics"></a>[Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](../../conferences/icml-2026/cards/0101-0200.md#paper-antipov26a)
 - <a id="berman26a-theory-statistics"></a>[Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../conferences/icml-2026/cards/0201-0300.md#paper-berman26a)
 - <a id="ding26c-theory-statistics"></a>[Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26c)
-- <a id="ek26a-theory-statistics"></a>[Learning Treatment Allocations with Risk Control Under Partial Identifiability](../../conferences/icml-2026/cards/1001-1100.md#paper-ek26a)
 - <a id="fu26i-theory-statistics"></a>[Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26i)
 - <a id="gatzner26a-theory-statistics"></a>[Principled Confidence Estimation for Deep Computed Tomography](../../conferences/icml-2026/cards/1201-1300.md#paper-gatzner26a)
 - <a id="gloeckler26a-theory-statistics"></a>[Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../conferences/icml-2026/cards/1201-1300.md#paper-gloeckler26a)

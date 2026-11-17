@@ -284,7 +284,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Beyond First-order Asymptotics in Sequential Mean Testing](../../conferences/icml-2026/cards/0801-0900.md#deep26a-theory-statistics) · 中文
 - [A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models](../../conferences/icml-2026/cards/0801-0900.md#defilippis26a-theory-statistics) · 中文
 - [Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing](../../conferences/icml-2026/cards/0801-0900.md#della-vecchia26a-theory-statistics) · 中文
-- [Uncovering Bias Mechanisms in Observational Studies](../../conferences/icml-2026/cards/0801-0900.md#demirel26a-theory-statistics) · 中文
 - [A proximal ADMM for multiblock problems with block anti-upper triangular constraints](../../conferences/icml-2026/cards/0801-0900.md#deng26s-theory-statistics) · 中文
 - [Sample Complexity Bounds for Robust Mean Estimation with Mean-Shift Contamination](../../conferences/icml-2026/cards/0801-0900.md#diakonikolas26a-theory-statistics) · 中文
 - [Understanding Private Learning From Feature Perspective](../../conferences/icml-2026/cards/0901-1000.md#ding26g-theory-statistics) · 中文
@@ -296,10 +295,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Conformal Calibration Transfer](../../conferences/icml-2026/cards/0901-1000.md#doula26a-theory-statistics) · 中文
 - [Feasible Fusion: Constrained Joint Estimation under Structural Non-Overlap](../../conferences/icml-2026/cards/0901-1000.md#du26s-theory-statistics) · 中文
 - [Tightening the Score Matching Gap for Diffusion Models](../../conferences/icml-2026/cards/0901-1000.md#dupuis26a-theory-statistics) · 中文
-- [From Welfare to Utility: Generalized Objectives in Budget-Feasible Procurement](../../conferences/icml-2026/cards/1001-1100.md#eden26a-theory-statistics) · 中文
-- [Desirable Effort Fairness and Optimality Trade-offs in Strategic Learning](../../conferences/icml-2026/cards/1001-1100.md#efthymiou26a-theory-statistics) · 中文
 - [Relational Structural Causal Models](../../conferences/icml-2026/cards/1001-1100.md#ejaz26a-theory-statistics) · 中文
-- [Keeping a Secret Requires a Good Memory: Unconditional Streaming Lower-Bounds for Differentially Private Algorithms](../../conferences/icml-2026/cards/1001-1100.md#epasto26a-theory-statistics) · 中文
 - [Width Independent Bounds for the Local Lipschitz Constant of Deep Neural Networks at Random Initialization and after Lazy Training](../../conferences/icml-2026/cards/1001-1100.md#evangelidis26a-theory-statistics) · 中文
 - [Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks](../../conferences/icml-2026/cards/1001-1100.md#evans26b-theory-statistics) · 中文
 - [Enhancing Conformal Prediction via Class Similarity](../../conferences/icml-2026/cards/1001-1100.md#fargion26a-theory-statistics) · 中文
@@ -602,7 +598,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](../../conferences/icml-2026/cards/0101-0200.md#antipov26a-theory-statistics) · 中文
 - [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../conferences/icml-2026/cards/0201-0300.md#berman26a-theory-statistics) · 中文
 - [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../../conferences/icml-2026/cards/0901-1000.md#ding26c-theory-statistics) · 中文
-- [Learning Treatment Allocations with Risk Control Under Partial Identifiability](../../conferences/icml-2026/cards/1001-1100.md#ek26a-theory-statistics) · 中文
 - [Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](../../conferences/icml-2026/cards/1101-1200.md#fu26i-theory-statistics) · 中文
 - [Principled Confidence Estimation for Deep Computed Tomography](../../conferences/icml-2026/cards/1201-1300.md#gatzner26a-theory-statistics) · 中文
 - [Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../conferences/icml-2026/cards/1201-1300.md#gloeckler26a-theory-statistics) · 中文

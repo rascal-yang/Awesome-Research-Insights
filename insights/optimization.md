@@ -241,7 +241,6 @@
 - [熵正则最优传输的变分归一化](../conferences/icml-2026/cards/1001-1100.md#dyachenko26a-optimization) · Variational Entropic Optimal Transport
 - [软排列求解的局部熵温度](../conferences/icml-2026/cards/1001-1100.md#eisenberg26a-optimization) · Learning Permutation from Structure Without Supervision
 - [边预测引导的度量旅行商求解](../conferences/icml-2026/cards/1001-1100.md#elias26a-optimization) · TSP with Predictions: Heatmap to Tour with Provable Guarantees
-- [约束级隐私的正线性规划](../conferences/icml-2026/cards/1001-1100.md#ene26a-optimization) · Solving Positive Linear Programs with Differential Privacy
 - [随机自归约的稀疏回归搜索](../conferences/icml-2026/cards/1001-1100.md#erata26a-optimization) · Learning Randomized Reductions
 - [异步 SGD 的梯度裁剪](../conferences/icml-2026/cards/1001-1100.md#erickson26a-optimization) · Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers
 - [容忍无界异常幅度的贝叶斯优化](../conferences/icml-2026/cards/1001-1100.md#ezzerg26a-optimization) · Robust Bayesian Optimisation with Unbounded Corruptions

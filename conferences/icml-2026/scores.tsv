@@ -859,7 +859,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 858	dellali26a	3	3	4	3	64		视频条件长音频可用前缀/双边随机mask与shortcut跨步训练，具体但多种条件flow技巧组合。（原文：§3 训练目标（PDF 第 3 页））	scored
 859	dementyev26a	4	4	4	3	77		空间音频模型可将麦坐标、时间和多通道联合编码空间token，避免绑定固定阵列；编码接口新增明确。（原文：§3（PDF 第 3 页））	scored
 860	demir26a	4	4	4	4	80		移位ICL回归可依据分数矩比调attention温度，高维误差推导给方向；比固定温度/任意扫参多可用规则。（原文：图 1（PDF 第 4 页））	scored
-861	demirel26a	3	3	3	3	60		以RCT参照效应和S/A/Y条件方差信号辨观察偏差；未给具身或神经学习的直接选择，相关性另列。（原文：表 1（PDF 第 5 页））	scored
+861	demirel26a							§4.1–4.5（PDF第3–7页）以RCT参照、条件方差与偏差协变识别混杂/选择来源，确有独立因果统计方法；原文技术选择面向观察研究偏差诊断，未落实具身或神经学习的训练/控制选择，潜在因果类比不足收录。	rule-excluded
 862	deng26a	3	3	4	3	64		追踪器可用参考—查询兼容验证器触发重定位而非持续传播mask，具体控制环但验证/重定位设计已有近邻。（原文：§3（PDF 第 4 页））	scored
 863	deng26b	3	3	4	2	61		上下文探索可选择BART后验函数作Thompson臂模型，主要Bayes树到bandit的直接组合。（原文：§3（PDF 第 2 页））	scored
 864	deng26c	3	3	4	3	64		流体代理可按连通/局部密度粗化图、条件共享流速度；几何多层设计具体但条件flow/GNN组件成熟。（原文：§3（PDF 第 3 页））	scored
@@ -1007,13 +1007,13 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 1006	ebi26a	4	5	5	5	93		asymmetric actor-critic训练期critic可用任意状态相关特权信号而非必须完整状态，给梯度等价与可检信号条件。（原文：定理 3.1（PDF 第 4 页））	scored
 1007	ebrahimi26a	4	4	4	4	80		状态跟踪可据样本/状态/长度和逐位对齐CoT选择序列模型/监督，控制实验分离归纳复制偏置与状态推理。（原文：监督协议（PDF 第 3 页））	scored
 1008	ebrahimpour-boroojeny26a	4	4	4	4	80		类删除评估应检查邻类泄漏、对齐删类重训后验，不能只看目标类输出下降；CMIA/TREW给检测及修正。（原文：攻击模型（PDF 第 3 页））	scored
-1009	eden26a	4	2	3	4	64		福利/效用预算采购的报价/支付机制理论，原文无具身或神经学习具体选择，另列相关性候选。（原文：定理 2–3（PDF 第 4 页））	scored
+1009	eden26a							§3–4（PDF第4–6页）有福利/效用目标及软/硬预算采购机制新保证；改变的是战略卖家报价/支付机制，原文没有具身或神经训练/推理的直接技术选择，不能只借资源采购类比保留。	rule-excluded
 1010	edgar26a	4	4	4	3	77		离线连续控制可用随机插值MMD匹配条件动作融单步抽样，区别多步扩散actor及仅均值回归。（原文：算法与实验（PDF 第 4 页））	scored
-1011	efthymiou26a	4	2	3	4	64		有益努力群体差距约束的战略分类理论，未建立具身/深度学习直接操作，不能仅以人机互动类比收录。（原文：战略模型（PDF 第 3 页））	scored
+1011	efthymiou26a							§2–4（PDF第3–7页）在战略分类中约束群体有益努力并给最优性损失界；对象是响应决策规则的人类特征修改与公平性，未落实具身或相关深度学习的可操作训练/控制设计，潜在多Agent类比不足。	rule-excluded
 1012	eichin26a	4	5	4	5	89		模型/样本/训练步可从AdamW精确梯度路径核做同一可加归因，避免分别使用不一致的解释对象。（原文：定理 3.1、表 1（PDF 第 3 页））	scored
 1013	eisenberg26a	4	4	4	3	77		无监督排列可按行列指派熵自适应局部温度，再用结构能量约束；拼图/TSP共享新离散松弛控制。（原文：§3（PDF 第 4 页））	scored
 1014	ejaz26a	4	4	3	4	76		对象关系世界模型可用跨关系骨架共享机制及RNCM上下界检可识别，区别把各实例摊成单平面DAG。（原文：不可识别定理（PDF 第 4 页））	scored
-1015	ek26a	4	3	3	4	70		部分可识别治疗策略风险上界/独立选择认证，统计设计清楚，但具身选择仍需跨领域类比，相关性另列。（原文：§4（PDF 第 4 页））	scored
+1015	ek26a							§4（PDF第4–6页）有部分可识别治疗风险上界、名义策略学习和独立样本认证；直接选择是临床治疗分配与不可观察获益认证，原文未给具身或神经策略的直接实例，不能把潜在safe-RL迁移当已满足相关性。	rule-excluded
 1016	elango26a	4	4	4	4	80		MoE可低维latent路由/计算再回投，用带宽盈余增专家粒度，改变效率-精度取舍而非只调expert数。（原文：潜空间结构（PDF 第 4 页））	scored
 1017	elbrachter26a	4	4	4	4	80		扩散低维数据可用score方向导数/有限差分的扩展score约束离流形变化，独立训练自由采样修正。（原文：扩展分数（PDF 第 3 页））	scored
 1018	elhoushi26a	3	3	4	3	64		可联合层深增dropout、训练时递减及超参构弹性深度，能选退出/跳层但主增量为日程组合。（原文：§3 方法（PDF 第 3 页））	scored
@@ -1024,8 +1024,8 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 1023	ellis26a	3	3	4	3	64		助人代理可用人类后续文本累计似然筛最长高概率延续训练，目标具体但人类赋能代理与实际决策权关系有限。（原文：图 1（PDF 第 3 页））	scored
 1024	elsborg26a	4	3	3	4	70		周期神经场可选原子锚Gaussian的解析Fourier/Poisson求和再一次FFT，避免让网络学习非局部周期性；独立表示/重建做法，电子密度是其验证对象。（原文：Gaussian 与平面波（PDF 第 4 页））	scored
 1025	emadi26a	4	4	5	4	84		低精attention尺度可按实际rank谱界与隐式幂迭代逐层定，不用维数最坏界；直接选安全量化训练scale。（原文：§3.2（PDF 第 4 页））	scored
-1026	ene26a	4	2	3	4	64		正线性规划DP的密度乘法权重/截断软极值界，原文无具体神经或具身计算选择，相关性另列。（原文：定理 1–2（PDF 第 2 页））	scored
-1027	epasto26a	4	3	3	4	70		DP流算法内存不能任意压缩的通信下界，通用隐私边界；无具体神经/具身实例，另列相关性。（原文：§2（PDF 第 3 页））	scored
+1026	ene26a							§3–4（PDF第5–8页）有高敏感约束私有正LP的密度乘法权重和允许少量约束违反的新界；面向特定packing/covering oracle模型，原文未给具身或深度学习直接训练/推断操作，不因通用优化潜力收录。	rule-excluded
+1027	epasto26a							§2–3（PDF第3–7页）用多方通信构造DP流去重/分位等内存下界，理论贡献明确；不涉及神经模型或具身数据流的可操作算法选择，‘隐私需要内存’须跨对象类比，范围不符。	rule-excluded
 1028	erata26a	3	3	3	3	60		相关取样自归约化候选学习、符号/回归/ILP验证，操作通用但主体自动归约发现，具身/DL直接选择未确立。（原文：§4（PDF 第 3 页））	scored
 1029	eremeev26a	4	4	4	3	77		图小样本可用合成图先验预训adapter注PFN做节点ICL，改变每图从头训GNN的接口，先验/迁移局限需保留。（原文：图 1（PDF 第 4 页））	scored
 1030	erickson26a	4	4	5	4	84		异步/联邦训练裁剪在重尾下可把延迟依赖换并发度，直接支持不等待straggler的步长/同步选择。（原文：表 1（PDF 第 3 页））	scored
