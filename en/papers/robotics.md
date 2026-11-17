@@ -22,7 +22,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) | [Read insight (中文)](../../papers/robotics.md#bai26h-architecture) |
+| [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26h) | [Read insight (中文)](../../papers/robotics.md#bai26h-architecture) |
 | [Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) | [Read insight (中文)](../../papers/robotics.md#cao26u-architecture) |
 | [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) | [Read insight (中文)](../../papers/robotics.md#chuang26a-architecture) |
 | [Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](https://proceedings.mlr.press/v306/ding26x.html) | [Read insight (中文)](../../papers/robotics.md#ding26x-architecture) |
@@ -101,7 +101,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aissi26a) | [Read insight (中文)](../../papers/robotics.md#aissi26a-inference) |
-| [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) | [Read insight (中文)](../../papers/robotics.md#balim26a-inference) |
+| [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-balim26a) | [Read insight (中文)](../../papers/robotics.md#balim26a-inference) |
 | [Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | [Read insight (中文)](../../papers/robotics.md#beyer26a-inference) |
 | [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | [Read insight (中文)](../../papers/robotics.md#chai26a-inference) |
 | [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | [Read insight (中文)](../../papers/robotics.md#chen26i-inference) |

@@ -13,7 +13,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bai26j-architecture"></a>[Interactive Person Retrieval via Multi-Turn Multimodal Conversation](https://proceedings.mlr.press/v306/bai26j.html) | 交互式人物检索 | 允许用户针对返回图像指出与目标不同的视觉属性，先逐轮编码反馈，再聚合历史记忆逐步修正检索结果。 |
+| <a id="bai26j-architecture"></a>[Interactive Person Retrieval via Multi-Turn Multimodal Conversation](https://proceedings.mlr.press/v306/bai26j.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bai26j) | 交互式人物检索 | 允许用户针对返回图像指出与目标不同的视觉属性，先逐轮编码反馈，再聚合历史记忆逐步修正检索结果。 |
 | <a id="chen26go-architecture"></a>[Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://proceedings.mlr.press/v306/chen26go.html) | 遥感跨模态的共享潜空间扩散 | 先用配对观测对齐各模态编码器的潜空间，再将源潜变量和加噪目标潜变量拼接后输入共享扩散 Transformer，用源、目标模态标识调制归一化，直接回归干净目标潜变量。一个主干即可用于多个转换方向。 |
 | <a id="dementyev26a-architecture"></a>[PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](https://proceedings.mlr.press/v306/dementyev26a.html) | 阵列几何条件化的空间音频词元 | 把多通道波形及对应麦克风坐标一同送入 Transformer 编码器，生成保留声源方向的空间音频词元。接入语言模型后可做空间推理和定向转写，测试覆盖训练时未见的阵列布局。 |
 | <a id="forhad26a-architecture"></a>[Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](https://proceedings.mlr.press/v306/forhad26a.html) | 持续学习专家的置信加权协作 | 利用冻结视觉语言模型的开放集预测为各任务专家提供先验，再用学得的多元高斯描述专家表征分布并分配融合权重。专家可按输入与其训练分布的匹配程度协作，无需显式任务 ID。 |
@@ -25,7 +25,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="barrios26a-modules"></a>[MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) | 细粒度视觉定位 | 用指令和对齐后的视觉特征做交叉注意力，生成逐通道乘法掩码，可在每个 patch 内放大与当前指令有关的特征。 |
+| <a id="barrios26a-modules"></a>[MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-barrios26a) | 细粒度视觉定位 | 用指令和对齐后的视觉特征做交叉注意力，生成逐通道乘法掩码，可在每个 patch 内放大与当前指令有关的特征。 |
 | <a id="chen26ch-modules"></a>[Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](https://proceedings.mlr.press/v306/chen26ch.html) | 非对称 RGB-D 特征融合 | 用主模态的频域相关性引导辅助特征，并用门控动量反复更新辅助查询。将主模态输出中的辅助残差系数设为零，可在该融合块内切断辅助噪声的回流。 |
 | <a id="chen26dv-modules"></a>[SPR: A Structured Prompt Refinement Network for Modality Missing](https://proceedings.mlr.press/v306/chen26dv.html) | 缺失模态的结构化提示 | 根据图像和文本是否可用选择可学习提示，先跨层融合，再聚合相邻提示词元并按缺失状态门控通道，最后把提示注入冻结的 CLIP 主干做分类。 |
 | <a id="ding26e-modules"></a>[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://proceedings.mlr.press/v306/ding26e.html) | 音视频非对称 token 压缩 | 先按帧内显著性和跨帧变化筛视频 token，再让音频 token 查询同一时间块保留下来的视频 token。跨注意力结果用于筛选音频，并用直通估计器让两阶段筛选能联合训练。 |

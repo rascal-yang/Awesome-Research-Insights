@@ -15,7 +15,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Interactive Person Retrieval via Multi-Turn Multimodal Conversation](https://proceedings.mlr.press/v306/bai26j.html) | [Read insight (中文)](../../papers/multimodal.md#bai26j-architecture) |
+| [Interactive Person Retrieval via Multi-Turn Multimodal Conversation](https://proceedings.mlr.press/v306/bai26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26j) | [Read insight (中文)](../../papers/multimodal.md#bai26j-architecture) |
 | [Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://proceedings.mlr.press/v306/chen26go.html) | [Read insight (中文)](../../papers/multimodal.md#chen26go-architecture) |
 | [PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](https://proceedings.mlr.press/v306/dementyev26a.html) | [Read insight (中文)](../../papers/multimodal.md#dementyev26a-architecture) |
 | [Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](https://proceedings.mlr.press/v306/forhad26a.html) | [Read insight (中文)](../../papers/multimodal.md#forhad26a-architecture) |
@@ -27,7 +27,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) | [Read insight (中文)](../../papers/multimodal.md#barrios26a-modules) |
+| [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-barrios26a) | [Read insight (中文)](../../papers/multimodal.md#barrios26a-modules) |
 | [Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](https://proceedings.mlr.press/v306/chen26ch.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ch-modules) |
 | [SPR: A Structured Prompt Refinement Network for Modality Missing](https://proceedings.mlr.press/v306/chen26dv.html) | [Read insight (中文)](../../papers/multimodal.md#chen26dv-modules) |
 | [OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://proceedings.mlr.press/v306/ding26e.html) | [Read insight (中文)](../../papers/multimodal.md#ding26e-modules) |

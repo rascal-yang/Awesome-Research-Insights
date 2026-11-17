@@ -55,8 +55,8 @@ The linked short insights are available in Chinese.
 | [Neural Logistic Bandits](https://proceedings.mlr.press/v306/bae26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bae26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bae26a-reinforcement-learning) |
 | [LLM-Guided Communication for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/bae26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bae26c) | [Read insight (中文)](../../papers/reinforcement-learning.md#bae26c-reinforcement-learning) |
 | [Test-time Offline Reinforcement Learning on Goal-related Experience](https://proceedings.mlr.press/v306/bagatella26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bagatella26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bagatella26a-reinforcement-learning) |
-| [Performative Policy Gradient: Optimality in Performative Reinforcement Learning](https://proceedings.mlr.press/v306/basu26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#basu26a-reinforcement-learning) |
-| [MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference](https://proceedings.mlr.press/v306/baur26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#baur26a-reinforcement-learning) |
+| [Performative Policy Gradient: Optimality in Performative Reinforcement Learning](https://proceedings.mlr.press/v306/basu26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-basu26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#basu26a-reinforcement-learning) |
+| [MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference](https://proceedings.mlr.press/v306/baur26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-baur26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#baur26a-reinforcement-learning) |
 | [CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](https://proceedings.mlr.press/v306/belouadah26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#belouadah26a-reinforcement-learning) |
 | [Noise-Guided Transport: Imitation Learning from Random Priors](https://proceedings.mlr.press/v306/blonde26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#blonde26a-reinforcement-learning) |
 | [Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bo26c-reinforcement-learning) |
@@ -131,7 +131,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](https://proceedings.mlr.press/v306/bastankhah26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bastankhah26a-representation-learning) |
+| [Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](https://proceedings.mlr.press/v306/bastankhah26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bastankhah26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bastankhah26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -139,7 +139,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Beyond Rewards in RL for Cyber Defence](https://proceedings.mlr.press/v306/bates26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bates26a-evaluation) |
+| [Beyond Rewards in RL for Cyber Defence](https://proceedings.mlr.press/v306/bates26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bates26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bates26a-evaluation) |
 | [KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](https://proceedings.mlr.press/v306/cherepanov26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cherepanov26a-evaluation) |
 | [PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](https://proceedings.mlr.press/v306/guo26f.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26f-evaluation) |
 
@@ -154,10 +154,10 @@ The linked short insights are available in Chinese.
 | [The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](https://proceedings.mlr.press/v306/anderson26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-anderson26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#anderson26a-theory-statistics) |
 | [Generalized Linear Bandits with Memory](https://proceedings.mlr.press/v306/ann26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ann26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#ann26a-theory-statistics) |
 | [Minimax-Optimal Policy Regret in Partially Observable Markov Games](https://proceedings.mlr.press/v306/arora26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-arora26b) | [Read insight (中文)](../../papers/reinforcement-learning.md#arora26b-theory-statistics) |
-| [Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](https://proceedings.mlr.press/v306/balagopalan26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#balagopalan26a-theory-statistics) |
-| [Learning in Structured Stackelberg Games](https://proceedings.mlr.press/v306/balcan26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#balcan26a-theory-statistics) |
-| [Bandit Social Learning with Exploration Episodes](https://proceedings.mlr.press/v306/banihashem26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#banihashem26a-theory-statistics) |
-| [Optimal Rates for Feasible Payoff Set Estimation in Games](https://proceedings.mlr.press/v306/barbara26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#barbara26a-theory-statistics) |
+| [Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](https://proceedings.mlr.press/v306/balagopalan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-balagopalan26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#balagopalan26a-theory-statistics) |
+| [Learning in Structured Stackelberg Games](https://proceedings.mlr.press/v306/balcan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-balcan26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#balcan26a-theory-statistics) |
+| [Bandit Social Learning with Exploration Episodes](https://proceedings.mlr.press/v306/banihashem26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#banihashem26a-theory-statistics) |
+| [Optimal Rates for Feasible Payoff Set Estimation in Games](https://proceedings.mlr.press/v306/barbara26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-barbara26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#barbara26a-theory-statistics) |
 | [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) |
 | [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bollini26a-theory-statistics) |
 | [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) |

@@ -23,7 +23,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](https://proceedings.mlr.press/v306/atanov26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-atanov26a) | [Read insight (中文)](../../papers/computer-vision.md#atanov26a-architecture) |
 | [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://proceedings.mlr.press/v306/baade26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-baade26a) | [Read insight (中文)](../../papers/computer-vision.md#baade26a-architecture) |
-| [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | [Read insight (中文)](../../papers/computer-vision.md#bao26f-architecture) |
+| [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bao26f) | [Read insight (中文)](../../papers/computer-vision.md#bao26f-architecture) |
 | [Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26du-architecture) |
 | [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ga-architecture) |
 | [SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](https://proceedings.mlr.press/v306/choy26a.html) | [Read insight (中文)](../../papers/computer-vision.md#choy26a-architecture) |
@@ -100,7 +100,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#bai26n-training-strategies) |
+| [Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26n) | [Read insight (中文)](../../papers/computer-vision.md#bai26n-training-strategies) |
 | [Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26h-training-strategies) |
 | [Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26o-training-strategies) |
 | [NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chavhan26a-training-strategies) |
@@ -139,7 +139,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alesiani26a) | [Read insight (中文)](../../papers/computer-vision.md#alesiani26a-inference) |
 | [Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bae26b) | [Read insight (中文)](../../papers/computer-vision.md#bae26b-inference) |
-| [Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bang26a-inference) |
+| [Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bang26a) | [Read insight (中文)](../../papers/computer-vision.md#bang26a-inference) |
 | [Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) | [Read insight (中文)](../../papers/computer-vision.md#briq26a-inference) |
 | [Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26g-inference) |
 | [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26n-inference) |

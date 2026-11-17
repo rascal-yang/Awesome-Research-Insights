@@ -22,7 +22,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bai26h-architecture"></a>[Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) | VLA 潜空间推理 | 按课程将显式文本和视觉思维链监督过渡到连续潜推理，再用这些潜状态条件化动作生成，推理时省去显式思维链解码。 |
+| <a id="bai26h-architecture"></a>[Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bai26h) | VLA 潜空间推理 | 按课程将显式文本和视觉思维链监督过渡到连续潜推理，再用这些潜状态条件化动作生成，推理时省去显式思维链解码。 |
 | <a id="cao26u-architecture"></a>[Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) | 频域分层动作策略 | 将动作序列经 DCT 拆为低频粗运动和高频修正，再根据观察与语言生成粗轨迹、以粗轨迹为条件补上对齐和接触所需细节。 |
 | <a id="chuang26a-architecture"></a>[The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) | SE(3) 位姿扩散策略 | 在 SE(3) 上用左不变随机微分方程给机器人位姿加噪，在切空间预测反向去噪分数，再用指数映射更新位姿，使采样过程中的旋转保持在 SO(3) 上。 |
 | <a id="ding26x-architecture"></a>[Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](https://proceedings.mlr.press/v306/ding26x.html) | 第一视角三维检测的时序记忆 | 将先前帧的稀疏点特征存入统一坐标系，在当前视锥内检索聚合，并从仍可见的历史实例构造动态查询，与发现新实例的查询共同解码，以兼顾遮挡下的定位与身份一致性。 |
@@ -101,7 +101,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="aissi26a-inference"></a>[PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-aissi26a) | 具身 Agent 感知 | 让决策模型检查初始图像描述，围绕当前任务追问视觉模型，再用得到的细节做动作决策。 |
-| <a id="balim26a-inference"></a>[Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) | 扩散预测控制 | 在去噪过程中交替做任务规划和动力学修正，再按目标排序候选轨迹。动力学模型可以独立使用额外数据训练。 |
+| <a id="balim26a-inference"></a>[Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-balim26a) | 扩散预测控制 | 在去噪过程中交替做任务规划和动力学修正，再按目标排序候选轨迹。动力学模型可以独立使用额外数据训练。 |
 | <a id="beyer26a-inference"></a>[Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | 压缩空间运动规划 | 用自编码器把轨迹压成粗到细的离散 token，在潜空间按测试时指定的目标搜索，兼顾训练数据里的行为先验与可更换的规划目标。 |
 | <a id="chai26a-inference"></a>[N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | 移动操作站位 | 用操控策略的 rollout 给候选站位打分，并通过视角增强学习对视角不敏感的站位偏好，把策略能否成功执行纳入导航目标。 |
 | <a id="chen26i-inference"></a>[PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | 概率场景图导航 | 保留每个节点的完整类别分布，从联合分布选取多个可能世界来评估候选地标，再用过去成败轨迹校准当前检测结果。 |

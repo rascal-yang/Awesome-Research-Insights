@@ -55,8 +55,8 @@
 | <a id="bae26a-reinforcement-learning"></a>[Neural Logistic Bandits](https://proceedings.mlr.press/v306/bae26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bae26a) | 神经逻辑老虎机 | 用避免直接依赖环境维度的自归一化 Bernstein 不等式构造 UCB，使遗憾界随神经特征的有效维度增长。 |
 | <a id="bae26c-reinforcement-learning"></a>[LLM-Guided Communication for Cooperative Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/bae26c.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bae26c) | 多智能体通信 | 让 LLM 迭代设计通信规则，同时用各智能体的全局状态重建误差及彼此差异来评估规则，避免只有少数成员获得完整信息。 |
 | <a id="bagatella26a-reinforcement-learning"></a>[Test-time Offline Reinforcement Learning on Goal-related Experience](https://proceedings.mlr.press/v306/bagatella26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bagatella26a) | 目标条件测试时 RL | 根据当前状态选离线数据，再按测试目标评估转移质量，用少量更新在滚动时域内持续微调策略，适配当前这条轨迹。 |
-| <a id="basu26a-reinforcement-learning"></a>[Performative Policy Gradient: Optimality in Performative Reinforcement Learning](https://proceedings.mlr.press/v306/basu26a.html) | 部署反馈下的强化学习 | 策略会改变环境动力学时，将这种影响纳入策略梯度。在论文的 softmax 参数化设定里，可收敛到考虑自身引发分布变化的最优策略。 |
-| <a id="baur26a-reinforcement-learning"></a>[MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference](https://proceedings.mlr.press/v306/baur26a.html) | 多反馈奖励学习 | 为示范、比较、评分和停止信号等各自建似然，用共享潜奖励和一个变分目标联合推断，可避免手调不同反馈的损失权重。 |
+| <a id="basu26a-reinforcement-learning"></a>[Performative Policy Gradient: Optimality in Performative Reinforcement Learning](https://proceedings.mlr.press/v306/basu26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-basu26a) | 部署反馈下的强化学习 | 策略会改变环境动力学时，将这种影响纳入策略梯度。在论文的 softmax 参数化设定里，可收敛到考虑自身引发分布变化的最优策略。 |
+| <a id="baur26a-reinforcement-learning"></a>[MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference](https://proceedings.mlr.press/v306/baur26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-baur26a) | 多反馈奖励学习 | 为示范、比较、评分和停止信号等各自建似然，用共享潜奖励和一个变分目标联合推断，可避免手调不同反馈的损失权重。 |
 | <a id="belouadah26a-reinforcement-learning"></a>[CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](https://proceedings.mlr.press/v306/belouadah26a.html) | 安全策略优化 | 用局部一阶近似计算策略到安全边界的有符号距离，把它加入原始策略目标，缓解拉格朗日乘子更新滞后造成的违规与振荡。 |
 | <a id="blonde26a-reinforcement-learning"></a>[Noise-Guided Transport: Imitation Learning from Random Priors](https://proceedings.mlr.press/v306/blonde26a.html) | 低数据模仿学习 | 将模仿学习写成从随机先验出发的最优传输问题，用离策略对抗训练求解，可在少量专家转移下学习高维控制，并把不确定性纳入方法。 |
 | <a id="bo26c-reinforcement-learning"></a>[Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) | 因果元强化学习 | 从与混杂观测相容的候选环境中采样反事实轨迹，再用它们训练策略初始化，显式覆盖多个可能的环境机制。 |
@@ -131,7 +131,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bastankhah26a-representation-learning"></a>[Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](https://proceedings.mlr.press/v306/bastankhah26a.html) | 控制相关表征 | 最大化智能体可以对环境施加的影响，会产生描述不同状态信息的前向和后向表征，两者都可对与控制无关的因素保持不变。 |
+| <a id="bastankhah26a-representation-learning"></a>[Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](https://proceedings.mlr.press/v306/bastankhah26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bastankhah26a) | 控制相关表征 | 最大化智能体可以对环境施加的影响，会产生描述不同状态信息的前向和后向表征，两者都可对与控制无关的因素保持不变。 |
 
 <a id="by-evaluation"></a>
 
@@ -139,7 +139,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bates26a-evaluation"></a>[Beyond Rewards in RL for Cyber Defence](https://proceedings.mlr.press/v306/bates26a.html) | 防御强化学习奖励 | 用独立于训练奖励的目标评估比较策略。若稀疏成功信号在探索中出现得够频繁，策略可更可靠并减少代价高的动作。 |
+| <a id="bates26a-evaluation"></a>[Beyond Rewards in RL for Cyber Defence](https://proceedings.mlr.press/v306/bates26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bates26a) | 防御强化学习奖励 | 用独立于训练奖励的目标评估比较策略。若稀疏成功信号在探索中出现得够频繁，策略可更可靠并减少代价高的动作。 |
 | <a id="cherepanov26a-evaluation"></a>[KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](https://proceedings.mlr.press/v306/cherepanov26a.html) | 像素策略的单因素泛化评测 | 保持转移和奖励不变，每个训练与评测配置对只改变一个渲染参数。论文中的 PPO-CNN 有时在背景或图像滤镜变化后仍能向前移动，却无法通关，评测时可同时记录任务完成率和推进程度。 |
 | <a id="guo26f-evaluation"></a>[PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](https://proceedings.mlr.press/v306/guo26f.html) | 强化学习后门的逐步不确定性监测 | 给当前状态动作历史拼接多条参考轨迹的未来片段，分别用时序高斯过程估计当前步的后验方差，再汇总为异常分数。由此可在完整轨迹尚不可见时逐步监测策略的后门行为。 |
 
@@ -154,10 +154,10 @@
 | <a id="anderson26a-theory-statistics"></a>[The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](https://proceedings.mlr.press/v306/anderson26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-anderson26a) | 部分可观测决策 | 无记忆随机策略的可达价值由多项式不等式表示。部分可观测性可引入独立局部极大值，其表现依赖初始状态分布。 |
 | <a id="ann26a-theory-statistics"></a>[Generalized Linear Bandits with Memory](https://proceedings.mlr.press/v306/ann26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ann26a) | 带动作记忆的老虎机 | 当历史动作通过有限记忆影响当前回报时，用分块决策与收缩置信界可把广义线性设定的遗憾控制到平方根量级。 |
 | <a id="arora26b-theory-statistics"></a>[Minimax-Optimal Policy Regret in Partially Observable Markov Games](https://proceedings.mlr.press/v306/arora26b.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-arora26b) | 部分可观测博弈 | 对有记忆的适应性对手，以几何增长的轮次固定候选策略，用累积历史更新乐观似然置信集，可将跨策略切换次数控制在对数量级。 |
-| <a id="balagopalan26a-theory-statistics"></a>[Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](https://proceedings.mlr.press/v306/balagopalan26a.html) | 最优臂识别 | 用通用转换器包装任意固定置信度算法，可在仅增加对数级样本开销的条件下，把它用于固定预算的最优臂识别。 |
-| <a id="balcan26a-theory-statistics"></a>[Learning in Structured Stackelberg Games](https://proceedings.mlr.press/v306/balcan26a.html) | 结构化 Stackelberg 博弈 | 当上下文可以预测追随者类型时，更合适的在线难度度量是 Stackelberg–Littlestone 维数。它能紧致刻画领导者的实例最优遗憾。 |
-| <a id="banihashem26a-theory-statistics"></a>[Bandit Social Learning with Exploration Episodes](https://proceedings.mlr.press/v306/banihashem26a.html) | 社会学习探索 | 个体在自己的短回合里有探索动机，整体系统的贝叶斯遗憾仍可能线性增长，设计平台时要单独考虑跨回合的探索。 |
-| <a id="barbara26a-theory-statistics"></a>[Optimal Rates for Feasible Payoff Set Estimation in Games](https://proceedings.mlr.press/v306/barbara26a.html) | 逆博弈估计 | 只观察到近似纳什行为时，可用 Hausdorff 距离估计所有与行为相容的收益函数集合，为后续反事实分析保留不可辨识性。 |
+| <a id="balagopalan26a-theory-statistics"></a>[Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](https://proceedings.mlr.press/v306/balagopalan26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-balagopalan26a) | 最优臂识别 | 用通用转换器包装任意固定置信度算法，可在仅增加对数级样本开销的条件下，把它用于固定预算的最优臂识别。 |
+| <a id="balcan26a-theory-statistics"></a>[Learning in Structured Stackelberg Games](https://proceedings.mlr.press/v306/balcan26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-balcan26a) | 结构化 Stackelberg 博弈 | 当上下文可以预测追随者类型时，更合适的在线难度度量是 Stackelberg–Littlestone 维数。它能紧致刻画领导者的实例最优遗憾。 |
+| <a id="banihashem26a-theory-statistics"></a>[Bandit Social Learning with Exploration Episodes](https://proceedings.mlr.press/v306/banihashem26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26a) | 社会学习探索 | 个体在自己的短回合里有探索动机，整体系统的贝叶斯遗憾仍可能线性增长，设计平台时要单独考虑跨回合的探索。 |
+| <a id="barbara26a-theory-statistics"></a>[Optimal Rates for Feasible Payoff Set Estimation in Games](https://proceedings.mlr.press/v306/barbara26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-barbara26a) | 逆博弈估计 | 只观察到近似纳什行为时，可用 Hausdorff 距离估计所有与行为相容的收益函数集合，为后续反事实分析保留不可辨识性。 |
 | <a id="benyamine26a-theory-statistics"></a>[Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) | 不确定 MDP | 把未知转移看作随机分布，对策略回报施加风险度量，并据此判断哪类风险偏好还能沿用 Bellman 递推。 |
 | <a id="bollini26a-theory-statistics"></a>[Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) | 在线 Stackelberg 博弈 | 领头方不知道对手类型的收益时，只观测最佳响应不足以保证次线性遗憾；如果每轮还能看到类型，则可达到根号轮数量级。 |
 | <a id="braverman26a-theory-statistics"></a>[Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | 流式多臂老虎机 | 只允许在最近到达的臂里选择时，有限存储使精确找最佳臂困难，近似最佳臂则可用更少内存；可用这一区别决定要保证哪种精度。 |

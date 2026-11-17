@@ -64,7 +64,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) | [Read insight (中文)](../../papers/nlp.md#banayeeanzade26a-data-strategies) |
+| [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-banayeeanzade26a) | [Read insight (中文)](../../papers/nlp.md#banayeeanzade26a-data-strategies) |
 | [Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://proceedings.mlr.press/v306/cho26i.html) | [Read insight (中文)](../../papers/nlp.md#cho26i-data-strategies) |
 | [HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](https://proceedings.mlr.press/v306/dutta26a.html) | [Read insight (中文)](../../papers/nlp.md#dutta26a-data-strategies) |
 
@@ -98,7 +98,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](https://proceedings.mlr.press/v306/altintas26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-altintas26a) | [Read insight (中文)](../../papers/nlp.md#altintas26a-evaluation) |
-| [VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) | [Read insight (中文)](../../papers/nlp.md#basha26a-evaluation) |
+| [VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-basha26a) | [Read insight (中文)](../../papers/nlp.md#basha26a-evaluation) |
 | [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) | [Read insight (中文)](../../papers/nlp.md#chen26av-evaluation) |
 | [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | [Read insight (中文)](../../papers/nlp.md#chen26bf-evaluation) |
 | [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | [Read insight (中文)](../../papers/nlp.md#dehdashtian26a-evaluation) |
@@ -118,6 +118,6 @@ The linked short insights are available in Chinese.
 | [Efficient Mismatch-Tolerant Coding for Model-Driven Compression](https://proceedings.mlr.press/v306/adler26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adler26b) | [Read insight (中文)](../../papers/nlp.md#adler26b-theory-statistics) |
 | [Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-arenas26a) | [Read insight (中文)](../../papers/nlp.md#arenas26a-theory-statistics) |
 | [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-ashrafi26a) | [Read insight (中文)](../../papers/nlp.md#ashrafi26a-theory-statistics) |
-| [Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) | [Read insight (中文)](../../papers/nlp.md#banihashem26b-theory-statistics) |
+| [Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26b) | [Read insight (中文)](../../papers/nlp.md#banihashem26b-theory-statistics) |
 | [Text Has Curvature](https://proceedings.mlr.press/v306/grover26b.html) | [Read insight (中文)](../../papers/nlp.md#grover26b-theory-statistics) |
 <!-- classification:end -->

@@ -23,7 +23,7 @@
 | :--- | :--- | :--- |
 | <a id="atanov26a-architecture"></a>[VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](https://proceedings.mlr.press/v306/atanov26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-atanov26a) | 视频分词 | 让视频 token 按粗到细排列，前面少量 token 保留语义与运动，尾部补充细节。生成式解码器可以在不同截断长度重建视频。 |
 | <a id="baade26a-architecture"></a>[Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://proceedings.mlr.press/v306/baade26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-baade26a) | 像素空间扩散 | 给潜变量和像素安排不同噪声日程，使模型先形成可作中间计算的潜表示，再补出高频像素细节。 |
-| <a id="bao26f-architecture"></a>[Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | 少样本布局生成 | 用类别锚点保留对象身份，将局部视觉细节编码成可重组原语，缓解小样本非典型布局生成中的语义碎裂。 |
+| <a id="bao26f-architecture"></a>[Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bao26f) | 少样本布局生成 | 用类别锚点保留对象身份，将局部视觉细节编码成可重组原语，缓解小样本非典型布局生成中的语义碎裂。 |
 | <a id="chen26du-architecture"></a>[Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | 按空间分组的同位词元预测 | 把图像词元按空间顺序分组，用已生成组构造与当前组位置对齐的输入。当前组输入内部可做全注意力，并行预测对应位置，组间掩码保证预测只依赖先前生成的真实词元。 |
 | <a id="chen26ga-architecture"></a>[Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | 压缩成像的连续光谱先验 | 在每一步展开重建中用物理编码掩码约束数据一致性，再以可查询波长的连续光谱场作先验。训练时只对有真值的离散波长切片计算误差，推理时可查询未参与训练的波长。 |
 | <a id="choy26a-architecture"></a>[SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](https://proceedings.mlr.press/v306/choy26a.html) | 开放词汇三维实例分割 | 将固定空间范围的窗口注意力和固定词元数的 Morton 序分段交替使用，以兼顾局部几何与分块计算。解码器直接用可学习查询从体素特征预测实例掩码。 |
@@ -100,7 +100,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bai26n-training-strategies"></a>[Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) | 少步生成蒸馏 | 当真实教师的引导失真、生成教师的排斥又不足时，用奖励代理识别异常区域，重新分配纠偏梯度并加强对坍缩模式的排斥。 |
+| <a id="bai26n-training-strategies"></a>[Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bai26n) | 少步生成蒸馏 | 当真实教师的引导失真、生成教师的排斥又不足时，用奖励代理识别异常区域，重新分配纠偏梯度并加强对坍缩模式的排斥。 |
 | <a id="cai26h-training-strategies"></a>[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | 长视频生成 | 用有限长视频监督全局流匹配头学习叙事与运动，再用冻结的短视频教师对滑窗局部做反向 KL 匹配，让长程一致性与局部质感各有监督。 |
 | <a id="cao26o-training-strategies"></a>[Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | 动态参数高效微调 | 定期重测视觉 Transformer 各处的敏感性，把学过的适配模块冻结，再将可训练参数额度分给新出现的敏感位置。 |
 | <a id="chavhan26a-training-strategies"></a>[NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | 端侧文生图蒸馏 | 分阶段裁剪扩散 Transformer，并只让中间块用降采样 token；再用去噪器早期层的视觉信号蒸馏文本编码器，把压缩分摊到多个环节。 |
@@ -139,7 +139,7 @@
 | :--- | :--- | :--- |
 | <a id="alesiani26a-inference"></a>[Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-alesiani26a) | 扩散模型逻辑控制 | 将逻辑约束编译成电路，若合取子式条件独立、析取子式条件独立或互斥，即可从原子属性的后验和分数递推精确引导。 |
 | <a id="bae26b-inference"></a>[Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bae26b) | 图像隐写 | 用随机基压制潜变量中的结构残留，再融合多张图像的潜变量，使同一扩散载体可按授权分别恢复不同隐藏内容。 |
-| <a id="bang26a-inference"></a>[Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) | 扩散逆问题 | 早期大幅 CFG 可能与观测一致性更新冲突。采样中逐步降低数据一致性引导和随机性、提高 CFG，可以分别兼顾观测和生成质量。 |
+| <a id="bang26a-inference"></a>[Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bang26a) | 扩散逆问题 | 早期大幅 CFG 可能与观测一致性更新冲突。采样中逐步降低数据一致性引导和随机性、提高 CFG，可以分别兼顾观测和生成质量。 |
 | <a id="briq26a-inference"></a>[Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) | 潜空间流匹配 | 不同容量的模型对同一噪声种子会生成相近内容，因此可用小模型完成前段流轨迹，再交给大模型补后段细节。 |
 | <a id="cai26g-inference"></a>[Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) | 无分类器引导 | 把 CFG 视为带流形约束的连续优化，在每个采样阶段加入投影式修正，并利用 Anderson 加速抑制引导强度敏感性。 |
 | <a id="cai26n-inference"></a>[TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | 多实例图像到三维 | 去噪早期用实例级分离引导避免对象粘连，再用几何适应更新稳住形状及相对布局，无需训练多实例模型。 |

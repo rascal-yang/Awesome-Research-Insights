@@ -62,7 +62,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="banayeeanzade26a-data-strategies"></a>[EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) | 差分隐私合成数据 | 只提取和净化一次私有数据相对公共先验的激活偏移向量，之后用它引导解码。重复合成样本属于后处理，无需重复消耗隐私预算。 |
+| <a id="banayeeanzade26a-data-strategies"></a>[EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-banayeeanzade26a) | 差分隐私合成数据 | 只提取和净化一次私有数据相对公共先验的激活偏移向量，之后用它引导解码。重复合成样本属于后处理，无需重复消耗隐私预算。 |
 | <a id="cho26i-data-strategies"></a>[Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://proceedings.mlr.press/v306/cho26i.html) | 临床文本改写的专家约束 | 先让轻量医学专家模型标出临床笔记中必须保留语义的词项，再把原文和词项约束交给通用模型改写，沿用原始标签。实验同时检查词元和医学概念，测量改写对关键内容的保留及幻觉引入。 |
 | <a id="dutta26a-data-strategies"></a>[HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](https://proceedings.mlr.press/v306/dutta26a.html) | 对比学习的困难负例组批 | 组批时用查询与候选负文档的相似度减去正、负文档相似度的加权项，优先选对查询有迷惑性但与正例不近重复的负例。再贪心最大化子模组批目标，让这种难负例随训练批次变化。 |
 
@@ -96,7 +96,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="altintas26a-evaluation"></a>[TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](https://proceedings.mlr.press/v306/altintas26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-altintas26a) | 分词器评测 | 训练模型时固定架构、数据、训练预算和初始化，只改变分词器，再用原生语言者整理的真实扰动测试分词的影响。 |
-| <a id="basha26a-evaluation"></a>[VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) | 音频表征评测 | 只用单声源片段测冻结嵌入的几何，并以置换基线校准近邻纯度与全局分离率，可单独暴露低资源语言的表示差距。 |
+| <a id="basha26a-evaluation"></a>[VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-basha26a) | 音频表征评测 | 只用单声源片段测冻结嵌入的几何，并以置换基线校准近邻纯度与全局分离率，可单独暴露低资源语言的表示差距。 |
 | <a id="chen26av-evaluation"></a>[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) | 检索增强生成安全评测 | 文档中的注意力集中机制可以在不同检索器和生成器之间迁移。做投毒压力测试时，可单独评估复用型污染对检索排序和生成内容的影响。 |
 | <a id="chen26bf-evaluation"></a>[Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | 生成文本的惊异度转移检测 | 用代理语言模型单次前向计算词元的负对数条件概率，将其离散为状态，再统计相邻状态的转移。用广义 Jensen–Shannon 散度比较测试文本与预先建立的人类和机器文本转移矩阵。 |
 | <a id="dehdashtian26a-evaluation"></a>[FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | 音频深伪检测的多样性压力测试 | 在黑盒红队评测中同时把检测器反馈和候选音频间的多样性反馈放进上下文，令测试覆盖更多错误模式。论文在所测检测器上确认了部分失效跨模型迁移，且回收测试样本做微调能提高检测稳健性。 |
@@ -116,6 +116,6 @@
 | <a id="adler26b-theory-statistics"></a>[Efficient Mismatch-Tolerant Coding for Model-Driven Compression](https://proceedings.mlr.press/v306/adler26b.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adler26b) | 无损压缩 | 编码器和解码器的模型预测有界不一致时，可通过重新优化概率匹配区间编码的参数，在保留鲁棒性的同时降低码长。 |
 | <a id="arenas26a-theory-statistics"></a>[Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-arenas26a) | 语言学习复杂度 | 只从正例最终生成目标形式语言在可计算意义下成立，但样本复杂度障碍甚至出现在正则语言的严格子类。 |
 | <a id="ashrafi26a-theory-statistics"></a>[The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-ashrafi26a) | 检索公平性 | 在共享向量空间里，语义相邻的多数文档变得密集后，可能把少数目标挤出前 k 位。按查询孤立评测容易漏掉这种跨目标相互作用。 |
-| <a id="banihashem26b-theory-statistics"></a>[Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) | 自适应近似检索 | 查询会参考历史返回值时，经典近似最远邻结构可能失去保证。为自适应查询设计的结构仍能在一部分参数范围保持次线性查询开销。 |
+| <a id="banihashem26b-theory-statistics"></a>[Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26b) | 自适应近似检索 | 查询会参考历史返回值时，经典近似最远邻结构可能失去保证。为自适应查询设计的结构仍能在一部分参数范围保持次线性查询开销。 |
 | <a id="grover26b-theory-statistics"></a>[Text Has Curvature](https://proceedings.mlr.press/v306/grover26b.html) | 双侧上下文的词义收缩曲率 | 在同一词位分别扩展左、右上下文，用去偏传输散度比较扩展一侧前后另一侧引起的词义后验变化。变化收缩对应正曲率，扩张对应负曲率。 |
 <!-- classification:end -->
