@@ -636,7 +636,6 @@
 - [融合分子图的单次消费边计算减少显存访问](../conferences/icml-2026/cards/2401-2500.md#li26cf-inference) · $\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics
 - [从正常与病理病例同时检索证据](../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · Evidential Reasoning Advances Interpretable Real-World Disease Screening
 - [模拟电路测试台的神经符号生成](../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification
-- [用弱结合分布的反向梯度引导表位生成](../conferences/icml-2026/cards/3001-3100.md#luan26b-inference) · EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance
 - [按规格局部信息生成和调试 Verilog](../conferences/icml-2026/cards/3101-3200.md#lyu26c-inference) · QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation
 - [实验约束蛋白构象集合](../conferences/icml-2026/cards/3101-3200.md#maddipatla26a-inference) · Inference-time optimization for experiment-grounded protein ensemble generation
 - [用持久同调控制分子环闭合](../conferences/icml-2026/cards/3101-3200.md#maksymiuk26a-inference) · MacroGuide: Topological Guidance for Macrocycle Generation

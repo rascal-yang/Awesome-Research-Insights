@@ -2704,7 +2704,6 @@ liu26ca	ml-foundations	theory-statistics
 liu26cb	llm	inference
 liu26cc	computer-vision	loss-functions
 liu26cd	ml-foundations	optimization
-liu26ce	scientific-ml	architecture
 liu26cf	llm	loss-functions
 liu26cg	computer-vision	inference
 liu26ch	robotics	architecture
@@ -2720,11 +2719,9 @@ liu26cq	llm	inference
 liu26cr	multimodal	evaluation
 liu26cs	llm	optimization
 liu26ct	llm	evaluation
-liu26cu	scientific-ml	evaluation
 liu26cv	llm	training-strategies
 liu26cw	computer-vision	architecture
 liu26cx	llm	architecture
-liu26cy	scientific-ml	evaluation
 liu26cz	llm	training-strategies
 liu26da	llm	inference
 liu26db	robotics	architecture
@@ -2829,7 +2826,6 @@ lobo26a	ml-foundations	theory-statistics
 locatelli26a	multimodal	evaluation
 long26a	multimodal	reinforcement-learning
 longhini26a	robotics	reinforcement-learning
-longpre26a	ml-foundations	evaluation
 lotlikar26a	scientific-ml	optimization
 lou26a	robotics	representation-learning
 lou26b	computer-vision	architecture
@@ -2875,7 +2871,6 @@ lu26ad	graph-and-recommendation	optimization
 lu26ae	multimodal	inference
 lu26af	multimodal	loss-functions
 lu26ag	llm	training-strategies
-lu26ah	scientific-ml	theory-statistics
 lu26ai	computer-vision	training-strategies
 lu26aj	llm	reinforcement-learning
 lu26ak	scientific-ml	representation-learning
@@ -2890,7 +2885,6 @@ lu26as	multimodal	representation-learning
 lu26at	reinforcement-learning	loss-functions
 lu26au	llm	architecture
 luan26a	reinforcement-learning	reinforcement-learning
-luan26b	scientific-ml	inference
 luderssen26a	graph-and-recommendation	optimization
 luenam26a	ml-foundations	optimization
 lui26a	ml-foundations	architecture

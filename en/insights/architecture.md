@@ -359,7 +359,6 @@ Model-wide design and information flow.
 - [Solving Time-Dependent Differential Equations with Physical Dynamical Systems](../../conferences/icml-2026/cards/2701-2800.md#liu26s-architecture) · 中文
 - [ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding](../../conferences/icml-2026/cards/2801-2900.md#liu26ap-architecture) · 中文
 - [Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26bk-architecture) · 中文
-- [Geometric Pocket-Centric Protein Encoding for Polypharmacology-Guided Multi-Target Drug Design](../../conferences/icml-2026/cards/2801-2900.md#liu26ce-architecture) · 中文
 - [Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting](../../conferences/icml-2026/cards/2901-3000.md#liu26er-architecture) · 中文
 - [Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis](../../conferences/icml-2026/cards/2901-3000.md#liu26ey-architecture) · 中文
 - [FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots](../../conferences/icml-2026/cards/2901-3000.md#liu26fl-architecture) · 中文

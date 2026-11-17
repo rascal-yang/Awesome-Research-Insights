@@ -589,7 +589,6 @@
 - [用工具变量指导高维处理的表征压缩](../conferences/icml-2026/cards/2701-2800.md#lin26q-theory-statistics) · Learning Treatment Representations for Downstream Instrumental Variable Regression
 - [用最坏潜混杂强度给基因发现做敏感性分析](../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders
 - [从 SDE 增量学漂移扩散再找李生成元](../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems
-- [用序列条件突变率近似抗体逐步演化](../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · Conditionally Site-Independent Neural Evolution of Antibody Sequences
 - [双重优化并行拟合纵向处理的各时点效应](../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · DeepBlip: Estimating Conditional Average Treatment Effects Over Time
 - [右删失生存分位](../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival
 - [空间物理学习的函数空间外推](../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · Interpretability and Generalization Bounds for Learning Spatial Physics

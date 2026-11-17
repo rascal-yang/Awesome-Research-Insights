@@ -514,7 +514,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation](../../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · 中文
 - [Causes and Consequences of Representational Similarity in Machine Learning Models](../../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · 中文
 - [Beyond Procedure: Substantive Fairness in Conformal Prediction](../../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · 中文
-- [FLARE-AI: Flaw Reporting for AI](../../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · 中文
 - [Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · 中文
 - [Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers](../../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · 中文
 - [Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · 中文
@@ -562,8 +561,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · 中文
 - [HEARTS: Benchmarking LLM Reasoning on Health Time Series](../../conferences/icml-2026/cards/2601-2700.md#li26hr-evaluation) · 中文
 - [Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks](../../conferences/icml-2026/cards/2601-2700.md#li26if-evaluation) · 中文
-- [BioProBench: A Corpus and Benchmark for Biological Protocol Reasoning in Autonomous Science](../../conferences/icml-2026/cards/2801-2900.md#liu26cu-evaluation) · 中文
-- [ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](../../conferences/icml-2026/cards/2801-2900.md#liu26cy-evaluation) · 中文
 - [From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures](../../conferences/icml-2026/cards/2801-2900.md#liu26df-evaluation) · 中文
 - [ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · 中文
 - [AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · 中文

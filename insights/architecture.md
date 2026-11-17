@@ -359,7 +359,6 @@
 - [以硬件连续动力学分担空间算子和时间积分](../conferences/icml-2026/cards/2701-2800.md#liu26s-architecture) · Solving Time-Dependent Differential Equations with Physical Dynamical Systems
 - [用轮廓、前景和场景锚分层对齐脑电信号](../conferences/icml-2026/cards/2801-2900.md#liu26ap-architecture) · ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding
 - [几何张量的等变正定协方差](../conferences/icml-2026/cards/2801-2900.md#liu26bk-architecture) · Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning
-- [按共享配体条件联合编码多个口袋](../conferences/icml-2026/cards/2801-2900.md#liu26ce-architecture) · Geometric Pocket-Centric Protein Encoding for Polypharmacology-Guided Multi-Target Drug Design
 - [非平稳交通时空预测](../conferences/icml-2026/cards/2901-3000.md#liu26er-architecture) · Decoupling Universal Laws and Environmental Heterogeneity: A Physics-Inspired Framework for Robust Spatio-Temporal Forecasting
 - [心电到毫米波雷达合成](../conferences/icml-2026/cards/2901-3000.md#liu26ey-architecture) · Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis
 - [由所有非配对点云快照共同初始化连续轨迹](../conferences/icml-2026/cards/2901-3000.md#liu26fl-architecture) · FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots

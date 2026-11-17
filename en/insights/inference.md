@@ -636,7 +636,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](../../conferences/icml-2026/cards/2401-2500.md#li26cf-inference) · 中文
 - [Evidential Reasoning Advances Interpretable Real-World Disease Screening](../../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · 中文
 - [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · 中文
-- [EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance](../../conferences/icml-2026/cards/3001-3100.md#luan26b-inference) · 中文
 - [QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation](../../conferences/icml-2026/cards/3101-3200.md#lyu26c-inference) · 中文
 - [Inference-time optimization for experiment-grounded protein ensemble generation](../../conferences/icml-2026/cards/3101-3200.md#maddipatla26a-inference) · 中文
 - [MacroGuide: Topological Guidance for Macrocycle Generation](../../conferences/icml-2026/cards/3101-3200.md#maksymiuk26a-inference) · 中文
