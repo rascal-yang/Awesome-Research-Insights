@@ -74,6 +74,7 @@
 - [让用户通过看样例逐步形成意图](../conferences/icml-2026/cards/2101-2200.md#kim26av-training-strategies) · DiscoverLLM: From Executing Intents to Discovering Them
 - [联邦偏好对齐的个性化混合先验](../conferences/icml-2026/cards/2201-2300.md#koo26a-training-strategies) · Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences
 - [让教师从学生自己走到的状态接管](../conferences/icml-2026/cards/2201-2300.md#lauffer26a-training-strategies) · Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections
+- [用可补算的数据分片抵消同步训练故障](../conferences/icml-2026/cards/2301-2400.md#lee26c-training-strategies) · SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs
 
 <a id="by-computer-vision"></a>
 
@@ -101,6 +102,7 @@
 - [用分级加噪监督激活生成器早层](../conferences/icml-2026/cards/1801-1900.md#hyun26a-training-strategies) · Scalable GANs with Transformers
 - [保留槽位的因素分区并在学习后回放解码器](../conferences/icml-2026/cards/2001-2100.md#kang26e-training-strategies) · Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning
 - [用熵导向扰动训练失真恢复](../conferences/icml-2026/cards/2201-2300.md#kumar26a-training-strategies) · Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks
+- [按学生不可学习区域选择教师熵](../conferences/icml-2026/cards/2301-2400.md#lee26g-training-strategies) · Toward Understanding Adversarial Distillation: Why Robust Teachers Fail
 
 <a id="by-nlp"></a>
 

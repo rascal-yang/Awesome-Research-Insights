@@ -293,6 +293,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="kim26av-training-strategies"></a>[DiscoverLLM: From Executing Intents to Discovering Them](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26av)
 - <a id="koo26a-training-strategies"></a>[Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences](../../conferences/icml-2026/cards/2201-2300.md#paper-koo26a)
 - <a id="lauffer26a-training-strategies"></a>[Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections](../../conferences/icml-2026/cards/2201-2300.md#paper-lauffer26a)
+- <a id="lee26c-training-strategies"></a>[SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26c)
 
 <a id="by-data-strategies"></a>
 
@@ -475,6 +476,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="le26c-inference"></a>[Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference](../../conferences/icml-2026/cards/2201-2300.md#paper-le26c)
 - <a id="le26g-inference"></a>[FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding](../../conferences/icml-2026/cards/2201-2300.md#paper-le26g)
 - <a id="leang26a-inference"></a>[Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models](../../conferences/icml-2026/cards/2201-2300.md#paper-leang26a)
+- <a id="lee26d-inference"></a>[Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26d)
+- <a id="lee26i-inference"></a>[DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26i)
+- <a id="lee26j-inference"></a>[Stochastic Sparse Attention for Memory-Bound Inference](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26j)
 
 <a id="by-representation-learning"></a>
 
@@ -666,6 +670,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lai26a-evaluation"></a>[UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms](../../conferences/icml-2026/cards/2201-2300.md#paper-lai26a)
 - <a id="lambert26a-evaluation"></a>[Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines](../../conferences/icml-2026/cards/2201-2300.md#paper-lambert26a)
 - <a id="lasy26a-evaluation"></a>[RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing](../../conferences/icml-2026/cards/2201-2300.md#paper-lasy26a)
+- <a id="lee26a-evaluation"></a>[Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26a)
+- <a id="lee26b-evaluation"></a>[Decomposing Query-Key Feature Interactions Using Contrastive Covariances](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26b)
 
 <a id="by-theory-statistics"></a>
 

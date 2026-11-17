@@ -263,6 +263,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="krasowski26a-evaluation"></a>[PINNfluence: Interpreting PINNs through Influence Functions](../../conferences/icml-2026/cards/2201-2300.md#paper-krasowski26a)
 - <a id="ku26a-evaluation"></a>[ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts](../../conferences/icml-2026/cards/2201-2300.md#paper-ku26a)
 - <a id="kuang26d-evaluation"></a>[PDFBench: A Benchmark for De Novo Protein Design from Function](../../conferences/icml-2026/cards/2201-2300.md#paper-kuang26d)
+- <a id="ledneva26b-evaluation"></a>[GENEB: Why Genomic Models Are Hard to Compare](../../conferences/icml-2026/cards/2301-2400.md#paper-ledneva26b)
 
 <a id="by-theory-statistics"></a>
 

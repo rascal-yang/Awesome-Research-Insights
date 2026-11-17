@@ -132,6 +132,7 @@
 - [把目标偏好写进边注意力](../conferences/icml-2026/cards/1801-1900.md#jia26l-modules) · Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization
 - [在中间层用互斥正交子空间分离变因](../conferences/icml-2026/cards/2001-2100.md#jung26g-modules) · Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization
 - [用输入驱动的辛变换伸缩注意力时间轴](../conferences/icml-2026/cards/2101-2200.md#kim26bk-modules) · StretchTime: Adaptive Time Series Forecasting via Symplectic Attention
+- [用关系条件调制注意力投影](../conferences/icml-2026/cards/2301-2400.md#lee26h-modules) · Dynamic Relational Priming Improves Transformer in Multivariate Time Series
 
 <a id="by-graph-and-recommendation"></a>
 

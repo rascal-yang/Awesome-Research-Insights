@@ -188,6 +188,8 @@
 - [先生成任务适用的评分规则，再输出逐项比较](../conferences/icml-2026/cards/2201-2300.md#lai26a-evaluation) · UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms
 - [蒸馏能耗的阶段核算与复用](../conferences/icml-2026/cards/2201-2300.md#lambert26a-evaluation) · Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines
 - [先逐特征解释再汇总专家路由](../conferences/icml-2026/cards/2201-2300.md#lasy26a-evaluation) · RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing
+- [将特征触发路径与输出影响分开追踪](../conferences/icml-2026/cards/2301-2400.md#lee26a-evaluation) · Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects
+- [用成对协方差差分分解关系分数](../conferences/icml-2026/cards/2301-2400.md#lee26b-evaluation) · Decomposing Query-Key Feature Interactions Using Contrastive Covariances
 
 <a id="by-computer-vision"></a>
 
@@ -404,4 +406,5 @@
 - [分开归因初始条件和物理残差](../conferences/icml-2026/cards/2201-2300.md#krasowski26a-evaluation) · PINNfluence: Interpreting PINNs through Influence Functions
 - [按构象机制评估蛋白模型的状态覆盖](../conferences/icml-2026/cards/2201-2300.md#ku26a-evaluation) · ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts
 - [以多维指标和时间切分评估功能蛋白设计](../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · PDFBench: A Benchmark for De Novo Protein Design from Function
+- [按功能和样本量复核基因组模型排名](../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · GENEB: Why Genomic Models Are Hard to Compare
 <!-- classification:end -->

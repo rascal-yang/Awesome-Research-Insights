@@ -157,6 +157,9 @@
 - [用跨层传播选择注意力块](../conferences/icml-2026/cards/2201-2300.md#le26c-inference) · Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference
 - [把 KV 压缩差错限制在草稿分支](../conferences/icml-2026/cards/2201-2300.md#le26g-inference) · FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding
 - [用前瞻续填判断哪个扩散槽应先提交](../conferences/icml-2026/cards/2201-2300.md#leang26a-inference) · Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models
+- [用历史与草稿联合选择验证缓存](../conferences/icml-2026/cards/2301-2400.md#lee26d-inference) · Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding
+- [按注意力上下文变化刷新扩散解码缓存](../conferences/icml-2026/cards/2301-2400.md#lee26i-inference) · DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention
+- [将注意力的 KV 读取转成有界抽样预算](../conferences/icml-2026/cards/2301-2400.md#lee26j-inference) · Stochastic Sparse Attention for Memory-Bound Inference
 
 <a id="by-computer-vision"></a>
 
@@ -317,6 +320,7 @@
 - [在视觉代理记忆里分开局部经验与任务技能](../conferences/icml-2026/cards/1901-2000.md#jiang26aq-inference) · XSkill: Continual Learning from Experience and Skills in Multimodal Agents
 - [先否决扩散解码中不稳定或无图像依据的词元](../conferences/icml-2026/cards/2101-2200.md#kim26al-inference) · ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding
 - [按跨增广稳定性和局部密度选择视图](../conferences/icml-2026/cards/2101-2200.md#kim26bt-inference) · SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models
+- [从弱相似视觉补丁恢复指代区域](../conferences/icml-2026/cards/2301-2400.md#lee26e-inference) · CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

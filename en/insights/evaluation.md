@@ -188,6 +188,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms](../../conferences/icml-2026/cards/2201-2300.md#lai26a-evaluation) · 中文
 - [Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines](../../conferences/icml-2026/cards/2201-2300.md#lambert26a-evaluation) · 中文
 - [RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing](../../conferences/icml-2026/cards/2201-2300.md#lasy26a-evaluation) · 中文
+- [Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects](../../conferences/icml-2026/cards/2301-2400.md#lee26a-evaluation) · 中文
+- [Decomposing Query-Key Feature Interactions Using Contrastive Covariances](../../conferences/icml-2026/cards/2301-2400.md#lee26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -404,4 +406,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [PINNfluence: Interpreting PINNs through Influence Functions](../../conferences/icml-2026/cards/2201-2300.md#krasowski26a-evaluation) · 中文
 - [ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts](../../conferences/icml-2026/cards/2201-2300.md#ku26a-evaluation) · 中文
 - [PDFBench: A Benchmark for De Novo Protein Design from Function](../../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · 中文
+- [GENEB: Why Genomic Models Are Hard to Compare](../../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · 中文
 <!-- classification:end -->

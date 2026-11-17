@@ -82,6 +82,7 @@
 - <a id="kim26e-loss-functions"></a>[Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents](../conferences/icml-2026/cards/2001-2100.md#paper-kim26e)
 - <a id="koromilas26b-loss-functions"></a>[Neural Collapse by Design: Learning Class Prototypes on the Hypersphere](../conferences/icml-2026/cards/2201-2300.md#paper-koromilas26b)
 - <a id="kuang26b-loss-functions"></a>[Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations](../conferences/icml-2026/cards/2201-2300.md#paper-kuang26b)
+- <a id="lee26k-loss-functions"></a>[Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26k)
 
 <a id="by-optimization"></a>
 
@@ -142,6 +143,7 @@
 - <a id="hyun26a-training-strategies"></a>[Scalable GANs with Transformers](../conferences/icml-2026/cards/1801-1900.md#paper-hyun26a)
 - <a id="kang26e-training-strategies"></a>[Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26e)
 - <a id="kumar26a-training-strategies"></a>[Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26a)
+- <a id="lee26g-training-strategies"></a>[Toward Understanding Adversarial Distillation: Why Robust Teachers Fail](../conferences/icml-2026/cards/2301-2400.md#paper-lee26g)
 
 <a id="by-data-strategies"></a>
 

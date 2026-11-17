@@ -25,6 +25,7 @@
 - <a id="jin26m-architecture"></a>[SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jin26m)
 - <a id="koh26a-architecture"></a>[Generative Visual Code Mobile World Models](../conferences/icml-2026/cards/2101-2200.md#paper-koh26a)
 - <a id="langer26a-architecture"></a>[OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](../conferences/icml-2026/cards/2201-2300.md#paper-langer26a)
+- <a id="lee26f-architecture"></a>[ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26f)
 
 <a id="by-modules"></a>
 
@@ -196,6 +197,7 @@
 - <a id="jiang26aq-inference"></a>[XSkill: Continual Learning from Experience and Skills in Multimodal Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aq)
 - <a id="kim26al-inference"></a>[ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding](../conferences/icml-2026/cards/2101-2200.md#paper-kim26al)
 - <a id="kim26bt-inference"></a>[SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bt)
+- <a id="lee26e-inference"></a>[CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26e)
 
 <a id="by-representation-learning"></a>
 

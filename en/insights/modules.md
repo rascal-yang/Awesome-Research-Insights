@@ -132,6 +132,7 @@ Reusable components and local changes to model inputs or connections.
 - [Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization](../../conferences/icml-2026/cards/1801-1900.md#jia26l-modules) · 中文
 - [Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization](../../conferences/icml-2026/cards/2001-2100.md#jung26g-modules) · 中文
 - [StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](../../conferences/icml-2026/cards/2101-2200.md#kim26bk-modules) · 中文
+- [Dynamic Relational Priming Improves Transformer in Multivariate Time Series](../../conferences/icml-2026/cards/2301-2400.md#lee26h-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

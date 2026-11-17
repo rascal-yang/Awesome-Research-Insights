@@ -74,6 +74,7 @@ Training schedules, curricula, and task or stage composition.
 - [DiscoverLLM: From Executing Intents to Discovering Them](../../conferences/icml-2026/cards/2101-2200.md#kim26av-training-strategies) · 中文
 - [Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences](../../conferences/icml-2026/cards/2201-2300.md#koo26a-training-strategies) · 中文
 - [Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections](../../conferences/icml-2026/cards/2201-2300.md#lauffer26a-training-strategies) · 中文
+- [SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs](../../conferences/icml-2026/cards/2301-2400.md#lee26c-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -101,6 +102,7 @@ Training schedules, curricula, and task or stage composition.
 - [Scalable GANs with Transformers](../../conferences/icml-2026/cards/1801-1900.md#hyun26a-training-strategies) · 中文
 - [Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26e-training-strategies) · 中文
 - [Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks](../../conferences/icml-2026/cards/2201-2300.md#kumar26a-training-strategies) · 中文
+- [Toward Understanding Adversarial Distillation: Why Robust Teachers Fail](../../conferences/icml-2026/cards/2301-2400.md#lee26g-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

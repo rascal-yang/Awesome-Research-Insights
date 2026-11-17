@@ -80,6 +80,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="jia26l-modules"></a>[Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26l)
 - <a id="jung26g-modules"></a>[Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26g)
 - <a id="kim26bk-modules"></a>[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bk)
+- <a id="lee26h-modules"></a>[Dynamic Relational Priming Improves Transformer in Multivariate Time Series](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26h)
 
 <a id="by-loss-functions"></a>
 

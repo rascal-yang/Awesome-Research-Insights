@@ -157,6 +157,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference](../../conferences/icml-2026/cards/2201-2300.md#le26c-inference) · 中文
 - [FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding](../../conferences/icml-2026/cards/2201-2300.md#le26g-inference) · 中文
 - [Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models](../../conferences/icml-2026/cards/2201-2300.md#leang26a-inference) · 中文
+- [Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding](../../conferences/icml-2026/cards/2301-2400.md#lee26d-inference) · 中文
+- [DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](../../conferences/icml-2026/cards/2301-2400.md#lee26i-inference) · 中文
+- [Stochastic Sparse Attention for Memory-Bound Inference](../../conferences/icml-2026/cards/2301-2400.md#lee26j-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -317,6 +320,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](../../conferences/icml-2026/cards/1901-2000.md#jiang26aq-inference) · 中文
 - [ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding](../../conferences/icml-2026/cards/2101-2200.md#kim26al-inference) · 中文
 - [SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bt-inference) · 中文
+- [CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26e-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

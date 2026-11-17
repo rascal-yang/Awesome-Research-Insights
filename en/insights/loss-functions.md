@@ -46,6 +46,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents](../../conferences/icml-2026/cards/2001-2100.md#kim26e-loss-functions) · 中文
 - [Neural Collapse by Design: Learning Class Prototypes on the Hypersphere](../../conferences/icml-2026/cards/2201-2300.md#koromilas26b-loss-functions) · 中文
 - [Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations](../../conferences/icml-2026/cards/2201-2300.md#kuang26b-loss-functions) · 中文
+- [Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#lee26k-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
