@@ -86,6 +86,7 @@
 - [用带符号熵轨迹识别错误图像标签](../conferences/icml-2026/cards/2601-2700.md#li26ju-data-strategies) · On Revisiting Entropy for Identifying Mislabeled Images
 - [单目数据立体反遮挡](../conferences/icml-2026/cards/3001-3100.md#lu26k-data-strategies) · Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation
 - [语义校准局部扩散增强](../conferences/icml-2026/cards/3101-3200.md#lv26c-data-strategies) · SCalDA: Semantics-Calibrated and Diffusion-Enhanced Data Augmentation
+- [重识别类别核心集](../conferences/icml-2026/cards/3401-3500.md#oh26b-data-strategies) · CSOR: Coreset Selection for Object Re-identification via Class Pruning
 
 <a id="by-nlp"></a>
 

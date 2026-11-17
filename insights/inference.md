@@ -247,6 +247,10 @@
 - [用含成本的成对比较选择模型](../conferences/icml-2026/cards/3401-3500.md#nguyen26h-inference) · CUPID in the Model Zoo: Online Matchmaking for Selecting Your Dream LLM
 - [把过载专家的执行迁给空闲设备](../conferences/icml-2026/cards/3401-3500.md#nguyen26m-inference) · Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts
 - [用风险预算选择黑盒模型答案](../conferences/icml-2026/cards/3401-3500.md#nguyen26s-inference) · Safety Game: Inference-Time Alignment of Black-Box LLMs via Constrained Optimization
+- [按位置衰减和输出影响稀疏化因果注意力](../conferences/icml-2026/cards/3401-3500.md#niu26b-inference) · Stem: Rethinking Causal Information Flow in Sparse Attention
+- [用可学习分段提高安全缓存命中](../conferences/icml-2026/cards/3401-3500.md#noshad26a-inference) · MVR-cache: Optimizing Semantic Caching via Multi-Vector Retrieval and Learned Prompt Segmentation
+- [在解码批内共享已激活专家](../conferences/icml-2026/cards/3501-3600.md#oncescu26a-inference) · Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining
+- [在数学探索中插入 Lean 检查点](../conferences/icml-2026/cards/3501-3600.md#ospanov26a-inference) · HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -336,6 +340,7 @@
 - [分别压缩注意力权重和前馈通道](../conferences/icml-2026/cards/3301-3400.md#moon26b-inference) · ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT
 - [将多个扩散控制目标投影到共享谱基](../conferences/icml-2026/cards/3301-3400.md#moreira26a-inference) · Spectral Guidance for Flexible and Efficient Control of Diffusion Models
 - [按空间语义重新分配图像生成引导](../conferences/icml-2026/cards/3401-3500.md#nguyen26q-inference) · Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance
+- [微分同胚规约](../conferences/icml-2026/cards/3401-3500.md#oettinger26a-inference) · Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization
 
 <a id="by-nlp"></a>
 
@@ -366,6 +371,8 @@
 - [用先验扩树后从叶向根统一重估](../conferences/icml-2026/cards/1601-1700.md#howard26a-inference) · Recursive Monte-Carlo Tree Search
 - [解码下一帧时联合分配复制或生成](../conferences/icml-2026/cards/2101-2200.md#kim26bq-inference) · Identifiable Token Correspondence for World Models
 - [扩散规划前缀可行性能量](../conferences/icml-2026/cards/3001-3100.md#lu26l-inference) · Improving Diffusion Planners by Self-Supervised Action Gating with Energies
+- [用离线局部状态图补上长程规划](../conferences/icml-2026/cards/3501-3600.md#opryshko26a-inference) · Test-Time Graph Search for Goal-Conditioned Reinforcement Learning
+- [先按根动作分配粒子再做树搜索](../conferences/icml-2026/cards/3501-3600.md#oren26a-inference) · Twice Sequential Monte Carlo for Tree Search
 
 <a id="by-robotics"></a>
 
@@ -475,6 +482,8 @@
 - [截图元素定位多模态融合](../conferences/icml-2026/cards/3101-3200.md#ma26ax-inference) · Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion
 - [用 Codec 混淆关系提高语音水印重编码鲁棒性](../conferences/icml-2026/cards/3301-3400.md#milis26a-inference) · Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio
 - [将流式视频远程 KV 压缩为可供原生注意力读取的原型](../conferences/icml-2026/cards/3301-3400.md#minh26a-inference) · ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory
+- [用频谱削弱后的特征一致性修正 CLIP 对抗输入](../conferences/icml-2026/cards/3401-3500.md#nie26d-inference) · Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP
+- [让视觉工具的观测反馈参与束搜索](../conferences/icml-2026/cards/3401-3500.md#ning26b-inference) · V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning
 
 <a id="by-ml-foundations"></a>
 
@@ -513,6 +522,8 @@
 - [编译期间合并激活近似](../conferences/icml-2026/cards/3101-3200.md#lydike26a-inference) · Faster Activation Functions at the Edge for Post-Training Speedups
 - [只融合不同模型中相似的神经元](../conferences/icml-2026/cards/3301-3400.md#morelli26a-inference) · Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation
 - [对滚动预测做季节与趋势残差校正](../conferences/icml-2026/cards/3401-3500.md#nguyen26u-inference) · Reviving Error Correction in Modern Deep Time-Series Forecasting
+- [信号与类别联合去噪](../conferences/icml-2026/cards/3401-3500.md#nurko26a-inference) · Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits
+- [余弦草图非对称解码](../conferences/icml-2026/cards/3401-3500.md#nyang26a-inference) · Beyond Hamming: Query-Aware Decoding of Binary Cosine Sketches
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -528,6 +539,7 @@
 - [逐步预算下的动态交互求解](../conferences/icml-2026/cards/2501-2600.md#li26gz-inference) · LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers
 - [图扩散信息几何步进](../conferences/icml-2026/cards/3001-3100.md#lu26s-inference) · Information-Geometric Adaptive Sampling for Graph Diffusion
 - [离散图流的端点概率修正](../conferences/icml-2026/cards/3001-3100.md#luo26s-inference) · SimGFM: Simplifying Discrete Flow Matching for Graph Generation
+- [用凸支持函数学习向量检索路由](../conferences/icml-2026/cards/3501-3600.md#olausson26a-inference) · Amortizing Maximum Inner Product Search with Learned Support Functions
 
 <a id="by-scientific-ml"></a>
 
@@ -563,4 +575,7 @@
 - [用粒子重采样引导 PDE 扩散求解](../conferences/icml-2026/cards/3301-3400.md#millard26a-inference) · Particle-Guided Diffusion Models for Partial Differential Equations
 - [用机理后验不确定性分配疫情扩散引导](../conferences/icml-2026/cards/3301-3400.md#min26b-inference) · Bridging Dynamics and Data: A Unified Diffusion Framework for Mechanistically-Informed Epidemic Forecasting
 - [用真实路径算子约束降雨扩散后验](../conferences/icml-2026/cards/3301-3400.md#moufad26a-inference) · Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors
+- [按结局和预测窗融合病历时间尺度](../conferences/icml-2026/cards/3501-3600.md#oufattole26a-inference) · MoRGen: Mixture-of-Resolutions Generative Forecasting for Irregularly Sampled Medical Time-Series Data
+- [用保守位点约束蛋白模板的闭环修改](../conferences/icml-2026/cards/3501-3600.md#ouyang26a-inference) · PDAgent: An LLM-Driven Autonomous Agent Framework Towards *In Silico* Protein Design via Directed Mutation
+- [用谱预测和正则伪逆实现单步采样](../conferences/icml-2026/cards/3501-3600.md#ouyang26c-inference) · Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion
 <!-- classification:end -->

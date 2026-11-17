@@ -23,6 +23,7 @@
 - [把生成式激活先验用于修复表示干预](../conferences/icml-2026/cards/3001-3100.md#luo26d-representation-learning) · Learning a Generative Meta-Model of LLM Activations
 - [代码仓功能依赖双视图](../conferences/icml-2026/cards/3001-3100.md#luo26ad-representation-learning) · Closing the Loop: Universal Repository Representation with RPG-Encoder
 - [用保结构函子探查 Transformer 的类比推理](../conferences/icml-2026/cards/3301-3400.md#minegishi26a-representation-learning) · Emergent Analogical Reasoning in Transformers
+- [局部事实学出支持多跳的全局嵌入](../conferences/icml-2026/cards/3401-3500.md#noroozizadeh26a-representation-learning) · Deep sequence models tend to memorize geometrically; it is unclear why
 
 <a id="by-computer-vision"></a>
 
@@ -202,6 +203,8 @@
 - [稀疏编码可辨识](../conferences/icml-2026/cards/3401-3500.md#nelson26a-representation-learning) · Toward Identifiable Sparse Autoencoders
 - [保留判别谱两端识别不同异常](../conferences/icml-2026/cards/3401-3500.md#nguyen26d-representation-learning) · Tuning-Free One-Class Discriminant Learning for Tabular Anomaly Detection
 - [在因果条件特征中检测机制违例](../conferences/icml-2026/cards/3401-3500.md#nguyen26j-representation-learning) · Causal-aware Anomaly Detection for Tabular Data
+- [用等变条件算子复用回归与概率估计](../conferences/icml-2026/cards/3501-3600.md#ordonez-apraez26a-representation-learning) · Representation Learning for Equivariant Inference with Guarantees
+- [将未见任务分解成已见锚与变换](../conferences/icml-2026/cards/3501-3600.md#ousherovitch26a-representation-learning) · Learning to Extrapolate to New Tasks: A Relational Approach to Task Extrapolation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -292,4 +295,5 @@
 - [按多类标签解释跨试验时序成分变化](../conferences/icml-2026/cards/3301-3400.md#mudrik26a-representation-learning) · Multi-Integration of Labels Across Categories for Component Identification in Multi-trial Time Series
 - [基因组模型的稀疏特征探针](../conferences/icml-2026/cards/3401-3500.md#nair26a-representation-learning) · Interpreting Genomic Language Models using Sparse Autoencoders
 - [三维形状权重外推](../conferences/icml-2026/cards/3401-3500.md#nehme26b-representation-learning) · LAMP: Data-Efficient Linear Affine Weight-Space Models for Parameter-Controlled 3D Shape Generation and Extrapolation
+- [用真实敲低监督图增强的相似性](../conferences/icml-2026/cards/3501-3600.md#oshima26a-representation-learning) · Supervised Graph Contrastive Learning for Gene Regulatory Networks
 <!-- classification:end -->

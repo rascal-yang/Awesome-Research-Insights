@@ -55,6 +55,7 @@ Model-wide design and information flow.
 - [Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers](../../conferences/icml-2026/cards/3301-3400.md#mohan26b-architecture) · 中文
 - [Rational Transductors](../../conferences/icml-2026/cards/3301-3400.md#mohri26a-architecture) · 中文
 - [Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule](../../conferences/icml-2026/cards/3401-3500.md#nguyen26i-architecture) · 中文
+- [MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](../../conferences/icml-2026/cards/3401-3500.md#nother26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -243,6 +244,8 @@ Model-wide design and information flow.
 - [Incremental Transformer Neural Processes](../../conferences/icml-2026/cards/3301-3400.md#mortimer26a-architecture) · 中文
 - [Cascaded Flow Matching for Heterogeneous Tabular Data with Mixed-Type Features](../../conferences/icml-2026/cards/3301-3400.md#mueller26a-architecture) · 中文
 - [Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series](../../conferences/icml-2026/cards/3301-3400.md#murad26a-architecture) · 中文
+- [gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../../conferences/icml-2026/cards/3401-3500.md#noack26a-architecture) · 中文
+- [Skipping the Zeros in Diffusion Models for Sparse Data Generation](../../conferences/icml-2026/cards/3501-3600.md#ostheimer26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -266,6 +269,7 @@ Model-wide design and information flow.
 - [NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies](../../conferences/icml-2026/cards/3201-3300.md#marcoccia26a-architecture) · 中文
 - [LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation](../../conferences/icml-2026/cards/3201-3300.md#miao26e-architecture) · 中文
 - [Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#mo26a-architecture) · 中文
+- [InvGNN: Learning Invertible Node Representations on Graphs](../../conferences/icml-2026/cards/3401-3500.md#nikolentzos26a-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -359,4 +363,6 @@ Model-wide design and information flow.
 - [Interleaved Selective State Space Models for Efficient WiFi-Based 3D Multi-Person Pose Estimation](../../conferences/icml-2026/cards/3301-3400.md#n-d-26a-architecture) · 中文
 - [Learning Dynamic Stability Landscapes in Synchronization Networks](../../conferences/icml-2026/cards/3401-3500.md#nauck26a-architecture) · 中文
 - [Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates](../../conferences/icml-2026/cards/3401-3500.md#nguyen26a-architecture) · 中文
+- [Flexibility-Aware Geometric Latent Diffusion for Full-Atom Peptide Design](../../conferences/icml-2026/cards/3401-3500.md#niu26e-architecture) · 中文
+- [Mesh Field Theory: Port–Hamiltonian Formulation of Mesh-Based Physics](../../conferences/icml-2026/cards/3401-3500.md#noguchi26a-architecture) · 中文
 <!-- classification:end -->

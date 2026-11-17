@@ -23,6 +23,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning a Generative Meta-Model of LLM Activations](../../conferences/icml-2026/cards/3001-3100.md#luo26d-representation-learning) · 中文
 - [Closing the Loop: Universal Repository Representation with RPG-Encoder](../../conferences/icml-2026/cards/3001-3100.md#luo26ad-representation-learning) · 中文
 - [Emergent Analogical Reasoning in Transformers](../../conferences/icml-2026/cards/3301-3400.md#minegishi26a-representation-learning) · 中文
+- [Deep sequence models tend to memorize geometrically; it is unclear why](../../conferences/icml-2026/cards/3401-3500.md#noroozizadeh26a-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -202,6 +203,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Toward Identifiable Sparse Autoencoders](../../conferences/icml-2026/cards/3401-3500.md#nelson26a-representation-learning) · 中文
 - [Tuning-Free One-Class Discriminant Learning for Tabular Anomaly Detection](../../conferences/icml-2026/cards/3401-3500.md#nguyen26d-representation-learning) · 中文
 - [Causal-aware Anomaly Detection for Tabular Data](../../conferences/icml-2026/cards/3401-3500.md#nguyen26j-representation-learning) · 中文
+- [Representation Learning for Equivariant Inference with Guarantees](../../conferences/icml-2026/cards/3501-3600.md#ordonez-apraez26a-representation-learning) · 中文
+- [Learning to Extrapolate to New Tasks: A Relational Approach to Task Extrapolation](../../conferences/icml-2026/cards/3501-3600.md#ousherovitch26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -292,4 +295,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Multi-Integration of Labels Across Categories for Component Identification in Multi-trial Time Series](../../conferences/icml-2026/cards/3301-3400.md#mudrik26a-representation-learning) · 中文
 - [Interpreting Genomic Language Models using Sparse Autoencoders](../../conferences/icml-2026/cards/3401-3500.md#nair26a-representation-learning) · 中文
 - [LAMP: Data-Efficient Linear Affine Weight-Space Models for Parameter-Controlled 3D Shape Generation and Extrapolation](../../conferences/icml-2026/cards/3401-3500.md#nehme26b-representation-learning) · 中文
+- [Supervised Graph Contrastive Learning for Gene Regulatory Networks](../../conferences/icml-2026/cards/3501-3600.md#oshima26a-representation-learning) · 中文
 <!-- classification:end -->

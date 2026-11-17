@@ -83,6 +83,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Distributionally Robust Reinforcement Learning from Human Feedback](../../conferences/icml-2026/cards/3201-3300.md#mandal26a-optimization) · 中文
 - [Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection](../../conferences/icml-2026/cards/3301-3400.md#monteiro26a-optimization) · 中文
 - [Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26c-optimization) · 中文
+- [ECO: Quantized Training without Full-Precision Master Weights](../../conferences/icml-2026/cards/3401-3500.md#nikdan26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -334,6 +335,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent](../../conferences/icml-2026/cards/3301-3400.md#naganuma26a-optimization) · 中文
 - [FOAM: Frequency and Operator-Error Based Adaptive Damping Method for Reducing Staleness-Oriented Error for Shampoo](../../conferences/icml-2026/cards/3401-3500.md#nam26a-optimization) · 中文
 - [Accelerated Multiple Wasserstein Gradient Flows for Multi-objective Distributional Optimization](../../conferences/icml-2026/cards/3401-3500.md#nguyen26k-optimization) · 中文
+- [Log-Normal Multiplicative Dynamics for Stable Low-Precision Deep Learning](../../conferences/icml-2026/cards/3401-3500.md#nishida26a-optimization) · 中文
+- [Loss-Aware Distributionally Robust Optimization via Trainable Optimal Transport Ambiguity Sets](../../conferences/icml-2026/cards/3401-3500.md#ohnemus26a-optimization) · 中文
+- [Adaptive Sharpness-Aware Minimization with a Polyak-type Step size: A Theory-Grounded Scheduler](../../conferences/icml-2026/cards/3501-3600.md#oikonomou26b-optimization) · 中文
+- [Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](../../conferences/icml-2026/cards/3501-3600.md#oikonomou26c-optimization) · 中文
+- [Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation](../../conferences/icml-2026/cards/3501-3600.md#otsuka26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -389,4 +395,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · 中文
 - [Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · 中文
 - [PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry](../../conferences/icml-2026/cards/3301-3400.md#mozejko26a-optimization) · 中文
+- [Neuro-Symbolic AI for Analytical Solutions of Differential Equations](../../conferences/icml-2026/cards/3401-3500.md#oikonomou26a-optimization) · 中文
 <!-- classification:end -->

@@ -108,6 +108,7 @@ Training schedules, curricula, and task or stage composition.
 - [DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization](../../conferences/icml-2026/cards/3301-3400.md#mu26b-training-strategies) · 中文
 - [When Does Sparsity Mitigate the Curse of Depth in LLMs](../../conferences/icml-2026/cards/3301-3400.md#muhtar26a-training-strategies) · 中文
 - [Gradient Transformer: Learning to Generate Updates for LLMs](../../conferences/icml-2026/cards/3401-3500.md#nguyen26r-training-strategies) · 中文
+- [QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](../../conferences/icml-2026/cards/3401-3500.md#noh26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -163,6 +164,7 @@ Training schedules, curricula, and task or stage composition.
 - [FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](../../conferences/icml-2026/cards/3101-3200.md#ma26u-training-strategies) · 中文
 - [Learning Generalized Trackers with Elastic Token Budgets](../../conferences/icml-2026/cards/3101-3200.md#ma26aq-training-strategies) · 中文
 - [Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer](../../conferences/icml-2026/cards/3301-3400.md#mu26c-training-strategies) · 中文
+- [Vision Transformer Finetuning Benefits from Non-Smooth Components](../../conferences/icml-2026/cards/3401-3500.md#odonnat26a-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -244,6 +246,8 @@ Training schedules, curricula, and task or stage composition.
 - [Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](../../conferences/icml-2026/cards/3301-3400.md#mo26c-training-strategies) · 中文
 - [Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA](../../conferences/icml-2026/cards/3301-3400.md#mozaffari26a-training-strategies) · 中文
 - [DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](../../conferences/icml-2026/cards/3401-3500.md#neogi26a-training-strategies) · 中文
+- [UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis](../../conferences/icml-2026/cards/3401-3500.md#ning26d-training-strategies) · 中文
+- [From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](../../conferences/icml-2026/cards/3401-3500.md#oi26a-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

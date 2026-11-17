@@ -86,6 +86,7 @@ Data selection, annotation, augmentation, and sampling.
 - [On Revisiting Entropy for Identifying Mislabeled Images](../../conferences/icml-2026/cards/2601-2700.md#li26ju-data-strategies) · 中文
 - [Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation](../../conferences/icml-2026/cards/3001-3100.md#lu26k-data-strategies) · 中文
 - [SCalDA: Semantics-Calibrated and Diffusion-Enhanced Data Augmentation](../../conferences/icml-2026/cards/3101-3200.md#lv26c-data-strategies) · 中文
+- [CSOR: Coreset Selection for Object Re-identification via Class Pruning](../../conferences/icml-2026/cards/3401-3500.md#oh26b-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

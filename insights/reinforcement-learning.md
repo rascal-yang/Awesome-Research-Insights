@@ -136,6 +136,9 @@
 - [用终局求解奖励训练优化建模的起草与自审](../conferences/icml-2026/cards/3301-3400.md#min26g-reinforcement-learning) · Draft-and-Audit Reinforcement Learning for Optimization Modeling
 - [答案分布奖励](../conferences/icml-2026/cards/3301-3400.md#mohri26c-reinforcement-learning) · Distributional Alignment Games for Answer-Level Fine-Tuning
 - [用终局正确性提取推理前缀的继续与停止信号](../conferences/icml-2026/cards/3301-3400.md#mundada26a-reinforcement-learning) · WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning
+- [固定推理顺序并保留扩散语言模型并行解码](../conferences/icml-2026/cards/3401-3500.md#ni26e-reinforcement-learning) · The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models
+- [训练 Agent 逐轮省略冗余思路和环境观测](../conferences/icml-2026/cards/3401-3500.md#ning26a-reinforcement-learning) · Agent-Omit: Adaptive Context Omission for Efficient LLM Agents
+- [用组内排序替换奖励绝对分数](../conferences/icml-2026/cards/3401-3500.md#niu26a-reinforcement-learning) · From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -153,6 +156,7 @@
 - [学习可微替代奖励把非可微反馈分配到少步生成轨迹](../conferences/icml-2026/cards/3001-3100.md#luo26j-reinforcement-learning) · TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward
 - [按去噪动态分块优化图像生成策略](../conferences/icml-2026/cards/3001-3100.md#luo26u-reinforcement-learning) · Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization
 - [按需取证的视频异常定位](../conferences/icml-2026/cards/3301-3400.md#mo26b-reinforcement-learning) · Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization
+- [用个体高斯敏感性奖励训练可学习密度控制](../conferences/icml-2026/cards/3401-3500.md#ning26e-reinforcement-learning) · Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting
 
 <a id="by-nlp"></a>
 
@@ -275,6 +279,9 @@
 - [重分配奖励使静态 CVaR 的 Bellman 算子收缩](../conferences/icml-2026/cards/3301-3400.md#muni26a-reinforcement-learning) · Reward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity
 - [自举学习单步动作流位移](../conferences/icml-2026/cards/3401-3500.md#nguyen26p-reinforcement-learning) · Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning
 - [用长模型展开训练离线策略适应不确定性](../conferences/icml-2026/cards/3401-3500.md#ni26a-reinforcement-learning) · Long-Horizon Model-Based Offline Reinforcement Learning Without Explicit Conservatism
+- [用正交辅助梯度稳定无回放流式强化学习](../conferences/icml-2026/cards/3401-3500.md#nilaksh26a-reinforcement-learning) · Squeezing More from the Stream : Learning Representation Online for Streaming Reinforcement Learning
+- [用多次尝试的最大回报目标诱导探索](../conferences/icml-2026/cards/3401-3500.md#nishimori26a-reinforcement-learning) · Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying
+- [联合约束自博弈更新步幅与探索](../conferences/icml-2026/cards/3501-3600.md#ota26a-reinforcement-learning) · Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games
 
 <a id="by-robotics"></a>
 
@@ -296,6 +303,7 @@
 - [用扩散候选和价值分歧引导探索](../conferences/icml-2026/cards/3001-3100.md#luo26v-reinforcement-learning) · DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning
 - [视频最优传输偏好传播](../conferences/icml-2026/cards/3001-3100.md#luu26a-reinforcement-learning) · Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning
 - [逐步将物体控制交给双手策略](../conferences/icml-2026/cards/3201-3300.md#mandi26a-reinforcement-learning) · DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation
+- [用正式奖励与残差偏好共同训练机器人](../conferences/icml-2026/cards/3401-3500.md#ni26d-reinforcement-learning) · CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning
 
 <a id="by-multimodal"></a>
 
@@ -346,6 +354,8 @@
 - [以时间和空间证据约束视频推理](../conferences/icml-2026/cards/3201-3300.md#meng26e-reinforcement-learning) · Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence
 - [让时序问答按推理进展追加片段](../conferences/icml-2026/cards/3201-3300.md#messica26a-reinforcement-learning) · Adaptive Time Series Reasoning via Segment Selection
 - [按段奖励图像证据与深伪判断](../conferences/icml-2026/cards/3401-3500.md#nguyen26f-reinforcement-learning) · PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection
+- [个性化图像描述奖励](../conferences/icml-2026/cards/3401-3500.md#oh26c-reinforcement-learning) · Contextualized Visual Personalization in Vision-Language Models
+- [平衡多任务和样本对策略梯度的贡献](../conferences/icml-2026/cards/3501-3600.md#ong26a-reinforcement-learning) · OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization
 
 <a id="by-ml-foundations"></a>
 

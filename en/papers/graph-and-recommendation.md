@@ -31,6 +31,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="marcoccia26a-architecture"></a>[NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies](../../conferences/icml-2026/cards/3201-3300.md#paper-marcoccia26a)
 - <a id="miao26e-architecture"></a>[LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation](../../conferences/icml-2026/cards/3201-3300.md#paper-miao26e)
 - <a id="mo26a-architecture"></a>[Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26a)
+- <a id="nikolentzos26a-architecture"></a>[InvGNN: Learning Invertible Node Representations on Graphs](../../conferences/icml-2026/cards/3401-3500.md#paper-nikolentzos26a)
 
 <a id="by-modules"></a>
 
@@ -131,6 +132,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="li26gz-inference"></a>[LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gz)
 - <a id="lu26s-inference"></a>[Information-Geometric Adaptive Sampling for Graph Diffusion](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26s)
 - <a id="luo26s-inference"></a>[SimGFM: Simplifying Discrete Flow Matching for Graph Generation](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26s)
+- <a id="olausson26a-inference"></a>[Amortizing Maximum Inner Product Search with Learned Support Functions](../../conferences/icml-2026/cards/3501-3600.md#paper-olausson26a)
 
 <a id="by-representation-learning"></a>
 

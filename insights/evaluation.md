@@ -262,6 +262,17 @@
 - [情景特定欺骗探针](../conferences/icml-2026/cards/3401-3500.md#natarajan26a-evaluation) · One Probe Won’t Catch Them All: Towards Targeted Deception Detection
 - [定向指令选择拆解](../conferences/icml-2026/cards/3401-3500.md#nayak26a-evaluation) · A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn’t)
 - [按模型输入信念测试解释充分性](../conferences/icml-2026/cards/3401-3500.md#nguyen26n-evaluation) · What LLMs Explain Is Not What They Believe: Evaluating Explanation Sufficiency Under Models’ Own Input Beliefs
+- [用执行环境和数据依赖过滤评估数据科学 Agent](../conferences/icml-2026/cards/3401-3500.md#nie26b-evaluation) · DSGym: A Holistic Framework for Evaluating and Training Data Science Agents
+- [用编译与硬件反馈评测生成新 ISA 的低层内核](../conferences/icml-2026/cards/3401-3500.md#nie26c-evaluation) · KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware
+- [在动作执行前检测偏离任务并给出结构化纠正](../conferences/icml-2026/cards/3401-3500.md#ning26c-evaluation) · When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents
+- [用注意力图谱特征重排数学证明](../conferences/icml-2026/cards/3401-3500.md#noel26a-evaluation) · Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning
+- [选择题去标签评估](../conferences/icml-2026/cards/3401-3500.md#nowak26a-evaluation) · ABCD: All Biases Come Disguised
+- [长文事实图不确定性](../conferences/icml-2026/cards/3401-3500.md#ns26a-evaluation) · GAUSS: Graph-Assisted Uncertainty Quantification using Structure and Semantics for Long-Form Generation in LLMs
+- [辩论群体偏向](../conferences/icml-2026/cards/3501-3600.md#okawa26a-evaluation) · Emergence of Biased Consensus in Multi-Agent LLM Debates
+- [词概率情绪层级](../conferences/icml-2026/cards/3501-3600.md#okawa26b-evaluation) · Emergence of Hierarchical Emotion Organization in Large Language Models
+- [用可验证成功率估算多模型级联成本](../conferences/icml-2026/cards/3501-3600.md#olmedo26a-evaluation) · Computational Arbitrage in AI Model Markets
+- [从题内差异估计多项选择的长度偏差](../conferences/icml-2026/cards/3501-3600.md#oostermeijer26a-evaluation) · Accuracy and Normalized Accuracy under Length Bias: Analysis, Guidelines, and a Bayesian Alternative
+- [独立测量搜索回答和所引网页的风险](../conferences/icml-2026/cards/3501-3600.md#ou26a-evaluation) · When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -446,6 +457,8 @@
 - [将语音函数调用拆成转录与端到端两套可执行测试](../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · BFCL Audio: An Audio Function Calling Evaluation for Large Language Models
 - [按去噪时段诊断多模态红队风险](../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack
 - [把可视化成品与原生操作一同验证](../conferences/icml-2026/cards/3201-3300.md#meng26d-evaluation) · DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios
+- [用需要世界知识才能作画的提示评估文生图](../conferences/icml-2026/cards/3401-3500.md#niu26c-evaluation) · WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation
+- [让音频评估同时奖励语义相似和跨样本可辨识](../conferences/icml-2026/cards/3401-3500.md#niu26d-evaluation) · MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks
 
 <a id="by-ml-foundations"></a>
 
@@ -550,4 +563,6 @@
 - [用带温度的弦方法诊断扩散模态](../conferences/icml-2026/cards/3301-3400.md#moreau26a-evaluation) · Probing the Geometry of Diffusion Models with the String Method
 - [同时比较宏基因组架构的扩展效率和生物检索](../conferences/icml-2026/cards/3301-3400.md#munsamy26a-evaluation) · Scaling Laws and Architectural Frontiers in Metagenomic Foundation Models
 - [融合物理与约束证据解释控制动作](../conferences/icml-2026/cards/3301-3400.md#naagarajan26a-evaluation) · Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control
+- [把大脑信号对齐和语言技能分开测量](../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models
+- [用概念重组测试分布外时序解释](../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models
 <!-- classification:end -->

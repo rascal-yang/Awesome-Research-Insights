@@ -57,6 +57,8 @@
 - [低遗憾续词预测](../conferences/icml-2026/cards/3301-3400.md#mohri26b-theory-statistics) · Next-Token Prediction and Regret Minimization
 - [用无规律样本测记忆容量](../conferences/icml-2026/cards/3301-3400.md#morris26a-theory-statistics) · How much can language models memorize?
 - [按每步分支数解释思维链深度](../conferences/icml-2026/cards/3301-3400.md#nadgir26a-theory-statistics) · How does Chain of Thought decompose complex tasks?
+- [把 KV 内存占用纳入 LLM 服务稳定阈值](../conferences/icml-2026/cards/3401-3500.md#nie26a-theory-statistics) · A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints
+- [用偏好采样与参考策略的错配解释效用失真](../conferences/icml-2026/cards/3501-3600.md#oko26a-theory-statistics) · Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner
 
 <a id="by-computer-vision"></a>
 
@@ -141,6 +143,7 @@
 - [KL 博弈对数遗憾](../conferences/icml-2026/cards/3401-3500.md#nayak26b-theory-statistics) · Achieving Logarithmic Regret in KL-Regularized Zero-Sum Markov Games
 - [对噪声统计树做耦合以精确遗忘](../conferences/icml-2026/cards/3401-3500.md#nguyen-tang26a-theory-statistics) · Exact Unlearning in Reinforcement Learning
 - [从安全策略逐步混合到候选策略](../conferences/icml-2026/cards/3401-3500.md#ni26c-theory-statistics) · Constrained Meta Reinforcement Learning with Provable Test-Time Safety
+- [延迟污染成对反馈](../conferences/icml-2026/cards/3401-3500.md#oh26a-theory-statistics) · Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions
 
 <a id="by-robotics"></a>
 
@@ -495,6 +498,17 @@
 - [估值频数在线公平](../conferences/icml-2026/cards/3401-3500.md#neoh26a-theory-statistics) · Online Fair Division with Additional Information
 - [表格预测构造参数后验](../conferences/icml-2026/cards/3401-3500.md#ng26a-theory-statistics) · TabMGP: Martingale Posterior with TabPFN
 - [以流式分位数草图估切片 Wasserstein](../conferences/icml-2026/cards/3401-3500.md#nguyen26o-theory-statistics) · Streaming Sliced Optimal Transport
+- [用 logit 距离把预测接近连到线性表示接近](../conferences/icml-2026/cards/3401-3500.md#nielsen26a-theory-statistics) · Logit Distance Bounds Representational Similarity
+- [用经验 NTK 的谱位置衡量训练能深入多弱的模式](../conferences/icml-2026/cards/3401-3500.md#nikolaou26a-theory-statistics) · Spectral Reach: Understanding Neural Scaling as Progress into the Spectral Tail
+- [迭代重拟合 Besov 奖励以改善推理时对齐](../conferences/icml-2026/cards/3401-3500.md#nishikawa26a-theory-statistics) · Inference-time Alignment with Rewards in Besov Spaces: Provable Advantages of Feature Learning and Multi-Step Policy Updates
+- [按用户规则在线校准多轮协作](../conferences/icml-2026/cards/3401-3500.md#noorani26a-theory-statistics) · Multi-Round Human–AI Collaboration with User-Specified Requirements
+- [用两类阈值实现人机联合预测集](../conferences/icml-2026/cards/3401-3500.md#noorani26b-theory-statistics) · Human-AI Collaborative Uncertainty Quantification
+- [保留指派稳定性的几何核心集](../conferences/icml-2026/cards/3401-3500.md#norouzi-fard26a-theory-statistics) · Resilient Coresets and Clustering
+- [用结构张量诊断代数顿悟](../conferences/icml-2026/cards/3401-3500.md#notsawo26a-theory-statistics) · Grokking Finite-Dimensional Algebra
+- [循环模型算术表达性](../conferences/icml-2026/cards/3401-3500.md#nowak26b-theory-statistics) · An Algebraic View of the Expressivity of Recurrent Language Models
+- [均值场预测方差方向性](../conferences/icml-2026/cards/3401-3500.md#odgers26a-theory-statistics) · Gaussian Mean Field Variational Inference can Overestimate Predictive Variance
+- [用交换约束和有向环诊断逆优化反馈](../conferences/icml-2026/cards/3501-3600.md#oki26a-theory-statistics) · Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets
+- [沿 Hessian 谱隙分离流形切向维数](../conferences/icml-2026/cards/3501-3600.md#osada26a-theory-statistics) · Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -101,6 +101,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="n-d-26a-architecture"></a>[Interleaved Selective State Space Models for Efficient WiFi-Based 3D Multi-Person Pose Estimation](../../conferences/icml-2026/cards/3301-3400.md#paper-n-d-26a)
 - <a id="nauck26a-architecture"></a>[Learning Dynamic Stability Landscapes in Synchronization Networks](../../conferences/icml-2026/cards/3401-3500.md#paper-nauck26a)
 - <a id="nguyen26a-architecture"></a>[Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26a)
+- <a id="niu26e-architecture"></a>[Flexibility-Aware Geometric Latent Diffusion for Full-Atom Peptide Design](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26e)
+- <a id="noguchi26a-architecture"></a>[Mesh Field Theory: Port–Hamiltonian Formulation of Mesh-Based Physics](../../conferences/icml-2026/cards/3401-3500.md#paper-noguchi26a)
 
 <a id="by-modules"></a>
 
@@ -142,6 +144,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="luo26am-loss-functions"></a>[Mitigating Gradient Pathology in PINNs through Aligned Constraint](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26am)
 - <a id="mejia26a-loss-functions"></a>[Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation](../../conferences/icml-2026/cards/3201-3300.md#paper-mejia26a)
 - <a id="melo26a-loss-functions"></a>[Learning to Emulate Chaos: Adversarial Optimal Transport Regularization](../../conferences/icml-2026/cards/3201-3300.md#paper-melo26a)
+- <a id="nightingale26a-loss-functions"></a>[Asymmetric Contrastive Objectives for Efficient Phenotypic Screening](../../conferences/icml-2026/cards/3401-3500.md#paper-nightingale26a)
 
 <a id="by-optimization"></a>
 
@@ -174,6 +177,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="maoutsa26a-optimization"></a>[From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#paper-maoutsa26a)
 - <a id="mo26d-optimization"></a>[Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26d)
 - <a id="mozejko26a-optimization"></a>[PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry](../../conferences/icml-2026/cards/3301-3400.md#paper-mozejko26a)
+- <a id="oikonomou26a-optimization"></a>[Neuro-Symbolic AI for Analytical Solutions of Differential Equations](../../conferences/icml-2026/cards/3401-3500.md#paper-oikonomou26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -278,6 +282,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="millard26a-inference"></a>[Particle-Guided Diffusion Models for Partial Differential Equations](../../conferences/icml-2026/cards/3301-3400.md#paper-millard26a)
 - <a id="min26b-inference"></a>[Bridging Dynamics and Data: A Unified Diffusion Framework for Mechanistically-Informed Epidemic Forecasting](../../conferences/icml-2026/cards/3301-3400.md#paper-min26b)
 - <a id="moufad26a-inference"></a>[Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors](../../conferences/icml-2026/cards/3301-3400.md#paper-moufad26a)
+- <a id="oufattole26a-inference"></a>[MoRGen: Mixture-of-Resolutions Generative Forecasting for Irregularly Sampled Medical Time-Series Data](../../conferences/icml-2026/cards/3501-3600.md#paper-oufattole26a)
+- <a id="ouyang26a-inference"></a>[PDAgent: An LLM-Driven Autonomous Agent Framework Towards *In Silico* Protein Design via Directed Mutation](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26a)
+- <a id="ouyang26c-inference"></a>[Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26c)
 
 <a id="by-representation-learning"></a>
 
@@ -335,6 +342,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="mudrik26a-representation-learning"></a>[Multi-Integration of Labels Across Categories for Component Identification in Multi-trial Time Series](../../conferences/icml-2026/cards/3301-3400.md#paper-mudrik26a)
 - <a id="nair26a-representation-learning"></a>[Interpreting Genomic Language Models using Sparse Autoencoders](../../conferences/icml-2026/cards/3401-3500.md#paper-nair26a)
 - <a id="nehme26b-representation-learning"></a>[LAMP: Data-Efficient Linear Affine Weight-Space Models for Parameter-Controlled 3D Shape Generation and Extrapolation](../../conferences/icml-2026/cards/3401-3500.md#paper-nehme26b)
+- <a id="oshima26a-representation-learning"></a>[Supervised Graph Contrastive Learning for Gene Regulatory Networks](../../conferences/icml-2026/cards/3501-3600.md#paper-oshima26a)
 
 <a id="by-evaluation"></a>
 
@@ -375,6 +383,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="moreau26a-evaluation"></a>[Probing the Geometry of Diffusion Models with the String Method](../../conferences/icml-2026/cards/3301-3400.md#paper-moreau26a)
 - <a id="munsamy26a-evaluation"></a>[Scaling Laws and Architectural Frontiers in Metagenomic Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#paper-munsamy26a)
 - <a id="naagarajan26a-evaluation"></a>[Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control](../../conferences/icml-2026/cards/3301-3400.md#paper-naagarajan26a)
+- <a id="oota26a-evaluation"></a>[Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-oota26a)
+- <a id="oublal26a-evaluation"></a>[TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#paper-oublal26a)
 
 <a id="by-theory-statistics"></a>
 

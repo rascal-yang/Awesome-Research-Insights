@@ -136,6 +136,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Draft-and-Audit Reinforcement Learning for Optimization Modeling](../../conferences/icml-2026/cards/3301-3400.md#min26g-reinforcement-learning) · 中文
 - [Distributional Alignment Games for Answer-Level Fine-Tuning](../../conferences/icml-2026/cards/3301-3400.md#mohri26c-reinforcement-learning) · 中文
 - [WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning](../../conferences/icml-2026/cards/3301-3400.md#mundada26a-reinforcement-learning) · 中文
+- [The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](../../conferences/icml-2026/cards/3401-3500.md#ni26e-reinforcement-learning) · 中文
+- [Agent-Omit: Adaptive Context Omission for Efficient LLM Agents](../../conferences/icml-2026/cards/3401-3500.md#ning26a-reinforcement-learning) · 中文
+- [From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#niu26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -153,6 +156,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward](../../conferences/icml-2026/cards/3001-3100.md#luo26j-reinforcement-learning) · 中文
 - [Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#luo26u-reinforcement-learning) · 中文
 - [Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization](../../conferences/icml-2026/cards/3301-3400.md#mo26b-reinforcement-learning) · 中文
+- [Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting](../../conferences/icml-2026/cards/3401-3500.md#ning26e-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -275,6 +279,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity](../../conferences/icml-2026/cards/3301-3400.md#muni26a-reinforcement-learning) · 中文
 - [Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning](../../conferences/icml-2026/cards/3401-3500.md#nguyen26p-reinforcement-learning) · 中文
 - [Long-Horizon Model-Based Offline Reinforcement Learning Without Explicit Conservatism](../../conferences/icml-2026/cards/3401-3500.md#ni26a-reinforcement-learning) · 中文
+- [Squeezing More from the Stream : Learning Representation Online for Streaming Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#nilaksh26a-reinforcement-learning) · 中文
+- [Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying](../../conferences/icml-2026/cards/3401-3500.md#nishimori26a-reinforcement-learning) · 中文
+- [Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games](../../conferences/icml-2026/cards/3501-3600.md#ota26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -296,6 +303,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](../../conferences/icml-2026/cards/3001-3100.md#luo26v-reinforcement-learning) · 中文
 - [Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luu26a-reinforcement-learning) · 中文
 - [DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](../../conferences/icml-2026/cards/3201-3300.md#mandi26a-reinforcement-learning) · 中文
+- [CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#ni26d-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -346,6 +354,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](../../conferences/icml-2026/cards/3201-3300.md#meng26e-reinforcement-learning) · 中文
 - [Adaptive Time Series Reasoning via Segment Selection](../../conferences/icml-2026/cards/3201-3300.md#messica26a-reinforcement-learning) · 中文
 - [PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection](../../conferences/icml-2026/cards/3401-3500.md#nguyen26f-reinforcement-learning) · 中文
+- [Contextualized Visual Personalization in Vision-Language Models](../../conferences/icml-2026/cards/3401-3500.md#oh26c-reinforcement-learning) · 中文
+- [OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization](../../conferences/icml-2026/cards/3501-3600.md#ong26a-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

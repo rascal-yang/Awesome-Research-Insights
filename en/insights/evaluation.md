@@ -262,6 +262,17 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [One Probe Won’t Catch Them All: Towards Targeted Deception Detection](../../conferences/icml-2026/cards/3401-3500.md#natarajan26a-evaluation) · 中文
 - [A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn’t)](../../conferences/icml-2026/cards/3401-3500.md#nayak26a-evaluation) · 中文
 - [What LLMs Explain Is Not What They Believe: Evaluating Explanation Sufficiency Under Models’ Own Input Beliefs](../../conferences/icml-2026/cards/3401-3500.md#nguyen26n-evaluation) · 中文
+- [DSGym: A Holistic Framework for Evaluating and Training Data Science Agents](../../conferences/icml-2026/cards/3401-3500.md#nie26b-evaluation) · 中文
+- [KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware](../../conferences/icml-2026/cards/3401-3500.md#nie26c-evaluation) · 中文
+- [When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents](../../conferences/icml-2026/cards/3401-3500.md#ning26c-evaluation) · 中文
+- [Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning](../../conferences/icml-2026/cards/3401-3500.md#noel26a-evaluation) · 中文
+- [ABCD: All Biases Come Disguised](../../conferences/icml-2026/cards/3401-3500.md#nowak26a-evaluation) · 中文
+- [GAUSS: Graph-Assisted Uncertainty Quantification using Structure and Semantics for Long-Form Generation in LLMs](../../conferences/icml-2026/cards/3401-3500.md#ns26a-evaluation) · 中文
+- [Emergence of Biased Consensus in Multi-Agent LLM Debates](../../conferences/icml-2026/cards/3501-3600.md#okawa26a-evaluation) · 中文
+- [Emergence of Hierarchical Emotion Organization in Large Language Models](../../conferences/icml-2026/cards/3501-3600.md#okawa26b-evaluation) · 中文
+- [Computational Arbitrage in AI Model Markets](../../conferences/icml-2026/cards/3501-3600.md#olmedo26a-evaluation) · 中文
+- [Accuracy and Normalized Accuracy under Length Bias: Analysis, Guidelines, and a Bayesian Alternative](../../conferences/icml-2026/cards/3501-3600.md#oostermeijer26a-evaluation) · 中文
+- [When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models](../../conferences/icml-2026/cards/3501-3600.md#ou26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -446,6 +457,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · 中文
 - [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · 中文
 - [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](../../conferences/icml-2026/cards/3201-3300.md#meng26d-evaluation) · 中文
+- [WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](../../conferences/icml-2026/cards/3401-3500.md#niu26c-evaluation) · 中文
+- [MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks](../../conferences/icml-2026/cards/3401-3500.md#niu26d-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -550,4 +563,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Probing the Geometry of Diffusion Models with the String Method](../../conferences/icml-2026/cards/3301-3400.md#moreau26a-evaluation) · 中文
 - [Scaling Laws and Architectural Frontiers in Metagenomic Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#munsamy26a-evaluation) · 中文
 - [Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control](../../conferences/icml-2026/cards/3301-3400.md#naagarajan26a-evaluation) · 中文
+- [Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models](../../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · 中文
+- [TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · 中文
 <!-- classification:end -->

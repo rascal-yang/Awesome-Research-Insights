@@ -55,6 +55,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="mohan26b-architecture"></a>[Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers](../../conferences/icml-2026/cards/3301-3400.md#paper-mohan26b)
 - <a id="mohri26a-architecture"></a>[Rational Transductors](../../conferences/icml-2026/cards/3301-3400.md#paper-mohri26a)
 - <a id="nguyen26i-architecture"></a>[Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26i)
+- <a id="nother26a-architecture"></a>[MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](../../conferences/icml-2026/cards/3401-3500.md#paper-nother26a)
 
 <a id="by-modules"></a>
 
@@ -124,6 +125,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lv26l-loss-functions"></a>[When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26l)
 - <a id="mohri26e-loss-functions"></a>[Mind the Gap: Structure-Aware Consistency in Preference Learning](../../conferences/icml-2026/cards/3301-3400.md#paper-mohri26e)
 - <a id="nguyen26l-loss-functions"></a>[TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26l)
+- <a id="oi26b-loss-functions"></a>[Autoregressive Direct Preference Optimization](../../conferences/icml-2026/cards/3401-3500.md#paper-oi26b)
 
 <a id="by-optimization"></a>
 
@@ -199,6 +201,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="mandal26a-optimization"></a>[Distributionally Robust Reinforcement Learning from Human Feedback](../../conferences/icml-2026/cards/3201-3300.md#paper-mandal26a)
 - <a id="monteiro26a-optimization"></a>[Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection](../../conferences/icml-2026/cards/3301-3400.md#paper-monteiro26a)
 - <a id="mukherjee26c-optimization"></a>[Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs](../../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26c)
+- <a id="nikdan26a-optimization"></a>[ECO: Quantized Training without Full-Precision Master Weights](../../conferences/icml-2026/cards/3401-3500.md#paper-nikdan26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -327,6 +330,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="min26g-reinforcement-learning"></a>[Draft-and-Audit Reinforcement Learning for Optimization Modeling](../../conferences/icml-2026/cards/3301-3400.md#paper-min26g)
 - <a id="mohri26c-reinforcement-learning"></a>[Distributional Alignment Games for Answer-Level Fine-Tuning](../../conferences/icml-2026/cards/3301-3400.md#paper-mohri26c)
 - <a id="mundada26a-reinforcement-learning"></a>[WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning](../../conferences/icml-2026/cards/3301-3400.md#paper-mundada26a)
+- <a id="ni26e-reinforcement-learning"></a>[The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](../../conferences/icml-2026/cards/3401-3500.md#paper-ni26e)
+- <a id="ning26a-reinforcement-learning"></a>[Agent-Omit: Adaptive Context Omission for Efficient LLM Agents](../../conferences/icml-2026/cards/3401-3500.md#paper-ning26a)
+- <a id="niu26a-reinforcement-learning"></a>[From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26a)
 
 <a id="by-training-strategies"></a>
 
@@ -427,6 +433,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="mu26b-training-strategies"></a>[DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization](../../conferences/icml-2026/cards/3301-3400.md#paper-mu26b)
 - <a id="muhtar26a-training-strategies"></a>[When Does Sparsity Mitigate the Curse of Depth in LLMs](../../conferences/icml-2026/cards/3301-3400.md#paper-muhtar26a)
 - <a id="nguyen26r-training-strategies"></a>[Gradient Transformer: Learning to Generate Updates for LLMs](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26r)
+- <a id="noh26a-training-strategies"></a>[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](../../conferences/icml-2026/cards/3401-3500.md#paper-noh26a)
 
 <a id="by-data-strategies"></a>
 
@@ -724,6 +731,10 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="nguyen26h-inference"></a>[CUPID in the Model Zoo: Online Matchmaking for Selecting Your Dream LLM](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26h)
 - <a id="nguyen26m-inference"></a>[Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26m)
 - <a id="nguyen26s-inference"></a>[Safety Game: Inference-Time Alignment of Black-Box LLMs via Constrained Optimization](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26s)
+- <a id="niu26b-inference"></a>[Stem: Rethinking Causal Information Flow in Sparse Attention](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26b)
+- <a id="noshad26a-inference"></a>[MVR-cache: Optimizing Semantic Caching via Multi-Vector Retrieval and Learned Prompt Segmentation](../../conferences/icml-2026/cards/3401-3500.md#paper-noshad26a)
+- <a id="oncescu26a-inference"></a>[Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining](../../conferences/icml-2026/cards/3501-3600.md#paper-oncescu26a)
+- <a id="ospanov26a-inference"></a>[HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs](../../conferences/icml-2026/cards/3501-3600.md#paper-ospanov26a)
 
 <a id="by-representation-learning"></a>
 
@@ -739,6 +750,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="luo26d-representation-learning"></a>[Learning a Generative Meta-Model of LLM Activations](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26d)
 - <a id="luo26ad-representation-learning"></a>[Closing the Loop: Universal Repository Representation with RPG-Encoder](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ad)
 - <a id="minegishi26a-representation-learning"></a>[Emergent Analogical Reasoning in Transformers](../../conferences/icml-2026/cards/3301-3400.md#paper-minegishi26a)
+- <a id="noroozizadeh26a-representation-learning"></a>[Deep sequence models tend to memorize geometrically; it is unclear why](../../conferences/icml-2026/cards/3401-3500.md#paper-noroozizadeh26a)
 
 <a id="by-evaluation"></a>
 
@@ -993,6 +1005,17 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="natarajan26a-evaluation"></a>[One Probe Won’t Catch Them All: Towards Targeted Deception Detection](../../conferences/icml-2026/cards/3401-3500.md#paper-natarajan26a)
 - <a id="nayak26a-evaluation"></a>[A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn’t)](../../conferences/icml-2026/cards/3401-3500.md#paper-nayak26a)
 - <a id="nguyen26n-evaluation"></a>[What LLMs Explain Is Not What They Believe: Evaluating Explanation Sufficiency Under Models’ Own Input Beliefs](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26n)
+- <a id="nie26b-evaluation"></a>[DSGym: A Holistic Framework for Evaluating and Training Data Science Agents](../../conferences/icml-2026/cards/3401-3500.md#paper-nie26b)
+- <a id="nie26c-evaluation"></a>[KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware](../../conferences/icml-2026/cards/3401-3500.md#paper-nie26c)
+- <a id="ning26c-evaluation"></a>[When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents](../../conferences/icml-2026/cards/3401-3500.md#paper-ning26c)
+- <a id="noel26a-evaluation"></a>[Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning](../../conferences/icml-2026/cards/3401-3500.md#paper-noel26a)
+- <a id="nowak26a-evaluation"></a>[ABCD: All Biases Come Disguised](../../conferences/icml-2026/cards/3401-3500.md#paper-nowak26a)
+- <a id="ns26a-evaluation"></a>[GAUSS: Graph-Assisted Uncertainty Quantification using Structure and Semantics for Long-Form Generation in LLMs](../../conferences/icml-2026/cards/3401-3500.md#paper-ns26a)
+- <a id="okawa26a-evaluation"></a>[Emergence of Biased Consensus in Multi-Agent LLM Debates](../../conferences/icml-2026/cards/3501-3600.md#paper-okawa26a)
+- <a id="okawa26b-evaluation"></a>[Emergence of Hierarchical Emotion Organization in Large Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-okawa26b)
+- <a id="olmedo26a-evaluation"></a>[Computational Arbitrage in AI Model Markets](../../conferences/icml-2026/cards/3501-3600.md#paper-olmedo26a)
+- <a id="oostermeijer26a-evaluation"></a>[Accuracy and Normalized Accuracy under Length Bias: Analysis, Guidelines, and a Bayesian Alternative](../../conferences/icml-2026/cards/3501-3600.md#paper-oostermeijer26a)
+- <a id="ou26a-evaluation"></a>[When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-ou26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1042,4 +1065,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="mohri26b-theory-statistics"></a>[Next-Token Prediction and Regret Minimization](../../conferences/icml-2026/cards/3301-3400.md#paper-mohri26b)
 - <a id="morris26a-theory-statistics"></a>[How much can language models memorize?](../../conferences/icml-2026/cards/3301-3400.md#paper-morris26a)
 - <a id="nadgir26a-theory-statistics"></a>[How does Chain of Thought decompose complex tasks?](../../conferences/icml-2026/cards/3301-3400.md#paper-nadgir26a)
+- <a id="nie26a-theory-statistics"></a>[A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints](../../conferences/icml-2026/cards/3401-3500.md#paper-nie26a)
+- <a id="oko26a-theory-statistics"></a>[Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner](../../conferences/icml-2026/cards/3501-3600.md#paper-oko26a)
 <!-- classification:end -->

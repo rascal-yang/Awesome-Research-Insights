@@ -40,6 +40,7 @@ Objectives, auxiliary supervision, and regularization.
 - [When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning](../../conferences/icml-2026/cards/3101-3200.md#lv26l-loss-functions) · 中文
 - [Mind the Gap: Structure-Aware Consistency in Preference Learning](../../conferences/icml-2026/cards/3301-3400.md#mohri26e-loss-functions) · 中文
 - [TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](../../conferences/icml-2026/cards/3401-3500.md#nguyen26l-loss-functions) · 中文
+- [Autoregressive Direct Preference Optimization](../../conferences/icml-2026/cards/3401-3500.md#oi26b-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -122,6 +123,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Calibrating Uncertainty for Zero-Shot Adversarial CLIP](../../conferences/icml-2026/cards/3001-3100.md#lu26af-loss-functions) · 中文
 - [AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field](../../conferences/icml-2026/cards/3101-3200.md#ma26ai-loss-functions) · 中文
 - [Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs](../../conferences/icml-2026/cards/3301-3400.md#mirvakhabova26a-loss-functions) · 中文
+- [A Unified Framework for Diffusion Model Unlearning with f-Divergence](../../conferences/icml-2026/cards/3401-3500.md#novello26a-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -152,6 +154,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Divisiveness-Consistent Label Distribution Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26an-loss-functions) · 中文
 - [Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../../conferences/icml-2026/cards/3301-3400.md#mohri26d-loss-functions) · 中文
 - [Possibilistic Predictive Uncertainty for Deep Learning](../../conferences/icml-2026/cards/3401-3500.md#ni26b-loss-functions) · 中文
+- [A Diffusive Classification Loss for Learning Energy-based Generative Models](../../conferences/icml-2026/cards/3501-3600.md#ouyang26b-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -191,4 +194,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Mitigating Gradient Pathology in PINNs through Aligned Constraint](../../conferences/icml-2026/cards/3001-3100.md#luo26am-loss-functions) · 中文
 - [Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation](../../conferences/icml-2026/cards/3201-3300.md#mejia26a-loss-functions) · 中文
 - [Learning to Emulate Chaos: Adversarial Optimal Transport Regularization](../../conferences/icml-2026/cards/3201-3300.md#melo26a-loss-functions) · 中文
+- [Asymmetric Contrastive Objectives for Efficient Phenotypic Screening](../../conferences/icml-2026/cards/3401-3500.md#nightingale26a-loss-functions) · 中文
 <!-- classification:end -->

@@ -108,6 +108,7 @@
 - [用回报重要性权重把多轮 RL 转为离线微调](../conferences/icml-2026/cards/3301-3400.md#mu26b-training-strategies) · DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization
 - [用交互稀疏度解释并改善深层 LLM 利用率](../conferences/icml-2026/cards/3301-3400.md#muhtar26a-training-strategies) · When Does Sparsity Mitigate the Curse of Depth in LLMs
 - [从小模型微调更新生成大模型更新](../conferences/icml-2026/cards/3401-3500.md#nguyen26r-training-strategies) · Gradient Transformer: Learning to Generate Updates for LLMs
+- [为量化跳层保留训练路径多样性](../conferences/icml-2026/cards/3401-3500.md#noh26a-training-strategies) · QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -163,6 +164,7 @@
 - [用对抗模仿降低流式生成器与示范轨迹分布差](../conferences/icml-2026/cards/3101-3200.md#ma26u-training-strategies) · FAIL: Flow Matching Adversarial Imitation Learning for Image Generation
 - [弹性追踪 token 预算](../conferences/icml-2026/cards/3101-3200.md#ma26aq-training-strategies) · Learning Generalized Trackers with Elastic Token Budgets
 - [在联邦训练中交换类流形而非单点原型](../conferences/icml-2026/cards/3301-3400.md#mu26c-training-strategies) · Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer
+- [视觉模块可塑性](../conferences/icml-2026/cards/3401-3500.md#odonnat26a-training-strategies) · Vision Transformer Finetuning Benefits from Non-Smooth Components
 
 <a id="by-nlp"></a>
 
@@ -244,6 +246,8 @@
 - [三维关系推理蒸馏](../conferences/icml-2026/cards/3301-3400.md#mo26c-training-strategies) · Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs
 - [用预期问答效用路由并汇总持续 VQA 专家](../conferences/icml-2026/cards/3301-3400.md#mozaffari26a-training-strategies) · Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA
 - [文档定位推理验证](../conferences/icml-2026/cards/3401-3500.md#neogi26a-training-strategies) · DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA
+- [用渐进多模态训练共享医学理解和生成模型](../conferences/icml-2026/cards/3401-3500.md#ning26d-training-strategies) · UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis
+- [多图视角动作推理](../conferences/icml-2026/cards/3401-3500.md#oi26a-training-strategies) · From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models
 
 <a id="by-ml-foundations"></a>
 

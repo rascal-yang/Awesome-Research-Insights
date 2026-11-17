@@ -83,6 +83,7 @@
 - [在分布邻域内稳健优化偏好](../conferences/icml-2026/cards/3201-3300.md#mandal26a-optimization) · Distributionally Robust Reinforcement Learning from Human Feedback
 - [多目标微调调度](../conferences/icml-2026/cards/3301-3400.md#monteiro26a-optimization) · Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection
 - [在可验证奖励强化学习中用无状态 SGD 替换 AdamW](../conferences/icml-2026/cards/3301-3400.md#mukherjee26c-optimization) · Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs
+- [把量化舍入误差累积到动量以省掉 master weights](../conferences/icml-2026/cards/3401-3500.md#nikdan26a-optimization) · ECO: Quantized Training without Full-Precision Master Weights
 
 <a id="by-computer-vision"></a>
 
@@ -334,6 +335,11 @@
 - [用优化器对偶范数调批大小](../conferences/icml-2026/cards/3301-3400.md#naganuma26a-optimization) · Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent
 - [陈旧预条件器阻尼](../conferences/icml-2026/cards/3401-3500.md#nam26a-optimization) · FOAM: Frequency and Operator-Error Based Adaptive Damping Method for Reducing Staleness-Oriented Error for Shampoo
 - [给多目标分布下降加入 Wasserstein 动量](../conferences/icml-2026/cards/3401-3500.md#nguyen26k-optimization) · Accelerated Multiple Wasserstein Gradient Flows for Multi-objective Distributional Optimization
+- [用对数正态乘性权重稳定低精度前向训练](../conferences/icml-2026/cards/3401-3500.md#nishida26a-optimization) · Log-Normal Multiplicative Dynamics for Stable Low-Precision Deep Learning
+- [损失感知运输歧义集](../conferences/icml-2026/cards/3401-3500.md#ohnemus26a-optimization) · Loss-Aware Distributionally Robust Optimization via Trainable Optimal Transport Ambiguity Sets
+- [扰动点 Polyak 步长](../conferences/icml-2026/cards/3501-3600.md#oikonomou26b-optimization) · Adaptive Sharpness-Aware Minimization with a Polyak-type Step size: A Theory-Grounded Scheduler
+- [次梯度分母保护](../conferences/icml-2026/cards/3501-3600.md#oikonomou26c-optimization) · Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients
+- [用衰减的缓存动量稳定部分参与聚合](../conferences/icml-2026/cards/3501-3600.md#otsuka26a-optimization) · Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -389,4 +395,5 @@
 - [用不变密度的测地结构补足稀疏随机轨迹](../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints
 - [芯片宏布局排序](../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution
 - [沿解码器诱导的流形搜索抗菌肽](../conferences/icml-2026/cards/3301-3400.md#mozejko26a-optimization) · PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry
+- [微分方程符号解搜索](../conferences/icml-2026/cards/3401-3500.md#oikonomou26a-optimization) · Neuro-Symbolic AI for Analytical Solutions of Differential Equations
 <!-- classification:end -->

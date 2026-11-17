@@ -89,6 +89,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lu26af-loss-functions"></a>[Calibrating Uncertainty for Zero-Shot Adversarial CLIP](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26af)
 - <a id="ma26ai-loss-functions"></a>[AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ai)
 - <a id="mirvakhabova26a-loss-functions"></a>[Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs](../../conferences/icml-2026/cards/3301-3400.md#paper-mirvakhabova26a)
+- <a id="novello26a-loss-functions"></a>[A Unified Framework for Diffusion Model Unlearning with f-Divergence](../../conferences/icml-2026/cards/3401-3500.md#paper-novello26a)
 
 <a id="by-optimization"></a>
 
@@ -149,6 +150,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="meng26e-reinforcement-learning"></a>[Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26e)
 - <a id="messica26a-reinforcement-learning"></a>[Adaptive Time Series Reasoning via Segment Selection](../../conferences/icml-2026/cards/3201-3300.md#paper-messica26a)
 - <a id="nguyen26f-reinforcement-learning"></a>[PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26f)
+- <a id="oh26c-reinforcement-learning"></a>[Contextualized Visual Personalization in Vision-Language Models](../../conferences/icml-2026/cards/3401-3500.md#paper-oh26c)
+- <a id="ong26a-reinforcement-learning"></a>[OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization](../../conferences/icml-2026/cards/3501-3600.md#paper-ong26a)
 
 <a id="by-training-strategies"></a>
 
@@ -192,6 +195,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="mo26c-training-strategies"></a>[Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26c)
 - <a id="mozaffari26a-training-strategies"></a>[Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA](../../conferences/icml-2026/cards/3301-3400.md#paper-mozaffari26a)
 - <a id="neogi26a-training-strategies"></a>[DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](../../conferences/icml-2026/cards/3401-3500.md#paper-neogi26a)
+- <a id="ning26d-training-strategies"></a>[UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis](../../conferences/icml-2026/cards/3401-3500.md#paper-ning26d)
+- <a id="oi26a-training-strategies"></a>[From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](../../conferences/icml-2026/cards/3401-3500.md#paper-oi26a)
 
 <a id="by-data-strategies"></a>
 
@@ -297,6 +302,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ma26ax-inference"></a>[Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ax)
 - <a id="milis26a-inference"></a>[Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](../../conferences/icml-2026/cards/3301-3400.md#paper-milis26a)
 - <a id="minh26a-inference"></a>[ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory](../../conferences/icml-2026/cards/3301-3400.md#paper-minh26a)
+- <a id="nie26d-inference"></a>[Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP](../../conferences/icml-2026/cards/3401-3500.md#paper-nie26d)
+- <a id="ning26b-inference"></a>[V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning](../../conferences/icml-2026/cards/3401-3500.md#paper-ning26b)
 
 <a id="by-representation-learning"></a>
 
@@ -417,6 +424,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="mao26b-evaluation"></a>[BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26b)
 - <a id="mao26j-evaluation"></a>[STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26j)
 - <a id="meng26d-evaluation"></a>[DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26d)
+- <a id="niu26c-evaluation"></a>[WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26c)
+- <a id="niu26d-evaluation"></a>[MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26d)
 
 <a id="by-theory-statistics"></a>
 

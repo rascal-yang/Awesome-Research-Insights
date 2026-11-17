@@ -40,6 +40,7 @@
 - [把比较器的平局纳入偏好学习](../conferences/icml-2026/cards/3101-3200.md#lv26l-loss-functions) · When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning
 - [语义自适应偏好间隔](../conferences/icml-2026/cards/3301-3400.md#mohri26e-loss-functions) · Mind the Gap: Structure-Aware Consistency in Preference Learning
 - [为每个前缀匹配偏好密度比](../conferences/icml-2026/cards/3401-3500.md#nguyen26l-loss-functions) · TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching
+- [自回归前缀偏好](../conferences/icml-2026/cards/3401-3500.md#oi26b-loss-functions) · Autoregressive Direct Preference Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -122,6 +123,7 @@
 - [在对抗训练中对齐类别分布和证据总量](../conferences/icml-2026/cards/3001-3100.md#lu26af-loss-functions) · Calibrating Uncertainty for Zero-Shot Adversarial CLIP
 - [以类别锚点约束视觉提示范数](../conferences/icml-2026/cards/3101-3200.md#ma26ai-loss-functions) · AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field
 - [专家路由的 Dirichlet 先验](../conferences/icml-2026/cards/3301-3400.md#mirvakhabova26a-loss-functions) · Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs
+- [扩散概念擦除散度](../conferences/icml-2026/cards/3401-3500.md#novello26a-loss-functions) · A Unified Framework for Diffusion Model Unlearning with f-Divergence
 
 <a id="by-ml-foundations"></a>
 
@@ -152,6 +154,7 @@
 - [以成对监督保存语义相反标签的分歧度](../conferences/icml-2026/cards/3001-3100.md#lu26an-loss-functions) · Divisiveness-Consistent Label Distribution Learning
 - [线性内核一致损失](../conferences/icml-2026/cards/3301-3400.md#mohri26d-loss-functions) · Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction
 - [用可能性上确界估计认知不确定性](../conferences/icml-2026/cards/3401-3500.md#ni26b-loss-functions) · Possibilistic Predictive Uncertainty for Deep Learning
+- [用噪声层级分类识别能量分布的模态权重](../conferences/icml-2026/cards/3501-3600.md#ouyang26b-loss-functions) · A Diffusive Classification Loss for Learning Energy-based Generative Models
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -191,4 +194,5 @@
 - [PINN 边界与残差对齐](../conferences/icml-2026/cards/3001-3100.md#luo26am-loss-functions) · Mitigating Gradient Pathology in PINNs through Aligned Constraint
 - [单细胞扰动稀疏信号加权](../conferences/icml-2026/cards/3201-3300.md#mejia26a-loss-functions) · Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation
 - [混沌系统模拟](../conferences/icml-2026/cards/3201-3300.md#melo26a-loss-functions) · Learning to Emulate Chaos: Adversarial Optimal Transport Regularization
+- [让细胞扰动原型只受正样本吸引](../conferences/icml-2026/cards/3401-3500.md#nightingale26a-loss-functions) · Asymmetric Contrastive Objectives for Efficient Phenotypic Screening
 <!-- classification:end -->

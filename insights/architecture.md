@@ -55,6 +55,7 @@
 - [跨词元高层反馈](../conferences/icml-2026/cards/3301-3400.md#mohan26b-architecture) · Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers
 - [有限自动机状态注入](../conferences/icml-2026/cards/3301-3400.md#mohri26a-architecture) · Rational Transductors
 - [把栈操作写成可并行的递归更新](../conferences/icml-2026/cards/3401-3500.md#nguyen26i-architecture) · Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule
+- [用对手搜索协同设计多智能体防线](../conferences/icml-2026/cards/3401-3500.md#nother26a-architecture) · MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems
 
 <a id="by-computer-vision"></a>
 
@@ -243,6 +244,8 @@
 - [流式神经过程的因果缓存](../conferences/icml-2026/cards/3301-3400.md#mortimer26a-architecture) · Incremental Transformer Neural Processes
 - [先生成离散轮廓再细化混合类型表格](../conferences/icml-2026/cards/3301-3400.md#mueller26a-architecture) · Cascaded Flow Matching for Heterogeneous Tabular Data with Mixed-Type Features
 - [按通道簇建模并顺序累积时序异常证据](../conferences/icml-2026/cards/3301-3400.md#murad26a-architecture) · Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series
+- [可稀疏化的非平稳高斯过程核](../conferences/icml-2026/cards/3401-3500.md#noack26a-architecture) · gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points
+- [把精确零值移出扩散状态](../conferences/icml-2026/cards/3501-3600.md#ostheimer26a-architecture) · Skipping the Zeros in Diffusion Models for Sparse Data Generation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -266,6 +269,7 @@
 - [用全局调制 token 让扩散生成满足网络链路约束](../conferences/icml-2026/cards/3201-3300.md#marcoccia26a-architecture) · NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies
 - [在知识图查询执行合约中显式绑定否定范围](../conferences/icml-2026/cards/3201-3300.md#miao26e-architecture) · LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation
 - [动态图的结构频谱时序解耦](../conferences/icml-2026/cards/3301-3400.md#mo26a-architecture) · Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks
+- [用可逆图层同时支持 1-WL 表达和节点生成](../conferences/icml-2026/cards/3401-3500.md#nikolentzos26a-architecture) · InvGNN: Learning Invertible Node Representations on Graphs
 
 <a id="by-scientific-ml"></a>
 
@@ -359,4 +363,6 @@
 - [WiFi 振幅和相位的双流状态空间建模](../conferences/icml-2026/cards/3301-3400.md#n-d-26a-architecture) · Interleaved Selective State Space Models for Efficient WiFi-Based 3D Multi-Person Pose Estimation
 - [同步稳定性景观](../conferences/icml-2026/cards/3401-3500.md#nauck26a-architecture) · Learning Dynamic Stability Landscapes in Synchronization Networks
 - [误差驱动网格增边](../conferences/icml-2026/cards/3401-3500.md#nguyen26a-architecture) · Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates
+- [肽设计的柔性感知几何扩散](../conferences/icml-2026/cards/3401-3500.md#niu26e-architecture) · Flexibility-Aware Geometric Latent Diffusion for Full-Atom Peptide Design
+- [物理网格的拓扑接线与本构度量](../conferences/icml-2026/cards/3401-3500.md#noguchi26a-architecture) · Mesh Field Theory: Port–Hamiltonian Formulation of Mesh-Based Physics
 <!-- classification:end -->

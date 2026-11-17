@@ -83,6 +83,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="luo26v-reinforcement-learning"></a>[DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26v)
 - <a id="luu26a-reinforcement-learning"></a>[Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-luu26a)
 - <a id="mandi26a-reinforcement-learning"></a>[DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](../../conferences/icml-2026/cards/3201-3300.md#paper-mandi26a)
+- <a id="ni26d-reinforcement-learning"></a>[CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#paper-ni26d)
 
 <a id="by-training-strategies"></a>
 

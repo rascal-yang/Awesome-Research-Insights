@@ -174,6 +174,7 @@
 - <a id="luo26j-reinforcement-learning"></a>[TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward](../conferences/icml-2026/cards/3001-3100.md#paper-luo26j)
 - <a id="luo26u-reinforcement-learning"></a>[Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization](../conferences/icml-2026/cards/3001-3100.md#paper-luo26u)
 - <a id="mo26b-reinforcement-learning"></a>[Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization](../conferences/icml-2026/cards/3301-3400.md#paper-mo26b)
+- <a id="ning26e-reinforcement-learning"></a>[Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting](../conferences/icml-2026/cards/3401-3500.md#paper-ning26e)
 
 <a id="by-training-strategies"></a>
 
@@ -229,6 +230,7 @@
 - <a id="ma26u-training-strategies"></a>[FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](../conferences/icml-2026/cards/3101-3200.md#paper-ma26u)
 - <a id="ma26aq-training-strategies"></a>[Learning Generalized Trackers with Elastic Token Budgets](../conferences/icml-2026/cards/3101-3200.md#paper-ma26aq)
 - <a id="mu26c-training-strategies"></a>[Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer](../conferences/icml-2026/cards/3301-3400.md#paper-mu26c)
+- <a id="odonnat26a-training-strategies"></a>[Vision Transformer Finetuning Benefits from Non-Smooth Components](../conferences/icml-2026/cards/3401-3500.md#paper-odonnat26a)
 
 <a id="by-data-strategies"></a>
 
@@ -249,6 +251,7 @@
 - <a id="li26ju-data-strategies"></a>[On Revisiting Entropy for Identifying Mislabeled Images](../conferences/icml-2026/cards/2601-2700.md#paper-li26ju)
 - <a id="lu26k-data-strategies"></a>[Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation](../conferences/icml-2026/cards/3001-3100.md#paper-lu26k)
 - <a id="lv26c-data-strategies"></a>[SCalDA: Semantics-Calibrated and Diffusion-Enhanced Data Augmentation](../conferences/icml-2026/cards/3101-3200.md#paper-lv26c)
+- <a id="oh26b-data-strategies"></a>[CSOR: Coreset Selection for Object Re-identification via Class Pruning](../conferences/icml-2026/cards/3401-3500.md#paper-oh26b)
 
 <a id="by-inference"></a>
 
@@ -338,6 +341,7 @@
 - <a id="moon26b-inference"></a>[ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT](../conferences/icml-2026/cards/3301-3400.md#paper-moon26b)
 - <a id="moreira26a-inference"></a>[Spectral Guidance for Flexible and Efficient Control of Diffusion Models](../conferences/icml-2026/cards/3301-3400.md#paper-moreira26a)
 - <a id="nguyen26q-inference"></a>[Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26q)
+- <a id="oettinger26a-inference"></a>[Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization](../conferences/icml-2026/cards/3401-3500.md#paper-oettinger26a)
 
 <a id="by-representation-learning"></a>
 

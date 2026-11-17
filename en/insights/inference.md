@@ -247,6 +247,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [CUPID in the Model Zoo: Online Matchmaking for Selecting Your Dream LLM](../../conferences/icml-2026/cards/3401-3500.md#nguyen26h-inference) · 中文
 - [Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts](../../conferences/icml-2026/cards/3401-3500.md#nguyen26m-inference) · 中文
 - [Safety Game: Inference-Time Alignment of Black-Box LLMs via Constrained Optimization](../../conferences/icml-2026/cards/3401-3500.md#nguyen26s-inference) · 中文
+- [Stem: Rethinking Causal Information Flow in Sparse Attention](../../conferences/icml-2026/cards/3401-3500.md#niu26b-inference) · 中文
+- [MVR-cache: Optimizing Semantic Caching via Multi-Vector Retrieval and Learned Prompt Segmentation](../../conferences/icml-2026/cards/3401-3500.md#noshad26a-inference) · 中文
+- [Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining](../../conferences/icml-2026/cards/3501-3600.md#oncescu26a-inference) · 中文
+- [HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs](../../conferences/icml-2026/cards/3501-3600.md#ospanov26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -336,6 +340,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT](../../conferences/icml-2026/cards/3301-3400.md#moon26b-inference) · 中文
 - [Spectral Guidance for Flexible and Efficient Control of Diffusion Models](../../conferences/icml-2026/cards/3301-3400.md#moreira26a-inference) · 中文
 - [Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance](../../conferences/icml-2026/cards/3401-3500.md#nguyen26q-inference) · 中文
+- [Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization](../../conferences/icml-2026/cards/3401-3500.md#oettinger26a-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -366,6 +371,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Recursive Monte-Carlo Tree Search](../../conferences/icml-2026/cards/1601-1700.md#howard26a-inference) · 中文
 - [Identifiable Token Correspondence for World Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bq-inference) · 中文
 - [Improving Diffusion Planners by Self-Supervised Action Gating with Energies](../../conferences/icml-2026/cards/3001-3100.md#lu26l-inference) · 中文
+- [Test-Time Graph Search for Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#opryshko26a-inference) · 中文
+- [Twice Sequential Monte Carlo for Tree Search](../../conferences/icml-2026/cards/3501-3600.md#oren26a-inference) · 中文
 
 <a id="by-robotics"></a>
 
@@ -475,6 +482,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion](../../conferences/icml-2026/cards/3101-3200.md#ma26ax-inference) · 中文
 - [Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](../../conferences/icml-2026/cards/3301-3400.md#milis26a-inference) · 中文
 - [ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory](../../conferences/icml-2026/cards/3301-3400.md#minh26a-inference) · 中文
+- [Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP](../../conferences/icml-2026/cards/3401-3500.md#nie26d-inference) · 中文
+- [V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning](../../conferences/icml-2026/cards/3401-3500.md#ning26b-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -513,6 +522,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Faster Activation Functions at the Edge for Post-Training Speedups](../../conferences/icml-2026/cards/3101-3200.md#lydike26a-inference) · 中文
 - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../../conferences/icml-2026/cards/3301-3400.md#morelli26a-inference) · 中文
 - [Reviving Error Correction in Modern Deep Time-Series Forecasting](../../conferences/icml-2026/cards/3401-3500.md#nguyen26u-inference) · 中文
+- [Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits](../../conferences/icml-2026/cards/3401-3500.md#nurko26a-inference) · 中文
+- [Beyond Hamming: Query-Aware Decoding of Binary Cosine Sketches](../../conferences/icml-2026/cards/3401-3500.md#nyang26a-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -528,6 +539,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers](../../conferences/icml-2026/cards/2501-2600.md#li26gz-inference) · 中文
 - [Information-Geometric Adaptive Sampling for Graph Diffusion](../../conferences/icml-2026/cards/3001-3100.md#lu26s-inference) · 中文
 - [SimGFM: Simplifying Discrete Flow Matching for Graph Generation](../../conferences/icml-2026/cards/3001-3100.md#luo26s-inference) · 中文
+- [Amortizing Maximum Inner Product Search with Learned Support Functions](../../conferences/icml-2026/cards/3501-3600.md#olausson26a-inference) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -563,4 +575,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Particle-Guided Diffusion Models for Partial Differential Equations](../../conferences/icml-2026/cards/3301-3400.md#millard26a-inference) · 中文
 - [Bridging Dynamics and Data: A Unified Diffusion Framework for Mechanistically-Informed Epidemic Forecasting](../../conferences/icml-2026/cards/3301-3400.md#min26b-inference) · 中文
 - [Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors](../../conferences/icml-2026/cards/3301-3400.md#moufad26a-inference) · 中文
+- [MoRGen: Mixture-of-Resolutions Generative Forecasting for Irregularly Sampled Medical Time-Series Data](../../conferences/icml-2026/cards/3501-3600.md#oufattole26a-inference) · 中文
+- [PDAgent: An LLM-Driven Autonomous Agent Framework Towards *In Silico* Protein Design via Directed Mutation](../../conferences/icml-2026/cards/3501-3600.md#ouyang26a-inference) · 中文
+- [Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion](../../conferences/icml-2026/cards/3501-3600.md#ouyang26c-inference) · 中文
 <!-- classification:end -->
