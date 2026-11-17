@@ -120,6 +120,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](../../conferences/icml-2026/cards/2801-2900.md#liu26de-reinforcement-learning) · 中文
 - [SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26ds-reinforcement-learning) · 中文
 - [Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations](../../conferences/icml-2026/cards/2901-3000.md#liu26fd-reinforcement-learning) · 中文
+- [Experience Augmented Policy Optimization for LLM Reasoning](../../conferences/icml-2026/cards/3001-3100.md#lu26n-reinforcement-learning) · 中文
+- [De-attribute to Forget for LLM Unlearning](../../conferences/icml-2026/cards/3001-3100.md#lu26z-reinforcement-learning) · 中文
+- [Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/3001-3100.md#lu26aj-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -239,6 +242,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Implicit Safety Alignment from Crowd Preferences](../../conferences/icml-2026/cards/2701-2800.md#lin26d-reinforcement-learning) · 中文
 - [Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief](../../conferences/icml-2026/cards/2701-2800.md#lin26am-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
+- [TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels](../../conferences/icml-2026/cards/2901-3000.md#low26a-reinforcement-learning) · 中文
+- [COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space](../../conferences/icml-2026/cards/3001-3100.md#luan26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -256,6 +261,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [MapDream: Task-Driven Map Learning for Vision-Language Navigation](../../conferences/icml-2026/cards/2601-2700.md#lian26c-reinforcement-learning) · 中文
 - [DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization](../../conferences/icml-2026/cards/2701-2800.md#lin26af-reinforcement-learning) · 中文
 - [TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance](../../conferences/icml-2026/cards/2901-3000.md#liu26et-reinforcement-learning) · 中文
+- [Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies](../../conferences/icml-2026/cards/2901-3000.md#longhini26a-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -299,6 +305,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26fa-reinforcement-learning) · 中文
 - [Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26ff-reinforcement-learning) · 中文
 - [VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing](../../conferences/icml-2026/cards/2901-3000.md#liu26gm-reinforcement-learning) · 中文
+- [SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](../../conferences/icml-2026/cards/2901-3000.md#long26a-reinforcement-learning) · 中文
+- [PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](../../conferences/icml-2026/cards/3001-3100.md#lu26b-reinforcement-learning) · 中文
+- [VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning](../../conferences/icml-2026/cards/3001-3100.md#lu26i-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

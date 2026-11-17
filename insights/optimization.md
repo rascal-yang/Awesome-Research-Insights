@@ -307,6 +307,10 @@
 - [以平均分位的置信上界取代随机规划点估计](../conferences/icml-2026/cards/2801-2900.md#liu26al-optimization) · Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming
 - [把节点权重放进平稳混合分布](../conferences/icml-2026/cards/2801-2900.md#liu26bv-optimization) · Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning
 - [在近球空间更新并沿可行锚纠正](../conferences/icml-2026/cards/2801-2900.md#liu26cd-optimization) · Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set
+- [梯度更新跨步并行](../conferences/icml-2026/cards/3001-3100.md#lu26h-optimization) · PASO: Step Parallel Stochastic Optimization
+- [分支定界浅层增强](../conferences/icml-2026/cards/3001-3100.md#lu26v-optimization) · Dynamic Stratified Contrastive Learning with Upstream Augmentation for MILP Branching
+- [非负分解外部寻优](../conferences/icml-2026/cards/3001-3100.md#lu26x-optimization) · An Exterior Method for Nonnegative Matrix Factorization
+- [用历史曲率偏置修正联邦平坦度失配](../conferences/icml-2026/cards/3001-3100.md#lu26ap-optimization) · FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -328,6 +332,7 @@
 - [在每轮 PageRank 扩散后投影公平约束](../conferences/icml-2026/cards/2001-2100.md#kariotakis26a-optimization) · FairRARI: A Plug and Play Framework for Fairness-Aware PageRank
 - [经粗化邻域限制新增节点的结构学习](../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s
 - [动态图曝光下的反事实公平控制](../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs
+- [利用松弛正曲率逃逸分数最稠密子图驻点](../conferences/icml-2026/cards/3001-3100.md#lu26ad-optimization) · On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis
 
 <a id="by-scientific-ml"></a>
 
@@ -355,4 +360,6 @@
 - [用残差预测稀疏线性校正子空间](../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems
 - [用零点约束稳定符号回归的稀疏路径](../conferences/icml-2026/cards/2701-2800.md#liu26n-optimization) · Stabilizing Equation Learning via Zero-Point Constraints
 - [用几何扰动期望稳定代理驱动的形状优化](../conferences/icml-2026/cards/2801-2900.md#liu26cn-optimization) · UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics
+- [用细胞外多电极记录拟合刺激响应的生物物理参数](../conferences/icml-2026/cards/2901-3000.md#lotlikar26a-optimization) · Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation
+- [按树突结构调度 GPU 仿真并推导梯度](../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks
 <!-- classification:end -->

@@ -35,6 +35,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](../../conferences/icml-2026/cards/2801-2900.md#liu26cf-loss-functions) · 中文
 - [ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26dp-loss-functions) · 中文
 - [Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26dy-loss-functions) · 中文
+- [Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks](../../conferences/icml-2026/cards/3001-3100.md#lu26ac-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -58,6 +59,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Adversarial Flow Models](../../conferences/icml-2026/cards/2701-2800.md#lin26ao-loss-functions) · 中文
 - [Geometric Rate–Distortion Invariance for Domain Generalization](../../conferences/icml-2026/cards/2801-2900.md#liu26cc-loss-functions) · 中文
 - [Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](../../conferences/icml-2026/cards/2901-3000.md#liu26fh-loss-functions) · 中文
+- [One-step Latent-free Image Generation with Pixel Mean Flows](../../conferences/icml-2026/cards/3001-3100.md#lu26t-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -75,6 +77,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Boosting World Models Learning via Latent-Space Value Alignment](../../conferences/icml-2026/cards/1901-2000.md#jiang26ai-loss-functions) · 中文
 - [Reward Learning through Ranking Mean Squared Error](../../conferences/icml-2026/cards/2001-2100.md#kharyal26a-loss-functions) · 中文
 - [Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods](../../conferences/icml-2026/cards/2301-2400.md#lee26aj-loss-functions) · 中文
+- [Return-Critic: Bridging Goal Discrepancy for Efficient Visual Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26al-loss-functions) · 中文
+- [GIPO: Gaussian Importance Sampling Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#lu26at-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -110,6 +114,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment](../../conferences/icml-2026/cards/2601-2700.md#li26jy-loss-functions) · 中文
 - [GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](../../conferences/icml-2026/cards/2701-2800.md#liu26e-loss-functions) · 中文
 - [STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26ei-loss-functions) · 中文
+- [Calibrating Uncertainty for Zero-Shot Adversarial CLIP](../../conferences/icml-2026/cards/3001-3100.md#lu26af-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -137,6 +142,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Contrastive Order Learning: A General Framework for Ordinal Regression](../../conferences/icml-2026/cards/2301-2400.md#lee26bd-loss-functions) · 中文
 - [Trajectory Consistency for One-Step Generation on Euler Mean Flows](../../conferences/icml-2026/cards/2501-2600.md#li26fn-loss-functions) · 中文
 - [When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer](../../conferences/icml-2026/cards/2701-2800.md#liu26g-loss-functions) · 中文
+- [Divisiveness-Consistent Label Distribution Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26an-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

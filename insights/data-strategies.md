@@ -52,6 +52,8 @@
 - [把题内均匀抽样当作代码数据筛选对照](../conferences/icml-2026/cards/2801-2900.md#liu26bz-data-strategies) · Random Selection Reveals Implicit Knowledge Consensus in Code Generation
 - [可执行推理题族合成](../conferences/icml-2026/cards/2901-3000.md#liu26ew-data-strategies) · Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning
 - [Lean 缺失经验引理挖掘](../conferences/icml-2026/cards/2901-3000.md#liu26ez-data-strategies) · MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics
+- [从开放文本构造可核验强化学习题](../conferences/icml-2026/cards/3001-3100.md#lu26a-data-strategies) · Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text
+- [从可运行全栈仓库反推训练任务与测试](../conferences/icml-2026/cards/3001-3100.md#lu26ab-data-strategies) · FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation
 
 <a id="by-computer-vision"></a>
 
@@ -70,6 +72,7 @@
 - [乘积流形上的数据集蒸馏](../conferences/icml-2026/cards/2501-2600.md#li26ea-data-strategies) · GeoDM: Geometry-aware Distribution Matching for Dataset Distillation
 - [按最差分类间隔蒸馏数据](../conferences/icml-2026/cards/2501-2600.md#li26ec-data-strategies) · Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?
 - [用带符号熵轨迹识别错误图像标签](../conferences/icml-2026/cards/2601-2700.md#li26ju-data-strategies) · On Revisiting Entropy for Identifying Mislabeled Images
+- [单目数据立体反遮挡](../conferences/icml-2026/cards/3001-3100.md#lu26k-data-strategies) · Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation
 
 <a id="by-nlp"></a>
 

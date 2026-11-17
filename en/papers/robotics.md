@@ -78,6 +78,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="lian26c-reinforcement-learning"></a>[MapDream: Task-Driven Map Learning for Vision-Language Navigation](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26c)
 - <a id="lin26af-reinforcement-learning"></a>[DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26af)
 - <a id="liu26et-reinforcement-learning"></a>[TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26et)
+- <a id="longhini26a-reinforcement-learning"></a>[Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies](../../conferences/icml-2026/cards/2901-3000.md#paper-longhini26a)
 
 <a id="by-training-strategies"></a>
 
@@ -152,6 +153,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="lee26am-representation-learning"></a>[MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26am)
 - <a id="li26jf-representation-learning"></a>[From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jf)
 - <a id="lin26s-representation-learning"></a>[From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26s)
+- <a id="lou26a-representation-learning"></a>[Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26a)
 
 <a id="by-evaluation"></a>
 

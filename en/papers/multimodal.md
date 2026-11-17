@@ -36,6 +36,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26as-architecture"></a>[GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26as)
 - <a id="liu26ea-architecture"></a>[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ea)
 - <a id="liu26fc-architecture"></a>[CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fc)
+- <a id="lou26h-architecture"></a>[MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26h)
 
 <a id="by-modules"></a>
 
@@ -80,6 +81,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26jy-loss-functions"></a>[Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jy)
 - <a id="liu26e-loss-functions"></a>[GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26e)
 - <a id="liu26ei-loss-functions"></a>[STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ei)
+- <a id="lu26af-loss-functions"></a>[Calibrating Uncertainty for Zero-Shot Adversarial CLIP](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26af)
 
 <a id="by-optimization"></a>
 
@@ -133,6 +135,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26fa-reinforcement-learning"></a>[Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fa)
 - <a id="liu26ff-reinforcement-learning"></a>[Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ff)
 - <a id="liu26gm-reinforcement-learning"></a>[VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gm)
+- <a id="long26a-reinforcement-learning"></a>[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-long26a)
+- <a id="lu26b-reinforcement-learning"></a>[PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26b)
+- <a id="lu26i-reinforcement-learning"></a>[VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26i)
 
 <a id="by-training-strategies"></a>
 
@@ -267,6 +272,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26an-inference"></a>[The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26an)
 - <a id="liu26ar-inference"></a>[TGV-KV: Text-Grounded KV Eviction for Vision-Language Models](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ar)
 - <a id="liu26bc-inference"></a>[HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bc)
+- <a id="liu26gt-inference"></a>[Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gt)
+- <a id="lu26ae-inference"></a>[Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ae)
 
 <a id="by-representation-learning"></a>
 
@@ -299,6 +306,10 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26ex-representation-learning"></a>[Calibrated Multimodal Representation Learning with Missing Modalities](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ex)
 - <a id="liu26fw-representation-learning"></a>[UniRTL: Unifying Code and Graph for Robust RTL Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fw)
 - <a id="liu26gr-representation-learning"></a>[SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gr)
+- <a id="lou26e-representation-learning"></a>[SLQ: Bridging Modalities via Shared Latent Queries for Retrieval with Frozen MLLMs](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26e)
+- <a id="lou26j-representation-learning"></a>[Structure-aware Granular-Ball based Information Bottleneck for Multi-modal Clustering](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26j)
+- <a id="lu26r-representation-learning"></a>[AffIn-Space: Learning Affine-Invariant Representations for 3D Spatial Understanding with MLLMs](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26r)
+- <a id="lu26as-representation-learning"></a>[DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26as)
 
 <a id="by-evaluation"></a>
 
@@ -368,6 +379,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26dv-evaluation"></a>[Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dv)
 - <a id="liu26gk-evaluation"></a>[MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gk)
 - <a id="liu26go-evaluation"></a>[Rethinking Multimodal Time-Series Forecasting Evaluation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26go)
+- <a id="locatelli26a-evaluation"></a>[Textual Supervision Enhances Geospatial Representations in Vision-Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-locatelli26a)
+- <a id="lu26o-evaluation"></a>[PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26o)
 
 <a id="by-theory-statistics"></a>
 

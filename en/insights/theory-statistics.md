@@ -123,6 +123,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Direct Approach for Handling Contextual Bandits with Latent State Dynamics](../../conferences/icml-2026/cards/2501-2600.md#li26fk-theory-statistics) · 中文
 - [Data- and Variance-dependent Regret Bounds for Online Tabular MDPs](../../conferences/icml-2026/cards/2501-2600.md#li26ge-theory-statistics) · 中文
 - [Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](../../conferences/icml-2026/cards/2901-3000.md#liu26fb-theory-statistics) · 中文
+- [Learn to change the world: Multi-level reinforcement learning with model-changing actions](../../conferences/icml-2026/cards/3001-3100.md#lu26m-theory-statistics) · 中文
+- [World Models in Pieces: Structural Certification for General Agents](../../conferences/icml-2026/cards/3001-3100.md#lu26ao-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -431,6 +433,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · 中文
 - [Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy](../../conferences/icml-2026/cards/2801-2900.md#liu26dk-theory-statistics) · 中文
 - [Improving Backward Conformal Prediction via Non-Conformity Score Transformation](../../conferences/icml-2026/cards/2901-3000.md#liu26fu-theory-statistics) · 中文
+- [Conf-Gen: Conformal Uncertainty Quantification for Generative Models](../../conferences/icml-2026/cards/2901-3000.md#loaiza-ganem26a-theory-statistics) · 中文
+- [Semi-knockoffs: a model-agnostic conditional independence testing method with finite-sample guarantees](../../conferences/icml-2026/cards/2901-3000.md#lobo26a-theory-statistics) · 中文
+- [DataGuard: A Non-intrusive Dataset Auditing Framework via Differential Information Forensics](../../conferences/icml-2026/cards/2901-3000.md#lou26g-theory-statistics) · 中文
+- [Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets](../../conferences/icml-2026/cards/3001-3100.md#lu26p-theory-statistics) · 中文
+- [Generative Augmented Inference](../../conferences/icml-2026/cards/3001-3100.md#lu26am-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -480,4 +487,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning Treatment Representations for Downstream Instrumental Variable Regression](../../conferences/icml-2026/cards/2701-2800.md#lin26q-theory-statistics) · 中文
 - [High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders](../../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · 中文
 - [LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems](../../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · 中文
+- [Conditionally Site-Independent Neural Evolution of Antibody Sequences](../../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · 中文
 <!-- classification:end -->

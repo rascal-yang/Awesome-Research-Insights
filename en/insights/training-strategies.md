@@ -97,6 +97,8 @@ Training schedules, curricula, and task or stage composition.
 - [Midtraining Bridges Pretraining and Posttraining Distributions](../../conferences/icml-2026/cards/2801-2900.md#liu26cz-training-strategies) · 中文
 - [XPERT: Expert Knowledge Transfer for Effective Training of Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26dr-training-strategies) · 中文
 - [TodoEvolve: Learning to Architect Agent Planning Systems](../../conferences/icml-2026/cards/2901-3000.md#liu26fz-training-strategies) · 中文
+- [Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought](../../conferences/icml-2026/cards/3001-3100.md#lu26q-training-strategies) · 中文
+- [Context Tuning for In-Context Optimization](../../conferences/icml-2026/cards/3001-3100.md#lu26ag-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -144,6 +146,7 @@ Training schedules, curricula, and task or stage composition.
 - [Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement](../../conferences/icml-2026/cards/2801-2900.md#liu26au-training-strategies) · 中文
 - [CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors](../../conferences/icml-2026/cards/2801-2900.md#liu26bj-training-strategies) · 中文
 - [Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26fj-training-strategies) · 中文
+- [Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs](../../conferences/icml-2026/cards/3001-3100.md#lu26ai-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -271,6 +274,7 @@ Training schedules, curricula, and task or stage composition.
 - [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](../../conferences/icml-2026/cards/2501-2600.md#li26ep-training-strategies) · 中文
 - [SURF: Separation via Unsupervised Remixing Flow](../../conferences/icml-2026/cards/2501-2600.md#li26fa-training-strategies) · 中文
 - [Consistency Deep Equilibrium Models](../../conferences/icml-2026/cards/2701-2800.md#lin26w-training-strategies) · 中文
+- [FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26aa-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

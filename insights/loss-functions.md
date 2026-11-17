@@ -35,6 +35,7 @@
 - [惩罚微调中升高的有害注意力汇点差异](../conferences/icml-2026/cards/2801-2900.md#liu26cf-loss-functions) · Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink
 - [对同一正确推理内的冗余段做掩码偏好](../conferences/icml-2026/cards/2801-2900.md#liu26dp-loss-functions) · ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning
 - [中续训练用分散损失解除小模型嵌入锥化](../conferences/icml-2026/cards/2901-3000.md#liu26dy-loss-functions) · Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models
+- [在反嵌入前锚定有害查询表征](../conferences/icml-2026/cards/3001-3100.md#lu26ac-loss-functions) · Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks
 
 <a id="by-computer-vision"></a>
 
@@ -58,6 +59,7 @@
 - [用运输代价固定对抗生成的映射](../conferences/icml-2026/cards/2701-2800.md#lin26ao-loss-functions) · Adversarial Flow Models
 - [分别约束类条件子空间方向和谱容量](../conferences/icml-2026/cards/2801-2900.md#liu26cc-loss-functions) · Geometric Rate–Distortion Invariance for Domain Generalization
 - [带噪潜空间偏好建模](../conferences/icml-2026/cards/2901-3000.md#liu26fh-loss-functions) · Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling
+- [单步像素平均流参数化](../conferences/icml-2026/cards/3001-3100.md#lu26t-loss-functions) · One-step Latent-free Image Generation with Pixel Mean Flows
 
 <a id="by-nlp"></a>
 
@@ -75,6 +77,8 @@
 - [对齐潜状态与任务价值而保留预测损失](../conferences/icml-2026/cards/1901-2000.md#jiang26ai-loss-functions) · Boosting World Models Learning via Latent-Space Value Alignment
 - [按轨迹回报软排序学习序数评级](../conferences/icml-2026/cards/2001-2100.md#kharyal26a-loss-functions) · Reward Learning through Ranking Mean Squared Error
 - [约束 critic 的动作梯度来平滑策略](../conferences/icml-2026/cards/2301-2400.md#lee26aj-loss-functions) · Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods
+- [在视觉强化学习中从部分帧预测回合回报](../conferences/icml-2026/cards/3001-3100.md#lu26al-loss-functions) · Return-Critic: Bridging Goal Discrepancy for Efficient Visual Reinforcement Learning
+- [用对数重要性比的高斯权重复用旧轨迹](../conferences/icml-2026/cards/3001-3100.md#lu26at-loss-functions) · GIPO: Gaussian Importance Sampling Policy Optimization
 
 <a id="by-robotics"></a>
 
@@ -110,6 +114,7 @@
 - [未量化潜变量对语音解码器的自指导](../conferences/icml-2026/cards/2601-2700.md#li26jy-loss-functions) · Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment
 - [对可能翻转偏好的市场条件单独监督敏感性](../conferences/icml-2026/cards/2701-2800.md#liu26e-loss-functions) · GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction
 - [用梯度式通道正则压缩连续音频](../conferences/icml-2026/cards/2901-3000.md#liu26ei-loss-functions) · STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation
+- [在对抗训练中对齐类别分布和证据总量](../conferences/icml-2026/cards/3001-3100.md#lu26af-loss-functions) · Calibrating Uncertainty for Zero-Shot Adversarial CLIP
 
 <a id="by-ml-foundations"></a>
 
@@ -137,6 +142,7 @@
 - [连续秩差的对比学习](../conferences/icml-2026/cards/2301-2400.md#lee26bd-loss-functions) · Contrastive Order Learning: A General Framework for Ordinal Regression
 - [用半群导出的线性代理监督流映射](../conferences/icml-2026/cards/2501-2600.md#li26fn-loss-functions) · Trajectory Consistency for One-Step Generation on Euler Mean Flows
 - [用逐样本正确性约束候选专家的训练竞争](../conferences/icml-2026/cards/2701-2800.md#liu26g-loss-functions) · When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer
+- [以成对监督保存语义相反标签的分歧度](../conferences/icml-2026/cards/3001-3100.md#lu26an-loss-functions) · Divisiveness-Consistent Label Distribution Learning
 
 <a id="by-graph-and-recommendation"></a>
 

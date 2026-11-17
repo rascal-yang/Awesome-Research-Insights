@@ -62,6 +62,7 @@
 - [沿竞争类别方向校准尾类特征分布](../conferences/icml-2026/cards/2701-2800.md#liu26t-representation-learning) · Risk-Bounded Distribution Reconstruction: Stable Statistic Calibration for Long-Tailed Recognition
 - [三维图元扩散](../conferences/icml-2026/cards/2901-3000.md#liu26eo-representation-learning) · Rethinking 3D Shape Generation: Diffusion over Superquadrics
 - [沿分辨率相关方向校正低清行人嵌入](../conferences/icml-2026/cards/2901-3000.md#liu26fr-representation-learning) · Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification
+- [沿共享扩散轨迹对齐相机与雷达步态](../conferences/icml-2026/cards/3001-3100.md#lu26c-representation-learning) · DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion
 
 <a id="by-nlp"></a>
 
@@ -98,6 +99,7 @@
 - [让一台相机编码的动作能预测另一台相机的未来](../conferences/icml-2026/cards/2301-2400.md#lee26am-representation-learning) · MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction
 - [从想象视频中反解多个模态的潜在动作](../conferences/icml-2026/cards/2601-2700.md#li26jf-representation-learning) · From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation
 - [按操作任务区分图像与动作潜变量监督](../conferences/icml-2026/cards/2701-2800.md#lin26s-representation-learning) · From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models
+- [预测未来语义掩码让世界模型只保留控制相关结构](../conferences/icml-2026/cards/2901-3000.md#lou26a-representation-learning) · Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask
 
 <a id="by-multimodal"></a>
 
@@ -130,6 +132,10 @@
 - [缺失模态锚点校准](../conferences/icml-2026/cards/2901-3000.md#liu26ex-representation-learning) · Calibrated Multimodal Representation Learning with Missing Modalities
 - [用相互遮掩对齐电路代码与控制数据流图](../conferences/icml-2026/cards/2901-3000.md#liu26fw-representation-learning) · UniRTL: Unifying Code and Graph for Robust RTL Representation Learning
 - [用双曲骨架与语言表示配合多粒度缓存投票](../conferences/icml-2026/cards/2901-3000.md#liu26gr-representation-learning) · SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition
+- [冻结多模态骨干的共享检索查询](../conferences/icml-2026/cards/2901-3000.md#lou26e-representation-learning) · SLQ: Bridging Modalities via Shared Latent Queries for Retrieval with Frozen MLLMs
+- [多模态聚类的自适应粒球瓶颈](../conferences/icml-2026/cards/2901-3000.md#lou26j-representation-learning) · Structure-aware Granular-Ball based Information Bottleneck for Multi-modal Clustering
+- [空间理解仿射不变性](../conferences/icml-2026/cards/3001-3100.md#lu26r-representation-learning) · AffIn-Space: Learning Affine-Invariant Representations for 3D Spatial Understanding with MLLMs
+- [在生成与理解之间单独交换共享表征](../conferences/icml-2026/cards/3001-3100.md#lu26as-representation-learning) · DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement
 
 <a id="by-ml-foundations"></a>
 
@@ -247,4 +253,5 @@
 - [按功能脑区、通道与时间自监督脑电](../conferences/icml-2026/cards/2901-3000.md#liu26dt-representation-learning) · RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning
 - [医学图像模态信息分解](../conferences/icml-2026/cards/2901-3000.md#liu26fg-representation-learning) · M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model
 - [从映射后网表向综合前电路图蒸馏](../conferences/icml-2026/cards/2901-3000.md#liu26gc-representation-learning) · Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning
+- [用反向个体对比与脑图重建学习共享表征](../conferences/icml-2026/cards/3001-3100.md#lu26ak-representation-learning) · SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification
 <!-- classification:end -->

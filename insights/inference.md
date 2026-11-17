@@ -212,6 +212,9 @@
 - [将检索查询翻译成受图约束的双向证据线索](../conferences/icml-2026/cards/2901-3000.md#liu26fy-inference) · From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation
 - [用临时安全适配器复用推理上下文缓存](../conferences/icml-2026/cards/2901-3000.md#liu26ga-inference) · RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse
 - [通过 MCP 让通用编码代理迭代验证形式数学](../conferences/icml-2026/cards/2901-3000.md#liu26gp-inference) · Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics
+- [共享 GPU 的一对多权重预热](../conferences/icml-2026/cards/2901-3000.md#lou26f-inference) · WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving
+- [推理链内模式切换](../conferences/icml-2026/cards/3001-3100.md#lu26e-inference) · MixReasoning: Switching Modes to Think
+- [助手人格轴稳定化](../conferences/icml-2026/cards/3001-3100.md#lu26g-inference) · The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -290,6 +293,7 @@
 - [按去噪时间补偿低精度扩散的累积误差](../conferences/icml-2026/cards/2901-3000.md#liu26fv-inference) · Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models
 - [测试时用单样本结构与可靠子空间替代单一熵选择](../conferences/icml-2026/cards/2901-3000.md#liu26gh-inference) · SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation
 - [在边云切分时查找由特征到决策的表示转折](../conferences/icml-2026/cards/2901-3000.md#liu26gq-inference) · Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference
+- [语义编辑的尺度窗积分](../conferences/icml-2026/cards/3001-3100.md#lu26j-inference) · Semantic Granularity Navigation in Image Editing
 
 <a id="by-nlp"></a>
 
@@ -319,6 +323,7 @@
 - [为离线控制检索可达高回报子目标](../conferences/icml-2026/cards/1301-1400.md#guo26r-inference) · RAD: Retrieval High-quality Demonstrations to Enhance Decision-making
 - [用先验扩树后从叶向根统一重估](../conferences/icml-2026/cards/1601-1700.md#howard26a-inference) · Recursive Monte-Carlo Tree Search
 - [解码下一帧时联合分配复制或生成](../conferences/icml-2026/cards/2101-2200.md#kim26bq-inference) · Identifiable Token Correspondence for World Models
+- [扩散规划前缀可行性能量](../conferences/icml-2026/cards/3001-3100.md#lu26l-inference) · Improving Diffusion Planners by Self-Supervised Action Gating with Energies
 
 <a id="by-robotics"></a>
 
@@ -419,6 +424,8 @@
 - [把高分辨率裁剪当作顺序证据采集](../conferences/icml-2026/cards/2801-2900.md#liu26an-inference) · The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design
 - [用文本相关性分层分配并保留视觉 KV](../conferences/icml-2026/cards/2801-2900.md#liu26ar-inference) · TGV-KV: Text-Grounded KV Eviction for Vision-Language Models
 - [高分辨率问答的语义去噪与布局保留](../conferences/icml-2026/cards/2801-2900.md#liu26bc-inference) · HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling
+- [按邻域均匀保留视觉 token 并沿用原位置](../conferences/icml-2026/cards/2901-3000.md#liu26gt-inference) · Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation
+- [分别调节视觉注意力选择与内容的频谱](../conferences/icml-2026/cards/3001-3100.md#lu26ae-inference) · Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery
 
 <a id="by-ml-foundations"></a>
 
@@ -452,6 +459,7 @@
 - [表格 ICL 的后验先验校正](../conferences/icml-2026/cards/2301-2400.md#lee26aw-inference) · Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment
 - [让轻量变体与显存布局共同参与实时调度](../conferences/icml-2026/cards/2501-2600.md#li26fq-inference) · RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs
 - [用 Stein 散度校正大步长扩散轨迹](../conferences/icml-2026/cards/2601-2700.md#li26ix-inference) · Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization
+- [以投影检验和反馈缓冲减少图索引的距离调用](../conferences/icml-2026/cards/3001-3100.md#lu26y-inference) · Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -465,6 +473,7 @@
 - [冻结图网络的后验不确定性证据](../conferences/icml-2026/cards/1301-1400.md#guo26ac-inference) · X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks
 - [用目标图的有标注和无标注节点适配提示](../conferences/icml-2026/cards/1901-2000.md#jiang26al-inference) · GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning
 - [逐步预算下的动态交互求解](../conferences/icml-2026/cards/2501-2600.md#li26gz-inference) · LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers
+- [图扩散信息几何步进](../conferences/icml-2026/cards/3001-3100.md#lu26s-inference) · Information-Geometric Adaptive Sampling for Graph Diffusion
 
 <a id="by-scientific-ml"></a>
 

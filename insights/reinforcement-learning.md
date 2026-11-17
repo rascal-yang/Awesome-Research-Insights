@@ -120,6 +120,9 @@
 - [按连续全对筛掉低信号工具调用并只回传高差异样本](../conferences/icml-2026/cards/2801-2900.md#liu26de-reinforcement-learning) · On Effectiveness and Efficiency of Agentic Tool-calling and RL Training
 - [从失败轨迹生成反思补丁并蒸馏改进轨迹](../conferences/icml-2026/cards/2901-3000.md#liu26ds-reinforcement-learning) · SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning
 - [Triton 内核瓶颈奖励](../conferences/icml-2026/cards/2901-3000.md#liu26fd-reinforcement-learning) · Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations
+- [推理关键动作经验复用](../conferences/icml-2026/cards/3001-3100.md#lu26n-reinforcement-learning) · Experience Augmented Policy Optimization for LLM Reasoning
+- [以待遗忘来源的归因分数作为更新反馈](../conferences/icml-2026/cards/3001-3100.md#lu26z-reinforcement-learning) · De-attribute to Forget for LLM Unlearning
+- [用训练动态估计 rollout 复用价值](../conferences/icml-2026/cards/3001-3100.md#lu26aj-reinforcement-learning) · Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards
 
 <a id="by-computer-vision"></a>
 
@@ -239,6 +242,8 @@
 - [把群体偏好里的共通安全约束蒸馏成技能](../conferences/icml-2026/cards/2701-2800.md#lin26d-reinforcement-learning) · Implicit Safety Alignment from Crowd Preferences
 - [用动力学预测下尾稳住离线价值学习](../conferences/icml-2026/cards/2701-2800.md#lin26am-reinforcement-learning) · Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+- [以轨迹接受标签学习逐步安全代价](../conferences/icml-2026/cards/2901-3000.md#low26a-reinforcement-learning) · TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels
+- [在连贯技能空间用近邻传播稀疏人类反馈](../conferences/icml-2026/cards/3001-3100.md#luan26a-reinforcement-learning) · COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space
 
 <a id="by-robotics"></a>
 
@@ -256,6 +261,7 @@
 - [面向导航目标的鸟瞰地图学习](../conferences/icml-2026/cards/2601-2700.md#lian26c-reinforcement-learning) · MapDream: Task-Driven Map Learning for Vision-Language Navigation
 - [多任务机器人策略的残差专家路由](../conferences/icml-2026/cards/2701-2800.md#lin26af-reinforcement-learning) · DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization
 - [被动视频稠密奖励](../conferences/icml-2026/cards/2901-3000.md#liu26et-reinforcement-learning) · TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance
+- [用无监督行为模式互信息保留生成策略多样性](../conferences/icml-2026/cards/2901-3000.md#longhini26a-reinforcement-learning) · Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies
 
 <a id="by-multimodal"></a>
 
@@ -299,6 +305,9 @@
 - [工具验证的视觉推理自演化](../conferences/icml-2026/cards/2901-3000.md#liu26fa-reinforcement-learning) · Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning
 - [跨层自监督幻觉抑制](../conferences/icml-2026/cards/2901-3000.md#liu26ff-reinforcement-learning) · Anchor-Final Self-Supervision Drives Hallucination-Aware Optimization in Large Vision-Language Models
 - [用组间比较奖励区分整体质量不同的 Vlog 编辑](../conferences/icml-2026/cards/2901-3000.md#liu26gm-reinforcement-learning) · VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing
+- [先定位编辑区域再给在线图像编辑打奖励](../conferences/icml-2026/cards/2901-3000.md#long26a-reinforcement-learning) · SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning
+- [时序模式对齐与推理奖励均衡](../conferences/icml-2026/cards/3001-3100.md#lu26b-reinforcement-learning) · PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering
+- [多任务图像质量连续奖励](../conferences/icml-2026/cards/3001-3100.md#lu26i-reinforcement-learning) · VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning
 
 <a id="by-ml-foundations"></a>
 

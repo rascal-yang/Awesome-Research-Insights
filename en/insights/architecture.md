@@ -48,6 +48,8 @@ Model-wide design and information flow.
 - [Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space](../../conferences/icml-2026/cards/2801-2900.md#liu26cx-architecture) · 中文
 - [SimpleMem: Efficient Lifelong Memory for LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26dx-architecture) · 中文
 - [SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass](../../conferences/icml-2026/cards/2901-3000.md#liu26ek-architecture) · 中文
+- [HyperMLP: An Integrated Perspective for Sequence Modeling](../../conferences/icml-2026/cards/3001-3100.md#lu26aq-architecture) · 中文
+- [Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts](../../conferences/icml-2026/cards/3001-3100.md#lu26au-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -96,6 +98,9 @@ Model-wide design and information flow.
 - [WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](../../conferences/icml-2026/cards/2801-2900.md#liu26cw-architecture) · 中文
 - [Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane](../../conferences/icml-2026/cards/2801-2900.md#liu26dj-architecture) · 中文
 - [Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling](../../conferences/icml-2026/cards/2901-3000.md#liu26eb-architecture) · 中文
+- [FastSESR: Fast Scene-level Explicit Surface Reconstruction](../../conferences/icml-2026/cards/2901-3000.md#liu26gs-architecture) · 中文
+- [Learning Stochastic Bridges for Video Object Removal via Video-to-Video Translation](../../conferences/icml-2026/cards/2901-3000.md#lou26b-architecture) · 中文
+- [Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts](../../conferences/icml-2026/cards/2901-3000.md#lou26c-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -168,6 +173,7 @@ Model-wide design and information flow.
 - [GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26as-architecture) · 中文
 - [JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · 中文
 - [CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · 中文
+- [MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts](../../conferences/icml-2026/cards/2901-3000.md#lou26h-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -212,6 +218,7 @@ Model-wide design and information flow.
 - [LIF Recurrent Memory Enables Long-Horizon Spiking Computation](../../conferences/icml-2026/cards/2801-2900.md#liu26do-architecture) · 中文
 - [TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](../../conferences/icml-2026/cards/2901-3000.md#liu26fm-architecture) · 中文
 - [Balancing Understanding and Generation in Discrete Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gi-architecture) · 中文
+- [ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters](../../conferences/icml-2026/cards/3001-3100.md#lu26w-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -310,4 +317,7 @@ Model-wide design and information flow.
 - [FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots](../../conferences/icml-2026/cards/2901-3000.md#liu26fl-architecture) · 中文
 - [ChaosNexus: A Foundation Model for ODE-based Chaotic System Forecasting with Hierarchical Multi-scale Awareness](../../conferences/icml-2026/cards/2901-3000.md#liu26gg-architecture) · 中文
 - [Adaptive DNA Sequence Modeling via Synergistic Plasticity Units](../../conferences/icml-2026/cards/2901-3000.md#liu26gj-architecture) · 中文
+- [Cello: A Universal Cell-wise Feature Aggregation framework for Reliable Pathology Images Analysis](../../conferences/icml-2026/cards/2901-3000.md#lou26d-architecture) · 中文
+- [Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion](../../conferences/icml-2026/cards/3001-3100.md#lu26d-architecture) · 中文
+- [Interpretable Functional Koopman Learning with Non-Markovian Closure for Spatiotemporal Systems](../../conferences/icml-2026/cards/3001-3100.md#lu26u-architecture) · 中文
 <!-- classification:end -->

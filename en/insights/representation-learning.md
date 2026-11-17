@@ -62,6 +62,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Risk-Bounded Distribution Reconstruction: Stable Statistic Calibration for Long-Tailed Recognition](../../conferences/icml-2026/cards/2701-2800.md#liu26t-representation-learning) · 中文
 - [Rethinking 3D Shape Generation: Diffusion over Superquadrics](../../conferences/icml-2026/cards/2901-3000.md#liu26eo-representation-learning) · 中文
 - [Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification](../../conferences/icml-2026/cards/2901-3000.md#liu26fr-representation-learning) · 中文
+- [DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion](../../conferences/icml-2026/cards/3001-3100.md#lu26c-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -98,6 +99,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](../../conferences/icml-2026/cards/2301-2400.md#lee26am-representation-learning) · 中文
 - [From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation](../../conferences/icml-2026/cards/2601-2700.md#li26jf-representation-learning) · 中文
 - [From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models](../../conferences/icml-2026/cards/2701-2800.md#lin26s-representation-learning) · 中文
+- [Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask](../../conferences/icml-2026/cards/2901-3000.md#lou26a-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -130,6 +132,10 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Calibrated Multimodal Representation Learning with Missing Modalities](../../conferences/icml-2026/cards/2901-3000.md#liu26ex-representation-learning) · 中文
 - [UniRTL: Unifying Code and Graph for Robust RTL Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26fw-representation-learning) · 中文
 - [SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition](../../conferences/icml-2026/cards/2901-3000.md#liu26gr-representation-learning) · 中文
+- [SLQ: Bridging Modalities via Shared Latent Queries for Retrieval with Frozen MLLMs](../../conferences/icml-2026/cards/2901-3000.md#lou26e-representation-learning) · 中文
+- [Structure-aware Granular-Ball based Information Bottleneck for Multi-modal Clustering](../../conferences/icml-2026/cards/2901-3000.md#lou26j-representation-learning) · 中文
+- [AffIn-Space: Learning Affine-Invariant Representations for 3D Spatial Understanding with MLLMs](../../conferences/icml-2026/cards/3001-3100.md#lu26r-representation-learning) · 中文
+- [DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](../../conferences/icml-2026/cards/3001-3100.md#lu26as-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -247,4 +253,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26dt-representation-learning) · 中文
 - [M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model](../../conferences/icml-2026/cards/2901-3000.md#liu26fg-representation-learning) · 中文
 - [Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26gc-representation-learning) · 中文
+- [SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification](../../conferences/icml-2026/cards/3001-3100.md#lu26ak-representation-learning) · 中文
 <!-- classification:end -->

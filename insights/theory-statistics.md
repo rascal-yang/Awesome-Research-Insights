@@ -123,6 +123,8 @@
 - [为隐状态回报模型成块更新参数](../conferences/icml-2026/cards/2501-2600.md#li26fk-theory-statistics) · A Direct Approach for Handling Contextual Bandits with Latent State Dynamics
 - [让同一在线 MDP 遗憾界适应损失路径或方差](../conferences/icml-2026/cards/2501-2600.md#li26ge-theory-statistics) · Data- and Variance-dependent Regret Bounds for Online Tabular MDPs
 - [Q 值截断的鲁棒算子](../conferences/icml-2026/cards/2901-3000.md#liu26fb-theory-statistics) · Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator
+- [可重配置环境双层控制](../conferences/icml-2026/cards/3001-3100.md#lu26m-theory-statistics) · Learn to change the world: Multi-level reinforcement learning with model-changing actions
+- [用深组合目标认证智能体的局部转移模型](../conferences/icml-2026/cards/3001-3100.md#lu26ao-theory-statistics) · World Models in Pieces: Structural Certification for General Agents
 
 <a id="by-robotics"></a>
 
@@ -431,6 +433,11 @@
 - [从处理的局部边界找因果调整变量](../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions
 - [用灵敏度等距的混合高斯减少标量 DP 噪声](../conferences/icml-2026/cards/2801-2900.md#liu26dk-theory-statistics) · Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy
 - [在固定预测集大小时变换不一致性分数](../conferences/icml-2026/cards/2901-3000.md#liu26fu-theory-statistics) · Improving Backward Conformal Prediction via Non-Conformity Score Transformation
+- [给生成轨迹的停止与选择规则做保形风险校准](../conferences/icml-2026/cards/2901-3000.md#loaiza-ganem26a-theory-statistics) · Conf-Gen: Conformal Uncertainty Quantification for Generative Models
+- [用两种条件期望插补构造无拆分的条件独立检验](../conferences/icml-2026/cards/2901-3000.md#lobo26a-theory-statistics) · Semi-knockoffs: a model-agnostic conditional independence testing method with finite-sample guarantees
+- [以非训练样本匹配模型审计对照](../conferences/icml-2026/cards/2901-3000.md#lou26g-theory-statistics) · DataGuard: A Non-intrusive Dataset Auditing Framework via Differential Information Forensics
+- [在线非单调次模上线性化](../conferences/icml-2026/cards/3001-3100.md#lu26p-theory-statistics) · Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets
+- [将生成注释作为统计协变量并校正人工残差](../conferences/icml-2026/cards/3001-3100.md#lu26am-theory-statistics) · Generative Augmented Inference
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -480,4 +487,5 @@
 - [用工具变量指导高维处理的表征压缩](../conferences/icml-2026/cards/2701-2800.md#lin26q-theory-statistics) · Learning Treatment Representations for Downstream Instrumental Variable Regression
 - [用最坏潜混杂强度给基因发现做敏感性分析](../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders
 - [从 SDE 增量学漂移扩散再找李生成元](../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems
+- [用序列条件突变率近似抗体逐步演化](../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · Conditionally Site-Independent Neural Evolution of Antibody Sequences
 <!-- classification:end -->

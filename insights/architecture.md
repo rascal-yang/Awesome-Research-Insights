@@ -48,6 +48,8 @@
 - [残差流分叉的并行潜空间计算](../conferences/icml-2026/cards/2801-2900.md#liu26cx-architecture) · Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space
 - [用多视图索引压缩交互记忆并按意图检索](../conferences/icml-2026/cards/2901-3000.md#liu26dx-architecture) · SimpleMem: Efficient Lifelong Memory for LLM Agents
 - [用超网络将上下文映射为 LoRA](../conferences/icml-2026/cards/2901-3000.md#liu26ek-architecture) · SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass
+- [把上下文键值视为逐步实例化的两层网络](../conferences/icml-2026/cards/3001-3100.md#lu26aq-architecture) · HyperMLP: An Integrated Perspective for Sequence Modeling
+- [以自激活秩一键值原子积累持续学习记忆](../conferences/icml-2026/cards/3001-3100.md#lu26au-architecture) · Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts
 
 <a id="by-computer-vision"></a>
 
@@ -96,6 +98,9 @@
 - [任意几何先验的前馈三维重建](../conferences/icml-2026/cards/2801-2900.md#liu26cw-architecture) · WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting
 - [将二维旋转位置编码扩展到均匀斜向投影](../conferences/icml-2026/cards/2801-2900.md#liu26dj-architecture) · Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane
 - [把单调性硬编码到盲逆问题的前向算子](../conferences/icml-2026/cards/2901-3000.md#liu26eb-architecture) · Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling
+- [用边分解三角候选和固定步偏移替代测试时优化](../conferences/icml-2026/cards/2901-3000.md#liu26gs-architecture) · FastSESR: Fast Scene-level Explicit Surface Reconstruction
+- [从原视频到去物视频直接学习随机桥](../conferences/icml-2026/cards/2901-3000.md#lou26b-architecture) · Learning Stochastic Bridges for Video Object Removal via Video-to-Video Translation
+- [用两级路由将长序列任务接入不同专家](../conferences/icml-2026/cards/2901-3000.md#lou26c-architecture) · Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts
 
 <a id="by-nlp"></a>
 
@@ -168,6 +173,7 @@
 - [让模型在二维线索不足时主动调用几何通道](../conferences/icml-2026/cards/2801-2900.md#liu26as-architecture) · GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning
 - [联合 RGB-D 和神经声强向量定位三维声源](../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments
 - [移动界面阶段专家](../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning
+- [语音和文本的分组加共享专家路由](../conferences/icml-2026/cards/2901-3000.md#lou26h-architecture) · MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts
 
 <a id="by-ml-foundations"></a>
 
@@ -212,6 +218,7 @@
 - [用少量普通 LIF 反馈回路提供长期记忆](../conferences/icml-2026/cards/2801-2900.md#liu26do-architecture) · LIF Recurrent Memory Enables Long-Horizon Spiking Computation
 - [用行注意力与全局寄存器支持表格逐样本退出](../conferences/icml-2026/cards/2901-3000.md#liu26fm-architecture) · TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention
 - [用可调平稳噪声核统一掩码与均匀扩散](../conferences/icml-2026/cards/2901-3000.md#liu26gi-architecture) · Balancing Understanding and Generation in Discrete Diffusion Models
+- [逐段扩展直接时序预测](../conferences/icml-2026/cards/3001-3100.md#lu26w-architecture) · ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -310,4 +317,7 @@
 - [由所有非配对点云快照共同初始化连续轨迹](../conferences/icml-2026/cards/2901-3000.md#liu26fl-architecture) · FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots
 - [用多尺度切片和频谱指纹预测陌生混沌系统](../conferences/icml-2026/cards/2901-3000.md#liu26gg-architecture) · ChaosNexus: A Foundation Model for ODE-based Chaotic System Forecasting with Hierarchical Multi-scale Awareness
 - [将序列局部模体、频域模式与显著度分开适配](../conferences/icml-2026/cards/2901-3000.md#liu26gj-architecture) · Adaptive DNA Sequence Modeling via Synergistic Plasticity Units
+- [细胞分子监督与病理多尺度证据](../conferences/icml-2026/cards/2901-3000.md#lou26d-architecture) · Cello: A Universal Cell-wise Feature Aggregation framework for Reliable Pathology Images Analysis
+- [用目标掩码切换脑图文编解码任务](../conferences/icml-2026/cards/3001-3100.md#lu26d-architecture) · Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion
+- [函数 Koopman 记忆闭合](../conferences/icml-2026/cards/3001-3100.md#lu26u-architecture) · Interpretable Functional Koopman Learning with Non-Markovian Closure for Spatiotemporal Systems
 <!-- classification:end -->

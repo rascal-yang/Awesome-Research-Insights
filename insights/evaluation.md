@@ -274,6 +274,7 @@
 - [用可实现的物体组合排查 LiDAR 漏检](../conferences/icml-2026/cards/2601-2700.md#li26he-evaluation) · OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects
 - [用频率对照检验扩散模型的成员泄漏](../conferences/icml-2026/cards/2601-2700.md#lian26a-evaluation) · Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective
 - [诊断潜空间曲率与可见细节失配](../conferences/icml-2026/cards/2601-2700.md#liang26d-evaluation) · Geometric Decoupling: Diagnosing the Structural Instability of Latent
+- [扩散数据贡献者归因](../conferences/icml-2026/cards/3001-3100.md#lu26f-evaluation) · SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models
 
 <a id="by-nlp"></a>
 
@@ -394,6 +395,8 @@
 - [用统一和拆开两种轨道诊断图文理解与生成协同](../conferences/icml-2026/cards/2901-3000.md#liu26dv-evaluation) · Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation
 - [用分布约束和程序校验持续更新视觉评测](../conferences/icml-2026/cards/2901-3000.md#liu26gk-evaluation) · MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models
 - [用事发时间与知识截止点检查时序预测泄露](../conferences/icml-2026/cards/2901-3000.md#liu26go-evaluation) · Rethinking Multimodal Time-Series Forecasting Evaluation
+- [按图像可定位程度比较语言监督与纯视觉地理表征](../conferences/icml-2026/cards/2901-3000.md#locatelli26a-evaluation) · Textual Supervision Enhances Geospatial Representations in Vision-Language Models
+- [移动音视流回答时机](../conferences/icml-2026/cards/3001-3100.md#lu26o-evaluation) · PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios
 
 <a id="by-ml-foundations"></a>
 
@@ -440,6 +443,7 @@
 - [条件时序生成的多维评测](../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation
 - [分别控制训练样本和任务重叠以测表征相似性](../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · Causes and Consequences of Representational Similarity in Machine Learning Models
 - [共同检验共形预测集大小与下游群体结果](../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · Beyond Procedure: Substantive Fairness in Conformal Prediction
+- [把 AI 缺陷报告转成可分发的结构化记录](../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · FLARE-AI: Flaw Reporting for AI
 
 <a id="by-graph-and-recommendation"></a>
 

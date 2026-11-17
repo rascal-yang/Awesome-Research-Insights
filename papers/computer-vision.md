@@ -56,6 +56,9 @@
 - <a id="liu26cw-architecture"></a>[WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cw)
 - <a id="liu26dj-architecture"></a>[Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dj)
 - <a id="liu26eb-architecture"></a>[Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eb)
+- <a id="liu26gs-architecture"></a>[FastSESR: Fast Scene-level Explicit Surface Reconstruction](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gs)
+- <a id="lou26b-architecture"></a>[Learning Stochastic Bridges for Video Object Removal via Video-to-Video Translation](../conferences/icml-2026/cards/2901-3000.md#paper-lou26b)
+- <a id="lou26c-architecture"></a>[Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts](../conferences/icml-2026/cards/2901-3000.md#paper-lou26c)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -91,6 +94,7 @@
 - <a id="lin26y-modules"></a>[X-MoGe: A Cross-Modal Adaptation Framework with Mixture-of-Experts and Geometry Guidance for Heterogeneous Collaborative Perception](../conferences/icml-2026/cards/2701-2800.md#paper-lin26y)
 - <a id="liu26v-modules"></a>[GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](../conferences/icml-2026/cards/2801-2900.md#paper-liu26v)
 - <a id="liu26gn-modules"></a>[Radial Scaling Voxelization for Accurate Small Object 3D Detection](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gn)
+- <a id="lou26i-modules"></a>[Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing](../conferences/icml-2026/cards/2901-3000.md#paper-lou26i)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -115,6 +119,7 @@
 - <a id="lin26ao-loss-functions"></a>[Adversarial Flow Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ao)
 - <a id="liu26cc-loss-functions"></a>[Geometric Rate–Distortion Invariance for Domain Generalization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cc)
 - <a id="liu26fh-loss-functions"></a>[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fh)
+- <a id="lu26t-loss-functions"></a>[One-step Latent-free Image Generation with Pixel Mean Flows](../conferences/icml-2026/cards/3001-3100.md#paper-lu26t)
 
 <a id="by-optimization"></a>
 
@@ -203,6 +208,7 @@
 - <a id="liu26au-training-strategies"></a>[Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement](../conferences/icml-2026/cards/2801-2900.md#paper-liu26au)
 - <a id="liu26bj-training-strategies"></a>[CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bj)
 - <a id="liu26fj-training-strategies"></a>[Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fj)
+- <a id="lu26ai-training-strategies"></a>[Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ai)
 
 <a id="by-data-strategies"></a>
 
@@ -221,6 +227,7 @@
 - <a id="li26ea-data-strategies"></a>[GeoDM: Geometry-aware Distribution Matching for Dataset Distillation](../conferences/icml-2026/cards/2501-2600.md#paper-li26ea)
 - <a id="li26ec-data-strategies"></a>[Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](../conferences/icml-2026/cards/2501-2600.md#paper-li26ec)
 - <a id="li26ju-data-strategies"></a>[On Revisiting Entropy for Identifying Mislabeled Images](../conferences/icml-2026/cards/2601-2700.md#paper-li26ju)
+- <a id="lu26k-data-strategies"></a>[Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation](../conferences/icml-2026/cards/3001-3100.md#paper-lu26k)
 
 <a id="by-inference"></a>
 
@@ -299,6 +306,7 @@
 - <a id="liu26fv-inference"></a>[Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fv)
 - <a id="liu26gh-inference"></a>[SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gh)
 - <a id="liu26gq-inference"></a>[Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gq)
+- <a id="lu26j-inference"></a>[Semantic Granularity Navigation in Image Editing](../conferences/icml-2026/cards/3001-3100.md#paper-lu26j)
 
 <a id="by-representation-learning"></a>
 
@@ -341,6 +349,7 @@
 - <a id="liu26t-representation-learning"></a>[Risk-Bounded Distribution Reconstruction: Stable Statistic Calibration for Long-Tailed Recognition](../conferences/icml-2026/cards/2701-2800.md#paper-liu26t)
 - <a id="liu26eo-representation-learning"></a>[Rethinking 3D Shape Generation: Diffusion over Superquadrics](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eo)
 - <a id="liu26fr-representation-learning"></a>[Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fr)
+- <a id="lu26c-representation-learning"></a>[DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion](../conferences/icml-2026/cards/3001-3100.md#paper-lu26c)
 
 <a id="by-evaluation"></a>
 
@@ -386,6 +395,7 @@
 - <a id="li26he-evaluation"></a>[OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects](../conferences/icml-2026/cards/2601-2700.md#paper-li26he)
 - <a id="lian26a-evaluation"></a>[Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective](../conferences/icml-2026/cards/2601-2700.md#paper-lian26a)
 - <a id="liang26d-evaluation"></a>[Geometric Decoupling: Diagnosing the Structural Instability of Latent](../conferences/icml-2026/cards/2601-2700.md#paper-liang26d)
+- <a id="lu26f-evaluation"></a>[SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](../conferences/icml-2026/cards/3001-3100.md#paper-lu26f)
 
 <a id="by-theory-statistics"></a>
 

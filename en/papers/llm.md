@@ -48,6 +48,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26cx-architecture"></a>[Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cx)
 - <a id="liu26dx-architecture"></a>[SimpleMem: Efficient Lifelong Memory for LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dx)
 - <a id="liu26ek-architecture"></a>[SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ek)
+- <a id="lu26aq-architecture"></a>[HyperMLP: An Integrated Perspective for Sequence Modeling](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26aq)
+- <a id="lu26au-architecture"></a>[Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26au)
 
 <a id="by-modules"></a>
 
@@ -111,6 +113,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26cf-loss-functions"></a>[Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cf)
 - <a id="liu26dp-loss-functions"></a>[ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dp)
 - <a id="liu26dy-loss-functions"></a>[Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dy)
+- <a id="lu26ac-loss-functions"></a>[Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ac)
 
 <a id="by-optimization"></a>
 
@@ -293,6 +296,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26de-reinforcement-learning"></a>[On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26de)
 - <a id="liu26ds-reinforcement-learning"></a>[SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ds)
 - <a id="liu26fd-reinforcement-learning"></a>[Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fd)
+- <a id="lu26n-reinforcement-learning"></a>[Experience Augmented Policy Optimization for LLM Reasoning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26n)
+- <a id="lu26z-reinforcement-learning"></a>[De-attribute to Forget for LLM Unlearning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26z)
+- <a id="lu26aj-reinforcement-learning"></a>[Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26aj)
 
 <a id="by-training-strategies"></a>
 
@@ -382,6 +388,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26cz-training-strategies"></a>[Midtraining Bridges Pretraining and Posttraining Distributions](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cz)
 - <a id="liu26dr-training-strategies"></a>[XPERT: Expert Knowledge Transfer for Effective Training of Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dr)
 - <a id="liu26fz-training-strategies"></a>[TodoEvolve: Learning to Architect Agent Planning Systems](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fz)
+- <a id="lu26q-training-strategies"></a>[Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26q)
+- <a id="lu26ag-training-strategies"></a>[Context Tuning for In-Context Optimization](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ag)
 
 <a id="by-data-strategies"></a>
 
@@ -426,6 +434,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26bz-data-strategies"></a>[Random Selection Reveals Implicit Knowledge Consensus in Code Generation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bz)
 - <a id="liu26ew-data-strategies"></a>[Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ew)
 - <a id="liu26ez-data-strategies"></a>[MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ez)
+- <a id="lu26a-data-strategies"></a>[Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26a)
+- <a id="lu26ab-data-strategies"></a>[FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ab)
 
 <a id="by-inference"></a>
 
@@ -630,6 +640,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26fy-inference"></a>[From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fy)
 - <a id="liu26ga-inference"></a>[RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ga)
 - <a id="liu26gp-inference"></a>[Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gp)
+- <a id="lou26f-inference"></a>[WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26f)
+- <a id="lu26e-inference"></a>[MixReasoning: Switching Modes to Think](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26e)
+- <a id="lu26g-inference"></a>[The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26g)
 
 <a id="by-representation-learning"></a>
 

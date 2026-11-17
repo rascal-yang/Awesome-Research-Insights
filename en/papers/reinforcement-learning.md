@@ -28,6 +28,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="jiang26ai-loss-functions"></a>[Boosting World Models Learning via Latent-Space Value Alignment](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ai)
 - <a id="kharyal26a-loss-functions"></a>[Reward Learning through Ranking Mean Squared Error](../../conferences/icml-2026/cards/2001-2100.md#paper-kharyal26a)
 - <a id="lee26aj-loss-functions"></a>[Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26aj)
+- <a id="lu26al-loss-functions"></a>[Return-Critic: Bridging Goal Discrepancy for Efficient Visual Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26al)
+- <a id="lu26at-loss-functions"></a>[GIPO: Gaussian Importance Sampling Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26at)
 
 <a id="by-optimization"></a>
 
@@ -133,6 +135,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lin26d-reinforcement-learning"></a>[Implicit Safety Alignment from Crowd Preferences](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26d)
 - <a id="lin26am-reinforcement-learning"></a>[Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26am)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
+- <a id="low26a-reinforcement-learning"></a>[TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels](../../conferences/icml-2026/cards/2901-3000.md#paper-low26a)
+- <a id="luan26a-reinforcement-learning"></a>[COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space](../../conferences/icml-2026/cards/3001-3100.md#paper-luan26a)
 
 <a id="by-training-strategies"></a>
 
@@ -161,6 +165,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="guo26r-inference"></a>[RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26r)
 - <a id="howard26a-inference"></a>[Recursive Monte-Carlo Tree Search](../../conferences/icml-2026/cards/1601-1700.md#paper-howard26a)
 - <a id="kim26bq-inference"></a>[Identifiable Token Correspondence for World Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bq)
+- <a id="lu26l-inference"></a>[Improving Diffusion Planners by Self-Supervised Action Gating with Energies](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26l)
 
 <a id="by-representation-learning"></a>
 
@@ -238,4 +243,6 @@ Learning from interaction, feedback, and offline experience.
 - <a id="li26fk-theory-statistics"></a>[A Direct Approach for Handling Contextual Bandits with Latent State Dynamics](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fk)
 - <a id="li26ge-theory-statistics"></a>[Data- and Variance-dependent Regret Bounds for Online Tabular MDPs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ge)
 - <a id="liu26fb-theory-statistics"></a>[Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fb)
+- <a id="lu26m-theory-statistics"></a>[Learn to change the world: Multi-level reinforcement learning with model-changing actions](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26m)
+- <a id="lu26ao-theory-statistics"></a>[World Models in Pieces: Structural Certification for General Agents](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ao)
 <!-- classification:end -->

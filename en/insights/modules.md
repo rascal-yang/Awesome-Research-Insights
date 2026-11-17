@@ -79,6 +79,7 @@ Reusable components and local changes to model inputs or connections.
 - [X-MoGe: A Cross-Modal Adaptation Framework with Mixture-of-Experts and Geometry Guidance for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2701-2800.md#lin26y-modules) · 中文
 - [GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](../../conferences/icml-2026/cards/2801-2900.md#liu26v-modules) · 中文
 - [Radial Scaling Voxelization for Accurate Small Object 3D Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26gn-modules) · 中文
+- [Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing](../../conferences/icml-2026/cards/2901-3000.md#lou26i-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>

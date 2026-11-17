@@ -212,6 +212,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26fy-inference) · 中文
 - [RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse](../../conferences/icml-2026/cards/2901-3000.md#liu26ga-inference) · 中文
 - [Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics](../../conferences/icml-2026/cards/2901-3000.md#liu26gp-inference) · 中文
+- [WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving](../../conferences/icml-2026/cards/2901-3000.md#lou26f-inference) · 中文
+- [MixReasoning: Switching Modes to Think](../../conferences/icml-2026/cards/3001-3100.md#lu26e-inference) · 中文
+- [The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models](../../conferences/icml-2026/cards/3001-3100.md#lu26g-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -290,6 +293,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#liu26fv-inference) · 中文
 - [SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation](../../conferences/icml-2026/cards/2901-3000.md#liu26gh-inference) · 中文
 - [Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference](../../conferences/icml-2026/cards/2901-3000.md#liu26gq-inference) · 中文
+- [Semantic Granularity Navigation in Image Editing](../../conferences/icml-2026/cards/3001-3100.md#lu26j-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -319,6 +323,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](../../conferences/icml-2026/cards/1301-1400.md#guo26r-inference) · 中文
 - [Recursive Monte-Carlo Tree Search](../../conferences/icml-2026/cards/1601-1700.md#howard26a-inference) · 中文
 - [Identifiable Token Correspondence for World Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bq-inference) · 中文
+- [Improving Diffusion Planners by Self-Supervised Action Gating with Energies](../../conferences/icml-2026/cards/3001-3100.md#lu26l-inference) · 中文
 
 <a id="by-robotics"></a>
 
@@ -419,6 +424,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design](../../conferences/icml-2026/cards/2801-2900.md#liu26an-inference) · 中文
 - [TGV-KV: Text-Grounded KV Eviction for Vision-Language Models](../../conferences/icml-2026/cards/2801-2900.md#liu26ar-inference) · 中文
 - [HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling](../../conferences/icml-2026/cards/2801-2900.md#liu26bc-inference) · 中文
+- [Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation](../../conferences/icml-2026/cards/2901-3000.md#liu26gt-inference) · 中文
+- [Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery](../../conferences/icml-2026/cards/3001-3100.md#lu26ae-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -452,6 +459,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](../../conferences/icml-2026/cards/2301-2400.md#lee26aw-inference) · 中文
 - [RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs](../../conferences/icml-2026/cards/2501-2600.md#li26fq-inference) · 中文
 - [Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization](../../conferences/icml-2026/cards/2601-2700.md#li26ix-inference) · 中文
+- [Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach](../../conferences/icml-2026/cards/3001-3100.md#lu26y-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -465,6 +473,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](../../conferences/icml-2026/cards/1301-1400.md#guo26ac-inference) · 中文
 - [GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#jiang26al-inference) · 中文
 - [LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers](../../conferences/icml-2026/cards/2501-2600.md#li26gz-inference) · 中文
+- [Information-Geometric Adaptive Sampling for Graph Diffusion](../../conferences/icml-2026/cards/3001-3100.md#lu26s-inference) · 中文
 
 <a id="by-scientific-ml"></a>
 

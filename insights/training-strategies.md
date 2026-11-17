@@ -97,6 +97,8 @@
 - [混合中训衔接通用预训练与专域后训练](../conferences/icml-2026/cards/2801-2900.md#liu26cz-training-strategies) · Midtraining Bridges Pretraining and Posttraining Distributions
 - [复用跨域频繁激活的 MoE 专家初始化目标模型](../conferences/icml-2026/cards/2901-3000.md#liu26dr-training-strategies) · XPERT: Expert Knowledge Transfer for Effective Training of Language Models
 - [用执行结果训练生成可组合的规划架构](../conferences/icml-2026/cards/2901-3000.md#liu26fz-training-strategies) · TodoEvolve: Learning to Architect Agent Planning Systems
+- [推理轨迹几何水印](../conferences/icml-2026/cards/3001-3100.md#lu26q-training-strategies) · Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought
+- [从任务演示初始化可优化的上下文缓存](../conferences/icml-2026/cards/3001-3100.md#lu26ag-training-strategies) · Context Tuning for In-Context Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -144,6 +146,7 @@
 - [用图拉普拉斯双特征向量构造伪装物体伪掩码](../conferences/icml-2026/cards/2801-2900.md#liu26au-training-strategies) · Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement
 - [稀疏相机控制的三维几何蒸馏](../conferences/icml-2026/cards/2801-2900.md#liu26bj-training-strategies) · CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors
 - [以热扩散伪掩码和样本权重双层更新检测器](../conferences/icml-2026/cards/2901-3000.md#liu26fj-training-strategies) · Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection
+- [在偏好样本中保留优劣图像的真实初始噪声](../conferences/icml-2026/cards/3001-3100.md#lu26ai-training-strategies) · Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs
 
 <a id="by-nlp"></a>
 
@@ -271,6 +274,7 @@
 - [合并模型时校准共享方向的幅值](../conferences/icml-2026/cards/2501-2600.md#li26ep-training-strategies) · When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging
 - [用教师估计源重混合训练生成式分离器](../conferences/icml-2026/cards/2501-2600.md#li26fa-training-strategies) · SURF: Separation via Unsupervised Remixing Flow
 - [沿固定点轨迹蒸馏少步平衡求解器](../conferences/icml-2026/cards/2701-2800.md#lin26w-training-strategies) · Consistency Deep Equilibrium Models
+- [用共享语义锚点校准异质客户端的残差](../conferences/icml-2026/cards/3001-3100.md#lu26aa-training-strategies) · FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning
 
 <a id="by-graph-and-recommendation"></a>
 

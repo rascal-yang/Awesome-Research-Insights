@@ -86,6 +86,9 @@
 - <a id="liu26fl-architecture"></a>[FlowCloud: Learning Continuous Spatiotemporal Dynamics from Unpaired Sparse Point Cloud Snapshots](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fl)
 - <a id="liu26gg-architecture"></a>[ChaosNexus: A Foundation Model for ODE-based Chaotic System Forecasting with Hierarchical Multi-scale Awareness](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gg)
 - <a id="liu26gj-architecture"></a>[Adaptive DNA Sequence Modeling via Synergistic Plasticity Units](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gj)
+- <a id="lou26d-architecture"></a>[Cello: A Universal Cell-wise Feature Aggregation framework for Reliable Pathology Images Analysis](../conferences/icml-2026/cards/2901-3000.md#paper-lou26d)
+- <a id="lu26d-architecture"></a>[Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion](../conferences/icml-2026/cards/3001-3100.md#paper-lu26d)
+- <a id="lu26u-architecture"></a>[Interpretable Functional Koopman Learning with Non-Markovian Closure for Spatiotemporal Systems](../conferences/icml-2026/cards/3001-3100.md#paper-lu26u)
 
 <a id="by-modules"></a>
 
@@ -149,6 +152,8 @@
 - <a id="liao26a-optimization"></a>[G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../conferences/icml-2026/cards/2701-2800.md#paper-liao26a)
 - <a id="liu26n-optimization"></a>[Stabilizing Equation Learning via Zero-Point Constraints](../conferences/icml-2026/cards/2701-2800.md#paper-liu26n)
 - <a id="liu26cn-optimization"></a>[UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cn)
+- <a id="lotlikar26a-optimization"></a>[Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation](../conferences/icml-2026/cards/2901-3000.md#paper-lotlikar26a)
+- <a id="lu26ar-optimization"></a>[HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ar)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -290,6 +295,7 @@
 - <a id="liu26dt-representation-learning"></a>[RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dt)
 - <a id="liu26fg-representation-learning"></a>[M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fg)
 - <a id="liu26gc-representation-learning"></a>[Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gc)
+- <a id="lu26ak-representation-learning"></a>[SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ak)
 
 <a id="by-evaluation"></a>
 
@@ -350,4 +356,5 @@
 - <a id="lin26q-theory-statistics"></a>[Learning Treatment Representations for Downstream Instrumental Variable Regression](../conferences/icml-2026/cards/2701-2800.md#paper-lin26q)
 - <a id="lin26v-theory-statistics"></a>[High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders](../conferences/icml-2026/cards/2701-2800.md#paper-lin26v)
 - <a id="liu26aq-theory-statistics"></a>[LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aq)
+- <a id="lu26ah-theory-statistics"></a>[Conditionally Site-Independent Neural Evolution of Antibody Sequences](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ah)
 <!-- classification:end -->

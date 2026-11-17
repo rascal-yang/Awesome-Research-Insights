@@ -52,6 +52,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="liu26do-architecture"></a>[LIF Recurrent Memory Enables Long-Horizon Spiking Computation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26do)
 - <a id="liu26fm-architecture"></a>[TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fm)
 - <a id="liu26gi-architecture"></a>[Balancing Understanding and Generation in Discrete Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gi)
+- <a id="lu26w-architecture"></a>[ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26w)
 
 <a id="by-modules"></a>
 
@@ -120,6 +121,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lee26bd-loss-functions"></a>[Contrastive Order Learning: A General Framework for Ordinal Regression](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bd)
 - <a id="li26fn-loss-functions"></a>[Trajectory Consistency for One-Step Generation on Euler Mean Flows](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fn)
 - <a id="liu26g-loss-functions"></a>[When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26g)
+- <a id="lu26an-loss-functions"></a>[Divisiveness-Consistent Label Distribution Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26an)
 
 <a id="by-optimization"></a>
 
@@ -290,6 +292,10 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="liu26al-optimization"></a>[Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26al)
 - <a id="liu26bv-optimization"></a>[Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bv)
 - <a id="liu26cd-optimization"></a>[Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cd)
+- <a id="lu26h-optimization"></a>[PASO: Step Parallel Stochastic Optimization](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26h)
+- <a id="lu26v-optimization"></a>[Dynamic Stratified Contrastive Learning with Upstream Augmentation for MILP Branching](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26v)
+- <a id="lu26x-optimization"></a>[An Exterior Method for Nonnegative Matrix Factorization](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26x)
+- <a id="lu26ap-optimization"></a>[FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ap)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -353,6 +359,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26ep-training-strategies"></a>[When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ep)
 - <a id="li26fa-training-strategies"></a>[SURF: Separation via Unsupervised Remixing Flow](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fa)
 - <a id="lin26w-training-strategies"></a>[Consistency Deep Equilibrium Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26w)
+- <a id="lu26aa-training-strategies"></a>[FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26aa)
 
 <a id="by-data-strategies"></a>
 
@@ -409,6 +416,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lee26aw-inference"></a>[Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26aw)
 - <a id="li26fq-inference"></a>[RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fq)
 - <a id="li26ix-inference"></a>[Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ix)
+- <a id="lu26y-inference"></a>[Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26y)
 
 <a id="by-representation-learning"></a>
 
@@ -495,6 +503,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lan26a-evaluation"></a>[ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation](../../conferences/icml-2026/cards/2201-2300.md#paper-lan26a)
 - <a id="li26gf-evaluation"></a>[Causes and Consequences of Representational Similarity in Machine Learning Models](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gf)
 - <a id="liu26fp-evaluation"></a>[Beyond Procedure: Substantive Fairness in Conformal Prediction](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fp)
+- <a id="longpre26a-evaluation"></a>[FLARE-AI: Flaw Reporting for AI](../../conferences/icml-2026/cards/2901-3000.md#paper-longpre26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -790,4 +799,9 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="liu26ca-theory-statistics"></a>[Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ca)
 - <a id="liu26dk-theory-statistics"></a>[Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dk)
 - <a id="liu26fu-theory-statistics"></a>[Improving Backward Conformal Prediction via Non-Conformity Score Transformation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fu)
+- <a id="loaiza-ganem26a-theory-statistics"></a>[Conf-Gen: Conformal Uncertainty Quantification for Generative Models](../../conferences/icml-2026/cards/2901-3000.md#paper-loaiza-ganem26a)
+- <a id="lobo26a-theory-statistics"></a>[Semi-knockoffs: a model-agnostic conditional independence testing method with finite-sample guarantees](../../conferences/icml-2026/cards/2901-3000.md#paper-lobo26a)
+- <a id="lou26g-theory-statistics"></a>[DataGuard: A Non-intrusive Dataset Auditing Framework via Differential Information Forensics](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26g)
+- <a id="lu26p-theory-statistics"></a>[Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26p)
+- <a id="lu26am-theory-statistics"></a>[Generative Augmented Inference](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26am)
 <!-- classification:end -->

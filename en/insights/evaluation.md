@@ -274,6 +274,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects](../../conferences/icml-2026/cards/2601-2700.md#li26he-evaluation) · 中文
 - [Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective](../../conferences/icml-2026/cards/2601-2700.md#lian26a-evaluation) · 中文
 - [Geometric Decoupling: Diagnosing the Structural Instability of Latent](../../conferences/icml-2026/cards/2601-2700.md#liang26d-evaluation) · 中文
+- [SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](../../conferences/icml-2026/cards/3001-3100.md#lu26f-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -394,6 +395,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26dv-evaluation) · 中文
 - [MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gk-evaluation) · 中文
 - [Rethinking Multimodal Time-Series Forecasting Evaluation](../../conferences/icml-2026/cards/2901-3000.md#liu26go-evaluation) · 中文
+- [Textual Supervision Enhances Geospatial Representations in Vision-Language Models](../../conferences/icml-2026/cards/2901-3000.md#locatelli26a-evaluation) · 中文
+- [PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios](../../conferences/icml-2026/cards/3001-3100.md#lu26o-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -440,6 +443,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation](../../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · 中文
 - [Causes and Consequences of Representational Similarity in Machine Learning Models](../../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · 中文
 - [Beyond Procedure: Substantive Fairness in Conformal Prediction](../../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · 中文
+- [FLARE-AI: Flaw Reporting for AI](../../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
