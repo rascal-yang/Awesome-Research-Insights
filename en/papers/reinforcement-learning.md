@@ -241,6 +241,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="pasand26a-representation-learning"></a>[Stable Deep Reinforcement Learning via Isotropic Gaussian Representations](../../conferences/icml-2026/cards/3601-3700.md#paper-pasand26a)
 - <a id="qian26o-representation-learning"></a>[Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26o)
 - <a id="roh26a-representation-learning"></a>[PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#paper-roh26a)
+- <a id="steccanella26a-representation-learning"></a>[Learning the Minimum Action Distance](../../conferences/icml-2026/cards/4201-4300.md#paper-steccanella26a)
 
 <a id="by-evaluation"></a>
 

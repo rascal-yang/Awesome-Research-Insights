@@ -296,6 +296,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Estimating the Empowerment of Language Model Agents](../../conferences/icml-2026/cards/4201-4300.md#song26g-evaluation) · 中文
 - [ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm](../../conferences/icml-2026/cards/4201-4300.md#song26v-evaluation) · 中文
 - [NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../../conferences/icml-2026/cards/4201-4300.md#song26z-evaluation) · 中文
+- [Constitutional Black-Box Monitoring for Scheming in LLM Agents](../../conferences/icml-2026/cards/4201-4300.md#storf26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -352,6 +353,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation](../../conferences/icml-2026/cards/3901-4000.md#salvy26a-evaluation) · 中文
 - [DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers](../../conferences/icml-2026/cards/4001-4100.md#shen26a-evaluation) · 中文
 - [Evaluating Object-Centric Models beyond Object Discovery](../../conferences/icml-2026/cards/4101-4200.md#singh26f-evaluation) · 中文
+- [Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements](../../conferences/icml-2026/cards/4201-4300.md#sprunck26a-evaluation) · 中文
+- [Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation](../../conferences/icml-2026/cards/4201-4300.md#sreeram26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -539,6 +542,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · 中文
 - [Tackling Fake Forgetting through Uncertainty Quantification](../../conferences/icml-2026/cards/4101-4200.md#shi26j-evaluation) · 中文
 - [Scalable and Interpretable Representation Alignment with Ordinal Similarity](../../conferences/icml-2026/cards/4101-4200.md#soares26a-evaluation) · 中文
+- [Adversarial Vulnerability from Interference Between Features in Superposition](../../conferences/icml-2026/cards/4201-4300.md#stevinson26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

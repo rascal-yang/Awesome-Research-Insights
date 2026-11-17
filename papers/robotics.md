@@ -167,6 +167,7 @@
 - <a id="ren26a-inference"></a>[Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control](../conferences/icml-2026/cards/3801-3900.md#paper-ren26a)
 - <a id="shen26ab-inference"></a>[Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](../conferences/icml-2026/cards/4001-4100.md#paper-shen26ab)
 - <a id="song26e-inference"></a>[EnsembleVLA: Ensemble Learning for Vision-Language Action Models](../conferences/icml-2026/cards/4201-4300.md#paper-song26e)
+- <a id="spieler26a-inference"></a>[Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](../conferences/icml-2026/cards/4201-4300.md#paper-spieler26a)
 
 <a id="by-representation-learning"></a>
 
@@ -205,4 +206,5 @@
 ### 理论与统计
 
 - <a id="francis-meretzki26a-theory-statistics"></a>[Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](../conferences/icml-2026/cards/1101-1200.md#paper-francis-meretzki26a)
+- <a id="stein26a-theory-statistics"></a>[Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences](../conferences/icml-2026/cards/4201-4300.md#paper-stein26a)
 <!-- classification:end -->

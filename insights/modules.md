@@ -51,6 +51,7 @@
 - [传输历史表示再按预测精度注意](../conferences/icml-2026/cards/3701-3800.md#racioppo26a-modules) · Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation
 - [按归一化权重适度削弱注意力汇聚](../conferences/icml-2026/cards/4101-4200.md#shi26y-modules) · A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models
 - [用频率幅度调制形成多尺度位置核](../conferences/icml-2026/cards/4101-4200.md#shujun26a-modules) · The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency
+- [潜图后验条件化适配](../conferences/icml-2026/cards/4201-4300.md#song26ad-modules) · iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis
 
 <a id="by-computer-vision"></a>
 
@@ -93,6 +94,7 @@
 - [把球面大圆距离嵌进注意力点积](../conferences/icml-2026/cards/3901-4000.md#sekikawa26a-modules) · Spherical SO(3) Equivariant Local Attention
 - [将脉冲通道稀疏变为边缘设备可执行的结构压缩](../conferences/icml-2026/cards/4001-4100.md#she26b-modules) · Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices
 - [将软视差指导与分层像素选择分开](../conferences/icml-2026/cards/4101-4200.md#shi26h-modules) · ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning
+- [窗口Toeplitz矩阵缓存](../conferences/icml-2026/cards/4201-4300.md#song26ae-modules) · WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

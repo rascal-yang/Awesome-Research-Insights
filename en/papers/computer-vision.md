@@ -112,6 +112,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="sekikawa26a-modules"></a>[Spherical SO(3) Equivariant Local Attention](../../conferences/icml-2026/cards/3901-4000.md#paper-sekikawa26a)
 - <a id="she26b-modules"></a>[Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices](../../conferences/icml-2026/cards/4001-4100.md#paper-she26b)
 - <a id="shi26h-modules"></a>[ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26h)
+- <a id="song26ae-modules"></a>[WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ae)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -256,6 +257,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="safarov26a-training-strategies"></a>[Memory-Distilled Selection for Noise-Robust Anomaly Detection](../../conferences/icml-2026/cards/3901-4000.md#paper-safarov26a)
 - <a id="selikhanovych26a-training-strategies"></a>[One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](../../conferences/icml-2026/cards/3901-4000.md#paper-selikhanovych26a)
 - <a id="song26u-training-strategies"></a>[PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](../../conferences/icml-2026/cards/4201-4300.md#paper-song26u)
+- <a id="song26af-training-strategies"></a>[DomED: Redesigning Ensemble Distillation for Domain Generalization](../../conferences/icml-2026/cards/4201-4300.md#paper-song26af)
 
 <a id="by-data-strategies"></a>
 
@@ -488,6 +490,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="salvy26a-evaluation"></a>[GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation](../../conferences/icml-2026/cards/3901-4000.md#paper-salvy26a)
 - <a id="shen26a-evaluation"></a>[DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26a)
 - <a id="singh26f-evaluation"></a>[Evaluating Object-Centric Models beyond Object Discovery](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26f)
+- <a id="sprunck26a-evaluation"></a>[Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements](../../conferences/icml-2026/cards/4201-4300.md#paper-sprunck26a)
+- <a id="sreeram26a-evaluation"></a>[Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation](../../conferences/icml-2026/cards/4201-4300.md#paper-sreeram26a)
 
 <a id="by-theory-statistics"></a>
 

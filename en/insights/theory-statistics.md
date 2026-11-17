@@ -167,6 +167,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 ### Robotics
 
 - [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](../../conferences/icml-2026/cards/1101-1200.md#francis-meretzki26a-theory-statistics) · 中文
+- [Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences](../../conferences/icml-2026/cards/4201-4300.md#stein26a-theory-statistics) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -536,6 +537,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Identifiable Equivariant Networks are Layerwise Equivariant](../../conferences/icml-2026/cards/4001-4100.md#shahverdi26a-theory-statistics) · 中文
 - [Data Reconstruction: Identifiability and Optimization with Sample Splitting](../../conferences/icml-2026/cards/4001-4100.md#shen26q-theory-statistics) · 中文
 - [From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping](../../conferences/icml-2026/cards/4001-4100.md#shestakov26a-theory-statistics) · 中文
+- [Approximating f -Divergences with Rank Statistics](../../conferences/icml-2026/cards/4201-4300.md#stein26b-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

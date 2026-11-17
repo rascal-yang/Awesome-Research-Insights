@@ -167,6 +167,7 @@
 ### 机器人学
 
 - [用时序差分校准机器人任务成功率](../conferences/icml-2026/cards/1101-1200.md#francis-meretzki26a-theory-statistics) · Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models
+- [低噪声控制正则退化](../conferences/icml-2026/cards/4201-4300.md#stein26a-theory-statistics) · Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences
 
 <a id="by-multimodal"></a>
 
@@ -536,6 +537,7 @@
 - [从可辨识的端到端等变网络恢复逐层群作用](../conferences/icml-2026/cards/4001-4100.md#shahverdi26a-theory-statistics) · Identifiable Equivariant Networks are Layerwise Equivariant
 - [权重反演中的可辨识性与曲率诊断](../conferences/icml-2026/cards/4001-4100.md#shen26q-theory-statistics) · Data Reconstruction: Identifiability and Optimization with Sample Splitting
 - [区分重尾数据抽样与固定集梯度噪声](../conferences/icml-2026/cards/4001-4100.md#shestakov26a-theory-statistics) · From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping
+- [秩直方图散度估计](../conferences/icml-2026/cards/4201-4300.md#stein26b-theory-statistics) · Approximating f -Divergences with Rank Statistics
 
 <a id="by-graph-and-recommendation"></a>
 

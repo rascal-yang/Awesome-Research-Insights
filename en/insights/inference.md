@@ -297,6 +297,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [V1: Unifying Generation and Self-Verification for Parallel Reasoners](../../conferences/icml-2026/cards/4101-4200.md#singh26b-inference) · 中文
 - [Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](../../conferences/icml-2026/cards/4101-4200.md#skifstad26a-inference) · 中文
 - [Process Reward Agents for Steering Knowledge-Intensive Reasoning](../../conferences/icml-2026/cards/4101-4200.md#sohn26a-inference) · 中文
+- [DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search](../../conferences/icml-2026/cards/4201-4300.md#song26ab-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -471,6 +472,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control](../../conferences/icml-2026/cards/3801-3900.md#ren26a-inference) · 中文
 - [Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](../../conferences/icml-2026/cards/4001-4100.md#shen26ab-inference) · 中文
 - [EnsembleVLA: Ensemble Learning for Vision-Language Action Models](../../conferences/icml-2026/cards/4201-4300.md#song26e-inference) · 中文
+- [Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](../../conferences/icml-2026/cards/4201-4300.md#spieler26a-inference) · 中文
 
 <a id="by-multimodal"></a>
 

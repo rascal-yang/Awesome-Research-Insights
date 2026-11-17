@@ -130,6 +130,7 @@
 - [让带示例的同一模型指导学生轨迹](../conferences/icml-2026/cards/4001-4100.md#shenfeld26a-training-strategies) · Self-Distillation Enables Continual Learning
 - [在每个新任务开始前重选训练提示](../conferences/icml-2026/cards/4101-4200.md#shi26c-training-strategies) · Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning
 - [同步增加数据难度与深度](../conferences/icml-2026/cards/4101-4200.md#singh26a-training-strategies) · Curriculum-Guided Layer Scaling for Language Model Pretraining
+- [语义边缘锚定后训练](../conferences/icml-2026/cards/4201-4300.md#springer26a-training-strategies) · Annotations Mitigate Post-Training Mode Collapse
 
 <a id="by-computer-vision"></a>
 
@@ -195,6 +196,7 @@
 - [用稀疏记忆打分再渐进筛污染](../conferences/icml-2026/cards/3901-4000.md#safarov26a-training-strategies) · Memory-Distilled Selection for Noise-Robust Anomaly Detection
 - [残差移位扩散的单步超分蒸馏](../conferences/icml-2026/cards/3901-4000.md#selikhanovych26a-training-strategies) · One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation
 - [球面噪声渐变与立方体时序校正](../conferences/icml-2026/cards/4201-4300.md#song26u-training-strategies) · PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation
+- [跨域留出教师蒸馏](../conferences/icml-2026/cards/4201-4300.md#song26af-training-strategies) · DomED: Redesigning Ensemble Distillation for Domain Generalization
 
 <a id="by-nlp"></a>
 

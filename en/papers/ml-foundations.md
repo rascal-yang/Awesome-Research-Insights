@@ -396,6 +396,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="sohrabi26a-optimization"></a>[Accelerated and Stable Convergence with Anchored Generalized Optimistic Method](../../conferences/icml-2026/cards/4101-4200.md#paper-sohrabi26a)
 - <a id="song26a-optimization"></a>[Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization](../../conferences/icml-2026/cards/4201-4300.md#paper-song26a)
 - <a id="song26h-optimization"></a>[LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent](../../conferences/icml-2026/cards/4201-4300.md#paper-song26h)
+- <a id="song26ac-optimization"></a>[Zeroth-Order Optimization at the Edge of Stability](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ac)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -667,6 +668,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shen26b-evaluation"></a>[CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26b)
 - <a id="shi26j-evaluation"></a>[Tackling Fake Forgetting through Uncertainty Quantification](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26j)
 - <a id="soares26a-evaluation"></a>[Scalable and Interpretable Representation Alignment with Ordinal Similarity](../../conferences/icml-2026/cards/4101-4200.md#paper-soares26a)
+- <a id="stevinson26a-evaluation"></a>[Adversarial Vulnerability from Interference Between Features in Superposition](../../conferences/icml-2026/cards/4201-4300.md#paper-stevinson26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1027,4 +1029,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shahverdi26a-theory-statistics"></a>[Identifiable Equivariant Networks are Layerwise Equivariant](../../conferences/icml-2026/cards/4001-4100.md#paper-shahverdi26a)
 - <a id="shen26q-theory-statistics"></a>[Data Reconstruction: Identifiability and Optimization with Sample Splitting](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26q)
 - <a id="shestakov26a-theory-statistics"></a>[From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping](../../conferences/icml-2026/cards/4001-4100.md#paper-shestakov26a)
+- <a id="stein26b-theory-statistics"></a>[Approximating f -Divergences with Rank Statistics](../../conferences/icml-2026/cards/4201-4300.md#paper-stein26b)
 <!-- classification:end -->

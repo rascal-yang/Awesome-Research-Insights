@@ -297,6 +297,7 @@
 - [覆盖与近平局配对验证](../conferences/icml-2026/cards/4101-4200.md#singh26b-inference) · V1: Unifying Generation and Self-Verification for Parallel Reasoners
 - [离线线性化与在线反馈steering](../conferences/icml-2026/cards/4101-4200.md#skifstad26a-inference) · Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control
 - [在线检索过程奖励](../conferences/icml-2026/cards/4101-4200.md#sohn26a-inference) · Process Reward Agents for Steering Knowledge-Intensive Reasoning
+- [分块扩散搜索](../conferences/icml-2026/cards/4201-4300.md#song26ab-inference) · DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search
 
 <a id="by-computer-vision"></a>
 
@@ -471,6 +472,7 @@
 - [沿灵敏度等值面引导扩散动作](../conferences/icml-2026/cards/3801-3900.md#ren26a-inference) · Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control
 - [让障碍布局先验约束语义地图补全](../conferences/icml-2026/cards/4001-4100.md#shen26ab-inference) · Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation
 - [生成策略场组合与有界修正](../conferences/icml-2026/cards/4201-4300.md#song26e-inference) · EnsembleVLA: Ensemble Learning for Vision-Language Action Models
+- [梯度MPC的策略先验边界](../conferences/icml-2026/cards/4201-4300.md#spieler26a-inference) · Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination
 
 <a id="by-multimodal"></a>
 

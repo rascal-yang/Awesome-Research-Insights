@@ -109,6 +109,7 @@
 - [用随机投影把 RL 表征约束为各向同性高斯](../conferences/icml-2026/cards/3601-3700.md#pasand26a-representation-learning) · Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
 - [从动力学推断任务并压低无支撑价值](../conferences/icml-2026/cards/3701-3800.md#qian26o-representation-learning) · Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning
 - [给行为相似度加逐对正定几何](../conferences/icml-2026/cards/3801-3900.md#roh26a-representation-learning) · PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning
+- [轨迹上界约束的非对称距离](../conferences/icml-2026/cards/4201-4300.md#steccanella26a-representation-learning) · Learning the Minimum Action Distance
 
 <a id="by-robotics"></a>
 

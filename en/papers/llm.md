@@ -102,6 +102,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="racioppo26a-modules"></a>[Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation](../../conferences/icml-2026/cards/3701-3800.md#paper-racioppo26a)
 - <a id="shi26y-modules"></a>[A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26y)
 - <a id="shujun26a-modules"></a>[The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency](../../conferences/icml-2026/cards/4101-4200.md#paper-shujun26a)
+- <a id="song26ad-modules"></a>[iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ad)
 
 <a id="by-loss-functions"></a>
 
@@ -503,6 +504,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shenfeld26a-training-strategies"></a>[Self-Distillation Enables Continual Learning](../../conferences/icml-2026/cards/4001-4100.md#paper-shenfeld26a)
 - <a id="shi26c-training-strategies"></a>[Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26c)
 - <a id="singh26a-training-strategies"></a>[Curriculum-Guided Layer Scaling for Language Model Pretraining](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26a)
+- <a id="springer26a-training-strategies"></a>[Annotations Mitigate Post-Training Mode Collapse](../../conferences/icml-2026/cards/4201-4300.md#paper-springer26a)
 
 <a id="by-data-strategies"></a>
 
@@ -855,6 +857,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="singh26b-inference"></a>[V1: Unifying Generation and Self-Verification for Parallel Reasoners](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26b)
 - <a id="skifstad26a-inference"></a>[Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](../../conferences/icml-2026/cards/4101-4200.md#paper-skifstad26a)
 - <a id="sohn26a-inference"></a>[Process Reward Agents for Steering Knowledge-Intensive Reasoning](../../conferences/icml-2026/cards/4101-4200.md#paper-sohn26a)
+- <a id="song26ab-inference"></a>[DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ab)
 
 <a id="by-representation-learning"></a>
 
@@ -1162,6 +1165,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="song26g-evaluation"></a>[Estimating the Empowerment of Language Model Agents](../../conferences/icml-2026/cards/4201-4300.md#paper-song26g)
 - <a id="song26v-evaluation"></a>[ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm](../../conferences/icml-2026/cards/4201-4300.md#paper-song26v)
 - <a id="song26z-evaluation"></a>[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../../conferences/icml-2026/cards/4201-4300.md#paper-song26z)
+- <a id="storf26a-evaluation"></a>[Constitutional Black-Box Monitoring for Scheming in LLM Agents](../../conferences/icml-2026/cards/4201-4300.md#paper-storf26a)
 
 <a id="by-theory-statistics"></a>
 

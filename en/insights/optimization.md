@@ -387,6 +387,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Accelerated and Stable Convergence with Anchored Generalized Optimistic Method](../../conferences/icml-2026/cards/4101-4200.md#sohrabi26a-optimization) · 中文
 - [Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization](../../conferences/icml-2026/cards/4201-4300.md#song26a-optimization) · 中文
 - [LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent](../../conferences/icml-2026/cards/4201-4300.md#song26h-optimization) · 中文
+- [Zeroth-Order Optimization at the Edge of Stability](../../conferences/icml-2026/cards/4201-4300.md#song26ac-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

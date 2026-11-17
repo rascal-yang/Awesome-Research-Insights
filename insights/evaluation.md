@@ -296,6 +296,7 @@
 - [文本智能体赋能估计及失败边界](../conferences/icml-2026/cards/4201-4300.md#song26g-evaluation) · Estimating the Empowerment of Language Model Agents
 - [拒答率与执行后果分离](../conferences/icml-2026/cards/4201-4300.md#song26v-evaluation) · ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm
 - [优化器与模拟器非对称校验](../conferences/icml-2026/cards/4201-4300.md#song26z-evaluation) · NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents
+- [合成监控优化饱和](../conferences/icml-2026/cards/4201-4300.md#storf26a-evaluation) · Constitutional Black-Box Monitoring for Scheming in LLM Agents
 
 <a id="by-computer-vision"></a>
 
@@ -352,6 +353,8 @@
 - [用多尺度近邻距离重标定缓解生成评价的 hubness](../conferences/icml-2026/cards/3901-4000.md#salvy26a-evaluation) · GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation
 - [用组合触发测试 ViT 检查点供应链防御](../conferences/icml-2026/cards/4001-4100.md#shen26a-evaluation) · DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers
 - [归因感知的物体表示评测](../conferences/icml-2026/cards/4101-4200.md#singh26f-evaluation) · Evaluating Object-Centric Models beyond Object Discovery
+- [单观测噪声裂分模型检验](../conferences/icml-2026/cards/4201-4300.md#sprunck26a-evaluation) · Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements
+- [在线自适应时间效用](../conferences/icml-2026/cards/4201-4300.md#sreeram26a-evaluation) · Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation
 
 <a id="by-nlp"></a>
 
@@ -539,6 +542,7 @@
 - [按模型互信息和阈值验证抽取后的所有权](../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks
 - [用集合覆盖率检查假遗忘](../conferences/icml-2026/cards/4101-4200.md#shi26j-evaluation) · Tackling Fake Forgetting through Uncertainty Quantification
 - [序关系表征对齐](../conferences/icml-2026/cards/4101-4200.md#soares26a-evaluation) · Scalable and Interpretable Representation Alignment with Ordinal Similarity
+- [表征压缩干扰与鲁棒性](../conferences/icml-2026/cards/4201-4300.md#stevinson26a-evaluation) · Adversarial Vulnerability from Interference Between Features in Superposition
 
 <a id="by-graph-and-recommendation"></a>
 

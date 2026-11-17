@@ -51,6 +51,7 @@ Reusable components and local changes to model inputs or connections.
 - [Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation](../../conferences/icml-2026/cards/3701-3800.md#racioppo26a-modules) · 中文
 - [A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](../../conferences/icml-2026/cards/4101-4200.md#shi26y-modules) · 中文
 - [The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency](../../conferences/icml-2026/cards/4101-4200.md#shujun26a-modules) · 中文
+- [iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis](../../conferences/icml-2026/cards/4201-4300.md#song26ad-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -93,6 +94,7 @@ Reusable components and local changes to model inputs or connections.
 - [Spherical SO(3) Equivariant Local Attention](../../conferences/icml-2026/cards/3901-4000.md#sekikawa26a-modules) · 中文
 - [Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices](../../conferences/icml-2026/cards/4001-4100.md#she26b-modules) · 中文
 - [ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning](../../conferences/icml-2026/cards/4101-4200.md#shi26h-modules) · 中文
+- [WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution](../../conferences/icml-2026/cards/4201-4300.md#song26ae-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>

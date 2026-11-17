@@ -130,6 +130,7 @@ Training schedules, curricula, and task or stage composition.
 - [Self-Distillation Enables Continual Learning](../../conferences/icml-2026/cards/4001-4100.md#shenfeld26a-training-strategies) · 中文
 - [Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning](../../conferences/icml-2026/cards/4101-4200.md#shi26c-training-strategies) · 中文
 - [Curriculum-Guided Layer Scaling for Language Model Pretraining](../../conferences/icml-2026/cards/4101-4200.md#singh26a-training-strategies) · 中文
+- [Annotations Mitigate Post-Training Mode Collapse](../../conferences/icml-2026/cards/4201-4300.md#springer26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -195,6 +196,7 @@ Training schedules, curricula, and task or stage composition.
 - [Memory-Distilled Selection for Noise-Robust Anomaly Detection](../../conferences/icml-2026/cards/3901-4000.md#safarov26a-training-strategies) · 中文
 - [One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](../../conferences/icml-2026/cards/3901-4000.md#selikhanovych26a-training-strategies) · 中文
 - [PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](../../conferences/icml-2026/cards/4201-4300.md#song26u-training-strategies) · 中文
+- [DomED: Redesigning Ensemble Distillation for Domain Generalization](../../conferences/icml-2026/cards/4201-4300.md#song26af-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
