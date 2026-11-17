@@ -68,6 +68,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="hossain26a-reinforcement-learning"></a>[Learning Anisotropic Value Geometry with Finsler Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hossain26a)
 - <a id="ji26e-reinforcement-learning"></a>[Recovering Hidden Reward in Diffusion-Based Policies](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26e)
 - <a id="lei26e-reinforcement-learning"></a>[Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26e)
+- <a id="li26jr-reinforcement-learning"></a>[UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jr)
+- <a id="lian26c-reinforcement-learning"></a>[MapDream: Task-Driven Map Learning for Vision-Language Navigation](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26c)
 
 <a id="by-training-strategies"></a>
 
@@ -81,6 +83,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="huang26v-training-strategies"></a>[Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26v)
 - <a id="huang26cd-training-strategies"></a>[TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cd)
 - <a id="lei26d-training-strategies"></a>[A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26d)
+- <a id="lian26d-training-strategies"></a>[LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26d)
 
 <a id="by-data-strategies"></a>
 
@@ -95,6 +98,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26f)
 - <a id="hui26b-data-strategies"></a>[Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](../../conferences/icml-2026/cards/1701-1800.md#paper-hui26b)
 - <a id="ji26g-data-strategies"></a>[OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26g)
+- <a id="liang26n-data-strategies"></a>[PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26n)
 
 <a id="by-inference"></a>
 
@@ -124,6 +128,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="li26aa-inference"></a>[STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction](../../conferences/icml-2026/cards/2401-2500.md#paper-li26aa)
 - <a id="li26fl-inference"></a>[VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fl)
 - <a id="li26id-inference"></a>[Embodied Task Planning via Graph-Informed Action Generation with Large Language Models](../../conferences/icml-2026/cards/2601-2700.md#paper-li26id)
+- <a id="liang26l-inference"></a>[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26l)
 
 <a id="by-representation-learning"></a>
 

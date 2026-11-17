@@ -70,6 +70,9 @@
 - <a id="li26gp-architecture"></a>[Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis](../conferences/icml-2026/cards/2501-2600.md#paper-li26gp)
 - <a id="li26ho-architecture"></a>[Neural Modular Physics for Elastic Simulation](../conferences/icml-2026/cards/2601-2700.md#paper-li26ho)
 - <a id="li26jd-architecture"></a>[Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding](../conferences/icml-2026/cards/2601-2700.md#paper-li26jd)
+- <a id="liang26a-architecture"></a>[Bipartite Graph Attention-based Clustering for Large-scale scRNA-seq Data](../conferences/icml-2026/cards/2601-2700.md#paper-liang26a)
+- <a id="liao26e-architecture"></a>[Frequency Matching in Spiking Neural Networks for mmWave Sensing](../conferences/icml-2026/cards/2701-2800.md#paper-liao26e)
+- <a id="lillemark26a-architecture"></a>[Flow Equivariant World Models: Structured Memory for Dynamic Environments](../conferences/icml-2026/cards/2701-2800.md#paper-lillemark26a)
 
 <a id="by-modules"></a>
 
@@ -129,6 +132,7 @@
 - <a id="kang26n-optimization"></a>[Credit Assignment via Neural Manifold Noise Correlation](../conferences/icml-2026/cards/2001-2100.md#paper-kang26n)
 - <a id="kim26j-optimization"></a>[LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition](../conferences/icml-2026/cards/2001-2100.md#paper-kim26j)
 - <a id="li26el-optimization"></a>[Causal Structure Learning for Sparse Matrix Fill-in Reduction](../conferences/icml-2026/cards/2501-2600.md#paper-li26el)
+- <a id="liao26a-optimization"></a>[G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../conferences/icml-2026/cards/2701-2800.md#paper-liao26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -189,6 +193,7 @@
 - <a id="d-ascenzo26a-data-strategies"></a>[scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](../conferences/icml-2026/cards/0801-0900.md#paper-d-ascenzo26a)
 - <a id="geenjaar26a-data-strategies"></a>[A robust PPG foundation model using multimodal physiological supervision](../conferences/icml-2026/cards/1201-1300.md#paper-geenjaar26a)
 - <a id="huynh26a-data-strategies"></a>[Active Timepoint Selection for Learning Measure-Valued Trajectories](../conferences/icml-2026/cards/1701-1800.md#paper-huynh26a)
+- <a id="li26jn-data-strategies"></a>[Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../conferences/icml-2026/cards/2601-2700.md#paper-li26jn)
 
 <a id="by-inference"></a>
 
@@ -215,6 +220,7 @@
 - <a id="jia26e-inference"></a>[MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation](../conferences/icml-2026/cards/1801-1900.md#paper-jia26e)
 - <a id="kosmala26a-inference"></a>[Speculative Sampling For Faster Molecular Dynamics](../conferences/icml-2026/cards/2201-2300.md#paper-kosmala26a)
 - <a id="li26cf-inference"></a>[$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](../conferences/icml-2026/cards/2401-2500.md#paper-li26cf)
+- <a id="lian26e-inference"></a>[Evidential Reasoning Advances Interpretable Real-World Disease Screening](../conferences/icml-2026/cards/2601-2700.md#paper-lian26e)
 
 <a id="by-representation-learning"></a>
 
@@ -259,6 +265,7 @@
 - <a id="li26fo-representation-learning"></a>[Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective](../conferences/icml-2026/cards/2501-2600.md#paper-li26fo)
 - <a id="li26gl-representation-learning"></a>[Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion](../conferences/icml-2026/cards/2501-2600.md#paper-li26gl)
 - <a id="li26ha-representation-learning"></a>[A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](../conferences/icml-2026/cards/2601-2700.md#paper-li26ha)
+- <a id="liang26aa-representation-learning"></a>[LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation](../conferences/icml-2026/cards/2701-2800.md#paper-liang26aa)
 
 <a id="by-evaluation"></a>
 

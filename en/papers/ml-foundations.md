@@ -273,6 +273,9 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26gx-optimization"></a>[Cross-task Calibration for Asynchronous Federated Continual Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gx)
 - <a id="li26iu-optimization"></a>[Probability of Matching for Batch Multi-Objective Bayesian Optimization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iu)
 - <a id="li26iy-optimization"></a>[Eliminating Solution Bias in Differentially Private Optimization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iy)
+- <a id="liang26p-optimization"></a>[M+Adam: Low-Precision Training via Additive–Multiplicative Optimization](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26p)
+- <a id="liang26u-optimization"></a>[Turning Stale Gradients into Stable Gradients: Coherent Coordinate Descent with Implicit Landscape Smoothing for Lightweight Zeroth-Order Optimization](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26u)
+- <a id="lifshitz26a-optimization"></a>[L-SR1: Learned Symmetric-Rank-One Preconditioning](../../conferences/icml-2026/cards/2701-2800.md#paper-lifshitz26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -424,6 +427,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26du-representation-learning"></a>[Towards One-for-All Anomaly Detection for Tabular Data](../../conferences/icml-2026/cards/2501-2600.md#paper-li26du)
 - <a id="li26fh-representation-learning"></a>[An Asymmetric Latent Factorization-of-Tensors Model for Relation Analysis](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fh)
 - <a id="li26fu-representation-learning"></a>[Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fu)
+- <a id="lim26b-representation-learning"></a>[QuITE: Query-Based Irregular Time Series Embedding](../../conferences/icml-2026/cards/2701-2800.md#paper-lim26b)
 
 <a id="by-evaluation"></a>
 
@@ -750,4 +754,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26in-theory-statistics"></a>[Learning Dynamics of Zeroth-Order Optimization: A Kernel Perspective](../../conferences/icml-2026/cards/2601-2700.md#paper-li26in)
 - <a id="li26iq-theory-statistics"></a>[Adalina: Adaptive Linear Approximation for the Shapley Value and Beyond](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iq)
 - <a id="li26jb-theory-statistics"></a>[Characterizing the Effect of Noise in Language Generation in the Limit](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jb)
+- <a id="liang26e-theory-statistics"></a>[An Evidential Route to Asymptotic Bayes Optimality under Sparsity](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26e)
+- <a id="liang26f-theory-statistics"></a>[Causal Representation Learning with Optimal Compression under Complex Treatments](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26f)
+- <a id="liaw26a-theory-statistics"></a>[Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding](../../conferences/icml-2026/cards/2701-2800.md#paper-liaw26a)
 <!-- classification:end -->

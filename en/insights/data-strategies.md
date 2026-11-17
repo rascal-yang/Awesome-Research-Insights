@@ -45,6 +45,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Toward Cybersecurity-Expert Small Language Models](../../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · 中文
 - [Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · 中文
 - [Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](../../conferences/icml-2026/cards/2601-2700.md#li26hl-data-strategies) · 中文
+- [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](../../conferences/icml-2026/cards/2601-2700.md#li26jt-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -62,6 +63,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Geometrically Constrained Outlier Synthesis](../../conferences/icml-2026/cards/2001-2100.md#karzanov26a-data-strategies) · 中文
 - [GeoDM: Geometry-aware Distribution Matching for Dataset Distillation](../../conferences/icml-2026/cards/2501-2600.md#li26ea-data-strategies) · 中文
 - [Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](../../conferences/icml-2026/cards/2501-2600.md#li26ec-data-strategies) · 中文
+- [On Revisiting Entropy for Identifying Mislabeled Images](../../conferences/icml-2026/cards/2601-2700.md#li26ju-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -94,6 +96,7 @@ Data selection, annotation, augmentation, and sampling.
 - [LIMMT: Less Is More for Motion Tracking](../../conferences/icml-2026/cards/1301-1400.md#guan26f-data-strategies) · 中文
 - [Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](../../conferences/icml-2026/cards/1701-1800.md#hui26b-data-strategies) · 中文
 - [OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning](../../conferences/icml-2026/cards/1801-1900.md#ji26g-data-strategies) · 中文
+- [PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration](../../conferences/icml-2026/cards/2601-2700.md#liang26n-data-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -164,4 +167,5 @@ Data selection, annotation, augmentation, and sampling.
 - [scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](../../conferences/icml-2026/cards/0801-0900.md#d-ascenzo26a-data-strategies) · 中文
 - [A robust PPG foundation model using multimodal physiological supervision](../../conferences/icml-2026/cards/1201-1300.md#geenjaar26a-data-strategies) · 中文
 - [Active Timepoint Selection for Learning Measure-Valued Trajectories](../../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · 中文
+- [Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../../conferences/icml-2026/cards/2601-2700.md#li26jn-data-strategies) · 中文
 <!-- classification:end -->

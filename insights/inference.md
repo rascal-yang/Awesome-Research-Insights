@@ -183,6 +183,12 @@
 - [复用隐藏态进行流式风险阻断](../conferences/icml-2026/cards/2601-2700.md#li26hq-inference) · PlugGuard: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection
 - [从已通过测试的补丁反推修复计划](../conferences/icml-2026/cards/2601-2700.md#li26ia-inference) · From Historical Patches to Repair Plans: Outcome-Conditioned Reasoning for Repository-Level Program Repair
 - [按工作流操作共享差分 KV](../conferences/icml-2026/cards/2601-2700.md#li26ig-inference) · GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving
+- [在线估计能量以从强化学习目标策略采样](../conferences/icml-2026/cards/2601-2700.md#li26jm-inference) · ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment
+- [用潜在更新熵选取推理候选](../conferences/icml-2026/cards/2601-2700.md#li26jx-inference) · Beyond Logits: Metastable Latent Dynamics for Sample-Efficient Best-of-N Selection in LLMs
+- [在主要推理前公开可审查计划](../conferences/icml-2026/cards/2601-2700.md#liang26b-inference) · PLANTAIN: Plan-Answer Interleaved Reasoning
+- [按目标模型的可执行性重排数学提示](../conferences/icml-2026/cards/2701-2800.md#liang26t-inference) · Strategy Executability in Mathematical Reasoning: Leveraging Human–Model Differences for Effective Guidance
+- [用早层注意力筛出本步可提交的扩散词元](../conferences/icml-2026/cards/2701-2800.md#liang26v-inference) · FOCUS: DLLMs Know How to Tame Their Compute Bound
+- [大小语言模型的分歧词元路由](../conferences/icml-2026/cards/2701-2800.md#liao26c-inference) · AlphaRouter: Token-level Routing Between SLM and LLM with Reinforcement Learning and Tree Search
 
 <a id="by-computer-vision"></a>
 
@@ -250,6 +256,8 @@
 - [分离历史运动与抖动后再融合视频](../conferences/icml-2026/cards/2601-2700.md#li26hx-inference) · DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion
 - [带空间熵的细粒度令牌合并](../conferences/icml-2026/cards/2601-2700.md#li26hz-inference) · Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification
 - [按信噪比对齐扩散历史并保留当前残差](../conferences/icml-2026/cards/2601-2700.md#li26iv-inference) · DiFA: Inference-Time Forward-Process Alignment for Diffusion Models
+- [由在线标签共现构造贝叶斯先验](../conferences/icml-2026/cards/2601-2700.md#li26jw-inference) · Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
+- [结构份额引导的扩散隐图恢复](../conferences/icml-2026/cards/2701-2800.md#lijing26a-inference) · KIStego: Key-Independent Secure Image Distribution via Bipartite Structural Invariants
 
 <a id="by-nlp"></a>
 
@@ -308,6 +316,7 @@
 - [用时空一致的动作热启动加速扩散控制](../conferences/icml-2026/cards/2401-2500.md#li26aa-inference) · STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction
 - [仅在动作不确定时启动相对动作评判](../conferences/icml-2026/cards/2501-2600.md#li26fl-inference) · VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model
 - [按场景图检索经验并验证下一步](../conferences/icml-2026/cards/2601-2700.md#li26id-inference) · Embodied Task Planning via Graph-Informed Action Generation with Large Language Models
+- [优先解高置信动作并重开不稳位置](../conferences/icml-2026/cards/2601-2700.md#liang26l-inference) · Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies
 
 <a id="by-multimodal"></a>
 
@@ -443,4 +452,5 @@
 - [把谱峰基序证据带入分段去噪搜索](../conferences/icml-2026/cards/1801-1900.md#jia26e-inference) · MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation
 - [用快势草拟并行验证分子动力学轨迹](../conferences/icml-2026/cards/2201-2300.md#kosmala26a-inference) · Speculative Sampling For Faster Molecular Dynamics
 - [融合分子图的单次消费边计算减少显存访问](../conferences/icml-2026/cards/2401-2500.md#li26cf-inference) · $\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics
+- [从正常与病理病例同时检索证据](../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · Evidential Reasoning Advances Interpretable Real-World Disease Screening
 <!-- classification:end -->

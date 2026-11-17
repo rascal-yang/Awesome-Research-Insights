@@ -125,6 +125,10 @@
 - <a id="li26gm-reinforcement-learning"></a>[BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](../conferences/icml-2026/cards/2501-2600.md#paper-li26gm)
 - <a id="li26it-reinforcement-learning"></a>[Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization](../conferences/icml-2026/cards/2601-2700.md#paper-li26it)
 - <a id="li26ja-reinforcement-learning"></a>[Causal Flow Q-Learning for Robust Offline Reinforcement Learning](../conferences/icml-2026/cards/2601-2700.md#paper-li26ja)
+- <a id="li26jv-reinforcement-learning"></a>[Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](../conferences/icml-2026/cards/2601-2700.md#paper-li26jv)
+- <a id="liang26o-reinforcement-learning"></a>[Task-Aware Exploration via a Predictive Bisimulation Metric](../conferences/icml-2026/cards/2601-2700.md#paper-liang26o)
+- <a id="liang26r-reinforcement-learning"></a>[Bottleneck-Guided Spectral Subgoals For Offline Goal-Conditioned RL](../conferences/icml-2026/cards/2701-2800.md#paper-liang26r)
+- <a id="liang26s-reinforcement-learning"></a>[Implicit Action Chunking for Smooth Continuous Control](../conferences/icml-2026/cards/2701-2800.md#paper-liang26s)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-training-strategies"></a>

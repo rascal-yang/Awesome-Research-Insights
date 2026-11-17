@@ -214,6 +214,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](../../conferences/icml-2026/cards/2601-2700.md#li26ij-evaluation) · 中文
 - [Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs](../../conferences/icml-2026/cards/2601-2700.md#li26ir-evaluation) · 中文
 - [Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents](../../conferences/icml-2026/cards/2601-2700.md#li26is-evaluation) · 中文
+- [FT-Dojo: Towards Autonomous LLM Fine-Tuning with Language Agents](../../conferences/icml-2026/cards/2601-2700.md#li26jl-evaluation) · 中文
+- [State-Dependent Safety Failures in Multi-Turn Language Model Interaction](../../conferences/icml-2026/cards/2601-2700.md#li26jo-evaluation) · 中文
+- [REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations](../../conferences/icml-2026/cards/2701-2800.md#liang26q-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -257,6 +260,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](../../conferences/icml-2026/cards/2401-2500.md#li26s-evaluation) · 中文
 - [Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles](../../conferences/icml-2026/cards/2401-2500.md#li26br-evaluation) · 中文
 - [OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects](../../conferences/icml-2026/cards/2601-2700.md#li26he-evaluation) · 中文
+- [Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective](../../conferences/icml-2026/cards/2601-2700.md#lian26a-evaluation) · 中文
+- [Geometric Decoupling: Diagnosing the Structural Instability of Latent](../../conferences/icml-2026/cards/2601-2700.md#liang26d-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -364,6 +369,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SAW-Bench: Learning Situated Awareness in the Real World](../../conferences/icml-2026/cards/2401-2500.md#li26bb-evaluation) · 中文
 - [Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](../../conferences/icml-2026/cards/2401-2500.md#li26co-evaluation) · 中文
 - [ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing](../../conferences/icml-2026/cards/2501-2600.md#li26fr-evaluation) · 中文
+- [VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](../../conferences/icml-2026/cards/2701-2800.md#liao26d-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

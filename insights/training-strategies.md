@@ -126,6 +126,8 @@
 - [从原图提取字形与风格做场景文字编辑](../conferences/icml-2026/cards/2501-2600.md#li26gj-training-strategies) · Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Editing via In-Context Learning
 - [分开蒸馏开放词汇检测的语义和边界](../conferences/icml-2026/cards/2601-2700.md#li26hp-training-strategies) · Object-level Semantic and Spatial Distillation for Open Vocabulary Detection
 - [用双向视频判别器约束单步因果生成](../conferences/icml-2026/cards/2601-2700.md#li26iw-training-strategies) · AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation
+- [图像光效迁移的内容—光效拆分](../conferences/icml-2026/cards/2601-2700.md#li26ka-training-strategies) · TransLight: Image-Guided Customized Lighting Control with Generative Decoupling
+- [按纬度监督全景编辑的形状](../conferences/icml-2026/cards/2601-2700.md#liang26m-training-strategies) · World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing
 
 <a id="by-nlp"></a>
 
@@ -154,6 +156,7 @@
 - [让同一符号域提供规划示范与逐步反馈](../conferences/icml-2026/cards/1701-1800.md#huang26v-training-strategies) · Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation
 - [训练控制端显式处理过期语义](../conferences/icml-2026/cards/1701-1800.md#huang26cd-training-strategies) · TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments
 - [仿真与真实数据联合训练](../conferences/icml-2026/cards/2301-2400.md#lei26d-training-strategies) · A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies
+- [用视觉先验与语言后验分离动作信号](../conferences/icml-2026/cards/2601-2700.md#lian26d-training-strategies) · LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
 
 <a id="by-multimodal"></a>
 
@@ -190,6 +193,7 @@
 - [用有图无图的奖励差筛查幻觉](../conferences/icml-2026/cards/2601-2700.md#li26ic-training-strategies) · IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination
 - [按难度逐步学习最小图文对照](../conferences/icml-2026/cards/2601-2700.md#li26ie-training-strategies) · Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs
 - [优先蒸馏教师可靠且师生分歧大的在线轨迹](../conferences/icml-2026/cards/2601-2700.md#li26im-training-strategies) · Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation
+- [把语言多选题分布蒸馏为视觉类别概念签名](../conferences/icml-2026/cards/2701-2800.md#liang26ac-training-strategies) · Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge
 
 <a id="by-ml-foundations"></a>
 

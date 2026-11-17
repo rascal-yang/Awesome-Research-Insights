@@ -126,6 +126,8 @@ Training schedules, curricula, and task or stage composition.
 - [Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Editing via In-Context Learning](../../conferences/icml-2026/cards/2501-2600.md#li26gj-training-strategies) · 中文
 - [Object-level Semantic and Spatial Distillation for Open Vocabulary Detection](../../conferences/icml-2026/cards/2601-2700.md#li26hp-training-strategies) · 中文
 - [AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation](../../conferences/icml-2026/cards/2601-2700.md#li26iw-training-strategies) · 中文
+- [TransLight: Image-Guided Customized Lighting Control with Generative Decoupling](../../conferences/icml-2026/cards/2601-2700.md#li26ka-training-strategies) · 中文
+- [World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing](../../conferences/icml-2026/cards/2601-2700.md#liang26m-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -154,6 +156,7 @@ Training schedules, curricula, and task or stage composition.
 - [Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](../../conferences/icml-2026/cards/1701-1800.md#huang26v-training-strategies) · 中文
 - [TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](../../conferences/icml-2026/cards/1701-1800.md#huang26cd-training-strategies) · 中文
 - [A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](../../conferences/icml-2026/cards/2301-2400.md#lei26d-training-strategies) · 中文
+- [LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](../../conferences/icml-2026/cards/2601-2700.md#lian26d-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -190,6 +193,7 @@ Training schedules, curricula, and task or stage composition.
 - [IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination](../../conferences/icml-2026/cards/2601-2700.md#li26ic-training-strategies) · 中文
 - [Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](../../conferences/icml-2026/cards/2601-2700.md#li26ie-training-strategies) · 中文
 - [Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](../../conferences/icml-2026/cards/2601-2700.md#li26im-training-strategies) · 中文
+- [Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../conferences/icml-2026/cards/2701-2800.md#liang26ac-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

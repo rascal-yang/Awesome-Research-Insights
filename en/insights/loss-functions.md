@@ -31,6 +31,7 @@ Objectives, auxiliary supervision, and regularization.
 - [C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders](../../conferences/icml-2026/cards/1901-2000.md#jin26j-loss-functions) · 中文
 - [FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26bb-loss-functions) · 中文
 - [Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](../../conferences/icml-2026/cards/2501-2600.md#li26ew-loss-functions) · 中文
+- [Task-Aware Preference Calibration for Direct Preference Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26jp-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -100,6 +101,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges](../../conferences/icml-2026/cards/2201-2300.md#kosman26a-loss-functions) · 中文
 - [Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models](../../conferences/icml-2026/cards/2501-2600.md#li26er-loss-functions) · 中文
 - [DenseMLLM: Standard Multimodal LLMs for Dense Prediction](../../conferences/icml-2026/cards/2501-2600.md#li26fg-loss-functions) · 中文
+- [Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment](../../conferences/icml-2026/cards/2601-2700.md#li26jy-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

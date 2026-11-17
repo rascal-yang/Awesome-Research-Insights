@@ -409,6 +409,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning Dynamics of Zeroth-Order Optimization: A Kernel Perspective](../../conferences/icml-2026/cards/2601-2700.md#li26in-theory-statistics) · 中文
 - [Adalina: Adaptive Linear Approximation for the Shapley Value and Beyond](../../conferences/icml-2026/cards/2601-2700.md#li26iq-theory-statistics) · 中文
 - [Characterizing the Effect of Noise in Language Generation in the Limit](../../conferences/icml-2026/cards/2601-2700.md#li26jb-theory-statistics) · 中文
+- [An Evidential Route to Asymptotic Bayes Optimality under Sparsity](../../conferences/icml-2026/cards/2601-2700.md#liang26e-theory-statistics) · 中文
+- [Causal Representation Learning with Optimal Compression under Complex Treatments](../../conferences/icml-2026/cards/2601-2700.md#liang26f-theory-statistics) · 中文
+- [Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding](../../conferences/icml-2026/cards/2701-2800.md#liaw26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

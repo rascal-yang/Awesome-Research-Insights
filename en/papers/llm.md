@@ -43,6 +43,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26ba-architecture"></a>[SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ba)
 - <a id="li26fd-architecture"></a>[Breaking the Factorization Barrier in Diffusion Language Models](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fd)
 - <a id="li26gk-architecture"></a>[OpenSage: Self-programming Agent Generation Engine](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gk)
+- <a id="li26jq-architecture"></a>[RePo: Language Models with Context Re-Positioning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jq)
 
 <a id="by-modules"></a>
 
@@ -76,6 +77,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26cd-modules"></a>[Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cd)
 - <a id="li26dl-modules"></a>[FiX: Introducing Fine-grained Forget Gate into Softmax Attention](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dl)
 - <a id="li26hj-modules"></a>[Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hj)
+- <a id="liang26ae-modules"></a>[SpikingLM: Towards Fully Spiking Language Model](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26ae)
 
 <a id="by-loss-functions"></a>
 
@@ -99,6 +101,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="jin26j-loss-functions"></a>[C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26j)
 - <a id="lee26bb-loss-functions"></a>[FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bb)
 - <a id="li26ew-loss-functions"></a>[Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ew)
+- <a id="li26jp-loss-functions"></a>[Task-Aware Preference Calibration for Direct Preference Optimization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jp)
 
 <a id="by-optimization"></a>
 
@@ -160,6 +163,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26dh-optimization"></a>[NorMuon: Making Muon more efficient and scalable](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dh)
 - <a id="li26dr-optimization"></a>[WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dr)
 - <a id="li26je-optimization"></a>[PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training](../../conferences/icml-2026/cards/2601-2700.md#paper-li26je)
+- <a id="liang26x-optimization"></a>[Multilingual Safety Alignment Via Sparse Weight Editing](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26x)
+- <a id="lifar26a-optimization"></a>[WaterSIC: Information-Theoretically (Near) Optimal Linear Layer Quantization](../../conferences/icml-2026/cards/2701-2800.md#paper-lifar26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -263,6 +268,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26hy-reinforcement-learning"></a>[The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hy)
 - <a id="li26il-reinforcement-learning"></a>[ALSO: Adversarial Online Strategy Optimization for Social Agents](../../conferences/icml-2026/cards/2601-2700.md#paper-li26il)
 - <a id="li26jc-reinforcement-learning"></a>[StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jc)
+- <a id="li26jk-reinforcement-learning"></a>[SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jk)
+- <a id="lian26b-reinforcement-learning"></a>[ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26b)
 
 <a id="by-training-strategies"></a>
 
@@ -379,6 +386,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="levi26a-data-strategies"></a>[Toward Cybersecurity-Expert Small Language Models](../../conferences/icml-2026/cards/2301-2400.md#paper-levi26a)
 - <a id="li26av-data-strategies"></a>[Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26av)
 - <a id="li26hl-data-strategies"></a>[Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hl)
+- <a id="li26jt-data-strategies"></a>[Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jt)
 
 <a id="by-inference"></a>
 
@@ -554,6 +562,12 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26hq-inference"></a>[PlugGuard: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hq)
 - <a id="li26ia-inference"></a>[From Historical Patches to Repair Plans: Outcome-Conditioned Reasoning for Repository-Level Program Repair](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ia)
 - <a id="li26ig-inference"></a>[GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ig)
+- <a id="li26jm-inference"></a>[ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jm)
+- <a id="li26jx-inference"></a>[Beyond Logits: Metastable Latent Dynamics for Sample-Efficient Best-of-N Selection in LLMs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jx)
+- <a id="liang26b-inference"></a>[PLANTAIN: Plan-Answer Interleaved Reasoning](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26b)
+- <a id="liang26t-inference"></a>[Strategy Executability in Mathematical Reasoning: Leveraging Human–Model Differences for Effective Guidance](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26t)
+- <a id="liang26v-inference"></a>[FOCUS: DLLMs Know How to Tame Their Compute Bound](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26v)
+- <a id="liao26c-inference"></a>[AlphaRouter: Token-level Routing Between SLM and LLM with Reinforcement Learning and Tree Search](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26c)
 
 <a id="by-representation-learning"></a>
 
@@ -772,6 +786,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26ij-evaluation"></a>[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ij)
 - <a id="li26ir-evaluation"></a>[Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ir)
 - <a id="li26is-evaluation"></a>[Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents](../../conferences/icml-2026/cards/2601-2700.md#paper-li26is)
+- <a id="li26jl-evaluation"></a>[FT-Dojo: Towards Autonomous LLM Fine-Tuning with Language Agents](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jl)
+- <a id="li26jo-evaluation"></a>[State-Dependent Safety Failures in Multi-Turn Language Model Interaction](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jo)
+- <a id="liang26q-evaluation"></a>[REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26q)
 
 <a id="by-theory-statistics"></a>
 

@@ -43,6 +43,7 @@
 - [共享残差块的双流归一化](../conferences/icml-2026/cards/2401-2500.md#li26ba-architecture) · SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm
 - [用概率电路耦合同步解除掩码的词元](../conferences/icml-2026/cards/2501-2600.md#li26fd-architecture) · Breaking the Factorization Barrier in Diffusion Language Models
 - [让代理生成任务拓扑并用层级图保留上下文](../conferences/icml-2026/cards/2501-2600.md#li26gk-architecture) · OpenSage: Self-programming Agent Generation Engine
+- [让位置编码随上下文依赖重新排布](../conferences/icml-2026/cards/2601-2700.md#li26jq-architecture) · RePo: Language Models with Context Re-Positioning
 
 <a id="by-computer-vision"></a>
 
@@ -85,6 +86,9 @@
 - [在潜令牌上求解空间光谱融合](../conferences/icml-2026/cards/2501-2600.md#li26en-architecture) · Solving Spatial-Spectral Fusion with Latent Spectral Operators
 - [可识别虚拟人脸的身份绑定水印](../conferences/icml-2026/cards/2501-2600.md#li26gt-architecture) · Towards Trustworthy and Identifiable Virtual Face Generation
 - [以分层射线交点同时预测可见与遮挡表面](../conferences/icml-2026/cards/2601-2700.md#li26jg-architecture) · LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning
+- [共享波段前缀并连续查询空间分辨率](../conferences/icml-2026/cards/2601-2700.md#liang26c-architecture) · Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism
+- [把静态墨迹转成少步脉冲并压缩空白](../conferences/icml-2026/cards/2601-2700.md#liang26j-architecture) · Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition
+- [在世界坐标分开编辑人物轨迹和动作](../conferences/icml-2026/cards/2701-2800.md#liang26ad-architecture) · RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space
 
 <a id="by-nlp"></a>
 
@@ -144,6 +148,8 @@
 - [全景空间音频流式生成](../conferences/icml-2026/cards/2301-2400.md#lei26i-architecture) · Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer
 - [以主体身份查询把视频词元稀疏路由给对应参照](../conferences/icml-2026/cards/2501-2600.md#li26df-architecture) · DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation
 - [跨模态离散掩码的联合生成](../conferences/icml-2026/cards/2501-2600.md#li26dv-architecture) · Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion
+- [为脉冲多模态网络拆开时序与注意力设计](../conferences/icml-2026/cards/2601-2700.md#liang26i-architecture) · SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks
+- [用空频门预测缺失传感器特征](../conferences/icml-2026/cards/2601-2700.md#liang26k-architecture) · AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference
 
 <a id="by-ml-foundations"></a>
 
@@ -263,4 +269,7 @@
 - [用预训练 fMRI 解码器和状态提示重建脑活动](../conferences/icml-2026/cards/2501-2600.md#li26gp-architecture) · Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis
 - [以应力和内力为接口训练神经模拟器](../conferences/icml-2026/cards/2601-2700.md#li26ho-architecture) · Neural Modular Physics for Elastic Simulation
 - [让 CAD 程序用文字查询锚定边界基元](../conferences/icml-2026/cards/2601-2700.md#li26jd-architecture) · Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding
+- [用共享锚点近似细胞全局注意力](../conferences/icml-2026/cards/2601-2700.md#liang26a-architecture) · Bipartite Graph Attention-based Clustering for Large-scale scRNA-seq Data
+- [按判别频谱设定脉冲膜衰减](../conferences/icml-2026/cards/2701-2800.md#liao26e-architecture) · Frequency Matching in Spiking Neural Networks for mmWave Sensing
+- [部分可观测世界模型的流等变记忆](../conferences/icml-2026/cards/2701-2800.md#lillemark26a-architecture) · Flow Equivariant World Models: Structured Memory for Dynamic Environments
 <!-- classification:end -->

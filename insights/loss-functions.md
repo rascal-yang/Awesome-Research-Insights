@@ -31,6 +31,7 @@
 - [按解码方向筛选跨样本冗余激活](../conferences/icml-2026/cards/1901-2000.md#jin26j-loss-functions) · C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders
 - [剪枝语言模型的循环起点纠偏](../conferences/icml-2026/cards/2301-2400.md#lee26bb-loss-functions) · FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models
 - [按基座已有能力调节微调损失的低概率权重](../conferences/icml-2026/cards/2501-2600.md#li26ew-loss-functions) · Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum
+- [用任务条件学习困惑度偏好标签的置信度](../conferences/icml-2026/cards/2601-2700.md#li26jp-loss-functions) · Task-Aware Preference Calibration for Direct Preference Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -100,6 +101,7 @@
 - [用循环一致性约束未配对扩散桥](../conferences/icml-2026/cards/2201-2300.md#kosman26a-loss-functions) · Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges
 - [用双重归一化限制错标梯度](../conferences/icml-2026/cards/2501-2600.md#li26er-loss-functions) · Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models
 - [用相关负类监督视觉词元做密集预测](../conferences/icml-2026/cards/2501-2600.md#li26fg-loss-functions) · DenseMLLM: Standard Multimodal LLMs for Dense Prediction
+- [未量化潜变量对语音解码器的自指导](../conferences/icml-2026/cards/2601-2700.md#li26jy-loss-functions) · Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment
 
 <a id="by-ml-foundations"></a>
 

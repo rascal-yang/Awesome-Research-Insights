@@ -111,6 +111,8 @@
 - [按累积梯度能量估计逐令牌基线](../conferences/icml-2026/cards/2601-2700.md#li26hy-reinforcement-learning) · The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL
 - [把动态社交提示当作对抗赌博机策略臂](../conferences/icml-2026/cards/2601-2700.md#li26il-reinforcement-learning) · ALSO: Adversarial Online Strategy Optimization for Social Agents
 - [用真实执行与细项规则联合训练 GPU 编码代理](../conferences/icml-2026/cards/2601-2700.md#li26jc-reinforcement-learning) · StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning
+- [用轨迹对集合多样性的边际贡献塑造策略优势](../conferences/icml-2026/cards/2601-2700.md#li26jk-reinforcement-learning) · SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning
+- [可学习的推理分叉与汇合](../conferences/icml-2026/cards/2601-2700.md#lian26b-reinforcement-learning) · ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -221,6 +223,10 @@
 - [按旧策略概率分配 token 的信赖域预算](../conferences/icml-2026/cards/2501-2600.md#li26gm-reinforcement-learning) · BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning
 - [用角色条件观测划分训练共享扩散策略](../conferences/icml-2026/cards/2601-2700.md#li26it-reinforcement-learning) · Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization
 - [用因果最坏情形目标训练离线流策略](../conferences/icml-2026/cards/2601-2700.md#li26ja-reinforcement-learning) · Causal Flow Q-Learning for Robust Offline Reinforcement Learning
+- [在线多智能体扩散的联合熵下界](../conferences/icml-2026/cards/2601-2700.md#li26jv-reinforcement-learning) · Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies
+- [在可预测的行为距离上奖励探索](../conferences/icml-2026/cards/2601-2700.md#liang26o-reinforcement-learning) · Task-Aware Exploration via a Predictive Bisimulation Metric
+- [从离线轨迹发现下一处必经瓶颈](../conferences/icml-2026/cards/2701-2800.md#liang26r-reinforcement-learning) · Bottleneck-Guided Spectral Subgoals For Offline Goal-Conditioned RL
+- [让价值更新与动作承诺窗口同长](../conferences/icml-2026/cards/2701-2800.md#liang26s-reinforcement-learning) · Implicit Action Chunking for Smooth Continuous Control
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -235,6 +241,8 @@
 - [以有方向的运动代价和尾部风险训练策略](../conferences/icml-2026/cards/1501-1600.md#hossain26a-reinforcement-learning) · Learning Anisotropic Value Geometry with Finsler Reinforcement Learning
 - [将动作去噪向量场限制为标量能量梯度](../conferences/icml-2026/cards/1801-1900.md#ji26e-reinforcement-learning) · Recovering Hidden Reward in Diffusion-Based Policies
 - [动作策略的潜在推理](../conferences/icml-2026/cards/2301-2400.md#lei26e-reinforcement-learning) · Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models
+- [根据飞控与导航的联合运行反馈调度任务](../conferences/icml-2026/cards/2601-2700.md#li26jr-reinforcement-learning) · UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning
+- [面向导航目标的鸟瞰地图学习](../conferences/icml-2026/cards/2601-2700.md#lian26c-reinforcement-learning) · MapDream: Task-Driven Map Learning for Vision-Language Navigation
 
 <a id="by-multimodal"></a>
 
@@ -266,6 +274,9 @@
 - [按感知和推理难度共享归一化尺度](../conferences/icml-2026/cards/2401-2500.md#li26ap-reinforcement-learning) · Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization
 - [视觉推理的可学习感知轨迹](../conferences/icml-2026/cards/2401-2500.md#li26at-reinforcement-learning) · Perceptual Flow Network for Visually Grounded Reasoning
 - [用歧义触发证据工具并单独优化调用](../conferences/icml-2026/cards/2601-2700.md#li26ip-reinforcement-learning) · FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning
+- [在临床长视频中按证据收益调用粗到细工具](../conferences/icml-2026/cards/2601-2700.md#li26jj-reinforcement-learning) · MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling
+- [扩散多模态策略的引导采样与互补掩码](../conferences/icml-2026/cards/2601-2700.md#li26jz-reinforcement-learning) · Lavida-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models
+- [先查证开放事实再提示视频分割](../conferences/icml-2026/cards/2601-2700.md#liang26g-reinforcement-learning) · Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search
 
 <a id="by-ml-foundations"></a>
 

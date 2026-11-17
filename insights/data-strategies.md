@@ -45,6 +45,7 @@
 - [先定义专家推理步骤再用证据改写监督](../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · Toward Cybersecurity-Expert Small Language Models
 - [容量感知的数据配比定律](../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization
 - [瞄准稀疏字典中的数据空缺](../conferences/icml-2026/cards/2601-2700.md#li26hl-data-strategies) · Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders
+- [用合并成分模型评估预训练数据配比](../conferences/icml-2026/cards/2601-2700.md#li26jt-data-strategies) · Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training
 
 <a id="by-computer-vision"></a>
 
@@ -62,6 +63,7 @@
 - [沿正常特征低方差方向造难负例](../conferences/icml-2026/cards/2001-2100.md#karzanov26a-data-strategies) · Geometrically Constrained Outlier Synthesis
 - [乘积流形上的数据集蒸馏](../conferences/icml-2026/cards/2501-2600.md#li26ea-data-strategies) · GeoDM: Geometry-aware Distribution Matching for Dataset Distillation
 - [按最差分类间隔蒸馏数据](../conferences/icml-2026/cards/2501-2600.md#li26ec-data-strategies) · Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?
+- [用带符号熵轨迹识别错误图像标签](../conferences/icml-2026/cards/2601-2700.md#li26ju-data-strategies) · On Revisiting Entropy for Identifying Mislabeled Images
 
 <a id="by-nlp"></a>
 
@@ -94,6 +96,7 @@
 - [人形运动跟踪的可行性与难度选样](../conferences/icml-2026/cards/1301-1400.md#guan26f-data-strategies) · LIMMT: Less Is More for Motion Tracking
 - [固定动作几何并按覆盖选择模拟视频改写](../conferences/icml-2026/cards/1701-1800.md#hui26b-data-strategies) · Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation
 - [以仿真重放跨机器人改写同一示范](../conferences/icml-2026/cards/1801-1900.md#ji26g-data-strategies) · OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning
+- [分别模拟深度像素失效和值误差](../conferences/icml-2026/cards/2601-2700.md#liang26n-data-strategies) · PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration
 
 <a id="by-multimodal"></a>
 
@@ -164,4 +167,5 @@
 - [单细胞训练的块采样与批量预取](../conferences/icml-2026/cards/0801-0900.md#d-ascenzo26a-data-strategies) · scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics
 - [用同步心电和呼吸筛选 PPG 对比样本](../conferences/icml-2026/cards/1201-1300.md#geenjaar26a-data-strategies) · A robust PPG foundation model using multimodal physiological supervision
 - [在分布变化更快的内在时间上选择采样点](../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · Active Timepoint Selection for Learning Measure-Valued Trajectories
+- [用几何投影约束血管造影的狭窄编辑](../conferences/icml-2026/cards/2601-2700.md#li26jn-data-strategies) · Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport
 <!-- classification:end -->

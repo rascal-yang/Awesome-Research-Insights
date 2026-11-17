@@ -43,6 +43,7 @@ Model-wide design and information flow.
 - [SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm](../../conferences/icml-2026/cards/2401-2500.md#li26ba-architecture) · 中文
 - [Breaking the Factorization Barrier in Diffusion Language Models](../../conferences/icml-2026/cards/2501-2600.md#li26fd-architecture) · 中文
 - [OpenSage: Self-programming Agent Generation Engine](../../conferences/icml-2026/cards/2501-2600.md#li26gk-architecture) · 中文
+- [RePo: Language Models with Context Re-Positioning](../../conferences/icml-2026/cards/2601-2700.md#li26jq-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -85,6 +86,9 @@ Model-wide design and information flow.
 - [Solving Spatial-Spectral Fusion with Latent Spectral Operators](../../conferences/icml-2026/cards/2501-2600.md#li26en-architecture) · 中文
 - [Towards Trustworthy and Identifiable Virtual Face Generation](../../conferences/icml-2026/cards/2501-2600.md#li26gt-architecture) · 中文
 - [LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning](../../conferences/icml-2026/cards/2601-2700.md#li26jg-architecture) · 中文
+- [Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism](../../conferences/icml-2026/cards/2601-2700.md#liang26c-architecture) · 中文
+- [Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition](../../conferences/icml-2026/cards/2601-2700.md#liang26j-architecture) · 中文
+- [RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space](../../conferences/icml-2026/cards/2701-2800.md#liang26ad-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -144,6 +148,8 @@ Model-wide design and information flow.
 - [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](../../conferences/icml-2026/cards/2301-2400.md#lei26i-architecture) · 中文
 - [DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation](../../conferences/icml-2026/cards/2501-2600.md#li26df-architecture) · 中文
 - [Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](../../conferences/icml-2026/cards/2501-2600.md#li26dv-architecture) · 中文
+- [SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks](../../conferences/icml-2026/cards/2601-2700.md#liang26i-architecture) · 中文
+- [AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference](../../conferences/icml-2026/cards/2601-2700.md#liang26k-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -263,4 +269,7 @@ Model-wide design and information flow.
 - [Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis](../../conferences/icml-2026/cards/2501-2600.md#li26gp-architecture) · 中文
 - [Neural Modular Physics for Elastic Simulation](../../conferences/icml-2026/cards/2601-2700.md#li26ho-architecture) · 中文
 - [Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding](../../conferences/icml-2026/cards/2601-2700.md#li26jd-architecture) · 中文
+- [Bipartite Graph Attention-based Clustering for Large-scale scRNA-seq Data](../../conferences/icml-2026/cards/2601-2700.md#liang26a-architecture) · 中文
+- [Frequency Matching in Spiking Neural Networks for mmWave Sensing](../../conferences/icml-2026/cards/2701-2800.md#liao26e-architecture) · 中文
+- [Flow Equivariant World Models: Structured Memory for Dynamic Environments](../../conferences/icml-2026/cards/2701-2800.md#lillemark26a-architecture) · 中文
 <!-- classification:end -->

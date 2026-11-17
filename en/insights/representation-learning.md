@@ -55,6 +55,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin](../../conferences/icml-2026/cards/2101-2200.md#kim26bx-representation-learning) · 中文
 - [Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds](../../conferences/icml-2026/cards/2101-2200.md#kong26b-representation-learning) · 中文
 - [Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers](../../conferences/icml-2026/cards/2301-2400.md#lee26l-representation-learning) · 中文
+- [Rethinking Temporal Consistency in Video Object-Centric Learning: From Prediction to Correspondence](../../conferences/icml-2026/cards/2601-2700.md#li26js-representation-learning) · 中文
+- [CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization](../../conferences/icml-2026/cards/2601-2700.md#liang26h-representation-learning) · 中文
+- [VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](../../conferences/icml-2026/cards/2701-2800.md#liang26w-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -115,6 +118,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification](../../conferences/icml-2026/cards/2401-2500.md#li26by-representation-learning) · 中文
 - [Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](../../conferences/icml-2026/cards/2401-2500.md#li26ca-representation-learning) · 中文
 - [From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](../../conferences/icml-2026/cards/2601-2700.md#li26hc-representation-learning) · 中文
+- [Prototype-guided Bilateral Alignment Multimodal Federated Learning](../../conferences/icml-2026/cards/2701-2800.md#liao26b-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -150,6 +154,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Towards One-for-All Anomaly Detection for Tabular Data](../../conferences/icml-2026/cards/2501-2600.md#li26du-representation-learning) · 中文
 - [An Asymmetric Latent Factorization-of-Tensors Model for Relation Analysis](../../conferences/icml-2026/cards/2501-2600.md#li26fh-representation-learning) · 中文
 - [Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](../../conferences/icml-2026/cards/2501-2600.md#li26fu-representation-learning) · 中文
+- [QuITE: Query-Based Irregular Time Series Embedding](../../conferences/icml-2026/cards/2701-2800.md#lim26b-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -175,6 +180,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [View Space: Learning Representation across Arbitrary Graphs](../../conferences/icml-2026/cards/2301-2400.md#lee26ah-representation-learning) · 中文
 - [CELL: A Causal Perspective for Fairness-aware Graph Adaptation](../../conferences/icml-2026/cards/2501-2600.md#li26gu-representation-learning) · 中文
 - [Graph is a Substrate Across Data Modalities](../../conferences/icml-2026/cards/2601-2700.md#li26hm-representation-learning) · 中文
+- [CL-GCL: Comprehensive and Lightweight Graph Contrastive Learning](../../conferences/icml-2026/cards/2701-2800.md#liang26y-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -219,4 +225,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective](../../conferences/icml-2026/cards/2501-2600.md#li26fo-representation-learning) · 中文
 - [Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion](../../conferences/icml-2026/cards/2501-2600.md#li26gl-representation-learning) · 中文
 - [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](../../conferences/icml-2026/cards/2601-2700.md#li26ha-representation-learning) · 中文
+- [LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation](../../conferences/icml-2026/cards/2701-2800.md#liang26aa-representation-learning) · 中文
 <!-- classification:end -->

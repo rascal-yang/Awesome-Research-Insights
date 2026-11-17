@@ -69,6 +69,8 @@
 - [先正交化矩阵更新，再按神经元二阶矩归一](../conferences/icml-2026/cards/2501-2600.md#li26dh-optimization) · NorMuon: Making Muon more efficient and scalable
 - [量化训练在近平坦鞍点的加速](../conferences/icml-2026/cards/2501-2600.md#li26dr-optimization) · WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points
 - [压缩激活时保留主方向并无偏估计谱尾部](../conferences/icml-2026/cards/2601-2700.md#li26je-optimization) · PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training
+- [在效用零空间内跨语种编辑安全方向](../conferences/icml-2026/cards/2701-2800.md#liang26x-optimization) · Multilingual Safety Alignment Via Sparse Weight Editing
+- [激活协方差引导的线性层量化](../conferences/icml-2026/cards/2701-2800.md#lifar26a-optimization) · WaterSIC: Information-Theoretically (Near) Optimal Linear Layer Quantization
 
 <a id="by-computer-vision"></a>
 
@@ -123,6 +125,8 @@
 - [多模态检测的跨阶段融合搜索](../conferences/icml-2026/cards/1201-1300.md#gao26an-optimization) · MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection
 - [持续低秩适配的谱均衡约束](../conferences/icml-2026/cards/1301-1400.md#gu26i-optimization) · Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation
 - [在奇异子空间选择注入哪些推理能力](../conferences/icml-2026/cards/1701-1800.md#huang26bu-optimization) · FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models
+- [按模态维护编辑约束并在固定低秩空间递推](../conferences/icml-2026/cards/2601-2700.md#li26ji-optimization) · Modality-Decoupled Online Recursive Editing
+- [用完整增量对齐联邦低秩适配器聚合](../conferences/icml-2026/cards/2701-2800.md#liang26ab-optimization) · UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation
 
 <a id="by-ml-foundations"></a>
 
@@ -284,6 +288,9 @@
 - [异步联邦持续学习的双重漂移校准](../conferences/icml-2026/cards/2501-2600.md#li26gx-optimization) · Cross-task Calibration for Asynchronous Federated Continual Learning
 - [用 Pareto 集匹配概率选择高质量多样批次](../conferences/icml-2026/cards/2601-2700.md#li26iu-optimization) · Probability of Matching for Batch Multi-Objective Bayesian Optimization
 - [耦合剪裁与偏移阈值消除 DP 解偏差](../conferences/icml-2026/cards/2601-2700.md#li26iy-optimization) · Eliminating Solution Bias in Differentially Private Optimization
+- [在低精度优化中配合尺度与加法更新](../conferences/icml-2026/cards/2701-2800.md#liang26p-optimization) · M+Adam: Low-Precision Training via Additive–Multiplicative Optimization
+- [用衰减梯度缓冲复用循环坐标差分](../conferences/icml-2026/cards/2701-2800.md#liang26u-optimization) · Turning Stale Gradients into Stable Gradients: Coherent Coordinate Descent with Implicit Landscape Smoothing for Lightweight Zeroth-Order Optimization
+- [保留正半定结构的可学习拟牛顿预条件](../conferences/icml-2026/cards/2701-2800.md#lifshitz26a-optimization) · L-SR1: Learned Symmetric-Rank-One Preconditioning
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -304,6 +311,7 @@
 - [动态图只在查询时抽取聚类核心集](../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · Fully Dynamic Coreset Spectral Clustering
 - [在每轮 PageRank 扩散后投影公平约束](../conferences/icml-2026/cards/2001-2100.md#kariotakis26a-optimization) · FairRARI: A Plug and Play Framework for Fairness-Aware PageRank
 - [经粗化邻域限制新增节点的结构学习](../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s
+- [动态图曝光下的反事实公平控制](../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs
 
 <a id="by-scientific-ml"></a>
 
@@ -328,4 +336,5 @@
 - [沿神经活动主方向施加信用分配噪声](../conferences/icml-2026/cards/2001-2100.md#kang26n-optimization) · Credit Assignment via Neural Manifold Noise Correlation
 - [用两条流拆分分子生成与完成概率](../conferences/icml-2026/cards/2001-2100.md#kim26j-optimization) · LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition
 - [用局部消元三元组限制稀疏填充](../conferences/icml-2026/cards/2501-2600.md#li26el-optimization) · Causal Structure Learning for Sparse Matrix Fill-in Reduction
+- [用残差预测稀疏线性校正子空间](../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems
 <!-- classification:end -->

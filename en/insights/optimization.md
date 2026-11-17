@@ -69,6 +69,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [NorMuon: Making Muon more efficient and scalable](../../conferences/icml-2026/cards/2501-2600.md#li26dh-optimization) · 中文
 - [WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points](../../conferences/icml-2026/cards/2501-2600.md#li26dr-optimization) · 中文
 - [PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training](../../conferences/icml-2026/cards/2601-2700.md#li26je-optimization) · 中文
+- [Multilingual Safety Alignment Via Sparse Weight Editing](../../conferences/icml-2026/cards/2701-2800.md#liang26x-optimization) · 中文
+- [WaterSIC: Information-Theoretically (Near) Optimal Linear Layer Quantization](../../conferences/icml-2026/cards/2701-2800.md#lifar26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -123,6 +125,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](../../conferences/icml-2026/cards/1201-1300.md#gao26an-optimization) · 中文
 - [Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation](../../conferences/icml-2026/cards/1301-1400.md#gu26i-optimization) · 中文
 - [FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26bu-optimization) · 中文
+- [Modality-Decoupled Online Recursive Editing](../../conferences/icml-2026/cards/2601-2700.md#li26ji-optimization) · 中文
+- [UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation](../../conferences/icml-2026/cards/2701-2800.md#liang26ab-optimization) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -284,6 +288,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Cross-task Calibration for Asynchronous Federated Continual Learning](../../conferences/icml-2026/cards/2501-2600.md#li26gx-optimization) · 中文
 - [Probability of Matching for Batch Multi-Objective Bayesian Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26iu-optimization) · 中文
 - [Eliminating Solution Bias in Differentially Private Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26iy-optimization) · 中文
+- [M+Adam: Low-Precision Training via Additive–Multiplicative Optimization](../../conferences/icml-2026/cards/2701-2800.md#liang26p-optimization) · 中文
+- [Turning Stale Gradients into Stable Gradients: Coherent Coordinate Descent with Implicit Landscape Smoothing for Lightweight Zeroth-Order Optimization](../../conferences/icml-2026/cards/2701-2800.md#liang26u-optimization) · 中文
+- [L-SR1: Learned Symmetric-Rank-One Preconditioning](../../conferences/icml-2026/cards/2701-2800.md#lifshitz26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -304,6 +311,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Fully Dynamic Coreset Spectral Clustering](../../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · 中文
 - [FairRARI: A Plug and Play Framework for Fairness-Aware PageRank](../../conferences/icml-2026/cards/2001-2100.md#kariotakis26a-optimization) · 中文
 - [GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · 中文
+- [COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -328,4 +336,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Credit Assignment via Neural Manifold Noise Correlation](../../conferences/icml-2026/cards/2001-2100.md#kang26n-optimization) · 中文
 - [LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition](../../conferences/icml-2026/cards/2001-2100.md#kim26j-optimization) · 中文
 - [Causal Structure Learning for Sparse Matrix Fill-in Reduction](../../conferences/icml-2026/cards/2501-2600.md#li26el-optimization) · 中文
+- [G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · 中文
 <!-- classification:end -->

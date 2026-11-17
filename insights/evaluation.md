@@ -214,6 +214,9 @@
 - [按环境状态测复杂工具任务](../conferences/icml-2026/cards/2601-2700.md#li26ij-evaluation) · ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox
 - [用跨步解码依赖作为扩散模型指纹](../conferences/icml-2026/cards/2601-2700.md#li26ir-evaluation) · Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs
 - [在工具接入时用模拟多轮测试生成安全经验](../conferences/icml-2026/cards/2601-2700.md#li26is-evaluation) · Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents
+- [把端到端语言模型微调做成有反馈的代理任务](../conferences/icml-2026/cards/2601-2700.md#li26jl-evaluation) · FT-Dojo: Towards Autonomous LLM Fine-Tuning with Language Agents
+- [沿对话轨迹诊断安全状态的累积漂移](../conferences/icml-2026/cards/2601-2700.md#li26jo-evaluation) · State-Dependent Safety Failures in Multi-Turn Language Model Interaction
+- [分别核验事实错误与改写语义](../conferences/icml-2026/cards/2701-2800.md#liang26q-evaluation) · REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations
 
 <a id="by-computer-vision"></a>
 
@@ -257,6 +260,8 @@
 - [沿稀疏概念电路读出并编辑视觉模型](../conferences/icml-2026/cards/2401-2500.md#li26s-evaluation) · Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers
 - [用扩散特征污染率监测记忆](../conferences/icml-2026/cards/2401-2500.md#li26br-evaluation) · Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles
 - [用可实现的物体组合排查 LiDAR 漏检](../conferences/icml-2026/cards/2601-2700.md#li26he-evaluation) · OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects
+- [用频率对照检验扩散模型的成员泄漏](../conferences/icml-2026/cards/2601-2700.md#lian26a-evaluation) · Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective
+- [诊断潜空间曲率与可见细节失配](../conferences/icml-2026/cards/2601-2700.md#liang26d-evaluation) · Geometric Decoupling: Diagnosing the Structural Instability of Latent
 
 <a id="by-nlp"></a>
 
@@ -364,6 +369,7 @@
 - [观察者中心的空间评测](../conferences/icml-2026/cards/2401-2500.md#li26bb-evaluation) · SAW-Bench: Learning Situated Awareness in the Real World
 - [单一扰动的语义依赖攻击评测](../conferences/icml-2026/cards/2401-2500.md#li26co-evaluation) · Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation
 - [把图表编辑拆为局部样式与全局数据变换](../conferences/icml-2026/cards/2501-2600.md#li26fr-evaluation) · ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing
+- [视觉语言模型的联合图文红队评估](../conferences/icml-2026/cards/2701-2800.md#liao26d-evaluation) · VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

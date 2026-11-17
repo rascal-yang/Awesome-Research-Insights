@@ -29,6 +29,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lei26i-architecture"></a>[Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26i)
 - <a id="li26df-architecture"></a>[DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation](../../conferences/icml-2026/cards/2501-2600.md#paper-li26df)
 - <a id="li26dv-architecture"></a>[Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dv)
+- <a id="liang26i-architecture"></a>[SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26i)
+- <a id="liang26k-architecture"></a>[AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26k)
 
 <a id="by-modules"></a>
 
@@ -47,6 +49,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="kowsher26a-modules"></a>[LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](../../conferences/icml-2026/cards/2201-2300.md#paper-kowsher26a)
 - <a id="li26j-modules"></a>[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26j)
 - <a id="li26io-modules"></a>[SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](../../conferences/icml-2026/cards/2601-2700.md#paper-li26io)
+- <a id="lim26a-modules"></a>[Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity](../../conferences/icml-2026/cards/2701-2800.md#paper-lim26a)
 
 <a id="by-loss-functions"></a>
 
@@ -69,6 +72,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="kosman26a-loss-functions"></a>[Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges](../../conferences/icml-2026/cards/2201-2300.md#paper-kosman26a)
 - <a id="li26er-loss-functions"></a>[Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models](../../conferences/icml-2026/cards/2501-2600.md#paper-li26er)
 - <a id="li26fg-loss-functions"></a>[DenseMLLM: Standard Multimodal LLMs for Dense Prediction](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fg)
+- <a id="li26jy-loss-functions"></a>[Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jy)
 
 <a id="by-optimization"></a>
 
@@ -77,6 +81,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="gao26an-optimization"></a>[MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26an)
 - <a id="gu26i-optimization"></a>[Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26i)
 - <a id="huang26bu-optimization"></a>[FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bu)
+- <a id="li26ji-optimization"></a>[Modality-Decoupled Online Recursive Editing](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ji)
+- <a id="liang26ab-optimization"></a>[UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26ab)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -108,6 +114,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26ap-reinforcement-learning"></a>[Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ap)
 - <a id="li26at-reinforcement-learning"></a>[Perceptual Flow Network for Visually Grounded Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26at)
 - <a id="li26ip-reinforcement-learning"></a>[FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ip)
+- <a id="li26jj-reinforcement-learning"></a>[MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jj)
+- <a id="li26jz-reinforcement-learning"></a>[Lavida-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jz)
+- <a id="liang26g-reinforcement-learning"></a>[Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26g)
 
 <a id="by-training-strategies"></a>
 
@@ -144,6 +153,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26ic-training-strategies"></a>[IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ic)
 - <a id="li26ie-training-strategies"></a>[Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ie)
 - <a id="li26im-training-strategies"></a>[Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](../../conferences/icml-2026/cards/2601-2700.md#paper-li26im)
+- <a id="liang26ac-training-strategies"></a>[Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26ac)
 
 <a id="by-data-strategies"></a>
 
@@ -257,6 +267,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26by-representation-learning"></a>[Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification](../../conferences/icml-2026/cards/2401-2500.md#paper-li26by)
 - <a id="li26ca-representation-learning"></a>[Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ca)
 - <a id="li26hc-representation-learning"></a>[From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hc)
+- <a id="liao26b-representation-learning"></a>[Prototype-guided Bilateral Alignment Multimodal Federated Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26b)
 
 <a id="by-evaluation"></a>
 
@@ -315,6 +326,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26bb-evaluation"></a>[SAW-Bench: Learning Situated Awareness in the Real World](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bb)
 - <a id="li26co-evaluation"></a>[Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26co)
 - <a id="li26fr-evaluation"></a>[ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fr)
+- <a id="liao26d-evaluation"></a>[VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26d)
 
 <a id="by-theory-statistics"></a>
 

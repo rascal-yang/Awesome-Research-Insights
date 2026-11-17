@@ -111,6 +111,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL](../../conferences/icml-2026/cards/2601-2700.md#li26hy-reinforcement-learning) · 中文
 - [ALSO: Adversarial Online Strategy Optimization for Social Agents](../../conferences/icml-2026/cards/2601-2700.md#li26il-reinforcement-learning) · 中文
 - [StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26jc-reinforcement-learning) · 中文
+- [SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning](../../conferences/icml-2026/cards/2601-2700.md#li26jk-reinforcement-learning) · 中文
+- [ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models](../../conferences/icml-2026/cards/2601-2700.md#lian26b-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -221,6 +223,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#li26gm-reinforcement-learning) · 中文
 - [Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26it-reinforcement-learning) · 中文
 - [Causal Flow Q-Learning for Robust Offline Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26ja-reinforcement-learning) · 中文
+- [Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](../../conferences/icml-2026/cards/2601-2700.md#li26jv-reinforcement-learning) · 中文
+- [Task-Aware Exploration via a Predictive Bisimulation Metric](../../conferences/icml-2026/cards/2601-2700.md#liang26o-reinforcement-learning) · 中文
+- [Bottleneck-Guided Spectral Subgoals For Offline Goal-Conditioned RL](../../conferences/icml-2026/cards/2701-2800.md#liang26r-reinforcement-learning) · 中文
+- [Implicit Action Chunking for Smooth Continuous Control](../../conferences/icml-2026/cards/2701-2800.md#liang26s-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -235,6 +241,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning Anisotropic Value Geometry with Finsler Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hossain26a-reinforcement-learning) · 中文
 - [Recovering Hidden Reward in Diffusion-Based Policies](../../conferences/icml-2026/cards/1801-1900.md#ji26e-reinforcement-learning) · 中文
 - [Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../../conferences/icml-2026/cards/2301-2400.md#lei26e-reinforcement-learning) · 中文
+- [UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26jr-reinforcement-learning) · 中文
+- [MapDream: Task-Driven Map Learning for Vision-Language Navigation](../../conferences/icml-2026/cards/2601-2700.md#lian26c-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -266,6 +274,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization](../../conferences/icml-2026/cards/2401-2500.md#li26ap-reinforcement-learning) · 中文
 - [Perceptual Flow Network for Visually Grounded Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26at-reinforcement-learning) · 中文
 - [FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26ip-reinforcement-learning) · 中文
+- [MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling](../../conferences/icml-2026/cards/2601-2700.md#li26jj-reinforcement-learning) · 中文
+- [Lavida-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](../../conferences/icml-2026/cards/2601-2700.md#li26jz-reinforcement-learning) · 中文
+- [Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search](../../conferences/icml-2026/cards/2601-2700.md#liang26g-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

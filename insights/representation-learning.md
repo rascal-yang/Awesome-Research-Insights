@@ -55,6 +55,9 @@
 - [在有界码本内用角边际拉开量化方向](../conferences/icml-2026/cards/2101-2200.md#kim26bx-representation-learning) · ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin
 - [让符号相位与距离场各自学习再耦合](../conferences/icml-2026/cards/2101-2200.md#kong26b-representation-learning) · Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds
 - [用共享合并树对齐多种生成长度](../conferences/icml-2026/cards/2301-2400.md#lee26l-representation-learning) · Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers
+- [用离散对应替代视频对象槽的学习式动力学](../conferences/icml-2026/cards/2601-2700.md#li26js-representation-learning) · Rethinking Temporal Consistency in Video Object-Centric Learning: From Prediction to Correspondence
+- [按关系不确定性稀疏化场景图](../conferences/icml-2026/cards/2601-2700.md#liang26h-representation-learning) · CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization
+- [用持久节点上的稀疏状态差分生成矢量动画](../conferences/icml-2026/cards/2701-2800.md#liang26w-representation-learning) · VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation
 
 <a id="by-nlp"></a>
 
@@ -115,6 +118,7 @@
 - [用双曲层级表征对齐红外与可见轨迹](../conferences/icml-2026/cards/2401-2500.md#li26by-representation-learning) · Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification
 - [分开估计长视频检索的跨样本歧义和片段噪声](../conferences/icml-2026/cards/2401-2500.md#li26ca-representation-learning) · Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval
 - [文本线索向时序演化原语的映射](../conferences/icml-2026/cards/2601-2700.md#li26hc-representation-learning) · From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space
+- [异构联邦中的特征与决策原型](../conferences/icml-2026/cards/2701-2800.md#liao26b-representation-learning) · Prototype-guided Bilateral Alignment Multimodal Federated Learning
 
 <a id="by-ml-foundations"></a>
 
@@ -150,6 +154,7 @@
 - [跨表格域的统一异常距离特征](../conferences/icml-2026/cards/2501-2600.md#li26du-representation-learning) · Towards One-for-All Anomaly Detection for Tabular Data
 - [根据模态内部拓扑约束张量分解](../conferences/icml-2026/cards/2501-2600.md#li26fh-representation-learning) · An Asymmetric Latent Factorization-of-Tensors Model for Relation Analysis
 - [让每个历史窗口产生自己的可变参数先验](../conferences/icml-2026/cards/2501-2600.md#li26fu-representation-learning) · Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting
+- [查询聚合不规则观测的时序嵌入](../conferences/icml-2026/cards/2701-2800.md#lim26b-representation-learning) · QuITE: Query-Based Irregular Time Series Embedding
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -175,6 +180,7 @@
 - [把同一节点特征跨传播算子的视图交给共享映射](../conferences/icml-2026/cards/2301-2400.md#lee26ah-representation-learning) · View Space: Learning Representation across Arbitrary Graphs
 - [跨图域适配的敏感因素拆分](../conferences/icml-2026/cards/2501-2600.md#li26gu-representation-learning) · CELL: A Causal Perspective for Fairness-aware Graph Adaptation
 - [跨模态图作为可复用中间状态](../conferences/icml-2026/cards/2601-2700.md#li26hm-representation-learning) · Graph is a Substrate Across Data Modalities
+- [用社区粗化中心组织图对比学习](../conferences/icml-2026/cards/2701-2800.md#liang26y-representation-learning) · CL-GCL: Comprehensive and Lightweight Graph Contrastive Learning
 
 <a id="by-scientific-ml"></a>
 
@@ -219,4 +225,5 @@
 - [编辑稀疏化学特征控制分子生成](../conferences/icml-2026/cards/2501-2600.md#li26fo-representation-learning) · Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective
 - [从短轨迹扩散生成环境专用算子权重](../conferences/icml-2026/cards/2501-2600.md#li26gl-representation-learning) · Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion
 - [神经群体动力学的组间独立分解](../conferences/icml-2026/cards/2601-2700.md#li26ha-representation-learning) · A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity
+- [从演化祖先概率初始化蛋白生成](../conferences/icml-2026/cards/2701-2800.md#liang26aa-representation-learning) · LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation
 <!-- classification:end -->

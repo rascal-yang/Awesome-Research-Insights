@@ -409,6 +409,9 @@
 - [用输出切向量的随机投影刻画零阶误差](../conferences/icml-2026/cards/2601-2700.md#li26in-theory-statistics) · Learning Dynamics of Zeroth-Order Optimization: A Kernel Perspective
 - [用自适应控制变量降低半值近似方差](../conferences/icml-2026/cards/2601-2700.md#li26iq-theory-statistics) · Adalina: Adaptive Linear Approximation for the Shapley Value and Beyond
 - [用单个噪声下的闭包维数刻画极限生成](../conferences/icml-2026/cards/2601-2700.md#li26jb-theory-statistics) · Characterizing the Effect of Noise in Language Generation in the Limit
+- [用后验相对提升选稀疏信号](../conferences/icml-2026/cards/2601-2700.md#liang26e-theory-statistics) · An Evidential Route to Asymptotic Bayes Optimality under Sparsity
+- [把多处理平衡变成联合依赖约束](../conferences/icml-2026/cards/2601-2700.md#liang26f-theory-statistics) · Causal Representation Learning with Optimal Compression under Complex Treatments
+- [多均衡自动竞价的诚实申报判据](../conferences/icml-2026/cards/2701-2800.md#liaw26a-theory-statistics) · Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding
 
 <a id="by-graph-and-recommendation"></a>
 

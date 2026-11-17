@@ -50,6 +50,9 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26en-architecture"></a>[Solving Spatial-Spectral Fusion with Latent Spectral Operators](../../conferences/icml-2026/cards/2501-2600.md#paper-li26en)
 - <a id="li26gt-architecture"></a>[Towards Trustworthy and Identifiable Virtual Face Generation](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gt)
 - <a id="li26jg-architecture"></a>[LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jg)
+- <a id="liang26c-architecture"></a>[Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26c)
+- <a id="liang26j-architecture"></a>[Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26j)
+- <a id="liang26ad-architecture"></a>[RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26ad)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -80,6 +83,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26cn-modules"></a>[CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cn)
 - <a id="li26ff-modules"></a>[Bridging the Perceptual Gap: Residual-Enhanced Downscaling and Manifold-Aware Perception Alignment Adaptation for NR-IQA](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ff)
 - <a id="li26fi-modules"></a>[NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fi)
+- <a id="liang26z-modules"></a>[SceneDirector: Bridging Explicit Geometry and Generative Priors for Unified Driving Scene Editing](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26z)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -177,6 +181,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26gj-training-strategies"></a>[Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Editing via In-Context Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gj)
 - <a id="li26hp-training-strategies"></a>[Object-level Semantic and Spatial Distillation for Open Vocabulary Detection](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hp)
 - <a id="li26iw-training-strategies"></a>[AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iw)
+- <a id="li26ka-training-strategies"></a>[TransLight: Image-Guided Customized Lighting Control with Generative Decoupling](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ka)
+- <a id="liang26m-training-strategies"></a>[World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26m)
 
 <a id="by-data-strategies"></a>
 
@@ -194,6 +200,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="karzanov26a-data-strategies"></a>[Geometrically Constrained Outlier Synthesis](../../conferences/icml-2026/cards/2001-2100.md#paper-karzanov26a)
 - <a id="li26ea-data-strategies"></a>[GeoDM: Geometry-aware Distribution Matching for Dataset Distillation](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ea)
 - <a id="li26ec-data-strategies"></a>[Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ec)
+- <a id="li26ju-data-strategies"></a>[On Revisiting Entropy for Identifying Mislabeled Images](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ju)
 
 <a id="by-inference"></a>
 
@@ -261,6 +268,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26hx-inference"></a>[DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hx)
 - <a id="li26hz-inference"></a>[Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hz)
 - <a id="li26iv-inference"></a>[DiFA: Inference-Time Forward-Process Alignment for Diffusion Models](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iv)
+- <a id="li26jw-inference"></a>[Multi-Label Test-Time Adaptation with Bayesian Conditional Priors](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jw)
+- <a id="lijing26a-inference"></a>[KIStego: Key-Independent Secure Image Distribution via Bipartite Structural Invariants](../../conferences/icml-2026/cards/2701-2800.md#paper-lijing26a)
 
 <a id="by-representation-learning"></a>
 
@@ -296,6 +305,9 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="kim26bx-representation-learning"></a>[ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bx)
 - <a id="kong26b-representation-learning"></a>[Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26b)
 - <a id="lee26l-representation-learning"></a>[Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26l)
+- <a id="li26js-representation-learning"></a>[Rethinking Temporal Consistency in Video Object-Centric Learning: From Prediction to Correspondence](../../conferences/icml-2026/cards/2601-2700.md#paper-li26js)
+- <a id="liang26h-representation-learning"></a>[CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26h)
+- <a id="liang26w-representation-learning"></a>[VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26w)
 
 <a id="by-evaluation"></a>
 
@@ -339,6 +351,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26s-evaluation"></a>[Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](../../conferences/icml-2026/cards/2401-2500.md#paper-li26s)
 - <a id="li26br-evaluation"></a>[Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles](../../conferences/icml-2026/cards/2401-2500.md#paper-li26br)
 - <a id="li26he-evaluation"></a>[OBJVanish: Prompt-Driven Generation of Physically Realizable 3D LiDAR-Invisible Objects](../../conferences/icml-2026/cards/2601-2700.md#paper-li26he)
+- <a id="lian26a-evaluation"></a>[Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26a)
+- <a id="liang26d-evaluation"></a>[Geometric Decoupling: Diagnosing the Structural Instability of Latent](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26d)
 
 <a id="by-theory-statistics"></a>
 

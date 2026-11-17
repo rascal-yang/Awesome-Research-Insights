@@ -41,6 +41,7 @@ Reusable components and local changes to model inputs or connections.
 - [Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention](../../conferences/icml-2026/cards/2401-2500.md#li26cd-modules) · 中文
 - [FiX: Introducing Fine-grained Forget Gate into Softmax Attention](../../conferences/icml-2026/cards/2501-2600.md#li26dl-modules) · 中文
 - [Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers](../../conferences/icml-2026/cards/2601-2700.md#li26hj-modules) · 中文
+- [SpikingLM: Towards Fully Spiking Language Model](../../conferences/icml-2026/cards/2701-2800.md#liang26ae-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -71,6 +72,7 @@ Reusable components and local changes to model inputs or connections.
 - [CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cn-modules) · 中文
 - [Bridging the Perceptual Gap: Residual-Enhanced Downscaling and Manifold-Aware Perception Alignment Adaptation for NR-IQA](../../conferences/icml-2026/cards/2501-2600.md#li26ff-modules) · 中文
 - [NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams](../../conferences/icml-2026/cards/2501-2600.md#li26fi-modules) · 中文
+- [SceneDirector: Bridging Explicit Geometry and Generative Priors for Unified Driving Scene Editing](../../conferences/icml-2026/cards/2701-2800.md#liang26z-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -109,6 +111,7 @@ Reusable components and local changes to model inputs or connections.
 - [LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](../../conferences/icml-2026/cards/2201-2300.md#kowsher26a-modules) · 中文
 - [Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26j-modules) · 中文
 - [SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](../../conferences/icml-2026/cards/2601-2700.md#li26io-modules) · 中文
+- [Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity](../../conferences/icml-2026/cards/2701-2800.md#lim26a-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -69,6 +69,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="jourdan26a-optimization"></a>[Fully Dynamic Coreset Spectral Clustering](../../conferences/icml-2026/cards/2001-2100.md#paper-jourdan26a)
 - <a id="kariotakis26a-optimization"></a>[FairRARI: A Plug and Play Framework for Fairness-Aware PageRank](../../conferences/icml-2026/cards/2001-2100.md#paper-kariotakis26a)
 - <a id="kataria26a-optimization"></a>[GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#paper-kataria26a)
+- <a id="li26kb-optimization"></a>[COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26kb)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -143,6 +144,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="lee26ah-representation-learning"></a>[View Space: Learning Representation across Arbitrary Graphs](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ah)
 - <a id="li26gu-representation-learning"></a>[CELL: A Causal Perspective for Fairness-aware Graph Adaptation](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gu)
 - <a id="li26hm-representation-learning"></a>[Graph is a Substrate Across Data Modalities](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hm)
+- <a id="liang26y-representation-learning"></a>[CL-GCL: Comprehensive and Lightweight Graph Contrastive Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26y)
 
 <a id="by-evaluation"></a>
 
