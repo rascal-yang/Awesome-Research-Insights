@@ -66,7 +66,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aichmuller26a) | [Read insight (中文)](../../papers/robotics.md#aichmuller26a-reinforcement-learning) |
 | [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chowdhury26a) | [Read insight (中文)](../../papers/robotics.md#chowdhury26a-reinforcement-learning) |
-| [Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) | [Read insight (中文)](../../papers/robotics.md#ge26a-reinforcement-learning) |
+| [Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ge26a) | [Read insight (中文)](../../papers/robotics.md#ge26a-reinforcement-learning) |
 | [CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://proceedings.mlr.press/v306/guo26ae.html) | [Read insight (中文)](../../papers/robotics.md#guo26ae-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>

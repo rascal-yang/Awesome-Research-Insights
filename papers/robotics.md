@@ -66,7 +66,7 @@
 | :--- | :--- | :--- |
 | <a id="aichmuller26a-reinforcement-learning"></a>[Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-aichmuller26a) | 规划与强化学习 | 用关系图网络预测价值启发式来指导加权 A*，再用搜索产生的经验做 Q-learning，形成可自我改进的规划循环。 |
 | <a id="chowdhury26a-reinforcement-learning"></a>[LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) · [论文卡](../conferences/icml-2026/cards/0701-0800.md#paper-chowdhury26a) | 按关键帧分配语言反馈奖励 | 让视觉语言模型对一次操作尝试生成结构化反思，把反思和机器人观测映射到同一表征空间。用状态与反馈相似度的时序变化构造奖励，并用关键帧权重把训练信号集中到关键步骤。 |
-| <a id="ge26a-reinforcement-learning"></a>[Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) | 以专家动态奖励后训练视频预测 | 把多步视频去噪视为策略，用同一编码空间里生成轨迹与专家未来帧的动态一致性作为终局奖励。这样可针对下游操作敏感的预测误差更新生成器，论文在仿真与真机操作中观察到成功率提升。 |
+| <a id="ge26a-reinforcement-learning"></a>[Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-ge26a) | 以专家动态奖励后训练视频预测 | 把多步视频去噪视为策略，用同一编码空间里生成轨迹与专家未来帧的动态一致性作为终局奖励。这样可针对下游操作敏感的预测误差更新生成器，论文在仿真与真机操作中观察到成功率提升。 |
 | <a id="guo26ae-reinforcement-learning"></a>[CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://proceedings.mlr.press/v306/guo26ae.html) | 碰撞预测驱动的驾驶动作自纠正 | 自回归规划器提出运动 token 后用碰撞评论家检查短期风险。未通过的提议保留在注意力上下文中供下一次提议修正，实际执行最终接受的动作，再用世界模型轨迹对这段纠正过程做强化学习。 |
 
 <a id="by-training-strategies"></a>

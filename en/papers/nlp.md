@@ -56,7 +56,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models](https://proceedings.mlr.press/v306/geng26c.html) | [Read insight (中文)](../../papers/nlp.md#geng26c-training-strategies) |
+| [Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models](https://proceedings.mlr.press/v306/geng26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-geng26c) | [Read insight (中文)](../../papers/nlp.md#geng26c-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -104,8 +104,8 @@ The linked short insights are available in Chinese.
 | [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dehdashtian26a) | [Read insight (中文)](../../papers/nlp.md#dehdashtian26a-evaluation) |
 | [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-duarte26a) | [Read insight (中文)](../../papers/nlp.md#duarte26a-evaluation) |
 | [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fernandez26b) | [Read insight (中文)](../../papers/nlp.md#fernandez26b-evaluation) |
-| [FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) | [Read insight (中文)](../../papers/nlp.md#gao26af-evaluation) |
-| [BAT: Better Audio Transformer Guided by Convex Gated Probing](https://proceedings.mlr.press/v306/ghaffari26a.html) | [Read insight (中文)](../../papers/nlp.md#ghaffari26a-evaluation) |
+| [FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26af) | [Read insight (中文)](../../papers/nlp.md#gao26af-evaluation) |
+| [BAT: Better Audio Transformer Guided by Convex Gated Probing](https://proceedings.mlr.press/v306/ghaffari26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ghaffari26a) | [Read insight (中文)](../../papers/nlp.md#ghaffari26a-evaluation) |
 | [On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](https://proceedings.mlr.press/v306/guo26w.html) | [Read insight (中文)](../../papers/nlp.md#guo26w-evaluation) |
 | [MusicDET: Zero-Shot AI-Generated Music Detection](https://proceedings.mlr.press/v306/han26u.html) | [Read insight (中文)](../../papers/nlp.md#han26u-evaluation) |
 

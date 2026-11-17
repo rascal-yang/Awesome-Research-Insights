@@ -19,7 +19,7 @@ The linked short insights are available in Chinese.
 | [Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://proceedings.mlr.press/v306/chen26go.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26go) | [Read insight (中文)](../../papers/multimodal.md#chen26go-architecture) |
 | [PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](https://proceedings.mlr.press/v306/dementyev26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dementyev26a) | [Read insight (中文)](../../papers/multimodal.md#dementyev26a-architecture) |
 | [Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](https://proceedings.mlr.press/v306/forhad26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-forhad26a) | [Read insight (中文)](../../papers/multimodal.md#forhad26a-architecture) |
-| [DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](https://proceedings.mlr.press/v306/gao26am.html) | [Read insight (中文)](../../papers/multimodal.md#gao26am-architecture) |
+| [DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](https://proceedings.mlr.press/v306/gao26am.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26am) | [Read insight (中文)](../../papers/multimodal.md#gao26am-architecture) |
 
 <a id="by-modules"></a>
 
@@ -48,7 +48,7 @@ The linked short insights are available in Chinese.
 | [SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](https://proceedings.mlr.press/v306/dellali26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dellali26a) | [Read insight (中文)](../../papers/multimodal.md#dellali26a-loss-functions) |
 | [Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization](https://proceedings.mlr.press/v306/deng26z.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26z) | [Read insight (中文)](../../papers/multimodal.md#deng26z-loss-functions) |
 | [Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation](https://proceedings.mlr.press/v306/fu26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26r) | [Read insight (中文)](../../papers/multimodal.md#fu26r-loss-functions) |
-| [Twins: Learn to Predict Unified Representations with Focal Loss](https://proceedings.mlr.press/v306/gong26b.html) | [Read insight (中文)](../../papers/multimodal.md#gong26b-loss-functions) |
+| [Twins: Learn to Predict Unified Representations with Focal Loss](https://proceedings.mlr.press/v306/gong26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26b) | [Read insight (中文)](../../papers/multimodal.md#gong26b-loss-functions) |
 | [GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows](https://proceedings.mlr.press/v306/grebe26a.html) | [Read insight (中文)](../../papers/multimodal.md#grebe26a-loss-functions) |
 | [Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation](https://proceedings.mlr.press/v306/guan26g.html) | [Read insight (中文)](../../papers/multimodal.md#guan26g-loss-functions) |
 
@@ -58,7 +58,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](https://proceedings.mlr.press/v306/gao26an.html) | [Read insight (中文)](../../papers/multimodal.md#gao26an-optimization) |
+| [MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](https://proceedings.mlr.press/v306/gao26an.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26an) | [Read insight (中文)](../../papers/multimodal.md#gao26an-optimization) |
 | [Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation](https://proceedings.mlr.press/v306/gu26i.html) | [Read insight (中文)](../../papers/multimodal.md#gu26i-optimization) |
 
 <a id="by-reinforcement-learning"></a>
@@ -114,7 +114,7 @@ The linked short insights are available in Chinese.
 | [TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis](https://proceedings.mlr.press/v306/feng26s.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26s) | [Read insight (中文)](../../papers/multimodal.md#feng26s-data-strategies) |
 | [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://proceedings.mlr.press/v306/fu26s.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26s) | [Read insight (中文)](../../papers/multimodal.md#fu26s-data-strategies) |
 | [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://proceedings.mlr.press/v306/gao26o.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26o) | [Read insight (中文)](../../papers/multimodal.md#gao26o-data-strategies) |
-| [GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](https://proceedings.mlr.press/v306/giannone26a.html) | [Read insight (中文)](../../papers/multimodal.md#giannone26a-data-strategies) |
+| [GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](https://proceedings.mlr.press/v306/giannone26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-giannone26a) | [Read insight (中文)](../../papers/multimodal.md#giannone26a-data-strategies) |
 | [ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](https://proceedings.mlr.press/v306/gurbuz26a.html) | [Read insight (中文)](../../papers/multimodal.md#gurbuz26a-data-strategies) |
 
 <a id="by-inference"></a>
@@ -145,7 +145,7 @@ The linked short insights are available in Chinese.
 | [Multimodal Function Vectors for Visual Relations](https://proceedings.mlr.press/v306/fu26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26e) | [Read insight (中文)](../../papers/multimodal.md#fu26e-inference) |
 | [Hierarchical Procedural Meta-Reasoning for Generalizable Multimodal Agents](https://proceedings.mlr.press/v306/fu26m.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26m) | [Read insight (中文)](../../papers/multimodal.md#fu26m-inference) |
 | [AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density](https://proceedings.mlr.press/v306/gao26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26r) | [Read insight (中文)](../../papers/multimodal.md#gao26r-inference) |
-| [Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away](https://proceedings.mlr.press/v306/ghosal26a.html) | [Read insight (中文)](../../papers/multimodal.md#ghosal26a-inference) |
+| [Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away](https://proceedings.mlr.press/v306/ghosal26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ghosal26a) | [Read insight (中文)](../../papers/multimodal.md#ghosal26a-inference) |
 | [What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions](https://proceedings.mlr.press/v306/gu26r.html) | [Read insight (中文)](../../papers/multimodal.md#gu26r-inference) |
 | [Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer](https://proceedings.mlr.press/v306/guo26ai.html) | [Read insight (中文)](../../papers/multimodal.md#guo26ai-inference) |
 | [Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](https://proceedings.mlr.press/v306/hai26a.html) | [Read insight (中文)](../../papers/multimodal.md#hai26a-inference) |
@@ -194,8 +194,8 @@ The linked short insights are available in Chinese.
 | [Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition](https://proceedings.mlr.press/v306/fang26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26x) | [Read insight (中文)](../../papers/multimodal.md#fang26x-evaluation) |
 | [MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge](https://proceedings.mlr.press/v306/fu26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26c) | [Read insight (中文)](../../papers/multimodal.md#fu26c-evaluation) |
 | [FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content](https://proceedings.mlr.press/v306/gao26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26g) | [Read insight (中文)](../../papers/multimodal.md#gao26g-evaluation) |
-| [Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](https://proceedings.mlr.press/v306/gao26ag.html) | [Read insight (中文)](../../papers/multimodal.md#gao26ag-evaluation) |
-| [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](https://proceedings.mlr.press/v306/gong26a.html) | [Read insight (中文)](../../papers/multimodal.md#gong26a-evaluation) |
+| [Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](https://proceedings.mlr.press/v306/gao26ag.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ag) | [Read insight (中文)](../../papers/multimodal.md#gao26ag-evaluation) |
+| [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](https://proceedings.mlr.press/v306/gong26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26a) | [Read insight (中文)](../../papers/multimodal.md#gong26a-evaluation) |
 | [CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](https://proceedings.mlr.press/v306/guo26q.html) | [Read insight (中文)](../../papers/multimodal.md#guo26q-evaluation) |
 
 <a id="by-theory-statistics"></a>
