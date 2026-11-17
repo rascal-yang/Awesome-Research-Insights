@@ -64,6 +64,7 @@
 - [分开监督推理与证据定位置信度](../conferences/icml-2026/cards/1801-1900.md#jang26a-training-strategies) · Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs
 - [按 MoE 参数组缩放超参数再迁移](../conferences/icml-2026/cards/1901-2000.md#jiang26a-training-strategies) · Hyperparameter Transfer with Mixture-of-Experts Layers
 - [按安全配置改变标签并维护严重度排序](../conferences/icml-2026/cards/1901-2000.md#jiang26v-training-strategies) · Configurable Reward Model for Balanced Safety Alignment
+- [把少量可程序生成的结构任务放到预训练开头](../conferences/icml-2026/cards/1901-2000.md#jiang26ap-training-strategies) · Procedural Pretraining: Warming Up Language Models with Abstract Data
 
 <a id="by-computer-vision"></a>
 

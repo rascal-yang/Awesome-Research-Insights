@@ -1939,18 +1939,18 @@ number	pmlr_id	title	paper_url	insight_status
 1938	jiang26ak	Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning	https://proceedings.mlr.press/v306/jiang26ak.html	written
 1939	jiang26al	GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning	https://proceedings.mlr.press/v306/jiang26al.html	written
 1940	jiang26am	Enhancing LLM Training via Spectral Clipping	https://proceedings.mlr.press/v306/jiang26am.html	written
-1941	jiang26an	Efficient Transformer Attention for SNNs via Hadamard Simplification	https://proceedings.mlr.press/v306/jiang26an.html	pending
-1942	jiang26ao	Transformed Latent Variable Multi-Output Gaussian Processes	https://proceedings.mlr.press/v306/jiang26ao.html	pending
-1943	jiang26ap	Procedural Pretraining: Warming Up Language Models with Abstract Data	https://proceedings.mlr.press/v306/jiang26ap.html	pending
-1944	jiang26aq	XSkill: Continual Learning from Experience and Skills in Multimodal Agents	https://proceedings.mlr.press/v306/jiang26aq.html	pending
-1945	jiang26ar	Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit	https://proceedings.mlr.press/v306/jiang26ar.html	pending
-1946	jiang26as	AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks	https://proceedings.mlr.press/v306/jiang26as.html	pending
-1947	jiang26at	Spatial Conformal Inference through Localized Quantile Regression	https://proceedings.mlr.press/v306/jiang26at.html	pending
-1948	jiang26au	KineFlow: Kinematic Second-Order Flow Matching for Time-Series Forecasting	https://proceedings.mlr.press/v306/jiang26au.html	pending
-1949	jiang26av	DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+	https://proceedings.mlr.press/v306/jiang26av.html	pending
-1950	jiang26aw	BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency	https://proceedings.mlr.press/v306/jiang26aw.html	pending
-1951	jiang26ax	Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings	https://proceedings.mlr.press/v306/jiang26ax.html	pending
-1952	jiang26ay	SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation	https://proceedings.mlr.press/v306/jiang26ay.html	pending
+1941	jiang26an	Efficient Transformer Attention for SNNs via Hadamard Simplification	https://proceedings.mlr.press/v306/jiang26an.html	written
+1942	jiang26ao	Transformed Latent Variable Multi-Output Gaussian Processes	https://proceedings.mlr.press/v306/jiang26ao.html	written
+1943	jiang26ap	Procedural Pretraining: Warming Up Language Models with Abstract Data	https://proceedings.mlr.press/v306/jiang26ap.html	written
+1944	jiang26aq	XSkill: Continual Learning from Experience and Skills in Multimodal Agents	https://proceedings.mlr.press/v306/jiang26aq.html	written
+1945	jiang26ar	Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit	https://proceedings.mlr.press/v306/jiang26ar.html	written
+1946	jiang26as	AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks	https://proceedings.mlr.press/v306/jiang26as.html	written
+1947	jiang26at	Spatial Conformal Inference through Localized Quantile Regression	https://proceedings.mlr.press/v306/jiang26at.html	written
+1948	jiang26au	KineFlow: Kinematic Second-Order Flow Matching for Time-Series Forecasting	https://proceedings.mlr.press/v306/jiang26au.html	written
+1949	jiang26av	DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+	https://proceedings.mlr.press/v306/jiang26av.html	written
+1950	jiang26aw	BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency	https://proceedings.mlr.press/v306/jiang26aw.html	written
+1951	jiang26ax	Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings	https://proceedings.mlr.press/v306/jiang26ax.html	written
+1952	jiang26ay	SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation	https://proceedings.mlr.press/v306/jiang26ay.html	written
 1953	jiang26az	EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization	https://proceedings.mlr.press/v306/jiang26az.html	pending
 1954	jiang26ba	Budget-Efficient Attacks and Robustness Training for Cooperative MARL	https://proceedings.mlr.press/v306/jiang26ba.html	pending
 1955	jiang26bb	StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation	https://proceedings.mlr.press/v306/jiang26bb.html	pending

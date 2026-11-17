@@ -53,6 +53,8 @@ Reusable components and local changes to model inputs or connections.
 - [Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization](../../conferences/icml-2026/cards/1401-1500.md#han26ab-modules) · 中文
 - [Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration](../../conferences/icml-2026/cards/1501-1600.md#he26an-modules) · 中文
 - [Interactive Segmentation with Elaborate Focus Prior](../../conferences/icml-2026/cards/1601-1700.md#hu26au-modules) · 中文
+- [Efficient Transformer Attention for SNNs via Hadamard Simplification](../../conferences/icml-2026/cards/1901-2000.md#jiang26an-modules) · 中文
+- [SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation](../../conferences/icml-2026/cards/1901-2000.md#jiang26ay-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>

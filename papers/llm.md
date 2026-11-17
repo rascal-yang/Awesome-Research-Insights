@@ -35,6 +35,7 @@
 - <a id="ibrahimzada26a-architecture"></a>[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](../conferences/icml-2026/cards/1801-1900.md#paper-ibrahimzada26a)
 - <a id="jaiswal26a-architecture"></a>[MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](../conferences/icml-2026/cards/1801-1900.md#paper-jaiswal26a)
 - <a id="jia26h-architecture"></a>[Text Generation as Continuous Latent Dynamics via Reinforcement Learning](../conferences/icml-2026/cards/1801-1900.md#paper-jia26h)
+- <a id="jiang26aw-architecture"></a>[BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aw)
 
 <a id="by-modules"></a>
 
@@ -249,6 +250,7 @@
 - <a id="jang26a-training-strategies"></a>[Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs](../conferences/icml-2026/cards/1801-1900.md#paper-jang26a)
 - <a id="jiang26a-training-strategies"></a>[Hyperparameter Transfer with Mixture-of-Experts Layers](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26a)
 - <a id="jiang26v-training-strategies"></a>[Configurable Reward Model for Balanced Safety Alignment](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26v)
+- <a id="jiang26ap-training-strategies"></a>[Procedural Pretraining: Warming Up Language Models with Abstract Data](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ap)
 
 <a id="by-data-strategies"></a>
 
@@ -564,6 +566,7 @@
 - <a id="jiang26d-evaluation"></a>[Collaborative Disagreement Resolution for Scalable Oversight](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26d)
 - <a id="jiang26o-evaluation"></a>[Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26o)
 - <a id="jiang26af-evaluation"></a>[Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26af)
+- <a id="jiang26as-evaluation"></a>[AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26as)
 
 <a id="by-theory-statistics"></a>
 

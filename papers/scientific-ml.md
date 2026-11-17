@@ -47,6 +47,7 @@
 - <a id="hubers26a-architecture"></a>[Foundation Inference Models for Ordinary Differential Equations](../conferences/icml-2026/cards/1701-1800.md#paper-hubers26a)
 - <a id="jiang26r-architecture"></a>[ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26r)
 - <a id="jiang26ae-architecture"></a>[LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ae)
+- <a id="jiang26au-architecture"></a>[KineFlow: Kinematic Second-Order Flow Matching for Time-Series Forecasting](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26au)
 
 <a id="by-modules"></a>
 

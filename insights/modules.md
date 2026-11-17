@@ -53,6 +53,8 @@
 - [用三维表面坐标连接跨姿态参考](../conferences/icml-2026/cards/1401-1500.md#han26ab-modules) · Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization
 - [用局部退化控制分块采样与回写](../conferences/icml-2026/cards/1501-1600.md#he26an-modules) · Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration
 - [把修正点击变成连通误差区](../conferences/icml-2026/cards/1601-1700.md#hu26au-modules) · Interactive Segmentation with Elaborate Focus Prior
+- [用逐元素门控降低脉冲注意力通信](../conferences/icml-2026/cards/1901-2000.md#jiang26an-modules) · Efficient Transformer Attention for SNNs via Hadamard Simplification
+- [从局部频谱提取风格并路由检测适配词元](../conferences/icml-2026/cards/1901-2000.md#jiang26ay-modules) · SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

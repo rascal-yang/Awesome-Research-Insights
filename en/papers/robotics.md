@@ -108,6 +108,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="huang26t-inference"></a>[SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26t)
 - <a id="jayasinghe26a-inference"></a>[Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](../../conferences/icml-2026/cards/1801-1900.md#paper-jayasinghe26a)
 - <a id="ji26o-inference"></a>[Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26o)
+- <a id="jiang26av-inference"></a>[DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26av)
 
 <a id="by-representation-learning"></a>
 

@@ -57,6 +57,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="han26ab-modules"></a>[Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization](../../conferences/icml-2026/cards/1401-1500.md#paper-han26ab)
 - <a id="he26an-modules"></a>[Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration](../../conferences/icml-2026/cards/1501-1600.md#paper-he26an)
 - <a id="hu26au-modules"></a>[Interactive Segmentation with Elaborate Focus Prior](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26au)
+- <a id="jiang26an-modules"></a>[Efficient Transformer Attention for SNNs via Hadamard Simplification](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26an)
+- <a id="jiang26ay-modules"></a>[SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ay)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>

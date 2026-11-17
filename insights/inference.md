@@ -237,6 +237,7 @@
 - [在生成时间加入轨迹约束控制](../conferences/icml-2026/cards/1701-1800.md#huang26t-inference) · SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning
 - [将部署故障校正放进受限的局部残差](../conferences/icml-2026/cards/1801-1900.md#jayasinghe26a-inference) · Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation
 - [按当前观察预测整条去噪剪枝图](../conferences/icml-2026/cards/1801-1900.md#ji26o-inference) · Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning
+- [逐级缩小符号规划范围并验证关键规则](../conferences/icml-2026/cards/1901-2000.md#jiang26av-inference) · DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+
 
 <a id="by-multimodal"></a>
 
@@ -282,6 +283,7 @@
 - [向先验动态收缩低置信类别的测试时估计](../conferences/icml-2026/cards/1701-1800.md#huang26ag-inference) · Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction
 - [让流式生成随音频变化调节历史依赖](../conferences/icml-2026/cards/1801-1900.md#ji26h-inference) · DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing
 - [在适配与预测时用同一视图集成](../conferences/icml-2026/cards/1901-2000.md#jiang26ac-inference) · USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning
+- [在视觉代理记忆里分开局部经验与任务技能](../conferences/icml-2026/cards/1901-2000.md#jiang26aq-inference) · XSkill: Continual Learning from Experience and Skills in Multimodal Agents
 
 <a id="by-ml-foundations"></a>
 

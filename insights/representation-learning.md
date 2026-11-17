@@ -56,6 +56,7 @@
 - [用前瞻 token 蒸馏指令嵌入](../conferences/icml-2026/cards/1201-1300.md#gao26h-representation-learning) · InstEmb: Instruction-Following Embeddings through Glimpses of the Future
 - [对比学习的层级检索索引](../conferences/icml-2026/cards/1401-1500.md#gupta26c-representation-learning) · Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency
 - [用互补时频掩码构造低开销音频正样本](../conferences/icml-2026/cards/1701-1800.md#huang26bf-representation-learning) · AudioMosaic: Contrastive Masked Audio Representation Learning
+- [用带标签的稀疏嵌入作为文档分析坐标](../conferences/icml-2026/cards/1901-2000.md#jiang26ar-representation-learning) · Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit
 
 <a id="by-reinforcement-learning"></a>
 
@@ -118,6 +119,7 @@
 - [校正解耦与子类发现的反馈误差](../conferences/icml-2026/cards/1601-1700.md#hu26e-representation-learning) · Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations
 - [把每数据集的互信息优化摊到预训练](../conferences/icml-2026/cards/1601-1700.md#hu26i-representation-learning) · InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate
 - [在参数局部流形去除污染](../conferences/icml-2026/cards/1601-1700.md#hu26az-representation-learning) · Parameter Manifold Purification
+- [把输出身份嵌入标量高斯过程核](../conferences/icml-2026/cards/1901-2000.md#jiang26ao-representation-learning) · Transformed Latent Variable Multi-Output Gaussian Processes
 
 <a id="by-graph-and-recommendation"></a>
 

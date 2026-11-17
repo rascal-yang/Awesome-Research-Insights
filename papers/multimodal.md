@@ -178,6 +178,7 @@
 - <a id="huang26ag-inference"></a>[Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ag)
 - <a id="ji26h-inference"></a>[DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing](../conferences/icml-2026/cards/1801-1900.md#paper-ji26h)
 - <a id="jiang26ac-inference"></a>[USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ac)
+- <a id="jiang26aq-inference"></a>[XSkill: Continual Learning from Experience and Skills in Multimodal Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aq)
 
 <a id="by-representation-learning"></a>
 

@@ -82,6 +82,7 @@
 - <a id="gao26h-representation-learning"></a>[InstEmb: Instruction-Following Embeddings through Glimpses of the Future](../conferences/icml-2026/cards/1201-1300.md#paper-gao26h)
 - <a id="gupta26c-representation-learning"></a>[Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](../conferences/icml-2026/cards/1401-1500.md#paper-gupta26c)
 - <a id="huang26bf-representation-learning"></a>[AudioMosaic: Contrastive Masked Audio Representation Learning](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bf)
+- <a id="jiang26ar-representation-learning"></a>[Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ar)
 
 <a id="by-evaluation"></a>
 

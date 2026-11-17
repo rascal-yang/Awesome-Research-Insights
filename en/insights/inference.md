@@ -237,6 +237,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning](../../conferences/icml-2026/cards/1701-1800.md#huang26t-inference) · 中文
 - [Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](../../conferences/icml-2026/cards/1801-1900.md#jayasinghe26a-inference) · 中文
 - [Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](../../conferences/icml-2026/cards/1801-1900.md#ji26o-inference) · 中文
+- [DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+](../../conferences/icml-2026/cards/1901-2000.md#jiang26av-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -282,6 +283,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](../../conferences/icml-2026/cards/1701-1800.md#huang26ag-inference) · 中文
 - [DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing](../../conferences/icml-2026/cards/1801-1900.md#ji26h-inference) · 中文
 - [USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ac-inference) · 中文
+- [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](../../conferences/icml-2026/cards/1901-2000.md#jiang26aq-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

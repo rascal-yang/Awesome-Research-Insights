@@ -318,6 +318,8 @@
 - [用循环深度和填充槽位实现并行句法分析](../conferences/icml-2026/cards/1801-1900.md#jerad26a-theory-statistics) · Context-free Recognition with Transformers
 - [用因素化策略从随机偏好推断对抗均衡](../conferences/icml-2026/cards/1801-1900.md#jerzak26a-theory-statistics) · MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification
 - [把下层条件数嵌入两层零链以刻画查询障碍](../conferences/icml-2026/cards/1801-1900.md#ji26f-theory-statistics) · Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles
+- [按地理邻域估计共形残差分位数](../conferences/icml-2026/cards/1901-2000.md#jiang26at-theory-statistics) · Spatial Conformal Inference through Localized Quantile Regression
+- [在分布式符号优化中校正压缩和采样误差](../conferences/icml-2026/cards/1901-2000.md#jiang26ax-theory-statistics) · Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings
 
 <a id="by-graph-and-recommendation"></a>
 

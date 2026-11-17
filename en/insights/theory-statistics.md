@@ -318,6 +318,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Context-free Recognition with Transformers](../../conferences/icml-2026/cards/1801-1900.md#jerad26a-theory-statistics) · 中文
 - [MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification](../../conferences/icml-2026/cards/1801-1900.md#jerzak26a-theory-statistics) · 中文
 - [Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles](../../conferences/icml-2026/cards/1801-1900.md#ji26f-theory-statistics) · 中文
+- [Spatial Conformal Inference through Localized Quantile Regression](../../conferences/icml-2026/cards/1901-2000.md#jiang26at-theory-statistics) · 中文
+- [Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings](../../conferences/icml-2026/cards/1901-2000.md#jiang26ax-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

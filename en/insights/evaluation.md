@@ -160,6 +160,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Collaborative Disagreement Resolution for Scalable Oversight](../../conferences/icml-2026/cards/1901-2000.md#jiang26d-evaluation) · 中文
 - [Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs](../../conferences/icml-2026/cards/1901-2000.md#jiang26o-evaluation) · 中文
 - [Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability](../../conferences/icml-2026/cards/1901-2000.md#jiang26af-evaluation) · 中文
+- [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](../../conferences/icml-2026/cards/1901-2000.md#jiang26as-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -160,6 +160,7 @@
 - [把多模型分歧浓缩成可核验争点](../conferences/icml-2026/cards/1901-2000.md#jiang26d-evaluation) · Collaborative Disagreement Resolution for Scalable Oversight
 - [按路由干预诊断 MoE 安全集中性](../conferences/icml-2026/cards/1901-2000.md#jiang26o-evaluation) · Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs
 - [用位移与曲率联合诊断推理轨迹](../conferences/icml-2026/cards/1901-2000.md#jiang26af-evaluation) · Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability
+- [跨轮验证代理的安全目标是否被逐步改写](../conferences/icml-2026/cards/1901-2000.md#jiang26as-evaluation) · AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks
 
 <a id="by-computer-vision"></a>
 

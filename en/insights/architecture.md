@@ -35,6 +35,7 @@ Model-wide design and information flow.
 - [MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](../../conferences/icml-2026/cards/1801-1900.md#ibrahimzada26a-architecture) · 中文
 - [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](../../conferences/icml-2026/cards/1801-1900.md#jaiswal26a-architecture) · 中文
 - [Text Generation as Continuous Latent Dynamics via Reinforcement Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26h-architecture) · 中文
+- [BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency](../../conferences/icml-2026/cards/1901-2000.md#jiang26aw-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -192,4 +193,5 @@ Model-wide design and information flow.
 - [Foundation Inference Models for Ordinary Differential Equations](../../conferences/icml-2026/cards/1701-1800.md#hubers26a-architecture) · 中文
 - [ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network](../../conferences/icml-2026/cards/1901-2000.md#jiang26r-architecture) · 中文
 - [LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography](../../conferences/icml-2026/cards/1901-2000.md#jiang26ae-architecture) · 中文
+- [KineFlow: Kinematic Second-Order Flow Matching for Time-Series Forecasting](../../conferences/icml-2026/cards/1901-2000.md#jiang26au-architecture) · 中文
 <!-- classification:end -->

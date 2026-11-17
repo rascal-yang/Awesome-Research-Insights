@@ -56,6 +56,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [InstEmb: Instruction-Following Embeddings through Glimpses of the Future](../../conferences/icml-2026/cards/1201-1300.md#gao26h-representation-learning) · 中文
 - [Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](../../conferences/icml-2026/cards/1401-1500.md#gupta26c-representation-learning) · 中文
 - [AudioMosaic: Contrastive Masked Audio Representation Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26bf-representation-learning) · 中文
+- [Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](../../conferences/icml-2026/cards/1901-2000.md#jiang26ar-representation-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -118,6 +119,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations](../../conferences/icml-2026/cards/1601-1700.md#hu26e-representation-learning) · 中文
 - [InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate](../../conferences/icml-2026/cards/1601-1700.md#hu26i-representation-learning) · 中文
 - [Parameter Manifold Purification](../../conferences/icml-2026/cards/1601-1700.md#hu26az-representation-learning) · 中文
+- [Transformed Latent Variable Multi-Output Gaussian Processes](../../conferences/icml-2026/cards/1901-2000.md#jiang26ao-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

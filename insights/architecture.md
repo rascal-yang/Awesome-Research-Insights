@@ -35,6 +35,7 @@
 - [从分项语义差异生成跨语言反例测试](../conferences/icml-2026/cards/1801-1900.md#ibrahimzada26a-architecture) · MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair
 - [把无上下文前馈支路预计算为词表](../conferences/icml-2026/cards/1801-1900.md#jaiswal26a-architecture) · MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers
 - [让离散发词策略读取连续演化状态](../conferences/icml-2026/cards/1801-1900.md#jia26h-architecture) · Text Generation as Continuous Latent Dynamics via Reinforcement Learning
+- [解码前让行为、隐状态和记忆迭代对齐](../conferences/icml-2026/cards/1901-2000.md#jiang26aw-architecture) · BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency
 
 <a id="by-computer-vision"></a>
 
@@ -192,4 +193,5 @@
 - [把系统辨识摊销为轨迹条件下的向量场查询](../conferences/icml-2026/cards/1701-1800.md#hubers26a-architecture) · Foundation Inference Models for Ordinary Differential Equations
 - [把短期功能动态和长期脑图融合](../conferences/icml-2026/cards/1901-2000.md#jiang26r-architecture) · ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network
 - [在相邻光刻工序的状态变化上学习干预](../conferences/icml-2026/cards/1901-2000.md#jiang26ae-architecture) · LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography
+- [用速度状态隔开时序位置与变化方向](../conferences/icml-2026/cards/1901-2000.md#jiang26au-architecture) · KineFlow: Kinematic Second-Order Flow Matching for Time-Series Forecasting
 <!-- classification:end -->

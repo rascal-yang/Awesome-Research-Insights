@@ -349,6 +349,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="hu26e-representation-learning"></a>[Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26e)
 - <a id="hu26i-representation-learning"></a>[InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26i)
 - <a id="hu26az-representation-learning"></a>[Parameter Manifold Purification](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26az)
+- <a id="jiang26ao-representation-learning"></a>[Transformed Latent Variable Multi-Output Gaussian Processes](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ao)
 
 <a id="by-evaluation"></a>
 
@@ -596,4 +597,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="jerad26a-theory-statistics"></a>[Context-free Recognition with Transformers](../../conferences/icml-2026/cards/1801-1900.md#paper-jerad26a)
 - <a id="jerzak26a-theory-statistics"></a>[MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification](../../conferences/icml-2026/cards/1801-1900.md#paper-jerzak26a)
 - <a id="ji26f-theory-statistics"></a>[Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26f)
+- <a id="jiang26at-theory-statistics"></a>[Spatial Conformal Inference through Localized Quantile Regression](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26at)
+- <a id="jiang26ax-theory-statistics"></a>[Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ax)
 <!-- classification:end -->

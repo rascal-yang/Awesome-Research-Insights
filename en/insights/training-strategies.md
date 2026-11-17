@@ -64,6 +64,7 @@ Training schedules, curricula, and task or stage composition.
 - [Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs](../../conferences/icml-2026/cards/1801-1900.md#jang26a-training-strategies) · 中文
 - [Hyperparameter Transfer with Mixture-of-Experts Layers](../../conferences/icml-2026/cards/1901-2000.md#jiang26a-training-strategies) · 中文
 - [Configurable Reward Model for Balanced Safety Alignment](../../conferences/icml-2026/cards/1901-2000.md#jiang26v-training-strategies) · 中文
+- [Procedural Pretraining: Warming Up Language Models with Abstract Data](../../conferences/icml-2026/cards/1901-2000.md#jiang26ap-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
