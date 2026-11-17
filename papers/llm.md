@@ -511,6 +511,7 @@
 - <a id="springer26a-training-strategies"></a>[Annotations Mitigate Post-Training Mode Collapse](../conferences/icml-2026/cards/4201-4300.md#paper-springer26a)
 - <a id="sun26m-training-strategies"></a>[MESA: Improving MoE Safety Alignment via Decentralized Expertise](../conferences/icml-2026/cards/4201-4300.md#paper-sun26m)
 - <a id="sun26w-training-strategies"></a>[SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](../conferences/icml-2026/cards/4201-4300.md#paper-sun26w)
+- <a id="sweeney26a-training-strategies"></a>[The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order](../conferences/icml-2026/cards/4301-4400.md#paper-sweeney26a)
 
 <a id="by-data-strategies"></a>
 
@@ -577,6 +578,7 @@
 - <a id="sun26h-data-strategies"></a>[KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering](../conferences/icml-2026/cards/4201-4300.md#paper-sun26h)
 - <a id="sun26p-data-strategies"></a>[Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](../conferences/icml-2026/cards/4201-4300.md#paper-sun26p)
 - <a id="sundaram26a-data-strategies"></a>[Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](../conferences/icml-2026/cards/4301-4400.md#paper-sundaram26a)
+- <a id="suresh26a-data-strategies"></a>[At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization](../conferences/icml-2026/cards/4301-4400.md#paper-suresh26a)
 
 <a id="by-inference"></a>
 
@@ -870,6 +872,7 @@
 - <a id="su26o-inference"></a>[Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models](../conferences/icml-2026/cards/4201-4300.md#paper-su26o)
 - <a id="sun26b-inference"></a>[Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection](../conferences/icml-2026/cards/4201-4300.md#paper-sun26b)
 - <a id="sun26ao-inference"></a>[Singular Proxies for Adaptive Caching in Diffusion Language Models](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ao)
+- <a id="taghibakhshi26a-inference"></a>[Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control](../conferences/icml-2026/cards/4301-4400.md#paper-taghibakhshi26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1185,6 +1188,8 @@
 - <a id="sun26z-evaluation"></a>[Reverse-Engineering Model Editing on Language Models](../conferences/icml-2026/cards/4201-4300.md#paper-sun26z)
 - <a id="sun26av-evaluation"></a>[Hallucination Detection from Structural Reasoning Model](../conferences/icml-2026/cards/4301-4400.md#paper-sun26av)
 - <a id="sun26ba-evaluation"></a>[AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ba)
+- <a id="sweeney26b-evaluation"></a>[The Geometry of Updates: Fisher Alignment at Vocabulary Scale](../conferences/icml-2026/cards/4301-4400.md#paper-sweeney26b)
+- <a id="taimeskhanov26a-evaluation"></a>[Towards Understanding Steering Strength](../conferences/icml-2026/cards/4301-4400.md#paper-taimeskhanov26a)
 
 <a id="by-theory-statistics"></a>
 

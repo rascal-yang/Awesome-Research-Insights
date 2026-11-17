@@ -4328,26 +4328,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4327	sun26ba	3	4	4	3	70		新增量3：外部状态变化归因诊断；复用4：GUI代理的历史应记录观察到的状态变化而不只记录计划动作：环境外部事件会诱发把非自身结果误归因给自身动作的失效。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性3：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第6,7,8页。 原文：https://proceedings.mlr.press/v306/sun26ba.html。	scored
 4328	sundaram26a	4	5	4	4	86		新增量4：以学生真进步奖励课程生成；复用5：用学生在有真值困难训练题上的实测提升奖励教师生成的问题集，而非按内部可学习性代理打分；生成有用踏脚石不要求教师先能解难题。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性4：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第3,4,6,7页。 原文：https://proceedings.mlr.press/v306/sundaram26a.html。	scored
 4329	sung26a							p6–7统计结果依赖专用细胞响应目标、数据质量与预训练规模的联合改变；去预训练和监督噪声消融不能独立建立通用于深度学习的新规律，跨任务证据仍限同一生物预测体系。 原文：https://proceedings.mlr.press/v306/sung26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sung26a/sung26a.pdf。	rule-excluded
-4330	surendran26a							待原文复核评分	pending
-4331	suresh26a							待原文复核评分	pending
-4332	susladkar26a							待原文复核评分	pending
-4333	svatko26a							待原文复核评分	pending
-4334	svete26a							待原文复核评分	pending
-4335	sweeney26a							待原文复核评分	pending
-4336	sweeney26b							待原文复核评分	pending
-4337	szarvas26a							待原文复核评分	pending
-4338	szeider26a							待原文复核评分	pending
-4339	tabanelli26a							待原文复核评分	pending
-4340	taga26a							待原文复核评分	pending
-4341	taghavi26a							待原文复核评分	pending
-4342	taghibakhshi26a							待原文复核评分	pending
-4343	taheri26a							待原文复核评分	pending
-4344	taheri26b							待原文复核评分	pending
-4345	tahmasebi26a							待原文复核评分	pending
-4346	taimeskhanov26a							待原文复核评分	pending
-4347	taing26a							待原文复核评分	pending
-4348	tajwar26a							待原文复核评分	pending
-4349	takabatake26a							待原文复核评分	pending
+4330	surendran26a	3	4	3	3	66		与COMPASS/CVAE潜搜索相比增加成本偏置交互粒子及间歇末层更新；同模型同钟表预算对照可用，增量相对交互MCMC较小且目标/更新公式仍有歧义（PDF4–8页）。 原文：https://proceedings.mlr.press/v306/surendran26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/surendran26a/surendran26a.pdf。	scored
+4331	suresh26a	3	4	4	3	70		新增量/复用/使用/独特性=(3, 4, 4, 3)；用SAE重构误差与稀有特征激活组成能量，按层验证后选择适配样本；高能量并非所有层都最好。 证据PDF第3–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/suresh26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/suresh26a/suresh26a.pdf。	scored
+4332	susladkar26a							DPO双流求和、reflection拼接及LoRA路由属于已知目标与模块家族；表5完整ImgEdit4.24对DPO4.14/uni-GRPO4.18未隔离独立新跨模态credit操作，且Eq7/8参考条件定义歧义阻碍复用。不是因分数或任务范围排除（PDF4–5、8–9页）。 原文：https://proceedings.mlr.press/v306/susladkar26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/susladkar26a/susladkar26a.pdf。	rule-excluded
+4333	svatko26a	4	4	5	4	84		新增量/复用/使用/独特性=(4, 4, 5, 4)；冻结表征评测必须加入随机网络、像素统计与去纹理结构基线，并按层及任务分拆学习增量。 证据PDF第4–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/svatko26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/svatko26a/svatko26a.pdf。	scored
+4334	svete26a	4	3	3	4	70		新增量/复用/使用/独特性=(4, 3, 3, 4)；多项式padding且信息体积足够时，表达类取决于精度与循环深度，扩宽不能弥补常数精度限制。 证据PDF第5–8页；条件见卡片。 原文：https://proceedings.mlr.press/v306/svete26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/svete26a/svete26a.pdf。	scored
+4335	sweeney26a	5	5	4	5	96		新增量/复用/使用/独特性=(5, 5, 4, 5)；用目标梯度与两源梯度场交换子的内积预测训练先后；共享目标参考时用线性数量HVP构造多源Borda排序。 证据PDF第3–6页；条件见卡片。 原文：https://proceedings.mlr.press/v306/sweeney26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sweeney26a/sweeney26a.pdf。	scored
+4336	sweeney26b	4	5	4	4	86		新增量/复用/使用/独特性=(4, 5, 4, 4)；源选择用激活与标签误差联合二次核均值草图，避免只比较激活而漏掉预测目标变化。 证据PDF第4–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/sweeney26b.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sweeney26b/sweeney26b.pdf。	scored
+4337	szarvas26a	4	4	4	4	80		新增量/复用/使用/独特性=(4, 4, 4, 4)；用等变全局池化特征条件化Clifford卷积核，让单向量核缺失的角频率进入交互，同时保留模板卷积。 证据PDF第4–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/szarvas26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/szarvas26a/szarvas26a.pdf。	scored
+4338	szeider26a							MDCS全局选子句、pattern字典与Hamming1NN为Tsetlin专门压缩预测器；不是剪后原投票器。独立机制明确但未核实可改变相关深度学习技术选择；字典开销及跨partition训练保真亦不能略去（PDF3–6页）。 原文：https://proceedings.mlr.press/v306/szeider26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/szeider26a/szeider26a.pdf。	rule-excluded
+4339	tabanelli26a	4	3	3	4	70		新增量/复用/使用/独特性=(4, 3, 3, 4)；对组合多项式先在Hermite空间做带标签矩阵谱分解，再在恢复低维坐标拟合下一层，避免直接拟合总多项式次数。 证据PDF第4–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/tabanelli26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tabanelli26a/tabanelli26a.pdf。	scored
+4340	taga26a	4	4	3	4	76		新增量/复用/使用/独特性=(4, 4, 3, 4)；有固定评测预算时把检验下注策略目标设为截止前过阈概率，依据剩余时间与证据状态调整，而非只最大化渐近增长。 证据PDF第3–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/taga26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taga26a/taga26a.pdf。	scored
+4341	taghavi26a	3	4	4	3	70		新增量/复用/使用/独特性=(3, 4, 4, 3)；固定中性竞争池估计实体可检索概率，再用检索器专属轻量probe预测索引前盲区，按风险分配增强预算。 证据PDF第4–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/taghavi26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taghavi26a/taghavi26a.pdf。	scored
+4342	taghibakhshi26a	3	4	4	3	70		新增量/复用/使用/独特性=(3, 4, 4, 3)；嵌套模型推理时分别选思考与作答容量；中等预算小模型思考、大模型回答可优于静态容量。 证据PDF第4–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/taghibakhshi26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taghibakhshi26a/taghibakhshi26a.pdf。	scored
+4343	taheri26a	3	3	3	3	60		新增量/复用/使用/独特性=(3, 3, 3, 3)；在分离低噪任务的kernel区间，评估持续学习需同时跟踪训练遗忘与延迟泛化，增加宽度并不自动免除数据需求。 证据PDF第4–6页；条件见卡片。 原文：https://proceedings.mlr.press/v306/taheri26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taheri26a/taheri26a.pdf。	scored
+4344	taheri26b	3	4	2	4	65		新增随机训练轨迹的神经barrier合成与独立scenario校正，区别于固定单模型认证；可复用但开销高、概率合并与全域表述存缺口，使用分2；PDF5–9、15–16、19页。 原文：https://proceedings.mlr.press/v306/taheri26b.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taheri26b/taheri26b.pdf。	scored
+4345	tahmasebi26a	4	4	3	4	76		新增量/复用/使用/独特性=(4, 4, 3, 4)；识别对称动力学时检查每个相关不可约块激励秩；未知群搜索还需候选分离，不能仅靠参数计数。 证据PDF第5–8页；条件见卡片。 原文：https://proceedings.mlr.press/v306/tahmasebi26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tahmasebi26a/tahmasebi26a.pdf。	scored
+4346	taimeskhanov26a	4	4	4	4	80		新增量/复用/使用/独特性=(4, 4, 4, 4)；调激活steering强度需检查单token峰值及输出退化；概念概率提高不意味着所有目标token单调提高。 证据PDF第3–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/taimeskhanov26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taimeskhanov26a/taimeskhanov26a.pdf。	scored
+4347	taing26a	4	4	4	4	80		新增量/复用/使用/独特性=(4, 4, 4, 4)；低秩图谱嵌入选维不确定时区分欠维不可消失偏差与过维较慢一致性；此选择有明确噪声及信号条件。 证据PDF第5–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/taing26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taing26a/taing26a.pdf。	scored
+4348	tajwar26a	5	5	5	5	100		新增量/复用/使用/独特性=(5, 5, 5, 5)；二值终局奖励下按成功轨迹数K而非总样本N归一化，零成功置零；有限N精确对应截断似然目标而非无偏完整ML。 证据PDF第4–8页；条件见卡片。 原文：https://proceedings.mlr.press/v306/tajwar26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tajwar26a/tajwar26a.pdf。	scored
+4349	takabatake26a	4	3	3	4	70		新增量/复用/使用/独特性=(4, 3, 3, 4)；HiPPO相关反对称矩阵低索引特征值近似需用负常数修正，并保留固定索引渐近条件。 证据PDF第4–6页；条件见卡片。 原文：https://proceedings.mlr.press/v306/takabatake26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/takabatake26a/takabatake26a.pdf。	scored
 4350	takagi26a							待原文复核评分	pending
 4351	takakura26a							待原文复核评分	pending
 4352	takawale26a							待原文复核评分	pending

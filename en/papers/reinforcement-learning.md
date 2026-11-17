@@ -43,6 +43,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="luo26ah-loss-functions"></a>[SPHERE: Mitigating the Loss of Spectral Plasticity in Mixture-of-Experts for Deep Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ah)
 - <a id="song26j-loss-functions"></a>[R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning](../../conferences/icml-2026/cards/4201-4300.md#paper-song26j)
 - <a id="song26t-loss-functions"></a>[Chunk-Guided Q-Learning](../../conferences/icml-2026/cards/4201-4300.md#paper-song26t)
+- <a id="tajwar26a-loss-functions"></a>[Maximum Likelihood Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#paper-tajwar26a)
 
 <a id="by-optimization"></a>
 
@@ -228,6 +229,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="opryshko26a-inference"></a>[Test-Time Graph Search for Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-opryshko26a)
 - <a id="oren26a-inference"></a>[Twice Sequential Monte Carlo for Tree Search](../../conferences/icml-2026/cards/3501-3600.md#paper-oren26a)
 - <a id="overman26a-inference"></a>[Calibrating Conservatism for Scalable Oversight](../../conferences/icml-2026/cards/3501-3600.md#paper-overman26a)
+- <a id="surendran26a-inference"></a>[Latent Guided Sampling for Combinatorial Optimization](../../conferences/icml-2026/cards/4301-4400.md#paper-surendran26a)
 
 <a id="by-representation-learning"></a>
 

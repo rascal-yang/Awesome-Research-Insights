@@ -133,6 +133,7 @@ Training schedules, curricula, and task or stage composition.
 - [Annotations Mitigate Post-Training Mode Collapse](../../conferences/icml-2026/cards/4201-4300.md#springer26a-training-strategies) · 中文
 - [MESA: Improving MoE Safety Alignment via Decentralized Expertise](../../conferences/icml-2026/cards/4201-4300.md#sun26m-training-strategies) · 中文
 - [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](../../conferences/icml-2026/cards/4201-4300.md#sun26w-training-strategies) · 中文
+- [The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order](../../conferences/icml-2026/cards/4301-4400.md#sweeney26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

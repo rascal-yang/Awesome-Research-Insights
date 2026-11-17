@@ -502,6 +502,7 @@
 - <a id="singh26f-evaluation"></a>[Evaluating Object-Centric Models beyond Object Discovery](../conferences/icml-2026/cards/4101-4200.md#paper-singh26f)
 - <a id="sprunck26a-evaluation"></a>[Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements](../conferences/icml-2026/cards/4201-4300.md#paper-sprunck26a)
 - <a id="sreeram26a-evaluation"></a>[Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation](../conferences/icml-2026/cards/4201-4300.md#paper-sreeram26a)
+- <a id="svatko26a-evaluation"></a>[Deep Learning for BioImaging: What Are We Really Learning?](../conferences/icml-2026/cards/4301-4400.md#paper-svatko26a)
 
 <a id="by-theory-statistics"></a>
 

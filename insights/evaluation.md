@@ -304,6 +304,8 @@
 - [editing-update-privacy-boundary](../conferences/icml-2026/cards/4201-4300.md#sun26z-evaluation) · Reverse-Engineering Model Editing on Language Models
 - [依赖图质量流聚合](../conferences/icml-2026/cards/4301-4400.md#sun26av-evaluation) · Hallucination Detection from Structural Reasoning Model
 - [外部状态变化归因诊断](../conferences/icml-2026/cards/4301-4400.md#sun26ba-evaluation) · AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions
+- [joint-fisher-sketch](../conferences/icml-2026/cards/4301-4400.md#sweeney26b-evaluation) · The Geometry of Updates: Fisher Alignment at Vocabulary Scale
+- [steering-strength-laws](../conferences/icml-2026/cards/4301-4400.md#taimeskhanov26a-evaluation) · Towards Understanding Steering Strength
 
 <a id="by-computer-vision"></a>
 
@@ -362,6 +364,7 @@
 - [归因感知的物体表示评测](../conferences/icml-2026/cards/4101-4200.md#singh26f-evaluation) · Evaluating Object-Centric Models beyond Object Discovery
 - [单观测噪声裂分模型检验](../conferences/icml-2026/cards/4201-4300.md#sprunck26a-evaluation) · Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements
 - [在线自适应时间效用](../conferences/icml-2026/cards/4201-4300.md#sreeram26a-evaluation) · Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation
+- [audit-low-level-shortcuts](../conferences/icml-2026/cards/4301-4400.md#svatko26a-evaluation) · Deep Learning for BioImaging: What Are We Really Learning?
 
 <a id="by-nlp"></a>
 
@@ -386,6 +389,7 @@
 - [按触发词语义审计蒸馏注意力标签的后门风险](../conferences/icml-2026/cards/3801-3900.md#ren26q-evaluation) · Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors
 - [规避检测后的机器文本风格指纹](../conferences/icml-2026/cards/3801-3900.md#rivera-soto26a-evaluation) · Attacks on Machine-Text Detectors Retain Stylistic Fingerprints
 - [分级构造人机协作审稿以测润色误判](../conferences/icml-2026/cards/3901-4000.md#saha26b-evaluation) · Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable
+- [retrieval-blind-spot-audit](../conferences/icml-2026/cards/4301-4400.md#taghavi26a-evaluation) · With Argus Eyes: Assessing Retrieval Gaps via Uncertainty Scoring to Detect and Remedy Retrieval Blind Spots
 
 <a id="by-reinforcement-learning"></a>
 
@@ -552,6 +556,7 @@
 - [用集合覆盖率检查假遗忘](../conferences/icml-2026/cards/4101-4200.md#shi26j-evaluation) · Tackling Fake Forgetting through Uncertainty Quantification
 - [序关系表征对齐](../conferences/icml-2026/cards/4101-4200.md#soares26a-evaluation) · Scalable and Interpretable Representation Alignment with Ordinal Similarity
 - [表征压缩干扰与鲁棒性](../conferences/icml-2026/cards/4201-4300.md#stevinson26a-evaluation) · Adversarial Vulnerability from Interference Between Features in Superposition
+- [stochastic-training-barrier-validation](../conferences/icml-2026/cards/4301-4400.md#taheri26b-evaluation) · Probabilistic Robustness Certificates against Adversarial Attacks
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -301,6 +301,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models](../../conferences/icml-2026/cards/4201-4300.md#su26o-inference) · 中文
 - [Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection](../../conferences/icml-2026/cards/4201-4300.md#sun26b-inference) · 中文
 - [Singular Proxies for Adaptive Caching in Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#sun26ao-inference) · 中文
+- [Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control](../../conferences/icml-2026/cards/4301-4400.md#taghibakhshi26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -440,6 +441,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Test-Time Graph Search for Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#opryshko26a-inference) · 中文
 - [Twice Sequential Monte Carlo for Tree Search](../../conferences/icml-2026/cards/3501-3600.md#oren26a-inference) · 中文
 - [Calibrating Conservatism for Scalable Oversight](../../conferences/icml-2026/cards/3501-3600.md#overman26a-inference) · 中文
+- [Latent Guided Sampling for Combinatorial Optimization](../../conferences/icml-2026/cards/4301-4400.md#surendran26a-inference) · 中文
 
 <a id="by-robotics"></a>
 

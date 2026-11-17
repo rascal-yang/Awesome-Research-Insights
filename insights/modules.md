@@ -230,4 +230,5 @@
 - [用综合征预测匹配解码边权](../conferences/icml-2026/cards/3601-3700.md#peled26a-modules) · Neural Minimum Weight Perfect Matching for Quantum Error Codes
 - [按小波能量给各频带加噪](../conferences/icml-2026/cards/3701-3800.md#qin26e-modules) · Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting
 - [在通量空间融合粗细尺度](../conferences/icml-2026/cards/4101-4200.md#shu26b-modules) · HybridOM: Hybrid Physics-Based and Data-Driven Global Ocean Modeling with Efficient Spatial Downscaling
+- [conditional-clifford-kernels](../conferences/icml-2026/cards/4301-4400.md#szarvas26a-modules) · Conditional Clifford-Steerable CNNs for PDE Modeling
 <!-- classification:end -->

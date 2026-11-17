@@ -220,4 +220,5 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="park26x-theory-statistics"></a>[Quantile-Free Uncertainty Quantification in Graph Neural Networks](../../conferences/icml-2026/cards/3601-3700.md#paper-park26x)
 - <a id="rancati26a-theory-statistics"></a>[Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows](../../conferences/icml-2026/cards/3801-3900.md#paper-rancati26a)
 - <a id="shu26a-theory-statistics"></a>[Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective](../../conferences/icml-2026/cards/4101-4200.md#paper-shu26a)
+- <a id="taing26a-theory-statistics"></a>[On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models](../../conferences/icml-2026/cards/4301-4400.md#paper-taing26a)
 <!-- classification:end -->

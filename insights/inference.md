@@ -301,6 +301,7 @@
 - [生成中持续适配MoE路由](../conferences/icml-2026/cards/4201-4300.md#su26o-inference) · Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models
 - [检测代理模型逐样本路由](../conferences/icml-2026/cards/4201-4300.md#sun26b-inference) · Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection
 - [低秩Value漂移缓存](../conferences/icml-2026/cards/4301-4400.md#sun26ao-inference) · Singular Proxies for Adaptive Caching in Diffusion Language Models
+- [phase-dependent-elastic-capacity](../conferences/icml-2026/cards/4301-4400.md#taghibakhshi26a-inference) · Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control
 
 <a id="by-computer-vision"></a>
 
@@ -440,6 +441,7 @@
 - [用离线局部状态图补上长程规划](../conferences/icml-2026/cards/3501-3600.md#opryshko26a-inference) · Test-Time Graph Search for Goal-Conditioned Reinforcement Learning
 - [先按根动作分配粒子再做树搜索](../conferences/icml-2026/cards/3501-3600.md#oren26a-inference) · Twice Sequential Monte Carlo for Tree Search
 - [用多个评分器校准行动保守度](../conferences/icml-2026/cards/3501-3600.md#overman26a-inference) · Calibrating Conservatism for Scalable Oversight
+- [latent-particle-decoder-adaptation](../conferences/icml-2026/cards/4301-4400.md#surendran26a-inference) · Latent Guided Sampling for Combinatorial Optimization
 
 <a id="by-robotics"></a>
 

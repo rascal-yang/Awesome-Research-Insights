@@ -134,6 +134,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="peled26a-modules"></a>[Neural Minimum Weight Perfect Matching for Quantum Error Codes](../../conferences/icml-2026/cards/3601-3700.md#paper-peled26a)
 - <a id="qin26e-modules"></a>[Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26e)
 - <a id="shu26b-modules"></a>[HybridOM: Hybrid Physics-Based and Data-Driven Global Ocean Modeling with Efficient Spatial Downscaling](../../conferences/icml-2026/cards/4101-4200.md#paper-shu26b)
+- <a id="szarvas26a-modules"></a>[Conditional Clifford-Steerable CNNs for PDE Modeling](../../conferences/icml-2026/cards/4301-4400.md#paper-szarvas26a)
 
 <a id="by-loss-functions"></a>
 
@@ -445,4 +446,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="men26a-theory-statistics"></a>[FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#paper-men26a)
 - <a id="queiruga26a-theory-statistics"></a>[Interpretability and Generalization Bounds for Learning Spatial Physics](../../conferences/icml-2026/cards/3701-3800.md#paper-queiruga26a)
 - <a id="salehkaleybar26a-theory-statistics"></a>[One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../../conferences/icml-2026/cards/3901-4000.md#paper-salehkaleybar26a)
+- <a id="tahmasebi26a-theory-statistics"></a>[Adaptive Symmetry Discovery for Dynamical System Identification](../../conferences/icml-2026/cards/4301-4400.md#paper-tahmasebi26a)
 <!-- classification:end -->

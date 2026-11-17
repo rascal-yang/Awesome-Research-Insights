@@ -617,6 +617,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="simon26b-representation-learning"></a>[Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability](../../conferences/icml-2026/cards/4101-4200.md#paper-simon26b)
 - <a id="slavutsky26a-representation-learning"></a>[Variational Learning of Disentangled Representations](../../conferences/icml-2026/cards/4101-4200.md#paper-slavutsky26a)
 - <a id="sun26k-representation-learning"></a>[Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26k)
+- <a id="tabanelli26a-representation-learning"></a>[Deep Learning of Compositional Targets with Hierarchical Spectral Methods](../../conferences/icml-2026/cards/4301-4400.md#paper-tabanelli26a)
 
 <a id="by-evaluation"></a>
 
@@ -672,6 +673,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shi26j-evaluation"></a>[Tackling Fake Forgetting through Uncertainty Quantification](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26j)
 - <a id="soares26a-evaluation"></a>[Scalable and Interpretable Representation Alignment with Ordinal Similarity](../../conferences/icml-2026/cards/4101-4200.md#paper-soares26a)
 - <a id="stevinson26a-evaluation"></a>[Adversarial Vulnerability from Interference Between Features in Superposition](../../conferences/icml-2026/cards/4201-4300.md#paper-stevinson26a)
+- <a id="taheri26b-evaluation"></a>[Probabilistic Robustness Certificates against Adversarial Attacks](../../conferences/icml-2026/cards/4301-4400.md#paper-taheri26b)
 
 <a id="by-theory-statistics"></a>
 
@@ -1034,4 +1036,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shestakov26a-theory-statistics"></a>[From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping](../../conferences/icml-2026/cards/4001-4100.md#paper-shestakov26a)
 - <a id="stein26b-theory-statistics"></a>[Approximating f -Divergences with Rank Statistics](../../conferences/icml-2026/cards/4201-4300.md#paper-stein26b)
 - <a id="sun26af-theory-statistics"></a>[Robustness of Mixtures of Experts to Feature Noise](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26af)
+- <a id="svete26a-theory-statistics"></a>[Revisiting Padded Transformer Expressivity: Which Architectural Choices Matter and Which Don’t](../../conferences/icml-2026/cards/4301-4400.md#paper-svete26a)
+- <a id="taga26a-theory-statistics"></a>[Learning to Bet for Horizon-Aware Anytime-Valid Testing](../../conferences/icml-2026/cards/4301-4400.md#paper-taga26a)
+- <a id="taheri26a-theory-statistics"></a>[On the Theory of Continual Learning with Gradient Descent for Neural Networks](../../conferences/icml-2026/cards/4301-4400.md#paper-taheri26a)
+- <a id="takabatake26a-theory-statistics"></a>[State Space Model with Continuous Limit of HiPPO Matrix: Eigenvalue Analysis and Explicit Solution Formula](../../conferences/icml-2026/cards/4301-4400.md#paper-takabatake26a)
 <!-- classification:end -->

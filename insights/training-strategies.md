@@ -133,6 +133,7 @@
 - [语义边缘锚定后训练](../conferences/icml-2026/cards/4201-4300.md#springer26a-training-strategies) · Annotations Mitigate Post-Training Mode Collapse
 - [MoE对齐的专家容量分配](../conferences/icml-2026/cards/4201-4300.md#sun26m-training-strategies) · MESA: Improving MoE Safety Alignment via Decentralized Expertise
 - [trajectory-aware-gui-judge](../conferences/icml-2026/cards/4201-4300.md#sun26w-training-strategies) · SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience
+- [lie-bracket-curriculum](../conferences/icml-2026/cards/4301-4400.md#sweeney26a-training-strategies) · The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order
 
 <a id="by-computer-vision"></a>
 

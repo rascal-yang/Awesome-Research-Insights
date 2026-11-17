@@ -540,6 +540,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping](../../conferences/icml-2026/cards/4001-4100.md#shestakov26a-theory-statistics) · 中文
 - [Approximating f -Divergences with Rank Statistics](../../conferences/icml-2026/cards/4201-4300.md#stein26b-theory-statistics) · 中文
 - [Robustness of Mixtures of Experts to Feature Noise](../../conferences/icml-2026/cards/4301-4400.md#sun26af-theory-statistics) · 中文
+- [Revisiting Padded Transformer Expressivity: Which Architectural Choices Matter and Which Don’t](../../conferences/icml-2026/cards/4301-4400.md#svete26a-theory-statistics) · 中文
+- [Learning to Bet for Horizon-Aware Anytime-Valid Testing](../../conferences/icml-2026/cards/4301-4400.md#taga26a-theory-statistics) · 中文
+- [On the Theory of Continual Learning with Gradient Descent for Neural Networks](../../conferences/icml-2026/cards/4301-4400.md#taheri26a-theory-statistics) · 中文
+- [State Space Model with Continuous Limit of HiPPO Matrix: Eigenvalue Analysis and Explicit Solution Formula](../../conferences/icml-2026/cards/4301-4400.md#takabatake26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -565,6 +569,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Quantile-Free Uncertainty Quantification in Graph Neural Networks](../../conferences/icml-2026/cards/3601-3700.md#park26x-theory-statistics) · 中文
 - [Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows](../../conferences/icml-2026/cards/3801-3900.md#rancati26a-theory-statistics) · 中文
 - [Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective](../../conferences/icml-2026/cards/4101-4200.md#shu26a-theory-statistics) · 中文
+- [On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models](../../conferences/icml-2026/cards/4301-4400.md#taing26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -591,4 +596,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · 中文
 - [Interpretability and Generalization Bounds for Learning Spatial Physics](../../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · 中文
 - [One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · 中文
+- [Adaptive Symmetry Discovery for Dynamical System Identification](../../conferences/icml-2026/cards/4301-4400.md#tahmasebi26a-theory-statistics) · 中文
 <!-- classification:end -->

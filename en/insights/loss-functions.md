@@ -100,6 +100,7 @@ Objectives, auxiliary supervision, and regularization.
 - [SPHERE: Mitigating the Loss of Spectral Plasticity in Mixture-of-Experts for Deep Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luo26ah-loss-functions) · 中文
 - [R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning](../../conferences/icml-2026/cards/4201-4300.md#song26j-loss-functions) · 中文
 - [Chunk-Guided Q-Learning](../../conferences/icml-2026/cards/4201-4300.md#song26t-loss-functions) · 中文
+- [Maximum Likelihood Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#tajwar26a-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

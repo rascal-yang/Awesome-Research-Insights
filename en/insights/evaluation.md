@@ -304,6 +304,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Reverse-Engineering Model Editing on Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26z-evaluation) · 中文
 - [Hallucination Detection from Structural Reasoning Model](../../conferences/icml-2026/cards/4301-4400.md#sun26av-evaluation) · 中文
 - [AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](../../conferences/icml-2026/cards/4301-4400.md#sun26ba-evaluation) · 中文
+- [The Geometry of Updates: Fisher Alignment at Vocabulary Scale](../../conferences/icml-2026/cards/4301-4400.md#sweeney26b-evaluation) · 中文
+- [Towards Understanding Steering Strength](../../conferences/icml-2026/cards/4301-4400.md#taimeskhanov26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -362,6 +364,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Evaluating Object-Centric Models beyond Object Discovery](../../conferences/icml-2026/cards/4101-4200.md#singh26f-evaluation) · 中文
 - [Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements](../../conferences/icml-2026/cards/4201-4300.md#sprunck26a-evaluation) · 中文
 - [Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation](../../conferences/icml-2026/cards/4201-4300.md#sreeram26a-evaluation) · 中文
+- [Deep Learning for BioImaging: What Are We Really Learning?](../../conferences/icml-2026/cards/4301-4400.md#svatko26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -386,6 +389,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors](../../conferences/icml-2026/cards/3801-3900.md#ren26q-evaluation) · 中文
 - [Attacks on Machine-Text Detectors Retain Stylistic Fingerprints](../../conferences/icml-2026/cards/3801-3900.md#rivera-soto26a-evaluation) · 中文
 - [Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable](../../conferences/icml-2026/cards/3901-4000.md#saha26b-evaluation) · 中文
+- [With Argus Eyes: Assessing Retrieval Gaps via Uncertainty Scoring to Detect and Remedy Retrieval Blind Spots](../../conferences/icml-2026/cards/4301-4400.md#taghavi26a-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -552,6 +556,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Tackling Fake Forgetting through Uncertainty Quantification](../../conferences/icml-2026/cards/4101-4200.md#shi26j-evaluation) · 中文
 - [Scalable and Interpretable Representation Alignment with Ordinal Similarity](../../conferences/icml-2026/cards/4101-4200.md#soares26a-evaluation) · 中文
 - [Adversarial Vulnerability from Interference Between Features in Superposition](../../conferences/icml-2026/cards/4201-4300.md#stevinson26a-evaluation) · 中文
+- [Probabilistic Robustness Certificates against Adversarial Attacks](../../conferences/icml-2026/cards/4301-4400.md#taheri26b-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

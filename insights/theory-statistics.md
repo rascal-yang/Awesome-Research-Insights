@@ -540,6 +540,10 @@
 - [区分重尾数据抽样与固定集梯度噪声](../conferences/icml-2026/cards/4001-4100.md#shestakov26a-theory-statistics) · From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping
 - [秩直方图散度估计](../conferences/icml-2026/cards/4201-4300.md#stein26b-theory-statistics) · Approximating f -Divergences with Rank Statistics
 - [modular-routing-noise-filter](../conferences/icml-2026/cards/4301-4400.md#sun26af-theory-statistics) · Robustness of Mixtures of Experts to Feature Noise
+- [precision-depth-expressivity](../conferences/icml-2026/cards/4301-4400.md#svete26a-theory-statistics) · Revisiting Padded Transformer Expressivity: Which Architectural Choices Matter and Which Don’t
+- [horizon-aware-testing](../conferences/icml-2026/cards/4301-4400.md#taga26a-theory-statistics) · Learning to Bet for Horizon-Aware Anytime-Valid Testing
+- [continual-kernel-regime](../conferences/icml-2026/cards/4301-4400.md#taheri26a-theory-statistics) · On the Theory of Continual Learning with Gradient Descent for Neural Networks
+- [hippo-skew-eigen-asymptotics](../conferences/icml-2026/cards/4301-4400.md#takabatake26a-theory-statistics) · State Space Model with Continuous Limit of HiPPO Matrix: Eigenvalue Analysis and Explicit Solution Formula
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -565,6 +569,7 @@
 - [用覆盖与宽度联合目标学习图上的预测区间](../conferences/icml-2026/cards/3601-3700.md#park26x-theory-statistics) · Quantile-Free Uncertainty Quantification in Graph Neural Networks
 - [从离散分布快照恢复自由能扩散](../conferences/icml-2026/cards/3801-3900.md#rancati26a-theory-statistics) · Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows
 - [稀疏图跨规模归一化边界](../conferences/icml-2026/cards/4101-4200.md#shu26a-theory-statistics) · Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective
+- [spectral-dimension-misspecification](../conferences/icml-2026/cards/4301-4400.md#taing26a-theory-statistics) · On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models
 
 <a id="by-scientific-ml"></a>
 
@@ -591,4 +596,5 @@
 - [右删失生存分位](../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival
 - [空间物理学习的函数空间外推](../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · Interpretability and Generalization Bounds for Learning Spatial Physics
 - [用每个强连通分量一次的干预恢复线性随机动力学](../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State
+- [symmetry-identifiability](../conferences/icml-2026/cards/4301-4400.md#tahmasebi26a-theory-statistics) · Adaptive Symmetry Discovery for Dynamical System Identification
 <!-- classification:end -->
