@@ -264,6 +264,7 @@
 - <a id="song26af-training-strategies"></a>[DomED: Redesigning Ensemble Distillation for Domain Generalization](../conferences/icml-2026/cards/4201-4300.md#paper-song26af)
 - <a id="su26h-training-strategies"></a>[OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection](../conferences/icml-2026/cards/4201-4300.md#paper-su26h)
 - <a id="sun26az-training-strategies"></a>[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](../conferences/icml-2026/cards/4301-4400.md#paper-sun26az)
+- <a id="tan26b-training-strategies"></a>[VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tan26b)
 
 <a id="by-data-strategies"></a>
 
@@ -444,6 +445,7 @@
 - <a id="shokrolahi26a-representation-learning"></a>[Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation](../conferences/icml-2026/cards/4101-4200.md#paper-shokrolahi26a)
 - <a id="song26i-representation-learning"></a>[Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes](../conferences/icml-2026/cards/4201-4300.md#paper-song26i)
 - <a id="sun26ac-representation-learning"></a>[Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ac)
+- <a id="tan26f-representation-learning"></a>[Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tan26f)
 
 <a id="by-evaluation"></a>
 

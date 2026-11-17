@@ -306,6 +306,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](../../conferences/icml-2026/cards/4301-4400.md#sun26ba-evaluation) · 中文
 - [The Geometry of Updates: Fisher Alignment at Vocabulary Scale](../../conferences/icml-2026/cards/4301-4400.md#sweeney26b-evaluation) · 中文
 - [Towards Understanding Steering Strength](../../conferences/icml-2026/cards/4301-4400.md#taimeskhanov26a-evaluation) · 中文
+- [Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents](../../conferences/icml-2026/cards/4301-4400.md#talokar26a-evaluation) · 中文
+- [Unifying Adversarial Robustness and Training Across Text Scoring Models](../../conferences/icml-2026/cards/4301-4400.md#tamber26a-evaluation) · 中文
+- [Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL](../../conferences/icml-2026/cards/4301-4400.md#tan26g-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -423,6 +426,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty](../../conferences/icml-2026/cards/3201-3300.md#meng26n-evaluation) · 中文
 - [BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis](../../conferences/icml-2026/cards/3701-3800.md#qi26p-evaluation) · 中文
 - [AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation](../../conferences/icml-2026/cards/4301-4400.md#sun26an-evaluation) · 中文
+- [See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent](../../conferences/icml-2026/cards/4301-4400.md#tang26a-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 

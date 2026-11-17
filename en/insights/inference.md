@@ -302,6 +302,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection](../../conferences/icml-2026/cards/4201-4300.md#sun26b-inference) · 中文
 - [Singular Proxies for Adaptive Caching in Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#sun26ao-inference) · 中文
 - [Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control](../../conferences/icml-2026/cards/4301-4400.md#taghibakhshi26a-inference) · 中文
+- [Restoring Exploration after Post-Training: Latent Exploration Decoding for Large Reasoning Models](../../conferences/icml-2026/cards/4301-4400.md#tan26d-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -168,6 +168,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models](../../conferences/icml-2026/cards/4201-4300.md#song26aa-reinforcement-learning) · 中文
 - [Conversation for Non-verifiable Learning: Self-Evolving Large Language Models through Meta-Evaluation](../../conferences/icml-2026/cards/4201-4300.md#sui26a-reinforcement-learning) · 中文
 - [Scaling Long-Horizon Agent via Context Folding](../../conferences/icml-2026/cards/4201-4300.md#sun26x-reinforcement-learning) · 中文
+- [Inference-Aware Meta-Alignment of LLMs via Non-Linear GRPO](../../conferences/icml-2026/cards/4301-4400.md#takakura26a-reinforcement-learning) · 中文
+- [CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents](../../conferences/icml-2026/cards/4301-4400.md#tang26c-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -4348,26 +4348,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4347	taing26a	4	4	4	4	80		新增量/复用/使用/独特性=(4, 4, 4, 4)；低秩图谱嵌入选维不确定时区分欠维不可消失偏差与过维较慢一致性；此选择有明确噪声及信号条件。 证据PDF第5–7页；条件见卡片。 原文：https://proceedings.mlr.press/v306/taing26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taing26a/taing26a.pdf。	scored
 4348	tajwar26a	5	5	5	5	100		新增量/复用/使用/独特性=(5, 5, 5, 5)；二值终局奖励下按成功轨迹数K而非总样本N归一化，零成功置零；有限N精确对应截断似然目标而非无偏完整ML。 证据PDF第4–8页；条件见卡片。 原文：https://proceedings.mlr.press/v306/tajwar26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tajwar26a/tajwar26a.pdf。	scored
 4349	takabatake26a	4	3	3	4	70		新增量/复用/使用/独特性=(4, 3, 3, 4)；HiPPO相关反对称矩阵低索引特征值近似需用负常数修正，并保留固定索引渐近条件。 证据PDF第4–6页；条件见卡片。 原文：https://proceedings.mlr.press/v306/takabatake26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/takabatake26a/takabatake26a.pdf。	scored
-4350	takagi26a							待原文复核评分	pending
-4351	takakura26a							待原文复核评分	pending
-4352	takawale26a							待原文复核评分	pending
-4353	takeno26a							待原文复核评分	pending
-4354	takezawa26a							待原文复核评分	pending
-4355	takhanov26a							待原文复核评分	pending
-4356	talokar26a							待原文复核评分	pending
-4357	tamber26a							待原文复核评分	pending
-4358	tan26a							待原文复核评分	pending
-4359	tan26b							待原文复核评分	pending
-4360	tan26c							待原文复核评分	pending
-4361	tan26d							待原文复核评分	pending
-4362	tan26e							待原文复核评分	pending
-4363	tan26f							待原文复核评分	pending
-4364	tan26g							待原文复核评分	pending
-4365	tan26h							待原文复核评分	pending
-4366	tang26a							待原文复核评分	pending
-4367	tang26b							待原文复核评分	pending
-4368	tang26c							待原文复核评分	pending
-4369	tang26d							待原文复核评分	pending
+4350	takagi26a	4	4	3	4	76		新增量依据：洗牌后隐私机制选择；复用指向卡内操作；可用性受必须无偏、指定高隐私渐近区间；有限样本图是理论曲线而非神经训练实验；普通Gaussian更快收敛的比较依赖既有猜想，多轮组合仍未证。 原文PDF第5,6,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/takagi26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/takagi26a/takagi26a.pdf。	scored
+4351	takakura26a	4	5	4	4	86		新增量依据：面向推理变换的元对齐；复用指向卡内操作；可用性受指数收敛针对凹性、相对光滑和精确概率空间近端更新；实践神经参数化与裁剪不继承全局最优保证；奖励模型评判并非人类评价。 原文PDF第3,4,5,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/takakura26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/takakura26a/takakura26a.pdf。	scored
+4352	takawale26a	4	4	3	4	76		新增量依据：复频域声场与色散约束；复用指向卡内操作；可用性受场景内测量监督；未见几何和动态条件泛化仍是未来工作；射线密度增加带来显存/时间成本；Eq3复指数符号与后续相位定义存在不一致，不能按文字认定物理严谨性。 原文PDF第4,5,7,8,9页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/takawale26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/takawale26a/takawale26a.pdf。	scored
+4353	takeno26a	4	4	4	4	80		新增量依据：Thompson采样尾部风险边界；复用指向卡内操作；可用性受反例指数很大，不证明实践TS不稳定；δ依赖紧性未解决；改进T阶需SE或Matérn ν>2及局部唯一最大值等条件，常数依赖维度。 原文PDF第3,5,6,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/takeno26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/takeno26a/takeno26a.pdf。	scored
+4354	takezawa26a	4	4	4	4	80		新增量依据：全谱区分随机噪声与异质性；复用指向卡内操作；可用性受独立节点噪声与固定合规混合矩阵等假设重要；不是任意噪声/任意有向动态图结论；异质项及允许步长η≤p/(5L)仍依赖谱隙。 原文PDF第4,5,7页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/takezawa26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/takezawa26a/takezawa26a.pdf。	scored
+4355	takhanov26a	4	4	3	4	76		新增量依据：核回归的不惩罚子空间；复用指向卡内操作；可用性受λ必须非零；Gaussian随机特征软谱阈值公式是热力学极限非严格论证；不可把实验N^-1推广为定理或认为所有核均U形。 原文PDF第4,5,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/takhanov26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/takhanov26a/takhanov26a.pdf。	scored
+4356	talokar26a	3	4	4	3	70		新增量是多轮工具环境下逐轮过滤的失败边界与非单调推理安全关系；可指导选择系统级防御并同时核查良性代价；正文定量防御表集中一个模型且良性/有害轮次不匹配，限制迁移。原文PDF第8–9页；标准生存统计本身不计新增量。 原文：https://proceedings.mlr.press/v306/talokar26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/talokar26a/talokar26a.pdf。	scored
+4357	tamber26a	4	5	4	4	86		新增量依据：威胁族间鲁棒迁移失败；复用指向卡内操作；可用性受威胁预算与样本预筛会影响ASR；提升编辑难度不等于安全；奖励模型平均有效性63.3→62.9，不能声称处处无性能代价。 原文PDF第4,6,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/tamber26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tamber26a/tamber26a.pdf。	scored
+4358	tan26a	3	4	3	3	66		相较既有流式反事实，改动为共享分类/均匀噪声判别器的密度参考及当前终点局部蒸馏；NCE/ODE本身不计新意，新增量与独特性3；复用4，代理校准和模型变动仍需核验，使用3。原文PDF第3–7页。 原文：https://proceedings.mlr.press/v306/tan26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tan26a/tan26a.pdf。	scored
+4359	tan26b	4	4	4	4	80		新增量依据：感知前置RL与任务梯度分配；复用指向卡内操作；可用性受完整模型收益不能全归因前置任务；人工构造感知难度和检测结果只在已测视频任务成立，非机器人控制验证；事实推理能力可能受SFT影响。 原文PDF第4,6,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/tan26b.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tan26b/tan26b.pdf。	scored
+4360	tan26c	4	4	4	4	80		新增量依据：无需原语料的局部几何遗忘；复用指向卡内操作；可用性受只能证明行为抑制，不能保证知识物理删除；1B PrivLeak仍−22.3；早中层编辑无明显效果，40条合成样本增加效用损失；最优层/PCA秩依赖模型。 原文PDF第4,6,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/tan26c.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tan26c/tan26c.pdf。	scored
+4361	tan26d	4	5	4	4	86		新增量依据：最终候选集内的深度探索；复用指向卡内操作；可用性受限制末层top-k，候选外潜在答案不可恢复；需访问多层激活及多次LM head投影，有额外内存/计算；并非所有归一化和指标方向一致。 原文PDF第4,5,7页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/tan26d.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tan26d/tan26d.pdf。	scored
+4362	tan26e	4	5	4	4	86		新增量依据：按成败分组的熵重分配；复用指向卡内操作；可用性受熵只是代理信用非因果贡献；实现还截熵至[0.2,0.28]并用过长惩罚，不能归因纯奖励；正文公式空组/零方差处理未充分说明，最优性论证不是任意神经训练保证。 原文PDF第4,6,7页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/tan26e.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tan26e/tan26e.pdf。	scored
+4363	tan26f	4	4	4	4	80		新增量依据：Jacobian分维排序对比；复用指向卡内操作；可用性受严格子空间解耦需Jacobian支持完全不交，有限正则仅近似；局部一阶敏感性不等于全局独立因素；依赖监督初始化，argmax mask不通过梯度，未验证通用机器人状态回归。 原文PDF第3,4,6,7页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/tan26f.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tan26f/tan26f.pdf。	scored
+4364	tan26g	4	5	4	4	86		新增量依据：自奖励的耦合与过奖励偏差；复用指向卡内操作；可用性受诊断oracle指标需要真值，不能直接部署估计；固定总rollout不等于相同模型内存/训练成本；自反馈距离指标非统计独立性；结论限已测可验证答案任务。 原文PDF第3,4,6,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/tan26g.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tan26g/tan26g.pdf。	scored
+4365	tan26h							SQL候选搜索、经典时序算子验证和执行纠错构成面向时序数据库的工程集成；表4证实自建任务收益，但所检正文未隔离能改变通用神经训练或具身决策选择的独立机制。原文PDF第6–9页；Pearson相关作为causal links验证也不构成因果保证。 原文：https://proceedings.mlr.press/v306/tan26h.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tan26h/tan26h.pdf。	rule-excluded
+4366	tang26a	3	4	4	3	70		新增量依据：主动视角中的置信奖励失效；复用指向卡内操作；可用性受无下游感知标签不等于完全无监督，含启发式SFT和任务路由标签；仿真结果不保证现实闭环；几何奖励仍可偏向大/居中错误目标。 原文PDF第4,5,7,8页；独特性按最接近方法差异保守评分，待全库统一去重。 原文：https://proceedings.mlr.press/v306/tang26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26a/tang26a.pdf。	scored
+4367	tang26b							FedStar已提供结构编码与选择共享；新增GIN预测/测量残差为固定标量K=0.5校正，而非新自适应Kalman增益。附录表15/16检验编码和正则权重，但未隔离相对FedStar加普通残差/门控的独立增量；动态门控不收敛仅有定性陈述，不能抽取足够限定的可复用失败规律。原文PDF第3–4、17–18、26–28页；不以小幅跑分或理论代理假设本身作为排除理由。 原文：https://proceedings.mlr.press/v306/tang26b.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26b/tang26b.pdf。	rule-excluded
+4368	tang26c	3	4	3	3	66		相较GDPO统一分奖励归一，独立改动为任务组内与角色历史统计的不同时间尺度，新增量与独特性3；可迁移多目标奖励，复用4；历史标准与对比锚组内标准存在张力，使用3。原文PDF第4–7页。 原文：https://proceedings.mlr.press/v306/tang26c.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26c/tang26c.pdf。	scored
+4369	tang26d							恢复SFT、SSIM/CLIP奖励的Flow-GRPO与原图/恢复图联合问答均沿用现成机制；所检消融证明各阶段有用，但不足以把这套任务集成作为独立新机制收录。原文PDF第4–5、7–9页；不能把合成多强度图像腐化结果称为自适应白盒对抗保证。 原文：https://proceedings.mlr.press/v306/tang26d.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26d/tang26d.pdf。	rule-excluded
 4370	tang26e							待原文复核评分	pending
 4371	tang26f							待原文复核评分	pending
 4372	tang26g							待原文复核评分	pending

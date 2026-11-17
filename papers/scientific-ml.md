@@ -387,6 +387,7 @@
 - <a id="schaefer26a-representation-learning"></a>[Transitive Representation Learning Enhances Histopathology Annotation](../conferences/icml-2026/cards/3901-4000.md#paper-schaefer26a)
 - <a id="schneckenreiter26a-representation-learning"></a>[Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](../conferences/icml-2026/cards/3901-4000.md#paper-schneckenreiter26a)
 - <a id="schwerdtner26a-representation-learning"></a>[Two-Parameter Flows for Learning Population Dynamics of Physical Systems](../conferences/icml-2026/cards/3901-4000.md#paper-schwerdtner26a)
+- <a id="takawale26a-representation-learning"></a>[INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments](../conferences/icml-2026/cards/4301-4400.md#paper-takawale26a)
 
 <a id="by-evaluation"></a>
 

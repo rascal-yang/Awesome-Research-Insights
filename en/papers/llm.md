@@ -145,6 +145,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shi26e-loss-functions"></a>[Multilingual Safety Alignment via Representation-Space Separability](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26e)
 - <a id="simko26a-loss-functions"></a>[Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks](../../conferences/icml-2026/cards/4101-4200.md#paper-simko26a)
 - <a id="sun26i-loss-functions"></a>[Closing the Expression Gap in LLM Instructions via Socratic Questioning](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26i)
+- <a id="tan26e-loss-functions"></a>[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26e)
 
 <a id="by-optimization"></a>
 
@@ -386,6 +387,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="song26aa-reinforcement-learning"></a>[IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models](../../conferences/icml-2026/cards/4201-4300.md#paper-song26aa)
 - <a id="sui26a-reinforcement-learning"></a>[Conversation for Non-verifiable Learning: Self-Evolving Large Language Models through Meta-Evaluation](../../conferences/icml-2026/cards/4201-4300.md#paper-sui26a)
 - <a id="sun26x-reinforcement-learning"></a>[Scaling Long-Horizon Agent via Context Folding](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26x)
+- <a id="takakura26a-reinforcement-learning"></a>[Inference-Aware Meta-Alignment of LLMs via Non-Linear GRPO](../../conferences/icml-2026/cards/4301-4400.md#paper-takakura26a)
+- <a id="tang26c-reinforcement-learning"></a>[CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26c)
 
 <a id="by-training-strategies"></a>
 
@@ -873,6 +876,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="sun26b-inference"></a>[Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26b)
 - <a id="sun26ao-inference"></a>[Singular Proxies for Adaptive Caching in Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ao)
 - <a id="taghibakhshi26a-inference"></a>[Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control](../../conferences/icml-2026/cards/4301-4400.md#paper-taghibakhshi26a)
+- <a id="tan26d-inference"></a>[Restoring Exploration after Post-Training: Latent Exploration Decoding for Large Reasoning Models](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26d)
 
 <a id="by-representation-learning"></a>
 
@@ -892,6 +896,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="pimparkhede26a-representation-learning"></a>[Learning the ESG Geometry with Domain Aware Language Models](../../conferences/icml-2026/cards/3601-3700.md#paper-pimparkhede26a)
 - <a id="shafran26a-representation-learning"></a>[From Directions to Regions: Decomposing Activations in Language Models via Local Geometry](../../conferences/icml-2026/cards/4001-4100.md#paper-shafran26a)
 - <a id="shai26a-representation-learning"></a>[Transformers learn factored representations](../../conferences/icml-2026/cards/4001-4100.md#paper-shai26a)
+- <a id="tan26c-representation-learning"></a>[Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26c)
 
 <a id="by-evaluation"></a>
 
@@ -1190,6 +1195,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="sun26ba-evaluation"></a>[AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ba)
 - <a id="sweeney26b-evaluation"></a>[The Geometry of Updates: Fisher Alignment at Vocabulary Scale](../../conferences/icml-2026/cards/4301-4400.md#paper-sweeney26b)
 - <a id="taimeskhanov26a-evaluation"></a>[Towards Understanding Steering Strength](../../conferences/icml-2026/cards/4301-4400.md#paper-taimeskhanov26a)
+- <a id="talokar26a-evaluation"></a>[Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents](../../conferences/icml-2026/cards/4301-4400.md#paper-talokar26a)
+- <a id="tamber26a-evaluation"></a>[Unifying Adversarial Robustness and Training Across Text Scoring Models](../../conferences/icml-2026/cards/4301-4400.md#paper-tamber26a)
+- <a id="tan26g-evaluation"></a>[Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26g)
 
 <a id="by-theory-statistics"></a>
 

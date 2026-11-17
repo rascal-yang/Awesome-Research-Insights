@@ -206,6 +206,7 @@
 - <a id="meng26n-evaluation"></a>[Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty](../conferences/icml-2026/cards/3201-3300.md#paper-meng26n)
 - <a id="qi26p-evaluation"></a>[BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis](../conferences/icml-2026/cards/3701-3800.md#paper-qi26p)
 - <a id="sun26an-evaluation"></a>[AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation](../conferences/icml-2026/cards/4301-4400.md#paper-sun26an)
+- <a id="tang26a-evaluation"></a>[See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent](../conferences/icml-2026/cards/4301-4400.md#paper-tang26a)
 
 <a id="by-theory-statistics"></a>
 

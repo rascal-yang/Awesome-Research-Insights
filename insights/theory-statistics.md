@@ -544,6 +544,10 @@
 - [horizon-aware-testing](../conferences/icml-2026/cards/4301-4400.md#taga26a-theory-statistics) · Learning to Bet for Horizon-Aware Anytime-Valid Testing
 - [continual-kernel-regime](../conferences/icml-2026/cards/4301-4400.md#taheri26a-theory-statistics) · On the Theory of Continual Learning with Gradient Descent for Neural Networks
 - [hippo-skew-eigen-asymptotics](../conferences/icml-2026/cards/4301-4400.md#takabatake26a-theory-statistics) · State Space Model with Continuous Limit of HiPPO Matrix: Eigenvalue Analysis and Explicit Solution Formula
+- [洗牌后隐私机制选择](../conferences/icml-2026/cards/4301-4400.md#takagi26a-theory-statistics) · Shuffling-Aware Optimization for Private Vector Mean Estimation
+- [Thompson采样尾部风险边界](../conferences/icml-2026/cards/4301-4400.md#takeno26a-theory-statistics) · On Regret Bounds of Thompson Sampling for Bayesian Optimization
+- [全谱区分随机噪声与异质性](../conferences/icml-2026/cards/4301-4400.md#takezawa26a-theory-statistics) · Improved Convergence Analysis of Topology Dependence in Decentralized SGD
+- [核回归的不惩罚子空间](../conferences/icml-2026/cards/4301-4400.md#takhanov26a-theory-statistics) · Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -398,6 +398,7 @@
 - <a id="song26h-optimization"></a>[LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent](../conferences/icml-2026/cards/4201-4300.md#paper-song26h)
 - <a id="song26ac-optimization"></a>[Zeroth-Order Optimization at the Edge of Stability](../conferences/icml-2026/cards/4201-4300.md#paper-song26ac)
 - <a id="sun26r-optimization"></a>[Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace](../conferences/icml-2026/cards/4201-4300.md#paper-sun26r)
+- <a id="tan26a-optimization"></a>[Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity](../conferences/icml-2026/cards/4301-4400.md#paper-tan26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1040,4 +1041,8 @@
 - <a id="taga26a-theory-statistics"></a>[Learning to Bet for Horizon-Aware Anytime-Valid Testing](../conferences/icml-2026/cards/4301-4400.md#paper-taga26a)
 - <a id="taheri26a-theory-statistics"></a>[On the Theory of Continual Learning with Gradient Descent for Neural Networks](../conferences/icml-2026/cards/4301-4400.md#paper-taheri26a)
 - <a id="takabatake26a-theory-statistics"></a>[State Space Model with Continuous Limit of HiPPO Matrix: Eigenvalue Analysis and Explicit Solution Formula](../conferences/icml-2026/cards/4301-4400.md#paper-takabatake26a)
+- <a id="takagi26a-theory-statistics"></a>[Shuffling-Aware Optimization for Private Vector Mean Estimation](../conferences/icml-2026/cards/4301-4400.md#paper-takagi26a)
+- <a id="takeno26a-theory-statistics"></a>[On Regret Bounds of Thompson Sampling for Bayesian Optimization](../conferences/icml-2026/cards/4301-4400.md#paper-takeno26a)
+- <a id="takezawa26a-theory-statistics"></a>[Improved Convergence Analysis of Topology Dependence in Decentralized SGD](../conferences/icml-2026/cards/4301-4400.md#paper-takezawa26a)
+- <a id="takhanov26a-theory-statistics"></a>[Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding](../conferences/icml-2026/cards/4301-4400.md#paper-takhanov26a)
 <!-- classification:end -->

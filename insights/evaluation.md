@@ -306,6 +306,9 @@
 - [外部状态变化归因诊断](../conferences/icml-2026/cards/4301-4400.md#sun26ba-evaluation) · AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions
 - [joint-fisher-sketch](../conferences/icml-2026/cards/4301-4400.md#sweeney26b-evaluation) · The Geometry of Updates: Fisher Alignment at Vocabulary Scale
 - [steering-strength-laws](../conferences/icml-2026/cards/4301-4400.md#taimeskhanov26a-evaluation) · Towards Understanding Steering Strength
+- [多轮工具安全的过滤盲点与推理预算](../conferences/icml-2026/cards/4301-4400.md#talokar26a-evaluation) · Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents
+- [威胁族间鲁棒迁移失败](../conferences/icml-2026/cards/4301-4400.md#tamber26a-evaluation) · Unifying Adversarial Robustness and Training Across Text Scoring Models
+- [自奖励的耦合与过奖励偏差](../conferences/icml-2026/cards/4301-4400.md#tan26g-evaluation) · Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL
 
 <a id="by-computer-vision"></a>
 
@@ -423,6 +426,7 @@
 - [按扰动修正扭矩分层评估动作模仿](../conferences/icml-2026/cards/3201-3300.md#meng26n-evaluation) · Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty
 - [以原子技能定位具身长任务错误](../conferences/icml-2026/cards/3701-3800.md#qi26p-evaluation) · BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis
 - [空中操纵的视角依赖诊断](../conferences/icml-2026/cards/4301-4400.md#sun26an-evaluation) · AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation
+- [主动视角中的置信奖励失效](../conferences/icml-2026/cards/4301-4400.md#tang26a-evaluation) · See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent
 
 <a id="by-multimodal"></a>
 

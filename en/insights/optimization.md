@@ -391,6 +391,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent](../../conferences/icml-2026/cards/4201-4300.md#song26h-optimization) · 中文
 - [Zeroth-Order Optimization at the Edge of Stability](../../conferences/icml-2026/cards/4201-4300.md#song26ac-optimization) · 中文
 - [Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace](../../conferences/icml-2026/cards/4201-4300.md#sun26r-optimization) · 中文
+- [Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity](../../conferences/icml-2026/cards/4301-4400.md#tan26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

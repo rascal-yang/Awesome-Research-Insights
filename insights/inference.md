@@ -302,6 +302,7 @@
 - [检测代理模型逐样本路由](../conferences/icml-2026/cards/4201-4300.md#sun26b-inference) · Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection
 - [低秩Value漂移缓存](../conferences/icml-2026/cards/4301-4400.md#sun26ao-inference) · Singular Proxies for Adaptive Caching in Diffusion Language Models
 - [phase-dependent-elastic-capacity](../conferences/icml-2026/cards/4301-4400.md#taghibakhshi26a-inference) · Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control
+- [最终候选集内的深度探索](../conferences/icml-2026/cards/4301-4400.md#tan26d-inference) · Restoring Exploration after Post-Training: Latent Exploration Decoding for Large Reasoning Models
 
 <a id="by-computer-vision"></a>
 

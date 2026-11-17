@@ -168,6 +168,8 @@
 - [组间偏好训练点式奖励](../conferences/icml-2026/cards/4201-4300.md#song26aa-reinforcement-learning) · IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models
 - [修订增益训练批评者](../conferences/icml-2026/cards/4201-4300.md#sui26a-reinforcement-learning) · Conversation for Non-verifiable Learning: Self-Evolving Large Language Models through Meta-Evaluation
 - [trainable-context-folding](../conferences/icml-2026/cards/4201-4300.md#sun26x-reinforcement-learning) · Scaling Long-Horizon Agent via Context Folding
+- [面向推理变换的元对齐](../conferences/icml-2026/cards/4301-4400.md#takakura26a-reinforcement-learning) · Inference-Aware Meta-Alignment of LLMs via Non-Linear GRPO
+- [任务组内与角色历史双基线](../conferences/icml-2026/cards/4301-4400.md#tang26c-reinforcement-learning) · CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents
 
 <a id="by-computer-vision"></a>
 

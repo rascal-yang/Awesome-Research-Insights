@@ -544,6 +544,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning to Bet for Horizon-Aware Anytime-Valid Testing](../../conferences/icml-2026/cards/4301-4400.md#taga26a-theory-statistics) · 中文
 - [On the Theory of Continual Learning with Gradient Descent for Neural Networks](../../conferences/icml-2026/cards/4301-4400.md#taheri26a-theory-statistics) · 中文
 - [State Space Model with Continuous Limit of HiPPO Matrix: Eigenvalue Analysis and Explicit Solution Formula](../../conferences/icml-2026/cards/4301-4400.md#takabatake26a-theory-statistics) · 中文
+- [Shuffling-Aware Optimization for Private Vector Mean Estimation](../../conferences/icml-2026/cards/4301-4400.md#takagi26a-theory-statistics) · 中文
+- [On Regret Bounds of Thompson Sampling for Bayesian Optimization](../../conferences/icml-2026/cards/4301-4400.md#takeno26a-theory-statistics) · 中文
+- [Improved Convergence Analysis of Topology Dependence in Decentralized SGD](../../conferences/icml-2026/cards/4301-4400.md#takezawa26a-theory-statistics) · 中文
+- [Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding](../../conferences/icml-2026/cards/4301-4400.md#takhanov26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

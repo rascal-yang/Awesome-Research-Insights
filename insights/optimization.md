@@ -391,6 +391,7 @@
 - [近似局部GW与残余边际](../conferences/icml-2026/cards/4201-4300.md#song26h-optimization) · LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent
 - [零阶均方稳定边界](../conferences/icml-2026/cards/4201-4300.md#song26ac-optimization) · Zeroth-Order Optimization at the Edge of Stability
 - [core-subspace-preservation](../conferences/icml-2026/cards/4201-4300.md#sun26r-optimization) · Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace
+- [密度约束反事实轨迹](../conferences/icml-2026/cards/4301-4400.md#tan26a-optimization) · Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity
 
 <a id="by-graph-and-recommendation"></a>
 

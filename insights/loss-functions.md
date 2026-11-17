@@ -49,6 +49,7 @@
 - [用跨语言安全间隔调节逐样本偏好训练](../conferences/icml-2026/cards/4101-4200.md#shi26e-loss-functions) · Multilingual Safety Alignment via Representation-Space Separability
 - [在惩罚两类失败的同时排序失败严重程度](../conferences/icml-2026/cards/4101-4200.md#simko26a-loss-functions) · Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks
 - [属性熵减少的澄清提问奖励](../conferences/icml-2026/cards/4201-4300.md#sun26i-loss-functions) · Closing the Expression Gap in LLM Instructions via Socratic Questioning
+- [按成败分组的熵重分配](../conferences/icml-2026/cards/4301-4400.md#tan26e-loss-functions) · GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy
 
 <a id="by-computer-vision"></a>
 

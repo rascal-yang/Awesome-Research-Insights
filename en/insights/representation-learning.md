@@ -27,6 +27,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning the ESG Geometry with Domain Aware Language Models](../../conferences/icml-2026/cards/3601-3700.md#pimparkhede26a-representation-learning) · 中文
 - [From Directions to Regions: Decomposing Activations in Language Models via Local Geometry](../../conferences/icml-2026/cards/4001-4100.md#shafran26a-representation-learning) · 中文
 - [Transformers learn factored representations](../../conferences/icml-2026/cards/4001-4100.md#shai26a-representation-learning) · 中文
+- [Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](../../conferences/icml-2026/cards/4301-4400.md#tan26c-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -80,6 +81,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation](../../conferences/icml-2026/cards/4101-4200.md#shokrolahi26a-representation-learning) · 中文
 - [Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes](../../conferences/icml-2026/cards/4201-4300.md#song26i-representation-learning) · 中文
 - [Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers](../../conferences/icml-2026/cards/4301-4400.md#sun26ac-representation-learning) · 中文
+- [Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning](../../conferences/icml-2026/cards/4301-4400.md#tan26f-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -342,4 +344,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Transitive Representation Learning Enhances Histopathology Annotation](../../conferences/icml-2026/cards/3901-4000.md#schaefer26a-representation-learning) · 中文
 - [Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](../../conferences/icml-2026/cards/3901-4000.md#schneckenreiter26a-representation-learning) · 中文
 - [Two-Parameter Flows for Learning Population Dynamics of Physical Systems](../../conferences/icml-2026/cards/3901-4000.md#schwerdtner26a-representation-learning) · 中文
+- [INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments](../../conferences/icml-2026/cards/4301-4400.md#takawale26a-representation-learning) · 中文
 <!-- classification:end -->
