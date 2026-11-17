@@ -1859,18 +1859,18 @@ number	pmlr_id	title	paper_url	insight_status
 1858	javanmard26a	Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models	https://proceedings.mlr.press/v306/javanmard26a.html	written
 1859	jawad26a	CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction	https://proceedings.mlr.press/v306/jawad26a.html	written
 1860	jayalath26a	Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision	https://proceedings.mlr.press/v306/jayalath26a.html	written
-1861	jayalath26b	MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training	https://proceedings.mlr.press/v306/jayalath26b.html	pending
-1862	jayasinghe26a	Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation	https://proceedings.mlr.press/v306/jayasinghe26a.html	pending
-1863	jazbec26a	Learning Unmasking Policies for Diffusion Language Models	https://proceedings.mlr.press/v306/jazbec26a.html	pending
-1864	jaziri26a	Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion	https://proceedings.mlr.press/v306/jaziri26a.html	pending
-1865	je-gal26a	Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions	https://proceedings.mlr.press/v306/je-gal26a.html	pending
-1866	jeon26a	Decision-focused Sparse Tangent Portfolio Optimization	https://proceedings.mlr.press/v306/jeon26a.html	pending
-1867	jeon26b	LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents	https://proceedings.mlr.press/v306/jeon26b.html	pending
-1868	jeon26c	Vision-aligned Latent Reasoning for Multi-modal Large Language Model	https://proceedings.mlr.press/v306/jeon26c.html	pending
-1869	jeon26d	Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing	https://proceedings.mlr.press/v306/jeon26d.html	pending
-1870	jeong26a	Towards Functional Correctness of Code Models with Selective Generation	https://proceedings.mlr.press/v306/jeong26a.html	pending
-1871	jeong26b	When Do Diffusion Models Learn to Generate Multiple Objects?	https://proceedings.mlr.press/v306/jeong26b.html	pending
-1872	jerad26a	Context-free Recognition with Transformers	https://proceedings.mlr.press/v306/jerad26a.html	pending
+1861	jayalath26b	MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training	https://proceedings.mlr.press/v306/jayalath26b.html	written
+1862	jayasinghe26a	Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation	https://proceedings.mlr.press/v306/jayasinghe26a.html	written
+1863	jazbec26a	Learning Unmasking Policies for Diffusion Language Models	https://proceedings.mlr.press/v306/jazbec26a.html	written
+1864	jaziri26a	Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion	https://proceedings.mlr.press/v306/jaziri26a.html	written
+1865	je-gal26a	Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions	https://proceedings.mlr.press/v306/je-gal26a.html	written
+1866	jeon26a	Decision-focused Sparse Tangent Portfolio Optimization	https://proceedings.mlr.press/v306/jeon26a.html	written
+1867	jeon26b	LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents	https://proceedings.mlr.press/v306/jeon26b.html	written
+1868	jeon26c	Vision-aligned Latent Reasoning for Multi-modal Large Language Model	https://proceedings.mlr.press/v306/jeon26c.html	written
+1869	jeon26d	Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing	https://proceedings.mlr.press/v306/jeon26d.html	written
+1870	jeong26a	Towards Functional Correctness of Code Models with Selective Generation	https://proceedings.mlr.press/v306/jeong26a.html	written
+1871	jeong26b	When Do Diffusion Models Learn to Generate Multiple Objects?	https://proceedings.mlr.press/v306/jeong26b.html	written
+1872	jerad26a	Context-free Recognition with Transformers	https://proceedings.mlr.press/v306/jerad26a.html	written
 1873	jerzak26a	MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification	https://proceedings.mlr.press/v306/jerzak26a.html	pending
 1874	ji26a	Tiny Brains, Giant Impact: Uncovering the Keystone Neurons of LLM with Just a Few Prompts	https://proceedings.mlr.press/v306/ji26a.html	pending
 1875	ji26b	ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning	https://proceedings.mlr.press/v306/ji26b.html	pending

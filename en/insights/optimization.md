@@ -239,6 +239,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Attributed Network Alignment: Statistical Limits and Efficient Algorithm](../../conferences/icml-2026/cards/1701-1800.md#huang26az-optimization) · 中文
 - [Towards Generative Graph Matching for Graph Edit Distance Computation](../../conferences/icml-2026/cards/1701-1800.md#huang26bi-optimization) · 中文
 - [Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization](../../conferences/icml-2026/cards/1701-1800.md#huang26bz-optimization) · 中文
+- [Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](../../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -257,4 +258,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search](../../conferences/icml-2026/cards/1501-1600.md#he26bb-optimization) · 中文
 - [LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs](../../conferences/icml-2026/cards/1601-1700.md#hou26d-optimization) · 中文
 - [Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling](../../conferences/icml-2026/cards/1601-1700.md#hu26av-optimization) · 中文
+- [Decision-focused Sparse Tangent Portfolio Optimization](../../conferences/icml-2026/cards/1801-1900.md#jeon26a-optimization) · 中文
+- [Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](../../conferences/icml-2026/cards/1801-1900.md#jeon26d-optimization) · 中文
 <!-- classification:end -->

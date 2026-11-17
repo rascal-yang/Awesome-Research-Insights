@@ -189,6 +189,7 @@
 - <a id="hong26d-representation-learning"></a>[TextME: Bridging Unseen Modalities Through Text Descriptions](../conferences/icml-2026/cards/1501-1600.md#paper-hong26d)
 - <a id="hu26a-representation-learning"></a>[ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding](../conferences/icml-2026/cards/1601-1700.md#paper-hu26a)
 - <a id="huang26z-representation-learning"></a>[Text-Conditional JEPA for Learning Semantically Rich Visual Representations](../conferences/icml-2026/cards/1701-1800.md#paper-huang26z)
+- <a id="jeon26c-representation-learning"></a>[Vision-aligned Latent Reasoning for Multi-modal Large Language Model](../conferences/icml-2026/cards/1801-1900.md#paper-jeon26c)
 
 <a id="by-evaluation"></a>
 

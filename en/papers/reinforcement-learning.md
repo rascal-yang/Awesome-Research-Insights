@@ -126,6 +126,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="bastankhah26a-representation-learning"></a>[Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](../../conferences/icml-2026/cards/0201-0300.md#paper-bastankhah26a)
 - <a id="huber26a-representation-learning"></a>[Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks](../../conferences/icml-2026/cards/1701-1800.md#paper-huber26a)
 - <a id="hyeon26a-representation-learning"></a>[Action-Sufficient Goal Representations](../../conferences/icml-2026/cards/1801-1900.md#paper-hyeon26a)
+- <a id="je-gal26a-representation-learning"></a>[Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions](../../conferences/icml-2026/cards/1801-1900.md#paper-je-gal26a)
 
 <a id="by-evaluation"></a>
 

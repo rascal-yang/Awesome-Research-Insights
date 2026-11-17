@@ -60,6 +60,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="huang26az-optimization"></a>[Attributed Network Alignment: Statistical Limits and Efficient Algorithm](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26az)
 - <a id="huang26bi-optimization"></a>[Towards Generative Graph Matching for Graph Edit Distance Computation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bi)
 - <a id="huang26bz-optimization"></a>[Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bz)
+- <a id="jaziri26a-optimization"></a>[Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](../../conferences/icml-2026/cards/1801-1900.md#paper-jaziri26a)
 
 <a id="by-reinforcement-learning"></a>
 

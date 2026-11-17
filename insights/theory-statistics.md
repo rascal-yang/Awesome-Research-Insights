@@ -314,6 +314,7 @@
 - [用随机扰动接入全信息在线优化器](../conferences/icml-2026/cards/1801-1900.md#jacobsen26a-theory-statistics) · A Perturbation Approach to Unconstrained Linear Bandits
 - [检验条件处理效应的整个分布](../conferences/icml-2026/cards/1801-1900.md#jain26a-theory-statistics) · Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing
 - [按基座可解性区分监督和回报数据](../conferences/icml-2026/cards/1801-1900.md#javanmard26a-theory-statistics) · Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models
+- [用循环深度和填充槽位实现并行句法分析](../conferences/icml-2026/cards/1801-1900.md#jerad26a-theory-statistics) · Context-free Recognition with Transformers
 
 <a id="by-graph-and-recommendation"></a>
 

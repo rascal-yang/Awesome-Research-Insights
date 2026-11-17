@@ -180,6 +180,7 @@
 - [把扩散调度输入作为独立的安全审计面](../conferences/icml-2026/cards/1701-1800.md#huang26av-evaluation) · Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding
 - [按异常对象分配覆盖与误报代价](../conferences/icml-2026/cards/1801-1900.md#iqbal26a-evaluation) · Formally Exploring Visual Anomaly Detection Evaluation Metrics
 - [从分布内几何挑选马氏检测的径向缩放](../conferences/icml-2026/cards/1801-1900.md#janiak26a-evaluation) · A Geometry-Based View of Mahalanobis OOD Detection
+- [分别打乱概念频率与保留组合来定位生成失败](../conferences/icml-2026/cards/1801-1900.md#jeong26b-evaluation) · When Do Diffusion Models Learn to Generate Multiple Objects?
 
 <a id="by-nlp"></a>
 

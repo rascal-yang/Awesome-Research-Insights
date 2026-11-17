@@ -202,4 +202,5 @@
 - [蛋白突变的多源相对偏好蒸馏](../conferences/icml-2026/cards/1301-1400.md#guo26c-training-strategies) · MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects
 - [用性能偏好训练单元版图脚本生成](../conferences/icml-2026/cards/1401-1500.md#han26j-training-strategies) · Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM
 - [按分子去噪表现选择化学振动扰动](../conferences/icml-2026/cards/1601-1700.md#hou26f-training-strategies) · MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction
+- [让神经信号预训练覆盖下游任务的时间尺度](../conferences/icml-2026/cards/1801-1900.md#jayalath26b-training-strategies) · MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training
 <!-- classification:end -->

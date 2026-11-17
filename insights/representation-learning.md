@@ -63,6 +63,7 @@
 - [控制相关表征](../conferences/icml-2026/cards/0201-0300.md#bastankhah26a-representation-learning) · Learning to Perceive the World Through Control: Empowerment-Based Representation Learning
 - [用切比雪夫多项式参数化低维控制策略](../conferences/icml-2026/cards/1701-1800.md#huber26a-representation-learning) · Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks
 - [按最优动作而非价值压缩层级目标](../conferences/icml-2026/cards/1801-1900.md#hyeon26a-representation-learning) · Action-Sufficient Goal Representations
+- [将可迁移调度原则拆成单变量和交互项](../conferences/icml-2026/cards/1801-1900.md#je-gal26a-representation-learning) · Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions
 
 <a id="by-robotics"></a>
 
@@ -90,6 +91,7 @@
 - [用未配对质心偏移把文本投影转给新模态](../conferences/icml-2026/cards/1501-1600.md#hong26d-representation-learning) · TextME: Bridging Unseen Modalities Through Text Descriptions
 - [用软多实例聚合实现词元与区域弱对齐](../conferences/icml-2026/cards/1601-1700.md#hu26a-representation-learning) · ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding
 - [用文字缩小被遮挡图块的预测范围](../conferences/icml-2026/cards/1701-1800.md#huang26z-representation-learning) · Text-Conditional JEPA for Learning Semantically Rich Visual Representations
+- [在每段推理前插入视觉对齐状态](../conferences/icml-2026/cards/1801-1900.md#jeon26c-representation-learning) · Vision-aligned Latent Reasoning for Multi-modal Large Language Model
 
 <a id="by-ml-foundations"></a>
 

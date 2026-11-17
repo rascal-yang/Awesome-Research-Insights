@@ -63,6 +63,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](../../conferences/icml-2026/cards/0201-0300.md#bastankhah26a-representation-learning) · 中文
 - [Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks](../../conferences/icml-2026/cards/1701-1800.md#huber26a-representation-learning) · 中文
 - [Action-Sufficient Goal Representations](../../conferences/icml-2026/cards/1801-1900.md#hyeon26a-representation-learning) · 中文
+- [Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions](../../conferences/icml-2026/cards/1801-1900.md#je-gal26a-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -90,6 +91,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [TextME: Bridging Unseen Modalities Through Text Descriptions](../../conferences/icml-2026/cards/1501-1600.md#hong26d-representation-learning) · 中文
 - [ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding](../../conferences/icml-2026/cards/1601-1700.md#hu26a-representation-learning) · 中文
 - [Text-Conditional JEPA for Learning Semantically Rich Visual Representations](../../conferences/icml-2026/cards/1701-1800.md#huang26z-representation-learning) · 中文
+- [Vision-aligned Latent Reasoning for Multi-modal Large Language Model](../../conferences/icml-2026/cards/1801-1900.md#jeon26c-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

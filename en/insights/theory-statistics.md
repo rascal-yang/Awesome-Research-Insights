@@ -314,6 +314,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Perturbation Approach to Unconstrained Linear Bandits](../../conferences/icml-2026/cards/1801-1900.md#jacobsen26a-theory-statistics) · 中文
 - [Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing](../../conferences/icml-2026/cards/1801-1900.md#jain26a-theory-statistics) · 中文
 - [Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models](../../conferences/icml-2026/cards/1801-1900.md#javanmard26a-theory-statistics) · 中文
+- [Context-free Recognition with Transformers](../../conferences/icml-2026/cards/1801-1900.md#jerad26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

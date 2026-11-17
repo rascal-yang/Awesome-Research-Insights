@@ -180,6 +180,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding](../../conferences/icml-2026/cards/1701-1800.md#huang26av-evaluation) · 中文
 - [Formally Exploring Visual Anomaly Detection Evaluation Metrics](../../conferences/icml-2026/cards/1801-1900.md#iqbal26a-evaluation) · 中文
 - [A Geometry-Based View of Mahalanobis OOD Detection](../../conferences/icml-2026/cards/1801-1900.md#janiak26a-evaluation) · 中文
+- [When Do Diffusion Models Learn to Generate Multiple Objects?](../../conferences/icml-2026/cards/1801-1900.md#jeong26b-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

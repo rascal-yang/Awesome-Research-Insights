@@ -78,6 +78,7 @@
 - [按词元被纳入概率校正前缀反传](../conferences/icml-2026/cards/1701-1800.md#hwang26b-reinforcement-learning) · PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF
 - [按未来全失败概率校准多次尝试的信用](../conferences/icml-2026/cards/1801-1900.md#ildiz26a-reinforcement-learning) · Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought
 - [把多路推理合成答案用作训练参考](../conferences/icml-2026/cards/1801-1900.md#jayalath26a-reinforcement-learning) · Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision
+- [用置信序列学习扩散词元的揭示时机](../conferences/icml-2026/cards/1801-1900.md#jazbec26a-reinforcement-learning) · Learning Unmasking Policies for Diffusion Language Models
 
 <a id="by-computer-vision"></a>
 

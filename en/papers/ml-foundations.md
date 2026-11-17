@@ -580,4 +580,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="jacobsen26a-theory-statistics"></a>[A Perturbation Approach to Unconstrained Linear Bandits](../../conferences/icml-2026/cards/1801-1900.md#paper-jacobsen26a)
 - <a id="jain26a-theory-statistics"></a>[Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing](../../conferences/icml-2026/cards/1801-1900.md#paper-jain26a)
 - <a id="javanmard26a-theory-statistics"></a>[Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models](../../conferences/icml-2026/cards/1801-1900.md#paper-javanmard26a)
+- <a id="jerad26a-theory-statistics"></a>[Context-free Recognition with Transformers](../../conferences/icml-2026/cards/1801-1900.md#paper-jerad26a)
 <!-- classification:end -->

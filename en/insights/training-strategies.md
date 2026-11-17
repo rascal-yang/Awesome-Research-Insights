@@ -202,4 +202,5 @@ Training schedules, curricula, and task or stage composition.
 - [MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](../../conferences/icml-2026/cards/1301-1400.md#guo26c-training-strategies) · 中文
 - [Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](../../conferences/icml-2026/cards/1401-1500.md#han26j-training-strategies) · 中文
 - [MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction](../../conferences/icml-2026/cards/1601-1700.md#hou26f-training-strategies) · 中文
+- [MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](../../conferences/icml-2026/cards/1801-1900.md#jayalath26b-training-strategies) · 中文
 <!-- classification:end -->

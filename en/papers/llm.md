@@ -184,6 +184,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="hwang26b-reinforcement-learning"></a>[PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26b)
 - <a id="ildiz26a-reinforcement-learning"></a>[Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought](../../conferences/icml-2026/cards/1801-1900.md#paper-ildiz26a)
 - <a id="jayalath26a-reinforcement-learning"></a>[Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](../../conferences/icml-2026/cards/1801-1900.md#paper-jayalath26a)
+- <a id="jazbec26a-reinforcement-learning"></a>[Learning Unmasking Policies for Diffusion Language Models](../../conferences/icml-2026/cards/1801-1900.md#paper-jazbec26a)
 
 <a id="by-training-strategies"></a>
 
@@ -381,6 +382,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="huang26ck-inference"></a>[IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ck)
 - <a id="hwang26i-inference"></a>[Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26i)
 - <a id="izawa26a-inference"></a>[Steering at the Source: Style Modulation Heads for Robust Persona Control](../../conferences/icml-2026/cards/1801-1900.md#paper-izawa26a)
+- <a id="jeon26b-inference"></a>[LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents](../../conferences/icml-2026/cards/1801-1900.md#paper-jeon26b)
+- <a id="jeong26a-inference"></a>[Towards Functional Correctness of Code Models with Selective Generation](../../conferences/icml-2026/cards/1801-1900.md#paper-jeong26a)
 
 <a id="by-representation-learning"></a>
 

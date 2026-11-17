@@ -93,6 +93,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="he26bb-optimization"></a>[Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search](../../conferences/icml-2026/cards/1501-1600.md#paper-he26bb)
 - <a id="hou26d-optimization"></a>[LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26d)
 - <a id="hu26av-optimization"></a>[Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26av)
+- <a id="jeon26a-optimization"></a>[Decision-focused Sparse Tangent Portfolio Optimization](../../conferences/icml-2026/cards/1801-1900.md#paper-jeon26a)
+- <a id="jeon26d-optimization"></a>[Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](../../conferences/icml-2026/cards/1801-1900.md#paper-jeon26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -129,6 +131,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="guo26c-training-strategies"></a>[MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26c)
 - <a id="han26j-training-strategies"></a>[Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](../../conferences/icml-2026/cards/1401-1500.md#paper-han26j)
 - <a id="hou26f-training-strategies"></a>[MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26f)
+- <a id="jayalath26b-training-strategies"></a>[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](../../conferences/icml-2026/cards/1801-1900.md#paper-jayalath26b)
 
 <a id="by-data-strategies"></a>
 

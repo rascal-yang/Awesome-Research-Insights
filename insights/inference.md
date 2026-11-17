@@ -124,6 +124,8 @@
 - [按编辑意图选择水印嵌入强度](../conferences/icml-2026/cards/1701-1800.md#huang26ck-inference) · IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution
 - [用学习价值函数重采黑盒代理轨迹](../conferences/icml-2026/cards/1701-1800.md#hwang26i-inference) · Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents
 - [定位风格注意力头后再做人格引导](../conferences/icml-2026/cards/1801-1900.md#izawa26a-inference) · Steering at the Source: Style Modulation Heads for Robust Persona Control
+- [按共享底座与适配器分解代理缓存](../conferences/icml-2026/cards/1801-1900.md#jeon26b-inference) · LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents
+- [用动态测试校准代码回答的接受阈值](../conferences/icml-2026/cards/1801-1900.md#jeong26a-inference) · Towards Functional Correctness of Code Models with Selective Generation
 
 <a id="by-computer-vision"></a>
 
@@ -224,6 +226,7 @@
 - [把过往测试时适配保存为可插值提示](../conferences/icml-2026/cards/1601-1700.md#hu26w-inference) · Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation
 - [按环境变化异步更新动作模型通道稀疏度](../conferences/icml-2026/cards/1601-1700.md#huang26h-inference) · EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models
 - [在生成时间加入轨迹约束控制](../conferences/icml-2026/cards/1701-1800.md#huang26t-inference) · SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning
+- [将部署故障校正放进受限的局部残差](../conferences/icml-2026/cards/1801-1900.md#jayasinghe26a-inference) · Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation
 
 <a id="by-multimodal"></a>
 

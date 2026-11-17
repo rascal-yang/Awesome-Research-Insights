@@ -239,6 +239,7 @@
 - [用同一个排列变量融合边权和节点属性证据](../conferences/icml-2026/cards/1701-1800.md#huang26az-optimization) · Attributed Network Alignment: Statistical Limits and Efficient Algorithm
 - [用扩散采样生成多样图编辑候选](../conferences/icml-2026/cards/1701-1800.md#huang26bi-optimization) · Towards Generative Graph Matching for Graph Edit Distance Computation
 - [用传输控制穿越组合松弛能量面](../conferences/icml-2026/cards/1701-1800.md#huang26bz-optimization) · Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization
+- [用扩散轨迹不稳定性寻找集合覆盖修复区](../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion
 
 <a id="by-scientific-ml"></a>
 
@@ -257,4 +258,6 @@
 - [在相近架构间评估共享权重的排名](../conferences/icml-2026/cards/1501-1600.md#he26bb-optimization) · Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search
 - [用实际求解反馈优化语言模型生成的分支骨架](../conferences/icml-2026/cards/1601-1700.md#hou26d-optimization) · LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs
 - [分开探索候选谱系和编辑规则](../conferences/icml-2026/cards/1601-1700.md#hu26av-optimization) · Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling
+- [让资产筛选与 Sharpe 目标贯通梯度](../conferences/icml-2026/cards/1801-1900.md#jeon26a-optimization) · Decision-focused Sparse Tangent Portfolio Optimization
+- [用廉价法向回拉代替逐步求可行投影](../conferences/icml-2026/cards/1801-1900.md#jeon26d-optimization) · Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing
 <!-- classification:end -->

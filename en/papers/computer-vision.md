@@ -241,6 +241,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="huang26av-evaluation"></a>[Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26av)
 - <a id="iqbal26a-evaluation"></a>[Formally Exploring Visual Anomaly Detection Evaluation Metrics](../../conferences/icml-2026/cards/1801-1900.md#paper-iqbal26a)
 - <a id="janiak26a-evaluation"></a>[A Geometry-Based View of Mahalanobis OOD Detection](../../conferences/icml-2026/cards/1801-1900.md#paper-janiak26a)
+- <a id="jeong26b-evaluation"></a>[When Do Diffusion Models Learn to Generate Multiple Objects?](../../conferences/icml-2026/cards/1801-1900.md#paper-jeong26b)
 
 <a id="by-theory-statistics"></a>
 

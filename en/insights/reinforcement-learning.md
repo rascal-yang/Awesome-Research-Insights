@@ -78,6 +78,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF](../../conferences/icml-2026/cards/1701-1800.md#hwang26b-reinforcement-learning) · 中文
 - [Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought](../../conferences/icml-2026/cards/1801-1900.md#ildiz26a-reinforcement-learning) · 中文
 - [Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](../../conferences/icml-2026/cards/1801-1900.md#jayalath26a-reinforcement-learning) · 中文
+- [Learning Unmasking Policies for Diffusion Language Models](../../conferences/icml-2026/cards/1801-1900.md#jazbec26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

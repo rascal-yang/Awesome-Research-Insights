@@ -102,6 +102,7 @@
 - <a id="hu26w-inference"></a>[Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation](../conferences/icml-2026/cards/1601-1700.md#paper-hu26w)
 - <a id="huang26h-inference"></a>[EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models](../conferences/icml-2026/cards/1601-1700.md#paper-huang26h)
 - <a id="huang26t-inference"></a>[SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning](../conferences/icml-2026/cards/1701-1800.md#paper-huang26t)
+- <a id="jayasinghe26a-inference"></a>[Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](../conferences/icml-2026/cards/1801-1900.md#paper-jayasinghe26a)
 
 <a id="by-representation-learning"></a>
 

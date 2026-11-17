@@ -124,6 +124,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution](../../conferences/icml-2026/cards/1701-1800.md#huang26ck-inference) · 中文
 - [Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](../../conferences/icml-2026/cards/1701-1800.md#hwang26i-inference) · 中文
 - [Steering at the Source: Style Modulation Heads for Robust Persona Control](../../conferences/icml-2026/cards/1801-1900.md#izawa26a-inference) · 中文
+- [LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents](../../conferences/icml-2026/cards/1801-1900.md#jeon26b-inference) · 中文
+- [Towards Functional Correctness of Code Models with Selective Generation](../../conferences/icml-2026/cards/1801-1900.md#jeong26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -224,6 +226,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation](../../conferences/icml-2026/cards/1601-1700.md#hu26w-inference) · 中文
 - [EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models](../../conferences/icml-2026/cards/1601-1700.md#huang26h-inference) · 中文
 - [SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning](../../conferences/icml-2026/cards/1701-1800.md#huang26t-inference) · 中文
+- [Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](../../conferences/icml-2026/cards/1801-1900.md#jayasinghe26a-inference) · 中文
 
 <a id="by-multimodal"></a>
 
