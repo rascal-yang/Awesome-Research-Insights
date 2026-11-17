@@ -75,6 +75,7 @@
 | :--- | :--- | :--- |
 | <a id="chen26j-data-strategies"></a>[RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) | 双臂仿真数据生成 | 让多模态模型编写任务程序，由仿真执行结果反馈失败并引导改写。程序通过后再沿杂物、光照、背景、台面高度和语言等维度生成变体。 |
 | <a id="chen26ab-data-strategies"></a>[PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | 物理可用的桌面场景 | 先按锚点依赖顺序放置物体，再用可微 SDF 在测试时优化碰撞并约束语义关系，使生成布局更容易直接载入物理仿真。 |
+| <a id="chen26cy-data-strategies"></a>[Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | 固定预算下的机器人示范分配 | 先在少数核心条件重复采集示范以稳定策略，再按教师强制下的动作偏差找出高风险边界，补采示范并用受约束的残差更新扩展覆盖。真机实验中，同等预算下的成功率优于分散采样。 |
 
 <a id="by-inference"></a>
 
@@ -87,6 +88,7 @@
 | <a id="beyer26a-inference"></a>[Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | 压缩空间运动规划 | 用自编码器把轨迹压成粗到细的离散 token，在潜空间按测试时指定的目标搜索，兼顾训练数据里的行为先验与可更换的规划目标。 |
 | <a id="chai26a-inference"></a>[N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | 移动操作站位 | 用操控策略的 rollout 给候选站位打分，并通过视角增强学习对视角不敏感的站位偏好，把策略能否成功执行纳入导航目标。 |
 | <a id="chen26i-inference"></a>[PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | 概率场景图导航 | 保留每个节点的完整类别分布，从联合分布选取多个可能世界来评估候选地标，再用过去成败轨迹校准当前检测结果。 |
+| <a id="chen26co-inference"></a>[Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](https://proceedings.mlr.press/v306/chen26co.html) | 长程机器人轨迹采样 | 当信噪比降至阈值以下时才触发 MCMC 重采样，用整段条件轨迹概率的幂分布比较候选动作序列，让局部决策容易偏离指令的时刻获得更多搜索计算。 |
 
 <a id="by-evaluation"></a>
 

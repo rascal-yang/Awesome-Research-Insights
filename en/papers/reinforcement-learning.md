@@ -45,6 +45,7 @@ The linked short insights are available in Chinese.
 | [Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bo26c-reinforcement-learning) |
 | [Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](https://proceedings.mlr.press/v306/bui26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bui26a-reinforcement-learning) |
 | [Direct Flow Q-Learning](https://proceedings.mlr.press/v306/cao26f.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cao26f-reinforcement-learning) |
+| [Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes](https://proceedings.mlr.press/v306/chen26cc.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26cc-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>

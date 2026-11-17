@@ -18,6 +18,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [On the Power of Statistics in Class-Incremental Learning with Pretrained Models](../../papers/computer-vision.md#cao26h-representation-learning) · 中文
 - [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](../../papers/computer-vision.md#cassano26a-representation-learning) · 中文
 - [PartCo: Part-Level Correspondence Priors Enhance Category Discovery](../../papers/computer-vision.md#cendra26a-representation-learning) · 中文
+- [Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling](../../papers/computer-vision.md#chen26ca-representation-learning) · 中文
 
 ### Natural Language Processing
 
@@ -30,6 +31,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 ### Multimodal Learning
 
 - [Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](../../papers/multimodal.md#chen26ag-representation-learning) · 中文
+- [Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning](../../papers/multimodal.md#chen26cx-representation-learning) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -42,6 +44,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Causal Feature Learning via Generalized Rayleigh Quotients](../../papers/ml-foundations.md#cao26t-representation-learning) · 中文
 - [MetaOthello: A Controlled Study of Multiple World Models in Transformers](../../papers/ml-foundations.md#chawla26a-representation-learning) · 中文
 - [Vector Linking via Cross-Model Local Isometric Consistency](../../papers/ml-foundations.md#chen26h-representation-learning) · 中文
+- [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](../../papers/ml-foundations.md#chen26cj-representation-learning) · 中文
+- [Discovering Symmetry Groups with Flow Matching](../../papers/ml-foundations.md#chen26dg-representation-learning) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -57,4 +61,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [A Machine-Learned Comorbidity Index](../../papers/scientific-ml.md#baloch26a-representation-learning) · 中文
 - [Foundation VAEs for CT Reconstruction, Augmentation, and Generation](../../papers/scientific-ml.md#chen26u-representation-learning) · 中文
 - [MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing](../../papers/scientific-ml.md#chen26ay-representation-learning) · 中文
+- [SLAE: Strictly Local All-atom Environment for Protein Representation](../../papers/scientific-ml.md#chen26ct-representation-learning) · 中文
+- [Protein Fold Classification at Scale: Benchmarking and Pretraining](../../papers/scientific-ml.md#chen26db-representation-learning) · 中文
 <!-- classification:end -->

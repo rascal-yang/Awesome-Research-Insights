@@ -67,6 +67,8 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 
 - [偏好学习](../papers/llm.md#abas26a-loss-functions) · TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization
 - [异质偏好学习](../papers/llm.md#aouad26a-loss-functions) · The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity
+- [潜在思维链的重建监督](../papers/llm.md#chen26bi-loss-functions) · What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis
+- [MoE 软路由负载均衡](../papers/llm.md#chen26br-loss-functions) · $φ$-Balancing for Mixture-of-Experts Training
 
 ### 计算机视觉
 
@@ -87,6 +89,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 
 - [自监督流匹配](../papers/multimodal.md#chefer26a-loss-functions) · Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis
 - [多模态提示泛化](../papers/multimodal.md#chen26au-loss-functions) · Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks
+- [视觉指令微调的语言偏差正则](../papers/multimodal.md#chen26bn-loss-functions) · Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation
 
 ### 机器学习基础与统计
 
@@ -95,6 +98,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [近似等变正则](../papers/ml-foundations.md#berndt26a-loss-functions) · Approximate Equivariance via Projection-Based Regularisation
 - [不平衡域泛化](../papers/ml-foundations.md#cao26k-loss-functions) · Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains
 - [单步条件采样](../papers/ml-foundations.md#chatterjee26a-loss-functions) · One-shot Conditional Sampling: MMD meets Nearest Neighbors
+- [密度加权的分位数回归](../papers/ml-foundations.md#chen26bm-loss-functions) · Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction
 
 ### 科学机器学习
 

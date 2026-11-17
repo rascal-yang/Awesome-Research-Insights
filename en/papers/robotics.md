@@ -75,6 +75,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) | [Read insight (中文)](../../papers/robotics.md#chen26j-data-strategies) |
 | [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | [Read insight (中文)](../../papers/robotics.md#chen26ab-data-strategies) |
+| [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | [Read insight (中文)](../../papers/robotics.md#chen26cy-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -87,6 +88,7 @@ The linked short insights are available in Chinese.
 | [Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | [Read insight (中文)](../../papers/robotics.md#beyer26a-inference) |
 | [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | [Read insight (中文)](../../papers/robotics.md#chai26a-inference) |
 | [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | [Read insight (中文)](../../papers/robotics.md#chen26i-inference) |
+| [Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](https://proceedings.mlr.press/v306/chen26co.html) | [Read insight (中文)](../../papers/robotics.md#chen26co-inference) |
 
 <a id="by-evaluation"></a>
 

@@ -60,6 +60,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [L-CUBE: Isolating Long-Context Capacity from Knowledge with Controllable Mutual Information Scaling](../../papers/llm.md#chen26q-evaluation) · 中文
 - [Adaptive Probe-based Steering for Robust LLM Jailbreaking](../../papers/llm.md#chen26x-evaluation) · 中文
 - [The Unlearnability Phenomenon in RLVR for Language Models](../../papers/llm.md#chen26aq-evaluation) · 中文
+- [All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs](../../papers/llm.md#chen26bb-evaluation) · 中文
+- [Discovering Implicit Large Language Model Alignment Objectives](../../papers/llm.md#chen26bg-evaluation) · 中文
+- [HypoSpace: A Diagnostic Benchmark for Set-Valued Hypothesis Generation under Underdetermination and Sublinear Coverage Bounds](../../papers/llm.md#chen26bz-evaluation) · 中文
+- [InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation](../../papers/llm.md#chen26cf-evaluation) · 中文
+- [Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units](../../papers/llm.md#chen26cv-evaluation) · 中文
+- [How can we assess human-agent interactions? Case studies in software agent design](../../papers/llm.md#chen26da-evaluation) · 中文
+- [Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens](../../papers/llm.md#chen26di-evaluation) · 中文
 
 ### Computer Vision
 
@@ -75,6 +82,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](../../papers/nlp.md#altintas26a-evaluation) · 中文
 - [VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](../../papers/nlp.md#basha26a-evaluation) · 中文
 - [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](../../papers/nlp.md#chen26av-evaluation) · 中文
+- [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](../../papers/nlp.md#chen26bf-evaluation) · 中文
 
 ### Reinforcement Learning
 
@@ -93,6 +101,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](../../papers/multimodal.md#cao26i-evaluation) · 中文
 - [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](../../papers/multimodal.md#cao26v-evaluation) · 中文
 - [FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](../../papers/multimodal.md#chen26ad-evaluation) · 中文
+- [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](../../papers/multimodal.md#chen26dh-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 

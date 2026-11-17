@@ -68,6 +68,7 @@ The linked short insights are available in Chinese.
 | [TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](https://proceedings.mlr.press/v306/altintas26a.html) | [Read insight (中文)](../../papers/nlp.md#altintas26a-evaluation) |
 | [VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) | [Read insight (中文)](../../papers/nlp.md#basha26a-evaluation) |
 | [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) | [Read insight (中文)](../../papers/nlp.md#chen26av-evaluation) |
+| [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | [Read insight (中文)](../../papers/nlp.md#chen26bf-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

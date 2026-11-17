@@ -12,6 +12,7 @@
 - [离散扩散解码](../papers/llm.md#arriola26a-architecture) · Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding
 - [长任务 Agent 协作](../papers/llm.md#bui26b-architecture) · HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel
 - [科研 Agent 搜索](../papers/llm.md#chen26r-architecture) · MARS: Modular Agent with Reflective Search for Automated AI Research
+- [局部注意力与参数化记忆](../papers/llm.md#chen26cg-architecture) · LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining
 
 ### 计算机视觉
 
@@ -65,4 +66,5 @@
 - [生物声学定位](../papers/scientific-ml.md#chasmai26b-architecture) · Bioacoustic Geolocation: Species Sounds as Geographic Signals
 - [对流风暴短时预报](../papers/scientific-ml.md#chen26aa-architecture) · StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution
 - [电子密度条件分子生成](../papers/scientific-ml.md#chen26ai-architecture) · From Holo Pockets to Electron Density: GPT-style Drug Design with Density
+- [功能条件蛋白质共生成](../papers/scientific-ml.md#chen26cu-architecture) · Co-Generative De Novo Functional Protein Design
 <!-- classification:end -->

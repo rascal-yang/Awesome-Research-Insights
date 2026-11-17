@@ -28,6 +28,7 @@
 | <a id="chasmai26b-architecture"></a>[Bioacoustic Geolocation: Species Sounds as Geographic Signals](https://proceedings.mlr.press/v306/chasmai26b.html) | 生物声学定位 | 将声音里的物种线索与其地理分布结合，再融合检索定位；聚合附近多个样本可进一步利用物种组成线索。 |
 | <a id="chen26aa-architecture"></a>[StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](https://proceedings.mlr.press/v306/chen26aa.html) | 对流风暴短时预报 | 分别编码风暴状态、垂直热力耦合和大尺度环境强迫，再按环境变化聚合不同高度的信息，支持三维结构的短时演化预测。 |
 | <a id="chen26ai-architecture"></a>[From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://proceedings.mlr.press/v306/chen26ai.html) | 电子密度条件分子生成 | 用口袋内配体和溶剂的低分辨率电子密度代替刚性空口袋条件。密度可以来自计算或实验，并让自回归模型利用构象和占位信息。 |
+| <a id="chen26cu-architecture"></a>[Co-Generative De Novo Functional Protein Design](https://proceedings.mlr.press/v306/chen26cu.html) | 功能条件蛋白质共生成 | 从功能提示检索已知结构基序，经交叉注意力引导氨基酸和结构 token 同步生成，再用局部结构的功能分类作为辅助监督。这样可把抽象功能条件落实到具体的结构线索。 |
 
 <a id="by-modules"></a>
 
@@ -37,6 +38,7 @@
 | :--- | :--- | :--- |
 | <a id="berman26d-modules"></a>[Smoothness Errors in Dynamics Models and How to Avoid Them](https://proceedings.mlr.press/v306/berman26d.html) | 网格动力学平滑 | 热扩散等过程本身需要平滑，严格酉卷积会限制这种物理变化。放松酉性可在抑制图网络过平滑的同时允许合理的平滑演化。 |
 | <a id="chang26b-modules"></a>[MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](https://proceedings.mlr.press/v306/chang26b.html) | 医学视觉定位 | 在语言模型词表中引入区域代码，通过区域感知模块将代码解码成像素掩码，使语言输出能够对应到图像里的具体组织区域。 |
+| <a id="chen26bw-modules"></a>[TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](https://proceedings.mlr.press/v306/chen26bw.html) | 口袋与配体双向融合 | 将残基超图与原子级几何编码成口袋表征，让口袋与候选分子序列的特征分别作为查询做门控交叉注意力。把口袋查询得到的全局向量广播到各序列位置，再与逐位置融合结果相加以引导 SMILES 生成。 |
 
 <a id="by-loss-functions"></a>
 
@@ -50,6 +52,14 @@
 | <a id="chasmai26a-loss-functions"></a>[MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | 生物声学辅助监督 | 把录音已有的时间和位置元数据作为辅助学习目标，借物种与环境的相关性塑造表征，并分别测地理和声学域偏移。 |
 | <a id="chen26y-loss-functions"></a>[SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](https://proceedings.mlr.press/v306/chen26y.html) | 心电与报告对齐 | 分别用 Stein 核约束单条心电与报告的匹配及跨样本的整体分布，再用难例匹配细化边界，弥补单一对比损失只监督样本对的不足。 |
 | <a id="chen26at-loss-functions"></a>[FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](https://proceedings.mlr.press/v306/chen26at.html) | 共病多标签表征 | 让同一局部视觉证据以模糊隶属度支持多个疾病概念，再按共病关系组织概念锚点，避免硬分类边界抹掉可共享的病征。 |
+
+<a id="by-optimization"></a>
+
+### 优化
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="chen26ck-optimization"></a>[Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](https://proceedings.mlr.press/v306/chen26ck.html) | 广义特征值积分轮廓 | 对厄米广义特征值问题，先用神经算子快速预测实谱，再用核密度估计找出谱簇间的低密度谷底，以此划分积分轮廓并预留边距。目标特征值由后续围道积分求解器计算。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -91,6 +101,7 @@
 | <a id="baker26a-inference"></a>[Supervised Guidance Training for Infinite-Dimensional Diffusion Models](https://proceedings.mlr.press/v306/baker26a.html) | 函数空间逆问题 | 用无限维 Doob h 变换把后验分数拆成无条件分数与观测引导项，只训练引导分量即可复用函数空间的扩散先验。 |
 | <a id="bohde26a-inference"></a>[FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](https://proceedings.mlr.press/v306/bohde26a.html) | 质谱到分子生成 | 用正向碎裂模型找出候选分子中与观测质谱不符的局部片段，只重掩码并去噪这些片段，随推理预算逐步纠偏。 |
 | <a id="cao26c-inference"></a>[Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](https://proceedings.mlr.press/v306/cao26c.html) | 蛋白结合物设计 | 联合学习不同结合环境下的序列与结构，再在推理时混合多个环境的采样路径，以搜索同一条能适配多目标或多构象的序列。 |
+| <a id="chen26bu-inference"></a>[Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](https://proceedings.mlr.press/v306/chen26bu.html) | 对接预测梯度反演 | 把训练好的可微对接模型用作生成时的评分器，对候选配体的连续坐标和特征反传预测目标的梯度，每步投影回可行集合，最后按小分子或蛋白质配体的约束解码。 |
 
 <a id="by-representation-learning"></a>
 
@@ -104,6 +115,8 @@
 | <a id="baloch26a-representation-learning"></a>[A Machine-Learned Comorbidity Index](https://proceedings.mlr.press/v306/baloch26a.html) | 多结局风险表征 | 用归一化 Hilbert–Schmidt 独立性准则将诊断编码压成一个非线性分数，使其共同反映多个结局的风险。 |
 | <a id="chen26u-representation-learning"></a>[Foundation VAEs for CT Reconstruction, Augmentation, and Generation](https://proceedings.mlr.press/v306/chen26u.html) | 医学图像潜空间复用 | 自然图像和视频上预训练的 VAE 可以冻结后用于 CT 重建，再在同一潜空间训练条件扩散，复用编码器做重建、增强和生成。 |
 | <a id="chen26ay-representation-learning"></a>[MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing](https://proceedings.mlr.press/v306/chen26ay.html) | 三维分子表征 | 在固定维的 E(3) 等变几何潜空间里加上预训练分子编码器的语义锚点，可保留重建精度，同时改善改变原子数等零样本编辑。 |
+| <a id="chen26ct-representation-learning"></a>[SLAE: Strictly Local All-atom Environment for Protein Representation](https://proceedings.mlr.press/v306/chen26ct.html) | 蛋白质局部全原子表征 | 以残基附近的重原子类型和相对几何构建局部表征，同时监督全原子坐标重建、氨基酸识别和 Rosetta 相互作用能回归，让表征同时保留侧链几何和局部化学环境。 |
+| <a id="chen26db-representation-learning"></a>[Protein Fold Classification at Scale: Benchmarking and Pretraining](https://proceedings.mlr.press/v306/chen26db.html) | 高掩码蛋白质结构预训练 | 随机掩去最高 90% 的残基，以 SE(3) 不变编码器处理可见结构，让轻量解码器重建骨架坐标。在去冗余的 TEDBench 上，这种自监督表征提升了折叠拓扑分类表现。 |
 
 <a id="by-evaluation"></a>
 

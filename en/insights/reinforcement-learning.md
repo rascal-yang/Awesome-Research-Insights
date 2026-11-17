@@ -52,6 +52,7 @@ Aggregating rewards before group normalization can map different combinations to
 - [Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations](../../papers/llm.md#chen26a-reinforcement-learning) · 中文
 - [PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching](../../papers/llm.md#chen26k-reinforcement-learning) · 中文
 - [Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning](../../papers/llm.md#chen26w-reinforcement-learning) · 中文
+- [Learning to Reason for Factuality](../../papers/llm.md#chen26bh-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -80,6 +81,7 @@ Aggregating rewards before group normalization can map different combinations to
 - [Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](../../papers/reinforcement-learning.md#bo26c-reinforcement-learning) · 中文
 - [Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](../../papers/reinforcement-learning.md#bui26a-reinforcement-learning) · 中文
 - [Direct Flow Q-Learning](../../papers/reinforcement-learning.md#cao26f-reinforcement-learning) · 中文
+- [Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes](../../papers/reinforcement-learning.md#chen26cc-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -89,6 +91,7 @@ Aggregating rewards before group normalization can map different combinations to
 ### Multimodal Learning
 
 - [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](../../papers/multimodal.md#cao26m-reinforcement-learning) · 中文
+- [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](../../papers/multimodal.md#chen26bk-reinforcement-learning) · 中文
 
 ### Graph Learning and Recommendation
 

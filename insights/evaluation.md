@@ -60,6 +60,13 @@
 - [长上下文容量评测](../papers/llm.md#chen26q-evaluation) · L-CUBE: Isolating Long-Context Capacity from Knowledge with Controllable Mutual Information Scaling
 - [激活干预下的安全评测](../papers/llm.md#chen26x-evaluation) · Adaptive Probe-based Steering for Robust LLM Jailbreaking
 - [RLVR 的难学样本](../papers/llm.md#chen26aq-evaluation) · The Unlearnability Phenomenon in RLVR for Language Models
+- [机制电路的非唯一性](../papers/llm.md#chen26bb-evaluation) · All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs
+- [对齐奖励的隐含目标诊断](../papers/llm.md#chen26bg-evaluation) · Discovering Implicit Large Language Model Alignment Objectives
+- [欠定问题的假设覆盖](../papers/llm.md#chen26bz-evaluation) · HypoSpace: A Diagnostic Benchmark for Set-Valued Hypothesis Generation under Underdetermination and Sublinear Coverage Bounds
+- [交互式科学代码评测](../papers/llm.md#chen26cf-evaluation) · InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation
+- [可解释注意力头的训练数据归因](../papers/llm.md#chen26cv-evaluation) · Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units
+- [人机协作智能体评测](../papers/llm.md#chen26da-evaluation) · How can we assess human-agent interactions? Case studies in software agent design
+- [用逐层预测变化衡量推理投入](../papers/llm.md#chen26di-evaluation) · Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens
 
 ### 计算机视觉
 
@@ -75,6 +82,7 @@
 - [分词器评测](../papers/nlp.md#altintas26a-evaluation) · TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior
 - [音频表征评测](../papers/nlp.md#basha26a-evaluation) · VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio
 - [检索增强生成安全评测](../papers/nlp.md#chen26av-evaluation) · Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors
+- [生成文本的惊异度转移检测](../papers/nlp.md#chen26bf-evaluation) · Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence
 
 ### 强化学习
 
@@ -93,6 +101,7 @@
 - [图像感知评测](../papers/multimodal.md#cao26i-evaluation) · UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 - [音视频生成评测](../papers/multimodal.md#cao26v-evaluation) · T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation
 - [音视频未来预测评测](../papers/multimodal.md#chen26ad-evaluation) · FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs
+- [误导视觉线索的配对评测](../papers/multimodal.md#chen26dh-evaluation) · MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs
 
 ### 机器学习基础与统计
 

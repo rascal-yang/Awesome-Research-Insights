@@ -14,6 +14,8 @@
 - [LoRA 收敛](../papers/llm.md#castin26a-optimization) · Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence
 - [权重激活联合量化](../papers/llm.md#chen26z-optimization) · WUSH: Near-Optimal Adaptive Transforms for LLM Quantization
 - [有约束的安全微调](../papers/llm.md#chen26ba-optimization) · SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection
+- [多目标偏好梯度裁剪](../papers/llm.md#chen26bl-optimization) · Reward-free Alignment for Conflicting Objectives
+- [可变网格低比特量化](../papers/llm.md#chen26bt-optimization) · BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models
 
 ### 机器人学
 
@@ -63,10 +65,17 @@
 - [污染下的分布鲁棒优化](../papers/ml-foundations.md#chen26e-optimization) · Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination
 - [混合整数规划分支](../papers/ml-foundations.md#chen26ah-optimization) · Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching
 - [Adam 状态压缩](../papers/ml-foundations.md#chen26ax-optimization) · IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation
+- [核稀疏化的朗之万更新](../papers/ml-foundations.md#chen26bd-optimization) · Thinned Mean Field Langevin Dynamics
+- [多步 SAM 邻域搜索](../papers/ml-foundations.md#chen26bo-optimization) · Understanding SAM through Minimax Perspective
+- [受遗忘进度约束的模型更新](../papers/ml-foundations.md#chen26de-optimization) · How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning
 
 ### 图学习与推荐
 
 - [图粗化](../papers/graph-and-recommendation.md#bai26g-optimization) · Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle
 - [公平排序聚合](../papers/graph-and-recommendation.md#chakraborty26b-optimization) · Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking
 - [隐私图查询](../papers/graph-and-recommendation.md#chen26b-optimization) · Differentially Private Range Subgraph Counting
+
+### 科学机器学习
+
+- [广义特征值积分轮廓](../papers/scientific-ml.md#chen26ck-optimization) · Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers
 <!-- classification:end -->

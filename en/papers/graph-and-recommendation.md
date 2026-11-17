@@ -54,6 +54,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) |
 | [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
+| [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -62,6 +63,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#azizpour26a-data-strategies) |
+| [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cr-data-strategies) |
 
 <a id="by-inference"></a>
 

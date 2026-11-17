@@ -74,6 +74,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](../../papers/computer-vision.md#cao26j-modules) · 中文
 - [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](../../papers/computer-vision.md#cao26n-modules) · 中文
 - [StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](../../papers/computer-vision.md#cao26ab-modules) · 中文
+- [WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder](../../papers/computer-vision.md#chen26ce-modules) · 中文
 - [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../insights/modules.md#widen-the-student-distillation-interface)
 
 ### Natural Language Processing
@@ -87,6 +88,7 @@ Teacher features can be low rank for each image while occupying different subspa
 ### Multimodal Learning
 
 - [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](../../papers/multimodal.md#barrios26a-modules) · 中文
+- [Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](../../papers/multimodal.md#chen26ch-modules) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -110,4 +112,5 @@ Teacher features can be low rank for each image while occupying different subspa
 
 - [Smoothness Errors in Dynamics Models and How to Avoid Them](../../papers/scientific-ml.md#berman26d-modules) · 中文
 - [MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](../../papers/scientific-ml.md#chang26b-modules) · 中文
+- [TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](../../papers/scientific-ml.md#chen26bw-modules) · 中文
 <!-- classification:end -->

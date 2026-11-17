@@ -52,6 +52,7 @@ The linked short insights are available in Chinese.
 | [Approximate Equivariance via Projection-Based Regularisation](https://proceedings.mlr.press/v306/berndt26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#berndt26a-loss-functions) |
 | [Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](https://proceedings.mlr.press/v306/cao26k.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26k-loss-functions) |
 | [One-shot Conditional Sampling: MMD meets Nearest Neighbors](https://proceedings.mlr.press/v306/chatterjee26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chatterjee26a-loss-functions) |
+| [Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction](https://proceedings.mlr.press/v306/chen26bm.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26bm-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -101,6 +102,9 @@ The linked short insights are available in Chinese.
 | [Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination](https://proceedings.mlr.press/v306/chen26e.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26e-optimization) |
 | [Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching](https://proceedings.mlr.press/v306/chen26ah.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ah-optimization) |
 | [IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation](https://proceedings.mlr.press/v306/chen26ax.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ax-optimization) |
+| [Thinned Mean Field Langevin Dynamics](https://proceedings.mlr.press/v306/chen26bd.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26bd-optimization) |
+| [Understanding SAM through Minimax Perspective](https://proceedings.mlr.press/v306/chen26bo.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26bo-optimization) |
+| [How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](https://proceedings.mlr.press/v306/chen26de.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26de-optimization) |
 
 <a id="by-training-strategies"></a>
 
@@ -120,6 +124,8 @@ The linked short insights are available in Chinese.
 | [Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch](https://proceedings.mlr.press/v306/che26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#che26a-training-strategies) |
 | [Adapting Noise to Data: Generative Flows from Learned 1D Processes](https://proceedings.mlr.press/v306/chemseddine26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chemseddine26a-training-strategies) |
 | [Test-Time Learning of Causal Structure from Interventional Data](https://proceedings.mlr.press/v306/chen26t.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26t-training-strategies) |
+| [Diversity-aware Weight Perturbation Promotes Robust Adaptation](https://proceedings.mlr.press/v306/chen26bq.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26bq-training-strategies) |
+| [Personalized Additive Modeling for Multi-level Federated Learning](https://proceedings.mlr.press/v306/chen26cp.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26cp-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -159,6 +165,8 @@ The linked short insights are available in Chinese.
 | [Causal Feature Learning via Generalized Rayleigh Quotients](https://proceedings.mlr.press/v306/cao26t.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26t-representation-learning) |
 | [MetaOthello: A Controlled Study of Multiple World Models in Transformers](https://proceedings.mlr.press/v306/chawla26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chawla26a-representation-learning) |
 | [Vector Linking via Cross-Model Local Isometric Consistency](https://proceedings.mlr.press/v306/chen26h.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26h-representation-learning) |
+| [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://proceedings.mlr.press/v306/chen26cj.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26cj-representation-learning) |
+| [Discovering Symmetry Groups with Flow Matching](https://proceedings.mlr.press/v306/chen26dg.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26dg-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -245,4 +253,10 @@ The linked short insights are available in Chinese.
 | [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://proceedings.mlr.press/v306/chang26f.html) | [Read insight (中文)](../../papers/ml-foundations.md#chang26f-theory-statistics) |
 | [High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions](https://proceedings.mlr.press/v306/chen26p.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26p-theory-statistics) |
 | [Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity](https://proceedings.mlr.press/v306/chen26af.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26af-theory-statistics) |
+| [How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs](https://proceedings.mlr.press/v306/chen26bc.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26bc-theory-statistics) |
+| [Stationary MMD Points](https://proceedings.mlr.press/v306/chen26be.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26be-theory-statistics) |
+| [Focus and Dilution: The Multi-stage Learning Process of Attention](https://proceedings.mlr.press/v306/chen26by.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26by-theory-statistics) |
+| [Efficient Inference for Noisy LLM-as-a-Judge Evaluation](https://proceedings.mlr.press/v306/chen26cq.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26cq-theory-statistics) |
+| [Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality](https://proceedings.mlr.press/v306/chen26dc.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26dc-theory-statistics) |
+| [Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings](https://proceedings.mlr.press/v306/chen26df.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26df-theory-statistics) |
 <!-- classification:end -->

@@ -29,6 +29,12 @@
 - [自投机解码](../papers/llm.md#cha26a-inference) · KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem
 - [跨层 KV 缓存压缩](../papers/llm.md#chang26d-inference) · xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction
 - [GUI 流程复用](../papers/llm.md#chen26ar-inference) · AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions
+- [分级披露文本水印](../papers/llm.md#chen26bs-inference) · Selective Disclosure Watermarking for Large Language Models
+- [块扩散投机解码](../papers/llm.md#chen26bv-inference) · DFlash: Block Diffusion for Flash Speculative Decoding
+- [树搜索 KV 缓存管理](../papers/llm.md#chen26cd-inference) · ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning
+- [扩散语言模型解码](../papers/llm.md#chen26ci-inference) · Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models
+- [堆内存循环不变量生成](../papers/llm.md#chen26cm-inference) · MALICE: Memory-aware Loop Invariants Generation on Symbolic Execution Traces
+- [动态检索抗投毒](../papers/llm.md#chen26cw-inference) · RADAR: Defending RAG Dynamically against Retrieval Corruption
 
 ### 计算机视觉
 
@@ -42,6 +48,7 @@
 - [扩散正负概念引导](../papers/computer-vision.md#chang26c-inference) · ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts
 - [免训练视频异常检测](../papers/computer-vision.md#chen26v-inference) · PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling
 - [归一化流采样](../papers/computer-vision.md#chen26aj-inference) · Normalizing Flows with Iterative Denoising
+- [流匹配的双锚点积分](../papers/computer-vision.md#chen26bp-inference) · Bi-Anchor Interpolation Solver for Accelerating Generative Modeling
 
 ### 自然语言处理
 
@@ -61,6 +68,7 @@
 - [压缩空间运动规划](../papers/robotics.md#beyer26a-inference) · Motion Planning in Compressed Representation Spaces
 - [移动操作站位](../papers/robotics.md#chai26a-inference) · N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout
 - [概率场景图导航](../papers/robotics.md#chen26i-inference) · PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making
+- [长程机器人轨迹采样](../papers/robotics.md#chen26co-inference) · Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning
 
 ### 多模态学习
 
@@ -72,6 +80,7 @@
 - [三维生成引导](../papers/multimodal.md#bai26d-inference) · Let Language Constrain Geometry: Vision–Language Models as Semantic and Spatial Critics for 3D Generation
 - [视觉语言推理控制](../papers/multimodal.md#bi26d-inference) · Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking
 - [多模态上下文记忆](../papers/multimodal.md#chen26m-inference) · Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning
+- [教学视频布局修正](../papers/multimodal.md#chen26bx-inference) · Code2Video: A Code-centric Paradigm for Educational Video Creation
 
 ### 机器学习基础与统计
 
@@ -93,4 +102,5 @@
 - [函数空间逆问题](../papers/scientific-ml.md#baker26a-inference) · Supervised Guidance Training for Infinite-Dimensional Diffusion Models
 - [质谱到分子生成](../papers/scientific-ml.md#bohde26a-inference) · FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time
 - [蛋白结合物设计](../papers/scientific-ml.md#cao26c-inference) · Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
+- [对接预测梯度反演](../papers/scientific-ml.md#chen26bu-inference) · Towards Docking-oriented De Novo Ligand Design via Gradient Inversion
 <!-- classification:end -->

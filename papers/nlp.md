@@ -66,6 +66,7 @@
 | <a id="altintas26a-evaluation"></a>[TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](https://proceedings.mlr.press/v306/altintas26a.html) | 分词器评测 | 训练模型时固定架构、数据、训练预算和初始化，只改变分词器，再用原生语言者整理的真实扰动测试分词的影响。 |
 | <a id="basha26a-evaluation"></a>[VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) | 音频表征评测 | 只用单声源片段测冻结嵌入的几何，并以置换基线校准近邻纯度与全局分离率，可单独暴露低资源语言的表示差距。 |
 | <a id="chen26av-evaluation"></a>[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) | 检索增强生成安全评测 | 文档中的注意力集中机制可以在不同检索器和生成器之间迁移。做投毒压力测试时，可单独评估复用型污染对检索排序和生成内容的影响。 |
+| <a id="chen26bf-evaluation"></a>[Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | 生成文本的惊异度转移检测 | 用代理语言模型单次前向计算词元的负对数条件概率，将其离散为状态，再统计相邻状态的转移。用广义 Jensen–Shannon 散度比较测试文本与预先建立的人类和机器文本转移矩阵。 |
 
 <a id="by-theory-statistics"></a>
 

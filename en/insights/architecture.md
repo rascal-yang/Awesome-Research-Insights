@@ -12,6 +12,7 @@ Model-wide design and information flow.
 - [Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding](../../papers/llm.md#arriola26a-architecture) · 中文
 - [HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](../../papers/llm.md#bui26b-architecture) · 中文
 - [MARS: Modular Agent with Reflective Search for Automated AI Research](../../papers/llm.md#chen26r-architecture) · 中文
+- [LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining](../../papers/llm.md#chen26cg-architecture) · 中文
 
 ### Computer Vision
 
@@ -65,4 +66,5 @@ Model-wide design and information flow.
 - [Bioacoustic Geolocation: Species Sounds as Geographic Signals](../../papers/scientific-ml.md#chasmai26b-architecture) · 中文
 - [StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](../../papers/scientific-ml.md#chen26aa-architecture) · 中文
 - [From Holo Pockets to Electron Density: GPT-style Drug Design with Density](../../papers/scientific-ml.md#chen26ai-architecture) · 中文
+- [Co-Generative De Novo Functional Protein Design](../../papers/scientific-ml.md#chen26cu-architecture) · 中文
 <!-- classification:end -->

@@ -65,6 +65,8 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 
 - [TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization](../../papers/llm.md#abas26a-loss-functions) · 中文
 - [The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity](../../papers/llm.md#aouad26a-loss-functions) · 中文
+- [What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis](../../papers/llm.md#chen26bi-loss-functions) · 中文
+- [$φ$-Balancing for Mixture-of-Experts Training](../../papers/llm.md#chen26br-loss-functions) · 中文
 
 ### Computer Vision
 
@@ -85,6 +87,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 
 - [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](../../papers/multimodal.md#chefer26a-loss-functions) · 中文
 - [Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks](../../papers/multimodal.md#chen26au-loss-functions) · 中文
+- [Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation](../../papers/multimodal.md#chen26bn-loss-functions) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -93,6 +96,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Approximate Equivariance via Projection-Based Regularisation](../../papers/ml-foundations.md#berndt26a-loss-functions) · 中文
 - [Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](../../papers/ml-foundations.md#cao26k-loss-functions) · 中文
 - [One-shot Conditional Sampling: MMD meets Nearest Neighbors](../../papers/ml-foundations.md#chatterjee26a-loss-functions) · 中文
+- [Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction](../../papers/ml-foundations.md#chen26bm-loss-functions) · 中文
 
 ### Scientific Machine Learning
 

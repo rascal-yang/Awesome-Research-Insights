@@ -16,6 +16,7 @@
 - [语言数据缩放律](../papers/llm.md#cagnetta26a-theory-statistics) · Deriving Neural Scaling Laws from the Statistics of Natural Language
 - [多候选偏好对齐](../papers/llm.md#cai26p-theory-statistics) · Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling
 - [思维链内模拟梯度下降](../papers/llm.md#chen26ae-theory-statistics) · Chain-of-Thought Gradient Descent
+- [测试时采样与上下文回归](../papers/llm.md#chen26cs-theory-statistics) · Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression
 
 ### 计算机视觉
 
@@ -113,6 +114,12 @@
 - [关系推理的线性传播](../papers/ml-foundations.md#chang26f-theory-statistics) · Dynamics Reveals Structure: Challenging the Linear Propagation Assumption
 - [扩散采样复杂度](../papers/ml-foundations.md#chen26p-theory-statistics) · High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions
 - [组级变量发现](../papers/ml-foundations.md#chen26af-theory-statistics) · Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity
+- [鲁棒外部查询的交互验证](../papers/ml-foundations.md#chen26bc-theory-statistics) · How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs
+- [MMD 驻点的积分超收敛](../papers/ml-foundations.md#chen26be-theory-statistics) · Stationary MMD Points
+- [注意力学习的聚焦与稀释](../papers/ml-foundations.md#chen26by-theory-statistics) · Focus and Dilution: The Multi-stage Learning Process of Attention
+- [有噪语言模型裁判的均值估计](../papers/ml-foundations.md#chen26cq-theory-statistics) · Efficient Inference for Noisy LLM-as-a-Judge Evaluation
+- [异质任务的正交估计与自适应融合](../papers/ml-foundations.md#chen26dc-theory-statistics) · Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality
+- [纵向干预策略的联合效应估计](../papers/ml-foundations.md#chen26df-theory-statistics) · Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings
 
 ### 图学习与推荐
 

@@ -52,6 +52,7 @@
 | :--- | :--- | :--- |
 | <a id="arafat26a-training-strategies"></a>[Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) | 超图鲁棒训练 | 把超图拉普拉斯作为统一的攻击目标，在同一预算框架下测试结构及特征扰动，再用相应扰动做超图模型的对抗训练。 |
 | <a id="canturk26a-training-strategies"></a>[Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | 图组合优化迁移 | 用计算复杂性中的任务归约关系选择预训练组合，再共享图编码器微调。留一任务评测中，多任务预训练通常加快收敛。 |
+| <a id="chen26cz-training-strategies"></a>[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | 图基础模型的消息微调 | 冻结预训练 GNN，在每层加入少量可学习的消息原型，并动态融合原型和原生消息。逐层改变消息聚合可提高适配能力，论文在其刻画的模型条件下给出了超出输入提示微调上界的构造。 |
 
 <a id="by-data-strategies"></a>
 
@@ -60,6 +61,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="azizpour26a-data-strategies"></a>[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) | 图数据增强 | 用模体密度给图数据估计潜在生成分量，再让 mixup 与对比学习利用分量信息，避免把结构来源差异当作可任意混合的扰动。 |
+| <a id="chen26cr-data-strategies"></a>[DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) | 联邦文本图证据凝缩 | 每轮用上一轮的图编码器更新核心节点的邻居和句段选择，在逐跳预算和文本预算内聚合证据，并在客户端保留选中邻居和原句段的映射，以便审计压缩后的表征。 |
 
 <a id="by-inference"></a>
 

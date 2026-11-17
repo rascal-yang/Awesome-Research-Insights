@@ -14,6 +14,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](../../papers/llm.md#castin26a-optimization) · 中文
 - [WUSH: Near-Optimal Adaptive Transforms for LLM Quantization](../../papers/llm.md#chen26z-optimization) · 中文
 - [SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection](../../papers/llm.md#chen26ba-optimization) · 中文
+- [Reward-free Alignment for Conflicting Objectives](../../papers/llm.md#chen26bl-optimization) · 中文
+- [BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models](../../papers/llm.md#chen26bt-optimization) · 中文
 
 ### Robotics
 
@@ -63,10 +65,17 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination](../../papers/ml-foundations.md#chen26e-optimization) · 中文
 - [Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching](../../papers/ml-foundations.md#chen26ah-optimization) · 中文
 - [IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation](../../papers/ml-foundations.md#chen26ax-optimization) · 中文
+- [Thinned Mean Field Langevin Dynamics](../../papers/ml-foundations.md#chen26bd-optimization) · 中文
+- [Understanding SAM through Minimax Perspective](../../papers/ml-foundations.md#chen26bo-optimization) · 中文
+- [How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](../../papers/ml-foundations.md#chen26de-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](../../papers/graph-and-recommendation.md#bai26g-optimization) · 中文
 - [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) · 中文
 - [Differentially Private Range Subgraph Counting](../../papers/graph-and-recommendation.md#chen26b-optimization) · 中文
+
+### Scientific Machine Learning
+
+- [Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](../../papers/scientific-ml.md#chen26ck-optimization) · 中文
 <!-- classification:end -->

@@ -36,6 +36,7 @@ The linked short insights are available in Chinese.
 | [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26j-modules) |
 | [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26n-modules) |
 | [StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](https://proceedings.mlr.press/v306/cao26ab.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26ab-modules) |
+| [WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder](https://proceedings.mlr.press/v306/chen26ce.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ce-modules) |
 | [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | [Read insight (中文)](../../papers/computer-vision.md#tian26k-modules) · [Full entry](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -66,6 +67,7 @@ The linked short insights are available in Chinese.
 | [Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26h-training-strategies) |
 | [Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26o-training-strategies) |
 | [NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chavhan26a-training-strategies) |
+| [Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](https://proceedings.mlr.press/v306/chen26cn.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26cn-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -76,6 +78,7 @@ The linked short insights are available in Chinese.
 | [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26m-data-strategies) |
 | [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://proceedings.mlr.press/v306/cao26s.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26s-data-strategies) |
 | [When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](https://proceedings.mlr.press/v306/chen26s.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26s-data-strategies) |
+| [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](https://proceedings.mlr.press/v306/chen26bj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26bj-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -93,6 +96,7 @@ The linked short insights are available in Chinese.
 | [ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](https://proceedings.mlr.press/v306/chang26c.html) | [Read insight (中文)](../../papers/computer-vision.md#chang26c-inference) |
 | [PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](https://proceedings.mlr.press/v306/chen26v.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26v-inference) |
 | [Normalizing Flows with Iterative Denoising](https://proceedings.mlr.press/v306/chen26aj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26aj-inference) |
+| [Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](https://proceedings.mlr.press/v306/chen26bp.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26bp-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -105,6 +109,7 @@ The linked short insights are available in Chinese.
 | [On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26h-representation-learning) |
 | [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://proceedings.mlr.press/v306/cassano26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cassano26a-representation-learning) |
 | [PartCo: Part-Level Correspondence Priors Enhance Category Discovery](https://proceedings.mlr.press/v306/cendra26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cendra26a-representation-learning) |
+| [Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling](https://proceedings.mlr.press/v306/chen26ca.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ca-representation-learning) |
 
 <a id="by-evaluation"></a>
 

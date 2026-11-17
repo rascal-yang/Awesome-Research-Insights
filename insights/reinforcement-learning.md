@@ -54,6 +54,7 @@
 - [事实性二元奖励](../papers/llm.md#chen26a-reinforcement-learning) · Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations
 - [无监督强化学习分布匹配](../papers/llm.md#chen26k-reinforcement-learning) · PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching
 - [语言模型状态价值估计](../papers/llm.md#chen26w-reinforcement-learning) · Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning
+- [长回答事实性奖励](../papers/llm.md#chen26bh-reinforcement-learning) · Learning to Reason for Factuality
 
 ### 计算机视觉
 
@@ -82,6 +83,7 @@
 - [因果元强化学习](../papers/reinforcement-learning.md#bo26c-reinforcement-learning) · Counterfactual Bootstrap for Robust Meta-Reinforcement Learning
 - [离线到在线强化学习](../papers/reinforcement-learning.md#bui26a-reinforcement-learning) · Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning
 - [流匹配策略优化](../papers/reinforcement-learning.md#cao26f-reinforcement-learning) · Direct Flow Q-Learning
+- [重尾损失下的占用度量更新](../papers/reinforcement-learning.md#chen26cc-reinforcement-learning) · Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -91,6 +93,7 @@
 ### 多模态学习
 
 - [长视频推理奖励](../papers/multimodal.md#cao26m-reinforcement-learning) · VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning
+- [分层评分规则的强化学习课程](../papers/multimodal.md#chen26bk-reinforcement-learning) · RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning
 
 ### 图学习与推荐
 

@@ -18,6 +18,7 @@
 - [类别增量学习](../papers/computer-vision.md#cao26h-representation-learning) · On the Power of Statistics in Class-Incremental Learning with Pretrained Models
 - [扩散概念遗忘](../papers/computer-vision.md#cassano26a-representation-learning) · SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders
 - [细粒度类别发现](../papers/computer-vision.md#cendra26a-representation-learning) · PartCo: Part-Level Correspondence Priors Enhance Category Discovery
+- [球面旋转不变水印](../papers/computer-vision.md#chen26ca-representation-learning) · Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling
 
 ### 自然语言处理
 
@@ -30,6 +31,7 @@
 ### 多模态学习
 
 - [不完整多视图聚类](../papers/multimodal.md#chen26ag-representation-learning) · Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering
+- [关节与片段级动作文本对齐](../papers/multimodal.md#chen26cx-representation-learning) · Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning
 
 ### 机器学习基础与统计
 
@@ -42,6 +44,8 @@
 - [跨环境特征提取](../papers/ml-foundations.md#cao26t-representation-learning) · Causal Feature Learning via Generalized Rayleigh Quotients
 - [多世界模型表征](../papers/ml-foundations.md#chawla26a-representation-learning) · MetaOthello: A Controlled Study of Multiple World Models in Transformers
 - [跨编码器向量匹配](../papers/ml-foundations.md#chen26h-representation-learning) · Vector Linking via Cross-Model Local Isometric Consistency
+- [线性因果表征](../papers/ml-foundations.md#chen26cj-representation-learning) · Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement
+- [在变换群上发现数据对称性](../papers/ml-foundations.md#chen26dg-representation-learning) · Discovering Symmetry Groups with Flow Matching
 
 ### 图学习与推荐
 
@@ -57,4 +61,6 @@
 - [多结局风险表征](../papers/scientific-ml.md#baloch26a-representation-learning) · A Machine-Learned Comorbidity Index
 - [医学图像潜空间复用](../papers/scientific-ml.md#chen26u-representation-learning) · Foundation VAEs for CT Reconstruction, Augmentation, and Generation
 - [三维分子表征](../papers/scientific-ml.md#chen26ay-representation-learning) · MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing
+- [蛋白质局部全原子表征](../papers/scientific-ml.md#chen26ct-representation-learning) · SLAE: Strictly Local All-atom Environment for Protein Representation
+- [高掩码蛋白质结构预训练](../papers/scientific-ml.md#chen26db-representation-learning) · Protein Fold Classification at Scale: Benchmarking and Pretraining
 <!-- classification:end -->

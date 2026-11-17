@@ -16,6 +16,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Deriving Neural Scaling Laws from the Statistics of Natural Language](../../papers/llm.md#cagnetta26a-theory-statistics) · 中文
 - [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](../../papers/llm.md#cai26p-theory-statistics) · 中文
 - [Chain-of-Thought Gradient Descent](../../papers/llm.md#chen26ae-theory-statistics) · 中文
+- [Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression](../../papers/llm.md#chen26cs-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -113,6 +114,12 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](../../papers/ml-foundations.md#chang26f-theory-statistics) · 中文
 - [High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions](../../papers/ml-foundations.md#chen26p-theory-statistics) · 中文
 - [Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity](../../papers/ml-foundations.md#chen26af-theory-statistics) · 中文
+- [How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs](../../papers/ml-foundations.md#chen26bc-theory-statistics) · 中文
+- [Stationary MMD Points](../../papers/ml-foundations.md#chen26be-theory-statistics) · 中文
+- [Focus and Dilution: The Multi-stage Learning Process of Attention](../../papers/ml-foundations.md#chen26by-theory-statistics) · 中文
+- [Efficient Inference for Noisy LLM-as-a-Judge Evaluation](../../papers/ml-foundations.md#chen26cq-theory-statistics) · 中文
+- [Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality](../../papers/ml-foundations.md#chen26dc-theory-statistics) · 中文
+- [Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings](../../papers/ml-foundations.md#chen26df-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 

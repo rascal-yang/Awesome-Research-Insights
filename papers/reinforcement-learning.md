@@ -45,6 +45,7 @@
 | <a id="bo26c-reinforcement-learning"></a>[Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) | 因果元强化学习 | 从与混杂观测相容的候选环境中采样反事实轨迹，再用它们训练策略初始化，显式覆盖多个可能的环境机制。 |
 | <a id="bui26a-reinforcement-learning"></a>[Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](https://proceedings.mlr.press/v306/bui26a.html) | 离线到在线强化学习 | 离线从扩散模型蒸馏快采样 actor 和转移模型，在线以 Laplace 近似和状态偏移判断不确定性，帮助在分布变动时调节探索。 |
 | <a id="cao26f-reinforcement-learning"></a>[Direct Flow Q-Learning](https://proceedings.mlr.press/v306/cao26f.html) | 流匹配策略优化 | 用最终动作的 Q 值梯度构造每一步速度场的引导项，直接训练多步流策略，避免通过全部采样步骤反传或蒸馏成单步。 |
+| <a id="chen26cc-reinforcement-learning"></a>[Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes](https://proceedings.mlr.press/v306/chen26cc.html) | 重尾损失下的占用度量更新 | 已知转移时，用随状态动作占用概率变化的阈值跳过极端损失，再用跳过补偿项修正估计并更新 FTRL 策略。在论文的有限 α 阶矩假设下，该估计支持对抗情形的次线性遗憾及满足自约束条件的随机情形的对数遗憾。 |
 | <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>

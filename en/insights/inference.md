@@ -29,6 +29,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](../../papers/llm.md#cha26a-inference) · 中文
 - [xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction](../../papers/llm.md#chang26d-inference) · 中文
 - [AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions](../../papers/llm.md#chen26ar-inference) · 中文
+- [Selective Disclosure Watermarking for Large Language Models](../../papers/llm.md#chen26bs-inference) · 中文
+- [DFlash: Block Diffusion for Flash Speculative Decoding](../../papers/llm.md#chen26bv-inference) · 中文
+- [ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning](../../papers/llm.md#chen26cd-inference) · 中文
+- [Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models](../../papers/llm.md#chen26ci-inference) · 中文
+- [MALICE: Memory-aware Loop Invariants Generation on Symbolic Execution Traces](../../papers/llm.md#chen26cm-inference) · 中文
+- [RADAR: Defending RAG Dynamically against Retrieval Corruption](../../papers/llm.md#chen26cw-inference) · 中文
 
 ### Computer Vision
 
@@ -42,6 +48,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](../../papers/computer-vision.md#chang26c-inference) · 中文
 - [PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](../../papers/computer-vision.md#chen26v-inference) · 中文
 - [Normalizing Flows with Iterative Denoising](../../papers/computer-vision.md#chen26aj-inference) · 中文
+- [Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](../../papers/computer-vision.md#chen26bp-inference) · 中文
 
 ### Natural Language Processing
 
@@ -61,6 +68,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Motion Planning in Compressed Representation Spaces](../../papers/robotics.md#beyer26a-inference) · 中文
 - [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](../../papers/robotics.md#chai26a-inference) · 中文
 - [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](../../papers/robotics.md#chen26i-inference) · 中文
+- [Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](../../papers/robotics.md#chen26co-inference) · 中文
 
 ### Multimodal Learning
 
@@ -72,6 +80,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Let Language Constrain Geometry: Vision–Language Models as Semantic and Spatial Critics for 3D Generation](../../papers/multimodal.md#bai26d-inference) · 中文
 - [Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking](../../papers/multimodal.md#bi26d-inference) · 中文
 - [Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning](../../papers/multimodal.md#chen26m-inference) · 中文
+- [Code2Video: A Code-centric Paradigm for Educational Video Creation](../../papers/multimodal.md#chen26bx-inference) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -93,4 +102,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Supervised Guidance Training for Infinite-Dimensional Diffusion Models](../../papers/scientific-ml.md#baker26a-inference) · 中文
 - [FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](../../papers/scientific-ml.md#bohde26a-inference) · 中文
 - [Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](../../papers/scientific-ml.md#cao26c-inference) · 中文
+- [Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](../../papers/scientific-ml.md#chen26bu-inference) · 中文
 <!-- classification:end -->

@@ -36,6 +36,7 @@
 | <a id="cao26j-modules"></a>[Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) | 分层三维语义分割 | 共享点云编码，临近输出再按层级拆分解码器，并引入粗到细一致性。基于点簇的对比自监督补充不平衡类别的特征。 |
 | <a id="cao26n-modules"></a>[LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | 轻量视频超分 | 冻结整个扩散 Transformer，用双流适配器分别读低清视频的静态结构和当前去噪状态，再按时间步调节结构对齐与纹理细化。 |
 | <a id="cao26ab-modules"></a>[StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](https://proceedings.mlr.press/v306/cao26ab.html) | 结构化图像生成 | 用二维旋转位置编码保持潜变量拓扑，通过布局引导的注意力偏置把各位置分配到相应实例，再用检测指标微调布局对齐。 |
+| <a id="chen26ce-modules"></a>[WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder](https://proceedings.mlr.press/v306/chen26ce.html) | 视频超分的小波编码前端 | 逐帧做多级离散小波变换，递归分解低频子带，并把各级高频子带与同尺度的 VAE 编码器特征拼接，用 1×1 卷积投影回原通道数。这样可把细节线索送入潜空间，并沿用冻结的预训练解码器。 |
 | <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | 视觉特征蒸馏 | 给小型 ViT 的特征输出接口或最后一个 Transformer 块加宽，以匹配教师模型的编码空间。 [详细解读](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -66,6 +67,7 @@
 | <a id="cai26h-training-strategies"></a>[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | 长视频生成 | 用有限长视频监督全局流匹配头学习叙事与运动，再用冻结的短视频教师对滑窗局部做反向 KL 匹配，让长程一致性与局部质感各有监督。 |
 | <a id="cao26o-training-strategies"></a>[Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | 动态参数高效微调 | 定期重测视觉 Transformer 各处的敏感性，把学过的适配模块冻结，再将可训练参数额度分给新出现的敏感位置。 |
 | <a id="chavhan26a-training-strategies"></a>[NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | 端侧文生图蒸馏 | 分阶段裁剪扩散 Transformer，并只让中间块用降采样 token；再用去噪器早期层的视觉信号蒸馏文本编码器，把压缩分摊到多个环节。 |
+| <a id="chen26cn-training-strategies"></a>[Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](https://proceedings.mlr.press/v306/chen26cn.html) | 视图一致的三维 VAE 稀疏训练 | 训练时将潜体素投影到当前视角，用真值网格的渲染深度筛除远离可见表面的体素，并保留命中体素的邻域，使解码和注意力的开销集中在当前渲染损失可监督的区域。 |
 
 <a id="by-data-strategies"></a>
 
@@ -76,6 +78,7 @@
 | <a id="cai26m-data-strategies"></a>[FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) | 图像训练数据保护 | 训练扰动生成器时随机遮掉连续频带，再约束高低频一致，降低保护信号被低通滤波一次清除的风险。 |
 | <a id="cao26s-data-strategies"></a>[Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://proceedings.mlr.press/v306/cao26s.html) | 合成图检测 | 用当前检测器给生成样本打分，再沿生成模型的内部表征寻找难识别的真实感图像。把这些漏检候选回灌训练，可补足标准采样探索不到的区域。 |
 | <a id="chen26s-data-strategies"></a>[When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](https://proceedings.mlr.press/v306/chen26s.html) | 生成偏好数据 | 以真实图像作偏好基准，将模型生成结果或扰动样本作为对照，可以在缺少人工偏好对时构造图像对齐监督。 |
+| <a id="chen26bj-data-strategies"></a>[Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](https://proceedings.mlr.press/v306/chen26bj.html) | 跨域遮挡分割数据 | 对物理仿真中摆放的三维商品场景做多视角渲染，自动生成可见与完整实例掩码。让合成集和人工标注的真实集共享标签定义与评测协议，可直接测量遮挡分割的跨域表现。 |
 
 <a id="by-inference"></a>
 
@@ -93,6 +96,7 @@
 | <a id="chang26c-inference"></a>[ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](https://proceedings.mlr.press/v306/chang26c.html) | 扩散正负概念引导 | 用对比损失分别吸引所需概念和排斥不需要的概念，避免简单取反无分类器引导时把样本推离可生成的分布。 |
 | <a id="chen26v-inference"></a>[PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](https://proceedings.mlr.press/v306/chen26v.html) | 免训练视频异常检测 | 利用冻结多模态嵌入，在特征空间做差分放大和白化，抑制正常背景共有成分，从而用低开销提高异常信号的可辨识度。 |
 | <a id="chen26aj-inference"></a>[Normalizing Flows with Iterative Denoising](https://proceedings.mlr.press/v306/chen26aj.html) | 归一化流采样 | 保持训练端到端最大似然，采样时在自回归输出后追加迭代去噪，从而把精确似然训练与多步图像细化结合。 |
+| <a id="chen26bp-inference"></a>[Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](https://proceedings.mlr.press/v306/chen26bp.html) | 流匹配的双锚点积分 | 用冻结主干确定积分区间两端的速度，再由轻量旁路网络从两个方向批量估计区间内速度并做高阶数值积分。在 ImageNet-256 实验中，用 10 次主干评估达到与百步欧拉法相近的生成质量。 |
 
 <a id="by-representation-learning"></a>
 
@@ -105,6 +109,7 @@
 | <a id="cao26h-representation-learning"></a>[On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) | 类别增量学习 | 冻结视觉骨干，只维护逐类的特征统计量并用它们推断，可以作为检验复杂持续训练方法是否带来收益的强基线。 |
 | <a id="cassano26a-representation-learning"></a>[SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://proceedings.mlr.press/v306/cassano26a.html) | 扩散概念遗忘 | 用标签训练稀疏自编码器，将每个概念的激活集中在单个可解释神经元，便于有针对性地擦除并依次处理多个概念。 |
 | <a id="cendra26a-representation-learning"></a>[PartCo: Part-Level Correspondence Priors Enhance Category Discovery](https://proceedings.mlr.press/v306/cendra26a.html) | 细粒度类别发现 | 用图像局部部件之间的特征对应为类别聚类补充先验，可以区分全局语义相近、只在局部有差异的类别。 |
+| <a id="chen26ca-representation-learning"></a>[Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling](https://proceedings.mlr.press/v306/chen26ca.html) | 球面旋转不变水印 | 对球谐系数做三阶张量耦合并投影到 SO(3) 的平凡表示，构造保留相对相位信息的旋转不变双谱。可在高阶球谐系数中嵌入水印，再从双谱标量中解码全景图的水印。 |
 
 <a id="by-evaluation"></a>
 

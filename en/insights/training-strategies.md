@@ -24,6 +24,7 @@ Training schedules, curricula, and task or stage composition.
 - [Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning](../../papers/llm.md#casademunt26a-training-strategies) · 中文
 - [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](../../papers/llm.md#chen26an-training-strategies) · 中文
 - [Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models](../../papers/llm.md#chen26ap-training-strategies) · 中文
+- [TetraJet-v2: Accurate NVFP4 Training for Large Language Models with Oscillation Suppression and Outlier Control](../../papers/llm.md#chen26cl-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -31,6 +32,7 @@ Training schedules, curricula, and task or stage composition.
 - [Mode Seeking meets Mean Seeking for Fast Long Video Generation](../../papers/computer-vision.md#cai26h-training-strategies) · 中文
 - [Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](../../papers/computer-vision.md#cao26o-training-strategies) · 中文
 - [NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](../../papers/computer-vision.md#chavhan26a-training-strategies) · 中文
+- [Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](../../papers/computer-vision.md#chen26cn-training-strategies) · 中文
 
 ### Robotics
 
@@ -57,11 +59,14 @@ Training schedules, curricula, and task or stage composition.
 - [Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch](../../papers/ml-foundations.md#che26a-training-strategies) · 中文
 - [Adapting Noise to Data: Generative Flows from Learned 1D Processes](../../papers/ml-foundations.md#chemseddine26a-training-strategies) · 中文
 - [Test-Time Learning of Causal Structure from Interventional Data](../../papers/ml-foundations.md#chen26t-training-strategies) · 中文
+- [Diversity-aware Weight Perturbation Promotes Robust Adaptation](../../papers/ml-foundations.md#chen26bq-training-strategies) · 中文
+- [Personalized Additive Modeling for Multi-level Federated Learning](../../papers/ml-foundations.md#chen26cp-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) · 中文
 - [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) · 中文
+- [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) · 中文
 
 ### Scientific Machine Learning
 

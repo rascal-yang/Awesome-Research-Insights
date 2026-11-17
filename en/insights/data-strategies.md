@@ -19,12 +19,15 @@ Data selection, annotation, augmentation, and sampling.
 - [Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](../../papers/llm.md#bu26b-data-strategies) · 中文
 - [Safe and Scalable Web Agent Learning via Recreated Websites](../../papers/llm.md#chae26a-data-strategies) · 中文
 - [Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters](../../papers/llm.md#chandak26a-data-strategies) · 中文
+- [Threat2Traffic: Multi-Agent Environment Synthesis for Malware Traffic Generation from Threat Intelligence](../../papers/llm.md#chen26cb-data-strategies) · 中文
+- [Olmix: A Framework for Data Mixing Throughout LM Development](../../papers/llm.md#chen26dd-data-strategies) · 中文
 
 ### Computer Vision
 
 - [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](../../papers/computer-vision.md#cai26m-data-strategies) · 中文
 - [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](../../papers/computer-vision.md#cao26s-data-strategies) · 中文
 - [When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](../../papers/computer-vision.md#chen26s-data-strategies) · 中文
+- [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](../../papers/computer-vision.md#chen26bj-data-strategies) · 中文
 
 ### Natural Language Processing
 
@@ -38,6 +41,7 @@ Data selection, annotation, augmentation, and sampling.
 
 - [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](../../papers/robotics.md#chen26j-data-strategies) · 中文
 - [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](../../papers/robotics.md#chen26ab-data-strategies) · 中文
+- [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](../../papers/robotics.md#chen26cy-data-strategies) · 中文
 
 ### Multimodal Learning
 
@@ -58,6 +62,7 @@ Data selection, annotation, augmentation, and sampling.
 ### Graph Learning and Recommendation
 
 - [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](../../papers/graph-and-recommendation.md#azizpour26a-data-strategies) · 中文
+- [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](../../papers/graph-and-recommendation.md#chen26cr-data-strategies) · 中文
 
 ### Scientific Machine Learning
 

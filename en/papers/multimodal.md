@@ -24,6 +24,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) | [Read insight (中文)](../../papers/multimodal.md#barrios26a-modules) |
+| [Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](https://proceedings.mlr.press/v306/chen26ch.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ch-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -33,6 +34,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://proceedings.mlr.press/v306/chefer26a.html) | [Read insight (中文)](../../papers/multimodal.md#chefer26a-loss-functions) |
 | [Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks](https://proceedings.mlr.press/v306/chen26au.html) | [Read insight (中文)](../../papers/multimodal.md#chen26au-loss-functions) |
+| [Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation](https://proceedings.mlr.press/v306/chen26bn.html) | [Read insight (中文)](../../papers/multimodal.md#chen26bn-loss-functions) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -41,6 +43,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](https://proceedings.mlr.press/v306/cao26m.html) | [Read insight (中文)](../../papers/multimodal.md#cao26m-reinforcement-learning) |
+| [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](https://proceedings.mlr.press/v306/chen26bk.html) | [Read insight (中文)](../../papers/multimodal.md#chen26bk-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -80,6 +83,7 @@ The linked short insights are available in Chinese.
 | [Let Language Constrain Geometry: Vision–Language Models as Semantic and Spatial Critics for 3D Generation](https://proceedings.mlr.press/v306/bai26d.html) | [Read insight (中文)](../../papers/multimodal.md#bai26d-inference) |
 | [Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking](https://proceedings.mlr.press/v306/bi26d.html) | [Read insight (中文)](../../papers/multimodal.md#bi26d-inference) |
 | [Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning](https://proceedings.mlr.press/v306/chen26m.html) | [Read insight (中文)](../../papers/multimodal.md#chen26m-inference) |
+| [Code2Video: A Code-centric Paradigm for Educational Video Creation](https://proceedings.mlr.press/v306/chen26bx.html) | [Read insight (中文)](../../papers/multimodal.md#chen26bx-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -88,6 +92,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](https://proceedings.mlr.press/v306/chen26ag.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ag-representation-learning) |
+| [Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning](https://proceedings.mlr.press/v306/chen26cx.html) | [Read insight (中文)](../../papers/multimodal.md#chen26cx-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -101,6 +106,7 @@ The linked short insights are available in Chinese.
 | [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](https://proceedings.mlr.press/v306/cao26i.html) | [Read insight (中文)](../../papers/multimodal.md#cao26i-evaluation) |
 | [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://proceedings.mlr.press/v306/cao26v.html) | [Read insight (中文)](../../papers/multimodal.md#cao26v-evaluation) |
 | [FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](https://proceedings.mlr.press/v306/chen26ad.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ad-evaluation) |
+| [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://proceedings.mlr.press/v306/chen26dh.html) | [Read insight (中文)](../../papers/multimodal.md#chen26dh-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

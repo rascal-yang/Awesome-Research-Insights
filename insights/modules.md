@@ -78,6 +78,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [分层三维语义分割](../papers/computer-vision.md#cao26j-modules) · Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation
 - [轻量视频超分](../papers/computer-vision.md#cao26n-modules) · LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution
 - [结构化图像生成](../papers/computer-vision.md#cao26ab-modules) · StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation
+- [视频超分的小波编码前端](../papers/computer-vision.md#chen26ce-modules) · WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder
 - [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 ### 自然语言处理
@@ -91,6 +92,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 ### 多模态学习
 
 - [细粒度视觉定位](../papers/multimodal.md#barrios26a-modules) · MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs
+- [非对称 RGB-D 特征融合](../papers/multimodal.md#chen26ch-modules) · Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance
 
 ### 机器学习基础与统计
 
@@ -114,4 +116,5 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 
 - [网格动力学平滑](../papers/scientific-ml.md#berman26d-modules) · Smoothness Errors in Dynamics Models and How to Avoid Them
 - [医学视觉定位](../papers/scientific-ml.md#chang26b-modules) · MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models
+- [口袋与配体双向融合](../papers/scientific-ml.md#chen26bw-modules) · TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion
 <!-- classification:end -->

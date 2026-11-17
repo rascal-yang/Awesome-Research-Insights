@@ -19,12 +19,15 @@
 - [GUI Agent 错误恢复](../papers/llm.md#bu26b-data-strategies) · Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents
 - [网页 Agent 训练环境](../papers/llm.md#chae26a-data-strategies) · Safe and Scalable Web Agent Learning via Recreated Websites
 - [开放预测训练数据](../papers/llm.md#chandak26a-data-strategies) · Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters
+- [威胁情报驱动的流量数据构造](../papers/llm.md#chen26cb-data-strategies) · Threat2Traffic: Multi-Agent Environment Synthesis for Malware Traffic Generation from Threat Intelligence
+- [语料域变动后的混合比例复用](../papers/llm.md#chen26dd-data-strategies) · Olmix: A Framework for Data Mixing Throughout LM Development
 
 ### 计算机视觉
 
 - [图像训练数据保护](../papers/computer-vision.md#cai26m-data-strategies) · FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization
 - [合成图检测](../papers/computer-vision.md#cao26s-data-strategies) · Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection
 - [生成偏好数据](../papers/computer-vision.md#chen26s-data-strategies) · When Preference Labels Fall Short: Aligning Diffusion Models from Real Data
+- [跨域遮挡分割数据](../papers/computer-vision.md#chen26bj-data-strategies) · Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer
 
 ### 自然语言处理
 
@@ -38,6 +41,7 @@
 
 - [双臂仿真数据生成](../papers/robotics.md#chen26j-data-strategies) · RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation
 - [物理可用的桌面场景](../papers/robotics.md#chen26ab-data-strategies) · PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation
+- [固定预算下的机器人示范分配](../papers/robotics.md#chen26cy-data-strategies) · Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation
 
 ### 多模态学习
 
@@ -58,6 +62,7 @@
 ### 图学习与推荐
 
 - [图数据增强](../papers/graph-and-recommendation.md#azizpour26a-data-strategies) · From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning
+- [联邦文本图证据凝缩](../papers/graph-and-recommendation.md#chen26cr-data-strategies) · DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs
 
 ### 科学机器学习
 

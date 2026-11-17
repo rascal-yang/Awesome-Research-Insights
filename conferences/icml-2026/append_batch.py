@@ -34,13 +34,13 @@ TYPES = {
 }
 
 def base_text(path):
-    text = path.read_text() if path.exists() else ''
+    text = path.read_text(encoding='utf-8') if path.exists() else ''
     return text.split('<!-- classification:start -->')[0].rstrip()
 
 def apply_block(path, content):
     head = base_text(path)
     head = re.sub(r'\n\n(?:欢迎贡献首批条目。|This index is open for contributions\.)$', '', head)
-    path.write_text(head + '\n\n<!-- classification:start -->\n' + content.strip() + '\n<!-- classification:end -->\n')
+    path.write_text(head + '\n\n<!-- classification:start -->\n' + content.strip() + '\n<!-- classification:end -->\n', encoding='utf-8')
 
 def title_anchor(key, tech):
     return f'{key}-{TYPES[tech][0]}'
@@ -52,11 +52,11 @@ def new_page(path, collection, slug, label, scope, english):
     other = f'../../{collection}/{slug}.md' if english else f'../en/{collection}/{slug}.md'
     home_label = 'Home' if english else '首页'
     other_label = '简体中文' if english else 'English'
-    path.write_text(f'# {label}\n\n[{home_label}]({home}) · [{other_label}]({other})\n\n{scope}\n')
+    path.write_text(f'# {label}\n\n[{home_label}]({home}) · [{other_label}]({other})\n\n{scope}\n', encoding='utf-8')
 
 
 def read_tsv(path):
-    with path.open() as file:
+    with path.open(encoding='utf-8', newline='') as file:
         return list(csv.DictReader(file, delimiter='\t'))
 
 def add_batch(batch_path, date):
@@ -112,25 +112,25 @@ def add_batch(batch_path, date):
         page = conference / f'{start:04d}-{end:04d}.md'
         heading = f'# ICML 2026 · 第 {start}–{min(end, last)} 篇'
         if page.exists():
-            body = page.read_text().split('\n', 1)[1]
+            body = page.read_text(encoding='utf-8').split('\n', 1)[1]
         else:
             body = '\n[返回会议索引](README.md)\n\n| 序号 | 论文 | 技术主题 | Insight |\n| ---: | --- | --- | --- |\n'
         known = {int(n) for n in existing_id.findall(body)}
         # Rows for the three featured papers stay in the conference index.
         assert known.isdisjoint(numbers)
-        page.write_text(heading + '\n' + body.rstrip() + '\n' + '\n'.join(new_rows) + '\n')
-    with manifest.open('w', newline='') as file:
+        page.write_text(heading + '\n' + body.rstrip() + '\n' + '\n'.join(new_rows) + '\n', encoding='utf-8')
+    with manifest.open('w', encoding='utf-8', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=list(records[0]), delimiter='\t', lineterminator='\n')
         writer.writeheader()
         writer.writerows(records)
-    with classifications.open('w', newline='') as file:
+    with classifications.open('w', encoding='utf-8', newline='') as file:
         writer = csv.writer(file, delimiter='\t', lineterminator='\n')
         writer.writerow(['pmlr_id', 'domain', 'technique'])
         for number, (domain, technique) in sorted(mapping.items()):
             writer.writerow([catalog[number]['pmlr_id'], DOMAINS[domain][0], TYPES[technique][0]])
 
     index = conference / 'README.md'
-    text = index.read_text()
+    text = index.read_text(encoding='utf-8')
     outstanding = pending - set(numbers)
     continuous = min(outstanding) - 1 if outstanding else total
     progress = f'**已整理 {len(catalog):,} / {total:,} 篇。** 连续整理到第 {continuous:,} 篇。'
@@ -140,19 +140,19 @@ def add_batch(batch_path, date):
     assert updated == 1
     page_links = []
     for page in sorted(conference.glob('[0-9][0-9][0-9][0-9]-*.md')):
-        first_line = page.read_text().splitlines()[0]
+        first_line = page.read_text(encoding='utf-8').splitlines()[0]
         page_links.append(f"- [{first_line.removeprefix('# ICML 2026 · ')}]({page.name})")
     text, updated = re.subn(r'(## 按目录浏览\n\n)(?:- \[第 [^\n]+\n)+',
                             lambda match: match[1] + '\n'.join(page_links) + '\n', text)
     assert updated == 1
-    index.write_text(text)
+    index.write_text(text, encoding='utf-8')
     render_indexes(conference, catalog, mapping, old_count, total, first, last, date)
 
 def render_indexes(conference, catalog, mapping, old_count, total, first, last, date):
     papers = {}
     notes = {}
     for file in sorted(conference.glob('*.md')):
-        for line in file.read_text().splitlines():
+        for line in file.read_text(encoding='utf-8').splitlines():
             match = re.match(r'^\| (\d+) \| .*?\((https://proceedings\.mlr\.press/v306/[\w-]+\.html)\) \| (.*?) \| (.*) \|$', line)
             if match:
                 n = int(match[1])
@@ -240,7 +240,7 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
             apply_block(path, '\n'.join(block))
 
         home = Path('README.en.md' if english else 'README.md')
-        text = home.read_text()
+        text = home.read_text(encoding='utf-8')
         before = f'{old_count:,} / {total:,}'
         after = f'{len(catalog):,} / {total:,}'
         assert text.count(before) == 1
@@ -260,7 +260,7 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
             pattern = rf'^(\| \[{re.escape(name)}\]\(#[^\n]+?\) \| )\d+( \|)'
             text, inserted = re.subn(pattern, rf'\g<1>{domain_count[domain]}\g<2>', text, flags=re.M)
             assert inserted == 1, (home, slug)
-            target = f'{prefix / "papers" / (slug + ".md")}'
+            target = (prefix / 'papers' / f'{slug}.md').as_posix()
             pattern = rf'^\[(?:All papers|全部论文) \(\d+\)\]\({re.escape(target)}\)\n\n[^\n]+'
             match = re.search(pattern, text, re.M)
             assert match, (home, target)
@@ -280,7 +280,7 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
             replacement = f'[{all_label} ({domain_count[domain]})]({target})\n\n' + ' · '.join(links)
             text = text[:match.start()] + replacement + text[match.end():]
         for technique, info in TYPES.items():
-            target = f'{prefix / "insights" / (info[0] + ".md")}'
+            target = (prefix / 'insights' / f'{info[0]}.md').as_posix()
             expression = rf'^(\| .*?\]\({re.escape(target)}\) \| )\d+( \|)'
             text, inserted = re.subn(expression, rf'\g<1>{tech_count[technique]}\g<2>', text, flags=re.M)
             assert inserted == 1, (home, target)
@@ -295,7 +295,7 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
         latest = re.compile(r'^(\*\*(?:最新收录|Latest additions) · )\d{4}-\d{2}-\d{2}', re.M)
         text, replaced = latest.subn(lambda match: match[1] + date.isoformat(), text)
         assert replaced == 1 and '| Insight |' not in text
-        home.write_text(text)
+        home.write_text(text, encoding='utf-8')
 
     print(f'Added {len(catalog) - old_count} insights. ICML progress: {len(catalog):,} / {total:,}.')
 
