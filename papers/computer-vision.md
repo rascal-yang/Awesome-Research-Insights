@@ -186,6 +186,8 @@
 - <a id="luo26u-reinforcement-learning"></a>[Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization](../conferences/icml-2026/cards/3001-3100.md#paper-luo26u)
 - <a id="mo26b-reinforcement-learning"></a>[Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization](../conferences/icml-2026/cards/3301-3400.md#paper-mo26b)
 - <a id="ning26e-reinforcement-learning"></a>[Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting](../conferences/icml-2026/cards/3401-3500.md#paper-ning26e)
+- <a id="shi26o-reinforcement-learning"></a>[Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification](../conferences/icml-2026/cards/4101-4200.md#paper-shi26o)
+- <a id="shi26p-reinforcement-learning"></a>[PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything](../conferences/icml-2026/cards/4101-4200.md#paper-shi26p)
 
 <a id="by-training-strategies"></a>
 
@@ -420,6 +422,7 @@
 - <a id="pegoraro26a-representation-learning"></a>[FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds](../conferences/icml-2026/cards/3601-3700.md#paper-pegoraro26a)
 - <a id="peng26m-representation-learning"></a>[STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition](../conferences/icml-2026/cards/3601-3700.md#paper-peng26m)
 - <a id="qiu26d-representation-learning"></a>[Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26d)
+- <a id="shi26m-representation-learning"></a>[Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes](../conferences/icml-2026/cards/4101-4200.md#paper-shi26m)
 
 <a id="by-evaluation"></a>
 

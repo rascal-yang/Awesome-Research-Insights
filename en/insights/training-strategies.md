@@ -234,6 +234,7 @@ Training schedules, curricula, and task or stage composition.
 - [Vision-Language-Action Pretraining from Large-Scale Human Videos](../../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · 中文
 - [On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../../conferences/icml-2026/cards/3301-3400.md#morin26a-training-strategies) · 中文
 - [FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../../conferences/icml-2026/cards/3401-3500.md#nguyen26b-training-strategies) · 中文
+- [Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs](../../conferences/icml-2026/cards/4101-4200.md#shi26aa-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

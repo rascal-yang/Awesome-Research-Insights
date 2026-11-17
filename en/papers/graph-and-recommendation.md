@@ -36,6 +36,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="qian26e-architecture"></a>[On the Expressive Power of GNNs to Solve Linear SDPs](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26e)
 - <a id="raghuvanshi26a-architecture"></a>[Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models](../../conferences/icml-2026/cards/3701-3800.md#paper-raghuvanshi26a)
 - <a id="seely26a-architecture"></a>[Learning Multi-Agent Coordination via Sheaf-ADMM](../../conferences/icml-2026/cards/3901-4000.md#paper-seely26a)
+- <a id="shi26t-architecture"></a>[S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26t)
 
 <a id="by-modules"></a>
 

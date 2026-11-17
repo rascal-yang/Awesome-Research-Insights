@@ -49,6 +49,7 @@
 - [用在线主子空间辅助 MoE 路由](../conferences/icml-2026/cards/3501-3600.md#park26u-modules) · STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning
 - [概念方向进入解释提示的校准](../conferences/icml-2026/cards/3601-3700.md#pepper26a-modules) · Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs
 - [传输历史表示再按预测精度注意](../conferences/icml-2026/cards/3701-3800.md#racioppo26a-modules) · Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation
+- [按归一化权重适度削弱注意力汇聚](../conferences/icml-2026/cards/4101-4200.md#shi26y-modules) · A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -141,6 +142,7 @@
 - [频谱可靠性融合门控](../conferences/icml-2026/cards/3501-3600.md#pan26d-modules) · Difference-Aware Decision Learning for Multimodal Image Fusion
 - [分割词元跨层选择空间热图](../conferences/icml-2026/cards/3701-3800.md#qian26m-modules) · UGround: Towards Unified Visual Grounding with Unrolled Transformers
 - [按查询近似风险调注意力算量](../conferences/icml-2026/cards/4001-4100.md#shao26k-modules) · LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention
+- [用时间片段补充音源语义](../conferences/icml-2026/cards/4101-4200.md#shi26u-modules) · SAM Audio: Segment Anything in Audio
 
 <a id="by-ml-foundations"></a>
 

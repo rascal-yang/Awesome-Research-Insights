@@ -76,6 +76,7 @@
 - [在运动相位流形中连续解码](../conferences/icml-2026/cards/3601-3700.md#pegoraro26a-representation-learning) · FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds
 - [图像条件纹理词典与类间拓扑](../conferences/icml-2026/cards/3601-3700.md#peng26m-representation-learning) · STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition
 - [在抗失真特征域用编码式水印分离比特](../conferences/icml-2026/cards/3701-3800.md#qiu26d-representation-learning) · Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking
+- [只蒸馏跨衣着身份子空间](../conferences/icml-2026/cards/4101-4200.md#shi26m-representation-learning) · Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes
 
 <a id="by-nlp"></a>
 
@@ -170,6 +171,8 @@
 - [用成对教师对齐未配对关系矩阵](../conferences/icml-2026/cards/3801-3900.md#roschmann26a-representation-learning) · SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport
 - [按重建预算给共享和私有潜空间定秩](../conferences/icml-2026/cards/3901-4000.md#schuster26a-representation-learning) · FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data
 - [按疾病从 CT 报告中提取对齐信号](../conferences/icml-2026/cards/4101-4200.md#shi26b-representation-learning) · Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography
+- [按视觉显著性分配记忆密度](../conferences/icml-2026/cards/4101-4200.md#shi26l-representation-learning) · MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning
+- [以快慢视觉token联合时空定位](../conferences/icml-2026/cards/4101-4200.md#shi26z-representation-learning) · VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding
 
 <a id="by-ml-foundations"></a>
 

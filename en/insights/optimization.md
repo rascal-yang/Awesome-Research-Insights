@@ -378,6 +378,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [A Two-Layer Framework for Joint Online Configuration Selection and Admission Control](../../conferences/icml-2026/cards/4001-4100.md#shen26x-optimization) · 中文
 - [UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks](../../conferences/icml-2026/cards/4101-4200.md#shi26a-optimization) · 中文
 - [Regularized Discriminative Alignment for Deep Representations under Label Shift](../../conferences/icml-2026/cards/4101-4200.md#shi26f-optimization) · 中文
+- [Exploring Nonlinear Pathway in Parameter Space for Machine Unlearning](../../conferences/icml-2026/cards/4101-4200.md#shi26x-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

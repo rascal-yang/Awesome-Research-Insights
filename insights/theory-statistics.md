@@ -159,6 +159,7 @@
 - [动作触发观测间的开环序列价值](../conferences/icml-2026/cards/3901-4000.md#ryabchenko26a-theory-statistics) · Reinforcement Learning with Action-Triggered Observations
 - [将轨迹置信和任务覆盖合成证书](../conferences/icml-2026/cards/3901-4000.md#schnitzer26a-theory-statistics) · Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning
 - [安全探索时显式预算参数估计](../conferences/icml-2026/cards/4001-4100.md#shao26c-theory-statistics) · The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints
+- [按奖励结构选择RLHF或DPO](../conferences/icml-2026/cards/4101-4200.md#shi26s-theory-statistics) · Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO
 
 <a id="by-robotics"></a>
 

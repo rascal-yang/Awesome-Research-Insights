@@ -56,6 +56,8 @@ Model-wide design and information flow.
 - [TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · 中文
 - [Esoteric Language Models: A Family of Any-Order Diffusion LLMs](../../conferences/icml-2026/cards/3901-4000.md#sahoo26b-architecture) · 中文
 - [Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking](../../conferences/icml-2026/cards/4001-4100.md#shaj26a-architecture) · 中文
+- [A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research](../../conferences/icml-2026/cards/4101-4200.md#shi26n-architecture) · 中文
+- [OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale](../../conferences/icml-2026/cards/4101-4200.md#shi26q-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -290,6 +292,7 @@ Model-wide design and information flow.
 - [On the Expressive Power of GNNs to Solve Linear SDPs](../../conferences/icml-2026/cards/3701-3800.md#qian26e-architecture) · 中文
 - [Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models](../../conferences/icml-2026/cards/3701-3800.md#raghuvanshi26a-architecture) · 中文
 - [Learning Multi-Agent Coordination via Sheaf-ADMM](../../conferences/icml-2026/cards/3901-4000.md#seely26a-architecture) · 中文
+- [S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning](../../conferences/icml-2026/cards/4101-4200.md#shi26t-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -290,6 +290,9 @@
 - [按上下文敏感性分配并行解码阈值](../conferences/icml-2026/cards/4001-4100.md#shen26z-inference) · SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models
 - [让记忆检索对齐当前工程子任务](../conferences/icml-2026/cards/4001-4100.md#shen26ad-inference) · Structurally Aligned Subtask-Level Memory for Software Engineering Agents
 - [沿零化干预影响追踪跨层安全路径](../conferences/icml-2026/cards/4101-4200.md#shi26g-inference) · TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention
+- [用专家乘积桥接扩散与自回归解码](../conferences/icml-2026/cards/4101-4200.md#shi26v-inference) · Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge
+- [把函数参数作为共享前缀的并行流](../conferences/icml-2026/cards/4101-4200.md#shi26w-inference) · RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling
+- [隔离受影响工具的规划上下文](../conferences/icml-2026/cards/4101-4200.md#shi26ab-inference) · Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning
 
 <a id="by-computer-vision"></a>
 

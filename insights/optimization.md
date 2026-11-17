@@ -378,6 +378,7 @@
 - [用混合配置的影子价格做接纳](../conferences/icml-2026/cards/4001-4100.md#shen26x-optimization) · A Two-Layer Framework for Joint Online Configuration Selection and Admission Control
 - [用同一突触预算稀疏权重与脉冲](../conferences/icml-2026/cards/4101-4200.md#shi26a-optimization) · UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks
 - [用判别子空间稳定估计标签漂移权重](../conferences/icml-2026/cards/4101-4200.md#shi26f-optimization) · Regularized Discriminative Alignment for Deep Representations under Label Shift
+- [沿非线性参数路径选遗忘折中点](../conferences/icml-2026/cards/4101-4200.md#shi26x-optimization) · Exploring Nonlinear Pathway in Parameter Space for Machine Unlearning
 
 <a id="by-graph-and-recommendation"></a>
 

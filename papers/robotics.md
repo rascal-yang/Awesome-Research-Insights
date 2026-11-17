@@ -111,6 +111,7 @@
 - <a id="luo26e-training-strategies"></a>[Vision-Language-Action Pretraining from Large-Scale Human Videos](../conferences/icml-2026/cards/3001-3100.md#paper-luo26e)
 - <a id="morin26a-training-strategies"></a>[On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../conferences/icml-2026/cards/3301-3400.md#paper-morin26a)
 - <a id="nguyen26b-training-strategies"></a>[FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26b)
+- <a id="shi26aa-training-strategies"></a>[Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs](../conferences/icml-2026/cards/4101-4200.md#paper-shi26aa)
 
 <a id="by-data-strategies"></a>
 

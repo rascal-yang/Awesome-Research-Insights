@@ -284,6 +284,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DecepChain: Inducing Deceptive Reasoning in Large Language Models](../../conferences/icml-2026/cards/4001-4100.md#shen26p-evaluation) · 中文
 - [BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code](../../conferences/icml-2026/cards/4001-4100.md#shen26ac-evaluation) · 中文
 - [Introspection Adapters: Training LLMs to Report Their Learned Behaviors](../../conferences/icml-2026/cards/4001-4100.md#shenoy26a-evaluation) · 中文
+- [Understanding Performance Collapse in Layer-Pruned Large Language Models via Decision Representation Transitions](../../conferences/icml-2026/cards/4101-4200.md#shi26k-evaluation) · 中文
+- [CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities](../../conferences/icml-2026/cards/4101-4200.md#shi26r-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -522,6 +524,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · 中文
 - [MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · 中文
 - [CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · 中文
+- [Tackling Fake Forgetting through Uncertainty Quantification](../../conferences/icml-2026/cards/4101-4200.md#shi26j-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

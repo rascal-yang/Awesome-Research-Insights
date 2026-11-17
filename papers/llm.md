@@ -56,6 +56,8 @@
 - <a id="parker26a-architecture"></a>[TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../conferences/icml-2026/cards/3601-3700.md#paper-parker26a)
 - <a id="sahoo26b-architecture"></a>[Esoteric Language Models: A Family of Any-Order Diffusion LLMs](../conferences/icml-2026/cards/3901-4000.md#paper-sahoo26b)
 - <a id="shaj26a-architecture"></a>[Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking](../conferences/icml-2026/cards/4001-4100.md#paper-shaj26a)
+- <a id="shi26n-architecture"></a>[A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research](../conferences/icml-2026/cards/4101-4200.md#paper-shi26n)
+- <a id="shi26q-architecture"></a>[OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale](../conferences/icml-2026/cards/4101-4200.md#paper-shi26q)
 
 <a id="by-modules"></a>
 
@@ -97,6 +99,7 @@
 - <a id="park26u-modules"></a>[STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning](../conferences/icml-2026/cards/3501-3600.md#paper-park26u)
 - <a id="pepper26a-modules"></a>[Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](../conferences/icml-2026/cards/3601-3700.md#paper-pepper26a)
 - <a id="racioppo26a-modules"></a>[Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation](../conferences/icml-2026/cards/3701-3800.md#paper-racioppo26a)
+- <a id="shi26y-modules"></a>[A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](../conferences/icml-2026/cards/4101-4200.md#paper-shi26y)
 
 <a id="by-loss-functions"></a>
 
@@ -837,6 +840,9 @@
 - <a id="shen26z-inference"></a>[SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models](../conferences/icml-2026/cards/4001-4100.md#paper-shen26z)
 - <a id="shen26ad-inference"></a>[Structurally Aligned Subtask-Level Memory for Software Engineering Agents](../conferences/icml-2026/cards/4001-4100.md#paper-shen26ad)
 - <a id="shi26g-inference"></a>[TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](../conferences/icml-2026/cards/4101-4200.md#paper-shi26g)
+- <a id="shi26v-inference"></a>[Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](../conferences/icml-2026/cards/4101-4200.md#paper-shi26v)
+- <a id="shi26w-inference"></a>[RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling](../conferences/icml-2026/cards/4101-4200.md#paper-shi26w)
+- <a id="shi26ab-inference"></a>[Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning](../conferences/icml-2026/cards/4101-4200.md#paper-shi26ab)
 
 <a id="by-representation-learning"></a>
 
@@ -1132,6 +1138,8 @@
 - <a id="shen26p-evaluation"></a>[DecepChain: Inducing Deceptive Reasoning in Large Language Models](../conferences/icml-2026/cards/4001-4100.md#paper-shen26p)
 - <a id="shen26ac-evaluation"></a>[BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code](../conferences/icml-2026/cards/4001-4100.md#paper-shen26ac)
 - <a id="shenoy26a-evaluation"></a>[Introspection Adapters: Training LLMs to Report Their Learned Behaviors](../conferences/icml-2026/cards/4001-4100.md#paper-shenoy26a)
+- <a id="shi26k-evaluation"></a>[Understanding Performance Collapse in Layer-Pruned Large Language Models via Decision Representation Transitions](../conferences/icml-2026/cards/4101-4200.md#paper-shi26k)
+- <a id="shi26r-evaluation"></a>[CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities](../conferences/icml-2026/cards/4101-4200.md#paper-shi26r)
 
 <a id="by-theory-statistics"></a>
 

@@ -64,6 +64,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="pan26d-modules"></a>[Difference-Aware Decision Learning for Multimodal Image Fusion](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26d)
 - <a id="qian26m-modules"></a>[UGround: Towards Unified Visual Grounding with Unrolled Transformers](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26m)
 - <a id="shao26k-modules"></a>[LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention](../../conferences/icml-2026/cards/4001-4100.md#paper-shao26k)
+- <a id="shi26u-modules"></a>[SAM Audio: Segment Anything in Audio](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26u)
 
 <a id="by-loss-functions"></a>
 
@@ -377,6 +378,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="roschmann26a-representation-learning"></a>[SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](../../conferences/icml-2026/cards/3801-3900.md#paper-roschmann26a)
 - <a id="schuster26a-representation-learning"></a>[FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](../../conferences/icml-2026/cards/3901-4000.md#paper-schuster26a)
 - <a id="shi26b-representation-learning"></a>[Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26b)
+- <a id="shi26l-representation-learning"></a>[MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26l)
+- <a id="shi26z-representation-learning"></a>[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26z)
 
 <a id="by-evaluation"></a>
 

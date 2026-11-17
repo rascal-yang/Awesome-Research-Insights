@@ -326,4 +326,5 @@
 - <a id="ryabchenko26a-theory-statistics"></a>[Reinforcement Learning with Action-Triggered Observations](../conferences/icml-2026/cards/3901-4000.md#paper-ryabchenko26a)
 - <a id="schnitzer26a-theory-statistics"></a>[Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning](../conferences/icml-2026/cards/3901-4000.md#paper-schnitzer26a)
 - <a id="shao26c-theory-statistics"></a>[The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints](../conferences/icml-2026/cards/4001-4100.md#paper-shao26c)
+- <a id="shi26s-theory-statistics"></a>[Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO](../conferences/icml-2026/cards/4101-4200.md#paper-shi26s)
 <!-- classification:end -->

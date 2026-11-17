@@ -234,6 +234,7 @@
 - [用大规模人手视频预训练可转移的动作指令模型](../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · Vision-Language-Action Pretraining from Large-Scale Human Videos
 - [用后继观察降低少标注动作学习难度](../conferences/icml-2026/cards/3301-3400.md#morin26a-training-strategies) · On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning
 - [用未来交互表示微调少示范策略](../conferences/icml-2026/cards/3401-3500.md#nguyen26b-training-strategies) · FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation
+- [先以无任务轨迹预训练逆动力学](../conferences/icml-2026/cards/4101-4200.md#shi26aa-training-strategies) · Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs
 
 <a id="by-multimodal"></a>
 

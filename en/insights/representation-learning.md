@@ -76,6 +76,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds](../../conferences/icml-2026/cards/3601-3700.md#pegoraro26a-representation-learning) · 中文
 - [STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition](../../conferences/icml-2026/cards/3601-3700.md#peng26m-representation-learning) · 中文
 - [Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking](../../conferences/icml-2026/cards/3701-3800.md#qiu26d-representation-learning) · 中文
+- [Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes](../../conferences/icml-2026/cards/4101-4200.md#shi26m-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -170,6 +171,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](../../conferences/icml-2026/cards/3801-3900.md#roschmann26a-representation-learning) · 中文
 - [FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](../../conferences/icml-2026/cards/3901-4000.md#schuster26a-representation-learning) · 中文
 - [Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography](../../conferences/icml-2026/cards/4101-4200.md#shi26b-representation-learning) · 中文
+- [MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning](../../conferences/icml-2026/cards/4101-4200.md#shi26l-representation-learning) · 中文
+- [VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](../../conferences/icml-2026/cards/4101-4200.md#shi26z-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

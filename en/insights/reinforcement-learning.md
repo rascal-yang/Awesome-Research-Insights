@@ -180,6 +180,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#luo26u-reinforcement-learning) · 中文
 - [Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization](../../conferences/icml-2026/cards/3301-3400.md#mo26b-reinforcement-learning) · 中文
 - [Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting](../../conferences/icml-2026/cards/3401-3500.md#ning26e-reinforcement-learning) · 中文
+- [Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification](../../conferences/icml-2026/cards/4101-4200.md#shi26o-reinforcement-learning) · 中文
+- [PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything](../../conferences/icml-2026/cards/4101-4200.md#shi26p-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 

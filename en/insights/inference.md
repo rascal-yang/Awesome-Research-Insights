@@ -290,6 +290,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models](../../conferences/icml-2026/cards/4001-4100.md#shen26z-inference) · 中文
 - [Structurally Aligned Subtask-Level Memory for Software Engineering Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26ad-inference) · 中文
 - [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](../../conferences/icml-2026/cards/4101-4200.md#shi26g-inference) · 中文
+- [Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](../../conferences/icml-2026/cards/4101-4200.md#shi26v-inference) · 中文
+- [RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling](../../conferences/icml-2026/cards/4101-4200.md#shi26w-inference) · 中文
+- [Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning](../../conferences/icml-2026/cards/4101-4200.md#shi26ab-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -379,6 +379,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shen26x-optimization"></a>[A Two-Layer Framework for Joint Online Configuration Selection and Admission Control](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26x)
 - <a id="shi26a-optimization"></a>[UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26a)
 - <a id="shi26f-optimization"></a>[Regularized Discriminative Alignment for Deep Representations under Label Shift](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26f)
+- <a id="shi26x-optimization"></a>[Exploring Nonlinear Pathway in Parameter Space for Machine Unlearning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26x)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -637,6 +638,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="rodriguez26a-evaluation"></a>[Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../../conferences/icml-2026/cards/3801-3900.md#paper-rodriguez26a)
 - <a id="sharief26a-evaluation"></a>[MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../../conferences/icml-2026/cards/4001-4100.md#paper-sharief26a)
 - <a id="shen26b-evaluation"></a>[CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26b)
+- <a id="shi26j-evaluation"></a>[Tackling Fake Forgetting through Uncertainty Quantification](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26j)
 
 <a id="by-theory-statistics"></a>
 

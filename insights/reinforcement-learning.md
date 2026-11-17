@@ -180,6 +180,8 @@
 - [按去噪动态分块优化图像生成策略](../conferences/icml-2026/cards/3001-3100.md#luo26u-reinforcement-learning) · Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization
 - [按需取证的视频异常定位](../conferences/icml-2026/cards/3301-3400.md#mo26b-reinforcement-learning) · Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization
 - [用个体高斯敏感性奖励训练可学习密度控制](../conferences/icml-2026/cards/3401-3500.md#ning26e-reinforcement-learning) · Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting
+- [用身份门控抑制增强奖励投机](../conferences/icml-2026/cards/4101-4200.md#shi26o-reinforcement-learning) · Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification
+- [分别优化语义和空间点提示](../conferences/icml-2026/cards/4101-4200.md#shi26p-reinforcement-learning) · PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything
 
 <a id="by-nlp"></a>
 

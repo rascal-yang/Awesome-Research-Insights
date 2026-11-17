@@ -56,6 +56,8 @@
 - [给语言模型加可读写数值时序的 patch 接口](../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction
 - [用任意顺序因果注意力实现扩散文本的精确 KV 缓存](../conferences/icml-2026/cards/3901-4000.md#sahoo26b-architecture) · Esoteric Language Models: A Family of Any-Order Diffusion LLMs
 - [用信息形式的并行卡尔曼滤波保存序列置信状态](../conferences/icml-2026/cards/4001-4100.md#shaj26a-architecture) · Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking
+- [把知识缺口与报告提纲分图维护](../conferences/icml-2026/cards/4101-4200.md#shi26n-architecture) · A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research
+- [把原子专家按专家重排执行](../conferences/icml-2026/cards/4101-4200.md#shi26q-architecture) · OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale
 
 <a id="by-computer-vision"></a>
 
@@ -290,6 +292,7 @@
 - [半定规划索引对消息传递](../conferences/icml-2026/cards/3701-3800.md#qian26e-architecture) · On the Expressive Power of GNNs to Solve Linear SDPs
 - [动态图状态并行更新时距与拓扑](../conferences/icml-2026/cards/3701-3800.md#raghuvanshi26a-architecture) · Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models
 - [让邻居只对兼容的潜变量达成共识](../conferences/icml-2026/cards/3901-4000.md#seely26a-architecture) · Learning Multi-Agent Coordination via Sheaf-ADMM
+- [用低秩全局混合替代昂贵谱传播](../conferences/icml-2026/cards/4101-4200.md#shi26t-architecture) · S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning
 
 <a id="by-scientific-ml"></a>
 

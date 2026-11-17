@@ -284,6 +284,8 @@
 - [貌似可信推理的欺骗行为压力测试](../conferences/icml-2026/cards/4001-4100.md#shen26p-evaluation) · DecepChain: Inducing Deceptive Reasoning in Large Language Models
 - [按子任务规模联合检验代码时空效率](../conferences/icml-2026/cards/4001-4100.md#shen26ac-evaluation) · BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code
 - [用行为已知的模型群校准自我报告](../conferences/icml-2026/cards/4001-4100.md#shenoy26a-evaluation) · Introspection Adapters: Training LLMs to Report Their Learned Behaviors
+- [剪层时监测决策转折消失](../conferences/icml-2026/cards/4101-4200.md#shi26k-evaluation) · Understanding Performance Collapse in Layer-Pruned Large Language Models via Decision Representation Transitions
+- [分开验证修补与完整工作流](../conferences/icml-2026/cards/4101-4200.md#shi26r-evaluation) · CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities
 
 <a id="by-computer-vision"></a>
 
@@ -522,6 +524,7 @@
 - [扩散模型优先复现常见局部特征](../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?
 - [用随机区域统计比较条件分布](../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · MIRA: A Score for Conditional Distribution Accuracy and Model Comparison
 - [按模型互信息和阈值验证抽取后的所有权](../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks
+- [用集合覆盖率检查假遗忘](../conferences/icml-2026/cards/4101-4200.md#shi26j-evaluation) · Tackling Fake Forgetting through Uncertainty Quantification
 
 <a id="by-graph-and-recommendation"></a>
 
