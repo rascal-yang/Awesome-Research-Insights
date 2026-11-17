@@ -14,7 +14,7 @@
 
 A cross-disciplinary collection of reusable modules, losses, optimization methods, and training strategies from research papers.
 
-**Latest additions · 2026-11-17** · [ICML 2026 · 163 / 6,552 papers with insights](conferences/icml-2026/README.md)
+**Latest additions · 2026-11-17** · [ICML 2026 · 303 / 6,552 papers with insights](conferences/icml-2026/README.md)
 
 **Last reviewed · 2026-11-15** · Initial entries and cross-links
 
@@ -124,6 +124,8 @@ We update in batches after conferences publish their official main-conference ac
 **Inclusion criterion.** One clear, independently explainable insight supported by the paper is enough to include it. Record the conditions under which it holds and what the experiment, theorem, or counterexample establishes. Transfer scenarios are optional.
 
 ## Recent Updates
+
+- **2026-11-17** · Added Chinese insights for ICML 2026 papers 161–300. [Conference index](conferences/icml-2026/README.md)
 
 - **2026-11-17** · Added the ICML 2026 proceedings index and Chinese insights for papers 1–160, plus links to the three previously featured papers. [ICML 2026 Paper Insights](conferences/icml-2026/README.md)
 
