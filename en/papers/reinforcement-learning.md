@@ -37,8 +37,8 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Fast Mixing Steady-State Control in Markov Decision Processes](https://proceedings.mlr.press/v306/corso26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#corso26a-optimization) |
-| [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](https://proceedings.mlr.press/v306/dam26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#dam26a-optimization) |
+| [Fast Mixing Steady-State Control in Markov Decision Processes](https://proceedings.mlr.press/v306/corso26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-corso26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#corso26a-optimization) |
+| [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](https://proceedings.mlr.press/v306/dam26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dam26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#dam26a-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -73,8 +73,8 @@ The linked short insights are available in Chinese.
 | [Value Aggregation with Uncertainty in Online Decentralized MARL](https://proceedings.mlr.press/v306/chu26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chu26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#chu26a-reinforcement-learning) |
 | [Balancing Plasticity and Stability with Fast and Slow Successor Features](https://proceedings.mlr.press/v306/chua26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chua26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#chua26a-reinforcement-learning) |
 | [Offline Reinforcement Learning with Universal Horizon Models](https://proceedings.mlr.press/v306/chung26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chung26b) | [Read insight (中文)](../../papers/reinforcement-learning.md#chung26b-reinforcement-learning) |
-| [Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport](https://proceedings.mlr.press/v306/croissant26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) |
-| [SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://proceedings.mlr.press/v306/de-lara26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) |
+| [Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport](https://proceedings.mlr.press/v306/croissant26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-croissant26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) |
+| [SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://proceedings.mlr.press/v306/de-lara26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-de-lara26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) |
 | [Multivariate Distributional Reinforcement Learning Using Sliced Divergences](https://proceedings.mlr.press/v306/debes26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#debes26a-reinforcement-learning) |
 | [BFTS: Thompson Sampling with Bayesian Additive Regression Trees](https://proceedings.mlr.press/v306/deng26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#deng26b-reinforcement-learning) |
 | [Sparse Topology-Aware Pairwise Scoring for Large-Scale Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/deng26n.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#deng26n-reinforcement-learning) |
@@ -121,7 +121,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-brosseit26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#brosseit26a-inference) |
 | [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chang26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#chang26a-inference) |
-| [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cui26h-inference) |
+| [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-cui26h) | [Read insight (中文)](../../papers/reinforcement-learning.md#cui26h-inference) |
 | [SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](https://proceedings.mlr.press/v306/gu26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gu26a-inference) |
 | [RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://proceedings.mlr.press/v306/guo26r.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26r-inference) |
 
