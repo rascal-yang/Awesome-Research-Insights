@@ -2899,18 +2899,18 @@ number	pmlr_id	title	paper_url	insight_status
 2898	liu26dn	PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting	https://proceedings.mlr.press/v306/liu26dn.html	written
 2899	liu26do	LIF Recurrent Memory Enables Long-Horizon Spiking Computation	https://proceedings.mlr.press/v306/liu26do.html	written
 2900	liu26dp	ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning	https://proceedings.mlr.press/v306/liu26dp.html	written
-2901	liu26dq	Hyperbolic Multimodal Continual Learning	https://proceedings.mlr.press/v306/liu26dq.html	pending
-2902	liu26dr	XPERT: Expert Knowledge Transfer for Effective Training of Language Models	https://proceedings.mlr.press/v306/liu26dr.html	pending
-2903	liu26ds	SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning	https://proceedings.mlr.press/v306/liu26ds.html	pending
-2904	liu26dt	RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning	https://proceedings.mlr.press/v306/liu26dt.html	pending
-2905	liu26du	AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation	https://proceedings.mlr.press/v306/liu26du.html	pending
-2906	liu26dv	Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation	https://proceedings.mlr.press/v306/liu26dv.html	pending
-2907	liu26dw	Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents	https://proceedings.mlr.press/v306/liu26dw.html	pending
-2908	liu26dx	SimpleMem: Efficient Lifelong Memory for LLM Agents	https://proceedings.mlr.press/v306/liu26dx.html	pending
-2909	liu26dy	Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models	https://proceedings.mlr.press/v306/liu26dy.html	pending
-2910	liu26dz	Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression	https://proceedings.mlr.press/v306/liu26dz.html	pending
-2911	liu26ea	JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments	https://proceedings.mlr.press/v306/liu26ea.html	pending
-2912	liu26eb	Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling	https://proceedings.mlr.press/v306/liu26eb.html	pending
+2901	liu26dq	Hyperbolic Multimodal Continual Learning	https://proceedings.mlr.press/v306/liu26dq.html	written
+2902	liu26dr	XPERT: Expert Knowledge Transfer for Effective Training of Language Models	https://proceedings.mlr.press/v306/liu26dr.html	written
+2903	liu26ds	SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning	https://proceedings.mlr.press/v306/liu26ds.html	written
+2904	liu26dt	RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning	https://proceedings.mlr.press/v306/liu26dt.html	written
+2905	liu26du	AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation	https://proceedings.mlr.press/v306/liu26du.html	written
+2906	liu26dv	Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation	https://proceedings.mlr.press/v306/liu26dv.html	written
+2907	liu26dw	Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents	https://proceedings.mlr.press/v306/liu26dw.html	written
+2908	liu26dx	SimpleMem: Efficient Lifelong Memory for LLM Agents	https://proceedings.mlr.press/v306/liu26dx.html	written
+2909	liu26dy	Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models	https://proceedings.mlr.press/v306/liu26dy.html	written
+2910	liu26dz	Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression	https://proceedings.mlr.press/v306/liu26dz.html	written
+2911	liu26ea	JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments	https://proceedings.mlr.press/v306/liu26ea.html	written
+2912	liu26eb	Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling	https://proceedings.mlr.press/v306/liu26eb.html	written
 2913	liu26ec	TiME: Test-Time Mixture-of-Experts Routing via Asymmetric CO-Optimal Transport for Continual Test-Time Adaptation	https://proceedings.mlr.press/v306/liu26ec.html	pending
 2914	liu26ed	Estimating Correlation Clustering Cost in Node-Arrival Stream	https://proceedings.mlr.press/v306/liu26ed.html	pending
 2915	liu26ee	Pseudo-Mallows for Efficient Probabilistic Preference Learning	https://proceedings.mlr.press/v306/liu26ee.html	pending

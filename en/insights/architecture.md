@@ -46,6 +46,7 @@ Model-wide design and information flow.
 - [RePo: Language Models with Context Re-Positioning](../../conferences/icml-2026/cards/2601-2700.md#li26jq-architecture) · 中文
 - [$R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration](../../conferences/icml-2026/cards/2801-2900.md#liu26at-architecture) · 中文
 - [Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space](../../conferences/icml-2026/cards/2801-2900.md#liu26cx-architecture) · 中文
+- [SimpleMem: Efficient Lifelong Memory for LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26dx-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -93,6 +94,7 @@ Model-wide design and information flow.
 - [RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space](../../conferences/icml-2026/cards/2701-2800.md#liang26ad-architecture) · 中文
 - [WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](../../conferences/icml-2026/cards/2801-2900.md#liu26cw-architecture) · 中文
 - [Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane](../../conferences/icml-2026/cards/2801-2900.md#liu26dj-architecture) · 中文
+- [Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling](../../conferences/icml-2026/cards/2901-3000.md#liu26eb-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -162,6 +164,7 @@ Model-wide design and information flow.
 - [TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](../../conferences/icml-2026/cards/2701-2800.md#lin26al-architecture) · 中文
 - [Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26an-architecture) · 中文
 - [GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26as-architecture) · 中文
+- [JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 

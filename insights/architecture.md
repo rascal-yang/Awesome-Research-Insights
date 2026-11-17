@@ -46,6 +46,7 @@
 - [让位置编码随上下文依赖重新排布](../conferences/icml-2026/cards/2601-2700.md#li26jq-architecture) · RePo: Language Models with Context Re-Positioning
 - [在数据代理任务图上局部重配失败分支](../conferences/icml-2026/cards/2801-2900.md#liu26at-architecture) · $R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration
 - [残差流分叉的并行潜空间计算](../conferences/icml-2026/cards/2801-2900.md#liu26cx-architecture) · Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space
+- [用多视图索引压缩交互记忆并按意图检索](../conferences/icml-2026/cards/2901-3000.md#liu26dx-architecture) · SimpleMem: Efficient Lifelong Memory for LLM Agents
 
 <a id="by-computer-vision"></a>
 
@@ -93,6 +94,7 @@
 - [在世界坐标分开编辑人物轨迹和动作](../conferences/icml-2026/cards/2701-2800.md#liang26ad-architecture) · RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space
 - [任意几何先验的前馈三维重建](../conferences/icml-2026/cards/2801-2900.md#liu26cw-architecture) · WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting
 - [将二维旋转位置编码扩展到均匀斜向投影](../conferences/icml-2026/cards/2801-2900.md#liu26dj-architecture) · Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane
+- [把单调性硬编码到盲逆问题的前向算子](../conferences/icml-2026/cards/2901-3000.md#liu26eb-architecture) · Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling
 
 <a id="by-nlp"></a>
 
@@ -162,6 +164,7 @@
 - [分别用文本与历史数列路由预测专家](../conferences/icml-2026/cards/2701-2800.md#lin26al-architecture) · TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts
 - [从高层注入绕过语义压缩的取证特征](../conferences/icml-2026/cards/2701-2800.md#lin26an-architecture) · Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models
 - [让模型在二维线索不足时主动调用几何通道](../conferences/icml-2026/cards/2801-2900.md#liu26as-architecture) · GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning
+- [联合 RGB-D 和神经声强向量定位三维声源](../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments
 
 <a id="by-ml-foundations"></a>
 

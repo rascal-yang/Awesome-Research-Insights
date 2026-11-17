@@ -55,6 +55,7 @@
 - <a id="liang26ad-architecture"></a>[RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space](../conferences/icml-2026/cards/2701-2800.md#paper-liang26ad)
 - <a id="liu26cw-architecture"></a>[WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cw)
 - <a id="liu26dj-architecture"></a>[Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dj)
+- <a id="liu26eb-architecture"></a>[Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eb)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -288,6 +289,7 @@
 - <a id="liu26bb-inference"></a>[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bb)
 - <a id="liu26cg-inference"></a>[HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cg)
 - <a id="liu26ck-inference"></a>[XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ck)
+- <a id="liu26du-inference"></a>[AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26du)
 
 <a id="by-representation-learning"></a>
 

@@ -34,6 +34,7 @@
 - [用任务条件学习困惑度偏好标签的置信度](../conferences/icml-2026/cards/2601-2700.md#li26jp-loss-functions) · Task-Aware Preference Calibration for Direct Preference Optimization
 - [惩罚微调中升高的有害注意力汇点差异](../conferences/icml-2026/cards/2801-2900.md#liu26cf-loss-functions) · Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink
 - [对同一正确推理内的冗余段做掩码偏好](../conferences/icml-2026/cards/2801-2900.md#liu26dp-loss-functions) · ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning
+- [中续训练用分散损失解除小模型嵌入锥化](../conferences/icml-2026/cards/2901-3000.md#liu26dy-loss-functions) · Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models
 
 <a id="by-computer-vision"></a>
 

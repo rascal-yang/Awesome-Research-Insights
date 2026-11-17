@@ -201,6 +201,7 @@
 - [长上下文解码的低比特扫描与融合](../conferences/icml-2026/cards/2801-2900.md#liu26da-inference) · Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding
 - [语言模型输出几何的单次幻觉检测](../conferences/icml-2026/cards/2801-2900.md#liu26dc-inference) · From Out-of-Distribution Detection to Hallucination Detection: A Geometric View
 - [以无限预算多数票为目标分配测试推理轨迹](../conferences/icml-2026/cards/2801-2900.md#liu26dg-inference) · PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency
+- [把少样本例子作为完整语义单元保留 KV](../conferences/icml-2026/cards/2901-3000.md#liu26dz-inference) · Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression
 
 <a id="by-computer-vision"></a>
 
@@ -274,6 +275,7 @@
 - [视频去噪的动态块稀疏注意力](../conferences/icml-2026/cards/2801-2900.md#liu26bb-inference) · Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers
 - [以实体层级与几何可行性约束场景图关系](../conferences/icml-2026/cards/2801-2900.md#liu26cg-inference) · HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning
 - [为图像后续块复用完整去噪历史](../conferences/icml-2026/cards/2801-2900.md#liu26ck-inference) · XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling
+- [降低注意力熵以缓解图生视频的参考图主导](../conferences/icml-2026/cards/2901-3000.md#liu26du-inference) · AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation
 
 <a id="by-nlp"></a>
 

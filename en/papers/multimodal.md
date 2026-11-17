@@ -34,6 +34,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lin26al-architecture"></a>[TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26al)
 - <a id="lin26an-architecture"></a>[Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26an)
 - <a id="liu26as-architecture"></a>[GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26as)
+- <a id="liu26ea-architecture"></a>[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ea)
 
 <a id="by-modules"></a>
 
@@ -163,6 +164,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26ie-training-strategies"></a>[Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ie)
 - <a id="li26im-training-strategies"></a>[Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](../../conferences/icml-2026/cards/2601-2700.md#paper-li26im)
 - <a id="liang26ac-training-strategies"></a>[Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26ac)
+- <a id="liu26dq-training-strategies"></a>[Hyperbolic Multimodal Continual Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dq)
 
 <a id="by-data-strategies"></a>
 
@@ -353,6 +355,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26ba-evaluation"></a>[E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ba)
 - <a id="liu26be-evaluation"></a>[DocOS: Towards Proactive Document-Guided Actions in GUI Agents](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26be)
 - <a id="liu26cr-evaluation"></a>[Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cr)
+- <a id="liu26dv-evaluation"></a>[Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dv)
 
 <a id="by-theory-statistics"></a>
 

@@ -118,6 +118,7 @@
 - [为长时域去中心化协作使用训练期集中评论家](../conferences/icml-2026/cards/2701-2800.md#liu26k-reinforcement-learning) · Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic
 - [共享策略内同时更新安全攻防两角色](../conferences/icml-2026/cards/2801-2900.md#liu26bn-reinforcement-learning) · Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models
 - [按连续全对筛掉低信号工具调用并只回传高差异样本](../conferences/icml-2026/cards/2801-2900.md#liu26de-reinforcement-learning) · On Effectiveness and Efficiency of Agentic Tool-calling and RL Training
+- [从失败轨迹生成反思补丁并蒸馏改进轨迹](../conferences/icml-2026/cards/2901-3000.md#liu26ds-reinforcement-learning) · SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning
 
 <a id="by-computer-vision"></a>
 

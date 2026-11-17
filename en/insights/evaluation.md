@@ -226,6 +226,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ConvexBench: Can LLMs Recognize Convex Functions?](../../conferences/icml-2026/cards/2801-2900.md#liu26bg-evaluation) · 中文
 - [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](../../conferences/icml-2026/cards/2801-2900.md#liu26bh-evaluation) · 中文
 - [TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation](../../conferences/icml-2026/cards/2801-2900.md#liu26ct-evaluation) · 中文
+- [Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26dw-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -388,6 +389,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs](../../conferences/icml-2026/cards/2801-2900.md#liu26ba-evaluation) · 中文
 - [DocOS: Towards Proactive Document-Guided Actions in GUI Agents](../../conferences/icml-2026/cards/2801-2900.md#liu26be-evaluation) · 中文
 - [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](../../conferences/icml-2026/cards/2801-2900.md#liu26cr-evaluation) · 中文
+- [Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26dv-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

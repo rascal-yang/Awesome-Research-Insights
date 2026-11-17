@@ -280,6 +280,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26gl-representation-learning"></a>[Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gl)
 - <a id="li26ha-representation-learning"></a>[A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ha)
 - <a id="liang26aa-representation-learning"></a>[LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26aa)
+- <a id="liu26dt-representation-learning"></a>[RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dt)
 
 <a id="by-evaluation"></a>
 

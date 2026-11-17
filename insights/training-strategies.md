@@ -95,6 +95,7 @@
 - [按共同字符区间稀疏对齐跨词表蒸馏](../conferences/icml-2026/cards/2801-2900.md#liu26bw-training-strategies) · Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation
 - [融合预测与上下文的潜变量推理](../conferences/icml-2026/cards/2801-2900.md#liu26cv-training-strategies) · Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens
 - [混合中训衔接通用预训练与专域后训练](../conferences/icml-2026/cards/2801-2900.md#liu26cz-training-strategies) · Midtraining Bridges Pretraining and Posttraining Distributions
+- [复用跨域频繁激活的 MoE 专家初始化目标模型](../conferences/icml-2026/cards/2901-3000.md#liu26dr-training-strategies) · XPERT: Expert Knowledge Transfer for Effective Training of Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -211,6 +212,7 @@
 - [按难度逐步学习最小图文对照](../conferences/icml-2026/cards/2601-2700.md#li26ie-training-strategies) · Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs
 - [优先蒸馏教师可靠且师生分歧大的在线轨迹](../conferences/icml-2026/cards/2601-2700.md#li26im-training-strategies) · Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation
 - [把语言多选题分布蒸馏为视觉类别概念签名](../conferences/icml-2026/cards/2701-2800.md#liang26ac-training-strategies) · Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge
+- [持续学习中用共享双曲等距约束保护图文层级](../conferences/icml-2026/cards/2901-3000.md#liu26dq-training-strategies) · Hyperbolic Multimodal Continual Learning
 
 <a id="by-ml-foundations"></a>
 

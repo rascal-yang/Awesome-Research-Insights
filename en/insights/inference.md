@@ -201,6 +201,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding](../../conferences/icml-2026/cards/2801-2900.md#liu26da-inference) · 中文
 - [From Out-of-Distribution Detection to Hallucination Detection: A Geometric View](../../conferences/icml-2026/cards/2801-2900.md#liu26dc-inference) · 中文
 - [PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency](../../conferences/icml-2026/cards/2801-2900.md#liu26dg-inference) · 中文
+- [Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression](../../conferences/icml-2026/cards/2901-3000.md#liu26dz-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -274,6 +275,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](../../conferences/icml-2026/cards/2801-2900.md#liu26bb-inference) · 中文
 - [HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26cg-inference) · 中文
 - [XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling](../../conferences/icml-2026/cards/2801-2900.md#liu26ck-inference) · 中文
+- [AlignVid: Taming Visual Dominance via Training-Free Attention Modulation in Text-guided Image-to-Video Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26du-inference) · 中文
 
 <a id="by-nlp"></a>
 

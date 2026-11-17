@@ -95,6 +95,7 @@ Training schedules, curricula, and task or stage composition.
 - [Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation](../../conferences/icml-2026/cards/2801-2900.md#liu26bw-training-strategies) · 中文
 - [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](../../conferences/icml-2026/cards/2801-2900.md#liu26cv-training-strategies) · 中文
 - [Midtraining Bridges Pretraining and Posttraining Distributions](../../conferences/icml-2026/cards/2801-2900.md#liu26cz-training-strategies) · 中文
+- [XPERT: Expert Knowledge Transfer for Effective Training of Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26dr-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -211,6 +212,7 @@ Training schedules, curricula, and task or stage composition.
 - [Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](../../conferences/icml-2026/cards/2601-2700.md#li26ie-training-strategies) · 中文
 - [Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](../../conferences/icml-2026/cards/2601-2700.md#li26im-training-strategies) · 中文
 - [Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../conferences/icml-2026/cards/2701-2800.md#liang26ac-training-strategies) · 中文
+- [Hyperbolic Multimodal Continual Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26dq-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

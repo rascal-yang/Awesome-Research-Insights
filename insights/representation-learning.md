@@ -236,4 +236,5 @@
 - [从短轨迹扩散生成环境专用算子权重](../conferences/icml-2026/cards/2501-2600.md#li26gl-representation-learning) · Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion
 - [神经群体动力学的组间独立分解](../conferences/icml-2026/cards/2601-2700.md#li26ha-representation-learning) · A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity
 - [从演化祖先概率初始化蛋白生成](../conferences/icml-2026/cards/2701-2800.md#liang26aa-representation-learning) · LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation
+- [按功能脑区、通道与时间自监督脑电](../conferences/icml-2026/cards/2901-3000.md#liu26dt-representation-learning) · RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning
 <!-- classification:end -->

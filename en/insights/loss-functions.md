@@ -34,6 +34,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Task-Aware Preference Calibration for Direct Preference Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26jp-loss-functions) · 中文
 - [Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](../../conferences/icml-2026/cards/2801-2900.md#liu26cf-loss-functions) · 中文
 - [ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26dp-loss-functions) · 中文
+- [Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26dy-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

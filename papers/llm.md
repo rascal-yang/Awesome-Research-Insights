@@ -46,6 +46,7 @@
 - <a id="li26jq-architecture"></a>[RePo: Language Models with Context Re-Positioning](../conferences/icml-2026/cards/2601-2700.md#paper-li26jq)
 - <a id="liu26at-architecture"></a>[$R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration](../conferences/icml-2026/cards/2801-2900.md#paper-liu26at)
 - <a id="liu26cx-architecture"></a>[Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cx)
+- <a id="liu26dx-architecture"></a>[SimpleMem: Efficient Lifelong Memory for LLM Agents](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dx)
 
 <a id="by-modules"></a>
 
@@ -108,6 +109,7 @@
 - <a id="li26jp-loss-functions"></a>[Task-Aware Preference Calibration for Direct Preference Optimization](../conferences/icml-2026/cards/2601-2700.md#paper-li26jp)
 - <a id="liu26cf-loss-functions"></a>[Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cf)
 - <a id="liu26dp-loss-functions"></a>[ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dp)
+- <a id="liu26dy-loss-functions"></a>[Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dy)
 
 <a id="by-optimization"></a>
 
@@ -287,6 +289,7 @@
 - <a id="liu26k-reinforcement-learning"></a>[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](../conferences/icml-2026/cards/2701-2800.md#paper-liu26k)
 - <a id="liu26bn-reinforcement-learning"></a>[Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bn)
 - <a id="liu26de-reinforcement-learning"></a>[On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](../conferences/icml-2026/cards/2801-2900.md#paper-liu26de)
+- <a id="liu26ds-reinforcement-learning"></a>[SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ds)
 
 <a id="by-training-strategies"></a>
 
@@ -374,6 +377,7 @@
 - <a id="liu26bw-training-strategies"></a>[Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bw)
 - <a id="liu26cv-training-strategies"></a>[Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cv)
 - <a id="liu26cz-training-strategies"></a>[Midtraining Bridges Pretraining and Posttraining Distributions](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cz)
+- <a id="liu26dr-training-strategies"></a>[XPERT: Expert Knowledge Transfer for Effective Training of Language Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dr)
 
 <a id="by-data-strategies"></a>
 
@@ -609,6 +613,7 @@
 - <a id="liu26da-inference"></a>[Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding](../conferences/icml-2026/cards/2801-2900.md#paper-liu26da)
 - <a id="liu26dc-inference"></a>[From Out-of-Distribution Detection to Hallucination Detection: A Geometric View](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dc)
 - <a id="liu26dg-inference"></a>[PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dg)
+- <a id="liu26dz-inference"></a>[Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dz)
 
 <a id="by-representation-learning"></a>
 
@@ -839,6 +844,7 @@
 - <a id="liu26bg-evaluation"></a>[ConvexBench: Can LLMs Recognize Convex Functions?](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bg)
 - <a id="liu26bh-evaluation"></a>[The Appeal and Reality of Recycling LoRAs with Adaptive Merging](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bh)
 - <a id="liu26ct-evaluation"></a>[TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ct)
+- <a id="liu26dw-evaluation"></a>[Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dw)
 
 <a id="by-theory-statistics"></a>
 

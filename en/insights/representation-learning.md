@@ -236,4 +236,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion](../../conferences/icml-2026/cards/2501-2600.md#li26gl-representation-learning) · 中文
 - [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](../../conferences/icml-2026/cards/2601-2700.md#li26ha-representation-learning) · 中文
 - [LineageFlow: Flow Matching for High-Fidelity Family-Aware Protein Sequence Generation](../../conferences/icml-2026/cards/2701-2800.md#liang26aa-representation-learning) · 中文
+- [RECTOR: Masked Region-Channel-Temporal Modeling for Affective and Cognitive Representation Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26dt-representation-learning) · 中文
 <!-- classification:end -->

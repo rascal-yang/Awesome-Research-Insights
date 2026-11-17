@@ -226,6 +226,7 @@
 - [深层表达式的递归凸性验证](../conferences/icml-2026/cards/2801-2900.md#liu26bg-evaluation) · ConvexBench: Can LLMs Recognize Convex Functions?
 - [真实 LoRA 回收的等数据对照](../conferences/icml-2026/cards/2801-2900.md#liu26bh-evaluation) · The Appeal and Reality of Recycling LoRAs with Adaptive Merging
 - [基于修复前后测试的主动缺陷发现](../conferences/icml-2026/cards/2801-2900.md#liu26ct-evaluation) · TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation
+- [用协议状态假设驱动多代理发现一致性缺陷](../conferences/icml-2026/cards/2901-3000.md#liu26dw-evaluation) · Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents
 
 <a id="by-computer-vision"></a>
 
@@ -388,6 +389,7 @@
 - [电商视频的商业意图评估](../conferences/icml-2026/cards/2801-2900.md#liu26ba-evaluation) · E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs
 - [文档搜索到桌面执行的分段评估](../conferences/icml-2026/cards/2801-2900.md#liu26be-evaluation) · DocOS: Towards Proactive Document-Guided Actions in GUI Agents
 - [用动态交互验证 GUI 智能体的人机差距](../conferences/icml-2026/cards/2801-2900.md#liu26cr-evaluation) · Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense
+- [用统一和拆开两种轨道诊断图文理解与生成协同](../conferences/icml-2026/cards/2901-3000.md#liu26dv-evaluation) · Unison: Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation
 
 <a id="by-ml-foundations"></a>
 
