@@ -117,6 +117,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26p-data-strategies) · 中文
 - [Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets](../../conferences/icml-2026/cards/3701-3800.md#qiao26e-data-strategies) · 中文
 - [BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qing26a-data-strategies) · 中文
+- [Trajectory-Level Data Augmentation for Offline Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#schmahling26a-data-strategies) · 中文
 
 <a id="by-robotics"></a>
 

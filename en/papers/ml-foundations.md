@@ -70,6 +70,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="qiu26u-architecture"></a>[Evidential Copula Concept Embedding Models](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26u)
 - <a id="qiu26x-architecture"></a>[DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26x)
 - <a id="qu26a-architecture"></a>[TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26a)
+- <a id="serov26a-architecture"></a>[Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing](../../conferences/icml-2026/cards/4001-4100.md#paper-serov26a)
 
 <a id="by-modules"></a>
 
@@ -374,6 +375,14 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ren26m-optimization"></a>[Riemannian Dueling Optimization](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26m)
 - <a id="rosseau26a-optimization"></a>[Preserving Plasticity in Continual Learning via Dynamical Isometry](../../conferences/icml-2026/cards/3801-3900.md#paper-rosseau26a)
 - <a id="roulet26a-optimization"></a>[Per-example Gradients: a New Frontier for Understanding and Improving Optimizers](../../conferences/icml-2026/cards/3801-3900.md#paper-roulet26a)
+- <a id="sahin26a-optimization"></a>[Zeroth-Order Non-Log-Concave Sampling with Variance Reduction and Applications to Inverse Problems](../../conferences/icml-2026/cards/3901-4000.md#paper-sahin26a)
+- <a id="saravanos26a-optimization"></a>[Learning-to-Optimize via Deep Unfolded Flows](../../conferences/icml-2026/cards/3901-4000.md#paper-saravanos26a)
+- <a id="sarkar26a-optimization"></a>[Evolution Strategies at the Hyperscale](../../conferences/icml-2026/cards/3901-4000.md#paper-sarkar26a)
+- <a id="sarkar26c-optimization"></a>[Optimal Anytime Algorithms for Online Convex Optimization with Adversarial Constraints](../../conferences/icml-2026/cards/3901-4000.md#paper-sarkar26c)
+- <a id="schmidt26a-optimization"></a>[Transport Clustering: Solving Low-Rank Optimal Transport via Clustering](../../conferences/icml-2026/cards/3901-4000.md#paper-schmidt26a)
+- <a id="schram26a-optimization"></a>[Active Budget Allocation for Efficient Scaling Law Estimation via Surrogate-Guided Pruning](../../conferences/icml-2026/cards/3901-4000.md#paper-schram26a)
+- <a id="scurria26a-optimization"></a>[Equilibrium Propagation for Non-Conservative Systems](../../conferences/icml-2026/cards/3901-4000.md#paper-scurria26a)
+- <a id="seddiqi26a-optimization"></a>[Trajectory-Aware Heuristic Learning for Combinatorial Search](../../conferences/icml-2026/cards/3901-4000.md#paper-seddiqi26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -445,6 +454,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="pachebat26a-training-strategies"></a>[Tail Annealing for Heavy-Tailed Flow Matching](../../conferences/icml-2026/cards/3501-3600.md#paper-pachebat26a)
 - <a id="park26l-training-strategies"></a>[Saliency-Aware Model Merging](../../conferences/icml-2026/cards/3501-3600.md#paper-park26l)
 - <a id="qin26g-training-strategies"></a>[Towards Rule-Based Knowledge Sharing in Federated Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26g)
+- <a id="sakai26a-training-strategies"></a>[Sign Lock-In: Randomly Initialized Weight Signs Persist and Bottleneck Sub-Bit Model Compression](../../conferences/icml-2026/cards/3901-4000.md#paper-sakai26a)
+- <a id="sakata26a-training-strategies"></a>[Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off](../../conferences/icml-2026/cards/3901-4000.md#paper-sakata26a)
 
 <a id="by-data-strategies"></a>
 
@@ -520,6 +531,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="robnik26a-inference"></a>[Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test](../../conferences/icml-2026/cards/3801-3900.md#paper-robnik26a)
 - <a id="roos26a-inference"></a>[Categorical Flow Maps](../../conferences/icml-2026/cards/3801-3900.md#paper-roos26a)
 - <a id="ruhlmann26a-inference"></a>[Flow Matching Calibration for Simulation-Based Inference under Model Misspecification](../../conferences/icml-2026/cards/3901-4000.md#paper-ruhlmann26a)
+- <a id="schroder26a-inference"></a>[WildCat: Near-Linear Attention in Theory and Practice](../../conferences/icml-2026/cards/3901-4000.md#paper-schroder26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1025,4 +1037,14 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="rundel26a-theory-statistics"></a>[$\textttShaplEIG$: Bayesian Experimental Design for Shapley Value Estimation](../../conferences/icml-2026/cards/3901-4000.md#paper-rundel26a)
 - <a id="saad-falcon26a-theory-statistics"></a>[Global Convergence of Adaptive Sensing for Principal Eigenvector Estimation](../../conferences/icml-2026/cards/3901-4000.md#paper-saad-falcon26a)
 - <a id="sadi26a-theory-statistics"></a>[Welfare-Optimal Classification with Accuracy Auctions](../../conferences/icml-2026/cards/3901-4000.md#paper-sadi26a)
+- <a id="sahu26a-theory-statistics"></a>[On the Provable Suboptimality of Momentum SGD in Nonstationary Stochastic Optimization](../../conferences/icml-2026/cards/3901-4000.md#paper-sahu26a)
+- <a id="saig26a-theory-statistics"></a>[Adaptive Contracts for Cost-Effective AI Delegation](../../conferences/icml-2026/cards/3901-4000.md#paper-saig26a)
+- <a id="sakaue26a-theory-statistics"></a>[Non-Stationary Online Structured Prediction with Surrogate Losses](../../conferences/icml-2026/cards/3901-4000.md#paper-sakaue26a)
+- <a id="sansford26a-theory-statistics"></a>[How High is ‘High’? Rethinking the Roles of Dimensionality in Topological Data Analysis and Manifold Learning](../../conferences/icml-2026/cards/3901-4000.md#paper-sansford26a)
+- <a id="sargent26a-theory-statistics"></a>[Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits](../../conferences/icml-2026/cards/3901-4000.md#paper-sargent26a)
+- <a id="sattar26a-theory-statistics"></a>[Two-Layer Linear Auto-Regressive Models Estimate Latent States](../../conferences/icml-2026/cards/3901-4000.md#paper-sattar26a)
+- <a id="schaipp26a-theory-statistics"></a>[Step-Size Stability in Stochastic Optimization: A Theoretical Perspective](../../conferences/icml-2026/cards/3901-4000.md#paper-schaipp26a)
+- <a id="schliserman26a-theory-statistics"></a>[Flat Minima and Generalization: Insights from Stochastic Convex Optimization](../../conferences/icml-2026/cards/3901-4000.md#paper-schliserman26a)
+- <a id="schur26a-theory-statistics"></a>[Many Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is Causal Inference Possible?](../../conferences/icml-2026/cards/3901-4000.md#paper-schur26a)
+- <a id="seo26d-theory-statistics"></a>[Dissecting Causal Mechanism Shifts via FANS: Function And Noise Separation](../../conferences/icml-2026/cards/4001-4100.md#paper-seo26d)
 <!-- classification:end -->

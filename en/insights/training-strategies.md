@@ -183,6 +183,7 @@ Training schedules, curricula, and task or stage composition.
 - [MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement](../../conferences/icml-2026/cards/3801-3900.md#ren26i-training-strategies) · 中文
 - [Transporting Task Vectors across Different Architectures without Training](../../conferences/icml-2026/cards/3801-3900.md#rinaldi26a-training-strategies) · 中文
 - [Memory-Distilled Selection for Noise-Robust Anomaly Detection](../../conferences/icml-2026/cards/3901-4000.md#safarov26a-training-strategies) · 中文
+- [One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](../../conferences/icml-2026/cards/3901-4000.md#selikhanovych26a-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -204,6 +205,7 @@ Training schedules, curricula, and task or stage composition.
 - [Dreaming in Code for Curriculum Learning in Open-Ended Worlds](../../conferences/icml-2026/cards/3301-3400.md#mitsides26a-training-strategies) · 中文
 - [Adaptive Policy Backbone via Shared Network](../../conferences/icml-2026/cards/3501-3600.md#park26i-training-strategies) · 中文
 - [Scalable Reinforcement Learning via Adaptive Batch Scaling](../../conferences/icml-2026/cards/3501-3600.md#park26w-training-strategies) · 中文
+- [When Does Predictive Inverse Dynamics Outperform Behavior Cloning?](../../conferences/icml-2026/cards/3901-4000.md#schafer26a-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -339,6 +341,8 @@ Training schedules, curricula, and task or stage composition.
 - [Tail Annealing for Heavy-Tailed Flow Matching](../../conferences/icml-2026/cards/3501-3600.md#pachebat26a-training-strategies) · 中文
 - [Saliency-Aware Model Merging](../../conferences/icml-2026/cards/3501-3600.md#park26l-training-strategies) · 中文
 - [Towards Rule-Based Knowledge Sharing in Federated Learning](../../conferences/icml-2026/cards/3701-3800.md#qin26g-training-strategies) · 中文
+- [Sign Lock-In: Randomly Initialized Weight Signs Persist and Bottleneck Sub-Bit Model Compression](../../conferences/icml-2026/cards/3901-4000.md#sakai26a-training-strategies) · 中文
+- [Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off](../../conferences/icml-2026/cards/3901-4000.md#sakata26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -392,4 +396,5 @@ Training schedules, curricula, and task or stage composition.
 - [Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling](../../conferences/icml-2026/cards/3701-3800.md#qiu26r-training-strategies) · 中文
 - [Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](../../conferences/icml-2026/cards/3801-3900.md#ripken26a-training-strategies) · 中文
 - [U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster](../../conferences/icml-2026/cards/3901-4000.md#ruhling-cachay26a-training-strategies) · 中文
+- [Stabilizing In-Context Multi-Source Domain Adaptation for Biomedical Images Through Controls](../../conferences/icml-2026/cards/3901-4000.md#sanchez-fernandez26a-training-strategies) · 中文
 <!-- classification:end -->

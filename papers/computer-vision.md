@@ -68,6 +68,7 @@
 - <a id="qiu26m-architecture"></a>[Learning Global Representation from Queries for Vectorized HD Map Construction](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26m)
 - <a id="ran26d-architecture"></a>[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](../conferences/icml-2026/cards/3801-3900.md#paper-ran26d)
 - <a id="ren26j-architecture"></a>[Scalable Event Cloud Network for Event-based Classification](../conferences/icml-2026/cards/3801-3900.md#paper-ren26j)
+- <a id="schnepf26a-architecture"></a>[SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion](../conferences/icml-2026/cards/3901-4000.md#paper-schnepf26a)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -107,6 +108,8 @@
 - <a id="meng26g-modules"></a>[Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention](../conferences/icml-2026/cards/3201-3300.md#paper-meng26g)
 - <a id="mo26e-modules"></a>[MapUQ: Map with Uncertainty Quantification for Robust BEV Vectorized Construction](../conferences/icml-2026/cards/3301-3400.md#paper-mo26e)
 - <a id="qiu26e-modules"></a>[Activation with Intrinsic-Extrinsic Consensus](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26e)
+- <a id="saied26a-modules"></a>[Normalization Equivariance for Arbitrary Backbones, with Application to Image Denoising](../conferences/icml-2026/cards/3901-4000.md#paper-saied26a)
+- <a id="sekikawa26a-modules"></a>[Spherical SO(3) Equivariant Local Attention](../conferences/icml-2026/cards/3901-4000.md#paper-sekikawa26a)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -244,6 +247,7 @@
 - <a id="ren26i-training-strategies"></a>[MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement](../conferences/icml-2026/cards/3801-3900.md#paper-ren26i)
 - <a id="rinaldi26a-training-strategies"></a>[Transporting Task Vectors across Different Architectures without Training](../conferences/icml-2026/cards/3801-3900.md#paper-rinaldi26a)
 - <a id="safarov26a-training-strategies"></a>[Memory-Distilled Selection for Noise-Robust Anomaly Detection](../conferences/icml-2026/cards/3901-4000.md#paper-safarov26a)
+- <a id="selikhanovych26a-training-strategies"></a>[One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](../conferences/icml-2026/cards/3901-4000.md#paper-selikhanovych26a)
 
 <a id="by-data-strategies"></a>
 
@@ -361,6 +365,8 @@
 - <a id="potaptchik26b-inference"></a>[Meta Flow Maps enable scalable reward alignment](../conferences/icml-2026/cards/3601-3700.md#paper-potaptchik26b)
 - <a id="rajagopalan26a-inference"></a>[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](../conferences/icml-2026/cards/3801-3900.md#paper-rajagopalan26a)
 - <a id="regmi26a-inference"></a>[AdaSCALE: Adaptive Scaling for OOD Detection](../conferences/icml-2026/cards/3801-3900.md#paper-regmi26a)
+- <a id="samuel26a-inference"></a>[FAST-AR: Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](../conferences/icml-2026/cards/3901-4000.md#paper-samuel26a)
+- <a id="sani26a-inference"></a>[MMD Guidance: Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance](../conferences/icml-2026/cards/3901-4000.md#paper-sani26a)
 
 <a id="by-representation-learning"></a>
 
@@ -465,6 +471,8 @@
 - <a id="plitsis26a-evaluation"></a>[Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search](../conferences/icml-2026/cards/3601-3700.md#paper-plitsis26a)
 - <a id="pu26b-evaluation"></a>[Low-Rank and Sparsity Are All You Need: Exploring Robust Hierarchical Latent Subspaces for Transferable Adversarial Attack](../conferences/icml-2026/cards/3601-3700.md#paper-pu26b)
 - <a id="qiu26b-evaluation"></a>[DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26b)
+- <a id="safonov26a-evaluation"></a>[Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions](../conferences/icml-2026/cards/3901-4000.md#paper-safonov26a)
+- <a id="salvy26a-evaluation"></a>[GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation](../conferences/icml-2026/cards/3901-4000.md#paper-salvy26a)
 
 <a id="by-theory-statistics"></a>
 

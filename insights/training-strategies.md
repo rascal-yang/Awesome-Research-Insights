@@ -183,6 +183,7 @@
 - [按潜在结构簇拆分教师诱发的标签噪声](../conferences/icml-2026/cards/3801-3900.md#ren26i-training-strategies) · MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement
 - [按激活几何跨宽度迁移任务向量](../conferences/icml-2026/cards/3801-3900.md#rinaldi26a-training-strategies) · Transporting Task Vectors across Different Architectures without Training
 - [用稀疏记忆打分再渐进筛污染](../conferences/icml-2026/cards/3901-4000.md#safarov26a-training-strategies) · Memory-Distilled Selection for Noise-Robust Anomaly Detection
+- [残差移位扩散的单步超分蒸馏](../conferences/icml-2026/cards/3901-4000.md#selikhanovych26a-training-strategies) · One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation
 
 <a id="by-nlp"></a>
 
@@ -204,6 +205,7 @@
 - [可执行环境变体的闭环课程](../conferences/icml-2026/cards/3301-3400.md#mitsides26a-training-strategies) · Dreaming in Code for Curriculum Learning in Open-Ended Worlds
 - [只适配共享策略骨干两端的线性映射](../conferences/icml-2026/cards/3501-3600.md#park26i-training-strategies) · Adaptive Policy Backbone via Shared Network
 - [用动作分布漂移动态调节在线 RL 批大小](../conferences/icml-2026/cards/3501-3600.md#park26w-training-strategies) · Scalable Reinforcement Learning via Adaptive Batch Scaling
+- [用未来状态把多解动作拆成条件选择](../conferences/icml-2026/cards/3901-4000.md#schafer26a-training-strategies) · When Does Predictive Inverse Dynamics Outperform Behavior Cloning?
 
 <a id="by-robotics"></a>
 
@@ -339,6 +341,8 @@
 - [在重尾坐标上做对数退火](../conferences/icml-2026/cards/3501-3600.md#pachebat26a-training-strategies) · Tail Annealing for Heavy-Tailed Flow Matching
 - [结合跨层连通性与专家一致性合并任务向量](../conferences/icml-2026/cards/3501-3600.md#park26l-training-strategies) · Saliency-Aware Model Merging
 - [让异构客户端共享类判别规则](../conferences/icml-2026/cards/3701-3800.md#qin26g-training-strategies) · Towards Rule-Based Knowledge Sharing in Federated Learning
+- [训练前固定低秩符号模板以突破亚比特存储下限](../conferences/icml-2026/cards/3901-4000.md#sakai26a-training-strategies) · Sign Lock-In: Randomly Initialized Weight Signs Persist and Bottleneck Sub-Bit Model Compression
+- [在训练中学适于事后公平阈值控制的表征](../conferences/icml-2026/cards/3901-4000.md#sakata26a-training-strategies) · Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -392,4 +396,5 @@
 - [让分子结构与序列的生成时钟学习最优耦合](../conferences/icml-2026/cards/3701-3800.md#qiu26r-training-strategies) · Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling
 - [只用瞬时力学习大步长动力学](../conferences/icml-2026/cards/3801-3900.md#ripken26a-training-strategies) · Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics
 - [两阶段训练的概率天气预报](../conferences/icml-2026/cards/3901-4000.md#ruhling-cachay26a-training-strategies) · U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster
+- [用阴性对照稳定生物图像批归一化适配](../conferences/icml-2026/cards/3901-4000.md#sanchez-fernandez26a-training-strategies) · Stabilizing In-Context Multi-Source Domain Adaptation for Biomedical Images Through Controls
 <!-- classification:end -->

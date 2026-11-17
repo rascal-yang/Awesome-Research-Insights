@@ -58,6 +58,7 @@
 - [用对手搜索协同设计多智能体防线](../conferences/icml-2026/cards/3401-3500.md#nother26a-architecture) · MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems
 - [给语言模型加可读写数值时序的 patch 接口](../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction
 - [把低频机构推理接到高频市场执行](../conferences/icml-2026/cards/3601-3700.md#piao26b-architecture) · MarketSim: Simulating Stock Markets with Large-Scale Generative Agents
+- [用任意顺序因果注意力实现扩散文本的精确 KV 缓存](../conferences/icml-2026/cards/3901-4000.md#sahoo26b-architecture) · Esoteric Language Models: A Family of Any-Order Diffusion LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -118,6 +119,7 @@
 - [从地图查询中抽取全局表示再指导各实例](../conferences/icml-2026/cards/3701-3800.md#qiu26m-architecture) · Learning Global Representation from Queries for Vectorized HD Map Construction
 - [局部支撑与功能关系合成室内场景](../conferences/icml-2026/cards/3801-3900.md#ran26d-architecture) · Pair2Scene: Learning Local Object Relations for Procedural Scene Generation
 - [在极性感知事件点云上用傅里叶层缩减时空特征开销](../conferences/icml-2026/cards/3801-3900.md#ren26j-architecture) · Scalable Event Cloud Network for Event-based Classification
+- [用调和深度补齐相邻全景间空隙](../conferences/icml-2026/cards/3901-4000.md#schnepf26a-architecture) · SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion
 
 <a id="by-nlp"></a>
 
@@ -262,6 +264,7 @@
 - [用证据边际和 Copula 建模成组概念](../conferences/icml-2026/cards/3701-3800.md#qiu26u-architecture) · Evidential Copula Concept Embedding Models
 - [把历史外生变量关联注入未来预测](../conferences/icml-2026/cards/3701-3800.md#qiu26x-architecture) · DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables
 - [面向长表格上下文的基础模型](../conferences/icml-2026/cards/3701-3800.md#qu26a-architecture) · TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model
+- [注意力多视图平滑的 Neural CDE](../conferences/icml-2026/cards/4001-4100.md#serov26a-architecture) · Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -290,6 +293,7 @@
 - [将交通的空间互联与时间方向分开](../conferences/icml-2026/cards/3701-3800.md#qi26j-architecture) · Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast
 - [半定规划索引对消息传递](../conferences/icml-2026/cards/3701-3800.md#qian26e-architecture) · On the Expressive Power of GNNs to Solve Linear SDPs
 - [动态图状态并行更新时距与拓扑](../conferences/icml-2026/cards/3701-3800.md#raghuvanshi26a-architecture) · Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models
+- [让邻居只对兼容的潜变量达成共识](../conferences/icml-2026/cards/3901-4000.md#seely26a-architecture) · Learning Multi-Agent Coordination via Sheaf-ADMM
 
 <a id="by-scientific-ml"></a>
 
@@ -396,4 +400,5 @@
 - [全原子全局注意力学习长程势能](../conferences/icml-2026/cards/3701-3800.md#qu26g-architecture) · A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention
 - [保留热力学约束的分子溶解度预测](../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction
 - [用口袋距离分布直接预测结合亲和力](../conferences/icml-2026/cards/3801-3900.md#rossi26a-architecture) · TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations
+- [以独立流时间统一晶体生成任务](../conferences/icml-2026/cards/4001-4100.md#seong26a-architecture) · Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling
 <!-- classification:end -->

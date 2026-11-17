@@ -92,6 +92,7 @@
 - [硬件计数器约束的 GPU 算子搜索](../conferences/icml-2026/cards/3801-3900.md#ran26b-optimization) · KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits
 - [用优先队列和近邻摘要迭代改写有噪声的候选系统](../conferences/icml-2026/cards/3801-3900.md#ren26l-optimization) · POLCA: Stochastic Generative Optimization with LLM
 - [用逐层广义光滑性分析线性最小化优化器](../conferences/icml-2026/cards/3801-3900.md#riabinin26a-optimization) · From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs
+- [用语言知识构造 LoRA 贝叶斯搜索空间](../conferences/icml-2026/cards/4001-4100.md#seong-eun26a-optimization) · A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search
 
 <a id="by-computer-vision"></a>
 
@@ -377,6 +378,14 @@
 - [只用比较反馈沿黎曼流形求下降方向](../conferences/icml-2026/cards/3801-3900.md#ren26m-optimization) · Riemannian Dueling Optimization
 - [把保塑性的等距更新移出 Adam 矩估计](../conferences/icml-2026/cards/3801-3900.md#rosseau26a-optimization) · Preserving Plasticity in Continual Learning via Dynamical Isometry
 - [先降低梯度噪声再取符号](../conferences/icml-2026/cards/3801-3900.md#roulet26a-optimization) · Per-example Gradients: a New Frontier for Understanding and Improving Optimizers
+- [用低方差零阶 Langevin 做黑盒后验采样](../conferences/icml-2026/cards/3901-4000.md#sahin26a-optimization) · Zeroth-Order Non-Log-Concave Sampling with Variance Reduction and Applications to Inverse Problems
+- [流匹配预训练的展开式优化器](../conferences/icml-2026/cards/3901-4000.md#saravanos26a-optimization) · Learning-to-Optimize via Deep Unfolded Flows
+- [面向大模型的低秩进化策略](../conferences/icml-2026/cards/3901-4000.md#sarkar26a-optimization) · Evolution Strategies at the Hyperscale
+- [未知时域的对抗约束在线优化](../conferences/icml-2026/cards/3901-4000.md#sarkar26c-optimization) · Optimal Anytime Algorithms for Online Convex Optimization with Adversarial Constraints
+- [先传输配准再做低秩共聚类](../conferences/icml-2026/cards/3901-4000.md#schmidt26a-optimization) · Transport Clustering: Solving Low-Rank Optimal Transport via Clustering
+- [按外推学习曲线保留慢热模型](../conferences/icml-2026/cards/3901-4000.md#schram26a-optimization) · Active Budget Allocation for Efficient Scaling Law Estimation via Surrogate-Guided Pruning
+- [在受扰相补回非互易作用](../conferences/icml-2026/cards/3901-4000.md#scurria26a-optimization) · Equilibrium Propagation for Non-Conservative Systems
+- [沿随机游走传播可靠深度标签](../conferences/icml-2026/cards/3901-4000.md#seddiqi26a-optimization) · Trajectory-Aware Heuristic Learning for Combinatorial Search
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -443,4 +452,5 @@
 - [在参数零空间注入历史动量](../conferences/icml-2026/cards/3801-3900.md#raviola26a-optimization) · A Dirac-Frenkel-Onsager Principle: Instantaneous Residual Minimization with Gauge Momentum for Nonlinear Parametrizations of PDE Solutions
 - [分离算术结构搜索与误差认证](../conferences/icml-2026/cards/3801-3900.md#real26a-optimization) · AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions
 - [按过阈概率选择后续实验](../conferences/icml-2026/cards/3901-4000.md#rubbi26a-optimization) · Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments
+- [逐项影响反馈驱动的符号回归](../conferences/icml-2026/cards/3901-4000.md#saveliev26a-optimization) · Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback
 <!-- classification:end -->

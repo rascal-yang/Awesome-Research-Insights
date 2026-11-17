@@ -58,6 +58,7 @@ Model-wide design and information flow.
 - [MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](../../conferences/icml-2026/cards/3401-3500.md#nother26a-architecture) · 中文
 - [TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · 中文
 - [MarketSim: Simulating Stock Markets with Large-Scale Generative Agents](../../conferences/icml-2026/cards/3601-3700.md#piao26b-architecture) · 中文
+- [Esoteric Language Models: A Family of Any-Order Diffusion LLMs](../../conferences/icml-2026/cards/3901-4000.md#sahoo26b-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -118,6 +119,7 @@ Model-wide design and information flow.
 - [Learning Global Representation from Queries for Vectorized HD Map Construction](../../conferences/icml-2026/cards/3701-3800.md#qiu26m-architecture) · 中文
 - [Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](../../conferences/icml-2026/cards/3801-3900.md#ran26d-architecture) · 中文
 - [Scalable Event Cloud Network for Event-based Classification](../../conferences/icml-2026/cards/3801-3900.md#ren26j-architecture) · 中文
+- [SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion](../../conferences/icml-2026/cards/3901-4000.md#schnepf26a-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -262,6 +264,7 @@ Model-wide design and information flow.
 - [Evidential Copula Concept Embedding Models](../../conferences/icml-2026/cards/3701-3800.md#qiu26u-architecture) · 中文
 - [DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](../../conferences/icml-2026/cards/3701-3800.md#qiu26x-architecture) · 中文
 - [TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](../../conferences/icml-2026/cards/3701-3800.md#qu26a-architecture) · 中文
+- [Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing](../../conferences/icml-2026/cards/4001-4100.md#serov26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -290,6 +293,7 @@ Model-wide design and information flow.
 - [Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](../../conferences/icml-2026/cards/3701-3800.md#qi26j-architecture) · 中文
 - [On the Expressive Power of GNNs to Solve Linear SDPs](../../conferences/icml-2026/cards/3701-3800.md#qian26e-architecture) · 中文
 - [Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models](../../conferences/icml-2026/cards/3701-3800.md#raghuvanshi26a-architecture) · 中文
+- [Learning Multi-Agent Coordination via Sheaf-ADMM](../../conferences/icml-2026/cards/3901-4000.md#seely26a-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -396,4 +400,5 @@ Model-wide design and information flow.
 - [A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention](../../conferences/icml-2026/cards/3701-3800.md#qu26g-architecture) · 中文
 - [DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · 中文
 - [TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations](../../conferences/icml-2026/cards/3801-3900.md#rossi26a-architecture) · 中文
+- [Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling](../../conferences/icml-2026/cards/4001-4100.md#seong26a-architecture) · 中文
 <!-- classification:end -->

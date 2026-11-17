@@ -44,6 +44,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Optimal Transport for LLM Reward Modeling from Noisy Feedback](../../conferences/icml-2026/cards/3501-3600.md#pan26o-loss-functions) · 中文
 - [Forget to Know, Remember to Use: Context-Aware Unlearning for Large Language Models](../../conferences/icml-2026/cards/3601-3700.md#peng26a-loss-functions) · 中文
 - [Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](../../conferences/icml-2026/cards/3601-3700.md#piskorz26a-loss-functions) · 中文
+- [LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding](../../conferences/icml-2026/cards/3901-4000.md#samarin26a-loss-functions) · 中文
+- [Temperature Scaling in Discrete Sequence (Language) Models](../../conferences/icml-2026/cards/3901-4000.md#scheufele26a-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -210,4 +212,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Learning to Emulate Chaos: Adversarial Optimal Transport Regularization](../../conferences/icml-2026/cards/3201-3300.md#melo26a-loss-functions) · 中文
 - [Asymmetric Contrastive Objectives for Efficient Phenotypic Screening](../../conferences/icml-2026/cards/3401-3500.md#nightingale26a-loss-functions) · 中文
 - [SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings](../../conferences/icml-2026/cards/3701-3800.md#qin26b-loss-functions) · 中文
+- [Efficient Training of Boltzmann Generators Using Off-Policy Log-Dispersion Regularization](../../conferences/icml-2026/cards/3901-4000.md#schopmans26a-loss-functions) · 中文
+- [Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../../conferences/icml-2026/cards/4001-4100.md#seo26c-loss-functions) · 中文
 <!-- classification:end -->

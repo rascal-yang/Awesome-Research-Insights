@@ -169,6 +169,7 @@
 - [先拆分频带再做跨传感器对齐](../conferences/icml-2026/cards/3701-3800.md#qi26l-representation-learning) · FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification
 - [定长音乐拍点的稀疏模式词元](../conferences/icml-2026/cards/3701-3800.md#qian26a-representation-learning) · BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps
 - [用成对教师对齐未配对关系矩阵](../conferences/icml-2026/cards/3801-3900.md#roschmann26a-representation-learning) · SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport
+- [按重建预算给共享和私有潜空间定秩](../conferences/icml-2026/cards/3901-4000.md#schuster26a-representation-learning) · FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data
 
 <a id="by-ml-foundations"></a>
 
@@ -323,4 +324,8 @@
 - [区域集中的球面地理编码](../conferences/icml-2026/cards/3801-3900.md#rao26a-representation-learning) · Localized, High-resolution Geographic Representations with Slepian Functions
 - [将动力模式先验用作流的起点](../conferences/icml-2026/cards/3801-3900.md#rao26b-representation-learning) · A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models
 - [在基因程序层保留协同响应](../conferences/icml-2026/cards/3801-3900.md#ruan26b-representation-learning) · Beyond Independent Genes: Learning Module-Inductive Representations for Single-Cell Gene Perturbation Prediction
+- [用辅助变量对比对齐扩散潜空间的动力学](../conferences/icml-2026/cards/3901-4000.md#sandilya26a-representation-learning) · Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation
+- [通过基因表达把图像连接到细胞文字](../conferences/icml-2026/cards/3901-4000.md#schaefer26a-representation-learning) · Transitive Representation Learning Enhances Histopathology Annotation
+- [配体分别对齐全蛋白和候选口袋](../conferences/icml-2026/cards/3901-4000.md#schneckenreiter26a-representation-learning) · Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design
+- [用共同噪声连接未配对物理快照](../conferences/icml-2026/cards/3901-4000.md#schwerdtner26a-representation-learning) · Two-Parameter Flows for Learning Population Dynamics of Physical Systems
 <!-- classification:end -->

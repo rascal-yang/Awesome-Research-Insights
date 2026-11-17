@@ -306,6 +306,13 @@
 - [符号平面图的可验证空间推理](../conferences/icml-2026/cards/3801-3900.md#rodionov26a-evaluation) · FloorplanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations
 - [用逐题同结果代理校准自偏好](../conferences/icml-2026/cards/3801-3900.md#roytburg26a-evaluation) · Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations
 - [按文化群组估计被多数票掩盖的安全分歧](../conferences/icml-2026/cards/3901-4000.md#saakyan26a-evaluation) · Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment
+- [用谱结构衡量模型对不同文化的关系认知](../conferences/icml-2026/cards/3901-4000.md#saha26a-evaluation) · Measuring Meta-Cultural Competency: A Spectral Framework for LLM Knowledge Structures
+- [同时比较扩散语言模型的似然扩展和生成效率](../conferences/icml-2026/cards/3901-4000.md#sahoo26a-evaluation) · Scaling Beyond Masked Diffusion Language Models
+- [用强制语义选择探测隐藏表示](../conferences/icml-2026/cards/3901-4000.md#schiekiera26a-evaluation) · From Associations to Activations: Comparing Behavioral and Hidden-State Semantic Geometry in LLMs
+- [在攻击与受测模型分层校准裁判](../conferences/icml-2026/cards/3901-4000.md#schwinn26a-evaluation) · A Coin Flip for Safety: LLM Judges Fail to Reliably Measure Adversarial Robustness
+- [把正确性和负载回归纳入代码加速评分](../conferences/icml-2026/cards/3901-4000.md#sehgal26a-evaluation) · FormulaCode: Evaluating Agentic Optimization on Large Codebases
+- [把实验结果准确率与自报可预测性一起测](../conferences/icml-2026/cards/3901-4000.md#sehwag26a-evaluation) · SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?
+- [用激活判别复核微调接口安全性](../conferences/icml-2026/cards/3901-4000.md#sel26a-evaluation) · Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning
 
 <a id="by-computer-vision"></a>
 
@@ -359,6 +366,8 @@
 - [用生成模型的内部属性信号搜索偏见触发提示](../conferences/icml-2026/cards/3601-3700.md#plitsis26a-evaluation) · Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search
 - [用分层低秩和稀疏特征测视觉迁移风险](../conferences/icml-2026/cards/3601-3700.md#pu26b-evaluation) · Low-Rank and Sparsity Are All You Need: Exploring Robust Hierarchical Latent Subspaces for Transferable Adversarial Attack
 - [用反演重建差异审计图像防仿制扰动](../conferences/icml-2026/cards/3701-3800.md#qiu26b-evaluation) · DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization
+- [按手机和观看条件校准视频质量排序](../conferences/icml-2026/cards/3901-4000.md#safonov26a-evaluation) · Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions
+- [用多尺度近邻距离重标定缓解生成评价的 hubness](../conferences/icml-2026/cards/3901-4000.md#salvy26a-evaluation) · GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation
 
 <a id="by-nlp"></a>
 
@@ -386,6 +395,7 @@
 - [用局部游程与多轮改写稳定性识别文字水印](../conferences/icml-2026/cards/3201-3300.md#mansouri26b-evaluation) · Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text
 - [按触发词语义审计蒸馏注意力标签的后门风险](../conferences/icml-2026/cards/3801-3900.md#ren26q-evaluation) · Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors
 - [规避检测后的机器文本风格指纹](../conferences/icml-2026/cards/3801-3900.md#rivera-soto26a-evaluation) · Attacks on Machine-Text Detectors Retain Stylistic Fingerprints
+- [分级构造人机协作审稿以测润色误判](../conferences/icml-2026/cards/3901-4000.md#saha26b-evaluation) · Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable
 
 <a id="by-reinforcement-learning"></a>
 
@@ -508,6 +518,10 @@
 - [分开评估听音和读问的医疗线索](../conferences/icml-2026/cards/3801-3900.md#rajgarhia26a-evaluation) · MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio
 - [以音频时钟复现全双工工具任务](../conferences/icml-2026/cards/3801-3900.md#ray26a-evaluation) · $τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains
 - [通过对抗筛题延长视觉推理评测寿命](../conferences/icml-2026/cards/3801-3900.md#roberts26a-evaluation) · ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models
+- [视觉语言模型的概念几何干扰](../conferences/icml-2026/cards/3901-4000.md#savietto26a-evaluation) · The Geometry of Representational Failures in Vision Language Models
+- [用无图对照校准视觉退化损失](../conferences/icml-2026/cards/3901-4000.md#saxena26b-evaluation) · VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models
+- [交叉测试物理能力与任务捷径](../conferences/icml-2026/cards/3901-4000.md#schulze-buschoff26a-evaluation) · Can Vision Language Models Learn Intuitive Physics from Interaction?
+- [跨模态时序描述的基础评测](../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · BEDTime: A Unified Benchmark for Automatically Describing Time Series
 
 <a id="by-ml-foundations"></a>
 
@@ -578,6 +592,7 @@
 - [按错边强度生成成对图对齐任务](../conferences/icml-2026/cards/2201-2300.md#lagesse26a-evaluation) · Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings
 - [回溯时序图节点记忆中的早期事件贡献](../conferences/icml-2026/cards/2901-3000.md#liu26gd-evaluation) · Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution
 - [用最优传输审计图机器人检测器的边编辑鲁棒性](../conferences/icml-2026/cards/3301-3400.md#mukherjee26a-evaluation) · BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection
+- [众包事实核查桥接排序的抗操控审计](../conferences/icml-2026/cards/3901-4000.md#selvam26a-evaluation) · Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking
 
 <a id="by-scientific-ml"></a>
 

@@ -311,6 +311,10 @@
 - [用跨轨迹时序鲁棒性指导协作](../conferences/icml-2026/cards/3701-3800.md#rafieioskouei26a-reinforcement-learning) · HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation
 - [沿影响图扩散信用分配](../conferences/icml-2026/cards/3801-3900.md#rashwan26a-reinforcement-learning) · Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning
 - [按可学习性在线生成协作队友](../conferences/icml-2026/cards/3901-4000.md#ruhdorfer26a-reinforcement-learning) · Unsupervised Partner Design Enables Robust Ad-hoc Teamwork
+- [奖励污染下的对抗式上下文策略训练](../conferences/icml-2026/cards/3901-4000.md#sasnauskas26a-reinforcement-learning) · Robust In-Context Reinforcement Learning Under Reward Poisoning Attacks
+- [把 Bellman 迭代写入回归模型上下文](../conferences/icml-2026/cards/3901-4000.md#schiff26a-reinforcement-learning) · ICR-RL: Deep Reinforcement Learning via In-Context-Regression
+- [以可执行动作价值引导噪声策略](../conferences/icml-2026/cards/3901-4000.md#selim26a-reinforcement-learning) · Noisy-Space Policy Gradient for Diffusion Policies in Offline Reinforcement Learning
+- [以规划器学习的先验正则化采样策略](../conferences/icml-2026/cards/4001-4100.md#serra-gomez26a-reinforcement-learning) · A KL-regularization framework for learning to plan with adaptive priors
 
 <a id="by-robotics"></a>
 

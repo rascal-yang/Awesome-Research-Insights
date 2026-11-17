@@ -114,6 +114,7 @@
 - <a id="qu26g-architecture"></a>[A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention](../conferences/icml-2026/cards/3701-3800.md#paper-qu26g)
 - <a id="ramani26a-architecture"></a>[DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../conferences/icml-2026/cards/3801-3900.md#paper-ramani26a)
 - <a id="rossi26a-architecture"></a>[TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations](../conferences/icml-2026/cards/3801-3900.md#paper-rossi26a)
+- <a id="seong26a-architecture"></a>[Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling](../conferences/icml-2026/cards/4001-4100.md#paper-seong26a)
 
 <a id="by-modules"></a>
 
@@ -159,6 +160,8 @@
 - <a id="melo26a-loss-functions"></a>[Learning to Emulate Chaos: Adversarial Optimal Transport Regularization](../conferences/icml-2026/cards/3201-3300.md#paper-melo26a)
 - <a id="nightingale26a-loss-functions"></a>[Asymmetric Contrastive Objectives for Efficient Phenotypic Screening](../conferences/icml-2026/cards/3401-3500.md#paper-nightingale26a)
 - <a id="qin26b-loss-functions"></a>[SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings](../conferences/icml-2026/cards/3701-3800.md#paper-qin26b)
+- <a id="schopmans26a-loss-functions"></a>[Efficient Training of Boltzmann Generators Using Off-Policy Log-Dispersion Regularization](../conferences/icml-2026/cards/3901-4000.md#paper-schopmans26a)
+- <a id="seo26c-loss-functions"></a>[Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../conferences/icml-2026/cards/4001-4100.md#paper-seo26c)
 
 <a id="by-optimization"></a>
 
@@ -201,6 +204,7 @@
 - <a id="raviola26a-optimization"></a>[A Dirac-Frenkel-Onsager Principle: Instantaneous Residual Minimization with Gauge Momentum for Nonlinear Parametrizations of PDE Solutions](../conferences/icml-2026/cards/3801-3900.md#paper-raviola26a)
 - <a id="real26a-optimization"></a>[AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](../conferences/icml-2026/cards/3801-3900.md#paper-real26a)
 - <a id="rubbi26a-optimization"></a>[Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments](../conferences/icml-2026/cards/3901-4000.md#paper-rubbi26a)
+- <a id="saveliev26a-optimization"></a>[Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback](../conferences/icml-2026/cards/3901-4000.md#paper-saveliev26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -261,6 +265,7 @@
 - <a id="qiu26r-training-strategies"></a>[Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26r)
 - <a id="ripken26a-training-strategies"></a>[Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](../conferences/icml-2026/cards/3801-3900.md#paper-ripken26a)
 - <a id="ruhling-cachay26a-training-strategies"></a>[U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster](../conferences/icml-2026/cards/3901-4000.md#paper-ruhling-cachay26a)
+- <a id="sanchez-fernandez26a-training-strategies"></a>[Stabilizing In-Context Multi-Source Domain Adaptation for Biomedical Images Through Controls](../conferences/icml-2026/cards/3901-4000.md#paper-sanchez-fernandez26a)
 
 <a id="by-data-strategies"></a>
 
@@ -319,6 +324,7 @@
 - <a id="rehman26a-inference"></a>[Autoregressive Boltzmann Generators](../conferences/icml-2026/cards/3801-3900.md#paper-rehman26a)
 - <a id="russo26b-inference"></a>[PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline](../conferences/icml-2026/cards/3901-4000.md#paper-russo26b)
 - <a id="saberi26a-inference"></a>[Training-Free Adversarial Robustness in Computational MRI](../conferences/icml-2026/cards/3901-4000.md#paper-saberi26a)
+- <a id="savary26a-inference"></a>[Training-Free Bayesian Filtering with Generative Emulators](../conferences/icml-2026/cards/3901-4000.md#paper-savary26a)
 
 <a id="by-representation-learning"></a>
 
@@ -385,6 +391,10 @@
 - <a id="rao26a-representation-learning"></a>[Localized, High-resolution Geographic Representations with Slepian Functions](../conferences/icml-2026/cards/3801-3900.md#paper-rao26a)
 - <a id="rao26b-representation-learning"></a>[A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models](../conferences/icml-2026/cards/3801-3900.md#paper-rao26b)
 - <a id="ruan26b-representation-learning"></a>[Beyond Independent Genes: Learning Module-Inductive Representations for Single-Cell Gene Perturbation Prediction](../conferences/icml-2026/cards/3801-3900.md#paper-ruan26b)
+- <a id="sandilya26a-representation-learning"></a>[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](../conferences/icml-2026/cards/3901-4000.md#paper-sandilya26a)
+- <a id="schaefer26a-representation-learning"></a>[Transitive Representation Learning Enhances Histopathology Annotation](../conferences/icml-2026/cards/3901-4000.md#paper-schaefer26a)
+- <a id="schneckenreiter26a-representation-learning"></a>[Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](../conferences/icml-2026/cards/3901-4000.md#paper-schneckenreiter26a)
+- <a id="schwerdtner26a-representation-learning"></a>[Two-Parameter Flows for Learning Population Dynamics of Physical Systems](../conferences/icml-2026/cards/3901-4000.md#paper-schwerdtner26a)
 
 <a id="by-evaluation"></a>
 
@@ -459,4 +469,5 @@
 - <a id="men26a-theory-statistics"></a>[FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../conferences/icml-2026/cards/3201-3300.md#paper-men26a)
 - <a id="montes26a-theory-statistics"></a>[Reduction of Probabilistic Chemical Reaction Networks](../conferences/icml-2026/cards/3301-3400.md#paper-montes26a)
 - <a id="queiruga26a-theory-statistics"></a>[Interpretability and Generalization Bounds for Learning Spatial Physics](../conferences/icml-2026/cards/3701-3800.md#paper-queiruga26a)
+- <a id="salehkaleybar26a-theory-statistics"></a>[One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../conferences/icml-2026/cards/3901-4000.md#paper-salehkaleybar26a)
 <!-- classification:end -->

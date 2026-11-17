@@ -311,6 +311,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation](../../conferences/icml-2026/cards/3701-3800.md#rafieioskouei26a-reinforcement-learning) · 中文
 - [Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#rashwan26a-reinforcement-learning) · 中文
 - [Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](../../conferences/icml-2026/cards/3901-4000.md#ruhdorfer26a-reinforcement-learning) · 中文
+- [Robust In-Context Reinforcement Learning Under Reward Poisoning Attacks](../../conferences/icml-2026/cards/3901-4000.md#sasnauskas26a-reinforcement-learning) · 中文
+- [ICR-RL: Deep Reinforcement Learning via In-Context-Regression](../../conferences/icml-2026/cards/3901-4000.md#schiff26a-reinforcement-learning) · 中文
+- [Noisy-Space Policy Gradient for Diffusion Policies in Offline Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#selim26a-reinforcement-learning) · 中文
+- [A KL-regularization framework for learning to plan with adaptive priors](../../conferences/icml-2026/cards/4001-4100.md#serra-gomez26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

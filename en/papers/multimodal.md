@@ -332,6 +332,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="qiu26i-inference"></a>[ReasonEdit: Editing Vision–Language Models using Human Reasoning](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26i)
 - <a id="qiu26v-inference"></a>[VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26v)
 - <a id="rout26a-inference"></a>[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../../conferences/icml-2026/cards/3801-3900.md#paper-rout26a)
+- <a id="seo26b-inference"></a>[DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-seo26b)
 
 <a id="by-representation-learning"></a>
 
@@ -378,6 +379,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="qi26l-representation-learning"></a>[FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26l)
 - <a id="qian26a-representation-learning"></a>[BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26a)
 - <a id="roschmann26a-representation-learning"></a>[SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](../../conferences/icml-2026/cards/3801-3900.md#paper-roschmann26a)
+- <a id="schuster26a-representation-learning"></a>[FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](../../conferences/icml-2026/cards/3901-4000.md#paper-schuster26a)
 
 <a id="by-evaluation"></a>
 
@@ -466,6 +468,10 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="rajgarhia26a-evaluation"></a>[MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio](../../conferences/icml-2026/cards/3801-3900.md#paper-rajgarhia26a)
 - <a id="ray26a-evaluation"></a>[$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](../../conferences/icml-2026/cards/3801-3900.md#paper-ray26a)
 - <a id="roberts26a-evaluation"></a>[ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models](../../conferences/icml-2026/cards/3801-3900.md#paper-roberts26a)
+- <a id="savietto26a-evaluation"></a>[The Geometry of Representational Failures in Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-savietto26a)
+- <a id="saxena26b-evaluation"></a>[VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-saxena26b)
+- <a id="schulze-buschoff26a-evaluation"></a>[Can Vision Language Models Learn Intuitive Physics from Interaction?](../../conferences/icml-2026/cards/3901-4000.md#paper-schulze-buschoff26a)
+- <a id="sen26a-evaluation"></a>[BEDTime: A Unified Benchmark for Automatically Describing Time Series](../../conferences/icml-2026/cards/3901-4000.md#paper-sen26a)
 
 <a id="by-theory-statistics"></a>
 

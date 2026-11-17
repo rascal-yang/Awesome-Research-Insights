@@ -117,6 +117,7 @@
 - [用情景记忆的时差误差选择合成强化学习经验](../conferences/icml-2026/cards/3101-3200.md#ma26p-data-strategies) · Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning
 - [按动力学模式赋值的跨域离线强化学习](../conferences/icml-2026/cards/3701-3800.md#qiao26e-data-strategies) · Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets
 - [以同一状态拼接来路和去路](../conferences/icml-2026/cards/3701-3800.md#qing26a-data-strategies) · BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning
+- [用可核验轨迹捷径增加离线转移](../conferences/icml-2026/cards/3901-4000.md#schmahling26a-data-strategies) · Trajectory-Level Data Augmentation for Offline Reinforcement Learning
 
 <a id="by-robotics"></a>
 

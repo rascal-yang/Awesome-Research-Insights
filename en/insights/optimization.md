@@ -92,6 +92,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits](../../conferences/icml-2026/cards/3801-3900.md#ran26b-optimization) · 中文
 - [POLCA: Stochastic Generative Optimization with LLM](../../conferences/icml-2026/cards/3801-3900.md#ren26l-optimization) · 中文
 - [From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs](../../conferences/icml-2026/cards/3801-3900.md#riabinin26a-optimization) · 中文
+- [A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search](../../conferences/icml-2026/cards/4001-4100.md#seong-eun26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -377,6 +378,14 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Riemannian Dueling Optimization](../../conferences/icml-2026/cards/3801-3900.md#ren26m-optimization) · 中文
 - [Preserving Plasticity in Continual Learning via Dynamical Isometry](../../conferences/icml-2026/cards/3801-3900.md#rosseau26a-optimization) · 中文
 - [Per-example Gradients: a New Frontier for Understanding and Improving Optimizers](../../conferences/icml-2026/cards/3801-3900.md#roulet26a-optimization) · 中文
+- [Zeroth-Order Non-Log-Concave Sampling with Variance Reduction and Applications to Inverse Problems](../../conferences/icml-2026/cards/3901-4000.md#sahin26a-optimization) · 中文
+- [Learning-to-Optimize via Deep Unfolded Flows](../../conferences/icml-2026/cards/3901-4000.md#saravanos26a-optimization) · 中文
+- [Evolution Strategies at the Hyperscale](../../conferences/icml-2026/cards/3901-4000.md#sarkar26a-optimization) · 中文
+- [Optimal Anytime Algorithms for Online Convex Optimization with Adversarial Constraints](../../conferences/icml-2026/cards/3901-4000.md#sarkar26c-optimization) · 中文
+- [Transport Clustering: Solving Low-Rank Optimal Transport via Clustering](../../conferences/icml-2026/cards/3901-4000.md#schmidt26a-optimization) · 中文
+- [Active Budget Allocation for Efficient Scaling Law Estimation via Surrogate-Guided Pruning](../../conferences/icml-2026/cards/3901-4000.md#schram26a-optimization) · 中文
+- [Equilibrium Propagation for Non-Conservative Systems](../../conferences/icml-2026/cards/3901-4000.md#scurria26a-optimization) · 中文
+- [Trajectory-Aware Heuristic Learning for Combinatorial Search](../../conferences/icml-2026/cards/3901-4000.md#seddiqi26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -443,4 +452,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [A Dirac-Frenkel-Onsager Principle: Instantaneous Residual Minimization with Gauge Momentum for Nonlinear Parametrizations of PDE Solutions](../../conferences/icml-2026/cards/3801-3900.md#raviola26a-optimization) · 中文
 - [AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](../../conferences/icml-2026/cards/3801-3900.md#real26a-optimization) · 中文
 - [Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments](../../conferences/icml-2026/cards/3901-4000.md#rubbi26a-optimization) · 中文
+- [Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback](../../conferences/icml-2026/cards/3901-4000.md#saveliev26a-optimization) · 中文
 <!-- classification:end -->

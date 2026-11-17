@@ -169,6 +169,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification](../../conferences/icml-2026/cards/3701-3800.md#qi26l-representation-learning) · 中文
 - [BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps](../../conferences/icml-2026/cards/3701-3800.md#qian26a-representation-learning) · 中文
 - [SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](../../conferences/icml-2026/cards/3801-3900.md#roschmann26a-representation-learning) · 中文
+- [FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](../../conferences/icml-2026/cards/3901-4000.md#schuster26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -323,4 +324,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Localized, High-resolution Geographic Representations with Slepian Functions](../../conferences/icml-2026/cards/3801-3900.md#rao26a-representation-learning) · 中文
 - [A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models](../../conferences/icml-2026/cards/3801-3900.md#rao26b-representation-learning) · 中文
 - [Beyond Independent Genes: Learning Module-Inductive Representations for Single-Cell Gene Perturbation Prediction](../../conferences/icml-2026/cards/3801-3900.md#ruan26b-representation-learning) · 中文
+- [Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](../../conferences/icml-2026/cards/3901-4000.md#sandilya26a-representation-learning) · 中文
+- [Transitive Representation Learning Enhances Histopathology Annotation](../../conferences/icml-2026/cards/3901-4000.md#schaefer26a-representation-learning) · 中文
+- [Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](../../conferences/icml-2026/cards/3901-4000.md#schneckenreiter26a-representation-learning) · 中文
+- [Two-Parameter Flows for Learning Population Dynamics of Physical Systems](../../conferences/icml-2026/cards/3901-4000.md#schwerdtner26a-representation-learning) · 中文
 <!-- classification:end -->

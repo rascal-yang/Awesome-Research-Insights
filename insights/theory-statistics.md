@@ -63,6 +63,7 @@
 - [按文本编辑强度选择水印粒度](../conferences/icml-2026/cards/3601-3700.md#pratihar26a-theory-statistics) · Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking
 - [用真阳性与假阳性的间隔校验奖励](../conferences/icml-2026/cards/3701-3800.md#rad26b-theory-statistics) · Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards
 - [用长度曲线检查推理出错方式](../conferences/icml-2026/cards/3801-3900.md#raju26a-theory-statistics) · A model of errors in transformers
+- [Transformer 计划验证的长度外推](../conferences/icml-2026/cards/3901-4000.md#sarrof26a-theory-statistics) · On the Ability of Transformers to Verify Plans
 
 <a id="by-computer-vision"></a>
 
@@ -83,6 +84,7 @@
 - [检索公平性](../conferences/icml-2026/cards/0101-0200.md#ashrafi26a-theory-statistics) · The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents
 - [自适应近似检索](../conferences/icml-2026/cards/0201-0300.md#banihashem26b-theory-statistics) · Adversarially Robust Approximate Furthest Neighbor
 - [双侧上下文的词义收缩曲率](../conferences/icml-2026/cards/1301-1400.md#grover26b-theory-statistics) · Text Has Curvature
+- [按子语法分解语言模型损失](../conferences/icml-2026/cards/3901-4000.md#schulz26a-theory-statistics) · Unraveling Syntax: Language Modeling and the Substructure of Grammars
 
 <a id="by-reinforcement-learning"></a>
 
@@ -157,6 +159,8 @@
 - [分布稳健平均奖励博弈的纳什均衡](../conferences/icml-2026/cards/3801-3900.md#roch26b-theory-statistics) · Distributionally Robust Markov Games with Average Reward
 - [成功轨迹模仿的自适应信赖域](../conferences/icml-2026/cards/3901-4000.md#russo26a-theory-statistics) · Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success
 - [动作触发观测间的开环序列价值](../conferences/icml-2026/cards/3901-4000.md#ryabchenko26a-theory-statistics) · Reinforcement Learning with Action-Triggered Observations
+- [线性 bandit 的 Nash 福利遗憾](../conferences/icml-2026/cards/3901-4000.md#sarkar26b-theory-statistics) · Improved Algorithms for Nash Welfare in Linear Bandits
+- [将轨迹置信和任务覆盖合成证书](../conferences/icml-2026/cards/3901-4000.md#schnitzer26a-theory-statistics) · Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -567,6 +571,16 @@
 - [面向 Shapley 估计的信息增益选联盟](../conferences/icml-2026/cards/3901-4000.md#rundel26a-theory-statistics) · $\textttShaplEIG$: Bayesian Experimental Design for Shapley Value Estimation
 - [双标量感知兼顾当前估计与正交探索](../conferences/icml-2026/cards/3901-4000.md#saad-falcon26a-theory-statistics) · Global Convergence of Adaptive Sensing for Principal Eigenvector Estimation
 - [用单调学习分配的临界出价定价](../conferences/icml-2026/cards/3901-4000.md#sadi26a-theory-statistics) · Welfare-Optimal Classification with Accuracy Auctions
+- [将非平稳 SGD 误差拆成噪声、漂移和过渡项](../conferences/icml-2026/cards/3901-4000.md#sahu26a-theory-statistics) · On the Provable Suboptimality of Momentum SGD in Nonstationary Stochastic Optimization
+- [用低成本粗检触发 AI 外包的精检合同](../conferences/icml-2026/cards/3901-4000.md#saig26a-theory-statistics) · Adaptive Contracts for Cost-Effective AI Delegation
+- [用替代损失间隙跟踪非平稳结构预测](../conferences/icml-2026/cards/3901-4000.md#sakaue26a-theory-statistics) · Non-Stationary Online Structured Prediction with Surrogate Losses
+- [高维流形恢复中的有效维数](../conferences/icml-2026/cards/3901-4000.md#sansford26a-theory-statistics) · How High is ‘High’? Rethinking the Roles of Dimensionality in Topological Data Analysis and Manifold Learning
+- [借助预测模型的自适应 bandit 统计推断](../conferences/icml-2026/cards/3901-4000.md#sargent26a-theory-statistics) · Prediction-Powered Adaptive Inference with Pretrained AI Models for Contextual Bandits
+- [自回归预测隐层恢复 Kalman 状态](../conferences/icml-2026/cards/3901-4000.md#sattar26a-theory-statistics) · Two-Layer Linear Auto-Regressive Models Estimate Latent States
+- [用近端代理下降诊断步长稳定性](../conferences/icml-2026/cards/3901-4000.md#schaipp26a-theory-statistics) · Step-Size Stability in Stochastic Optimization: A Theoretical Perspective
+- [分别核验邻域损失和总体泛化](../conferences/icml-2026/cards/3901-4000.md#schliserman26a-theory-statistics) · Flat Minima and Generalization: Insights from Stochastic Convex Optimization
+- [用异折交叉矩消除工具自乘偏差](../conferences/icml-2026/cards/3901-4000.md#schur26a-theory-statistics) · Many Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is Causal Inference Possible?
+- [借助残差独立性分解因果机制漂移](../conferences/icml-2026/cards/4001-4100.md#seo26d-theory-statistics) · Dissecting Causal Mechanism Shifts via FANS: Function And Noise Separation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -625,4 +639,5 @@
 - [右删失生存分位](../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival
 - [先约简因子图再编译化学反应](../conferences/icml-2026/cards/3301-3400.md#montes26a-theory-statistics) · Reduction of Probabilistic Chemical Reaction Networks
 - [空间物理学习的函数空间外推](../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · Interpretability and Generalization Bounds for Learning Spatial Physics
+- [用每个强连通分量一次的干预恢复线性随机动力学](../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State
 <!-- classification:end -->

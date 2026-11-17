@@ -84,6 +84,8 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="jiang26aa-inference"></a>[Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aa)
 - <a id="jung26e-inference"></a>[Context-Driven Incremental Compression for Multi-Turn Dialogue Generation](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26e)
 - <a id="li26ex-inference"></a>[AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ex)
+- <a id="sakai26b-inference"></a>[Noisy-Channel Minimum Bayes Risk Decoding](../../conferences/icml-2026/cards/3901-4000.md#paper-sakai26b)
+- <a id="salla26a-inference"></a>[CrossQ: Task-Aligned Cross-Token Conditional Quantization for Late Interaction Retrieval](../../conferences/icml-2026/cards/3901-4000.md#paper-salla26a)
 
 <a id="by-representation-learning"></a>
 
@@ -126,6 +128,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="mansouri26b-evaluation"></a>[Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text](../../conferences/icml-2026/cards/3201-3300.md#paper-mansouri26b)
 - <a id="ren26q-evaluation"></a>[Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26q)
 - <a id="rivera-soto26a-evaluation"></a>[Attacks on Machine-Text Detectors Retain Stylistic Fingerprints](../../conferences/icml-2026/cards/3801-3900.md#paper-rivera-soto26a)
+- <a id="saha26b-evaluation"></a>[Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable](../../conferences/icml-2026/cards/3901-4000.md#paper-saha26b)
 
 <a id="by-theory-statistics"></a>
 
@@ -136,4 +139,5 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="ashrafi26a-theory-statistics"></a>[The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](../../conferences/icml-2026/cards/0101-0200.md#paper-ashrafi26a)
 - <a id="banihashem26b-theory-statistics"></a>[Adversarially Robust Approximate Furthest Neighbor](../../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26b)
 - <a id="grover26b-theory-statistics"></a>[Text Has Curvature](../../conferences/icml-2026/cards/1301-1400.md#paper-grover26b)
+- <a id="schulz26a-theory-statistics"></a>[Unraveling Syntax: Language Modeling and the Substructure of Grammars](../../conferences/icml-2026/cards/3901-4000.md#paper-schulz26a)
 <!-- classification:end -->

@@ -36,6 +36,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="qi26j-architecture"></a>[Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26j)
 - <a id="qian26e-architecture"></a>[On the Expressive Power of GNNs to Solve Linear SDPs](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26e)
 - <a id="raghuvanshi26a-architecture"></a>[Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models](../../conferences/icml-2026/cards/3701-3800.md#paper-raghuvanshi26a)
+- <a id="seely26a-architecture"></a>[Learning Multi-Agent Coordination via Sheaf-ADMM](../../conferences/icml-2026/cards/3901-4000.md#paper-seely26a)
 
 <a id="by-modules"></a>
 
@@ -191,6 +192,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="lagesse26a-evaluation"></a>[Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](../../conferences/icml-2026/cards/2201-2300.md#paper-lagesse26a)
 - <a id="liu26gd-evaluation"></a>[Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gd)
 - <a id="mukherjee26a-evaluation"></a>[BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection](../../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26a)
+- <a id="selvam26a-evaluation"></a>[Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking](../../conferences/icml-2026/cards/3901-4000.md#paper-selvam26a)
 
 <a id="by-theory-statistics"></a>
 

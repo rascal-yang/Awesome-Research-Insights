@@ -306,6 +306,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [FloorplanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations](../../conferences/icml-2026/cards/3801-3900.md#rodionov26a-evaluation) · 中文
 - [Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations](../../conferences/icml-2026/cards/3801-3900.md#roytburg26a-evaluation) · 中文
 - [Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment](../../conferences/icml-2026/cards/3901-4000.md#saakyan26a-evaluation) · 中文
+- [Measuring Meta-Cultural Competency: A Spectral Framework for LLM Knowledge Structures](../../conferences/icml-2026/cards/3901-4000.md#saha26a-evaluation) · 中文
+- [Scaling Beyond Masked Diffusion Language Models](../../conferences/icml-2026/cards/3901-4000.md#sahoo26a-evaluation) · 中文
+- [From Associations to Activations: Comparing Behavioral and Hidden-State Semantic Geometry in LLMs](../../conferences/icml-2026/cards/3901-4000.md#schiekiera26a-evaluation) · 中文
+- [A Coin Flip for Safety: LLM Judges Fail to Reliably Measure Adversarial Robustness](../../conferences/icml-2026/cards/3901-4000.md#schwinn26a-evaluation) · 中文
+- [FormulaCode: Evaluating Agentic Optimization on Large Codebases](../../conferences/icml-2026/cards/3901-4000.md#sehgal26a-evaluation) · 中文
+- [SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?](../../conferences/icml-2026/cards/3901-4000.md#sehwag26a-evaluation) · 中文
+- [Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](../../conferences/icml-2026/cards/3901-4000.md#sel26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -359,6 +366,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search](../../conferences/icml-2026/cards/3601-3700.md#plitsis26a-evaluation) · 中文
 - [Low-Rank and Sparsity Are All You Need: Exploring Robust Hierarchical Latent Subspaces for Transferable Adversarial Attack](../../conferences/icml-2026/cards/3601-3700.md#pu26b-evaluation) · 中文
 - [DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization](../../conferences/icml-2026/cards/3701-3800.md#qiu26b-evaluation) · 中文
+- [Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions](../../conferences/icml-2026/cards/3901-4000.md#safonov26a-evaluation) · 中文
+- [GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation](../../conferences/icml-2026/cards/3901-4000.md#salvy26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -386,6 +395,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text](../../conferences/icml-2026/cards/3201-3300.md#mansouri26b-evaluation) · 中文
 - [Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors](../../conferences/icml-2026/cards/3801-3900.md#ren26q-evaluation) · 中文
 - [Attacks on Machine-Text Detectors Retain Stylistic Fingerprints](../../conferences/icml-2026/cards/3801-3900.md#rivera-soto26a-evaluation) · 中文
+- [Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable](../../conferences/icml-2026/cards/3901-4000.md#saha26b-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -508,6 +518,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio](../../conferences/icml-2026/cards/3801-3900.md#rajgarhia26a-evaluation) · 中文
 - [$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](../../conferences/icml-2026/cards/3801-3900.md#ray26a-evaluation) · 中文
 - [ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models](../../conferences/icml-2026/cards/3801-3900.md#roberts26a-evaluation) · 中文
+- [The Geometry of Representational Failures in Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#savietto26a-evaluation) · 中文
+- [VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#saxena26b-evaluation) · 中文
+- [Can Vision Language Models Learn Intuitive Physics from Interaction?](../../conferences/icml-2026/cards/3901-4000.md#schulze-buschoff26a-evaluation) · 中文
+- [BEDTime: A Unified Benchmark for Automatically Describing Time Series](../../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -578,6 +592,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](../../conferences/icml-2026/cards/2201-2300.md#lagesse26a-evaluation) · 中文
 - [Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](../../conferences/icml-2026/cards/2901-3000.md#liu26gd-evaluation) · 中文
 - [BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26a-evaluation) · 中文
+- [Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking](../../conferences/icml-2026/cards/3901-4000.md#selvam26a-evaluation) · 中文
 
 <a id="by-scientific-ml"></a>
 

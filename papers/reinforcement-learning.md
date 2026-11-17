@@ -176,6 +176,10 @@
 - <a id="rafieioskouei26a-reinforcement-learning"></a>[HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation](../conferences/icml-2026/cards/3701-3800.md#paper-rafieioskouei26a)
 - <a id="rashwan26a-reinforcement-learning"></a>[Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](../conferences/icml-2026/cards/3801-3900.md#paper-rashwan26a)
 - <a id="ruhdorfer26a-reinforcement-learning"></a>[Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](../conferences/icml-2026/cards/3901-4000.md#paper-ruhdorfer26a)
+- <a id="sasnauskas26a-reinforcement-learning"></a>[Robust In-Context Reinforcement Learning Under Reward Poisoning Attacks](../conferences/icml-2026/cards/3901-4000.md#paper-sasnauskas26a)
+- <a id="schiff26a-reinforcement-learning"></a>[ICR-RL: Deep Reinforcement Learning via In-Context-Regression](../conferences/icml-2026/cards/3901-4000.md#paper-schiff26a)
+- <a id="selim26a-reinforcement-learning"></a>[Noisy-Space Policy Gradient for Diffusion Policies in Offline Reinforcement Learning](../conferences/icml-2026/cards/3901-4000.md#paper-selim26a)
+- <a id="serra-gomez26a-reinforcement-learning"></a>[A KL-regularization framework for learning to plan with adaptive priors](../conferences/icml-2026/cards/4001-4100.md#paper-serra-gomez26a)
 
 <a id="by-training-strategies"></a>
 
@@ -186,6 +190,7 @@
 - <a id="mitsides26a-training-strategies"></a>[Dreaming in Code for Curriculum Learning in Open-Ended Worlds](../conferences/icml-2026/cards/3301-3400.md#paper-mitsides26a)
 - <a id="park26i-training-strategies"></a>[Adaptive Policy Backbone via Shared Network](../conferences/icml-2026/cards/3501-3600.md#paper-park26i)
 - <a id="park26w-training-strategies"></a>[Scalable Reinforcement Learning via Adaptive Batch Scaling](../conferences/icml-2026/cards/3501-3600.md#paper-park26w)
+- <a id="schafer26a-training-strategies"></a>[When Does Predictive Inverse Dynamics Outperform Behavior Cloning?](../conferences/icml-2026/cards/3901-4000.md#paper-schafer26a)
 
 <a id="by-data-strategies"></a>
 
@@ -198,6 +203,7 @@
 - <a id="ma26p-data-strategies"></a>[Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26p)
 - <a id="qiao26e-data-strategies"></a>[Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26e)
 - <a id="qing26a-data-strategies"></a>[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qing26a)
+- <a id="schmahling26a-data-strategies"></a>[Trajectory-Level Data Augmentation for Offline Reinforcement Learning](../conferences/icml-2026/cards/3901-4000.md#paper-schmahling26a)
 
 <a id="by-inference"></a>
 
@@ -320,4 +326,6 @@
 - <a id="roch26b-theory-statistics"></a>[Distributionally Robust Markov Games with Average Reward](../conferences/icml-2026/cards/3801-3900.md#paper-roch26b)
 - <a id="russo26a-theory-statistics"></a>[Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success](../conferences/icml-2026/cards/3901-4000.md#paper-russo26a)
 - <a id="ryabchenko26a-theory-statistics"></a>[Reinforcement Learning with Action-Triggered Observations](../conferences/icml-2026/cards/3901-4000.md#paper-ryabchenko26a)
+- <a id="sarkar26b-theory-statistics"></a>[Improved Algorithms for Nash Welfare in Linear Bandits](../conferences/icml-2026/cards/3901-4000.md#paper-sarkar26b)
+- <a id="schnitzer26a-theory-statistics"></a>[Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning](../conferences/icml-2026/cards/3901-4000.md#paper-schnitzer26a)
 <!-- classification:end -->

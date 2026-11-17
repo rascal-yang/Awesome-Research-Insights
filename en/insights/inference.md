@@ -279,6 +279,13 @@ Decoding, test-time adaptation, and efficient execution.
 - [A Minimal Agent for Automated Theorem Proving](../../conferences/icml-2026/cards/3801-3900.md#requena26a-inference) · 中文
 - [Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](../../conferences/icml-2026/cards/3801-3900.md#ruan26a-inference) · 中文
 - [AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration](../../conferences/icml-2026/cards/3901-4000.md#ruan26e-inference) · 中文
+- [Test-Time Detoxification without Training or Learning Anything](../../conferences/icml-2026/cards/3901-4000.md#saglam26a-inference) · 中文
+- [Structure Enables Effective Self-Localization of Errors in LLMs](../../conferences/icml-2026/cards/3901-4000.md#samanta26a-inference) · 中文
+- [Pushing the Limits of Block Rotations in Post-Training Quantization](../../conferences/icml-2026/cards/3901-4000.md#sanjeet26a-inference) · 中文
+- [Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains](../../conferences/icml-2026/cards/3901-4000.md#saxena26a-inference) · 中文
+- [EAGer: Entropy-Aware GEneRation for Adaptive Inference-Time Scaling](../../conferences/icml-2026/cards/3901-4000.md#scalena26a-inference) · 中文
+- [Provably Protecting Fine-Tuned LLMs from Training Data Extraction while Preserving Utility](../../conferences/icml-2026/cards/3901-4000.md#segal26a-inference) · 中文
+- [Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning](../../conferences/icml-2026/cards/3901-4000.md#seo26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -373,6 +380,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Meta Flow Maps enable scalable reward alignment](../../conferences/icml-2026/cards/3601-3700.md#potaptchik26b-inference) · 中文
 - [Personalized Image Generation via Human-in-the-loop Bayesian Optimization](../../conferences/icml-2026/cards/3801-3900.md#rajagopalan26a-inference) · 中文
 - [AdaSCALE: Adaptive Scaling for OOD Detection](../../conferences/icml-2026/cards/3801-3900.md#regmi26a-inference) · 中文
+- [FAST-AR: Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](../../conferences/icml-2026/cards/3901-4000.md#samuel26a-inference) · 中文
+- [MMD Guidance: Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance](../../conferences/icml-2026/cards/3901-4000.md#sani26a-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -390,6 +399,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](../../conferences/icml-2026/cards/1901-2000.md#jiang26aa-inference) · 中文
 - [Context-Driven Incremental Compression for Multi-Turn Dialogue Generation](../../conferences/icml-2026/cards/2001-2100.md#jung26e-inference) · 中文
 - [AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing](../../conferences/icml-2026/cards/2501-2600.md#li26ex-inference) · 中文
+- [Noisy-Channel Minimum Bayes Risk Decoding](../../conferences/icml-2026/cards/3901-4000.md#sakai26b-inference) · 中文
+- [CrossQ: Task-Aligned Cross-Token Conditional Quantization for Late Interaction Retrieval](../../conferences/icml-2026/cards/3901-4000.md#salla26a-inference) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -529,6 +540,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [ReasonEdit: Editing Vision–Language Models using Human Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qiu26i-inference) · 中文
 - [VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · 中文
 - [Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · 中文
+- [DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -575,6 +587,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test](../../conferences/icml-2026/cards/3801-3900.md#robnik26a-inference) · 中文
 - [Categorical Flow Maps](../../conferences/icml-2026/cards/3801-3900.md#roos26a-inference) · 中文
 - [Flow Matching Calibration for Simulation-Based Inference under Model Misspecification](../../conferences/icml-2026/cards/3901-4000.md#ruhlmann26a-inference) · 中文
+- [WildCat: Near-Linear Attention in Theory and Practice](../../conferences/icml-2026/cards/3901-4000.md#schroder26a-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -635,4 +648,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Autoregressive Boltzmann Generators](../../conferences/icml-2026/cards/3801-3900.md#rehman26a-inference) · 中文
 - [PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline](../../conferences/icml-2026/cards/3901-4000.md#russo26b-inference) · 中文
 - [Training-Free Adversarial Robustness in Computational MRI](../../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · 中文
+- [Training-Free Bayesian Filtering with Generative Emulators](../../conferences/icml-2026/cards/3901-4000.md#savary26a-inference) · 中文
 <!-- classification:end -->

@@ -279,6 +279,13 @@
 - [通过 Lean 反馈反复缩小形式证明的错误面](../conferences/icml-2026/cards/3801-3900.md#requena26a-inference) · A Minimal Agent for Automated Theorem Proving
 - [扰动并重建响应来选扩散推理](../conferences/icml-2026/cards/3801-3900.md#ruan26a-inference) · Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models
 - [按子任务生成执行器并筛选上下文](../conferences/icml-2026/cards/3901-4000.md#ruan26e-inference) · AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration
+- [用零阶嵌入更新降低生成毒性](../conferences/icml-2026/cards/3901-4000.md#saglam26a-inference) · Test-Time Detoxification without Training or Learning Anything
+- [在离散推理步骤中定位首错并回溯重采样](../conferences/icml-2026/cards/3901-4000.md#samanta26a-inference) · Structure Enables Effective Self-Localization of Errors in LLMs
+- [在小块 Hadamard 旋转前置换激活以分散离群质量](../conferences/icml-2026/cards/3901-4000.md#sanjeet26a-inference) · Pushing the Limits of Block Rotations in Post-Training Quantization
+- [按查询理由决定证据截断与核验](../conferences/icml-2026/cards/3901-4000.md#saxena26a-inference) · Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains
+- [达到词元熵阈值时才复制推理路径](../conferences/icml-2026/cards/3901-4000.md#scalena26a-inference) · EAGer: Entropy-Aware GEneRation for Adaptive Inference-Time Scaling
+- [平滑微调带来的低影响概率差](../conferences/icml-2026/cards/3901-4000.md#segal26a-inference) · Provably Protecting Fine-Tuned LLMs from Training Data Extraction while Preserving Utility
+- [本体约束的多角色文化判断](../conferences/icml-2026/cards/3901-4000.md#seo26a-inference) · Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -373,6 +380,8 @@
 - [从噪声中一步采样多个可微后验以估计奖励梯度](../conferences/icml-2026/cards/3601-3700.md#potaptchik26b-inference) · Meta Flow Maps enable scalable reward alignment
 - [以多图选择引导注意力变形](../conferences/icml-2026/cards/3801-3900.md#rajagopalan26a-inference) · Personalized Image Generation via Human-in-the-loop Bayesian Optimization
 - [用高值激活偏移调缩放阈值](../conferences/icml-2026/cards/3801-3900.md#regmi26a-inference) · AdaSCALE: Adaptive Scaling for OOD Detection
+- [压缩跨帧 KV 并稀疏选取自注意和提示相关键](../conferences/icml-2026/cards/3901-4000.md#samuel26a-inference) · FAST-AR: Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention
+- [沿最大均值差异梯度在推断时对齐目标图像分布](../conferences/icml-2026/cards/3901-4000.md#sani26a-inference) · MMD Guidance: Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance
 
 <a id="by-nlp"></a>
 
@@ -390,6 +399,8 @@
 - [把集合奖励编入扩散检索监督](../conferences/icml-2026/cards/1901-2000.md#jiang26aa-inference) · Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion
 - [对话记忆按话题检索、修订和写回](../conferences/icml-2026/cards/2001-2100.md#jung26e-inference) · Context-Driven Incremental Compression for Multi-Turn Dialogue Generation
 - [把释义后的句级水印检测化为比特同步](../conferences/icml-2026/cards/2501-2600.md#li26ex-inference) · AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing
+- [按四个有方向的信道拆解最小贝叶斯风险解码](../conferences/icml-2026/cards/3901-4000.md#sakai26b-inference) · Noisy-Channel Minimum Bayes Risk Decoding
+- [按文档上下文条件量化并保住检索排序边际](../conferences/icml-2026/cards/3901-4000.md#salla26a-inference) · CrossQ: Task-Aligned Cross-Token Conditional Quantization for Late Interaction Retrieval
 
 <a id="by-reinforcement-learning"></a>
 
@@ -529,6 +540,7 @@
 - [用拓扑平衡检索把人工推理写入视觉语言编辑](../conferences/icml-2026/cards/3701-3800.md#qiu26i-inference) · ReasonEdit: Editing Vision–Language Models using Human Reasoning
 - [让长视频规划与最终答题证据权限分离](../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority
 - [在离散去噪中先解码可靠锚点](../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · Test-Time Anchoring for Discrete Diffusion Posterior Sampling
+- [按逐层熵变选择视觉对比分支](../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -575,6 +587,7 @@
 - [用能量误差校准无接受检验的采样](../conferences/icml-2026/cards/3801-3900.md#robnik26a-inference) · Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test
 - [在离散生成中蒸馏连续单纯形大步](../conferences/icml-2026/cards/3801-3900.md#roos26a-inference) · Categorical Flow Maps
 - [仿真错设下的两层后验校准](../conferences/icml-2026/cards/3901-4000.md#ruhlmann26a-inference) · Flow Matching Calibration for Simulation-Based Inference under Model Misspecification
+- [用谱采样的加权键集压缩注意力](../conferences/icml-2026/cards/3901-4000.md#schroder26a-inference) · WildCat: Near-Linear Attention in Theory and Practice
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -635,4 +648,5 @@
 - [在部分分子构象上提前校正采样](../conferences/icml-2026/cards/3801-3900.md#rehman26a-inference) · Autoregressive Boltzmann Generators
 - [以已知接触位点排序新蛋白互作](../conferences/icml-2026/cards/3901-4000.md#russo26b-inference) · PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline
 - [用重采样一致性校正受扰观测](../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · Training-Free Adversarial Robustness in Computational MRI
+- [生成式动力学模拟器的免训练贝叶斯滤波](../conferences/icml-2026/cards/3901-4000.md#savary26a-inference) · Training-Free Bayesian Filtering with Generative Emulators
 <!-- classification:end -->

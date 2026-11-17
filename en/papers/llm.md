@@ -58,6 +58,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="nother26a-architecture"></a>[MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](../../conferences/icml-2026/cards/3401-3500.md#paper-nother26a)
 - <a id="parker26a-architecture"></a>[TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../../conferences/icml-2026/cards/3601-3700.md#paper-parker26a)
 - <a id="piao26b-architecture"></a>[MarketSim: Simulating Stock Markets with Large-Scale Generative Agents](../../conferences/icml-2026/cards/3601-3700.md#paper-piao26b)
+- <a id="sahoo26b-architecture"></a>[Esoteric Language Models: A Family of Any-Order Diffusion LLMs](../../conferences/icml-2026/cards/3901-4000.md#paper-sahoo26b)
 
 <a id="by-modules"></a>
 
@@ -135,6 +136,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="pan26o-loss-functions"></a>[Optimal Transport for LLM Reward Modeling from Noisy Feedback](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26o)
 - <a id="peng26a-loss-functions"></a>[Forget to Know, Remember to Use: Context-Aware Unlearning for Large Language Models](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26a)
 - <a id="piskorz26a-loss-functions"></a>[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](../../conferences/icml-2026/cards/3601-3700.md#paper-piskorz26a)
+- <a id="samarin26a-loss-functions"></a>[LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding](../../conferences/icml-2026/cards/3901-4000.md#paper-samarin26a)
+- <a id="scheufele26a-loss-functions"></a>[Temperature Scaling in Discrete Sequence (Language) Models](../../conferences/icml-2026/cards/3901-4000.md#paper-scheufele26a)
 
 <a id="by-optimization"></a>
 
@@ -219,6 +222,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ran26b-optimization"></a>[KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits](../../conferences/icml-2026/cards/3801-3900.md#paper-ran26b)
 - <a id="ren26l-optimization"></a>[POLCA: Stochastic Generative Optimization with LLM](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26l)
 - <a id="riabinin26a-optimization"></a>[From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs](../../conferences/icml-2026/cards/3801-3900.md#paper-riabinin26a)
+- <a id="seong-eun26a-optimization"></a>[A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search](../../conferences/icml-2026/cards/4001-4100.md#paper-seong-eun26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -816,6 +820,13 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="requena26a-inference"></a>[A Minimal Agent for Automated Theorem Proving](../../conferences/icml-2026/cards/3801-3900.md#paper-requena26a)
 - <a id="ruan26a-inference"></a>[Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](../../conferences/icml-2026/cards/3801-3900.md#paper-ruan26a)
 - <a id="ruan26e-inference"></a>[AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration](../../conferences/icml-2026/cards/3901-4000.md#paper-ruan26e)
+- <a id="saglam26a-inference"></a>[Test-Time Detoxification without Training or Learning Anything](../../conferences/icml-2026/cards/3901-4000.md#paper-saglam26a)
+- <a id="samanta26a-inference"></a>[Structure Enables Effective Self-Localization of Errors in LLMs](../../conferences/icml-2026/cards/3901-4000.md#paper-samanta26a)
+- <a id="sanjeet26a-inference"></a>[Pushing the Limits of Block Rotations in Post-Training Quantization](../../conferences/icml-2026/cards/3901-4000.md#paper-sanjeet26a)
+- <a id="saxena26a-inference"></a>[Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains](../../conferences/icml-2026/cards/3901-4000.md#paper-saxena26a)
+- <a id="scalena26a-inference"></a>[EAGer: Entropy-Aware GEneRation for Adaptive Inference-Time Scaling](../../conferences/icml-2026/cards/3901-4000.md#paper-scalena26a)
+- <a id="segal26a-inference"></a>[Provably Protecting Fine-Tuned LLMs from Training Data Extraction while Preserving Utility](../../conferences/icml-2026/cards/3901-4000.md#paper-segal26a)
+- <a id="seo26a-inference"></a>[Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning](../../conferences/icml-2026/cards/3901-4000.md#paper-seo26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1132,6 +1143,13 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="rodionov26a-evaluation"></a>[FloorplanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations](../../conferences/icml-2026/cards/3801-3900.md#paper-rodionov26a)
 - <a id="roytburg26a-evaluation"></a>[Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations](../../conferences/icml-2026/cards/3801-3900.md#paper-roytburg26a)
 - <a id="saakyan26a-evaluation"></a>[Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment](../../conferences/icml-2026/cards/3901-4000.md#paper-saakyan26a)
+- <a id="saha26a-evaluation"></a>[Measuring Meta-Cultural Competency: A Spectral Framework for LLM Knowledge Structures](../../conferences/icml-2026/cards/3901-4000.md#paper-saha26a)
+- <a id="sahoo26a-evaluation"></a>[Scaling Beyond Masked Diffusion Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-sahoo26a)
+- <a id="schiekiera26a-evaluation"></a>[From Associations to Activations: Comparing Behavioral and Hidden-State Semantic Geometry in LLMs](../../conferences/icml-2026/cards/3901-4000.md#paper-schiekiera26a)
+- <a id="schwinn26a-evaluation"></a>[A Coin Flip for Safety: LLM Judges Fail to Reliably Measure Adversarial Robustness](../../conferences/icml-2026/cards/3901-4000.md#paper-schwinn26a)
+- <a id="sehgal26a-evaluation"></a>[FormulaCode: Evaluating Agentic Optimization on Large Codebases](../../conferences/icml-2026/cards/3901-4000.md#paper-sehgal26a)
+- <a id="sehwag26a-evaluation"></a>[SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?](../../conferences/icml-2026/cards/3901-4000.md#paper-sehwag26a)
+- <a id="sel26a-evaluation"></a>[Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](../../conferences/icml-2026/cards/3901-4000.md#paper-sel26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1187,4 +1205,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="pratihar26a-theory-statistics"></a>[Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking](../../conferences/icml-2026/cards/3601-3700.md#paper-pratihar26a)
 - <a id="rad26b-theory-statistics"></a>[Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards](../../conferences/icml-2026/cards/3701-3800.md#paper-rad26b)
 - <a id="raju26a-theory-statistics"></a>[A model of errors in transformers](../../conferences/icml-2026/cards/3801-3900.md#paper-raju26a)
+- <a id="sarrof26a-theory-statistics"></a>[On the Ability of Transformers to Verify Plans](../../conferences/icml-2026/cards/3901-4000.md#paper-sarrof26a)
 <!-- classification:end -->
