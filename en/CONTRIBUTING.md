@@ -8,24 +8,27 @@ Use a pull request to add a paper or correct an entry. Use the [six-field card t
 
 Use the same criteria across fields and venues. Include only reusable technical insights supported by the paper. Paper quality, venue prestige, benchmark scores, and state-of-the-art status do not determine inclusion.
 
-- **New mechanism.** A reusable module, algorithm, loss, reward function, or optimization strategy.
-- **New approach.** A design that can transfer to other tasks or fields.
-- **New finding.** An experimentally or theoretically supported training or optimization pattern, including counterintuitive results.
-- **Failure lesson.** A broadly informative failure cause, limitation, or negative result.
+Four kinds of insight qualify, including **new mechanisms, new approaches, new findings, and failure lessons**. A simple auxiliary loss, reward design, or training technique can qualify when its reuse value is clear.
 
-Ask three questions in order. Include the paper only if all three answers are yes. Simple auxiliary losses, reward designs, and training techniques can qualify.
+Apply three checks before considering a paper for inclusion.
 
-1. Does the paper contain a technical mechanism, approach, finding, or failure lesson worth extracting?
-2. Can someone understand and use the insight independently of the paper?
-3. Can you name a specific way to transfer it, adapt it, or use it to inform a design decision?
+| Question | Required evidence |
+| --- | --- |
+| **What can someone take away?** | An independently usable procedure, a supported finding, or a failure worth avoiding. |
+| **What does it add?** | A design, approach, or boundary of applicability beyond the closest method that informs a technical choice. |
+| **Does it need its own card?** | A distinct lesson. Keep the representative that explains a shared mechanism and its conditions most clearly. |
 
-When the main contribution is applying existing methods to a new task or dataset, scaling models, data, or compute, integrating existing components, improving performance, or designing for a narrow setting, check the paper for a separate insight that passes all three questions. Leave uncertain cases pending until the evidence can be checked.
+Prioritize removing the following five kinds of entries. Check any separate contribution against the three questions before excluding a paper.
 
-Name the specific contribution and how someone could reuse it. Routine reporting across several metrics, combinations of existing components, scores from a single setup, and hypothetical transfer alone do not qualify. For new mechanisms and approaches, verify that the paper specifies a design that can be used independently. For findings and failure lessons, cite the supporting evidence, the conditions it applies to, and the decision it can inform.
+- **Applications alone.** Existing methods moved to another task or dataset.
+- **Integration alone.** Existing modules or tools combined without an independently reusable mechanism.
+- **Scale alone.** More parameters, data, or compute supply the main contribution.
+- **Scores alone.** Gains or isolated failures without a supported method or finding that informs a choice.
+- **Redundant variants.** Existing cards already cover the transferable design.
 
-Keep one representative card per reusable mechanism. Compare the key operations, assumptions, and evidence in the papers. Choose the source that explains the mechanism and its applicable conditions most clearly. A paper using the same mechanism on another task, dataset, or backbone qualifies for its own card if it introduces an independently reusable change or verifies a different boundary of applicability. Record the representative paper ID in the screening reason when excluding a duplicate.
+Describe the operations and assumptions of a method. State the evidence and conditions for a finding or failure lesson. Exclude work whose value is confined to its setting with no specific way to transfer or adapt it. A curator's hypothetical transfer alone is insufficient. Leave uncertain evidence pending.
 
-This cleanup also prioritizes the existing ICML 2026 cards. Starting from 4,105 papers, remove at least half and retain at most 2,052 cards. Compare papers that pass the technical criteria by their design contribution relative to the closest method, how independently the mechanism can be used, and whether it changes a concrete technical decision. Prioritize clear operations, applicable conditions, and contributions with few substitutes. Record capacity-based exclusions explicitly in the manifest.
+Starting from 4,105 existing ICML 2026 cards, this cleanup will remove at least half and retain at most 2,052. Among qualifying papers, prioritize clear operations, explicit conditions, and contributions with few substitutes. Record each exclusion reason in the manifest. Name the representative for redundant mechanisms and identify capacity-based exclusions explicitly.
 
 ## Add or revise a card
 
