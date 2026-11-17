@@ -522,7 +522,6 @@
 - [用跨头共识校准视觉注意并补回解码中衰减的历史注意](../conferences/icml-2026/cards/2501-2600.md#li26di-inference) · Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory
 - [先演化定位提示，再以变换后框的一致性计置信](../conferences/icml-2026/cards/2501-2600.md#li26dj-inference) · Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases
 - [以贝叶斯后验更新高清裁剪](../conferences/icml-2026/cards/2501-2600.md#li26eo-inference) · BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception
-- [用剧情侧证修正短台词归属](../conferences/icml-2026/cards/2601-2700.md#li26ht-inference) · Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas
 - [在融合前后分层压缩音视频令牌](../conferences/icml-2026/cards/2601-2700.md#li26hv-inference) · PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models
 - [分开筛查采图与文字推理的轨迹](../conferences/icml-2026/cards/2601-2700.md#li26ii-inference) · Reliable Thinking with Images
 - [将安全子空间从音频模型的拒绝方向剔除](../conferences/icml-2026/cards/2701-2800.md#lin26u-inference) · SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering

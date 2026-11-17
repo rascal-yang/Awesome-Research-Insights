@@ -522,7 +522,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](../../conferences/icml-2026/cards/2501-2600.md#li26di-inference) · 中文
 - [Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases](../../conferences/icml-2026/cards/2501-2600.md#li26dj-inference) · 中文
 - [BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception](../../conferences/icml-2026/cards/2501-2600.md#li26eo-inference) · 中文
-- [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](../../conferences/icml-2026/cards/2601-2700.md#li26ht-inference) · 中文
 - [PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models](../../conferences/icml-2026/cards/2601-2700.md#li26hv-inference) · 中文
 - [Reliable Thinking with Images](../../conferences/icml-2026/cards/2601-2700.md#li26ii-inference) · 中文
 - [SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](../../conferences/icml-2026/cards/2701-2800.md#lin26u-inference) · 中文

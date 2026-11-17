@@ -122,7 +122,6 @@
 - <a id="lavrinovics26a-evaluation"></a>[MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations](../conferences/icml-2026/cards/2201-2300.md#paper-lavrinovics26a)
 - <a id="li26g-evaluation"></a>[“Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](../conferences/icml-2026/cards/2301-2400.md#paper-li26g)
 - <a id="li26u-evaluation"></a>[Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection](../conferences/icml-2026/cards/2401-2500.md#paper-li26u)
-- <a id="li26ib-evaluation"></a>[MGAL: A Multilingual Granularity-Aware Long-Context Benchmark](../conferences/icml-2026/cards/2601-2700.md#paper-li26ib)
 - <a id="mansouri26b-evaluation"></a>[Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text](../conferences/icml-2026/cards/3201-3300.md#paper-mansouri26b)
 - <a id="ren26q-evaluation"></a>[Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors](../conferences/icml-2026/cards/3801-3900.md#paper-ren26q)
 - <a id="rivera-soto26a-evaluation"></a>[Attacks on Machine-Text Detectors Retain Stylistic Fingerprints](../conferences/icml-2026/cards/3801-3900.md#paper-rivera-soto26a)
