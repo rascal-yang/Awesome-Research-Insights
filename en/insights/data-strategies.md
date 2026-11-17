@@ -192,6 +192,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Ambient Dataloops: Generative Models for Dataset Refinement](../../conferences/icml-2026/cards/3801-3900.md#rodriguez-munoz26a-data-strategies) · 中文
 - [One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](../../conferences/icml-2026/cards/4001-4100.md#shao26b-data-strategies) · 中文
 - [Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints](../../conferences/icml-2026/cards/4101-4200.md#singer26a-data-strategies) · 中文
+- [Federated Data and Feature Selection by Generalized CUR Decomposition](../../conferences/icml-2026/cards/4301-4400.md#tang26r-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -205,6 +206,7 @@ Data selection, annotation, augmentation, and sampling.
 - [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](../../conferences/icml-2026/cards/2201-2300.md#kothapalli26a-data-strategies) · 中文
 - [Anchor-guided Hypergraph Condensation with Dual-level Discrimination](../../conferences/icml-2026/cards/2501-2600.md#li26gi-data-strategies) · 中文
 - [GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model](../../conferences/icml-2026/cards/2601-2700.md#li26hb-data-strategies) · 中文
+- [Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder](../../conferences/icml-2026/cards/4301-4400.md#tang26l-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

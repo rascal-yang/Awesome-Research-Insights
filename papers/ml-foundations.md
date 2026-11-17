@@ -166,6 +166,7 @@
 - <a id="shihab26b-loss-functions"></a>[CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures](../conferences/icml-2026/cards/4101-4200.md#paper-shihab26b)
 - <a id="shrestha26a-loss-functions"></a>[Domain Transfer Becomes Identifiable via a Single Alignment](../conferences/icml-2026/cards/4101-4200.md#paper-shrestha26a)
 - <a id="smith26a-loss-functions"></a>[Calibrating Generative Models to Distributional Constraints](../conferences/icml-2026/cards/4101-4200.md#paper-smith26a)
+- <a id="tang26x-loss-functions"></a>[Learning to Rank by Directly Optimizing Full-Order Probabilities](../conferences/icml-2026/cards/4301-4400.md#paper-tang26x)
 
 <a id="by-optimization"></a>
 
@@ -478,6 +479,7 @@
 - <a id="simon26a-training-strategies"></a>[On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](../conferences/icml-2026/cards/4101-4200.md#paper-simon26a)
 - <a id="sommariva26a-training-strategies"></a>[Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic](../conferences/icml-2026/cards/4101-4200.md#paper-sommariva26a)
 - <a id="song26m-training-strategies"></a>[MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](../conferences/icml-2026/cards/4201-4300.md#paper-song26m)
+- <a id="tang26g-training-strategies"></a>[Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training](../conferences/icml-2026/cards/4301-4400.md#paper-tang26g)
 
 <a id="by-data-strategies"></a>
 
@@ -509,6 +511,7 @@
 - <a id="rodriguez-munoz26a-data-strategies"></a>[Ambient Dataloops: Generative Models for Dataset Refinement](../conferences/icml-2026/cards/3801-3900.md#paper-rodriguez-munoz26a)
 - <a id="shao26b-data-strategies"></a>[One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](../conferences/icml-2026/cards/4001-4100.md#paper-shao26b)
 - <a id="singer26a-data-strategies"></a>[Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints](../conferences/icml-2026/cards/4101-4200.md#paper-singer26a)
+- <a id="tang26r-data-strategies"></a>[Federated Data and Feature Selection by Generalized CUR Decomposition](../conferences/icml-2026/cards/4301-4400.md#paper-tang26r)
 
 <a id="by-inference"></a>
 

@@ -303,6 +303,10 @@
 - [低秩Value漂移缓存](../conferences/icml-2026/cards/4301-4400.md#sun26ao-inference) · Singular Proxies for Adaptive Caching in Diffusion Language Models
 - [phase-dependent-elastic-capacity](../conferences/icml-2026/cards/4301-4400.md#taghibakhshi26a-inference) · Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control
 - [最终候选集内的深度探索](../conferences/icml-2026/cards/4301-4400.md#tan26d-inference) · Restoring Exploration after Post-Training: Latent Exploration Decoding for Large Reasoning Models
+- [未来效用校准的头预算](../conferences/icml-2026/cards/4301-4400.md#tang26i-inference) · Predicting Future Utility: Global Combinatorial Optimization for Task-Agnostic KV Cache Eviction
+- [回答条件化路由与聚合开关](../conferences/icml-2026/cards/4301-4400.md#tang26k-inference) · Beyond Gemini-3-Pro: Revisiting LLM Routing and Aggregation at Scale
+- [任务条件的注意力头稀疏路由](../conferences/icml-2026/cards/4301-4400.md#tang26t-inference) · Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers
+- [双请求批交替推测解码](../conferences/icml-2026/cards/4301-4400.md#tang26w-inference) · MineDraft: A Framework for Batch Parallel Speculative Decoding
 
 <a id="by-computer-vision"></a>
 
@@ -407,6 +411,7 @@
 - [按异质类型分配深度剪枝预算](../conferences/icml-2026/cards/4201-4300.md#su26r-inference) · Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective
 - [固定步数反演的误差代理调度](../conferences/icml-2026/cards/4201-4300.md#sun26j-inference) · Timestep Rescheduling in Diffusion Inversion
 - [稀疏高强度CFG与分区校准](../conferences/icml-2026/cards/4301-4400.md#sun26aw-inference) · RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers
+- [PU过滤后校准零样本原型](../conferences/icml-2026/cards/4301-4400.md#tang26q-inference) · When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation
 
 <a id="by-nlp"></a>
 

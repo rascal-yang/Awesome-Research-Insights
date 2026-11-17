@@ -148,6 +148,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Scalable Medical Multimodal Fusion via Symmetric Consistency Modeling](../../conferences/icml-2026/cards/4201-4300.md#sun26u-loss-functions) · 中文
 - [Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels](../../conferences/icml-2026/cards/4301-4400.md#sun26ah-loss-functions) · 中文
 - [Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label](../../conferences/icml-2026/cards/4301-4400.md#sun26aj-loss-functions) · 中文
+- [Escaping the Likelihood Trap: Geometric Diversity Optimization for Long-Form Image Captioning](../../conferences/icml-2026/cards/4301-4400.md#tang26f-loss-functions) · 中文
+- [Artemis: Structured Visual Reasoning for Perception Policy Learning](../../conferences/icml-2026/cards/4301-4400.md#tang26u-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -190,6 +192,7 @@ Objectives, auxiliary supervision, and regularization.
 - [CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures](../../conferences/icml-2026/cards/4101-4200.md#shihab26b-loss-functions) · 中文
 - [Domain Transfer Becomes Identifiable via a Single Alignment](../../conferences/icml-2026/cards/4101-4200.md#shrestha26a-loss-functions) · 中文
 - [Calibrating Generative Models to Distributional Constraints](../../conferences/icml-2026/cards/4101-4200.md#smith26a-loss-functions) · 中文
+- [Learning to Rank by Directly Optimizing Full-Order Probabilities](../../conferences/icml-2026/cards/4301-4400.md#tang26x-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

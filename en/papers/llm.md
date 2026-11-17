@@ -389,6 +389,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="sun26x-reinforcement-learning"></a>[Scaling Long-Horizon Agent via Context Folding](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26x)
 - <a id="takakura26a-reinforcement-learning"></a>[Inference-Aware Meta-Alignment of LLMs via Non-Linear GRPO](../../conferences/icml-2026/cards/4301-4400.md#paper-takakura26a)
 - <a id="tang26c-reinforcement-learning"></a>[CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26c)
+- <a id="tang26h-reinforcement-learning"></a>[Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26h)
+- <a id="tang26n-reinforcement-learning"></a>[The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26n)
 
 <a id="by-training-strategies"></a>
 
@@ -877,6 +879,10 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="sun26ao-inference"></a>[Singular Proxies for Adaptive Caching in Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ao)
 - <a id="taghibakhshi26a-inference"></a>[Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control](../../conferences/icml-2026/cards/4301-4400.md#paper-taghibakhshi26a)
 - <a id="tan26d-inference"></a>[Restoring Exploration after Post-Training: Latent Exploration Decoding for Large Reasoning Models](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26d)
+- <a id="tang26i-inference"></a>[Predicting Future Utility: Global Combinatorial Optimization for Task-Agnostic KV Cache Eviction](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26i)
+- <a id="tang26k-inference"></a>[Beyond Gemini-3-Pro: Revisiting LLM Routing and Aggregation at Scale](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26k)
+- <a id="tang26t-inference"></a>[Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26t)
+- <a id="tang26w-inference"></a>[MineDraft: A Framework for Batch Parallel Speculative Decoding](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26w)
 
 <a id="by-representation-learning"></a>
 

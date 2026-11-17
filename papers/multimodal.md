@@ -103,6 +103,8 @@
 - <a id="sun26u-loss-functions"></a>[Scalable Medical Multimodal Fusion via Symmetric Consistency Modeling](../conferences/icml-2026/cards/4201-4300.md#paper-sun26u)
 - <a id="sun26ah-loss-functions"></a>[Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ah)
 - <a id="sun26aj-loss-functions"></a>[Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label](../conferences/icml-2026/cards/4301-4400.md#paper-sun26aj)
+- <a id="tang26f-loss-functions"></a>[Escaping the Likelihood Trap: Geometric Diversity Optimization for Long-Form Image Captioning](../conferences/icml-2026/cards/4301-4400.md#paper-tang26f)
+- <a id="tang26u-loss-functions"></a>[Artemis: Structured Visual Reasoning for Perception Policy Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tang26u)
 
 <a id="by-optimization"></a>
 

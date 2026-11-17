@@ -127,6 +127,7 @@
 - <a id="kothapalli26a-data-strategies"></a>[PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](../conferences/icml-2026/cards/2201-2300.md#paper-kothapalli26a)
 - <a id="li26gi-data-strategies"></a>[Anchor-guided Hypergraph Condensation with Dual-level Discrimination](../conferences/icml-2026/cards/2501-2600.md#paper-li26gi)
 - <a id="li26hb-data-strategies"></a>[GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model](../conferences/icml-2026/cards/2601-2700.md#paper-li26hb)
+- <a id="tang26l-data-strategies"></a>[Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder](../conferences/icml-2026/cards/4301-4400.md#paper-tang26l)
 
 <a id="by-inference"></a>
 

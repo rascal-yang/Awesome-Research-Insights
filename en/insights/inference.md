@@ -303,6 +303,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Singular Proxies for Adaptive Caching in Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#sun26ao-inference) · 中文
 - [Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control](../../conferences/icml-2026/cards/4301-4400.md#taghibakhshi26a-inference) · 中文
 - [Restoring Exploration after Post-Training: Latent Exploration Decoding for Large Reasoning Models](../../conferences/icml-2026/cards/4301-4400.md#tan26d-inference) · 中文
+- [Predicting Future Utility: Global Combinatorial Optimization for Task-Agnostic KV Cache Eviction](../../conferences/icml-2026/cards/4301-4400.md#tang26i-inference) · 中文
+- [Beyond Gemini-3-Pro: Revisiting LLM Routing and Aggregation at Scale](../../conferences/icml-2026/cards/4301-4400.md#tang26k-inference) · 中文
+- [Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers](../../conferences/icml-2026/cards/4301-4400.md#tang26t-inference) · 中文
+- [MineDraft: A Framework for Batch Parallel Speculative Decoding](../../conferences/icml-2026/cards/4301-4400.md#tang26w-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -407,6 +411,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../../conferences/icml-2026/cards/4201-4300.md#su26r-inference) · 中文
 - [Timestep Rescheduling in Diffusion Inversion](../../conferences/icml-2026/cards/4201-4300.md#sun26j-inference) · 中文
 - [RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers](../../conferences/icml-2026/cards/4301-4400.md#sun26aw-inference) · 中文
+- [When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation](../../conferences/icml-2026/cards/4301-4400.md#tang26q-inference) · 中文
 
 <a id="by-nlp"></a>
 

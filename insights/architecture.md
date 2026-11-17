@@ -122,6 +122,7 @@
 - [用调和深度补齐相邻全景间空隙](../conferences/icml-2026/cards/3901-4000.md#schnepf26a-architecture) · SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion
 - [脉冲 Transformer 的双向时间融合](../conferences/icml-2026/cards/4001-4100.md#shen26l-architecture) · TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers
 - [冻结参考与对称非扩张去噪](../conferences/icml-2026/cards/4101-4200.md#sinha26a-architecture) · Trainable Nonexpansive Denoisers for Contractive Image Reconstruction
+- [条件路由化解多教师冲突](../conferences/icml-2026/cards/4301-4400.md#tang26j-architecture) · PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization
 
 <a id="by-nlp"></a>
 

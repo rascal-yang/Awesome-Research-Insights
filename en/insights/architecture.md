@@ -122,6 +122,7 @@ Model-wide design and information flow.
 - [SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion](../../conferences/icml-2026/cards/3901-4000.md#schnepf26a-architecture) · 中文
 - [TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](../../conferences/icml-2026/cards/4001-4100.md#shen26l-architecture) · 中文
 - [Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#sinha26a-architecture) · 中文
+- [PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization](../../conferences/icml-2026/cards/4301-4400.md#tang26j-architecture) · 中文
 
 <a id="by-nlp"></a>
 

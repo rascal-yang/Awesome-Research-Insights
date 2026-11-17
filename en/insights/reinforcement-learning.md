@@ -170,6 +170,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Scaling Long-Horizon Agent via Context Folding](../../conferences/icml-2026/cards/4201-4300.md#sun26x-reinforcement-learning) · 中文
 - [Inference-Aware Meta-Alignment of LLMs via Non-Linear GRPO](../../conferences/icml-2026/cards/4301-4400.md#takakura26a-reinforcement-learning) · 中文
 - [CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents](../../conferences/icml-2026/cards/4301-4400.md#tang26c-reinforcement-learning) · 中文
+- [Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression](../../conferences/icml-2026/cards/4301-4400.md#tang26h-reinforcement-learning) · 中文
+- [The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization](../../conferences/icml-2026/cards/4301-4400.md#tang26n-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -362,6 +364,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation](../../conferences/icml-2026/cards/4001-4100.md#shen26e-reinforcement-learning) · 中文
 - [Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies](../../conferences/icml-2026/cards/4101-4200.md#simsir26a-reinforcement-learning) · 中文
 - [Uncertainty-Guided Exploration and Stable Planning for Sparse-Reward Manipulation from Limited Demonstrations](../../conferences/icml-2026/cards/4201-4300.md#sun26n-reinforcement-learning) · 中文
+- [ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation](../../conferences/icml-2026/cards/4301-4400.md#tang26o-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 

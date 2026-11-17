@@ -95,6 +95,7 @@
 - [将脉冲通道稀疏变为边缘设备可执行的结构压缩](../conferences/icml-2026/cards/4001-4100.md#she26b-modules) · Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices
 - [将软视差指导与分层像素选择分开](../conferences/icml-2026/cards/4101-4200.md#shi26h-modules) · ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning
 - [窗口Toeplitz矩阵缓存](../conferences/icml-2026/cards/4201-4300.md#song26ae-modules) · WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution
+- [连续肢体采样补充关节点](../conferences/icml-2026/cards/4301-4400.md#tang26p-modules) · Glimpse: Geometry Learning of Multi-scale Structural Priors for 3D Pose Estimation
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

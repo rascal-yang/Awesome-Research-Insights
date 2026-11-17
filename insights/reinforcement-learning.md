@@ -170,6 +170,8 @@
 - [trainable-context-folding](../conferences/icml-2026/cards/4201-4300.md#sun26x-reinforcement-learning) · Scaling Long-Horizon Agent via Context Folding
 - [面向推理变换的元对齐](../conferences/icml-2026/cards/4301-4400.md#takakura26a-reinforcement-learning) · Inference-Aware Meta-Alignment of LLMs via Non-Linear GRPO
 - [任务组内与角色历史双基线](../conferences/icml-2026/cards/4301-4400.md#tang26c-reinforcement-learning) · CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents
+- [预算首token的局部奖励](../conferences/icml-2026/cards/4301-4400.md#tang26h-reinforcement-learning) · Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression
+- [正确性约束下的辩论稳定奖励](../conferences/icml-2026/cards/4301-4400.md#tang26n-reinforcement-learning) · The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -362,6 +364,7 @@
 - [在物理约束的语义沙盒学习可迁移导航规划](../conferences/icml-2026/cards/4001-4100.md#shen26e-reinforcement-learning) · Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation
 - [用拉格朗日残差噪声约束冻结生成策略的适配](../conferences/icml-2026/cards/4101-4200.md#simsir26a-reinforcement-learning) · Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies
 - [奖励可靠度控制规划乐观性](../conferences/icml-2026/cards/4201-4300.md#sun26n-reinforcement-learning) · Uncertainty-Guided Exploration and Stable Planning for Sparse-Reward Manipulation from Limited Demonstrations
+- [转折关键点子目标奖励](../conferences/icml-2026/cards/4301-4400.md#tang26o-reinforcement-learning) · ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation
 
 <a id="by-multimodal"></a>
 

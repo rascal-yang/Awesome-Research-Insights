@@ -371,6 +371,7 @@ Training schedules, curricula, and task or stage composition.
 - [On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](../../conferences/icml-2026/cards/4101-4200.md#simon26a-training-strategies) · 中文
 - [Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic](../../conferences/icml-2026/cards/4101-4200.md#sommariva26a-training-strategies) · 中文
 - [MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](../../conferences/icml-2026/cards/4201-4300.md#song26m-training-strategies) · 中文
+- [Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training](../../conferences/icml-2026/cards/4301-4400.md#tang26g-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

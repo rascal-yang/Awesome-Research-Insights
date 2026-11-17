@@ -95,6 +95,7 @@ Reusable components and local changes to model inputs or connections.
 - [Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices](../../conferences/icml-2026/cards/4001-4100.md#she26b-modules) · 中文
 - [ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning](../../conferences/icml-2026/cards/4101-4200.md#shi26h-modules) · 中文
 - [WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution](../../conferences/icml-2026/cards/4201-4300.md#song26ae-modules) · 中文
+- [Glimpse: Geometry Learning of Multi-scale Structural Priors for 3D Pose Estimation](../../conferences/icml-2026/cards/4301-4400.md#tang26p-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>

@@ -70,6 +70,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="schnepf26a-architecture"></a>[SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion](../../conferences/icml-2026/cards/3901-4000.md#paper-schnepf26a)
 - <a id="shen26l-architecture"></a>[TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26l)
 - <a id="sinha26a-architecture"></a>[Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#paper-sinha26a)
+- <a id="tang26j-architecture"></a>[PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26j)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -113,6 +114,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="she26b-modules"></a>[Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices](../../conferences/icml-2026/cards/4001-4100.md#paper-she26b)
 - <a id="shi26h-modules"></a>[ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26h)
 - <a id="song26ae-modules"></a>[WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ae)
+- <a id="tang26p-modules"></a>[Glimpse: Geometry Learning of Multi-scale Structural Priors for 3D Pose Estimation](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26p)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -392,6 +394,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="su26r-inference"></a>[Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../../conferences/icml-2026/cards/4201-4300.md#paper-su26r)
 - <a id="sun26j-inference"></a>[Timestep Rescheduling in Diffusion Inversion](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26j)
 - <a id="sun26aw-inference"></a>[RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26aw)
+- <a id="tang26q-inference"></a>[When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26q)
 
 <a id="by-representation-learning"></a>
 

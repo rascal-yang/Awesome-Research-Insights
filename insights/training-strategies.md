@@ -371,6 +371,7 @@
 - [按均值偏移与有效秩诊断SAE特征死亡](../conferences/icml-2026/cards/4101-4200.md#simon26a-training-strategies) · On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders
 - [路径蒸馏任务算术](../conferences/icml-2026/cards/4101-4200.md#sommariva26a-training-strategies) · Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic
 - [子图消息复用](../conferences/icml-2026/cards/4201-4300.md#song26m-training-strategies) · MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction
+- [静默梯度错误与副本重同步](../conferences/icml-2026/cards/4301-4400.md#tang26g-training-strategies) · Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training
 
 <a id="by-graph-and-recommendation"></a>
 

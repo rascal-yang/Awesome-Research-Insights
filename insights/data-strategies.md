@@ -192,6 +192,7 @@
 - [保留残余噪声标签的训练数据迭代](../conferences/icml-2026/cards/3801-3900.md#rodriguez-munoz26a-data-strategies) · Ambient Dataloops: Generative Models for Dataset Refinement
 - [凝缩时保留时序频谱和变量依赖](../conferences/icml-2026/cards/4001-4100.md#shao26b-data-strategies) · One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis
 - [保留后验概率并在公平阈值处随机化标签聚合](../conferences/icml-2026/cards/4101-4200.md#singer26a-data-strategies) · Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints
+- [联邦列主元与局部样本选择](../conferences/icml-2026/cards/4301-4400.md#tang26r-data-strategies) · Federated Data and Feature Selection by Generalized CUR Decomposition
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -205,6 +206,7 @@
 - [先合成表间连接再生成列分布](../conferences/icml-2026/cards/2201-2300.md#kothapalli26a-data-strategies) · PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models
 - [锚定超图凝缩并对齐两级分布](../conferences/icml-2026/cards/2501-2600.md#li26gi-data-strategies) · Anchor-guided Hypergraph Condensation with Dual-level Discrimination
 - [潜空间单步合成图异常](../conferences/icml-2026/cards/2601-2700.md#li26hb-data-strategies) · GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model
+- [按重建支持分层遮蔽](../conferences/icml-2026/cards/4301-4400.md#tang26l-data-strategies) · Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder
 
 <a id="by-scientific-ml"></a>
 
