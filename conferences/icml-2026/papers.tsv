@@ -3149,16 +3149,16 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3148	ma26v	Do Sparse Autoencoders Identify Reasoning Features in Language Models?	https://proceedings.mlr.press/v306/ma26v.html		written
 3149	ma26w	Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning	https://proceedings.mlr.press/v306/ma26w.html		written
 3150	ma26x	Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras	https://proceedings.mlr.press/v306/ma26x.html		written
-3151	ma26y	A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation	https://proceedings.mlr.press/v306/ma26y.html		written
-3152	ma26z	Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning	https://proceedings.mlr.press/v306/ma26z.html		written
-3153	ma26aa	Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces	https://proceedings.mlr.press/v306/ma26aa.html		written
-3154	ma26ab	Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration	https://proceedings.mlr.press/v306/ma26ab.html		written
-3155	ma26ac	Dual-Latent Memory Routing for Vision-Language Reasoning	https://proceedings.mlr.press/v306/ma26ac.html		written
-3156	ma26ad	Non-Monotonic Autoregressive Sequence Model	https://proceedings.mlr.press/v306/ma26ad.html		written
-3157	ma26ae	No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning	https://proceedings.mlr.press/v306/ma26ae.html		written
-3158	ma26af	Feature Bagging Provides Stability	https://proceedings.mlr.press/v306/ma26af.html		written
-3159	ma26ag	Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching	https://proceedings.mlr.press/v306/ma26ag.html		written
-3160	ma26ah	Addressing Semantic Blind Spots in Text-to-SQL via Component Pre-generation and AST Matching Rewards	https://proceedings.mlr.press/v306/ma26ah.html		written
+3151	ma26y	A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation	https://proceedings.mlr.press/v306/ma26y.html	具体改变合成推理数据的程序核验：PDF第2–4页用给定规则及逆操作的cycle consistency检查，在原文规则/输入条件下保证唯一性，再扩输入而复用已验代码。独立可执行验证接口有别于仅扩基准，不应把有限抽样通过扩大成任意规则全域证明或从少数示例唯一识别规则。	written
+3152	ma26z	Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning	https://proceedings.mlr.press/v306/ma26z.html	具体改变自中心视频的空间复核接口：第4页先由原视频立假设，再看由预测3D几何渲染的互补新视角，第8页对照双视图拼接/交错。独立跨视角回访而非只多给帧；合成视角依赖几何质量，不能当真实独立观测保证事实。	written
+3153	ma26aa	Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces	https://proceedings.mlr.press/v306/ma26aa.html	具体改变组合动作扩散策略的在线更新：以policy mirror descent给目标分布，再正/反向KL匹配；第5页用当前逆扩散轨迹生成训练对减少训练推断分布错位，第7–8页给KL/同策略消融。独立训练接口适用组合决策，正向样本效率与反向稳定性的取舍限所测条件。	written
+3154	ma26ab	Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration	https://proceedings.mlr.press/v306/ma26ab.html	具体改变异构联邦训练中客户端子模型容量的日程：平台期逐步恢复掩码密度，配半异步及掩码感知聚合；第3–5页算法，第8页聚合/陈旧度对照。保留自适应恢复与聚合机制，不将单纯增加参数当贡献；通信和更新频率预算须同时计入。	written
+3155	ma26ac	Dual-Latent Memory Routing for Vision-Language Reasoning	https://proceedings.mlr.press/v306/ma26ac.html	具体改变冻结MLLM长推理的记忆注入：第4页视觉/推理潜库为输入共享参数，注入器按前缀生成上下文化token；第6–7页双库/单库与固定/动态预算消融。独立记忆/路由接口可用，不能把共享latent库误写成直接保存每输入的原始证据。	written
+3156	ma26ad	Non-Monotonic Autoregressive Sequence Model	https://proceedings.mlr.press/v306/ma26ad.html	具体改变自回归纠错的训练目标：加入撤销token与确定性栈操作，错误-撤销-修正轨迹训练时掩掉错误span的似然损失；第3页mSFT，第5页起token初始化/训练消融。独立生成接口及掩码目标可用于允许撤回的任务，不等同普通CoT继续追加纠错文字。	written
+3157	ma26ae	No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning	https://proceedings.mlr.press/v306/ma26ae.html	具体改变混合精度联邦supernet的聚合与部署：第3–4页按全精度类别原型对齐并对关键层语义加权，第5页以敏感度指导配置搜索，第8页拆训练组件。独立对齐/混合聚合规则可用；无需边缘重训以先训练supernet和服务器校准数据为前提，不等于零训练代价。	written
+3158	ma26af	Feature Bagging Provides Stability	https://proceedings.mlr.press/v306/ma26af.html	PDF第3–4页定义删特征稳定性并指出固定输入维度对神经网络的困难，第4–7页主要给线性最小二乘及模型无关递归抽样保证，应用为随机前向选择/随机森林。新增FI及bagging理论确实存在，但未给在具身或相关深度模型中具体如何采用该特征重采样/维度处理、如何据此选择训练机制的可核对应；不能仅靠一般泛化/集成关联通过新增范围关，按对象不符排除而非无代码或理论形式排除。	excluded
+3159	ma26ag	Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching	https://proceedings.mlr.press/v306/ma26ag.html	具体改变异构模型之间KV状态传输：低秩语义码重建多数层、少数敏感层预测归一化输入后重算以截断误差，去RoPE再对齐；第3–6页接口与损失，第8页秩/补丁消融。独立压缩及patch机制可用，依赖固定模型对校准，未保证跨任意模型无需再学映射。	written
+3160	ma26ah	Addressing Semantic Blind Spots in Text-to-SQL via Component Pre-generation and AST Matching Rewards	https://proceedings.mlr.press/v306/ma26ah.html	具体改变结构化程序生成的局部奖励：预生成组件后，用AST最大连通子树匹配给部分信用，并按IDF提高稀有关键字权重；第3–4页目标，第6页表2拆奖励。独立可复用奖励不因SQL应用排除；结构匹配不等同执行或语义正确，必须另测最终任务结果。	written
 3161	ma26ai	AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field	https://proceedings.mlr.press/v306/ma26ai.html		written
 3162	ma26aj	Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning	https://proceedings.mlr.press/v306/ma26aj.html		written
 3163	ma26ak	FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs	https://proceedings.mlr.press/v306/ma26ak.html		written

@@ -956,7 +956,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lyu26i-theory-statistics"></a>[Explaining Concept Shift with Interpretable Feature Attribution](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26i)
 - <a id="lyu26k-theory-statistics"></a>[The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26k)
 - <a id="ma26c-theory-statistics"></a>[Efficiently Learning Drifting Halfspaces with Massart Noise](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26c)
-- <a id="ma26af-theory-statistics"></a>[Feature Bagging Provides Stability](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26af)
 - <a id="mai26a-theory-statistics"></a>[Correcting Overparameterization Effects in Fair Empirical Risk Minimization](../../conferences/icml-2026/cards/3101-3200.md#paper-mai26a)
 - <a id="maiti26a-theory-statistics"></a>[Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](../../conferences/icml-2026/cards/3101-3200.md#paper-maiti26a)
 - <a id="mani26b-theory-statistics"></a>[No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference](../../conferences/icml-2026/cards/3201-3300.md#paper-mani26b)
