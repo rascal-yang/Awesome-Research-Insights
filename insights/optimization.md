@@ -23,6 +23,7 @@
 - [求解器程序树进化](../papers/llm.md#chen26hb-optimization) · $A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees
 - [低秩二值权重量化](../papers/llm.md#chong26a-optimization) · NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models
 - [MoE 通道贡献覆盖剪枝](../papers/llm.md#ding26q-optimization) · Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression
+- [张量并行的计算通信联合量化](../papers/llm.md#duanmu26a-optimization) · CoCoQuant: Breaking the Bandwidth Wall via Co-Optimized Communication and Computation Quantization
 
 ### 计算机视觉
 
@@ -39,6 +40,7 @@
 ### 机器人学
 
 - [安全控制器混合](../papers/robotics.md#chaudhary26a-optimization) · Blending Neural Control Density Functions for Stabilization and Safety
+- [动态 SLAM 的残差梯度隔离](../papers/robotics.md#fan26g-optimization) · De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments
 
 ### 机器学习基础与统计
 
@@ -114,6 +116,17 @@
 - [差分隐私梯度的滤波二阶矩校准](../papers/ml-foundations.md#dm26a-optimization) · FIBER: A Differentially Private Optimizer with Filter-Aware Innovation Bias Correction
 - [同方向 Romberg 零阶梯度估计](../papers/ml-foundations.md#dong26j-optimization) · Romberg-Extrapolated Zeroth-Order Gradient Estimator: Higher-Order Bias Reduction with Preserved Leading Directional Variance
 - [表格上下文预测的稀疏反事实改动](../papers/ml-foundations.md#dong26n-optimization) · Algorithmic Recourse of In-Context Learning for Tabular Data
+- [核回归的非均匀傅里叶求解](../papers/ml-foundations.md#doumeche26a-optimization) · Fast kernel methods: Sobolev, physics-informed, and additive models
+- [约束多目标搜索的区域先验](../papers/ml-foundations.md#du26r-optimization) · Meta-Black-Box Optimization Can Do Search Guidance for Expensive Constrained Multi-Objective Optimization
+- [动态子模优化的分级平滑切换](../papers/ml-foundations.md#duetting26a-optimization) · A General Framework for Dynamic Consistent Submodular Maximization
+- [从有限矩拟合混合测度](../papers/ml-foundations.md#durasinovic26a-optimization) · Mixtures Closest To A Given Measure: A Semidefinite Programming Approach
+- [熵正则最优传输的变分归一化](../papers/ml-foundations.md#dyachenko26a-optimization) · Variational Entropic Optimal Transport
+- [软排列求解的局部熵温度](../papers/ml-foundations.md#eisenberg26a-optimization) · Learning Permutation from Structure Without Supervision
+- [边预测引导的度量旅行商求解](../papers/ml-foundations.md#elias26a-optimization) · TSP with Predictions: Heatmap to Tour with Provable Guarantees
+- [约束级隐私的正线性规划](../papers/ml-foundations.md#ene26a-optimization) · Solving Positive Linear Programs with Differential Privacy
+- [随机自归约的稀疏回归搜索](../papers/ml-foundations.md#erata26a-optimization) · Learning Randomized Reductions
+- [异步 SGD 的梯度裁剪](../papers/ml-foundations.md#erickson26a-optimization) · Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers
+- [容忍无界异常幅度的贝叶斯优化](../papers/ml-foundations.md#ezzerg26a-optimization) · Robust Bayesian Optimisation with Unbounded Corruptions
 
 ### 图学习与推荐
 
@@ -126,4 +139,6 @@
 
 - [广义特征值积分轮廓](../papers/scientific-ml.md#chen26ck-optimization) · Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers
 - [语言模型预测与真实实验的门控](../papers/scientific-ml.md#chen26fx-optimization) · LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation
+- [扩散重建的对偶反馈与频谱均衡](../papers/scientific-ml.md#du26n-optimization) · Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction
+- [临床二元规则的等权清单搜索](../papers/scientific-ml.md#estevez26a-optimization) · Automatic Construction of Clinical Scoring Systems with LLM Agents
 <!-- classification:end -->

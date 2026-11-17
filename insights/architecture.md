@@ -16,6 +16,8 @@
 - [混合专家的按头并行](../papers/llm.md#cui26c-architecture) · Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism
 - [预测分块上下文辅助逐词解码](../papers/llm.md#dai26g-architecture) · Context-level Language Modeling by Learning Predictive Context Embeddings
 - [长上下文的块级混合注意力](../papers/llm.md#deng26v-architecture) · Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models
+- [低维潜空间专家计算](../papers/llm.md#elango26a-architecture) · Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures
+- [可结构化高阶递推的词元混合](../papers/llm.md#fagnou26a-architecture) · Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing
 
 ### 计算机视觉
 
@@ -26,6 +28,8 @@
 - [压缩成像的连续光谱先验](../papers/computer-vision.md#chen26ga-architecture) · Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging
 - [开放词汇三维实例分割](../papers/computer-vision.md#choy26a-architecture) · SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation
 - [原生四维体素自编码](../papers/computer-vision.md#ding26u-architecture) · Native Spatio-Temporal 4D Variational Autoencoder
+- [照片结构重构的动作条件编辑](../papers/computer-vision.md#du26c-architecture) · AesFormer: Transform Everyday Photos into Beautiful Memories
+- [病理去焦模糊的局部积分算子](../papers/computer-vision.md#duan26e-architecture) · Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring
 
 ### 自然语言处理
 
@@ -62,12 +66,15 @@
 - [外生时序的历史条件生成](../papers/ml-foundations.md#cheng26t-architecture) · KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables
 - [用 Transformer 电路实现 Lloyd 迭代](../papers/ml-foundations.md#clarkson26a-architecture) · Transformer Circuits Can Realize Clustering Algorithms
 - [混合专家式概念瓶颈](../papers/ml-foundations.md#de-santis26a-architecture) · Mixture of Concept Bottleneck Experts
+- [联邦学习的弹性共享专家](../papers/ml-foundations.md#du26d-architecture) · FedEMoE: Improving Personalization on Heterogeneous Federated Learning via Elastic Mixture of Experts Architecture
+- [带长历史压缩的时序插补](../papers/ml-foundations.md#fan26h-architecture) · Rethinking Time-Series Imputation as Conditional Inference along Temporal Evolution
 
 ### 图学习与推荐
 
 - [知识图谱多跳问答](../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) · RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation
 - [生成式电商检索](../papers/graph-and-recommendation.md#chen26al-architecture) · OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search
 - [动态图的可学习信息耗散](../papers/graph-and-recommendation.md#de-castelli26a-architecture) · Adaptive Memory Retention in Dynamic Graphs
+- [图动力学的能量与切向流](../papers/graph-and-recommendation.md#eliasof26a-architecture) · Graph Neural Dynamics via Learned Energy and Tangential Flows
 
 ### 科学机器学习
 
@@ -92,4 +99,5 @@
 - [机械属性场的自适应稀疏体素](../papers/scientific-ml.md#dagli26a-architecture) · Adaptive Volumetric Mechanical Property Fields Invariant to Resolution
 - [时间驱动空间网络参数](../papers/scientific-ml.md#dai26a-architecture) · TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs
 - [工况条件下的分层图流匹配](../papers/scientific-ml.md#deng26c-architecture) · Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems
+- [周期晶体电荷密度的傅里叶重建](../papers/scientific-ml.md#elsborg26a-architecture) · Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink
 <!-- classification:end -->

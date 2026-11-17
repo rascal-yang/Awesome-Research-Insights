@@ -92,6 +92,9 @@
 - [用成对推理比较降低评测方差](../papers/llm.md#dong26o-evaluation) · Evaluating LLMs When They Do Not Know the Answer: Statistical Evaluation of Mathematical Reasoning via Comparative Signals
 - [用超额描述长度区分能力诱发与学习](../papers/llm.md#donoway26a-evaluation) · Bits That Count: Quantifying and Predicting Capabilities of Language Models
 - [语言模型罕见事件的重要性估计](../papers/llm.md#dorman26a-evaluation) · Rare Event Analysis of Large Language Models
+- [多智能体通信协议的受控评测](../papers/llm.md#du26l-evaluation) · ProtocolBench: Which LLM MultiAgent Protocol to Choose?
+- [语言不确定性词的正确率校准](../papers/llm.md#duan26b-evaluation) · "very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification
+- [可控 2-SAT 结构鲁棒性评测](../papers/llm.md#es-sebbani26a-evaluation) · Evaluating Robustness of Reasoning Models on Parameterized Logical Problems
 
 ### 计算机视觉
 
@@ -103,6 +106,8 @@
 - [生成模型后门评测](../papers/computer-vision.md#chen26az-evaluation) · Semantic-level Backdoor Attack against Text-to-Image Diffusion Models
 - [人脸数据集内在质量估计](../papers/computer-vision.md#chen26gw-evaluation) · Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets
 - [视觉表征的组合绑定诊断](../papers/computer-vision.md#chung26a-evaluation) · Global Geometry Is Not Enough for Vision Representations
+- [类别遗忘的近邻输出泄漏](../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) · Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations
+- [概念感知的显著性图](../papers/computer-vision.md#elisha26a-evaluation) · ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution
 
 ### 自然语言处理
 
@@ -111,6 +116,7 @@
 - [检索增强生成安全评测](../papers/nlp.md#chen26av-evaluation) · Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors
 - [生成文本的惊异度转移检测](../papers/nlp.md#chen26bf-evaluation) · Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence
 - [音频深伪检测的多样性压力测试](../papers/nlp.md#dehdashtian26a-evaluation) · FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors
+- [同行评审来源的声明级检测](../papers/nlp.md#duarte26a-evaluation) · Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews
 
 ### 强化学习
 
@@ -143,6 +149,7 @@
 - [视觉历史中的跨图检索评测](../papers/multimodal.md#deng26g-evaluation) · DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories
 - [科学视频推理的视觉依赖校验](../papers/multimodal.md#deng26w-evaluation) · SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models
 - [语义近邻校准标注判错](../papers/multimodal.md#di26b-evaluation) · Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help
+- [由图像主动决定开放网页检索](../papers/multimodal.md#fan26a-evaluation) · NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web
 
 ### 机器学习基础与统计
 
@@ -160,6 +167,9 @@
 - [榜单评测前的统一微调](../papers/ml-foundations.md#chen26gf-evaluation) · Leaderboard Incentives: Model Rankings under Strategic Post-Training
 - [用合成记忆任务诊断可塑性](../papers/ml-foundations.md#cheng26i-evaluation) · Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization
 - [元胞自动机可学习性的频谱诊断](../papers/ml-foundations.md#disselhoff26a-evaluation) · Probing the Inductive Bias of Neural Networks through Learning Random Cellular Automata
+- [按数据结构难度诊断聚类](../papers/ml-foundations.md#durani26a-evaluation) · CHB: A Diagnostic Toolkit for Hardness-Aware Clustering Evaluation
+- [序列状态跟踪的跨长度共享诊断](../papers/ml-foundations.md#ebrahimi26a-evaluation) · On the "Induction Bias" in Sequence Models
+- [沿 AdamW 训练路径联合归因](../papers/ml-foundations.md#eichin26a-evaluation) · ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior
 
 ### 图学习与推荐
 
@@ -180,4 +190,6 @@
 - [语言与语音层表征的脑响应对齐](../papers/scientific-ml.md#cheng26l-evaluation) · Abstraction Induces the Brain Alignment of Language and Speech Models
 - [长程脑电癫痫检测的泛化评测](../papers/scientific-ml.md#dan26a-evaluation) · Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge
 - [蛋白适应度的外推切分](../papers/scientific-ml.md#didi26a-evaluation) · FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications
+- [生物基础模型的双类扰动诊断](../papers/scientific-ml.md#duan26f-evaluation) · (Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations
+- [生物信息学智能体的流程稳健性评测](../papers/scientific-ml.md#fa26a-evaluation) · BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics
 <!-- classification:end -->

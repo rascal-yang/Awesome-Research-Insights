@@ -24,6 +24,7 @@
 - [任务敏感注意力头筛样](../papers/llm.md#chen26gi-data-strategies) · From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment
 - [从工具执行轨迹反推训练任务](../papers/llm.md#chen26gj-data-strategies) · DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use
 - [棋类后训练数据的推理忠实度](../papers/llm.md#dionisopoulos26a-data-strategies) · How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess
+- [语言模型预训练语料的时间排序](../papers/llm.md#fabre26a-data-strategies) · Understanding Data Temporality Impact on Large Language Models Pre-training
 
 ### 计算机视觉
 
@@ -37,11 +38,13 @@
 
 - [差分隐私合成数据](../papers/nlp.md#banayeeanzade26a-data-strategies) · EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors
 - [临床文本改写的专家约束](../papers/nlp.md#cho26i-data-strategies) · Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration
+- [对比学习的困难负例组批](../papers/nlp.md#dutta26a-data-strategies) · HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training
 
 ### 强化学习
 
 - [零样本离线强化学习](../papers/reinforcement-learning.md#bendib26a-data-strategies) · Improving Zero-Shot Offline RL via Behavioral Task Sampling
 - [跨域离线强化学习的软筛选](../papers/reinforcement-learning.md#chen26gd-data-strategies) · Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation
+- [数学搜索课程的中间难度实例](../papers/reinforcement-learning.md#fagan26a-data-strategies) · The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning
 
 ### 机器人学
 
@@ -49,6 +52,7 @@
 - [物理可用的桌面场景](../papers/robotics.md#chen26ab-data-strategies) · PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation
 - [固定预算下的机器人示范分配](../papers/robotics.md#chen26cy-data-strategies) · Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation
 - [具身动作风险的组合数据构造](../papers/robotics.md#choi26i-data-strategies) · EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents
+- [跨来源点云的 VLA 训练](../papers/robotics.md#fan26b-data-strategies) · Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds
 
 ### 多模态学习
 
@@ -59,6 +63,7 @@
 - [图解到代码](../papers/multimodal.md#chai26b-data-strategies) · From Diagrams to Code: Multilingual Programming with Visual Design
 - [多模态图像编辑数据](../papers/multimodal.md#chen26c-data-strategies) · OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing
 - [GUI 智能体的失败轨迹纠错数据](../papers/multimodal.md#chen26gb-data-strategies) · CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training
+- [用近域异常文本约束开放集识别](../papers/multimodal.md#fang26b-data-strategies) · Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness
 
 ### 机器学习基础与统计
 
@@ -68,11 +73,14 @@
 - [稀疏多类标注聚合](../papers/ml-foundations.md#chen26ac-data-strategies) · Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning
 - [训练样本选择的二部图覆盖](../papers/ml-foundations.md#chi26d-data-strategies) · Unifying and Optimizing Data Values for Selection via Sequential Decision-Making
 - [低秩数据子集的残差采样](../papers/ml-foundations.md#cohen-addad26a-data-strategies) · Active Learning with Low-Rank Structure for Data Selection
+- [元学习选样的低信噪比](../papers/ml-foundations.md#du26u-data-strategies) · On the Difficulty of Learning a Meta-network for Training Data Selection
+- [合成递归训练的多偏好筛选](../papers/ml-foundations.md#falahati26a-data-strategies) · Curated Synthetic Data Doesn’t Have to Collapse: A Theoretical Study of Generative Retraining with Pluralistic Preferences
 
 ### 图学习与推荐
 
 - [图数据增强](../papers/graph-and-recommendation.md#azizpour26a-data-strategies) · From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning
 - [联邦文本图证据凝缩](../papers/graph-and-recommendation.md#chen26cr-data-strategies) · DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs
+- [图基础模型的合成预训练先验](../papers/graph-and-recommendation.md#eremeev26a-data-strategies) · GraphPFN: A Prior-Data Fitted Graph Foundation Model
 
 ### 科学机器学习
 

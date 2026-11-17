@@ -54,6 +54,7 @@
 | <a id="dai26j-reinforcement-learning"></a>[VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](https://proceedings.mlr.press/v306/dai26j.html) | 视频分割的像素级策略反馈 | 采用 GRPO 训练多轮视频定位时，将采样掩码的逐像素对数似然加到分割标记的对数概率上。这样策略的重要性比率会随掩码变化，使分割奖励也能训练像素解码器。 |
 | <a id="deng26x-reinforcement-learning"></a>[Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://proceedings.mlr.press/v306/deng26x.html) | 主动空间推理的可执行中间奖励 | 让视觉语言智能体主动选取视角，把物体位置和朝向累积到认知地图。将中间空间关系写成可执行断言，在该地图上计算断言是否成立，为选视角和推理提供比最终答案更密集的强化学习反馈。 |
 | <a id="ding26m-reinforcement-learning"></a>[Learning Self-Correction in Vision–Language Models via Rollout Augmentation](https://proceedings.mlr.press/v306/ding26m.html) | 错到对的自纠正轨迹重组 | 先让模型生成带自纠正标记的前后两段回答，再在同题的采样组内重配前段与后段，优先构造错误初答转为正确答案的轨迹。这让已有生成结果能提供更密集的纠正信号。 |
+| <a id="du26j-reinforcement-learning"></a>[Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](https://proceedings.mlr.press/v306/du26j.html) | 长尾回归的批级一致相关奖励 | 针对一个候选数值，把它与同批其他样本的多次生成均值组成预测向量。与真值向量计算一致性相关系数作为 GRPO 奖励，同时约束批内预测的相关性、尺度和均值。 |
 
 <a id="by-training-strategies"></a>
 
@@ -67,6 +68,8 @@
 | <a id="chen26am-training-strategies"></a>[Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](https://proceedings.mlr.press/v306/chen26am.html) | 视觉语言蒸馏与量化 | 做量化感知训练时，用教师置信度筛选蒸馏信号，并用中心核对齐保留视觉 token 之间的关系，在受限容量中优先保住任务信息。 |
 | <a id="chen26gr-training-strategies"></a>[Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](https://proceedings.mlr.press/v306/chen26gr.html) | 多模态蒸馏的视觉与转移对齐 | 用教师的指令到图像注意力给视觉 token 的蒸馏损失加权，让指令相关区域获得更多监督。再以学生采样的回复 token 为条件对齐教师和学生的后续分布，补充真实前缀上的下一 token 蒸馏。 |
 | <a id="cheng26p-training-strategies"></a>[HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning](https://proceedings.mlr.press/v306/cheng26p.html) | 双曲空间中的 CLIP 持续适配 | 给连续任务添加轻量适配器，在庞加莱球内依次复合适配更新。用适配后视觉特征生成的类别原型校准测试 logits，可帮助区分随任务增加的新旧类别。 |
+| <a id="du26t-training-strategies"></a>[Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](https://proceedings.mlr.press/v306/du26t.html) | 权重差迁移语音指令能力 | 从文本基座继续做语音预训练，再把文本指令模型相对同一基座的参数差加到语音模型上。用单独的系数缩放语音预训练增量，以平衡语音适应和指令能力，无需另做语音指令微调。 |
+| <a id="dufour26a-training-strategies"></a>[MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](https://proceedings.mlr.press/v306/dufour26a.html) | 多奖励条件的图像生成预训练 | 给每组图文样本计算图文一致性、偏好等多个分数，把分数向量与提示共同输入流匹配模型。训练可以利用不同质量层级的样本，采样时再指定所需分数，在多个质量目标间调节。 |
 
 <a id="by-data-strategies"></a>
 
@@ -81,6 +84,7 @@
 | <a id="chai26b-data-strategies"></a>[From Diagrams to Code: Multilingual Programming with Visual Design](https://proceedings.mlr.press/v306/chai26b.html) | 图解到代码 | 用多种编程语言的图解和文本指令做联合微调，并设置相应的多语言视觉编程基准，检验模型能否跨语言解释设计。 |
 | <a id="chen26c-data-strategies"></a>[OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](https://proceedings.mlr.press/v306/chen26c.html) | 多模态图像编辑数据 | 先定义编辑操作、科学图示和文字渲染等分层任务，再从各分支合成多步骤指令图像对，能按能力覆盖定向扩充数据。 |
 | <a id="chen26gb-data-strategies"></a>[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://proceedings.mlr.press/v306/chen26gb.html) | GUI 智能体的失败轨迹纠错数据 | 在可自动判定结果的合成界面中收集学生模型的失败轨迹，让专家结合中间截图和正确解回顾错误并写出纠正过程。把这些轨迹与正常解题轨迹一起微调，给原生视觉语言智能体提供从中途错误恢复的监督。 |
+| <a id="fang26b-data-strategies"></a>[Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness](https://proceedings.mlr.press/v306/fang26b.html) | 用近域异常文本约束开放集识别 | 让语言模型为已知类别生成外观相近或语境异常的未知样本描述，再将这些描述作为视觉语言模型的负向语义参照。与已知类文本一起比较时，可为易被强行归类的近域异常提供识别依据。 |
 
 <a id="by-inference"></a>
 
@@ -103,6 +107,7 @@
 | <a id="cheng26d-inference"></a>[Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](https://proceedings.mlr.press/v306/cheng26d.html) | 视觉语言模型注意力通路门控 | 把各注意力头的输出拆为视觉与文本两路，用一次前向及一次梯度查询近似估计两路对当前词元决策的影响，再只抑制冲突头的文本分量，保留视觉分量。 |
 | <a id="cho26b-inference"></a>[Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](https://proceedings.mlr.press/v306/cho26b.html) | 视觉词元删减后的注意力校准 | 减少视觉词元后仍保留原位置，用 RoPE 的相对距离衰减估计补偿注意力，合并时同时计入每个词元代表的原词元数。在稀疏视觉序列上恢复部分注意力，无需补回被删词元。 |
 | <a id="dang26a-inference"></a>[UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing](https://proceedings.mlr.press/v306/dang26a.html) | 超高分遥感词元分区压缩 | 按文本问题计算多尺度视觉词元的重要性，并以各区域自己的平均分为保留阈值，其余词元在区域内合并。这样在紧预算下，局部小目标的证据也有机会保留。 |
+| <a id="du26k-inference"></a>[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://proceedings.mlr.press/v306/du26k.html) | 多模态文档问答的内容图与规划图 | 用内容图连接文档内的文字、图表等证据，按相似度检索节点并带上邻居。另用有向无环规划图记录子问题及依赖，按拓扑顺序检索并根据证据是否充分调整后续计划。 |
 
 <a id="by-representation-learning"></a>
 
@@ -115,6 +120,7 @@
 | <a id="chen26fo-representation-learning"></a>[MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction](https://proceedings.mlr.press/v306/chen26fo.html) | 利用地理邻接的半监督街景对比学习 | 为无标签街段从其已标注邻居继承负样本候选，即选择与邻居标签不同的街段作负例。若街段属性具有空间自相关，可据此让未标注街景参与视觉和文本的联合表征学习。 |
 | <a id="cheng26k-representation-learning"></a>[Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](https://proceedings.mlr.press/v306/cheng26k.html) | 结构化代理的跨模态哈希 | 为每个样本从同标签代理中选近邻形成稀疏子图，按关联强度聚合候选代理的标签响应。以子图约束代理间竞争，可改善多标签样本在汉明空间中的可分性。 |
 | <a id="choi26h-representation-learning"></a>[Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](https://proceedings.mlr.press/v306/choi26h.html) | 可稀疏选择的多模态专家表征 | 先预训练各模态的 MoE 编码器，让专家子空间承载可对齐的语义成分，再训练任务路由器选择专家，并在推理时按批次保留评分最高的一定比例的输入与专家配对。MultiBench 实验中，中等稀疏率的表现优于研究中测试的更高稀疏率。 |
+| <a id="dutta26b-representation-learning"></a>[Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](https://proceedings.mlr.press/v306/dutta26b.html) | 传感通道文本调制时序表征 | 用通道描述的文本嵌入生成时间卷积核和软门控，并让描述相似度调节跨通道注意力。再在潜空间预测时序表征，所得特征可用线性探针迁移到分类、预测和异常检测。 |
 
 <a id="by-evaluation"></a>
 
@@ -139,6 +145,7 @@
 | <a id="deng26g-evaluation"></a>[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://proceedings.mlr.press/v306/deng26g.html) | 视觉历史中的跨图检索评测 | 让视觉语言模型从图像中提取地标、物件等线索，先检索候选图，再核查跨图关联并由人工验证生成的问题。由此构造必须沿多张历史图像追踪线索才能回答的检索任务。 |
 | <a id="deng26w-evaluation"></a>[SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://proceedings.mlr.press/v306/deng26w.html) | 科学视频推理的视觉依赖校验 | 用配套论文和转录稿辅助命题，再让标注者核对视频证据的时间戳。分别以仅给选项和只给问题与选项的条件做筛查，修改或剔除能在无视频时答出的题，以减少文字线索泄漏。 |
 | <a id="di26b-evaluation"></a>[Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help](https://proceedings.mlr.press/v306/di26b.html) | 语义近邻校准标注判错 | 用输入嵌入找近邻，把邻居的标注作为目标标注的比较依据。论文将 AUROC 的变化归因于原有可分性、参考引起的评分均值变化及平均降噪，参考语义匹配且标注正确时，最可能拉开正确与错误的分数。 |
+| <a id="fan26a-evaluation"></a>[NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web](https://proceedings.mlr.press/v306/fan26a.html) | 由图像主动决定开放网页检索 | 把图片作为主要查找依据，混合无需联网的单图题与需要多图综合、多轮搜索的题，并让模型自行决定是否搜索及如何改写查询。由此可分别观察视觉线索整合、搜索触发和策略协调的失败。 |
 
 <a id="by-theory-statistics"></a>
 

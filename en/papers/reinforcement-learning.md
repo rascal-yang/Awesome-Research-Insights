@@ -83,6 +83,11 @@ The linked short insights are available in Chinese.
 | [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://proceedings.mlr.press/v306/dong26d.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#dong26d-reinforcement-learning) |
 | [Mean Flow Policy Optimization](https://proceedings.mlr.press/v306/dong26m.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#dong26m-reinforcement-learning) |
 | [Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy](https://proceedings.mlr.press/v306/doo26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#doo26a-reinforcement-learning) |
+| [Stabilizing PPO via Latent-Space Regularization and KDE-Driven Exploration](https://proceedings.mlr.press/v306/du26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#du26b-reinforcement-learning) |
+| [IEC: When Information-Driven Exploration Meets Spectral Consensus via Primal–Dual Reward Regularization in Decentralized MARL](https://proceedings.mlr.press/v306/du26p.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#du26p-reinforcement-learning) |
+| [Commit to the Bit: Reactive Reinforcement Learning Done Right](https://proceedings.mlr.press/v306/eberhard26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#eberhard26b-reinforcement-learning) |
+| [Moment Matching Q-Learning](https://proceedings.mlr.press/v306/edgar26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#edgar26a-reinforcement-learning) |
+| [Stochastic Linear Bandits with Parameter Noise](https://proceedings.mlr.press/v306/ezer26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ezer26a-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -93,6 +98,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bendib26a-data-strategies) |
 | [Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](https://proceedings.mlr.press/v306/chen26gd.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26gd-data-strategies) |
+| [The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](https://proceedings.mlr.press/v306/fagan26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#fagan26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -144,4 +150,8 @@ The linked short insights are available in Chinese.
 | [Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](https://proceedings.mlr.press/v306/chen26dy.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26dy-theory-statistics) |
 | [A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](https://proceedings.mlr.press/v306/chen26ef.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26ef-theory-statistics) |
 | [Offline Two-Player Zero-Sum Markov Games with KL Regularization](https://proceedings.mlr.press/v306/chen26gk.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26gk-theory-statistics) |
+| [Online Compatible Reward Identification from Preference Feedback](https://proceedings.mlr.press/v306/drago26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#drago26a-theory-statistics) |
+| [Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access](https://proceedings.mlr.press/v306/ebi26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ebi26a-theory-statistics) |
+| [When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs](https://proceedings.mlr.press/v306/escamilla26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#escamilla26a-theory-statistics) |
+| [Local Policies for Graph-Structured Markov Decision Processes](https://proceedings.mlr.press/v306/faizal26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#faizal26a-theory-statistics) |
 <!-- classification:end -->

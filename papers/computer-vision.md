@@ -28,6 +28,8 @@
 | <a id="chen26ga-architecture"></a>[Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | 压缩成像的连续光谱先验 | 在每一步展开重建中用物理编码掩码约束数据一致性，再以可查询波长的连续光谱场作先验。训练时只对有真值的离散波长切片计算误差，推理时可查询未参与训练的波长。 |
 | <a id="choy26a-architecture"></a>[SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](https://proceedings.mlr.press/v306/choy26a.html) | 开放词汇三维实例分割 | 将固定空间范围的窗口注意力和固定词元数的 Morton 序分段交替使用，以兼顾局部几何与分块计算。解码器直接用可学习查询从体素特征预测实例掩码。 |
 | <a id="ding26u-architecture"></a>[Native Spatio-Temporal 4D Variational Autoencoder](https://proceedings.mlr.press/v306/ding26u.html) | 原生四维体素自编码 | 让动态彩色体素始终携带三维位置与时间坐标，用稀疏卷积压缩空间，再用局部四维窗口注意力汇聚时空信息，使时间压缩率可调且保持显式坐标对应。 |
+| <a id="du26c-architecture"></a>[AesFormer: Transform Everyday Photos into Beautiful Memories](https://proceedings.mlr.press/v306/du26c.html) | 照片结构重构的动作条件编辑 | 先让规划模型把照片的构图、视角等问题转成结构化编辑动作，再用编辑动作和原图作为流匹配模型的条件。通过已对齐的欠佳与优质照片对监督编辑器，使摄影术语对应具体的像素变化。 |
+| <a id="duan26e-architecture"></a>[Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](https://proceedings.mlr.press/v306/duan26e.html) | 病理去焦模糊的局部积分算子 | 把全图核积分拆为互不重叠的空间单元，各单元用局部算子拟合不同模糊模式，再用数值通量在单元边界交换特征。这样允许局部核不连续，同时在预测清晰图像时保留跨块联系。 |
 
 <a id="by-modules"></a>
 
@@ -45,6 +47,7 @@
 | <a id="colamonaco26a-modules"></a>[Prototype-Grounded Concept Models for Verifiable Concept Alignment](https://proceedings.mlr.press/v306/colamonaco26a.html) | 视觉概念瓶颈的原型证据 | 把每个概念的得分回溯到匹配的局部图像原型，让读者能检查模型实际使用的概念证据。发现伪相关时可删除对应原型或重标其概念，也可以加入人工选择的图像块。 |
 | <a id="dhar26a-modules"></a>[Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?](https://proceedings.mlr.press/v306/dhar26a.html) | 卷积权重与特征的双空间扰动 | 由随机注意力支路输出噪声响应，一方面门控卷积核的随机扰动，另一方面在块末向特征显式注入噪声。递归与非递归支路共同调节逐步平滑和通道特异扰动，训练与推理均保留随机性。 |
 | <a id="dong26i-modules"></a>[PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors](https://proceedings.mlr.press/v306/dong26i.html) | 偏振物理先验的透明物体深度 | 用线偏振度和偏振角推断折射率与表面法向的天顶角、方位角，把这些物理量编码为几何特征，与 RGB 一起估计深度。在透明表面缺少可靠纹理时，偏振仍能提供方向线索。 |
+| <a id="duan26a-modules"></a>[MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](https://proceedings.mlr.press/v306/duan26a.html) | 红外可见光融合的卷积分支折叠 | 训练时用多卷积分支促进红外与可见光特征交互。部署时先将批归一化折入各分支卷积，再对齐核的空间尺寸并合并参数，用单个标准卷积执行等价变换。 |
 | <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | 视觉特征蒸馏 | 给小型 ViT 的特征输出接口或最后一个 Transformer 块加宽，以匹配教师模型的编码空间。 [详细解读](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -97,6 +100,9 @@
 | <a id="ding26t-training-strategies"></a>[SpeedVFI: One-step Diffusion for Efficient Video Frame Interpolation](https://proceedings.mlr.press/v306/ding26t.html) | 多帧插值扩散的一步蒸馏 | 蒸馏多步教师时，在分布匹配之外加入潜空间流匹配和像素重建监督，使一次去噪能够同时预测多个关键帧之间的过渡帧，并保留运动连续性。 |
 | <a id="dong26k-training-strategies"></a>[TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization](https://proceedings.mlr.press/v306/dong26k.html) | 高斯泼溅的误差引导像素采样 | 以多视角重建误差选择需要反传的图块和像素，降低对已重建区域的重复计算。在稀疏像素上加归一化互相关结构损失，为细节优化保留局部结构监督。 |
 | <a id="dong26l-training-strategies"></a>[RePack then Refine: Efficient Diffusion Transformers with Vision Foundation Models](https://proceedings.mlr.press/v306/dong26l.html) | 视觉基础特征的压缩生成与细化 | 先将高维视觉基础模型特征投影到紧凑潜空间，再在其上训练标准扩散 Transformer。最后用潜变量引导的细化器补回压缩损掉的高频细节，分开承担语义生成与纹理恢复。 |
+| <a id="du26g-training-strategies"></a>[Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction](https://proceedings.mlr.press/v306/du26g.html) | 统一图像取证的受限低秩适配 | 冻结 CLIP 视觉主干以保留图像类别的语义结构，仅在自注意力投影中加入可训练的低秩更新。让同一检测器在保留语义结构的同时拟合不同取证子域的伪造痕迹，减轻多域训练中的表征坍缩。 |
+| <a id="du26q-training-strategies"></a>[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://proceedings.mlr.press/v306/du26q.html) | 视频扩散的三维一致性偏好 | 从生成视频估计深度和相机位姿，把各帧反投影成三维点，再根据点投回其他帧的误差给视频打分。用这些分数构造同一条件下的偏好对，以 DPO 微调视频扩散模型。 |
+| <a id="esteves26a-training-strategies"></a>[Spectrally-Guided Diffusion Noise Schedules](https://proceedings.mlr.press/v306/esteves26a.html) | 由图像功率谱确定扩散日程 | 按训练图像的径向平均功率谱确定适用的噪声区间和各频段对应的噪声水平。生成时先按类别或提示采样功率谱参数，再构造对应日程，以减少少步去噪中的冗余。 |
 
 <a id="by-data-strategies"></a>
 
@@ -139,6 +145,8 @@
 | <a id="damblon26a-inference"></a>[SG2Loc: Sequential Visual Localization on 3D Scene Graphs](https://proceedings.mlr.press/v306/damblon26a.html) | 场景图粒子滤波定位 | 对每个候选相机位姿投影场景图中物体的粗网格，用可见物体与图像分块的语义相似度给粒子加权，再用连续帧反复更新位姿分布，无须存储密集参考图像库。 |
 | <a id="deng26a-inference"></a>[STORM: Segment, Track, and Object Re-Localization from a Single Image](https://proceedings.mlr.press/v306/deng26a.html) | 六维位姿跟踪的漂移重定位 | 用匹配和错配的观测—记忆对训练二元验证器。跟踪时平滑当前裁剪与高置信历史裁剪的兼容度，连续多帧低于阈值才触发重定位，有助于从遮挡造成的跟踪丢失中恢复。 |
 | <a id="deng26i-inference"></a>[Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking](https://proceedings.mlr.press/v306/deng26i.html) | 多概念遗忘的掩码合并 | 分别找出对各目标概念敏感的连接，再统计每条连接被多少个概念选中。合并掩码时保留跨许多概念重复出现的连接，只剪除对少数目标敏感的部分，以减轻多概念移除造成的生成退化。 |
+| <a id="duan26d-inference"></a>[SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion](https://proceedings.mlr.press/v306/duan26d.html) | 整流流反演的球面校正 | 将潜状态拆成模长与单位方向，沿径向速度更新模长，并在当前与预测方向间做球面线性插值。再用校正目标与当前状态的差合成步进速度，缓存后供后续步使用，以少量额外计算修正反演轨迹。 |
+| <a id="elbrachter26a-inference"></a>[MAD: Manifold Attracted Diffusion](https://proceedings.mlr.press/v306/elbrachter26a.html) | 带噪训练数据的扩散采样修正 | 在同一采样点用相邻噪声尺度的分数差分估计分数对尺度的导数，再将其与原分数结合更新样本，以压低带噪训练数据中偏离数据流形的小幅扰动。 |
 
 <a id="by-representation-learning"></a>
 
@@ -175,6 +183,8 @@
 | <a id="chen26az-evaluation"></a>[Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | 生成模型后门评测 | 后门可能对语义相同的改写提示共同触发，枚举固定字符串容易漏检。可用语义等价改写、部分语义和正常输入分别测触发、误触发和正常质量。 |
 | <a id="chen26gw-evaluation"></a>[Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://proceedings.mlr.press/v306/chen26gw.html) | 人脸数据集内在质量估计 | 用轻量代理模型提取人脸嵌入，联合计算近邻身份标签一致性和嵌入协方差谱的归一化有效秩，分别衡量局部标签可靠性与整体多样性，可在完整训练前筛查数据集。 |
 | <a id="chung26a-evaluation"></a>[Global Geometry Is Not Enough for Vision Representations](https://proceedings.mlr.press/v306/chung26a.html) | 视觉表征的组合绑定诊断 | 用输入到嵌入的局部雅可比奇异值计算有效秩，衡量模型对多少独立输入方向敏感。在被测视觉编码器上，这一数值与属性绑定表现相关，而全局嵌入几何指标的相关性接近零。 |
+| <a id="ebrahimpour-boroojeny26a-evaluation"></a>[Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](https://proceedings.mlr.press/v306/ebrahimpour-boroojeny26a.html) | 类别遗忘的近邻输出泄漏 | 用模型对近邻保留类别的输出训练判别器，并在完整重训模型上建立参照。遗忘类输入即使不再被判为该类，也可能因其在相似类别上的独特输出而被识别，因而可用此探测残留信息。 |
+| <a id="elisha26a-evaluation"></a>[ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](https://proceedings.mlr.press/v306/elisha26a.html) | 概念感知的显著性图 | 将类内发现的概念激活向量在空间维度做池化，用所得通道权重混合待解释图像的特征图，得到概念出现位置，再结合该概念对分类分数的贡献生成解释。 |
 
 <a id="by-theory-statistics"></a>
 

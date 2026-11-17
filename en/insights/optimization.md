@@ -23,6 +23,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](../../papers/llm.md#chen26hb-optimization) · 中文
 - [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](../../papers/llm.md#chong26a-optimization) · 中文
 - [Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression](../../papers/llm.md#ding26q-optimization) · 中文
+- [CoCoQuant: Breaking the Bandwidth Wall via Co-Optimized Communication and Computation Quantization](../../papers/llm.md#duanmu26a-optimization) · 中文
 
 ### Computer Vision
 
@@ -39,6 +40,7 @@ Gradient updates, parameterization, and optimization dynamics.
 ### Robotics
 
 - [Blending Neural Control Density Functions for Stabilization and Safety](../../papers/robotics.md#chaudhary26a-optimization) · 中文
+- [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../../papers/robotics.md#fan26g-optimization) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -114,6 +116,17 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FIBER: A Differentially Private Optimizer with Filter-Aware Innovation Bias Correction](../../papers/ml-foundations.md#dm26a-optimization) · 中文
 - [Romberg-Extrapolated Zeroth-Order Gradient Estimator: Higher-Order Bias Reduction with Preserved Leading Directional Variance](../../papers/ml-foundations.md#dong26j-optimization) · 中文
 - [Algorithmic Recourse of In-Context Learning for Tabular Data](../../papers/ml-foundations.md#dong26n-optimization) · 中文
+- [Fast kernel methods: Sobolev, physics-informed, and additive models](../../papers/ml-foundations.md#doumeche26a-optimization) · 中文
+- [Meta-Black-Box Optimization Can Do Search Guidance for Expensive Constrained Multi-Objective Optimization](../../papers/ml-foundations.md#du26r-optimization) · 中文
+- [A General Framework for Dynamic Consistent Submodular Maximization](../../papers/ml-foundations.md#duetting26a-optimization) · 中文
+- [Mixtures Closest To A Given Measure: A Semidefinite Programming Approach](../../papers/ml-foundations.md#durasinovic26a-optimization) · 中文
+- [Variational Entropic Optimal Transport](../../papers/ml-foundations.md#dyachenko26a-optimization) · 中文
+- [Learning Permutation from Structure Without Supervision](../../papers/ml-foundations.md#eisenberg26a-optimization) · 中文
+- [TSP with Predictions: Heatmap to Tour with Provable Guarantees](../../papers/ml-foundations.md#elias26a-optimization) · 中文
+- [Solving Positive Linear Programs with Differential Privacy](../../papers/ml-foundations.md#ene26a-optimization) · 中文
+- [Learning Randomized Reductions](../../papers/ml-foundations.md#erata26a-optimization) · 中文
+- [Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](../../papers/ml-foundations.md#erickson26a-optimization) · 中文
+- [Robust Bayesian Optimisation with Unbounded Corruptions](../../papers/ml-foundations.md#ezzerg26a-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -126,4 +139,6 @@ Gradient updates, parameterization, and optimization dynamics.
 
 - [Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](../../papers/scientific-ml.md#chen26ck-optimization) · 中文
 - [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](../../papers/scientific-ml.md#chen26fx-optimization) · 中文
+- [Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](../../papers/scientific-ml.md#du26n-optimization) · 中文
+- [Automatic Construction of Clinical Scoring Systems with LLM Agents](../../papers/scientific-ml.md#estevez26a-optimization) · 中文
 <!-- classification:end -->

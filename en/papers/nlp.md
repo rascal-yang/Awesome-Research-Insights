@@ -49,6 +49,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) | [Read insight (中文)](../../papers/nlp.md#banayeeanzade26a-data-strategies) |
 | [Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://proceedings.mlr.press/v306/cho26i.html) | [Read insight (中文)](../../papers/nlp.md#cho26i-data-strategies) |
+| [HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](https://proceedings.mlr.press/v306/dutta26a.html) | [Read insight (中文)](../../papers/nlp.md#dutta26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -60,6 +61,7 @@ The linked short insights are available in Chinese.
 | [PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) | [Read insight (中文)](../../papers/nlp.md#ai26b-inference) |
 | [IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) | [Read insight (中文)](../../papers/nlp.md#an26a-inference) |
 | [MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) | [Read insight (中文)](../../papers/nlp.md#chien26b-inference) |
+| [Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://proceedings.mlr.press/v306/du26i.html) | [Read insight (中文)](../../papers/nlp.md#du26i-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -80,6 +82,7 @@ The linked short insights are available in Chinese.
 | [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) | [Read insight (中文)](../../papers/nlp.md#chen26av-evaluation) |
 | [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | [Read insight (中文)](../../papers/nlp.md#chen26bf-evaluation) |
 | [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | [Read insight (中文)](../../papers/nlp.md#dehdashtian26a-evaluation) |
+| [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | [Read insight (中文)](../../papers/nlp.md#duarte26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

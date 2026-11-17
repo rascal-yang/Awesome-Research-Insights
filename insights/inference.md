@@ -66,6 +66,11 @@
 - [预算约束下的自适应群体提问](../papers/llm.md#ding26d-inference) · Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions
 - [端云推理的依赖感知子任务路由](../papers/llm.md#dong26g-inference) · HybridFlow: Resource-Adaptive Subtask Routing for Efficient Edge-Cloud LLM Inference
 - [以未来注意力训练 KV 淘汰](../papers/llm.md#dong26h-inference) · ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution
+- [反向关系的反射检索](../papers/llm.md#du26a-inference) · Chiral Symmetry Breaking in Transformers: A Group-Equivariant Framework for Addressing the Reversal Curse via Adjoint Manifold Mappings
+- [按推理贡献分配注意力缓存](../papers/llm.md#du26e-inference) · Which Heads Matter for Reasoning? RL-Guided KV Cache Compression
+- [值缓存的低秩阻尼解码](../papers/llm.md#du26m-inference) · Escaping Mode Collapse in LLM Generation via Geometric Regulation
+- [基于词元熵的动态搜索分支](../papers/llm.md#evans26a-inference) · Entropy-informed Decoding: Adaptive Information-Driven Branching
+- [用稀疏特征做流式安全检测](../papers/llm.md#fang26a-inference) · NExT-Guard: Streaming Safeguard without Token-Level Labels
 
 ### 计算机视觉
 
@@ -92,6 +97,8 @@
 - [场景图粒子滤波定位](../papers/computer-vision.md#damblon26a-inference) · SG2Loc: Sequential Visual Localization on 3D Scene Graphs
 - [六维位姿跟踪的漂移重定位](../papers/computer-vision.md#deng26a-inference) · STORM: Segment, Track, and Object Re-Localization from a Single Image
 - [多概念遗忘的掩码合并](../papers/computer-vision.md#deng26i-inference) · Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking
+- [整流流反演的球面校正](../papers/computer-vision.md#duan26d-inference) · SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion
+- [带噪训练数据的扩散采样修正](../papers/computer-vision.md#elbrachter26a-inference) · MAD: Manifold Attracted Diffusion
 
 ### 自然语言处理
 
@@ -99,6 +106,7 @@
 - [文本水印](../papers/nlp.md#ai26b-inference) · PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks
 - [句子级水印](../papers/nlp.md#an26a-inference) · IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection
 - [全双工语音的异步检索](../papers/nlp.md#chien26b-inference) · MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models
+- [语音情感的稀疏特征干预](../papers/nlp.md#du26i-inference) · Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech
 
 ### 强化学习
 
@@ -137,6 +145,7 @@
 - [视觉语言模型注意力通路门控](../papers/multimodal.md#cheng26d-inference) · Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating
 - [视觉词元删减后的注意力校准](../papers/multimodal.md#cho26b-inference) · Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference
 - [超高分遥感词元分区压缩](../papers/multimodal.md#dang26a-inference) · UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing
+- [多模态文档问答的内容图与规划图](../papers/multimodal.md#du26k-inference) · $G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA
 
 ### 机器学习基础与统计
 
@@ -148,6 +157,8 @@
 - [摊销采样器与粒子采样互训](../papers/ml-foundations.md#choi26l-inference) · Reinforced Sequential Monte Carlo for Amortised Sampling
 - [动态集成的路径聚合与早退](../papers/ml-foundations.md#colaco26a-inference) · Unifying Stacking and Cascading for Efficient Ensemble Inference
 - [离散扩散的免训练 logit 引导](../papers/ml-foundations.md#dou26a-inference) · Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction
+- [离散神经采样的历史势垒调节](../papers/ml-foundations.md#du26h-inference) · MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics
+- [无目标观测站点的时序扩散重建](../papers/ml-foundations.md#fan26d-inference) · ZeroDiff: Zero-Shot Time Series Reconstruction via Informed-Prior Diffusion
 
 ### 图学习与推荐
 

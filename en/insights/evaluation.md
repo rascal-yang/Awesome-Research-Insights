@@ -92,6 +92,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Evaluating LLMs When They Do Not Know the Answer: Statistical Evaluation of Mathematical Reasoning via Comparative Signals](../../papers/llm.md#dong26o-evaluation) · 中文
 - [Bits That Count: Quantifying and Predicting Capabilities of Language Models](../../papers/llm.md#donoway26a-evaluation) · 中文
 - [Rare Event Analysis of Large Language Models](../../papers/llm.md#dorman26a-evaluation) · 中文
+- [ProtocolBench: Which LLM MultiAgent Protocol to Choose?](../../papers/llm.md#du26l-evaluation) · 中文
+- ["very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](../../papers/llm.md#duan26b-evaluation) · 中文
+- [Evaluating Robustness of Reasoning Models on Parameterized Logical Problems](../../papers/llm.md#es-sebbani26a-evaluation) · 中文
 
 ### Computer Vision
 
@@ -103,6 +106,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](../../papers/computer-vision.md#chen26az-evaluation) · 中文
 - [Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](../../papers/computer-vision.md#chen26gw-evaluation) · 中文
 - [Global Geometry Is Not Enough for Vision Representations](../../papers/computer-vision.md#chung26a-evaluation) · 中文
+- [Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](../../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) · 中文
+- [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](../../papers/computer-vision.md#elisha26a-evaluation) · 中文
 
 ### Natural Language Processing
 
@@ -111,6 +116,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](../../papers/nlp.md#chen26av-evaluation) · 中文
 - [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](../../papers/nlp.md#chen26bf-evaluation) · 中文
 - [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](../../papers/nlp.md#dehdashtian26a-evaluation) · 中文
+- [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](../../papers/nlp.md#duarte26a-evaluation) · 中文
 
 ### Reinforcement Learning
 
@@ -143,6 +149,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](../../papers/multimodal.md#deng26g-evaluation) · 中文
 - [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](../../papers/multimodal.md#deng26w-evaluation) · 中文
 - [Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help](../../papers/multimodal.md#di26b-evaluation) · 中文
+- [NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web](../../papers/multimodal.md#fan26a-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -160,6 +167,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Leaderboard Incentives: Model Rankings under Strategic Post-Training](../../papers/ml-foundations.md#chen26gf-evaluation) · 中文
 - [Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization](../../papers/ml-foundations.md#cheng26i-evaluation) · 中文
 - [Probing the Inductive Bias of Neural Networks through Learning Random Cellular Automata](../../papers/ml-foundations.md#disselhoff26a-evaluation) · 中文
+- [CHB: A Diagnostic Toolkit for Hardness-Aware Clustering Evaluation](../../papers/ml-foundations.md#durani26a-evaluation) · 中文
+- [On the "Induction Bias" in Sequence Models](../../papers/ml-foundations.md#ebrahimi26a-evaluation) · 中文
+- [ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior](../../papers/ml-foundations.md#eichin26a-evaluation) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -180,4 +190,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Abstraction Induces the Brain Alignment of Language and Speech Models](../../papers/scientific-ml.md#cheng26l-evaluation) · 中文
 - [Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](../../papers/scientific-ml.md#dan26a-evaluation) · 中文
 - [FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications](../../papers/scientific-ml.md#didi26a-evaluation) · 中文
+- [(Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations](../../papers/scientific-ml.md#duan26f-evaluation) · 中文
+- [BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics](../../papers/scientific-ml.md#fa26a-evaluation) · 中文
 <!-- classification:end -->

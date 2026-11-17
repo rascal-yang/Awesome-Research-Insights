@@ -47,6 +47,7 @@
 | :--- | :--- | :--- |
 | <a id="banayeeanzade26a-data-strategies"></a>[EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) | 差分隐私合成数据 | 只提取和净化一次私有数据相对公共先验的激活偏移向量，之后用它引导解码。重复合成样本属于后处理，无需重复消耗隐私预算。 |
 | <a id="cho26i-data-strategies"></a>[Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://proceedings.mlr.press/v306/cho26i.html) | 临床文本改写的专家约束 | 先让轻量医学专家模型标出临床笔记中必须保留语义的词项，再把原文和词项约束交给通用模型改写，沿用原始标签。实验同时检查词元和医学概念，测量改写对关键内容的保留及幻觉引入。 |
+| <a id="dutta26a-data-strategies"></a>[HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](https://proceedings.mlr.press/v306/dutta26a.html) | 对比学习的困难负例组批 | 组批时用查询与候选负文档的相似度减去正、负文档相似度的加权项，优先选对查询有迷惑性但与正例不近重复的负例。再贪心最大化子模组批目标，让这种难负例随训练批次变化。 |
 
 <a id="by-inference"></a>
 
@@ -58,6 +59,7 @@
 | <a id="ai26b-inference"></a>[PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) | 文本水印 | 把水印放到语义簇层，通过密钥与语义历史同步随机性，让释义改写后仍可在语义层检测水印。 |
 | <a id="an26a-inference"></a>[IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) | 句子级水印 | 按模型和用户组织分层水印标识，用语义及句法信号筛选句子候选，再用分层检索缩小溯源检测范围。 |
 | <a id="chien26b-inference"></a>[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) | 全双工语音的异步检索 | 语音模型用特殊词元决定是否检索，把流式转录交给后台后继续生成。利用开始应答到说出关键信息的时间差，把返回的检索文本编码后注入后续生成，兼顾语音交互时延与事实性。 |
+| <a id="du26i-inference"></a>[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://proceedings.mlr.press/v306/du26i.html) | 语音情感的稀疏特征干预 | 用稀疏自编码器分解文本转语音模型的语义隐状态，筛出与特定情感相关的潜特征。生成时只增减这些特征的激活，沿各自的解码方向改变隐状态，无需调整主干权重。 |
 
 <a id="by-representation-learning"></a>
 
@@ -78,6 +80,7 @@
 | <a id="chen26av-evaluation"></a>[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) | 检索增强生成安全评测 | 文档中的注意力集中机制可以在不同检索器和生成器之间迁移。做投毒压力测试时，可单独评估复用型污染对检索排序和生成内容的影响。 |
 | <a id="chen26bf-evaluation"></a>[Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | 生成文本的惊异度转移检测 | 用代理语言模型单次前向计算词元的负对数条件概率，将其离散为状态，再统计相邻状态的转移。用广义 Jensen–Shannon 散度比较测试文本与预先建立的人类和机器文本转移矩阵。 |
 | <a id="dehdashtian26a-evaluation"></a>[FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | 音频深伪检测的多样性压力测试 | 在黑盒红队评测中同时把检测器反馈和候选音频间的多样性反馈放进上下文，令测试覆盖更多错误模式。论文在所测检测器上确认了部分失效跨模型迁移，且回收测试样本做微调能提高检测稳健性。 |
+| <a id="duarte26a-evaluation"></a>[Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | 同行评审来源的声明级检测 | 为目标评审配对同一论文、总体评分相同的多份 AI 参考评审，比较评价意见、建设建议等声明的最佳语义匹配，再加文本特征训练三分类器。在论文数据中，经 AI 润色的人类评审仍常保留有辨识度的判断内容。 |
 
 <a id="by-theory-statistics"></a>
 

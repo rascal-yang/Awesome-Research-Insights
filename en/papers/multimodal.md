@@ -56,6 +56,7 @@ The linked short insights are available in Chinese.
 | [VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](https://proceedings.mlr.press/v306/dai26j.html) | [Read insight (中文)](../../papers/multimodal.md#dai26j-reinforcement-learning) |
 | [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://proceedings.mlr.press/v306/deng26x.html) | [Read insight (中文)](../../papers/multimodal.md#deng26x-reinforcement-learning) |
 | [Learning Self-Correction in Vision–Language Models via Rollout Augmentation](https://proceedings.mlr.press/v306/ding26m.html) | [Read insight (中文)](../../papers/multimodal.md#ding26m-reinforcement-learning) |
+| [Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](https://proceedings.mlr.press/v306/du26j.html) | [Read insight (中文)](../../papers/multimodal.md#du26j-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -69,6 +70,8 @@ The linked short insights are available in Chinese.
 | [Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](https://proceedings.mlr.press/v306/chen26am.html) | [Read insight (中文)](../../papers/multimodal.md#chen26am-training-strategies) |
 | [Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](https://proceedings.mlr.press/v306/chen26gr.html) | [Read insight (中文)](../../papers/multimodal.md#chen26gr-training-strategies) |
 | [HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning](https://proceedings.mlr.press/v306/cheng26p.html) | [Read insight (中文)](../../papers/multimodal.md#cheng26p-training-strategies) |
+| [Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](https://proceedings.mlr.press/v306/du26t.html) | [Read insight (中文)](../../papers/multimodal.md#du26t-training-strategies) |
+| [MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](https://proceedings.mlr.press/v306/dufour26a.html) | [Read insight (中文)](../../papers/multimodal.md#dufour26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -83,6 +86,7 @@ The linked short insights are available in Chinese.
 | [From Diagrams to Code: Multilingual Programming with Visual Design](https://proceedings.mlr.press/v306/chai26b.html) | [Read insight (中文)](../../papers/multimodal.md#chai26b-data-strategies) |
 | [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](https://proceedings.mlr.press/v306/chen26c.html) | [Read insight (中文)](../../papers/multimodal.md#chen26c-data-strategies) |
 | [CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://proceedings.mlr.press/v306/chen26gb.html) | [Read insight (中文)](../../papers/multimodal.md#chen26gb-data-strategies) |
+| [Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness](https://proceedings.mlr.press/v306/fang26b.html) | [Read insight (中文)](../../papers/multimodal.md#fang26b-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -105,6 +109,7 @@ The linked short insights are available in Chinese.
 | [Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](https://proceedings.mlr.press/v306/cheng26d.html) | [Read insight (中文)](../../papers/multimodal.md#cheng26d-inference) |
 | [Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](https://proceedings.mlr.press/v306/cho26b.html) | [Read insight (中文)](../../papers/multimodal.md#cho26b-inference) |
 | [UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing](https://proceedings.mlr.press/v306/dang26a.html) | [Read insight (中文)](../../papers/multimodal.md#dang26a-inference) |
+| [$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://proceedings.mlr.press/v306/du26k.html) | [Read insight (中文)](../../papers/multimodal.md#du26k-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -117,6 +122,7 @@ The linked short insights are available in Chinese.
 | [MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction](https://proceedings.mlr.press/v306/chen26fo.html) | [Read insight (中文)](../../papers/multimodal.md#chen26fo-representation-learning) |
 | [Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](https://proceedings.mlr.press/v306/cheng26k.html) | [Read insight (中文)](../../papers/multimodal.md#cheng26k-representation-learning) |
 | [Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](https://proceedings.mlr.press/v306/choi26h.html) | [Read insight (中文)](../../papers/multimodal.md#choi26h-representation-learning) |
+| [Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](https://proceedings.mlr.press/v306/dutta26b.html) | [Read insight (中文)](../../papers/multimodal.md#dutta26b-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -141,6 +147,7 @@ The linked short insights are available in Chinese.
 | [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://proceedings.mlr.press/v306/deng26g.html) | [Read insight (中文)](../../papers/multimodal.md#deng26g-evaluation) |
 | [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://proceedings.mlr.press/v306/deng26w.html) | [Read insight (中文)](../../papers/multimodal.md#deng26w-evaluation) |
 | [Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help](https://proceedings.mlr.press/v306/di26b.html) | [Read insight (中文)](../../papers/multimodal.md#di26b-evaluation) |
+| [NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web](https://proceedings.mlr.press/v306/fan26a.html) | [Read insight (中文)](../../papers/multimodal.md#fan26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

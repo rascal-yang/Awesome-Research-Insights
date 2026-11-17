@@ -67,6 +67,7 @@ Aggregating rewards before group normalization can map different combinations to
 - [TGPO: Efficient Policy Optimization through Sequence Anchor and Information Gating](../../papers/llm.md#ding26i-reinforcement-learning) · 中文
 - [How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs](../../papers/llm.md#dong26f-reinforcement-learning) · 中文
 - [Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning](../../papers/llm.md#dou26c-reinforcement-learning) · 中文
+- [Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling](../../papers/llm.md#duan26c-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -118,6 +119,11 @@ Aggregating rewards before group normalization can map different combinations to
 - [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](../../papers/reinforcement-learning.md#dong26d-reinforcement-learning) · 中文
 - [Mean Flow Policy Optimization](../../papers/reinforcement-learning.md#dong26m-reinforcement-learning) · 中文
 - [Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy](../../papers/reinforcement-learning.md#doo26a-reinforcement-learning) · 中文
+- [Stabilizing PPO via Latent-Space Regularization and KDE-Driven Exploration](../../papers/reinforcement-learning.md#du26b-reinforcement-learning) · 中文
+- [IEC: When Information-Driven Exploration Meets Spectral Consensus via Primal–Dual Reward Regularization in Decentralized MARL](../../papers/reinforcement-learning.md#du26p-reinforcement-learning) · 中文
+- [Commit to the Bit: Reactive Reinforcement Learning Done Right](../../papers/reinforcement-learning.md#eberhard26b-reinforcement-learning) · 中文
+- [Moment Matching Q-Learning](../../papers/reinforcement-learning.md#edgar26a-reinforcement-learning) · 中文
+- [Stochastic Linear Bandits with Parameter Noise](../../papers/reinforcement-learning.md#ezer26a-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -133,6 +139,7 @@ Aggregating rewards before group normalization can map different combinations to
 - [VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](../../papers/multimodal.md#dai26j-reinforcement-learning) · 中文
 - [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](../../papers/multimodal.md#deng26x-reinforcement-learning) · 中文
 - [Learning Self-Correction in Vision–Language Models via Rollout Augmentation](../../papers/multimodal.md#ding26m-reinforcement-learning) · 中文
+- [Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](../../papers/multimodal.md#du26j-reinforcement-learning) · 中文
 
 ### Graph Learning and Recommendation
 

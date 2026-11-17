@@ -69,6 +69,7 @@
 - [序列锚定的 token 策略更新](../papers/llm.md#ding26i-reinforcement-learning) · TGPO: Efficient Policy Optimization through Sequence Anchor and Information Gating
 - [面向答案的信息流信用分配](../papers/llm.md#dong26f-reinforcement-learning) · How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs
 - [高层计划引导逐步推理](../papers/llm.md#dou26c-reinforcement-learning) · Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning
+- [贝叶斯非负因子奖励建模](../papers/llm.md#duan26c-reinforcement-learning) · Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling
 
 ### 计算机视觉
 
@@ -120,6 +121,11 @@
 - [大规模 Q 网络的注意力熵控制](../papers/reinforcement-learning.md#dong26d-reinforcement-learning) · TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse
 - [少步 MeanFlow 策略优化](../papers/reinforcement-learning.md#dong26m-reinforcement-learning) · Mean Flow Policy Optimization
 - [流策略的中间状态价值优化](../papers/reinforcement-learning.md#doo26a-reinforcement-learning) · Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy
+- [PPO 的潜空间新颖性奖励](../papers/reinforcement-learning.md#du26b-reinforcement-learning) · Stabilizing PPO via Latent-Space Regularization and KDE-Driven Exploration
+- [去中心化探索与共识的原始对偶调节](../papers/reinforcement-learning.md#du26p-reinforcement-learning) · IEC: When Information-Driven Exploration Meets Spectral Consensus via Primal–Dual Reward Regularization in Decentralized MARL
+- [状态聚合下的动作承诺 Q 学习](../papers/reinforcement-learning.md#eberhard26b-reinforcement-learning) · Commit to the Bit: Reactive Reinforcement Learning Done Right
+- [基于矩匹配的少步动作采样](../papers/reinforcement-learning.md#edgar26a-reinforcement-learning) · Moment Matching Q-Learning
+- [参数噪声下的方差自适应探索](../papers/reinforcement-learning.md#ezer26a-reinforcement-learning) · Stochastic Linear Bandits with Parameter Noise
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -135,6 +141,7 @@
 - [视频分割的像素级策略反馈](../papers/multimodal.md#dai26j-reinforcement-learning) · VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation
 - [主动空间推理的可执行中间奖励](../papers/multimodal.md#deng26x-reinforcement-learning) · Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models
 - [错到对的自纠正轨迹重组](../papers/multimodal.md#ding26m-reinforcement-learning) · Learning Self-Correction in Vision–Language Models via Rollout Augmentation
+- [长尾回归的批级一致相关奖励](../papers/multimodal.md#du26j-reinforcement-learning) · Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression
 
 ### 图学习与推荐
 

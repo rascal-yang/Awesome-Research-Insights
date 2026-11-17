@@ -16,6 +16,8 @@ Model-wide design and information flow.
 - [Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism](../../papers/llm.md#cui26c-architecture) · 中文
 - [Context-level Language Modeling by Learning Predictive Context Embeddings](../../papers/llm.md#dai26g-architecture) · 中文
 - [Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models](../../papers/llm.md#deng26v-architecture) · 中文
+- [Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures](../../papers/llm.md#elango26a-architecture) · 中文
+- [Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing](../../papers/llm.md#fagnou26a-architecture) · 中文
 
 ### Computer Vision
 
@@ -26,6 +28,8 @@ Model-wide design and information flow.
 - [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](../../papers/computer-vision.md#chen26ga-architecture) · 中文
 - [SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](../../papers/computer-vision.md#choy26a-architecture) · 中文
 - [Native Spatio-Temporal 4D Variational Autoencoder](../../papers/computer-vision.md#ding26u-architecture) · 中文
+- [AesFormer: Transform Everyday Photos into Beautiful Memories](../../papers/computer-vision.md#du26c-architecture) · 中文
+- [Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](../../papers/computer-vision.md#duan26e-architecture) · 中文
 
 ### Natural Language Processing
 
@@ -62,12 +66,15 @@ Model-wide design and information flow.
 - [KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables](../../papers/ml-foundations.md#cheng26t-architecture) · 中文
 - [Transformer Circuits Can Realize Clustering Algorithms](../../papers/ml-foundations.md#clarkson26a-architecture) · 中文
 - [Mixture of Concept Bottleneck Experts](../../papers/ml-foundations.md#de-santis26a-architecture) · 中文
+- [FedEMoE: Improving Personalization on Heterogeneous Federated Learning via Elastic Mixture of Experts Architecture](../../papers/ml-foundations.md#du26d-architecture) · 中文
+- [Rethinking Time-Series Imputation as Conditional Inference along Temporal Evolution](../../papers/ml-foundations.md#fan26h-architecture) · 中文
 
 ### Graph Learning and Recommendation
 
 - [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](../../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) · 中文
 - [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](../../papers/graph-and-recommendation.md#chen26al-architecture) · 中文
 - [Adaptive Memory Retention in Dynamic Graphs](../../papers/graph-and-recommendation.md#de-castelli26a-architecture) · 中文
+- [Graph Neural Dynamics via Learned Energy and Tangential Flows](../../papers/graph-and-recommendation.md#eliasof26a-architecture) · 中文
 
 ### Scientific Machine Learning
 
@@ -92,4 +99,5 @@ Model-wide design and information flow.
 - [Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](../../papers/scientific-ml.md#dagli26a-architecture) · 中文
 - [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](../../papers/scientific-ml.md#dai26a-architecture) · 中文
 - [Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems](../../papers/scientific-ml.md#deng26c-architecture) · 中文
+- [Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink](../../papers/scientific-ml.md#elsborg26a-architecture) · 中文
 <!-- classification:end -->

@@ -35,6 +35,10 @@
 - [置信度加权的 LoRA 秩规划](../papers/llm.md#ding26h-training-strategies) · CSPLoRA: Confidence-Guided Structural Planning for Low-Rank Adaptation
 - [LoRA 的双因素层间秩分配](../papers/llm.md#ding26y-training-strategies) · COBRA: Contribution-Based Bayesian Rank Allocation for Parameter-Efficient Fine-Tuning
 - [联邦微调的索引重叠后门筛查](../papers/llm.md#dogani26a-training-strategies) · INDEXGUARD: Index-only Backdoor Vetting for Secure Federated PEFT of Large Language Models
+- [逐层和逐时调度随机深度](../papers/llm.md#elhoushi26a-training-strategies) · Don’t Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference
+- [保留用户决策权的建议训练](../papers/llm.md#ellis26a-training-strategies) · Training LLM Agents to Empower Humans
+- [FP8 注意力的谱范数缩放](../papers/llm.md#emadi26a-training-strategies) · Rank-Aware Spectral Bounds on Attention Logits for Stable Low-Precision Training
+- [长思维链蒸馏的梯度谱筛选](../papers/llm.md#fan26e-training-strategies) · Uncovering the Gradient Geometry of Long CoT: A Spectral-guided Approach to Reasoning Distillation
 
 ### 计算机视觉
 
@@ -50,6 +54,9 @@
 - [多帧插值扩散的一步蒸馏](../papers/computer-vision.md#ding26t-training-strategies) · SpeedVFI: One-step Diffusion for Efficient Video Frame Interpolation
 - [高斯泼溅的误差引导像素采样](../papers/computer-vision.md#dong26k-training-strategies) · TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization
 - [视觉基础特征的压缩生成与细化](../papers/computer-vision.md#dong26l-training-strategies) · RePack then Refine: Efficient Diffusion Transformers with Vision Foundation Models
+- [统一图像取证的受限低秩适配](../papers/computer-vision.md#du26g-training-strategies) · Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction
+- [视频扩散的三维一致性偏好](../papers/computer-vision.md#du26q-training-strategies) · VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation
+- [由图像功率谱确定扩散日程](../papers/computer-vision.md#esteves26a-training-strategies) · Spectrally-Guided Diffusion Noise Schedules
 
 ### 机器人学
 
@@ -64,6 +71,8 @@
 - [视觉语言蒸馏与量化](../papers/multimodal.md#chen26am-training-strategies) · Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs
 - [多模态蒸馏的视觉与转移对齐](../papers/multimodal.md#chen26gr-training-strategies) · Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions
 - [双曲空间中的 CLIP 持续适配](../papers/multimodal.md#cheng26p-training-strategies) · HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning
+- [权重差迁移语音指令能力](../papers/multimodal.md#du26t-training-strategies) · Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning
+- [多奖励条件的图像生成预训练](../papers/multimodal.md#dufour26a-training-strategies) · MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency
 
 ### 机器学习基础与统计
 

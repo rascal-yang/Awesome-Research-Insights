@@ -20,6 +20,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Barriers to Counterfactual Credit Attribution for Autoregressive Models](../../papers/llm.md#cohen26e-theory-statistics) · 中文
 - [Emergent Alignment via Competition](../../papers/llm.md#collina26a-theory-statistics) · 中文
 - [Innovation: An Almost Characterization of Hallucination](../../papers/llm.md#das26c-theory-statistics) · 中文
+- [Quantifying Biases in LLM-as-a-Judge Evaluations](../../papers/llm.md#dubois26a-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -52,6 +53,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](../../papers/reinforcement-learning.md#chen26dy-theory-statistics) · 中文
 - [A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](../../papers/reinforcement-learning.md#chen26ef-theory-statistics) · 中文
 - [Offline Two-Player Zero-Sum Markov Games with KL Regularization](../../papers/reinforcement-learning.md#chen26gk-theory-statistics) · 中文
+- [Online Compatible Reward Identification from Preference Feedback](../../papers/reinforcement-learning.md#drago26a-theory-statistics) · 中文
+- [Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access](../../papers/reinforcement-learning.md#ebi26a-theory-statistics) · 中文
+- [When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs](../../papers/reinforcement-learning.md#escamilla26a-theory-statistics) · 中文
+- [Local Policies for Graph-Structured Markov Decision Processes](../../papers/reinforcement-learning.md#faizal26a-theory-statistics) · 中文
 
 ### Multimodal Learning
 
@@ -176,6 +181,14 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Identifying Partially Observed Causal Models from Heterogeneous/Nonstationary Data](../../papers/ml-foundations.md#dong26a-theory-statistics) · 中文
 - [Why ReLU? A Bit-Model Dichotomy for Deep Network Training](../../papers/ml-foundations.md#doron-arad26a-theory-statistics) · 中文
 - [Conformal Calibration Transfer](../../papers/ml-foundations.md#doula26a-theory-statistics) · 中文
+- [Feasible Fusion: Constrained Joint Estimation under Structural Non-Overlap](../../papers/ml-foundations.md#du26s-theory-statistics) · 中文
+- [Tightening the Score Matching Gap for Diffusion Models](../../papers/ml-foundations.md#dupuis26a-theory-statistics) · 中文
+- [From Welfare to Utility: Generalized Objectives in Budget-Feasible Procurement](../../papers/ml-foundations.md#eden26a-theory-statistics) · 中文
+- [Desirable Effort Fairness and Optimality Trade-offs in Strategic Learning](../../papers/ml-foundations.md#efthymiou26a-theory-statistics) · 中文
+- [Relational Structural Causal Models](../../papers/ml-foundations.md#ejaz26a-theory-statistics) · 中文
+- [Keeping a Secret Requires a Good Memory: Unconditional Streaming Lower-Bounds for Differentially Private Algorithms](../../papers/ml-foundations.md#epasto26a-theory-statistics) · 中文
+- [Width Independent Bounds for the Local Lipschitz Constant of Deep Neural Networks at Random Initialization and after Lazy Training](../../papers/ml-foundations.md#evangelidis26a-theory-statistics) · 中文
+- [Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks](../../papers/ml-foundations.md#evans26b-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -185,6 +198,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On the Theoretical Limitations of Embedding-based Link Prediction](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) · 中文
 - [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) · 中文
 - [Multicalibration Yields Better Matchings](../../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) · 中文
+- [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](../../papers/graph-and-recommendation.md#fan26c-theory-statistics) · 中文
 
 ### Scientific Machine Learning
 
@@ -192,4 +206,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](../../papers/scientific-ml.md#bao26a-theory-statistics) · 中文
 - [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../papers/scientific-ml.md#berman26a-theory-statistics) · 中文
 - [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../../papers/scientific-ml.md#ding26c-theory-statistics) · 中文
+- [Learning Treatment Allocations with Risk Control Under Partial Identifiability](../../papers/scientific-ml.md#ek26a-theory-statistics) · 中文
 <!-- classification:end -->

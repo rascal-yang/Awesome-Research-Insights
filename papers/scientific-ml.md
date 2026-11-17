@@ -34,6 +34,7 @@
 | <a id="dagli26a-architecture"></a>[Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](https://proceedings.mlr.press/v306/dagli26a.html) | 机械属性场的自适应稀疏体素 | 由共享 Transformer 自粗到细处理待细分体素，让每个候选预测空置、保留或继续细分，并让子体素继承父级隐状态。保留的非空体素携带材料潜变量，可在不同分辨率下恢复杨氏模量、泊松比与密度。 |
 | <a id="dai26a-architecture"></a>[TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](https://proceedings.mlr.press/v306/dai26a.html) | 时间驱动空间网络参数 | 用小网络给空间网络各层的权重组和偏置组分别生成时间坐标，同组参数共享该坐标但各有仿射系数。由此可随时间改变整个空间映射，又省去大超网络逐项生成全部参数的成本。 |
 | <a id="deng26c-architecture"></a>[Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems](https://proceedings.mlr.press/v306/deng26c.html) | 工况条件下的分层图流匹配 | 将流体网格及其物理工况作为条件，用多层图上的消息传递预测流匹配向量场。构建粗图时兼顾邻接关系与局部点密度，使模型能在不规则网格上同时处理局部梯度和远距离作用。 |
+| <a id="elsborg26a-architecture"></a>[Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink](https://proceedings.mlr.press/v306/elsborg26a.html) | 周期晶体电荷密度的傅里叶重建 | 在实空间拟合局部各向异性高斯，从闭式傅里叶变换直接得到倒空间平面波系数，再以一次逆 FFT 重建整胞周期电荷密度，省去逐点累加周期镜像。 |
 
 <a id="by-modules"></a>
 
@@ -62,6 +63,8 @@
 | <a id="chen26fk-loss-functions"></a>[Self-Supervised Dynamical System Representations for Physiological Time-Series](https://proceedings.mlr.press/v306/chen26fk.html) | 生理时序的跨窗重建监督 | 用同一动力过程的一个窗口估计系统表征，再让该表征参与重建另一个窗口。跨窗共享的生成规律可以帮助重建，各窗口独有的初值和过程噪声难以迁移，从而促使编码器保留可迁移信息。 |
 | <a id="chowdhury26b-loss-functions"></a>[S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation](https://proceedings.mlr.press/v306/chowdhury26b.html) | 医学分割的形态自适应损失 | 从真值掩码计算管状程度、紧致度、边界不规则性和相对面积，用这些量逐样本调节区域、边界等损失的权重，并与数据集层面学习的权重结合。 |
 | <a id="ding26w-loss-functions"></a>[Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation](https://proceedings.mlr.press/v306/ding26w.html) | 固定边界等离子体平衡监督 | 求解非线性 Grad–Shafranov 方程时，将少量求解器平衡场作为监督锚点，与离散方程残差共同训练神经算子。实验中，锚点有助于避开错误解支，联合训练则减轻跨形状与多参数偏移的尾部误差。 |
+| <a id="eberhard26a-loss-functions"></a>[Derivative Informed Learning of Exchange-Correlation Functionals](https://proceedings.mlr.press/v306/eberhard26a.html) | 交换关联泛函的导数监督 | 在能量、电子密度监督之外，对可容许密度矩阵的 Grassmann 流形切方向匹配参考泛函的梯度及 Hessian。前两阶响应匹配训练泛函在自洽解附近的变化，且论文观察到 Hessian 监督改善 TDDFT 激发能预测。 |
+| <a id="estevez26b-loss-functions"></a>[CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](https://proceedings.mlr.press/v306/estevez26b.html) | 保留配体受体关系的细胞传输 | 用发送细胞的配体活性与接收细胞的受体活性构成有向多类型交互张量，在融合 Gromov–Wasserstein 对齐中同时比较表达特征和这些交互结构，以连接不同时间的单细胞快照。 |
 
 <a id="by-optimization"></a>
 
@@ -71,6 +74,8 @@
 | :--- | :--- | :--- |
 | <a id="chen26ck-optimization"></a>[Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](https://proceedings.mlr.press/v306/chen26ck.html) | 广义特征值积分轮廓 | 对厄米广义特征值问题，先用神经算子快速预测实谱，再用核密度估计找出谱簇间的低密度谷底，以此划分积分轮廓并预留边距。目标特征值由后续围道积分求解器计算。 |
 | <a id="chen26fx-optimization"></a>[LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](https://proceedings.mlr.press/v306/chen26fx.html) | 语言模型预测与真实实验的门控 | 用高斯过程分别建模语言模型的低成本预测以及它与真实实验的偏差。贝叶斯优化选点后，只有偏差项占预测方差的比例超过阈值才调用昂贵实验，其余位置用低成本预测更新代理。 |
+| <a id="du26n-optimization"></a>[Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](https://proceedings.mlr.press/v306/du26n.html) | 扩散重建的对偶反馈与频谱均衡 | 用 ADMM 的对偶变量累积测量一致性与去噪先验的失配。送入预训练去噪器前，估计残差功率谱并在能量不足的频段补噪，使输入残差更接近去噪器预期的白噪声。 |
+| <a id="estevez26a-optimization"></a>[Automatic Construction of Clinical Scoring Systems with LLM Agents](https://proceedings.mlr.press/v306/estevez26a.html) | 临床二元规则的等权清单搜索 | 用语言模型按预定义语法提议可执行的二元规则，再用数据检验区分度和规则冗余并筛成有长度上限的等权清单，最后选择总分阈值。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -142,6 +147,7 @@
 | <a id="chen26db-representation-learning"></a>[Protein Fold Classification at Scale: Benchmarking and Pretraining](https://proceedings.mlr.press/v306/chen26db.html) | 高掩码蛋白质结构预训练 | 随机掩去最高 90% 的残基，以 SE(3) 不变编码器处理可见结构，让轻量解码器重建骨架坐标。在去冗余的 TEDBench 上，这种自监督表征提升了折叠拓扑分类表现。 |
 | <a id="cheng26m-representation-learning"></a>[Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](https://proceedings.mlr.press/v306/cheng26m.html) | 多视角电子密度图表征 | 把三维电子密度转为多视角图像，共享视觉编码器提取各视角特征后池化，并用跨尺度物理任务预训练。论文在有机光伏和发色团数据上验证了这种输入在降低电子密度建模成本的同时仍能预测材料属性。 |
 | <a id="dilip26a-representation-learning"></a>[Adaptive Protein Tokenization](https://proceedings.mlr.press/v306/dilip26a.html) | 蛋白结构的可截断全局分词 | 训练时随机截断蛋白结构量化 token 序列的后缀，并用保留的前缀调节流匹配解码器。这样早期 token 优先承载大小和整体结构等信息，追加 token 可逐步恢复更多几何细节。 |
+| <a id="du26f-representation-learning"></a>[BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](https://proceedings.mlr.press/v306/du26f.html) | 生理时序的分频幅相对齐 | 对生理时间序列特征做傅里叶变换，从样本频谱生成各频带的调制量，分别调整振幅和相位。以频带而非单个频点为单位对齐，减轻受试者间幅相差异对分类的影响。 |
 
 <a id="by-evaluation"></a>
 
@@ -161,6 +167,8 @@
 | <a id="cheng26l-evaluation"></a>[Abstraction Induces the Brain Alignment of Language and Speech Models](https://proceedings.mlr.press/v306/cheng26l.html) | 语言与语音层表征的脑响应对齐 | 逐层测量表征内在维度并预测 fMRI 和 ECoG 信号，发现高维度的中间层通常更贴合脑响应。以脑响应为目标微调时，内在维度和可解码的语义信息也随之增加。 |
 | <a id="dan26a-evaluation"></a>[Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](https://proceedings.mlr.press/v306/dan26a.html) | 长程脑电癫痫检测的泛化评测 | 用独立留出的连续脑电记录做容器化盲测，按发作事件及每日误报计分，并单看每名受试者的排名。该测试中最高事件 F1 为 32%，总体领先的算法在受试者之间仍有较大波动。 |
 | <a id="didi26a-evaluation"></a>[FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications](https://proceedings.mlr.press/v306/didi26a.html) | 蛋白适应度的外推切分 | 分别按突变数、突变位置、具体替换、适应度和野生型骨架构造训练与测试切分。例如按适应度用低分变体训练、高分变体测试，可衡量模型能否外推到后续优化所需的高适应度区间。 |
+| <a id="duan26f-evaluation"></a>[(Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations](https://proceedings.mlr.press/v306/duan26f.html) | 生物基础模型的双类扰动诊断 | 分别对蛋白结构加入未解析环缺失等生物数据扰动，并在原数据固定时改动建图的邻居数或截断半径。用边集合 Jaccard 相似度等指标量化建图变化，再与输出波动对照，可区分数据采集误差和处理流程敏感性。 |
+| <a id="fa26a-evaluation"></a>[BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics](https://proceedings.mlr.press/v306/fa26a.html) | 生物信息学智能体的流程稳健性评测 | 为端到端任务指定可检查的产物，并记录运行轨迹。在损坏输入、误导文件和冗长提示下分别重测，可发现智能体虽能搭对高层流程，仍可能在具体输入取舍或错误恢复上出错。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -172,4 +180,5 @@
 | <a id="bao26a-theory-statistics"></a>[Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](https://proceedings.mlr.press/v306/bao26a.html) | 量子稀疏依赖学习 | 只有 k 个相关位的经典分布可用约 2^k log(n) / ε² 个样本学习。量子态的相应结构只在 k 个量子位上偏离最大混合态，也可利用这种低维依赖。 |
 | <a id="berman26a-theory-statistics"></a>[Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](https://proceedings.mlr.press/v306/berman26a.html) | 群体动力学反演 | 用连续性方程的弱形式约束总体分布演化，并允许非梯度速度场，可重建最小动能梯度流无法表达的输运。 |
 | <a id="ding26c-theory-statistics"></a>[Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](https://proceedings.mlr.press/v306/ding26c.html) | 多病风险的贝叶斯超图 | 以潜在疾病组为超边，使某个风险因子可在多条超边上有不同效应，再汇总疾病所属超边的贡献。用分层先验分别表示超边是否存在、疾病是否属于超边及因子是否作用于超边，便于报告各项后验不确定性。 |
+| <a id="ek26a-theory-statistics"></a>[Learning Treatment Allocations with Risk Control Under Partial Identifiability](https://proceedings.mlr.press/v306/ek26a.html) | 部分可识别的治疗分配风险 | 按给定的倾向赔率偏差范围为未获益治疗比例计算风险上界。先用一部分数据训练候选分配策略，再用独立样本的上置信界筛选满足风险容忍度的候选。 |
 <!-- classification:end -->

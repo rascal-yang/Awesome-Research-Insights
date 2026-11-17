@@ -20,6 +20,7 @@
 - [自回归生成的反事实来源归因界限](../papers/llm.md#cohen26e-theory-statistics) · Barriers to Counterfactual Credit Attribution for Autoregressive Models
 - [多智能体竞争下的凸包对齐条件](../papers/llm.md#collina26a-theory-statistics) · Emergent Alignment via Competition
 - [未见输出概率与幻觉下界](../papers/llm.md#das26c-theory-statistics) · Innovation: An Almost Characterization of Hallucination
+- [贝叶斯模型估计评委家族偏差](../papers/llm.md#dubois26a-theory-statistics) · Quantifying Biases in LLM-as-a-Judge Evaluations
 
 ### 计算机视觉
 
@@ -52,6 +53,10 @@
 - [重置噪声与有效折扣](../papers/reinforcement-learning.md#chen26dy-theory-statistics) · Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity
 - [因果公平约束下的上下文老虎机](../papers/reinforcement-learning.md#chen26ef-theory-statistics) · A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits
 - [离线零和博弈的 KL 正则估计](../papers/reinforcement-learning.md#chen26gk-theory-statistics) · Offline Two-Player Zero-Sum Markov Games with KL Regularization
+- [偏好查询基的方差瓶颈](../papers/reinforcement-learning.md#drago26a-theory-statistics) · Online Compatible Reward Identification from Preference Feedback
+- [部分可观测强化学习的特权评论家](../papers/reinforcement-learning.md#ebi26a-theory-statistics) · Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access
+- [线性 MDP 的奖励投毒可行性](../papers/reinforcement-learning.md#escamilla26a-theory-statistics) · When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs
+- [图结构 MDP 的局部策略近似](../papers/reinforcement-learning.md#faizal26a-theory-statistics) · Local Policies for Graph-Structured Markov Decision Processes
 
 ### 多模态学习
 
@@ -176,6 +181,14 @@
 - [非平稳潜变量模型的条件协方差秩](../papers/ml-foundations.md#dong26a-theory-statistics) · Identifying Partially Observed Causal Models from Heterogeneous/Nonstationary Data
 - [有限位长下激活函数的训练复杂度](../papers/ml-foundations.md#doron-arad26a-theory-statistics) · Why ReLU? A Bit-Model Dichotomy for Deep Network Training
 - [无标签配对观测下的共形校准迁移](../papers/ml-foundations.md#doula26a-theory-statistics) · Conformal Calibration Transfer
+- [处理分配不重叠下的数据融合](../papers/ml-foundations.md#du26s-theory-statistics) · Feasible Fusion: Constrained Joint Estimation under Structural Non-Overlap
+- [扩散分数误差的时间加权界](../papers/ml-foundations.md#dupuis26a-theory-statistics) · Tightening the Score Matching Gap for Diffusion Models
+- [预算采购中的效用最优报价](../papers/ml-foundations.md#eden26a-theory-statistics) · From Welfare to Utility: Generalized Objectives in Budget-Feasible Procurement
+- [策略分类中的可取努力公平约束](../papers/ml-foundations.md#efthymiou26a-theory-statistics) · Desirable Effort Fairness and Optimality Trade-offs in Strategic Learning
+- [新对象组合上的关系因果识别](../papers/ml-foundations.md#ejaz26a-theory-statistics) · Relational Structural Causal Models
+- [用户级私有流式计数的空间下界](../papers/ml-foundations.md#epasto26a-theory-statistics) · Keeping a Secret Requires a Good Memory: Unconditional Streaming Lower-Bounds for Differentially Private Algorithms
+- [懒训练的宽度无关局部 Lipschitz 界](../papers/ml-foundations.md#evangelidis26a-theory-statistics) · Width Independent Bounds for the Local Lipschitz Constant of Deep Neural Networks at Random Initialization and after Lazy Training
+- [单层最小权重扰动与压缩诊断](../papers/ml-foundations.md#evans26b-theory-statistics) · Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks
 
 ### 图学习与推荐
 
@@ -185,6 +198,7 @@
 - [知识图谱链路预测](../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) · On the Theoretical Limitations of Embedding-based Link Prediction
 - [关系嵌入表达力](../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) · Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models
 - [用匹配决策约束边权多重校准](../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) · Multicalibration Yields Better Matchings
+- [网络抽样偏好的福利校正](../papers/graph-and-recommendation.md#fan26c-theory-statistics) · Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation
 
 ### 科学机器学习
 
@@ -192,4 +206,5 @@
 - [量子稀疏依赖学习](../papers/scientific-ml.md#bao26a-theory-statistics) · Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits
 - [群体动力学反演](../papers/scientific-ml.md#berman26a-theory-statistics) · Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems
 - [多病风险的贝叶斯超图](../papers/scientific-ml.md#ding26c-theory-statistics) · Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference
+- [部分可识别的治疗分配风险](../papers/scientific-ml.md#ek26a-theory-statistics) · Learning Treatment Allocations with Risk Control Under Partial Identifiability
 <!-- classification:end -->

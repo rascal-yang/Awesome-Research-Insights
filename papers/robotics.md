@@ -52,6 +52,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="chaudhary26a-optimization"></a>[Blending Neural Control Density Functions for Stabilization and Safety](https://proceedings.mlr.press/v306/chaudhary26a.html) | 安全控制器混合 | 用可积的神经密度函数作为几乎处处稳定的证书，可平滑混合多个控制器并保住各自吸引域的并集，再与控制障碍函数结合处理安全。 |
+| <a id="fan26g-optimization"></a>[De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](https://proceedings.mlr.press/v306/fan26g.html) | 动态 SLAM 的残差梯度隔离 | 用仅含静态模型的渲染残差监督运动预测分支，并在残差处停止梯度，使掩码学习无法靠改变背景几何减小损失。高静态残差可作为移动区域线索，用于调节后续静态和动态重建。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -81,6 +82,7 @@
 | <a id="chen26ab-data-strategies"></a>[PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | 物理可用的桌面场景 | 先按锚点依赖顺序放置物体，再用可微 SDF 在测试时优化碰撞并约束语义关系，使生成布局更容易直接载入物理仿真。 |
 | <a id="chen26cy-data-strategies"></a>[Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | 固定预算下的机器人示范分配 | 先在少数核心条件重复采集示范以稳定策略，再按教师强制下的动作偏差找出高风险边界，补采示范并用受约束的残差更新扩展覆盖。真机实验中，同等预算下的成功率优于分散采样。 |
 | <a id="choi26i-data-strategies"></a>[EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) | 具身动作风险的组合数据构造 | 为同类场景组合不同危险配置与动作，包括在危险仍存在时改用不会触发它的动作。将图像和动作配对并标注风险，使监督信号针对特定交互的后果，也覆盖容易引发误报的安全动作。 |
+| <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) | 跨来源点云的 VLA 训练 | 在统一训练流程中混合仿真、深度传感器和模型估计的点云，并以形状和尺度变化扩展输入。将学到的三维表征与对应的二维特征融合，可减轻部署时深度来源和尺度差异对操作策略的影响。 |
 
 <a id="by-inference"></a>
 
@@ -99,6 +101,14 @@
 | <a id="choi26c-inference"></a>[Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) | 机器人技能代码的局部重绑定 | 把技能的控制流程保存为可执行代码，部署时用本体比对目标机器人的能力和原语 API。对确定的冲突，让小语言模型只填补受影响的代码片段，依赖现场感知的条件留到执行时检验和调整。 |
 | <a id="chun26a-inference"></a>[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) | 函数级 KV 缓存拼接与修补 | 缓存已验证函数的接口和实现。合成机器人代码策略时，将相关接口的 KV 状态拼入上下文并链接现成函数，执行反馈指出需调整的位置后，只重解码受影响的代码片段。 |
 | <a id="ding26r-inference"></a>[AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) | 导航中的熵驱动推理 | 将当前动作词元的平均熵与历史熵走势作为触发推理的先验，用奖励兼顾接近目标与推理成本，再逐步交由学习到的策略选择何时推理。 |
+
+<a id="by-representation-learning"></a>
+
+### 表征学习
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="fan26f-representation-learning"></a>[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) | 跨机器人共享的视觉运动码 | 用双分支 VQ-VAE 将图像动态和机器人动作压入共享离散码本，再用这些码引导跨本体 VLA 预训练。统一的中间运动表示让不同机器人或视觉来源的动态知识可服务于下游控制。 |
 
 <a id="by-evaluation"></a>
 

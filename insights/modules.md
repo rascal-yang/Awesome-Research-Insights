@@ -75,6 +75,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [逐词元全局注意力路由](../papers/llm.md#choudhary26a-modules) · Learning When to Attend: Conditional Memory Access for Long-Context LLMs
 - [连分式因果 token 混合](../papers/llm.md#dhurandhar26a-modules) · CoFrGeNet: Continued Fraction Architectures for Language Generation
 - [基于专家权重谱的免训练路由](../papers/llm.md#do26a-modules) · Eigenvectors of Experts are Training-free Non-collapsing Routers
+- [键相似度预调节注意力](../papers/llm.md#duvvuri26a-modules) · LUCID: Attention with Preconditioned Representations
 
 ### 计算机视觉
 
@@ -88,6 +89,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [视觉概念瓶颈的原型证据](../papers/computer-vision.md#colamonaco26a-modules) · Prototype-Grounded Concept Models for Verifiable Concept Alignment
 - [卷积权重与特征的双空间扰动](../papers/computer-vision.md#dhar26a-modules) · Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?
 - [偏振物理先验的透明物体深度](../papers/computer-vision.md#dong26i-modules) · PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors
+- [红外可见光融合的卷积分支折叠](../papers/computer-vision.md#duan26a-modules) · MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization
 - [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 ### 自然语言处理
@@ -121,6 +123,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [时间序列的后续轨迹检索](../papers/ml-foundations.md#chong26c-modules) · Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting
 - [无需旧样本的持续学习适配器](../papers/ml-foundations.md#cosentino26a-modules) · PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning
 - [词元与专家的联合稀疏路由](../papers/ml-foundations.md#do26b-modules) · Rethinking Sparse Mixture of Experts from a Unified Perspective
+- [GPU 友好的块置换随机投影](../papers/ml-foundations.md#dwaraknath26a-modules) · FlashSketch: Sketch-Kernel Co-Design for Fast Sparse Sketching on GPUs
+- [可微的逐样本特征选择](../papers/ml-foundations.md#ellinson26a-modules) · Hide&Seek: Learning to Explain in an End-to-End Differentiable Network
 
 ### 图学习与推荐
 

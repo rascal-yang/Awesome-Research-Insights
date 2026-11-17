@@ -83,6 +83,11 @@
 | <a id="dong26d-reinforcement-learning"></a>[TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://proceedings.mlr.press/v306/dong26d.html) | 大规模 Q 网络的注意力熵控制 | 按层将 Transformer Q 网络的注意力熵拉向目标水平，减轻模型加宽时注意力权重过度集中引发的训练不稳。在所测任务上，这使更大价值网络能带来性能增益。 |
 | <a id="dong26m-reinforcement-learning"></a>[Mean Flow Policy Optimization](https://proceedings.mlr.press/v306/dong26m.html) | 少步 MeanFlow 策略优化 | 将动作策略参数化为预测区间平均流速的 MeanFlow 模型，并在软策略迭代中处理动作似然和熵正则策略改进。少步生成保留了动作分布的表达能力，同时在所测控制任务中降低了训练与推理时间。 |
 | <a id="doo26a-reinforcement-learning"></a>[Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy](https://proceedings.mlr.press/v306/doo26a.html) | 流策略的中间状态价值优化 | 沿确定性动作流把终端动作价值传给中间潜状态，学习中间价值函数并以其梯度更新速度场。这样可在策略优化时省去对完整数值积分路径反传。 |
+| <a id="du26b-reinforcement-learning"></a>[Stabilizing PPO via Latent-Space Regularization and KDE-Driven Exploration](https://proceedings.mlr.press/v306/du26b.html) | PPO 的潜空间新颖性奖励 | 用 critic 隐表示做高斯核密度估计，以负对数密度衡量新颖性。只在转移到的状态超过当批分位阈值时增加该动作的优势，使探索奖励集中于低密度区域。 |
+| <a id="du26p-reinforcement-learning"></a>[IEC: When Information-Driven Exploration Meets Spectral Consensus via Primal–Dual Reward Regularization in Decentralized MARL](https://proceedings.mlr.press/v306/du26p.html) | 去中心化探索与共识的原始对偶调节 | 在信息增益和状态新颖性奖励之外，用通信图上邻居策略的分歧约束协作。若本批分歧超过预算就提高惩罚乘子，将探索强度与协调压力的平衡交给原始对偶更新。 |
+| <a id="eberhard26b-reinforcement-learning"></a>[Commit to the Bit: Reactive Reinforcement Learning Done Right](https://proceedings.mlr.press/v306/eberhard26b.html) | 状态聚合下的动作承诺 Q 学习 | 进入某个观测特征时选定一个动作，只要观测特征未变就继续执行，直到跨到新特征才重新采样。在有限环境、确定观测映射及论文的重连鲁棒性等条件下，学习得到的贪心策略几乎必然是最优反应式策略。 |
+| <a id="edgar26a-reinforcement-learning"></a>[Moment Matching Q-Learning](https://proceedings.mlr.press/v306/edgar26a.html) | 基于矩匹配的少步动作采样 | 用 DDIM 插值从两个噪声时刻生成同一目标时刻的动作样本，以最大均值差异让两条采样路径的分布对齐。策略训练用该分布一致性作行为克隆约束，同时用 Q 值提高动作质量。 |
+| <a id="ezer26a-reinforcement-learning"></a>[Stochastic Linear Bandits with Parameter Noise](https://proceedings.mlr.press/v306/ezer26a.html) | 参数噪声下的方差自适应探索 | 对包含标准基向量的动作集，先逐坐标用分组均值的中位数估计期望奖励参数，再按参数估计精度与奖励方差决定何时转为利用。在协方差已知的论文设定中达到相应单位球遗憾界，只差对数因子。 |
 | <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -93,6 +98,7 @@
 | :--- | :--- | :--- |
 | <a id="bendib26a-data-strategies"></a>[Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) | 零样本离线强化学习 | 从离线数据中的真实行为提取任务向量作为训练任务分布，替换任意随机向量，有助于策略泛化到未见奖励。 |
 | <a id="chen26gd-data-strategies"></a>[Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](https://proceedings.mlr.press/v306/chen26gd.html) | 跨域离线强化学习的软筛选 | 用非平衡最优传输匹配源域与目标域的转移样本，以广义 KL 惩罚替代固定总运输量约束。按每条源转移的传输边际给离线训练加权，该权重随到目标域的最小匹配代价指数衰减。 |
+| <a id="fagan26a-data-strategies"></a>[The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](https://proceedings.mlr.press/v306/fagan26a.html) | 数学搜索课程的中间难度实例 | 在 Andrews–Curtis 搜索中构造可解但需要多步操作的实例，填补简单例与几乎无法解决例之间的数据缺口。将一组基本变换合成替换动作，可在稀疏成功反馈下缩短策略需要搜索的决策链。 |
 
 <a id="by-inference"></a>
 
@@ -144,4 +150,8 @@
 | <a id="chen26dy-theory-statistics"></a>[Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](https://proceedings.mlr.press/v306/chen26dy.html) | 重置噪声与有效折扣 | 若每步以概率 1−α 从固定分布重置，且重置概率和分布均与当前状态及动作无关，则折扣为 γ 的含噪 MDP 与折扣为 αγ 的原 MDP 共享最优策略。有效规划范围因此可由保留原转移的概率刻画。 |
 | <a id="chen26ef-theory-statistics"></a>[A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](https://proceedings.mlr.press/v306/chen26ef.html) | 因果公平约束下的上下文老虎机 | 分别约束受保护属性的反事实直接、间接及伪关联效应，用在线估计和探索补偿项近似可行域，再把镜像下降得到的策略投影进去。在论文的因果识别和约束可行条件下，累积遗憾和约束违反均可次线性增长。 |
 | <a id="chen26gk-theory-statistics"></a>[Offline Two-Player Zero-Sum Markov Games with KL Regularization](https://proceedings.mlr.press/v306/chen26gk.html) | 离线零和博弈的 KL 正则估计 | 从末阶段逆推，用最小二乘估计价值，每阶段对双方策略加入相对参考策略的 KL 正则后求鞍点。在数据满足单方偏离覆盖、函数类条件且正则强度与参考策略满足联合约束时，正则博弈的对偶间隙随样本数按约 1/n 衰减。 |
+| <a id="drago26a-theory-statistics"></a>[Online Compatible Reward Identification from Preference Feedback](https://proceedings.mlr.press/v306/drago26a.html) | 偏好查询基的方差瓶颈 | 在 Bradley–Terry 比较下，用一组线性独立的轨迹差来识别兼容奖励。以集合中最小的伯努利反馈方差衡量其可估计性，优先选择能覆盖奖励方向且比较结果未过度饱和的查询基。 |
+| <a id="ebi26a-theory-statistics"></a>[Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access](https://proceedings.mlr.press/v306/ebi26a.html) | 部分可观测强化学习的特权评论家 | 让 actor 仅使用观测历史，critic 在训练时另接收任意依赖环境状态的特权信号。给定历史时，对额外信号求条件平均即可回到原动作价值，因此在论文的信息结构下，所得策略梯度等于标准梯度。 |
+| <a id="escamilla26a-theory-statistics"></a>[When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs](https://proceedings.mlr.press/v306/escamilla26a.html) | 线性 MDP 的奖励投毒可行性 | 将有限步线性 MDP 的可攻击性化为凸二次规划，最大化目标动作对竞争动作的最小价值间隔，同时保留目标策略所访问动作上的奖励。按论文的预算条件，最优间隔为正恰好对应可攻击。 |
+| <a id="faizal26a-theory-statistics"></a>[Local Policies for Graph-Structured Markov Decision Processes](https://proceedings.mlr.press/v306/faizal26a.html) | 图结构 MDP 的局部策略近似 | 用 Dobrushin 型矩阵控制节点状态和动作扰动向远处传播的幅度。满足论文的稳定性条件时，每个智能体仅读取 m 跳邻域就可近似全局最优，性能差距随 m 指数下降。 |
 <!-- classification:end -->

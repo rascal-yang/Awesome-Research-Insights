@@ -38,6 +38,10 @@
 
 - [控制相关表征](../papers/reinforcement-learning.md#bastankhah26a-representation-learning) · Learning to Perceive the World Through Control: Empowerment-Based Representation Learning
 
+### 机器人学
+
+- [跨机器人共享的视觉运动码](../papers/robotics.md#fan26f-representation-learning) · XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations
+
 ### 多模态学习
 
 - [不完整多视图聚类](../papers/multimodal.md#chen26ag-representation-learning) · Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering
@@ -45,6 +49,7 @@
 - [利用地理邻接的半监督街景对比学习](../papers/multimodal.md#chen26fo-representation-learning) · MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction
 - [结构化代理的跨模态哈希](../papers/multimodal.md#cheng26k-representation-learning) · Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval
 - [可稀疏选择的多模态专家表征](../papers/multimodal.md#choi26h-representation-learning) · Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts
+- [传感通道文本调制时序表征](../papers/multimodal.md#dutta26b-representation-learning) · Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings
 
 ### 机器学习基础与统计
 
@@ -59,6 +64,7 @@
 - [跨编码器向量匹配](../papers/ml-foundations.md#chen26h-representation-learning) · Vector Linking via Cross-Model Local Isometric Consistency
 - [线性因果表征](../papers/ml-foundations.md#chen26cj-representation-learning) · Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement
 - [在变换群上发现数据对称性](../papers/ml-foundations.md#chen26dg-representation-learning) · Discovering Symmetry Groups with Flow Matching
+- [连续演化因果机制的混合轨迹](../papers/ml-foundations.md#fan26i-representation-learning) · TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning
 
 ### 图学习与推荐
 
@@ -68,6 +74,8 @@
 - [图节点边界的自适应对比更新](../papers/graph-and-recommendation.md#chen26fu-representation-learning) · Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement
 - [短随机游走拼接图特征](../papers/graph-and-recommendation.md#choromanski26a-representation-learning) · Computationally-efficient Graph Modeling with Refined Graph Random Features
 - [有向图的参数化幂迭代聚类](../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) · Parametrized Power-Iteration Clustering for Directed Graphs
+- [图分布的跨环境重心对齐](../papers/graph-and-recommendation.md#du26o-representation-learning) · From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters
+- [动态图的展开归一化拉普拉斯嵌入](../papers/graph-and-recommendation.md#ezoe26a-representation-learning) · Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation
 
 ### 科学机器学习
 
@@ -81,4 +89,5 @@
 - [高掩码蛋白质结构预训练](../papers/scientific-ml.md#chen26db-representation-learning) · Protein Fold Classification at Scale: Benchmarking and Pretraining
 - [多视角电子密度图表征](../papers/scientific-ml.md#cheng26m-representation-learning) · Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction
 - [蛋白结构的可截断全局分词](../papers/scientific-ml.md#dilip26a-representation-learning) · Adaptive Protein Tokenization
+- [生理时序的分频幅相对齐](../papers/scientific-ml.md#du26f-representation-learning) · BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series
 <!-- classification:end -->

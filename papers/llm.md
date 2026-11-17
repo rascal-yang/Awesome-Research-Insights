@@ -20,6 +20,8 @@
 | <a id="cui26c-architecture"></a>[Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism](https://proceedings.mlr.press/v306/cui26c.html) | 混合专家的按头并行 | 先把每个词元投影并切成子词元，在路由之前按头做一次固定分布的全互换，再在各卡本地运行每个头的路由器和专家。通信量由头分片确定，避免随每个词元激活的专家数增长。 |
 | <a id="dai26g-architecture"></a>[Context-level Language Modeling by Learning Predictive Context Embeddings](https://proceedings.mlr.press/v306/dai26g.html) | 预测分块上下文辅助逐词解码 | 把已完成块的 token 隐状态汇聚成上下文向量，因果地预测下一块向量并广播给该块的 token 解码器。损失仍是逐 token 交叉熵，块内各位置的梯度共同监督上下文预测，推理时只在块边界更新预测向量。 |
 | <a id="deng26v-architecture"></a>[Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models](https://proceedings.mlr.press/v306/deng26v.html) | 长上下文的块级混合注意力 | 用块内输入的池化特征为不同注意力算子打分，在同一层内为各块分别选择 Gated DeltaNet 或 softmax 注意力。将部分词元压入固定状态，同时为其余词元保留可直接读取的键值。 |
+| <a id="elango26a-architecture"></a>[Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures](https://proceedings.mlr.press/v306/elango26a.html) | 低维潜空间专家计算 | 先把词元投影到低维空间，再分发给路由专家，聚合后映射回原宽度。保留专家的中间层宽度可维持非线性计算容量，同时减少专家权重读取和跨设备传输量。 |
+| <a id="fagnou26a-architecture"></a>[Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing](https://proceedings.mlr.press/v306/fagnou26a.html) | 可结构化高阶递推的词元混合 | 把当前输入到输出的直接混合与历史输出的递推混合分开参数化，使当前输出能依赖多个历史状态。对回连结构施加约束，可显式控制解码与缓存开销，并调节模型可表示的依赖。 |
 
 <a id="by-modules"></a>
 
@@ -37,6 +39,7 @@
 | <a id="choudhary26a-modules"></a>[Learning When to Attend: Conditional Memory Access for Long-Context LLMs](https://proceedings.mlr.press/v306/choudhary26a.html) | 逐词元全局注意力路由 | 先用滑动窗口注意力生成局部表征，再由轻量路由器逐词元决定是否查询全量上下文，使只需局部信息的位置省去昂贵的全局注意力计算。 |
 | <a id="dhurandhar26a-modules"></a>[CoFrGeNet: Continued Fraction Architectures for Language Generation](https://proceedings.mlr.press/v306/dhurandhar26a.html) | 连分式因果 token 混合 | 用单变量连分式单元拟合各 token 上的非线性变换，再以三角线性层实现只向后续位置传递信息的混合。对两个连分式分支逐元素相乘可补入跨变量交互，构成多头注意力的参数更少的替换模块。 |
 | <a id="do26a-modules"></a>[Eigenvectors of Experts are Training-free Non-collapsing Routers](https://proceedings.mlr.press/v306/do26a.html) | 基于专家权重谱的免训练路由 | 从各专家前馈权重的 Gram 矩阵提取特征向量，选取最接近原路由嵌入的一组并求均值，构成专家谱表征。可直接用其对输入词元打分，缓解路由集中到少数专家的问题。 |
+| <a id="duvvuri26a-modules"></a>[LUCID: Attention with Preconditioned Representations](https://proceedings.mlr.press/v306/duvvuri26a.html) | 键相似度预调节注意力 | 将注意力写成键值关联的检索，从累加关联改为更新当前检索值的平方误差。其等价注意力形式利用指数化的键间相似度预调节概率，减少相关键重复积累干扰，改善已测试的长上下文检索。 |
 
 <a id="by-loss-functions"></a>
 
@@ -51,6 +54,7 @@
 | <a id="chen26el-loss-functions"></a>[Discrete Tilt Matching](https://proceedings.mlr.press/v306/chen26el.html) | 离散扩散的奖励倾斜匹配 | 从基础掩码扩散模型采样完整序列，按终局奖励的指数给去掩码交叉熵加权，并用基础模型的去掩码分布构造控制变量。该目标在加权条件均值保持不变时匹配奖励倾斜后的后验，无需求序列边际似然。 |
 | <a id="chen26hc-loss-functions"></a>[$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](https://proceedings.mlr.press/v306/chen26hc.html) | 自博弈偏好语义校准 | 依据偏好对中两条回答的语义相似度，将裁判给出的胜率目标向 0.5 收缩。回答越接近，越少用其表面胜负作为学习信号，以减轻自博弈反复放大噪声偏好的问题。 |
 | <a id="dasgupta26a-loss-functions"></a>[Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget](https://proceedings.mlr.press/v306/dasgupta26a.html) | 语言模型蒸馏的尾部 KL | 按教师概率排名将前 K 个词元与尾部分开，对尾部重新归一化后单独计算 KL，使低概率词元的相对分布在蒸馏梯度中仍有影响。 |
+| <a id="fan26j-loss-functions"></a>[Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs](https://proceedings.mlr.press/v306/fan26j.html) | 按目标词元概率调节微调梯度 | 在负对数似然与概率加权的更新之间调节梯度随目标词元概率的曲线。这样可削弱低概率噪声词元的过大更新，同时为真正难学的新词元保留监督信号。 |
 
 <a id="by-optimization"></a>
 
@@ -72,6 +76,7 @@
 | <a id="chen26hb-optimization"></a>[$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](https://proceedings.mlr.press/v306/chen26hb.html) | 求解器程序树进化 | 把完整求解器作为进化树节点，允许语言模型编辑局部策略、重写入口流程或融合两个父程序，再用执行反馈修补缺失依赖与运行错误，从而搜索可运行的整体算法。 |
 | <a id="chong26a-optimization"></a>[NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](https://proceedings.mlr.press/v306/chong26a.html) | 低秩二值权重量化 | 将每个线性层的权重近似为两块低秩二值矩阵的乘积，并保留输入和输出通道的浮点尺度。用 ADMM 初始化分解，再按块和整模型的重建误差微调，降低秩可将原始每权重的平均存储压到 1 比特以下。 |
 | <a id="ding26q-optimization"></a>[Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression](https://proceedings.mlr.press/v306/ding26q.html) | MoE 通道贡献覆盖剪枝 | 以归因近似估计每个专家内通道的贡献，预计算按分排序的前缀和，再在全局预算内按贡献覆盖分配各层和专家保留的通道数，使重要专家中的冗余通道也可被剪除。 |
+| <a id="duanmu26a-optimization"></a>[CoCoQuant: Breaking the Bandwidth Wall via Co-Optimized Communication and Computation Quantization](https://proceedings.mlr.press/v306/duanmu26a.html) | 张量并行的计算通信联合量化 | 对独立逐 token 的 RMSNorm 等操作，将其移到 AllGather 前的分片阶段，让运算先读高精度局部累加结果，再量化用于通信。跨层位宽由整数规划分配，联合考虑硬件延迟与精度敏感度。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -112,6 +117,7 @@
 | <a id="ding26i-reinforcement-learning"></a>[TGPO: Efficient Policy Optimization through Sequence Anchor and Information Gating](https://proceedings.mlr.press/v306/ding26i.html) | 序列锚定的 token 策略更新 | 以 token 重要性比值的几何均值作为序列锚点，并用截断后对数比值的均值漂移和序列内方差估计可信度。更新偏移较大或不一致时，门控减弱 token 级修正，同时保留该轨迹的序列级更新。 |
 | <a id="dong26f-reinforcement-learning"></a>[How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs](https://proceedings.mlr.press/v306/dong26f.html) | 面向答案的信息流信用分配 | 把注意力权重转成词元有向图的边容量，保留能流向答案区域的路径并在中间节点守恒。用主路径上各词元的流量重加权强化学习奖励，突出跨越多步传递信息的推理位置。 |
 | <a id="dou26c-reinforcement-learning"></a>[Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning](https://proceedings.mlr.press/v306/dou26c.html) | 高层计划引导逐步推理 | 先把完整推理轨迹压缩为短计划，用计划到推导的顺序做监督微调。随后在 GRPO 中同时给最终答案和计划质量反馈，使模型在输出细节前先组织全局推理路径。 |
+| <a id="duan26c-reinforcement-learning"></a>[Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling](https://proceedings.mlr.press/v306/duan26c.html) | 贝叶斯非负因子奖励建模 | 将每个回答的奖励表示为局部非负激活与全局因子权重的内积，再用 Bradley–Terry 似然拟合成对偏好。对两层因子施加稀疏性，使单个回答只激活少数维度，并限制全局虚假相关对奖励的影响。 |
 
 <a id="by-training-strategies"></a>
 
@@ -145,6 +151,10 @@
 | <a id="ding26h-training-strategies"></a>[CSPLoRA: Confidence-Guided Structural Planning for Low-Rank Adaptation](https://proceedings.mlr.press/v306/ding26h.html) | 置信度加权的 LoRA 秩规划 | 先按预测真标签的低置信度对探测样本加权，再用加权损失的一阶 Taylor 显著性估计各模块的重要性。对这些分数对数平滑后按总预算分配秩，同一任务与模型的探测结果可供不同兼容预算复用。 |
 | <a id="ding26y-training-strategies"></a>[COBRA: Contribution-Based Bayesian Rank Allocation for Parameter-Efficient Fine-Tuning](https://proceedings.mlr.press/v306/ding26y.html) | LoRA 的双因素层间秩分配 | 将路径积分归因得到的层输出贡献与该层权重的任务梯度均方根相乘，作为贝叶斯秩分配的先验，在参数预算内同时考虑各层对预测的作用和适配需求。 |
 | <a id="dogani26a-training-strategies"></a>[INDEXGUARD: Index-only Backdoor Vetting for Secure Federated PEFT of Large Language Models](https://proceedings.mlr.press/v306/dogani26a.html) | 联邦微调的索引重叠后门筛查 | 每个客户端上报适配器更新幅度最大的 K 个坐标索引。服务端按索引重叠度聚类，并在聚合前筛查内部异常一致的非多数簇，识别采用共同触发器投毒的客户端群组。 |
+| <a id="elhoushi26a-training-strategies"></a>[Don’t Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference](https://proceedings.mlr.press/v306/elhoushi26a.html) | 逐层和逐时调度随机深度 | 在等训练算力的实验中，让较深的层有更高的跳过概率，并在训练过程中将概率衰减至零，可在节省预训练 FLOPs 的同时保持相近或更低的验证损失。 |
+| <a id="ellis26a-training-strategies"></a>[Training LLM Agents to Empower Humans](https://proceedings.mlr.press/v306/ellis26a.html) | 保留用户决策权的建议训练 | 从既有人写文本截取补全示例，用模型估计后续片段的累计负对数似然，并在越过阈值前截断。以这些保留高不确定性决策的短补全微调助手，使建议在该类分叉处更早交回控制权。 |
+| <a id="emadi26a-training-strategies"></a>[Rank-Aware Spectral Bounds on Attention Logits for Stable Low-Precision Training](https://proceedings.mlr.press/v306/emadi26a.html) | FP8 注意力的谱范数缩放 | 用隐式幂迭代估计查询与键权重乘积的谱范数，结合低秩注意力分数的尾界为各层设置量化尺度，可在观测到激活峰值前约束注意力 logits 的溢出风险。 |
+| <a id="fan26e-training-strategies"></a>[Uncovering the Gradient Geometry of Long CoT: A Spectral-guided Approach to Reasoning Distillation](https://proceedings.mlr.press/v306/fan26e.html) | 长思维链蒸馏的梯度谱筛选 | 分解推理步骤的梯度以识别跨样本共享的低秩方向，再按各步骤在该子空间的强度分配蒸馏更新。将训练集中到方向一致的步骤，可减弱相互冲突或冗余的推理文本对学生模型的影响。 |
 
 <a id="by-data-strategies"></a>
 
@@ -167,6 +177,7 @@
 | <a id="chen26gi-data-strategies"></a>[From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment](https://proceedings.mlr.press/v306/chen26gi.html) | 任务敏感注意力头筛样 | 以轻量代理微调前后的复合投影权重分布之 Wasserstein 距离筛选任务敏感头，再用这些头对上下文示例的注意力给示例表现加权。用选中的数据微调时，只更新同一组头。 |
 | <a id="chen26gj-data-strategies"></a>[DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](https://proceedings.mlr.press/v306/chen26gj.html) | 从工具执行轨迹反推训练任务 | 先从大工具池抽取工具组合并实际执行，累积可回放的调用与返回值，再从这些证据反推有可验证答案的任务。分别改变工具池覆盖和单任务工具组合，可在保留可执行依据的同时扩充调用结构。 |
 | <a id="dionisopoulos26a-data-strategies"></a>[How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess](https://proceedings.mlr.press/v306/dionisopoulos26a.html) | 棋类后训练数据的推理忠实度 | 国际象棋实验中，监督阶段提供多步最佳走法及末端局面估值，使强化学习较稳定并保留推理与落子的一致性。只提供单步最佳走法的模型也能提高棋力，但强化学习后解释更容易与最终走法脱节。 |
+| <a id="fabre26a-data-strategies"></a>[Understanding Data Temporality Impact on Large Language Models Pre-training](https://proceedings.mlr.press/v306/fabre26a.html) | 语言模型预训练语料的时间排序 | 用同源网页快照分别做按时间顺序和打乱顺序的预训练，再按事实有效日期测问答。6B 模型对照中，顺序训练对较新事实的定位更精确，通用理解表现与打乱训练相近。 |
 
 <a id="by-inference"></a>
 
@@ -231,6 +242,11 @@
 | <a id="ding26d-inference"></a>[Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://proceedings.mlr.press/v306/ding26d.html) | 预算约束下的自适应群体提问 | 用异构图汇总人口属性与不完整答复，并以模型对保留问题的预测熵表征未知群体属性的不确定性。每一轮同时选择问题和受访者，使预算内预期减少的预测熵尽可能大。 |
 | <a id="dong26g-inference"></a>[HybridFlow: Resource-Adaptive Subtask Routing for Efficient Edge-Cloud LLM Inference](https://proceedings.mlr.press/v306/dong26g.html) | 端云推理的依赖感知子任务路由 | 用有向无环图描述子任务依赖，依赖齐备的子任务并行执行。按预测的准确率增益与调用费用、时延的折中动态选择端侧或云端，可避免为低收益子任务消耗云端预算。 |
 | <a id="dong26h-inference"></a>[ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution](https://proceedings.mlr.press/v306/dong26h.html) | 以未来注意力训练 KV 淘汰 | 训练时用后续注意力为可淘汰键值对提供标签，再用成对排序损失学可在线运行的打分器。将淘汰写成序列决策，用 GRPO 抑制低熵词元上的语言模型损失增幅。 |
+| <a id="du26a-inference"></a>[Chiral Symmetry Breaking in Transformers: A Group-Equivariant Framework for Addressing the Reversal Curse via Adjoint Manifold Mappings](https://proceedings.mlr.press/v306/du26a.html) | 反向关系的反射检索 | 把主语与宾语的隐空间映射参数化为可学习的 Householder 反射，保证连续施加两次回到原点。反向查询时用反射后的宾语表示从固定候选实体库中检索主语，以读出潜在的逆关系。 |
+| <a id="du26e-inference"></a>[Which Heads Matter for Reasoning? RL-Guided KV Cache Compression](https://proceedings.mlr.press/v306/du26e.html) | 按推理贡献分配注意力缓存 | 冻结语言模型，仅用答案正确性奖励和稀疏惩罚训练各注意力头的缓存门控。推理时为门控选出的关键头保留完整 KV 缓存，其余头使用定长缓存，在论文的推理任务中降低缓存开销。 |
+| <a id="du26m-inference"></a>[Escaping Mode Collapse in LLM Generation via Geometric Regulation](https://proceedings.mlr.press/v306/du26m.html) | 值缓存的低秩阻尼解码 | 从值缓存的广义特征问题找出时间上长期持续的方向，在生成时对这些方向做低秩阻尼。论文的低熵解码实验显示，这可减轻隐状态集中在少数方向所伴随的重复和多样性下降。 |
+| <a id="evans26a-inference"></a>[Entropy-informed Decoding: Adaptive Information-Driven Branching](https://proceedings.mlr.press/v306/evans26a.html) | 基于词元熵的动态搜索分支 | 每步根据下一词元分布的熵分配扩展数，在高熵前缀保留更多候选，在低熵前缀接近贪心。用经长度惩罚的累计对数概率给候选排序，以同一扩展预算覆盖更多不确定决策。 |
+| <a id="fang26a-inference"></a>[NExT-Guard: Streaming Safeguard without Token-Level Labels](https://proceedings.mlr.press/v306/fang26a.html) | 用稀疏特征做流式安全检测 | 用样本级安全标签挑选与风险相关的稀疏自编码器特征，部署时监视生成过程中逐词元的特征激活并按阈值拦截。在所测风险类别中，可用已有模型的表征获得流式检测信号。 |
 
 <a id="by-representation-learning"></a>
 
@@ -331,6 +347,9 @@
 | <a id="dong26o-evaluation"></a>[Evaluating LLMs When They Do Not Know the Answer: Statistical Evaluation of Mathematical Reasoning via Comparative Signals](https://proceedings.mlr.press/v306/dong26o.html) | 用成对推理比较降低评测方差 | 让待测模型比较两条辅助解题轨迹，再将比较结果作为控制变量，用有效影响函数修正基于正确答案的准确率估计。在论文的设定下，一步估计量达到半参数效率界，有助于稳定小样本模型排名。 |
 | <a id="donoway26a-evaluation"></a>[Bits That Count: Quantifying and Predicting Capabilities of Language Models](https://proceedings.mlr.press/v306/donoway26a.html) | 用超额描述长度区分能力诱发与学习 | 累积模型在线学习时相对泛化损失基线多用的编码比特，估计训练吸收的可泛化信息。论文观察到，诱发已有能力所需的信息量远少于学习新能力，也用这一测量解释 LoRA 何时触及可存信息上限。 |
 | <a id="dorman26a-evaluation"></a>[Rare Event Analysis of Large Language Models](https://proceedings.mlr.press/v306/dorman26a.html) | 语言模型罕见事件的重要性估计 | 从提高目标事件出现率的提议分布采样，再用原模型与提议分布的续写概率比加权。可在常规采样很少命中事件时估计原模型的尾部概率，并将估计误差与事件定义一起报告。 |
+| <a id="du26l-evaluation"></a>[ProtocolBench: Which LLM MultiAgent Protocol to Choose?](https://proceedings.mlr.press/v306/du26l.html) | 多智能体通信协议的受控评测 | 固定参与模型、提示、硬件和速率限制，同时保留各协议原生的重试、重连与流式行为。分别测量成功率、延迟、通信开销和故障恢复，以识别协议选择对不同工作负载的影响。 |
+| <a id="duan26b-evaluation"></a>["very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](https://proceedings.mlr.press/v306/duan26b.html) | 语言不确定性词的正确率校准 | 从生成文本提取表示把握程度的词语，为每个词学习数值置信度，并用这些数值的均值预测回覆正确性。以实际正误拟合后再与人类给同类词语的概率相比，可发现模型特有的置信语义偏差。 |
+| <a id="es-sebbani26a-evaluation"></a>[Evaluating Robustness of Reasoning Models on Parameterized Logical Problems](https://proceedings.mlr.press/v306/es-sebbani26a.html) | 可控 2-SAT 结构鲁棒性评测 | 构造由单条桥接子句相连的两个单调子公式，移动桥接子句的位置而保持可满足性，借此检查推理模型能否在晚出现的约束下修订早期判断。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -349,4 +368,5 @@
 | <a id="cohen26e-theory-statistics"></a>[Barriers to Counterfactual Credit Attribution for Autoregressive Models](https://proceedings.mlr.press/v306/cohen26e.html) | 自回归生成的反事实来源归因界限 | 以部署时数据库记录被删去后的输出变化定义归因条件。论文构造表明逐 token 满足该条件未必能保证整段生成也满足，给定黑盒预测器时，事后补上归因的最坏查询成本可随生成长度指数增长。 |
 | <a id="collina26a-theory-statistics"></a>[Emergent Alignment via Competition](https://proceedings.mlr.press/v306/collina26a.html) | 多智能体竞争下的凸包对齐条件 | 在多领导者 Stackelberg 模型中，若用户效用近似落在多个智能体效用的凸包内，竞争能够在论文规定的互动条件下实现近最优效用。仿真显示，凸包近似条件失效时收益也可能消失。 |
 | <a id="das26c-theory-statistics"></a>[Innovation: An Almost Characterization of Hallucination](https://proceedings.mlr.press/v306/das26c.html) | 未见输出概率与幻觉下界 | 用模型分给训练集中未出现结果的概率质量度量创新。在论文对真实事实稀疏性和规律性的假设下，正的创新概率质量意味着模型以高后验概率给某些虚假结果分配正概率。 |
+| <a id="dubois26a-theory-statistics"></a>[Quantifying Biases in LLM-as-a-Judge Evaluations](https://proceedings.mlr.press/v306/dubois26a.html) | 贝叶斯模型估计评委家族偏差 | 在有序评分的贝叶斯广义线性模型中，分别建模评委严厉度、生成模型的平均表现和评委与生成模型的交互。用交互项的后验区间量化同家族偏好，并可把该项置零模拟消除偏差后的评分。 |
 <!-- classification:end -->

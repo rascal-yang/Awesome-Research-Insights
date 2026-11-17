@@ -28,6 +28,8 @@ The linked short insights are available in Chinese.
 | [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ga-architecture) |
 | [SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](https://proceedings.mlr.press/v306/choy26a.html) | [Read insight (中文)](../../papers/computer-vision.md#choy26a-architecture) |
 | [Native Spatio-Temporal 4D Variational Autoencoder](https://proceedings.mlr.press/v306/ding26u.html) | [Read insight (中文)](../../papers/computer-vision.md#ding26u-architecture) |
+| [AesFormer: Transform Everyday Photos into Beautiful Memories](https://proceedings.mlr.press/v306/du26c.html) | [Read insight (中文)](../../papers/computer-vision.md#du26c-architecture) |
+| [Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](https://proceedings.mlr.press/v306/duan26e.html) | [Read insight (中文)](../../papers/computer-vision.md#duan26e-architecture) |
 
 <a id="by-modules"></a>
 
@@ -45,6 +47,7 @@ The linked short insights are available in Chinese.
 | [Prototype-Grounded Concept Models for Verifiable Concept Alignment](https://proceedings.mlr.press/v306/colamonaco26a.html) | [Read insight (中文)](../../papers/computer-vision.md#colamonaco26a-modules) |
 | [Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?](https://proceedings.mlr.press/v306/dhar26a.html) | [Read insight (中文)](../../papers/computer-vision.md#dhar26a-modules) |
 | [PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors](https://proceedings.mlr.press/v306/dong26i.html) | [Read insight (中文)](../../papers/computer-vision.md#dong26i-modules) |
+| [MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](https://proceedings.mlr.press/v306/duan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#duan26a-modules) |
 | [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | [Read insight (中文)](../../papers/computer-vision.md#tian26k-modules) · [Full entry](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -97,6 +100,9 @@ The linked short insights are available in Chinese.
 | [SpeedVFI: One-step Diffusion for Efficient Video Frame Interpolation](https://proceedings.mlr.press/v306/ding26t.html) | [Read insight (中文)](../../papers/computer-vision.md#ding26t-training-strategies) |
 | [TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization](https://proceedings.mlr.press/v306/dong26k.html) | [Read insight (中文)](../../papers/computer-vision.md#dong26k-training-strategies) |
 | [RePack then Refine: Efficient Diffusion Transformers with Vision Foundation Models](https://proceedings.mlr.press/v306/dong26l.html) | [Read insight (中文)](../../papers/computer-vision.md#dong26l-training-strategies) |
+| [Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction](https://proceedings.mlr.press/v306/du26g.html) | [Read insight (中文)](../../papers/computer-vision.md#du26g-training-strategies) |
+| [VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://proceedings.mlr.press/v306/du26q.html) | [Read insight (中文)](../../papers/computer-vision.md#du26q-training-strategies) |
+| [Spectrally-Guided Diffusion Noise Schedules](https://proceedings.mlr.press/v306/esteves26a.html) | [Read insight (中文)](../../papers/computer-vision.md#esteves26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -139,6 +145,8 @@ The linked short insights are available in Chinese.
 | [SG2Loc: Sequential Visual Localization on 3D Scene Graphs](https://proceedings.mlr.press/v306/damblon26a.html) | [Read insight (中文)](../../papers/computer-vision.md#damblon26a-inference) |
 | [STORM: Segment, Track, and Object Re-Localization from a Single Image](https://proceedings.mlr.press/v306/deng26a.html) | [Read insight (中文)](../../papers/computer-vision.md#deng26a-inference) |
 | [Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking](https://proceedings.mlr.press/v306/deng26i.html) | [Read insight (中文)](../../papers/computer-vision.md#deng26i-inference) |
+| [SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion](https://proceedings.mlr.press/v306/duan26d.html) | [Read insight (中文)](../../papers/computer-vision.md#duan26d-inference) |
+| [MAD: Manifold Attracted Diffusion](https://proceedings.mlr.press/v306/elbrachter26a.html) | [Read insight (中文)](../../papers/computer-vision.md#elbrachter26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -175,6 +183,8 @@ The linked short insights are available in Chinese.
 | [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26az-evaluation) |
 | [Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://proceedings.mlr.press/v306/chen26gw.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26gw-evaluation) |
 | [Global Geometry Is Not Enough for Vision Representations](https://proceedings.mlr.press/v306/chung26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chung26a-evaluation) |
+| [Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](https://proceedings.mlr.press/v306/ebrahimpour-boroojeny26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) |
+| [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](https://proceedings.mlr.press/v306/elisha26a.html) | [Read insight (中文)](../../papers/computer-vision.md#elisha26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

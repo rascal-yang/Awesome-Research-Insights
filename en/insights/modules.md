@@ -71,6 +71,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Learning When to Attend: Conditional Memory Access for Long-Context LLMs](../../papers/llm.md#choudhary26a-modules) · 中文
 - [CoFrGeNet: Continued Fraction Architectures for Language Generation](../../papers/llm.md#dhurandhar26a-modules) · 中文
 - [Eigenvectors of Experts are Training-free Non-collapsing Routers](../../papers/llm.md#do26a-modules) · 中文
+- [LUCID: Attention with Preconditioned Representations](../../papers/llm.md#duvvuri26a-modules) · 中文
 
 ### Computer Vision
 
@@ -84,6 +85,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Prototype-Grounded Concept Models for Verifiable Concept Alignment](../../papers/computer-vision.md#colamonaco26a-modules) · 中文
 - [Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?](../../papers/computer-vision.md#dhar26a-modules) · 中文
 - [PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors](../../papers/computer-vision.md#dong26i-modules) · 中文
+- [MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](../../papers/computer-vision.md#duan26a-modules) · 中文
 - [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../insights/modules.md#widen-the-student-distillation-interface)
 
 ### Natural Language Processing
@@ -117,6 +119,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](../../papers/ml-foundations.md#chong26c-modules) · 中文
 - [PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning](../../papers/ml-foundations.md#cosentino26a-modules) · 中文
 - [Rethinking Sparse Mixture of Experts from a Unified Perspective](../../papers/ml-foundations.md#do26b-modules) · 中文
+- [FlashSketch: Sketch-Kernel Co-Design for Fast Sparse Sketching on GPUs](../../papers/ml-foundations.md#dwaraknath26a-modules) · 中文
+- [Hide&Seek: Learning to Explain in an End-to-End Differentiable Network](../../papers/ml-foundations.md#ellinson26a-modules) · 中文
 
 ### Graph Learning and Recommendation
 

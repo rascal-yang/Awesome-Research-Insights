@@ -52,6 +52,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Blending Neural Control Density Functions for Stabilization and Safety](https://proceedings.mlr.press/v306/chaudhary26a.html) | [Read insight (中文)](../../papers/robotics.md#chaudhary26a-optimization) |
+| [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](https://proceedings.mlr.press/v306/fan26g.html) | [Read insight (中文)](../../papers/robotics.md#fan26g-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -81,6 +82,7 @@ The linked short insights are available in Chinese.
 | [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | [Read insight (中文)](../../papers/robotics.md#chen26ab-data-strategies) |
 | [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | [Read insight (中文)](../../papers/robotics.md#chen26cy-data-strategies) |
 | [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) | [Read insight (中文)](../../papers/robotics.md#choi26i-data-strategies) |
+| [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) | [Read insight (中文)](../../papers/robotics.md#fan26b-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -99,6 +101,14 @@ The linked short insights are available in Chinese.
 | [Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) | [Read insight (中文)](../../papers/robotics.md#choi26c-inference) |
 | [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) | [Read insight (中文)](../../papers/robotics.md#chun26a-inference) |
 | [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) | [Read insight (中文)](../../papers/robotics.md#ding26r-inference) |
+
+<a id="by-representation-learning"></a>
+
+### Representation Learning
+
+| Paper | Insight |
+| :--- | :--- |
+| [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) | [Read insight (中文)](../../papers/robotics.md#fan26f-representation-learning) |
 
 <a id="by-evaluation"></a>
 

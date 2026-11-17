@@ -70,6 +70,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Discrete Tilt Matching](../../papers/llm.md#chen26el-loss-functions) · 中文
 - [$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](../../papers/llm.md#chen26hc-loss-functions) · 中文
 - [Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget](../../papers/llm.md#dasgupta26a-loss-functions) · 中文
+- [Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs](../../papers/llm.md#fan26j-loss-functions) · 中文
 
 ### Computer Vision
 
@@ -112,6 +113,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Optimized Deferral for Imbalanced Settings](../../papers/ml-foundations.md#cortes26b-loss-functions) · 中文
 - [Positive-Unlabeled Learning with Extreme Scarcity of Labeled Positives](../../papers/ml-foundations.md#dai26f-loss-functions) · 中文
 - [Expectation Consistency Loss: Rethink Confidence Calibration under Covariate Shift](../../papers/ml-foundations.md#dong26e-loss-functions) · 中文
+- [When Softmax Fails at the Top: Extreme-Value Corrections for InfoNCE](../../papers/ml-foundations.md#erol26a-loss-functions) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -120,6 +122,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](../../papers/graph-and-recommendation.md#chen26gx-loss-functions) · 中文
 - [Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](../../papers/graph-and-recommendation.md#deng26u-loss-functions) · 中文
 - [Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](../../papers/graph-and-recommendation.md#ding26v-loss-functions) · 中文
+- [Watermarking Graph Neural Networks via Explanations for Ownership Protection](../../papers/graph-and-recommendation.md#downer26a-loss-functions) · 中文
 
 ### Scientific Machine Learning
 
@@ -132,4 +135,6 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Self-Supervised Dynamical System Representations for Physiological Time-Series](../../papers/scientific-ml.md#chen26fk-loss-functions) · 中文
 - [S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation](../../papers/scientific-ml.md#chowdhury26b-loss-functions) · 中文
 - [Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation](../../papers/scientific-ml.md#ding26w-loss-functions) · 中文
+- [Derivative Informed Learning of Exchange-Correlation Functionals](../../papers/scientific-ml.md#eberhard26a-loss-functions) · 中文
+- [CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](../../papers/scientific-ml.md#estevez26b-loss-functions) · 中文
 <!-- classification:end -->

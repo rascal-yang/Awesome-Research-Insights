@@ -36,6 +36,7 @@ The linked short insights are available in Chinese.
 | [Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](https://proceedings.mlr.press/v306/dagli26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dagli26a-architecture) |
 | [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](https://proceedings.mlr.press/v306/dai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dai26a-architecture) |
 | [Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems](https://proceedings.mlr.press/v306/deng26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#deng26c-architecture) |
+| [Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink](https://proceedings.mlr.press/v306/elsborg26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#elsborg26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -64,6 +65,8 @@ The linked short insights are available in Chinese.
 | [Self-Supervised Dynamical System Representations for Physiological Time-Series](https://proceedings.mlr.press/v306/chen26fk.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fk-loss-functions) |
 | [S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation](https://proceedings.mlr.press/v306/chowdhury26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#chowdhury26b-loss-functions) |
 | [Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation](https://proceedings.mlr.press/v306/ding26w.html) | [Read insight (中文)](../../papers/scientific-ml.md#ding26w-loss-functions) |
+| [Derivative Informed Learning of Exchange-Correlation Functionals](https://proceedings.mlr.press/v306/eberhard26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#eberhard26a-loss-functions) |
+| [CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](https://proceedings.mlr.press/v306/estevez26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#estevez26b-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -73,6 +76,8 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](https://proceedings.mlr.press/v306/chen26ck.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ck-optimization) |
 | [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](https://proceedings.mlr.press/v306/chen26fx.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fx-optimization) |
+| [Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](https://proceedings.mlr.press/v306/du26n.html) | [Read insight (中文)](../../papers/scientific-ml.md#du26n-optimization) |
+| [Automatic Construction of Clinical Scoring Systems with LLM Agents](https://proceedings.mlr.press/v306/estevez26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#estevez26a-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -144,6 +149,7 @@ The linked short insights are available in Chinese.
 | [Protein Fold Classification at Scale: Benchmarking and Pretraining](https://proceedings.mlr.press/v306/chen26db.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26db-representation-learning) |
 | [Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](https://proceedings.mlr.press/v306/cheng26m.html) | [Read insight (中文)](../../papers/scientific-ml.md#cheng26m-representation-learning) |
 | [Adaptive Protein Tokenization](https://proceedings.mlr.press/v306/dilip26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dilip26a-representation-learning) |
+| [BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](https://proceedings.mlr.press/v306/du26f.html) | [Read insight (中文)](../../papers/scientific-ml.md#du26f-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -163,6 +169,8 @@ The linked short insights are available in Chinese.
 | [Abstraction Induces the Brain Alignment of Language and Speech Models](https://proceedings.mlr.press/v306/cheng26l.html) | [Read insight (中文)](../../papers/scientific-ml.md#cheng26l-evaluation) |
 | [Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](https://proceedings.mlr.press/v306/dan26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dan26a-evaluation) |
 | [FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications](https://proceedings.mlr.press/v306/didi26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#didi26a-evaluation) |
+| [(Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations](https://proceedings.mlr.press/v306/duan26f.html) | [Read insight (中文)](../../papers/scientific-ml.md#duan26f-evaluation) |
+| [BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics](https://proceedings.mlr.press/v306/fa26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#fa26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -174,4 +182,5 @@ The linked short insights are available in Chinese.
 | [Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](https://proceedings.mlr.press/v306/bao26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bao26a-theory-statistics) |
 | [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](https://proceedings.mlr.press/v306/berman26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#berman26a-theory-statistics) |
 | [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](https://proceedings.mlr.press/v306/ding26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#ding26c-theory-statistics) |
+| [Learning Treatment Allocations with Risk Control Under Partial Identifiability](https://proceedings.mlr.press/v306/ek26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#ek26a-theory-statistics) |
 <!-- classification:end -->

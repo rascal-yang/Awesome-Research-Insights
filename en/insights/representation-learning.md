@@ -38,6 +38,10 @@ Representation extraction, alignment, transfer, and disentanglement.
 
 - [Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](../../papers/reinforcement-learning.md#bastankhah26a-representation-learning) · 中文
 
+### Robotics
+
+- [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](../../papers/robotics.md#fan26f-representation-learning) · 中文
+
 ### Multimodal Learning
 
 - [Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](../../papers/multimodal.md#chen26ag-representation-learning) · 中文
@@ -45,6 +49,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction](../../papers/multimodal.md#chen26fo-representation-learning) · 中文
 - [Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](../../papers/multimodal.md#cheng26k-representation-learning) · 中文
 - [Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](../../papers/multimodal.md#choi26h-representation-learning) · 中文
+- [Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](../../papers/multimodal.md#dutta26b-representation-learning) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -59,6 +64,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Vector Linking via Cross-Model Local Isometric Consistency](../../papers/ml-foundations.md#chen26h-representation-learning) · 中文
 - [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](../../papers/ml-foundations.md#chen26cj-representation-learning) · 中文
 - [Discovering Symmetry Groups with Flow Matching](../../papers/ml-foundations.md#chen26dg-representation-learning) · 中文
+- [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](../../papers/ml-foundations.md#fan26i-representation-learning) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -68,6 +74,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) · 中文
 - [Computationally-efficient Graph Modeling with Refined Graph Random Features](../../papers/graph-and-recommendation.md#choromanski26a-representation-learning) · 中文
 - [Parametrized Power-Iteration Clustering for Directed Graphs](../../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) · 中文
+- [From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters](../../papers/graph-and-recommendation.md#du26o-representation-learning) · 中文
+- [Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation](../../papers/graph-and-recommendation.md#ezoe26a-representation-learning) · 中文
 
 ### Scientific Machine Learning
 
@@ -81,4 +89,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Protein Fold Classification at Scale: Benchmarking and Pretraining](../../papers/scientific-ml.md#chen26db-representation-learning) · 中文
 - [Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](../../papers/scientific-ml.md#cheng26m-representation-learning) · 中文
 - [Adaptive Protein Tokenization](../../papers/scientific-ml.md#dilip26a-representation-learning) · 中文
+- [BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](../../papers/scientific-ml.md#du26f-representation-learning) · 中文
 <!-- classification:end -->

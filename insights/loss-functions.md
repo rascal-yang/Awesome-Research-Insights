@@ -72,6 +72,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [离散扩散的奖励倾斜匹配](../papers/llm.md#chen26el-loss-functions) · Discrete Tilt Matching
 - [自博弈偏好语义校准](../papers/llm.md#chen26hc-loss-functions) · $\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization
 - [语言模型蒸馏的尾部 KL](../papers/llm.md#dasgupta26a-loss-functions) · Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget
+- [按目标词元概率调节微调梯度](../papers/llm.md#fan26j-loss-functions) · Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs
 
 ### 计算机视觉
 
@@ -114,6 +115,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [专家失衡下的代价敏感路由](../papers/ml-foundations.md#cortes26b-loss-functions) · Optimized Deferral for Imbalanced Settings
 - [极少正标签下的 PU 风险正则](../papers/ml-foundations.md#dai26f-loss-functions) · Positive-Unlabeled Learning with Extreme Scarcity of Labeled Positives
 - [协变量偏移下的期望一致性校准](../papers/ml-foundations.md#dong26e-loss-functions) · Expectation Consistency Loss: Rethink Confidence Calibration under Covariate Shift
+- [InfoNCE 的端点尾部修正](../papers/ml-foundations.md#erol26a-loss-functions) · When Softmax Fails at the Top: Extreme-Value Corrections for InfoNCE
 
 ### 图学习与推荐
 
@@ -122,6 +124,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [时序图解释的稳定与转变证据](../papers/graph-and-recommendation.md#chen26gx-loss-functions) · ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability
 - [图混合专家的分组对比路由](../papers/graph-and-recommendation.md#deng26u-loss-functions) · Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion
 - [属性图聚类的双视图去冗余](../papers/graph-and-recommendation.md#ding26v-loss-functions) · Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning
+- [基于子图解释的模型水印](../papers/graph-and-recommendation.md#downer26a-loss-functions) · Watermarking Graph Neural Networks via Explanations for Ownership Protection
 
 ### 科学机器学习
 
@@ -134,4 +137,6 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [生理时序的跨窗重建监督](../papers/scientific-ml.md#chen26fk-loss-functions) · Self-Supervised Dynamical System Representations for Physiological Time-Series
 - [医学分割的形态自适应损失](../papers/scientific-ml.md#chowdhury26b-loss-functions) · S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation
 - [固定边界等离子体平衡监督](../papers/scientific-ml.md#ding26w-loss-functions) · Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation
+- [交换关联泛函的导数监督](../papers/scientific-ml.md#eberhard26a-loss-functions) · Derivative Informed Learning of Exchange-Correlation Functionals
+- [保留配体受体关系的细胞传输](../papers/scientific-ml.md#estevez26b-loss-functions) · CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment
 <!-- classification:end -->

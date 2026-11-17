@@ -66,6 +66,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](../../papers/llm.md#ding26d-inference) · 中文
 - [HybridFlow: Resource-Adaptive Subtask Routing for Efficient Edge-Cloud LLM Inference](../../papers/llm.md#dong26g-inference) · 中文
 - [ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution](../../papers/llm.md#dong26h-inference) · 中文
+- [Chiral Symmetry Breaking in Transformers: A Group-Equivariant Framework for Addressing the Reversal Curse via Adjoint Manifold Mappings](../../papers/llm.md#du26a-inference) · 中文
+- [Which Heads Matter for Reasoning? RL-Guided KV Cache Compression](../../papers/llm.md#du26e-inference) · 中文
+- [Escaping Mode Collapse in LLM Generation via Geometric Regulation](../../papers/llm.md#du26m-inference) · 中文
+- [Entropy-informed Decoding: Adaptive Information-Driven Branching](../../papers/llm.md#evans26a-inference) · 中文
+- [NExT-Guard: Streaming Safeguard without Token-Level Labels](../../papers/llm.md#fang26a-inference) · 中文
 
 ### Computer Vision
 
@@ -92,6 +97,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [SG2Loc: Sequential Visual Localization on 3D Scene Graphs](../../papers/computer-vision.md#damblon26a-inference) · 中文
 - [STORM: Segment, Track, and Object Re-Localization from a Single Image](../../papers/computer-vision.md#deng26a-inference) · 中文
 - [Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking](../../papers/computer-vision.md#deng26i-inference) · 中文
+- [SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion](../../papers/computer-vision.md#duan26d-inference) · 中文
+- [MAD: Manifold Attracted Diffusion](../../papers/computer-vision.md#elbrachter26a-inference) · 中文
 
 ### Natural Language Processing
 
@@ -99,6 +106,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](../../papers/nlp.md#ai26b-inference) · 中文
 - [IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](../../papers/nlp.md#an26a-inference) · 中文
 - [MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](../../papers/nlp.md#chien26b-inference) · 中文
+- [Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](../../papers/nlp.md#du26i-inference) · 中文
 
 ### Reinforcement Learning
 
@@ -137,6 +145,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](../../papers/multimodal.md#cheng26d-inference) · 中文
 - [Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](../../papers/multimodal.md#cho26b-inference) · 中文
 - [UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing](../../papers/multimodal.md#dang26a-inference) · 中文
+- [$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](../../papers/multimodal.md#du26k-inference) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -148,6 +157,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Reinforced Sequential Monte Carlo for Amortised Sampling](../../papers/ml-foundations.md#choi26l-inference) · 中文
 - [Unifying Stacking and Cascading for Efficient Ensemble Inference](../../papers/ml-foundations.md#colaco26a-inference) · 中文
 - [Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction](../../papers/ml-foundations.md#dou26a-inference) · 中文
+- [MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics](../../papers/ml-foundations.md#du26h-inference) · 中文
+- [ZeroDiff: Zero-Shot Time Series Reconstruction via Informed-Prior Diffusion](../../papers/ml-foundations.md#fan26d-inference) · 中文
 
 ### Graph Learning and Recommendation
 

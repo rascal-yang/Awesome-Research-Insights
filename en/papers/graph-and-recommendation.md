@@ -18,6 +18,7 @@ The linked short insights are available in Chinese.
 | [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](https://proceedings.mlr.press/v306/bandyopadhyay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) |
 | [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26al-architecture) |
 | [Adaptive Memory Retention in Dynamic Graphs](https://proceedings.mlr.press/v306/de-castelli26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#de-castelli26a-architecture) |
+| [Graph Neural Dynamics via Learned Energy and Tangential Flows](https://proceedings.mlr.press/v306/eliasof26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#eliasof26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -41,6 +42,7 @@ The linked short insights are available in Chinese.
 | [ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](https://proceedings.mlr.press/v306/chen26gx.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26gx-loss-functions) |
 | [Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](https://proceedings.mlr.press/v306/deng26u.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#deng26u-loss-functions) |
 | [Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](https://proceedings.mlr.press/v306/ding26v.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ding26v-loss-functions) |
+| [Watermarking Graph Neural Networks via Explanations for Ownership Protection](https://proceedings.mlr.press/v306/downer26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#downer26a-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -80,6 +82,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#azizpour26a-data-strategies) |
 | [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cr-data-strategies) |
+| [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://proceedings.mlr.press/v306/eremeev26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#eremeev26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -102,6 +105,8 @@ The linked short insights are available in Chinese.
 | [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) |
 | [Computationally-efficient Graph Modeling with Refined Graph Random Features](https://proceedings.mlr.press/v306/choromanski26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#choromanski26a-representation-learning) |
 | [Parametrized Power-Iteration Clustering for Directed Graphs](https://proceedings.mlr.press/v306/debaussart-joniec26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) |
+| [From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters](https://proceedings.mlr.press/v306/du26o.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#du26o-representation-learning) |
+| [Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation](https://proceedings.mlr.press/v306/ezoe26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ezoe26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -124,4 +129,5 @@ The linked short insights are available in Chinese.
 | [On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) |
 | [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) |
 | [Multicalibration Yields Better Matchings](https://proceedings.mlr.press/v306/colini-baldeschi26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) |
+| [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](https://proceedings.mlr.press/v306/fan26c.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fan26c-theory-statistics) |
 <!-- classification:end -->

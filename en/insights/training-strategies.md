@@ -35,6 +35,10 @@ Training schedules, curricula, and task or stage composition.
 - [CSPLoRA: Confidence-Guided Structural Planning for Low-Rank Adaptation](../../papers/llm.md#ding26h-training-strategies) · 中文
 - [COBRA: Contribution-Based Bayesian Rank Allocation for Parameter-Efficient Fine-Tuning](../../papers/llm.md#ding26y-training-strategies) · 中文
 - [INDEXGUARD: Index-only Backdoor Vetting for Secure Federated PEFT of Large Language Models](../../papers/llm.md#dogani26a-training-strategies) · 中文
+- [Don’t Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference](../../papers/llm.md#elhoushi26a-training-strategies) · 中文
+- [Training LLM Agents to Empower Humans](../../papers/llm.md#ellis26a-training-strategies) · 中文
+- [Rank-Aware Spectral Bounds on Attention Logits for Stable Low-Precision Training](../../papers/llm.md#emadi26a-training-strategies) · 中文
+- [Uncovering the Gradient Geometry of Long CoT: A Spectral-guided Approach to Reasoning Distillation](../../papers/llm.md#fan26e-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -50,6 +54,9 @@ Training schedules, curricula, and task or stage composition.
 - [SpeedVFI: One-step Diffusion for Efficient Video Frame Interpolation](../../papers/computer-vision.md#ding26t-training-strategies) · 中文
 - [TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization](../../papers/computer-vision.md#dong26k-training-strategies) · 中文
 - [RePack then Refine: Efficient Diffusion Transformers with Vision Foundation Models](../../papers/computer-vision.md#dong26l-training-strategies) · 中文
+- [Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction](../../papers/computer-vision.md#du26g-training-strategies) · 中文
+- [VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](../../papers/computer-vision.md#du26q-training-strategies) · 中文
+- [Spectrally-Guided Diffusion Noise Schedules](../../papers/computer-vision.md#esteves26a-training-strategies) · 中文
 
 ### Robotics
 
@@ -64,6 +71,8 @@ Training schedules, curricula, and task or stage composition.
 - [Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](../../papers/multimodal.md#chen26am-training-strategies) · 中文
 - [Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](../../papers/multimodal.md#chen26gr-training-strategies) · 中文
 - [HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning](../../papers/multimodal.md#cheng26p-training-strategies) · 中文
+- [Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](../../papers/multimodal.md#du26t-training-strategies) · 中文
+- [MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](../../papers/multimodal.md#dufour26a-training-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 

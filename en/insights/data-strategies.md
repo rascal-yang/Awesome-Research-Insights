@@ -24,6 +24,7 @@ Data selection, annotation, augmentation, and sampling.
 - [From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment](../../papers/llm.md#chen26gi-data-strategies) · 中文
 - [DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](../../papers/llm.md#chen26gj-data-strategies) · 中文
 - [How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess](../../papers/llm.md#dionisopoulos26a-data-strategies) · 中文
+- [Understanding Data Temporality Impact on Large Language Models Pre-training](../../papers/llm.md#fabre26a-data-strategies) · 中文
 
 ### Computer Vision
 
@@ -37,11 +38,13 @@ Data selection, annotation, augmentation, and sampling.
 
 - [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](../../papers/nlp.md#banayeeanzade26a-data-strategies) · 中文
 - [Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](../../papers/nlp.md#cho26i-data-strategies) · 中文
+- [HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](../../papers/nlp.md#dutta26a-data-strategies) · 中文
 
 ### Reinforcement Learning
 
 - [Improving Zero-Shot Offline RL via Behavioral Task Sampling](../../papers/reinforcement-learning.md#bendib26a-data-strategies) · 中文
 - [Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](../../papers/reinforcement-learning.md#chen26gd-data-strategies) · 中文
+- [The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](../../papers/reinforcement-learning.md#fagan26a-data-strategies) · 中文
 
 ### Robotics
 
@@ -49,6 +52,7 @@ Data selection, annotation, augmentation, and sampling.
 - [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](../../papers/robotics.md#chen26ab-data-strategies) · 中文
 - [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](../../papers/robotics.md#chen26cy-data-strategies) · 中文
 - [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](../../papers/robotics.md#choi26i-data-strategies) · 中文
+- [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](../../papers/robotics.md#fan26b-data-strategies) · 中文
 
 ### Multimodal Learning
 
@@ -59,6 +63,7 @@ Data selection, annotation, augmentation, and sampling.
 - [From Diagrams to Code: Multilingual Programming with Visual Design](../../papers/multimodal.md#chai26b-data-strategies) · 中文
 - [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](../../papers/multimodal.md#chen26c-data-strategies) · 中文
 - [CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](../../papers/multimodal.md#chen26gb-data-strategies) · 中文
+- [Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness](../../papers/multimodal.md#fang26b-data-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -68,11 +73,14 @@ Data selection, annotation, augmentation, and sampling.
 - [Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning](../../papers/ml-foundations.md#chen26ac-data-strategies) · 中文
 - [Unifying and Optimizing Data Values for Selection via Sequential Decision-Making](../../papers/ml-foundations.md#chi26d-data-strategies) · 中文
 - [Active Learning with Low-Rank Structure for Data Selection](../../papers/ml-foundations.md#cohen-addad26a-data-strategies) · 中文
+- [On the Difficulty of Learning a Meta-network for Training Data Selection](../../papers/ml-foundations.md#du26u-data-strategies) · 中文
+- [Curated Synthetic Data Doesn’t Have to Collapse: A Theoretical Study of Generative Retraining with Pluralistic Preferences](../../papers/ml-foundations.md#falahati26a-data-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
 - [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](../../papers/graph-and-recommendation.md#azizpour26a-data-strategies) · 中文
 - [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](../../papers/graph-and-recommendation.md#chen26cr-data-strategies) · 中文
+- [GraphPFN: A Prior-Data Fitted Graph Foundation Model](../../papers/graph-and-recommendation.md#eremeev26a-data-strategies) · 中文
 
 ### Scientific Machine Learning
 
