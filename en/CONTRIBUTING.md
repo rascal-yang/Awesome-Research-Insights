@@ -28,7 +28,18 @@ Prioritize removing the following five kinds of entries. Check any separate cont
 
 Describe the operations and assumptions of a method. State the evidence and conditions for a finding or failure lesson. Exclude work whose value is confined to its setting with no specific way to transfer or adapt it. A curator's hypothetical transfer alone is insufficient. Leave uncertain evidence pending.
 
-Starting from 4,105 existing ICML 2026 cards, this cleanup will remove at least half and retain at most 2,052. Among qualifying papers, prioritize clear operations, explicit conditions, and contributions with few substitutes. Record each exclusion reason in the manifest. Name the representative for redundant mechanisms and identify capacity-based exclusions explicitly.
+Score all 6,552 ICML 2026 papers in one ranking and ultimately retain the top 50%, at most 3,276 cards. Review the existing 4,105 papers first, then the remaining papers, and determine the final cutoff across the full proceedings. Papers excluded under the criteria above keep their exclusion reasons and consume no inclusion slots.
+
+| Criterion | Weight | 0 points | 3 points | 5 points |
+| --- | ---: | --- | --- | --- |
+| Added contribution | 35% | No technical contribution beyond existing methods | A concrete change with limited effect on the existing approach | A clear design or finding beyond the closest method that changes a technical choice |
+| Reuse value | 30% | Confined to its specific setting | Usable in related tasks with adaptation | A specific operation or decision principle usable across different problems |
+| Usability | 20% | Operations or conditions cannot be stated | Key steps or conditions require further interpretation | Clear inputs, operations, assumptions, or a finding that directly guides a choice |
+| Distinctness | 15% | Existing cards fully cover the insight | A local addition with close substitutes | Existing cards cannot substitute for its central design or finding |
+
+Use integer scores from 0 to 5. Scores 1, 2, and 4 describe intermediate cases. The total is `7 × added contribution + 6 × reuse + 4 × usability + 3 × distinctness`, out of 100. Record a specific justification and source location for every paper. Judge the usability of theory, empirical findings, and failure lessons by their assumptions, boundaries, and decision value.
+
+Select by total score. Break ties by added contribution, reuse, usability, and distinctness, in that order. Reassess any remaining tie at the cutoff and record the final selection reason. Record exclusions in the manifest, naming representatives for redundant mechanisms and identifying ranking-based exclusions explicitly.
 
 ## Add or revise a card
 
@@ -37,6 +48,8 @@ Starting from 4,105 existing ICML 2026 cards, this cleanup will remove at least 
 3. Link the card once in its primary domain. Link to its mechanism from each relevant technique index. Both language indexes use the same card.
 
 Review ICML 2026 papers in proceedings order. To add a batch, run the following from the repository root.
+
+Use `number`, `pmlr_id`, `novelty`, `reuse`, `usability`, `distinctness`, and `reason` in each scoring TSV. Run `python conferences/icml-2026/paper_scores.py <scores.tsv>` to validate and merge scores and update the conference's scoring progress. The script computes totals. Use `--rank` after every eligible paper has been scored. For a cutoff tie, supply `--tie-order <review.tsv>` with `number`, `position`, and `reason`.
 
 ```text
 python conferences/icml-2026/append_batch.py <batch.tsv> --date YYYY-MM-DD --paper-cards <cards.tsv> --screening <screening.tsv>

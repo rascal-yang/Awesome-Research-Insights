@@ -206,6 +206,9 @@ def add_batch(batch_path, date, paper_cards, screening, review_existing=False):
                   f'Reviewed {len(decisions)} ICML 2026 cards and removed {len(decisions) - len(retained)}.')
     render_indexes(catalog, mapping, screened, total, date, update)
     refresh_card_index()
+    from paper_scores import SCORE_FILE, merge_scores
+    if SCORE_FILE.exists():
+        merge_scores([], False, None)
     print(f'Screened {len(decisions)} papers in this batch, retained {len(retained)}, '
           f'excluded {len(decisions) - len(retained)}. Total: {screened:,} / {total:,} screened, '
           f'{len(catalog):,} cards, including {len(unreviewed):,} awaiting review.')
