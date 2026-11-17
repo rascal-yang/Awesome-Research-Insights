@@ -70,6 +70,7 @@ Data selection, annotation, augmentation, and sampling.
 - [EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning](../../conferences/icml-2026/cards/3501-3600.md#pang26e-data-strategies) · 中文
 - [Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation](../../conferences/icml-2026/cards/3601-3700.md#peng26b-data-strategies) · 中文
 - [Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](../../conferences/icml-2026/cards/3601-3700.md#pinto26a-data-strategies) · 中文
+- [The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qian26l-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -110,6 +111,8 @@ Data selection, annotation, augmentation, and sampling.
 - [The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](../../conferences/icml-2026/cards/1001-1100.md#fagan26a-data-strategies) · 中文
 - [Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](../../conferences/icml-2026/cards/1101-1200.md#feng26aa-data-strategies) · 中文
 - [Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26p-data-strategies) · 中文
+- [Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets](../../conferences/icml-2026/cards/3701-3800.md#qiao26e-data-strategies) · 中文
+- [BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qing26a-data-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -180,6 +183,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Counterfactual Residual Data Augmentation for Regression](../../conferences/icml-2026/cards/3301-3400.md#mohebbi26a-data-strategies) · 中文
 - [Fair Dataset Distillation via Cross-Group Barycenter Alignment](../../conferences/icml-2026/cards/3301-3400.md#moslemi26a-data-strategies) · 中文
 - [CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification](../../conferences/icml-2026/cards/3601-3700.md#pei26c-data-strategies) · 中文
+- [Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning](../../conferences/icml-2026/cards/3701-3800.md#qi26n-data-strategies) · 中文
+- [When Sample Selection Bias Precipitates Model Collapse](../../conferences/icml-2026/cards/3701-3800.md#qiao26c-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

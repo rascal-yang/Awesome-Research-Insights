@@ -259,6 +259,15 @@ Decoding, test-time adaptation, and efficient execution.
 - [Constrained Adaptive Rejection Sampling](../../conferences/icml-2026/cards/3601-3700.md#parys26a-inference) · 中文
 - [When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning](../../conferences/icml-2026/cards/3601-3700.md#pei26a-inference) · 中文
 - [Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation](../../conferences/icml-2026/cards/3601-3700.md#pei26d-inference) · 中文
+- [Float8@2bits: Entropy Coding Enables Data-Free Model Compression](../../conferences/icml-2026/cards/3601-3700.md#putzky26a-inference) · 中文
+- [ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs](../../conferences/icml-2026/cards/3701-3800.md#qi26b-inference) · 中文
+- [Auto-regressive In-context Demonstration Selection](../../conferences/icml-2026/cards/3701-3800.md#qi26e-inference) · 中文
+- [Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression](../../conferences/icml-2026/cards/3701-3800.md#qi26k-inference) · 中文
+- [d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation](../../conferences/icml-2026/cards/3701-3800.md#qian26g-inference) · 中文
+- [When Drafts Evolve: Speculative Decoding Meets Online Learning](../../conferences/icml-2026/cards/3701-3800.md#qian26k-inference) · 中文
+- [ConServe: Fine-Grained GPU Harvesting for LLM Online and Offline Co-Serving](../../conferences/icml-2026/cards/3701-3800.md#qiao26i-inference) · 中文
+- [ConFu: Contemplate the Future for Better Speculative Sampling](../../conferences/icml-2026/cards/3701-3800.md#qin26c-inference) · 中文
+- [Executable Agentic Memory for GUI Agent](../../conferences/icml-2026/cards/3701-3800.md#qin26m-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -350,6 +359,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance](../../conferences/icml-2026/cards/3401-3500.md#nguyen26q-inference) · 中文
 - [Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization](../../conferences/icml-2026/cards/3401-3500.md#oettinger26a-inference) · 中文
 - [Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion](../../conferences/icml-2026/cards/3601-3700.md#park26z-inference) · 中文
+- [Meta Flow Maps enable scalable reward alignment](../../conferences/icml-2026/cards/3601-3700.md#potaptchik26b-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -500,6 +510,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Decouple and Cache: KV Cache Construction for Streaming Video Understanding](../../conferences/icml-2026/cards/3501-3600.md#pang26a-inference) · 中文
 - [MIST: Moment-Aligned Invariant Stability Transform for Robust Flow Matching](../../conferences/icml-2026/cards/3601-3700.md#peng26g-inference) · 中文
 - [A Close Look at Negative Label Guided Out-of-distribution Detection in Pre-trained Vision-Language Models](../../conferences/icml-2026/cards/3601-3700.md#peng26i-inference) · 中文
+- [Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation](../../conferences/icml-2026/cards/3701-3800.md#qi26m-inference) · 中文
+- [VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models](../../conferences/icml-2026/cards/3701-3800.md#qin26d-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -597,4 +609,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion](../../conferences/icml-2026/cards/3501-3600.md#ouyang26c-inference) · 中文
 - [APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries](../../conferences/icml-2026/cards/3601-3700.md#pedawi26a-inference) · 中文
 - [LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation](../../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · 中文
+- [FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation](../../conferences/icml-2026/cards/3701-3800.md#qin26j-inference) · 中文
 <!-- classification:end -->

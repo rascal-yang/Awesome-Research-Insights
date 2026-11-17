@@ -129,6 +129,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Fast Mixing Steady-State Control in Markov Decision Processes](../../conferences/icml-2026/cards/0701-0800.md#corso26a-optimization) · 中文
 - [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../conferences/icml-2026/cards/0801-0900.md#dam26a-optimization) · 中文
 - [Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting](../../conferences/icml-2026/cards/2101-2200.md#ko26a-optimization) · 中文
+- [AdamO: A Collapse-Suppressed Optimizer for Offline RL](../../conferences/icml-2026/cards/3701-3800.md#qiao26j-optimization) · 中文
 
 <a id="by-robotics"></a>
 
@@ -137,6 +138,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Blending Neural Control Density Functions for Stabilization and Safety](../../conferences/icml-2026/cards/0401-0500.md#chaudhary26a-optimization) · 中文
 - [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../../conferences/icml-2026/cards/1001-1100.md#fan26g-optimization) · 中文
 - [Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges](../../conferences/icml-2026/cards/2001-2100.md#khan26a-optimization) · 中文
+- [Parallel Stochastic Gradient-Based Planning for World Models](../../conferences/icml-2026/cards/3601-3700.md#psenka26a-optimization) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -147,6 +149,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26bu-optimization) · 中文
 - [Modality-Decoupled Online Recursive Editing](../../conferences/icml-2026/cards/2601-2700.md#li26ji-optimization) · 中文
 - [UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation](../../conferences/icml-2026/cards/2701-2800.md#liang26ab-optimization) · 中文
+- [MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](../../conferences/icml-2026/cards/3701-3800.md#qin26a-optimization) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -349,6 +352,15 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Riemannian stochastic optimization for sufficient dimension reduction](../../conferences/icml-2026/cards/3601-3700.md#pautrel26a-optimization) · 中文
 - [Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation](../../conferences/icml-2026/cards/3601-3700.md#petersen26a-optimization) · 中文
 - [Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization](../../conferences/icml-2026/cards/3601-3700.md#pion26a-optimization) · 中文
+- [A Constrained Optimization Perspective of Unrolled Transformers](../../conferences/icml-2026/cards/3601-3700.md#porras-valenzuela26a-optimization) · 中文
+- [Tilt Matching for Scalable Sampling and Fine-Tuning](../../conferences/icml-2026/cards/3601-3700.md#potaptchik26a-optimization) · 中文
+- [Spectral Collapse Drives Loss of Plasticity in Deep Continual Learning](../../conferences/icml-2026/cards/3601-3700.md#prakash26b-optimization) · 中文
+- [Gradient-Free Approaches is a Key to an Efficient Interaction with Markovian Stochasticity](../../conferences/icml-2026/cards/3601-3700.md#prokhorov26a-optimization) · 中文
+- [Delving into Muon and Beyond: Deep Analysis and Extensions](../../conferences/icml-2026/cards/3701-3800.md#qi26c-optimization) · 中文
+- [Towards the Training of Deeper Predictive Coding Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#qi26f-optimization) · 中文
+- [Federated Bilevel Performative Prediction](../../conferences/icml-2026/cards/3701-3800.md#qian26b-optimization) · 中文
+- [Zeroth-Order Forward-Only SNN Training Inspiring Neuromorphic On-Chip Learning](../../conferences/icml-2026/cards/3701-3800.md#qin26l-optimization) · 中文
+- [Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization](../../conferences/icml-2026/cards/3701-3800.md#qiu26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -372,6 +384,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · 中文
 - [On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis](../../conferences/icml-2026/cards/3001-3100.md#lu26ad-optimization) · 中文
 - [Instance-Specific Approximation Ratios for Correlation Clustering and Max-Cut](../../conferences/icml-2026/cards/3001-3100.md#luderssen26a-optimization) · 中文
+- [Learning to Approximate Uniform Facility Location via Graph Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#qian26d-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -409,4 +422,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs](../../conferences/icml-2026/cards/3501-3600.md#pang26f-optimization) · 中文
 - [Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces](../../conferences/icml-2026/cards/3501-3600.md#park26k-optimization) · 中文
 - [Online Bayesian Experimental Design for Partially Observed Dynamical Systems](../../conferences/icml-2026/cards/3601-3700.md#perez-vieites26a-optimization) · 中文
+- [Principle-Evolvable Scientific Discovery via Uncertainty Minimization](../../conferences/icml-2026/cards/3601-3700.md#pu26a-optimization) · 中文
 <!-- classification:end -->

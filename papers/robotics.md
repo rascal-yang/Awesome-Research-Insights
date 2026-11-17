@@ -62,6 +62,7 @@
 - <a id="chaudhary26a-optimization"></a>[Blending Neural Control Density Functions for Stabilization and Safety](../conferences/icml-2026/cards/0401-0500.md#paper-chaudhary26a)
 - <a id="fan26g-optimization"></a>[De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../conferences/icml-2026/cards/1001-1100.md#paper-fan26g)
 - <a id="khan26a-optimization"></a>[Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges](../conferences/icml-2026/cards/2001-2100.md#paper-khan26a)
+- <a id="psenka26a-optimization"></a>[Parallel Stochastic Gradient-Based Planning for World Models](../conferences/icml-2026/cards/3601-3700.md#paper-psenka26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -85,6 +86,8 @@
 - <a id="mandi26a-reinforcement-learning"></a>[DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](../conferences/icml-2026/cards/3201-3300.md#paper-mandi26a)
 - <a id="ni26d-reinforcement-learning"></a>[CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](../conferences/icml-2026/cards/3401-3500.md#paper-ni26d)
 - <a id="patil26a-reinforcement-learning"></a>[OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](../conferences/icml-2026/cards/3601-3700.md#paper-patil26a)
+- <a id="pranger26a-reinforcement-learning"></a>[Efficient and Safe Molecular Assembly via Reinforcement Learning and Constraint Solving](../conferences/icml-2026/cards/3601-3700.md#paper-pranger26a)
+- <a id="qiao26f-reinforcement-learning"></a>[Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26f)
 
 <a id="by-training-strategies"></a>
 
@@ -186,6 +189,7 @@
 - <a id="li26hi-evaluation"></a>[Scaling Robot Policy Evaluation via Discrete Diffusion World Model](../conferences/icml-2026/cards/2601-2700.md#paper-li26hi)
 - <a id="liu26bu-evaluation"></a>[Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bu)
 - <a id="meng26n-evaluation"></a>[Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty](../conferences/icml-2026/cards/3201-3300.md#paper-meng26n)
+- <a id="qi26p-evaluation"></a>[BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis](../conferences/icml-2026/cards/3701-3800.md#paper-qi26p)
 
 <a id="by-theory-statistics"></a>
 

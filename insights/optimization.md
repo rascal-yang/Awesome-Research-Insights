@@ -129,6 +129,7 @@
 - [目标稳态分布约束下的快速混合](../conferences/icml-2026/cards/0701-0800.md#corso26a-optimization) · Fast Mixing Steady-State Control in Markov Decision Processes
 - [二阶平滑 Bellman 规划](../conferences/icml-2026/cards/0801-0900.md#dam26a-optimization) · Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing
 - [用决策时点锚定的伴随量优化非指数折扣](../conferences/icml-2026/cards/2101-2200.md#ko26a-optimization) · Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting
+- [离线价值学习的解耦正交校正](../conferences/icml-2026/cards/3701-3800.md#qiao26j-optimization) · AdamO: A Collapse-Suppressed Optimizer for Offline RL
 
 <a id="by-robotics"></a>
 
@@ -137,6 +138,7 @@
 - [安全控制器混合](../conferences/icml-2026/cards/0401-0500.md#chaudhary26a-optimization) · Blending Neural Control Density Functions for Stabilization and Safety
 - [动态 SLAM 的残差梯度隔离](../conferences/icml-2026/cards/1001-1100.md#fan26g-optimization) · De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments
 - [由熵正则分数运输引导整数路径](../conferences/icml-2026/cards/2001-2100.md#khan26a-optimization) · Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
+- [把长程规划中间状态设为并行变量](../conferences/icml-2026/cards/3601-3700.md#psenka26a-optimization) · Parallel Stochastic Gradient-Based Planning for World Models
 
 <a id="by-multimodal"></a>
 
@@ -147,6 +149,7 @@
 - [在奇异子空间选择注入哪些推理能力](../conferences/icml-2026/cards/1701-1800.md#huang26bu-optimization) · FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models
 - [按模态维护编辑约束并在固定低秩空间递推](../conferences/icml-2026/cards/2601-2700.md#li26ji-optimization) · Modality-Decoupled Online Recursive Editing
 - [用完整增量对齐联邦低秩适配器聚合](../conferences/icml-2026/cards/2701-2800.md#liang26ab-optimization) · UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation
+- [视觉语言模型的跨模态攻击迁移](../conferences/icml-2026/cards/3701-3800.md#qin26a-optimization) · MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -349,6 +352,15 @@
 - [用稀疏近邻做流形充分降维](../conferences/icml-2026/cards/3601-3700.md#pautrel26a-optimization) · Riemannian stochastic optimization for sufficient dimension reduction
 - [黑盒平滑的扰动预算](../conferences/icml-2026/cards/3601-3700.md#petersen26a-optimization) · Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation
 - [为期望改进校准 GP 预测低尾](../conferences/icml-2026/cards/3601-3700.md#pion26a-optimization) · Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization
+- [用原始–对偶训练使 Transformer 层间目标期望下降](../conferences/icml-2026/cards/3601-3700.md#porras-valenzuela26a-optimization) · A Constrained Optimization Perspective of Unrolled Transformers
+- [沿奖励倾斜路径匹配概率流的速度增量](../conferences/icml-2026/cards/3601-3700.md#potaptchik26a-optimization) · Tilt Matching for Scalable Sampling and Fine-Tuning
+- [用特征有效秩与 L2 共同缓解持续学习谱塌陷](../conferences/icml-2026/cards/3601-3700.md#prakash26b-optimization) · Spectral Collapse Drives Loss of Plasticity in Deep Continual Learning
+- [用随机批与零阶反馈减轻 Markov 噪声混合开销](../conferences/icml-2026/cards/3601-3700.md#prokhorov26a-optimization) · Gradient-Free Approaches is a Key to an Efficient Interaction with Markovian Stochasticity
+- [分开比较谱压缩强度和输入归一](../conferences/icml-2026/cards/3701-3800.md#qi26c-optimization) · Delving into Muon and Beyond: Deep Analysis and Extensions
+- [对齐局部误差信号的到达时刻](../conferences/icml-2026/cards/3701-3800.md#qi26f-optimization) · Towards the Training of Deeper Predictive Coding Neural Networks
+- [联邦双层学习的部署分布固定点](../conferences/icml-2026/cards/3701-3800.md#qian26b-optimization) · Federated Bilevel Performative Prediction
+- [只在权重轨迹主方向上试探](../conferences/icml-2026/cards/3701-3800.md#qin26l-optimization) · Zeroth-Order Forward-Only SNN Training Inspiring Neuromorphic On-Chip Learning
+- [轮换修改算子并用组合收益打分](../conferences/icml-2026/cards/3701-3800.md#qiu26a-optimization) · Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -372,6 +384,7 @@
 - [动态图曝光下的反事实公平控制](../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs
 - [利用松弛正曲率逃逸分数最稠密子图驻点](../conferences/icml-2026/cards/3001-3100.md#lu26ad-optimization) · On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis
 - [用稀疏三角覆盖松弛为每张图计算后验证书](../conferences/icml-2026/cards/3001-3100.md#luderssen26a-optimization) · Instance-Specific Approximation Ratios for Correlation Clustering and Max-Cut
+- [用期望采样成本训练设施开设概率](../conferences/icml-2026/cards/3701-3800.md#qian26d-optimization) · Learning to Approximate Uniform Facility Location via Graph Neural Networks
 
 <a id="by-scientific-ml"></a>
 
@@ -409,4 +422,5 @@
 - [把函数候选生成同诊断和搜索分开](../conferences/icml-2026/cards/3501-3600.md#pang26f-optimization) · Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs
 - [把伴随采样推广到满足端点条件的路径空间](../conferences/icml-2026/cards/3501-3600.md#park26k-optimization) · Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces
 - [序贯实验设计复用粒子后验](../conferences/icml-2026/cards/3601-3700.md#perez-vieites26a-optimization) · Online Bayesian Experimental Design for Partially Observed Dynamical Systems
+- [用预测异常触发科学原理扩展](../conferences/icml-2026/cards/3601-3700.md#pu26a-optimization) · Principle-Evolvable Scientific Discovery via Uncertainty Minimization
 <!-- classification:end -->

@@ -33,6 +33,8 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="mo26a-architecture"></a>[Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26a)
 - <a id="nikolentzos26a-architecture"></a>[InvGNN: Learning Invertible Node Representations on Graphs](../../conferences/icml-2026/cards/3401-3500.md#paper-nikolentzos26a)
 - <a id="peng26e-architecture"></a>[Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26e)
+- <a id="qi26j-architecture"></a>[Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26j)
+- <a id="qian26e-architecture"></a>[On the Expressive Power of GNNs to Solve Linear SDPs](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26e)
 
 <a id="by-modules"></a>
 
@@ -80,6 +82,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="li26kb-optimization"></a>[COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26kb)
 - <a id="lu26ad-optimization"></a>[On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ad)
 - <a id="luderssen26a-optimization"></a>[Instance-Specific Approximation Ratios for Correlation Clustering and Max-Cut](../../conferences/icml-2026/cards/3001-3100.md#paper-luderssen26a)
+- <a id="qian26d-optimization"></a>[Learning to Approximate Uniform Facility Location via Graph Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -106,6 +109,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="liu26b-training-strategies"></a>[FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26b)
 - <a id="navarro26a-training-strategies"></a>[Adaptive Node Feature Selection for Graph Neural Networks](../../conferences/icml-2026/cards/3401-3500.md#paper-navarro26a)
 - <a id="pan26h-training-strategies"></a>[Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26h)
+- <a id="prakash26c-training-strategies"></a>[Obliviate: Efficient Unlearning in Recommender Systems](../../conferences/icml-2026/cards/3601-3700.md#paper-prakash26c)
 
 <a id="by-data-strategies"></a>
 

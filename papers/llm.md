@@ -348,6 +348,12 @@
 - <a id="park26h-reinforcement-learning"></a>[$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments](../conferences/icml-2026/cards/3501-3600.md#paper-park26h)
 - <a id="paulus26b-reinforcement-learning"></a>[Safety Alignment of LMs via Non-cooperative Games](../conferences/icml-2026/cards/3601-3700.md#paper-paulus26b)
 - <a id="peng26h-reinforcement-learning"></a>[HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents](../conferences/icml-2026/cards/3601-3700.md#paper-peng26h)
+- <a id="prabhudesai26a-reinforcement-learning"></a>[Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](../conferences/icml-2026/cards/3601-3700.md#paper-prabhudesai26a)
+- <a id="puri26a-reinforcement-learning"></a>[Escaping the Mode: Multi-Answer Reinforcement Learning in LMs](../conferences/icml-2026/cards/3601-3700.md#paper-puri26a)
+- <a id="qi26q-reinforcement-learning"></a>[Rethinking the Trust Region in LLM Reinforcement Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qi26q)
+- <a id="qian26c-reinforcement-learning"></a>[CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement](../conferences/icml-2026/cards/3701-3800.md#paper-qian26c)
+- <a id="qiang26a-reinforcement-learning"></a>[On the Plasticity and Stability for Post-Training Large Language Models](../conferences/icml-2026/cards/3701-3800.md#paper-qiang26a)
+- <a id="qiao26a-reinforcement-learning"></a>[Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26a)
 
 <a id="by-training-strategies"></a>
 
@@ -516,6 +522,7 @@
 - <a id="pang26e-data-strategies"></a>[EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning](../conferences/icml-2026/cards/3501-3600.md#paper-pang26e)
 - <a id="peng26b-data-strategies"></a>[Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation](../conferences/icml-2026/cards/3601-3700.md#paper-peng26b)
 - <a id="pinto26a-data-strategies"></a>[Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](../conferences/icml-2026/cards/3601-3700.md#paper-pinto26a)
+- <a id="qian26l-data-strategies"></a>[The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning](../conferences/icml-2026/cards/3701-3800.md#paper-qian26l)
 
 <a id="by-inference"></a>
 
@@ -767,6 +774,15 @@
 - <a id="parys26a-inference"></a>[Constrained Adaptive Rejection Sampling](../conferences/icml-2026/cards/3601-3700.md#paper-parys26a)
 - <a id="pei26a-inference"></a>[When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning](../conferences/icml-2026/cards/3601-3700.md#paper-pei26a)
 - <a id="pei26d-inference"></a>[Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation](../conferences/icml-2026/cards/3601-3700.md#paper-pei26d)
+- <a id="putzky26a-inference"></a>[Float8@2bits: Entropy Coding Enables Data-Free Model Compression](../conferences/icml-2026/cards/3601-3700.md#paper-putzky26a)
+- <a id="qi26b-inference"></a>[ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs](../conferences/icml-2026/cards/3701-3800.md#paper-qi26b)
+- <a id="qi26e-inference"></a>[Auto-regressive In-context Demonstration Selection](../conferences/icml-2026/cards/3701-3800.md#paper-qi26e)
+- <a id="qi26k-inference"></a>[Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression](../conferences/icml-2026/cards/3701-3800.md#paper-qi26k)
+- <a id="qian26g-inference"></a>[d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation](../conferences/icml-2026/cards/3701-3800.md#paper-qian26g)
+- <a id="qian26k-inference"></a>[When Drafts Evolve: Speculative Decoding Meets Online Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qian26k)
+- <a id="qiao26i-inference"></a>[ConServe: Fine-Grained GPU Harvesting for LLM Online and Offline Co-Serving](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26i)
+- <a id="qin26c-inference"></a>[ConFu: Contemplate the Future for Better Speculative Sampling](../conferences/icml-2026/cards/3701-3800.md#paper-qin26c)
+- <a id="qin26m-inference"></a>[Executable Agentic Memory for GUI Agent](../conferences/icml-2026/cards/3701-3800.md#paper-qin26m)
 
 <a id="by-representation-learning"></a>
 
@@ -1059,6 +1075,19 @@
 - <a id="petrova26a-evaluation"></a>[Pressure Reveals Character: Behavioural Alignment Evaluation at Depth](../conferences/icml-2026/cards/3601-3700.md#paper-petrova26a)
 - <a id="pink26a-evaluation"></a>[Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-pink26a)
 - <a id="pipis26a-evaluation"></a>[Wait, Wait, Wait... Why Do Reasoning Models Loop?](../conferences/icml-2026/cards/3601-3700.md#paper-pipis26a)
+- <a id="pitre26a-evaluation"></a>[A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](../conferences/icml-2026/cards/3601-3700.md#paper-pitre26a)
+- <a id="pollanen26a-evaluation"></a>[Capability Traps in DPO](../conferences/icml-2026/cards/3601-3700.md#paper-pollanen26a)
+- <a id="potter26a-evaluation"></a>[Peer-Preservation in Frontier Models](../conferences/icml-2026/cards/3601-3700.md#paper-potter26a)
+- <a id="potter26b-evaluation"></a>[Representational Similarity and Model Behavior in Multi-Agent Interaction](../conferences/icml-2026/cards/3601-3700.md#paper-potter26b)
+- <a id="prakash26a-evaluation"></a>[QuArch: A Benchmark for Evaluating LLM Reasoning in Computer Architecture](../conferences/icml-2026/cards/3601-3700.md#paper-prakash26a)
+- <a id="prasad26a-evaluation"></a>[Effective Reasoning Chains Reduce Intrinsic Dimensionality](../conferences/icml-2026/cards/3601-3700.md#paper-prasad26a)
+- <a id="pulipaka26a-evaluation"></a>[PersistBench: When Should Long-Term Memories Be Forgotten by LLMs?](../conferences/icml-2026/cards/3601-3700.md#paper-pulipaka26a)
+- <a id="qi26a-evaluation"></a>[On the Generalization Gap in Self-Evolving Language Model Reasoning](../conferences/icml-2026/cards/3601-3700.md#paper-qi26a)
+- <a id="qi26d-evaluation"></a>[Detecting Contextual Hallucinations in Large Language Models with Frequency-Aware Attention](../conferences/icml-2026/cards/3701-3800.md#paper-qi26d)
+- <a id="qian26i-evaluation"></a>[Who can we trust? LLM-as-a-jury for Comparative Assessment](../conferences/icml-2026/cards/3701-3800.md#paper-qian26i)
+- <a id="qiao26h-evaluation"></a>[InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26h)
+- <a id="qin26h-evaluation"></a>[Tracing the Persona Circuit: How Large Language Models Encode and Express Character Traits](../conferences/icml-2026/cards/3701-3800.md#paper-qin26h)
+- <a id="qin26i-evaluation"></a>[Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions](../conferences/icml-2026/cards/3701-3800.md#paper-qin26i)
 
 <a id="by-theory-statistics"></a>
 
@@ -1111,4 +1140,5 @@
 - <a id="nie26a-theory-statistics"></a>[A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints](../conferences/icml-2026/cards/3401-3500.md#paper-nie26a)
 - <a id="oko26a-theory-statistics"></a>[Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner](../conferences/icml-2026/cards/3501-3600.md#paper-oko26a)
 - <a id="ouyang26e-theory-statistics"></a>[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26e)
+- <a id="pratihar26a-theory-statistics"></a>[Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking](../conferences/icml-2026/cards/3601-3700.md#paper-pratihar26a)
 <!-- classification:end -->

@@ -259,6 +259,15 @@
 - [把已证无效的约束前缀缓存到拒绝采样 Trie](../conferences/icml-2026/cards/3601-3700.md#parys26a-inference) · Constrained Adaptive Rejection Sampling
 - [演化紧凑符号协议并按题路由](../conferences/icml-2026/cards/3601-3700.md#pei26a-inference) · When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning
 - [把联合动作偏差蒸馏成可检索协作规则](../conferences/icml-2026/cards/3601-3700.md#pei26d-inference) · Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation
+- [把权重量化格式和存储比率分开](../conferences/icml-2026/cards/3601-3700.md#putzky26a-inference) · Float8@2bits: Entropy Coding Enables Data-Free Model Compression
+- [用解析码本抗 KV 检索漂移](../conferences/icml-2026/cards/3701-3800.md#qi26b-inference) · ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs
+- [按现有示例顺序选下一个](../conferences/icml-2026/cards/3701-3800.md#qi26e-inference) · Auto-regressive In-context Demonstration Selection
+- [一次分解服务多个压缩比例](../conferences/icml-2026/cards/3701-3800.md#qi26k-inference) · Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression
+- [蒸馏解掩码顺序再跨块刷新缓存](../conferences/icml-2026/cards/3701-3800.md#qian26g-inference) · d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation
+- [拿验证拒绝反馈在线更新草稿](../conferences/icml-2026/cards/3701-3800.md#qian26k-inference) · When Drafts Evolve: Speculative Decoding Meets Online Learning
+- [在线与离线推理的细粒度混部](../conferences/icml-2026/cards/3701-3800.md#qiao26i-inference) · ConServe: Fine-Grained GPU Harvesting for LLM Online and Offline Co-Serving
+- [未来隐表征引导推测采样](../conferences/icml-2026/cards/3701-3800.md#qin26c-inference) · ConFu: Contemplate the Future for Better Speculative Sampling
+- [把界面探索压缩成可执行路径](../conferences/icml-2026/cards/3701-3800.md#qin26m-inference) · Executable Agentic Memory for GUI Agent
 
 <a id="by-computer-vision"></a>
 
@@ -350,6 +359,7 @@
 - [按空间语义重新分配图像生成引导](../conferences/icml-2026/cards/3401-3500.md#nguyen26q-inference) · Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance
 - [微分同胚规约](../conferences/icml-2026/cards/3401-3500.md#oettinger26a-inference) · Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization
 - [用 JEPA 表示密度引导稀有图像采样](../conferences/icml-2026/cards/3601-3700.md#park26z-inference) · Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion
+- [从噪声中一步采样多个可微后验以估计奖励梯度](../conferences/icml-2026/cards/3601-3700.md#potaptchik26b-inference) · Meta Flow Maps enable scalable reward alignment
 
 <a id="by-nlp"></a>
 
@@ -500,6 +510,8 @@
 - [把视频近期缓存从历史递推中解耦](../conferences/icml-2026/cards/3501-3600.md#pang26a-inference) · Decouple and Cache: KV Cache Construction for Streaming Video Understanding
 - [引导速度矩校正](../conferences/icml-2026/cards/3601-3700.md#peng26g-inference) · MIST: Moment-Aligned Invariant Stability Transform for Robust Flow Matching
 - [开放集负标签的样本自适应阈值](../conferences/icml-2026/cards/3601-3700.md#peng26i-inference) · A Close Look at Negative Label Guided Out-of-distribution Detection in Pre-trained Vision-Language Models
+- [用查询引发的注意变化找图块](../conferences/icml-2026/cards/3701-3800.md#qi26m-inference) · Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation
+- [用路由亲和度校准专家误差](../conferences/icml-2026/cards/3701-3800.md#qin26d-inference) · VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -597,4 +609,5 @@
 - [用谱预测和正则伪逆实现单步采样](../conferences/icml-2026/cards/3501-3600.md#ouyang26c-inference) · Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion
 - [把组合分子筛选压成合成片段加法](../conferences/icml-2026/cards/3601-3700.md#pedawi26a-inference) · APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries
 - [稀疏观测双引导同化](../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation
+- [在后验流中按似然重采样](../conferences/icml-2026/cards/3701-3800.md#qin26j-inference) · FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation
 <!-- classification:end -->

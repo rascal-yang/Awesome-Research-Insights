@@ -48,6 +48,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="corso26a-optimization"></a>[Fast Mixing Steady-State Control in Markov Decision Processes](../../conferences/icml-2026/cards/0701-0800.md#paper-corso26a)
 - <a id="dam26a-optimization"></a>[Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../conferences/icml-2026/cards/0801-0900.md#paper-dam26a)
 - <a id="ko26a-optimization"></a>[Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting](../../conferences/icml-2026/cards/2101-2200.md#paper-ko26a)
+- <a id="qiao26j-optimization"></a>[AdamO: A Collapse-Suppressed Optimizer for Offline RL](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26j)
 
 <a id="by-reinforcement-learning"></a><a id="group-relative-policy-optimization"></a>
 
@@ -171,6 +172,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="peng26f-reinforcement-learning"></a>[TACTIC: Task-Aware Sparse Coordination Graphs for Multi-Task Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26f)
 - <a id="petitbois26a-reinforcement-learning"></a>[Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment](../../conferences/icml-2026/cards/3601-3700.md#paper-petitbois26a)
 - <a id="pham26b-reinforcement-learning"></a>[Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset](../../conferences/icml-2026/cards/3601-3700.md#paper-pham26b)
+- <a id="qiao26d-reinforcement-learning"></a>[Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26d)
 
 <a id="by-training-strategies"></a>
 
@@ -191,6 +193,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="fagan26a-data-strategies"></a>[The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](../../conferences/icml-2026/cards/1001-1100.md#paper-fagan26a)
 - <a id="feng26aa-data-strategies"></a>[Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26aa)
 - <a id="ma26p-data-strategies"></a>[Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26p)
+- <a id="qiao26e-data-strategies"></a>[Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26e)
+- <a id="qing26a-data-strategies"></a>[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qing26a)
 
 <a id="by-inference"></a>
 
@@ -220,6 +224,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="kim26x-representation-learning"></a>[Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26x)
 - <a id="lyu26f-representation-learning"></a>[Debiased Model-based Representations for Sample-efficient Continuous Control](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26f)
 - <a id="pasand26a-representation-learning"></a>[Stable Deep Reinforcement Learning via Isotropic Gaussian Representations](../../conferences/icml-2026/cards/3601-3700.md#paper-pasand26a)
+- <a id="qian26o-representation-learning"></a>[Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26o)
 
 <a id="by-evaluation"></a>
 
@@ -234,6 +239,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="liu26w-evaluation"></a>[Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26w)
 - <a id="ma26w-evaluation"></a>[Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26w)
 - <a id="majumdar26a-evaluation"></a>[Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards](../../conferences/icml-2026/cards/3101-3200.md#paper-majumdar26a)
+- <a id="qian26f-evaluation"></a>[Rationality Measurement and Theory for Reinforcement Learning Agents](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26f)
+- <a id="qian26n-evaluation"></a>[Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26n)
 
 <a id="by-theory-statistics"></a>
 

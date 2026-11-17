@@ -104,6 +104,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26x-representation-learning) · 中文
 - [Debiased Model-based Representations for Sample-efficient Continuous Control](../../conferences/icml-2026/cards/3101-3200.md#lyu26f-representation-learning) · 中文
 - [Stable Deep Reinforcement Learning via Isotropic Gaussian Representations](../../conferences/icml-2026/cards/3601-3700.md#pasand26a-representation-learning) · 中文
+- [Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qian26o-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -162,6 +163,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models](../../conferences/icml-2026/cards/3301-3400.md#mishra26b-representation-learning) · 中文
 - [UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations](../../conferences/icml-2026/cards/3301-3400.md#muhlematter26a-representation-learning) · 中文
 - [Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging](../../conferences/icml-2026/cards/3501-3600.md#pan26i-representation-learning) · 中文
+- [Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech](../../conferences/icml-2026/cards/3601-3700.md#popov26a-representation-learning) · 中文
+- [FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification](../../conferences/icml-2026/cards/3701-3800.md#qi26l-representation-learning) · 中文
+- [BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps](../../conferences/icml-2026/cards/3701-3800.md#qian26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -307,4 +311,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Interpreting Genomic Language Models using Sparse Autoencoders](../../conferences/icml-2026/cards/3401-3500.md#nair26a-representation-learning) · 中文
 - [LAMP: Data-Efficient Linear Affine Weight-Space Models for Parameter-Controlled 3D Shape Generation and Extrapolation](../../conferences/icml-2026/cards/3401-3500.md#nehme26b-representation-learning) · 中文
 - [Supervised Graph Contrastive Learning for Gene Regulatory Networks](../../conferences/icml-2026/cards/3501-3600.md#oshima26a-representation-learning) · 中文
+- [Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models](../../conferences/icml-2026/cards/3601-3700.md#pomerants26a-representation-learning) · 中文
+- [Towards Universal Gene Regulatory Network Inference: Unlocking Generalizable Regulatory Knowledge in Single-cell Foundation Models](../../conferences/icml-2026/cards/3701-3800.md#qi26h-representation-learning) · 中文
+- [Explicitly Modeling Censoring Produces Superior Survival Predictors](../../conferences/icml-2026/cards/3701-3800.md#qi26o-representation-learning) · 中文
 <!-- classification:end -->

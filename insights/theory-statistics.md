@@ -60,6 +60,7 @@
 - [把 KV 内存占用纳入 LLM 服务稳定阈值](../conferences/icml-2026/cards/3401-3500.md#nie26a-theory-statistics) · A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints
 - [用偏好采样与参考策略的错配解释效用失真](../conferences/icml-2026/cards/3501-3600.md#oko26a-theory-statistics) · Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner
 - [用带噪信道拟合模型扩展中的 U 形退化](../conferences/icml-2026/cards/3501-3600.md#ouyang26e-theory-statistics) · LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
+- [按文本编辑强度选择水印粒度](../conferences/icml-2026/cards/3601-3700.md#pratihar26a-theory-statistics) · Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking
 
 <a id="by-computer-vision"></a>
 
@@ -69,6 +70,7 @@
 - [低数据视觉泛化](../conferences/icml-2026/cards/0301-0400.md#brady26b-theory-statistics) · Is Generation Required for Data-Efficient Perception?
 - [递归探测图像表征的空间组合能力](../conferences/icml-2026/cards/3101-3200.md#lyu26g-theory-statistics) · On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning
 - [用补丁后验解释卷积逆问题求解器](../conferences/icml-2026/cards/3401-3500.md#nguyen26c-theory-statistics) · An analytic theory of convolutional neural network inverse problems solvers
+- [沿扩散时间分辨语义互信息和低层细节熵](../conferences/icml-2026/cards/3601-3700.md#premkumar26a-theory-statistics) · On the Separability of Information in Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -161,6 +163,7 @@
 - [跨模态对比学习](../conferences/icml-2026/cards/0301-0400.md#cai26o-theory-statistics) · The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence
 - [离散与连续扰动的联合认证](../conferences/icml-2026/cards/0801-0900.md#delattre26a-theory-statistics) · Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing
 - [缺失模态预测影响](../conferences/icml-2026/cards/3101-3200.md#madaan26a-theory-statistics) · Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling
+- [按层平坦度分配水印认证噪声](../conferences/icml-2026/cards/3701-3800.md#qi26i-theory-statistics) · Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing
 
 <a id="by-ml-foundations"></a>
 
@@ -525,6 +528,13 @@
 - [线性潜空间的流匹配速度分解](../conferences/icml-2026/cards/3601-3700.md#pi26a-theory-statistics) · Learning Manifold Data with Flow Matching
 - [用 Doob h 变换构造函数空间生成扩散](../conferences/icml-2026/cards/3601-3700.md#pieper-sethmacher26a-theory-statistics) · Infinite-Dimensional Generative Diffusions via Doob’s h-Transform
 - [从 Hermite 模式解释联合单指标学习](../conferences/icml-2026/cards/3601-3700.md#pillaud-vivien26a-theory-statistics) · Joint Learning in the Gaussian Single Index Model
+- [分时滞发现由系统共同驱动的上下文因果图](../conferences/icml-2026/cards/3601-3700.md#popescu26a-theory-statistics) · Causal discovery for time series with endogenous context variables
+- [压缩聚类数据时保留近似解的可恢复性](../conferences/icml-2026/cards/3601-3700.md#prabhu26a-theory-statistics) · Approximation Preserving Coresets
+- [用安全参考策略的似然比校准候选部署](../conferences/icml-2026/cards/3601-3700.md#prinster26a-theory-statistics) · Conformal Policy Control
+- [用局部最大核差检测两样本偏移](../conferences/icml-2026/cards/3601-3700.md#pu26c-theory-statistics) · Kernel-based Maximum-of-difference Test for Two-sample Comparison
+- [用比较分布诊断 Bradley–Terry 投影](../conferences/icml-2026/cards/3601-3700.md#pukdee26a-theory-statistics) · What Does Preference Learning Recover from Pairwise Comparison Data?
+- [潜在混杂下的计数因果可识别性](../conferences/icml-2026/cards/3701-3800.md#qiao26k-theory-statistics) · On the Identifiability of Poisson Branching Structural Causal Model Under Latent Confounding
+- [用扩散谱检查循环记忆](../conferences/icml-2026/cards/3701-3800.md#qin26f-theory-statistics) · Information dynamics and Memory in Neural Networks through Fisher Information Diffusion
 
 <a id="by-graph-and-recommendation"></a>
 

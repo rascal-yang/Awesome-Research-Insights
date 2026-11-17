@@ -233,6 +233,8 @@
 - <a id="mu26c-training-strategies"></a>[Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer](../conferences/icml-2026/cards/3301-3400.md#paper-mu26c)
 - <a id="odonnat26a-training-strategies"></a>[Vision Transformer Finetuning Benefits from Non-Smooth Components](../conferences/icml-2026/cards/3401-3500.md#paper-odonnat26a)
 - <a id="pandey26b-training-strategies"></a>[Continual Segmentation under Joint Nonstationarity](../conferences/icml-2026/cards/3501-3600.md#paper-pandey26b)
+- <a id="qian26j-training-strategies"></a>[Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers](../conferences/icml-2026/cards/3701-3800.md#paper-qian26j)
+- <a id="qin26k-training-strategies"></a>[GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](../conferences/icml-2026/cards/3701-3800.md#paper-qin26k)
 
 <a id="by-data-strategies"></a>
 
@@ -345,6 +347,7 @@
 - <a id="nguyen26q-inference"></a>[Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26q)
 - <a id="oettinger26a-inference"></a>[Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization](../conferences/icml-2026/cards/3401-3500.md#paper-oettinger26a)
 - <a id="park26z-inference"></a>[Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion](../conferences/icml-2026/cards/3601-3700.md#paper-park26z)
+- <a id="potaptchik26b-inference"></a>[Meta Flow Maps enable scalable reward alignment](../conferences/icml-2026/cards/3601-3700.md#paper-potaptchik26b)
 
 <a id="by-representation-learning"></a>
 
@@ -445,6 +448,8 @@
 - <a id="meshram26a-evaluation"></a>[Low-Compute Watermark Removal via Dual-Domain Natural Projection](../conferences/icml-2026/cards/3201-3300.md#paper-meshram26a)
 - <a id="mordacq26a-evaluation"></a>[IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension](../conferences/icml-2026/cards/3301-3400.md#paper-mordacq26a)
 - <a id="murata26a-evaluation"></a>[GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning](../conferences/icml-2026/cards/3301-3400.md#paper-murata26a)
+- <a id="plitsis26a-evaluation"></a>[Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search](../conferences/icml-2026/cards/3601-3700.md#paper-plitsis26a)
+- <a id="pu26b-evaluation"></a>[Low-Rank and Sparsity Are All You Need: Exploring Robust Hierarchical Latent Subspaces for Transferable Adversarial Attack](../conferences/icml-2026/cards/3601-3700.md#paper-pu26b)
 
 <a id="by-theory-statistics"></a>
 
@@ -454,4 +459,5 @@
 - <a id="brady26b-theory-statistics"></a>[Is Generation Required for Data-Efficient Perception?](../conferences/icml-2026/cards/0301-0400.md#paper-brady26b)
 - <a id="lyu26g-theory-statistics"></a>[On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26g)
 - <a id="nguyen26c-theory-statistics"></a>[An analytic theory of convolutional neural network inverse problems solvers](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26c)
+- <a id="premkumar26a-theory-statistics"></a>[On the Separability of Information in Diffusion Models](../conferences/icml-2026/cards/3601-3700.md#paper-premkumar26a)
 <!-- classification:end -->

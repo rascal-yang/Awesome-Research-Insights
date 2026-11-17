@@ -162,6 +162,9 @@
 - [用可能性上确界估计认知不确定性](../conferences/icml-2026/cards/3401-3500.md#ni26b-loss-functions) · Possibilistic Predictive Uncertainty for Deep Learning
 - [用噪声层级分类识别能量分布的模态权重](../conferences/icml-2026/cards/3501-3600.md#ouyang26b-loss-functions) · A Diffusive Classification Loss for Learning Energy-based Generative Models
 - [稀少配对监督与边缘样本分工](../conferences/icml-2026/cards/3601-3700.md#persiianov26a-loss-functions) · Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization
+- [把 IPW 下游风险曲率写进倾向得分损失](../conferences/icml-2026/cards/3601-3700.md#plaud26a-loss-functions) · Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference
+- [反向扩散高斯矩联合匹配](../conferences/icml-2026/cards/3701-3800.md#qian26h-loss-functions) · Likelihood Matching for Diffusion Models
+- [用类先验扰动稳住长尾伪标签训练](../conferences/icml-2026/cards/3701-3800.md#qiao26b-loss-functions) · Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -202,4 +205,5 @@
 - [单细胞扰动稀疏信号加权](../conferences/icml-2026/cards/3201-3300.md#mejia26a-loss-functions) · Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation
 - [混沌系统模拟](../conferences/icml-2026/cards/3201-3300.md#melo26a-loss-functions) · Learning to Emulate Chaos: Adversarial Optimal Transport Regularization
 - [让细胞扰动原型只受正样本吸引](../conferences/icml-2026/cards/3401-3500.md#nightingale26a-loss-functions) · Asymmetric Contrastive Objectives for Efficient Phenotypic Screening
+- [不平衡光谱识别的对称信息瓶颈](../conferences/icml-2026/cards/3701-3800.md#qin26b-loss-functions) · SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings
 <!-- classification:end -->

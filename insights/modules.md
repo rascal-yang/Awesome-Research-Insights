@@ -134,6 +134,7 @@
 - [视觉证据与推理约束的双潜记忆](../conferences/icml-2026/cards/3101-3200.md#ma26ac-modules) · Dual-Latent Memory Routing for Vision-Language Reasoning
 - [共用跨模态适配器学习视频质量而非类别语义](../conferences/icml-2026/cards/3201-3300.md#mi26c-modules) · Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation
 - [频谱可靠性融合门控](../conferences/icml-2026/cards/3501-3600.md#pan26d-modules) · Difference-Aware Decision Learning for Multimodal Image Fusion
+- [分割词元跨层选择空间热图](../conferences/icml-2026/cards/3701-3800.md#qian26m-modules) · UGround: Towards Unified Visual Grounding with Unrolled Transformers
 
 <a id="by-ml-foundations"></a>
 
@@ -208,4 +209,5 @@
 - [学习分数阶算子输入](../conferences/icml-2026/cards/3201-3300.md#mehouachi26a-modules) · Fractional is Better: Learnable Derivative Orders in Neural Operator Learning
 - [把边界条件学成域内函数扩展](../conferences/icml-2026/cards/3301-3400.md#mousavi26a-modules) · Imposing Boundary Conditions on Neural Operators via Learned Function Extensions
 - [用综合征预测匹配解码边权](../conferences/icml-2026/cards/3601-3700.md#peled26a-modules) · Neural Minimum Weight Perfect Matching for Quantum Error Codes
+- [按小波能量给各频带加噪](../conferences/icml-2026/cards/3701-3800.md#qin26e-modules) · Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting
 <!-- classification:end -->

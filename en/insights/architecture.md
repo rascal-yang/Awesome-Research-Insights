@@ -252,6 +252,7 @@ Model-wide design and information flow.
 - [SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation](../../conferences/icml-2026/cards/3501-3600.md#ozyilkan26a-architecture) · 中文
 - [CauScale: Neural Causal Discovery at Scale](../../conferences/icml-2026/cards/3601-3700.md#peng26c-architecture) · 中文
 - [ParalESN: Enabling parallel information processing in Reservoir Computing](../../conferences/icml-2026/cards/3601-3700.md#pinna26a-architecture) · 中文
+- [CANDI: Hybrid Discrete-Continuous Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#pynadath26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -277,6 +278,8 @@ Model-wide design and information flow.
 - [Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#mo26a-architecture) · 中文
 - [InvGNN: Learning Invertible Node Representations on Graphs](../../conferences/icml-2026/cards/3401-3500.md#nikolentzos26a-architecture) · 中文
 - [Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning](../../conferences/icml-2026/cards/3601-3700.md#peng26e-architecture) · 中文
+- [Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](../../conferences/icml-2026/cards/3701-3800.md#qi26j-architecture) · 中文
+- [On the Expressive Power of GNNs to Solve Linear SDPs](../../conferences/icml-2026/cards/3701-3800.md#qian26e-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 

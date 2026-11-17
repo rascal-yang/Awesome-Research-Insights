@@ -252,6 +252,7 @@
 - [用随机二元潜变量和极化信道编码](../conferences/icml-2026/cards/3501-3600.md#ozyilkan26a-architecture) · SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation
 - [双流因果图预测](../conferences/icml-2026/cards/3601-3700.md#peng26c-architecture) · CauScale: Neural Causal Discovery at Scale
 - [对角复递推的并行储备池](../conferences/icml-2026/cards/3601-3700.md#pinna26a-architecture) · ParalESN: Enabling parallel information processing in Reservoir Computing
+- [分开调度离散身份和连续几何噪声](../conferences/icml-2026/cards/3601-3700.md#pynadath26a-architecture) · CANDI: Hybrid Discrete-Continuous Diffusion Models
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -277,6 +278,8 @@
 - [动态图的结构频谱时序解耦](../conferences/icml-2026/cards/3301-3400.md#mo26a-architecture) · Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks
 - [用可逆图层同时支持 1-WL 表达和节点生成](../conferences/icml-2026/cards/3401-3500.md#nikolentzos26a-architecture) · InvGNN: Learning Invertible Node Representations on Graphs
 - [正定矩阵层扩散](../conferences/icml-2026/cards/3601-3700.md#peng26e-architecture) · Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning
+- [将交通的空间互联与时间方向分开](../conferences/icml-2026/cards/3701-3800.md#qi26j-architecture) · Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast
+- [半定规划索引对消息传递](../conferences/icml-2026/cards/3701-3800.md#qian26e-architecture) · On the Expressive Power of GNNs to Solve Linear SDPs
 
 <a id="by-scientific-ml"></a>
 

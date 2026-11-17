@@ -144,6 +144,12 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments](../../conferences/icml-2026/cards/3501-3600.md#park26h-reinforcement-learning) · 中文
 - [Safety Alignment of LMs via Non-cooperative Games](../../conferences/icml-2026/cards/3601-3700.md#paulus26b-reinforcement-learning) · 中文
 - [HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents](../../conferences/icml-2026/cards/3601-3700.md#peng26h-reinforcement-learning) · 中文
+- [Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](../../conferences/icml-2026/cards/3601-3700.md#prabhudesai26a-reinforcement-learning) · 中文
+- [Escaping the Mode: Multi-Answer Reinforcement Learning in LMs](../../conferences/icml-2026/cards/3601-3700.md#puri26a-reinforcement-learning) · 中文
+- [Rethinking the Trust Region in LLM Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qi26q-reinforcement-learning) · 中文
+- [CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement](../../conferences/icml-2026/cards/3701-3800.md#qian26c-reinforcement-learning) · 中文
+- [On the Plasticity and Stability for Post-Training Large Language Models](../../conferences/icml-2026/cards/3701-3800.md#qiang26a-reinforcement-learning) · 中文
+- [Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qiao26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -294,6 +300,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [TACTIC: Task-Aware Sparse Coordination Graphs for Multi-Task Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/3601-3700.md#peng26f-reinforcement-learning) · 中文
 - [Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment](../../conferences/icml-2026/cards/3601-3700.md#petitbois26a-reinforcement-learning) · 中文
 - [Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset](../../conferences/icml-2026/cards/3601-3700.md#pham26b-reinforcement-learning) · 中文
+- [Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition](../../conferences/icml-2026/cards/3701-3800.md#qiao26d-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -317,6 +324,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](../../conferences/icml-2026/cards/3201-3300.md#mandi26a-reinforcement-learning) · 中文
 - [CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#ni26d-reinforcement-learning) · 中文
 - [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](../../conferences/icml-2026/cards/3601-3700.md#patil26a-reinforcement-learning) · 中文
+- [Efficient and Safe Molecular Assembly via Reinforcement Learning and Constraint Solving](../../conferences/icml-2026/cards/3601-3700.md#pranger26a-reinforcement-learning) · 中文
+- [Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qiao26f-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -370,6 +379,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Contextualized Visual Personalization in Vision-Language Models](../../conferences/icml-2026/cards/3401-3500.md#oh26c-reinforcement-learning) · 中文
 - [OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization](../../conferences/icml-2026/cards/3501-3600.md#ong26a-reinforcement-learning) · 中文
 - [Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#pan26b-reinforcement-learning) · 中文
+- [CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qi26g-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

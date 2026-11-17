@@ -282,6 +282,19 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Pressure Reveals Character: Behavioural Alignment Evaluation at Depth](../../conferences/icml-2026/cards/3601-3700.md#petrova26a-evaluation) · 中文
 - [Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models](../../conferences/icml-2026/cards/3601-3700.md#pink26a-evaluation) · 中文
 - [Wait, Wait, Wait... Why Do Reasoning Models Loop?](../../conferences/icml-2026/cards/3601-3700.md#pipis26a-evaluation) · 中文
+- [A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](../../conferences/icml-2026/cards/3601-3700.md#pitre26a-evaluation) · 中文
+- [Capability Traps in DPO](../../conferences/icml-2026/cards/3601-3700.md#pollanen26a-evaluation) · 中文
+- [Peer-Preservation in Frontier Models](../../conferences/icml-2026/cards/3601-3700.md#potter26a-evaluation) · 中文
+- [Representational Similarity and Model Behavior in Multi-Agent Interaction](../../conferences/icml-2026/cards/3601-3700.md#potter26b-evaluation) · 中文
+- [QuArch: A Benchmark for Evaluating LLM Reasoning in Computer Architecture](../../conferences/icml-2026/cards/3601-3700.md#prakash26a-evaluation) · 中文
+- [Effective Reasoning Chains Reduce Intrinsic Dimensionality](../../conferences/icml-2026/cards/3601-3700.md#prasad26a-evaluation) · 中文
+- [PersistBench: When Should Long-Term Memories Be Forgotten by LLMs?](../../conferences/icml-2026/cards/3601-3700.md#pulipaka26a-evaluation) · 中文
+- [On the Generalization Gap in Self-Evolving Language Model Reasoning](../../conferences/icml-2026/cards/3601-3700.md#qi26a-evaluation) · 中文
+- [Detecting Contextual Hallucinations in Large Language Models with Frequency-Aware Attention](../../conferences/icml-2026/cards/3701-3800.md#qi26d-evaluation) · 中文
+- [Who can we trust? LLM-as-a-jury for Comparative Assessment](../../conferences/icml-2026/cards/3701-3800.md#qian26i-evaluation) · 中文
+- [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](../../conferences/icml-2026/cards/3701-3800.md#qiao26h-evaluation) · 中文
+- [Tracing the Persona Circuit: How Large Language Models Encode and Express Character Traits](../../conferences/icml-2026/cards/3701-3800.md#qin26h-evaluation) · 中文
+- [Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions](../../conferences/icml-2026/cards/3701-3800.md#qin26i-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -332,6 +345,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Low-Compute Watermark Removal via Dual-Domain Natural Projection](../../conferences/icml-2026/cards/3201-3300.md#meshram26a-evaluation) · 中文
 - [IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension](../../conferences/icml-2026/cards/3301-3400.md#mordacq26a-evaluation) · 中文
 - [GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning](../../conferences/icml-2026/cards/3301-3400.md#murata26a-evaluation) · 中文
+- [Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search](../../conferences/icml-2026/cards/3601-3700.md#plitsis26a-evaluation) · 中文
+- [Low-Rank and Sparsity Are All You Need: Exploring Robust Hierarchical Latent Subspaces for Transferable Adversarial Attack](../../conferences/icml-2026/cards/3601-3700.md#pu26b-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -371,6 +386,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26w-evaluation) · 中文
 - [Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26w-evaluation) · 中文
 - [Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards](../../conferences/icml-2026/cards/3101-3200.md#majumdar26a-evaluation) · 中文
+- [Rationality Measurement and Theory for Reinforcement Learning Agents](../../conferences/icml-2026/cards/3701-3800.md#qian26f-evaluation) · 中文
+- [Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qian26n-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -387,6 +404,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Scaling Robot Policy Evaluation via Discrete Diffusion World Model](../../conferences/icml-2026/cards/2601-2700.md#li26hi-evaluation) · 中文
 - [Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26bu-evaluation) · 中文
 - [Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty](../../conferences/icml-2026/cards/3201-3300.md#meng26n-evaluation) · 中文
+- [BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis](../../conferences/icml-2026/cards/3701-3800.md#qi26p-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -523,6 +541,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · 中文
 - [Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · 中文
 - [CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning](../../conferences/icml-2026/cards/3501-3600.md#panayiotou26a-evaluation) · 中文
+- [It’s TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](../../conferences/icml-2026/cards/3701-3800.md#qiao26g-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -580,4 +599,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models](../../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · 中文
 - [TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · 中文
 - [SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection](../../conferences/icml-2026/cards/3601-3700.md#park26y-evaluation) · 中文
+- [Fine-grained Analysis of Brain-LLM Alignment through Input Attribution](../../conferences/icml-2026/cards/3601-3700.md#proietti26a-evaluation) · 中文
 <!-- classification:end -->

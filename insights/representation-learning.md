@@ -104,6 +104,7 @@
 - [用时距差表示可跨情境复用的动作变化](../conferences/icml-2026/cards/2101-2200.md#kim26x-representation-learning) · Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning
 - [动力学互信息与经验时效的联合去偏](../conferences/icml-2026/cards/3101-3200.md#lyu26f-representation-learning) · Debiased Model-based Representations for Sample-efficient Continuous Control
 - [用随机投影把 RL 表征约束为各向同性高斯](../conferences/icml-2026/cards/3601-3700.md#pasand26a-representation-learning) · Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
+- [从动力学推断任务并压低无支撑价值](../conferences/icml-2026/cards/3701-3800.md#qian26o-representation-learning) · Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -162,6 +163,9 @@
 - [模糊触发与跨模态概念解释](../conferences/icml-2026/cards/3301-3400.md#mishra26b-representation-learning) · Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models
 - [随机改变位置数据的模态组合来训练稳健融合](../conferences/icml-2026/cards/3301-3400.md#muhlematter26a-representation-learning) · UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations
 - [跨患者解剖排序](../conferences/icml-2026/cards/3501-3600.md#pan26i-representation-learning) · Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging
+- [用规则网格声码词元改善连续扩散的分类去噪](../conferences/icml-2026/cards/3601-3700.md#popov26a-representation-learning) · Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech
+- [先拆分频带再做跨传感器对齐](../conferences/icml-2026/cards/3701-3800.md#qi26l-representation-learning) · FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification
+- [定长音乐拍点的稀疏模式词元](../conferences/icml-2026/cards/3701-3800.md#qian26a-representation-learning) · BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps
 
 <a id="by-ml-foundations"></a>
 
@@ -307,4 +311,7 @@
 - [基因组模型的稀疏特征探针](../conferences/icml-2026/cards/3401-3500.md#nair26a-representation-learning) · Interpreting Genomic Language Models using Sparse Autoencoders
 - [三维形状权重外推](../conferences/icml-2026/cards/3401-3500.md#nehme26b-representation-learning) · LAMP: Data-Efficient Linear Affine Weight-Space Models for Parameter-Controlled 3D Shape Generation and Extrapolation
 - [用真实敲低监督图增强的相似性](../conferences/icml-2026/cards/3501-3600.md#oshima26a-representation-learning) · Supervised Graph Contrastive Learning for Gene Regulatory Networks
+- [用归因修补拆解蛋白语言模型的重复识别电路](../conferences/icml-2026/cards/3601-3700.md#pomerants26a-representation-learning) · Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models
+- [统一虚拟表达以比较调控响应](../conferences/icml-2026/cards/3701-3800.md#qi26h-representation-learning) · Towards Universal Gene Regulatory Network Inference: Unlocking Generalizable Regulatory Knowledge in Single-cell Foundation Models
+- [借删失似然学习共有风险特征](../conferences/icml-2026/cards/3701-3800.md#qi26o-representation-learning) · Explicitly Modeling Censoring Produces Superior Survival Predictors
 <!-- classification:end -->

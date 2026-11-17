@@ -70,6 +70,7 @@
 - [用当前模型的估计熵重排领域课程](../conferences/icml-2026/cards/3501-3600.md#pang26e-data-strategies) · EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning
 - [反向推理骨架](../conferences/icml-2026/cards/3601-3700.md#peng26b-data-strategies) · Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation
 - [用验证器筛选有效又加速的循环不变量](../conferences/icml-2026/cards/3601-3700.md#pinto26a-data-strategies) · Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs
+- [小模型蒸馏保留本机推理表达](../conferences/icml-2026/cards/3701-3800.md#qian26l-data-strategies) · The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -110,6 +111,8 @@
 - [数学搜索课程的中间难度实例](../conferences/icml-2026/cards/1001-1100.md#fagan26a-data-strategies) · The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning
 - [世界模型的主动探测数据](../conferences/icml-2026/cards/1101-1200.md#feng26aa-data-strategies) · Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling
 - [用情景记忆的时差误差选择合成强化学习经验](../conferences/icml-2026/cards/3101-3200.md#ma26p-data-strategies) · Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning
+- [按动力学模式赋值的跨域离线强化学习](../conferences/icml-2026/cards/3701-3800.md#qiao26e-data-strategies) · Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets
+- [以同一状态拼接来路和去路](../conferences/icml-2026/cards/3701-3800.md#qing26a-data-strategies) · BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -180,6 +183,8 @@
 - [回归残差复用](../conferences/icml-2026/cards/3301-3400.md#mohebbi26a-data-strategies) · Counterfactual Residual Data Augmentation for Regression
 - [用等权群体重心蒸馏数据](../conferences/icml-2026/cards/3301-3400.md#moslemi26a-data-strategies) · Fair Dataset Distillation via Cross-Group Barycenter Alignment
 - [解耦类别与域上下文来合成时间序列](../conferences/icml-2026/cards/3601-3700.md#pei26c-data-strategies) · CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification
+- [在多种表征上挑回放样本](../conferences/icml-2026/cards/3701-3800.md#qi26n-data-strategies) · Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning
+- [递归生成中的局部筛选偏差](../conferences/icml-2026/cards/3701-3800.md#qiao26c-data-strategies) · When Sample Selection Bias Precipitates Model Collapse
 
 <a id="by-graph-and-recommendation"></a>
 

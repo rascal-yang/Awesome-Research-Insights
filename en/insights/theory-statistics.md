@@ -60,6 +60,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints](../../conferences/icml-2026/cards/3401-3500.md#nie26a-theory-statistics) · 中文
 - [Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner](../../conferences/icml-2026/cards/3501-3600.md#oko26a-theory-statistics) · 中文
 - [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../../conferences/icml-2026/cards/3501-3600.md#ouyang26e-theory-statistics) · 中文
+- [Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking](../../conferences/icml-2026/cards/3601-3700.md#pratihar26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -69,6 +70,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Is Generation Required for Data-Efficient Perception?](../../conferences/icml-2026/cards/0301-0400.md#brady26b-theory-statistics) · 中文
 - [On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#lyu26g-theory-statistics) · 中文
 - [An analytic theory of convolutional neural network inverse problems solvers](../../conferences/icml-2026/cards/3401-3500.md#nguyen26c-theory-statistics) · 中文
+- [On the Separability of Information in Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#premkumar26a-theory-statistics) · 中文
 
 <a id="by-nlp"></a>
 
@@ -161,6 +163,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](../../conferences/icml-2026/cards/0301-0400.md#cai26o-theory-statistics) · 中文
 - [Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](../../conferences/icml-2026/cards/0801-0900.md#delattre26a-theory-statistics) · 中文
 - [Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling](../../conferences/icml-2026/cards/3101-3200.md#madaan26a-theory-statistics) · 中文
+- [Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing](../../conferences/icml-2026/cards/3701-3800.md#qi26i-theory-statistics) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -525,6 +528,13 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning Manifold Data with Flow Matching](../../conferences/icml-2026/cards/3601-3700.md#pi26a-theory-statistics) · 中文
 - [Infinite-Dimensional Generative Diffusions via Doob’s h-Transform](../../conferences/icml-2026/cards/3601-3700.md#pieper-sethmacher26a-theory-statistics) · 中文
 - [Joint Learning in the Gaussian Single Index Model](../../conferences/icml-2026/cards/3601-3700.md#pillaud-vivien26a-theory-statistics) · 中文
+- [Causal discovery for time series with endogenous context variables](../../conferences/icml-2026/cards/3601-3700.md#popescu26a-theory-statistics) · 中文
+- [Approximation Preserving Coresets](../../conferences/icml-2026/cards/3601-3700.md#prabhu26a-theory-statistics) · 中文
+- [Conformal Policy Control](../../conferences/icml-2026/cards/3601-3700.md#prinster26a-theory-statistics) · 中文
+- [Kernel-based Maximum-of-difference Test for Two-sample Comparison](../../conferences/icml-2026/cards/3601-3700.md#pu26c-theory-statistics) · 中文
+- [What Does Preference Learning Recover from Pairwise Comparison Data?](../../conferences/icml-2026/cards/3601-3700.md#pukdee26a-theory-statistics) · 中文
+- [On the Identifiability of Poisson Branching Structural Causal Model Under Latent Confounding](../../conferences/icml-2026/cards/3701-3800.md#qiao26k-theory-statistics) · 中文
+- [Information dynamics and Memory in Neural Networks through Fisher Information Diffusion](../../conferences/icml-2026/cards/3701-3800.md#qin26f-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

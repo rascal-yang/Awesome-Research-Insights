@@ -134,6 +134,7 @@ Reusable components and local changes to model inputs or connections.
 - [Dual-Latent Memory Routing for Vision-Language Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26ac-modules) · 中文
 - [Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](../../conferences/icml-2026/cards/3201-3300.md#mi26c-modules) · 中文
 - [Difference-Aware Decision Learning for Multimodal Image Fusion](../../conferences/icml-2026/cards/3501-3600.md#pan26d-modules) · 中文
+- [UGround: Towards Unified Visual Grounding with Unrolled Transformers](../../conferences/icml-2026/cards/3701-3800.md#qian26m-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -208,4 +209,5 @@ Reusable components and local changes to model inputs or connections.
 - [Fractional is Better: Learnable Derivative Orders in Neural Operator Learning](../../conferences/icml-2026/cards/3201-3300.md#mehouachi26a-modules) · 中文
 - [Imposing Boundary Conditions on Neural Operators via Learned Function Extensions](../../conferences/icml-2026/cards/3301-3400.md#mousavi26a-modules) · 中文
 - [Neural Minimum Weight Perfect Matching for Quantum Error Codes](../../conferences/icml-2026/cards/3601-3700.md#peled26a-modules) · 中文
+- [Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting](../../conferences/icml-2026/cards/3701-3800.md#qin26e-modules) · 中文
 <!-- classification:end -->

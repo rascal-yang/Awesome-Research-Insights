@@ -64,6 +64,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ozyilkan26a-architecture"></a>[SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation](../../conferences/icml-2026/cards/3501-3600.md#paper-ozyilkan26a)
 - <a id="peng26c-architecture"></a>[CauScale: Neural Causal Discovery at Scale](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26c)
 - <a id="pinna26a-architecture"></a>[ParalESN: Enabling parallel information processing in Reservoir Computing](../../conferences/icml-2026/cards/3601-3700.md#paper-pinna26a)
+- <a id="pynadath26a-architecture"></a>[CANDI: Hybrid Discrete-Continuous Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#paper-pynadath26a)
 
 <a id="by-modules"></a>
 
@@ -143,6 +144,9 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ni26b-loss-functions"></a>[Possibilistic Predictive Uncertainty for Deep Learning](../../conferences/icml-2026/cards/3401-3500.md#paper-ni26b)
 - <a id="ouyang26b-loss-functions"></a>[A Diffusive Classification Loss for Learning Energy-based Generative Models](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26b)
 - <a id="persiianov26a-loss-functions"></a>[Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization](../../conferences/icml-2026/cards/3601-3700.md#paper-persiianov26a)
+- <a id="plaud26a-loss-functions"></a>[Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference](../../conferences/icml-2026/cards/3601-3700.md#paper-plaud26a)
+- <a id="qian26h-loss-functions"></a>[Likelihood Matching for Diffusion Models](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26h)
+- <a id="qiao26b-loss-functions"></a>[Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26b)
 
 <a id="by-optimization"></a>
 
@@ -345,6 +349,15 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="pautrel26a-optimization"></a>[Riemannian stochastic optimization for sufficient dimension reduction](../../conferences/icml-2026/cards/3601-3700.md#paper-pautrel26a)
 - <a id="petersen26a-optimization"></a>[Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation](../../conferences/icml-2026/cards/3601-3700.md#paper-petersen26a)
 - <a id="pion26a-optimization"></a>[Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization](../../conferences/icml-2026/cards/3601-3700.md#paper-pion26a)
+- <a id="porras-valenzuela26a-optimization"></a>[A Constrained Optimization Perspective of Unrolled Transformers](../../conferences/icml-2026/cards/3601-3700.md#paper-porras-valenzuela26a)
+- <a id="potaptchik26a-optimization"></a>[Tilt Matching for Scalable Sampling and Fine-Tuning](../../conferences/icml-2026/cards/3601-3700.md#paper-potaptchik26a)
+- <a id="prakash26b-optimization"></a>[Spectral Collapse Drives Loss of Plasticity in Deep Continual Learning](../../conferences/icml-2026/cards/3601-3700.md#paper-prakash26b)
+- <a id="prokhorov26a-optimization"></a>[Gradient-Free Approaches is a Key to an Efficient Interaction with Markovian Stochasticity](../../conferences/icml-2026/cards/3601-3700.md#paper-prokhorov26a)
+- <a id="qi26c-optimization"></a>[Delving into Muon and Beyond: Deep Analysis and Extensions](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26c)
+- <a id="qi26f-optimization"></a>[Towards the Training of Deeper Predictive Coding Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26f)
+- <a id="qian26b-optimization"></a>[Federated Bilevel Performative Prediction](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26b)
+- <a id="qin26l-optimization"></a>[Zeroth-Order Forward-Only SNN Training Inspiring Neuromorphic On-Chip Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26l)
+- <a id="qiu26a-optimization"></a>[Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -415,6 +428,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="na26b-training-strategies"></a>[Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#paper-na26b)
 - <a id="pachebat26a-training-strategies"></a>[Tail Annealing for Heavy-Tailed Flow Matching](../../conferences/icml-2026/cards/3501-3600.md#paper-pachebat26a)
 - <a id="park26l-training-strategies"></a>[Saliency-Aware Model Merging](../../conferences/icml-2026/cards/3501-3600.md#paper-park26l)
+- <a id="qin26g-training-strategies"></a>[Towards Rule-Based Knowledge Sharing in Federated Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26g)
 
 <a id="by-data-strategies"></a>
 
@@ -441,6 +455,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="mohebbi26a-data-strategies"></a>[Counterfactual Residual Data Augmentation for Regression](../../conferences/icml-2026/cards/3301-3400.md#paper-mohebbi26a)
 - <a id="moslemi26a-data-strategies"></a>[Fair Dataset Distillation via Cross-Group Barycenter Alignment](../../conferences/icml-2026/cards/3301-3400.md#paper-moslemi26a)
 - <a id="pei26c-data-strategies"></a>[CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification](../../conferences/icml-2026/cards/3601-3700.md#paper-pei26c)
+- <a id="qi26n-data-strategies"></a>[Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26n)
+- <a id="qiao26c-data-strategies"></a>[When Sample Selection Bias Precipitates Model Collapse](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26c)
 
 <a id="by-inference"></a>
 
@@ -589,6 +605,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="paillard26a-evaluation"></a>[Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paper-paillard26a)
 - <a id="pakman26a-evaluation"></a>[Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#paper-pakman26a)
 - <a id="panayiotou26a-evaluation"></a>[CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-panayiotou26a)
+- <a id="qiao26g-evaluation"></a>[It’s TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26g)
 
 <a id="by-theory-statistics"></a>
 
@@ -953,4 +970,11 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="pi26a-theory-statistics"></a>[Learning Manifold Data with Flow Matching](../../conferences/icml-2026/cards/3601-3700.md#paper-pi26a)
 - <a id="pieper-sethmacher26a-theory-statistics"></a>[Infinite-Dimensional Generative Diffusions via Doob’s h-Transform](../../conferences/icml-2026/cards/3601-3700.md#paper-pieper-sethmacher26a)
 - <a id="pillaud-vivien26a-theory-statistics"></a>[Joint Learning in the Gaussian Single Index Model](../../conferences/icml-2026/cards/3601-3700.md#paper-pillaud-vivien26a)
+- <a id="popescu26a-theory-statistics"></a>[Causal discovery for time series with endogenous context variables](../../conferences/icml-2026/cards/3601-3700.md#paper-popescu26a)
+- <a id="prabhu26a-theory-statistics"></a>[Approximation Preserving Coresets](../../conferences/icml-2026/cards/3601-3700.md#paper-prabhu26a)
+- <a id="prinster26a-theory-statistics"></a>[Conformal Policy Control](../../conferences/icml-2026/cards/3601-3700.md#paper-prinster26a)
+- <a id="pu26c-theory-statistics"></a>[Kernel-based Maximum-of-difference Test for Two-sample Comparison](../../conferences/icml-2026/cards/3601-3700.md#paper-pu26c)
+- <a id="pukdee26a-theory-statistics"></a>[What Does Preference Learning Recover from Pairwise Comparison Data?](../../conferences/icml-2026/cards/3601-3700.md#paper-pukdee26a)
+- <a id="qiao26k-theory-statistics"></a>[On the Identifiability of Poisson Branching Structural Causal Model Under Latent Confounding](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26k)
+- <a id="qin26f-theory-statistics"></a>[Information dynamics and Memory in Neural Networks through Fisher Information Diffusion](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26f)
 <!-- classification:end -->

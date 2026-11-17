@@ -162,6 +162,9 @@ Objectives, auxiliary supervision, and regularization.
 - [Possibilistic Predictive Uncertainty for Deep Learning](../../conferences/icml-2026/cards/3401-3500.md#ni26b-loss-functions) · 中文
 - [A Diffusive Classification Loss for Learning Energy-based Generative Models](../../conferences/icml-2026/cards/3501-3600.md#ouyang26b-loss-functions) · 中文
 - [Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization](../../conferences/icml-2026/cards/3601-3700.md#persiianov26a-loss-functions) · 中文
+- [Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference](../../conferences/icml-2026/cards/3601-3700.md#plaud26a-loss-functions) · 中文
+- [Likelihood Matching for Diffusion Models](../../conferences/icml-2026/cards/3701-3800.md#qian26h-loss-functions) · 中文
+- [Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning](../../conferences/icml-2026/cards/3701-3800.md#qiao26b-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -202,4 +205,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation](../../conferences/icml-2026/cards/3201-3300.md#mejia26a-loss-functions) · 中文
 - [Learning to Emulate Chaos: Adversarial Optimal Transport Regularization](../../conferences/icml-2026/cards/3201-3300.md#melo26a-loss-functions) · 中文
 - [Asymmetric Contrastive Objectives for Efficient Phenotypic Screening](../../conferences/icml-2026/cards/3401-3500.md#nightingale26a-loss-functions) · 中文
+- [SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings](../../conferences/icml-2026/cards/3701-3800.md#qin26b-loss-functions) · 中文
 <!-- classification:end -->
