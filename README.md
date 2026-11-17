@@ -38,7 +38,7 @@
 
 ## 全部论文领域
 
-| 领域 | 收录论文 | 收录范围 |
+| 领域或会议 | 收录论文 | 收录范围 |
 | :--- | ---: | :--- |
 | <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 0 | 语言建模、后训练与推理。 |
 | [计算机视觉](#computer-vision) | 1 | 视觉识别、表征学习与生成。 |
@@ -46,6 +46,7 @@
 | [强化学习](#reinforcement-learning) | 1 | 从交互、反馈和离线经验中学习。 |
 | [机器人学](#robotics) | 2 | 机器人感知、策略学习、规划与控制。 |
 | <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 0 | 结合图像、文本、音频等模态进行学习。 |
+| [ICML 2026（跨领域）](conferences/icml-2026/README.md) | 303 | 论文集共 6,552 篇，按目录顺序整理 Insight。此前专题收录的 3 篇也计入此行。 |
 
 <a id="robotics"></a>
 

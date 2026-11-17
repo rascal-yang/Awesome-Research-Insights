@@ -38,7 +38,7 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 
 ## All Paper Domains
 
-| Domain | Papers | Scope |
+| Domain or conference | Papers | Scope |
 | :--- | ---: | :--- |
 | <a id="large-language-models"></a>[Large Language Models](en/papers/llm.md) | 0 | Language modeling, post-training, and reasoning. |
 | [Computer Vision](#computer-vision) | 1 | Recognition, visual representations, and generation. |
@@ -46,6 +46,7 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 | [Reinforcement Learning](#reinforcement-learning) | 1 | Learning from interaction, feedback, and offline experience. |
 | [Robotics](#robotics) | 2 | Robot perception, policy learning, planning, and control. |
 | <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 0 | Learning from images, text, audio, and other modalities. |
+| [ICML 2026 (cross-disciplinary)](conferences/icml-2026/README.md) | 303 | Insights in proceedings order across 6,552 papers. This count includes the 3 previously featured papers. |
 
 ## Robotics
 
