@@ -38,7 +38,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="feng26p-optimization"></a>[Convex Low-resource Accent-Robust Language Detection in Speech Recognition](https://proceedings.mlr.press/v306/feng26p.html) | 低资源语音语言识别的凸检测头 | 从冻结的语音编码器提取特征并做带掩码的均值池化，用批量 ADMM 在凸重参数化下训练语言识别头。将它预测的语言 token 传给转录解码器，减少口音造成的语言误判向转录阶段传播。 |
+| <a id="feng26p-optimization"></a>[Convex Low-resource Accent-Robust Language Detection in Speech Recognition](https://proceedings.mlr.press/v306/feng26p.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-feng26p) | 低资源语音语言识别的凸检测头 | 从冻结的语音编码器提取特征并做带掩码的均值池化，用批量 ADMM 在凸重参数化下训练语言识别头。将它预测的语言 token 传给转录解码器，减少口音造成的语言误判向转录阶段传播。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -101,7 +101,7 @@
 | <a id="chen26bf-evaluation"></a>[Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) · [论文卡](../conferences/icml-2026/cards/0501-0600.md#paper-chen26bf) | 生成文本的惊异度转移检测 | 用代理语言模型单次前向计算词元的负对数条件概率，将其离散为状态，再统计相邻状态的转移。用广义 Jensen–Shannon 散度比较测试文本与预先建立的人类和机器文本转移矩阵。 |
 | <a id="dehdashtian26a-evaluation"></a>[FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) · [论文卡](../conferences/icml-2026/cards/0801-0900.md#paper-dehdashtian26a) | 音频深伪检测的多样性压力测试 | 在黑盒红队评测中同时把检测器反馈和候选音频间的多样性反馈放进上下文，令测试覆盖更多错误模式。论文在所测检测器上确认了部分失效跨模型迁移，且回收测试样本做微调能提高检测稳健性。 |
 | <a id="duarte26a-evaluation"></a>[Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) · [论文卡](../conferences/icml-2026/cards/0901-1000.md#paper-duarte26a) | 同行评审来源的声明级检测 | 为目标评审配对同一论文、总体评分相同的多份 AI 参考评审，比较评价意见、建设建议等声明的最佳语义匹配，再加文本特征训练三分类器。在论文数据中，经 AI 润色的人类评审仍常保留有辨识度的判断内容。 |
-| <a id="fernandez26b-evaluation"></a>[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | 重写式事后文本水印评测 | 用带水印的解码器改写已有文本，联合测量水印可检测性和语义保真。论文比较显示，开放文本可通过束搜索改善折中，但代码的强水印往往伴随功能正确率下降。 |
+| <a id="fernandez26b-evaluation"></a>[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-fernandez26b) | 重写式事后文本水印评测 | 用带水印的解码器改写已有文本，联合测量水印可检测性和语义保真。论文比较显示，开放文本可通过束搜索改善折中，但代码的强水印往往伴随功能正确率下降。 |
 | <a id="gao26af-evaluation"></a>[FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) | 机器翻译的无参考成对排序 | 给裁判提供源句和两份译文，分别判断忠实度、流畅度与风格一致性。分项成对判断可用人工排序分别校验，并揭示总分掩盖的译文优缺点。 |
 | <a id="ghaffari26a-evaluation"></a>[BAT: Better Audio Transformer Guided by Convex Gated Probing](https://proceedings.mlr.press/v306/ghaffari26a.html) | 音频自监督表征的凸门控探测 | 冻结音频编码器，对所有层的块词元与全局词元学习和为一的非负聚合权重，再用汇总特征与可学习原型的相似度做预测。探针可同时评估表示质量和任务信息所处层次。 |
 | <a id="guo26w-evaluation"></a>[On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](https://proceedings.mlr.press/v306/guo26w.html) | 基于低概率词位的不确定性检测 | 先用实际 token 的概率分位数筛出低概率位置，汇总这些位置的对数概率，再用 Rényi 熵描述对应条件分布的形状。两种统计共同作判别，可减少高频套语和单点概率波动对生成文本检测的影响。 |

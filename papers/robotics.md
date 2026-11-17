@@ -33,7 +33,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | 视觉动作策略的连续网格采样 | 由任务条件预测少量连续采样坐标，并对各坐标周围四个视觉特征做双线性插值。可微采样允许动作监督调整坐标，也能保留位于图块边界的抓取线索。 |
+| <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-feng26x) | 视觉动作策略的连续网格采样 | 由任务条件预测少量连续采样坐标，并对各坐标周围四个视觉特征做双线性插值。可微采样允许动作监督调整坐标，也能保留位于图块边界的抓取线索。 |
 | <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | 视觉动作模型的通道相关门控 | 将视觉投影特征分成多个通道子空间，沿空间词元计算通道相关性，再经 sigmoid 门控筛选信息。用这一轻量适配器增强稳健的视觉语义，在论文扰动测试中提升操作策略的鲁棒性。 |
 | <a id="gyenes26a-modules"></a>[Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) | 精密操作的点云傅里叶编码 | 在点云送入策略编码器前，对每个笛卡尔坐标独立计算多波长正余弦特征。高频分量为模仿学习提供更直接的细微几何差异，便于区分插入与重新对位等动作。 |
 | <a id="reconvla-modules"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) · [论文卡](reconvla.md#paper-reconvla) | 指令前缀 | 把指令 token 放在图像 token 前，使视觉隐藏状态通过因果注意力读取任务信息。 [详细解读](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
@@ -77,7 +77,7 @@
 | :--- | :--- | :--- |
 | <a id="chen26d-training-strategies"></a>[NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chen26d) | 终身轨迹规划 | 让非参数贝叶斯记忆按新驾驶场景增长簇，扩散规划器按簇专门化，并用旧簇生成回放样本以保留此前技能。 |
 | <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) · [论文卡](../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw) | 部件位姿的弱监督对称估计 | 仅给出对称类型，让模型从点云和预测旋转估计对称轴概率。对镜面对称的候选平面，用原点云与镜像点云的 Chamfer 距离评估一致性，抑制缺少几何支持的平面。 |
-| <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) | 跨构型控制的奇异分量门控 | 将形态感知 Transformer 的权重拆成 SVD 秩一分量，训练时把分量分为通用、构型专用和任务专用三组。用肢体与关节参数以及任务文本生成软门控，部署时可重组与当前机器人和任务相关的控制器。 |
+| <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-feng26n) | 跨构型控制的奇异分量门控 | 将形态感知 Transformer 的权重拆成 SVD 秩一分量，训练时把分量分为通用、构型专用和任务专用三组。用肢体与关节参数以及任务文本生成软门控，部署时可重组与当前机器人和任务相关的控制器。 |
 | <a id="guo26i-training-strategies"></a>[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) | 视觉动作策略与世界模型的交替改进 | 先用当前机器人策略采集真实成功与失败轨迹，更新动作条件视频世界模型，再用它生成策略的额外滚动轨迹。将奖励模型筛出的成功合成轨迹和真实成功轨迹一起用于下一轮策略微调。 |
 
 <a id="by-data-strategies"></a>
@@ -132,7 +132,7 @@
 | <a id="cao26w-evaluation"></a>[DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-cao26w) | 柔性线状物体操作 | 在同一个可微仿真中改变线状物体的伸缩、弯曲塑性和交互条件，从而检验策略能否跨材料泛化。规划时还可显式选择有控制权的抓点。 |
 | <a id="dai26c-evaluation"></a>[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) · [论文卡](../conferences/icml-2026/cards/0801-0900.md#paper-dai26c) | 长程操作记忆的分项评测 | 用动作计数、遮挡后定位、跨时刻身份指代和动作模仿分别考查时间、空间、物体与程序记忆，再在同一 VLA 主干上比较记忆形式和接入方式。实验显示记忆机制的收益随任务类型变化。 |
 | <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) · [论文卡](../conferences/icml-2026/cards/0801-0900.md#paper-deng26r) | 机器人生成视频的物理与任务评测 | 将均匀抽样的视频帧组成时间网格，以问答清单分别检查物体穿透、未接触搬运等物理失真和关键动作是否按顺序完成。由此能定位画面流畅但动作不符合任务要求的机器人视频。 |
-| <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) | 动作块增量的基准姿态 | 在模仿学习的动作块中，让未来各步都相对块起点表示增量，可避免逐步累加预测误差。论文的真机对照中，这种表示比相对前一步的增量更稳定。 |
+| <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab) | 动作块增量的基准姿态 | 在模仿学习的动作块中，让未来各步都相对块起点表示增量，可避免逐步累加预测误差。论文的真机对照中，这种表示比相对前一步的增量更稳定。 |
 | <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) | 机器人代码策略的分层脚手架评测 | 将任务按控制接口的抽象层级、感知来源和是否提供示例分层，逐步撤去高层操作原语与示例。结合多轮执行反馈的对照，可区分能力下降来自感知误差、接口组合还是长程控制。 |
 
 <a id="by-theory-statistics"></a>
@@ -141,5 +141,5 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="francis-meretzki26a-theory-statistics"></a>[Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](https://proceedings.mlr.press/v306/francis-meretzki26a.html) | 用时序差分校准机器人任务成功率 | 对每个部分轨迹预测最终二元成败。在序列版 Brier 风险下，最优置信度等于当前策略的成功价值，因此可用时序差分把终局标签的监督传给途中各步。 |
+| <a id="francis-meretzki26a-theory-statistics"></a>[Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](https://proceedings.mlr.press/v306/francis-meretzki26a.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-francis-meretzki26a) | 用时序差分校准机器人任务成功率 | 对每个部分轨迹预测最终二元成败。在序列版 Brier 风险下，最优置信度等于当前策略的成功价值，因此可用时序差分把终局标签的监督传给途中各步。 |
 <!-- classification:end -->

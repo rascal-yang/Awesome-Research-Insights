@@ -33,7 +33,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | [Read insight (中文)](../../papers/robotics.md#feng26x-modules) |
+| [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26x) | [Read insight (中文)](../../papers/robotics.md#feng26x-modules) |
 | [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | [Read insight (中文)](../../papers/robotics.md#fu26x-modules) |
 | [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) | [Read insight (中文)](../../papers/robotics.md#gyenes26a-modules) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-modules) · [Full entry](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
@@ -77,7 +77,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26d) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
 | [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw) | [Read insight (中文)](../../papers/robotics.md#chen26fw-training-strategies) |
-| [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) | [Read insight (中文)](../../papers/robotics.md#feng26n-training-strategies) |
+| [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26n) | [Read insight (中文)](../../papers/robotics.md#feng26n-training-strategies) |
 | [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) | [Read insight (中文)](../../papers/robotics.md#guo26i-training-strategies) |
 
 <a id="by-data-strategies"></a>
@@ -132,7 +132,7 @@ The linked short insights are available in Chinese.
 | [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-cao26w) | [Read insight (中文)](../../papers/robotics.md#cao26w-evaluation) |
 | [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dai26c) | [Read insight (中文)](../../papers/robotics.md#dai26c-evaluation) |
 | [Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26r) | [Read insight (中文)](../../papers/robotics.md#deng26r-evaluation) |
-| [Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) | [Read insight (中文)](../../papers/robotics.md#feng26ab-evaluation) |
+| [Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab) | [Read insight (中文)](../../papers/robotics.md#feng26ab-evaluation) |
 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) | [Read insight (中文)](../../papers/robotics.md#fu26u-evaluation) |
 
 <a id="by-theory-statistics"></a>
@@ -141,5 +141,5 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](https://proceedings.mlr.press/v306/francis-meretzki26a.html) | [Read insight (中文)](../../papers/robotics.md#francis-meretzki26a-theory-statistics) |
+| [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](https://proceedings.mlr.press/v306/francis-meretzki26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-francis-meretzki26a) | [Read insight (中文)](../../papers/robotics.md#francis-meretzki26a-theory-statistics) |
 <!-- classification:end -->
