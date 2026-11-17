@@ -17,6 +17,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](../../conferences/icml-2026/cards/0501-0600.md#chen26dr-representation-learning) · 中文
 - [ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](../../conferences/icml-2026/cards/0601-0700.md#chen26gy-representation-learning) · 中文
 - [Ensembling Sparse Autoencoders](../../conferences/icml-2026/cards/1101-1200.md#gadgil26a-representation-learning) · 中文
+- [LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection](../../conferences/icml-2026/cards/1501-1600.md#he26z-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -61,6 +62,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 
 - [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](../../conferences/icml-2026/cards/1001-1100.md#fan26f-representation-learning) · 中文
 - [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](../../conferences/icml-2026/cards/1401-1500.md#habashy26a-representation-learning) · 中文
+- [Motion Dynamics Learning for Few-Shot Embodied Adaptation](../../conferences/icml-2026/cards/1501-1600.md#he26ao-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -74,6 +76,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](../../conferences/icml-2026/cards/0901-1000.md#dutta26b-representation-learning) · 中文
 - [ObjEmbed: Towards Universal Multimodal Object Embeddings](../../conferences/icml-2026/cards/1101-1200.md#fu26p-representation-learning) · 中文
 - [TimeOmni-VL: Unified Models for Time Series Understanding and Generation](../../conferences/icml-2026/cards/1301-1400.md#guan26e-representation-learning) · 中文
+- [DSGCR: Decomposed Spectral Geometry-Aware Cross-Modal Semantic Representation for 3D Visual Grounding](../../conferences/icml-2026/cards/1501-1600.md#he26s-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -108,6 +111,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters](../../conferences/icml-2026/cards/0901-1000.md#du26o-representation-learning) · 中文
 - [Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation](../../conferences/icml-2026/cards/1001-1100.md#ezoe26a-representation-learning) · 中文
 - [CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation](../../conferences/icml-2026/cards/1301-1400.md#guo26p-representation-learning) · 中文
+- [Structure-Centric Graph Foundation Model via Geometric Bases](../../conferences/icml-2026/cards/1501-1600.md#he26l-representation-learning) · 中文
+- [GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](../../conferences/icml-2026/cards/1501-1600.md#he26af-representation-learning) · 中文
+- [A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs](../../conferences/icml-2026/cards/1501-1600.md#he26at-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -127,4 +133,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](../../conferences/icml-2026/cards/1201-1300.md#gelard26a-representation-learning) · 中文
 - [SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](../../conferences/icml-2026/cards/1301-1400.md#guo26a-representation-learning) · 中文
 - [Learning Permutation-invariant Macroscopic Dynamics](../../conferences/icml-2026/cards/1401-1500.md#han26f-representation-learning) · 中文
+- [Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs](../../conferences/icml-2026/cards/1501-1600.md#he26w-representation-learning) · 中文
 <!-- classification:end -->

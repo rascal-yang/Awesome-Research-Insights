@@ -52,6 +52,8 @@ Training schedules, curricula, and task or stage composition.
 - [Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#ham26a-training-strategies) · 中文
 - [Weight Decay Improves Language Model Plasticity](../../conferences/icml-2026/cards/1401-1500.md#han26b-training-strategies) · 中文
 - [ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind](../../conferences/icml-2026/cards/1401-1500.md#han26s-training-strategies) · 中文
+- [Effective Distillation to Hybrid xLSTM Architectures](../../conferences/icml-2026/cards/1401-1500.md#hauzenberger26a-training-strategies) · 中文
+- [Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization](../../conferences/icml-2026/cards/1501-1600.md#he26aj-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +75,7 @@ Training schedules, curricula, and task or stage composition.
 - [VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](../../conferences/icml-2026/cards/0901-1000.md#du26q-training-strategies) · 中文
 - [Spectrally-Guided Diffusion Noise Schedules](../../conferences/icml-2026/cards/1001-1100.md#esteves26a-training-strategies) · 中文
 - [Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](../../conferences/icml-2026/cards/1301-1400.md#gong26j-training-strategies) · 中文
+- [CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal](../../conferences/icml-2026/cards/1501-1600.md#he26al-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -88,6 +91,7 @@ Training schedules, curricula, and task or stage composition.
 - [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](../../conferences/icml-2026/cards/0601-0700.md#chen26fw-training-strategies) · 中文
 - [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](../../conferences/icml-2026/cards/1101-1200.md#feng26n-training-strategies) · 中文
 - [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](../../conferences/icml-2026/cards/1301-1400.md#guo26i-training-strategies) · 中文
+- [FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy](../../conferences/icml-2026/cards/1501-1600.md#he26aq-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -143,6 +147,9 @@ Training schedules, curricula, and task or stage composition.
 - [Latent-Guided Cooperative Energy-Based Models](../../conferences/icml-2026/cards/1201-1300.md#geng26b-training-strategies) · 中文
 - [TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](../../conferences/icml-2026/cards/1301-1400.md#gorishniy26a-training-strategies) · 中文
 - [Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations](../../conferences/icml-2026/cards/1301-1400.md#guo26y-training-strategies) · 中文
+- [$\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers](../../conferences/icml-2026/cards/1401-1500.md#han26x-training-strategies) · 中文
+- [Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning](../../conferences/icml-2026/cards/1401-1500.md#he26f-training-strategies) · 中文
+- [FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping](../../conferences/icml-2026/cards/1501-1600.md#he26p-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

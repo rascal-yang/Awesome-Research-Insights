@@ -59,6 +59,7 @@
 - <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw)
 - <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](../conferences/icml-2026/cards/1101-1200.md#paper-feng26n)
 - <a id="guo26i-training-strategies"></a>[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](../conferences/icml-2026/cards/1301-1400.md#paper-guo26i)
+- <a id="he26aq-training-strategies"></a>[FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy](../conferences/icml-2026/cards/1501-1600.md#paper-he26aq)
 
 <a id="by-data-strategies"></a>
 
@@ -95,6 +96,7 @@
 
 - <a id="fan26f-representation-learning"></a>[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](../conferences/icml-2026/cards/1001-1100.md#paper-fan26f)
 - <a id="habashy26a-representation-learning"></a>[Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](../conferences/icml-2026/cards/1401-1500.md#paper-habashy26a)
+- <a id="he26ao-representation-learning"></a>[Motion Dynamics Learning for Few-Shot Embodied Adaptation](../conferences/icml-2026/cards/1501-1600.md#paper-he26ao)
 
 <a id="by-evaluation"></a>
 

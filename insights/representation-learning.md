@@ -17,6 +17,7 @@
 - [面向监测的行为表征解耦](../conferences/icml-2026/cards/0501-0600.md#chen26dr-representation-learning) · Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring
 - [思维链视觉压缩](../conferences/icml-2026/cards/0601-0700.md#chen26gy-representation-learning) · ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model
 - [按残差训练稀疏自编码器集成](../conferences/icml-2026/cards/1101-1200.md#gadgil26a-representation-learning) · Ensembling Sparse Autoencoders
+- [用升维二值码本细调权重位宽](../conferences/icml-2026/cards/1501-1600.md#he26z-representation-learning) · LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection
 
 <a id="by-computer-vision"></a>
 
@@ -61,6 +62,7 @@
 
 - [跨机器人共享的视觉运动码](../conferences/icml-2026/cards/1001-1100.md#fan26f-representation-learning) · XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations
 - [空间语义指针的测地流去噪](../conferences/icml-2026/cards/1401-1500.md#habashy26a-representation-learning) · Geodesic Flow Matching for Denoising High-Dimensional Structured Representations
+- [用先验动作库约束少样本轨迹适配](../conferences/icml-2026/cards/1501-1600.md#he26ao-representation-learning) · Motion Dynamics Learning for Few-Shot Embodied Adaptation
 
 <a id="by-multimodal"></a>
 
@@ -74,6 +76,7 @@
 - [传感通道文本调制时序表征](../conferences/icml-2026/cards/0901-1000.md#dutta26b-representation-learning) · Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings
 - [对象检索的语义与定位质量嵌入](../conferences/icml-2026/cards/1101-1200.md#fu26p-representation-learning) · ObjEmbed: Towards Universal Multimodal Object Embeddings
 - [时序与图像之间的双向保真映射](../conferences/icml-2026/cards/1301-1400.md#guan26e-representation-learning) · TimeOmni-VL: Unified Models for Time Series Understanding and Generation
+- [将三维成对关系拆为奇偶谱分量](../conferences/icml-2026/cards/1501-1600.md#he26s-representation-learning) · DSGCR: Decomposed Spectral Geometry-Aware Cross-Modal Semantic Representation for 3D Visual Grounding
 
 <a id="by-ml-foundations"></a>
 
@@ -108,6 +111,9 @@
 - [图分布的跨环境重心对齐](../conferences/icml-2026/cards/0901-1000.md#du26o-representation-learning) · From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters
 - [动态图的展开归一化拉普拉斯嵌入](../conferences/icml-2026/cards/1001-1100.md#ezoe26a-representation-learning) · Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation
 - [结构与语义共识的推荐对比学习](../conferences/icml-2026/cards/1301-1400.md#guo26p-representation-learning) · CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation
+- [以几何基的传输距离对齐异构图](../conferences/icml-2026/cards/1501-1600.md#he26l-representation-learning) · Structure-Centric Graph Foundation Model via Geometric Bases
+- [融合冻结与轻调的图表征](../conferences/icml-2026/cards/1501-1600.md#he26af-representation-learning) · GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks
+- [按通道融合多模态图专家](../conferences/icml-2026/cards/1501-1600.md#he26at-representation-learning) · A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs
 
 <a id="by-scientific-ml"></a>
 
@@ -127,4 +133,5 @@
 - [转录组与甲基化的双模态掩码学习](../conferences/icml-2026/cards/1201-1300.md#gelard26a-representation-learning) · Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning
 - [脉搏波词元的语义一致量化](../conferences/icml-2026/cards/1301-1400.md#guo26a-representation-learning) · SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model
 - [无序微观系统的宏观状态表征](../conferences/icml-2026/cards/1401-1500.md#han26f-representation-learning) · Learning Permutation-invariant Macroscopic Dynamics
+- [存储混合偏导的哈希网格](../conferences/icml-2026/cards/1501-1600.md#he26w-representation-learning) · Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs
 <!-- classification:end -->

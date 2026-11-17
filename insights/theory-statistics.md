@@ -80,6 +80,7 @@
 - [策略计算预算与长程泛化](../conferences/icml-2026/cards/1201-1300.md#ghugare26a-theory-statistics) · On the Role of Computation in Reinforcement Learning
 - [状态图谱特征的价值误差分解](../conferences/icml-2026/cards/1201-1300.md#giorgi26a-theory-statistics) · Impact of Connectivity on Laplacian Representations in Reinforcement Learning
 - [付费观测的免费预算相变](../conferences/icml-2026/cards/1301-1400.md#gong26i-theory-statistics) · The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations
+- [最优点附近的策略梯度信噪比](../conferences/icml-2026/cards/1401-1500.md#han26z-theory-statistics) · Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator
 
 <a id="by-robotics"></a>
 
@@ -262,6 +263,13 @@
 - [时变朗之万退火的正向 KL 收敛](../conferences/icml-2026/cards/1401-1500.md#habring26a-theory-statistics) · Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions
 - [罕见事件因果路径的可证伪检验](../conferences/icml-2026/cards/1401-1500.md#haghighat26a-theory-statistics) · Formalizing and Falsifying Causal Pathways of Rare Events
 - [强凸集上 Frank–Wolfe 迭代下界](../conferences/icml-2026/cards/1401-1500.md#halbey26a-theory-statistics) · Lower Bounds for Frank-Wolfe on Strongly Convex Sets
+- [可数内部覆盖与生成反馈的能力边界](../conferences/icml-2026/cards/1401-1500.md#hanneke26a-theory-statistics) · Language Generation with Feedback: Queries and Mistakes
+- [用双层树刻画提前获知输入的在线学习](../conferences/icml-2026/cards/1401-1500.md#hanneke26b-theory-statistics) · Universal Multiclass Transductive Online Learning
+- [每个源数据增多仍可能隐藏有效任务](../conferences/icml-2026/cards/1401-1500.md#hanneke26c-theory-statistics) · When More Data Doesn’t Help: Limits of Adaptation in Multitask Learning
+- [用组内前缀最小值修正候选的配对评分](../conferences/icml-2026/cards/1401-1500.md#hays26a-theory-statistics) · Strategic Candidacy in Generative AI Arenas
+- [按后续曲率加权的扩散分数误差](../conferences/icml-2026/cards/1501-1600.md#he26q-theory-statistics) · The Accumulation of Score Estimation Error in Diffusion Models
+- [用 VC 维约束标准 Transformer 的近似深度](../conferences/icml-2026/cards/1501-1600.md#he26t-theory-statistics) · Approximation Error Upper and Lower Bounds for Hölder Class with Transformers
+- [以截断和平移校准序贯核检验](../conferences/icml-2026/cards/1501-1600.md#he26ah-theory-statistics) · Sequential Kernel-based Conditional Independence Testing via Adaptive Betting
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -277,6 +285,8 @@
 - [图算法的局部指令精确执行](../conferences/icml-2026/cards/1101-1200.md#fetrat-qharabagh26a-theory-statistics) · Learning to Execute Graph Algorithms Exactly with Graph Neural Networks
 - [截断图位置编码的表达能力](../conferences/icml-2026/cards/1101-1200.md#flora26a-theory-statistics) · Understanding Truncated Positional Encodings for Graph Neural Networks
 - [图时序的条件频谱共形校准](../conferences/icml-2026/cards/1301-1400.md#guo26d-theory-statistics) · Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series
+- [谱方向解释图嵌入的初期优化](../conferences/icml-2026/cards/1401-1500.md#harker26a-theory-statistics) · On the Optimization Trajectory of DeepWalk Embeddings
+- [用图结构约束压缩多树搜索状态](../conferences/icml-2026/cards/1401-1500.md#harviainen26a-theory-statistics) · Exact and Approximate Algorithms for Polytree Learning
 
 <a id="by-scientific-ml"></a>
 

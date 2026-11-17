@@ -52,6 +52,8 @@
 - [安全微调的缓冲与正交合并](../conferences/icml-2026/cards/1401-1500.md#ham26a-training-strategies) · Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models
 - [预训练权重衰减与下游可塑性](../conferences/icml-2026/cards/1401-1500.md#han26b-training-strategies) · Weight Decay Improves Language Model Plasticity
 - [对话中的反对意见建模](../conferences/icml-2026/cards/1401-1500.md#han26s-training-strategies) · ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind
+- [先对齐混合学生隐状态，再蒸馏并合并专家](../conferences/icml-2026/cards/1401-1500.md#hauzenberger26a-training-strategies) · Effective Distillation to Hybrid xLSTM Architectures
+- [蒸馏投影的激活感知初始化](../conferences/icml-2026/cards/1501-1600.md#he26aj-training-strategies) · Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +75,7 @@
 - [视频扩散的三维一致性偏好](../conferences/icml-2026/cards/0901-1000.md#du26q-training-strategies) · VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation
 - [由图像功率谱确定扩散日程](../conferences/icml-2026/cards/1001-1100.md#esteves26a-training-strategies) · Spectrally-Guided Diffusion Noise Schedules
 - [物理平面光照监督的补光条件](../conferences/icml-2026/cards/1301-1400.md#gong26j-training-strategies) · Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement
+- [用配对视频差分监督遮挡先验](../conferences/icml-2026/cards/1501-1600.md#he26al-training-strategies) · CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal
 
 <a id="by-nlp"></a>
 
@@ -88,6 +91,7 @@
 - [部件位姿的弱监督对称估计](../conferences/icml-2026/cards/0601-0700.md#chen26fw-training-strategies) · Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy
 - [跨构型控制的奇异分量门控](../conferences/icml-2026/cards/1101-1200.md#feng26n-training-strategies) · Knowledge Diversion for Efficient Morphology Control and Policy Transfer
 - [视觉动作策略与世界模型的交替改进](../conferences/icml-2026/cards/1301-1400.md#guo26i-training-strategies) · VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model
+- [用频域监督衔接连续动作块](../conferences/icml-2026/cards/1501-1600.md#he26aq-training-strategies) · FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy
 
 <a id="by-multimodal"></a>
 
@@ -143,6 +147,9 @@
 - [联合能量模型的边缘采样](../conferences/icml-2026/cards/1201-1300.md#geng26b-training-strategies) · Latent-Guided Cooperative Energy-Based Models
 - [表格 MLP 超参数并行集成](../conferences/icml-2026/cards/1301-1400.md#gorishniy26a-training-strategies) · TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning
 - [在指数族中迁移微调因子](../conferences/icml-2026/cards/1301-1400.md#guo26y-training-strategies) · Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations
+- [蒸馏专家搜索的候选分布](../conferences/icml-2026/cards/1401-1500.md#han26x-training-strategies) · $\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers
+- [按投影能量拆分持续学习的共享与专用更新](../conferences/icml-2026/cards/1401-1500.md#he26f-training-strategies) · Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning
+- [联邦低秩更新的选择聚合与尾部投影](../conferences/icml-2026/cards/1501-1600.md#he26p-training-strategies) · FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -101,6 +101,14 @@
 - [专家引导的分阶段 GPU 内核生成](../conferences/icml-2026/cards/1401-1500.md#han26h-inference) · EGG: An Expert-Guided Agent Framework for Kernel Generation
 - [端云投机解码的流水与双阈值验证](../conferences/icml-2026/cards/1401-1500.md#han26k-inference) · PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding
 - [按可恢复性分配词元计算](../conferences/icml-2026/cards/1401-1500.md#han26p-inference) · Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster
+- [把温和剪枝分解到现有稀疏内核](../conferences/icml-2026/cards/1401-1500.md#hao26a-inference) · SlideSparse: Fast and Flexible (2N-2):2N Structured Sparsity
+- [把单模型路由扩为可校准的候选集](../conferences/icml-2026/cards/1401-1500.md#hao26c-inference) · RACER: Risk-Aware Calibrated Efficient Routing for Large Language Models
+- [边缘化合法词元覆盖以消除提示边界偏置](../conferences/icml-2026/cards/1401-1500.md#hayase26a-inference) · Sampling from Your Language Model One Byte at a Time
+- [以违反程序属性的最小反例驱动代码修复](../conferences/icml-2026/cards/1401-1500.md#he26d-inference) · PGS: Effective LLM Code Refinement via Property-Oriented and Structurally Minimal Feedback
+- [把全序列参考分布约束分解为逐步解码预算](../conferences/icml-2026/cards/1501-1600.md#he26k-inference) · Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model
+- [按延迟余量路由增量预填充](../conferences/icml-2026/cards/1501-1600.md#he26r-inference) · Efficient Multi-round LLM Inference over Disaggregated Serving
+- [按算子特征拆分推理记忆流水线](../conferences/icml-2026/cards/1501-1600.md#he26ab-inference) · Understand and Accelerate Memory Processing Pipeline for Large Language Model Inference
+- [按章节状态调节长文解码](../conferences/icml-2026/cards/1501-1600.md#he26ar-inference) · On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility
 
 <a id="by-computer-vision"></a>
 
@@ -147,6 +155,7 @@
 - [按分类间隔自适应温度校准](../conferences/icml-2026/cards/1301-1400.md#guo26s-inference) · Sample Margin-Aware Recalibration of Temperature Scaling
 - [多扩散模型的公平区域分工](../conferences/icml-2026/cards/1401-1500.md#gupta26a-inference) · Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models
 - [用两步视频生成约束后续运动相位](../conferences/icml-2026/cards/1401-1500.md#han26l-inference) · Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them
+- [蒸馏全注意力的块级结构](../conferences/icml-2026/cards/1401-1500.md#han26y-inference) · Veda: Scalable Video Diffusion via Distilled Sparse Attention
 
 <a id="by-nlp"></a>
 
@@ -216,6 +225,10 @@
 - [文本反事实下的时序预测归因](../conferences/icml-2026/cards/1301-1400.md#gu26r-inference) · What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions
 - [异常检测的跨模态重建替换](../conferences/icml-2026/cards/1401-1500.md#guo26ai-inference) · Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer
 - [注意力引导的测试时提示适配](../conferences/icml-2026/cards/1401-1500.md#hai26a-inference) · Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models
+- [用不同信号分别判断视觉迟进与早退](../conferences/icml-2026/cards/1401-1500.md#hartman26a-inference) · Skip-It? Theoretical Conditions for Layer Skipping in Vision–Language Models
+- [用组内局部密度校正零样本相似度](../conferences/icml-2026/cards/1401-1500.md#hasanebrahimi26a-inference) · Density-Aware Translation of Spurious Correlations in Zero-Shot VLMs
+- [按层刷新视觉缓存并用相邻帧降低重算成本](../conferences/icml-2026/cards/1401-1500.md#he26c-inference) · VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding
+- [以双模型概率一致性接入单步视觉草稿](../conferences/icml-2026/cards/1401-1500.md#he26g-inference) · Self-Prophetic Decoding to Unlock Visual Search in LVLMs
 
 <a id="by-ml-foundations"></a>
 
@@ -270,4 +283,5 @@
 - [超大病理切片的动态倍率推理](../conferences/icml-2026/cards/1201-1300.md#ge26b-inference) · Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning
 - [稀疏传感条件下的城市风场扩散](../conferences/icml-2026/cards/1201-1300.md#giral26a-inference) · GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance
 - [原子势的平滑动态截断](../conferences/icml-2026/cards/1401-1500.md#han26g-inference) · Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials
+- [在共享逆合成搜索图上自适应采样目标权重](../conferences/icml-2026/cards/1401-1500.md#hastedt26a-inference) · From Feasible to Practical: Pareto-Optimal Synthesis Planning
 <!-- classification:end -->

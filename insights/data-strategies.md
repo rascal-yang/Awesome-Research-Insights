@@ -32,6 +32,7 @@
 - [指令数据的缺陷分诊](../conferences/icml-2026/cards/1101-1200.md#fu26f-data-strategies) · Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning
 - [差分隐私偏好对合成](../conferences/icml-2026/cards/1201-1300.md#gao26ae-data-strategies) · Differentially Private Preference Data Synthesis for Large Language Model Alignment
 - [复用可验证的软件环境](../conferences/icml-2026/cards/1301-1400.md#guo26aa-data-strategies) · MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering
+- [用多步代理更新估计样本的后续价值](../conferences/icml-2026/cards/1401-1500.md#hao26b-data-strategies) · BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining
 
 <a id="by-computer-vision"></a>
 
@@ -91,6 +92,8 @@
 - [视频到三维空间监督数据](../conferences/icml-2026/cards/1201-1300.md#gao26o-data-strategies) · Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence
 - [图像到 CAD 的几何反馈扩增](../conferences/icml-2026/cards/1201-1300.md#giannone26a-data-strategies) · GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback
 - [界面全量解析监督](../conferences/icml-2026/cards/1401-1500.md#gurbuz26a-data-strategies) · ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision
+- [从参考模型置信度自动构建视觉偏好对](../conferences/icml-2026/cards/1501-1600.md#he26ap-data-strategies) · RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback
+- [用遮罩模型生成无掩膜配音训练对](../conferences/icml-2026/cards/1501-1600.md#he26au-data-strategies) · From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping
 
 <a id="by-ml-foundations"></a>
 

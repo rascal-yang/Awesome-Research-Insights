@@ -46,6 +46,8 @@ Reusable components and local changes to model inputs or connections.
 - [MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](../../conferences/icml-2026/cards/0901-1000.md#duan26a-modules) · 中文
 - [WildActor: Unconstrained Identity-Preserving Video Generation](../../conferences/icml-2026/cards/1401-1500.md#guo26ad-modules) · 中文
 - [Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](../../conferences/icml-2026/cards/1401-1500.md#hadji26a-modules) · 中文
+- [Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization](../../conferences/icml-2026/cards/1401-1500.md#han26ab-modules) · 中文
+- [Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration](../../conferences/icml-2026/cards/1501-1600.md#he26an-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -73,6 +75,8 @@ Reusable components and local changes to model inputs or connections.
 - [OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](../../conferences/icml-2026/cards/0901-1000.md#ding26e-modules) · 中文
 - [EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs](../../conferences/icml-2026/cards/1301-1400.md#gong26g-modules) · 中文
 - [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](../../conferences/icml-2026/cards/1401-1500.md#guo26af-modules) · 中文
+- [Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport](../../conferences/icml-2026/cards/1401-1500.md#han26aa-modules) · 中文
+- [Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](../../conferences/icml-2026/cards/1401-1500.md#he26b-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -102,6 +106,7 @@ Reusable components and local changes to model inputs or connections.
 - [Byte Pair Encoding for Efficient Time Series Forecasting](../../conferences/icml-2026/cards/1301-1400.md#gotz26a-modules) · 中文
 - [Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion](../../conferences/icml-2026/cards/1301-1400.md#gu26d-modules) · 中文
 - [GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](../../conferences/icml-2026/cards/1401-1500.md#habib26a-modules) · 中文
+- [Hyperbolic Associative Memory Networks](../../conferences/icml-2026/cards/1401-1500.md#hao26d-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

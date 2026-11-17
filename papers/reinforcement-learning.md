@@ -20,6 +20,7 @@
 ### 损失函数
 
 - <a id="chen26ep-loss-functions"></a>[Continuity-Regularized Flow Matching for Offline Reinforcement Learning](../conferences/icml-2026/cards/0601-0700.md#paper-chen26ep)
+- <a id="hassen26a-loss-functions"></a>[Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization](../conferences/icml-2026/cards/1401-1500.md#paper-hassen26a)
 
 <a id="by-optimization"></a>
 
@@ -86,6 +87,10 @@
 - <a id="ghosh26a-reinforcement-learning"></a>[Online Robust Reinforcement Learning with General Function Approximation](../conferences/icml-2026/cards/1201-1300.md#paper-ghosh26a)
 - <a id="goyal26a-reinforcement-learning"></a>[Contextual Slate GLM Bandits with Limited Adaptivity](../conferences/icml-2026/cards/1301-1400.md#paper-goyal26a)
 - <a id="han26i-reinforcement-learning"></a>[Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](../conferences/icml-2026/cards/1401-1500.md#paper-han26i)
+- <a id="harvey26a-reinforcement-learning"></a>[Unsupervised Hierarchical Skill Discovery](../conferences/icml-2026/cards/1401-1500.md#paper-harvey26a)
+- <a id="he26u-reinforcement-learning"></a>[Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games](../conferences/icml-2026/cards/1501-1600.md#paper-he26u)
+- <a id="he26v-reinforcement-learning"></a>[HyMTRL: A Hybrid Multi-Task Reinforcement Learning Framework via Phased Policy Evolution](../conferences/icml-2026/cards/1501-1600.md#paper-he26v)
+- <a id="he26aa-reinforcement-learning"></a>[Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning](../conferences/icml-2026/cards/1501-1600.md#paper-he26aa)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>
@@ -151,4 +156,5 @@
 - <a id="ghugare26a-theory-statistics"></a>[On the Role of Computation in Reinforcement Learning](../conferences/icml-2026/cards/1201-1300.md#paper-ghugare26a)
 - <a id="giorgi26a-theory-statistics"></a>[Impact of Connectivity on Laplacian Representations in Reinforcement Learning](../conferences/icml-2026/cards/1201-1300.md#paper-giorgi26a)
 - <a id="gong26i-theory-statistics"></a>[The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](../conferences/icml-2026/cards/1301-1400.md#paper-gong26i)
+- <a id="han26z-theory-statistics"></a>[Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator](../conferences/icml-2026/cards/1401-1500.md#paper-han26z)
 <!-- classification:end -->

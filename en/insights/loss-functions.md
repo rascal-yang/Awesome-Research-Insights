@@ -46,6 +46,7 @@ Objectives, auxiliary supervision, and regularization.
 ### Reinforcement Learning
 
 - [Continuity-Regularized Flow Matching for Offline Reinforcement Learning](../../conferences/icml-2026/cards/0601-0700.md#chen26ep-loss-functions) · 中文
+- [Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization](../../conferences/icml-2026/cards/1401-1500.md#hassen26a-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -71,6 +72,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Twins: Learn to Predict Unified Representations with Focal Loss](../../conferences/icml-2026/cards/1301-1400.md#gong26b-loss-functions) · 中文
 - [GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows](../../conferences/icml-2026/cards/1301-1400.md#grebe26a-loss-functions) · 中文
 - [Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation](../../conferences/icml-2026/cards/1301-1400.md#guan26g-loss-functions) · 中文
+- [No Data? No Problem: Robust Vision-Tabular Learning with Missing Values](../../conferences/icml-2026/cards/1401-1500.md#hasny26a-loss-functions) · 中文
+- [Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models](../../conferences/icml-2026/cards/1501-1600.md#he26ai-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -90,6 +93,7 @@ Objectives, auxiliary supervision, and regularization.
 - [$f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data](../../conferences/icml-2026/cards/1001-1100.md#fawkes26a-loss-functions) · 中文
 - [Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering](../../conferences/icml-2026/cards/1101-1200.md#fu26g-loss-functions) · 中文
 - [Learning Coherent Representations: A Topological Approach to Interpretability](../../conferences/icml-2026/cards/1201-1300.md#gaukstad26a-loss-functions) · 中文
+- [Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](../../conferences/icml-2026/cards/1401-1500.md#havens26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

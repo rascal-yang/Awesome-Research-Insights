@@ -25,6 +25,7 @@
 - [窗口注意力与递归长时记忆](../conferences/icml-2026/cards/1001-1100.md#fang26w-architecture) · Artificial Hippocampus Networks for Efficient Long-Context Modeling
 - [仅对困难词元启动隐空间迭代](../conferences/icml-2026/cards/1101-1200.md#fu26t-architecture) · Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning
 - [频域乘法实现因果序列混合](../conferences/icml-2026/cards/1101-1200.md#gan26c-architecture) · Caracal: Causal Architecture via Spectral Mixing
+- [用独立执行验证连接漏洞发现与代理记忆](../conferences/icml-2026/cards/1501-1600.md#he26i-architecture) · Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents
 
 <a id="by-computer-vision"></a>
 
@@ -45,6 +46,7 @@
 - [姿态可控插入的三路视觉条件](../conferences/icml-2026/cards/1301-1400.md#gong26f-architecture) · Direct 3D-Aware Object Insertion via Decomposed Visual Proxies
 - [内容伪迹分离的生成图像鉴别](../conferences/icml-2026/cards/1401-1500.md#guo26ag-architecture) · OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild
 - [压缩高光谱重建的局部与全局协调](../conferences/icml-2026/cards/1401-1500.md#han26c-architecture) · Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction
+- [按下游生成容量选择视觉潜通道](../conferences/icml-2026/cards/1401-1500.md#hansen-estruch26a-architecture) · ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters
 
 <a id="by-nlp"></a>
 
@@ -77,6 +79,7 @@
 - [阵列几何条件化的空间音频词元](../conferences/icml-2026/cards/0801-0900.md#dementyev26a-architecture) · PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs
 - [持续学习专家的置信加权协作](../conferences/icml-2026/cards/1101-1200.md#forhad26a-architecture) · Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning
 - [交替状态与转移的视觉世界模型](../conferences/icml-2026/cards/1201-1300.md#gao26am-architecture) · DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics
+- [用去噪轨迹保留视觉推理状态](../conferences/icml-2026/cards/1501-1600.md#he26ac-architecture) · DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models
 
 <a id="by-ml-foundations"></a>
 

@@ -130,6 +130,12 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation](../../conferences/icml-2026/cards/1401-1500.md#han26m-evaluation) · 中文
 - [The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs](../../conferences/icml-2026/cards/1401-1500.md#han26n-evaluation) · 中文
 - [Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#han26q-evaluation) · 中文
+- [AI Cartography: Mapping the Latent Landscape of AI Benchmark Ecosystems](../../conferences/icml-2026/cards/1401-1500.md#hardy26a-evaluation) · 中文
+- [The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning](../../conferences/icml-2026/cards/1401-1500.md#hawkins26a-evaluation) · 中文
+- [Can LLMs Reason Structurally? Benchmarking via the lens of Data Structures](../../conferences/icml-2026/cards/1501-1600.md#he26x-evaluation) · 中文
+- [SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?](../../conferences/icml-2026/cards/1501-1600.md#he26y-evaluation) · 中文
+- [Demystifying When Pruning Works via Representation Hierarchies](../../conferences/icml-2026/cards/1501-1600.md#he26ag-evaluation) · 中文
+- [Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](../../conferences/icml-2026/cards/1501-1600.md#he26am-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -147,6 +153,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](../../conferences/icml-2026/cards/1001-1100.md#elisha26a-evaluation) · 中文
 - [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](../../conferences/icml-2026/cards/1001-1100.md#fang26l-evaluation) · 中文
 - [GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning](../../conferences/icml-2026/cards/1401-1500.md#han26t-evaluation) · 中文
+- [The Entropic Signature of Class Speciation in Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#handke26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -213,6 +220,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](../../conferences/icml-2026/cards/1201-1300.md#gao26ag-evaluation) · 中文
 - [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](../../conferences/icml-2026/cards/1301-1400.md#gong26a-evaluation) · 中文
 - [CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](../../conferences/icml-2026/cards/1301-1400.md#guo26q-evaluation) · 中文
+- [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](../../conferences/icml-2026/cards/1501-1600.md#he26n-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

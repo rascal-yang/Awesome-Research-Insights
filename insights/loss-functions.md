@@ -46,6 +46,7 @@
 ### 强化学习
 
 - [离线强化学习流策略正则](../conferences/icml-2026/cards/0601-0700.md#chen26ep-loss-functions) · Continuity-Regularized Flow Matching for Offline Reinforcement Learning
+- [用频域平滑正则降低随机流训练方差](../conferences/icml-2026/cards/1401-1500.md#hassen26a-loss-functions) · Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization
 
 <a id="by-robotics"></a>
 
@@ -71,6 +72,8 @@
 - [统一视觉 token 的分量焦点损失](../conferences/icml-2026/cards/1301-1400.md#gong26b-loss-functions) · Twins: Learn to Predict Unified Representations with Focal Loss
 - [整流流中的对比速度擦除](../conferences/icml-2026/cards/1301-1400.md#grebe26a-loss-functions) · GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows
 - [CAD 参数词元的三维点监督](../conferences/icml-2026/cards/1301-1400.md#guan26g-loss-functions) · Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation
+- [让新增可信表格字段在训练中带来收益](../conferences/icml-2026/cards/1401-1500.md#hasny26a-loss-functions) · No Data? No Problem: Robust Vision-Tabular Learning with Missing Values
+- [以径向蕴涵与球面角距分工表示分类树](../conferences/icml-2026/cards/1501-1600.md#he26ai-loss-functions) · Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models
 
 <a id="by-ml-foundations"></a>
 
@@ -90,6 +93,7 @@
 - [未归一化目标的批次广义偏差损失](../conferences/icml-2026/cards/1001-1100.md#fawkes26a-loss-functions) · $f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data
 - [多视图聚类的截断张量低秩惩罚](../conferences/icml-2026/cards/1101-1200.md#fu26g-loss-functions) · Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering
 - [用拓扑一致性约束特征激活](../conferences/icml-2026/cards/1201-1300.md#gaukstad26a-loss-functions) · Learning Coherent Representations: A Topological Approach to Interpretability
+- [用能量构造去噪漂移监督并复用探索轨迹](../conferences/icml-2026/cards/1401-1500.md#havens26a-loss-functions) · Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes
 
 <a id="by-graph-and-recommendation"></a>
 

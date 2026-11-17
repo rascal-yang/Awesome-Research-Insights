@@ -28,6 +28,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="gong26f-architecture"></a>[Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26f)
 - <a id="guo26ag-architecture"></a>[OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ag)
 - <a id="han26c-architecture"></a>[Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction](../../conferences/icml-2026/cards/1401-1500.md#paper-han26c)
+- <a id="hansen-estruch26a-architecture"></a>[ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters](../../conferences/icml-2026/cards/1401-1500.md#paper-hansen-estruch26a)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -46,6 +47,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="duan26a-modules"></a>[MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](../../conferences/icml-2026/cards/0901-1000.md#paper-duan26a)
 - <a id="guo26ad-modules"></a>[WildActor: Unconstrained Identity-Preserving Video Generation](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ad)
 - <a id="hadji26a-modules"></a>[Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](../../conferences/icml-2026/cards/1401-1500.md#paper-hadji26a)
+- <a id="han26ab-modules"></a>[Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization](../../conferences/icml-2026/cards/1401-1500.md#paper-han26ab)
+- <a id="he26an-modules"></a>[Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration](../../conferences/icml-2026/cards/1501-1600.md#paper-he26an)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -66,6 +69,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="dai26h-optimization"></a>[TextMesh4D: Zero-shot Text-to-4D Mesh Generation](../../conferences/icml-2026/cards/0801-0900.md#paper-dai26h)
 - <a id="denker26a-optimization"></a>[Trajectory Stitching for Solving Inverse Problems with Flow-Based Models](../../conferences/icml-2026/cards/0801-0900.md#paper-denker26a)
 - <a id="ding26p-optimization"></a>[Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26p)
+- <a id="he26m-optimization"></a>[Navigating the Flatlands: Dual Adaptive Sharpness-Aware Minimization for Domain Generalization](../../conferences/icml-2026/cards/1501-1600.md#paper-he26m)
+- <a id="he26ad-optimization"></a>[Newton-coupled Dual-Teacher Semi-supervised Learning Framework](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ad)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -98,6 +103,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="du26q-training-strategies"></a>[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](../../conferences/icml-2026/cards/0901-1000.md#paper-du26q)
 - <a id="esteves26a-training-strategies"></a>[Spectrally-Guided Diffusion Noise Schedules](../../conferences/icml-2026/cards/1001-1100.md#paper-esteves26a)
 - <a id="gong26j-training-strategies"></a>[Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26j)
+- <a id="he26al-training-strategies"></a>[CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal](../../conferences/icml-2026/cards/1501-1600.md#paper-he26al)
 
 <a id="by-data-strategies"></a>
 
@@ -156,6 +162,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="guo26s-inference"></a>[Sample Margin-Aware Recalibration of Temperature Scaling](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26s)
 - <a id="gupta26a-inference"></a>[Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#paper-gupta26a)
 - <a id="han26l-inference"></a>[Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them](../../conferences/icml-2026/cards/1401-1500.md#paper-han26l)
+- <a id="han26y-inference"></a>[Veda: Scalable Video Diffusion via Distilled Sparse Attention](../../conferences/icml-2026/cards/1401-1500.md#paper-han26y)
 
 <a id="by-representation-learning"></a>
 
@@ -196,6 +203,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="elisha26a-evaluation"></a>[ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](../../conferences/icml-2026/cards/1001-1100.md#paper-elisha26a)
 - <a id="fang26l-evaluation"></a>[iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26l)
 - <a id="han26t-evaluation"></a>[GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning](../../conferences/icml-2026/cards/1401-1500.md#paper-han26t)
+- <a id="handke26a-evaluation"></a>[The Entropic Signature of Class Speciation in Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#paper-handke26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -18,6 +18,7 @@
 - <a id="dementyev26a-architecture"></a>[PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](../conferences/icml-2026/cards/0801-0900.md#paper-dementyev26a)
 - <a id="forhad26a-architecture"></a>[Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](../conferences/icml-2026/cards/1101-1200.md#paper-forhad26a)
 - <a id="gao26am-architecture"></a>[DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](../conferences/icml-2026/cards/1201-1300.md#paper-gao26am)
+- <a id="he26ac-architecture"></a>[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](../conferences/icml-2026/cards/1501-1600.md#paper-he26ac)
 
 <a id="by-modules"></a>
 
@@ -29,6 +30,8 @@
 - <a id="ding26e-modules"></a>[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](../conferences/icml-2026/cards/0901-1000.md#paper-ding26e)
 - <a id="gong26g-modules"></a>[EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs](../conferences/icml-2026/cards/1301-1400.md#paper-gong26g)
 - <a id="guo26af-modules"></a>[DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](../conferences/icml-2026/cards/1401-1500.md#paper-guo26af)
+- <a id="han26aa-modules"></a>[Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport](../conferences/icml-2026/cards/1401-1500.md#paper-han26aa)
+- <a id="he26b-modules"></a>[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](../conferences/icml-2026/cards/1401-1500.md#paper-he26b)
 
 <a id="by-loss-functions"></a>
 
@@ -45,6 +48,8 @@
 - <a id="gong26b-loss-functions"></a>[Twins: Learn to Predict Unified Representations with Focal Loss](../conferences/icml-2026/cards/1301-1400.md#paper-gong26b)
 - <a id="grebe26a-loss-functions"></a>[GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows](../conferences/icml-2026/cards/1301-1400.md#paper-grebe26a)
 - <a id="guan26g-loss-functions"></a>[Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation](../conferences/icml-2026/cards/1301-1400.md#paper-guan26g)
+- <a id="hasny26a-loss-functions"></a>[No Data? No Problem: Robust Vision-Tabular Learning with Missing Values](../conferences/icml-2026/cards/1401-1500.md#paper-hasny26a)
+- <a id="he26ai-loss-functions"></a>[Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models](../conferences/icml-2026/cards/1501-1600.md#paper-he26ai)
 
 <a id="by-optimization"></a>
 
@@ -68,6 +73,9 @@
 - <a id="gao26n-reinforcement-learning"></a>[Segment-Aligned Policy Optimization for Multi-Modal Reasoning](../conferences/icml-2026/cards/1201-1300.md#paper-gao26n)
 - <a id="guang26a-reinforcement-learning"></a>[ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](../conferences/icml-2026/cards/1301-1400.md#paper-guang26a)
 - <a id="guo26ak-reinforcement-learning"></a>[SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](../conferences/icml-2026/cards/1401-1500.md#paper-guo26ak)
+- <a id="han26ac-reinforcement-learning"></a>[Omni-Perception Policy Optimization for Multimodal Emotion Reasoning](../conferences/icml-2026/cards/1401-1500.md#paper-han26ac)
+- <a id="he26e-reinforcement-learning"></a>[DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models](../conferences/icml-2026/cards/1401-1500.md#paper-he26e)
+- <a id="he26j-reinforcement-learning"></a>[Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization](../conferences/icml-2026/cards/1501-1600.md#paper-he26j)
 
 <a id="by-training-strategies"></a>
 
@@ -102,6 +110,8 @@
 - <a id="gao26o-data-strategies"></a>[Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](../conferences/icml-2026/cards/1201-1300.md#paper-gao26o)
 - <a id="giannone26a-data-strategies"></a>[GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](../conferences/icml-2026/cards/1201-1300.md#paper-giannone26a)
 - <a id="gurbuz26a-data-strategies"></a>[ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](../conferences/icml-2026/cards/1401-1500.md#paper-gurbuz26a)
+- <a id="he26ap-data-strategies"></a>[RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback](../conferences/icml-2026/cards/1501-1600.md#paper-he26ap)
+- <a id="he26au-data-strategies"></a>[From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping](../conferences/icml-2026/cards/1501-1600.md#paper-he26au)
 
 <a id="by-inference"></a>
 
@@ -133,6 +143,10 @@
 - <a id="gu26r-inference"></a>[What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions](../conferences/icml-2026/cards/1301-1400.md#paper-gu26r)
 - <a id="guo26ai-inference"></a>[Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer](../conferences/icml-2026/cards/1401-1500.md#paper-guo26ai)
 - <a id="hai26a-inference"></a>[Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](../conferences/icml-2026/cards/1401-1500.md#paper-hai26a)
+- <a id="hartman26a-inference"></a>[Skip-It? Theoretical Conditions for Layer Skipping in Vision–Language Models](../conferences/icml-2026/cards/1401-1500.md#paper-hartman26a)
+- <a id="hasanebrahimi26a-inference"></a>[Density-Aware Translation of Spurious Correlations in Zero-Shot VLMs](../conferences/icml-2026/cards/1401-1500.md#paper-hasanebrahimi26a)
+- <a id="he26c-inference"></a>[VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding](../conferences/icml-2026/cards/1401-1500.md#paper-he26c)
+- <a id="he26g-inference"></a>[Self-Prophetic Decoding to Unlock Visual Search in LVLMs](../conferences/icml-2026/cards/1401-1500.md#paper-he26g)
 
 <a id="by-representation-learning"></a>
 
@@ -146,6 +160,7 @@
 - <a id="dutta26b-representation-learning"></a>[Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](../conferences/icml-2026/cards/0901-1000.md#paper-dutta26b)
 - <a id="fu26p-representation-learning"></a>[ObjEmbed: Towards Universal Multimodal Object Embeddings](../conferences/icml-2026/cards/1101-1200.md#paper-fu26p)
 - <a id="guan26e-representation-learning"></a>[TimeOmni-VL: Unified Models for Time Series Understanding and Generation](../conferences/icml-2026/cards/1301-1400.md#paper-guan26e)
+- <a id="he26s-representation-learning"></a>[DSGCR: Decomposed Spectral Geometry-Aware Cross-Modal Semantic Representation for 3D Visual Grounding](../conferences/icml-2026/cards/1501-1600.md#paper-he26s)
 
 <a id="by-evaluation"></a>
 
@@ -177,6 +192,7 @@
 - <a id="gao26ag-evaluation"></a>[Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](../conferences/icml-2026/cards/1201-1300.md#paper-gao26ag)
 - <a id="gong26a-evaluation"></a>[VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](../conferences/icml-2026/cards/1301-1400.md#paper-gong26a)
 - <a id="guo26q-evaluation"></a>[CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](../conferences/icml-2026/cards/1301-1400.md#paper-guo26q)
+- <a id="he26n-evaluation"></a>[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](../conferences/icml-2026/cards/1501-1600.md#paper-he26n)
 
 <a id="by-theory-statistics"></a>
 

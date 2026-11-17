@@ -33,6 +33,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization](../../conferences/icml-2026/cards/1101-1200.md#feng26y-optimization) · 中文
 - [Memory-Efficient LLM Pretraining via Minimalist Optimizer Design](../../conferences/icml-2026/cards/1201-1300.md#glentis26a-optimization) · 中文
 - [LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs](../../conferences/icml-2026/cards/1301-1400.md#gordon26b-optimization) · 中文
+- [OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability](../../conferences/icml-2026/cards/1401-1500.md#he26a-optimization) · 中文
+- [One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](../../conferences/icml-2026/cards/1501-1600.md#he26ak-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -42,6 +44,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [TextMesh4D: Zero-shot Text-to-4D Mesh Generation](../../conferences/icml-2026/cards/0801-0900.md#dai26h-optimization) · 中文
 - [Trajectory Stitching for Solving Inverse Problems with Flow-Based Models](../../conferences/icml-2026/cards/0801-0900.md#denker26a-optimization) · 中文
 - [Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture](../../conferences/icml-2026/cards/0901-1000.md#ding26p-optimization) · 中文
+- [Navigating the Flatlands: Dual Adaptive Sharpness-Aware Minimization for Domain Generalization](../../conferences/icml-2026/cards/1501-1600.md#he26m-optimization) · 中文
+- [Newton-coupled Dual-Teacher Semi-supervised Learning Framework](../../conferences/icml-2026/cards/1501-1600.md#he26ad-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -181,6 +185,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Constrained Bayesian Experimental Design via Online Planning](../../conferences/icml-2026/cards/1301-1400.md#guo26g-optimization) · 中文
 - [Discrete Adjoint Schrödinger Bridge Sampler](../../conferences/icml-2026/cards/1401-1500.md#guo26al-optimization) · 中文
 - [Maximin Relative Improvement: Fair Learning as a Bargaining Problem](../../conferences/icml-2026/cards/1401-1500.md#han26a-optimization) · 中文
+- [Optimal Pricing for Data-Augmented AutoML Marketplaces](../../conferences/icml-2026/cards/1401-1500.md#han26w-optimization) · 中文
+- [Geodesic Calculus on Implicitly Defined Latent Manifolds](../../conferences/icml-2026/cards/1401-1500.md#hartwig26a-optimization) · 中文
+- [Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning](../../conferences/icml-2026/cards/1401-1500.md#hata26a-optimization) · 中文
+- [Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching](../../conferences/icml-2026/cards/1401-1500.md#haxholli26a-optimization) · 中文
+- [Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](../../conferences/icml-2026/cards/1501-1600.md#he26h-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

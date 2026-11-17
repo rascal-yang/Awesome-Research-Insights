@@ -101,6 +101,14 @@ Decoding, test-time adaptation, and efficient execution.
 - [EGG: An Expert-Guided Agent Framework for Kernel Generation](../../conferences/icml-2026/cards/1401-1500.md#han26h-inference) · 中文
 - [PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding](../../conferences/icml-2026/cards/1401-1500.md#han26k-inference) · 中文
 - [Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster](../../conferences/icml-2026/cards/1401-1500.md#han26p-inference) · 中文
+- [SlideSparse: Fast and Flexible (2N-2):2N Structured Sparsity](../../conferences/icml-2026/cards/1401-1500.md#hao26a-inference) · 中文
+- [RACER: Risk-Aware Calibrated Efficient Routing for Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#hao26c-inference) · 中文
+- [Sampling from Your Language Model One Byte at a Time](../../conferences/icml-2026/cards/1401-1500.md#hayase26a-inference) · 中文
+- [PGS: Effective LLM Code Refinement via Property-Oriented and Structurally Minimal Feedback](../../conferences/icml-2026/cards/1401-1500.md#he26d-inference) · 中文
+- [Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model](../../conferences/icml-2026/cards/1501-1600.md#he26k-inference) · 中文
+- [Efficient Multi-round LLM Inference over Disaggregated Serving](../../conferences/icml-2026/cards/1501-1600.md#he26r-inference) · 中文
+- [Understand and Accelerate Memory Processing Pipeline for Large Language Model Inference](../../conferences/icml-2026/cards/1501-1600.md#he26ab-inference) · 中文
+- [On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility](../../conferences/icml-2026/cards/1501-1600.md#he26ar-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -147,6 +155,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Sample Margin-Aware Recalibration of Temperature Scaling](../../conferences/icml-2026/cards/1301-1400.md#guo26s-inference) · 中文
 - [Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#gupta26a-inference) · 中文
 - [Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them](../../conferences/icml-2026/cards/1401-1500.md#han26l-inference) · 中文
+- [Veda: Scalable Video Diffusion via Distilled Sparse Attention](../../conferences/icml-2026/cards/1401-1500.md#han26y-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -216,6 +225,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions](../../conferences/icml-2026/cards/1301-1400.md#gu26r-inference) · 中文
 - [Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer](../../conferences/icml-2026/cards/1401-1500.md#guo26ai-inference) · 中文
 - [Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](../../conferences/icml-2026/cards/1401-1500.md#hai26a-inference) · 中文
+- [Skip-It? Theoretical Conditions for Layer Skipping in Vision–Language Models](../../conferences/icml-2026/cards/1401-1500.md#hartman26a-inference) · 中文
+- [Density-Aware Translation of Spurious Correlations in Zero-Shot VLMs](../../conferences/icml-2026/cards/1401-1500.md#hasanebrahimi26a-inference) · 中文
+- [VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding](../../conferences/icml-2026/cards/1401-1500.md#he26c-inference) · 中文
+- [Self-Prophetic Decoding to Unlock Visual Search in LVLMs](../../conferences/icml-2026/cards/1401-1500.md#he26g-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -270,4 +283,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](../../conferences/icml-2026/cards/1201-1300.md#ge26b-inference) · 中文
 - [GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](../../conferences/icml-2026/cards/1201-1300.md#giral26a-inference) · 中文
 - [Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/1401-1500.md#han26g-inference) · 中文
+- [From Feasible to Practical: Pareto-Optimal Synthesis Planning](../../conferences/icml-2026/cards/1401-1500.md#hastedt26a-inference) · 中文
 <!-- classification:end -->

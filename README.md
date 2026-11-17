@@ -16,7 +16,7 @@
 
 <a id="conference-sources"></a>
 
-**最新收录 · 2026-11-17** · [ICML 2026 · 1,463 / 6,552 篇已整理](conferences/icml-2026/README.md)
+**最新收录 · 2026-11-17** · [ICML 2026 · 1,543 / 6,552 篇已整理](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -24,17 +24,17 @@
 
 | 领域 | 收录论文 | 收录范围 |
 | :--- | ---: | :--- |
-| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 391 | 语言模型、工具调用与智能体。 |
-| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 140 | 视觉识别、表征学习与生成。 |
+| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 414 | 语言模型、工具调用与智能体。 |
+| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 148 | 视觉识别、表征学习与生成。 |
 | <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 35 | 语言、语音、检索与文本处理。 |
-| <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 98 | 交互决策、奖励、策略学习与博弈。 |
-| <a id="robotics"></a>[机器人学](papers/robotics.md) | 49 | 机器人感知、策略学习、规划与控制。 |
-| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 121 | 跨视觉、文本、音频等模态的学习与推理。 |
-| <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 428 | 通用学习方法、优化、学习理论与统计推断。 |
-| <a id="graph-and-recommendation"></a>[图学习与推荐](papers/graph-and-recommendation.md) | 65 | 图模型、知识图谱与推荐系统。 |
-| <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 137 | 物理、医学、生物与工程中的机器学习。 |
+| <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 104 | 交互决策、奖励、策略学习与博弈。 |
+| <a id="robotics"></a>[机器人学](papers/robotics.md) | 51 | 机器人感知、策略学习、规划与控制。 |
+| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 137 | 跨视觉、文本、音频等模态的学习与推理。 |
+| <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 445 | 通用学习方法、优化、学习理论与统计推断。 |
+| <a id="graph-and-recommendation"></a>[图学习与推荐](papers/graph-and-recommendation.md) | 70 | 图模型、知识图谱与推荐系统。 |
+| <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 140 | 物理、医学、生物与工程中的机器学习。 |
 
-**共 1,464 篇论文、1,465 个技术机制。**
+**共 1,544 篇论文、1,545 个技术机制。**
 
 <a id="insights-by-technical-category"></a>
 
@@ -42,27 +42,27 @@
 
 | 技术分类 | 机制数 | 收录范围 |
 | :--- | ---: | :--- |
-| <a id="architectures"></a>[模型架构](insights/architecture.md) | 92 | 整体架构与信息流。 |
-| <a id="computer-vision-modules"></a><a id="modules"></a>[模块](insights/modules.md) | 75 | 局部组件、连接与参数化。 |
-| <a id="loss-functions"></a>[损失函数](insights/loss-functions.md) | 64 | 训练目标、辅助监督与正则化。 |
-| <a id="optimization"></a>[优化](insights/optimization.md) | 153 | 梯度更新、求解器与优化过程。 |
-| <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 134 | 奖励、探索、信用分配与策略更新。 |
-| <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 124 | 训练日程、微调、蒸馏与迁移。 |
-| <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 70 | 数据构造、筛选、标注与采样。 |
-| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 217 | 解码、搜索、推理时适配与高效执行。 |
-| [表征学习](insights/representation-learning.md) | 74 | 表征提取、对齐、迁移与解耦。 |
-| [评测与诊断](insights/evaluation.md) | 224 | 基准、评测协议、消融与失效诊断。 |
-| [理论与统计](insights/theory-statistics.md) | 238 | 学习保证、反例、估计与统计检验。 |
+| <a id="architectures"></a>[模型架构](insights/architecture.md) | 95 | 整体架构与信息流。 |
+| <a id="computer-vision-modules"></a><a id="modules"></a>[模块](insights/modules.md) | 80 | 局部组件、连接与参数化。 |
+| <a id="loss-functions"></a>[损失函数](insights/loss-functions.md) | 68 | 训练目标、辅助监督与正则化。 |
+| <a id="optimization"></a>[优化](insights/optimization.md) | 162 | 梯度更新、求解器与优化过程。 |
+| <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 144 | 奖励、探索、信用分配与策略更新。 |
+| <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 131 | 训练日程、微调、蒸馏与迁移。 |
+| <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 73 | 数据构造、筛选、标注与采样。 |
+| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 231 | 解码、搜索、推理时适配与高效执行。 |
+| [表征学习](insights/representation-learning.md) | 81 | 表征提取、对齐、迁移与解耦。 |
+| [评测与诊断](insights/evaluation.md) | 232 | 基准、评测协议、消融与失效诊断。 |
+| [理论与统计](insights/theory-statistics.md) | 248 | 学习保证、反例、估计与统计检验。 |
 
 <a id="recent-updates"></a>
 
 ## 最近更新
 
+- **2026-11-17** · 收录并分类整理 ICML 2026 第 1461–1540 篇的论文卡。
+
 - **2026-11-17** · 统一论文卡，合并旧专题正文，简化首页和索引。
 
 - **2026-11-17** · 收录并分类整理 ICML 2026 第 1361–1460 篇的 Insight。
-
-- **2026-11-17** · 收录并分类整理 ICML 2026 第 1261–1360 篇的 Insight。
 
 <a id="icml-2026-first-batch"></a>
 

@@ -60,6 +60,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning to Route Languages for Multilingual Policy Optimization](../../conferences/icml-2026/cards/1301-1400.md#guo26v-reinforcement-learning) · 中文
 - [Adaptive Code Watermarking Through Reinforcement Learning](../../conferences/icml-2026/cards/1401-1500.md#guo26am-reinforcement-learning) · 中文
 - [MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints](../../conferences/icml-2026/cards/1401-1500.md#han26r-reinforcement-learning) · 中文
+- [Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration](../../conferences/icml-2026/cards/1501-1600.md#he26o-reinforcement-learning) · 中文
+- [Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation](../../conferences/icml-2026/cards/1501-1600.md#he26ae-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -136,6 +138,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Online Robust Reinforcement Learning with General Function Approximation](../../conferences/icml-2026/cards/1201-1300.md#ghosh26a-reinforcement-learning) · 中文
 - [Contextual Slate GLM Bandits with Limited Adaptivity](../../conferences/icml-2026/cards/1301-1400.md#goyal26a-reinforcement-learning) · 中文
 - [Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](../../conferences/icml-2026/cards/1401-1500.md#han26i-reinforcement-learning) · 中文
+- [Unsupervised Hierarchical Skill Discovery](../../conferences/icml-2026/cards/1401-1500.md#harvey26a-reinforcement-learning) · 中文
+- [Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games](../../conferences/icml-2026/cards/1501-1600.md#he26u-reinforcement-learning) · 中文
+- [HyMTRL: A Hybrid Multi-Task Reinforcement Learning Framework via Phased Policy Evolution](../../conferences/icml-2026/cards/1501-1600.md#he26v-reinforcement-learning) · 中文
+- [Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#he26aa-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -162,6 +168,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Segment-Aligned Policy Optimization for Multi-Modal Reasoning](../../conferences/icml-2026/cards/1201-1300.md#gao26n-reinforcement-learning) · 中文
 - [ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](../../conferences/icml-2026/cards/1301-1400.md#guang26a-reinforcement-learning) · 中文
 - [SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](../../conferences/icml-2026/cards/1401-1500.md#guo26ak-reinforcement-learning) · 中文
+- [Omni-Perception Policy Optimization for Multimodal Emotion Reasoning](../../conferences/icml-2026/cards/1401-1500.md#han26ac-reinforcement-learning) · 中文
+- [DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#he26e-reinforcement-learning) · 中文
+- [Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization](../../conferences/icml-2026/cards/1501-1600.md#he26j-reinforcement-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -182,4 +191,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](../../conferences/icml-2026/cards/1101-1200.md#flynn26a-reinforcement-learning) · 中文
 - [Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/1201-1300.md#gao26c-reinforcement-learning) · 中文
 - [CSG: Cognitive Structure Generation for Intelligent Education](../../conferences/icml-2026/cards/1301-1400.md#gu26b-reinforcement-learning) · 中文
+- [ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education](../../conferences/icml-2026/cards/1501-1600.md#he26as-reinforcement-learning) · 中文
 <!-- classification:end -->

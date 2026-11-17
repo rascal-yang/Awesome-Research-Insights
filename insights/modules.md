@@ -46,6 +46,8 @@
 - [红外可见光融合的卷积分支折叠](../conferences/icml-2026/cards/0901-1000.md#duan26a-modules) · MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization
 - [人体视频的非对称身份注意力](../conferences/icml-2026/cards/1401-1500.md#guo26ad-modules) · WildActor: Unconstrained Identity-Preserving Video Generation
 - [超分辨率的跨尺度词元前缀](../conferences/icml-2026/cards/1401-1500.md#hadji26a-modules) · Hierarchical Image Tokenization for Multi-Scale Image Super Resolution
+- [用三维表面坐标连接跨姿态参考](../conferences/icml-2026/cards/1401-1500.md#han26ab-modules) · Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization
+- [用局部退化控制分块采样与回写](../conferences/icml-2026/cards/1501-1600.md#he26an-modules) · Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -73,6 +75,8 @@
 - [音视频非对称 token 压缩](../conferences/icml-2026/cards/0901-1000.md#ding26e-modules) · OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
 - [视听稀疏采样的 RoPE 抗混叠](../conferences/icml-2026/cards/1301-1400.md#gong26g-modules) · EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs
 - [用位置编码绑定人物与音色](../conferences/icml-2026/cards/1401-1500.md#guo26af-modules) · DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation
+- [放松传输边缘约束以减少不可靠视图的影响](../conferences/icml-2026/cards/1401-1500.md#han26aa-modules) · Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport
+- [分开抽取实例和文本角色来推断假设编辑](../conferences/icml-2026/cards/1401-1500.md#he26b-modules) · Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning
 
 <a id="by-ml-foundations"></a>
 
@@ -102,6 +106,7 @@
 - [时序预测的可变长模式词元](../conferences/icml-2026/cards/1301-1400.md#gotz26a-modules) · Byte Pair Encoding for Efficient Time Series Forecasting
 - [ANN 到 SNN 的递推时序编码](../conferences/icml-2026/cards/1301-1400.md#gu26d-modules) · Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion
 - [高维表格的相关特征分组压缩](../conferences/icml-2026/cards/1401-1500.md#habib26a-modules) · GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data
+- [用双曲几何实现层级记忆检索](../conferences/icml-2026/cards/1401-1500.md#hao26d-modules) · Hyperbolic Associative Memory Networks
 
 <a id="by-graph-and-recommendation"></a>
 

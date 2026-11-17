@@ -60,6 +60,7 @@
 - <a id="gotz26a-modules"></a>[Byte Pair Encoding for Efficient Time Series Forecasting](../conferences/icml-2026/cards/1301-1400.md#paper-gotz26a)
 - <a id="gu26d-modules"></a>[Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion](../conferences/icml-2026/cards/1301-1400.md#paper-gu26d)
 - <a id="habib26a-modules"></a>[GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](../conferences/icml-2026/cards/1401-1500.md#paper-habib26a)
+- <a id="hao26d-modules"></a>[Hyperbolic Associative Memory Networks](../conferences/icml-2026/cards/1401-1500.md#paper-hao26d)
 
 <a id="by-loss-functions"></a>
 
@@ -79,6 +80,7 @@
 - <a id="fawkes26a-loss-functions"></a>[$f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data](../conferences/icml-2026/cards/1001-1100.md#paper-fawkes26a)
 - <a id="fu26g-loss-functions"></a>[Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering](../conferences/icml-2026/cards/1101-1200.md#paper-fu26g)
 - <a id="gaukstad26a-loss-functions"></a>[Learning Coherent Representations: A Topological Approach to Interpretability](../conferences/icml-2026/cards/1201-1300.md#paper-gaukstad26a)
+- <a id="havens26a-loss-functions"></a>[Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](../conferences/icml-2026/cards/1401-1500.md#paper-havens26a)
 
 <a id="by-optimization"></a>
 
@@ -191,6 +193,11 @@
 - <a id="guo26g-optimization"></a>[Constrained Bayesian Experimental Design via Online Planning](../conferences/icml-2026/cards/1301-1400.md#paper-guo26g)
 - <a id="guo26al-optimization"></a>[Discrete Adjoint Schrödinger Bridge Sampler](../conferences/icml-2026/cards/1401-1500.md#paper-guo26al)
 - <a id="han26a-optimization"></a>[Maximin Relative Improvement: Fair Learning as a Bargaining Problem](../conferences/icml-2026/cards/1401-1500.md#paper-han26a)
+- <a id="han26w-optimization"></a>[Optimal Pricing for Data-Augmented AutoML Marketplaces](../conferences/icml-2026/cards/1401-1500.md#paper-han26w)
+- <a id="hartwig26a-optimization"></a>[Geodesic Calculus on Implicitly Defined Latent Manifolds](../conferences/icml-2026/cards/1401-1500.md#paper-hartwig26a)
+- <a id="hata26a-optimization"></a>[Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning](../conferences/icml-2026/cards/1401-1500.md#paper-hata26a)
+- <a id="haxholli26a-optimization"></a>[Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching](../conferences/icml-2026/cards/1401-1500.md#paper-haxholli26a)
+- <a id="he26h-optimization"></a>[Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](../conferences/icml-2026/cards/1501-1600.md#paper-he26h)
 
 <a id="by-training-strategies"></a>
 
@@ -230,6 +237,9 @@
 - <a id="geng26b-training-strategies"></a>[Latent-Guided Cooperative Energy-Based Models](../conferences/icml-2026/cards/1201-1300.md#paper-geng26b)
 - <a id="gorishniy26a-training-strategies"></a>[TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](../conferences/icml-2026/cards/1301-1400.md#paper-gorishniy26a)
 - <a id="guo26y-training-strategies"></a>[Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations](../conferences/icml-2026/cards/1301-1400.md#paper-guo26y)
+- <a id="han26x-training-strategies"></a>[$\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers](../conferences/icml-2026/cards/1401-1500.md#paper-han26x)
+- <a id="he26f-training-strategies"></a>[Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning](../conferences/icml-2026/cards/1401-1500.md#paper-he26f)
+- <a id="he26p-training-strategies"></a>[FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping](../conferences/icml-2026/cards/1501-1600.md#paper-he26p)
 
 <a id="by-data-strategies"></a>
 
@@ -486,4 +496,11 @@
 - <a id="habring26a-theory-statistics"></a>[Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions](../conferences/icml-2026/cards/1401-1500.md#paper-habring26a)
 - <a id="haghighat26a-theory-statistics"></a>[Formalizing and Falsifying Causal Pathways of Rare Events](../conferences/icml-2026/cards/1401-1500.md#paper-haghighat26a)
 - <a id="halbey26a-theory-statistics"></a>[Lower Bounds for Frank-Wolfe on Strongly Convex Sets](../conferences/icml-2026/cards/1401-1500.md#paper-halbey26a)
+- <a id="hanneke26a-theory-statistics"></a>[Language Generation with Feedback: Queries and Mistakes](../conferences/icml-2026/cards/1401-1500.md#paper-hanneke26a)
+- <a id="hanneke26b-theory-statistics"></a>[Universal Multiclass Transductive Online Learning](../conferences/icml-2026/cards/1401-1500.md#paper-hanneke26b)
+- <a id="hanneke26c-theory-statistics"></a>[When More Data Doesn’t Help: Limits of Adaptation in Multitask Learning](../conferences/icml-2026/cards/1401-1500.md#paper-hanneke26c)
+- <a id="hays26a-theory-statistics"></a>[Strategic Candidacy in Generative AI Arenas](../conferences/icml-2026/cards/1401-1500.md#paper-hays26a)
+- <a id="he26q-theory-statistics"></a>[The Accumulation of Score Estimation Error in Diffusion Models](../conferences/icml-2026/cards/1501-1600.md#paper-he26q)
+- <a id="he26t-theory-statistics"></a>[Approximation Error Upper and Lower Bounds for Hölder Class with Transformers](../conferences/icml-2026/cards/1501-1600.md#paper-he26t)
+- <a id="he26ah-theory-statistics"></a>[Sequential Kernel-based Conditional Independence Testing via Adaptive Betting](../conferences/icml-2026/cards/1501-1600.md#paper-he26ah)
 <!-- classification:end -->

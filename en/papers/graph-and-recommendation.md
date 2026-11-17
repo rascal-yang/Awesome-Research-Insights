@@ -103,6 +103,9 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="du26o-representation-learning"></a>[From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters](../../conferences/icml-2026/cards/0901-1000.md#paper-du26o)
 - <a id="ezoe26a-representation-learning"></a>[Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation](../../conferences/icml-2026/cards/1001-1100.md#paper-ezoe26a)
 - <a id="guo26p-representation-learning"></a>[CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26p)
+- <a id="he26l-representation-learning"></a>[Structure-Centric Graph Foundation Model via Geometric Bases](../../conferences/icml-2026/cards/1501-1600.md#paper-he26l)
+- <a id="he26af-representation-learning"></a>[GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](../../conferences/icml-2026/cards/1501-1600.md#paper-he26af)
+- <a id="he26at-representation-learning"></a>[A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs](../../conferences/icml-2026/cards/1501-1600.md#paper-he26at)
 
 <a id="by-evaluation"></a>
 
@@ -128,4 +131,6 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="fetrat-qharabagh26a-theory-statistics"></a>[Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](../../conferences/icml-2026/cards/1101-1200.md#paper-fetrat-qharabagh26a)
 - <a id="flora26a-theory-statistics"></a>[Understanding Truncated Positional Encodings for Graph Neural Networks](../../conferences/icml-2026/cards/1101-1200.md#paper-flora26a)
 - <a id="guo26d-theory-statistics"></a>[Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26d)
+- <a id="harker26a-theory-statistics"></a>[On the Optimization Trajectory of DeepWalk Embeddings](../../conferences/icml-2026/cards/1401-1500.md#paper-harker26a)
+- <a id="harviainen26a-theory-statistics"></a>[Exact and Approximate Algorithms for Polytree Learning](../../conferences/icml-2026/cards/1401-1500.md#paper-harviainen26a)
 <!-- classification:end -->

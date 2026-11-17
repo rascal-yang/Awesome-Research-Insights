@@ -25,6 +25,7 @@ Model-wide design and information flow.
 - [Artificial Hippocampus Networks for Efficient Long-Context Modeling](../../conferences/icml-2026/cards/1001-1100.md#fang26w-architecture) · 中文
 - [Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](../../conferences/icml-2026/cards/1101-1200.md#fu26t-architecture) · 中文
 - [Caracal: Causal Architecture via Spectral Mixing](../../conferences/icml-2026/cards/1101-1200.md#gan26c-architecture) · 中文
+- [Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](../../conferences/icml-2026/cards/1501-1600.md#he26i-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -45,6 +46,7 @@ Model-wide design and information flow.
 - [Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](../../conferences/icml-2026/cards/1301-1400.md#gong26f-architecture) · 中文
 - [OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild](../../conferences/icml-2026/cards/1401-1500.md#guo26ag-architecture) · 中文
 - [Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction](../../conferences/icml-2026/cards/1401-1500.md#han26c-architecture) · 中文
+- [ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters](../../conferences/icml-2026/cards/1401-1500.md#hansen-estruch26a-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -77,6 +79,7 @@ Model-wide design and information flow.
 - [PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](../../conferences/icml-2026/cards/0801-0900.md#dementyev26a-architecture) · 中文
 - [Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](../../conferences/icml-2026/cards/1101-1200.md#forhad26a-architecture) · 中文
 - [DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](../../conferences/icml-2026/cards/1201-1300.md#gao26am-architecture) · 中文
+- [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](../../conferences/icml-2026/cards/1501-1600.md#he26ac-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 

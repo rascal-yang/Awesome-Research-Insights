@@ -25,6 +25,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="fang26w-architecture"></a>[Artificial Hippocampus Networks for Efficient Long-Context Modeling](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26w)
 - <a id="fu26t-architecture"></a>[Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26t)
 - <a id="gan26c-architecture"></a>[Caracal: Causal Architecture via Spectral Mixing](../../conferences/icml-2026/cards/1101-1200.md#paper-gan26c)
+- <a id="he26i-architecture"></a>[Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](../../conferences/icml-2026/cards/1501-1600.md#paper-he26i)
 
 <a id="by-modules"></a>
 
@@ -86,6 +87,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="feng26y-optimization"></a>[Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26y)
 - <a id="glentis26a-optimization"></a>[Memory-Efficient LLM Pretraining via Minimalist Optimizer Design](../../conferences/icml-2026/cards/1201-1300.md#paper-glentis26a)
 - <a id="gordon26b-optimization"></a>[LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs](../../conferences/icml-2026/cards/1301-1400.md#paper-gordon26b)
+- <a id="he26a-optimization"></a>[OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability](../../conferences/icml-2026/cards/1401-1500.md#paper-he26a)
+- <a id="he26ak-optimization"></a>[One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ak)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -138,6 +141,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="guo26v-reinforcement-learning"></a>[Learning to Route Languages for Multilingual Policy Optimization](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26v)
 - <a id="guo26am-reinforcement-learning"></a>[Adaptive Code Watermarking Through Reinforcement Learning](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26am)
 - <a id="han26r-reinforcement-learning"></a>[MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints](../../conferences/icml-2026/cards/1401-1500.md#paper-han26r)
+- <a id="he26o-reinforcement-learning"></a>[Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration](../../conferences/icml-2026/cards/1501-1600.md#paper-he26o)
+- <a id="he26ae-reinforcement-learning"></a>[Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ae)
 
 <a id="by-training-strategies"></a>
 
@@ -182,6 +187,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ham26a-training-strategies"></a>[Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#paper-ham26a)
 - <a id="han26b-training-strategies"></a>[Weight Decay Improves Language Model Plasticity](../../conferences/icml-2026/cards/1401-1500.md#paper-han26b)
 - <a id="han26s-training-strategies"></a>[ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind](../../conferences/icml-2026/cards/1401-1500.md#paper-han26s)
+- <a id="hauzenberger26a-training-strategies"></a>[Effective Distillation to Hybrid xLSTM Architectures](../../conferences/icml-2026/cards/1401-1500.md#paper-hauzenberger26a)
+- <a id="he26aj-training-strategies"></a>[Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization](../../conferences/icml-2026/cards/1501-1600.md#paper-he26aj)
 
 <a id="by-data-strategies"></a>
 
@@ -206,6 +213,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="fu26f-data-strategies"></a>[Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26f)
 - <a id="gao26ae-data-strategies"></a>[Differentially Private Preference Data Synthesis for Large Language Model Alignment](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ae)
 - <a id="guo26aa-data-strategies"></a>[MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26aa)
+- <a id="hao26b-data-strategies"></a>[BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](../../conferences/icml-2026/cards/1401-1500.md#paper-hao26b)
 
 <a id="by-inference"></a>
 
@@ -299,6 +307,14 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="han26h-inference"></a>[EGG: An Expert-Guided Agent Framework for Kernel Generation](../../conferences/icml-2026/cards/1401-1500.md#paper-han26h)
 - <a id="han26k-inference"></a>[PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding](../../conferences/icml-2026/cards/1401-1500.md#paper-han26k)
 - <a id="han26p-inference"></a>[Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster](../../conferences/icml-2026/cards/1401-1500.md#paper-han26p)
+- <a id="hao26a-inference"></a>[SlideSparse: Fast and Flexible (2N-2):2N Structured Sparsity](../../conferences/icml-2026/cards/1401-1500.md#paper-hao26a)
+- <a id="hao26c-inference"></a>[RACER: Risk-Aware Calibrated Efficient Routing for Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#paper-hao26c)
+- <a id="hayase26a-inference"></a>[Sampling from Your Language Model One Byte at a Time](../../conferences/icml-2026/cards/1401-1500.md#paper-hayase26a)
+- <a id="he26d-inference"></a>[PGS: Effective LLM Code Refinement via Property-Oriented and Structurally Minimal Feedback](../../conferences/icml-2026/cards/1401-1500.md#paper-he26d)
+- <a id="he26k-inference"></a>[Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model](../../conferences/icml-2026/cards/1501-1600.md#paper-he26k)
+- <a id="he26r-inference"></a>[Efficient Multi-round LLM Inference over Disaggregated Serving](../../conferences/icml-2026/cards/1501-1600.md#paper-he26r)
+- <a id="he26ab-inference"></a>[Understand and Accelerate Memory Processing Pipeline for Large Language Model Inference](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ab)
+- <a id="he26ar-inference"></a>[On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ar)
 
 <a id="by-representation-learning"></a>
 
@@ -308,6 +324,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="chen26dr-representation-learning"></a>[Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26dr)
 - <a id="chen26gy-representation-learning"></a>[ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26gy)
 - <a id="gadgil26a-representation-learning"></a>[Ensembling Sparse Autoencoders](../../conferences/icml-2026/cards/1101-1200.md#paper-gadgil26a)
+- <a id="he26z-representation-learning"></a>[LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection](../../conferences/icml-2026/cards/1501-1600.md#paper-he26z)
 
 <a id="by-evaluation"></a>
 
@@ -430,6 +447,12 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="han26m-evaluation"></a>[DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation](../../conferences/icml-2026/cards/1401-1500.md#paper-han26m)
 - <a id="han26n-evaluation"></a>[The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs](../../conferences/icml-2026/cards/1401-1500.md#paper-han26n)
 - <a id="han26q-evaluation"></a>[Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#paper-han26q)
+- <a id="hardy26a-evaluation"></a>[AI Cartography: Mapping the Latent Landscape of AI Benchmark Ecosystems](../../conferences/icml-2026/cards/1401-1500.md#paper-hardy26a)
+- <a id="hawkins26a-evaluation"></a>[The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning](../../conferences/icml-2026/cards/1401-1500.md#paper-hawkins26a)
+- <a id="he26x-evaluation"></a>[Can LLMs Reason Structurally? Benchmarking via the lens of Data Structures](../../conferences/icml-2026/cards/1501-1600.md#paper-he26x)
+- <a id="he26y-evaluation"></a>[SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?](../../conferences/icml-2026/cards/1501-1600.md#paper-he26y)
+- <a id="he26ag-evaluation"></a>[Demystifying When Pruning Works via Representation Hierarchies](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ag)
+- <a id="he26am-evaluation"></a>[Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](../../conferences/icml-2026/cards/1501-1600.md#paper-he26am)
 
 <a id="by-theory-statistics"></a>
 

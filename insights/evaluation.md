@@ -130,6 +130,12 @@
 - [专家报告的细粒度核查](../conferences/icml-2026/cards/1401-1500.md#han26m-evaluation) · DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation
 - [语言模型自述人格的行为验证](../conferences/icml-2026/cards/1401-1500.md#han26n-evaluation) · The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs
 - [内生和提示诱发价值的机制分解](../conferences/icml-2026/cards/1401-1500.md#han26q-evaluation) · Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in Large Language Models
+- [为排行榜趋势拆分潜在能力和测量噪声](../conferences/icml-2026/cards/1401-1500.md#hardy26a-evaluation) · AI Cartography: Mapping the Latent Landscape of AI Benchmark Ecosystems
+- [交叉评估微调语言与安全测试语言](../conferences/icml-2026/cards/1401-1500.md#hawkins26a-evaluation) · The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning
+- [用结构操作诊断推理能力](../conferences/icml-2026/cards/1501-1600.md#he26x-evaluation) · Can LLMs Reason Structurally? Benchmarking via the lens of Data Structures
+- [从真实补丁提取可复现的代码提速任务](../conferences/icml-2026/cards/1501-1600.md#he26y-evaluation) · SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?
+- [分层测量剪枝造成的生成漂移](../conferences/icml-2026/cards/1501-1600.md#he26ag-evaluation) · Demystifying When Pruning Works via Representation Hierarchies
+- [用跨会话任务检验记忆能否指导行动](../conferences/icml-2026/cards/1501-1600.md#he26am-evaluation) · Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks
 
 <a id="by-computer-vision"></a>
 
@@ -147,6 +153,7 @@
 - [概念感知的显著性图](../conferences/icml-2026/cards/1001-1100.md#elisha26a-evaluation) · ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution
 - [交互世界模型的统一动作编码](../conferences/icml-2026/cards/1001-1100.md#fang26l-evaluation) · iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework
 - [高斯泼溅资产的变换溯源](../conferences/icml-2026/cards/1401-1500.md#han26t-evaluation) · GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning
+- [用条件熵定位扩散的语义形成窗口](../conferences/icml-2026/cards/1401-1500.md#handke26a-evaluation) · The Entropic Signature of Class Speciation in Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -213,6 +220,7 @@
 - [文本知识编辑的图像迁移诊断](../conferences/icml-2026/cards/1201-1300.md#gao26ag-evaluation) · Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs
 - [手机 GUI 代理的分能力诊断](../conferences/icml-2026/cards/1301-1400.md#gong26a-evaluation) · VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics
 - [图文一致的训练数据后门评测](../conferences/icml-2026/cards/1301-1400.md#guo26q-evaluation) · CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models
+- [网站开发的交互工作流验证](../conferences/icml-2026/cards/1501-1600.md#he26n-evaluation) · Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification
 
 <a id="by-ml-foundations"></a>
 

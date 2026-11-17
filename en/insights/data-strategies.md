@@ -32,6 +32,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning](../../conferences/icml-2026/cards/1101-1200.md#fu26f-data-strategies) · 中文
 - [Differentially Private Preference Data Synthesis for Large Language Model Alignment](../../conferences/icml-2026/cards/1201-1300.md#gao26ae-data-strategies) · 中文
 - [MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering](../../conferences/icml-2026/cards/1301-1400.md#guo26aa-data-strategies) · 中文
+- [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](../../conferences/icml-2026/cards/1401-1500.md#hao26b-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -91,6 +92,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](../../conferences/icml-2026/cards/1201-1300.md#gao26o-data-strategies) · 中文
 - [GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](../../conferences/icml-2026/cards/1201-1300.md#giannone26a-data-strategies) · 中文
 - [ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](../../conferences/icml-2026/cards/1401-1500.md#gurbuz26a-data-strategies) · 中文
+- [RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback](../../conferences/icml-2026/cards/1501-1600.md#he26ap-data-strategies) · 中文
+- [From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping](../../conferences/icml-2026/cards/1501-1600.md#he26au-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

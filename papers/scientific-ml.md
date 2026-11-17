@@ -95,6 +95,7 @@
 - <a id="flynn26a-reinforcement-learning"></a>[GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](../conferences/icml-2026/cards/1101-1200.md#paper-flynn26a)
 - <a id="gao26c-reinforcement-learning"></a>[Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning](../conferences/icml-2026/cards/1201-1300.md#paper-gao26c)
 - <a id="gu26b-reinforcement-learning"></a>[CSG: Cognitive Structure Generation for Intelligent Education](../conferences/icml-2026/cards/1301-1400.md#paper-gu26b)
+- <a id="he26as-reinforcement-learning"></a>[ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education](../conferences/icml-2026/cards/1501-1600.md#paper-he26as)
 
 <a id="by-training-strategies"></a>
 
@@ -144,6 +145,7 @@
 - <a id="ge26b-inference"></a>[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](../conferences/icml-2026/cards/1201-1300.md#paper-ge26b)
 - <a id="giral26a-inference"></a>[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](../conferences/icml-2026/cards/1201-1300.md#paper-giral26a)
 - <a id="han26g-inference"></a>[Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](../conferences/icml-2026/cards/1401-1500.md#paper-han26g)
+- <a id="hastedt26a-inference"></a>[From Feasible to Practical: Pareto-Optimal Synthesis Planning](../conferences/icml-2026/cards/1401-1500.md#paper-hastedt26a)
 
 <a id="by-representation-learning"></a>
 
@@ -163,6 +165,7 @@
 - <a id="gelard26a-representation-learning"></a>[Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](../conferences/icml-2026/cards/1201-1300.md#paper-gelard26a)
 - <a id="guo26a-representation-learning"></a>[SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](../conferences/icml-2026/cards/1301-1400.md#paper-guo26a)
 - <a id="han26f-representation-learning"></a>[Learning Permutation-invariant Macroscopic Dynamics](../conferences/icml-2026/cards/1401-1500.md#paper-han26f)
+- <a id="he26w-representation-learning"></a>[Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs](../conferences/icml-2026/cards/1501-1600.md#paper-he26w)
 
 <a id="by-evaluation"></a>
 
