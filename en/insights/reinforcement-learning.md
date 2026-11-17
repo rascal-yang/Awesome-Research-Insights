@@ -74,6 +74,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](../../conferences/icml-2026/cards/1701-1800.md#huang26bn-reinforcement-learning) · 中文
 - [Real-Time Aligned Reward Model beyond Semantics](../../conferences/icml-2026/cards/1701-1800.md#huang26bo-reinforcement-learning) · 中文
 - [Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](../../conferences/icml-2026/cards/1701-1800.md#huang26ca-reinforcement-learning) · 中文
+- [Reinforcement Learning via Self-Distillation](../../conferences/icml-2026/cards/1701-1800.md#hubotter26a-reinforcement-learning) · 中文
+- [PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF](../../conferences/icml-2026/cards/1701-1800.md#hwang26b-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

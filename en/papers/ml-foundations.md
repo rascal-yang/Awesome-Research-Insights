@@ -66,6 +66,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="habib26a-modules"></a>[GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](../../conferences/icml-2026/cards/1401-1500.md#paper-habib26a)
 - <a id="hao26d-modules"></a>[Hyperbolic Associative Memory Networks](../../conferences/icml-2026/cards/1401-1500.md#paper-hao26d)
 - <a id="huang26ao-modules"></a>[PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ao)
+- <a id="huu26a-modules"></a>[Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts](../../conferences/icml-2026/cards/1701-1800.md#paper-huu26a)
+- <a id="hwang26a-modules"></a>[PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26a)
 
 <a id="by-loss-functions"></a>
 
@@ -554,4 +556,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="huang26ab-theory-statistics"></a>[New Algorithms for Fully-Dynamic k-center with Outliers](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ab)
 - <a id="huang26ai-theory-statistics"></a>[Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ai)
 - <a id="huang26bp-theory-statistics"></a>[Delegation and Verification under AI](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bp)
+- <a id="hulsman26a-theory-statistics"></a>[Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families](../../conferences/icml-2026/cards/1701-1800.md#paper-hulsman26a)
 <!-- classification:end -->

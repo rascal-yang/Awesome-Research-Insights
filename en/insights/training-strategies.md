@@ -120,6 +120,7 @@ Training schedules, curricula, and task or stage composition.
 - [ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](../../conferences/icml-2026/cards/1401-1500.md#guo26aj-training-strategies) · 中文
 - [Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness](../../conferences/icml-2026/cards/1501-1600.md#hong26b-training-strategies) · 中文
 - [Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26bx-training-strategies) · 中文
+- [Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought](../../conferences/icml-2026/cards/1701-1800.md#huo26a-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

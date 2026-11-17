@@ -120,6 +120,7 @@
 - [隐蔽文字识别的能力边界训练](../conferences/icml-2026/cards/1401-1500.md#guo26aj-training-strategies) · ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning
 - [按实际梯度曝光量控制多模态尾部压力](../conferences/icml-2026/cards/1501-1600.md#hong26b-training-strategies) · Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness
 - [训练多轮多尺度视觉检索轨迹](../conferences/icml-2026/cards/1701-1800.md#huang26bx-training-strategies) · Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models
+- [把分步装配指令与可见中间状态配对](../conferences/icml-2026/cards/1701-1800.md#huo26a-training-strategies) · Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought
 
 <a id="by-ml-foundations"></a>
 

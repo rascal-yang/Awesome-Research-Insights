@@ -175,6 +175,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="huang26bn-reinforcement-learning"></a>[Does Your Reasoning Model Implicitly Know When to Stop Thinking?](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bn)
 - <a id="huang26bo-reinforcement-learning"></a>[Real-Time Aligned Reward Model beyond Semantics](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bo)
 - <a id="huang26ca-reinforcement-learning"></a>[Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ca)
+- <a id="hubotter26a-reinforcement-learning"></a>[Reinforcement Learning via Self-Distillation](../../conferences/icml-2026/cards/1701-1800.md#paper-hubotter26a)
+- <a id="hwang26b-reinforcement-learning"></a>[PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26b)
 
 <a id="by-training-strategies"></a>
 
@@ -518,6 +520,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="huang26bc-evaluation"></a>[RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bc)
 - <a id="huang26cf-evaluation"></a>[How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cf)
 - <a id="huang26ch-evaluation"></a>[RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ch)
+- <a id="hui26a-evaluation"></a>[Copyright-Bench: Agentic Evaluation of Copyright Law Compliance](../../conferences/icml-2026/cards/1701-1800.md#paper-hui26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -74,6 +74,8 @@
 - [用自然出现的结束标记采样简洁推理](../conferences/icml-2026/cards/1701-1800.md#huang26bn-reinforcement-learning) · Does Your Reasoning Model Implicitly Know When to Stop Thinking?
 - [用当前策略隐藏表示更新奖励](../conferences/icml-2026/cards/1701-1800.md#huang26bo-reinforcement-learning) · Real-Time Aligned Reward Model beyond Semantics
 - [用有效样本量缩放异步更新](../conferences/icml-2026/cards/1701-1800.md#huang26ca-reinforcement-learning) · Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs
+- [把环境反馈变成逐词元自蒸馏信号](../conferences/icml-2026/cards/1701-1800.md#hubotter26a-reinforcement-learning) · Reinforcement Learning via Self-Distillation
+- [按词元被纳入概率校正前缀反传](../conferences/icml-2026/cards/1701-1800.md#hwang26b-reinforcement-learning) · PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF
 
 <a id="by-computer-vision"></a>
 

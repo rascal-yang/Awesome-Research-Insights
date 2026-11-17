@@ -114,6 +114,8 @@ Reusable components and local changes to model inputs or connections.
 - [GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](../../conferences/icml-2026/cards/1401-1500.md#habib26a-modules) · 中文
 - [Hyperbolic Associative Memory Networks](../../conferences/icml-2026/cards/1401-1500.md#hao26d-modules) · 中文
 - [PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching](../../conferences/icml-2026/cards/1701-1800.md#huang26ao-modules) · 中文
+- [Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts](../../conferences/icml-2026/cards/1701-1800.md#huu26a-modules) · 中文
+- [PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference](../../conferences/icml-2026/cards/1701-1800.md#hwang26a-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

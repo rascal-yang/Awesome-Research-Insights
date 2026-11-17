@@ -77,6 +77,7 @@
 - [跨来源点云的 VLA 训练](../conferences/icml-2026/cards/1001-1100.md#fan26b-data-strategies) · Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds
 - [人类视频的潜动作监督](../conferences/icml-2026/cards/1201-1300.md#gao26q-data-strategies) · DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
 - [人形运动跟踪的可行性与难度选样](../conferences/icml-2026/cards/1301-1400.md#guan26f-data-strategies) · LIMMT: Less Is More for Motion Tracking
+- [固定动作几何并按覆盖选择模拟视频改写](../conferences/icml-2026/cards/1701-1800.md#hui26b-data-strategies) · Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation
 
 <a id="by-multimodal"></a>
 
@@ -132,4 +133,5 @@
 - [物理仿真的流式快照压缩](../conferences/icml-2026/cards/0701-0800.md#cranganore26a-data-strategies) · ANTiC: Adaptive Neural Temporal In Situ Compressor
 - [单细胞训练的块采样与批量预取](../conferences/icml-2026/cards/0801-0900.md#d-ascenzo26a-data-strategies) · scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics
 - [用同步心电和呼吸筛选 PPG 对比样本](../conferences/icml-2026/cards/1201-1300.md#geenjaar26a-data-strategies) · A robust PPG foundation model using multimodal physiological supervision
+- [在分布变化更快的内在时间上选择采样点](../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · Active Timepoint Selection for Learning Measure-Valued Trajectories
 <!-- classification:end -->

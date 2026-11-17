@@ -149,6 +149,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress](../../conferences/icml-2026/cards/1701-1800.md#huang26bc-evaluation) · 中文
 - [How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild](../../conferences/icml-2026/cards/1701-1800.md#huang26cf-evaluation) · 中文
 - [RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks](../../conferences/icml-2026/cards/1701-1800.md#huang26ch-evaluation) · 中文
+- [Copyright-Bench: Agentic Evaluation of Copyright Law Compliance](../../conferences/icml-2026/cards/1701-1800.md#hui26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

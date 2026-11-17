@@ -44,6 +44,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="hu26at-architecture"></a>[MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26at)
 - <a id="huang26p-architecture"></a>[E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26p)
 - <a id="huang26am-architecture"></a>[Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26am)
+- <a id="hubers26a-architecture"></a>[Foundation Inference Models for Ordinary Differential Equations](../../conferences/icml-2026/cards/1701-1800.md#paper-hubers26a)
 
 <a id="by-modules"></a>
 
@@ -72,6 +73,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="eberhard26a-loss-functions"></a>[Derivative Informed Learning of Exchange-Correlation Functionals](../../conferences/icml-2026/cards/1001-1100.md#paper-eberhard26a)
 - <a id="estevez26b-loss-functions"></a>[CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](../../conferences/icml-2026/cards/1001-1100.md#paper-estevez26b)
 - <a id="howard26b-loss-functions"></a>[Control Consistency Losses for Diffusion Bridges](../../conferences/icml-2026/cards/1601-1700.md#paper-howard26b)
+- <a id="huh26a-loss-functions"></a>[Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality](../../conferences/icml-2026/cards/1701-1800.md#paper-huh26a)
 
 <a id="by-optimization"></a>
 
@@ -135,6 +137,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="cranganore26a-data-strategies"></a>[ANTiC: Adaptive Neural Temporal In Situ Compressor](../../conferences/icml-2026/cards/0701-0800.md#paper-cranganore26a)
 - <a id="d-ascenzo26a-data-strategies"></a>[scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](../../conferences/icml-2026/cards/0801-0900.md#paper-d-ascenzo26a)
 - <a id="geenjaar26a-data-strategies"></a>[A robust PPG foundation model using multimodal physiological supervision](../../conferences/icml-2026/cards/1201-1300.md#paper-geenjaar26a)
+- <a id="huynh26a-data-strategies"></a>[Active Timepoint Selection for Learning Measure-Valued Trajectories](../../conferences/icml-2026/cards/1701-1800.md#paper-huynh26a)
 
 <a id="by-inference"></a>
 

@@ -77,6 +77,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](../../conferences/icml-2026/cards/1001-1100.md#fan26b-data-strategies) · 中文
 - [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](../../conferences/icml-2026/cards/1201-1300.md#gao26q-data-strategies) · 中文
 - [LIMMT: Less Is More for Motion Tracking](../../conferences/icml-2026/cards/1301-1400.md#guan26f-data-strategies) · 中文
+- [Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](../../conferences/icml-2026/cards/1701-1800.md#hui26b-data-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -132,4 +133,5 @@ Data selection, annotation, augmentation, and sampling.
 - [ANTiC: Adaptive Neural Temporal In Situ Compressor](../../conferences/icml-2026/cards/0701-0800.md#cranganore26a-data-strategies) · 中文
 - [scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](../../conferences/icml-2026/cards/0801-0900.md#d-ascenzo26a-data-strategies) · 中文
 - [A robust PPG foundation model using multimodal physiological supervision](../../conferences/icml-2026/cards/1201-1300.md#geenjaar26a-data-strategies) · 中文
+- [Active Timepoint Selection for Learning Measure-Valued Trajectories](../../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · 中文
 <!-- classification:end -->

@@ -79,6 +79,7 @@
 - <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](../conferences/icml-2026/cards/1001-1100.md#paper-fan26b)
 - <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](../conferences/icml-2026/cards/1201-1300.md#paper-gao26q)
 - <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](../conferences/icml-2026/cards/1301-1400.md#paper-guan26f)
+- <a id="hui26b-data-strategies"></a>[Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](../conferences/icml-2026/cards/1701-1800.md#paper-hui26b)
 
 <a id="by-inference"></a>
 

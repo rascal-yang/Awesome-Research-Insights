@@ -1779,18 +1779,18 @@ number	pmlr_id	title	paper_url	insight_status
 1778	huang26cn	HONet: Data-Efficient Learning for Exact Cover Tasks via Hypergraph Optimization	https://proceedings.mlr.press/v306/huang26cn.html	written
 1779	huang26co	Reliability-Aware LLM Alignment from Inconsistent Human Feedback	https://proceedings.mlr.press/v306/huang26co.html	written
 1780	huber26a	Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks	https://proceedings.mlr.press/v306/huber26a.html	written
-1781	hubers26a	Foundation Inference Models for Ordinary Differential Equations	https://proceedings.mlr.press/v306/hubers26a.html	pending
-1782	hubotter26a	Reinforcement Learning via Self-Distillation	https://proceedings.mlr.press/v306/hubotter26a.html	pending
-1783	hudson26a	Corrigibility Transformation: Constructing Goals That Accept Updates	https://proceedings.mlr.press/v306/hudson26a.html	pending
-1784	huh26a	Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality	https://proceedings.mlr.press/v306/huh26a.html	pending
-1785	hui26a	Copyright-Bench: Agentic Evaluation of Copyright Law Compliance	https://proceedings.mlr.press/v306/hui26a.html	pending
-1786	hui26b	Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation	https://proceedings.mlr.press/v306/hui26b.html	pending
-1787	hulsman26a	Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families	https://proceedings.mlr.press/v306/hulsman26a.html	pending
-1788	huo26a	Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought	https://proceedings.mlr.press/v306/huo26a.html	pending
-1789	huu26a	Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts	https://proceedings.mlr.press/v306/huu26a.html	pending
-1790	huynh26a	Active Timepoint Selection for Learning Measure-Valued Trajectories	https://proceedings.mlr.press/v306/huynh26a.html	pending
-1791	hwang26a	PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference	https://proceedings.mlr.press/v306/hwang26a.html	pending
-1792	hwang26b	PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF	https://proceedings.mlr.press/v306/hwang26b.html	pending
+1781	hubers26a	Foundation Inference Models for Ordinary Differential Equations	https://proceedings.mlr.press/v306/hubers26a.html	written
+1782	hubotter26a	Reinforcement Learning via Self-Distillation	https://proceedings.mlr.press/v306/hubotter26a.html	written
+1783	hudson26a	Corrigibility Transformation: Constructing Goals That Accept Updates	https://proceedings.mlr.press/v306/hudson26a.html	written
+1784	huh26a	Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality	https://proceedings.mlr.press/v306/huh26a.html	written
+1785	hui26a	Copyright-Bench: Agentic Evaluation of Copyright Law Compliance	https://proceedings.mlr.press/v306/hui26a.html	written
+1786	hui26b	Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation	https://proceedings.mlr.press/v306/hui26b.html	written
+1787	hulsman26a	Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families	https://proceedings.mlr.press/v306/hulsman26a.html	written
+1788	huo26a	Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought	https://proceedings.mlr.press/v306/huo26a.html	written
+1789	huu26a	Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts	https://proceedings.mlr.press/v306/huu26a.html	written
+1790	huynh26a	Active Timepoint Selection for Learning Measure-Valued Trajectories	https://proceedings.mlr.press/v306/huynh26a.html	written
+1791	hwang26a	PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference	https://proceedings.mlr.press/v306/hwang26a.html	written
+1792	hwang26b	PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF	https://proceedings.mlr.press/v306/hwang26b.html	written
 1793	hwang26c	Box Thirding: Anytime Best Arm Identification under Insufficient Sampling	https://proceedings.mlr.press/v306/hwang26c.html	pending
 1794	hwang26d	Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks	https://proceedings.mlr.press/v306/hwang26d.html	pending
 1795	hwang26e	LLM Watermark Evasion via Bias Inversion	https://proceedings.mlr.press/v306/hwang26e.html	pending

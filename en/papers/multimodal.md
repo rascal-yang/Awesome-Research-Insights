@@ -105,6 +105,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="guo26aj-training-strategies"></a>[ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26aj)
 - <a id="hong26b-training-strategies"></a>[Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26b)
 - <a id="huang26bx-training-strategies"></a>[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bx)
+- <a id="huo26a-training-strategies"></a>[Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought](../../conferences/icml-2026/cards/1701-1800.md#paper-huo26a)
 
 <a id="by-data-strategies"></a>
 

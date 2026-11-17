@@ -174,4 +174,5 @@ Model-wide design and information flow.
 - [MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology](../../conferences/icml-2026/cards/1601-1700.md#hu26at-architecture) · 中文
 - [E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](../../conferences/icml-2026/cards/1701-1800.md#huang26p-architecture) · 中文
 - [Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing](../../conferences/icml-2026/cards/1701-1800.md#huang26am-architecture) · 中文
+- [Foundation Inference Models for Ordinary Differential Equations](../../conferences/icml-2026/cards/1701-1800.md#hubers26a-architecture) · 中文
 <!-- classification:end -->

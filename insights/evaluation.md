@@ -149,6 +149,7 @@
 - [用设备负载分布和 TTFT 共同审计 MoE 路由](../conferences/icml-2026/cards/1701-1800.md#huang26bc-evaluation) · RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress
 - [按表格拓扑构建多轮用表轨迹](../conferences/icml-2026/cards/1701-1800.md#huang26cf-evaluation) · How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild
 - [用自适应重写压力测试语言水印](../conferences/icml-2026/cards/1701-1800.md#huang26ch-evaluation) · RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks
+- [在任务可解时检验代理能否遵守素材许可](../conferences/icml-2026/cards/1701-1800.md#hui26a-evaluation) · Copyright-Bench: Agentic Evaluation of Copyright Law Compliance
 
 <a id="by-computer-vision"></a>
 

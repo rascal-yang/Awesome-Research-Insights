@@ -129,4 +129,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Derivative Informed Learning of Exchange-Correlation Functionals](../../conferences/icml-2026/cards/1001-1100.md#eberhard26a-loss-functions) · 中文
 - [CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](../../conferences/icml-2026/cards/1001-1100.md#estevez26b-loss-functions) · 中文
 - [Control Consistency Losses for Diffusion Bridges](../../conferences/icml-2026/cards/1601-1700.md#howard26b-loss-functions) · 中文
+- [Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality](../../conferences/icml-2026/cards/1701-1800.md#huh26a-loss-functions) · 中文
 <!-- classification:end -->

@@ -129,4 +129,5 @@
 - [交换关联泛函的导数监督](../conferences/icml-2026/cards/1001-1100.md#eberhard26a-loss-functions) · Derivative Informed Learning of Exchange-Correlation Functionals
 - [保留配体受体关系的细胞传输](../conferences/icml-2026/cards/1001-1100.md#estevez26b-loss-functions) · CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment
 - [自一致控制训练扩散桥](../conferences/icml-2026/cards/1601-1700.md#howard26b-loss-functions) · Control Consistency Losses for Diffusion Bridges
+- [用对抗正交隔开坐标变化与动力学修正](../conferences/icml-2026/cards/1701-1800.md#huh26a-loss-functions) · Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality
 <!-- classification:end -->

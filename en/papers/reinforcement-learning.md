@@ -168,4 +168,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="hu26f-theory-statistics"></a>[Finite-time Convergence Analysis of Actor-Critic with Evolving Reward](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26f)
 - <a id="hu26bc-theory-statistics"></a>[Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bc)
 - <a id="huang26x-theory-statistics"></a>[Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26x)
+- <a id="hudson26a-theory-statistics"></a>[Corrigibility Transformation: Constructing Goals That Accept Updates](../../conferences/icml-2026/cards/1701-1800.md#paper-hudson26a)
 <!-- classification:end -->

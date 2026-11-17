@@ -89,6 +89,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Finite-time Convergence Analysis of Actor-Critic with Evolving Reward](../../conferences/icml-2026/cards/1601-1700.md#hu26f-theory-statistics) · 中文
 - [Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs](../../conferences/icml-2026/cards/1601-1700.md#hu26bc-theory-statistics) · 中文
 - [Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs](../../conferences/icml-2026/cards/1701-1800.md#huang26x-theory-statistics) · 中文
+- [Corrigibility Transformation: Constructing Goals That Accept Updates](../../conferences/icml-2026/cards/1701-1800.md#hudson26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -296,6 +297,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [New Algorithms for Fully-Dynamic k-center with Outliers](../../conferences/icml-2026/cards/1701-1800.md#huang26ab-theory-statistics) · 中文
 - [Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks](../../conferences/icml-2026/cards/1701-1800.md#huang26ai-theory-statistics) · 中文
 - [Delegation and Verification under AI](../../conferences/icml-2026/cards/1701-1800.md#huang26bp-theory-statistics) · 中文
+- [Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families](../../conferences/icml-2026/cards/1701-1800.md#hulsman26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -89,6 +89,7 @@
 - [控制奖励漂移以维持策略与价值跟踪](../conferences/icml-2026/cards/1601-1700.md#hu26f-theory-statistics) · Finite-time Convergence Analysis of Actor-Critic with Evolving Reward
 - [用坐标置信度覆盖连续偏好](../conferences/icml-2026/cards/1601-1700.md#hu26bc-theory-statistics) · Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs
 - [把探索与策略更新降到评估 oracle](../conferences/icml-2026/cards/1701-1800.md#huang26x-theory-statistics) · Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs
+- [用反事实动作价值消除阻止更新的激励](../conferences/icml-2026/cards/1701-1800.md#hudson26a-theory-statistics) · Corrigibility Transformation: Constructing Goals That Accept Updates
 
 <a id="by-robotics"></a>
 
@@ -296,6 +297,7 @@
 - [按剩余规模分层采样动态簇](../conferences/icml-2026/cards/1701-1800.md#huang26ab-theory-statistics) · New Algorithms for Fully-Dynamic k-center with Outliers
 - [用师生重叠统计识别优化吸引子](../conferences/icml-2026/cards/1701-1800.md#huang26ai-theory-statistics) · Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks
 - [同时求解个人委派与机构质量](../conferences/icml-2026/cards/1701-1800.md#huang26bp-theory-statistics) · Delegation and Verification under AI
+- [先分解切换机制再在各机制内发现因果边](../conferences/icml-2026/cards/1701-1800.md#hulsman26a-theory-statistics) · Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families
 
 <a id="by-graph-and-recommendation"></a>
 
