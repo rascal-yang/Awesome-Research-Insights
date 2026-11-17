@@ -611,7 +611,6 @@
 - <a id="chlon26a-inference"></a>[Predictable Compression Failures: Order Sensitivity and Information Budgeting for Evidence-Grounded Binary Adjudication](../conferences/icml-2026/cards/0701-0800.md#paper-chlon26a)
 - <a id="cho26e-inference"></a>[Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs](../conferences/icml-2026/cards/0701-0800.md#paper-cho26e)
 - <a id="cho26h-inference"></a>[CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features](../conferences/icml-2026/cards/0701-0800.md#paper-cho26h)
-- <a id="choi26b-inference"></a>[PinTok: Tokenizers Deserve Dedicated Pinned CPU-Compute and Memory](../conferences/icml-2026/cards/0701-0800.md#paper-choi26b)
 - <a id="choi26e-inference"></a>[The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages](../conferences/icml-2026/cards/0701-0800.md#paper-choi26e)
 - <a id="choudhary26b-inference"></a>[Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG](../conferences/icml-2026/cards/0701-0800.md#paper-choudhary26b)
 - <a id="chrabaszcz26a-inference"></a>[Efficient LLM Moderation with Multi-Layer Latent Prototypes](../conferences/icml-2026/cards/0701-0800.md#paper-chrabaszcz26a)

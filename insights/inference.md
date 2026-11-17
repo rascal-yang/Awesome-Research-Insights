@@ -54,7 +54,6 @@
 - [证据排列混合的拒答门控](../conferences/icml-2026/cards/0701-0800.md#chlon26a-inference) · Predictable Compression Failures: Order Sensitivity and Information Budgeting for Evidence-Grounded Binary Adjudication
 - [主奇异子空间保留后再量化](../conferences/icml-2026/cards/0701-0800.md#cho26e-inference) · Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs
 - [相关筛选与干预验证的 SAE 引导](../conferences/icml-2026/cards/0701-0800.md#cho26h-inference) · CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features
-- [低延迟分词的绑核与轮询](../conferences/icml-2026/cards/0701-0800.md#choi26b-inference) · PinTok: Tokenizers Deserve Dedicated Pinned CPU-Compute and Memory
 - [同谱系模型的上下文忠实性门控](../conferences/icml-2026/cards/0701-0800.md#choi26e-inference) · The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages
 - [RAG 段落注意力方差过滤](../conferences/icml-2026/cards/0701-0800.md#choudhary26b-inference) · Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG
 - [多层原型输入审核](../conferences/icml-2026/cards/0701-0800.md#chrabaszcz26a-inference) · Efficient LLM Moderation with Multi-Layer Latent Prototypes

@@ -54,7 +54,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [Predictable Compression Failures: Order Sensitivity and Information Budgeting for Evidence-Grounded Binary Adjudication](../../conferences/icml-2026/cards/0701-0800.md#chlon26a-inference) · 中文
 - [Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs](../../conferences/icml-2026/cards/0701-0800.md#cho26e-inference) · 中文
 - [CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features](../../conferences/icml-2026/cards/0701-0800.md#cho26h-inference) · 中文
-- [PinTok: Tokenizers Deserve Dedicated Pinned CPU-Compute and Memory](../../conferences/icml-2026/cards/0701-0800.md#choi26b-inference) · 中文
 - [The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages](../../conferences/icml-2026/cards/0701-0800.md#choi26e-inference) · 中文
 - [Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG](../../conferences/icml-2026/cards/0701-0800.md#choudhary26b-inference) · 中文
 - [Efficient LLM Moderation with Multi-Layer Latent Prototypes](../../conferences/icml-2026/cards/0701-0800.md#chrabaszcz26a-inference) · 中文
