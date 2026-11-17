@@ -3231,9 +3231,9 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3230	martinez-taboada26a	Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables	https://proceedings.mlr.press/v306/martinez-taboada26a.html		written
 3231	maruyama26a	Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks	https://proceedings.mlr.press/v306/maruyama26a.html		written
 3232	marwah26a	Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement	https://proceedings.mlr.press/v306/marwah26a.html		written
-3233	marzo26a	This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic	https://proceedings.mlr.press/v306/marzo26a.html		written
-3234	maskey26a	1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization	https://proceedings.mlr.press/v306/maskey26a.html		written
-3235	matthews26a	Goal-Conditioned Agents that Learn Everything All at Once	https://proceedings.mlr.press/v306/matthews26a.html		written
+3233	marzo26a	This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic	https://proceedings.mlr.press/v306/marzo26a.html	具体改变连续控制actor的参数化：用状态到原型的相似度组合原型动作分布，保留SAC双评论家，可在策略本身暴露与代表状态的对应。PDF第3–5页定义actor和原型更新，第6–7页连续控制对照标准SAC；属于独立可复用的策略表示，不将性能或可解释标签本身作为收录理由，也不声称原型解释等于因果安全保证。	written
+3234	maskey26a	1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization	https://proceedings.mlr.press/v306/maskey26a.html	具体改变固定部署显存下权重位宽与模型容量的分配。PDF第3页统一64权重块及16位缩放量对照量化格式，第6页比较显存匹配的bf16、4位和1位模型，第7页显示1位容量优势伴随吞吐代价；可据此分开权衡显存、生成任务与延迟，不能把1位结论扩大到所有模型或仅当扩参数贡献。	written
+3235	matthews26a	Goal-Conditioned Agents that Learn Everything All at Once	https://proceedings.mlr.press/v306/matthews26a.html	具体改变目标条件强化学习的全目标更新实现：把有限目标从输入移到并行输出头，同一前向更新所有目标；PDF第3页在相同PQN设置比较逐目标重标的吞吐，第7页展示简单目标退化而Dual LEO补救，第8页连续控制未普遍改善。独立机制是全目标输出及与UVFA结合，适用前提和失败边界均清楚。	written
 3236	matveev26a	Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization	https://proceedings.mlr.press/v306/matveev26a.html		written
 3237	maurer26a	Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime	https://proceedings.mlr.press/v306/maurer26a.html		written
 3238	mayaki26a	Generalization and Scaling Laws for Mixture-of-ExpertsTransformers	https://proceedings.mlr.press/v306/mayaki26a.html		written
@@ -3241,14 +3241,14 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3240	mazza26a	BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate	https://proceedings.mlr.press/v306/mazza26a.html		written
 3241	mccabe26a	Walrus: A Cross-domain Foundation Model for Continuum Dynamics	https://proceedings.mlr.press/v306/mccabe26a.html		written
 3242	mcdanel26a	CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill	https://proceedings.mlr.press/v306/mcdanel26a.html		written
-3243	mcginnis26a	Optimizing Rank for High-Fidelity Implicit Neural Representations	https://proceedings.mlr.press/v306/mcginnis26a.html		written
+3243	mcginnis26a	Optimizing Rank for High-Fidelity Implicit Neural Representations	https://proceedings.mlr.press/v306/mcginnis26a.html	具体改变隐式神经表示出现高频拟合不足时的干预位置：先检查训练中稳定秩下降，并尝试对隐藏层二维权重用近正交更新，而非立即更换编码或激活。PDF第5页限定隐藏权重Muon、其他参数Adam，第6页Lion对照未同等保持秩与拟合质量，支持该优化诊断。保留经验规律，不把相关性表述成所有架构的充分因果证明。	written
 3244	mckenzie26a	Endogenous Resistance to Activation Steering in Language Models	https://proceedings.mlr.press/v306/mckenzie26a.html		written
 3245	medvedev26a	Positive Distribution Shift as a Framework for Understanding Tractable Learning	https://proceedings.mlr.press/v306/medvedev26a.html		written
 3246	medvedev26b	BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models	https://proceedings.mlr.press/v306/medvedev26b.html		written
 3247	mehouachi26a	Fractional is Better: Learnable Derivative Orders in Neural Operator Learning	https://proceedings.mlr.press/v306/mehouachi26a.html		written
 3248	mehrpanah26a	Improving Adversarial Robustness of Attribution via Implicit Regularization	https://proceedings.mlr.press/v306/mehrpanah26a.html		written
 3249	mei26a	Head-in-Head in Linear Attention	https://proceedings.mlr.press/v306/mei26a.html		written
-3250	meister26a	What Language is This? Ask Your Tokenizer.	https://proceedings.mlr.press/v306/meister26a.html		written
+3250	meister26a	What Language is This? Ask Your Tokenizer.	https://proceedings.mlr.press/v306/meister26a.html	具体改变多语训练数据清洗中的语言识别方案：固定共享词表，逐语言用EM估unigram分布及似然，新增语言无需重训既有语言模型。PDF第3–5页给出概率与推断过程，第6页控制训练数据对照fastText，第7页说明低资源标签的假阳性会污染大规模语料并比较FPR，第9页限定忽略长程依赖和按语言线性存储成本。简单统计机制也可独立用于深度模型数据筛选，不因非神经网络或NLP任务排除。	written
 3251	mejia26a	Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation	https://proceedings.mlr.press/v306/mejia26a.html		written
 3252	melechovsky26a	SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering	https://proceedings.mlr.press/v306/melechovsky26a.html		written
 3253	melikidze26a	ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning	https://proceedings.mlr.press/v306/melikidze26a.html		written
