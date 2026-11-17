@@ -118,6 +118,7 @@
 - <a id="tang26ai-modules"></a>[CoGe-GCD: Reframing Generalized Category Discovery with Compositional Generalization](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ai)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 - <a id="tran26g-modules"></a>[SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging](../conferences/icml-2026/cards/4401-4500.md#paper-tran26g)
+- <a id="wang26af-modules"></a>[EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance](../conferences/icml-2026/cards/4601-4700.md#paper-wang26af)
 
 <a id="by-loss-functions"></a>
 
@@ -150,6 +151,7 @@
 - <a id="tewel26a-loss-functions"></a>[Unpaired Visual Editing with Self-Consistent Flow Matching](../conferences/icml-2026/cards/4401-4500.md#paper-tewel26a)
 - <a id="turan26c-loss-functions"></a>[Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization](../conferences/icml-2026/cards/4501-4600.md#paper-turan26c)
 - <a id="wan26o-loss-functions"></a>[Shortcut-Resistant CAM Distillation for Long-Tailed Recognition](../conferences/icml-2026/cards/4501-4600.md#paper-wan26o)
+- <a id="wang26ao-loss-functions"></a>[Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ao)
 
 <a id="by-optimization"></a>
 
@@ -182,6 +184,7 @@
 - <a id="shaoran26a-optimization"></a>[CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation](../conferences/icml-2026/cards/4001-4100.md#paper-shaoran26a)
 - <a id="song26b-optimization"></a>[EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](../conferences/icml-2026/cards/4201-4300.md#paper-song26b)
 - <a id="sun26ax-optimization"></a>[Orthogonal Concept Erasure for Diffusion Models](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ax)
+- <a id="wang26al-optimization"></a>[Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26al)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -203,6 +206,7 @@
 - <a id="shi26o-reinforcement-learning"></a>[Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification](../conferences/icml-2026/cards/4101-4200.md#paper-shi26o)
 - <a id="shi26p-reinforcement-learning"></a>[PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything](../conferences/icml-2026/cards/4101-4200.md#paper-shi26p)
 - <a id="sun26l-reinforcement-learning"></a>[Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function](../conferences/icml-2026/cards/4201-4300.md#paper-sun26l)
+- <a id="wang26an-reinforcement-learning"></a>[UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26an)
 
 <a id="by-training-strategies"></a>
 
@@ -533,6 +537,8 @@
 - <a id="tragoudaras26a-evaluation"></a>[Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](../conferences/icml-2026/cards/4401-4500.md#paper-tragoudaras26a)
 - <a id="vadakkeeveetil-sreelatha26a-evaluation"></a>[RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](../conferences/icml-2026/cards/4501-4600.md#paper-vadakkeeveetil-sreelatha26a)
 - <a id="walter26a-evaluation"></a>[Hidden in Plain Sight – Class Competition Focuses Attribution Maps](../conferences/icml-2026/cards/4501-4600.md#paper-walter26a)
+- <a id="wang26ad-evaluation"></a>[RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ad)
+- <a id="wang26aj-evaluation"></a>[When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment](../conferences/icml-2026/cards/4601-4700.md#paper-wang26aj)
 
 <a id="by-theory-statistics"></a>
 

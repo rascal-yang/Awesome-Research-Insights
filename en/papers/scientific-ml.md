@@ -167,6 +167,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="qin26b-loss-functions"></a>[SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26b)
 - <a id="schopmans26a-loss-functions"></a>[Efficient Training of Boltzmann Generators Using Off-Policy Log-Dispersion Regularization](../../conferences/icml-2026/cards/3901-4000.md#paper-schopmans26a)
 - <a id="seo26c-loss-functions"></a>[Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../../conferences/icml-2026/cards/4001-4100.md#paper-seo26c)
+- <a id="wang26av-loss-functions"></a>[Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26av)
 
 <a id="by-optimization"></a>
 

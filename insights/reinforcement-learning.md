@@ -174,6 +174,7 @@
 - [正确性约束下的辩论稳定奖励](../conferences/icml-2026/cards/4301-4400.md#tang26n-reinforcement-learning) · The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization
 - [澄清奖励的可回答性门控](../conferences/icml-2026/cards/4501-4600.md#vijayvargiya26a-reinforcement-learning) · Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks
 - [Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction](../conferences/icml-2026/cards/4601-4700.md#wang26x-reinforcement-learning) · Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction
+- [分层不确定性探索控制](../conferences/icml-2026/cards/4601-4700.md#wang26ah-reinforcement-learning) · T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -195,6 +196,7 @@
 - [用身份门控抑制增强奖励投机](../conferences/icml-2026/cards/4101-4200.md#shi26o-reinforcement-learning) · Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification
 - [分别优化语义和空间点提示](../conferences/icml-2026/cards/4101-4200.md#shi26p-reinforcement-learning) · PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything
 - [终局奖励分布作短段回报](../conferences/icml-2026/cards/4201-4300.md#sun26l-reinforcement-learning) · Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function
+- [前向重加噪声轨迹的GRPO](../conferences/icml-2026/cards/4601-4700.md#wang26an-reinforcement-learning) · UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models
 
 <a id="by-nlp"></a>
 

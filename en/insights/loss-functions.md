@@ -85,6 +85,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Unpaired Visual Editing with Self-Consistent Flow Matching](../../conferences/icml-2026/cards/4401-4500.md#tewel26a-loss-functions) · 中文
 - [Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization](../../conferences/icml-2026/cards/4501-4600.md#turan26c-loss-functions) · 中文
 - [Shortcut-Resistant CAM Distillation for Long-Tailed Recognition](../../conferences/icml-2026/cards/4501-4600.md#wan26o-loss-functions) · 中文
+- [Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection](../../conferences/icml-2026/cards/4601-4700.md#wang26ao-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -160,6 +161,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label](../../conferences/icml-2026/cards/4301-4400.md#sun26aj-loss-functions) · 中文
 - [Escaping the Likelihood Trap: Geometric Diversity Optimization for Long-Form Image Captioning](../../conferences/icml-2026/cards/4301-4400.md#tang26f-loss-functions) · 中文
 - [Artemis: Structured Visual Reasoning for Perception Policy Learning](../../conferences/icml-2026/cards/4301-4400.md#tang26u-loss-functions) · 中文
+- [IBMA: Information Bottleneck-Based Multimodal Alignment](../../conferences/icml-2026/cards/4601-4700.md#wang26at-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -252,4 +254,5 @@ Objectives, auxiliary supervision, and regularization.
 - [SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings](../../conferences/icml-2026/cards/3701-3800.md#qin26b-loss-functions) · 中文
 - [Efficient Training of Boltzmann Generators Using Off-Policy Log-Dispersion Regularization](../../conferences/icml-2026/cards/3901-4000.md#schopmans26a-loss-functions) · 中文
 - [Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../../conferences/icml-2026/cards/4001-4100.md#seo26c-loss-functions) · 中文
+- [Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information](../../conferences/icml-2026/cards/4601-4700.md#wang26av-loss-functions) · 中文
 <!-- classification:end -->

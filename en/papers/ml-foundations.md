@@ -1089,4 +1089,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wakayama26a-theory-statistics"></a>[A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt](../../conferences/icml-2026/cards/4501-4600.md#paper-wakayama26a)
 - <a id="waldron26a-theory-statistics"></a>[CAOS: Conformal Aggregation of One-Shot Predictors](../../conferences/icml-2026/cards/4501-4600.md#paper-waldron26a)
 - <a id="wan26k-theory-statistics"></a>[Error Analysis of Discrete Flow with Generator Matching](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26k)
+- <a id="wang26ap-theory-statistics"></a>[Accurate Large-sample Uncertainty Quantification using Stochastic Gradient Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ap)
+- <a id="wang26ar-theory-statistics"></a>[Optimal Decision-Making Based on Prediction Sets](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ar)
+- <a id="wang26au-theory-statistics"></a>[Inference of Online Newton Methods with Nesterov’s Accelerated Sketching](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26au)
 <!-- classification:end -->

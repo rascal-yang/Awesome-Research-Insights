@@ -85,6 +85,7 @@
 - [clean-forward-noisy-backward-edit-cycle](../conferences/icml-2026/cards/4401-4500.md#tewel26a-loss-functions) · Unpaired Visual Editing with Self-Consistent Flow Matching
 - [trajectory-consistent-koopman](../conferences/icml-2026/cards/4501-4600.md#turan26c-loss-functions) · Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization
 - [head-proxy-cam-distillation](../conferences/icml-2026/cards/4501-4600.md#wan26o-loss-functions) · Shortcut-Resistant CAM Distillation for Long-Tailed Recognition
+- [弱监督指定待移除子空间](../conferences/icml-2026/cards/4601-4700.md#wang26ao-loss-functions) · Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection
 
 <a id="by-nlp"></a>
 
@@ -160,6 +161,7 @@
 - [不确定性感知相似度](../conferences/icml-2026/cards/4301-4400.md#sun26aj-loss-functions) · Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label
 - [集合几何奖励与边际信用](../conferences/icml-2026/cards/4301-4400.md#tang26f-loss-functions) · Escaping the Likelihood Trap: Geometric Diversity Optimization for Long-Form Image Captioning
 - [中间对象证据奖励](../conferences/icml-2026/cards/4301-4400.md#tang26u-loss-functions) · Artemis: Structured Visual Reasoning for Perception Policy Learning
+- [各模态自身的信息瓶颈对齐](../conferences/icml-2026/cards/4601-4700.md#wang26at-loss-functions) · IBMA: Information Bottleneck-Based Multimodal Alignment
 
 <a id="by-ml-foundations"></a>
 
@@ -252,4 +254,5 @@
 - [不平衡光谱识别的对称信息瓶颈](../conferences/icml-2026/cards/3701-3800.md#qin26b-loss-functions) · SymSpectra: Symmetric Information Bottleneck Framework for Molecular Structure Recognition under Imbalanced Settings
 - [用离策略能量标签校正密度形状](../conferences/icml-2026/cards/3901-4000.md#schopmans26a-loss-functions) · Efficient Training of Boltzmann Generators Using Off-Policy Log-Dispersion Regularization
 - [用独立残差乘积消除 BSDE 损失偏差](../conferences/icml-2026/cards/4001-4100.md#seo26c-loss-functions) · Unbiased and Second-Order-Free Training for High-Dimensional PDEs
+- [按保真度拆分可用监督](../conferences/icml-2026/cards/4601-4700.md#wang26av-loss-functions) · Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information
 <!-- classification:end -->

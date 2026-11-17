@@ -392,6 +392,8 @@
 - [基于定律的视频动力学评测](../conferences/icml-2026/cards/4401-4500.md#tragoudaras26a-evaluation) · Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems
 - [rarity-times-semantic-distinctiveness](../conferences/icml-2026/cards/4501-4600.md#vadakkeeveetil-sreelatha26a-evaluation) · RAIGen: Rare Attribute Identification in Text-to-Image Generative Models
 - [在归因图层面做类别竞争](../conferences/icml-2026/cards/4501-4600.md#walter26a-evaluation) · Hidden in Plain Sight – Class Competition Focuses Attribution Maps
+- [扰动响应而非静态伪影](../conferences/icml-2026/cards/4601-4700.md#wang26ad-evaluation) · RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry
+- [属性梯度冲突与共同难例](../conferences/icml-2026/cards/4601-4700.md#wang26aj-evaluation) · When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment
 
 <a id="by-nlp"></a>
 

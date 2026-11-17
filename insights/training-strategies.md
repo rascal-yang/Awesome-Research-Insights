@@ -139,6 +139,7 @@
 - [random-clipping-with-matched-accounting](../conferences/icml-2026/cards/4501-4600.md#ullah26a-training-strategies) · Efficient DP-SGD for LLMs with Randomized Clipping
 - [上下文长短构造无奖励偏好](../conferences/icml-2026/cards/4501-4600.md#wan26a-training-strategies) · Mitigating Conversational Inertia in Multi-Turn Agents
 - [When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../conferences/icml-2026/cards/4501-4600.md#wang26j-training-strategies) · When RL Meets Adaptive Speculative Training: A Unified Training-Serving System
+- [按收敛状态选择扩深方式](../conferences/icml-2026/cards/4601-4700.md#wang26aq-training-strategies) · Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts
 
 <a id="by-computer-vision"></a>
 

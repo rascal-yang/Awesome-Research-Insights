@@ -106,6 +106,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="sun26aj-loss-functions"></a>[Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26aj)
 - <a id="tang26f-loss-functions"></a>[Escaping the Likelihood Trap: Geometric Diversity Optimization for Long-Form Image Captioning](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26f)
 - <a id="tang26u-loss-functions"></a>[Artemis: Structured Visual Reasoning for Perception Policy Learning](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26u)
+- <a id="wang26at-loss-functions"></a>[IBMA: Information Bottleneck-Based Multimodal Alignment](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26at)
 
 <a id="by-optimization"></a>
 

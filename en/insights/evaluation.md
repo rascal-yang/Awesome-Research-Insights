@@ -392,6 +392,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](../../conferences/icml-2026/cards/4401-4500.md#tragoudaras26a-evaluation) · 中文
 - [RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](../../conferences/icml-2026/cards/4501-4600.md#vadakkeeveetil-sreelatha26a-evaluation) · 中文
 - [Hidden in Plain Sight – Class Competition Focuses Attribution Maps](../../conferences/icml-2026/cards/4501-4600.md#walter26a-evaluation) · 中文
+- [RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry](../../conferences/icml-2026/cards/4601-4700.md#wang26ad-evaluation) · 中文
+- [When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment](../../conferences/icml-2026/cards/4601-4700.md#wang26aj-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

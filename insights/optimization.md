@@ -129,6 +129,7 @@
 - [用置信和梯度共同限学习率](../conferences/icml-2026/cards/4001-4100.md#shaoran26a-optimization) · CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation
 - [部分几何能量场与梯度隔离](../conferences/icml-2026/cards/4201-4300.md#song26b-optimization) · EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors
 - [正交旋转的概念编辑](../conferences/icml-2026/cards/4301-4400.md#sun26ax-optimization) · Orthogonal Concept Erasure for Diffusion Models
+- [先解阈值再尾风险微调](../conferences/icml-2026/cards/4601-4700.md#wang26al-optimization) · Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning
 
 <a id="by-nlp"></a>
 

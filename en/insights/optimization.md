@@ -129,6 +129,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation](../../conferences/icml-2026/cards/4001-4100.md#shaoran26a-optimization) · 中文
 - [EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](../../conferences/icml-2026/cards/4201-4300.md#song26b-optimization) · 中文
 - [Orthogonal Concept Erasure for Diffusion Models](../../conferences/icml-2026/cards/4301-4400.md#sun26ax-optimization) · 中文
+- [Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#wang26al-optimization) · 中文
 
 <a id="by-nlp"></a>
 

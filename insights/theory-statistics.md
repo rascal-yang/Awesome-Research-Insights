@@ -568,6 +568,9 @@
 - [测试时更新的谱匹配](../conferences/icml-2026/cards/4501-4600.md#wakayama26a-theory-statistics) · A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt
 - [单样本预测器的单调保形聚合](../conferences/icml-2026/cards/4501-4600.md#waldron26a-theory-statistics) · CAOS: Conformal Aggregation of One-Shot Predictors
 - [discrete-flow-error-budget](../conferences/icml-2026/cards/4501-4600.md#wan26k-theory-statistics) · Error Analysis of Discrete Flow with Generator Matching
+- [有限步长与状态依赖梯度噪声的协方差校准](../conferences/icml-2026/cards/4601-4700.md#wang26ap-theory-statistics) · Accurate Large-sample Uncertainty Quantification using Stochastic Gradient Markov Chain Monte Carlo
+- [预测集合外的损失惩罚](../conferences/icml-2026/cards/4601-4700.md#wang26ar-theory-statistics) · Optimal Decision-Making Based on Prediction Sets
+- [加速随机Newton的在线推断协方差](../conferences/icml-2026/cards/4601-4700.md#wang26au-theory-statistics) · Inference of Online Newton Methods with Nesterov’s Accelerated Sketching
 
 <a id="by-graph-and-recommendation"></a>
 

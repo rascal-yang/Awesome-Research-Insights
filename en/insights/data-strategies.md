@@ -81,6 +81,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment](../../conferences/icml-2026/cards/4401-4500.md#tice26a-data-strategies) · 中文
 - [Trust Functions: Near-Lossless Weak-to-Strong Generalization by Learning When to Trust the Weak Teacher](../../conferences/icml-2026/cards/4501-4600.md#uzunoglu26a-data-strategies) · 中文
 - [DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26w-data-strategies) · 中文
+- [The Power of Power Law: Asymmetry Enables Compositional Reasoning](../../conferences/icml-2026/cards/4601-4700.md#wang26ak-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

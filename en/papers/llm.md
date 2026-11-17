@@ -408,6 +408,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tang26n-reinforcement-learning"></a>[The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26n)
 - <a id="vijayvargiya26a-reinforcement-learning"></a>[Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks](../../conferences/icml-2026/cards/4501-4600.md#paper-vijayvargiya26a)
 - <a id="wang26x-reinforcement-learning"></a>[Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26x)
+- <a id="wang26ah-reinforcement-learning"></a>[T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ah)
 
 <a id="by-training-strategies"></a>
 
@@ -539,6 +540,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ullah26a-training-strategies"></a>[Efficient DP-SGD for LLMs with Randomized Clipping](../../conferences/icml-2026/cards/4501-4600.md#paper-ullah26a)
 - <a id="wan26a-training-strategies"></a>[Mitigating Conversational Inertia in Multi-Turn Agents](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26a)
 - <a id="wang26j-training-strategies"></a>[When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26j)
+- <a id="wang26aq-training-strategies"></a>[Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26aq)
 
 <a id="by-data-strategies"></a>
 
@@ -612,6 +614,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tice26a-data-strategies"></a>[Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment](../../conferences/icml-2026/cards/4401-4500.md#paper-tice26a)
 - <a id="uzunoglu26a-data-strategies"></a>[Trust Functions: Near-Lossless Weak-to-Strong Generalization by Learning When to Trust the Weak Teacher](../../conferences/icml-2026/cards/4501-4600.md#paper-uzunoglu26a)
 - <a id="wang26w-data-strategies"></a>[DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26w)
+- <a id="wang26ak-data-strategies"></a>[The Power of Power Law: Asymmetry Enables Compositional Reasoning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ak)
 
 <a id="by-inference"></a>
 

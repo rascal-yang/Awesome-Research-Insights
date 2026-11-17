@@ -174,6 +174,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization](../../conferences/icml-2026/cards/4301-4400.md#tang26n-reinforcement-learning) · 中文
 - [Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks](../../conferences/icml-2026/cards/4501-4600.md#vijayvargiya26a-reinforcement-learning) · 中文
 - [Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction](../../conferences/icml-2026/cards/4601-4700.md#wang26x-reinforcement-learning) · 中文
+- [T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26ah-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -195,6 +196,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification](../../conferences/icml-2026/cards/4101-4200.md#shi26o-reinforcement-learning) · 中文
 - [PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything](../../conferences/icml-2026/cards/4101-4200.md#shi26p-reinforcement-learning) · 中文
 - [Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function](../../conferences/icml-2026/cards/4201-4300.md#sun26l-reinforcement-learning) · 中文
+- [UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#wang26an-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 

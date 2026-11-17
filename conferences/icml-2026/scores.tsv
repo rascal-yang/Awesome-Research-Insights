@@ -4610,26 +4610,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4609	wang26aa	3	4	4	3	70		类别扩展时用离散锚选择性蒸馏，新增类别分配特征块时主动避开最易混淆旧类。 适用边界：依赖类别增量及可识别原型；块支撑有限，混淆错误可能误导分配；不同backbone和数据上并非统一优势。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26aa/wang26aa.pdf	scored
 4610	wang26ab	3	4	4	3	70		工具代理鲁棒性应按噪声来源和注入阶段拆测；强推理分数不可靠地预测工具故障下成功率。 适用边界：模型比较非严格配对因果实验；中段脆弱性的机制解释是假说；不能把场景内经验视为所有代理的普遍定律。可解性由生成/审核协议约束而非形式证明；轨迹全程有效的门控会排除中途偏离后恢复的成功，需与最终任务成功率分开解读。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ab/wang26ab.pdf	scored
 4611	wang26ac	3	4	4	3	70		安全校准可只在prefill早层对高风险视觉token注入语言风险原型方向，减少全token修改带来的效用损失。 适用边界：需模型内部视觉token与层访问、风险词原型及阈值；保留语义是实验观察而非严格保证；未证明对未见自适应攻击通用。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ac/wang26ac.pdf	scored
-4612	wang26ad							待原文复核评分	pending
-4613	wang26ae							待原文复核评分	pending
-4614	wang26af							待原文复核评分	pending
-4615	wang26ag							待原文复核评分	pending
-4616	wang26ah							待原文复核评分	pending
-4617	wang26ai							待原文复核评分	pending
-4618	wang26aj							待原文复核评分	pending
-4619	wang26ak							待原文复核评分	pending
-4620	wang26al							待原文复核评分	pending
-4621	wang26am							待原文复核评分	pending
-4622	wang26an							待原文复核评分	pending
-4623	wang26ao							待原文复核评分	pending
-4624	wang26ap							待原文复核评分	pending
-4625	wang26aq							待原文复核评分	pending
-4626	wang26ar							待原文复核评分	pending
-4627	wang26as							待原文复核评分	pending
-4628	wang26at							待原文复核评分	pending
-4629	wang26au							待原文复核评分	pending
-4630	wang26av							待原文复核评分	pending
-4631	wang26aw							待原文复核评分	pending
+4612	wang26ad	4	4	4	4	80		学习扰动响应提供独立检测信号，固定噪声和BCE消融支持增量；跨来源可复用但仍依赖监督探针与骨干，PDF3、7–8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ad/wang26ad.pdf	scored
+4613	wang26ae							固定未知一维根的PBA指数收敛证明较旧Bayesian/离散化分析有新增，但所核页2–4主要为已知恒定翻转率p<1/2的根定位；未给出能改变神经训练、具身感知或策略研究选择的验证或具体适用条件连接，故不单独收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ae/wang26ae.pdf	rule-excluded
+4614	wang26af	4	4	4	4	80		改变条件注入范围及对齐监督构造，超过轻量ControlNet拼接；页4–5机制与页8消融，通用性主要限视频空间控制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26af/wang26af.pdf	scored
+4615	wang26ag							PDF3–5明确沿用DPT的交互上下文+独立查询状态→最优动作交叉熵结构，并将任务身份换成HSP生成伙伴、监督标签换成MAPPO最佳响应；DPT原作已具查询动作监督和无参数更新适应（https://proceedings.neurips.cc/paper_files/paper/2023/hash/8644b61a9bc87bf7844750a015feb600-Abstract.html）。相较PACE取消训练身份分类不构成超出DPT的独立新操作；PDF9的5回合窗口与打乱控制未建立超出一般近期上下文/局部时序需求的新边界。因此判成熟机制的协作任务改造，不以性能或MARL相关性单独收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ag/wang26ag.pdf	rule-excluded
+4616	wang26ah	4	4	4	3	77		有固定长度与其他控制比较，支持将不确定性用于两尺度rollout控制；主要借用GiGPO更新，故独特性3，PDF4–8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ah/wang26ah.pdf	scored
+4617	wang26ai							页3–7以经典SSN兴奋抑制动力学、局部可塑性及权重归一化解释V1对比度编码；可见自动编码切换证据，但所核任务为生理现象拟合，未建立改变相关深度视觉模型结构/训练选择的可迁移验证；不能仅凭生物启发收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ai/wang26ai.pdf	rule-excluded
+4618	wang26aj	3	3	3	3	60		保留可操作失败诊断而非四模块集成本身；页7–8干预支持共同错误与属性稀有度关系，但泛化视觉评分仍需验证。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26aj/wang26aj.pdf	scored
+4619	wang26ak	4	4	3	4	76		频率本身改变优化而非简单课程；附录24–25均匀测试算术对照、30页均匀测试GSM及C.1尾技能后期拖慢支持可迁移选择。S5部分附录在线平均曲线依训练分布，主文PDF7声明各任务测试均匀采样；特定理论与指数敏感性限制可使用度，PDF3–8、24–30。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ak/wang26ak.pdf	scored
+4620	wang26al	4	5	4	4	86		CVaR离线阈值解耦独立可复用，FDC近邻和同预算图像证据支持；页3–7。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26al/wang26al.pdf	scored
+4621	wang26am							页3–7的PVCL沿用视觉空间GDA/原型校准、低熵筛选、协方差收缩，PAA为max pooling后固定α=0.9融合CLS；近邻TagCLIP/SPARC及GDA校准已经覆盖核心操作。消融证明组合有效，未建立值得独立保留的新机制或新适用边界。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26am/wang26am.pdf	rule-excluded
+4622	wang26an	4	4	4	4	80		可独立选择动作与状态构造，逐项消融而非只有拼接GRPO跑分；页4–8，跨其他离散生成任务仍需检验。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26an/wang26an.pdf	scored
+4623	wang26ao	3	4	4	3	70		定向对齐待删除分量是可复用简单辅助目标，近邻投影机制已成熟故新增量/独特性3；页3–6展示构造及非一致收益。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ao/wang26ao.pdf	scored
+4624	wang26ap	4	4	3	4	76		有限步长关系本身已有，新增是一般逐样本二次代理中显式状态依赖噪声与误差控制，并给联合求根调步长方案；可指导近MAP/凸最后层校准，但非凸保证和大维实现受限，PDF4–9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ap/wang26ap.pdf	scored
+4625	wang26aq	4	4	4	4	80		有具体增长时机和预算决策，而非仅扩参数跑分；已有扩容动作但收敛边界/两种预算区分增量清晰，PDF3–8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26aq/wang26aq.pdf	scored
+4626	wang26ar	4	4	3	4	76		公式直接改变风险敏感下游动作选择，增量是集合外风险；oracle覆盖与实际边际覆盖差异限制可使用程度，页3–5。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ar/wang26ar.pdf	scored
+4627	wang26as							页3–6以实例锚定分段线性单变量效应替代LIME线性效应，再用非负收缩稀疏化；目标为表格局部解释，所核比较/验证未说明如何改变神经感知、策略或相关深度模型研究的技术选择，不能只凭解释忠实度提高收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26as/wang26as.pdf	rule-excluded
+4628	wang26at	4	4	4	4	80		模态级目标及可分IB上界均可独立复用，同骨干去目标/换界消融支持，PDF4–8；原型选择降低即插即用程度。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26at/wang26at.pdf	scored
+4629	wang26au	3	3	4	3	64		比非加速sketch推断多出加速动力学的协方差规则，在线逆步长加权估计可直接使用；技术价值主要在已有随机Newton框架，适用模型和谱条件较窄，PDF4–8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26au/wang26au.pdf	scored
+4630	wang26av	3	3	4	3	64		可改变未配对监督的损失分配，区间调制有独立消融；成熟模块较多、验证集中属性回归，新增量/复用/独特性3，页4–8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26av/wang26av.pdf	scored
+4631	wang26aw							页3–7相较Q-Eval、AIGVQA-DB及已有视频质量模型，主增量是评测数据规模/标注维度，模型采用视觉/时间编码、LoRA、文本等级到数值两阶段训练及现成RL奖励；所核缺少超出这些成熟做法的独立新机制或可改变生成模型研究选择的控制性失败规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26aw/wang26aw.pdf	rule-excluded
 4632	wang26ax							待原文复核评分	pending
 4633	wang26ay							待原文复核评分	pending
 4634	wang26az							待原文复核评分	pending

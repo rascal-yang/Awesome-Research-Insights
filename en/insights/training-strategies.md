@@ -139,6 +139,7 @@ Training schedules, curricula, and task or stage composition.
 - [Efficient DP-SGD for LLMs with Randomized Clipping](../../conferences/icml-2026/cards/4501-4600.md#ullah26a-training-strategies) · 中文
 - [Mitigating Conversational Inertia in Multi-Turn Agents](../../conferences/icml-2026/cards/4501-4600.md#wan26a-training-strategies) · 中文
 - [When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../../conferences/icml-2026/cards/4501-4600.md#wang26j-training-strategies) · 中文
+- [Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts](../../conferences/icml-2026/cards/4601-4700.md#wang26aq-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -568,6 +568,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt](../../conferences/icml-2026/cards/4501-4600.md#wakayama26a-theory-statistics) · 中文
 - [CAOS: Conformal Aggregation of One-Shot Predictors](../../conferences/icml-2026/cards/4501-4600.md#waldron26a-theory-statistics) · 中文
 - [Error Analysis of Discrete Flow with Generator Matching](../../conferences/icml-2026/cards/4501-4600.md#wan26k-theory-statistics) · 中文
+- [Accurate Large-sample Uncertainty Quantification using Stochastic Gradient Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#wang26ap-theory-statistics) · 中文
+- [Optimal Decision-Making Based on Prediction Sets](../../conferences/icml-2026/cards/4601-4700.md#wang26ar-theory-statistics) · 中文
+- [Inference of Online Newton Methods with Nesterov’s Accelerated Sketching](../../conferences/icml-2026/cards/4601-4700.md#wang26au-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
