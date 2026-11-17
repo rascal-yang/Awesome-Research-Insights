@@ -174,7 +174,6 @@
 - <a id="estevez26a-optimization"></a>[Automatic Construction of Clinical Scoring Systems with LLM Agents](../conferences/icml-2026/cards/1001-1100.md#paper-estevez26a)
 - <a id="fink26a-optimization"></a>[RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../conferences/icml-2026/cards/1101-1200.md#paper-fink26a)
 - <a id="gao26j-optimization"></a>[Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](../conferences/icml-2026/cards/1201-1300.md#paper-gao26j)
-- <a id="goffinet26b-optimization"></a>[Torus Graphs for Large Scale Neural Phase Analysis](../conferences/icml-2026/cards/1201-1300.md#paper-goffinet26b)
 - <a id="guoze26a-optimization"></a>[Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](../conferences/icml-2026/cards/1401-1500.md#paper-guoze26a)
 - <a id="gutjahr26a-optimization"></a>[Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](../conferences/icml-2026/cards/1401-1500.md#paper-gutjahr26a)
 - <a id="haddadnia26a-optimization"></a>[Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../conferences/icml-2026/cards/1401-1500.md#paper-haddadnia26a)

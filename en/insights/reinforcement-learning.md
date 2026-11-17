@@ -242,8 +242,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [FlowMAP: Flow Matching for Generalizable Agent Planning](../../conferences/icml-2026/cards/1101-1200.md#fu26b-reinforcement-learning) · 中文
 - [HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/1101-1200.md#fu26k-reinforcement-learning) · 中文
 - [RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](../../conferences/icml-2026/cards/1101-1200.md#fukazawa26a-reinforcement-learning) · 中文
-- [Decentralized Bandits without Global Clock for Dynamic Matching Market](../../conferences/icml-2026/cards/1201-1300.md#gao26ak-reinforcement-learning) · 中文
-- [Online Packet Scheduling with Deadlines and Learning](../../conferences/icml-2026/cards/1201-1300.md#genalti26a-reinforcement-learning) · 中文
 - [DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](../../conferences/icml-2026/cards/1201-1300.md#gerogiannis26a-reinforcement-learning) · 中文
 - [Online Robust Reinforcement Learning with General Function Approximation](../../conferences/icml-2026/cards/1201-1300.md#ghosh26a-reinforcement-learning) · 中文
 - [Contextual Slate GLM Bandits with Limited Adaptivity](../../conferences/icml-2026/cards/1301-1400.md#goyal26a-reinforcement-learning) · 中文

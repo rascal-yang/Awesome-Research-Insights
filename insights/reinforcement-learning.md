@@ -242,8 +242,6 @@
 - [价值引导的规划分布传输](../conferences/icml-2026/cards/1101-1200.md#fu26b-reinforcement-learning) · FlowMAP: Flow Matching for Generalizable Agent Planning
 - [多智能体共享权重的尺度分离](../conferences/icml-2026/cards/1101-1200.md#fu26k-reinforcement-learning) · HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning
 - [生成式离线策略的下尾风险约束](../conferences/icml-2026/cards/1101-1200.md#fukazawa26a-reinforcement-learning) · RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization
-- [无全局时钟的匹配探索](../conferences/icml-2026/cards/1201-1300.md#gao26ak-reinforcement-learning) · Decentralized Bandits without Global Clock for Dynamic Matching Market
-- [未知价值包的限期调度](../conferences/icml-2026/cards/1201-1300.md#genalti26a-reinforcement-learning) · Online Packet Scheduling with Deadlines and Learning
 - [分段平稳老虎机的检测式重启](../conferences/icml-2026/cards/1201-1300.md#gerogiannis26a-reinforcement-learning) · DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits
 - [在线稳健 Bellman 的对偶拟合](../conferences/icml-2026/cards/1201-1300.md#ghosh26a-reinforcement-learning) · Online Robust Reinforcement Learning with General Function Approximation
 - [有限更新的组合 GLM 赌博机](../conferences/icml-2026/cards/1301-1400.md#goyal26a-reinforcement-learning) · Contextual Slate GLM Bandits with Limited Adaptivity

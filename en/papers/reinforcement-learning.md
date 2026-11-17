@@ -103,8 +103,6 @@ Learning from interaction, feedback, and offline experience.
 - <a id="fu26b-reinforcement-learning"></a>[FlowMAP: Flow Matching for Generalizable Agent Planning](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26b)
 - <a id="fu26k-reinforcement-learning"></a>[HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26k)
 - <a id="fukazawa26a-reinforcement-learning"></a>[RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](../../conferences/icml-2026/cards/1101-1200.md#paper-fukazawa26a)
-- <a id="gao26ak-reinforcement-learning"></a>[Decentralized Bandits without Global Clock for Dynamic Matching Market](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ak)
-- <a id="genalti26a-reinforcement-learning"></a>[Online Packet Scheduling with Deadlines and Learning](../../conferences/icml-2026/cards/1201-1300.md#paper-genalti26a)
 - <a id="gerogiannis26a-reinforcement-learning"></a>[DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](../../conferences/icml-2026/cards/1201-1300.md#paper-gerogiannis26a)
 - <a id="ghosh26a-reinforcement-learning"></a>[Online Robust Reinforcement Learning with General Function Approximation](../../conferences/icml-2026/cards/1201-1300.md#paper-ghosh26a)
 - <a id="goyal26a-reinforcement-learning"></a>[Contextual Slate GLM Bandits with Limited Adaptivity](../../conferences/icml-2026/cards/1301-1400.md#paper-goyal26a)

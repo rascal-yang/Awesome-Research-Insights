@@ -252,9 +252,7 @@
 - [离散扩散求解的单轨迹伴随估计](../conferences/icml-2026/cards/1101-1200.md#feng26o-optimization) · Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching
 - [动量符号更新的平滑过渡](../conferences/icml-2026/cards/1101-1200.md#feoktistov26a-optimization) · Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling
 - [在线凸优化的平方违约控制](../conferences/icml-2026/cards/1101-1200.md#ferreira26a-optimization) · CLASP: Online learning algorithms for Convex Losses And Squared Penalties
-- [容量公平聚类的树度量化](../conferences/icml-2026/cards/1101-1200.md#gadekar26a-optimization) · Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms
 - [按局部光滑性选梯度下降步长](../conferences/icml-2026/cards/1101-1200.md#galli26a-optimization) · Flatland: The Adventures of Gradient Descent with Large Step Sizes
-- [量化数据的潜变量条件极大化](../conferences/icml-2026/cards/1201-1300.md#gao26ah-optimization) · Inference from Quantized Data via Normal Variance-Mean Mixtures
 - [极小极大问题的免投影平滑](../conferences/icml-2026/cards/1201-1300.md#giang-tran26a-optimization) · Projection-Free Algorithms for Minimax Problems
 - [LogSumExp 的平滑随机近似](../conferences/icml-2026/cards/1201-1300.md#gladin26a-optimization) · Improved Stochastic Optimization of LogSumExp
 - [预测编码的误差变量重参数化](../conferences/icml-2026/cards/1201-1300.md#goemaere26a-optimization) · ePC: Fast and Deep Predictive Coding in Digital Simulation
@@ -423,7 +421,6 @@
 - [临床二元规则的等权清单搜索](../conferences/icml-2026/cards/1001-1100.md#estevez26a-optimization) · Automatic Construction of Clinical Scoring Systems with LLM Agents
 - [代数多重网格的稀疏粗层修正](../conferences/icml-2026/cards/1101-1200.md#fink26a-optimization) · RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections
 - [量子激发态的多态重要性采样](../conferences/icml-2026/cards/1201-1300.md#gao26j-optimization) · Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State
-- [大规模神经振荡相位图的随机分数匹配](../conferences/icml-2026/cards/1201-1300.md#goffinet26b-optimization) · Torus Graphs for Large Scale Neural Phase Analysis
 - [几何潜变量到 PDE 场的可微优化](../conferences/icml-2026/cards/1401-1500.md#guoze26a-optimization) · Geometry-Aware Neural Optimizer for Shape Optimization and Inversion
 - [约束分子生成的顺序微调](../conferences/icml-2026/cards/1401-1500.md#gutjahr26a-optimization) · Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design
 - [分区赌博机分配化学筛选预算](../conferences/icml-2026/cards/1401-1500.md#haddadnia26a-optimization) · Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space

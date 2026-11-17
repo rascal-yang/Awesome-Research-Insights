@@ -252,9 +252,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching](../../conferences/icml-2026/cards/1101-1200.md#feng26o-optimization) · 中文
 - [Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](../../conferences/icml-2026/cards/1101-1200.md#feoktistov26a-optimization) · 中文
 - [CLASP: Online learning algorithms for Convex Losses And Squared Penalties](../../conferences/icml-2026/cards/1101-1200.md#ferreira26a-optimization) · 中文
-- [Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms](../../conferences/icml-2026/cards/1101-1200.md#gadekar26a-optimization) · 中文
 - [Flatland: The Adventures of Gradient Descent with Large Step Sizes](../../conferences/icml-2026/cards/1101-1200.md#galli26a-optimization) · 中文
-- [Inference from Quantized Data via Normal Variance-Mean Mixtures](../../conferences/icml-2026/cards/1201-1300.md#gao26ah-optimization) · 中文
 - [Projection-Free Algorithms for Minimax Problems](../../conferences/icml-2026/cards/1201-1300.md#giang-tran26a-optimization) · 中文
 - [Improved Stochastic Optimization of LogSumExp](../../conferences/icml-2026/cards/1201-1300.md#gladin26a-optimization) · 中文
 - [ePC: Fast and Deep Predictive Coding in Digital Simulation](../../conferences/icml-2026/cards/1201-1300.md#goemaere26a-optimization) · 中文
@@ -423,7 +421,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Automatic Construction of Clinical Scoring Systems with LLM Agents](../../conferences/icml-2026/cards/1001-1100.md#estevez26a-optimization) · 中文
 - [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../../conferences/icml-2026/cards/1101-1200.md#fink26a-optimization) · 中文
 - [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](../../conferences/icml-2026/cards/1201-1300.md#gao26j-optimization) · 中文
-- [Torus Graphs for Large Scale Neural Phase Analysis](../../conferences/icml-2026/cards/1201-1300.md#goffinet26b-optimization) · 中文
 - [Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](../../conferences/icml-2026/cards/1401-1500.md#guoze26a-optimization) · 中文
 - [Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](../../conferences/icml-2026/cards/1401-1500.md#gutjahr26a-optimization) · 中文
 - [Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../../conferences/icml-2026/cards/1401-1500.md#haddadnia26a-optimization) · 中文
