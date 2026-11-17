@@ -71,6 +71,7 @@
 - [反向推理骨架](../conferences/icml-2026/cards/3601-3700.md#peng26b-data-strategies) · Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation
 - [用验证器筛选有效又加速的循环不变量](../conferences/icml-2026/cards/3601-3700.md#pinto26a-data-strategies) · Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs
 - [小模型蒸馏保留本机推理表达](../conferences/icml-2026/cards/3701-3800.md#qian26l-data-strategies) · The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning
+- [基于共享历史的推理提示选样](../conferences/icml-2026/cards/3701-3800.md#qu26f-data-strategies) · Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models
 
 <a id="by-computer-vision"></a>
 
@@ -92,6 +93,8 @@
 - [单目数据立体反遮挡](../conferences/icml-2026/cards/3001-3100.md#lu26k-data-strategies) · Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation
 - [语义校准局部扩散增强](../conferences/icml-2026/cards/3101-3200.md#lv26c-data-strategies) · SCalDA: Semantics-Calibrated and Diffusion-Enhanced Data Augmentation
 - [重识别类别核心集](../conferences/icml-2026/cards/3401-3500.md#oh26b-data-strategies) · CSOR: Coreset Selection for Object Re-identification via Class Pruning
+- [按识别特征距离选择扩散混合类别](../conferences/icml-2026/cards/3801-3900.md#rahimi26a-data-strategies) · ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition
+- [用细粒度对象簇训练属性编辑](../conferences/icml-2026/cards/3801-3900.md#reiss26a-data-strategies) · Alterbute: Editing Intrinsic Attributes of Objects in Images
 
 <a id="by-nlp"></a>
 

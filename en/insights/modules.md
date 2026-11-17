@@ -48,6 +48,7 @@ Reusable components and local changes to model inputs or connections.
 - [Q-Delta: Beyond Key–Value Associative State Evolution](../../conferences/icml-2026/cards/3501-3600.md#park26f-modules) · 中文
 - [STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning](../../conferences/icml-2026/cards/3501-3600.md#park26u-modules) · 中文
 - [Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](../../conferences/icml-2026/cards/3601-3700.md#pepper26a-modules) · 中文
+- [Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation](../../conferences/icml-2026/cards/3701-3800.md#racioppo26a-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -86,6 +87,7 @@ Reusable components and local changes to model inputs or connections.
 - [Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing](../../conferences/icml-2026/cards/2901-3000.md#lou26i-modules) · 中文
 - [Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#meng26g-modules) · 中文
 - [MapUQ: Map with Uncertainty Quantification for Robust BEV Vectorized Construction](../../conferences/icml-2026/cards/3301-3400.md#mo26e-modules) · 中文
+- [Activation with Intrinsic-Extrinsic Consensus](../../conferences/icml-2026/cards/3701-3800.md#qiu26e-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -194,6 +196,7 @@ Reusable components and local changes to model inputs or connections.
 - [Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs](../../conferences/icml-2026/cards/1101-1200.md#fesser26b-modules) · 中文
 - [Collapsed Effective Operators for Higher-order Structures](../../conferences/icml-2026/cards/2201-2300.md#krahn26a-modules) · 中文
 - [Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26gb-modules) · 中文
+- [Rotary Position Encodings for Graphs](../../conferences/icml-2026/cards/3801-3900.md#reid26a-modules) · 中文
 
 <a id="by-scientific-ml"></a>
 

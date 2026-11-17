@@ -76,6 +76,7 @@
 - [潜空间三维颜色子空间干预](../conferences/icml-2026/cards/3501-3600.md#pach26a-representation-learning) · The Latent Color Subspace: Emergent Order in High-Dimensional Chaos
 - [在运动相位流形中连续解码](../conferences/icml-2026/cards/3601-3700.md#pegoraro26a-representation-learning) · FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds
 - [图像条件纹理词典与类间拓扑](../conferences/icml-2026/cards/3601-3700.md#peng26m-representation-learning) · STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition
+- [在抗失真特征域用编码式水印分离比特](../conferences/icml-2026/cards/3701-3800.md#qiu26d-representation-learning) · Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking
 
 <a id="by-nlp"></a>
 
@@ -314,4 +315,8 @@
 - [用归因修补拆解蛋白语言模型的重复识别电路](../conferences/icml-2026/cards/3601-3700.md#pomerants26a-representation-learning) · Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models
 - [统一虚拟表达以比较调控响应](../conferences/icml-2026/cards/3701-3800.md#qi26h-representation-learning) · Towards Universal Gene Regulatory Network Inference: Unlocking Generalizable Regulatory Knowledge in Single-cell Foundation Models
 - [借删失似然学习共有风险特征](../conferences/icml-2026/cards/3701-3800.md#qi26o-representation-learning) · Explicitly Modeling Censoring Produces Superior Survival Predictors
+- [把代谢关系和采样时间写入 token](../conferences/icml-2026/cards/3801-3900.md#rahman26b-representation-learning) · STT-LLM: Structural-Temporal Tokenization for Adapting LLMs to Longitudinal Clinical Profiles
+- [原子图网络的组成结构分流](../conferences/icml-2026/cards/3801-3900.md#ramlaoui26a-representation-learning) · TriForces: Augmenting Atomistic GNNs for Transferable Representations
+- [区域集中的球面地理编码](../conferences/icml-2026/cards/3801-3900.md#rao26a-representation-learning) · Localized, High-resolution Geographic Representations with Slepian Functions
+- [将动力模式先验用作流的起点](../conferences/icml-2026/cards/3801-3900.md#rao26b-representation-learning) · A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models
 <!-- classification:end -->

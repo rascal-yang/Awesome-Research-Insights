@@ -61,6 +61,8 @@
 - [用偏好采样与参考策略的错配解释效用失真](../conferences/icml-2026/cards/3501-3600.md#oko26a-theory-statistics) · Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner
 - [用带噪信道拟合模型扩展中的 U 形退化](../conferences/icml-2026/cards/3501-3600.md#ouyang26e-theory-statistics) · LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
 - [按文本编辑强度选择水印粒度](../conferences/icml-2026/cards/3601-3700.md#pratihar26a-theory-statistics) · Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking
+- [用真阳性与假阳性的间隔校验奖励](../conferences/icml-2026/cards/3701-3800.md#rad26b-theory-statistics) · Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards
+- [用长度曲线检查推理出错方式](../conferences/icml-2026/cards/3801-3900.md#raju26a-theory-statistics) · A model of errors in transformers
 
 <a id="by-computer-vision"></a>
 
@@ -149,6 +151,7 @@
 - [延迟污染成对反馈](../conferences/icml-2026/cards/3401-3500.md#oh26a-theory-statistics) · Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions
 - [可达策略渐近最优](../conferences/icml-2026/cards/3501-3600.md#palasamudram26a-theory-statistics) · Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality
 - [按正违例自适应惩罚的策略优化](../conferences/icml-2026/cards/3601-3700.md#peng26o-theory-statistics) · Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL
+- [Thompson 采样的平方遗憾解释](../conferences/icml-2026/cards/3701-3800.md#qu26d-theory-statistics) · What Does Thompson Sampling Optimize?
 
 <a id="by-robotics"></a>
 
@@ -535,6 +538,14 @@
 - [用比较分布诊断 Bradley–Terry 投影](../conferences/icml-2026/cards/3601-3700.md#pukdee26a-theory-statistics) · What Does Preference Learning Recover from Pairwise Comparison Data?
 - [潜在混杂下的计数因果可识别性](../conferences/icml-2026/cards/3701-3800.md#qiao26k-theory-statistics) · On the Identifiability of Poisson Branching Structural Causal Model Under Latent Confounding
 - [用扩散谱检查循环记忆](../conferences/icml-2026/cards/3701-3800.md#qin26f-theory-statistics) · Information dynamics and Memory in Neural Networks through Fisher Information Diffusion
+- [用时变移动正则获得自适应在线遗憾界](../conferences/icml-2026/cards/3701-3800.md#qiu26k-theory-statistics) · Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory
+- [分别识别确定性删失与概率选择带来的因果偏差](../conferences/icml-2026/cards/3701-3800.md#qiu26l-theory-statistics) · Towards a Holistic Understanding of Selection Bias for Causal Effect Identification
+- [生成样本回流的可生成性界限](../conferences/icml-2026/cards/3701-3800.md#racca26a-theory-statistics) · Language Generation with Replay: A Learning-Theoretic View of Model Collapse
+- [按反事实因子区分识别与界收紧](../conferences/icml-2026/cards/3701-3800.md#raghavan26a-theory-statistics) · Causal Identification from Counterfactual Data: Completeness and Bounding Results
+- [把停止时的隐私开销作为机制输出](../conferences/icml-2026/cards/3801-3900.md#raisa26a-theory-statistics) · Accuracy-First Rényi Differential Privacy and Post-Processing Immunity
+- [把树路径用作流条件和蒸馏监督](../conferences/icml-2026/cards/3801-3900.md#ramachandran26a-theory-statistics) · Trees to Flows and Back: Unifying Decision Trees and Diffusion Models
+- [以分片定价限制单方改价收益](../conferences/icml-2026/cards/3801-3900.md#ray-chaudhury26a-theory-statistics) · Equilibrium Pricing in Oligopolistic Data Markets
+- [按协变量特征压缩处理和对照流](../conferences/icml-2026/cards/3801-3900.md#ren26e-theory-statistics) · Streaming Covariate Balancing via Discrepancy-Based Feature Coresets
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -562,6 +573,7 @@
 - [在面偏序的等变向量丛上统一图和层网络](../conferences/icml-2026/cards/3201-3300.md#maruyama26a-theory-statistics) · Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks
 - [从依赖排序位置的残缺反馈识别完整前 k](../conferences/icml-2026/cards/3201-3300.md#migali26a-theory-statistics) · Learning to Rank from Incomplete Rankings
 - [用覆盖与宽度联合目标学习图上的预测区间](../conferences/icml-2026/cards/3601-3700.md#park26x-theory-statistics) · Quantile-Free Uncertainty Quantification in Graph Neural Networks
+- [从离散分布快照恢复自由能扩散](../conferences/icml-2026/cards/3801-3900.md#rancati26a-theory-statistics) · Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows
 
 <a id="by-scientific-ml"></a>
 
@@ -591,4 +603,5 @@
 - [双重优化并行拟合纵向处理的各时点效应](../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · DeepBlip: Estimating Conditional Average Treatment Effects Over Time
 - [右删失生存分位](../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival
 - [先约简因子图再编译化学反应](../conferences/icml-2026/cards/3301-3400.md#montes26a-theory-statistics) · Reduction of Probabilistic Chemical Reaction Networks
+- [空间物理学习的函数空间外推](../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · Interpretability and Generalization Bounds for Learning Spatial Physics
 <!-- classification:end -->

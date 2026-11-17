@@ -268,6 +268,14 @@ Decoding, test-time adaptation, and efficient execution.
 - [ConServe: Fine-Grained GPU Harvesting for LLM Online and Offline Co-Serving](../../conferences/icml-2026/cards/3701-3800.md#qiao26i-inference) · 中文
 - [ConFu: Contemplate the Future for Better Speculative Sampling](../../conferences/icml-2026/cards/3701-3800.md#qin26c-inference) · 中文
 - [Executable Agentic Memory for GUI Agent](../../conferences/icml-2026/cards/3701-3800.md#qin26m-inference) · 中文
+- [HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction](../../conferences/icml-2026/cards/3701-3800.md#qiu26j-inference) · 中文
+- [ANCHOR: Abductive Network Construction with Hierarchical Orchestration for Reliable Probability Inference in Large Language Models](../../conferences/icml-2026/cards/3701-3800.md#qiu26p-inference) · 中文
+- [T-POP: Test-Time Personalization with Online Preference Feedback](../../conferences/icml-2026/cards/3701-3800.md#qu26i-inference) · 中文
+- [VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification](../../conferences/icml-2026/cards/3801-3900.md#rahman26a-inference) · 中文
+- [Panini: Continual Learning in Token Space via Structured Memory](../../conferences/icml-2026/cards/3801-3900.md#rajesh26a-inference) · 中文
+- [No More, No Less: Least-Privilege Language Models](../../conferences/icml-2026/cards/3801-3900.md#rauba26a-inference) · 中文
+- [The Hidden Cost of Structured Generation in LLMs: Draft-Conditioned Constrained Decoding](../../conferences/icml-2026/cards/3801-3900.md#reddy26a-inference) · 中文
+- [Towards Reliable Marking and Verification of AI-Generated Text via Geometry-aware Sentence-level Watermarking](../../conferences/icml-2026/cards/3801-3900.md#ren26d-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -360,6 +368,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization](../../conferences/icml-2026/cards/3401-3500.md#oettinger26a-inference) · 中文
 - [Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion](../../conferences/icml-2026/cards/3601-3700.md#park26z-inference) · 中文
 - [Meta Flow Maps enable scalable reward alignment](../../conferences/icml-2026/cards/3601-3700.md#potaptchik26b-inference) · 中文
+- [Personalized Image Generation via Human-in-the-loop Bayesian Optimization](../../conferences/icml-2026/cards/3801-3900.md#rajagopalan26a-inference) · 中文
+- [AdaSCALE: Adaptive Scaling for OOD Detection](../../conferences/icml-2026/cards/3801-3900.md#regmi26a-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -428,6 +438,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](../../conferences/icml-2026/cards/3401-3500.md#nandiraju26a-inference) · 中文
 - [Mosaic: Runtime-Efficient Multi-Agent Embodied Planning](../../conferences/icml-2026/cards/3501-3600.md#panchal26b-inference) · 中文
 - [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](../../conferences/icml-2026/cards/3601-3700.md#pfaff26a-inference) · 中文
+- [Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control](../../conferences/icml-2026/cards/3801-3900.md#ren26a-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -512,6 +523,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [A Close Look at Negative Label Guided Out-of-distribution Detection in Pre-trained Vision-Language Models](../../conferences/icml-2026/cards/3601-3700.md#peng26i-inference) · 中文
 - [Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation](../../conferences/icml-2026/cards/3701-3800.md#qi26m-inference) · 中文
 - [VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models](../../conferences/icml-2026/cards/3701-3800.md#qin26d-inference) · 中文
+- [ReasonEdit: Editing Vision–Language Models using Human Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qiu26i-inference) · 中文
+- [VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -553,6 +566,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits](../../conferences/icml-2026/cards/3401-3500.md#nurko26a-inference) · 中文
 - [Beyond Hamming: Query-Aware Decoding of Binary Cosine Sketches](../../conferences/icml-2026/cards/3401-3500.md#nyang26a-inference) · 中文
 - [Automatic Unsupervised Ensemble Outlier Model Selection](../../conferences/icml-2026/cards/3601-3700.md#phan26a-inference) · 中文
+- [Revealing Scaling Paradox in Large-scale Time Series Models: Implications for More Efficient and Accurate Forecasting](../../conferences/icml-2026/cards/3701-3800.md#qiu26q-inference) · 中文
+- [TFTF: Training-Free Targeted Flow for Conditional Sampling](../../conferences/icml-2026/cards/3701-3800.md#qu26c-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -610,4 +625,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries](../../conferences/icml-2026/cards/3601-3700.md#pedawi26a-inference) · 中文
 - [LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation](../../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · 中文
 - [FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation](../../conferences/icml-2026/cards/3701-3800.md#qin26j-inference) · 中文
+- [Autoregressive Boltzmann Generators](../../conferences/icml-2026/cards/3801-3900.md#rehman26a-inference) · 中文
 <!-- classification:end -->

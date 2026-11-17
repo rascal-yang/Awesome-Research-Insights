@@ -48,6 +48,7 @@
 - [让查询读出反馈参与线性记忆写入](../conferences/icml-2026/cards/3501-3600.md#park26f-modules) · Q-Delta: Beyond Key–Value Associative State Evolution
 - [用在线主子空间辅助 MoE 路由](../conferences/icml-2026/cards/3501-3600.md#park26u-modules) · STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning
 - [概念方向进入解释提示的校准](../conferences/icml-2026/cards/3601-3700.md#pepper26a-modules) · Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs
+- [传输历史表示再按预测精度注意](../conferences/icml-2026/cards/3701-3800.md#racioppo26a-modules) · Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation
 
 <a id="by-computer-vision"></a>
 
@@ -86,6 +87,7 @@
 - [视觉适配器的阶段共享与动态权重](../conferences/icml-2026/cards/2901-3000.md#lou26i-modules) · Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing
 - [恢复线性注意力中的查询范数](../conferences/icml-2026/cards/3201-3300.md#meng26g-modules) · Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention
 - [矢量地图不确定性](../conferences/icml-2026/cards/3301-3400.md#mo26e-modules) · MapUQ: Map with Uncertainty Quantification for Robust BEV Vectorized Construction
+- [联合通道激活统计与决策权重控制激活门](../conferences/icml-2026/cards/3701-3800.md#qiu26e-modules) · Activation with Intrinsic-Extrinsic Consensus
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -194,6 +196,7 @@
 - [有向带属性图的酉卷积](../conferences/icml-2026/cards/1101-1200.md#fesser26b-modules) · Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs
 - [用 Schur 补把高阶作用折回顶点](../conferences/icml-2026/cards/2201-2300.md#krahn26a-modules) · Collapsed Effective Operators for Higher-order Structures
 - [双向建模图异常的局部谱能量偏移](../conferences/icml-2026/cards/2901-3000.md#liu26gb-modules) · Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection
+- [让图谱坐标旋转查询和键](../conferences/icml-2026/cards/3801-3900.md#reid26a-modules) · Rotary Position Encodings for Graphs
 
 <a id="by-scientific-ml"></a>
 

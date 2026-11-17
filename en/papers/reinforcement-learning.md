@@ -173,6 +173,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="petitbois26a-reinforcement-learning"></a>[Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment](../../conferences/icml-2026/cards/3601-3700.md#paper-petitbois26a)
 - <a id="pham26b-reinforcement-learning"></a>[Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset](../../conferences/icml-2026/cards/3601-3700.md#paper-pham26b)
 - <a id="qiao26d-reinforcement-learning"></a>[Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26d)
+- <a id="rafieioskouei26a-reinforcement-learning"></a>[HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation](../../conferences/icml-2026/cards/3701-3800.md#paper-rafieioskouei26a)
+- <a id="rashwan26a-reinforcement-learning"></a>[Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#paper-rashwan26a)
 
 <a id="by-training-strategies"></a>
 
@@ -241,6 +243,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="majumdar26a-evaluation"></a>[Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards](../../conferences/icml-2026/cards/3101-3200.md#paper-majumdar26a)
 - <a id="qian26f-evaluation"></a>[Rationality Measurement and Theory for Reinforcement Learning Agents](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26f)
 - <a id="qian26n-evaluation"></a>[Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26n)
+- <a id="rajabpour26a-evaluation"></a>[Revisiting OOD Generalization in Programmatic RL](../../conferences/icml-2026/cards/3801-3900.md#paper-rajabpour26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -309,4 +312,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="oh26a-theory-statistics"></a>[Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions](../../conferences/icml-2026/cards/3401-3500.md#paper-oh26a)
 - <a id="palasamudram26a-theory-statistics"></a>[Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality](../../conferences/icml-2026/cards/3501-3600.md#paper-palasamudram26a)
 - <a id="peng26o-theory-statistics"></a>[Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26o)
+- <a id="qu26d-theory-statistics"></a>[What Does Thompson Sampling Optimize?](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26d)
 <!-- classification:end -->

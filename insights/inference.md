@@ -268,6 +268,14 @@
 - [在线与离线推理的细粒度混部](../conferences/icml-2026/cards/3701-3800.md#qiao26i-inference) · ConServe: Fine-Grained GPU Harvesting for LLM Online and Offline Co-Serving
 - [未来隐表征引导推测采样](../conferences/icml-2026/cards/3701-3800.md#qin26c-inference) · ConFu: Contemplate the Future for Better Speculative Sampling
 - [把界面探索压缩成可执行路径](../conferences/icml-2026/cards/3701-3800.md#qin26m-inference) · Executable Agentic Memory for GUI Agent
+- [按假设分歧动态扩展与缩减 MoE 推理路径](../conferences/icml-2026/cards/3701-3800.md#qiu26j-inference) · HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction
+- [用分层可检索因素和依赖网络推断概率](../conferences/icml-2026/cards/3701-3800.md#qiu26p-inference) · ANCHOR: Abductive Network Construction with Hierarchical Orchestration for Reliable Probability Inference in Large Language Models
+- [基于在线成对偏好的生成个性化](../conferences/icml-2026/cards/3701-3800.md#qu26i-inference) · T-POP: Test-Time Personalization with Online Preference Feedback
+- [由求解器构造优化模型局部反例](../conferences/icml-2026/cards/3801-3900.md#rahman26a-inference) · VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification
+- [把反复推理前移到文档写入](../conferences/icml-2026/cards/3801-3900.md#rajesh26a-inference) · Panini: Continual Learning in Token Space via Structured Memory
+- [用嵌套秩按请求分配内部计算](../conferences/icml-2026/cards/3801-3900.md#rauba26a-inference) · No More, No Less: Least-Privilege Language Models
+- [先生成草稿再施加结构硬约束](../conferences/icml-2026/cards/3801-3900.md#reddy26a-inference) · The Hidden Cost of Structured Generation in LLMs: Draft-Conditioned Constrained Decoding
+- [按句向量残差重划水印接受区](../conferences/icml-2026/cards/3801-3900.md#ren26d-inference) · Towards Reliable Marking and Verification of AI-Generated Text via Geometry-aware Sentence-level Watermarking
 
 <a id="by-computer-vision"></a>
 
@@ -360,6 +368,8 @@
 - [微分同胚规约](../conferences/icml-2026/cards/3401-3500.md#oettinger26a-inference) · Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization
 - [用 JEPA 表示密度引导稀有图像采样](../conferences/icml-2026/cards/3601-3700.md#park26z-inference) · Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion
 - [从噪声中一步采样多个可微后验以估计奖励梯度](../conferences/icml-2026/cards/3601-3700.md#potaptchik26b-inference) · Meta Flow Maps enable scalable reward alignment
+- [以多图选择引导注意力变形](../conferences/icml-2026/cards/3801-3900.md#rajagopalan26a-inference) · Personalized Image Generation via Human-in-the-loop Bayesian Optimization
+- [用高值激活偏移调缩放阈值](../conferences/icml-2026/cards/3801-3900.md#regmi26a-inference) · AdaSCALE: Adaptive Scaling for OOD Detection
 
 <a id="by-nlp"></a>
 
@@ -428,6 +438,7 @@
 - [分层扩散流规划](../conferences/icml-2026/cards/3401-3500.md#nandiraju26a-inference) · HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks
 - [用相对空间记忆和约束减少协作返工](../conferences/icml-2026/cards/3501-3600.md#panchal26b-inference) · Mosaic: Runtime-Efficient Multi-Agent Embodied Planning
 - [按资产可动性分流场景生成](../conferences/icml-2026/cards/3601-3700.md#pfaff26a-inference) · SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes
+- [沿灵敏度等值面引导扩散动作](../conferences/icml-2026/cards/3801-3900.md#ren26a-inference) · Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control
 
 <a id="by-multimodal"></a>
 
@@ -512,6 +523,8 @@
 - [开放集负标签的样本自适应阈值](../conferences/icml-2026/cards/3601-3700.md#peng26i-inference) · A Close Look at Negative Label Guided Out-of-distribution Detection in Pre-trained Vision-Language Models
 - [用查询引发的注意变化找图块](../conferences/icml-2026/cards/3701-3800.md#qi26m-inference) · Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation
 - [用路由亲和度校准专家误差](../conferences/icml-2026/cards/3701-3800.md#qin26d-inference) · VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models
+- [用拓扑平衡检索把人工推理写入视觉语言编辑](../conferences/icml-2026/cards/3701-3800.md#qiu26i-inference) · ReasonEdit: Editing Vision–Language Models using Human Reasoning
+- [让长视频规划与最终答题证据权限分离](../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority
 
 <a id="by-ml-foundations"></a>
 
@@ -553,6 +566,8 @@
 - [信号与类别联合去噪](../conferences/icml-2026/cards/3401-3500.md#nurko26a-inference) · Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits
 - [余弦草图非对称解码](../conferences/icml-2026/cards/3401-3500.md#nyang26a-inference) · Beyond Hamming: Query-Aware Decoding of Binary Cosine Sketches
 - [以边际增益组装异常检测器](../conferences/icml-2026/cards/3601-3700.md#phan26a-inference) · Automatic Unsupervised Ensemble Outlier Model Selection
+- [用层内注意力和跨层冗余筛选时序模型关键层](../conferences/icml-2026/cards/3701-3800.md#qiu26q-inference) · Revealing Scaling Paradox in Large-scale Time Series Models: Implications for More Efficient and Accurate Forecasting
+- [流匹配模型的免训练条件采样](../conferences/icml-2026/cards/3701-3800.md#qu26c-inference) · TFTF: Training-Free Targeted Flow for Conditional Sampling
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -610,4 +625,5 @@
 - [把组合分子筛选压成合成片段加法](../conferences/icml-2026/cards/3601-3700.md#pedawi26a-inference) · APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries
 - [稀疏观测双引导同化](../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation
 - [在后验流中按似然重采样](../conferences/icml-2026/cards/3701-3800.md#qin26j-inference) · FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation
+- [在部分分子构象上提前校正采样](../conferences/icml-2026/cards/3801-3900.md#rehman26a-inference) · Autoregressive Boltzmann Generators
 <!-- classification:end -->

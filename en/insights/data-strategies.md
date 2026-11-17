@@ -71,6 +71,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation](../../conferences/icml-2026/cards/3601-3700.md#peng26b-data-strategies) · 中文
 - [Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](../../conferences/icml-2026/cards/3601-3700.md#pinto26a-data-strategies) · 中文
 - [The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qian26l-data-strategies) · 中文
+- [Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models](../../conferences/icml-2026/cards/3701-3800.md#qu26f-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -92,6 +93,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation](../../conferences/icml-2026/cards/3001-3100.md#lu26k-data-strategies) · 中文
 - [SCalDA: Semantics-Calibrated and Diffusion-Enhanced Data Augmentation](../../conferences/icml-2026/cards/3101-3200.md#lv26c-data-strategies) · 中文
 - [CSOR: Coreset Selection for Object Re-identification via Class Pruning](../../conferences/icml-2026/cards/3401-3500.md#oh26b-data-strategies) · 中文
+- [ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](../../conferences/icml-2026/cards/3801-3900.md#rahimi26a-data-strategies) · 中文
+- [Alterbute: Editing Intrinsic Attributes of Objects in Images](../../conferences/icml-2026/cards/3801-3900.md#reiss26a-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

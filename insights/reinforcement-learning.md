@@ -150,6 +150,9 @@
 - [用互动一致性筛选协作画像](../conferences/icml-2026/cards/3701-3800.md#qian26c-reinforcement-learning) · CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement
 - [按可信度软投影对冲更新梯度](../conferences/icml-2026/cards/3701-3800.md#qiang26a-reinforcement-learning) · On the Plasticity and Stability for Post-Training Large Language Models
 - [辩论信用分配兼顾新证据和生成噪声](../conferences/icml-2026/cards/3701-3800.md#qiao26a-reinforcement-learning) · Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning
+- [给低频正确轨迹补偿优势](../conferences/icml-2026/cards/3701-3800.md#rad26a-reinforcement-learning) · G$^2$RPO: Geometric GRPO Escaping LLMs’ Reasoning Ruts to Break the Accuracy–Entropy Trade-off
+- [兼顾最弱任务的多任务 GRPO](../conferences/icml-2026/cards/3801-3900.md#ramesh26b-reinforcement-learning) · Multi-Task GRPO: Reliable LLM Reasoning Across Tasks
+- [先固定准则再看同组回答](../conferences/icml-2026/cards/3801-3900.md#ren26c-reinforcement-learning) · Unbiased Principles, Robust Rewards
 
 <a id="by-computer-vision"></a>
 
@@ -301,6 +304,8 @@
 - [以风格优势门控任务回报](../conferences/icml-2026/cards/3601-3700.md#petitbois26a-reinforcement-learning) · Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment
 - [在占用分布两端加入共同参照](../conferences/icml-2026/cards/3601-3700.md#pham26b-reinforcement-learning) · Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset
 - [离线多智能体顺序分数分解](../conferences/icml-2026/cards/3701-3800.md#qiao26d-reinforcement-learning) · Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition
+- [用跨轨迹时序鲁棒性指导协作](../conferences/icml-2026/cards/3701-3800.md#rafieioskouei26a-reinforcement-learning) · HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation
+- [沿影响图扩散信用分配](../conferences/icml-2026/cards/3801-3900.md#rashwan26a-reinforcement-learning) · Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -380,6 +385,7 @@
 - [平衡多任务和样本对策略梯度的贡献](../conferences/icml-2026/cards/3501-3600.md#ong26a-reinforcement-learning) · OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization
 - [近邻提示配对强化](../conferences/icml-2026/cards/3501-3600.md#pan26b-reinforcement-learning) · Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning
 - [给视频候选明确的拒绝动作](../conferences/icml-2026/cards/3701-3800.md#qi26g-reinforcement-learning) · CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning
+- [用一步洁净预测给流匹配动作评分](../conferences/icml-2026/cards/3801-3900.md#ren26b-reinforcement-learning) · iGRPO: Fast Online RL for Flow Matching Model with Instant Reward
 
 <a id="by-ml-foundations"></a>
 

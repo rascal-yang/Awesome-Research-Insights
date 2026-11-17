@@ -35,6 +35,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="peng26e-architecture"></a>[Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26e)
 - <a id="qi26j-architecture"></a>[Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26j)
 - <a id="qian26e-architecture"></a>[On the Expressive Power of GNNs to Solve Linear SDPs](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26e)
+- <a id="raghuvanshi26a-architecture"></a>[Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models](../../conferences/icml-2026/cards/3701-3800.md#paper-raghuvanshi26a)
 
 <a id="by-modules"></a>
 
@@ -47,6 +48,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="fesser26b-modules"></a>[Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs](../../conferences/icml-2026/cards/1101-1200.md#paper-fesser26b)
 - <a id="krahn26a-modules"></a>[Collapsed Effective Operators for Higher-order Structures](../../conferences/icml-2026/cards/2201-2300.md#paper-krahn26a)
 - <a id="liu26gb-modules"></a>[Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gb)
+- <a id="reid26a-modules"></a>[Rotary Position Encodings for Graphs](../../conferences/icml-2026/cards/3801-3900.md#paper-reid26a)
 
 <a id="by-loss-functions"></a>
 
@@ -59,6 +61,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="ding26v-loss-functions"></a>[Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26v)
 - <a id="downer26a-loss-functions"></a>[Watermarking Graph Neural Networks via Explanations for Ownership Protection](../../conferences/icml-2026/cards/0901-1000.md#paper-downer26a)
 - <a id="lee26w-loss-functions"></a>[Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26w)
+- <a id="ran26c-loss-functions"></a>[Differentially Private Cross-Silo Recommendation from Implicit Feedback](../../conferences/icml-2026/cards/3801-3900.md#paper-ran26c)
 
 <a id="by-optimization"></a>
 
@@ -213,4 +216,5 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="maruyama26a-theory-statistics"></a>[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](../../conferences/icml-2026/cards/3201-3300.md#paper-maruyama26a)
 - <a id="migali26a-theory-statistics"></a>[Learning to Rank from Incomplete Rankings](../../conferences/icml-2026/cards/3201-3300.md#paper-migali26a)
 - <a id="park26x-theory-statistics"></a>[Quantile-Free Uncertainty Quantification in Graph Neural Networks](../../conferences/icml-2026/cards/3601-3700.md#paper-park26x)
+- <a id="rancati26a-theory-statistics"></a>[Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows](../../conferences/icml-2026/cards/3801-3900.md#paper-rancati26a)
 <!-- classification:end -->

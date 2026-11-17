@@ -69,6 +69,7 @@
 - [带噪潜空间偏好建模](../conferences/icml-2026/cards/2901-3000.md#liu26fh-loss-functions) · Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling
 - [单步像素平均流参数化](../conferences/icml-2026/cards/3001-3100.md#lu26t-loss-functions) · One-step Latent-free Image Generation with Pixel Mean Flows
 - [给地理半正样本分配软负标签](../conferences/icml-2026/cards/3501-3600.md#ouyang26g-loss-functions) · Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution
+- [同时拟合目标域和限制实例改动](../conferences/icml-2026/cards/3801-3900.md#rakitin26a-loss-functions) · One-step Optimal Transport via Regularized Distribution Matching Distillation
 
 <a id="by-nlp"></a>
 
@@ -165,6 +166,7 @@
 - [把 IPW 下游风险曲率写进倾向得分损失](../conferences/icml-2026/cards/3601-3700.md#plaud26a-loss-functions) · Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference
 - [反向扩散高斯矩联合匹配](../conferences/icml-2026/cards/3701-3800.md#qian26h-loss-functions) · Likelihood Matching for Diffusion Models
 - [用类先验扰动稳住长尾伪标签训练](../conferences/icml-2026/cards/3701-3800.md#qiao26b-loss-functions) · Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning
+- [以两组预测差代替逐对对齐](../conferences/icml-2026/cards/3801-3900.md#reichart26a-loss-functions) · Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -177,6 +179,7 @@
 - [属性图聚类的双视图去冗余](../conferences/icml-2026/cards/0901-1000.md#ding26v-loss-functions) · Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning
 - [基于子图解释的模型水印](../conferences/icml-2026/cards/0901-1000.md#downer26a-loss-functions) · Watermarking Graph Neural Networks via Explanations for Ownership Protection
 - [按邻居类型重写图推荐的负样本分数](../conferences/icml-2026/cards/2301-2400.md#lee26w-loss-functions) · Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy
+- [隐式推荐的互补损失与私有分解](../conferences/icml-2026/cards/3801-3900.md#ran26c-loss-functions) · Differentially Private Cross-Silo Recommendation from Implicit Feedback
 
 <a id="by-scientific-ml"></a>
 

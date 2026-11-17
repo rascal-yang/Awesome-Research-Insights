@@ -110,6 +110,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="patel26a-architecture"></a>[Insertion Based Sequence Generation with Learnable Order Dynamics](../../conferences/icml-2026/cards/3601-3700.md#paper-patel26a)
 - <a id="pei26b-architecture"></a>[Hyperbolic Neural Operator](../../conferences/icml-2026/cards/3601-3700.md#paper-pei26b)
 - <a id="piao26a-architecture"></a>[Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction](../../conferences/icml-2026/cards/3601-3700.md#paper-piao26a)
+- <a id="qu26b-architecture"></a>[Protein Autoregressive Modeling via Multiscale Structure Generation](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26b)
+- <a id="qu26g-architecture"></a>[A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26g)
+- <a id="ramani26a-architecture"></a>[DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../../conferences/icml-2026/cards/3801-3900.md#paper-ramani26a)
 
 <a id="by-modules"></a>
 
@@ -193,6 +196,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="park26k-optimization"></a>[Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces](../../conferences/icml-2026/cards/3501-3600.md#paper-park26k)
 - <a id="perez-vieites26a-optimization"></a>[Online Bayesian Experimental Design for Partially Observed Dynamical Systems](../../conferences/icml-2026/cards/3601-3700.md#paper-perez-vieites26a)
 - <a id="pu26a-optimization"></a>[Principle-Evolvable Scientific Discovery via Uncertainty Minimization](../../conferences/icml-2026/cards/3601-3700.md#paper-pu26a)
+- <a id="rashed26a-optimization"></a>[On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching](../../conferences/icml-2026/cards/3801-3900.md#paper-rashed26a)
+- <a id="raviola26a-optimization"></a>[A Dirac-Frenkel-Onsager Principle: Instantaneous Residual Minimization with Gauge Momentum for Nonlinear Parametrizations of PDE Solutions](../../conferences/icml-2026/cards/3801-3900.md#paper-raviola26a)
+- <a id="real26a-optimization"></a>[AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](../../conferences/icml-2026/cards/3801-3900.md#paper-real26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -249,6 +255,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="meng26c-training-strategies"></a>[Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26c)
 - <a id="mukherjee26b-training-strategies"></a>[Latent Diffusion Pretraining for Crystal Property Prediction](../../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26b)
 - <a id="nguyen26g-training-strategies"></a>[TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26g)
+- <a id="qiu26r-training-strategies"></a>[Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26r)
 
 <a id="by-data-strategies"></a>
 
@@ -303,6 +310,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="pedawi26a-inference"></a>[APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries](../../conferences/icml-2026/cards/3601-3700.md#paper-pedawi26a)
 - <a id="peng26d-inference"></a>[LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26d)
 - <a id="qin26j-inference"></a>[FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26j)
+- <a id="rehman26a-inference"></a>[Autoregressive Boltzmann Generators](../../conferences/icml-2026/cards/3801-3900.md#paper-rehman26a)
 
 <a id="by-representation-learning"></a>
 
@@ -364,6 +372,10 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="pomerants26a-representation-learning"></a>[Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models](../../conferences/icml-2026/cards/3601-3700.md#paper-pomerants26a)
 - <a id="qi26h-representation-learning"></a>[Towards Universal Gene Regulatory Network Inference: Unlocking Generalizable Regulatory Knowledge in Single-cell Foundation Models](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26h)
 - <a id="qi26o-representation-learning"></a>[Explicitly Modeling Censoring Produces Superior Survival Predictors](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26o)
+- <a id="rahman26b-representation-learning"></a>[STT-LLM: Structural-Temporal Tokenization for Adapting LLMs to Longitudinal Clinical Profiles](../../conferences/icml-2026/cards/3801-3900.md#paper-rahman26b)
+- <a id="ramlaoui26a-representation-learning"></a>[TriForces: Augmenting Atomistic GNNs for Transferable Representations](../../conferences/icml-2026/cards/3801-3900.md#paper-ramlaoui26a)
+- <a id="rao26a-representation-learning"></a>[Localized, High-resolution Geographic Representations with Slepian Functions](../../conferences/icml-2026/cards/3801-3900.md#paper-rao26a)
+- <a id="rao26b-representation-learning"></a>[A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models](../../conferences/icml-2026/cards/3801-3900.md#paper-rao26b)
 
 <a id="by-evaluation"></a>
 
@@ -437,4 +449,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ma26j-theory-statistics"></a>[DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26j)
 - <a id="men26a-theory-statistics"></a>[FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#paper-men26a)
 - <a id="montes26a-theory-statistics"></a>[Reduction of Probabilistic Chemical Reaction Networks](../../conferences/icml-2026/cards/3301-3400.md#paper-montes26a)
+- <a id="queiruga26a-theory-statistics"></a>[Interpretability and Generalization Bounds for Learning Spatial Physics](../../conferences/icml-2026/cards/3701-3800.md#paper-queiruga26a)
 <!-- classification:end -->

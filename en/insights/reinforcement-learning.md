@@ -150,6 +150,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement](../../conferences/icml-2026/cards/3701-3800.md#qian26c-reinforcement-learning) · 中文
 - [On the Plasticity and Stability for Post-Training Large Language Models](../../conferences/icml-2026/cards/3701-3800.md#qiang26a-reinforcement-learning) · 中文
 - [Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qiao26a-reinforcement-learning) · 中文
+- [G$^2$RPO: Geometric GRPO Escaping LLMs’ Reasoning Ruts to Break the Accuracy–Entropy Trade-off](../../conferences/icml-2026/cards/3701-3800.md#rad26a-reinforcement-learning) · 中文
+- [Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](../../conferences/icml-2026/cards/3801-3900.md#ramesh26b-reinforcement-learning) · 中文
+- [Unbiased Principles, Robust Rewards](../../conferences/icml-2026/cards/3801-3900.md#ren26c-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -301,6 +304,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment](../../conferences/icml-2026/cards/3601-3700.md#petitbois26a-reinforcement-learning) · 中文
 - [Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset](../../conferences/icml-2026/cards/3601-3700.md#pham26b-reinforcement-learning) · 中文
 - [Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition](../../conferences/icml-2026/cards/3701-3800.md#qiao26d-reinforcement-learning) · 中文
+- [HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation](../../conferences/icml-2026/cards/3701-3800.md#rafieioskouei26a-reinforcement-learning) · 中文
+- [Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#rashwan26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -380,6 +385,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization](../../conferences/icml-2026/cards/3501-3600.md#ong26a-reinforcement-learning) · 中文
 - [Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#pan26b-reinforcement-learning) · 中文
 - [CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qi26g-reinforcement-learning) · 中文
+- [iGRPO: Fast Online RL for Flow Matching Model with Instant Reward](../../conferences/icml-2026/cards/3801-3900.md#ren26b-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

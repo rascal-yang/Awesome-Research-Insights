@@ -76,6 +76,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](../../conferences/icml-2026/cards/3501-3600.md#pach26a-representation-learning) · 中文
 - [FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds](../../conferences/icml-2026/cards/3601-3700.md#pegoraro26a-representation-learning) · 中文
 - [STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition](../../conferences/icml-2026/cards/3601-3700.md#peng26m-representation-learning) · 中文
+- [Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking](../../conferences/icml-2026/cards/3701-3800.md#qiu26d-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -314,4 +315,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models](../../conferences/icml-2026/cards/3601-3700.md#pomerants26a-representation-learning) · 中文
 - [Towards Universal Gene Regulatory Network Inference: Unlocking Generalizable Regulatory Knowledge in Single-cell Foundation Models](../../conferences/icml-2026/cards/3701-3800.md#qi26h-representation-learning) · 中文
 - [Explicitly Modeling Censoring Produces Superior Survival Predictors](../../conferences/icml-2026/cards/3701-3800.md#qi26o-representation-learning) · 中文
+- [STT-LLM: Structural-Temporal Tokenization for Adapting LLMs to Longitudinal Clinical Profiles](../../conferences/icml-2026/cards/3801-3900.md#rahman26b-representation-learning) · 中文
+- [TriForces: Augmenting Atomistic GNNs for Transferable Representations](../../conferences/icml-2026/cards/3801-3900.md#ramlaoui26a-representation-learning) · 中文
+- [Localized, High-resolution Geographic Representations with Slepian Functions](../../conferences/icml-2026/cards/3801-3900.md#rao26a-representation-learning) · 中文
+- [A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models](../../conferences/icml-2026/cards/3801-3900.md#rao26b-representation-learning) · 中文
 <!-- classification:end -->

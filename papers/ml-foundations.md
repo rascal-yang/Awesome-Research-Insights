@@ -65,6 +65,11 @@
 - <a id="peng26c-architecture"></a>[CauScale: Neural Causal Discovery at Scale](../conferences/icml-2026/cards/3601-3700.md#paper-peng26c)
 - <a id="pinna26a-architecture"></a>[ParalESN: Enabling parallel information processing in Reservoir Computing](../conferences/icml-2026/cards/3601-3700.md#paper-pinna26a)
 - <a id="pynadath26a-architecture"></a>[CANDI: Hybrid Discrete-Continuous Diffusion Models](../conferences/icml-2026/cards/3601-3700.md#paper-pynadath26a)
+- <a id="qiu26n-architecture"></a>[SEER: Transformer-based Robust Time Series Forecasting via Automated Patch Enhancement and Replacement](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26n)
+- <a id="qiu26t-architecture"></a>[Bridging Time and Frequency: A Joint Modeling Framework for Irregular Multivariate Time Series Forecasting](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26t)
+- <a id="qiu26u-architecture"></a>[Evidential Copula Concept Embedding Models](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26u)
+- <a id="qiu26x-architecture"></a>[DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26x)
+- <a id="qu26a-architecture"></a>[TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](../conferences/icml-2026/cards/3701-3800.md#paper-qu26a)
 
 <a id="by-modules"></a>
 
@@ -147,6 +152,7 @@
 - <a id="plaud26a-loss-functions"></a>[Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference](../conferences/icml-2026/cards/3601-3700.md#paper-plaud26a)
 - <a id="qian26h-loss-functions"></a>[Likelihood Matching for Diffusion Models](../conferences/icml-2026/cards/3701-3800.md#paper-qian26h)
 - <a id="qiao26b-loss-functions"></a>[Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26b)
+- <a id="reichart26a-loss-functions"></a>[Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization](../conferences/icml-2026/cards/3801-3900.md#paper-reichart26a)
 
 <a id="by-optimization"></a>
 
@@ -358,6 +364,12 @@
 - <a id="qian26b-optimization"></a>[Federated Bilevel Performative Prediction](../conferences/icml-2026/cards/3701-3800.md#paper-qian26b)
 - <a id="qin26l-optimization"></a>[Zeroth-Order Forward-Only SNN Training Inspiring Neuromorphic On-Chip Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qin26l)
 - <a id="qiu26a-optimization"></a>[Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26a)
+- <a id="qiu26h-optimization"></a>[Revisiting Zeroth-Order Hessian Approximation: A Single-Step Policy Optimization Lens](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26h)
+- <a id="qiu26y-optimization"></a>[cuRegOT: A GPU-Accelerated Solver for Entropic-Regularized Optimal Transport](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26y)
+- <a id="qu26e-optimization"></a>[Can Muon Fine-tune Adam-Pretrained Models?](../conferences/icml-2026/cards/3701-3800.md#paper-qu26e)
+- <a id="rakotoarison26a-optimization"></a>[$α$-PFN: Fast Entropy Search via In-Context Learning](../conferences/icml-2026/cards/3801-3900.md#paper-rakotoarison26a)
+- <a id="rakotomamonjy26a-optimization"></a>[Particle Flow for Learning from Label Proportions](../conferences/icml-2026/cards/3801-3900.md#paper-rakotomamonjy26a)
+- <a id="rankawat26a-optimization"></a>[From Lyapunov Analysis to Algorithm Design in two-sided PL Minimax Optimization](../conferences/icml-2026/cards/3801-3900.md#paper-rankawat26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -498,6 +510,8 @@
 - <a id="nurko26a-inference"></a>[Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits](../conferences/icml-2026/cards/3401-3500.md#paper-nurko26a)
 - <a id="nyang26a-inference"></a>[Beyond Hamming: Query-Aware Decoding of Binary Cosine Sketches](../conferences/icml-2026/cards/3401-3500.md#paper-nyang26a)
 - <a id="phan26a-inference"></a>[Automatic Unsupervised Ensemble Outlier Model Selection](../conferences/icml-2026/cards/3601-3700.md#paper-phan26a)
+- <a id="qiu26q-inference"></a>[Revealing Scaling Paradox in Large-scale Time Series Models: Implications for More Efficient and Accurate Forecasting](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26q)
+- <a id="qu26c-inference"></a>[TFTF: Training-Free Targeted Flow for Conditional Sampling](../conferences/icml-2026/cards/3701-3800.md#paper-qu26c)
 
 <a id="by-representation-learning"></a>
 
@@ -977,4 +991,12 @@
 - <a id="pukdee26a-theory-statistics"></a>[What Does Preference Learning Recover from Pairwise Comparison Data?](../conferences/icml-2026/cards/3601-3700.md#paper-pukdee26a)
 - <a id="qiao26k-theory-statistics"></a>[On the Identifiability of Poisson Branching Structural Causal Model Under Latent Confounding](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26k)
 - <a id="qin26f-theory-statistics"></a>[Information dynamics and Memory in Neural Networks through Fisher Information Diffusion](../conferences/icml-2026/cards/3701-3800.md#paper-qin26f)
+- <a id="qiu26k-theory-statistics"></a>[Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26k)
+- <a id="qiu26l-theory-statistics"></a>[Towards a Holistic Understanding of Selection Bias for Causal Effect Identification](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26l)
+- <a id="racca26a-theory-statistics"></a>[Language Generation with Replay: A Learning-Theoretic View of Model Collapse](../conferences/icml-2026/cards/3701-3800.md#paper-racca26a)
+- <a id="raghavan26a-theory-statistics"></a>[Causal Identification from Counterfactual Data: Completeness and Bounding Results](../conferences/icml-2026/cards/3701-3800.md#paper-raghavan26a)
+- <a id="raisa26a-theory-statistics"></a>[Accuracy-First Rényi Differential Privacy and Post-Processing Immunity](../conferences/icml-2026/cards/3801-3900.md#paper-raisa26a)
+- <a id="ramachandran26a-theory-statistics"></a>[Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](../conferences/icml-2026/cards/3801-3900.md#paper-ramachandran26a)
+- <a id="ray-chaudhury26a-theory-statistics"></a>[Equilibrium Pricing in Oligopolistic Data Markets](../conferences/icml-2026/cards/3801-3900.md#paper-ray-chaudhury26a)
+- <a id="ren26e-theory-statistics"></a>[Streaming Covariate Balancing via Discrepancy-Based Feature Coresets](../conferences/icml-2026/cards/3801-3900.md#paper-ren26e)
 <!-- classification:end -->

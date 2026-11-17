@@ -115,6 +115,8 @@ Model-wide design and information flow.
 - [CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences](../../conferences/icml-2026/cards/3101-3200.md#ma26au-architecture) · 中文
 - [Compass-RoPE: Isotropic Rotary Position Embeddings for Vision Transformers](../../conferences/icml-2026/cards/3301-3400.md#min26f-architecture) · 中文
 - [GEM-FI: Gated Evidential Mixtures with Fisher Modulation](../../conferences/icml-2026/cards/3301-3400.md#mohammed26a-architecture) · 中文
+- [Learning Global Representation from Queries for Vectorized HD Map Construction](../../conferences/icml-2026/cards/3701-3800.md#qiu26m-architecture) · 中文
+- [Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](../../conferences/icml-2026/cards/3801-3900.md#ran26d-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -196,6 +198,7 @@ Model-wide design and information flow.
 - [Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration](../../conferences/icml-2026/cards/3201-3300.md#meng26a-architecture) · 中文
 - [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../../conferences/icml-2026/cards/3201-3300.md#mi26b-architecture) · 中文
 - [Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../../conferences/icml-2026/cards/3601-3700.md#peng26k-architecture) · 中文
+- [SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding](../../conferences/icml-2026/cards/3701-3800.md#qiu26g-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -253,6 +256,11 @@ Model-wide design and information flow.
 - [CauScale: Neural Causal Discovery at Scale](../../conferences/icml-2026/cards/3601-3700.md#peng26c-architecture) · 中文
 - [ParalESN: Enabling parallel information processing in Reservoir Computing](../../conferences/icml-2026/cards/3601-3700.md#pinna26a-architecture) · 中文
 - [CANDI: Hybrid Discrete-Continuous Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#pynadath26a-architecture) · 中文
+- [SEER: Transformer-based Robust Time Series Forecasting via Automated Patch Enhancement and Replacement](../../conferences/icml-2026/cards/3701-3800.md#qiu26n-architecture) · 中文
+- [Bridging Time and Frequency: A Joint Modeling Framework for Irregular Multivariate Time Series Forecasting](../../conferences/icml-2026/cards/3701-3800.md#qiu26t-architecture) · 中文
+- [Evidential Copula Concept Embedding Models](../../conferences/icml-2026/cards/3701-3800.md#qiu26u-architecture) · 中文
+- [DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](../../conferences/icml-2026/cards/3701-3800.md#qiu26x-architecture) · 中文
+- [TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](../../conferences/icml-2026/cards/3701-3800.md#qu26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -280,6 +288,7 @@ Model-wide design and information flow.
 - [Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning](../../conferences/icml-2026/cards/3601-3700.md#peng26e-architecture) · 中文
 - [Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](../../conferences/icml-2026/cards/3701-3800.md#qi26j-architecture) · 中文
 - [On the Expressive Power of GNNs to Solve Linear SDPs](../../conferences/icml-2026/cards/3701-3800.md#qian26e-architecture) · 中文
+- [Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models](../../conferences/icml-2026/cards/3701-3800.md#raghuvanshi26a-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -382,4 +391,7 @@ Model-wide design and information flow.
 - [Insertion Based Sequence Generation with Learnable Order Dynamics](../../conferences/icml-2026/cards/3601-3700.md#patel26a-architecture) · 中文
 - [Hyperbolic Neural Operator](../../conferences/icml-2026/cards/3601-3700.md#pei26b-architecture) · 中文
 - [Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction](../../conferences/icml-2026/cards/3601-3700.md#piao26a-architecture) · 中文
+- [Protein Autoregressive Modeling via Multiscale Structure Generation](../../conferences/icml-2026/cards/3701-3800.md#qu26b-architecture) · 中文
+- [A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention](../../conferences/icml-2026/cards/3701-3800.md#qu26g-architecture) · 中文
+- [DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · 中文
 <!-- classification:end -->

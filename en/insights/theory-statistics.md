@@ -61,6 +61,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner](../../conferences/icml-2026/cards/3501-3600.md#oko26a-theory-statistics) · 中文
 - [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../../conferences/icml-2026/cards/3501-3600.md#ouyang26e-theory-statistics) · 中文
 - [Catch-22: On the Fundamental Tradeoff Between Detectability and Robustness in LLM Watermarking](../../conferences/icml-2026/cards/3601-3700.md#pratihar26a-theory-statistics) · 中文
+- [Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards](../../conferences/icml-2026/cards/3701-3800.md#rad26b-theory-statistics) · 中文
+- [A model of errors in transformers](../../conferences/icml-2026/cards/3801-3900.md#raju26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -149,6 +151,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions](../../conferences/icml-2026/cards/3401-3500.md#oh26a-theory-statistics) · 中文
 - [Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality](../../conferences/icml-2026/cards/3501-3600.md#palasamudram26a-theory-statistics) · 中文
 - [Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL](../../conferences/icml-2026/cards/3601-3700.md#peng26o-theory-statistics) · 中文
+- [What Does Thompson Sampling Optimize?](../../conferences/icml-2026/cards/3701-3800.md#qu26d-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -535,6 +538,14 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [What Does Preference Learning Recover from Pairwise Comparison Data?](../../conferences/icml-2026/cards/3601-3700.md#pukdee26a-theory-statistics) · 中文
 - [On the Identifiability of Poisson Branching Structural Causal Model Under Latent Confounding](../../conferences/icml-2026/cards/3701-3800.md#qiao26k-theory-statistics) · 中文
 - [Information dynamics and Memory in Neural Networks through Fisher Information Diffusion](../../conferences/icml-2026/cards/3701-3800.md#qin26f-theory-statistics) · 中文
+- [Parameter-free Dynamic Regret: Time-varying Movement Costs, Delayed Feedback, and Memory](../../conferences/icml-2026/cards/3701-3800.md#qiu26k-theory-statistics) · 中文
+- [Towards a Holistic Understanding of Selection Bias for Causal Effect Identification](../../conferences/icml-2026/cards/3701-3800.md#qiu26l-theory-statistics) · 中文
+- [Language Generation with Replay: A Learning-Theoretic View of Model Collapse](../../conferences/icml-2026/cards/3701-3800.md#racca26a-theory-statistics) · 中文
+- [Causal Identification from Counterfactual Data: Completeness and Bounding Results](../../conferences/icml-2026/cards/3701-3800.md#raghavan26a-theory-statistics) · 中文
+- [Accuracy-First Rényi Differential Privacy and Post-Processing Immunity](../../conferences/icml-2026/cards/3801-3900.md#raisa26a-theory-statistics) · 中文
+- [Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](../../conferences/icml-2026/cards/3801-3900.md#ramachandran26a-theory-statistics) · 中文
+- [Equilibrium Pricing in Oligopolistic Data Markets](../../conferences/icml-2026/cards/3801-3900.md#ray-chaudhury26a-theory-statistics) · 中文
+- [Streaming Covariate Balancing via Discrepancy-Based Feature Coresets](../../conferences/icml-2026/cards/3801-3900.md#ren26e-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -562,6 +573,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](../../conferences/icml-2026/cards/3201-3300.md#maruyama26a-theory-statistics) · 中文
 - [Learning to Rank from Incomplete Rankings](../../conferences/icml-2026/cards/3201-3300.md#migali26a-theory-statistics) · 中文
 - [Quantile-Free Uncertainty Quantification in Graph Neural Networks](../../conferences/icml-2026/cards/3601-3700.md#park26x-theory-statistics) · 中文
+- [Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows](../../conferences/icml-2026/cards/3801-3900.md#rancati26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -591,4 +603,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · 中文
 - [FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · 中文
 - [Reduction of Probabilistic Chemical Reaction Networks](../../conferences/icml-2026/cards/3301-3400.md#montes26a-theory-statistics) · 中文
+- [Interpretability and Generalization Bounds for Learning Spatial Physics](../../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · 中文
 <!-- classification:end -->

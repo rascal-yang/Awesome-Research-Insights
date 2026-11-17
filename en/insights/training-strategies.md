@@ -114,6 +114,7 @@ Training schedules, curricula, and task or stage composition.
 - [Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach](../../conferences/icml-2026/cards/3501-3600.md#park26b-training-strategies) · 中文
 - [Privileged Information Distillation for Language Models](../../conferences/icml-2026/cards/3601-3700.md#penaloza26a-training-strategies) · 中文
 - [PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning](../../conferences/icml-2026/cards/3601-3700.md#peng26l-training-strategies) · 中文
+- [Less Is More in Federated Continual Learning: RieSelect for Conflict-Aware Layer Selection in LLMs](../../conferences/icml-2026/cards/3701-3800.md#qiu26w-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -173,6 +174,7 @@ Training schedules, curricula, and task or stage composition.
 - [Continual Segmentation under Joint Nonstationarity](../../conferences/icml-2026/cards/3501-3600.md#pandey26b-training-strategies) · 中文
 - [Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers](../../conferences/icml-2026/cards/3701-3800.md#qian26j-training-strategies) · 中文
 - [GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](../../conferences/icml-2026/cards/3701-3800.md#qin26k-training-strategies) · 中文
+- [Learning to Watermark in the Latent Space of Generative Models](../../conferences/icml-2026/cards/3801-3900.md#rebuffi26a-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -376,4 +378,5 @@ Training schedules, curricula, and task or stage composition.
 - [Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis](../../conferences/icml-2026/cards/3201-3300.md#meng26c-training-strategies) · 中文
 - [Latent Diffusion Pretraining for Crystal Property Prediction](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26b-training-strategies) · 中文
 - [TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](../../conferences/icml-2026/cards/3401-3500.md#nguyen26g-training-strategies) · 中文
+- [Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling](../../conferences/icml-2026/cards/3701-3800.md#qiu26r-training-strategies) · 中文
 <!-- classification:end -->

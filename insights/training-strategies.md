@@ -114,6 +114,7 @@
 - [迭代蒸馏每个场景内的低遗憾轨迹](../conferences/icml-2026/cards/3501-3600.md#park26b-training-strategies) · Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach
 - [工具轨迹特权蒸馏](../conferences/icml-2026/cards/3601-3700.md#penaloza26a-training-strategies) · Privileged Information Distillation for Language Models
 - [由教师激活初始化稀疏专家路由](../conferences/icml-2026/cards/3601-3700.md#peng26l-training-strategies) · PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning
+- [按 Fisher 冲突筛选联邦 LoRA 上行层](../conferences/icml-2026/cards/3701-3800.md#qiu26w-training-strategies) · Less Is More in Federated Continual Learning: RieSelect for Conflict-Aware Layer Selection in LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -173,6 +174,7 @@
 - [用梯度噪声和原型共同约束持续分割](../conferences/icml-2026/cards/3501-3600.md#pandey26b-training-strategies) · Continual Segmentation under Joint Nonstationarity
 - [低比特校准随模型刷新注意力样本](../conferences/icml-2026/cards/3701-3800.md#qian26j-training-strategies) · Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers
 - [把扩散授权与具体样本绑定](../conferences/icml-2026/cards/3701-3800.md#qin26k-training-strategies) · GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures
+- [将潜空间水印教师蒸馏进解码器](../conferences/icml-2026/cards/3801-3900.md#rebuffi26a-training-strategies) · Learning to Watermark in the Latent Space of Generative Models
 
 <a id="by-nlp"></a>
 
@@ -376,4 +378,5 @@
 - [用亚群原型路由联邦专家](../conferences/icml-2026/cards/3201-3300.md#meng26c-training-strategies) · Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis
 - [在晶体潜空间上预训练扩散性质编码器](../conferences/icml-2026/cards/3301-3400.md#mukherjee26b-training-strategies) · Latent Diffusion Pretraining for Crystal Property Prediction
 - [按通道构建时序后门防御的可信池](../conferences/icml-2026/cards/3401-3500.md#nguyen26g-training-strategies) · TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting
+- [让分子结构与序列的生成时钟学习最优耦合](../conferences/icml-2026/cards/3701-3800.md#qiu26r-training-strategies) · Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling
 <!-- classification:end -->

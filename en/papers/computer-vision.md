@@ -65,6 +65,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="ma26au-architecture"></a>[CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26au)
 - <a id="min26f-architecture"></a>[Compass-RoPE: Isotropic Rotary Position Embeddings for Vision Transformers](../../conferences/icml-2026/cards/3301-3400.md#paper-min26f)
 - <a id="mohammed26a-architecture"></a>[GEM-FI: Gated Evidential Mixtures with Fisher Modulation](../../conferences/icml-2026/cards/3301-3400.md#paper-mohammed26a)
+- <a id="qiu26m-architecture"></a>[Learning Global Representation from Queries for Vectorized HD Map Construction](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26m)
+- <a id="ran26d-architecture"></a>[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](../../conferences/icml-2026/cards/3801-3900.md#paper-ran26d)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -103,6 +105,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lou26i-modules"></a>[Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26i)
 - <a id="meng26g-modules"></a>[Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26g)
 - <a id="mo26e-modules"></a>[MapUQ: Map with Uncertainty Quantification for Robust BEV Vectorized Construction](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26e)
+- <a id="qiu26e-modules"></a>[Activation with Intrinsic-Extrinsic Consensus](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26e)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -129,6 +132,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="liu26fh-loss-functions"></a>[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fh)
 - <a id="lu26t-loss-functions"></a>[One-step Latent-free Image Generation with Pixel Mean Flows](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26t)
 - <a id="ouyang26g-loss-functions"></a>[Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26g)
+- <a id="rakitin26a-loss-functions"></a>[One-step Optimal Transport via Regularized Distribution Matching Distillation](../../conferences/icml-2026/cards/3801-3900.md#paper-rakitin26a)
 
 <a id="by-optimization"></a>
 
@@ -235,6 +239,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="pandey26b-training-strategies"></a>[Continual Segmentation under Joint Nonstationarity](../../conferences/icml-2026/cards/3501-3600.md#paper-pandey26b)
 - <a id="qian26j-training-strategies"></a>[Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26j)
 - <a id="qin26k-training-strategies"></a>[GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26k)
+- <a id="rebuffi26a-training-strategies"></a>[Learning to Watermark in the Latent Space of Generative Models](../../conferences/icml-2026/cards/3801-3900.md#paper-rebuffi26a)
 
 <a id="by-data-strategies"></a>
 
@@ -256,6 +261,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lu26k-data-strategies"></a>[Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26k)
 - <a id="lv26c-data-strategies"></a>[SCalDA: Semantics-Calibrated and Diffusion-Enhanced Data Augmentation](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26c)
 - <a id="oh26b-data-strategies"></a>[CSOR: Coreset Selection for Object Re-identification via Class Pruning](../../conferences/icml-2026/cards/3401-3500.md#paper-oh26b)
+- <a id="rahimi26a-data-strategies"></a>[ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](../../conferences/icml-2026/cards/3801-3900.md#paper-rahimi26a)
+- <a id="reiss26a-data-strategies"></a>[Alterbute: Editing Intrinsic Attributes of Objects in Images](../../conferences/icml-2026/cards/3801-3900.md#paper-reiss26a)
 
 <a id="by-inference"></a>
 
@@ -348,6 +355,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="oettinger26a-inference"></a>[Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization](../../conferences/icml-2026/cards/3401-3500.md#paper-oettinger26a)
 - <a id="park26z-inference"></a>[Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion](../../conferences/icml-2026/cards/3601-3700.md#paper-park26z)
 - <a id="potaptchik26b-inference"></a>[Meta Flow Maps enable scalable reward alignment](../../conferences/icml-2026/cards/3601-3700.md#paper-potaptchik26b)
+- <a id="rajagopalan26a-inference"></a>[Personalized Image Generation via Human-in-the-loop Bayesian Optimization](../../conferences/icml-2026/cards/3801-3900.md#paper-rajagopalan26a)
+- <a id="regmi26a-inference"></a>[AdaSCALE: Adaptive Scaling for OOD Detection](../../conferences/icml-2026/cards/3801-3900.md#paper-regmi26a)
 
 <a id="by-representation-learning"></a>
 
@@ -398,6 +407,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="pach26a-representation-learning"></a>[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](../../conferences/icml-2026/cards/3501-3600.md#paper-pach26a)
 - <a id="pegoraro26a-representation-learning"></a>[FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds](../../conferences/icml-2026/cards/3601-3700.md#paper-pegoraro26a)
 - <a id="peng26m-representation-learning"></a>[STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26m)
+- <a id="qiu26d-representation-learning"></a>[Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26d)
 
 <a id="by-evaluation"></a>
 
@@ -450,6 +460,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="murata26a-evaluation"></a>[GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning](../../conferences/icml-2026/cards/3301-3400.md#paper-murata26a)
 - <a id="plitsis26a-evaluation"></a>[Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search](../../conferences/icml-2026/cards/3601-3700.md#paper-plitsis26a)
 - <a id="pu26b-evaluation"></a>[Low-Rank and Sparsity Are All You Need: Exploring Robust Hierarchical Latent Subspaces for Transferable Adversarial Attack](../../conferences/icml-2026/cards/3601-3700.md#paper-pu26b)
+- <a id="qiu26b-evaluation"></a>[DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26b)
 
 <a id="by-theory-statistics"></a>
 

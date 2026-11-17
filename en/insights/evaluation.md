@@ -295,6 +295,12 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](../../conferences/icml-2026/cards/3701-3800.md#qiao26h-evaluation) · 中文
 - [Tracing the Persona Circuit: How Large Language Models Encode and Express Character Traits](../../conferences/icml-2026/cards/3701-3800.md#qin26h-evaluation) · 中文
 - [Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions](../../conferences/icml-2026/cards/3701-3800.md#qin26i-evaluation) · 中文
+- [Towards a Science of AI Agent Reliability](../../conferences/icml-2026/cards/3701-3800.md#rabanser26a-evaluation) · 中文
+- [Reasoning Models Are Test Exploiters: Rethinking Multiple Choice](../../conferences/icml-2026/cards/3801-3900.md#raman26a-evaluation) · 中文
+- [Sparks of Cooperative Reasoning: LLMs as Strategic Hanabi Agents](../../conferences/icml-2026/cards/3801-3900.md#ramesh26a-evaluation) · 中文
+- [PostTrainBench: Can LLM Agents Automate LLM Post-Training?](../../conferences/icml-2026/cards/3801-3900.md#rank26a-evaluation) · 中文
+- [Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding](../../conferences/icml-2026/cards/3801-3900.md#reisizadeh26a-evaluation) · 中文
+- [Correct Looks Better: Pairwise Comparisons Reveal Accuracy Rankings](../../conferences/icml-2026/cards/3801-3900.md#remeli26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -347,6 +353,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning](../../conferences/icml-2026/cards/3301-3400.md#murata26a-evaluation) · 中文
 - [Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search](../../conferences/icml-2026/cards/3601-3700.md#plitsis26a-evaluation) · 中文
 - [Low-Rank and Sparsity Are All You Need: Exploring Robust Hierarchical Latent Subspaces for Transferable Adversarial Attack](../../conferences/icml-2026/cards/3601-3700.md#pu26b-evaluation) · 中文
+- [DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization](../../conferences/icml-2026/cards/3701-3800.md#qiu26b-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -388,6 +395,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards](../../conferences/icml-2026/cards/3101-3200.md#majumdar26a-evaluation) · 中文
 - [Rationality Measurement and Theory for Reinforcement Learning Agents](../../conferences/icml-2026/cards/3701-3800.md#qian26f-evaluation) · 中文
 - [Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qian26n-evaluation) · 中文
+- [Revisiting OOD Generalization in Programmatic RL](../../conferences/icml-2026/cards/3801-3900.md#rajabpour26a-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -488,6 +496,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks](../../conferences/icml-2026/cards/3401-3500.md#niu26d-evaluation) · 中文
 - [Unveiling the Visual Counting Bottleneck in Vision-Language Models](../../conferences/icml-2026/cards/3501-3600.md#pang26c-evaluation) · 中文
 - [Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](../../conferences/icml-2026/cards/3501-3600.md#park26c-evaluation) · 中文
+- [On Path to Multimodal Historical Reasoning: HistBench and HistAgent](../../conferences/icml-2026/cards/3701-3800.md#qiu26s-evaluation) · 中文
+- [Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](../../conferences/icml-2026/cards/3701-3800.md#qu26h-evaluation) · 中文
+- [MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio](../../conferences/icml-2026/cards/3801-3900.md#rajgarhia26a-evaluation) · 中文
+- [$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](../../conferences/icml-2026/cards/3801-3900.md#ray26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

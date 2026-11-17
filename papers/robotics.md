@@ -63,6 +63,7 @@
 - <a id="fan26g-optimization"></a>[De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../conferences/icml-2026/cards/1001-1100.md#paper-fan26g)
 - <a id="khan26a-optimization"></a>[Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges](../conferences/icml-2026/cards/2001-2100.md#paper-khan26a)
 - <a id="psenka26a-optimization"></a>[Parallel Stochastic Gradient-Based Planning for World Models](../conferences/icml-2026/cards/3601-3700.md#paper-psenka26a)
+- <a id="qiu26c-optimization"></a>[Debate2Create: Robot Co-design via Multi-Agent LLM Debate](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26c)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -157,6 +158,7 @@
 - <a id="nandiraju26a-inference"></a>[HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](../conferences/icml-2026/cards/3401-3500.md#paper-nandiraju26a)
 - <a id="panchal26b-inference"></a>[Mosaic: Runtime-Efficient Multi-Agent Embodied Planning](../conferences/icml-2026/cards/3501-3600.md#paper-panchal26b)
 - <a id="pfaff26a-inference"></a>[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](../conferences/icml-2026/cards/3601-3700.md#paper-pfaff26a)
+- <a id="ren26a-inference"></a>[Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control](../conferences/icml-2026/cards/3801-3900.md#paper-ren26a)
 
 <a id="by-representation-learning"></a>
 

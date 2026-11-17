@@ -295,6 +295,12 @@
 - [基于逐主张查证的研究点子评估](../conferences/icml-2026/cards/3701-3800.md#qiao26h-evaluation) · InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem
 - [用对比人格方向定位注意头](../conferences/icml-2026/cards/3701-3800.md#qin26h-evaluation) · Tracing the Persona Circuit: How Large Language Models Encode and Express Character Traits
 - [从词组交互测提示敏感性](../conferences/icml-2026/cards/3701-3800.md#qin26i-evaluation) · Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions
+- [AI 智能体的多维可靠性评测](../conferences/icml-2026/cards/3701-3800.md#rabanser26a-evaluation) · Towards a Science of AI Agent Reliability
+- [按曝光时机拆解选项线索](../conferences/icml-2026/cards/3801-3900.md#raman26a-evaluation) · Reasoning Models Are Test Exploiters: Rethinking Multiple Choice
+- [不完全信息下的 Hanabi 协作推理](../conferences/icml-2026/cards/3801-3900.md#ramesh26a-evaluation) · Sparks of Cooperative Reasoning: LLMs as Strategic Hanabi Agents
+- [面向自动后训练的智能体基准](../conferences/icml-2026/cards/3801-3900.md#rank26a-evaluation) · PostTrainBench: Can LLM Agents Automate LLM Post-Training?
+- [按多次采样的最高泄漏评估遗忘](../conferences/icml-2026/cards/3801-3900.md#reisizadeh26a-evaluation) · Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding
+- [用同题偏好校验弱裁判的排名](../conferences/icml-2026/cards/3801-3900.md#remeli26a-evaluation) · Correct Looks Better: Pairwise Comparisons Reveal Accuracy Rankings
 
 <a id="by-computer-vision"></a>
 
@@ -347,6 +353,7 @@
 - [用共享扩散模型反学习近似逐组反事实归因](../conferences/icml-2026/cards/3301-3400.md#murata26a-evaluation) · GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning
 - [用生成模型的内部属性信号搜索偏见触发提示](../conferences/icml-2026/cards/3601-3700.md#plitsis26a-evaluation) · Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search
 - [用分层低秩和稀疏特征测视觉迁移风险](../conferences/icml-2026/cards/3601-3700.md#pu26b-evaluation) · Low-Rank and Sparsity Are All You Need: Exploring Robust Hierarchical Latent Subspaces for Transferable Adversarial Attack
+- [用反演重建差异审计图像防仿制扰动](../conferences/icml-2026/cards/3701-3800.md#qiu26b-evaluation) · DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization
 
 <a id="by-nlp"></a>
 
@@ -388,6 +395,7 @@
 - [把奖励塑形用作离策略控制变量](../conferences/icml-2026/cards/3101-3200.md#majumdar26a-evaluation) · Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards
 - [以动作价值差拆分部署风险](../conferences/icml-2026/cards/3701-3800.md#qian26f-evaluation) · Rationality Measurement and Theory for Reinforcement Learning Agents
 - [正常回报掩盖策略后门的压力测试](../conferences/icml-2026/cards/3701-3800.md#qian26n-evaluation) · Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning
+- [复核策略泛化时控制奖励和观察](../conferences/icml-2026/cards/3801-3900.md#rajabpour26a-evaluation) · Revisiting OOD Generalization in Programmatic RL
 
 <a id="by-robotics"></a>
 
@@ -488,6 +496,10 @@
 - [让音频评估同时奖励语义相似和跨样本可辨识](../conferences/icml-2026/cards/3401-3500.md#niu26d-evaluation) · MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks
 - [分阶段定位视觉计数的外推失效](../conferences/icml-2026/cards/3501-3600.md#pang26c-evaluation) · Unveiling the Visual Counting Bottleneck in Vision-Language Models
 - [用最小视觉反例训练多模态裁判](../conferences/icml-2026/cards/3501-3600.md#park26c-evaluation) · Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
+- [用历史原始材料和专门工具评测多模态史料推理](../conferences/icml-2026/cards/3701-3800.md#qiu26s-evaluation) · On Path to Multimodal Historical Reasoning: HistBench and HistAgent
+- [移动 GUI 智能体的半在线评估](../conferences/icml-2026/cards/3701-3800.md#qu26h-evaluation) · Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation
+- [分开评估听音和读问的医疗线索](../conferences/icml-2026/cards/3801-3900.md#rajgarhia26a-evaluation) · MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio
+- [以音频时钟复现全双工工具任务](../conferences/icml-2026/cards/3801-3900.md#ray26a-evaluation) · $τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains
 
 <a id="by-ml-foundations"></a>
 

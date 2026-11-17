@@ -69,6 +69,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](../../conferences/icml-2026/cards/2901-3000.md#liu26fh-loss-functions) · 中文
 - [One-step Latent-free Image Generation with Pixel Mean Flows](../../conferences/icml-2026/cards/3001-3100.md#lu26t-loss-functions) · 中文
 - [Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution](../../conferences/icml-2026/cards/3501-3600.md#ouyang26g-loss-functions) · 中文
+- [One-step Optimal Transport via Regularized Distribution Matching Distillation](../../conferences/icml-2026/cards/3801-3900.md#rakitin26a-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -165,6 +166,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference](../../conferences/icml-2026/cards/3601-3700.md#plaud26a-loss-functions) · 中文
 - [Likelihood Matching for Diffusion Models](../../conferences/icml-2026/cards/3701-3800.md#qian26h-loss-functions) · 中文
 - [Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning](../../conferences/icml-2026/cards/3701-3800.md#qiao26b-loss-functions) · 中文
+- [Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization](../../conferences/icml-2026/cards/3801-3900.md#reichart26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -177,6 +179,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](../../conferences/icml-2026/cards/0901-1000.md#ding26v-loss-functions) · 中文
 - [Watermarking Graph Neural Networks via Explanations for Ownership Protection](../../conferences/icml-2026/cards/0901-1000.md#downer26a-loss-functions) · 中文
 - [Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](../../conferences/icml-2026/cards/2301-2400.md#lee26w-loss-functions) · 中文
+- [Differentially Private Cross-Silo Recommendation from Implicit Feedback](../../conferences/icml-2026/cards/3801-3900.md#ran26c-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

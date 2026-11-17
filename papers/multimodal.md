@@ -41,6 +41,7 @@
 - <a id="meng26a-architecture"></a>[Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration](../conferences/icml-2026/cards/3201-3300.md#paper-meng26a)
 - <a id="mi26b-architecture"></a>[Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../conferences/icml-2026/cards/3201-3300.md#paper-mi26b)
 - <a id="peng26k-architecture"></a>[Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../conferences/icml-2026/cards/3601-3700.md#paper-peng26k)
+- <a id="qiu26g-architecture"></a>[SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26g)
 
 <a id="by-modules"></a>
 
@@ -160,6 +161,7 @@
 - <a id="ong26a-reinforcement-learning"></a>[OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization](../conferences/icml-2026/cards/3501-3600.md#paper-ong26a)
 - <a id="pan26b-reinforcement-learning"></a>[Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning](../conferences/icml-2026/cards/3501-3600.md#paper-pan26b)
 - <a id="qi26g-reinforcement-learning"></a>[CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning](../conferences/icml-2026/cards/3701-3800.md#paper-qi26g)
+- <a id="ren26b-reinforcement-learning"></a>[iGRPO: Fast Online RL for Flow Matching Model with Instant Reward](../conferences/icml-2026/cards/3801-3900.md#paper-ren26b)
 
 <a id="by-training-strategies"></a>
 
@@ -323,6 +325,8 @@
 - <a id="peng26i-inference"></a>[A Close Look at Negative Label Guided Out-of-distribution Detection in Pre-trained Vision-Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-peng26i)
 - <a id="qi26m-inference"></a>[Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation](../conferences/icml-2026/cards/3701-3800.md#paper-qi26m)
 - <a id="qin26d-inference"></a>[VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models](../conferences/icml-2026/cards/3701-3800.md#paper-qin26d)
+- <a id="qiu26i-inference"></a>[ReasonEdit: Editing Vision–Language Models using Human Reasoning](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26i)
+- <a id="qiu26v-inference"></a>[VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26v)
 
 <a id="by-representation-learning"></a>
 
@@ -451,6 +455,10 @@
 - <a id="niu26d-evaluation"></a>[MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks](../conferences/icml-2026/cards/3401-3500.md#paper-niu26d)
 - <a id="pang26c-evaluation"></a>[Unveiling the Visual Counting Bottleneck in Vision-Language Models](../conferences/icml-2026/cards/3501-3600.md#paper-pang26c)
 - <a id="park26c-evaluation"></a>[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](../conferences/icml-2026/cards/3501-3600.md#paper-park26c)
+- <a id="qiu26s-evaluation"></a>[On Path to Multimodal Historical Reasoning: HistBench and HistAgent](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26s)
+- <a id="qu26h-evaluation"></a>[Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](../conferences/icml-2026/cards/3701-3800.md#paper-qu26h)
+- <a id="rajgarhia26a-evaluation"></a>[MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio](../conferences/icml-2026/cards/3801-3900.md#paper-rajgarhia26a)
+- <a id="ray26a-evaluation"></a>[$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](../conferences/icml-2026/cards/3801-3900.md#paper-ray26a)
 
 <a id="by-theory-statistics"></a>
 
