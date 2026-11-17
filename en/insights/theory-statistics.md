@@ -576,6 +576,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Large-scale Uncertainty Quantification for Latent Variable Models Using Subsampling Markov Chain Monte Carlo](../../conferences/icml-2026/cards/4601-4700.md#wang26ck-theory-statistics) · 中文
 - [Learning $U$-Statistics with Active Inference](../../conferences/icml-2026/cards/4601-4700.md#wang26cl-theory-statistics) · 中文
 - [Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions](../../conferences/icml-2026/cards/4601-4700.md#wang26da-theory-statistics) · 中文
+- [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](../../conferences/icml-2026/cards/4701-4800.md#wang26dx-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

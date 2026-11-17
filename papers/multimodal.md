@@ -112,6 +112,7 @@
 - <a id="tang26u-loss-functions"></a>[Artemis: Structured Visual Reasoning for Perception Policy Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tang26u)
 - <a id="wang26at-loss-functions"></a>[IBMA: Information Bottleneck-Based Multimodal Alignment](../conferences/icml-2026/cards/4601-4700.md#paper-wang26at)
 - <a id="wang26de-loss-functions"></a>[Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling](../conferences/icml-2026/cards/4601-4700.md#paper-wang26de)
+- <a id="wang26di-loss-functions"></a>[Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26di)
 
 <a id="by-optimization"></a>
 
@@ -363,6 +364,7 @@
 - <a id="wan26d-inference"></a>[RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](../conferences/icml-2026/cards/4501-4600.md#paper-wan26d)
 - <a id="wang26h-inference"></a>[ActiveScope: Actively Seeking and Correcting Perception for MLLMs](../conferences/icml-2026/cards/4501-4600.md#paper-wang26h)
 - <a id="wang26ac-inference"></a>[Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ac)
+- <a id="wang26df-inference"></a>[Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA](../conferences/icml-2026/cards/4601-4700.md#paper-wang26df)
 
 <a id="by-representation-learning"></a>
 
@@ -416,6 +418,7 @@
 - <a id="sun26c-representation-learning"></a>[Multimodal Latent Language Modeling with Next-Token Diffusion](../conferences/icml-2026/cards/4201-4300.md#paper-sun26c)
 - <a id="tonekaboni26a-representation-learning"></a>[MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning](../conferences/icml-2026/cards/4401-4500.md#paper-tonekaboni26a)
 - <a id="vo26a-representation-learning"></a>[Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs](../conferences/icml-2026/cards/4501-4600.md#paper-vo26a)
+- <a id="wang26dv-representation-learning"></a>[Universal Skeleton Understanding via Differentiable Rendering and MLLMs](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dv)
 
 <a id="by-evaluation"></a>
 

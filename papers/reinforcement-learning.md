@@ -47,6 +47,7 @@
 - <a id="tajwar26a-loss-functions"></a>[Maximum Likelihood Reinforcement Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tajwar26a)
 - <a id="theodoropoulos26a-loss-functions"></a>[Generalized Schrödinger Bridge on Graphs](../conferences/icml-2026/cards/4401-4500.md#paper-theodoropoulos26a)
 - <a id="tiofack26a-loss-functions"></a>[SVL: Goal-Conditioned Reinforcement Learning as Survival Learning](../conferences/icml-2026/cards/4401-4500.md#paper-tiofack26a)
+- <a id="wang26dp-loss-functions"></a>[Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dp)
 
 <a id="by-optimization"></a>
 
@@ -192,6 +193,7 @@
 - <a id="shen26m-reinforcement-learning"></a>[REG: In-Sample RL via Regularizing the Evaluation Gap](../conferences/icml-2026/cards/4001-4100.md#paper-shen26m)
 - <a id="su26m-reinforcement-learning"></a>[Multi-timescale Reinforcement Learning by Value Reconstruction](../conferences/icml-2026/cards/4201-4300.md#paper-su26m)
 - <a id="tong26h-reinforcement-learning"></a>[Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](../conferences/icml-2026/cards/4401-4500.md#paper-tong26h)
+- <a id="wang26dj-reinforcement-learning"></a>[Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dj)
 
 <a id="by-training-strategies"></a>
 

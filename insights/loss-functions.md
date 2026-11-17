@@ -89,6 +89,8 @@
 - [难度与不确定性联合长度预算](../conferences/icml-2026/cards/4601-4700.md#wang26ba-loss-functions) · Don’t Overthink with Pixels: Efficient Reasoning for Segmentation
 - [正交重构的风格蒸馏](../conferences/icml-2026/cards/4601-4700.md#wang26bi-loss-functions) · StyleDistillation: A New Insight of Image Style Enables Personalized Aesthetic Manipulation
 - [频谱加权偏好对齐](../conferences/icml-2026/cards/4601-4700.md#wang26ch-loss-functions) · Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution
+- [shared-query-field-supervision](../conferences/icml-2026/cards/4601-4700.md#wang26dh-loss-functions) · NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision
+- [prototype-loss-rejection](../conferences/icml-2026/cards/4601-4700.md#wang26dl-loss-functions) · One Coin Has Two Sides: Single Positive Multi Label Learning from Salient Annotations
 
 <a id="by-nlp"></a>
 
@@ -114,6 +116,7 @@
 - [finite-compute-maxrl](../conferences/icml-2026/cards/4301-4400.md#tajwar26a-loss-functions) · Maximum Likelihood Reinforcement Learning
 - [cost-consistent-graph-transport](../conferences/icml-2026/cards/4401-4500.md#theodoropoulos26a-loss-functions) · Generalized Schrödinger Bridge on Graphs
 - [删失轨迹的生存价值学习](../conferences/icml-2026/cards/4401-4500.md#tiofack26a-loss-functions) · SVL: Goal-Conditioned Reinforcement Learning as Survival Learning
+- [distributional-error-weighting](../conferences/icml-2026/cards/4701-4800.md#wang26dp-loss-functions) · Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction
 
 <a id="by-robotics"></a>
 
@@ -126,6 +129,8 @@
 - [回报校验的残差正则门控](../conferences/icml-2026/cards/4301-4400.md#sun26al-loss-functions) · From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning
 - [multiview-latent-actions](../conferences/icml-2026/cards/4501-4600.md#wan26f-loss-functions) · Multi-view Consistent Latent Action Learning for World Modeling and Control
 - [Temporal Straightening for Latent Planning](../conferences/icml-2026/cards/4501-4600.md#wang26n-loss-functions) · Temporal Straightening for Latent Planning
+- [morphology-routing-diversity](../conferences/icml-2026/cards/4601-4700.md#wang26dk-loss-functions) · ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots
+- [counterfactual-affordance-cones](../conferences/icml-2026/cards/4701-4800.md#wang26dy-loss-functions) · Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[用目标区域重建做辅助监督](../papers/reconvla.md#reconvla-loss-functions) · ReconVLA
 
 <a id="by-multimodal"></a>
@@ -166,6 +171,7 @@
 - [中间对象证据奖励](../conferences/icml-2026/cards/4301-4400.md#tang26u-loss-functions) · Artemis: Structured Visual Reasoning for Perception Policy Learning
 - [各模态自身的信息瓶颈对齐](../conferences/icml-2026/cards/4601-4700.md#wang26at-loss-functions) · IBMA: Information Bottleneck-Based Multimodal Alignment
 - [低熵视图单向指导高熵视图](../conferences/icml-2026/cards/4601-4700.md#wang26de-loss-functions) · Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling
+- [wasserstein-group-variance](../conferences/icml-2026/cards/4601-4700.md#wang26di-loss-functions) · Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

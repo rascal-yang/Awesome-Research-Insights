@@ -341,6 +341,7 @@
 - [控制离线评估差距及正交策略更新](../conferences/icml-2026/cards/4001-4100.md#shen26m-reinforcement-learning) · REG: In-Sample RL via Regularizing the Evaluation Gap
 - [多折扣价值与奖励重构](../conferences/icml-2026/cards/4201-4300.md#su26m-reinforcement-learning) · Multi-timescale Reinforcement Learning by Value Reconstruction
 - [转折点去噪信用代理](../conferences/icml-2026/cards/4401-4500.md#tong26h-reinforcement-learning) · Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO
+- [negative-only-anchor-ratio](../conferences/icml-2026/cards/4601-4700.md#wang26dj-reinforcement-learning) · Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification
 
 <a id="by-robotics"></a>
 

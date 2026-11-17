@@ -97,6 +97,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot](../../conferences/icml-2026/cards/4501-4600.md#tuo26a-optimization) · 中文
 - [Faster Query-Key Learning Sharpens Attention in Self-Attention Models](../../conferences/icml-2026/cards/4501-4600.md#vashisht26a-optimization) · 中文
 - [CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#wang26z-optimization) · 中文
+- [CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26dr-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -414,6 +415,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [PACER: Acyclic Causal Discovery from Large-scale Interventional Data](../../conferences/icml-2026/cards/4501-4600.md#vinas-torne26a-optimization) · 中文
 - [Decoupling Regularization and Privacy in Differentially Private Ridge Regression and ERM](../../conferences/icml-2026/cards/4501-4600.md#wang26f-optimization) · 中文
 - [Global Credit Assignment via Dynamical Criticality](../../conferences/icml-2026/cards/4601-4700.md#wang26be-optimization) · 中文
+- [AdaGC: Enhancing LLM Pretraining Stability via Adaptive Gradient Clipping](../../conferences/icml-2026/cards/4601-4700.md#wang26dg-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

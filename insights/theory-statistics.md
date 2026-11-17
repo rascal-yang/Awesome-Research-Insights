@@ -576,6 +576,7 @@
 - [潜变量采样噪声修正的SGLD调参](../conferences/icml-2026/cards/4601-4700.md#wang26ck-theory-statistics) · Large-scale Uncertainty Quantification for Latent Variable Models Using Subsampling Markov Chain Monte Carlo
 - [U统计量的投影残差采样](../conferences/icml-2026/cards/4601-4700.md#wang26cl-theory-statistics) · Learning $U$-Statistics with Active Inference
 - [源空间引导的L²误差边界](../conferences/icml-2026/cards/4601-4700.md#wang26da-theory-statistics) · Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions
+- [frequency-aligned-matrix-sign](../conferences/icml-2026/cards/4701-4800.md#wang26dx-theory-statistics) · Muon in Associative Memory Learning: Training Dynamics and Scaling Laws
 
 <a id="by-graph-and-recommendation"></a>
 

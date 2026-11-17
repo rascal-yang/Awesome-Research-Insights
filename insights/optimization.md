@@ -97,6 +97,7 @@
 - [time-shared-ssm-pruning](../conferences/icml-2026/cards/4501-4600.md#tuo26a-optimization) · SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot
 - [QK与OV相对学习速度控制注意力](../conferences/icml-2026/cards/4501-4600.md#vashisht26a-optimization) · Faster Query-Key Learning Sharpens Attention in Self-Attention Models
 - [CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#wang26z-optimization) · CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning
+- [soft-ternary-proxy](../conferences/icml-2026/cards/4701-4800.md#wang26dr-optimization) · CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -414,6 +415,7 @@
 - [在有效DAG空间内优化](../conferences/icml-2026/cards/4501-4600.md#vinas-torne26a-optimization) · PACER: Acyclic Causal Discovery from Large-scale Interventional Data
 - [private-ridge-curvature-guard](../conferences/icml-2026/cards/4501-4600.md#wang26f-optimization) · Decoupling Regularization and Privacy in Differentially Private Ridge Regression and ERM
 - [临界RNN的局部闭环教学信号](../conferences/icml-2026/cards/4601-4700.md#wang26be-optimization) · Global Credit Assignment via Dynamical Criticality
+- [tensor-history-clipping](../conferences/icml-2026/cards/4601-4700.md#wang26dg-optimization) · AdaGC: Enhancing LLM Pretraining Stability via Adaptive Gradient Clipping
 
 <a id="by-graph-and-recommendation"></a>
 

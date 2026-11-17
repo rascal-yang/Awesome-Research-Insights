@@ -63,6 +63,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="sun26al-loss-functions"></a>[From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26al)
 - <a id="wan26f-loss-functions"></a>[Multi-view Consistent Latent Action Learning for World Modeling and Control](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26f)
 - <a id="wang26n-loss-functions"></a>[Temporal Straightening for Latent Planning](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26n)
+- <a id="wang26dk-loss-functions"></a>[ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dk)
+- <a id="wang26dy-loss-functions"></a>[Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dy)
 - <a id="reconvla-loss-functions"></a><a id="reconvla-modules"></a>[ReconVLA](../../papers/reconvla.md#paper-reconvla)
 
 <a id="by-optimization"></a>
@@ -186,6 +188,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="sun26y-inference"></a>[Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26y)
 - <a id="sun26ad-inference"></a>[Energy-based Compositional Diffusion Planning](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ad)
 - <a id="wan26e-inference"></a>[Beyond Policy Training: Recursive Solution Search from Unannotated Videos](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26e)
+- <a id="wang26dn-inference"></a>[DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dn)
 
 <a id="by-representation-learning"></a>
 

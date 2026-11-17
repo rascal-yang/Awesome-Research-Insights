@@ -159,6 +159,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26ba-loss-functions"></a>[Don’t Overthink with Pixels: Efficient Reasoning for Segmentation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ba)
 - <a id="wang26bi-loss-functions"></a>[StyleDistillation: A New Insight of Image Style Enables Personalized Aesthetic Manipulation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bi)
 - <a id="wang26ch-loss-functions"></a>[Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ch)
+- <a id="wang26dh-loss-functions"></a>[NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dh)
+- <a id="wang26dl-loss-functions"></a>[One Coin Has Two Sides: Single Positive Multi Label Learning from Salient Annotations](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dl)
 
 <a id="by-optimization"></a>
 

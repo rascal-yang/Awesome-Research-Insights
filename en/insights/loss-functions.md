@@ -89,6 +89,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Don’t Overthink with Pixels: Efficient Reasoning for Segmentation](../../conferences/icml-2026/cards/4601-4700.md#wang26ba-loss-functions) · 中文
 - [StyleDistillation: A New Insight of Image Style Enables Personalized Aesthetic Manipulation](../../conferences/icml-2026/cards/4601-4700.md#wang26bi-loss-functions) · 中文
 - [Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](../../conferences/icml-2026/cards/4601-4700.md#wang26ch-loss-functions) · 中文
+- [NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision](../../conferences/icml-2026/cards/4601-4700.md#wang26dh-loss-functions) · 中文
+- [One Coin Has Two Sides: Single Positive Multi Label Learning from Salient Annotations](../../conferences/icml-2026/cards/4601-4700.md#wang26dl-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -114,6 +116,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Maximum Likelihood Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#tajwar26a-loss-functions) · 中文
 - [Generalized Schrödinger Bridge on Graphs](../../conferences/icml-2026/cards/4401-4500.md#theodoropoulos26a-loss-functions) · 中文
 - [SVL: Goal-Conditioned Reinforcement Learning as Survival Learning](../../conferences/icml-2026/cards/4401-4500.md#tiofack26a-loss-functions) · 中文
+- [Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction](../../conferences/icml-2026/cards/4701-4800.md#wang26dp-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -126,6 +129,8 @@ Objectives, auxiliary supervision, and regularization.
 - [From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning](../../conferences/icml-2026/cards/4301-4400.md#sun26al-loss-functions) · 中文
 - [Multi-view Consistent Latent Action Learning for World Modeling and Control](../../conferences/icml-2026/cards/4501-4600.md#wan26f-loss-functions) · 中文
 - [Temporal Straightening for Latent Planning](../../conferences/icml-2026/cards/4501-4600.md#wang26n-loss-functions) · 中文
+- [ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots](../../conferences/icml-2026/cards/4601-4700.md#wang26dk-loss-functions) · 中文
+- [Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding](../../conferences/icml-2026/cards/4701-4800.md#wang26dy-loss-functions) · 中文
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[ReconVLA](../../papers/reconvla.md#reconvla-loss-functions) · 中文
 
 <a id="by-multimodal"></a>
@@ -166,6 +171,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Artemis: Structured Visual Reasoning for Perception Policy Learning](../../conferences/icml-2026/cards/4301-4400.md#tang26u-loss-functions) · 中文
 - [IBMA: Information Bottleneck-Based Multimodal Alignment](../../conferences/icml-2026/cards/4601-4700.md#wang26at-loss-functions) · 中文
 - [Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling](../../conferences/icml-2026/cards/4601-4700.md#wang26de-loss-functions) · 中文
+- [Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26di-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

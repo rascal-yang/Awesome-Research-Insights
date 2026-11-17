@@ -141,6 +141,7 @@ Training schedules, curricula, and task or stage composition.
 - [When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../../conferences/icml-2026/cards/4501-4600.md#wang26j-training-strategies) · 中文
 - [Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts](../../conferences/icml-2026/cards/4601-4700.md#wang26aq-training-strategies) · 中文
 - [The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](../../conferences/icml-2026/cards/4601-4700.md#wang26cw-training-strategies) · 中文
+- [Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning](../../conferences/icml-2026/cards/4701-4800.md#wang26ds-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

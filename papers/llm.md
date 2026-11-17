@@ -242,6 +242,7 @@
 - <a id="tuo26a-optimization"></a>[SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot](../conferences/icml-2026/cards/4501-4600.md#paper-tuo26a)
 - <a id="vashisht26a-optimization"></a>[Faster Query-Key Learning Sharpens Attention in Self-Attention Models](../conferences/icml-2026/cards/4501-4600.md#paper-vashisht26a)
 - <a id="wang26z-optimization"></a>[CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26z)
+- <a id="wang26dr-optimization"></a>[CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dr)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -542,6 +543,7 @@
 - <a id="wang26j-training-strategies"></a>[When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../conferences/icml-2026/cards/4501-4600.md#paper-wang26j)
 - <a id="wang26aq-training-strategies"></a>[Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts](../conferences/icml-2026/cards/4601-4700.md#paper-wang26aq)
 - <a id="wang26cw-training-strategies"></a>[The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cw)
+- <a id="wang26ds-training-strategies"></a>[Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ds)
 
 <a id="by-data-strategies"></a>
 

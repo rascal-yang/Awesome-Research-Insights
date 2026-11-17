@@ -193,6 +193,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Multimodal Latent Language Modeling with Next-Token Diffusion](../../conferences/icml-2026/cards/4201-4300.md#sun26c-representation-learning) · 中文
 - [MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning](../../conferences/icml-2026/cards/4401-4500.md#tonekaboni26a-representation-learning) · 中文
 - [Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs](../../conferences/icml-2026/cards/4501-4600.md#vo26a-representation-learning) · 中文
+- [Universal Skeleton Understanding via Differentiable Rendering and MLLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26dv-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

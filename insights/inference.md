@@ -512,6 +512,7 @@
 - [request-conditioned-token-pruning](../conferences/icml-2026/cards/4201-4300.md#sun26y-inference) · Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models
 - [conservative-bridge-planning-correction](../conferences/icml-2026/cards/4301-4400.md#sun26ad-inference) · Energy-based Compositional Diffusion Planning
 - [视频任务流引导递归分段搜索](../conferences/icml-2026/cards/4501-4600.md#wan26e-inference) · Beyond Policy Training: Recursive Solution Search from Unannotated Videos
+- [hierarchical-context-pruning](../conferences/icml-2026/cards/4601-4700.md#wang26dn-inference) · DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents
 
 <a id="by-multimodal"></a>
 
@@ -607,6 +608,7 @@
 - [密集重建视觉token的范数选择和保守合并](../conferences/icml-2026/cards/4501-4600.md#wan26d-inference) · RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference
 - [target-specific-attention-correction](../conferences/icml-2026/cards/4501-4600.md#wang26h-inference) · ActiveScope: Actively Seeking and Correcting Perception for MLLMs
 - [Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../conferences/icml-2026/cards/4601-4700.md#wang26ac-inference) · Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility
+- [structure-aware-retrieval](../conferences/icml-2026/cards/4601-4700.md#wang26df-inference) · Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA
 
 <a id="by-ml-foundations"></a>
 

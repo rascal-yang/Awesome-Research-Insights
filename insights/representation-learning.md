@@ -193,6 +193,7 @@
 - [连续潜码方差与自回归匹配](../conferences/icml-2026/cards/4201-4300.md#sun26c-representation-learning) · Multimodal Latent Language Modeling with Next-Token Diffusion
 - [共享与私有低秩表示编辑](../conferences/icml-2026/cards/4401-4500.md#tonekaboni26a-representation-learning) · MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning
 - [精确Hölder聚合和层级私有后验](../conferences/icml-2026/cards/4501-4600.md#vo26a-representation-learning) · Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs
+- [task-learned-skeleton-rendering](../conferences/icml-2026/cards/4701-4800.md#wang26dv-representation-learning) · Universal Skeleton Understanding via Differentiable Rendering and MLLMs
 
 <a id="by-ml-foundations"></a>
 

@@ -512,6 +512,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26y-inference) · 中文
 - [Energy-based Compositional Diffusion Planning](../../conferences/icml-2026/cards/4301-4400.md#sun26ad-inference) · 中文
 - [Beyond Policy Training: Recursive Solution Search from Unannotated Videos](../../conferences/icml-2026/cards/4501-4600.md#wan26e-inference) · 中文
+- [DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents](../../conferences/icml-2026/cards/4601-4700.md#wang26dn-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -607,6 +608,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](../../conferences/icml-2026/cards/4501-4600.md#wan26d-inference) · 中文
 - [ActiveScope: Actively Seeking and Correcting Perception for MLLMs](../../conferences/icml-2026/cards/4501-4600.md#wang26h-inference) · 中文
 - [Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../../conferences/icml-2026/cards/4601-4700.md#wang26ac-inference) · 中文
+- [Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA](../../conferences/icml-2026/cards/4601-4700.md#wang26df-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
