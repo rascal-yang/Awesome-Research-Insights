@@ -135,6 +135,7 @@
 - [用短行为前缀探索并强化模型的隐含行为模式](../conferences/icml-2026/cards/3201-3300.md#mao26i-reinforcement-learning) · Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective
 - [用终局求解奖励训练优化建模的起草与自审](../conferences/icml-2026/cards/3301-3400.md#min26g-reinforcement-learning) · Draft-and-Audit Reinforcement Learning for Optimization Modeling
 - [答案分布奖励](../conferences/icml-2026/cards/3301-3400.md#mohri26c-reinforcement-learning) · Distributional Alignment Games for Answer-Level Fine-Tuning
+- [用终局正确性提取推理前缀的继续与停止信号](../conferences/icml-2026/cards/3301-3400.md#mundada26a-reinforcement-learning) · WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -271,6 +272,9 @@
 - [让故障注入瞄准协作的关键状态](../conferences/icml-2026/cards/3201-3300.md#mguni26a-reinforcement-learning) · Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction
 - [代价约束上下文学习](../conferences/icml-2026/cards/3301-3400.md#moeini26a-reinforcement-learning) · Safe In-Context Reinforcement Learning
 - [策略梯度轨迹复用](../conferences/icml-2026/cards/3301-3400.md#montenegro26a-reinforcement-learning) · Reusing Trajectories in Policy Gradients Enables Fast Convergence
+- [重分配奖励使静态 CVaR 的 Bellman 算子收缩](../conferences/icml-2026/cards/3301-3400.md#muni26a-reinforcement-learning) · Reward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity
+- [自举学习单步动作流位移](../conferences/icml-2026/cards/3401-3500.md#nguyen26p-reinforcement-learning) · Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning
+- [用长模型展开训练离线策略适应不确定性](../conferences/icml-2026/cards/3401-3500.md#ni26a-reinforcement-learning) · Long-Horizon Model-Based Offline Reinforcement Learning Without Explicit Conservatism
 
 <a id="by-robotics"></a>
 
@@ -341,6 +345,7 @@
 - [视觉工具双模式自适应调用](../conferences/icml-2026/cards/3101-3200.md#ma26ay-reinforcement-learning) · Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning
 - [以时间和空间证据约束视频推理](../conferences/icml-2026/cards/3201-3300.md#meng26e-reinforcement-learning) · Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence
 - [让时序问答按推理进展追加片段](../conferences/icml-2026/cards/3201-3300.md#messica26a-reinforcement-learning) · Adaptive Time Series Reasoning via Segment Selection
+- [按段奖励图像证据与深伪判断](../conferences/icml-2026/cards/3401-3500.md#nguyen26f-reinforcement-learning) · PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection
 
 <a id="by-ml-foundations"></a>
 

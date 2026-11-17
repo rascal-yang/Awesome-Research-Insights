@@ -62,6 +62,10 @@
 - [智能体轨迹水印](../conferences/icml-2026/cards/3201-3300.md#meng26b-data-strategies) · Watermarking LLM Agent Trajectories
 - [在 LoRA 验证梯度子空间筛选指令数据](../conferences/icml-2026/cards/3301-3400.md#min26a-data-strategies) · GIST: Targeted Data Selection for Instruction Tuning via Coupled Optimization Geometry
 - [用均衡语义域支持预训练数据配比](../conferences/icml-2026/cards/3301-3400.md#min26e-data-strategies) · GEM: Geometric Entropy Mixing for Optimal LLM Data Curation
+- [用效用相同的偏好对压制伪特征](../conferences/icml-2026/cards/3301-3400.md#moya26a-data-strategies) · Spurious Correlation Learning in Preference Optimization: Mechanisms, Consequences, and Mitigation via Tie Training
+- [按注意力指纹筛指令数据](../conferences/icml-2026/cards/3301-3400.md#nagaraj26a-data-strategies) · TRIM: Token-wise Attention-Derived Saliency for Data-Efficient Instruction Tuning
+- [区分预训练过滤收益与高质量分布匹配](../conferences/icml-2026/cards/3401-3500.md#nait-saada26a-data-strategies) · Removing Noise, not Finding Gold: Quality Filtering for Large-Scale Pretraining
+- [提示响应互信息](../conferences/icml-2026/cards/3401-3500.md#nam26b-data-strategies) · Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data
 
 <a id="by-computer-vision"></a>
 
@@ -144,6 +148,7 @@
 - [用可执行绘图代码连接几何题结构和图像](../conferences/icml-2026/cards/2701-2800.md#lin26c-data-strategies) · Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code
 - [按系统、图像与用户输入分解注意力识别投毒](../conferences/icml-2026/cards/2801-2900.md#liu26ag-data-strategies) · TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning
 - [用长文本布局训练和严格检测重叠评估文字图像](../conferences/icml-2026/cards/3201-3300.md#mao26f-data-strategies) · TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation
+- [用跨模态对齐轨迹选择指令样本](../conferences/icml-2026/cards/3401-3500.md#naharas26a-data-strategies) · Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
 
 <a id="by-ml-foundations"></a>
 

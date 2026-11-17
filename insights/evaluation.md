@@ -256,6 +256,12 @@
 - [用因果轨迹审计多步提示注入](../conferences/icml-2026/cards/3301-3400.md#mothukuri26a-evaluation) · Causal Detection of Multi-Step LLM Agent Attacks
 - [以短题面和依赖图测试长推理](../conferences/icml-2026/cards/3301-3400.md#motwani26a-evaluation) · LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning
 - [二维排版下的护栏鲁棒性评测](../conferences/icml-2026/cards/3301-3400.md#mou26a-evaluation) · SpatialJB: How Text Distribution Art Becomes The "Jailbreak Key" for LLM Guardrails
+- [压低候选多样性的推理安全压力测试](../conferences/icml-2026/cards/3401-3500.md#nahin26a-evaluation) · Less Diverse, Less Safe: The Indirect But Pervasive Risk of Test-Time Scaling in Large Language Models
+- [提示线索算法偏移](../conferences/icml-2026/cards/3401-3500.md#narula26a-evaluation) · The Invisible Lottery: How Subtle Cues Steer Algorithm Choice in LLM Code Generation
+- [词元重复概率检测](../conferences/icml-2026/cards/3401-3500.md#nassif26a-evaluation) · Telescope: Improving Zero Shot Detection of LLM Generated Content By Measuring Token Repetition Probability
+- [情景特定欺骗探针](../conferences/icml-2026/cards/3401-3500.md#natarajan26a-evaluation) · One Probe Won’t Catch Them All: Towards Targeted Deception Detection
+- [定向指令选择拆解](../conferences/icml-2026/cards/3401-3500.md#nayak26a-evaluation) · A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn’t)
+- [按模型输入信念测试解释充分性](../conferences/icml-2026/cards/3401-3500.md#nguyen26n-evaluation) · What LLMs Explain Is Not What They Believe: Evaluating Explanation Sufficiency Under Models’ Own Input Beliefs
 
 <a id="by-computer-vision"></a>
 
@@ -305,6 +311,7 @@
 - [多参考视觉创作编辑评测](../conferences/icml-2026/cards/3001-3100.md#luo26ak-evaluation) · MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing
 - [用频域干预测试水印的语义保真](../conferences/icml-2026/cards/3201-3300.md#meshram26a-evaluation) · Low-Compute Watermark Removal via Dual-Domain Natural Projection
 - [用最小生成树估计表征的内在维数](../conferences/icml-2026/cards/3301-3400.md#mordacq26a-evaluation) · IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension
+- [用共享扩散模型反学习近似逐组反事实归因](../conferences/icml-2026/cards/3301-3400.md#murata26a-evaluation) · GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning
 
 <a id="by-nlp"></a>
 
@@ -502,6 +509,7 @@
 - [用图对齐替身摊薄重复归因开销](../conferences/icml-2026/cards/1501-1600.md#heidari26a-evaluation) · TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions
 - [按错边强度生成成对图对齐任务](../conferences/icml-2026/cards/2201-2300.md#lagesse26a-evaluation) · Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings
 - [回溯时序图节点记忆中的早期事件贡献](../conferences/icml-2026/cards/2901-3000.md#liu26gd-evaluation) · Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution
+- [用最优传输审计图机器人检测器的边编辑鲁棒性](../conferences/icml-2026/cards/3301-3400.md#mukherjee26a-evaluation) · BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection
 
 <a id="by-scientific-ml"></a>
 
@@ -540,4 +548,6 @@
 - [晶体结构操作评测](../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures
 - [用固定形成能预算评估闭环发现](../conferences/icml-2026/cards/3101-3200.md#malik26a-evaluation) · MADE: Benchmark Environments for Closed-Loop Materials Discovery
 - [用带温度的弦方法诊断扩散模态](../conferences/icml-2026/cards/3301-3400.md#moreau26a-evaluation) · Probing the Geometry of Diffusion Models with the String Method
+- [同时比较宏基因组架构的扩展效率和生物检索](../conferences/icml-2026/cards/3301-3400.md#munsamy26a-evaluation) · Scaling Laws and Architectural Frontiers in Metagenomic Foundation Models
+- [融合物理与约束证据解释控制动作](../conferences/icml-2026/cards/3301-3400.md#naagarajan26a-evaluation) · Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control
 <!-- classification:end -->

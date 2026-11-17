@@ -7,7 +7,7 @@
 <!-- classification:start -->
 ## 按技术类型浏览
 
-[模型架构](#by-architecture) · [损失函数](#by-loss-functions) · [优化](#by-optimization) · [强化学习方法](#by-reinforcement-learning) · [训练策略](#by-training-strategies) · [数据策略](#by-data-strategies) · [推理策略](#by-inference) · [表征学习](#by-representation-learning) · [评测与诊断](#by-evaluation) · [理论与统计](#by-theory-statistics)
+[模型架构](#by-architecture) · [模块](#by-modules) · [损失函数](#by-loss-functions) · [优化](#by-optimization) · [强化学习方法](#by-reinforcement-learning) · [训练策略](#by-training-strategies) · [数据策略](#by-data-strategies) · [推理策略](#by-inference) · [表征学习](#by-representation-learning) · [评测与诊断](#by-evaluation) · [理论与统计](#by-theory-statistics)
 
 <a id="by-architecture"></a>
 
@@ -21,6 +21,12 @@
 - <a id="ma26an-architecture"></a>[ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26an)
 - <a id="ma26az-architecture"></a>[Scalable Traffic Signal Control with Shared Policy Framework](../conferences/icml-2026/cards/3101-3200.md#paper-ma26az)
 - <a id="marzo26a-architecture"></a>[This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic](../conferences/icml-2026/cards/3201-3300.md#paper-marzo26a)
+
+<a id="by-modules"></a>
+
+### 模块
+
+- <a id="nagarajan26a-modules"></a>[Accelerating Q-learning through Efficient Value-Sharing across Actions](../conferences/icml-2026/cards/3301-3400.md#paper-nagarajan26a)
 
 <a id="by-loss-functions"></a>
 
@@ -152,6 +158,9 @@
 - <a id="mguni26a-reinforcement-learning"></a>[Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction](../conferences/icml-2026/cards/3201-3300.md#paper-mguni26a)
 - <a id="moeini26a-reinforcement-learning"></a>[Safe In-Context Reinforcement Learning](../conferences/icml-2026/cards/3301-3400.md#paper-moeini26a)
 - <a id="montenegro26a-reinforcement-learning"></a>[Reusing Trajectories in Policy Gradients Enables Fast Convergence](../conferences/icml-2026/cards/3301-3400.md#paper-montenegro26a)
+- <a id="muni26a-reinforcement-learning"></a>[Reward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity](../conferences/icml-2026/cards/3301-3400.md#paper-muni26a)
+- <a id="nguyen26p-reinforcement-learning"></a>[Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26p)
+- <a id="ni26a-reinforcement-learning"></a>[Long-Horizon Model-Based Offline Reinforcement Learning Without Explicit Conservatism](../conferences/icml-2026/cards/3401-3500.md#paper-ni26a)
 
 <a id="by-training-strategies"></a>
 
@@ -270,4 +279,8 @@
 - <a id="mahadevan26a-theory-statistics"></a>[Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning](../conferences/icml-2026/cards/3101-3200.md#paper-mahadevan26a)
 - <a id="mao26a-theory-statistics"></a>[Rethinking the Hardness of PbRL: A Provable General Regret Bound](../conferences/icml-2026/cards/3201-3300.md#paper-mao26a)
 - <a id="mousavi-hosseini26a-theory-statistics"></a>[Post-Training with Policy Gradients: Optimality and the Base Model Barrier](../conferences/icml-2026/cards/3301-3400.md#paper-mousavi-hosseini26a)
+- <a id="mroueh26a-theory-statistics"></a>[Reinforcement Learning with Verifiable Rewards: GRPO’s Loss, Dynamics, and Success Amplification](../conferences/icml-2026/cards/3301-3400.md#paper-mroueh26a)
+- <a id="nayak26b-theory-statistics"></a>[Achieving Logarithmic Regret in KL-Regularized Zero-Sum Markov Games](../conferences/icml-2026/cards/3401-3500.md#paper-nayak26b)
+- <a id="nguyen-tang26a-theory-statistics"></a>[Exact Unlearning in Reinforcement Learning](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen-tang26a)
+- <a id="ni26c-theory-statistics"></a>[Constrained Meta Reinforcement Learning with Provable Test-Time Safety](../conferences/icml-2026/cards/3401-3500.md#paper-ni26c)
 <!-- classification:end -->

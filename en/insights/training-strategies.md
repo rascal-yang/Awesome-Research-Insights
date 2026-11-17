@@ -105,6 +105,9 @@ Training schedules, curricula, and task or stage composition.
 - [1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization](../../conferences/icml-2026/cards/3201-3300.md#maskey26a-training-strategies) · 中文
 - [Making Expert Reasoning Learnable with Self-Distillation](../../conferences/icml-2026/cards/3201-3300.md#mendes26b-training-strategies) · 中文
 - [CoRe: Collaborative Reasoning via Cross Teaching](../../conferences/icml-2026/cards/3301-3400.md#mishra26a-training-strategies) · 中文
+- [DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization](../../conferences/icml-2026/cards/3301-3400.md#mu26b-training-strategies) · 中文
+- [When Does Sparsity Mitigate the Curse of Depth in LLMs](../../conferences/icml-2026/cards/3301-3400.md#muhtar26a-training-strategies) · 中文
+- [Gradient Transformer: Learning to Generate Updates for LLMs](../../conferences/icml-2026/cards/3401-3500.md#nguyen26r-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -159,6 +162,7 @@ Training schedules, curricula, and task or stage composition.
 - [Domain Adaptive Object Detection via Dynamic Causal Refinement](../../conferences/icml-2026/cards/3101-3200.md#ma26n-training-strategies) · 中文
 - [FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](../../conferences/icml-2026/cards/3101-3200.md#ma26u-training-strategies) · 中文
 - [Learning Generalized Trackers with Elastic Token Budgets](../../conferences/icml-2026/cards/3101-3200.md#ma26aq-training-strategies) · 中文
+- [Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer](../../conferences/icml-2026/cards/3301-3400.md#mu26c-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -196,6 +200,7 @@ Training schedules, curricula, and task or stage composition.
 - [RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization](../../conferences/icml-2026/cards/2801-2900.md#liu26bx-training-strategies) · 中文
 - [Vision-Language-Action Pretraining from Large-Scale Human Videos](../../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · 中文
 - [On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../../conferences/icml-2026/cards/3301-3400.md#morin26a-training-strategies) · 中文
+- [FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../../conferences/icml-2026/cards/3401-3500.md#nguyen26b-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -237,6 +242,8 @@ Training schedules, curricula, and task or stage composition.
 - [Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26h-training-strategies) · 中文
 - [Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#miao26c-training-strategies) · 中文
 - [Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](../../conferences/icml-2026/cards/3301-3400.md#mo26c-training-strategies) · 中文
+- [Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA](../../conferences/icml-2026/cards/3301-3400.md#mozaffari26a-training-strategies) · 中文
+- [DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](../../conferences/icml-2026/cards/3401-3500.md#neogi26a-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -297,6 +304,7 @@ Training schedules, curricula, and task or stage composition.
 - [Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration](../../conferences/icml-2026/cards/3101-3200.md#ma26ab-training-strategies) · 中文
 - [No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26ae-training-strategies) · 中文
 - [Compositional Generative Modeling from Decentralized Data](../../conferences/icml-2026/cards/3301-3400.md#morshed26a-training-strategies) · 中文
+- [Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#na26b-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -311,6 +319,7 @@ Training schedules, curricula, and task or stage composition.
 - [FedRGL: Robust Federated Graph Learning under Label Noise](../../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · 中文
 - [Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task](../../conferences/icml-2026/cards/2601-2700.md#li26ih-training-strategies) · 中文
 - [FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space](../../conferences/icml-2026/cards/2701-2800.md#liu26b-training-strategies) · 中文
+- [Adaptive Node Feature Selection for Graph Neural Networks](../../conferences/icml-2026/cards/3401-3500.md#navarro26a-training-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -341,4 +350,6 @@ Training schedules, curricula, and task or stage composition.
 - [DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · 中文
 - [From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding](../../conferences/icml-2026/cards/2901-3000.md#liu26em-training-strategies) · 中文
 - [Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis](../../conferences/icml-2026/cards/3201-3300.md#meng26c-training-strategies) · 中文
+- [Latent Diffusion Pretraining for Crystal Property Prediction](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26b-training-strategies) · 中文
+- [TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](../../conferences/icml-2026/cards/3401-3500.md#nguyen26g-training-strategies) · 中文
 <!-- classification:end -->

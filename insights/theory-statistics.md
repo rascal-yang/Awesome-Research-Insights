@@ -56,6 +56,7 @@
 - [从可分辨提示区域估计输出容量](../conferences/icml-2026/cards/3201-3300.md#meyer26a-theory-statistics) · How Many Different Outputs Can a Transformer Generate?
 - [低遗憾续词预测](../conferences/icml-2026/cards/3301-3400.md#mohri26b-theory-statistics) · Next-Token Prediction and Regret Minimization
 - [用无规律样本测记忆容量](../conferences/icml-2026/cards/3301-3400.md#morris26a-theory-statistics) · How much can language models memorize?
+- [按每步分支数解释思维链深度](../conferences/icml-2026/cards/3301-3400.md#nadgir26a-theory-statistics) · How does Chain of Thought decompose complex tasks?
 
 <a id="by-computer-vision"></a>
 
@@ -64,6 +65,7 @@
 - [扩散组合泛化](../conferences/icml-2026/cards/0301-0400.md#bradley26a-theory-statistics) · Local Mechanisms of Compositional Generalization in Conditional Diffusion
 - [低数据视觉泛化](../conferences/icml-2026/cards/0301-0400.md#brady26b-theory-statistics) · Is Generation Required for Data-Efficient Perception?
 - [递归探测图像表征的空间组合能力](../conferences/icml-2026/cards/3101-3200.md#lyu26g-theory-statistics) · On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning
+- [用补丁后验解释卷积逆问题求解器](../conferences/icml-2026/cards/3401-3500.md#nguyen26c-theory-statistics) · An analytic theory of convolutional neural network inverse problems solvers
 
 <a id="by-nlp"></a>
 
@@ -135,6 +137,10 @@
 - [用慢变量历史幅度控制快变量](../conferences/icml-2026/cards/3101-3200.md#mahadevan26a-theory-statistics) · Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning
 - [以双轨迹复杂度刻画偏好强化学习的最优探索](../conferences/icml-2026/cards/3201-3300.md#mao26a-theory-statistics) · Rethinking the Hardness of PbRL: A Provable General Regret Bound
 - [后训练的底模似然分位数](../conferences/icml-2026/cards/3301-3400.md#mousavi-hosseini26a-theory-statistics) · Post-Training with Policy Gradients: Optimality and the Base Model Barrier
+- [用成功率递推分析 GRPO 的二元奖励放大](../conferences/icml-2026/cards/3301-3400.md#mroueh26a-theory-statistics) · Reinforcement Learning with Verifiable Rewards: GRPO’s Loss, Dynamics, and Success Amplification
+- [KL 博弈对数遗憾](../conferences/icml-2026/cards/3401-3500.md#nayak26b-theory-statistics) · Achieving Logarithmic Regret in KL-Regularized Zero-Sum Markov Games
+- [对噪声统计树做耦合以精确遗忘](../conferences/icml-2026/cards/3401-3500.md#nguyen-tang26a-theory-statistics) · Exact Unlearning in Reinforcement Learning
+- [从安全策略逐步混合到候选策略](../conferences/icml-2026/cards/3401-3500.md#ni26c-theory-statistics) · Constrained Meta Reinforcement Learning with Provable Test-Time Safety
 
 <a id="by-robotics"></a>
 
@@ -482,6 +488,13 @@
 - [用无标签目标样本稳定共形预测集大小](../conferences/icml-2026/cards/3301-3400.md#min26d-theory-statistics) · Stable Localized Conformal Prediction via Transduction
 - [右删失下的变点检测估计](../conferences/icml-2026/cards/3301-3400.md#miyagawa26a-theory-statistics) · Accurate Evaluation of Quickest Changepoint Detectors via Non-parametric Survival Analysis
 - [把曲率耦合纳入压缩优化的步长模型](../conferences/icml-2026/cards/3301-3400.md#monzio-compagnoni26a-theory-statistics) · On the Interaction of Batch Noise, Adaptivity, and Compression, under $(L_0,L_1)$-Smoothness: An SDE Approach
+- [用堆叠外积推导原始 LoRA 梯度下降的速率](../conferences/icml-2026/cards/3301-3400.md#mu26a-theory-statistics) · On the Convergence Rate of LoRA Gradient Descent
+- [用查询预测和剩余预算做差分隐私在线应答](../conferences/icml-2026/cards/3301-3400.md#mundra26a-theory-statistics) · LAPRAS : Learning-Augmented PRivate Answering for linear query Streams.
+- [用线段终端嵌入保留时序 Fréchet 距离](../conferences/icml-2026/cards/3301-3400.md#munteanu26a-theory-statistics) · Terminal Dimension Reduction for Time Series with Applications
+- [广义凸层的梯度逼近](../conferences/icml-2026/cards/3401-3500.md#nehzati26a-theory-statistics) · Universal Representation of Generalized Convex Functions and their Gradients
+- [估值频数在线公平](../conferences/icml-2026/cards/3401-3500.md#neoh26a-theory-statistics) · Online Fair Division with Additional Information
+- [表格预测构造参数后验](../conferences/icml-2026/cards/3401-3500.md#ng26a-theory-statistics) · TabMGP: Martingale Posterior with TabPFN
+- [以流式分位数草图估切片 Wasserstein](../conferences/icml-2026/cards/3401-3500.md#nguyen26o-theory-statistics) · Streaming Sliced Optimal Transport
 
 <a id="by-graph-and-recommendation"></a>
 

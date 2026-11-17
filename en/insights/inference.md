@@ -243,6 +243,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Open-World LLM Logical Reasoning](../../conferences/icml-2026/cards/3301-3400.md#mo26f-inference) · 中文
 - [Interpreting and Steering State-Space Models via Activation Subspace Bottlenecks](../../conferences/icml-2026/cards/3301-3400.md#mohan26a-inference) · 中文
 - [Learning to Evict from Key-Value Cache](../../conferences/icml-2026/cards/3301-3400.md#moschella26a-inference) · 中文
+- [SINQ: Sinkhorn-Normalized Quantization for Calibration-Free Low-Precision LLM Weights](../../conferences/icml-2026/cards/3301-3400.md#muller26a-inference) · 中文
+- [CUPID in the Model Zoo: Online Matchmaking for Selecting Your Dream LLM](../../conferences/icml-2026/cards/3401-3500.md#nguyen26h-inference) · 中文
+- [Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts](../../conferences/icml-2026/cards/3401-3500.md#nguyen26m-inference) · 中文
+- [Safety Game: Inference-Time Alignment of Black-Box LLMs via Constrained Optimization](../../conferences/icml-2026/cards/3401-3500.md#nguyen26s-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -331,6 +335,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [WhisperSplat: Lossless Steganography in 3D Gaussian Splatting](../../conferences/icml-2026/cards/3201-3300.md#meng26h-inference) · 中文
 - [ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT](../../conferences/icml-2026/cards/3301-3400.md#moon26b-inference) · 中文
 - [Spectral Guidance for Flexible and Efficient Control of Diffusion Models](../../conferences/icml-2026/cards/3301-3400.md#moreira26a-inference) · 中文
+- [Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance](../../conferences/icml-2026/cards/3401-3500.md#nguyen26q-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -393,6 +398,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](../../conferences/icml-2026/cards/2601-2700.md#liang26l-inference) · 中文
 - [When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26fo-inference) · 中文
 - [STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics–Physics Dual System](../../conferences/icml-2026/cards/3001-3100.md#luo26ab-inference) · 中文
+- [HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](../../conferences/icml-2026/cards/3401-3500.md#nandiraju26a-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -506,6 +512,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach](../../conferences/icml-2026/cards/3101-3200.md#lv26g-inference) · 中文
 - [Faster Activation Functions at the Edge for Post-Training Speedups](../../conferences/icml-2026/cards/3101-3200.md#lydike26a-inference) · 中文
 - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../../conferences/icml-2026/cards/3301-3400.md#morelli26a-inference) · 中文
+- [Reviving Error Correction in Modern Deep Time-Series Forecasting](../../conferences/icml-2026/cards/3401-3500.md#nguyen26u-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

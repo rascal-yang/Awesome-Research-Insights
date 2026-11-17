@@ -62,6 +62,10 @@ Data selection, annotation, augmentation, and sampling.
 - [Watermarking LLM Agent Trajectories](../../conferences/icml-2026/cards/3201-3300.md#meng26b-data-strategies) · 中文
 - [GIST: Targeted Data Selection for Instruction Tuning via Coupled Optimization Geometry](../../conferences/icml-2026/cards/3301-3400.md#min26a-data-strategies) · 中文
 - [GEM: Geometric Entropy Mixing for Optimal LLM Data Curation](../../conferences/icml-2026/cards/3301-3400.md#min26e-data-strategies) · 中文
+- [Spurious Correlation Learning in Preference Optimization: Mechanisms, Consequences, and Mitigation via Tie Training](../../conferences/icml-2026/cards/3301-3400.md#moya26a-data-strategies) · 中文
+- [TRIM: Token-wise Attention-Derived Saliency for Data-Efficient Instruction Tuning](../../conferences/icml-2026/cards/3301-3400.md#nagaraj26a-data-strategies) · 中文
+- [Removing Noise, not Finding Gold: Quality Filtering for Large-Scale Pretraining](../../conferences/icml-2026/cards/3401-3500.md#nait-saada26a-data-strategies) · 中文
+- [Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data](../../conferences/icml-2026/cards/3401-3500.md#nam26b-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -144,6 +148,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code](../../conferences/icml-2026/cards/2701-2800.md#lin26c-data-strategies) · 中文
 - [TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../../conferences/icml-2026/cards/2801-2900.md#liu26ag-data-strategies) · 中文
 - [TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](../../conferences/icml-2026/cards/3201-3300.md#mao26f-data-strategies) · 中文
+- [Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../../conferences/icml-2026/cards/3401-3500.md#naharas26a-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -57,6 +57,8 @@
 - <a id="ma26e-architecture"></a>[Convolutional Learnable-Group Weightless Neural Network](../conferences/icml-2026/cards/3101-3200.md#paper-ma26e)
 - <a id="mohseni26a-architecture"></a>[Revisiting Neural Processes via Fourier Transform and Volterra Series](../conferences/icml-2026/cards/3301-3400.md#paper-mohseni26a)
 - <a id="mortimer26a-architecture"></a>[Incremental Transformer Neural Processes](../conferences/icml-2026/cards/3301-3400.md#paper-mortimer26a)
+- <a id="mueller26a-architecture"></a>[Cascaded Flow Matching for Heterogeneous Tabular Data with Mixed-Type Features](../conferences/icml-2026/cards/3301-3400.md#paper-mueller26a)
+- <a id="murad26a-architecture"></a>[Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series](../conferences/icml-2026/cards/3301-3400.md#paper-murad26a)
 
 <a id="by-modules"></a>
 
@@ -100,6 +102,8 @@
 - <a id="liu26fs-modules"></a>[Krause Synchronization Transformers](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fs)
 - <a id="minoza26a-modules"></a>[UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra](../conferences/icml-2026/cards/3301-3400.md#paper-minoza26a)
 - <a id="mogilevsky26a-modules"></a>[d$^2$p: Structured Soft Attention Is All You Need](../conferences/icml-2026/cards/3301-3400.md#paper-mogilevsky26a)
+- <a id="nguyen26e-modules"></a>[Batch Normalization for Neural Networks on Complex Domains](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26e)
+- <a id="nguyen26t-modules"></a>[MuonSSM: Orthogonalizing State Space Models for Sequence Modeling](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26t)
 
 <a id="by-loss-functions"></a>
 
@@ -129,6 +133,7 @@
 - <a id="liu26g-loss-functions"></a>[When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer](../conferences/icml-2026/cards/2701-2800.md#paper-liu26g)
 - <a id="lu26an-loss-functions"></a>[Divisiveness-Consistent Label Distribution Learning](../conferences/icml-2026/cards/3001-3100.md#paper-lu26an)
 - <a id="mohri26d-loss-functions"></a>[Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../conferences/icml-2026/cards/3301-3400.md#paper-mohri26d)
+- <a id="ni26b-loss-functions"></a>[Possibilistic Predictive Uncertainty for Deep Learning](../conferences/icml-2026/cards/3401-3500.md#paper-ni26b)
 
 <a id="by-optimization"></a>
 
@@ -315,6 +320,10 @@
 - <a id="messaoud26a-optimization"></a>[Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities](../conferences/icml-2026/cards/3201-3300.md#paper-messaoud26a)
 - <a id="modoranu26a-optimization"></a>[DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers](../conferences/icml-2026/cards/3301-3400.md#paper-modoranu26a)
 - <a id="morrill26a-optimization"></a>[Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks](../conferences/icml-2026/cards/3301-3400.md#paper-morrill26a)
+- <a id="na26a-optimization"></a>[ITSPACE: Monotone Gaussian Optimal Transport Updates](../conferences/icml-2026/cards/3301-3400.md#paper-na26a)
+- <a id="naganuma26a-optimization"></a>[Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent](../conferences/icml-2026/cards/3301-3400.md#paper-naganuma26a)
+- <a id="nam26a-optimization"></a>[FOAM: Frequency and Operator-Error Based Adaptive Damping Method for Reducing Staleness-Oriented Error for Shampoo](../conferences/icml-2026/cards/3401-3500.md#paper-nam26a)
+- <a id="nguyen26k-optimization"></a>[Accelerated Multiple Wasserstein Gradient Flows for Multi-objective Distributional Optimization](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26k)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -382,6 +391,7 @@
 - <a id="ma26ab-training-strategies"></a>[Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ab)
 - <a id="ma26ae-training-strategies"></a>[No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ae)
 - <a id="morshed26a-training-strategies"></a>[Compositional Generative Modeling from Decentralized Data](../conferences/icml-2026/cards/3301-3400.md#paper-morshed26a)
+- <a id="na26b-training-strategies"></a>[Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models](../conferences/icml-2026/cards/3301-3400.md#paper-na26b)
 
 <a id="by-data-strategies"></a>
 
@@ -444,6 +454,7 @@
 - <a id="lv26g-inference"></a>[When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach](../conferences/icml-2026/cards/3101-3200.md#paper-lv26g)
 - <a id="lydike26a-inference"></a>[Faster Activation Functions at the Edge for Post-Training Speedups](../conferences/icml-2026/cards/3101-3200.md#paper-lydike26a)
 - <a id="morelli26a-inference"></a>[Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../conferences/icml-2026/cards/3301-3400.md#paper-morelli26a)
+- <a id="nguyen26u-inference"></a>[Reviving Error Correction in Modern Deep Time-Series Forecasting](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26u)
 
 <a id="by-representation-learning"></a>
 
@@ -489,6 +500,9 @@
 - <a id="makinen26a-representation-learning"></a>[Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings](../conferences/icml-2026/cards/3101-3200.md#paper-makinen26a)
 - <a id="mao26c-representation-learning"></a>[Identifying Learnwares via Reduced Neural Conditional Mean Embedding](../conferences/icml-2026/cards/3201-3300.md#paper-mao26c)
 - <a id="meunier26a-representation-learning"></a>[Outcome-Aware Spectral Feature Learning for Instrumental Variable Regression](../conferences/icml-2026/cards/3201-3300.md#paper-meunier26a)
+- <a id="nelson26a-representation-learning"></a>[Toward Identifiable Sparse Autoencoders](../conferences/icml-2026/cards/3401-3500.md#paper-nelson26a)
+- <a id="nguyen26d-representation-learning"></a>[Tuning-Free One-Class Discriminant Learning for Tabular Anomaly Detection](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26d)
+- <a id="nguyen26j-representation-learning"></a>[Causal-aware Anomaly Detection for Tabular Data](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26j)
 
 <a id="by-evaluation"></a>
 
@@ -872,4 +886,11 @@
 - <a id="min26d-theory-statistics"></a>[Stable Localized Conformal Prediction via Transduction](../conferences/icml-2026/cards/3301-3400.md#paper-min26d)
 - <a id="miyagawa26a-theory-statistics"></a>[Accurate Evaluation of Quickest Changepoint Detectors via Non-parametric Survival Analysis](../conferences/icml-2026/cards/3301-3400.md#paper-miyagawa26a)
 - <a id="monzio-compagnoni26a-theory-statistics"></a>[On the Interaction of Batch Noise, Adaptivity, and Compression, under $(L_0,L_1)$-Smoothness: An SDE Approach](../conferences/icml-2026/cards/3301-3400.md#paper-monzio-compagnoni26a)
+- <a id="mu26a-theory-statistics"></a>[On the Convergence Rate of LoRA Gradient Descent](../conferences/icml-2026/cards/3301-3400.md#paper-mu26a)
+- <a id="mundra26a-theory-statistics"></a>[LAPRAS : Learning-Augmented PRivate Answering for linear query Streams.](../conferences/icml-2026/cards/3301-3400.md#paper-mundra26a)
+- <a id="munteanu26a-theory-statistics"></a>[Terminal Dimension Reduction for Time Series with Applications](../conferences/icml-2026/cards/3301-3400.md#paper-munteanu26a)
+- <a id="nehzati26a-theory-statistics"></a>[Universal Representation of Generalized Convex Functions and their Gradients](../conferences/icml-2026/cards/3401-3500.md#paper-nehzati26a)
+- <a id="neoh26a-theory-statistics"></a>[Online Fair Division with Additional Information](../conferences/icml-2026/cards/3401-3500.md#paper-neoh26a)
+- <a id="ng26a-theory-statistics"></a>[TabMGP: Martingale Posterior with TabPFN](../conferences/icml-2026/cards/3401-3500.md#paper-ng26a)
+- <a id="nguyen26o-theory-statistics"></a>[Streaming Sliced Optimal Transport](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26o)
 <!-- classification:end -->

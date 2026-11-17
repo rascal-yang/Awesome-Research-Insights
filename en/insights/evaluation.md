@@ -256,6 +256,12 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Causal Detection of Multi-Step LLM Agent Attacks](../../conferences/icml-2026/cards/3301-3400.md#mothukuri26a-evaluation) · 中文
 - [LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/3301-3400.md#motwani26a-evaluation) · 中文
 - [SpatialJB: How Text Distribution Art Becomes The "Jailbreak Key" for LLM Guardrails](../../conferences/icml-2026/cards/3301-3400.md#mou26a-evaluation) · 中文
+- [Less Diverse, Less Safe: The Indirect But Pervasive Risk of Test-Time Scaling in Large Language Models](../../conferences/icml-2026/cards/3401-3500.md#nahin26a-evaluation) · 中文
+- [The Invisible Lottery: How Subtle Cues Steer Algorithm Choice in LLM Code Generation](../../conferences/icml-2026/cards/3401-3500.md#narula26a-evaluation) · 中文
+- [Telescope: Improving Zero Shot Detection of LLM Generated Content By Measuring Token Repetition Probability](../../conferences/icml-2026/cards/3401-3500.md#nassif26a-evaluation) · 中文
+- [One Probe Won’t Catch Them All: Towards Targeted Deception Detection](../../conferences/icml-2026/cards/3401-3500.md#natarajan26a-evaluation) · 中文
+- [A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn’t)](../../conferences/icml-2026/cards/3401-3500.md#nayak26a-evaluation) · 中文
+- [What LLMs Explain Is Not What They Believe: Evaluating Explanation Sufficiency Under Models’ Own Input Beliefs](../../conferences/icml-2026/cards/3401-3500.md#nguyen26n-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -305,6 +311,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing](../../conferences/icml-2026/cards/3001-3100.md#luo26ak-evaluation) · 中文
 - [Low-Compute Watermark Removal via Dual-Domain Natural Projection](../../conferences/icml-2026/cards/3201-3300.md#meshram26a-evaluation) · 中文
 - [IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension](../../conferences/icml-2026/cards/3301-3400.md#mordacq26a-evaluation) · 中文
+- [GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning](../../conferences/icml-2026/cards/3301-3400.md#murata26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -502,6 +509,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions](../../conferences/icml-2026/cards/1501-1600.md#heidari26a-evaluation) · 中文
 - [Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](../../conferences/icml-2026/cards/2201-2300.md#lagesse26a-evaluation) · 中文
 - [Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](../../conferences/icml-2026/cards/2901-3000.md#liu26gd-evaluation) · 中文
+- [BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26a-evaluation) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -540,4 +548,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · 中文
 - [MADE: Benchmark Environments for Closed-Loop Materials Discovery](../../conferences/icml-2026/cards/3101-3200.md#malik26a-evaluation) · 中文
 - [Probing the Geometry of Diffusion Models with the String Method](../../conferences/icml-2026/cards/3301-3400.md#moreau26a-evaluation) · 中文
+- [Scaling Laws and Architectural Frontiers in Metagenomic Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#munsamy26a-evaluation) · 中文
+- [Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control](../../conferences/icml-2026/cards/3301-3400.md#naagarajan26a-evaluation) · 中文
 <!-- classification:end -->

@@ -39,6 +39,7 @@
 - [偏好优化的对比互信息](../conferences/icml-2026/cards/3101-3200.md#lv26a-loss-functions) · The Hidden Link between RLHF and Contrastive Learning
 - [把比较器的平局纳入偏好学习](../conferences/icml-2026/cards/3101-3200.md#lv26l-loss-functions) · When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning
 - [语义自适应偏好间隔](../conferences/icml-2026/cards/3301-3400.md#mohri26e-loss-functions) · Mind the Gap: Structure-Aware Consistency in Preference Learning
+- [为每个前缀匹配偏好密度比](../conferences/icml-2026/cards/3401-3500.md#nguyen26l-loss-functions) · TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching
 
 <a id="by-computer-vision"></a>
 
@@ -150,6 +151,7 @@
 - [用逐样本正确性约束候选专家的训练竞争](../conferences/icml-2026/cards/2701-2800.md#liu26g-loss-functions) · When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer
 - [以成对监督保存语义相反标签的分歧度](../conferences/icml-2026/cards/3001-3100.md#lu26an-loss-functions) · Divisiveness-Consistent Label Distribution Learning
 - [线性内核一致损失](../conferences/icml-2026/cards/3301-3400.md#mohri26d-loss-functions) · Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction
+- [用可能性上确界估计认知不确定性](../conferences/icml-2026/cards/3401-3500.md#ni26b-loss-functions) · Possibilistic Predictive Uncertainty for Deep Learning
 
 <a id="by-graph-and-recommendation"></a>
 

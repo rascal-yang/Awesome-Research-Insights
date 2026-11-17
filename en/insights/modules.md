@@ -7,7 +7,7 @@ Reusable components and local changes to model inputs or connections.
 <!-- classification:start -->
 ## Browse by Research Domain
 
-[Large Language Models](#by-llm) · [Computer Vision](#by-computer-vision) · [Natural Language Processing](#by-nlp) · [Robotics](#by-robotics) · [Multimodal Learning](#by-multimodal) · [Machine Learning Foundations and Statistics](#by-ml-foundations) · [Graph Learning and Recommendation](#by-graph-and-recommendation) · [Scientific Machine Learning](#by-scientific-ml)
+[Large Language Models](#by-llm) · [Computer Vision](#by-computer-vision) · [Natural Language Processing](#by-nlp) · [Reinforcement Learning](#by-reinforcement-learning) · [Robotics](#by-robotics) · [Multimodal Learning](#by-multimodal) · [Machine Learning Foundations and Statistics](#by-ml-foundations) · [Graph Learning and Recommendation](#by-graph-and-recommendation) · [Scientific Machine Learning](#by-scientific-ml)
 
 <a id="by-llm"></a>
 
@@ -92,6 +92,12 @@ Reusable components and local changes to model inputs or connections.
 - [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](../../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · 中文
 - [Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages](../../conferences/icml-2026/cards/2601-2700.md#li26jh-modules) · 中文
 
+<a id="by-reinforcement-learning"></a>
+
+### Reinforcement Learning
+
+- [Accelerating Q-learning through Efficient Value-Sharing across Actions](../../conferences/icml-2026/cards/3301-3400.md#nagarajan26a-modules) · 中文
+
 <a id="by-robotics"></a>
 
 ### Robotics
@@ -167,6 +173,8 @@ Reusable components and local changes to model inputs or connections.
 - [Krause Synchronization Transformers](../../conferences/icml-2026/cards/2901-3000.md#liu26fs-modules) · 中文
 - [UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra](../../conferences/icml-2026/cards/3301-3400.md#minoza26a-modules) · 中文
 - [d$^2$p: Structured Soft Attention Is All You Need](../../conferences/icml-2026/cards/3301-3400.md#mogilevsky26a-modules) · 中文
+- [Batch Normalization for Neural Networks on Complex Domains](../../conferences/icml-2026/cards/3401-3500.md#nguyen26e-modules) · 中文
+- [MuonSSM: Orthogonalizing State Space Models for Sequence Modeling](../../conferences/icml-2026/cards/3401-3500.md#nguyen26t-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

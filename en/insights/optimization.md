@@ -82,6 +82,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](../../conferences/icml-2026/cards/3101-3200.md#ma26f-optimization) · 中文
 - [Distributionally Robust Reinforcement Learning from Human Feedback](../../conferences/icml-2026/cards/3201-3300.md#mandal26a-optimization) · 中文
 - [Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection](../../conferences/icml-2026/cards/3301-3400.md#monteiro26a-optimization) · 中文
+- [Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26c-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -110,6 +111,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FairMerging: Rethinking Model Merging through the Lens of Fairness](../../conferences/icml-2026/cards/2801-2900.md#liu26dl-optimization) · 中文
 - [Condition Number Based Low-Bit Quantization for Image Super-Resolution](../../conferences/icml-2026/cards/2901-3000.md#liu26eh-optimization) · 中文
 - [SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization](../../conferences/icml-2026/cards/3101-3200.md#lv26j-optimization) · 中文
+- [CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization](../../conferences/icml-2026/cards/3401-3500.md#nehme26a-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -328,6 +330,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities](../../conferences/icml-2026/cards/3201-3300.md#messaoud26a-optimization) · 中文
 - [DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers](../../conferences/icml-2026/cards/3301-3400.md#modoranu26a-optimization) · 中文
 - [Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#morrill26a-optimization) · 中文
+- [ITSPACE: Monotone Gaussian Optimal Transport Updates](../../conferences/icml-2026/cards/3301-3400.md#na26a-optimization) · 中文
+- [Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent](../../conferences/icml-2026/cards/3301-3400.md#naganuma26a-optimization) · 中文
+- [FOAM: Frequency and Operator-Error Based Adaptive Damping Method for Reducing Staleness-Oriented Error for Shampoo](../../conferences/icml-2026/cards/3401-3500.md#nam26a-optimization) · 中文
+- [Accelerated Multiple Wasserstein Gradient Flows for Multi-objective Distributional Optimization](../../conferences/icml-2026/cards/3401-3500.md#nguyen26k-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -382,4 +388,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · 中文
 - [From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · 中文
 - [Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · 中文
+- [PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry](../../conferences/icml-2026/cards/3301-3400.md#mozejko26a-optimization) · 中文
 <!-- classification:end -->

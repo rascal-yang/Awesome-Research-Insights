@@ -156,6 +156,7 @@
 - <a id="liu26dl-optimization"></a>[FairMerging: Rethinking Model Merging through the Lens of Fairness](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dl)
 - <a id="liu26eh-optimization"></a>[Condition Number Based Low-Bit Quantization for Image Super-Resolution](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eh)
 - <a id="lv26j-optimization"></a>[SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization](../conferences/icml-2026/cards/3101-3200.md#paper-lv26j)
+- <a id="nehme26a-optimization"></a>[CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization](../conferences/icml-2026/cards/3401-3500.md#paper-nehme26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -227,6 +228,7 @@
 - <a id="ma26n-training-strategies"></a>[Domain Adaptive Object Detection via Dynamic Causal Refinement](../conferences/icml-2026/cards/3101-3200.md#paper-ma26n)
 - <a id="ma26u-training-strategies"></a>[FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](../conferences/icml-2026/cards/3101-3200.md#paper-ma26u)
 - <a id="ma26aq-training-strategies"></a>[Learning Generalized Trackers with Elastic Token Budgets](../conferences/icml-2026/cards/3101-3200.md#paper-ma26aq)
+- <a id="mu26c-training-strategies"></a>[Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer](../conferences/icml-2026/cards/3301-3400.md#paper-mu26c)
 
 <a id="by-data-strategies"></a>
 
@@ -335,6 +337,7 @@
 - <a id="meng26h-inference"></a>[WhisperSplat: Lossless Steganography in 3D Gaussian Splatting](../conferences/icml-2026/cards/3201-3300.md#paper-meng26h)
 - <a id="moon26b-inference"></a>[ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT](../conferences/icml-2026/cards/3301-3400.md#paper-moon26b)
 - <a id="moreira26a-inference"></a>[Spectral Guidance for Flexible and Efficient Control of Diffusion Models](../conferences/icml-2026/cards/3301-3400.md#paper-moreira26a)
+- <a id="nguyen26q-inference"></a>[Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26q)
 
 <a id="by-representation-learning"></a>
 
@@ -431,6 +434,7 @@
 - <a id="luo26ak-evaluation"></a>[MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing](../conferences/icml-2026/cards/3001-3100.md#paper-luo26ak)
 - <a id="meshram26a-evaluation"></a>[Low-Compute Watermark Removal via Dual-Domain Natural Projection](../conferences/icml-2026/cards/3201-3300.md#paper-meshram26a)
 - <a id="mordacq26a-evaluation"></a>[IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension](../conferences/icml-2026/cards/3301-3400.md#paper-mordacq26a)
+- <a id="murata26a-evaluation"></a>[GUDA: Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning](../conferences/icml-2026/cards/3301-3400.md#paper-murata26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -439,4 +443,5 @@
 - <a id="bradley26a-theory-statistics"></a>[Local Mechanisms of Compositional Generalization in Conditional Diffusion](../conferences/icml-2026/cards/0301-0400.md#paper-bradley26a)
 - <a id="brady26b-theory-statistics"></a>[Is Generation Required for Data-Efficient Perception?](../conferences/icml-2026/cards/0301-0400.md#paper-brady26b)
 - <a id="lyu26g-theory-statistics"></a>[On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26g)
+- <a id="nguyen26c-theory-statistics"></a>[An analytic theory of convolutional neural network inverse problems solvers](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26c)
 <!-- classification:end -->

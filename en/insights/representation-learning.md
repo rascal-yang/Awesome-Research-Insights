@@ -112,6 +112,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask](../../conferences/icml-2026/cards/2901-3000.md#lou26a-representation-learning) · 中文
 - [General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling](../../conferences/icml-2026/cards/3101-3200.md#lyu26a-representation-learning) · 中文
 - [LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment](../../conferences/icml-2026/cards/3101-3200.md#lyu26b-representation-learning) · 中文
+- [Causal-JEPA: Learning World Models through Object-Level Latent Masking](../../conferences/icml-2026/cards/3401-3500.md#nam26c-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -152,6 +153,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [PHALAR: Phasors for Learned Musical Audio Representations](../../conferences/icml-2026/cards/3201-3300.md#marincione26a-representation-learning) · 中文
 - [Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](../../conferences/icml-2026/cards/3201-3300.md#mendez26a-representation-learning) · 中文
 - [Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models](../../conferences/icml-2026/cards/3301-3400.md#mishra26b-representation-learning) · 中文
+- [UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations](../../conferences/icml-2026/cards/3301-3400.md#muhlematter26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -197,6 +199,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings](../../conferences/icml-2026/cards/3101-3200.md#makinen26a-representation-learning) · 中文
 - [Identifying Learnwares via Reduced Neural Conditional Mean Embedding](../../conferences/icml-2026/cards/3201-3300.md#mao26c-representation-learning) · 中文
 - [Outcome-Aware Spectral Feature Learning for Instrumental Variable Regression](../../conferences/icml-2026/cards/3201-3300.md#meunier26a-representation-learning) · 中文
+- [Toward Identifiable Sparse Autoencoders](../../conferences/icml-2026/cards/3401-3500.md#nelson26a-representation-learning) · 中文
+- [Tuning-Free One-Class Discriminant Learning for Tabular Anomaly Detection](../../conferences/icml-2026/cards/3401-3500.md#nguyen26d-representation-learning) · 中文
+- [Causal-aware Anomaly Detection for Tabular Data](../../conferences/icml-2026/cards/3401-3500.md#nguyen26j-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -229,6 +234,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26aj-representation-learning) · 中文
 - [SWING: Unlocking Implicit Graph Representations for Graph Random Features](../../conferences/icml-2026/cards/3201-3300.md#manenti26b-representation-learning) · 中文
 - [Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning](../../conferences/icml-2026/cards/3301-3400.md#mishra26c-representation-learning) · 中文
+- [Aitchison Embeddings for Learning Compositional Graph Representations](../../conferences/icml-2026/cards/3401-3500.md#nakis26a-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -283,4 +289,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment](../../conferences/icml-2026/cards/3201-3300.md#mao26h-representation-learning) · 中文
 - [BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models](../../conferences/icml-2026/cards/3201-3300.md#medvedev26b-representation-learning) · 中文
 - [How Should Transformers Encode Numeric Values in Electronic Health Records?](../../conferences/icml-2026/cards/3301-3400.md#montgomery26a-representation-learning) · 中文
+- [Multi-Integration of Labels Across Categories for Component Identification in Multi-trial Time Series](../../conferences/icml-2026/cards/3301-3400.md#mudrik26a-representation-learning) · 中文
+- [Interpreting Genomic Language Models using Sparse Autoencoders](../../conferences/icml-2026/cards/3401-3500.md#nair26a-representation-learning) · 中文
+- [LAMP: Data-Efficient Linear Affine Weight-Space Models for Parameter-Controlled 3D Shape Generation and Extrapolation](../../conferences/icml-2026/cards/3401-3500.md#nehme26b-representation-learning) · 中文
 <!-- classification:end -->

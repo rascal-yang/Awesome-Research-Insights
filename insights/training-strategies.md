@@ -105,6 +105,9 @@
 - [用非均匀质心做极低位宽量化训练](../conferences/icml-2026/cards/3201-3300.md#maskey26a-training-strategies) · 1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization
 - [专家推理自蒸馏](../conferences/icml-2026/cards/3201-3300.md#mendes26b-training-strategies) · Making Expert Reasoning Learnable with Self-Distillation
 - [同伴成功轨迹的交叉教学](../conferences/icml-2026/cards/3301-3400.md#mishra26a-training-strategies) · CoRe: Collaborative Reasoning via Cross Teaching
+- [用回报重要性权重把多轮 RL 转为离线微调](../conferences/icml-2026/cards/3301-3400.md#mu26b-training-strategies) · DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization
+- [用交互稀疏度解释并改善深层 LLM 利用率](../conferences/icml-2026/cards/3301-3400.md#muhtar26a-training-strategies) · When Does Sparsity Mitigate the Curse of Depth in LLMs
+- [从小模型微调更新生成大模型更新](../conferences/icml-2026/cards/3401-3500.md#nguyen26r-training-strategies) · Gradient Transformer: Learning to Generate Updates for LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -159,6 +162,7 @@
 - [以预测不一致驱动频谱扰动抑制跨域检测捷径](../conferences/icml-2026/cards/3101-3200.md#ma26n-training-strategies) · Domain Adaptive Object Detection via Dynamic Causal Refinement
 - [用对抗模仿降低流式生成器与示范轨迹分布差](../conferences/icml-2026/cards/3101-3200.md#ma26u-training-strategies) · FAIL: Flow Matching Adversarial Imitation Learning for Image Generation
 - [弹性追踪 token 预算](../conferences/icml-2026/cards/3101-3200.md#ma26aq-training-strategies) · Learning Generalized Trackers with Elastic Token Budgets
+- [在联邦训练中交换类流形而非单点原型](../conferences/icml-2026/cards/3301-3400.md#mu26c-training-strategies) · Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer
 
 <a id="by-nlp"></a>
 
@@ -196,6 +200,7 @@
 - [先让动作符合骨干接口再学连续执行](../conferences/icml-2026/cards/2801-2900.md#liu26bx-training-strategies) · RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization
 - [用大规模人手视频预训练可转移的动作指令模型](../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · Vision-Language-Action Pretraining from Large-Scale Human Videos
 - [用后继观察降低少标注动作学习难度](../conferences/icml-2026/cards/3301-3400.md#morin26a-training-strategies) · On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning
+- [用未来交互表示微调少示范策略](../conferences/icml-2026/cards/3401-3500.md#nguyen26b-training-strategies) · FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation
 
 <a id="by-multimodal"></a>
 
@@ -237,6 +242,8 @@
 - [客户端和服务器分别训练图像与文本编码器](../conferences/icml-2026/cards/3101-3200.md#ma26h-training-strategies) · Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning
 - [按输入与输出 token 动态缓解视觉语言微调的长尾偏差](../conferences/icml-2026/cards/3201-3300.md#miao26c-training-strategies) · Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning
 - [三维关系推理蒸馏](../conferences/icml-2026/cards/3301-3400.md#mo26c-training-strategies) · Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs
+- [用预期问答效用路由并汇总持续 VQA 专家](../conferences/icml-2026/cards/3301-3400.md#mozaffari26a-training-strategies) · Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA
+- [文档定位推理验证](../conferences/icml-2026/cards/3401-3500.md#neogi26a-training-strategies) · DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA
 
 <a id="by-ml-foundations"></a>
 
@@ -297,6 +304,7 @@
 - [联邦子模型按平台期逐步恢复容量](../conferences/icml-2026/cards/3101-3200.md#ma26ab-training-strategies) · Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration
 - [一次联邦训练支持多预算量化](../conferences/icml-2026/cards/3101-3200.md#ma26ae-training-strategies) · No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning
 - [跨数据孤岛组合生成因素](../conferences/icml-2026/cards/3301-3400.md#morshed26a-training-strategies) · Compositional Generative Modeling from Decentralized Data
+- [按谱熵与跨通道依赖适配时间序列模型](../conferences/icml-2026/cards/3301-3400.md#na26b-training-strategies) · Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -311,6 +319,7 @@
 - [从全局模型和本地图邻居两侧找噪声标签](../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · FedRGL: Robust Federated Graph Learning under Label Noise
 - [以对比聚类进行路段到车道迁移](../conferences/icml-2026/cards/2601-2700.md#li26ih-training-strategies) · Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task
 - [各客户端保留曲率并共享类空更新](../conferences/icml-2026/cards/2701-2800.md#liu26b-training-strategies) · FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space
+- [图节点特征置换剪枝](../conferences/icml-2026/cards/3401-3500.md#navarro26a-training-strategies) · Adaptive Node Feature Selection for Graph Neural Networks
 
 <a id="by-scientific-ml"></a>
 
@@ -341,4 +350,6 @@
 - [为多任务健康模型组合共享和条件适配](../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home
 - [无线信号扩散中的可学习物理信道](../conferences/icml-2026/cards/2901-3000.md#liu26em-training-strategies) · From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding
 - [用亚群原型路由联邦专家](../conferences/icml-2026/cards/3201-3300.md#meng26c-training-strategies) · Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis
+- [在晶体潜空间上预训练扩散性质编码器](../conferences/icml-2026/cards/3301-3400.md#mukherjee26b-training-strategies) · Latent Diffusion Pretraining for Crystal Property Prediction
+- [按通道构建时序后门防御的可信池](../conferences/icml-2026/cards/3401-3500.md#nguyen26g-training-strategies) · TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting
 <!-- classification:end -->

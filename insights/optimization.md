@@ -82,6 +82,7 @@
 - [用持续梯度白化保护顺序编辑中的旧知识](../conferences/icml-2026/cards/3101-3200.md#ma26f-optimization) · More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing
 - [在分布邻域内稳健优化偏好](../conferences/icml-2026/cards/3201-3300.md#mandal26a-optimization) · Distributionally Robust Reinforcement Learning from Human Feedback
 - [多目标微调调度](../conferences/icml-2026/cards/3301-3400.md#monteiro26a-optimization) · Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection
+- [在可验证奖励强化学习中用无状态 SGD 替换 AdamW](../conferences/icml-2026/cards/3301-3400.md#mukherjee26c-optimization) · Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -110,6 +111,7 @@
 - [在任务向量合并前降低目标子群敏感性](../conferences/icml-2026/cards/2801-2900.md#liu26dl-optimization) · FairMerging: Rethinking Model Merging through the Lens of Fairness
 - [用权重条件数降低低比特激活误差](../conferences/icml-2026/cards/2901-3000.md#liu26eh-optimization) · Condition Number Based Low-Bit Quantization for Image Super-Resolution
 - [沿预测敏感方向补偿量化误差](../conferences/icml-2026/cards/3101-3200.md#lv26j-optimization) · SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization
+- [残差网格反解 CAD](../conferences/icml-2026/cards/3401-3500.md#nehme26a-optimization) · CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization
 
 <a id="by-nlp"></a>
 
@@ -328,6 +330,10 @@
 - [先保证粒子更新可逆再估计熵](../conferences/icml-2026/cards/3201-3300.md#messaoud26a-optimization) · Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities
 - [预条件器批求逆根](../conferences/icml-2026/cards/3301-3400.md#modoranu26a-optimization) · DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers
 - [硬重置脉冲网络的分块并行](../conferences/icml-2026/cards/3301-3400.md#morrill26a-optimization) · Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks
+- [Bures–Wasserstein 的低秩单调协方差迭代](../conferences/icml-2026/cards/3301-3400.md#na26a-optimization) · ITSPACE: Monotone Gaussian Optimal Transport Updates
+- [用优化器对偶范数调批大小](../conferences/icml-2026/cards/3301-3400.md#naganuma26a-optimization) · Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent
+- [陈旧预条件器阻尼](../conferences/icml-2026/cards/3401-3500.md#nam26a-optimization) · FOAM: Frequency and Operator-Error Based Adaptive Damping Method for Reducing Staleness-Oriented Error for Shampoo
+- [给多目标分布下降加入 Wasserstein 动量](../conferences/icml-2026/cards/3401-3500.md#nguyen26k-optimization) · Accelerated Multiple Wasserstein Gradient Flows for Multi-objective Distributional Optimization
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -382,4 +388,5 @@
 - [按树突结构调度 GPU 仿真并推导梯度](../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks
 - [用不变密度的测地结构补足稀疏随机轨迹](../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints
 - [芯片宏布局排序](../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution
+- [沿解码器诱导的流形搜索抗菌肽](../conferences/icml-2026/cards/3301-3400.md#mozejko26a-optimization) · PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry
 <!-- classification:end -->

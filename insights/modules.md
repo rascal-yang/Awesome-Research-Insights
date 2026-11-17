@@ -7,7 +7,7 @@
 <!-- classification:start -->
 ## 按研究领域浏览
 
-[大语言模型](#by-llm) · [计算机视觉](#by-computer-vision) · [自然语言处理](#by-nlp) · [机器人学](#by-robotics) · [多模态学习](#by-multimodal) · [机器学习基础与统计](#by-ml-foundations) · [图学习与推荐](#by-graph-and-recommendation) · [科学机器学习](#by-scientific-ml)
+[大语言模型](#by-llm) · [计算机视觉](#by-computer-vision) · [自然语言处理](#by-nlp) · [强化学习](#by-reinforcement-learning) · [机器人学](#by-robotics) · [多模态学习](#by-multimodal) · [机器学习基础与统计](#by-ml-foundations) · [图学习与推荐](#by-graph-and-recommendation) · [科学机器学习](#by-scientific-ml)
 
 <a id="by-llm"></a>
 
@@ -92,6 +92,12 @@
 - [Agent 词表适配](../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents
 - [把低资源语种锚到英语语义并用语言感知头融合](../conferences/icml-2026/cards/2601-2700.md#li26jh-modules) · Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages
 
+<a id="by-reinforcement-learning"></a>
+
+### 强化学习
+
+- [扩大动作值均值以共享 TD 信号](../conferences/icml-2026/cards/3301-3400.md#nagarajan26a-modules) · Accelerating Q-learning through Efficient Value-Sharing across Actions
+
 <a id="by-robotics"></a>
 
 ### 机器人学
@@ -167,6 +173,8 @@
 - [用局部距离置信限制注意力全局同步](../conferences/icml-2026/cards/2901-3000.md#liu26fs-modules) · Krause Synchronization Transformers
 - [脉冲神经元的超离散化](../conferences/icml-2026/cards/3301-3400.md#minoza26a-modules) · UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra
 - [结构注意力高阶求导](../conferences/icml-2026/cards/3301-3400.md#mogilevsky26a-modules) · d$^2$p: Structured Soft Attention Is All You Need
+- [在复域内部做几何批归一化](../conferences/icml-2026/cards/3401-3500.md#nguyen26e-modules) · Batch Normalization for Neural Networks on Complex Domains
+- [在状态注入端做动量和谱调节](../conferences/icml-2026/cards/3401-3500.md#nguyen26t-modules) · MuonSSM: Orthogonalizing State Space Models for Sequence Modeling
 
 <a id="by-graph-and-recommendation"></a>
 

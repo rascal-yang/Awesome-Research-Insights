@@ -101,6 +101,7 @@
 - <a id="liu26bx-training-strategies"></a>[RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bx)
 - <a id="luo26e-training-strategies"></a>[Vision-Language-Action Pretraining from Large-Scale Human Videos](../conferences/icml-2026/cards/3001-3100.md#paper-luo26e)
 - <a id="morin26a-training-strategies"></a>[On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../conferences/icml-2026/cards/3301-3400.md#paper-morin26a)
+- <a id="nguyen26b-training-strategies"></a>[FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26b)
 
 <a id="by-data-strategies"></a>
 
@@ -148,6 +149,7 @@
 - <a id="liang26l-inference"></a>[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](../conferences/icml-2026/cards/2601-2700.md#paper-liang26l)
 - <a id="liu26fo-inference"></a>[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fo)
 - <a id="luo26ab-inference"></a>[STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics–Physics Dual System](../conferences/icml-2026/cards/3001-3100.md#paper-luo26ab)
+- <a id="nandiraju26a-inference"></a>[HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](../conferences/icml-2026/cards/3401-3500.md#paper-nandiraju26a)
 
 <a id="by-representation-learning"></a>
 
@@ -163,6 +165,7 @@
 - <a id="lou26a-representation-learning"></a>[Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask](../conferences/icml-2026/cards/2901-3000.md#paper-lou26a)
 - <a id="lyu26a-representation-learning"></a>[General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26a)
 - <a id="lyu26b-representation-learning"></a>[LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26b)
+- <a id="nam26c-representation-learning"></a>[Causal-JEPA: Learning World Models through Object-Level Latent Masking](../conferences/icml-2026/cards/3401-3500.md#paper-nam26c)
 
 <a id="by-evaluation"></a>
 

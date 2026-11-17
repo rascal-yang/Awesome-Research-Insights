@@ -54,6 +54,7 @@
 - [用结构化技能和非参数 PPO 门升级代理记忆](../conferences/icml-2026/cards/3201-3300.md#mi26d-architecture) · Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents
 - [跨词元高层反馈](../conferences/icml-2026/cards/3301-3400.md#mohan26b-architecture) · Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers
 - [有限自动机状态注入](../conferences/icml-2026/cards/3301-3400.md#mohri26a-architecture) · Rational Transductors
+- [把栈操作写成可并行的递归更新](../conferences/icml-2026/cards/3401-3500.md#nguyen26i-architecture) · Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule
 
 <a id="by-computer-vision"></a>
 
@@ -240,6 +241,8 @@
 - [用 LUT 卷积与可学习分组连接构造无权重神经网络](../conferences/icml-2026/cards/3101-3200.md#ma26e-architecture) · Convolutional Learnable-Group Weightless Neural Network
 - [不规则点集傅里叶卷积](../conferences/icml-2026/cards/3301-3400.md#mohseni26a-architecture) · Revisiting Neural Processes via Fourier Transform and Volterra Series
 - [流式神经过程的因果缓存](../conferences/icml-2026/cards/3301-3400.md#mortimer26a-architecture) · Incremental Transformer Neural Processes
+- [先生成离散轮廓再细化混合类型表格](../conferences/icml-2026/cards/3301-3400.md#mueller26a-architecture) · Cascaded Flow Matching for Heterogeneous Tabular Data with Mixed-Type Features
+- [按通道簇建模并顺序累积时序异常证据](../conferences/icml-2026/cards/3301-3400.md#murad26a-architecture) · Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -351,4 +354,9 @@
 - [显式控制深层 PINN 的输入雅可比](../conferences/icml-2026/cards/3201-3300.md#meng26i-architecture) · Deep Coupling Learning for Solving PDEs
 - [按近端分裂连接物理与神经求解块](../conferences/icml-2026/cards/3201-3300.md#mezidi26a-architecture) · Proximal Splitting Methods for Hybrid Differentiable Models
 - [用对称耦合放大电池早期微弱退化差异](../conferences/icml-2026/cards/3201-3300.md#miao26d-architecture) · DITING: A Weak Degradation Listener for Battery Lifetime Early Prediction
+- [用多头稀疏位移近似 PDE 中的输运](../conferences/icml-2026/cards/3301-3400.md#muser26a-architecture) · Flowers: A Warp Drive for Neural PDE Solvers
+- [以可训练幂指数从物理约束恢复奇异性](../conferences/icml-2026/cards/3301-3400.md#n-guessan26a-architecture) · Discovering Scaling Exponents with Physics-Informed Müntz-Szász Networks
+- [WiFi 振幅和相位的双流状态空间建模](../conferences/icml-2026/cards/3301-3400.md#n-d-26a-architecture) · Interleaved Selective State Space Models for Efficient WiFi-Based 3D Multi-Person Pose Estimation
+- [同步稳定性景观](../conferences/icml-2026/cards/3401-3500.md#nauck26a-architecture) · Learning Dynamic Stability Landscapes in Synchronization Networks
+- [误差驱动网格增边](../conferences/icml-2026/cards/3401-3500.md#nguyen26a-architecture) · Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates
 <!-- classification:end -->

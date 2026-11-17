@@ -54,6 +54,7 @@ Model-wide design and information flow.
 - [Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents](../../conferences/icml-2026/cards/3201-3300.md#mi26d-architecture) · 中文
 - [Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers](../../conferences/icml-2026/cards/3301-3400.md#mohan26b-architecture) · 中文
 - [Rational Transductors](../../conferences/icml-2026/cards/3301-3400.md#mohri26a-architecture) · 中文
+- [Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule](../../conferences/icml-2026/cards/3401-3500.md#nguyen26i-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -240,6 +241,8 @@ Model-wide design and information flow.
 - [Convolutional Learnable-Group Weightless Neural Network](../../conferences/icml-2026/cards/3101-3200.md#ma26e-architecture) · 中文
 - [Revisiting Neural Processes via Fourier Transform and Volterra Series](../../conferences/icml-2026/cards/3301-3400.md#mohseni26a-architecture) · 中文
 - [Incremental Transformer Neural Processes](../../conferences/icml-2026/cards/3301-3400.md#mortimer26a-architecture) · 中文
+- [Cascaded Flow Matching for Heterogeneous Tabular Data with Mixed-Type Features](../../conferences/icml-2026/cards/3301-3400.md#mueller26a-architecture) · 中文
+- [Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series](../../conferences/icml-2026/cards/3301-3400.md#murad26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -351,4 +354,9 @@ Model-wide design and information flow.
 - [Deep Coupling Learning for Solving PDEs](../../conferences/icml-2026/cards/3201-3300.md#meng26i-architecture) · 中文
 - [Proximal Splitting Methods for Hybrid Differentiable Models](../../conferences/icml-2026/cards/3201-3300.md#mezidi26a-architecture) · 中文
 - [DITING: A Weak Degradation Listener for Battery Lifetime Early Prediction](../../conferences/icml-2026/cards/3201-3300.md#miao26d-architecture) · 中文
+- [Flowers: A Warp Drive for Neural PDE Solvers](../../conferences/icml-2026/cards/3301-3400.md#muser26a-architecture) · 中文
+- [Discovering Scaling Exponents with Physics-Informed Müntz-Szász Networks](../../conferences/icml-2026/cards/3301-3400.md#n-guessan26a-architecture) · 中文
+- [Interleaved Selective State Space Models for Efficient WiFi-Based 3D Multi-Person Pose Estimation](../../conferences/icml-2026/cards/3301-3400.md#n-d-26a-architecture) · 中文
+- [Learning Dynamic Stability Landscapes in Synchronization Networks](../../conferences/icml-2026/cards/3401-3500.md#nauck26a-architecture) · 中文
+- [Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates](../../conferences/icml-2026/cards/3401-3500.md#nguyen26a-architecture) · 中文
 <!-- classification:end -->

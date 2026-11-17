@@ -39,6 +39,7 @@ Objectives, auxiliary supervision, and regularization.
 - [The Hidden Link between RLHF and Contrastive Learning](../../conferences/icml-2026/cards/3101-3200.md#lv26a-loss-functions) · 中文
 - [When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning](../../conferences/icml-2026/cards/3101-3200.md#lv26l-loss-functions) · 中文
 - [Mind the Gap: Structure-Aware Consistency in Preference Learning](../../conferences/icml-2026/cards/3301-3400.md#mohri26e-loss-functions) · 中文
+- [TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](../../conferences/icml-2026/cards/3401-3500.md#nguyen26l-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -150,6 +151,7 @@ Objectives, auxiliary supervision, and regularization.
 - [When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer](../../conferences/icml-2026/cards/2701-2800.md#liu26g-loss-functions) · 中文
 - [Divisiveness-Consistent Label Distribution Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26an-loss-functions) · 中文
 - [Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../../conferences/icml-2026/cards/3301-3400.md#mohri26d-loss-functions) · 中文
+- [Possibilistic Predictive Uncertainty for Deep Learning](../../conferences/icml-2026/cards/3401-3500.md#ni26b-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

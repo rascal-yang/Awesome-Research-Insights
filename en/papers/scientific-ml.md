@@ -96,6 +96,11 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="meng26i-architecture"></a>[Deep Coupling Learning for Solving PDEs](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26i)
 - <a id="mezidi26a-architecture"></a>[Proximal Splitting Methods for Hybrid Differentiable Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mezidi26a)
 - <a id="miao26d-architecture"></a>[DITING: A Weak Degradation Listener for Battery Lifetime Early Prediction](../../conferences/icml-2026/cards/3201-3300.md#paper-miao26d)
+- <a id="muser26a-architecture"></a>[Flowers: A Warp Drive for Neural PDE Solvers](../../conferences/icml-2026/cards/3301-3400.md#paper-muser26a)
+- <a id="n-guessan26a-architecture"></a>[Discovering Scaling Exponents with Physics-Informed Müntz-Szász Networks](../../conferences/icml-2026/cards/3301-3400.md#paper-n-guessan26a)
+- <a id="n-d-26a-architecture"></a>[Interleaved Selective State Space Models for Efficient WiFi-Based 3D Multi-Person Pose Estimation](../../conferences/icml-2026/cards/3301-3400.md#paper-n-d-26a)
+- <a id="nauck26a-architecture"></a>[Learning Dynamic Stability Landscapes in Synchronization Networks](../../conferences/icml-2026/cards/3401-3500.md#paper-nauck26a)
+- <a id="nguyen26a-architecture"></a>[Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26a)
 
 <a id="by-modules"></a>
 
@@ -168,6 +173,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lu26ar-optimization"></a>[HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ar)
 - <a id="maoutsa26a-optimization"></a>[From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#paper-maoutsa26a)
 - <a id="mo26d-optimization"></a>[Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26d)
+- <a id="mozejko26a-optimization"></a>[PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry](../../conferences/icml-2026/cards/3301-3400.md#paper-mozejko26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -222,6 +228,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26br-training-strategies"></a>[DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26br)
 - <a id="liu26em-training-strategies"></a>[From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26em)
 - <a id="meng26c-training-strategies"></a>[Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26c)
+- <a id="mukherjee26b-training-strategies"></a>[Latent Diffusion Pretraining for Crystal Property Prediction](../../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26b)
+- <a id="nguyen26g-training-strategies"></a>[TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26g)
 
 <a id="by-data-strategies"></a>
 
@@ -324,6 +332,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="mao26h-representation-learning"></a>[SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26h)
 - <a id="medvedev26b-representation-learning"></a>[BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models](../../conferences/icml-2026/cards/3201-3300.md#paper-medvedev26b)
 - <a id="montgomery26a-representation-learning"></a>[How Should Transformers Encode Numeric Values in Electronic Health Records?](../../conferences/icml-2026/cards/3301-3400.md#paper-montgomery26a)
+- <a id="mudrik26a-representation-learning"></a>[Multi-Integration of Labels Across Categories for Component Identification in Multi-trial Time Series](../../conferences/icml-2026/cards/3301-3400.md#paper-mudrik26a)
+- <a id="nair26a-representation-learning"></a>[Interpreting Genomic Language Models using Sparse Autoencoders](../../conferences/icml-2026/cards/3401-3500.md#paper-nair26a)
+- <a id="nehme26b-representation-learning"></a>[LAMP: Data-Efficient Linear Affine Weight-Space Models for Parameter-Controlled 3D Shape Generation and Extrapolation](../../conferences/icml-2026/cards/3401-3500.md#paper-nehme26b)
 
 <a id="by-evaluation"></a>
 
@@ -362,6 +373,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lv26b-evaluation"></a>[AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26b)
 - <a id="malik26a-evaluation"></a>[MADE: Benchmark Environments for Closed-Loop Materials Discovery](../../conferences/icml-2026/cards/3101-3200.md#paper-malik26a)
 - <a id="moreau26a-evaluation"></a>[Probing the Geometry of Diffusion Models with the String Method](../../conferences/icml-2026/cards/3301-3400.md#paper-moreau26a)
+- <a id="munsamy26a-evaluation"></a>[Scaling Laws and Architectural Frontiers in Metagenomic Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#paper-munsamy26a)
+- <a id="naagarajan26a-evaluation"></a>[Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control](../../conferences/icml-2026/cards/3301-3400.md#paper-naagarajan26a)
 
 <a id="by-theory-statistics"></a>
 

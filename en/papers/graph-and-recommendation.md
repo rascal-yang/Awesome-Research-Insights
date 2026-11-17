@@ -102,6 +102,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="li26fv-training-strategies"></a>[FedRGL: Robust Federated Graph Learning under Label Noise](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fv)
 - <a id="li26ih-training-strategies"></a>[Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ih)
 - <a id="liu26b-training-strategies"></a>[FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26b)
+- <a id="navarro26a-training-strategies"></a>[Adaptive Node Feature Selection for Graph Neural Networks](../../conferences/icml-2026/cards/3401-3500.md#paper-navarro26a)
 
 <a id="by-data-strategies"></a>
 
@@ -162,6 +163,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="ma26aj-representation-learning"></a>[Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26aj)
 - <a id="manenti26b-representation-learning"></a>[SWING: Unlocking Implicit Graph Representations for Graph Random Features](../../conferences/icml-2026/cards/3201-3300.md#paper-manenti26b)
 - <a id="mishra26c-representation-learning"></a>[Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning](../../conferences/icml-2026/cards/3301-3400.md#paper-mishra26c)
+- <a id="nakis26a-representation-learning"></a>[Aitchison Embeddings for Learning Compositional Graph Representations](../../conferences/icml-2026/cards/3401-3500.md#paper-nakis26a)
 
 <a id="by-evaluation"></a>
 
@@ -175,6 +177,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="heidari26a-evaluation"></a>[TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions](../../conferences/icml-2026/cards/1501-1600.md#paper-heidari26a)
 - <a id="lagesse26a-evaluation"></a>[Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](../../conferences/icml-2026/cards/2201-2300.md#paper-lagesse26a)
 - <a id="liu26gd-evaluation"></a>[Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gd)
+- <a id="mukherjee26a-evaluation"></a>[BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection](../../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -148,6 +148,7 @@
 - <a id="ma26ay-reinforcement-learning"></a>[Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ay)
 - <a id="meng26e-reinforcement-learning"></a>[Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](../conferences/icml-2026/cards/3201-3300.md#paper-meng26e)
 - <a id="messica26a-reinforcement-learning"></a>[Adaptive Time Series Reasoning via Segment Selection](../conferences/icml-2026/cards/3201-3300.md#paper-messica26a)
+- <a id="nguyen26f-reinforcement-learning"></a>[PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26f)
 
 <a id="by-training-strategies"></a>
 
@@ -189,6 +190,8 @@
 - <a id="ma26h-training-strategies"></a>[Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26h)
 - <a id="miao26c-training-strategies"></a>[Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning](../conferences/icml-2026/cards/3201-3300.md#paper-miao26c)
 - <a id="mo26c-training-strategies"></a>[Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](../conferences/icml-2026/cards/3301-3400.md#paper-mo26c)
+- <a id="mozaffari26a-training-strategies"></a>[Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA](../conferences/icml-2026/cards/3301-3400.md#paper-mozaffari26a)
+- <a id="neogi26a-training-strategies"></a>[DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](../conferences/icml-2026/cards/3401-3500.md#paper-neogi26a)
 
 <a id="by-data-strategies"></a>
 
@@ -217,6 +220,7 @@
 - <a id="lin26c-data-strategies"></a>[Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code](../conferences/icml-2026/cards/2701-2800.md#paper-lin26c)
 - <a id="liu26ag-data-strategies"></a>[TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ag)
 - <a id="mao26f-data-strategies"></a>[TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](../conferences/icml-2026/cards/3201-3300.md#paper-mao26f)
+- <a id="naharas26a-data-strategies"></a>[Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../conferences/icml-2026/cards/3401-3500.md#paper-naharas26a)
 
 <a id="by-inference"></a>
 
@@ -333,6 +337,7 @@
 - <a id="marincione26a-representation-learning"></a>[PHALAR: Phasors for Learned Musical Audio Representations](../conferences/icml-2026/cards/3201-3300.md#paper-marincione26a)
 - <a id="mendez26a-representation-learning"></a>[Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](../conferences/icml-2026/cards/3201-3300.md#paper-mendez26a)
 - <a id="mishra26b-representation-learning"></a>[Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models](../conferences/icml-2026/cards/3301-3400.md#paper-mishra26b)
+- <a id="muhlematter26a-representation-learning"></a>[UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations](../conferences/icml-2026/cards/3301-3400.md#paper-muhlematter26a)
 
 <a id="by-evaluation"></a>
 

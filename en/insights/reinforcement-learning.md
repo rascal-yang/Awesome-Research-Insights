@@ -135,6 +135,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective](../../conferences/icml-2026/cards/3201-3300.md#mao26i-reinforcement-learning) · 中文
 - [Draft-and-Audit Reinforcement Learning for Optimization Modeling](../../conferences/icml-2026/cards/3301-3400.md#min26g-reinforcement-learning) · 中文
 - [Distributional Alignment Games for Answer-Level Fine-Tuning](../../conferences/icml-2026/cards/3301-3400.md#mohri26c-reinforcement-learning) · 中文
+- [WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization for Rollout-Efficient Reasoning](../../conferences/icml-2026/cards/3301-3400.md#mundada26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -271,6 +272,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction](../../conferences/icml-2026/cards/3201-3300.md#mguni26a-reinforcement-learning) · 中文
 - [Safe In-Context Reinforcement Learning](../../conferences/icml-2026/cards/3301-3400.md#moeini26a-reinforcement-learning) · 中文
 - [Reusing Trajectories in Policy Gradients Enables Fast Convergence](../../conferences/icml-2026/cards/3301-3400.md#montenegro26a-reinforcement-learning) · 中文
+- [Reward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity](../../conferences/icml-2026/cards/3301-3400.md#muni26a-reinforcement-learning) · 中文
+- [Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning](../../conferences/icml-2026/cards/3401-3500.md#nguyen26p-reinforcement-learning) · 中文
+- [Long-Horizon Model-Based Offline Reinforcement Learning Without Explicit Conservatism](../../conferences/icml-2026/cards/3401-3500.md#ni26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -341,6 +345,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26ay-reinforcement-learning) · 中文
 - [Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](../../conferences/icml-2026/cards/3201-3300.md#meng26e-reinforcement-learning) · 中文
 - [Adaptive Time Series Reasoning via Segment Selection](../../conferences/icml-2026/cards/3201-3300.md#messica26a-reinforcement-learning) · 中文
+- [PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection](../../conferences/icml-2026/cards/3401-3500.md#nguyen26f-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
