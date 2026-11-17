@@ -46,10 +46,10 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [What Does Flow-Matching Bring to TD-Learning?](https://proceedings.mlr.press/v306/agrawalla26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#agrawalla26a-reinforcement-learning) |
-| [Distributional Active Inference](https://proceedings.mlr.press/v306/akgul26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#akgul26a-reinforcement-learning) |
-| [Data-Source Adaptive Online Learning under Heteroscedastic Noise](https://proceedings.mlr.press/v306/anand26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#anand26a-reinforcement-learning) |
-| [Off-Policy Learning in Large Action Spaces: Optimization Matters More Than Estimation](https://proceedings.mlr.press/v306/aouali26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#aouali26a-reinforcement-learning) |
+| [What Does Flow-Matching Bring to TD-Learning?](https://proceedings.mlr.press/v306/agrawalla26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agrawalla26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#agrawalla26a-reinforcement-learning) |
+| [Distributional Active Inference](https://proceedings.mlr.press/v306/akgul26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-akgul26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#akgul26a-reinforcement-learning) |
+| [Data-Source Adaptive Online Learning under Heteroscedastic Noise](https://proceedings.mlr.press/v306/anand26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-anand26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#anand26a-reinforcement-learning) |
+| [Off-Policy Learning in Large Action Spaces: Optimization Matters More Than Estimation](https://proceedings.mlr.press/v306/aouali26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-aouali26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#aouali26a-reinforcement-learning) |
 | [Zero-Shot Off-Policy Learning](https://proceedings.mlr.press/v306/asadulaev26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#asadulaev26b-reinforcement-learning) |
 | [Intrinsic Credit Assignment for Long Horizon Interaction](https://proceedings.mlr.press/v306/auzina26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#auzina26a-reinforcement-learning) |
 | [Neural Logistic Bandits](https://proceedings.mlr.press/v306/bae26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bae26a-reinforcement-learning) |
@@ -150,9 +150,9 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](https://proceedings.mlr.press/v306/abbadi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abbadi26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#abbadi26a-theory-statistics) |
-| [(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](https://proceedings.mlr.press/v306/anagnostides26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#anagnostides26b-theory-statistics) |
-| [The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](https://proceedings.mlr.press/v306/anderson26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#anderson26a-theory-statistics) |
-| [Generalized Linear Bandits with Memory](https://proceedings.mlr.press/v306/ann26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ann26a-theory-statistics) |
+| [(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](https://proceedings.mlr.press/v306/anagnostides26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-anagnostides26b) | [Read insight (中文)](../../papers/reinforcement-learning.md#anagnostides26b-theory-statistics) |
+| [The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](https://proceedings.mlr.press/v306/anderson26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-anderson26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#anderson26a-theory-statistics) |
+| [Generalized Linear Bandits with Memory](https://proceedings.mlr.press/v306/ann26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ann26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#ann26a-theory-statistics) |
 | [Minimax-Optimal Policy Regret in Partially Observable Markov Games](https://proceedings.mlr.press/v306/arora26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#arora26b-theory-statistics) |
 | [Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](https://proceedings.mlr.press/v306/balagopalan26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#balagopalan26a-theory-statistics) |
 | [Learning in Structured Stackelberg Games](https://proceedings.mlr.press/v306/balcan26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#balcan26a-theory-statistics) |

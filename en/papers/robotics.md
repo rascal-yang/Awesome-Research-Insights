@@ -44,7 +44,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) | [Read insight (中文)](../../papers/robotics.md#amad26a-loss-functions) |
+| [DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-amad26a) | [Read insight (中文)](../../papers/robotics.md#amad26a-loss-functions) |
 | [OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) | [Read insight (中文)](../../papers/robotics.md#fang26h-loss-functions) |
 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl) | [Read insight (中文)](../../papers/robotics.md#liu26bl-loss-functions) · [Full entry](../insights/loss-functions.md#align-action-features-with-latent-actions) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-loss-functions) · [Full entry](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
@@ -64,7 +64,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | [Read insight (中文)](../../papers/robotics.md#aichmuller26a-reinforcement-learning) |
+| [Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aichmuller26a) | [Read insight (中文)](../../papers/robotics.md#aichmuller26a-reinforcement-learning) |
 | [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) | [Read insight (中文)](../../papers/robotics.md#chowdhury26a-reinforcement-learning) |
 | [Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) | [Read insight (中文)](../../papers/robotics.md#ge26a-reinforcement-learning) |
 | [CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://proceedings.mlr.press/v306/guo26ae.html) | [Read insight (中文)](../../papers/robotics.md#guo26ae-reinforcement-learning) |
@@ -100,7 +100,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) | [Read insight (中文)](../../papers/robotics.md#aissi26a-inference) |
+| [PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aissi26a) | [Read insight (中文)](../../papers/robotics.md#aissi26a-inference) |
 | [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) | [Read insight (中文)](../../papers/robotics.md#balim26a-inference) |
 | [Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | [Read insight (中文)](../../papers/robotics.md#beyer26a-inference) |
 | [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | [Read insight (中文)](../../papers/robotics.md#chai26a-inference) |

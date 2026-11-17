@@ -72,9 +72,9 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="agrawal26d-inference"></a>[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://proceedings.mlr.press/v306/agrawal26d.html) | 排序与检索 | 把一次多项排序转换成多条比较边，用传递闭包复用查询结果，再围绕前 k 名继续查询。循环偏好可合成同一档。 |
-| <a id="ai26b-inference"></a>[PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) | 文本水印 | 把水印放到语义簇层，通过密钥与语义历史同步随机性，让释义改写后仍可在语义层检测水印。 |
-| <a id="an26a-inference"></a>[IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) | 句子级水印 | 按模型和用户组织分层水印标识，用语义及句法信号筛选句子候选，再用分层检索缩小溯源检测范围。 |
+| <a id="agrawal26d-inference"></a>[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://proceedings.mlr.press/v306/agrawal26d.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agrawal26d) | 排序与检索 | 把一次多项排序转换成多条比较边，用传递闭包复用查询结果，再围绕前 k 名继续查询。循环偏好可合成同一档。 |
+| <a id="ai26b-inference"></a>[PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ai26b) | 文本水印 | 把水印放到语义簇层，通过密钥与语义历史同步随机性，让释义改写后仍可在语义层检测水印。 |
+| <a id="an26a-inference"></a>[IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-an26a) | 句子级水印 | 按模型和用户组织分层水印标识，用语义及句法信号筛选句子候选，再用分层检索缩小溯源检测范围。 |
 | <a id="chien26b-inference"></a>[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) | 全双工语音的异步检索 | 语音模型用特殊词元决定是否检索，把流式转录交给后台后继续生成。利用开始应答到说出关键信息的时间差，把返回的检索文本编码后注入后续生成，兼顾语音交互时延与事实性。 |
 | <a id="du26i-inference"></a>[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://proceedings.mlr.press/v306/du26i.html) | 语音情感的稀疏特征干预 | 用稀疏自编码器分解文本转语音模型的语义隐状态，筛出与特定情感相关的潜特征。生成时只增减这些特征的激活，沿各自的解码方向改变隐状态，无需调整主干权重。 |
 | <a id="guo26x-inference"></a>[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://proceedings.mlr.press/v306/guo26x.html) | 稀疏编码的多向量倒排检索 | 用稀疏自编码器把查询和文档 token 投到高维稀疏空间，按激活维度建倒排表。共享非零维度的候选可先被召回，再计算 token 级最大相似度，省去大规模索引构建时的 K-means 聚类。 |
@@ -95,7 +95,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="altintas26a-evaluation"></a>[TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](https://proceedings.mlr.press/v306/altintas26a.html) | 分词器评测 | 训练模型时固定架构、数据、训练预算和初始化，只改变分词器，再用原生语言者整理的真实扰动测试分词的影响。 |
+| <a id="altintas26a-evaluation"></a>[TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](https://proceedings.mlr.press/v306/altintas26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-altintas26a) | 分词器评测 | 训练模型时固定架构、数据、训练预算和初始化，只改变分词器，再用原生语言者整理的真实扰动测试分词的影响。 |
 | <a id="basha26a-evaluation"></a>[VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) | 音频表征评测 | 只用单声源片段测冻结嵌入的几何，并以置换基线校准近邻纯度与全局分离率，可单独暴露低资源语言的表示差距。 |
 | <a id="chen26av-evaluation"></a>[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) | 检索增强生成安全评测 | 文档中的注意力集中机制可以在不同检索器和生成器之间迁移。做投毒压力测试时，可单独评估复用型污染对检索排序和生成内容的影响。 |
 | <a id="chen26bf-evaluation"></a>[Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | 生成文本的惊异度转移检测 | 用代理语言模型单次前向计算词元的负对数条件概率，将其离散为状态，再统计相邻状态的转移。用广义 Jensen–Shannon 散度比较测试文本与预先建立的人类和机器文本转移矩阵。 |

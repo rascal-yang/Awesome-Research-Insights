@@ -137,7 +137,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="alesiani26a-inference"></a>[Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) | 扩散模型逻辑控制 | 将逻辑约束编译成电路，若合取子式条件独立、析取子式条件独立或互斥，即可从原子属性的后验和分数递推精确引导。 |
+| <a id="alesiani26a-inference"></a>[Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-alesiani26a) | 扩散模型逻辑控制 | 将逻辑约束编译成电路，若合取子式条件独立、析取子式条件独立或互斥，即可从原子属性的后验和分数递推精确引导。 |
 | <a id="bae26b-inference"></a>[Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) | 图像隐写 | 用随机基压制潜变量中的结构残留，再融合多张图像的潜变量，使同一扩散载体可按授权分别恢复不同隐藏内容。 |
 | <a id="bang26a-inference"></a>[Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) | 扩散逆问题 | 早期大幅 CFG 可能与观测一致性更新冲突。采样中逐步降低数据一致性引导和随机性、提高 CFG，可以分别兼顾观测和生成质量。 |
 | <a id="briq26a-inference"></a>[Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) | 潜空间流匹配 | 不同容量的模型对同一噪声种子会生成相近内容，因此可用小模型完成前段流轨迹，再交给大模型补后段细节。 |
@@ -211,8 +211,8 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="acuaviva26a-evaluation"></a>[Rethinking Visual Intelligence: Insights from Video Pretraining](https://proceedings.mlr.press/v306/acuaviva26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-acuaviva26a) | 视觉推理评测 | 比较视频扩散模型与 LLM 的适配能力时，让两类模型分别用自己的输入模态，并报告数据效率。 |
-| <a id="ahmed26a-evaluation"></a>[Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) | 分割模型诊断 | 用稀疏自编码器拆解并对齐不同架构及人群的分割激活，再干预与分布偏移相关的潜特征定位和修复错误。 |
-| <a id="alexis26a-evaluation"></a>[GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) | 扩散模型域外检测 | 检查输入做旋转或翻转后，扩散分数场是否相应变换。即使分数幅值相近，等变性残差也能暴露域外样本。 |
+| <a id="ahmed26a-evaluation"></a>[Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ahmed26a) | 分割模型诊断 | 用稀疏自编码器拆解并对齐不同架构及人群的分割激活，再干预与分布偏移相关的潜特征定位和修复错误。 |
+| <a id="alexis26a-evaluation"></a>[GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-alexis26a) | 扩散模型域外检测 | 检查输入做旋转或翻转后，扩散分数场是否相应变换。即使分数幅值相近，等变性残差也能暴露域外样本。 |
 | <a id="baek26e-evaluation"></a>[Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | 深伪防御评测 | 把输出画质和身份保真度分开评估，并校准生成器固有的身份偏差。白盒防御表现特别强时也要检查是否损害跨生成器迁移。 |
 | <a id="braun26b-evaluation"></a>[Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | 扩散模型概念遗忘 | 通过测试擦除前写入的触发关联能否在遗忘后复现概念，可以检查现有擦除方法是否还保留潜在生成路径。 |
 | <a id="chen26az-evaluation"></a>[Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | 生成模型后门评测 | 后门可能对语义相同的改写提示共同触发，枚举固定字符串容易漏检。可用语义等价改写、部分语义和正常输入分别测触发、误触发和正常质量。 |

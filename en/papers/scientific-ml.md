@@ -16,8 +16,8 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Physics-Informed Residual Flows](https://proceedings.mlr.press/v306/abijuru26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abijuru26a) | [Read insight (中文)](../../papers/scientific-ml.md#abijuru26a-architecture) |
-| [Nested Spatio-Temporal Time Series Forecasting](https://proceedings.mlr.press/v306/ai26f.html) | [Read insight (中文)](../../papers/scientific-ml.md#ai26f-architecture) |
-| [scCBGM: Single-Cell Editing via Concept Bottlenecks](https://proceedings.mlr.press/v306/andersson26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#andersson26a-architecture) |
+| [Nested Spatio-Temporal Time Series Forecasting](https://proceedings.mlr.press/v306/ai26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ai26f) | [Read insight (中文)](../../papers/scientific-ml.md#ai26f-architecture) |
+| [scCBGM: Single-Cell Editing via Concept Bottlenecks](https://proceedings.mlr.press/v306/andersson26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-andersson26a) | [Read insight (中文)](../../papers/scientific-ml.md#andersson26a-architecture) |
 | [Quantum latent distributions in deep generative models](https://proceedings.mlr.press/v306/bacarreza26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bacarreza26a-architecture) |
 | [Modeling Temporal scRNA-seq Data with Latent Gaussian Process and Optimal Transport](https://proceedings.mlr.press/v306/balik26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#balik26a-architecture) |
 | [Cheap2Rich: A Multi-Fidelity Framework for Data Assimilation and System Identification of Multiscale Physics - Rotating Detonation Engines](https://proceedings.mlr.press/v306/bao26d.html) | [Read insight (中文)](../../papers/scientific-ml.md#bao26d-architecture) |
@@ -63,7 +63,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abijuru26b) | [Read insight (中文)](../../papers/scientific-ml.md#abijuru26b-loss-functions) |
-| [Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#anwer26a-loss-functions) |
+| [Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-anwer26a) | [Read insight (中文)](../../papers/scientific-ml.md#anwer26a-loss-functions) |
 | [HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#byeon26a-loss-functions) |
 | [MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chasmai26a-loss-functions) |
 | [SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](https://proceedings.mlr.press/v306/chen26y.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26y-loss-functions) |
@@ -144,8 +144,8 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling](https://proceedings.mlr.press/v306/aich26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#aich26a-inference) |
-| [DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants](https://proceedings.mlr.press/v306/andrae26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#andrae26a-inference) |
+| [WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling](https://proceedings.mlr.press/v306/aich26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aich26a) | [Read insight (中文)](../../papers/scientific-ml.md#aich26a-inference) |
+| [DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants](https://proceedings.mlr.press/v306/andrae26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-andrae26a) | [Read insight (中文)](../../papers/scientific-ml.md#andrae26a-inference) |
 | [Supervised Guidance Training for Infinite-Dimensional Diffusion Models](https://proceedings.mlr.press/v306/baker26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#baker26a-inference) |
 | [FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](https://proceedings.mlr.press/v306/bohde26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bohde26a-inference) |
 | [Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](https://proceedings.mlr.press/v306/cao26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26c-inference) |
@@ -168,7 +168,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Geometry-Guided Generative Representation for Functional Brain Graphs](https://proceedings.mlr.press/v306/abulikemu26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abulikemu26a) | [Read insight (中文)](../../papers/scientific-ml.md#abulikemu26a-representation-learning) |
-| [Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](https://proceedings.mlr.press/v306/antoniadis26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#antoniadis26a-representation-learning) |
+| [Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](https://proceedings.mlr.press/v306/antoniadis26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-antoniadis26a) | [Read insight (中文)](../../papers/scientific-ml.md#antoniadis26a-representation-learning) |
 | [Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://proceedings.mlr.press/v306/ariguib26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#ariguib26a-representation-learning) |
 | [A Machine-Learned Comorbidity Index](https://proceedings.mlr.press/v306/baloch26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#baloch26a-representation-learning) |
 | [Foundation VAEs for CT Reconstruction, Augmentation, and Generation](https://proceedings.mlr.press/v306/chen26u.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26u-representation-learning) |
@@ -188,9 +188,9 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems](https://proceedings.mlr.press/v306/ahamed26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#ahamed26a-evaluation) |
-| [Improving ML Attacks on LWE with Data Repetition and Stepwise Regression](https://proceedings.mlr.press/v306/alfarano26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#alfarano26a-evaluation) |
-| [MalTree: Tracing Malware Evolution from Embeddings at Scale](https://proceedings.mlr.press/v306/amalan26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#amalan26a-evaluation) |
+| [TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems](https://proceedings.mlr.press/v306/ahamed26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ahamed26a) | [Read insight (中文)](../../papers/scientific-ml.md#ahamed26a-evaluation) |
+| [Improving ML Attacks on LWE with Data Repetition and Stepwise Regression](https://proceedings.mlr.press/v306/alfarano26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alfarano26a) | [Read insight (中文)](../../papers/scientific-ml.md#alfarano26a-evaluation) |
+| [MalTree: Tracing Malware Evolution from Embeddings at Scale](https://proceedings.mlr.press/v306/amalan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-amalan26a) | [Read insight (中文)](../../papers/scientific-ml.md#amalan26a-evaluation) |
 | [When Can We Trust Survival Model Evaluation ?](https://proceedings.mlr.press/v306/bahrini26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bahrini26a-evaluation) |
 | [Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](https://proceedings.mlr.press/v306/bai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bai26a-evaluation) |
 | [Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://proceedings.mlr.press/v306/becktepe26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#becktepe26a-evaluation) |
@@ -213,7 +213,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](https://proceedings.mlr.press/v306/antipov26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#antipov26a-theory-statistics) |
+| [Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](https://proceedings.mlr.press/v306/antipov26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-antipov26a) | [Read insight (中文)](../../papers/scientific-ml.md#antipov26a-theory-statistics) |
 | [Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](https://proceedings.mlr.press/v306/bao26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bao26a-theory-statistics) |
 | [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](https://proceedings.mlr.press/v306/berman26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#berman26a-theory-statistics) |
 | [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](https://proceedings.mlr.press/v306/ding26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#ding26c-theory-statistics) |

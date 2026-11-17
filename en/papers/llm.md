@@ -57,7 +57,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization](https://proceedings.mlr.press/v306/abas26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abas26a) | [Read insight (中文)](../../papers/llm.md#abas26a-loss-functions) |
-| [The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity](https://proceedings.mlr.press/v306/aouad26a.html) | [Read insight (中文)](../../papers/llm.md#aouad26a-loss-functions) |
+| [The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity](https://proceedings.mlr.press/v306/aouad26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-aouad26a) | [Read insight (中文)](../../papers/llm.md#aouad26a-loss-functions) |
 | [What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis](https://proceedings.mlr.press/v306/chen26bi.html) | [Read insight (中文)](../../papers/llm.md#chen26bi-loss-functions) |
 | [$φ$-Balancing for Mixture-of-Experts Training](https://proceedings.mlr.press/v306/chen26br.html) | [Read insight (中文)](../../papers/llm.md#chen26br-loss-functions) |
 | [Discrete Tilt Matching](https://proceedings.mlr.press/v306/chen26el.html) | [Read insight (中文)](../../papers/llm.md#chen26el-loss-functions) |
@@ -103,7 +103,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Gradient Regularization Mitigates Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards](https://proceedings.mlr.press/v306/ackermann26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ackermann26a) | [Read insight (中文)](../../papers/llm.md#ackermann26a-reinforcement-learning) |
 | [Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://proceedings.mlr.press/v306/agarwal26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26e) | [Read insight (中文)](../../papers/llm.md#agarwal26e-reinforcement-learning) |
-| [Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models](https://proceedings.mlr.press/v306/agnihotri26a.html) | [Read insight (中文)](../../papers/llm.md#agnihotri26a-reinforcement-learning) |
+| [Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models](https://proceedings.mlr.press/v306/agnihotri26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agnihotri26a) | [Read insight (中文)](../../papers/llm.md#agnihotri26a-reinforcement-learning) |
 | [Efficient RL Training for LLMs with Experience Replay](https://proceedings.mlr.press/v306/arnal26a.html) | [Read insight (中文)](../../papers/llm.md#arnal26a-reinforcement-learning) |
 | [D-FUSEr: Diverse Failure, Unified Success via Error-Distribution Shaping in LLM Reasoning](https://proceedings.mlr.press/v306/baek26a.html) | [Read insight (中文)](../../papers/llm.md#baek26a-reinforcement-learning) |
 | [D-ARL: A Distribution-Matched Asynchronous Reinforcement Learning Framework for Language Reasoning](https://proceedings.mlr.press/v306/bai26k.html) | [Read insight (中文)](../../papers/llm.md#bai26k-reinforcement-learning) |
@@ -157,7 +157,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Fine-Tuning of Transformer models with Frames](https://proceedings.mlr.press/v306/adepu26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adepu26a) | [Read insight (中文)](../../papers/llm.md#adepu26a-training-strategies) |
 | [Weight Updates as Activation Shifts: A Principled Framework for Steering](https://proceedings.mlr.press/v306/adila26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adila26a) | [Read insight (中文)](../../papers/llm.md#adila26a-training-strategies) |
-| [Consistent Diffusion Language Models](https://proceedings.mlr.press/v306/amin26a.html) | [Read insight (中文)](../../papers/llm.md#amin26a-training-strategies) |
+| [Consistent Diffusion Language Models](https://proceedings.mlr.press/v306/amin26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-amin26a) | [Read insight (中文)](../../papers/llm.md#amin26a-training-strategies) |
 | [Latent Reasoning in TRMs is Secretly a Policy Improvement Operator](https://proceedings.mlr.press/v306/asadulaev26a.html) | [Read insight (中文)](../../papers/llm.md#asadulaev26a-training-strategies) |
 | [How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://proceedings.mlr.press/v306/asawa26a.html) | [Read insight (中文)](../../papers/llm.md#asawa26a-training-strategies) |
 | [Towards Steering without Sacrifice: Principled Training of Steering Vectors for Prompt-only Interventions](https://proceedings.mlr.press/v306/bao26b.html) | [Read insight (中文)](../../papers/llm.md#bao26b-training-strategies) |
@@ -202,7 +202,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](https://proceedings.mlr.press/v306/aden-ali26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aden-ali26a) | [Read insight (中文)](../../papers/llm.md#aden-ali26a-data-strategies) |
-| [Minibatch selection for Language Models via Partition Matroid Constrained Gradient Matching](https://proceedings.mlr.press/v306/agrawal26a.html) | [Read insight (中文)](../../papers/llm.md#agrawal26a-data-strategies) |
+| [Minibatch selection for Language Models via Partition Matroid Constrained Gradient Matching](https://proceedings.mlr.press/v306/agrawal26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agrawal26a) | [Read insight (中文)](../../papers/llm.md#agrawal26a-data-strategies) |
 | [Learning Rewrite-Invariant Reasoning with Targeted Alternation Training](https://proceedings.mlr.press/v306/arraf26a.html) | [Read insight (中文)](../../papers/llm.md#arraf26a-data-strategies) |
 | [AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://proceedings.mlr.press/v306/arx26a.html) | [Read insight (中文)](../../papers/llm.md#arx26a-data-strategies) |
 | [Recontextualization Mitigates Specification Gaming Without Modifying the Specification](https://proceedings.mlr.press/v306/azarbal26a.html) | [Read insight (中文)](../../papers/llm.md#azarbal26a-data-strategies) |
@@ -228,10 +228,10 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Concept Heterogeneity-aware Representation Steering](https://proceedings.mlr.press/v306/abdullaev26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abdullaev26a) | [Read insight (中文)](../../papers/llm.md#abdullaev26a-inference) |
-| [An Interactive Paradigm for Deep Research](https://proceedings.mlr.press/v306/ai26a.html) | [Read insight (中文)](../../papers/llm.md#ai26a-inference) |
-| [Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information](https://proceedings.mlr.press/v306/ai26d.html) | [Read insight (中文)](../../papers/llm.md#ai26d-inference) |
-| [Compute Where it Counts: Self Optimizing Language Models](https://proceedings.mlr.press/v306/akhauri26a.html) | [Read insight (中文)](../../papers/llm.md#akhauri26a-inference) |
-| [Scaling Small Agents Through Strategy Auctions](https://proceedings.mlr.press/v306/alazraki26a.html) | [Read insight (中文)](../../papers/llm.md#alazraki26a-inference) |
+| [An Interactive Paradigm for Deep Research](https://proceedings.mlr.press/v306/ai26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ai26a) | [Read insight (中文)](../../papers/llm.md#ai26a-inference) |
+| [Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information](https://proceedings.mlr.press/v306/ai26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ai26d) | [Read insight (中文)](../../papers/llm.md#ai26d-inference) |
+| [Compute Where it Counts: Self Optimizing Language Models](https://proceedings.mlr.press/v306/akhauri26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-akhauri26a) | [Read insight (中文)](../../papers/llm.md#akhauri26a-inference) |
+| [Scaling Small Agents Through Strategy Auctions](https://proceedings.mlr.press/v306/alazraki26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alazraki26a) | [Read insight (中文)](../../papers/llm.md#alazraki26a-inference) |
 | [LLM Self-Recognition: Steering and Retrieving Activation Signatures](https://proceedings.mlr.press/v306/ardoin26a.html) | [Read insight (中文)](../../papers/llm.md#ardoin26a-inference) |
 | [RedDebate: Safer Responses Through Multi-Agent Red Teaming Debates](https://proceedings.mlr.press/v306/asad26a.html) | [Read insight (中文)](../../papers/llm.md#asad26a-inference) |
 | [PRISM: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](https://proceedings.mlr.press/v306/bai26f.html) | [Read insight (中文)](../../papers/llm.md#bai26f-inference) |
@@ -322,7 +322,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Regression Language Models for Code](https://proceedings.mlr.press/v306/akhauri26b.html) | [Read insight (中文)](../../papers/llm.md#akhauri26b-representation-learning) |
+| [Regression Language Models for Code](https://proceedings.mlr.press/v306/akhauri26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-akhauri26b) | [Read insight (中文)](../../papers/llm.md#akhauri26b-representation-learning) |
 | [Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](https://proceedings.mlr.press/v306/chen26dr.html) | [Read insight (中文)](../../papers/llm.md#chen26dr-representation-learning) |
 | [ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](https://proceedings.mlr.press/v306/chen26gy.html) | [Read insight (中文)](../../papers/llm.md#chen26gy-representation-learning) |
 | [Ensembling Sparse Autoencoders](https://proceedings.mlr.press/v306/gadgil26a.html) | [Read insight (中文)](../../papers/llm.md#gadgil26a-representation-learning) |
@@ -337,15 +337,15 @@ The linked short insights are available in Chinese.
 | [Differential syntactic and semantic encoding in LLMs](https://proceedings.mlr.press/v306/acevedo26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-acevedo26a) | [Read insight (中文)](../../papers/llm.md#acevedo26a-evaluation) |
 | [CauSciBench: Can LLMs Automate Causal Inference in Real-World Scientific Research?](https://proceedings.mlr.press/v306/acharya26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-acharya26a) | [Read insight (中文)](../../papers/llm.md#acharya26a-evaluation) |
 | [Consistency Training Can Entrench Misalignment](https://proceedings.mlr.press/v306/africa26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-africa26a) | [Read insight (中文)](../../papers/llm.md#africa26a-evaluation) |
-| [MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://proceedings.mlr.press/v306/ai26e.html) | [Read insight (中文)](../../papers/llm.md#ai26e-evaluation) |
-| [Evaluating Contextual Illegality: AI Compliance in Corporate Law Scenarios](https://proceedings.mlr.press/v306/aka26a.html) | [Read insight (中文)](../../papers/llm.md#aka26a-evaluation) |
-| [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://proceedings.mlr.press/v306/akhtar26a.html) | [Read insight (中文)](../../papers/llm.md#akhtar26a-evaluation) |
-| [Detecting Fluent Optimization-Based Adversarial Prompts via Sequential Entropy Changes](https://proceedings.mlr.press/v306/alshaalan26a.html) | [Read insight (中文)](../../papers/llm.md#alshaalan26a-evaluation) |
-| [Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth](https://proceedings.mlr.press/v306/amit26a.html) | [Read insight (中文)](../../papers/llm.md#amit26a-evaluation) |
-| [Faults in Our Formal Benchmarking: Dataset Defects and Evaluation Failures in Lean Theorem Proving](https://proceedings.mlr.press/v306/ammanamanchi26a.html) | [Read insight (中文)](../../papers/llm.md#ammanamanchi26a-evaluation) |
-| [Estimating Tail Risks in Language Model Output Distributions](https://proceedings.mlr.press/v306/angell26a.html) | [Read insight (中文)](../../papers/llm.md#angell26a-evaluation) |
-| [ORLoopBench: Solver-in-the-Loop Benchmarks for Self-Correction and Behavioral Rationality in Operations Research](https://proceedings.mlr.press/v306/ao26a.html) | [Read insight (中文)](../../papers/llm.md#ao26a-evaluation) |
-| [Predicting the Emergence of Induction Heads in Language Model Pretraining](https://proceedings.mlr.press/v306/aoyama26a.html) | [Read insight (中文)](../../papers/llm.md#aoyama26a-evaluation) |
+| [MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://proceedings.mlr.press/v306/ai26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ai26e) | [Read insight (中文)](../../papers/llm.md#ai26e-evaluation) |
+| [Evaluating Contextual Illegality: AI Compliance in Corporate Law Scenarios](https://proceedings.mlr.press/v306/aka26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aka26a) | [Read insight (中文)](../../papers/llm.md#aka26a-evaluation) |
+| [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://proceedings.mlr.press/v306/akhtar26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-akhtar26a) | [Read insight (中文)](../../papers/llm.md#akhtar26a-evaluation) |
+| [Detecting Fluent Optimization-Based Adversarial Prompts via Sequential Entropy Changes](https://proceedings.mlr.press/v306/alshaalan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alshaalan26a) | [Read insight (中文)](../../papers/llm.md#alshaalan26a-evaluation) |
+| [Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth](https://proceedings.mlr.press/v306/amit26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-amit26a) | [Read insight (中文)](../../papers/llm.md#amit26a-evaluation) |
+| [Faults in Our Formal Benchmarking: Dataset Defects and Evaluation Failures in Lean Theorem Proving](https://proceedings.mlr.press/v306/ammanamanchi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ammanamanchi26a) | [Read insight (中文)](../../papers/llm.md#ammanamanchi26a-evaluation) |
+| [Estimating Tail Risks in Language Model Output Distributions](https://proceedings.mlr.press/v306/angell26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-angell26a) | [Read insight (中文)](../../papers/llm.md#angell26a-evaluation) |
+| [ORLoopBench: Solver-in-the-Loop Benchmarks for Self-Correction and Behavioral Rationality in Operations Research](https://proceedings.mlr.press/v306/ao26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-ao26a) | [Read insight (中文)](../../papers/llm.md#ao26a-evaluation) |
+| [Predicting the Emergence of Induction Heads in Language Model Pretraining](https://proceedings.mlr.press/v306/aoyama26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-aoyama26a) | [Read insight (中文)](../../papers/llm.md#aoyama26a-evaluation) |
 | [Biases in the Blind Spot: Detecting What LLMs Fail to Mention](https://proceedings.mlr.press/v306/arcuschin26a.html) | [Read insight (中文)](../../papers/llm.md#arcuschin26a-evaluation) |
 | [Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](https://proceedings.mlr.press/v306/arcuschin26b.html) | [Read insight (中文)](../../papers/llm.md#arcuschin26b-evaluation) |
 | [A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents](https://proceedings.mlr.press/v306/arghal26a.html) | [Read insight (中文)](../../papers/llm.md#arghal26a-evaluation) |

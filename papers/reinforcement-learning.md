@@ -46,10 +46,10 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="agrawalla26a-reinforcement-learning"></a>[What Does Flow-Matching Bring to TD-Learning?](https://proceedings.mlr.press/v306/agrawalla26a.html) | 价值函数学习 | 让 flow-matching critic 在训练和读出时都沿速度场积分。后续步可修正中间估计，论文把这个收益与拟合回报分布区分开。 |
-| <a id="akgul26a-reinforcement-learning"></a>[Distributional Active Inference](https://proceedings.mlr.press/v306/akgul26a.html) | 分布强化学习 | 把组织感知状态和远期规划的主动推断目标写进分布强化学习框架，使其可以通过无显式转移动力学模型的算法求解。 |
-| <a id="anand26a-reinforcement-learning"></a>[Data-Source Adaptive Online Learning under Heteroscedastic Noise](https://proceedings.mlr.press/v306/anand26a.html) | 多来源在线学习 | 在同一轮同时对臂回报建立上置信界、对数据源方差建立下置信界，可逐渐挑出低噪声来源并逼近已知最佳来源的遗憾表现。 |
-| <a id="aouali26a-reinforcement-learning"></a>[Off-Policy Learning in Large Action Spaces: Optimization Matters More Than Estimation](https://proceedings.mlr.press/v306/aouali26a.html) | 离策略学习 | 动作空间变大时，统计性质更好的估计器可能带来更难的优化目标。加权对数似然可改善优化，并在实验中学到同等或更好的策略。 |
+| <a id="agrawalla26a-reinforcement-learning"></a>[What Does Flow-Matching Bring to TD-Learning?](https://proceedings.mlr.press/v306/agrawalla26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agrawalla26a) | 价值函数学习 | 让 flow-matching critic 在训练和读出时都沿速度场积分。后续步可修正中间估计，论文把这个收益与拟合回报分布区分开。 |
+| <a id="akgul26a-reinforcement-learning"></a>[Distributional Active Inference](https://proceedings.mlr.press/v306/akgul26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-akgul26a) | 分布强化学习 | 把组织感知状态和远期规划的主动推断目标写进分布强化学习框架，使其可以通过无显式转移动力学模型的算法求解。 |
+| <a id="anand26a-reinforcement-learning"></a>[Data-Source Adaptive Online Learning under Heteroscedastic Noise](https://proceedings.mlr.press/v306/anand26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-anand26a) | 多来源在线学习 | 在同一轮同时对臂回报建立上置信界、对数据源方差建立下置信界，可逐渐挑出低噪声来源并逼近已知最佳来源的遗憾表现。 |
+| <a id="aouali26a-reinforcement-learning"></a>[Off-Policy Learning in Large Action Spaces: Optimization Matters More Than Estimation](https://proceedings.mlr.press/v306/aouali26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-aouali26a) | 离策略学习 | 动作空间变大时，统计性质更好的估计器可能带来更难的优化目标。加权对数似然可改善优化，并在实验中学到同等或更好的策略。 |
 | <a id="asadulaev26b-reinforcement-learning"></a>[Zero-Shot Off-Policy Learning](https://proceedings.mlr.press/v306/asadulaev26b.html) | 零样本离策略学习 | 通过后继测度计算稳态密度比，在测试遇到新奖励时即时修正离线数据与目标策略的分布差异。 |
 | <a id="auzina26a-reinforcement-learning"></a>[Intrinsic Credit Assignment for Long Horizon Interaction](https://proceedings.mlr.press/v306/auzina26a.html) | 长任务信用分配 | 量化中间行动让模型对正确解的信念增加了多少，以此奖励有效提问，并为多步交互提供比最终成败更密集的训练信号。 |
 | <a id="bae26a-reinforcement-learning"></a>[Neural Logistic Bandits](https://proceedings.mlr.press/v306/bae26a.html) | 神经逻辑老虎机 | 用避免直接依赖环境维度的自归一化 Bernstein 不等式构造 UCB，使遗憾界随神经特征的有效维度增长。 |
@@ -150,9 +150,9 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="abbadi26a-theory-statistics"></a>[What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](https://proceedings.mlr.press/v306/abbadi26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abbadi26a) | 多智能体学习 | 仅比较策略偏好顺序会丢掉收益幅度，同一偏好图允许出现不同的 FTRL 动态。 |
-| <a id="anagnostides26b-theory-statistics"></a>[(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](https://proceedings.mlr.press/v306/anagnostides26b.html) | 在线博弈动力学 | 势博弈的结构仍允许 FTRL 收敛至纳什均衡需要指数时间，极端的虚拟对弈在多人博弈中甚至有双指数下界。 |
-| <a id="anderson26a-theory-statistics"></a>[The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](https://proceedings.mlr.press/v306/anderson26a.html) | 部分可观测决策 | 无记忆随机策略的可达价值由多项式不等式表示。部分可观测性可引入独立局部极大值，其表现依赖初始状态分布。 |
-| <a id="ann26a-theory-statistics"></a>[Generalized Linear Bandits with Memory](https://proceedings.mlr.press/v306/ann26a.html) | 带动作记忆的老虎机 | 当历史动作通过有限记忆影响当前回报时，用分块决策与收缩置信界可把广义线性设定的遗憾控制到平方根量级。 |
+| <a id="anagnostides26b-theory-statistics"></a>[(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](https://proceedings.mlr.press/v306/anagnostides26b.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-anagnostides26b) | 在线博弈动力学 | 势博弈的结构仍允许 FTRL 收敛至纳什均衡需要指数时间，极端的虚拟对弈在多人博弈中甚至有双指数下界。 |
+| <a id="anderson26a-theory-statistics"></a>[The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](https://proceedings.mlr.press/v306/anderson26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-anderson26a) | 部分可观测决策 | 无记忆随机策略的可达价值由多项式不等式表示。部分可观测性可引入独立局部极大值，其表现依赖初始状态分布。 |
+| <a id="ann26a-theory-statistics"></a>[Generalized Linear Bandits with Memory](https://proceedings.mlr.press/v306/ann26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ann26a) | 带动作记忆的老虎机 | 当历史动作通过有限记忆影响当前回报时，用分块决策与收缩置信界可把广义线性设定的遗憾控制到平方根量级。 |
 | <a id="arora26b-theory-statistics"></a>[Minimax-Optimal Policy Regret in Partially Observable Markov Games](https://proceedings.mlr.press/v306/arora26b.html) | 部分可观测博弈 | 对有记忆的适应性对手，以几何增长的轮次固定候选策略，用累积历史更新乐观似然置信集，可将跨策略切换次数控制在对数量级。 |
 | <a id="balagopalan26a-theory-statistics"></a>[Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](https://proceedings.mlr.press/v306/balagopalan26a.html) | 最优臂识别 | 用通用转换器包装任意固定置信度算法，可在仅增加对数级样本开销的条件下，把它用于固定预算的最优臂识别。 |
 | <a id="balcan26a-theory-statistics"></a>[Learning in Structured Stackelberg Games](https://proceedings.mlr.press/v306/balcan26a.html) | 结构化 Stackelberg 博弈 | 当上下文可以预测追随者类型时，更合适的在线难度度量是 Stackelberg–Littlestone 维数。它能紧致刻画领导者的实例最优遗憾。 |

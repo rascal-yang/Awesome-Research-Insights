@@ -137,7 +137,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) | [Read insight (中文)](../../papers/computer-vision.md#alesiani26a-inference) |
+| [Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alesiani26a) | [Read insight (中文)](../../papers/computer-vision.md#alesiani26a-inference) |
 | [Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) | [Read insight (中文)](../../papers/computer-vision.md#bae26b-inference) |
 | [Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bang26a-inference) |
 | [Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) | [Read insight (中文)](../../papers/computer-vision.md#briq26a-inference) |
@@ -211,8 +211,8 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Rethinking Visual Intelligence: Insights from Video Pretraining](https://proceedings.mlr.press/v306/acuaviva26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-acuaviva26a) | [Read insight (中文)](../../papers/computer-vision.md#acuaviva26a-evaluation) |
-| [Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ahmed26a-evaluation) |
-| [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) | [Read insight (中文)](../../papers/computer-vision.md#alexis26a-evaluation) |
+| [Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ahmed26a) | [Read insight (中文)](../../papers/computer-vision.md#ahmed26a-evaluation) |
+| [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alexis26a) | [Read insight (中文)](../../papers/computer-vision.md#alexis26a-evaluation) |
 | [Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | [Read insight (中文)](../../papers/computer-vision.md#baek26e-evaluation) |
 | [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | [Read insight (中文)](../../papers/computer-vision.md#braun26b-evaluation) |
 | [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26az-evaluation) |

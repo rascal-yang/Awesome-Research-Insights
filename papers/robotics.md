@@ -44,7 +44,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="amad26a-loss-functions"></a>[DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) | 面向决策的数字孪生 | 用离线价值评估给策略排序，再训练数字孪生保住这些成对排序。当模型容量受限时，单步预测精度和策略选择质量可以分离。 |
+| <a id="amad26a-loss-functions"></a>[DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-amad26a) | 面向决策的数字孪生 | 用离线价值评估给策略排序，再训练数字孪生保住这些成对排序。当模型容量受限时，单步预测精度和策略选择质量可以分离。 |
 | <a id="fang26h-loss-functions"></a>[OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) | 单步操作策略的速度方向监督 | 在 MeanFlow 重建目标外，用预测速度与真实平均速度的余弦相似度单独监督方向，使低速精细动作仍获得方向梯度。论文还用有限差分近似训练所需的导数，以减轻显存开销。 |
 | <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl) | 动作表征监督 | 用视频前后帧提取潜动作，监督动作专家的中间层，使策略表征能利用额外的运动信号。 [详细解读](../insights/loss-functions.md#align-action-features-with-latent-actions) |
 | <a id="reconvla-loss-functions"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) · [论文卡](reconvla.md#paper-reconvla) | 目标区域重建 | 用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。 [详细解读](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
@@ -64,7 +64,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="aichmuller26a-reinforcement-learning"></a>[Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | 规划与强化学习 | 用关系图网络预测价值启发式来指导加权 A*，再用搜索产生的经验做 Q-learning，形成可自我改进的规划循环。 |
+| <a id="aichmuller26a-reinforcement-learning"></a>[Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-aichmuller26a) | 规划与强化学习 | 用关系图网络预测价值启发式来指导加权 A*，再用搜索产生的经验做 Q-learning，形成可自我改进的规划循环。 |
 | <a id="chowdhury26a-reinforcement-learning"></a>[LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) | 按关键帧分配语言反馈奖励 | 让视觉语言模型对一次操作尝试生成结构化反思，把反思和机器人观测映射到同一表征空间。用状态与反馈相似度的时序变化构造奖励，并用关键帧权重把训练信号集中到关键步骤。 |
 | <a id="ge26a-reinforcement-learning"></a>[Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) | 以专家动态奖励后训练视频预测 | 把多步视频去噪视为策略，用同一编码空间里生成轨迹与专家未来帧的动态一致性作为终局奖励。这样可针对下游操作敏感的预测误差更新生成器，论文在仿真与真机操作中观察到成功率提升。 |
 | <a id="guo26ae-reinforcement-learning"></a>[CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://proceedings.mlr.press/v306/guo26ae.html) | 碰撞预测驱动的驾驶动作自纠正 | 自回归规划器提出运动 token 后用碰撞评论家检查短期风险。未通过的提议保留在注意力上下文中供下一次提议修正，实际执行最终接受的动作，再用世界模型轨迹对这段纠正过程做强化学习。 |
@@ -100,7 +100,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="aissi26a-inference"></a>[PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) | 具身 Agent 感知 | 让决策模型检查初始图像描述，围绕当前任务追问视觉模型，再用得到的细节做动作决策。 |
+| <a id="aissi26a-inference"></a>[PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-aissi26a) | 具身 Agent 感知 | 让决策模型检查初始图像描述，围绕当前任务追问视觉模型，再用得到的细节做动作决策。 |
 | <a id="balim26a-inference"></a>[Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) | 扩散预测控制 | 在去噪过程中交替做任务规划和动力学修正，再按目标排序候选轨迹。动力学模型可以独立使用额外数据训练。 |
 | <a id="beyer26a-inference"></a>[Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | 压缩空间运动规划 | 用自编码器把轨迹压成粗到细的离散 token，在潜空间按测试时指定的目标搜索，兼顾训练数据里的行为先验与可更换的规划目标。 |
 | <a id="chai26a-inference"></a>[N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | 移动操作站位 | 用操控策略的 rollout 给候选站位打分，并通过视角增强学习对视角不敏感的站位偏好，把策略能否成功执行纳入导航目标。 |

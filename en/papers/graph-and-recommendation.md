@@ -99,7 +99,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ai26c-inference) |
+| [PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ai26c) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ai26c-inference) |
 | [CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26b-inference) |
 | [On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fomina26a-inference) |
 | [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26t-inference) |
@@ -129,7 +129,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](https://proceedings.mlr.press/v306/agbaje26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agbaje26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#agbaje26a-evaluation) |
-| [Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#akula26a-evaluation) |
+| [Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-akula26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#akula26a-evaluation) |
 | [Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ferrini26a-evaluation) |
 | [Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#forbat26a-evaluation) |
 | [VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://proceedings.mlr.press/v306/guan26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guan26b-evaluation) |
@@ -141,7 +141,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](https://proceedings.mlr.press/v306/adriaens26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adriaens26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#adriaens26a-theory-statistics) |
-| [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#amran26a-theory-statistics) |
+| [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-amran26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#amran26a-theory-statistics) |
 | [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) |
 | [On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) |
 | [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) |

@@ -97,7 +97,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="ai26c-inference"></a>[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) | 图模型测试时适应 | 冻结图骨干，用当前快照的无标签特征熵更新动态图提示，持续跟随图结构与测试分布的变化。 |
+| <a id="ai26c-inference"></a>[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ai26c) | 图模型测试时适应 | 冻结图骨干，用当前快照的无标签特征熵更新动态图提示，持续跟随图结构与测试分布的变化。 |
 | <a id="bisht26b-inference"></a>[CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) | 在线推荐校准 | 持续监测推荐损失并在用户行为变化时重新定阈值，同时在线调整不同集合预测器的权重，使可变长度推荐列表保持紧凑。 |
 | <a id="fomina26a-inference"></a>[On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) | 图注意力的 I/O 融合优化 | 将逐边计算与邻居聚合融合在 GPU 核内，减少把边级中间量写回显存。图重排序的收益取决于线程映射，实验中对邻居并行的 gather 型核比对特征并行核更稳定。 |
 | <a id="gao26t-inference"></a>[Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) | 知识图多跳搜索的语义补边 | 在语言模型引导的邻接遍历中，将高于嵌入相似度阈值的近邻也加入前沿，再排除已访问节点。这样可按查询跨过显式知识图中缺失的连接。 |
@@ -127,7 +127,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="agbaje26a-evaluation"></a>[Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](https://proceedings.mlr.press/v306/agbaje26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agbaje26a) | 图模型隐私评测 | 连边泄漏应在极低误报率下分组测量。同类节点的后验几何可能压缩判别方向，重调距离后会暴露平均结果遗漏的风险。 |
-| <a id="akula26a-evaluation"></a>[Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) | 图模型迁移 | 同一图上，节点分类迁往链路预测在同质性强的图上更可靠。反向迁移要尤其关注结构信号强度，并固定消息传递图及测试负样本防止泄漏。 |
+| <a id="akula26a-evaluation"></a>[Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-akula26a) | 图模型迁移 | 同一图上，节点分类迁往链路预测在同质性强的图上更可靠。反向迁移要尤其关注结构信号强度，并固定消息传递图及测试负样本防止泄漏。 |
 | <a id="ferrini26a-evaluation"></a>[Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) | 缺失节点特征的压力测试 | 评估缺失特征时使用信息量较高的密集属性，并让更能预测标签的列具有更高的遮盖率。这样可测出在稀疏节点特征、均匀随机遮盖下不易暴露的性能退化。 |
 | <a id="forbat26a-evaluation"></a>[Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) | 图 Mixup 插值质量诊断 | 统一图分类的评测协议后，同时测合成图的插值误差和下游收益。高误差可拖累准确率，但低误差本身也未带来显著增益，所测 Mixup 方法均未显著优于无 Mixup 的基线。 |
 | <a id="guan26b-evaluation"></a>[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://proceedings.mlr.press/v306/guan26b.html) | 多模态推荐的同步污染诊断 | 分别评测单模态与联合污染对推荐曝光和正常效用的影响。论文发现视觉与文本扰动相互配合时，即使整体效用接近原模型，个别商品的曝光仍可能明显偏移，因此需单独测跨模态协同风险。 |
@@ -139,7 +139,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="adriaens26a-theory-statistics"></a>[Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](https://proceedings.mlr.press/v306/adriaens26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adriaens26a) | 相关聚类 | 完整符号图上，先找到击中所有恰有一条负边三角形的删除边集，再通过枢轴过程转成聚类，两类最优代价相差至多 1.5 倍。 |
-| <a id="amran26a-theory-statistics"></a>[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) | 图神经网络理论 | 扩展 graphop 极限框架，构造跨图规模和稀疏度的紧致度量，用同一套等度连续性分析 MPNN 的泛化和逼近。 |
+| <a id="amran26a-theory-statistics"></a>[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-amran26a) | 图神经网络理论 | 扩展 graphop 极限框架，构造跨图规模和稀疏度的紧致度量，用同一套等度连续性分析 MPNN 的泛化和逼近。 |
 | <a id="badanidiyuru26a-theory-statistics"></a>[Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | 拍卖中的预测改进 | 提高预测分辨率对拍卖收入的影响依赖出价规则。无预算限制的目标成本出价者满足文中的一价拍卖单调性，二价机制可打破它。 |
 | <a id="badreddine26a-theory-statistics"></a>[On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | 知识图谱链路预测 | 线性输出层使嵌入维度必须随图规模和连通性增长才能表达训练关系。混合式非线性输出可打破这一秩瓶颈，且参数开销较低。 |
 | <a id="charpenay26a-theory-statistics"></a>[Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | 关系嵌入表达力 | 用逐坐标比较定义的凸区域能高效编码部分关系规则，但参数化会限制可忠实表达的规则集合，应按目标规则选区域形式。 |

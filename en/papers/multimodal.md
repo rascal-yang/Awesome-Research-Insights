@@ -85,7 +85,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning](https://proceedings.mlr.press/v306/alipour-talemi26a.html) | [Read insight (中文)](../../papers/multimodal.md#alipour-talemi26a-training-strategies) |
+| [Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning](https://proceedings.mlr.press/v306/alipour-talemi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alipour-talemi26a) | [Read insight (中文)](../../papers/multimodal.md#alipour-talemi26a-training-strategies) |
 | [TRACER: Persistent Regularization for Robust Multimodal Finetuning](https://proceedings.mlr.press/v306/asadollahzadeh26a.html) | [Read insight (中文)](../../papers/multimodal.md#asadollahzadeh26a-training-strategies) |
 | [Seeing to Generalize: How Visual Data Corrects Binding Shortcuts](https://proceedings.mlr.press/v306/buzeta26a.html) | [Read insight (中文)](../../papers/multimodal.md#buzeta26a-training-strategies) |
 | [Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](https://proceedings.mlr.press/v306/chen26am.html) | [Read insight (中文)](../../papers/multimodal.md#chen26am-training-strategies) |
@@ -123,7 +123,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Similarity Is Not Logic: Factored Inference for Dual-Encoder Vision-Language Models](https://proceedings.mlr.press/v306/alshehri26a.html) | [Read insight (中文)](../../papers/multimodal.md#alshehri26a-inference) |
+| [Similarity Is Not Logic: Factored Inference for Dual-Encoder Vision-Language Models](https://proceedings.mlr.press/v306/alshehri26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alshehri26a) | [Read insight (中文)](../../papers/multimodal.md#alshehri26a-inference) |
 | [Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage](https://proceedings.mlr.press/v306/arora26a.html) | [Read insight (中文)](../../papers/multimodal.md#arora26a-inference) |
 | [SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs](https://proceedings.mlr.press/v306/avogaro26a.html) | [Read insight (中文)](../../papers/multimodal.md#avogaro26a-inference) |
 | [Diagnosing and Correcting Concept Omission in Multimodal Diffusion Transformers](https://proceedings.mlr.press/v306/baek26c.html) | [Read insight (中文)](../../papers/multimodal.md#baek26c-inference) |
