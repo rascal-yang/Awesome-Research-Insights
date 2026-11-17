@@ -61,6 +61,7 @@ Reusable components and local changes to model inputs or connections.
 - [SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation](../../conferences/icml-2026/cards/1901-2000.md#jiang26ay-modules) · 中文
 - [Deformba: Vision State Space Model with Adaptive State Fusion](../../conferences/icml-2026/cards/2001-2100.md#ke26d-modules) · 中文
 - [Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception](../../conferences/icml-2026/cards/2101-2200.md#kim26by-modules) · 中文
+- [Concept Removal for Frontier Image Generative Models](../../conferences/icml-2026/cards/2201-2300.md#kumar26c-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>

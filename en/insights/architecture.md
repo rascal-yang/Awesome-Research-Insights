@@ -120,6 +120,7 @@ Model-wide design and information flow.
 - [CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · 中文
 - [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../../conferences/icml-2026/cards/1901-2000.md#jin26m-architecture) · 中文
 - [Generative Visual Code Mobile World Models](../../conferences/icml-2026/cards/2101-2200.md#koh26a-architecture) · 中文
+- [OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](../../conferences/icml-2026/cards/2201-2300.md#langer26a-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -155,6 +156,7 @@ Model-wide design and information flow.
 - [NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces](../../conferences/icml-2026/cards/2101-2200.md#kim26ay-architecture) · 中文
 - [Equivariant Neural Networks for General Linear Symmetries on Lie Algebras](../../conferences/icml-2026/cards/2101-2200.md#kim26ca-architecture) · 中文
 - [Expand Neurons, Not Parameters](../../conferences/icml-2026/cards/2101-2200.md#kong26f-architecture) · 中文
+- [Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent](../../conferences/icml-2026/cards/2201-2300.md#larue26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -223,4 +225,7 @@ Model-wide design and information flow.
 - [CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching](../../conferences/icml-2026/cards/2101-2200.md#kim26z-architecture) · 中文
 - [Machine Learning Hamiltonians are Accurate Energy-Force Predictors](../../conferences/icml-2026/cards/2101-2200.md#kim26an-architecture) · 中文
 - [EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs](../../conferences/icml-2026/cards/2101-2200.md#kim26bp-architecture) · 中文
+- [NeurOCNN: A Neural-Operator-Based Model for Physiological Time Series](../../conferences/icml-2026/cards/2201-2300.md#kumar26b-architecture) · 中文
+- [FluxNet: Learning Capacity-Constrained Local Transport Operators for Conservative and Bounded PDE Surrogates](../../conferences/icml-2026/cards/2201-2300.md#lan26c-architecture) · 中文
+- [LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling](../../conferences/icml-2026/cards/2301-2400.md#ledneva26a-architecture) · 中文
 <!-- classification:end -->

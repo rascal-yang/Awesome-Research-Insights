@@ -61,6 +61,7 @@
 - [从局部频谱提取风格并路由检测适配词元](../conferences/icml-2026/cards/1901-2000.md#jiang26ay-modules) · SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation
 - [用上下文偏移决定状态空间模型读哪里](../conferences/icml-2026/cards/2001-2100.md#ke26d-modules) · Deformba: Vision State Space Model with Adaptive State Fusion
 - [按可靠度门控视频预测记忆](../conferences/icml-2026/cards/2101-2200.md#kim26by-modules) · Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception
+- [用可分解转换器编辑内部生成特征](../conferences/icml-2026/cards/2201-2300.md#kumar26c-modules) · Concept Removal for Frontier Image Generative Models
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

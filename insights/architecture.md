@@ -120,6 +120,7 @@
 - [按文本词元和三维潜块的粒度拆分自回归分支](../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models
 - [把 GUI 历史动作和跨任务经验分层检索](../conferences/icml-2026/cards/1901-2000.md#jin26m-architecture) · SE-GA: Memory-Augmented Self-Evolution for GUI Agents
 - [让移动界面模型输出可渲染代码来预测下一屏](../conferences/icml-2026/cards/2101-2200.md#koh26a-architecture) · Generative Visual Code Mobile World Models
+- [多变量时序与文本的交错建模](../conferences/icml-2026/cards/2201-2300.md#langer26a-architecture) · OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data
 
 <a id="by-ml-foundations"></a>
 
@@ -155,6 +156,7 @@
 - [把对齐后的权重矩阵当可变尺寸局部场](../conferences/icml-2026/cards/2101-2200.md#kim26ay-architecture) · NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces
 - [对一般线性共轭保留矩阵中心特征](../conferences/icml-2026/cards/2101-2200.md#kim26ca-architecture) · Equivariant Neural Networks for General Linear Symmetries on Lie Algebras
 - [固定非零权重预算下扩宽网络](../conferences/icml-2026/cards/2101-2200.md#kong26f-architecture) · Expand Neurons, Not Parameters
+- [用乘积节点和稀疏样本辨别奇偶支持](../conferences/icml-2026/cards/2201-2300.md#larue26a-architecture) · Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -223,4 +225,7 @@
 - [吸附体与催化表面联合生成](../conferences/icml-2026/cards/2101-2200.md#kim26z-architecture) · CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching
 - [直接评估哈密顿量误差向能量与力传播](../conferences/icml-2026/cards/2101-2200.md#kim26an-architecture) · Machine Learning Hamiltonians are Accurate Energy-Force Predictors
 - [让傅里叶核在等半径频率上共享权重](../conferences/icml-2026/cards/2101-2200.md#kim26bp-architecture) · EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs
+- [用连续卷积和频谱池化适配采样率](../conferences/icml-2026/cards/2201-2300.md#kumar26b-architecture) · NeurOCNN: A Neural-Operator-Based Model for Physiological Time Series
+- [守恒 PDE 的容量约束累积输运](../conferences/icml-2026/cards/2201-2300.md#lan26c-architecture) · FluxNet: Learning Capacity-Constrained Local Transport Operators for Conservative and Bounded PDE Surrogates
+- [用等算量固定边界隔离基因组动态分块的价值](../conferences/icml-2026/cards/2301-2400.md#ledneva26a-architecture) · LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling
 <!-- classification:end -->

@@ -152,6 +152,11 @@
 - [长对话的分情节 KV 缓存](../conferences/icml-2026/cards/2101-2200.md#kim26ag-inference) · EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments
 - [在退出窗口入口为后续层缩窄词表](../conferences/icml-2026/cards/2101-2200.md#kim26am-inference) · WAVE: Window-Aware Vocabulary-Efficient Early-Exit for Training-Free LLM Acceleration
 - [权限动作前按遮蔽归因选择性启动清洗](../conferences/icml-2026/cards/2101-2200.md#kim26bj-inference) · CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution
+- [用完整工具前缀区分可缓存环境状态](../conferences/icml-2026/cards/2201-2300.md#kumar26d-inference) · Tvcache: A Tool-Value Cache for Post-Training LLM Agents
+- [冻结模型后以重构误差反复写入记忆前缀](../conferences/icml-2026/cards/2201-2300.md#kuratov26a-inference) · GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent
+- [用跨层传播选择注意力块](../conferences/icml-2026/cards/2201-2300.md#le26c-inference) · Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference
+- [把 KV 压缩差错限制在草稿分支](../conferences/icml-2026/cards/2201-2300.md#le26g-inference) · FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding
+- [用前瞻续填判断哪个扩散槽应先提交](../conferences/icml-2026/cards/2201-2300.md#leang26a-inference) · Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -210,6 +215,7 @@
 - [按局部度量预条件扩散引导](../conferences/icml-2026/cards/1801-1900.md#jia26g-inference) · Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance
 - [把去噪器评估挪到估计的目标端点](../conferences/icml-2026/cards/1901-2000.md#jiao26e-inference) · Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach
 - [以前瞻样本估未来奖赏并免反传引导](../conferences/icml-2026/cards/2101-2200.md#kim26bo-inference) · Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models
+- [对生成早期特征的空间均值做衰减](../conferences/icml-2026/cards/2201-2300.md#kwon26d-inference) · Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation
 
 <a id="by-nlp"></a>
 
@@ -337,6 +343,8 @@
 - [以同一样本多次受扰后的去噪偏差衡量异常](../conferences/icml-2026/cards/1501-1600.md#hirth26a-inference) · Denoising without Diffusion: Fixed-Noise Denoiser Anomaly Detection in Tabular Data
 - [在测试时寻找稳健摘要再查询固定后验](../conferences/icml-2026/cards/2001-2100.md#khoo26a-inference) · Minimum Distance Summaries for Robust Neural Posterior Estimation
 - [在变换群上采后验并用逆作用校准输入](../conferences/icml-2026/cards/2101-2200.md#kim26u-inference) · Inverting Data Transformations via Diffusion Sampling
+- [用继续计算的收益训练早退门控](../conferences/icml-2026/cards/2201-2300.md#kubaty26a-inference) · Rethinking Calibration for Early-Exit Neural Networks
+- [最小化势能时显式压低局部变化以抵抗采样扰动](../conferences/icml-2026/cards/2201-2300.md#lai26g-inference) · Adversarial Attack and Defense for Denoising Diffusion Sampling
 
 <a id="by-graph-and-recommendation"></a>
 

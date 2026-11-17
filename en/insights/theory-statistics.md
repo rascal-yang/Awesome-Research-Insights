@@ -99,6 +99,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · 中文
 - [Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality](../../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · 中文
 - [Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems](../../conferences/icml-2026/cards/2101-2200.md#kock26a-theory-statistics) · 中文
+- [Refined Analysis of Entropy-Regularized Actor-Critic](../../conferences/icml-2026/cards/2201-2300.md#labbi26a-theory-statistics) · 中文
+- [Population-Aware Imitation Learning in Mean-field Games with Common Noise](../../conferences/icml-2026/cards/2201-2300.md#lambrecht26a-theory-statistics) · 中文
+- [Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes](../../conferences/icml-2026/cards/2301-2400.md#lederer26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -357,6 +360,16 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit](../../conferences/icml-2026/cards/2201-2300.md#koyuncu26a-theory-statistics) · 中文
 - [Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues](../../conferences/icml-2026/cards/2201-2300.md#kramp26a-theory-statistics) · 中文
 - [SCORE: A Unified Framework for Overshoot Refund in Online FDR Control](../../conferences/icml-2026/cards/2201-2300.md#kuang26c-theory-statistics) · 中文
+- [How to Price Data: A Market Equilibrium Based Approach](../../conferences/icml-2026/cards/2201-2300.md#kulkarni26a-theory-statistics) · 中文
+- [Differentially Private Geodesic Regression](../../conferences/icml-2026/cards/2201-2300.md#kulkarni26b-theory-statistics) · 中文
+- [Combinatorial Sparse PCA Beyond the Spiked Identity Model](../../conferences/icml-2026/cards/2201-2300.md#kumar26g-theory-statistics) · 中文
+- [Quantifying the noise sensitivity of the Wasserstein metric for images](../../conferences/icml-2026/cards/2201-2300.md#lager26a-theory-statistics) · 中文
+- [Predictive variational inference: Learn the predictively optimal posterior distribution](../../conferences/icml-2026/cards/2201-2300.md#lai26c-theory-statistics) · 中文
+- [Functional Decomposition and Shapley Interactions for Interpreting Survival Models](../../conferences/icml-2026/cards/2201-2300.md#langbein26a-theory-statistics) · 中文
+- [Tight Margin-Based Generalization Bounds for Voting Classifiers over Finite Hypothesis Sets](../../conferences/icml-2026/cards/2201-2300.md#larsen26a-theory-statistics) · 中文
+- [Provably Data-driven Lagrangian Relaxation for Mixed Integer Linear Programming](../../conferences/icml-2026/cards/2201-2300.md#le26e-theory-statistics) · 中文
+- [Provably Data-driven Multiple Hyper-parameter Tuning with Structured Loss Function](../../conferences/icml-2026/cards/2201-2300.md#le26f-theory-statistics) · 中文
+- [The Catastrophic Failure of *the* k-Means Algorithm in High Dimensions, and How Hartigan’s Algorithm Avoids It](../../conferences/icml-2026/cards/2301-2400.md#lederman26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -377,6 +390,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Quantum Algorithms for Triangle Cut Sparsification](../../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · 中文
 - [Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](../../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · 中文
 - [Graph Neural Networks Are Not Continuous Across Graph Resolutions](../../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · 中文
+- [A Unifying Relational Perspective on Expressive Lottery Tickets](../../conferences/icml-2026/cards/2201-2300.md#kummer26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -396,4 +410,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · 中文
 - [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](../../conferences/icml-2026/cards/2001-2100.md#kim26m-theory-statistics) · 中文
 - [Identifying Connectivity Distributions from Neural Dynamics Using Flows](../../conferences/icml-2026/cards/2101-2200.md#kim26bd-theory-statistics) · 中文
+- [Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution](../../conferences/icml-2026/cards/2201-2300.md#large26a-theory-statistics) · 中文
+- [When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control](../../conferences/icml-2026/cards/2301-2400.md#leclerc26a-theory-statistics) · 中文
 <!-- classification:end -->

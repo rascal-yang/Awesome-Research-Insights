@@ -73,6 +73,7 @@ Training schedules, curricula, and task or stage composition.
 - [From Drift to Coherence: Stabilizing Beliefs in LLMs](../../conferences/icml-2026/cards/2101-2200.md#kim26ah-training-strategies) · 中文
 - [DiscoverLLM: From Executing Intents to Discovering Them](../../conferences/icml-2026/cards/2101-2200.md#kim26av-training-strategies) · 中文
 - [Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences](../../conferences/icml-2026/cards/2201-2300.md#koo26a-training-strategies) · 中文
+- [Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections](../../conferences/icml-2026/cards/2201-2300.md#lauffer26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -99,6 +100,7 @@ Training schedules, curricula, and task or stage composition.
 - [Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels](../../conferences/icml-2026/cards/1601-1700.md#hou26b-training-strategies) · 中文
 - [Scalable GANs with Transformers](../../conferences/icml-2026/cards/1801-1900.md#hyun26a-training-strategies) · 中文
 - [Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26e-training-strategies) · 中文
+- [Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks](../../conferences/icml-2026/cards/2201-2300.md#kumar26a-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -148,6 +150,8 @@ Training schedules, curricula, and task or stage composition.
 - [Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26c-training-strategies) · 中文
 - [FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](../../conferences/icml-2026/cards/2001-2100.md#karim26a-training-strategies) · 中文
 - [ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation](../../conferences/icml-2026/cards/2101-2200.md#kong26h-training-strategies) · 中文
+- [AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning](../../conferences/icml-2026/cards/2201-2300.md#lang26a-training-strategies) · 中文
+- [HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models](../../conferences/icml-2026/cards/2201-2300.md#le26b-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -198,6 +202,7 @@ Training schedules, curricula, and task or stage composition.
 - [Manifold-Aware Perturbations for Constrained Generative Modeling](../../conferences/icml-2026/cards/2001-2100.md#keegan26a-training-strategies) · 中文
 - [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](../../conferences/icml-2026/cards/2101-2200.md#kim26bh-training-strategies) · 中文
 - [SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks](../../conferences/icml-2026/cards/2201-2300.md#kowsher26b-training-strategies) · 中文
+- [Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](../../conferences/icml-2026/cards/2201-2300.md#lan26b-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

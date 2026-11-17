@@ -59,6 +59,7 @@
 - [在残差量化码本中分开学方向和尺度](../conferences/icml-2026/cards/2101-2200.md#kim26bf-optimization) · GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache
 - [用角色数据学习专属 FFN 剪枝掩码](../conferences/icml-2026/cards/2101-2200.md#kim26br-optimization) · Persona-Pruner: Sculpting Lightweight Models for Role-Playing
 - [离线融合逐层旋转并只在线补低秩差](../conferences/icml-2026/cards/2101-2200.md#kim26bv-optimization) · ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation
+- [在不同种群演化能执行的多代理规则](../conferences/icml-2026/cards/2201-2300.md#kumar26f-optimization) · Evolving Interpretable Constitutions for Multi-Agent Coordination
 
 <a id="by-computer-vision"></a>
 
@@ -78,6 +79,8 @@
 - [用场景交互点约束单目群体重建尺度](../conferences/icml-2026/cards/2001-2100.md#kang26s-optimization) · Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction
 - [用显式遗忘约束校准保留程度](../conferences/icml-2026/cards/2001-2100.md#khalafi26a-optimization) · Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints
 - [沿优化后的连续路径重组对抗扰动](../conferences/icml-2026/cards/2101-2200.md#kim26ax-optimization) · MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks
+- [按解释 IoU 上下界剪枝求全局最优规则](../conferences/icml-2026/cards/2201-2300.md#la-rosa26a-optimization) · Guaranteed Optimal Compositional Explanations for Neurons
+- [按历史曲率对增量任务的更新作软抑制](../conferences/icml-2026/cards/2201-2300.md#lai26d-optimization) · MoCL: Metabolic Optimization for Curvature-Aware Continual Learning
 
 <a id="by-nlp"></a>
 
@@ -255,6 +258,9 @@
 - [在最优传输中重分配源域输出质量](../conferences/icml-2026/cards/2101-2200.md#koc26a-optimization) · Incorporating Importance Weighting in Optimal Transport Based Domain Alignment
 - [复用内层 SGD 的梯度并行更新逆 Hessian 近似](../conferences/icml-2026/cards/2101-2200.md#kong26a-optimization) · Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation
 - [有限样本的最有影响观测集合](../conferences/icml-2026/cards/2101-2200.md#konrad26a-optimization) · Finding Most Influential Sets
+- [用逻辑多面体分解约束 MAP 搜索](../conferences/icml-2026/cards/2201-2300.md#kurscheidt26a-optimization) · The Theory and Practice of MAP Inference over Non-Convex Constraints
+- [用类型谓词合成满足条件的架构搜索空间](../conferences/icml-2026/cards/2201-2300.md#laarmann26a-optimization) · Search Space Synthesis for Parametric Functions
+- [在保持 ReLU 函数时改善路径空间的条件](../conferences/icml-2026/cards/2201-2300.md#lebeurrier26a-optimization) · Path-conditioned training: a principled way to rescale ReLU neural networks
 
 <a id="by-graph-and-recommendation"></a>
 

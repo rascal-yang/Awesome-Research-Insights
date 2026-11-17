@@ -143,6 +143,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="forbat26a-evaluation"></a>[Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](../../conferences/icml-2026/cards/1101-1200.md#paper-forbat26a)
 - <a id="guan26b-evaluation"></a>[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26b)
 - <a id="heidari26a-evaluation"></a>[TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions](../../conferences/icml-2026/cards/1501-1600.md#paper-heidari26a)
+- <a id="lagesse26a-evaluation"></a>[Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](../../conferences/icml-2026/cards/2201-2300.md#paper-lagesse26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -163,4 +164,5 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="jiang26aj-theory-statistics"></a>[Quantum Algorithms for Triangle Cut Sparsification](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aj)
 - <a id="keriven26a-theory-statistics"></a>[Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](../../conferences/icml-2026/cards/2001-2100.md#paper-keriven26a)
 - <a id="koke26a-theory-statistics"></a>[Graph Neural Networks Are Not Continuous Across Graph Resolutions](../../conferences/icml-2026/cards/2101-2200.md#paper-koke26a)
+- <a id="kummer26a-theory-statistics"></a>[A Unifying Relational Perspective on Expressive Lottery Tickets](../../conferences/icml-2026/cards/2201-2300.md#paper-kummer26a)
 <!-- classification:end -->

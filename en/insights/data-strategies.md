@@ -128,6 +128,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](../../conferences/icml-2026/cards/1601-1700.md#huang26c-data-strategies) · 中文
 - [ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning](../../conferences/icml-2026/cards/1801-1900.md#ji26b-data-strategies) · 中文
 - [Learning-To-Measure: In-Context Active Feature Acquisition](../../conferences/icml-2026/cards/2101-2200.md#kobayashi26a-data-strategies) · 中文
+- [$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation](../../conferences/icml-2026/cards/2201-2300.md#kumar26e-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

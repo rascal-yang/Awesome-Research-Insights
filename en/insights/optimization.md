@@ -59,6 +59,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache](../../conferences/icml-2026/cards/2101-2200.md#kim26bf-optimization) · 中文
 - [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](../../conferences/icml-2026/cards/2101-2200.md#kim26br-optimization) · 中文
 - [ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation](../../conferences/icml-2026/cards/2101-2200.md#kim26bv-optimization) · 中文
+- [Evolving Interpretable Constitutions for Multi-Agent Coordination](../../conferences/icml-2026/cards/2201-2300.md#kumar26f-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -78,6 +79,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction](../../conferences/icml-2026/cards/2001-2100.md#kang26s-optimization) · 中文
 - [Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints](../../conferences/icml-2026/cards/2001-2100.md#khalafi26a-optimization) · 中文
 - [MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks](../../conferences/icml-2026/cards/2101-2200.md#kim26ax-optimization) · 中文
+- [Guaranteed Optimal Compositional Explanations for Neurons](../../conferences/icml-2026/cards/2201-2300.md#la-rosa26a-optimization) · 中文
+- [MoCL: Metabolic Optimization for Curvature-Aware Continual Learning](../../conferences/icml-2026/cards/2201-2300.md#lai26d-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -255,6 +258,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Incorporating Importance Weighting in Optimal Transport Based Domain Alignment](../../conferences/icml-2026/cards/2101-2200.md#koc26a-optimization) · 中文
 - [Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation](../../conferences/icml-2026/cards/2101-2200.md#kong26a-optimization) · 中文
 - [Finding Most Influential Sets](../../conferences/icml-2026/cards/2101-2200.md#konrad26a-optimization) · 中文
+- [The Theory and Practice of MAP Inference over Non-Convex Constraints](../../conferences/icml-2026/cards/2201-2300.md#kurscheidt26a-optimization) · 中文
+- [Search Space Synthesis for Parametric Functions](../../conferences/icml-2026/cards/2201-2300.md#laarmann26a-optimization) · 中文
+- [Path-conditioned training: a principled way to rescale ReLU neural networks](../../conferences/icml-2026/cards/2201-2300.md#lebeurrier26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

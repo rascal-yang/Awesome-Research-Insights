@@ -44,6 +44,7 @@
 
 - <a id="bu26e-reinforcement-learning"></a>[Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](../conferences/icml-2026/cards/0301-0400.md#paper-bu26e)
 - <a id="hou26i-reinforcement-learning"></a>[Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning](../conferences/icml-2026/cards/1601-1700.md#paper-hou26i)
+- <a id="labiausse26a-reinforcement-learning"></a>[Simultaneous Speech-to-Speech Translation Without Aligned Data](../conferences/icml-2026/cards/2201-2300.md#paper-labiausse26a)
 
 <a id="by-training-strategies"></a>
 
@@ -109,6 +110,8 @@
 - <a id="hu26t-evaluation"></a>[SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text](../conferences/icml-2026/cards/1601-1700.md#paper-hu26t)
 - <a id="ki26a-evaluation"></a>[Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG](../conferences/icml-2026/cards/2001-2100.md#paper-ki26a)
 - <a id="klearman26a-evaluation"></a>[Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation](../conferences/icml-2026/cards/2101-2200.md#paper-klearman26a)
+- <a id="lasnier26a-evaluation"></a>[Translation Heads: Disentangling meaning from language in LLM-based machine translation](../conferences/icml-2026/cards/2201-2300.md#paper-lasnier26a)
+- <a id="lavrinovics26a-evaluation"></a>[MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations](../conferences/icml-2026/cards/2201-2300.md#paper-lavrinovics26a)
 
 <a id="by-theory-statistics"></a>
 

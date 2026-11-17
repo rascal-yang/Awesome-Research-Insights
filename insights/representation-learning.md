@@ -136,6 +136,7 @@
 - [用表头和值作为联合可掩码片段](../conferences/icml-2026/cards/2001-2100.md#jung26i-representation-learning) · Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation
 - [按采样质量对称归一化扩散核](../conferences/icml-2026/cards/2001-2100.md#kessler26a-representation-learning) · Sinkhorn Normalization of Diffusion Kernels
 - [以多尺度小波定位传感事件的词元边界](../conferences/icml-2026/cards/2101-2200.md#kimura26a-representation-learning) · Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals
+- [从目标和参考激活的协方差闭式分解记忆权重](../conferences/icml-2026/cards/2201-2300.md#kwon26b-representation-learning) · AI Engram: In Search of Memory Traces in Artificial Intelligence
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -192,4 +193,7 @@
 - [用掩码保护的可学习分段编码 DNA](../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · DNACHUNKER: Learnable Tokenization for DNA Language Models
 - [在局部共享坐标中匹配源目标表征曲率](../conferences/icml-2026/cards/2101-2200.md#ko26c-representation-learning) · Geometric Embedding Alignment via Curvature Matching in Transfer Learning
 - [空间转录组中的弱配对形态生成](../conferences/icml-2026/cards/2101-2200.md#kong26d-representation-learning) · SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes
+- [用未配对序列预训部件，再用低熵先解码联合结构](../conferences/icml-2026/cards/2201-2300.md#lai26b-representation-learning) · DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions
+- [随机场的隐式流匹配与条件生成](../conferences/icml-2026/cards/2201-2300.md#lalanne26a-representation-learning) · Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields
+- [皮层平面图上的 fMRI 掩码预训练](../conferences/icml-2026/cards/2201-2300.md#lane26a-representation-learning) · Scaling Vision Transformers for Functional MRI with Flat Maps
 <!-- classification:end -->

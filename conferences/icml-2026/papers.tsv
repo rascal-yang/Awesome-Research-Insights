@@ -2235,74 +2235,74 @@ number	pmlr_id	title	paper_url	insight_status
 2234	kuang26b	Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations	https://proceedings.mlr.press/v306/kuang26b.html	written
 2235	kuang26c	SCORE: A Unified Framework for Overshoot Refund in Online FDR Control	https://proceedings.mlr.press/v306/kuang26c.html	written
 2236	kuang26d	PDFBench: A Benchmark for De Novo Protein Design from Function	https://proceedings.mlr.press/v306/kuang26d.html	written
-2237	kubaty26a	Rethinking Calibration for Early-Exit Neural Networks	https://proceedings.mlr.press/v306/kubaty26a.html	pending
-2238	kulkarni26a	How to Price Data: A Market Equilibrium Based Approach	https://proceedings.mlr.press/v306/kulkarni26a.html	pending
-2239	kulkarni26b	Differentially Private Geodesic Regression	https://proceedings.mlr.press/v306/kulkarni26b.html	pending
-2240	kulkarni26c	Disentangling Geometry, Performance, and Training in Language Models	https://proceedings.mlr.press/v306/kulkarni26c.html	pending
-2241	kumar26a	Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks	https://proceedings.mlr.press/v306/kumar26a.html	pending
-2242	kumar26b	NeurOCNN: A Neural-Operator-Based Model for Physiological Time Series	https://proceedings.mlr.press/v306/kumar26b.html	pending
-2243	kumar26c	Concept Removal for Frontier Image Generative Models	https://proceedings.mlr.press/v306/kumar26c.html	pending
-2244	kumar26d	Tvcache: A Tool-Value Cache for Post-Training LLM Agents	https://proceedings.mlr.press/v306/kumar26d.html	pending
-2245	kumar26e	$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation	https://proceedings.mlr.press/v306/kumar26e.html	pending
-2246	kumar26f	Evolving Interpretable Constitutions for Multi-Agent Coordination	https://proceedings.mlr.press/v306/kumar26f.html	pending
-2247	kumar26g	Combinatorial Sparse PCA Beyond the Spiked Identity Model	https://proceedings.mlr.press/v306/kumar26g.html	pending
-2248	kumaran26a	How do LLMs Compute Verbal Confidence?	https://proceedings.mlr.press/v306/kumaran26a.html	pending
-2249	kummer26a	A Unifying Relational Perspective on Expressive Lottery Tickets	https://proceedings.mlr.press/v306/kummer26a.html	pending
-2250	kundurthy26a	SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks	https://proceedings.mlr.press/v306/kundurthy26a.html	pending
-2251	kung26a	Learning Structured Reasoning via Tractable Trajectory Control	https://proceedings.mlr.press/v306/kung26a.html	pending
-2252	kunievsky26a	Measuring Intent Comprehension in LLMs	https://proceedings.mlr.press/v306/kunievsky26a.html	pending
-2253	kuratov26a	GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent	https://proceedings.mlr.press/v306/kuratov26a.html	pending
-2254	kurscheidt26a	The Theory and Practice of MAP Inference over Non-Convex Constraints	https://proceedings.mlr.press/v306/kurscheidt26a.html	pending
-2255	kuskova26a	Function-Valued Causal Influence in Nonlinear Time Series	https://proceedings.mlr.press/v306/kuskova26a.html	pending
-2256	kwon26a	Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance	https://proceedings.mlr.press/v306/kwon26a.html	pending
-2257	kwon26b	AI Engram: In Search of Memory Traces in Artificial Intelligence	https://proceedings.mlr.press/v306/kwon26b.html	pending
-2258	kwon26c	Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed	https://proceedings.mlr.press/v306/kwon26c.html	pending
-2259	kwon26d	Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation	https://proceedings.mlr.press/v306/kwon26d.html	pending
-2260	la-rosa26a	Guaranteed Optimal Compositional Explanations for Neurons	https://proceedings.mlr.press/v306/la-rosa26a.html	pending
-2261	laarmann26a	Search Space Synthesis for Parametric Functions	https://proceedings.mlr.press/v306/laarmann26a.html	pending
-2262	labbi26a	Refined Analysis of Entropy-Regularized Actor-Critic	https://proceedings.mlr.press/v306/labbi26a.html	pending
-2263	labiausse26a	Simultaneous Speech-to-Speech Translation Without Aligned Data	https://proceedings.mlr.press/v306/labiausse26a.html	pending
-2264	lager26a	Quantifying the noise sensitivity of the Wasserstein metric for images	https://proceedings.mlr.press/v306/lager26a.html	pending
-2265	lagesse26a	Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings	https://proceedings.mlr.press/v306/lagesse26a.html	pending
-2266	lai26a	UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms	https://proceedings.mlr.press/v306/lai26a.html	pending
-2267	lai26b	DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions	https://proceedings.mlr.press/v306/lai26b.html	pending
-2268	lai26c	Predictive variational inference: Learn the predictively optimal posterior distribution	https://proceedings.mlr.press/v306/lai26c.html	pending
-2269	lai26d	MoCL: Metabolic Optimization for Curvature-Aware Continual Learning	https://proceedings.mlr.press/v306/lai26d.html	pending
-2270	lai26e	Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models	https://proceedings.mlr.press/v306/lai26e.html	pending
-2271	lai26f	LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching	https://proceedings.mlr.press/v306/lai26f.html	pending
-2272	lai26g	Adversarial Attack and Defense for Denoising Diffusion Sampling	https://proceedings.mlr.press/v306/lai26g.html	pending
-2273	lai26h	Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training	https://proceedings.mlr.press/v306/lai26h.html	pending
-2274	lalanne26a	Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields	https://proceedings.mlr.press/v306/lalanne26a.html	pending
-2275	lambert26a	Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines	https://proceedings.mlr.press/v306/lambert26a.html	pending
-2276	lambrecht26a	Population-Aware Imitation Learning in Mean-field Games with Common Noise	https://proceedings.mlr.press/v306/lambrecht26a.html	pending
-2277	lan26a	ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation	https://proceedings.mlr.press/v306/lan26a.html	pending
-2278	lan26b	Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy	https://proceedings.mlr.press/v306/lan26b.html	pending
-2279	lan26c	FluxNet: Learning Capacity-Constrained Local Transport Operators for Conservative and Bounded PDE Surrogates	https://proceedings.mlr.press/v306/lan26c.html	pending
-2280	lane26a	Scaling Vision Transformers for Functional MRI with Flat Maps	https://proceedings.mlr.press/v306/lane26a.html	pending
-2281	lang26a	AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning	https://proceedings.mlr.press/v306/lang26a.html	pending
-2282	langbein26a	Functional Decomposition and Shapley Interactions for Interpreting Survival Models	https://proceedings.mlr.press/v306/langbein26a.html	pending
-2283	langer26a	OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data	https://proceedings.mlr.press/v306/langer26a.html	pending
-2284	large26a	Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution	https://proceedings.mlr.press/v306/large26a.html	pending
-2285	larsen26a	Tight Margin-Based Generalization Bounds for Voting Classifiers over Finite Hypothesis Sets	https://proceedings.mlr.press/v306/larsen26a.html	pending
-2286	larue26a	Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent	https://proceedings.mlr.press/v306/larue26a.html	pending
-2287	lasnier26a	Translation Heads: Disentangling meaning from language in LLM-based machine translation	https://proceedings.mlr.press/v306/lasnier26a.html	pending
-2288	lasy26a	RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing	https://proceedings.mlr.press/v306/lasy26a.html	pending
-2289	lauffer26a	Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections	https://proceedings.mlr.press/v306/lauffer26a.html	pending
-2290	lavrinovics26a	MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations	https://proceedings.mlr.press/v306/lavrinovics26a.html	pending
-2291	lazri26a	MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems	https://proceedings.mlr.press/v306/lazri26a.html	pending
-2292	le26a	Trust-Region Diffusion Policies for Massively Parallel On-Policy RL	https://proceedings.mlr.press/v306/le26a.html	pending
-2293	le26b	HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models	https://proceedings.mlr.press/v306/le26b.html	pending
-2294	le26c	Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference	https://proceedings.mlr.press/v306/le26c.html	pending
-2295	le26d	PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards	https://proceedings.mlr.press/v306/le26d.html	pending
-2296	le26e	Provably Data-driven Lagrangian Relaxation for Mixed Integer Linear Programming	https://proceedings.mlr.press/v306/le26e.html	pending
-2297	le26f	Provably Data-driven Multiple Hyper-parameter Tuning with Structured Loss Function	https://proceedings.mlr.press/v306/le26f.html	pending
-2298	le26g	FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding	https://proceedings.mlr.press/v306/le26g.html	pending
-2299	leang26a	Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models	https://proceedings.mlr.press/v306/leang26a.html	pending
-2300	lebeurrier26a	Path-conditioned training: a principled way to rescale ReLU neural networks	https://proceedings.mlr.press/v306/lebeurrier26a.html	pending
-2301	leclerc26a	When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control	https://proceedings.mlr.press/v306/leclerc26a.html	pending
-2302	lederer26a	Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes	https://proceedings.mlr.press/v306/lederer26a.html	pending
-2303	lederman26a	The Catastrophic Failure of *the* k-Means Algorithm in High Dimensions, and How Hartigan’s Algorithm Avoids It	https://proceedings.mlr.press/v306/lederman26a.html	pending
-2304	ledneva26a	LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling	https://proceedings.mlr.press/v306/ledneva26a.html	pending
+2237	kubaty26a	Rethinking Calibration for Early-Exit Neural Networks	https://proceedings.mlr.press/v306/kubaty26a.html	written
+2238	kulkarni26a	How to Price Data: A Market Equilibrium Based Approach	https://proceedings.mlr.press/v306/kulkarni26a.html	written
+2239	kulkarni26b	Differentially Private Geodesic Regression	https://proceedings.mlr.press/v306/kulkarni26b.html	written
+2240	kulkarni26c	Disentangling Geometry, Performance, and Training in Language Models	https://proceedings.mlr.press/v306/kulkarni26c.html	written
+2241	kumar26a	Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks	https://proceedings.mlr.press/v306/kumar26a.html	written
+2242	kumar26b	NeurOCNN: A Neural-Operator-Based Model for Physiological Time Series	https://proceedings.mlr.press/v306/kumar26b.html	written
+2243	kumar26c	Concept Removal for Frontier Image Generative Models	https://proceedings.mlr.press/v306/kumar26c.html	written
+2244	kumar26d	Tvcache: A Tool-Value Cache for Post-Training LLM Agents	https://proceedings.mlr.press/v306/kumar26d.html	written
+2245	kumar26e	$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation	https://proceedings.mlr.press/v306/kumar26e.html	written
+2246	kumar26f	Evolving Interpretable Constitutions for Multi-Agent Coordination	https://proceedings.mlr.press/v306/kumar26f.html	written
+2247	kumar26g	Combinatorial Sparse PCA Beyond the Spiked Identity Model	https://proceedings.mlr.press/v306/kumar26g.html	written
+2248	kumaran26a	How do LLMs Compute Verbal Confidence?	https://proceedings.mlr.press/v306/kumaran26a.html	written
+2249	kummer26a	A Unifying Relational Perspective on Expressive Lottery Tickets	https://proceedings.mlr.press/v306/kummer26a.html	written
+2250	kundurthy26a	SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks	https://proceedings.mlr.press/v306/kundurthy26a.html	written
+2251	kung26a	Learning Structured Reasoning via Tractable Trajectory Control	https://proceedings.mlr.press/v306/kung26a.html	written
+2252	kunievsky26a	Measuring Intent Comprehension in LLMs	https://proceedings.mlr.press/v306/kunievsky26a.html	written
+2253	kuratov26a	GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent	https://proceedings.mlr.press/v306/kuratov26a.html	written
+2254	kurscheidt26a	The Theory and Practice of MAP Inference over Non-Convex Constraints	https://proceedings.mlr.press/v306/kurscheidt26a.html	written
+2255	kuskova26a	Function-Valued Causal Influence in Nonlinear Time Series	https://proceedings.mlr.press/v306/kuskova26a.html	written
+2256	kwon26a	Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance	https://proceedings.mlr.press/v306/kwon26a.html	written
+2257	kwon26b	AI Engram: In Search of Memory Traces in Artificial Intelligence	https://proceedings.mlr.press/v306/kwon26b.html	written
+2258	kwon26c	Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed	https://proceedings.mlr.press/v306/kwon26c.html	written
+2259	kwon26d	Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation	https://proceedings.mlr.press/v306/kwon26d.html	written
+2260	la-rosa26a	Guaranteed Optimal Compositional Explanations for Neurons	https://proceedings.mlr.press/v306/la-rosa26a.html	written
+2261	laarmann26a	Search Space Synthesis for Parametric Functions	https://proceedings.mlr.press/v306/laarmann26a.html	written
+2262	labbi26a	Refined Analysis of Entropy-Regularized Actor-Critic	https://proceedings.mlr.press/v306/labbi26a.html	written
+2263	labiausse26a	Simultaneous Speech-to-Speech Translation Without Aligned Data	https://proceedings.mlr.press/v306/labiausse26a.html	written
+2264	lager26a	Quantifying the noise sensitivity of the Wasserstein metric for images	https://proceedings.mlr.press/v306/lager26a.html	written
+2265	lagesse26a	Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings	https://proceedings.mlr.press/v306/lagesse26a.html	written
+2266	lai26a	UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms	https://proceedings.mlr.press/v306/lai26a.html	written
+2267	lai26b	DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions	https://proceedings.mlr.press/v306/lai26b.html	written
+2268	lai26c	Predictive variational inference: Learn the predictively optimal posterior distribution	https://proceedings.mlr.press/v306/lai26c.html	written
+2269	lai26d	MoCL: Metabolic Optimization for Curvature-Aware Continual Learning	https://proceedings.mlr.press/v306/lai26d.html	written
+2270	lai26e	Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models	https://proceedings.mlr.press/v306/lai26e.html	written
+2271	lai26f	LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching	https://proceedings.mlr.press/v306/lai26f.html	written
+2272	lai26g	Adversarial Attack and Defense for Denoising Diffusion Sampling	https://proceedings.mlr.press/v306/lai26g.html	written
+2273	lai26h	Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training	https://proceedings.mlr.press/v306/lai26h.html	written
+2274	lalanne26a	Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields	https://proceedings.mlr.press/v306/lalanne26a.html	written
+2275	lambert26a	Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines	https://proceedings.mlr.press/v306/lambert26a.html	written
+2276	lambrecht26a	Population-Aware Imitation Learning in Mean-field Games with Common Noise	https://proceedings.mlr.press/v306/lambrecht26a.html	written
+2277	lan26a	ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation	https://proceedings.mlr.press/v306/lan26a.html	written
+2278	lan26b	Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy	https://proceedings.mlr.press/v306/lan26b.html	written
+2279	lan26c	FluxNet: Learning Capacity-Constrained Local Transport Operators for Conservative and Bounded PDE Surrogates	https://proceedings.mlr.press/v306/lan26c.html	written
+2280	lane26a	Scaling Vision Transformers for Functional MRI with Flat Maps	https://proceedings.mlr.press/v306/lane26a.html	written
+2281	lang26a	AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning	https://proceedings.mlr.press/v306/lang26a.html	written
+2282	langbein26a	Functional Decomposition and Shapley Interactions for Interpreting Survival Models	https://proceedings.mlr.press/v306/langbein26a.html	written
+2283	langer26a	OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data	https://proceedings.mlr.press/v306/langer26a.html	written
+2284	large26a	Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution	https://proceedings.mlr.press/v306/large26a.html	written
+2285	larsen26a	Tight Margin-Based Generalization Bounds for Voting Classifiers over Finite Hypothesis Sets	https://proceedings.mlr.press/v306/larsen26a.html	written
+2286	larue26a	Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent	https://proceedings.mlr.press/v306/larue26a.html	written
+2287	lasnier26a	Translation Heads: Disentangling meaning from language in LLM-based machine translation	https://proceedings.mlr.press/v306/lasnier26a.html	written
+2288	lasy26a	RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing	https://proceedings.mlr.press/v306/lasy26a.html	written
+2289	lauffer26a	Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections	https://proceedings.mlr.press/v306/lauffer26a.html	written
+2290	lavrinovics26a	MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations	https://proceedings.mlr.press/v306/lavrinovics26a.html	written
+2291	lazri26a	MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems	https://proceedings.mlr.press/v306/lazri26a.html	written
+2292	le26a	Trust-Region Diffusion Policies for Massively Parallel On-Policy RL	https://proceedings.mlr.press/v306/le26a.html	written
+2293	le26b	HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models	https://proceedings.mlr.press/v306/le26b.html	written
+2294	le26c	Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference	https://proceedings.mlr.press/v306/le26c.html	written
+2295	le26d	PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards	https://proceedings.mlr.press/v306/le26d.html	written
+2296	le26e	Provably Data-driven Lagrangian Relaxation for Mixed Integer Linear Programming	https://proceedings.mlr.press/v306/le26e.html	written
+2297	le26f	Provably Data-driven Multiple Hyper-parameter Tuning with Structured Loss Function	https://proceedings.mlr.press/v306/le26f.html	written
+2298	le26g	FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding	https://proceedings.mlr.press/v306/le26g.html	written
+2299	leang26a	Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models	https://proceedings.mlr.press/v306/leang26a.html	written
+2300	lebeurrier26a	Path-conditioned training: a principled way to rescale ReLU neural networks	https://proceedings.mlr.press/v306/lebeurrier26a.html	written
+2301	leclerc26a	When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control	https://proceedings.mlr.press/v306/leclerc26a.html	written
+2302	lederer26a	Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes	https://proceedings.mlr.press/v306/lederer26a.html	written
+2303	lederman26a	The Catastrophic Failure of *the* k-Means Algorithm in High Dimensions, and How Hartigan’s Algorithm Avoids It	https://proceedings.mlr.press/v306/lederman26a.html	written
+2304	ledneva26a	LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling	https://proceedings.mlr.press/v306/ledneva26a.html	written
 2305	ledneva26b	GENEB: Why Genomic Models Are Hard to Compare	https://proceedings.mlr.press/v306/ledneva26b.html	pending
 2306	lee26a	Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects	https://proceedings.mlr.press/v306/lee26a.html	pending
 2307	lee26b	Decomposing Query-Key Feature Interactions Using Contrastive Covariances	https://proceedings.mlr.press/v306/lee26b.html	pending

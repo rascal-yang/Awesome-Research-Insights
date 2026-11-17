@@ -136,6 +136,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation](../../conferences/icml-2026/cards/2001-2100.md#jung26i-representation-learning) · 中文
 - [Sinkhorn Normalization of Diffusion Kernels](../../conferences/icml-2026/cards/2001-2100.md#kessler26a-representation-learning) · 中文
 - [Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals](../../conferences/icml-2026/cards/2101-2200.md#kimura26a-representation-learning) · 中文
+- [AI Engram: In Search of Memory Traces in Artificial Intelligence](../../conferences/icml-2026/cards/2201-2300.md#kwon26b-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -192,4 +193,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DNACHUNKER: Learnable Tokenization for DNA Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · 中文
 - [Geometric Embedding Alignment via Curvature Matching in Transfer Learning](../../conferences/icml-2026/cards/2101-2200.md#ko26c-representation-learning) · 中文
 - [SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes](../../conferences/icml-2026/cards/2101-2200.md#kong26d-representation-learning) · 中文
+- [DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions](../../conferences/icml-2026/cards/2201-2300.md#lai26b-representation-learning) · 中文
+- [Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields](../../conferences/icml-2026/cards/2201-2300.md#lalanne26a-representation-learning) · 中文
+- [Scaling Vision Transformers for Functional MRI with Flat Maps](../../conferences/icml-2026/cards/2201-2300.md#lane26a-representation-learning) · 中文
 <!-- classification:end -->

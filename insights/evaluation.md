@@ -181,6 +181,13 @@
 - [在快检不明确的区间调用强检](../conferences/icml-2026/cards/2101-2200.md#kiyani26a-evaluation) · When to Trust the Cheap Check: Weak and Strong Verification for Reasoning
 - [隐私评估覆盖间接推断身份的风险](../conferences/icml-2026/cards/2101-2200.md#ko26b-evaluation) · From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents
 - [网页代理的任务重定向抗性](../conferences/icml-2026/cards/2201-2300.md#korgul26a-evaluation) · It’s a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents
+- [用控制训练变量检验谱指标的预测力](../conferences/icml-2026/cards/2201-2300.md#kulkarni26c-evaluation) · Disentangling Geometry, Performance, and Training in Language Models
+- [用位置干预追踪口头置信度从哪里读出](../conferences/icml-2026/cards/2201-2300.md#kumaran26a-evaluation) · How do LLMs Compute Verbal Confidence?
+- [把工作簿盲测偏好拆成格式、结构和公式因素](../conferences/icml-2026/cards/2201-2300.md#kundurthy26a-evaluation) · SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks
+- [用嵌套重采样拆出模型的意图敏感度](../conferences/icml-2026/cards/2201-2300.md#kunievsky26a-evaluation) · Measuring Intent Comprehension in LLMs
+- [先生成任务适用的评分规则，再输出逐项比较](../conferences/icml-2026/cards/2201-2300.md#lai26a-evaluation) · UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms
+- [蒸馏能耗的阶段核算与复用](../conferences/icml-2026/cards/2201-2300.md#lambert26a-evaluation) · Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines
+- [先逐特征解释再汇总专家路由](../conferences/icml-2026/cards/2201-2300.md#lasy26a-evaluation) · RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing
 
 <a id="by-computer-vision"></a>
 
@@ -238,6 +245,8 @@
 - [把模式归纳约束为可审计的类型图](../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text
 - [交换证据语言测引证相关性偏差](../conferences/icml-2026/cards/2001-2100.md#ki26a-evaluation) · Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG
 - [按语料的语义分层覆盖检索评测](../conferences/icml-2026/cards/2101-2200.md#klearman26a-evaluation) · Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation
+- [分别破坏输出语言与源句内容寻找翻译头](../conferences/icml-2026/cards/2201-2300.md#lasnier26a-evaluation) · Translation Heads: Disentangling meaning from language in LLM-based machine translation
+- [用多跳知识图谱路径做跨语种事实对照](../conferences/icml-2026/cards/2201-2300.md#lavrinovics26a-evaluation) · MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations
 
 <a id="by-reinforcement-learning"></a>
 
@@ -247,6 +256,7 @@
 - [像素策略的单因素泛化评测](../conferences/icml-2026/cards/0701-0800.md#cherepanov26a-evaluation) · KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning
 - [强化学习后门的逐步不确定性监测](../conferences/icml-2026/cards/1301-1400.md#guo26f-evaluation) · PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent
 - [持续记录新队友和新布局中的上下文适应](../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork
+- [在整条多机构轨迹上评估公平干预](../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems
 
 <a id="by-robotics"></a>
 
@@ -310,6 +320,7 @@
 - [用注意力特征摊销推理中的区域消融归因](../conferences/icml-2026/cards/2001-2100.md#kang26d-evaluation) · Real-Time Visual Attribution Streaming in Thinking Model
 - [按机械图纸推理弱项重分配训练采样](../conferences/icml-2026/cards/2201-2300.md#kou26c-evaluation) · MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding
 - [以同层文本近邻解释视觉隐藏表示](../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
+- [用指令词元的内部状态判别模型是否虚构对象](../conferences/icml-2026/cards/2201-2300.md#lai26e-evaluation) · Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -352,6 +363,8 @@
 - [在可逆频谱或趋势域内积分梯度](../conferences/icml-2026/cards/2001-2100.md#kechris26a-evaluation) · Time series saliency maps: Explaining models across multiple domains
 - [借可信参考样本诊断异常输出机制](../conferences/icml-2026/cards/2001-2100.md#keenan26a-evaluation) · Mechanistic Anomaly Detection via Functional Attribution
 - [以稠密参数网格校验数据流形几何](../conferences/icml-2026/cards/2201-2300.md#koulakis26a-evaluation) · The Data Manifold under the Microscope
+- [以个体条件期望曲线查看时序边的作用形状](../conferences/icml-2026/cards/2201-2300.md#kuskova26a-evaluation) · Function-Valued Causal Influence in Nonlinear Time Series
+- [条件时序生成的多维评测](../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -363,6 +376,7 @@
 - [图 Mixup 插值质量诊断](../conferences/icml-2026/cards/1101-1200.md#forbat26a-evaluation) · Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods
 - [多模态推荐的同步污染诊断](../conferences/icml-2026/cards/1301-1400.md#guan26b-evaluation) · VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems
 - [用图对齐替身摊薄重复归因开销](../conferences/icml-2026/cards/1501-1600.md#heidari26a-evaluation) · TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions
+- [按错边强度生成成对图对齐任务](../conferences/icml-2026/cards/2201-2300.md#lagesse26a-evaluation) · Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings
 
 <a id="by-scientific-ml"></a>
 

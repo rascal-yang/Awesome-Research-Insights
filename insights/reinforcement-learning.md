@@ -92,6 +92,8 @@
 - [对话反馈的反事实信息增益](../conferences/icml-2026/cards/2101-2200.md#kong26g-reinforcement-learning) · InfoPO: Information-Driven Policy Optimization for User-Centric Agents
 - [用教师的一条正例构造本地候选排序](../conferences/icml-2026/cards/2201-2300.md#kou26a-reinforcement-learning) · Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models
 - [对开放式任务按课程轮换偏好准则](../conferences/icml-2026/cards/2201-2300.md#krishnan26a-reinforcement-learning) · Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains
+- [以可计算概率的约束采样覆盖稀有推理轨迹](../conferences/icml-2026/cards/2201-2300.md#kung26a-reinforcement-learning) · Learning Structured Reasoning via Tractable Trajectory Control
+- [以两条终止轨迹相消未知奖励归一化常数](../conferences/icml-2026/cards/2201-2300.md#kwon26a-reinforcement-learning) · Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance
 
 <a id="by-computer-vision"></a>
 
@@ -111,6 +113,7 @@
 
 - [多跳事实核查](../conferences/icml-2026/cards/0301-0400.md#bu26e-reinforcement-learning) · Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization
 - [用下游推理给时间序列描述打分](../conferences/icml-2026/cards/1601-1700.md#hou26i-reinforcement-learning) · Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning
+- [先句级训练再用增量译文奖赏学习说话时机](../conferences/icml-2026/cards/2201-2300.md#labiausse26a-reinforcement-learning) · Simultaneous Speech-to-Speech Translation Without Aligned Data
 
 <a id="by-reinforcement-learning"></a>
 
@@ -184,6 +187,8 @@
 - [回放动作上的各向异性约束](../conferences/icml-2026/cards/2101-2200.md#kim26ai-reinforcement-learning) · Frictional Q-Learning
 - [用到达时间准度量建稀疏图并在线删失效边](../conferences/icml-2026/cards/2101-2200.md#kobanda26a-reinforcement-learning) · Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation
 - [球面成本流策略与组合求解](../conferences/icml-2026/cards/2101-2200.md#kong26e-reinforcement-learning) · Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions
+- [用预测时域安全屏蔽修正分布外控制动作](../conferences/icml-2026/cards/2201-2300.md#kwon26c-reinforcement-learning) · Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed
+- [用联合去噪轨迹设扩散策略信赖域](../conferences/icml-2026/cards/2201-2300.md#le26a-reinforcement-learning) · Trust-Region Diffusion Policies for Massively Parallel On-Policy RL
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -222,6 +227,8 @@
 - [将生成反馈拆成可验证的具体问题](../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward
 - [用熵维持训练时的视觉查证路径多样性](../conferences/icml-2026/cards/2101-2200.md#kim26bs-reinforcement-learning) · Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents
 - [让图像结果反向监督文本编码器的推理](../conferences/icml-2026/cards/2201-2300.md#kou26b-reinforcement-learning) · Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders
+- [持续后训练的奖励分歧与遗忘](../conferences/icml-2026/cards/2201-2300.md#lai26h-reinforcement-learning) · Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training
+- [给视频质量和句子语义分别对齐奖励空间](../conferences/icml-2026/cards/2201-2300.md#le26d-reinforcement-learning) · PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards
 
 <a id="by-ml-foundations"></a>
 
@@ -256,4 +263,5 @@
 - [用观测似然动态重加权潜结构轨迹](../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients
 - [可合成分子的软约束采样](../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors
 - [把可执行的临床资源查询反馈用于代理训练](../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)
+- [用物理指标奖励少步光刻掩模生成](../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching
 <!-- classification:end -->

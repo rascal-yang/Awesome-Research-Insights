@@ -92,6 +92,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [InfoPO: Information-Driven Policy Optimization for User-Centric Agents](../../conferences/icml-2026/cards/2101-2200.md#kong26g-reinforcement-learning) · 中文
 - [Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models](../../conferences/icml-2026/cards/2201-2300.md#kou26a-reinforcement-learning) · 中文
 - [Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains](../../conferences/icml-2026/cards/2201-2300.md#krishnan26a-reinforcement-learning) · 中文
+- [Learning Structured Reasoning via Tractable Trajectory Control](../../conferences/icml-2026/cards/2201-2300.md#kung26a-reinforcement-learning) · 中文
+- [Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance](../../conferences/icml-2026/cards/2201-2300.md#kwon26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -111,6 +113,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 
 - [Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](../../conferences/icml-2026/cards/0301-0400.md#bu26e-reinforcement-learning) · 中文
 - [Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning](../../conferences/icml-2026/cards/1601-1700.md#hou26i-reinforcement-learning) · 中文
+- [Simultaneous Speech-to-Speech Translation Without Aligned Data](../../conferences/icml-2026/cards/2201-2300.md#labiausse26a-reinforcement-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -184,6 +187,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Frictional Q-Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26ai-reinforcement-learning) · 中文
 - [Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation](../../conferences/icml-2026/cards/2101-2200.md#kobanda26a-reinforcement-learning) · 中文
 - [Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions](../../conferences/icml-2026/cards/2101-2200.md#kong26e-reinforcement-learning) · 中文
+- [Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed](../../conferences/icml-2026/cards/2201-2300.md#kwon26c-reinforcement-learning) · 中文
+- [Trust-Region Diffusion Policies for Massively Parallel On-Policy RL](../../conferences/icml-2026/cards/2201-2300.md#le26a-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -222,6 +227,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · 中文
 - [Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents](../../conferences/icml-2026/cards/2101-2200.md#kim26bs-reinforcement-learning) · 中文
 - [Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](../../conferences/icml-2026/cards/2201-2300.md#kou26b-reinforcement-learning) · 中文
+- [Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](../../conferences/icml-2026/cards/2201-2300.md#lai26h-reinforcement-learning) · 中文
+- [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](../../conferences/icml-2026/cards/2201-2300.md#le26d-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -256,4 +263,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · 中文
 - [Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · 中文
 - [Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · 中文
+- [LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching](../../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · 中文
 <!-- classification:end -->

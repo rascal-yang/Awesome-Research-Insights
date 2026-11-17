@@ -152,6 +152,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments](../../conferences/icml-2026/cards/2101-2200.md#kim26ag-inference) · 中文
 - [WAVE: Window-Aware Vocabulary-Efficient Early-Exit for Training-Free LLM Acceleration](../../conferences/icml-2026/cards/2101-2200.md#kim26am-inference) · 中文
 - [CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution](../../conferences/icml-2026/cards/2101-2200.md#kim26bj-inference) · 中文
+- [Tvcache: A Tool-Value Cache for Post-Training LLM Agents](../../conferences/icml-2026/cards/2201-2300.md#kumar26d-inference) · 中文
+- [GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent](../../conferences/icml-2026/cards/2201-2300.md#kuratov26a-inference) · 中文
+- [Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference](../../conferences/icml-2026/cards/2201-2300.md#le26c-inference) · 中文
+- [FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding](../../conferences/icml-2026/cards/2201-2300.md#le26g-inference) · 中文
+- [Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models](../../conferences/icml-2026/cards/2201-2300.md#leang26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -210,6 +215,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance](../../conferences/icml-2026/cards/1801-1900.md#jia26g-inference) · 中文
 - [Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](../../conferences/icml-2026/cards/1901-2000.md#jiao26e-inference) · 中文
 - [Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bo-inference) · 中文
+- [Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation](../../conferences/icml-2026/cards/2201-2300.md#kwon26d-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -337,6 +343,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Denoising without Diffusion: Fixed-Noise Denoiser Anomaly Detection in Tabular Data](../../conferences/icml-2026/cards/1501-1600.md#hirth26a-inference) · 中文
 - [Minimum Distance Summaries for Robust Neural Posterior Estimation](../../conferences/icml-2026/cards/2001-2100.md#khoo26a-inference) · 中文
 - [Inverting Data Transformations via Diffusion Sampling](../../conferences/icml-2026/cards/2101-2200.md#kim26u-inference) · 中文
+- [Rethinking Calibration for Early-Exit Neural Networks](../../conferences/icml-2026/cards/2201-2300.md#kubaty26a-inference) · 中文
+- [Adversarial Attack and Defense for Denoising Diffusion Sampling](../../conferences/icml-2026/cards/2201-2300.md#lai26g-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

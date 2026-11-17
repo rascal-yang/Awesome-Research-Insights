@@ -107,6 +107,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="kim26ai-reinforcement-learning"></a>[Frictional Q-Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ai)
 - <a id="kobanda26a-reinforcement-learning"></a>[Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation](../../conferences/icml-2026/cards/2101-2200.md#paper-kobanda26a)
 - <a id="kong26e-reinforcement-learning"></a>[Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26e)
+- <a id="kwon26c-reinforcement-learning"></a>[Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed](../../conferences/icml-2026/cards/2201-2300.md#paper-kwon26c)
+- <a id="le26a-reinforcement-learning"></a>[Trust-Region Diffusion Policies for Massively Parallel On-Policy RL](../../conferences/icml-2026/cards/2201-2300.md#paper-le26a)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>
@@ -149,6 +151,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="cherepanov26a-evaluation"></a>[KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](../../conferences/icml-2026/cards/0701-0800.md#paper-cherepanov26a)
 - <a id="guo26f-evaluation"></a>[PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26f)
 - <a id="jing26d-evaluation"></a>[Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26d)
+- <a id="lazri26a-evaluation"></a>[MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../../conferences/icml-2026/cards/2201-2300.md#paper-lazri26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -191,4 +194,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="ji26n-theory-statistics"></a>[Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26n)
 - <a id="kim26ar-theory-statistics"></a>[Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ar)
 - <a id="kock26a-theory-statistics"></a>[Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems](../../conferences/icml-2026/cards/2101-2200.md#paper-kock26a)
+- <a id="labbi26a-theory-statistics"></a>[Refined Analysis of Entropy-Regularized Actor-Critic](../../conferences/icml-2026/cards/2201-2300.md#paper-labbi26a)
+- <a id="lambrecht26a-theory-statistics"></a>[Population-Aware Imitation Learning in Mean-field Games with Common Noise](../../conferences/icml-2026/cards/2201-2300.md#paper-lambrecht26a)
+- <a id="lederer26a-theory-statistics"></a>[Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes](../../conferences/icml-2026/cards/2301-2400.md#paper-lederer26a)
 <!-- classification:end -->

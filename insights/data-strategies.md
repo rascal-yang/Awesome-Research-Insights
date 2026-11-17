@@ -128,6 +128,7 @@
 - [用参考模型权重方向估计样本效用](../conferences/icml-2026/cards/1601-1700.md#huang26c-data-strategies) · Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights
 - [用梯度投影贡献分配联邦客户端预算](../conferences/icml-2026/cards/1801-1900.md#ji26b-data-strategies) · ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning
 - [在上下文中按条件互信息决定补测哪个特征](../conferences/icml-2026/cards/2101-2200.md#kobayashi26a-data-strategies) · Learning-To-Measure: In-Context Active Feature Acquisition
+- [先复用加密边缘统计再发布私有合成数据](../conferences/icml-2026/cards/2201-2300.md#kumar26e-data-strategies) · $\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation
 
 <a id="by-graph-and-recommendation"></a>
 

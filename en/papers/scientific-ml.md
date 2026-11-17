@@ -58,6 +58,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="kim26z-architecture"></a>[CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26z)
 - <a id="kim26an-architecture"></a>[Machine Learning Hamiltonians are Accurate Energy-Force Predictors](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26an)
 - <a id="kim26bp-architecture"></a>[EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bp)
+- <a id="kumar26b-architecture"></a>[NeurOCNN: A Neural-Operator-Based Model for Physiological Time Series](../../conferences/icml-2026/cards/2201-2300.md#paper-kumar26b)
+- <a id="lan26c-architecture"></a>[FluxNet: Learning Capacity-Constrained Local Transport Operators for Conservative and Bounded PDE Surrogates](../../conferences/icml-2026/cards/2201-2300.md#paper-lan26c)
+- <a id="ledneva26a-architecture"></a>[LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling](../../conferences/icml-2026/cards/2301-2400.md#paper-ledneva26a)
 
 <a id="by-modules"></a>
 
@@ -133,6 +136,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ivanovic26a-reinforcement-learning"></a>[Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../../conferences/icml-2026/cards/1801-1900.md#paper-ivanovic26a)
 - <a id="kim26ad-reinforcement-learning"></a>[Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ad)
 - <a id="knorr26a-reinforcement-learning"></a>[Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../../conferences/icml-2026/cards/2101-2200.md#paper-knorr26a)
+- <a id="lai26f-reinforcement-learning"></a>[LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching](../../conferences/icml-2026/cards/2201-2300.md#paper-lai26f)
 
 <a id="by-training-strategies"></a>
 
@@ -229,6 +233,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="kim26bn-representation-learning"></a>[DNACHUNKER: Learnable Tokenization for DNA Language Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bn)
 - <a id="ko26c-representation-learning"></a>[Geometric Embedding Alignment via Curvature Matching in Transfer Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-ko26c)
 - <a id="kong26d-representation-learning"></a>[SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26d)
+- <a id="lai26b-representation-learning"></a>[DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions](../../conferences/icml-2026/cards/2201-2300.md#paper-lai26b)
+- <a id="lalanne26a-representation-learning"></a>[Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields](../../conferences/icml-2026/cards/2201-2300.md#paper-lalanne26a)
+- <a id="lane26a-representation-learning"></a>[Scaling Vision Transformers for Functional MRI with Flat Maps](../../conferences/icml-2026/cards/2201-2300.md#paper-lane26a)
 
 <a id="by-evaluation"></a>
 
@@ -275,4 +282,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jiao26c-theory-statistics"></a>[Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26c)
 - <a id="kim26m-theory-statistics"></a>[On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26m)
 - <a id="kim26bd-theory-statistics"></a>[Identifying Connectivity Distributions from Neural Dynamics Using Flows](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bd)
+- <a id="large26a-theory-statistics"></a>[Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution](../../conferences/icml-2026/cards/2201-2300.md#paper-large26a)
+- <a id="leclerc26a-theory-statistics"></a>[When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control](../../conferences/icml-2026/cards/2301-2400.md#paper-leclerc26a)
 <!-- classification:end -->

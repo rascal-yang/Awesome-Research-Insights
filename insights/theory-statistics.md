@@ -99,6 +99,9 @@
 - [按正则强度切换老虎机遗憾分析](../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · Near-Optimal Regret for KL-Regularized Multi-Armed Bandits
 - [用排序损失差直接近似探索概率](../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality
 - [用单边偏离收益验证独立学习者是否到均衡](../conferences/icml-2026/cards/2101-2200.md#kock26a-theory-statistics) · Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems
+- [用准确 critic 让随机策略梯度的方差随梯度消失](../conferences/icml-2026/cards/2201-2300.md#labbi26a-theory-statistics) · Refined Analysis of Entropy-Regularized Actor-Critic
+- [共同噪声下的人群感知模仿](../conferences/icml-2026/cards/2201-2300.md#lambrecht26a-theory-statistics) · Population-Aware Imitation Learning in Mean-field Games with Common Noise
+- [把逐步时序差分作为策略搜索的高斯过程观测](../conferences/icml-2026/cards/2301-2400.md#lederer26a-theory-statistics) · Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes
 
 <a id="by-robotics"></a>
 
@@ -357,6 +360,16 @@
 - [用部分和完整计算的相关性估算退化](../conferences/icml-2026/cards/2201-2300.md#koyuncu26a-theory-statistics) · Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit
 - [用核谱模态分解学习曲线](../conferences/icml-2026/cards/2201-2300.md#kramp26a-theory-statistics) · Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues
 - [把 e 值超额证据返还在线检验预算](../conferences/icml-2026/cards/2201-2300.md#kuang26c-theory-statistics) · SCORE: A Unified Framework for Overshoot Refund in Online FDR Control
+- [用最优响应偏离图分析数据定价](../conferences/icml-2026/cards/2201-2300.md#kulkarni26a-theory-statistics) · How to Price Data: A Market Equilibrium Based Approach
+- [按流形曲率校准测地回归隐私噪声](../conferences/icml-2026/cards/2201-2300.md#kulkarni26b-theory-statistics) · Differentially Private Geodesic Regression
+- [为一般协方差下的截断幂法构造初始化](../conferences/icml-2026/cards/2201-2300.md#kumar26g-theory-statistics) · Combinatorial Sparse PCA Beyond the Spiked Identity Model
+- [用像素网格的多尺度质量配平界估计噪声敏感度](../conferences/icml-2026/cards/2201-2300.md#lager26a-theory-statistics) · Quantifying the noise sensitivity of the Wasserstein metric for images
+- [直接按预测分布得分选择后验近似](../conferences/icml-2026/cards/2201-2300.md#lai26c-theory-statistics) · Predictive variational inference: Learn the predictively optimal posterior distribution
+- [生存预测的尺度与时变交互解释](../conferences/icml-2026/cards/2201-2300.md#langbein26a-theory-statistics) · Functional Decomposition and Shapley Interactions for Interpreting Survival Models
+- [让低间隔样本比例进入方差项](../conferences/icml-2026/cards/2201-2300.md#larsen26a-theory-statistics) · Tight Margin-Based Generalization Bounds for Voting Classifiers over Finite Hypothesis Sets
+- [按不同风险区分直接预测乘子与热启动](../conferences/icml-2026/cards/2201-2300.md#le26e-theory-statistics) · Provably Data-driven Lagrangian Relaxation for Mixed Integer Linear Programming
+- [用阈值公式分析联合调参的样本复杂度](../conferences/icml-2026/cards/2201-2300.md#le26f-theory-statistics) · Provably Data-driven Multiple Hyper-parameter Tuning with Structured Loss Function
+- [比较移动点造成的簇代价与冻结中心距离](../conferences/icml-2026/cards/2301-2400.md#lederman26a-theory-statistics) · The Catastrophic Failure of *the* k-Means Algorithm in High Dimensions, and How Hartigan’s Algorithm Avoids It
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -377,6 +390,7 @@
 - [将三角跨割稀疏化约化为量子枚举和采样](../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · Quantum Algorithms for Triangle Cut Sparsification
 - [同时监测深层图网络的前后向过平滑](../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?
 - [用图拉普拉斯扩散传播保持跨分辨率连续](../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · Graph Neural Networks Are Not Continuous Across Graph Resolutions
+- [用关系图上的可区分性预筛随机剪枝掩码](../conferences/icml-2026/cards/2201-2300.md#kummer26a-theory-statistics) · A Unifying Relational Perspective on Expressive Lottery Tickets
 
 <a id="by-scientific-ml"></a>
 
@@ -396,4 +410,6 @@
 - [用重尾连接先验形成可外推的低维动力学](../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks
 - [用有记忆的基函数估计抗污染输入输出关系](../conferences/icml-2026/cards/2001-2100.md#kim26m-theory-statistics) · On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks
 - [只为神经动力学保留必要的连接结构](../conferences/icml-2026/cards/2101-2200.md#kim26bd-theory-statistics) · Identifying Connectivity Distributions from Neural Dynamics Using Flows
+- [蛋白质插入删除的嵌套生灭模型](../conferences/icml-2026/cards/2201-2300.md#large26a-theory-statistics) · Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution
+- [用少量探针估计量子门适配何时值得](../conferences/icml-2026/cards/2301-2400.md#leclerc26a-theory-statistics) · When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control
 <!-- classification:end -->

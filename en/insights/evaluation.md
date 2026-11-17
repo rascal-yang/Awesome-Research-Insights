@@ -181,6 +181,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [When to Trust the Cheap Check: Weak and Strong Verification for Reasoning](../../conferences/icml-2026/cards/2101-2200.md#kiyani26a-evaluation) · 中文
 - [From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents](../../conferences/icml-2026/cards/2101-2200.md#ko26b-evaluation) · 中文
 - [It’s a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents](../../conferences/icml-2026/cards/2201-2300.md#korgul26a-evaluation) · 中文
+- [Disentangling Geometry, Performance, and Training in Language Models](../../conferences/icml-2026/cards/2201-2300.md#kulkarni26c-evaluation) · 中文
+- [How do LLMs Compute Verbal Confidence?](../../conferences/icml-2026/cards/2201-2300.md#kumaran26a-evaluation) · 中文
+- [SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks](../../conferences/icml-2026/cards/2201-2300.md#kundurthy26a-evaluation) · 中文
+- [Measuring Intent Comprehension in LLMs](../../conferences/icml-2026/cards/2201-2300.md#kunievsky26a-evaluation) · 中文
+- [UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms](../../conferences/icml-2026/cards/2201-2300.md#lai26a-evaluation) · 中文
+- [Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines](../../conferences/icml-2026/cards/2201-2300.md#lambert26a-evaluation) · 中文
+- [RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing](../../conferences/icml-2026/cards/2201-2300.md#lasy26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -238,6 +245,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text](../../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · 中文
 - [Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG](../../conferences/icml-2026/cards/2001-2100.md#ki26a-evaluation) · 中文
 - [Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation](../../conferences/icml-2026/cards/2101-2200.md#klearman26a-evaluation) · 中文
+- [Translation Heads: Disentangling meaning from language in LLM-based machine translation](../../conferences/icml-2026/cards/2201-2300.md#lasnier26a-evaluation) · 中文
+- [MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations](../../conferences/icml-2026/cards/2201-2300.md#lavrinovics26a-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -247,6 +256,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](../../conferences/icml-2026/cards/0701-0800.md#cherepanov26a-evaluation) · 中文
 - [PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](../../conferences/icml-2026/cards/1301-1400.md#guo26f-evaluation) · 中文
 - [Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · 中文
+- [MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -310,6 +320,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Real-Time Visual Attribution Streaming in Thinking Model](../../conferences/icml-2026/cards/2001-2100.md#kang26d-evaluation) · 中文
 - [MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding](../../conferences/icml-2026/cards/2201-2300.md#kou26c-evaluation) · 中文
 - [LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](../../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · 中文
+- [Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models](../../conferences/icml-2026/cards/2201-2300.md#lai26e-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -352,6 +363,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Time series saliency maps: Explaining models across multiple domains](../../conferences/icml-2026/cards/2001-2100.md#kechris26a-evaluation) · 中文
 - [Mechanistic Anomaly Detection via Functional Attribution](../../conferences/icml-2026/cards/2001-2100.md#keenan26a-evaluation) · 中文
 - [The Data Manifold under the Microscope](../../conferences/icml-2026/cards/2201-2300.md#koulakis26a-evaluation) · 中文
+- [Function-Valued Causal Influence in Nonlinear Time Series](../../conferences/icml-2026/cards/2201-2300.md#kuskova26a-evaluation) · 中文
+- [ConTSG-Bench: A Unified Benchmark for Conditional Time Series Generation](../../conferences/icml-2026/cards/2201-2300.md#lan26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -363,6 +376,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](../../conferences/icml-2026/cards/1101-1200.md#forbat26a-evaluation) · 中文
 - [VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](../../conferences/icml-2026/cards/1301-1400.md#guan26b-evaluation) · 中文
 - [TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions](../../conferences/icml-2026/cards/1501-1600.md#heidari26a-evaluation) · 中文
+- [Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](../../conferences/icml-2026/cards/2201-2300.md#lagesse26a-evaluation) · 中文
 
 <a id="by-scientific-ml"></a>
 

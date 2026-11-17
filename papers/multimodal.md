@@ -24,6 +24,7 @@
 - <a id="huang26be-architecture"></a>[CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../conferences/icml-2026/cards/1701-1800.md#paper-huang26be)
 - <a id="jin26m-architecture"></a>[SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jin26m)
 - <a id="koh26a-architecture"></a>[Generative Visual Code Mobile World Models](../conferences/icml-2026/cards/2101-2200.md#paper-koh26a)
+- <a id="langer26a-architecture"></a>[OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](../conferences/icml-2026/cards/2201-2300.md#paper-langer26a)
 
 <a id="by-modules"></a>
 
@@ -93,6 +94,8 @@
 - <a id="huang26bm-reinforcement-learning"></a>[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bm)
 - <a id="kim26bs-reinforcement-learning"></a>[Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bs)
 - <a id="kou26b-reinforcement-learning"></a>[Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](../conferences/icml-2026/cards/2201-2300.md#paper-kou26b)
+- <a id="lai26h-reinforcement-learning"></a>[Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](../conferences/icml-2026/cards/2201-2300.md#paper-lai26h)
+- <a id="le26d-reinforcement-learning"></a>[PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](../conferences/icml-2026/cards/2201-2300.md#paper-le26d)
 
 <a id="by-training-strategies"></a>
 
@@ -121,6 +124,8 @@
 - <a id="kang26c-training-strategies"></a>[Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26c)
 - <a id="karim26a-training-strategies"></a>[FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](../conferences/icml-2026/cards/2001-2100.md#paper-karim26a)
 - <a id="kong26h-training-strategies"></a>[ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation](../conferences/icml-2026/cards/2101-2200.md#paper-kong26h)
+- <a id="lang26a-training-strategies"></a>[AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning](../conferences/icml-2026/cards/2201-2300.md#paper-lang26a)
+- <a id="le26b-training-strategies"></a>[HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models](../conferences/icml-2026/cards/2201-2300.md#paper-le26b)
 
 <a id="by-data-strategies"></a>
 
@@ -262,6 +267,7 @@
 - <a id="kang26d-evaluation"></a>[Real-Time Visual Attribution Streaming in Thinking Model](../conferences/icml-2026/cards/2001-2100.md#paper-kang26d)
 - <a id="kou26c-evaluation"></a>[MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding](../conferences/icml-2026/cards/2201-2300.md#paper-kou26c)
 - <a id="krojer26a-evaluation"></a>[LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](../conferences/icml-2026/cards/2201-2300.md#paper-krojer26a)
+- <a id="lai26e-evaluation"></a>[Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models](../conferences/icml-2026/cards/2201-2300.md#paper-lai26e)
 
 <a id="by-theory-statistics"></a>
 

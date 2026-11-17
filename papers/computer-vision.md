@@ -63,6 +63,7 @@
 - <a id="jiang26ay-modules"></a>[SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ay)
 - <a id="ke26d-modules"></a>[Deformba: Vision State Space Model with Adaptive State Fusion](../conferences/icml-2026/cards/2001-2100.md#paper-ke26d)
 - <a id="kim26by-modules"></a>[Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception](../conferences/icml-2026/cards/2101-2200.md#paper-kim26by)
+- <a id="kumar26c-modules"></a>[Concept Removal for Frontier Image Generative Models](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26c)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -100,6 +101,8 @@
 - <a id="kang26s-optimization"></a>[Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction](../conferences/icml-2026/cards/2001-2100.md#paper-kang26s)
 - <a id="khalafi26a-optimization"></a>[Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints](../conferences/icml-2026/cards/2001-2100.md#paper-khalafi26a)
 - <a id="kim26ax-optimization"></a>[MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ax)
+- <a id="la-rosa26a-optimization"></a>[Guaranteed Optimal Compositional Explanations for Neurons](../conferences/icml-2026/cards/2201-2300.md#paper-la-rosa26a)
+- <a id="lai26d-optimization"></a>[MoCL: Metabolic Optimization for Curvature-Aware Continual Learning](../conferences/icml-2026/cards/2201-2300.md#paper-lai26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -138,6 +141,7 @@
 - <a id="hou26b-training-strategies"></a>[Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels](../conferences/icml-2026/cards/1601-1700.md#paper-hou26b)
 - <a id="hyun26a-training-strategies"></a>[Scalable GANs with Transformers](../conferences/icml-2026/cards/1801-1900.md#paper-hyun26a)
 - <a id="kang26e-training-strategies"></a>[Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26e)
+- <a id="kumar26a-training-strategies"></a>[Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26a)
 
 <a id="by-data-strategies"></a>
 
@@ -211,6 +215,7 @@
 - <a id="jia26g-inference"></a>[Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance](../conferences/icml-2026/cards/1801-1900.md#paper-jia26g)
 - <a id="jiao26e-inference"></a>[Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26e)
 - <a id="kim26bo-inference"></a>[Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bo)
+- <a id="kwon26d-inference"></a>[Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation](../conferences/icml-2026/cards/2201-2300.md#paper-kwon26d)
 
 <a id="by-representation-learning"></a>
 
