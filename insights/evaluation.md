@@ -17,7 +17,6 @@
 - [表征分析](../conferences/icml-2026/cards/0001-0100.md#acevedo26a-evaluation) · Differential syntactic and semantic encoding in LLMs
 - [分阶段评测](../conferences/icml-2026/cards/0001-0100.md#acharya26a-evaluation) · CauSciBench: Can LLMs Automate Causal Inference in Real-World Scientific Research?
 - [一致性训练](../conferences/icml-2026/cards/0001-0100.md#africa26a-evaluation) · Consistency Training Can Entrench Misalignment
-- [持续记忆评测](../conferences/icml-2026/cards/0001-0100.md#ai26e-evaluation) · MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems
 - [Agent 合规评测](../conferences/icml-2026/cards/0001-0100.md#aka26a-evaluation) · Evaluating Contextual Illegality: AI Compliance in Corporate Law Scenarios
 - [基准饱和](../conferences/icml-2026/cards/0001-0100.md#akhtar26a-evaluation) · When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 - [提示攻击检测](../conferences/icml-2026/cards/0001-0100.md#alshaalan26a-evaluation) · Detecting Fluent Optimization-Based Adversarial Prompts via Sequential Entropy Changes
@@ -28,7 +27,6 @@
 - [归纳头形成](../conferences/icml-2026/cards/0101-0200.md#aoyama26a-evaluation) · Predicting the Emergence of Induction Heads in Language Model Pretraining
 - [隐性偏差审计](../conferences/icml-2026/cards/0101-0200.md#arcuschin26a-evaluation) · Biases in the Blind Spot: Detecting What LLMs Fail to Mention
 - [推理忠实性](../conferences/icml-2026/cards/0101-0200.md#arcuschin26b-evaluation) · Chain-of-Thought Reasoning In The Wild Is Not Always Faithful
-- [Agent 目标表征](../conferences/icml-2026/cards/0101-0200.md#arghal26a-evaluation) · A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents
 - [Agent 执行监控](../conferences/icml-2026/cards/0101-0200.md#arike26a-evaluation) · How does information access affect LLM monitors’ ability to detect sabotage?
 - [语言模型电路](../conferences/icml-2026/cards/0101-0200.md#arora26c-evaluation) · Language Model Circuits Are Sparse in the Neuron Basis
 - [LoRA 知识记忆](../conferences/icml-2026/cards/0101-0200.md#back26a-evaluation) · Understanding LoRA as Knowledge Memory: An Empirical Analysis
@@ -84,7 +82,6 @@
 - [社会影响信号的在线序贯监测](../conferences/icml-2026/cards/0801-0900.md#dai26d-evaluation) · Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data
 - [图路径诊断推理幻觉](../conferences/icml-2026/cards/0801-0900.md#dai26k-evaluation) · When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression
 - [持续软件演进的里程碑评测](../conferences/icml-2026/cards/0801-0900.md#deng26d-evaluation) · SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution
-- [跨文件软件工程的补丁验证](../conferences/icml-2026/cards/0801-0900.md#deng26f-evaluation) · SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?
 - [歧义搜索的交互必要性检测](../conferences/icml-2026/cards/0801-0900.md#deng26h-evaluation) · InteractComp: Evaluating Search Agents With Ambiguous Queries
 - [审稿意见的分类校验](../conferences/icml-2026/cards/0801-0900.md#deng26j-evaluation) · CoCoReviewBench: A Completeness- and Correctness-Oriented Benchmark for AI Reviewers
 - [多模型投票的相关错误诊断](../conferences/icml-2026/cards/0801-0900.md#denisov-blanch26a-evaluation) · Truthfulness Does Not Scale Like Reasoning: Why Polling Fails as a Proxy Verifier
@@ -393,7 +390,6 @@
 - [音频深伪检测的多样性压力测试](../conferences/icml-2026/cards/0801-0900.md#dehdashtian26a-evaluation) · FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors
 - [同行评审来源的声明级检测](../conferences/icml-2026/cards/0901-1000.md#duarte26a-evaluation) · Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews
 - [重写式事后文本水印评测](../conferences/icml-2026/cards/1101-1200.md#fernandez26b-evaluation) · How Good is Post-Hoc Watermarking With Language Model Rephrasing?
-- [机器翻译的无参考成对排序](../conferences/icml-2026/cards/1201-1300.md#gao26af-evaluation) · FiRE: Fine-grained Ranking Evaluation for Machine Translation
 - [音频自监督表征的凸门控探测](../conferences/icml-2026/cards/1201-1300.md#ghaffari26a-evaluation) · BAT: Better Audio Transformer Guided by Convex Gated Probing
 - [基于低概率词位的不确定性检测](../conferences/icml-2026/cards/1301-1400.md#guo26w-evaluation) · On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective
 - [基于真实音乐密度的生成检测](../conferences/icml-2026/cards/1401-1500.md#han26u-evaluation) · MusicDET: Zero-Shot AI-Generated Music Detection
@@ -434,7 +430,6 @@
 - [机器人轨迹安全](../conferences/icml-2026/cards/0101-0200.md#bai26e-evaluation) · SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics
 - [柔性线状物体操作](../conferences/icml-2026/cards/0401-0500.md#cao26w-evaluation) · DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics
 - [长程操作记忆的分项评测](../conferences/icml-2026/cards/0801-0900.md#dai26c-evaluation) · RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
-- [机器人生成视频的物理与任务评测](../conferences/icml-2026/cards/0801-0900.md#deng26r-evaluation) · Rethinking Video Generation Model for the Embodied World
 - [动作块增量的基准姿态](../conferences/icml-2026/cards/1101-1200.md#feng26ab-evaluation) · Demystifying Action Space Design for Robotic Manipulation Policies
 - [机器人代码策略的分层脚手架评测](../conferences/icml-2026/cards/1101-1200.md#fu26u-evaluation) · CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
 - [分开审计 VLA 的指令、推理与动作链路](../conferences/icml-2026/cards/1701-1800.md#huang26cm-evaluation) · TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches
@@ -460,17 +455,13 @@
 - [基础视觉推理诊断](../conferences/icml-2026/cards/0601-0700.md#chen26fj-evaluation) · BabyVision: Visual Reasoning Beyond Language
 - [文生图人口属性多样性评测](../conferences/icml-2026/cards/0601-0700.md#chen26gz-evaluation) · HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing
 - [视觉语言模型的选择偏好审计](../conferences/icml-2026/cards/0701-0800.md#cherep26a-evaluation) · Visual Persuasion: What Influences Decisions of Vision-Language Models?
-- [游戏开发智能体的运行时反馈](../conferences/icml-2026/cards/0701-0800.md#chi26a-evaluation) · GameDevBench: Evaluating Agentic Capabilities Through Game Development
 - [视觉实体追踪的感知与推理解耦](../conferences/icml-2026/cards/0701-0800.md#cohen26d-evaluation) · MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models
-- [视觉历史中的跨图检索评测](../conferences/icml-2026/cards/0801-0900.md#deng26g-evaluation) · DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories
-- [科学视频推理的视觉依赖校验](../conferences/icml-2026/cards/0801-0900.md#deng26w-evaluation) · SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models
 - [语义近邻校准标注判错](../conferences/icml-2026/cards/0801-0900.md#di26b-evaluation) · Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help
 - [由图像主动决定开放网页检索](../conferences/icml-2026/cards/1001-1100.md#fan26a-evaluation) · NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web
 - [用图像证据约束欺骗辩论](../conferences/icml-2026/cards/1001-1100.md#fang26f-evaluation) · Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models
 - [音频安全评测的稀疏梯度诊断](../conferences/icml-2026/cards/1001-1100.md#fang26r-evaluation) · Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization
 - [文本条件下的音视频信息分解](../conferences/icml-2026/cards/1001-1100.md#fang26x-evaluation) · Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition
 - [区分旧事实更新和未知事实学习](../conferences/icml-2026/cards/1101-1200.md#fu26c-evaluation) · MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge
-- [多模态伪造的来源与事实双轴评测](../conferences/icml-2026/cards/1201-1300.md#gao26g-evaluation) · FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content
 - [文本知识编辑的图像迁移诊断](../conferences/icml-2026/cards/1201-1300.md#gao26ag-evaluation) · Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs
 - [手机 GUI 代理的分能力诊断](../conferences/icml-2026/cards/1301-1400.md#gong26a-evaluation) · VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics
 - [图文一致的训练数据后门评测](../conferences/icml-2026/cards/1301-1400.md#guo26q-evaluation) · CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models
@@ -616,7 +607,6 @@
 
 ### 科学机器学习
 
-- [时间序列预测评测](../conferences/icml-2026/cards/0001-0100.md#ahamed26a-evaluation) · TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems
 - [格密码机器学习分析](../conferences/icml-2026/cards/0001-0100.md#alfarano26a-evaluation) · Improving ML Attacks on LWE with Data Repetition and Stepwise Regression
 - [恶意软件谱系重建](../conferences/icml-2026/cards/0001-0100.md#amalan26a-evaluation) · MalTree: Tracing Malware Evolution from Embeddings at Scale
 - [生存模型评测](../conferences/icml-2026/cards/0101-0200.md#bahrini26a-evaluation) · When Can We Trust Survival Model Evaluation ?
@@ -626,12 +616,10 @@
 - [科学标注行为克隆](../conferences/icml-2026/cards/0401-0500.md#chandok26a-evaluation) · A Systematic Study of Behavioral Cloning for Scientific Data Annotation
 - [自然感官数据的跨刺激神经预测](../conferences/icml-2026/cards/0601-0700.md#chen26fp-evaluation) · Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli
 - [语言与语音层表征的脑响应对齐](../conferences/icml-2026/cards/0601-0700.md#cheng26l-evaluation) · Abstraction Induces the Brain Alignment of Language and Speech Models
-- [长程脑电癫痫检测的泛化评测](../conferences/icml-2026/cards/0801-0900.md#dan26a-evaluation) · Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge
 - [蛋白适应度的外推切分](../conferences/icml-2026/cards/0801-0900.md#didi26a-evaluation) · FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications
 - [生物基础模型的双类扰动诊断](../conferences/icml-2026/cards/0901-1000.md#duan26f-evaluation) · (Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations
 - [生物信息学智能体的流程稳健性评测](../conferences/icml-2026/cards/1001-1100.md#fa26a-evaluation) · BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics
 - [按轮次回放蛋白工程候选筛选](../conferences/icml-2026/cards/1201-1300.md#gao26ao-evaluation) · TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering
-- [多语言医疗模型的分维度可信评测](../conferences/icml-2026/cards/1201-1300.md#ghosh26b-evaluation) · CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare
 - [视觉皮层映射的神经样本缩放](../conferences/icml-2026/cards/1201-1300.md#gokce26a-evaluation) · Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex
 - [站点天气预报的物理与业务对照](../conferences/icml-2026/cards/1401-1500.md#han26v-evaluation) · Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting
 - [同时核对反演代理的物理耦合和速度](../conferences/icml-2026/cards/1501-1600.md#he26ay-evaluation) · MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition

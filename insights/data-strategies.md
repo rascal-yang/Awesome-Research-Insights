@@ -18,7 +18,6 @@
 - [改写稳定性](../conferences/icml-2026/cards/0101-0200.md#arraf26a-data-strategies) · Learning Rewrite-Invariant Reasoning with Targeted Alternation Training
 - [代码安全评测](../conferences/icml-2026/cards/0101-0200.md#arx26a-data-strategies) · AutoBaxBuilder: Bootstrapping Code Security Benchmarking
 - [奖励投机](../conferences/icml-2026/cards/0101-0200.md#azarbal26a-data-strategies) · Recontextualization Mitigates Specification Gaming Without Modifying the Specification
-- [代码 Agent 训练数据](../conferences/icml-2026/cards/0101-0200.md#badertdinov26a-data-strategies) · SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale
 - [事实预训练](../conferences/icml-2026/cards/0201-0300.md#behnia26a-data-strategies) · Facts in Stats: Impacts of Pretraining Diversity on Language Model Generalization
 - [GUI Agent 错误恢复](../conferences/icml-2026/cards/0301-0400.md#bu26b-data-strategies) · Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents
 - [网页 Agent 训练环境](../conferences/icml-2026/cards/0401-0500.md#chae26a-data-strategies) · Safe and Scalable Web Agent Learning via Recreated Websites
@@ -103,7 +102,6 @@
 ### 自然语言处理
 
 - [差分隐私合成数据](../conferences/icml-2026/cards/0201-0300.md#banayeeanzade26a-data-strategies) · EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors
-- [临床文本改写的专家约束](../conferences/icml-2026/cards/0701-0800.md#cho26i-data-strategies) · Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration
 - [对比学习的困难负例组批](../conferences/icml-2026/cards/0901-1000.md#dutta26a-data-strategies) · HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training
 - [用结构化属性生成可审计的隐私文书](../conferences/icml-2026/cards/2101-2200.md#kim26az-data-strategies) · Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch
 
@@ -143,8 +141,6 @@
 - [视觉定位监督](../conferences/icml-2026/cards/0101-0200.md#assouel26a-data-strategies) · PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs
 - [多模态数据蒸馏](../conferences/icml-2026/cards/0301-0400.md#bo26b-data-strategies) · Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching
 - [弱监督指代分割](../conferences/icml-2026/cards/0401-0500.md#cao26aa-data-strategies) · Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation
-- [图解到代码](../conferences/icml-2026/cards/0401-0500.md#chai26b-data-strategies) · From Diagrams to Code: Multilingual Programming with Visual Design
-- [多模态图像编辑数据](../conferences/icml-2026/cards/0401-0500.md#chen26c-data-strategies) · OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing
 - [GUI 智能体的失败轨迹纠错数据](../conferences/icml-2026/cards/0601-0700.md#chen26gb-data-strategies) · CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training
 - [用近域异常文本约束开放集识别](../conferences/icml-2026/cards/1001-1100.md#fang26b-data-strategies) · Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness
 - [电信观测序列保留绝对量纲](../conferences/icml-2026/cards/1101-1200.md#feng26s-data-strategies) · TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis

@@ -21,6 +21,8 @@ Ask three questions in order. Include the paper only if all three answers are ye
 
 When the main contribution is applying existing methods to a new task or dataset, scaling models, data, or compute, integrating existing components, improving performance, or designing for a narrow setting, check the paper for a separate insight that passes all three questions. Leave uncertain cases pending until the evidence can be checked.
 
+Name the specific contribution and how someone could reuse it. Routine reporting across several metrics, combinations of existing components, scores from a single setup, and hypothetical transfer alone do not qualify. For new mechanisms and approaches, verify that the paper specifies a design that can be used independently. For findings and failure lessons, cite the supporting evidence, the conditions it applies to, and the decision it can inform.
+
 ## Add or revise a card
 
 1. Search by paper title and identifier. When a preprint and proceedings paper describe the same work, update the sources in its existing card.

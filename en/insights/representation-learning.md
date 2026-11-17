@@ -13,7 +13,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 
 ### Large Language Models
 
-- [Regression Language Models for Code](../../conferences/icml-2026/cards/0001-0100.md#akhauri26b-representation-learning) · 中文
 - [Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](../../conferences/icml-2026/cards/0501-0600.md#chen26dr-representation-learning) · 中文
 - [ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](../../conferences/icml-2026/cards/0601-0700.md#chen26gy-representation-learning) · 中文
 - [Ensembling Sparse Autoencoders](../../conferences/icml-2026/cards/1101-1200.md#gadgil26a-representation-learning) · 中文
@@ -270,7 +269,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 ### Scientific Machine Learning
 
 - [Geometry-Guided Generative Representation for Functional Brain Graphs](../../conferences/icml-2026/cards/0001-0100.md#abulikemu26a-representation-learning) · 中文
-- [Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](../../conferences/icml-2026/cards/0101-0200.md#antoniadis26a-representation-learning) · 中文
 - [Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](../../conferences/icml-2026/cards/0101-0200.md#ariguib26a-representation-learning) · 中文
 - [A Machine-Learned Comorbidity Index](../../conferences/icml-2026/cards/0201-0300.md#baloch26a-representation-learning) · 中文
 - [Foundation VAEs for CT Reconstruction, Augmentation, and Generation](../../conferences/icml-2026/cards/0401-0500.md#chen26u-representation-learning) · 中文

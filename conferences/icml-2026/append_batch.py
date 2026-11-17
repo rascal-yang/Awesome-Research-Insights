@@ -84,8 +84,10 @@ def read_screening(path, records, review_existing):
             raise ValueError(f'Invalid or duplicate screening decision for paper {number}.')
         record = records[number - 1]
         status = 'written' if review_existing else 'pending'
+        completed = bool(record['screening_reason'])
+        revising_exclusion = review_existing and decision == 'exclude'
         if (record['pmlr_id'] != row['pmlr_id'] or record['insight_status'] != status
-                or record['screening_reason']):
+                or (completed and not revising_exclusion)):
             raise ValueError(f'Paper {number} is not awaiting this screening decision.')
         decisions[number] = decision, reason
     return decisions
@@ -195,7 +197,14 @@ def add_batch(batch_path, date, paper_cards, screening, review_existing=False):
     unreviewed = [n for n, row in catalog.items() if not row['screening_reason']]
     next_pending = next((int(row['number']) for row in records if row['insight_status'] == 'pending'), None)
     render_conference_index(catalog, screened, total, unreviewed, next_pending)
-    render_indexes(catalog, mapping, screened, total, first, last, date)
+    range_label = str(first) if first == last else f'{first}–{last}'
+    if last - first + 1 == len(decisions):
+        update = (f'筛选 ICML 2026 编号 {range_label}，同步更新收录索引。',
+                  f'Screened ICML 2026 papers {range_label} and updated the indexes.')
+    else:
+        update = (f'复核 {len(decisions)} 张 ICML 2026 论文卡，移除 {len(decisions) - len(retained)} 张。',
+                  f'Reviewed {len(decisions)} ICML 2026 cards and removed {len(decisions) - len(retained)}.')
+    render_indexes(catalog, mapping, screened, total, date, update)
     refresh_card_index()
     print(f'Screened {len(decisions)} papers in this batch, retained {len(retained)}, '
           f'excluded {len(decisions) - len(retained)}. Total: {screened:,} / {total:,} screened, '
@@ -225,7 +234,7 @@ def render_conference_index(catalog, screened, total, unreviewed, next_pending):
     assert updated == 1
     index.write_text(text, encoding='utf-8')
 
-def render_indexes(catalog, mapping, screened, total, first, last, date):
+def render_indexes(catalog, mapping, screened, total, date, update):
     papers = {}
     titles = {}
     for path in set(card_locations(card_catalog()).values()):
@@ -325,11 +334,7 @@ def render_indexes(catalog, mapping, screened, total, first, last, date):
             text, inserted = re.subn(expression, rf'\g<1>{tech_count[technique]}\g<2>', text, flags=re.M)
             assert inserted == 1, (home, target)
         marker = '## Recent Updates\n\n' if english else '## 最近更新\n\n'
-        new_update = (
-            f'- **{date}** · Screened ICML 2026 papers {first}–{last} and updated the indexes.'
-            if english else
-            f'- **{date}** · 筛选 ICML 2026 编号 {first}–{last}，同步更新收录索引。'
-        )
+        new_update = f'- **{date}** · {update[english]}'
         assert text.count(marker) == 1
         head, _, tail = text.partition(marker)
         footer = '## Contributing\n\n' if english else '<a id="contributing"></a>\n\n## 参与贡献\n\n'

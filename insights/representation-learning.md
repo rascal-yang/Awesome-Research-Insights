@@ -13,7 +13,6 @@
 
 ### 大语言模型
 
-- [代码数值预测的逐位自回归解码](../conferences/icml-2026/cards/0001-0100.md#akhauri26b-representation-learning) · Regression Language Models for Code
 - [面向监测的行为表征解耦](../conferences/icml-2026/cards/0501-0600.md#chen26dr-representation-learning) · Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring
 - [思维链视觉压缩](../conferences/icml-2026/cards/0601-0700.md#chen26gy-representation-learning) · ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model
 - [按残差训练稀疏自编码器集成](../conferences/icml-2026/cards/1101-1200.md#gadgil26a-representation-learning) · Ensembling Sparse Autoencoders
@@ -270,7 +269,6 @@
 ### 科学机器学习
 
 - [图表征学习](../conferences/icml-2026/cards/0001-0100.md#abulikemu26a-representation-learning) · Geometry-Guided Generative Representation for Functional Brain Graphs
-- [分子动力学泛化](../conferences/icml-2026/cards/0101-0200.md#antoniadis26a-representation-learning) · Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators
 - [分子自监督](../conferences/icml-2026/cards/0101-0200.md#ariguib26a-representation-learning) · Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining
 - [多结局风险表征](../conferences/icml-2026/cards/0201-0300.md#baloch26a-representation-learning) · A Machine-Learned Comorbidity Index
 - [医学图像潜空间复用](../conferences/icml-2026/cards/0401-0500.md#chen26u-representation-learning) · Foundation VAEs for CT Reconstruction, Augmentation, and Generation

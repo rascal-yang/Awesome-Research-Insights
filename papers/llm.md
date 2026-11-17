@@ -509,7 +509,6 @@
 - <a id="arraf26a-data-strategies"></a>[Learning Rewrite-Invariant Reasoning with Targeted Alternation Training](../conferences/icml-2026/cards/0101-0200.md#paper-arraf26a)
 - <a id="arx26a-data-strategies"></a>[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](../conferences/icml-2026/cards/0101-0200.md#paper-arx26a)
 - <a id="azarbal26a-data-strategies"></a>[Recontextualization Mitigates Specification Gaming Without Modifying the Specification](../conferences/icml-2026/cards/0101-0200.md#paper-azarbal26a)
-- <a id="badertdinov26a-data-strategies"></a>[SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale](../conferences/icml-2026/cards/0101-0200.md#paper-badertdinov26a)
 - <a id="behnia26a-data-strategies"></a>[Facts in Stats: Impacts of Pretraining Diversity on Language Model Generalization](../conferences/icml-2026/cards/0201-0300.md#paper-behnia26a)
 - <a id="bu26b-data-strategies"></a>[Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](../conferences/icml-2026/cards/0301-0400.md#paper-bu26b)
 - <a id="chae26a-data-strategies"></a>[Safe and Scalable Web Agent Learning via Recreated Websites](../conferences/icml-2026/cards/0401-0500.md#paper-chae26a)
@@ -856,7 +855,6 @@
 
 ### 表征学习
 
-- <a id="akhauri26b-representation-learning"></a>[Regression Language Models for Code](../conferences/icml-2026/cards/0001-0100.md#paper-akhauri26b)
 - <a id="chen26dr-representation-learning"></a>[Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](../conferences/icml-2026/cards/0501-0600.md#paper-chen26dr)
 - <a id="chen26gy-representation-learning"></a>[ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](../conferences/icml-2026/cards/0601-0700.md#paper-chen26gy)
 - <a id="gadgil26a-representation-learning"></a>[Ensembling Sparse Autoencoders](../conferences/icml-2026/cards/1101-1200.md#paper-gadgil26a)
@@ -880,7 +878,6 @@
 - <a id="acevedo26a-evaluation"></a>[Differential syntactic and semantic encoding in LLMs](../conferences/icml-2026/cards/0001-0100.md#paper-acevedo26a)
 - <a id="acharya26a-evaluation"></a>[CauSciBench: Can LLMs Automate Causal Inference in Real-World Scientific Research?](../conferences/icml-2026/cards/0001-0100.md#paper-acharya26a)
 - <a id="africa26a-evaluation"></a>[Consistency Training Can Entrench Misalignment](../conferences/icml-2026/cards/0001-0100.md#paper-africa26a)
-- <a id="ai26e-evaluation"></a>[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](../conferences/icml-2026/cards/0001-0100.md#paper-ai26e)
 - <a id="aka26a-evaluation"></a>[Evaluating Contextual Illegality: AI Compliance in Corporate Law Scenarios](../conferences/icml-2026/cards/0001-0100.md#paper-aka26a)
 - <a id="akhtar26a-evaluation"></a>[When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](../conferences/icml-2026/cards/0001-0100.md#paper-akhtar26a)
 - <a id="alshaalan26a-evaluation"></a>[Detecting Fluent Optimization-Based Adversarial Prompts via Sequential Entropy Changes](../conferences/icml-2026/cards/0001-0100.md#paper-alshaalan26a)
@@ -891,7 +888,6 @@
 - <a id="aoyama26a-evaluation"></a>[Predicting the Emergence of Induction Heads in Language Model Pretraining](../conferences/icml-2026/cards/0101-0200.md#paper-aoyama26a)
 - <a id="arcuschin26a-evaluation"></a>[Biases in the Blind Spot: Detecting What LLMs Fail to Mention](../conferences/icml-2026/cards/0101-0200.md#paper-arcuschin26a)
 - <a id="arcuschin26b-evaluation"></a>[Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](../conferences/icml-2026/cards/0101-0200.md#paper-arcuschin26b)
-- <a id="arghal26a-evaluation"></a>[A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents](../conferences/icml-2026/cards/0101-0200.md#paper-arghal26a)
 - <a id="arike26a-evaluation"></a>[How does information access affect LLM monitors’ ability to detect sabotage?](../conferences/icml-2026/cards/0101-0200.md#paper-arike26a)
 - <a id="arora26c-evaluation"></a>[Language Model Circuits Are Sparse in the Neuron Basis](../conferences/icml-2026/cards/0101-0200.md#paper-arora26c)
 - <a id="back26a-evaluation"></a>[Understanding LoRA as Knowledge Memory: An Empirical Analysis](../conferences/icml-2026/cards/0101-0200.md#paper-back26a)
@@ -947,7 +943,6 @@
 - <a id="dai26d-evaluation"></a>[Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data](../conferences/icml-2026/cards/0801-0900.md#paper-dai26d)
 - <a id="dai26k-evaluation"></a>[When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression](../conferences/icml-2026/cards/0801-0900.md#paper-dai26k)
 - <a id="deng26d-evaluation"></a>[SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution](../conferences/icml-2026/cards/0801-0900.md#paper-deng26d)
-- <a id="deng26f-evaluation"></a>[SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?](../conferences/icml-2026/cards/0801-0900.md#paper-deng26f)
 - <a id="deng26h-evaluation"></a>[InteractComp: Evaluating Search Agents With Ambiguous Queries](../conferences/icml-2026/cards/0801-0900.md#paper-deng26h)
 - <a id="deng26j-evaluation"></a>[CoCoReviewBench: A Completeness- and Correctness-Oriented Benchmark for AI Reviewers](../conferences/icml-2026/cards/0801-0900.md#paper-deng26j)
 - <a id="denisov-blanch26a-evaluation"></a>[Truthfulness Does Not Scale Like Reasoning: Why Polling Fails as a Proxy Verifier](../conferences/icml-2026/cards/0801-0900.md#paper-denisov-blanch26a)

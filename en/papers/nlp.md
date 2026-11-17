@@ -65,7 +65,6 @@ Language processing methods, including structured prediction and retrieval.
 ### Data Strategies
 
 - <a id="banayeeanzade26a-data-strategies"></a>[EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](../../conferences/icml-2026/cards/0201-0300.md#paper-banayeeanzade26a)
-- <a id="cho26i-data-strategies"></a>[Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](../../conferences/icml-2026/cards/0701-0800.md#paper-cho26i)
 - <a id="dutta26a-data-strategies"></a>[HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](../../conferences/icml-2026/cards/0901-1000.md#paper-dutta26a)
 - <a id="kim26az-data-strategies"></a>[Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26az)
 
@@ -114,7 +113,6 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="dehdashtian26a-evaluation"></a>[FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](../../conferences/icml-2026/cards/0801-0900.md#paper-dehdashtian26a)
 - <a id="duarte26a-evaluation"></a>[Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](../../conferences/icml-2026/cards/0901-1000.md#paper-duarte26a)
 - <a id="fernandez26b-evaluation"></a>[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](../../conferences/icml-2026/cards/1101-1200.md#paper-fernandez26b)
-- <a id="gao26af-evaluation"></a>[FiRE: Fine-grained Ranking Evaluation for Machine Translation](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26af)
 - <a id="ghaffari26a-evaluation"></a>[BAT: Better Audio Transformer Guided by Convex Gated Probing](../../conferences/icml-2026/cards/1201-1300.md#paper-ghaffari26a)
 - <a id="guo26w-evaluation"></a>[On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26w)
 - <a id="han26u-evaluation"></a>[MusicDET: Zero-Shot AI-Generated Music Detection](../../conferences/icml-2026/cards/1401-1500.md#paper-han26u)

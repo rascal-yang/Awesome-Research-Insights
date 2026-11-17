@@ -187,7 +187,6 @@
 - <a id="bai26e-evaluation"></a>[SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](../conferences/icml-2026/cards/0101-0200.md#paper-bai26e)
 - <a id="cao26w-evaluation"></a>[DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](../conferences/icml-2026/cards/0401-0500.md#paper-cao26w)
 - <a id="dai26c-evaluation"></a>[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](../conferences/icml-2026/cards/0801-0900.md#paper-dai26c)
-- <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](../conferences/icml-2026/cards/0801-0900.md#paper-deng26r)
 - <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab)
 - <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](../conferences/icml-2026/cards/1101-1200.md#paper-fu26u)
 - <a id="huang26cm-evaluation"></a>[TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](../conferences/icml-2026/cards/1701-1800.md#paper-huang26cm)

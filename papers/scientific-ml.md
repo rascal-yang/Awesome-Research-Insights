@@ -336,7 +336,6 @@
 ### 表征学习
 
 - <a id="abulikemu26a-representation-learning"></a>[Geometry-Guided Generative Representation for Functional Brain Graphs](../conferences/icml-2026/cards/0001-0100.md#paper-abulikemu26a)
-- <a id="antoniadis26a-representation-learning"></a>[Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](../conferences/icml-2026/cards/0101-0200.md#paper-antoniadis26a)
 - <a id="ariguib26a-representation-learning"></a>[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](../conferences/icml-2026/cards/0101-0200.md#paper-ariguib26a)
 - <a id="baloch26a-representation-learning"></a>[A Machine-Learned Comorbidity Index](../conferences/icml-2026/cards/0201-0300.md#paper-baloch26a)
 - <a id="chen26u-representation-learning"></a>[Foundation VAEs for CT Reconstruction, Augmentation, and Generation](../conferences/icml-2026/cards/0401-0500.md#paper-chen26u)
@@ -405,7 +404,6 @@
 
 ### 评测与诊断
 
-- <a id="ahamed26a-evaluation"></a>[TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems](../conferences/icml-2026/cards/0001-0100.md#paper-ahamed26a)
 - <a id="alfarano26a-evaluation"></a>[Improving ML Attacks on LWE with Data Repetition and Stepwise Regression](../conferences/icml-2026/cards/0001-0100.md#paper-alfarano26a)
 - <a id="amalan26a-evaluation"></a>[MalTree: Tracing Malware Evolution from Embeddings at Scale](../conferences/icml-2026/cards/0001-0100.md#paper-amalan26a)
 - <a id="bahrini26a-evaluation"></a>[When Can We Trust Survival Model Evaluation ?](../conferences/icml-2026/cards/0101-0200.md#paper-bahrini26a)
@@ -415,12 +413,10 @@
 - <a id="chandok26a-evaluation"></a>[A Systematic Study of Behavioral Cloning for Scientific Data Annotation](../conferences/icml-2026/cards/0401-0500.md#paper-chandok26a)
 - <a id="chen26fp-evaluation"></a>[Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](../conferences/icml-2026/cards/0601-0700.md#paper-chen26fp)
 - <a id="cheng26l-evaluation"></a>[Abstraction Induces the Brain Alignment of Language and Speech Models](../conferences/icml-2026/cards/0601-0700.md#paper-cheng26l)
-- <a id="dan26a-evaluation"></a>[Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](../conferences/icml-2026/cards/0801-0900.md#paper-dan26a)
 - <a id="didi26a-evaluation"></a>[FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications](../conferences/icml-2026/cards/0801-0900.md#paper-didi26a)
 - <a id="duan26f-evaluation"></a>[(Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations](../conferences/icml-2026/cards/0901-1000.md#paper-duan26f)
 - <a id="fa26a-evaluation"></a>[BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics](../conferences/icml-2026/cards/1001-1100.md#paper-fa26a)
 - <a id="gao26ao-evaluation"></a>[TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering](../conferences/icml-2026/cards/1201-1300.md#paper-gao26ao)
-- <a id="ghosh26b-evaluation"></a>[CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare](../conferences/icml-2026/cards/1201-1300.md#paper-ghosh26b)
 - <a id="gokce26a-evaluation"></a>[Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](../conferences/icml-2026/cards/1201-1300.md#paper-gokce26a)
 - <a id="han26v-evaluation"></a>[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](../conferences/icml-2026/cards/1401-1500.md#paper-han26v)
 - <a id="he26ay-evaluation"></a>[MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition](../conferences/icml-2026/cards/1501-1600.md#paper-he26ay)
