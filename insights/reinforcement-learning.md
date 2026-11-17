@@ -172,6 +172,7 @@
 - [任务组内与角色历史双基线](../conferences/icml-2026/cards/4301-4400.md#tang26c-reinforcement-learning) · CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents
 - [预算首token的局部奖励](../conferences/icml-2026/cards/4301-4400.md#tang26h-reinforcement-learning) · Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression
 - [正确性约束下的辩论稳定奖励](../conferences/icml-2026/cards/4301-4400.md#tang26n-reinforcement-learning) · The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization
+- [澄清奖励的可回答性门控](../conferences/icml-2026/cards/4501-4600.md#vijayvargiya26a-reinforcement-learning) · Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks
 
 <a id="by-computer-vision"></a>
 

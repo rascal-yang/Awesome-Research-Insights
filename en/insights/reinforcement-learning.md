@@ -172,6 +172,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents](../../conferences/icml-2026/cards/4301-4400.md#tang26c-reinforcement-learning) · 中文
 - [Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression](../../conferences/icml-2026/cards/4301-4400.md#tang26h-reinforcement-learning) · 中文
 - [The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization](../../conferences/icml-2026/cards/4301-4400.md#tang26n-reinforcement-learning) · 中文
+- [Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks](../../conferences/icml-2026/cards/4501-4600.md#vijayvargiya26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

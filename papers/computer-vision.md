@@ -406,6 +406,7 @@
 - <a id="tao26h-inference"></a>[Bayesian Tensor Decomposition with Diffusion Model Prior](../conferences/icml-2026/cards/4401-4500.md#paper-tao26h)
 - <a id="tong26k-inference"></a>[Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing](../conferences/icml-2026/cards/4401-4500.md#paper-tong26k)
 - <a id="nguyen26v-inference"></a>[Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions](../conferences/icml-2026/cards/4501-4600.md#paper-nguyen26v)
+- <a id="wan26b-inference"></a>[Saving Foundation Flow-Matching Priors for Inverse Problems](../conferences/icml-2026/cards/4501-4600.md#paper-wan26b)
 
 <a id="by-representation-learning"></a>
 
@@ -525,6 +526,7 @@
 - <a id="svatko26a-evaluation"></a>[Deep Learning for BioImaging: What Are We Really Learning?](../conferences/icml-2026/cards/4301-4400.md#paper-svatko26a)
 - <a id="tragoudaras26a-evaluation"></a>[Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](../conferences/icml-2026/cards/4401-4500.md#paper-tragoudaras26a)
 - <a id="vadakkeeveetil-sreelatha26a-evaluation"></a>[RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](../conferences/icml-2026/cards/4501-4600.md#paper-vadakkeeveetil-sreelatha26a)
+- <a id="walter26a-evaluation"></a>[Hidden in Plain Sight – Class Competition Focuses Attribution Maps](../conferences/icml-2026/cards/4501-4600.md#paper-walter26a)
 
 <a id="by-theory-statistics"></a>
 

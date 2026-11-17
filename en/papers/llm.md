@@ -152,6 +152,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tan26e-loss-functions"></a>[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26e)
 - <a id="tang26ab-loss-functions"></a>[RSPO: Regularized Self-Play Alignment of Large Language Models](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26ab)
 - <a id="ustaomeroglu26a-loss-functions"></a>[BLOCK-EM: Preventing Emergent Misalignment via Latent Blocking](../../conferences/icml-2026/cards/4501-4600.md#paper-ustaomeroglu26a)
+- <a id="vuong26b-loss-functions"></a>[$f$-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models](../../conferences/icml-2026/cards/4501-4600.md#paper-vuong26b)
 
 <a id="by-optimization"></a>
 
@@ -404,6 +405,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tang26c-reinforcement-learning"></a>[CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26c)
 - <a id="tang26h-reinforcement-learning"></a>[Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26h)
 - <a id="tang26n-reinforcement-learning"></a>[The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26n)
+- <a id="vijayvargiya26a-reinforcement-learning"></a>[Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks](../../conferences/icml-2026/cards/4501-4600.md#paper-vijayvargiya26a)
 
 <a id="by-training-strategies"></a>
 
@@ -533,6 +535,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tiwari26a-training-strategies"></a>[Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tiwari26a)
 - <a id="tong26n-training-strategies"></a>[ProactiveLLM: Learning Active Interaction for Streaming Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26n)
 - <a id="ullah26a-training-strategies"></a>[Efficient DP-SGD for LLMs with Randomized Clipping](../../conferences/icml-2026/cards/4501-4600.md#paper-ullah26a)
+- <a id="wan26a-training-strategies"></a>[Mitigating Conversational Inertia in Multi-Turn Agents](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26a)
 
 <a id="by-data-strategies"></a>
 
@@ -1306,4 +1309,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shapira26a-theory-statistics"></a>[How RLHF Amplifies Sycophancy](../../conferences/icml-2026/cards/4001-4100.md#paper-shapira26a)
 - <a id="sullivan26a-theory-statistics"></a>[GRPO is Secretly a Process Reward Model](../../conferences/icml-2026/cards/4201-4300.md#paper-sullivan26a)
 - <a id="tomlinson26a-theory-statistics"></a>[Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](../../conferences/icml-2026/cards/4401-4500.md#paper-tomlinson26a)
+- <a id="wakayama26b-theory-statistics"></a>[In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning](../../conferences/icml-2026/cards/4501-4600.md#paper-wakayama26b)
 <!-- classification:end -->

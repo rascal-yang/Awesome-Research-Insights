@@ -408,6 +408,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces](../../conferences/icml-2026/cards/4501-4600.md#valentin26a-optimization) · 中文
 - [DP-KFC: Data-Free Preconditioning for Privacy-Preserving Deep Learning](../../conferences/icml-2026/cards/4501-4600.md#van-den-bosch26a-optimization) · 中文
 - [Variance-Reduced $(\varepsilon, δ)-$Unlearning using Forget Set Gradients](../../conferences/icml-2026/cards/4501-4600.md#van-waerebeke26a-optimization) · 中文
+- [PACER: Acyclic Causal Discovery from Large-scale Interventional Data](../../conferences/icml-2026/cards/4501-4600.md#vinas-torne26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

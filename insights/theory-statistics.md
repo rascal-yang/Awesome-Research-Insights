@@ -67,6 +67,7 @@
 - [先测奖励差再解释迎合漂移](../conferences/icml-2026/cards/4001-4100.md#shapira26a-theory-statistics) · How RLHF Amplifies Sycophancy
 - [按共享前缀频率重加权GRPO](../conferences/icml-2026/cards/4201-4300.md#sullivan26a-theory-statistics) · GRPO is Secretly a Process Reward Model
 - [有限注意力下CoT预算下界](../conferences/icml-2026/cards/4401-4500.md#tomlinson26a-theory-statistics) · Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs
+- [区分预训练逼近和任务识别误差](../conferences/icml-2026/cards/4501-4600.md#wakayama26b-theory-statistics) · In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning
 
 <a id="by-computer-vision"></a>
 
@@ -563,6 +564,9 @@
 - [perceptron-view-of-reparameterization](../conferences/icml-2026/cards/4501-4600.md#tyurin26a-theory-statistics) · Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration
 - [last-iterate-prox-with-local-variance](../conferences/icml-2026/cards/4501-4600.md#vaidyan26a-theory-statistics) · Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms
 - [非均匀光滑下的优化阶段选择](../conferences/icml-2026/cards/4501-4600.md#vaswani26a-theory-statistics) · Convergence of Steepest Descent and Adam under Non-Uniform Smoothness
+- [按误差与有效直径选择核均值特征](../conferences/icml-2026/cards/4501-4600.md#wagner26a-theory-statistics) · New Bounds for Kernel Sums via Fast Spherical Embeddings
+- [测试时更新的谱匹配](../conferences/icml-2026/cards/4501-4600.md#wakayama26a-theory-statistics) · A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt
+- [单样本预测器的单调保形聚合](../conferences/icml-2026/cards/4501-4600.md#waldron26a-theory-statistics) · CAOS: Conformal Aggregation of One-Shot Predictors
 
 <a id="by-graph-and-recommendation"></a>
 

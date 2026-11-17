@@ -187,6 +187,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](../../conferences/icml-2026/cards/4101-4200.md#shi26z-representation-learning) · 中文
 - [Multimodal Latent Language Modeling with Next-Token Diffusion](../../conferences/icml-2026/cards/4201-4300.md#sun26c-representation-learning) · 中文
 - [MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning](../../conferences/icml-2026/cards/4401-4500.md#tonekaboni26a-representation-learning) · 中文
+- [Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs](../../conferences/icml-2026/cards/4501-4600.md#vo26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

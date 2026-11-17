@@ -203,6 +203,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Federated Data and Feature Selection by Generalized CUR Decomposition](../../conferences/icml-2026/cards/4301-4400.md#tang26r-data-strategies) · 中文
 - [Is Data Shapley Not Better than Random in Data Selection? Ask NASH](../../conferences/icml-2026/cards/4401-4500.md#tian26c-data-strategies) · 中文
 - [Differentially Private Synthetic Data via APIs 4: Tabular Data](../../conferences/icml-2026/cards/4401-4500.md#tran26a-data-strategies) · 中文
+- [Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation](../../conferences/icml-2026/cards/4501-4600.md#vithana26a-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

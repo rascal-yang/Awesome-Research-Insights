@@ -420,6 +420,7 @@
 - [low-rank-diffusion-splitting](../conferences/icml-2026/cards/4401-4500.md#tao26h-inference) · Bayesian Tensor Decomposition with Diffusion Model Prior
 - [熵感知视觉稀疏注意力](../conferences/icml-2026/cards/4401-4500.md#tong26k-inference) · Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing
 - [图像扩散后验的Stein校正](../conferences/icml-2026/cards/4501-4600.md#nguyen26v-inference) · Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions
+- [可学习起点与高斯薄壳约束](../conferences/icml-2026/cards/4501-4600.md#wan26b-inference) · Saving Foundation Flow-Matching Priors for Inverse Problems
 
 <a id="by-nlp"></a>
 
@@ -499,6 +500,7 @@
 - [梯度MPC的策略先验边界](../conferences/icml-2026/cards/4201-4300.md#spieler26a-inference) · Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination
 - [request-conditioned-token-pruning](../conferences/icml-2026/cards/4201-4300.md#sun26y-inference) · Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models
 - [conservative-bridge-planning-correction](../conferences/icml-2026/cards/4301-4400.md#sun26ad-inference) · Energy-based Compositional Diffusion Planning
+- [视频任务流引导递归分段搜索](../conferences/icml-2026/cards/4501-4600.md#wan26e-inference) · Beyond Policy Training: Recursive Solution Search from Unannotated Videos
 
 <a id="by-multimodal"></a>
 
@@ -591,6 +593,7 @@
 - [查询前缀复用的图像裁剪](../conferences/icml-2026/cards/4301-4400.md#sun26aq-inference) · Very Efficient Listwise Multimodal Reranking for Long Documents
 - [neutral-reference-pairwise-correction](../conferences/icml-2026/cards/4401-4500.md#tian26j-inference) · Neutral-Reference Prompting for Vision–Language Models
 - [跨模型答案熵选路](../conferences/icml-2026/cards/4401-4500.md#tong26f-inference) · Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models
+- [密集重建视觉token的范数选择和保守合并](../conferences/icml-2026/cards/4501-4600.md#wan26d-inference) · RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference
 
 <a id="by-ml-foundations"></a>
 

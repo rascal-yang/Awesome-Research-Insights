@@ -420,6 +420,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Bayesian Tensor Decomposition with Diffusion Model Prior](../../conferences/icml-2026/cards/4401-4500.md#tao26h-inference) · 中文
 - [Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing](../../conferences/icml-2026/cards/4401-4500.md#tong26k-inference) · 中文
 - [Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions](../../conferences/icml-2026/cards/4501-4600.md#nguyen26v-inference) · 中文
+- [Saving Foundation Flow-Matching Priors for Inverse Problems](../../conferences/icml-2026/cards/4501-4600.md#wan26b-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -499,6 +500,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](../../conferences/icml-2026/cards/4201-4300.md#spieler26a-inference) · 中文
 - [Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26y-inference) · 中文
 - [Energy-based Compositional Diffusion Planning](../../conferences/icml-2026/cards/4301-4400.md#sun26ad-inference) · 中文
+- [Beyond Policy Training: Recursive Solution Search from Unannotated Videos](../../conferences/icml-2026/cards/4501-4600.md#wan26e-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -591,6 +593,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Very Efficient Listwise Multimodal Reranking for Long Documents](../../conferences/icml-2026/cards/4301-4400.md#sun26aq-inference) · 中文
 - [Neutral-Reference Prompting for Vision–Language Models](../../conferences/icml-2026/cards/4401-4500.md#tian26j-inference) · 中文
 - [Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models](../../conferences/icml-2026/cards/4401-4500.md#tong26f-inference) · 中文
+- [RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](../../conferences/icml-2026/cards/4501-4600.md#wan26d-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

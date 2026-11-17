@@ -350,6 +350,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="sun26aq-inference"></a>[Very Efficient Listwise Multimodal Reranking for Long Documents](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26aq)
 - <a id="tian26j-inference"></a>[Neutral-Reference Prompting for Vision–Language Models](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26j)
 - <a id="tong26f-inference"></a>[Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26f)
+- <a id="wan26d-inference"></a>[RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26d)
 
 <a id="by-representation-learning"></a>
 
@@ -402,6 +403,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="shi26z-representation-learning"></a>[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26z)
 - <a id="sun26c-representation-learning"></a>[Multimodal Latent Language Modeling with Next-Token Diffusion](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26c)
 - <a id="tonekaboni26a-representation-learning"></a>[MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning](../../conferences/icml-2026/cards/4401-4500.md#paper-tonekaboni26a)
+- <a id="vo26a-representation-learning"></a>[Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs](../../conferences/icml-2026/cards/4501-4600.md#paper-vo26a)
 
 <a id="by-evaluation"></a>
 

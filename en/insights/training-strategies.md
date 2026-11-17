@@ -137,6 +137,7 @@ Training schedules, curricula, and task or stage composition.
 - [Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning](../../conferences/icml-2026/cards/4401-4500.md#tiwari26a-training-strategies) · 中文
 - [ProactiveLLM: Learning Active Interaction for Streaming Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tong26n-training-strategies) · 中文
 - [Efficient DP-SGD for LLMs with Randomized Clipping](../../conferences/icml-2026/cards/4501-4600.md#ullah26a-training-strategies) · 中文
+- [Mitigating Conversational Inertia in Multi-Turn Agents](../../conferences/icml-2026/cards/4501-4600.md#wan26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -251,6 +252,7 @@ Training schedules, curricula, and task or stage composition.
 - [Vision-Language-Action Pretraining from Large-Scale Human Videos](../../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · 中文
 - [On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../../conferences/icml-2026/cards/3301-3400.md#morin26a-training-strategies) · 中文
 - [FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../../conferences/icml-2026/cards/3401-3500.md#nguyen26b-training-strategies) · 中文
+- [Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning](../../conferences/icml-2026/cards/4501-4600.md#wagenmaker26a-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

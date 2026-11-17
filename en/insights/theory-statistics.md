@@ -67,6 +67,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [How RLHF Amplifies Sycophancy](../../conferences/icml-2026/cards/4001-4100.md#shapira26a-theory-statistics) · 中文
 - [GRPO is Secretly a Process Reward Model](../../conferences/icml-2026/cards/4201-4300.md#sullivan26a-theory-statistics) · 中文
 - [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](../../conferences/icml-2026/cards/4401-4500.md#tomlinson26a-theory-statistics) · 中文
+- [In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning](../../conferences/icml-2026/cards/4501-4600.md#wakayama26b-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -563,6 +564,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration](../../conferences/icml-2026/cards/4501-4600.md#tyurin26a-theory-statistics) · 中文
 - [Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms](../../conferences/icml-2026/cards/4501-4600.md#vaidyan26a-theory-statistics) · 中文
 - [Convergence of Steepest Descent and Adam under Non-Uniform Smoothness](../../conferences/icml-2026/cards/4501-4600.md#vaswani26a-theory-statistics) · 中文
+- [New Bounds for Kernel Sums via Fast Spherical Embeddings](../../conferences/icml-2026/cards/4501-4600.md#wagner26a-theory-statistics) · 中文
+- [A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt](../../conferences/icml-2026/cards/4501-4600.md#wakayama26a-theory-statistics) · 中文
+- [CAOS: Conformal Aggregation of One-Shot Predictors](../../conferences/icml-2026/cards/4501-4600.md#waldron26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

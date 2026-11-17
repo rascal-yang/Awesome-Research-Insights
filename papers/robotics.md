@@ -121,6 +121,7 @@
 - <a id="luo26e-training-strategies"></a>[Vision-Language-Action Pretraining from Large-Scale Human Videos](../conferences/icml-2026/cards/3001-3100.md#paper-luo26e)
 - <a id="morin26a-training-strategies"></a>[On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../conferences/icml-2026/cards/3301-3400.md#paper-morin26a)
 - <a id="nguyen26b-training-strategies"></a>[FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26b)
+- <a id="wagenmaker26a-training-strategies"></a>[Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning](../conferences/icml-2026/cards/4501-4600.md#paper-wagenmaker26a)
 
 <a id="by-data-strategies"></a>
 
@@ -179,6 +180,7 @@
 - <a id="spieler26a-inference"></a>[Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](../conferences/icml-2026/cards/4201-4300.md#paper-spieler26a)
 - <a id="sun26y-inference"></a>[Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](../conferences/icml-2026/cards/4201-4300.md#paper-sun26y)
 - <a id="sun26ad-inference"></a>[Energy-based Compositional Diffusion Planning](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ad)
+- <a id="wan26e-inference"></a>[Beyond Policy Training: Recursive Solution Search from Unannotated Videos](../conferences/icml-2026/cards/4501-4600.md#paper-wan26e)
 
 <a id="by-representation-learning"></a>
 

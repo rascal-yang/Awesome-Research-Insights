@@ -414,6 +414,7 @@
 - <a id="valentin26a-optimization"></a>[DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces](../conferences/icml-2026/cards/4501-4600.md#paper-valentin26a)
 - <a id="van-den-bosch26a-optimization"></a>[DP-KFC: Data-Free Preconditioning for Privacy-Preserving Deep Learning](../conferences/icml-2026/cards/4501-4600.md#paper-van-den-bosch26a)
 - <a id="van-waerebeke26a-optimization"></a>[Variance-Reduced $(\varepsilon, δ)-$Unlearning using Forget Set Gradients](../conferences/icml-2026/cards/4501-4600.md#paper-van-waerebeke26a)
+- <a id="vinas-torne26a-optimization"></a>[PACER: Acyclic Causal Discovery from Large-scale Interventional Data](../conferences/icml-2026/cards/4501-4600.md#paper-vinas-torne26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -529,6 +530,7 @@
 - <a id="tang26r-data-strategies"></a>[Federated Data and Feature Selection by Generalized CUR Decomposition](../conferences/icml-2026/cards/4301-4400.md#paper-tang26r)
 - <a id="tian26c-data-strategies"></a>[Is Data Shapley Not Better than Random in Data Selection? Ask NASH](../conferences/icml-2026/cards/4401-4500.md#paper-tian26c)
 - <a id="tran26a-data-strategies"></a>[Differentially Private Synthetic Data via APIs 4: Tabular Data](../conferences/icml-2026/cards/4401-4500.md#paper-tran26a)
+- <a id="vithana26a-data-strategies"></a>[Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation](../conferences/icml-2026/cards/4501-4600.md#paper-vithana26a)
 
 <a id="by-inference"></a>
 
@@ -700,6 +702,8 @@
 - <a id="thaker26a-evaluation"></a>[Membership Inference Attacks for Unseen Classes](../conferences/icml-2026/cards/4401-4500.md#paper-thaker26a)
 - <a id="thies26a-evaluation"></a>[Calibrated Preference Learning: The Case of Label Ranking](../conferences/icml-2026/cards/4401-4500.md#paper-thies26a)
 - <a id="verine26a-evaluation"></a>[Equalized Generative Treatment: Matching f-divergences for Fairness in Generative Models](../conferences/icml-2026/cards/4501-4600.md#paper-verine26a)
+- <a id="vilucchio26a-evaluation"></a>[On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification](../conferences/icml-2026/cards/4501-4600.md#paper-vilucchio26a)
+- <a id="wan26c-evaluation"></a>[Gradient Inversion Attacks Beyond SGD](../conferences/icml-2026/cards/4501-4600.md#paper-wan26c)
 
 <a id="by-theory-statistics"></a>
 
@@ -1078,4 +1082,7 @@
 - <a id="tyurin26a-theory-statistics"></a>[Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration](../conferences/icml-2026/cards/4501-4600.md#paper-tyurin26a)
 - <a id="vaidyan26a-theory-statistics"></a>[Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms](../conferences/icml-2026/cards/4501-4600.md#paper-vaidyan26a)
 - <a id="vaswani26a-theory-statistics"></a>[Convergence of Steepest Descent and Adam under Non-Uniform Smoothness](../conferences/icml-2026/cards/4501-4600.md#paper-vaswani26a)
+- <a id="wagner26a-theory-statistics"></a>[New Bounds for Kernel Sums via Fast Spherical Embeddings](../conferences/icml-2026/cards/4501-4600.md#paper-wagner26a)
+- <a id="wakayama26a-theory-statistics"></a>[A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt](../conferences/icml-2026/cards/4501-4600.md#paper-wakayama26a)
+- <a id="waldron26a-theory-statistics"></a>[CAOS: Conformal Aggregation of One-Shot Predictors](../conferences/icml-2026/cards/4501-4600.md#paper-waldron26a)
 <!-- classification:end -->

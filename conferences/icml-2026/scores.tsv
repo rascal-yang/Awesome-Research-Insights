@@ -4550,26 +4550,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4549	verma26a							PDF3–7将带历史效用的物品公平分配写为contextual bandit，估计线性/核效用并给公平regret界；技术目标为资源分配goodness而非策略/表示/神经训练，未建立相关DL中独立可用的操作，排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/verma26a/verma26a.pdf	rule-excluded
 4550	verma26b							复核RegMean原文§3.2–3.4/Eq2与Alg1已用各源模型自身各线性层输入二阶矩，独立逐块闭式拟合，源激活而非合并激活也属原机制；4550 PDF4–5 Eq8–11在G=ZW时即同一Gram加权LS。PDF8–9 GNN实验未与RegMean做匹配比较，无法证明新图边界或独立新操作；同机制换图场景及规模成绩不足收录。先例 https://arxiv.org/html/2212.09849v3#S3 。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/verma26b/verma26b.pdf	rule-excluded
 4551	viano26a	4	5	3	4	82		相对tabular MAIL新增特征级覆盖条件与线性交互算法，能指导BC或探索的选择；理论和Connect4对照齐全，但线性可实现、专家查询要求及深度无保证使可用性3（PDF3–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/viano26a/viano26a.pdf	scored
-4552	vijayvargiya26a							待原文复核评分	pending
-4553	vilucchio26a							待原文复核评分	pending
-4554	vinas-torne26a							待原文复核评分	pending
-4555	vithana26a							待原文复核评分	pending
-4556	vo26a							待原文复核评分	pending
-4557	vo26b							待原文复核评分	pending
-4558	vuong26a							待原文复核评分	pending
-4559	vuong26b							待原文复核评分	pending
-4560	wagenmaker26a							待原文复核评分	pending
-4561	wagner26a							待原文复核评分	pending
-4562	wahl26a							待原文复核评分	pending
-4563	wakayama26a							待原文复核评分	pending
-4564	wakayama26b							待原文复核评分	pending
-4565	waldron26a							待原文复核评分	pending
-4566	walter26a							待原文复核评分	pending
-4567	wan26a							待原文复核评分	pending
-4568	wan26b							待原文复核评分	pending
-4569	wan26c							待原文复核评分	pending
-4570	wan26d							待原文复核评分	pending
-4571	wan26e							待原文复核评分	pending
+4552	vijayvargiya26a	4	4	4	4	80		先过滤重复及模板化问题，再奖励用户可回答性和经验信息价值，避免以提问数量或任务成功的昂贵稀疏信号训练澄清模块。（PDF第4、6、7、8页）；新增量见与最近方法对照和限定条件。 可用边界：仅单轮代码澄清；完整issue是用户能力代理；SHAP类别区间重叠，排序不是因果或显著性结论；原文类别频率叙述与表1有不一致。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vijayvargiya26a/vijayvargiya26a.pdf	scored
+4553	vilucchio26a	4	3	3	4	70		防御评测应分别报告原始分类错误、保持目标分数不变的鲁棒误差和原本正确样本的边界错误；过参数化效应依赖指标与生成模型。（PDF第3、4、5、6页）；新增量见与最近方法对照和限定条件。 可用边界：目标分数保持比一般标签保持更强；需已知生成目标用于评估；高维半径必须随维度缩放；不可声称所有过参数化都增加所有风险。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vilucchio26a/vilucchio26a.pdf	scored
+4554	vinas-torne26a	4	4	4	4	80		相对已有排序式DAG学习，独立候选是该排序/边分布下线性高斯期望似然的解析求值，以及干预节点排除目标；可用于因果表示模型的结构学习，非将天然无环本身当新机制。解析结果限线性高斯，非线性需估计；无环性不等于因果识别保证；基准参考图不完美，跨方法全图/分区协议不同。；要求无隐混杂、真实结构无环及已知干预目标；独立边概率与共享排序不能表示任意边依赖。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vinas-torne26a/vinas-torne26a.pdf	scored
+4555	vithana26a	4	4	4	4	80		只发布有限合成样本时，将私有直方图与按公开分布抬高概率下限的噪声分布混合；隐私预算需绑定发布样本数，不能当作可公开整个直方图。（PDF第3、5、6、9页）；新增量见与最近方法对照和限定条件。 可用边界：最优性仅特定线性混合类且渐近；公开邻域外隐私仍成立但效用保证减弱；不得释放未保护的混合分布；正文66.60与表1的66.40冲突，采用表值。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vithana26a/vithana26a.pdf	scored
+4556	vo26a	4	4	4	4	80		共享表示聚合保留单模态与两两高斯混合成分，再以共享z条件化私有后验；不要把共享私有先验独立误当后验独立。（PDF第3、4、6、7页）；新增量见与最近方法对照和限定条件。 可用边界：两两成分增加计算；层级结构是归纳偏置非严格解耦保证；++未全面超越+；仅单共享空间时精确混合不如HELVAE，不能只替换池化就期待获益。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vo26a/vo26a.pdf	scored
+4557	vo26b							局部披露和战略反应OPE要求离散协变量、已知共同改动成本、条件log-normal敏感性与仅在推荐集内最优化；新增识别方案依赖这种金融式回访交互，未给出可改变具身或相关DL技术选择的独立迁移依据（PDF3–6页）；不因理论无代码排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vo26b/vo26b.pdf	rule-excluded
+4558	vuong26a							R-FairSC把既有公平谱聚类的正交和线性公平约束改用Stiefel优化+变量分裂ADMM；相对A-FairSC主要是专用子问题数值求解加速，未证实独立于公平图划分的DL设计增量（PDF3–6、8页）；条件一阶收敛不能解读为全局解保证。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vuong26a/vuong26a.pdf	rule-excluded
+4559	vuong26b	3	4	4	3	70		将正常数据与前轮自生成续写构成隐式判别学习，用非线性f共轭替代SPIN恒等项并截断已近正常的样本，避免继续惩罚好生成。（PDF第3、4、6、8页）；新增量见与最近方法对照和限定条件。 可用边界：生成负例并不近似真实异常分布；表达性强不等于已证明critic近似误差小；散度与截断按数据调参，原文单调性论证不能保证分布目标全局等价。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vuong26b/vuong26b.pdf	scored
+4560	wagenmaker26a	5	5	4	5	96		BC预训练以扰动数据训练的预测器集成估计状态相关后验协方差，并用其扰动动作监督，保留示范未充分覆盖的动作供后续RL选择。（PDF第4、5、6、7、8页）；新增量见与最近方法对照和限定条件。 可用边界：严格覆盖保证限表格MDP及指定先验，神经集成是近似；LIBERO任务15均失败；需额外训练集成，不能把实机20次评估当稳健显著性保证。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wagenmaker26a/wagenmaker26a.pdf	scored
+4561	wagner26a	4	3	4	4	74		高维Gaussian核均值查询在中等有效直径且小加性误差时采用快速球面嵌入；小直径仍可选Fastfood，大直径仍需比较FJLT+RFF。（PDF第1、2、3页）；新增量见与最近方法对照和限定条件。 可用边界：Δσ是数据及查询区域直径除带宽；隐藏多对数与常数，非所有查询同时保证；无深度特征端到端实测，不把渐近时间界等同实际加速。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wagner26a/wagner26a.pdf	scored
+4562	wahl26a							ModelSMC把LLM程序变异、SMC式重采样和已有神经似然估计拼成模型发现流程；相对Large Language Bayes等主要是集成采样式搜索，所检实验证据未隔离可独立复用的新机制；精确目标后验保证还依赖理想化提议/似然条件，不能由标准SMC结论覆盖实际启发流程（PDF3–7页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wahl26a/wahl26a.pdf	rule-excluded
+4563	wakayama26a	4	4	3	4	76		TTT应按提示残差的信噪与查询相关谱方向决定步数和更新子空间；在局部线性二次模型下用证据选择步数，不能靠持续加步补偿缺失方向。（PDF第3、4、6、7页）；新增量见与最近方法对照和限定条件。 可用边界：标签式提示留一残差要求可构造监督；GP条件是参照，真实TTT不被证明高斯；证据风险界不直接等于下游查询风险保证；线性近似只在小更新有效。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wakayama26a/wakayama26a.pdf	scored
+4564	wakayama26b	4	4	3	4	76		交换独立样例的元学习中，把ICL误差分为逼近Bayes预测器的误差和任务后验方差；增加提示长度无法代替增加独立预训练任务覆盖。（PDF第4、5、6、7页）；新增量见与最近方法对照和限定条件。 可用边界：不是所有实际ICL必然Bayes；任务后验方差不等于任意实际模型的误差；强均匀Hölder稳定性及漂移条件需验证，顺序有语义的上下文不满足交换性。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wakayama26b/wakayama26b.pdf	scored
+4565	waldron26a	4	5	4	4	86		候选输出取最支持它的k个单样本预测器非一致分数之和，校准留一、测试用全参考集；以单调性包含完整保形集合，节省标注拆分。（PDF第3、4、6、7、8页）；新增量见与最近方法对照和限定条件。 可用边界：要求原始数据交换性、参考排列对称及新增参考分数单调；理论不覆盖任意微调或数据依赖k调参；LLM需O(n²+nm|Y|)打分，非条件覆盖。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/waldron26a/waldron26a.pdf	scored
+4566	walter26a	4	5	5	4	90		给每类logit计算现有归因图，再逐像素跨类别softmax并重加权目标图，过滤不超过均匀概率的像素，避免输出softmax饱和使梯度消失。（PDF第3、4、5、7页）；新增量见与最近方法对照和限定条件。 可用边界：需多类归因，成本O(C′A)；评估部分采用真值类别集合，部署需重新选类；解释性改进不等于因果解释；重加权概率≤1，不应理解成绝对增幅。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/walter26a/walter26a.pdf	scored
+4567	wan26a	4	5	4	4	86		同状态采样长短历史动作，保留不同行为对并偏好短历史动作，用相同短上下文做DPO；推理定期裁剪历史缓解自模仿，但需要保留任务关键信息。（PDF第3、4、5、6页）；新增量见与最近方法对照和限定条件。 可用边界：短历史优于长历史是构造启发非逐样本真偏好；注意力对角比是关联诊断；历史丢失可能伤害长程任务，模型收益差异大，需调裁剪阈值。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26a/wan26a.pdf	scored
+4568	wan26b	4	5	4	4	86		用观测或少量相似样本构造流中间时刻起点，联合优化起始时间与潜变量，并投影到高斯典型范数薄壳；避免仅靠宽松径向似然约束潜变量。（PDF第3、4、5、7、9页）；新增量见与最近方法对照和限定条件。 可用边界：薄壳范数只刻画高斯必要典型性，不保证完整Gaussian分布；需要接近真值的guide或相似样本；优化昂贵、仍可幻觉，理论不保证恢复唯一性。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26b/wan26b.pdf	scored
+4569	wan26c	4	4	3	4	76		联邦学习隐私评测应覆盖客户端自适应优化后的参数更新，并明确初始优化器状态是否可见；隐藏原始梯度本身不能作为隐私保证。（PDF第3、6、7页）；新增量见与最近方法对照和限定条件。 可用边界：强条件包括已知初始状态和单客户端更新可见；默认随机权重不代表所有部署；不推及未知状态或安全聚合必失效。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26c/wan26c.pdf	scored
+4570	wan26d	3	3	4	3	64		密集OCR压缩应优先保留高范数视觉token，再用带拒绝槽的匹配吸收剩余信息；压缩率需受文本密度约束，不能沿用稀疏VQA压缩率。（PDF第4、5、8、9页）；新增量见与最近方法对照和限定条件。 可用边界：实际是保留原性能的比例而非99%以上绝对OCR正确率；Base动态olmOCR仍从72.4降至63.7；验证迁移限OCR架构，dense感知迁移尚未验证，范数与注意力相关不证明两次阅读因果。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26d/wan26d.pdf	scored
+4571	wan26e	3	4	3	3	66		返回后探索已有Go-Explore先例，新增量限定两种视频进展/前驱一致性损失，消融16.0%对14.2%支持有限增益；能改变阶段表示损失选择，非把整条搜索管线计为新算法。确定固定种子从同初始状态重放是关键，不是一般随机真实机器人保证；仍用50标注clip；不能把PFR-guided RL结果当无策略搜索结果；规划及前向成功率均有限。；阶段损失假设进展大体单向，含必要回退的任务未验证；返回后探索的先例：https://www.nature.com/articles/s41586-020-03157-9 。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wan26e/wan26e.pdf	scored
 4572	wan26f							待原文复核评分	pending
 4573	wan26g							待原文复核评分	pending
 4574	wan26h							待原文复核评分	pending

@@ -387,6 +387,7 @@
 - [audit-low-level-shortcuts](../conferences/icml-2026/cards/4301-4400.md#svatko26a-evaluation) · Deep Learning for BioImaging: What Are We Really Learning?
 - [基于定律的视频动力学评测](../conferences/icml-2026/cards/4401-4500.md#tragoudaras26a-evaluation) · Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems
 - [rarity-times-semantic-distinctiveness](../conferences/icml-2026/cards/4501-4600.md#vadakkeeveetil-sreelatha26a-evaluation) · RAIGen: Rare Attribute Identification in Text-to-Image Generative Models
+- [在归因图层面做类别竞争](../conferences/icml-2026/cards/4501-4600.md#walter26a-evaluation) · Hidden in Plain Sight – Class Competition Focuses Attribution Maps
 
 <a id="by-nlp"></a>
 
@@ -586,6 +587,8 @@
 - [unseen-class-privacy-auditing](../conferences/icml-2026/cards/4401-4500.md#thaker26a-evaluation) · Membership Inference Attacks for Unseen Classes
 - [ranking-calibration-hierarchy](../conferences/icml-2026/cards/4401-4500.md#thies26a-evaluation) · Calibrated Preference Learning: The Case of Label Ranking
 - [生成公平必须比较组内质量](../conferences/icml-2026/cards/4501-4600.md#verine26a-evaluation) · Equalized Generative Treatment: Matching f-divergences for Fairness in Generative Models
+- [分离语义保持脆弱性和原始误差](../conferences/icml-2026/cards/4501-4600.md#vilucchio26a-evaluation) · On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification
+- [自适应客户端优化器的隐私评测边界](../conferences/icml-2026/cards/4501-4600.md#wan26c-evaluation) · Gradient Inversion Attacks Beyond SGD
 
 <a id="by-graph-and-recommendation"></a>
 

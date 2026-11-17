@@ -387,6 +387,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Deep Learning for BioImaging: What Are We Really Learning?](../../conferences/icml-2026/cards/4301-4400.md#svatko26a-evaluation) · 中文
 - [Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](../../conferences/icml-2026/cards/4401-4500.md#tragoudaras26a-evaluation) · 中文
 - [RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](../../conferences/icml-2026/cards/4501-4600.md#vadakkeeveetil-sreelatha26a-evaluation) · 中文
+- [Hidden in Plain Sight – Class Competition Focuses Attribution Maps](../../conferences/icml-2026/cards/4501-4600.md#walter26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -586,6 +587,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Membership Inference Attacks for Unseen Classes](../../conferences/icml-2026/cards/4401-4500.md#thaker26a-evaluation) · 中文
 - [Calibrated Preference Learning: The Case of Label Ranking](../../conferences/icml-2026/cards/4401-4500.md#thies26a-evaluation) · 中文
 - [Equalized Generative Treatment: Matching f-divergences for Fairness in Generative Models](../../conferences/icml-2026/cards/4501-4600.md#verine26a-evaluation) · 中文
+- [On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification](../../conferences/icml-2026/cards/4501-4600.md#vilucchio26a-evaluation) · 中文
+- [Gradient Inversion Attacks Beyond SGD](../../conferences/icml-2026/cards/4501-4600.md#wan26c-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
