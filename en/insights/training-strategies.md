@@ -215,6 +215,7 @@ Training schedules, curricula, and task or stage composition.
 - [Adaptive Policy Backbone via Shared Network](../../conferences/icml-2026/cards/3501-3600.md#park26i-training-strategies) · 中文
 - [Scalable Reinforcement Learning via Adaptive Batch Scaling](../../conferences/icml-2026/cards/3501-3600.md#park26w-training-strategies) · 中文
 - [When Does Predictive Inverse Dynamics Outperform Behavior Cloning?](../../conferences/icml-2026/cards/3901-4000.md#schafer26a-training-strategies) · 中文
+- [What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion](../../conferences/icml-2026/cards/4101-4200.md#shihab26d-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -354,6 +355,8 @@ Training schedules, curricula, and task or stage composition.
 - [Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off](../../conferences/icml-2026/cards/3901-4000.md#sakata26a-training-strategies) · 中文
 - [Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform](../../conferences/icml-2026/cards/4001-4100.md#shen26f-training-strategies) · 中文
 - [Coupled Training with Privileged Information and Unlabeled Data](../../conferences/icml-2026/cards/4101-4200.md#shi26d-training-strategies) · 中文
+- [Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching](../../conferences/icml-2026/cards/4101-4200.md#shin26d-training-strategies) · 中文
+- [Overclocking Electrostatic Generative Models](../../conferences/icml-2026/cards/4101-4200.md#shlenskii26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

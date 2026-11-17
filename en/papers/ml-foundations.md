@@ -71,6 +71,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="qu26a-architecture"></a>[TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26a)
 - <a id="serov26a-architecture"></a>[Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing](../../conferences/icml-2026/cards/4001-4100.md#paper-serov26a)
 - <a id="shang26b-architecture"></a>[TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26b)
+- <a id="shin26a-architecture"></a>[Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts](../../conferences/icml-2026/cards/4101-4200.md#paper-shin26a)
+- <a id="shin26c-architecture"></a>[Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration](../../conferences/icml-2026/cards/4101-4200.md#paper-shin26c)
 
 <a id="by-modules"></a>
 
@@ -157,6 +159,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="saengkyongam26a-loss-functions"></a>[Anti-causal domain generalization: Leveraging unlabeled data](../../conferences/icml-2026/cards/3901-4000.md#paper-saengkyongam26a)
 - <a id="shang26e-loss-functions"></a>[COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26e)
 - <a id="sheng26a-loss-functions"></a>[From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees](../../conferences/icml-2026/cards/4001-4100.md#paper-sheng26a)
+- <a id="shihab26b-loss-functions"></a>[CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures](../../conferences/icml-2026/cards/4101-4200.md#paper-shihab26b)
+- <a id="shrestha26a-loss-functions"></a>[Domain Transfer Becomes Identifiable via a Single Alignment](../../conferences/icml-2026/cards/4101-4200.md#paper-shrestha26a)
 
 <a id="by-optimization"></a>
 
@@ -380,6 +384,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shi26a-optimization"></a>[UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26a)
 - <a id="shi26f-optimization"></a>[Regularized Discriminative Alignment for Deep Representations under Label Shift](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26f)
 - <a id="shi26x-optimization"></a>[Exploring Nonlinear Pathway in Parameter Space for Machine Unlearning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26x)
+- <a id="shi26ae-optimization"></a>[Training Deep Spiking Neural Networks without Normalization](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26ae)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -454,6 +459,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="sakata26a-training-strategies"></a>[Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off](../../conferences/icml-2026/cards/3901-4000.md#paper-sakata26a)
 - <a id="shen26f-training-strategies"></a>[Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26f)
 - <a id="shi26d-training-strategies"></a>[Coupled Training with Privileged Information and Unlabeled Data](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26d)
+- <a id="shin26d-training-strategies"></a>[Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching](../../conferences/icml-2026/cards/4101-4200.md#paper-shin26d)
+- <a id="shlenskii26a-training-strategies"></a>[Overclocking Electrostatic Generative Models](../../conferences/icml-2026/cards/4101-4200.md#paper-shlenskii26a)
 
 <a id="by-data-strategies"></a>
 

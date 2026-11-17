@@ -169,6 +169,7 @@
 - [用可微连续时间函数表示机器人动作块](../conferences/icml-2026/cards/2901-3000.md#liu26gf-architecture) · Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models
 - [无投影多面体流匹配](../conferences/icml-2026/cards/3101-3200.md#ma26ar-architecture) · PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update
 - [行动生成前预测分离的驾驶动力学](../conferences/icml-2026/cards/4001-4100.md#shang26f-architecture) · DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving
+- [文本推理视觉子目标分专家](../conferences/icml-2026/cards/4101-4200.md#shou26a-architecture) · HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning
 
 <a id="by-multimodal"></a>
 
@@ -264,6 +265,8 @@
 - [面向长表格上下文的基础模型](../conferences/icml-2026/cards/3701-3800.md#qu26a-architecture) · TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model
 - [注意力多视图平滑的 Neural CDE](../conferences/icml-2026/cards/4001-4100.md#serov26a-architecture) · Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing
 - [跨尺度语义检索增强的时序预测](../conferences/icml-2026/cards/4001-4100.md#shang26b-architecture) · TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations
+- [混合连续序列的终止校准](../conferences/icml-2026/cards/4101-4200.md#shin26a-architecture) · Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts
+- [观测频带编码与扩展查询](../conferences/icml-2026/cards/4101-4200.md#shin26c-architecture) · Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration
 
 <a id="by-graph-and-recommendation"></a>
 

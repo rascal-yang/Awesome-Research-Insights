@@ -286,6 +286,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Introspection Adapters: Training LLMs to Report Their Learned Behaviors](../../conferences/icml-2026/cards/4001-4100.md#shenoy26a-evaluation) · 中文
 - [Understanding Performance Collapse in Layer-Pruned Large Language Models via Decision Representation Transitions](../../conferences/icml-2026/cards/4101-4200.md#shi26k-evaluation) · 中文
 - [CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities](../../conferences/icml-2026/cards/4101-4200.md#shi26r-evaluation) · 中文
+- [$τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge](../../conferences/icml-2026/cards/4101-4200.md#shi26ah-evaluation) · 中文
+- [CGRiC: Compositional Risk Certification for Structured LLM Outputs](../../conferences/icml-2026/cards/4101-4200.md#shihab26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -472,6 +474,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [BEDTime: A Unified Benchmark for Automatically Describing Time Series](../../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · 中文
 - [Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · 中文
 - [Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · 中文
+- [Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](../../conferences/icml-2026/cards/4101-4200.md#shi26ad-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -286,6 +286,8 @@
 - [用行为已知的模型群校准自我报告](../conferences/icml-2026/cards/4001-4100.md#shenoy26a-evaluation) · Introspection Adapters: Training LLMs to Report Their Learned Behaviors
 - [剪层时监测决策转折消失](../conferences/icml-2026/cards/4101-4200.md#shi26k-evaluation) · Understanding Performance Collapse in Layer-Pruned Large Language Models via Decision Representation Transitions
 - [分开验证修补与完整工作流](../conferences/icml-2026/cards/4101-4200.md#shi26r-evaluation) · CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities
+- [检索与知识执行分离评测](../conferences/icml-2026/cards/4101-4200.md#shi26ah-evaluation) · $τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge
+- [逐声明风险与局部修复](../conferences/icml-2026/cards/4101-4200.md#shihab26a-evaluation) · CGRiC: Compositional Risk Certification for Structured LLM Outputs
 
 <a id="by-computer-vision"></a>
 
@@ -472,6 +474,7 @@
 - [跨模态时序描述的基础评测](../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · BEDTime: A Unified Benchmark for Automatically Describing Time Series
 - [沿 Flow Matching 插值路径定位训练成员信号](../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path
 - [用唇形与头部姿态的协调关系检测及归因伪造](../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses
+- [换图检验视觉复查](../conferences/icml-2026/cards/4101-4200.md#shi26ad-evaluation) · Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination
 
 <a id="by-ml-foundations"></a>
 

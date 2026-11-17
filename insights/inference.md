@@ -293,6 +293,7 @@
 - [用专家乘积桥接扩散与自回归解码](../conferences/icml-2026/cards/4101-4200.md#shi26v-inference) · Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge
 - [把函数参数作为共享前缀的并行流](../conferences/icml-2026/cards/4101-4200.md#shi26w-inference) · RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling
 - [隔离受影响工具的规划上下文](../conferences/icml-2026/cards/4101-4200.md#shi26ab-inference) · Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning
+- [质量深宽联合工作流剪枝](../conferences/icml-2026/cards/4101-4200.md#shi26af-inference) · AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction
 
 <a id="by-computer-vision"></a>
 
@@ -391,6 +392,7 @@
 - [Lie 群相位引导的视频运动迁移](../conferences/icml-2026/cards/4001-4100.md#shan26c-inference) · LieWarper: Geometry-Aware Motion Transfer via Lie Algebra
 - [三轨迹锚定的免训练扩散编辑](../conferences/icml-2026/cards/4001-4100.md#shan26d-inference) · T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing
 - [依噪声分配检索预算的解析扩散](../conferences/icml-2026/cards/4001-4100.md#shang26d-inference) · Fast and Scalable Analytical Diffusion
+- [单边曲率的扩散逆问题校正](../conferences/icml-2026/cards/4101-4200.md#shin26b-inference) · Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping
 
 <a id="by-nlp"></a>
 

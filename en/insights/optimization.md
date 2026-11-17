@@ -379,6 +379,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks](../../conferences/icml-2026/cards/4101-4200.md#shi26a-optimization) · 中文
 - [Regularized Discriminative Alignment for Deep Representations under Label Shift](../../conferences/icml-2026/cards/4101-4200.md#shi26f-optimization) · 中文
 - [Exploring Nonlinear Pathway in Parameter Space for Machine Unlearning](../../conferences/icml-2026/cards/4101-4200.md#shi26x-optimization) · 中文
+- [Training Deep Spiking Neural Networks without Normalization](../../conferences/icml-2026/cards/4101-4200.md#shi26ae-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

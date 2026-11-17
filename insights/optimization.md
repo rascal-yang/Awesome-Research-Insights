@@ -379,6 +379,7 @@
 - [用同一突触预算稀疏权重与脉冲](../conferences/icml-2026/cards/4101-4200.md#shi26a-optimization) · UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks
 - [用判别子空间稳定估计标签漂移权重](../conferences/icml-2026/cards/4101-4200.md#shi26f-optimization) · Regularized Discriminative Alignment for Deep Representations under Label Shift
 - [沿非线性参数路径选遗忘折中点](../conferences/icml-2026/cards/4101-4200.md#shi26x-optimization) · Exploring Nonlinear Pathway in Parameter Space for Machine Unlearning
+- [脉冲网络双向初始化](../conferences/icml-2026/cards/4101-4200.md#shi26ae-optimization) · Training Deep Spiking Neural Networks without Normalization
 
 <a id="by-graph-and-recommendation"></a>
 

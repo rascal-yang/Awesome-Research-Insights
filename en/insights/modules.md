@@ -218,4 +218,5 @@ Reusable components and local changes to model inputs or connections.
 - [Imposing Boundary Conditions on Neural Operators via Learned Function Extensions](../../conferences/icml-2026/cards/3301-3400.md#mousavi26a-modules) · 中文
 - [Neural Minimum Weight Perfect Matching for Quantum Error Codes](../../conferences/icml-2026/cards/3601-3700.md#peled26a-modules) · 中文
 - [Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting](../../conferences/icml-2026/cards/3701-3800.md#qin26e-modules) · 中文
+- [HybridOM: Hybrid Physics-Based and Data-Driven Global Ocean Modeling with Efficient Spatial Downscaling](../../conferences/icml-2026/cards/4101-4200.md#shu26b-modules) · 中文
 <!-- classification:end -->

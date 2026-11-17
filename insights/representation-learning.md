@@ -77,6 +77,7 @@
 - [图像条件纹理词典与类间拓扑](../conferences/icml-2026/cards/3601-3700.md#peng26m-representation-learning) · STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition
 - [在抗失真特征域用编码式水印分离比特](../conferences/icml-2026/cards/3701-3800.md#qiu26d-representation-learning) · Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking
 - [只蒸馏跨衣着身份子空间](../conferences/icml-2026/cards/4101-4200.md#shi26m-representation-learning) · Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes
+- [冻结扩散模型的概念对齐](../conferences/icml-2026/cards/4101-4200.md#shokrolahi26a-representation-learning) · Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation
 
 <a id="by-nlp"></a>
 

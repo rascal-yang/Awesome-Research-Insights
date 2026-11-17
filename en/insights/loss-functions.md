@@ -134,6 +134,7 @@ Objectives, auxiliary supervision, and regularization.
 - [A Unified Framework for Diffusion Model Unlearning with f-Divergence](../../conferences/icml-2026/cards/3401-3500.md#novello26a-loss-functions) · 中文
 - [Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion](../../conferences/icml-2026/cards/3501-3600.md#pan26m-loss-functions) · 中文
 - [CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning](../../conferences/icml-2026/cards/3601-3700.md#pellicer26a-loss-functions) · 中文
+- [Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis](../../conferences/icml-2026/cards/4101-4200.md#shi26ag-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -173,6 +174,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Anti-causal domain generalization: Leveraging unlabeled data](../../conferences/icml-2026/cards/3901-4000.md#saengkyongam26a-loss-functions) · 中文
 - [COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing](../../conferences/icml-2026/cards/4001-4100.md#shang26e-loss-functions) · 中文
 - [From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees](../../conferences/icml-2026/cards/4001-4100.md#sheng26a-loss-functions) · 中文
+- [CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures](../../conferences/icml-2026/cards/4101-4200.md#shihab26b-loss-functions) · 中文
+- [Domain Transfer Becomes Identifiable via a Single Alignment](../../conferences/icml-2026/cards/4101-4200.md#shrestha26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

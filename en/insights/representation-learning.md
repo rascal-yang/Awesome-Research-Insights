@@ -77,6 +77,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition](../../conferences/icml-2026/cards/3601-3700.md#peng26m-representation-learning) · 中文
 - [Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking](../../conferences/icml-2026/cards/3701-3800.md#qiu26d-representation-learning) · 中文
 - [Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes](../../conferences/icml-2026/cards/4101-4200.md#shi26m-representation-learning) · 中文
+- [Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation](../../conferences/icml-2026/cards/4101-4200.md#shokrolahi26a-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

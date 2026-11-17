@@ -169,6 +169,7 @@ Model-wide design and information flow.
 - [Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gf-architecture) · 中文
 - [PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update](../../conferences/icml-2026/cards/3101-3200.md#ma26ar-architecture) · 中文
 - [DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving](../../conferences/icml-2026/cards/4001-4100.md#shang26f-architecture) · 中文
+- [HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/4101-4200.md#shou26a-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -264,6 +265,8 @@ Model-wide design and information flow.
 - [TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](../../conferences/icml-2026/cards/3701-3800.md#qu26a-architecture) · 中文
 - [Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing](../../conferences/icml-2026/cards/4001-4100.md#serov26a-architecture) · 中文
 - [TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations](../../conferences/icml-2026/cards/4001-4100.md#shang26b-architecture) · 中文
+- [Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts](../../conferences/icml-2026/cards/4101-4200.md#shin26a-architecture) · 中文
+- [Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration](../../conferences/icml-2026/cards/4101-4200.md#shin26c-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

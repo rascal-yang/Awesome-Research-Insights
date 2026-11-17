@@ -843,6 +843,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shi26v-inference"></a>[Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26v)
 - <a id="shi26w-inference"></a>[RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26w)
 - <a id="shi26ab-inference"></a>[Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26ab)
+- <a id="shi26af-inference"></a>[AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26af)
 
 <a id="by-representation-learning"></a>
 
@@ -1140,6 +1141,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shenoy26a-evaluation"></a>[Introspection Adapters: Training LLMs to Report Their Learned Behaviors](../../conferences/icml-2026/cards/4001-4100.md#paper-shenoy26a)
 - <a id="shi26k-evaluation"></a>[Understanding Performance Collapse in Layer-Pruned Large Language Models via Decision Representation Transitions](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26k)
 - <a id="shi26r-evaluation"></a>[CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26r)
+- <a id="shi26ah-evaluation"></a>[$τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26ah)
+- <a id="shihab26a-evaluation"></a>[CGRiC: Compositional Risk Certification for Structured LLM Outputs](../../conferences/icml-2026/cards/4101-4200.md#paper-shihab26a)
 
 <a id="by-theory-statistics"></a>
 

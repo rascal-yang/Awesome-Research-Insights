@@ -130,6 +130,7 @@
 - <a id="mousavi26a-modules"></a>[Imposing Boundary Conditions on Neural Operators via Learned Function Extensions](../conferences/icml-2026/cards/3301-3400.md#paper-mousavi26a)
 - <a id="peled26a-modules"></a>[Neural Minimum Weight Perfect Matching for Quantum Error Codes](../conferences/icml-2026/cards/3601-3700.md#paper-peled26a)
 - <a id="qin26e-modules"></a>[Not All Frequencies Are Equal: Energy-Adaptive Diffusion for Time Series Forecasting](../conferences/icml-2026/cards/3701-3800.md#paper-qin26e)
+- <a id="shu26b-modules"></a>[HybridOM: Hybrid Physics-Based and Data-Driven Global Ocean Modeling with Efficient Spatial Downscaling](../conferences/icml-2026/cards/4101-4200.md#paper-shu26b)
 
 <a id="by-loss-functions"></a>
 

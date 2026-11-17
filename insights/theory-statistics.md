@@ -559,6 +559,7 @@
 - [从依赖排序位置的残缺反馈识别完整前 k](../conferences/icml-2026/cards/3201-3300.md#migali26a-theory-statistics) · Learning to Rank from Incomplete Rankings
 - [用覆盖与宽度联合目标学习图上的预测区间](../conferences/icml-2026/cards/3601-3700.md#park26x-theory-statistics) · Quantile-Free Uncertainty Quantification in Graph Neural Networks
 - [从离散分布快照恢复自由能扩散](../conferences/icml-2026/cards/3801-3900.md#rancati26a-theory-statistics) · Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows
+- [稀疏图跨规模归一化边界](../conferences/icml-2026/cards/4101-4200.md#shu26a-theory-statistics) · Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective
 
 <a id="by-scientific-ml"></a>
 

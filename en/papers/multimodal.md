@@ -96,6 +96,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="novello26a-loss-functions"></a>[A Unified Framework for Diffusion Model Unlearning with f-Divergence](../../conferences/icml-2026/cards/3401-3500.md#paper-novello26a)
 - <a id="pan26m-loss-functions"></a>[Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26m)
 - <a id="pellicer26a-loss-functions"></a>[CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning](../../conferences/icml-2026/cards/3601-3700.md#paper-pellicer26a)
+- <a id="shi26ag-loss-functions"></a>[Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26ag)
 
 <a id="by-optimization"></a>
 
@@ -455,6 +456,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="sen26a-evaluation"></a>[BEDTime: A Unified Benchmark for Automatically Describing Time Series](../../conferences/icml-2026/cards/3901-4000.md#paper-sen26a)
 - <a id="sesmat26a-evaluation"></a>[Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../../conferences/icml-2026/cards/4001-4100.md#paper-sesmat26a)
 - <a id="she26a-evaluation"></a>[Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../../conferences/icml-2026/cards/4001-4100.md#paper-she26a)
+- <a id="shi26ad-evaluation"></a>[Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26ad)
 
 <a id="by-theory-statistics"></a>
 

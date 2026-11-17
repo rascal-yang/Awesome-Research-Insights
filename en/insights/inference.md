@@ -293,6 +293,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](../../conferences/icml-2026/cards/4101-4200.md#shi26v-inference) · 中文
 - [RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling](../../conferences/icml-2026/cards/4101-4200.md#shi26w-inference) · 中文
 - [Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning](../../conferences/icml-2026/cards/4101-4200.md#shi26ab-inference) · 中文
+- [AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#shi26af-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -391,6 +392,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [LieWarper: Geometry-Aware Motion Transfer via Lie Algebra](../../conferences/icml-2026/cards/4001-4100.md#shan26c-inference) · 中文
 - [T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing](../../conferences/icml-2026/cards/4001-4100.md#shan26d-inference) · 中文
 - [Fast and Scalable Analytical Diffusion](../../conferences/icml-2026/cards/4001-4100.md#shang26d-inference) · 中文
+- [Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping](../../conferences/icml-2026/cards/4101-4200.md#shin26b-inference) · 中文
 
 <a id="by-nlp"></a>
 

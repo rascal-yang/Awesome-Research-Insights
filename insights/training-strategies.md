@@ -215,6 +215,7 @@
 - [只适配共享策略骨干两端的线性映射](../conferences/icml-2026/cards/3501-3600.md#park26i-training-strategies) · Adaptive Policy Backbone via Shared Network
 - [用动作分布漂移动态调节在线 RL 批大小](../conferences/icml-2026/cards/3501-3600.md#park26w-training-strategies) · Scalable Reinforcement Learning via Adaptive Batch Scaling
 - [用未来状态把多解动作拆成条件选择](../conferences/icml-2026/cards/3901-4000.md#schafer26a-training-strategies) · When Does Predictive Inverse Dynamics Outperform Behavior Cloning?
+- [有置信门控的奖励补全](../conferences/icml-2026/cards/4101-4200.md#shihab26d-training-strategies) · What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion
 
 <a id="by-robotics"></a>
 
@@ -354,6 +355,8 @@
 - [在训练中学适于事后公平阈值控制的表征](../conferences/icml-2026/cards/3901-4000.md#sakata26a-training-strategies) · Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off
 - [用权重低频 DCT 分量一次初始化不同尺寸网络](../conferences/icml-2026/cards/4001-4100.md#shen26f-training-strategies) · Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform
 - [让部署模型反向校准伪标签教师](../conferences/icml-2026/cards/4101-4200.md#shi26d-training-strategies) · Coupled Training with Privileged Information and Unlabeled Data
+- [先学数据到能量的生成耦合](../conferences/icml-2026/cards/4101-4200.md#shin26d-training-strategies) · Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching
+- [有限维泊松场蒸馏](../conferences/icml-2026/cards/4101-4200.md#shlenskii26a-training-strategies) · Overclocking Electrostatic Generative Models
 
 <a id="by-graph-and-recommendation"></a>
 

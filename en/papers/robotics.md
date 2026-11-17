@@ -34,6 +34,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="liu26gf-architecture"></a>[Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gf)
 - <a id="ma26ar-architecture"></a>[PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ar)
 - <a id="shang26f-architecture"></a>[DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26f)
+- <a id="shou26a-architecture"></a>[HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/4101-4200.md#paper-shou26a)
 
 <a id="by-modules"></a>
 

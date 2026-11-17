@@ -193,6 +193,7 @@
 - <a id="park26i-training-strategies"></a>[Adaptive Policy Backbone via Shared Network](../conferences/icml-2026/cards/3501-3600.md#paper-park26i)
 - <a id="park26w-training-strategies"></a>[Scalable Reinforcement Learning via Adaptive Batch Scaling](../conferences/icml-2026/cards/3501-3600.md#paper-park26w)
 - <a id="schafer26a-training-strategies"></a>[When Does Predictive Inverse Dynamics Outperform Behavior Cloning?](../conferences/icml-2026/cards/3901-4000.md#paper-schafer26a)
+- <a id="shihab26d-training-strategies"></a>[What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion](../conferences/icml-2026/cards/4101-4200.md#paper-shihab26d)
 
 <a id="by-data-strategies"></a>
 

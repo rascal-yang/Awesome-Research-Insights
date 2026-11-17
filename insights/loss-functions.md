@@ -134,6 +134,7 @@
 - [扩散概念擦除散度](../conferences/icml-2026/cards/3401-3500.md#novello26a-loss-functions) · A Unified Framework for Diffusion Model Unlearning with f-Divergence
 - [时序耦合流匹配](../conferences/icml-2026/cards/3501-3600.md#pan26m-loss-functions) · Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion
 - [以类条件最优传输对齐互补模态证据](../conferences/icml-2026/cards/3601-3700.md#pellicer26a-loss-functions) · CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning
+- [保留模态间隙的关系对齐](../conferences/icml-2026/cards/4101-4200.md#shi26ag-loss-functions) · Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis
 
 <a id="by-ml-foundations"></a>
 
@@ -173,6 +174,8 @@
 - [无标签环境识别预测应忽略的变化方向](../conferences/icml-2026/cards/3901-4000.md#saengkyongam26a-loss-functions) · Anti-causal domain generalization: Leveraging unlabeled data
 - [异常检测的白噪声残差与自适应滤波](../conferences/icml-2026/cards/4001-4100.md#shang26e-loss-functions) · COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing
 - [把判别梯度与置信校准分开](../conferences/icml-2026/cards/4001-4100.md#sheng26a-loss-functions) · From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees
+- [把可靠性先验写入不确定性下界](../conferences/icml-2026/cards/4101-4200.md#shihab26b-loss-functions) · CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures
+- [稀疏雅可比与少量锚点配准](../conferences/icml-2026/cards/4101-4200.md#shrestha26a-loss-functions) · Domain Transfer Becomes Identifiable via a Single Alignment
 
 <a id="by-graph-and-recommendation"></a>
 

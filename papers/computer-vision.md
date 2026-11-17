@@ -373,6 +373,7 @@
 - <a id="shan26c-inference"></a>[LieWarper: Geometry-Aware Motion Transfer via Lie Algebra](../conferences/icml-2026/cards/4001-4100.md#paper-shan26c)
 - <a id="shan26d-inference"></a>[T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing](../conferences/icml-2026/cards/4001-4100.md#paper-shan26d)
 - <a id="shang26d-inference"></a>[Fast and Scalable Analytical Diffusion](../conferences/icml-2026/cards/4001-4100.md#paper-shang26d)
+- <a id="shin26b-inference"></a>[Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping](../conferences/icml-2026/cards/4101-4200.md#paper-shin26b)
 
 <a id="by-representation-learning"></a>
 
@@ -423,6 +424,7 @@
 - <a id="peng26m-representation-learning"></a>[STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition](../conferences/icml-2026/cards/3601-3700.md#paper-peng26m)
 - <a id="qiu26d-representation-learning"></a>[Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26d)
 - <a id="shi26m-representation-learning"></a>[Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes](../conferences/icml-2026/cards/4101-4200.md#paper-shi26m)
+- <a id="shokrolahi26a-representation-learning"></a>[Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation](../conferences/icml-2026/cards/4101-4200.md#paper-shokrolahi26a)
 
 <a id="by-evaluation"></a>
 

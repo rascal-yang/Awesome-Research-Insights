@@ -559,6 +559,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning to Rank from Incomplete Rankings](../../conferences/icml-2026/cards/3201-3300.md#migali26a-theory-statistics) · 中文
 - [Quantile-Free Uncertainty Quantification in Graph Neural Networks](../../conferences/icml-2026/cards/3601-3700.md#park26x-theory-statistics) · 中文
 - [Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows](../../conferences/icml-2026/cards/3801-3900.md#rancati26a-theory-statistics) · 中文
+- [Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective](../../conferences/icml-2026/cards/4101-4200.md#shu26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 
