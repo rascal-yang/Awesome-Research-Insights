@@ -389,6 +389,7 @@
 - [把矩阵 Shampoo 的单双侧预条件放进同一谱范数分析](../conferences/icml-2026/cards/2401-2500.md#li26ai-theory-statistics) · Convergence Rate Analysis of the AdamW-Style Shampoo: Unifying One-Sided and Two-Sided Preconditioning
 - [规模收益下的数据生产与定价](../conferences/icml-2026/cards/2401-2500.md#li26aw-theory-statistics) · Selling Data as a Digital Good with Scaling Valuations
 - [域偏移下的蒸馏泛化](../conferences/icml-2026/cards/2401-2500.md#li26bd-theory-statistics) · Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift
+- [用外生噪声可分性界定因果候选效应](../conferences/icml-2026/cards/2401-2500.md#li26bz-theory-statistics) · Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables
 
 <a id="by-graph-and-recommendation"></a>
 

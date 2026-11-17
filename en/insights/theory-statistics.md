@@ -389,6 +389,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Convergence Rate Analysis of the AdamW-Style Shampoo: Unifying One-Sided and Two-Sided Preconditioning](../../conferences/icml-2026/cards/2401-2500.md#li26ai-theory-statistics) · 中文
 - [Selling Data as a Digital Good with Scaling Valuations](../../conferences/icml-2026/cards/2401-2500.md#li26aw-theory-statistics) · 中文
 - [Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift](../../conferences/icml-2026/cards/2401-2500.md#li26bd-theory-statistics) · 中文
+- [Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables](../../conferences/icml-2026/cards/2401-2500.md#li26bz-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

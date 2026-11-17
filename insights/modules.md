@@ -38,6 +38,7 @@
 - [把注意力权重当高阶张量做 Tucker 分解](../conferences/icml-2026/cards/2101-2200.md#klein26a-modules) · Tucker Attention: A generalization of approximate attention mechanisms
 - [用结构探针定位表格超图的注入层](../conferences/icml-2026/cards/2301-2400.md#lee26p-modules) · HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding
 - [在值聚合后修正位置方差](../conferences/icml-2026/cards/2401-2500.md#li26bs-modules) · The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity
+- [按查询路由从多域抽取的注意力方向](../conferences/icml-2026/cards/2401-2500.md#li26cd-modules) · Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention
 
 <a id="by-computer-vision"></a>
 
@@ -137,6 +138,7 @@
 - [在中间层用互斥正交子空间分离变因](../conferences/icml-2026/cards/2001-2100.md#jung26g-modules) · Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization
 - [用输入驱动的辛变换伸缩注意力时间轴](../conferences/icml-2026/cards/2101-2200.md#kim26bk-modules) · StretchTime: Adaptive Time Series Forecasting via Symplectic Attention
 - [用关系条件调制注意力投影](../conferences/icml-2026/cards/2301-2400.md#lee26h-modules) · Dynamic Relational Priming Improves Transformer in Multivariate Time Series
+- [在冻结时序模型上学习域条件通道关系](../conferences/icml-2026/cards/2401-2500.md#li26bu-modules) · Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting
 
 <a id="by-graph-and-recommendation"></a>
 

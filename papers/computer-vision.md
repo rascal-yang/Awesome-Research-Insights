@@ -46,6 +46,7 @@
 - <a id="li26ao-architecture"></a>[TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation](../conferences/icml-2026/cards/2401-2500.md#paper-li26ao)
 - <a id="li26bc-architecture"></a>[Linearizing Vision Transformer with Test-Time Training](../conferences/icml-2026/cards/2401-2500.md#paper-li26bc)
 - <a id="li26bq-architecture"></a>[DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring](../conferences/icml-2026/cards/2401-2500.md#paper-li26bq)
+- <a id="li26bx-architecture"></a>[SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](../conferences/icml-2026/cards/2401-2500.md#paper-li26bx)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 

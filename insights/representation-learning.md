@@ -110,6 +110,8 @@
 - [用双曲文本锚点训练无文本输入的红外可见光融合](../conferences/icml-2026/cards/2001-2100.md#kang26k-representation-learning) · Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space
 - [让视觉投影对齐既有文本稀疏概念](../conferences/icml-2026/cards/2201-2300.md#kravets26a-representation-learning) · Interpretability Transfer from Language to Vision via Sparse Autoencoders
 - [双曲空间的类别轨迹解耦](../conferences/icml-2026/cards/2401-2500.md#li26bt-representation-learning) · Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation
+- [用双曲层级表征对齐红外与可见轨迹](../conferences/icml-2026/cards/2401-2500.md#li26by-representation-learning) · Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification
+- [分开估计长视频检索的跨样本歧义和片段噪声](../conferences/icml-2026/cards/2401-2500.md#li26ca-representation-learning) · Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval
 
 <a id="by-ml-foundations"></a>
 

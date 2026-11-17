@@ -71,6 +71,7 @@
 - <a id="klein26a-modules"></a>[Tucker Attention: A generalization of approximate attention mechanisms](../conferences/icml-2026/cards/2101-2200.md#paper-klein26a)
 - <a id="lee26p-modules"></a>[HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding](../conferences/icml-2026/cards/2301-2400.md#paper-lee26p)
 - <a id="li26bs-modules"></a>[The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](../conferences/icml-2026/cards/2401-2500.md#paper-li26bs)
+- <a id="li26cd-modules"></a>[Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention](../conferences/icml-2026/cards/2401-2500.md#paper-li26cd)
 
 <a id="by-loss-functions"></a>
 
@@ -243,6 +244,7 @@
 - <a id="li26v-reinforcement-learning"></a>[Knapsack RL: Compute-Efficient Reinforcement Learning via Heterogeneous Rollout Allocation](../conferences/icml-2026/cards/2401-2500.md#paper-li26v)
 - <a id="li26ak-reinforcement-learning"></a>[Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26ak)
 - <a id="li26au-reinforcement-learning"></a>[TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling](../conferences/icml-2026/cards/2401-2500.md#paper-li26au)
+- <a id="li26cc-reinforcement-learning"></a>[Beyond Mode Collapse: Distribution Matching for Diverse Reasoning](../conferences/icml-2026/cards/2401-2500.md#paper-li26cc)
 
 <a id="by-training-strategies"></a>
 
@@ -512,6 +514,8 @@
 - <a id="li26x-inference"></a>[De-Linearizing Agent Traces: Bayesian Inference of Latent Partial Orders for Efficient Execution](../conferences/icml-2026/cards/2401-2500.md#paper-li26x)
 - <a id="li26al-inference"></a>[RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference](../conferences/icml-2026/cards/2401-2500.md#paper-li26al)
 - <a id="li26bn-inference"></a>[Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory](../conferences/icml-2026/cards/2401-2500.md#paper-li26bn)
+- <a id="li26bv-inference"></a>[Judgment Operators: A Composition-Invariant Substrate for Multi-Agent Action Spaces](../conferences/icml-2026/cards/2401-2500.md#paper-li26bv)
+- <a id="li26cb-inference"></a>[AgentExpt: Automating AI Experiment Design with LLM-based Resource Retrieval Agent](../conferences/icml-2026/cards/2401-2500.md#paper-li26cb)
 
 <a id="by-representation-learning"></a>
 

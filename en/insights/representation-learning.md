@@ -110,6 +110,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](../../conferences/icml-2026/cards/2001-2100.md#kang26k-representation-learning) · 中文
 - [Interpretability Transfer from Language to Vision via Sparse Autoencoders](../../conferences/icml-2026/cards/2201-2300.md#kravets26a-representation-learning) · 中文
 - [Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation](../../conferences/icml-2026/cards/2401-2500.md#li26bt-representation-learning) · 中文
+- [Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification](../../conferences/icml-2026/cards/2401-2500.md#li26by-representation-learning) · 中文
+- [Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](../../conferences/icml-2026/cards/2401-2500.md#li26ca-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

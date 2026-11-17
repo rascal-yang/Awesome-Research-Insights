@@ -38,6 +38,7 @@ Reusable components and local changes to model inputs or connections.
 - [Tucker Attention: A generalization of approximate attention mechanisms](../../conferences/icml-2026/cards/2101-2200.md#klein26a-modules) · 中文
 - [HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding](../../conferences/icml-2026/cards/2301-2400.md#lee26p-modules) · 中文
 - [The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](../../conferences/icml-2026/cards/2401-2500.md#li26bs-modules) · 中文
+- [Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention](../../conferences/icml-2026/cards/2401-2500.md#li26cd-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -137,6 +138,7 @@ Reusable components and local changes to model inputs or connections.
 - [Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization](../../conferences/icml-2026/cards/2001-2100.md#jung26g-modules) · 中文
 - [StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](../../conferences/icml-2026/cards/2101-2200.md#kim26bk-modules) · 中文
 - [Dynamic Relational Priming Improves Transformer in Multivariate Time Series](../../conferences/icml-2026/cards/2301-2400.md#lee26h-modules) · 中文
+- [Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting](../../conferences/icml-2026/cards/2401-2500.md#li26bu-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

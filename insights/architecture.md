@@ -79,6 +79,7 @@
 - [透明物体法线预测的密集视觉条件](../conferences/icml-2026/cards/2401-2500.md#li26ao-architecture) · TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation
 - [预训练注意力的线性化迁移](../conferences/icml-2026/cards/2401-2500.md#li26bc-architecture) · Linearizing Vision Transformer with Test-Time Training
 - [用实例深度锚初始化人体网格](../conferences/icml-2026/cards/2401-2500.md#li26bq-architecture) · DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring
+- [先聚焦视频关系区间再生成稀有事件补样](../conferences/icml-2026/cards/2401-2500.md#li26bx-architecture) · SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation
 
 <a id="by-nlp"></a>
 

@@ -101,6 +101,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Knapsack RL: Compute-Efficient Reinforcement Learning via Heterogeneous Rollout Allocation](../../conferences/icml-2026/cards/2401-2500.md#li26v-reinforcement-learning) · 中文
 - [Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ak-reinforcement-learning) · 中文
 - [TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling](../../conferences/icml-2026/cards/2401-2500.md#li26au-reinforcement-learning) · 中文
+- [Beyond Mode Collapse: Distribution Matching for Diverse Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26cc-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

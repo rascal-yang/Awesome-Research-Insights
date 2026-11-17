@@ -212,6 +212,8 @@
 - <a id="lei26h-inference"></a>[GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](../conferences/icml-2026/cards/2301-2400.md#paper-lei26h)
 - <a id="leng26c-inference"></a>[Linguistic Relative Policy Optimization for Video Anomaly Reasoning](../conferences/icml-2026/cards/2301-2400.md#paper-leng26c)
 - <a id="li26be-inference"></a>[Hermes: An Evidence-Driven Agentic Framework for Trustworthy and Explainable AI-Generated Video Detection](../conferences/icml-2026/cards/2401-2500.md#paper-li26be)
+- <a id="li26bw-inference"></a>[CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception](../conferences/icml-2026/cards/2401-2500.md#paper-li26bw)
+- <a id="li26ce-inference"></a>[Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models](../conferences/icml-2026/cards/2401-2500.md#paper-li26ce)
 
 <a id="by-representation-learning"></a>
 
@@ -234,6 +236,8 @@
 - <a id="kang26k-representation-learning"></a>[Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](../conferences/icml-2026/cards/2001-2100.md#paper-kang26k)
 - <a id="kravets26a-representation-learning"></a>[Interpretability Transfer from Language to Vision via Sparse Autoencoders](../conferences/icml-2026/cards/2201-2300.md#paper-kravets26a)
 - <a id="li26bt-representation-learning"></a>[Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation](../conferences/icml-2026/cards/2401-2500.md#paper-li26bt)
+- <a id="li26by-representation-learning"></a>[Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification](../conferences/icml-2026/cards/2401-2500.md#paper-li26by)
+- <a id="li26ca-representation-learning"></a>[Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](../conferences/icml-2026/cards/2401-2500.md#paper-li26ca)
 
 <a id="by-evaluation"></a>
 

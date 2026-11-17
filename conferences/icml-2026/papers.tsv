@@ -2463,18 +2463,18 @@ number	pmlr_id	title	paper_url	insight_status
 2462	li26br	Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles	https://proceedings.mlr.press/v306/li26br.html	written
 2463	li26bs	The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity	https://proceedings.mlr.press/v306/li26bs.html	written
 2464	li26bt	Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation	https://proceedings.mlr.press/v306/li26bt.html	written
-2465	li26bu	Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting	https://proceedings.mlr.press/v306/li26bu.html	pending
-2466	li26bv	Judgment Operators: A Composition-Invariant Substrate for Multi-Agent Action Spaces	https://proceedings.mlr.press/v306/li26bv.html	pending
-2467	li26bw	CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception	https://proceedings.mlr.press/v306/li26bw.html	pending
-2468	li26bx	SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation	https://proceedings.mlr.press/v306/li26bx.html	pending
-2469	li26by	Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification	https://proceedings.mlr.press/v306/li26by.html	pending
-2470	li26bz	Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables	https://proceedings.mlr.press/v306/li26bz.html	pending
-2471	li26ca	Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval	https://proceedings.mlr.press/v306/li26ca.html	pending
-2472	li26cb	AgentExpt: Automating AI Experiment Design with LLM-based Resource Retrieval Agent	https://proceedings.mlr.press/v306/li26cb.html	pending
-2473	li26cc	Beyond Mode Collapse: Distribution Matching for Diverse Reasoning	https://proceedings.mlr.press/v306/li26cc.html	pending
-2474	li26cd	Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention	https://proceedings.mlr.press/v306/li26cd.html	pending
-2475	li26ce	Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models	https://proceedings.mlr.press/v306/li26ce.html	pending
-2476	li26cf	$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics	https://proceedings.mlr.press/v306/li26cf.html	pending
+2465	li26bu	Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting	https://proceedings.mlr.press/v306/li26bu.html	written
+2466	li26bv	Judgment Operators: A Composition-Invariant Substrate for Multi-Agent Action Spaces	https://proceedings.mlr.press/v306/li26bv.html	written
+2467	li26bw	CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception	https://proceedings.mlr.press/v306/li26bw.html	written
+2468	li26bx	SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation	https://proceedings.mlr.press/v306/li26bx.html	written
+2469	li26by	Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification	https://proceedings.mlr.press/v306/li26by.html	written
+2470	li26bz	Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables	https://proceedings.mlr.press/v306/li26bz.html	written
+2471	li26ca	Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval	https://proceedings.mlr.press/v306/li26ca.html	written
+2472	li26cb	AgentExpt: Automating AI Experiment Design with LLM-based Resource Retrieval Agent	https://proceedings.mlr.press/v306/li26cb.html	written
+2473	li26cc	Beyond Mode Collapse: Distribution Matching for Diverse Reasoning	https://proceedings.mlr.press/v306/li26cc.html	written
+2474	li26cd	Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention	https://proceedings.mlr.press/v306/li26cd.html	written
+2475	li26ce	Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models	https://proceedings.mlr.press/v306/li26ce.html	written
+2476	li26cf	$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics	https://proceedings.mlr.press/v306/li26cf.html	written
 2477	li26cg	Label-Guided Representation Learning for Incomplete Multi-View Multi-Label Classification	https://proceedings.mlr.press/v306/li26cg.html	pending
 2478	li26ch	FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization	https://proceedings.mlr.press/v306/li26ch.html	pending
 2479	li26ci	FrameOracle: Learning What to See and How Much to See in Videos	https://proceedings.mlr.press/v306/li26ci.html	pending

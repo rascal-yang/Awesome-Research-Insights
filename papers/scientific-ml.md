@@ -203,6 +203,7 @@
 - <a id="helvits26a-inference"></a>[Score Based Error Correcting Code Decoder](../conferences/icml-2026/cards/1501-1600.md#paper-helvits26a)
 - <a id="jia26e-inference"></a>[MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation](../conferences/icml-2026/cards/1801-1900.md#paper-jia26e)
 - <a id="kosmala26a-inference"></a>[Speculative Sampling For Faster Molecular Dynamics](../conferences/icml-2026/cards/2201-2300.md#paper-kosmala26a)
+- <a id="li26cf-inference"></a>[$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](../conferences/icml-2026/cards/2401-2500.md#paper-li26cf)
 
 <a id="by-representation-learning"></a>
 

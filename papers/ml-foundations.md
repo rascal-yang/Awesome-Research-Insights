@@ -82,6 +82,7 @@
 - <a id="jung26g-modules"></a>[Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization](../conferences/icml-2026/cards/2001-2100.md#paper-jung26g)
 - <a id="kim26bk-modules"></a>[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bk)
 - <a id="lee26h-modules"></a>[Dynamic Relational Priming Improves Transformer in Multivariate Time Series](../conferences/icml-2026/cards/2301-2400.md#paper-lee26h)
+- <a id="li26bu-modules"></a>[Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting](../conferences/icml-2026/cards/2401-2500.md#paper-li26bu)
 
 <a id="by-loss-functions"></a>
 
@@ -716,4 +717,5 @@
 - <a id="li26ai-theory-statistics"></a>[Convergence Rate Analysis of the AdamW-Style Shampoo: Unifying One-Sided and Two-Sided Preconditioning](../conferences/icml-2026/cards/2401-2500.md#paper-li26ai)
 - <a id="li26aw-theory-statistics"></a>[Selling Data as a Digital Good with Scaling Valuations](../conferences/icml-2026/cards/2401-2500.md#paper-li26aw)
 - <a id="li26bd-theory-statistics"></a>[Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift](../conferences/icml-2026/cards/2401-2500.md#paper-li26bd)
+- <a id="li26bz-theory-statistics"></a>[Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables](../conferences/icml-2026/cards/2401-2500.md#paper-li26bz)
 <!-- classification:end -->

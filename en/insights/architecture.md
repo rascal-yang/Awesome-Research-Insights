@@ -79,6 +79,7 @@ Model-wide design and information flow.
 - [TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation](../../conferences/icml-2026/cards/2401-2500.md#li26ao-architecture) · 中文
 - [Linearizing Vision Transformer with Test-Time Training](../../conferences/icml-2026/cards/2401-2500.md#li26bc-architecture) · 中文
 - [DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring](../../conferences/icml-2026/cards/2401-2500.md#li26bq-architecture) · 中文
+- [SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](../../conferences/icml-2026/cards/2401-2500.md#li26bx-architecture) · 中文
 
 <a id="by-nlp"></a>
 

@@ -101,6 +101,7 @@
 - [把 rollout 分配做成带预算的背包选择](../conferences/icml-2026/cards/2401-2500.md#li26v-reinforcement-learning) · Knapsack RL: Compute-Efficient Reinforcement Learning via Heterogeneous Rollout Allocation
 - [按注意力里局部分块和全局锚点调整逐词信用](../conferences/icml-2026/cards/2401-2500.md#li26ak-reinforcement-learning) · Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization
 - [共享前缀的树形强化学习采样](../conferences/icml-2026/cards/2401-2500.md#li26au-reinforcement-learning) · TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling
+- [按奖励质量匹配采样组内多解分布](../conferences/icml-2026/cards/2401-2500.md#li26cc-reinforcement-learning) · Beyond Mode Collapse: Distribution Matching for Diverse Reasoning
 
 <a id="by-computer-vision"></a>
 

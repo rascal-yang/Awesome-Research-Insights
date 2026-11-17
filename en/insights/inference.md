@@ -168,6 +168,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [De-Linearizing Agent Traces: Bayesian Inference of Latent Partial Orders for Efficient Execution](../../conferences/icml-2026/cards/2401-2500.md#li26x-inference) · 中文
 - [RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference](../../conferences/icml-2026/cards/2401-2500.md#li26al-inference) · 中文
 - [Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory](../../conferences/icml-2026/cards/2401-2500.md#li26bn-inference) · 中文
+- [Judgment Operators: A Composition-Invariant Substrate for Multi-Agent Action Spaces](../../conferences/icml-2026/cards/2401-2500.md#li26bv-inference) · 中文
+- [AgentExpt: Automating AI Experiment Design with LLM-based Resource Retrieval Agent](../../conferences/icml-2026/cards/2401-2500.md#li26cb-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -338,6 +340,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](../../conferences/icml-2026/cards/2301-2400.md#lei26h-inference) · 中文
 - [Linguistic Relative Policy Optimization for Video Anomaly Reasoning](../../conferences/icml-2026/cards/2301-2400.md#leng26c-inference) · 中文
 - [Hermes: An Evidence-Driven Agentic Framework for Trustworthy and Explainable AI-Generated Video Detection](../../conferences/icml-2026/cards/2401-2500.md#li26be-inference) · 中文
+- [CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception](../../conferences/icml-2026/cards/2401-2500.md#li26bw-inference) · 中文
+- [Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models](../../conferences/icml-2026/cards/2401-2500.md#li26ce-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -406,4 +410,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Score Based Error Correcting Code Decoder](../../conferences/icml-2026/cards/1501-1600.md#helvits26a-inference) · 中文
 - [MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation](../../conferences/icml-2026/cards/1801-1900.md#jia26e-inference) · 中文
 - [Speculative Sampling For Faster Molecular Dynamics](../../conferences/icml-2026/cards/2201-2300.md#kosmala26a-inference) · 中文
+- [$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](../../conferences/icml-2026/cards/2401-2500.md#li26cf-inference) · 中文
 <!-- classification:end -->
