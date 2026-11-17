@@ -3503,7 +3503,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3502	oikonomou26c	Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients	https://proceedings.mlr.press/v306/oikonomou26c.html		written
 3503	okawa26a	Emergence of Biased Consensus in Multi-Agent LLM Debates	https://proceedings.mlr.press/v306/okawa26a.html		written
 3504	okawa26b	Emergence of Hierarchical Emotion Organization in Large Language Models	https://proceedings.mlr.press/v306/okawa26b.html		written
-3505	oki26a	Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets	https://proceedings.mlr.press/v306/oki26a.html	结果限定 M-凸动作集上隐藏线性目标的顺序约束推断及冲突重启；正文未建立至具身动作模型或深度偏好目标的对应，不能靠潜在推荐用途通过硬筛（PDF 第 3、5–8 页，§2.1、§3–6）。	excluded
+3505	oki26a	Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets	https://proceedings.mlr.press/v306/oki26a.html	技术选择：线性奖励的逆优化在M-凸可行动作集内用专家最优动作形成坐标偏序约束，出现有向环时检测并重启污染；可用于这一明确离散逆奖励模型，有限O(d log d)与未知污染次数界无需神经代码才成立（PDF 第 3–7 页，§2–5，算法1–3）。	written
 3506	oko26a	Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner	https://proceedings.mlr.press/v306/oko26a.html		written
 3507	olausson26a	Amortizing Maximum Inner Product Search with Learned Support Functions	https://proceedings.mlr.press/v306/olausson26a.html		written
 3508	olmedo26a	Computational Arbitrage in AI Model Markets	https://proceedings.mlr.press/v306/olmedo26a.html		written
@@ -3537,7 +3537,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3536	pach26a	The Latent Color Subspace: Emergent Order in High-Dimensional Chaos	https://proceedings.mlr.press/v306/pach26a.html		written
 3537	pachebat26a	Tail Annealing for Heavy-Tailed Flow Matching	https://proceedings.mlr.press/v306/pachebat26a.html		written
 3538	padmanabhan26a	Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities	https://proceedings.mlr.press/v306/padmanabhan26a.html		written
-3539	paes-leme26a	Allocating Variance to Maximize Expectation	https://proceedings.mlr.press/v306/paes-leme26a.html	尽管引言类比宽神经网络，正文操作对象仍是给定高斯变量集合的方差/协方差分配；没有到网络参数、训练噪声或策略探索的可实施对应（PDF 第 1–3、5–7 页，§1.2、§2）。	excluded
+3539	paes-leme26a	Allocating Variance to Maximize Expectation	https://proceedings.mlr.press/v306/paes-leme26a.html	技术选择：在近极小值OU/线性回归近似下，可通过对角损失权W控制稳态方差A²/(2Wii)，再按预算优化最大值/子集最大值的期望；原文给出明确训练参数联系及方差集中结论，适用限于该高斯近似与聚合目标（PDF 第 3–5 页，§1.4，式11–12；第6–7页算法1）。	written
 3540	paillard26a	Aggregate Models, Not Explanations: Improving Feature Importance Estimation	https://proceedings.mlr.press/v306/paillard26a.html		written
 3541	pakman26a	Revisiting the Volume Hypothesis	https://proceedings.mlr.press/v306/pakman26a.html		written
 3542	pal26a	DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers	https://proceedings.mlr.press/v306/pal26a.html		written

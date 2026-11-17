@@ -501,7 +501,9 @@
 - [用结构张量诊断代数顿悟](../conferences/icml-2026/cards/3401-3500.md#notsawo26a-theory-statistics) · Grokking Finite-Dimensional Algebra
 - [循环模型算术表达性](../conferences/icml-2026/cards/3401-3500.md#nowak26b-theory-statistics) · An Algebraic View of the Expressivity of Recurrent Language Models
 - [均值场预测方差方向性](../conferences/icml-2026/cards/3401-3500.md#odgers26a-theory-statistics) · Gaussian Mean Field Variational Inference can Overestimate Predictive Variance
+- [用交换约束和有向环诊断逆优化反馈](../conferences/icml-2026/cards/3501-3600.md#oki26a-theory-statistics) · Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets
 - [沿 Hessian 谱隙分离流形切向维数](../conferences/icml-2026/cards/3501-3600.md#osada26a-theory-statistics) · Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation
+- [从稀疏方差桶近似高斯极值目标](../conferences/icml-2026/cards/3501-3600.md#paes-leme26a-theory-statistics) · Allocating Variance to Maximize Expectation
 - [用逐步损失检查层间学习率分配](../conferences/icml-2026/cards/3501-3600.md#pang26d-theory-statistics) · Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks
 - [在浮点网络构造中同时指定前向值与自动微分梯度](../conferences/icml-2026/cards/3501-3600.md#park26r-theory-statistics) · Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients
 - [用有限精度归约分析 Transformer 的对称性边界](../conferences/icml-2026/cards/3501-3600.md#park26s-theory-statistics) · On Expressive Power of Floating-Point Transformers

@@ -501,7 +501,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Grokking Finite-Dimensional Algebra](../../conferences/icml-2026/cards/3401-3500.md#notsawo26a-theory-statistics) · 中文
 - [An Algebraic View of the Expressivity of Recurrent Language Models](../../conferences/icml-2026/cards/3401-3500.md#nowak26b-theory-statistics) · 中文
 - [Gaussian Mean Field Variational Inference can Overestimate Predictive Variance](../../conferences/icml-2026/cards/3401-3500.md#odgers26a-theory-statistics) · 中文
+- [Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets](../../conferences/icml-2026/cards/3501-3600.md#oki26a-theory-statistics) · 中文
 - [Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation](../../conferences/icml-2026/cards/3501-3600.md#osada26a-theory-statistics) · 中文
+- [Allocating Variance to Maximize Expectation](../../conferences/icml-2026/cards/3501-3600.md#paes-leme26a-theory-statistics) · 中文
 - [Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks](../../conferences/icml-2026/cards/3501-3600.md#pang26d-theory-statistics) · 中文
 - [Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients](../../conferences/icml-2026/cards/3501-3600.md#park26r-theory-statistics) · 中文
 - [On Expressive Power of Floating-Point Transformers](../../conferences/icml-2026/cards/3501-3600.md#park26s-theory-statistics) · 中文

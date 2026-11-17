@@ -16,7 +16,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest screening · 2026-11-18** · [ICML 2026 · 2,336 / 6,552 screened · 3,995 included](conferences/icml-2026/README.md)
+**Latest screening · 2026-11-18** · [ICML 2026 · 2,336 / 6,552 screened · 3,997 included](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -30,11 +30,11 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 266 | Sequential decisions, rewards, policy learning, and games. |
 | <a id="robotics"></a>[Robotics](en/papers/robotics.md) | 138 | Robot perception, policy learning, planning, and control. |
 | <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 413 | Learning and reasoning across vision, text, audio, and other modalities. |
-| <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 969 | General learning methods, optimization, learning theory, and inference. |
+| <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 971 | General learning methods, optimization, learning theory, and inference. |
 | <a id="graph-and-recommendation"></a>[Graph Learning and Recommendation](en/papers/graph-and-recommendation.md) | 156 | Graph models, knowledge graphs, and recommender systems. |
 | <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 399 | Machine learning for physics, medicine, biology, and engineering. |
 
-**3,996 papers · 3,997 mechanisms.**
+**3,998 papers · 3,999 mechanisms.**
 
 <a id="insights-by-technical-category"></a>
 
@@ -52,15 +52,15 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 608 | Decoding, search, test-time adaptation, and efficient execution. |
 | [Representation Learning](en/insights/representation-learning.md) | 278 | Representation extraction, alignment, transfer, and disentanglement. |
 | [Evaluation and Diagnostics](en/insights/evaluation.md) | 568 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
-| [Theory and Statistics](en/insights/theory-statistics.md) | 562 | Learning guarantees, counterexamples, estimation, and statistical tests. |
+| [Theory and Statistics](en/insights/theory-statistics.md) | 564 | Learning guarantees, counterexamples, estimation, and statistical tests. |
 
 ## Recent Updates
+
+- **2026-11-18** · Restored two paper cards after rechecking their concrete technical interfaces.
 
 - **2026-11-18** · Reviewed 321 ICML 2026 cards and removed 3.
 
 - **2026-11-18** · Reviewed 6 ICML 2026 cards and removed 6.
-
-- **2026-11-18** · Reviewed 14 ICML 2026 cards and removed 14.
 
 <a id="icml-2026-first-batch"></a>
 
