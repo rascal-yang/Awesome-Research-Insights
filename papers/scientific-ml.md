@@ -179,6 +179,8 @@
 - <a id="mo26d-optimization"></a>[Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../conferences/icml-2026/cards/3301-3400.md#paper-mo26d)
 - <a id="mozejko26a-optimization"></a>[PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry](../conferences/icml-2026/cards/3301-3400.md#paper-mozejko26a)
 - <a id="oikonomou26a-optimization"></a>[Neuro-Symbolic AI for Analytical Solutions of Differential Equations](../conferences/icml-2026/cards/3401-3500.md#paper-oikonomou26a)
+- <a id="pandey26a-optimization"></a>[Interpretability Driven Evolutionary Approach for the Design of Biological Sequences](../conferences/icml-2026/cards/3501-3600.md#paper-pandey26a)
+- <a id="pang26f-optimization"></a>[Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs](../conferences/icml-2026/cards/3501-3600.md#paper-pang26f)
 
 <a id="by-reinforcement-learning"></a>
 

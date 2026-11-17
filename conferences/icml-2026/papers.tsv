@@ -3551,40 +3551,40 @@ number	pmlr_id	title	paper_url	insight_status
 3550	pan26f	ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization	https://proceedings.mlr.press/v306/pan26f.html	written
 3551	pan26g	Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs	https://proceedings.mlr.press/v306/pan26g.html	written
 3552	pan26h	Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation	https://proceedings.mlr.press/v306/pan26h.html	written
-3553	pan26i	Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging	https://proceedings.mlr.press/v306/pan26i.html	pending
-3554	pan26j	Knowing Bias, Doing Better: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement	https://proceedings.mlr.press/v306/pan26j.html	pending
-3555	pan26k	ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management	https://proceedings.mlr.press/v306/pan26k.html	pending
-3556	pan26l	Detecting and Filtering Unsafe Training Data via Data Attribution with Denoised Representation	https://proceedings.mlr.press/v306/pan26l.html	pending
-3557	pan26m	Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion	https://proceedings.mlr.press/v306/pan26m.html	pending
-3558	pan26n	Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning	https://proceedings.mlr.press/v306/pan26n.html	pending
-3559	pan26o	Optimal Transport for LLM Reward Modeling from Noisy Feedback	https://proceedings.mlr.press/v306/pan26o.html	pending
-3560	pan26p	AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/pan26p.html	pending
-3561	panaganti26a	Group Distributionally Robust Optimization-Driven RL for LLM Reasoning	https://proceedings.mlr.press/v306/panaganti26a.html	pending
-3562	panayiotou26a	CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning	https://proceedings.mlr.press/v306/panayiotou26a.html	pending
-3563	panchal26a	Memory Savings at What Cost? A Study of Alternatives to Backpropagation	https://proceedings.mlr.press/v306/panchal26a.html	pending
-3564	panchal26b	Mosaic: Runtime-Efficient Multi-Agent Embodied Planning	https://proceedings.mlr.press/v306/panchal26b.html	pending
-3565	pandey26a	Interpretability Driven Evolutionary Approach for the Design of Biological Sequences	https://proceedings.mlr.press/v306/pandey26a.html	pending
-3566	pandey26b	Continual Segmentation under Joint Nonstationarity	https://proceedings.mlr.press/v306/pandey26b.html	pending
-3567	panferov26a	Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation	https://proceedings.mlr.press/v306/panferov26a.html	pending
-3568	pang26a	Decouple and Cache: KV Cache Construction for Streaming Video Understanding	https://proceedings.mlr.press/v306/pang26a.html	pending
-3569	pang26b	Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox	https://proceedings.mlr.press/v306/pang26b.html	pending
-3570	pang26c	Unveiling the Visual Counting Bottleneck in Vision-Language Models	https://proceedings.mlr.press/v306/pang26c.html	pending
-3571	pang26d	Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks	https://proceedings.mlr.press/v306/pang26d.html	pending
-3572	pang26e	EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning	https://proceedings.mlr.press/v306/pang26e.html	pending
-3573	pang26f	Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs	https://proceedings.mlr.press/v306/pang26f.html	pending
-3574	pappu26a	Multi-Agent Teams Hold Experts Back	https://proceedings.mlr.press/v306/pappu26a.html	pending
-3575	paraperas-papantoniou26a	STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits	https://proceedings.mlr.press/v306/paraperas-papantoniou26a.html	pending
-3576	parashar26a	Learnability-Informed Fine-Tuning of Diffusion Language Models	https://proceedings.mlr.press/v306/parashar26a.html	pending
-3577	pardeshi26a	Online Social Welfare Function-based Resource Allocation	https://proceedings.mlr.press/v306/pardeshi26a.html	pending
-3578	park26a	TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation	https://proceedings.mlr.press/v306/park26a.html	pending
-3579	park26b	Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach	https://proceedings.mlr.press/v306/park26b.html	pending
-3580	park26c	Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling	https://proceedings.mlr.press/v306/park26c.html	pending
-3581	park26d	Convergent World Representations and Divergent Tasks	https://proceedings.mlr.press/v306/park26d.html	pending
-3582	park26e	Sharpness-Aware Minimization Can Hallucinate Minimizers	https://proceedings.mlr.press/v306/park26e.html	pending
-3583	park26f	Q-Delta: Beyond Key–Value Associative State Evolution	https://proceedings.mlr.press/v306/park26f.html	pending
-3584	park26g	Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning	https://proceedings.mlr.press/v306/park26g.html	pending
-3585	park26h	$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments	https://proceedings.mlr.press/v306/park26h.html	pending
-3586	park26i	Adaptive Policy Backbone via Shared Network	https://proceedings.mlr.press/v306/park26i.html	pending
+3553	pan26i	Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging	https://proceedings.mlr.press/v306/pan26i.html	written
+3554	pan26j	Knowing Bias, Doing Better: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement	https://proceedings.mlr.press/v306/pan26j.html	written
+3555	pan26k	ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management	https://proceedings.mlr.press/v306/pan26k.html	written
+3556	pan26l	Detecting and Filtering Unsafe Training Data via Data Attribution with Denoised Representation	https://proceedings.mlr.press/v306/pan26l.html	written
+3557	pan26m	Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion	https://proceedings.mlr.press/v306/pan26m.html	written
+3558	pan26n	Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning	https://proceedings.mlr.press/v306/pan26n.html	written
+3559	pan26o	Optimal Transport for LLM Reward Modeling from Noisy Feedback	https://proceedings.mlr.press/v306/pan26o.html	written
+3560	pan26p	AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/pan26p.html	written
+3561	panaganti26a	Group Distributionally Robust Optimization-Driven RL for LLM Reasoning	https://proceedings.mlr.press/v306/panaganti26a.html	written
+3562	panayiotou26a	CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning	https://proceedings.mlr.press/v306/panayiotou26a.html	written
+3563	panchal26a	Memory Savings at What Cost? A Study of Alternatives to Backpropagation	https://proceedings.mlr.press/v306/panchal26a.html	written
+3564	panchal26b	Mosaic: Runtime-Efficient Multi-Agent Embodied Planning	https://proceedings.mlr.press/v306/panchal26b.html	written
+3565	pandey26a	Interpretability Driven Evolutionary Approach for the Design of Biological Sequences	https://proceedings.mlr.press/v306/pandey26a.html	written
+3566	pandey26b	Continual Segmentation under Joint Nonstationarity	https://proceedings.mlr.press/v306/pandey26b.html	written
+3567	panferov26a	Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation	https://proceedings.mlr.press/v306/panferov26a.html	written
+3568	pang26a	Decouple and Cache: KV Cache Construction for Streaming Video Understanding	https://proceedings.mlr.press/v306/pang26a.html	written
+3569	pang26b	Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox	https://proceedings.mlr.press/v306/pang26b.html	written
+3570	pang26c	Unveiling the Visual Counting Bottleneck in Vision-Language Models	https://proceedings.mlr.press/v306/pang26c.html	written
+3571	pang26d	Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks	https://proceedings.mlr.press/v306/pang26d.html	written
+3572	pang26e	EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning	https://proceedings.mlr.press/v306/pang26e.html	written
+3573	pang26f	Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs	https://proceedings.mlr.press/v306/pang26f.html	written
+3574	pappu26a	Multi-Agent Teams Hold Experts Back	https://proceedings.mlr.press/v306/pappu26a.html	written
+3575	paraperas-papantoniou26a	STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits	https://proceedings.mlr.press/v306/paraperas-papantoniou26a.html	written
+3576	parashar26a	Learnability-Informed Fine-Tuning of Diffusion Language Models	https://proceedings.mlr.press/v306/parashar26a.html	written
+3577	pardeshi26a	Online Social Welfare Function-based Resource Allocation	https://proceedings.mlr.press/v306/pardeshi26a.html	written
+3578	park26a	TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation	https://proceedings.mlr.press/v306/park26a.html	written
+3579	park26b	Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach	https://proceedings.mlr.press/v306/park26b.html	written
+3580	park26c	Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling	https://proceedings.mlr.press/v306/park26c.html	written
+3581	park26d	Convergent World Representations and Divergent Tasks	https://proceedings.mlr.press/v306/park26d.html	written
+3582	park26e	Sharpness-Aware Minimization Can Hallucinate Minimizers	https://proceedings.mlr.press/v306/park26e.html	written
+3583	park26f	Q-Delta: Beyond Key–Value Associative State Evolution	https://proceedings.mlr.press/v306/park26f.html	written
+3584	park26g	Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning	https://proceedings.mlr.press/v306/park26g.html	written
+3585	park26h	$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments	https://proceedings.mlr.press/v306/park26h.html	written
+3586	park26i	Adaptive Policy Backbone via Shared Network	https://proceedings.mlr.press/v306/park26i.html	written
 3587	park26j	Euler–Poincaré Neural Dynamics: A Geometric-Mechanics Framework for Scientific Simulation	https://proceedings.mlr.press/v306/park26j.html	pending
 3588	park26k	Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces	https://proceedings.mlr.press/v306/park26k.html	pending
 3589	park26l	Saliency-Aware Model Merging	https://proceedings.mlr.press/v306/park26l.html	pending

@@ -139,6 +139,9 @@
 - [固定推理顺序并保留扩散语言模型并行解码](../conferences/icml-2026/cards/3401-3500.md#ni26e-reinforcement-learning) · The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models
 - [训练 Agent 逐轮省略冗余思路和环境观测](../conferences/icml-2026/cards/3401-3500.md#ning26a-reinforcement-learning) · Agent-Omit: Adaptive Context Omission for Efficient LLM Agents
 - [用组内排序替换奖励绝对分数](../conferences/icml-2026/cards/3401-3500.md#niu26a-reinforcement-learning) · From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning
+- [多智能体攻防共训练](../conferences/icml-2026/cards/3501-3600.md#pan26p-reinforcement-learning) · AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning
+- [难度组稳健强化训练](../conferences/icml-2026/cards/3501-3600.md#panaganti26a-reinforcement-learning) · Group Distributionally Robust Optimization-Driven RL for LLM Reasoning
+- [为长期代理分开训练子目标和原子动作](../conferences/icml-2026/cards/3501-3600.md#park26h-reinforcement-learning) · $\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments
 
 <a id="by-computer-vision"></a>
 
@@ -283,6 +286,7 @@
 - [用多次尝试的最大回报目标诱导探索](../conferences/icml-2026/cards/3401-3500.md#nishimori26a-reinforcement-learning) · Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying
 - [联合约束自博弈更新步幅与探索](../conferences/icml-2026/cards/3501-3600.md#ota26a-reinforcement-learning) · Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games
 - [把询问与监督协调做成马尔可夫博弈](../conferences/icml-2026/cards/3501-3600.md#overman26b-reinforcement-learning) · The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy
+- [随机到达规避证书](../conferences/icml-2026/cards/3501-3600.md#pan26n-reinforcement-learning) · Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning
 
 <a id="by-robotics"></a>
 

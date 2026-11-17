@@ -156,6 +156,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](../../conferences/icml-2026/cards/3201-3300.md#mendez26a-representation-learning) · 中文
 - [Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models](../../conferences/icml-2026/cards/3301-3400.md#mishra26b-representation-learning) · 中文
 - [UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations](../../conferences/icml-2026/cards/3301-3400.md#muhlematter26a-representation-learning) · 中文
+- [Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging](../../conferences/icml-2026/cards/3501-3600.md#pan26i-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -206,6 +207,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Causal-aware Anomaly Detection for Tabular Data](../../conferences/icml-2026/cards/3401-3500.md#nguyen26j-representation-learning) · 中文
 - [Representation Learning for Equivariant Inference with Guarantees](../../conferences/icml-2026/cards/3501-3600.md#ordonez-apraez26a-representation-learning) · 中文
 - [Learning to Extrapolate to New Tasks: A Relational Approach to Task Extrapolation](../../conferences/icml-2026/cards/3501-3600.md#ousherovitch26a-representation-learning) · 中文
+- [TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation](../../conferences/icml-2026/cards/3501-3600.md#park26a-representation-learning) · 中文
+- [Convergent World Representations and Divergent Tasks](../../conferences/icml-2026/cards/3501-3600.md#park26d-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

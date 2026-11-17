@@ -41,6 +41,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Mind the Gap: Structure-Aware Consistency in Preference Learning](../../conferences/icml-2026/cards/3301-3400.md#mohri26e-loss-functions) · 中文
 - [TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](../../conferences/icml-2026/cards/3401-3500.md#nguyen26l-loss-functions) · 中文
 - [Autoregressive Direct Preference Optimization](../../conferences/icml-2026/cards/3401-3500.md#oi26b-loss-functions) · 中文
+- [Optimal Transport for LLM Reward Modeling from Noisy Feedback](../../conferences/icml-2026/cards/3501-3600.md#pan26o-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -125,6 +126,7 @@ Objectives, auxiliary supervision, and regularization.
 - [AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field](../../conferences/icml-2026/cards/3101-3200.md#ma26ai-loss-functions) · 中文
 - [Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs](../../conferences/icml-2026/cards/3301-3400.md#mirvakhabova26a-loss-functions) · 中文
 - [A Unified Framework for Diffusion Model Unlearning with f-Divergence](../../conferences/icml-2026/cards/3401-3500.md#novello26a-loss-functions) · 中文
+- [Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion](../../conferences/icml-2026/cards/3501-3600.md#pan26m-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

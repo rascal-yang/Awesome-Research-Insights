@@ -232,6 +232,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="ma26aq-training-strategies"></a>[Learning Generalized Trackers with Elastic Token Budgets](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26aq)
 - <a id="mu26c-training-strategies"></a>[Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer](../../conferences/icml-2026/cards/3301-3400.md#paper-mu26c)
 - <a id="odonnat26a-training-strategies"></a>[Vision Transformer Finetuning Benefits from Non-Smooth Components](../../conferences/icml-2026/cards/3401-3500.md#paper-odonnat26a)
+- <a id="pandey26b-training-strategies"></a>[Continual Segmentation under Joint Nonstationarity](../../conferences/icml-2026/cards/3501-3600.md#paper-pandey26b)
 
 <a id="by-data-strategies"></a>
 

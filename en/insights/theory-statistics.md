@@ -512,6 +512,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets](../../conferences/icml-2026/cards/3501-3600.md#oki26a-theory-statistics) · 中文
 - [Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation](../../conferences/icml-2026/cards/3501-3600.md#osada26a-theory-statistics) · 中文
 - [Allocating Variance to Maximize Expectation](../../conferences/icml-2026/cards/3501-3600.md#paes-leme26a-theory-statistics) · 中文
+- [Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks](../../conferences/icml-2026/cards/3501-3600.md#pang26d-theory-statistics) · 中文
+- [Online Social Welfare Function-based Resource Allocation](../../conferences/icml-2026/cards/3501-3600.md#pardeshi26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

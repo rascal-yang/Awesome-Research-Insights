@@ -275,6 +275,8 @@
 - [独立测量搜索回答和所引网页的风险](../conferences/icml-2026/cards/3501-3600.md#ou26a-evaluation) · When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models
 - [生产智能体实践测量](../conferences/icml-2026/cards/3501-3600.md#pan26a-evaluation) · Measuring Agents in Production
 - [推理片段递归归因](../conferences/icml-2026/cards/3501-3600.md#pan26g-evaluation) · Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs
+- [以检查点反传校准省显存训练的对照](../conferences/icml-2026/cards/3501-3600.md#panchal26a-evaluation) · Memory Savings at What Cost? A Study of Alternatives to Backpropagation
+- [用专家身份干预拆解团队协同损失](../conferences/icml-2026/cards/3501-3600.md#pappu26a-evaluation) · Multi-Agent Teams Hold Experts Back
 
 <a id="by-computer-vision"></a>
 
@@ -461,6 +463,8 @@
 - [把可视化成品与原生操作一同验证](../conferences/icml-2026/cards/3201-3300.md#meng26d-evaluation) · DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios
 - [用需要世界知识才能作画的提示评估文生图](../conferences/icml-2026/cards/3401-3500.md#niu26c-evaluation) · WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation
 - [让音频评估同时奖励语义相似和跨样本可辨识](../conferences/icml-2026/cards/3401-3500.md#niu26d-evaluation) · MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks
+- [分阶段定位视觉计数的外推失效](../conferences/icml-2026/cards/3501-3600.md#pang26c-evaluation) · Unveiling the Visual Counting Bottleneck in Vision-Language Models
+- [用最小视觉反例训练多模态裁判](../conferences/icml-2026/cards/3501-3600.md#park26c-evaluation) · Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
 
 <a id="by-ml-foundations"></a>
 
@@ -513,6 +517,7 @@
 - [分别测棋类规则外推和策略迁移](../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers
 - [先集成预测函数再估特征重要性](../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · Aggregate Models, Not Explanations: Improving Feature Importance Estimation
 - [用态密度测随机插值与梯度泛化](../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · Revisiting the Volume Hypothesis
+- [结构因果基准取样](../conferences/icml-2026/cards/3501-3600.md#panayiotou26a-evaluation) · CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning
 
 <a id="by-graph-and-recommendation"></a>
 

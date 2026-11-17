@@ -151,6 +151,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="liu26fo-inference"></a>[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fo)
 - <a id="luo26ab-inference"></a>[STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics–Physics Dual System](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ab)
 - <a id="nandiraju26a-inference"></a>[HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](../../conferences/icml-2026/cards/3401-3500.md#paper-nandiraju26a)
+- <a id="panchal26b-inference"></a>[Mosaic: Runtime-Efficient Multi-Agent Embodied Planning](../../conferences/icml-2026/cards/3501-3600.md#paper-panchal26b)
 
 <a id="by-representation-learning"></a>
 

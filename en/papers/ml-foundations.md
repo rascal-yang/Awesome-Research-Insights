@@ -335,6 +335,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="oikonomou26c-optimization"></a>[Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](../../conferences/icml-2026/cards/3501-3600.md#paper-oikonomou26c)
 - <a id="otsuka26a-optimization"></a>[Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation](../../conferences/icml-2026/cards/3501-3600.md#paper-otsuka26a)
 - <a id="pan26c-optimization"></a>[Adaptive Multi-Round Allocation with Stochastic Arrivals](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26c)
+- <a id="park26e-optimization"></a>[Sharpness-Aware Minimization Can Hallucinate Minimizers](../../conferences/icml-2026/cards/3501-3600.md#paper-park26e)
+- <a id="park26g-optimization"></a>[Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-park26g)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -519,6 +521,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="nguyen26j-representation-learning"></a>[Causal-aware Anomaly Detection for Tabular Data](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26j)
 - <a id="ordonez-apraez26a-representation-learning"></a>[Representation Learning for Equivariant Inference with Guarantees](../../conferences/icml-2026/cards/3501-3600.md#paper-ordonez-apraez26a)
 - <a id="ousherovitch26a-representation-learning"></a>[Learning to Extrapolate to New Tasks: A Relational Approach to Task Extrapolation](../../conferences/icml-2026/cards/3501-3600.md#paper-ousherovitch26a)
+- <a id="park26a-representation-learning"></a>[TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation](../../conferences/icml-2026/cards/3501-3600.md#paper-park26a)
+- <a id="park26d-representation-learning"></a>[Convergent World Representations and Divergent Tasks](../../conferences/icml-2026/cards/3501-3600.md#paper-park26d)
 
 <a id="by-evaluation"></a>
 
@@ -571,6 +575,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="meszaros26a-evaluation"></a>[Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers](../../conferences/icml-2026/cards/3201-3300.md#paper-meszaros26a)
 - <a id="paillard26a-evaluation"></a>[Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paper-paillard26a)
 - <a id="pakman26a-evaluation"></a>[Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#paper-pakman26a)
+- <a id="panayiotou26a-evaluation"></a>[CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-panayiotou26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -923,4 +928,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="oki26a-theory-statistics"></a>[Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets](../../conferences/icml-2026/cards/3501-3600.md#paper-oki26a)
 - <a id="osada26a-theory-statistics"></a>[Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation](../../conferences/icml-2026/cards/3501-3600.md#paper-osada26a)
 - <a id="paes-leme26a-theory-statistics"></a>[Allocating Variance to Maximize Expectation](../../conferences/icml-2026/cards/3501-3600.md#paper-paes-leme26a)
+- <a id="pang26d-theory-statistics"></a>[Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks](../../conferences/icml-2026/cards/3501-3600.md#paper-pang26d)
+- <a id="pardeshi26a-theory-statistics"></a>[Online Social Welfare Function-based Resource Allocation](../../conferences/icml-2026/cards/3501-3600.md#paper-pardeshi26a)
 <!-- classification:end -->

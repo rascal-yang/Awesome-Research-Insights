@@ -275,6 +275,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models](../../conferences/icml-2026/cards/3501-3600.md#ou26a-evaluation) · 中文
 - [Measuring Agents in Production](../../conferences/icml-2026/cards/3501-3600.md#pan26a-evaluation) · 中文
 - [Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs](../../conferences/icml-2026/cards/3501-3600.md#pan26g-evaluation) · 中文
+- [Memory Savings at What Cost? A Study of Alternatives to Backpropagation](../../conferences/icml-2026/cards/3501-3600.md#panchal26a-evaluation) · 中文
+- [Multi-Agent Teams Hold Experts Back](../../conferences/icml-2026/cards/3501-3600.md#pappu26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -461,6 +463,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](../../conferences/icml-2026/cards/3201-3300.md#meng26d-evaluation) · 中文
 - [WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](../../conferences/icml-2026/cards/3401-3500.md#niu26c-evaluation) · 中文
 - [MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks](../../conferences/icml-2026/cards/3401-3500.md#niu26d-evaluation) · 中文
+- [Unveiling the Visual Counting Bottleneck in Vision-Language Models](../../conferences/icml-2026/cards/3501-3600.md#pang26c-evaluation) · 中文
+- [Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](../../conferences/icml-2026/cards/3501-3600.md#park26c-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -513,6 +517,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers](../../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · 中文
 - [Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · 中文
 - [Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · 中文
+- [CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning](../../conferences/icml-2026/cards/3501-3600.md#panayiotou26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -253,6 +253,8 @@
 - [在数学探索中插入 Lean 检查点](../conferences/icml-2026/cards/3501-3600.md#ospanov26a-inference) · HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs
 - [用密集推理改写的激活差引导小语言模型](../conferences/icml-2026/cards/3501-3600.md#ouyang26d-inference) · DenseSteer: Steering Small Language Models towards Dense Math Reasoning
 - [扩散轨迹树投机](../conferences/icml-2026/cards/3501-3600.md#pan26e-inference) · Trajectory-Level Speculative Decoding for Diffusion Language Models
+- [偏见识别神经元增强](../conferences/icml-2026/cards/3501-3600.md#pan26j-inference) · Knowing Bias, Doing Better: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement
+- [调用距离缓存预取](../conferences/icml-2026/cards/3501-3600.md#pan26k-inference) · ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management
 
 <a id="by-computer-vision"></a>
 
@@ -409,6 +411,7 @@
 - [把实时重规划做成带时限的预算控制](../conferences/icml-2026/cards/2901-3000.md#liu26fo-inference) · When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents
 - [逐阶段语义生成与物理位姿校正](../conferences/icml-2026/cards/3001-3100.md#luo26ab-inference) · STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics–Physics Dual System
 - [分层扩散流规划](../conferences/icml-2026/cards/3401-3500.md#nandiraju26a-inference) · HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks
+- [用相对空间记忆和约束减少协作返工](../conferences/icml-2026/cards/3501-3600.md#panchal26b-inference) · Mosaic: Runtime-Efficient Multi-Agent Embodied Planning
 
 <a id="by-multimodal"></a>
 
@@ -488,6 +491,7 @@
 - [用频谱削弱后的特征一致性修正 CLIP 对抗输入](../conferences/icml-2026/cards/3401-3500.md#nie26d-inference) · Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP
 - [让视觉工具的观测反馈参与束搜索](../conferences/icml-2026/cards/3401-3500.md#ning26b-inference) · V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning
 - [用片段分支与约束验证扩展视频推理](../conferences/icml-2026/cards/3501-3600.md#ouyang26f-inference) · ReaForest: Fostering Generative Video Reasoning for Spatial Planning
+- [把视频近期缓存从历史递推中解耦](../conferences/icml-2026/cards/3501-3600.md#pang26a-inference) · Decouple and Cache: KV Cache Construction for Streaming Video Understanding
 
 <a id="by-ml-foundations"></a>
 

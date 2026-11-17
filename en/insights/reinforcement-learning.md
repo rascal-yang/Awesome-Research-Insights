@@ -139,6 +139,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](../../conferences/icml-2026/cards/3401-3500.md#ni26e-reinforcement-learning) · 中文
 - [Agent-Omit: Adaptive Context Omission for Efficient LLM Agents](../../conferences/icml-2026/cards/3401-3500.md#ning26a-reinforcement-learning) · 中文
 - [From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#niu26a-reinforcement-learning) · 中文
+- [AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#pan26p-reinforcement-learning) · 中文
+- [Group Distributionally Robust Optimization-Driven RL for LLM Reasoning](../../conferences/icml-2026/cards/3501-3600.md#panaganti26a-reinforcement-learning) · 中文
+- [$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments](../../conferences/icml-2026/cards/3501-3600.md#park26h-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -283,6 +286,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying](../../conferences/icml-2026/cards/3401-3500.md#nishimori26a-reinforcement-learning) · 中文
 - [Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games](../../conferences/icml-2026/cards/3501-3600.md#ota26a-reinforcement-learning) · 中文
 - [The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy](../../conferences/icml-2026/cards/3501-3600.md#overman26b-reinforcement-learning) · 中文
+- [Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#pan26n-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

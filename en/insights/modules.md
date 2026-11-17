@@ -45,6 +45,7 @@ Reusable components and local changes to model inputs or connections.
 - [Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26j-modules) · 中文
 - [You Need Better Attention Priors](../../conferences/icml-2026/cards/2701-2800.md#litman26a-modules) · 中文
 - [Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining](../../conferences/icml-2026/cards/3301-3400.md#mitchell26a-modules) · 中文
+- [Q-Delta: Beyond Key–Value Associative State Evolution](../../conferences/icml-2026/cards/3501-3600.md#park26f-modules) · 中文
 
 <a id="by-computer-vision"></a>
 

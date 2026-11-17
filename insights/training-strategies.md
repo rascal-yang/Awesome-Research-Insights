@@ -110,6 +110,8 @@
 - [从小模型微调更新生成大模型更新](../conferences/icml-2026/cards/3401-3500.md#nguyen26r-training-strategies) · Gradient Transformer: Learning to Generate Updates for LLMs
 - [为量化跳层保留训练路径多样性](../conferences/icml-2026/cards/3401-3500.md#noh26a-training-strategies) · QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs
 - [用同句的有无前缀蒸馏更新事实](../conferences/icml-2026/cards/3501-3600.md#padmanabhan26a-training-strategies) · Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities
+- [让掩码难度随可用上下文变化](../conferences/icml-2026/cards/3501-3600.md#parashar26a-training-strategies) · Learnability-Informed Fine-Tuning of Diffusion Language Models
+- [迭代蒸馏每个场景内的低遗憾轨迹](../conferences/icml-2026/cards/3501-3600.md#park26b-training-strategies) · Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach
 
 <a id="by-computer-vision"></a>
 
@@ -166,6 +168,7 @@
 - [弹性追踪 token 预算](../conferences/icml-2026/cards/3101-3200.md#ma26aq-training-strategies) · Learning Generalized Trackers with Elastic Token Budgets
 - [在联邦训练中交换类流形而非单点原型](../conferences/icml-2026/cards/3301-3400.md#mu26c-training-strategies) · Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer
 - [视觉模块可塑性](../conferences/icml-2026/cards/3401-3500.md#odonnat26a-training-strategies) · Vision Transformer Finetuning Benefits from Non-Smooth Components
+- [用梯度噪声和原型共同约束持续分割](../conferences/icml-2026/cards/3501-3600.md#pandey26b-training-strategies) · Continual Segmentation under Joint Nonstationarity
 
 <a id="by-nlp"></a>
 
@@ -185,6 +188,7 @@
 - [按宽度与深度缩放策略网络的参数和更新](../conferences/icml-2026/cards/2301-2400.md#lee26ai-training-strategies) · CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning
 - [先覆盖有先修关系的课程图再训练前沿](../conferences/icml-2026/cards/2701-2800.md#liu26j-training-strategies) · Active Curriculum Refinement for Reinforcement Learning
 - [可执行环境变体的闭环课程](../conferences/icml-2026/cards/3301-3400.md#mitsides26a-training-strategies) · Dreaming in Code for Curriculum Learning in Open-Ended Worlds
+- [只适配共享策略骨干两端的线性映射](../conferences/icml-2026/cards/3501-3600.md#park26i-training-strategies) · Adaptive Policy Backbone via Shared Network
 
 <a id="by-robotics"></a>
 
@@ -249,6 +253,8 @@
 - [文档定位推理验证](../conferences/icml-2026/cards/3401-3500.md#neogi26a-training-strategies) · DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA
 - [用渐进多模态训练共享医学理解和生成模型](../conferences/icml-2026/cards/3401-3500.md#ning26d-training-strategies) · UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis
 - [多图视角动作推理](../conferences/icml-2026/cards/3401-3500.md#oi26a-training-strategies) · From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models
+- [在词义和声学冲突时学习用声学作答](../conferences/icml-2026/cards/3501-3600.md#pang26b-training-strategies) · Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox
+- [解耦语音动作和肖像视角训练](../conferences/icml-2026/cards/3501-3600.md#paraperas-papantoniou26a-training-strategies) · STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits
 
 <a id="by-ml-foundations"></a>
 

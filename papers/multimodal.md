@@ -91,6 +91,7 @@
 - <a id="ma26ai-loss-functions"></a>[AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ai)
 - <a id="mirvakhabova26a-loss-functions"></a>[Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs](../conferences/icml-2026/cards/3301-3400.md#paper-mirvakhabova26a)
 - <a id="novello26a-loss-functions"></a>[A Unified Framework for Diffusion Model Unlearning with f-Divergence](../conferences/icml-2026/cards/3401-3500.md#paper-novello26a)
+- <a id="pan26m-loss-functions"></a>[Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion](../conferences/icml-2026/cards/3501-3600.md#paper-pan26m)
 
 <a id="by-optimization"></a>
 
@@ -199,6 +200,8 @@
 - <a id="neogi26a-training-strategies"></a>[DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](../conferences/icml-2026/cards/3401-3500.md#paper-neogi26a)
 - <a id="ning26d-training-strategies"></a>[UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis](../conferences/icml-2026/cards/3401-3500.md#paper-ning26d)
 - <a id="oi26a-training-strategies"></a>[From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](../conferences/icml-2026/cards/3401-3500.md#paper-oi26a)
+- <a id="pang26b-training-strategies"></a>[Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](../conferences/icml-2026/cards/3501-3600.md#paper-pang26b)
+- <a id="paraperas-papantoniou26a-training-strategies"></a>[STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits](../conferences/icml-2026/cards/3501-3600.md#paper-paraperas-papantoniou26a)
 
 <a id="by-data-strategies"></a>
 
@@ -307,6 +310,7 @@
 - <a id="nie26d-inference"></a>[Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP](../conferences/icml-2026/cards/3401-3500.md#paper-nie26d)
 - <a id="ning26b-inference"></a>[V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning](../conferences/icml-2026/cards/3401-3500.md#paper-ning26b)
 - <a id="ouyang26f-inference"></a>[ReaForest: Fostering Generative Video Reasoning for Spatial Planning](../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26f)
+- <a id="pang26a-inference"></a>[Decouple and Cache: KV Cache Construction for Streaming Video Understanding](../conferences/icml-2026/cards/3501-3600.md#paper-pang26a)
 
 <a id="by-representation-learning"></a>
 
@@ -348,6 +352,7 @@
 - <a id="mendez26a-representation-learning"></a>[Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](../conferences/icml-2026/cards/3201-3300.md#paper-mendez26a)
 - <a id="mishra26b-representation-learning"></a>[Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models](../conferences/icml-2026/cards/3301-3400.md#paper-mishra26b)
 - <a id="muhlematter26a-representation-learning"></a>[UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations](../conferences/icml-2026/cards/3301-3400.md#paper-muhlematter26a)
+- <a id="pan26i-representation-learning"></a>[Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging](../conferences/icml-2026/cards/3501-3600.md#paper-pan26i)
 
 <a id="by-evaluation"></a>
 
@@ -429,6 +434,8 @@
 - <a id="meng26d-evaluation"></a>[DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](../conferences/icml-2026/cards/3201-3300.md#paper-meng26d)
 - <a id="niu26c-evaluation"></a>[WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](../conferences/icml-2026/cards/3401-3500.md#paper-niu26c)
 - <a id="niu26d-evaluation"></a>[MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks](../conferences/icml-2026/cards/3401-3500.md#paper-niu26d)
+- <a id="pang26c-evaluation"></a>[Unveiling the Visual Counting Bottleneck in Vision-Language Models](../conferences/icml-2026/cards/3501-3600.md#paper-pang26c)
+- <a id="park26c-evaluation"></a>[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](../conferences/icml-2026/cards/3501-3600.md#paper-park26c)
 
 <a id="by-theory-statistics"></a>
 

@@ -45,6 +45,7 @@
 - [把 LoRA 权重增量写成稀疏高斯过程后验](../conferences/icml-2026/cards/2701-2800.md#lin26j-modules) · Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models
 - [把结构先验从注意力语义键中拆出](../conferences/icml-2026/cards/2701-2800.md#litman26a-modules) · You Need Better Attention Priors
 - [查询依赖的多极近似注意力](../conferences/icml-2026/cards/3301-3400.md#mitchell26a-modules) · Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining
+- [让查询读出反馈参与线性记忆写入](../conferences/icml-2026/cards/3501-3600.md#park26f-modules) · Q-Delta: Beyond Key–Value Associative State Evolution
 
 <a id="by-computer-vision"></a>
 

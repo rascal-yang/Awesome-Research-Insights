@@ -66,6 +66,8 @@ Data selection, annotation, augmentation, and sampling.
 - [TRIM: Token-wise Attention-Derived Saliency for Data-Efficient Instruction Tuning](../../conferences/icml-2026/cards/3301-3400.md#nagaraj26a-data-strategies) · 中文
 - [Removing Noise, not Finding Gold: Quality Filtering for Large-Scale Pretraining](../../conferences/icml-2026/cards/3401-3500.md#nait-saada26a-data-strategies) · 中文
 - [Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data](../../conferences/icml-2026/cards/3401-3500.md#nam26b-data-strategies) · 中文
+- [Detecting and Filtering Unsafe Training Data via Data Attribution with Denoised Representation](../../conferences/icml-2026/cards/3501-3600.md#pan26l-data-strategies) · 中文
+- [EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning](../../conferences/icml-2026/cards/3501-3600.md#pang26e-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

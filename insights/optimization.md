@@ -85,6 +85,7 @@
 - [在可验证奖励强化学习中用无状态 SGD 替换 AdamW](../conferences/icml-2026/cards/3301-3400.md#mukherjee26c-optimization) · Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs
 - [把量化舍入误差累积到动量以省掉 master weights](../conferences/icml-2026/cards/3401-3500.md#nikdan26a-optimization) · ECO: Quantized Training without Full-Precision Master Weights
 - [编译遍历证据引导](../conferences/icml-2026/cards/3501-3600.md#pan26f-optimization) · ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization
+- [把无偏修正融入四位量化的微尺度](../conferences/icml-2026/cards/3501-3600.md#panferov26a-optimization) · Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation
 
 <a id="by-computer-vision"></a>
 
@@ -342,6 +343,8 @@
 - [次梯度分母保护](../conferences/icml-2026/cards/3501-3600.md#oikonomou26c-optimization) · Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients
 - [用衰减的缓存动量稳定部分参与聚合](../conferences/icml-2026/cards/3501-3600.md#otsuka26a-optimization) · Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation
 - [随机转介预算规划](../conferences/icml-2026/cards/3501-3600.md#pan26c-optimization) · Adaptive Multi-Round Allocation with Stochastic Arrivals
+- [同时监测 SAM 原点和扰动点梯度](../conferences/icml-2026/cards/3501-3600.md#park26e-optimization) · Sharpness-Aware Minimization Can Hallucinate Minimizers
+- [在客户端用分组归一动量平衡稀类](../conferences/icml-2026/cards/3501-3600.md#park26g-optimization) · Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -398,4 +401,6 @@
 - [芯片宏布局排序](../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution
 - [沿解码器诱导的流形搜索抗菌肽](../conferences/icml-2026/cards/3301-3400.md#mozejko26a-optimization) · PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry
 - [微分方程符号解搜索](../conferences/icml-2026/cards/3401-3500.md#oikonomou26a-optimization) · Neuro-Symbolic AI for Analytical Solutions of Differential Equations
+- [用序列归因指导进化的变异位置](../conferences/icml-2026/cards/3501-3600.md#pandey26a-optimization) · Interpretability Driven Evolutionary Approach for the Design of Biological Sequences
+- [把函数候选生成同诊断和搜索分开](../conferences/icml-2026/cards/3501-3600.md#pang26f-optimization) · Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs
 <!-- classification:end -->

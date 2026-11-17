@@ -156,6 +156,7 @@
 - [分类权重语义原型](../conferences/icml-2026/cards/3201-3300.md#mendez26a-representation-learning) · Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling
 - [模糊触发与跨模态概念解释](../conferences/icml-2026/cards/3301-3400.md#mishra26b-representation-learning) · Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models
 - [随机改变位置数据的模态组合来训练稳健融合](../conferences/icml-2026/cards/3301-3400.md#muhlematter26a-representation-learning) · UrbanFusion: Stochastic Multimodal Fusion for Contrastive Learning of Robust Spatial Representations
+- [跨患者解剖排序](../conferences/icml-2026/cards/3501-3600.md#pan26i-representation-learning) · Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging
 
 <a id="by-ml-foundations"></a>
 
@@ -206,6 +207,8 @@
 - [在因果条件特征中检测机制违例](../conferences/icml-2026/cards/3401-3500.md#nguyen26j-representation-learning) · Causal-aware Anomaly Detection for Tabular Data
 - [用等变条件算子复用回归与概率估计](../conferences/icml-2026/cards/3501-3600.md#ordonez-apraez26a-representation-learning) · Representation Learning for Equivariant Inference with Guarantees
 - [将未见任务分解成已见锚与变换](../conferences/icml-2026/cards/3501-3600.md#ousherovitch26a-representation-learning) · Learning to Extrapolate to New Tasks: A Relational Approach to Task Extrapolation
+- [为数值箱同时保留次序和连续回归](../conferences/icml-2026/cards/3501-3600.md#park26a-representation-learning) · TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation
+- [独立测试世界表示对齐和新实体整合](../conferences/icml-2026/cards/3501-3600.md#park26d-representation-learning) · Convergent World Representations and Divergent Tasks
 
 <a id="by-graph-and-recommendation"></a>
 

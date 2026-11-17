@@ -253,6 +253,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs](../../conferences/icml-2026/cards/3501-3600.md#ospanov26a-inference) · 中文
 - [DenseSteer: Steering Small Language Models towards Dense Math Reasoning](../../conferences/icml-2026/cards/3501-3600.md#ouyang26d-inference) · 中文
 - [Trajectory-Level Speculative Decoding for Diffusion Language Models](../../conferences/icml-2026/cards/3501-3600.md#pan26e-inference) · 中文
+- [Knowing Bias, Doing Better: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement](../../conferences/icml-2026/cards/3501-3600.md#pan26j-inference) · 中文
+- [ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](../../conferences/icml-2026/cards/3501-3600.md#pan26k-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -409,6 +411,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26fo-inference) · 中文
 - [STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics–Physics Dual System](../../conferences/icml-2026/cards/3001-3100.md#luo26ab-inference) · 中文
 - [HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](../../conferences/icml-2026/cards/3401-3500.md#nandiraju26a-inference) · 中文
+- [Mosaic: Runtime-Efficient Multi-Agent Embodied Planning](../../conferences/icml-2026/cards/3501-3600.md#panchal26b-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -488,6 +491,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP](../../conferences/icml-2026/cards/3401-3500.md#nie26d-inference) · 中文
 - [V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning](../../conferences/icml-2026/cards/3401-3500.md#ning26b-inference) · 中文
 - [ReaForest: Fostering Generative Video Reasoning for Spatial Planning](../../conferences/icml-2026/cards/3501-3600.md#ouyang26f-inference) · 中文
+- [Decouple and Cache: KV Cache Construction for Streaming Video Understanding](../../conferences/icml-2026/cards/3501-3600.md#pang26a-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

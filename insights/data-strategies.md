@@ -66,6 +66,8 @@
 - [按注意力指纹筛指令数据](../conferences/icml-2026/cards/3301-3400.md#nagaraj26a-data-strategies) · TRIM: Token-wise Attention-Derived Saliency for Data-Efficient Instruction Tuning
 - [区分预训练过滤收益与高质量分布匹配](../conferences/icml-2026/cards/3401-3500.md#nait-saada26a-data-strategies) · Removing Noise, not Finding Gold: Quality Filtering for Large-Scale Pretraining
 - [提示响应互信息](../conferences/icml-2026/cards/3401-3500.md#nam26b-data-strategies) · Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data
+- [安全数据白化归因](../conferences/icml-2026/cards/3501-3600.md#pan26l-data-strategies) · Detecting and Filtering Unsafe Training Data via Data Attribution with Denoised Representation
+- [用当前模型的估计熵重排领域课程](../conferences/icml-2026/cards/3501-3600.md#pang26e-data-strategies) · EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning
 
 <a id="by-computer-vision"></a>
 

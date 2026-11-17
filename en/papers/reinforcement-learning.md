@@ -165,6 +165,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="nishimori26a-reinforcement-learning"></a>[Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying](../../conferences/icml-2026/cards/3401-3500.md#paper-nishimori26a)
 - <a id="ota26a-reinforcement-learning"></a>[Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games](../../conferences/icml-2026/cards/3501-3600.md#paper-ota26a)
 - <a id="overman26b-reinforcement-learning"></a>[The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy](../../conferences/icml-2026/cards/3501-3600.md#paper-overman26b)
+- <a id="pan26n-reinforcement-learning"></a>[Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26n)
 
 <a id="by-training-strategies"></a>
 
@@ -173,6 +174,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lee26ai-training-strategies"></a>[CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ai)
 - <a id="liu26j-training-strategies"></a>[Active Curriculum Refinement for Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26j)
 - <a id="mitsides26a-training-strategies"></a>[Dreaming in Code for Curriculum Learning in Open-Ended Worlds](../../conferences/icml-2026/cards/3301-3400.md#paper-mitsides26a)
+- <a id="park26i-training-strategies"></a>[Adaptive Policy Backbone via Shared Network](../../conferences/icml-2026/cards/3501-3600.md#paper-park26i)
 
 <a id="by-data-strategies"></a>
 

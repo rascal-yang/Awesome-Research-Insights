@@ -41,6 +41,7 @@
 - [语义自适应偏好间隔](../conferences/icml-2026/cards/3301-3400.md#mohri26e-loss-functions) · Mind the Gap: Structure-Aware Consistency in Preference Learning
 - [为每个前缀匹配偏好密度比](../conferences/icml-2026/cards/3401-3500.md#nguyen26l-loss-functions) · TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching
 - [自回归前缀偏好](../conferences/icml-2026/cards/3401-3500.md#oi26b-loss-functions) · Autoregressive Direct Preference Optimization
+- [偏好部分最优传输](../conferences/icml-2026/cards/3501-3600.md#pan26o-loss-functions) · Optimal Transport for LLM Reward Modeling from Noisy Feedback
 
 <a id="by-computer-vision"></a>
 
@@ -125,6 +126,7 @@
 - [以类别锚点约束视觉提示范数](../conferences/icml-2026/cards/3101-3200.md#ma26ai-loss-functions) · AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field
 - [专家路由的 Dirichlet 先验](../conferences/icml-2026/cards/3301-3400.md#mirvakhabova26a-loss-functions) · Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs
 - [扩散概念擦除散度](../conferences/icml-2026/cards/3401-3500.md#novello26a-loss-functions) · A Unified Framework for Diffusion Model Unlearning with f-Divergence
+- [时序耦合流匹配](../conferences/icml-2026/cards/3501-3600.md#pan26m-loss-functions) · Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion
 
 <a id="by-ml-foundations"></a>
 

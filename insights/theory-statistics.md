@@ -512,6 +512,8 @@
 - [用交换约束和有向环诊断逆优化反馈](../conferences/icml-2026/cards/3501-3600.md#oki26a-theory-statistics) · Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets
 - [沿 Hessian 谱隙分离流形切向维数](../conferences/icml-2026/cards/3501-3600.md#osada26a-theory-statistics) · Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation
 - [从稀疏方差桶近似高斯极值目标](../conferences/icml-2026/cards/3501-3600.md#paes-leme26a-theory-statistics) · Allocating Variance to Maximize Expectation
+- [用逐步损失检查层间学习率分配](../conferences/icml-2026/cards/3501-3600.md#pang26d-theory-statistics) · Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks
+- [用单调性把个体置信区间提升到总体福利](../conferences/icml-2026/cards/3501-3600.md#pardeshi26a-theory-statistics) · Online Social Welfare Function-based Resource Allocation
 
 <a id="by-graph-and-recommendation"></a>
 

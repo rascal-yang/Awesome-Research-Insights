@@ -110,6 +110,8 @@ Training schedules, curricula, and task or stage composition.
 - [Gradient Transformer: Learning to Generate Updates for LLMs](../../conferences/icml-2026/cards/3401-3500.md#nguyen26r-training-strategies) · 中文
 - [QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](../../conferences/icml-2026/cards/3401-3500.md#noh26a-training-strategies) · 中文
 - [Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities](../../conferences/icml-2026/cards/3501-3600.md#padmanabhan26a-training-strategies) · 中文
+- [Learnability-Informed Fine-Tuning of Diffusion Language Models](../../conferences/icml-2026/cards/3501-3600.md#parashar26a-training-strategies) · 中文
+- [Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach](../../conferences/icml-2026/cards/3501-3600.md#park26b-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -166,6 +168,7 @@ Training schedules, curricula, and task or stage composition.
 - [Learning Generalized Trackers with Elastic Token Budgets](../../conferences/icml-2026/cards/3101-3200.md#ma26aq-training-strategies) · 中文
 - [Federated Manifold Learning (FML): Tackling Domain Heterogeneity with Structural Knowledge Transfer](../../conferences/icml-2026/cards/3301-3400.md#mu26c-training-strategies) · 中文
 - [Vision Transformer Finetuning Benefits from Non-Smooth Components](../../conferences/icml-2026/cards/3401-3500.md#odonnat26a-training-strategies) · 中文
+- [Continual Segmentation under Joint Nonstationarity](../../conferences/icml-2026/cards/3501-3600.md#pandey26b-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -185,6 +188,7 @@ Training schedules, curricula, and task or stage composition.
 - [CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26ai-training-strategies) · 中文
 - [Active Curriculum Refinement for Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#liu26j-training-strategies) · 中文
 - [Dreaming in Code for Curriculum Learning in Open-Ended Worlds](../../conferences/icml-2026/cards/3301-3400.md#mitsides26a-training-strategies) · 中文
+- [Adaptive Policy Backbone via Shared Network](../../conferences/icml-2026/cards/3501-3600.md#park26i-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -249,6 +253,8 @@ Training schedules, curricula, and task or stage composition.
 - [DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](../../conferences/icml-2026/cards/3401-3500.md#neogi26a-training-strategies) · 中文
 - [UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis](../../conferences/icml-2026/cards/3401-3500.md#ning26d-training-strategies) · 中文
 - [From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](../../conferences/icml-2026/cards/3401-3500.md#oi26a-training-strategies) · 中文
+- [Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](../../conferences/icml-2026/cards/3501-3600.md#pang26b-training-strategies) · 中文
+- [STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits](../../conferences/icml-2026/cards/3501-3600.md#paraperas-papantoniou26a-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

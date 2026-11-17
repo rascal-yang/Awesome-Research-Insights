@@ -93,6 +93,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lin26j-modules"></a>[Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26j)
 - <a id="litman26a-modules"></a>[You Need Better Attention Priors](../../conferences/icml-2026/cards/2701-2800.md#paper-litman26a)
 - <a id="mitchell26a-modules"></a>[Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining](../../conferences/icml-2026/cards/3301-3400.md#paper-mitchell26a)
+- <a id="park26f-modules"></a>[Q-Delta: Beyond Key–Value Associative State Evolution](../../conferences/icml-2026/cards/3501-3600.md#paper-park26f)
 
 <a id="by-loss-functions"></a>
 
@@ -126,6 +127,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="mohri26e-loss-functions"></a>[Mind the Gap: Structure-Aware Consistency in Preference Learning](../../conferences/icml-2026/cards/3301-3400.md#paper-mohri26e)
 - <a id="nguyen26l-loss-functions"></a>[TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26l)
 - <a id="oi26b-loss-functions"></a>[Autoregressive Direct Preference Optimization](../../conferences/icml-2026/cards/3401-3500.md#paper-oi26b)
+- <a id="pan26o-loss-functions"></a>[Optimal Transport for LLM Reward Modeling from Noisy Feedback](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26o)
 
 <a id="by-optimization"></a>
 
@@ -203,6 +205,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="mukherjee26c-optimization"></a>[Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs](../../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26c)
 - <a id="nikdan26a-optimization"></a>[ECO: Quantized Training without Full-Precision Master Weights](../../conferences/icml-2026/cards/3401-3500.md#paper-nikdan26a)
 - <a id="pan26f-optimization"></a>[ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26f)
+- <a id="panferov26a-optimization"></a>[Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation](../../conferences/icml-2026/cards/3501-3600.md#paper-panferov26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -334,6 +337,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ni26e-reinforcement-learning"></a>[The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](../../conferences/icml-2026/cards/3401-3500.md#paper-ni26e)
 - <a id="ning26a-reinforcement-learning"></a>[Agent-Omit: Adaptive Context Omission for Efficient LLM Agents](../../conferences/icml-2026/cards/3401-3500.md#paper-ning26a)
 - <a id="niu26a-reinforcement-learning"></a>[From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26a)
+- <a id="pan26p-reinforcement-learning"></a>[AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26p)
+- <a id="panaganti26a-reinforcement-learning"></a>[Group Distributionally Robust Optimization-Driven RL for LLM Reasoning](../../conferences/icml-2026/cards/3501-3600.md#paper-panaganti26a)
+- <a id="park26h-reinforcement-learning"></a>[$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments](../../conferences/icml-2026/cards/3501-3600.md#paper-park26h)
 
 <a id="by-training-strategies"></a>
 
@@ -436,6 +442,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="nguyen26r-training-strategies"></a>[Gradient Transformer: Learning to Generate Updates for LLMs](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26r)
 - <a id="noh26a-training-strategies"></a>[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](../../conferences/icml-2026/cards/3401-3500.md#paper-noh26a)
 - <a id="padmanabhan26a-training-strategies"></a>[Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities](../../conferences/icml-2026/cards/3501-3600.md#paper-padmanabhan26a)
+- <a id="parashar26a-training-strategies"></a>[Learnability-Informed Fine-Tuning of Diffusion Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-parashar26a)
+- <a id="park26b-training-strategies"></a>[Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach](../../conferences/icml-2026/cards/3501-3600.md#paper-park26b)
 
 <a id="by-data-strategies"></a>
 
@@ -494,6 +502,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="nagaraj26a-data-strategies"></a>[TRIM: Token-wise Attention-Derived Saliency for Data-Efficient Instruction Tuning](../../conferences/icml-2026/cards/3301-3400.md#paper-nagaraj26a)
 - <a id="nait-saada26a-data-strategies"></a>[Removing Noise, not Finding Gold: Quality Filtering for Large-Scale Pretraining](../../conferences/icml-2026/cards/3401-3500.md#paper-nait-saada26a)
 - <a id="nam26b-data-strategies"></a>[Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data](../../conferences/icml-2026/cards/3401-3500.md#paper-nam26b)
+- <a id="pan26l-data-strategies"></a>[Detecting and Filtering Unsafe Training Data via Data Attribution with Denoised Representation](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26l)
+- <a id="pang26e-data-strategies"></a>[EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning](../../conferences/icml-2026/cards/3501-3600.md#paper-pang26e)
 
 <a id="by-inference"></a>
 
@@ -739,6 +749,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ospanov26a-inference"></a>[HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs](../../conferences/icml-2026/cards/3501-3600.md#paper-ospanov26a)
 - <a id="ouyang26d-inference"></a>[DenseSteer: Steering Small Language Models towards Dense Math Reasoning](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26d)
 - <a id="pan26e-inference"></a>[Trajectory-Level Speculative Decoding for Diffusion Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26e)
+- <a id="pan26j-inference"></a>[Knowing Bias, Doing Better: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26j)
+- <a id="pan26k-inference"></a>[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26k)
 
 <a id="by-representation-learning"></a>
 
@@ -1022,6 +1034,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ou26a-evaluation"></a>[When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-ou26a)
 - <a id="pan26a-evaluation"></a>[Measuring Agents in Production](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26a)
 - <a id="pan26g-evaluation"></a>[Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26g)
+- <a id="panchal26a-evaluation"></a>[Memory Savings at What Cost? A Study of Alternatives to Backpropagation](../../conferences/icml-2026/cards/3501-3600.md#paper-panchal26a)
+- <a id="pappu26a-evaluation"></a>[Multi-Agent Teams Hold Experts Back](../../conferences/icml-2026/cards/3501-3600.md#paper-pappu26a)
 
 <a id="by-theory-statistics"></a>
 
