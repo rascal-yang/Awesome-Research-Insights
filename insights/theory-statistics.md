@@ -48,6 +48,8 @@
 - [按目标提示密度比重新加权保形校准](../conferences/icml-2026/cards/2701-2800.md#lin26t-theory-statistics) · Domain-Shift-Aware Conformal Prediction for Large Language Models
 - [语言分布漂移的遗漏变量敏感性](../conferences/icml-2026/cards/2701-2800.md#lin26ae-theory-statistics) · Omitted Variable Bias in Language Models Under Distribution Shift
 - [按可验证样本的接受率安排自训练难度](../conferences/icml-2026/cards/2801-2900.md#liu26ab-theory-statistics) · A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula
+- [比较层更新方向判断深度收益来源](../conferences/icml-2026/cards/2801-2900.md#liu26bt-theory-statistics) · Inverse Depth Scaling From Most Layers Being Similar
+- [以动力学时间拟合尖峰输出的训练损失](../conferences/icml-2026/cards/2801-2900.md#liu26cl-theory-statistics) · Universal One-third Time Scaling in Learning Peaked Distributions
 
 <a id="by-computer-vision"></a>
 
@@ -420,6 +422,10 @@
 - [用事件时间分臂监控延迟干预](../conferences/icml-2026/cards/2701-2800.md#lindon26a-theory-statistics) · Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry
 - [按尾指数和目标范围区分 AdaGrad 收敛条件](../conferences/icml-2026/cards/2701-2800.md#liu26f-theory-statistics) · Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad
 - [用在线线性化遗憾导出预测区间覆盖](../conferences/icml-2026/cards/2801-2900.md#liu26y-theory-statistics) · Online Conformal Prediction via Universal Portfolio Algorithms
+- [量子杠杆采样压缩广义回归](../conferences/icml-2026/cards/2801-2900.md#liu26bi-theory-statistics) · Accelerating Regression Tasks with Quantum Algorithms
+- [用单个参考模型后验估计隐私风险](../conferences/icml-2026/cards/2801-2900.md#liu26bo-theory-statistics) · How does Bayesian Sampling help Membership Inference Attacks?
+- [沿活动集更新追踪共形阈值](../conferences/icml-2026/cards/2801-2900.md#liu26bq-theory-statistics) · SpeedCP: Fast Kernel-based Conditional Conformal Prediction
+- [从处理的局部边界找因果调整变量](../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -466,4 +472,5 @@
 - [不规则时间序列的结构感知补全](../conferences/icml-2026/cards/2401-2500.md#li26cj-theory-statistics) · Causal Discovery for Irregularly Time Series with Consistency Guarantees
 - [用工具变量指导高维处理的表征压缩](../conferences/icml-2026/cards/2701-2800.md#lin26q-theory-statistics) · Learning Treatment Representations for Downstream Instrumental Variable Regression
 - [用最坏潜混杂强度给基因发现做敏感性分析](../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders
+- [从 SDE 增量学漂移扩散再找李生成元](../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems
 <!-- classification:end -->

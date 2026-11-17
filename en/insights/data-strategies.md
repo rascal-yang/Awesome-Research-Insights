@@ -48,6 +48,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](../../conferences/icml-2026/cards/2601-2700.md#li26jt-data-strategies) · 中文
 - [Opt-Miner: Empowering Information-Seeking Agent with Tree-Guided Data Synthesis for Optimization Modeling](../../conferences/icml-2026/cards/2701-2800.md#liu26d-data-strategies) · 中文
 - [Data Difficulty and the Generalization–Extrapolation Tradeoff in LLM Fine-Tuning](../../conferences/icml-2026/cards/2701-2800.md#liu26m-data-strategies) · 中文
+- [AIR: Post-training Data Selection for Reasoning via Attention Head Influence](../../conferences/icml-2026/cards/2801-2900.md#liu26bd-data-strategies) · 中文
+- [Random Selection Reveals Implicit Knowledge Consensus in Code Generation](../../conferences/icml-2026/cards/2801-2900.md#liu26bz-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

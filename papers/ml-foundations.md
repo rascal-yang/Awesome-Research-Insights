@@ -283,6 +283,8 @@
 - <a id="linghu26b-optimization"></a>[A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers](../conferences/icml-2026/cards/2701-2800.md#paper-linghu26b)
 - <a id="liu26ad-optimization"></a>[Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ad)
 - <a id="liu26al-optimization"></a>[Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming](../conferences/icml-2026/cards/2801-2900.md#paper-liu26al)
+- <a id="liu26bv-optimization"></a>[Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bv)
+- <a id="liu26cd-optimization"></a>[Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cd)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -437,6 +439,9 @@
 - <a id="li26fh-representation-learning"></a>[An Asymmetric Latent Factorization-of-Tensors Model for Relation Analysis](../conferences/icml-2026/cards/2501-2600.md#paper-li26fh)
 - <a id="li26fu-representation-learning"></a>[Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](../conferences/icml-2026/cards/2501-2600.md#paper-li26fu)
 - <a id="lim26b-representation-learning"></a>[QuITE: Query-Based Irregular Time Series Embedding](../conferences/icml-2026/cards/2701-2800.md#paper-lim26b)
+- <a id="liu26aw-representation-learning"></a>[Beyond Additive Decompositions: Interpretability Through Separability](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aw)
+- <a id="liu26ay-representation-learning"></a>[Dual-stage Contrastive Learning-enhanced Multi-view Variational Clustering](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ay)
+- <a id="liu26bp-representation-learning"></a>[TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bp)
 
 <a id="by-evaluation"></a>
 
@@ -771,4 +776,8 @@
 - <a id="lindon26a-theory-statistics"></a>[Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry](../conferences/icml-2026/cards/2701-2800.md#paper-lindon26a)
 - <a id="liu26f-theory-statistics"></a>[Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad](../conferences/icml-2026/cards/2701-2800.md#paper-liu26f)
 - <a id="liu26y-theory-statistics"></a>[Online Conformal Prediction via Universal Portfolio Algorithms](../conferences/icml-2026/cards/2801-2900.md#paper-liu26y)
+- <a id="liu26bi-theory-statistics"></a>[Accelerating Regression Tasks with Quantum Algorithms](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bi)
+- <a id="liu26bo-theory-statistics"></a>[How does Bayesian Sampling help Membership Inference Attacks?](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bo)
+- <a id="liu26bq-theory-statistics"></a>[SpeedCP: Fast Kernel-based Conditional Conformal Prediction](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bq)
+- <a id="liu26ca-theory-statistics"></a>[Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ca)
 <!-- classification:end -->

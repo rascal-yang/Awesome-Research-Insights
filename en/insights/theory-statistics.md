@@ -48,6 +48,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Domain-Shift-Aware Conformal Prediction for Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26t-theory-statistics) · 中文
 - [Omitted Variable Bias in Language Models Under Distribution Shift](../../conferences/icml-2026/cards/2701-2800.md#lin26ae-theory-statistics) · 中文
 - [A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula](../../conferences/icml-2026/cards/2801-2900.md#liu26ab-theory-statistics) · 中文
+- [Inverse Depth Scaling From Most Layers Being Similar](../../conferences/icml-2026/cards/2801-2900.md#liu26bt-theory-statistics) · 中文
+- [Universal One-third Time Scaling in Learning Peaked Distributions](../../conferences/icml-2026/cards/2801-2900.md#liu26cl-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -420,6 +422,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry](../../conferences/icml-2026/cards/2701-2800.md#lindon26a-theory-statistics) · 中文
 - [Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad](../../conferences/icml-2026/cards/2701-2800.md#liu26f-theory-statistics) · 中文
 - [Online Conformal Prediction via Universal Portfolio Algorithms](../../conferences/icml-2026/cards/2801-2900.md#liu26y-theory-statistics) · 中文
+- [Accelerating Regression Tasks with Quantum Algorithms](../../conferences/icml-2026/cards/2801-2900.md#liu26bi-theory-statistics) · 中文
+- [How does Bayesian Sampling help Membership Inference Attacks?](../../conferences/icml-2026/cards/2801-2900.md#liu26bo-theory-statistics) · 中文
+- [SpeedCP: Fast Kernel-based Conditional Conformal Prediction](../../conferences/icml-2026/cards/2801-2900.md#liu26bq-theory-statistics) · 中文
+- [Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -466,4 +472,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Causal Discovery for Irregularly Time Series with Consistency Guarantees](../../conferences/icml-2026/cards/2401-2500.md#li26cj-theory-statistics) · 中文
 - [Learning Treatment Representations for Downstream Instrumental Variable Regression](../../conferences/icml-2026/cards/2701-2800.md#lin26q-theory-statistics) · 中文
 - [High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders](../../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · 中文
+- [LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems](../../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · 中文
 <!-- classification:end -->

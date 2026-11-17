@@ -89,6 +89,10 @@ Training schedules, curricula, and task or stage composition.
 - [Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](../../conferences/icml-2026/cards/2601-2700.md#li26ik-training-strategies) · 中文
 - [Can Large Language Models Generalize Procedures Across Representations?](../../conferences/icml-2026/cards/2701-2800.md#lin26k-training-strategies) · 中文
 - [ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26ap-training-strategies) · 中文
+- [PrivCode++: Latent-Conditioned Differentially Private Code Generation for Comprehensive Guarantees](../../conferences/icml-2026/cards/2801-2900.md#liu26ao-training-strategies) · 中文
+- [CoPE: A Framework for Optimizing Coordination between Planning and Execution in LLM-based Agents](../../conferences/icml-2026/cards/2801-2900.md#liu26az-training-strategies) · 中文
+- [Clipping Low-Probability Tokens in SFT Yields a Generalizable Initialization for RL](../../conferences/icml-2026/cards/2801-2900.md#liu26bm-training-strategies) · 中文
+- [Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation](../../conferences/icml-2026/cards/2801-2900.md#liu26bw-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -133,6 +137,8 @@ Training schedules, curricula, and task or stage composition.
 - [DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](../../conferences/icml-2026/cards/2701-2800.md#lin26ah-training-strategies) · 中文
 - [GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26aj-training-strategies) · 中文
 - [FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation](../../conferences/icml-2026/cards/2801-2900.md#liu26af-training-strategies) · 中文
+- [Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement](../../conferences/icml-2026/cards/2801-2900.md#liu26au-training-strategies) · 中文
+- [CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors](../../conferences/icml-2026/cards/2801-2900.md#liu26bj-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -164,6 +170,7 @@ Training schedules, curricula, and task or stage composition.
 - [A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](../../conferences/icml-2026/cards/2301-2400.md#lei26d-training-strategies) · 中文
 - [LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](../../conferences/icml-2026/cards/2601-2700.md#lian26d-training-strategies) · 中文
 - [NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26am-training-strategies) · 中文
+- [RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization](../../conferences/icml-2026/cards/2801-2900.md#liu26bx-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -298,4 +305,5 @@ Training schedules, curricula, and task or stage composition.
 - [Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor](../../conferences/icml-2026/cards/2101-2200.md#kim26au-training-strategies) · 中文
 - [Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?](../../conferences/icml-2026/cards/2501-2600.md#li26et-training-strategies) · 中文
 - [From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers](../../conferences/icml-2026/cards/2801-2900.md#liu26aj-training-strategies) · 中文
+- [DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · 中文
 <!-- classification:end -->

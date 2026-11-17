@@ -32,6 +32,7 @@
 - [剪枝语言模型的循环起点纠偏](../conferences/icml-2026/cards/2301-2400.md#lee26bb-loss-functions) · FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models
 - [按基座已有能力调节微调损失的低概率权重](../conferences/icml-2026/cards/2501-2600.md#li26ew-loss-functions) · Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum
 - [用任务条件学习困惑度偏好标签的置信度](../conferences/icml-2026/cards/2601-2700.md#li26jp-loss-functions) · Task-Aware Preference Calibration for Direct Preference Optimization
+- [惩罚微调中升高的有害注意力汇点差异](../conferences/icml-2026/cards/2801-2900.md#liu26cf-loss-functions) · Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink
 
 <a id="by-computer-vision"></a>
 
@@ -53,6 +54,7 @@
 - [用幅度等变把去噪监督迁移至低噪区](../conferences/icml-2026/cards/2301-2400.md#levac26a-loss-functions) · Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements
 - [让高斯基元的颜色歧义反过来指导表面修复](../conferences/icml-2026/cards/2601-2700.md#li26iz-loss-functions) · Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction
 - [用运输代价固定对抗生成的映射](../conferences/icml-2026/cards/2701-2800.md#lin26ao-loss-functions) · Adversarial Flow Models
+- [分别约束类条件子空间方向和谱容量](../conferences/icml-2026/cards/2801-2900.md#liu26cc-loss-functions) · Geometric Rate–Distortion Invariance for Domain Generalization
 
 <a id="by-nlp"></a>
 

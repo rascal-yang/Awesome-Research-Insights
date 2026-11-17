@@ -74,6 +74,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [NeUQI: Near-Optimal Uniform Quantization Parameter Initialization for Low-Bit LLMs](../../conferences/icml-2026/cards/2701-2800.md#lin26l-optimization) · 中文
 - [AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs](../../conferences/icml-2026/cards/2701-2800.md#lin26m-optimization) · 中文
 - [AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning](../../conferences/icml-2026/cards/2701-2800.md#lin26n-optimization) · 中文
+- [From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing](../../conferences/icml-2026/cards/2801-2900.md#liu26ax-optimization) · 中文
+- [Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](../../conferences/icml-2026/cards/2801-2900.md#liu26cm-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -299,6 +301,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers](../../conferences/icml-2026/cards/2701-2800.md#linghu26b-optimization) · 中文
 - [Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases](../../conferences/icml-2026/cards/2801-2900.md#liu26ad-optimization) · 中文
 - [Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming](../../conferences/icml-2026/cards/2801-2900.md#liu26al-optimization) · 中文
+- [Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26bv-optimization) · 中文
+- [Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set](../../conferences/icml-2026/cards/2801-2900.md#liu26cd-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -346,4 +350,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Causal Structure Learning for Sparse Matrix Fill-in Reduction](../../conferences/icml-2026/cards/2501-2600.md#li26el-optimization) · 中文
 - [G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · 中文
 - [Stabilizing Equation Learning via Zero-Point Constraints](../../conferences/icml-2026/cards/2701-2800.md#liu26n-optimization) · 中文
+- [UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics](../../conferences/icml-2026/cards/2801-2900.md#liu26cn-optimization) · 中文
 <!-- classification:end -->

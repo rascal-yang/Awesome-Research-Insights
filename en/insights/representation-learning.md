@@ -123,6 +123,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](../../conferences/icml-2026/cards/2601-2700.md#li26hc-representation-learning) · 中文
 - [Prototype-guided Bilateral Alignment Multimodal Federated Learning](../../conferences/icml-2026/cards/2701-2800.md#liao26b-representation-learning) · 中文
 - [Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26ah-representation-learning) · 中文
+- [CAST: Modeling Visual State Transitions for Consistent Video Retrieval](../../conferences/icml-2026/cards/2801-2900.md#liu26ci-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -159,6 +160,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [An Asymmetric Latent Factorization-of-Tensors Model for Relation Analysis](../../conferences/icml-2026/cards/2501-2600.md#li26fh-representation-learning) · 中文
 - [Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](../../conferences/icml-2026/cards/2501-2600.md#li26fu-representation-learning) · 中文
 - [QuITE: Query-Based Irregular Time Series Embedding](../../conferences/icml-2026/cards/2701-2800.md#lim26b-representation-learning) · 中文
+- [Beyond Additive Decompositions: Interpretability Through Separability](../../conferences/icml-2026/cards/2801-2900.md#liu26aw-representation-learning) · 中文
+- [Dual-stage Contrastive Learning-enhanced Multi-view Variational Clustering](../../conferences/icml-2026/cards/2801-2900.md#liu26ay-representation-learning) · 中文
+- [TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series](../../conferences/icml-2026/cards/2801-2900.md#liu26bp-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -185,6 +189,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [CELL: A Causal Perspective for Fairness-aware Graph Adaptation](../../conferences/icml-2026/cards/2501-2600.md#li26gu-representation-learning) · 中文
 - [Graph is a Substrate Across Data Modalities](../../conferences/icml-2026/cards/2601-2700.md#li26hm-representation-learning) · 中文
 - [CL-GCL: Comprehensive and Lightweight Graph Contrastive Learning](../../conferences/icml-2026/cards/2701-2800.md#liang26y-representation-learning) · 中文
+- [Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](../../conferences/icml-2026/cards/2801-2900.md#liu26by-representation-learning) · 中文
+- [Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach](../../conferences/icml-2026/cards/2801-2900.md#liu26cp-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 

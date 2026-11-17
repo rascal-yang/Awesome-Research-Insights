@@ -44,6 +44,7 @@ Model-wide design and information flow.
 - [Breaking the Factorization Barrier in Diffusion Language Models](../../conferences/icml-2026/cards/2501-2600.md#li26fd-architecture) · 中文
 - [OpenSage: Self-programming Agent Generation Engine](../../conferences/icml-2026/cards/2501-2600.md#li26gk-architecture) · 中文
 - [RePo: Language Models with Context Re-Positioning](../../conferences/icml-2026/cards/2601-2700.md#li26jq-architecture) · 中文
+- [$R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration](../../conferences/icml-2026/cards/2801-2900.md#liu26at-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -129,6 +130,8 @@ Model-wide design and information flow.
 - [Structured 4D Latent Predictive Model for Robot Planning](../../conferences/icml-2026/cards/2601-2700.md#li26hk-architecture) · 中文
 - [RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](../../conferences/icml-2026/cards/2701-2800.md#lin26g-architecture) · 中文
 - [MSP: Probabilistically Consistent Multi-Scale Action Generation](../../conferences/icml-2026/cards/2701-2800.md#lin26ab-architecture) · 中文
+- [GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert](../../conferences/icml-2026/cards/2801-2900.md#liu26bf-architecture) · 中文
+- [LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](../../conferences/icml-2026/cards/2801-2900.md#liu26ch-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -154,6 +157,7 @@ Model-wide design and information flow.
 - [AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference](../../conferences/icml-2026/cards/2601-2700.md#liang26k-architecture) · 中文
 - [TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](../../conferences/icml-2026/cards/2701-2800.md#lin26al-architecture) · 中文
 - [Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26an-architecture) · 中文
+- [GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26as-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -283,4 +287,7 @@ Model-wide design and information flow.
 - [Periodic Bayesian Flow Networks with Additive Accuracy](../../conferences/icml-2026/cards/2701-2800.md#lin26ar-architecture) · 中文
 - [LangPrecip: Language-Aware Multimodal Precipitation Nowcasting](../../conferences/icml-2026/cards/2701-2800.md#ling26a-architecture) · 中文
 - [Solving Time-Dependent Differential Equations with Physical Dynamical Systems](../../conferences/icml-2026/cards/2701-2800.md#liu26s-architecture) · 中文
+- [ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding](../../conferences/icml-2026/cards/2801-2900.md#liu26ap-architecture) · 中文
+- [Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26bk-architecture) · 中文
+- [Geometric Pocket-Centric Protein Encoding for Polypharmacology-Guided Multi-Target Drug Design](../../conferences/icml-2026/cards/2801-2900.md#liu26ce-architecture) · 中文
 <!-- classification:end -->

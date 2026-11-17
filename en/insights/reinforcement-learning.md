@@ -116,6 +116,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26ak-reinforcement-learning) · 中文
 - [ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering](../../conferences/icml-2026/cards/2701-2800.md#liu26i-reinforcement-learning) · 中文
 - [Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](../../conferences/icml-2026/cards/2701-2800.md#liu26k-reinforcement-learning) · 中文
+- [Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](../../conferences/icml-2026/cards/2801-2900.md#liu26bn-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -288,6 +289,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](../../conferences/icml-2026/cards/2701-2800.md#linghu26a-reinforcement-learning) · 中文
 - [ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models](../../conferences/icml-2026/cards/2701-2800.md#liu26p-reinforcement-learning) · 中文
 - [Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners](../../conferences/icml-2026/cards/2801-2900.md#liu26ak-reinforcement-learning) · 中文
+- [Continual GUI Agents](../../conferences/icml-2026/cards/2801-2900.md#liu26bs-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

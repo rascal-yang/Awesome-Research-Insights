@@ -32,6 +32,7 @@ Objectives, auxiliary supervision, and regularization.
 - [FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26bb-loss-functions) · 中文
 - [Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](../../conferences/icml-2026/cards/2501-2600.md#li26ew-loss-functions) · 中文
 - [Task-Aware Preference Calibration for Direct Preference Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26jp-loss-functions) · 中文
+- [Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](../../conferences/icml-2026/cards/2801-2900.md#liu26cf-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -53,6 +54,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements](../../conferences/icml-2026/cards/2301-2400.md#levac26a-loss-functions) · 中文
 - [Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction](../../conferences/icml-2026/cards/2601-2700.md#li26iz-loss-functions) · 中文
 - [Adversarial Flow Models](../../conferences/icml-2026/cards/2701-2800.md#lin26ao-loss-functions) · 中文
+- [Geometric Rate–Distortion Invariance for Domain Generalization](../../conferences/icml-2026/cards/2801-2900.md#liu26cc-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

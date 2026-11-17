@@ -28,6 +28,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="li26hk-architecture"></a>[Structured 4D Latent Predictive Model for Robot Planning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hk)
 - <a id="lin26g-architecture"></a>[RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26g)
 - <a id="lin26ab-architecture"></a>[MSP: Probabilistically Consistent Multi-Scale Action Generation](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ab)
+- <a id="liu26bf-architecture"></a>[GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bf)
+- <a id="liu26ch-architecture"></a>[LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ch)
 
 <a id="by-modules"></a>
 
@@ -88,6 +90,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="lei26d-training-strategies"></a>[A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26d)
 - <a id="lian26d-training-strategies"></a>[LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26d)
 - <a id="liu26am-training-strategies"></a>[NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26am)
+- <a id="liu26bx-training-strategies"></a>[RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bx)
 
 <a id="by-data-strategies"></a>
 
@@ -159,6 +162,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="huang26cm-evaluation"></a>[TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cm)
 - <a id="kang26i-evaluation"></a>[Moving Out: Physically-grounded Human-AI Collaboration](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26i)
 - <a id="li26hi-evaluation"></a>[Scaling Robot Policy Evaluation via Discrete Diffusion World Model](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hi)
+- <a id="liu26bu-evaluation"></a>[Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bu)
 
 <a id="by-theory-statistics"></a>
 

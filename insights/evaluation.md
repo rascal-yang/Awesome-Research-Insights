@@ -223,6 +223,8 @@
 - [用激活干预测试候选推理原语](../conferences/icml-2026/cards/2701-2800.md#lippl26a-evaluation) · AlgoTrace: Algorithmic Primitives and Compositional Geometry of Reasoning in Language Models
 - [用多条正确轨迹的结构共识定位推理错误](../conferences/icml-2026/cards/2801-2900.md#liu26u-evaluation) · Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution
 - [用模型答题记录推估人类完成任务的时间](../conferences/icml-2026/cards/2801-2900.md#liu26ai-evaluation) · BRIDGE: Predicting Human Task Completion Time From Model Performance
+- [深层表达式的递归凸性验证](../conferences/icml-2026/cards/2801-2900.md#liu26bg-evaluation) · ConvexBench: Can LLMs Recognize Convex Functions?
+- [真实 LoRA 回收的等数据对照](../conferences/icml-2026/cards/2801-2900.md#liu26bh-evaluation) · The Appeal and Reality of Recycling LoRAs with Adaptive Merging
 
 <a id="by-computer-vision"></a>
 
@@ -318,6 +320,7 @@
 - [分开审计 VLA 的指令、推理与动作链路](../conferences/icml-2026/cards/1701-1800.md#huang26cm-evaluation) · TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches
 - [协作增强时交换兼容伙伴轨迹并推演双人动作](../conferences/icml-2026/cards/2001-2100.md#kang26i-evaluation) · Moving Out: Physically-grounded Human-AI Collaboration
 - [用失败轨迹校验世界模型排序](../conferences/icml-2026/cards/2601-2700.md#li26hi-evaluation) · Scaling Robot Policy Evaluation via Discrete Diffusion World Model
+- [用恢复测试区分机器人技能遗忘](../conferences/icml-2026/cards/2801-2900.md#liu26bu-evaluation) · Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning
 
 <a id="by-multimodal"></a>
 
@@ -381,6 +384,9 @@
 - [视觉语言模型的道德线索归因](../conferences/icml-2026/cards/2701-2800.md#lin26aa-evaluation) · MORALISE: A Structured Benchmark for Moral Alignment in Visual Language Models
 - [桌面智能体奖励的异质提示一致投票](../conferences/icml-2026/cards/2701-2800.md#lin26ai-evaluation) · CUARewardBench: A Benchmark for Evaluating Reward Models for Computer-Using Agents
 - [测视觉骨干暴露时的目标语义偏移](../conferences/icml-2026/cards/2701-2800.md#liu26c-evaluation) · Attacking Gray-Box Large Vision-Language Models with Adaptive SVD-Structured Adversarial Alignment
+- [电商视频的商业意图评估](../conferences/icml-2026/cards/2801-2900.md#liu26ba-evaluation) · E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs
+- [文档搜索到桌面执行的分段评估](../conferences/icml-2026/cards/2801-2900.md#liu26be-evaluation) · DocOS: Towards Proactive Document-Guided Actions in GUI Agents
+- [用动态交互验证 GUI 智能体的人机差距](../conferences/icml-2026/cards/2801-2900.md#liu26cr-evaluation) · Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense
 
 <a id="by-ml-foundations"></a>
 

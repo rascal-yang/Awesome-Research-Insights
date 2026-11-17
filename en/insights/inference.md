@@ -193,6 +193,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [A Unified Sparse Attention via Multi-Granularity Compression](../../conferences/icml-2026/cards/2701-2800.md#liu26h-inference) · 中文
 - [MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation](../../conferences/icml-2026/cards/2701-2800.md#liu26l-inference) · 中文
 - [Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees](../../conferences/icml-2026/cards/2801-2900.md#liu26z-inference) · 中文
+- [WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference](../../conferences/icml-2026/cards/2801-2900.md#liu26av-inference) · 中文
+- [Beyond Static Endpoints: Tool Programs as an Interface for Flexible Agentic Web Services](../../conferences/icml-2026/cards/2801-2900.md#liu26cb-inference) · 中文
+- [Causal Dependency-Aware Unsupervised Routing for Large Reasoning Models](../../conferences/icml-2026/cards/2801-2900.md#liu26cj-inference) · 中文
+- [SAGE: A Dataflow-Native Framework for Modular, Controllable, and Transparent LLM-Augmented Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26co-inference) · 中文
+- [SLASH the Sink: Sharpening Structural Attention Inside LLMs](../../conferences/icml-2026/cards/2801-2900.md#liu26cq-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -263,6 +268,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Multi-Label Test-Time Adaptation with Bayesian Conditional Priors](../../conferences/icml-2026/cards/2601-2700.md#li26jw-inference) · 中文
 - [KIStego: Key-Independent Secure Image Distribution via Bipartite Structural Invariants](../../conferences/icml-2026/cards/2701-2800.md#lijing26a-inference) · 中文
 - [AdaEraser: Training-Free Object Removal via Adaptive Attention Suppression](../../conferences/icml-2026/cards/2701-2800.md#liu26a-inference) · 中文
+- [Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](../../conferences/icml-2026/cards/2801-2900.md#liu26bb-inference) · 中文
+- [HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26cg-inference) · 中文
+- [XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling](../../conferences/icml-2026/cards/2801-2900.md#liu26ck-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -389,6 +397,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition](../../conferences/icml-2026/cards/2701-2800.md#liu26o-inference) · 中文
 - [Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models](../../conferences/icml-2026/cards/2801-2900.md#liu26ac-inference) · 中文
 - [The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design](../../conferences/icml-2026/cards/2801-2900.md#liu26an-inference) · 中文
+- [TGV-KV: Text-Grounded KV Eviction for Vision-Language Models](../../conferences/icml-2026/cards/2801-2900.md#liu26ar-inference) · 中文
+- [HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling](../../conferences/icml-2026/cards/2801-2900.md#liu26bc-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -116,6 +116,7 @@
 - [只加强偏离成功子空间的负令牌](../conferences/icml-2026/cards/2701-2800.md#lin26ak-reinforcement-learning) · ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning
 - [把机器学习实验反馈按执行步骤归一为奖励](../conferences/icml-2026/cards/2701-2800.md#liu26i-reinforcement-learning) · ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering
 - [为长时域去中心化协作使用训练期集中评论家](../conferences/icml-2026/cards/2701-2800.md#liu26k-reinforcement-learning) · Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic
+- [共享策略内同时更新安全攻防两角色](../conferences/icml-2026/cards/2801-2900.md#liu26bn-reinforcement-learning) · Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -288,6 +289,7 @@
 - [直接用三维几何误差奖励视频定位](../conferences/icml-2026/cards/2701-2800.md#linghu26a-reinforcement-learning) · 3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding
 - [把标注加入可验证奖励轨迹并校准相对优势](../conferences/icml-2026/cards/2701-2800.md#liu26p-reinforcement-learning) · ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models
 - [按指令难度自选直接生成、反思或交错分解](../conferences/icml-2026/cards/2801-2900.md#liu26ak-reinforcement-learning) · Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners
+- [将界面候选点与边界尺度一起多样化](../conferences/icml-2026/cards/2801-2900.md#liu26bs-reinforcement-learning) · Continual GUI Agents
 
 <a id="by-ml-foundations"></a>
 

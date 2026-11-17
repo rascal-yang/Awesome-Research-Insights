@@ -74,6 +74,8 @@
 - [固定尺度先解析零点再搜索量化初值](../conferences/icml-2026/cards/2701-2800.md#lin26l-optimization) · NeUQI: Near-Optimal Uniform Quantization Parameter Initialization for Low-Bit LLMs
 - [按层保存低比特激活并在高精度归约梯度](../conferences/icml-2026/cards/2701-2800.md#lin26m-optimization) · AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs
 - [将零阶扰动限制在输入激活张成的子空间](../conferences/icml-2026/cards/2701-2800.md#lin26n-optimization) · AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning
+- [从首编辑层前向传播兼容的知识编辑目标](../conferences/icml-2026/cards/2801-2900.md#liu26ax-optimization) · From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing
+- [先选功能因子再生成架构搜索补丁](../conferences/icml-2026/cards/2801-2900.md#liu26cm-optimization) · Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search
 
 <a id="by-computer-vision"></a>
 
@@ -299,6 +301,8 @@
 - [用罚函数 Hessian 给黑盒 QP 反传](../conferences/icml-2026/cards/2701-2800.md#linghu26b-optimization) · A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers
 - [通过子集采样偏置改变各层学习速度](../conferences/icml-2026/cards/2801-2900.md#liu26ad-optimization) · Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases
 - [以平均分位的置信上界取代随机规划点估计](../conferences/icml-2026/cards/2801-2900.md#liu26al-optimization) · Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming
+- [把节点权重放进平稳混合分布](../conferences/icml-2026/cards/2801-2900.md#liu26bv-optimization) · Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning
+- [在近球空间更新并沿可行锚纠正](../conferences/icml-2026/cards/2801-2900.md#liu26cd-optimization) · Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -346,4 +350,5 @@
 - [用局部消元三元组限制稀疏填充](../conferences/icml-2026/cards/2501-2600.md#li26el-optimization) · Causal Structure Learning for Sparse Matrix Fill-in Reduction
 - [用残差预测稀疏线性校正子空间](../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems
 - [用零点约束稳定符号回归的稀疏路径](../conferences/icml-2026/cards/2701-2800.md#liu26n-optimization) · Stabilizing Equation Learning via Zero-Point Constraints
+- [用几何扰动期望稳定代理驱动的形状优化](../conferences/icml-2026/cards/2801-2900.md#liu26cn-optimization) · UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics
 <!-- classification:end -->

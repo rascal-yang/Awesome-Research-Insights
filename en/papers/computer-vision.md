@@ -109,6 +109,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="levac26a-loss-functions"></a>[Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements](../../conferences/icml-2026/cards/2301-2400.md#paper-levac26a)
 - <a id="li26iz-loss-functions"></a>[Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iz)
 - <a id="lin26ao-loss-functions"></a>[Adversarial Flow Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ao)
+- <a id="liu26cc-loss-functions"></a>[Geometric Rate–Distortion Invariance for Domain Generalization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cc)
 
 <a id="by-optimization"></a>
 
@@ -191,6 +192,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lin26ah-training-strategies"></a>[DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ah)
 - <a id="lin26aj-training-strategies"></a>[GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26aj)
 - <a id="liu26af-training-strategies"></a>[FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26af)
+- <a id="liu26au-training-strategies"></a>[Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26au)
+- <a id="liu26bj-training-strategies"></a>[CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bj)
 
 <a id="by-data-strategies"></a>
 
@@ -279,6 +282,9 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26jw-inference"></a>[Multi-Label Test-Time Adaptation with Bayesian Conditional Priors](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jw)
 - <a id="lijing26a-inference"></a>[KIStego: Key-Independent Secure Image Distribution via Bipartite Structural Invariants](../../conferences/icml-2026/cards/2701-2800.md#paper-lijing26a)
 - <a id="liu26a-inference"></a>[AdaEraser: Training-Free Object Removal via Adaptive Attention Suppression](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26a)
+- <a id="liu26bb-inference"></a>[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bb)
+- <a id="liu26cg-inference"></a>[HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cg)
+- <a id="liu26ck-inference"></a>[XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ck)
 
 <a id="by-representation-learning"></a>
 

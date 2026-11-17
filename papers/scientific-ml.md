@@ -78,6 +78,9 @@
 - <a id="lin26ar-architecture"></a>[Periodic Bayesian Flow Networks with Additive Accuracy](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ar)
 - <a id="ling26a-architecture"></a>[LangPrecip: Language-Aware Multimodal Precipitation Nowcasting](../conferences/icml-2026/cards/2701-2800.md#paper-ling26a)
 - <a id="liu26s-architecture"></a>[Solving Time-Dependent Differential Equations with Physical Dynamical Systems](../conferences/icml-2026/cards/2701-2800.md#paper-liu26s)
+- <a id="liu26ap-architecture"></a>[ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ap)
+- <a id="liu26bk-architecture"></a>[Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bk)
+- <a id="liu26ce-architecture"></a>[Geometric Pocket-Centric Protein Encoding for Polypharmacology-Guided Multi-Target Drug Design](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ce)
 
 <a id="by-modules"></a>
 
@@ -139,6 +142,7 @@
 - <a id="li26el-optimization"></a>[Causal Structure Learning for Sparse Matrix Fill-in Reduction](../conferences/icml-2026/cards/2501-2600.md#paper-li26el)
 - <a id="liao26a-optimization"></a>[G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../conferences/icml-2026/cards/2701-2800.md#paper-liao26a)
 - <a id="liu26n-optimization"></a>[Stabilizing Equation Learning via Zero-Point Constraints](../conferences/icml-2026/cards/2701-2800.md#paper-liu26n)
+- <a id="liu26cn-optimization"></a>[UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cn)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -190,6 +194,7 @@
 - <a id="kim26au-training-strategies"></a>[Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor](../conferences/icml-2026/cards/2101-2200.md#paper-kim26au)
 - <a id="li26et-training-strategies"></a>[Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?](../conferences/icml-2026/cards/2501-2600.md#paper-li26et)
 - <a id="liu26aj-training-strategies"></a>[From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aj)
+- <a id="liu26br-training-strategies"></a>[DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../conferences/icml-2026/cards/2801-2900.md#paper-liu26br)
 
 <a id="by-data-strategies"></a>
 
@@ -329,4 +334,5 @@
 - <a id="li26cj-theory-statistics"></a>[Causal Discovery for Irregularly Time Series with Consistency Guarantees](../conferences/icml-2026/cards/2401-2500.md#paper-li26cj)
 - <a id="lin26q-theory-statistics"></a>[Learning Treatment Representations for Downstream Instrumental Variable Regression](../conferences/icml-2026/cards/2701-2800.md#paper-lin26q)
 - <a id="lin26v-theory-statistics"></a>[High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders](../conferences/icml-2026/cards/2701-2800.md#paper-lin26v)
+- <a id="liu26aq-theory-statistics"></a>[LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aq)
 <!-- classification:end -->

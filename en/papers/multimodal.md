@@ -33,6 +33,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liang26k-architecture"></a>[AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26k)
 - <a id="lin26al-architecture"></a>[TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26al)
 - <a id="lin26an-architecture"></a>[Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26an)
+- <a id="liu26as-architecture"></a>[GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26as)
 
 <a id="by-modules"></a>
 
@@ -124,6 +125,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="linghu26a-reinforcement-learning"></a>[3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](../../conferences/icml-2026/cards/2701-2800.md#paper-linghu26a)
 - <a id="liu26p-reinforcement-learning"></a>[ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26p)
 - <a id="liu26ak-reinforcement-learning"></a>[Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ak)
+- <a id="liu26bs-reinforcement-learning"></a>[Continual GUI Agents](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bs)
 
 <a id="by-training-strategies"></a>
 
@@ -255,6 +257,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26o-inference"></a>[World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26o)
 - <a id="liu26ac-inference"></a>[Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ac)
 - <a id="liu26an-inference"></a>[The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26an)
+- <a id="liu26ar-inference"></a>[TGV-KV: Text-Grounded KV Eviction for Vision-Language Models](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ar)
+- <a id="liu26bc-inference"></a>[HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bc)
 
 <a id="by-representation-learning"></a>
 
@@ -282,6 +286,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26hc-representation-learning"></a>[From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hc)
 - <a id="liao26b-representation-learning"></a>[Prototype-guided Bilateral Alignment Multimodal Federated Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26b)
 - <a id="liu26ah-representation-learning"></a>[Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ah)
+- <a id="liu26ci-representation-learning"></a>[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ci)
 
 <a id="by-evaluation"></a>
 
@@ -345,6 +350,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lin26aa-evaluation"></a>[MORALISE: A Structured Benchmark for Moral Alignment in Visual Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26aa)
 - <a id="lin26ai-evaluation"></a>[CUARewardBench: A Benchmark for Evaluating Reward Models for Computer-Using Agents](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ai)
 - <a id="liu26c-evaluation"></a>[Attacking Gray-Box Large Vision-Language Models with Adaptive SVD-Structured Adversarial Alignment](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26c)
+- <a id="liu26ba-evaluation"></a>[E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ba)
+- <a id="liu26be-evaluation"></a>[DocOS: Towards Proactive Document-Guided Actions in GUI Agents](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26be)
+- <a id="liu26cr-evaluation"></a>[Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cr)
 
 <a id="by-theory-statistics"></a>
 

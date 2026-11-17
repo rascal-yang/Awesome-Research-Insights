@@ -44,6 +44,7 @@
 - [用概率电路耦合同步解除掩码的词元](../conferences/icml-2026/cards/2501-2600.md#li26fd-architecture) · Breaking the Factorization Barrier in Diffusion Language Models
 - [让代理生成任务拓扑并用层级图保留上下文](../conferences/icml-2026/cards/2501-2600.md#li26gk-architecture) · OpenSage: Self-programming Agent Generation Engine
 - [让位置编码随上下文依赖重新排布](../conferences/icml-2026/cards/2601-2700.md#li26jq-architecture) · RePo: Language Models with Context Re-Positioning
+- [在数据代理任务图上局部重配失败分支](../conferences/icml-2026/cards/2801-2900.md#liu26at-architecture) · $R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration
 
 <a id="by-computer-vision"></a>
 
@@ -129,6 +130,8 @@
 - [以稀疏三维子目标规划动作](../conferences/icml-2026/cards/2601-2700.md#li26hk-architecture) · Structured 4D Latent Predictive Model for Robot Planning
 - [用轻量时序三维流把慢规划接入快控制](../conferences/icml-2026/cards/2701-2800.md#lin26g-architecture) · RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation
 - [长时机器人动作的连续粗到细生成](../conferences/icml-2026/cards/2701-2800.md#lin26ab-architecture) · MSP: Probabilistically Consistent Multi-Scale Action Generation
+- [稀疏三维路点与可复用动作专家](../conferences/icml-2026/cards/2801-2900.md#liu26bf-architecture) · GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert
+- [用低频潜在时空推理支持高频机器人控制](../conferences/icml-2026/cards/2801-2900.md#liu26ch-architecture) · LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model
 
 <a id="by-multimodal"></a>
 
@@ -154,6 +157,7 @@
 - [用空频门预测缺失传感器特征](../conferences/icml-2026/cards/2601-2700.md#liang26k-architecture) · AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference
 - [分别用文本与历史数列路由预测专家](../conferences/icml-2026/cards/2701-2800.md#lin26al-architecture) · TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts
 - [从高层注入绕过语义压缩的取证特征](../conferences/icml-2026/cards/2701-2800.md#lin26an-architecture) · Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models
+- [让模型在二维线索不足时主动调用几何通道](../conferences/icml-2026/cards/2801-2900.md#liu26as-architecture) · GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning
 
 <a id="by-ml-foundations"></a>
 
@@ -283,4 +287,7 @@
 - [把周期变量嵌入单位圆后累积精度](../conferences/icml-2026/cards/2701-2800.md#lin26ar-architecture) · Periodic Bayesian Flow Networks with Additive Accuracy
 - [用粗粒度运动描述约束降水预报](../conferences/icml-2026/cards/2701-2800.md#ling26a-architecture) · LangPrecip: Language-Aware Multimodal Precipitation Nowcasting
 - [以硬件连续动力学分担空间算子和时间积分](../conferences/icml-2026/cards/2701-2800.md#liu26s-architecture) · Solving Time-Dependent Differential Equations with Physical Dynamical Systems
+- [用轮廓、前景和场景锚分层对齐脑电信号](../conferences/icml-2026/cards/2801-2900.md#liu26ap-architecture) · ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding
+- [几何张量的等变正定协方差](../conferences/icml-2026/cards/2801-2900.md#liu26bk-architecture) · Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning
+- [按共享配体条件联合编码多个口袋](../conferences/icml-2026/cards/2801-2900.md#liu26ce-architecture) · Geometric Pocket-Centric Protein Encoding for Polypharmacology-Guided Multi-Target Drug Design
 <!-- classification:end -->

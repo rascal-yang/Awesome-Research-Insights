@@ -147,6 +147,8 @@
 - <a id="li26gu-representation-learning"></a>[CELL: A Causal Perspective for Fairness-aware Graph Adaptation](../conferences/icml-2026/cards/2501-2600.md#paper-li26gu)
 - <a id="li26hm-representation-learning"></a>[Graph is a Substrate Across Data Modalities](../conferences/icml-2026/cards/2601-2700.md#paper-li26hm)
 - <a id="liang26y-representation-learning"></a>[CL-GCL: Comprehensive and Lightweight Graph Contrastive Learning](../conferences/icml-2026/cards/2701-2800.md#paper-liang26y)
+- <a id="liu26by-representation-learning"></a>[Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](../conferences/icml-2026/cards/2801-2900.md#paper-liu26by)
+- <a id="liu26cp-representation-learning"></a>[Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cp)
 
 <a id="by-evaluation"></a>
 

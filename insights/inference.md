@@ -193,6 +193,11 @@
 - [以多粒度复合词元代理选取原分辨率注意力块](../conferences/icml-2026/cards/2701-2800.md#liu26h-inference) · A Unified Sparse Attention via Multi-Granularity Compression
 - [按主题采样并排序科研构思工作流](../conferences/icml-2026/cards/2701-2800.md#liu26l-inference) · MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation
 - [用算子树定位并局部修复 Lean 翻译](../conferences/icml-2026/cards/2801-2900.md#liu26z-inference) · Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees
+- [重排观测 token 使扩散解码复用因果前缀缓存](../conferences/icml-2026/cards/2801-2900.md#liu26av-inference) · WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference
+- [用可重放的工具程序合并多步调用](../conferences/icml-2026/cards/2801-2900.md#liu26cb-inference) · Beyond Static Endpoints: Tool Programs as an Interface for Flexible Agentic Web Services
+- [分别估计思考、答案与一致性后路由](../conferences/icml-2026/cards/2801-2900.md#liu26cj-inference) · Causal Dependency-Aware Unsupervised Routing for Large Reasoning Models
+- [用可编译执行图和背压控制推理流水线](../conferences/icml-2026/cards/2801-2900.md#liu26co-inference) · SAGE: A Dataflow-Native Framework for Modular, Controllable, and Transparent LLM-Augmented Reasoning
+- [从注意力汇重分配权重以锐化图邻接证据](../conferences/icml-2026/cards/2801-2900.md#liu26cq-inference) · SLASH the Sink: Sharpening Structural Attention Inside LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -263,6 +268,9 @@
 - [由在线标签共现构造贝叶斯先验](../conferences/icml-2026/cards/2601-2700.md#li26jw-inference) · Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
 - [结构份额引导的扩散隐图恢复](../conferences/icml-2026/cards/2701-2800.md#lijing26a-inference) · KIStego: Key-Independent Secure Image Distribution via Bipartite Structural Invariants
 - [按残余目标信号放开被遮区域](../conferences/icml-2026/cards/2701-2800.md#liu26a-inference) · AdaEraser: Training-Free Object Removal via Adaptive Attention Suppression
+- [视频去噪的动态块稀疏注意力](../conferences/icml-2026/cards/2801-2900.md#liu26bb-inference) · Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers
+- [以实体层级与几何可行性约束场景图关系](../conferences/icml-2026/cards/2801-2900.md#liu26cg-inference) · HSGG: Training-Free Hierarchical Scene Graph Generation with Geometry-Guided Relation Reasoning
+- [为图像后续块复用完整去噪历史](../conferences/icml-2026/cards/2801-2900.md#liu26ck-inference) · XYZFlow: Scaling Multidimensional Shortcut Flows for Efficient Generative Modeling
 
 <a id="by-nlp"></a>
 
@@ -389,6 +397,8 @@
 - [先删冗余再放大多模态情绪证据](../conferences/icml-2026/cards/2701-2800.md#liu26o-inference) · World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition
 - [用反扰动软标签和多视图一致性抵消对抗误差](../conferences/icml-2026/cards/2801-2900.md#liu26ac-inference) · Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models
 - [把高分辨率裁剪当作顺序证据采集](../conferences/icml-2026/cards/2801-2900.md#liu26an-inference) · The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design
+- [用文本相关性分层分配并保留视觉 KV](../conferences/icml-2026/cards/2801-2900.md#liu26ar-inference) · TGV-KV: Text-Grounded KV Eviction for Vision-Language Models
+- [高分辨率问答的语义去噪与布局保留](../conferences/icml-2026/cards/2801-2900.md#liu26bc-inference) · HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling
 
 <a id="by-ml-foundations"></a>
 

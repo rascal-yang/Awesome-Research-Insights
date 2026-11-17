@@ -4,7 +4,7 @@
 
 按 PMLR 正式论文集排序，覆盖该卷的 6,552 篇论文，包括其中的 Position Paper。点击论文标题查看六字段卡和原文证据。
 
-**已整理 2,822 / 6,552 篇。** 连续整理到第 2,820 篇。下一篇从第 2,821 篇开始。底册的 `written` 表示已整理，`pending` 表示待整理。
+**已整理 2,877 / 6,552 篇。** 连续整理到第 2,876 篇。下一篇从第 2,877 篇开始。底册的 `written` 表示已整理，`pending` 表示待整理。
 
 <a id="按目录浏览"></a>
 
@@ -38,13 +38,12 @@
 - [第 2501–2600 篇](cards/2501-2600.md)
 - [第 2601–2700 篇](cards/2601-2700.md)
 - [第 2701–2800 篇](cards/2701-2800.md)
-- [第 2801–2820 篇](cards/2801-2900.md)
+- [第 2801–2876 篇](cards/2801-2900.md)
 
 <a id="此前收录"></a>
 
 ## 已收录的其他编号
 
-- [2844 · LARA: Latent Action Representation Alignment for Vision-Language-Action Models](cards/2801-2900.md#paper-liu26bl)
 - [4451 · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](cards/4401-4500.md#paper-tian26k)
 
 [逐篇分类清单（TSV）](classification.tsv)
