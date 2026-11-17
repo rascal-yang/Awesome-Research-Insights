@@ -76,7 +76,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression](../../conferences/icml-2026/cards/0801-0900.md#dai26k-evaluation) · 中文
 - [SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution](../../conferences/icml-2026/cards/0801-0900.md#deng26d-evaluation) · 中文
 - [InteractComp: Evaluating Search Agents With Ambiguous Queries](../../conferences/icml-2026/cards/0801-0900.md#deng26h-evaluation) · 中文
-- [CoCoReviewBench: A Completeness- and Correctness-Oriented Benchmark for AI Reviewers](../../conferences/icml-2026/cards/0801-0900.md#deng26j-evaluation) · 中文
 - [Truthfulness Does Not Scale Like Reasoning: Why Polling Fails as a Proxy Verifier](../../conferences/icml-2026/cards/0801-0900.md#denisov-blanch26a-evaluation) · 中文
 - [Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis](../../conferences/icml-2026/cards/0801-0900.md#deshpande26a-evaluation) · 中文
 - [Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities](../../conferences/icml-2026/cards/0801-0900.md#dietz26a-evaluation) · 中文

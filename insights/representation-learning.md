@@ -305,7 +305,6 @@
 - [蛋白质局部全原子表征](../conferences/icml-2026/cards/0501-0600.md#chen26ct-representation-learning) · SLAE: Strictly Local All-atom Environment for Protein Representation
 - [高掩码蛋白质结构预训练](../conferences/icml-2026/cards/0501-0600.md#chen26db-representation-learning) · Protein Fold Classification at Scale: Benchmarking and Pretraining
 - [多视角电子密度图表征](../conferences/icml-2026/cards/0601-0700.md#cheng26m-representation-learning) · Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction
-- [蛋白结构的可截断全局分词](../conferences/icml-2026/cards/0801-0900.md#dilip26a-representation-learning) · Adaptive Protein Tokenization
 - [生理时序的分频幅相对齐](../conferences/icml-2026/cards/0901-1000.md#du26f-representation-learning) · BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series
 - [转录组与甲基化的双模态掩码学习](../conferences/icml-2026/cards/1201-1300.md#gelard26a-representation-learning) · Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning
 - [脉搏波词元的语义一致量化](../conferences/icml-2026/cards/1301-1400.md#guo26a-representation-learning) · SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model

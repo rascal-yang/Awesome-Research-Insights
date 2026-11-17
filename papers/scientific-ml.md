@@ -335,7 +335,6 @@
 - <a id="chen26ct-representation-learning"></a>[SLAE: Strictly Local All-atom Environment for Protein Representation](../conferences/icml-2026/cards/0501-0600.md#paper-chen26ct)
 - <a id="chen26db-representation-learning"></a>[Protein Fold Classification at Scale: Benchmarking and Pretraining](../conferences/icml-2026/cards/0501-0600.md#paper-chen26db)
 - <a id="cheng26m-representation-learning"></a>[Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](../conferences/icml-2026/cards/0601-0700.md#paper-cheng26m)
-- <a id="dilip26a-representation-learning"></a>[Adaptive Protein Tokenization](../conferences/icml-2026/cards/0801-0900.md#paper-dilip26a)
 - <a id="du26f-representation-learning"></a>[BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](../conferences/icml-2026/cards/0901-1000.md#paper-du26f)
 - <a id="gelard26a-representation-learning"></a>[Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](../conferences/icml-2026/cards/1201-1300.md#paper-gelard26a)
 - <a id="guo26a-representation-learning"></a>[SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](../conferences/icml-2026/cards/1301-1400.md#paper-guo26a)

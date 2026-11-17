@@ -869,7 +869,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 868	deng26g							PDF §3.3–3.4、§4、§5.4（第4–6、8页）贡献为照片历史与人工复核查询，将常规视觉检索、元数据筛选、具名候选集合和上下文摘要接入代理；工具消融显示此类查询依赖时间地点字段，未建立独立搜索或记忆机制。	rule-excluded
 869	deng26h	1	2	4	1	38		消歧信息仅用户持有的目标/干扰项搜索基准，相关代理交互，主要评测覆盖而非新询问策略。（原文：§3 基准设计（PDF 第 3 页））	scored
 870	deng26i	3	3	4	3	64		多概念擦除可按目标/对照显著性与时空一致合掩码，保通用神经元；独立掩码细节但方向剪枝近邻多。（原文：§3（PDF 第 3 页））	scored
-871	deng26j	1	2	4	1	38		原子审稿意见可信过滤及分类计分，主要审稿基准；不直接给具身/深度学习技术选择。（原文：§4 构建（PDF 第 4 页））	scored
+871	deng26j							独立核查§4.1–4.3(PDF4–6)和§5.1/表2(PDF7–8)：可执行变化是缺参考类别不评分、合并同点意见并用元评审过滤冲突，以及用既有OmegaIndex奖励GRPO分段。前两项为专用参考构建/标注协议，最近RevUtil已有类别级评价；后者为直接使用既有聚类指标，未报告超出标准分段训练的独立机制。模型排序反转由新参考与新裁判同时改变，未构成可直接指导通用神经训练或评估的新受控规律；排除不依据其审稿领域。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/deng26j/deng26j.pdf	rule-excluded
 872	deng26k	4	4	5	4	84		agent搜索GRPO若答案似然下降，可只对导致下降token加保持正则；梯度干扰诊断对应可执行防塌缩更新。（原文：定理 4.2（PDF 第 3 页））	scored
 873	deng26l	4	4	4	3	77		工具代理可用真实目标问答前后似然增益训练提问门，而非固定轮数澄清；同#144信念增益有重合，新增是独立澄清策略。（原文：§3.1–3.2（PDF 第 3 页））	scored
 874	deng26m	4	4	4	3	77		推理压缩可用多问题同提示诱发自压缩，再取每题最短正确轨迹训回单题；区别直接全局长度惩罚。（原文：§3.1–3.3（PDF 第 4 页））	scored
@@ -898,10 +898,10 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 897	diakonikolas26a	4	2	3	4	64		已知基分布、mean-shift传感污染下，先检Fourier质量/可区分频率再选鲁棒均值估计和样本预算；条件专门，不泛推未知梯度分布。（原文：表1 样本复杂度（PDF 第 2 页））	scored
 898	didi26a	1	2	4	1	38		七类蛋白适应度现实切分/数据扩展，主体基准；只能泛指表征迁移，另列相关性。（原文：表1 数据（PDF 第 3 页））	scored
 899	dietz26a	4	4	4	4	80		监控可把诚实审查角色放独立LoRA，答完触发并共享原状态但删后续审查，分离生成表现和内部知情审查。（原文：§3.1 分离（PDF 第 3 页））	scored
-900	dilip26a	3	3	4	2	61		蛋白结构token前缀嵌套dropout+扩散解码/熵停，机制主要沿FlexTok家族，暂无具身/DL独立新选择。（原文：§3 全局编码（PDF 第 3 页））	scored
+900	dilip26a							仅评估可分离通用编码证据：PDF2–3明确最近方法FlexTok，通用主体同为FSQ、nested dropout和flow decoder形成任意长度有序前缀；长度预测头为标准辅助交叉熵。FlexTok原文已验证相同可变长度/粗到细机制(https://proceedings.mlr.press/v267/bachmann25a.html)，本篇未证明该部分有独立新增操作，不能以新输入域重复收录。此判断仅依通用架构比较，不依赖领域名称。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/dilip26a/dilip26a.pdf	rule-excluded
 901	ding26a	4	3	3	4	70		重尾传感去噪可选Cauchy桥而非Gaussian桥，共享尺度混合DBIM有新采样推导；临床收益不计分。（原文：§4.2 Cauchy 桥（PDF 第 4 页））	scored
 902	ding26b	4	4	4	4	80		共享线性表征多任务可用无正则热启+校正一阶更新，免每轮SVD/QR且保统计效率，改变训练计算选择。（原文：表1 理论对照（PDF 第 2 页））	scored
-903	ding26c	3	3	3	3	60		疾病潜风险超边+排斥先验/VI，模型具体但原文目标专门医疗路径，暂无具身或一般神经技术选择，另列相关性。（原文：§3 超图（PDF 第 3 页））	scored
+903	ding26c	3	3	3	3	60		可分离通用机制为多输出logistic回归的潜在共享组：每个输入维度按组共享输出权重，对同输入同时选中且输出集合重叠的组施加排斥先验(PDF4 §3.4–3.6)，并在结构化VI中维持组存在→成员/效应的硬零依赖(PDF4–5 §4)。这可具体改变冻结神经特征的多标签输出头/稀疏共享组建模；迁移尚未实测，不能宣称端到端神经保证。相对最近低秩Bayesian Factor Regression，独立新增是按输入维度的重叠组竞争与存在门控；模拟表3(PDF6)去排斥时AUC74.69对75.00近乎不变，但Jaccard0.542→0.565、每输入活跃组1.992→1.874，支持结构冗余操作而非预测优势。原评分“不改变DL选择”应替换为该明确条件用途；不提取具体医学解释。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/ding26c/ding26c.pdf	scored
 904	ding26d	3	3	4	3	64		多用户代理可按联合信息增益同时选问谁/问什么并图上传未答信息；但主要LLM不确定估计与主动调查组合。（原文：§3 自适应框架（PDF 第 3 页））	scored
 905	ding26e	4	4	4	3	77		音视频压缩可先按视频结构/重复裁，再视觉引导音频并直通训练，模态不对称选择比独立统一压缩更具体。（原文：§3.2–3.3 视频（PDF 第 4 页））	scored
 906	ding26f	4	4	4	3	77		可选择归一特征重拟SVM与球面切向增间隔更新交替，深特征学习与判别margin联动而非固定SVM头。（原文：§3.2 几何目标（PDF 第 3 页））	scored

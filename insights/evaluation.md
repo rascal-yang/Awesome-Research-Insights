@@ -76,7 +76,6 @@
 - [图路径诊断推理幻觉](../conferences/icml-2026/cards/0801-0900.md#dai26k-evaluation) · When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression
 - [持续软件演进的里程碑评测](../conferences/icml-2026/cards/0801-0900.md#deng26d-evaluation) · SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution
 - [歧义搜索的交互必要性检测](../conferences/icml-2026/cards/0801-0900.md#deng26h-evaluation) · InteractComp: Evaluating Search Agents With Ambiguous Queries
-- [审稿意见的分类校验](../conferences/icml-2026/cards/0801-0900.md#deng26j-evaluation) · CoCoReviewBench: A Completeness- and Correctness-Oriented Benchmark for AI Reviewers
 - [多模型投票的相关错误诊断](../conferences/icml-2026/cards/0801-0900.md#denisov-blanch26a-evaluation) · Truthfulness Does Not Scale Like Reasoning: Why Polling Fails as a Proxy Verifier
 - [奖励投机的对照轨迹评测](../conferences/icml-2026/cards/0801-0900.md#deshpande26a-evaluation) · Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis
 - [可切换适配器的模型自审计](../conferences/icml-2026/cards/0801-0900.md#dietz26a-evaluation) · Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities

@@ -1017,7 +1017,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="dai26k-evaluation"></a>[When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression](../../conferences/icml-2026/cards/0801-0900.md#paper-dai26k)
 - <a id="deng26d-evaluation"></a>[SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26d)
 - <a id="deng26h-evaluation"></a>[InteractComp: Evaluating Search Agents With Ambiguous Queries](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26h)
-- <a id="deng26j-evaluation"></a>[CoCoReviewBench: A Completeness- and Correctness-Oriented Benchmark for AI Reviewers](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26j)
 - <a id="denisov-blanch26a-evaluation"></a>[Truthfulness Does Not Scale Like Reasoning: Why Polling Fails as a Proxy Verifier](../../conferences/icml-2026/cards/0801-0900.md#paper-denisov-blanch26a)
 - <a id="deshpande26a-evaluation"></a>[Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis](../../conferences/icml-2026/cards/0801-0900.md#paper-deshpande26a)
 - <a id="dietz26a-evaluation"></a>[Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities](../../conferences/icml-2026/cards/0801-0900.md#paper-dietz26a)

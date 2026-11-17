@@ -305,7 +305,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SLAE: Strictly Local All-atom Environment for Protein Representation](../../conferences/icml-2026/cards/0501-0600.md#chen26ct-representation-learning) · 中文
 - [Protein Fold Classification at Scale: Benchmarking and Pretraining](../../conferences/icml-2026/cards/0501-0600.md#chen26db-representation-learning) · 中文
 - [Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](../../conferences/icml-2026/cards/0601-0700.md#cheng26m-representation-learning) · 中文
-- [Adaptive Protein Tokenization](../../conferences/icml-2026/cards/0801-0900.md#dilip26a-representation-learning) · 中文
 - [BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](../../conferences/icml-2026/cards/0901-1000.md#du26f-representation-learning) · 中文
 - [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](../../conferences/icml-2026/cards/1201-1300.md#gelard26a-representation-learning) · 中文
 - [SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](../../conferences/icml-2026/cards/1301-1400.md#guo26a-representation-learning) · 中文
