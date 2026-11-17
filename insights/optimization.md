@@ -262,7 +262,6 @@
 - [动态约束下的贝叶斯实验规划](../conferences/icml-2026/cards/1301-1400.md#guo26g-optimization) · Constrained Bayesian Experimental Design via Online Planning
 - [离散 Schrödinger 桥的伴随匹配](../conferences/icml-2026/cards/1401-1500.md#guo26al-optimization) · Discrete Adjoint Schrödinger Bridge Sampler
 - [群体公平的最大最小相对改善](../conferences/icml-2026/cards/1401-1500.md#han26a-optimization) · Maximin Relative Improvement: Fair Learning as a Bargaining Problem
-- [按验证增益给数据服务定价](../conferences/icml-2026/cards/1401-1500.md#han26w-optimization) · Optimal Pricing for Data-Augmented AutoML Marketplaces
 - [用去噪投影表达潜空间流形](../conferences/icml-2026/cards/1401-1500.md#hartwig26a-optimization) · Geodesic Calculus on Implicitly Defined Latent Manifolds
 - [把异质网络的节点放置分成环排序和跨步调整](../conferences/icml-2026/cards/1401-1500.md#hata26a-optimization) · Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning
 - [用小批量最优传输为离散流选择低跳数配对](../conferences/icml-2026/cards/1401-1500.md#haxholli26a-optimization) · Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching
@@ -397,7 +396,6 @@
 - [用扩散轨迹不稳定性寻找集合覆盖修复区](../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion
 - [用树流动态规划分配定额标签预算](../conferences/icml-2026/cards/1901-2000.md#john26a-optimization) · An Approximation Algorithm for Graph Label Selection
 - [动态图只在查询时抽取聚类核心集](../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · Fully Dynamic Coreset Spectral Clustering
-- [在每轮 PageRank 扩散后投影公平约束](../conferences/icml-2026/cards/2001-2100.md#kariotakis26a-optimization) · FairRARI: A Plug and Play Framework for Fairness-Aware PageRank
 - [经粗化邻域限制新增节点的结构学习](../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s
 - [动态图曝光下的反事实公平控制](../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs
 - [利用松弛正曲率逃逸分数最稠密子图驻点](../conferences/icml-2026/cards/3001-3100.md#lu26ad-optimization) · On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis

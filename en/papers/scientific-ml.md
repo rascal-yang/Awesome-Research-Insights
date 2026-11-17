@@ -429,7 +429,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="gatzner26a-theory-statistics"></a>[Principled Confidence Estimation for Deep Computed Tomography](../../conferences/icml-2026/cards/1201-1300.md#paper-gatzner26a)
 - <a id="gloeckler26a-theory-statistics"></a>[Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../conferences/icml-2026/cards/1201-1300.md#paper-gloeckler26a)
 - <a id="guan26a-theory-statistics"></a>[A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26a)
-- <a id="huang26ce-theory-statistics"></a>[Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ce)
 - <a id="jiao26a-theory-statistics"></a>[$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26a)
 - <a id="jiao26c-theory-statistics"></a>[Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26c)
 - <a id="kim26m-theory-statistics"></a>[On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26m)

@@ -290,7 +290,6 @@
 - <a id="huang26x-theory-statistics"></a>[Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs](../conferences/icml-2026/cards/1701-1800.md#paper-huang26x)
 - <a id="hudson26a-theory-statistics"></a>[Corrigibility Transformation: Constructing Goals That Accept Updates](../conferences/icml-2026/cards/1701-1800.md#paper-hudson26a)
 - <a id="hwang26c-theory-statistics"></a>[Box Thirding: Anytime Best Arm Identification under Insufficient Sampling](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26c)
-- <a id="ipsen26a-theory-statistics"></a>[Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../conferences/icml-2026/cards/1801-1900.md#paper-ipsen26a)
 - <a id="ji26n-theory-statistics"></a>[Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../conferences/icml-2026/cards/1801-1900.md#paper-ji26n)
 - <a id="kim26ar-theory-statistics"></a>[Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ar)
 - <a id="labbi26a-theory-statistics"></a>[Refined Analysis of Entropy-Regularized Actor-Critic](../conferences/icml-2026/cards/2201-2300.md#paper-labbi26a)

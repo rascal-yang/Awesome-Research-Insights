@@ -262,7 +262,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Constrained Bayesian Experimental Design via Online Planning](../../conferences/icml-2026/cards/1301-1400.md#guo26g-optimization) · 中文
 - [Discrete Adjoint Schrödinger Bridge Sampler](../../conferences/icml-2026/cards/1401-1500.md#guo26al-optimization) · 中文
 - [Maximin Relative Improvement: Fair Learning as a Bargaining Problem](../../conferences/icml-2026/cards/1401-1500.md#han26a-optimization) · 中文
-- [Optimal Pricing for Data-Augmented AutoML Marketplaces](../../conferences/icml-2026/cards/1401-1500.md#han26w-optimization) · 中文
 - [Geodesic Calculus on Implicitly Defined Latent Manifolds](../../conferences/icml-2026/cards/1401-1500.md#hartwig26a-optimization) · 中文
 - [Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning](../../conferences/icml-2026/cards/1401-1500.md#hata26a-optimization) · 中文
 - [Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching](../../conferences/icml-2026/cards/1401-1500.md#haxholli26a-optimization) · 中文
@@ -397,7 +396,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](../../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · 中文
 - [An Approximation Algorithm for Graph Label Selection](../../conferences/icml-2026/cards/1901-2000.md#john26a-optimization) · 中文
 - [Fully Dynamic Coreset Spectral Clustering](../../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · 中文
-- [FairRARI: A Plug and Play Framework for Fairness-Aware PageRank](../../conferences/icml-2026/cards/2001-2100.md#kariotakis26a-optimization) · 中文
 - [GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · 中文
 - [COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · 中文
 - [On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis](../../conferences/icml-2026/cards/3001-3100.md#lu26ad-optimization) · 中文

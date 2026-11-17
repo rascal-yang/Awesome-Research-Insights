@@ -123,7 +123,6 @@
 - [把探索与策略更新降到评估 oracle](../conferences/icml-2026/cards/1701-1800.md#huang26x-theory-statistics) · Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs
 - [用反事实动作价值消除阻止更新的激励](../conferences/icml-2026/cards/1701-1800.md#hudson26a-theory-statistics) · Corrigibility Transformation: Constructing Goals That Accept Updates
 - [用三路分流平衡大量候选的覆盖与复测](../conferences/icml-2026/cards/1701-1800.md#hwang26c-theory-statistics) · Box Thirding: Anytime Best Arm Identification under Insufficient Sampling
-- [用条件偏离限制低成交价](../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions
 - [按正则强度切换老虎机遗憾分析](../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · Near-Optimal Regret for KL-Regularized Multi-Armed Bandits
 - [用排序损失差直接近似探索概率](../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality
 - [用准确 critic 让随机策略梯度的方差随梯度消失](../conferences/icml-2026/cards/2201-2300.md#labbi26a-theory-statistics) · Refined Analysis of Entropy-Regularized Actor-Critic
@@ -328,7 +327,6 @@
 - [罕见事件因果路径的可证伪检验](../conferences/icml-2026/cards/1401-1500.md#haghighat26a-theory-statistics) · Formalizing and Falsifying Causal Pathways of Rare Events
 - [强凸集上 Frank–Wolfe 迭代下界](../conferences/icml-2026/cards/1401-1500.md#halbey26a-theory-statistics) · Lower Bounds for Frank-Wolfe on Strongly Convex Sets
 - [可数内部覆盖与生成反馈的能力边界](../conferences/icml-2026/cards/1401-1500.md#hanneke26a-theory-statistics) · Language Generation with Feedback: Queries and Mistakes
-- [用双层树刻画提前获知输入的在线学习](../conferences/icml-2026/cards/1401-1500.md#hanneke26b-theory-statistics) · Universal Multiclass Transductive Online Learning
 - [每个源数据增多仍可能隐藏有效任务](../conferences/icml-2026/cards/1401-1500.md#hanneke26c-theory-statistics) · When More Data Doesn’t Help: Limits of Adaptation in Multitask Learning
 - [用组内前缀最小值修正候选的配对评分](../conferences/icml-2026/cards/1401-1500.md#hays26a-theory-statistics) · Strategic Candidacy in Generative AI Arenas
 - [按后续曲率加权的扩散分数误差](../conferences/icml-2026/cards/1501-1600.md#he26q-theory-statistics) · The Accumulation of Score Estimation Error in Diffusion Models
@@ -338,20 +336,15 @@
 - [用配对多视图二阶相关识别因果顺序](../conferences/icml-2026/cards/1501-1600.md#heurtebise26a-theory-statistics) · Multi-View Causal Discovery without Non-Gaussianity: Identifiability and Algorithms
 - [以总体碰撞率估计有限池中的无碰撞对比风险](../conferences/icml-2026/cards/1501-1600.md#hieu26a-theory-statistics) · A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning
 - [用独立三插值器的中位数获得最优阈值风险阶](../conferences/icml-2026/cards/1501-1600.md#hogsgaard26a-theory-statistics) · The Interplay Between Interpolation and Aggregation in Regression: Optimal Sample Complexity
-- [用单调响应的网格获得线性合同一致效用界](../conferences/icml-2026/cards/1501-1600.md#hogsgaard26b-theory-statistics) · The Optimal Sample Complexity of Linear Contracts
 - [用近优模型集合衡量攻击后切换与泄漏](../conferences/icml-2026/cards/1601-1700.md#hsu26a-theory-statistics) · The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning
 - [把提示当作固定解释器的程序参数](../conferences/icml-2026/cards/1601-1700.md#hu26h-theory-statistics) · In-Context Universal Approximation, Compositional Generalization, and Algorithm Emulation
 - [按攻击频次和是否移位选择持续学习防御](../conferences/icml-2026/cards/1601-1700.md#hu26n-theory-statistics) · Theory of Continual Learning Against Data Poisoning Attacks
 - [在持续训练中分开核算保留和遗忘](../conferences/icml-2026/cards/1601-1700.md#hu26o-theory-statistics) · The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning
 - [预存高阶曲率支持在线升阶](../conferences/icml-2026/cards/1601-1700.md#hu26r-theory-statistics) · Online Learning and Inference for Cox Proportional Hazards Models Using Renewable Sieve Estimation
-- [用随机阈值和删失报告恢复多类别子分布](../conferences/icml-2026/cards/1601-1700.md#hu26ae-theory-statistics) · Censoring with Plausible Deniability: Asymmetric Local Privacy for Multi-Category CDF Estimation
 - [用注意力插值构造可组合的广义激活基](../conferences/icml-2026/cards/1601-1700.md#hu26af-theory-statistics) · Universal Approximation with Softmax Attention
 - [以新增记忆方向判定单掩码对偶](../conferences/icml-2026/cards/1601-1700.md#hu26be-theory-statistics) · On Structured State-Space Duality
-- [利用晋升助益设计多级努力阈值](../conferences/icml-2026/cards/1601-1700.md#huang26a-theory-statistics) · Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics
 - [在噪声尺度上评估谱排序与信号的对齐](../conferences/icml-2026/cards/1701-1800.md#huang26w-theory-statistics) · Alignment-Sensitive Minimax Rates for Spectral Algorithms with Learned Kernels
-- [按剩余规模分层采样动态簇](../conferences/icml-2026/cards/1701-1800.md#huang26ab-theory-statistics) · New Algorithms for Fully-Dynamic k-center with Outliers
 - [用师生重叠统计识别优化吸引子](../conferences/icml-2026/cards/1701-1800.md#huang26ai-theory-statistics) · Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks
-- [同时求解个人委派与机构质量](../conferences/icml-2026/cards/1701-1800.md#huang26bp-theory-statistics) · Delegation and Verification under AI
 - [先分解切换机制再在各机制内发现因果边](../conferences/icml-2026/cards/1701-1800.md#hulsman26a-theory-statistics) · Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families
 - [用任意时刻检验管理流式树的分裂预算](../conferences/icml-2026/cards/1801-1900.md#i-amoukou26a-theory-statistics) · Correcting Split Selection in Online Decision Trees via Anytime-Valid Inference
 - [用高维动态区分量化训练的平台期和稳态下限](../conferences/icml-2026/cards/1801-1900.md#ichikawa26a-theory-statistics) · High-Dimensional Learning Dynamics of Quantized Models with Straight-Through Estimator
@@ -375,7 +368,6 @@
 - [用序列网格分离逼近与时序估计误差](../conferences/icml-2026/cards/1901-2000.md#jiao26d-theory-statistics) · Approximation Bounds for Transformer Networks with Application to Regression
 - [截取未来窗口估计非平稳实验的累积效应](../conferences/icml-2026/cards/1901-2000.md#johari26a-theory-statistics) · Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator
 - [用可行余量调节约束势博弈步长](../conferences/icml-2026/cards/2001-2100.md#jordan26a-theory-statistics) · Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation
-- [用近线性的距离界转移高斯混合的风险保证](../conferences/icml-2026/cards/2001-2100.md#jung26b-theory-statistics) · Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures
 - [用含噪排序在内在子空间寻找下降方向](../conferences/icml-2026/cards/2001-2100.md#kadi26a-theory-statistics) · Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization
 - [以注意力迭代计算后验矩，再映射到分箱概率](../conferences/icml-2026/cards/2001-2100.md#kang26h-theory-statistics) · Transformers Can Learn Posterior Predictive Distributions In-Context
 - [用噪声点周围的误差体积识别有害插值](../conferences/icml-2026/cards/2001-2100.md#karhadkar26a-theory-statistics) · Harmful Overfitting in Sobolev Spaces
@@ -383,7 +375,6 @@
 - [按新鲜数据比例折现扩散代际误差](../conferences/icml-2026/cards/2001-2100.md#khelifa26a-theory-statistics) · Quantifying Error Propagation and Model Collapse in Diffusion Models
 - [按站点成员概率汇总倾向分数](../conferences/icml-2026/cards/2001-2100.md#khellaf26a-theory-statistics) · Federated Causal Inference on Multi-Site Observational Data via Propensity Score Aggregation
 - [用邻域处理向量代理空间混杂](../conferences/icml-2026/cards/2001-2100.md#khot26a-theory-statistics) · Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference
-- [把时长分布转成受限买入阈值](../conferences/icml-2026/cards/2001-2100.md#kim26l-theory-statistics) · Robust and Consistent Ski Rental with Distributional Advice
 - [把高斯变分推断的估计器和优化几何分开检验](../conferences/icml-2026/cards/2101-2200.md#kim26n-theory-statistics) · Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space
 - [含噪代理协变量的半监督回归](../conferences/icml-2026/cards/2101-2200.md#kim26ae-theory-statistics) · Semi-Supervised Learning with Noisy Proxy Covariates: Generalization Bounds and Distribution Regression
 - [大步长恢复并行路径均衡](../conferences/icml-2026/cards/2101-2200.md#kim26aj-theory-statistics) · Gradient Descent with Large Step Size Restores Symmetry in Deep Linear Networks with Multi-Pathway
@@ -566,7 +557,6 @@
 - [截断图位置编码的表达能力](../conferences/icml-2026/cards/1101-1200.md#flora26a-theory-statistics) · Understanding Truncated Positional Encodings for Graph Neural Networks
 - [图时序的条件频谱共形校准](../conferences/icml-2026/cards/1301-1400.md#guo26d-theory-statistics) · Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series
 - [谱方向解释图嵌入的初期优化](../conferences/icml-2026/cards/1401-1500.md#harker26a-theory-statistics) · On the Optimization Trajectory of DeepWalk Embeddings
-- [用图结构约束压缩多树搜索状态](../conferences/icml-2026/cards/1401-1500.md#harviainen26a-theory-statistics) · Exact and Approximate Algorithms for Polytree Learning
 - [将三角跨割稀疏化约化为量子枚举和采样](../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · Quantum Algorithms for Triangle Cut Sparsification
 - [同时监测深层图网络的前后向过平滑](../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?
 - [用图拉普拉斯扩散传播保持跨分辨率连续](../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · Graph Neural Networks Are Not Continuous Across Graph Resolutions
@@ -590,7 +580,6 @@
 - [基于物理似然的 CT 重建置信区域](../conferences/icml-2026/cards/1201-1300.md#gatzner26a-theory-statistics) · Principled Confidence Estimation for Deep Computed Tomography
 - [推理时可调的模型复杂度先验](../conferences/icml-2026/cards/1201-1300.md#gloeckler26a-theory-statistics) · Scalable Simulation-Based Model Inference with Test-Time Complexity Control
 - [从时间快照学习群体 Hamilton 动力学](../conferences/icml-2026/cards/1301-1400.md#guan26a-theory-statistics) · A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots
-- [将多模哈密顿量恢复转成多项式系数估计](../conferences/icml-2026/cards/1701-1800.md#huang26ce-theory-statistics) · Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation
 - [从局部形态分布估计不同部位的发育时标](../conferences/icml-2026/cards/1901-2000.md#jiao26a-theory-statistics) · $\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling
 - [用重尾连接先验形成可外推的低维动力学](../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks
 - [用有记忆的基函数估计抗污染输入输出关系](../conferences/icml-2026/cards/2001-2100.md#kim26m-theory-statistics) · On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks
