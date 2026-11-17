@@ -333,7 +333,6 @@
 - [高斯泼溅资产的变换溯源](../conferences/icml-2026/cards/1401-1500.md#han26t-evaluation) · GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning
 - [用条件熵定位扩散的语义形成窗口](../conferences/icml-2026/cards/1401-1500.md#handke26a-evaluation) · The Entropic Signature of Class Speciation in Diffusion Models
 - [插入抑制证据解释缺席概念](../conferences/icml-2026/cards/1501-1600.md#hesse26a-evaluation) · What is Missing? Explaining Neurons Activated by Absent Concepts
-- [用人工定位上界区分小物体编辑和评审失败](../conferences/icml-2026/cards/1501-1600.md#hong26a-evaluation) · DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model
 - [跨训练阶段检验持续学习的后门持久性](../conferences/icml-2026/cards/1601-1700.md#huang26n-evaluation) · Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring
 - [从特征存在性中扣除对象绑定信息](../conferences/icml-2026/cards/1701-1800.md#huang26y-evaluation) · Formalizing the Binding Problem
 - [把扩散调度输入作为独立的安全审计面](../conferences/icml-2026/cards/1701-1800.md#huang26av-evaluation) · Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding
@@ -385,7 +384,6 @@
 - [音频自监督表征的凸门控探测](../conferences/icml-2026/cards/1201-1300.md#ghaffari26a-evaluation) · BAT: Better Audio Transformer Guided by Convex Gated Probing
 - [基于低概率词位的不确定性检测](../conferences/icml-2026/cards/1301-1400.md#guo26w-evaluation) · On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective
 - [基于真实音乐密度的生成检测](../conferences/icml-2026/cards/1401-1500.md#han26u-evaluation) · MusicDET: Zero-Shot AI-Generated Music Detection
-- [把模式归纳约束为可审计的类型图](../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text
 - [交换证据语言测引证相关性偏差](../conferences/icml-2026/cards/2001-2100.md#ki26a-evaluation) · Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG
 - [按语料的语义分层覆盖检索评测](../conferences/icml-2026/cards/2101-2200.md#klearman26a-evaluation) · Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation
 - [分别破坏输出语言与源句内容寻找翻译头](../conferences/icml-2026/cards/2201-2300.md#lasnier26a-evaluation) · Translation Heads: Disentangling meaning from language in LLM-based machine translation

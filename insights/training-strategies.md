@@ -329,7 +329,6 @@
 - [蒸馏专家搜索的候选分布](../conferences/icml-2026/cards/1401-1500.md#han26x-training-strategies) · $\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers
 - [按投影能量拆分持续学习的共享与专用更新](../conferences/icml-2026/cards/1401-1500.md#he26f-training-strategies) · Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning
 - [联邦低秩更新的选择聚合与尾部投影](../conferences/icml-2026/cards/1501-1600.md#he26p-training-strategies) · FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping
-- [异构时序教师的结构与点预测分开蒸馏](../conferences/icml-2026/cards/1501-1600.md#hong26e-training-strategies) · Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation
 - [面向合并结果选择专家停止点](../conferences/icml-2026/cards/1501-1600.md#horoi26a-training-strategies) · From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging
 - [用回放统计锚定跨域不变表示](../conferences/icml-2026/cards/1801-1900.md#janetzky26a-training-strategies) · Continual Learning of Domain-Invariant Representations
 - [给每个私有专家选相关且多样的公开代理](../conferences/icml-2026/cards/1901-2000.md#jiang26c-training-strategies) · MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification

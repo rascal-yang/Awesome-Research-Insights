@@ -20,7 +20,6 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="gao26am-architecture"></a>[DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26am)
 - <a id="he26ac-architecture"></a>[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ac)
 - <a id="hu26q-architecture"></a>[RVAS: Referring Video Active Exploration and Segmentation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26q)
-- <a id="hu26u-architecture"></a>[MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26u)
 - <a id="huang26be-architecture"></a>[CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26be)
 - <a id="jin26m-architecture"></a>[SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26m)
 - <a id="koh26a-architecture"></a>[Generative Visual Code Mobile World Models](../../conferences/icml-2026/cards/2101-2200.md#paper-koh26a)

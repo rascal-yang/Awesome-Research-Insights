@@ -282,7 +282,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](../../conferences/icml-2026/cards/1301-1400.md#guo26a-representation-learning) · 中文
 - [Learning Permutation-invariant Macroscopic Dynamics](../../conferences/icml-2026/cards/1401-1500.md#han26f-representation-learning) · 中文
 - [Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs](../../conferences/icml-2026/cards/1501-1600.md#he26w-representation-learning) · 中文
-- [Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization](../../conferences/icml-2026/cards/1501-1600.md#hosseini26a-representation-learning) · 中文
 - [See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition](../../conferences/icml-2026/cards/1601-1700.md#hu26s-representation-learning) · 中文
 - [Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded Orthogonal Inference](../../conferences/icml-2026/cards/1601-1700.md#hu26aj-representation-learning) · 中文
 - [VecMol: Vector-Field Representations for 3D Molecule Generation](../../conferences/icml-2026/cards/1601-1700.md#hua26a-representation-learning) · 中文

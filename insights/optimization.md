@@ -36,7 +36,6 @@
 - [以自生成上下文任务作为模型合并的搜索代理](../conferences/icml-2026/cards/1401-1500.md#he26a-optimization) · OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability
 - [用权重谱分配逐层学习率](../conferences/icml-2026/cards/1501-1600.md#he26ak-optimization) · One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs
 - [把同步拆成可重叠的混合和按需阻塞校准](../conferences/icml-2026/cards/1501-1600.md#hewa-koneputugodage26a-optimization) · Factored Gossip DiLoCo: Reducing Blocking Communication in DiLoCo
-- [固定代理图上的不确定性感知提示搜索](../conferences/icml-2026/cards/1501-1600.md#hong26l-optimization) · MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks
 - [从执行轨迹进化代理协作图](../conferences/icml-2026/cards/1601-1700.md#hu26bg-optimization) · EvoMAS: Evolutionary Generation of Multi-Agent Systems
 - [按有效秩跨层分配专家保留额](../conferences/icml-2026/cards/1601-1700.md#hu26bj-optimization) · RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models
 - [跟踪并抑制主导梯度谱方向](../conferences/icml-2026/cards/1601-1700.md#huang26d-optimization) · Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy

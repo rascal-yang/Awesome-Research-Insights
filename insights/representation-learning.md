@@ -282,7 +282,6 @@
 - [脉搏波词元的语义一致量化](../conferences/icml-2026/cards/1301-1400.md#guo26a-representation-learning) · SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model
 - [无序微观系统的宏观状态表征](../conferences/icml-2026/cards/1401-1500.md#han26f-representation-learning) · Learning Permutation-invariant Macroscopic Dynamics
 - [存储混合偏导的哈希网格](../conferences/icml-2026/cards/1501-1600.md#he26w-representation-learning) · Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs
-- [用脑图谱统一跨个体钙成像 token](../conferences/icml-2026/cards/1501-1600.md#hosseini26a-representation-learning) · Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization
 - [用可视代理约束脑电表示](../conferences/icml-2026/cards/1601-1700.md#hu26s-representation-learning) · See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition
 - [在稀疏字典诱导的度量下分离标签和域协变量](../conferences/icml-2026/cards/1601-1700.md#hu26aj-representation-learning) · Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded Orthogonal Inference
 - [用趋向原子的向量场表示分子](../conferences/icml-2026/cards/1601-1700.md#hua26a-representation-learning) · VecMol: Vector-Field Representations for 3D Molecule Generation

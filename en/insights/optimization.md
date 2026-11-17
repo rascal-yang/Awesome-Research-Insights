@@ -36,7 +36,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability](../../conferences/icml-2026/cards/1401-1500.md#he26a-optimization) · 中文
 - [One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](../../conferences/icml-2026/cards/1501-1600.md#he26ak-optimization) · 中文
 - [Factored Gossip DiLoCo: Reducing Blocking Communication in DiLoCo](../../conferences/icml-2026/cards/1501-1600.md#hewa-koneputugodage26a-optimization) · 中文
-- [MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks](../../conferences/icml-2026/cards/1501-1600.md#hong26l-optimization) · 中文
 - [EvoMAS: Evolutionary Generation of Multi-Agent Systems](../../conferences/icml-2026/cards/1601-1700.md#hu26bg-optimization) · 中文
 - [RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26bj-optimization) · 中文
 - [Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy](../../conferences/icml-2026/cards/1601-1700.md#huang26d-optimization) · 中文

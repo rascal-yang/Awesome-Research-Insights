@@ -329,7 +329,6 @@ Training schedules, curricula, and task or stage composition.
 - [$\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers](../../conferences/icml-2026/cards/1401-1500.md#han26x-training-strategies) · 中文
 - [Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning](../../conferences/icml-2026/cards/1401-1500.md#he26f-training-strategies) · 中文
 - [FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping](../../conferences/icml-2026/cards/1501-1600.md#he26p-training-strategies) · 中文
-- [Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation](../../conferences/icml-2026/cards/1501-1600.md#hong26e-training-strategies) · 中文
 - [From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../../conferences/icml-2026/cards/1501-1600.md#horoi26a-training-strategies) · 中文
 - [Continual Learning of Domain-Invariant Representations](../../conferences/icml-2026/cards/1801-1900.md#janetzky26a-training-strategies) · 中文
 - [MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](../../conferences/icml-2026/cards/1901-2000.md#jiang26c-training-strategies) · 中文

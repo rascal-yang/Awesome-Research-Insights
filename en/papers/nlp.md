@@ -116,7 +116,6 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="ghaffari26a-evaluation"></a>[BAT: Better Audio Transformer Guided by Convex Gated Probing](../../conferences/icml-2026/cards/1201-1300.md#paper-ghaffari26a)
 - <a id="guo26w-evaluation"></a>[On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26w)
 - <a id="han26u-evaluation"></a>[MusicDET: Zero-Shot AI-Generated Music Detection](../../conferences/icml-2026/cards/1401-1500.md#paper-han26u)
-- <a id="hu26t-evaluation"></a>[SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26t)
 - <a id="ki26a-evaluation"></a>[Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG](../../conferences/icml-2026/cards/2001-2100.md#paper-ki26a)
 - <a id="klearman26a-evaluation"></a>[Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation](../../conferences/icml-2026/cards/2101-2200.md#paper-klearman26a)
 - <a id="lasnier26a-evaluation"></a>[Translation Heads: Disentangling meaning from language in LLM-based machine translation](../../conferences/icml-2026/cards/2201-2300.md#paper-lasnier26a)

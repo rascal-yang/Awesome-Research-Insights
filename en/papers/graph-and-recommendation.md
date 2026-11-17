@@ -24,7 +24,6 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="hossen26a-architecture"></a>[Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation](../../conferences/icml-2026/cards/1601-1700.md#paper-hossen26a)
 - <a id="huang26ax-architecture"></a>[Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ax)
 - <a id="huang26cj-architecture"></a>[GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cj)
-- <a id="jin26d-architecture"></a>[Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26d)
 - <a id="johnson26a-architecture"></a>[VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../../conferences/icml-2026/cards/1901-2000.md#paper-johnson26a)
 - <a id="liu26x-architecture"></a>[Learning Graph Foundation Models on Riemannian Graph-of-Graphs](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26x)
 - <a id="liu26ep-architecture"></a>[Ramba: Selective State-Space Models for Relational Deep Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ep)

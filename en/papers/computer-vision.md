@@ -443,7 +443,6 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="han26t-evaluation"></a>[GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning](../../conferences/icml-2026/cards/1401-1500.md#paper-han26t)
 - <a id="handke26a-evaluation"></a>[The Entropic Signature of Class Speciation in Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#paper-handke26a)
 - <a id="hesse26a-evaluation"></a>[What is Missing? Explaining Neurons Activated by Absent Concepts](../../conferences/icml-2026/cards/1501-1600.md#paper-hesse26a)
-- <a id="hong26a-evaluation"></a>[DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26a)
 - <a id="huang26n-evaluation"></a>[Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26n)
 - <a id="huang26y-evaluation"></a>[Formalizing the Binding Problem](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26y)
 - <a id="huang26av-evaluation"></a>[Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26av)
