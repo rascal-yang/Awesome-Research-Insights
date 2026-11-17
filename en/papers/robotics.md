@@ -59,6 +59,23 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | [Read insight (中文)](../../papers/robotics.md#aichmuller26a-reinforcement-learning) |
 
+<a id="by-training-strategies"></a>
+
+### Training Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
+
+<a id="by-data-strategies"></a>
+
+### Data Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) | [Read insight (中文)](../../papers/robotics.md#chen26j-data-strategies) |
+| [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | [Read insight (中文)](../../papers/robotics.md#chen26ab-data-strategies) |
+
 <a id="by-inference"></a>
 
 ### Inference Strategies
@@ -69,6 +86,7 @@ The linked short insights are available in Chinese.
 | [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) | [Read insight (中文)](../../papers/robotics.md#balim26a-inference) |
 | [Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | [Read insight (中文)](../../papers/robotics.md#beyer26a-inference) |
 | [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | [Read insight (中文)](../../papers/robotics.md#chai26a-inference) |
+| [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | [Read insight (中文)](../../papers/robotics.md#chen26i-inference) |
 
 <a id="by-evaluation"></a>
 

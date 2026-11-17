@@ -15,6 +15,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction](../../papers/llm.md#blondel26a-theory-statistics) · 中文
 - [Deriving Neural Scaling Laws from the Statistics of Natural Language](../../papers/llm.md#cagnetta26a-theory-statistics) · 中文
 - [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](../../papers/llm.md#cai26p-theory-statistics) · 中文
+- [Chain-of-Thought Gradient Descent](../../papers/llm.md#chen26ae-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -110,6 +111,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Unifying View of Variational Generative Wasserstein Flows](../../papers/ml-foundations.md#caucheteux26a-theory-statistics) · 中文
 - [Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe](../../papers/ml-foundations.md#chan26b-theory-statistics) · 中文
 - [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](../../papers/ml-foundations.md#chang26f-theory-statistics) · 中文
+- [High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions](../../papers/ml-foundations.md#chen26p-theory-statistics) · 中文
+- [Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity](../../papers/ml-foundations.md#chen26af-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 

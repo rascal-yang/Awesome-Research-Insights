@@ -49,10 +49,14 @@ Aggregating rewards before group normalization can map different combinations to
 - [Escaping the Verifier: Learning to Reason via Demonstrations](../../papers/llm.md#cai26k-reinforcement-learning) · 中文
 - [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models](../../papers/llm.md#cao26y-reinforcement-learning) · 中文
 - [GXPO: Group Cross-Lingual Relative Policy Optimization for Code Generation](../../papers/llm.md#chai26c-reinforcement-learning) · 中文
+- [Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations](../../papers/llm.md#chen26a-reinforcement-learning) · 中文
+- [PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching](../../papers/llm.md#chen26k-reinforcement-learning) · 中文
+- [Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning](../../papers/llm.md#chen26w-reinforcement-learning) · 中文
 
 ### Computer Vision
 
 - [Pareto-Guided Optimal Transport for Multi-Reward Alignment](../../papers/computer-vision.md#ba26a-reinforcement-learning) · 中文
+- [Test-Time Reinforcement Learning for Flow Matching](../../papers/computer-vision.md#chen26as-reinforcement-learning) · 中文
 
 ### Natural Language Processing
 

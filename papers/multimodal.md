@@ -23,6 +23,15 @@
 | :--- | :--- | :--- |
 | <a id="barrios26a-modules"></a>[MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) | 细粒度视觉定位 | 用指令和对齐后的视觉特征做交叉注意力，生成逐通道乘法掩码，可在每个 patch 内放大与当前指令有关的特征。 |
 
+<a id="by-loss-functions"></a>
+
+### 损失函数
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="chefer26a-loss-functions"></a>[Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://proceedings.mlr.press/v306/chefer26a.html) | 自监督流匹配 | 让同一样本中不同 token 承受不同噪声程度，使低噪 token 为高噪 token 提供可学习的语义线索，在生成训练中一并学习表征。 |
+| <a id="chen26au-loss-functions"></a>[Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks](https://proceedings.mlr.press/v306/chen26au.html) | 多模态提示泛化 | 先用变分瓶颈限制可学习提示的容量，再扰动提示中与环境有关的成分并要求输出一致，减少迁移时对训练域捷径的依赖。 |
+
 <a id="by-reinforcement-learning"></a>
 
 ### 强化学习方法
@@ -40,6 +49,7 @@
 | <a id="alipour-talemi26a-training-strategies"></a>[Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning](https://proceedings.mlr.press/v306/alipour-talemi26a.html) | 多模态上下文学习 | 用带示例的教师监督注意力分布及层间表征，再按当前查询调节低秩适配器的作用强度，把示例效果内化到推理无需示例的学生中。 |
 | <a id="asadollahzadeh26a-training-strategies"></a>[TRACER: Persistent Regularization for Robust Multimodal Finetuning](https://proceedings.mlr.press/v306/asadollahzadeh26a.html) | 多模态微调 | 用加权移动平均教师做持续自蒸馏，在目标任务方向适应的同时，约束正交方向偏离预训练知识。 |
 | <a id="buzeta26a-training-strategies"></a>[Seeing to Generalize: How Visual Data Corrects Binding Shortcuts](https://proceedings.mlr.press/v306/buzeta26a.html) | 视觉数据与符号绑定 | 在受控检索任务里，把同一符号数据改写成图像训练可打破位置捷径，学到更稳健的绑定机制，随后切回纯文本也保留收益。 |
+| <a id="chen26am-training-strategies"></a>[Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](https://proceedings.mlr.press/v306/chen26am.html) | 视觉语言蒸馏与量化 | 做量化感知训练时，用教师置信度筛选蒸馏信号，并用中心核对齐保留视觉 token 之间的关系，在受限容量中优先保住任务信息。 |
 
 <a id="by-data-strategies"></a>
 
@@ -52,6 +62,7 @@
 | <a id="bo26b-data-strategies"></a>[Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://proceedings.mlr.press/v306/bo26b.html) | 多模态数据蒸馏 | 用解析解求模态投影器参数，再匹配教师与学生的投影器，替代双层训练及轨迹匹配。论文中只需缓存两个矩阵。 |
 | <a id="cao26aa-data-strategies"></a>[Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation](https://proceedings.mlr.press/v306/cao26aa.html) | 弱监督指代分割 | 把多模态模型产出的软掩码当候选，依据语言先验和当前分割预测训练伪标签选择器，让分割器和监督信号相互更新。 |
 | <a id="chai26b-data-strategies"></a>[From Diagrams to Code: Multilingual Programming with Visual Design](https://proceedings.mlr.press/v306/chai26b.html) | 图解到代码 | 用多种编程语言的图解和文本指令做联合微调，并设置相应的多语言视觉编程基准，检验模型能否跨语言解释设计。 |
+| <a id="chen26c-data-strategies"></a>[OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](https://proceedings.mlr.press/v306/chen26c.html) | 多模态图像编辑数据 | 先定义编辑操作、科学图示和文字渲染等分层任务，再从各分支合成多步骤指令图像对，能按能力覆盖定向扩充数据。 |
 
 <a id="by-inference"></a>
 
@@ -66,6 +77,15 @@
 | <a id="bai26b-inference"></a>[Two Modalities Are Better Than One: Efficient Adversarial Purification via Multimodal Diffusion Models](https://proceedings.mlr.press/v306/bai26b.html) | 扩散对抗净化 | 从干净样本学习类别无关的连续提示词，用它约束少量 DDPM 优化步，使净化后的图像保留语义。 |
 | <a id="bai26d-inference"></a>[Let Language Constrain Geometry: Vision–Language Models as Semantic and Spatial Critics for 3D Generation](https://proceedings.mlr.press/v306/bai26d.html) | 三维生成引导 | 分别询问 VLM 语义与空间一致性问题，将 Yes/No 对数赔率作为可微评价，可以接入优化式生成或测试时的采样引导。 |
 | <a id="bi26d-inference"></a>[Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking](https://proceedings.mlr.press/v306/bi26d.html) | 视觉语言推理控制 | 分别缩放较浅层的长度控制头与较深层的推理头，可以在测试时分开调节回答长度和感知与推理的取舍。 |
+| <a id="chen26m-inference"></a>[Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning](https://proceedings.mlr.press/v306/chen26m.html) | 多模态上下文记忆 | 用任务级方向压缩示例，通过二分图匹配合并语义相近的 token，再把记忆分为常驻核心和按查询取用的潜变量库。 |
+
+<a id="by-representation-learning"></a>
+
+### 表征学习
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="chen26ag-representation-learning"></a>[Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](https://proceedings.mlr.press/v306/chen26ag.html) | 不完整多视图聚类 | 用信息论目标拆出共享语义和各视图特有因素，再用 Wasserstein 混合汇聚语义。条件扩散同时读取全局语义和视图因素，补全缺失观测。 |
 
 <a id="by-evaluation"></a>
 
@@ -78,6 +98,7 @@
 | <a id="bouguerra26a-evaluation"></a>[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](https://proceedings.mlr.press/v306/bouguerra26a.html) | 视觉语言模型量化 | 量化压弱了部分高秩分量，在论文的 CLIP 评测中有时改善校准和噪声鲁棒性。协变量偏移和伪相关要分别测，收益未延伸到这两类问题。 |
 | <a id="cao26i-evaluation"></a>[UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](https://proceedings.mlr.press/v306/cao26i.html) | 图像感知评测 | 将审美、质量、结构和纹理拆成可评级或可问答的感知任务。细粒度分项能暴露常规分割、定位和描述评测遗漏的能力缺口。 |
 | <a id="cao26v-evaluation"></a>[T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://proceedings.mlr.press/v306/cao26v.html) | 音视频生成评测 | 同时评估音频和视频的各自质量、信号级跨模态同步，以及复杂指令遵循和真实感，避免单模态分数掩盖声音与画面错位。 |
+| <a id="chen26ad-evaluation"></a>[FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](https://proceedings.mlr.press/v306/chen26ad.html) | 音视频未来预测评测 | 在未来事件出现前截断音视频，再比较全模态与仅视频模型，可以看出未来预测对听觉线索的依赖，尤其是语音丰富场景。 |
 
 <a id="by-theory-statistics"></a>
 

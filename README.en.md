@@ -14,7 +14,7 @@
 
 A cross-disciplinary collection of reusable modules, losses, optimization methods, and training strategies from research papers.
 
-**Latest additions · 2026-11-17** · [ICML 2026 · 463 / 6,552 papers with insights](conferences/icml-2026/README.md)
+**Latest additions · 2026-11-17** · [ICML 2026 · 523 / 6,552 papers with insights](conferences/icml-2026/README.md)
 
 **Last reviewed · 2026-11-15** · Initial entries and cross-links
 
@@ -42,41 +42,41 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 
 | Domain | Papers | Scope |
 | :--- | ---: | :--- |
-| [Large Language Models](#large-language-models) | 120 | Language models, tool use, and agents. |
-| [Computer Vision](#computer-vision) | 37 | Recognition, visual representations, and generation. |
-| [Natural Language Processing](#natural-language-processing) | 14 | Language, speech, retrieval, and text processing. |
+| [Large Language Models](#large-language-models) | 137 | Language models, tool use, and agents. |
+| [Computer Vision](#computer-vision) | 43 | Recognition, visual representations, and generation. |
+| [Natural Language Processing](#natural-language-processing) | 15 | Language, speech, retrieval, and text processing. |
 | [Reinforcement Learning](#reinforcement-learning) | 37 | Sequential decisions, rewards, policy learning, and games. |
-| [Robotics](#robotics) | 13 | Robot perception, policy learning, planning, and control. |
-| [Multimodal Learning](#multimodal-learning) | 24 | Learning and reasoning across vision, text, audio, and other modalities. |
-| [Machine Learning Foundations and Statistics](#ml-foundations) | 152 | General learning methods, optimization, learning theory, and inference. |
-| [Graph Learning and Recommendation](#graph-and-recommendation) | 21 | Graph models, knowledge graphs, and recommender systems. |
-| [Scientific Machine Learning](#scientific-ml) | 46 | Machine learning for physics, medicine, biology, and engineering. |
+| [Robotics](#robotics) | 17 | Robot perception, policy learning, planning, and control. |
+| [Multimodal Learning](#multimodal-learning) | 31 | Learning and reasoning across vision, text, audio, and other modalities. |
+| [Machine Learning Foundations and Statistics](#ml-foundations) | 167 | General learning methods, optimization, learning theory, and inference. |
+| [Graph Learning and Recommendation](#graph-and-recommendation) | 24 | Graph models, knowledge graphs, and recommender systems. |
+| [Scientific Machine Learning](#scientific-ml) | 53 | Machine learning for physics, medicine, biology, and engineering. |
 
-**464 papers · 465 insights.** Each paper is counted in its primary domain.
+**524 papers · 525 insights.** Each paper is counted in its primary domain.
 
 <a id="large-language-models"></a>
 
 ## Large Language Models
 
-[All papers (120)](en/papers/llm.md)
+[All papers (137)](en/papers/llm.md)
 
-[Architectures (2)](en/papers/llm.md#by-architecture) · [Modules (4)](en/papers/llm.md#by-modules) · [Loss Functions (2)](en/papers/llm.md#by-loss-functions) · [Optimization (3)](en/papers/llm.md#by-optimization) · [Reinforcement Learning Methods (15)](en/papers/llm.md#by-reinforcement-learning) · [Training Strategies (13)](en/papers/llm.md#by-training-strategies) · [Data Strategies (10)](en/papers/llm.md#by-data-strategies) · [Inference Strategies (19)](en/papers/llm.md#by-inference) · [Representation Learning (1)](en/papers/llm.md#by-representation-learning) · [Evaluation and Diagnostics (45)](en/papers/llm.md#by-evaluation) · [Theory and Statistics (6)](en/papers/llm.md#by-theory-statistics)
+[Architectures (3)](en/papers/llm.md#by-architecture) · [Modules (5)](en/papers/llm.md#by-modules) · [Loss Functions (2)](en/papers/llm.md#by-loss-functions) · [Optimization (5)](en/papers/llm.md#by-optimization) · [Reinforcement Learning Methods (18)](en/papers/llm.md#by-reinforcement-learning) · [Training Strategies (15)](en/papers/llm.md#by-training-strategies) · [Data Strategies (10)](en/papers/llm.md#by-data-strategies) · [Inference Strategies (20)](en/papers/llm.md#by-inference) · [Representation Learning (1)](en/papers/llm.md#by-representation-learning) · [Evaluation and Diagnostics (51)](en/papers/llm.md#by-evaluation) · [Theory and Statistics (7)](en/papers/llm.md#by-theory-statistics)
 
 <a id="computer-vision"></a>
 
 ## Computer Vision
 
-[All papers (37)](en/papers/computer-vision.md)
+[All papers (43)](en/papers/computer-vision.md)
 
-[Architectures (3)](en/papers/computer-vision.md#by-architecture) · <a id="computer-vision-modules"></a><a id="modules"></a>[Modules (6)](en/papers/computer-vision.md#by-modules) · [Loss Functions (2)](en/papers/computer-vision.md#by-loss-functions) · [Reinforcement Learning Methods (1)](en/papers/computer-vision.md#by-reinforcement-learning) · [Training Strategies (3)](en/papers/computer-vision.md#by-training-strategies) · [Data Strategies (2)](en/papers/computer-vision.md#by-data-strategies) · [Inference Strategies (8)](en/papers/computer-vision.md#by-inference) · [Representation Learning (5)](en/papers/computer-vision.md#by-representation-learning) · [Evaluation and Diagnostics (5)](en/papers/computer-vision.md#by-evaluation) · [Theory and Statistics (2)](en/papers/computer-vision.md#by-theory-statistics)
+[Architectures (3)](en/papers/computer-vision.md#by-architecture) · <a id="computer-vision-modules"></a><a id="modules"></a>[Modules (6)](en/papers/computer-vision.md#by-modules) · [Loss Functions (2)](en/papers/computer-vision.md#by-loss-functions) · [Reinforcement Learning Methods (2)](en/papers/computer-vision.md#by-reinforcement-learning) · [Training Strategies (4)](en/papers/computer-vision.md#by-training-strategies) · [Data Strategies (3)](en/papers/computer-vision.md#by-data-strategies) · [Inference Strategies (10)](en/papers/computer-vision.md#by-inference) · [Representation Learning (5)](en/papers/computer-vision.md#by-representation-learning) · [Evaluation and Diagnostics (6)](en/papers/computer-vision.md#by-evaluation) · [Theory and Statistics (2)](en/papers/computer-vision.md#by-theory-statistics)
 
 <a id="natural-language-processing"></a>
 
 ## Natural Language Processing
 
-[All papers (14)](en/papers/nlp.md)
+[All papers (15)](en/papers/nlp.md)
 
-[Modules (1)](en/papers/nlp.md#by-modules) · [Loss Functions (1)](en/papers/nlp.md#by-loss-functions) · [Reinforcement Learning Methods (1)](en/papers/nlp.md#by-reinforcement-learning) · [Data Strategies (1)](en/papers/nlp.md#by-data-strategies) · [Inference Strategies (3)](en/papers/nlp.md#by-inference) · [Representation Learning (1)](en/papers/nlp.md#by-representation-learning) · [Evaluation and Diagnostics (2)](en/papers/nlp.md#by-evaluation) · [Theory and Statistics (4)](en/papers/nlp.md#by-theory-statistics)
+[Modules (1)](en/papers/nlp.md#by-modules) · [Loss Functions (1)](en/papers/nlp.md#by-loss-functions) · [Reinforcement Learning Methods (1)](en/papers/nlp.md#by-reinforcement-learning) · [Data Strategies (1)](en/papers/nlp.md#by-data-strategies) · [Inference Strategies (3)](en/papers/nlp.md#by-inference) · [Representation Learning (1)](en/papers/nlp.md#by-representation-learning) · [Evaluation and Diagnostics (3)](en/papers/nlp.md#by-evaluation) · [Theory and Statistics (4)](en/papers/nlp.md#by-theory-statistics)
 
 <a id="reinforcement-learning"></a>
 
@@ -90,41 +90,41 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 
 ## Robotics
 
-[All papers (13)](en/papers/robotics.md)
+[All papers (17)](en/papers/robotics.md)
 
-[Architectures (2)](en/papers/robotics.md#by-architecture) · <a id="modules-1"></a>[Modules (1)](en/papers/robotics.md#by-modules) · <a id="loss-functions"></a>[Loss Functions (3)](en/papers/robotics.md#by-loss-functions) · [Optimization (1)](en/papers/robotics.md#by-optimization) · [Reinforcement Learning Methods (1)](en/papers/robotics.md#by-reinforcement-learning) · [Inference Strategies (4)](en/papers/robotics.md#by-inference) · [Evaluation and Diagnostics (2)](en/papers/robotics.md#by-evaluation)
+[Architectures (2)](en/papers/robotics.md#by-architecture) · <a id="modules-1"></a>[Modules (1)](en/papers/robotics.md#by-modules) · <a id="loss-functions"></a>[Loss Functions (3)](en/papers/robotics.md#by-loss-functions) · [Optimization (1)](en/papers/robotics.md#by-optimization) · [Reinforcement Learning Methods (1)](en/papers/robotics.md#by-reinforcement-learning) · [Training Strategies (1)](en/papers/robotics.md#by-training-strategies) · [Data Strategies (2)](en/papers/robotics.md#by-data-strategies) · [Inference Strategies (5)](en/papers/robotics.md#by-inference) · [Evaluation and Diagnostics (2)](en/papers/robotics.md#by-evaluation)
 
 <a id="multimodal-learning"></a>
 
 ## Multimodal Learning
 
-[All papers (24)](en/papers/multimodal.md)
+[All papers (31)](en/papers/multimodal.md)
 
-[Architectures (1)](en/papers/multimodal.md#by-architecture) · [Modules (1)](en/papers/multimodal.md#by-modules) · [Reinforcement Learning Methods (1)](en/papers/multimodal.md#by-reinforcement-learning) · [Training Strategies (3)](en/papers/multimodal.md#by-training-strategies) · [Data Strategies (5)](en/papers/multimodal.md#by-data-strategies) · [Inference Strategies (7)](en/papers/multimodal.md#by-inference) · [Evaluation and Diagnostics (5)](en/papers/multimodal.md#by-evaluation) · [Theory and Statistics (1)](en/papers/multimodal.md#by-theory-statistics)
+[Architectures (1)](en/papers/multimodal.md#by-architecture) · [Modules (1)](en/papers/multimodal.md#by-modules) · [Loss Functions (2)](en/papers/multimodal.md#by-loss-functions) · [Reinforcement Learning Methods (1)](en/papers/multimodal.md#by-reinforcement-learning) · [Training Strategies (4)](en/papers/multimodal.md#by-training-strategies) · [Data Strategies (6)](en/papers/multimodal.md#by-data-strategies) · [Inference Strategies (8)](en/papers/multimodal.md#by-inference) · [Representation Learning (1)](en/papers/multimodal.md#by-representation-learning) · [Evaluation and Diagnostics (6)](en/papers/multimodal.md#by-evaluation) · [Theory and Statistics (1)](en/papers/multimodal.md#by-theory-statistics)
 
 <a id="ml-foundations"></a>
 
 ## Machine Learning Foundations and Statistics
 
-[All papers (152)](en/papers/ml-foundations.md)
+[All papers (167)](en/papers/ml-foundations.md)
 
-[Architectures (8)](en/papers/ml-foundations.md#by-architecture) · [Modules (10)](en/papers/ml-foundations.md#by-modules) · [Loss Functions (5)](en/papers/ml-foundations.md#by-loss-functions) · [Optimization (37)](en/papers/ml-foundations.md#by-optimization) · [Training Strategies (9)](en/papers/ml-foundations.md#by-training-strategies) · [Data Strategies (3)](en/papers/ml-foundations.md#by-data-strategies) · [Inference Strategies (3)](en/papers/ml-foundations.md#by-inference) · [Representation Learning (7)](en/papers/ml-foundations.md#by-representation-learning) · [Evaluation and Diagnostics (11)](en/papers/ml-foundations.md#by-evaluation) · [Theory and Statistics (59)](en/papers/ml-foundations.md#by-theory-statistics)
+[Architectures (8)](en/papers/ml-foundations.md#by-architecture) · [Modules (10)](en/papers/ml-foundations.md#by-modules) · [Loss Functions (5)](en/papers/ml-foundations.md#by-loss-functions) · [Optimization (42)](en/papers/ml-foundations.md#by-optimization) · [Training Strategies (12)](en/papers/ml-foundations.md#by-training-strategies) · [Data Strategies (4)](en/papers/ml-foundations.md#by-data-strategies) · [Inference Strategies (5)](en/papers/ml-foundations.md#by-inference) · [Representation Learning (9)](en/papers/ml-foundations.md#by-representation-learning) · [Evaluation and Diagnostics (11)](en/papers/ml-foundations.md#by-evaluation) · [Theory and Statistics (61)](en/papers/ml-foundations.md#by-theory-statistics)
 
 <a id="graph-and-recommendation"></a>
 
 ## Graph Learning and Recommendation
 
-[All papers (21)](en/papers/graph-and-recommendation.md)
+[All papers (24)](en/papers/graph-and-recommendation.md)
 
-[Architectures (1)](en/papers/graph-and-recommendation.md#by-architecture) · [Modules (2)](en/papers/graph-and-recommendation.md#by-modules) · [Optimization (2)](en/papers/graph-and-recommendation.md#by-optimization) · [Reinforcement Learning Methods (2)](en/papers/graph-and-recommendation.md#by-reinforcement-learning) · [Training Strategies (2)](en/papers/graph-and-recommendation.md#by-training-strategies) · [Data Strategies (1)](en/papers/graph-and-recommendation.md#by-data-strategies) · [Inference Strategies (2)](en/papers/graph-and-recommendation.md#by-inference) · [Representation Learning (2)](en/papers/graph-and-recommendation.md#by-representation-learning) · [Evaluation and Diagnostics (2)](en/papers/graph-and-recommendation.md#by-evaluation) · [Theory and Statistics (5)](en/papers/graph-and-recommendation.md#by-theory-statistics)
+[Architectures (2)](en/papers/graph-and-recommendation.md#by-architecture) · [Modules (2)](en/papers/graph-and-recommendation.md#by-modules) · [Optimization (3)](en/papers/graph-and-recommendation.md#by-optimization) · [Reinforcement Learning Methods (2)](en/papers/graph-and-recommendation.md#by-reinforcement-learning) · [Training Strategies (2)](en/papers/graph-and-recommendation.md#by-training-strategies) · [Data Strategies (1)](en/papers/graph-and-recommendation.md#by-data-strategies) · [Inference Strategies (2)](en/papers/graph-and-recommendation.md#by-inference) · [Representation Learning (3)](en/papers/graph-and-recommendation.md#by-representation-learning) · [Evaluation and Diagnostics (2)](en/papers/graph-and-recommendation.md#by-evaluation) · [Theory and Statistics (5)](en/papers/graph-and-recommendation.md#by-theory-statistics)
 
 <a id="scientific-ml"></a>
 
 ## Scientific Machine Learning
 
-[All papers (46)](en/papers/scientific-ml.md)
+[All papers (53)](en/papers/scientific-ml.md)
 
-[Architectures (13)](en/papers/scientific-ml.md#by-architecture) · [Modules (2)](en/papers/scientific-ml.md#by-modules) · [Loss Functions (4)](en/papers/scientific-ml.md#by-loss-functions) · [Reinforcement Learning Methods (3)](en/papers/scientific-ml.md#by-reinforcement-learning) · [Training Strategies (2)](en/papers/scientific-ml.md#by-training-strategies) · [Data Strategies (2)](en/papers/scientific-ml.md#by-data-strategies) · [Inference Strategies (5)](en/papers/scientific-ml.md#by-inference) · [Representation Learning (4)](en/papers/scientific-ml.md#by-representation-learning) · [Evaluation and Diagnostics (8)](en/papers/scientific-ml.md#by-evaluation) · [Theory and Statistics (3)](en/papers/scientific-ml.md#by-theory-statistics)
+[Architectures (15)](en/papers/scientific-ml.md#by-architecture) · [Modules (2)](en/papers/scientific-ml.md#by-modules) · [Loss Functions (6)](en/papers/scientific-ml.md#by-loss-functions) · [Reinforcement Learning Methods (3)](en/papers/scientific-ml.md#by-reinforcement-learning) · [Training Strategies (3)](en/papers/scientific-ml.md#by-training-strategies) · [Data Strategies (2)](en/papers/scientific-ml.md#by-data-strategies) · [Inference Strategies (5)](en/papers/scientific-ml.md#by-inference) · [Representation Learning (6)](en/papers/scientific-ml.md#by-representation-learning) · [Evaluation and Diagnostics (8)](en/papers/scientific-ml.md#by-evaluation) · [Theory and Statistics (3)](en/papers/scientific-ml.md#by-theory-statistics)
 
 <a id="insights-by-technical-category"></a>
 
@@ -134,17 +134,17 @@ Browse the complete technique indexes across domains.
 
 | Technique | Insights | Scope |
 | :--- | ---: | :--- |
-| <a id="architectures"></a>[Architectures](en/insights/architecture.md) | 31 | Model-wide design and information flow. |
-| [Modules](en/insights/modules.md) | 27 | Components, connections, and parameterizations. |
-| [Loss Functions](en/insights/loss-functions.md) | 17 | Objectives, auxiliary supervision, and regularization. |
-| <a id="optimization"></a>[Optimization](en/insights/optimization.md) | 43 | Gradient updates, solvers, and optimization dynamics. |
-| <a id="reinforcement-learning-methods"></a>[Reinforcement Learning Methods](en/insights/reinforcement-learning.md) | 41 | Rewards, exploration, credit assignment, and policy updates. |
-| <a id="training-strategies"></a>[Training Strategies](en/insights/training-strategies.md) | 32 | Schedules, fine-tuning, distillation, and transfer. |
-| <a id="data-strategies"></a>[Data Strategies](en/insights/data-strategies.md) | 25 | Data construction, selection, annotation, and sampling. |
-| <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 53 | Decoding, search, test-time adaptation, and efficient execution. |
-| [Representation Learning](en/insights/representation-learning.md) | 21 | Representation extraction, alignment, transfer, and disentanglement. |
-| [Evaluation and Diagnostics](en/insights/evaluation.md) | 81 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
-| [Theory and Statistics](en/insights/theory-statistics.md) | 94 | Learning guarantees, counterexamples, estimation, and statistical tests. |
+| <a id="architectures"></a>[Architectures](en/insights/architecture.md) | 35 | Model-wide design and information flow. |
+| [Modules](en/insights/modules.md) | 28 | Components, connections, and parameterizations. |
+| [Loss Functions](en/insights/loss-functions.md) | 21 | Objectives, auxiliary supervision, and regularization. |
+| <a id="optimization"></a>[Optimization](en/insights/optimization.md) | 51 | Gradient updates, solvers, and optimization dynamics. |
+| <a id="reinforcement-learning-methods"></a>[Reinforcement Learning Methods](en/insights/reinforcement-learning.md) | 45 | Rewards, exploration, credit assignment, and policy updates. |
+| <a id="training-strategies"></a>[Training Strategies](en/insights/training-strategies.md) | 41 | Schedules, fine-tuning, distillation, and transfer. |
+| <a id="data-strategies"></a>[Data Strategies](en/insights/data-strategies.md) | 30 | Data construction, selection, annotation, and sampling. |
+| <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 60 | Decoding, search, test-time adaptation, and efficient execution. |
+| [Representation Learning](en/insights/representation-learning.md) | 27 | Representation extraction, alignment, transfer, and disentanglement. |
+| [Evaluation and Diagnostics](en/insights/evaluation.md) | 90 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
+| [Theory and Statistics](en/insights/theory-statistics.md) | 97 | Learning guarantees, counterexamples, estimation, and statistical tests. |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -167,6 +167,8 @@ We update in batches after conferences publish their official main-conference ac
 **Inclusion criterion.** One clear, independently explainable insight supported by the paper is enough to include it. Record the conditions under which it holds and what the experiment, theorem, or counterexample establishes. Transfer scenarios are optional.
 
 ## Recent Updates
+
+- **2026-11-17** · Added insights for ICML 2026 papers 461–520 and indexed them by domain and technique. [Conference index](conferences/icml-2026/README.md)
 
 - **2026-11-17** · Added insights for ICML 2026 papers 401–460 and indexed them by domain and technique. [Conference index](conferences/icml-2026/README.md)
 

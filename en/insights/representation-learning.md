@@ -27,6 +27,10 @@ Representation extraction, alignment, transfer, and disentanglement.
 
 - [Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](../../papers/reinforcement-learning.md#bastankhah26a-representation-learning) · 中文
 
+### Multimodal Learning
+
+- [Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](../../papers/multimodal.md#chen26ag-representation-learning) · 中文
+
 ### Machine Learning Foundations and Statistics
 
 - [Multi-Way Representation Alignment](../../papers/ml-foundations.md#achara26a-representation-learning) · 中文
@@ -36,11 +40,14 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Distribution Alignment for One-Shot Federated Learning via Optimal Transport](../../papers/ml-foundations.md#berardini26a-representation-learning) · 中文
 - [Richer Bayesian Last Layers with Subsampled NTK Features](../../papers/ml-foundations.md#calvo-ordonez26a-representation-learning) · 中文
 - [Causal Feature Learning via Generalized Rayleigh Quotients](../../papers/ml-foundations.md#cao26t-representation-learning) · 中文
+- [MetaOthello: A Controlled Study of Multiple World Models in Transformers](../../papers/ml-foundations.md#chawla26a-representation-learning) · 中文
+- [Vector Linking via Cross-Model Local Isometric Consistency](../../papers/ml-foundations.md#chen26h-representation-learning) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](../../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) · 中文
 - [CONTEXTOR: Contextualized High-order Contrastive Learning](../../papers/graph-and-recommendation.md#cai26f-representation-learning) · 中文
+- [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) · 中文
 
 ### Scientific Machine Learning
 
@@ -48,4 +55,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](../../papers/scientific-ml.md#antoniadis26a-representation-learning) · 中文
 - [Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](../../papers/scientific-ml.md#ariguib26a-representation-learning) · 中文
 - [A Machine-Learned Comorbidity Index](../../papers/scientific-ml.md#baloch26a-representation-learning) · 中文
+- [Foundation VAEs for CT Reconstruction, Augmentation, and Generation](../../papers/scientific-ml.md#chen26u-representation-learning) · 中文
+- [MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing](../../papers/scientific-ml.md#chen26ay-representation-learning) · 中文
 <!-- classification:end -->

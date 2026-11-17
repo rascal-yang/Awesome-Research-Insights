@@ -12,6 +12,8 @@
 - [模型压缩](../papers/llm.md#abbasi26a-optimization) · Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression
 - [低显存零阶微调](../papers/llm.md#cai26a-optimization) · AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments
 - [LoRA 收敛](../papers/llm.md#castin26a-optimization) · Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence
+- [权重激活联合量化](../papers/llm.md#chen26z-optimization) · WUSH: Near-Optimal Adaptive Transforms for LLM Quantization
+- [有约束的安全微调](../papers/llm.md#chen26ba-optimization) · SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection
 
 ### 机器人学
 
@@ -56,9 +58,15 @@
 - [在线变分估计](../papers/ml-foundations.md#chagneux26a-optimization) · Efficient Online Variational Estimation via Monte Carlo Sampling
 - [随机约束优化](../papers/ml-foundations.md#chakraborty26c-optimization) · Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes
 - [多仿射等式约束](../papers/ml-foundations.md#chao26a-optimization) · Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem
+- [种群超参优化](../papers/ml-foundations.md#chebykin26a-optimization) · Iterated Population Based Training with Task-Agnostic Restarts
+- [低秩压缩的 Fisher 近似](../papers/ml-foundations.md#chekalina26a-optimization) · Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity
+- [污染下的分布鲁棒优化](../papers/ml-foundations.md#chen26e-optimization) · Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination
+- [混合整数规划分支](../papers/ml-foundations.md#chen26ah-optimization) · Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching
+- [Adam 状态压缩](../papers/ml-foundations.md#chen26ax-optimization) · IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation
 
 ### 图学习与推荐
 
 - [图粗化](../papers/graph-and-recommendation.md#bai26g-optimization) · Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle
 - [公平排序聚合](../papers/graph-and-recommendation.md#chakraborty26b-optimization) · Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking
+- [隐私图查询](../papers/graph-and-recommendation.md#chen26b-optimization) · Differentially Private Range Subgraph Counting
 <!-- classification:end -->

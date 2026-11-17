@@ -81,6 +81,11 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../insights/loss-functions.md#align-action-features-with-latent-actions)
 - [ReconVLA](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)
 
+### Multimodal Learning
+
+- [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](../../papers/multimodal.md#chefer26a-loss-functions) · 中文
+- [Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks](../../papers/multimodal.md#chen26au-loss-functions) · 中文
+
 ### Machine Learning Foundations and Statistics
 
 - [Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift](../../papers/ml-foundations.md#agirman26a-loss-functions) · 中文
@@ -95,4 +100,6 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Certificates for Complex-Compatible Learned Cochain Laplacians](../../papers/scientific-ml.md#anwer26a-loss-functions) · 中文
 - [HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](../../papers/scientific-ml.md#byeon26a-loss-functions) · 中文
 - [MetaPerch: Learning from metadata for bioacoustics foundation models](../../papers/scientific-ml.md#chasmai26a-loss-functions) · 中文
+- [SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](../../papers/scientific-ml.md#chen26y-loss-functions) · 中文
+- [FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](../../papers/scientific-ml.md#chen26at-loss-functions) · 中文
 <!-- classification:end -->

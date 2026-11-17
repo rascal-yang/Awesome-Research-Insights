@@ -24,6 +24,7 @@
 
 - [图像训练数据保护](../papers/computer-vision.md#cai26m-data-strategies) · FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization
 - [合成图检测](../papers/computer-vision.md#cao26s-data-strategies) · Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection
+- [生成偏好数据](../papers/computer-vision.md#chen26s-data-strategies) · When Preference Labels Fall Short: Aligning Diffusion Models from Real Data
 
 ### 自然语言处理
 
@@ -33,6 +34,11 @@
 
 - [零样本离线强化学习](../papers/reinforcement-learning.md#bendib26a-data-strategies) · Improving Zero-Shot Offline RL via Behavioral Task Sampling
 
+### 机器人学
+
+- [双臂仿真数据生成](../papers/robotics.md#chen26j-data-strategies) · RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation
+- [物理可用的桌面场景](../papers/robotics.md#chen26ab-data-strategies) · PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation
+
 ### 多模态学习
 
 - [数据与后训练](../papers/multimodal.md#acuna26a-data-strategies) · Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale
@@ -40,12 +46,14 @@
 - [多模态数据蒸馏](../papers/multimodal.md#bo26b-data-strategies) · Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching
 - [弱监督指代分割](../papers/multimodal.md#cao26aa-data-strategies) · Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation
 - [图解到代码](../papers/multimodal.md#chai26b-data-strategies) · From Diagrams to Code: Multilingual Programming with Visual Design
+- [多模态图像编辑数据](../papers/multimodal.md#chen26c-data-strategies) · OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing
 
 ### 机器学习基础与统计
 
 - [数据洗牌](../papers/ml-foundations.md#afshani26a-data-strategies) · The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue
 - [主动因果发现](../papers/ml-foundations.md#bonilla26a-data-strategies) · Causal Preference Elicitation
 - [带保证的自动标注](../papers/ml-foundations.md#candes26a-data-strategies) · Probably Approximately Correct Labels
+- [稀疏多类标注聚合](../papers/ml-foundations.md#chen26ac-data-strategies) · Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning
 
 ### 图学习与推荐
 

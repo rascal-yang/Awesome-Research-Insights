@@ -69,6 +69,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [归一化替换](../papers/llm.md#byun26a-modules) · Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models
 - [深层 Transformer 归一化](../papers/llm.md#chao26b-modules) · SpanNorm: Reconciling Training Stability and Performance in Deep Transformers
 - [上下文转 LoRA](../papers/llm.md#charakorn26a-modules) · Doc-to-LoRA: Learning to Instantly Internalize Contexts
+- [MoE 持续学习](../papers/llm.md#chen26aw-modules) · Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers
 
 ### 计算机视觉
 

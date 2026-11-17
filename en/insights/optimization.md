@@ -12,6 +12,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](../../papers/llm.md#abbasi26a-optimization) · 中文
 - [AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](../../papers/llm.md#cai26a-optimization) · 中文
 - [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](../../papers/llm.md#castin26a-optimization) · 中文
+- [WUSH: Near-Optimal Adaptive Transforms for LLM Quantization](../../papers/llm.md#chen26z-optimization) · 中文
+- [SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection](../../papers/llm.md#chen26ba-optimization) · 中文
 
 ### Robotics
 
@@ -56,9 +58,15 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Efficient Online Variational Estimation via Monte Carlo Sampling](../../papers/ml-foundations.md#chagneux26a-optimization) · 中文
 - [Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes](../../papers/ml-foundations.md#chakraborty26c-optimization) · 中文
 - [Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem](../../papers/ml-foundations.md#chao26a-optimization) · 中文
+- [Iterated Population Based Training with Task-Agnostic Restarts](../../papers/ml-foundations.md#chebykin26a-optimization) · 中文
+- [Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity](../../papers/ml-foundations.md#chekalina26a-optimization) · 中文
+- [Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination](../../papers/ml-foundations.md#chen26e-optimization) · 中文
+- [Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching](../../papers/ml-foundations.md#chen26ah-optimization) · 中文
+- [IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation](../../papers/ml-foundations.md#chen26ax-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](../../papers/graph-and-recommendation.md#bai26g-optimization) · 中文
 - [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) · 中文
+- [Differentially Private Range Subgraph Counting](../../papers/graph-and-recommendation.md#chen26b-optimization) · 中文
 <!-- classification:end -->

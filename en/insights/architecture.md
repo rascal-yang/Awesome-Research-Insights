@@ -11,6 +11,7 @@ Model-wide design and information flow.
 
 - [Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding](../../papers/llm.md#arriola26a-architecture) · 中文
 - [HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](../../papers/llm.md#bui26b-architecture) · 中文
+- [MARS: Modular Agent with Reflective Search for Automated AI Research](../../papers/llm.md#chen26r-architecture) · 中文
 
 ### Computer Vision
 
@@ -45,6 +46,7 @@ Model-wide design and information flow.
 ### Graph Learning and Recommendation
 
 - [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](../../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) · 中文
+- [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](../../papers/graph-and-recommendation.md#chen26al-architecture) · 中文
 
 ### Scientific Machine Learning
 
@@ -61,4 +63,6 @@ Model-wide design and information flow.
 - [Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](../../papers/scientific-ml.md#bu26d-architecture) · 中文
 - [LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory](../../papers/scientific-ml.md#cao26ad-architecture) · 中文
 - [Bioacoustic Geolocation: Species Sounds as Geographic Signals](../../papers/scientific-ml.md#chasmai26b-architecture) · 中文
+- [StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](../../papers/scientific-ml.md#chen26aa-architecture) · 中文
+- [From Holo Pockets to Electron Density: GPT-style Drug Design with Density](../../papers/scientific-ml.md#chen26ai-architecture) · 中文
 <!-- classification:end -->

@@ -26,6 +26,8 @@
 | <a id="bu26d-architecture"></a>[Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](https://proceedings.mlr.press/v306/bu26d.html) | 无线传播建模 | 把射频传播写成随机输运过程，让材料衰减率成为可学习的传播参数，在神经射线追踪中保留互易性和可逆性。 |
 | <a id="cao26ad-architecture"></a>[LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory](https://proceedings.mlr.press/v306/cao26ad.html) | 实验室布局生成 | 先把自然语言任务转成结构化实验协议，再在几何、导航及化学安全约束下迭代布局，使生成场景能按所建模的协议执行。 |
 | <a id="chasmai26b-architecture"></a>[Bioacoustic Geolocation: Species Sounds as Geographic Signals](https://proceedings.mlr.press/v306/chasmai26b.html) | 生物声学定位 | 将声音里的物种线索与其地理分布结合，再融合检索定位；聚合附近多个样本可进一步利用物种组成线索。 |
+| <a id="chen26aa-architecture"></a>[StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](https://proceedings.mlr.press/v306/chen26aa.html) | 对流风暴短时预报 | 分别编码风暴状态、垂直热力耦合和大尺度环境强迫，再按环境变化聚合不同高度的信息，支持三维结构的短时演化预测。 |
+| <a id="chen26ai-architecture"></a>[From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://proceedings.mlr.press/v306/chen26ai.html) | 电子密度条件分子生成 | 用口袋内配体和溶剂的低分辨率电子密度代替刚性空口袋条件。密度可以来自计算或实验，并让自回归模型利用构象和占位信息。 |
 
 <a id="by-modules"></a>
 
@@ -46,6 +48,8 @@
 | <a id="anwer26a-loss-functions"></a>[Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | 网格算子学习 | 给学习出的算子对测量其偏离链复形一致性的距离，并可闭式投影到最近的兼容算子，避免网格细化时条件数失控。 |
 | <a id="byeon26a-loss-functions"></a>[HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | 空间转录组预测 | 针对组织切片上六角排列的采样点，用几何匹配的窗口和位置编码，再加局部差分损失，减轻逐点回归导致的基因表达过平滑。 |
 | <a id="chasmai26a-loss-functions"></a>[MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | 生物声学辅助监督 | 把录音已有的时间和位置元数据作为辅助学习目标，借物种与环境的相关性塑造表征，并分别测地理和声学域偏移。 |
+| <a id="chen26y-loss-functions"></a>[SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](https://proceedings.mlr.press/v306/chen26y.html) | 心电与报告对齐 | 分别用 Stein 核约束单条心电与报告的匹配及跨样本的整体分布，再用难例匹配细化边界，弥补单一对比损失只监督样本对的不足。 |
+| <a id="chen26at-loss-functions"></a>[FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](https://proceedings.mlr.press/v306/chen26at.html) | 共病多标签表征 | 让同一局部视觉证据以模糊隶属度支持多个疾病概念，再按共病关系组织概念锚点，避免硬分类边界抹掉可共享的病征。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -65,6 +69,7 @@
 | :--- | :--- | :--- |
 | <a id="cao26r-training-strategies"></a>[TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](https://proceedings.mlr.press/v306/cao26r.html) | 变构蛋白结合物生成 | 将预测激动或拮抗方向的信号与软亲和门控分开，用两者微调离散扩散，使生成目标能区分作用方向和静态结合强度。 |
 | <a id="charles26a-training-strategies"></a>[Tokenised Flow Matching for Hierarchical Simulation Based Inference](https://proceedings.mlr.press/v306/charles26a.html) | 层级仿真推断 | 先从单站点仿真学习因子化似然，再拼出多站点合成观测训练完整层级后验，可减少每个训练样本需要调用仿真器的次数。 |
+| <a id="chen26ao-training-strategies"></a>[EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting](https://proceedings.mlr.press/v306/chen26ao.html) | 长时天气预测 | 渐进增加模型可见的累积历史做微调，减轻长时预测误差累积，并用动态加权的组合损失平衡长短预测目标。 |
 
 <a id="by-data-strategies"></a>
 
@@ -97,6 +102,8 @@
 | <a id="antoniadis26a-representation-learning"></a>[Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](https://proceedings.mlr.press/v306/antoniadis26a.html) | 分子动力学泛化 | 在粗粒化的隐式转移算子中加入蛋白语言模型嵌入作为条件，可改善对未见过蛋白的平衡态采样。 |
 | <a id="ariguib26a-representation-learning"></a>[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://proceedings.mlr.press/v306/ariguib26a.html) | 分子自监督 | 用固定半径子图作训练单元，从互补邻域预测其潜嵌入，把同一分子的多种 3D 构象引入免负样本训练。 |
 | <a id="baloch26a-representation-learning"></a>[A Machine-Learned Comorbidity Index](https://proceedings.mlr.press/v306/baloch26a.html) | 多结局风险表征 | 用归一化 Hilbert–Schmidt 独立性准则将诊断编码压成一个非线性分数，使其共同反映多个结局的风险。 |
+| <a id="chen26u-representation-learning"></a>[Foundation VAEs for CT Reconstruction, Augmentation, and Generation](https://proceedings.mlr.press/v306/chen26u.html) | 医学图像潜空间复用 | 自然图像和视频上预训练的 VAE 可以冻结后用于 CT 重建，再在同一潜空间训练条件扩散，复用编码器做重建、增强和生成。 |
+| <a id="chen26ay-representation-learning"></a>[MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing](https://proceedings.mlr.press/v306/chen26ay.html) | 三维分子表征 | 在固定维的 E(3) 等变几何潜空间里加上预训练分子编码器的语义锚点，可保留重建精度，同时改善改变原子数等零样本编辑。 |
 
 <a id="by-evaluation"></a>
 

@@ -15,6 +15,7 @@
 | :--- | :--- | :--- |
 | <a id="arriola26a-architecture"></a>[Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding](https://proceedings.mlr.press/v306/arriola26a.html) | 离散扩散解码 | 按位置和长度可变的 token 集合因子化似然，用集合因果结构在每步更新 KV 缓存，从而支持滑窗和自选顺序解码。 |
 | <a id="bui26b-architecture"></a>[HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](https://proceedings.mlr.press/v306/bui26b.html) | 长任务 Agent 协作 | 调度器先分配子任务资源，再让执行器并行规划；共享约束经事务检查，无法满足子目标时执行器可拒绝并触发重规划。 |
+| <a id="chen26r-architecture"></a>[MARS: Modular Agent with Reflective Search for Automated AI Research](https://proceedings.mlr.press/v306/chen26r.html) | 科研 Agent 搜索 | 用有预算约束的树搜索分配昂贵训练评估，先把方案拆成模块再实现，并从不同搜索分支的结果差异提取可以复用的经验。 |
 
 <a id="by-modules"></a>
 
@@ -26,6 +27,7 @@
 | <a id="byun26a-modules"></a>[Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models](https://proceedings.mlr.press/v306/byun26a.html) | 归一化替换 | 把 tanh 输入约束在非饱和区间来控制深层激活增长，每个块只计算一次精确统计量，另一处用轻量的方差估计替代。 |
 | <a id="chao26b-modules"></a>[SpanNorm: Reconciling Training Stability and Performance in Deep Transformers](https://proceedings.mlr.press/v306/chao26b.html) | 深层 Transformer 归一化 | 保留无障碍的残差路径，同时对块输出采用类似 PostNorm 的计算，再配合缩放控制深度方向的信号方差。 |
 | <a id="charakorn26a-modules"></a>[Doc-to-LoRA: Learning to Instantly Internalize Contexts](https://proceedings.mlr.press/v306/charakorn26a.html) | 上下文转 LoRA | 用元训练的超网络一次前向把新文档转成 LoRA 权重，后续问答可复用该适配器，减少重复读文档的注意力和 KV 缓存开销。 |
+| <a id="chen26aw-modules"></a>[Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers](https://proceedings.mlr.press/v306/chen26aw.html) | MoE 持续学习 | 拼接全部注意力头后统一路由，可能把需要不同梯度更新的信号送到同一专家。按头细化路由可减少组合冲突和旧任务遗忘。 |
 
 <a id="by-loss-functions"></a>
 
@@ -45,6 +47,8 @@
 | <a id="abbasi26a-optimization"></a>[Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](https://proceedings.mlr.press/v306/abbasi26a.html) | 模型压缩 | 在全模型固定参数预算下，用校准损失的一阶估计决定跨层删哪些奇异成分。 |
 | <a id="cai26a-optimization"></a>[AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](https://proceedings.mlr.press/v306/cai26a.html) | 低显存零阶微调 | 在只需前向计算的零阶微调中引入 Adam 式一阶和二阶矩估计，同时省去持久化矩状态，以少量显存获得更快收敛。 |
 | <a id="castin26a-optimization"></a>[Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](https://proceedings.mlr.press/v306/castin26a.html) | LoRA 收敛 | 同一个低秩权重更新可以由多组因子得到，而各组因子的条件数不同。将因子投影到平衡流形，保持乘积不变的同时改善收敛条件。 |
+| <a id="chen26z-optimization"></a>[WUSH: Near-Optimal Adaptive Transforms for LLM Quantization](https://proceedings.mlr.press/v306/chen26z.html) | 权重激活联合量化 | 把 Hadamard 变换与数据驱动的二阶矩校正结合，在分块最大绝对值量化前调节离群值影响，使权重和激活共享更适合低位宽的变换。 |
+| <a id="chen26ba-optimization"></a>[SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection](https://proceedings.mlr.press/v306/chen26ba.html) | 有约束的安全微调 | 在任务效用更新之间插入基于安全样本的投影步骤，再用相关性和多样性联合筛选安全集，使少量样本覆盖更丰富的安全约束。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -67,6 +71,9 @@
 | <a id="cai26k-reinforcement-learning"></a>[Escaping the Verifier: Learning to Reason via Demonstrations](https://proceedings.mlr.press/v306/cai26k.html) | 示范驱动的逆强化学习 | 让相对判别器从专家答案与策略答案的成对比较中学奖励，同时用该奖励更新生成策略，可在缺少任务验证器时使用专家示范训练推理。 |
 | <a id="cao26y-reinforcement-learning"></a>[Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models](https://proceedings.mlr.press/v306/cao26y.html) | 形式逻辑过程奖励 | 在自然语言推理过程中交错执行符号验证，直接给中间步骤的逻辑错误反馈，再用这些信号做监督训练和策略优化。 |
 | <a id="chai26c-reinforcement-learning"></a>[GXPO: Group Cross-Lingual Relative Policy Optimization for Code Generation](https://proceedings.mlr.press/v306/chai26c.html) | 跨语言代码强化学习 | 对同一道编程题，用多种语言生成解并组成一个训练组，将语言内与跨语言的相对优势一起优化，让低资源语言利用共享解题信号。 |
+| <a id="chen26a-reinforcement-learning"></a>[Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations](https://proceedings.mlr.press/v306/chen26a.html) | 事实性二元奖励 | 用检索证据检查回答，只要有一处事实矛盾就给 0 分，否则给 1 分。论文分析表明，这能压低含错回答的概率，同时保持无错回答之间的相对分布。 |
+| <a id="chen26k-reinforcement-learning"></a>[PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching](https://proceedings.mlr.press/v306/chen26k.html) | 无监督强化学习分布匹配 | 用长度感知的 GFlowNet 目标拟合模型自身分布的幂次。指数大于 1 时集中到高概率推理轨迹，小于 1 时保留更多表达多样性。 |
+| <a id="chen26w-reinforcement-learning"></a>[Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning](https://proceedings.mlr.press/v306/chen26w.html) | 语言模型状态价值估计 | 可把数字片段作为有对错反馈的局部里程碑，也可按相似隐藏状态对其他轨迹的回报加权，两种方法都比单纯的组平均提供更细的状态价值。 |
 
 <a id="by-training-strategies"></a>
 
@@ -87,6 +94,8 @@
 | <a id="bu26a-training-strategies"></a>[Provable Sample Efficiency of Curriculum Post-Training for Transformer Reasoning](https://proceedings.mlr.press/v306/bu26a.html) | 推理后训练课程 | 把推理任务排成逐渐加深的步骤，或逐渐撤掉提示。在论文的推理树假设下，这两种课程可把后训练样本复杂度从指数降到多项式。 |
 | <a id="bu26c-training-strategies"></a>[Scaling depth capacity via zero/one-layer model expansion](https://proceedings.mlr.press/v306/bu26c.html) | 渐进式模型训练 | 用较浅前缀训练并逐步扩层，通过新层初始化和学习率日程把已有模型的能力传到更深模型，减少昂贵的深层训练步数。 |
 | <a id="casademunt26a-training-strategies"></a>[Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning](https://proceedings.mlr.press/v306/casademunt26a.html) | 微调泛化干预 | 在微调的前向激活中用线性投影消除不希望被强化的概念方向，使相同训练数据产生不同的域外泛化行为。 |
+| <a id="chen26an-training-strategies"></a>[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://proceedings.mlr.press/v306/chen26an.html) | 监督微调与强化学习协同 | 交替更新联合梯度和小型协调 LoRA，用联合更新相对纯 RL 更新的奖励增量决定监督梯度该贡献多少。 |
+| <a id="chen26ap-training-strategies"></a>[Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models](https://proceedings.mlr.press/v306/chen26ap.html) | 知识纠错与置信校准 | 先用内部信号区分已掌握、混淆和缺失的知识，再对不同区域施加不同干预，并让主观置信度与测得正确性对齐。 |
 
 <a id="by-data-strategies"></a>
 
@@ -130,6 +139,7 @@
 | <a id="cetin26a-inference"></a>[Sparser, Faster, Lighter Transformer Language Models](https://proceedings.mlr.press/v306/cetin26a.html) | 非结构化稀疏推理 | 在前馈层用 L1 正则学到高稀疏度，再通过专用稀疏打包和 CUDA 内核兑现吞吐与显存收益；硬件执行效率要与剪枝率一起测。 |
 | <a id="cha26a-inference"></a>[KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://proceedings.mlr.press/v306/cha26a.html) | 自投机解码 | 把选哪些 Attention 和 MLP 层做草稿写成背包问题，权衡隐藏状态余弦相似度和随上下文长度变化的实测延迟。 |
 | <a id="chang26d-inference"></a>[xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction](https://proceedings.mlr.press/v306/chang26d.html) | 跨层 KV 缓存压缩 | 相邻或成组层的 KV 缓存主奇异方向可以对齐，因此可联合分解成共享低秩子空间，并在解码时选择性重建。 |
+| <a id="chen26ar-inference"></a>[AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions](https://proceedings.mlr.press/v306/chen26ar.html) | GUI 流程复用 | 把多条 ReAct 轨迹先转成可替换参数的过程，再综合成可执行的自动化函数。验证时保留 Agent 回退，遇到失败可补救并修订函数。 |
 
 <a id="by-representation-learning"></a>
 
@@ -190,6 +200,12 @@
 | <a id="chang26e-evaluation"></a>[How2Everything: Mining the Web for How-to Procedures to Evaluate and Improve LLMs](https://proceedings.mlr.press/v306/chang26e.html) | 操作步骤评测 | 评测操作指南时，专门检测会导致目标不可达的关键步骤错误。将这种判分蒸馏给小裁判后，也可以作为强化学习奖励。 |
 | <a id="chanin26a-evaluation"></a>[Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](https://proceedings.mlr.press/v306/chanin26a.html) | 稀疏自编码器可解释性 | 每个 token 激活的特征数过少会合并相关特征，过多也可能产生混合特征。选择超参时可加上稀疏探测或特征分离诊断，重建误差本身不够。 |
 | <a id="chauvin26a-evaluation"></a>[Token-Efficient Change Detection in LLM APIs](https://proceedings.mlr.press/v306/chauvin26a.html) | LLM API 变化检测 | 选择多个候选 token 位于决策边界附近的输入作为探针，只用返回 token 就能检测服务更新，无需权重或 logprob。 |
+| <a id="chen26l-evaluation"></a>[CausalGame: Benchmarking Causal Thinking of LLM Agents in Games](https://proceedings.mlr.press/v306/chen26l.html) | Agent 因果推断评测 | 让 Agent 自己设计实验并收集观测，同时在游戏中控制隐藏混杂、选择偏差和测量噪声，可区分会描述因果概念与能主动识别因果关系。 |
+| <a id="chen26n-evaluation"></a>[Mind the Gap: Catching Hallucinations via Evidence Drop on the Reasoning Manifold](https://proceedings.mlr.press/v306/chen26n.html) | 幻觉逐步定位 | 把推理过程的局部证据支持写成序列，用其中最大的突然下跌判断风险并定位错误步骤，可以保留整段不确定性平均会冲淡的信号。 |
+| <a id="chen26o-evaluation"></a>[OPT-Engine: Benchmarking the Limits of LLMs in Optimization Modeling via Complexity Scaling](https://proceedings.mlr.press/v306/chen26o.html) | 优化建模 Agent 评测 | 在同一问题族中逐步从线性规划扩展到混合整数约束，分别测试算术、全局约束和求解器建模。实测工具能补局部算术，约束表达仍独立限制解的质量。 |
+| <a id="chen26q-evaluation"></a>[L-CUBE: Isolating Long-Context Capacity from Knowledge with Controllable Mutual Information Scaling](https://proceedings.mlr.press/v306/chen26q.html) | 长上下文容量评测 | 用可控跨段互信息的层级高斯序列生成测试数据，直接比较模型和真实条件分布的 KL，以衡量上下文拉长后实际提取了多少信息。 |
+| <a id="chen26x-evaluation"></a>[Adaptive Probe-based Steering for Robust LLM Jailbreaking](https://proceedings.mlr.press/v306/chen26x.html) | 激活干预下的安全评测 | 固定强度下的激活干预测试可能低估安全脆弱性。论文用自适应强度做压力测试，说明评测应报告模型对干预强度变化的敏感性。 |
+| <a id="chen26aq-evaluation"></a>[The Unlearnability Phenomenon in RLVR for Language Models](https://proceedings.mlr.press/v306/chen26aq.html) | RLVR 的难学样本 | 有正确 rollout 的难题也可能长期学不会。论文中这类题与其他样本的梯度相似度偏低，因此可以用跨样本梯度诊断来区分探索不足与表征难以共享。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -203,4 +219,5 @@
 | <a id="blondel26a-theory-statistics"></a>[Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction](https://proceedings.mlr.press/v306/blondel26a.html) | 自回归与能量模型 | 用概率链式分解可将序列能量模型和自回归模型在函数空间一一对应。下一 token 的归一化隐含对未来续写的边际化，其形式等同一个软 Bellman 递推。 |
 | <a id="cagnetta26a-theory-statistics"></a>[Deriving Neural Scaling Laws from the Statistics of Natural Language](https://proceedings.mlr.press/v306/cagnetta26a.html) | 语言数据缩放律 | 用 token 两两相关性随间距的衰减和条件熵随上下文的衰减，预测数据受限时的缩放指数，并与 TinyStories 和 WikiText 上的曲线核对。 |
 | <a id="cai26p-theory-statistics"></a>[Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](https://proceedings.mlr.press/v306/cai26p.html) | 多候选偏好对齐 | 当用户从 k 个候选中选择时，训练对称多方偏好博弈可保留输出多样性，并在理论设定中达到 k/(k+1) 的最优偏好胜率界。 |
+| <a id="chen26ae-theory-statistics"></a>[Chain-of-Thought Gradient Descent](https://proceedings.mlr.press/v306/chen26ae.html) | 思维链内模拟梯度下降 | 把生成序列当作可以扩展的中间工作空间，使固定深度的 Transformer 能模拟多步上下文梯度下降；按更新步骤动态遮罩可避免重复扫过无关 token。 |
 <!-- classification:end -->

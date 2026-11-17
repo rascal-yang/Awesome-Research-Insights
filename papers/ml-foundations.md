@@ -94,6 +94,11 @@
 | <a id="chagneux26a-optimization"></a>[Efficient Online Variational Estimation via Monte Carlo Sampling](https://proceedings.mlr.press/v306/chagneux26a.html) | 在线变分估计 | 用独立 Monte Carlo 样本估计流式证据下界及其梯度，使状态空间模型的参数和潜状态后验能在新观测到达时联合更新。 |
 | <a id="chakraborty26c-optimization"></a>[Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes](https://proceedings.mlr.press/v306/chakraborty26c.html) | 随机约束优化 | 无需每步投影到整个可行交集，抽取随机数量的约束做 Polyak 式可行性更新，再与目标的梯度步交替。 |
 | <a id="chao26a-optimization"></a>[Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem](https://proceedings.mlr.press/v306/chao26a.html) | 多仿射等式约束 | 即使全局问题非凸，固定其余变量后仍可利用单块结构。论文给出这类问题上 ADMM 的末次迭代收敛，约束非凸性受限时可线性收敛。 |
+| <a id="chebykin26a-optimization"></a>[Iterated Population Based Training with Task-Agnostic Restarts](https://proceedings.mlr.press/v306/chebykin26a.html) | 种群超参优化 | 把超参更新间隔也纳入搜索。重启时复用模型权重，再用随训练阶段变化的贝叶斯优化初始化超参，从而在固定预算下调整搜索频率。 |
+| <a id="chekalina26a-optimization"></a>[Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity](https://proceedings.mlr.press/v306/chekalina26a.html) | 低秩压缩的 Fisher 近似 | 用无需显式存储全矩阵的 Kronecker 分解保留参数间相关性，在论文的矩阵正态假设下可闭式求出让预期二阶损失增量最小的低秩层。 |
+| <a id="chen26e-optimization"></a>[Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination](https://proceedings.mlr.press/v306/chen26e.html) | 污染下的分布鲁棒优化 | 从数据估计高概率区域，在区域内建模任意污染，区域外的尾部风险单独加界，可把原来可能无穷的最坏风险改写成可解的有限目标。 |
+| <a id="chen26ah-optimization"></a>[Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching](https://proceedings.mlr.press/v306/chen26ah.html) | 混合整数规划分支 | 用数据驱动的超平面同时对多个变量分支，不必改求解器的其他部分，可利用学习模型对变量间关系的预测缩小搜索。 |
+| <a id="chen26ax-optimization"></a>[IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation](https://proceedings.mlr.press/v306/chen26ax.html) | Adam 状态压缩 | 利用矩阵权重梯度由输入和输出梯度相乘形成的结构，分别跟踪这两侧的量以估计矩，从而减少直接存两份全尺寸矩状态的成本。 |
 
 <a id="by-training-strategies"></a>
 
@@ -110,6 +115,9 @@
 | <a id="cameron26a-training-strategies"></a>[One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models](https://proceedings.mlr.press/v306/cameron26a.html) | 递归去噪训练 | 按不同强度破坏目标解，再监督循环模型用多次共享块更新恢复，可让中间状态更接近推理过程，并训练非贪心细化路径。 |
 | <a id="cao26a-training-strategies"></a>[Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](https://proceedings.mlr.press/v306/cao26a.html) | 异构联邦学习 | 每层保留各设备共同训练的主干，剩余神经元按历史激活频率概率抽样，为不同设备生成子网并减少参数冲突。 |
 | <a id="carter26a-training-strategies"></a>[Discrete Diffusion Samplers and Bridges: Off-Policy Algorithms and Applications in Latent Spaces](https://proceedings.mlr.press/v306/carter26a.html) | 离散扩散采样 | 用离策略样本训练离散扩散采样器，并将训练扩展为连接数据分布和未归一化能量目标的 Schrödinger 桥。 |
+| <a id="che26a-training-strategies"></a>[Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch](https://proceedings.mlr.press/v306/che26a.html) | 首脉冲时间编码 | 用适配稀疏放电的初始化和训练归一化维持梯度，再聚合输出脉冲时间鼓励提前放电。池化时用平均池化维持单次脉冲约束。 |
+| <a id="chemseddine26a-training-strategies"></a>[Adapting Noise to Data: Generative Flows from Learned 1D Processes](https://proceedings.mlr.press/v306/chemseddine26a.html) | 生成流的先验 | 用一维分位数函数参数化噪声分布，再按 Wasserstein 距离拟合数据，让流匹配的起点适应重尾或紧支撑数据并缩短传输路径。 |
+| <a id="chen26t-training-strategies"></a>[Test-Time Learning of Causal Structure from Interventional Data](https://proceedings.mlr.press/v306/chen26t.html) | 测试时因果结构学习 | 对每个新干预设定做实例级自增强，再依联合因果推断分阶段学习因果结构和干预目标，减少训练环境与实际干预不一致造成的偏移。 |
 
 <a id="by-data-strategies"></a>
 
@@ -120,6 +128,7 @@
 | <a id="afshani26a-data-strategies"></a>[The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue](https://proceedings.mlr.press/v306/afshani26a.html) | 数据洗牌 | 对无放回 SGD，用低阶独立的近随机排列代替均匀排列，在论文设定下保持期望收敛率并把 I/O 压到线性。 |
 | <a id="bonilla26a-data-strategies"></a>[Causal Preference Elicitation](https://proceedings.mlr.press/v306/bonilla26a.html) | 主动因果发现 | 从观测数据得到的图后验出发，用带噪三类专家反馈更新边的存在和方向，并按期望信息增益优先选择要问的边。 |
 | <a id="candes26a-data-strategies"></a>[Probably Approximately Correct Labels](https://proceedings.mlr.press/v306/candes26a.html) | 带保证的自动标注 | 按模型预测的不确定性分配人工核查，再用审计结果限制全数据集的标注错误率，保留自动标注节省的成本。 |
+| <a id="chen26ac-data-strategies"></a>[Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning](https://proceedings.mlr.press/v306/chen26ac.html) | 稀疏多类标注聚合 | 先跨标注者共享每个类别的标注行为原型，再为个人估计原型权重，可在个人标注不足时共享统计强度，并允许复杂的混淆模式。 |
 
 <a id="by-inference"></a>
 
@@ -130,6 +139,8 @@
 | <a id="blessing26a-inference"></a>[Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching](https://proceedings.mlr.press/v306/blessing26a.html) | 未归一化分布采样 | 把扩散匹配统一成由 Nelson 关系导出的不动点迭代，允许使用更一般的先验。阻尼正则可以缓和迭代中的模态坍缩。 |
 | <a id="block26a-inference"></a>[Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](https://proceedings.mlr.press/v306/block26a.html) | 生成式模型遗忘 | 先对基座分布做温度缩放压平待遗忘样本的高概率峰，再用区分保留与遗忘数据的小分类器调整采样，以改善集中遗忘集的有限样本效果。 |
 | <a id="castro-maci-as26a-inference"></a>[Conditional Diffusion Sampling](https://proceedings.mlr.press/v306/castro-maci-as26a.html) | 条件扩散采样 | 先用并行回火做全局探索，再沿有闭式形式的条件 SDE 做短时局部传输，结合两者能力而无需求助神经网络近似。 |
+| <a id="chen26f-inference"></a>[Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators](https://proceedings.mlr.press/v306/chen26f.html) | 贝叶斯逆问题采样 | 先从便宜但有偏的近似后验采样，再解局部近端优化调整提议，最后由独立 Metropolis–Hastings 校正到目标后验。 |
+| <a id="chen26g-inference"></a>[FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://proceedings.mlr.press/v306/chen26g.html) | 分块扩散注意力缓存 | 当前块外的注意力输出在多个去噪步骤间变化较小，可缓存并复用这一部分，每步继续重算变化大的块内注意力。 |
 
 <a id="by-representation-learning"></a>
 
@@ -144,6 +155,8 @@
 | <a id="berardini26a-representation-learning"></a>[Distribution Alignment for One-Shot Federated Learning via Optimal Transport](https://proceedings.mlr.press/v306/berardini26a.html) | 单轮联邦学习 | 用冻结编码器提取各方特征统计，以 Bures–Wasserstein 重心作共同参考，再通过闭式传输一次对齐本地表示。 |
 | <a id="calvo-ordonez26a-representation-learning"></a>[Richer Bayesian Last Layers with Subsampled NTK Features](https://proceedings.mlr.press/v306/calvo-ordonez26a.html) | 贝叶斯不确定性 | 把全网络的神经切线核特征投影到末层特征空间，可让贝叶斯末层纳入前部网络的变化，同时保持低成本推断。 |
 | <a id="cao26t-representation-learning"></a>[Causal Feature Learning via Generalized Rayleigh Quotients](https://proceedings.mlr.press/v306/cao26t.html) | 跨环境特征提取 | 用广义 Rayleigh 商在最大化时序预测相关性的同时惩罚环境之间的均值漂移，从而提取对工况变化更稳健的子空间。 |
+| <a id="chawla26a-representation-learning"></a>[MetaOthello: A Controlled Study of Multiple World Models in Transformers](https://proceedings.mlr.press/v306/chawla26a.html) | 多世界模型表征 | 用共享语法但规则不同的黑白棋变体训练同一模型。跨游戏线性探针仍能干预棋盘表征，说明共性状态可共享，规则冲突则由局部机制处理。 |
+| <a id="chen26h-representation-learning"></a>[Vector Linking via Cross-Model Local Isometric Consistency](https://proceedings.mlr.press/v306/chen26h.html) | 跨编码器向量匹配 | 不同编码器的局部距离经缩放后往往相容。用少量配对锚点构造距离签名，再把多视角都支持的匹配升为新锚点，可在黑盒编码器间对齐样本。 |
 
 <a id="by-evaluation"></a>
 
@@ -228,4 +241,6 @@
 | <a id="caucheteux26a-theory-statistics"></a>[A Unifying View of Variational Generative Wasserstein Flows](https://proceedings.mlr.press/v306/caucheteux26a.html) | Wasserstein 生成模型 | 将多个生成算法表示为参数化 JKO 更新，就能比较它们真正不同的目标散度和同一种运输正则；该形式还可扩展到核距离等目标。 |
 | <a id="chan26b-theory-statistics"></a>[Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe](https://proceedings.mlr.press/v306/chan26b.html) | 持续学习参与隐私 | 随机缓冲后按变长批次发布，可把单个用户加入或退出引起的全程位移转成批次邻接问题，从而复用前缀聚合的差分隐私机制。 |
 | <a id="chang26f-theory-statistics"></a>[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://proceedings.mlr.press/v306/chang26f.html) | 关系推理的线性传播 | 否定与换序在特定张量分解下可由一阶更新传播，但关系复合需要双线性合取，与否定一般不兼容，限制了局部知识编辑的传播范围。 |
+| <a id="chen26p-theory-statistics"></a>[High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions](https://proceedings.mlr.press/v306/chen26p.html) | 扩散采样复杂度 | 若可获得与目标误差相应精度的分数估计，采样步骤对精度倒数可整体达到多对数依赖。复杂度的维度因子在低维流形条件下还可由内在维度替代。 |
+| <a id="chen26af-theory-statistics"></a>[Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity](https://proceedings.mlr.press/v306/chen26af.html) | 组级变量发现 | 对线性变换后的成组效应构造 Split Knockoffs，可以在控组级假发现率的同时识别相关组，适合评估多个行为维度是否真有差异。 |
 <!-- classification:end -->

@@ -54,6 +54,12 @@
 - [操作步骤评测](../papers/llm.md#chang26e-evaluation) · How2Everything: Mining the Web for How-to Procedures to Evaluate and Improve LLMs
 - [稀疏自编码器可解释性](../papers/llm.md#chanin26a-evaluation) · Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders
 - [LLM API 变化检测](../papers/llm.md#chauvin26a-evaluation) · Token-Efficient Change Detection in LLM APIs
+- [Agent 因果推断评测](../papers/llm.md#chen26l-evaluation) · CausalGame: Benchmarking Causal Thinking of LLM Agents in Games
+- [幻觉逐步定位](../papers/llm.md#chen26n-evaluation) · Mind the Gap: Catching Hallucinations via Evidence Drop on the Reasoning Manifold
+- [优化建模 Agent 评测](../papers/llm.md#chen26o-evaluation) · OPT-Engine: Benchmarking the Limits of LLMs in Optimization Modeling via Complexity Scaling
+- [长上下文容量评测](../papers/llm.md#chen26q-evaluation) · L-CUBE: Isolating Long-Context Capacity from Knowledge with Controllable Mutual Information Scaling
+- [激活干预下的安全评测](../papers/llm.md#chen26x-evaluation) · Adaptive Probe-based Steering for Robust LLM Jailbreaking
+- [RLVR 的难学样本](../papers/llm.md#chen26aq-evaluation) · The Unlearnability Phenomenon in RLVR for Language Models
 
 ### 计算机视觉
 
@@ -62,11 +68,13 @@
 - [扩散模型域外检测](../papers/computer-vision.md#alexis26a-evaluation) · GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models
 - [深伪防御评测](../papers/computer-vision.md#baek26e-evaluation) · Proactive Defense Benchmark against Deepfake Generation
 - [扩散模型概念遗忘](../papers/computer-vision.md#braun26b-evaluation) · Erased but Not Forgotten: How Backdoors Compromise Concept Erasure
+- [生成模型后门评测](../papers/computer-vision.md#chen26az-evaluation) · Semantic-level Backdoor Attack against Text-to-Image Diffusion Models
 
 ### 自然语言处理
 
 - [分词器评测](../papers/nlp.md#altintas26a-evaluation) · TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior
 - [音频表征评测](../papers/nlp.md#basha26a-evaluation) · VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio
+- [检索增强生成安全评测](../papers/nlp.md#chen26av-evaluation) · Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors
 
 ### 强化学习
 
@@ -84,6 +92,7 @@
 - [视觉语言模型量化](../papers/multimodal.md#bouguerra26a-evaluation) · Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy
 - [图像感知评测](../papers/multimodal.md#cao26i-evaluation) · UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 - [音视频生成评测](../papers/multimodal.md#cao26v-evaluation) · T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation
+- [音视频未来预测评测](../papers/multimodal.md#chen26ad-evaluation) · FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs
 
 ### 机器学习基础与统计
 

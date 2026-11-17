@@ -459,66 +459,66 @@ number	pmlr_id	title	paper_url	insight_status
 458	chaudhry26a	The Geometry of Projection Heads: Conditioning, Invariance, and Collapse	https://proceedings.mlr.press/v306/chaudhry26a.html	written
 459	chaussard26a	Independent Component Discovery in Temporal Count Data	https://proceedings.mlr.press/v306/chaussard26a.html	written
 460	chauvin26a	Token-Efficient Change Detection in LLM APIs	https://proceedings.mlr.press/v306/chauvin26a.html	written
-461	chavhan26a	NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices	https://proceedings.mlr.press/v306/chavhan26a.html	pending
-462	chawla26a	MetaOthello: A Controlled Study of Multiple World Models in Transformers	https://proceedings.mlr.press/v306/chawla26a.html	pending
-463	che26a	Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch	https://proceedings.mlr.press/v306/che26a.html	pending
-464	chebykin26a	Iterated Population Based Training with Task-Agnostic Restarts	https://proceedings.mlr.press/v306/chebykin26a.html	pending
-465	chefer26a	Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis	https://proceedings.mlr.press/v306/chefer26a.html	pending
-466	chekalina26a	Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity	https://proceedings.mlr.press/v306/chekalina26a.html	pending
-467	chemseddine26a	Adapting Noise to Data: Generative Flows from Learned 1D Processes	https://proceedings.mlr.press/v306/chemseddine26a.html	pending
-468	chen26a	Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations	https://proceedings.mlr.press/v306/chen26a.html	pending
-469	chen26b	Differentially Private Range Subgraph Counting	https://proceedings.mlr.press/v306/chen26b.html	pending
-470	chen26c	OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing	https://proceedings.mlr.press/v306/chen26c.html	pending
-471	chen26d	NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts	https://proceedings.mlr.press/v306/chen26d.html	pending
-472	chen26e	Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination	https://proceedings.mlr.press/v306/chen26e.html	pending
-473	chen26f	Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators	https://proceedings.mlr.press/v306/chen26f.html	pending
-474	chen26g	FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion	https://proceedings.mlr.press/v306/chen26g.html	pending
-475	chen26h	Vector Linking via Cross-Model Local Isometric Consistency	https://proceedings.mlr.press/v306/chen26h.html	pending
-476	chen26i	PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making	https://proceedings.mlr.press/v306/chen26i.html	pending
-477	chen26j	RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation	https://proceedings.mlr.press/v306/chen26j.html	pending
-478	chen26k	PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching	https://proceedings.mlr.press/v306/chen26k.html	pending
-479	chen26l	CausalGame: Benchmarking Causal Thinking of LLM Agents in Games	https://proceedings.mlr.press/v306/chen26l.html	pending
-480	chen26m	Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning	https://proceedings.mlr.press/v306/chen26m.html	pending
-481	chen26n	Mind the Gap: Catching Hallucinations via Evidence Drop on the Reasoning Manifold	https://proceedings.mlr.press/v306/chen26n.html	pending
-482	chen26o	OPT-Engine: Benchmarking the Limits of LLMs in Optimization Modeling via Complexity Scaling	https://proceedings.mlr.press/v306/chen26o.html	pending
-483	chen26p	High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions	https://proceedings.mlr.press/v306/chen26p.html	pending
-484	chen26q	L-CUBE: Isolating Long-Context Capacity from Knowledge with Controllable Mutual Information Scaling	https://proceedings.mlr.press/v306/chen26q.html	pending
-485	chen26r	MARS: Modular Agent with Reflective Search for Automated AI Research	https://proceedings.mlr.press/v306/chen26r.html	pending
-486	chen26s	When Preference Labels Fall Short: Aligning Diffusion Models from Real Data	https://proceedings.mlr.press/v306/chen26s.html	pending
-487	chen26t	Test-Time Learning of Causal Structure from Interventional Data	https://proceedings.mlr.press/v306/chen26t.html	pending
-488	chen26u	Foundation VAEs for CT Reconstruction, Augmentation, and Generation	https://proceedings.mlr.press/v306/chen26u.html	pending
-489	chen26v	PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling	https://proceedings.mlr.press/v306/chen26v.html	pending
-490	chen26w	Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning	https://proceedings.mlr.press/v306/chen26w.html	pending
-491	chen26x	Adaptive Probe-based Steering for Robust LLM Jailbreaking	https://proceedings.mlr.press/v306/chen26x.html	pending
-492	chen26y	SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning	https://proceedings.mlr.press/v306/chen26y.html	pending
-493	chen26z	WUSH: Near-Optimal Adaptive Transforms for LLM Quantization	https://proceedings.mlr.press/v306/chen26z.html	pending
-494	chen26aa	StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution	https://proceedings.mlr.press/v306/chen26aa.html	pending
-495	chen26ab	PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation	https://proceedings.mlr.press/v306/chen26ab.html	pending
-496	chen26ac	Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning	https://proceedings.mlr.press/v306/chen26ac.html	pending
-497	chen26ad	FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs	https://proceedings.mlr.press/v306/chen26ad.html	pending
-498	chen26ae	Chain-of-Thought Gradient Descent	https://proceedings.mlr.press/v306/chen26ae.html	pending
-499	chen26af	Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity	https://proceedings.mlr.press/v306/chen26af.html	pending
-500	chen26ag	Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering	https://proceedings.mlr.press/v306/chen26ag.html	pending
-501	chen26ah	Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching	https://proceedings.mlr.press/v306/chen26ah.html	pending
-502	chen26ai	From Holo Pockets to Electron Density: GPT-style Drug Design with Density	https://proceedings.mlr.press/v306/chen26ai.html	pending
-503	chen26aj	Normalizing Flows with Iterative Denoising	https://proceedings.mlr.press/v306/chen26aj.html	pending
-504	chen26ak	SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation	https://proceedings.mlr.press/v306/chen26ak.html	pending
-505	chen26al	OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search	https://proceedings.mlr.press/v306/chen26al.html	pending
-506	chen26am	Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs	https://proceedings.mlr.press/v306/chen26am.html	pending
-507	chen26an	Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning	https://proceedings.mlr.press/v306/chen26an.html	pending
-508	chen26ao	EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting	https://proceedings.mlr.press/v306/chen26ao.html	pending
-509	chen26ap	Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models	https://proceedings.mlr.press/v306/chen26ap.html	pending
-510	chen26aq	The Unlearnability Phenomenon in RLVR for Language Models	https://proceedings.mlr.press/v306/chen26aq.html	pending
-511	chen26ar	AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions	https://proceedings.mlr.press/v306/chen26ar.html	pending
-512	chen26as	Test-Time Reinforcement Learning for Flow Matching	https://proceedings.mlr.press/v306/chen26as.html	pending
-513	chen26at	FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis	https://proceedings.mlr.press/v306/chen26at.html	pending
-514	chen26au	Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks	https://proceedings.mlr.press/v306/chen26au.html	pending
-515	chen26av	Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors	https://proceedings.mlr.press/v306/chen26av.html	pending
-516	chen26aw	Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers	https://proceedings.mlr.press/v306/chen26aw.html	pending
-517	chen26ax	IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation	https://proceedings.mlr.press/v306/chen26ax.html	pending
-518	chen26ay	MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing	https://proceedings.mlr.press/v306/chen26ay.html	pending
-519	chen26az	Semantic-level Backdoor Attack against Text-to-Image Diffusion Models	https://proceedings.mlr.press/v306/chen26az.html	pending
-520	chen26ba	SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection	https://proceedings.mlr.press/v306/chen26ba.html	pending
+461	chavhan26a	NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices	https://proceedings.mlr.press/v306/chavhan26a.html	written
+462	chawla26a	MetaOthello: A Controlled Study of Multiple World Models in Transformers	https://proceedings.mlr.press/v306/chawla26a.html	written
+463	che26a	Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch	https://proceedings.mlr.press/v306/che26a.html	written
+464	chebykin26a	Iterated Population Based Training with Task-Agnostic Restarts	https://proceedings.mlr.press/v306/chebykin26a.html	written
+465	chefer26a	Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis	https://proceedings.mlr.press/v306/chefer26a.html	written
+466	chekalina26a	Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity	https://proceedings.mlr.press/v306/chekalina26a.html	written
+467	chemseddine26a	Adapting Noise to Data: Generative Flows from Learned 1D Processes	https://proceedings.mlr.press/v306/chemseddine26a.html	written
+468	chen26a	Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations	https://proceedings.mlr.press/v306/chen26a.html	written
+469	chen26b	Differentially Private Range Subgraph Counting	https://proceedings.mlr.press/v306/chen26b.html	written
+470	chen26c	OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing	https://proceedings.mlr.press/v306/chen26c.html	written
+471	chen26d	NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts	https://proceedings.mlr.press/v306/chen26d.html	written
+472	chen26e	Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination	https://proceedings.mlr.press/v306/chen26e.html	written
+473	chen26f	Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators	https://proceedings.mlr.press/v306/chen26f.html	written
+474	chen26g	FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion	https://proceedings.mlr.press/v306/chen26g.html	written
+475	chen26h	Vector Linking via Cross-Model Local Isometric Consistency	https://proceedings.mlr.press/v306/chen26h.html	written
+476	chen26i	PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making	https://proceedings.mlr.press/v306/chen26i.html	written
+477	chen26j	RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation	https://proceedings.mlr.press/v306/chen26j.html	written
+478	chen26k	PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching	https://proceedings.mlr.press/v306/chen26k.html	written
+479	chen26l	CausalGame: Benchmarking Causal Thinking of LLM Agents in Games	https://proceedings.mlr.press/v306/chen26l.html	written
+480	chen26m	Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning	https://proceedings.mlr.press/v306/chen26m.html	written
+481	chen26n	Mind the Gap: Catching Hallucinations via Evidence Drop on the Reasoning Manifold	https://proceedings.mlr.press/v306/chen26n.html	written
+482	chen26o	OPT-Engine: Benchmarking the Limits of LLMs in Optimization Modeling via Complexity Scaling	https://proceedings.mlr.press/v306/chen26o.html	written
+483	chen26p	High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions	https://proceedings.mlr.press/v306/chen26p.html	written
+484	chen26q	L-CUBE: Isolating Long-Context Capacity from Knowledge with Controllable Mutual Information Scaling	https://proceedings.mlr.press/v306/chen26q.html	written
+485	chen26r	MARS: Modular Agent with Reflective Search for Automated AI Research	https://proceedings.mlr.press/v306/chen26r.html	written
+486	chen26s	When Preference Labels Fall Short: Aligning Diffusion Models from Real Data	https://proceedings.mlr.press/v306/chen26s.html	written
+487	chen26t	Test-Time Learning of Causal Structure from Interventional Data	https://proceedings.mlr.press/v306/chen26t.html	written
+488	chen26u	Foundation VAEs for CT Reconstruction, Augmentation, and Generation	https://proceedings.mlr.press/v306/chen26u.html	written
+489	chen26v	PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling	https://proceedings.mlr.press/v306/chen26v.html	written
+490	chen26w	Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning	https://proceedings.mlr.press/v306/chen26w.html	written
+491	chen26x	Adaptive Probe-based Steering for Robust LLM Jailbreaking	https://proceedings.mlr.press/v306/chen26x.html	written
+492	chen26y	SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning	https://proceedings.mlr.press/v306/chen26y.html	written
+493	chen26z	WUSH: Near-Optimal Adaptive Transforms for LLM Quantization	https://proceedings.mlr.press/v306/chen26z.html	written
+494	chen26aa	StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution	https://proceedings.mlr.press/v306/chen26aa.html	written
+495	chen26ab	PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation	https://proceedings.mlr.press/v306/chen26ab.html	written
+496	chen26ac	Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning	https://proceedings.mlr.press/v306/chen26ac.html	written
+497	chen26ad	FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs	https://proceedings.mlr.press/v306/chen26ad.html	written
+498	chen26ae	Chain-of-Thought Gradient Descent	https://proceedings.mlr.press/v306/chen26ae.html	written
+499	chen26af	Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity	https://proceedings.mlr.press/v306/chen26af.html	written
+500	chen26ag	Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering	https://proceedings.mlr.press/v306/chen26ag.html	written
+501	chen26ah	Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching	https://proceedings.mlr.press/v306/chen26ah.html	written
+502	chen26ai	From Holo Pockets to Electron Density: GPT-style Drug Design with Density	https://proceedings.mlr.press/v306/chen26ai.html	written
+503	chen26aj	Normalizing Flows with Iterative Denoising	https://proceedings.mlr.press/v306/chen26aj.html	written
+504	chen26ak	SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation	https://proceedings.mlr.press/v306/chen26ak.html	written
+505	chen26al	OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search	https://proceedings.mlr.press/v306/chen26al.html	written
+506	chen26am	Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs	https://proceedings.mlr.press/v306/chen26am.html	written
+507	chen26an	Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning	https://proceedings.mlr.press/v306/chen26an.html	written
+508	chen26ao	EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting	https://proceedings.mlr.press/v306/chen26ao.html	written
+509	chen26ap	Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models	https://proceedings.mlr.press/v306/chen26ap.html	written
+510	chen26aq	The Unlearnability Phenomenon in RLVR for Language Models	https://proceedings.mlr.press/v306/chen26aq.html	written
+511	chen26ar	AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions	https://proceedings.mlr.press/v306/chen26ar.html	written
+512	chen26as	Test-Time Reinforcement Learning for Flow Matching	https://proceedings.mlr.press/v306/chen26as.html	written
+513	chen26at	FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis	https://proceedings.mlr.press/v306/chen26at.html	written
+514	chen26au	Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks	https://proceedings.mlr.press/v306/chen26au.html	written
+515	chen26av	Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors	https://proceedings.mlr.press/v306/chen26av.html	written
+516	chen26aw	Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers	https://proceedings.mlr.press/v306/chen26aw.html	written
+517	chen26ax	IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation	https://proceedings.mlr.press/v306/chen26ax.html	written
+518	chen26ay	MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing	https://proceedings.mlr.press/v306/chen26ay.html	written
+519	chen26az	Semantic-level Backdoor Attack against Text-to-Image Diffusion Models	https://proceedings.mlr.press/v306/chen26az.html	written
+520	chen26ba	SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection	https://proceedings.mlr.press/v306/chen26ba.html	written
 521	chen26bb	All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs	https://proceedings.mlr.press/v306/chen26bb.html	pending
 522	chen26bc	How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs	https://proceedings.mlr.press/v306/chen26bc.html	pending
 523	chen26bd	Thinned Mean Field Langevin Dynamics	https://proceedings.mlr.press/v306/chen26bd.html	pending

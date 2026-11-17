@@ -54,6 +54,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://proceedings.mlr.press/v306/ba26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ba26a-reinforcement-learning) |
+| [Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26as-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -64,6 +65,7 @@ The linked short insights are available in Chinese.
 | [Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#bai26n-training-strategies) |
 | [Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26h-training-strategies) |
 | [Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26o-training-strategies) |
+| [NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chavhan26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -73,6 +75,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26m-data-strategies) |
 | [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://proceedings.mlr.press/v306/cao26s.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26s-data-strategies) |
+| [When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](https://proceedings.mlr.press/v306/chen26s.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26s-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -88,6 +91,8 @@ The linked short insights are available in Chinese.
 | [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26n-inference) |
 | [Efficient Learned Image Compression without Entropy Coding](https://proceedings.mlr.press/v306/cao26e.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26e-inference) |
 | [ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](https://proceedings.mlr.press/v306/chang26c.html) | [Read insight (中文)](../../papers/computer-vision.md#chang26c-inference) |
+| [PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](https://proceedings.mlr.press/v306/chen26v.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26v-inference) |
+| [Normalizing Flows with Iterative Denoising](https://proceedings.mlr.press/v306/chen26aj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26aj-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -112,6 +117,7 @@ The linked short insights are available in Chinese.
 | [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) | [Read insight (中文)](../../papers/computer-vision.md#alexis26a-evaluation) |
 | [Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | [Read insight (中文)](../../papers/computer-vision.md#baek26e-evaluation) |
 | [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | [Read insight (中文)](../../papers/computer-vision.md#braun26b-evaluation) |
+| [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26az-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

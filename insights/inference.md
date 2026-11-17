@@ -28,6 +28,7 @@
 - [非结构化稀疏推理](../papers/llm.md#cetin26a-inference) · Sparser, Faster, Lighter Transformer Language Models
 - [自投机解码](../papers/llm.md#cha26a-inference) · KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem
 - [跨层 KV 缓存压缩](../papers/llm.md#chang26d-inference) · xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction
+- [GUI 流程复用](../papers/llm.md#chen26ar-inference) · AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions
 
 ### 计算机视觉
 
@@ -39,6 +40,8 @@
 - [多实例图像到三维](../papers/computer-vision.md#cai26n-inference) · TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity
 - [低延迟图像压缩](../papers/computer-vision.md#cao26e-inference) · Efficient Learned Image Compression without Entropy Coding
 - [扩散正负概念引导](../papers/computer-vision.md#chang26c-inference) · ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts
+- [免训练视频异常检测](../papers/computer-vision.md#chen26v-inference) · PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling
+- [归一化流采样](../papers/computer-vision.md#chen26aj-inference) · Normalizing Flows with Iterative Denoising
 
 ### 自然语言处理
 
@@ -57,6 +60,7 @@
 - [扩散预测控制](../papers/robotics.md#balim26a-inference) · Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making
 - [压缩空间运动规划](../papers/robotics.md#beyer26a-inference) · Motion Planning in Compressed Representation Spaces
 - [移动操作站位](../papers/robotics.md#chai26a-inference) · N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout
+- [概率场景图导航](../papers/robotics.md#chen26i-inference) · PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making
 
 ### 多模态学习
 
@@ -67,12 +71,15 @@
 - [扩散对抗净化](../papers/multimodal.md#bai26b-inference) · Two Modalities Are Better Than One: Efficient Adversarial Purification via Multimodal Diffusion Models
 - [三维生成引导](../papers/multimodal.md#bai26d-inference) · Let Language Constrain Geometry: Vision–Language Models as Semantic and Spatial Critics for 3D Generation
 - [视觉语言推理控制](../papers/multimodal.md#bi26d-inference) · Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking
+- [多模态上下文记忆](../papers/multimodal.md#chen26m-inference) · Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning
 
 ### 机器学习基础与统计
 
 - [未归一化分布采样](../papers/ml-foundations.md#blessing26a-inference) · Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching
 - [生成式模型遗忘](../papers/ml-foundations.md#block26a-inference) · Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance
 - [条件扩散采样](../papers/ml-foundations.md#castro-maci-as26a-inference) · Conditional Diffusion Sampling
+- [贝叶斯逆问题采样](../papers/ml-foundations.md#chen26f-inference) · Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators
+- [分块扩散注意力缓存](../papers/ml-foundations.md#chen26g-inference) · FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion
 
 ### 图学习与推荐
 

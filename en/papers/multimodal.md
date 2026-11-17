@@ -25,6 +25,15 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) | [Read insight (中文)](../../papers/multimodal.md#barrios26a-modules) |
 
+<a id="by-loss-functions"></a>
+
+### Loss Functions
+
+| Paper | Insight |
+| :--- | :--- |
+| [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://proceedings.mlr.press/v306/chefer26a.html) | [Read insight (中文)](../../papers/multimodal.md#chefer26a-loss-functions) |
+| [Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks](https://proceedings.mlr.press/v306/chen26au.html) | [Read insight (中文)](../../papers/multimodal.md#chen26au-loss-functions) |
+
 <a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning Methods
@@ -42,6 +51,7 @@ The linked short insights are available in Chinese.
 | [Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning](https://proceedings.mlr.press/v306/alipour-talemi26a.html) | [Read insight (中文)](../../papers/multimodal.md#alipour-talemi26a-training-strategies) |
 | [TRACER: Persistent Regularization for Robust Multimodal Finetuning](https://proceedings.mlr.press/v306/asadollahzadeh26a.html) | [Read insight (中文)](../../papers/multimodal.md#asadollahzadeh26a-training-strategies) |
 | [Seeing to Generalize: How Visual Data Corrects Binding Shortcuts](https://proceedings.mlr.press/v306/buzeta26a.html) | [Read insight (中文)](../../papers/multimodal.md#buzeta26a-training-strategies) |
+| [Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](https://proceedings.mlr.press/v306/chen26am.html) | [Read insight (中文)](../../papers/multimodal.md#chen26am-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -54,6 +64,7 @@ The linked short insights are available in Chinese.
 | [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://proceedings.mlr.press/v306/bo26b.html) | [Read insight (中文)](../../papers/multimodal.md#bo26b-data-strategies) |
 | [Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation](https://proceedings.mlr.press/v306/cao26aa.html) | [Read insight (中文)](../../papers/multimodal.md#cao26aa-data-strategies) |
 | [From Diagrams to Code: Multilingual Programming with Visual Design](https://proceedings.mlr.press/v306/chai26b.html) | [Read insight (中文)](../../papers/multimodal.md#chai26b-data-strategies) |
+| [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](https://proceedings.mlr.press/v306/chen26c.html) | [Read insight (中文)](../../papers/multimodal.md#chen26c-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -68,6 +79,15 @@ The linked short insights are available in Chinese.
 | [Two Modalities Are Better Than One: Efficient Adversarial Purification via Multimodal Diffusion Models](https://proceedings.mlr.press/v306/bai26b.html) | [Read insight (中文)](../../papers/multimodal.md#bai26b-inference) |
 | [Let Language Constrain Geometry: Vision–Language Models as Semantic and Spatial Critics for 3D Generation](https://proceedings.mlr.press/v306/bai26d.html) | [Read insight (中文)](../../papers/multimodal.md#bai26d-inference) |
 | [Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking](https://proceedings.mlr.press/v306/bi26d.html) | [Read insight (中文)](../../papers/multimodal.md#bi26d-inference) |
+| [Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning](https://proceedings.mlr.press/v306/chen26m.html) | [Read insight (中文)](../../papers/multimodal.md#chen26m-inference) |
+
+<a id="by-representation-learning"></a>
+
+### Representation Learning
+
+| Paper | Insight |
+| :--- | :--- |
+| [Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](https://proceedings.mlr.press/v306/chen26ag.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ag-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -80,6 +100,7 @@ The linked short insights are available in Chinese.
 | [Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](https://proceedings.mlr.press/v306/bouguerra26a.html) | [Read insight (中文)](../../papers/multimodal.md#bouguerra26a-evaluation) |
 | [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](https://proceedings.mlr.press/v306/cao26i.html) | [Read insight (中文)](../../papers/multimodal.md#cao26i-evaluation) |
 | [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://proceedings.mlr.press/v306/cao26v.html) | [Read insight (中文)](../../papers/multimodal.md#cao26v-evaluation) |
+| [FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](https://proceedings.mlr.press/v306/chen26ad.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ad-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

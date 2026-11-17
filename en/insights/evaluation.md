@@ -54,6 +54,12 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [How2Everything: Mining the Web for How-to Procedures to Evaluate and Improve LLMs](../../papers/llm.md#chang26e-evaluation) · 中文
 - [Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](../../papers/llm.md#chanin26a-evaluation) · 中文
 - [Token-Efficient Change Detection in LLM APIs](../../papers/llm.md#chauvin26a-evaluation) · 中文
+- [CausalGame: Benchmarking Causal Thinking of LLM Agents in Games](../../papers/llm.md#chen26l-evaluation) · 中文
+- [Mind the Gap: Catching Hallucinations via Evidence Drop on the Reasoning Manifold](../../papers/llm.md#chen26n-evaluation) · 中文
+- [OPT-Engine: Benchmarking the Limits of LLMs in Optimization Modeling via Complexity Scaling](../../papers/llm.md#chen26o-evaluation) · 中文
+- [L-CUBE: Isolating Long-Context Capacity from Knowledge with Controllable Mutual Information Scaling](../../papers/llm.md#chen26q-evaluation) · 中文
+- [Adaptive Probe-based Steering for Robust LLM Jailbreaking](../../papers/llm.md#chen26x-evaluation) · 中文
+- [The Unlearnability Phenomenon in RLVR for Language Models](../../papers/llm.md#chen26aq-evaluation) · 中文
 
 ### Computer Vision
 
@@ -62,11 +68,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](../../papers/computer-vision.md#alexis26a-evaluation) · 中文
 - [Proactive Defense Benchmark against Deepfake Generation](../../papers/computer-vision.md#baek26e-evaluation) · 中文
 - [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../../papers/computer-vision.md#braun26b-evaluation) · 中文
+- [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](../../papers/computer-vision.md#chen26az-evaluation) · 中文
 
 ### Natural Language Processing
 
 - [TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](../../papers/nlp.md#altintas26a-evaluation) · 中文
 - [VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](../../papers/nlp.md#basha26a-evaluation) · 中文
+- [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](../../papers/nlp.md#chen26av-evaluation) · 中文
 
 ### Reinforcement Learning
 
@@ -84,6 +92,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](../../papers/multimodal.md#bouguerra26a-evaluation) · 中文
 - [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](../../papers/multimodal.md#cao26i-evaluation) · 中文
 - [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](../../papers/multimodal.md#cao26v-evaluation) · 中文
+- [FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](../../papers/multimodal.md#chen26ad-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 

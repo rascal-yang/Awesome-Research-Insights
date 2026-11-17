@@ -28,6 +28,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Sparser, Faster, Lighter Transformer Language Models](../../papers/llm.md#cetin26a-inference) · 中文
 - [KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](../../papers/llm.md#cha26a-inference) · 中文
 - [xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction](../../papers/llm.md#chang26d-inference) · 中文
+- [AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions](../../papers/llm.md#chen26ar-inference) · 中文
 
 ### Computer Vision
 
@@ -39,6 +40,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](../../papers/computer-vision.md#cai26n-inference) · 中文
 - [Efficient Learned Image Compression without Entropy Coding](../../papers/computer-vision.md#cao26e-inference) · 中文
 - [ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](../../papers/computer-vision.md#chang26c-inference) · 中文
+- [PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](../../papers/computer-vision.md#chen26v-inference) · 中文
+- [Normalizing Flows with Iterative Denoising](../../papers/computer-vision.md#chen26aj-inference) · 中文
 
 ### Natural Language Processing
 
@@ -57,6 +60,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](../../papers/robotics.md#balim26a-inference) · 中文
 - [Motion Planning in Compressed Representation Spaces](../../papers/robotics.md#beyer26a-inference) · 中文
 - [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](../../papers/robotics.md#chai26a-inference) · 中文
+- [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](../../papers/robotics.md#chen26i-inference) · 中文
 
 ### Multimodal Learning
 
@@ -67,12 +71,15 @@ Decoding, test-time adaptation, and efficient execution.
 - [Two Modalities Are Better Than One: Efficient Adversarial Purification via Multimodal Diffusion Models](../../papers/multimodal.md#bai26b-inference) · 中文
 - [Let Language Constrain Geometry: Vision–Language Models as Semantic and Spatial Critics for 3D Generation](../../papers/multimodal.md#bai26d-inference) · 中文
 - [Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking](../../papers/multimodal.md#bi26d-inference) · 中文
+- [Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning](../../papers/multimodal.md#chen26m-inference) · 中文
 
 ### Machine Learning Foundations and Statistics
 
 - [Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching](../../papers/ml-foundations.md#blessing26a-inference) · 中文
 - [Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](../../papers/ml-foundations.md#block26a-inference) · 中文
 - [Conditional Diffusion Sampling](../../papers/ml-foundations.md#castro-maci-as26a-inference) · 中文
+- [Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators](../../papers/ml-foundations.md#chen26f-inference) · 中文
+- [FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](../../papers/ml-foundations.md#chen26g-inference) · 中文
 
 ### Graph Learning and Recommendation
 

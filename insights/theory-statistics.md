@@ -15,6 +15,7 @@
 - [自回归与能量模型](../papers/llm.md#blondel26a-theory-statistics) · Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction
 - [语言数据缩放律](../papers/llm.md#cagnetta26a-theory-statistics) · Deriving Neural Scaling Laws from the Statistics of Natural Language
 - [多候选偏好对齐](../papers/llm.md#cai26p-theory-statistics) · Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling
+- [思维链内模拟梯度下降](../papers/llm.md#chen26ae-theory-statistics) · Chain-of-Thought Gradient Descent
 
 ### 计算机视觉
 
@@ -110,6 +111,8 @@
 - [Wasserstein 生成模型](../papers/ml-foundations.md#caucheteux26a-theory-statistics) · A Unifying View of Variational Generative Wasserstein Flows
 - [持续学习参与隐私](../papers/ml-foundations.md#chan26b-theory-statistics) · Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe
 - [关系推理的线性传播](../papers/ml-foundations.md#chang26f-theory-statistics) · Dynamics Reveals Structure: Challenging the Linear Propagation Assumption
+- [扩散采样复杂度](../papers/ml-foundations.md#chen26p-theory-statistics) · High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions
+- [组级变量发现](../papers/ml-foundations.md#chen26af-theory-statistics) · Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity
 
 ### 图学习与推荐
 

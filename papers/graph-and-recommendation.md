@@ -14,6 +14,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bandyopadhyay26a-architecture"></a>[RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](https://proceedings.mlr.press/v306/bandyopadhyay26a.html) | 知识图谱多跳问答 | 用 GRU 更新查询表示，让连续相关性分数穿过与问题缺少词汇重合的桥接节点，再提取稀疏推理路径给生成器。 |
+| <a id="chen26al-architecture"></a>[OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) | 生成式电商检索 | 用关键词增强的层级量化编码表示商品，再把短期和长期用户行为送入同一个生成检索模型，统一学习相关性与个体偏好。 |
 
 <a id="by-modules"></a>
 
@@ -32,6 +33,7 @@
 | :--- | :--- | :--- |
 | <a id="bai26g-optimization"></a>[Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://proceedings.mlr.press/v306/bai26g.html) | 图粗化 | 评估合并时优先考虑对整个邻域的干扰，减少逐节点全局匹配。局部各向同性允许把高节点度带来的额外计算消掉。 |
 | <a id="chakraborty26b-optimization"></a>[Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) | 公平排序聚合 | 把群体代表性约束写入前 k 位的排序聚合，可求得该前缀问题的最优解。若要为所有候选排序，则论文给出二倍近似。 |
+| <a id="chen26b-optimization"></a>[Differentially Private Range Subgraph Counting](https://proceedings.mlr.press/v306/chen26b.html) | 隐私图查询 | 把属性范围内固定模式的子图计数映射为加权正交范围查询，再用局部灵敏度加噪。理论下界说明高维属性会使误差显著增加。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -76,6 +78,7 @@
 | :--- | :--- | :--- |
 | <a id="behmanesh26a-representation-learning"></a>[Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](https://proceedings.mlr.press/v306/behmanesh26a.html) | 跨图对齐 | 先向节点嵌入注入高频信息以保留局部区分度，再在对应映射上做低通平滑，分别处理节点过平滑与跨图匹配噪声。 |
 | <a id="cai26f-representation-learning"></a>[CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | 高阶关系表征 | 把高阶关系拆成多个不完整查询与补全实体，用查询非对称地调制候选实体表征，再做对比对齐。 |
+| <a id="chen26ak-representation-learning"></a>[SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | 跨模态生成式推荐 | 抑制模型过度依赖占优模态，让推荐生成器学习只有联合读取图像与文本才能辨识的商品属性。 |
 
 <a id="by-evaluation"></a>
 

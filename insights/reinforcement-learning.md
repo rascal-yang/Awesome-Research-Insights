@@ -51,10 +51,14 @@
 - [示范驱动的逆强化学习](../papers/llm.md#cai26k-reinforcement-learning) · Escaping the Verifier: Learning to Reason via Demonstrations
 - [形式逻辑过程奖励](../papers/llm.md#cao26y-reinforcement-learning) · Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models
 - [跨语言代码强化学习](../papers/llm.md#chai26c-reinforcement-learning) · GXPO: Group Cross-Lingual Relative Policy Optimization for Code Generation
+- [事实性二元奖励](../papers/llm.md#chen26a-reinforcement-learning) · Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations
+- [无监督强化学习分布匹配](../papers/llm.md#chen26k-reinforcement-learning) · PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching
+- [语言模型状态价值估计](../papers/llm.md#chen26w-reinforcement-learning) · Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning
 
 ### 计算机视觉
 
 - [多奖励生成优化](../papers/computer-vision.md#ba26a-reinforcement-learning) · Pareto-Guided Optimal Transport for Multi-Reward Alignment
+- [流匹配测试时优化](../papers/computer-vision.md#chen26as-reinforcement-learning) · Test-Time Reinforcement Learning for Flow Matching
 
 ### 自然语言处理
 

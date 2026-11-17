@@ -96,6 +96,11 @@ The linked short insights are available in Chinese.
 | [Efficient Online Variational Estimation via Monte Carlo Sampling](https://proceedings.mlr.press/v306/chagneux26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chagneux26a-optimization) |
 | [Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes](https://proceedings.mlr.press/v306/chakraborty26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#chakraborty26c-optimization) |
 | [Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem](https://proceedings.mlr.press/v306/chao26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chao26a-optimization) |
+| [Iterated Population Based Training with Task-Agnostic Restarts](https://proceedings.mlr.press/v306/chebykin26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chebykin26a-optimization) |
+| [Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity](https://proceedings.mlr.press/v306/chekalina26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chekalina26a-optimization) |
+| [Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination](https://proceedings.mlr.press/v306/chen26e.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26e-optimization) |
+| [Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching](https://proceedings.mlr.press/v306/chen26ah.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ah-optimization) |
+| [IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation](https://proceedings.mlr.press/v306/chen26ax.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ax-optimization) |
 
 <a id="by-training-strategies"></a>
 
@@ -112,6 +117,9 @@ The linked short insights are available in Chinese.
 | [One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models](https://proceedings.mlr.press/v306/cameron26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cameron26a-training-strategies) |
 | [Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](https://proceedings.mlr.press/v306/cao26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26a-training-strategies) |
 | [Discrete Diffusion Samplers and Bridges: Off-Policy Algorithms and Applications in Latent Spaces](https://proceedings.mlr.press/v306/carter26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#carter26a-training-strategies) |
+| [Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch](https://proceedings.mlr.press/v306/che26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#che26a-training-strategies) |
+| [Adapting Noise to Data: Generative Flows from Learned 1D Processes](https://proceedings.mlr.press/v306/chemseddine26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chemseddine26a-training-strategies) |
+| [Test-Time Learning of Causal Structure from Interventional Data](https://proceedings.mlr.press/v306/chen26t.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26t-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -122,6 +130,7 @@ The linked short insights are available in Chinese.
 | [The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue](https://proceedings.mlr.press/v306/afshani26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#afshani26a-data-strategies) |
 | [Causal Preference Elicitation](https://proceedings.mlr.press/v306/bonilla26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bonilla26a-data-strategies) |
 | [Probably Approximately Correct Labels](https://proceedings.mlr.press/v306/candes26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#candes26a-data-strategies) |
+| [Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning](https://proceedings.mlr.press/v306/chen26ac.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ac-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -132,6 +141,8 @@ The linked short insights are available in Chinese.
 | [Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching](https://proceedings.mlr.press/v306/blessing26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#blessing26a-inference) |
 | [Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](https://proceedings.mlr.press/v306/block26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#block26a-inference) |
 | [Conditional Diffusion Sampling](https://proceedings.mlr.press/v306/castro-maci-as26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#castro-maci-as26a-inference) |
+| [Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators](https://proceedings.mlr.press/v306/chen26f.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26f-inference) |
+| [FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://proceedings.mlr.press/v306/chen26g.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26g-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -146,6 +157,8 @@ The linked short insights are available in Chinese.
 | [Distribution Alignment for One-Shot Federated Learning via Optimal Transport](https://proceedings.mlr.press/v306/berardini26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#berardini26a-representation-learning) |
 | [Richer Bayesian Last Layers with Subsampled NTK Features](https://proceedings.mlr.press/v306/calvo-ordonez26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#calvo-ordonez26a-representation-learning) |
 | [Causal Feature Learning via Generalized Rayleigh Quotients](https://proceedings.mlr.press/v306/cao26t.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26t-representation-learning) |
+| [MetaOthello: A Controlled Study of Multiple World Models in Transformers](https://proceedings.mlr.press/v306/chawla26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chawla26a-representation-learning) |
+| [Vector Linking via Cross-Model Local Isometric Consistency](https://proceedings.mlr.press/v306/chen26h.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26h-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -230,4 +243,6 @@ The linked short insights are available in Chinese.
 | [A Unifying View of Variational Generative Wasserstein Flows](https://proceedings.mlr.press/v306/caucheteux26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#caucheteux26a-theory-statistics) |
 | [Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe](https://proceedings.mlr.press/v306/chan26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#chan26b-theory-statistics) |
 | [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://proceedings.mlr.press/v306/chang26f.html) | [Read insight (中文)](../../papers/ml-foundations.md#chang26f-theory-statistics) |
+| [High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions](https://proceedings.mlr.press/v306/chen26p.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26p-theory-statistics) |
+| [Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity](https://proceedings.mlr.press/v306/chen26af.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26af-theory-statistics) |
 <!-- classification:end -->

@@ -11,6 +11,7 @@
 
 - [离散扩散解码](../papers/llm.md#arriola26a-architecture) · Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding
 - [长任务 Agent 协作](../papers/llm.md#bui26b-architecture) · HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel
+- [科研 Agent 搜索](../papers/llm.md#chen26r-architecture) · MARS: Modular Agent with Reflective Search for Automated AI Research
 
 ### 计算机视觉
 
@@ -45,6 +46,7 @@
 ### 图学习与推荐
 
 - [知识图谱多跳问答](../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) · RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation
+- [生成式电商检索](../papers/graph-and-recommendation.md#chen26al-architecture) · OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search
 
 ### 科学机器学习
 
@@ -61,4 +63,6 @@
 - [无线传播建模](../papers/scientific-ml.md#bu26d-architecture) · Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling
 - [实验室布局生成](../papers/scientific-ml.md#cao26ad-architecture) · LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory
 - [生物声学定位](../papers/scientific-ml.md#chasmai26b-architecture) · Bioacoustic Geolocation: Species Sounds as Geographic Signals
+- [对流风暴短时预报](../papers/scientific-ml.md#chen26aa-architecture) · StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution
+- [电子密度条件分子生成](../papers/scientific-ml.md#chen26ai-architecture) · From Holo Pockets to Electron Density: GPT-style Drug Design with Density
 <!-- classification:end -->

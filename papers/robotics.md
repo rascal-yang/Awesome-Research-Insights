@@ -59,6 +59,23 @@
 | :--- | :--- | :--- |
 | <a id="aichmuller26a-reinforcement-learning"></a>[Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | 规划与强化学习 | 用关系图网络预测价值启发式来指导加权 A*，再用搜索产生的经验做 Q-learning，形成可自我改进的规划循环。 |
 
+<a id="by-training-strategies"></a>
+
+### 训练策略
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="chen26d-training-strategies"></a>[NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) | 终身轨迹规划 | 让非参数贝叶斯记忆按新驾驶场景增长簇，扩散规划器按簇专门化，并用旧簇生成回放样本以保留此前技能。 |
+
+<a id="by-data-strategies"></a>
+
+### 数据策略
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="chen26j-data-strategies"></a>[RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) | 双臂仿真数据生成 | 让多模态模型编写任务程序，由仿真执行结果反馈失败并引导改写。程序通过后再沿杂物、光照、背景、台面高度和语言等维度生成变体。 |
+| <a id="chen26ab-data-strategies"></a>[PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | 物理可用的桌面场景 | 先按锚点依赖顺序放置物体，再用可微 SDF 在测试时优化碰撞并约束语义关系，使生成布局更容易直接载入物理仿真。 |
+
 <a id="by-inference"></a>
 
 ### 推理策略
@@ -69,6 +86,7 @@
 | <a id="balim26a-inference"></a>[Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) | 扩散预测控制 | 在去噪过程中交替做任务规划和动力学修正，再按目标排序候选轨迹。动力学模型可以独立使用额外数据训练。 |
 | <a id="beyer26a-inference"></a>[Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | 压缩空间运动规划 | 用自编码器把轨迹压成粗到细的离散 token，在潜空间按测试时指定的目标搜索，兼顾训练数据里的行为先验与可更换的规划目标。 |
 | <a id="chai26a-inference"></a>[N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | 移动操作站位 | 用操控策略的 rollout 给候选站位打分，并通过视角增强学习对视角不敏感的站位偏好，把策略能否成功执行纳入导航目标。 |
+| <a id="chen26i-inference"></a>[PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | 概率场景图导航 | 保留每个节点的完整类别分布，从联合分布选取多个可能世界来评估候选地标，再用过去成败轨迹校准当前检测结果。 |
 
 <a id="by-evaluation"></a>
 

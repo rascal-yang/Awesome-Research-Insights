@@ -28,6 +28,8 @@ The linked short insights are available in Chinese.
 | [Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](https://proceedings.mlr.press/v306/bu26d.html) | [Read insight (中文)](../../papers/scientific-ml.md#bu26d-architecture) |
 | [LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory](https://proceedings.mlr.press/v306/cao26ad.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26ad-architecture) |
 | [Bioacoustic Geolocation: Species Sounds as Geographic Signals](https://proceedings.mlr.press/v306/chasmai26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#chasmai26b-architecture) |
+| [StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](https://proceedings.mlr.press/v306/chen26aa.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26aa-architecture) |
+| [From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://proceedings.mlr.press/v306/chen26ai.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ai-architecture) |
 
 <a id="by-modules"></a>
 
@@ -48,6 +50,8 @@ The linked short insights are available in Chinese.
 | [Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#anwer26a-loss-functions) |
 | [HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#byeon26a-loss-functions) |
 | [MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chasmai26a-loss-functions) |
+| [SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](https://proceedings.mlr.press/v306/chen26y.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26y-loss-functions) |
+| [FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](https://proceedings.mlr.press/v306/chen26at.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26at-loss-functions) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -67,6 +71,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](https://proceedings.mlr.press/v306/cao26r.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26r-training-strategies) |
 | [Tokenised Flow Matching for Hierarchical Simulation Based Inference](https://proceedings.mlr.press/v306/charles26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#charles26a-training-strategies) |
+| [EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting](https://proceedings.mlr.press/v306/chen26ao.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ao-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -99,6 +104,8 @@ The linked short insights are available in Chinese.
 | [Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](https://proceedings.mlr.press/v306/antoniadis26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#antoniadis26a-representation-learning) |
 | [Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://proceedings.mlr.press/v306/ariguib26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#ariguib26a-representation-learning) |
 | [A Machine-Learned Comorbidity Index](https://proceedings.mlr.press/v306/baloch26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#baloch26a-representation-learning) |
+| [Foundation VAEs for CT Reconstruction, Augmentation, and Generation](https://proceedings.mlr.press/v306/chen26u.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26u-representation-learning) |
+| [MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing](https://proceedings.mlr.press/v306/chen26ay.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ay-representation-learning) |
 
 <a id="by-evaluation"></a>
 

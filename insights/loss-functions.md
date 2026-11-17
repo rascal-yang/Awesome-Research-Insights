@@ -83,6 +83,11 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [动作表征监督](../papers/robotics.md#liu26bl-loss-functions) · LARA: Latent Action Representation Alignment for Vision-Language-Action Models
 - [目标区域重建](../papers/robotics.md#reconvla-loss-functions) · ReconVLA
 
+### 多模态学习
+
+- [自监督流匹配](../papers/multimodal.md#chefer26a-loss-functions) · Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis
+- [多模态提示泛化](../papers/multimodal.md#chen26au-loss-functions) · Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks
+
 ### 机器学习基础与统计
 
 - [分布偏移鲁棒性](../papers/ml-foundations.md#agirman26a-loss-functions) · Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift
@@ -97,4 +102,6 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [网格算子学习](../papers/scientific-ml.md#anwer26a-loss-functions) · Certificates for Complex-Compatible Learned Cochain Laplacians
 - [空间转录组预测](../papers/scientific-ml.md#byeon26a-loss-functions) · HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction
 - [生物声学辅助监督](../papers/scientific-ml.md#chasmai26a-loss-functions) · MetaPerch: Learning from metadata for bioacoustics foundation models
+- [心电与报告对齐](../papers/scientific-ml.md#chen26y-loss-functions) · SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning
+- [共病多标签表征](../papers/scientific-ml.md#chen26at-loss-functions) · FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis
 <!-- classification:end -->

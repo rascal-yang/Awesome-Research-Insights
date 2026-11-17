@@ -16,6 +16,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](https://proceedings.mlr.press/v306/bandyopadhyay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) |
+| [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26al-architecture) |
 
 <a id="by-modules"></a>
 
@@ -34,6 +35,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://proceedings.mlr.press/v306/bai26g.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bai26g-optimization) |
 | [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) |
+| [Differentially Private Range Subgraph Counting](https://proceedings.mlr.press/v306/chen26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26b-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -78,6 +80,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](https://proceedings.mlr.press/v306/behmanesh26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) |
 | [CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cai26f-representation-learning) |
+| [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) |
 
 <a id="by-evaluation"></a>
 

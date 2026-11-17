@@ -65,6 +65,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models](../../papers/llm.md#byun26a-modules) · 中文
 - [SpanNorm: Reconciling Training Stability and Performance in Deep Transformers](../../papers/llm.md#chao26b-modules) · 中文
 - [Doc-to-LoRA: Learning to Instantly Internalize Contexts](../../papers/llm.md#charakorn26a-modules) · 中文
+- [Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers](../../papers/llm.md#chen26aw-modules) · 中文
 
 ### Computer Vision
 

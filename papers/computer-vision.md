@@ -54,6 +54,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="ba26a-reinforcement-learning"></a>[Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://proceedings.mlr.press/v306/ba26a.html) | 多奖励生成优化 | 对同一个提示构造样本的 Pareto 前沿，再用最优传输把被支配样本推向前沿，降低整个数据集共用一个加权奖励所带来的投机空间。 |
+| <a id="chen26as-reinforcement-learning"></a>[Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) | 流匹配测试时优化 | 把中间潜变量看作待选择状态，在同一速度场中用随机 rollout 探索。先按高噪声阶段的奖励差稳定结构，再用组相对优势调整低噪声细节。 |
 
 <a id="by-training-strategies"></a>
 
@@ -64,6 +65,7 @@
 | <a id="bai26n-training-strategies"></a>[Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) | 少步生成蒸馏 | 当真实教师的引导失真、生成教师的排斥又不足时，用奖励代理识别异常区域，重新分配纠偏梯度并加强对坍缩模式的排斥。 |
 | <a id="cai26h-training-strategies"></a>[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | 长视频生成 | 用有限长视频监督全局流匹配头学习叙事与运动，再用冻结的短视频教师对滑窗局部做反向 KL 匹配，让长程一致性与局部质感各有监督。 |
 | <a id="cao26o-training-strategies"></a>[Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | 动态参数高效微调 | 定期重测视觉 Transformer 各处的敏感性，把学过的适配模块冻结，再将可训练参数额度分给新出现的敏感位置。 |
+| <a id="chavhan26a-training-strategies"></a>[NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | 端侧文生图蒸馏 | 分阶段裁剪扩散 Transformer，并只让中间块用降采样 token；再用去噪器早期层的视觉信号蒸馏文本编码器，把压缩分摊到多个环节。 |
 
 <a id="by-data-strategies"></a>
 
@@ -73,6 +75,7 @@
 | :--- | :--- | :--- |
 | <a id="cai26m-data-strategies"></a>[FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) | 图像训练数据保护 | 训练扰动生成器时随机遮掉连续频带，再约束高低频一致，降低保护信号被低通滤波一次清除的风险。 |
 | <a id="cao26s-data-strategies"></a>[Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://proceedings.mlr.press/v306/cao26s.html) | 合成图检测 | 用当前检测器给生成样本打分，再沿生成模型的内部表征寻找难识别的真实感图像。把这些漏检候选回灌训练，可补足标准采样探索不到的区域。 |
+| <a id="chen26s-data-strategies"></a>[When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](https://proceedings.mlr.press/v306/chen26s.html) | 生成偏好数据 | 以真实图像作偏好基准，将模型生成结果或扰动样本作为对照，可以在缺少人工偏好对时构造图像对齐监督。 |
 
 <a id="by-inference"></a>
 
@@ -88,6 +91,8 @@
 | <a id="cai26n-inference"></a>[TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | 多实例图像到三维 | 去噪早期用实例级分离引导避免对象粘连，再用几何适应更新稳住形状及相对布局，无需训练多实例模型。 |
 | <a id="cao26e-inference"></a>[Efficient Learned Image Compression without Entropy Coding](https://proceedings.mlr.press/v306/cao26e.html) | 低延迟图像压缩 | 用向量量化减小索引频率不均，再用条件自回归变换减少潜变量间依赖，使紧凑码流可以省掉串行熵编码。 |
 | <a id="chang26c-inference"></a>[ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](https://proceedings.mlr.press/v306/chang26c.html) | 扩散正负概念引导 | 用对比损失分别吸引所需概念和排斥不需要的概念，避免简单取反无分类器引导时把样本推离可生成的分布。 |
+| <a id="chen26v-inference"></a>[PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](https://proceedings.mlr.press/v306/chen26v.html) | 免训练视频异常检测 | 利用冻结多模态嵌入，在特征空间做差分放大和白化，抑制正常背景共有成分，从而用低开销提高异常信号的可辨识度。 |
+| <a id="chen26aj-inference"></a>[Normalizing Flows with Iterative Denoising](https://proceedings.mlr.press/v306/chen26aj.html) | 归一化流采样 | 保持训练端到端最大似然，采样时在自回归输出后追加迭代去噪，从而把精确似然训练与多步图像细化结合。 |
 
 <a id="by-representation-learning"></a>
 
@@ -112,6 +117,7 @@
 | <a id="alexis26a-evaluation"></a>[GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) | 扩散模型域外检测 | 检查输入做旋转或翻转后，扩散分数场是否相应变换。即使分数幅值相近，等变性残差也能暴露域外样本。 |
 | <a id="baek26e-evaluation"></a>[Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | 深伪防御评测 | 把输出画质和身份保真度分开评估，并校准生成器固有的身份偏差。白盒防御表现特别强时也要检查是否损害跨生成器迁移。 |
 | <a id="braun26b-evaluation"></a>[Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | 扩散模型概念遗忘 | 通过测试擦除前写入的触发关联能否在遗忘后复现概念，可以检查现有擦除方法是否还保留潜在生成路径。 |
+| <a id="chen26az-evaluation"></a>[Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | 生成模型后门评测 | 后门可能对语义相同的改写提示共同触发，枚举固定字符串容易漏检。可用语义等价改写、部分语义和正常输入分别测触发、误触发和正常质量。 |
 
 <a id="by-theory-statistics"></a>
 
