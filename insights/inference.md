@@ -600,6 +600,7 @@
 - [在离散生成中蒸馏连续单纯形大步](../conferences/icml-2026/cards/3801-3900.md#roos26a-inference) · Categorical Flow Maps
 - [仿真错设下的两层后验校准](../conferences/icml-2026/cards/3901-4000.md#ruhlmann26a-inference) · Flow Matching Calibration for Simulation-Based Inference under Model Misspecification
 - [用谱采样的加权键集压缩注意力](../conferences/icml-2026/cards/3901-4000.md#schroder26a-inference) · WildCat: Near-Linear Attention in Theory and Practice
+- [在Brownian扩散流匹配末端缩步以控制早停误差](../conferences/icml-2026/cards/4101-4200.md#silveri26a-inference) · Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees
 
 <a id="by-graph-and-recommendation"></a>
 

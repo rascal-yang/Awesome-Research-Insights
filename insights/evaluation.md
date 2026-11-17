@@ -288,6 +288,8 @@
 - [分开验证修补与完整工作流](../conferences/icml-2026/cards/4101-4200.md#shi26r-evaluation) · CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities
 - [检索与知识执行分离评测](../conferences/icml-2026/cards/4101-4200.md#shi26ah-evaluation) · $τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge
 - [逐声明风险与局部修复](../conferences/icml-2026/cards/4101-4200.md#shihab26a-evaluation) · CGRiC: Compositional Risk Certification for Structured LLM Outputs
+- [把研究代理的平均奖励和上尾质量分开监控](../conferences/icml-2026/cards/4101-4200.md#si26b-evaluation) · Towards Execution-Grounded Automated AI Research
+- [评测多轮惯性时控制话题结构与历史长度](../conferences/icml-2026/cards/4101-4200.md#simhi26a-evaluation) · Old Habits Die Hard: How Conversational History Geometrically Traps LLMs
 
 <a id="by-computer-vision"></a>
 

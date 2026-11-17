@@ -288,6 +288,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities](../../conferences/icml-2026/cards/4101-4200.md#shi26r-evaluation) · 中文
 - [$τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge](../../conferences/icml-2026/cards/4101-4200.md#shi26ah-evaluation) · 中文
 - [CGRiC: Compositional Risk Certification for Structured LLM Outputs](../../conferences/icml-2026/cards/4101-4200.md#shihab26a-evaluation) · 中文
+- [Towards Execution-Grounded Automated AI Research](../../conferences/icml-2026/cards/4101-4200.md#si26b-evaluation) · 中文
+- [Old Habits Die Hard: How Conversational History Geometrically Traps LLMs](../../conferences/icml-2026/cards/4101-4200.md#simhi26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

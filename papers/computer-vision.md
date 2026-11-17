@@ -138,6 +138,7 @@
 - <a id="ouyang26g-loss-functions"></a>[Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution](../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26g)
 - <a id="rakitin26a-loss-functions"></a>[One-step Optimal Transport via Regularized Distribution Matching Distillation](../conferences/icml-2026/cards/3801-3900.md#paper-rakitin26a)
 - <a id="shen26g-loss-functions"></a>[Rényi Diffusion Models](../conferences/icml-2026/cards/4001-4100.md#paper-shen26g)
+- <a id="simion26a-loss-functions"></a>[3DPoV: Improving 3D understanding via Patch Ordering on Videos](../conferences/icml-2026/cards/4101-4200.md#paper-simion26a)
 
 <a id="by-optimization"></a>
 

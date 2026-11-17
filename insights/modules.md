@@ -50,6 +50,7 @@
 - [概念方向进入解释提示的校准](../conferences/icml-2026/cards/3601-3700.md#pepper26a-modules) · Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs
 - [传输历史表示再按预测精度注意](../conferences/icml-2026/cards/3701-3800.md#racioppo26a-modules) · Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation
 - [按归一化权重适度削弱注意力汇聚](../conferences/icml-2026/cards/4101-4200.md#shi26y-modules) · A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models
+- [用频率幅度调制形成多尺度位置核](../conferences/icml-2026/cards/4101-4200.md#shujun26a-modules) · The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency
 
 <a id="by-computer-vision"></a>
 
@@ -100,6 +101,7 @@
 
 - [Agent 词表适配](../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents
 - [把低资源语种锚到英语语义并用语言感知头融合](../conferences/icml-2026/cards/2601-2700.md#li26jh-modules) · Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages
+- [用固定二维格点替代独立标量量化](../conferences/icml-2026/cards/4101-4200.md#shuster26a-modules) · Two-dimensional quantization for geometry-aware audio coding
 
 <a id="by-reinforcement-learning"></a>
 
@@ -203,6 +205,7 @@
 - [用 Schur 补把高阶作用折回顶点](../conferences/icml-2026/cards/2201-2300.md#krahn26a-modules) · Collapsed Effective Operators for Higher-order Structures
 - [双向建模图异常的局部谱能量偏移](../conferences/icml-2026/cards/2901-3000.md#liu26gb-modules) · Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection
 - [让图谱坐标旋转查询和键](../conferences/icml-2026/cards/3801-3900.md#reid26a-modules) · Rotary Position Encodings for Graphs
+- [在可学习图谱尺度上生成软超边](../conferences/icml-2026/cards/4101-4200.md#sim26b-modules) · Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis
 
 <a id="by-scientific-ml"></a>
 

@@ -186,6 +186,7 @@ Data selection, annotation, augmentation, and sampling.
 - [When Sample Selection Bias Precipitates Model Collapse](../../conferences/icml-2026/cards/3701-3800.md#qiao26c-data-strategies) · 中文
 - [Ambient Dataloops: Generative Models for Dataset Refinement](../../conferences/icml-2026/cards/3801-3900.md#rodriguez-munoz26a-data-strategies) · 中文
 - [One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](../../conferences/icml-2026/cards/4001-4100.md#shao26b-data-strategies) · 中文
+- [Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints](../../conferences/icml-2026/cards/4101-4200.md#singer26a-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -212,4 +213,5 @@ Data selection, annotation, augmentation, and sampling.
 - [Active Timepoint Selection for Learning Measure-Valued Trajectories](../../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · 中文
 - [Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../../conferences/icml-2026/cards/2601-2700.md#li26jn-data-strategies) · 中文
 - [Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression](../../conferences/icml-2026/cards/3901-4000.md#saegert26a-data-strategies) · 中文
+- [OSF: On Pre-training and Scaling of Sleep Foundation Models](../../conferences/icml-2026/cards/4101-4200.md#shuai26a-data-strategies) · 中文
 <!-- classification:end -->

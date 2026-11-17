@@ -73,6 +73,7 @@
 - <a id="shang26b-architecture"></a>[TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations](../conferences/icml-2026/cards/4001-4100.md#paper-shang26b)
 - <a id="shin26a-architecture"></a>[Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts](../conferences/icml-2026/cards/4101-4200.md#paper-shin26a)
 - <a id="shin26c-architecture"></a>[Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration](../conferences/icml-2026/cards/4101-4200.md#paper-shin26c)
+- <a id="sidheekh26a-architecture"></a>[Geometry-Aware Probabilistic Circuits via Voronoi Tessellations](../conferences/icml-2026/cards/4101-4200.md#paper-sidheekh26a)
 
 <a id="by-modules"></a>
 
@@ -385,6 +386,8 @@
 - <a id="shi26f-optimization"></a>[Regularized Discriminative Alignment for Deep Representations under Label Shift](../conferences/icml-2026/cards/4101-4200.md#paper-shi26f)
 - <a id="shi26x-optimization"></a>[Exploring Nonlinear Pathway in Parameter Space for Machine Unlearning](../conferences/icml-2026/cards/4101-4200.md#paper-shi26x)
 - <a id="shi26ae-optimization"></a>[Training Deep Spiking Neural Networks without Normalization](../conferences/icml-2026/cards/4101-4200.md#paper-shi26ae)
+- <a id="shulgin26a-optimization"></a>[General Analysis of LMO-based Optimizers: Beyond Bounded Variance](../conferences/icml-2026/cards/4101-4200.md#paper-shulgin26a)
+- <a id="shulgin26b-optimization"></a>[Understanding MARS: When Scaling Momentum Correction Provably Helps](../conferences/icml-2026/cards/4101-4200.md#paper-shulgin26b)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -461,6 +464,7 @@
 - <a id="shi26d-training-strategies"></a>[Coupled Training with Privileged Information and Unlabeled Data](../conferences/icml-2026/cards/4101-4200.md#paper-shi26d)
 - <a id="shin26d-training-strategies"></a>[Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching](../conferences/icml-2026/cards/4101-4200.md#paper-shin26d)
 - <a id="shlenskii26a-training-strategies"></a>[Overclocking Electrostatic Generative Models](../conferences/icml-2026/cards/4101-4200.md#paper-shlenskii26a)
+- <a id="simon26a-training-strategies"></a>[On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](../conferences/icml-2026/cards/4101-4200.md#paper-simon26a)
 
 <a id="by-data-strategies"></a>
 
@@ -491,6 +495,7 @@
 - <a id="qiao26c-data-strategies"></a>[When Sample Selection Bias Precipitates Model Collapse](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26c)
 - <a id="rodriguez-munoz26a-data-strategies"></a>[Ambient Dataloops: Generative Models for Dataset Refinement](../conferences/icml-2026/cards/3801-3900.md#paper-rodriguez-munoz26a)
 - <a id="shao26b-data-strategies"></a>[One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](../conferences/icml-2026/cards/4001-4100.md#paper-shao26b)
+- <a id="singer26a-data-strategies"></a>[Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints](../conferences/icml-2026/cards/4101-4200.md#paper-singer26a)
 
 <a id="by-inference"></a>
 
@@ -538,6 +543,7 @@
 - <a id="roos26a-inference"></a>[Categorical Flow Maps](../conferences/icml-2026/cards/3801-3900.md#paper-roos26a)
 - <a id="ruhlmann26a-inference"></a>[Flow Matching Calibration for Simulation-Based Inference under Model Misspecification](../conferences/icml-2026/cards/3901-4000.md#paper-ruhlmann26a)
 - <a id="schroder26a-inference"></a>[WildCat: Near-Linear Attention in Theory and Practice](../conferences/icml-2026/cards/3901-4000.md#paper-schroder26a)
+- <a id="silveri26a-inference"></a>[Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees](../conferences/icml-2026/cards/4101-4200.md#paper-silveri26a)
 
 <a id="by-representation-learning"></a>
 
@@ -593,6 +599,7 @@
 - <a id="park26p-representation-learning"></a>[The Information Geometry of Softmax: Probing and Steering](../conferences/icml-2026/cards/3501-3600.md#paper-park26p)
 - <a id="pence26a-representation-learning"></a>[Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories](../conferences/icml-2026/cards/3601-3700.md#paper-pence26a)
 - <a id="shamba26a-representation-learning"></a>[Divide and Contrast: Learning Robust Temporal Features without Augmentation](../conferences/icml-2026/cards/4001-4100.md#paper-shamba26a)
+- <a id="simon26b-representation-learning"></a>[Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability](../conferences/icml-2026/cards/4101-4200.md#paper-simon26b)
 
 <a id="by-evaluation"></a>
 

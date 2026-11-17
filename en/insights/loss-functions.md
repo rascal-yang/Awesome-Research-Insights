@@ -47,6 +47,7 @@ Objectives, auxiliary supervision, and regularization.
 - [LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding](../../conferences/icml-2026/cards/3901-4000.md#samarin26a-loss-functions) · 中文
 - [Temperature Scaling in Discrete Sequence (Language) Models](../../conferences/icml-2026/cards/3901-4000.md#scheufele26a-loss-functions) · 中文
 - [Multilingual Safety Alignment via Representation-Space Separability](../../conferences/icml-2026/cards/4101-4200.md#shi26e-loss-functions) · 中文
+- [Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks](../../conferences/icml-2026/cards/4101-4200.md#simko26a-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +74,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution](../../conferences/icml-2026/cards/3501-3600.md#ouyang26g-loss-functions) · 中文
 - [One-step Optimal Transport via Regularized Distribution Matching Distillation](../../conferences/icml-2026/cards/3801-3900.md#rakitin26a-loss-functions) · 中文
 - [Rényi Diffusion Models](../../conferences/icml-2026/cards/4001-4100.md#shen26g-loss-functions) · 中文
+- [3DPoV: Improving 3D understanding via Patch Ordering on Videos](../../conferences/icml-2026/cards/4101-4200.md#simion26a-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -188,6 +190,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Watermarking Graph Neural Networks via Explanations for Ownership Protection](../../conferences/icml-2026/cards/0901-1000.md#downer26a-loss-functions) · 中文
 - [Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](../../conferences/icml-2026/cards/2301-2400.md#lee26w-loss-functions) · 中文
 - [Differentially Private Cross-Silo Recommendation from Implicit Feedback](../../conferences/icml-2026/cards/3801-3900.md#ran26c-loss-functions) · 中文
+- [Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](../../conferences/icml-2026/cards/4101-4200.md#siampou26a-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

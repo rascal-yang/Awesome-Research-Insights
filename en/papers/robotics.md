@@ -93,6 +93,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="qiao26f-reinforcement-learning"></a>[Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26f)
 - <a id="ruan26c-reinforcement-learning"></a>[ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving](../../conferences/icml-2026/cards/3801-3900.md#paper-ruan26c)
 - <a id="shen26e-reinforcement-learning"></a>[Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26e)
+- <a id="simsir26a-reinforcement-learning"></a>[Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies](../../conferences/icml-2026/cards/4101-4200.md#paper-simsir26a)
 
 <a id="by-training-strategies"></a>
 

@@ -350,6 +350,7 @@
 - [关键帧奖励引导接触任务残差学习](../conferences/icml-2026/cards/3701-3800.md#qiao26f-reinforcement-learning) · Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning
 - [在可避撞边界附近搜硬场景](../conferences/icml-2026/cards/3801-3900.md#ruan26c-reinforcement-learning) · ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving
 - [在物理约束的语义沙盒学习可迁移导航规划](../conferences/icml-2026/cards/4001-4100.md#shen26e-reinforcement-learning) · Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation
+- [用拉格朗日残差噪声约束冻结生成策略的适配](../conferences/icml-2026/cards/4101-4200.md#simsir26a-reinforcement-learning) · Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies
 
 <a id="by-multimodal"></a>
 

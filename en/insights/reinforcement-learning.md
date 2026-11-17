@@ -350,6 +350,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qiao26f-reinforcement-learning) · 中文
 - [ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving](../../conferences/icml-2026/cards/3801-3900.md#ruan26c-reinforcement-learning) · 中文
 - [Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation](../../conferences/icml-2026/cards/4001-4100.md#shen26e-reinforcement-learning) · 中文
+- [Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies](../../conferences/icml-2026/cards/4101-4200.md#simsir26a-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 

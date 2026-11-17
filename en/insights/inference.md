@@ -600,6 +600,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Categorical Flow Maps](../../conferences/icml-2026/cards/3801-3900.md#roos26a-inference) · 中文
 - [Flow Matching Calibration for Simulation-Based Inference under Model Misspecification](../../conferences/icml-2026/cards/3901-4000.md#ruhlmann26a-inference) · 中文
 - [WildCat: Near-Linear Attention in Theory and Practice](../../conferences/icml-2026/cards/3901-4000.md#schroder26a-inference) · 中文
+- [Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees](../../conferences/icml-2026/cards/4101-4200.md#silveri26a-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

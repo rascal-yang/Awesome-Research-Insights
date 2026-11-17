@@ -21,6 +21,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="ma26an-architecture"></a>[ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26an)
 - <a id="ma26az-architecture"></a>[Scalable Traffic Signal Control with Shared Policy Framework](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26az)
 - <a id="marzo26a-architecture"></a>[This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic](../../conferences/icml-2026/cards/3201-3300.md#paper-marzo26a)
+- <a id="silva26a-architecture"></a>[Path-dependent Discrete Amortized Inference](../../conferences/icml-2026/cards/4101-4200.md#paper-silva26a)
 
 <a id="by-modules"></a>
 

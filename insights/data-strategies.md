@@ -186,6 +186,7 @@
 - [递归生成中的局部筛选偏差](../conferences/icml-2026/cards/3701-3800.md#qiao26c-data-strategies) · When Sample Selection Bias Precipitates Model Collapse
 - [保留残余噪声标签的训练数据迭代](../conferences/icml-2026/cards/3801-3900.md#rodriguez-munoz26a-data-strategies) · Ambient Dataloops: Generative Models for Dataset Refinement
 - [凝缩时保留时序频谱和变量依赖](../conferences/icml-2026/cards/4001-4100.md#shao26b-data-strategies) · One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis
+- [保留后验概率并在公平阈值处随机化标签聚合](../conferences/icml-2026/cards/4101-4200.md#singer26a-data-strategies) · Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -212,4 +213,5 @@
 - [在分布变化更快的内在时间上选择采样点](../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · Active Timepoint Selection for Learning Measure-Valued Trajectories
 - [用几何投影约束血管造影的狭窄编辑](../conferences/icml-2026/cards/2601-2700.md#li26jn-data-strategies) · Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport
 - [离线预计算短式改写以去重训练](../conferences/icml-2026/cards/3901-4000.md#saegert26a-data-strategies) · Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression
+- [用跨通道视图检验时序预训练的可迁移性](../conferences/icml-2026/cards/4101-4200.md#shuai26a-data-strategies) · OSF: On Pre-training and Scaling of Sleep Foundation Models
 <!-- classification:end -->

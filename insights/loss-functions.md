@@ -47,6 +47,7 @@
 - [让投机解码的草稿损失直接优化接受长度](../conferences/icml-2026/cards/3901-4000.md#samarin26a-loss-functions) · LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding
 - [用序列成对对数比消掉温度配分函数](../conferences/icml-2026/cards/3901-4000.md#scheufele26a-loss-functions) · Temperature Scaling in Discrete Sequence (Language) Models
 - [用跨语言安全间隔调节逐样本偏好训练](../conferences/icml-2026/cards/4101-4200.md#shi26e-loss-functions) · Multilingual Safety Alignment via Representation-Space Separability
+- [在惩罚两类失败的同时排序失败严重程度](../conferences/icml-2026/cards/4101-4200.md#simko26a-loss-functions) · Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +74,7 @@
 - [给地理半正样本分配软负标签](../conferences/icml-2026/cards/3501-3600.md#ouyang26g-loss-functions) · Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution
 - [同时拟合目标域和限制实例改动](../conferences/icml-2026/cards/3801-3900.md#rakitin26a-loss-functions) · One-step Optimal Transport via Regularized Distribution Matching Distillation
 - [用 Rényi 散度调整扩散训练的覆盖和保真](../conferences/icml-2026/cards/4001-4100.md#shen26g-loss-functions) · Rényi Diffusion Models
+- [沿视频轨迹对齐参考相似度的排序](../conferences/icml-2026/cards/4101-4200.md#simion26a-loss-functions) · 3DPoV: Improving 3D understanding via Patch Ordering on Videos
 
 <a id="by-nlp"></a>
 
@@ -188,6 +190,7 @@
 - [基于子图解释的模型水印](../conferences/icml-2026/cards/0901-1000.md#downer26a-loss-functions) · Watermarking Graph Neural Networks via Explanations for Ownership Protection
 - [按邻居类型重写图推荐的负样本分数](../conferences/icml-2026/cards/2301-2400.md#lee26w-loss-functions) · Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy
 - [隐式推荐的互补损失与私有分解](../conferences/icml-2026/cards/3801-3900.md#ran26c-loss-functions) · Differentially Private Cross-Silo Recommendation from Implicit Feedback
+- [以多空间尺度的分布教师辅助长尾实体表征](../conferences/icml-2026/cards/4101-4200.md#siampou26a-loss-functions) · Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement
 
 <a id="by-scientific-ml"></a>
 

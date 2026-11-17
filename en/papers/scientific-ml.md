@@ -115,6 +115,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="shah26b-architecture"></a>[dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning](../../conferences/icml-2026/cards/4001-4100.md#paper-shah26b)
 - <a id="shang26a-architecture"></a>[SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26a)
 - <a id="shi26i-architecture"></a>[Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26i)
+- <a id="si26a-architecture"></a>[FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction](../../conferences/icml-2026/cards/4101-4200.md#paper-si26a)
 
 <a id="by-modules"></a>
 
@@ -274,6 +275,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="huynh26a-data-strategies"></a>[Active Timepoint Selection for Learning Measure-Valued Trajectories](../../conferences/icml-2026/cards/1701-1800.md#paper-huynh26a)
 - <a id="li26jn-data-strategies"></a>[Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jn)
 - <a id="saegert26a-data-strategies"></a>[Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression](../../conferences/icml-2026/cards/3901-4000.md#paper-saegert26a)
+- <a id="shuai26a-data-strategies"></a>[OSF: On Pre-training and Scaling of Sleep Foundation Models](../../conferences/icml-2026/cards/4101-4200.md#paper-shuai26a)
 
 <a id="by-inference"></a>
 

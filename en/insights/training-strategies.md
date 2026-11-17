@@ -356,6 +356,7 @@ Training schedules, curricula, and task or stage composition.
 - [Coupled Training with Privileged Information and Unlabeled Data](../../conferences/icml-2026/cards/4101-4200.md#shi26d-training-strategies) · 中文
 - [Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching](../../conferences/icml-2026/cards/4101-4200.md#shin26d-training-strategies) · 中文
 - [Overclocking Electrostatic Generative Models](../../conferences/icml-2026/cards/4101-4200.md#shlenskii26a-training-strategies) · 中文
+- [On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](../../conferences/icml-2026/cards/4101-4200.md#simon26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

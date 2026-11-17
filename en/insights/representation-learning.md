@@ -229,6 +229,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [The Information Geometry of Softmax: Probing and Steering](../../conferences/icml-2026/cards/3501-3600.md#park26p-representation-learning) · 中文
 - [Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories](../../conferences/icml-2026/cards/3601-3700.md#pence26a-representation-learning) · 中文
 - [Divide and Contrast: Learning Robust Temporal Features without Augmentation](../../conferences/icml-2026/cards/4001-4100.md#shamba26a-representation-learning) · 中文
+- [Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability](../../conferences/icml-2026/cards/4101-4200.md#simon26b-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

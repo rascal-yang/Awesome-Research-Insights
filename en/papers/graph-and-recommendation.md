@@ -50,6 +50,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="krahn26a-modules"></a>[Collapsed Effective Operators for Higher-order Structures](../../conferences/icml-2026/cards/2201-2300.md#paper-krahn26a)
 - <a id="liu26gb-modules"></a>[Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gb)
 - <a id="reid26a-modules"></a>[Rotary Position Encodings for Graphs](../../conferences/icml-2026/cards/3801-3900.md#paper-reid26a)
+- <a id="sim26b-modules"></a>[Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis](../../conferences/icml-2026/cards/4101-4200.md#paper-sim26b)
 
 <a id="by-loss-functions"></a>
 
@@ -62,6 +63,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="downer26a-loss-functions"></a>[Watermarking Graph Neural Networks via Explanations for Ownership Protection](../../conferences/icml-2026/cards/0901-1000.md#paper-downer26a)
 - <a id="lee26w-loss-functions"></a>[Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26w)
 - <a id="ran26c-loss-functions"></a>[Differentially Private Cross-Silo Recommendation from Implicit Feedback](../../conferences/icml-2026/cards/3801-3900.md#paper-ran26c)
+- <a id="siampou26a-loss-functions"></a>[Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](../../conferences/icml-2026/cards/4101-4200.md#paper-siampou26a)
 
 <a id="by-optimization"></a>
 

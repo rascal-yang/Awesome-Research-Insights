@@ -100,6 +100,7 @@
 - <a id="pepper26a-modules"></a>[Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](../conferences/icml-2026/cards/3601-3700.md#paper-pepper26a)
 - <a id="racioppo26a-modules"></a>[Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation](../conferences/icml-2026/cards/3701-3800.md#paper-racioppo26a)
 - <a id="shi26y-modules"></a>[A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](../conferences/icml-2026/cards/4101-4200.md#paper-shi26y)
+- <a id="shujun26a-modules"></a>[The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency](../conferences/icml-2026/cards/4101-4200.md#paper-shujun26a)
 
 <a id="by-loss-functions"></a>
 
@@ -139,6 +140,7 @@
 - <a id="samarin26a-loss-functions"></a>[LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding](../conferences/icml-2026/cards/3901-4000.md#paper-samarin26a)
 - <a id="scheufele26a-loss-functions"></a>[Temperature Scaling in Discrete Sequence (Language) Models](../conferences/icml-2026/cards/3901-4000.md#paper-scheufele26a)
 - <a id="shi26e-loss-functions"></a>[Multilingual Safety Alignment via Representation-Space Separability](../conferences/icml-2026/cards/4101-4200.md#paper-shi26e)
+- <a id="simko26a-loss-functions"></a>[Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks](../conferences/icml-2026/cards/4101-4200.md#paper-simko26a)
 
 <a id="by-optimization"></a>
 
@@ -1143,6 +1145,8 @@
 - <a id="shi26r-evaluation"></a>[CyberGym-E2E: Scalable Real-World Benchmark for AI Agents’ End-to-End Cybersecurity Capabilities](../conferences/icml-2026/cards/4101-4200.md#paper-shi26r)
 - <a id="shi26ah-evaluation"></a>[$τ$-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge](../conferences/icml-2026/cards/4101-4200.md#paper-shi26ah)
 - <a id="shihab26a-evaluation"></a>[CGRiC: Compositional Risk Certification for Structured LLM Outputs](../conferences/icml-2026/cards/4101-4200.md#paper-shihab26a)
+- <a id="si26b-evaluation"></a>[Towards Execution-Grounded Automated AI Research](../conferences/icml-2026/cards/4101-4200.md#paper-si26b)
+- <a id="simhi26a-evaluation"></a>[Old Habits Die Hard: How Conversational History Geometrically Traps LLMs](../conferences/icml-2026/cards/4101-4200.md#paper-simhi26a)
 
 <a id="by-theory-statistics"></a>
 

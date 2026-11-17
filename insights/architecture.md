@@ -143,6 +143,7 @@
 - [连续控制演员评论家专家扩展](../conferences/icml-2026/cards/3101-3200.md#ma26an-architecture) · ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning
 - [路口共享策略动态路由](../conferences/icml-2026/cards/3101-3200.md#ma26az-architecture) · Scalable Traffic Signal Control with Shared Policy Framework
 - [以状态原型解释连续控制策略](../conferences/icml-2026/cards/3201-3300.md#marzo26a-architecture) · This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic
+- [用路径状态缓解离散采样策略的表征混叠](../conferences/icml-2026/cards/4101-4200.md#silva26a-architecture) · Path-dependent Discrete Amortized Inference
 
 <a id="by-robotics"></a>
 
@@ -267,6 +268,7 @@
 - [跨尺度语义检索增强的时序预测](../conferences/icml-2026/cards/4001-4100.md#shang26b-architecture) · TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations
 - [混合连续序列的终止校准](../conferences/icml-2026/cards/4101-4200.md#shin26a-architecture) · Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts
 - [观测频带编码与扩展查询](../conferences/icml-2026/cards/4101-4200.md#shin26c-architecture) · Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration
+- [让几何路由与概率电路分解对齐](../conferences/icml-2026/cards/4101-4200.md#sidheekh26a-architecture) · Geometry-Aware Probabilistic Circuits via Voronoi Tessellations
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -403,4 +405,5 @@
 - [用端到端层次分块压缩原始 DNA 并保留生物结构](../conferences/icml-2026/cards/4001-4100.md#shah26b-architecture) · dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning
 - [逐表达元素融合的空间转录组去噪](../conferences/icml-2026/cards/4001-4100.md#shang26a-architecture) · SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models
 - [把驱动噪声编码为Wick特征再学随机解算子](../conferences/icml-2026/cards/4101-4200.md#shi26i-architecture) · Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations
+- [高维节点与相关性边联合扩散的失败边界](../conferences/icml-2026/cards/4101-4200.md#si26a-architecture) · FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction
 <!-- classification:end -->

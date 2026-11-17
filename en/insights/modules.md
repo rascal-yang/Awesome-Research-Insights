@@ -50,6 +50,7 @@ Reusable components and local changes to model inputs or connections.
 - [Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](../../conferences/icml-2026/cards/3601-3700.md#pepper26a-modules) · 中文
 - [Robust Filter Attention: Self-Attention as Precision-Weighted State Estimation](../../conferences/icml-2026/cards/3701-3800.md#racioppo26a-modules) · 中文
 - [A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](../../conferences/icml-2026/cards/4101-4200.md#shi26y-modules) · 中文
+- [The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency](../../conferences/icml-2026/cards/4101-4200.md#shujun26a-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -100,6 +101,7 @@ Reusable components and local changes to model inputs or connections.
 
 - [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](../../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · 中文
 - [Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages](../../conferences/icml-2026/cards/2601-2700.md#li26jh-modules) · 中文
+- [Two-dimensional quantization for geometry-aware audio coding](../../conferences/icml-2026/cards/4101-4200.md#shuster26a-modules) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -203,6 +205,7 @@ Reusable components and local changes to model inputs or connections.
 - [Collapsed Effective Operators for Higher-order Structures](../../conferences/icml-2026/cards/2201-2300.md#krahn26a-modules) · 中文
 - [Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26gb-modules) · 中文
 - [Rotary Position Encodings for Graphs](../../conferences/icml-2026/cards/3801-3900.md#reid26a-modules) · 中文
+- [Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis](../../conferences/icml-2026/cards/4101-4200.md#sim26b-modules) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -143,6 +143,7 @@ Model-wide design and information flow.
 - [ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26an-architecture) · 中文
 - [Scalable Traffic Signal Control with Shared Policy Framework](../../conferences/icml-2026/cards/3101-3200.md#ma26az-architecture) · 中文
 - [This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic](../../conferences/icml-2026/cards/3201-3300.md#marzo26a-architecture) · 中文
+- [Path-dependent Discrete Amortized Inference](../../conferences/icml-2026/cards/4101-4200.md#silva26a-architecture) · 中文
 
 <a id="by-robotics"></a>
 
@@ -267,6 +268,7 @@ Model-wide design and information flow.
 - [TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations](../../conferences/icml-2026/cards/4001-4100.md#shang26b-architecture) · 中文
 - [Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts](../../conferences/icml-2026/cards/4101-4200.md#shin26a-architecture) · 中文
 - [Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration](../../conferences/icml-2026/cards/4101-4200.md#shin26c-architecture) · 中文
+- [Geometry-Aware Probabilistic Circuits via Voronoi Tessellations](../../conferences/icml-2026/cards/4101-4200.md#sidheekh26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -403,4 +405,5 @@ Model-wide design and information flow.
 - [dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning](../../conferences/icml-2026/cards/4001-4100.md#shah26b-architecture) · 中文
 - [SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models](../../conferences/icml-2026/cards/4001-4100.md#shang26a-architecture) · 中文
 - [Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](../../conferences/icml-2026/cards/4101-4200.md#shi26i-architecture) · 中文
+- [FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction](../../conferences/icml-2026/cards/4101-4200.md#si26a-architecture) · 中文
 <!-- classification:end -->

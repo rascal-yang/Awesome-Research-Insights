@@ -356,6 +356,7 @@
 - [让部署模型反向校准伪标签教师](../conferences/icml-2026/cards/4101-4200.md#shi26d-training-strategies) · Coupled Training with Privileged Information and Unlabeled Data
 - [先学数据到能量的生成耦合](../conferences/icml-2026/cards/4101-4200.md#shin26d-training-strategies) · Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching
 - [有限维泊松场蒸馏](../conferences/icml-2026/cards/4101-4200.md#shlenskii26a-training-strategies) · Overclocking Electrostatic Generative Models
+- [按均值偏移与有效秩诊断SAE特征死亡](../conferences/icml-2026/cards/4101-4200.md#simon26a-training-strategies) · On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders
 
 <a id="by-graph-and-recommendation"></a>
 
