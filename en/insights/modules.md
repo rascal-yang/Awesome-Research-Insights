@@ -139,6 +139,7 @@ Reusable components and local changes to model inputs or connections.
 - [Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](../../conferences/icml-2026/cards/3201-3300.md#mi26c-modules) · 中文
 - [Difference-Aware Decision Learning for Multimodal Image Fusion](../../conferences/icml-2026/cards/3501-3600.md#pan26d-modules) · 中文
 - [UGround: Towards Unified Visual Grounding with Unrolled Transformers](../../conferences/icml-2026/cards/3701-3800.md#qian26m-modules) · 中文
+- [LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention](../../conferences/icml-2026/cards/4001-4100.md#shao26k-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

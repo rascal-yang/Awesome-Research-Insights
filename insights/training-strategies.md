@@ -120,6 +120,9 @@
 - [在预训练梯度路由中建立可组合权限](../conferences/icml-2026/cards/3801-3900.md#roland26a-training-strategies) · Modular Pretraining Enables Access Control
 - [兼顾通用和长上下文的中期训练](../conferences/icml-2026/cards/3901-4000.md#runwal26a-training-strategies) · PRISM: Demystifying Retention and Interaction in Mid-Training
 - [弱奖励训练前先恢复正确探索](../conferences/icml-2026/cards/3901-4000.md#ryd26a-training-strategies) · Removing Sandbagging in LLMs by Training with Weak Supervision
+- [用预训练与专业续训的联合扩展律选拆分点](../conferences/icml-2026/cards/4001-4100.md#seto26a-training-strategies) · Optimal Splitting of Language Models from Mixtures to Specialized Domains
+- [用历史检查点的自生成轨迹缓解静态监督错配](../conferences/icml-2026/cards/4001-4100.md#shahroz26a-training-strategies) · TMS: Trajectory-Mixed Supervision for On-Policy Self Distillation
+- [长上下文语言模型的训练推理分段一致性](../conferences/icml-2026/cards/4001-4100.md#shang26c-training-strategies) · Training–Inference Consistent Segmented Execution for Long-Context LLMs
 
 <a id="by-computer-vision"></a>
 

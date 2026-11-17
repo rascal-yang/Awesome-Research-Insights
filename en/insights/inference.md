@@ -286,6 +286,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [EAGer: Entropy-Aware GEneRation for Adaptive Inference-Time Scaling](../../conferences/icml-2026/cards/3901-4000.md#scalena26a-inference) · 中文
 - [Provably Protecting Fine-Tuned LLMs from Training Data Extraction while Preserving Utility](../../conferences/icml-2026/cards/3901-4000.md#segal26a-inference) · 中文
 - [Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning](../../conferences/icml-2026/cards/3901-4000.md#seo26a-inference) · 中文
+- [MoLoRA: Composable Specialization via Per-Token Adapter Routing](../../conferences/icml-2026/cards/4001-4100.md#shah26d-inference) · 中文
+- [Modeling Hierarchical Thinking in Large Reasoning Models](../../conferences/icml-2026/cards/4001-4100.md#shahariar26a-inference) · 中文
+- [LUGS: Latent-aware Guidance for Efficient Unmasking in Diffusion Large Language Models](../../conferences/icml-2026/cards/4001-4100.md#shan26a-inference) · 中文
+- [MonoScale: Scaling Multi-Agent System with Monotonic Improvement](../../conferences/icml-2026/cards/4001-4100.md#shao26e-inference) · 中文
+- [Block Rotation is All You Need for MXFP4 Quantization](../../conferences/icml-2026/cards/4001-4100.md#shao26g-inference) · 中文
+- [Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks](../../conferences/icml-2026/cards/4001-4100.md#shao26i-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -382,6 +388,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [AdaSCALE: Adaptive Scaling for OOD Detection](../../conferences/icml-2026/cards/3801-3900.md#regmi26a-inference) · 中文
 - [FAST-AR: Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](../../conferences/icml-2026/cards/3901-4000.md#samuel26a-inference) · 中文
 - [MMD Guidance: Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance](../../conferences/icml-2026/cards/3901-4000.md#sani26a-inference) · 中文
+- [LieWarper: Geometry-Aware Motion Transfer via Lie Algebra](../../conferences/icml-2026/cards/4001-4100.md#shan26c-inference) · 中文
+- [T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing](../../conferences/icml-2026/cards/4001-4100.md#shan26d-inference) · 中文
+- [Fast and Scalable Analytical Diffusion](../../conferences/icml-2026/cards/4001-4100.md#shang26d-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -541,6 +550,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · 中文
 - [Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · 中文
 - [DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · 中文
+- [LiveFigure: Generating Editable Scientific Illustration with VLM Agents](../../conferences/icml-2026/cards/4001-4100.md#shao26f-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -649,4 +659,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline](../../conferences/icml-2026/cards/3901-4000.md#russo26b-inference) · 中文
 - [Training-Free Adversarial Robustness in Computational MRI](../../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · 中文
 - [Training-Free Bayesian Filtering with Generative Emulators](../../conferences/icml-2026/cards/3901-4000.md#savary26a-inference) · 中文
+- [Test-time Generalization for Physics through Neural Operator Splitting](../../conferences/icml-2026/cards/4001-4100.md#serrano26a-inference) · 中文
 <!-- classification:end -->

@@ -157,6 +157,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO](../../conferences/icml-2026/cards/3801-3900.md#ren26s-reinforcement-learning) · 中文
 - [When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM’s Adaptive Reasoning](../../conferences/icml-2026/cards/3801-3900.md#ren26u-reinforcement-learning) · 中文
 - [Online Rubrics Elicitation from Pairwise Comparisons](../../conferences/icml-2026/cards/3801-3900.md#rezaei26a-reinforcement-learning) · 中文
+- [Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](../../conferences/icml-2026/cards/4001-4100.md#setlur26a-reinforcement-learning) · 中文
+- [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](../../conferences/icml-2026/cards/4001-4100.md#shao26a-reinforcement-learning) · 中文
+- [Spurious Rewards: Rethinking Training Signals in RLVR](../../conferences/icml-2026/cards/4001-4100.md#shao26d-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -315,6 +318,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ICR-RL: Deep Reinforcement Learning via In-Context-Regression](../../conferences/icml-2026/cards/3901-4000.md#schiff26a-reinforcement-learning) · 中文
 - [Noisy-Space Policy Gradient for Diffusion Policies in Offline Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#selim26a-reinforcement-learning) · 中文
 - [A KL-regularization framework for learning to plan with adaptive priors](../../conferences/icml-2026/cards/4001-4100.md#serra-gomez26a-reinforcement-learning) · 中文
+- [Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL](../../conferences/icml-2026/cards/4001-4100.md#shakeri26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

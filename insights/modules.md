@@ -139,6 +139,7 @@
 - [共用跨模态适配器学习视频质量而非类别语义](../conferences/icml-2026/cards/3201-3300.md#mi26c-modules) · Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation
 - [频谱可靠性融合门控](../conferences/icml-2026/cards/3501-3600.md#pan26d-modules) · Difference-Aware Decision Learning for Multimodal Image Fusion
 - [分割词元跨层选择空间热图](../conferences/icml-2026/cards/3701-3800.md#qian26m-modules) · UGround: Towards Unified Visual Grounding with Unrolled Transformers
+- [按查询近似风险调注意力算量](../conferences/icml-2026/cards/4001-4100.md#shao26k-modules) · LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention
 
 <a id="by-ml-foundations"></a>
 

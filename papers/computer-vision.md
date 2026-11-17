@@ -166,6 +166,7 @@
 - <a id="liu26eh-optimization"></a>[Condition Number Based Low-Bit Quantization for Image Super-Resolution](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eh)
 - <a id="lv26j-optimization"></a>[SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization](../conferences/icml-2026/cards/3101-3200.md#paper-lv26j)
 - <a id="nehme26a-optimization"></a>[CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization](../conferences/icml-2026/cards/3401-3500.md#paper-nehme26a)
+- <a id="shaoran26a-optimization"></a>[CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation](../conferences/icml-2026/cards/4001-4100.md#paper-shaoran26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -367,6 +368,9 @@
 - <a id="regmi26a-inference"></a>[AdaSCALE: Adaptive Scaling for OOD Detection](../conferences/icml-2026/cards/3801-3900.md#paper-regmi26a)
 - <a id="samuel26a-inference"></a>[FAST-AR: Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](../conferences/icml-2026/cards/3901-4000.md#paper-samuel26a)
 - <a id="sani26a-inference"></a>[MMD Guidance: Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance](../conferences/icml-2026/cards/3901-4000.md#paper-sani26a)
+- <a id="shan26c-inference"></a>[LieWarper: Geometry-Aware Motion Transfer via Lie Algebra](../conferences/icml-2026/cards/4001-4100.md#paper-shan26c)
+- <a id="shan26d-inference"></a>[T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing](../conferences/icml-2026/cards/4001-4100.md#paper-shan26d)
+- <a id="shang26d-inference"></a>[Fast and Scalable Analytical Diffusion](../conferences/icml-2026/cards/4001-4100.md#paper-shang26d)
 
 <a id="by-representation-learning"></a>
 

@@ -65,6 +65,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="mi26c-modules"></a>[Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](../../conferences/icml-2026/cards/3201-3300.md#paper-mi26c)
 - <a id="pan26d-modules"></a>[Difference-Aware Decision Learning for Multimodal Image Fusion](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26d)
 - <a id="qian26m-modules"></a>[UGround: Towards Unified Visual Grounding with Unrolled Transformers](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26m)
+- <a id="shao26k-modules"></a>[LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention](../../conferences/icml-2026/cards/4001-4100.md#paper-shao26k)
 
 <a id="by-loss-functions"></a>
 
@@ -333,6 +334,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="qiu26v-inference"></a>[VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26v)
 - <a id="rout26a-inference"></a>[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../../conferences/icml-2026/cards/3801-3900.md#paper-rout26a)
 - <a id="seo26b-inference"></a>[DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-seo26b)
+- <a id="shao26f-inference"></a>[LiveFigure: Generating Editable Scientific Illustration with VLM Agents](../../conferences/icml-2026/cards/4001-4100.md#paper-shao26f)
 
 <a id="by-representation-learning"></a>
 
@@ -472,6 +474,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="saxena26b-evaluation"></a>[VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-saxena26b)
 - <a id="schulze-buschoff26a-evaluation"></a>[Can Vision Language Models Learn Intuitive Physics from Interaction?](../../conferences/icml-2026/cards/3901-4000.md#paper-schulze-buschoff26a)
 - <a id="sen26a-evaluation"></a>[BEDTime: A Unified Benchmark for Automatically Describing Time Series](../../conferences/icml-2026/cards/3901-4000.md#paper-sen26a)
+- <a id="sesmat26a-evaluation"></a>[Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../../conferences/icml-2026/cards/4001-4100.md#paper-sesmat26a)
 
 <a id="by-theory-statistics"></a>
 

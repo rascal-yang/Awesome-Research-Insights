@@ -313,6 +313,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [FormulaCode: Evaluating Agentic Optimization on Large Codebases](../../conferences/icml-2026/cards/3901-4000.md#sehgal26a-evaluation) · 中文
 - [SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?](../../conferences/icml-2026/cards/3901-4000.md#sehwag26a-evaluation) · 中文
 - [Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](../../conferences/icml-2026/cards/3901-4000.md#sel26a-evaluation) · 中文
+- [Frontier Models Can Take Actions at Low Probabilities](../../conferences/icml-2026/cards/4001-4100.md#serrano26b-evaluation) · 中文
+- [Domain Restriction via Multi SAE Layer Transitions](../../conferences/icml-2026/cards/4001-4100.md#shaheen26a-evaluation) · 中文
+- [ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark](../../conferences/icml-2026/cards/4001-4100.md#shalyt26a-evaluation) · 中文
+- [SciNet: Evaluating AI Agents in Relation-Aware Scientific Literature Retrieval](../../conferences/icml-2026/cards/4001-4100.md#shao26h-evaluation) · 中文
+- [DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions](../../conferences/icml-2026/cards/4001-4100.md#shao26j-evaluation) · 中文
+- [Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage](../../conferences/icml-2026/cards/4001-4100.md#sharma26a-evaluation) · 中文
+- [RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations](../../conferences/icml-2026/cards/4001-4100.md#sharma26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -522,6 +529,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#saxena26b-evaluation) · 中文
 - [Can Vision Language Models Learn Intuitive Physics from Interaction?](../../conferences/icml-2026/cards/3901-4000.md#schulze-buschoff26a-evaluation) · 中文
 - [BEDTime: A Unified Benchmark for Automatically Describing Time Series](../../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · 中文
+- [Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -578,6 +586,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [It’s TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](../../conferences/icml-2026/cards/3701-3800.md#qiao26g-evaluation) · 中文
 - [Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](../../conferences/icml-2026/cards/3801-3900.md#reuel26a-evaluation) · 中文
 - [Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · 中文
+- [MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

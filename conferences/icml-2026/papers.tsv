@@ -4005,58 +4005,58 @@ number	pmlr_id	title	paper_url	insight_status
 4004	seong-eun26a	A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search	https://proceedings.mlr.press/v306/seong-eun26a.html	written
 4005	serov26a	Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing	https://proceedings.mlr.press/v306/serov26a.html	written
 4006	serra-gomez26a	A KL-regularization framework for learning to plan with adaptive priors	https://proceedings.mlr.press/v306/serra-gomez26a.html	written
-4007	serrano26a	Test-time Generalization for Physics through Neural Operator Splitting	https://proceedings.mlr.press/v306/serrano26a.html	pending
-4008	serrano26b	Frontier Models Can Take Actions at Low Probabilities	https://proceedings.mlr.press/v306/serrano26b.html	pending
-4009	sesmat26a	Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path	https://proceedings.mlr.press/v306/sesmat26a.html	pending
-4010	sethi26a	Asymptotically Optimal Sequential Testing with Markovian Data	https://proceedings.mlr.press/v306/sethi26a.html	pending
-4011	setlur26a	Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes	https://proceedings.mlr.press/v306/setlur26a.html	pending
-4012	seto26a	Optimal Splitting of Language Models from Mixtures to Specialized Domains	https://proceedings.mlr.press/v306/seto26a.html	pending
-4013	sfyraki26a	Lions and Muons: Optimization via Stochastic Frank-Wolfe under Heavy-Tailed Noise	https://proceedings.mlr.press/v306/sfyraki26a.html	pending
-4014	shabalin26a	Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation	https://proceedings.mlr.press/v306/shabalin26a.html	pending
-4015	shaer26a	Testing For Distribution Shifts with Conditional Conformal Test Martingales	https://proceedings.mlr.press/v306/shaer26a.html	pending
-4016	shaffer26a	Structure-Preserving Learning Improves Geometry Generalization in Neural PDEs	https://proceedings.mlr.press/v306/shaffer26a.html	pending
-4017	shaffiey26a	Tri-Scale Neural ODEs for Continuous Multi-Omics Disease Modeling	https://proceedings.mlr.press/v306/shaffiey26a.html	pending
-4018	shafran26a	From Directions to Regions: Decomposing Activations in Language Models via Local Geometry	https://proceedings.mlr.press/v306/shafran26a.html	pending
-4019	shah26a	Fast k-means Seeding Under The Manifold Hypothesis	https://proceedings.mlr.press/v306/shah26a.html	pending
-4020	shah26b	dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning	https://proceedings.mlr.press/v306/shah26b.html	pending
-4021	shah26c	Even Faster Kernel Matrix Linear Algebra via Density Estimation	https://proceedings.mlr.press/v306/shah26c.html	pending
-4022	shah26d	MoLoRA: Composable Specialization via Per-Token Adapter Routing	https://proceedings.mlr.press/v306/shah26d.html	pending
-4023	shahariar26a	Modeling Hierarchical Thinking in Large Reasoning Models	https://proceedings.mlr.press/v306/shahariar26a.html	pending
-4024	shaheen26a	Domain Restriction via Multi SAE Layer Transitions	https://proceedings.mlr.press/v306/shaheen26a.html	pending
-4025	shahroz26a	TMS: Trajectory-Mixed Supervision for On-Policy Self Distillation	https://proceedings.mlr.press/v306/shahroz26a.html	pending
-4026	shahverdi26a	Identifiable Equivariant Networks are Layerwise Equivariant	https://proceedings.mlr.press/v306/shahverdi26a.html	pending
-4027	shai26a	Transformers learn factored representations	https://proceedings.mlr.press/v306/shai26a.html	pending
-4028	shaj26a	Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking	https://proceedings.mlr.press/v306/shaj26a.html	pending
-4029	shakeri26a	Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL	https://proceedings.mlr.press/v306/shakeri26a.html	pending
-4030	shalyt26a	ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark	https://proceedings.mlr.press/v306/shalyt26a.html	pending
-4031	shamba26a	Divide and Contrast: Learning Robust Temporal Features without Augmentation	https://proceedings.mlr.press/v306/shamba26a.html	pending
-4032	shan26a	LUGS: Latent-aware Guidance for Efficient Unmasking in Diffusion Large Language Models	https://proceedings.mlr.press/v306/shan26a.html	pending
-4033	shan26b	Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing	https://proceedings.mlr.press/v306/shan26b.html	pending
-4034	shan26c	LieWarper: Geometry-Aware Motion Transfer via Lie Algebra	https://proceedings.mlr.press/v306/shan26c.html	pending
-4035	shan26d	T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing	https://proceedings.mlr.press/v306/shan26d.html	pending
-4036	shang26a	SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models	https://proceedings.mlr.press/v306/shang26a.html	pending
-4037	shang26b	TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations	https://proceedings.mlr.press/v306/shang26b.html	pending
-4038	shang26c	Training–Inference Consistent Segmented Execution for Long-Context LLMs	https://proceedings.mlr.press/v306/shang26c.html	pending
-4039	shang26d	Fast and Scalable Analytical Diffusion	https://proceedings.mlr.press/v306/shang26d.html	pending
-4040	shang26e	COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing	https://proceedings.mlr.press/v306/shang26e.html	pending
-4041	shang26f	DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving	https://proceedings.mlr.press/v306/shang26f.html	pending
-4042	shao26a	DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research	https://proceedings.mlr.press/v306/shao26a.html	pending
-4043	shao26b	One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis	https://proceedings.mlr.press/v306/shao26b.html	pending
-4044	shao26c	The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints	https://proceedings.mlr.press/v306/shao26c.html	pending
-4045	shao26d	Spurious Rewards: Rethinking Training Signals in RLVR	https://proceedings.mlr.press/v306/shao26d.html	pending
-4046	shao26e	MonoScale: Scaling Multi-Agent System with Monotonic Improvement	https://proceedings.mlr.press/v306/shao26e.html	pending
-4047	shao26f	LiveFigure: Generating Editable Scientific Illustration with VLM Agents	https://proceedings.mlr.press/v306/shao26f.html	pending
-4048	shao26g	Block Rotation is All You Need for MXFP4 Quantization	https://proceedings.mlr.press/v306/shao26g.html	pending
-4049	shao26h	SciNet: Evaluating AI Agents in Relation-Aware Scientific Literature Retrieval	https://proceedings.mlr.press/v306/shao26h.html	pending
-4050	shao26i	Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks	https://proceedings.mlr.press/v306/shao26i.html	pending
-4051	shao26j	DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions	https://proceedings.mlr.press/v306/shao26j.html	pending
-4052	shao26k	LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention	https://proceedings.mlr.press/v306/shao26k.html	pending
-4053	shaoran26a	CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation	https://proceedings.mlr.press/v306/shaoran26a.html	pending
-4054	shapira26a	How RLHF Amplifies Sycophancy	https://proceedings.mlr.press/v306/shapira26a.html	pending
-4055	sharief26a	MIRA: A Score for Conditional Distribution Accuracy and Model Comparison	https://proceedings.mlr.press/v306/sharief26a.html	pending
-4056	sharifnassab26a	Intentional Updates for Streaming Reinforcement Learning	https://proceedings.mlr.press/v306/sharifnassab26a.html	pending
-4057	sharma26a	Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage	https://proceedings.mlr.press/v306/sharma26a.html	pending
-4058	sharma26b	RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations	https://proceedings.mlr.press/v306/sharma26b.html	pending
+4007	serrano26a	Test-time Generalization for Physics through Neural Operator Splitting	https://proceedings.mlr.press/v306/serrano26a.html	written
+4008	serrano26b	Frontier Models Can Take Actions at Low Probabilities	https://proceedings.mlr.press/v306/serrano26b.html	written
+4009	sesmat26a	Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path	https://proceedings.mlr.press/v306/sesmat26a.html	written
+4010	sethi26a	Asymptotically Optimal Sequential Testing with Markovian Data	https://proceedings.mlr.press/v306/sethi26a.html	written
+4011	setlur26a	Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes	https://proceedings.mlr.press/v306/setlur26a.html	written
+4012	seto26a	Optimal Splitting of Language Models from Mixtures to Specialized Domains	https://proceedings.mlr.press/v306/seto26a.html	written
+4013	sfyraki26a	Lions and Muons: Optimization via Stochastic Frank-Wolfe under Heavy-Tailed Noise	https://proceedings.mlr.press/v306/sfyraki26a.html	written
+4014	shabalin26a	Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation	https://proceedings.mlr.press/v306/shabalin26a.html	written
+4015	shaer26a	Testing For Distribution Shifts with Conditional Conformal Test Martingales	https://proceedings.mlr.press/v306/shaer26a.html	written
+4016	shaffer26a	Structure-Preserving Learning Improves Geometry Generalization in Neural PDEs	https://proceedings.mlr.press/v306/shaffer26a.html	written
+4017	shaffiey26a	Tri-Scale Neural ODEs for Continuous Multi-Omics Disease Modeling	https://proceedings.mlr.press/v306/shaffiey26a.html	written
+4018	shafran26a	From Directions to Regions: Decomposing Activations in Language Models via Local Geometry	https://proceedings.mlr.press/v306/shafran26a.html	written
+4019	shah26a	Fast k-means Seeding Under The Manifold Hypothesis	https://proceedings.mlr.press/v306/shah26a.html	written
+4020	shah26b	dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning	https://proceedings.mlr.press/v306/shah26b.html	written
+4021	shah26c	Even Faster Kernel Matrix Linear Algebra via Density Estimation	https://proceedings.mlr.press/v306/shah26c.html	written
+4022	shah26d	MoLoRA: Composable Specialization via Per-Token Adapter Routing	https://proceedings.mlr.press/v306/shah26d.html	written
+4023	shahariar26a	Modeling Hierarchical Thinking in Large Reasoning Models	https://proceedings.mlr.press/v306/shahariar26a.html	written
+4024	shaheen26a	Domain Restriction via Multi SAE Layer Transitions	https://proceedings.mlr.press/v306/shaheen26a.html	written
+4025	shahroz26a	TMS: Trajectory-Mixed Supervision for On-Policy Self Distillation	https://proceedings.mlr.press/v306/shahroz26a.html	written
+4026	shahverdi26a	Identifiable Equivariant Networks are Layerwise Equivariant	https://proceedings.mlr.press/v306/shahverdi26a.html	written
+4027	shai26a	Transformers learn factored representations	https://proceedings.mlr.press/v306/shai26a.html	written
+4028	shaj26a	Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking	https://proceedings.mlr.press/v306/shaj26a.html	written
+4029	shakeri26a	Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL	https://proceedings.mlr.press/v306/shakeri26a.html	written
+4030	shalyt26a	ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark	https://proceedings.mlr.press/v306/shalyt26a.html	written
+4031	shamba26a	Divide and Contrast: Learning Robust Temporal Features without Augmentation	https://proceedings.mlr.press/v306/shamba26a.html	written
+4032	shan26a	LUGS: Latent-aware Guidance for Efficient Unmasking in Diffusion Large Language Models	https://proceedings.mlr.press/v306/shan26a.html	written
+4033	shan26b	Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing	https://proceedings.mlr.press/v306/shan26b.html	written
+4034	shan26c	LieWarper: Geometry-Aware Motion Transfer via Lie Algebra	https://proceedings.mlr.press/v306/shan26c.html	written
+4035	shan26d	T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing	https://proceedings.mlr.press/v306/shan26d.html	written
+4036	shang26a	SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models	https://proceedings.mlr.press/v306/shang26a.html	written
+4037	shang26b	TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations	https://proceedings.mlr.press/v306/shang26b.html	written
+4038	shang26c	Training–Inference Consistent Segmented Execution for Long-Context LLMs	https://proceedings.mlr.press/v306/shang26c.html	written
+4039	shang26d	Fast and Scalable Analytical Diffusion	https://proceedings.mlr.press/v306/shang26d.html	written
+4040	shang26e	COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing	https://proceedings.mlr.press/v306/shang26e.html	written
+4041	shang26f	DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving	https://proceedings.mlr.press/v306/shang26f.html	written
+4042	shao26a	DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research	https://proceedings.mlr.press/v306/shao26a.html	written
+4043	shao26b	One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis	https://proceedings.mlr.press/v306/shao26b.html	written
+4044	shao26c	The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints	https://proceedings.mlr.press/v306/shao26c.html	written
+4045	shao26d	Spurious Rewards: Rethinking Training Signals in RLVR	https://proceedings.mlr.press/v306/shao26d.html	written
+4046	shao26e	MonoScale: Scaling Multi-Agent System with Monotonic Improvement	https://proceedings.mlr.press/v306/shao26e.html	written
+4047	shao26f	LiveFigure: Generating Editable Scientific Illustration with VLM Agents	https://proceedings.mlr.press/v306/shao26f.html	written
+4048	shao26g	Block Rotation is All You Need for MXFP4 Quantization	https://proceedings.mlr.press/v306/shao26g.html	written
+4049	shao26h	SciNet: Evaluating AI Agents in Relation-Aware Scientific Literature Retrieval	https://proceedings.mlr.press/v306/shao26h.html	written
+4050	shao26i	Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks	https://proceedings.mlr.press/v306/shao26i.html	written
+4051	shao26j	DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions	https://proceedings.mlr.press/v306/shao26j.html	written
+4052	shao26k	LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention	https://proceedings.mlr.press/v306/shao26k.html	written
+4053	shaoran26a	CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation	https://proceedings.mlr.press/v306/shaoran26a.html	written
+4054	shapira26a	How RLHF Amplifies Sycophancy	https://proceedings.mlr.press/v306/shapira26a.html	written
+4055	sharief26a	MIRA: A Score for Conditional Distribution Accuracy and Model Comparison	https://proceedings.mlr.press/v306/sharief26a.html	written
+4056	sharifnassab26a	Intentional Updates for Streaming Reinforcement Learning	https://proceedings.mlr.press/v306/sharifnassab26a.html	written
+4057	sharma26a	Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage	https://proceedings.mlr.press/v306/sharma26a.html	written
+4058	sharma26b	RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations	https://proceedings.mlr.press/v306/sharma26b.html	written
 4059	sharma26c	The Realignment Problem: When Right becomes Wrong in LLMs	https://proceedings.mlr.press/v306/sharma26c.html	pending
 4060	she26a	Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses	https://proceedings.mlr.press/v306/she26a.html	pending
 4061	she26b	Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices	https://proceedings.mlr.press/v306/she26b.html	pending

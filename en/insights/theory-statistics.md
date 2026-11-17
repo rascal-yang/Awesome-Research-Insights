@@ -64,6 +64,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards](../../conferences/icml-2026/cards/3701-3800.md#rad26b-theory-statistics) · 中文
 - [A model of errors in transformers](../../conferences/icml-2026/cards/3801-3900.md#raju26a-theory-statistics) · 中文
 - [On the Ability of Transformers to Verify Plans](../../conferences/icml-2026/cards/3901-4000.md#sarrof26a-theory-statistics) · 中文
+- [How RLHF Amplifies Sycophancy](../../conferences/icml-2026/cards/4001-4100.md#shapira26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -161,6 +162,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Reinforcement Learning with Action-Triggered Observations](../../conferences/icml-2026/cards/3901-4000.md#ryabchenko26a-theory-statistics) · 中文
 - [Improved Algorithms for Nash Welfare in Linear Bandits](../../conferences/icml-2026/cards/3901-4000.md#sarkar26b-theory-statistics) · 中文
 - [Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#schnitzer26a-theory-statistics) · 中文
+- [The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints](../../conferences/icml-2026/cards/4001-4100.md#shao26c-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -581,6 +583,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Flat Minima and Generalization: Insights from Stochastic Convex Optimization](../../conferences/icml-2026/cards/3901-4000.md#schliserman26a-theory-statistics) · 中文
 - [Many Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is Causal Inference Possible?](../../conferences/icml-2026/cards/3901-4000.md#schur26a-theory-statistics) · 中文
 - [Dissecting Causal Mechanism Shifts via FANS: Function And Noise Separation](../../conferences/icml-2026/cards/4001-4100.md#seo26d-theory-statistics) · 中文
+- [Asymptotically Optimal Sequential Testing with Markovian Data](../../conferences/icml-2026/cards/4001-4100.md#sethi26a-theory-statistics) · 中文
+- [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../../conferences/icml-2026/cards/4001-4100.md#shaer26a-theory-statistics) · 中文
+- [Even Faster Kernel Matrix Linear Algebra via Density Estimation](../../conferences/icml-2026/cards/4001-4100.md#shah26c-theory-statistics) · 中文
+- [Identifiable Equivariant Networks are Layerwise Equivariant](../../conferences/icml-2026/cards/4001-4100.md#shahverdi26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

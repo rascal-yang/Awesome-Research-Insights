@@ -286,6 +286,12 @@
 - [达到词元熵阈值时才复制推理路径](../conferences/icml-2026/cards/3901-4000.md#scalena26a-inference) · EAGer: Entropy-Aware GEneRation for Adaptive Inference-Time Scaling
 - [平滑微调带来的低影响概率差](../conferences/icml-2026/cards/3901-4000.md#segal26a-inference) · Provably Protecting Fine-Tuned LLMs from Training Data Extraction while Preserving Utility
 - [本体约束的多角色文化判断](../conferences/icml-2026/cards/3901-4000.md#seo26a-inference) · Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning
+- [按 token 路由 LoRA 组合多项能力](../conferences/icml-2026/cards/4001-4100.md#shah26d-inference) · MoLoRA: Composable Specialization via Per-Token Adapter Routing
+- [用有限状态与长程价值稀疏引导推理链](../conferences/icml-2026/cards/4001-4100.md#shahariar26a-inference) · Modeling Hierarchical Thinking in Large Reasoning Models
+- [用隐藏状态指导扩散语言解掩顺序](../conferences/icml-2026/cards/4001-4100.md#shan26a-inference) · LUGS: Latent-aware Guidance for Efficient Unmasking in Diffusion Large Language Models
+- [用预热反馈和旧代理回退稳定扩容](../conferences/icml-2026/cards/4001-4100.md#shao26e-inference) · MonoScale: Scaling Multi-Agent System with Monotonic Improvement
+- [让旋转范围与量化块对齐](../conferences/icml-2026/cards/4001-4100.md#shao26g-inference) · Block Rotation is All You Need for MXFP4 Quantization
+- [从失败状态归纳技能分支](../conferences/icml-2026/cards/4001-4100.md#shao26i-inference) · Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks
 
 <a id="by-computer-vision"></a>
 
@@ -382,6 +388,9 @@
 - [用高值激活偏移调缩放阈值](../conferences/icml-2026/cards/3801-3900.md#regmi26a-inference) · AdaSCALE: Adaptive Scaling for OOD Detection
 - [压缩跨帧 KV 并稀疏选取自注意和提示相关键](../conferences/icml-2026/cards/3901-4000.md#samuel26a-inference) · FAST-AR: Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention
 - [沿最大均值差异梯度在推断时对齐目标图像分布](../conferences/icml-2026/cards/3901-4000.md#sani26a-inference) · MMD Guidance: Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance
+- [Lie 群相位引导的视频运动迁移](../conferences/icml-2026/cards/4001-4100.md#shan26c-inference) · LieWarper: Geometry-Aware Motion Transfer via Lie Algebra
+- [三轨迹锚定的免训练扩散编辑](../conferences/icml-2026/cards/4001-4100.md#shan26d-inference) · T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing
+- [依噪声分配检索预算的解析扩散](../conferences/icml-2026/cards/4001-4100.md#shang26d-inference) · Fast and Scalable Analytical Diffusion
 
 <a id="by-nlp"></a>
 
@@ -541,6 +550,7 @@
 - [让长视频规划与最终答题证据权限分离](../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority
 - [在离散去噪中先解码可靠锚点](../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · Test-Time Anchoring for Discrete Diffusion Posterior Sampling
 - [按逐层熵变选择视觉对比分支](../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models
+- [把科学插图生成落到可编辑对象](../conferences/icml-2026/cards/4001-4100.md#shao26f-inference) · LiveFigure: Generating Editable Scientific Illustration with VLM Agents
 
 <a id="by-ml-foundations"></a>
 
@@ -649,4 +659,5 @@
 - [以已知接触位点排序新蛋白互作](../conferences/icml-2026/cards/3901-4000.md#russo26b-inference) · PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline
 - [用重采样一致性校正受扰观测](../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · Training-Free Adversarial Robustness in Computational MRI
 - [生成式动力学模拟器的免训练贝叶斯滤波](../conferences/icml-2026/cards/3901-4000.md#savary26a-inference) · Training-Free Bayesian Filtering with Generative Emulators
+- [在推断时组合训练好的 PDE 算子外推新物理](../conferences/icml-2026/cards/4001-4100.md#serrano26a-inference) · Test-time Generalization for Physics through Neural Operator Splitting
 <!-- classification:end -->

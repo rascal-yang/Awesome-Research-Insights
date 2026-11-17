@@ -122,6 +122,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Condition Number Based Low-Bit Quantization for Image Super-Resolution](../../conferences/icml-2026/cards/2901-3000.md#liu26eh-optimization) · 中文
 - [SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization](../../conferences/icml-2026/cards/3101-3200.md#lv26j-optimization) · 中文
 - [CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization](../../conferences/icml-2026/cards/3401-3500.md#nehme26a-optimization) · 中文
+- [CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation](../../conferences/icml-2026/cards/4001-4100.md#shaoran26a-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -137,6 +138,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../conferences/icml-2026/cards/0801-0900.md#dam26a-optimization) · 中文
 - [Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting](../../conferences/icml-2026/cards/2101-2200.md#ko26a-optimization) · 中文
 - [AdamO: A Collapse-Suppressed Optimizer for Offline RL](../../conferences/icml-2026/cards/3701-3800.md#qiao26j-optimization) · 中文
+- [Intentional Updates for Streaming Reinforcement Learning](../../conferences/icml-2026/cards/4001-4100.md#sharifnassab26a-optimization) · 中文
 
 <a id="by-robotics"></a>
 
@@ -386,6 +388,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Active Budget Allocation for Efficient Scaling Law Estimation via Surrogate-Guided Pruning](../../conferences/icml-2026/cards/3901-4000.md#schram26a-optimization) · 中文
 - [Equilibrium Propagation for Non-Conservative Systems](../../conferences/icml-2026/cards/3901-4000.md#scurria26a-optimization) · 中文
 - [Trajectory-Aware Heuristic Learning for Combinatorial Search](../../conferences/icml-2026/cards/3901-4000.md#seddiqi26a-optimization) · 中文
+- [Lions and Muons: Optimization via Stochastic Frank-Wolfe under Heavy-Tailed Noise](../../conferences/icml-2026/cards/4001-4100.md#sfyraki26a-optimization) · 中文
+- [Fast k-means Seeding Under The Manifold Hypothesis](../../conferences/icml-2026/cards/4001-4100.md#shah26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -122,6 +122,7 @@
 - [用权重条件数降低低比特激活误差](../conferences/icml-2026/cards/2901-3000.md#liu26eh-optimization) · Condition Number Based Low-Bit Quantization for Image Super-Resolution
 - [沿预测敏感方向补偿量化误差](../conferences/icml-2026/cards/3101-3200.md#lv26j-optimization) · SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization
 - [残差网格反解 CAD](../conferences/icml-2026/cards/3401-3500.md#nehme26a-optimization) · CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization
+- [用置信和梯度共同限学习率](../conferences/icml-2026/cards/4001-4100.md#shaoran26a-optimization) · CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation
 
 <a id="by-nlp"></a>
 
@@ -137,6 +138,7 @@
 - [二阶平滑 Bellman 规划](../conferences/icml-2026/cards/0801-0900.md#dam26a-optimization) · Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing
 - [用决策时点锚定的伴随量优化非指数折扣](../conferences/icml-2026/cards/2101-2200.md#ko26a-optimization) · Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting
 - [离线价值学习的解耦正交校正](../conferences/icml-2026/cards/3701-3800.md#qiao26j-optimization) · AdamO: A Collapse-Suppressed Optimizer for Offline RL
+- [按预期输出变化反算单步步长](../conferences/icml-2026/cards/4001-4100.md#sharifnassab26a-optimization) · Intentional Updates for Streaming Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -386,6 +388,8 @@
 - [按外推学习曲线保留慢热模型](../conferences/icml-2026/cards/3901-4000.md#schram26a-optimization) · Active Budget Allocation for Efficient Scaling Law Estimation via Surrogate-Guided Pruning
 - [在受扰相补回非互易作用](../conferences/icml-2026/cards/3901-4000.md#scurria26a-optimization) · Equilibrium Propagation for Non-Conservative Systems
 - [沿随机游走传播可靠深度标签](../conferences/icml-2026/cards/3901-4000.md#seddiqi26a-optimization) · Trajectory-Aware Heuristic Learning for Combinatorial Search
+- [将带衰减的 Lion/Muon 写成重尾稳健的 Frank–Wolfe](../conferences/icml-2026/cards/4001-4100.md#sfyraki26a-optimization) · Lions and Muons: Optimization via Stochastic Frank-Wolfe under Heavy-Tailed Noise
+- [利用流形量化规律加速 k-means 种子选择](../conferences/icml-2026/cards/4001-4100.md#shah26a-optimization) · Fast k-means Seeding Under The Manifold Hypothesis
 
 <a id="by-graph-and-recommendation"></a>
 

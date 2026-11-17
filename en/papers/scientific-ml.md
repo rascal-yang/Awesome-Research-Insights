@@ -115,6 +115,10 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ramani26a-architecture"></a>[DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../../conferences/icml-2026/cards/3801-3900.md#paper-ramani26a)
 - <a id="rossi26a-architecture"></a>[TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations](../../conferences/icml-2026/cards/3801-3900.md#paper-rossi26a)
 - <a id="seong26a-architecture"></a>[Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling](../../conferences/icml-2026/cards/4001-4100.md#paper-seong26a)
+- <a id="shaffer26a-architecture"></a>[Structure-Preserving Learning Improves Geometry Generalization in Neural PDEs](../../conferences/icml-2026/cards/4001-4100.md#paper-shaffer26a)
+- <a id="shaffiey26a-architecture"></a>[Tri-Scale Neural ODEs for Continuous Multi-Omics Disease Modeling](../../conferences/icml-2026/cards/4001-4100.md#paper-shaffiey26a)
+- <a id="shah26b-architecture"></a>[dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning](../../conferences/icml-2026/cards/4001-4100.md#paper-shah26b)
+- <a id="shang26a-architecture"></a>[SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26a)
 
 <a id="by-modules"></a>
 
@@ -325,6 +329,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="russo26b-inference"></a>[PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline](../../conferences/icml-2026/cards/3901-4000.md#paper-russo26b)
 - <a id="saberi26a-inference"></a>[Training-Free Adversarial Robustness in Computational MRI](../../conferences/icml-2026/cards/3901-4000.md#paper-saberi26a)
 - <a id="savary26a-inference"></a>[Training-Free Bayesian Filtering with Generative Emulators](../../conferences/icml-2026/cards/3901-4000.md#paper-savary26a)
+- <a id="serrano26a-inference"></a>[Test-time Generalization for Physics through Neural Operator Splitting](../../conferences/icml-2026/cards/4001-4100.md#paper-serrano26a)
 
 <a id="by-representation-learning"></a>
 

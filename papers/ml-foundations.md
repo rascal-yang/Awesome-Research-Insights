@@ -71,6 +71,7 @@
 - <a id="qiu26x-architecture"></a>[DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26x)
 - <a id="qu26a-architecture"></a>[TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](../conferences/icml-2026/cards/3701-3800.md#paper-qu26a)
 - <a id="serov26a-architecture"></a>[Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing](../conferences/icml-2026/cards/4001-4100.md#paper-serov26a)
+- <a id="shang26b-architecture"></a>[TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations](../conferences/icml-2026/cards/4001-4100.md#paper-shang26b)
 
 <a id="by-modules"></a>
 
@@ -155,6 +156,7 @@
 - <a id="qiao26b-loss-functions"></a>[Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26b)
 - <a id="reichart26a-loss-functions"></a>[Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization](../conferences/icml-2026/cards/3801-3900.md#paper-reichart26a)
 - <a id="saengkyongam26a-loss-functions"></a>[Anti-causal domain generalization: Leveraging unlabeled data](../conferences/icml-2026/cards/3901-4000.md#paper-saengkyongam26a)
+- <a id="shang26e-loss-functions"></a>[COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing](../conferences/icml-2026/cards/4001-4100.md#paper-shang26e)
 
 <a id="by-optimization"></a>
 
@@ -383,6 +385,8 @@
 - <a id="schram26a-optimization"></a>[Active Budget Allocation for Efficient Scaling Law Estimation via Surrogate-Guided Pruning](../conferences/icml-2026/cards/3901-4000.md#paper-schram26a)
 - <a id="scurria26a-optimization"></a>[Equilibrium Propagation for Non-Conservative Systems](../conferences/icml-2026/cards/3901-4000.md#paper-scurria26a)
 - <a id="seddiqi26a-optimization"></a>[Trajectory-Aware Heuristic Learning for Combinatorial Search](../conferences/icml-2026/cards/3901-4000.md#paper-seddiqi26a)
+- <a id="sfyraki26a-optimization"></a>[Lions and Muons: Optimization via Stochastic Frank-Wolfe under Heavy-Tailed Noise](../conferences/icml-2026/cards/4001-4100.md#paper-sfyraki26a)
+- <a id="shah26a-optimization"></a>[Fast k-means Seeding Under The Manifold Hypothesis](../conferences/icml-2026/cards/4001-4100.md#paper-shah26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -485,6 +489,7 @@
 - <a id="qi26n-data-strategies"></a>[Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qi26n)
 - <a id="qiao26c-data-strategies"></a>[When Sample Selection Bias Precipitates Model Collapse](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26c)
 - <a id="rodriguez-munoz26a-data-strategies"></a>[Ambient Dataloops: Generative Models for Dataset Refinement](../conferences/icml-2026/cards/3801-3900.md#paper-rodriguez-munoz26a)
+- <a id="shao26b-data-strategies"></a>[One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](../conferences/icml-2026/cards/4001-4100.md#paper-shao26b)
 
 <a id="by-inference"></a>
 
@@ -586,6 +591,7 @@
 - <a id="park26d-representation-learning"></a>[Convergent World Representations and Divergent Tasks](../conferences/icml-2026/cards/3501-3600.md#paper-park26d)
 - <a id="park26p-representation-learning"></a>[The Information Geometry of Softmax: Probing and Steering](../conferences/icml-2026/cards/3501-3600.md#paper-park26p)
 - <a id="pence26a-representation-learning"></a>[Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories](../conferences/icml-2026/cards/3601-3700.md#paper-pence26a)
+- <a id="shamba26a-representation-learning"></a>[Divide and Contrast: Learning Robust Temporal Features without Augmentation](../conferences/icml-2026/cards/4001-4100.md#paper-shamba26a)
 
 <a id="by-evaluation"></a>
 
@@ -642,6 +648,7 @@
 - <a id="qiao26g-evaluation"></a>[It’s TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26g)
 - <a id="reuel26a-evaluation"></a>[Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](../conferences/icml-2026/cards/3801-3900.md#paper-reuel26a)
 - <a id="rodriguez26a-evaluation"></a>[Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../conferences/icml-2026/cards/3801-3900.md#paper-rodriguez26a)
+- <a id="sharief26a-evaluation"></a>[MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../conferences/icml-2026/cards/4001-4100.md#paper-sharief26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1047,4 +1054,8 @@
 - <a id="schliserman26a-theory-statistics"></a>[Flat Minima and Generalization: Insights from Stochastic Convex Optimization](../conferences/icml-2026/cards/3901-4000.md#paper-schliserman26a)
 - <a id="schur26a-theory-statistics"></a>[Many Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is Causal Inference Possible?](../conferences/icml-2026/cards/3901-4000.md#paper-schur26a)
 - <a id="seo26d-theory-statistics"></a>[Dissecting Causal Mechanism Shifts via FANS: Function And Noise Separation](../conferences/icml-2026/cards/4001-4100.md#paper-seo26d)
+- <a id="sethi26a-theory-statistics"></a>[Asymptotically Optimal Sequential Testing with Markovian Data](../conferences/icml-2026/cards/4001-4100.md#paper-sethi26a)
+- <a id="shaer26a-theory-statistics"></a>[Testing For Distribution Shifts with Conditional Conformal Test Martingales](../conferences/icml-2026/cards/4001-4100.md#paper-shaer26a)
+- <a id="shah26c-theory-statistics"></a>[Even Faster Kernel Matrix Linear Algebra via Density Estimation](../conferences/icml-2026/cards/4001-4100.md#paper-shah26c)
+- <a id="shahverdi26a-theory-statistics"></a>[Identifiable Equivariant Networks are Layerwise Equivariant](../conferences/icml-2026/cards/4001-4100.md#paper-shahverdi26a)
 <!-- classification:end -->

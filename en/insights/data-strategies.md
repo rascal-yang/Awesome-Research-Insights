@@ -192,6 +192,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning](../../conferences/icml-2026/cards/3701-3800.md#qi26n-data-strategies) · 中文
 - [When Sample Selection Bias Precipitates Model Collapse](../../conferences/icml-2026/cards/3701-3800.md#qiao26c-data-strategies) · 中文
 - [Ambient Dataloops: Generative Models for Dataset Refinement](../../conferences/icml-2026/cards/3801-3900.md#rodriguez-munoz26a-data-strategies) · 中文
+- [One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](../../conferences/icml-2026/cards/4001-4100.md#shao26b-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

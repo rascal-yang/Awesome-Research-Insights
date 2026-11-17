@@ -49,6 +49,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="dam26a-optimization"></a>[Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../conferences/icml-2026/cards/0801-0900.md#paper-dam26a)
 - <a id="ko26a-optimization"></a>[Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting](../../conferences/icml-2026/cards/2101-2200.md#paper-ko26a)
 - <a id="qiao26j-optimization"></a>[AdamO: A Collapse-Suppressed Optimizer for Offline RL](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26j)
+- <a id="sharifnassab26a-optimization"></a>[Intentional Updates for Streaming Reinforcement Learning](../../conferences/icml-2026/cards/4001-4100.md#paper-sharifnassab26a)
 
 <a id="by-reinforcement-learning"></a><a id="group-relative-policy-optimization"></a>
 
@@ -180,6 +181,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="schiff26a-reinforcement-learning"></a>[ICR-RL: Deep Reinforcement Learning via In-Context-Regression](../../conferences/icml-2026/cards/3901-4000.md#paper-schiff26a)
 - <a id="selim26a-reinforcement-learning"></a>[Noisy-Space Policy Gradient for Diffusion Policies in Offline Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#paper-selim26a)
 - <a id="serra-gomez26a-reinforcement-learning"></a>[A KL-regularization framework for learning to plan with adaptive priors](../../conferences/icml-2026/cards/4001-4100.md#paper-serra-gomez26a)
+- <a id="shakeri26a-reinforcement-learning"></a>[Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL](../../conferences/icml-2026/cards/4001-4100.md#paper-shakeri26a)
 
 <a id="by-training-strategies"></a>
 
@@ -328,4 +330,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="ryabchenko26a-theory-statistics"></a>[Reinforcement Learning with Action-Triggered Observations](../../conferences/icml-2026/cards/3901-4000.md#paper-ryabchenko26a)
 - <a id="sarkar26b-theory-statistics"></a>[Improved Algorithms for Nash Welfare in Linear Bandits](../../conferences/icml-2026/cards/3901-4000.md#paper-sarkar26b)
 - <a id="schnitzer26a-theory-statistics"></a>[Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#paper-schnitzer26a)
+- <a id="shao26c-theory-statistics"></a>[The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints](../../conferences/icml-2026/cards/4001-4100.md#paper-shao26c)
 <!-- classification:end -->

@@ -313,6 +313,13 @@
 - [把正确性和负载回归纳入代码加速评分](../conferences/icml-2026/cards/3901-4000.md#sehgal26a-evaluation) · FormulaCode: Evaluating Agentic Optimization on Large Codebases
 - [把实验结果准确率与自报可预测性一起测](../conferences/icml-2026/cards/3901-4000.md#sehwag26a-evaluation) · SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?
 - [用激活判别复核微调接口安全性](../conferences/icml-2026/cards/3901-4000.md#sel26a-evaluation) · Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning
+- [校准罕见动作频率以估计安全抽检的盲区](../conferences/icml-2026/cards/4001-4100.md#serrano26b-evaluation) · Frontier Models Can Take Actions at Low Probabilities
+- [用跨层 SAE 特征转移识别近域异常请求](../conferences/icml-2026/cards/4001-4100.md#shaheen26a-evaluation) · Domain Restriction via Multi SAE Layer Transitions
+- [用可验证的符号扰动区分数学泛化和题型记忆](../conferences/icml-2026/cards/4001-4100.md#shalyt26a-evaluation) · ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark
+- [分别验证找对论文与接对引文链](../conferences/icml-2026/cards/4001-4100.md#shao26h-evaluation) · SciNet: Evaluating AI Agents in Relation-Aware Scientific Literature Retrieval
+- [用实际解码阶段筛选干预方向](../conferences/icml-2026/cards/4001-4100.md#shao26j-evaluation) · DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions
+- [分辨对话中的风险与可见实际影响](../conferences/icml-2026/cards/4001-4100.md#sharma26a-evaluation) · Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage
+- [用评分衰减曲线定位细则缺口](../conferences/icml-2026/cards/4001-4100.md#sharma26b-evaluation) · RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations
 
 <a id="by-computer-vision"></a>
 
@@ -522,6 +529,7 @@
 - [用无图对照校准视觉退化损失](../conferences/icml-2026/cards/3901-4000.md#saxena26b-evaluation) · VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models
 - [交叉测试物理能力与任务捷径](../conferences/icml-2026/cards/3901-4000.md#schulze-buschoff26a-evaluation) · Can Vision Language Models Learn Intuitive Physics from Interaction?
 - [跨模态时序描述的基础评测](../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · BEDTime: A Unified Benchmark for Automatically Describing Time Series
+- [沿 Flow Matching 插值路径定位训练成员信号](../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path
 
 <a id="by-ml-foundations"></a>
 
@@ -578,6 +586,7 @@
 - [面向真实情境的零样本时序预测评测](../conferences/icml-2026/cards/3701-3800.md#qiao26g-evaluation) · It’s TIME: Towards the Next Generation of Time Series Forecasting Benchmarks
 - [按发布主体和影响类别审计基础模型评测披露](../conferences/icml-2026/cards/3801-3900.md#reuel26a-evaluation) · Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations
 - [扩散模型优先复现常见局部特征](../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?
+- [用随机区域统计比较条件分布](../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · MIRA: A Score for Conditional Distribution Accuracy and Model Comparison
 
 <a id="by-graph-and-recommendation"></a>
 

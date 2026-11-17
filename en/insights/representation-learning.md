@@ -26,6 +26,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Deep sequence models tend to memorize geometrically; it is unclear why](../../conferences/icml-2026/cards/3401-3500.md#noroozizadeh26a-representation-learning) · 中文
 - [Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping](../../conferences/icml-2026/cards/3601-3700.md#pethkar26a-representation-learning) · 中文
 - [Learning the ESG Geometry with Domain Aware Language Models](../../conferences/icml-2026/cards/3601-3700.md#pimparkhede26a-representation-learning) · 中文
+- [From Directions to Regions: Decomposing Activations in Language Models via Local Geometry](../../conferences/icml-2026/cards/4001-4100.md#shafran26a-representation-learning) · 中文
+- [Transformers learn factored representations](../../conferences/icml-2026/cards/4001-4100.md#shai26a-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -224,6 +226,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Convergent World Representations and Divergent Tasks](../../conferences/icml-2026/cards/3501-3600.md#park26d-representation-learning) · 中文
 - [The Information Geometry of Softmax: Probing and Steering](../../conferences/icml-2026/cards/3501-3600.md#park26p-representation-learning) · 中文
 - [Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories](../../conferences/icml-2026/cards/3601-3700.md#pence26a-representation-learning) · 中文
+- [Divide and Contrast: Learning Robust Temporal Features without Augmentation](../../conferences/icml-2026/cards/4001-4100.md#shamba26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -258,6 +261,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning](../../conferences/icml-2026/cards/3301-3400.md#mishra26c-representation-learning) · 中文
 - [Aitchison Embeddings for Learning Compositional Graph Representations](../../conferences/icml-2026/cards/3401-3500.md#nakis26a-representation-learning) · 中文
 - [Fixed Aggregation Features Can Rival GNNs](../../conferences/icml-2026/cards/3901-4000.md#rubio-madrigal26a-representation-learning) · 中文
+- [Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](../../conferences/icml-2026/cards/4001-4100.md#shan26b-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 

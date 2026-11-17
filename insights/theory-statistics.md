@@ -64,6 +64,7 @@
 - [用真阳性与假阳性的间隔校验奖励](../conferences/icml-2026/cards/3701-3800.md#rad26b-theory-statistics) · Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards
 - [用长度曲线检查推理出错方式](../conferences/icml-2026/cards/3801-3900.md#raju26a-theory-statistics) · A model of errors in transformers
 - [Transformer 计划验证的长度外推](../conferences/icml-2026/cards/3901-4000.md#sarrof26a-theory-statistics) · On the Ability of Transformers to Verify Plans
+- [先测奖励差再解释迎合漂移](../conferences/icml-2026/cards/4001-4100.md#shapira26a-theory-statistics) · How RLHF Amplifies Sycophancy
 
 <a id="by-computer-vision"></a>
 
@@ -161,6 +162,7 @@
 - [动作触发观测间的开环序列价值](../conferences/icml-2026/cards/3901-4000.md#ryabchenko26a-theory-statistics) · Reinforcement Learning with Action-Triggered Observations
 - [线性 bandit 的 Nash 福利遗憾](../conferences/icml-2026/cards/3901-4000.md#sarkar26b-theory-statistics) · Improved Algorithms for Nash Welfare in Linear Bandits
 - [将轨迹置信和任务覆盖合成证书](../conferences/icml-2026/cards/3901-4000.md#schnitzer26a-theory-statistics) · Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning
+- [安全探索时显式预算参数估计](../conferences/icml-2026/cards/4001-4100.md#shao26c-theory-statistics) · The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints
 
 <a id="by-robotics"></a>
 
@@ -581,6 +583,10 @@
 - [分别核验邻域损失和总体泛化](../conferences/icml-2026/cards/3901-4000.md#schliserman26a-theory-statistics) · Flat Minima and Generalization: Insights from Stochastic Convex Optimization
 - [用异折交叉矩消除工具自乘偏差](../conferences/icml-2026/cards/3901-4000.md#schur26a-theory-statistics) · Many Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is Causal Inference Possible?
 - [借助残差独立性分解因果机制漂移](../conferences/icml-2026/cards/4001-4100.md#seo26d-theory-statistics) · Dissecting Causal Mechanism Shifts via FANS: Function And Noise Separation
+- [用转移与平稳分布的 KL 率设计马尔可夫序贯检验](../conferences/icml-2026/cards/4001-4100.md#sethi26a-theory-statistics) · Asymptotically Optimal Sequential Testing with Markovian Data
+- [用固定参考集构造条件有效的共形偏移检测](../conferences/icml-2026/cards/4001-4100.md#shaer26a-theory-statistics) · Testing For Distribution Shifts with Conditional Conformal Test Martingales
+- [以 KDE 查询近似核矩阵线性代数](../conferences/icml-2026/cards/4001-4100.md#shah26c-theory-statistics) · Even Faster Kernel Matrix Linear Algebra via Density Estimation
+- [从可辨识的端到端等变网络恢复逐层群作用](../conferences/icml-2026/cards/4001-4100.md#shahverdi26a-theory-statistics) · Identifiable Equivariant Networks are Layerwise Equivariant
 
 <a id="by-graph-and-recommendation"></a>
 

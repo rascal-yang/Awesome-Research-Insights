@@ -59,6 +59,7 @@
 - [给语言模型加可读写数值时序的 patch 接口](../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction
 - [把低频机构推理接到高频市场执行](../conferences/icml-2026/cards/3601-3700.md#piao26b-architecture) · MarketSim: Simulating Stock Markets with Large-Scale Generative Agents
 - [用任意顺序因果注意力实现扩散文本的精确 KV 缓存](../conferences/icml-2026/cards/3901-4000.md#sahoo26b-architecture) · Esoteric Language Models: A Family of Any-Order Diffusion LLMs
+- [用信息形式的并行卡尔曼滤波保存序列置信状态](../conferences/icml-2026/cards/4001-4100.md#shaj26a-architecture) · Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking
 
 <a id="by-computer-vision"></a>
 
@@ -130,6 +131,7 @@
 - [去噪网络与解掩顺序共同训练](../conferences/icml-2026/cards/1501-1600.md#hong26f-architecture) · Unifying Masked Diffusion Models with Various Generation Orders and Beyond
 - [按符号建共享流使改名可交换](../conferences/icml-2026/cards/1801-1900.md#isik26a-architecture) · Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning
 - [用声学原型和快慢反馈落实复合语音指令](../conferences/icml-2026/cards/2001-2100.md#kang26p-architecture) · AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech
+- [用 token 相似度逐步平滑嵌入扩散](../conferences/icml-2026/cards/4001-4100.md#shabalin26a-architecture) · Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation
 
 <a id="by-reinforcement-learning"></a>
 
@@ -168,6 +170,7 @@
 - [观察条件作为动作扩散桥端点](../conferences/icml-2026/cards/2801-2900.md#liu26db-architecture) · Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation
 - [用可微连续时间函数表示机器人动作块](../conferences/icml-2026/cards/2901-3000.md#liu26gf-architecture) · Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models
 - [无投影多面体流匹配](../conferences/icml-2026/cards/3101-3200.md#ma26ar-architecture) · PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update
+- [行动生成前预测分离的驾驶动力学](../conferences/icml-2026/cards/4001-4100.md#shang26f-architecture) · DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving
 
 <a id="by-multimodal"></a>
 
@@ -265,6 +268,7 @@
 - [把历史外生变量关联注入未来预测](../conferences/icml-2026/cards/3701-3800.md#qiu26x-architecture) · DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables
 - [面向长表格上下文的基础模型](../conferences/icml-2026/cards/3701-3800.md#qu26a-architecture) · TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model
 - [注意力多视图平滑的 Neural CDE](../conferences/icml-2026/cards/4001-4100.md#serov26a-architecture) · Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing
+- [跨尺度语义检索增强的时序预测](../conferences/icml-2026/cards/4001-4100.md#shang26b-architecture) · TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -401,4 +405,8 @@
 - [保留热力学约束的分子溶解度预测](../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction
 - [用口袋距离分布直接预测结合亲和力](../conferences/icml-2026/cards/3801-3900.md#rossi26a-architecture) · TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations
 - [以独立流时间统一晶体生成任务](../conferences/icml-2026/cards/4001-4100.md#seong26a-architecture) · Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling
+- [用几何网格兼容的有限元空间保住神经 PDE 守恒](../conferences/icml-2026/cards/4001-4100.md#shaffer26a-architecture) · Structure-Preserving Learning Improves Geometry Generalization in Neural PDEs
+- [用多时间尺度耦合 ODE 稳定预测组学轨迹](../conferences/icml-2026/cards/4001-4100.md#shaffiey26a-architecture) · Tri-Scale Neural ODEs for Continuous Multi-Omics Disease Modeling
+- [用端到端层次分块压缩原始 DNA 并保留生物结构](../conferences/icml-2026/cards/4001-4100.md#shah26b-architecture) · dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning
+- [逐表达元素融合的空间转录组去噪](../conferences/icml-2026/cards/4001-4100.md#shang26a-architecture) · SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models
 <!-- classification:end -->

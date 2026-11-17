@@ -120,6 +120,9 @@ Training schedules, curricula, and task or stage composition.
 - [Modular Pretraining Enables Access Control](../../conferences/icml-2026/cards/3801-3900.md#roland26a-training-strategies) · 中文
 - [PRISM: Demystifying Retention and Interaction in Mid-Training](../../conferences/icml-2026/cards/3901-4000.md#runwal26a-training-strategies) · 中文
 - [Removing Sandbagging in LLMs by Training with Weak Supervision](../../conferences/icml-2026/cards/3901-4000.md#ryd26a-training-strategies) · 中文
+- [Optimal Splitting of Language Models from Mixtures to Specialized Domains](../../conferences/icml-2026/cards/4001-4100.md#seto26a-training-strategies) · 中文
+- [TMS: Trajectory-Mixed Supervision for On-Policy Self Distillation](../../conferences/icml-2026/cards/4001-4100.md#shahroz26a-training-strategies) · 中文
+- [Training–Inference Consistent Segmented Execution for Long-Context LLMs](../../conferences/icml-2026/cards/4001-4100.md#shang26c-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

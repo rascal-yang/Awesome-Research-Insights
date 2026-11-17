@@ -170,6 +170,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning](../../conferences/icml-2026/cards/3701-3800.md#qiao26b-loss-functions) · 中文
 - [Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization](../../conferences/icml-2026/cards/3801-3900.md#reichart26a-loss-functions) · 中文
 - [Anti-causal domain generalization: Leveraging unlabeled data](../../conferences/icml-2026/cards/3901-4000.md#saengkyongam26a-loss-functions) · 中文
+- [COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing](../../conferences/icml-2026/cards/4001-4100.md#shang26e-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

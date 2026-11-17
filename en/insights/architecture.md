@@ -59,6 +59,7 @@ Model-wide design and information flow.
 - [TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · 中文
 - [MarketSim: Simulating Stock Markets with Large-Scale Generative Agents](../../conferences/icml-2026/cards/3601-3700.md#piao26b-architecture) · 中文
 - [Esoteric Language Models: A Family of Any-Order Diffusion LLMs](../../conferences/icml-2026/cards/3901-4000.md#sahoo26b-architecture) · 中文
+- [Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking](../../conferences/icml-2026/cards/4001-4100.md#shaj26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -130,6 +131,7 @@ Model-wide design and information flow.
 - [Unifying Masked Diffusion Models with Various Generation Orders and Beyond](../../conferences/icml-2026/cards/1501-1600.md#hong26f-architecture) · 中文
 - [Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning](../../conferences/icml-2026/cards/1801-1900.md#isik26a-architecture) · 中文
 - [AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech](../../conferences/icml-2026/cards/2001-2100.md#kang26p-architecture) · 中文
+- [Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation](../../conferences/icml-2026/cards/4001-4100.md#shabalin26a-architecture) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -168,6 +170,7 @@ Model-wide design and information flow.
 - [Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation](../../conferences/icml-2026/cards/2801-2900.md#liu26db-architecture) · 中文
 - [Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gf-architecture) · 中文
 - [PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update](../../conferences/icml-2026/cards/3101-3200.md#ma26ar-architecture) · 中文
+- [DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving](../../conferences/icml-2026/cards/4001-4100.md#shang26f-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -265,6 +268,7 @@ Model-wide design and information flow.
 - [DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](../../conferences/icml-2026/cards/3701-3800.md#qiu26x-architecture) · 中文
 - [TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model](../../conferences/icml-2026/cards/3701-3800.md#qu26a-architecture) · 中文
 - [Efficient Neural Controlled Differential Equations via Attentive Kernel Smoothing](../../conferences/icml-2026/cards/4001-4100.md#serov26a-architecture) · 中文
+- [TimeMRA: LLM-Empowered Time Series Forecasting via Multi-Scale Retrieval-Augmented Representations](../../conferences/icml-2026/cards/4001-4100.md#shang26b-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -401,4 +405,8 @@ Model-wide design and information flow.
 - [DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · 中文
 - [TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations](../../conferences/icml-2026/cards/3801-3900.md#rossi26a-architecture) · 中文
 - [Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling](../../conferences/icml-2026/cards/4001-4100.md#seong26a-architecture) · 中文
+- [Structure-Preserving Learning Improves Geometry Generalization in Neural PDEs](../../conferences/icml-2026/cards/4001-4100.md#shaffer26a-architecture) · 中文
+- [Tri-Scale Neural ODEs for Continuous Multi-Omics Disease Modeling](../../conferences/icml-2026/cards/4001-4100.md#shaffiey26a-architecture) · 中文
+- [dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning](../../conferences/icml-2026/cards/4001-4100.md#shah26b-architecture) · 中文
+- [SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models](../../conferences/icml-2026/cards/4001-4100.md#shang26a-architecture) · 中文
 <!-- classification:end -->

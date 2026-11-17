@@ -18,6 +18,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="hong26f-architecture"></a>[Unifying Masked Diffusion Models with Various Generation Orders and Beyond](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26f)
 - <a id="isik26a-architecture"></a>[Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-isik26a)
 - <a id="kang26p-architecture"></a>[AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26p)
+- <a id="shabalin26a-architecture"></a>[Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation](../../conferences/icml-2026/cards/4001-4100.md#paper-shabalin26a)
 
 <a id="by-modules"></a>
 

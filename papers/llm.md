@@ -59,6 +59,7 @@
 - <a id="parker26a-architecture"></a>[TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../conferences/icml-2026/cards/3601-3700.md#paper-parker26a)
 - <a id="piao26b-architecture"></a>[MarketSim: Simulating Stock Markets with Large-Scale Generative Agents](../conferences/icml-2026/cards/3601-3700.md#paper-piao26b)
 - <a id="sahoo26b-architecture"></a>[Esoteric Language Models: A Family of Any-Order Diffusion LLMs](../conferences/icml-2026/cards/3901-4000.md#paper-sahoo26b)
+- <a id="shaj26a-architecture"></a>[Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking](../conferences/icml-2026/cards/4001-4100.md#paper-shaj26a)
 
 <a id="by-modules"></a>
 
@@ -372,6 +373,9 @@
 - <a id="ren26s-reinforcement-learning"></a>[Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO](../conferences/icml-2026/cards/3801-3900.md#paper-ren26s)
 - <a id="ren26u-reinforcement-learning"></a>[When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM’s Adaptive Reasoning](../conferences/icml-2026/cards/3801-3900.md#paper-ren26u)
 - <a id="rezaei26a-reinforcement-learning"></a>[Online Rubrics Elicitation from Pairwise Comparisons](../conferences/icml-2026/cards/3801-3900.md#paper-rezaei26a)
+- <a id="setlur26a-reinforcement-learning"></a>[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](../conferences/icml-2026/cards/4001-4100.md#paper-setlur26a)
+- <a id="shao26a-reinforcement-learning"></a>[DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](../conferences/icml-2026/cards/4001-4100.md#paper-shao26a)
+- <a id="shao26d-reinforcement-learning"></a>[Spurious Rewards: Rethinking Training Signals in RLVR](../conferences/icml-2026/cards/4001-4100.md#paper-shao26d)
 
 <a id="by-training-strategies"></a>
 
@@ -484,6 +488,9 @@
 - <a id="roland26a-training-strategies"></a>[Modular Pretraining Enables Access Control](../conferences/icml-2026/cards/3801-3900.md#paper-roland26a)
 - <a id="runwal26a-training-strategies"></a>[PRISM: Demystifying Retention and Interaction in Mid-Training](../conferences/icml-2026/cards/3901-4000.md#paper-runwal26a)
 - <a id="ryd26a-training-strategies"></a>[Removing Sandbagging in LLMs by Training with Weak Supervision](../conferences/icml-2026/cards/3901-4000.md#paper-ryd26a)
+- <a id="seto26a-training-strategies"></a>[Optimal Splitting of Language Models from Mixtures to Specialized Domains](../conferences/icml-2026/cards/4001-4100.md#paper-seto26a)
+- <a id="shahroz26a-training-strategies"></a>[TMS: Trajectory-Mixed Supervision for On-Policy Self Distillation](../conferences/icml-2026/cards/4001-4100.md#paper-shahroz26a)
+- <a id="shang26c-training-strategies"></a>[Training–Inference Consistent Segmented Execution for Long-Context LLMs](../conferences/icml-2026/cards/4001-4100.md#paper-shang26c)
 
 <a id="by-data-strategies"></a>
 
@@ -827,6 +834,12 @@
 - <a id="scalena26a-inference"></a>[EAGer: Entropy-Aware GEneRation for Adaptive Inference-Time Scaling](../conferences/icml-2026/cards/3901-4000.md#paper-scalena26a)
 - <a id="segal26a-inference"></a>[Provably Protecting Fine-Tuned LLMs from Training Data Extraction while Preserving Utility](../conferences/icml-2026/cards/3901-4000.md#paper-segal26a)
 - <a id="seo26a-inference"></a>[Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning](../conferences/icml-2026/cards/3901-4000.md#paper-seo26a)
+- <a id="shah26d-inference"></a>[MoLoRA: Composable Specialization via Per-Token Adapter Routing](../conferences/icml-2026/cards/4001-4100.md#paper-shah26d)
+- <a id="shahariar26a-inference"></a>[Modeling Hierarchical Thinking in Large Reasoning Models](../conferences/icml-2026/cards/4001-4100.md#paper-shahariar26a)
+- <a id="shan26a-inference"></a>[LUGS: Latent-aware Guidance for Efficient Unmasking in Diffusion Large Language Models](../conferences/icml-2026/cards/4001-4100.md#paper-shan26a)
+- <a id="shao26e-inference"></a>[MonoScale: Scaling Multi-Agent System with Monotonic Improvement](../conferences/icml-2026/cards/4001-4100.md#paper-shao26e)
+- <a id="shao26g-inference"></a>[Block Rotation is All You Need for MXFP4 Quantization](../conferences/icml-2026/cards/4001-4100.md#paper-shao26g)
+- <a id="shao26i-inference"></a>[Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks](../conferences/icml-2026/cards/4001-4100.md#paper-shao26i)
 
 <a id="by-representation-learning"></a>
 
@@ -845,6 +858,8 @@
 - <a id="noroozizadeh26a-representation-learning"></a>[Deep sequence models tend to memorize geometrically; it is unclear why](../conferences/icml-2026/cards/3401-3500.md#paper-noroozizadeh26a)
 - <a id="pethkar26a-representation-learning"></a>[Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping](../conferences/icml-2026/cards/3601-3700.md#paper-pethkar26a)
 - <a id="pimparkhede26a-representation-learning"></a>[Learning the ESG Geometry with Domain Aware Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-pimparkhede26a)
+- <a id="shafran26a-representation-learning"></a>[From Directions to Regions: Decomposing Activations in Language Models via Local Geometry](../conferences/icml-2026/cards/4001-4100.md#paper-shafran26a)
+- <a id="shai26a-representation-learning"></a>[Transformers learn factored representations](../conferences/icml-2026/cards/4001-4100.md#paper-shai26a)
 
 <a id="by-evaluation"></a>
 
@@ -1150,6 +1165,13 @@
 - <a id="sehgal26a-evaluation"></a>[FormulaCode: Evaluating Agentic Optimization on Large Codebases](../conferences/icml-2026/cards/3901-4000.md#paper-sehgal26a)
 - <a id="sehwag26a-evaluation"></a>[SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?](../conferences/icml-2026/cards/3901-4000.md#paper-sehwag26a)
 - <a id="sel26a-evaluation"></a>[Trojan-Speak: Bypassing Constitutional Classifiers with No Jailbreak Tax via Adversarial Finetuning](../conferences/icml-2026/cards/3901-4000.md#paper-sel26a)
+- <a id="serrano26b-evaluation"></a>[Frontier Models Can Take Actions at Low Probabilities](../conferences/icml-2026/cards/4001-4100.md#paper-serrano26b)
+- <a id="shaheen26a-evaluation"></a>[Domain Restriction via Multi SAE Layer Transitions](../conferences/icml-2026/cards/4001-4100.md#paper-shaheen26a)
+- <a id="shalyt26a-evaluation"></a>[ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark](../conferences/icml-2026/cards/4001-4100.md#paper-shalyt26a)
+- <a id="shao26h-evaluation"></a>[SciNet: Evaluating AI Agents in Relation-Aware Scientific Literature Retrieval](../conferences/icml-2026/cards/4001-4100.md#paper-shao26h)
+- <a id="shao26j-evaluation"></a>[DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions](../conferences/icml-2026/cards/4001-4100.md#paper-shao26j)
+- <a id="sharma26a-evaluation"></a>[Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage](../conferences/icml-2026/cards/4001-4100.md#paper-sharma26a)
+- <a id="sharma26b-evaluation"></a>[RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations](../conferences/icml-2026/cards/4001-4100.md#paper-sharma26b)
 
 <a id="by-theory-statistics"></a>
 
@@ -1206,4 +1228,5 @@
 - <a id="rad26b-theory-statistics"></a>[Rate or Fate? RLV$^\varepsilon$R: Reinforcement Learning with Verifiable Noisy Rewards](../conferences/icml-2026/cards/3701-3800.md#paper-rad26b)
 - <a id="raju26a-theory-statistics"></a>[A model of errors in transformers](../conferences/icml-2026/cards/3801-3900.md#paper-raju26a)
 - <a id="sarrof26a-theory-statistics"></a>[On the Ability of Transformers to Verify Plans](../conferences/icml-2026/cards/3901-4000.md#paper-sarrof26a)
+- <a id="shapira26a-theory-statistics"></a>[How RLHF Amplifies Sycophancy](../conferences/icml-2026/cards/4001-4100.md#paper-shapira26a)
 <!-- classification:end -->

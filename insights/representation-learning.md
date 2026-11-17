@@ -26,6 +26,8 @@
 - [局部事实学出支持多跳的全局嵌入](../conferences/icml-2026/cards/3401-3500.md#noroozizadeh26a-representation-learning) · Deep sequence models tend to memorize geometrically; it is unclear why
 - [用旧嵌入词典扩词](../conferences/icml-2026/cards/3601-3700.md#pethkar26a-representation-learning) · Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping
 - [有类型数值 token 与轨迹几何对齐](../conferences/icml-2026/cards/3601-3700.md#pimparkhede26a-representation-learning) · Learning the ESG Geometry with Domain Aware Language Models
+- [用局部高斯区域与低秩变化解释模型激活](../conferences/icml-2026/cards/4001-4100.md#shafran26a-representation-learning) · From Directions to Regions: Decomposing Activations in Language Models via Local Geometry
+- [从条件独立性预测 Transformer 会否形成因子正交子空间](../conferences/icml-2026/cards/4001-4100.md#shai26a-representation-learning) · Transformers learn factored representations
 
 <a id="by-computer-vision"></a>
 
@@ -224,6 +226,7 @@
 - [独立测试世界表示对齐和新实体整合](../conferences/icml-2026/cards/3501-3600.md#park26d-representation-learning) · Convergent World Representations and Divergent Tasks
 - [在 softmax 对偶坐标中定向改概念](../conferences/icml-2026/cards/3501-3600.md#park26p-representation-learning) · The Information Geometry of Softmax: Probing and Steering
 - [上下文子空间张量绑定](../conferences/icml-2026/cards/3601-3700.md#pence26a-representation-learning) · Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories
+- [从重叠子窗学习时序表征](../conferences/icml-2026/cards/4001-4100.md#shamba26a-representation-learning) · Divide and Contrast: Learning Robust Temporal Features without Augmentation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -258,6 +261,7 @@
 - [语义角度与结构半径的层级检索](../conferences/icml-2026/cards/3301-3400.md#mishra26c-representation-learning) · Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning
 - [图角色比例嵌入](../conferences/icml-2026/cards/3401-3500.md#nakis26a-representation-learning) · Aitchison Embeddings for Learning Compositional Graph Representations
 - [固定多跳聚合的图节点表征](../conferences/icml-2026/cards/3901-4000.md#rubio-madrigal26a-representation-learning) · Fixed Aggregation Features Can Rival GNNs
+- [按 Dirichlet 能量分离图对比传播](../conferences/icml-2026/cards/4001-4100.md#shan26b-representation-learning) · Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing
 
 <a id="by-scientific-ml"></a>
 

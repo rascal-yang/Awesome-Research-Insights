@@ -157,6 +157,9 @@
 - [用小模型的连贯轨迹给大模型强化学习做早期探索](../conferences/icml-2026/cards/3801-3900.md#ren26s-reinforcement-learning) · Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO
 - [用等义冗长题训练模型忽略表面复杂度](../conferences/icml-2026/cards/3801-3900.md#ren26u-reinforcement-learning) · When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM’s Adaptive Reasoning
 - [比较新旧策略回答动态发现遗漏评分准则](../conferences/icml-2026/cards/3801-3900.md#rezaei26a-reinforcement-learning) · Online Rubrics Elicitation from Pairwise Comparisons
+- [复用成功轨迹的旧前缀以强化学习续写困难题](../conferences/icml-2026/cards/4001-4100.md#setlur26a-reinforcement-learning) · Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes
+- [随策略进化评分规则的深度研究强化学习](../conferences/icml-2026/cards/4001-4100.md#shao26a-reinforcement-learning) · DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research
+- [用随机奖励对照识别底座能力放大](../conferences/icml-2026/cards/4001-4100.md#shao26d-reinforcement-learning) · Spurious Rewards: Rethinking Training Signals in RLVR
 
 <a id="by-computer-vision"></a>
 
@@ -315,6 +318,7 @@
 - [把 Bellman 迭代写入回归模型上下文](../conferences/icml-2026/cards/3901-4000.md#schiff26a-reinforcement-learning) · ICR-RL: Deep Reinforcement Learning via In-Context-Regression
 - [以可执行动作价值引导噪声策略](../conferences/icml-2026/cards/3901-4000.md#selim26a-reinforcement-learning) · Noisy-Space Policy Gradient for Diffusion Policies in Offline Reinforcement Learning
 - [以规划器学习的先验正则化采样策略](../conferences/icml-2026/cards/4001-4100.md#serra-gomez26a-reinforcement-learning) · A KL-regularization framework for learning to plan with adaptive priors
+- [按传播影响分层观测并用回报分布评估双峰级联](../conferences/icml-2026/cards/4001-4100.md#shakeri26a-reinforcement-learning) · Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL
 
 <a id="by-robotics"></a>
 
