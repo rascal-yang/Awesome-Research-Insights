@@ -129,6 +129,7 @@
 - [纯探索决策方差分配](../conferences/icml-2026/cards/3001-3100.md#luong26a-theory-statistics) · Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments
 - [未知误差转移先验的乐观镜像下降](../conferences/icml-2026/cards/3101-3200.md#lyu26e-theory-statistics) · Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors
 - [用慢变量历史幅度控制快变量](../conferences/icml-2026/cards/3101-3200.md#mahadevan26a-theory-statistics) · Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning
+- [以双轨迹复杂度刻画偏好强化学习的最优探索](../conferences/icml-2026/cards/3201-3300.md#mao26a-theory-statistics) · Rethinking the Hardness of PbRL: A Provable General Regret Bound
 
 <a id="by-robotics"></a>
 
@@ -459,6 +460,7 @@
 - [从删单个特征的扰动衡量集成稳定性](../conferences/icml-2026/cards/3101-3200.md#ma26af-theory-statistics) · Feature Bagging Provides Stability
 - [从系数平衡校正训练公平约束](../conferences/icml-2026/cards/3101-3200.md#mai26a-theory-statistics) · Correcting Overparameterization Effects in Fair Empirical Risk Minimization
 - [以反事实偏离能力分析算法定价](../conferences/icml-2026/cards/3101-3200.md#maiti26a-theory-statistics) · Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners
+- [用有限样本相关阈值决定是否引入伪标签](../conferences/icml-2026/cards/3201-3300.md#mani26b-theory-statistics) · No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference
 
 <a id="by-graph-and-recommendation"></a>
 

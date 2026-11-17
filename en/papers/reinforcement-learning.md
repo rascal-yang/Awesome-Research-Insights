@@ -261,4 +261,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="luong26a-theory-statistics"></a>[Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments](../../conferences/icml-2026/cards/3001-3100.md#paper-luong26a)
 - <a id="lyu26e-theory-statistics"></a>[Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26e)
 - <a id="mahadevan26a-theory-statistics"></a>[Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-mahadevan26a)
+- <a id="mao26a-theory-statistics"></a>[Rethinking the Hardness of PbRL: A Provable General Regret Bound](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26a)
 <!-- classification:end -->

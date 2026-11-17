@@ -314,6 +314,7 @@
 - [用未知查询下的文档改动压力测试召回](../conferences/icml-2026/cards/2301-2400.md#li26g-evaluation) · “Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval
 - [给音频伪造检测的不同分布单独画规模曲线](../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection
 - [拆分多语长文的粒度与证据位置](../conferences/icml-2026/cards/2601-2700.md#li26ib-evaluation) · MGAL: A Multilingual Granularity-Aware Long-Context Benchmark
+- [用局部游程与多轮改写稳定性识别文字水印](../conferences/icml-2026/cards/3201-3300.md#mansouri26b-evaluation) · Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text
 
 <a id="by-reinforcement-learning"></a>
 
@@ -419,6 +420,7 @@
 - [按样本的跨模态差异评估联邦成员推断暴露](../conferences/icml-2026/cards/3101-3200.md#ma26t-evaluation) · The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance
 - [组合指令音乐奖励评测](../conferences/icml-2026/cards/3101-3200.md#ma26am-evaluation) · CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction
 - [视觉工具强化学习收益归因](../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom
+- [将语音函数调用拆成转录与端到端两套可执行测试](../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · BFCL Audio: An Audio Function Calling Evaluation for Large Language Models
 
 <a id="by-ml-foundations"></a>
 

@@ -314,6 +314,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [“Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](../../conferences/icml-2026/cards/2301-2400.md#li26g-evaluation) · 中文
 - [Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection](../../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · 中文
 - [MGAL: A Multilingual Granularity-Aware Long-Context Benchmark](../../conferences/icml-2026/cards/2601-2700.md#li26ib-evaluation) · 中文
+- [Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text](../../conferences/icml-2026/cards/3201-3300.md#mansouri26b-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -419,6 +420,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance](../../conferences/icml-2026/cards/3101-3200.md#ma26t-evaluation) · 中文
 - [CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../../conferences/icml-2026/cards/3101-3200.md#ma26am-evaluation) · 中文
 - [What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · 中文
+- [BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -306,6 +306,7 @@
 - <a id="lu26ak-representation-learning"></a>[SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ak)
 - <a id="lv26h-representation-learning"></a>[Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection](../conferences/icml-2026/cards/3101-3200.md#paper-lv26h)
 - <a id="mahns26a-representation-learning"></a>[Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../conferences/icml-2026/cards/3101-3200.md#paper-mahns26a)
+- <a id="mao26h-representation-learning"></a>[SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment](../conferences/icml-2026/cards/3201-3300.md#paper-mao26h)
 
 <a id="by-evaluation"></a>
 

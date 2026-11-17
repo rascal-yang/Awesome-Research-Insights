@@ -131,6 +131,8 @@
 - [分块优化推理正确性与置信校准](../conferences/icml-2026/cards/3101-3200.md#ma26al-reinforcement-learning) · Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards
 - [内化逐步安全反思](../conferences/icml-2026/cards/3101-3200.md#ma26at-reinforcement-learning) · Reflector: Internalizing Step-wise Reflection against Indirect Jailbreaks
 - [混合专家 rollout 路由重放](../conferences/icml-2026/cards/3101-3200.md#ma26aw-reinforcement-learning) · Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers
+- [估计奖励翻转率后校正组相对策略梯度](../conferences/icml-2026/cards/3201-3300.md#mansouri26a-reinforcement-learning) · Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients
+- [用短行为前缀探索并强化模型的隐含行为模式](../conferences/icml-2026/cards/3201-3300.md#mao26i-reinforcement-learning) · Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective
 
 <a id="by-computer-vision"></a>
 

@@ -131,6 +131,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards](../../conferences/icml-2026/cards/3101-3200.md#ma26al-reinforcement-learning) · 中文
 - [Reflector: Internalizing Step-wise Reflection against Indirect Jailbreaks](../../conferences/icml-2026/cards/3101-3200.md#ma26at-reinforcement-learning) · 中文
 - [Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](../../conferences/icml-2026/cards/3101-3200.md#ma26aw-reinforcement-learning) · 中文
+- [Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients](../../conferences/icml-2026/cards/3201-3300.md#mansouri26a-reinforcement-learning) · 中文
+- [Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective](../../conferences/icml-2026/cards/3201-3300.md#mao26i-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

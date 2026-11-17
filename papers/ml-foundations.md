@@ -472,6 +472,7 @@
 - <a id="lumadjeng26a-representation-learning"></a>[ECSEL: Explainable Classification via Signomial Equation Learning](../conferences/icml-2026/cards/3001-3100.md#paper-lumadjeng26a)
 - <a id="ma26ao-representation-learning"></a>[Reliable Neighborhood-Aware Multi-View Outlier Detection](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ao)
 - <a id="makinen26a-representation-learning"></a>[Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings](../conferences/icml-2026/cards/3101-3200.md#paper-makinen26a)
+- <a id="mao26c-representation-learning"></a>[Identifying Learnwares via Reduced Neural Conditional Mean Embedding](../conferences/icml-2026/cards/3201-3300.md#paper-mao26c)
 
 <a id="by-evaluation"></a>
 
@@ -836,4 +837,5 @@
 - <a id="ma26af-theory-statistics"></a>[Feature Bagging Provides Stability](../conferences/icml-2026/cards/3101-3200.md#paper-ma26af)
 - <a id="mai26a-theory-statistics"></a>[Correcting Overparameterization Effects in Fair Empirical Risk Minimization](../conferences/icml-2026/cards/3101-3200.md#paper-mai26a)
 - <a id="maiti26a-theory-statistics"></a>[Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](../conferences/icml-2026/cards/3101-3200.md#paper-maiti26a)
+- <a id="mani26b-theory-statistics"></a>[No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference](../conferences/icml-2026/cards/3201-3300.md#paper-mani26b)
 <!-- classification:end -->

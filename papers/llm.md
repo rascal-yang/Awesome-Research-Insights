@@ -312,6 +312,8 @@
 - <a id="ma26al-reinforcement-learning"></a>[Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards](../conferences/icml-2026/cards/3101-3200.md#paper-ma26al)
 - <a id="ma26at-reinforcement-learning"></a>[Reflector: Internalizing Step-wise Reflection against Indirect Jailbreaks](../conferences/icml-2026/cards/3101-3200.md#paper-ma26at)
 - <a id="ma26aw-reinforcement-learning"></a>[Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](../conferences/icml-2026/cards/3101-3200.md#paper-ma26aw)
+- <a id="mansouri26a-reinforcement-learning"></a>[Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients](../conferences/icml-2026/cards/3201-3300.md#paper-mansouri26a)
+- <a id="mao26i-reinforcement-learning"></a>[Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective](../conferences/icml-2026/cards/3201-3300.md#paper-mao26i)
 
 <a id="by-training-strategies"></a>
 
@@ -675,6 +677,8 @@
 - <a id="madaan26b-inference"></a>[Rethinking Thinking Tokens: LLMs as Improvement Operators](../conferences/icml-2026/cards/3101-3200.md#paper-madaan26b)
 - <a id="mahdavi26a-inference"></a>[Scaling Generative Verifiers For Natural Language Mathematical Proof Verification And Selection](../conferences/icml-2026/cards/3101-3200.md#paper-mahdavi26a)
 - <a id="mandel26a-inference"></a>[PPDL: LLM-Based Flows as Probabilistic Programs](../conferences/icml-2026/cards/3201-3300.md#paper-mandel26a)
+- <a id="mao26e-inference"></a>[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](../conferences/icml-2026/cards/3201-3300.md#paper-mao26e)
+- <a id="mao26g-inference"></a>[LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning](../conferences/icml-2026/cards/3201-3300.md#paper-mao26g)
 
 <a id="by-representation-learning"></a>
 

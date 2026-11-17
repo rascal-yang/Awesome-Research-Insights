@@ -138,6 +138,7 @@
 - [过程奖励训练的轨迹筛选](../conferences/icml-2026/cards/2401-2500.md#li26bm-data-strategies) · Training Data Efficiency in Multimodal Process Reward Models
 - [用可执行绘图代码连接几何题结构和图像](../conferences/icml-2026/cards/2701-2800.md#lin26c-data-strategies) · Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code
 - [按系统、图像与用户输入分解注意力识别投毒](../conferences/icml-2026/cards/2801-2900.md#liu26ag-data-strategies) · TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning
+- [用长文本布局训练和严格检测重叠评估文字图像](../conferences/icml-2026/cards/3201-3300.md#mao26f-data-strategies) · TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation
 
 <a id="by-ml-foundations"></a>
 

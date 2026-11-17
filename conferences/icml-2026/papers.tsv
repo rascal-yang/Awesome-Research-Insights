@@ -3207,18 +3207,18 @@ number	pmlr_id	title	paper_url	insight_status
 3206	manenti26b	SWING: Unlocking Implicit Graph Representations for Graph Random Features	https://proceedings.mlr.press/v306/manenti26b.html	written
 3207	mang26a	FrontierCS: Evolving Challenges for Evolving Intelligence	https://proceedings.mlr.press/v306/mang26a.html	written
 3208	mani26a	Few-Shot Design Optimization by Exploiting Auxiliary Information	https://proceedings.mlr.press/v306/mani26a.html	written
-3209	mani26b	No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference	https://proceedings.mlr.press/v306/mani26b.html	pending
-3210	mansouri26a	Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients	https://proceedings.mlr.press/v306/mansouri26a.html	pending
-3211	mansouri26b	Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text	https://proceedings.mlr.press/v306/mansouri26b.html	pending
-3212	mao26a	Rethinking the Hardness of PbRL: A Provable General Regret Bound	https://proceedings.mlr.press/v306/mao26a.html	pending
-3213	mao26b	BFCL Audio: An Audio Function Calling Evaluation for Large Language Models	https://proceedings.mlr.press/v306/mao26b.html	pending
-3214	mao26c	Identifying Learnwares via Reduced Neural Conditional Mean Embedding	https://proceedings.mlr.press/v306/mao26c.html	pending
-3215	mao26d	SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment	https://proceedings.mlr.press/v306/mao26d.html	pending
-3216	mao26e	TriAttention: Efficient Long Reasoning with Trigonometric KV Compression	https://proceedings.mlr.press/v306/mao26e.html	pending
-3217	mao26f	TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation	https://proceedings.mlr.press/v306/mao26f.html	pending
-3218	mao26g	LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning	https://proceedings.mlr.press/v306/mao26g.html	pending
-3219	mao26h	SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment	https://proceedings.mlr.press/v306/mao26h.html	pending
-3220	mao26i	Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective	https://proceedings.mlr.press/v306/mao26i.html	pending
+3209	mani26b	No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference	https://proceedings.mlr.press/v306/mani26b.html	written
+3210	mansouri26a	Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients	https://proceedings.mlr.press/v306/mansouri26a.html	written
+3211	mansouri26b	Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text	https://proceedings.mlr.press/v306/mansouri26b.html	written
+3212	mao26a	Rethinking the Hardness of PbRL: A Provable General Regret Bound	https://proceedings.mlr.press/v306/mao26a.html	written
+3213	mao26b	BFCL Audio: An Audio Function Calling Evaluation for Large Language Models	https://proceedings.mlr.press/v306/mao26b.html	written
+3214	mao26c	Identifying Learnwares via Reduced Neural Conditional Mean Embedding	https://proceedings.mlr.press/v306/mao26c.html	written
+3215	mao26d	SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment	https://proceedings.mlr.press/v306/mao26d.html	written
+3216	mao26e	TriAttention: Efficient Long Reasoning with Trigonometric KV Compression	https://proceedings.mlr.press/v306/mao26e.html	written
+3217	mao26f	TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation	https://proceedings.mlr.press/v306/mao26f.html	written
+3218	mao26g	LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning	https://proceedings.mlr.press/v306/mao26g.html	written
+3219	mao26h	SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment	https://proceedings.mlr.press/v306/mao26h.html	written
+3220	mao26i	Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective	https://proceedings.mlr.press/v306/mao26i.html	written
 3221	mao26j	STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack	https://proceedings.mlr.press/v306/mao26j.html	pending
 3222	maoutsa26a	From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints	https://proceedings.mlr.press/v306/maoutsa26a.html	pending
 3223	marchand26a	Quantifying Frontier LLM Capabilities for Container Sandbox Escape	https://proceedings.mlr.press/v306/marchand26a.html	pending

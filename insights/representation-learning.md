@@ -144,6 +144,7 @@
 - [多模态聚类的自适应粒球瓶颈](../conferences/icml-2026/cards/2901-3000.md#lou26j-representation-learning) · Structure-aware Granular-Ball based Information Bottleneck for Multi-modal Clustering
 - [空间理解仿射不变性](../conferences/icml-2026/cards/3001-3100.md#lu26r-representation-learning) · AffIn-Space: Learning Affine-Invariant Representations for 3D Spatial Understanding with MLLMs
 - [在生成与理解之间单独交换共享表征](../conferences/icml-2026/cards/3001-3100.md#lu26as-representation-learning) · DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement
+- [用全局图文锚校准局部图像块裁剪](../conferences/icml-2026/cards/3201-3300.md#mao26d-representation-learning) · SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment
 
 <a id="by-ml-foundations"></a>
 
@@ -187,6 +188,7 @@
 - [直接学习可解释分类的符号幂乘积方程](../conferences/icml-2026/cards/3001-3100.md#lumadjeng26a-representation-learning) · ECSEL: Explainable Classification via Signomial Equation Learning
 - [多视图异常邻域校准](../conferences/icml-2026/cards/3101-3200.md#ma26ao-representation-learning) · Reliable Neighborhood-Aware Multi-View Outlier Detection
 - [用专家相对判断定位新任务](../conferences/icml-2026/cards/3101-3200.md#makinen26a-representation-learning) · Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings
+- [用条件均值嵌入描述可复用模型的输入输出关系](../conferences/icml-2026/cards/3201-3300.md#mao26c-representation-learning) · Identifying Learnwares via Reduced Neural Conditional Mean Embedding
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -269,4 +271,5 @@
 - [用反向个体对比与脑图重建学习共享表征](../conferences/icml-2026/cards/3001-3100.md#lu26ak-representation-learning) · SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification
 - [稀疏故障前兆的连续时间原型](../conferences/icml-2026/cards/3101-3200.md#lv26h-representation-learning) · Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection
 - [用遮挡潜预测学习市场风险结构](../conferences/icml-2026/cards/3101-3200.md#mahns26a-representation-learning) · Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities
+- [用腹侧视觉区脑信号定位模型稀疏语义特征](../conferences/icml-2026/cards/3201-3300.md#mao26h-representation-learning) · SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment
 <!-- classification:end -->

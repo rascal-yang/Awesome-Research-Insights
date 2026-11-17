@@ -144,6 +144,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Structure-aware Granular-Ball based Information Bottleneck for Multi-modal Clustering](../../conferences/icml-2026/cards/2901-3000.md#lou26j-representation-learning) · 中文
 - [AffIn-Space: Learning Affine-Invariant Representations for 3D Spatial Understanding with MLLMs](../../conferences/icml-2026/cards/3001-3100.md#lu26r-representation-learning) · 中文
 - [DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](../../conferences/icml-2026/cards/3001-3100.md#lu26as-representation-learning) · 中文
+- [SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment](../../conferences/icml-2026/cards/3201-3300.md#mao26d-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -187,6 +188,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ECSEL: Explainable Classification via Signomial Equation Learning](../../conferences/icml-2026/cards/3001-3100.md#lumadjeng26a-representation-learning) · 中文
 - [Reliable Neighborhood-Aware Multi-View Outlier Detection](../../conferences/icml-2026/cards/3101-3200.md#ma26ao-representation-learning) · 中文
 - [Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings](../../conferences/icml-2026/cards/3101-3200.md#makinen26a-representation-learning) · 中文
+- [Identifying Learnwares via Reduced Neural Conditional Mean Embedding](../../conferences/icml-2026/cards/3201-3300.md#mao26c-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -269,4 +271,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification](../../conferences/icml-2026/cards/3001-3100.md#lu26ak-representation-learning) · 中文
 - [Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection](../../conferences/icml-2026/cards/3101-3200.md#lv26h-representation-learning) · 中文
 - [Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../../conferences/icml-2026/cards/3101-3200.md#mahns26a-representation-learning) · 中文
+- [SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment](../../conferences/icml-2026/cards/3201-3300.md#mao26h-representation-learning) · 中文
 <!-- classification:end -->

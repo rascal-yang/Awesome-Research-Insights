@@ -228,6 +228,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Rethinking Thinking Tokens: LLMs as Improvement Operators](../../conferences/icml-2026/cards/3101-3200.md#madaan26b-inference) · 中文
 - [Scaling Generative Verifiers For Natural Language Mathematical Proof Verification And Selection](../../conferences/icml-2026/cards/3101-3200.md#mahdavi26a-inference) · 中文
 - [PPDL: LLM-Based Flows as Probabilistic Programs](../../conferences/icml-2026/cards/3201-3300.md#mandel26a-inference) · 中文
+- [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](../../conferences/icml-2026/cards/3201-3300.md#mao26e-inference) · 中文
+- [LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#mao26g-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

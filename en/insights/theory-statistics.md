@@ -129,6 +129,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments](../../conferences/icml-2026/cards/3001-3100.md#luong26a-theory-statistics) · 中文
 - [Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors](../../conferences/icml-2026/cards/3101-3200.md#lyu26e-theory-statistics) · 中文
 - [Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#mahadevan26a-theory-statistics) · 中文
+- [Rethinking the Hardness of PbRL: A Provable General Regret Bound](../../conferences/icml-2026/cards/3201-3300.md#mao26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -459,6 +460,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Feature Bagging Provides Stability](../../conferences/icml-2026/cards/3101-3200.md#ma26af-theory-statistics) · 中文
 - [Correcting Overparameterization Effects in Fair Empirical Risk Minimization](../../conferences/icml-2026/cards/3101-3200.md#mai26a-theory-statistics) · 中文
 - [Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](../../conferences/icml-2026/cards/3101-3200.md#maiti26a-theory-statistics) · 中文
+- [No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference](../../conferences/icml-2026/cards/3201-3300.md#mani26b-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

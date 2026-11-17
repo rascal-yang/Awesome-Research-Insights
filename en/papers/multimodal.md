@@ -207,6 +207,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26bm-data-strategies"></a>[Training Data Efficiency in Multimodal Process Reward Models](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bm)
 - <a id="lin26c-data-strategies"></a>[Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26c)
 - <a id="liu26ag-data-strategies"></a>[TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ag)
+- <a id="mao26f-data-strategies"></a>[TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26f)
 
 <a id="by-inference"></a>
 
@@ -317,6 +318,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lou26j-representation-learning"></a>[Structure-aware Granular-Ball based Information Bottleneck for Multi-modal Clustering](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26j)
 - <a id="lu26r-representation-learning"></a>[AffIn-Space: Learning Affine-Invariant Representations for 3D Spatial Understanding with MLLMs](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26r)
 - <a id="lu26as-representation-learning"></a>[DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26as)
+- <a id="mao26d-representation-learning"></a>[SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26d)
 
 <a id="by-evaluation"></a>
 
@@ -393,6 +395,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ma26t-evaluation"></a>[The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26t)
 - <a id="ma26am-evaluation"></a>[CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26am)
 - <a id="ma26as-evaluation"></a>[What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26as)
+- <a id="mao26b-evaluation"></a>[BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26b)
 
 <a id="by-theory-statistics"></a>
 
