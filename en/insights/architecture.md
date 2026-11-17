@@ -127,6 +127,7 @@ Model-wide design and information flow.
 - [Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery](../../conferences/icml-2026/cards/2501-2600.md#li26fm-architecture) · 中文
 - [DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter](../../conferences/icml-2026/cards/2501-2600.md#li26fs-architecture) · 中文
 - [Structured 4D Latent Predictive Model for Robot Planning](../../conferences/icml-2026/cards/2601-2700.md#li26hk-architecture) · 中文
+- [RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](../../conferences/icml-2026/cards/2701-2800.md#lin26g-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -272,4 +273,5 @@ Model-wide design and information flow.
 - [Bipartite Graph Attention-based Clustering for Large-scale scRNA-seq Data](../../conferences/icml-2026/cards/2601-2700.md#liang26a-architecture) · 中文
 - [Frequency Matching in Spiking Neural Networks for mmWave Sensing](../../conferences/icml-2026/cards/2701-2800.md#liao26e-architecture) · 中文
 - [Flow Equivariant World Models: Structured Memory for Dynamic Environments](../../conferences/icml-2026/cards/2701-2800.md#lillemark26a-architecture) · 中文
+- [Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](../../conferences/icml-2026/cards/2701-2800.md#lin26e-architecture) · 中文
 <!-- classification:end -->

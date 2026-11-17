@@ -412,6 +412,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [An Evidential Route to Asymptotic Bayes Optimality under Sparsity](../../conferences/icml-2026/cards/2601-2700.md#liang26e-theory-statistics) · 中文
 - [Causal Representation Learning with Optimal Compression under Complex Treatments](../../conferences/icml-2026/cards/2601-2700.md#liang26f-theory-statistics) · 中文
 - [Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding](../../conferences/icml-2026/cards/2701-2800.md#liaw26a-theory-statistics) · 中文
+- [Empirical Gaussian Processes](../../conferences/icml-2026/cards/2701-2800.md#lin26b-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

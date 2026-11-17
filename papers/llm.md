@@ -78,6 +78,7 @@
 - <a id="li26dl-modules"></a>[FiX: Introducing Fine-grained Forget Gate into Softmax Attention](../conferences/icml-2026/cards/2501-2600.md#paper-li26dl)
 - <a id="li26hj-modules"></a>[Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers](../conferences/icml-2026/cards/2601-2700.md#paper-li26hj)
 - <a id="liang26ae-modules"></a>[SpikingLM: Towards Fully Spiking Language Model](../conferences/icml-2026/cards/2701-2800.md#paper-liang26ae)
+- <a id="lin26j-modules"></a>[Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26j)
 
 <a id="by-loss-functions"></a>
 
@@ -349,6 +350,7 @@
 - <a id="li26hf-training-strategies"></a>[SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding](../conferences/icml-2026/cards/2601-2700.md#paper-li26hf)
 - <a id="li26hh-training-strategies"></a>[Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment](../conferences/icml-2026/cards/2601-2700.md#paper-li26hh)
 - <a id="li26ik-training-strategies"></a>[Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](../conferences/icml-2026/cards/2601-2700.md#paper-li26ik)
+- <a id="lin26k-training-strategies"></a>[Can Large Language Models Generalize Procedures Across Representations?](../conferences/icml-2026/cards/2701-2800.md#paper-lin26k)
 
 <a id="by-data-strategies"></a>
 
@@ -568,6 +570,7 @@
 - <a id="liang26t-inference"></a>[Strategy Executability in Mathematical Reasoning: Leveraging Human–Model Differences for Effective Guidance](../conferences/icml-2026/cards/2701-2800.md#paper-liang26t)
 - <a id="liang26v-inference"></a>[FOCUS: DLLMs Know How to Tame Their Compute Bound](../conferences/icml-2026/cards/2701-2800.md#paper-liang26v)
 - <a id="liao26c-inference"></a>[AlphaRouter: Token-level Routing Between SLM and LLM with Reinforcement Learning and Tree Search](../conferences/icml-2026/cards/2701-2800.md#paper-liao26c)
+- <a id="lin26i-inference"></a>[OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization](../conferences/icml-2026/cards/2701-2800.md#paper-lin26i)
 
 <a id="by-representation-learning"></a>
 

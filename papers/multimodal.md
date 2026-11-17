@@ -179,6 +179,7 @@
 - <a id="lee26m-data-strategies"></a>[Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain](../conferences/icml-2026/cards/2301-2400.md#paper-lee26m)
 - <a id="li26y-data-strategies"></a>[A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](../conferences/icml-2026/cards/2401-2500.md#paper-li26y)
 - <a id="li26bm-data-strategies"></a>[Training Data Efficiency in Multimodal Process Reward Models](../conferences/icml-2026/cards/2401-2500.md#paper-li26bm)
+- <a id="lin26c-data-strategies"></a>[Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code](../conferences/icml-2026/cards/2701-2800.md#paper-lin26c)
 
 <a id="by-inference"></a>
 
@@ -327,6 +328,7 @@
 - <a id="li26co-evaluation"></a>[Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](../conferences/icml-2026/cards/2401-2500.md#paper-li26co)
 - <a id="li26fr-evaluation"></a>[ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing](../conferences/icml-2026/cards/2501-2600.md#paper-li26fr)
 - <a id="liao26d-evaluation"></a>[VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](../conferences/icml-2026/cards/2701-2800.md#paper-liao26d)
+- <a id="lin26h-evaluation"></a>[3D Scene Assertion Verification](../conferences/icml-2026/cards/2701-2800.md#paper-lin26h)
 
 <a id="by-theory-statistics"></a>
 

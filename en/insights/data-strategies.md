@@ -122,6 +122,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain](../../conferences/icml-2026/cards/2301-2400.md#lee26m-data-strategies) · 中文
 - [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](../../conferences/icml-2026/cards/2401-2500.md#li26y-data-strategies) · 中文
 - [Training Data Efficiency in Multimodal Process Reward Models](../../conferences/icml-2026/cards/2401-2500.md#li26bm-data-strategies) · 中文
+- [Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code](../../conferences/icml-2026/cards/2701-2800.md#lin26c-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

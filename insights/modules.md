@@ -42,6 +42,7 @@
 - [借 RMSNorm 的尺度消除把逐维遗忘施加在值上](../conferences/icml-2026/cards/2501-2600.md#li26dl-modules) · FiX: Introducing Fine-grained Forget Gate into Softmax Attention
 - [只对专家选择建模贝叶斯不确定性](../conferences/icml-2026/cards/2601-2700.md#li26hj-modules) · Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers
 - [用激活缩放和位移竞争构建脉冲注意力](../conferences/icml-2026/cards/2701-2800.md#liang26ae-modules) · SpikingLM: Towards Fully Spiking Language Model
+- [把 LoRA 权重增量写成稀疏高斯过程后验](../conferences/icml-2026/cards/2701-2800.md#lin26j-modules) · Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +74,7 @@
 - [从输入残差和视觉子空间双重恢复失真信号](../conferences/icml-2026/cards/2501-2600.md#li26ff-modules) · Bridging the Perceptual Gap: Residual-Enhanced Downscaling and Manifold-Aware Perception Alignment Adaptation for NR-IQA
 - [惯性补全与脉冲置信门联合修复退化感知](../conferences/icml-2026/cards/2501-2600.md#li26fi-modules) · NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams
 - [按几何置信度调节驾驶视频编辑的纹理参考](../conferences/icml-2026/cards/2701-2800.md#liang26z-modules) · SceneDirector: Bridging Explicit Geometry and Generative Priors for Unified Driving Scene Editing
+- [用可变形采样找回错位的多视图渲染线索](../conferences/icml-2026/cards/2701-2800.md#lim26c-modules) · GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

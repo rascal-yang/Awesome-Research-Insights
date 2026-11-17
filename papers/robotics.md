@@ -26,6 +26,7 @@
 - <a id="li26fm-architecture"></a>[Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery](../conferences/icml-2026/cards/2501-2600.md#paper-li26fm)
 - <a id="li26fs-architecture"></a>[DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter](../conferences/icml-2026/cards/2501-2600.md#paper-li26fs)
 - <a id="li26hk-architecture"></a>[Structured 4D Latent Predictive Model for Robot Planning](../conferences/icml-2026/cards/2601-2700.md#paper-li26hk)
+- <a id="lin26g-architecture"></a>[RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](../conferences/icml-2026/cards/2701-2800.md#paper-lin26g)
 
 <a id="by-modules"></a>
 

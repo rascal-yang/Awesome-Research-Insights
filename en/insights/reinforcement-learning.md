@@ -227,6 +227,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Task-Aware Exploration via a Predictive Bisimulation Metric](../../conferences/icml-2026/cards/2601-2700.md#liang26o-reinforcement-learning) · 中文
 - [Bottleneck-Guided Spectral Subgoals For Offline Goal-Conditioned RL](../../conferences/icml-2026/cards/2701-2800.md#liang26r-reinforcement-learning) · 中文
 - [Implicit Action Chunking for Smooth Continuous Control](../../conferences/icml-2026/cards/2701-2800.md#liang26s-reinforcement-learning) · 中文
+- [Action Manifold Smoothing: A Lipschitz Pathway Perspective on High-Dimensional Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26a-reinforcement-learning) · 中文
+- [Implicit Safety Alignment from Crowd Preferences](../../conferences/icml-2026/cards/2701-2800.md#lin26d-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>

@@ -370,6 +370,7 @@
 - [单一扰动的语义依赖攻击评测](../conferences/icml-2026/cards/2401-2500.md#li26co-evaluation) · Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation
 - [把图表编辑拆为局部样式与全局数据变换](../conferences/icml-2026/cards/2501-2600.md#li26fr-evaluation) · ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing
 - [视觉语言模型的联合图文红队评估](../conferences/icml-2026/cards/2701-2800.md#liao26d-evaluation) · VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models
+- [把三维场景问答转成可严格打分的断言验证](../conferences/icml-2026/cards/2701-2800.md#lin26h-evaluation) · 3D Scene Assertion Verification
 
 <a id="by-ml-foundations"></a>
 

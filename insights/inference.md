@@ -189,6 +189,7 @@
 - [按目标模型的可执行性重排数学提示](../conferences/icml-2026/cards/2701-2800.md#liang26t-inference) · Strategy Executability in Mathematical Reasoning: Leveraging Human–Model Differences for Effective Guidance
 - [用早层注意力筛出本步可提交的扩散词元](../conferences/icml-2026/cards/2701-2800.md#liang26v-inference) · FOCUS: DLLMs Know How to Tame Their Compute Bound
 - [大小语言模型的分歧词元路由](../conferences/icml-2026/cards/2701-2800.md#liao26c-inference) · AlphaRouter: Token-level Routing Between SLM and LLM with Reinforcement Learning and Tree Search
+- [用可执行验证代码和有向图探索优化候选](../conferences/icml-2026/cards/2701-2800.md#lin26i-inference) · OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization
 
 <a id="by-computer-vision"></a>
 

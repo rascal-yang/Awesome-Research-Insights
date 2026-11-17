@@ -412,6 +412,7 @@
 - [用后验相对提升选稀疏信号](../conferences/icml-2026/cards/2601-2700.md#liang26e-theory-statistics) · An Evidential Route to Asymptotic Bayes Optimality under Sparsity
 - [把多处理平衡变成联合依赖约束](../conferences/icml-2026/cards/2601-2700.md#liang26f-theory-statistics) · Causal Representation Learning with Optimal Compression under Complex Treatments
 - [多均衡自动竞价的诚实申报判据](../conferences/icml-2026/cards/2701-2800.md#liaw26a-theory-statistics) · Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding
+- [从独立历史函数样本估计高斯过程先验](../conferences/icml-2026/cards/2701-2800.md#lin26b-theory-statistics) · Empirical Gaussian Processes
 
 <a id="by-graph-and-recommendation"></a>
 

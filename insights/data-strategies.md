@@ -122,6 +122,7 @@
 - [用视觉交叉熵收益分配训练预算](../conferences/icml-2026/cards/2301-2400.md#lee26m-data-strategies) · Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain
 - [先采高纯单事件再约束音频混合](../conferences/icml-2026/cards/2401-2500.md#li26y-data-strategies) · A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation
 - [过程奖励训练的轨迹筛选](../conferences/icml-2026/cards/2401-2500.md#li26bm-data-strategies) · Training Data Efficiency in Multimodal Process Reward Models
+- [用可执行绘图代码连接几何题结构和图像](../conferences/icml-2026/cards/2701-2800.md#lin26c-data-strategies) · Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code
 
 <a id="by-ml-foundations"></a>
 

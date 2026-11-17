@@ -129,6 +129,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="liang26o-reinforcement-learning"></a>[Task-Aware Exploration via a Predictive Bisimulation Metric](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26o)
 - <a id="liang26r-reinforcement-learning"></a>[Bottleneck-Guided Spectral Subgoals For Offline Goal-Conditioned RL](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26r)
 - <a id="liang26s-reinforcement-learning"></a>[Implicit Action Chunking for Smooth Continuous Control](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26s)
+- <a id="lin26a-reinforcement-learning"></a>[Action Manifold Smoothing: A Lipschitz Pathway Perspective on High-Dimensional Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26a)
+- <a id="lin26d-reinforcement-learning"></a>[Implicit Safety Alignment from Crowd Preferences](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26d)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-training-strategies"></a>

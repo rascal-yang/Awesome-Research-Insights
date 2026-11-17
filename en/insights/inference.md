@@ -189,6 +189,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Strategy Executability in Mathematical Reasoning: Leveraging Human–Model Differences for Effective Guidance](../../conferences/icml-2026/cards/2701-2800.md#liang26t-inference) · 中文
 - [FOCUS: DLLMs Know How to Tame Their Compute Bound](../../conferences/icml-2026/cards/2701-2800.md#liang26v-inference) · 中文
 - [AlphaRouter: Token-level Routing Between SLM and LLM with Reinforcement Learning and Tree Search](../../conferences/icml-2026/cards/2701-2800.md#liao26c-inference) · 中文
+- [OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization](../../conferences/icml-2026/cards/2701-2800.md#lin26i-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

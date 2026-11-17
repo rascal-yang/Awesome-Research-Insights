@@ -370,6 +370,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](../../conferences/icml-2026/cards/2401-2500.md#li26co-evaluation) · 中文
 - [ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing](../../conferences/icml-2026/cards/2501-2600.md#li26fr-evaluation) · 中文
 - [VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](../../conferences/icml-2026/cards/2701-2800.md#liao26d-evaluation) · 中文
+- [3D Scene Assertion Verification](../../conferences/icml-2026/cards/2701-2800.md#lin26h-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -73,6 +73,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liang26a-architecture"></a>[Bipartite Graph Attention-based Clustering for Large-scale scRNA-seq Data](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26a)
 - <a id="liao26e-architecture"></a>[Frequency Matching in Spiking Neural Networks for mmWave Sensing](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26e)
 - <a id="lillemark26a-architecture"></a>[Flow Equivariant World Models: Structured Memory for Dynamic Environments](../../conferences/icml-2026/cards/2701-2800.md#paper-lillemark26a)
+- <a id="lin26e-architecture"></a>[Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26e)
 
 <a id="by-modules"></a>
 

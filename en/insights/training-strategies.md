@@ -87,6 +87,7 @@ Training schedules, curricula, and task or stage composition.
 - [SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding](../../conferences/icml-2026/cards/2601-2700.md#li26hf-training-strategies) · 中文
 - [Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment](../../conferences/icml-2026/cards/2601-2700.md#li26hh-training-strategies) · 中文
 - [Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](../../conferences/icml-2026/cards/2601-2700.md#li26ik-training-strategies) · 中文
+- [Can Large Language Models Generalize Procedures Across Representations?](../../conferences/icml-2026/cards/2701-2800.md#lin26k-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

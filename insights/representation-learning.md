@@ -58,6 +58,7 @@
 - [用离散对应替代视频对象槽的学习式动力学](../conferences/icml-2026/cards/2601-2700.md#li26js-representation-learning) · Rethinking Temporal Consistency in Video Object-Centric Learning: From Prediction to Correspondence
 - [按关系不确定性稀疏化场景图](../conferences/icml-2026/cards/2601-2700.md#liang26h-representation-learning) · CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization
 - [用持久节点上的稀疏状态差分生成矢量动画](../conferences/icml-2026/cards/2701-2800.md#liang26w-representation-learning) · VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation
+- [用高对称连续系数和低对称基组合壁纸群表示](../conferences/icml-2026/cards/2701-2800.md#lin26f-representation-learning) · Planar Symmetric Pattern Generation
 
 <a id="by-nlp"></a>
 

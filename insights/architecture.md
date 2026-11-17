@@ -127,6 +127,7 @@
 - [由状态哨兵按需触发推理与纠错](../conferences/icml-2026/cards/2501-2600.md#li26fm-architecture) · Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery
 - [用独立条件路径和插拔触觉适配器驱动双臂](../conferences/icml-2026/cards/2501-2600.md#li26fs-architecture) · DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter
 - [以稀疏三维子目标规划动作](../conferences/icml-2026/cards/2601-2700.md#li26hk-architecture) · Structured 4D Latent Predictive Model for Robot Planning
+- [用轻量时序三维流把慢规划接入快控制](../conferences/icml-2026/cards/2701-2800.md#lin26g-architecture) · RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation
 
 <a id="by-multimodal"></a>
 
@@ -272,4 +273,5 @@
 - [用共享锚点近似细胞全局注意力](../conferences/icml-2026/cards/2601-2700.md#liang26a-architecture) · Bipartite Graph Attention-based Clustering for Large-scale scRNA-seq Data
 - [按判别频谱设定脉冲膜衰减](../conferences/icml-2026/cards/2701-2800.md#liao26e-architecture) · Frequency Matching in Spiking Neural Networks for mmWave Sensing
 - [部分可观测世界模型的流等变记忆](../conferences/icml-2026/cards/2701-2800.md#lillemark26a-architecture) · Flow Equivariant World Models: Structured Memory for Dynamic Environments
+- [神经 ODE 同时估计扰动轨迹和调控模块](../conferences/icml-2026/cards/2701-2800.md#lin26e-architecture) · Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations
 <!-- classification:end -->

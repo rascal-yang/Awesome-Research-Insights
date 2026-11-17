@@ -757,4 +757,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="liang26e-theory-statistics"></a>[An Evidential Route to Asymptotic Bayes Optimality under Sparsity](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26e)
 - <a id="liang26f-theory-statistics"></a>[Causal Representation Learning with Optimal Compression under Complex Treatments](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26f)
 - <a id="liaw26a-theory-statistics"></a>[Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding](../../conferences/icml-2026/cards/2701-2800.md#paper-liaw26a)
+- <a id="lin26b-theory-statistics"></a>[Empirical Gaussian Processes](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26b)
 <!-- classification:end -->

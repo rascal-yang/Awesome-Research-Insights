@@ -2727,18 +2727,18 @@ number	pmlr_id	title	paper_url	insight_status
 2726	lillemark26a	Flow Equivariant World Models: Structured Memory for Dynamic Environments	https://proceedings.mlr.press/v306/lillemark26a.html	written
 2727	lim26a	Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity	https://proceedings.mlr.press/v306/lim26a.html	written
 2728	lim26b	QuITE: Query-Based Irregular Time Series Embedding	https://proceedings.mlr.press/v306/lim26b.html	written
-2729	lim26c	GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting	https://proceedings.mlr.press/v306/lim26c.html	pending
-2730	lin26a	Action Manifold Smoothing: A Lipschitz Pathway Perspective on High-Dimensional Reinforcement Learning	https://proceedings.mlr.press/v306/lin26a.html	pending
-2731	lin26b	Empirical Gaussian Processes	https://proceedings.mlr.press/v306/lin26b.html	pending
-2732	lin26c	Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code	https://proceedings.mlr.press/v306/lin26c.html	pending
-2733	lin26d	Implicit Safety Alignment from Crowd Preferences	https://proceedings.mlr.press/v306/lin26d.html	pending
-2734	lin26e	Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations	https://proceedings.mlr.press/v306/lin26e.html	pending
-2735	lin26f	Planar Symmetric Pattern Generation	https://proceedings.mlr.press/v306/lin26f.html	pending
-2736	lin26g	RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation	https://proceedings.mlr.press/v306/lin26g.html	pending
-2737	lin26h	3D Scene Assertion Verification	https://proceedings.mlr.press/v306/lin26h.html	pending
-2738	lin26i	OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization	https://proceedings.mlr.press/v306/lin26i.html	pending
-2739	lin26j	Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models	https://proceedings.mlr.press/v306/lin26j.html	pending
-2740	lin26k	Can Large Language Models Generalize Procedures Across Representations?	https://proceedings.mlr.press/v306/lin26k.html	pending
+2729	lim26c	GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting	https://proceedings.mlr.press/v306/lim26c.html	written
+2730	lin26a	Action Manifold Smoothing: A Lipschitz Pathway Perspective on High-Dimensional Reinforcement Learning	https://proceedings.mlr.press/v306/lin26a.html	written
+2731	lin26b	Empirical Gaussian Processes	https://proceedings.mlr.press/v306/lin26b.html	written
+2732	lin26c	Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code	https://proceedings.mlr.press/v306/lin26c.html	written
+2733	lin26d	Implicit Safety Alignment from Crowd Preferences	https://proceedings.mlr.press/v306/lin26d.html	written
+2734	lin26e	Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations	https://proceedings.mlr.press/v306/lin26e.html	written
+2735	lin26f	Planar Symmetric Pattern Generation	https://proceedings.mlr.press/v306/lin26f.html	written
+2736	lin26g	RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation	https://proceedings.mlr.press/v306/lin26g.html	written
+2737	lin26h	3D Scene Assertion Verification	https://proceedings.mlr.press/v306/lin26h.html	written
+2738	lin26i	OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization	https://proceedings.mlr.press/v306/lin26i.html	written
+2739	lin26j	Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models	https://proceedings.mlr.press/v306/lin26j.html	written
+2740	lin26k	Can Large Language Models Generalize Procedures Across Representations?	https://proceedings.mlr.press/v306/lin26k.html	written
 2741	lin26l	NeUQI: Near-Optimal Uniform Quantization Parameter Initialization for Low-Bit LLMs	https://proceedings.mlr.press/v306/lin26l.html	pending
 2742	lin26m	AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs	https://proceedings.mlr.press/v306/lin26m.html	pending
 2743	lin26n	AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning	https://proceedings.mlr.press/v306/lin26n.html	pending

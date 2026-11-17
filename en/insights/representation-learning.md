@@ -58,6 +58,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Rethinking Temporal Consistency in Video Object-Centric Learning: From Prediction to Correspondence](../../conferences/icml-2026/cards/2601-2700.md#li26js-representation-learning) · 中文
 - [CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization](../../conferences/icml-2026/cards/2601-2700.md#liang26h-representation-learning) · 中文
 - [VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](../../conferences/icml-2026/cards/2701-2800.md#liang26w-representation-learning) · 中文
+- [Planar Symmetric Pattern Generation](../../conferences/icml-2026/cards/2701-2800.md#lin26f-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

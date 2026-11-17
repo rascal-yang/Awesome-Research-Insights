@@ -87,6 +87,7 @@
 - [为草稿训练拆开目标模型执行](../conferences/icml-2026/cards/2601-2700.md#li26hf-training-strategies) · SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding
 - [用无角色预测稳定安全决策](../conferences/icml-2026/cards/2601-2700.md#li26hh-training-strategies) · Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment
 - [先保持对话连续抽取激活再混合训练](../conferences/icml-2026/cards/2601-2700.md#li26ik-training-strategies) · Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models
+- [先从符号任务学程序再用自然语言适配](../conferences/icml-2026/cards/2701-2800.md#lin26k-training-strategies) · Can Large Language Models Generalize Procedures Across Representations?
 
 <a id="by-computer-vision"></a>
 

@@ -227,6 +227,8 @@
 - [在可预测的行为距离上奖励探索](../conferences/icml-2026/cards/2601-2700.md#liang26o-reinforcement-learning) · Task-Aware Exploration via a Predictive Bisimulation Metric
 - [从离线轨迹发现下一处必经瓶颈](../conferences/icml-2026/cards/2701-2800.md#liang26r-reinforcement-learning) · Bottleneck-Guided Spectral Subgoals For Offline Goal-Conditioned RL
 - [让价值更新与动作承诺窗口同长](../conferences/icml-2026/cards/2701-2800.md#liang26s-reinforcement-learning) · Implicit Action Chunking for Smooth Continuous Control
+- [对正交邻域动作平均 TD 目标](../conferences/icml-2026/cards/2701-2800.md#lin26a-reinforcement-learning) · Action Manifold Smoothing: A Lipschitz Pathway Perspective on High-Dimensional Reinforcement Learning
+- [把群体偏好里的共通安全约束蒸馏成技能](../conferences/icml-2026/cards/2701-2800.md#lin26d-reinforcement-learning) · Implicit Safety Alignment from Crowd Preferences
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>

@@ -84,6 +84,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26ff-modules"></a>[Bridging the Perceptual Gap: Residual-Enhanced Downscaling and Manifold-Aware Perception Alignment Adaptation for NR-IQA](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ff)
 - <a id="li26fi-modules"></a>[NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fi)
 - <a id="liang26z-modules"></a>[SceneDirector: Bridging Explicit Geometry and Generative Priors for Unified Driving Scene Editing](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26z)
+- <a id="lim26c-modules"></a>[GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting](../../conferences/icml-2026/cards/2701-2800.md#paper-lim26c)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -308,6 +309,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26js-representation-learning"></a>[Rethinking Temporal Consistency in Video Object-Centric Learning: From Prediction to Correspondence](../../conferences/icml-2026/cards/2601-2700.md#paper-li26js)
 - <a id="liang26h-representation-learning"></a>[CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26h)
 - <a id="liang26w-representation-learning"></a>[VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26w)
+- <a id="lin26f-representation-learning"></a>[Planar Symmetric Pattern Generation](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26f)
 
 <a id="by-evaluation"></a>
 
