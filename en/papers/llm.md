@@ -420,6 +420,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26gn-reinforcement-learning"></a>[StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gn)
 - <a id="wang26ha-reinforcement-learning"></a>[ThetaEvolve: Test-time Learning on Open Problems](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ha)
 - <a id="wang26hl-reinforcement-learning"></a>[d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hl)
+- <a id="wang26hy-reinforcement-learning"></a>[Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hy)
+- <a id="wang26in-reinforcement-learning"></a>[Reward Modeling from Natural Language Human Feedback](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26in)
 
 <a id="by-training-strategies"></a>
 
@@ -635,6 +637,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26go-data-strategies"></a>[Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26go)
 - <a id="wang26hi-data-strategies"></a>[MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hi)
 - <a id="wang26hk-data-strategies"></a>[Target-Oriented Pretraining Data Selection via Neuron-Activated Graph](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hk)
+- <a id="wang26ik-data-strategies"></a>[Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ik)
 
 <a id="by-inference"></a>
 
@@ -952,6 +955,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26hd-inference"></a>[Conformal Thinking: Risk Control for Reasoning on a Compute Budget](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hd)
 - <a id="wang26hg-inference"></a>[Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hg)
 - <a id="wang26hn-inference"></a>[SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hn)
+- <a id="wang26hz-inference"></a>[Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hz)
+- <a id="wang26ic-inference"></a>[Prism: Spectral-Aware Block-Sparse Attention](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ic)
 
 <a id="by-representation-learning"></a>
 

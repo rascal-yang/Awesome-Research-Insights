@@ -261,6 +261,7 @@ Training schedules, curricula, and task or stage composition.
 - [FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../../conferences/icml-2026/cards/3401-3500.md#nguyen26b-training-strategies) · 中文
 - [Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning](../../conferences/icml-2026/cards/4501-4600.md#wagenmaker26a-training-strategies) · 中文
 - [Adversarial Dual On-Policy Distillation from Expressive Teacher](../../conferences/icml-2026/cards/4501-4600.md#wan26n-training-strategies) · 中文
+- [Scaling by Diversified Experience for Vision-Language-Action Models](../../conferences/icml-2026/cards/4801-4900.md#wang26hw-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

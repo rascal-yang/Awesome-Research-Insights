@@ -86,6 +86,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm](../../conferences/icml-2026/cards/4701-4800.md#wang26go-data-strategies) · 中文
 - [MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](../../conferences/icml-2026/cards/4701-4800.md#wang26hi-data-strategies) · 中文
 - [Target-Oriented Pretraining Data Selection via Neuron-Activated Graph](../../conferences/icml-2026/cards/4801-4900.md#wang26hk-data-strategies) · 中文
+- [Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](../../conferences/icml-2026/cards/4801-4900.md#wang26ik-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

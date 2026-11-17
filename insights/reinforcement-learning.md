@@ -178,6 +178,8 @@
 - [执行锚对齐的两粒度信用](../conferences/icml-2026/cards/4701-4800.md#wang26gn-reinforcement-learning) · StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning
 - [动态程序库作为测试时RL课程](../conferences/icml-2026/cards/4701-4800.md#wang26ha-reinforcement-learning) · ThetaEvolve: Test-time Learning on Open Problems
 - [扩散揭示轨迹的似然估计](../conferences/icml-2026/cards/4801-4900.md#wang26hl-reinforcement-learning) · d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation
+- [行为逆频率奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26hy-reinforcement-learning) · Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning
+- [结果门控的核心批评奖励](../conferences/icml-2026/cards/4801-4900.md#wang26in-reinforcement-learning) · Reward Modeling from Natural Language Human Feedback
 
 <a id="by-computer-vision"></a>
 

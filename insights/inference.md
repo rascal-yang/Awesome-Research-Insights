@@ -325,6 +325,8 @@
 - [双阈值推理停止与风险边界](../conferences/icml-2026/cards/4701-4800.md#wang26hd-inference) · Conformal Thinking: Risk Control for Reasoning on a Compute Budget
 - [真实动作核对的前瞻风险参考](../conferences/icml-2026/cards/4701-4800.md#wang26hg-inference) · Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks
 - [句级固定核心神经元](../conferences/icml-2026/cards/4801-4900.md#wang26hn-inference) · SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation
+- [句边界编辑与干预预算](../conferences/icml-2026/cards/4801-4900.md#wang26hz-inference) · Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories
+- [频带分离的注意力块选择](../conferences/icml-2026/cards/4801-4900.md#wang26ic-inference) · Prism: Spectral-Aware Block-Sparse Attention
 
 <a id="by-computer-vision"></a>
 

@@ -99,6 +99,7 @@
 - [少样本避让路由校正](../conferences/icml-2026/cards/4701-4800.md#wang26eo-loss-functions) · Fleet: Few Shots Lead Effective AI-generated Image Detection
 - [光流监督的增量视频特征差](../conferences/icml-2026/cards/4701-4800.md#wang26eu-loss-functions) · EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition
 - [扩散噪声核的双视图谱对齐](../conferences/icml-2026/cards/4801-4900.md#wang26hu-loss-functions) · Revisiting Spectral Representations in Generative Diffusion Models
+- [随深度变尖的监督目标](../conferences/icml-2026/cards/4801-4900.md#wang26ib-loss-functions) · Deep Trajectory Supervision: Deep Supervision Strikes Back
 
 <a id="by-nlp"></a>
 
@@ -125,6 +126,7 @@
 - [cost-consistent-graph-transport](../conferences/icml-2026/cards/4401-4500.md#theodoropoulos26a-loss-functions) · Generalized Schrödinger Bridge on Graphs
 - [删失轨迹的生存价值学习](../conferences/icml-2026/cards/4401-4500.md#tiofack26a-loss-functions) · SVL: Goal-Conditioned Reinforcement Learning as Survival Learning
 - [distributional-error-weighting](../conferences/icml-2026/cards/4701-4800.md#wang26dp-loss-functions) · Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction
+- [持续时间排序的多尺度潜空间](../conferences/icml-2026/cards/4801-4900.md#wang26if-loss-functions) · Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning
 
 <a id="by-robotics"></a>
 

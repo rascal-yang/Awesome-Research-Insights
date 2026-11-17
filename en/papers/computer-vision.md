@@ -124,6 +124,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26br-modules"></a>[TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26br)
 - <a id="wang26cx-modules"></a>[EvReflection: Event-Driven Micro-Dynamics for Reflection Removal](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cx)
 - <a id="wang26hr-modules"></a>[Degradation-Aware Metric Prompting for Hyperspectral Image Restoration](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hr)
+- <a id="wang26hx-modules"></a>[Butterworth as Attention: Anisotropic Spectral Gating for Pansharpening](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hx)
 
 <a id="by-loss-functions"></a>
 
@@ -166,6 +167,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26eo-loss-functions"></a>[Fleet: Few Shots Lead Effective AI-generated Image Detection](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eo)
 - <a id="wang26eu-loss-functions"></a>[EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eu)
 - <a id="wang26hu-loss-functions"></a>[Revisiting Spectral Representations in Generative Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hu)
+- <a id="wang26ib-loss-functions"></a>[Deep Trajectory Supervision: Deep Supervision Strikes Back](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ib)
 
 <a id="by-optimization"></a>
 

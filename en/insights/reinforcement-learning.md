@@ -178,6 +178,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26gn-reinforcement-learning) · 中文
 - [ThetaEvolve: Test-time Learning on Open Problems](../../conferences/icml-2026/cards/4701-4800.md#wang26ha-reinforcement-learning) · 中文
 - [d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation](../../conferences/icml-2026/cards/4801-4900.md#wang26hl-reinforcement-learning) · 中文
+- [Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26hy-reinforcement-learning) · 中文
+- [Reward Modeling from Natural Language Human Feedback](../../conferences/icml-2026/cards/4801-4900.md#wang26in-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

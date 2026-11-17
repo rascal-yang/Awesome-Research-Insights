@@ -578,6 +578,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions](../../conferences/icml-2026/cards/4601-4700.md#wang26da-theory-statistics) · 中文
 - [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](../../conferences/icml-2026/cards/4701-4800.md#wang26dx-theory-statistics) · 中文
 - [Partial Identification of Policy Values under Network Interference](../../conferences/icml-2026/cards/4701-4800.md#wang26ez-theory-statistics) · 中文
+- [Steady-State Behavior of Constant-Stepsize Stochastic Approximation: Gaussian Approximation and Tail Bounds](../../conferences/icml-2026/cards/4801-4900.md#wang26il-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -428,6 +428,7 @@
 - <a id="wang26ex-optimization"></a>[Fix the Loss, Not the Radius: Rethinking the Adversarial Perturbation of Sharpness-Aware Minimization](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ex)
 - <a id="wang26ff-optimization"></a>[Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ff)
 - <a id="wang26gq-optimization"></a>[OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gq)
+- <a id="wang26ii-optimization"></a>[FedEBA+: Towards Fair and Effective Federated Learning via Entropy-Based Model](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ii)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -662,6 +663,7 @@
 - <a id="tabanelli26a-representation-learning"></a>[Deep Learning of Compositional Targets with Hierarchical Spectral Methods](../conferences/icml-2026/cards/4301-4400.md#paper-tabanelli26a)
 - <a id="turkoglu26a-representation-learning"></a>[SCOUT: Cyclic Causal Discovery Under Soft Interventions with Unknown Targets](../conferences/icml-2026/cards/4501-4600.md#paper-turkoglu26a)
 - <a id="tusoni26a-representation-learning"></a>[Robust Causal Discovery in Real-World Time Series with Power-Laws](../conferences/icml-2026/cards/4501-4600.md#paper-tusoni26a)
+- <a id="wang26ie-representation-learning"></a>[Zero-Flow Encoders](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ie)
 
 <a id="by-evaluation"></a>
 
@@ -1116,4 +1118,5 @@
 - <a id="wang26da-theory-statistics"></a>[Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions](../conferences/icml-2026/cards/4601-4700.md#paper-wang26da)
 - <a id="wang26dx-theory-statistics"></a>[Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dx)
 - <a id="wang26ez-theory-statistics"></a>[Partial Identification of Policy Values under Network Interference](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ez)
+- <a id="wang26il-theory-statistics"></a>[Steady-State Behavior of Constant-Stepsize Stochastic Approximation: Gaussian Approximation and Tail Bounds](../conferences/icml-2026/cards/4801-4900.md#paper-wang26il)
 <!-- classification:end -->

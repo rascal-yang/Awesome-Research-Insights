@@ -257,6 +257,7 @@
 - [hierarchical-spectral-recovery](../conferences/icml-2026/cards/4301-4400.md#tabanelli26a-representation-learning) · Deep Learning of Compositional Targets with Hierarchical Spectral Methods
 - [soft-intervention-cyclic-discovery](../conferences/icml-2026/cards/4501-4600.md#turkoglu26a-representation-learning) · SCOUT: Cyclic Causal Discovery Under Soft Interventions with Unknown Targets
 - [spectral-causal-features](../conferences/icml-2026/cards/4501-4600.md#tusoni26a-representation-learning) · Robust Causal Discovery in Real-World Time Series with Power-Laws
+- [中点速度约束的表示学习](../conferences/icml-2026/cards/4801-4900.md#wang26ie-representation-learning) · Zero-Flow Encoders
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -86,6 +86,7 @@
 - [注意力片段引导生成回放](../conferences/icml-2026/cards/4701-4800.md#wang26go-data-strategies) · Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm
 - [模型合并代理数据混合比例](../conferences/icml-2026/cards/4701-4800.md#wang26hi-data-strategies) · MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging
 - [目标神经元激活集合筛选数据](../conferences/icml-2026/cards/4801-4900.md#wang26hk-data-strategies) · Target-Oriented Pretraining Data Selection via Neuron-Activated Graph
+- [跨模型迭代构造偏好对](../conferences/icml-2026/cards/4801-4900.md#wang26ik-data-strategies) · Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future
 
 <a id="by-computer-vision"></a>
 

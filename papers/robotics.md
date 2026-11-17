@@ -130,6 +130,7 @@
 - <a id="nguyen26b-training-strategies"></a>[FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26b)
 - <a id="wagenmaker26a-training-strategies"></a>[Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning](../conferences/icml-2026/cards/4501-4600.md#paper-wagenmaker26a)
 - <a id="wan26n-training-strategies"></a>[Adversarial Dual On-Policy Distillation from Expressive Teacher](../conferences/icml-2026/cards/4501-4600.md#paper-wan26n)
+- <a id="wang26hw-training-strategies"></a>[Scaling by Diversified Experience for Vision-Language-Action Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hw)
 
 <a id="by-data-strategies"></a>
 

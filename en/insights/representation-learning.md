@@ -257,6 +257,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Deep Learning of Compositional Targets with Hierarchical Spectral Methods](../../conferences/icml-2026/cards/4301-4400.md#tabanelli26a-representation-learning) · 中文
 - [SCOUT: Cyclic Causal Discovery Under Soft Interventions with Unknown Targets](../../conferences/icml-2026/cards/4501-4600.md#turkoglu26a-representation-learning) · 中文
 - [Robust Causal Discovery in Real-World Time Series with Power-Laws](../../conferences/icml-2026/cards/4501-4600.md#tusoni26a-representation-learning) · 中文
+- [Zero-Flow Encoders](../../conferences/icml-2026/cards/4801-4900.md#wang26ie-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -99,6 +99,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Fleet: Few Shots Lead Effective AI-generated Image Detection](../../conferences/icml-2026/cards/4701-4800.md#wang26eo-loss-functions) · 中文
 - [EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition](../../conferences/icml-2026/cards/4701-4800.md#wang26eu-loss-functions) · 中文
 - [Revisiting Spectral Representations in Generative Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#wang26hu-loss-functions) · 中文
+- [Deep Trajectory Supervision: Deep Supervision Strikes Back](../../conferences/icml-2026/cards/4801-4900.md#wang26ib-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -125,6 +126,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Generalized Schrödinger Bridge on Graphs](../../conferences/icml-2026/cards/4401-4500.md#theodoropoulos26a-loss-functions) · 中文
 - [SVL: Goal-Conditioned Reinforcement Learning as Survival Learning](../../conferences/icml-2026/cards/4401-4500.md#tiofack26a-loss-functions) · 中文
 - [Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction](../../conferences/icml-2026/cards/4701-4800.md#wang26dp-loss-functions) · 中文
+- [Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning](../../conferences/icml-2026/cards/4801-4900.md#wang26if-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

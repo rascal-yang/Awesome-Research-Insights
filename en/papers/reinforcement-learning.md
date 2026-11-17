@@ -48,6 +48,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="theodoropoulos26a-loss-functions"></a>[Generalized Schrödinger Bridge on Graphs](../../conferences/icml-2026/cards/4401-4500.md#paper-theodoropoulos26a)
 - <a id="tiofack26a-loss-functions"></a>[SVL: Goal-Conditioned Reinforcement Learning as Survival Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tiofack26a)
 - <a id="wang26dp-loss-functions"></a>[Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dp)
+- <a id="wang26if-loss-functions"></a>[Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26if)
 
 <a id="by-optimization"></a>
 

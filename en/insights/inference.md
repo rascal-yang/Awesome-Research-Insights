@@ -325,6 +325,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Conformal Thinking: Risk Control for Reasoning on a Compute Budget](../../conferences/icml-2026/cards/4701-4800.md#wang26hd-inference) · 中文
 - [Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks](../../conferences/icml-2026/cards/4701-4800.md#wang26hg-inference) · 中文
 - [SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation](../../conferences/icml-2026/cards/4801-4900.md#wang26hn-inference) · 中文
+- [Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](../../conferences/icml-2026/cards/4801-4900.md#wang26hz-inference) · 中文
+- [Prism: Spectral-Aware Block-Sparse Attention](../../conferences/icml-2026/cards/4801-4900.md#wang26ic-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

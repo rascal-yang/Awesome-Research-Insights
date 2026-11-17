@@ -261,6 +261,7 @@
 - [用未来交互表示微调少示范策略](../conferences/icml-2026/cards/3401-3500.md#nguyen26b-training-strategies) · FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation
 - [为RL保留动作后验覆盖](../conferences/icml-2026/cards/4501-4600.md#wagenmaker26a-training-strategies) · Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning
 - [dual-on-policy-distillation](../conferences/icml-2026/cards/4501-4600.md#wan26n-training-strategies) · Adversarial Dual On-Policy Distillation from Expressive Teacher
+- [动作梯度筛选意图状态](../conferences/icml-2026/cards/4801-4900.md#wang26hw-training-strategies) · Scaling by Diversified Experience for Vision-Language-Action Models
 
 <a id="by-multimodal"></a>
 
