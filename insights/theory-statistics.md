@@ -42,6 +42,7 @@
 - [用表征首次越阈深度追踪 LoRA 漂移](../conferences/icml-2026/cards/2201-2300.md#koubbi26a-theory-statistics) · Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics
 - [只调注意力值矩阵保留上下文学习](../conferences/icml-2026/cards/2301-2400.md#lee26be-theory-statistics) · Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models
 - [同时报告裁判校正和人工校准的不确定性](../conferences/icml-2026/cards/2301-2400.md#lee26bl-theory-statistics) · How to Correctly Report LLM-as-a-Judge Evaluations
+- [把一段多任务提示的误差拆为噪声与任务干扰](../conferences/icml-2026/cards/2401-2500.md#li26ag-theory-statistics) · Understanding Generalization and Forgetting in In-Context Continual Learning
 
 <a id="by-computer-vision"></a>
 
@@ -384,6 +385,10 @@
 - [用故障前等价类缩小根因推断空间](../conferences/icml-2026/cards/2301-2400.md#lee26bn-theory-statistics) · Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery
 - [用有限矩区分常规波动和极端样本替换](../conferences/icml-2026/cards/2301-2400.md#lei26a-theory-statistics) · Stability beyond Bounded Differences: Sharp Generalization Bounds under Finite $L_p$ Moments
 - [附加发布物的隐私风险](../conferences/icml-2026/cards/2301-2400.md#lei26f-theory-statistics) · A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks
+- [用高斯混合逼近分解扩散采样误差](../conferences/icml-2026/cards/2301-2400.md#li26e-theory-statistics) · Dimension-free convergence of diffusion models for approximate Gaussian mixtures
+- [把矩阵 Shampoo 的单双侧预条件放进同一谱范数分析](../conferences/icml-2026/cards/2401-2500.md#li26ai-theory-statistics) · Convergence Rate Analysis of the AdamW-Style Shampoo: Unifying One-Sided and Two-Sided Preconditioning
+- [规模收益下的数据生产与定价](../conferences/icml-2026/cards/2401-2500.md#li26aw-theory-statistics) · Selling Data as a Digital Good with Scaling Valuations
+- [域偏移下的蒸馏泛化](../conferences/icml-2026/cards/2401-2500.md#li26bd-theory-statistics) · Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift
 
 <a id="by-graph-and-recommendation"></a>
 

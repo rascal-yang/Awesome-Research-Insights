@@ -40,6 +40,12 @@
 - <a id="khazoum26a-architecture"></a>[A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](../conferences/icml-2026/cards/2001-2100.md#paper-khazoum26a)
 - <a id="lee26ao-architecture"></a>[PhysHanDI: Physics-Based Reconstruction of Hand-Deformable Object Interactions](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ao)
 - <a id="lei26b-architecture"></a>[Synergistic Space-Vision Processing for Predicate Inference](../conferences/icml-2026/cards/2301-2400.md#paper-lei26b)
+- <a id="li26l-architecture"></a>[LayerT2V: A Unified Multi-Layer Video Generation Framework](../conferences/icml-2026/cards/2401-2500.md#paper-li26l)
+- <a id="li26o-architecture"></a>[DroneDINO: Towards Heterogeneous Routed Mixture of Experts for Drone-based Unified Object Detection](../conferences/icml-2026/cards/2401-2500.md#paper-li26o)
+- <a id="li26ah-architecture"></a>[OcclusionFormer: Arranging Z-Order for Layout-Grounded Image Generation](../conferences/icml-2026/cards/2401-2500.md#paper-li26ah)
+- <a id="li26ao-architecture"></a>[TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation](../conferences/icml-2026/cards/2401-2500.md#paper-li26ao)
+- <a id="li26bc-architecture"></a>[Linearizing Vision Transformer with Test-Time Training](../conferences/icml-2026/cards/2401-2500.md#paper-li26bc)
+- <a id="li26bq-architecture"></a>[DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring](../conferences/icml-2026/cards/2401-2500.md#paper-li26bq)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -150,6 +156,7 @@
 - <a id="kumar26a-training-strategies"></a>[Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26a)
 - <a id="lee26g-training-strategies"></a>[Toward Understanding Adversarial Distillation: Why Robust Teachers Fail](../conferences/icml-2026/cards/2301-2400.md#paper-lee26g)
 - <a id="lee26x-training-strategies"></a>[Geometry-Aware Image Flow Matching](../conferences/icml-2026/cards/2301-2400.md#paper-lee26x)
+- <a id="li26ac-training-strategies"></a>[HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance](../conferences/icml-2026/cards/2401-2500.md#paper-li26ac)
 
 <a id="by-data-strategies"></a>
 
@@ -225,6 +232,8 @@
 - <a id="kim26bo-inference"></a>[Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bo)
 - <a id="kwon26d-inference"></a>[Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation](../conferences/icml-2026/cards/2201-2300.md#paper-kwon26d)
 - <a id="lei26j-inference"></a>[Budget-Constrained Step-Level Diffusion Caching](../conferences/icml-2026/cards/2301-2400.md#paper-lei26j)
+- <a id="li26bi-inference"></a>[The Velocity Deficit: Initial Energy Injection for Flow Matching](../conferences/icml-2026/cards/2401-2500.md#paper-li26bi)
+- <a id="li26bk-inference"></a>[A Kinetic Energy Perspective of Flow Matching](../conferences/icml-2026/cards/2401-2500.md#paper-li26bk)
 
 <a id="by-representation-learning"></a>
 
@@ -299,6 +308,9 @@
 - <a id="kozlowski26a-evaluation"></a>[Unifying Deep Stochastic Processes for Image Enhancement](../conferences/icml-2026/cards/2201-2300.md#paper-kozlowski26a)
 - <a id="kuang26a-evaluation"></a>[When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability](../conferences/icml-2026/cards/2201-2300.md#paper-kuang26a)
 - <a id="lee26bm-evaluation"></a>[Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bm)
+- <a id="li26h-evaluation"></a>[StableI2I: Spotting Unintended Changes in Image-to-Image Transition](../conferences/icml-2026/cards/2301-2400.md#paper-li26h)
+- <a id="li26s-evaluation"></a>[Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](../conferences/icml-2026/cards/2401-2500.md#paper-li26s)
+- <a id="li26br-evaluation"></a>[Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles](../conferences/icml-2026/cards/2401-2500.md#paper-li26br)
 
 <a id="by-theory-statistics"></a>
 

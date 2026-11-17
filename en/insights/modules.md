@@ -37,6 +37,7 @@ Reusable components and local changes to model inputs or connections.
 - [Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs](../../conferences/icml-2026/cards/2001-2100.md#kim26f-modules) · 中文
 - [Tucker Attention: A generalization of approximate attention mechanisms](../../conferences/icml-2026/cards/2101-2200.md#klein26a-modules) · 中文
 - [HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding](../../conferences/icml-2026/cards/2301-2400.md#lee26p-modules) · 中文
+- [The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](../../conferences/icml-2026/cards/2401-2500.md#li26bs-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -80,6 +81,7 @@ Reusable components and local changes to model inputs or connections.
 - [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../../conferences/icml-2026/cards/1401-1500.md#gyenes26a-modules) · 中文
 - [RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](../../conferences/icml-2026/cards/1801-1900.md#jang26c-modules) · 中文
 - [Mixture of Horizons in Action Chunking](../../conferences/icml-2026/cards/1901-2000.md#jing26f-modules) · 中文
+- [Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](../../conferences/icml-2026/cards/2401-2500.md#li26ay-modules) · 中文
 - <a id="instruction-prefixes-for-causal-visual-grounding"></a><a id="multimodal-token-layout"></a>[ReconVLA](../../papers/reconvla.md#reconvla-modules) · 中文
 
 <a id="by-multimodal"></a>
@@ -97,6 +99,7 @@ Reusable components and local changes to model inputs or connections.
 - [Unified Multimodal Visual Tracking with Dual Mixture-of-Experts](../../conferences/icml-2026/cards/1501-1600.md#hong26g-modules) · 中文
 - [TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](../../conferences/icml-2026/cards/1601-1700.md#hu26ba-modules) · 中文
 - [LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](../../conferences/icml-2026/cards/2201-2300.md#kowsher26a-modules) · 中文
+- [Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26j-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

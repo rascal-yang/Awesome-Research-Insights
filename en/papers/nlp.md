@@ -113,6 +113,8 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="klearman26a-evaluation"></a>[Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation](../../conferences/icml-2026/cards/2101-2200.md#paper-klearman26a)
 - <a id="lasnier26a-evaluation"></a>[Translation Heads: Disentangling meaning from language in LLM-based machine translation](../../conferences/icml-2026/cards/2201-2300.md#paper-lasnier26a)
 - <a id="lavrinovics26a-evaluation"></a>[MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations](../../conferences/icml-2026/cards/2201-2300.md#paper-lavrinovics26a)
+- <a id="li26g-evaluation"></a>[“Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](../../conferences/icml-2026/cards/2301-2400.md#paper-li26g)
+- <a id="li26u-evaluation"></a>[Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection](../../conferences/icml-2026/cards/2401-2500.md#paper-li26u)
 
 <a id="by-theory-statistics"></a>
 

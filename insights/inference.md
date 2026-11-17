@@ -163,6 +163,11 @@
 - [用扩散模型自身的不确定性筛解掩路径](../conferences/icml-2026/cards/2301-2400.md#lee26ab-inference) · Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models
 - [无标签的验证器集成选答](../conferences/icml-2026/cards/2301-2400.md#lee26av-inference) · FUSE: Ensembling Verifiers with Zero Labeled Data
 - [用授权模型反馈校准提示的可移植性](../conferences/icml-2026/cards/2301-2400.md#li26d-inference) · PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts
+- [在长文本片段进入上下文前重采样](../conferences/icml-2026/cards/2401-2500.md#li26m-inference) · Building Reliable Long-Form Generation via Hallucination Rejection Sampling
+- [用经验尾分布与缓存代价联合安排推理](../conferences/icml-2026/cards/2401-2500.md#li26n-inference) · Beyond Prediction: Tail-Aware Scheduling for LLM Inference
+- [从带噪执行日志反推可并行的依赖图](../conferences/icml-2026/cards/2401-2500.md#li26x-inference) · De-Linearizing Agent Traces: Bayesian Inference of Latent Partial Orders for Efficient Execution
+- [用二值旋转近似注意力并按概率动态选 KV](../conferences/icml-2026/cards/2401-2500.md#li26al-inference) · RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference
+- [按最近工具检索可复用经验](../conferences/icml-2026/cards/2401-2500.md#li26bn-inference) · Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory
 
 <a id="by-computer-vision"></a>
 
@@ -223,6 +228,8 @@
 - [以前瞻样本估未来奖赏并免反传引导](../conferences/icml-2026/cards/2101-2200.md#kim26bo-inference) · Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models
 - [对生成早期特征的空间均值做衰减](../conferences/icml-2026/cards/2201-2300.md#kwon26d-inference) · Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation
 - [固定预算扩散缓存](../conferences/icml-2026/cards/2301-2400.md#lei26j-inference) · Budget-Constrained Step-Level Diffusion Caching
+- [流匹配起步速度补偿](../conferences/icml-2026/cards/2401-2500.md#li26bi-inference) · The Velocity Deficit: Initial Energy Injection for Flow Matching
+- [按采样阶段调节轨迹动能](../conferences/icml-2026/cards/2401-2500.md#li26bk-inference) · A Kinetic Energy Perspective of Flow Matching
 
 <a id="by-nlp"></a>
 
@@ -277,6 +284,7 @@
 - [逐级缩小符号规划范围并验证关键规则](../conferences/icml-2026/cards/1901-2000.md#jiang26av-inference) · DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+
 - [在机器人动作采样前计入时序约束](../conferences/icml-2026/cards/2001-2100.md#kapoor26a-inference) · SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies
 - [冻结 VLA 的实例级视觉提示](../conferences/icml-2026/cards/2301-2400.md#lee26ax-inference) · Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting
+- [用时空一致的动作热启动加速扩散控制](../conferences/icml-2026/cards/2401-2500.md#li26aa-inference) · STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction
 
 <a id="by-multimodal"></a>
 
@@ -329,6 +337,7 @@
 - [按表征跨层变化为视觉区域分配裁剪预算](../conferences/icml-2026/cards/2301-2400.md#lee26ap-inference) · SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models
 - [高分辨率界面的主动定位](../conferences/icml-2026/cards/2301-2400.md#lei26h-inference) · GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding
 - [把组内视频推理优势写成可检索经验](../conferences/icml-2026/cards/2301-2400.md#leng26c-inference) · Linguistic Relative Policy Optimization for Video Anomaly Reasoning
+- [视频取证的证据图复核](../conferences/icml-2026/cards/2401-2500.md#li26be-inference) · Hermes: An Evidence-Driven Agentic Framework for Trustworthy and Explainable AI-Generated Video Detection
 
 <a id="by-ml-foundations"></a>
 

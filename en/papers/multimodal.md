@@ -43,6 +43,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hong26g-modules"></a>[Unified Multimodal Visual Tracking with Dual Mixture-of-Experts](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26g)
 - <a id="hu26ba-modules"></a>[TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ba)
 - <a id="kowsher26a-modules"></a>[LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](../../conferences/icml-2026/cards/2201-2300.md#paper-kowsher26a)
+- <a id="li26j-modules"></a>[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26j)
 
 <a id="by-loss-functions"></a>
 
@@ -98,6 +99,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="kou26b-reinforcement-learning"></a>[Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](../../conferences/icml-2026/cards/2201-2300.md#paper-kou26b)
 - <a id="lai26h-reinforcement-learning"></a>[Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](../../conferences/icml-2026/cards/2201-2300.md#paper-lai26h)
 - <a id="le26d-reinforcement-learning"></a>[PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](../../conferences/icml-2026/cards/2201-2300.md#paper-le26d)
+- <a id="li26ad-reinforcement-learning"></a>[Ego3S: Select, Strengthen, and Synchronize for Efficient Egocentric Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ad)
+- <a id="li26ap-reinforcement-learning"></a>[Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ap)
+- <a id="li26at-reinforcement-learning"></a>[Perceptual Flow Network for Visually Grounded Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26at)
 
 <a id="by-training-strategies"></a>
 
@@ -129,6 +133,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lang26a-training-strategies"></a>[AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning](../../conferences/icml-2026/cards/2201-2300.md#paper-lang26a)
 - <a id="le26b-training-strategies"></a>[HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models](../../conferences/icml-2026/cards/2201-2300.md#paper-le26b)
 - <a id="lee26bk-training-strategies"></a>[Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bk)
+- <a id="li26q-training-strategies"></a>[Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining](../../conferences/icml-2026/cards/2401-2500.md#paper-li26q)
 
 <a id="by-data-strategies"></a>
 
@@ -152,6 +157,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="jiang26p-data-strategies"></a>[TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26p)
 - <a id="ke26e-data-strategies"></a>[IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency](../../conferences/icml-2026/cards/2001-2100.md#paper-ke26e)
 - <a id="lee26m-data-strategies"></a>[Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26m)
+- <a id="li26y-data-strategies"></a>[A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26y)
+- <a id="li26bm-data-strategies"></a>[Training Data Efficiency in Multimodal Process Reward Models](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bm)
 
 <a id="by-inference"></a>
 
@@ -204,6 +211,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lee26ap-inference"></a>[SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ap)
 - <a id="lei26h-inference"></a>[GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26h)
 - <a id="leng26c-inference"></a>[Linguistic Relative Policy Optimization for Video Anomaly Reasoning](../../conferences/icml-2026/cards/2301-2400.md#paper-leng26c)
+- <a id="li26be-inference"></a>[Hermes: An Evidence-Driven Agentic Framework for Trustworthy and Explainable AI-Generated Video Detection](../../conferences/icml-2026/cards/2401-2500.md#paper-li26be)
 
 <a id="by-representation-learning"></a>
 
@@ -225,6 +233,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="jeon26c-representation-learning"></a>[Vision-aligned Latent Reasoning for Multi-modal Large Language Model](../../conferences/icml-2026/cards/1801-1900.md#paper-jeon26c)
 - <a id="kang26k-representation-learning"></a>[Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26k)
 - <a id="kravets26a-representation-learning"></a>[Interpretability Transfer from Language to Vision via Sparse Autoencoders](../../conferences/icml-2026/cards/2201-2300.md#paper-kravets26a)
+- <a id="li26bt-representation-learning"></a>[Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bt)
 
 <a id="by-evaluation"></a>
 
@@ -277,6 +286,10 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="krojer26a-evaluation"></a>[LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](../../conferences/icml-2026/cards/2201-2300.md#paper-krojer26a)
 - <a id="lai26e-evaluation"></a>[Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models](../../conferences/icml-2026/cards/2201-2300.md#paper-lai26e)
 - <a id="leng26a-evaluation"></a>[Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark](../../conferences/icml-2026/cards/2301-2400.md#paper-leng26a)
+- <a id="li26f-evaluation"></a>[MetaphorVU: Towards Metaphorical Video Understanding](../../conferences/icml-2026/cards/2301-2400.md#paper-li26f)
+- <a id="li26r-evaluation"></a>[Imagination Helps Visual Reasoning, But Not Yet in Latent Space](../../conferences/icml-2026/cards/2401-2500.md#paper-li26r)
+- <a id="li26z-evaluation"></a>[MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs](../../conferences/icml-2026/cards/2401-2500.md#paper-li26z)
+- <a id="li26bb-evaluation"></a>[SAW-Bench: Learning Situated Awareness in the Real World](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bb)
 
 <a id="by-theory-statistics"></a>
 

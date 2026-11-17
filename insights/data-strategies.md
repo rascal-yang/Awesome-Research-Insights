@@ -43,6 +43,7 @@
 - [用模型自己的解掩顺序生成训练掩码](../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training
 - [将端侧偏好记忆压缩为可检索指令](../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG
 - [先定义专家推理步骤再用证据改写监督](../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · Toward Cybersecurity-Expert Small Language Models
+- [容量感知的数据配比定律](../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -113,6 +114,8 @@
 - [把可回放 GUI 探索组织成可复用前缀树](../conferences/icml-2026/cards/1901-2000.md#jiang26p-data-strategies) · TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution
 - [用身体部位定位为无障碍理解建立监督](../conferences/icml-2026/cards/2001-2100.md#ke26e-data-strategies) · IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency
 - [用视觉交叉熵收益分配训练预算](../conferences/icml-2026/cards/2301-2400.md#lee26m-data-strategies) · Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain
+- [先采高纯单事件再约束音频混合](../conferences/icml-2026/cards/2401-2500.md#li26y-data-strategies) · A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation
+- [过程奖励训练的轨迹筛选](../conferences/icml-2026/cards/2401-2500.md#li26bm-data-strategies) · Training Data Efficiency in Multimodal Process Reward Models
 
 <a id="by-ml-foundations"></a>
 

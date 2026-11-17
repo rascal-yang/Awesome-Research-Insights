@@ -163,6 +163,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26ab-inference) · 中文
 - [FUSE: Ensembling Verifiers with Zero Labeled Data](../../conferences/icml-2026/cards/2301-2400.md#lee26av-inference) · 中文
 - [PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts](../../conferences/icml-2026/cards/2301-2400.md#li26d-inference) · 中文
+- [Building Reliable Long-Form Generation via Hallucination Rejection Sampling](../../conferences/icml-2026/cards/2401-2500.md#li26m-inference) · 中文
+- [Beyond Prediction: Tail-Aware Scheduling for LLM Inference](../../conferences/icml-2026/cards/2401-2500.md#li26n-inference) · 中文
+- [De-Linearizing Agent Traces: Bayesian Inference of Latent Partial Orders for Efficient Execution](../../conferences/icml-2026/cards/2401-2500.md#li26x-inference) · 中文
+- [RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference](../../conferences/icml-2026/cards/2401-2500.md#li26al-inference) · 中文
+- [Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory](../../conferences/icml-2026/cards/2401-2500.md#li26bn-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -223,6 +228,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bo-inference) · 中文
 - [Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation](../../conferences/icml-2026/cards/2201-2300.md#kwon26d-inference) · 中文
 - [Budget-Constrained Step-Level Diffusion Caching](../../conferences/icml-2026/cards/2301-2400.md#lei26j-inference) · 中文
+- [The Velocity Deficit: Initial Energy Injection for Flow Matching](../../conferences/icml-2026/cards/2401-2500.md#li26bi-inference) · 中文
+- [A Kinetic Energy Perspective of Flow Matching](../../conferences/icml-2026/cards/2401-2500.md#li26bk-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -277,6 +284,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+](../../conferences/icml-2026/cards/1901-2000.md#jiang26av-inference) · 中文
 - [SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies](../../conferences/icml-2026/cards/2001-2100.md#kapoor26a-inference) · 中文
 - [Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](../../conferences/icml-2026/cards/2301-2400.md#lee26ax-inference) · 中文
+- [STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction](../../conferences/icml-2026/cards/2401-2500.md#li26aa-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -329,6 +337,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26ap-inference) · 中文
 - [GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](../../conferences/icml-2026/cards/2301-2400.md#lei26h-inference) · 中文
 - [Linguistic Relative Policy Optimization for Video Anomaly Reasoning](../../conferences/icml-2026/cards/2301-2400.md#leng26c-inference) · 中文
+- [Hermes: An Evidence-Driven Agentic Framework for Trustworthy and Explainable AI-Generated Video Detection](../../conferences/icml-2026/cards/2401-2500.md#li26be-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

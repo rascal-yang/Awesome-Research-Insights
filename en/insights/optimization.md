@@ -61,6 +61,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation](../../conferences/icml-2026/cards/2101-2200.md#kim26bv-optimization) · 中文
 - [Evolving Interpretable Constitutions for Multi-Agent Coordination](../../conferences/icml-2026/cards/2201-2300.md#kumar26f-optimization) · 中文
 - [LittleBit-2: Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment](../../conferences/icml-2026/cards/2301-2400.md#lee26y-optimization) · 中文
+- [OSAQ: Outlier Self-Absorption for Accurate Low-bit LLM Quantization](../../conferences/icml-2026/cards/2401-2500.md#li26aj-optimization) · 中文
+- [Low-cost Full Fine-tuning: Learning What to Update for LLMs](../../conferences/icml-2026/cards/2401-2500.md#li26ax-optimization) · 中文
+- [OMAC: A Holistic Optimization Framework for LLM-Based Multi-Agent Collaboration](../../conferences/icml-2026/cards/2401-2500.md#li26bf-optimization) · 中文
+- [Textual Stochastic Gradient Descent: Discrete Optimization of External Memory for Reasoning Language Agents](../../conferences/icml-2026/cards/2401-2500.md#li26bo-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -268,6 +272,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](../../conferences/icml-2026/cards/2301-2400.md#lee26ba-optimization) · 中文
 - [Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks](../../conferences/icml-2026/cards/2301-2400.md#lee26bg-optimization) · 中文
 - [Near-Optimal Private Linear Regression via Iterative Hessian Mixing](../../conferences/icml-2026/cards/2301-2400.md#lev26a-optimization) · 中文
+- [Improving the Robustness-Utility Trade-off in Decentralized Learning over Sparse Networks](../../conferences/icml-2026/cards/2401-2500.md#li26i-optimization) · 中文
+- [MoSSP: A Momentum-Based Single-Loop Stochastic Penalty Method for Nonconvex Constrained DC-regularized Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ab-optimization) · 中文
+- [Large Scale Manifold Balanced Clustering](../../conferences/icml-2026/cards/2401-2500.md#li26as-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

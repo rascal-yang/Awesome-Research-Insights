@@ -97,6 +97,10 @@
 - [用高熵分支重塑反向 KL 的参考锚点](../conferences/icml-2026/cards/2301-2400.md#lee26r-reinforcement-learning) · SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs
 - [每条提示直接求满足 KL 预算的优势权重](../conferences/icml-2026/cards/2301-2400.md#lee26au-reinforcement-learning) · QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning
 - [自博弈出题的单类新颖奖励](../conferences/icml-2026/cards/2301-2400.md#lee26ay-reinforcement-learning) · OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards
+- [用策略参数化分数直接预测可验证奖励](../conferences/icml-2026/cards/2401-2500.md#li26p-reinforcement-learning) · Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR
+- [把 rollout 分配做成带预算的背包选择](../conferences/icml-2026/cards/2401-2500.md#li26v-reinforcement-learning) · Knapsack RL: Compute-Efficient Reinforcement Learning via Heterogeneous Rollout Allocation
+- [按注意力里局部分块和全局锚点调整逐词信用](../conferences/icml-2026/cards/2401-2500.md#li26ak-reinforcement-learning) · Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization
+- [共享前缀的树形强化学习采样](../conferences/icml-2026/cards/2401-2500.md#li26au-reinforcement-learning) · TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling
 
 <a id="by-computer-vision"></a>
 
@@ -196,6 +200,7 @@
 - [用单步流锚点约束噪声条件价值学习](../conferences/icml-2026/cards/2301-2400.md#lee26t-reinforcement-learning) · Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning
 - [用量子最小值搜索替换鲁棒 Bellman 内层枚举](../conferences/icml-2026/cards/2301-2400.md#lee26ae-reinforcement-learning) · Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity
 - [用当前策略价值引导可行环境扩散](../conferences/icml-2026/cards/2301-2400.md#li26b-reinforcement-learning) · Scaling Multi-Agent Environment Co-Design with Diffusion Models
+- [由下一帧预测误差驱动探索](../conferences/icml-2026/cards/2401-2500.md#li26bj-reinforcement-learning) · What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -237,6 +242,9 @@
 - [让图像结果反向监督文本编码器的推理](../conferences/icml-2026/cards/2201-2300.md#kou26b-reinforcement-learning) · Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders
 - [持续后训练的奖励分歧与遗忘](../conferences/icml-2026/cards/2201-2300.md#lai26h-reinforcement-learning) · Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training
 - [给视频质量和句子语义分别对齐奖励空间](../conferences/icml-2026/cards/2201-2300.md#le26d-reinforcement-learning) · PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards
+- [用反事实挑出必须看局部交互的第一视角问题](../conferences/icml-2026/cards/2401-2500.md#li26ad-reinforcement-learning) · Ego3S: Select, Strengthen, and Synchronize for Efficient Egocentric Reasoning
+- [按感知和推理难度共享归一化尺度](../conferences/icml-2026/cards/2401-2500.md#li26ap-reinforcement-learning) · Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization
+- [视觉推理的可学习感知轨迹](../conferences/icml-2026/cards/2401-2500.md#li26at-reinforcement-learning) · Perceptual Flow Network for Visually Grounded Reasoning
 
 <a id="by-ml-foundations"></a>
 
@@ -253,6 +261,7 @@
 - [推荐曝光控制](../conferences/icml-2026/cards/0201-0300.md#bisht26a-reinforcement-learning) · CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems
 - [按位置校正推荐路径的策略梯度](../conferences/icml-2026/cards/1601-1700.md#hou26g-reinforcement-learning) · ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation
 - [给被选条目而不是整个候选集分配梯度](../conferences/icml-2026/cards/2101-2200.md#kiyohara26a-reinforcement-learning) · Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking
+- [先用安全推荐筹集探索样本，再校准 gap 采样](../conferences/icml-2026/cards/2401-2500.md#li26w-reinforcement-learning) · Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System
 
 <a id="by-scientific-ml"></a>
 
@@ -273,4 +282,5 @@
 - [可合成分子的软约束采样](../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors
 - [把可执行的临床资源查询反馈用于代理训练](../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)
 - [用物理指标奖励少步光刻掩模生成](../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching
+- [把物理引导移到分子扩散后训练](../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields
 <!-- classification:end -->

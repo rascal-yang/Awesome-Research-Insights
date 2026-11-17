@@ -40,6 +40,7 @@
 - [循环保留了迭代结构的中间层](../conferences/icml-2026/cards/2001-2100.md#kapl26a-architecture) · From Growing to Looping: A Unified View of Iterative Computation in LLMs
 - [共享键和值以减少自回归缓存](../conferences/icml-2026/cards/2001-2100.md#kayyam26a-architecture) · Do Transformers Need Three Projections? Systematic Study of QKV Variants
 - [让稀疏解码器显式建模特征交互](../conferences/icml-2026/cards/2201-2300.md#koromilas26a-architecture) · PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding
+- [共享残差块的双流归一化](../conferences/icml-2026/cards/2401-2500.md#li26ba-architecture) · SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm
 
 <a id="by-computer-vision"></a>
 
@@ -72,6 +73,12 @@
 - [让等变视觉与符号决策共同驱动旋转](../conferences/icml-2026/cards/2001-2100.md#khazoum26a-architecture) · A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments
 - [以重建手的接触力驱动可变形物体并反向校正手](../conferences/icml-2026/cards/2301-2400.md#lee26ao-architecture) · PhysHanDI: Physics-Based Reconstruction of Hand-Deformable Object Interactions
 - [先分开学习几何和语义关系再交互](../conferences/icml-2026/cards/2301-2400.md#lei26b-architecture) · Synergistic Space-Vision Processing for Predicate Inference
+- [共享去噪轨迹以联合生成可编辑视频层](../conferences/icml-2026/cards/2401-2500.md#li26l-architecture) · LayerT2V: A Unified Multi-Layer Video Generation Framework
+- [为不均衡检测任务分配异构专家路由](../conferences/icml-2026/cards/2401-2500.md#li26o-architecture) · DroneDINO: Towards Heterogeneous Routed Mixture of Experts for Drone-based Unified Object Detection
+- [把二维重叠对象按 Z 顺序分开生成再合成](../conferences/icml-2026/cards/2401-2500.md#li26ah-architecture) · OcclusionFormer: Arranging Z-Order for Layout-Grounded Image Generation
+- [透明物体法线预测的密集视觉条件](../conferences/icml-2026/cards/2401-2500.md#li26ao-architecture) · TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation
+- [预训练注意力的线性化迁移](../conferences/icml-2026/cards/2401-2500.md#li26bc-architecture) · Linearizing Vision Transformer with Test-Time Training
+- [用实例深度锚初始化人体网格](../conferences/icml-2026/cards/2401-2500.md#li26bq-architecture) · DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring
 
 <a id="by-nlp"></a>
 
@@ -236,4 +243,6 @@
 - [用等算量固定边界隔离基因组动态分块的价值](../conferences/icml-2026/cards/2301-2400.md#ledneva26a-architecture) · LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling
 - [用跨层持久记忆检验脑信号参与解码](../conferences/icml-2026/cards/2301-2400.md#lee26v-architecture) · BIT-LLM: Brain Instruction Tuned LLM with persistent Cross-Attention for fMRI-to-Text Decoding
 - [用李群前缀扫描并行合成长时演化](../conferences/icml-2026/cards/2301-2400.md#lee26aa-architecture) · Lie-Algebraic Acceleration of Neural Koopman Dynamics
+- [用惯性坐标系把三维分子写成原子序列](../conferences/icml-2026/cards/2401-2500.md#li26am-architecture) · InertialAR: Autoregressive 3D Molecule Generation with Inertial Frames
+- [PDE 算子的高斯模态投影](../conferences/icml-2026/cards/2401-2500.md#li26aq-architecture) · From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators
 <!-- classification:end -->

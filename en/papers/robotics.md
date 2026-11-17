@@ -33,6 +33,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="gyenes26a-modules"></a>[Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../../conferences/icml-2026/cards/1401-1500.md#paper-gyenes26a)
 - <a id="jang26c-modules"></a>[RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26c)
 - <a id="jing26f-modules"></a>[Mixture of Horizons in Action Chunking](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26f)
+- <a id="li26ay-modules"></a>[Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ay)
 
 <a id="by-loss-functions"></a><a id="vision-language-action-models"></a>
 
@@ -117,6 +118,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="jiang26av-inference"></a>[DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26av)
 - <a id="kapoor26a-inference"></a>[SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies](../../conferences/icml-2026/cards/2001-2100.md#paper-kapoor26a)
 - <a id="lee26ax-inference"></a>[Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ax)
+- <a id="li26aa-inference"></a>[STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction](../../conferences/icml-2026/cards/2401-2500.md#paper-li26aa)
 
 <a id="by-representation-learning"></a>
 

@@ -109,6 +109,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Vision-aligned Latent Reasoning for Multi-modal Large Language Model](../../conferences/icml-2026/cards/1801-1900.md#jeon26c-representation-learning) · 中文
 - [Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](../../conferences/icml-2026/cards/2001-2100.md#kang26k-representation-learning) · 中文
 - [Interpretability Transfer from Language to Vision via Sparse Autoencoders](../../conferences/icml-2026/cards/2201-2300.md#kravets26a-representation-learning) · 中文
+- [Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation](../../conferences/icml-2026/cards/2401-2500.md#li26bt-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -201,4 +202,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions](../../conferences/icml-2026/cards/2201-2300.md#lai26b-representation-learning) · 中文
 - [Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields](../../conferences/icml-2026/cards/2201-2300.md#lalanne26a-representation-learning) · 中文
 - [Scaling Vision Transformers for Functional MRI with Flat Maps](../../conferences/icml-2026/cards/2201-2300.md#lane26a-representation-learning) · 中文
+- [Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](../../conferences/icml-2026/cards/2401-2500.md#li26bg-representation-learning) · 中文
+- [Source-Free Open-World RF Fingerprint Identification](../../conferences/icml-2026/cards/2401-2500.md#li26bl-representation-learning) · 中文
 <!-- classification:end -->

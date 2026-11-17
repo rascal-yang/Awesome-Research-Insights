@@ -78,6 +78,9 @@ Training schedules, curricula, and task or stage composition.
 - [ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training](../../conferences/icml-2026/cards/2301-2400.md#lee26an-training-strategies) · 中文
 - [LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs](../../conferences/icml-2026/cards/2301-2400.md#lee26bi-training-strategies) · 中文
 - [Multiple Choice Learning of Low-Rank Adapters for Language Modeling](../../conferences/icml-2026/cards/2301-2400.md#letzelter26a-training-strategies) · 中文
+- [Beyond Temperature: Hyperfitting as a Late-Stage Geometric Expansion](../../conferences/icml-2026/cards/2401-2500.md#li26af-training-strategies) · 中文
+- [IDLM: Inverse-distilled Diffusion Language Models](../../conferences/icml-2026/cards/2401-2500.md#li26az-training-strategies) · 中文
+- [R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training](../../conferences/icml-2026/cards/2401-2500.md#li26bh-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -107,6 +110,7 @@ Training schedules, curricula, and task or stage composition.
 - [Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks](../../conferences/icml-2026/cards/2201-2300.md#kumar26a-training-strategies) · 中文
 - [Toward Understanding Adversarial Distillation: Why Robust Teachers Fail](../../conferences/icml-2026/cards/2301-2400.md#lee26g-training-strategies) · 中文
 - [Geometry-Aware Image Flow Matching](../../conferences/icml-2026/cards/2301-2400.md#lee26x-training-strategies) · 中文
+- [HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance](../../conferences/icml-2026/cards/2401-2500.md#li26ac-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -166,6 +170,7 @@ Training schedules, curricula, and task or stage composition.
 - [AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning](../../conferences/icml-2026/cards/2201-2300.md#lang26a-training-strategies) · 中文
 - [HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models](../../conferences/icml-2026/cards/2201-2300.md#le26b-training-strategies) · 中文
 - [Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective](../../conferences/icml-2026/cards/2301-2400.md#lee26bk-training-strategies) · 中文
+- [Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining](../../conferences/icml-2026/cards/2401-2500.md#li26q-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -218,6 +223,7 @@ Training schedules, curricula, and task or stage composition.
 - [SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks](../../conferences/icml-2026/cards/2201-2300.md#kowsher26b-training-strategies) · 中文
 - [Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](../../conferences/icml-2026/cards/2201-2300.md#lan26b-training-strategies) · 中文
 - [LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games](../../conferences/icml-2026/cards/2301-2400.md#leng26b-training-strategies) · 中文
+- [FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training](../../conferences/icml-2026/cards/2401-2500.md#li26ae-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -63,6 +63,8 @@
 - <a id="ledneva26a-architecture"></a>[LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling](../conferences/icml-2026/cards/2301-2400.md#paper-ledneva26a)
 - <a id="lee26v-architecture"></a>[BIT-LLM: Brain Instruction Tuned LLM with persistent Cross-Attention for fMRI-to-Text Decoding](../conferences/icml-2026/cards/2301-2400.md#paper-lee26v)
 - <a id="lee26aa-architecture"></a>[Lie-Algebraic Acceleration of Neural Koopman Dynamics](../conferences/icml-2026/cards/2301-2400.md#paper-lee26aa)
+- <a id="li26am-architecture"></a>[InertialAR: Autoregressive 3D Molecule Generation with Inertial Frames](../conferences/icml-2026/cards/2401-2500.md#paper-li26am)
+- <a id="li26aq-architecture"></a>[From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators](../conferences/icml-2026/cards/2401-2500.md#paper-li26aq)
 
 <a id="by-modules"></a>
 
@@ -139,6 +141,7 @@
 - <a id="kim26ad-reinforcement-learning"></a>[Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ad)
 - <a id="knorr26a-reinforcement-learning"></a>[Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../conferences/icml-2026/cards/2101-2200.md#paper-knorr26a)
 - <a id="lai26f-reinforcement-learning"></a>[LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching](../conferences/icml-2026/cards/2201-2300.md#paper-lai26f)
+- <a id="li26bp-reinforcement-learning"></a>[Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](../conferences/icml-2026/cards/2401-2500.md#paper-li26bp)
 
 <a id="by-training-strategies"></a>
 
@@ -238,6 +241,8 @@
 - <a id="lai26b-representation-learning"></a>[DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions](../conferences/icml-2026/cards/2201-2300.md#paper-lai26b)
 - <a id="lalanne26a-representation-learning"></a>[Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields](../conferences/icml-2026/cards/2201-2300.md#paper-lalanne26a)
 - <a id="lane26a-representation-learning"></a>[Scaling Vision Transformers for Functional MRI with Flat Maps](../conferences/icml-2026/cards/2201-2300.md#paper-lane26a)
+- <a id="li26bg-representation-learning"></a>[Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](../conferences/icml-2026/cards/2401-2500.md#paper-li26bg)
+- <a id="li26bl-representation-learning"></a>[Source-Free Open-World RF Fingerprint Identification](../conferences/icml-2026/cards/2401-2500.md#paper-li26bl)
 
 <a id="by-evaluation"></a>
 
@@ -266,6 +271,7 @@
 - <a id="ku26a-evaluation"></a>[ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts](../conferences/icml-2026/cards/2201-2300.md#paper-ku26a)
 - <a id="kuang26d-evaluation"></a>[PDFBench: A Benchmark for De Novo Protein Design from Function](../conferences/icml-2026/cards/2201-2300.md#paper-kuang26d)
 - <a id="ledneva26b-evaluation"></a>[GENEB: Why Genomic Models Are Hard to Compare](../conferences/icml-2026/cards/2301-2400.md#paper-ledneva26b)
+- <a id="li26t-evaluation"></a>[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../conferences/icml-2026/cards/2401-2500.md#paper-li26t)
 
 <a id="by-theory-statistics"></a>
 

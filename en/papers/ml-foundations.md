@@ -261,6 +261,9 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lee26ba-optimization"></a>[Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ba)
 - <a id="lee26bg-optimization"></a>[Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bg)
 - <a id="lev26a-optimization"></a>[Near-Optimal Private Linear Regression via Iterative Hessian Mixing](../../conferences/icml-2026/cards/2301-2400.md#paper-lev26a)
+- <a id="li26i-optimization"></a>[Improving the Robustness-Utility Trade-off in Decentralized Learning over Sparse Networks](../../conferences/icml-2026/cards/2401-2500.md#paper-li26i)
+- <a id="li26ab-optimization"></a>[MoSSP: A Momentum-Based Single-Loop Stochastic Penalty Method for Nonconvex Constrained DC-regularized Optimization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ab)
+- <a id="li26as-optimization"></a>[Large Scale Manifold Balanced Clustering](../../conferences/icml-2026/cards/2401-2500.md#paper-li26as)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -320,6 +323,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="kowsher26b-training-strategies"></a>[SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks](../../conferences/icml-2026/cards/2201-2300.md#paper-kowsher26b)
 - <a id="lan26b-training-strategies"></a>[Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](../../conferences/icml-2026/cards/2201-2300.md#paper-lan26b)
 - <a id="leng26b-training-strategies"></a>[LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games](../../conferences/icml-2026/cards/2301-2400.md#paper-leng26b)
+- <a id="li26ae-training-strategies"></a>[FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ae)
 
 <a id="by-data-strategies"></a>
 
@@ -708,4 +712,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lee26bn-theory-statistics"></a>[Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bn)
 - <a id="lei26a-theory-statistics"></a>[Stability beyond Bounded Differences: Sharp Generalization Bounds under Finite $L_p$ Moments](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26a)
 - <a id="lei26f-theory-statistics"></a>[A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26f)
+- <a id="li26e-theory-statistics"></a>[Dimension-free convergence of diffusion models for approximate Gaussian mixtures](../../conferences/icml-2026/cards/2301-2400.md#paper-li26e)
+- <a id="li26ai-theory-statistics"></a>[Convergence Rate Analysis of the AdamW-Style Shampoo: Unifying One-Sided and Two-Sided Preconditioning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ai)
+- <a id="li26aw-theory-statistics"></a>[Selling Data as a Digital Good with Scaling Valuations](../../conferences/icml-2026/cards/2401-2500.md#paper-li26aw)
+- <a id="li26bd-theory-statistics"></a>[Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bd)
 <!-- classification:end -->

@@ -78,6 +78,9 @@
 - [在相同推理轨迹上稳住 FP4 的低熵决策](../conferences/icml-2026/cards/2301-2400.md#lee26an-training-strategies) · ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training
 - [在末块量化时直接校准词表分布](../conferences/icml-2026/cards/2301-2400.md#lee26bi-training-strategies) · LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs
 - [让低秩适配器在多解续写中分工](../conferences/icml-2026/cards/2301-2400.md#letzelter26a-training-strategies) · Multiple Choice Learning of Low-Rank Adapters for Language Modeling
+- [微调末几层改变贪婪解码的上下文排序](../conferences/icml-2026/cards/2401-2500.md#li26af-training-strategies) · Beyond Temperature: Hyperfitting as a Late-Stage Geometric Expansion
+- [离散扩散语言模型的逆向蒸馏](../conferences/icml-2026/cards/2401-2500.md#li26az-training-strategies) · IDLM: Inverse-distilled Diffusion Language Models
+- [自博弈题目的解法多样性](../conferences/icml-2026/cards/2401-2500.md#li26bh-training-strategies) · R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training
 
 <a id="by-computer-vision"></a>
 
@@ -107,6 +110,7 @@
 - [用熵导向扰动训练失真恢复](../conferences/icml-2026/cards/2201-2300.md#kumar26a-training-strategies) · Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks
 - [按学生不可学习区域选择教师熵](../conferences/icml-2026/cards/2301-2400.md#lee26g-training-strategies) · Toward Understanding Adversarial Distillation: Why Robust Teachers Fail
 - [在图像球面方向上配对并学习流](../conferences/icml-2026/cards/2301-2400.md#lee26x-training-strategies) · Geometry-Aware Image Flow Matching
+- [用部件可供性图约束从文本生成的人物交互](../conferences/icml-2026/cards/2401-2500.md#li26ac-training-strategies) · HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance
 
 <a id="by-nlp"></a>
 
@@ -166,6 +170,7 @@
 - [缺失模态的上下文提示](../conferences/icml-2026/cards/2201-2300.md#lang26a-training-strategies) · AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning
 - [蒸馏物体词组层级及跨模态关系](../conferences/icml-2026/cards/2201-2300.md#le26b-training-strategies) · HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models
 - [用同类跨模态随机配对平滑监督](../conferences/icml-2026/cards/2301-2400.md#lee26bk-training-strategies) · Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective
+- [用共享语言概念预对齐不同遥感传感器](../conferences/icml-2026/cards/2401-2500.md#li26q-training-strategies) · Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining
 
 <a id="by-ml-foundations"></a>
 
@@ -218,6 +223,7 @@
 - [轮流更新小权重切片保留累计方向](../conferences/icml-2026/cards/2201-2300.md#kowsher26b-training-strategies) · SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks
 - [基于上下文差异的零样本时序检测](../conferences/icml-2026/cards/2201-2300.md#lan26b-training-strategies) · Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy
 - [异构联邦模型的模块聚合](../conferences/icml-2026/cards/2301-2400.md#leng26b-training-strategies) · LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games
+- [用排队预测决定每轮联邦训练做多少本地工作](../conferences/icml-2026/cards/2401-2500.md#li26ae-training-strategies) · FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training
 
 <a id="by-graph-and-recommendation"></a>
 

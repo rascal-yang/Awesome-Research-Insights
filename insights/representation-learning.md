@@ -109,6 +109,7 @@
 - [在每段推理前插入视觉对齐状态](../conferences/icml-2026/cards/1801-1900.md#jeon26c-representation-learning) · Vision-aligned Latent Reasoning for Multi-modal Large Language Model
 - [用双曲文本锚点训练无文本输入的红外可见光融合](../conferences/icml-2026/cards/2001-2100.md#kang26k-representation-learning) · Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space
 - [让视觉投影对齐既有文本稀疏概念](../conferences/icml-2026/cards/2201-2300.md#kravets26a-representation-learning) · Interpretability Transfer from Language to Vision via Sparse Autoencoders
+- [双曲空间的类别轨迹解耦](../conferences/icml-2026/cards/2401-2500.md#li26bt-representation-learning) · Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation
 
 <a id="by-ml-foundations"></a>
 
@@ -201,4 +202,6 @@
 - [用未配对序列预训部件，再用低熵先解码联合结构](../conferences/icml-2026/cards/2201-2300.md#lai26b-representation-learning) · DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions
 - [随机场的隐式流匹配与条件生成](../conferences/icml-2026/cards/2201-2300.md#lalanne26a-representation-learning) · Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields
 - [皮层平面图上的 fMRI 掩码预训练](../conferences/icml-2026/cards/2201-2300.md#lane26a-representation-learning) · Scaling Vision Transformers for Functional MRI with Flat Maps
+- [生理时序的低冗余指纹](../conferences/icml-2026/cards/2401-2500.md#li26bg-representation-learning) · Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization
+- [无源新设备发现的正交锚点](../conferences/icml-2026/cards/2401-2500.md#li26bl-representation-learning) · Source-Free Open-World RF Fingerprint Identification
 <!-- classification:end -->

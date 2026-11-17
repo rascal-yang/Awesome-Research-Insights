@@ -40,6 +40,7 @@ Model-wide design and information flow.
 - [From Growing to Looping: A Unified View of Iterative Computation in LLMs](../../conferences/icml-2026/cards/2001-2100.md#kapl26a-architecture) · 中文
 - [Do Transformers Need Three Projections? Systematic Study of QKV Variants](../../conferences/icml-2026/cards/2001-2100.md#kayyam26a-architecture) · 中文
 - [PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding](../../conferences/icml-2026/cards/2201-2300.md#koromilas26a-architecture) · 中文
+- [SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm](../../conferences/icml-2026/cards/2401-2500.md#li26ba-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -72,6 +73,12 @@ Model-wide design and information flow.
 - [A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](../../conferences/icml-2026/cards/2001-2100.md#khazoum26a-architecture) · 中文
 - [PhysHanDI: Physics-Based Reconstruction of Hand-Deformable Object Interactions](../../conferences/icml-2026/cards/2301-2400.md#lee26ao-architecture) · 中文
 - [Synergistic Space-Vision Processing for Predicate Inference](../../conferences/icml-2026/cards/2301-2400.md#lei26b-architecture) · 中文
+- [LayerT2V: A Unified Multi-Layer Video Generation Framework](../../conferences/icml-2026/cards/2401-2500.md#li26l-architecture) · 中文
+- [DroneDINO: Towards Heterogeneous Routed Mixture of Experts for Drone-based Unified Object Detection](../../conferences/icml-2026/cards/2401-2500.md#li26o-architecture) · 中文
+- [OcclusionFormer: Arranging Z-Order for Layout-Grounded Image Generation](../../conferences/icml-2026/cards/2401-2500.md#li26ah-architecture) · 中文
+- [TransNormal: Dense Visual Semantics for Diffusion-based Transparent Object Normal Estimation](../../conferences/icml-2026/cards/2401-2500.md#li26ao-architecture) · 中文
+- [Linearizing Vision Transformer with Test-Time Training](../../conferences/icml-2026/cards/2401-2500.md#li26bc-architecture) · 中文
+- [DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring](../../conferences/icml-2026/cards/2401-2500.md#li26bq-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -236,4 +243,6 @@ Model-wide design and information flow.
 - [LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling](../../conferences/icml-2026/cards/2301-2400.md#ledneva26a-architecture) · 中文
 - [BIT-LLM: Brain Instruction Tuned LLM with persistent Cross-Attention for fMRI-to-Text Decoding](../../conferences/icml-2026/cards/2301-2400.md#lee26v-architecture) · 中文
 - [Lie-Algebraic Acceleration of Neural Koopman Dynamics](../../conferences/icml-2026/cards/2301-2400.md#lee26aa-architecture) · 中文
+- [InertialAR: Autoregressive 3D Molecule Generation with Inertial Frames](../../conferences/icml-2026/cards/2401-2500.md#li26am-architecture) · 中文
+- [From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators](../../conferences/icml-2026/cards/2401-2500.md#li26aq-architecture) · 中文
 <!-- classification:end -->

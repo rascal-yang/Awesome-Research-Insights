@@ -97,6 +97,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs](../../conferences/icml-2026/cards/2301-2400.md#lee26r-reinforcement-learning) · 中文
 - [QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning](../../conferences/icml-2026/cards/2301-2400.md#lee26au-reinforcement-learning) · 中文
 - [OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards](../../conferences/icml-2026/cards/2301-2400.md#lee26ay-reinforcement-learning) · 中文
+- [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](../../conferences/icml-2026/cards/2401-2500.md#li26p-reinforcement-learning) · 中文
+- [Knapsack RL: Compute-Efficient Reinforcement Learning via Heterogeneous Rollout Allocation](../../conferences/icml-2026/cards/2401-2500.md#li26v-reinforcement-learning) · 中文
+- [Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ak-reinforcement-learning) · 中文
+- [TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling](../../conferences/icml-2026/cards/2401-2500.md#li26au-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -196,6 +200,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26t-reinforcement-learning) · 中文
 - [Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity](../../conferences/icml-2026/cards/2301-2400.md#lee26ae-reinforcement-learning) · 中文
 - [Scaling Multi-Agent Environment Co-Design with Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#li26b-reinforcement-learning) · 中文
+- [What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity](../../conferences/icml-2026/cards/2401-2500.md#li26bj-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -237,6 +242,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](../../conferences/icml-2026/cards/2201-2300.md#kou26b-reinforcement-learning) · 中文
 - [Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](../../conferences/icml-2026/cards/2201-2300.md#lai26h-reinforcement-learning) · 中文
 - [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](../../conferences/icml-2026/cards/2201-2300.md#le26d-reinforcement-learning) · 中文
+- [Ego3S: Select, Strengthen, and Synchronize for Efficient Egocentric Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26ad-reinforcement-learning) · 中文
+- [Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization](../../conferences/icml-2026/cards/2401-2500.md#li26ap-reinforcement-learning) · 中文
+- [Perceptual Flow Network for Visually Grounded Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26at-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -253,6 +261,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](../../conferences/icml-2026/cards/0201-0300.md#bisht26a-reinforcement-learning) · 中文
 - [ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](../../conferences/icml-2026/cards/1601-1700.md#hou26g-reinforcement-learning) · 中文
 - [Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking](../../conferences/icml-2026/cards/2101-2200.md#kiyohara26a-reinforcement-learning) · 中文
+- [Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System](../../conferences/icml-2026/cards/2401-2500.md#li26w-reinforcement-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -273,4 +282,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · 中文
 - [Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · 中文
 - [LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching](../../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · 中文
+- [Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](../../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · 中文
 <!-- classification:end -->

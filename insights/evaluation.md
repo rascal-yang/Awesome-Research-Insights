@@ -195,6 +195,9 @@
 - [开放式行为模拟评估](../conferences/icml-2026/cards/2301-2400.md#lei26c-evaluation) · A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors
 - [用活跃形式化项目的待证明空位滚动评测](../conferences/icml-2026/cards/2301-2400.md#letson26a-evaluation) · SorryDB: Can AI Provers Complete Real-World Lean Theorems?
 - [以逐步干预和双重读出区分潜在推理承诺](../conferences/icml-2026/cards/2301-2400.md#li26c-evaluation) · Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure
+- [让目标模型和描述器持有冲突知识](../conferences/icml-2026/cards/2401-2500.md#li26k-evaluation) · Do Activation Verbalization Methods Convey Privileged Information?
+- [用不可见触发与回复对给文本做可检验溯源](../conferences/icml-2026/cards/2401-2500.md#li26an-evaluation) · Data Provenance Auditing of Fine-Tuned Large Language Models with a Text-Preserving Technique
+- [库级 SIMD 迁移的编译与性能评测](../conferences/icml-2026/cards/2401-2500.md#li26ar-evaluation) · QiMeng-LibBench: Benchmarking LLM Agents for Library-Scale Cross-Architecture Migration
 
 <a id="by-computer-vision"></a>
 
@@ -234,6 +237,9 @@
 - [固定训练和采样预算比较增强随机过程](../conferences/icml-2026/cards/2201-2300.md#kozlowski26a-evaluation) · Unifying Deep Stochastic Processes for Image Enhancement
 - [用角落位移区分显著性的中心先验](../conferences/icml-2026/cards/2201-2300.md#kuang26a-evaluation) · When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability
 - [水印通过后再检查反演潜变量的几何偏移](../conferences/icml-2026/cards/2301-2400.md#lee26bm-evaluation) · Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective
+- [按任务允许变化评估图像内容保真](../conferences/icml-2026/cards/2301-2400.md#li26h-evaluation) · StableI2I: Spotting Unintended Changes in Image-to-Image Transition
+- [沿稀疏概念电路读出并编辑视觉模型](../conferences/icml-2026/cards/2401-2500.md#li26s-evaluation) · Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers
+- [用扩散特征污染率监测记忆](../conferences/icml-2026/cards/2401-2500.md#li26br-evaluation) · Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles
 
 <a id="by-nlp"></a>
 
@@ -255,6 +261,8 @@
 - [按语料的语义分层覆盖检索评测](../conferences/icml-2026/cards/2101-2200.md#klearman26a-evaluation) · Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation
 - [分别破坏输出语言与源句内容寻找翻译头](../conferences/icml-2026/cards/2201-2300.md#lasnier26a-evaluation) · Translation Heads: Disentangling meaning from language in LLM-based machine translation
 - [用多跳知识图谱路径做跨语种事实对照](../conferences/icml-2026/cards/2201-2300.md#lavrinovics26a-evaluation) · MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations
+- [用未知查询下的文档改动压力测试召回](../conferences/icml-2026/cards/2301-2400.md#li26g-evaluation) · “Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval
+- [给音频伪造检测的不同分布单独画规模曲线](../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection
 
 <a id="by-reinforcement-learning"></a>
 
@@ -331,6 +339,10 @@
 - [以同层文本近邻解释视觉隐藏表示](../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
 - [用指令词元的内部状态判别模型是否虚构对象](../conferences/icml-2026/cards/2201-2300.md#lai26e-evaluation) · Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models
 - [视频异常事件级评估](../conferences/icml-2026/cards/2301-2400.md#leng26a-evaluation) · Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark
+- [为视频隐喻单独测量跨域映射](../conferences/icml-2026/cards/2301-2400.md#li26f-evaluation) · MetaphorVU: Towards Metaphorical Video Understanding
+- [用输入和中间态两次干预检验视觉推理链](../conferences/icml-2026/cards/2401-2500.md#li26r-evaluation) · Imagination Helps Visual Reasoning, But Not Yet in Latent Space
+- [把多轮遗忘请求作为测试序列并按实体路由适配器](../conferences/icml-2026/cards/2401-2500.md#li26z-evaluation) · MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs
+- [观察者中心的空间评测](../conferences/icml-2026/cards/2401-2500.md#li26bb-evaluation) · SAW-Bench: Learning Situated Awareness in the Real World
 
 <a id="by-ml-foundations"></a>
 
@@ -415,4 +427,5 @@
 - [按构象机制评估蛋白模型的状态覆盖](../conferences/icml-2026/cards/2201-2300.md#ku26a-evaluation) · ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts
 - [以多维指标和时间切分评估功能蛋白设计](../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · PDFBench: A Benchmark for De Novo Protein Design from Function
 - [按功能和样本量复核基因组模型排名](../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · GENEB: Why Genomic Models Are Hard to Compare
+- [分开评测光变曲线嵌入的类簇、分类和稀有源检索](../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars
 <!-- classification:end -->

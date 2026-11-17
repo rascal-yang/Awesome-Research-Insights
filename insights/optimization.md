@@ -61,6 +61,10 @@
 - [离线融合逐层旋转并只在线补低秩差](../conferences/icml-2026/cards/2101-2200.md#kim26bv-optimization) · ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation
 - [在不同种群演化能执行的多代理规则](../conferences/icml-2026/cards/2201-2300.md#kumar26f-optimization) · Evolving Interpretable Constitutions for Multi-Agent Coordination
 - [先旋转奇异子空间再二值化低秩因子](../conferences/icml-2026/cards/2301-2400.md#lee26y-optimization) · LittleBit-2: Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment
+- [在 Hessian 弱方向内吸收量化离群权重](../conferences/icml-2026/cards/2401-2500.md#li26aj-optimization) · OSAQ: Outlier Self-Absorption for Accurate Low-bit LLM Quantization
+- [逐步选择组的低成本全微调](../conferences/icml-2026/cards/2401-2500.md#li26ax-optimization) · Low-cost Full Fine-tuning: Learning What to Update for LLMs
+- [多智能体角色与路由联调](../conferences/icml-2026/cards/2401-2500.md#li26bf-optimization) · OMAC: A Holistic Optimization Framework for LLM-Based Multi-Agent Collaboration
+- [外部经验库的选择性改写](../conferences/icml-2026/cards/2401-2500.md#li26bo-optimization) · Textual Stochastic Gradient Descent: Discrete Optimization of External Memory for Reasoning Language Agents
 
 <a id="by-computer-vision"></a>
 
@@ -268,6 +272,9 @@
 - [多项 Logit 组合试验的最优设计](../conferences/icml-2026/cards/2301-2400.md#lee26ba-optimization) · Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification
 - [可微逻辑门的两阶段常量绑定](../conferences/icml-2026/cards/2301-2400.md#lee26bg-optimization) · Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks
 - [用多轮私有 Hessian 草图修正回归参数](../conferences/icml-2026/cards/2301-2400.md#lev26a-optimization) · Near-Optimal Private Linear Regression via Iterative Hessian Mixing
+- [缩放去中心化偏差校正的对偶更新](../conferences/icml-2026/cards/2401-2500.md#li26i-optimization) · Improving the Robustness-Utility Trade-off in Decentralized Learning over Sparse Networks
+- [把惩罚项包络和差分正则两部分并行更新](../conferences/icml-2026/cards/2401-2500.md#li26ab-optimization) · MoSSP: A Momentum-Based Single-Loop Stochastic Penalty Method for Nonconvex Constrained DC-regularized Optimization
+- [锚点流形上的均衡聚类](../conferences/icml-2026/cards/2401-2500.md#li26as-optimization) · Large Scale Manifold Balanced Clustering
 
 <a id="by-graph-and-recommendation"></a>
 

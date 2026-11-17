@@ -195,6 +195,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors](../../conferences/icml-2026/cards/2301-2400.md#lei26c-evaluation) · 中文
 - [SorryDB: Can AI Provers Complete Real-World Lean Theorems?](../../conferences/icml-2026/cards/2301-2400.md#letson26a-evaluation) · 中文
 - [Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure](../../conferences/icml-2026/cards/2301-2400.md#li26c-evaluation) · 中文
+- [Do Activation Verbalization Methods Convey Privileged Information?](../../conferences/icml-2026/cards/2401-2500.md#li26k-evaluation) · 中文
+- [Data Provenance Auditing of Fine-Tuned Large Language Models with a Text-Preserving Technique](../../conferences/icml-2026/cards/2401-2500.md#li26an-evaluation) · 中文
+- [QiMeng-LibBench: Benchmarking LLM Agents for Library-Scale Cross-Architecture Migration](../../conferences/icml-2026/cards/2401-2500.md#li26ar-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -234,6 +237,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Unifying Deep Stochastic Processes for Image Enhancement](../../conferences/icml-2026/cards/2201-2300.md#kozlowski26a-evaluation) · 中文
 - [When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability](../../conferences/icml-2026/cards/2201-2300.md#kuang26a-evaluation) · 中文
 - [Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective](../../conferences/icml-2026/cards/2301-2400.md#lee26bm-evaluation) · 中文
+- [StableI2I: Spotting Unintended Changes in Image-to-Image Transition](../../conferences/icml-2026/cards/2301-2400.md#li26h-evaluation) · 中文
+- [Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](../../conferences/icml-2026/cards/2401-2500.md#li26s-evaluation) · 中文
+- [Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles](../../conferences/icml-2026/cards/2401-2500.md#li26br-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -255,6 +261,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation](../../conferences/icml-2026/cards/2101-2200.md#klearman26a-evaluation) · 中文
 - [Translation Heads: Disentangling meaning from language in LLM-based machine translation](../../conferences/icml-2026/cards/2201-2300.md#lasnier26a-evaluation) · 中文
 - [MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations](../../conferences/icml-2026/cards/2201-2300.md#lavrinovics26a-evaluation) · 中文
+- [“Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](../../conferences/icml-2026/cards/2301-2400.md#li26g-evaluation) · 中文
+- [Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection](../../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -331,6 +339,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](../../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · 中文
 - [Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models](../../conferences/icml-2026/cards/2201-2300.md#lai26e-evaluation) · 中文
 - [Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark](../../conferences/icml-2026/cards/2301-2400.md#leng26a-evaluation) · 中文
+- [MetaphorVU: Towards Metaphorical Video Understanding](../../conferences/icml-2026/cards/2301-2400.md#li26f-evaluation) · 中文
+- [Imagination Helps Visual Reasoning, But Not Yet in Latent Space](../../conferences/icml-2026/cards/2401-2500.md#li26r-evaluation) · 中文
+- [MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs](../../conferences/icml-2026/cards/2401-2500.md#li26z-evaluation) · 中文
+- [SAW-Bench: Learning Situated Awareness in the Real World](../../conferences/icml-2026/cards/2401-2500.md#li26bb-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -415,4 +427,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts](../../conferences/icml-2026/cards/2201-2300.md#ku26a-evaluation) · 中文
 - [PDFBench: A Benchmark for De Novo Protein Design from Function](../../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · 中文
 - [GENEB: Why Genomic Models Are Hard to Compare](../../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · 中文
+- [StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · 中文
 <!-- classification:end -->

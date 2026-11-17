@@ -40,6 +40,7 @@
 - <a id="kapl26a-architecture"></a>[From Growing to Looping: A Unified View of Iterative Computation in LLMs](../conferences/icml-2026/cards/2001-2100.md#paper-kapl26a)
 - <a id="kayyam26a-architecture"></a>[Do Transformers Need Three Projections? Systematic Study of QKV Variants](../conferences/icml-2026/cards/2001-2100.md#paper-kayyam26a)
 - <a id="koromilas26a-architecture"></a>[PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding](../conferences/icml-2026/cards/2201-2300.md#paper-koromilas26a)
+- <a id="li26ba-architecture"></a>[SiameseNorm: Breaking the Barrier to Reconciling Pre/Post-Norm](../conferences/icml-2026/cards/2401-2500.md#paper-li26ba)
 
 <a id="by-modules"></a>
 
@@ -69,6 +70,7 @@
 - <a id="kim26f-modules"></a>[Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs](../conferences/icml-2026/cards/2001-2100.md#paper-kim26f)
 - <a id="klein26a-modules"></a>[Tucker Attention: A generalization of approximate attention mechanisms](../conferences/icml-2026/cards/2101-2200.md#paper-klein26a)
 - <a id="lee26p-modules"></a>[HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding](../conferences/icml-2026/cards/2301-2400.md#paper-lee26p)
+- <a id="li26bs-modules"></a>[The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](../conferences/icml-2026/cards/2401-2500.md#paper-li26bs)
 
 <a id="by-loss-functions"></a>
 
@@ -144,6 +146,10 @@
 - <a id="kim26bv-optimization"></a>[ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bv)
 - <a id="kumar26f-optimization"></a>[Evolving Interpretable Constitutions for Multi-Agent Coordination](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26f)
 - <a id="lee26y-optimization"></a>[LittleBit-2: Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment](../conferences/icml-2026/cards/2301-2400.md#paper-lee26y)
+- <a id="li26aj-optimization"></a>[OSAQ: Outlier Self-Absorption for Accurate Low-bit LLM Quantization](../conferences/icml-2026/cards/2401-2500.md#paper-li26aj)
+- <a id="li26ax-optimization"></a>[Low-cost Full Fine-tuning: Learning What to Update for LLMs](../conferences/icml-2026/cards/2401-2500.md#paper-li26ax)
+- <a id="li26bf-optimization"></a>[OMAC: A Holistic Optimization Framework for LLM-Based Multi-Agent Collaboration](../conferences/icml-2026/cards/2401-2500.md#paper-li26bf)
+- <a id="li26bo-optimization"></a>[Textual Stochastic Gradient Descent: Discrete Optimization of External Memory for Reasoning Language Agents](../conferences/icml-2026/cards/2401-2500.md#paper-li26bo)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -233,6 +239,10 @@
 - <a id="lee26r-reinforcement-learning"></a>[SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs](../conferences/icml-2026/cards/2301-2400.md#paper-lee26r)
 - <a id="lee26au-reinforcement-learning"></a>[QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning](../conferences/icml-2026/cards/2301-2400.md#paper-lee26au)
 - <a id="lee26ay-reinforcement-learning"></a>[OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ay)
+- <a id="li26p-reinforcement-learning"></a>[Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](../conferences/icml-2026/cards/2401-2500.md#paper-li26p)
+- <a id="li26v-reinforcement-learning"></a>[Knapsack RL: Compute-Efficient Reinforcement Learning via Heterogeneous Rollout Allocation](../conferences/icml-2026/cards/2401-2500.md#paper-li26v)
+- <a id="li26ak-reinforcement-learning"></a>[Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26ak)
+- <a id="li26au-reinforcement-learning"></a>[TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling](../conferences/icml-2026/cards/2401-2500.md#paper-li26au)
 
 <a id="by-training-strategies"></a>
 
@@ -303,6 +313,9 @@
 - <a id="lee26an-training-strategies"></a>[ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training](../conferences/icml-2026/cards/2301-2400.md#paper-lee26an)
 - <a id="lee26bi-training-strategies"></a>[LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bi)
 - <a id="letzelter26a-training-strategies"></a>[Multiple Choice Learning of Low-Rank Adapters for Language Modeling](../conferences/icml-2026/cards/2301-2400.md#paper-letzelter26a)
+- <a id="li26af-training-strategies"></a>[Beyond Temperature: Hyperfitting as a Late-Stage Geometric Expansion](../conferences/icml-2026/cards/2401-2500.md#paper-li26af)
+- <a id="li26az-training-strategies"></a>[IDLM: Inverse-distilled Diffusion Language Models](../conferences/icml-2026/cards/2401-2500.md#paper-li26az)
+- <a id="li26bh-training-strategies"></a>[R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training](../conferences/icml-2026/cards/2401-2500.md#paper-li26bh)
 
 <a id="by-data-strategies"></a>
 
@@ -338,6 +351,7 @@
 - <a id="kim26o-data-strategies"></a>[Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](../conferences/icml-2026/cards/2101-2200.md#paper-kim26o)
 - <a id="lee26u-data-strategies"></a>[From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](../conferences/icml-2026/cards/2301-2400.md#paper-lee26u)
 - <a id="levi26a-data-strategies"></a>[Toward Cybersecurity-Expert Small Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-levi26a)
+- <a id="li26av-data-strategies"></a>[Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26av)
 
 <a id="by-inference"></a>
 
@@ -493,6 +507,11 @@
 - <a id="lee26ab-inference"></a>[Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ab)
 - <a id="lee26av-inference"></a>[FUSE: Ensembling Verifiers with Zero Labeled Data](../conferences/icml-2026/cards/2301-2400.md#paper-lee26av)
 - <a id="li26d-inference"></a>[PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts](../conferences/icml-2026/cards/2301-2400.md#paper-li26d)
+- <a id="li26m-inference"></a>[Building Reliable Long-Form Generation via Hallucination Rejection Sampling](../conferences/icml-2026/cards/2401-2500.md#paper-li26m)
+- <a id="li26n-inference"></a>[Beyond Prediction: Tail-Aware Scheduling for LLM Inference](../conferences/icml-2026/cards/2401-2500.md#paper-li26n)
+- <a id="li26x-inference"></a>[De-Linearizing Agent Traces: Bayesian Inference of Latent Partial Orders for Efficient Execution](../conferences/icml-2026/cards/2401-2500.md#paper-li26x)
+- <a id="li26al-inference"></a>[RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference](../conferences/icml-2026/cards/2401-2500.md#paper-li26al)
+- <a id="li26bn-inference"></a>[Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory](../conferences/icml-2026/cards/2401-2500.md#paper-li26bn)
 
 <a id="by-representation-learning"></a>
 
@@ -691,6 +710,9 @@
 - <a id="lei26c-evaluation"></a>[A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors](../conferences/icml-2026/cards/2301-2400.md#paper-lei26c)
 - <a id="letson26a-evaluation"></a>[SorryDB: Can AI Provers Complete Real-World Lean Theorems?](../conferences/icml-2026/cards/2301-2400.md#paper-letson26a)
 - <a id="li26c-evaluation"></a>[Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure](../conferences/icml-2026/cards/2301-2400.md#paper-li26c)
+- <a id="li26k-evaluation"></a>[Do Activation Verbalization Methods Convey Privileged Information?](../conferences/icml-2026/cards/2401-2500.md#paper-li26k)
+- <a id="li26an-evaluation"></a>[Data Provenance Auditing of Fine-Tuned Large Language Models with a Text-Preserving Technique](../conferences/icml-2026/cards/2401-2500.md#paper-li26an)
+- <a id="li26ar-evaluation"></a>[QiMeng-LibBench: Benchmarking LLM Agents for Library-Scale Cross-Architecture Migration](../conferences/icml-2026/cards/2401-2500.md#paper-li26ar)
 
 <a id="by-theory-statistics"></a>
 
@@ -725,4 +747,5 @@
 - <a id="koubbi26a-theory-statistics"></a>[Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics](../conferences/icml-2026/cards/2201-2300.md#paper-koubbi26a)
 - <a id="lee26be-theory-statistics"></a>[Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26be)
 - <a id="lee26bl-theory-statistics"></a>[How to Correctly Report LLM-as-a-Judge Evaluations](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bl)
+- <a id="li26ag-theory-statistics"></a>[Understanding Generalization and Forgetting in In-Context Continual Learning](../conferences/icml-2026/cards/2401-2500.md#paper-li26ag)
 <!-- classification:end -->

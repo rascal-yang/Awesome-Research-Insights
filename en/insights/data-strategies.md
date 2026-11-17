@@ -43,6 +43,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](../../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · 中文
 - [From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](../../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · 中文
 - [Toward Cybersecurity-Expert Small Language Models](../../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · 中文
+- [Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -113,6 +114,8 @@ Data selection, annotation, augmentation, and sampling.
 - [TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution](../../conferences/icml-2026/cards/1901-2000.md#jiang26p-data-strategies) · 中文
 - [IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency](../../conferences/icml-2026/cards/2001-2100.md#ke26e-data-strategies) · 中文
 - [Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain](../../conferences/icml-2026/cards/2301-2400.md#lee26m-data-strategies) · 中文
+- [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](../../conferences/icml-2026/cards/2401-2500.md#li26y-data-strategies) · 中文
+- [Training Data Efficiency in Multimodal Process Reward Models](../../conferences/icml-2026/cards/2401-2500.md#li26bm-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

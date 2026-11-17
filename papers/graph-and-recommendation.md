@@ -78,6 +78,7 @@
 - <a id="bisht26a-reinforcement-learning"></a>[CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](../conferences/icml-2026/cards/0201-0300.md#paper-bisht26a)
 - <a id="hou26g-reinforcement-learning"></a>[ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](../conferences/icml-2026/cards/1601-1700.md#paper-hou26g)
 - <a id="kiyohara26a-reinforcement-learning"></a>[Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking](../conferences/icml-2026/cards/2101-2200.md#paper-kiyohara26a)
+- <a id="li26w-reinforcement-learning"></a>[Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System](../conferences/icml-2026/cards/2401-2500.md#paper-li26w)
 
 <a id="by-training-strategies"></a>
 

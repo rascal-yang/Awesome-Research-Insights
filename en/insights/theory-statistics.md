@@ -42,6 +42,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics](../../conferences/icml-2026/cards/2201-2300.md#koubbi26a-theory-statistics) · 中文
 - [Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models](../../conferences/icml-2026/cards/2301-2400.md#lee26be-theory-statistics) · 中文
 - [How to Correctly Report LLM-as-a-Judge Evaluations](../../conferences/icml-2026/cards/2301-2400.md#lee26bl-theory-statistics) · 中文
+- [Understanding Generalization and Forgetting in In-Context Continual Learning](../../conferences/icml-2026/cards/2401-2500.md#li26ag-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -384,6 +385,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery](../../conferences/icml-2026/cards/2301-2400.md#lee26bn-theory-statistics) · 中文
 - [Stability beyond Bounded Differences: Sharp Generalization Bounds under Finite $L_p$ Moments](../../conferences/icml-2026/cards/2301-2400.md#lei26a-theory-statistics) · 中文
 - [A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks](../../conferences/icml-2026/cards/2301-2400.md#lei26f-theory-statistics) · 中文
+- [Dimension-free convergence of diffusion models for approximate Gaussian mixtures](../../conferences/icml-2026/cards/2301-2400.md#li26e-theory-statistics) · 中文
+- [Convergence Rate Analysis of the AdamW-Style Shampoo: Unifying One-Sided and Two-Sided Preconditioning](../../conferences/icml-2026/cards/2401-2500.md#li26ai-theory-statistics) · 中文
+- [Selling Data as a Digital Good with Scaling Valuations](../../conferences/icml-2026/cards/2401-2500.md#li26aw-theory-statistics) · 中文
+- [Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift](../../conferences/icml-2026/cards/2401-2500.md#li26bd-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
