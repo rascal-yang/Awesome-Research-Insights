@@ -34,7 +34,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26x) | [Read insight (中文)](../../papers/robotics.md#feng26x-modules) |
-| [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | [Read insight (中文)](../../papers/robotics.md#fu26x-modules) |
+| [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26x) | [Read insight (中文)](../../papers/robotics.md#fu26x-modules) |
 | [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) | [Read insight (中文)](../../papers/robotics.md#gyenes26a-modules) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-modules) · [Full entry](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
@@ -91,7 +91,7 @@ The linked short insights are available in Chinese.
 | [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26cy) | [Read insight (中文)](../../papers/robotics.md#chen26cy-data-strategies) |
 | [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26i) | [Read insight (中文)](../../papers/robotics.md#choi26i-data-strategies) |
 | [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26b) | [Read insight (中文)](../../papers/robotics.md#fan26b-data-strategies) |
-| [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) | [Read insight (中文)](../../papers/robotics.md#gao26q-data-strategies) |
+| [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26q) | [Read insight (中文)](../../papers/robotics.md#gao26q-data-strategies) |
 | [LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) | [Read insight (中文)](../../papers/robotics.md#guan26f-data-strategies) |
 
 <a id="by-inference"></a>
@@ -133,7 +133,7 @@ The linked short insights are available in Chinese.
 | [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dai26c) | [Read insight (中文)](../../papers/robotics.md#dai26c-evaluation) |
 | [Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26r) | [Read insight (中文)](../../papers/robotics.md#deng26r-evaluation) |
 | [Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab) | [Read insight (中文)](../../papers/robotics.md#feng26ab-evaluation) |
-| [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) | [Read insight (中文)](../../papers/robotics.md#fu26u-evaluation) |
+| [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26u) | [Read insight (中文)](../../papers/robotics.md#fu26u-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

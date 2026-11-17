@@ -34,7 +34,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-feng26x) | 视觉动作策略的连续网格采样 | 由任务条件预测少量连续采样坐标，并对各坐标周围四个视觉特征做双线性插值。可微采样允许动作监督调整坐标，也能保留位于图块边界的抓取线索。 |
-| <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | 视觉动作模型的通道相关门控 | 将视觉投影特征分成多个通道子空间，沿空间词元计算通道相关性，再经 sigmoid 门控筛选信息。用这一轻量适配器增强稳健的视觉语义，在论文扰动测试中提升操作策略的鲁棒性。 |
+| <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-fu26x) | 视觉动作模型的通道相关门控 | 将视觉投影特征分成多个通道子空间，沿空间词元计算通道相关性，再经 sigmoid 门控筛选信息。用这一轻量适配器增强稳健的视觉语义，在论文扰动测试中提升操作策略的鲁棒性。 |
 | <a id="gyenes26a-modules"></a>[Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) | 精密操作的点云傅里叶编码 | 在点云送入策略编码器前，对每个笛卡尔坐标独立计算多波长正余弦特征。高频分量为模仿学习提供更直接的细微几何差异，便于区分插入与重新对位等动作。 |
 | <a id="reconvla-modules"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) · [论文卡](reconvla.md#paper-reconvla) | 指令前缀 | 把指令 token 放在图像 token 前，使视觉隐藏状态通过因果注意力读取任务信息。 [详细解读](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
@@ -91,7 +91,7 @@
 | <a id="chen26cy-data-strategies"></a>[Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) · [论文卡](../conferences/icml-2026/cards/0501-0600.md#paper-chen26cy) | 固定预算下的机器人示范分配 | 先在少数核心条件重复采集示范以稳定策略，再按教师强制下的动作偏差找出高风险边界，补采示范并用受约束的残差更新扩展覆盖。真机实验中，同等预算下的成功率优于分散采样。 |
 | <a id="choi26i-data-strategies"></a>[EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) · [论文卡](../conferences/icml-2026/cards/0701-0800.md#paper-choi26i) | 具身动作风险的组合数据构造 | 为同类场景组合不同危险配置与动作，包括在危险仍存在时改用不会触发它的动作。将图像和动作配对并标注风险，使监督信号针对特定交互的后果，也覆盖容易引发误报的安全动作。 |
 | <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) · [论文卡](../conferences/icml-2026/cards/1001-1100.md#paper-fan26b) | 跨来源点云的 VLA 训练 | 在统一训练流程中混合仿真、深度传感器和模型估计的点云，并以形状和尺度变化扩展输入。将学到的三维表征与对应的二维特征融合，可减轻部署时深度来源和尺度差异对操作策略的影响。 |
-| <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) | 人类视频的潜动作监督 | 将相邻视频帧之间的变化通过信息瓶颈编码成连续潜动作，作为未标注人类视频的控制信号预训练机器人世界模型，再以目标机器人真动作做适配。 |
+| <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26q) | 人类视频的潜动作监督 | 将相邻视频帧之间的变化通过信息瓶颈编码成连续潜动作，作为未标注人类视频的控制信号预训练机器人世界模型，再以目标机器人真动作做适配。 |
 | <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) | 人形运动跟踪的可行性与难度选样 | 先过滤违反物理约束的轨迹，再用运动嵌入的最近距离和关节速度、加速度衡量多样性与动态难度。每次优先补充覆盖不足且复杂的动作，在论文的 AMASS 实验中，约 3% 的样本已能超过全量训练的跟踪基线。 |
 
 <a id="by-inference"></a>
@@ -133,7 +133,7 @@
 | <a id="dai26c-evaluation"></a>[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) · [论文卡](../conferences/icml-2026/cards/0801-0900.md#paper-dai26c) | 长程操作记忆的分项评测 | 用动作计数、遮挡后定位、跨时刻身份指代和动作模仿分别考查时间、空间、物体与程序记忆，再在同一 VLA 主干上比较记忆形式和接入方式。实验显示记忆机制的收益随任务类型变化。 |
 | <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) · [论文卡](../conferences/icml-2026/cards/0801-0900.md#paper-deng26r) | 机器人生成视频的物理与任务评测 | 将均匀抽样的视频帧组成时间网格，以问答清单分别检查物体穿透、未接触搬运等物理失真和关键动作是否按顺序完成。由此能定位画面流畅但动作不符合任务要求的机器人视频。 |
 | <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab) | 动作块增量的基准姿态 | 在模仿学习的动作块中，让未来各步都相对块起点表示增量，可避免逐步累加预测误差。论文的真机对照中，这种表示比相对前一步的增量更稳定。 |
-| <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) | 机器人代码策略的分层脚手架评测 | 将任务按控制接口的抽象层级、感知来源和是否提供示例分层，逐步撤去高层操作原语与示例。结合多轮执行反馈的对照，可区分能力下降来自感知误差、接口组合还是长程控制。 |
+| <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-fu26u) | 机器人代码策略的分层脚手架评测 | 将任务按控制接口的抽象层级、感知来源和是否提供示例分层，逐步撤去高层操作原语与示例。结合多轮执行反馈的对照，可区分能力下降来自感知误差、接口组合还是长程控制。 |
 
 <a id="by-theory-statistics"></a>
 

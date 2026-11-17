@@ -21,8 +21,8 @@ The linked short insights are available in Chinese.
 | [Graph Neural Dynamics via Learned Energy and Tangential Flows](https://proceedings.mlr.press/v306/eliasof26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-eliasof26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#eliasof26a-architecture) |
 | [MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/fang26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26g) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fang26g-architecture) |
 | [L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](https://proceedings.mlr.press/v306/fernandez26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fernandez26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fernandez26a-architecture) |
-| [Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](https://proceedings.mlr.press/v306/gailhard26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gailhard26a-architecture) |
-| [SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](https://proceedings.mlr.press/v306/gantes26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gantes26a-architecture) |
+| [Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](https://proceedings.mlr.press/v306/gailhard26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-gailhard26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gailhard26a-architecture) |
+| [SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](https://proceedings.mlr.press/v306/gantes26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gantes26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gantes26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -102,7 +102,7 @@ The linked short insights are available in Chinese.
 | [PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ai26c) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ai26c-inference) |
 | [CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bisht26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26b-inference) |
 | [On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fomina26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fomina26a-inference) |
-| [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26t-inference) |
+| [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26t) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26t-inference) |
 | [GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](https://proceedings.mlr.press/v306/guo26t.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26t-inference) |
 | [X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](https://proceedings.mlr.press/v306/guo26ac.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26ac-inference) |
 
