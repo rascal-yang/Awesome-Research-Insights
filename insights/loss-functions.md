@@ -51,6 +51,7 @@
 - [属性熵减少的澄清提问奖励](../conferences/icml-2026/cards/4201-4300.md#sun26i-loss-functions) · Closing the Expression Gap in LLM Instructions via Socratic Questioning
 - [按成败分组的熵重分配](../conferences/icml-2026/cards/4301-4400.md#tan26e-loss-functions) · GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy
 - [reference-regularized-self-play](../conferences/icml-2026/cards/4301-4400.md#tang26ab-loss-functions) · RSPO: Regularized Self-Play Alignment of Large Language Models
+- [base-anchored-latent-blocking](../conferences/icml-2026/cards/4501-4600.md#ustaomeroglu26a-loss-functions) · BLOCK-EM: Preventing Emergent Misalignment via Latent Blocking
 
 <a id="by-computer-vision"></a>
 

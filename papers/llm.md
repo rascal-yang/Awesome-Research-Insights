@@ -151,6 +151,7 @@
 - <a id="sun26i-loss-functions"></a>[Closing the Expression Gap in LLM Instructions via Socratic Questioning](../conferences/icml-2026/cards/4201-4300.md#paper-sun26i)
 - <a id="tan26e-loss-functions"></a>[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](../conferences/icml-2026/cards/4301-4400.md#paper-tan26e)
 - <a id="tang26ab-loss-functions"></a>[RSPO: Regularized Self-Play Alignment of Large Language Models](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ab)
+- <a id="ustaomeroglu26a-loss-functions"></a>[BLOCK-EM: Preventing Emergent Misalignment via Latent Blocking](../conferences/icml-2026/cards/4501-4600.md#paper-ustaomeroglu26a)
 
 <a id="by-optimization"></a>
 
@@ -530,6 +531,7 @@
 - <a id="sweeney26a-training-strategies"></a>[The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order](../conferences/icml-2026/cards/4301-4400.md#paper-sweeney26a)
 - <a id="tiwari26a-training-strategies"></a>[Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning](../conferences/icml-2026/cards/4401-4500.md#paper-tiwari26a)
 - <a id="tong26n-training-strategies"></a>[ProactiveLLM: Learning Active Interaction for Streaming Large Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tong26n)
+- <a id="ullah26a-training-strategies"></a>[Efficient DP-SGD for LLMs with Randomized Clipping](../conferences/icml-2026/cards/4501-4600.md#paper-ullah26a)
 
 <a id="by-data-strategies"></a>
 
@@ -601,6 +603,7 @@
 - <a id="tang26aa-data-strategies"></a>[CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling](../conferences/icml-2026/cards/4301-4400.md#paper-tang26aa)
 - <a id="tian26e-data-strategies"></a>[AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](../conferences/icml-2026/cards/4401-4500.md#paper-tian26e)
 - <a id="tice26a-data-strategies"></a>[Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment](../conferences/icml-2026/cards/4401-4500.md#paper-tice26a)
+- <a id="uzunoglu26a-data-strategies"></a>[Trust Functions: Near-Lossless Weak-to-Strong Generalization by Learning When to Trust the Weak Teacher](../conferences/icml-2026/cards/4501-4600.md#paper-uzunoglu26a)
 
 <a id="by-inference"></a>
 

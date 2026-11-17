@@ -78,6 +78,7 @@
 - [用补丁后验解释卷积逆问题求解器](../conferences/icml-2026/cards/3401-3500.md#nguyen26c-theory-statistics) · An analytic theory of convolutional neural network inverse problems solvers
 - [沿扩散时间分辨语义互信息和低层细节熵](../conferences/icml-2026/cards/3601-3700.md#premkumar26a-theory-statistics) · On the Separability of Information in Diffusion Models
 - [简单对比增广的频谱捷径](../conferences/icml-2026/cards/4401-4500.md#torralba26a-theory-statistics) · A Theory of Contrastive Learning with Natural Images
+- [conditional-compositional-geometry](../conferences/icml-2026/cards/4501-4600.md#uselis26a-theory-statistics) · Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models
 
 <a id="by-nlp"></a>
 
@@ -558,6 +559,8 @@
 - [error-feedback-heterogeneity-boundary](../conferences/icml-2026/cards/4401-4500.md#thomsen26a-theory-statistics) · A Tight Theory of Error Feedback Algorithms in Distributed Optimization
 - [少查询双样本检验的参考端学习](../conferences/icml-2026/cards/4401-4500.md#tian26n-theory-statistics) · LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry
 - [现代模块守恒量诊断边界](../conferences/icml-2026/cards/4401-4500.md#tran26c-theory-statistics) · Conservation Laws for Modern Neural Architectures
+- [perceptron-view-of-reparameterization](../conferences/icml-2026/cards/4501-4600.md#tyurin26a-theory-statistics) · Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration
+- [last-iterate-prox-with-local-variance](../conferences/icml-2026/cards/4501-4600.md#vaidyan26a-theory-statistics) · Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms
 
 <a id="by-graph-and-recommendation"></a>
 

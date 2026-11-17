@@ -207,6 +207,7 @@
 - [用观察值调节显式状态时长](../conferences/icml-2026/cards/4101-4200.md#slupinski26a-modules) · RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models
 - [硬稀疏可微真值表](../conferences/icml-2026/cards/4101-4200.md#soegeng26a-modules) · TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables
 - [gaussian-associative-memory](../conferences/icml-2026/cards/4401-4500.md#tankala26a-modules) · Dense associative memory for Gaussian distributions
+- [group-shared-sparse-output](../conferences/icml-2026/cards/4501-4600.md#ullah26b-modules) · HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces
 
 <a id="by-graph-and-recommendation"></a>
 

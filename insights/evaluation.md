@@ -382,6 +382,7 @@
 - [在线自适应时间效用](../conferences/icml-2026/cards/4201-4300.md#sreeram26a-evaluation) · Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation
 - [audit-low-level-shortcuts](../conferences/icml-2026/cards/4301-4400.md#svatko26a-evaluation) · Deep Learning for BioImaging: What Are We Really Learning?
 - [基于定律的视频动力学评测](../conferences/icml-2026/cards/4401-4500.md#tragoudaras26a-evaluation) · Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems
+- [rarity-times-semantic-distinctiveness](../conferences/icml-2026/cards/4501-4600.md#vadakkeeveetil-sreelatha26a-evaluation) · RAIGen: Rare Attribute Identification in Text-to-Image Generative Models
 
 <a id="by-nlp"></a>
 
@@ -521,6 +522,7 @@
 - [知识轻视觉推理与计算收益](../conferences/icml-2026/cards/4201-4300.md#song26s-evaluation) · VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge
 - [privacy-perception-reasoning-audit](../conferences/icml-2026/cards/4201-4300.md#sun26t-evaluation) · MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models
 - [bidirectionality-late-interaction-synergy](../conferences/icml-2026/cards/4401-4500.md#teiletche26a-evaluation) · ModernVBERT: Towards Smaller Visual Document Retrievers
+- [binding-vs-unimodal-recoverability](../conferences/icml-2026/cards/4501-4600.md#uselis26b-evaluation) · How can embedding models bind concepts?
 
 <a id="by-ml-foundations"></a>
 
@@ -627,4 +629,5 @@
 - [把大脑信号对齐和语言技能分开测量](../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models
 - [用概念重组测试分布外时序解释](../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models
 - [从工具依赖图合成带修复轨迹](../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents
+- [rate-whitened-observable-alignment](../conferences/icml-2026/cards/4501-4600.md#ugalde26a-evaluation) · A Geometric Lens on Physics-Aligned Data Compression
 <!-- classification:end -->

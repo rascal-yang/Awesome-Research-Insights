@@ -382,6 +382,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation](../../conferences/icml-2026/cards/4201-4300.md#sreeram26a-evaluation) · 中文
 - [Deep Learning for BioImaging: What Are We Really Learning?](../../conferences/icml-2026/cards/4301-4400.md#svatko26a-evaluation) · 中文
 - [Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](../../conferences/icml-2026/cards/4401-4500.md#tragoudaras26a-evaluation) · 中文
+- [RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](../../conferences/icml-2026/cards/4501-4600.md#vadakkeeveetil-sreelatha26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -521,6 +522,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge](../../conferences/icml-2026/cards/4201-4300.md#song26s-evaluation) · 中文
 - [MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26t-evaluation) · 中文
 - [ModernVBERT: Towards Smaller Visual Document Retrievers](../../conferences/icml-2026/cards/4401-4500.md#teiletche26a-evaluation) · 中文
+- [How can embedding models bind concepts?](../../conferences/icml-2026/cards/4501-4600.md#uselis26b-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -627,4 +629,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models](../../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · 中文
 - [TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · 中文
 - [SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · 中文
+- [A Geometric Lens on Physics-Aligned Data Compression](../../conferences/icml-2026/cards/4501-4600.md#ugalde26a-evaluation) · 中文
 <!-- classification:end -->

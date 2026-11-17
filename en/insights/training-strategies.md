@@ -136,6 +136,7 @@ Training schedules, curricula, and task or stage composition.
 - [The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order](../../conferences/icml-2026/cards/4301-4400.md#sweeney26a-training-strategies) · 中文
 - [Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning](../../conferences/icml-2026/cards/4401-4500.md#tiwari26a-training-strategies) · 中文
 - [ProactiveLLM: Learning Active Interaction for Streaming Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tong26n-training-strategies) · 中文
+- [Efficient DP-SGD for LLMs with Randomized Clipping](../../conferences/icml-2026/cards/4501-4600.md#ullah26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

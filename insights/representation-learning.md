@@ -245,6 +245,8 @@
 - [双重重建防止不变潜变量失效](../conferences/icml-2026/cards/4101-4200.md#slavutsky26a-representation-learning) · Variational Learning of Disentangled Representations
 - [短时域脉冲编码预算](../conferences/icml-2026/cards/4201-4300.md#sun26k-representation-learning) · Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding
 - [hierarchical-spectral-recovery](../conferences/icml-2026/cards/4301-4400.md#tabanelli26a-representation-learning) · Deep Learning of Compositional Targets with Hierarchical Spectral Methods
+- [soft-intervention-cyclic-discovery](../conferences/icml-2026/cards/4501-4600.md#turkoglu26a-representation-learning) · SCOUT: Cyclic Causal Discovery Under Soft Interventions with Unknown Targets
+- [spectral-causal-features](../conferences/icml-2026/cards/4501-4600.md#tusoni26a-representation-learning) · Robust Causal Discovery in Real-World Time Series with Power-Laws
 
 <a id="by-graph-and-recommendation"></a>
 

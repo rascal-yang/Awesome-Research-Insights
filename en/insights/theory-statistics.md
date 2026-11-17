@@ -78,6 +78,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [An analytic theory of convolutional neural network inverse problems solvers](../../conferences/icml-2026/cards/3401-3500.md#nguyen26c-theory-statistics) · 中文
 - [On the Separability of Information in Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#premkumar26a-theory-statistics) · 中文
 - [A Theory of Contrastive Learning with Natural Images](../../conferences/icml-2026/cards/4401-4500.md#torralba26a-theory-statistics) · 中文
+- [Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models](../../conferences/icml-2026/cards/4501-4600.md#uselis26a-theory-statistics) · 中文
 
 <a id="by-nlp"></a>
 
@@ -558,6 +559,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Tight Theory of Error Feedback Algorithms in Distributed Optimization](../../conferences/icml-2026/cards/4401-4500.md#thomsen26a-theory-statistics) · 中文
 - [LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry](../../conferences/icml-2026/cards/4401-4500.md#tian26n-theory-statistics) · 中文
 - [Conservation Laws for Modern Neural Architectures](../../conferences/icml-2026/cards/4401-4500.md#tran26c-theory-statistics) · 中文
+- [Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration](../../conferences/icml-2026/cards/4501-4600.md#tyurin26a-theory-statistics) · 中文
+- [Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms](../../conferences/icml-2026/cards/4501-4600.md#vaidyan26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

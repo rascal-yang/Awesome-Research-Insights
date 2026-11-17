@@ -175,6 +175,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ren26f-reinforcement-learning"></a>[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26f)
 - <a id="shen26u-reinforcement-learning"></a>[OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26u)
 - <a id="sun26am-reinforcement-learning"></a>[ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26am)
+- <a id="uscidda26a-reinforcement-learning"></a>[The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning](../../conferences/icml-2026/cards/4501-4600.md#paper-uscidda26a)
 
 <a id="by-training-strategies"></a>
 
@@ -480,6 +481,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="song26s-evaluation"></a>[VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge](../../conferences/icml-2026/cards/4201-4300.md#paper-song26s)
 - <a id="sun26t-evaluation"></a>[MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26t)
 - <a id="teiletche26a-evaluation"></a>[ModernVBERT: Towards Smaller Visual Document Retrievers](../../conferences/icml-2026/cards/4401-4500.md#paper-teiletche26a)
+- <a id="uselis26b-evaluation"></a>[How can embedding models bind concepts?](../../conferences/icml-2026/cards/4501-4600.md#paper-uselis26b)
 
 <a id="by-theory-statistics"></a>
 

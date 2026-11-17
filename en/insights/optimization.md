@@ -403,6 +403,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Connecting Independently Trained Modes via Layer-Wise Connectivity](../../conferences/icml-2026/cards/4401-4500.md#tian26a-optimization) · 中文
 - [Joint Model and Data Sparsification via the Marginal Likelihood](../../conferences/icml-2026/cards/4401-4500.md#timans26a-optimization) · 中文
 - [Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity](../../conferences/icml-2026/cards/4401-4500.md#tran26d-optimization) · 中文
+- [Near-Optimal Convergence of Accelerated Gradient Methods under Generalized and $(L_0,L_1)$-Smoothness](../../conferences/icml-2026/cards/4501-4600.md#tyurin26b-optimization) · 中文
+- [DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces](../../conferences/icml-2026/cards/4501-4600.md#valentin26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

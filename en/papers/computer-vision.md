@@ -522,6 +522,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="sreeram26a-evaluation"></a>[Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation](../../conferences/icml-2026/cards/4201-4300.md#paper-sreeram26a)
 - <a id="svatko26a-evaluation"></a>[Deep Learning for BioImaging: What Are We Really Learning?](../../conferences/icml-2026/cards/4301-4400.md#paper-svatko26a)
 - <a id="tragoudaras26a-evaluation"></a>[Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](../../conferences/icml-2026/cards/4401-4500.md#paper-tragoudaras26a)
+- <a id="vadakkeeveetil-sreelatha26a-evaluation"></a>[RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](../../conferences/icml-2026/cards/4501-4600.md#paper-vadakkeeveetil-sreelatha26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -533,4 +534,5 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="nguyen26c-theory-statistics"></a>[An analytic theory of convolutional neural network inverse problems solvers](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26c)
 - <a id="premkumar26a-theory-statistics"></a>[On the Separability of Information in Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#paper-premkumar26a)
 - <a id="torralba26a-theory-statistics"></a>[A Theory of Contrastive Learning with Natural Images](../../conferences/icml-2026/cards/4401-4500.md#paper-torralba26a)
+- <a id="uselis26a-theory-statistics"></a>[Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models](../../conferences/icml-2026/cards/4501-4600.md#paper-uselis26a)
 <!-- classification:end -->

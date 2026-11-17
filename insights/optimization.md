@@ -403,6 +403,8 @@
 - [layerwise-variance-preserving-connectivity](../conferences/icml-2026/cards/4401-4500.md#tian26a-optimization) · Connecting Independently Trained Modes via Layer-Wise Connectivity
 - [特征与样本双侧ARD](../conferences/icml-2026/cards/4401-4500.md#timans26a-optimization) · Joint Model and Data Sparsification via the Marginal Likelihood
 - [位置编码约束的权重匹配](../conferences/icml-2026/cards/4401-4500.md#tran26d-optimization) · Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity
+- [accelerate-after-local-smoothness-entry](../conferences/icml-2026/cards/4501-4600.md#tyurin26b-optimization) · Near-Optimal Convergence of Accelerated Gradient Methods under Generalized and $(L_0,L_1)$-Smoothness
+- [double-batch-dictionary-learning](../conferences/icml-2026/cards/4501-4600.md#valentin26a-optimization) · DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces
 
 <a id="by-graph-and-recommendation"></a>
 

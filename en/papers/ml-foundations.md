@@ -126,6 +126,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="slupinski26a-modules"></a>[RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models](../../conferences/icml-2026/cards/4101-4200.md#paper-slupinski26a)
 - <a id="soegeng26a-modules"></a>[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](../../conferences/icml-2026/cards/4101-4200.md#paper-soegeng26a)
 - <a id="tankala26a-modules"></a>[Dense associative memory for Gaussian distributions](../../conferences/icml-2026/cards/4401-4500.md#paper-tankala26a)
+- <a id="ullah26b-modules"></a>[HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces](../../conferences/icml-2026/cards/4501-4600.md#paper-ullah26b)
 
 <a id="by-loss-functions"></a>
 
@@ -409,6 +410,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="tian26a-optimization"></a>[Connecting Independently Trained Modes via Layer-Wise Connectivity](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26a)
 - <a id="timans26a-optimization"></a>[Joint Model and Data Sparsification via the Marginal Likelihood](../../conferences/icml-2026/cards/4401-4500.md#paper-timans26a)
 - <a id="tran26d-optimization"></a>[Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26d)
+- <a id="tyurin26b-optimization"></a>[Near-Optimal Convergence of Accelerated Gradient Methods under Generalized and $(L_0,L_1)$-Smoothness](../../conferences/icml-2026/cards/4501-4600.md#paper-tyurin26b)
+- <a id="valentin26a-optimization"></a>[DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces](../../conferences/icml-2026/cards/4501-4600.md#paper-valentin26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -634,6 +637,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="slavutsky26a-representation-learning"></a>[Variational Learning of Disentangled Representations](../../conferences/icml-2026/cards/4101-4200.md#paper-slavutsky26a)
 - <a id="sun26k-representation-learning"></a>[Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26k)
 - <a id="tabanelli26a-representation-learning"></a>[Deep Learning of Compositional Targets with Hierarchical Spectral Methods](../../conferences/icml-2026/cards/4301-4400.md#paper-tabanelli26a)
+- <a id="turkoglu26a-representation-learning"></a>[SCOUT: Cyclic Causal Discovery Under Soft Interventions with Unknown Targets](../../conferences/icml-2026/cards/4501-4600.md#paper-turkoglu26a)
+- <a id="tusoni26a-representation-learning"></a>[Robust Causal Discovery in Real-World Time Series with Power-Laws](../../conferences/icml-2026/cards/4501-4600.md#paper-tusoni26a)
 
 <a id="by-evaluation"></a>
 
@@ -1067,4 +1072,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="thomsen26a-theory-statistics"></a>[A Tight Theory of Error Feedback Algorithms in Distributed Optimization](../../conferences/icml-2026/cards/4401-4500.md#paper-thomsen26a)
 - <a id="tian26n-theory-statistics"></a>[LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26n)
 - <a id="tran26c-theory-statistics"></a>[Conservation Laws for Modern Neural Architectures](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26c)
+- <a id="tyurin26a-theory-statistics"></a>[Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration](../../conferences/icml-2026/cards/4501-4600.md#paper-tyurin26a)
+- <a id="vaidyan26a-theory-statistics"></a>[Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms](../../conferences/icml-2026/cards/4501-4600.md#paper-vaidyan26a)
 <!-- classification:end -->

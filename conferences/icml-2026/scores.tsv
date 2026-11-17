@@ -4510,26 +4510,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4509	turan26a	4	4	3	4	76		新增量：深图网络可联合平滑奇激活与谱临界初始化避免零状态吸引；结构模式还需谱滤波选择，不能把非零均衡当作无过平滑保证。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 4,5,7,8,9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turan26a/turan26a.pdf	scored
 4510	turan26b	4	4	3	4	76		新增量：将prover的证据选择移到概念编码，并让非线性verifier只读所选概念，可在复杂视觉输入中兼顾证据约束与组合判别。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,5,6,7,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turan26b/turan26b.pdf	scored
 4511	turan26c	4	4	3	4	76		新增量：蒸馏流模型时用教师边际速度约束提升空间的微分动力学，不能直接以条件速度替代，否则多出依赖编码器的方差项。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,5,7,8,9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turan26c/turan26c.pdf	scored
-4512	turbal26a							待原文复核评分	pending
-4513	turkoglu26a							待原文复核评分	pending
-4514	turkoglu26b							待原文复核评分	pending
-4515	tusoni26a							待原文复核评分	pending
-4516	tyurin26a							待原文复核评分	pending
-4517	tyurin26b							待原文复核评分	pending
-4518	ugalde26a							待原文复核评分	pending
-4519	ullah26a							待原文复核评分	pending
-4520	ullah26b							待原文复核评分	pending
-4521	ursekar26a							待原文复核评分	pending
-4522	uscidda26a							待原文复核评分	pending
-4523	uselis26a							待原文复核评分	pending
-4524	uselis26b							待原文复核评分	pending
-4525	ustaomeroglu26a							待原文复核评分	pending
-4526	uzunoglu26a							待原文复核评分	pending
-4527	vadakkeeveetil-sreelatha26a							待原文复核评分	pending
-4528	vahedifar26a							待原文复核评分	pending
-4529	vaidyan26a							待原文复核评分	pending
-4530	valdrighi26a							待原文复核评分	pending
-4531	valentin26a							待原文复核评分	pending
+4512	turbal26a							p3–6、8–9：可评分clean draft与保留partial状态分离是明确候选，但本作用已有生成补全/rollout式前瞻接入坐标搜索，独立验证只比较有无补全的该任务管线，未建立超出前瞻评分原则的新决策条件或跨结构搜索证据；流畅候选使PPL防御失效已有AutoDAN等先例（原文p2–3相关工作），故不以过滤后成功率或语义质量双指标重复收录。排除基于独立增量不足，非攻击领域名称。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turbal26a/turbal26a.pdf	rule-excluded
+4513	turkoglu26a	3	3	2	3	56		新增量/复用/可用性/独特性=3/3/2/3；将收缩残差SEM与逐变量样条噪声流结合，在软干预下联合学习图及未知干预掩码；可用于非高斯循环因果建模，但需整体混合机制仍可逆。 边界：要求独立外生噪声、无隐混杂、无自环和唯一平衡；两个机制分别收缩不自动保证按行混合收缩。p5的T=0表示干预与惩罚||T||1鼓励稀疏干预的说明符号相反，复现需核代码；不宣称任意循环可识别。（PDF第3,4,5,6,7页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turkoglu26a/turkoglu26a.pdf	scored
+4514	turkoglu26b							p3–7：冻结奇异向量仅学奇异值已由SVF/SVFit提出；本作复制M份奇异值、bias与head并用普通扰动/CE训练。参数节省和校准表格验证ensemble应用，但未分离出超出既有谱微调与集成的独立新操作或可控适用边界；不因UQ性能好保留。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turkoglu26b/turkoglu26b.pdf	rule-excluded
+4515	tusoni26a	3	3	3	3	60		新增量/复用/可用性/独特性=3/3/3/3；先检查局部功率谱是否有动态幂律结构，再把滑窗谱的截距和斜率送入Granger检验；可削弱乘性噪声影响，但缓变谱和短序列应优先考虑时域方法。 边界：谱摘要丢失相位；保图定理额外要求因果依赖可由幅度谱动态识别、局部平稳、线性与有效VAR推断，不能泛化任意过程；主实验未作FDR，逐边p值非全图误报控制；短序列及缓变谱失败。（PDF第4,7,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tusoni26a/tusoni26a.pdf	scored
+4516	tyurin26a	4	4	3	4	76		新增量/复用/可用性/独特性=4/4/3/4；同一线性预测函数的双线性卷积参数化能改变GD迭代复杂度；在大范数logistic极限用广义感知机分析步长，而非从无界Hessian直接断言必须缩小步长。 边界：不是所有网络加速定理：归约需大范数极限、非退化初始方向和步长界；两样本上界使用特定更新顺序、微小高斯扰动及μ≤0.1；定理4.2给出不移动子空间，不能保证任意初始化收敛。（PDF第2,3,4,5页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tyurin26a/tyurin26a.pdf	scored
+4517	tyurin26b	4	4	3	4	76		新增量/复用/可用性/独特性=4/4/3/4；对凸广义光滑目标，可先进入低梯度区域再加速，使精度项由ℓ(0)而非初始梯度控制；必须计入进入区域的加性代价，不能称全程与L1无关。 边界：需要凸性、光滑包络条件和参数/域信息；k(δ)含热启动代价且不消失；Algorithm1停止条件涉及未知最优值，实践需可验证界或适应版本；不保证非凸LLM训练加速。（PDF第3,4,5,6页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tyurin26b/tyurin26b.pdf	scored
+4518	ugalde26a	4	4	3	4	76		新增量/复用/可用性/独特性=4/4/3/4；设计任务感知压缩损失前，比较经码率曲率白化的观测量与重建敏感子空间重叠；低重叠提示固定码率下的目标竞争，高重叠也不排除特征值分配冲突。 边界：局部小扰动代理而非全球率失真定理；要求正定码率几何与适当局部近似；未显式建模系统重建偏置；非对易是所述条件下的充分冲突诊断，交换或高重叠不保证无权衡；并未提出强制对齐训练算法。（PDF第4,5,6,7,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/ugalde26a/ugalde26a.pdf	scored
+4519	ullah26a	4	4	3	4	76		新增量/复用/可用性/独特性=4/4/3/4；长上下文DP训练可通过层hook随机迹估计逐样本梯度范数，避免物化大Gram矩阵；随机低估会改变隐私损失，必须使用匹配的随机裁剪会计。 边界：随机范数不保证硬裁剪敏感度，不能直接套普通DP-SGD accountant；Hutch++分析有额外中间状态知晓假设；Alg2 Q应为p×k，d×k为维度笔误；大k收益可消失，层级节约不可冒充全模型峰值。（PDF第3,4,5,7,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/ullah26a/ullah26a.pdf	scored
+4520	ullah26b	4	4	4	4	80		新增量/复用/可用性/独特性=4/4/4/4；大输出层让语义相邻标签共享固定fan-in索引但保留独立权重，可把非结构稀疏转成可复用特征块；长尾任务再用小型dense高频头稳定编码器梯度。 边界：kernel最大提速非全训练提速；依赖分组质量、定制GPU实现和长尾标签分布；共享输入会限制标签独立表征，机器人动作空间迁移未验证。（PDF第3,4,5,6,7页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/ullah26b/ullah26b.pdf	scored
+4521	ursekar26a							p3–8：版本快照、预算评估、轨迹观测和coding-agent工具的harness整合；优化修改效果依任务/模型变化，基准只3轮且未控制评估随机性，TerminalBench以全数据训练并同集报告；未形成独立新优化机制或经隔离验证可迁移规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/ursekar26a/ursekar26a.pdf	rule-excluded
+4522	uscidda26a	4	5	4	4	86		新增量/复用/可用性/独特性=4/5/4/4；无空间问答标签时，用已知几何等变关系验证成对输出，并在两组采样间选最小一致性匹配分配GRPO奖励，避免随机配对掩盖不一致。 边界：一致不等于真实，依赖预训练已有能力与变换正确性；两个completion组提高采样成本；公开SSL基线未在同数据续训，不能当纯奖励消融；正文跨任务部分文字与图有不一致，保留明确均值且不外推数值任务保证。（PDF第3,4,5,6,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/uscidda26a/uscidda26a.pdf	scored
+4523	uselis26a	4	4	3	4	76		新增量/复用/可用性/独特性=4/4/3/4；评估组合泛化时，可在概念probe子空间白化后测加性分解与跨概念正交性；必要性只在二元网格、指定支持族及跨支持预测稳定的GD-logistic模型成立。 边界：Prop1的稳定性要求跨支持相同posterior，强于标签正确；仅二元网格及指定支持族，不是所有组合泛化的普适必要条件；经验10%支持协议不同于定理，相关性不证明正交正则必然提高泛化。（PDF第4,5,6,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/uselis26a/uselis26a.pdf	scored
+4524	uselis26b	4	4	4	4	80		新增量/复用/可用性/独特性=4/4/4/4；诊断概念绑定应拆分单模态probe可恢复性、跨模态余弦检索和未知对象组合泛化；加性对象表征存在不代表图文已共享可泛化绑定函数。 边界：高R²和probe成功不能证明跨模态余弦绑定或自然图像可控编辑；合成覆盖实验与大规模CLIP不同；绑定近似复杂度依赖所测MLP族，不能视为绝对计算复杂度下界。（PDF第3,4,5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/uselis26b/uselis26b.pdf	scored
+4525	ustaomeroglu26a	4	4	3	4	76		新增量/复用/可用性/独特性=4/4/3/4；为防窄域微调外溢到通用失配，可对经独立因果筛选的SAE特征施加相对base的有方向单侧放大惩罚；固定特征集可能在长训练中被绕开，需持续复核。 边界：需base、参考微调checkpoint和匹配SAE；域内任务为受控失配诱发环境不等同良性业务质量；p8延长训练失配重现，即使冻结下游层也可能发生，SAE重建稳定不足以证明特征语义完全不漂移。（PDF第3,4,5,6,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/ustaomeroglu26a/ustaomeroglu26a.pdf	scored
+4526	uzunoglu26a	3	4	4	3	70		新增量/复用/可用性/独特性=3/4/4/3；用有标签源域训练弱教师最终token隐藏态正确性分类器，再筛无标签目标池；相比直接confidence筛选，多域证据支持其价值，但不是全面无标注且GT增益恢复率不等于准确率。 边界：源域仍需可靠标签与教师内部访问；目标top-n改变难度/覆盖，不能把差异全归因去噪；近无损并非所有设置：OLMo13B策略NTF41.5%低于GT54.5%；recovery为相对base的GT增益归一化，可超100%。（PDF第2,3,4,5,6,7页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/uzunoglu26a/uzunoglu26a.pdf	scored
+4527	vadakkeeveetil-sreelatha26a	3	4	4	3	70		新增量/复用/可用性/独特性=3/4/4/3；发现生成分布稀有属性时，不能只排SAE低频激活：把归一化稀有度乘以CLIP语义偏离，再按语义去重，以抑制无意义罕见激活。 边界：label-free不等于无语义先验，依赖预训练CLIP；稀有性相对采样prompt池，非社会群体真实频率；低分既可常见也可无语义；MLLM注释和SAE拆分均可能影响解释，不把属性放大作为安全相关操作提取。（PDF第3,4,5,6,7页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vadakkeeveetil-sreelatha26a/vadakkeeveetil-sreelatha26a.pdf	scored
+4528	vahedifar26a							p3–7：直接用既有Neuron Shapley的MC、截断和bandit估计重要性再作既有重要神经元冻结；主要新增为持续学习应用与准确率，未核得新的估值或稳定塑性操作。普通MC无偏不适用于截断后估计，buffer-free不消除验证集/掩码成本；不以ImageNet跑分单独保留。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vahedifar26a/vahedifar26a.pdf	rule-excluded
+4529	vaidyan26a	4	4	4	3	77		新增量/复用/可用性/独特性=4/4/4/3；凸复合随机优化若每个平滑分量均凸且L光滑，可在仅最优点方差有限时采用固定预算步长并交付最后迭代；随机选正则prox还需各项Lipschitz及额外误差。 边界：仍有componentwise凸性/光滑与最优点有限方差，非任意重尾非凸训练；随机正则数m的平方项可能大；已知预算步长、最后迭代是期望界，不能称逐路径单调或高概率保证；未给神经网络实证。（PDF第2,4,5,6,7页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vaidyan26a/vaidyan26a.pdf	scored
+4530	valdrighi26a							p3–7：选择标签下把群体fairness分解为观测差异和标签预测误差，以IPW/Renyi约束拒绝群体的偏差；新结果紧依赖三类公平效用及接受/拒绝模型。给出经济群体指标优化，但未建立可直接改变相关深度学习表征、训练或具身决策技术选择的独立跨任务机制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/valdrighi26a/valdrighi26a.pdf	rule-excluded
+4531	valentin26a	3	4	4	3	70		新增量/复用/可用性/独特性=3/4/4/3；为判断SAE是否被线性编码器限制，可用内外双batch KSVD作非神经字典学习对照：外层限制样本、内层并行原子更新，并单独跟踪重建、语义probe和字典相干度。 边界：同时batch更新非原KSVD数学等价，原收敛保证不可直接继承；baseline巨量运行时间由小问题估计，非完整实测；相干度偏高且解释指标未全面超SAE；可用性取决于缓存Gram和CPU/GPU瓶颈。（PDF第3,4,5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/valentin26a/valentin26a.pdf	scored
 4532	valero-leal26a							待原文复核评分	pending
 4533	van-breugel26a							待原文复核评分	pending
 4534	van-den-bosch26a							待原文复核评分	pending

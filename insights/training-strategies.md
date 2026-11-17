@@ -136,6 +136,7 @@
 - [lie-bracket-curriculum](../conferences/icml-2026/cards/4301-4400.md#sweeney26a-training-strategies) · The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order
 - [选择性反向prompt更新](../conferences/icml-2026/cards/4401-4500.md#tiwari26a-training-strategies) · Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning
 - [单调部分上下文流式训练](../conferences/icml-2026/cards/4401-4500.md#tong26n-training-strategies) · ProactiveLLM: Learning Active Interaction for Streaming Large Language Models
+- [random-clipping-with-matched-accounting](../conferences/icml-2026/cards/4501-4600.md#ullah26a-training-strategies) · Efficient DP-SGD for LLMs with Randomized Clipping
 
 <a id="by-computer-vision"></a>
 

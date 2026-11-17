@@ -51,6 +51,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Closing the Expression Gap in LLM Instructions via Socratic Questioning](../../conferences/icml-2026/cards/4201-4300.md#sun26i-loss-functions) · 中文
 - [GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](../../conferences/icml-2026/cards/4301-4400.md#tan26e-loss-functions) · 中文
 - [RSPO: Regularized Self-Play Alignment of Large Language Models](../../conferences/icml-2026/cards/4301-4400.md#tang26ab-loss-functions) · 中文
+- [BLOCK-EM: Preventing Emergent Misalignment via Latent Blocking](../../conferences/icml-2026/cards/4501-4600.md#ustaomeroglu26a-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

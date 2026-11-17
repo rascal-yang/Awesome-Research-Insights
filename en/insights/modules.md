@@ -207,6 +207,7 @@ Reusable components and local changes to model inputs or connections.
 - [RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models](../../conferences/icml-2026/cards/4101-4200.md#slupinski26a-modules) · 中文
 - [TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](../../conferences/icml-2026/cards/4101-4200.md#soegeng26a-modules) · 中文
 - [Dense associative memory for Gaussian distributions](../../conferences/icml-2026/cards/4401-4500.md#tankala26a-modules) · 中文
+- [HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces](../../conferences/icml-2026/cards/4501-4600.md#ullah26b-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
