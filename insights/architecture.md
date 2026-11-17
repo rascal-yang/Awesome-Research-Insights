@@ -86,6 +86,7 @@
 
 - [连续控制动作表示](../conferences/icml-2026/cards/0201-0300.md#bian26a-architecture) · RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning
 - [以潜状态分布替代像素重构并允许替换约束先验](../conferences/icml-2026/cards/1701-1800.md#huang26ba-architecture) · VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models
+- [用输入门在固定参考路径和可学投影间插值](../conferences/icml-2026/cards/2101-2200.md#koeppe26a-architecture) · Mitigating Plasticity Loss through Architectural Design in Continual Learning
 
 <a id="by-robotics"></a>
 
@@ -116,6 +117,7 @@
 - [把语义提示留在视频编码侧](../conferences/icml-2026/cards/1601-1700.md#hu26u-architecture) · MoVie: Multimodal Video Compression with Text Guidance
 - [按文本词元和三维潜块的粒度拆分自回归分支](../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models
 - [把 GUI 历史动作和跨任务经验分层检索](../conferences/icml-2026/cards/1901-2000.md#jin26m-architecture) · SE-GA: Memory-Augmented Self-Evolution for GUI Agents
+- [让移动界面模型输出可渲染代码来预测下一屏](../conferences/icml-2026/cards/2101-2200.md#koh26a-architecture) · Generative Visual Code Mobile World Models
 
 <a id="by-ml-foundations"></a>
 
@@ -149,6 +151,7 @@
 - [让软斜树承担因果效应网络的特征路由](../conferences/icml-2026/cards/2001-2100.md#kano26a-architecture) · Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects
 - [先限定对称族再学习可解释生成元](../conferences/icml-2026/cards/2001-2100.md#karjol26a-architecture) · Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries
 - [把对齐后的权重矩阵当可变尺寸局部场](../conferences/icml-2026/cards/2101-2200.md#kim26ay-architecture) · NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces
+- [对一般线性共轭保留矩阵中心特征](../conferences/icml-2026/cards/2101-2200.md#kim26ca-architecture) · Equivariant Neural Networks for General Linear Symmetries on Lie Algebras
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -41,6 +41,7 @@
 - <a id="kano26a-architecture"></a>[Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects](../conferences/icml-2026/cards/2001-2100.md#paper-kano26a)
 - <a id="karjol26a-architecture"></a>[Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries](../conferences/icml-2026/cards/2001-2100.md#paper-karjol26a)
 - <a id="kim26ay-architecture"></a>[NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ay)
+- <a id="kim26ca-architecture"></a>[Equivariant Neural Networks for General Linear Symmetries on Lie Algebras](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ca)
 
 <a id="by-modules"></a>
 
@@ -242,6 +243,10 @@
 - <a id="kansal26a-optimization"></a>[Multimarginal flow matching with optimal transport potentials](../conferences/icml-2026/cards/2001-2100.md#paper-kansal26a)
 - <a id="karoni26a-optimization"></a>[Adaptive Momentum and Nonlinear Damping for Neural Network Training](../conferences/icml-2026/cards/2001-2100.md#paper-karoni26a)
 - <a id="kim26a-optimization"></a>[Align Forward, Adapt Backward: Closing the Discretization Gap in Logic Gate Networks](../conferences/icml-2026/cards/2001-2100.md#paper-kim26a)
+- <a id="ko26d-optimization"></a>[Riemannian Diffusion Models on General Manifolds via Physics-Informed Neural Networks](../conferences/icml-2026/cards/2101-2200.md#paper-ko26d)
+- <a id="kobalczyk26a-optimization"></a>[LILO: Bayesian Optimization with Natural Language Feedback](../conferences/icml-2026/cards/2101-2200.md#paper-kobalczyk26a)
+- <a id="koc26a-optimization"></a>[Incorporating Importance Weighting in Optimal Transport Based Domain Alignment](../conferences/icml-2026/cards/2101-2200.md#paper-koc26a)
+- <a id="kong26a-optimization"></a>[Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation](../conferences/icml-2026/cards/2101-2200.md#paper-kong26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -314,6 +319,7 @@
 - <a id="hu26ao-data-strategies"></a>[FedReLa: Imbalanced Federated Learning via Re-Labeling](../conferences/icml-2026/cards/1601-1700.md#paper-hu26ao)
 - <a id="huang26c-data-strategies"></a>[Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](../conferences/icml-2026/cards/1601-1700.md#paper-huang26c)
 - <a id="ji26b-data-strategies"></a>[ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning](../conferences/icml-2026/cards/1801-1900.md#paper-ji26b)
+- <a id="kobayashi26a-data-strategies"></a>[Learning-To-Measure: In-Context Active Feature Acquisition](../conferences/icml-2026/cards/2101-2200.md#paper-kobayashi26a)
 
 <a id="by-inference"></a>
 
@@ -369,6 +375,7 @@
 - <a id="jin26n-representation-learning"></a>[Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering](../conferences/icml-2026/cards/1901-2000.md#paper-jin26n)
 - <a id="jung26i-representation-learning"></a>[Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation](../conferences/icml-2026/cards/2001-2100.md#paper-jung26i)
 - <a id="kessler26a-representation-learning"></a>[Sinkhorn Normalization of Diffusion Kernels](../conferences/icml-2026/cards/2001-2100.md#paper-kessler26a)
+- <a id="kimura26a-representation-learning"></a>[Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals](../conferences/icml-2026/cards/2101-2200.md#paper-kimura26a)
 
 <a id="by-evaluation"></a>
 
@@ -642,4 +649,8 @@
 - <a id="kim26bb-theory-statistics"></a>[Multi-task Linear Regression without Eigenvalue Lower Bounds: Adaptivity, Robustness, and Safety](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bb)
 - <a id="kim26be-theory-statistics"></a>[Stability Analysis of Sharpness-Aware Minimization](../conferences/icml-2026/cards/2101-2200.md#paper-kim26be)
 - <a id="kim26bi-theory-statistics"></a>[Transfer Learning in High-dimensional Ising Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bi)
+- <a id="kim26bu-theory-statistics"></a>[Estimating Continuous Treatment Effects with Two-Stage Kernel Ridge Regression](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bu)
+- <a id="kinoshita26a-theory-statistics"></a>[Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](../conferences/icml-2026/cards/2101-2200.md#paper-kinoshita26a)
+- <a id="klippert26a-theory-statistics"></a>[Skewness-Robust Causal Discovery in Location-Scale Noise Models](../conferences/icml-2026/cards/2101-2200.md#paper-klippert26a)
+- <a id="knowles26a-theory-statistics"></a>[Tractable Expected Information Gains for Exponential Family Posteriors](../conferences/icml-2026/cards/2101-2200.md#paper-knowles26a)
 <!-- classification:end -->

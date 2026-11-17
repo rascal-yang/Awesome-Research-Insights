@@ -36,6 +36,7 @@
 - [用答案方向的残差投影判断重复提示的极限](../conferences/icml-2026/cards/1601-1700.md#hu26ak-theory-statistics) · Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence
 - [从线上混合分布估计接收集风险](../conferences/icml-2026/cards/1601-1700.md#hu26bh-theory-statistics) · OSCS: Online Selection with Provable FAR Control for LLM Safety
 - [用相邻难度间距衡量隐式课程能否接力](../conferences/icml-2026/cards/1701-1800.md#huang26bk-theory-statistics) · On the Emergence of Implicit Curriculum in RLVR Learning Dynamics
+- [让在线采样随偏好策略提高覆盖](../conferences/icml-2026/cards/2101-2200.md#kim26bz-theory-statistics) · Coverage Improvement and Fast Convergence of On-policy Preference Learning
 
 <a id="by-computer-vision"></a>
 
@@ -94,6 +95,7 @@
 - [用条件偏离限制低成交价](../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions
 - [按正则强度切换老虎机遗憾分析](../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · Near-Optimal Regret for KL-Regularized Multi-Armed Bandits
 - [用排序损失差直接近似探索概率](../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality
+- [用单边偏离收益验证独立学习者是否到均衡](../conferences/icml-2026/cards/2101-2200.md#kock26a-theory-statistics) · Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems
 
 <a id="by-robotics"></a>
 
@@ -339,6 +341,10 @@
 - [按每个任务实际能观测的方向共享参数](../conferences/icml-2026/cards/2101-2200.md#kim26bb-theory-statistics) · Multi-task Linear Regression without Eigenvalue Lower Bounds: Adaptivity, Robustness, and Safety
 - [查看 SAM 是否把负曲率改成局部吸引](../conferences/icml-2026/cards/2101-2200.md#kim26be-theory-statistics) · Stability Analysis of Sharpness-Aware Minimization
 - [先以目标留出伪似然选源，再在目标上校正边权](../conferences/icml-2026/cards/2101-2200.md#kim26bi-theory-statistics) · Transfer Learning in High-dimensional Ising Models
+- [先估联合响应再平滑边缘剂量效应](../conferences/icml-2026/cards/2101-2200.md#kim26bu-theory-statistics) · Estimating Continuous Treatment Effects with Two-Stage Kernel Ridge Regression
+- [用合成梯度先编码任务子空间再学读出](../conferences/icml-2026/cards/2101-2200.md#kinoshita26a-theory-statistics) · Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks
+- [显式拟合偏态噪声推断因果方向](../conferences/icml-2026/cards/2101-2200.md#klippert26a-theory-statistics) · Skewness-Robust Causal Discovery in Location-Scale Noise Models
+- [用指数族后验消去信息增益的内层积分](../conferences/icml-2026/cards/2101-2200.md#knowles26a-theory-statistics) · Tractable Expected Information Gains for Exponential Family Posteriors
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -358,6 +364,7 @@
 - [用图结构约束压缩多树搜索状态](../conferences/icml-2026/cards/1401-1500.md#harviainen26a-theory-statistics) · Exact and Approximate Algorithms for Polytree Learning
 - [将三角跨割稀疏化约化为量子枚举和采样](../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · Quantum Algorithms for Triangle Cut Sparsification
 - [同时监测深层图网络的前后向过平滑](../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?
+- [用图拉普拉斯扩散传播保持跨分辨率连续](../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · Graph Neural Networks Are Not Continuous Across Graph Resolutions
 
 <a id="by-scientific-ml"></a>
 

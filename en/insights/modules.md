@@ -35,6 +35,7 @@ Reusable components and local changes to model inputs or connections.
 - [DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training](../../conferences/icml-2026/cards/1901-2000.md#jin26f-modules) · 中文
 - [Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE](../../conferences/icml-2026/cards/2001-2100.md#kang26q-modules) · 中文
 - [Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs](../../conferences/icml-2026/cards/2001-2100.md#kim26f-modules) · 中文
+- [Tucker Attention: A generalization of approximate attention mechanisms](../../conferences/icml-2026/cards/2101-2200.md#klein26a-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -59,6 +60,7 @@ Reusable components and local changes to model inputs or connections.
 - [Efficient Transformer Attention for SNNs via Hadamard Simplification](../../conferences/icml-2026/cards/1901-2000.md#jiang26an-modules) · 中文
 - [SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation](../../conferences/icml-2026/cards/1901-2000.md#jiang26ay-modules) · 中文
 - [Deformba: Vision State Space Model with Adaptive State Fusion](../../conferences/icml-2026/cards/2001-2100.md#ke26d-modules) · 中文
+- [Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception](../../conferences/icml-2026/cards/2101-2200.md#kim26by-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>

@@ -310,6 +310,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ac-inference) · 中文
 - [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](../../conferences/icml-2026/cards/1901-2000.md#jiang26aq-inference) · 中文
 - [ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding](../../conferences/icml-2026/cards/2101-2200.md#kim26al-inference) · 中文
+- [SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bt-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

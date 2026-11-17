@@ -36,6 +36,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence](../../conferences/icml-2026/cards/1601-1700.md#hu26ak-theory-statistics) · 中文
 - [OSCS: Online Selection with Provable FAR Control for LLM Safety](../../conferences/icml-2026/cards/1601-1700.md#hu26bh-theory-statistics) · 中文
 - [On the Emergence of Implicit Curriculum in RLVR Learning Dynamics](../../conferences/icml-2026/cards/1701-1800.md#huang26bk-theory-statistics) · 中文
+- [Coverage Improvement and Fast Convergence of On-policy Preference Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26bz-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -94,6 +95,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · 中文
 - [Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · 中文
 - [Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality](../../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · 中文
+- [Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems](../../conferences/icml-2026/cards/2101-2200.md#kock26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -339,6 +341,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Multi-task Linear Regression without Eigenvalue Lower Bounds: Adaptivity, Robustness, and Safety](../../conferences/icml-2026/cards/2101-2200.md#kim26bb-theory-statistics) · 中文
 - [Stability Analysis of Sharpness-Aware Minimization](../../conferences/icml-2026/cards/2101-2200.md#kim26be-theory-statistics) · 中文
 - [Transfer Learning in High-dimensional Ising Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bi-theory-statistics) · 中文
+- [Estimating Continuous Treatment Effects with Two-Stage Kernel Ridge Regression](../../conferences/icml-2026/cards/2101-2200.md#kim26bu-theory-statistics) · 中文
+- [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](../../conferences/icml-2026/cards/2101-2200.md#kinoshita26a-theory-statistics) · 中文
+- [Skewness-Robust Causal Discovery in Location-Scale Noise Models](../../conferences/icml-2026/cards/2101-2200.md#klippert26a-theory-statistics) · 中文
+- [Tractable Expected Information Gains for Exponential Family Posteriors](../../conferences/icml-2026/cards/2101-2200.md#knowles26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -358,6 +364,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Exact and Approximate Algorithms for Polytree Learning](../../conferences/icml-2026/cards/1401-1500.md#harviainen26a-theory-statistics) · 中文
 - [Quantum Algorithms for Triangle Cut Sparsification](../../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · 中文
 - [Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](../../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · 中文
+- [Graph Neural Networks Are Not Continuous Across Graph Resolutions](../../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

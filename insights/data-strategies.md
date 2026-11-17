@@ -127,6 +127,7 @@
 - [用全局模型的相对信心在客户端重分配标签](../conferences/icml-2026/cards/1601-1700.md#hu26ao-data-strategies) · FedReLa: Imbalanced Federated Learning via Re-Labeling
 - [用参考模型权重方向估计样本效用](../conferences/icml-2026/cards/1601-1700.md#huang26c-data-strategies) · Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights
 - [用梯度投影贡献分配联邦客户端预算](../conferences/icml-2026/cards/1801-1900.md#ji26b-data-strategies) · ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning
+- [在上下文中按条件互信息决定补测哪个特征](../conferences/icml-2026/cards/2101-2200.md#kobayashi26a-data-strategies) · Learning-To-Measure: In-Context Active Feature Acquisition
 
 <a id="by-graph-and-recommendation"></a>
 

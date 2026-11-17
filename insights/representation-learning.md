@@ -51,6 +51,8 @@
 - [让一张图里的关系候选反馈修正谓词原型](../conferences/icml-2026/cards/2001-2100.md#jung26a-representation-learning) · Learning Context-Conditioned Predicate Semantics via Prototype Feedback
 - [分离伪造痕迹与语义，再按证据不确定性融合](../conferences/icml-2026/cards/2001-2100.md#kang26o-representation-learning) · Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection
 - [在解析旋转之后学习潜空间剩余位移](../conferences/icml-2026/cards/2101-2200.md#kim26p-representation-learning) · Equivariant Latent Alignment via Flow Matching under Group Symmetries
+- [在有界码本内用角边际拉开量化方向](../conferences/icml-2026/cards/2101-2200.md#kim26bx-representation-learning) · ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin
+- [让符号相位与距离场各自学习再耦合](../conferences/icml-2026/cards/2101-2200.md#kong26b-representation-learning) · Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds
 
 <a id="by-nlp"></a>
 
@@ -131,6 +133,7 @@
 - [主动干预视图缺失模式检验聚类](../conferences/icml-2026/cards/1901-2000.md#jin26n-representation-learning) · Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering
 - [用表头和值作为联合可掩码片段](../conferences/icml-2026/cards/2001-2100.md#jung26i-representation-learning) · Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation
 - [按采样质量对称归一化扩散核](../conferences/icml-2026/cards/2001-2100.md#kessler26a-representation-learning) · Sinkhorn Normalization of Diffusion Kernels
+- [以多尺度小波定位传感事件的词元边界](../conferences/icml-2026/cards/2101-2200.md#kimura26a-representation-learning) · Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -185,4 +188,5 @@
 - [用可快速调制的潜码适配保结构动力学](../conferences/icml-2026/cards/1901-2000.md#jing26e-representation-learning) · Meta-learning Structure-Preserving Dynamics
 - [显式区分生殖系与体细胞突变词元](../conferences/icml-2026/cards/2001-2100.md#kim26c-representation-learning) · Explicit representation of germline and non-germline residues improves antibody language modeling
 - [用掩码保护的可学习分段编码 DNA](../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · DNACHUNKER: Learnable Tokenization for DNA Language Models
+- [在局部共享坐标中匹配源目标表征曲率](../conferences/icml-2026/cards/2101-2200.md#ko26c-representation-learning) · Geometric Embedding Alignment via Curvature Matching in Transfer Learning
 <!-- classification:end -->

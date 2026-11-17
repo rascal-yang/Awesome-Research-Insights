@@ -66,6 +66,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="jin26f-modules"></a>[DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26f)
 - <a id="kang26q-modules"></a>[Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26q)
 - <a id="kim26f-modules"></a>[Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26f)
+- <a id="klein26a-modules"></a>[Tucker Attention: A generalization of approximate attention mechanisms](../../conferences/icml-2026/cards/2101-2200.md#paper-klein26a)
 
 <a id="by-loss-functions"></a>
 
@@ -136,6 +137,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ke26b-optimization"></a>[Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery](../../conferences/icml-2026/cards/2001-2100.md#paper-ke26b)
 - <a id="kim26bc-optimization"></a>[TokenDrop: Token-Level Importance-Aware Backward Propagation Skipping for Efficient LLM Fine-Tuning](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bc)
 - <a id="kim26bf-optimization"></a>[GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bf)
+- <a id="kim26br-optimization"></a>[Persona-Pruner: Sculpting Lightweight Models for Role-Playing](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26br)
+- <a id="kim26bv-optimization"></a>[ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bv)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -637,6 +640,10 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="kim26at-evaluation"></a>[BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26at)
 - <a id="kim26ba-evaluation"></a>[Investigating Component Contributions in Multi-Agent ML Systems](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ba)
 - <a id="kim26bg-evaluation"></a>[Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bg)
+- <a id="kim26bw-evaluation"></a>[TRACE: Toulmin-based Reasoning Assessment through Constructive Elements for LLM CoT Evaluation](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bw)
+- <a id="king26a-evaluation"></a>[Representational Curvature Modulates Behavioral Uncertainty in Large Language Models](../../conferences/icml-2026/cards/2101-2200.md#paper-king26a)
+- <a id="kiyani26a-evaluation"></a>[When to Trust the Cheap Check: Weak and Strong Verification for Reasoning](../../conferences/icml-2026/cards/2101-2200.md#paper-kiyani26a)
+- <a id="ko26b-evaluation"></a>[From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents](../../conferences/icml-2026/cards/2101-2200.md#paper-ko26b)
 
 <a id="by-theory-statistics"></a>
 
@@ -665,4 +672,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="hu26ak-theory-statistics"></a>[Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ak)
 - <a id="hu26bh-theory-statistics"></a>[OSCS: Online Selection with Provable FAR Control for LLM Safety](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bh)
 - <a id="huang26bk-theory-statistics"></a>[On the Emergence of Implicit Curriculum in RLVR Learning Dynamics](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bk)
+- <a id="kim26bz-theory-statistics"></a>[Coverage Improvement and Fast Convergence of On-policy Preference Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bz)
 <!-- classification:end -->

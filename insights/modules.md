@@ -35,6 +35,7 @@
 - [用反馈锁定 MoE 动态路由的平均预算](../conferences/icml-2026/cards/1901-2000.md#jin26f-modules) · DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training
 - [用共同激活记录抑制 MoE 专家组合冗余](../conferences/icml-2026/cards/2001-2100.md#kang26q-modules) · Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE
 - [用可相加的推理 logits 复用轻量模块](../conferences/icml-2026/cards/2001-2100.md#kim26f-modules) · Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs
+- [把注意力权重当高阶张量做 Tucker 分解](../conferences/icml-2026/cards/2101-2200.md#klein26a-modules) · Tucker Attention: A generalization of approximate attention mechanisms
 
 <a id="by-computer-vision"></a>
 
@@ -59,6 +60,7 @@
 - [用逐元素门控降低脉冲注意力通信](../conferences/icml-2026/cards/1901-2000.md#jiang26an-modules) · Efficient Transformer Attention for SNNs via Hadamard Simplification
 - [从局部频谱提取风格并路由检测适配词元](../conferences/icml-2026/cards/1901-2000.md#jiang26ay-modules) · SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation
 - [用上下文偏移决定状态空间模型读哪里](../conferences/icml-2026/cards/2001-2100.md#ke26d-modules) · Deformba: Vision State Space Model with Adaptive State Fusion
+- [按可靠度门控视频预测记忆](../conferences/icml-2026/cards/2101-2200.md#kim26by-modules) · Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

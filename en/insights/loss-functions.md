@@ -144,4 +144,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Signature-Informed Transformer for Asset Allocation](../../conferences/icml-2026/cards/1701-1800.md#hwang26j-loss-functions) · 中文
 - [Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](../../conferences/icml-2026/cards/1801-1900.md#jia26j-loss-functions) · 中文
 - [From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale](../../conferences/icml-2026/cards/1901-2000.md#jin26k-loss-functions) · 中文
+- [PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials](../../conferences/icml-2026/cards/2101-2200.md#koker26a-loss-functions) · 中文
 <!-- classification:end -->

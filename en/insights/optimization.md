@@ -57,6 +57,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery](../../conferences/icml-2026/cards/2001-2100.md#ke26b-optimization) · 中文
 - [TokenDrop: Token-Level Importance-Aware Backward Propagation Skipping for Efficient LLM Fine-Tuning](../../conferences/icml-2026/cards/2101-2200.md#kim26bc-optimization) · 中文
 - [GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache](../../conferences/icml-2026/cards/2101-2200.md#kim26bf-optimization) · 中文
+- [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](../../conferences/icml-2026/cards/2101-2200.md#kim26br-optimization) · 中文
+- [ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation](../../conferences/icml-2026/cards/2101-2200.md#kim26bv-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -89,6 +91,7 @@ Gradient updates, parameterization, and optimization dynamics.
 
 - [Fast Mixing Steady-State Control in Markov Decision Processes](../../conferences/icml-2026/cards/0701-0800.md#corso26a-optimization) · 中文
 - [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../conferences/icml-2026/cards/0801-0900.md#dam26a-optimization) · 中文
+- [Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting](../../conferences/icml-2026/cards/2101-2200.md#ko26a-optimization) · 中文
 
 <a id="by-robotics"></a>
 
@@ -247,6 +250,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Multimarginal flow matching with optimal transport potentials](../../conferences/icml-2026/cards/2001-2100.md#kansal26a-optimization) · 中文
 - [Adaptive Momentum and Nonlinear Damping for Neural Network Training](../../conferences/icml-2026/cards/2001-2100.md#karoni26a-optimization) · 中文
 - [Align Forward, Adapt Backward: Closing the Discretization Gap in Logic Gate Networks](../../conferences/icml-2026/cards/2001-2100.md#kim26a-optimization) · 中文
+- [Riemannian Diffusion Models on General Manifolds via Physics-Informed Neural Networks](../../conferences/icml-2026/cards/2101-2200.md#ko26d-optimization) · 中文
+- [LILO: Bayesian Optimization with Natural Language Feedback](../../conferences/icml-2026/cards/2101-2200.md#kobalczyk26a-optimization) · 中文
+- [Incorporating Importance Weighting in Optimal Transport Based Domain Alignment](../../conferences/icml-2026/cards/2101-2200.md#koc26a-optimization) · 中文
+- [Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation](../../conferences/icml-2026/cards/2101-2200.md#kong26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

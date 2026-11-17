@@ -179,6 +179,7 @@
 - [同时约束参数共识和策略诱发的队列](../conferences/icml-2026/cards/1901-2000.md#jiang26u-reinforcement-learning) · Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design
 - [按预算分开选择劫持对象与替换动作](../conferences/icml-2026/cards/1901-2000.md#jiang26ba-reinforcement-learning) · Budget-Efficient Attacks and Robustness Training for Cooperative MARL
 - [回放动作上的各向异性约束](../conferences/icml-2026/cards/2101-2200.md#kim26ai-reinforcement-learning) · Frictional Q-Learning
+- [用到达时间准度量建稀疏图并在线删失效边](../conferences/icml-2026/cards/2101-2200.md#kobanda26a-reinforcement-learning) · Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -215,6 +216,7 @@
 - [为同奖惩组保留正确的优势方向](../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · Faithful Mobile GUI Agents with Guided Advantage Estimator
 - [用最小证据补丁修复观察后再做策略更新](../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · Find, Fix, Reason: Context Repair for Video Reasoning
 - [将生成反馈拆成可验证的具体问题](../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward
+- [用熵维持训练时的视觉查证路径多样性](../conferences/icml-2026/cards/2101-2200.md#kim26bs-reinforcement-learning) · Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents
 
 <a id="by-ml-foundations"></a>
 
@@ -229,6 +231,7 @@
 - [在线影响力最大化](../conferences/icml-2026/cards/0001-0100.md#agarwal26a-reinforcement-learning) · Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback
 - [推荐曝光控制](../conferences/icml-2026/cards/0201-0300.md#bisht26a-reinforcement-learning) · CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems
 - [按位置校正推荐路径的策略梯度](../conferences/icml-2026/cards/1601-1700.md#hou26g-reinforcement-learning) · ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation
+- [给被选条目而不是整个候选集分配梯度](../conferences/icml-2026/cards/2101-2200.md#kiyohara26a-reinforcement-learning) · Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking
 
 <a id="by-scientific-ml"></a>
 
@@ -247,4 +250,5 @@
 - [让局部 RNA 设计代理共享全局折叠反馈](../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning
 - [用观测似然动态重加权潜结构轨迹](../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients
 - [可合成分子的软约束采样](../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors
+- [把可执行的临床资源查询反馈用于代理训练](../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)
 <!-- classification:end -->

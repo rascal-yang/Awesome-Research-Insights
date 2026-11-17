@@ -179,6 +179,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design](../../conferences/icml-2026/cards/1901-2000.md#jiang26u-reinforcement-learning) · 中文
 - [Budget-Efficient Attacks and Robustness Training for Cooperative MARL](../../conferences/icml-2026/cards/1901-2000.md#jiang26ba-reinforcement-learning) · 中文
 - [Frictional Q-Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26ai-reinforcement-learning) · 中文
+- [Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation](../../conferences/icml-2026/cards/2101-2200.md#kobanda26a-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -215,6 +216,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Faithful Mobile GUI Agents with Guided Advantage Estimator](../../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · 中文
 - [Find, Fix, Reason: Context Repair for Video Reasoning](../../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · 中文
 - [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · 中文
+- [Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents](../../conferences/icml-2026/cards/2101-2200.md#kim26bs-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -229,6 +231,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](../../conferences/icml-2026/cards/0001-0100.md#agarwal26a-reinforcement-learning) · 中文
 - [CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](../../conferences/icml-2026/cards/0201-0300.md#bisht26a-reinforcement-learning) · 中文
 - [ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](../../conferences/icml-2026/cards/1601-1700.md#hou26g-reinforcement-learning) · 中文
+- [Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking](../../conferences/icml-2026/cards/2101-2200.md#kiyohara26a-reinforcement-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -247,4 +250,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · 中文
 - [Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · 中文
 - [Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · 中文
+- [Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · 中文
 <!-- classification:end -->

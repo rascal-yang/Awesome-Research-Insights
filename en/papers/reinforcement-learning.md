@@ -15,6 +15,7 @@ Learning from interaction, feedback, and offline experience.
 
 - <a id="bian26a-architecture"></a>[RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](../../conferences/icml-2026/cards/0201-0300.md#paper-bian26a)
 - <a id="huang26ba-architecture"></a>[VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ba)
+- <a id="koeppe26a-architecture"></a>[Mitigating Plasticity Loss through Architectural Design in Continual Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-koeppe26a)
 
 <a id="by-loss-functions"></a>
 
@@ -31,6 +32,7 @@ Learning from interaction, feedback, and offline experience.
 
 - <a id="corso26a-optimization"></a>[Fast Mixing Steady-State Control in Markov Decision Processes](../../conferences/icml-2026/cards/0701-0800.md#paper-corso26a)
 - <a id="dam26a-optimization"></a>[Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../conferences/icml-2026/cards/0801-0900.md#paper-dam26a)
+- <a id="ko26a-optimization"></a>[Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting](../../conferences/icml-2026/cards/2101-2200.md#paper-ko26a)
 
 <a id="by-reinforcement-learning"></a><a id="group-relative-policy-optimization"></a>
 
@@ -102,6 +104,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="jiang26u-reinforcement-learning"></a>[Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26u)
 - <a id="jiang26ba-reinforcement-learning"></a>[Budget-Efficient Attacks and Robustness Training for Cooperative MARL](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ba)
 - <a id="kim26ai-reinforcement-learning"></a>[Frictional Q-Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ai)
+- <a id="kobanda26a-reinforcement-learning"></a>[Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation](../../conferences/icml-2026/cards/2101-2200.md#paper-kobanda26a)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>
@@ -185,4 +188,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="ipsen26a-theory-statistics"></a>[Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../../conferences/icml-2026/cards/1801-1900.md#paper-ipsen26a)
 - <a id="ji26n-theory-statistics"></a>[Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26n)
 - <a id="kim26ar-theory-statistics"></a>[Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ar)
+- <a id="kock26a-theory-statistics"></a>[Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems](../../conferences/icml-2026/cards/2101-2200.md#paper-kock26a)
 <!-- classification:end -->

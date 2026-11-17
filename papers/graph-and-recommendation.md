@@ -75,6 +75,7 @@
 - <a id="agarwal26a-reinforcement-learning"></a>[Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26a)
 - <a id="bisht26a-reinforcement-learning"></a>[CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](../conferences/icml-2026/cards/0201-0300.md#paper-bisht26a)
 - <a id="hou26g-reinforcement-learning"></a>[ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](../conferences/icml-2026/cards/1601-1700.md#paper-hou26g)
+- <a id="kiyohara26a-reinforcement-learning"></a>[Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking](../conferences/icml-2026/cards/2101-2200.md#paper-kiyohara26a)
 
 <a id="by-training-strategies"></a>
 
@@ -159,4 +160,5 @@
 - <a id="harviainen26a-theory-statistics"></a>[Exact and Approximate Algorithms for Polytree Learning](../conferences/icml-2026/cards/1401-1500.md#paper-harviainen26a)
 - <a id="jiang26aj-theory-statistics"></a>[Quantum Algorithms for Triangle Cut Sparsification](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aj)
 - <a id="keriven26a-theory-statistics"></a>[Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](../conferences/icml-2026/cards/2001-2100.md#paper-keriven26a)
+- <a id="koke26a-theory-statistics"></a>[Graph Neural Networks Are Not Continuous Across Graph Resolutions](../conferences/icml-2026/cards/2101-2200.md#paper-koke26a)
 <!-- classification:end -->

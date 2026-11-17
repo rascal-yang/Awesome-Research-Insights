@@ -62,6 +62,7 @@
 - <a id="jiang26an-modules"></a>[Efficient Transformer Attention for SNNs via Hadamard Simplification](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26an)
 - <a id="jiang26ay-modules"></a>[SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ay)
 - <a id="ke26d-modules"></a>[Deformba: Vision State Space Model with Adaptive State Fusion](../conferences/icml-2026/cards/2001-2100.md#paper-ke26d)
+- <a id="kim26by-modules"></a>[Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception](../conferences/icml-2026/cards/2101-2200.md#paper-kim26by)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -240,6 +241,8 @@
 - <a id="jung26a-representation-learning"></a>[Learning Context-Conditioned Predicate Semantics via Prototype Feedback](../conferences/icml-2026/cards/2001-2100.md#paper-jung26a)
 - <a id="kang26o-representation-learning"></a>[Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection](../conferences/icml-2026/cards/2001-2100.md#paper-kang26o)
 - <a id="kim26p-representation-learning"></a>[Equivariant Latent Alignment via Flow Matching under Group Symmetries](../conferences/icml-2026/cards/2101-2200.md#paper-kim26p)
+- <a id="kim26bx-representation-learning"></a>[ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bx)
+- <a id="kong26b-representation-learning"></a>[Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds](../conferences/icml-2026/cards/2101-2200.md#paper-kong26b)
 
 <a id="by-evaluation"></a>
 
@@ -274,6 +277,7 @@
 - <a id="kim26aq-evaluation"></a>[Localizing Memorized Regions in Diffusion Models via Coordinate-Wise Curvature Differences](../conferences/icml-2026/cards/2101-2200.md#paper-kim26aq)
 - <a id="kim26as-evaluation"></a>[Adversarial Robustness of Implicit Neural Representation-Based Classifiers](../conferences/icml-2026/cards/2101-2200.md#paper-kim26as)
 - <a id="kim26aw-evaluation"></a>[Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution](../conferences/icml-2026/cards/2101-2200.md#paper-kim26aw)
+- <a id="konforti26a-evaluation"></a>[CB-SLICE: Concept-Based Interpretable Error Slice Discovery](../conferences/icml-2026/cards/2101-2200.md#paper-konforti26a)
 
 <a id="by-theory-statistics"></a>
 

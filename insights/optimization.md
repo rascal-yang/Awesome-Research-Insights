@@ -57,6 +57,8 @@
 - [让求解器和生成器在程序空间共同进化](../conferences/icml-2026/cards/2001-2100.md#ke26b-optimization) · Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery
 - [用跨层残差证据挑值得反传的词元](../conferences/icml-2026/cards/2101-2200.md#kim26bc-optimization) · TokenDrop: Token-Level Importance-Aware Backward Propagation Skipping for Efficient LLM Fine-Tuning
 - [在残差量化码本中分开学方向和尺度](../conferences/icml-2026/cards/2101-2200.md#kim26bf-optimization) · GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache
+- [用角色数据学习专属 FFN 剪枝掩码](../conferences/icml-2026/cards/2101-2200.md#kim26br-optimization) · Persona-Pruner: Sculpting Lightweight Models for Role-Playing
+- [离线融合逐层旋转并只在线补低秩差](../conferences/icml-2026/cards/2101-2200.md#kim26bv-optimization) · ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation
 
 <a id="by-computer-vision"></a>
 
@@ -89,6 +91,7 @@
 
 - [目标稳态分布约束下的快速混合](../conferences/icml-2026/cards/0701-0800.md#corso26a-optimization) · Fast Mixing Steady-State Control in Markov Decision Processes
 - [二阶平滑 Bellman 规划](../conferences/icml-2026/cards/0801-0900.md#dam26a-optimization) · Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing
+- [用决策时点锚定的伴随量优化非指数折扣](../conferences/icml-2026/cards/2101-2200.md#ko26a-optimization) · Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting
 
 <a id="by-robotics"></a>
 
@@ -247,6 +250,10 @@
 - [把中间边际变成流动轨迹的局部力](../conferences/icml-2026/cards/2001-2100.md#kansal26a-optimization) · Multimarginal flow matching with optimal transport potentials
 - [用动能决定各参数的阻尼强度](../conferences/icml-2026/cards/2001-2100.md#karoni26a-optimization) · Adaptive Momentum and Nonlinear Damping for Neural Network Training
 - [用硬前向和自适应软梯度训练门网络](../conferences/icml-2026/cards/2001-2100.md#kim26a-optimization) · Align Forward, Adapt Backward: Closing the Discretization Gap in Logic Gate Networks
+- [用热方程代理支持通用流形扩散训练](../conferences/icml-2026/cards/2101-2200.md#ko26d-optimization) · Riemannian Diffusion Models on General Manifolds via Physics-Informed Neural Networks
+- [把自然语言反馈变成高斯过程的成对偏好](../conferences/icml-2026/cards/2101-2200.md#kobalczyk26a-optimization) · LILO: Bayesian Optimization with Natural Language Feedback
+- [在最优传输中重分配源域输出质量](../conferences/icml-2026/cards/2101-2200.md#koc26a-optimization) · Incorporating Importance Weighting in Optimal Transport Based Domain Alignment
+- [复用内层 SGD 的梯度并行更新逆 Hessian 近似](../conferences/icml-2026/cards/2101-2200.md#kong26a-optimization) · Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation
 
 <a id="by-graph-and-recommendation"></a>
 

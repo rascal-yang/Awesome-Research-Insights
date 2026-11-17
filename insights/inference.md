@@ -310,6 +310,7 @@
 - [在适配与预测时用同一视图集成](../conferences/icml-2026/cards/1901-2000.md#jiang26ac-inference) · USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning
 - [在视觉代理记忆里分开局部经验与任务技能](../conferences/icml-2026/cards/1901-2000.md#jiang26aq-inference) · XSkill: Continual Learning from Experience and Skills in Multimodal Agents
 - [先否决扩散解码中不稳定或无图像依据的词元](../conferences/icml-2026/cards/2101-2200.md#kim26al-inference) · ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding
+- [按跨增广稳定性和局部密度选择视图](../conferences/icml-2026/cards/2101-2200.md#kim26bt-inference) · SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

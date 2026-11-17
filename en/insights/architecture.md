@@ -86,6 +86,7 @@ Model-wide design and information flow.
 
 - [RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](../../conferences/icml-2026/cards/0201-0300.md#bian26a-architecture) · 中文
 - [VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](../../conferences/icml-2026/cards/1701-1800.md#huang26ba-architecture) · 中文
+- [Mitigating Plasticity Loss through Architectural Design in Continual Learning](../../conferences/icml-2026/cards/2101-2200.md#koeppe26a-architecture) · 中文
 
 <a id="by-robotics"></a>
 
@@ -116,6 +117,7 @@ Model-wide design and information flow.
 - [MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#hu26u-architecture) · 中文
 - [CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · 中文
 - [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../../conferences/icml-2026/cards/1901-2000.md#jin26m-architecture) · 中文
+- [Generative Visual Code Mobile World Models](../../conferences/icml-2026/cards/2101-2200.md#koh26a-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -149,6 +151,7 @@ Model-wide design and information flow.
 - [Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects](../../conferences/icml-2026/cards/2001-2100.md#kano26a-architecture) · 中文
 - [Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries](../../conferences/icml-2026/cards/2001-2100.md#karjol26a-architecture) · 中文
 - [NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces](../../conferences/icml-2026/cards/2101-2200.md#kim26ay-architecture) · 中文
+- [Equivariant Neural Networks for General Linear Symmetries on Lie Algebras](../../conferences/icml-2026/cards/2101-2200.md#kim26ca-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

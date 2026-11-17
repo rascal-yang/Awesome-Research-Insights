@@ -23,6 +23,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hu26u-architecture"></a>[MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26u)
 - <a id="huang26be-architecture"></a>[CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26be)
 - <a id="jin26m-architecture"></a>[SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26m)
+- <a id="koh26a-architecture"></a>[Generative Visual Code Mobile World Models](../../conferences/icml-2026/cards/2101-2200.md#paper-koh26a)
 
 <a id="by-modules"></a>
 
@@ -88,6 +89,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hu26k-reinforcement-learning"></a>[Faithful Mobile GUI Agents with Guided Advantage Estimator](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26k)
 - <a id="huang26aq-reinforcement-learning"></a>[Find, Fix, Reason: Context Repair for Video Reasoning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26aq)
 - <a id="huang26bm-reinforcement-learning"></a>[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bm)
+- <a id="kim26bs-reinforcement-learning"></a>[Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bs)
 
 <a id="by-training-strategies"></a>
 
@@ -184,6 +186,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="jiang26ac-inference"></a>[USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ac)
 - <a id="jiang26aq-inference"></a>[XSkill: Continual Learning from Experience and Skills in Multimodal Agents](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aq)
 - <a id="kim26al-inference"></a>[ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26al)
+- <a id="kim26bt-inference"></a>[SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bt)
 
 <a id="by-representation-learning"></a>
 

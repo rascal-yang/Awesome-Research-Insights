@@ -144,4 +144,5 @@
 - [将路径结构和尾部风险直接接进配置策略](../conferences/icml-2026/cards/1701-1800.md#hwang26j-loss-functions) · Signature-Informed Transformer for Asset Allocation
 - [把物理残差监督送到扩散中间层](../conferences/icml-2026/cards/1801-1900.md#jia26j-loss-functions) · Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment
 - [用有序峰集合替代昂贵的原子指派](../conferences/icml-2026/cards/1901-2000.md#jin26k-loss-functions) · From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale
+- [随机抽 Hessian 列监督势能曲率](../conferences/icml-2026/cards/2101-2200.md#koker26a-loss-functions) · PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials
 <!-- classification:end -->

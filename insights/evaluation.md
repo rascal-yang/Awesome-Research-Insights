@@ -176,6 +176,10 @@
 - [用逐题反馈评价搜索结果的个性化](../conferences/icml-2026/cards/2101-2200.md#kim26at-evaluation) · BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback
 - [固定迭代和成本再测多代理的贡献](../conferences/icml-2026/cards/2101-2200.md#kim26ba-evaluation) · Investigating Component Contributions in Multi-Agent ML Systems
 - [让证据库随工具调用累积来评估每一步](../conferences/icml-2026/cards/2101-2200.md#kim26bg-evaluation) · Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents
+- [用论证角色和转移评估推理过程](../conferences/icml-2026/cards/2101-2200.md#kim26bw-evaluation) · TRACE: Toulmin-based Reasoning Assessment through Constructive Elements for LLM CoT Evaluation
+- [沿词元轨迹子空间验证几何与熵的联系](../conferences/icml-2026/cards/2101-2200.md#king26a-evaluation) · Representational Curvature Modulates Behavioral Uncertainty in Large Language Models
+- [在快检不明确的区间调用强检](../conferences/icml-2026/cards/2101-2200.md#kiyani26a-evaluation) · When to Trust the Cheap Check: Weak and Strong Verification for Reasoning
+- [隐私评估覆盖间接推断身份的风险](../conferences/icml-2026/cards/2101-2200.md#ko26b-evaluation) · From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents
 
 <a id="by-computer-vision"></a>
 
@@ -210,6 +214,7 @@
 - [扣除欠拟合参照再定位扩散记忆](../conferences/icml-2026/cards/2101-2200.md#kim26aq-evaluation) · Localizing Memorized Regions in Diffusion Models via Coordinate-Wise Curvature Differences
 - [用有限差分监督绕开 INR 拟合反传瓶颈](../conferences/icml-2026/cards/2101-2200.md#kim26as-evaluation) · Adversarial Robustness of Implicit Neural Representation-Based Classifiers
 - [在生成潜空间规划归因路径](../conferences/icml-2026/cards/2101-2200.md#kim26aw-evaluation) · Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution
+- [按共享概念误判聚类模型错误](../conferences/icml-2026/cards/2101-2200.md#konforti26a-evaluation) · CB-SLICE: Concept-Based Interpretable Error Slice Discovery
 
 <a id="by-nlp"></a>
 
@@ -228,6 +233,7 @@
 - [基于真实音乐密度的生成检测](../conferences/icml-2026/cards/1401-1500.md#han26u-evaluation) · MusicDET: Zero-Shot AI-Generated Music Detection
 - [把模式归纳约束为可审计的类型图](../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text
 - [交换证据语言测引证相关性偏差](../conferences/icml-2026/cards/2001-2100.md#ki26a-evaluation) · Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG
+- [按语料的语义分层覆盖检索评测](../conferences/icml-2026/cards/2101-2200.md#klearman26a-evaluation) · Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation
 
 <a id="by-reinforcement-learning"></a>
 

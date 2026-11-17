@@ -176,6 +176,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback](../../conferences/icml-2026/cards/2101-2200.md#kim26at-evaluation) · 中文
 - [Investigating Component Contributions in Multi-Agent ML Systems](../../conferences/icml-2026/cards/2101-2200.md#kim26ba-evaluation) · 中文
 - [Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents](../../conferences/icml-2026/cards/2101-2200.md#kim26bg-evaluation) · 中文
+- [TRACE: Toulmin-based Reasoning Assessment through Constructive Elements for LLM CoT Evaluation](../../conferences/icml-2026/cards/2101-2200.md#kim26bw-evaluation) · 中文
+- [Representational Curvature Modulates Behavioral Uncertainty in Large Language Models](../../conferences/icml-2026/cards/2101-2200.md#king26a-evaluation) · 中文
+- [When to Trust the Cheap Check: Weak and Strong Verification for Reasoning](../../conferences/icml-2026/cards/2101-2200.md#kiyani26a-evaluation) · 中文
+- [From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents](../../conferences/icml-2026/cards/2101-2200.md#ko26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -210,6 +214,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Localizing Memorized Regions in Diffusion Models via Coordinate-Wise Curvature Differences](../../conferences/icml-2026/cards/2101-2200.md#kim26aq-evaluation) · 中文
 - [Adversarial Robustness of Implicit Neural Representation-Based Classifiers](../../conferences/icml-2026/cards/2101-2200.md#kim26as-evaluation) · 中文
 - [Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution](../../conferences/icml-2026/cards/2101-2200.md#kim26aw-evaluation) · 中文
+- [CB-SLICE: Concept-Based Interpretable Error Slice Discovery](../../conferences/icml-2026/cards/2101-2200.md#konforti26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -228,6 +233,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MusicDET: Zero-Shot AI-Generated Music Detection](../../conferences/icml-2026/cards/1401-1500.md#han26u-evaluation) · 中文
 - [SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text](../../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · 中文
 - [Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG](../../conferences/icml-2026/cards/2001-2100.md#ki26a-evaluation) · 中文
+- [Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation](../../conferences/icml-2026/cards/2101-2200.md#klearman26a-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

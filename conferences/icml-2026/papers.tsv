@@ -2155,42 +2155,42 @@ number	pmlr_id	title	paper_url	insight_status
 2154	kim26bo	Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models	https://proceedings.mlr.press/v306/kim26bo.html	written
 2155	kim26bp	EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs	https://proceedings.mlr.press/v306/kim26bp.html	written
 2156	kim26bq	Identifiable Token Correspondence for World Models	https://proceedings.mlr.press/v306/kim26bq.html	written
-2157	kim26br	Persona-Pruner: Sculpting Lightweight Models for Role-Playing	https://proceedings.mlr.press/v306/kim26br.html	pending
-2158	kim26bs	Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents	https://proceedings.mlr.press/v306/kim26bs.html	pending
-2159	kim26bt	SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models	https://proceedings.mlr.press/v306/kim26bt.html	pending
-2160	kim26bu	Estimating Continuous Treatment Effects with Two-Stage Kernel Ridge Regression	https://proceedings.mlr.press/v306/kim26bu.html	pending
-2161	kim26bv	ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation	https://proceedings.mlr.press/v306/kim26bv.html	pending
-2162	kim26bw	TRACE: Toulmin-based Reasoning Assessment through Constructive Elements for LLM CoT Evaluation	https://proceedings.mlr.press/v306/kim26bw.html	pending
-2163	kim26bx	ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin	https://proceedings.mlr.press/v306/kim26bx.html	pending
-2164	kim26by	Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception	https://proceedings.mlr.press/v306/kim26by.html	pending
-2165	kim26bz	Coverage Improvement and Fast Convergence of On-policy Preference Learning	https://proceedings.mlr.press/v306/kim26bz.html	pending
-2166	kim26ca	Equivariant Neural Networks for General Linear Symmetries on Lie Algebras	https://proceedings.mlr.press/v306/kim26ca.html	pending
-2167	kimura26a	Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals	https://proceedings.mlr.press/v306/kimura26a.html	pending
-2168	king26a	Representational Curvature Modulates Behavioral Uncertainty in Large Language Models	https://proceedings.mlr.press/v306/king26a.html	pending
-2169	kinoshita26a	Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks	https://proceedings.mlr.press/v306/kinoshita26a.html	pending
-2170	kiyani26a	When to Trust the Cheap Check: Weak and Strong Verification for Reasoning	https://proceedings.mlr.press/v306/kiyani26a.html	pending
-2171	kiyohara26a	Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking	https://proceedings.mlr.press/v306/kiyohara26a.html	pending
-2172	klearman26a	Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation	https://proceedings.mlr.press/v306/klearman26a.html	pending
-2173	klein26a	Tucker Attention: A generalization of approximate attention mechanisms	https://proceedings.mlr.press/v306/klein26a.html	pending
-2174	klippert26a	Skewness-Robust Causal Discovery in Location-Scale Noise Models	https://proceedings.mlr.press/v306/klippert26a.html	pending
-2175	knorr26a	Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)	https://proceedings.mlr.press/v306/knorr26a.html	pending
-2176	knowles26a	Tractable Expected Information Gains for Exponential Family Posteriors	https://proceedings.mlr.press/v306/knowles26a.html	pending
-2177	ko26a	Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting	https://proceedings.mlr.press/v306/ko26a.html	pending
-2178	ko26b	From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents	https://proceedings.mlr.press/v306/ko26b.html	pending
-2179	ko26c	Geometric Embedding Alignment via Curvature Matching in Transfer Learning	https://proceedings.mlr.press/v306/ko26c.html	pending
-2180	ko26d	Riemannian Diffusion Models on General Manifolds via Physics-Informed Neural Networks	https://proceedings.mlr.press/v306/ko26d.html	pending
-2181	kobalczyk26a	LILO: Bayesian Optimization with Natural Language Feedback	https://proceedings.mlr.press/v306/kobalczyk26a.html	pending
-2182	kobanda26a	Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation	https://proceedings.mlr.press/v306/kobanda26a.html	pending
-2183	kobayashi26a	Learning-To-Measure: In-Context Active Feature Acquisition	https://proceedings.mlr.press/v306/kobayashi26a.html	pending
-2184	koc26a	Incorporating Importance Weighting in Optimal Transport Based Domain Alignment	https://proceedings.mlr.press/v306/koc26a.html	pending
-2185	kock26a	Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems	https://proceedings.mlr.press/v306/kock26a.html	pending
-2186	koeppe26a	Mitigating Plasticity Loss through Architectural Design in Continual Learning	https://proceedings.mlr.press/v306/koeppe26a.html	pending
-2187	koh26a	Generative Visual Code Mobile World Models	https://proceedings.mlr.press/v306/koh26a.html	pending
-2188	koke26a	Graph Neural Networks Are Not Continuous Across Graph Resolutions	https://proceedings.mlr.press/v306/koke26a.html	pending
-2189	koker26a	PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials	https://proceedings.mlr.press/v306/koker26a.html	pending
-2190	konforti26a	CB-SLICE: Concept-Based Interpretable Error Slice Discovery	https://proceedings.mlr.press/v306/konforti26a.html	pending
-2191	kong26a	Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation	https://proceedings.mlr.press/v306/kong26a.html	pending
-2192	kong26b	Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds	https://proceedings.mlr.press/v306/kong26b.html	pending
+2157	kim26br	Persona-Pruner: Sculpting Lightweight Models for Role-Playing	https://proceedings.mlr.press/v306/kim26br.html	written
+2158	kim26bs	Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents	https://proceedings.mlr.press/v306/kim26bs.html	written
+2159	kim26bt	SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models	https://proceedings.mlr.press/v306/kim26bt.html	written
+2160	kim26bu	Estimating Continuous Treatment Effects with Two-Stage Kernel Ridge Regression	https://proceedings.mlr.press/v306/kim26bu.html	written
+2161	kim26bv	ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation	https://proceedings.mlr.press/v306/kim26bv.html	written
+2162	kim26bw	TRACE: Toulmin-based Reasoning Assessment through Constructive Elements for LLM CoT Evaluation	https://proceedings.mlr.press/v306/kim26bw.html	written
+2163	kim26bx	ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin	https://proceedings.mlr.press/v306/kim26bx.html	written
+2164	kim26by	Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception	https://proceedings.mlr.press/v306/kim26by.html	written
+2165	kim26bz	Coverage Improvement and Fast Convergence of On-policy Preference Learning	https://proceedings.mlr.press/v306/kim26bz.html	written
+2166	kim26ca	Equivariant Neural Networks for General Linear Symmetries on Lie Algebras	https://proceedings.mlr.press/v306/kim26ca.html	written
+2167	kimura26a	Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals	https://proceedings.mlr.press/v306/kimura26a.html	written
+2168	king26a	Representational Curvature Modulates Behavioral Uncertainty in Large Language Models	https://proceedings.mlr.press/v306/king26a.html	written
+2169	kinoshita26a	Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks	https://proceedings.mlr.press/v306/kinoshita26a.html	written
+2170	kiyani26a	When to Trust the Cheap Check: Weak and Strong Verification for Reasoning	https://proceedings.mlr.press/v306/kiyani26a.html	written
+2171	kiyohara26a	Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking	https://proceedings.mlr.press/v306/kiyohara26a.html	written
+2172	klearman26a	Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation	https://proceedings.mlr.press/v306/klearman26a.html	written
+2173	klein26a	Tucker Attention: A generalization of approximate attention mechanisms	https://proceedings.mlr.press/v306/klein26a.html	written
+2174	klippert26a	Skewness-Robust Causal Discovery in Location-Scale Noise Models	https://proceedings.mlr.press/v306/klippert26a.html	written
+2175	knorr26a	Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)	https://proceedings.mlr.press/v306/knorr26a.html	written
+2176	knowles26a	Tractable Expected Information Gains for Exponential Family Posteriors	https://proceedings.mlr.press/v306/knowles26a.html	written
+2177	ko26a	Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting	https://proceedings.mlr.press/v306/ko26a.html	written
+2178	ko26b	From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents	https://proceedings.mlr.press/v306/ko26b.html	written
+2179	ko26c	Geometric Embedding Alignment via Curvature Matching in Transfer Learning	https://proceedings.mlr.press/v306/ko26c.html	written
+2180	ko26d	Riemannian Diffusion Models on General Manifolds via Physics-Informed Neural Networks	https://proceedings.mlr.press/v306/ko26d.html	written
+2181	kobalczyk26a	LILO: Bayesian Optimization with Natural Language Feedback	https://proceedings.mlr.press/v306/kobalczyk26a.html	written
+2182	kobanda26a	Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation	https://proceedings.mlr.press/v306/kobanda26a.html	written
+2183	kobayashi26a	Learning-To-Measure: In-Context Active Feature Acquisition	https://proceedings.mlr.press/v306/kobayashi26a.html	written
+2184	koc26a	Incorporating Importance Weighting in Optimal Transport Based Domain Alignment	https://proceedings.mlr.press/v306/koc26a.html	written
+2185	kock26a	Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems	https://proceedings.mlr.press/v306/kock26a.html	written
+2186	koeppe26a	Mitigating Plasticity Loss through Architectural Design in Continual Learning	https://proceedings.mlr.press/v306/koeppe26a.html	written
+2187	koh26a	Generative Visual Code Mobile World Models	https://proceedings.mlr.press/v306/koh26a.html	written
+2188	koke26a	Graph Neural Networks Are Not Continuous Across Graph Resolutions	https://proceedings.mlr.press/v306/koke26a.html	written
+2189	koker26a	PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials	https://proceedings.mlr.press/v306/koker26a.html	written
+2190	konforti26a	CB-SLICE: Concept-Based Interpretable Error Slice Discovery	https://proceedings.mlr.press/v306/konforti26a.html	written
+2191	kong26a	Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation	https://proceedings.mlr.press/v306/kong26a.html	written
+2192	kong26b	Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds	https://proceedings.mlr.press/v306/kong26b.html	written
 2193	kong26c	From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning	https://proceedings.mlr.press/v306/kong26c.html	pending
 2194	kong26d	SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes	https://proceedings.mlr.press/v306/kong26d.html	pending
 2195	kong26e	Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions	https://proceedings.mlr.press/v306/kong26e.html	pending

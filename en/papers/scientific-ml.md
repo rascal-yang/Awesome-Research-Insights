@@ -90,6 +90,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="hwang26j-loss-functions"></a>[Signature-Informed Transformer for Asset Allocation](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26j)
 - <a id="jia26j-loss-functions"></a>[Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26j)
 - <a id="jin26k-loss-functions"></a>[From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26k)
+- <a id="koker26a-loss-functions"></a>[PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials](../../conferences/icml-2026/cards/2101-2200.md#paper-koker26a)
 
 <a id="by-optimization"></a>
 
@@ -131,6 +132,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="hu26al-reinforcement-learning"></a>[CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26al)
 - <a id="ivanovic26a-reinforcement-learning"></a>[Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../../conferences/icml-2026/cards/1801-1900.md#paper-ivanovic26a)
 - <a id="kim26ad-reinforcement-learning"></a>[Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ad)
+- <a id="knorr26a-reinforcement-learning"></a>[Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../../conferences/icml-2026/cards/2101-2200.md#paper-knorr26a)
 
 <a id="by-training-strategies"></a>
 
@@ -224,6 +226,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jing26e-representation-learning"></a>[Meta-learning Structure-Preserving Dynamics](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26e)
 - <a id="kim26c-representation-learning"></a>[Explicit representation of germline and non-germline residues improves antibody language modeling](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26c)
 - <a id="kim26bn-representation-learning"></a>[DNACHUNKER: Learnable Tokenization for DNA Language Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bn)
+- <a id="ko26c-representation-learning"></a>[Geometric Embedding Alignment via Curvature Matching in Transfer Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-ko26c)
 
 <a id="by-evaluation"></a>
 
