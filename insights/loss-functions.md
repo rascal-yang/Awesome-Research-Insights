@@ -179,7 +179,6 @@
 ### 图学习与推荐
 
 - [推荐排序的伪负例偏好优化](../conferences/icml-2026/cards/0601-0700.md#chen26ez-loss-functions) · Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach
-- [联邦图学习的 Fisher 参数对齐](../conferences/icml-2026/cards/0601-0700.md#chen26gu-loss-functions) · GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment
 - [时序图解释的稳定与转变证据](../conferences/icml-2026/cards/0601-0700.md#chen26gx-loss-functions) · ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability
 - [图混合专家的分组对比路由](../conferences/icml-2026/cards/0801-0900.md#deng26u-loss-functions) · Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion
 - [属性图聚类的双视图去冗余](../conferences/icml-2026/cards/0901-1000.md#ding26v-loss-functions) · Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning

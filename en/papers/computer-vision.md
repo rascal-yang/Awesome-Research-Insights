@@ -85,7 +85,6 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="colamonaco26a-modules"></a>[Prototype-Grounded Concept Models for Verifiable Concept Alignment](../../conferences/icml-2026/cards/0701-0800.md#paper-colamonaco26a)
 - <a id="dhar26a-modules"></a>[Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?](../../conferences/icml-2026/cards/0801-0900.md#paper-dhar26a)
 - <a id="dong26i-modules"></a>[PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors](../../conferences/icml-2026/cards/0901-1000.md#paper-dong26i)
-- <a id="duan26a-modules"></a>[MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](../../conferences/icml-2026/cards/0901-1000.md#paper-duan26a)
 - <a id="guo26ad-modules"></a>[WildActor: Unconstrained Identity-Preserving Video Generation](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ad)
 - <a id="hadji26a-modules"></a>[Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](../../conferences/icml-2026/cards/1401-1500.md#paper-hadji26a)
 - <a id="han26ab-modules"></a>[Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization](../../conferences/icml-2026/cards/1401-1500.md#paper-han26ab)

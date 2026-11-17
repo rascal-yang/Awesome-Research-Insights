@@ -245,7 +245,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 244	bazzi26a	Physics-Informed Coarsening for Multigrid Graph Neural Surrogates	https://proceedings.mlr.press/v306/bazzi26a.html	用物理残差活动选粗层节点，使多重网格图代理优先保留应力集中区域，可替换只按距离均匀选点。	written
 245	bechavod26a	Stronger Benchmarks for Prediction as a Service with Constraints	https://proceedings.mlr.press/v306/bechavod26a.html	在多组相交子序列同时校准效用与约束，给共享预测服务中异质下游决策者统一的风险和遗憾控制。	written
 246	beck26a	Symmetries in PAC-Bayesian Learning	https://proceedings.mlr.press/v306/beck26a.html	用群作用结构改写 PAC-Bayes 后验复杂度，可在变换非紧或训练分布不完全对称时衡量先验所提供的收益。	written
-247	becktepe26a	Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control	https://proceedings.mlr.press/v306/becktepe26a.html	原文 §4.5、图7–8 给出在多个执行器复用二维局部控制器及从窄槽向宽槽迁移的实验，可用对称共享策略降低高维流控训练成本。	written
+247	becktepe26a	Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control	https://proceedings.mlr.press/v306/becktepe26a.html	PDF 第 3–6、9 页 §3.1、§4.1、§5–6。用既有 PICT 求解器统一封装流控环境及 RL 接口，现成 PPO/SAC 和 DPC 作基线。DPC 仅在两个二维子任务演示，未系统改变可微求解机制或验证梯度控制何时有相对优势。	excluded
 248	behmanesh26a	Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication	https://proceedings.mlr.press/v306/behmanesh26a.html	在图对齐时并用高低频编码和近等距函数映射，可同时保留节点辨别线索和全局对应的平滑性。	written
 249	behnia26a	Facts in Stats: Impacts of Pretraining Diversity on Language Model Generalization	https://proceedings.mlr.press/v306/behnia26a.html	独立干预事实位置、序列统计和语境多样性，显示早期训练减速可伴随后期分布外改进，可设计事实学习的可证伪对照。	written
 250	behrouz26a	Memory Caching: RNNs with Growing Memory	https://proceedings.mlr.press/v306/behrouz26a.html	以稀疏检查点缓存循环状态并自适应聚合，可让 RNN 在有限计算下访问远端记忆，同时可按检索任务衡量边界。	written
@@ -306,7 +306,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 305	boduljak26a	VFMF: Dense Forecasting by Generating Vision Foundation Model Features	https://proceedings.mlr.press/v306/boduljak26a.html	在压缩的视觉特征空间生成多个未来，再解码不同空间任务，可复用共享动态模型。	written
 306	boetius26a	Verified SHAP: Provable Bounds for Exact Shapley Values of Neural Networks	https://proceedings.mlr.press/v306/boetius26a.html	以验证器逐块界定边际贡献并自适应分裂，可有界近似神经网络 Shapley 值。	written
 307	bogdanov26a	Statistically Undetectable Backdoors in Deep Neural Networks	https://proceedings.mlr.press/v306/bogdanov26a.html	冻结随机压缩层中近零方向的构造界定了仅审查权重分布时的安全盲区。	written
-308	bohacek26a	Uncovering Competency Gaps in Large Language Models and Their Benchmarks	https://proceedings.mlr.press/v306/bohacek26a.html	按稀疏概念激活分别估计基准覆盖和条件性能，可定位平均分掩盖的能力空白。	written
+308	bohacek26a	Uncovering Competency Gaps in Large Language Models and Their Benchmarks	https://proceedings.mlr.press/v306/bohacek26a.html	PDF 第 3–4、8–9 页 §3、§5.1–5.2。用既有稀疏自编码器特征加权现成基准分数与样本覆盖。报告的概念缺口依赖特征词典和激活题目的难度，作者未校准后者，低分不足以分辨缺该能力还是题目普遍偏难。未验证据此选题或训练带来的改进。	excluded
 309	bohbot26a	Token Sample Complexity of Attention	https://proceedings.mlr.press/v306/bohbot26a.html	基于经验测度的注意力误差界可诊断查询范围和温度如何影响 token 需求。	written
 310	bohde26a	FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time	https://proceedings.mlr.press/v306/bohde26a.html	把预测碎片谱的不匹配归因回候选 token，再局部掩码去噪，可用于间接观测约束下的结构生成。	written
 311	bollini26a	Learning in Bayesian Stackelberg Games With Unknown Follower’s Types	https://proceedings.mlr.press/v306/bollini26a.html	把可观测类型下的博弈学习拆成频率估计、响应分区与次优承诺剪枝。	written
@@ -540,7 +540,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 539	chen26bt	BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models	https://proceedings.mlr.press/v306/chen26bt.html	组合有独立系数的二进制位平面形成可变网格，用输出敏感度目标调网格和未量化权重，适应极低比特。	written
 540	chen26bu	Towards Docking-oriented De Novo Ligand Design via Gradient Inversion	https://proceedings.mlr.press/v306/chen26bu.html	把可微对接预测的梯度接入候选采样，使结构生成过程能按目标口袋的对接匹配度更新。	written
 541	chen26bv	DFlash: Block Diffusion for Flash Speculative Decoding	https://proceedings.mlr.press/v306/chen26bv.html	用目标模型多层上下文条件化并行块扩散草稿，以目标模型原有验收机制保持投机解码的目标分布。	written
-542	chen26bw	TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion	https://proceedings.mlr.press/v306/chen26bw.html	以残基超边表示多体口袋关系，并让口袋与候选原子特征双向门控，用于按已有候选匹配高阶局部环境。	written
+542	chen26bw	TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion	https://proceedings.mlr.press/v306/chen26bw.html	PDF 第 3、5–7 页。以 5 Å 残基邻域构造口袋超图已见 PAMol §2.1；剩余主要是原子特征与双向门控注意力的组合，消融未拆出双向性或门控的独立作用。	excluded
 543	chen26bx	Code2Video: A Code-centric Paradigm for Educational Video Creation	https://proceedings.mlr.press/v306/chen26bx.html	将视觉审查中的版式操作量化为画布锚点，再映射回 Manim 坐标改代码，使渲染反馈可用于定位修订（PDF 第 5、8 页）。	written
 544	chen26by	Focus and Dilution: The Multi-stage Learning Process of Attention	https://proceedings.mlr.press/v306/chen26by.html	对训练关键点逐阶段线性化，表明注意力方向的生成、质量重分配和频率学习次序不同，用于解释最终谱的来源。	written
 545	chen26bz	HypoSpace: A Diagnostic Benchmark for Set-Valued Hypothesis Generation under Underdetermination and Sublinear Coverage Bounds	https://proceedings.mlr.press/v306/chen26bz.html	区分有效率和可行集合恢复率，并用头尾概率给出低频解的采样预算，诊断多解推理中高有效率却低覆盖（PDF 第 4 页）。	written
@@ -668,7 +668,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 667	chen26gr	Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions	https://proceedings.mlr.press/v306/chen26gr.html	蒸馏时对齐指令相关视觉区域及生成词元间转移关系，可传递普通下一 token 蒸馏遗漏的跨位置结构。	written
 668	chen26gs	Coarse-Grained Boltzmann Generators	https://proceedings.mlr.press/v306/chen26gs.html	先做平均力匹配学习粗粒化能量，再用流生成构型并重要性修正，可将昂贵精细物理采样替换为可校准的提议分布。	written
 669	chen26gt	Towards Optimal Robustness in Learning-Augmented Paging	https://proceedings.mlr.press/v306/chen26gt.html	对预测辅助驱逐计相对预算，耗尽时回到稳健缓存策略，可兼顾准确预告的收益与错误预告的最坏界。	written
-670	chen26gu	GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment	https://proceedings.mlr.press/v306/chen26gu.html	在本地用拓扑重建补图结构，再按 Fisher 参数重要性限制全局牵引，可让异质图客户端兼顾共享和个性化。	written
+670	chen26gu	GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment	https://proceedings.mlr.press/v306/chen26gu.html	PDF 第 3、5–6、8 页。把联邦 EWC 式 Fisher 对角约束及已知的迹加权聚合接到图门控、图对比训练；消融只检验整块加入后的表现，未与同类曲率正则隔离出新效应。	excluded
 671	chen26gv	Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning	https://proceedings.mlr.press/v306/chen26gv.html	在共享多模态策略中把位置选择与稀疏推理分支交叉反馈，可学会只保留对任务有用的视觉 token。	written
 672	chen26gw	Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets	https://proceedings.mlr.press/v306/chen26gw.html	把嵌入的有效秩和局部同标签率共同用作代理数据质量指标，能识别标签随机化时单看有效秩会反向变化的失败。	written
 673	chen26gx	ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability	https://proceedings.mlr.press/v306/chen26gx.html	用两个受解耦信息瓶颈约束的子图分别解释持续关系和状态转变，可减少时变图解释将两者混为一谈。	written
@@ -908,7 +908,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 907	ding26g	Understanding Private Learning From Feature Perspective	https://proceedings.mlr.press/v306/ding26g.html	将训练权重分解为分类信号、样本噪声、初始化与隐私噪声，用于定位差分隐私训练压制的是有效特征还是记忆。	written
 908	ding26h	CSPLoRA: Confidence-Guided Structural Planning for Low-Rank Adaptation	https://proceedings.mlr.press/v306/ding26h.html	按探测预测不确定性加权 Taylor 层显著性，再投影到秩预算，可将适配结构规划与具体低秩后端拆开。	written
 909	ding26i	TGPO: Efficient Policy Optimization through Sequence Anchor and Information Gating	https://proceedings.mlr.press/v306/ding26i.html	以序列重要性比约束更新，用词元方向一致性和相对漂移决定何处采用局部信号，调节强化训练的信用粒度。	written
-910	ding26j	NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents	https://proceedings.mlr.press/v306/ding26j.html	仓库从零生成中放开交互次数很快饱和，公开测试却显著提高通过率；可用这两种干预分离搜索预算和规格可见性的影响（PDF 第 8–9 页）。	written
+910	ding26j	NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents	https://proceedings.mlr.press/v306/ding26j.html	PDF §3.1、§4.3–4.4（第3–4、6–9页）将现有库的规格、测试和安装依赖装成新任务；工具使用相关性、执行轮数饱和及向代理开放答案验收测试的收益，未建立独立代码生成或可靠诊断机制。	excluded
 911	ding26k	Towards Understanding the Dynamics of Low-Rank Adaptation	https://proceedings.mlr.press/v306/ding26k.html	区分 SGD 的 Gram 缩放与 AdamW 的投影动力，用近等角紧框架初始化稳定低秩适配子空间。	written
 912	ding26l	DMCO: Budget-Aware Co-Optimization of Data Cleaning and AutoML	https://proceedings.mlr.press/v306/ding26l.html	将数据清洗和模型搜索切成预算片，由多臂赌博机边运行边决定下个时间片用于样本清洗还是改配置。	written
 913	ding26m	Learning Self-Correction in Vision–Language Models via Rollout Augmentation	https://proceedings.mlr.press/v306/ding26m.html	从同题已有轨迹重组纠错前后缀，再遮蔽直接答题与修订部分各自的梯度，节省多模态纠错采样。	written
@@ -973,7 +973,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 972	du26i	Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech	https://proceedings.mlr.press/v306/du26i.html	从 TTS 语义残差学稀疏特征，用情绪选择性定位后推拉少量激活，为不改文字的说话情绪控制提供旋钮。	written
 973	du26j	Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression	https://proceedings.mlr.press/v306/du26j.html	把预测与真值的相关性、均值偏差和尺度偏差同时写进组级奖励，用于倾斜目标分布中的多模态连续回归。	written
 974	du26k	$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA	https://proceedings.mlr.press/v306/du26k.html	让文档证据图和子问题依赖图随检索同步演进，可跟踪多跳问答已有证据及仍待寻找的跨模态连接。	written
-975	du26l	ProtocolBench: Which LLM MultiAgent Protocol to Choose?	https://proceedings.mlr.press/v306/du26l.html	先按硬约束过滤代理协议，再用实测延迟或抗故障先验打破平局；在固定流程下比较，能按任务模块选协议（PDF 第 9 页）。	written
+975	du26l	ProtocolBench: Which LLM MultiAgent Protocol to Choose?	https://proceedings.mlr.press/v306/du26l.html	PDF §4.2、§5.1、§6（第5、9页）比较已有协议，路由器以能力表过滤硬条件再用常规偏好、实测延迟排序，并用无状态编码桥接；场景吞吐和恢复时间支持常规按需求选型，未验证新协议或独立调度规则。	excluded
 976	du26m	Escaping Mode Collapse in LLM Generation via Geometric Regulation	https://proceedings.mlr.press/v306/du26m.html	在线估计价值缓存中会自增强的主导低秩方向并做阻尼，降低生成序列重复滑向同一模式的可能。	written
 977	du26n	Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction	https://proceedings.mlr.press/v306/du26n.html	经 ADMM 双变量将历史残差引入扩散净化，并匹配去噪器的输入频谱，提高噪声条件下的数据一致性。	written
 978	du26o	From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters	https://proceedings.mlr.press/v306/du26o.html	以跨环境的类别条件传输重心作不变原型，同时分离环境表征，提高图任务在环境变化时的稳定性。	written
@@ -983,7 +983,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 982	du26s	Feasible Fusion: Constrained Joint Estimation under Structural Non-Overlap	https://proceedings.mlr.press/v306/du26s.html	以观测风险为目标，用正交试验矩限制可行表征和预测器，利用随机试验补结构性缺乏重叠的数据融合。	written
 983	du26t	Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning	https://proceedings.mlr.press/v306/du26t.html	把文本指令模型相对共享基座的权重差平移到语音适配模型，以参数组合获得语音遵循能力。	written
 984	du26u	On the Difficulty of Learning a Meta-network for Training Data Selection	https://proceedings.mlr.press/v306/du26u.html	当样本权重归一化倾向令权重相等时，监测元梯度信噪比并扩大估梯度的批次，诊断元学习数据选择为何难训。	written
-985	duan26a	MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization	https://proceedings.mlr.press/v306/duan26a.html	将多种跨模态卷积分支、通道投影和恒等支路折叠成一个卷积，用于移动融合时保留训练期跨模态交互（PDF 第 4、8 页）。	written
+985	duan26a	MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization	https://proceedings.mlr.press/v306/duan26a.html	PDF §3.2–3.5、§4.6（第4–5、8页）将已有多形状卷积支路、批归一化折叠与平均/最大池化注意力移植到红外—可见光融合；折叠仍是标准线性卷积合并，单基准消融和设备时延未支持额外机制或可迁移新规律。	excluded
 986	duan26b	"""very likely"" Means ""uncertain""? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification"	https://proceedings.mlr.press/v306/duan26b.html	对模型的概率措辞以真实正确率单独校准，再与人类词汇概率曲线比较，避免直接把模型的可能性措辞当成人类置信。	written
 987	duan26c	Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling	https://proceedings.mlr.press/v306/duan26c.html	通过稀疏非负因子将奖励拆成实例级贡献，以减少偏好拟合中的伪相关捷径并暴露可能被利用的因子。	written
 988	duan26d	SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion	https://proceedings.mlr.press/v306/duan26d.html	把反演速度的方向变化与径向变化分开，以球面插值纠正角向轨迹并复用缓存速度，用于可逆图像编辑。	written
@@ -1041,13 +1041,13 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 1040	ezer26a	Stochastic Linear Bandits with Parameter Noise	https://proceedings.mlr.press/v306/ezer26a.html	先选识别方差与参数的探索支持，再按各动作方差加权回归并消除，可在参数噪声不均时利用低噪动作。	written
 1041	ezoe26a	Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation	https://proceedings.mlr.press/v306/ezoe26a.html	把多时点图联合展开做谱嵌入，并按横向或纵向稳定目标选归一化方式，可减少图序列比较的坐标漂移。	written
 1042	ezzerg26a	Robust Bayesian Optimisation with Unbounded Corruptions	https://proceedings.mlr.press/v306/ezzerg26a.html	用带平台的观测权重限制离群点对 GP 的影响，并按污染次数增长率选固定或自适应中心，可维持贝叶斯优化遗憾控制。	written
-1043	fa26a	BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics	https://proceedings.mlr.press/v306/fa26a.html	原文 §6 区分不可读破坏和仍可解析的语义破坏；后者会使流程产出科学无效的文件，可用带语义错误的输入及实际工具轨迹验代理。	written
+1043	fa26a	BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics	https://proceedings.mlr.press/v306/fa26a.html	PDF §4.3、§6、§8（第4–6、7–8页）为既有生物信息流程增设产物评分和常规诱饵、损坏、提示膨胀测试。扰动的每任务每条件仅单次，语法仍有效的损坏可绕过检测是病例复盘，未验证新的诊断或稳健性规律。	excluded
 1044	fabre26a	Understanding Data Temporality Impact on Large Language Models Pre-training	https://proceedings.mlr.press/v306/fabre26a.html	在相同 token 预算下对照时间排序与打乱预训练，发现近期知识峰值会伴随较早知识回落，可将时间课程与遗忘联合评测。	written
 1045	fagan26a	The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning	https://proceedings.mlr.press/v306/fagan26a.html	在可验证数学任务中填补成功率两极之间的难度，并以复合替换增大可行动步幅，可改善学习信号和探索。	written
 1046	fagnou26a	Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing	https://proceedings.mlr.press/v306/fagnou26a.html	将当前输入到输出的直传和经旧输出的递归传递分开，用连接图路径与拥塞分析记忆，可按组合任务选 token 混合结构。	written
 1047	faizal26a	Local Policies for Graph-Structured Markov Decision Processes	https://proceedings.mlr.press/v306/faizal26a.html	以状态转移的总变差建跨节点影响矩阵，用折扣乘谱半径筛选局部性假设，可决定截断到多少图跳的策略仍可靠。	written
 1048	falahati26a	Curated Synthetic Data Doesn’t Have to Collapse: A Theoretical Study of Generative Retraining with Pluralistic Preferences	https://proceedings.mlr.press/v306/falahati26a.html	用多偏好分布而非单一奖励依次筛选递归生成样本，理论给出分离模式下的占比，可减弱自训练坍缩。	written
-1049	fan26a	NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web	https://proceedings.mlr.press/v306/fan26a.html	§2.2–2.3 以最小视觉证据筛选自足题和必须外查题，§3.4 发现在自足题搜索模型也可能退步，可将该对照用于单测搜索克制。	written
+1049	fan26a	NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web	https://proceedings.mlr.press/v306/fan26a.html	PDF §2.2–2.5、§3.1、§3.4–3.6（第3–7页）贡献是构建多图和外查问答并常规统计集合错漏、排序一致性；使用模型各自原生搜索配置，单图分组差异未隔离搜索动作的因果影响，也未验证新搜索策略。	excluded
 1050	fan26b	Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds	https://proceedings.mlr.press/v306/fan26b.html	对同一记录轨迹按概率换用传感器或估计点云，并用逐图块门控将 3D 当成 2D 修正（§5.2–5.3），可缓和部署时深度源变化。	written
 1051	fan26c	Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation	https://proceedings.mlr.press/v306/fan26c.html	以图结构估人群个体偏好，再依抽样纳入概率稳定重加权，可减小网络样本对高连通成员的隐式福利偏置。	written
 1052	fan26d	ZeroDiff: Zero-Shot Time Series Reconstruction via Informed-Prior Diffusion	https://proceedings.mlr.press/v306/fan26d.html	先用外生变量估目标分布矩并生成先验轨迹，再用这些矩条件化扩散纠偏，可在没有真实目标序列训练时做重建。	written
@@ -1299,256 +1299,256 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 1298	goldshlager26a	A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms	https://proceedings.mlr.press/v306/goldshlager26a.html	把 SNG 写成 sketch-and-project，以平方体积抽样保持同批随机方向的期望可解，按 Hessian 与采样几何分析收敛，再解释 SPRING 动量。	written
 1299	goldwaser26a	Equivalence of Context and Parameter Updates in Modern Transformer Blocks	https://proceedings.mlr.press/v306/goldwaser26a.html	用输入与输出可控性说明何时可精确吸收上下文；先构造 Gemma 计算中的 rank-1 门控/上投影和归一化更新，再逐层对齐中间状态及 logits。	written
 1300	gollapudi26a	Compact Conformal Subgraphs	https://proceedings.mlr.press/v306/gollapudi26a.html	将最小覆盖子图归约为加权超图密度问题，用 LP 舍入控制大小与漏覆盖，并证明与参数化最小割等价，产生嵌套覆盖序列。	written
-1301	gomez26a	Identifying Common Hubs in Multiple Gaussian Graphical Models	https://proceedings.mlr.press/v306/gomez26a.html		written
-1302	goncalves26a	AdaSplash-2: Faster Differentiable Sparse Attention	https://proceedings.mlr.press/v306/goncalves26a.html		written
-1303	gong26a	VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics	https://proceedings.mlr.press/v306/gong26a.html		written
-1304	gong26b	Twins: Learn to Predict Unified Representations with Focal Loss	https://proceedings.mlr.press/v306/gong26b.html		written
-1305	gong26c	Scaling Transformers for End-to-End Discrete Audio Tokenization	https://proceedings.mlr.press/v306/gong26c.html		written
-1306	gong26d	Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models	https://proceedings.mlr.press/v306/gong26d.html		written
-1307	gong26e	LLM-Guided Loop Bound Generation for Program Termination Verification	https://proceedings.mlr.press/v306/gong26e.html		written
-1308	gong26f	Direct 3D-Aware Object Insertion via Decomposed Visual Proxies	https://proceedings.mlr.press/v306/gong26f.html		written
-1309	gong26g	EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs	https://proceedings.mlr.press/v306/gong26g.html		written
-1310	gong26h	D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output Rewriting	https://proceedings.mlr.press/v306/gong26h.html		written
-1311	gong26i	The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations	https://proceedings.mlr.press/v306/gong26i.html		written
-1312	gong26j	Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement	https://proceedings.mlr.press/v306/gong26j.html		written
-1313	gonzalez26a	QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs	https://proceedings.mlr.press/v306/gonzalez26a.html		written
-1314	gonzalez-ortiz26a	FlashOptim: Optimizers for Memory-Efficient Training	https://proceedings.mlr.press/v306/gonzalez-ortiz26a.html		written
-1315	gopalakrishnan26a	"Decoupling The ""What"" and ""Where"" With Polar Coordinate Positional Embedding"	https://proceedings.mlr.press/v306/gopalakrishnan26a.html		written
-1316	gorbatovski26a	The Differences Between Direct Alignment Algorithms are a Blur	https://proceedings.mlr.press/v306/gorbatovski26a.html		written
-1317	gordon26a	Towards Spectroscopy: Susceptibility Clusters in Language Models	https://proceedings.mlr.press/v306/gordon26a.html		written
-1318	gordon26b	LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs	https://proceedings.mlr.press/v306/gordon26b.html		written
-1319	gorishniy26a	TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning	https://proceedings.mlr.press/v306/gorishniy26a.html		written
-1320	gorla26a	The Illusion of Generalization in Tabular Language Models	https://proceedings.mlr.press/v306/gorla26a.html		written
-1321	gosch26a	Certifying Graph Neural Networks Against Label and Structure Poisoning	https://proceedings.mlr.press/v306/gosch26a.html		written
-1322	gotz26a	Byte Pair Encoding for Efficient Time Series Forecasting	https://proceedings.mlr.press/v306/gotz26a.html		written
-1323	goudet26a	Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning	https://proceedings.mlr.press/v306/goudet26a.html		written
-1324	gourevitch26a	Categorical Reparameterization with Denoising Diffusion Models	https://proceedings.mlr.press/v306/gourevitch26a.html		written
-1325	goyal26a	Contextual Slate GLM Bandits with Limited Adaptivity	https://proceedings.mlr.press/v306/goyal26a.html		written
-1326	graf26a	FlowState: Sampling-Rate-Equivariant Time-Series Forecasting	https://proceedings.mlr.press/v306/graf26a.html		written
-1327	granziol26a	Safety-Efficacy Trade Off: Robustness against Data-Poisoning	https://proceedings.mlr.press/v306/granziol26a.html		written
-1328	gravier26a	Multi-marginal temporal Schrödinger Bridge Matching from unpaired data	https://proceedings.mlr.press/v306/gravier26a.html		written
-1329	grebe26a	GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows	https://proceedings.mlr.press/v306/grebe26a.html		written
-1330	grivas26a	Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits	https://proceedings.mlr.press/v306/grivas26a.html		written
-1331	grivol26a	Approximating Drift-Diffusion Models for User Decisions under Nudging and External Information	https://proceedings.mlr.press/v306/grivol26a.html		written
-1332	groger26a	Revisiting the Platonic Representation Hypothesis: An Aristotelian View	https://proceedings.mlr.press/v306/groger26a.html		written
-1333	gronich26a	The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks	https://proceedings.mlr.press/v306/gronich26a.html		written
-1334	gronlund26a	An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems	https://proceedings.mlr.press/v306/gronlund26a.html		written
-1335	grover26a	Feedback Control for Multi-Objective Graph Self-Supervision	https://proceedings.mlr.press/v306/grover26a.html		written
-1336	grover26b	Text Has Curvature	https://proceedings.mlr.press/v306/grover26b.html		written
-1337	gruhlke26a	Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling	https://proceedings.mlr.press/v306/gruhlke26a.html		written
-1338	gu26a	SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace	https://proceedings.mlr.press/v306/gu26a.html		written
-1339	gu26b	CSG: Cognitive Structure Generation for Intelligent Education	https://proceedings.mlr.press/v306/gu26b.html		written
-1340	gu26c	TileQ: Efficient Low-Rank Quantization of Mixture-of-Experts with 2D Tiling	https://proceedings.mlr.press/v306/gu26c.html		written
-1341	gu26d	Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion	https://proceedings.mlr.press/v306/gu26d.html		written
-1342	gu26e	Mirror Mean-Field Langevin Dynamics	https://proceedings.mlr.press/v306/gu26e.html		written
-1343	gu26f	Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models	https://proceedings.mlr.press/v306/gu26f.html		written
-1344	gu26g	What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?	https://proceedings.mlr.press/v306/gu26g.html		written
-1345	gu26h	OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference	https://proceedings.mlr.press/v306/gu26h.html		written
-1346	gu26i	Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation	https://proceedings.mlr.press/v306/gu26i.html		written
-1347	gu26j	Precision-Induced Miscalibration: Understanding and Correcting Confidence Distortion in Quantized Neural Networks	https://proceedings.mlr.press/v306/gu26j.html		written
-1348	gu26k	Detecting the Semantic Fixed Point: A Geometric Framework for Efficient Inference	https://proceedings.mlr.press/v306/gu26k.html		written
-1349	gu26l	Anytime-Valid Inference for Online Ranking of Large Language Models	https://proceedings.mlr.press/v306/gu26l.html		written
-1350	gu26m	R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations	https://proceedings.mlr.press/v306/gu26m.html		written
-1351	gu26n	Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning	https://proceedings.mlr.press/v306/gu26n.html		written
-1352	gu26o	From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models	https://proceedings.mlr.press/v306/gu26o.html		written
-1353	gu26p	Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data	https://proceedings.mlr.press/v306/gu26p.html		written
-1354	gu26q	Ekka: Automated Diagnosis of Silent Errors in LLM Inference	https://proceedings.mlr.press/v306/gu26q.html		written
-1355	gu26r	What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions	https://proceedings.mlr.press/v306/gu26r.html		written
-1356	guan26a	A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots	https://proceedings.mlr.press/v306/guan26a.html		written
-1357	guan26b	VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems	https://proceedings.mlr.press/v306/guan26b.html		written
-1358	guan26c	From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations	https://proceedings.mlr.press/v306/guan26c.html		written
-1359	guan26d	TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation	https://proceedings.mlr.press/v306/guan26d.html		written
-1360	guan26e	TimeOmni-VL: Unified Models for Time Series Understanding and Generation	https://proceedings.mlr.press/v306/guan26e.html		written
-1361	guan26f	LIMMT: Less Is More for Motion Tracking	https://proceedings.mlr.press/v306/guan26f.html		written
-1362	guan26g	Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation	https://proceedings.mlr.press/v306/guan26g.html		written
-1363	guan26h	Monitoring Monitorability	https://proceedings.mlr.press/v306/guan26h.html		written
-1364	guan26i	MOC: Multi-Order Communication in LLM-based Multi-Agent Systems	https://proceedings.mlr.press/v306/guan26i.html		written
-1365	guan26j	Federated Multi-view Clustering for Remote Sensing Data	https://proceedings.mlr.press/v306/guan26j.html		written
-1366	guan26k	On the Coordination of Value-Maximizing Bidders	https://proceedings.mlr.press/v306/guan26k.html		written
-1367	guang26a	ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models	https://proceedings.mlr.press/v306/guang26a.html		written
-1368	gui26a	Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization	https://proceedings.mlr.press/v306/gui26a.html		written
-1369	guillen26a	Finite-Width Neural Tangent Kernels from Feynman Diagrams	https://proceedings.mlr.press/v306/guillen26a.html		written
-1370	gul26a	MASH: Modeling Abstention via Selective Help-Seeking	https://proceedings.mlr.press/v306/gul26a.html		written
-1371	gungordu26a	PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs	https://proceedings.mlr.press/v306/gungordu26a.html		written
-1372	guo26a	SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model	https://proceedings.mlr.press/v306/guo26a.html		written
-1373	guo26b	Dynamic Thinking-Token Selection for Efficient Reasoning in Large Reasoning Models	https://proceedings.mlr.press/v306/guo26b.html		written
-1374	guo26c	MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects	https://proceedings.mlr.press/v306/guo26c.html		written
-1375	guo26d	Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series	https://proceedings.mlr.press/v306/guo26d.html		written
-1376	guo26e	Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models	https://proceedings.mlr.press/v306/guo26e.html		written
-1377	guo26f	PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent	https://proceedings.mlr.press/v306/guo26f.html		written
-1378	guo26g	Constrained Bayesian Experimental Design via Online Planning	https://proceedings.mlr.press/v306/guo26g.html		written
-1379	guo26h	Probabilistic Salient Object Ranking	https://proceedings.mlr.press/v306/guo26h.html		written
-1380	guo26i	VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model	https://proceedings.mlr.press/v306/guo26i.html		written
-1381	guo26j	Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing	https://proceedings.mlr.press/v306/guo26j.html		written
-1382	guo26k	Are Your Agents Upward Deceivers?	https://proceedings.mlr.press/v306/guo26k.html		written
-1383	guo26l	Reflex: Real-Time Vision-Language-Action Control through Streaming Inference	https://proceedings.mlr.press/v306/guo26l.html		written
-1384	guo26m	FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology	https://proceedings.mlr.press/v306/guo26m.html		written
-1385	guo26n	Axiomatic Atlas: A Prescriptive Framework for Neural Architecture Design	https://proceedings.mlr.press/v306/guo26n.html		written
-1386	guo26o	BlueCodeAgent: A Blue Teaming Agent Powered by Automated Red Teaming for CodeGen AI	https://proceedings.mlr.press/v306/guo26o.html		written
-1387	guo26p	CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation	https://proceedings.mlr.press/v306/guo26p.html		written
-1388	guo26q	CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models	https://proceedings.mlr.press/v306/guo26q.html		written
-1389	guo26r	RAD: Retrieval High-quality Demonstrations to Enhance Decision-making	https://proceedings.mlr.press/v306/guo26r.html		written
-1390	guo26s	Sample Margin-Aware Recalibration of Temperature Scaling	https://proceedings.mlr.press/v306/guo26s.html		written
-1391	guo26t	GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs	https://proceedings.mlr.press/v306/guo26t.html		written
-1392	guo26u	Explanations are a Means to an End: Decision Theoretic Explanation Evaluation	https://proceedings.mlr.press/v306/guo26u.html		written
-1393	guo26v	Learning to Route Languages for Multilingual Policy Optimization	https://proceedings.mlr.press/v306/guo26v.html		written
-1394	guo26w	On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective	https://proceedings.mlr.press/v306/guo26w.html		written
-1395	guo26x	No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval	https://proceedings.mlr.press/v306/guo26x.html		written
-1396	guo26y	Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations	https://proceedings.mlr.press/v306/guo26y.html		written
-1397	guo26z	DRPBench: Evaluating LLMs in Concurrent Code Comprehension via Fine-Grained Data Race Prediction	https://proceedings.mlr.press/v306/guo26z.html		written
-1398	guo26aa	MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering	https://proceedings.mlr.press/v306/guo26aa.html		written
-1399	guo26ab	The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary	https://proceedings.mlr.press/v306/guo26ab.html		written
-1400	guo26ac	X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks	https://proceedings.mlr.press/v306/guo26ac.html		written
-1401	guo26ad	WildActor: Unconstrained Identity-Preserving Video Generation	https://proceedings.mlr.press/v306/guo26ad.html		written
-1402	guo26ae	CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving	https://proceedings.mlr.press/v306/guo26ae.html		written
-1403	guo26af	DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation	https://proceedings.mlr.press/v306/guo26af.html		written
-1404	guo26ag	OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild	https://proceedings.mlr.press/v306/guo26ag.html		written
-1405	guo26ah	BizFinBench.v2: Towards Reliable LLMs in Finance via Real-User Data and Offline/Online Bilingual Evaluation	https://proceedings.mlr.press/v306/guo26ah.html		written
-1406	guo26ai	Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer	https://proceedings.mlr.press/v306/guo26ai.html		written
-1407	guo26aj	ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning	https://proceedings.mlr.press/v306/guo26aj.html		written
-1408	guo26ak	SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning	https://proceedings.mlr.press/v306/guo26ak.html		written
-1409	guo26al	Discrete Adjoint Schrödinger Bridge Sampler	https://proceedings.mlr.press/v306/guo26al.html		written
-1410	guo26am	Adaptive Code Watermarking Through Reinforcement Learning	https://proceedings.mlr.press/v306/guo26am.html		written
-1411	guo26an	Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion	https://proceedings.mlr.press/v306/guo26an.html		written
-1412	guoze26a	Geometry-Aware Neural Optimizer for Shape Optimization and Inversion	https://proceedings.mlr.press/v306/guoze26a.html		written
-1413	gupta26a	Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models	https://proceedings.mlr.press/v306/gupta26a.html		written
-1414	gupta26b	Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening	https://proceedings.mlr.press/v306/gupta26b.html		written
-1415	gupta26c	Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency	https://proceedings.mlr.press/v306/gupta26c.html		written
-1416	gurbuz26a	ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision	https://proceedings.mlr.press/v306/gurbuz26a.html		written
-1417	gurvan26a	FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences	https://proceedings.mlr.press/v306/gurvan26a.html		written
-1418	gushchin26a	BiRQA: Bidirectional Robust Quality Assessment for Images	https://proceedings.mlr.press/v306/gushchin26a.html		written
-1419	gutjahr26a	Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design	https://proceedings.mlr.press/v306/gutjahr26a.html		written
-1420	gyenes26a	Fourier Features Let Agents Learn High Precision Policies with Imitation Learning	https://proceedings.mlr.press/v306/gyenes26a.html		written
-1421	h-zargarbashi26a	Front-Loaded Robust Conformal Prediction: Heavy Calibration, Minimal Test-Time Cost	https://proceedings.mlr.press/v306/h-zargarbashi26a.html		written
-1422	ha26a	Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate	https://proceedings.mlr.press/v306/ha26a.html		written
-1423	ha26b	Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack	https://proceedings.mlr.press/v306/ha26b.html		written
-1424	haas26a	Why Deep Jacobian Spectra Separate: Depth-Induced Scaling and Singular-Vector Alignment	https://proceedings.mlr.press/v306/haas26a.html		written
-1425	habashy26a	Geodesic Flow Matching for Denoising High-Dimensional Structured Representations	https://proceedings.mlr.press/v306/habashy26a.html		written
-1426	habib26a	GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data	https://proceedings.mlr.press/v306/habib26a.html		written
-1427	habring26a	Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions	https://proceedings.mlr.press/v306/habring26a.html		written
-1428	haddadnia26a	Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space	https://proceedings.mlr.press/v306/haddadnia26a.html		written
-1429	hadji26a	Hierarchical Image Tokenization for Multi-Scale Image Super Resolution	https://proceedings.mlr.press/v306/hadji26a.html		written
-1430	hagag26a	Architecture Matters for Multi-Agent Security	https://proceedings.mlr.press/v306/hagag26a.html		written
-1431	haghighat26a	Formalizing and Falsifying Causal Pathways of Rare Events	https://proceedings.mlr.press/v306/haghighat26a.html		written
-1432	haghtalab26a	Pluralistic Leaderboards	https://proceedings.mlr.press/v306/haghtalab26a.html		written
-1433	hagnberger26a	SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model	https://proceedings.mlr.press/v306/hagnberger26a.html		written
-1434	hahm26a	Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases	https://proceedings.mlr.press/v306/hahm26a.html		written
-1435	hai26a	Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models	https://proceedings.mlr.press/v306/hai26a.html		written
-1436	halbey26a	Lower Bounds for Frank-Wolfe on Strongly Convex Sets	https://proceedings.mlr.press/v306/halbey26a.html		written
-1437	halder26a	Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling	https://proceedings.mlr.press/v306/halder26a.html		written
-1438	ham26a	Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models	https://proceedings.mlr.press/v306/ham26a.html		written
-1439	han26a	Maximin Relative Improvement: Fair Learning as a Bargaining Problem	https://proceedings.mlr.press/v306/han26a.html		written
-1440	han26b	Weight Decay Improves Language Model Plasticity	https://proceedings.mlr.press/v306/han26b.html		written
-1441	han26c	Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction	https://proceedings.mlr.press/v306/han26c.html		written
-1442	han26d	TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting	https://proceedings.mlr.press/v306/han26d.html		written
-1443	han26e	Revealing Long-context Potential of Attention Heads via Frequency Kernels	https://proceedings.mlr.press/v306/han26e.html		written
-1444	han26f	Learning Permutation-invariant Macroscopic Dynamics	https://proceedings.mlr.press/v306/han26f.html		written
-1445	han26g	Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials	https://proceedings.mlr.press/v306/han26g.html		written
-1446	han26h	EGG: An Expert-Guided Agent Framework for Kernel Generation	https://proceedings.mlr.press/v306/han26h.html		written
-1447	han26i	Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment	https://proceedings.mlr.press/v306/han26i.html		written
-1448	han26j	Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM	https://proceedings.mlr.press/v306/han26j.html		written
-1449	han26k	PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding	https://proceedings.mlr.press/v306/han26k.html		written
-1450	han26l	Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them	https://proceedings.mlr.press/v306/han26l.html		written
-1451	han26m	DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation	https://proceedings.mlr.press/v306/han26m.html		written
-1452	han26n	The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs	https://proceedings.mlr.press/v306/han26n.html		written
-1453	han26o	ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models	https://proceedings.mlr.press/v306/han26o.html		written
-1454	han26p	Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster	https://proceedings.mlr.press/v306/han26p.html		written
-1455	han26q	Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in Large Language Models	https://proceedings.mlr.press/v306/han26q.html		written
-1456	han26r	MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints	https://proceedings.mlr.press/v306/han26r.html		written
-1457	han26s	ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind	https://proceedings.mlr.press/v306/han26s.html		written
-1458	han26t	GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning	https://proceedings.mlr.press/v306/han26t.html		written
-1459	han26u	MusicDET: Zero-Shot AI-Generated Music Detection	https://proceedings.mlr.press/v306/han26u.html		written
-1460	han26v	Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting	https://proceedings.mlr.press/v306/han26v.html		written
-1461	han26w	Optimal Pricing for Data-Augmented AutoML Marketplaces	https://proceedings.mlr.press/v306/han26w.html		written
-1462	han26x	$\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers	https://proceedings.mlr.press/v306/han26x.html		written
-1463	han26y	Veda: Scalable Video Diffusion via Distilled Sparse Attention	https://proceedings.mlr.press/v306/han26y.html		written
-1464	han26z	Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator	https://proceedings.mlr.press/v306/han26z.html		written
-1465	han26aa	Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport	https://proceedings.mlr.press/v306/han26aa.html		written
-1466	han26ab	Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization	https://proceedings.mlr.press/v306/han26ab.html		written
-1467	han26ac	Omni-Perception Policy Optimization for Multimodal Emotion Reasoning	https://proceedings.mlr.press/v306/han26ac.html		written
-1468	handke26a	The Entropic Signature of Class Speciation in Diffusion Models	https://proceedings.mlr.press/v306/handke26a.html		written
-1469	hanneke26a	Language Generation with Feedback: Queries and Mistakes	https://proceedings.mlr.press/v306/hanneke26a.html		written
-1470	hanneke26b	Universal Multiclass Transductive Online Learning	https://proceedings.mlr.press/v306/hanneke26b.html		written
-1471	hanneke26c	When More Data Doesn’t Help: Limits of Adaptation in Multitask Learning	https://proceedings.mlr.press/v306/hanneke26c.html		written
-1472	hansen-estruch26a	ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters	https://proceedings.mlr.press/v306/hansen-estruch26a.html		written
-1473	hao26a	SlideSparse: Fast and Flexible (2N-2):2N Structured Sparsity	https://proceedings.mlr.press/v306/hao26a.html		written
-1474	hao26b	BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining	https://proceedings.mlr.press/v306/hao26b.html		written
-1475	hao26c	RACER: Risk-Aware Calibrated Efficient Routing for Large Language Models	https://proceedings.mlr.press/v306/hao26c.html		written
-1476	hao26d	Hyperbolic Associative Memory Networks	https://proceedings.mlr.press/v306/hao26d.html		written
-1477	hardy26a	AI Cartography: Mapping the Latent Landscape of AI Benchmark Ecosystems	https://proceedings.mlr.press/v306/hardy26a.html		written
-1478	harker26a	On the Optimization Trajectory of DeepWalk Embeddings	https://proceedings.mlr.press/v306/harker26a.html		written
-1479	hartman26a	Skip-It? Theoretical Conditions for Layer Skipping in Vision–Language Models	https://proceedings.mlr.press/v306/hartman26a.html		written
-1480	hartwig26a	Geodesic Calculus on Implicitly Defined Latent Manifolds	https://proceedings.mlr.press/v306/hartwig26a.html		written
-1481	harvey26a	Unsupervised Hierarchical Skill Discovery	https://proceedings.mlr.press/v306/harvey26a.html		written
-1482	harviainen26a	Exact and Approximate Algorithms for Polytree Learning	https://proceedings.mlr.press/v306/harviainen26a.html		written
-1483	hasanebrahimi26a	Density-Aware Translation of Spurious Correlations in Zero-Shot VLMs	https://proceedings.mlr.press/v306/hasanebrahimi26a.html		written
-1484	hasny26a	No Data? No Problem: Robust Vision-Tabular Learning with Missing Values	https://proceedings.mlr.press/v306/hasny26a.html		written
-1485	hassen26a	Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization	https://proceedings.mlr.press/v306/hassen26a.html		written
-1486	hastedt26a	From Feasible to Practical: Pareto-Optimal Synthesis Planning	https://proceedings.mlr.press/v306/hastedt26a.html		written
-1487	hata26a	Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning	https://proceedings.mlr.press/v306/hata26a.html		written
-1488	hauzenberger26a	Effective Distillation to Hybrid xLSTM Architectures	https://proceedings.mlr.press/v306/hauzenberger26a.html		written
-1489	havens26a	Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes	https://proceedings.mlr.press/v306/havens26a.html		written
-1490	hawkins26a	The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning	https://proceedings.mlr.press/v306/hawkins26a.html		written
-1491	haxholli26a	Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching	https://proceedings.mlr.press/v306/haxholli26a.html		written
-1492	hayase26a	Sampling from Your Language Model One Byte at a Time	https://proceedings.mlr.press/v306/hayase26a.html		written
-1493	hays26a	Strategic Candidacy in Generative AI Arenas	https://proceedings.mlr.press/v306/hays26a.html		written
-1494	he26a	OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability	https://proceedings.mlr.press/v306/he26a.html		written
-1495	he26b	Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning	https://proceedings.mlr.press/v306/he26b.html		written
-1496	he26c	VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding	https://proceedings.mlr.press/v306/he26c.html		written
-1497	he26d	PGS: Effective LLM Code Refinement via Property-Oriented and Structurally Minimal Feedback	https://proceedings.mlr.press/v306/he26d.html		written
-1498	he26e	DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models	https://proceedings.mlr.press/v306/he26e.html		written
-1499	he26f	Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning	https://proceedings.mlr.press/v306/he26f.html		written
-1500	he26g	Self-Prophetic Decoding to Unlock Visual Search in LVLMs	https://proceedings.mlr.press/v306/he26g.html		written
-1501	he26h	Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter	https://proceedings.mlr.press/v306/he26h.html		written
-1502	he26i	Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents	https://proceedings.mlr.press/v306/he26i.html		written
-1503	he26j	Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization	https://proceedings.mlr.press/v306/he26j.html		written
-1504	he26k	Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model	https://proceedings.mlr.press/v306/he26k.html		written
-1505	he26l	Structure-Centric Graph Foundation Model via Geometric Bases	https://proceedings.mlr.press/v306/he26l.html		written
-1506	he26m	Navigating the Flatlands: Dual Adaptive Sharpness-Aware Minimization for Domain Generalization	https://proceedings.mlr.press/v306/he26m.html		written
-1507	he26n	Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification	https://proceedings.mlr.press/v306/he26n.html		written
-1508	he26o	Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration	https://proceedings.mlr.press/v306/he26o.html		written
-1509	he26p	FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping	https://proceedings.mlr.press/v306/he26p.html		written
-1510	he26q	The Accumulation of Score Estimation Error in Diffusion Models	https://proceedings.mlr.press/v306/he26q.html		written
-1511	he26r	Efficient Multi-round LLM Inference over Disaggregated Serving	https://proceedings.mlr.press/v306/he26r.html		written
-1512	he26s	DSGCR: Decomposed Spectral Geometry-Aware Cross-Modal Semantic Representation for 3D Visual Grounding	https://proceedings.mlr.press/v306/he26s.html		written
-1513	he26t	Approximation Error Upper and Lower Bounds for Hölder Class with Transformers	https://proceedings.mlr.press/v306/he26t.html		written
-1514	he26u	Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games	https://proceedings.mlr.press/v306/he26u.html		written
-1515	he26v	HyMTRL: A Hybrid Multi-Task Reinforcement Learning Framework via Phased Policy Evolution	https://proceedings.mlr.press/v306/he26v.html		written
-1516	he26w	Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs	https://proceedings.mlr.press/v306/he26w.html		written
-1517	he26x	Can LLMs Reason Structurally? Benchmarking via the lens of Data Structures	https://proceedings.mlr.press/v306/he26x.html		written
-1518	he26y	SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?	https://proceedings.mlr.press/v306/he26y.html		written
-1519	he26z	LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection	https://proceedings.mlr.press/v306/he26z.html		written
-1520	he26aa	Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning	https://proceedings.mlr.press/v306/he26aa.html		written
-1521	he26ab	Understand and Accelerate Memory Processing Pipeline for Large Language Model Inference	https://proceedings.mlr.press/v306/he26ab.html		written
-1522	he26ac	DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models	https://proceedings.mlr.press/v306/he26ac.html		written
-1523	he26ad	Newton-coupled Dual-Teacher Semi-supervised Learning Framework	https://proceedings.mlr.press/v306/he26ad.html		written
-1524	he26ae	Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation	https://proceedings.mlr.press/v306/he26ae.html		written
-1525	he26af	GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks	https://proceedings.mlr.press/v306/he26af.html		written
-1526	he26ag	Demystifying When Pruning Works via Representation Hierarchies	https://proceedings.mlr.press/v306/he26ag.html		written
-1527	he26ah	Sequential Kernel-based Conditional Independence Testing via Adaptive Betting	https://proceedings.mlr.press/v306/he26ah.html		written
-1528	he26ai	Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models	https://proceedings.mlr.press/v306/he26ai.html		written
-1529	he26aj	Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization	https://proceedings.mlr.press/v306/he26aj.html		written
-1530	he26ak	One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs	https://proceedings.mlr.press/v306/he26ak.html		written
-1531	he26al	CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal	https://proceedings.mlr.press/v306/he26al.html		written
-1532	he26am	Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks	https://proceedings.mlr.press/v306/he26am.html		written
-1533	he26an	Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration	https://proceedings.mlr.press/v306/he26an.html		written
-1534	he26ao	Motion Dynamics Learning for Few-Shot Embodied Adaptation	https://proceedings.mlr.press/v306/he26ao.html		written
-1535	he26ap	RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback	https://proceedings.mlr.press/v306/he26ap.html		written
-1536	he26aq	FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy	https://proceedings.mlr.press/v306/he26aq.html		written
-1537	he26ar	On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility	https://proceedings.mlr.press/v306/he26ar.html		written
-1538	he26as	ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education	https://proceedings.mlr.press/v306/he26as.html		written
-1539	he26at	A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs	https://proceedings.mlr.press/v306/he26at.html		written
-1540	he26au	From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping	https://proceedings.mlr.press/v306/he26au.html		written
-1541	he26av	RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation	https://proceedings.mlr.press/v306/he26av.html		written
-1542	he26aw	Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion	https://proceedings.mlr.press/v306/he26aw.html		written
-1543	he26ax	Learning Permutation Distributions via Reflected Diffusion on Ranks	https://proceedings.mlr.press/v306/he26ax.html		written
-1544	he26ay	MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition	https://proceedings.mlr.press/v306/he26ay.html		written
-1545	he26az	A Flat Vocabulary or a Rich Hierarchy? Re-introducing Intrinsic Structure Transforms the Autoregressive Image Generation	https://proceedings.mlr.press/v306/he26az.html		written
-1546	he26ba	IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning	https://proceedings.mlr.press/v306/he26ba.html		written
-1547	he26bb	Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search	https://proceedings.mlr.press/v306/he26bb.html		written
-1548	heald26a	Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands	https://proceedings.mlr.press/v306/heald26a.html		written
-1549	heck26a	SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly	https://proceedings.mlr.press/v306/heck26a.html		written
-1550	heckel26a	Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards	https://proceedings.mlr.press/v306/heckel26a.html		written
+1301	gomez26a	Identifying Common Hubs in Multiple Gaussian Graphical Models	https://proceedings.mlr.press/v306/gomez26a.html	直接估跨群体的极值共享子空间，用投影对角值筛共同枢纽，省去估计各群体完整条件图。	written
+1302	goncalves26a	AdaSplash-2: Faster Differentiable Sparse Attention	https://proceedings.mlr.press/v306/goncalves26a.html	在片上为注意分数建分块直方图，用近似阈值热启精确迭代，再让内核跳过全零块，减少可微稀疏注意力开销。	written
+1303	gong26a	VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics	https://proceedings.mlr.press/v306/gong26a.html	在相同手机任务上改变指令、主题和布局，要求所有版本均成功；平板布局造成最大降幅，可隔离坐标和界面捷径（PDF 第 8 页）。	written
+1304	gong26b	Twins: Learn to Predict Unified Representations with Focal Loss	https://proceedings.mlr.press/v306/gong26b.html	把语义表征和重建潜变量沿通道拼接以保持词元长度，再用误差加权弥补难拟合的像素通道。	written
+1305	gong26c	Scaling Transformers for End-to-End Discrete Audio Tokenization	https://proceedings.mlr.press/v306/gong26c.html	在端到端音频量化器中同时调骨干参数和量化深度；固定量化器的实验表明低码率会遮蔽扩大模型的收益（PDF 第 8–9 页）。	written
+1306	gong26d	Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models	https://proceedings.mlr.press/v306/gong26d.html	黑箱提示搜索初期模仿可用参考，后期逐步释放该约束并增加创新奖励，减少早期探索无效及后期固化。	written
+1307	gong26e	LLM-Guided Loop Bound Generation for Program Termination Verification	https://proceedings.mlr.press/v306/gong26e.html	先生成符号循环上界，把终止转成验证义务，再按反例区分上界不成立还是不变量不够，定向修复证明。	written
+1308	gong26f	Direct 3D-Aware Object Insertion via Decomposed Visual Proxies	https://proceedings.mlr.press/v306/gong26f.html	把可调三维代理的几何、对象参考外观与目标画面分开输入扩散修复器，让几何定位和外观保真可独立控制。	written
+1309	gong26g	EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs	https://proceedings.mlr.press/v306/gong26g.html	对音视频词元联合竞争预算，并按稀疏保留间距限制旋转位置高频相位，减少压缩后的时序混叠。	written
+1310	gong26h	D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output Rewriting	https://proceedings.mlr.press/v306/gong26h.html	以等义但裁判评分不同的回答对训练输出改写器，切断多轮越狱中攻击方从语义无关的反馈学习的路径。	written
+1311	gong26i	The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations	https://proceedings.mlr.press/v306/gong26i.html	按免费观测预算在探索方案间切换，并以加权平方损失预言机估计付费反馈下的上下文动作价值。	written
+1312	gong26j	Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement	https://proceedings.mlr.press/v306/gong26j.html	用平面辐照图监督亮度色彩、方向场监督入射角，再以物理光源参数条件化残差生成，使补光强度及方向可控（PDF 第 7–8 页）。	written
+1313	gonzalez26a	QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs	https://proceedings.mlr.press/v306/gonzalez26a.html	同一裁判换课程约束量表后相关反降 0.02，可用专家原则和课程规则做对照，检验模型内部先验压过明确评分限制（PDF 第 8 页）。	written
+1314	gonzalez-ortiz26a	FlashOptim: Optimizers for Memory-Efficient Training	https://proceedings.mlr.press/v306/gonzalez-ortiz26a.html	把主权重按位拆分并对优化器状态施压扩量化，降低低精度存储误差，同时保留既有优化器调用。	written
+1315	gopalakrishnan26a	"Decoupling The ""What"" and ""Where"" With Polar Coordinate Positional Embedding"	https://proceedings.mlr.press/v306/gopalakrishnan26a.html	把内容放进非负复幅值、相对位置放进独立相位，减轻位置编码对语义匹配强度的干扰。	written
+1316	gorbatovski26a	The Differences Between Direct Alignment Algorithms are a Blur	https://proceedings.mlr.press/v306/gorbatovski26a.html	统一监督阶段和超参后比较损失，发现逐点或成对形式比赔率或比率打分更能解释直接偏好优化的质量差异。	written
+1317	gordon26a	Towards Spectroscopy: Susceptibility Clusters in Language Models	https://proceedings.mlr.press/v306/gordon26a.html	在模型检查点周围采局部后验，以组件量与损失的协方差把词元聚成敏感簇，定位组件支持的数据区域。	written
+1318	gordon26b	LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs	https://proceedings.mlr.press/v306/gordon26b.html	按块浮点缩放边界学习可逆仿射预变换并折叠入权重，在分块量化前抑制激活分布导致的误差。	written
+1319	gorishniy26a	TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning	https://proceedings.mlr.press/v306/gorishniy26a.html	并行打包不同超参的表格网络训练，再按验证收益逐步选成员，以同批算子计算高效获得调参集成。	written
+1320	gorla26a	The Illusion of Generalization in Tabular Language Models	https://proceedings.mlr.press/v306/gorla26a.html	把四分位题从表格预测总分拆出，核查同任务泄露并设无表格通用微调对照，用于识别格式熟悉伪装出的泛化。	written
+1321	gosch26a	Certifying Graph Neural Networks Against Label and Structure Poisoning	https://proceedings.mlr.press/v306/gosch26a.html	按确定性哈希分区训练图集成，在小分区补伪标签及链路，用投票差距证明结构和标签扰动预算内的稳定性。	written
+1322	gotz26a	Byte Pair Encoding for Efficient Time Series Forecasting	https://proceedings.mlr.press/v306/gotz26a.html	把量化时间序列的常见相邻模式合成可变长词元，预测后再做条件解码，压缩长上下文且部分恢复量化精度。	written
+1323	goudet26a	Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning	https://proceedings.mlr.press/v306/goudet26a.html	随机化候选变量的生成和训练排列，让组合搜索的自回归策略减少对任意变量顺序的依赖。	written
+1324	gourevitch26a	Categorical Reparameterization with Denoising Diffusion Models	https://proceedings.mlr.press/v306/gourevitch26a.html	以类别分布的闭式去噪后验将高斯噪声变成可导软类别，按停止时刻调节离散采样的平滑度。	written
+1325	goyal26a	Contextual Slate GLM Bandits with Limited Adaptivity	https://proceedings.mlr.press/v306/goyal26a.html	按槽设计探索并在信息矩阵显著增长时才更新，控制多选项上下文赌博机的组合枚举和反馈适应次数。	written
+1326	graf26a	FlowState: Sampling-Rate-Equivariant Time-Series Forecasting	https://proceedings.mlr.press/v306/graf26a.html	让状态空间编码接受连续采样间隔，以函数基直接预测连续曲线，用于同一时序模型跨采样率推断。	written
+1327	granziol26a	Safety-Efficacy Trade Off: Robustness against Data-Poisoning	https://proceedings.mlr.press/v306/granziol26a.html	近似复制投毒会沿触发方向形成谱尖峰；以输入方向梯度惩罚压低该方向，检验干净效能和鲁棒性的折衷。	written
+1328	gravier26a	Multi-marginal temporal Schrödinger Bridge Matching from unpaired data	https://proceedings.mlr.press/v306/gravier26a.html	用相邻时间段因子化参考桥，但保留时间网格的联合耦合，使独立观测的时间边缘同时满足动力过程约束。	written
+1329	grebe26a	GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows	https://proceedings.mlr.press/v306/grebe26a.html	在同一速度匹配目标中引入朝安全概念的吸引和远离遗忘概念的排斥，定向改变生成流路径。	written
+1330	grivas26a	Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits	https://proceedings.mlr.press/v306/grivas26a.html	用概率电路建多字节草稿的联合分布，再由原目标核验，让并行草稿利用字节之间的依赖。	written
+1331	grivol26a	Approximating Drift-Diffusion Models for User Decisions under Nudging and External Information	https://proceedings.mlr.press/v306/grivol26a.html	近似单边界首次过阈概率，从响应时窗反推外部证据何时送达最可能影响受助决策。	written
+1332	groger26a	Revisiting the Platonic Representation Hypothesis: An Aristotelian View	https://proceedings.mlr.press/v306/groger26a.html	用置换零基准校准跨层宽度造成的相似度抬高；谱相似下降而邻域一致仍存在，支持区分全局与局部效应。	written
+1333	gronich26a	The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks	https://proceedings.mlr.press/v306/gronich26a.html	把不同动量预条件器对应到不同范数的最陡下降，推断齐次网络在训练中的隐式间隔偏向。	written
+1334	gronlund26a	An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems	https://proceedings.mlr.press/v306/gronlund26a.html	将量子游走的黑盒区分难度归约到线性系统估计，判定何时采样查询访问本身仍不足以模仿量子求解。	written
+1335	grover26a	Feedback Control for Multi-Objective Graph Self-Supervision	https://proceedings.mlr.press/v306/grover26a.html	用目标谱需求和梯度干扰做预算观测，再以反馈控制切换图自监督任务，减轻同时加权造成的冲突。	written
+1336	grover26b	Text Has Curvature	https://proceedings.mlr.press/v306/grover26b.html	把双向上下文解释为局部词分布，用去偏 Schrödinger 距离测其如何改变可行语义，用于评估上下文依赖。	written
+1337	gruhlke26a	Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling	https://proceedings.mlr.press/v306/gruhlke26a.html	用函数张量列车表示高维对数密度，在反向扩散的各步做低秩回归，适配具有可分结构的采样问题。	written
+1338	gu26a	SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace	https://proceedings.mlr.press/v306/gu26a.html	将飞行关系图与动作专家结合，再用规则定义的可达性筛掉危险动作，适合强化策略外置安全屏蔽。	written
+1339	gu26b	CSG: Cognitive Structure Generation for Intelligent Education	https://proceedings.mlr.press/v306/gu26b.html	把认知结构先作为合成图扩散学习，再用层级反馈修正其节点和关系，适合结构不可直接观测的学生建模。	written
+1340	gu26c	TileQ: Efficient Low-Rank Quantization of Mixture-of-Experts with 2D Tiling	https://proceedings.mlr.press/v306/gu26c.html	在专家矩阵的输入与输出方向同时分块共享低秩因子，量化后用融合内核批量运行，减少专家计算访存。	written
+1341	gu26d	Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion	https://proceedings.mlr.press/v306/gu26d.html	以按时间指数加权的脉冲积分表达高动态范围，再放松阈值和时序修正层间误差，提高 ANN 到 SNN 编码效率。	written
+1342	gu26e	Mirror Mean-Field Langevin Dynamics	https://proceedings.mlr.press/v306/gu26e.html	在镜像对偶空间演化均场扩散，控制连续、粒子和时间离散误差，让采样动力适配非欧优化几何。	written
+1343	gu26f	Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models	https://proceedings.mlr.press/v306/gu26f.html	按目标数量在初始噪声中划 Voronoi 责任区域，再调整早期注意力分布，预先控制扩散生成的对象布局。	written
+1344	gu26g	What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?	https://proceedings.mlr.press/v306/gu26g.html	只替换工具接口名而保持动作语义，用对称动作别名测旧名偏好，区分轨迹微调学会的任务知识和接口记忆（PDF 第 7 页）。	written
+1345	gu26h	OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference	https://proceedings.mlr.press/v306/gu26h.html	以移出键或值造成的注意输出变化构造二阶显著分数，给现有 KV 策略增加可比较的层内剪枝代价。	written
+1346	gu26i	Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation	https://proceedings.mlr.press/v306/gu26i.html	分开 LoRA 更新的尺度和方向，在正交因子上约束能量偏斜，避免同范数低秩更新遮蔽旧任务方向。	written
+1347	gu26j	Precision-Induced Miscalibration: Understanding and Correcting Confidence Distortion in Quantized Neural Networks	https://proceedings.mlr.press/v306/gu26j.html	由量化精度与样本 logit 范数定正温度，逐样本修复置信度且保持原分类顺序。	written
+1348	gu26k	Detecting the Semantic Fixed Point: A Geometric Framework for Efficient Inference	https://proceedings.mlr.press/v306/gu26k.html	联合监控相邻隐藏层的变化幅度和方向稳定，再按请求固定解码深度，用输入相关的收敛信号选计算量。	written
+1349	gu26l	Anytime-Valid Inference for Online Ranking of Large Language Models	https://proceedings.mlr.press/v306/gu26l.html	以模型对的顺序 e-process 允许随时停，并优先评不确定却可能进榜的模型，减少在线排名比较。	written
+1350	gu26m	R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations	https://proceedings.mlr.press/v306/gu26m.html	把长空间关系链拆成不变子问题，先多轮修订度量关系、再全局到局部细化对象姿态，减轻误差累积。	written
+1351	gu26n	Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning	https://proceedings.mlr.press/v306/gu26n.html	按域生成共享参数的可训练掩码，再用域内历史梯度偏好调节更新方向，降低跨域类增量的参数干扰。	written
+1352	gu26o	From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models	https://proceedings.mlr.press/v306/gu26o.html	同时反演拆分边界的输入和回复，发现双侧表示泄露；先本地热启适配器再罚互信息可减少服务端可见线索。	written
+1353	gu26p	Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data	https://proceedings.mlr.press/v306/gu26p.html	把少数显著的单位级因果信号作为枢轴统计量的附加项，使零假设下不改校准、在稀疏效应下累积检验功效。	written
+1354	gu26q	Ekka: Automated Diagnosis of Silent Errors in LLM Inference	https://proceedings.mlr.press/v306/gu26q.html	将正常实现与待测引擎做语义组件映射及激活对齐，以首个中间偏差定向定位无告警推理错误。	written
+1355	gu26r	What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions	https://proceedings.mlr.press/v306/gu26r.html	将时序历史拆成受外部文本事件影响和必须保持的成分，再用反事实数据训练修改前者，便于评价干预预测。	written
+1356	guan26a	A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots	https://proceedings.mlr.press/v306/guan26a.html	从群体输运动作量学习势能和阻尼，并以保结构数值步推进分布，用离散总体快照重建无个体配对动力。	written
+1357	guan26b	VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems	https://proceedings.mlr.press/v306/guan26b.html	先找图文联合嵌入的高曝光区，再按注意力协调两模态扰动，用来测试跨模态一致投毒在推荐微调中的风险。	written
+1358	guan26c	From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations	https://proceedings.mlr.press/v306/guan26c.html	把视频分层摘要和问答一次性蒸馏成专用小权重并入冻结骨干，适合一段长视频被反复查询。	written
+1359	guan26d	TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation	https://proceedings.mlr.press/v306/guan26d.html	按编译、运行与验证阶段对核函数代理的错误分解；编译循环把大量失败推到执行阶段，而规格核验仍成瓶颈（PDF 第 8 页）。	written
+1360	guan26e	TimeOmni-VL: Unified Models for Time Series Understanding and Generation	https://proceedings.mlr.press/v306/guan26e.html	用双向可逆图像映射将时序接入视觉模型，再将语义分析链作为生成条件，让同一表示支持理解和预测。	written
+1361	guan26f	LIMMT: Less Is More for Motion Tracking	https://proceedings.mlr.press/v306/guan26f.html	先按物理可行性筛动作，再结合行为复杂度与已选嵌入的最短距离选子集，减少跟踪训练中昂贵的冗余演示。	written
+1362	guan26g	Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation	https://proceedings.mlr.press/v306/guan26g.html	将每个 CAD 参数词元绑定到三维点，以点误差做细粒度监督，同时用程序语法保证生成操作可执行。	written
+1363	guan26h	Monitoring Monitorability	https://proceedings.mlr.press/v306/guan26h.html	分别向监控器暴露动作、思维链或全部轨迹，并用追加询问观察可监测性变化，检验安全信号出现在哪里。	written
+1364	guan26i	MOC: Multi-Order Communication in LLM-based Multi-Agent Systems	https://proceedings.mlr.press/v306/guan26i.html	以通信拓扑和语义相似度找可合并的多跳消息，再让小模型蒸馏冗余内容，降低多代理的证据传播成本。	written
+1365	guan26j	Federated Multi-view Clustering for Remote Sensing Data	https://proceedings.mlr.press/v306/guan26j.html	分区压缩遥感视图，在服务器按原型共现对齐无标签簇，再用 Wasserstein 对比融合视图，减轻跨方标签置换。	written
+1366	guan26k	On the Coordination of Value-Maximizing Bidders	https://proceedings.mlr.press/v306/guan26k.html	控制竞标联盟中每轮的活跃出价人，并分析回报约束下允许超值出价的效果，为多预算代理协调提供策略。	written
+1367	guang26a	ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models	https://proceedings.mlr.press/v306/guang26a.html	先把遗忘类别的残差激活导向拒答方向，再用正常任务与上下文敏感拒答的联合回报校正边界，减少过度拒绝。	written
+1368	gui26a	Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization	https://proceedings.mlr.press/v306/gui26a.html	合并重复推理段并拆开逻辑跳步，再约束强化轨迹的段数，以压缩宏观长度同时保留段内解题空间。	written
+1369	guillen26a	Finite-Width Neural Tangent Kernels from Feynman Diagrams	https://proceedings.mlr.press/v306/guillen26a.html	用费曼图标记有限宽随机网络的收缩项，按层递推切核及导数的 1/n 修正，超越无限宽近似。	written
+1370	gul26a	MASH: Modeling Abstention via Selective Help-Seeking	https://proceedings.mlr.press/v306/gul26a.html	训练时给搜索求助定价，让模型仅在知识不足时调用；工具不可用时将同一行为转成选择性拒答。	written
+1371	gungordu26a	PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs	https://proceedings.mlr.press/v306/gungordu26a.html	把验证通过的算法改动写进蕴含图，用世界模型预测新改动效果，再让验证反馈刷新种群，辅助自动启发式搜索。	written
+1372	guo26a	SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model	https://proceedings.mlr.press/v306/guo26a.html	用频谱离散化把受噪声但生理语义相同的 PPG 压到一致编码，再按统计先验学习挑选更有信息的掩码。	written
+1373	guo26b	Dynamic Thinking-Token Selection for Efficient Reasoning in Large Reasoning Models	https://proceedings.mlr.press/v306/guo26b.html	以注意图标注关键旧推理词元并训练轻量预测器，长推理时保留关键证据和近邻窗口以减少 KV。	written
+1374	guo26c	MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects	https://proceedings.mlr.press/v306/guo26c.html	把异质蛋白突变打分统一成成对偏好，按软共识给权，并抑制分歧区间的过度确信；有去除物理监督的消融（PDF 第 9 页）。	written
+1375	guo26d	Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series	https://proceedings.mlr.press/v306/guo26d.html	以图小波低频残差作为上下文校准高频误差，使图结构时序的预测区间适应非交换性。	written
+1376	guo26e	Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models	https://proceedings.mlr.press/v306/guo26e.html	将单个视频拟合成冻结生成器上的低秩更新，哈希并熵编码权重，把视频压缩变成实例级模型适配。	written
+1377	guo26f	PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent	https://proceedings.mlr.press/v306/guo26f.html	在正常状态动作上拟合 GP，以伪轨迹在部署时更新后验，并按方差逐步识别异常动作。	written
+1378	guo26g	Constrained Bayesian Experimental Design via Online Planning	https://proceedings.mlr.press/v306/guo26g.html	用摊销后验热启场景树，对未来观测分支联合做可行重参数化规划，适用于多步且有资源约束的实验选择。	written
+1379	guo26h	Probabilistic Salient Object Ranking	https://proceedings.mlr.press/v306/guo26h.html	把多人的注视顺序表示成条件转移树，以观测概率训练和评分，允许多个合理的物体浏览次序。	written
+1380	guo26i	VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model	https://proceedings.mlr.press/v306/guo26i.html	用包含真实失败的策略轨迹修正世界模型，再用视觉奖励筛选其合成成功轨迹，形成策略和模拟的联合迭代。	written
+1381	guo26j	Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing	https://proceedings.mlr.press/v306/guo26j.html	将知识压缩写成成员测试的率失真问题，在容量约束下推导事实和非事实概率输出间的误差取舍。	written
+1382	guo26k	Are Your Agents Upward Deceivers?	https://proceedings.mlr.press/v306/guo26k.html	人为制造工具失败并逐项移除输出格式与后续指令，发现固定格式会促使部分代理在工具失败时伪报完成（PDF 第 7 页）。	written
+1383	guo26l	Reflex: Real-Time Vision-Language-Action Control through Streaming Inference	https://proceedings.mlr.press/v306/guo26l.html	把静态语言、滑动视觉和变化动作的缓存窗口分开，并交叠视觉编码与动作推断，降低持续机器人控制延迟。	written
+1384	guo26m	FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology	https://proceedings.mlr.press/v306/guo26m.html	以源端类别原型亲和图传播目标端后验，再组合参数化预测，使无源数据的联邦自适应利用类间结构。	written
+1385	guo26n	Axiomatic Atlas: A Prescriptive Framework for Neural Architecture Design	https://proceedings.mlr.press/v306/guo26n.html	用活跃子图最小割核查结构连通，并以路径敏感度量化浮点误差，可在设计阶段检查神经网络信息传递。	written
+1386	guo26o	BlueCodeAgent: A Blue Teaming Agent Powered by Automated Red Teaming for CodeGen AI	https://proceedings.mlr.press/v306/guo26o.html	由持续红队样本检索并归纳案例专用的代码安全准则，再用动态测试区分可触发漏洞与静态误报。	written
+1387	guo26p	CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation	https://proceedings.mlr.press/v306/guo26p.html	仅在文本兴趣相似和图邻接意见一致时提高样本对权重，用多视角共识减少推荐对比学习的错配。	written
+1388	guo26q	CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models	https://proceedings.mlr.press/v306/guo26q.html	利用文图条件扩散保持投毒图像与原标签语义一致，并用显著区域限制修改，测干净标签防护的漏洞。	written
+1389	guo26r	RAD: Retrieval High-quality Demonstrations to Enhance Decision-making	https://proceedings.mlr.press/v306/guo26r.html	从与当前状态相似的轨迹找可达的高回报后继，用步数估计和条件扩散生成连接片段，过滤不可执行示范。	written
+1390	guo26s	Sample Margin-Aware Recalibration of Temperature Scaling	https://proceedings.mlr.press/v306/guo26s.html	用前两类 logit 间隔定逐样本正温度，再优化平滑校准误差，保留原始预测类别。	written
+1391	guo26t	GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs	https://proceedings.mlr.press/v306/guo26t.html	交替查询可见邻居和执行确定性代码，通过训练时逐步隐藏图结构，迫使代理学习主动探索再计算。	written
+1392	guo26u	Explanations are a Means to an End: Decision Theoretic Explanation Evaluation	https://proceedings.mlr.press/v306/guo26u.html	将解释价值拆成理性信息上界、互补信息潜力和真实干预效果，可区分解释理论可用与人实际受益。	written
+1393	guo26v	Learning to Route Languages for Multilingual Policy Optimization	https://proceedings.mlr.press/v306/guo26v.html	在固定轨迹预算下用上下文赌博机分配每题回答语言，按主题和地区优化多语强化训练的采样。	written
+1394	guo26w	On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective	https://proceedings.mlr.press/v306/guo26w.html	从词元低概率尾部提取不确定度并用局部重采样归一，在不同文本段落中对齐生成文本检测信号。	written
+1395	guo26x	No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval	https://proceedings.mlr.press/v306/guo26x.html	将多向量编码成稀疏神经元倒排键，用文档激活上界快速筛候选，再细算完整词元匹配。	written
+1396	guo26y	Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations	https://proceedings.mlr.press/v306/guo26y.html	从微调前后高斯近似的自然参数差提取独立任务因子，再加到新模型先验，实现含曲率的更新迁移。	written
+1397	guo26z	DRPBench: Evaluating LLMs in Concurrent Code Comprehension via Fine-Grained Data Race Prediction	https://proceedings.mlr.press/v306/guo26z.html	把竞态标成共享变量加两条访问行，避免非确定执行的偶然漏判；同步原语提示只给推理型模型带来明显增益（PDF 第 7–8 页）。	written
+1398	guo26aa	MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering	https://proceedings.mlr.press/v306/guo26aa.html	先检索同仓库历史环境再增量修补并跑验证；直接复用的成功率仅 25%，修补可升至 39%，适合演进依赖的重复构建（PDF 第 6 页）。	written
+1399	guo26ab	The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary	https://proceedings.mlr.press/v306/guo26ab.html	用状态空间重叠和逐步出错模型测出长推理的可靠边界，在漂移累积后把搜索交给确定性算法。	written
+1400	guo26ac	X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks	https://proceedings.mlr.press/v306/guo26ac.html	用到训练样本与错分锚点的潜距离分别定不确定度，再传播总证据强度，无需重训图网络即可分离两类风险。	written
+1401	guo26ad	WildActor: Unconstrained Identity-Preserving Video Generation	https://proceedings.mlr.press/v306/guo26ad.html	将身份参考和运动词元隔开位置坐标并用非对称注意力交互，根据边际视角覆盖选参考，减少动作与身份改写的耦合。	written
+1402	guo26ae	CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving	https://proceedings.mlr.press/v306/guo26ae.html	用碰撞 critic 验收短时运动轨迹，并把被拒动作作为下一次提案条件，使驾驶策略能从具体失败修正。	written
+1403	guo26af	DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation	https://proceedings.mlr.press/v306/guo26af.html	在音视频共享时间坐标外加按角色组织的条件，再用跨配对训练分离身份、声色与动作，支持多输入可控生成。	written
+1404	guo26ag	OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild	https://proceedings.mlr.press/v306/guo26ag.html	在冻结语义表征的正交余空间训练取证专家，同时以同语义真实和重建图训练通用专家，减少题材与伪影混淆。	written
+1405	guo26ah	BizFinBench.v2: Towards Reliable LLMs in Finance via Real-User Data and Offline/Online Bilingual Evaluation	https://proceedings.mlr.press/v306/guo26ah.html	PDF 第 4–5、7–9 页 §§3–7。新增中美用户数据和线上任务，组合轨迹仍用既有收益率、Sharpe、最大回撤与策略对照。单一市场窗口的模型收益和回撤差别不足以提炼独立机制或可迁移的失败条件。	excluded
+1406	guo26ai	Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer	https://proceedings.mlr.press/v306/guo26ai.html	用跨模态循环重建找低可信位置，再查正常点云邻居选择性替换，为少样本检测保留真正局部异常。	written
+1407	guo26aj	ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning	https://proceedings.mlr.press/v306/guo26aj.html	让图像工具策略和识字推理器分工，先以 oracle 工具热启再采能力边界样本强化，训练只在难辨文字处作有效增强。	written
+1408	guo26ak	SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning	https://proceedings.mlr.press/v306/guo26ak.html	把可自动验证的旋转、拼图和局部图块关系作为视觉推理的内在奖励，在缺少人工推理标签时训练感知能力。	written
+1409	guo26al	Discrete Adjoint Schrödinger Bridge Sampler	https://proceedings.mlr.press/v306/guo26al.html	用群上的加性跳转统一离散桥和随机控制，在固定点迭代中学速率修正，以构造离散空间的末态采样器。	written
+1410	guo26am	Adaptive Code Watermarking Through Reinforcement Learning	https://proceedings.mlr.press/v306/guo26am.html	以局部上下文决定何时写入水印及如何改词元分布，并联合执行与检测反馈，保护可执行代码语义。	written
+1411	guo26an	Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion	https://proceedings.mlr.press/v306/guo26an.html	从可用模态的潜空间邻居汇聚条件，再以扩散补全缺失视图，为聚类利用局部跨模态关系。	written
+1412	guoze26a	Geometry-Aware Neural Optimizer for Shape Optimization and Inversion	https://proceedings.mlr.press/v306/guoze26a.html	以去噪训练的隐式形状潜表示获取稳定目标梯度，再用零空间投影保护局部几何，使形状反演无需重网格。	written
+1413	gupta26a	Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models	https://proceedings.mlr.press/v306/gupta26a.html	用每个生成模型的分数定义空间区域效用，按无嫉妒等条件逐步分配主导权，再以时间平滑稳定混合去噪。	written
+1414	gupta26b	Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening	https://proceedings.mlr.press/v306/gupta26b.html	动态图增量时固定已有粗化节点，删除或变边后只重映射受影响部分，以局部相似度上界控制失真。	written
+1415	gupta26c	Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency	https://proceedings.mlr.press/v306/gupta26c.html	在冻结检索编码上训练分层软路由，将正配对集中入同一子树，按预算在不同层级找相关文档。	written
+1416	gurbuz26a	ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision	https://proceedings.mlr.press/v306/gurbuz26a.html	用网页 DOM 提供全界面元素监督，并给结构标记额外权重，训练屏幕解析器一次输出元素及层级关系。	written
+1417	gurvan26a	FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences	https://proceedings.mlr.press/v306/gurvan26a.html	让 API 使用多组两词元约束生成伪随机序列，以随机性统计对实例做指纹识别，并靠置信门槛拒判未知版本。	written
+1418	gushchin26a	BiRQA: Bidirectional Robust Quality Assessment for Images	https://proceedings.mlr.press/v306/gushchin26a.html	以不确定性门控双向传递局部失真和全局语义，同时用干净锚的排序损失稳定画质分数。	written
+1419	gutjahr26a	Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design	https://proceedings.mlr.press/v306/gutjahr26a.html	用增广拉格朗日自适应更新乘子，将生成时的期望成本约束拆成一系列现成求解器可做的无约束微调。	written
+1420	gyenes26a	Fourier Features Let Agents Learn High Precision Policies with Imitation Learning	https://proceedings.mlr.press/v306/gyenes26a.html	固定策略仅给点云坐标加多尺度 Fourier 特征，在高精度实机任务中作用明显、简单仿真收益有限（PDF 第 7 页）。	written
+1421	h-zargarbashi26a	Front-Loaded Robust Conformal Prediction: Heavy Calibration, Minimal Test-Time Cost	https://proceedings.mlr.press/v306/h-zargarbashi26a.html	把随机平滑的蒙特卡洛预算移至独立校准和认证阶段，以统计下界定保形阈值，减少线上预测每次的采样。	written
+1422	ha26a	Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate	https://proceedings.mlr.press/v306/ha26a.html	控制同伴答案与真值距离后测修订位移，发现部分错答向真值收缩，近正确的错误同伴也可推翻正确答案。	written
+1423	ha26b	Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack	https://proceedings.mlr.press/v306/ha26b.html	一边用近邻保留区损害和类原型检查误遗忘与重学，一边用掩码蒸馏保持邻界表示，缩小遗忘副作用。	written
+1424	haas26a	Why Deep Jacobian Spectra Separate: Depth-Induced Scaling and Singular-Vector Alignment	https://proceedings.mlr.press/v306/haas26a.html	用矩阵乘积的 Lyapunov 指数描述深网掩码下奇异值的对数伸缩，再跟踪强谱分离时的奇异向量对齐。	written
+1425	habashy26a	Geodesic Flow Matching for Denoising High-Dimensional Structured Representations	https://proceedings.mlr.press/v306/habashy26a.html	让噪声恢复轨迹沿单位球面测地线而不是直连欧氏空间，适合需保持范数和角度结构的表征去噪。	written
+1426	habib26a	GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data	https://proceedings.mlr.press/v306/habib26a.html	先把紧密相关表格特征排邻，再局部分组压成紧凑词元，减轻高维输入超出冻结表格模型的预算。	written
+1427	habring26a	Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions	https://proceedings.mlr.press/v306/habring26a.html	用沿目标路径统一的 log-Sobolev 条件把离散化与退火误差拆分，为时变 Langevin 步长设计提供前向 KL 界。	written
+1428	haddadnia26a	Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space	https://proceedings.mlr.press/v306/haddadnia26a.html	用赌博机按已得奖励选择化学子空间，只在选中分区做代理和采集函数更新，减少全空间反复求值。	written
+1429	hadji26a	Hierarchical Image Tokenization for Multi-Scale Image Super Resolution	https://proceedings.mlr.press/v306/hadji26a.html	让高低分辨率图像共享可嵌套词元前缀，再用真实配对约束细化顺序，使同条解码轨迹可按分辨率提前停。	written
+1430	hagag26a	Architecture Matters for Multi-Agent Security	https://proceedings.mlr.press/v306/hagag26a.html	在同一任务拆开角色、连通和记忆可见度做干预；专家分工会提高正常准确率却增加受攻击率（PDF 第 9 页）。	written
+1431	haghighat26a	Formalizing and Falsifying Causal Pathways of Rare Events	https://proceedings.mlr.press/v306/haghighat26a.html	用根因干预和路径子图形成可证伪解释，再以干预分布下的抽象误差检查路径是否放大罕见事件。	written
+1432	haghtalab26a	Pluralistic Leaderboards	https://proceedings.mlr.press/v306/haghtalab26a.html	按用户群体的共同改选偏好计算局部稳定性，再分批选代表委员会，避免平均榜单忽略明显偏好群。	written
+1433	hagnberger26a	SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model	https://proceedings.mlr.press/v306/hagnberger26a.html	用任意空间点查询几何编码器多层特征，使气动代理输出连续表面和体积场，省去固定网格对齐。	written
+1434	hahm26a	Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases	https://proceedings.mlr.press/v306/hahm26a.html	通过让正确性与特定偏差相关来干预反馈数据，观察奖励学习如何错误归因并放大偏见，定位偏好对齐的脆弱点。	written
+1435	hai26a	Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models	https://proceedings.mlr.press/v306/hai26a.html	根据分区梯度注意力选择增强强度、过滤或加权测试视图，避免更新提示时破坏图像的关键语义区域。	written
+1436	halbey26a	Lower Bounds for Frank-Wolfe on Strongly Convex Sets	https://proceedings.mlr.press/v306/halbey26a.html	用球面强凸目标的边界最优实例展示 Frank-Wolfe 的慢轨迹，可直接检查短步或线搜索能否规避下界。	written
+1437	halder26a	Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling	https://proceedings.mlr.press/v306/halder26a.html	在贝叶斯回归代理模型中分析二次奖励的 softmax 候选选择，推断测试时采样数和判别温度的泛化取舍。	written
+1438	ham26a	Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models	https://proceedings.mlr.press/v306/ham26a.html	用户微调前加载能提前饱和有害更新的临时 LoRA，随后移除并合并恢复拒绝的适配器，把任务更新与安全恢复拆开。	written
+1439	han26a	Maximin Relative Improvement: Fair Learning as a Bargaining Problem	https://proceedings.mlr.press/v306/han26a.html	以各群体相对自身最优可达收益的比例做谈判，训练时优化最弱改善程度，使基线难度不同的群体可比。	written
+1440	han26b	Weight Decay Improves Language Model Plasticity	https://proceedings.mlr.press/v306/han26b.html	只改变预训练权重衰减并比较下游适配，发现基模交叉熵更差也可有更大微调收益，适合按适配性选预训练超参。	written
+1441	han26c	Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction	https://proceedings.mlr.press/v306/han26c.html	在高光谱逆问题的展开层中用多核局部混合和跨潜窗口传递分开恢复空间细节与长程波段一致性。	written
+1442	han26d	TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting	https://proceedings.mlr.press/v306/han26d.html	先探测时间序列幅度和相位敏感区域，再用频域结构限制黑箱演化搜索，降低生成定向扰动的调用数。	written
+1443	han26e	Revealing Long-context Potential of Attention Heads via Frequency Kernels	https://proceedings.mlr.press/v306/han26e.html	以 RoPE 频谱核量化注意头的低频集中度和秩，仅放大适于长程的头，改善上下文外推。	written
+1444	han26f	Learning Permutation-invariant Macroscopic Dynamics	https://proceedings.mlr.press/v306/han26f.html	用微观集合的置换不变编码和观测点邻域的平滑质量重建，学习不依赖粒子顺序的宏观动态。	written
+1445	han26g	Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials	https://proceedings.mlr.press/v306/han26g.html	以构型自适应的平滑动态截断调邻居数量，在控制原子图规模时保持势能对坐标连续。	written
+1446	han26h	EGG: An Expert-Guided Agent Framework for Kernel Generation	https://proceedings.mlr.press/v306/han26h.html	先搜索核函数算法结构再用硬件剖析调并行与访存；多种子探索在复杂算子的消融收益更高（PDF 第 7 页）。	written
+1447	han26i	Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment	https://proceedings.mlr.press/v306/han26i.html	从少量实机轨迹更新模拟学到的潜上下文后验，并按不确定度调成本分位，使策略在迁移后保持风险意识。	written
+1448	han26j	Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM	https://proceedings.mlr.press/v306/han26j.html	给无脚本的工程布局学习性能感知超图距离，再用贝叶斯优化找能复现它的脚本，用于构造可执行训练对（PDF 第 8 页）。	written
+1449	han26k	PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding	https://proceedings.mlr.press/v306/han26k.html	通过动态规划给草稿词元分组传输，让边侧生成和网络通信交叠，再按置信度调投机策略。	written
+1450	han26l	Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them	https://proceedings.mlr.press/v306/han26l.html	先用少步生成锁定运动相位，再在完整去噪中保留该相位并细化外观，可避免视频精化覆盖早期物理线索。	written
+1451	han26m	DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation	https://proceedings.mlr.press/v306/han26m.html	对报告中的原子论断做语义回溯，从依赖的前文继承引用证据，可核查没有逐句附引文的事实断言（PDF §4.4、§6.5）。	written
+1452	han26n	The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs	https://proceedings.mlr.press/v306/han26n.html	用行为任务复验人格角色提示的效果，发现自述宜人性或自控性可显著改变，迎合或冒险行为却未可靠跟进（PDF §4.3、§6）。	written
+1453	han26o	ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models	https://proceedings.mlr.press/v306/han26o.html	在扩散交叉注意力的键与值上分设保留及擦除更新，结合负目标奖励，可减少删除一个概念时损伤未编辑的生成能力。	written
+1454	han26p	Bring Future Vision: Dynamic Computation Allocation Guided by Lightweight Feature Forecaster	https://proceedings.mlr.press/v306/han26p.html	预测被跳过激活是否可从后续层恢复，并据此给注意力和前馈子层分配每个 token 的计算，可在固定预算下选择性跳算。	written
+1455	han26q	Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in Large Language Models	https://proceedings.mlr.press/v306/han26q.html	用有无显式价值提示的配对回答构造两类内部方向，再以正交分解和激活干预测试，可区分内生表达与临时提示响应。	written
+1456	han26r	MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints	https://proceedings.mlr.press/v306/han26r.html	按相对参考策略的概率绝对差而非仅对数比约束策略，可得到稀疏的分布更新并控制策略改进幅度。	written
+1457	han26s	ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind	https://proceedings.mlr.press/v306/han26s.html	在对话中分别推断对方持有的立场和潜在反论据，再按立场变化反馈训练说服者，可将对手建模接入目标驱动对话。	written
+1458	han26t	GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning	https://proceedings.mlr.press/v306/han26t.html	以两端候选分别模拟删点、加点、几何和外观编辑，将统计变化作为带方向的提示锚点，可辅助推断 3DGS 资产的传承边（PDF 第 4–6 页 §4.2–4.4）。	written
+1459	han26u	MusicDET: Zero-Shot AI-Generated Music Detection	https://proceedings.mlr.press/v306/han26u.html	在不同频带分开拟合真实音乐似然，再联合全局统计，可在未采集某生成器样本时做生成音频异常判别。	written
+1460	han26v	Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting	https://proceedings.mlr.press/v306/han26v.html	用不规则站点图近似空间微分，先经物理 ODE 得基准，再学习剩余预测误差，可让观测点天气模型复用物理先验（PDF §4.3）。	written
+1461	han26w	Optimal Pricing for Data-Augmented AutoML Marketplaces	https://proceedings.mlr.press/v306/han26w.html	以买家继续搜索与停止之外部选择约束模型价格菜单，并按数据增强和模型联合探索，可设置可自选择的 AutoML 交易价格。	written
+1462	han26x	$\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers	https://proceedings.mlr.press/v306/han26x.html	蒸馏多个优化器的候选分布而非单一路径，再以新目标的候选分数现场微调，可保持搜索多样性并适配目标。	written
+1463	han26y	Veda: Scalable Video Diffusion via Distilled Sparse Attention	https://proceedings.mlr.press/v306/han26y.html	从密集视频注意力蒸馏块重要度，按不同头选择切块并聚合极值及均值，可在稀疏执行中减少漏掉关键时空块。	written
+1464	han26z	Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator	https://proceedings.mlr.press/v306/han26z.html	把方差除以真实梯度强度并显式分析系统各处，可诊断 REINFORCE 在何种状态或参数区间失去有效学习信号。	written
+1465	han26aa	Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport	https://proceedings.mlr.press/v306/han26aa.html	用非平衡最优传输将多视图表示映到共享原型，并允许部分质量不匹配，可降低噪声视图在融合中的影响。	written
+1466	han26ab	Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization	https://proceedings.mlr.press/v306/han26ab.html	将个性化主体特征锚到有方向三维包围盒，按空间关系注入参考注意力，可在不对新主体微调时控制姿态。	written
+1467	han26ac	Omni-Perception Policy Optimization for Multimodal Emotion Reasoning	https://proceedings.mlr.press/v306/han26ac.html	按完整与单模态遮蔽输入的分布差提供模态专属监督，可检查情绪理由是否真使用声音和图像证据。	written
+1468	handke26a	The Entropic Signature of Class Speciation in Diffusion Models	https://proceedings.mlr.press/v306/handke26a.html	以条件与参考去噪器的残差比跟踪类别后验熵，可沿扩散轨迹定位不同语义类别开始分离的时间。	written
+1469	hanneke26a	Language Generation with Feedback: Queries and Mistakes	https://proceedings.mlr.press/v306/hanneke26a.html	用覆盖目标语言的可数集合族组织反馈查询和错误界，可区分语言生成输出一项或无限项时的可学习性。	written
+1470	hanneke26b	Universal Multiclass Transductive Online Learning	https://proceedings.mlr.press/v306/hanneke26b.html	以不同层级的 Littlestone 树刻画转导在线问题，可在多分类中划定预测错误收敛和反例的结构条件。	written
+1471	hanneke26c	When More Data Doesn’t Help: Limits of Adaptation in Multitask Learning	https://proceedings.mlr.press/v306/hanneke26c.html	以目标标签相反而源混合近不可区分的构造证实多源数据无法自动适应，可判断额外数据何时需要可信标注源辨识。	written
+1472	hansen-estruch26a	ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters	https://proceedings.mlr.press/v306/hansen-estruch26a.html	训练前段用低 token 预算覆盖原生纵横比，末段短暂升预算可消除高分辨率网格伪影。解码器更大可改善生成即使重建分略差（PDF §3.3、§3.7）。	written
+1473	hao26a	SlideSparse: Fast and Flexible (2N-2):2N Structured Sparsity	https://proceedings.mlr.press/v306/hao26a.html	将任意高保留率的稀疏块无损折成重叠 2:4 窗并融合激活重排，可用现成稀疏硬件执行更灵活的结构。	written
+1474	hao26b	BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining	https://proceedings.mlr.press/v306/hao26b.html	按代理少步训练后的留出损失更新样本权重，再随预训练进展重新筛选，可用小模型近似数据的当前价值。	written
+1475	hao26c	RACER: Risk-Aware Calibrated Efficient Routing for Large Language Models	https://proceedings.mlr.press/v306/hao26c.html	用带标签校准集选择风险可控的模型集合阈值，并允许拒答，可在推理预算下决定最小模型组合。	written
+1476	hao26d	Hyperbolic Associative Memory Networks	https://proceedings.mlr.press/v306/hao26d.html	把查询–记忆匹配和能量更新放到负曲率流形，可用双曲几何建模带层次的联想记忆。	written
+1477	hardy26a	AI Cartography: Mapping the Latent Landscape of AI Benchmark Ecosystems	https://proceedings.mlr.press/v306/hardy26a.html	PDF 第 3–5 页 §2.1–2.3、第 6–9 页 §3–5。将既有 CFA、G 理论方差分解、双因子 IRT 及混合效应回归用于榜单快照。分层回归和重排是既有测量工具的联合应用，规模与贡献方关联依赖六个基准和噪声元数据，未提供独立的新测量设计或已验证的行动规则。	excluded
+1478	harker26a	On the Optimization Trajectory of DeepWalk Embeddings	https://proceedings.mlr.press/v306/harker26a.html	用小范数线性近似与共现谱子空间势函数追踪 DeepWalk 学习，可判断随机更新何时恢复图社区结构。	written
+1479	hartman26a	Skip-It? Theoretical Conditions for Layer Skipping in Vision–Language Models	https://proceedings.mlr.press/v306/hartman26a.html	分开测相邻层表示冗余与输出对视觉 token 的依赖，可给视觉模型设计晚进或早退的适用条件。	written
+1480	hartwig26a	Geodesic Calculus on Implicitly Defined Latent Manifolds	https://proceedings.mlr.press/v306/hartwig26a.html	由去噪投影近似隐式流形约束，再以离散变分求路径，可在没有参数图册时估计潜空间测地线。	written
+1481	harvey26a	Unsupervised Hierarchical Skill Discovery	https://proceedings.mlr.press/v306/harvey26a.html	先把相邻低层技能压为符号，再从重复片段诱导可递归的技能语法，可在无动作段标签时发现层级。	written
+1482	harviainen26a	Exact and Approximate Algorithms for Polytree Learning	https://proceedings.mlr.press/v306/harviainen26a.html	按拓扑约束收缩子集动态规划状态，配合父集近似获取可处理的多树结构搜索。	written
+1483	hasanebrahimi26a	Density-Aware Translation of Spurious Correlations in Zero-Shot VLMs	https://proceedings.mlr.press/v306/hasanebrahimi26a.html	用少数参考图的局部几何密度调节图文相似度，可降低多数表面风格在零样本分类中的偏置。	written
+1484	hasny26a	No Data? No Problem: Robust Vision-Tabular Learning with Missing Values	https://proceedings.mlr.press/v306/hasny26a.html	在预训练与微调都出现表格字段缺失，并用同样本的高低可见性作排序约束，可在图像和表格之间进行可靠性自适应融合。	written
+1485	hassen26a	Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization	https://proceedings.mlr.press/v306/hassen26a.html	在随机傅里叶特征中惩罚双向流的频域不匹配，按目标平滑度设强度，可抑制随机 GFlowNet 的高频训练不稳。	written
+1486	hastedt26a	From Feasible to Practical: Pareto-Optimal Synthesis Planning	https://proceedings.mlr.press/v306/hastedt26a.html	在同一逆合成搜索图共享不同代价权重的扩展结果，并按 Pareto 下界剪枝，可避免为每个成本偏好重复规划。	written
+1487	hata26a	Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning	https://proceedings.mlr.press/v306/hata26a.html	将去中心化通信的瓶颈拆成邻接环和跨步跳边两个阶段优化，可在高延迟链路约束下安排周期拓扑。	written
+1488	hauzenberger26a	Effective Distillation to Hybrid xLSTM Architectures	https://proceedings.mlr.press/v306/hauzenberger26a.html	把 mLSTM 和带起始 sink 的局部注意力并联并逐头门控，先对齐教师隐状态，可迁移全注意力模型又保留局部精读。	written
+1489	havens26a	Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes	https://proceedings.mlr.press/v306/havens26a.html	从能量模型导出条件过程的去噪漂移，用当前采样器样本迭代估计固定点，可在只知未归一化密度时训练流采样。	written
+1490	hawkins26a	The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning	https://proceedings.mlr.press/v306/hawkins26a.html	分开测英语与微调语言的攻击服从率。良性非英语调节可放大既有安全变化且与能力变化脱钩，支持按语言复验（PDF §4.2、§5.1）。	written
+1491	haxholli26a	Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching	https://proceedings.mlr.press/v306/haxholli26a.html	从最小跳转目标为离散流的源目标找小批量 OT 配对，并对配对表示用 EMA，可控制训练耦合振荡。	written
+1492	hayase26a	Sampling from Your Language Model One Byte at a Time	https://proceedings.mlr.press/v306/hayase26a.html	维护所有与已知字节前缀相容的合法 BPE 分支并求边缘概率，可在保持原模型分布时逐字节生成或切回 token。	written
+1493	hays26a	Strategic Candidacy in Generative AI Arenas	https://proceedings.mlr.press/v306/hays26a.html	将开发者声明的同家族排序转为分数的前缀最小校正，可限制品牌通过提交多款近似模型操纵竞技排名。	written
+1494	he26a	OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability	https://proceedings.mlr.press/v306/he26a.html	通过可程序生成的上下文规则任务优化逐层逐任务合并系数，可保留模型合并时容易丢失的多示例归纳能力。	written
+1495	he26b	Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning	https://proceedings.mlr.press/v306/he26b.html	在编辑链中将指令对象转成 token，再以局部图块和分割实例为键值对齐，并将前后语言推理特征送入生成条件，可缓解含蓄指令的对象身份漂移（PDF 第 5–6 页 §3.2）。	written
+1496	he26c	VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding	https://proceedings.mlr.press/v306/he26c.html	根据浅深层视觉表示的稳定性错开缓存刷新，刷新时限制到局部时邻，可降低双向视频生成的重复计算。	written
+1497	he26d	PGS: Effective LLM Code Refinement via Property-Oriented and Structurally Minimal Feedback	https://proceedings.mlr.press/v306/he26d.html	从自然语言规格产生性质，用已有测试排除冲突约束，然后只返回最短的可执行反例，可给代码修复精确且省 token 的反馈。	written
+1498	he26e	DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models	https://proceedings.mlr.press/v306/he26e.html	让短指代在第二次独立定位中接受检验，再把结果奖励回写生成推理，可在推断只跑第一阶段时仍学习可复用的空间描述。	written
+1499	he26f	Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning	https://proceedings.mlr.press/v306/he26f.html	以固定子空间分开隔离更新与可共享更新，训练结束闭式重校准共享分支，可让持续 LoRA 学新任务而减少串扰。	written
+1500	he26g	Self-Prophetic Decoding to Unlock Visual Search in LVLMs	https://proceedings.mlr.press/v306/he26g.html	用普通视觉模型先出定位与答复草稿，再让更强搜索模型并行检查到首个低一致 token，可减少逐步视觉搜索成本。	written
+1501	he26h	Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter	https://proceedings.mlr.press/v306/he26h.html	先求多个低秩适配器的公共输入输出子空间，再在小核心矩阵合并，可将多适配器压成单一固定秩增量。	written
+1502	he26i	Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents	https://proceedings.mlr.press/v306/he26i.html	PDF 第 2–5 页 §3–3.4、第 7 页 §4.2。把现有代码浏览、漏洞知识检索、分析批评、执行验证和分层记忆组成安全代理。记忆的模式/策略/动作分类和带状态计划沿用常见分工，消融显示各组件有用，未提炼新的协作、检索或学习规则。	excluded
+1503	he26j	Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization	https://proceedings.mlr.press/v306/he26j.html	同提示的生成样本在同一去噪步做组比较，并校正 SDE 梯度的时间尺度，可只用一步算力做视频扩散强化学习。	written
+1504	he26k	Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model	https://proceedings.mlr.press/v306/he26k.html	按令牌分配到许可参考分布的散度预算，再选择最贴近风险模型的可行分布，可在推理时减少复现高风险文本。	written
+1505	he26l	Structure-Centric Graph Foundation Model via Geometric Bases	https://proceedings.mlr.press/v306/he26l.html	把图与可学几何基的 GW 距离作为结构坐标，再统一节点特征维度，可在图领域间共享不依赖原始特征格式的表征。	written
+1506	he26m	Navigating the Flatlands: Dual Adaptive Sharpness-Aware Minimization for Domain Generalization	https://proceedings.mlr.press/v306/he26m.html	以域损失决定扰动方向、用多方向实际损失增量调半径，可在域难度不均时分开控制 SAM 的方向和强度。	written
+1507	he26n	Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification	https://proceedings.mlr.press/v306/he26n.html	PDF 第 4–5 页 §3.1–3.3、第 8–9 页 §4.3–§6。把常规网页验收表示为依赖图，按共享界面合并和按模块拆分测试，再调用现有 GUI 代理与视觉评分。工作流组织是既有测试实践，结果主要报告任务层级与失败类型，未提供独立的新验收机制或可行动的失败判据。	excluded
+1508	he26o	Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration	https://proceedings.mlr.press/v306/he26o.html	定位失败轨迹的首个待修环节并保留正确搜索前缀，只重采后缀；用答案和证据密度双奖，可改进训练样本而不增加部署策略调用。	written
+1509	he26p	FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping	https://proceedings.mlr.press/v306/he26p.html	联邦聚合低秩适配器的一因子、保留本地另一个，再将个性化残差投进尾部子空间，可缩小共享更新对本地任务的干扰。	written
+1510	he26q	The Accumulation of Score Estimation Error in Diffusion Models	https://proceedings.mlr.press/v306/he26q.html	耦合真实与估计分数的逆过程，计算特定时点误差被后续曲率放大的倍数，可决定哪部分去噪精度更值得优化。	written
+1511	he26r	Efficient Multi-round LLM Inference over Disaggregated Serving	https://proceedings.mlr.press/v306/he26r.html	根据首词和词间时延余量动态决定增量前缀留在解码机或转给预填充机，可将多轮上下文的迁移成本纳入调度。	written
+1512	he26s	DSGCR: Decomposed Spectral Geometry-Aware Cross-Modal Semantic Representation for 3D Visual Grounding	https://proceedings.mlr.press/v306/he26s.html	将双物体关系拆为对称距离和反对称方向的谱分量，配合语言上下文，可在三维搜索中辨别有序空间描述。	written
+1513	he26t	Approximation Error Upper and Lower Bounds for Hölder Class with Transformers	https://proceedings.mlr.press/v306/he26t.html	用网格分片做 Transformer 的显式逼近，并用 VC/难标记给下界，可估计模型深度对 Hölder 函数逼近的必要性。	written
+1514	he26u	Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games	https://proceedings.mlr.press/v306/he26u.html	递归模拟其他参与者的未来思路，以同状态下的推理链比较提供中间奖励，可在终局回报稀疏时引导战略习得。	written
+1515	he26v	HyMTRL: A Hybrid Multi-Task Reinforcement Learning Framework via Phased Policy Evolution	https://proceedings.mlr.press/v306/he26v.html	将已掌握任务由强化探索移至模仿巩固，并在任务分布变时重置 critic 而保留 actor，可将计算集中在未掌握任务。	written
+1516	he26w	Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs	https://proceedings.mlr.press/v306/he26w.html	哈希网格顶点同时记录函数值和混合偏导，Hermite 插值可解析求导，可给 PDE 拟合保留一致的梯度与 Hessian。	written
+1517	he26x	Can LLMs Reason Structurally? Benchmarking via the lens of Data Structures	https://proceedings.mlr.press/v306/he26x.html	PDF 第 3–5 页 §3.1–3.4、第 8–9 页 §4.4–5。按常见数据结构、操作及长度分层生成标准算法题并以模拟器给答案，代码生成/内部执行/外部执行对照主要证实模型不能可靠模拟代码。未提出结构推理技术或超出任务覆盖与既有执行优势的可复用规律。	excluded
+1518	he26y	SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?	https://proceedings.mlr.press/v306/he26y.html	PDF 第 3–7 页 §3–4、第 8–9 页 §5.3–6。由性能 PR 取测试，以预热、重复计时、去离群和显著性判定补丁加速，分开正确性和性能。核心为真实性能数据和既有测速规程，模型/专家差距及函数数量关联未形成新的优化或诊断方法。	excluded
+1519	he26z	LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection	https://proceedings.mlr.press/v306/he26z.html	把量化块映射到高维二值格点后线性投影，调整升维比例可在不换离散编码原语时选择非整数有效位宽。	written
+1520	he26aa	Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning	https://proceedings.mlr.press/v306/he26aa.html	把策略与环境动态的正则视作同一稳健备份中的两项，可控制探策不确定性和策略保守性。	written
+1521	he26ab	Understand and Accelerate Memory Processing Pipeline for Large Language Model Inference	https://proceedings.mlr.press/v306/he26ab.html	将压缩键的点积、查询头部分汇总及运行 top-k 串成 FPGA 流式内核，把稀疏相关性检索和 GPU 密集生成分工，可减少临时分数写回（PDF 第 5–6 页 §5.2–5.3）。	written
+1522	he26ac	DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models	https://proceedings.mlr.press/v306/he26ac.html	把空间推理任务转成逐步去噪的图像编辑，让每步产生可见中间状态，可在不将所有空间构造串行文本化时执行视觉推理。	written
+1523	he26ad	Newton-coupled Dual-Teacher Semi-supervised Learning Framework	https://proceedings.mlr.press/v306/he26ad.html	以两教师伪标签的置信几何均值建立共同监督，再合成局部曲率作预条件，可在半监督更新中利用互补的教师几何。	written
+1524	he26ae	Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation	https://proceedings.mlr.press/v306/he26ae.html	测量同组奖励导致的优势坍缩，再只加入虚拟奖励统计而不生成虚拟文本，可恢复同质组的学习梯度。	written
+1525	he26af	GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks	https://proceedings.mlr.press/v306/he26af.html	以节点级门控融合通用预训练 GNN 与目标域轻量分支，并保持局部拓扑一致性，可在图迁移中选择使用共享或新表示。	written
+1526	he26ag	Demystifying When Pruning Works via Representation Hierarchies	https://proceedings.mlr.press/v306/he26ag.html	同时跟踪剪枝后隐藏态、logit 和 softmax，发现细小表示误差可经概率和自回归放大，可把开放生成的验证与有限候选检索分开。	written
+1527	he26ah	Sequential Kernel-based Conditional Independence Testing via Adaptive Betting	https://proceedings.mlr.press/v306/he26ah.html	用条件残差的核见证构造下注信号，并裁切归一到有效赔率范围，可对流入样本做序贯条件独立检验。	written
+1528	he26ai	Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models	https://proceedings.mlr.press/v306/he26ai.html	用双曲蕴涵锥编码类别祖先，同时用球面角损失区分 sibling，可让多模态类别表征兼顾上下级和同级边界。	written
+1529	he26aj	Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization	https://proceedings.mlr.press/v306/he26aj.html	按激活选择降宽时应保留的通道，再蒸馏原骨干，可减轻随机降维初始化的有效秩流失。	written
+1530	he26ak	One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs	https://proceedings.mlr.press/v306/he26ak.html	用权重谱的重尾程度区分各层的更新需求，并赋不同学习率，可不改优化器逻辑地调节深网收敛。	written
+1531	he26al	CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal	https://proceedings.mlr.press/v306/he26al.html	用对齐视频对的差异自监督学习字幕遮挡，再据局部修复质量调整先验强度，可在推断没有手工掩膜时移除覆盖文字。	written
+1532	he26am	Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks	https://proceedings.mlr.press/v306/he26am.html	PDF 第 3–5 页 §3、第 8–9 页 §4.4–5。将现有代理任务接为多会话依赖链并比较长上下文、RAG 和外部记忆。深度下的成功率衰减与检索优劣没有隔离压缩、检索、推理或执行的具体原因，原文把这些操作的细粒度分析留待后续。	excluded
+1533	he26an	Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration	https://proceedings.mlr.press/v306/he26an.html	用退化条件同时改变图像分块及逆分块位置，按样本适配纹理与退化细节，并以任务 token dropout 减少额外标签依赖。	written
+1534	he26ao	Motion Dynamics Learning for Few-Shot Embodied Adaptation	https://proceedings.mlr.press/v306/he26ao.html	由流反演提取运动状态表示，再在动态原型库插值，可在少样本新任务上约束动作仍符可行轨迹。	written
+1535	he26ap	RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback	https://proceedings.mlr.press/v306/he26ap.html	用多个候选答案的局部语义与模型 logits 共同估计幻觉敏感度，可将无显式打分的自反馈变成成对视觉偏好。	written
+1536	he26aq	FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy	https://proceedings.mlr.press/v306/he26aq.html	对近期动作保持时域精度、对多块未来约束频域连续性，可在短期执行和交接动作的平滑度间分配训练目标。	written
+1537	he26ar	On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility	https://proceedings.mlr.press/v306/he26ar.html	按长文生成阶段调整内容与分节词的概率，对迟迟未转段的状态加安全上限，可在解码时控制篇幅和结构（PDF §6.1）。	written
+1538	he26as	ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education	https://proceedings.mlr.press/v306/he26as.html	逐个记录学生解释，再归纳小组盲点，据此选择苏格拉底式追问，关键危险步骤触发否决奖励，可为一对多互动训练保留个体错误来源（PDF 第 4–5 页 §2.3–3.2）。	written
+1539	he26at	A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs	https://proceedings.mlr.press/v306/he26at.html	在多模态图中以表示维度为路由单位分配模态专家，再按节点做跨模态对比，可将类别相关的细粒度信号分别融合。	written
+1540	he26au	From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping	https://proceedings.mlr.press/v306/he26au.html	用有掩膜生成器合成可控伪配对训练无掩膜编辑器，再按时间步阶段协调嘴部动态和外观，可将传统重绘扩展为开放输入配音。	written
+1541	he26av	RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation	https://proceedings.mlr.press/v306/he26av.html	在多轮分割中把先前掩码直接叠进下一步观察，再调用裁剪旋转工具，可让语言代理根据可见失败改进定位。	written
+1542	he26aw	Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion	https://proceedings.mlr.press/v306/he26aw.html	按历史 IoU、时间波动和像素不确定性组织课程，末段用频谱瓶颈反纹理捷径，可减少从背景习得的伪分割线索。	written
+1543	he26ax	Learning Permutation Distributions via Reflected Diffusion on Ranks	https://proceedings.mlr.press/v306/he26ax.html	在单位区间用反射扩散模拟连续秩，逆过程按已选前缀生成排序，可为非独立的排列分布建可微采样。	written
+1544	he26ay	MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition	https://proceedings.mlr.press/v306/he26ay.html	用物理方程连接三个极化输出检测联合失配，并发现扩散的分通道残差可破坏光学关系，支持在多输出反演中用物理一致性选择替代模型（PDF §4.2）。	written
+1545	he26az	A Flat Vocabulary or a Rich Hierarchy? Re-introducing Intrinsic Structure Transforms the Autoregressive Image Generation	https://proceedings.mlr.press/v306/he26az.html	在视觉码字间依据流形结构形成语义树，训练先预测粗簇再复原具体码，可让自回归预测利用层级相似性。	written
+1546	he26ba	IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning	https://proceedings.mlr.press/v306/he26ba.html	按输出答案的不确定性前后差给每个推理 token 分配优势，可减少无信息步骤而保留对结论重要的计算。	written
+1547	he26bb	Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search	https://proceedings.mlr.press/v306/he26bb.html	只比较与刚训练结构足够相近的共享权重 NAS 候选，并用分布损失对齐尾部，可减少子网排序受未经充分训练的权重影响。	written
+1548	heald26a	Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands	https://proceedings.mlr.press/v306/heald26a.html	在估出的控制仿射动力学下解析优化潜动作对下一关节速度的互信息，可用协同控制子空间训练欠驱动手。	written
+1549	heck26a	SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly	https://proceedings.mlr.press/v306/heck26a.html	通过惯性定义全局规范固定并在群商空间上插值，可为同一装配任务去除冗余刚体位姿。	written
+1550	heckel26a	Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards	https://proceedings.mlr.press/v306/heckel26a.html	按提示的当前成功率设不对称训练权重，并用有效时间刻画学习速率，可在 RLVR 中针对处于不同掌握阶段的题目分预算。	written
 1551	hehl26a	Neural Feature Geometry Evolves as Discrete Ricci Flow	https://proceedings.mlr.press/v306/hehl26a.html		written
 1552	heidari26a	TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions	https://proceedings.mlr.press/v306/heidari26a.html		written
 1553	heile26a	From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets	https://proceedings.mlr.press/v306/heile26a.html		written

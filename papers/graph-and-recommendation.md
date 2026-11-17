@@ -56,7 +56,6 @@
 ### 损失函数
 
 - <a id="chen26ez-loss-functions"></a>[Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](../conferences/icml-2026/cards/0601-0700.md#paper-chen26ez)
-- <a id="chen26gu-loss-functions"></a>[GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment](../conferences/icml-2026/cards/0601-0700.md#paper-chen26gu)
 - <a id="chen26gx-loss-functions"></a>[ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](../conferences/icml-2026/cards/0601-0700.md#paper-chen26gx)
 - <a id="deng26u-loss-functions"></a>[Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](../conferences/icml-2026/cards/0801-0900.md#paper-deng26u)
 - <a id="ding26v-loss-functions"></a>[Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](../conferences/icml-2026/cards/0901-1000.md#paper-ding26v)

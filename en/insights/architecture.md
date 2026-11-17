@@ -25,7 +25,6 @@ Model-wide design and information flow.
 - [Artificial Hippocampus Networks for Efficient Long-Context Modeling](../../conferences/icml-2026/cards/1001-1100.md#fang26w-architecture) · 中文
 - [Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](../../conferences/icml-2026/cards/1101-1200.md#fu26t-architecture) · 中文
 - [Caracal: Causal Architecture via Spectral Mixing](../../conferences/icml-2026/cards/1101-1200.md#gan26c-architecture) · 中文
-- [Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](../../conferences/icml-2026/cards/1501-1600.md#he26i-architecture) · 中文
 - [SD-MoE: Spectral Decomposition for Effective Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#huang26i-architecture) · 中文
 - [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](../../conferences/icml-2026/cards/1601-1700.md#huang26l-architecture) · 中文
 - [MDN: Parallelizing Stepwise Momentum for Delta Linear Attention](../../conferences/icml-2026/cards/1701-1800.md#huang26af-architecture) · 中文

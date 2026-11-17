@@ -179,7 +179,6 @@ Objectives, auxiliary supervision, and regularization.
 ### Graph Learning and Recommendation
 
 - [Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](../../conferences/icml-2026/cards/0601-0700.md#chen26ez-loss-functions) · 中文
-- [GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment](../../conferences/icml-2026/cards/0601-0700.md#chen26gu-loss-functions) · 中文
 - [ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](../../conferences/icml-2026/cards/0601-0700.md#chen26gx-loss-functions) · 中文
 - [Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](../../conferences/icml-2026/cards/0801-0900.md#deng26u-loss-functions) · 中文
 - [Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](../../conferences/icml-2026/cards/0901-1000.md#ding26v-loss-functions) · 中文

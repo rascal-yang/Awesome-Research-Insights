@@ -64,7 +64,6 @@
 - [视觉概念瓶颈的原型证据](../conferences/icml-2026/cards/0701-0800.md#colamonaco26a-modules) · Prototype-Grounded Concept Models for Verifiable Concept Alignment
 - [卷积权重与特征的双空间扰动](../conferences/icml-2026/cards/0801-0900.md#dhar26a-modules) · Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?
 - [偏振物理先验的透明物体深度](../conferences/icml-2026/cards/0901-1000.md#dong26i-modules) · PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors
-- [红外可见光融合的卷积分支折叠](../conferences/icml-2026/cards/0901-1000.md#duan26a-modules) · MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization
 - [人体视频的非对称身份注意力](../conferences/icml-2026/cards/1401-1500.md#guo26ad-modules) · WildActor: Unconstrained Identity-Preserving Video Generation
 - [超分辨率的跨尺度词元前缀](../conferences/icml-2026/cards/1401-1500.md#hadji26a-modules) · Hierarchical Image Tokenization for Multi-Scale Image Super Resolution
 - [用三维表面坐标连接跨姿态参考](../conferences/icml-2026/cards/1401-1500.md#han26ab-modules) · Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization
@@ -208,7 +207,6 @@
 
 - [网格动力学平滑](../conferences/icml-2026/cards/0201-0300.md#berman26d-modules) · Smoothness Errors in Dynamics Models and How to Avoid Them
 - [医学视觉定位](../conferences/icml-2026/cards/0401-0500.md#chang26b-modules) · MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models
-- [口袋与配体双向融合](../conferences/icml-2026/cards/0501-0600.md#chen26bw-modules) · TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion
 - [脑电信号的复数频谱细化](../conferences/icml-2026/cards/0601-0700.md#chen26fr-modules) · PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding
 - [原子间势的自适应贝叶斯失活](../conferences/icml-2026/cards/0701-0800.md#coscia26a-modules) · BLIPs: Bayesian Learned Interatomic Potentials
 - [用虚拟三跳路径编码蛋白交互先验](../conferences/icml-2026/cards/1201-1300.md#gao26ap-modules) · Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach

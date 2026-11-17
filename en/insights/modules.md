@@ -64,7 +64,6 @@ Reusable components and local changes to model inputs or connections.
 - [Prototype-Grounded Concept Models for Verifiable Concept Alignment](../../conferences/icml-2026/cards/0701-0800.md#colamonaco26a-modules) · 中文
 - [Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?](../../conferences/icml-2026/cards/0801-0900.md#dhar26a-modules) · 中文
 - [PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors](../../conferences/icml-2026/cards/0901-1000.md#dong26i-modules) · 中文
-- [MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](../../conferences/icml-2026/cards/0901-1000.md#duan26a-modules) · 中文
 - [WildActor: Unconstrained Identity-Preserving Video Generation](../../conferences/icml-2026/cards/1401-1500.md#guo26ad-modules) · 中文
 - [Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](../../conferences/icml-2026/cards/1401-1500.md#hadji26a-modules) · 中文
 - [Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization](../../conferences/icml-2026/cards/1401-1500.md#han26ab-modules) · 中文
@@ -208,7 +207,6 @@ Reusable components and local changes to model inputs or connections.
 
 - [Smoothness Errors in Dynamics Models and How to Avoid Them](../../conferences/icml-2026/cards/0201-0300.md#berman26d-modules) · 中文
 - [MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](../../conferences/icml-2026/cards/0401-0500.md#chang26b-modules) · 中文
-- [TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](../../conferences/icml-2026/cards/0501-0600.md#chen26bw-modules) · 中文
 - [PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](../../conferences/icml-2026/cards/0601-0700.md#chen26fr-modules) · 中文
 - [BLIPs: Bayesian Learned Interatomic Potentials](../../conferences/icml-2026/cards/0701-0800.md#coscia26a-modules) · 中文
 - [Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](../../conferences/icml-2026/cards/1201-1300.md#gao26ap-modules) · 中文
