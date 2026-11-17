@@ -95,6 +95,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Model-Preserving Adaptive Rounding](../../conferences/icml-2026/cards/4401-4500.md#tseng26b-optimization) · 中文
 - [Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models](../../conferences/icml-2026/cards/4501-4600.md#tu26b-optimization) · 中文
 - [SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot](../../conferences/icml-2026/cards/4501-4600.md#tuo26a-optimization) · 中文
+- [Faster Query-Key Learning Sharpens Attention in Self-Attention Models](../../conferences/icml-2026/cards/4501-4600.md#vashisht26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -405,6 +406,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity](../../conferences/icml-2026/cards/4401-4500.md#tran26d-optimization) · 中文
 - [Near-Optimal Convergence of Accelerated Gradient Methods under Generalized and $(L_0,L_1)$-Smoothness](../../conferences/icml-2026/cards/4501-4600.md#tyurin26b-optimization) · 中文
 - [DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces](../../conferences/icml-2026/cards/4501-4600.md#valentin26a-optimization) · 中文
+- [DP-KFC: Data-Free Preconditioning for Privacy-Preserving Deep Learning](../../conferences/icml-2026/cards/4501-4600.md#van-den-bosch26a-optimization) · 中文
+- [Variance-Reduced $(\varepsilon, δ)-$Unlearning using Forget Set Gradients](../../conferences/icml-2026/cards/4501-4600.md#van-waerebeke26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

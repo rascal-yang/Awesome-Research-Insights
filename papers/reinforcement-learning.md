@@ -345,4 +345,5 @@
 - <a id="shi26s-theory-statistics"></a>[Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO](../conferences/icml-2026/cards/4101-4200.md#paper-shi26s)
 - <a id="singh26e-theory-statistics"></a>[Holonomy Grid Codes for Generalisation Under Directed Actions](../conferences/icml-2026/cards/4101-4200.md#paper-singh26e)
 - <a id="tian26b-theory-statistics"></a>[Bridging the Gap Between Average and Discounted TD Learning](../conferences/icml-2026/cards/4401-4500.md#paper-tian26b)
+- <a id="viano26a-theory-statistics"></a>[Multi-agent imitation learning with function approximation: linear Markov games and beyond](../conferences/icml-2026/cards/4501-4600.md#paper-viano26a)
 <!-- classification:end -->

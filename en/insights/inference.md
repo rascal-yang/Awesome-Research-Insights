@@ -311,6 +311,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](../../conferences/icml-2026/cards/4401-4500.md#tian26m-inference) · 中文
 - [Task-Awareness Improves LLM Generations and Uncertainty](../../conferences/icml-2026/cards/4401-4500.md#tomov26a-inference) · 中文
 - [DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling](../../conferences/icml-2026/cards/4501-4600.md#tu26c-inference) · 中文
+- [FPTQuant: Function-Preserving Transforms for LLM Quantization](../../conferences/icml-2026/cards/4501-4600.md#van-breugel26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -418,6 +419,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation](../../conferences/icml-2026/cards/4301-4400.md#tang26q-inference) · 中文
 - [Bayesian Tensor Decomposition with Diffusion Model Prior](../../conferences/icml-2026/cards/4401-4500.md#tao26h-inference) · 中文
 - [Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing](../../conferences/icml-2026/cards/4401-4500.md#tong26k-inference) · 中文
+- [Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions](../../conferences/icml-2026/cards/4501-4600.md#nguyen26v-inference) · 中文
 
 <a id="by-nlp"></a>
 

@@ -405,6 +405,7 @@
 - <a id="tang26q-inference"></a>[When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation](../conferences/icml-2026/cards/4301-4400.md#paper-tang26q)
 - <a id="tao26h-inference"></a>[Bayesian Tensor Decomposition with Diffusion Model Prior](../conferences/icml-2026/cards/4401-4500.md#paper-tao26h)
 - <a id="tong26k-inference"></a>[Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing](../conferences/icml-2026/cards/4401-4500.md#paper-tong26k)
+- <a id="nguyen26v-inference"></a>[Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions](../conferences/icml-2026/cards/4501-4600.md#paper-nguyen26v)
 
 <a id="by-representation-learning"></a>
 
@@ -462,6 +463,7 @@
 - <a id="timilsina26a-representation-learning"></a>[Content-Style Identification via Differential Independence](../conferences/icml-2026/cards/4401-4500.md#paper-timilsina26a)
 - <a id="tong26g-representation-learning"></a>[Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](../conferences/icml-2026/cards/4401-4500.md#paper-tong26g)
 - <a id="turan26b-representation-learning"></a>[Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings](../conferences/icml-2026/cards/4501-4600.md#paper-turan26b)
+- <a id="vemuri26a-representation-learning"></a>[Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning](../conferences/icml-2026/cards/4501-4600.md#paper-vemuri26a)
 
 <a id="by-evaluation"></a>
 

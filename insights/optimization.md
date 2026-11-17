@@ -95,6 +95,7 @@
 - [end-to-end-rounding-curvature](../conferences/icml-2026/cards/4401-4500.md#tseng26b-optimization) · Model-Preserving Adaptive Rounding
 - [analytic-plus-learned-binary-scaling](../conferences/icml-2026/cards/4501-4600.md#tu26b-optimization) · Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models
 - [time-shared-ssm-pruning](../conferences/icml-2026/cards/4501-4600.md#tuo26a-optimization) · SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot
+- [QK与OV相对学习速度控制注意力](../conferences/icml-2026/cards/4501-4600.md#vashisht26a-optimization) · Faster Query-Key Learning Sharpens Attention in Self-Attention Models
 
 <a id="by-computer-vision"></a>
 
@@ -405,6 +406,8 @@
 - [位置编码约束的权重匹配](../conferences/icml-2026/cards/4401-4500.md#tran26d-optimization) · Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity
 - [accelerate-after-local-smoothness-entry](../conferences/icml-2026/cards/4501-4600.md#tyurin26b-optimization) · Near-Optimal Convergence of Accelerated Gradient Methods under Generalized and $(L_0,L_1)$-Smoothness
 - [double-batch-dictionary-learning](../conferences/icml-2026/cards/4501-4600.md#valentin26a-optimization) · DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces
+- [无真实数据的KFAC预条件](../conferences/icml-2026/cards/4501-4600.md#van-den-bosch26a-optimization) · DP-KFC: Data-Free Preconditioning for Privacy-Preserving Deep Learning
+- [遗忘梯度作零均值控制变量](../conferences/icml-2026/cards/4501-4600.md#van-waerebeke26a-optimization) · Variance-Reduced $(\varepsilon, δ)-$Unlearning using Forget Set Gradients
 
 <a id="by-graph-and-recommendation"></a>
 

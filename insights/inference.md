@@ -311,6 +311,7 @@
 - [可执行程序的静默语义错误探测](../conferences/icml-2026/cards/4401-4500.md#tian26m-inference) · LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement
 - [任务结构空间中的Bayes合成](../conferences/icml-2026/cards/4401-4500.md#tomov26a-inference) · Task-Awareness Improves LLM Generations and Uncertainty
 - [stepwise-difficulty-control](../conferences/icml-2026/cards/4501-4600.md#tu26c-inference) · DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling
+- [利用等变性重排量化变换](../conferences/icml-2026/cards/4501-4600.md#van-breugel26a-inference) · FPTQuant: Function-Preserving Transforms for LLM Quantization
 
 <a id="by-computer-vision"></a>
 
@@ -418,6 +419,7 @@
 - [PU过滤后校准零样本原型](../conferences/icml-2026/cards/4301-4400.md#tang26q-inference) · When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation
 - [low-rank-diffusion-splitting](../conferences/icml-2026/cards/4401-4500.md#tao26h-inference) · Bayesian Tensor Decomposition with Diffusion Model Prior
 - [熵感知视觉稀疏注意力](../conferences/icml-2026/cards/4401-4500.md#tong26k-inference) · Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing
+- [图像扩散后验的Stein校正](../conferences/icml-2026/cards/4501-4600.md#nguyen26v-inference) · Stein Diffusion Guidance: Training-Free Posterior Correction for Sampling Beyond High-Density Regions
 
 <a id="by-nlp"></a>
 

@@ -4530,26 +4530,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4529	vaidyan26a	4	4	4	3	77		新增量/复用/可用性/独特性=4/4/4/3；凸复合随机优化若每个平滑分量均凸且L光滑，可在仅最优点方差有限时采用固定预算步长并交付最后迭代；随机选正则prox还需各项Lipschitz及额外误差。 边界：仍有componentwise凸性/光滑与最优点有限方差，非任意重尾非凸训练；随机正则数m的平方项可能大；已知预算步长、最后迭代是期望界，不能称逐路径单调或高概率保证；未给神经网络实证。（PDF第2,4,5,6,7页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vaidyan26a/vaidyan26a.pdf	scored
 4530	valdrighi26a							p3–7：选择标签下把群体fairness分解为观测差异和标签预测误差，以IPW/Renyi约束拒绝群体的偏差；新结果紧依赖三类公平效用及接受/拒绝模型。给出经济群体指标优化，但未建立可直接改变相关深度学习表征、训练或具身决策技术选择的独立跨任务机制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/valdrighi26a/valdrighi26a.pdf	rule-excluded
 4531	valentin26a	3	4	4	3	70		新增量/复用/可用性/独特性=3/4/4/3；为判断SAE是否被线性编码器限制，可用内外双batch KSVD作非神经字典学习对照：外层限制样本、内层并行原子更新，并单独跟踪重建、语义probe和字典相干度。 边界：同时batch更新非原KSVD数学等价，原收敛保证不可直接继承；baseline巨量运行时间由小问题估计，非完整实测；相干度偏高且解释指标未全面超SAE；可用性取决于缓存Gram和CPU/GPU瓶颈。（PDF第3,4,5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/valentin26a/valentin26a.pdf	scored
-4532	valero-leal26a							待原文复核评分	pending
-4533	van-breugel26a							待原文复核评分	pending
-4534	van-den-bosch26a							待原文复核评分	pending
-4535	van-huffel26a							待原文复核评分	pending
-4536	nguyen26v							待原文复核评分	pending
-4537	van-waerebeke26a							待原文复核评分	pending
-4538	varma26a							待原文复核评分	pending
-4539	vashisht26a							待原文复核评分	pending
-4540	vaswani26a							待原文复核评分	pending
-4541	vazhentsev26a							待原文复核评分	pending
-4542	velasco26a							待原文复核评分	pending
-4543	vemuri26a							待原文复核评分	pending
-4544	venhoff26a							待原文复核评分	pending
-4545	venkataramani26a							待原文复核评分	pending
-4546	venkatesh26a							待原文复核评分	pending
-4547	vergara-browne26a							待原文复核评分	pending
-4548	verine26a							待原文复核评分	pending
-4549	verma26a							待原文复核评分	pending
-4550	verma26b							待原文复核评分	pending
-4551	viano26a							待原文复核评分	pending
+4532	valero-leal26a							PDF3–7以仿射/高斯OT映射替代逐样本组反事实优化，明确贡献为表格数值特征与线性分类器recourse及几何保持；未验证能改变神经表征/策略/训练选择，跨到具身或相关DL仅整理者设想，故不以通用OT名称收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/valero-leal26a/valero-leal26a.pdf	rule-excluded
+4533	van-breugel26a	4	5	3	4	82		可合并逐头变换与递归尺度提供独立量化选择，复用广；附录16与实际角度代码澄清SO2/pair尺度，原文O2符号过宽；前置QK RMSNorm异尺度泛化仍无补偿，故可用性3。表1/2的匹配预算及失败例支持经验机制（PDF3–9、16；作者代码）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/van-breugel26a/van-breugel26a.pdf	scored
+4534	van-den-bosch26a	4	4	4	4	80		新增独立合成探针KFAC而非公共代理；多模态DP训练可复用、算法和会计边界可操作；均场幅度不等于有限Fisher恢复，且NLP/深层有失配（PDF4–9）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/van-den-bosch26a/van-den-bosch26a.pdf	scored
+4535	van-huffel26a	4	5	4	4	86		相对MPMC固定点集新增所有前缀目标，采样预算可变场景广泛复用；RRT与PDE证据支持，可预计算使用，但有限长度与O(dN²)制约部署（PDF4、7–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/van-huffel26a/van-huffel26a.pdf	scored
+4536	nguyen26v	4	4	3	4	76		back-and-forth后验粒子校正超出仅Tweedie引导，图像去模糊/超分可复用；score近似及36.2%时间开销限制可用性，只采图像证据（PDF5–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/nguyen26v/nguyen26v.pdf	scored
+4537	van-waerebeke26a	4	4	3	4	76		forget梯度作零均值校正超出retain微调，可复用为小比例遗忘控制变量；投影和噪声明确，认证却要求原最优点和强凸，非凸不保证（PDF3–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/van-waerebeke26a/van-waerebeke26a.pdf	scored
+4538	varma26a							PDF4–8的Symbal以现成嵌入、alignment scorer、聚类和LLM分两阶段审计caption错误；受控改进主要为组件选型，未分离出超出此审计流程的独立新神经机制。420数据集63.8%检出率是任务管线成绩，未据此建立可迁移的训练数据决策规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/varma26a/varma26a.pdf	rule-excluded
+4539	vashisht26a	4	5	4	4	86		相对仅collapsed分析识别因子化预条件及QK/OV相对速度，直接可改单独学习率；20倍QK SQuAD控制证据强，理论受正交与平衡初始化限制（PDF4–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vashisht26a/vashisht26a.pdf	scored
+4540	vaswani26a	4	4	3	4	76		目标值依赖曲率阈值明确区分快慢阶段，比笼统Adam优势多出可用精度边界；确定性条件下可复用，µ、H0/H1难在深网验证，可用性3（PDF3、5、7–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vaswani26a/vaswani26a.pdf	scored
+4541	vazhentsev26a	3	5	4	3	76		相对Focus新增逐响应头选择和局部递归，虽组合增量中等但单次生成广泛可用；PRR0.384对困惑度0.357并有摘要负例；白盒成本与近邻相关性限制（PDF4–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vazhentsev26a/vazhentsev26a.pdf	scored
+4542	velasco26a							PDF3–8研究输出tokenization账单的激励相容定价和可验证性；贡献改变API计费/审计规则而非具身或相关DL训练推理技术选择，因此排除；无需提取误报账单的实现启发。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/velasco26a/velasco26a.pdf	rule-excluded
+4543	vemuri26a	3	4	3	4	69		格层与表示粒度匹配超出末层CBM，复用于属性监督；相同格属性末层对照支持ImageNet但CIFAR逆转，属性依赖和未经核实理论限制可用程度（PDF5–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vemuri26a/vemuri26a.pdf	scored
+4544	venhoff26a	4	4	3	4	76		构造式差分与随机干预给RL/SFT区别的独立诊断，非只分数；多模型可复用，但在线依赖thinking和协议差异使“原本能力”解释不可直接采用（PDF5–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/venhoff26a/venhoff26a.pdf	scored
+4545	venkataramani26a	3	5	4	4	79		算法组件成熟但跨MAS的粒度/上下文失败规律有独立价值；能直接改变验证器验证流程，GAIA负例和token成本量化；非等预算和OOD训练限制普遍推论（PDF4–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/venkataramani26a/venkataramani26a.pdf	scored
+4546	venkatesh26a							复核最近先例VideoJAM(ICML2025)PDF4–5已联合噪声化视频/光流并从共享表示预测两者；本作PDF3–4的RGB+flow辅助去噪未给出超出该机制的独立新约束或目标，另接SparseCtrl稀疏条件并应用手术少数类。其PDF7–8消融支持本场景有用，但不建立独立新增量，排除；先例 https://proceedings.mlr.press/v267/chefer25a.html 。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/venkatesh26a/venkatesh26a.pdf	rule-excluded
+4547	vergara-browne26a	4	4	3	4	76		统一可执行码长把prompt、参数、数据适配放同一前沿，诊断价值超出单个压缩器；可复用但仅搜索上界，编码约定和算力混杂限制操作解释（PDF3–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/vergara-browne26a/vergara-browne26a.pdf	scored
+4548	verine26a	4	4	4	4	80		超出群体比例公平的条件质量标准及失配反例可改变合成数据审计；理论边界与min-max操作清楚，指标/代理差距仍需独立检查（PDF3–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/verine26a/verine26a.pdf	scored
+4549	verma26a							PDF3–7将带历史效用的物品公平分配写为contextual bandit，估计线性/核效用并给公平regret界；技术目标为资源分配goodness而非策略/表示/神经训练，未建立相关DL中独立可用的操作，排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/verma26a/verma26a.pdf	rule-excluded
+4550	verma26b							复核RegMean原文§3.2–3.4/Eq2与Alg1已用各源模型自身各线性层输入二阶矩，独立逐块闭式拟合，源激活而非合并激活也属原机制；4550 PDF4–5 Eq8–11在G=ZW时即同一Gram加权LS。PDF8–9 GNN实验未与RegMean做匹配比较，无法证明新图边界或独立新操作；同机制换图场景及规模成绩不足收录。先例 https://arxiv.org/html/2212.09849v3#S3 。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/verma26b/verma26b.pdf	rule-excluded
+4551	viano26a	4	5	3	4	82		相对tabular MAIL新增特征级覆盖条件与线性交互算法，能指导BC或探索的选择；理论和Connect4对照齐全，但线性可实现、专家查询要求及深度无保证使可用性3（PDF3–8）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/viano26a/viano26a.pdf	scored
 4552	vijayvargiya26a							待原文复核评分	pending
 4553	vilucchio26a							待原文复核评分	pending
 4554	vinas-torne26a							待原文复核评分	pending

@@ -239,6 +239,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tseng26b-optimization"></a>[Model-Preserving Adaptive Rounding](../../conferences/icml-2026/cards/4401-4500.md#paper-tseng26b)
 - <a id="tu26b-optimization"></a>[Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models](../../conferences/icml-2026/cards/4501-4600.md#paper-tu26b)
 - <a id="tuo26a-optimization"></a>[SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot](../../conferences/icml-2026/cards/4501-4600.md#paper-tuo26a)
+- <a id="vashisht26a-optimization"></a>[Faster Query-Key Learning Sharpens Attention in Self-Attention Models](../../conferences/icml-2026/cards/4501-4600.md#paper-vashisht26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -907,6 +908,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tian26m-inference"></a>[LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26m)
 - <a id="tomov26a-inference"></a>[Task-Awareness Improves LLM Generations and Uncertainty](../../conferences/icml-2026/cards/4401-4500.md#paper-tomov26a)
 - <a id="tu26c-inference"></a>[DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling](../../conferences/icml-2026/cards/4501-4600.md#paper-tu26c)
+- <a id="van-breugel26a-inference"></a>[FPTQuant: Function-Preserving Transforms for LLM Quantization](../../conferences/icml-2026/cards/4501-4600.md#paper-van-breugel26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1241,6 +1243,10 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tong26d-evaluation"></a>[Is Code Better Than Language for Algorithmic Reasoning?](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26d)
 - <a id="tran26b-evaluation"></a>[Poison with Style: A Practical Poisoning Attack on Code Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26b)
 - <a id="truong26b-evaluation"></a>[Item Response Scaling Laws: A Measurement Theory Approach for Efficient and Generalizable Neural Scaling Estimation](../../conferences/icml-2026/cards/4401-4500.md#paper-truong26b)
+- <a id="vazhentsev26a-evaluation"></a>[Efficient Hallucination Detection for LLMs Using Uncertainty-Aware Attention Heads](../../conferences/icml-2026/cards/4501-4600.md#paper-vazhentsev26a)
+- <a id="venhoff26a-evaluation"></a>[Base Models Know How to Reason, Thinking Models Learn When](../../conferences/icml-2026/cards/4501-4600.md#paper-venhoff26a)
+- <a id="venkataramani26a-evaluation"></a>[MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems](../../conferences/icml-2026/cards/4501-4600.md#paper-venkataramani26a)
+- <a id="vergara-browne26a-evaluation"></a>[Operationalising the Superficial Alignment Hypothesis via Task Complexity](../../conferences/icml-2026/cards/4501-4600.md#paper-vergara-browne26a)
 
 <a id="by-theory-statistics"></a>
 

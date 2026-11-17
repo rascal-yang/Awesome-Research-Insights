@@ -166,6 +166,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO](../../conferences/icml-2026/cards/4101-4200.md#shi26s-theory-statistics) · 中文
 - [Holonomy Grid Codes for Generalisation Under Directed Actions](../../conferences/icml-2026/cards/4101-4200.md#singh26e-theory-statistics) · 中文
 - [Bridging the Gap Between Average and Discounted TD Learning](../../conferences/icml-2026/cards/4401-4500.md#tian26b-theory-statistics) · 中文
+- [Multi-agent imitation learning with function approximation: linear Markov games and beyond](../../conferences/icml-2026/cards/4501-4600.md#viano26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -561,6 +562,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Conservation Laws for Modern Neural Architectures](../../conferences/icml-2026/cards/4401-4500.md#tran26c-theory-statistics) · 中文
 - [Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration](../../conferences/icml-2026/cards/4501-4600.md#tyurin26a-theory-statistics) · 中文
 - [Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms](../../conferences/icml-2026/cards/4501-4600.md#vaidyan26a-theory-statistics) · 中文
+- [Convergence of Steepest Descent and Adam under Non-Uniform Smoothness](../../conferences/icml-2026/cards/4501-4600.md#vaswani26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -166,6 +166,7 @@
 - [按奖励结构选择RLHF或DPO](../conferences/icml-2026/cards/4101-4200.md#shi26s-theory-statistics) · Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO
 - [非交换动作需要矩阵谱](../conferences/icml-2026/cards/4101-4200.md#singh26e-theory-statistics) · Holonomy Grid Codes for Generalisation Under Directed Actions
 - [independent-chain-average-td](../conferences/icml-2026/cards/4401-4500.md#tian26b-theory-statistics) · Bridging the Gap Between Average and Discounted TD Learning
+- [多智能体模仿的特征覆盖与交互选择](../conferences/icml-2026/cards/4501-4600.md#viano26a-theory-statistics) · Multi-agent imitation learning with function approximation: linear Markov games and beyond
 
 <a id="by-robotics"></a>
 
@@ -561,6 +562,7 @@
 - [现代模块守恒量诊断边界](../conferences/icml-2026/cards/4401-4500.md#tran26c-theory-statistics) · Conservation Laws for Modern Neural Architectures
 - [perceptron-view-of-reparameterization](../conferences/icml-2026/cards/4501-4600.md#tyurin26a-theory-statistics) · Gradient Descent as a Perceptron Algorithm: Understanding Dynamics and Implicit Acceleration
 - [last-iterate-prox-with-local-variance](../conferences/icml-2026/cards/4501-4600.md#vaidyan26a-theory-statistics) · Convergence Rate of the Last Iterate of Stochastic Proximal Algorithms
+- [非均匀光滑下的优化阶段选择](../conferences/icml-2026/cards/4501-4600.md#vaswani26a-theory-statistics) · Convergence of Steepest Descent and Adam under Non-Uniform Smoothness
 
 <a id="by-graph-and-recommendation"></a>
 

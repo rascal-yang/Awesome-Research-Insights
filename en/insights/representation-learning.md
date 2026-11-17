@@ -85,6 +85,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Content-Style Identification via Differential Independence](../../conferences/icml-2026/cards/4401-4500.md#timilsina26a-representation-learning) · 中文
 - [Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](../../conferences/icml-2026/cards/4401-4500.md#tong26g-representation-learning) · 中文
 - [Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings](../../conferences/icml-2026/cards/4501-4600.md#turan26b-representation-learning) · 中文
+- [Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning](../../conferences/icml-2026/cards/4501-4600.md#vemuri26a-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

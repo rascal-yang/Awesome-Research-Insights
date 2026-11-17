@@ -85,6 +85,7 @@
 - [内容风格切空间正交](../conferences/icml-2026/cards/4401-4500.md#timilsina26a-representation-learning) · Content-Style Identification via Differential Independence
 - [因果属性与文本槽位对齐](../conferences/icml-2026/cards/4401-4500.md#tong26g-representation-learning) · Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation
 - [concept-space-prover-verifier](../conferences/icml-2026/cards/4501-4600.md#turan26b-representation-learning) · Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings
+- [按概念格粒度监督网络中间层](../conferences/icml-2026/cards/4501-4600.md#vemuri26a-representation-learning) · Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning
 
 <a id="by-nlp"></a>
 

@@ -322,6 +322,10 @@
 - [代码表示与执行机制的配对分离](../conferences/icml-2026/cards/4401-4500.md#tong26d-evaluation) · Is Code Better Than Language for Algorithmic Reasoning?
 - [代码风格条件化安全失效](../conferences/icml-2026/cards/4401-4500.md#tran26b-evaluation) · Poison with Style: A Practical Poisoning Attack on Code Large Language Models
 - [probability-irt-scaling](../conferences/icml-2026/cards/4401-4500.md#truong26b-evaluation) · Item Response Scaling Laws: A Measurement Theory Approach for Efficient and Generalizable Neural Scaling Estimation
+- [选择局部依赖头递归传播不确定性](../conferences/icml-2026/cards/4501-4600.md#vazhentsev26a-evaluation) · Efficient Hallucination Detection for LLMs Using Uncertainty-Aware Attention Heads
+- [构造式模型差分区分机制与调用时机](../conferences/icml-2026/cards/4501-4600.md#venhoff26a-evaluation) · Base Models Know How to Reason, Thinking Models Learn When
+- [多智能体过程验证的迁移失败边界](../conferences/icml-2026/cards/4501-4600.md#venkataramani26a-evaluation) · MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems
+- [以可执行适配程序的码长比较任务复杂度](../conferences/icml-2026/cards/4501-4600.md#vergara-browne26a-evaluation) · Operationalising the Superficial Alignment Hypothesis via Task Complexity
 
 <a id="by-computer-vision"></a>
 
@@ -581,6 +585,7 @@
 - [stochastic-training-barrier-validation](../conferences/icml-2026/cards/4301-4400.md#taheri26b-evaluation) · Probabilistic Robustness Certificates against Adversarial Attacks
 - [unseen-class-privacy-auditing](../conferences/icml-2026/cards/4401-4500.md#thaker26a-evaluation) · Membership Inference Attacks for Unseen Classes
 - [ranking-calibration-hierarchy](../conferences/icml-2026/cards/4401-4500.md#thies26a-evaluation) · Calibrated Preference Learning: The Case of Label Ranking
+- [生成公平必须比较组内质量](../conferences/icml-2026/cards/4501-4600.md#verine26a-evaluation) · Equalized Generative Treatment: Matching f-divergences for Fairness in Generative Models
 
 <a id="by-graph-and-recommendation"></a>
 
