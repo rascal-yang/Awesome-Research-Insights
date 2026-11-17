@@ -587,6 +587,9 @@
 - [用固定参考集构造条件有效的共形偏移检测](../conferences/icml-2026/cards/4001-4100.md#shaer26a-theory-statistics) · Testing For Distribution Shifts with Conditional Conformal Test Martingales
 - [以 KDE 查询近似核矩阵线性代数](../conferences/icml-2026/cards/4001-4100.md#shah26c-theory-statistics) · Even Faster Kernel Matrix Linear Algebra via Density Estimation
 - [从可辨识的端到端等变网络恢复逐层群作用](../conferences/icml-2026/cards/4001-4100.md#shahverdi26a-theory-statistics) · Identifiable Equivariant Networks are Layerwise Equivariant
+- [权重反演中的可辨识性与曲率诊断](../conferences/icml-2026/cards/4001-4100.md#shen26q-theory-statistics) · Data Reconstruction: Identifiability and Optimization with Sample Splitting
+- [用局部重复更新识别图结构](../conferences/icml-2026/cards/4001-4100.md#shen26t-theory-statistics) · Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing
+- [区分重尾数据抽样与固定集梯度噪声](../conferences/icml-2026/cards/4001-4100.md#shestakov26a-theory-statistics) · From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping
 
 <a id="by-graph-and-recommendation"></a>
 

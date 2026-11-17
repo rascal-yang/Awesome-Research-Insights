@@ -157,6 +157,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="reichart26a-loss-functions"></a>[Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization](../../conferences/icml-2026/cards/3801-3900.md#paper-reichart26a)
 - <a id="saengkyongam26a-loss-functions"></a>[Anti-causal domain generalization: Leveraging unlabeled data](../../conferences/icml-2026/cards/3901-4000.md#paper-saengkyongam26a)
 - <a id="shang26e-loss-functions"></a>[COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26e)
+- <a id="sheng26a-loss-functions"></a>[From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees](../../conferences/icml-2026/cards/4001-4100.md#paper-sheng26a)
 
 <a id="by-optimization"></a>
 
@@ -387,6 +388,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="seddiqi26a-optimization"></a>[Trajectory-Aware Heuristic Learning for Combinatorial Search](../../conferences/icml-2026/cards/3901-4000.md#paper-seddiqi26a)
 - <a id="sfyraki26a-optimization"></a>[Lions and Muons: Optimization via Stochastic Frank-Wolfe under Heavy-Tailed Noise](../../conferences/icml-2026/cards/4001-4100.md#paper-sfyraki26a)
 - <a id="shah26a-optimization"></a>[Fast k-means Seeding Under The Manifold Hypothesis](../../conferences/icml-2026/cards/4001-4100.md#paper-shah26a)
+- <a id="shen26x-optimization"></a>[A Two-Layer Framework for Joint Online Configuration Selection and Admission Control](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26x)
+- <a id="shi26a-optimization"></a>[UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -460,6 +463,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="qin26g-training-strategies"></a>[Towards Rule-Based Knowledge Sharing in Federated Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26g)
 - <a id="sakai26a-training-strategies"></a>[Sign Lock-In: Randomly Initialized Weight Signs Persist and Bottleneck Sub-Bit Model Compression](../../conferences/icml-2026/cards/3901-4000.md#paper-sakai26a)
 - <a id="sakata26a-training-strategies"></a>[Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off](../../conferences/icml-2026/cards/3901-4000.md#paper-sakata26a)
+- <a id="shen26f-training-strategies"></a>[Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26f)
+- <a id="shi26d-training-strategies"></a>[Coupled Training with Privileged Information and Unlabeled Data](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26d)
 
 <a id="by-data-strategies"></a>
 
@@ -649,6 +654,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="reuel26a-evaluation"></a>[Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](../../conferences/icml-2026/cards/3801-3900.md#paper-reuel26a)
 - <a id="rodriguez26a-evaluation"></a>[Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../../conferences/icml-2026/cards/3801-3900.md#paper-rodriguez26a)
 - <a id="sharief26a-evaluation"></a>[MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../../conferences/icml-2026/cards/4001-4100.md#paper-sharief26a)
+- <a id="shen26b-evaluation"></a>[CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26b)
 
 <a id="by-theory-statistics"></a>
 
@@ -1058,4 +1064,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shaer26a-theory-statistics"></a>[Testing For Distribution Shifts with Conditional Conformal Test Martingales](../../conferences/icml-2026/cards/4001-4100.md#paper-shaer26a)
 - <a id="shah26c-theory-statistics"></a>[Even Faster Kernel Matrix Linear Algebra via Density Estimation](../../conferences/icml-2026/cards/4001-4100.md#paper-shah26c)
 - <a id="shahverdi26a-theory-statistics"></a>[Identifiable Equivariant Networks are Layerwise Equivariant](../../conferences/icml-2026/cards/4001-4100.md#paper-shahverdi26a)
+- <a id="shen26q-theory-statistics"></a>[Data Reconstruction: Identifiability and Optimization with Sample Splitting](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26q)
+- <a id="shen26t-theory-statistics"></a>[Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26t)
+- <a id="shestakov26a-theory-statistics"></a>[From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping](../../conferences/icml-2026/cards/4001-4100.md#paper-shestakov26a)
 <!-- classification:end -->

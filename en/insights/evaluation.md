@@ -320,6 +320,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions](../../conferences/icml-2026/cards/4001-4100.md#shao26j-evaluation) · 中文
 - [Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage](../../conferences/icml-2026/cards/4001-4100.md#sharma26a-evaluation) · 中文
 - [RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations](../../conferences/icml-2026/cards/4001-4100.md#sharma26b-evaluation) · 中文
+- [IDRBench: Understanding the Capability of Large Language Models on Interdisciplinary Research](../../conferences/icml-2026/cards/4001-4100.md#shen26d-evaluation) · 中文
+- [TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios](../../conferences/icml-2026/cards/4001-4100.md#shen26j-evaluation) · 中文
+- [DecepChain: Inducing Deceptive Reasoning in Large Language Models](../../conferences/icml-2026/cards/4001-4100.md#shen26p-evaluation) · 中文
+- [BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code](../../conferences/icml-2026/cards/4001-4100.md#shen26ac-evaluation) · 中文
+- [Introspection Adapters: Training LLMs to Report Their Learned Behaviors](../../conferences/icml-2026/cards/4001-4100.md#shenoy26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -375,6 +380,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization](../../conferences/icml-2026/cards/3701-3800.md#qiu26b-evaluation) · 中文
 - [Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions](../../conferences/icml-2026/cards/3901-4000.md#safonov26a-evaluation) · 中文
 - [GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation](../../conferences/icml-2026/cards/3901-4000.md#salvy26a-evaluation) · 中文
+- [DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers](../../conferences/icml-2026/cards/4001-4100.md#shen26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -530,6 +536,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Can Vision Language Models Learn Intuitive Physics from Interaction?](../../conferences/icml-2026/cards/3901-4000.md#schulze-buschoff26a-evaluation) · 中文
 - [BEDTime: A Unified Benchmark for Automatically Describing Time Series](../../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · 中文
 - [Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · 中文
+- [Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · 中文
+- [MMClima: A Framework for Multimodal Climate Science Data and Evaluation](../../conferences/icml-2026/cards/4001-4100.md#sheikh26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -587,6 +595,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](../../conferences/icml-2026/cards/3801-3900.md#reuel26a-evaluation) · 中文
 - [Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · 中文
 - [MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · 中文
+- [CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -646,4 +655,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · 中文
 - [SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection](../../conferences/icml-2026/cards/3601-3700.md#park26y-evaluation) · 中文
 - [Fine-grained Analysis of Brain-LLM Alignment through Input Attribution](../../conferences/icml-2026/cards/3601-3700.md#proietti26a-evaluation) · 中文
+- [ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](../../conferences/icml-2026/cards/4001-4100.md#shen26h-evaluation) · 中文
+- [SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · 中文
+- [Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories](../../conferences/icml-2026/cards/4001-4100.md#shen26ae-evaluation) · 中文
 <!-- classification:end -->

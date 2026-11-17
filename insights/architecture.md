@@ -121,6 +121,7 @@
 - [局部支撑与功能关系合成室内场景](../conferences/icml-2026/cards/3801-3900.md#ran26d-architecture) · Pair2Scene: Learning Local Object Relations for Procedural Scene Generation
 - [在极性感知事件点云上用傅里叶层缩减时空特征开销](../conferences/icml-2026/cards/3801-3900.md#ren26j-architecture) · Scalable Event Cloud Network for Event-based Classification
 - [用调和深度补齐相邻全景间空隙](../conferences/icml-2026/cards/3901-4000.md#schnepf26a-architecture) · SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion
+- [脉冲 Transformer 的双向时间融合](../conferences/icml-2026/cards/4001-4100.md#shen26l-architecture) · TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers
 
 <a id="by-nlp"></a>
 
@@ -205,6 +206,7 @@
 - [按实际效用维护可组合的界面操作记忆](../conferences/icml-2026/cards/3201-3300.md#mi26b-architecture) · Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution
 - [生成码原位参与后续推理](../conferences/icml-2026/cards/3601-3700.md#peng26k-architecture) · Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification
 - [以三模态对齐和离线文字重参数化扩展脉冲 3D 模型](../conferences/icml-2026/cards/3701-3800.md#qiu26g-architecture) · SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding
+- [按流匹配时间分配 Transformer 层组](../conferences/icml-2026/cards/4001-4100.md#shen26w-architecture) · LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer
 
 <a id="by-ml-foundations"></a>
 

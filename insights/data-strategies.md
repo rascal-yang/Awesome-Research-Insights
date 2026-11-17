@@ -73,6 +73,7 @@
 - [小模型蒸馏保留本机推理表达](../conferences/icml-2026/cards/3701-3800.md#qian26l-data-strategies) · The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning
 - [基于共享历史的推理提示选样](../conferences/icml-2026/cards/3701-3800.md#qu26f-data-strategies) · Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models
 - [按用户保护完整纵向序列](../conferences/icml-2026/cards/3801-3900.md#rosenblatt26a-data-strategies) · Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data
+- [用补丁行召回构造仓库专用代理数据](../conferences/icml-2026/cards/4001-4100.md#shen26o-data-strategies) · SERA: Soft-Verified Efficient Repository Agents
 
 <a id="by-computer-vision"></a>
 

@@ -91,6 +91,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="pranger26a-reinforcement-learning"></a>[Efficient and Safe Molecular Assembly via Reinforcement Learning and Constraint Solving](../../conferences/icml-2026/cards/3601-3700.md#paper-pranger26a)
 - <a id="qiao26f-reinforcement-learning"></a>[Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26f)
 - <a id="ruan26c-reinforcement-learning"></a>[ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving](../../conferences/icml-2026/cards/3801-3900.md#paper-ruan26c)
+- <a id="shen26e-reinforcement-learning"></a>[Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26e)
 
 <a id="by-training-strategies"></a>
 
@@ -161,6 +162,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="panchal26b-inference"></a>[Mosaic: Runtime-Efficient Multi-Agent Embodied Planning](../../conferences/icml-2026/cards/3501-3600.md#paper-panchal26b)
 - <a id="pfaff26a-inference"></a>[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](../../conferences/icml-2026/cards/3601-3700.md#paper-pfaff26a)
 - <a id="ren26a-inference"></a>[Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26a)
+- <a id="shen26ab-inference"></a>[Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26ab)
 
 <a id="by-representation-learning"></a>
 

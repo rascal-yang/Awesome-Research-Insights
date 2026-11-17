@@ -123,6 +123,12 @@ Training schedules, curricula, and task or stage composition.
 - [Optimal Splitting of Language Models from Mixtures to Specialized Domains](../../conferences/icml-2026/cards/4001-4100.md#seto26a-training-strategies) · 中文
 - [TMS: Trajectory-Mixed Supervision for On-Policy Self Distillation](../../conferences/icml-2026/cards/4001-4100.md#shahroz26a-training-strategies) · 中文
 - [Training–Inference Consistent Segmented Execution for Long-Context LLMs](../../conferences/icml-2026/cards/4001-4100.md#shang26c-training-strategies) · 中文
+- [The Realignment Problem: When Right becomes Wrong in LLMs](../../conferences/icml-2026/cards/4001-4100.md#sharma26c-training-strategies) · 中文
+- [Training-Trajectory-Aware Token Selection](../../conferences/icml-2026/cards/4001-4100.md#shen26i-training-strategies) · 中文
+- [SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space](../../conferences/icml-2026/cards/4001-4100.md#shen26k-training-strategies) · 中文
+- [Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards](../../conferences/icml-2026/cards/4001-4100.md#shen26v-training-strategies) · 中文
+- [Self-Distillation Enables Continual Learning](../../conferences/icml-2026/cards/4001-4100.md#shenfeld26a-training-strategies) · 中文
+- [Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning](../../conferences/icml-2026/cards/4101-4200.md#shi26c-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -280,6 +286,8 @@ Training schedules, curricula, and task or stage composition.
 - [SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](../../conferences/icml-2026/cards/3601-3700.md#peng26n-training-strategies) · 中文
 - [FedSSM: State Space Model-based Proactive Inference for Heterogeneous Multimodal Federated Learning](../../conferences/icml-2026/cards/3801-3900.md#ren26r-training-strategies) · 中文
 - [BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks](../../conferences/icml-2026/cards/3901-4000.md#sabolic26a-training-strategies) · 中文
+- [CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection](../../conferences/icml-2026/cards/4001-4100.md#shen26r-training-strategies) · 中文
+- [Efficient Reasoning with Hidden Thinking](../../conferences/icml-2026/cards/4001-4100.md#shen26s-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -346,6 +354,8 @@ Training schedules, curricula, and task or stage composition.
 - [Towards Rule-Based Knowledge Sharing in Federated Learning](../../conferences/icml-2026/cards/3701-3800.md#qin26g-training-strategies) · 中文
 - [Sign Lock-In: Randomly Initialized Weight Signs Persist and Bottleneck Sub-Bit Model Compression](../../conferences/icml-2026/cards/3901-4000.md#sakai26a-training-strategies) · 中文
 - [Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off](../../conferences/icml-2026/cards/3901-4000.md#sakata26a-training-strategies) · 中文
+- [Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform](../../conferences/icml-2026/cards/4001-4100.md#shen26f-training-strategies) · 中文
+- [Coupled Training with Privileged Information and Unlabeled Data](../../conferences/icml-2026/cards/4101-4200.md#shi26d-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

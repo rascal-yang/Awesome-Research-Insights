@@ -179,6 +179,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="nakis26a-representation-learning"></a>[Aitchison Embeddings for Learning Compositional Graph Representations](../../conferences/icml-2026/cards/3401-3500.md#paper-nakis26a)
 - <a id="rubio-madrigal26a-representation-learning"></a>[Fixed Aggregation Features Can Rival GNNs](../../conferences/icml-2026/cards/3901-4000.md#paper-rubio-madrigal26a)
 - <a id="shan26b-representation-learning"></a>[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](../../conferences/icml-2026/cards/4001-4100.md#paper-shan26b)
+- <a id="shevkunov26a-representation-learning"></a>[Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls](../../conferences/icml-2026/cards/4001-4100.md#paper-shevkunov26a)
 
 <a id="by-evaluation"></a>
 

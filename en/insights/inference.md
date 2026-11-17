@@ -292,6 +292,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [MonoScale: Scaling Multi-Agent System with Monotonic Improvement](../../conferences/icml-2026/cards/4001-4100.md#shao26e-inference) · 中文
 - [Block Rotation is All You Need for MXFP4 Quantization](../../conferences/icml-2026/cards/4001-4100.md#shao26g-inference) · 中文
 - [Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks](../../conferences/icml-2026/cards/4001-4100.md#shao26i-inference) · 中文
+- [Reasoning Can Be Restored by Correcting a Few Decision Tokens](../../conferences/icml-2026/cards/4001-4100.md#shen26n-inference) · 中文
+- [SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models](../../conferences/icml-2026/cards/4001-4100.md#shen26z-inference) · 中文
+- [Structurally Aligned Subtask-Level Memory for Software Engineering Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26ad-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -462,6 +465,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Mosaic: Runtime-Efficient Multi-Agent Embodied Planning](../../conferences/icml-2026/cards/3501-3600.md#panchal26b-inference) · 中文
 - [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](../../conferences/icml-2026/cards/3601-3700.md#pfaff26a-inference) · 中文
 - [Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control](../../conferences/icml-2026/cards/3801-3900.md#ren26a-inference) · 中文
+- [Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](../../conferences/icml-2026/cards/4001-4100.md#shen26ab-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -551,6 +555,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · 中文
 - [DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · 中文
 - [LiveFigure: Generating Editable Scientific Illustration with VLM Agents](../../conferences/icml-2026/cards/4001-4100.md#shao26f-inference) · 中文
+- [Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

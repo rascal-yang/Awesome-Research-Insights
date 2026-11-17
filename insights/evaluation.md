@@ -320,6 +320,11 @@
 - [用实际解码阶段筛选干预方向](../conferences/icml-2026/cards/4001-4100.md#shao26j-evaluation) · DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions
 - [分辨对话中的风险与可见实际影响](../conferences/icml-2026/cards/4001-4100.md#sharma26a-evaluation) · Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage
 - [用评分衰减曲线定位细则缺口](../conferences/icml-2026/cards/4001-4100.md#sharma26b-evaluation) · RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations
+- [把跨学科研判拆成论文识别、想法整合和推荐](../conferences/icml-2026/cards/4001-4100.md#shen26d-evaluation) · IDRBench: Understanding the Capability of Large Language Models on Interdisciplinary Research
+- [多轮旅行规划及逐轮奖励评测](../conferences/icml-2026/cards/4001-4100.md#shen26j-evaluation) · TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios
+- [貌似可信推理的欺骗行为压力测试](../conferences/icml-2026/cards/4001-4100.md#shen26p-evaluation) · DecepChain: Inducing Deceptive Reasoning in Large Language Models
+- [按子任务规模联合检验代码时空效率](../conferences/icml-2026/cards/4001-4100.md#shen26ac-evaluation) · BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code
+- [用行为已知的模型群校准自我报告](../conferences/icml-2026/cards/4001-4100.md#shenoy26a-evaluation) · Introspection Adapters: Training LLMs to Report Their Learned Behaviors
 
 <a id="by-computer-vision"></a>
 
@@ -375,6 +380,7 @@
 - [用反演重建差异审计图像防仿制扰动](../conferences/icml-2026/cards/3701-3800.md#qiu26b-evaluation) · DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization
 - [按手机和观看条件校准视频质量排序](../conferences/icml-2026/cards/3901-4000.md#safonov26a-evaluation) · Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions
 - [用多尺度近邻距离重标定缓解生成评价的 hubness](../conferences/icml-2026/cards/3901-4000.md#salvy26a-evaluation) · GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation
+- [用组合触发测试 ViT 检查点供应链防御](../conferences/icml-2026/cards/4001-4100.md#shen26a-evaluation) · DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers
 
 <a id="by-nlp"></a>
 
@@ -530,6 +536,8 @@
 - [交叉测试物理能力与任务捷径](../conferences/icml-2026/cards/3901-4000.md#schulze-buschoff26a-evaluation) · Can Vision Language Models Learn Intuitive Physics from Interaction?
 - [跨模态时序描述的基础评测](../conferences/icml-2026/cards/3901-4000.md#sen26a-evaluation) · BEDTime: A Unified Benchmark for Automatically Describing Time Series
 - [沿 Flow Matching 插值路径定位训练成员信号](../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path
+- [用唇形与头部姿态的协调关系检测及归因伪造](../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses
+- [用可追溯气候主张生成并核验跨模态题库](../conferences/icml-2026/cards/4001-4100.md#sheikh26a-evaluation) · MMClima: A Framework for Multimodal Climate Science Data and Evaluation
 
 <a id="by-ml-foundations"></a>
 
@@ -587,6 +595,7 @@
 - [按发布主体和影响类别审计基础模型评测披露](../conferences/icml-2026/cards/3801-3900.md#reuel26a-evaluation) · Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations
 - [扩散模型优先复现常见局部特征](../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?
 - [用随机区域统计比较条件分布](../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · MIRA: A Score for Conditional Distribution Accuracy and Model Comparison
+- [按模型互信息和阈值验证抽取后的所有权](../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -646,4 +655,7 @@
 - [用概念重组测试分布外时序解释](../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models
 - [以共享三维标签和真实纹理梯度评估地震断层模型](../conferences/icml-2026/cards/3601-3700.md#park26y-evaluation) · SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection
 - [逐词比较脑信号对齐和下一词预测的上下文依赖](../conferences/icml-2026/cards/3601-3700.md#proietti26a-evaluation) · Fine-grained Analysis of Brain-LLM Alignment through Input Attribution
+- [电力最优潮流建模的可执行评测](../conferences/icml-2026/cards/4001-4100.md#shen26h-evaluation) · ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling
+- [从工具依赖图合成带修复轨迹](../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents
+- [沿训练轨迹测脑表征对齐的先后](../conferences/icml-2026/cards/4001-4100.md#shen26ae-evaluation) · Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories
 <!-- classification:end -->

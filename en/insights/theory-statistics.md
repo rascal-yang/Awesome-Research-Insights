@@ -587,6 +587,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../../conferences/icml-2026/cards/4001-4100.md#shaer26a-theory-statistics) · 中文
 - [Even Faster Kernel Matrix Linear Algebra via Density Estimation](../../conferences/icml-2026/cards/4001-4100.md#shah26c-theory-statistics) · 中文
 - [Identifiable Equivariant Networks are Layerwise Equivariant](../../conferences/icml-2026/cards/4001-4100.md#shahverdi26a-theory-statistics) · 中文
+- [Data Reconstruction: Identifiability and Optimization with Sample Splitting](../../conferences/icml-2026/cards/4001-4100.md#shen26q-theory-statistics) · 中文
+- [Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing](../../conferences/icml-2026/cards/4001-4100.md#shen26t-theory-statistics) · 中文
+- [From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping](../../conferences/icml-2026/cards/4001-4100.md#shestakov26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

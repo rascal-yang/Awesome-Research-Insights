@@ -73,6 +73,7 @@ Data selection, annotation, augmentation, and sampling.
 - [The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qian26l-data-strategies) · 中文
 - [Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models](../../conferences/icml-2026/cards/3701-3800.md#qu26f-data-strategies) · 中文
 - [Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data](../../conferences/icml-2026/cards/3801-3900.md#rosenblatt26a-data-strategies) · 中文
+- [SERA: Soft-Verified Efficient Repository Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26o-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

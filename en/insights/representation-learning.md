@@ -172,6 +172,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps](../../conferences/icml-2026/cards/3701-3800.md#qian26a-representation-learning) · 中文
 - [SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](../../conferences/icml-2026/cards/3801-3900.md#roschmann26a-representation-learning) · 中文
 - [FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](../../conferences/icml-2026/cards/3901-4000.md#schuster26a-representation-learning) · 中文
+- [Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography](../../conferences/icml-2026/cards/4101-4200.md#shi26b-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -262,6 +263,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Aitchison Embeddings for Learning Compositional Graph Representations](../../conferences/icml-2026/cards/3401-3500.md#nakis26a-representation-learning) · 中文
 - [Fixed Aggregation Features Can Rival GNNs](../../conferences/icml-2026/cards/3901-4000.md#rubio-madrigal26a-representation-learning) · 中文
 - [Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](../../conferences/icml-2026/cards/4001-4100.md#shan26b-representation-learning) · 中文
+- [Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls](../../conferences/icml-2026/cards/4001-4100.md#shevkunov26a-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 

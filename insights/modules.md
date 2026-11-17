@@ -90,6 +90,7 @@
 - [联合通道激活统计与决策权重控制激活门](../conferences/icml-2026/cards/3701-3800.md#qiu26e-modules) · Activation with Intrinsic-Extrinsic Consensus
 - [在任意图像骨干前后包裹归一化来保证等变](../conferences/icml-2026/cards/3901-4000.md#saied26a-modules) · Normalization Equivariance for Arbitrary Backbones, with Application to Image Denoising
 - [把球面大圆距离嵌进注意力点积](../conferences/icml-2026/cards/3901-4000.md#sekikawa26a-modules) · Spherical SO(3) Equivariant Local Attention
+- [将脉冲通道稀疏变为边缘设备可执行的结构压缩](../conferences/icml-2026/cards/4001-4100.md#she26b-modules) · Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

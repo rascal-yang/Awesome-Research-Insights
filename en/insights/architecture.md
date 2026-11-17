@@ -121,6 +121,7 @@ Model-wide design and information flow.
 - [Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](../../conferences/icml-2026/cards/3801-3900.md#ran26d-architecture) · 中文
 - [Scalable Event Cloud Network for Event-based Classification](../../conferences/icml-2026/cards/3801-3900.md#ren26j-architecture) · 中文
 - [SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion](../../conferences/icml-2026/cards/3901-4000.md#schnepf26a-architecture) · 中文
+- [TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](../../conferences/icml-2026/cards/4001-4100.md#shen26l-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -205,6 +206,7 @@ Model-wide design and information flow.
 - [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../../conferences/icml-2026/cards/3201-3300.md#mi26b-architecture) · 中文
 - [Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../../conferences/icml-2026/cards/3601-3700.md#peng26k-architecture) · 中文
 - [SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding](../../conferences/icml-2026/cards/3701-3800.md#qiu26g-architecture) · 中文
+- [LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer](../../conferences/icml-2026/cards/4001-4100.md#shen26w-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -172,6 +172,7 @@
 - [定长音乐拍点的稀疏模式词元](../conferences/icml-2026/cards/3701-3800.md#qian26a-representation-learning) · BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps
 - [用成对教师对齐未配对关系矩阵](../conferences/icml-2026/cards/3801-3900.md#roschmann26a-representation-learning) · SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport
 - [按重建预算给共享和私有潜空间定秩](../conferences/icml-2026/cards/3901-4000.md#schuster26a-representation-learning) · FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data
+- [按疾病从 CT 报告中提取对齐信号](../conferences/icml-2026/cards/4101-4200.md#shi26b-representation-learning) · Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography
 
 <a id="by-ml-foundations"></a>
 
@@ -262,6 +263,7 @@
 - [图角色比例嵌入](../conferences/icml-2026/cards/3401-3500.md#nakis26a-representation-learning) · Aitchison Embeddings for Learning Compositional Graph Representations
 - [固定多跳聚合的图节点表征](../conferences/icml-2026/cards/3901-4000.md#rubio-madrigal26a-representation-learning) · Fixed Aggregation Features Can Rival GNNs
 - [按 Dirichlet 能量分离图对比传播](../conferences/icml-2026/cards/4001-4100.md#shan26b-representation-learning) · Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing
+- [用少量重排分数编码候选](../conferences/icml-2026/cards/4001-4100.md#shevkunov26a-representation-learning) · Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls
 
 <a id="by-scientific-ml"></a>
 

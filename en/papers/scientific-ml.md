@@ -444,6 +444,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="oublal26a-evaluation"></a>[TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#paper-oublal26a)
 - <a id="park26y-evaluation"></a>[SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection](../../conferences/icml-2026/cards/3601-3700.md#paper-park26y)
 - <a id="proietti26a-evaluation"></a>[Fine-grained Analysis of Brain-LLM Alignment through Input Attribution](../../conferences/icml-2026/cards/3601-3700.md#paper-proietti26a)
+- <a id="shen26h-evaluation"></a>[ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26h)
+- <a id="shen26aa-evaluation"></a>[SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26aa)
+- <a id="shen26ae-evaluation"></a>[Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26ae)
 
 <a id="by-theory-statistics"></a>
 

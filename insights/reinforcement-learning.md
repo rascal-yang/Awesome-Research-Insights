@@ -160,6 +160,8 @@
 - [复用成功轨迹的旧前缀以强化学习续写困难题](../conferences/icml-2026/cards/4001-4100.md#setlur26a-reinforcement-learning) · Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes
 - [随策略进化评分规则的深度研究强化学习](../conferences/icml-2026/cards/4001-4100.md#shao26a-reinforcement-learning) · DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research
 - [用随机奖励对照识别底座能力放大](../conferences/icml-2026/cards/4001-4100.md#shao26d-reinforcement-learning) · Spurious Rewards: Rethinking Training Signals in RLVR
+- [用模型自述异常诱因支持后门隔离与检测](../conferences/icml-2026/cards/4001-4100.md#shen26c-reinforcement-learning) · From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs
+- [分别学习是否写记忆和是否继续读](../conferences/icml-2026/cards/4001-4100.md#sheng26b-reinforcement-learning) · When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -319,6 +321,8 @@
 - [以可执行动作价值引导噪声策略](../conferences/icml-2026/cards/3901-4000.md#selim26a-reinforcement-learning) · Noisy-Space Policy Gradient for Diffusion Policies in Offline Reinforcement Learning
 - [以规划器学习的先验正则化采样策略](../conferences/icml-2026/cards/4001-4100.md#serra-gomez26a-reinforcement-learning) · A KL-regularization framework for learning to plan with adaptive priors
 - [按传播影响分层观测并用回报分布评估双峰级联](../conferences/icml-2026/cards/4001-4100.md#shakeri26a-reinforcement-learning) · Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL
+- [用拉普拉斯状态距离做逐段规划](../conferences/icml-2026/cards/4001-4100.md#shehmar26a-reinforcement-learning) · Laplacian Representations for Decision-Time Planning
+- [控制离线评估差距及正交策略更新](../conferences/icml-2026/cards/4001-4100.md#shen26m-reinforcement-learning) · REG: In-Sample RL via Regularizing the Evaluation Gap
 
 <a id="by-robotics"></a>
 
@@ -345,6 +349,7 @@
 - [把分子装配拆成无碰撞调度与显微动作执行](../conferences/icml-2026/cards/3601-3700.md#pranger26a-reinforcement-learning) · Efficient and Safe Molecular Assembly via Reinforcement Learning and Constraint Solving
 - [关键帧奖励引导接触任务残差学习](../conferences/icml-2026/cards/3701-3800.md#qiao26f-reinforcement-learning) · Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning
 - [在可避撞边界附近搜硬场景](../conferences/icml-2026/cards/3801-3900.md#ruan26c-reinforcement-learning) · ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving
+- [在物理约束的语义沙盒学习可迁移导航规划](../conferences/icml-2026/cards/4001-4100.md#shen26e-reinforcement-learning) · Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation
 
 <a id="by-multimodal"></a>
 
@@ -401,6 +406,7 @@
 - [给视频候选明确的拒绝动作](../conferences/icml-2026/cards/3701-3800.md#qi26g-reinforcement-learning) · CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning
 - [用一步洁净预测给流匹配动作评分](../conferences/icml-2026/cards/3801-3900.md#ren26b-reinforcement-learning) · iGRPO: Fast Online RL for Flow Matching Model with Instant Reward
 - [用后续语音 token 似然衡量角色声音延续性](../conferences/icml-2026/cards/3801-3900.md#ren26f-reinforcement-learning) · Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability
+- [用奖励斜率和进步率平衡判别与定位](../conferences/icml-2026/cards/4001-4100.md#shen26u-reinforcement-learning) · OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL
 
 <a id="by-ml-foundations"></a>
 

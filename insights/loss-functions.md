@@ -72,6 +72,7 @@
 - [单步像素平均流参数化](../conferences/icml-2026/cards/3001-3100.md#lu26t-loss-functions) · One-step Latent-free Image Generation with Pixel Mean Flows
 - [给地理半正样本分配软负标签](../conferences/icml-2026/cards/3501-3600.md#ouyang26g-loss-functions) · Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution
 - [同时拟合目标域和限制实例改动](../conferences/icml-2026/cards/3801-3900.md#rakitin26a-loss-functions) · One-step Optimal Transport via Regularized Distribution Matching Distillation
+- [用 Rényi 散度调整扩散训练的覆盖和保真](../conferences/icml-2026/cards/4001-4100.md#shen26g-loss-functions) · Rényi Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -171,6 +172,7 @@
 - [以两组预测差代替逐对对齐](../conferences/icml-2026/cards/3801-3900.md#reichart26a-loss-functions) · Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization
 - [无标签环境识别预测应忽略的变化方向](../conferences/icml-2026/cards/3901-4000.md#saengkyongam26a-loss-functions) · Anti-causal domain generalization: Leveraging unlabeled data
 - [异常检测的白噪声残差与自适应滤波](../conferences/icml-2026/cards/4001-4100.md#shang26e-loss-functions) · COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing
+- [把判别梯度与置信校准分开](../conferences/icml-2026/cards/4001-4100.md#sheng26a-loss-functions) · From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees
 
 <a id="by-graph-and-recommendation"></a>
 

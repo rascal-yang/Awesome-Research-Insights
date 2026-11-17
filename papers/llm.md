@@ -376,6 +376,8 @@
 - <a id="setlur26a-reinforcement-learning"></a>[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](../conferences/icml-2026/cards/4001-4100.md#paper-setlur26a)
 - <a id="shao26a-reinforcement-learning"></a>[DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](../conferences/icml-2026/cards/4001-4100.md#paper-shao26a)
 - <a id="shao26d-reinforcement-learning"></a>[Spurious Rewards: Rethinking Training Signals in RLVR](../conferences/icml-2026/cards/4001-4100.md#paper-shao26d)
+- <a id="shen26c-reinforcement-learning"></a>[From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs](../conferences/icml-2026/cards/4001-4100.md#paper-shen26c)
+- <a id="sheng26b-reinforcement-learning"></a>[When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](../conferences/icml-2026/cards/4001-4100.md#paper-sheng26b)
 
 <a id="by-training-strategies"></a>
 
@@ -491,6 +493,12 @@
 - <a id="seto26a-training-strategies"></a>[Optimal Splitting of Language Models from Mixtures to Specialized Domains](../conferences/icml-2026/cards/4001-4100.md#paper-seto26a)
 - <a id="shahroz26a-training-strategies"></a>[TMS: Trajectory-Mixed Supervision for On-Policy Self Distillation](../conferences/icml-2026/cards/4001-4100.md#paper-shahroz26a)
 - <a id="shang26c-training-strategies"></a>[Training–Inference Consistent Segmented Execution for Long-Context LLMs](../conferences/icml-2026/cards/4001-4100.md#paper-shang26c)
+- <a id="sharma26c-training-strategies"></a>[The Realignment Problem: When Right becomes Wrong in LLMs](../conferences/icml-2026/cards/4001-4100.md#paper-sharma26c)
+- <a id="shen26i-training-strategies"></a>[Training-Trajectory-Aware Token Selection](../conferences/icml-2026/cards/4001-4100.md#paper-shen26i)
+- <a id="shen26k-training-strategies"></a>[SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space](../conferences/icml-2026/cards/4001-4100.md#paper-shen26k)
+- <a id="shen26v-training-strategies"></a>[Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards](../conferences/icml-2026/cards/4001-4100.md#paper-shen26v)
+- <a id="shenfeld26a-training-strategies"></a>[Self-Distillation Enables Continual Learning](../conferences/icml-2026/cards/4001-4100.md#paper-shenfeld26a)
+- <a id="shi26c-training-strategies"></a>[Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning](../conferences/icml-2026/cards/4101-4200.md#paper-shi26c)
 
 <a id="by-data-strategies"></a>
 
@@ -556,6 +564,7 @@
 - <a id="qian26l-data-strategies"></a>[The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning](../conferences/icml-2026/cards/3701-3800.md#paper-qian26l)
 - <a id="qu26f-data-strategies"></a>[Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models](../conferences/icml-2026/cards/3701-3800.md#paper-qu26f)
 - <a id="rosenblatt26a-data-strategies"></a>[Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data](../conferences/icml-2026/cards/3801-3900.md#paper-rosenblatt26a)
+- <a id="shen26o-data-strategies"></a>[SERA: Soft-Verified Efficient Repository Agents](../conferences/icml-2026/cards/4001-4100.md#paper-shen26o)
 
 <a id="by-inference"></a>
 
@@ -840,6 +849,9 @@
 - <a id="shao26e-inference"></a>[MonoScale: Scaling Multi-Agent System with Monotonic Improvement](../conferences/icml-2026/cards/4001-4100.md#paper-shao26e)
 - <a id="shao26g-inference"></a>[Block Rotation is All You Need for MXFP4 Quantization](../conferences/icml-2026/cards/4001-4100.md#paper-shao26g)
 - <a id="shao26i-inference"></a>[Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks](../conferences/icml-2026/cards/4001-4100.md#paper-shao26i)
+- <a id="shen26n-inference"></a>[Reasoning Can Be Restored by Correcting a Few Decision Tokens](../conferences/icml-2026/cards/4001-4100.md#paper-shen26n)
+- <a id="shen26z-inference"></a>[SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models](../conferences/icml-2026/cards/4001-4100.md#paper-shen26z)
+- <a id="shen26ad-inference"></a>[Structurally Aligned Subtask-Level Memory for Software Engineering Agents](../conferences/icml-2026/cards/4001-4100.md#paper-shen26ad)
 
 <a id="by-representation-learning"></a>
 
@@ -1172,6 +1184,11 @@
 - <a id="shao26j-evaluation"></a>[DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions](../conferences/icml-2026/cards/4001-4100.md#paper-shao26j)
 - <a id="sharma26a-evaluation"></a>[Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage](../conferences/icml-2026/cards/4001-4100.md#paper-sharma26a)
 - <a id="sharma26b-evaluation"></a>[RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations](../conferences/icml-2026/cards/4001-4100.md#paper-sharma26b)
+- <a id="shen26d-evaluation"></a>[IDRBench: Understanding the Capability of Large Language Models on Interdisciplinary Research](../conferences/icml-2026/cards/4001-4100.md#paper-shen26d)
+- <a id="shen26j-evaluation"></a>[TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios](../conferences/icml-2026/cards/4001-4100.md#paper-shen26j)
+- <a id="shen26p-evaluation"></a>[DecepChain: Inducing Deceptive Reasoning in Large Language Models](../conferences/icml-2026/cards/4001-4100.md#paper-shen26p)
+- <a id="shen26ac-evaluation"></a>[BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code](../conferences/icml-2026/cards/4001-4100.md#paper-shen26ac)
+- <a id="shenoy26a-evaluation"></a>[Introspection Adapters: Training LLMs to Report Their Learned Behaviors](../conferences/icml-2026/cards/4001-4100.md#paper-shenoy26a)
 
 <a id="by-theory-statistics"></a>
 

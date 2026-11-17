@@ -4057,52 +4057,52 @@ number	pmlr_id	title	paper_url	insight_status
 4056	sharifnassab26a	Intentional Updates for Streaming Reinforcement Learning	https://proceedings.mlr.press/v306/sharifnassab26a.html	written
 4057	sharma26a	Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage	https://proceedings.mlr.press/v306/sharma26a.html	written
 4058	sharma26b	RubricRobustness: Evaluating the Sensitivity of Rubrics-Based Benchmarks to Simple Perturbations	https://proceedings.mlr.press/v306/sharma26b.html	written
-4059	sharma26c	The Realignment Problem: When Right becomes Wrong in LLMs	https://proceedings.mlr.press/v306/sharma26c.html	pending
-4060	she26a	Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses	https://proceedings.mlr.press/v306/she26a.html	pending
-4061	she26b	Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices	https://proceedings.mlr.press/v306/she26b.html	pending
-4062	shehmar26a	Laplacian Representations for Decision-Time Planning	https://proceedings.mlr.press/v306/shehmar26a.html	pending
-4063	sheikh26a	MMClima: A Framework for Multimodal Climate Science Data and Evaluation	https://proceedings.mlr.press/v306/sheikh26a.html	pending
-4064	shen26a	DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers	https://proceedings.mlr.press/v306/shen26a.html	pending
-4065	shen26b	CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks	https://proceedings.mlr.press/v306/shen26b.html	pending
-4066	shen26c	From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs	https://proceedings.mlr.press/v306/shen26c.html	pending
-4067	shen26d	IDRBench: Understanding the Capability of Large Language Models on Interdisciplinary Research	https://proceedings.mlr.press/v306/shen26d.html	pending
-4068	shen26e	Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation	https://proceedings.mlr.press/v306/shen26e.html	pending
-4069	shen26f	Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform	https://proceedings.mlr.press/v306/shen26f.html	pending
-4070	shen26g	Rényi Diffusion Models	https://proceedings.mlr.press/v306/shen26g.html	pending
-4071	shen26h	ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling	https://proceedings.mlr.press/v306/shen26h.html	pending
-4072	shen26i	Training-Trajectory-Aware Token Selection	https://proceedings.mlr.press/v306/shen26i.html	pending
-4073	shen26j	TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios	https://proceedings.mlr.press/v306/shen26j.html	pending
-4074	shen26k	SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space	https://proceedings.mlr.press/v306/shen26k.html	pending
-4075	shen26l	TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers	https://proceedings.mlr.press/v306/shen26l.html	pending
-4076	shen26m	REG: In-Sample RL via Regularizing the Evaluation Gap	https://proceedings.mlr.press/v306/shen26m.html	pending
-4077	shen26n	Reasoning Can Be Restored by Correcting a Few Decision Tokens	https://proceedings.mlr.press/v306/shen26n.html	pending
-4078	shen26o	SERA: Soft-Verified Efficient Repository Agents	https://proceedings.mlr.press/v306/shen26o.html	pending
-4079	shen26p	DecepChain: Inducing Deceptive Reasoning in Large Language Models	https://proceedings.mlr.press/v306/shen26p.html	pending
-4080	shen26q	Data Reconstruction: Identifiability and Optimization with Sample Splitting	https://proceedings.mlr.press/v306/shen26q.html	pending
-4081	shen26r	CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection	https://proceedings.mlr.press/v306/shen26r.html	pending
-4082	shen26s	Efficient Reasoning with Hidden Thinking	https://proceedings.mlr.press/v306/shen26s.html	pending
-4083	shen26t	Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing	https://proceedings.mlr.press/v306/shen26t.html	pending
-4084	shen26u	OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL	https://proceedings.mlr.press/v306/shen26u.html	pending
-4085	shen26v	Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards	https://proceedings.mlr.press/v306/shen26v.html	pending
-4086	shen26w	LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer	https://proceedings.mlr.press/v306/shen26w.html	pending
-4087	shen26x	A Two-Layer Framework for Joint Online Configuration Selection and Admission Control	https://proceedings.mlr.press/v306/shen26x.html	pending
-4088	shen26y	Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning	https://proceedings.mlr.press/v306/shen26y.html	pending
-4089	shen26z	SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models	https://proceedings.mlr.press/v306/shen26z.html	pending
-4090	shen26aa	SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents	https://proceedings.mlr.press/v306/shen26aa.html	pending
-4091	shen26ab	Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation	https://proceedings.mlr.press/v306/shen26ab.html	pending
-4092	shen26ac	BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code	https://proceedings.mlr.press/v306/shen26ac.html	pending
-4093	shen26ad	Structurally Aligned Subtask-Level Memory for Software Engineering Agents	https://proceedings.mlr.press/v306/shen26ad.html	pending
-4094	shen26ae	Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories	https://proceedings.mlr.press/v306/shen26ae.html	pending
-4095	shenfeld26a	Self-Distillation Enables Continual Learning	https://proceedings.mlr.press/v306/shenfeld26a.html	pending
-4096	sheng26a	From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees	https://proceedings.mlr.press/v306/sheng26a.html	pending
-4097	sheng26b	When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning	https://proceedings.mlr.press/v306/sheng26b.html	pending
-4098	shenoy26a	Introspection Adapters: Training LLMs to Report Their Learned Behaviors	https://proceedings.mlr.press/v306/shenoy26a.html	pending
-4099	shestakov26a	From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping	https://proceedings.mlr.press/v306/shestakov26a.html	pending
-4100	shevkunov26a	Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls	https://proceedings.mlr.press/v306/shevkunov26a.html	pending
-4101	shi26a	UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks	https://proceedings.mlr.press/v306/shi26a.html	pending
-4102	shi26b	Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography	https://proceedings.mlr.press/v306/shi26b.html	pending
-4103	shi26c	Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning	https://proceedings.mlr.press/v306/shi26c.html	pending
-4104	shi26d	Coupled Training with Privileged Information and Unlabeled Data	https://proceedings.mlr.press/v306/shi26d.html	pending
+4059	sharma26c	The Realignment Problem: When Right becomes Wrong in LLMs	https://proceedings.mlr.press/v306/sharma26c.html	written
+4060	she26a	Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses	https://proceedings.mlr.press/v306/she26a.html	written
+4061	she26b	Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices	https://proceedings.mlr.press/v306/she26b.html	written
+4062	shehmar26a	Laplacian Representations for Decision-Time Planning	https://proceedings.mlr.press/v306/shehmar26a.html	written
+4063	sheikh26a	MMClima: A Framework for Multimodal Climate Science Data and Evaluation	https://proceedings.mlr.press/v306/sheikh26a.html	written
+4064	shen26a	DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers	https://proceedings.mlr.press/v306/shen26a.html	written
+4065	shen26b	CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks	https://proceedings.mlr.press/v306/shen26b.html	written
+4066	shen26c	From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs	https://proceedings.mlr.press/v306/shen26c.html	written
+4067	shen26d	IDRBench: Understanding the Capability of Large Language Models on Interdisciplinary Research	https://proceedings.mlr.press/v306/shen26d.html	written
+4068	shen26e	Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation	https://proceedings.mlr.press/v306/shen26e.html	written
+4069	shen26f	Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform	https://proceedings.mlr.press/v306/shen26f.html	written
+4070	shen26g	Rényi Diffusion Models	https://proceedings.mlr.press/v306/shen26g.html	written
+4071	shen26h	ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling	https://proceedings.mlr.press/v306/shen26h.html	written
+4072	shen26i	Training-Trajectory-Aware Token Selection	https://proceedings.mlr.press/v306/shen26i.html	written
+4073	shen26j	TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios	https://proceedings.mlr.press/v306/shen26j.html	written
+4074	shen26k	SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space	https://proceedings.mlr.press/v306/shen26k.html	written
+4075	shen26l	TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers	https://proceedings.mlr.press/v306/shen26l.html	written
+4076	shen26m	REG: In-Sample RL via Regularizing the Evaluation Gap	https://proceedings.mlr.press/v306/shen26m.html	written
+4077	shen26n	Reasoning Can Be Restored by Correcting a Few Decision Tokens	https://proceedings.mlr.press/v306/shen26n.html	written
+4078	shen26o	SERA: Soft-Verified Efficient Repository Agents	https://proceedings.mlr.press/v306/shen26o.html	written
+4079	shen26p	DecepChain: Inducing Deceptive Reasoning in Large Language Models	https://proceedings.mlr.press/v306/shen26p.html	written
+4080	shen26q	Data Reconstruction: Identifiability and Optimization with Sample Splitting	https://proceedings.mlr.press/v306/shen26q.html	written
+4081	shen26r	CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection	https://proceedings.mlr.press/v306/shen26r.html	written
+4082	shen26s	Efficient Reasoning with Hidden Thinking	https://proceedings.mlr.press/v306/shen26s.html	written
+4083	shen26t	Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing	https://proceedings.mlr.press/v306/shen26t.html	written
+4084	shen26u	OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL	https://proceedings.mlr.press/v306/shen26u.html	written
+4085	shen26v	Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards	https://proceedings.mlr.press/v306/shen26v.html	written
+4086	shen26w	LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer	https://proceedings.mlr.press/v306/shen26w.html	written
+4087	shen26x	A Two-Layer Framework for Joint Online Configuration Selection and Admission Control	https://proceedings.mlr.press/v306/shen26x.html	written
+4088	shen26y	Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning	https://proceedings.mlr.press/v306/shen26y.html	written
+4089	shen26z	SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models	https://proceedings.mlr.press/v306/shen26z.html	written
+4090	shen26aa	SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents	https://proceedings.mlr.press/v306/shen26aa.html	written
+4091	shen26ab	Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation	https://proceedings.mlr.press/v306/shen26ab.html	written
+4092	shen26ac	BEST: Benchmarking Efficiency in Space and Time for LLM-Generated Code	https://proceedings.mlr.press/v306/shen26ac.html	written
+4093	shen26ad	Structurally Aligned Subtask-Level Memory for Software Engineering Agents	https://proceedings.mlr.press/v306/shen26ad.html	written
+4094	shen26ae	Alignment between Brains and AI: Evidence for Convergent Evolution across Modalities, Scales and Training Trajectories	https://proceedings.mlr.press/v306/shen26ae.html	written
+4095	shenfeld26a	Self-Distillation Enables Continual Learning	https://proceedings.mlr.press/v306/shenfeld26a.html	written
+4096	sheng26a	From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees	https://proceedings.mlr.press/v306/sheng26a.html	written
+4097	sheng26b	When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning	https://proceedings.mlr.press/v306/sheng26b.html	written
+4098	shenoy26a	Introspection Adapters: Training LLMs to Report Their Learned Behaviors	https://proceedings.mlr.press/v306/shenoy26a.html	written
+4099	shestakov26a	From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping	https://proceedings.mlr.press/v306/shestakov26a.html	written
+4100	shevkunov26a	Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls	https://proceedings.mlr.press/v306/shevkunov26a.html	written
+4101	shi26a	UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks	https://proceedings.mlr.press/v306/shi26a.html	written
+4102	shi26b	Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography	https://proceedings.mlr.press/v306/shi26b.html	written
+4103	shi26c	Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning	https://proceedings.mlr.press/v306/shi26c.html	written
+4104	shi26d	Coupled Training with Privileged Information and Unlabeled Data	https://proceedings.mlr.press/v306/shi26d.html	written
 4105	shi26e	Multilingual Safety Alignment via Representation-Space Separability	https://proceedings.mlr.press/v306/shi26e.html	pending
 4106	shi26f	Regularized Discriminative Alignment for Deep Representations under Label Shift	https://proceedings.mlr.press/v306/shi26f.html	pending
 4107	shi26g	TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention	https://proceedings.mlr.press/v306/shi26g.html	pending

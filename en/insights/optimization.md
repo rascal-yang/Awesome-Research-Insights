@@ -390,6 +390,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Trajectory-Aware Heuristic Learning for Combinatorial Search](../../conferences/icml-2026/cards/3901-4000.md#seddiqi26a-optimization) · 中文
 - [Lions and Muons: Optimization via Stochastic Frank-Wolfe under Heavy-Tailed Noise](../../conferences/icml-2026/cards/4001-4100.md#sfyraki26a-optimization) · 中文
 - [Fast k-means Seeding Under The Manifold Hypothesis](../../conferences/icml-2026/cards/4001-4100.md#shah26a-optimization) · 中文
+- [A Two-Layer Framework for Joint Online Configuration Selection and Admission Control](../../conferences/icml-2026/cards/4001-4100.md#shen26x-optimization) · 中文
+- [UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks](../../conferences/icml-2026/cards/4101-4200.md#shi26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

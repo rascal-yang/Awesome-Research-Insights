@@ -42,6 +42,7 @@
 - <a id="mi26b-architecture"></a>[Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../conferences/icml-2026/cards/3201-3300.md#paper-mi26b)
 - <a id="peng26k-architecture"></a>[Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../conferences/icml-2026/cards/3601-3700.md#paper-peng26k)
 - <a id="qiu26g-architecture"></a>[SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26g)
+- <a id="shen26w-architecture"></a>[LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer](../conferences/icml-2026/cards/4001-4100.md#paper-shen26w)
 
 <a id="by-modules"></a>
 
@@ -164,6 +165,7 @@
 - <a id="qi26g-reinforcement-learning"></a>[CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning](../conferences/icml-2026/cards/3701-3800.md#paper-qi26g)
 - <a id="ren26b-reinforcement-learning"></a>[iGRPO: Fast Online RL for Flow Matching Model with Instant Reward](../conferences/icml-2026/cards/3801-3900.md#paper-ren26b)
 - <a id="ren26f-reinforcement-learning"></a>[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](../conferences/icml-2026/cards/3801-3900.md#paper-ren26f)
+- <a id="shen26u-reinforcement-learning"></a>[OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](../conferences/icml-2026/cards/4001-4100.md#paper-shen26u)
 
 <a id="by-training-strategies"></a>
 
@@ -216,6 +218,8 @@
 - <a id="peng26n-training-strategies"></a>[SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](../conferences/icml-2026/cards/3601-3700.md#paper-peng26n)
 - <a id="ren26r-training-strategies"></a>[FedSSM: State Space Model-based Proactive Inference for Heterogeneous Multimodal Federated Learning](../conferences/icml-2026/cards/3801-3900.md#paper-ren26r)
 - <a id="sabolic26a-training-strategies"></a>[BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks](../conferences/icml-2026/cards/3901-4000.md#paper-sabolic26a)
+- <a id="shen26r-training-strategies"></a>[CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection](../conferences/icml-2026/cards/4001-4100.md#paper-shen26r)
+- <a id="shen26s-training-strategies"></a>[Efficient Reasoning with Hidden Thinking](../conferences/icml-2026/cards/4001-4100.md#paper-shen26s)
 
 <a id="by-data-strategies"></a>
 
@@ -335,6 +339,7 @@
 - <a id="rout26a-inference"></a>[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../conferences/icml-2026/cards/3801-3900.md#paper-rout26a)
 - <a id="seo26b-inference"></a>[DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../conferences/icml-2026/cards/3901-4000.md#paper-seo26b)
 - <a id="shao26f-inference"></a>[LiveFigure: Generating Editable Scientific Illustration with VLM Agents](../conferences/icml-2026/cards/4001-4100.md#paper-shao26f)
+- <a id="shen26y-inference"></a>[Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../conferences/icml-2026/cards/4001-4100.md#paper-shen26y)
 
 <a id="by-representation-learning"></a>
 
@@ -382,6 +387,7 @@
 - <a id="qian26a-representation-learning"></a>[BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps](../conferences/icml-2026/cards/3701-3800.md#paper-qian26a)
 - <a id="roschmann26a-representation-learning"></a>[SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](../conferences/icml-2026/cards/3801-3900.md#paper-roschmann26a)
 - <a id="schuster26a-representation-learning"></a>[FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data](../conferences/icml-2026/cards/3901-4000.md#paper-schuster26a)
+- <a id="shi26b-representation-learning"></a>[Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography](../conferences/icml-2026/cards/4101-4200.md#paper-shi26b)
 
 <a id="by-evaluation"></a>
 
@@ -475,6 +481,8 @@
 - <a id="schulze-buschoff26a-evaluation"></a>[Can Vision Language Models Learn Intuitive Physics from Interaction?](../conferences/icml-2026/cards/3901-4000.md#paper-schulze-buschoff26a)
 - <a id="sen26a-evaluation"></a>[BEDTime: A Unified Benchmark for Automatically Describing Time Series](../conferences/icml-2026/cards/3901-4000.md#paper-sen26a)
 - <a id="sesmat26a-evaluation"></a>[Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../conferences/icml-2026/cards/4001-4100.md#paper-sesmat26a)
+- <a id="she26a-evaluation"></a>[Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../conferences/icml-2026/cards/4001-4100.md#paper-she26a)
+- <a id="sheikh26a-evaluation"></a>[MMClima: A Framework for Multimodal Climate Science Data and Evaluation](../conferences/icml-2026/cards/4001-4100.md#paper-sheikh26a)
 
 <a id="by-theory-statistics"></a>
 

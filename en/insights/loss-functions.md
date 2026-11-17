@@ -72,6 +72,7 @@ Objectives, auxiliary supervision, and regularization.
 - [One-step Latent-free Image Generation with Pixel Mean Flows](../../conferences/icml-2026/cards/3001-3100.md#lu26t-loss-functions) · 中文
 - [Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution](../../conferences/icml-2026/cards/3501-3600.md#ouyang26g-loss-functions) · 中文
 - [One-step Optimal Transport via Regularized Distribution Matching Distillation](../../conferences/icml-2026/cards/3801-3900.md#rakitin26a-loss-functions) · 中文
+- [Rényi Diffusion Models](../../conferences/icml-2026/cards/4001-4100.md#shen26g-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -171,6 +172,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization](../../conferences/icml-2026/cards/3801-3900.md#reichart26a-loss-functions) · 中文
 - [Anti-causal domain generalization: Leveraging unlabeled data](../../conferences/icml-2026/cards/3901-4000.md#saengkyongam26a-loss-functions) · 中文
 - [COGNOS: Universal Enhancement for Time Series Anomaly Detection via Constrained Gaussian-Noise Optimization and Smoothing](../../conferences/icml-2026/cards/4001-4100.md#shang26e-loss-functions) · 中文
+- [From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees](../../conferences/icml-2026/cards/4001-4100.md#sheng26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

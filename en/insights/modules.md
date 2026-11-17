@@ -90,6 +90,7 @@ Reusable components and local changes to model inputs or connections.
 - [Activation with Intrinsic-Extrinsic Consensus](../../conferences/icml-2026/cards/3701-3800.md#qiu26e-modules) · 中文
 - [Normalization Equivariance for Arbitrary Backbones, with Application to Image Denoising](../../conferences/icml-2026/cards/3901-4000.md#saied26a-modules) · 中文
 - [Spherical SO(3) Equivariant Local Attention](../../conferences/icml-2026/cards/3901-4000.md#sekikawa26a-modules) · 中文
+- [Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices](../../conferences/icml-2026/cards/4001-4100.md#she26b-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>

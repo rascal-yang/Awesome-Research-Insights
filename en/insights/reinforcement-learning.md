@@ -160,6 +160,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](../../conferences/icml-2026/cards/4001-4100.md#setlur26a-reinforcement-learning) · 中文
 - [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](../../conferences/icml-2026/cards/4001-4100.md#shao26a-reinforcement-learning) · 中文
 - [Spurious Rewards: Rethinking Training Signals in RLVR](../../conferences/icml-2026/cards/4001-4100.md#shao26d-reinforcement-learning) · 中文
+- [From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs](../../conferences/icml-2026/cards/4001-4100.md#shen26c-reinforcement-learning) · 中文
+- [When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](../../conferences/icml-2026/cards/4001-4100.md#sheng26b-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -319,6 +321,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Noisy-Space Policy Gradient for Diffusion Policies in Offline Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#selim26a-reinforcement-learning) · 中文
 - [A KL-regularization framework for learning to plan with adaptive priors](../../conferences/icml-2026/cards/4001-4100.md#serra-gomez26a-reinforcement-learning) · 中文
 - [Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL](../../conferences/icml-2026/cards/4001-4100.md#shakeri26a-reinforcement-learning) · 中文
+- [Laplacian Representations for Decision-Time Planning](../../conferences/icml-2026/cards/4001-4100.md#shehmar26a-reinforcement-learning) · 中文
+- [REG: In-Sample RL via Regularizing the Evaluation Gap](../../conferences/icml-2026/cards/4001-4100.md#shen26m-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -345,6 +349,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Efficient and Safe Molecular Assembly via Reinforcement Learning and Constraint Solving](../../conferences/icml-2026/cards/3601-3700.md#pranger26a-reinforcement-learning) · 中文
 - [Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qiao26f-reinforcement-learning) · 中文
 - [ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving](../../conferences/icml-2026/cards/3801-3900.md#ruan26c-reinforcement-learning) · 中文
+- [Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation](../../conferences/icml-2026/cards/4001-4100.md#shen26e-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -401,6 +406,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qi26g-reinforcement-learning) · 中文
 - [iGRPO: Fast Online RL for Flow Matching Model with Instant Reward](../../conferences/icml-2026/cards/3801-3900.md#ren26b-reinforcement-learning) · 中文
 - [Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](../../conferences/icml-2026/cards/3801-3900.md#ren26f-reinforcement-learning) · 中文
+- [OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](../../conferences/icml-2026/cards/4001-4100.md#shen26u-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

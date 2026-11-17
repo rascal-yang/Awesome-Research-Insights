@@ -123,6 +123,12 @@
 - [用预训练与专业续训的联合扩展律选拆分点](../conferences/icml-2026/cards/4001-4100.md#seto26a-training-strategies) · Optimal Splitting of Language Models from Mixtures to Specialized Domains
 - [用历史检查点的自生成轨迹缓解静态监督错配](../conferences/icml-2026/cards/4001-4100.md#shahroz26a-training-strategies) · TMS: Trajectory-Mixed Supervision for On-Policy Self Distillation
 - [长上下文语言模型的训练推理分段一致性](../conferences/icml-2026/cards/4001-4100.md#shang26c-training-strategies) · Training–Inference Consistent Segmented Execution for Long-Context LLMs
+- [按旧偏好冲突类型重用已有对齐数据](../conferences/icml-2026/cards/4001-4100.md#sharma26c-training-strategies) · The Realignment Problem: When Right becomes Wrong in LLMs
+- [从训练轨迹选择蒸馏词元](../conferences/icml-2026/cards/4001-4100.md#shen26i-training-strategies) · Training-Trajectory-Aware Token Selection
+- [对齐稀疏与全注意的输出特征](../conferences/icml-2026/cards/4001-4100.md#shen26k-training-strategies) · SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space
+- [把各目标保留为共享主干上的独立头](../conferences/icml-2026/cards/4001-4100.md#shen26v-training-strategies) · Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards
+- [让带示例的同一模型指导学生轨迹](../conferences/icml-2026/cards/4001-4100.md#shenfeld26a-training-strategies) · Self-Distillation Enables Continual Learning
+- [在每个新任务开始前重选训练提示](../conferences/icml-2026/cards/4101-4200.md#shi26c-training-strategies) · Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning
 
 <a id="by-computer-vision"></a>
 
@@ -280,6 +286,8 @@
 - [持续个性化的参数覆盖选址](../conferences/icml-2026/cards/3601-3700.md#peng26n-training-strategies) · SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection
 - [预测客户端选择的反事实效果再调联邦参与预算](../conferences/icml-2026/cards/3801-3900.md#ren26r-training-strategies) · FedSSM: State Space Model-based Proactive Inference for Heterogeneous Multimodal Federated Learning
 - [重写语义不相容的指令响应](../conferences/icml-2026/cards/3901-4000.md#sabolic26a-training-strategies) · BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks
+- [用显式跨模态冲突训练操纵检测](../conferences/icml-2026/cards/4001-4100.md#shen26r-training-strategies) · CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection
+- [以阶段化隐词元压缩多模态推理](../conferences/icml-2026/cards/4001-4100.md#shen26s-training-strategies) · Efficient Reasoning with Hidden Thinking
 
 <a id="by-ml-foundations"></a>
 
@@ -346,6 +354,8 @@
 - [让异构客户端共享类判别规则](../conferences/icml-2026/cards/3701-3800.md#qin26g-training-strategies) · Towards Rule-Based Knowledge Sharing in Federated Learning
 - [训练前固定低秩符号模板以突破亚比特存储下限](../conferences/icml-2026/cards/3901-4000.md#sakai26a-training-strategies) · Sign Lock-In: Randomly Initialized Weight Signs Persist and Bottleneck Sub-Bit Model Compression
 - [在训练中学适于事后公平阈值控制的表征](../conferences/icml-2026/cards/3901-4000.md#sakata26a-training-strategies) · Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off
+- [用权重低频 DCT 分量一次初始化不同尺寸网络](../conferences/icml-2026/cards/4001-4100.md#shen26f-training-strategies) · Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform
+- [让部署模型反向校准伪标签教师](../conferences/icml-2026/cards/4101-4200.md#shi26d-training-strategies) · Coupled Training with Privileged Information and Unlabeled Data
 
 <a id="by-graph-and-recommendation"></a>
 

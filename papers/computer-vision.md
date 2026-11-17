@@ -69,6 +69,7 @@
 - <a id="ran26d-architecture"></a>[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](../conferences/icml-2026/cards/3801-3900.md#paper-ran26d)
 - <a id="ren26j-architecture"></a>[Scalable Event Cloud Network for Event-based Classification](../conferences/icml-2026/cards/3801-3900.md#paper-ren26j)
 - <a id="schnepf26a-architecture"></a>[SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion](../conferences/icml-2026/cards/3901-4000.md#paper-schnepf26a)
+- <a id="shen26l-architecture"></a>[TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](../conferences/icml-2026/cards/4001-4100.md#paper-shen26l)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -110,6 +111,7 @@
 - <a id="qiu26e-modules"></a>[Activation with Intrinsic-Extrinsic Consensus](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26e)
 - <a id="saied26a-modules"></a>[Normalization Equivariance for Arbitrary Backbones, with Application to Image Denoising](../conferences/icml-2026/cards/3901-4000.md#paper-saied26a)
 - <a id="sekikawa26a-modules"></a>[Spherical SO(3) Equivariant Local Attention](../conferences/icml-2026/cards/3901-4000.md#paper-sekikawa26a)
+- <a id="she26b-modules"></a>[Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices](../conferences/icml-2026/cards/4001-4100.md#paper-she26b)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -137,6 +139,7 @@
 - <a id="lu26t-loss-functions"></a>[One-step Latent-free Image Generation with Pixel Mean Flows](../conferences/icml-2026/cards/3001-3100.md#paper-lu26t)
 - <a id="ouyang26g-loss-functions"></a>[Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution](../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26g)
 - <a id="rakitin26a-loss-functions"></a>[One-step Optimal Transport via Regularized Distribution Matching Distillation](../conferences/icml-2026/cards/3801-3900.md#paper-rakitin26a)
+- <a id="shen26g-loss-functions"></a>[Rényi Diffusion Models](../conferences/icml-2026/cards/4001-4100.md#paper-shen26g)
 
 <a id="by-optimization"></a>
 
@@ -477,6 +480,7 @@
 - <a id="qiu26b-evaluation"></a>[DDIM Inversion as a Perturbation Amplifier: Breaking Mimicry Protection via Reconstruction Error Minimization](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26b)
 - <a id="safonov26a-evaluation"></a>[Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions](../conferences/icml-2026/cards/3901-4000.md#paper-safonov26a)
 - <a id="salvy26a-evaluation"></a>[GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation](../conferences/icml-2026/cards/3901-4000.md#paper-salvy26a)
+- <a id="shen26a-evaluation"></a>[DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers](../conferences/icml-2026/cards/4001-4100.md#paper-shen26a)
 
 <a id="by-theory-statistics"></a>
 

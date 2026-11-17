@@ -292,6 +292,9 @@
 - [用预热反馈和旧代理回退稳定扩容](../conferences/icml-2026/cards/4001-4100.md#shao26e-inference) · MonoScale: Scaling Multi-Agent System with Monotonic Improvement
 - [让旋转范围与量化块对齐](../conferences/icml-2026/cards/4001-4100.md#shao26g-inference) · Block Rotation is All You Need for MXFP4 Quantization
 - [从失败状态归纳技能分支](../conferences/icml-2026/cards/4001-4100.md#shao26i-inference) · Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks
+- [按模型分歧选择少量推理决策点](../conferences/icml-2026/cards/4001-4100.md#shen26n-inference) · Reasoning Can Be Restored by Correcting a Few Decision Tokens
+- [按上下文敏感性分配并行解码阈值](../conferences/icml-2026/cards/4001-4100.md#shen26z-inference) · SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models
+- [让记忆检索对齐当前工程子任务](../conferences/icml-2026/cards/4001-4100.md#shen26ad-inference) · Structurally Aligned Subtask-Level Memory for Software Engineering Agents
 
 <a id="by-computer-vision"></a>
 
@@ -462,6 +465,7 @@
 - [用相对空间记忆和约束减少协作返工](../conferences/icml-2026/cards/3501-3600.md#panchal26b-inference) · Mosaic: Runtime-Efficient Multi-Agent Embodied Planning
 - [按资产可动性分流场景生成](../conferences/icml-2026/cards/3601-3700.md#pfaff26a-inference) · SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes
 - [沿灵敏度等值面引导扩散动作](../conferences/icml-2026/cards/3801-3900.md#ren26a-inference) · Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control
+- [让障碍布局先验约束语义地图补全](../conferences/icml-2026/cards/4001-4100.md#shen26ab-inference) · Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation
 
 <a id="by-multimodal"></a>
 
@@ -551,6 +555,7 @@
 - [在离散去噪中先解码可靠锚点](../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · Test-Time Anchoring for Discrete Diffusion Posterior Sampling
 - [按逐层熵变选择视觉对比分支](../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models
 - [把科学插图生成落到可编辑对象](../conferences/icml-2026/cards/4001-4100.md#shao26f-inference) · LiveFigure: Generating Editable Scientific Illustration with VLM Agents
+- [用固定频谱工作区推进视觉思考](../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning
 
 <a id="by-ml-foundations"></a>
 
