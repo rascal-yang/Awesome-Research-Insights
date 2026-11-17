@@ -56,6 +56,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26j-modules"></a>[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26j)
 - <a id="li26io-modules"></a>[SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](../../conferences/icml-2026/cards/2601-2700.md#paper-li26io)
 - <a id="lim26a-modules"></a>[Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity](../../conferences/icml-2026/cards/2701-2800.md#paper-lim26a)
+- <a id="ma26ac-modules"></a>[Dual-Latent Memory Routing for Vision-Language Reasoning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ac)
 
 <a id="by-loss-functions"></a>
 
@@ -82,6 +83,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26e-loss-functions"></a>[GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26e)
 - <a id="liu26ei-loss-functions"></a>[STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ei)
 - <a id="lu26af-loss-functions"></a>[Calibrating Uncertainty for Zero-Shot Adversarial CLIP](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26af)
+- <a id="ma26ai-loss-functions"></a>[AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ai)
 
 <a id="by-optimization"></a>
 
@@ -138,6 +140,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="long26a-reinforcement-learning"></a>[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-long26a)
 - <a id="lu26b-reinforcement-learning"></a>[PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26b)
 - <a id="lu26i-reinforcement-learning"></a>[VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26i)
+- <a id="ma26ay-reinforcement-learning"></a>[Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ay)
 
 <a id="by-training-strategies"></a>
 
@@ -277,6 +280,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lu26ae-inference"></a>[Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ae)
 - <a id="luo26i-inference"></a>[D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26i)
 - <a id="ma26z-inference"></a>[Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26z)
+- <a id="ma26ax-inference"></a>[Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ax)
 
 <a id="by-representation-learning"></a>
 
@@ -387,6 +391,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="luo26k-evaluation"></a>[AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26k)
 - <a id="luo26n-evaluation"></a>[Vision Language Models Cannot Reason About Physical Transformation](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26n)
 - <a id="ma26t-evaluation"></a>[The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26t)
+- <a id="ma26am-evaluation"></a>[CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26am)
+- <a id="ma26as-evaluation"></a>[What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26as)
 
 <a id="by-theory-statistics"></a>
 
@@ -394,4 +400,5 @@ Learning across modalities such as images, text, audio, and video.
 
 - <a id="cai26o-theory-statistics"></a>[The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26o)
 - <a id="delattre26a-theory-statistics"></a>[Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](../../conferences/icml-2026/cards/0801-0900.md#paper-delattre26a)
+- <a id="madaan26a-theory-statistics"></a>[Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling](../../conferences/icml-2026/cards/3101-3200.md#paper-madaan26a)
 <!-- classification:end -->

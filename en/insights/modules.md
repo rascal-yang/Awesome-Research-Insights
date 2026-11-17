@@ -119,6 +119,7 @@ Reusable components and local changes to model inputs or connections.
 - [Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26j-modules) · 中文
 - [SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](../../conferences/icml-2026/cards/2601-2700.md#li26io-modules) · 中文
 - [Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity](../../conferences/icml-2026/cards/2701-2800.md#lim26a-modules) · 中文
+- [Dual-Latent Memory Routing for Vision-Language Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26ac-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

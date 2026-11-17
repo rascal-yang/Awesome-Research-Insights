@@ -301,6 +301,9 @@
 - <a id="luenam26a-optimization"></a>[Model Fusion via Retrofitting](../conferences/icml-2026/cards/3001-3100.md#paper-luenam26a)
 - <a id="luu26b-optimization"></a>[DC-LA: Difference-of-Convex Langevin Algorithm](../conferences/icml-2026/cards/3001-3100.md#paper-luu26b)
 - <a id="ma26d-optimization"></a>[$μ$pscaling small models: Principled warm starts and hyperparameter transfer](../conferences/icml-2026/cards/3101-3200.md#paper-ma26d)
+- <a id="ma26ak-optimization"></a>[FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ak)
+- <a id="manenti26a-optimization"></a>[Beyond Softmax: A Natural Parameterization for Categorical Random Variables](../conferences/icml-2026/cards/3201-3300.md#paper-manenti26a)
+- <a id="mani26a-optimization"></a>[Few-Shot Design Optimization by Exploiting Auxiliary Information](../conferences/icml-2026/cards/3201-3300.md#paper-mani26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -365,6 +368,8 @@
 - <a id="li26fa-training-strategies"></a>[SURF: Separation via Unsupervised Remixing Flow](../conferences/icml-2026/cards/2501-2600.md#paper-li26fa)
 - <a id="lin26w-training-strategies"></a>[Consistency Deep Equilibrium Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26w)
 - <a id="lu26aa-training-strategies"></a>[FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning](../conferences/icml-2026/cards/3001-3100.md#paper-lu26aa)
+- <a id="ma26ab-training-strategies"></a>[Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ab)
+- <a id="ma26ae-training-strategies"></a>[No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ae)
 
 <a id="by-data-strategies"></a>
 
@@ -465,6 +470,8 @@
 - <a id="liu26bp-representation-learning"></a>[TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bp)
 - <a id="liu26eq-representation-learning"></a>[Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eq)
 - <a id="lumadjeng26a-representation-learning"></a>[ECSEL: Explainable Classification via Signomial Equation Learning](../conferences/icml-2026/cards/3001-3100.md#paper-lumadjeng26a)
+- <a id="ma26ao-representation-learning"></a>[Reliable Neighborhood-Aware Multi-View Outlier Detection](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ao)
+- <a id="makinen26a-representation-learning"></a>[Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings](../conferences/icml-2026/cards/3101-3200.md#paper-makinen26a)
 
 <a id="by-evaluation"></a>
 
@@ -826,4 +833,7 @@
 - <a id="lyu26i-theory-statistics"></a>[Explaining Concept Shift with Interpretable Feature Attribution](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26i)
 - <a id="lyu26k-theory-statistics"></a>[The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26k)
 - <a id="ma26c-theory-statistics"></a>[Efficiently Learning Drifting Halfspaces with Massart Noise](../conferences/icml-2026/cards/3101-3200.md#paper-ma26c)
+- <a id="ma26af-theory-statistics"></a>[Feature Bagging Provides Stability](../conferences/icml-2026/cards/3101-3200.md#paper-ma26af)
+- <a id="mai26a-theory-statistics"></a>[Correcting Overparameterization Effects in Fair Empirical Risk Minimization](../conferences/icml-2026/cards/3101-3200.md#paper-mai26a)
+- <a id="maiti26a-theory-statistics"></a>[Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](../conferences/icml-2026/cards/3101-3200.md#paper-maiti26a)
 <!-- classification:end -->

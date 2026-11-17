@@ -62,6 +62,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="luo26af-architecture"></a>[MotionMAR: Multi-scale Auto-Regressive Human Motion Reconstruction from Sparse Observations](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26af)
 - <a id="luo26al-architecture"></a>[4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26al)
 - <a id="ma26x-architecture"></a>[Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26x)
+- <a id="ma26au-architecture"></a>[CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26au)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -220,6 +221,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="ma26b-training-strategies"></a>[Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26b)
 - <a id="ma26n-training-strategies"></a>[Domain Adaptive Object Detection via Dynamic Causal Refinement](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26n)
 - <a id="ma26u-training-strategies"></a>[FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26u)
+- <a id="ma26aq-training-strategies"></a>[Learning Generalized Trackers with Elastic Token Budgets](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26aq)
 
 <a id="by-data-strategies"></a>
 
@@ -323,6 +325,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lv26e-inference"></a>[Spatial-Aware Reduction Framework: Towards Efficient and Faithful Visual State Space Models](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26e)
 - <a id="lv26i-inference"></a>[Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26i)
 - <a id="lv26m-inference"></a>[NaviCache: Test-Time Self-Calibration Caching for Video Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26m)
+- <a id="mammadov26a-inference"></a>[Variational Flow Maps: Make Some Noise for One-Step Conditional Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-mammadov26a)
+- <a id="man26a-inference"></a>[Turbo4DGen: Ultra-Fast Acceleration for 4D Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-man26a)
 
 <a id="by-representation-learning"></a>
 

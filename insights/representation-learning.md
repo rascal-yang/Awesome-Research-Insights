@@ -80,6 +80,7 @@
 - [从共现核的平移对称预估嵌入几何](../conferences/icml-2026/cards/2001-2100.md#karkada26a-representation-learning) · Symmetry in language statistics shapes the geometry of model representations
 - [给浮点数单独的单位置编码通道](../conferences/icml-2026/cards/2201-2300.md#kreitner26a-representation-learning) · Efficient Numeracy in Language Models through Single-Token Number Encodings
 - [用提示条件词表分布监督短文主题重建](../conferences/icml-2026/cards/2301-2400.md#li26a-representation-learning) · Improving Topic Modeling by Distilling Soft Labels from Language Models
+- [双曲检索层级保真池化](../conferences/icml-2026/cards/3101-3200.md#madhu26a-representation-learning) · HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation
 
 <a id="by-reinforcement-learning"></a>
 
@@ -184,6 +185,8 @@
 - [从多变量状态蒸馏单变量邻域](../conferences/icml-2026/cards/2801-2900.md#liu26bp-representation-learning) · TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series
 - [公平多视图聚类](../conferences/icml-2026/cards/2901-3000.md#liu26eq-representation-learning) · Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering
 - [直接学习可解释分类的符号幂乘积方程](../conferences/icml-2026/cards/3001-3100.md#lumadjeng26a-representation-learning) · ECSEL: Explainable Classification via Signomial Equation Learning
+- [多视图异常邻域校准](../conferences/icml-2026/cards/3101-3200.md#ma26ao-representation-learning) · Reliable Neighborhood-Aware Multi-View Outlier Detection
+- [用专家相对判断定位新任务](../conferences/icml-2026/cards/3101-3200.md#makinen26a-representation-learning) · Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -213,6 +216,8 @@
 - [将图上模态交互与语义对齐分开训练](../conferences/icml-2026/cards/2801-2900.md#liu26by-representation-learning) · Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach
 - [把跨域图节点映射到关系异常指纹](../conferences/icml-2026/cards/2801-2900.md#liu26cp-representation-learning) · Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach
 - [双曲重心对齐跨域推荐表示](../conferences/icml-2026/cards/2901-3000.md#liu26eg-representation-learning) · HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains
+- [跨城路网的公共低频与本地高频](../conferences/icml-2026/cards/3101-3200.md#ma26aj-representation-learning) · Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning
+- [在特征空间预估隐式图游走核](../conferences/icml-2026/cards/3201-3300.md#manenti26b-representation-learning) · SWING: Unlocking Implicit Graph Representations for Graph Random Features
 
 <a id="by-scientific-ml"></a>
 
@@ -263,4 +268,5 @@
 - [从映射后网表向综合前电路图蒸馏](../conferences/icml-2026/cards/2901-3000.md#liu26gc-representation-learning) · Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning
 - [用反向个体对比与脑图重建学习共享表征](../conferences/icml-2026/cards/3001-3100.md#lu26ak-representation-learning) · SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification
 - [稀疏故障前兆的连续时间原型](../conferences/icml-2026/cards/3101-3200.md#lv26h-representation-learning) · Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection
+- [用遮挡潜预测学习市场风险结构](../conferences/icml-2026/cards/3101-3200.md#mahns26a-representation-learning) · Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities
 <!-- classification:end -->

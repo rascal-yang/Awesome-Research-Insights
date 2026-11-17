@@ -222,6 +222,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](../../conferences/icml-2026/cards/3101-3200.md#luxembourg26a-inference) · 中文
 - [Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets](../../conferences/icml-2026/cards/3101-3200.md#ma26m-inference) · 中文
 - [FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing](../../conferences/icml-2026/cards/3101-3200.md#ma26r-inference) · 中文
+- [Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching](../../conferences/icml-2026/cards/3101-3200.md#ma26ag-inference) · 中文
+- [Scaling Agentic Verifier for Competitive Coding](../../conferences/icml-2026/cards/3101-3200.md#ma26av-inference) · 中文
+- [MACKO: Sparse matrix-vector multiplication for low sparsity](../../conferences/icml-2026/cards/3101-3200.md#macko26a-inference) · 中文
+- [Rethinking Thinking Tokens: LLMs as Improvement Operators](../../conferences/icml-2026/cards/3101-3200.md#madaan26b-inference) · 中文
+- [Scaling Generative Verifiers For Natural Language Mathematical Proof Verification And Selection](../../conferences/icml-2026/cards/3101-3200.md#mahdavi26a-inference) · 中文
+- [PPDL: LLM-Based Flows as Probabilistic Programs](../../conferences/icml-2026/cards/3201-3300.md#mandel26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -305,6 +311,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Spatial-Aware Reduction Framework: Towards Efficient and Faithful Visual State Space Models](../../conferences/icml-2026/cards/3101-3200.md#lv26e-inference) · 中文
 - [Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](../../conferences/icml-2026/cards/3101-3200.md#lv26i-inference) · 中文
 - [NaviCache: Test-Time Self-Calibration Caching for Video Generation](../../conferences/icml-2026/cards/3101-3200.md#lv26m-inference) · 中文
+- [Variational Flow Maps: Make Some Noise for One-Step Conditional Generation](../../conferences/icml-2026/cards/3101-3200.md#mammadov26a-inference) · 中文
+- [Turbo4DGen: Ultra-Fast Acceleration for 4D Generation](../../conferences/icml-2026/cards/3101-3200.md#man26a-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -440,6 +448,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery](../../conferences/icml-2026/cards/3001-3100.md#lu26ae-inference) · 中文
 - [D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models](../../conferences/icml-2026/cards/3001-3100.md#luo26i-inference) · 中文
 - [Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26z-inference) · 中文
+- [Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion](../../conferences/icml-2026/cards/3101-3200.md#ma26ax-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -521,4 +530,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · 中文
 - [EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance](../../conferences/icml-2026/cards/3001-3100.md#luan26b-inference) · 中文
 - [QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation](../../conferences/icml-2026/cards/3101-3200.md#lyu26c-inference) · 中文
+- [Inference-time optimization for experiment-grounded protein ensemble generation](../../conferences/icml-2026/cards/3101-3200.md#maddipatla26a-inference) · 中文
+- [MacroGuide: Topological Guidance for Macrocycle Generation](../../conferences/icml-2026/cards/3101-3200.md#maksymiuk26a-inference) · 中文
 <!-- classification:end -->

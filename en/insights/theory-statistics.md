@@ -128,6 +128,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [World Models in Pieces: Structural Certification for General Agents](../../conferences/icml-2026/cards/3001-3100.md#lu26ao-theory-statistics) · 中文
 - [Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments](../../conferences/icml-2026/cards/3001-3100.md#luong26a-theory-statistics) · 中文
 - [Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors](../../conferences/icml-2026/cards/3101-3200.md#lyu26e-theory-statistics) · 中文
+- [Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#mahadevan26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -141,6 +142,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 
 - [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](../../conferences/icml-2026/cards/0301-0400.md#cai26o-theory-statistics) · 中文
 - [Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](../../conferences/icml-2026/cards/0801-0900.md#delattre26a-theory-statistics) · 中文
+- [Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling](../../conferences/icml-2026/cards/3101-3200.md#madaan26a-theory-statistics) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -454,6 +456,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Explaining Concept Shift with Interpretable Feature Attribution](../../conferences/icml-2026/cards/3101-3200.md#lyu26i-theory-statistics) · 中文
 - [The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?](../../conferences/icml-2026/cards/3101-3200.md#lyu26k-theory-statistics) · 中文
 - [Efficiently Learning Drifting Halfspaces with Massart Noise](../../conferences/icml-2026/cards/3101-3200.md#ma26c-theory-statistics) · 中文
+- [Feature Bagging Provides Stability](../../conferences/icml-2026/cards/3101-3200.md#ma26af-theory-statistics) · 中文
+- [Correcting Overparameterization Effects in Fair Empirical Risk Minimization](../../conferences/icml-2026/cards/3101-3200.md#mai26a-theory-statistics) · 中文
+- [Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](../../conferences/icml-2026/cards/3101-3200.md#maiti26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

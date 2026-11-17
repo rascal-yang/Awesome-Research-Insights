@@ -104,6 +104,7 @@ Model-wide design and information flow.
 - [MotionMAR: Multi-scale Auto-Regressive Human Motion Reconstruction from Sparse Observations](../../conferences/icml-2026/cards/3001-3100.md#luo26af-architecture) · 中文
 - [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](../../conferences/icml-2026/cards/3001-3100.md#luo26al-architecture) · 中文
 - [Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras](../../conferences/icml-2026/cards/3101-3200.md#ma26x-architecture) · 中文
+- [CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences](../../conferences/icml-2026/cards/3101-3200.md#ma26au-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -124,6 +125,8 @@ Model-wide design and information flow.
 - [Mitigating Plasticity Loss through Architectural Design in Continual Learning](../../conferences/icml-2026/cards/2101-2200.md#koeppe26a-architecture) · 中文
 - [Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](../../conferences/icml-2026/cards/2201-2300.md#kresse26a-architecture) · 中文
 - [QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL](../../conferences/icml-2026/cards/2301-2400.md#lei26g-architecture) · 中文
+- [ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26an-architecture) · 中文
+- [Scalable Traffic Signal Control with Shared Policy Framework](../../conferences/icml-2026/cards/3101-3200.md#ma26az-architecture) · 中文
 
 <a id="by-robotics"></a>
 
@@ -148,6 +151,7 @@ Model-wide design and information flow.
 - [LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](../../conferences/icml-2026/cards/2801-2900.md#liu26ch-architecture) · 中文
 - [Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation](../../conferences/icml-2026/cards/2801-2900.md#liu26db-architecture) · 中文
 - [Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gf-architecture) · 中文
+- [PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update](../../conferences/icml-2026/cards/3101-3200.md#ma26ar-architecture) · 中文
 
 <a id="by-multimodal"></a>
 

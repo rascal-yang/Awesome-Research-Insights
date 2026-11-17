@@ -127,6 +127,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luo26p-reinforcement-learning) · 中文
 - [Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](../../conferences/icml-2026/cards/3001-3100.md#luo26x-reinforcement-learning) · 中文
 - [FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26q-reinforcement-learning) · 中文
+- [Addressing Semantic Blind Spots in Text-to-SQL via Component Pre-generation and AST Matching Rewards](../../conferences/icml-2026/cards/3101-3200.md#ma26ah-reinforcement-learning) · 中文
+- [Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards](../../conferences/icml-2026/cards/3101-3200.md#ma26al-reinforcement-learning) · 中文
+- [Reflector: Internalizing Step-wise Reflection against Indirect Jailbreaks](../../conferences/icml-2026/cards/3101-3200.md#ma26at-reinforcement-learning) · 中文
+- [Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](../../conferences/icml-2026/cards/3101-3200.md#ma26aw-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -151,6 +155,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](../../conferences/icml-2026/cards/0301-0400.md#bu26e-reinforcement-learning) · 中文
 - [Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning](../../conferences/icml-2026/cards/1601-1700.md#hou26i-reinforcement-learning) · 中文
 - [Simultaneous Speech-to-Speech Translation Without Aligned Data](../../conferences/icml-2026/cards/2201-2300.md#labiausse26a-reinforcement-learning) · 中文
+- [Directly Optimizing Natural Language Explanations for Behavioral Faithfulness: Simulatability and Recoverability](../../conferences/icml-2026/cards/3101-3200.md#malladi26a-reinforcement-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -254,6 +259,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Ratio-Variance Regularized Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#luo26h-reinforcement-learning) · 中文
 - [FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching](../../conferences/icml-2026/cards/3101-3200.md#lv26d-reinforcement-learning) · 中文
 - [What Makes Value Learning Efficient in Residual Reinforcement Learning?](../../conferences/icml-2026/cards/3101-3200.md#ma26s-reinforcement-learning) · 中文
+- [Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces](../../conferences/icml-2026/cards/3101-3200.md#ma26aa-reinforcement-learning) · 中文
+- [Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates](../../conferences/icml-2026/cards/3101-3200.md#maity26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -274,6 +281,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies](../../conferences/icml-2026/cards/2901-3000.md#longhini26a-reinforcement-learning) · 中文
 - [DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](../../conferences/icml-2026/cards/3001-3100.md#luo26v-reinforcement-learning) · 中文
 - [Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luu26a-reinforcement-learning) · 中文
+- [DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](../../conferences/icml-2026/cards/3201-3300.md#mandi26a-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -320,6 +328,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](../../conferences/icml-2026/cards/2901-3000.md#long26a-reinforcement-learning) · 中文
 - [PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](../../conferences/icml-2026/cards/3001-3100.md#lu26b-reinforcement-learning) · 中文
 - [VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning](../../conferences/icml-2026/cards/3001-3100.md#lu26i-reinforcement-learning) · 中文
+- [Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26ay-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -188,6 +188,7 @@
 - <a id="liu26ge-optimization"></a>[Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ge)
 - <a id="ma26a-optimization"></a>[SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference](../conferences/icml-2026/cards/3101-3200.md#paper-ma26a)
 - <a id="ma26f-optimization"></a>[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](../conferences/icml-2026/cards/3101-3200.md#paper-ma26f)
+- <a id="mandal26a-optimization"></a>[Distributionally Robust Reinforcement Learning from Human Feedback](../conferences/icml-2026/cards/3201-3300.md#paper-mandal26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -307,6 +308,10 @@
 - <a id="luo26p-reinforcement-learning"></a>[IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning](../conferences/icml-2026/cards/3001-3100.md#paper-luo26p)
 - <a id="luo26x-reinforcement-learning"></a>[Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](../conferences/icml-2026/cards/3001-3100.md#paper-luo26x)
 - <a id="ma26q-reinforcement-learning"></a>[FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26q)
+- <a id="ma26ah-reinforcement-learning"></a>[Addressing Semantic Blind Spots in Text-to-SQL via Component Pre-generation and AST Matching Rewards](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ah)
+- <a id="ma26al-reinforcement-learning"></a>[Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards](../conferences/icml-2026/cards/3101-3200.md#paper-ma26al)
+- <a id="ma26at-reinforcement-learning"></a>[Reflector: Internalizing Step-wise Reflection against Indirect Jailbreaks](../conferences/icml-2026/cards/3101-3200.md#paper-ma26at)
+- <a id="ma26aw-reinforcement-learning"></a>[Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](../conferences/icml-2026/cards/3101-3200.md#paper-ma26aw)
 
 <a id="by-training-strategies"></a>
 
@@ -399,6 +404,8 @@
 - <a id="lu26q-training-strategies"></a>[Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought](../conferences/icml-2026/cards/3001-3100.md#paper-lu26q)
 - <a id="lu26ag-training-strategies"></a>[Context Tuning for In-Context Optimization](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ag)
 - <a id="lyu26j-training-strategies"></a>[Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26j)
+- <a id="ma26ad-training-strategies"></a>[Non-Monotonic Autoregressive Sequence Model](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ad)
+- <a id="magakyan26a-training-strategies"></a>[Collaborative and Efficient Fine-tuning: Leveraging Task Similarity](../conferences/icml-2026/cards/3101-3200.md#paper-magakyan26a)
 
 <a id="by-data-strategies"></a>
 
@@ -662,6 +669,12 @@
 - <a id="luxembourg26a-inference"></a>[Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](../conferences/icml-2026/cards/3101-3200.md#paper-luxembourg26a)
 - <a id="ma26m-inference"></a>[Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets](../conferences/icml-2026/cards/3101-3200.md#paper-ma26m)
 - <a id="ma26r-inference"></a>[FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing](../conferences/icml-2026/cards/3101-3200.md#paper-ma26r)
+- <a id="ma26ag-inference"></a>[Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ag)
+- <a id="ma26av-inference"></a>[Scaling Agentic Verifier for Competitive Coding](../conferences/icml-2026/cards/3101-3200.md#paper-ma26av)
+- <a id="macko26a-inference"></a>[MACKO: Sparse matrix-vector multiplication for low sparsity](../conferences/icml-2026/cards/3101-3200.md#paper-macko26a)
+- <a id="madaan26b-inference"></a>[Rethinking Thinking Tokens: LLMs as Improvement Operators](../conferences/icml-2026/cards/3101-3200.md#paper-madaan26b)
+- <a id="mahdavi26a-inference"></a>[Scaling Generative Verifiers For Natural Language Mathematical Proof Verification And Selection](../conferences/icml-2026/cards/3101-3200.md#paper-mahdavi26a)
+- <a id="mandel26a-inference"></a>[PPDL: LLM-Based Flows as Probabilistic Programs](../conferences/icml-2026/cards/3201-3300.md#paper-mandel26a)
 
 <a id="by-representation-learning"></a>
 
@@ -906,6 +919,11 @@
 - <a id="ma26l-evaluation"></a>[SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?](../conferences/icml-2026/cards/3101-3200.md#paper-ma26l)
 - <a id="ma26v-evaluation"></a>[Do Sparse Autoencoders Identify Reasoning Features in Language Models?](../conferences/icml-2026/cards/3101-3200.md#paper-ma26v)
 - <a id="ma26y-evaluation"></a>[A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation](../conferences/icml-2026/cards/3101-3200.md#paper-ma26y)
+- <a id="ma26ap-evaluation"></a>[Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ap)
+- <a id="macar26a-evaluation"></a>[Mechanisms of Introspective Awareness](../conferences/icml-2026/cards/3101-3200.md#paper-macar26a)
+- <a id="malay26a-evaluation"></a>[EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings](../conferences/icml-2026/cards/3101-3200.md#paper-malay26a)
+- <a id="mancoridis26a-evaluation"></a>[The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes](../conferences/icml-2026/cards/3201-3300.md#paper-mancoridis26a)
+- <a id="mang26a-evaluation"></a>[FrontierCS: Evolving Challenges for Evolving Intelligence](../conferences/icml-2026/cards/3201-3300.md#paper-mang26a)
 
 <a id="by-theory-statistics"></a>
 

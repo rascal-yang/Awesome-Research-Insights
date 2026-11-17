@@ -238,6 +238,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?](../../conferences/icml-2026/cards/3101-3200.md#ma26l-evaluation) · 中文
 - [Do Sparse Autoencoders Identify Reasoning Features in Language Models?](../../conferences/icml-2026/cards/3101-3200.md#ma26v-evaluation) · 中文
 - [A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation](../../conferences/icml-2026/cards/3101-3200.md#ma26y-evaluation) · 中文
+- [Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives](../../conferences/icml-2026/cards/3101-3200.md#ma26ap-evaluation) · 中文
+- [Mechanisms of Introspective Awareness](../../conferences/icml-2026/cards/3101-3200.md#macar26a-evaluation) · 中文
+- [EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings](../../conferences/icml-2026/cards/3101-3200.md#malay26a-evaluation) · 中文
+- [The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes](../../conferences/icml-2026/cards/3201-3300.md#mancoridis26a-evaluation) · 中文
+- [FrontierCS: Evolving Challenges for Evolving Intelligence](../../conferences/icml-2026/cards/3201-3300.md#mang26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -322,6 +327,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · 中文
 - [Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26w-evaluation) · 中文
 - [Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26w-evaluation) · 中文
+- [Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards](../../conferences/icml-2026/cards/3101-3200.md#majumdar26a-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -411,6 +417,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](../../conferences/icml-2026/cards/3001-3100.md#luo26k-evaluation) · 中文
 - [Vision Language Models Cannot Reason About Physical Transformation](../../conferences/icml-2026/cards/3001-3100.md#luo26n-evaluation) · 中文
 - [The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance](../../conferences/icml-2026/cards/3101-3200.md#ma26t-evaluation) · 中文
+- [CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../../conferences/icml-2026/cards/3101-3200.md#ma26am-evaluation) · 中文
+- [What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -508,4 +516,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures](../../conferences/icml-2026/cards/2801-2900.md#liu26df-evaluation) · 中文
 - [ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · 中文
 - [AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · 中文
+- [MADE: Benchmark Environments for Closed-Loop Materials Discovery](../../conferences/icml-2026/cards/3101-3200.md#malik26a-evaluation) · 中文
 <!-- classification:end -->

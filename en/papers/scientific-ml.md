@@ -222,6 +222,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="geenjaar26a-data-strategies"></a>[A robust PPG foundation model using multimodal physiological supervision](../../conferences/icml-2026/cards/1201-1300.md#paper-geenjaar26a)
 - <a id="huynh26a-data-strategies"></a>[Active Timepoint Selection for Learning Measure-Valued Trajectories](../../conferences/icml-2026/cards/1701-1800.md#paper-huynh26a)
 - <a id="li26jn-data-strategies"></a>[Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jn)
+- <a id="makarov26a-data-strategies"></a>[TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins](../../conferences/icml-2026/cards/3101-3200.md#paper-makarov26a)
 
 <a id="by-inference"></a>
 
@@ -252,6 +253,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26en-inference"></a>[AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26en)
 - <a id="luan26b-inference"></a>[EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance](../../conferences/icml-2026/cards/3001-3100.md#paper-luan26b)
 - <a id="lyu26c-inference"></a>[QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26c)
+- <a id="maddipatla26a-inference"></a>[Inference-time optimization for experiment-grounded protein ensemble generation](../../conferences/icml-2026/cards/3101-3200.md#paper-maddipatla26a)
+- <a id="maksymiuk26a-inference"></a>[MacroGuide: Topological Guidance for Macrocycle Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-maksymiuk26a)
 
 <a id="by-representation-learning"></a>
 
@@ -302,6 +305,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26gc-representation-learning"></a>[Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gc)
 - <a id="lu26ak-representation-learning"></a>[SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ak)
 - <a id="lv26h-representation-learning"></a>[Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26h)
+- <a id="mahns26a-representation-learning"></a>[Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../../conferences/icml-2026/cards/3101-3200.md#paper-mahns26a)
 
 <a id="by-evaluation"></a>
 
@@ -338,6 +342,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26df-evaluation"></a>[From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26df)
 - <a id="liu26di-evaluation"></a>[ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26di)
 - <a id="lv26b-evaluation"></a>[AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26b)
+- <a id="malik26a-evaluation"></a>[MADE: Benchmark Environments for Closed-Loop Materials Discovery](../../conferences/icml-2026/cards/3101-3200.md#paper-malik26a)
 
 <a id="by-theory-statistics"></a>
 

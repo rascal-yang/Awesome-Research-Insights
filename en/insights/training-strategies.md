@@ -100,6 +100,8 @@ Training schedules, curricula, and task or stage composition.
 - [Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought](../../conferences/icml-2026/cards/3001-3100.md#lu26q-training-strategies) · 中文
 - [Context Tuning for In-Context Optimization](../../conferences/icml-2026/cards/3001-3100.md#lu26ag-training-strategies) · 中文
 - [Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs](../../conferences/icml-2026/cards/3101-3200.md#lyu26j-training-strategies) · 中文
+- [Non-Monotonic Autoregressive Sequence Model](../../conferences/icml-2026/cards/3101-3200.md#ma26ad-training-strategies) · 中文
+- [Collaborative and Efficient Fine-tuning: Leveraging Task Similarity](../../conferences/icml-2026/cards/3101-3200.md#magakyan26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -153,6 +155,7 @@ Training schedules, curricula, and task or stage composition.
 - [Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model](../../conferences/icml-2026/cards/3101-3200.md#ma26b-training-strategies) · 中文
 - [Domain Adaptive Object Detection via Dynamic Causal Refinement](../../conferences/icml-2026/cards/3101-3200.md#ma26n-training-strategies) · 中文
 - [FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](../../conferences/icml-2026/cards/3101-3200.md#ma26u-training-strategies) · 中文
+- [Learning Generalized Trackers with Elastic Token Budgets](../../conferences/icml-2026/cards/3101-3200.md#ma26aq-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -283,6 +286,8 @@ Training schedules, curricula, and task or stage composition.
 - [SURF: Separation via Unsupervised Remixing Flow](../../conferences/icml-2026/cards/2501-2600.md#li26fa-training-strategies) · 中文
 - [Consistency Deep Equilibrium Models](../../conferences/icml-2026/cards/2701-2800.md#lin26w-training-strategies) · 中文
 - [FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26aa-training-strategies) · 中文
+- [Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration](../../conferences/icml-2026/cards/3101-3200.md#ma26ab-training-strategies) · 中文
+- [No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26ae-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

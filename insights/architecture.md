@@ -104,6 +104,7 @@
 - [稀疏动作的逐尺度自回归](../conferences/icml-2026/cards/3001-3100.md#luo26af-architecture) · MotionMAR: Multi-scale Auto-Regressive Human Motion Reconstruction from Sparse Observations
 - [单目四维几何运动查询](../conferences/icml-2026/cards/3001-3100.md#luo26al-architecture) · 4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere
 - [用降噪脉冲单元和双向多尺度网络处理事件相机](../conferences/icml-2026/cards/3101-3200.md#ma26x-architecture) · Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras
+- [红外小目标背景流形](../conferences/icml-2026/cards/3101-3200.md#ma26au-architecture) · CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences
 
 <a id="by-nlp"></a>
 
@@ -124,6 +125,8 @@
 - [用输入门在固定参考路径和可学投影间插值](../conferences/icml-2026/cards/2101-2200.md#koeppe26a-architecture) · Mitigating Plasticity Loss through Architectural Design in Continual Learning
 - [把可梯度训练的连续策略编译成查表电路](../conferences/icml-2026/cards/2201-2300.md#kresse26a-architecture) · Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control
 - [离线控制中的目标可达性](../conferences/icml-2026/cards/2301-2400.md#lei26g-architecture) · QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL
+- [连续控制演员评论家专家扩展](../conferences/icml-2026/cards/3101-3200.md#ma26an-architecture) · ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning
+- [路口共享策略动态路由](../conferences/icml-2026/cards/3101-3200.md#ma26az-architecture) · Scalable Traffic Signal Control with Shared Policy Framework
 
 <a id="by-robotics"></a>
 
@@ -148,6 +151,7 @@
 - [用低频潜在时空推理支持高频机器人控制](../conferences/icml-2026/cards/2801-2900.md#liu26ch-architecture) · LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model
 - [观察条件作为动作扩散桥端点](../conferences/icml-2026/cards/2801-2900.md#liu26db-architecture) · Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation
 - [用可微连续时间函数表示机器人动作块](../conferences/icml-2026/cards/2901-3000.md#liu26gf-architecture) · Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models
+- [无投影多面体流匹配](../conferences/icml-2026/cards/3101-3200.md#ma26ar-architecture) · PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update
 
 <a id="by-multimodal"></a>
 

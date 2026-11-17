@@ -18,6 +18,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="koeppe26a-architecture"></a>[Mitigating Plasticity Loss through Architectural Design in Continual Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-koeppe26a)
 - <a id="kresse26a-architecture"></a>[Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](../../conferences/icml-2026/cards/2201-2300.md#paper-kresse26a)
 - <a id="lei26g-architecture"></a>[QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26g)
+- <a id="ma26an-architecture"></a>[ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26an)
+- <a id="ma26az-architecture"></a>[Scalable Traffic Signal Control with Shared Policy Framework](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26az)
 
 <a id="by-loss-functions"></a>
 
@@ -142,6 +144,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="luo26h-reinforcement-learning"></a>[Ratio-Variance Regularized Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26h)
 - <a id="lv26d-reinforcement-learning"></a>[FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26d)
 - <a id="ma26s-reinforcement-learning"></a>[What Makes Value Learning Efficient in Residual Reinforcement Learning?](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26s)
+- <a id="ma26aa-reinforcement-learning"></a>[Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26aa)
+- <a id="maity26a-reinforcement-learning"></a>[Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates](../../conferences/icml-2026/cards/3101-3200.md#paper-maity26a)
 
 <a id="by-training-strategies"></a>
 
@@ -197,6 +201,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lee26az-evaluation"></a>[TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26az)
 - <a id="liu26w-evaluation"></a>[Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26w)
 - <a id="ma26w-evaluation"></a>[Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26w)
+- <a id="majumdar26a-evaluation"></a>[Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards](../../conferences/icml-2026/cards/3101-3200.md#paper-majumdar26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -255,4 +260,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lu26ao-theory-statistics"></a>[World Models in Pieces: Structural Certification for General Agents](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ao)
 - <a id="luong26a-theory-statistics"></a>[Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments](../../conferences/icml-2026/cards/3001-3100.md#paper-luong26a)
 - <a id="lyu26e-theory-statistics"></a>[Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26e)
+- <a id="mahadevan26a-theory-statistics"></a>[Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-mahadevan26a)
 <!-- classification:end -->

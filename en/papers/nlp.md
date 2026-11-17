@@ -46,6 +46,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="bu26e-reinforcement-learning"></a>[Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](../../conferences/icml-2026/cards/0301-0400.md#paper-bu26e)
 - <a id="hou26i-reinforcement-learning"></a>[Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26i)
 - <a id="labiausse26a-reinforcement-learning"></a>[Simultaneous Speech-to-Speech Translation Without Aligned Data](../../conferences/icml-2026/cards/2201-2300.md#paper-labiausse26a)
+- <a id="malladi26a-reinforcement-learning"></a>[Directly Optimizing Natural Language Explanations for Behavioral Faithfulness: Simulatability and Recoverability](../../conferences/icml-2026/cards/3101-3200.md#paper-malladi26a)
 
 <a id="by-training-strategies"></a>
 
@@ -95,6 +96,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="karkada26a-representation-learning"></a>[Symmetry in language statistics shapes the geometry of model representations](../../conferences/icml-2026/cards/2001-2100.md#paper-karkada26a)
 - <a id="kreitner26a-representation-learning"></a>[Efficient Numeracy in Language Models through Single-Token Number Encodings](../../conferences/icml-2026/cards/2201-2300.md#paper-kreitner26a)
 - <a id="li26a-representation-learning"></a>[Improving Topic Modeling by Distilling Soft Labels from Language Models](../../conferences/icml-2026/cards/2301-2400.md#paper-li26a)
+- <a id="madhu26a-representation-learning"></a>[HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-madhu26a)
 
 <a id="by-evaluation"></a>
 

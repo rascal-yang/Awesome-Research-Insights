@@ -80,6 +80,7 @@
 - [分层进化共享元启发式和各任务程序](../conferences/icml-2026/cards/2901-3000.md#liu26ge-optimization) · Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs
 - [预训练中联合诱导稀疏与低秩权重](../conferences/icml-2026/cards/3101-3200.md#ma26a-optimization) · SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference
 - [用持续梯度白化保护顺序编辑中的旧知识](../conferences/icml-2026/cards/3101-3200.md#ma26f-optimization) · More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing
+- [在分布邻域内稳健优化偏好](../conferences/icml-2026/cards/3201-3300.md#mandal26a-optimization) · Distributionally Robust Reinforcement Learning from Human Feedback
 
 <a id="by-computer-vision"></a>
 
@@ -317,6 +318,9 @@
 - [先聚组父模型神经元再拟合融合模型的内部表示](../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · Model Fusion via Retrofitting
 - [凸差正则后验采样](../conferences/icml-2026/cards/3001-3100.md#luu26b-optimization) · DC-LA: Difference-of-Convex Langevin Algorithm
 - [复制扩宽模型并用 μP 对齐噪声和学习率](../conferences/icml-2026/cards/3101-3200.md#ma26d-optimization) · $μ$pscaling small models: Principled warm starts and hyperparameter transfer
+- [动态图上用一阶推拉做双层优化](../conferences/icml-2026/cards/3101-3200.md#ma26ak-optimization) · FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs
+- [用层级二分简化类别分布的梯度几何](../conferences/icml-2026/cards/3201-3300.md#manenti26a-optimization) · Beyond Softmax: A Natural Parameterization for Categorical Random Variables
+- [用历史试验的辅助时序提高设计搜索效率](../conferences/icml-2026/cards/3201-3300.md#mani26a-optimization) · Few-Shot Design Optimization by Exploiting Auxiliary Information
 
 <a id="by-graph-and-recommendation"></a>
 

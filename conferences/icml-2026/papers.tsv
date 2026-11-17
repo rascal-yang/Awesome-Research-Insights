@@ -3151,62 +3151,62 @@ number	pmlr_id	title	paper_url	insight_status
 3150	ma26x	Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras	https://proceedings.mlr.press/v306/ma26x.html	written
 3151	ma26y	A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation	https://proceedings.mlr.press/v306/ma26y.html	written
 3152	ma26z	Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning	https://proceedings.mlr.press/v306/ma26z.html	written
-3153	ma26aa	Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces	https://proceedings.mlr.press/v306/ma26aa.html	pending
-3154	ma26ab	Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration	https://proceedings.mlr.press/v306/ma26ab.html	pending
-3155	ma26ac	Dual-Latent Memory Routing for Vision-Language Reasoning	https://proceedings.mlr.press/v306/ma26ac.html	pending
-3156	ma26ad	Non-Monotonic Autoregressive Sequence Model	https://proceedings.mlr.press/v306/ma26ad.html	pending
-3157	ma26ae	No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning	https://proceedings.mlr.press/v306/ma26ae.html	pending
-3158	ma26af	Feature Bagging Provides Stability	https://proceedings.mlr.press/v306/ma26af.html	pending
-3159	ma26ag	Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching	https://proceedings.mlr.press/v306/ma26ag.html	pending
-3160	ma26ah	Addressing Semantic Blind Spots in Text-to-SQL via Component Pre-generation and AST Matching Rewards	https://proceedings.mlr.press/v306/ma26ah.html	pending
-3161	ma26ai	AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field	https://proceedings.mlr.press/v306/ma26ai.html	pending
-3162	ma26aj	Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning	https://proceedings.mlr.press/v306/ma26aj.html	pending
-3163	ma26ak	FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs	https://proceedings.mlr.press/v306/ma26ak.html	pending
-3164	ma26al	Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards	https://proceedings.mlr.press/v306/ma26al.html	pending
-3165	ma26am	CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction	https://proceedings.mlr.press/v306/ma26am.html	pending
-3166	ma26an	ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning	https://proceedings.mlr.press/v306/ma26an.html	pending
-3167	ma26ao	Reliable Neighborhood-Aware Multi-View Outlier Detection	https://proceedings.mlr.press/v306/ma26ao.html	pending
-3168	ma26ap	Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives	https://proceedings.mlr.press/v306/ma26ap.html	pending
-3169	ma26aq	Learning Generalized Trackers with Elastic Token Budgets	https://proceedings.mlr.press/v306/ma26aq.html	pending
-3170	ma26ar	PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update	https://proceedings.mlr.press/v306/ma26ar.html	pending
-3171	ma26as	What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom	https://proceedings.mlr.press/v306/ma26as.html	pending
-3172	ma26at	Reflector: Internalizing Step-wise Reflection against Indirect Jailbreaks	https://proceedings.mlr.press/v306/ma26at.html	pending
-3173	ma26au	CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences	https://proceedings.mlr.press/v306/ma26au.html	pending
-3174	ma26av	Scaling Agentic Verifier for Competitive Coding	https://proceedings.mlr.press/v306/ma26av.html	pending
-3175	ma26aw	Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers	https://proceedings.mlr.press/v306/ma26aw.html	pending
-3176	ma26ax	Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion	https://proceedings.mlr.press/v306/ma26ax.html	pending
-3177	ma26ay	Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning	https://proceedings.mlr.press/v306/ma26ay.html	pending
-3178	ma26az	Scalable Traffic Signal Control with Shared Policy Framework	https://proceedings.mlr.press/v306/ma26az.html	pending
-3179	macar26a	Mechanisms of Introspective Awareness	https://proceedings.mlr.press/v306/macar26a.html	pending
-3180	macko26a	MACKO: Sparse matrix-vector multiplication for low sparsity	https://proceedings.mlr.press/v306/macko26a.html	pending
-3181	madaan26a	Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling	https://proceedings.mlr.press/v306/madaan26a.html	pending
-3182	madaan26b	Rethinking Thinking Tokens: LLMs as Improvement Operators	https://proceedings.mlr.press/v306/madaan26b.html	pending
-3183	maddipatla26a	Inference-time optimization for experiment-grounded protein ensemble generation	https://proceedings.mlr.press/v306/maddipatla26a.html	pending
-3184	madhu26a	HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation	https://proceedings.mlr.press/v306/madhu26a.html	pending
-3185	magakyan26a	Collaborative and Efficient Fine-tuning: Leveraging Task Similarity	https://proceedings.mlr.press/v306/magakyan26a.html	pending
-3186	mahadevan26a	Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning	https://proceedings.mlr.press/v306/mahadevan26a.html	pending
-3187	mahdavi26a	Scaling Generative Verifiers For Natural Language Mathematical Proof Verification And Selection	https://proceedings.mlr.press/v306/mahdavi26a.html	pending
-3188	mahns26a	Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities	https://proceedings.mlr.press/v306/mahns26a.html	pending
-3189	mai26a	Correcting Overparameterization Effects in Fair Empirical Risk Minimization	https://proceedings.mlr.press/v306/mai26a.html	pending
-3190	maiti26a	Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners	https://proceedings.mlr.press/v306/maiti26a.html	pending
-3191	maity26a	Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates	https://proceedings.mlr.press/v306/maity26a.html	pending
-3192	majumdar26a	Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards	https://proceedings.mlr.press/v306/majumdar26a.html	pending
-3193	makarov26a	TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins	https://proceedings.mlr.press/v306/makarov26a.html	pending
-3194	makinen26a	Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings	https://proceedings.mlr.press/v306/makinen26a.html	pending
-3195	maksymiuk26a	MacroGuide: Topological Guidance for Macrocycle Generation	https://proceedings.mlr.press/v306/maksymiuk26a.html	pending
-3196	malay26a	EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings	https://proceedings.mlr.press/v306/malay26a.html	pending
-3197	malik26a	MADE: Benchmark Environments for Closed-Loop Materials Discovery	https://proceedings.mlr.press/v306/malik26a.html	pending
-3198	malladi26a	Directly Optimizing Natural Language Explanations for Behavioral Faithfulness: Simulatability and Recoverability	https://proceedings.mlr.press/v306/malladi26a.html	pending
-3199	mammadov26a	Variational Flow Maps: Make Some Noise for One-Step Conditional Generation	https://proceedings.mlr.press/v306/mammadov26a.html	pending
-3200	man26a	Turbo4DGen: Ultra-Fast Acceleration for 4D Generation	https://proceedings.mlr.press/v306/man26a.html	pending
-3201	mancoridis26a	The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes	https://proceedings.mlr.press/v306/mancoridis26a.html	pending
-3202	mandal26a	Distributionally Robust Reinforcement Learning from Human Feedback	https://proceedings.mlr.press/v306/mandal26a.html	pending
-3203	mandel26a	PPDL: LLM-Based Flows as Probabilistic Programs	https://proceedings.mlr.press/v306/mandel26a.html	pending
-3204	mandi26a	DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation	https://proceedings.mlr.press/v306/mandi26a.html	pending
-3205	manenti26a	Beyond Softmax: A Natural Parameterization for Categorical Random Variables	https://proceedings.mlr.press/v306/manenti26a.html	pending
-3206	manenti26b	SWING: Unlocking Implicit Graph Representations for Graph Random Features	https://proceedings.mlr.press/v306/manenti26b.html	pending
-3207	mang26a	FrontierCS: Evolving Challenges for Evolving Intelligence	https://proceedings.mlr.press/v306/mang26a.html	pending
-3208	mani26a	Few-Shot Design Optimization by Exploiting Auxiliary Information	https://proceedings.mlr.press/v306/mani26a.html	pending
+3153	ma26aa	Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces	https://proceedings.mlr.press/v306/ma26aa.html	written
+3154	ma26ab	Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration	https://proceedings.mlr.press/v306/ma26ab.html	written
+3155	ma26ac	Dual-Latent Memory Routing for Vision-Language Reasoning	https://proceedings.mlr.press/v306/ma26ac.html	written
+3156	ma26ad	Non-Monotonic Autoregressive Sequence Model	https://proceedings.mlr.press/v306/ma26ad.html	written
+3157	ma26ae	No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning	https://proceedings.mlr.press/v306/ma26ae.html	written
+3158	ma26af	Feature Bagging Provides Stability	https://proceedings.mlr.press/v306/ma26af.html	written
+3159	ma26ag	Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching	https://proceedings.mlr.press/v306/ma26ag.html	written
+3160	ma26ah	Addressing Semantic Blind Spots in Text-to-SQL via Component Pre-generation and AST Matching Rewards	https://proceedings.mlr.press/v306/ma26ah.html	written
+3161	ma26ai	AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field	https://proceedings.mlr.press/v306/ma26ai.html	written
+3162	ma26aj	Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning	https://proceedings.mlr.press/v306/ma26aj.html	written
+3163	ma26ak	FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs	https://proceedings.mlr.press/v306/ma26ak.html	written
+3164	ma26al	Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards	https://proceedings.mlr.press/v306/ma26al.html	written
+3165	ma26am	CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction	https://proceedings.mlr.press/v306/ma26am.html	written
+3166	ma26an	ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning	https://proceedings.mlr.press/v306/ma26an.html	written
+3167	ma26ao	Reliable Neighborhood-Aware Multi-View Outlier Detection	https://proceedings.mlr.press/v306/ma26ao.html	written
+3168	ma26ap	Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives	https://proceedings.mlr.press/v306/ma26ap.html	written
+3169	ma26aq	Learning Generalized Trackers with Elastic Token Budgets	https://proceedings.mlr.press/v306/ma26aq.html	written
+3170	ma26ar	PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update	https://proceedings.mlr.press/v306/ma26ar.html	written
+3171	ma26as	What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom	https://proceedings.mlr.press/v306/ma26as.html	written
+3172	ma26at	Reflector: Internalizing Step-wise Reflection against Indirect Jailbreaks	https://proceedings.mlr.press/v306/ma26at.html	written
+3173	ma26au	CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences	https://proceedings.mlr.press/v306/ma26au.html	written
+3174	ma26av	Scaling Agentic Verifier for Competitive Coding	https://proceedings.mlr.press/v306/ma26av.html	written
+3175	ma26aw	Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers	https://proceedings.mlr.press/v306/ma26aw.html	written
+3176	ma26ax	Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion	https://proceedings.mlr.press/v306/ma26ax.html	written
+3177	ma26ay	Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning	https://proceedings.mlr.press/v306/ma26ay.html	written
+3178	ma26az	Scalable Traffic Signal Control with Shared Policy Framework	https://proceedings.mlr.press/v306/ma26az.html	written
+3179	macar26a	Mechanisms of Introspective Awareness	https://proceedings.mlr.press/v306/macar26a.html	written
+3180	macko26a	MACKO: Sparse matrix-vector multiplication for low sparsity	https://proceedings.mlr.press/v306/macko26a.html	written
+3181	madaan26a	Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling	https://proceedings.mlr.press/v306/madaan26a.html	written
+3182	madaan26b	Rethinking Thinking Tokens: LLMs as Improvement Operators	https://proceedings.mlr.press/v306/madaan26b.html	written
+3183	maddipatla26a	Inference-time optimization for experiment-grounded protein ensemble generation	https://proceedings.mlr.press/v306/maddipatla26a.html	written
+3184	madhu26a	HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation	https://proceedings.mlr.press/v306/madhu26a.html	written
+3185	magakyan26a	Collaborative and Efficient Fine-tuning: Leveraging Task Similarity	https://proceedings.mlr.press/v306/magakyan26a.html	written
+3186	mahadevan26a	Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning	https://proceedings.mlr.press/v306/mahadevan26a.html	written
+3187	mahdavi26a	Scaling Generative Verifiers For Natural Language Mathematical Proof Verification And Selection	https://proceedings.mlr.press/v306/mahdavi26a.html	written
+3188	mahns26a	Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities	https://proceedings.mlr.press/v306/mahns26a.html	written
+3189	mai26a	Correcting Overparameterization Effects in Fair Empirical Risk Minimization	https://proceedings.mlr.press/v306/mai26a.html	written
+3190	maiti26a	Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners	https://proceedings.mlr.press/v306/maiti26a.html	written
+3191	maity26a	Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates	https://proceedings.mlr.press/v306/maity26a.html	written
+3192	majumdar26a	Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards	https://proceedings.mlr.press/v306/majumdar26a.html	written
+3193	makarov26a	TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins	https://proceedings.mlr.press/v306/makarov26a.html	written
+3194	makinen26a	Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings	https://proceedings.mlr.press/v306/makinen26a.html	written
+3195	maksymiuk26a	MacroGuide: Topological Guidance for Macrocycle Generation	https://proceedings.mlr.press/v306/maksymiuk26a.html	written
+3196	malay26a	EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings	https://proceedings.mlr.press/v306/malay26a.html	written
+3197	malik26a	MADE: Benchmark Environments for Closed-Loop Materials Discovery	https://proceedings.mlr.press/v306/malik26a.html	written
+3198	malladi26a	Directly Optimizing Natural Language Explanations for Behavioral Faithfulness: Simulatability and Recoverability	https://proceedings.mlr.press/v306/malladi26a.html	written
+3199	mammadov26a	Variational Flow Maps: Make Some Noise for One-Step Conditional Generation	https://proceedings.mlr.press/v306/mammadov26a.html	written
+3200	man26a	Turbo4DGen: Ultra-Fast Acceleration for 4D Generation	https://proceedings.mlr.press/v306/man26a.html	written
+3201	mancoridis26a	The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes	https://proceedings.mlr.press/v306/mancoridis26a.html	written
+3202	mandal26a	Distributionally Robust Reinforcement Learning from Human Feedback	https://proceedings.mlr.press/v306/mandal26a.html	written
+3203	mandel26a	PPDL: LLM-Based Flows as Probabilistic Programs	https://proceedings.mlr.press/v306/mandel26a.html	written
+3204	mandi26a	DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation	https://proceedings.mlr.press/v306/mandi26a.html	written
+3205	manenti26a	Beyond Softmax: A Natural Parameterization for Categorical Random Variables	https://proceedings.mlr.press/v306/manenti26a.html	written
+3206	manenti26b	SWING: Unlocking Implicit Graph Representations for Graph Random Features	https://proceedings.mlr.press/v306/manenti26b.html	written
+3207	mang26a	FrontierCS: Evolving Challenges for Evolving Intelligence	https://proceedings.mlr.press/v306/mang26a.html	written
+3208	mani26a	Few-Shot Design Optimization by Exploiting Auxiliary Information	https://proceedings.mlr.press/v306/mani26a.html	written
 3209	mani26b	No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference	https://proceedings.mlr.press/v306/mani26b.html	pending
 3210	mansouri26a	Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients	https://proceedings.mlr.press/v306/mansouri26a.html	pending
 3211	mansouri26b	Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text	https://proceedings.mlr.press/v306/mansouri26b.html	pending

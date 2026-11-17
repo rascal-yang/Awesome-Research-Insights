@@ -80,6 +80,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs](../../conferences/icml-2026/cards/2901-3000.md#liu26ge-optimization) · 中文
 - [SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference](../../conferences/icml-2026/cards/3101-3200.md#ma26a-optimization) · 中文
 - [More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](../../conferences/icml-2026/cards/3101-3200.md#ma26f-optimization) · 中文
+- [Distributionally Robust Reinforcement Learning from Human Feedback](../../conferences/icml-2026/cards/3201-3300.md#mandal26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -317,6 +318,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Model Fusion via Retrofitting](../../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · 中文
 - [DC-LA: Difference-of-Convex Langevin Algorithm](../../conferences/icml-2026/cards/3001-3100.md#luu26b-optimization) · 中文
 - [$μ$pscaling small models: Principled warm starts and hyperparameter transfer](../../conferences/icml-2026/cards/3101-3200.md#ma26d-optimization) · 中文
+- [FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs](../../conferences/icml-2026/cards/3101-3200.md#ma26ak-optimization) · 中文
+- [Beyond Softmax: A Natural Parameterization for Categorical Random Variables](../../conferences/icml-2026/cards/3201-3300.md#manenti26a-optimization) · 中文
+- [Few-Shot Design Optimization by Exploiting Auxiliary Information](../../conferences/icml-2026/cards/3201-3300.md#mani26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

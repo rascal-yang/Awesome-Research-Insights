@@ -80,6 +80,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Symmetry in language statistics shapes the geometry of model representations](../../conferences/icml-2026/cards/2001-2100.md#karkada26a-representation-learning) · 中文
 - [Efficient Numeracy in Language Models through Single-Token Number Encodings](../../conferences/icml-2026/cards/2201-2300.md#kreitner26a-representation-learning) · 中文
 - [Improving Topic Modeling by Distilling Soft Labels from Language Models](../../conferences/icml-2026/cards/2301-2400.md#li26a-representation-learning) · 中文
+- [HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation](../../conferences/icml-2026/cards/3101-3200.md#madhu26a-representation-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -184,6 +185,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series](../../conferences/icml-2026/cards/2801-2900.md#liu26bp-representation-learning) · 中文
 - [Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering](../../conferences/icml-2026/cards/2901-3000.md#liu26eq-representation-learning) · 中文
 - [ECSEL: Explainable Classification via Signomial Equation Learning](../../conferences/icml-2026/cards/3001-3100.md#lumadjeng26a-representation-learning) · 中文
+- [Reliable Neighborhood-Aware Multi-View Outlier Detection](../../conferences/icml-2026/cards/3101-3200.md#ma26ao-representation-learning) · 中文
+- [Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings](../../conferences/icml-2026/cards/3101-3200.md#makinen26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -213,6 +216,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](../../conferences/icml-2026/cards/2801-2900.md#liu26by-representation-learning) · 中文
 - [Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach](../../conferences/icml-2026/cards/2801-2900.md#liu26cp-representation-learning) · 中文
 - [HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains](../../conferences/icml-2026/cards/2901-3000.md#liu26eg-representation-learning) · 中文
+- [Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26aj-representation-learning) · 中文
+- [SWING: Unlocking Implicit Graph Representations for Graph Random Features](../../conferences/icml-2026/cards/3201-3300.md#manenti26b-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -263,4 +268,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26gc-representation-learning) · 中文
 - [SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification](../../conferences/icml-2026/cards/3001-3100.md#lu26ak-representation-learning) · 中文
 - [Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection](../../conferences/icml-2026/cards/3101-3200.md#lv26h-representation-learning) · 中文
+- [Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../../conferences/icml-2026/cards/3101-3200.md#mahns26a-representation-learning) · 中文
 <!-- classification:end -->

@@ -128,6 +128,7 @@
 - [用深组合目标认证智能体的局部转移模型](../conferences/icml-2026/cards/3001-3100.md#lu26ao-theory-statistics) · World Models in Pieces: Structural Certification for General Agents
 - [纯探索决策方差分配](../conferences/icml-2026/cards/3001-3100.md#luong26a-theory-statistics) · Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments
 - [未知误差转移先验的乐观镜像下降](../conferences/icml-2026/cards/3101-3200.md#lyu26e-theory-statistics) · Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors
+- [用慢变量历史幅度控制快变量](../conferences/icml-2026/cards/3101-3200.md#mahadevan26a-theory-statistics) · Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -141,6 +142,7 @@
 
 - [跨模态对比学习](../conferences/icml-2026/cards/0301-0400.md#cai26o-theory-statistics) · The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence
 - [离散与连续扰动的联合认证](../conferences/icml-2026/cards/0801-0900.md#delattre26a-theory-statistics) · Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing
+- [缺失模态预测影响](../conferences/icml-2026/cards/3101-3200.md#madaan26a-theory-statistics) · Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling
 
 <a id="by-ml-foundations"></a>
 
@@ -454,6 +456,9 @@
 - [以稀疏校正归因条件标签漂移](../conferences/icml-2026/cards/3101-3200.md#lyu26i-theory-statistics) · Explaining Concept Shift with Interpretable Feature Attribution
 - [门控单元的核谱条件与收敛阶段](../conferences/icml-2026/cards/3101-3200.md#lyu26k-theory-statistics) · The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?
 - [用近期样本学习受漂移和有界标签噪声影响的半空间](../conferences/icml-2026/cards/3101-3200.md#ma26c-theory-statistics) · Efficiently Learning Drifting Halfspaces with Massart Noise
+- [从删单个特征的扰动衡量集成稳定性](../conferences/icml-2026/cards/3101-3200.md#ma26af-theory-statistics) · Feature Bagging Provides Stability
+- [从系数平衡校正训练公平约束](../conferences/icml-2026/cards/3101-3200.md#mai26a-theory-statistics) · Correcting Overparameterization Effects in Fair Empirical Risk Minimization
+- [以反事实偏离能力分析算法定价](../conferences/icml-2026/cards/3101-3200.md#maiti26a-theory-statistics) · Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -127,6 +127,10 @@
 - [训练长程研究代理在执行前主动澄清用户意图](../conferences/icml-2026/cards/3001-3100.md#luo26p-reinforcement-learning) · IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning
 - [推理隐状态与输出的安全一致性](../conferences/icml-2026/cards/3001-3100.md#luo26x-reinforcement-learning) · Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations
 - [用持久沙盒训练文件推理代理从执行错误恢复](../conferences/icml-2026/cards/3101-3200.md#ma26q-reinforcement-learning) · FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning
+- [先构造 SQL 部件再按语法子树给奖](../conferences/icml-2026/cards/3101-3200.md#ma26ah-reinforcement-learning) · Addressing Semantic Blind Spots in Text-to-SQL via Component Pre-generation and AST Matching Rewards
+- [分块优化推理正确性与置信校准](../conferences/icml-2026/cards/3101-3200.md#ma26al-reinforcement-learning) · Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards
+- [内化逐步安全反思](../conferences/icml-2026/cards/3101-3200.md#ma26at-reinforcement-learning) · Reflector: Internalizing Step-wise Reflection against Indirect Jailbreaks
+- [混合专家 rollout 路由重放](../conferences/icml-2026/cards/3101-3200.md#ma26aw-reinforcement-learning) · Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers
 
 <a id="by-computer-vision"></a>
 
@@ -151,6 +155,7 @@
 - [多跳事实核查](../conferences/icml-2026/cards/0301-0400.md#bu26e-reinforcement-learning) · Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization
 - [用下游推理给时间序列描述打分](../conferences/icml-2026/cards/1601-1700.md#hou26i-reinforcement-learning) · Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning
 - [先句级训练再用增量译文奖赏学习说话时机](../conferences/icml-2026/cards/2201-2300.md#labiausse26a-reinforcement-learning) · Simultaneous Speech-to-Speech Translation Without Aligned Data
+- [用读者复现模型行为作为解释奖励](../conferences/icml-2026/cards/3101-3200.md#malladi26a-reinforcement-learning) · Directly Optimizing Natural Language Explanations for Behavioral Faithfulness: Simulatability and Recoverability
 
 <a id="by-reinforcement-learning"></a>
 
@@ -254,6 +259,8 @@
 - [用策略比率方差保留高价值但偏离较大的更新](../conferences/icml-2026/cards/3001-3100.md#luo26h-reinforcement-learning) · Ratio-Variance Regularized Policy Optimization
 - [控制隐式策略的生成路径](../conferences/icml-2026/cards/3101-3200.md#lv26d-reinforcement-learning) · FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching
 - [用基策略经验给残差 critic 热启动并恢复动作尺度](../conferences/icml-2026/cards/3101-3200.md#ma26s-reinforcement-learning) · What Makes Value Learning Efficient in Residual Reinforcement Learning?
+- [以镜像下降目标训练组合动作扩散策略](../conferences/icml-2026/cards/3101-3200.md#ma26aa-reinforcement-learning) · Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces
+- [用访问历史过滤被污染的奖励](../conferences/icml-2026/cards/3101-3200.md#maity26a-reinforcement-learning) · Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates
 
 <a id="by-robotics"></a>
 
@@ -274,6 +281,7 @@
 - [用无监督行为模式互信息保留生成策略多样性](../conferences/icml-2026/cards/2901-3000.md#longhini26a-reinforcement-learning) · Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies
 - [用扩散候选和价值分歧引导探索](../conferences/icml-2026/cards/3001-3100.md#luo26v-reinforcement-learning) · DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning
 - [视频最优传输偏好传播](../conferences/icml-2026/cards/3001-3100.md#luu26a-reinforcement-learning) · Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning
+- [逐步将物体控制交给双手策略](../conferences/icml-2026/cards/3201-3300.md#mandi26a-reinforcement-learning) · DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation
 
 <a id="by-multimodal"></a>
 
@@ -320,6 +328,7 @@
 - [先定位编辑区域再给在线图像编辑打奖励](../conferences/icml-2026/cards/2901-3000.md#long26a-reinforcement-learning) · SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning
 - [时序模式对齐与推理奖励均衡](../conferences/icml-2026/cards/3001-3100.md#lu26b-reinforcement-learning) · PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering
 - [多任务图像质量连续奖励](../conferences/icml-2026/cards/3001-3100.md#lu26i-reinforcement-learning) · VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning
+- [视觉工具双模式自适应调用](../conferences/icml-2026/cards/3101-3200.md#ma26ay-reinforcement-learning) · Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning
 
 <a id="by-ml-foundations"></a>
 

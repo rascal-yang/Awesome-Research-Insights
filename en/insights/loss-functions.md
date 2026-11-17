@@ -118,6 +118,7 @@ Objectives, auxiliary supervision, and regularization.
 - [GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](../../conferences/icml-2026/cards/2701-2800.md#liu26e-loss-functions) · 中文
 - [STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26ei-loss-functions) · 中文
 - [Calibrating Uncertainty for Zero-Shot Adversarial CLIP](../../conferences/icml-2026/cards/3001-3100.md#lu26af-loss-functions) · 中文
+- [AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field](../../conferences/icml-2026/cards/3101-3200.md#ma26ai-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

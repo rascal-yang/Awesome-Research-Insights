@@ -222,6 +222,12 @@
 - [掩码解码空洞调度](../conferences/icml-2026/cards/3101-3200.md#luxembourg26a-inference) · Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models
 - [从模拟市场自博弈中让代理构造与复用数值工具](../conferences/icml-2026/cards/3101-3200.md#ma26m-inference) · Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets
 - [把定点非线性编译成批量比较与区间查表](../conferences/icml-2026/cards/3101-3200.md#ma26r-inference) · FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing
+- [跨模型低秩缓存复用与过渡层补丁](../conferences/icml-2026/cards/3101-3200.md#ma26ag-inference) · Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching
+- [竞赛代码区分性测试生成](../conferences/icml-2026/cards/3101-3200.md#ma26av-inference) · Scaling Agentic Verifier for Competitive Coding
+- [低稀疏度差分编码内核](../conferences/icml-2026/cards/3101-3200.md#macko26a-inference) · MACKO: Sparse matrix-vector multiplication for low sparsity
+- [限长摘要迭代推理](../conferences/icml-2026/cards/3101-3200.md#madaan26b-inference) · Rethinking Thinking Tokens: LLMs as Improvement Operators
+- [数学候选证明的分级验证](../conferences/icml-2026/cards/3101-3200.md#mahdavi26a-inference) · Scaling Generative Verifiers For Natural Language Mathematical Proof Verification And Selection
+- [将工作流约束变成粒子重采样点](../conferences/icml-2026/cards/3201-3300.md#mandel26a-inference) · PPDL: LLM-Based Flows as Probabilistic Programs
 
 <a id="by-computer-vision"></a>
 
@@ -305,6 +311,8 @@
 - [扫描兼容的视觉 token 压缩](../conferences/icml-2026/cards/3101-3200.md#lv26e-inference) · Spatial-Aware Reduction Framework: Towards Efficient and Faithful Visual State Space Models
 - [按生成块分配视频注意力](../conferences/icml-2026/cards/3101-3200.md#lv26i-inference) · Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention
 - [用累计漂移触发缓存刷新](../conferences/icml-2026/cards/3101-3200.md#lv26m-inference) · NaviCache: Test-Time Self-Calibration Caching for Video Generation
+- [为一步条件生成学习初始噪声](../conferences/icml-2026/cards/3101-3200.md#mammadov26a-inference) · Variational Flow Maps: Make Some Noise for One-Step Conditional Generation
+- [按链稳定性复用多视角去噪计算](../conferences/icml-2026/cards/3101-3200.md#man26a-inference) · Turbo4DGen: Ultra-Fast Acceleration for 4D Generation
 
 <a id="by-nlp"></a>
 
@@ -440,6 +448,7 @@
 - [分别调节视觉注意力选择与内容的频谱](../conferences/icml-2026/cards/3001-3100.md#lu26ae-inference) · Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery
 - [同时去除跨域检索内容和分类先验的样式偏差](../conferences/icml-2026/cards/3001-3100.md#luo26i-inference) · D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models
 - [先用原始视频作假设再以合成斜视角复核](../conferences/icml-2026/cards/3101-3200.md#ma26z-inference) · Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning
+- [截图元素定位多模态融合](../conferences/icml-2026/cards/3101-3200.md#ma26ax-inference) · Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion
 
 <a id="by-ml-foundations"></a>
 
@@ -521,4 +530,6 @@
 - [模拟电路测试台的神经符号生成](../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification
 - [用弱结合分布的反向梯度引导表位生成](../conferences/icml-2026/cards/3001-3100.md#luan26b-inference) · EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance
 - [按规格局部信息生成和调试 Verilog](../conferences/icml-2026/cards/3101-3200.md#lyu26c-inference) · QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation
+- [实验约束蛋白构象集合](../conferences/icml-2026/cards/3101-3200.md#maddipatla26a-inference) · Inference-time optimization for experiment-grounded protein ensemble generation
+- [用持久同调控制分子环闭合](../conferences/icml-2026/cards/3101-3200.md#maksymiuk26a-inference) · MacroGuide: Topological Guidance for Macrocycle Generation
 <!-- classification:end -->

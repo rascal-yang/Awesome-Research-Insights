@@ -186,4 +186,5 @@
 - [用同步心电和呼吸筛选 PPG 对比样本](../conferences/icml-2026/cards/1201-1300.md#geenjaar26a-data-strategies) · A robust PPG foundation model using multimodal physiological supervision
 - [在分布变化更快的内在时间上选择采样点](../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · Active Timepoint Selection for Learning Measure-Valued Trajectories
 - [用几何投影约束血管造影的狭窄编辑](../conferences/icml-2026/cards/2601-2700.md#li26jn-data-strategies) · Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport
+- [纵向病史的多任务时间切分](../conferences/icml-2026/cards/3101-3200.md#makarov26a-data-strategies) · TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins
 <!-- classification:end -->

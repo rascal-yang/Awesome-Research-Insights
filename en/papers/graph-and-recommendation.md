@@ -156,6 +156,8 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="liu26by-representation-learning"></a>[Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26by)
 - <a id="liu26cp-representation-learning"></a>[Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cp)
 - <a id="liu26eg-representation-learning"></a>[HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26eg)
+- <a id="ma26aj-representation-learning"></a>[Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26aj)
+- <a id="manenti26b-representation-learning"></a>[SWING: Unlocking Implicit Graph Representations for Graph Random Features](../../conferences/icml-2026/cards/3201-3300.md#paper-manenti26b)
 
 <a id="by-evaluation"></a>
 

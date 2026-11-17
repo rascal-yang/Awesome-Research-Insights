@@ -100,6 +100,8 @@
 - [推理轨迹几何水印](../conferences/icml-2026/cards/3001-3100.md#lu26q-training-strategies) · Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought
 - [从任务演示初始化可优化的上下文缓存](../conferences/icml-2026/cards/3001-3100.md#lu26ag-training-strategies) · Context Tuning for In-Context Optimization
 - [按学生首个错误蒸馏工具推理](../conferences/icml-2026/cards/3101-3200.md#lyu26j-training-strategies) · Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs
+- [通过撤销标记学习可回退的自回归生成](../conferences/icml-2026/cards/3101-3200.md#ma26ad-training-strategies) · Non-Monotonic Autoregressive Sequence Model
+- [按任务相似度共享适配器子空间](../conferences/icml-2026/cards/3101-3200.md#magakyan26a-training-strategies) · Collaborative and Efficient Fine-tuning: Leveraging Task Similarity
 
 <a id="by-computer-vision"></a>
 
@@ -153,6 +155,7 @@
 - [沿帧轴和去噪轴切换视频扩散粒度](../conferences/icml-2026/cards/3101-3200.md#ma26b-training-strategies) · Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model
 - [以预测不一致驱动频谱扰动抑制跨域检测捷径](../conferences/icml-2026/cards/3101-3200.md#ma26n-training-strategies) · Domain Adaptive Object Detection via Dynamic Causal Refinement
 - [用对抗模仿降低流式生成器与示范轨迹分布差](../conferences/icml-2026/cards/3101-3200.md#ma26u-training-strategies) · FAIL: Flow Matching Adversarial Imitation Learning for Image Generation
+- [弹性追踪 token 预算](../conferences/icml-2026/cards/3101-3200.md#ma26aq-training-strategies) · Learning Generalized Trackers with Elastic Token Budgets
 
 <a id="by-nlp"></a>
 
@@ -283,6 +286,8 @@
 - [用教师估计源重混合训练生成式分离器](../conferences/icml-2026/cards/2501-2600.md#li26fa-training-strategies) · SURF: Separation via Unsupervised Remixing Flow
 - [沿固定点轨迹蒸馏少步平衡求解器](../conferences/icml-2026/cards/2701-2800.md#lin26w-training-strategies) · Consistency Deep Equilibrium Models
 - [用共享语义锚点校准异质客户端的残差](../conferences/icml-2026/cards/3001-3100.md#lu26aa-training-strategies) · FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning
+- [联邦子模型按平台期逐步恢复容量](../conferences/icml-2026/cards/3101-3200.md#ma26ab-training-strategies) · Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration
+- [一次联邦训练支持多预算量化](../conferences/icml-2026/cards/3101-3200.md#ma26ae-training-strategies) · No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning
 
 <a id="by-graph-and-recommendation"></a>
 

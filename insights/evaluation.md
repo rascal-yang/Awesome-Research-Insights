@@ -238,6 +238,11 @@
 - [用实际工作负载与原生测试衡量仓库级性能补丁](../conferences/icml-2026/cards/3101-3200.md#ma26l-evaluation) · SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?
 - [用反例和语义保持改写检验稀疏特征是否真表征推理](../conferences/icml-2026/cards/3101-3200.md#ma26v-evaluation) · Do Sparse Autoencoders Identify Reasoning Features in Language Models?
 - [用可逆规则生成可验证的抽象推理变体](../conferences/icml-2026/cards/3101-3200.md#ma26y-evaluation) · A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation
+- [互动叙事承诺与事实审计](../conferences/icml-2026/cards/3101-3200.md#ma26ap-evaluation) · Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives
+- [激活异常检测与概念识别](../conferences/icml-2026/cards/3101-3200.md#macar26a-evaluation) · Mechanisms of Introspective Awareness
+- [在持久企业状态中验证任务结果](../conferences/icml-2026/cards/3101-3200.md#malay26a-evaluation) · EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings
+- [联合测量自我裁决和错误复现](../conferences/icml-2026/cards/3201-3300.md#mancoridis26a-evaluation) · The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes
+- [用可执行评分度量开放式算法进步](../conferences/icml-2026/cards/3201-3300.md#mang26a-evaluation) · FrontierCS: Evolving Challenges for Evolving Intelligence
 
 <a id="by-computer-vision"></a>
 
@@ -322,6 +327,7 @@
 - [可重配置的高吞吐多智能体仿真](../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning
 - [用外部训练对手的交互路径检验强化学习后门](../conferences/icml-2026/cards/2801-2900.md#liu26w-evaluation) · Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning
 - [用可塑性干预与后门的交互诊断强化学习脆弱性](../conferences/icml-2026/cards/3101-3200.md#ma26w-evaluation) · Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning
+- [把奖励塑形用作离策略控制变量](../conferences/icml-2026/cards/3101-3200.md#majumdar26a-evaluation) · Reward Shaping Control Variates for Off-Policy Evaluation Under Sparse Rewards
 
 <a id="by-robotics"></a>
 
@@ -411,6 +417,8 @@
 - [把提示设计者与文生图底座分开做可控评测](../conferences/icml-2026/cards/3001-3100.md#luo26k-evaluation) · AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters
 - [用成对守恒与非守恒条件剥离物理判断的文本先验](../conferences/icml-2026/cards/3001-3100.md#luo26n-evaluation) · Vision Language Models Cannot Reason About Physical Transformation
 - [按样本的跨模态差异评估联邦成员推断暴露](../conferences/icml-2026/cards/3101-3200.md#ma26t-evaluation) · The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance
+- [组合指令音乐奖励评测](../conferences/icml-2026/cards/3101-3200.md#ma26am-evaluation) · CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction
+- [视觉工具强化学习收益归因](../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom
 
 <a id="by-ml-foundations"></a>
 
@@ -508,4 +516,5 @@
 - [用键长扫描的势能面平滑度指导原子势架构](../conferences/icml-2026/cards/2801-2900.md#liu26df-evaluation) · From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures
 - [同时测蛋白结合体设计的验证口径、产量和结构多样性](../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation
 - [晶体结构操作评测](../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures
+- [用固定形成能预算评估闭环发现](../conferences/icml-2026/cards/3101-3200.md#malik26a-evaluation) · MADE: Benchmark Environments for Closed-Loop Materials Discovery
 <!-- classification:end -->

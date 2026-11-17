@@ -119,6 +119,7 @@
 - [用同帧查询和重要性门按需读取几何](../conferences/icml-2026/cards/2401-2500.md#li26j-modules) · Thinking with Geometry: Active Geometry Integration for Spatial Reasoning
 - [以可微软投影保留稀疏点云的视觉连接](../conferences/icml-2026/cards/2601-2700.md#li26io-modules) · SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion
 - [脉冲集合相似度纠正注意力密度偏差](../conferences/icml-2026/cards/2701-2800.md#lim26a-modules) · Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity
+- [视觉证据与推理约束的双潜记忆](../conferences/icml-2026/cards/3101-3200.md#ma26ac-modules) · Dual-Latent Memory Routing for Vision-Language Reasoning
 
 <a id="by-ml-foundations"></a>
 
