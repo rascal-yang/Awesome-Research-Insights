@@ -76,7 +76,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) |
+| [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-arafat26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) |
 | [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
 | [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) |
 | [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26ai-training-strategies) |
@@ -89,7 +89,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#azizpour26a-data-strategies) |
+| [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-azizpour26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#azizpour26a-data-strategies) |
 | [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cr-data-strategies) |
 | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://proceedings.mlr.press/v306/eremeev26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#eremeev26a-data-strategies) |
 
@@ -142,8 +142,8 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](https://proceedings.mlr.press/v306/adriaens26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adriaens26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#adriaens26a-theory-statistics) |
 | [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-amran26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#amran26a-theory-statistics) |
-| [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) |
-| [On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) |
+| [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-badanidiyuru26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) |
+| [On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-badreddine26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) |
 | [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) |
 | [Multicalibration Yields Better Matchings](https://proceedings.mlr.press/v306/colini-baldeschi26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) |
 | [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](https://proceedings.mlr.press/v306/fan26c.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fan26c-theory-statistics) |

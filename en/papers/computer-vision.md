@@ -21,8 +21,8 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](https://proceedings.mlr.press/v306/atanov26a.html) | [Read insight (中文)](../../papers/computer-vision.md#atanov26a-architecture) |
-| [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://proceedings.mlr.press/v306/baade26a.html) | [Read insight (中文)](../../papers/computer-vision.md#baade26a-architecture) |
+| [VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](https://proceedings.mlr.press/v306/atanov26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-atanov26a) | [Read insight (中文)](../../papers/computer-vision.md#atanov26a-architecture) |
+| [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://proceedings.mlr.press/v306/baade26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-baade26a) | [Read insight (中文)](../../papers/computer-vision.md#baade26a-architecture) |
 | [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | [Read insight (中文)](../../papers/computer-vision.md#bao26f-architecture) |
 | [Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26du-architecture) |
 | [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ga-architecture) |
@@ -64,7 +64,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Threshold-Guided Optimization for Visual Generative Models](https://proceedings.mlr.press/v306/bai26c.html) | [Read insight (中文)](../../papers/computer-vision.md#bai26c-loss-functions) |
+| [Threshold-Guided Optimization for Visual Generative Models](https://proceedings.mlr.press/v306/bai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26c) | [Read insight (中文)](../../papers/computer-vision.md#bai26c-loss-functions) |
 | [Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bo26a-loss-functions) |
 | [Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](https://proceedings.mlr.press/v306/deng26e.html) | [Read insight (中文)](../../papers/computer-vision.md#deng26e-loss-functions) |
 | [BiRQA: Bidirectional Robust Quality Assessment for Images](https://proceedings.mlr.press/v306/gushchin26a.html) | [Read insight (中文)](../../papers/computer-vision.md#gushchin26a-loss-functions) |
@@ -87,7 +87,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://proceedings.mlr.press/v306/ba26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ba26a-reinforcement-learning) |
+| [Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://proceedings.mlr.press/v306/ba26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-ba26a) | [Read insight (中文)](../../papers/computer-vision.md#ba26a-reinforcement-learning) |
 | [Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26as-reinforcement-learning) |
 | [RELO: Reinforcement Learning to Localize for Visual Object Tracking](https://proceedings.mlr.press/v306/chen26ea.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ea-reinforcement-learning) |
 | [Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://proceedings.mlr.press/v306/choi26o.html) | [Read insight (中文)](../../papers/computer-vision.md#choi26o-reinforcement-learning) |
@@ -138,7 +138,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alesiani26a) | [Read insight (中文)](../../papers/computer-vision.md#alesiani26a-inference) |
-| [Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) | [Read insight (中文)](../../papers/computer-vision.md#bae26b-inference) |
+| [Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bae26b) | [Read insight (中文)](../../papers/computer-vision.md#bae26b-inference) |
 | [Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bang26a-inference) |
 | [Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) | [Read insight (中文)](../../papers/computer-vision.md#briq26a-inference) |
 | [Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26g-inference) |
@@ -213,7 +213,7 @@ The linked short insights are available in Chinese.
 | [Rethinking Visual Intelligence: Insights from Video Pretraining](https://proceedings.mlr.press/v306/acuaviva26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-acuaviva26a) | [Read insight (中文)](../../papers/computer-vision.md#acuaviva26a-evaluation) |
 | [Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ahmed26a) | [Read insight (中文)](../../papers/computer-vision.md#ahmed26a-evaluation) |
 | [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alexis26a) | [Read insight (中文)](../../papers/computer-vision.md#alexis26a-evaluation) |
-| [Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | [Read insight (中文)](../../papers/computer-vision.md#baek26e-evaluation) |
+| [Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-baek26e) | [Read insight (中文)](../../papers/computer-vision.md#baek26e-evaluation) |
 | [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | [Read insight (中文)](../../papers/computer-vision.md#braun26b-evaluation) |
 | [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26az-evaluation) |
 | [Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://proceedings.mlr.press/v306/chen26gw.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26gw-evaluation) |

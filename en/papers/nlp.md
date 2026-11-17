@@ -116,8 +116,8 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Efficient Mismatch-Tolerant Coding for Model-Driven Compression](https://proceedings.mlr.press/v306/adler26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adler26b) | [Read insight (中文)](../../papers/nlp.md#adler26b-theory-statistics) |
-| [Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) | [Read insight (中文)](../../papers/nlp.md#arenas26a-theory-statistics) |
-| [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) | [Read insight (中文)](../../papers/nlp.md#ashrafi26a-theory-statistics) |
+| [Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-arenas26a) | [Read insight (中文)](../../papers/nlp.md#arenas26a-theory-statistics) |
+| [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-ashrafi26a) | [Read insight (中文)](../../papers/nlp.md#ashrafi26a-theory-statistics) |
 | [Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) | [Read insight (中文)](../../papers/nlp.md#banihashem26b-theory-statistics) |
 | [Text Has Curvature](https://proceedings.mlr.press/v306/grover26b.html) | [Read insight (中文)](../../papers/nlp.md#grover26b-theory-statistics) |
 <!-- classification:end -->

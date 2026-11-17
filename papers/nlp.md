@@ -114,8 +114,8 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="adler26b-theory-statistics"></a>[Efficient Mismatch-Tolerant Coding for Model-Driven Compression](https://proceedings.mlr.press/v306/adler26b.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adler26b) | 无损压缩 | 编码器和解码器的模型预测有界不一致时，可通过重新优化概率匹配区间编码的参数，在保留鲁棒性的同时降低码长。 |
-| <a id="arenas26a-theory-statistics"></a>[Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) | 语言学习复杂度 | 只从正例最终生成目标形式语言在可计算意义下成立，但样本复杂度障碍甚至出现在正则语言的严格子类。 |
-| <a id="ashrafi26a-theory-statistics"></a>[The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) | 检索公平性 | 在共享向量空间里，语义相邻的多数文档变得密集后，可能把少数目标挤出前 k 位。按查询孤立评测容易漏掉这种跨目标相互作用。 |
+| <a id="arenas26a-theory-statistics"></a>[Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-arenas26a) | 语言学习复杂度 | 只从正例最终生成目标形式语言在可计算意义下成立，但样本复杂度障碍甚至出现在正则语言的严格子类。 |
+| <a id="ashrafi26a-theory-statistics"></a>[The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-ashrafi26a) | 检索公平性 | 在共享向量空间里，语义相邻的多数文档变得密集后，可能把少数目标挤出前 k 位。按查询孤立评测容易漏掉这种跨目标相互作用。 |
 | <a id="banihashem26b-theory-statistics"></a>[Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) | 自适应近似检索 | 查询会参考历史返回值时，经典近似最远邻结构可能失去保证。为自适应查询设计的结构仍能在一部分参数范围保持次线性查询开销。 |
 | <a id="grover26b-theory-statistics"></a>[Text Has Curvature](https://proceedings.mlr.press/v306/grover26b.html) | 双侧上下文的词义收缩曲率 | 在同一词位分别扩展左、右上下文，用去偏传输散度比较扩展一侧前后另一侧引起的词义后验变化。变化收缩对应正曲率，扩张对应负曲率。 |
 <!-- classification:end -->

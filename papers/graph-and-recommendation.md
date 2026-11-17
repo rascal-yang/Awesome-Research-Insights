@@ -74,7 +74,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="arafat26a-training-strategies"></a>[Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) | 超图鲁棒训练 | 把超图拉普拉斯作为统一的攻击目标，在同一预算框架下测试结构及特征扰动，再用相应扰动做超图模型的对抗训练。 |
+| <a id="arafat26a-training-strategies"></a>[Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-arafat26a) | 超图鲁棒训练 | 把超图拉普拉斯作为统一的攻击目标，在同一预算框架下测试结构及特征扰动，再用相应扰动做超图模型的对抗训练。 |
 | <a id="canturk26a-training-strategies"></a>[Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | 图组合优化迁移 | 用计算复杂性中的任务归约关系选择预训练组合，再共享图编码器微调。留一任务评测中，多任务预训练通常加快收敛。 |
 | <a id="chen26cz-training-strategies"></a>[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | 图基础模型的消息微调 | 冻结预训练 GNN，在每层加入少量可学习的消息原型，并动态融合原型和原生消息。逐层改变消息聚合可提高适配能力，论文在其刻画的模型条件下给出了超出输入提示微调上界的构造。 |
 | <a id="gao26ai-training-strategies"></a>[GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | 空间众包的双视图蒸馏 | 以门控融合社交影响、工人任务匹配与邻居信息，并把融合表征蒸馏给单视图模型，帮助种子选择同时考虑邀请能否传播及被邀请者能否完成线下任务。 |
@@ -87,7 +87,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="azizpour26a-data-strategies"></a>[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) | 图数据增强 | 用模体密度给图数据估计潜在生成分量，再让 mixup 与对比学习利用分量信息，避免把结构来源差异当作可任意混合的扰动。 |
+| <a id="azizpour26a-data-strategies"></a>[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-azizpour26a) | 图数据增强 | 用模体密度给图数据估计潜在生成分量，再让 mixup 与对比学习利用分量信息，避免把结构来源差异当作可任意混合的扰动。 |
 | <a id="chen26cr-data-strategies"></a>[DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) | 联邦文本图证据凝缩 | 每轮用上一轮的图编码器更新核心节点的邻居和句段选择，在逐跳预算和文本预算内聚合证据，并在客户端保留选中邻居和原句段的映射，以便审计压缩后的表征。 |
 | <a id="eremeev26a-data-strategies"></a>[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://proceedings.mlr.press/v306/eremeev26a.html) | 图基础模型的合成预训练先验 | 叠合多个随机块模型以生成可重叠的社区，再用混合图聚合与逐节点变换的结构因果模型生成属性和标签，让预训练任务同时提供拓扑与属性依赖。 |
 
@@ -140,8 +140,8 @@
 | :--- | :--- | :--- |
 | <a id="adriaens26a-theory-statistics"></a>[Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](https://proceedings.mlr.press/v306/adriaens26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adriaens26a) | 相关聚类 | 完整符号图上，先找到击中所有恰有一条负边三角形的删除边集，再通过枢轴过程转成聚类，两类最优代价相差至多 1.5 倍。 |
 | <a id="amran26a-theory-statistics"></a>[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-amran26a) | 图神经网络理论 | 扩展 graphop 极限框架，构造跨图规模和稀疏度的紧致度量，用同一套等度连续性分析 MPNN 的泛化和逼近。 |
-| <a id="badanidiyuru26a-theory-statistics"></a>[Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | 拍卖中的预测改进 | 提高预测分辨率对拍卖收入的影响依赖出价规则。无预算限制的目标成本出价者满足文中的一价拍卖单调性，二价机制可打破它。 |
-| <a id="badreddine26a-theory-statistics"></a>[On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | 知识图谱链路预测 | 线性输出层使嵌入维度必须随图规模和连通性增长才能表达训练关系。混合式非线性输出可打破这一秩瓶颈，且参数开销较低。 |
+| <a id="badanidiyuru26a-theory-statistics"></a>[Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-badanidiyuru26a) | 拍卖中的预测改进 | 提高预测分辨率对拍卖收入的影响依赖出价规则。无预算限制的目标成本出价者满足文中的一价拍卖单调性，二价机制可打破它。 |
+| <a id="badreddine26a-theory-statistics"></a>[On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-badreddine26a) | 知识图谱链路预测 | 线性输出层使嵌入维度必须随图规模和连通性增长才能表达训练关系。混合式非线性输出可打破这一秩瓶颈，且参数开销较低。 |
 | <a id="charpenay26a-theory-statistics"></a>[Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | 关系嵌入表达力 | 用逐坐标比较定义的凸区域能高效编码部分关系规则，但参数化会限制可忠实表达的规则集合，应按目标规则选区域形式。 |
 | <a id="colini-baldeschi26a-theory-statistics"></a>[Multicalibration Yields Better Matchings](https://proceedings.mlr.press/v306/colini-baldeschi26a.html) | 用匹配决策约束边权多重校准 | 从竞争的匹配规则提取边权残差的校准约束，再用校准后的权重做普通最大权匹配。在论文的随机边权设定下，这可使所得决策与在原预测上使用比较类中最优规则的表现竞争。 |
 | <a id="fan26c-theory-statistics"></a>[Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](https://proceedings.mlr.press/v306/fan26c.html) | 网络抽样偏好的福利校正 | 让相邻标注者共享奖励模型信息，再用稳定化的目标权重与入样概率之比聚合个人奖励。若反馈招募偏向网络中心，这可减小聚合奖励偏离预设目标群体福利的程度。 |
