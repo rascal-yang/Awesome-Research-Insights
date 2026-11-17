@@ -37,6 +37,7 @@
 - <a id="raghuvanshi26a-architecture"></a>[Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models](../conferences/icml-2026/cards/3701-3800.md#paper-raghuvanshi26a)
 - <a id="seely26a-architecture"></a>[Learning Multi-Agent Coordination via Sheaf-ADMM](../conferences/icml-2026/cards/3901-4000.md#paper-seely26a)
 - <a id="shi26t-architecture"></a>[S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning](../conferences/icml-2026/cards/4101-4200.md#paper-shi26t)
+- <a id="sun26e-architecture"></a>[Adaptive Recurrent Message Passing for Test Time Computing on Graphs](../conferences/icml-2026/cards/4201-4300.md#paper-sun26e)
 
 <a id="by-modules"></a>
 
@@ -51,6 +52,7 @@
 - <a id="liu26gb-modules"></a>[Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gb)
 - <a id="reid26a-modules"></a>[Rotary Position Encodings for Graphs](../conferences/icml-2026/cards/3801-3900.md#paper-reid26a)
 - <a id="sim26b-modules"></a>[Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis](../conferences/icml-2026/cards/4101-4200.md#paper-sim26b)
+- <a id="sun26f-modules"></a>[Enhancing LLMs for Graph Tasks via Graph-aware LoRA Generation](../conferences/icml-2026/cards/4201-4300.md#paper-sun26f)
 
 <a id="by-loss-functions"></a>
 

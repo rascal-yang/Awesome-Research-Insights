@@ -48,6 +48,7 @@
 - [用序列成对对数比消掉温度配分函数](../conferences/icml-2026/cards/3901-4000.md#scheufele26a-loss-functions) · Temperature Scaling in Discrete Sequence (Language) Models
 - [用跨语言安全间隔调节逐样本偏好训练](../conferences/icml-2026/cards/4101-4200.md#shi26e-loss-functions) · Multilingual Safety Alignment via Representation-Space Separability
 - [在惩罚两类失败的同时排序失败严重程度](../conferences/icml-2026/cards/4101-4200.md#simko26a-loss-functions) · Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks
+- [属性熵减少的澄清提问奖励](../conferences/icml-2026/cards/4201-4300.md#sun26i-loss-functions) · Closing the Expression Gap in LLM Instructions via Socratic Questioning
 
 <a id="by-computer-vision"></a>
 

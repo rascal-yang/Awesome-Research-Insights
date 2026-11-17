@@ -298,6 +298,9 @@
 - [优化器与模拟器非对称校验](../conferences/icml-2026/cards/4201-4300.md#song26z-evaluation) · NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents
 - [合成监控优化饱和](../conferences/icml-2026/cards/4201-4300.md#storf26a-evaluation) · Constitutional Black-Box Monitoring for Scheming in LLM Agents
 - [长对话评估的迁移失败](../conferences/icml-2026/cards/4201-4300.md#subasic26a-evaluation) · Evaluating Language Models in Realistic Conversational Contexts
+- [风险条件化置信效用](../conferences/icml-2026/cards/4201-4300.md#subramani26a-evaluation) · The ACUTE Protocol: Operationalizing Language Model Activations for Better Calibration, Utility, and Trust
+- [按组件审计智能体基准](../conferences/icml-2026/cards/4201-4300.md#suh26a-evaluation) · AgentSuite: Toward More Reliable Agent Evaluation with a Component-Based Benchmark Auditing Pipeline
+- [激活尖峰与注意力汇解耦](../conferences/icml-2026/cards/4201-4300.md#sun26d-evaluation) · Anatomy of Massive Activations and Attention Sinks
 
 <a id="by-computer-vision"></a>
 

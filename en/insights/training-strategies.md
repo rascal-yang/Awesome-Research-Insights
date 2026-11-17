@@ -131,6 +131,7 @@ Training schedules, curricula, and task or stage composition.
 - [Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning](../../conferences/icml-2026/cards/4101-4200.md#shi26c-training-strategies) · 中文
 - [Curriculum-Guided Layer Scaling for Language Model Pretraining](../../conferences/icml-2026/cards/4101-4200.md#singh26a-training-strategies) · 中文
 - [Annotations Mitigate Post-Training Mode Collapse](../../conferences/icml-2026/cards/4201-4300.md#springer26a-training-strategies) · 中文
+- [MESA: Improving MoE Safety Alignment via Decentralized Expertise](../../conferences/icml-2026/cards/4201-4300.md#sun26m-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

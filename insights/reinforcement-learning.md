@@ -166,6 +166,7 @@
 - [反馈蒸馏的首轮奖励基线](../conferences/icml-2026/cards/4201-4300.md#song26c-reinforcement-learning) · Expanding the Capabilities of Reinforcement Learning via Text Feedback
 - [逐渐撤除训练专家](../conferences/icml-2026/cards/4201-4300.md#song26p-reinforcement-learning) · EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance
 - [组间偏好训练点式奖励](../conferences/icml-2026/cards/4201-4300.md#song26aa-reinforcement-learning) · IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models
+- [修订增益训练批评者](../conferences/icml-2026/cards/4201-4300.md#sui26a-reinforcement-learning) · Conversation for Non-verifiable Learning: Self-Evolving Large Language Models through Meta-Evaluation
 
 <a id="by-computer-vision"></a>
 
@@ -186,6 +187,7 @@
 - [用个体高斯敏感性奖励训练可学习密度控制](../conferences/icml-2026/cards/3401-3500.md#ning26e-reinforcement-learning) · Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting
 - [用身份门控抑制增强奖励投机](../conferences/icml-2026/cards/4101-4200.md#shi26o-reinforcement-learning) · Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification
 - [分别优化语义和空间点提示](../conferences/icml-2026/cards/4101-4200.md#shi26p-reinforcement-learning) · PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything
+- [终局奖励分布作短段回报](../conferences/icml-2026/cards/4201-4300.md#sun26l-reinforcement-learning) · Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function
 
 <a id="by-nlp"></a>
 
@@ -356,6 +358,7 @@
 - [在可避撞边界附近搜硬场景](../conferences/icml-2026/cards/3801-3900.md#ruan26c-reinforcement-learning) · ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving
 - [在物理约束的语义沙盒学习可迁移导航规划](../conferences/icml-2026/cards/4001-4100.md#shen26e-reinforcement-learning) · Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation
 - [用拉格朗日残差噪声约束冻结生成策略的适配](../conferences/icml-2026/cards/4101-4200.md#simsir26a-reinforcement-learning) · Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies
+- [奖励可靠度控制规划乐观性](../conferences/icml-2026/cards/4201-4300.md#sun26n-reinforcement-learning) · Uncertainty-Guided Exploration and Stable Planning for Sparse-Reward Manipulation from Limited Demonstrations
 
 <a id="by-multimodal"></a>
 

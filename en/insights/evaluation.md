@@ -298,6 +298,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../../conferences/icml-2026/cards/4201-4300.md#song26z-evaluation) · 中文
 - [Constitutional Black-Box Monitoring for Scheming in LLM Agents](../../conferences/icml-2026/cards/4201-4300.md#storf26a-evaluation) · 中文
 - [Evaluating Language Models in Realistic Conversational Contexts](../../conferences/icml-2026/cards/4201-4300.md#subasic26a-evaluation) · 中文
+- [The ACUTE Protocol: Operationalizing Language Model Activations for Better Calibration, Utility, and Trust](../../conferences/icml-2026/cards/4201-4300.md#subramani26a-evaluation) · 中文
+- [AgentSuite: Toward More Reliable Agent Evaluation with a Component-Based Benchmark Auditing Pipeline](../../conferences/icml-2026/cards/4201-4300.md#suh26a-evaluation) · 中文
+- [Anatomy of Massive Activations and Attention Sinks](../../conferences/icml-2026/cards/4201-4300.md#sun26d-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -131,6 +131,7 @@
 - [在每个新任务开始前重选训练提示](../conferences/icml-2026/cards/4101-4200.md#shi26c-training-strategies) · Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning
 - [同步增加数据难度与深度](../conferences/icml-2026/cards/4101-4200.md#singh26a-training-strategies) · Curriculum-Guided Layer Scaling for Language Model Pretraining
 - [语义边缘锚定后训练](../conferences/icml-2026/cards/4201-4300.md#springer26a-training-strategies) · Annotations Mitigate Post-Training Mode Collapse
+- [MoE对齐的专家容量分配](../conferences/icml-2026/cards/4201-4300.md#sun26m-training-strategies) · MESA: Improving MoE Safety Alignment via Decentralized Expertise
 
 <a id="by-computer-vision"></a>
 

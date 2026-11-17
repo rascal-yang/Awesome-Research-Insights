@@ -303,6 +303,7 @@
 - [动态图状态并行更新时距与拓扑](../conferences/icml-2026/cards/3701-3800.md#raghuvanshi26a-architecture) · Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models
 - [让邻居只对兼容的潜变量达成共识](../conferences/icml-2026/cards/3901-4000.md#seely26a-architecture) · Learning Multi-Agent Coordination via Sheaf-ADMM
 - [用低秩全局混合替代昂贵谱传播](../conferences/icml-2026/cards/4101-4200.md#shi26t-architecture) · S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning
+- [归一化步信息的递归图更新](../conferences/icml-2026/cards/4201-4300.md#sun26e-architecture) · Adaptive Recurrent Message Passing for Test Time Computing on Graphs
 
 <a id="by-scientific-ml"></a>
 

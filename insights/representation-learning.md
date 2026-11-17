@@ -177,6 +177,7 @@
 - [按疾病从 CT 报告中提取对齐信号](../conferences/icml-2026/cards/4101-4200.md#shi26b-representation-learning) · Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography
 - [按视觉显著性分配记忆密度](../conferences/icml-2026/cards/4101-4200.md#shi26l-representation-learning) · MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning
 - [以快慢视觉token联合时空定位](../conferences/icml-2026/cards/4101-4200.md#shi26z-representation-learning) · VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding
+- [连续潜码方差与自回归匹配](../conferences/icml-2026/cards/4201-4300.md#sun26c-representation-learning) · Multimodal Latent Language Modeling with Next-Token Diffusion
 
 <a id="by-ml-foundations"></a>
 
@@ -234,6 +235,7 @@
 - [从重叠子窗学习时序表征](../conferences/icml-2026/cards/4001-4100.md#shamba26a-representation-learning) · Divide and Contrast: Learning Robust Temporal Features without Augmentation
 - [解耦需同时约束局部雅可比和全局支持](../conferences/icml-2026/cards/4101-4200.md#simon26b-representation-learning) · Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability
 - [双重重建防止不变潜变量失效](../conferences/icml-2026/cards/4101-4200.md#slavutsky26a-representation-learning) · Variational Learning of Disentangled Representations
+- [短时域脉冲编码预算](../conferences/icml-2026/cards/4201-4300.md#sun26k-representation-learning) · Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding
 
 <a id="by-graph-and-recommendation"></a>
 

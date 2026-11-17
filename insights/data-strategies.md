@@ -71,6 +71,7 @@
 - [基于共享历史的推理提示选样](../conferences/icml-2026/cards/3701-3800.md#qu26f-data-strategies) · Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models
 - [按用户保护完整纵向序列](../conferences/icml-2026/cards/3801-3900.md#rosenblatt26a-data-strategies) · Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data
 - [用补丁行召回构造仓库专用代理数据](../conferences/icml-2026/cards/4001-4100.md#shen26o-data-strategies) · SERA: Soft-Verified Efficient Repository Agents
+- [参考动作引导拒绝采样](../conferences/icml-2026/cards/4201-4300.md#sun26h-data-strategies) · KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering
 
 <a id="by-computer-vision"></a>
 

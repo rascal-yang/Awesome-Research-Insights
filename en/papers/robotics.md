@@ -95,6 +95,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="ruan26c-reinforcement-learning"></a>[ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving](../../conferences/icml-2026/cards/3801-3900.md#paper-ruan26c)
 - <a id="shen26e-reinforcement-learning"></a>[Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26e)
 - <a id="simsir26a-reinforcement-learning"></a>[Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies](../../conferences/icml-2026/cards/4101-4200.md#paper-simsir26a)
+- <a id="sun26n-reinforcement-learning"></a>[Uncertainty-Guided Exploration and Stable Planning for Sparse-Reward Manipulation from Limited Demonstrations](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26n)
 
 <a id="by-training-strategies"></a>
 

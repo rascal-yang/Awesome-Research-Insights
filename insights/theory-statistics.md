@@ -65,6 +65,7 @@
 - [用长度曲线检查推理出错方式](../conferences/icml-2026/cards/3801-3900.md#raju26a-theory-statistics) · A model of errors in transformers
 - [Transformer 计划验证的长度外推](../conferences/icml-2026/cards/3901-4000.md#sarrof26a-theory-statistics) · On the Ability of Transformers to Verify Plans
 - [先测奖励差再解释迎合漂移](../conferences/icml-2026/cards/4001-4100.md#shapira26a-theory-statistics) · How RLHF Amplifies Sycophancy
+- [按共享前缀频率重加权GRPO](../conferences/icml-2026/cards/4201-4300.md#sullivan26a-theory-statistics) · GRPO is Secretly a Process Reward Model
 
 <a id="by-computer-vision"></a>
 

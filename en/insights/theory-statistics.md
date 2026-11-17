@@ -65,6 +65,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A model of errors in transformers](../../conferences/icml-2026/cards/3801-3900.md#raju26a-theory-statistics) · 中文
 - [On the Ability of Transformers to Verify Plans](../../conferences/icml-2026/cards/3901-4000.md#sarrof26a-theory-statistics) · 中文
 - [How RLHF Amplifies Sycophancy](../../conferences/icml-2026/cards/4001-4100.md#shapira26a-theory-statistics) · 中文
+- [GRPO is Secretly a Process Reward Model](../../conferences/icml-2026/cards/4201-4300.md#sullivan26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 

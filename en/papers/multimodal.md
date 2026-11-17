@@ -66,6 +66,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="shao26k-modules"></a>[LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention](../../conferences/icml-2026/cards/4001-4100.md#paper-shao26k)
 - <a id="shi26u-modules"></a>[SAM Audio: Segment Anything in Audio](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26u)
 - <a id="singh26g-modules"></a>[VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26g)
+- <a id="suharitdamrong26a-modules"></a>[CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks](../../conferences/icml-2026/cards/4201-4300.md#paper-suharitdamrong26a)
 
 <a id="by-loss-functions"></a>
 
@@ -384,6 +385,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="shi26b-representation-learning"></a>[Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26b)
 - <a id="shi26l-representation-learning"></a>[MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26l)
 - <a id="shi26z-representation-learning"></a>[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26z)
+- <a id="sun26c-representation-learning"></a>[Multimodal Latent Language Modeling with Next-Token Diffusion](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26c)
 
 <a id="by-evaluation"></a>
 

@@ -303,6 +303,7 @@ Model-wide design and information flow.
 - [Learning Long Range Spatio-Temporal Representations over Continuous Time Dynamic Graphs with State Space Models](../../conferences/icml-2026/cards/3701-3800.md#raghuvanshi26a-architecture) · 中文
 - [Learning Multi-Agent Coordination via Sheaf-ADMM](../../conferences/icml-2026/cards/3901-4000.md#seely26a-architecture) · 中文
 - [S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning](../../conferences/icml-2026/cards/4101-4200.md#shi26t-architecture) · 中文
+- [Adaptive Recurrent Message Passing for Test Time Computing on Graphs](../../conferences/icml-2026/cards/4201-4300.md#sun26e-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 

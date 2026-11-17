@@ -299,6 +299,7 @@
 - [在线检索过程奖励](../conferences/icml-2026/cards/4101-4200.md#sohn26a-inference) · Process Reward Agents for Steering Knowledge-Intensive Reasoning
 - [分块扩散搜索](../conferences/icml-2026/cards/4201-4300.md#song26ab-inference) · DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search
 - [生成中持续适配MoE路由](../conferences/icml-2026/cards/4201-4300.md#su26o-inference) · Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models
+- [检测代理模型逐样本路由](../conferences/icml-2026/cards/4201-4300.md#sun26b-inference) · Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection
 
 <a id="by-computer-vision"></a>
 
@@ -401,6 +402,7 @@
 - [耦合自草稿采样](../conferences/icml-2026/cards/4101-4200.md#so26a-inference) · Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation
 - [目标预测熵选视角](../conferences/icml-2026/cards/4201-4300.md#song26k-inference) · GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction
 - [按异质类型分配深度剪枝预算](../conferences/icml-2026/cards/4201-4300.md#su26r-inference) · Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective
+- [固定步数反演的误差代理调度](../conferences/icml-2026/cards/4201-4300.md#sun26j-inference) · Timestep Rescheduling in Diffusion Inversion
 
 <a id="by-nlp"></a>
 

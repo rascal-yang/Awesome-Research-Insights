@@ -148,6 +148,7 @@ Reusable components and local changes to model inputs or connections.
 - [LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention](../../conferences/icml-2026/cards/4001-4100.md#shao26k-modules) · 中文
 - [SAM Audio: Segment Anything in Audio](../../conferences/icml-2026/cards/4101-4200.md#shi26u-modules) · 中文
 - [VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion](../../conferences/icml-2026/cards/4101-4200.md#singh26g-modules) · 中文
+- [CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks](../../conferences/icml-2026/cards/4201-4300.md#suharitdamrong26a-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -211,6 +212,7 @@ Reusable components and local changes to model inputs or connections.
 - [Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26gb-modules) · 中文
 - [Rotary Position Encodings for Graphs](../../conferences/icml-2026/cards/3801-3900.md#reid26a-modules) · 中文
 - [Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis](../../conferences/icml-2026/cards/4101-4200.md#sim26b-modules) · 中文
+- [Enhancing LLMs for Graph Tasks via Graph-aware LoRA Generation](../../conferences/icml-2026/cards/4201-4300.md#sun26f-modules) · 中文
 
 <a id="by-scientific-ml"></a>
 

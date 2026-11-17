@@ -148,6 +148,7 @@
 - [按查询近似风险调注意力算量](../conferences/icml-2026/cards/4001-4100.md#shao26k-modules) · LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention
 - [用时间片段补充音源语义](../conferences/icml-2026/cards/4101-4200.md#shi26u-modules) · SAM Audio: Segment Anything in Audio
 - [运动同步度调节场景条件强度](../conferences/icml-2026/cards/4101-4200.md#singh26g-modules) · VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion
+- [跨模态低秩中间矩阵](../conferences/icml-2026/cards/4201-4300.md#suharitdamrong26a-modules) · CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks
 
 <a id="by-ml-foundations"></a>
 
@@ -211,6 +212,7 @@
 - [双向建模图异常的局部谱能量偏移](../conferences/icml-2026/cards/2901-3000.md#liu26gb-modules) · Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection
 - [让图谱坐标旋转查询和键](../conferences/icml-2026/cards/3801-3900.md#reid26a-modules) · Rotary Position Encodings for Graphs
 - [在可学习图谱尺度上生成软超边](../conferences/icml-2026/cards/4101-4200.md#sim26b-modules) · Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis
+- [生成LoRA的范数参照](../conferences/icml-2026/cards/4201-4300.md#sun26f-modules) · Enhancing LLMs for Graph Tasks via Graph-aware LoRA Generation
 
 <a id="by-scientific-ml"></a>
 

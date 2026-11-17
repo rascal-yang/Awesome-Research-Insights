@@ -48,6 +48,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Temperature Scaling in Discrete Sequence (Language) Models](../../conferences/icml-2026/cards/3901-4000.md#scheufele26a-loss-functions) · 中文
 - [Multilingual Safety Alignment via Representation-Space Separability](../../conferences/icml-2026/cards/4101-4200.md#shi26e-loss-functions) · 中文
 - [Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks](../../conferences/icml-2026/cards/4101-4200.md#simko26a-loss-functions) · 中文
+- [Closing the Expression Gap in LLM Instructions via Socratic Questioning](../../conferences/icml-2026/cards/4201-4300.md#sun26i-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

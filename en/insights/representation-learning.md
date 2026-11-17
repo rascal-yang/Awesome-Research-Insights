@@ -177,6 +177,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Disease-Centric Vision-Language Pretraining with Hybrid Visual Encoding for 3D Computed Tomography](../../conferences/icml-2026/cards/4101-4200.md#shi26b-representation-learning) · 中文
 - [MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning](../../conferences/icml-2026/cards/4101-4200.md#shi26l-representation-learning) · 中文
 - [VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](../../conferences/icml-2026/cards/4101-4200.md#shi26z-representation-learning) · 中文
+- [Multimodal Latent Language Modeling with Next-Token Diffusion](../../conferences/icml-2026/cards/4201-4300.md#sun26c-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -234,6 +235,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Divide and Contrast: Learning Robust Temporal Features without Augmentation](../../conferences/icml-2026/cards/4001-4100.md#shamba26a-representation-learning) · 中文
 - [Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability](../../conferences/icml-2026/cards/4101-4200.md#simon26b-representation-learning) · 中文
 - [Variational Learning of Disentangled Representations](../../conferences/icml-2026/cards/4101-4200.md#slavutsky26a-representation-learning) · 中文
+- [Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding](../../conferences/icml-2026/cards/4201-4300.md#sun26k-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

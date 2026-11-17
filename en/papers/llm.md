@@ -144,6 +144,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="scheufele26a-loss-functions"></a>[Temperature Scaling in Discrete Sequence (Language) Models](../../conferences/icml-2026/cards/3901-4000.md#paper-scheufele26a)
 - <a id="shi26e-loss-functions"></a>[Multilingual Safety Alignment via Representation-Space Separability](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26e)
 - <a id="simko26a-loss-functions"></a>[Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks](../../conferences/icml-2026/cards/4101-4200.md#paper-simko26a)
+- <a id="sun26i-loss-functions"></a>[Closing the Expression Gap in LLM Instructions via Socratic Questioning](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26i)
 
 <a id="by-optimization"></a>
 
@@ -383,6 +384,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="song26c-reinforcement-learning"></a>[Expanding the Capabilities of Reinforcement Learning via Text Feedback](../../conferences/icml-2026/cards/4201-4300.md#paper-song26c)
 - <a id="song26p-reinforcement-learning"></a>[EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance](../../conferences/icml-2026/cards/4201-4300.md#paper-song26p)
 - <a id="song26aa-reinforcement-learning"></a>[IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models](../../conferences/icml-2026/cards/4201-4300.md#paper-song26aa)
+- <a id="sui26a-reinforcement-learning"></a>[Conversation for Non-verifiable Learning: Self-Evolving Large Language Models through Meta-Evaluation](../../conferences/icml-2026/cards/4201-4300.md#paper-sui26a)
 
 <a id="by-training-strategies"></a>
 
@@ -506,6 +508,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shi26c-training-strategies"></a>[Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26c)
 - <a id="singh26a-training-strategies"></a>[Curriculum-Guided Layer Scaling for Language Model Pretraining](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26a)
 - <a id="springer26a-training-strategies"></a>[Annotations Mitigate Post-Training Mode Collapse](../../conferences/icml-2026/cards/4201-4300.md#paper-springer26a)
+- <a id="sun26m-training-strategies"></a>[MESA: Improving MoE Safety Alignment via Decentralized Expertise](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26m)
 
 <a id="by-data-strategies"></a>
 
@@ -569,6 +572,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="qu26f-data-strategies"></a>[Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26f)
 - <a id="rosenblatt26a-data-strategies"></a>[Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data](../../conferences/icml-2026/cards/3801-3900.md#paper-rosenblatt26a)
 - <a id="shen26o-data-strategies"></a>[SERA: Soft-Verified Efficient Repository Agents](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26o)
+- <a id="sun26h-data-strategies"></a>[KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26h)
 
 <a id="by-inference"></a>
 
@@ -860,6 +864,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="sohn26a-inference"></a>[Process Reward Agents for Steering Knowledge-Intensive Reasoning](../../conferences/icml-2026/cards/4101-4200.md#paper-sohn26a)
 - <a id="song26ab-inference"></a>[DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ab)
 - <a id="su26o-inference"></a>[Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models](../../conferences/icml-2026/cards/4201-4300.md#paper-su26o)
+- <a id="sun26b-inference"></a>[Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26b)
 
 <a id="by-representation-learning"></a>
 
@@ -1169,6 +1174,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="song26z-evaluation"></a>[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../../conferences/icml-2026/cards/4201-4300.md#paper-song26z)
 - <a id="storf26a-evaluation"></a>[Constitutional Black-Box Monitoring for Scheming in LLM Agents](../../conferences/icml-2026/cards/4201-4300.md#paper-storf26a)
 - <a id="subasic26a-evaluation"></a>[Evaluating Language Models in Realistic Conversational Contexts](../../conferences/icml-2026/cards/4201-4300.md#paper-subasic26a)
+- <a id="subramani26a-evaluation"></a>[The ACUTE Protocol: Operationalizing Language Model Activations for Better Calibration, Utility, and Trust](../../conferences/icml-2026/cards/4201-4300.md#paper-subramani26a)
+- <a id="suh26a-evaluation"></a>[AgentSuite: Toward More Reliable Agent Evaluation with a Component-Based Benchmark Auditing Pipeline](../../conferences/icml-2026/cards/4201-4300.md#paper-suh26a)
+- <a id="sun26d-evaluation"></a>[Anatomy of Massive Activations and Attention Sinks](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26d)
 
 <a id="by-theory-statistics"></a>
 
@@ -1226,4 +1234,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="raju26a-theory-statistics"></a>[A model of errors in transformers](../../conferences/icml-2026/cards/3801-3900.md#paper-raju26a)
 - <a id="sarrof26a-theory-statistics"></a>[On the Ability of Transformers to Verify Plans](../../conferences/icml-2026/cards/3901-4000.md#paper-sarrof26a)
 - <a id="shapira26a-theory-statistics"></a>[How RLHF Amplifies Sycophancy](../../conferences/icml-2026/cards/4001-4100.md#paper-shapira26a)
+- <a id="sullivan26a-theory-statistics"></a>[GRPO is Secretly a Process Reward Model](../../conferences/icml-2026/cards/4201-4300.md#paper-sullivan26a)
 <!-- classification:end -->

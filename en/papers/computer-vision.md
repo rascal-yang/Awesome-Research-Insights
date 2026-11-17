@@ -193,6 +193,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="ning26e-reinforcement-learning"></a>[Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting](../../conferences/icml-2026/cards/3401-3500.md#paper-ning26e)
 - <a id="shi26o-reinforcement-learning"></a>[Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26o)
 - <a id="shi26p-reinforcement-learning"></a>[PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26p)
+- <a id="sun26l-reinforcement-learning"></a>[Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26l)
 
 <a id="by-training-strategies"></a>
 
@@ -385,6 +386,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="so26a-inference"></a>[Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation](../../conferences/icml-2026/cards/4101-4200.md#paper-so26a)
 - <a id="song26k-inference"></a>[GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#paper-song26k)
 - <a id="su26r-inference"></a>[Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../../conferences/icml-2026/cards/4201-4300.md#paper-su26r)
+- <a id="sun26j-inference"></a>[Timestep Rescheduling in Diffusion Inversion](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26j)
 
 <a id="by-representation-learning"></a>
 

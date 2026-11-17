@@ -166,6 +166,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Expanding the Capabilities of Reinforcement Learning via Text Feedback](../../conferences/icml-2026/cards/4201-4300.md#song26c-reinforcement-learning) · 中文
 - [EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance](../../conferences/icml-2026/cards/4201-4300.md#song26p-reinforcement-learning) · 中文
 - [IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models](../../conferences/icml-2026/cards/4201-4300.md#song26aa-reinforcement-learning) · 中文
+- [Conversation for Non-verifiable Learning: Self-Evolving Large Language Models through Meta-Evaluation](../../conferences/icml-2026/cards/4201-4300.md#sui26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -186,6 +187,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting](../../conferences/icml-2026/cards/3401-3500.md#ning26e-reinforcement-learning) · 中文
 - [Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification](../../conferences/icml-2026/cards/4101-4200.md#shi26o-reinforcement-learning) · 中文
 - [PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything](../../conferences/icml-2026/cards/4101-4200.md#shi26p-reinforcement-learning) · 中文
+- [Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function](../../conferences/icml-2026/cards/4201-4300.md#sun26l-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -356,6 +358,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving](../../conferences/icml-2026/cards/3801-3900.md#ruan26c-reinforcement-learning) · 中文
 - [Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation](../../conferences/icml-2026/cards/4001-4100.md#shen26e-reinforcement-learning) · 中文
 - [Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies](../../conferences/icml-2026/cards/4101-4200.md#simsir26a-reinforcement-learning) · 中文
+- [Uncertainty-Guided Exploration and Stable Planning for Sparse-Reward Manipulation from Limited Demonstrations](../../conferences/icml-2026/cards/4201-4300.md#sun26n-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 

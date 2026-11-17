@@ -614,6 +614,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shamba26a-representation-learning"></a>[Divide and Contrast: Learning Robust Temporal Features without Augmentation](../../conferences/icml-2026/cards/4001-4100.md#paper-shamba26a)
 - <a id="simon26b-representation-learning"></a>[Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability](../../conferences/icml-2026/cards/4101-4200.md#paper-simon26b)
 - <a id="slavutsky26a-representation-learning"></a>[Variational Learning of Disentangled Representations](../../conferences/icml-2026/cards/4101-4200.md#paper-slavutsky26a)
+- <a id="sun26k-representation-learning"></a>[Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26k)
 
 <a id="by-evaluation"></a>
 
