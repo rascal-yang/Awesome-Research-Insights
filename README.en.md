@@ -68,15 +68,7 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 
 [All papers (16)](en/papers/computer-vision.md)
 
-[Architectures (3)](en/papers/computer-vision.md#by-architecture) · [Modules (2)](en/papers/computer-vision.md#by-modules) · [Loss Functions (1)](en/papers/computer-vision.md#by-loss-functions) · [Reinforcement Learning Methods (1)](en/papers/computer-vision.md#by-reinforcement-learning) · [Training Strategies (1)](en/papers/computer-vision.md#by-training-strategies) · [Inference Strategies (3)](en/papers/computer-vision.md#by-inference) · [Representation Learning (1)](en/papers/computer-vision.md#by-representation-learning) · [Evaluation and Diagnostics (4)](en/papers/computer-vision.md#by-evaluation)
-
-<a id="computer-vision-modules"></a>
-
-### Modules
-
-| Insight | One-sentence takeaway | Source |
-| :--- | :--- | :--- |
-| [**Widen the Student Distillation Interface**](en/insights/modules.md#widen-the-student-distillation-interface) | Widen the student’s feature interface or final Transformer block for feature distillation. | [Lift / WideLast](en/papers/computer-vision.md#vision-model-distillation) |
+[Architectures (3)](en/papers/computer-vision.md#by-architecture) · <a id="computer-vision-modules"></a><a id="modules"></a>[Modules (2)](en/papers/computer-vision.md#by-modules) · [Loss Functions (1)](en/papers/computer-vision.md#by-loss-functions) · [Reinforcement Learning Methods (1)](en/papers/computer-vision.md#by-reinforcement-learning) · [Training Strategies (1)](en/papers/computer-vision.md#by-training-strategies) · [Inference Strategies (3)](en/papers/computer-vision.md#by-inference) · [Representation Learning (1)](en/papers/computer-vision.md#by-representation-learning) · [Evaluation and Diagnostics (4)](en/papers/computer-vision.md#by-evaluation)
 
 <a id="natural-language-processing"></a>
 
@@ -92,13 +84,7 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 
 [All papers (28)](en/papers/reinforcement-learning.md)
 
-[Architectures (1)](en/papers/reinforcement-learning.md#by-architecture) · [Reinforcement Learning Methods (14)](en/papers/reinforcement-learning.md#by-reinforcement-learning) · [Data Strategies (1)](en/papers/reinforcement-learning.md#by-data-strategies) · [Representation Learning (1)](en/papers/reinforcement-learning.md#by-representation-learning) · [Evaluation and Diagnostics (1)](en/papers/reinforcement-learning.md#by-evaluation) · [Theory and Statistics (10)](en/papers/reinforcement-learning.md#by-theory-statistics)
-
-### Reward and Advantage Estimation
-
-| Insight | One-sentence takeaway | Source |
-| :--- | :--- | :--- |
-| [**Normalize Each Reward Before Aggregation**](en/insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) | Normalize each reward component within a rollout group before combining advantages. | [GDPO](en/papers/reinforcement-learning.md#group-relative-policy-optimization) |
+[Architectures (1)](en/papers/reinforcement-learning.md#by-architecture) · <a id="reward-and-advantage-estimation"></a>[Reinforcement Learning Methods (14)](en/papers/reinforcement-learning.md#by-reinforcement-learning) · [Data Strategies (1)](en/papers/reinforcement-learning.md#by-data-strategies) · [Representation Learning (1)](en/papers/reinforcement-learning.md#by-representation-learning) · [Evaluation and Diagnostics (1)](en/papers/reinforcement-learning.md#by-evaluation) · [Theory and Statistics (10)](en/papers/reinforcement-learning.md#by-theory-statistics)
 
 <a id="robotics"></a>
 
@@ -106,20 +92,7 @@ A cross-disciplinary collection of reusable modules, losses, optimization method
 
 [All papers (9)](en/papers/robotics.md)
 
-[Architectures (1)](en/papers/robotics.md#by-architecture) · [Modules (1)](en/papers/robotics.md#by-modules) · [Loss Functions (3)](en/papers/robotics.md#by-loss-functions) · [Reinforcement Learning Methods (1)](en/papers/robotics.md#by-reinforcement-learning) · [Inference Strategies (3)](en/papers/robotics.md#by-inference) · [Evaluation and Diagnostics (1)](en/papers/robotics.md#by-evaluation)
-
-### Loss Functions
-
-| Insight | One-sentence takeaway | Source |
-| :--- | :--- | :--- |
-| [**Target-Region Reconstruction as Auxiliary Supervision**](en/insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) | Train the policy representation with a latent reconstruction objective on a crop of the target object. | [ReconVLA](en/papers/robotics.md#vision-language-action-models) |
-| [**Align Action-Expert Features with Latent Actions**](en/insights/loss-functions.md#align-action-features-with-latent-actions) | Align an intermediate action-model layer with latent actions learned from frame pairs. | [LARA](en/papers/robotics.md#vision-language-action-models) |
-
-### Modules
-
-| Insight | One-sentence takeaway | Source |
-| :--- | :--- | :--- |
-| [**Instruction Prefixes for Causal Visual Grounding**](en/insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | Place instruction tokens before image tokens so visual hidden states can attend to the task under a causal mask. | [ReconVLA](en/papers/robotics.md#vision-language-action-models) |
+[Architectures (1)](en/papers/robotics.md#by-architecture) · <a id="modules-1"></a>[Modules (1)](en/papers/robotics.md#by-modules) · <a id="loss-functions"></a>[Loss Functions (3)](en/papers/robotics.md#by-loss-functions) · [Reinforcement Learning Methods (1)](en/papers/robotics.md#by-reinforcement-learning) · [Inference Strategies (3)](en/papers/robotics.md#by-inference) · [Evaluation and Diagnostics (1)](en/papers/robotics.md#by-evaluation)
 
 <a id="multimodal-learning"></a>
 

@@ -68,15 +68,7 @@
 
 [全部论文 (16)](papers/computer-vision.md)
 
-[模型架构 (3)](papers/computer-vision.md#by-architecture) · [模块 (2)](papers/computer-vision.md#by-modules) · [损失函数 (1)](papers/computer-vision.md#by-loss-functions) · [强化学习方法 (1)](papers/computer-vision.md#by-reinforcement-learning) · [训练策略 (1)](papers/computer-vision.md#by-training-strategies) · [推理策略 (3)](papers/computer-vision.md#by-inference) · [表征学习 (1)](papers/computer-vision.md#by-representation-learning) · [评测与诊断 (4)](papers/computer-vision.md#by-evaluation)
-
-<a id="computer-vision-modules"></a>
-
-### 模块
-
-| Insight | 一句话概括 | 来源 |
-| :--- | :--- | :--- |
-| [**只加宽学生模型的蒸馏接口**](insights/modules.md#widen-the-student-distillation-interface) | 做特征蒸馏时，只加宽学生模型的特征接口或最后一个 Transformer 块。 | [Lift / WideLast](papers/computer-vision.md#vision-model-distillation) |
+[模型架构 (3)](papers/computer-vision.md#by-architecture) · <a id="computer-vision-modules"></a>[模块 (2)](papers/computer-vision.md#by-modules) · [损失函数 (1)](papers/computer-vision.md#by-loss-functions) · [强化学习方法 (1)](papers/computer-vision.md#by-reinforcement-learning) · [训练策略 (1)](papers/computer-vision.md#by-training-strategies) · [推理策略 (3)](papers/computer-vision.md#by-inference) · [表征学习 (1)](papers/computer-vision.md#by-representation-learning) · [评测与诊断 (4)](papers/computer-vision.md#by-evaluation)
 
 <a id="natural-language-processing"></a>
 
@@ -92,15 +84,7 @@
 
 [全部论文 (28)](papers/reinforcement-learning.md)
 
-[模型架构 (1)](papers/reinforcement-learning.md#by-architecture) · [强化学习方法 (14)](papers/reinforcement-learning.md#by-reinforcement-learning) · [数据策略 (1)](papers/reinforcement-learning.md#by-data-strategies) · [表征学习 (1)](papers/reinforcement-learning.md#by-representation-learning) · [评测与诊断 (1)](papers/reinforcement-learning.md#by-evaluation) · [理论与统计 (10)](papers/reinforcement-learning.md#by-theory-statistics)
-
-<a id="reward-and-advantage-estimation"></a>
-
-### 奖励与优势估计
-
-| Insight | 一句话概括 | 来源 |
-| :--- | :--- | :--- |
-| [**多奖励先分别归一化再聚合**](insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) | 先在轨迹组内归一化各项奖励，再合并优势。 | [GDPO](papers/reinforcement-learning.md#group-relative-policy-optimization) |
+[模型架构 (1)](papers/reinforcement-learning.md#by-architecture) · <a id="reward-and-advantage-estimation"></a>[强化学习方法 (14)](papers/reinforcement-learning.md#by-reinforcement-learning) · [数据策略 (1)](papers/reinforcement-learning.md#by-data-strategies) · [表征学习 (1)](papers/reinforcement-learning.md#by-representation-learning) · [评测与诊断 (1)](papers/reinforcement-learning.md#by-evaluation) · [理论与统计 (10)](papers/reinforcement-learning.md#by-theory-statistics)
 
 <a id="robotics"></a>
 
@@ -108,24 +92,7 @@
 
 [全部论文 (9)](papers/robotics.md)
 
-[模型架构 (1)](papers/robotics.md#by-architecture) · [模块 (1)](papers/robotics.md#by-modules) · [损失函数 (3)](papers/robotics.md#by-loss-functions) · [强化学习方法 (1)](papers/robotics.md#by-reinforcement-learning) · [推理策略 (3)](papers/robotics.md#by-inference) · [评测与诊断 (1)](papers/robotics.md#by-evaluation)
-
-<a id="loss-functions"></a>
-
-### 损失函数
-
-| Insight | 一句话概括 | 来源 |
-| :--- | :--- | :--- |
-| [**用目标区域重建做辅助监督**](insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) | 用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。 | [ReconVLA](papers/robotics.md#vision-language-action-models) |
-| [**用潜动作监督动作专家的中间层**](insights/loss-functions.md#align-action-features-with-latent-actions) | 用前后帧提取的潜动作监督动作模型的中间层。 | [LARA](papers/robotics.md#vision-language-action-models) |
-
-<a id="modules"></a>
-
-### 模块
-
-| Insight | 一句话概括 | 来源 |
-| :--- | :--- | :--- |
-| [**用指令前缀让视觉表征感知任务**](insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | 把指令 token 放在图像 token 前，使视觉隐藏状态能通过因果注意力读取任务信息。 | [ReconVLA](papers/robotics.md#vision-language-action-models) |
+[模型架构 (1)](papers/robotics.md#by-architecture) · <a id="modules"></a>[模块 (1)](papers/robotics.md#by-modules) · <a id="loss-functions"></a>[损失函数 (3)](papers/robotics.md#by-loss-functions) · [强化学习方法 (1)](papers/robotics.md#by-reinforcement-learning) · [推理策略 (3)](papers/robotics.md#by-inference) · [评测与诊断 (1)](papers/robotics.md#by-evaluation)
 
 <a id="multimodal-learning"></a>
 
