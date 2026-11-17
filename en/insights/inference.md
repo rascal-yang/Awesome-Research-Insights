@@ -289,6 +289,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Reasoning Can Be Restored by Correcting a Few Decision Tokens](../../conferences/icml-2026/cards/4001-4100.md#shen26n-inference) · 中文
 - [SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models](../../conferences/icml-2026/cards/4001-4100.md#shen26z-inference) · 中文
 - [Structurally Aligned Subtask-Level Memory for Software Engineering Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26ad-inference) · 中文
+- [TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](../../conferences/icml-2026/cards/4101-4200.md#shi26g-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

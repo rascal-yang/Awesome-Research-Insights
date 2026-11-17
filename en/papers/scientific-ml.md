@@ -114,6 +114,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="shaffiey26a-architecture"></a>[Tri-Scale Neural ODEs for Continuous Multi-Omics Disease Modeling](../../conferences/icml-2026/cards/4001-4100.md#paper-shaffiey26a)
 - <a id="shah26b-architecture"></a>[dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning](../../conferences/icml-2026/cards/4001-4100.md#paper-shah26b)
 - <a id="shang26a-architecture"></a>[SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26a)
+- <a id="shi26i-architecture"></a>[Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26i)
 
 <a id="by-modules"></a>
 

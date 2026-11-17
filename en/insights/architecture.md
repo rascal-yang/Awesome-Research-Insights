@@ -396,4 +396,5 @@ Model-wide design and information flow.
 - [Tri-Scale Neural ODEs for Continuous Multi-Omics Disease Modeling](../../conferences/icml-2026/cards/4001-4100.md#shaffiey26a-architecture) · 中文
 - [dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning](../../conferences/icml-2026/cards/4001-4100.md#shah26b-architecture) · 中文
 - [SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models](../../conferences/icml-2026/cards/4001-4100.md#shang26a-architecture) · 中文
+- [Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](../../conferences/icml-2026/cards/4101-4200.md#shi26i-architecture) · 中文
 <!-- classification:end -->

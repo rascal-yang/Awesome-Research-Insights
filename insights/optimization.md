@@ -377,6 +377,7 @@
 - [利用流形量化规律加速 k-means 种子选择](../conferences/icml-2026/cards/4001-4100.md#shah26a-optimization) · Fast k-means Seeding Under The Manifold Hypothesis
 - [用混合配置的影子价格做接纳](../conferences/icml-2026/cards/4001-4100.md#shen26x-optimization) · A Two-Layer Framework for Joint Online Configuration Selection and Admission Control
 - [用同一突触预算稀疏权重与脉冲](../conferences/icml-2026/cards/4101-4200.md#shi26a-optimization) · UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks
+- [用判别子空间稳定估计标签漂移权重](../conferences/icml-2026/cards/4101-4200.md#shi26f-optimization) · Regularized Discriminative Alignment for Deep Representations under Label Shift
 
 <a id="by-graph-and-recommendation"></a>
 

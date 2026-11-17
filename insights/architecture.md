@@ -396,4 +396,5 @@
 - [用多时间尺度耦合 ODE 稳定预测组学轨迹](../conferences/icml-2026/cards/4001-4100.md#shaffiey26a-architecture) · Tri-Scale Neural ODEs for Continuous Multi-Omics Disease Modeling
 - [用端到端层次分块压缩原始 DNA 并保留生物结构](../conferences/icml-2026/cards/4001-4100.md#shah26b-architecture) · dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning
 - [逐表达元素融合的空间转录组去噪](../conferences/icml-2026/cards/4001-4100.md#shang26a-architecture) · SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models
+- [把驱动噪声编码为Wick特征再学随机解算子](../conferences/icml-2026/cards/4101-4200.md#shi26i-architecture) · Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations
 <!-- classification:end -->

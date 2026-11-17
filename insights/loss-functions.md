@@ -46,6 +46,7 @@
 - [对齐不同掩码长度下的答案分布](../conferences/icml-2026/cards/3601-3700.md#piskorz26a-loss-functions) · Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models
 - [让投机解码的草稿损失直接优化接受长度](../conferences/icml-2026/cards/3901-4000.md#samarin26a-loss-functions) · LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding
 - [用序列成对对数比消掉温度配分函数](../conferences/icml-2026/cards/3901-4000.md#scheufele26a-loss-functions) · Temperature Scaling in Discrete Sequence (Language) Models
+- [用跨语言安全间隔调节逐样本偏好训练](../conferences/icml-2026/cards/4101-4200.md#shi26e-loss-functions) · Multilingual Safety Alignment via Representation-Space Separability
 
 <a id="by-computer-vision"></a>
 

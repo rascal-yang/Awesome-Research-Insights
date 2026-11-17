@@ -135,6 +135,7 @@
 - <a id="piskorz26a-loss-functions"></a>[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-piskorz26a)
 - <a id="samarin26a-loss-functions"></a>[LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding](../conferences/icml-2026/cards/3901-4000.md#paper-samarin26a)
 - <a id="scheufele26a-loss-functions"></a>[Temperature Scaling in Discrete Sequence (Language) Models](../conferences/icml-2026/cards/3901-4000.md#paper-scheufele26a)
+- <a id="shi26e-loss-functions"></a>[Multilingual Safety Alignment via Representation-Space Separability](../conferences/icml-2026/cards/4101-4200.md#paper-shi26e)
 
 <a id="by-optimization"></a>
 
@@ -835,6 +836,7 @@
 - <a id="shen26n-inference"></a>[Reasoning Can Be Restored by Correcting a Few Decision Tokens](../conferences/icml-2026/cards/4001-4100.md#paper-shen26n)
 - <a id="shen26z-inference"></a>[SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models](../conferences/icml-2026/cards/4001-4100.md#paper-shen26z)
 - <a id="shen26ad-inference"></a>[Structurally Aligned Subtask-Level Memory for Software Engineering Agents](../conferences/icml-2026/cards/4001-4100.md#paper-shen26ad)
+- <a id="shi26g-inference"></a>[TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention](../conferences/icml-2026/cards/4101-4200.md#paper-shi26g)
 
 <a id="by-representation-learning"></a>
 

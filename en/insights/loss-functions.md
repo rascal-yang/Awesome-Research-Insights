@@ -46,6 +46,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](../../conferences/icml-2026/cards/3601-3700.md#piskorz26a-loss-functions) · 中文
 - [LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding](../../conferences/icml-2026/cards/3901-4000.md#samarin26a-loss-functions) · 中文
 - [Temperature Scaling in Discrete Sequence (Language) Models](../../conferences/icml-2026/cards/3901-4000.md#scheufele26a-loss-functions) · 中文
+- [Multilingual Safety Alignment via Representation-Space Separability](../../conferences/icml-2026/cards/4101-4200.md#shi26e-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

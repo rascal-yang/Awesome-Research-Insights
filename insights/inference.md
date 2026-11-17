@@ -289,6 +289,7 @@
 - [按模型分歧选择少量推理决策点](../conferences/icml-2026/cards/4001-4100.md#shen26n-inference) · Reasoning Can Be Restored by Correcting a Few Decision Tokens
 - [按上下文敏感性分配并行解码阈值](../conferences/icml-2026/cards/4001-4100.md#shen26z-inference) · SPEED: Sharpened-Teacher Distillation for Parallel Decoding of Diffusion Language Models
 - [让记忆检索对齐当前工程子任务](../conferences/icml-2026/cards/4001-4100.md#shen26ad-inference) · Structurally Aligned Subtask-Level Memory for Software Engineering Agents
+- [沿零化干预影响追踪跨层安全路径](../conferences/icml-2026/cards/4101-4200.md#shi26g-inference) · TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention
 
 <a id="by-computer-vision"></a>
 

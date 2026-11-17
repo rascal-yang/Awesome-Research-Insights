@@ -110,6 +110,7 @@
 - <a id="saied26a-modules"></a>[Normalization Equivariance for Arbitrary Backbones, with Application to Image Denoising](../conferences/icml-2026/cards/3901-4000.md#paper-saied26a)
 - <a id="sekikawa26a-modules"></a>[Spherical SO(3) Equivariant Local Attention](../conferences/icml-2026/cards/3901-4000.md#paper-sekikawa26a)
 - <a id="she26b-modules"></a>[Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices](../conferences/icml-2026/cards/4001-4100.md#paper-she26b)
+- <a id="shi26h-modules"></a>[ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning](../conferences/icml-2026/cards/4101-4200.md#paper-shi26h)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>

@@ -378,6 +378,7 @@
 - <a id="shah26a-optimization"></a>[Fast k-means Seeding Under The Manifold Hypothesis](../conferences/icml-2026/cards/4001-4100.md#paper-shah26a)
 - <a id="shen26x-optimization"></a>[A Two-Layer Framework for Joint Online Configuration Selection and Admission Control](../conferences/icml-2026/cards/4001-4100.md#paper-shen26x)
 - <a id="shi26a-optimization"></a>[UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks](../conferences/icml-2026/cards/4101-4200.md#paper-shi26a)
+- <a id="shi26f-optimization"></a>[Regularized Discriminative Alignment for Deep Representations under Label Shift](../conferences/icml-2026/cards/4101-4200.md#paper-shi26f)
 
 <a id="by-reinforcement-learning"></a>
 
