@@ -169,6 +169,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 
 - [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](../../conferences/icml-2026/cards/1101-1200.md#francis-meretzki26a-theory-statistics) · 中文
 - [Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences](../../conferences/icml-2026/cards/4201-4300.md#stein26a-theory-statistics) · 中文
+- [Embedding Hybrid Systems into Continuous Latent Vector Fields](../../conferences/icml-2026/cards/4401-4500.md#teng26a-theory-statistics) · 中文
+- [On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise](../../conferences/icml-2026/cards/4401-4500.md#teutsch26a-theory-statistics) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -549,6 +551,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Improved Convergence Analysis of Topology Dependence in Decentralized SGD](../../conferences/icml-2026/cards/4301-4400.md#takezawa26a-theory-statistics) · 中文
 - [Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding](../../conferences/icml-2026/cards/4301-4400.md#takhanov26a-theory-statistics) · 中文
 - [Gradient Testing and Estimation by Comparisons](../../conferences/icml-2026/cards/4401-4500.md#tao26g-theory-statistics) · 中文
+- [Semi-Supervised Hypothesis Testing by Betting on Predictions](../../conferences/icml-2026/cards/4401-4500.md#tenzer26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -602,4 +605,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Interpretability and Generalization Bounds for Learning Spatial Physics](../../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · 中文
 - [One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · 中文
 - [Adaptive Symmetry Discovery for Dynamical System Identification](../../conferences/icml-2026/cards/4301-4400.md#tahmasebi26a-theory-statistics) · 中文
+- [Taming the Loss Landscape of PINNs with Noisy Feynman–Kac Supervision: Operator Preconditioning and Non-Asymptotic Error Bounds](../../conferences/icml-2026/cards/4401-4500.md#tepakbong26a-theory-statistics) · 中文
 <!-- classification:end -->

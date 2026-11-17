@@ -80,6 +80,7 @@
 - [沿视频轨迹对齐参考相似度的排序](../conferences/icml-2026/cards/4101-4200.md#simion26a-loss-functions) · 3DPoV: Improving 3D understanding via Patch Ordering on Videos
 - [真值与扩张框语义对比奖励](../conferences/icml-2026/cards/4201-4300.md#su26b-loss-functions) · PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection
 - [persistent-connectivity-regularization](../conferences/icml-2026/cards/4301-4400.md#sun26ai-loss-functions) · Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology
+- [clean-forward-noisy-backward-edit-cycle](../conferences/icml-2026/cards/4401-4500.md#tewel26a-loss-functions) · Unpaired Visual Editing with Self-Consistent Flow Matching
 
 <a id="by-nlp"></a>
 

@@ -203,6 +203,7 @@
 - [梯度证据挖掘未知目标](../conferences/icml-2026/cards/4201-4300.md#su26h-training-strategies) · OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection
 - [记忆条件对齐的蒸馏](../conferences/icml-2026/cards/4301-4400.md#sun26az-training-strategies) · WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling
 - [感知前置RL与任务梯度分配](../conferences/icml-2026/cards/4301-4400.md#tan26b-training-strategies) · VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning
+- [reuse-gradients-to-diagnose-fast-at-collapse](../conferences/icml-2026/cards/4401-4500.md#teymourian26a-training-strategies) · SORA: Free Second-Order Attacks in Fast Adversarial Training
 
 <a id="by-nlp"></a>
 

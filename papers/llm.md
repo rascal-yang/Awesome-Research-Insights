@@ -60,6 +60,7 @@
 - <a id="shi26q-architecture"></a>[OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale](../conferences/icml-2026/cards/4101-4200.md#paper-shi26q)
 - <a id="song26y-architecture"></a>[Causal Attention with Lookahead Keys](../conferences/icml-2026/cards/4201-4300.md#paper-song26y)
 - <a id="su26a-architecture"></a>[Attention Projection Mixing with Exogenous Anchors](../conferences/icml-2026/cards/4201-4300.md#paper-su26a)
+- <a id="tastan26a-architecture"></a>[MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tastan26a)
 
 <a id="by-modules"></a>
 
@@ -887,6 +888,7 @@
 - <a id="tang26k-inference"></a>[Beyond Gemini-3-Pro: Revisiting LLM Routing and Aggregation at Scale](../conferences/icml-2026/cards/4301-4400.md#paper-tang26k)
 - <a id="tang26t-inference"></a>[Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers](../conferences/icml-2026/cards/4301-4400.md#paper-tang26t)
 - <a id="tang26w-inference"></a>[MineDraft: A Framework for Batch Parallel Speculative Decoding](../conferences/icml-2026/cards/4301-4400.md#paper-tang26w)
+- <a id="teng26b-inference"></a>[InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context](../conferences/icml-2026/cards/4401-4500.md#paper-teng26b)
 
 <a id="by-representation-learning"></a>
 
@@ -1210,6 +1212,10 @@
 - <a id="tan26g-evaluation"></a>[Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL](../conferences/icml-2026/cards/4301-4400.md#paper-tan26g)
 - <a id="tang26ad-evaluation"></a>[Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ad)
 - <a id="tang26ah-evaluation"></a>[Do Language Models Track Entities Across State Changes?](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ah)
+- <a id="tarasov26a-evaluation"></a>[Progressive Cramming: Reliable Token Compression and What It Reveals](../conferences/icml-2026/cards/4401-4500.md#paper-tarasov26a)
+- <a id="taufeeque26a-evaluation"></a>[The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](../conferences/icml-2026/cards/4401-4500.md#paper-taufeeque26a)
+- <a id="tayebati26a-evaluation"></a>[TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning](../conferences/icml-2026/cards/4401-4500.md#paper-tayebati26a)
+- <a id="tewolde26a-evaluation"></a>[CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas](../conferences/icml-2026/cards/4401-4500.md#paper-tewolde26a)
 
 <a id="by-theory-statistics"></a>
 

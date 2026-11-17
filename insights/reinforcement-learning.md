@@ -365,6 +365,7 @@
 - [用拉格朗日残差噪声约束冻结生成策略的适配](../conferences/icml-2026/cards/4101-4200.md#simsir26a-reinforcement-learning) · Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies
 - [奖励可靠度控制规划乐观性](../conferences/icml-2026/cards/4201-4300.md#sun26n-reinforcement-learning) · Uncertainty-Guided Exploration and Stable Planning for Sparse-Reward Manipulation from Limited Demonstrations
 - [转折关键点子目标奖励](../conferences/icml-2026/cards/4301-4400.md#tang26o-reinforcement-learning) · ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation
+- [segment-consistent-preference-updates](../conferences/icml-2026/cards/4401-4500.md#taranovic26a-reinforcement-learning) · PAWS: Preference Learning with Advantage-Weighted Segments
 
 <a id="by-multimodal"></a>
 

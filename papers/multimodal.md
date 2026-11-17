@@ -473,6 +473,7 @@
 - <a id="shi26ad-evaluation"></a>[Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](../conferences/icml-2026/cards/4101-4200.md#paper-shi26ad)
 - <a id="song26s-evaluation"></a>[VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge](../conferences/icml-2026/cards/4201-4300.md#paper-song26s)
 - <a id="sun26t-evaluation"></a>[MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](../conferences/icml-2026/cards/4201-4300.md#paper-sun26t)
+- <a id="teiletche26a-evaluation"></a>[ModernVBERT: Towards Smaller Visual Document Retrievers](../conferences/icml-2026/cards/4401-4500.md#paper-teiletche26a)
 
 <a id="by-theory-statistics"></a>
 

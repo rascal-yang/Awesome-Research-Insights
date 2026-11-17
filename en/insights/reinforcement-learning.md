@@ -365,6 +365,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies](../../conferences/icml-2026/cards/4101-4200.md#simsir26a-reinforcement-learning) · 中文
 - [Uncertainty-Guided Exploration and Stable Planning for Sparse-Reward Manipulation from Limited Demonstrations](../../conferences/icml-2026/cards/4201-4300.md#sun26n-reinforcement-learning) · 中文
 - [ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation](../../conferences/icml-2026/cards/4301-4400.md#tang26o-reinforcement-learning) · 中文
+- [PAWS: Preference Learning with Advantage-Weighted Segments](../../conferences/icml-2026/cards/4401-4500.md#taranovic26a-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 

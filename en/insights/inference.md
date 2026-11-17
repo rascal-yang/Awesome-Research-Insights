@@ -307,6 +307,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Beyond Gemini-3-Pro: Revisiting LLM Routing and Aggregation at Scale](../../conferences/icml-2026/cards/4301-4400.md#tang26k-inference) · 中文
 - [Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers](../../conferences/icml-2026/cards/4301-4400.md#tang26t-inference) · 中文
 - [MineDraft: A Framework for Batch Parallel Speculative Decoding](../../conferences/icml-2026/cards/4301-4400.md#tang26w-inference) · 中文
+- [InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context](../../conferences/icml-2026/cards/4401-4500.md#teng26b-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

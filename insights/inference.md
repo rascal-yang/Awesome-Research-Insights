@@ -307,6 +307,7 @@
 - [回答条件化路由与聚合开关](../conferences/icml-2026/cards/4301-4400.md#tang26k-inference) · Beyond Gemini-3-Pro: Revisiting LLM Routing and Aggregation at Scale
 - [任务条件的注意力头稀疏路由](../conferences/icml-2026/cards/4301-4400.md#tang26t-inference) · Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers
 - [双请求批交替推测解码](../conferences/icml-2026/cards/4301-4400.md#tang26w-inference) · MineDraft: A Framework for Batch Parallel Speculative Decoding
+- [inference-consistent-kv-selection](../conferences/icml-2026/cards/4401-4500.md#teng26b-inference) · InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context
 
 <a id="by-computer-vision"></a>
 

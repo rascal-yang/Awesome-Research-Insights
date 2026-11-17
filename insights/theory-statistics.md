@@ -169,6 +169,8 @@
 
 - [用时序差分校准机器人任务成功率](../conferences/icml-2026/cards/1101-1200.md#francis-meretzki26a-theory-statistics) · Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models
 - [低噪声控制正则退化](../conferences/icml-2026/cards/4201-4300.md#stein26a-theory-statistics) · Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences
+- [hybrid-quotient-latent-flow](../conferences/icml-2026/cards/4401-4500.md#teng26a-theory-statistics) · Embedding Hybrid Systems into Continuous Latent Vector Fields
+- [noise-class-specific-kernel-bounds](../conferences/icml-2026/cards/4401-4500.md#teutsch26a-theory-statistics) · On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise
 
 <a id="by-multimodal"></a>
 
@@ -549,6 +551,7 @@
 - [全谱区分随机噪声与异质性](../conferences/icml-2026/cards/4301-4400.md#takezawa26a-theory-statistics) · Improved Convergence Analysis of Topology Dependence in Decentralized SGD
 - [核回归的不惩罚子空间](../conferences/icml-2026/cards/4301-4400.md#takhanov26a-theory-statistics) · Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding
 - [comparison-gradient-direction](../conferences/icml-2026/cards/4401-4500.md#tao26g-theory-statistics) · Gradient Testing and Estimation by Comparisons
+- [bet-on-predictions-with-null-retraining](../conferences/icml-2026/cards/4401-4500.md#tenzer26a-theory-statistics) · Semi-Supervised Hypothesis Testing by Betting on Predictions
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -602,4 +605,5 @@
 - [空间物理学习的函数空间外推](../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · Interpretability and Generalization Bounds for Learning Spatial Physics
 - [用每个强连通分量一次的干预恢复线性随机动力学](../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State
 - [symmetry-identifiability](../conferences/icml-2026/cards/4301-4400.md#tahmasebi26a-theory-statistics) · Adaptive Symmetry Discovery for Dynamical System Identification
+- [supervision-curvature-compatibility](../conferences/icml-2026/cards/4401-4500.md#tepakbong26a-theory-statistics) · Taming the Loss Landscape of PINNs with Noisy Feynman–Kac Supervision: Operator Preconditioning and Non-Asymptotic Error Bounds
 <!-- classification:end -->

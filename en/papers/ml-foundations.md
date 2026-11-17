@@ -681,6 +681,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="soares26a-evaluation"></a>[Scalable and Interpretable Representation Alignment with Ordinal Similarity](../../conferences/icml-2026/cards/4101-4200.md#paper-soares26a)
 - <a id="stevinson26a-evaluation"></a>[Adversarial Vulnerability from Interference Between Features in Superposition](../../conferences/icml-2026/cards/4201-4300.md#paper-stevinson26a)
 - <a id="taheri26b-evaluation"></a>[Probabilistic Robustness Certificates against Adversarial Attacks](../../conferences/icml-2026/cards/4301-4400.md#paper-taheri26b)
+- <a id="thaker26a-evaluation"></a>[Membership Inference Attacks for Unseen Classes](../../conferences/icml-2026/cards/4401-4500.md#paper-thaker26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1052,4 +1053,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="takezawa26a-theory-statistics"></a>[Improved Convergence Analysis of Topology Dependence in Decentralized SGD](../../conferences/icml-2026/cards/4301-4400.md#paper-takezawa26a)
 - <a id="takhanov26a-theory-statistics"></a>[Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding](../../conferences/icml-2026/cards/4301-4400.md#paper-takhanov26a)
 - <a id="tao26g-theory-statistics"></a>[Gradient Testing and Estimation by Comparisons](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26g)
+- <a id="tenzer26a-theory-statistics"></a>[Semi-Supervised Hypothesis Testing by Betting on Predictions](../../conferences/icml-2026/cards/4401-4500.md#paper-tenzer26a)
 <!-- classification:end -->

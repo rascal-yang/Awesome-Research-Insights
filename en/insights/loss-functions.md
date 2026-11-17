@@ -80,6 +80,7 @@ Objectives, auxiliary supervision, and regularization.
 - [3DPoV: Improving 3D understanding via Patch Ordering on Videos](../../conferences/icml-2026/cards/4101-4200.md#simion26a-loss-functions) · 中文
 - [PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection](../../conferences/icml-2026/cards/4201-4300.md#su26b-loss-functions) · 中文
 - [Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology](../../conferences/icml-2026/cards/4301-4400.md#sun26ai-loss-functions) · 中文
+- [Unpaired Visual Editing with Self-Consistent Flow Matching](../../conferences/icml-2026/cards/4401-4500.md#tewel26a-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

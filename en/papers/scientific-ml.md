@@ -448,4 +448,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="queiruga26a-theory-statistics"></a>[Interpretability and Generalization Bounds for Learning Spatial Physics](../../conferences/icml-2026/cards/3701-3800.md#paper-queiruga26a)
 - <a id="salehkaleybar26a-theory-statistics"></a>[One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../../conferences/icml-2026/cards/3901-4000.md#paper-salehkaleybar26a)
 - <a id="tahmasebi26a-theory-statistics"></a>[Adaptive Symmetry Discovery for Dynamical System Identification](../../conferences/icml-2026/cards/4301-4400.md#paper-tahmasebi26a)
+- <a id="tepakbong26a-theory-statistics"></a>[Taming the Loss Landscape of PINNs with Noisy Feynman–Kac Supervision: Operator Preconditioning and Non-Asymptotic Error Bounds](../../conferences/icml-2026/cards/4401-4500.md#paper-tepakbong26a)
 <!-- classification:end -->

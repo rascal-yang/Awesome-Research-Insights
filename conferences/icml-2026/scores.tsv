@@ -4408,26 +4408,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4407	tao26f	4	4	4	4	80		新增量/复用/使用/独特性依次评分；可用随机配对Value向量距离总和的倒数作为辅助损失：表示拥挤时排斥较强，分离后自动减弱，促进所测符号任务的grokking。 方法及对照见原文PDF第3–8页；理论径向/角向分解为局部更新分析，不能证明所有grokking根因；实验小型符号/语言任务，未证实大模型或机器人泛化；α需调，零距离数值处理需查实现。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26f/tao26f.pdf	scored
 4408	tao26g	4	3	3	4	70		4/3/3/4：随机参考方向及按坐标能量自适应二分有独立理论增量（PDF第5–7页），复用限精确比较/L光滑/已知非零梯度下界。仅保留方向估计，不采信未经核验O(1)测试；PDF第6页Alg3第17行重复下界笔误，证明写正确中点，实现需校正且未运行复现。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26g/tao26g.pdf	scored
 4409	tao26h	4	4	3	4	76		新增量/复用/使用/独特性依次评分；可用辅助完整张量把CP低秩因子与扩散数据先验分块，令因子保持共轭更新，扩散块接受低秩重构作去噪条件。 方法及对照见原文PDF第3–8页；固定ρ下目标已平滑有偏；神经去噪近似另加偏；τρ²=c随τ改变目标，不能称整个自适应链精确固定后验Gibbs；OOD仅三图；先验有域依赖与采样成本。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26h/tao26h.pdf	scored
-4410	tarale26a							待原文复核评分	pending
-4411	taranovic26a							待原文复核评分	pending
-4412	tarasov26a							待原文复核评分	pending
-4413	tastan26a							待原文复核评分	pending
-4414	taufeeque26a							待原文复核评分	pending
-4415	tayebati26a							待原文复核评分	pending
-4416	tedoldi26a							待原文复核评分	pending
-4417	teiletche26a							待原文复核评分	pending
-4418	tekin26a							待原文复核评分	pending
-4419	teneggi26a							待原文复核评分	pending
-4420	teng26a							待原文复核评分	pending
-4421	teng26b							待原文复核评分	pending
-4422	tenzer26a							待原文复核评分	pending
-4423	tepakbong26a							待原文复核评分	pending
-4424	teutsch26a							待原文复核评分	pending
-4425	tewel26a							待原文复核评分	pending
-4426	tewolde26a							待原文复核评分	pending
-4427	teymourian26a							待原文复核评分	pending
-4428	thaker26a							待原文复核评分	pending
-4429	thaman26a							待原文复核评分	pending
+4410	tarale26a	4	4	5	4	84		新增量/复用/可用/独特性依次4/4/5/4：惯性流应按动作结构切词：高通后逐轴加速度零交叉界定变长片段，同时保留真实时长和时间；等容量、等目标、近似等时间分辨率的均匀分块明显降低跨被试迁移。 适用边界：只验证腕部加速度与脚本化/半自然活动；其他身体位置、机器人闭环和自由生活迁移未验证；姿态信息仅下游补回，人口统计偏差可能保留。（PDF第4,5,6,7,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tarale26a/tarale26a.pdf	scored
+4411	taranovic26a	4	5	5	4	90		新增量/复用/可用/独特性依次4/5/5/4：偏好只约束片段总质量时，应把片段优势指数权重共享给其中动作，而非把欠定逐步优势当可靠信用；混合好坏动作的片段则是明确失效边界。 适用边界：行为质量需时间相关；同段好坏动作混合时逐步权重可能更适合。有效样本比例仍需选择；主要oracle，真人仅两任务各10标注者、50比较；仅仿真。（PDF第3,4,6,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taranovic26a/taranovic26a.pdf	scored
+4412	tarasov26a	5	5	4	5	96		新增量/复用/可用/独特性依次5/5/4/5：软提示压缩不能只验重建：逐token完美恢复仍会破坏原前缀的下游能力；早层注意力干预可定位因果影响，注意力质量大的后层并非关键原因。 适用边界：基础与收敛子集分母不同；能力检验保留原前缀，证明干扰而非可替代语义压缩。每例共同训练W,b,z不限制最终e的可达维度，仅改变优化几何；PCA轨迹低维不是解空间或存储容量证明。（PDF第3,4,5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tarasov26a/tarasov26a.pdf	scored
+4413	tastan26a	3	4	3	3	66		新增量/复用/可用/独特性依次3/4/3/3：稀疏路由之外可按路由置信度分配每个专家的内部宽度，并只校准少量宽度映射参数；实际FLOPs曲线优于统一宽度，但需分别核算训练与部署开销。 适用边界：每步双遍，训练预算不等于单遍MoE；Eq10分配经Eq11裁剪/离散后总和未必等Γ，须用实测FLOPs；离散宽度的γ求导实现主文未充分说明；非硬预算或端侧时延保证。（PDF第3,4,5,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tastan26a/tastan26a.pdf	scored
+4414	taufeeque26a	4	5	4	4	86		新增量/复用/可用/独特性依次4/5/4/4：监测探针失效需把同一输出分别放回原模型与训练后模型：这能区分表征漂移和输出分布改变；标准策略梯度与对探针直接反传的风险不能混为一谈。 适用边界：隐藏测试差距只是行为代理，普通错误也可能被归类；长度惩罚明确加强捷径激励，不能称完全自然环境。策略梯度不穿过奖励不代表无间接表征变化；KL依赖初始参考，较大α可使小模型退化；不推断意图。（PDF第3,4,5,7,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/taufeeque26a/taufeeque26a.pdf	scored
+4415	tayebati26a	3	4	4	3	70		新增量/复用/可用/独特性依次3/4/4/3：对稀疏关键失效，用逐步风险通道最大值再聚合尾部，比平均置信度更能保留局部尖峰；代理风险需另校准，不能直接当真实失败概率。 适用边界：风险上界要求λ_t≤c r_t及尾稀疏等额外条件，非无条件校准保证；余弦距离可反映合理动作/结果差异，logprobs与嵌入有成本；数字过滤会遗漏数值错误；未验证机器人闭环。（PDF第3,4,5,7,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tayebati26a/tayebati26a.pdf	scored
+4416	tedoldi26a							只审查普通流模型数学及对称性：PDF3页Eq2–8与附录PDF21–22页把共享x复制成独立坐标后用块对角行列式，未给出共享坐标一致性，故一般联合流分解保证不足以指导可复用技术选择。可核实的剩余做法是独立pair训练及已有等变/图注意力组合，未在所检通用证据中分离出超出这些既有构件的独立新机制；不依据生物领域或任务性能排除，不提取设计优化细节。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tedoldi26a/tedoldi26a.pdf	rule-excluded
+4417	teiletche26a	4	5	4	4	86		新增量/复用/可用/独特性依次4/5/4/4：视觉检索的双向注意力收益依赖聚合方式：单向量差异小，多向量late interaction差异大，后期去因果掩码无法自动补回原生编码器效果。 适用边界：规律依赖所测数据/模型规模，不能推广全部VLM；自然图像任务反可退步；最终模型含多项数据与分辨率改变，不把全部收益归因mask；CPU测试2TB RAM，时延是查询编码而非全检索。（PDF第5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/teiletche26a/teiletche26a.pdf	scored
+4418	tekin26a							已核对同作者LLM-TOPLA（EMNLP2024 PDF5页Eq10，https://aclanthology.org/2024.findings-emnlp.698.pdf#page=5）：focal diversity公式和逐成员失败子集步骤均已存在。剩余PDF4–6、附录PDF19–20是分支Bernoulli、MAPPO共享critic、分阶段warm-start与周期在线更新的常规集成；PDF17漂移实验将可见真值在线更新系统对比仅在BBH训好的固定MLP，未控制同预算在线监督学习/其他在线优化，不能独立归因新的适应规律。表2–3成本与分数提升不足以单独构成新增可复用Insight，故排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tekin26a/tekin26a.pdf	rule-excluded
+4419	teneggi26a							可带走的通用选择是结构化工具接口、错误反馈与有限历史，但主文§2及PDF3–4、6–7、9页的环境对prompt-only消融仅支持专用软件封装必要性；未分离出超过普通agent工具环境集成的独立通用神经机制。领域与任务分数不构成排除依据；仅审查非操作性接口证据。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/teneggi26a/teneggi26a.pdf	rule-excluded
+4420	teng26a	4	5	4	4	86		新增量/复用/可用/独特性依次4/5/4/4：带重置的混合动力学可在高维商空间中学习连续向量场；实践中状态和潜在轨迹双一致性比额外速度匹配更关键，但存在性不保证训练找到解。 适用边界：定理要求紧致、光滑guard、可微同胚reset、横穿与非瞬时重复条件及m>2n；嵌入是商空间MH而非原状态M。相同z对应不同重置状态，单连续decoder不能精确恢复两支；理论不保证神经训练或全环境Lipschitz；实验m=2n不由该充分界覆盖。（PDF第3,4,5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/teng26a/teng26a.pdf	scored
+4421	teng26b	3	4	3	3	66		新增量/复用/可用/独特性依次3/4/3/3：复用分块KV时，应在最终解码的全局位置几何下给重计算token打分；重排只用于可交换独立块，不能把prompt注意力代理称为因果信息量。 适用边界：未重算hidden states仍无跨块信息；需要正确重相位缓存keys而非仅改位置元数据，详实现在附录F。p5将绝对位置称高/低频区域不严谨，RoPE频率由维度决定；不采纳该解释。未预缓存时单卡prefill开销不能自动摊薄；不可重排单篇顺序文档。（PDF第3,4,5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/teng26b/teng26b.pdf	scored
+4422	tenzer26a	4	4	4	4	80		新增量/复用/可用/独特性依次4/4/4/4：顺序模型评估可把证据押在预测标签上，但每份零假设模拟数据必须重新拟合预测器；交换性而非预测准确率提供有效性，零分布误设与功效需另判。 适用边界：需能从零假设抽样且每批/模拟重新拟合；近似零分布会按联合分布TV误差膨胀I类错误。label shift要求X|Y固定；concept shift要求PX固定。单调K功效定理仅方向性备择，不能称任意变化均有功效。（PDF第3,4,5,6,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tenzer26a/tenzer26a.pdf	scored
+4423	tepakbong26a	4	4	3	4	76		新增量/复用/可用/独特性依次4/4/3/4：给PINN加点监督的价值不只来自更准标签：监督曲率覆盖物理损失的病态方向时可稳定局部条件数；固定稀疏监督同时带来不可消失的统计误差项。 适用边界：局部PL邻域、插值、固定权重和监督盲方向良态是强前提；不是任意监督/全局优化保证。实践自适应权重不被固定权重理论直接覆盖；NFK固定时误差界不能随物理采样无限下降；Monte Carlo生成成本另计。（PDF第3,4,5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tepakbong26a/tepakbong26a.pdf	scored
+4424	teutsch26a	4	5	4	4	86		新增量/复用/可用/独特性依次4/5/4/4：核回归安全裕量应按已知噪声类别分开建模探索误差与噪声传播；只有方差信息的界可随数据变保守，不能把有效置信界等同有用控制器。 适用边界：需正确核、已知RKHS范数上界B、紧域/Hölder核、已知零均值与噪声参数；覆盖数有维数成本。相关噪声扩展Prop3.3限联合次高斯proxy C_t，不能推广任意相关重尾噪声；平方损失本身不因置信界而抗离群。（PDF第2,3,4,6,7,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/teutsch26a/teutsch26a.pdf	scored
+4425	tewel26a	4	5	4	4	86		新增量/复用/可用/独特性依次4/5/4/4：循环编辑训练可前向条件于EMA多步干净图，反向经单步预测传梯度；这个straight-through路由改善保真，却以编辑强度为代价，不能称同时无条件改进。 适用边界：继承基础生成模型知识；caption遗漏对象不提供明确删除信号，文本/删除弱。无路由反而编辑更强，体现权衡；EMA多步采样增训练成本；视频人工best-of4且仅238票，不等于随机单样本胜率。（PDF第3,4,5,7,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tewel26a/tewel26a.pdf	scored
+4426	tewolde26a	4	4	4	4	80		新增量/复用/可用/独特性依次4/4/4/4：多智能体合作机制不能只凭均衡存在选型：换对手后的声誉远弱于固定对手重复，契约/调解更有效；均衡可实现不保证实际LLM选择合作。 适用边界：数值是归一化payoff非合作率；replicator改变人口比例不是模型学会新策略。主设置δ0.8/历史3轮，参数消融限Prisoners；契约需可执行转移，调解需可信委托；定理只存在好均衡且仍可有坏均衡。（PDF第4,5,6,7,8,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tewolde26a/tewolde26a.pdf	scored
+4427	teymourian26a	4	5	4	4	86		新增量/复用/可用/独特性依次4/5/4/4：快速鲁棒训练可复用生成扰动与权重更新时已有的输入梯度对齐，监控局部曲率失真并调下一批步长；单步鲁棒准确率上升可能同时掩盖多步鲁棒崩溃。 适用边界：PGD-10消融不等于AutoAttack主表；步长使用滞后一批且模型已更新，理论二阶近似不提供跨批全局保证；CIFAR多数批次达上限，不能把所有数据上的收益归为曲率适应。（PDF第3,4,5,6,7,9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/teymourian26a/teymourian26a.pdf	scored
+4428	thaker26a	4	4	4	4	80		新增量/复用/可用/独特性依次4/4/4/4：防御性隐私审计须评估审计训练缺类：影子模型的真类置信参照会失效；分位数校准可较稳，但低绝对TPR与强分布转移前提不可隐去。 适用边界：小类别验证集1000例不足支持0.1%FPR主比较；理论须精确最小化总体pinball及Q/P联合特征密度比线性可表，非任意OOD；二维PCA高斯拟合仅近似佐证，不能验证高维假设；DP显著降低信号。（PDF第4,5,6,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/thaker26a/thaker26a.pdf	scored
+4429	thaman26a							可复用候选是环境硬化与任务难度诱发捷径规律，但PDF5–6所述40独立实例/35chain与表2–5精细率、CI缺少可重构分母；全附录PDF12–18未补齐。PDF8长度5跳变同时切换隐藏验证，难独立识别长度规律；附录PDF16的trace为合成重构，不能作意图证据。剩余日志、隔离、隐藏重算是普通评测工程，缺少可核实的独立新机制；不是仅因质量问题或非机器人任务排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/thaman26a/thaman26a.pdf	rule-excluded
 4430	theodoropoulos26a							待原文复核评分	pending
 4431	therien26a							待原文复核评分	pending
 4432	thiede26a							待原文复核评分	pending

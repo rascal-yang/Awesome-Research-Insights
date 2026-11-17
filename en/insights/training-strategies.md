@@ -203,6 +203,7 @@ Training schedules, curricula, and task or stage composition.
 - [OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection](../../conferences/icml-2026/cards/4201-4300.md#su26h-training-strategies) · 中文
 - [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](../../conferences/icml-2026/cards/4301-4400.md#sun26az-training-strategies) · 中文
 - [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#tan26b-training-strategies) · 中文
+- [SORA: Free Second-Order Attacks in Fast Adversarial Training](../../conferences/icml-2026/cards/4401-4500.md#teymourian26a-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

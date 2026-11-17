@@ -311,6 +311,10 @@
 - [自奖励的耦合与过奖励偏差](../conferences/icml-2026/cards/4301-4400.md#tan26g-evaluation) · Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL
 - [oracle-sampler-audit](../conferences/icml-2026/cards/4301-4400.md#tang26ad-evaluation) · Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models
 - [global-removal-failure](../conferences/icml-2026/cards/4301-4400.md#tang26ah-evaluation) · Do Language Models Track Entities Across State Changes?
+- [reconstruction-is-not-semantic-compression](../conferences/icml-2026/cards/4401-4500.md#tarasov26a-evaluation) · Progressive Cramming: Reliable Token Compression and What It Reveals
+- [separate-probe-drift-from-policy-change](../conferences/icml-2026/cards/4401-4500.md#taufeeque26a-evaluation) · The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes
+- [tail-risk-agent-monitoring](../conferences/icml-2026/cards/4401-4500.md#tayebati26a-evaluation) · TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning
+- [cooperation-mechanisms-under-crossplay](../conferences/icml-2026/cards/4401-4500.md#tewolde26a-evaluation) · CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas
 
 <a id="by-computer-vision"></a>
 
@@ -507,6 +511,7 @@
 - [换图检验视觉复查](../conferences/icml-2026/cards/4101-4200.md#shi26ad-evaluation) · Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination
 - [知识轻视觉推理与计算收益](../conferences/icml-2026/cards/4201-4300.md#song26s-evaluation) · VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge
 - [privacy-perception-reasoning-audit](../conferences/icml-2026/cards/4201-4300.md#sun26t-evaluation) · MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models
+- [bidirectionality-late-interaction-synergy](../conferences/icml-2026/cards/4401-4500.md#teiletche26a-evaluation) · ModernVBERT: Towards Smaller Visual Document Retrievers
 
 <a id="by-ml-foundations"></a>
 
@@ -563,6 +568,7 @@
 - [序关系表征对齐](../conferences/icml-2026/cards/4101-4200.md#soares26a-evaluation) · Scalable and Interpretable Representation Alignment with Ordinal Similarity
 - [表征压缩干扰与鲁棒性](../conferences/icml-2026/cards/4201-4300.md#stevinson26a-evaluation) · Adversarial Vulnerability from Interference Between Features in Superposition
 - [stochastic-training-barrier-validation](../conferences/icml-2026/cards/4301-4400.md#taheri26b-evaluation) · Probabilistic Robustness Certificates against Adversarial Attacks
+- [unseen-class-privacy-auditing](../conferences/icml-2026/cards/4401-4500.md#thaker26a-evaluation) · Membership Inference Attacks for Unseen Classes
 
 <a id="by-graph-and-recommendation"></a>
 

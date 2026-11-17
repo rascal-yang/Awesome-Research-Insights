@@ -311,6 +311,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL](../../conferences/icml-2026/cards/4301-4400.md#tan26g-evaluation) · 中文
 - [Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#tang26ad-evaluation) · 中文
 - [Do Language Models Track Entities Across State Changes?](../../conferences/icml-2026/cards/4301-4400.md#tang26ah-evaluation) · 中文
+- [Progressive Cramming: Reliable Token Compression and What It Reveals](../../conferences/icml-2026/cards/4401-4500.md#tarasov26a-evaluation) · 中文
+- [The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](../../conferences/icml-2026/cards/4401-4500.md#taufeeque26a-evaluation) · 中文
+- [TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning](../../conferences/icml-2026/cards/4401-4500.md#tayebati26a-evaluation) · 中文
+- [CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas](../../conferences/icml-2026/cards/4401-4500.md#tewolde26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -507,6 +511,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](../../conferences/icml-2026/cards/4101-4200.md#shi26ad-evaluation) · 中文
 - [VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge](../../conferences/icml-2026/cards/4201-4300.md#song26s-evaluation) · 中文
 - [MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26t-evaluation) · 中文
+- [ModernVBERT: Towards Smaller Visual Document Retrievers](../../conferences/icml-2026/cards/4401-4500.md#teiletche26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -563,6 +568,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Scalable and Interpretable Representation Alignment with Ordinal Similarity](../../conferences/icml-2026/cards/4101-4200.md#soares26a-evaluation) · 中文
 - [Adversarial Vulnerability from Interference Between Features in Superposition](../../conferences/icml-2026/cards/4201-4300.md#stevinson26a-evaluation) · 中文
 - [Probabilistic Robustness Certificates against Adversarial Attacks](../../conferences/icml-2026/cards/4301-4400.md#taheri26b-evaluation) · 中文
+- [Membership Inference Attacks for Unseen Classes](../../conferences/icml-2026/cards/4401-4500.md#thaker26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

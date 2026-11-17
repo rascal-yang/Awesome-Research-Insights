@@ -146,6 +146,7 @@
 - <a id="simion26a-loss-functions"></a>[3DPoV: Improving 3D understanding via Patch Ordering on Videos](../conferences/icml-2026/cards/4101-4200.md#paper-simion26a)
 - <a id="su26b-loss-functions"></a>[PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection](../conferences/icml-2026/cards/4201-4300.md#paper-su26b)
 - <a id="sun26ai-loss-functions"></a>[Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ai)
+- <a id="tewel26a-loss-functions"></a>[Unpaired Visual Editing with Self-Consistent Flow Matching](../conferences/icml-2026/cards/4401-4500.md#paper-tewel26a)
 
 <a id="by-optimization"></a>
 
@@ -268,6 +269,7 @@
 - <a id="su26h-training-strategies"></a>[OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection](../conferences/icml-2026/cards/4201-4300.md#paper-su26h)
 - <a id="sun26az-training-strategies"></a>[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](../conferences/icml-2026/cards/4301-4400.md#paper-sun26az)
 - <a id="tan26b-training-strategies"></a>[VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tan26b)
+- <a id="teymourian26a-training-strategies"></a>[SORA: Free Second-Order Attacks in Fast Adversarial Training](../conferences/icml-2026/cards/4401-4500.md#paper-teymourian26a)
 
 <a id="by-data-strategies"></a>
 

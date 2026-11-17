@@ -98,6 +98,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="simsir26a-reinforcement-learning"></a>[Lagrangian Perturbation Diffusion Steering: Latent Reinforcement Learning for Generative Policies](../../conferences/icml-2026/cards/4101-4200.md#paper-simsir26a)
 - <a id="sun26n-reinforcement-learning"></a>[Uncertainty-Guided Exploration and Stable Planning for Sparse-Reward Manipulation from Limited Demonstrations](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26n)
 - <a id="tang26o-reinforcement-learning"></a>[ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26o)
+- <a id="taranovic26a-reinforcement-learning"></a>[PAWS: Preference Learning with Advantage-Weighted Segments](../../conferences/icml-2026/cards/4401-4500.md#paper-taranovic26a)
 
 <a id="by-training-strategies"></a>
 
@@ -190,6 +191,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="lyu26b-representation-learning"></a>[LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26b)
 - <a id="nam26c-representation-learning"></a>[Causal-JEPA: Learning World Models through Object-Level Latent Masking](../../conferences/icml-2026/cards/3401-3500.md#paper-nam26c)
 - <a id="su26c-representation-learning"></a>[World Guidance: World Modeling in Condition Space for Action Generation](../../conferences/icml-2026/cards/4201-4300.md#paper-su26c)
+- <a id="tarale26a-representation-learning"></a>[Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data](../../conferences/icml-2026/cards/4401-4500.md#paper-tarale26a)
 
 <a id="by-evaluation"></a>
 
@@ -215,4 +217,6 @@ Robot perception, policy learning, planning, and control.
 
 - <a id="francis-meretzki26a-theory-statistics"></a>[Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](../../conferences/icml-2026/cards/1101-1200.md#paper-francis-meretzki26a)
 - <a id="stein26a-theory-statistics"></a>[Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences](../../conferences/icml-2026/cards/4201-4300.md#paper-stein26a)
+- <a id="teng26a-theory-statistics"></a>[Embedding Hybrid Systems into Continuous Latent Vector Fields](../../conferences/icml-2026/cards/4401-4500.md#paper-teng26a)
+- <a id="teutsch26a-theory-statistics"></a>[On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise](../../conferences/icml-2026/cards/4401-4500.md#paper-teutsch26a)
 <!-- classification:end -->
