@@ -14,6 +14,16 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="arriola26a-architecture"></a>[Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding](https://proceedings.mlr.press/v306/arriola26a.html) | 离散扩散解码 | 按位置和长度可变的 token 集合因子化似然，用集合因果结构在每步更新 KV 缓存，从而支持滑窗和自选顺序解码。 |
+| <a id="bui26b-architecture"></a>[HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](https://proceedings.mlr.press/v306/bui26b.html) | 长任务 Agent 协作 | 调度器先分配子任务资源，再让执行器并行规划；共享约束经事务检查，无法满足子目标时执行器可拒绝并触发重规划。 |
+
+<a id="by-modules"></a>
+
+### 模块
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="bonnet26a-modules"></a>[Learning to Remember, Learn, and Forget in Attention-Based Models](https://proceedings.mlr.press/v306/bonnet26a.html) | 线性注意力记忆 | 为每个注意力状态维护重要性，用它调节状态可塑性，使固定容量记忆根据此前积累的知识决定可更新程度。 |
+| <a id="byun26a-modules"></a>[Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models](https://proceedings.mlr.press/v306/byun26a.html) | 归一化替换 | 把 tanh 输入约束在非饱和区间来控制深层激活增长，每个块只计算一次精确统计量，另一处用轻量的方差估计替代。 |
 
 <a id="by-loss-functions"></a>
 
@@ -31,6 +41,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="abbasi26a-optimization"></a>[Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](https://proceedings.mlr.press/v306/abbasi26a.html) | 模型压缩 | 在全模型固定参数预算下，用校准损失的一阶估计决定跨层删哪些奇异成分。 |
+| <a id="cai26a-optimization"></a>[AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](https://proceedings.mlr.press/v306/cai26a.html) | 低显存零阶微调 | 在只需前向计算的零阶微调中引入 Adam 式一阶和二阶矩估计，同时省去持久化矩状态，以少量显存获得更快收敛。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -48,6 +59,9 @@
 | <a id="bamba26b-reinforcement-learning"></a>[XRPO: Pushing the Limits of GRPO with Targeted Exploration and Exploitation](https://proceedings.mlr.press/v306/bamba26b.html) | GRPO 探索 | 将 rollout 分给预期能减少更多不确定性的提示，对零奖励题注入示例启动探索，再提升低概率正确解的组内优势。 |
 | <a id="bi26a-reinforcement-learning"></a>[EchoRL: Reinforcement Learning via Rollout Echoing](https://proceedings.mlr.press/v306/bi26a.html) | 可验证奖励强化学习 | 即使一组 rollout 全部正确、相对优势为零，也能按步骤熵抽取关键片段，并将其回灌为辅助监督。 |
 | <a id="bi26c-reinforcement-learning"></a>[Reward and Guidance through Rubrics: Promoting Exploration to Improve Multi-Domain Reasoning](https://proceedings.mlr.press/v306/bi26c.html) | 多领域推理强化学习 | 同一套评分细则可以同时提供在线 rollout 的细粒度奖励和离线探索指引，降低只依赖结果验证时的搜索局限。 |
+| <a id="cai26b-reinforcement-learning"></a>[From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory](https://proceedings.mlr.press/v306/cai26b.html) | Agent 测试时记忆 | 冻结执行任务的 LLM，把每轮记忆更新作为另一个可训练策略。用逐轮奖励和跨轨迹的同轮相对优势给长期收益分配信用。 |
+| <a id="cai26c-reinforcement-learning"></a>[Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization](https://proceedings.mlr.press/v306/cai26c.html) | 策略更新几何 | 按策略黎曼流形的距离调整更新，缓解欧式裁剪在低概率区域更新过保守、高概率区域更新过激的现象。 |
+| <a id="cai26k-reinforcement-learning"></a>[Escaping the Verifier: Learning to Reason via Demonstrations](https://proceedings.mlr.press/v306/cai26k.html) | 示范驱动的逆强化学习 | 让相对判别器从专家答案与策略答案的成对比较中学奖励，同时用该奖励更新生成策略，可在缺少任务验证器时使用专家示范训练推理。 |
 
 <a id="by-training-strategies"></a>
 
@@ -64,6 +78,9 @@
 | <a id="berthon26a-training-strategies"></a>[Skill Neologisms: Towards Skill-based Continual Learning](https://proceedings.mlr.press/v306/berthon26a.html) | 技能持续学习 | 为新技能各训练一个软词表 token，固定主模型权重。独立训练的技能 token 在实验中可直接组合处理新任务。 |
 | <a id="bian26b-training-strategies"></a>[Future-Gain Guided Test-Time Learning for Large Language Models](https://proceedings.mlr.press/v306/bian26b.html) | 测试时语言模型学习 | 只用能降低后续生成不确定性的 token 更新模型，并按增益和置信度控制步幅，减少前序解码错误被自训练放大的风险。 |
 | <a id="bick26a-training-strategies"></a>[Retrieval-Aware Distillation for Transformer-SSM Hybrids](https://proceedings.mlr.press/v306/bick26a.html) | Transformer 到 SSM 蒸馏 | 先用检索任务消融找出必要的注意力头，只保留这部分头并蒸馏其余模块。检索由稀疏注意力承担后，也可以缩小循环状态。 |
+| <a id="borodin26a-training-strategies"></a>[Diffract: Spectral View of LLM Domain Adaptation](https://proceedings.mlr.press/v306/borodin26a.html) | 持续预训练 | 领域适配主要改变权重的奇异向量，奇异值谱变化较小。按领域给各注意力头评分，再把低分头恢复到基座状态，可减少无用更新。 |
+| <a id="bu26a-training-strategies"></a>[Provable Sample Efficiency of Curriculum Post-Training for Transformer Reasoning](https://proceedings.mlr.press/v306/bu26a.html) | 推理后训练课程 | 把推理任务排成逐渐加深的步骤，或逐渐撤掉提示。在论文的推理树假设下，这两种课程可把后训练样本复杂度从指数降到多项式。 |
+| <a id="bu26c-training-strategies"></a>[Scaling depth capacity via zero/one-layer model expansion](https://proceedings.mlr.press/v306/bu26c.html) | 渐进式模型训练 | 用较浅前缀训练并逐步扩层，通过新层初始化和学习率日程把已有模型的能力传到更深模型，减少昂贵的深层训练步数。 |
 
 <a id="by-data-strategies"></a>
 
@@ -78,6 +95,7 @@
 | <a id="azarbal26a-data-strategies"></a>[Recontextualization Mitigates Specification Gaming Without Modifying the Specification](https://proceedings.mlr.press/v306/azarbal26a.html) | 奖励投机 | 先在明确要求遵循预期行为的提示下生成训练回答，再把回答配回允许走捷径的提示，可在沿用原监督的情况下减少投机。 |
 | <a id="badertdinov26a-data-strategies"></a>[SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale](https://proceedings.mlr.press/v306/badertdinov26a.html) | 代码 Agent 训练数据 | 由设置 Agent 为真实仓库生成安装和测试流程，用容器固定执行环境，再以多评审筛掉描述不足或测试过严的训练任务。 |
 | <a id="behnia26a-data-strategies"></a>[Facts in Stats: Impacts of Pretraining Diversity on Language Model Generalization](https://proceedings.mlr.press/v306/behnia26a.html) | 事实预训练 | 在可控语料中，提高事实出现的上下文多样性会拖慢域内记忆，而多样性太低会损害部分域外泛化，合适的设置取决于预算。 |
+| <a id="bu26b-data-strategies"></a>[Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](https://proceedings.mlr.press/v306/bu26b.html) | GUI Agent 错误恢复 | 用树状搜索主动发现 Agent 自己可能造成的错误，并给各分支合成恢复步骤。可执行的错误用例也能单独衡量恢复能力。 |
 
 <a id="by-inference"></a>
 
@@ -96,6 +114,10 @@
 | <a id="berdoz26a-inference"></a>[Alignment-Aware Decoding](https://proceedings.mlr.press/v306/berdoz26a.html) | 偏好对齐解码 | 先按 DPO 模型概率排除过低概率 token，再用 DPO 相对 SFT 的逐 token 对数概率差选下一个 token，把隐式偏好用于推理。 |
 | <a id="bhatnagar26a-inference"></a>[STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control](https://proceedings.mlr.press/v306/bhatnagar26a.html) | KV 缓存压缩 | 用可微软阈值按层和头选秩，根据 Key 与 Value 的敏感性采用不同低秩分解，再在压缩后的缓存上选量化精度。 |
 | <a id="bilal26a-inference"></a>[What If We Allocate Test-Time Compute Adaptively?](https://proceedings.mlr.press/v306/bilal26a.html) | 推理预算分配 | 让过程奖励模型既在生成中指导剪枝和扩展，也在轮次间为完整轨迹打分，把计算集中到更有希望的解题路径上。 |
+| <a id="bose26a-inference"></a>[Cold-Start Personalization via Bayesian Adaptive Questioning](https://proceedings.mlr.press/v306/bose26a.html) | 冷启动个性化 | 离线先建模人群中偏好的相关性，在线用少量问答做贝叶斯更新，据此选择下一次澄清，从而复用已知的人群结构。 |
+| <a id="cai26i-inference"></a>[Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference](https://proceedings.mlr.press/v306/cai26i.html) | MoE 稀疏推理 | 后训练时细分专家，推理时按阈值跳过低贡献的 token–专家计算。双阈值与部分专家重构可以进一步调节精度和速度。 |
+| <a id="cao26d-inference"></a>[Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](https://proceedings.mlr.press/v306/cao26d.html) | 扩散语言模型解码 | 低置信度时，对多个解除掩码的顺序做短程束搜索；高置信度时一次并行提交多个位置，避免为容易的步骤一直支付搜索开销。 |
+| <a id="cao26q-inference"></a>[OSNIP: Balancing the Privacy-Utility-Efficiency Trilemma in LLM Inference via Obfuscated Semantic Null Space](https://proceedings.mlr.press/v306/cao26q.html) | LLM 推理隐私 | 在客户端用密钥控制的随机映射改变输入嵌入，使其与原嵌入近似正交，同时尽量保持任务语义，以降低论文所测攻击的恢复率。 |
 
 <a id="by-representation-learning"></a>
 
@@ -146,6 +168,10 @@
 | <a id="bhardwaj26a-evaluation"></a>[Embedding Trust: Semantic Isotropy Predicts Nonfactuality in Long-Form Text Generation](https://proceedings.mlr.press/v306/bhardwaj26a.html) | 长文本事实性诊断 | 给同一提示采样多个回答，用归一化文本嵌入的角度离散程度衡量语义一致性。更分散的回答在论文评测中更少保持事实一致。 |
 | <a id="bi26e-evaluation"></a>[The Geometry of Reasoning: Self-Evaluation via Layerwise Trajectory Evolution](https://proceedings.mlr.press/v306/bi26e.html) | 推理自评 | 跟踪隐藏表征逐层移动及转向来衡量推理进展，再按题目本身的难度校准，用于白盒判断推理是否可靠。 |
 | <a id="binkowski26a-evaluation"></a>[Attention Sinks as Internal Signals for Hallucination Detection in Large Language Models](https://proceedings.mlr.press/v306/binkowski26a.html) | 幻觉检测 | 生成时可用注意力汇聚到少数 token 的程度做幻觉检测。实验中，探针尤其依赖那些 Value 向量范数大的注意力汇聚点。 |
+| <a id="bohacek26a-evaluation"></a>[Uncovering Competency Gaps in Large Language Models and Their Benchmarks](https://proceedings.mlr.press/v306/bohacek26a.html) | 基准概念覆盖 | 用稀疏自编码器激活给测试题做概念级分解，分别查找模型表现差的概念与基准本身覆盖不足的概念。 |
+| <a id="boppana26a-evaluation"></a>[Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought](https://proceedings.mlr.press/v306/boppana26a.html) | 推理忠实性 | 对比隐藏激活探针、强制提前作答与思维链监控，可测到答案在内部已经可解码但尚未说出的阶段。用探针提前结束可节省生成。 |
+| <a id="bridgeford26a-evaluation"></a>[Detecting Perspective Shifts in Multi-Agent Systems](https://proceedings.mlr.press/v306/bridgeford26a.html) | 多 Agent 行为监控 | 把不同时间的 Agent 响应对齐到同一嵌入空间，再在单个或群体层面做假设检验，可监测黑盒策略的行为变化。 |
+| <a id="calderon26a-evaluation"></a>[Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](https://proceedings.mlr.press/v306/calderon26a.html) | 事实召回评测 | 对同一个事实收集多种问法和推理预算下的回答，区分完全没有召回证据的事实与只能在某些设定下召回的事实。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -156,4 +182,7 @@
 | <a id="azizian26a-theory-statistics"></a>[How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off](https://proceedings.mlr.press/v306/azizian26a.html) | 上下文学习与数据分布 | 预训练任务分布的重尾有利于偏移下选中合适任务，但论文框架也显示它会损害泛化，尤其在只有少量上下文示例时。 |
 | <a id="bakman26a-theory-statistics"></a>[Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment](https://proceedings.mlr.press/v306/bakman26a.html) | 模型更新后对齐 | 同样通过静态黑盒测试的模型，可能在一次良性梯度更新后呈现截然不同的行为。更新后的鲁棒性需要直接在更新场景中测量。 |
 | <a id="bigelow26a-theory-statistics"></a>[Belief Dynamics Reveal the Dual Nature of In-Context Learning and Activation Steering](https://proceedings.mlr.press/v306/bigelow26a.html) | 上下文与激活干预 | 把激活引导看成改变潜在概念先验，把上下文示例看成增加证据。两者的效应可在对数信念空间相加，用来预测组合后的行为变化。 |
+| <a id="blondel26a-theory-statistics"></a>[Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction](https://proceedings.mlr.press/v306/blondel26a.html) | 自回归与能量模型 | 用概率链式分解可将序列能量模型和自回归模型在函数空间一一对应。下一 token 的归一化隐含对未来续写的边际化，其形式等同一个软 Bellman 递推。 |
+| <a id="cagnetta26a-theory-statistics"></a>[Deriving Neural Scaling Laws from the Statistics of Natural Language](https://proceedings.mlr.press/v306/cagnetta26a.html) | 语言数据缩放律 | 用 token 两两相关性随间距的衰减和条件熵随上下文的衰减，预测数据受限时的缩放指数，并与 TinyStories 和 WikiText 上的曲线核对。 |
+| <a id="cai26p-theory-statistics"></a>[Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](https://proceedings.mlr.press/v306/cai26p.html) | 多候选偏好对齐 | 当用户从 k 个候选中选择时，训练对称多方偏好博弈可保留输出多样性，并在理论设定中达到 k/(k+1) 的最优偏好胜率界。 |
 <!-- classification:end -->

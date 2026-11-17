@@ -44,10 +44,17 @@ Aggregating rewards before group normalization can map different combinations to
 - [XRPO: Pushing the Limits of GRPO with Targeted Exploration and Exploitation](../../papers/llm.md#bamba26b-reinforcement-learning) · 中文
 - [EchoRL: Reinforcement Learning via Rollout Echoing](../../papers/llm.md#bi26a-reinforcement-learning) · 中文
 - [Reward and Guidance through Rubrics: Promoting Exploration to Improve Multi-Domain Reasoning](../../papers/llm.md#bi26c-reinforcement-learning) · 中文
+- [From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory](../../papers/llm.md#cai26b-reinforcement-learning) · 中文
+- [Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization](../../papers/llm.md#cai26c-reinforcement-learning) · 中文
+- [Escaping the Verifier: Learning to Reason via Demonstrations](../../papers/llm.md#cai26k-reinforcement-learning) · 中文
 
 ### Computer Vision
 
 - [Pareto-Guided Optimal Transport for Multi-Reward Alignment](../../papers/computer-vision.md#ba26a-reinforcement-learning) · 中文
+
+### Natural Language Processing
+
+- [Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](../../papers/nlp.md#bu26e-reinforcement-learning) · 中文
 
 ### Reinforcement Learning
 
@@ -64,11 +71,18 @@ Aggregating rewards before group normalization can map different combinations to
 - [MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference](../../papers/reinforcement-learning.md#baur26a-reinforcement-learning) · 中文
 - [CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](../../papers/reinforcement-learning.md#belouadah26a-reinforcement-learning) · 中文
 - [Noise-Guided Transport: Imitation Learning from Random Priors](../../papers/reinforcement-learning.md#blonde26a-reinforcement-learning) · 中文
+- [Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](../../papers/reinforcement-learning.md#bo26c-reinforcement-learning) · 中文
+- [Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](../../papers/reinforcement-learning.md#bui26a-reinforcement-learning) · 中文
+- [Direct Flow Q-Learning](../../papers/reinforcement-learning.md#cao26f-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
 
 - [Learning to Search and Searching to Learn for Generalization in Planning](../../papers/robotics.md#aichmuller26a-reinforcement-learning) · 中文
+
+### Multimodal Learning
+
+- [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](../../papers/multimodal.md#cao26m-reinforcement-learning) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -78,4 +92,5 @@ Aggregating rewards before group normalization can map different combinations to
 ### Scientific Machine Learning
 
 - [DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](../../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) · 中文
+- [Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](../../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · 中文
 <!-- classification:end -->

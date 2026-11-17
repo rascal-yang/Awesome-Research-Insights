@@ -25,6 +25,14 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) | [Read insight (中文)](../../papers/multimodal.md#barrios26a-modules) |
 
+<a id="by-reinforcement-learning"></a>
+
+### Reinforcement Learning Methods
+
+| Paper | Insight |
+| :--- | :--- |
+| [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](https://proceedings.mlr.press/v306/cao26m.html) | [Read insight (中文)](../../papers/multimodal.md#cao26m-reinforcement-learning) |
+
 <a id="by-training-strategies"></a>
 
 ### Training Strategies
@@ -33,6 +41,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning](https://proceedings.mlr.press/v306/alipour-talemi26a.html) | [Read insight (中文)](../../papers/multimodal.md#alipour-talemi26a-training-strategies) |
 | [TRACER: Persistent Regularization for Robust Multimodal Finetuning](https://proceedings.mlr.press/v306/asadollahzadeh26a.html) | [Read insight (中文)](../../papers/multimodal.md#asadollahzadeh26a-training-strategies) |
+| [Seeing to Generalize: How Visual Data Corrects Binding Shortcuts](https://proceedings.mlr.press/v306/buzeta26a.html) | [Read insight (中文)](../../papers/multimodal.md#buzeta26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -42,6 +51,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](https://proceedings.mlr.press/v306/acuna26a.html) | [Read insight (中文)](../../papers/multimodal.md#acuna26a-data-strategies) |
 | [PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://proceedings.mlr.press/v306/assouel26a.html) | [Read insight (中文)](../../papers/multimodal.md#assouel26a-data-strategies) |
+| [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://proceedings.mlr.press/v306/bo26b.html) | [Read insight (中文)](../../papers/multimodal.md#bo26b-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -64,4 +74,15 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Jailbreaking Vision-Language Models Through the Visual Modality](https://proceedings.mlr.press/v306/azulay26a.html) | [Read insight (中文)](../../papers/multimodal.md#azulay26a-evaluation) |
+| [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://proceedings.mlr.press/v306/borchmann26a.html) | [Read insight (中文)](../../papers/multimodal.md#borchmann26a-evaluation) |
+| [Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](https://proceedings.mlr.press/v306/bouguerra26a.html) | [Read insight (中文)](../../papers/multimodal.md#bouguerra26a-evaluation) |
+| [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](https://proceedings.mlr.press/v306/cao26i.html) | [Read insight (中文)](../../papers/multimodal.md#cao26i-evaluation) |
+
+<a id="by-theory-statistics"></a>
+
+### Theory and Statistics
+
+| Paper | Insight |
+| :--- | :--- |
+| [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](https://proceedings.mlr.press/v306/cai26o.html) | [Read insight (中文)](../../papers/multimodal.md#cai26o-theory-statistics) |
 <!-- classification:end -->

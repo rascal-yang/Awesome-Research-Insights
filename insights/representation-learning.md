@@ -14,6 +14,12 @@
 ### 计算机视觉
 
 - [新类别发现](../papers/computer-vision.md#bian26d-representation-learning) · CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery
+- [视频特征预测](../papers/computer-vision.md#boduljak26a-representation-learning) · VFMF: Dense Forecasting by Generating Vision Foundation Model Features
+- [类别增量学习](../papers/computer-vision.md#cao26h-representation-learning) · On the Power of Statistics in Class-Incremental Learning with Pretrained Models
+
+### 自然语言处理
+
+- [复杂表格理解](../papers/nlp.md#cao26p-representation-learning) · Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models
 
 ### 强化学习
 
@@ -26,10 +32,12 @@
 - [数据流形几何](../papers/ml-foundations.md#bamberger26a-representation-learning) · Riemannian Metric Matching for Scalable Geometric Modeling of Distributions
 - [中间层特征迁移](../papers/ml-foundations.md#batra26a-representation-learning) · Uncovering the Latent Potential of Deep Intermediate Representations
 - [单轮联邦学习](../papers/ml-foundations.md#berardini26a-representation-learning) · Distribution Alignment for One-Shot Federated Learning via Optimal Transport
+- [贝叶斯不确定性](../papers/ml-foundations.md#calvo-ordonez26a-representation-learning) · Richer Bayesian Last Layers with Subsampled NTK Features
 
 ### 图学习与推荐
 
 - [跨图对齐](../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) · Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication
+- [高阶关系表征](../papers/graph-and-recommendation.md#cai26f-representation-learning) · CONTEXTOR: Contextualized High-order Contrastive Learning
 
 ### 科学机器学习
 

@@ -10,6 +10,7 @@ Gradient updates, parameterization, and optimization dynamics.
 ### Large Language Models
 
 - [Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](../../papers/llm.md#abbasi26a-optimization) · 中文
+- [AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](../../papers/llm.md#cai26a-optimization) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -39,6 +40,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FedFit: Federated Dynamic Sparse Training via Fisher Information scoring](../../papers/ml-foundations.md#bi26b-optimization) · 中文
 - [Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers](../../papers/ml-foundations.md#blasingame26a-optimization) · 中文
 - [Batched First-Order Methods for Parallel LP Solving in MIP](../../papers/ml-foundations.md#blin26a-optimization) · 中文
+- [Variational inference via Gaussian interacting particles in the Bures-Wasserstein geometry](../../papers/ml-foundations.md#borghi26a-optimization) · 中文
+- [JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference](../../papers/ml-foundations.md#bracher26a-optimization) · 中文
+- [Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval](../../papers/ml-foundations.md#braun26a-optimization) · 中文
+- [Flatness-Aware Stochastic Gradient Langevin Dynamics](../../papers/ml-foundations.md#bruno26a-optimization) · 中文
+- [Fast Spectrally Sparse Signal Reconstruction via Jacobi-Preconditioned Gradient Descent](../../papers/ml-foundations.md#cai26j-optimization) · 中文
 
 ### Graph Learning and Recommendation
 

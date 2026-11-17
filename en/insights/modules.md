@@ -59,9 +59,17 @@ Teacher features can be low rank for each image while occupying different subspa
 <!-- classification:start -->
 ## Browse by Research Domain
 
+### Large Language Models
+
+- [Learning to Remember, Learn, and Forget in Attention-Based Models](../../papers/llm.md#bonnet26a-modules) · 中文
+- [Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models](../../papers/llm.md#byun26a-modules) · 中文
+
 ### Computer Vision
 
 - [FOVI: A biologically-inspired foveated interface for deep vision models](../../papers/computer-vision.md#blauch26a-modules) · 中文
+- [Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](../../papers/computer-vision.md#candogan26a-modules) · 中文
+- [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](../../papers/computer-vision.md#cao26j-modules) · 中文
+- [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](../../papers/computer-vision.md#cao26n-modules) · 中文
 - [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../insights/modules.md#widen-the-student-distillation-interface)
 
 ### Natural Language Processing
@@ -84,6 +92,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Efficient Continuous-Depth Modeling with GRU Equivalents](../../papers/ml-foundations.md#banerjee26b-modules) · 中文
 - [Memory Caching: RNNs with Growing Memory](../../papers/ml-foundations.md#behrouz26a-modules) · 中文
 - [ATLAS: Learning to Optimally Memorize the Context at Test Time](../../papers/ml-foundations.md#behrouz26b-modules) · 中文
+- [Time Series Forecasting Through the Lens of Dynamics](../../papers/ml-foundations.md#brachet26a-modules) · 中文
+- [Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications](../../papers/ml-foundations.md#brandoit26a-modules) · 中文
 
 ### Graph Learning and Recommendation
 

@@ -20,18 +20,30 @@
 - [偏好对齐解码](../papers/llm.md#berdoz26a-inference) · Alignment-Aware Decoding
 - [KV 缓存压缩](../papers/llm.md#bhatnagar26a-inference) · STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control
 - [推理预算分配](../papers/llm.md#bilal26a-inference) · What If We Allocate Test-Time Compute Adaptively?
+- [冷启动个性化](../papers/llm.md#bose26a-inference) · Cold-Start Personalization via Bayesian Adaptive Questioning
+- [MoE 稀疏推理](../papers/llm.md#cai26i-inference) · Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference
+- [扩散语言模型解码](../papers/llm.md#cao26d-inference) · Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models
+- [LLM 推理隐私](../papers/llm.md#cao26q-inference) · OSNIP: Balancing the Privacy-Utility-Efficiency Trilemma in LLM Inference via Obfuscated Semantic Null Space
 
 ### 计算机视觉
 
 - [扩散模型逻辑控制](../papers/computer-vision.md#alesiani26a-inference) · Logical Guidance for the Exact Composition of Diffusion Models
 - [图像隐写](../papers/computer-vision.md#bae26b-inference) · Training-Free Coverless Multi-Image Steganography with Access Control
 - [扩散逆问题](../papers/computer-vision.md#bang26a-inference) · Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules
+- [潜空间流匹配](../papers/computer-vision.md#briq26a-inference) · Exploring and Exploiting Stability in Latent Flow Matching
+- [无分类器引导](../papers/computer-vision.md#cai26g-inference) · Improving Classifier-Free Guidance of Flow Matching via Manifold Projection
+- [多实例图像到三维](../papers/computer-vision.md#cai26n-inference) · TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity
+- [低延迟图像压缩](../papers/computer-vision.md#cao26e-inference) · Efficient Learned Image Compression without Entropy Coding
 
 ### 自然语言处理
 
 - [排序与检索](../papers/nlp.md#agrawal26d-inference) · BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs
 - [文本水印](../papers/nlp.md#ai26b-inference) · PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks
 - [句子级水印](../papers/nlp.md#an26a-inference) · IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection
+
+### 强化学习
+
+- [强化学习提前退出](../papers/reinforcement-learning.md#brosseit26a-inference) · Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks
 
 ### 机器人学
 
@@ -64,4 +76,6 @@
 - [大气生成模型](../papers/scientific-ml.md#aich26a-inference) · WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling
 - [数据同化](../papers/scientific-ml.md#andrae26a-inference) · DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants
 - [函数空间逆问题](../papers/scientific-ml.md#baker26a-inference) · Supervised Guidance Training for Infinite-Dimensional Diffusion Models
+- [质谱到分子生成](../papers/scientific-ml.md#bohde26a-inference) · FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time
+- [蛋白结合物设计](../papers/scientific-ml.md#cao26c-inference) · Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
 <!-- classification:end -->

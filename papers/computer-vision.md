@@ -32,6 +32,9 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="blauch26a-modules"></a>[FOVI: A biologically-inspired foveated interface for deep vision models](https://proceedings.mlr.press/v306/blauch26a.html) | 主动视觉分辨率 | 在传感器坐标中保留中心高分辨率和周边低分辨率，再映射到均匀的处理流形做近邻卷积，减少全视野处理所需的像素与计算。 |
+| <a id="candogan26a-modules"></a>[Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](https://proceedings.mlr.press/v306/candogan26a.html) | 小型视觉 Transformer | 沿多条空间填充曲线扫描图像，把路径距离转成衰减掩码乘到注意力上，用很少的新参数注入空间邻近先验。 |
+| <a id="cao26j-modules"></a>[Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) | 分层三维语义分割 | 共享点云编码，临近输出再按层级拆分解码器，并引入粗到细一致性。基于点簇的对比自监督补充不平衡类别的特征。 |
+| <a id="cao26n-modules"></a>[LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | 轻量视频超分 | 冻结整个扩散 Transformer，用双流适配器分别读低清视频的静态结构和当前去噪状态，再按时间步调节结构对齐与纹理细化。 |
 | <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | 视觉特征蒸馏 | 给小型 ViT 的特征输出接口或最后一个 Transformer 块加宽，以匹配教师模型的编码空间。 [详细解读](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -41,6 +44,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bai26c-loss-functions"></a>[Threshold-Guided Optimization for Visual Generative Models](https://proceedings.mlr.press/v306/bai26c.html) | 视觉生成偏好对齐 | 用经验分数阈值把独立评分转成正负样本，并按离阈值的距离加权，使没有成对偏好的数据也能训练对齐。 |
+| <a id="bo26a-loss-functions"></a>[Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) | 密集小目标计数 | 用视觉语言模型生成伪分割掩码压制背景，再用对比损失分离果实与叶片表征。按边缘调整裁剪也可减少密集簇中的目标截断。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -57,6 +61,16 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bai26n-training-strategies"></a>[Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) | 少步生成蒸馏 | 当真实教师的引导失真、生成教师的排斥又不足时，用奖励代理识别异常区域，重新分配纠偏梯度并加强对坍缩模式的排斥。 |
+| <a id="cai26h-training-strategies"></a>[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | 长视频生成 | 用有限长视频监督全局流匹配头学习叙事与运动，再用冻结的短视频教师对滑窗局部做反向 KL 匹配，让长程一致性与局部质感各有监督。 |
+| <a id="cao26o-training-strategies"></a>[Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | 动态参数高效微调 | 定期重测视觉 Transformer 各处的敏感性，把学过的适配模块冻结，再将可训练参数额度分给新出现的敏感位置。 |
+
+<a id="by-data-strategies"></a>
+
+### 数据策略
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="cai26m-data-strategies"></a>[FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) | 图像训练数据保护 | 训练扰动生成器时随机遮掉连续频带，再约束高低频一致，降低保护信号被低通滤波一次清除的风险。 |
 
 <a id="by-inference"></a>
 
@@ -67,6 +81,10 @@
 | <a id="alesiani26a-inference"></a>[Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) | 扩散模型逻辑控制 | 将逻辑约束编译成电路，若合取子式条件独立、析取子式条件独立或互斥，即可从原子属性的后验和分数递推精确引导。 |
 | <a id="bae26b-inference"></a>[Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) | 图像隐写 | 用随机基压制潜变量中的结构残留，再融合多张图像的潜变量，使同一扩散载体可按授权分别恢复不同隐藏内容。 |
 | <a id="bang26a-inference"></a>[Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) | 扩散逆问题 | 早期大幅 CFG 可能与观测一致性更新冲突。采样中逐步降低数据一致性引导和随机性、提高 CFG，可以分别兼顾观测和生成质量。 |
+| <a id="briq26a-inference"></a>[Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) | 潜空间流匹配 | 不同容量的模型对同一噪声种子会生成相近内容，因此可用小模型完成前段流轨迹，再交给大模型补后段细节。 |
+| <a id="cai26g-inference"></a>[Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) | 无分类器引导 | 把 CFG 视为带流形约束的连续优化，在每个采样阶段加入投影式修正，并利用 Anderson 加速抑制引导强度敏感性。 |
+| <a id="cai26n-inference"></a>[TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | 多实例图像到三维 | 去噪早期用实例级分离引导避免对象粘连，再用几何适应更新稳住形状及相对布局，无需训练多实例模型。 |
+| <a id="cao26e-inference"></a>[Efficient Learned Image Compression without Entropy Coding](https://proceedings.mlr.press/v306/cao26e.html) | 低延迟图像压缩 | 用向量量化减小索引频率不均，再用条件自回归变换减少潜变量间依赖，使紧凑码流可以省掉串行熵编码。 |
 
 <a id="by-representation-learning"></a>
 
@@ -75,6 +93,8 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bian26d-representation-learning"></a>[CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](https://proceedings.mlr.press/v306/bian26d.html) | 新类别发现 | 先用已知类原型训练语义结构，再用带语义正则的一致性学习扩展未知类，避免过早的全局均匀排布冲淡类别结构。 |
+| <a id="boduljak26a-representation-learning"></a>[VFMF: Dense Forecasting by Generating Vision Foundation Model Features](https://proceedings.mlr.press/v306/boduljak26a.html) | 视频特征预测 | 先把视觉基础模型特征压到适合生成的紧凑潜空间，再用条件流匹配采样未来。在部分可见时可表达多个可能未来，且比直接扩散原特征或 PCA 压缩保留更多信息。 |
+| <a id="cao26h-representation-learning"></a>[On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) | 类别增量学习 | 冻结视觉骨干，只维护逐类的特征统计量并用它们推断，可以作为检验复杂持续训练方法是否带来收益的强基线。 |
 
 <a id="by-evaluation"></a>
 
@@ -86,4 +106,14 @@
 | <a id="ahmed26a-evaluation"></a>[Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) | 分割模型诊断 | 用稀疏自编码器拆解并对齐不同架构及人群的分割激活，再干预与分布偏移相关的潜特征定位和修复错误。 |
 | <a id="alexis26a-evaluation"></a>[GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) | 扩散模型域外检测 | 检查输入做旋转或翻转后，扩散分数场是否相应变换。即使分数幅值相近，等变性残差也能暴露域外样本。 |
 | <a id="baek26e-evaluation"></a>[Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | 深伪防御评测 | 把输出画质和身份保真度分开评估，并校准生成器固有的身份偏差。白盒防御表现特别强时也要检查是否损害跨生成器迁移。 |
+| <a id="braun26b-evaluation"></a>[Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | 扩散模型概念遗忘 | 通过测试擦除前写入的触发关联能否在遗忘后复现概念，可以检查现有擦除方法是否还保留潜在生成路径。 |
+
+<a id="by-theory-statistics"></a>
+
+### 理论与统计
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="bradley26a-theory-statistics"></a>[Local Mechanisms of Compositional Generalization in Conditional Diffusion](https://proceedings.mlr.press/v306/bradley26a.html) | 扩散组合泛化 | 当条件分数只依赖局部像素及局部条件时，生成可以处理超出训练对象数的场景。显式施加这种局部性，使原先未泛化的 CLEVR 模型也能泛化。 |
+| <a id="brady26b-theory-statistics"></a>[Is Generation Required for Data-Efficient Perception?](https://proceedings.mlr.press/v306/brady26b.html) | 低数据视觉泛化 | 在论文设定的组合生成过程中，解码器只需较简单的组合归纳偏置。训练解码器再做反演，在受控视觉数据中能用更少数据外推新组合。 |
 <!-- classification:end -->

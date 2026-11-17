@@ -10,6 +10,7 @@ Model-wide design and information flow.
 ### Large Language Models
 
 - [Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding](../../papers/llm.md#arriola26a-architecture) · 中文
+- [HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](../../papers/llm.md#bui26b-architecture) · 中文
 
 ### Computer Vision
 
@@ -36,6 +37,7 @@ Model-wide design and information flow.
 - [Learning to Theorize the World from Observation](../../papers/ml-foundations.md#baek26b-architecture) · 中文
 - [Who Said Neural Networks Aren’t Linear?](../../papers/ml-foundations.md#berman26c-architecture) · 中文
 - [M-Star: Markovian Projection of Star-Shaped Diffusion for Exponential Family Distributions](../../papers/ml-foundations.md#bertholom26a-architecture) · 中文
+- [Deep Flow Networks](../../papers/ml-foundations.md#candogan26b-architecture) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -51,4 +53,7 @@ Model-wide design and information flow.
 - [Cheap2Rich: A Multi-Fidelity Framework for Data Assimilation and System Identification of Multiscale Physics - Rotating Detonation Engines](../../papers/scientific-ml.md#bao26d-architecture) · 中文
 - [Physics-Informed Coarsening for Multigrid Graph Neural Surrogates](../../papers/scientific-ml.md#bazzi26a-architecture) · 中文
 - [Stochastic Lifting for Generating Trajectories of Stochastic Physical Systems](../../papers/scientific-ml.md#berman26b-architecture) · 中文
+- [Continuous-Time Piecewise-Linear Recurrent Neural Networks](../../papers/scientific-ml.md#brandle26a-architecture) · 中文
+- [STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](../../papers/scientific-ml.md#brinke26a-architecture) · 中文
+- [Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](../../papers/scientific-ml.md#bu26d-architecture) · 中文
 <!-- classification:end -->

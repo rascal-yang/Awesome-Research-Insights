@@ -23,6 +23,9 @@ The linked short insights are available in Chinese.
 | [Cheap2Rich: A Multi-Fidelity Framework for Data Assimilation and System Identification of Multiscale Physics - Rotating Detonation Engines](https://proceedings.mlr.press/v306/bao26d.html) | [Read insight (中文)](../../papers/scientific-ml.md#bao26d-architecture) |
 | [Physics-Informed Coarsening for Multigrid Graph Neural Surrogates](https://proceedings.mlr.press/v306/bazzi26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bazzi26a-architecture) |
 | [Stochastic Lifting for Generating Trajectories of Stochastic Physical Systems](https://proceedings.mlr.press/v306/berman26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#berman26b-architecture) |
+| [Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://proceedings.mlr.press/v306/brandle26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brandle26a-architecture) |
+| [STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://proceedings.mlr.press/v306/brinke26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brinke26a-architecture) |
+| [Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](https://proceedings.mlr.press/v306/bu26d.html) | [Read insight (中文)](../../papers/scientific-ml.md#bu26d-architecture) |
 
 <a id="by-modules"></a>
 
@@ -40,6 +43,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#abijuru26b-loss-functions) |
 | [Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#anwer26a-loss-functions) |
+| [HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#byeon26a-loss-functions) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -48,6 +52,23 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](https://proceedings.mlr.press/v306/behzadifar26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) |
+| [Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](https://proceedings.mlr.press/v306/butbaia26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#butbaia26a-reinforcement-learning) |
+
+<a id="by-training-strategies"></a>
+
+### Training Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](https://proceedings.mlr.press/v306/cao26r.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26r-training-strategies) |
+
+<a id="by-data-strategies"></a>
+
+### Data Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://proceedings.mlr.press/v306/brockschmidt26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brockschmidt26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -58,6 +79,8 @@ The linked short insights are available in Chinese.
 | [WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling](https://proceedings.mlr.press/v306/aich26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#aich26a-inference) |
 | [DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants](https://proceedings.mlr.press/v306/andrae26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#andrae26a-inference) |
 | [Supervised Guidance Training for Infinite-Dimensional Diffusion Models](https://proceedings.mlr.press/v306/baker26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#baker26a-inference) |
+| [FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](https://proceedings.mlr.press/v306/bohde26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bohde26a-inference) |
+| [Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](https://proceedings.mlr.press/v306/cao26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26c-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -82,6 +105,7 @@ The linked short insights are available in Chinese.
 | [When Can We Trust Survival Model Evaluation ?](https://proceedings.mlr.press/v306/bahrini26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bahrini26a-evaluation) |
 | [Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](https://proceedings.mlr.press/v306/bai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bai26a-evaluation) |
 | [Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://proceedings.mlr.press/v306/becktepe26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#becktepe26a-evaluation) |
+| [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://proceedings.mlr.press/v306/cao26g.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26g-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

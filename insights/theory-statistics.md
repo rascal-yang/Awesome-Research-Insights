@@ -12,6 +12,14 @@
 - [上下文学习与数据分布](../papers/llm.md#azizian26a-theory-statistics) · How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off
 - [模型更新后对齐](../papers/llm.md#bakman26a-theory-statistics) · Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment
 - [上下文与激活干预](../papers/llm.md#bigelow26a-theory-statistics) · Belief Dynamics Reveal the Dual Nature of In-Context Learning and Activation Steering
+- [自回归与能量模型](../papers/llm.md#blondel26a-theory-statistics) · Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction
+- [语言数据缩放律](../papers/llm.md#cagnetta26a-theory-statistics) · Deriving Neural Scaling Laws from the Statistics of Natural Language
+- [多候选偏好对齐](../papers/llm.md#cai26p-theory-statistics) · Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling
+
+### 计算机视觉
+
+- [扩散组合泛化](../papers/computer-vision.md#bradley26a-theory-statistics) · Local Mechanisms of Compositional Generalization in Conditional Diffusion
+- [低数据视觉泛化](../papers/computer-vision.md#brady26b-theory-statistics) · Is Generation Required for Data-Efficient Perception?
 
 ### 自然语言处理
 
@@ -32,6 +40,12 @@
 - [社会学习探索](../papers/reinforcement-learning.md#banihashem26a-theory-statistics) · Bandit Social Learning with Exploration Episodes
 - [逆博弈估计](../papers/reinforcement-learning.md#barbara26a-theory-statistics) · Optimal Rates for Feasible Payoff Set Estimation in Games
 - [不确定 MDP](../papers/reinforcement-learning.md#benyamine26a-theory-statistics) · Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes
+- [在线 Stackelberg 博弈](../papers/reinforcement-learning.md#bollini26a-theory-statistics) · Learning in Bayesian Stackelberg Games With Unknown Follower’s Types
+- [流式多臂老虎机](../papers/reinforcement-learning.md#braverman26a-theory-statistics) · Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits
+
+### 多模态学习
+
+- [跨模态对比学习](../papers/multimodal.md#cai26o-theory-statistics) · The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence
 
 ### 机器学习基础与统计
 
@@ -75,6 +89,22 @@
 - [注意力黑盒可辨识性](../papers/ml-foundations.md#bhattamishra26a-theory-statistics) · Provably Learning Attention with Queries
 - [群体公平最优传输](../papers/ml-foundations.md#bleistein26a-theory-statistics) · Optimal Transport under Group Fairness Constraints
 - [统计复杂度收缩](../papers/ml-foundations.md#block26b-theory-statistics) · On Contraction of Sequential and Offset Rademacher Complexities
+- [模型后门理论](../papers/ml-foundations.md#bogdanov26a-theory-statistics) · Statistically Undetectable Backdoors in Deep Neural Networks
+- [注意力理论](../papers/ml-foundations.md#bohbot26a-theory-statistics) · Token Sample Complexity of Attention
+- [在线机制设计](../papers/ml-foundations.md#bollini26b-theory-statistics) · Online Contract Design With Unknown Technology
+- [隐私定义](../papers/ml-foundations.md#bon26a-theory-statistics) · Persuasive Privacy
+- [注意力谱分析](../papers/ml-foundations.md#boncoraglio26a-theory-statistics) · Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws
+- [鲁棒分布式学习](../papers/ml-foundations.md#boudou26a-theory-statistics) · Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning
+- [长提示注意力](../papers/ml-foundations.md#boursier26a-theory-statistics) · Softmax as Linear Attention in the Large-Prompt Regime: a Measure-based Perspective
+- [噪声下的分布学习](../papers/ml-foundations.md#boushehrian26a-theory-statistics) · Provable Bounds for the Learnability of Sample-Compressible Families from Noisy Samples
+- [Transformer 表达力](../papers/ml-foundations.md#brosamle26a-theory-statistics) · The Expressive Power of Low Precision Softmax Transformers with (Summarized) Chain-of-Thought
+- [权重空间对齐](../papers/ml-foundations.md#burgin26a-theory-statistics) · Beyond Structural Symmetries: Linear Mode Connectivity via Neuron Identifiability
+- [经验风险最小化](../papers/ml-foundations.md#burla26a-theory-statistics) · All ERMs Can Fail in Stochastic Convex Optimization Lower Bounds in Linear Dimension
+- [人机预测互补](../papers/ml-foundations.md#byun26b-theory-statistics) · Robust Human-AI Complementarity under Uncertainty
+- [隐私约束下的分位数估计](../papers/ml-foundations.md#cai26e-theory-statistics) · Privacy-Aware Data Integration for Enhanced Quantile Inference under Heterogeneity
+- [稀疏尖峰恢复](../papers/ml-foundations.md#cai26l-theory-statistics) · Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements
+- [分数误差与 Langevin 采样](../papers/ml-foundations.md#cao26b-theory-statistics) · On the Robustness of Langevin Dynamics to Score Function Error
+- [选择性状态空间稳定性](../papers/ml-foundations.md#cao26l-theory-statistics) · A Control-Theoretic View of Mamba on Stability and Robustness
 
 ### 图学习与推荐
 

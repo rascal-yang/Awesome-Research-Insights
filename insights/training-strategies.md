@@ -18,15 +18,21 @@
 - [技能持续学习](../papers/llm.md#berthon26a-training-strategies) · Skill Neologisms: Towards Skill-based Continual Learning
 - [测试时语言模型学习](../papers/llm.md#bian26b-training-strategies) · Future-Gain Guided Test-Time Learning for Large Language Models
 - [Transformer 到 SSM 蒸馏](../papers/llm.md#bick26a-training-strategies) · Retrieval-Aware Distillation for Transformer-SSM Hybrids
+- [持续预训练](../papers/llm.md#borodin26a-training-strategies) · Diffract: Spectral View of LLM Domain Adaptation
+- [推理后训练课程](../papers/llm.md#bu26a-training-strategies) · Provable Sample Efficiency of Curriculum Post-Training for Transformer Reasoning
+- [渐进式模型训练](../papers/llm.md#bu26c-training-strategies) · Scaling depth capacity via zero/one-layer model expansion
 
 ### 计算机视觉
 
 - [少步生成蒸馏](../papers/computer-vision.md#bai26n-training-strategies) · Optimizing Few-Step Generation with Adaptive Matching Distillation
+- [长视频生成](../papers/computer-vision.md#cai26h-training-strategies) · Mode Seeking meets Mean Seeking for Fast Long Video Generation
+- [动态参数高效微调](../papers/computer-vision.md#cao26o-training-strategies) · Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers
 
 ### 多模态学习
 
 - [多模态上下文学习](../papers/multimodal.md#alipour-talemi26a-training-strategies) · Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning
 - [多模态微调](../papers/multimodal.md#asadollahzadeh26a-training-strategies) · TRACER: Persistent Regularization for Robust Multimodal Finetuning
+- [视觉数据与符号绑定](../papers/multimodal.md#buzeta26a-training-strategies) · Seeing to Generalize: How Visual Data Corrects Binding Shortcuts
 
 ### 机器学习基础与统计
 
@@ -35,8 +41,16 @@
 - [联邦模型水印](../papers/ml-foundations.md#bakr26a-training-strategies) · Collaborative Threshold Watermarking
 - [持续模型路由](../papers/ml-foundations.md#bell26a-training-strategies) · Continual Model Routing in Evolving Model Hubs
 - [联邦 LoRA](../papers/ml-foundations.md#bian26e-training-strategies) · FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning
+- [状态空间模型训练](../papers/ml-foundations.md#brady26a-training-strategies) · Efficient Learning of Deep State Space Models via Importance Smoothing
+- [递归去噪训练](../papers/ml-foundations.md#cameron26a-training-strategies) · One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models
+- [异构联邦学习](../papers/ml-foundations.md#cao26a-training-strategies) · Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection
 
 ### 图学习与推荐
 
 - [超图鲁棒训练](../papers/graph-and-recommendation.md#arafat26a-training-strategies) · Adversarial Attacks and Robust Training for Hypergraph Neural Networks
+- [图组合优化迁移](../papers/graph-and-recommendation.md#canturk26a-training-strategies) · Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?
+
+### 科学机器学习
+
+- [变构蛋白结合物生成](../papers/scientific-ml.md#cao26r-training-strategies) · TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation
 <!-- classification:end -->

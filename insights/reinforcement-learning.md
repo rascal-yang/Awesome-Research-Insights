@@ -46,10 +46,17 @@
 - [GRPO 探索](../papers/llm.md#bamba26b-reinforcement-learning) · XRPO: Pushing the Limits of GRPO with Targeted Exploration and Exploitation
 - [可验证奖励强化学习](../papers/llm.md#bi26a-reinforcement-learning) · EchoRL: Reinforcement Learning via Rollout Echoing
 - [多领域推理强化学习](../papers/llm.md#bi26c-reinforcement-learning) · Reward and Guidance through Rubrics: Promoting Exploration to Improve Multi-Domain Reasoning
+- [Agent 测试时记忆](../papers/llm.md#cai26b-reinforcement-learning) · From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory
+- [策略更新几何](../papers/llm.md#cai26c-reinforcement-learning) · Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization
+- [示范驱动的逆强化学习](../papers/llm.md#cai26k-reinforcement-learning) · Escaping the Verifier: Learning to Reason via Demonstrations
 
 ### 计算机视觉
 
 - [多奖励生成优化](../papers/computer-vision.md#ba26a-reinforcement-learning) · Pareto-Guided Optimal Transport for Multi-Reward Alignment
+
+### 自然语言处理
+
+- [多跳事实核查](../papers/nlp.md#bu26e-reinforcement-learning) · Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization
 
 ### 强化学习
 
@@ -66,11 +73,18 @@
 - [多反馈奖励学习](../papers/reinforcement-learning.md#baur26a-reinforcement-learning) · MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference
 - [安全策略优化](../papers/reinforcement-learning.md#belouadah26a-reinforcement-learning) · CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning
 - [低数据模仿学习](../papers/reinforcement-learning.md#blonde26a-reinforcement-learning) · Noise-Guided Transport: Imitation Learning from Random Priors
+- [因果元强化学习](../papers/reinforcement-learning.md#bo26c-reinforcement-learning) · Counterfactual Bootstrap for Robust Meta-Reinforcement Learning
+- [离线到在线强化学习](../papers/reinforcement-learning.md#bui26a-reinforcement-learning) · Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning
+- [流匹配策略优化](../papers/reinforcement-learning.md#cao26f-reinforcement-learning) · Direct Flow Q-Learning
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
 
 - [规划与强化学习](../papers/robotics.md#aichmuller26a-reinforcement-learning) · Learning to Search and Searching to Learn for Generalization in Planning
+
+### 多模态学习
+
+- [长视频推理奖励](../papers/multimodal.md#cao26m-reinforcement-learning) · VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning
 
 ### 图学习与推荐
 
@@ -80,4 +94,5 @@
 ### 科学机器学习
 
 - [科学方程发现](../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) · DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery
+- [数学反例搜索](../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra
 <!-- classification:end -->

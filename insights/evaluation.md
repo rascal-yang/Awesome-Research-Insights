@@ -44,6 +44,10 @@
 - [长文本事实性诊断](../papers/llm.md#bhardwaj26a-evaluation) · Embedding Trust: Semantic Isotropy Predicts Nonfactuality in Long-Form Text Generation
 - [推理自评](../papers/llm.md#bi26e-evaluation) · The Geometry of Reasoning: Self-Evaluation via Layerwise Trajectory Evolution
 - [幻觉检测](../papers/llm.md#binkowski26a-evaluation) · Attention Sinks as Internal Signals for Hallucination Detection in Large Language Models
+- [基准概念覆盖](../papers/llm.md#bohacek26a-evaluation) · Uncovering Competency Gaps in Large Language Models and Their Benchmarks
+- [推理忠实性](../papers/llm.md#boppana26a-evaluation) · Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought
+- [多 Agent 行为监控](../papers/llm.md#bridgeford26a-evaluation) · Detecting Perspective Shifts in Multi-Agent Systems
+- [事实召回评测](../papers/llm.md#calderon26a-evaluation) · Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality
 
 ### 计算机视觉
 
@@ -51,6 +55,7 @@
 - [分割模型诊断](../papers/computer-vision.md#ahmed26a-evaluation) · Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation
 - [扩散模型域外检测](../papers/computer-vision.md#alexis26a-evaluation) · GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models
 - [深伪防御评测](../papers/computer-vision.md#baek26e-evaluation) · Proactive Defense Benchmark against Deepfake Generation
+- [扩散模型概念遗忘](../papers/computer-vision.md#braun26b-evaluation) · Erased but Not Forgotten: How Backdoors Compromise Concept Erasure
 
 ### 自然语言处理
 
@@ -68,6 +73,9 @@
 ### 多模态学习
 
 - [视觉语言安全评测](../papers/multimodal.md#azulay26a-evaluation) · Jailbreaking Vision-Language Models Through the Visual Modality
+- [文档 Agent 评测](../papers/multimodal.md#borchmann26a-evaluation) · Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections
+- [视觉语言模型量化](../papers/multimodal.md#bouguerra26a-evaluation) · Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy
+- [图像感知评测](../papers/multimodal.md#cao26i-evaluation) · UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 
 ### 机器学习基础与统计
 
@@ -79,6 +87,9 @@
 - [影响函数](../papers/ml-foundations.md#bado26a-evaluation) · Clustered Influence Functions
 - [表格基础模型](../papers/ml-foundations.md#balef26a-evaluation) · Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models
 - [时序基础模型压缩](../papers/ml-foundations.md#bao26c-evaluation) · Universal Redundancies in Time Series Foundation Models
+- [可验证模型解释](../papers/ml-foundations.md#boetius26a-evaluation) · Verified SHAP: Provable Bounds for Exact Shapley Values of Neural Networks
+- [人评聚合](../papers/ml-foundations.md#bonagiri26a-evaluation) · STABLEVAL: Disagreement-Aware and Stable Evaluation of AI Systems
+- [共形覆盖诊断](../papers/ml-foundations.md#braun26c-evaluation) · Conditional Coverage Diagnostics for Conformal Prediction
 
 ### 图学习与推荐
 
@@ -93,4 +104,5 @@
 - [生存模型评测](../papers/scientific-ml.md#bahrini26a-evaluation) · When Can We Trust Survival Model Evaluation ?
 - [CAD 操作评测](../papers/scientific-ml.md#bai26a-evaluation) · Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation
 - [流体控制强化学习](../papers/scientific-ml.md#becktepe26a-evaluation) · Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control
+- [仿真 Agent 成本评测](../papers/scientific-ml.md#cao26g-evaluation) · SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs
 <!-- classification:end -->

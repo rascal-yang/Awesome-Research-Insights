@@ -50,6 +50,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) |
+| [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -75,6 +76,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](https://proceedings.mlr.press/v306/behmanesh26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) |
+| [CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cai26f-representation-learning) |
 
 <a id="by-evaluation"></a>
 

@@ -10,6 +10,7 @@
 ### 大语言模型
 
 - [离散扩散解码](../papers/llm.md#arriola26a-architecture) · Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding
+- [长任务 Agent 协作](../papers/llm.md#bui26b-architecture) · HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel
 
 ### 计算机视觉
 
@@ -36,6 +37,7 @@
 - [世界模型](../papers/ml-foundations.md#baek26b-architecture) · Learning to Theorize the World from Observation
 - [可线性化网络](../papers/ml-foundations.md#berman26c-architecture) · Who Said Neural Networks Aren’t Linear?
 - [非高斯扩散](../papers/ml-foundations.md#bertholom26a-architecture) · M-Star: Markovian Projection of Star-Shaped Diffusion for Exponential Family Distributions
+- [离散函数近似](../papers/ml-foundations.md#candogan26b-architecture) · Deep Flow Networks
 
 ### 图学习与推荐
 
@@ -51,4 +53,7 @@
 - [多保真数据同化](../papers/scientific-ml.md#bao26d-architecture) · Cheap2Rich: A Multi-Fidelity Framework for Data Assimilation and System Identification of Multiscale Physics - Rotating Detonation Engines
 - [固体力学代理模型](../papers/scientific-ml.md#bazzi26a-architecture) · Physics-Informed Coarsening for Multigrid Graph Neural Surrogates
 - [随机动力学生成](../papers/scientific-ml.md#berman26b-architecture) · Stochastic Lifting for Generating Trajectories of Stochastic Physical Systems
+- [连续时间动力学](../papers/scientific-ml.md#brandle26a-architecture) · Continuous-Time Piecewise-Linear Recurrent Neural Networks
+- [几何轨迹生成](../papers/scientific-ml.md#brinke26a-architecture) · STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation
+- [无线传播建模](../papers/scientific-ml.md#bu26d-architecture) · Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling
 <!-- classification:end -->

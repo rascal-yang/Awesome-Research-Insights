@@ -32,6 +32,9 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [FOVI: A biologically-inspired foveated interface for deep vision models](https://proceedings.mlr.press/v306/blauch26a.html) | [Read insight (中文)](../../papers/computer-vision.md#blauch26a-modules) |
+| [Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](https://proceedings.mlr.press/v306/candogan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#candogan26a-modules) |
+| [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26j-modules) |
+| [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26n-modules) |
 | [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | [Read insight (中文)](../../papers/computer-vision.md#tian26k-modules) · [Full entry](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -41,6 +44,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Threshold-Guided Optimization for Visual Generative Models](https://proceedings.mlr.press/v306/bai26c.html) | [Read insight (中文)](../../papers/computer-vision.md#bai26c-loss-functions) |
+| [Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bo26a-loss-functions) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -57,6 +61,16 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#bai26n-training-strategies) |
+| [Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26h-training-strategies) |
+| [Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26o-training-strategies) |
+
+<a id="by-data-strategies"></a>
+
+### Data Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26m-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -67,6 +81,10 @@ The linked short insights are available in Chinese.
 | [Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) | [Read insight (中文)](../../papers/computer-vision.md#alesiani26a-inference) |
 | [Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) | [Read insight (中文)](../../papers/computer-vision.md#bae26b-inference) |
 | [Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bang26a-inference) |
+| [Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) | [Read insight (中文)](../../papers/computer-vision.md#briq26a-inference) |
+| [Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26g-inference) |
+| [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26n-inference) |
+| [Efficient Learned Image Compression without Entropy Coding](https://proceedings.mlr.press/v306/cao26e.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26e-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -75,6 +93,8 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](https://proceedings.mlr.press/v306/bian26d.html) | [Read insight (中文)](../../papers/computer-vision.md#bian26d-representation-learning) |
+| [VFMF: Dense Forecasting by Generating Vision Foundation Model Features](https://proceedings.mlr.press/v306/boduljak26a.html) | [Read insight (中文)](../../papers/computer-vision.md#boduljak26a-representation-learning) |
+| [On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26h-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -86,4 +106,14 @@ The linked short insights are available in Chinese.
 | [Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ahmed26a-evaluation) |
 | [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) | [Read insight (中文)](../../papers/computer-vision.md#alexis26a-evaluation) |
 | [Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | [Read insight (中文)](../../papers/computer-vision.md#baek26e-evaluation) |
+| [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | [Read insight (中文)](../../papers/computer-vision.md#braun26b-evaluation) |
+
+<a id="by-theory-statistics"></a>
+
+### Theory and Statistics
+
+| Paper | Insight |
+| :--- | :--- |
+| [Local Mechanisms of Compositional Generalization in Conditional Diffusion](https://proceedings.mlr.press/v306/bradley26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bradley26a-theory-statistics) |
+| [Is Generation Required for Data-Efficient Perception?](https://proceedings.mlr.press/v306/brady26b.html) | [Read insight (中文)](../../papers/computer-vision.md#brady26b-theory-statistics) |
 <!-- classification:end -->

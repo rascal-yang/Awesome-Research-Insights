@@ -16,6 +16,11 @@ Data selection, annotation, augmentation, and sampling.
 - [Recontextualization Mitigates Specification Gaming Without Modifying the Specification](../../papers/llm.md#azarbal26a-data-strategies) · 中文
 - [SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale](../../papers/llm.md#badertdinov26a-data-strategies) · 中文
 - [Facts in Stats: Impacts of Pretraining Diversity on Language Model Generalization](../../papers/llm.md#behnia26a-data-strategies) · 中文
+- [Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](../../papers/llm.md#bu26b-data-strategies) · 中文
+
+### Computer Vision
+
+- [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](../../papers/computer-vision.md#cai26m-data-strategies) · 中文
 
 ### Natural Language Processing
 
@@ -29,12 +34,19 @@ Data selection, annotation, augmentation, and sampling.
 
 - [Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](../../papers/multimodal.md#acuna26a-data-strategies) · 中文
 - [PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](../../papers/multimodal.md#assouel26a-data-strategies) · 中文
+- [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](../../papers/multimodal.md#bo26b-data-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 
 - [The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue](../../papers/ml-foundations.md#afshani26a-data-strategies) · 中文
+- [Causal Preference Elicitation](../../papers/ml-foundations.md#bonilla26a-data-strategies) · 中文
+- [Probably Approximately Correct Labels](../../papers/ml-foundations.md#candes26a-data-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
 - [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](../../papers/graph-and-recommendation.md#azizpour26a-data-strategies) · 中文
+
+### Scientific Machine Learning
+
+- [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](../../papers/scientific-ml.md#brockschmidt26a-data-strategies) · 中文
 <!-- classification:end -->

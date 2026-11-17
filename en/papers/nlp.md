@@ -17,6 +17,22 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](https://proceedings.mlr.press/v306/bian26c.html) | [Read insight (中文)](../../papers/nlp.md#bian26c-modules) |
 
+<a id="by-loss-functions"></a>
+
+### Loss Functions
+
+| Paper | Insight |
+| :--- | :--- |
+| [ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](https://proceedings.mlr.press/v306/cai26d.html) | [Read insight (中文)](../../papers/nlp.md#cai26d-loss-functions) |
+
+<a id="by-reinforcement-learning"></a>
+
+### Reinforcement Learning Methods
+
+| Paper | Insight |
+| :--- | :--- |
+| [Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](https://proceedings.mlr.press/v306/bu26e.html) | [Read insight (中文)](../../papers/nlp.md#bu26e-reinforcement-learning) |
+
 <a id="by-data-strategies"></a>
 
 ### Data Strategies
@@ -34,6 +50,14 @@ The linked short insights are available in Chinese.
 | [BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://proceedings.mlr.press/v306/agrawal26d.html) | [Read insight (中文)](../../papers/nlp.md#agrawal26d-inference) |
 | [PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) | [Read insight (中文)](../../papers/nlp.md#ai26b-inference) |
 | [IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) | [Read insight (中文)](../../papers/nlp.md#an26a-inference) |
+
+<a id="by-representation-learning"></a>
+
+### Representation Learning
+
+| Paper | Insight |
+| :--- | :--- |
+| [Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) | [Read insight (中文)](../../papers/nlp.md#cao26p-representation-learning) |
 
 <a id="by-evaluation"></a>
 

@@ -48,6 +48,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="arafat26a-training-strategies"></a>[Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) | 超图鲁棒训练 | 把超图拉普拉斯作为统一的攻击目标，在同一预算框架下测试结构及特征扰动，再用相应扰动做超图模型的对抗训练。 |
+| <a id="canturk26a-training-strategies"></a>[Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | 图组合优化迁移 | 用计算复杂性中的任务归约关系选择预训练组合，再共享图编码器微调。留一任务评测中，多任务预训练通常加快收敛。 |
 
 <a id="by-data-strategies"></a>
 
@@ -73,6 +74,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="behmanesh26a-representation-learning"></a>[Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](https://proceedings.mlr.press/v306/behmanesh26a.html) | 跨图对齐 | 先向节点嵌入注入高频信息以保留局部区分度，再在对应映射上做低通平滑，分别处理节点过平滑与跨图匹配噪声。 |
+| <a id="cai26f-representation-learning"></a>[CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | 高阶关系表征 | 把高阶关系拆成多个不完整查询与补全实体，用查询非对称地调制候选实体表征，再做对比对齐。 |
 
 <a id="by-evaluation"></a>
 

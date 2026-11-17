@@ -42,6 +42,9 @@
 | <a id="baur26a-reinforcement-learning"></a>[MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference](https://proceedings.mlr.press/v306/baur26a.html) | 多反馈奖励学习 | 为示范、比较、评分和停止信号等各自建似然，用共享潜奖励和一个变分目标联合推断，可避免手调不同反馈的损失权重。 |
 | <a id="belouadah26a-reinforcement-learning"></a>[CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](https://proceedings.mlr.press/v306/belouadah26a.html) | 安全策略优化 | 用局部一阶近似计算策略到安全边界的有符号距离，把它加入原始策略目标，缓解拉格朗日乘子更新滞后造成的违规与振荡。 |
 | <a id="blonde26a-reinforcement-learning"></a>[Noise-Guided Transport: Imitation Learning from Random Priors](https://proceedings.mlr.press/v306/blonde26a.html) | 低数据模仿学习 | 将模仿学习写成从随机先验出发的最优传输问题，用离策略对抗训练求解，可在少量专家转移下学习高维控制，并把不确定性纳入方法。 |
+| <a id="bo26c-reinforcement-learning"></a>[Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) | 因果元强化学习 | 从与混杂观测相容的候选环境中采样反事实轨迹，再用它们训练策略初始化，显式覆盖多个可能的环境机制。 |
+| <a id="bui26a-reinforcement-learning"></a>[Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](https://proceedings.mlr.press/v306/bui26a.html) | 离线到在线强化学习 | 离线从扩散模型蒸馏快采样 actor 和转移模型，在线以 Laplace 近似和状态偏移判断不确定性，帮助在分布变动时调节探索。 |
+| <a id="cao26f-reinforcement-learning"></a>[Direct Flow Q-Learning](https://proceedings.mlr.press/v306/cao26f.html) | 流匹配策略优化 | 用最终动作的 Q 值梯度构造每一步速度场的引导项，直接训练多步流策略，避免通过全部采样步骤反传或蒸馏成单步。 |
 | <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -51,6 +54,14 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bendib26a-data-strategies"></a>[Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) | 零样本离线强化学习 | 从离线数据中的真实行为提取任务向量作为训练任务分布，替换任意随机向量，有助于策略泛化到未见奖励。 |
+
+<a id="by-inference"></a>
+
+### 推理策略
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="brosseit26a-inference"></a>[Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) | 强化学习提前退出 | 在 actor 的不同深度挂接出口，训练时用约束线性规划决定性能和计算预算之间的退出规则，部署时用学好的规则直接选择出口。 |
 
 <a id="by-representation-learning"></a>
 
@@ -84,4 +95,6 @@
 | <a id="banihashem26a-theory-statistics"></a>[Bandit Social Learning with Exploration Episodes](https://proceedings.mlr.press/v306/banihashem26a.html) | 社会学习探索 | 个体在自己的短回合里有探索动机，整体系统的贝叶斯遗憾仍可能线性增长，设计平台时要单独考虑跨回合的探索。 |
 | <a id="barbara26a-theory-statistics"></a>[Optimal Rates for Feasible Payoff Set Estimation in Games](https://proceedings.mlr.press/v306/barbara26a.html) | 逆博弈估计 | 只观察到近似纳什行为时，可用 Hausdorff 距离估计所有与行为相容的收益函数集合，为后续反事实分析保留不可辨识性。 |
 | <a id="benyamine26a-theory-statistics"></a>[Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) | 不确定 MDP | 把未知转移看作随机分布，对策略回报施加风险度量，并据此判断哪类风险偏好还能沿用 Bellman 递推。 |
+| <a id="bollini26a-theory-statistics"></a>[Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) | 在线 Stackelberg 博弈 | 领头方不知道对手类型的收益时，只观测最佳响应不足以保证次线性遗憾；如果每轮还能看到类型，则可达到根号轮数量级。 |
+| <a id="braverman26a-theory-statistics"></a>[Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | 流式多臂老虎机 | 只允许在最近到达的臂里选择时，有限存储使精确找最佳臂困难，近似最佳臂则可用更少内存；可用这一区别决定要保证哪种精度。 |
 <!-- classification:end -->

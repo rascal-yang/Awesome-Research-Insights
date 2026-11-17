@@ -10,6 +10,7 @@
 ### 大语言模型
 
 - [模型压缩](../papers/llm.md#abbasi26a-optimization) · Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression
+- [低显存零阶微调](../papers/llm.md#cai26a-optimization) · AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments
 
 ### 机器学习基础与统计
 
@@ -39,6 +40,11 @@
 - [联邦动态稀疏训练](../papers/ml-foundations.md#bi26b-optimization) · FedFit: Federated Dynamic Sparse Training via Fisher Information scoring
 - [可逆扩散求解](../papers/ml-foundations.md#blasingame26a-optimization) · Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers
 - [混合整数规划加速](../papers/ml-foundations.md#blin26a-optimization) · Batched First-Order Methods for Parallel LP Solving in MIP
+- [变分推断](../papers/ml-foundations.md#borghi26a-optimization) · Variational inference via Gaussian interacting particles in the Bures-Wasserstein geometry
+- [贝叶斯自适应实验](../papers/ml-foundations.md#bracher26a-optimization) · JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference
+- [谱梯度优化](../papers/ml-foundations.md#braun26a-optimization) · Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval
+- [Langevin 优化](../papers/ml-foundations.md#bruno26a-optimization) · Flatness-Aware Stochastic Gradient Langevin Dynamics
+- [谱稀疏信号重建](../papers/ml-foundations.md#cai26j-optimization) · Fast Spectrally Sparse Signal Reconstruction via Jacobi-Preconditioned Gradient Descent
 
 ### 图学习与推荐
 

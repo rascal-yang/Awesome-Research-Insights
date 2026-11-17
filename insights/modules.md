@@ -63,9 +63,17 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 <!-- classification:start -->
 ## 按研究领域浏览
 
+### 大语言模型
+
+- [线性注意力记忆](../papers/llm.md#bonnet26a-modules) · Learning to Remember, Learn, and Forget in Attention-Based Models
+- [归一化替换](../papers/llm.md#byun26a-modules) · Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models
+
 ### 计算机视觉
 
 - [主动视觉分辨率](../papers/computer-vision.md#blauch26a-modules) · FOVI: A biologically-inspired foveated interface for deep vision models
+- [小型视觉 Transformer](../papers/computer-vision.md#candogan26a-modules) · Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers
+- [分层三维语义分割](../papers/computer-vision.md#cao26j-modules) · Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation
+- [轻量视频超分](../papers/computer-vision.md#cao26n-modules) · LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution
 - [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 ### 自然语言处理
@@ -88,6 +96,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [连续深度模型](../papers/ml-foundations.md#banerjee26b-modules) · Efficient Continuous-Depth Modeling with GRU Equivalents
 - [循环模型长程记忆](../papers/ml-foundations.md#behrouz26a-modules) · Memory Caching: RNNs with Growing Memory
 - [测试时记忆更新](../papers/ml-foundations.md#behrouz26b-modules) · ATLAS: Learning to Optimally Memorize the Context at Test Time
+- [时间序列预测](../papers/ml-foundations.md#brachet26a-modules) · Time Series Forecasting Through the Lens of Dynamics
+- [低功耗循环网络](../papers/ml-foundations.md#brandoit26a-modules) · Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications
 
 ### 图学习与推荐
 

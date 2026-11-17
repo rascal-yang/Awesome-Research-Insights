@@ -21,6 +21,9 @@
 | <a id="bao26d-architecture"></a>[Cheap2Rich: A Multi-Fidelity Framework for Data Assimilation and System Identification of Multiscale Physics - Rotating Detonation Engines](https://proceedings.mlr.press/v306/bao26d.html) | 多保真数据同化 | 将便宜的低保真模拟作为动态先验，由稀疏传感器历史估计可解释的误差修正，以恢复高保真状态中的局部物理效应。 |
 | <a id="bazzi26a-architecture"></a>[Physics-Informed Coarsening for Multigrid Graph Neural Surrogates](https://proceedings.mlr.press/v306/bazzi26a.html) | 固体力学代理模型 | 用局部物理残差给网格节点评分，粗化时优先保留高应变和应力集中区域，改善多重网格 GNN 的长程 rollout 稳定性。 |
 | <a id="berman26b-architecture"></a>[Stochastic Lifting for Generating Trajectories of Stochastic Physical Systems](https://proceedings.mlr.press/v306/berman26b.html) | 随机动力学生成 | 给每条训练转移附加独立随机坐标，让回归模型学到相近状态的多种后继。推理时重新采样坐标，每步一次前向生成随机轨迹。 |
+| <a id="brandle26a-architecture"></a>[Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://proceedings.mlr.press/v306/brandle26a.html) | 连续时间动力学 | 利用 ReLU 循环网络各区域内的分段线性结构推进连续动力学，减少数值积分开销，并能半解析地查找平衡点和极限环。 |
+| <a id="brinke26a-architecture"></a>[STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://proceedings.mlr.press/v306/brinke26a.html) | 几何轨迹生成 | 以按观测条件构造的随机游走作为流匹配起点，替代独立高斯噪声。更接近真实轨迹的先验能降低传输成本。 |
+| <a id="bu26d-architecture"></a>[Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](https://proceedings.mlr.press/v306/bu26d.html) | 无线传播建模 | 把射频传播写成随机输运过程，让材料衰减率成为可学习的传播参数，在神经射线追踪中保留互易性和可逆性。 |
 
 <a id="by-modules"></a>
 
@@ -38,6 +41,7 @@
 | :--- | :--- | :--- |
 | <a id="abijuru26b-loss-functions"></a>[Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) | 鲁棒损失 | 把物理残差建模为 Student-t，通过 EM 自适应调低极端残差在加权 MSE 中的影响。 |
 | <a id="anwer26a-loss-functions"></a>[Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | 网格算子学习 | 给学习出的算子对测量其偏离链复形一致性的距离，并可闭式投影到最近的兼容算子，避免网格细化时条件数失控。 |
+| <a id="byeon26a-loss-functions"></a>[HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | 空间转录组预测 | 针对组织切片上六角排列的采样点，用几何匹配的窗口和位置编码，再加局部差分损失，减轻逐点回归导致的基因表达过平滑。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -46,6 +50,23 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="behzadifar26a-reinforcement-learning"></a>[DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](https://proceedings.mlr.press/v306/behzadifar26a.html) | 科学方程发现 | 把候选方程拆成符号项提供细粒度反馈，再用测试时强化学习更新假设生成器，让后续搜索利用当前系统的观测与误差。 |
+| <a id="butbaia26a-reinforcement-learning"></a>[Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](https://proceedings.mlr.press/v306/butbaia26a.html) | 数学反例搜索 | 把构造代数反例建成稀疏奖励的图搜索，使用受约束的多步选项与等变图策略，在长搜索中学习可复用的时间抽象。 |
+
+<a id="by-training-strategies"></a>
+
+### 训练策略
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="cao26r-training-strategies"></a>[TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](https://proceedings.mlr.press/v306/cao26r.html) | 变构蛋白结合物生成 | 将预测激动或拮抗方向的信号与软亲和门控分开，用两者微调离散扩散，使生成目标能区分作用方向和静态结合强度。 |
+
+<a id="by-data-strategies"></a>
+
+### 数据策略
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="brockschmidt26a-data-strategies"></a>[SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://proceedings.mlr.press/v306/brockschmidt26a.html) | 生存分析合成数据 | 联合生成协变量、事件时间和右删失标记，并把生存任务结构写进扩散损失，避免合成表格只拟合协变量却丢失删失机制。 |
 
 <a id="by-inference"></a>
 
@@ -56,6 +77,8 @@
 | <a id="aich26a-inference"></a>[WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling](https://proceedings.mlr.press/v306/aich26a.html) | 大气生成模型 | 用无条件大气视频扩散模型学习通用先验，将预报、降尺度和稀疏观测重建分别写成逆问题，在推理时做后验采样。 |
 | <a id="andrae26a-inference"></a>[DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants](https://proceedings.mlr.press/v306/andrae26a.html) | 数据同化 | 先用逆向采样把预报信息注入固定生成先验，再用观测引导条件采样。预报器可替换，生成先验无需逐轮重训。 |
 | <a id="baker26a-inference"></a>[Supervised Guidance Training for Infinite-Dimensional Diffusion Models](https://proceedings.mlr.press/v306/baker26a.html) | 函数空间逆问题 | 用无限维 Doob h 变换把后验分数拆成无条件分数与观测引导项，只训练引导分量即可复用函数空间的扩散先验。 |
+| <a id="bohde26a-inference"></a>[FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](https://proceedings.mlr.press/v306/bohde26a.html) | 质谱到分子生成 | 用正向碎裂模型找出候选分子中与观测质谱不符的局部片段，只重掩码并去噪这些片段，随推理预算逐步纠偏。 |
+| <a id="cao26c-inference"></a>[Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](https://proceedings.mlr.press/v306/cao26c.html) | 蛋白结合物设计 | 联合学习不同结合环境下的序列与结构，再在推理时混合多个环境的采样路径，以搜索同一条能适配多目标或多构象的序列。 |
 
 <a id="by-representation-learning"></a>
 
@@ -80,6 +103,7 @@
 | <a id="bahrini26a-evaluation"></a>[When Can We Trust Survival Model Evaluation ?](https://proceedings.mlr.press/v306/bahrini26a.html) | 生存模型评测 | 用未删失的完整事件时间作为基准，分别核对删失如何影响指标数值和模型排序。指标偏差适中也可能伴随排序失真。 |
 | <a id="bai26a-evaluation"></a>[Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](https://proceedings.mlr.press/v306/bai26a.html) | CAD 操作评测 | 用几何引导解析把建模序列切成单个操作，并用倒角和圆角专用的 CF-IoU 检查局部改动，避免整体形状相近掩盖操作错误。 |
 | <a id="becktepe26a-evaluation"></a>[Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://proceedings.mlr.press/v306/becktepe26a.html) | 流体控制强化学习 | 把可微 GPU 流体求解器和环境统一在 PyTorch 栈内，固定观测、执行和评测口径，让 PPO、SAC 与可微控制能直接对照。 |
+| <a id="cao26g-evaluation"></a>[SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://proceedings.mlr.press/v306/cao26g.html) | 仿真 Agent 成本评测 | 在测参成功率之外，把仿真器调用成本独立记账，并与固定扫描基线比较。论文中，多轮交互提高成功率的同时仍可能更耗时。 |
 
 <a id="by-theory-statistics"></a>
 

@@ -44,6 +44,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Embedding Trust: Semantic Isotropy Predicts Nonfactuality in Long-Form Text Generation](../../papers/llm.md#bhardwaj26a-evaluation) · 中文
 - [The Geometry of Reasoning: Self-Evaluation via Layerwise Trajectory Evolution](../../papers/llm.md#bi26e-evaluation) · 中文
 - [Attention Sinks as Internal Signals for Hallucination Detection in Large Language Models](../../papers/llm.md#binkowski26a-evaluation) · 中文
+- [Uncovering Competency Gaps in Large Language Models and Their Benchmarks](../../papers/llm.md#bohacek26a-evaluation) · 中文
+- [Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought](../../papers/llm.md#boppana26a-evaluation) · 中文
+- [Detecting Perspective Shifts in Multi-Agent Systems](../../papers/llm.md#bridgeford26a-evaluation) · 中文
+- [Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](../../papers/llm.md#calderon26a-evaluation) · 中文
 
 ### Computer Vision
 
@@ -51,6 +55,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](../../papers/computer-vision.md#ahmed26a-evaluation) · 中文
 - [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](../../papers/computer-vision.md#alexis26a-evaluation) · 中文
 - [Proactive Defense Benchmark against Deepfake Generation](../../papers/computer-vision.md#baek26e-evaluation) · 中文
+- [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../../papers/computer-vision.md#braun26b-evaluation) · 中文
 
 ### Natural Language Processing
 
@@ -68,6 +73,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 ### Multimodal Learning
 
 - [Jailbreaking Vision-Language Models Through the Visual Modality](../../papers/multimodal.md#azulay26a-evaluation) · 中文
+- [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](../../papers/multimodal.md#borchmann26a-evaluation) · 中文
+- [Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](../../papers/multimodal.md#bouguerra26a-evaluation) · 中文
+- [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](../../papers/multimodal.md#cao26i-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -79,6 +87,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Clustered Influence Functions](../../papers/ml-foundations.md#bado26a-evaluation) · 中文
 - [Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models](../../papers/ml-foundations.md#balef26a-evaluation) · 中文
 - [Universal Redundancies in Time Series Foundation Models](../../papers/ml-foundations.md#bao26c-evaluation) · 中文
+- [Verified SHAP: Provable Bounds for Exact Shapley Values of Neural Networks](../../papers/ml-foundations.md#boetius26a-evaluation) · 中文
+- [STABLEVAL: Disagreement-Aware and Stable Evaluation of AI Systems](../../papers/ml-foundations.md#bonagiri26a-evaluation) · 中文
+- [Conditional Coverage Diagnostics for Conformal Prediction](../../papers/ml-foundations.md#braun26c-evaluation) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -93,4 +104,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [When Can We Trust Survival Model Evaluation ?](../../papers/scientific-ml.md#bahrini26a-evaluation) · 中文
 - [Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](../../papers/scientific-ml.md#bai26a-evaluation) · 中文
 - [Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](../../papers/scientific-ml.md#becktepe26a-evaluation) · 中文
+- [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](../../papers/scientific-ml.md#cao26g-evaluation) · 中文
 <!-- classification:end -->

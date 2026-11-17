@@ -69,6 +69,11 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 ### Computer Vision
 
 - [Threshold-Guided Optimization for Visual Generative Models](../../papers/computer-vision.md#bai26c-loss-functions) · 中文
+- [Benchmarking Dense and Indiscernible Object Counting with Blueberries](../../papers/computer-vision.md#bo26a-loss-functions) · 中文
+
+### Natural Language Processing
+
+- [ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](../../papers/nlp.md#cai26d-loss-functions) · 中文
 
 ### Robotics
 
@@ -81,9 +86,11 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift](../../papers/ml-foundations.md#agirman26a-loss-functions) · 中文
 - [Optimal Learning from Label Proportions with General Loss Functions](../../papers/ml-foundations.md#applebaum26a-loss-functions) · 中文
 - [Approximate Equivariance via Projection-Based Regularisation](../../papers/ml-foundations.md#berndt26a-loss-functions) · 中文
+- [Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](../../papers/ml-foundations.md#cao26k-loss-functions) · 中文
 
 ### Scientific Machine Learning
 
 - [Heavy-tailed Physics-Informed Neural Networks](../../papers/scientific-ml.md#abijuru26b-loss-functions) · 中文
 - [Certificates for Complex-Compatible Learned Cochain Laplacians](../../papers/scientific-ml.md#anwer26a-loss-functions) · 中文
+- [HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](../../papers/scientific-ml.md#byeon26a-loss-functions) · 中文
 <!-- classification:end -->

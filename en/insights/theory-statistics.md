@@ -12,6 +12,14 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off](../../papers/llm.md#azizian26a-theory-statistics) · 中文
 - [Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment](../../papers/llm.md#bakman26a-theory-statistics) · 中文
 - [Belief Dynamics Reveal the Dual Nature of In-Context Learning and Activation Steering](../../papers/llm.md#bigelow26a-theory-statistics) · 中文
+- [Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction](../../papers/llm.md#blondel26a-theory-statistics) · 中文
+- [Deriving Neural Scaling Laws from the Statistics of Natural Language](../../papers/llm.md#cagnetta26a-theory-statistics) · 中文
+- [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](../../papers/llm.md#cai26p-theory-statistics) · 中文
+
+### Computer Vision
+
+- [Local Mechanisms of Compositional Generalization in Conditional Diffusion](../../papers/computer-vision.md#bradley26a-theory-statistics) · 中文
+- [Is Generation Required for Data-Efficient Perception?](../../papers/computer-vision.md#brady26b-theory-statistics) · 中文
 
 ### Natural Language Processing
 
@@ -32,6 +40,12 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Bandit Social Learning with Exploration Episodes](../../papers/reinforcement-learning.md#banihashem26a-theory-statistics) · 中文
 - [Optimal Rates for Feasible Payoff Set Estimation in Games](../../papers/reinforcement-learning.md#barbara26a-theory-statistics) · 中文
 - [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) · 中文
+- [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](../../papers/reinforcement-learning.md#bollini26a-theory-statistics) · 中文
+- [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) · 中文
+
+### Multimodal Learning
+
+- [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](../../papers/multimodal.md#cai26o-theory-statistics) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -75,6 +89,22 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Provably Learning Attention with Queries](../../papers/ml-foundations.md#bhattamishra26a-theory-statistics) · 中文
 - [Optimal Transport under Group Fairness Constraints](../../papers/ml-foundations.md#bleistein26a-theory-statistics) · 中文
 - [On Contraction of Sequential and Offset Rademacher Complexities](../../papers/ml-foundations.md#block26b-theory-statistics) · 中文
+- [Statistically Undetectable Backdoors in Deep Neural Networks](../../papers/ml-foundations.md#bogdanov26a-theory-statistics) · 中文
+- [Token Sample Complexity of Attention](../../papers/ml-foundations.md#bohbot26a-theory-statistics) · 中文
+- [Online Contract Design With Unknown Technology](../../papers/ml-foundations.md#bollini26b-theory-statistics) · 中文
+- [Persuasive Privacy](../../papers/ml-foundations.md#bon26a-theory-statistics) · 中文
+- [Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws](../../papers/ml-foundations.md#boncoraglio26a-theory-statistics) · 中文
+- [Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning](../../papers/ml-foundations.md#boudou26a-theory-statistics) · 中文
+- [Softmax as Linear Attention in the Large-Prompt Regime: a Measure-based Perspective](../../papers/ml-foundations.md#boursier26a-theory-statistics) · 中文
+- [Provable Bounds for the Learnability of Sample-Compressible Families from Noisy Samples](../../papers/ml-foundations.md#boushehrian26a-theory-statistics) · 中文
+- [The Expressive Power of Low Precision Softmax Transformers with (Summarized) Chain-of-Thought](../../papers/ml-foundations.md#brosamle26a-theory-statistics) · 中文
+- [Beyond Structural Symmetries: Linear Mode Connectivity via Neuron Identifiability](../../papers/ml-foundations.md#burgin26a-theory-statistics) · 中文
+- [All ERMs Can Fail in Stochastic Convex Optimization Lower Bounds in Linear Dimension](../../papers/ml-foundations.md#burla26a-theory-statistics) · 中文
+- [Robust Human-AI Complementarity under Uncertainty](../../papers/ml-foundations.md#byun26b-theory-statistics) · 中文
+- [Privacy-Aware Data Integration for Enhanced Quantile Inference under Heterogeneity](../../papers/ml-foundations.md#cai26e-theory-statistics) · 中文
+- [Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements](../../papers/ml-foundations.md#cai26l-theory-statistics) · 中文
+- [On the Robustness of Langevin Dynamics to Score Function Error](../../papers/ml-foundations.md#cao26b-theory-statistics) · 中文
+- [A Control-Theoretic View of Mamba on Stability and Robustness](../../papers/ml-foundations.md#cao26l-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
