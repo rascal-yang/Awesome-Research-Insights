@@ -3215,7 +3215,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3214	mao26c	Identifying Learnwares via Reduced Neural Conditional Mean Embedding	https://proceedings.mlr.press/v306/mao26c.html		written
 3215	mao26d	SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment	https://proceedings.mlr.press/v306/mao26d.html		written
 3216	mao26e	TriAttention: Efficient Long Reasoning with Trigonometric KV Compression	https://proceedings.mlr.press/v306/mao26e.html		written
-3217	mao26f	TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation	https://proceedings.mlr.press/v306/mao26f.html		written
+3217	mao26f	TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation	https://proceedings.mlr.press/v306/mao26f.html	原有贡献关与新增问题复核：PDF第3–5页的数据流水线为现有渲染、GPT-4o场景生成、OCR过滤及人工修订的组合，第8–9页验证现有PixArt和Lumina在新增文本图数据上微调的效果。主要新增为密集文字图像数据覆盖及测试集，未分离出可独立复用的新学习机制或有对照支持的新训练规律；长短文本生成分数提升不能单独通过收录关。未能指出其改变具身或相关深度学习技术选择的具体新增证据，按数据应用/工程集成排除，而非仅因内容生成题目排除。	excluded
 3218	mao26g	LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning	https://proceedings.mlr.press/v306/mao26g.html		written
 3219	mao26h	SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment	https://proceedings.mlr.press/v306/mao26h.html		written
 3220	mao26i	Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective	https://proceedings.mlr.press/v306/mao26i.html		written
@@ -3225,7 +3225,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3224	marchetti26a	Sequential Group Composition: A Window into the Mechanics of Deep Learning	https://proceedings.mlr.press/v306/marchetti26a.html		written
 3225	marcoccia26a	NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies	https://proceedings.mlr.press/v306/marcoccia26a.html		written
 3226	marincione26a	PHALAR: Phasors for Learned Musical Audio Representations	https://proceedings.mlr.press/v306/marincione26a.html		written
-3227	marone26a	mmBERT: A Modern Multilingual Encoder with Annealed Language Learning	https://proceedings.mlr.press/v306/marone26a.html		written
+3227	marone26a	mmBERT: A Modern Multilingual Encoder with Annealed Language Learning	https://proceedings.mlr.press/v306/marone26a.html	新增问题复查通过：具体改变稀缺训练数据的加入时机。PDF第4页表3的英语/德语/土耳其语受控试验固定30B训练总量与100M独特土耳其语token，对照自然分布全程出现和只在末5B学习率衰减期加入，最终掩码准确率69.32%对68.37%。可独立使用的是将稀缺数据时机作为训练日程变量，避免只看预训练早期领先就提前淘汰末期加入方案；证据限于多语编码器，不将3T规模或1833语言数量作为价值，不声称机器人数据已验证。	written
 3228	marro26a	Benchmarking at the Edge of Comprehension	https://proceedings.mlr.press/v306/marro26a.html		written
 3229	martens26a	OC-space: a Unifying Perspective on Verification of Tree Ensembles	https://proceedings.mlr.press/v306/martens26a.html		written
 3230	martinez-taboada26a	Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables	https://proceedings.mlr.press/v306/martinez-taboada26a.html		written

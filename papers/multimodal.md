@@ -243,7 +243,6 @@
 - <a id="li26bm-data-strategies"></a>[Training Data Efficiency in Multimodal Process Reward Models](../conferences/icml-2026/cards/2401-2500.md#paper-li26bm)
 - <a id="lin26c-data-strategies"></a>[Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code](../conferences/icml-2026/cards/2701-2800.md#paper-lin26c)
 - <a id="liu26ag-data-strategies"></a>[TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ag)
-- <a id="mao26f-data-strategies"></a>[TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](../conferences/icml-2026/cards/3201-3300.md#paper-mao26f)
 - <a id="naharas26a-data-strategies"></a>[Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../conferences/icml-2026/cards/3401-3500.md#paper-naharas26a)
 - <a id="ryan26a-data-strategies"></a>[Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models](../conferences/icml-2026/cards/3901-4000.md#paper-ryan26a)
 

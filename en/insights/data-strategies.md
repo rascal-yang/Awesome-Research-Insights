@@ -157,7 +157,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Training Data Efficiency in Multimodal Process Reward Models](../../conferences/icml-2026/cards/2401-2500.md#li26bm-data-strategies) · 中文
 - [Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code](../../conferences/icml-2026/cards/2701-2800.md#lin26c-data-strategies) · 中文
 - [TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../../conferences/icml-2026/cards/2801-2900.md#liu26ag-data-strategies) · 中文
-- [TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](../../conferences/icml-2026/cards/3201-3300.md#mao26f-data-strategies) · 中文
 - [Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../../conferences/icml-2026/cards/3401-3500.md#naharas26a-data-strategies) · 中文
 - [Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#ryan26a-data-strategies) · 中文
 
