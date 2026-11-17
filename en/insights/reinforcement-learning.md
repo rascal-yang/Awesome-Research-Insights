@@ -87,6 +87,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks](../../conferences/icml-2026/cards/2001-2100.md#ke26c-reinforcement-learning) · 中文
 - [A Regret Minimization Framework on Preference Learning in Large Language Models](../../conferences/icml-2026/cards/2001-2100.md#kim26g-reinforcement-learning) · 中文
 - [Verifying Meta-Awareness via Predictive Rewards in Reasoning Models](../../conferences/icml-2026/cards/2101-2200.md#kim26s-reinforcement-learning) · 中文
+- [Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR](../../conferences/icml-2026/cards/2101-2200.md#kim26aa-reinforcement-learning) · 中文
+- [Discounted Beta–Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/2101-2200.md#kim26bl-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -176,6 +178,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Mirror Descent Actor Critic via Bounded Advantage Learning](../../conferences/icml-2026/cards/1801-1900.md#iwaki26a-reinforcement-learning) · 中文
 - [Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design](../../conferences/icml-2026/cards/1901-2000.md#jiang26u-reinforcement-learning) · 中文
 - [Budget-Efficient Attacks and Robustness Training for Cooperative MARL](../../conferences/icml-2026/cards/1901-2000.md#jiang26ba-reinforcement-learning) · 中文
+- [Frictional Q-Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26ai-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -243,4 +246,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Open Materials Generation with Inference-Time Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hollmer26a-reinforcement-learning) · 中文
 - [CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · 中文
 - [Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · 中文
+- [Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · 中文
 <!-- classification:end -->

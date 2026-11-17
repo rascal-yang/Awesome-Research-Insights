@@ -184,4 +184,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [What Makes a Representation Good for Single-Cell Perturbation Prediction?](../../conferences/icml-2026/cards/1901-2000.md#jiang26ad-representation-learning) · 中文
 - [Meta-learning Structure-Preserving Dynamics](../../conferences/icml-2026/cards/1901-2000.md#jing26e-representation-learning) · 中文
 - [Explicit representation of germline and non-germline residues improves antibody language modeling](../../conferences/icml-2026/cards/2001-2100.md#kim26c-representation-learning) · 中文
+- [DNACHUNKER: Learnable Tokenization for DNA Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · 中文
 <!-- classification:end -->

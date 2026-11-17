@@ -67,6 +67,7 @@
 
 - [面向决策的数字孪生](../conferences/icml-2026/cards/0001-0100.md#amad26a-loss-functions) · DT²: Decision-Targeted Digital Twins
 - [单步操作策略的速度方向监督](../conferences/icml-2026/cards/1001-1100.md#fang26h-loss-functions) · OMP: One-step Meanflow Policy with Directional Alignment
+- [用本体状态距离给视觉摘要提供软监督](../conferences/icml-2026/cards/2101-2200.md#kim26ao-loss-functions) · Contrastive Representation Regularization for Vision-Language-Action Models
 - <a id="align-action-features-with-latent-actions"></a><a id="latent-action-alignment"></a>[用潜动作监督动作专家的中间层](../conferences/icml-2026/cards/2801-2900.md#liu26bl-loss-functions) · LARA: Latent Action Representation Alignment for Vision-Language-Action Models
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[用目标区域重建做辅助监督](../papers/reconvla.md#reconvla-loss-functions) · ReconVLA
 
@@ -110,6 +111,7 @@
 - [用能量构造去噪漂移监督并复用探索轨迹](../conferences/icml-2026/cards/1401-1500.md#havens26a-loss-functions) · Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes
 - [用任务对称性约束加速迟发泛化](../conferences/icml-2026/cards/1701-1800.md#hwang26d-loss-functions) · Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks
 - [在目标条件下惩罚预测与偏差的依赖](../conferences/icml-2026/cards/2001-2100.md#kavak26a-loss-functions) · DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation
+- [无标签局部预测一致性](../conferences/icml-2026/cards/2101-2200.md#kim26ab-loss-functions) · Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data
 
 <a id="by-graph-and-recommendation"></a>
 

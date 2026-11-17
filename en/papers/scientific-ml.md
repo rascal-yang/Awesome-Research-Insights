@@ -55,6 +55,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ju26a-architecture"></a>[Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems](../../conferences/icml-2026/cards/2001-2100.md#paper-ju26a)
 - <a id="kaminsky26a-architecture"></a>[Overcoming PINNs Failure Modes In High Dimension With Low-Rank Fourier Sum](../../conferences/icml-2026/cards/2001-2100.md#paper-kaminsky26a)
 - <a id="kang26a-architecture"></a>[Time-Conditioned Foreseeing: An EHR-Specific Foundation Model for Irregular Dynamics and Calendrical Time](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26a)
+- <a id="kim26z-architecture"></a>[CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26z)
+- <a id="kim26an-architecture"></a>[Machine Learning Hamiltonians are Accurate Energy-Force Predictors](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26an)
+- <a id="kim26bp-architecture"></a>[EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bp)
 
 <a id="by-modules"></a>
 
@@ -127,6 +130,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="hollmer26a-reinforcement-learning"></a>[Open Materials Generation with Inference-Time Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hollmer26a)
 - <a id="hu26al-reinforcement-learning"></a>[CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26al)
 - <a id="ivanovic26a-reinforcement-learning"></a>[Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../../conferences/icml-2026/cards/1801-1900.md#paper-ivanovic26a)
+- <a id="kim26ad-reinforcement-learning"></a>[Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ad)
 
 <a id="by-training-strategies"></a>
 
@@ -151,6 +155,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jin26l-training-strategies"></a>[ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26l)
 - <a id="jing26b-training-strategies"></a>[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26b)
 - <a id="kim26q-training-strategies"></a>[Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26q)
+- <a id="kim26au-training-strategies"></a>[Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26au)
 
 <a id="by-data-strategies"></a>
 
@@ -218,6 +223,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jiang26ad-representation-learning"></a>[What Makes a Representation Good for Single-Cell Perturbation Prediction?](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ad)
 - <a id="jing26e-representation-learning"></a>[Meta-learning Structure-Preserving Dynamics](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26e)
 - <a id="kim26c-representation-learning"></a>[Explicit representation of germline and non-germline residues improves antibody language modeling](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26c)
+- <a id="kim26bn-representation-learning"></a>[DNACHUNKER: Learnable Tokenization for DNA Language Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bn)
 
 <a id="by-evaluation"></a>
 
@@ -260,4 +266,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jiao26a-theory-statistics"></a>[$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26a)
 - <a id="jiao26c-theory-statistics"></a>[Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26c)
 - <a id="kim26m-theory-statistics"></a>[On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26m)
+- <a id="kim26bd-theory-statistics"></a>[Identifying Connectivity Distributions from Neural Dynamics Using Flows](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bd)
 <!-- classification:end -->

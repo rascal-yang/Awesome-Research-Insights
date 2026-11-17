@@ -70,6 +70,8 @@ Training schedules, curricula, and task or stage composition.
 - [Critique-Guided Distillation for Robust Reasoning via Refinement](../../conferences/icml-2026/cards/2001-2100.md#kapusuzoglu26a-training-strategies) · 中文
 - [On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length](../../conferences/icml-2026/cards/2001-2100.md#kim26h-training-strategies) · 中文
 - [AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](../../conferences/icml-2026/cards/2101-2200.md#kim26v-training-strategies) · 中文
+- [From Drift to Coherence: Stabilizing Beliefs in LLMs](../../conferences/icml-2026/cards/2101-2200.md#kim26ah-training-strategies) · 中文
+- [DiscoverLLM: From Executing Intents to Discovering Them](../../conferences/icml-2026/cards/2101-2200.md#kim26av-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -103,6 +105,8 @@ Training schedules, curricula, and task or stage composition.
 
 - [Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models](../../conferences/icml-2026/cards/1201-1300.md#geng26c-training-strategies) · 中文
 - [ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control](../../conferences/icml-2026/cards/1601-1700.md#hu26an-training-strategies) · 中文
+- [Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages](../../conferences/icml-2026/cards/2101-2200.md#kim26ak-training-strategies) · 中文
+- [Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -190,6 +194,7 @@ Training schedules, curricula, and task or stage composition.
 - [MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](../../conferences/icml-2026/cards/1901-2000.md#jiang26c-training-strategies) · 中文
 - [SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](../../conferences/icml-2026/cards/2001-2100.md#jung26f-training-strategies) · 中文
 - [Manifold-Aware Perturbations for Constrained Generative Modeling](../../conferences/icml-2026/cards/2001-2100.md#keegan26a-training-strategies) · 中文
+- [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](../../conferences/icml-2026/cards/2101-2200.md#kim26bh-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -225,4 +230,5 @@ Training schedules, curricula, and task or stage composition.
 - [ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation](../../conferences/icml-2026/cards/1901-2000.md#jin26l-training-strategies) · 中文
 - [Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](../../conferences/icml-2026/cards/1901-2000.md#jing26b-training-strategies) · 中文
 - [Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations](../../conferences/icml-2026/cards/2101-2200.md#kim26q-training-strategies) · 中文
+- [Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor](../../conferences/icml-2026/cards/2101-2200.md#kim26au-training-strategies) · 中文
 <!-- classification:end -->

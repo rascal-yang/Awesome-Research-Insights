@@ -96,6 +96,7 @@
 - <a id="kang26g-optimization"></a>[A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks](../conferences/icml-2026/cards/2001-2100.md#paper-kang26g)
 - <a id="kang26s-optimization"></a>[Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction](../conferences/icml-2026/cards/2001-2100.md#paper-kang26s)
 - <a id="khalafi26a-optimization"></a>[Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints](../conferences/icml-2026/cards/2001-2100.md#paper-khalafi26a)
+- <a id="kim26ax-optimization"></a>[MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ax)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -206,6 +207,7 @@
 - <a id="jang26d-inference"></a>[Self-Refining Video Sampling](../conferences/icml-2026/cards/1801-1900.md#paper-jang26d)
 - <a id="jia26g-inference"></a>[Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance](../conferences/icml-2026/cards/1801-1900.md#paper-jia26g)
 - <a id="jiao26e-inference"></a>[Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26e)
+- <a id="kim26bo-inference"></a>[Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bo)
 
 <a id="by-representation-learning"></a>
 
@@ -269,6 +271,9 @@
 - <a id="kapl26b-evaluation"></a>[Are Object-Centric Representations Better at Compositional Generalization?](../conferences/icml-2026/cards/2001-2100.md#paper-kapl26b)
 - <a id="kim26k-evaluation"></a>[Dissect and Prune: Enhancing Robustness in AI-Generated Image Detection](../conferences/icml-2026/cards/2001-2100.md#paper-kim26k)
 - <a id="kim26w-evaluation"></a>[Unlocking Noise-Resistant Vision: Key Architectural Secrets for Robust Models Against Gaussian Noise](../conferences/icml-2026/cards/2101-2200.md#paper-kim26w)
+- <a id="kim26aq-evaluation"></a>[Localizing Memorized Regions in Diffusion Models via Coordinate-Wise Curvature Differences](../conferences/icml-2026/cards/2101-2200.md#paper-kim26aq)
+- <a id="kim26as-evaluation"></a>[Adversarial Robustness of Implicit Neural Representation-Based Classifiers](../conferences/icml-2026/cards/2101-2200.md#paper-kim26as)
+- <a id="kim26aw-evaluation"></a>[Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution](../conferences/icml-2026/cards/2101-2200.md#paper-kim26aw)
 
 <a id="by-theory-statistics"></a>
 

@@ -148,6 +148,7 @@ Model-wide design and information flow.
 - [PRISM: Parallel Residual Iterative Sequence Model](../../conferences/icml-2026/cards/1901-2000.md#jiang26e-architecture) · 中文
 - [Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects](../../conferences/icml-2026/cards/2001-2100.md#kano26a-architecture) · 中文
 - [Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries](../../conferences/icml-2026/cards/2001-2100.md#karjol26a-architecture) · 中文
+- [NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces](../../conferences/icml-2026/cards/2101-2200.md#kim26ay-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -213,4 +214,7 @@ Model-wide design and information flow.
 - [Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems](../../conferences/icml-2026/cards/2001-2100.md#ju26a-architecture) · 中文
 - [Overcoming PINNs Failure Modes In High Dimension With Low-Rank Fourier Sum](../../conferences/icml-2026/cards/2001-2100.md#kaminsky26a-architecture) · 中文
 - [Time-Conditioned Foreseeing: An EHR-Specific Foundation Model for Irregular Dynamics and Calendrical Time](../../conferences/icml-2026/cards/2001-2100.md#kang26a-architecture) · 中文
+- [CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching](../../conferences/icml-2026/cards/2101-2200.md#kim26z-architecture) · 中文
+- [Machine Learning Hamiltonians are Accurate Energy-Force Predictors](../../conferences/icml-2026/cards/2101-2200.md#kim26an-architecture) · 中文
+- [EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs](../../conferences/icml-2026/cards/2101-2200.md#kim26bp-architecture) · 中文
 <!-- classification:end -->

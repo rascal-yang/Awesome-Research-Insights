@@ -55,6 +55,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Automatic Pruning Discovery for Large Language Models](../../conferences/icml-2026/cards/2001-2100.md#kang26l-optimization) · 中文
 - [Towards Solving the Gilbert-Pollak Conjecture via Large Language Models](../../conferences/icml-2026/cards/2001-2100.md#ke26a-optimization) · 中文
 - [Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery](../../conferences/icml-2026/cards/2001-2100.md#ke26b-optimization) · 中文
+- [TokenDrop: Token-Level Importance-Aware Backward Propagation Skipping for Efficient LLM Fine-Tuning](../../conferences/icml-2026/cards/2101-2200.md#kim26bc-optimization) · 中文
+- [GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache](../../conferences/icml-2026/cards/2101-2200.md#kim26bf-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +75,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks](../../conferences/icml-2026/cards/2001-2100.md#kang26g-optimization) · 中文
 - [Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction](../../conferences/icml-2026/cards/2001-2100.md#kang26s-optimization) · 中文
 - [Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints](../../conferences/icml-2026/cards/2001-2100.md#khalafi26a-optimization) · 中文
+- [MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks](../../conferences/icml-2026/cards/2101-2200.md#kim26ax-optimization) · 中文
 
 <a id="by-nlp"></a>
 

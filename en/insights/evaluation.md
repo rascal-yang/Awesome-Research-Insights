@@ -172,6 +172,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Robust AI Evaluation through Maximal Lotteries](../../conferences/icml-2026/cards/2001-2100.md#khalaf26a-evaluation) · 中文
 - [Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation](../../conferences/icml-2026/cards/2001-2100.md#kim26d-evaluation) · 中文
 - [VALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26r-evaluation) · 中文
+- [Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History](../../conferences/icml-2026/cards/2101-2200.md#kim26ap-evaluation) · 中文
+- [BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback](../../conferences/icml-2026/cards/2101-2200.md#kim26at-evaluation) · 中文
+- [Investigating Component Contributions in Multi-Agent ML Systems](../../conferences/icml-2026/cards/2101-2200.md#kim26ba-evaluation) · 中文
+- [Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents](../../conferences/icml-2026/cards/2101-2200.md#kim26bg-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -203,6 +207,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Are Object-Centric Representations Better at Compositional Generalization?](../../conferences/icml-2026/cards/2001-2100.md#kapl26b-evaluation) · 中文
 - [Dissect and Prune: Enhancing Robustness in AI-Generated Image Detection](../../conferences/icml-2026/cards/2001-2100.md#kim26k-evaluation) · 中文
 - [Unlocking Noise-Resistant Vision: Key Architectural Secrets for Robust Models Against Gaussian Noise](../../conferences/icml-2026/cards/2101-2200.md#kim26w-evaluation) · 中文
+- [Localizing Memorized Regions in Diffusion Models via Coordinate-Wise Curvature Differences](../../conferences/icml-2026/cards/2101-2200.md#kim26aq-evaluation) · 中文
+- [Adversarial Robustness of Implicit Neural Representation-Based Classifiers](../../conferences/icml-2026/cards/2101-2200.md#kim26as-evaluation) · 中文
+- [Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution](../../conferences/icml-2026/cards/2101-2200.md#kim26aw-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

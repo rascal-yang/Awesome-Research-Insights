@@ -134,6 +134,8 @@
 - <a id="kang26l-optimization"></a>[Automatic Pruning Discovery for Large Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-kang26l)
 - <a id="ke26a-optimization"></a>[Towards Solving the Gilbert-Pollak Conjecture via Large Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-ke26a)
 - <a id="ke26b-optimization"></a>[Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery](../conferences/icml-2026/cards/2001-2100.md#paper-ke26b)
+- <a id="kim26bc-optimization"></a>[TokenDrop: Token-Level Importance-Aware Backward Propagation Skipping for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bc)
+- <a id="kim26bf-optimization"></a>[GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bf)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -213,6 +215,8 @@
 - <a id="ke26c-reinforcement-learning"></a>[MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks](../conferences/icml-2026/cards/2001-2100.md#paper-ke26c)
 - <a id="kim26g-reinforcement-learning"></a>[A Regret Minimization Framework on Preference Learning in Large Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-kim26g)
 - <a id="kim26s-reinforcement-learning"></a>[Verifying Meta-Awareness via Predictive Rewards in Reasoning Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26s)
+- <a id="kim26aa-reinforcement-learning"></a>[Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR](../conferences/icml-2026/cards/2101-2200.md#paper-kim26aa)
+- <a id="kim26bl-reinforcement-learning"></a>[Discounted Beta–Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bl)
 
 <a id="by-training-strategies"></a>
 
@@ -275,6 +279,8 @@
 - <a id="kapusuzoglu26a-training-strategies"></a>[Critique-Guided Distillation for Robust Reasoning via Refinement](../conferences/icml-2026/cards/2001-2100.md#paper-kapusuzoglu26a)
 - <a id="kim26h-training-strategies"></a>[On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length](../conferences/icml-2026/cards/2001-2100.md#paper-kim26h)
 - <a id="kim26v-training-strategies"></a>[AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](../conferences/icml-2026/cards/2101-2200.md#paper-kim26v)
+- <a id="kim26ah-training-strategies"></a>[From Drift to Coherence: Stabilizing Beliefs in LLMs](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ah)
+- <a id="kim26av-training-strategies"></a>[DiscoverLLM: From Executing Intents to Discovering Them](../conferences/icml-2026/cards/2101-2200.md#paper-kim26av)
 
 <a id="by-data-strategies"></a>
 
@@ -447,6 +453,11 @@
 - <a id="kim26i-inference"></a>[Early Decisions Matter: Proximity Bias and Initial Trajectory Shaping in Non-Autoregressive Diffusion Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-kim26i)
 - <a id="kim26t-inference"></a>[DAPD: Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs](../conferences/icml-2026/cards/2101-2200.md#paper-kim26t)
 - <a id="kim26y-inference"></a>[Block-wise Codeword Embedding for Reliable Multi-bit Text Watermarking](../conferences/icml-2026/cards/2101-2200.md#paper-kim26y)
+- <a id="kim26ac-inference"></a>[Fine-Tuning Masked Diffusion for Provable Self-Correction](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ac)
+- <a id="kim26af-inference"></a>[BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference](../conferences/icml-2026/cards/2101-2200.md#paper-kim26af)
+- <a id="kim26ag-inference"></a>[EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ag)
+- <a id="kim26am-inference"></a>[WAVE: Window-Aware Vocabulary-Efficient Early-Exit for Training-Free LLM Acceleration](../conferences/icml-2026/cards/2101-2200.md#paper-kim26am)
+- <a id="kim26bj-inference"></a>[CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bj)
 
 <a id="by-representation-learning"></a>
 
@@ -622,6 +633,10 @@
 - <a id="khalaf26a-evaluation"></a>[Robust AI Evaluation through Maximal Lotteries](../conferences/icml-2026/cards/2001-2100.md#paper-khalaf26a)
 - <a id="kim26d-evaluation"></a>[Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation](../conferences/icml-2026/cards/2001-2100.md#paper-kim26d)
 - <a id="kim26r-evaluation"></a>[VALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26r)
+- <a id="kim26ap-evaluation"></a>[Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ap)
+- <a id="kim26at-evaluation"></a>[BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback](../conferences/icml-2026/cards/2101-2200.md#paper-kim26at)
+- <a id="kim26ba-evaluation"></a>[Investigating Component Contributions in Multi-Agent ML Systems](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ba)
+- <a id="kim26bg-evaluation"></a>[Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bg)
 
 <a id="by-theory-statistics"></a>
 

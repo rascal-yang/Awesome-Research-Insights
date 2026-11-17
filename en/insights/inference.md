@@ -147,6 +147,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Early Decisions Matter: Proximity Bias and Initial Trajectory Shaping in Non-Autoregressive Diffusion Language Models](../../conferences/icml-2026/cards/2001-2100.md#kim26i-inference) · 中文
 - [DAPD: Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs](../../conferences/icml-2026/cards/2101-2200.md#kim26t-inference) · 中文
 - [Block-wise Codeword Embedding for Reliable Multi-bit Text Watermarking](../../conferences/icml-2026/cards/2101-2200.md#kim26y-inference) · 中文
+- [Fine-Tuning Masked Diffusion for Provable Self-Correction](../../conferences/icml-2026/cards/2101-2200.md#kim26ac-inference) · 中文
+- [BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference](../../conferences/icml-2026/cards/2101-2200.md#kim26af-inference) · 中文
+- [EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments](../../conferences/icml-2026/cards/2101-2200.md#kim26ag-inference) · 中文
+- [WAVE: Window-Aware Vocabulary-Efficient Early-Exit for Training-Free LLM Acceleration](../../conferences/icml-2026/cards/2101-2200.md#kim26am-inference) · 中文
+- [CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution](../../conferences/icml-2026/cards/2101-2200.md#kim26bj-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -204,6 +209,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Self-Refining Video Sampling](../../conferences/icml-2026/cards/1801-1900.md#jang26d-inference) · 中文
 - [Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance](../../conferences/icml-2026/cards/1801-1900.md#jia26g-inference) · 中文
 - [Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](../../conferences/icml-2026/cards/1901-2000.md#jiao26e-inference) · 中文
+- [Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bo-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -231,6 +237,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](../../conferences/icml-2026/cards/1301-1400.md#gu26a-inference) · 中文
 - [RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](../../conferences/icml-2026/cards/1301-1400.md#guo26r-inference) · 中文
 - [Recursive Monte-Carlo Tree Search](../../conferences/icml-2026/cards/1601-1700.md#howard26a-inference) · 中文
+- [Identifiable Token Correspondence for World Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bq-inference) · 中文
 
 <a id="by-robotics"></a>
 
@@ -302,6 +309,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing](../../conferences/icml-2026/cards/1801-1900.md#ji26h-inference) · 中文
 - [USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ac-inference) · 中文
 - [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](../../conferences/icml-2026/cards/1901-2000.md#jiang26aq-inference) · 中文
+- [ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding](../../conferences/icml-2026/cards/2101-2200.md#kim26al-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

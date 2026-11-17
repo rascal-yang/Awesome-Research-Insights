@@ -101,6 +101,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="iwaki26a-reinforcement-learning"></a>[Mirror Descent Actor Critic via Bounded Advantage Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-iwaki26a)
 - <a id="jiang26u-reinforcement-learning"></a>[Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26u)
 - <a id="jiang26ba-reinforcement-learning"></a>[Budget-Efficient Attacks and Robustness Training for Cooperative MARL](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ba)
+- <a id="kim26ai-reinforcement-learning"></a>[Frictional Q-Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ai)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>
@@ -122,6 +123,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="gu26a-inference"></a>[SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26a)
 - <a id="guo26r-inference"></a>[RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26r)
 - <a id="howard26a-inference"></a>[Recursive Monte-Carlo Tree Search](../../conferences/icml-2026/cards/1601-1700.md#paper-howard26a)
+- <a id="kim26bq-inference"></a>[Identifiable Token Correspondence for World Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bq)
 
 <a id="by-representation-learning"></a>
 
@@ -182,4 +184,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="hwang26c-theory-statistics"></a>[Box Thirding: Anytime Best Arm Identification under Insufficient Sampling](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26c)
 - <a id="ipsen26a-theory-statistics"></a>[Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../../conferences/icml-2026/cards/1801-1900.md#paper-ipsen26a)
 - <a id="ji26n-theory-statistics"></a>[Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26n)
+- <a id="kim26ar-theory-statistics"></a>[Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ar)
 <!-- classification:end -->

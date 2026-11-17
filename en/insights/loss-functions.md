@@ -67,6 +67,7 @@ Objectives, auxiliary supervision, and regularization.
 
 - [DT²: Decision-Targeted Digital Twins](../../conferences/icml-2026/cards/0001-0100.md#amad26a-loss-functions) · 中文
 - [OMP: One-step Meanflow Policy with Directional Alignment](../../conferences/icml-2026/cards/1001-1100.md#fang26h-loss-functions) · 中文
+- [Contrastive Representation Regularization for Vision-Language-Action Models](../../conferences/icml-2026/cards/2101-2200.md#kim26ao-loss-functions) · 中文
 - <a id="align-action-features-with-latent-actions"></a><a id="latent-action-alignment"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../../conferences/icml-2026/cards/2801-2900.md#liu26bl-loss-functions) · 中文
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[ReconVLA](../../papers/reconvla.md#reconvla-loss-functions) · 中文
 
@@ -110,6 +111,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](../../conferences/icml-2026/cards/1401-1500.md#havens26a-loss-functions) · 中文
 - [Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks](../../conferences/icml-2026/cards/1701-1800.md#hwang26d-loss-functions) · 中文
 - [DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation](../../conferences/icml-2026/cards/2001-2100.md#kavak26a-loss-functions) · 中文
+- [Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data](../../conferences/icml-2026/cards/2101-2200.md#kim26ab-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -184,4 +184,5 @@
 - [把稀疏扰动响应与稳态基因表达分块](../conferences/icml-2026/cards/1901-2000.md#jiang26ad-representation-learning) · What Makes a Representation Good for Single-Cell Perturbation Prediction?
 - [用可快速调制的潜码适配保结构动力学](../conferences/icml-2026/cards/1901-2000.md#jing26e-representation-learning) · Meta-learning Structure-Preserving Dynamics
 - [显式区分生殖系与体细胞突变词元](../conferences/icml-2026/cards/2001-2100.md#kim26c-representation-learning) · Explicit representation of germline and non-germline residues improves antibody language modeling
+- [用掩码保护的可学习分段编码 DNA](../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · DNACHUNKER: Learnable Tokenization for DNA Language Models
 <!-- classification:end -->

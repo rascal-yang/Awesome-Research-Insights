@@ -40,6 +40,7 @@
 - <a id="jiang26e-architecture"></a>[PRISM: Parallel Residual Iterative Sequence Model](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26e)
 - <a id="kano26a-architecture"></a>[Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects](../conferences/icml-2026/cards/2001-2100.md#paper-kano26a)
 - <a id="karjol26a-architecture"></a>[Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries](../conferences/icml-2026/cards/2001-2100.md#paper-karjol26a)
+- <a id="kim26ay-architecture"></a>[NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ay)
 
 <a id="by-modules"></a>
 
@@ -75,6 +76,7 @@
 - <a id="hwang26a-modules"></a>[PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26a)
 - <a id="jia26l-modules"></a>[Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization](../conferences/icml-2026/cards/1801-1900.md#paper-jia26l)
 - <a id="jung26g-modules"></a>[Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization](../conferences/icml-2026/cards/2001-2100.md#paper-jung26g)
+- <a id="kim26bk-modules"></a>[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bk)
 
 <a id="by-loss-functions"></a>
 
@@ -97,6 +99,7 @@
 - <a id="havens26a-loss-functions"></a>[Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](../conferences/icml-2026/cards/1401-1500.md#paper-havens26a)
 - <a id="hwang26d-loss-functions"></a>[Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26d)
 - <a id="kavak26a-loss-functions"></a>[DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation](../conferences/icml-2026/cards/2001-2100.md#paper-kavak26a)
+- <a id="kim26ab-loss-functions"></a>[Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ab)
 
 <a id="by-optimization"></a>
 
@@ -293,6 +296,7 @@
 - <a id="jiang26c-training-strategies"></a>[MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26c)
 - <a id="jung26f-training-strategies"></a>[SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](../conferences/icml-2026/cards/2001-2100.md#paper-jung26f)
 - <a id="keegan26a-training-strategies"></a>[Manifold-Aware Perturbations for Constrained Generative Modeling](../conferences/icml-2026/cards/2001-2100.md#paper-keegan26a)
+- <a id="kim26bh-training-strategies"></a>[AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bh)
 
 <a id="by-data-strategies"></a>
 
@@ -633,4 +637,9 @@
 - <a id="khot26a-theory-statistics"></a>[Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference](../conferences/icml-2026/cards/2001-2100.md#paper-khot26a)
 - <a id="kim26l-theory-statistics"></a>[Robust and Consistent Ski Rental with Distributional Advice](../conferences/icml-2026/cards/2001-2100.md#paper-kim26l)
 - <a id="kim26n-theory-statistics"></a>[Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space](../conferences/icml-2026/cards/2101-2200.md#paper-kim26n)
+- <a id="kim26ae-theory-statistics"></a>[Semi-Supervised Learning with Noisy Proxy Covariates: Generalization Bounds and Distribution Regression](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ae)
+- <a id="kim26aj-theory-statistics"></a>[Gradient Descent with Large Step Size Restores Symmetry in Deep Linear Networks with Multi-Pathway](../conferences/icml-2026/cards/2101-2200.md#paper-kim26aj)
+- <a id="kim26bb-theory-statistics"></a>[Multi-task Linear Regression without Eigenvalue Lower Bounds: Adaptivity, Robustness, and Safety](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bb)
+- <a id="kim26be-theory-statistics"></a>[Stability Analysis of Sharpness-Aware Minimization](../conferences/icml-2026/cards/2101-2200.md#paper-kim26be)
+- <a id="kim26bi-theory-statistics"></a>[Transfer Learning in High-dimensional Ising Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bi)
 <!-- classification:end -->

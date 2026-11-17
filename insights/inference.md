@@ -147,6 +147,11 @@
 - [用轻量规划器决定扩散解码先解哪里](../conferences/icml-2026/cards/2001-2100.md#kim26i-inference) · Early Decisions Matter: Proximity Bias and Initial Trajectory Shaping in Non-Autoregressive Diffusion Language Models
 - [每步在注意力依赖图上挑独立词元并行解掩](../conferences/icml-2026/cards/2101-2200.md#kim26t-inference) · DAPD: Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs
 - [先盲估计水印消息，再按指定码字验证](../conferences/icml-2026/cards/2101-2200.md#kim26y-inference) · Block-wise Codeword Embedding for Reliable Multi-bit Text Watermarking
+- [掩码扩散的词元纠错](../conferences/icml-2026/cards/2101-2200.md#kim26ac-inference) · Fine-Tuning Masked Diffusion for Provable Self-Correction
+- [历史信标查询压缩推理缓存](../conferences/icml-2026/cards/2101-2200.md#kim26af-inference) · BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference
+- [长对话的分情节 KV 缓存](../conferences/icml-2026/cards/2101-2200.md#kim26ag-inference) · EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments
+- [在退出窗口入口为后续层缩窄词表](../conferences/icml-2026/cards/2101-2200.md#kim26am-inference) · WAVE: Window-Aware Vocabulary-Efficient Early-Exit for Training-Free LLM Acceleration
+- [权限动作前按遮蔽归因选择性启动清洗](../conferences/icml-2026/cards/2101-2200.md#kim26bj-inference) · CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution
 
 <a id="by-computer-vision"></a>
 
@@ -204,6 +209,7 @@
 - [由视频生成器自校正高不确定区域](../conferences/icml-2026/cards/1801-1900.md#jang26d-inference) · Self-Refining Video Sampling
 - [按局部度量预条件扩散引导](../conferences/icml-2026/cards/1801-1900.md#jia26g-inference) · Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance
 - [把去噪器评估挪到估计的目标端点](../conferences/icml-2026/cards/1901-2000.md#jiao26e-inference) · Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach
+- [以前瞻样本估未来奖赏并免反传引导](../conferences/icml-2026/cards/2101-2200.md#kim26bo-inference) · Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -231,6 +237,7 @@
 - [空域避碰策略的运动学约束](../conferences/icml-2026/cards/1301-1400.md#gu26a-inference) · SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace
 - [为离线控制检索可达高回报子目标](../conferences/icml-2026/cards/1301-1400.md#guo26r-inference) · RAD: Retrieval High-quality Demonstrations to Enhance Decision-making
 - [用先验扩树后从叶向根统一重估](../conferences/icml-2026/cards/1601-1700.md#howard26a-inference) · Recursive Monte-Carlo Tree Search
+- [解码下一帧时联合分配复制或生成](../conferences/icml-2026/cards/2101-2200.md#kim26bq-inference) · Identifiable Token Correspondence for World Models
 
 <a id="by-robotics"></a>
 
@@ -302,6 +309,7 @@
 - [让流式生成随音频变化调节历史依赖](../conferences/icml-2026/cards/1801-1900.md#ji26h-inference) · DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing
 - [在适配与预测时用同一视图集成](../conferences/icml-2026/cards/1901-2000.md#jiang26ac-inference) · USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning
 - [在视觉代理记忆里分开局部经验与任务技能](../conferences/icml-2026/cards/1901-2000.md#jiang26aq-inference) · XSkill: Continual Learning from Experience and Skills in Multimodal Agents
+- [先否决扩散解码中不稳定或无图像依据的词元](../conferences/icml-2026/cards/2101-2200.md#kim26al-inference) · ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding
 
 <a id="by-ml-foundations"></a>
 

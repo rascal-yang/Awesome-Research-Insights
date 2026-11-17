@@ -93,6 +93,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Box Thirding: Anytime Best Arm Identification under Insufficient Sampling](../../conferences/icml-2026/cards/1701-1800.md#hwang26c-theory-statistics) · 中文
 - [Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · 中文
 - [Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · 中文
+- [Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality](../../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -333,6 +334,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference](../../conferences/icml-2026/cards/2001-2100.md#khot26a-theory-statistics) · 中文
 - [Robust and Consistent Ski Rental with Distributional Advice](../../conferences/icml-2026/cards/2001-2100.md#kim26l-theory-statistics) · 中文
 - [Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space](../../conferences/icml-2026/cards/2101-2200.md#kim26n-theory-statistics) · 中文
+- [Semi-Supervised Learning with Noisy Proxy Covariates: Generalization Bounds and Distribution Regression](../../conferences/icml-2026/cards/2101-2200.md#kim26ae-theory-statistics) · 中文
+- [Gradient Descent with Large Step Size Restores Symmetry in Deep Linear Networks with Multi-Pathway](../../conferences/icml-2026/cards/2101-2200.md#kim26aj-theory-statistics) · 中文
+- [Multi-task Linear Regression without Eigenvalue Lower Bounds: Adaptivity, Robustness, and Safety](../../conferences/icml-2026/cards/2101-2200.md#kim26bb-theory-statistics) · 中文
+- [Stability Analysis of Sharpness-Aware Minimization](../../conferences/icml-2026/cards/2101-2200.md#kim26be-theory-statistics) · 中文
+- [Transfer Learning in High-dimensional Ising Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bi-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -370,4 +376,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiao26a-theory-statistics) · 中文
 - [Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · 中文
 - [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](../../conferences/icml-2026/cards/2001-2100.md#kim26m-theory-statistics) · 中文
+- [Identifying Connectivity Distributions from Neural Dynamics Using Flows](../../conferences/icml-2026/cards/2101-2200.md#kim26bd-theory-statistics) · 中文
 <!-- classification:end -->

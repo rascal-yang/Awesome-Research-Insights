@@ -183,6 +183,7 @@
 - <a id="ji26h-inference"></a>[DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing](../conferences/icml-2026/cards/1801-1900.md#paper-ji26h)
 - <a id="jiang26ac-inference"></a>[USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ac)
 - <a id="jiang26aq-inference"></a>[XSkill: Continual Learning from Experience and Skills in Multimodal Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aq)
+- <a id="kim26al-inference"></a>[ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding](../conferences/icml-2026/cards/2101-2200.md#paper-kim26al)
 
 <a id="by-representation-learning"></a>
 

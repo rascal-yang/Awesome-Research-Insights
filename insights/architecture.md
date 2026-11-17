@@ -148,6 +148,7 @@
 - [用并行代理写入近似迭代状态更新](../conferences/icml-2026/cards/1901-2000.md#jiang26e-architecture) · PRISM: Parallel Residual Iterative Sequence Model
 - [让软斜树承担因果效应网络的特征路由](../conferences/icml-2026/cards/2001-2100.md#kano26a-architecture) · Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects
 - [先限定对称族再学习可解释生成元](../conferences/icml-2026/cards/2001-2100.md#karjol26a-architecture) · Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries
+- [把对齐后的权重矩阵当可变尺寸局部场](../conferences/icml-2026/cards/2101-2200.md#kim26ay-architecture) · NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -213,4 +214,7 @@
 - [用局部网格传播和全局注意共享物理算子](../conferences/icml-2026/cards/2001-2100.md#ju26a-architecture) · Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems
 - [用可分离谱因子解析计算高维物理残差](../conferences/icml-2026/cards/2001-2100.md#kaminsky26a-architecture) · Overcoming PINNs Failure Modes In High Dimension With Low-Rank Fourier Sum
 - [将临床事件的时间与内容分别预训练](../conferences/icml-2026/cards/2001-2100.md#kang26a-architecture) · Time-Conditioned Foreseeing: An EHR-Specific Foundation Model for Irregular Dynamics and Calendrical Time
+- [吸附体与催化表面联合生成](../conferences/icml-2026/cards/2101-2200.md#kim26z-architecture) · CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching
+- [直接评估哈密顿量误差向能量与力传播](../conferences/icml-2026/cards/2101-2200.md#kim26an-architecture) · Machine Learning Hamiltonians are Accurate Energy-Force Predictors
+- [让傅里叶核在等半径频率上共享权重](../conferences/icml-2026/cards/2101-2200.md#kim26bp-architecture) · EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs
 <!-- classification:end -->

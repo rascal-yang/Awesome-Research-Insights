@@ -93,6 +93,7 @@
 - [用三路分流平衡大量候选的覆盖与复测](../conferences/icml-2026/cards/1701-1800.md#hwang26c-theory-statistics) · Box Thirding: Anytime Best Arm Identification under Insufficient Sampling
 - [用条件偏离限制低成交价](../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions
 - [按正则强度切换老虎机遗憾分析](../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · Near-Optimal Regret for KL-Regularized Multi-Armed Bandits
+- [用排序损失差直接近似探索概率](../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality
 
 <a id="by-robotics"></a>
 
@@ -333,6 +334,11 @@
 - [用邻域处理向量代理空间混杂](../conferences/icml-2026/cards/2001-2100.md#khot26a-theory-statistics) · Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference
 - [把时长分布转成受限买入阈值](../conferences/icml-2026/cards/2001-2100.md#kim26l-theory-statistics) · Robust and Consistent Ski Rental with Distributional Advice
 - [把高斯变分推断的估计器和优化几何分开检验](../conferences/icml-2026/cards/2101-2200.md#kim26n-theory-statistics) · Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space
+- [含噪代理协变量的半监督回归](../conferences/icml-2026/cards/2101-2200.md#kim26ae-theory-statistics) · Semi-Supervised Learning with Noisy Proxy Covariates: Generalization Bounds and Distribution Regression
+- [大步长恢复并行路径均衡](../conferences/icml-2026/cards/2101-2200.md#kim26aj-theory-statistics) · Gradient Descent with Large Step Size Restores Symmetry in Deep Linear Networks with Multi-Pathway
+- [按每个任务实际能观测的方向共享参数](../conferences/icml-2026/cards/2101-2200.md#kim26bb-theory-statistics) · Multi-task Linear Regression without Eigenvalue Lower Bounds: Adaptivity, Robustness, and Safety
+- [查看 SAM 是否把负曲率改成局部吸引](../conferences/icml-2026/cards/2101-2200.md#kim26be-theory-statistics) · Stability Analysis of Sharpness-Aware Minimization
+- [先以目标留出伪似然选源，再在目标上校正边权](../conferences/icml-2026/cards/2101-2200.md#kim26bi-theory-statistics) · Transfer Learning in High-dimensional Ising Models
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -370,4 +376,5 @@
 - [从局部形态分布估计不同部位的发育时标](../conferences/icml-2026/cards/1901-2000.md#jiao26a-theory-statistics) · $\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling
 - [用重尾连接先验形成可外推的低维动力学](../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks
 - [用有记忆的基函数估计抗污染输入输出关系](../conferences/icml-2026/cards/2001-2100.md#kim26m-theory-statistics) · On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks
+- [只为神经动力学保留必要的连接结构](../conferences/icml-2026/cards/2101-2200.md#kim26bd-theory-statistics) · Identifying Connectivity Distributions from Neural Dynamics Using Flows
 <!-- classification:end -->

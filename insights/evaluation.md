@@ -172,6 +172,10 @@
 - [对偏好子群分布做鲁棒模型混合](../conferences/icml-2026/cards/2001-2100.md#khalaf26a-evaluation) · Robust AI Evaluation through Maximal Lotteries
 - [生成能分辨候选程序的执行测试](../conferences/icml-2026/cards/2001-2100.md#kim26d-evaluation) · Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation
 - [以排序锚点校准语言模型表达的价值强度](../conferences/icml-2026/cards/2101-2200.md#kim26r-evaluation) · VALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models
+- [将网页偏好推断和执行成功分别计分](../conferences/icml-2026/cards/2101-2200.md#kim26ap-evaluation) · Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History
+- [用逐题反馈评价搜索结果的个性化](../conferences/icml-2026/cards/2101-2200.md#kim26at-evaluation) · BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback
+- [固定迭代和成本再测多代理的贡献](../conferences/icml-2026/cards/2101-2200.md#kim26ba-evaluation) · Investigating Component Contributions in Multi-Agent ML Systems
+- [让证据库随工具调用累积来评估每一步](../conferences/icml-2026/cards/2101-2200.md#kim26bg-evaluation) · Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents
 
 <a id="by-computer-vision"></a>
 
@@ -203,6 +207,9 @@
 - [固定下游容量和训练组合再比较对象槽](../conferences/icml-2026/cards/2001-2100.md#kapl26b-evaluation) · Are Object-Centric Representations Better at Compositional Generalization?
 - [用混合真实和修补区域诊断检测通道](../conferences/icml-2026/cards/2001-2100.md#kim26k-evaluation) · Dissect and Prune: Enhancing Robustness in AI-Generated Image Detection
 - [把噪声强度相对模型预处理的变化纳入评测](../conferences/icml-2026/cards/2101-2200.md#kim26w-evaluation) · Unlocking Noise-Resistant Vision: Key Architectural Secrets for Robust Models Against Gaussian Noise
+- [扣除欠拟合参照再定位扩散记忆](../conferences/icml-2026/cards/2101-2200.md#kim26aq-evaluation) · Localizing Memorized Regions in Diffusion Models via Coordinate-Wise Curvature Differences
+- [用有限差分监督绕开 INR 拟合反传瓶颈](../conferences/icml-2026/cards/2101-2200.md#kim26as-evaluation) · Adversarial Robustness of Implicit Neural Representation-Based Classifiers
+- [在生成潜空间规划归因路径](../conferences/icml-2026/cards/2101-2200.md#kim26aw-evaluation) · Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution
 
 <a id="by-nlp"></a>
 

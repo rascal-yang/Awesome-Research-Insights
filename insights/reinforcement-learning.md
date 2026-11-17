@@ -87,6 +87,8 @@
 - [把子代理封装成可调用函数后整体编排](../conferences/icml-2026/cards/2001-2100.md#ke26c-reinforcement-learning) · MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks
 - [把偏好目标转写成对替代行为的遗憾](../conferences/icml-2026/cards/2001-2100.md#kim26g-reinforcement-learning) · A Regret Minimization Framework on Preference Learning in Large Language Models
 - [用解题采样统计监督模型预测自身表现](../conferences/icml-2026/cards/2101-2200.md#kim26s-reinforcement-learning) · Verifying Meta-Awareness via Predictive Rewards in Reasoning Models
+- [配分函数驱动的难度调度](../conferences/icml-2026/cards/2101-2200.md#kim26aa-reinforcement-learning) · Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR
+- [把历史可验证奖励压缩成折扣 Beta 后验](../conferences/icml-2026/cards/2101-2200.md#kim26bl-reinforcement-learning) · Discounted Beta–Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards
 
 <a id="by-computer-vision"></a>
 
@@ -176,6 +178,7 @@
 - [给 critic 中的策略对数概率加界](../conferences/icml-2026/cards/1801-1900.md#iwaki26a-reinforcement-learning) · Mirror Descent Actor Critic via Bounded Advantage Learning
 - [同时约束参数共识和策略诱发的队列](../conferences/icml-2026/cards/1901-2000.md#jiang26u-reinforcement-learning) · Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design
 - [按预算分开选择劫持对象与替换动作](../conferences/icml-2026/cards/1901-2000.md#jiang26ba-reinforcement-learning) · Budget-Efficient Attacks and Robustness Training for Cooperative MARL
+- [回放动作上的各向异性约束](../conferences/icml-2026/cards/2101-2200.md#kim26ai-reinforcement-learning) · Frictional Q-Learning
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -243,4 +246,5 @@
 - [用带随机扰动的速度场学习晶体生成退火](../conferences/icml-2026/cards/1501-1600.md#hollmer26a-reinforcement-learning) · Open Materials Generation with Inference-Time Reinforcement Learning
 - [让局部 RNA 设计代理共享全局折叠反馈](../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning
 - [用观测似然动态重加权潜结构轨迹](../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients
+- [可合成分子的软约束采样](../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors
 <!-- classification:end -->

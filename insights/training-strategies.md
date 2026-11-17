@@ -70,6 +70,8 @@
 - [将批评当训练条件来教模型改答案](../conferences/icml-2026/cards/2001-2100.md#kapusuzoglu26a-training-strategies) · Critique-Guided Distillation for Robust Reasoning via Refinement
 - [用宏动作缩短有效决策长度](../conferences/icml-2026/cards/2001-2100.md#kim26h-training-strategies) · On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length
 - [按词表双射重编码并通过 API 适配模型](../conferences/icml-2026/cards/2101-2200.md#kim26v-training-strategies) · AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs
+- [摊销预测分布的早期漂移](../conferences/icml-2026/cards/2101-2200.md#kim26ah-training-strategies) · From Drift to Coherence: Stabilizing Beliefs in LLMs
+- [让用户通过看样例逐步形成意图](../conferences/icml-2026/cards/2101-2200.md#kim26av-training-strategies) · DiscoverLLM: From Executing Intents to Discovering Them
 
 <a id="by-computer-vision"></a>
 
@@ -103,6 +105,8 @@
 
 - [低资源语音的多温度自对齐](../conferences/icml-2026/cards/1201-1300.md#geng26c-training-strategies) · Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models
 - [以合成数据监督锚抑制属性奖励投机](../conferences/icml-2026/cards/1601-1700.md#hu26an-training-strategies) · ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control
+- [用对话答复构造改写偏好](../conferences/icml-2026/cards/2101-2200.md#kim26ak-training-strategies) · Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages
+- [用同语义跨时间的文档构造检索偏好](../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · Temporal Preference Optimization for Unsupervised Retrieval
 
 <a id="by-robotics"></a>
 
@@ -190,6 +194,7 @@
 - [给每个私有专家选相关且多样的公开代理](../conferences/icml-2026/cards/1901-2000.md#jiang26c-training-strategies) · MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification
 - [合并时只适配任务接口和权重系数](../conferences/icml-2026/cards/2001-2100.md#jung26f-training-strategies) · SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation
 - [沿约束流形法向扩展训练分布](../conferences/icml-2026/cards/2001-2100.md#keegan26a-training-strategies) · Manifold-Aware Perturbations for Constrained Generative Modeling
+- [以随机补全做条件，仅用真实观测训练去噪](../conferences/icml-2026/cards/2101-2200.md#kim26bh-training-strategies) · AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -225,4 +230,5 @@
 - [把诊断规程拆成可奖励的导联证据](../conferences/icml-2026/cards/1901-2000.md#jin26l-training-strategies) · ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation
 - [蒸馏逐切片特征以跨架构联合训练](../conferences/icml-2026/cards/1901-2000.md#jing26b-training-strategies) · Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration
 - [用解之间的物理差值为粗网格数据补监督](../conferences/icml-2026/cards/2101-2200.md#kim26q-training-strategies) · Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations
+- [只在训练时用原子轨迹教静态预测器](../conferences/icml-2026/cards/2101-2200.md#kim26au-training-strategies) · Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor
 <!-- classification:end -->

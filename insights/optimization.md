@@ -55,6 +55,8 @@
 - [搜索剪枝规则时按层的异常程度分配稀疏度](../conferences/icml-2026/cards/2001-2100.md#kang26l-optimization) · Automatic Pruning Discovery for Large Language Models
 - [让模型提议可由外部程序验证的几何引理](../conferences/icml-2026/cards/2001-2100.md#ke26a-optimization) · Towards Solving the Gilbert-Pollak Conjecture via Large Language Models
 - [让求解器和生成器在程序空间共同进化](../conferences/icml-2026/cards/2001-2100.md#ke26b-optimization) · Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery
+- [用跨层残差证据挑值得反传的词元](../conferences/icml-2026/cards/2101-2200.md#kim26bc-optimization) · TokenDrop: Token-Level Importance-Aware Backward Propagation Skipping for Efficient LLM Fine-Tuning
+- [在残差量化码本中分开学方向和尺度](../conferences/icml-2026/cards/2101-2200.md#kim26bf-optimization) · GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +75,7 @@
 - [按时空梯度变化调整发放阈值附近的替代梯度](../conferences/icml-2026/cards/2001-2100.md#kang26g-optimization) · A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks
 - [用场景交互点约束单目群体重建尺度](../conferences/icml-2026/cards/2001-2100.md#kang26s-optimization) · Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction
 - [用显式遗忘约束校准保留程度](../conferences/icml-2026/cards/2001-2100.md#khalafi26a-optimization) · Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints
+- [沿优化后的连续路径重组对抗扰动](../conferences/icml-2026/cards/2101-2200.md#kim26ax-optimization) · MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks
 
 <a id="by-nlp"></a>
 

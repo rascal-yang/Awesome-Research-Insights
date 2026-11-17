@@ -51,6 +51,8 @@ Language processing methods, including structured prediction and retrieval.
 
 - <a id="geng26c-training-strategies"></a>[Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models](../../conferences/icml-2026/cards/1201-1300.md#paper-geng26c)
 - <a id="hu26an-training-strategies"></a>[ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26an)
+- <a id="kim26ak-training-strategies"></a>[Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ak)
+- <a id="kim26bm-training-strategies"></a>[Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bm)
 
 <a id="by-data-strategies"></a>
 
@@ -59,6 +61,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="banayeeanzade26a-data-strategies"></a>[EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](../../conferences/icml-2026/cards/0201-0300.md#paper-banayeeanzade26a)
 - <a id="cho26i-data-strategies"></a>[Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](../../conferences/icml-2026/cards/0701-0800.md#paper-cho26i)
 - <a id="dutta26a-data-strategies"></a>[HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](../../conferences/icml-2026/cards/0901-1000.md#paper-dutta26a)
+- <a id="kim26az-data-strategies"></a>[Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26az)
 
 <a id="by-inference"></a>
 
