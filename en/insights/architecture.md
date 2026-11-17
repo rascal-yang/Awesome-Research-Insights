@@ -413,4 +413,5 @@ Model-wide design and information flow.
 - [Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](../../conferences/icml-2026/cards/4101-4200.md#shi26i-architecture) · 中文
 - [FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction](../../conferences/icml-2026/cards/4101-4200.md#si26a-architecture) · 中文
 - [Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](../../conferences/icml-2026/cards/4101-4200.md#sittoni26a-architecture) · 中文
+- [Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting](../../conferences/icml-2026/cards/4301-4400.md#sun26aa-architecture) · 中文
 <!-- classification:end -->

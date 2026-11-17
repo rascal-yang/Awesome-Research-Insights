@@ -477,6 +477,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](../../conferences/icml-2026/cards/4001-4100.md#shen26ab-inference) · 中文
 - [EnsembleVLA: Ensemble Learning for Vision-Language Action Models](../../conferences/icml-2026/cards/4201-4300.md#song26e-inference) · 中文
 - [Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](../../conferences/icml-2026/cards/4201-4300.md#spieler26a-inference) · 中文
+- [Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26y-inference) · 中文
+- [Energy-based Compositional Diffusion Planning](../../conferences/icml-2026/cards/4301-4400.md#sun26ad-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -616,6 +618,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees](../../conferences/icml-2026/cards/4101-4200.md#silveri26a-inference) · 中文
 - [CountsDiff: A diffusion model on the natural numbers for generation and imputation of count-based data](../../conferences/icml-2026/cards/4101-4200.md#soatto26a-inference) · 中文
 - [Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?](../../conferences/icml-2026/cards/4201-4300.md#sommer26a-inference) · 中文
+- [Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation](../../conferences/icml-2026/cards/4301-4400.md#sun26ae-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

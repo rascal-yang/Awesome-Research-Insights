@@ -301,6 +301,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The ACUTE Protocol: Operationalizing Language Model Activations for Better Calibration, Utility, and Trust](../../conferences/icml-2026/cards/4201-4300.md#subramani26a-evaluation) · 中文
 - [AgentSuite: Toward More Reliable Agent Evaluation with a Component-Based Benchmark Auditing Pipeline](../../conferences/icml-2026/cards/4201-4300.md#suh26a-evaluation) · 中文
 - [Anatomy of Massive Activations and Attention Sinks](../../conferences/icml-2026/cards/4201-4300.md#sun26d-evaluation) · 中文
+- [Reverse-Engineering Model Editing on Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26z-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -492,6 +493,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · 中文
 - [Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](../../conferences/icml-2026/cards/4101-4200.md#shi26ad-evaluation) · 中文
 - [VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge](../../conferences/icml-2026/cards/4201-4300.md#song26s-evaluation) · 中文
+- [MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26t-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

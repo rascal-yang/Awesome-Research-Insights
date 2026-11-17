@@ -149,6 +149,7 @@
 - [用时间片段补充音源语义](../conferences/icml-2026/cards/4101-4200.md#shi26u-modules) · SAM Audio: Segment Anything in Audio
 - [运动同步度调节场景条件强度](../conferences/icml-2026/cards/4101-4200.md#singh26g-modules) · VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion
 - [跨模态低秩中间矩阵](../conferences/icml-2026/cards/4201-4300.md#suharitdamrong26a-modules) · CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks
+- [long-span-fast-weight-memory](../conferences/icml-2026/cards/4201-4300.md#sun26s-modules) · video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM
 
 <a id="by-ml-foundations"></a>
 

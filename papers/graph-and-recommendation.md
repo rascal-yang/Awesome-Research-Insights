@@ -179,6 +179,7 @@
 - <a id="rubio-madrigal26a-representation-learning"></a>[Fixed Aggregation Features Can Rival GNNs](../conferences/icml-2026/cards/3901-4000.md#paper-rubio-madrigal26a)
 - <a id="shan26b-representation-learning"></a>[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](../conferences/icml-2026/cards/4001-4100.md#paper-shan26b)
 - <a id="shevkunov26a-representation-learning"></a>[Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls](../conferences/icml-2026/cards/4001-4100.md#paper-shevkunov26a)
+- <a id="sun26ab-representation-learning"></a>[Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ab)
 
 <a id="by-evaluation"></a>
 

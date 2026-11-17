@@ -413,4 +413,5 @@
 - [把驱动噪声编码为Wick特征再学随机解算子](../conferences/icml-2026/cards/4101-4200.md#shi26i-architecture) · Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations
 - [高维节点与相关性边联合扩散的失败边界](../conferences/icml-2026/cards/4101-4200.md#si26a-architecture) · FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction
 - [分层半可分神经算子](../conferences/icml-2026/cards/4101-4200.md#sittoni26a-architecture) · Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver
+- [latent-conditioned-operator-splitting](../conferences/icml-2026/cards/4301-4400.md#sun26aa-architecture) · Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting
 <!-- classification:end -->

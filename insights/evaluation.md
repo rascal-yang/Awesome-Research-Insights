@@ -301,6 +301,7 @@
 - [风险条件化置信效用](../conferences/icml-2026/cards/4201-4300.md#subramani26a-evaluation) · The ACUTE Protocol: Operationalizing Language Model Activations for Better Calibration, Utility, and Trust
 - [按组件审计智能体基准](../conferences/icml-2026/cards/4201-4300.md#suh26a-evaluation) · AgentSuite: Toward More Reliable Agent Evaluation with a Component-Based Benchmark Auditing Pipeline
 - [激活尖峰与注意力汇解耦](../conferences/icml-2026/cards/4201-4300.md#sun26d-evaluation) · Anatomy of Massive Activations and Attention Sinks
+- [editing-update-privacy-boundary](../conferences/icml-2026/cards/4201-4300.md#sun26z-evaluation) · Reverse-Engineering Model Editing on Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -492,6 +493,7 @@
 - [用唇形与头部姿态的协调关系检测及归因伪造](../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses
 - [换图检验视觉复查](../conferences/icml-2026/cards/4101-4200.md#shi26ad-evaluation) · Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination
 - [知识轻视觉推理与计算收益](../conferences/icml-2026/cards/4201-4300.md#song26s-evaluation) · VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge
+- [privacy-perception-reasoning-audit](../conferences/icml-2026/cards/4201-4300.md#sun26t-evaluation) · MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

@@ -77,6 +77,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Rényi Diffusion Models](../../conferences/icml-2026/cards/4001-4100.md#shen26g-loss-functions) · 中文
 - [3DPoV: Improving 3D understanding via Patch Ordering on Videos](../../conferences/icml-2026/cards/4101-4200.md#simion26a-loss-functions) · 中文
 - [PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection](../../conferences/icml-2026/cards/4201-4300.md#su26b-loss-functions) · 中文
+- [Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology](../../conferences/icml-2026/cards/4301-4400.md#sun26ai-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -141,6 +142,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion](../../conferences/icml-2026/cards/3501-3600.md#pan26m-loss-functions) · 中文
 - [CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning](../../conferences/icml-2026/cards/3601-3700.md#pellicer26a-loss-functions) · 中文
 - [Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis](../../conferences/icml-2026/cards/4101-4200.md#shi26ag-loss-functions) · 中文
+- [Scalable Medical Multimodal Fusion via Symmetric Consistency Modeling](../../conferences/icml-2026/cards/4201-4300.md#sun26u-loss-functions) · 中文
+- [Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels](../../conferences/icml-2026/cards/4301-4400.md#sun26ah-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

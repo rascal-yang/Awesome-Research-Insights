@@ -79,6 +79,7 @@
 - [只蒸馏跨衣着身份子空间](../conferences/icml-2026/cards/4101-4200.md#shi26m-representation-learning) · Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes
 - [冻结扩散模型的概念对齐](../conferences/icml-2026/cards/4101-4200.md#shokrolahi26a-representation-learning) · Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation
 - [运动对齐高斯协方差](../conferences/icml-2026/cards/4201-4300.md#song26i-representation-learning) · Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes
+- [parametric-to-spatial-pretraining](../conferences/icml-2026/cards/4301-4400.md#sun26ac-representation-learning) · Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers
 
 <a id="by-nlp"></a>
 
@@ -272,6 +273,7 @@
 - [固定多跳聚合的图节点表征](../conferences/icml-2026/cards/3901-4000.md#rubio-madrigal26a-representation-learning) · Fixed Aggregation Features Can Rival GNNs
 - [按 Dirichlet 能量分离图对比传播](../conferences/icml-2026/cards/4001-4100.md#shan26b-representation-learning) · Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing
 - [用少量重排分数编码候选](../conferences/icml-2026/cards/4001-4100.md#shevkunov26a-representation-learning) · Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls
+- [polarity-invariant-equivariant-decomposition](../conferences/icml-2026/cards/4301-4400.md#sun26ab-representation-learning) · Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs
 
 <a id="by-scientific-ml"></a>
 

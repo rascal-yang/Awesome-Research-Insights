@@ -72,6 +72,7 @@
 - [按用户保护完整纵向序列](../conferences/icml-2026/cards/3801-3900.md#rosenblatt26a-data-strategies) · Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data
 - [用补丁行召回构造仓库专用代理数据](../conferences/icml-2026/cards/4001-4100.md#shen26o-data-strategies) · SERA: Soft-Verified Efficient Repository Agents
 - [参考动作引导拒绝采样](../conferences/icml-2026/cards/4201-4300.md#sun26h-data-strategies) · KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering
+- [boundary-aware-evidence-curriculum](../conferences/icml-2026/cards/4201-4300.md#sun26p-data-strategies) · Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation
 
 <a id="by-computer-vision"></a>
 

@@ -539,6 +539,7 @@
 - [权重反演中的可辨识性与曲率诊断](../conferences/icml-2026/cards/4001-4100.md#shen26q-theory-statistics) · Data Reconstruction: Identifiability and Optimization with Sample Splitting
 - [区分重尾数据抽样与固定集梯度噪声](../conferences/icml-2026/cards/4001-4100.md#shestakov26a-theory-statistics) · From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping
 - [秩直方图散度估计](../conferences/icml-2026/cards/4201-4300.md#stein26b-theory-statistics) · Approximating f -Divergences with Rank Statistics
+- [modular-routing-noise-filter](../conferences/icml-2026/cards/4301-4400.md#sun26af-theory-statistics) · Robustness of Mixtures of Experts to Feature Noise
 
 <a id="by-graph-and-recommendation"></a>
 

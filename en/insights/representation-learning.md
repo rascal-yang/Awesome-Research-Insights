@@ -79,6 +79,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes](../../conferences/icml-2026/cards/4101-4200.md#shi26m-representation-learning) · 中文
 - [Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation](../../conferences/icml-2026/cards/4101-4200.md#shokrolahi26a-representation-learning) · 中文
 - [Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes](../../conferences/icml-2026/cards/4201-4300.md#song26i-representation-learning) · 中文
+- [Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers](../../conferences/icml-2026/cards/4301-4400.md#sun26ac-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -272,6 +273,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Fixed Aggregation Features Can Rival GNNs](../../conferences/icml-2026/cards/3901-4000.md#rubio-madrigal26a-representation-learning) · 中文
 - [Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](../../conferences/icml-2026/cards/4001-4100.md#shan26b-representation-learning) · 中文
 - [Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls](../../conferences/icml-2026/cards/4001-4100.md#shevkunov26a-representation-learning) · 中文
+- [Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](../../conferences/icml-2026/cards/4301-4400.md#sun26ab-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -77,6 +77,7 @@
 - [用 Rényi 散度调整扩散训练的覆盖和保真](../conferences/icml-2026/cards/4001-4100.md#shen26g-loss-functions) · Rényi Diffusion Models
 - [沿视频轨迹对齐参考相似度的排序](../conferences/icml-2026/cards/4101-4200.md#simion26a-loss-functions) · 3DPoV: Improving 3D understanding via Patch Ordering on Videos
 - [真值与扩张框语义对比奖励](../conferences/icml-2026/cards/4201-4300.md#su26b-loss-functions) · PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection
+- [persistent-connectivity-regularization](../conferences/icml-2026/cards/4301-4400.md#sun26ai-loss-functions) · Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology
 
 <a id="by-nlp"></a>
 
@@ -141,6 +142,8 @@
 - [时序耦合流匹配](../conferences/icml-2026/cards/3501-3600.md#pan26m-loss-functions) · Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion
 - [以类条件最优传输对齐互补模态证据](../conferences/icml-2026/cards/3601-3700.md#pellicer26a-loss-functions) · CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning
 - [保留模态间隙的关系对齐](../conferences/icml-2026/cards/4101-4200.md#shi26ag-loss-functions) · Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis
+- [bidirectional-reconstruction-consistency](../conferences/icml-2026/cards/4201-4300.md#sun26u-loss-functions) · Scalable Medical Multimodal Fusion via Symmetric Consistency Modeling
+- [admissibility-weighted-noisy-hashing](../conferences/icml-2026/cards/4301-4400.md#sun26ah-loss-functions) · Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels
 
 <a id="by-ml-foundations"></a>
 

@@ -142,6 +142,7 @@
 - <a id="shen26g-loss-functions"></a>[Rényi Diffusion Models](../conferences/icml-2026/cards/4001-4100.md#paper-shen26g)
 - <a id="simion26a-loss-functions"></a>[3DPoV: Improving 3D understanding via Patch Ordering on Videos](../conferences/icml-2026/cards/4101-4200.md#paper-simion26a)
 - <a id="su26b-loss-functions"></a>[PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection](../conferences/icml-2026/cards/4201-4300.md#paper-su26b)
+- <a id="sun26ai-loss-functions"></a>[Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ai)
 
 <a id="by-optimization"></a>
 
@@ -439,6 +440,7 @@
 - <a id="shi26m-representation-learning"></a>[Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes](../conferences/icml-2026/cards/4101-4200.md#paper-shi26m)
 - <a id="shokrolahi26a-representation-learning"></a>[Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation](../conferences/icml-2026/cards/4101-4200.md#paper-shokrolahi26a)
 - <a id="song26i-representation-learning"></a>[Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes](../conferences/icml-2026/cards/4201-4300.md#paper-song26i)
+- <a id="sun26ac-representation-learning"></a>[Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ac)
 
 <a id="by-evaluation"></a>
 

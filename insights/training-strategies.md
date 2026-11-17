@@ -132,6 +132,7 @@
 - [同步增加数据难度与深度](../conferences/icml-2026/cards/4101-4200.md#singh26a-training-strategies) · Curriculum-Guided Layer Scaling for Language Model Pretraining
 - [语义边缘锚定后训练](../conferences/icml-2026/cards/4201-4300.md#springer26a-training-strategies) · Annotations Mitigate Post-Training Mode Collapse
 - [MoE对齐的专家容量分配](../conferences/icml-2026/cards/4201-4300.md#sun26m-training-strategies) · MESA: Improving MoE Safety Alignment via Decentralized Expertise
+- [trajectory-aware-gui-judge](../conferences/icml-2026/cards/4201-4300.md#sun26w-training-strategies) · SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience
 
 <a id="by-computer-vision"></a>
 
@@ -294,6 +295,7 @@
 - [用显式跨模态冲突训练操纵检测](../conferences/icml-2026/cards/4001-4100.md#shen26r-training-strategies) · CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection
 - [以阶段化隐词元压缩多模态推理](../conferences/icml-2026/cards/4001-4100.md#shen26s-training-strategies) · Efficient Reasoning with Hidden Thinking
 - [多内在表征生成辅助理解](../conferences/icml-2026/cards/4201-4300.md#su26n-training-strategies) · Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
+- [scale-conditioned-spatial-learning](../conferences/icml-2026/cards/4201-4300.md#sun26q-training-strategies) · SpaceVista: All-Scale Visual Spatial Reasoning from mm to km
 
 <a id="by-ml-foundations"></a>
 

@@ -149,6 +149,7 @@ Reusable components and local changes to model inputs or connections.
 - [SAM Audio: Segment Anything in Audio](../../conferences/icml-2026/cards/4101-4200.md#shi26u-modules) · 中文
 - [VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion](../../conferences/icml-2026/cards/4101-4200.md#singh26g-modules) · 中文
 - [CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks](../../conferences/icml-2026/cards/4201-4300.md#suharitdamrong26a-modules) · 中文
+- [video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM](../../conferences/icml-2026/cards/4201-4300.md#sun26s-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

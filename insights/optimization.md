@@ -388,6 +388,7 @@
 - [解耦谱方向与方差适应](../conferences/icml-2026/cards/4201-4300.md#song26a-optimization) · Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization
 - [近似局部GW与残余边际](../conferences/icml-2026/cards/4201-4300.md#song26h-optimization) · LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent
 - [零阶均方稳定边界](../conferences/icml-2026/cards/4201-4300.md#song26ac-optimization) · Zeroth-Order Optimization at the Edge of Stability
+- [core-subspace-preservation](../conferences/icml-2026/cards/4201-4300.md#sun26r-optimization) · Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -167,6 +167,7 @@
 - [逐渐撤除训练专家](../conferences/icml-2026/cards/4201-4300.md#song26p-reinforcement-learning) · EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance
 - [组间偏好训练点式奖励](../conferences/icml-2026/cards/4201-4300.md#song26aa-reinforcement-learning) · IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models
 - [修订增益训练批评者](../conferences/icml-2026/cards/4201-4300.md#sui26a-reinforcement-learning) · Conversation for Non-verifiable Learning: Self-Evolving Large Language Models through Meta-Evaluation
+- [trainable-context-folding](../conferences/icml-2026/cards/4201-4300.md#sun26x-reinforcement-learning) · Scaling Long-Horizon Agent via Context Folding
 
 <a id="by-computer-vision"></a>
 

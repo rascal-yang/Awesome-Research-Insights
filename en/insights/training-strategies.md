@@ -132,6 +132,7 @@ Training schedules, curricula, and task or stage composition.
 - [Curriculum-Guided Layer Scaling for Language Model Pretraining](../../conferences/icml-2026/cards/4101-4200.md#singh26a-training-strategies) · 中文
 - [Annotations Mitigate Post-Training Mode Collapse](../../conferences/icml-2026/cards/4201-4300.md#springer26a-training-strategies) · 中文
 - [MESA: Improving MoE Safety Alignment via Decentralized Expertise](../../conferences/icml-2026/cards/4201-4300.md#sun26m-training-strategies) · 中文
+- [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](../../conferences/icml-2026/cards/4201-4300.md#sun26w-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -294,6 +295,7 @@ Training schedules, curricula, and task or stage composition.
 - [CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection](../../conferences/icml-2026/cards/4001-4100.md#shen26r-training-strategies) · 中文
 - [Efficient Reasoning with Hidden Thinking](../../conferences/icml-2026/cards/4001-4100.md#shen26s-training-strategies) · 中文
 - [Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation](../../conferences/icml-2026/cards/4201-4300.md#su26n-training-strategies) · 中文
+- [SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](../../conferences/icml-2026/cards/4201-4300.md#sun26q-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

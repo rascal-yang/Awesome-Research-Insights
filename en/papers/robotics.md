@@ -169,6 +169,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="shen26ab-inference"></a>[Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26ab)
 - <a id="song26e-inference"></a>[EnsembleVLA: Ensemble Learning for Vision-Language Action Models](../../conferences/icml-2026/cards/4201-4300.md#paper-song26e)
 - <a id="spieler26a-inference"></a>[Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](../../conferences/icml-2026/cards/4201-4300.md#paper-spieler26a)
+- <a id="sun26y-inference"></a>[Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26y)
+- <a id="sun26ad-inference"></a>[Energy-based Compositional Diffusion Planning](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ad)
 
 <a id="by-representation-learning"></a>
 

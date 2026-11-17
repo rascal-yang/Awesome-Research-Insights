@@ -67,6 +67,7 @@
 - <a id="shi26u-modules"></a>[SAM Audio: Segment Anything in Audio](../conferences/icml-2026/cards/4101-4200.md#paper-shi26u)
 - <a id="singh26g-modules"></a>[VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion](../conferences/icml-2026/cards/4101-4200.md#paper-singh26g)
 - <a id="suharitdamrong26a-modules"></a>[CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks](../conferences/icml-2026/cards/4201-4300.md#paper-suharitdamrong26a)
+- <a id="sun26s-modules"></a>[video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM](../conferences/icml-2026/cards/4201-4300.md#paper-sun26s)
 
 <a id="by-loss-functions"></a>
 
@@ -99,6 +100,8 @@
 - <a id="pan26m-loss-functions"></a>[Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion](../conferences/icml-2026/cards/3501-3600.md#paper-pan26m)
 - <a id="pellicer26a-loss-functions"></a>[CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning](../conferences/icml-2026/cards/3601-3700.md#paper-pellicer26a)
 - <a id="shi26ag-loss-functions"></a>[Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis](../conferences/icml-2026/cards/4101-4200.md#paper-shi26ag)
+- <a id="sun26u-loss-functions"></a>[Scalable Medical Multimodal Fusion via Symmetric Consistency Modeling](../conferences/icml-2026/cards/4201-4300.md#paper-sun26u)
+- <a id="sun26ah-loss-functions"></a>[Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ah)
 
 <a id="by-optimization"></a>
 
@@ -220,6 +223,7 @@
 - <a id="shen26r-training-strategies"></a>[CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection](../conferences/icml-2026/cards/4001-4100.md#paper-shen26r)
 - <a id="shen26s-training-strategies"></a>[Efficient Reasoning with Hidden Thinking](../conferences/icml-2026/cards/4001-4100.md#paper-shen26s)
 - <a id="su26n-training-strategies"></a>[Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation](../conferences/icml-2026/cards/4201-4300.md#paper-su26n)
+- <a id="sun26q-training-strategies"></a>[SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](../conferences/icml-2026/cards/4201-4300.md#paper-sun26q)
 
 <a id="by-data-strategies"></a>
 
@@ -463,6 +467,7 @@
 - <a id="she26a-evaluation"></a>[Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../conferences/icml-2026/cards/4001-4100.md#paper-she26a)
 - <a id="shi26ad-evaluation"></a>[Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](../conferences/icml-2026/cards/4101-4200.md#paper-shi26ad)
 - <a id="song26s-evaluation"></a>[VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge](../conferences/icml-2026/cards/4201-4300.md#paper-song26s)
+- <a id="sun26t-evaluation"></a>[MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](../conferences/icml-2026/cards/4201-4300.md#paper-sun26t)
 
 <a id="by-theory-statistics"></a>
 

@@ -167,6 +167,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance](../../conferences/icml-2026/cards/4201-4300.md#song26p-reinforcement-learning) · 中文
 - [IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models](../../conferences/icml-2026/cards/4201-4300.md#song26aa-reinforcement-learning) · 中文
 - [Conversation for Non-verifiable Learning: Self-Evolving Large Language Models through Meta-Evaluation](../../conferences/icml-2026/cards/4201-4300.md#sui26a-reinforcement-learning) · 中文
+- [Scaling Long-Horizon Agent via Context Folding](../../conferences/icml-2026/cards/4201-4300.md#sun26x-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

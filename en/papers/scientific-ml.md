@@ -117,6 +117,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="shi26i-architecture"></a>[Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26i)
 - <a id="si26a-architecture"></a>[FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction](../../conferences/icml-2026/cards/4101-4200.md#paper-si26a)
 - <a id="sittoni26a-architecture"></a>[Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](../../conferences/icml-2026/cards/4101-4200.md#paper-sittoni26a)
+- <a id="sun26aa-architecture"></a>[Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26aa)
 
 <a id="by-modules"></a>
 

@@ -477,6 +477,8 @@
 - [让障碍布局先验约束语义地图补全](../conferences/icml-2026/cards/4001-4100.md#shen26ab-inference) · Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation
 - [生成策略场组合与有界修正](../conferences/icml-2026/cards/4201-4300.md#song26e-inference) · EnsembleVLA: Ensemble Learning for Vision-Language Action Models
 - [梯度MPC的策略先验边界](../conferences/icml-2026/cards/4201-4300.md#spieler26a-inference) · Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination
+- [request-conditioned-token-pruning](../conferences/icml-2026/cards/4201-4300.md#sun26y-inference) · Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models
+- [conservative-bridge-planning-correction](../conferences/icml-2026/cards/4301-4400.md#sun26ad-inference) · Energy-based Compositional Diffusion Planning
 
 <a id="by-multimodal"></a>
 
@@ -616,6 +618,7 @@
 - [在Brownian扩散流匹配末端缩步以控制早停误差](../conferences/icml-2026/cards/4101-4200.md#silveri26a-inference) · Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees
 - [自然数扩散的可纠错逆过程](../conferences/icml-2026/cards/4101-4200.md#soatto26a-inference) · CountsDiff: A diffusion model on the natural numbers for generation and imputation of count-based data
 - [微正则采样噪声纠偏](../conferences/icml-2026/cards/4201-4300.md#sommer26a-inference) · Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?
+- [temperature-amortized-posterior](../conferences/icml-2026/cards/4301-4400.md#sun26ae-inference) · Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation
 
 <a id="by-graph-and-recommendation"></a>
 

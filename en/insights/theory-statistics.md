@@ -539,6 +539,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Data Reconstruction: Identifiability and Optimization with Sample Splitting](../../conferences/icml-2026/cards/4001-4100.md#shen26q-theory-statistics) · 中文
 - [From Optimization to Generalization under Heavy-Tailed Data: The Role of Gradient Clipping](../../conferences/icml-2026/cards/4001-4100.md#shestakov26a-theory-statistics) · 中文
 - [Approximating f -Divergences with Rank Statistics](../../conferences/icml-2026/cards/4201-4300.md#stein26b-theory-statistics) · 中文
+- [Robustness of Mixtures of Experts to Feature Noise](../../conferences/icml-2026/cards/4301-4400.md#sun26af-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
