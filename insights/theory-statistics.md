@@ -37,6 +37,9 @@
 - [从线上混合分布估计接收集风险](../conferences/icml-2026/cards/1601-1700.md#hu26bh-theory-statistics) · OSCS: Online Selection with Provable FAR Control for LLM Safety
 - [用相邻难度间距衡量隐式课程能否接力](../conferences/icml-2026/cards/1701-1800.md#huang26bk-theory-statistics) · On the Emergence of Implicit Curriculum in RLVR Learning Dynamics
 - [让在线采样随偏好策略提高覆盖](../conferences/icml-2026/cards/2101-2200.md#kim26bz-theory-statistics) · Coverage Improvement and Fast Convergence of On-policy Preference Learning
+- [推理模块组合所需的局部覆盖](../conferences/icml-2026/cards/2101-2200.md#kong26c-theory-statistics) · From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning
+- [把参考策略正则强度与操纵收益上界对应](../conferences/icml-2026/cards/2201-2300.md#korkmaz26a-theory-statistics) · The Axiomatic Value of Regularization in AI Alignment from Human Preferences
+- [用表征首次越阈深度追踪 LoRA 漂移](../conferences/icml-2026/cards/2201-2300.md#koubbi26a-theory-statistics) · Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics
 
 <a id="by-computer-vision"></a>
 
@@ -345,6 +348,15 @@
 - [用合成梯度先编码任务子空间再学读出](../conferences/icml-2026/cards/2101-2200.md#kinoshita26a-theory-statistics) · Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks
 - [显式拟合偏态噪声推断因果方向](../conferences/icml-2026/cards/2101-2200.md#klippert26a-theory-statistics) · Skewness-Robust Causal Discovery in Location-Scale Noise Models
 - [用指数族后验消去信息增益的内层积分](../conferences/icml-2026/cards/2101-2200.md#knowles26a-theory-statistics) · Tractable Expected Information Gains for Exponential Family Posteriors
+- [平面齐次半空间的分层泛化界](../conferences/icml-2026/cards/2101-2200.md#kontorovich26a-theory-statistics) · A Fine-Grained Understanding of Uniform Convergence for Halfspaces
+- [马尔可夫链样本的协方差估计](../conferences/icml-2026/cards/2201-2300.md#kook26a-theory-statistics) · Covariance estimation using Markov chain Monte Carlo
+- [正则与噪声决定 Hebb 对齐](../conferences/icml-2026/cards/2201-2300.md#koplow26a-theory-statistics) · Ubiquity of Emergent Hebbian Dynamics in Regularized Learning
+- [从保留样本先恢复截断规则再拟合](../conferences/icml-2026/cards/2201-2300.md#kouridakis26a-theory-statistics) · Linear Regression with Unknown Truncation Beyond Gaussian Features
+- [用截断保护重复梯度中的有效谱方向](../conferences/icml-2026/cards/2201-2300.md#kovacevic26a-theory-statistics) · Full-Batch Gradient Descent Outperforms One-Pass SGD: Sample Complexity Separation in Single-Index Learning
+- [用零灵敏度输入数量区分可表达与易学](../conferences/icml-2026/cards/2201-2300.md#kover26a-theory-statistics) · Understanding the Parameter Space Volume of Transformers Encoding Boolean Functions
+- [用部分和完整计算的相关性估算退化](../conferences/icml-2026/cards/2201-2300.md#koyuncu26a-theory-statistics) · Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit
+- [用核谱模态分解学习曲线](../conferences/icml-2026/cards/2201-2300.md#kramp26a-theory-statistics) · Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues
+- [把 e 值超额证据返还在线检验预算](../conferences/icml-2026/cards/2201-2300.md#kuang26c-theory-statistics) · SCORE: A Unified Framework for Overshoot Refund in Online FDR Control
 
 <a id="by-graph-and-recommendation"></a>
 

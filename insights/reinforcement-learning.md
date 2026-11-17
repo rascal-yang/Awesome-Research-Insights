@@ -89,6 +89,9 @@
 - [用解题采样统计监督模型预测自身表现](../conferences/icml-2026/cards/2101-2200.md#kim26s-reinforcement-learning) · Verifying Meta-Awareness via Predictive Rewards in Reasoning Models
 - [配分函数驱动的难度调度](../conferences/icml-2026/cards/2101-2200.md#kim26aa-reinforcement-learning) · Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR
 - [把历史可验证奖励压缩成折扣 Beta 后验](../conferences/icml-2026/cards/2101-2200.md#kim26bl-reinforcement-learning) · Discounted Beta–Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards
+- [对话反馈的反事实信息增益](../conferences/icml-2026/cards/2101-2200.md#kong26g-reinforcement-learning) · InfoPO: Information-Driven Policy Optimization for User-Centric Agents
+- [用教师的一条正例构造本地候选排序](../conferences/icml-2026/cards/2201-2300.md#kou26a-reinforcement-learning) · Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models
+- [对开放式任务按课程轮换偏好准则](../conferences/icml-2026/cards/2201-2300.md#krishnan26a-reinforcement-learning) · Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains
 
 <a id="by-computer-vision"></a>
 
@@ -180,6 +183,7 @@
 - [按预算分开选择劫持对象与替换动作](../conferences/icml-2026/cards/1901-2000.md#jiang26ba-reinforcement-learning) · Budget-Efficient Attacks and Robustness Training for Cooperative MARL
 - [回放动作上的各向异性约束](../conferences/icml-2026/cards/2101-2200.md#kim26ai-reinforcement-learning) · Frictional Q-Learning
 - [用到达时间准度量建稀疏图并在线删失效边](../conferences/icml-2026/cards/2101-2200.md#kobanda26a-reinforcement-learning) · Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation
+- [球面成本流策略与组合求解](../conferences/icml-2026/cards/2101-2200.md#kong26e-reinforcement-learning) · Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -217,6 +221,7 @@
 - [用最小证据补丁修复观察后再做策略更新](../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · Find, Fix, Reason: Context Repair for Video Reasoning
 - [将生成反馈拆成可验证的具体问题](../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward
 - [用熵维持训练时的视觉查证路径多样性](../conferences/icml-2026/cards/2101-2200.md#kim26bs-reinforcement-learning) · Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents
+- [让图像结果反向监督文本编码器的推理](../conferences/icml-2026/cards/2201-2300.md#kou26b-reinforcement-learning) · Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders
 
 <a id="by-ml-foundations"></a>
 

@@ -2191,50 +2191,50 @@ number	pmlr_id	title	paper_url	insight_status
 2190	konforti26a	CB-SLICE: Concept-Based Interpretable Error Slice Discovery	https://proceedings.mlr.press/v306/konforti26a.html	written
 2191	kong26a	Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation	https://proceedings.mlr.press/v306/kong26a.html	written
 2192	kong26b	Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds	https://proceedings.mlr.press/v306/kong26b.html	written
-2193	kong26c	From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning	https://proceedings.mlr.press/v306/kong26c.html	pending
-2194	kong26d	SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes	https://proceedings.mlr.press/v306/kong26d.html	pending
-2195	kong26e	Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions	https://proceedings.mlr.press/v306/kong26e.html	pending
-2196	kong26f	Expand Neurons, Not Parameters	https://proceedings.mlr.press/v306/kong26f.html	pending
-2197	kong26g	InfoPO: Information-Driven Policy Optimization for User-Centric Agents	https://proceedings.mlr.press/v306/kong26g.html	pending
-2198	kong26h	ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation	https://proceedings.mlr.press/v306/kong26h.html	pending
-2199	konrad26a	Finding Most Influential Sets	https://proceedings.mlr.press/v306/konrad26a.html	pending
-2200	kontorovich26a	A Fine-Grained Understanding of Uniform Convergence for Halfspaces	https://proceedings.mlr.press/v306/kontorovich26a.html	pending
-2201	koo26a	Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences	https://proceedings.mlr.press/v306/koo26a.html	pending
-2202	kook26a	Covariance estimation using Markov chain Monte Carlo	https://proceedings.mlr.press/v306/kook26a.html	pending
-2203	koplow26a	Ubiquity of Emergent Hebbian Dynamics in Regularized Learning	https://proceedings.mlr.press/v306/koplow26a.html	pending
-2204	korgul26a	It’s a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents	https://proceedings.mlr.press/v306/korgul26a.html	pending
-2205	korkmaz26a	The Axiomatic Value of Regularization in AI Alignment from Human Preferences	https://proceedings.mlr.press/v306/korkmaz26a.html	pending
-2206	koromilas26a	PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding	https://proceedings.mlr.press/v306/koromilas26a.html	pending
-2207	koromilas26b	Neural Collapse by Design: Learning Class Prototypes on the Hypersphere	https://proceedings.mlr.press/v306/koromilas26b.html	pending
-2208	kosmala26a	Speculative Sampling For Faster Molecular Dynamics	https://proceedings.mlr.press/v306/kosmala26a.html	pending
-2209	kosman26a	Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges	https://proceedings.mlr.press/v306/kosman26a.html	pending
-2210	kothapalli26a	PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models	https://proceedings.mlr.press/v306/kothapalli26a.html	pending
-2211	kou26a	Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models	https://proceedings.mlr.press/v306/kou26a.html	pending
-2212	kou26b	Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders	https://proceedings.mlr.press/v306/kou26b.html	pending
-2213	kou26c	MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding	https://proceedings.mlr.press/v306/kou26c.html	pending
-2214	koubbi26a	Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics	https://proceedings.mlr.press/v306/koubbi26a.html	pending
-2215	koulakis26a	The Data Manifold under the Microscope	https://proceedings.mlr.press/v306/koulakis26a.html	pending
-2216	kouridakis26a	Linear Regression with Unknown Truncation Beyond Gaussian Features	https://proceedings.mlr.press/v306/kouridakis26a.html	pending
-2217	kovacevic26a	Full-Batch Gradient Descent Outperforms One-Pass SGD: Sample Complexity Separation in Single-Index Learning	https://proceedings.mlr.press/v306/kovacevic26a.html	pending
-2218	kover26a	Understanding the Parameter Space Volume of Transformers Encoding Boolean Functions	https://proceedings.mlr.press/v306/kover26a.html	pending
-2219	kowalczuk26a	Finding DoRI: Discovery of Retained Images in Diffusion Models	https://proceedings.mlr.press/v306/kowalczuk26a.html	pending
-2220	kowsher26a	LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning	https://proceedings.mlr.press/v306/kowsher26a.html	pending
-2221	kowsher26b	SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks	https://proceedings.mlr.press/v306/kowsher26b.html	pending
-2222	koyuncu26a	Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit	https://proceedings.mlr.press/v306/koyuncu26a.html	pending
-2223	kozlowski26a	Unifying Deep Stochastic Processes for Image Enhancement	https://proceedings.mlr.press/v306/kozlowski26a.html	pending
-2224	krahn26a	Collapsed Effective Operators for Higher-order Structures	https://proceedings.mlr.press/v306/krahn26a.html	pending
-2225	kramp26a	Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues	https://proceedings.mlr.press/v306/kramp26a.html	pending
-2226	krasowski26a	PINNfluence: Interpreting PINNs through Influence Functions	https://proceedings.mlr.press/v306/krasowski26a.html	pending
-2227	kravets26a	Interpretability Transfer from Language to Vision via Sparse Autoencoders	https://proceedings.mlr.press/v306/kravets26a.html	pending
-2228	kreitner26a	Efficient Numeracy in Language Models through Single-Token Number Encodings	https://proceedings.mlr.press/v306/kreitner26a.html	pending
-2229	kresse26a	Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control	https://proceedings.mlr.press/v306/kresse26a.html	pending
-2230	krishnan26a	Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains	https://proceedings.mlr.press/v306/krishnan26a.html	pending
-2231	krojer26a	LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs	https://proceedings.mlr.press/v306/krojer26a.html	pending
-2232	ku26a	ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts	https://proceedings.mlr.press/v306/ku26a.html	pending
-2233	kuang26a	When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability	https://proceedings.mlr.press/v306/kuang26a.html	pending
-2234	kuang26b	Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations	https://proceedings.mlr.press/v306/kuang26b.html	pending
-2235	kuang26c	SCORE: A Unified Framework for Overshoot Refund in Online FDR Control	https://proceedings.mlr.press/v306/kuang26c.html	pending
-2236	kuang26d	PDFBench: A Benchmark for De Novo Protein Design from Function	https://proceedings.mlr.press/v306/kuang26d.html	pending
+2193	kong26c	From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning	https://proceedings.mlr.press/v306/kong26c.html	written
+2194	kong26d	SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes	https://proceedings.mlr.press/v306/kong26d.html	written
+2195	kong26e	Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions	https://proceedings.mlr.press/v306/kong26e.html	written
+2196	kong26f	Expand Neurons, Not Parameters	https://proceedings.mlr.press/v306/kong26f.html	written
+2197	kong26g	InfoPO: Information-Driven Policy Optimization for User-Centric Agents	https://proceedings.mlr.press/v306/kong26g.html	written
+2198	kong26h	ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation	https://proceedings.mlr.press/v306/kong26h.html	written
+2199	konrad26a	Finding Most Influential Sets	https://proceedings.mlr.press/v306/konrad26a.html	written
+2200	kontorovich26a	A Fine-Grained Understanding of Uniform Convergence for Halfspaces	https://proceedings.mlr.press/v306/kontorovich26a.html	written
+2201	koo26a	Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences	https://proceedings.mlr.press/v306/koo26a.html	written
+2202	kook26a	Covariance estimation using Markov chain Monte Carlo	https://proceedings.mlr.press/v306/kook26a.html	written
+2203	koplow26a	Ubiquity of Emergent Hebbian Dynamics in Regularized Learning	https://proceedings.mlr.press/v306/koplow26a.html	written
+2204	korgul26a	It’s a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents	https://proceedings.mlr.press/v306/korgul26a.html	written
+2205	korkmaz26a	The Axiomatic Value of Regularization in AI Alignment from Human Preferences	https://proceedings.mlr.press/v306/korkmaz26a.html	written
+2206	koromilas26a	PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding	https://proceedings.mlr.press/v306/koromilas26a.html	written
+2207	koromilas26b	Neural Collapse by Design: Learning Class Prototypes on the Hypersphere	https://proceedings.mlr.press/v306/koromilas26b.html	written
+2208	kosmala26a	Speculative Sampling For Faster Molecular Dynamics	https://proceedings.mlr.press/v306/kosmala26a.html	written
+2209	kosman26a	Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges	https://proceedings.mlr.press/v306/kosman26a.html	written
+2210	kothapalli26a	PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models	https://proceedings.mlr.press/v306/kothapalli26a.html	written
+2211	kou26a	Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models	https://proceedings.mlr.press/v306/kou26a.html	written
+2212	kou26b	Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders	https://proceedings.mlr.press/v306/kou26b.html	written
+2213	kou26c	MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding	https://proceedings.mlr.press/v306/kou26c.html	written
+2214	koubbi26a	Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics	https://proceedings.mlr.press/v306/koubbi26a.html	written
+2215	koulakis26a	The Data Manifold under the Microscope	https://proceedings.mlr.press/v306/koulakis26a.html	written
+2216	kouridakis26a	Linear Regression with Unknown Truncation Beyond Gaussian Features	https://proceedings.mlr.press/v306/kouridakis26a.html	written
+2217	kovacevic26a	Full-Batch Gradient Descent Outperforms One-Pass SGD: Sample Complexity Separation in Single-Index Learning	https://proceedings.mlr.press/v306/kovacevic26a.html	written
+2218	kover26a	Understanding the Parameter Space Volume of Transformers Encoding Boolean Functions	https://proceedings.mlr.press/v306/kover26a.html	written
+2219	kowalczuk26a	Finding DoRI: Discovery of Retained Images in Diffusion Models	https://proceedings.mlr.press/v306/kowalczuk26a.html	written
+2220	kowsher26a	LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning	https://proceedings.mlr.press/v306/kowsher26a.html	written
+2221	kowsher26b	SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks	https://proceedings.mlr.press/v306/kowsher26b.html	written
+2222	koyuncu26a	Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit	https://proceedings.mlr.press/v306/koyuncu26a.html	written
+2223	kozlowski26a	Unifying Deep Stochastic Processes for Image Enhancement	https://proceedings.mlr.press/v306/kozlowski26a.html	written
+2224	krahn26a	Collapsed Effective Operators for Higher-order Structures	https://proceedings.mlr.press/v306/krahn26a.html	written
+2225	kramp26a	Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues	https://proceedings.mlr.press/v306/kramp26a.html	written
+2226	krasowski26a	PINNfluence: Interpreting PINNs through Influence Functions	https://proceedings.mlr.press/v306/krasowski26a.html	written
+2227	kravets26a	Interpretability Transfer from Language to Vision via Sparse Autoencoders	https://proceedings.mlr.press/v306/kravets26a.html	written
+2228	kreitner26a	Efficient Numeracy in Language Models through Single-Token Number Encodings	https://proceedings.mlr.press/v306/kreitner26a.html	written
+2229	kresse26a	Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control	https://proceedings.mlr.press/v306/kresse26a.html	written
+2230	krishnan26a	Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains	https://proceedings.mlr.press/v306/krishnan26a.html	written
+2231	krojer26a	LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs	https://proceedings.mlr.press/v306/krojer26a.html	written
+2232	ku26a	ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts	https://proceedings.mlr.press/v306/ku26a.html	written
+2233	kuang26a	When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability	https://proceedings.mlr.press/v306/kuang26a.html	written
+2234	kuang26b	Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations	https://proceedings.mlr.press/v306/kuang26b.html	written
+2235	kuang26c	SCORE: A Unified Framework for Overshoot Refund in Online FDR Control	https://proceedings.mlr.press/v306/kuang26c.html	written
+2236	kuang26d	PDFBench: A Benchmark for De Novo Protein Design from Function	https://proceedings.mlr.press/v306/kuang26d.html	written
 2237	kubaty26a	Rethinking Calibration for Early-Exit Neural Networks	https://proceedings.mlr.press/v306/kubaty26a.html	pending
 2238	kulkarni26a	How to Price Data: A Market Equilibrium Based Approach	https://proceedings.mlr.press/v306/kulkarni26a.html	pending
 2239	kulkarni26b	Differentially Private Geodesic Regression	https://proceedings.mlr.press/v306/kulkarni26b.html	pending

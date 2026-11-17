@@ -64,6 +64,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [AudioMosaic: Contrastive Masked Audio Representation Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26bf-representation-learning) · 中文
 - [Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](../../conferences/icml-2026/cards/1901-2000.md#jiang26ar-representation-learning) · 中文
 - [Symmetry in language statistics shapes the geometry of model representations](../../conferences/icml-2026/cards/2001-2100.md#karkada26a-representation-learning) · 中文
+- [Efficient Numeracy in Language Models through Single-Token Number Encodings](../../conferences/icml-2026/cards/2201-2300.md#kreitner26a-representation-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -104,6 +105,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Text-Conditional JEPA for Learning Semantically Rich Visual Representations](../../conferences/icml-2026/cards/1701-1800.md#huang26z-representation-learning) · 中文
 - [Vision-aligned Latent Reasoning for Multi-modal Large Language Model](../../conferences/icml-2026/cards/1801-1900.md#jeon26c-representation-learning) · 中文
 - [Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](../../conferences/icml-2026/cards/2001-2100.md#kang26k-representation-learning) · 中文
+- [Interpretability Transfer from Language to Vision via Sparse Autoencoders](../../conferences/icml-2026/cards/2201-2300.md#kravets26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -189,4 +191,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Explicit representation of germline and non-germline residues improves antibody language modeling](../../conferences/icml-2026/cards/2001-2100.md#kim26c-representation-learning) · 中文
 - [DNACHUNKER: Learnable Tokenization for DNA Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · 中文
 - [Geometric Embedding Alignment via Curvature Matching in Transfer Learning](../../conferences/icml-2026/cards/2101-2200.md#ko26c-representation-learning) · 中文
+- [SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes](../../conferences/icml-2026/cards/2101-2200.md#kong26d-representation-learning) · 中文
 <!-- classification:end -->

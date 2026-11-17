@@ -72,6 +72,7 @@
 - [按词表双射重编码并通过 API 适配模型](../conferences/icml-2026/cards/2101-2200.md#kim26v-training-strategies) · AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs
 - [摊销预测分布的早期漂移](../conferences/icml-2026/cards/2101-2200.md#kim26ah-training-strategies) · From Drift to Coherence: Stabilizing Beliefs in LLMs
 - [让用户通过看样例逐步形成意图](../conferences/icml-2026/cards/2101-2200.md#kim26av-training-strategies) · DiscoverLLM: From Executing Intents to Discovering Them
+- [联邦偏好对齐的个性化混合先验](../conferences/icml-2026/cards/2201-2300.md#koo26a-training-strategies) · Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences
 
 <a id="by-computer-vision"></a>
 
@@ -146,6 +147,7 @@
 - [把 OCR 教师监督和按版面元素的奖励结合](../conferences/icml-2026/cards/1901-2000.md#jiang26ag-training-strategies) · OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning
 - [按任务相似度降权检查基础能力遗忘](../conferences/icml-2026/cards/2001-2100.md#kang26c-training-strategies) · Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning
 - [先校正视觉注意再用 IoU 细化定位](../conferences/icml-2026/cards/2001-2100.md#karim26a-training-strategies) · FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization
+- [图文生成的持续跨模态对齐](../conferences/icml-2026/cards/2101-2200.md#kong26h-training-strategies) · ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation
 
 <a id="by-ml-foundations"></a>
 
@@ -195,6 +197,7 @@
 - [合并时只适配任务接口和权重系数](../conferences/icml-2026/cards/2001-2100.md#jung26f-training-strategies) · SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation
 - [沿约束流形法向扩展训练分布](../conferences/icml-2026/cards/2001-2100.md#keegan26a-training-strategies) · Manifold-Aware Perturbations for Constrained Generative Modeling
 - [以随机补全做条件，仅用真实观测训练去噪](../conferences/icml-2026/cards/2101-2200.md#kim26bh-training-strategies) · AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking
+- [轮流更新小权重切片保留累计方向](../conferences/icml-2026/cards/2201-2300.md#kowsher26b-training-strategies) · SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks
 
 <a id="by-graph-and-recommendation"></a>
 

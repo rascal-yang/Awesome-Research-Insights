@@ -36,6 +36,7 @@
 - <a id="chen26gm-modules"></a>[Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](../conferences/icml-2026/cards/0601-0700.md#paper-chen26gm)
 - <a id="choi26d-modules"></a>[Gauge-Equivariant Graph Networks via Self-Interference Cancellation](../conferences/icml-2026/cards/0701-0800.md#paper-choi26d)
 - <a id="fesser26b-modules"></a>[Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs](../conferences/icml-2026/cards/1101-1200.md#paper-fesser26b)
+- <a id="krahn26a-modules"></a>[Collapsed Effective Operators for Higher-order Structures](../conferences/icml-2026/cards/2201-2300.md#paper-krahn26a)
 
 <a id="by-loss-functions"></a>
 
@@ -97,6 +98,7 @@
 - <a id="eremeev26a-data-strategies"></a>[GraphPFN: A Prior-Data Fitted Graph Foundation Model](../conferences/icml-2026/cards/1001-1100.md#paper-eremeev26a)
 - <a id="hou26c-data-strategies"></a>[HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](../conferences/icml-2026/cards/1601-1700.md#paper-hou26c)
 - <a id="ju26c-data-strategies"></a>[Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](../conferences/icml-2026/cards/2001-2100.md#paper-ju26c)
+- <a id="kothapalli26a-data-strategies"></a>[PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](../conferences/icml-2026/cards/2201-2300.md#paper-kothapalli26a)
 
 <a id="by-inference"></a>
 

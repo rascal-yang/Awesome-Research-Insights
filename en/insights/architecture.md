@@ -39,6 +39,7 @@ Model-wide design and information flow.
 - [Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems](../../conferences/icml-2026/cards/1901-2000.md#jin26c-architecture) · 中文
 - [From Growing to Looping: A Unified View of Iterative Computation in LLMs](../../conferences/icml-2026/cards/2001-2100.md#kapl26a-architecture) · 中文
 - [Do Transformers Need Three Projections? Systematic Study of QKV Variants](../../conferences/icml-2026/cards/2001-2100.md#kayyam26a-architecture) · 中文
+- [PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding](../../conferences/icml-2026/cards/2201-2300.md#koromilas26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -87,6 +88,7 @@ Model-wide design and information flow.
 - [RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](../../conferences/icml-2026/cards/0201-0300.md#bian26a-architecture) · 中文
 - [VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](../../conferences/icml-2026/cards/1701-1800.md#huang26ba-architecture) · 中文
 - [Mitigating Plasticity Loss through Architectural Design in Continual Learning](../../conferences/icml-2026/cards/2101-2200.md#koeppe26a-architecture) · 中文
+- [Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](../../conferences/icml-2026/cards/2201-2300.md#kresse26a-architecture) · 中文
 
 <a id="by-robotics"></a>
 
@@ -152,6 +154,7 @@ Model-wide design and information flow.
 - [Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries](../../conferences/icml-2026/cards/2001-2100.md#karjol26a-architecture) · 中文
 - [NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces](../../conferences/icml-2026/cards/2101-2200.md#kim26ay-architecture) · 中文
 - [Equivariant Neural Networks for General Linear Symmetries on Lie Algebras](../../conferences/icml-2026/cards/2101-2200.md#kim26ca-architecture) · 中文
+- [Expand Neurons, Not Parameters](../../conferences/icml-2026/cards/2101-2200.md#kong26f-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

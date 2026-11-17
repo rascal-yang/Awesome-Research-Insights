@@ -180,6 +180,7 @@
 - [沿词元轨迹子空间验证几何与熵的联系](../conferences/icml-2026/cards/2101-2200.md#king26a-evaluation) · Representational Curvature Modulates Behavioral Uncertainty in Large Language Models
 - [在快检不明确的区间调用强检](../conferences/icml-2026/cards/2101-2200.md#kiyani26a-evaluation) · When to Trust the Cheap Check: Weak and Strong Verification for Reasoning
 - [隐私评估覆盖间接推断身份的风险](../conferences/icml-2026/cards/2101-2200.md#ko26b-evaluation) · From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents
+- [网页代理的任务重定向抗性](../conferences/icml-2026/cards/2201-2300.md#korgul26a-evaluation) · It’s a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents
 
 <a id="by-computer-vision"></a>
 
@@ -215,6 +216,9 @@
 - [用有限差分监督绕开 INR 拟合反传瓶颈](../conferences/icml-2026/cards/2101-2200.md#kim26as-evaluation) · Adversarial Robustness of Implicit Neural Representation-Based Classifiers
 - [在生成潜空间规划归因路径](../conferences/icml-2026/cards/2101-2200.md#kim26aw-evaluation) · Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution
 - [按共享概念误判聚类模型错误](../conferences/icml-2026/cards/2101-2200.md#konforti26a-evaluation) · CB-SLICE: Concept-Based Interpretable Error Slice Discovery
+- [用多个条件向量复测扩散去记忆](../conferences/icml-2026/cards/2201-2300.md#kowalczuk26a-evaluation) · Finding DoRI: Discovery of Retained Images in Diffusion Models
+- [固定训练和采样预算比较增强随机过程](../conferences/icml-2026/cards/2201-2300.md#kozlowski26a-evaluation) · Unifying Deep Stochastic Processes for Image Enhancement
+- [用角落位移区分显著性的中心先验](../conferences/icml-2026/cards/2201-2300.md#kuang26a-evaluation) · When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability
 
 <a id="by-nlp"></a>
 
@@ -304,6 +308,8 @@
 - [在球面估计嵌入密度作不确定性代理](../conferences/icml-2026/cards/2001-2100.md#ju26b-evaluation) · Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching
 - [用因果补丁定位跨模态注意力汇点](../conferences/icml-2026/cards/2001-2100.md#jung26c-evaluation) · Probing Cross-modal Information Hubs in Audio-Visual LLMs
 - [用注意力特征摊销推理中的区域消融归因](../conferences/icml-2026/cards/2001-2100.md#kang26d-evaluation) · Real-Time Visual Attribution Streaming in Thinking Model
+- [按机械图纸推理弱项重分配训练采样](../conferences/icml-2026/cards/2201-2300.md#kou26c-evaluation) · MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding
+- [以同层文本近邻解释视觉隐藏表示](../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
 
 <a id="by-ml-foundations"></a>
 
@@ -345,6 +351,7 @@
 - [用统一搜索预算比较认证训练的整条前沿](../conferences/icml-2026/cards/2001-2100.md#kaulen26a-evaluation) · Rethinking Evaluation Paradigms in IBP-based Certified Training
 - [在可逆频谱或趋势域内积分梯度](../conferences/icml-2026/cards/2001-2100.md#kechris26a-evaluation) · Time series saliency maps: Explaining models across multiple domains
 - [借可信参考样本诊断异常输出机制](../conferences/icml-2026/cards/2001-2100.md#keenan26a-evaluation) · Mechanistic Anomaly Detection via Functional Attribution
+- [以稠密参数网格校验数据流形几何](../conferences/icml-2026/cards/2201-2300.md#koulakis26a-evaluation) · The Data Manifold under the Microscope
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -380,4 +387,7 @@
 - [视觉皮层映射的神经样本缩放](../conferences/icml-2026/cards/1201-1300.md#gokce26a-evaluation) · Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex
 - [站点天气预报的物理与业务对照](../conferences/icml-2026/cards/1401-1500.md#han26v-evaluation) · Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting
 - [同时核对反演代理的物理耦合和速度](../conferences/icml-2026/cards/1501-1600.md#he26ay-evaluation) · MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition
+- [分开归因初始条件和物理残差](../conferences/icml-2026/cards/2201-2300.md#krasowski26a-evaluation) · PINNfluence: Interpreting PINNs through Influence Functions
+- [按构象机制评估蛋白模型的状态覆盖](../conferences/icml-2026/cards/2201-2300.md#ku26a-evaluation) · ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts
+- [以多维指标和时间切分评估功能蛋白设计](../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · PDFBench: A Benchmark for De Novo Protein Design from Function
 <!-- classification:end -->

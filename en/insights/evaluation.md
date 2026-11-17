@@ -180,6 +180,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Representational Curvature Modulates Behavioral Uncertainty in Large Language Models](../../conferences/icml-2026/cards/2101-2200.md#king26a-evaluation) · 中文
 - [When to Trust the Cheap Check: Weak and Strong Verification for Reasoning](../../conferences/icml-2026/cards/2101-2200.md#kiyani26a-evaluation) · 中文
 - [From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents](../../conferences/icml-2026/cards/2101-2200.md#ko26b-evaluation) · 中文
+- [It’s a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents](../../conferences/icml-2026/cards/2201-2300.md#korgul26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -215,6 +216,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Adversarial Robustness of Implicit Neural Representation-Based Classifiers](../../conferences/icml-2026/cards/2101-2200.md#kim26as-evaluation) · 中文
 - [Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution](../../conferences/icml-2026/cards/2101-2200.md#kim26aw-evaluation) · 中文
 - [CB-SLICE: Concept-Based Interpretable Error Slice Discovery](../../conferences/icml-2026/cards/2101-2200.md#konforti26a-evaluation) · 中文
+- [Finding DoRI: Discovery of Retained Images in Diffusion Models](../../conferences/icml-2026/cards/2201-2300.md#kowalczuk26a-evaluation) · 中文
+- [Unifying Deep Stochastic Processes for Image Enhancement](../../conferences/icml-2026/cards/2201-2300.md#kozlowski26a-evaluation) · 中文
+- [When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability](../../conferences/icml-2026/cards/2201-2300.md#kuang26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -304,6 +308,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching](../../conferences/icml-2026/cards/2001-2100.md#ju26b-evaluation) · 中文
 - [Probing Cross-modal Information Hubs in Audio-Visual LLMs](../../conferences/icml-2026/cards/2001-2100.md#jung26c-evaluation) · 中文
 - [Real-Time Visual Attribution Streaming in Thinking Model](../../conferences/icml-2026/cards/2001-2100.md#kang26d-evaluation) · 中文
+- [MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding](../../conferences/icml-2026/cards/2201-2300.md#kou26c-evaluation) · 中文
+- [LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](../../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -345,6 +351,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Rethinking Evaluation Paradigms in IBP-based Certified Training](../../conferences/icml-2026/cards/2001-2100.md#kaulen26a-evaluation) · 中文
 - [Time series saliency maps: Explaining models across multiple domains](../../conferences/icml-2026/cards/2001-2100.md#kechris26a-evaluation) · 中文
 - [Mechanistic Anomaly Detection via Functional Attribution](../../conferences/icml-2026/cards/2001-2100.md#keenan26a-evaluation) · 中文
+- [The Data Manifold under the Microscope](../../conferences/icml-2026/cards/2201-2300.md#koulakis26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -380,4 +387,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](../../conferences/icml-2026/cards/1201-1300.md#gokce26a-evaluation) · 中文
 - [Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](../../conferences/icml-2026/cards/1401-1500.md#han26v-evaluation) · 中文
 - [MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition](../../conferences/icml-2026/cards/1501-1600.md#he26ay-evaluation) · 中文
+- [PINNfluence: Interpreting PINNs through Influence Functions](../../conferences/icml-2026/cards/2201-2300.md#krasowski26a-evaluation) · 中文
+- [ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts](../../conferences/icml-2026/cards/2201-2300.md#ku26a-evaluation) · 中文
+- [PDFBench: A Benchmark for De Novo Protein Design from Function](../../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · 中文
 <!-- classification:end -->

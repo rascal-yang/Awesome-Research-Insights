@@ -64,6 +64,7 @@
 - [用互补时频掩码构造低开销音频正样本](../conferences/icml-2026/cards/1701-1800.md#huang26bf-representation-learning) · AudioMosaic: Contrastive Masked Audio Representation Learning
 - [用带标签的稀疏嵌入作为文档分析坐标](../conferences/icml-2026/cards/1901-2000.md#jiang26ar-representation-learning) · Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit
 - [从共现核的平移对称预估嵌入几何](../conferences/icml-2026/cards/2001-2100.md#karkada26a-representation-learning) · Symmetry in language statistics shapes the geometry of model representations
+- [给浮点数单独的单位置编码通道](../conferences/icml-2026/cards/2201-2300.md#kreitner26a-representation-learning) · Efficient Numeracy in Language Models through Single-Token Number Encodings
 
 <a id="by-reinforcement-learning"></a>
 
@@ -104,6 +105,7 @@
 - [用文字缩小被遮挡图块的预测范围](../conferences/icml-2026/cards/1701-1800.md#huang26z-representation-learning) · Text-Conditional JEPA for Learning Semantically Rich Visual Representations
 - [在每段推理前插入视觉对齐状态](../conferences/icml-2026/cards/1801-1900.md#jeon26c-representation-learning) · Vision-aligned Latent Reasoning for Multi-modal Large Language Model
 - [用双曲文本锚点训练无文本输入的红外可见光融合](../conferences/icml-2026/cards/2001-2100.md#kang26k-representation-learning) · Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space
+- [让视觉投影对齐既有文本稀疏概念](../conferences/icml-2026/cards/2201-2300.md#kravets26a-representation-learning) · Interpretability Transfer from Language to Vision via Sparse Autoencoders
 
 <a id="by-ml-foundations"></a>
 
@@ -189,4 +191,5 @@
 - [显式区分生殖系与体细胞突变词元](../conferences/icml-2026/cards/2001-2100.md#kim26c-representation-learning) · Explicit representation of germline and non-germline residues improves antibody language modeling
 - [用掩码保护的可学习分段编码 DNA](../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · DNACHUNKER: Learnable Tokenization for DNA Language Models
 - [在局部共享坐标中匹配源目标表征曲率](../conferences/icml-2026/cards/2101-2200.md#ko26c-representation-learning) · Geometric Embedding Alignment via Curvature Matching in Transfer Learning
+- [空间转录组中的弱配对形态生成](../conferences/icml-2026/cards/2101-2200.md#kong26d-representation-learning) · SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes
 <!-- classification:end -->

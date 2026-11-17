@@ -254,6 +254,7 @@
 - [把自然语言反馈变成高斯过程的成对偏好](../conferences/icml-2026/cards/2101-2200.md#kobalczyk26a-optimization) · LILO: Bayesian Optimization with Natural Language Feedback
 - [在最优传输中重分配源域输出质量](../conferences/icml-2026/cards/2101-2200.md#koc26a-optimization) · Incorporating Importance Weighting in Optimal Transport Based Domain Alignment
 - [复用内层 SGD 的梯度并行更新逆 Hessian 近似](../conferences/icml-2026/cards/2101-2200.md#kong26a-optimization) · Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation
+- [有限样本的最有影响观测集合](../conferences/icml-2026/cards/2101-2200.md#konrad26a-optimization) · Finding Most Influential Sets
 
 <a id="by-graph-and-recommendation"></a>
 

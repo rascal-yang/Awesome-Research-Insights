@@ -42,6 +42,7 @@
 - <a id="karjol26a-architecture"></a>[Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries](../conferences/icml-2026/cards/2001-2100.md#paper-karjol26a)
 - <a id="kim26ay-architecture"></a>[NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ay)
 - <a id="kim26ca-architecture"></a>[Equivariant Neural Networks for General Linear Symmetries on Lie Algebras](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ca)
+- <a id="kong26f-architecture"></a>[Expand Neurons, Not Parameters](../conferences/icml-2026/cards/2101-2200.md#paper-kong26f)
 
 <a id="by-modules"></a>
 
@@ -247,6 +248,7 @@
 - <a id="kobalczyk26a-optimization"></a>[LILO: Bayesian Optimization with Natural Language Feedback](../conferences/icml-2026/cards/2101-2200.md#paper-kobalczyk26a)
 - <a id="koc26a-optimization"></a>[Incorporating Importance Weighting in Optimal Transport Based Domain Alignment](../conferences/icml-2026/cards/2101-2200.md#paper-koc26a)
 - <a id="kong26a-optimization"></a>[Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation](../conferences/icml-2026/cards/2101-2200.md#paper-kong26a)
+- <a id="konrad26a-optimization"></a>[Finding Most Influential Sets](../conferences/icml-2026/cards/2101-2200.md#paper-konrad26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -302,6 +304,7 @@
 - <a id="jung26f-training-strategies"></a>[SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](../conferences/icml-2026/cards/2001-2100.md#paper-jung26f)
 - <a id="keegan26a-training-strategies"></a>[Manifold-Aware Perturbations for Constrained Generative Modeling](../conferences/icml-2026/cards/2001-2100.md#paper-keegan26a)
 - <a id="kim26bh-training-strategies"></a>[AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bh)
+- <a id="kowsher26b-training-strategies"></a>[SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks](../conferences/icml-2026/cards/2201-2300.md#paper-kowsher26b)
 
 <a id="by-data-strategies"></a>
 
@@ -417,6 +420,7 @@
 - <a id="kaulen26a-evaluation"></a>[Rethinking Evaluation Paradigms in IBP-based Certified Training](../conferences/icml-2026/cards/2001-2100.md#paper-kaulen26a)
 - <a id="kechris26a-evaluation"></a>[Time series saliency maps: Explaining models across multiple domains](../conferences/icml-2026/cards/2001-2100.md#paper-kechris26a)
 - <a id="keenan26a-evaluation"></a>[Mechanistic Anomaly Detection via Functional Attribution](../conferences/icml-2026/cards/2001-2100.md#paper-keenan26a)
+- <a id="koulakis26a-evaluation"></a>[The Data Manifold under the Microscope](../conferences/icml-2026/cards/2201-2300.md#paper-koulakis26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -653,4 +657,13 @@
 - <a id="kinoshita26a-theory-statistics"></a>[Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](../conferences/icml-2026/cards/2101-2200.md#paper-kinoshita26a)
 - <a id="klippert26a-theory-statistics"></a>[Skewness-Robust Causal Discovery in Location-Scale Noise Models](../conferences/icml-2026/cards/2101-2200.md#paper-klippert26a)
 - <a id="knowles26a-theory-statistics"></a>[Tractable Expected Information Gains for Exponential Family Posteriors](../conferences/icml-2026/cards/2101-2200.md#paper-knowles26a)
+- <a id="kontorovich26a-theory-statistics"></a>[A Fine-Grained Understanding of Uniform Convergence for Halfspaces](../conferences/icml-2026/cards/2101-2200.md#paper-kontorovich26a)
+- <a id="kook26a-theory-statistics"></a>[Covariance estimation using Markov chain Monte Carlo](../conferences/icml-2026/cards/2201-2300.md#paper-kook26a)
+- <a id="koplow26a-theory-statistics"></a>[Ubiquity of Emergent Hebbian Dynamics in Regularized Learning](../conferences/icml-2026/cards/2201-2300.md#paper-koplow26a)
+- <a id="kouridakis26a-theory-statistics"></a>[Linear Regression with Unknown Truncation Beyond Gaussian Features](../conferences/icml-2026/cards/2201-2300.md#paper-kouridakis26a)
+- <a id="kovacevic26a-theory-statistics"></a>[Full-Batch Gradient Descent Outperforms One-Pass SGD: Sample Complexity Separation in Single-Index Learning](../conferences/icml-2026/cards/2201-2300.md#paper-kovacevic26a)
+- <a id="kover26a-theory-statistics"></a>[Understanding the Parameter Space Volume of Transformers Encoding Boolean Functions](../conferences/icml-2026/cards/2201-2300.md#paper-kover26a)
+- <a id="koyuncu26a-theory-statistics"></a>[Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit](../conferences/icml-2026/cards/2201-2300.md#paper-koyuncu26a)
+- <a id="kramp26a-theory-statistics"></a>[Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues](../conferences/icml-2026/cards/2201-2300.md#paper-kramp26a)
+- <a id="kuang26c-theory-statistics"></a>[SCORE: A Unified Framework for Overshoot Refund in Online FDR Control](../conferences/icml-2026/cards/2201-2300.md#paper-kuang26c)
 <!-- classification:end -->

@@ -72,6 +72,7 @@ Training schedules, curricula, and task or stage composition.
 - [AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](../../conferences/icml-2026/cards/2101-2200.md#kim26v-training-strategies) · 中文
 - [From Drift to Coherence: Stabilizing Beliefs in LLMs](../../conferences/icml-2026/cards/2101-2200.md#kim26ah-training-strategies) · 中文
 - [DiscoverLLM: From Executing Intents to Discovering Them](../../conferences/icml-2026/cards/2101-2200.md#kim26av-training-strategies) · 中文
+- [Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences](../../conferences/icml-2026/cards/2201-2300.md#koo26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -146,6 +147,7 @@ Training schedules, curricula, and task or stage composition.
 - [OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ag-training-strategies) · 中文
 - [Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26c-training-strategies) · 中文
 - [FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](../../conferences/icml-2026/cards/2001-2100.md#karim26a-training-strategies) · 中文
+- [ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation](../../conferences/icml-2026/cards/2101-2200.md#kong26h-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -195,6 +197,7 @@ Training schedules, curricula, and task or stage composition.
 - [SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](../../conferences/icml-2026/cards/2001-2100.md#jung26f-training-strategies) · 中文
 - [Manifold-Aware Perturbations for Constrained Generative Modeling](../../conferences/icml-2026/cards/2001-2100.md#keegan26a-training-strategies) · 中文
 - [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](../../conferences/icml-2026/cards/2101-2200.md#kim26bh-training-strategies) · 中文
+- [SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks](../../conferences/icml-2026/cards/2201-2300.md#kowsher26b-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

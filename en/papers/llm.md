@@ -39,6 +39,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="jin26c-architecture"></a>[Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26c)
 - <a id="kapl26a-architecture"></a>[From Growing to Looping: A Unified View of Iterative Computation in LLMs](../../conferences/icml-2026/cards/2001-2100.md#paper-kapl26a)
 - <a id="kayyam26a-architecture"></a>[Do Transformers Need Three Projections? Systematic Study of QKV Variants](../../conferences/icml-2026/cards/2001-2100.md#paper-kayyam26a)
+- <a id="koromilas26a-architecture"></a>[PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding](../../conferences/icml-2026/cards/2201-2300.md#paper-koromilas26a)
 
 <a id="by-modules"></a>
 
@@ -220,6 +221,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="kim26s-reinforcement-learning"></a>[Verifying Meta-Awareness via Predictive Rewards in Reasoning Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26s)
 - <a id="kim26aa-reinforcement-learning"></a>[Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26aa)
 - <a id="kim26bl-reinforcement-learning"></a>[Discounted Beta–Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bl)
+- <a id="kong26g-reinforcement-learning"></a>[InfoPO: Information-Driven Policy Optimization for User-Centric Agents](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26g)
+- <a id="kou26a-reinforcement-learning"></a>[Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models](../../conferences/icml-2026/cards/2201-2300.md#paper-kou26a)
+- <a id="krishnan26a-reinforcement-learning"></a>[Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains](../../conferences/icml-2026/cards/2201-2300.md#paper-krishnan26a)
 
 <a id="by-training-strategies"></a>
 
@@ -284,6 +288,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="kim26v-training-strategies"></a>[AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26v)
 - <a id="kim26ah-training-strategies"></a>[From Drift to Coherence: Stabilizing Beliefs in LLMs](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ah)
 - <a id="kim26av-training-strategies"></a>[DiscoverLLM: From Executing Intents to Discovering Them](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26av)
+- <a id="koo26a-training-strategies"></a>[Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences](../../conferences/icml-2026/cards/2201-2300.md#paper-koo26a)
 
 <a id="by-data-strategies"></a>
 
@@ -644,6 +649,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="king26a-evaluation"></a>[Representational Curvature Modulates Behavioral Uncertainty in Large Language Models](../../conferences/icml-2026/cards/2101-2200.md#paper-king26a)
 - <a id="kiyani26a-evaluation"></a>[When to Trust the Cheap Check: Weak and Strong Verification for Reasoning](../../conferences/icml-2026/cards/2101-2200.md#paper-kiyani26a)
 - <a id="ko26b-evaluation"></a>[From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents](../../conferences/icml-2026/cards/2101-2200.md#paper-ko26b)
+- <a id="korgul26a-evaluation"></a>[It’s a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents](../../conferences/icml-2026/cards/2201-2300.md#paper-korgul26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -673,4 +679,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="hu26bh-theory-statistics"></a>[OSCS: Online Selection with Provable FAR Control for LLM Safety](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bh)
 - <a id="huang26bk-theory-statistics"></a>[On the Emergence of Implicit Curriculum in RLVR Learning Dynamics](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bk)
 - <a id="kim26bz-theory-statistics"></a>[Coverage Improvement and Fast Convergence of On-policy Preference Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bz)
+- <a id="kong26c-theory-statistics"></a>[From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26c)
+- <a id="korkmaz26a-theory-statistics"></a>[The Axiomatic Value of Regularization in AI Alignment from Human Preferences](../../conferences/icml-2026/cards/2201-2300.md#paper-korkmaz26a)
+- <a id="koubbi26a-theory-statistics"></a>[Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics](../../conferences/icml-2026/cards/2201-2300.md#paper-koubbi26a)
 <!-- classification:end -->

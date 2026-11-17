@@ -79,6 +79,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="huang26bt-loss-functions"></a>[LIVE: Long-horizon Interactive Video World Modeling](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bt)
 - <a id="jang26e-loss-functions"></a>[Making Models Unmergeable via Scaling-Sensitive Loss Landscape](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26e)
 - <a id="kim26e-loss-functions"></a>[Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26e)
+- <a id="koromilas26b-loss-functions"></a>[Neural Collapse by Design: Learning Class Prototypes on the Hypersphere](../../conferences/icml-2026/cards/2201-2300.md#paper-koromilas26b)
+- <a id="kuang26b-loss-functions"></a>[Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations](../../conferences/icml-2026/cards/2201-2300.md#paper-kuang26b)
 
 <a id="by-optimization"></a>
 
@@ -278,6 +280,9 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="kim26as-evaluation"></a>[Adversarial Robustness of Implicit Neural Representation-Based Classifiers](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26as)
 - <a id="kim26aw-evaluation"></a>[Manifold-Aligned Guided Integrated Gradients for Reliable Feature Attribution](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26aw)
 - <a id="konforti26a-evaluation"></a>[CB-SLICE: Concept-Based Interpretable Error Slice Discovery](../../conferences/icml-2026/cards/2101-2200.md#paper-konforti26a)
+- <a id="kowalczuk26a-evaluation"></a>[Finding DoRI: Discovery of Retained Images in Diffusion Models](../../conferences/icml-2026/cards/2201-2300.md#paper-kowalczuk26a)
+- <a id="kozlowski26a-evaluation"></a>[Unifying Deep Stochastic Processes for Image Enhancement](../../conferences/icml-2026/cards/2201-2300.md#paper-kozlowski26a)
+- <a id="kuang26a-evaluation"></a>[When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability](../../conferences/icml-2026/cards/2201-2300.md#paper-kuang26a)
 
 <a id="by-theory-statistics"></a>
 

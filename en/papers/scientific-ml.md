@@ -193,6 +193,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="hastedt26a-inference"></a>[From Feasible to Practical: Pareto-Optimal Synthesis Planning](../../conferences/icml-2026/cards/1401-1500.md#paper-hastedt26a)
 - <a id="helvits26a-inference"></a>[Score Based Error Correcting Code Decoder](../../conferences/icml-2026/cards/1501-1600.md#paper-helvits26a)
 - <a id="jia26e-inference"></a>[MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26e)
+- <a id="kosmala26a-inference"></a>[Speculative Sampling For Faster Molecular Dynamics](../../conferences/icml-2026/cards/2201-2300.md#paper-kosmala26a)
 
 <a id="by-representation-learning"></a>
 
@@ -227,6 +228,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="kim26c-representation-learning"></a>[Explicit representation of germline and non-germline residues improves antibody language modeling](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26c)
 - <a id="kim26bn-representation-learning"></a>[DNACHUNKER: Learnable Tokenization for DNA Language Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bn)
 - <a id="ko26c-representation-learning"></a>[Geometric Embedding Alignment via Curvature Matching in Transfer Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-ko26c)
+- <a id="kong26d-representation-learning"></a>[SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26d)
 
 <a id="by-evaluation"></a>
 
@@ -251,6 +253,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="gokce26a-evaluation"></a>[Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](../../conferences/icml-2026/cards/1201-1300.md#paper-gokce26a)
 - <a id="han26v-evaluation"></a>[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](../../conferences/icml-2026/cards/1401-1500.md#paper-han26v)
 - <a id="he26ay-evaluation"></a>[MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ay)
+- <a id="krasowski26a-evaluation"></a>[PINNfluence: Interpreting PINNs through Influence Functions](../../conferences/icml-2026/cards/2201-2300.md#paper-krasowski26a)
+- <a id="ku26a-evaluation"></a>[ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts](../../conferences/icml-2026/cards/2201-2300.md#paper-ku26a)
+- <a id="kuang26d-evaluation"></a>[PDFBench: A Benchmark for De Novo Protein Design from Function](../../conferences/icml-2026/cards/2201-2300.md#paper-kuang26d)
 
 <a id="by-theory-statistics"></a>
 

@@ -39,6 +39,7 @@
 - [将协作步骤做成可检索的潜通信原语](../conferences/icml-2026/cards/1901-2000.md#jin26c-architecture) · Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems
 - [循环保留了迭代结构的中间层](../conferences/icml-2026/cards/2001-2100.md#kapl26a-architecture) · From Growing to Looping: A Unified View of Iterative Computation in LLMs
 - [共享键和值以减少自回归缓存](../conferences/icml-2026/cards/2001-2100.md#kayyam26a-architecture) · Do Transformers Need Three Projections? Systematic Study of QKV Variants
+- [让稀疏解码器显式建模特征交互](../conferences/icml-2026/cards/2201-2300.md#koromilas26a-architecture) · PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding
 
 <a id="by-computer-vision"></a>
 
@@ -87,6 +88,7 @@
 - [连续控制动作表示](../conferences/icml-2026/cards/0201-0300.md#bian26a-architecture) · RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning
 - [以潜状态分布替代像素重构并允许替换约束先验](../conferences/icml-2026/cards/1701-1800.md#huang26ba-architecture) · VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models
 - [用输入门在固定参考路径和可学投影间插值](../conferences/icml-2026/cards/2101-2200.md#koeppe26a-architecture) · Mitigating Plasticity Loss through Architectural Design in Continual Learning
+- [把可梯度训练的连续策略编译成查表电路](../conferences/icml-2026/cards/2201-2300.md#kresse26a-architecture) · Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control
 
 <a id="by-robotics"></a>
 
@@ -152,6 +154,7 @@
 - [先限定对称族再学习可解释生成元](../conferences/icml-2026/cards/2001-2100.md#karjol26a-architecture) · Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries
 - [把对齐后的权重矩阵当可变尺寸局部场](../conferences/icml-2026/cards/2101-2200.md#kim26ay-architecture) · NNiT: Width-Agnostic Neural Network Generation with Structurally Aligned Weight Spaces
 - [对一般线性共轭保留矩阵中心特征](../conferences/icml-2026/cards/2101-2200.md#kim26ca-architecture) · Equivariant Neural Networks for General Linear Symmetries on Lie Algebras
+- [固定非零权重预算下扩宽网络](../conferences/icml-2026/cards/2101-2200.md#kong26f-architecture) · Expand Neurons, Not Parameters
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -138,6 +138,7 @@ Data selection, annotation, augmentation, and sampling.
 - [GraphPFN: A Prior-Data Fitted Graph Foundation Model](../../conferences/icml-2026/cards/1001-1100.md#eremeev26a-data-strategies) · 中文
 - [HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](../../conferences/icml-2026/cards/1601-1700.md#hou26c-data-strategies) · 中文
 - [Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](../../conferences/icml-2026/cards/2001-2100.md#ju26c-data-strategies) · 中文
+- [PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models](../../conferences/icml-2026/cards/2201-2300.md#kothapalli26a-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -138,6 +138,7 @@
 - [图基础模型的合成预训练先验](../conferences/icml-2026/cards/1001-1100.md#eremeev26a-data-strategies) · GraphPFN: A Prior-Data Fitted Graph Foundation Model
 - [选取同时覆盖特征与超图传播的标注节点](../conferences/icml-2026/cards/1601-1700.md#hou26c-data-strategies) · HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization
 - [以扩散邻域影响冲突诊断标签](../conferences/icml-2026/cards/2001-2100.md#ju26c-data-strategies) · Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction
+- [先合成表间连接再生成列分布](../conferences/icml-2026/cards/2201-2300.md#kothapalli26a-data-strategies) · PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models
 
 <a id="by-scientific-ml"></a>
 

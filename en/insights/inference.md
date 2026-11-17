@@ -373,4 +373,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [From Feasible to Practical: Pareto-Optimal Synthesis Planning](../../conferences/icml-2026/cards/1401-1500.md#hastedt26a-inference) · 中文
 - [Score Based Error Correcting Code Decoder](../../conferences/icml-2026/cards/1501-1600.md#helvits26a-inference) · 中文
 - [MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation](../../conferences/icml-2026/cards/1801-1900.md#jia26e-inference) · 中文
+- [Speculative Sampling For Faster Molecular Dynamics](../../conferences/icml-2026/cards/2201-2300.md#kosmala26a-inference) · 中文
 <!-- classification:end -->

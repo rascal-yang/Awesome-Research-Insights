@@ -44,6 +44,8 @@ Objectives, auxiliary supervision, and regularization.
 - [LIVE: Long-horizon Interactive Video World Modeling](../../conferences/icml-2026/cards/1701-1800.md#huang26bt-loss-functions) · 中文
 - [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](../../conferences/icml-2026/cards/1801-1900.md#jang26e-loss-functions) · 中文
 - [Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents](../../conferences/icml-2026/cards/2001-2100.md#kim26e-loss-functions) · 中文
+- [Neural Collapse by Design: Learning Class Prototypes on the Hypersphere](../../conferences/icml-2026/cards/2201-2300.md#koromilas26b-loss-functions) · 中文
+- [Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations](../../conferences/icml-2026/cards/2201-2300.md#kuang26b-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -89,6 +91,7 @@ Objectives, auxiliary supervision, and regularization.
 - [No Data? No Problem: Robust Vision-Tabular Learning with Missing Values](../../conferences/icml-2026/cards/1401-1500.md#hasny26a-loss-functions) · 中文
 - [Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models](../../conferences/icml-2026/cards/1501-1600.md#he26ai-loss-functions) · 中文
 - [DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs](../../conferences/icml-2026/cards/1601-1700.md#hu26aw-loss-functions) · 中文
+- [Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges](../../conferences/icml-2026/cards/2201-2300.md#kosman26a-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -44,6 +44,8 @@
 - [以逆向重建约束长视频滚动](../conferences/icml-2026/cards/1701-1800.md#huang26bt-loss-functions) · LIVE: Long-horizon Interactive Video World Modeling
 - [训练对重缩放敏感的模型更新](../conferences/icml-2026/cards/1801-1900.md#jang26e-loss-functions) · Making Models Unmergeable via Scaling-Sensitive Loss Landscape
 - [让一致性训练更新指向数据流形](../conferences/icml-2026/cards/2001-2100.md#kim26e-loss-functions) · Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents
+- [把类原型的几何留在分类输出层](../conferences/icml-2026/cards/2201-2300.md#koromilas26b-loss-functions) · Neural Collapse by Design: Learning Class Prototypes on the Hypersphere
+- [匹配带零点质量的最大熵表征目标](../conferences/icml-2026/cards/2201-2300.md#kuang26b-loss-functions) · Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations
 
 <a id="by-nlp"></a>
 
@@ -89,6 +91,7 @@
 - [让新增可信表格字段在训练中带来收益](../conferences/icml-2026/cards/1401-1500.md#hasny26a-loss-functions) · No Data? No Problem: Robust Vision-Tabular Learning with Missing Values
 - [以径向蕴涵与球面角距分工表示分类树](../conferences/icml-2026/cards/1501-1600.md#he26ai-loss-functions) · Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models
 - [跨模型对齐多视图特征分布](../conferences/icml-2026/cards/1601-1700.md#hu26aw-loss-functions) · DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs
+- [用循环一致性约束未配对扩散桥](../conferences/icml-2026/cards/2201-2300.md#kosman26a-loss-functions) · Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges
 
 <a id="by-ml-foundations"></a>
 

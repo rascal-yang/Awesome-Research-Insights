@@ -373,4 +373,5 @@
 - [在共享逆合成搜索图上自适应采样目标权重](../conferences/icml-2026/cards/1401-1500.md#hastedt26a-inference) · From Feasible to Practical: Pareto-Optimal Synthesis Planning
 - [保留信道符号来积分连续解码场](../conferences/icml-2026/cards/1501-1600.md#helvits26a-inference) · Score Based Error Correcting Code Decoder
 - [把谱峰基序证据带入分段去噪搜索](../conferences/icml-2026/cards/1801-1900.md#jia26e-inference) · MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation
+- [用快势草拟并行验证分子动力学轨迹](../conferences/icml-2026/cards/2201-2300.md#kosmala26a-inference) · Speculative Sampling For Faster Molecular Dynamics
 <!-- classification:end -->

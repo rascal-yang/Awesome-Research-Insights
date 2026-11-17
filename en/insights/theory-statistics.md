@@ -37,6 +37,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [OSCS: Online Selection with Provable FAR Control for LLM Safety](../../conferences/icml-2026/cards/1601-1700.md#hu26bh-theory-statistics) · 中文
 - [On the Emergence of Implicit Curriculum in RLVR Learning Dynamics](../../conferences/icml-2026/cards/1701-1800.md#huang26bk-theory-statistics) · 中文
 - [Coverage Improvement and Fast Convergence of On-policy Preference Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26bz-theory-statistics) · 中文
+- [From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning](../../conferences/icml-2026/cards/2101-2200.md#kong26c-theory-statistics) · 中文
+- [The Axiomatic Value of Regularization in AI Alignment from Human Preferences](../../conferences/icml-2026/cards/2201-2300.md#korkmaz26a-theory-statistics) · 中文
+- [Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics](../../conferences/icml-2026/cards/2201-2300.md#koubbi26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -345,6 +348,15 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](../../conferences/icml-2026/cards/2101-2200.md#kinoshita26a-theory-statistics) · 中文
 - [Skewness-Robust Causal Discovery in Location-Scale Noise Models](../../conferences/icml-2026/cards/2101-2200.md#klippert26a-theory-statistics) · 中文
 - [Tractable Expected Information Gains for Exponential Family Posteriors](../../conferences/icml-2026/cards/2101-2200.md#knowles26a-theory-statistics) · 中文
+- [A Fine-Grained Understanding of Uniform Convergence for Halfspaces](../../conferences/icml-2026/cards/2101-2200.md#kontorovich26a-theory-statistics) · 中文
+- [Covariance estimation using Markov chain Monte Carlo](../../conferences/icml-2026/cards/2201-2300.md#kook26a-theory-statistics) · 中文
+- [Ubiquity of Emergent Hebbian Dynamics in Regularized Learning](../../conferences/icml-2026/cards/2201-2300.md#koplow26a-theory-statistics) · 中文
+- [Linear Regression with Unknown Truncation Beyond Gaussian Features](../../conferences/icml-2026/cards/2201-2300.md#kouridakis26a-theory-statistics) · 中文
+- [Full-Batch Gradient Descent Outperforms One-Pass SGD: Sample Complexity Separation in Single-Index Learning](../../conferences/icml-2026/cards/2201-2300.md#kovacevic26a-theory-statistics) · 中文
+- [Understanding the Parameter Space Volume of Transformers Encoding Boolean Functions](../../conferences/icml-2026/cards/2201-2300.md#kover26a-theory-statistics) · 中文
+- [Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit](../../conferences/icml-2026/cards/2201-2300.md#koyuncu26a-theory-statistics) · 中文
+- [Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues](../../conferences/icml-2026/cards/2201-2300.md#kramp26a-theory-statistics) · 中文
+- [SCORE: A Unified Framework for Overshoot Refund in Online FDR Control](../../conferences/icml-2026/cards/2201-2300.md#kuang26c-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

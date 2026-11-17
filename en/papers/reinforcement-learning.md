@@ -16,6 +16,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="bian26a-architecture"></a>[RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](../../conferences/icml-2026/cards/0201-0300.md#paper-bian26a)
 - <a id="huang26ba-architecture"></a>[VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ba)
 - <a id="koeppe26a-architecture"></a>[Mitigating Plasticity Loss through Architectural Design in Continual Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-koeppe26a)
+- <a id="kresse26a-architecture"></a>[Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](../../conferences/icml-2026/cards/2201-2300.md#paper-kresse26a)
 
 <a id="by-loss-functions"></a>
 
@@ -105,6 +106,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="jiang26ba-reinforcement-learning"></a>[Budget-Efficient Attacks and Robustness Training for Cooperative MARL](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ba)
 - <a id="kim26ai-reinforcement-learning"></a>[Frictional Q-Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ai)
 - <a id="kobanda26a-reinforcement-learning"></a>[Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation](../../conferences/icml-2026/cards/2101-2200.md#paper-kobanda26a)
+- <a id="kong26e-reinforcement-learning"></a>[Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26e)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>

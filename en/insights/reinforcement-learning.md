@@ -89,6 +89,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Verifying Meta-Awareness via Predictive Rewards in Reasoning Models](../../conferences/icml-2026/cards/2101-2200.md#kim26s-reinforcement-learning) · 中文
 - [Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR](../../conferences/icml-2026/cards/2101-2200.md#kim26aa-reinforcement-learning) · 中文
 - [Discounted Beta–Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/2101-2200.md#kim26bl-reinforcement-learning) · 中文
+- [InfoPO: Information-Driven Policy Optimization for User-Centric Agents](../../conferences/icml-2026/cards/2101-2200.md#kong26g-reinforcement-learning) · 中文
+- [Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models](../../conferences/icml-2026/cards/2201-2300.md#kou26a-reinforcement-learning) · 中文
+- [Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains](../../conferences/icml-2026/cards/2201-2300.md#krishnan26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -180,6 +183,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Budget-Efficient Attacks and Robustness Training for Cooperative MARL](../../conferences/icml-2026/cards/1901-2000.md#jiang26ba-reinforcement-learning) · 中文
 - [Frictional Q-Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26ai-reinforcement-learning) · 中文
 - [Adaptive Quasimetric Mapping : Principled Topological Abstraction for Robust Offline Goal-Conditioned Navigation](../../conferences/icml-2026/cards/2101-2200.md#kobanda26a-reinforcement-learning) · 中文
+- [Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions](../../conferences/icml-2026/cards/2101-2200.md#kong26e-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -217,6 +221,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Find, Fix, Reason: Context Repair for Video Reasoning](../../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · 中文
 - [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · 中文
 - [Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents](../../conferences/icml-2026/cards/2101-2200.md#kim26bs-reinforcement-learning) · 中文
+- [Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](../../conferences/icml-2026/cards/2201-2300.md#kou26b-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

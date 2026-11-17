@@ -39,6 +39,7 @@
 - <a id="he26b-modules"></a>[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](../conferences/icml-2026/cards/1401-1500.md#paper-he26b)
 - <a id="hong26g-modules"></a>[Unified Multimodal Visual Tracking with Dual Mixture-of-Experts](../conferences/icml-2026/cards/1501-1600.md#paper-hong26g)
 - <a id="hu26ba-modules"></a>[TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](../conferences/icml-2026/cards/1601-1700.md#paper-hu26ba)
+- <a id="kowsher26a-modules"></a>[LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](../conferences/icml-2026/cards/2201-2300.md#paper-kowsher26a)
 
 <a id="by-loss-functions"></a>
 
@@ -58,6 +59,7 @@
 - <a id="hasny26a-loss-functions"></a>[No Data? No Problem: Robust Vision-Tabular Learning with Missing Values](../conferences/icml-2026/cards/1401-1500.md#paper-hasny26a)
 - <a id="he26ai-loss-functions"></a>[Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models](../conferences/icml-2026/cards/1501-1600.md#paper-he26ai)
 - <a id="hu26aw-loss-functions"></a>[DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs](../conferences/icml-2026/cards/1601-1700.md#paper-hu26aw)
+- <a id="kosman26a-loss-functions"></a>[Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges](../conferences/icml-2026/cards/2201-2300.md#paper-kosman26a)
 
 <a id="by-optimization"></a>
 
@@ -90,6 +92,7 @@
 - <a id="huang26aq-reinforcement-learning"></a>[Find, Fix, Reason: Context Repair for Video Reasoning](../conferences/icml-2026/cards/1701-1800.md#paper-huang26aq)
 - <a id="huang26bm-reinforcement-learning"></a>[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bm)
 - <a id="kim26bs-reinforcement-learning"></a>[Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bs)
+- <a id="kou26b-reinforcement-learning"></a>[Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](../conferences/icml-2026/cards/2201-2300.md#paper-kou26b)
 
 <a id="by-training-strategies"></a>
 
@@ -117,6 +120,7 @@
 - <a id="jiang26ag-training-strategies"></a>[OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ag)
 - <a id="kang26c-training-strategies"></a>[Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26c)
 - <a id="karim26a-training-strategies"></a>[FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](../conferences/icml-2026/cards/2001-2100.md#paper-karim26a)
+- <a id="kong26h-training-strategies"></a>[ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation](../conferences/icml-2026/cards/2101-2200.md#paper-kong26h)
 
 <a id="by-data-strategies"></a>
 
@@ -207,6 +211,7 @@
 - <a id="huang26z-representation-learning"></a>[Text-Conditional JEPA for Learning Semantically Rich Visual Representations](../conferences/icml-2026/cards/1701-1800.md#paper-huang26z)
 - <a id="jeon26c-representation-learning"></a>[Vision-aligned Latent Reasoning for Multi-modal Large Language Model](../conferences/icml-2026/cards/1801-1900.md#paper-jeon26c)
 - <a id="kang26k-representation-learning"></a>[Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](../conferences/icml-2026/cards/2001-2100.md#paper-kang26k)
+- <a id="kravets26a-representation-learning"></a>[Interpretability Transfer from Language to Vision via Sparse Autoencoders](../conferences/icml-2026/cards/2201-2300.md#paper-kravets26a)
 
 <a id="by-evaluation"></a>
 
@@ -255,6 +260,8 @@
 - <a id="ju26b-evaluation"></a>[Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching](../conferences/icml-2026/cards/2001-2100.md#paper-ju26b)
 - <a id="jung26c-evaluation"></a>[Probing Cross-modal Information Hubs in Audio-Visual LLMs](../conferences/icml-2026/cards/2001-2100.md#paper-jung26c)
 - <a id="kang26d-evaluation"></a>[Real-Time Visual Attribution Streaming in Thinking Model](../conferences/icml-2026/cards/2001-2100.md#paper-kang26d)
+- <a id="kou26c-evaluation"></a>[MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding](../conferences/icml-2026/cards/2201-2300.md#paper-kou26c)
+- <a id="krojer26a-evaluation"></a>[LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](../conferences/icml-2026/cards/2201-2300.md#paper-krojer26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -254,6 +254,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [LILO: Bayesian Optimization with Natural Language Feedback](../../conferences/icml-2026/cards/2101-2200.md#kobalczyk26a-optimization) · 中文
 - [Incorporating Importance Weighting in Optimal Transport Based Domain Alignment](../../conferences/icml-2026/cards/2101-2200.md#koc26a-optimization) · 中文
 - [Natural Hypergradient Descent: Algorithm Design, Convergence Analysis, and Parallel Implementation](../../conferences/icml-2026/cards/2101-2200.md#kong26a-optimization) · 中文
+- [Finding Most Influential Sets](../../conferences/icml-2026/cards/2101-2200.md#konrad26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
