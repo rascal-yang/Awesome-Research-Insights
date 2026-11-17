@@ -63,6 +63,7 @@
 - [router-conditioned-expert-width](../conferences/icml-2026/cards/4401-4500.md#tastan26a-architecture) · MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models
 - [static-contextual-lookup](../conferences/icml-2026/cards/4401-4500.md#tseng26a-architecture) · $L^3$: Large Lookup Layers
 - [diagonal-preconditioned-delta](../conferences/icml-2026/cards/4501-4600.md#tumma26a-architecture) · Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences
+- [信息漂移分段的有界多状态记忆](../conferences/icml-2026/cards/4701-4800.md#wang26gr-architecture) · Dynamic Linear Attention
 
 <a id="by-computer-vision"></a>
 
@@ -181,6 +182,7 @@
 - [预测趋势与历史细节分源](../conferences/icml-2026/cards/4201-4300.md#song26q-architecture) · TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction
 - [calculus-matched-rough-dynamics](../conferences/icml-2026/cards/4401-4500.md#thompson26a-architecture) · Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations
 - [形态编码与系统条件动力专家](../conferences/icml-2026/cards/4601-4700.md#wang26dc-architecture) · WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems
+- [按独立变化学习分解潜动作](../conferences/icml-2026/cards/4701-4800.md#wang26gs-architecture) · Factored Latent Action World Models
 
 <a id="by-multimodal"></a>
 

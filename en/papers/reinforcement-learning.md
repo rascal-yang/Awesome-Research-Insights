@@ -195,6 +195,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="tong26h-reinforcement-learning"></a>[Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26h)
 - <a id="wang26dj-reinforcement-learning"></a>[Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dj)
 - <a id="wang26ek-reinforcement-learning"></a>[Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ek)
+- <a id="wang26gv-reinforcement-learning"></a>[Learning Reward–Cost Balance in Safe RL via Score-Based World Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gv)
 
 <a id="by-training-strategies"></a>
 

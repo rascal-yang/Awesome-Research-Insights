@@ -175,6 +175,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks](../../conferences/icml-2026/cards/4501-4600.md#vijayvargiya26a-reinforcement-learning) · 中文
 - [Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction](../../conferences/icml-2026/cards/4601-4700.md#wang26x-reinforcement-learning) · 中文
 - [T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26ah-reinforcement-learning) · 中文
+- [StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26gn-reinforcement-learning) · 中文
+- [ThetaEvolve: Test-time Learning on Open Problems](../../conferences/icml-2026/cards/4701-4800.md#wang26ha-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -344,6 +346,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](../../conferences/icml-2026/cards/4401-4500.md#tong26h-reinforcement-learning) · 中文
 - [Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification](../../conferences/icml-2026/cards/4601-4700.md#wang26dj-reinforcement-learning) · 中文
 - [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](../../conferences/icml-2026/cards/4701-4800.md#wang26ek-reinforcement-learning) · 中文
+- [Learning Reward–Cost Balance in Safe RL via Score-Based World Models](../../conferences/icml-2026/cards/4701-4800.md#wang26gv-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

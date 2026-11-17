@@ -186,6 +186,7 @@
 - <a id="shevkunov26a-representation-learning"></a>[Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls](../conferences/icml-2026/cards/4001-4100.md#paper-shevkunov26a)
 - <a id="sun26ab-representation-learning"></a>[Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ab)
 - <a id="truong26a-representation-learning"></a>[Plain Transformers are Surprisingly Powerful Link Predictors](../conferences/icml-2026/cards/4401-4500.md#paper-truong26a)
+- <a id="wang26gl-representation-learning"></a>[What Information Matters? Graph Out-of-Distribution Detection via Tri-Component Information Decomposition](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gl)
 
 <a id="by-evaluation"></a>
 

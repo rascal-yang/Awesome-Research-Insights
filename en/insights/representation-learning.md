@@ -91,6 +91,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../../conferences/icml-2026/cards/4501-4600.md#wang26l-representation-learning) · 中文
 - [DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26aa-representation-learning) · 中文
 - [PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation](../../conferences/icml-2026/cards/4601-4700.md#wang26cn-representation-learning) · 中文
+- [FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](../../conferences/icml-2026/cards/4701-4800.md#wang26gp-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -294,6 +295,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls](../../conferences/icml-2026/cards/4001-4100.md#shevkunov26a-representation-learning) · 中文
 - [Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](../../conferences/icml-2026/cards/4301-4400.md#sun26ab-representation-learning) · 中文
 - [Plain Transformers are Surprisingly Powerful Link Predictors](../../conferences/icml-2026/cards/4401-4500.md#truong26a-representation-learning) · 中文
+- [What Information Matters? Graph Out-of-Distribution Detection via Tri-Component Information Decomposition](../../conferences/icml-2026/cards/4701-4800.md#wang26gl-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 

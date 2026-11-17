@@ -179,6 +179,7 @@
 - <a id="tran26h-loss-functions"></a>[Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation](../conferences/icml-2026/cards/4401-4500.md#paper-tran26h)
 - <a id="wan26i-loss-functions"></a>[A Solver-Free Training Method for Predict-then-Optimize](../conferences/icml-2026/cards/4501-4600.md#paper-wan26i)
 - <a id="wang26gd-loss-functions"></a>[BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gd)
+- <a id="wang26gk-loss-functions"></a>[Refining Dual Spectral Sparsity in Transformed Tensor Singular Values](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gk)
 
 <a id="by-optimization"></a>
 
@@ -426,6 +427,7 @@
 - <a id="wang26dg-optimization"></a>[AdaGC: Enhancing LLM Pretraining Stability via Adaptive Gradient Clipping](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dg)
 - <a id="wang26ex-optimization"></a>[Fix the Loss, Not the Radius: Rethinking the Adversarial Perturbation of Sharpness-Aware Minimization](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ex)
 - <a id="wang26ff-optimization"></a>[Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ff)
+- <a id="wang26gq-optimization"></a>[OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gq)
 
 <a id="by-reinforcement-learning"></a>
 

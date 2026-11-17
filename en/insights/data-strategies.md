@@ -83,6 +83,7 @@ Data selection, annotation, augmentation, and sampling.
 - [DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26w-data-strategies) · 中文
 - [The Power of Power Law: Asymmetry Enables Compositional Reasoning](../../conferences/icml-2026/cards/4601-4700.md#wang26ak-data-strategies) · 中文
 - [Mining Useful General Data for Low-Resource Domain Adaptation](../../conferences/icml-2026/cards/4701-4800.md#wang26eq-data-strategies) · 中文
+- [Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm](../../conferences/icml-2026/cards/4701-4800.md#wang26go-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

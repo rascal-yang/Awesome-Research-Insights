@@ -63,6 +63,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tastan26a-architecture"></a>[MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models](../../conferences/icml-2026/cards/4401-4500.md#paper-tastan26a)
 - <a id="tseng26a-architecture"></a>[$L^3$: Large Lookup Layers](../../conferences/icml-2026/cards/4401-4500.md#paper-tseng26a)
 - <a id="tumma26a-architecture"></a>[Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences](../../conferences/icml-2026/cards/4501-4600.md#paper-tumma26a)
+- <a id="wang26gr-architecture"></a>[Dynamic Linear Attention](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gr)
 
 <a id="by-modules"></a>
 
@@ -155,6 +156,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="vuong26b-loss-functions"></a>[$f$-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models](../../conferences/icml-2026/cards/4501-4600.md#paper-vuong26b)
 - <a id="wang26fa-loss-functions"></a>[Unbiased Alignment for Large Language Models with Noisy Preferences](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fa)
 - <a id="wang26fi-loss-functions"></a>[Rooted Absorbed Prefix Trajectory Balance with Submodular Replay for GFlowNet Training](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fi)
+- <a id="wang26gj-loss-functions"></a>[A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gj)
 
 <a id="by-optimization"></a>
 
@@ -414,6 +416,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="vijayvargiya26a-reinforcement-learning"></a>[Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks](../../conferences/icml-2026/cards/4501-4600.md#paper-vijayvargiya26a)
 - <a id="wang26x-reinforcement-learning"></a>[Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26x)
 - <a id="wang26ah-reinforcement-learning"></a>[T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ah)
+- <a id="wang26gn-reinforcement-learning"></a>[StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gn)
+- <a id="wang26ha-reinforcement-learning"></a>[ThetaEvolve: Test-time Learning on Open Problems](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ha)
 
 <a id="by-training-strategies"></a>
 
@@ -550,6 +554,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26ds-training-strategies"></a>[Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ds)
 - <a id="wang26dz-training-strategies"></a>[SuCo: Sufficiency-guided Continuous Adaptive Reasoning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dz)
 - <a id="wang26eg-training-strategies"></a>[Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eg)
+- <a id="wang26gy-training-strategies"></a>[AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gy)
 
 <a id="by-data-strategies"></a>
 
@@ -625,6 +630,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26w-data-strategies"></a>[DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26w)
 - <a id="wang26ak-data-strategies"></a>[The Power of Power Law: Asymmetry Enables Compositional Reasoning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ak)
 - <a id="wang26eq-data-strategies"></a>[Mining Useful General Data for Low-Resource Domain Adaptation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eq)
+- <a id="wang26go-data-strategies"></a>[Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26go)
 
 <a id="by-inference"></a>
 

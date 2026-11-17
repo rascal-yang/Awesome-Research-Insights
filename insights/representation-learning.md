@@ -91,6 +91,7 @@
 - [DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../conferences/icml-2026/cards/4501-4600.md#wang26l-representation-learning) · DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation
 - [DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../conferences/icml-2026/cards/4601-4700.md#wang26aa-representation-learning) · DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning
 - [复数相位跨模态对齐](../conferences/icml-2026/cards/4601-4700.md#wang26cn-representation-learning) · PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation
+- [类别特征梯度匹配的联邦多原型](../conferences/icml-2026/cards/4701-4800.md#wang26gp-representation-learning) · FedHPro: Federated Hyper-Prototype Learning via Gradient Matching
 
 <a id="by-nlp"></a>
 
@@ -294,6 +295,7 @@
 - [用少量重排分数编码候选](../conferences/icml-2026/cards/4001-4100.md#shevkunov26a-representation-learning) · Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls
 - [polarity-invariant-equivariant-decomposition](../conferences/icml-2026/cards/4301-4400.md#sun26ab-representation-learning) · Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs
 - [sample-local-node-identities](../conferences/icml-2026/cards/4401-4500.md#truong26a-representation-learning) · Plain Transformers are Surprisingly Powerful Link Predictors
+- [图特征结构与联合信号分离](../conferences/icml-2026/cards/4701-4800.md#wang26gl-representation-learning) · What Information Matters? Graph Out-of-Distribution Detection via Tri-Component Information Decomposition
 
 <a id="by-scientific-ml"></a>
 

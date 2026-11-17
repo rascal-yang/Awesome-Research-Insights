@@ -398,6 +398,7 @@
 - [在归因图层面做类别竞争](../conferences/icml-2026/cards/4501-4600.md#walter26a-evaluation) · Hidden in Plain Sight – Class Competition Focuses Attribution Maps
 - [扰动响应而非静态伪影](../conferences/icml-2026/cards/4601-4700.md#wang26ad-evaluation) · RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry
 - [属性梯度冲突与共同难例](../conferences/icml-2026/cards/4601-4700.md#wang26aj-evaluation) · When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment
+- [硬标签法向估计的坐标信噪比](../conferences/icml-2026/cards/4701-4800.md#wang26gh-evaluation) · Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks
 
 <a id="by-nlp"></a>
 

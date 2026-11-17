@@ -144,6 +144,7 @@
 - [gradient-component-regrouping](../conferences/icml-2026/cards/4701-4800.md#wang26ds-training-strategies) · Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning
 - [答案充分性指导推理压缩](../conferences/icml-2026/cards/4701-4800.md#wang26dz-training-strategies) · SuCo: Sufficiency-guided Continuous Adaptive Reasoning
 - [随机演员屏蔽促工作流探索](../conferences/icml-2026/cards/4701-4800.md#wang26eg-training-strategies) · Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL
+- [按序列拆分多token输出头以平衡流水](../conferences/icml-2026/cards/4701-4800.md#wang26gy-training-strategies) · AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism
 
 <a id="by-computer-vision"></a>
 
@@ -318,6 +319,7 @@
 - [无配对跨模态分阶段适配](../conferences/icml-2026/cards/4401-4500.md#tran26e-training-strategies) · Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm
 - [answer-coupled-video-localization](../conferences/icml-2026/cards/4501-4600.md#wang26e-training-strategies) · Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning
 - [Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../conferences/icml-2026/cards/4601-4700.md#wang26u-training-strategies) · Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding
+- [参考视觉视野对齐作为课程和奖励](../conferences/icml-2026/cards/4701-4800.md#wang26gt-training-strategies) · Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment
 
 <a id="by-ml-foundations"></a>
 

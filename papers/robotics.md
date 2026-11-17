@@ -38,6 +38,7 @@
 - <a id="song26q-architecture"></a>[TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction](../conferences/icml-2026/cards/4201-4300.md#paper-song26q)
 - <a id="thompson26a-architecture"></a>[Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations](../conferences/icml-2026/cards/4401-4500.md#paper-thompson26a)
 - <a id="wang26dc-architecture"></a>[WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dc)
+- <a id="wang26gs-architecture"></a>[Factored Latent Action World Models](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gs)
 
 <a id="by-modules"></a>
 

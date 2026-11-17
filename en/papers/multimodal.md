@@ -244,6 +244,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="tran26e-training-strategies"></a>[Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26e)
 - <a id="wang26e-training-strategies"></a>[Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26e)
 - <a id="wang26u-training-strategies"></a>[Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26u)
+- <a id="wang26gt-training-strategies"></a>[Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gt)
 
 <a id="by-data-strategies"></a>
 
@@ -368,6 +369,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26ac-inference"></a>[Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ac)
 - <a id="wang26df-inference"></a>[Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26df)
 - <a id="wang26ej-inference"></a>[Semantic Impact–Driven Visual Scheduling for Vision Language Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ej)
+- <a id="wang26gz-inference"></a>[Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gz)
 
 <a id="by-representation-learning"></a>
 

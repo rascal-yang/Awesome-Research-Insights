@@ -144,6 +144,7 @@ Training schedules, curricula, and task or stage composition.
 - [Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning](../../conferences/icml-2026/cards/4701-4800.md#wang26ds-training-strategies) · 中文
 - [SuCo: Sufficiency-guided Continuous Adaptive Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26dz-training-strategies) · 中文
 - [Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL](../../conferences/icml-2026/cards/4701-4800.md#wang26eg-training-strategies) · 中文
+- [AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism](../../conferences/icml-2026/cards/4701-4800.md#wang26gy-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -318,6 +319,7 @@ Training schedules, curricula, and task or stage composition.
 - [Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm](../../conferences/icml-2026/cards/4401-4500.md#tran26e-training-strategies) · 中文
 - [Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning](../../conferences/icml-2026/cards/4501-4600.md#wang26e-training-strategies) · 中文
 - [Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../../conferences/icml-2026/cards/4601-4700.md#wang26u-training-strategies) · 中文
+- [Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment](../../conferences/icml-2026/cards/4701-4800.md#wang26gt-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

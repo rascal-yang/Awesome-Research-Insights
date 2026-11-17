@@ -63,6 +63,7 @@ Model-wide design and information flow.
 - [MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models](../../conferences/icml-2026/cards/4401-4500.md#tastan26a-architecture) · 中文
 - [$L^3$: Large Lookup Layers](../../conferences/icml-2026/cards/4401-4500.md#tseng26a-architecture) · 中文
 - [Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences](../../conferences/icml-2026/cards/4501-4600.md#tumma26a-architecture) · 中文
+- [Dynamic Linear Attention](../../conferences/icml-2026/cards/4701-4800.md#wang26gr-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -181,6 +182,7 @@ Model-wide design and information flow.
 - [TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction](../../conferences/icml-2026/cards/4201-4300.md#song26q-architecture) · 中文
 - [Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations](../../conferences/icml-2026/cards/4401-4500.md#thompson26a-architecture) · 中文
 - [WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems](../../conferences/icml-2026/cards/4601-4700.md#wang26dc-architecture) · 中文
+- [Factored Latent Action World Models](../../conferences/icml-2026/cards/4701-4800.md#wang26gs-architecture) · 中文
 
 <a id="by-multimodal"></a>
 

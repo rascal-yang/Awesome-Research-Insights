@@ -420,6 +420,7 @@
 - [tensor-history-clipping](../conferences/icml-2026/cards/4601-4700.md#wang26dg-optimization) · AdaGC: Enhancing LLM Pretraining Stability via Adaptive Gradient Clipping
 - [损失预算确定SAM扰动半径](../conferences/icml-2026/cards/4701-4800.md#wang26ex-optimization) · Fix the Loss, Not the Radius: Rethinking the Adversarial Perturbation of Sharpness-Aware Minimization
 - [不确定精英权重的条件期望](../conferences/icml-2026/cards/4701-4800.md#wang26ff-optimization) · Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies
+- [正交化之后取符号的矩阵更新](../conferences/icml-2026/cards/4701-4800.md#wang26gq-optimization) · OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases
 
 <a id="by-graph-and-recommendation"></a>
 

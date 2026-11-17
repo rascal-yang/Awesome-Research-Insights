@@ -83,6 +83,7 @@
 - [DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning](../conferences/icml-2026/cards/4601-4700.md#wang26w-data-strategies) · DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning
 - [非均匀原子技能采样](../conferences/icml-2026/cards/4601-4700.md#wang26ak-data-strategies) · The Power of Power Law: Asymmetry Enables Compositional Reasoning
 - [输出梯度核选择辅助数据](../conferences/icml-2026/cards/4701-4800.md#wang26eq-data-strategies) · Mining Useful General Data for Low-Resource Domain Adaptation
+- [注意力片段引导生成回放](../conferences/icml-2026/cards/4701-4800.md#wang26go-data-strategies) · Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm
 
 <a id="by-computer-vision"></a>
 

@@ -420,6 +420,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [AdaGC: Enhancing LLM Pretraining Stability via Adaptive Gradient Clipping](../../conferences/icml-2026/cards/4601-4700.md#wang26dg-optimization) · 中文
 - [Fix the Loss, Not the Radius: Rethinking the Adversarial Perturbation of Sharpness-Aware Minimization](../../conferences/icml-2026/cards/4701-4800.md#wang26ex-optimization) · 中文
 - [Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies](../../conferences/icml-2026/cards/4701-4800.md#wang26ff-optimization) · 中文
+- [OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases](../../conferences/icml-2026/cards/4701-4800.md#wang26gq-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

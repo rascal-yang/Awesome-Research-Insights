@@ -435,6 +435,7 @@
 - [noise-window-activation-steering](../conferences/icml-2026/cards/4501-4600.md#wang26g-inference) · General and Efficient Steering of Unconditional Diffusion Models
 - [score-scaled-compression-decoder](../conferences/icml-2026/cards/4501-4600.md#wang26i-inference) · Training-Free Rate-Distortion-Perception Traversal With Diffusion
 - [路由边界触发的残差缓存](../conferences/icml-2026/cards/4601-4700.md#wang26dd-inference) · Elastic Diffusion Transformer
+- [熵与分布差共同控制投机接受](../conferences/icml-2026/cards/4701-4800.md#wang26gi-inference) · CSD: Content-aware Speculative Decoding for Efficient Image Generation
 
 <a id="by-nlp"></a>
 
@@ -613,6 +614,7 @@
 - [Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../conferences/icml-2026/cards/4601-4700.md#wang26ac-inference) · Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility
 - [structure-aware-retrieval](../conferences/icml-2026/cards/4601-4700.md#wang26df-inference) · Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA
 - [语义决策空间指导视觉KV调度](../conferences/icml-2026/cards/4701-4800.md#wang26ej-inference) · Semantic Impact–Driven Visual Scheduling for Vision Language Models
+- [最优传输虚拟原型引导真实视觉token选取](../conferences/icml-2026/cards/4701-4800.md#wang26gz-inference) · Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation
 
 <a id="by-ml-foundations"></a>
 

@@ -175,6 +175,8 @@
 - [澄清奖励的可回答性门控](../conferences/icml-2026/cards/4501-4600.md#vijayvargiya26a-reinforcement-learning) · Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks
 - [Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction](../conferences/icml-2026/cards/4601-4700.md#wang26x-reinforcement-learning) · Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction
 - [分层不确定性探索控制](../conferences/icml-2026/cards/4601-4700.md#wang26ah-reinforcement-learning) · T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning
+- [执行锚对齐的两粒度信用](../conferences/icml-2026/cards/4701-4800.md#wang26gn-reinforcement-learning) · StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning
+- [动态程序库作为测试时RL课程](../conferences/icml-2026/cards/4701-4800.md#wang26ha-reinforcement-learning) · ThetaEvolve: Test-time Learning on Open Problems
 
 <a id="by-computer-vision"></a>
 
@@ -344,6 +346,7 @@
 - [转折点去噪信用代理](../conferences/icml-2026/cards/4401-4500.md#tong26h-reinforcement-learning) · Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO
 - [negative-only-anchor-ratio](../conferences/icml-2026/cards/4601-4700.md#wang26dj-reinforcement-learning) · Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification
 - [步熵重加权与未来清晰度](../conferences/icml-2026/cards/4701-4800.md#wang26ek-reinforcement-learning) · Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents
+- [同根想象轨迹的偏序评分](../conferences/icml-2026/cards/4701-4800.md#wang26gv-reinforcement-learning) · Learning Reward–Cost Balance in Safe RL via Score-Based World Models
 
 <a id="by-robotics"></a>
 

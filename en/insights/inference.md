@@ -435,6 +435,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [General and Efficient Steering of Unconditional Diffusion Models](../../conferences/icml-2026/cards/4501-4600.md#wang26g-inference) · 中文
 - [Training-Free Rate-Distortion-Perception Traversal With Diffusion](../../conferences/icml-2026/cards/4501-4600.md#wang26i-inference) · 中文
 - [Elastic Diffusion Transformer](../../conferences/icml-2026/cards/4601-4700.md#wang26dd-inference) · 中文
+- [CSD: Content-aware Speculative Decoding for Efficient Image Generation](../../conferences/icml-2026/cards/4701-4800.md#wang26gi-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -613,6 +614,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../../conferences/icml-2026/cards/4601-4700.md#wang26ac-inference) · 中文
 - [Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA](../../conferences/icml-2026/cards/4601-4700.md#wang26df-inference) · 中文
 - [Semantic Impact–Driven Visual Scheduling for Vision Language Models](../../conferences/icml-2026/cards/4701-4800.md#wang26ej-inference) · 中文
+- [Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation](../../conferences/icml-2026/cards/4701-4800.md#wang26gz-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

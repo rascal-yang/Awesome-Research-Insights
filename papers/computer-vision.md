@@ -433,6 +433,7 @@
 - <a id="wang26g-inference"></a>[General and Efficient Steering of Unconditional Diffusion Models](../conferences/icml-2026/cards/4501-4600.md#paper-wang26g)
 - <a id="wang26i-inference"></a>[Training-Free Rate-Distortion-Perception Traversal With Diffusion](../conferences/icml-2026/cards/4501-4600.md#paper-wang26i)
 - <a id="wang26dd-inference"></a>[Elastic Diffusion Transformer](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dd)
+- <a id="wang26gi-inference"></a>[CSD: Content-aware Speculative Decoding for Efficient Image Generation](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gi)
 
 <a id="by-representation-learning"></a>
 
@@ -494,6 +495,7 @@
 - <a id="wang26l-representation-learning"></a>[DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../conferences/icml-2026/cards/4501-4600.md#paper-wang26l)
 - <a id="wang26aa-representation-learning"></a>[DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26aa)
 - <a id="wang26cn-representation-learning"></a>[PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cn)
+- <a id="wang26gp-representation-learning"></a>[FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gp)
 
 <a id="by-evaluation"></a>
 
@@ -558,6 +560,7 @@
 - <a id="walter26a-evaluation"></a>[Hidden in Plain Sight – Class Competition Focuses Attribution Maps](../conferences/icml-2026/cards/4501-4600.md#paper-walter26a)
 - <a id="wang26ad-evaluation"></a>[RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ad)
 - <a id="wang26aj-evaluation"></a>[When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment](../conferences/icml-2026/cards/4601-4700.md#paper-wang26aj)
+- <a id="wang26gh-evaluation"></a>[Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gh)
 
 <a id="by-theory-statistics"></a>
 

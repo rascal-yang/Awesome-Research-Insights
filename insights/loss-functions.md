@@ -55,6 +55,7 @@
 - [带截断的f散度自博弈](../conferences/icml-2026/cards/4501-4600.md#vuong26b-loss-functions) · $f$-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models
 - [含噪偏好的有界梯度目标](../conferences/icml-2026/cards/4701-4800.md#wang26fa-loss-functions) · Unbiased Alignment for Large Language Models with Noisy Preferences
 - [根锚定前缀信用分配](../conferences/icml-2026/cards/4701-4800.md#wang26fi-loss-functions) · Rooted Absorbed Prefix Trajectory Balance with Submodular Replay for GFlowNet Training
+- [蒸馏的高阶交互稀疏惩罚](../conferences/icml-2026/cards/4701-4800.md#wang26gj-loss-functions) · A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions
 
 <a id="by-computer-vision"></a>
 
@@ -225,6 +226,7 @@
 - [amortized-attribution](../conferences/icml-2026/cards/4401-4500.md#tran26h-loss-functions) · Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation
 - [solver-free-decision-loss](../conferences/icml-2026/cards/4501-4600.md#wan26i-loss-functions) · A Solver-Free Training Method for Predict-then-Optimize
 - [数据分布距离与约束可信度](../conferences/icml-2026/cards/4701-4800.md#wang26gd-loss-functions) · BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting
+- [频率组稀疏与组内谱稀疏](../conferences/icml-2026/cards/4701-4800.md#wang26gk-loss-functions) · Refining Dual Spectral Sparsity in Transformed Tensor Singular Values
 
 <a id="by-graph-and-recommendation"></a>
 
