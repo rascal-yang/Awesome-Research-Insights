@@ -72,6 +72,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](../../conferences/icml-2026/cards/3601-3700.md#pinto26a-data-strategies) · 中文
 - [The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qian26l-data-strategies) · 中文
 - [Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models](../../conferences/icml-2026/cards/3701-3800.md#qu26f-data-strategies) · 中文
+- [Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data](../../conferences/icml-2026/cards/3801-3900.md#rosenblatt26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -160,6 +161,7 @@ Data selection, annotation, augmentation, and sampling.
 - [TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../../conferences/icml-2026/cards/2801-2900.md#liu26ag-data-strategies) · 中文
 - [TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](../../conferences/icml-2026/cards/3201-3300.md#mao26f-data-strategies) · 中文
 - [Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../../conferences/icml-2026/cards/3401-3500.md#naharas26a-data-strategies) · 中文
+- [Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#ryan26a-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -188,6 +190,7 @@ Data selection, annotation, augmentation, and sampling.
 - [CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification](../../conferences/icml-2026/cards/3601-3700.md#pei26c-data-strategies) · 中文
 - [Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning](../../conferences/icml-2026/cards/3701-3800.md#qi26n-data-strategies) · 中文
 - [When Sample Selection Bias Precipitates Model Collapse](../../conferences/icml-2026/cards/3701-3800.md#qiao26c-data-strategies) · 中文
+- [Ambient Dataloops: Generative Models for Dataset Refinement](../../conferences/icml-2026/cards/3801-3900.md#rodriguez-munoz26a-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -214,4 +217,5 @@ Data selection, annotation, augmentation, and sampling.
 - [Active Timepoint Selection for Learning Measure-Valued Trajectories](../../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · 中文
 - [Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../../conferences/icml-2026/cards/2601-2700.md#li26jn-data-strategies) · 中文
 - [TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins](../../conferences/icml-2026/cards/3101-3200.md#makarov26a-data-strategies) · 中文
+- [Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression](../../conferences/icml-2026/cards/3901-4000.md#saegert26a-data-strategies) · 中文
 <!-- classification:end -->

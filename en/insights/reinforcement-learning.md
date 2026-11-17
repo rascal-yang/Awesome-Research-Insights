@@ -153,6 +153,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [G$^2$RPO: Geometric GRPO Escaping LLMs’ Reasoning Ruts to Break the Accuracy–Entropy Trade-off](../../conferences/icml-2026/cards/3701-3800.md#rad26a-reinforcement-learning) · 中文
 - [Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](../../conferences/icml-2026/cards/3801-3900.md#ramesh26b-reinforcement-learning) · 中文
 - [Unbiased Principles, Robust Rewards](../../conferences/icml-2026/cards/3801-3900.md#ren26c-reinforcement-learning) · 中文
+- [More Sail than Ballast: Addressing Harmful Knowledge Leakage in the Expansive Reasoning Space of LRMs](../../conferences/icml-2026/cards/3801-3900.md#ren26o-reinforcement-learning) · 中文
+- [Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO](../../conferences/icml-2026/cards/3801-3900.md#ren26s-reinforcement-learning) · 中文
+- [When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM’s Adaptive Reasoning](../../conferences/icml-2026/cards/3801-3900.md#ren26u-reinforcement-learning) · 中文
+- [Online Rubrics Elicitation from Pairwise Comparisons](../../conferences/icml-2026/cards/3801-3900.md#rezaei26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -306,6 +310,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition](../../conferences/icml-2026/cards/3701-3800.md#qiao26d-reinforcement-learning) · 中文
 - [HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation](../../conferences/icml-2026/cards/3701-3800.md#rafieioskouei26a-reinforcement-learning) · 中文
 - [Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#rashwan26a-reinforcement-learning) · 中文
+- [Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](../../conferences/icml-2026/cards/3901-4000.md#ruhdorfer26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -331,6 +336,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](../../conferences/icml-2026/cards/3601-3700.md#patil26a-reinforcement-learning) · 中文
 - [Efficient and Safe Molecular Assembly via Reinforcement Learning and Constraint Solving](../../conferences/icml-2026/cards/3601-3700.md#pranger26a-reinforcement-learning) · 中文
 - [Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qiao26f-reinforcement-learning) · 中文
+- [ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving](../../conferences/icml-2026/cards/3801-3900.md#ruan26c-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -386,6 +392,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#pan26b-reinforcement-learning) · 中文
 - [CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning](../../conferences/icml-2026/cards/3701-3800.md#qi26g-reinforcement-learning) · 中文
 - [iGRPO: Fast Online RL for Flow Matching Model with Instant Reward](../../conferences/icml-2026/cards/3801-3900.md#ren26b-reinforcement-learning) · 中文
+- [Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](../../conferences/icml-2026/cards/3801-3900.md#ren26f-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -427,4 +434,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ch-reinforcement-learning) · 中文
 - [Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis](../../conferences/icml-2026/cards/2501-2600.md#li26gs-reinforcement-learning) · 中文
 - [Med-Scout: Curing MLLMs’ Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](../../conferences/icml-2026/cards/2701-2800.md#liu26q-reinforcement-learning) · 中文
+- [Optimizing Inference-Time Compute for Medical Reasoning via Uncertainty Quantification](../../conferences/icml-2026/cards/3901-4000.md#rui26a-reinforcement-learning) · 中文
 <!-- classification:end -->

@@ -115,6 +115,11 @@
 - [工具轨迹特权蒸馏](../conferences/icml-2026/cards/3601-3700.md#penaloza26a-training-strategies) · Privileged Information Distillation for Language Models
 - [由教师激活初始化稀疏专家路由](../conferences/icml-2026/cards/3601-3700.md#peng26l-training-strategies) · PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning
 - [按 Fisher 冲突筛选联邦 LoRA 上行层](../conferences/icml-2026/cards/3701-3800.md#qiu26w-training-strategies) · Less Is More in Federated Continual Learning: RieSelect for Conflict-Aware Layer Selection in LLMs
+- [本地蒸馏平滑数据差异，全局原始数据校正事实](../conferences/icml-2026/cards/3801-3900.md#ren26n-training-strategies) · FedSDR: Federated Self-Distillation with Rectification
+- [在并行扩散初稿后做最小编辑修复一致性](../conferences/icml-2026/cards/3801-3900.md#ren26t-training-strategies) · Edit-Based Refinement for Parallel Masked Diffusion Language Models
+- [在预训练梯度路由中建立可组合权限](../conferences/icml-2026/cards/3801-3900.md#roland26a-training-strategies) · Modular Pretraining Enables Access Control
+- [兼顾通用和长上下文的中期训练](../conferences/icml-2026/cards/3901-4000.md#runwal26a-training-strategies) · PRISM: Demystifying Retention and Interaction in Mid-Training
+- [弱奖励训练前先恢复正确探索](../conferences/icml-2026/cards/3901-4000.md#ryd26a-training-strategies) · Removing Sandbagging in LLMs by Training with Weak Supervision
 
 <a id="by-computer-vision"></a>
 
@@ -175,6 +180,9 @@
 - [低比特校准随模型刷新注意力样本](../conferences/icml-2026/cards/3701-3800.md#qian26j-training-strategies) · Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers
 - [把扩散授权与具体样本绑定](../conferences/icml-2026/cards/3701-3800.md#qin26k-training-strategies) · GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures
 - [将潜空间水印教师蒸馏进解码器](../conferences/icml-2026/cards/3801-3900.md#rebuffi26a-training-strategies) · Learning to Watermark in the Latent Space of Generative Models
+- [按潜在结构簇拆分教师诱发的标签噪声](../conferences/icml-2026/cards/3801-3900.md#ren26i-training-strategies) · MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement
+- [按激活几何跨宽度迁移任务向量](../conferences/icml-2026/cards/3801-3900.md#rinaldi26a-training-strategies) · Transporting Task Vectors across Different Architectures without Training
+- [用稀疏记忆打分再渐进筛污染](../conferences/icml-2026/cards/3901-4000.md#safarov26a-training-strategies) · Memory-Distilled Selection for Noise-Robust Anomaly Detection
 
 <a id="by-nlp"></a>
 
@@ -265,6 +273,8 @@
 - [对齐冻结视频模型的 token 接口接入新模态](../conferences/icml-2026/cards/3501-3600.md#park26m-training-strategies) · V-LynX: Token Interface Alignment for Video+X LLMs
 - [质量指称转成分割点提示](../conferences/icml-2026/cards/3601-3700.md#peng26j-training-strategies) · IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring
 - [持续个性化的参数覆盖选址](../conferences/icml-2026/cards/3601-3700.md#peng26n-training-strategies) · SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection
+- [预测客户端选择的反事实效果再调联邦参与预算](../conferences/icml-2026/cards/3801-3900.md#ren26r-training-strategies) · FedSSM: State Space Model-based Proactive Inference for Heterogeneous Multimodal Federated Learning
+- [重写语义不相容的指令响应](../conferences/icml-2026/cards/3901-4000.md#sabolic26a-training-strategies) · BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks
 
 <a id="by-ml-foundations"></a>
 
@@ -346,6 +356,7 @@
 - [图节点特征置换剪枝](../conferences/icml-2026/cards/3401-3500.md#navarro26a-training-strategies) · Adaptive Node Feature Selection for Graph Neural Networks
 - [组合问题分布元学习](../conferences/icml-2026/cards/3501-3600.md#pan26h-training-strategies) · Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation
 - [用低秩局部遗忘和排序校准删除推荐交互](../conferences/icml-2026/cards/3601-3700.md#prakash26c-training-strategies) · Obliviate: Efficient Unlearning in Recommender Systems
+- [随机增删边后对齐推理消息期望](../conferences/icml-2026/cards/3901-4000.md#saber26a-training-strategies) · RADE: Random Add-Drop Edge as a Regularizer
 
 <a id="by-scientific-ml"></a>
 
@@ -379,4 +390,6 @@
 - [在晶体潜空间上预训练扩散性质编码器](../conferences/icml-2026/cards/3301-3400.md#mukherjee26b-training-strategies) · Latent Diffusion Pretraining for Crystal Property Prediction
 - [按通道构建时序后门防御的可信池](../conferences/icml-2026/cards/3401-3500.md#nguyen26g-training-strategies) · TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting
 - [让分子结构与序列的生成时钟学习最优耦合](../conferences/icml-2026/cards/3701-3800.md#qiu26r-training-strategies) · Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling
+- [只用瞬时力学习大步长动力学](../conferences/icml-2026/cards/3801-3900.md#ripken26a-training-strategies) · Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics
+- [两阶段训练的概率天气预报](../conferences/icml-2026/cards/3901-4000.md#ruhling-cachay26a-training-strategies) · U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster
 <!-- classification:end -->

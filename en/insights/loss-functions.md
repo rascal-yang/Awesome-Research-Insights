@@ -167,6 +167,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Likelihood Matching for Diffusion Models](../../conferences/icml-2026/cards/3701-3800.md#qian26h-loss-functions) · 中文
 - [Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning](../../conferences/icml-2026/cards/3701-3800.md#qiao26b-loss-functions) · 中文
 - [Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization](../../conferences/icml-2026/cards/3801-3900.md#reichart26a-loss-functions) · 中文
+- [Anti-causal domain generalization: Leveraging unlabeled data](../../conferences/icml-2026/cards/3901-4000.md#saengkyongam26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

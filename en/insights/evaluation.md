@@ -301,6 +301,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [PostTrainBench: Can LLM Agents Automate LLM Post-Training?](../../conferences/icml-2026/cards/3801-3900.md#rank26a-evaluation) · 中文
 - [Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding](../../conferences/icml-2026/cards/3801-3900.md#reisizadeh26a-evaluation) · 中文
 - [Correct Looks Better: Pairwise Comparisons Reveal Accuracy Rankings](../../conferences/icml-2026/cards/3801-3900.md#remeli26a-evaluation) · 中文
+- [Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence](../../conferences/icml-2026/cards/3801-3900.md#ren26p-evaluation) · 中文
+- [A Geometric Analysis of Small-sized Language Model Hallucinations](../../conferences/icml-2026/cards/3801-3900.md#ricco26a-evaluation) · 中文
+- [FloorplanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations](../../conferences/icml-2026/cards/3801-3900.md#rodionov26a-evaluation) · 中文
+- [Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations](../../conferences/icml-2026/cards/3801-3900.md#roytburg26a-evaluation) · 中文
+- [Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment](../../conferences/icml-2026/cards/3901-4000.md#saakyan26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -379,6 +384,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection](../../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · 中文
 - [MGAL: A Multilingual Granularity-Aware Long-Context Benchmark](../../conferences/icml-2026/cards/2601-2700.md#li26ib-evaluation) · 中文
 - [Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text](../../conferences/icml-2026/cards/3201-3300.md#mansouri26b-evaluation) · 中文
+- [Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors](../../conferences/icml-2026/cards/3801-3900.md#ren26q-evaluation) · 中文
+- [Attacks on Machine-Text Detectors Retain Stylistic Fingerprints](../../conferences/icml-2026/cards/3801-3900.md#rivera-soto26a-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -500,6 +507,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](../../conferences/icml-2026/cards/3701-3800.md#qu26h-evaluation) · 中文
 - [MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio](../../conferences/icml-2026/cards/3801-3900.md#rajgarhia26a-evaluation) · 中文
 - [$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](../../conferences/icml-2026/cards/3801-3900.md#ray26a-evaluation) · 中文
+- [ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models](../../conferences/icml-2026/cards/3801-3900.md#roberts26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -554,6 +562,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · 中文
 - [CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning](../../conferences/icml-2026/cards/3501-3600.md#panayiotou26a-evaluation) · 中文
 - [It’s TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](../../conferences/icml-2026/cards/3701-3800.md#qiao26g-evaluation) · 中文
+- [Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](../../conferences/icml-2026/cards/3801-3900.md#reuel26a-evaluation) · 中文
+- [Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

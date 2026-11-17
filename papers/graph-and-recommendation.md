@@ -113,6 +113,7 @@
 - <a id="navarro26a-training-strategies"></a>[Adaptive Node Feature Selection for Graph Neural Networks](../conferences/icml-2026/cards/3401-3500.md#paper-navarro26a)
 - <a id="pan26h-training-strategies"></a>[Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation](../conferences/icml-2026/cards/3501-3600.md#paper-pan26h)
 - <a id="prakash26c-training-strategies"></a>[Obliviate: Efficient Unlearning in Recommender Systems](../conferences/icml-2026/cards/3601-3700.md#paper-prakash26c)
+- <a id="saber26a-training-strategies"></a>[RADE: Random Add-Drop Edge as a Regularizer](../conferences/icml-2026/cards/3901-4000.md#paper-saber26a)
 
 <a id="by-data-strategies"></a>
 
@@ -175,6 +176,7 @@
 - <a id="manenti26b-representation-learning"></a>[SWING: Unlocking Implicit Graph Representations for Graph Random Features](../conferences/icml-2026/cards/3201-3300.md#paper-manenti26b)
 - <a id="mishra26c-representation-learning"></a>[Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning](../conferences/icml-2026/cards/3301-3400.md#paper-mishra26c)
 - <a id="nakis26a-representation-learning"></a>[Aitchison Embeddings for Learning Compositional Graph Representations](../conferences/icml-2026/cards/3401-3500.md#paper-nakis26a)
+- <a id="rubio-madrigal26a-representation-learning"></a>[Fixed Aggregation Features Can Rival GNNs](../conferences/icml-2026/cards/3901-4000.md#paper-rubio-madrigal26a)
 
 <a id="by-evaluation"></a>
 

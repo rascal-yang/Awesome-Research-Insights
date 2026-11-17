@@ -117,6 +117,7 @@
 - [证据混合校准](../conferences/icml-2026/cards/3301-3400.md#mohammed26a-architecture) · GEM-FI: Gated Evidential Mixtures with Fisher Modulation
 - [从地图查询中抽取全局表示再指导各实例](../conferences/icml-2026/cards/3701-3800.md#qiu26m-architecture) · Learning Global Representation from Queries for Vectorized HD Map Construction
 - [局部支撑与功能关系合成室内场景](../conferences/icml-2026/cards/3801-3900.md#ran26d-architecture) · Pair2Scene: Learning Local Object Relations for Procedural Scene Generation
+- [在极性感知事件点云上用傅里叶层缩减时空特征开销](../conferences/icml-2026/cards/3801-3900.md#ren26j-architecture) · Scalable Event Cloud Network for Event-based Classification
 
 <a id="by-nlp"></a>
 
@@ -394,4 +395,5 @@
 - [蛋白质骨架的多尺度自回归](../conferences/icml-2026/cards/3701-3800.md#qu26b-architecture) · Protein Autoregressive Modeling via Multiscale Structure Generation
 - [全原子全局注意力学习长程势能](../conferences/icml-2026/cards/3701-3800.md#qu26g-architecture) · A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention
 - [保留热力学约束的分子溶解度预测](../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction
+- [用口袋距离分布直接预测结合亲和力](../conferences/icml-2026/cards/3801-3900.md#rossi26a-architecture) · TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations
 <!-- classification:end -->

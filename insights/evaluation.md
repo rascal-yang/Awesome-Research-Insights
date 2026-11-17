@@ -301,6 +301,11 @@
 - [面向自动后训练的智能体基准](../conferences/icml-2026/cards/3801-3900.md#rank26a-evaluation) · PostTrainBench: Can LLM Agents Automate LLM Post-Training?
 - [按多次采样的最高泄漏评估遗忘](../conferences/icml-2026/cards/3801-3900.md#reisizadeh26a-evaluation) · Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding
 - [用同题偏好校验弱裁判的排名](../conferences/icml-2026/cards/3801-3900.md#remeli26a-evaluation) · Correct Looks Better: Pairwise Comparisons Reveal Accuracy Rankings
+- [按连续编辑负载测权重编辑的推理退化](../conferences/icml-2026/cards/3801-3900.md#ren26p-evaluation) · Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence
+- [用同题重复采样的嵌入结构检测事实性幻觉](../conferences/icml-2026/cards/3801-3900.md#ricco26a-evaluation) · A Geometric Analysis of Small-sized Language Model Hallucinations
+- [符号平面图的可验证空间推理](../conferences/icml-2026/cards/3801-3900.md#rodionov26a-evaluation) · FloorplanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations
+- [用逐题同结果代理校准自偏好](../conferences/icml-2026/cards/3801-3900.md#roytburg26a-evaluation) · Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations
+- [按文化群组估计被多数票掩盖的安全分歧](../conferences/icml-2026/cards/3901-4000.md#saakyan26a-evaluation) · Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment
 
 <a id="by-computer-vision"></a>
 
@@ -379,6 +384,8 @@
 - [给音频伪造检测的不同分布单独画规模曲线](../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection
 - [拆分多语长文的粒度与证据位置](../conferences/icml-2026/cards/2601-2700.md#li26ib-evaluation) · MGAL: A Multilingual Granularity-Aware Long-Context Benchmark
 - [用局部游程与多轮改写稳定性识别文字水印](../conferences/icml-2026/cards/3201-3300.md#mansouri26b-evaluation) · Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text
+- [按触发词语义审计蒸馏注意力标签的后门风险](../conferences/icml-2026/cards/3801-3900.md#ren26q-evaluation) · Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors
+- [规避检测后的机器文本风格指纹](../conferences/icml-2026/cards/3801-3900.md#rivera-soto26a-evaluation) · Attacks on Machine-Text Detectors Retain Stylistic Fingerprints
 
 <a id="by-reinforcement-learning"></a>
 
@@ -500,6 +507,7 @@
 - [移动 GUI 智能体的半在线评估](../conferences/icml-2026/cards/3701-3800.md#qu26h-evaluation) · Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation
 - [分开评估听音和读问的医疗线索](../conferences/icml-2026/cards/3801-3900.md#rajgarhia26a-evaluation) · MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio
 - [以音频时钟复现全双工工具任务](../conferences/icml-2026/cards/3801-3900.md#ray26a-evaluation) · $τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains
+- [通过对抗筛题延长视觉推理评测寿命](../conferences/icml-2026/cards/3801-3900.md#roberts26a-evaluation) · ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models
 
 <a id="by-ml-foundations"></a>
 
@@ -554,6 +562,8 @@
 - [用态密度测随机插值与梯度泛化](../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · Revisiting the Volume Hypothesis
 - [结构因果基准取样](../conferences/icml-2026/cards/3501-3600.md#panayiotou26a-evaluation) · CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning
 - [面向真实情境的零样本时序预测评测](../conferences/icml-2026/cards/3701-3800.md#qiao26g-evaluation) · It’s TIME: Towards the Next Generation of Time Series Forecasting Benchmarks
+- [按发布主体和影响类别审计基础模型评测披露](../conferences/icml-2026/cards/3801-3900.md#reuel26a-evaluation) · Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations
+- [扩散模型优先复现常见局部特征](../conferences/icml-2026/cards/3801-3900.md#rodriguez26a-evaluation) · Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?
 
 <a id="by-graph-and-recommendation"></a>
 

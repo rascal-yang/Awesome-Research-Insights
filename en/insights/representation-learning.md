@@ -106,6 +106,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Debiased Model-based Representations for Sample-efficient Continuous Control](../../conferences/icml-2026/cards/3101-3200.md#lyu26f-representation-learning) · 中文
 - [Stable Deep Reinforcement Learning via Isotropic Gaussian Representations](../../conferences/icml-2026/cards/3601-3700.md#pasand26a-representation-learning) · 中文
 - [Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qian26o-representation-learning) · 中文
+- [PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#roh26a-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -167,6 +168,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech](../../conferences/icml-2026/cards/3601-3700.md#popov26a-representation-learning) · 中文
 - [FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification](../../conferences/icml-2026/cards/3701-3800.md#qi26l-representation-learning) · 中文
 - [BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps](../../conferences/icml-2026/cards/3701-3800.md#qian26a-representation-learning) · 中文
+- [SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](../../conferences/icml-2026/cards/3801-3900.md#roschmann26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -254,6 +256,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SWING: Unlocking Implicit Graph Representations for Graph Random Features](../../conferences/icml-2026/cards/3201-3300.md#manenti26b-representation-learning) · 中文
 - [Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning](../../conferences/icml-2026/cards/3301-3400.md#mishra26c-representation-learning) · 中文
 - [Aitchison Embeddings for Learning Compositional Graph Representations](../../conferences/icml-2026/cards/3401-3500.md#nakis26a-representation-learning) · 中文
+- [Fixed Aggregation Features Can Rival GNNs](../../conferences/icml-2026/cards/3901-4000.md#rubio-madrigal26a-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -319,4 +322,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [TriForces: Augmenting Atomistic GNNs for Transferable Representations](../../conferences/icml-2026/cards/3801-3900.md#ramlaoui26a-representation-learning) · 中文
 - [Localized, High-resolution Geographic Representations with Slepian Functions](../../conferences/icml-2026/cards/3801-3900.md#rao26a-representation-learning) · 中文
 - [A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models](../../conferences/icml-2026/cards/3801-3900.md#rao26b-representation-learning) · 中文
+- [Beyond Independent Genes: Learning Module-Inductive Representations for Single-Cell Gene Perturbation Prediction](../../conferences/icml-2026/cards/3801-3900.md#ruan26b-representation-learning) · 中文
 <!-- classification:end -->

@@ -72,6 +72,7 @@
 - [用验证器筛选有效又加速的循环不变量](../conferences/icml-2026/cards/3601-3700.md#pinto26a-data-strategies) · Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs
 - [小模型蒸馏保留本机推理表达](../conferences/icml-2026/cards/3701-3800.md#qian26l-data-strategies) · The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning
 - [基于共享历史的推理提示选样](../conferences/icml-2026/cards/3701-3800.md#qu26f-data-strategies) · Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models
+- [按用户保护完整纵向序列](../conferences/icml-2026/cards/3801-3900.md#rosenblatt26a-data-strategies) · Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data
 
 <a id="by-computer-vision"></a>
 
@@ -160,6 +161,7 @@
 - [按系统、图像与用户输入分解注意力识别投毒](../conferences/icml-2026/cards/2801-2900.md#liu26ag-data-strategies) · TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning
 - [用长文本布局训练和严格检测重叠评估文字图像](../conferences/icml-2026/cards/3201-3300.md#mao26f-data-strategies) · TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation
 - [用跨模态对齐轨迹选择指令样本](../conferences/icml-2026/cards/3401-3500.md#naharas26a-data-strategies) · Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
+- [用自生成图注增加可利用的跨模态冗余](../conferences/icml-2026/cards/3901-4000.md#ryan26a-data-strategies) · Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -188,6 +190,7 @@
 - [解耦类别与域上下文来合成时间序列](../conferences/icml-2026/cards/3601-3700.md#pei26c-data-strategies) · CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification
 - [在多种表征上挑回放样本](../conferences/icml-2026/cards/3701-3800.md#qi26n-data-strategies) · Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning
 - [递归生成中的局部筛选偏差](../conferences/icml-2026/cards/3701-3800.md#qiao26c-data-strategies) · When Sample Selection Bias Precipitates Model Collapse
+- [保留残余噪声标签的训练数据迭代](../conferences/icml-2026/cards/3801-3900.md#rodriguez-munoz26a-data-strategies) · Ambient Dataloops: Generative Models for Dataset Refinement
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -214,4 +217,5 @@
 - [在分布变化更快的内在时间上选择采样点](../conferences/icml-2026/cards/1701-1800.md#huynh26a-data-strategies) · Active Timepoint Selection for Learning Measure-Valued Trajectories
 - [用几何投影约束血管造影的狭窄编辑](../conferences/icml-2026/cards/2601-2700.md#li26jn-data-strategies) · Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport
 - [纵向病史的多任务时间切分](../conferences/icml-2026/cards/3101-3200.md#makarov26a-data-strategies) · TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins
+- [离线预计算短式改写以去重训练](../conferences/icml-2026/cards/3901-4000.md#saegert26a-data-strategies) · Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression
 <!-- classification:end -->

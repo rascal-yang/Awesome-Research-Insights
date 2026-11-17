@@ -115,6 +115,11 @@ Training schedules, curricula, and task or stage composition.
 - [Privileged Information Distillation for Language Models](../../conferences/icml-2026/cards/3601-3700.md#penaloza26a-training-strategies) · 中文
 - [PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning](../../conferences/icml-2026/cards/3601-3700.md#peng26l-training-strategies) · 中文
 - [Less Is More in Federated Continual Learning: RieSelect for Conflict-Aware Layer Selection in LLMs](../../conferences/icml-2026/cards/3701-3800.md#qiu26w-training-strategies) · 中文
+- [FedSDR: Federated Self-Distillation with Rectification](../../conferences/icml-2026/cards/3801-3900.md#ren26n-training-strategies) · 中文
+- [Edit-Based Refinement for Parallel Masked Diffusion Language Models](../../conferences/icml-2026/cards/3801-3900.md#ren26t-training-strategies) · 中文
+- [Modular Pretraining Enables Access Control](../../conferences/icml-2026/cards/3801-3900.md#roland26a-training-strategies) · 中文
+- [PRISM: Demystifying Retention and Interaction in Mid-Training](../../conferences/icml-2026/cards/3901-4000.md#runwal26a-training-strategies) · 中文
+- [Removing Sandbagging in LLMs by Training with Weak Supervision](../../conferences/icml-2026/cards/3901-4000.md#ryd26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -175,6 +180,9 @@ Training schedules, curricula, and task or stage composition.
 - [Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers](../../conferences/icml-2026/cards/3701-3800.md#qian26j-training-strategies) · 中文
 - [GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](../../conferences/icml-2026/cards/3701-3800.md#qin26k-training-strategies) · 中文
 - [Learning to Watermark in the Latent Space of Generative Models](../../conferences/icml-2026/cards/3801-3900.md#rebuffi26a-training-strategies) · 中文
+- [MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement](../../conferences/icml-2026/cards/3801-3900.md#ren26i-training-strategies) · 中文
+- [Transporting Task Vectors across Different Architectures without Training](../../conferences/icml-2026/cards/3801-3900.md#rinaldi26a-training-strategies) · 中文
+- [Memory-Distilled Selection for Noise-Robust Anomaly Detection](../../conferences/icml-2026/cards/3901-4000.md#safarov26a-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -265,6 +273,8 @@ Training schedules, curricula, and task or stage composition.
 - [V-LynX: Token Interface Alignment for Video+X LLMs](../../conferences/icml-2026/cards/3501-3600.md#park26m-training-strategies) · 中文
 - [IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring](../../conferences/icml-2026/cards/3601-3700.md#peng26j-training-strategies) · 中文
 - [SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](../../conferences/icml-2026/cards/3601-3700.md#peng26n-training-strategies) · 中文
+- [FedSSM: State Space Model-based Proactive Inference for Heterogeneous Multimodal Federated Learning](../../conferences/icml-2026/cards/3801-3900.md#ren26r-training-strategies) · 中文
+- [BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks](../../conferences/icml-2026/cards/3901-4000.md#sabolic26a-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -346,6 +356,7 @@ Training schedules, curricula, and task or stage composition.
 - [Adaptive Node Feature Selection for Graph Neural Networks](../../conferences/icml-2026/cards/3401-3500.md#navarro26a-training-strategies) · 中文
 - [Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation](../../conferences/icml-2026/cards/3501-3600.md#pan26h-training-strategies) · 中文
 - [Obliviate: Efficient Unlearning in Recommender Systems](../../conferences/icml-2026/cards/3601-3700.md#prakash26c-training-strategies) · 中文
+- [RADE: Random Add-Drop Edge as a Regularizer](../../conferences/icml-2026/cards/3901-4000.md#saber26a-training-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -379,4 +390,6 @@ Training schedules, curricula, and task or stage composition.
 - [Latent Diffusion Pretraining for Crystal Property Prediction](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26b-training-strategies) · 中文
 - [TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](../../conferences/icml-2026/cards/3401-3500.md#nguyen26g-training-strategies) · 中文
 - [Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling](../../conferences/icml-2026/cards/3701-3800.md#qiu26r-training-strategies) · 中文
+- [Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](../../conferences/icml-2026/cards/3801-3900.md#ripken26a-training-strategies) · 中文
+- [U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster](../../conferences/icml-2026/cards/3901-4000.md#ruhling-cachay26a-training-strategies) · 中文
 <!-- classification:end -->

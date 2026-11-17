@@ -113,6 +113,7 @@
 - <a id="qu26b-architecture"></a>[Protein Autoregressive Modeling via Multiscale Structure Generation](../conferences/icml-2026/cards/3701-3800.md#paper-qu26b)
 - <a id="qu26g-architecture"></a>[A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention](../conferences/icml-2026/cards/3701-3800.md#paper-qu26g)
 - <a id="ramani26a-architecture"></a>[DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../conferences/icml-2026/cards/3801-3900.md#paper-ramani26a)
+- <a id="rossi26a-architecture"></a>[TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations](../conferences/icml-2026/cards/3801-3900.md#paper-rossi26a)
 
 <a id="by-modules"></a>
 
@@ -199,6 +200,7 @@
 - <a id="rashed26a-optimization"></a>[On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching](../conferences/icml-2026/cards/3801-3900.md#paper-rashed26a)
 - <a id="raviola26a-optimization"></a>[A Dirac-Frenkel-Onsager Principle: Instantaneous Residual Minimization with Gauge Momentum for Nonlinear Parametrizations of PDE Solutions](../conferences/icml-2026/cards/3801-3900.md#paper-raviola26a)
 - <a id="real26a-optimization"></a>[AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](../conferences/icml-2026/cards/3801-3900.md#paper-real26a)
+- <a id="rubbi26a-optimization"></a>[Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments](../conferences/icml-2026/cards/3901-4000.md#paper-rubbi26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -223,6 +225,7 @@
 - <a id="li26ch-reinforcement-learning"></a>[FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26ch)
 - <a id="li26gs-reinforcement-learning"></a>[Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis](../conferences/icml-2026/cards/2501-2600.md#paper-li26gs)
 - <a id="liu26q-reinforcement-learning"></a>[Med-Scout: Curing MLLMs’ Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](../conferences/icml-2026/cards/2701-2800.md#paper-liu26q)
+- <a id="rui26a-reinforcement-learning"></a>[Optimizing Inference-Time Compute for Medical Reasoning via Uncertainty Quantification](../conferences/icml-2026/cards/3901-4000.md#paper-rui26a)
 
 <a id="by-training-strategies"></a>
 
@@ -256,6 +259,8 @@
 - <a id="mukherjee26b-training-strategies"></a>[Latent Diffusion Pretraining for Crystal Property Prediction](../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26b)
 - <a id="nguyen26g-training-strategies"></a>[TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26g)
 - <a id="qiu26r-training-strategies"></a>[Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26r)
+- <a id="ripken26a-training-strategies"></a>[Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](../conferences/icml-2026/cards/3801-3900.md#paper-ripken26a)
+- <a id="ruhling-cachay26a-training-strategies"></a>[U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster](../conferences/icml-2026/cards/3901-4000.md#paper-ruhling-cachay26a)
 
 <a id="by-data-strategies"></a>
 
@@ -269,6 +274,7 @@
 - <a id="huynh26a-data-strategies"></a>[Active Timepoint Selection for Learning Measure-Valued Trajectories](../conferences/icml-2026/cards/1701-1800.md#paper-huynh26a)
 - <a id="li26jn-data-strategies"></a>[Geometrically Constrained Stenosis Editing in Coronary Angiography via Entropic Optimal Transport](../conferences/icml-2026/cards/2601-2700.md#paper-li26jn)
 - <a id="makarov26a-data-strategies"></a>[TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins](../conferences/icml-2026/cards/3101-3200.md#paper-makarov26a)
+- <a id="saegert26a-data-strategies"></a>[Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression](../conferences/icml-2026/cards/3901-4000.md#paper-saegert26a)
 
 <a id="by-inference"></a>
 
@@ -311,6 +317,8 @@
 - <a id="peng26d-inference"></a>[LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation](../conferences/icml-2026/cards/3601-3700.md#paper-peng26d)
 - <a id="qin26j-inference"></a>[FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation](../conferences/icml-2026/cards/3701-3800.md#paper-qin26j)
 - <a id="rehman26a-inference"></a>[Autoregressive Boltzmann Generators](../conferences/icml-2026/cards/3801-3900.md#paper-rehman26a)
+- <a id="russo26b-inference"></a>[PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline](../conferences/icml-2026/cards/3901-4000.md#paper-russo26b)
+- <a id="saberi26a-inference"></a>[Training-Free Adversarial Robustness in Computational MRI](../conferences/icml-2026/cards/3901-4000.md#paper-saberi26a)
 
 <a id="by-representation-learning"></a>
 
@@ -376,6 +384,7 @@
 - <a id="ramlaoui26a-representation-learning"></a>[TriForces: Augmenting Atomistic GNNs for Transferable Representations](../conferences/icml-2026/cards/3801-3900.md#paper-ramlaoui26a)
 - <a id="rao26a-representation-learning"></a>[Localized, High-resolution Geographic Representations with Slepian Functions](../conferences/icml-2026/cards/3801-3900.md#paper-rao26a)
 - <a id="rao26b-representation-learning"></a>[A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models](../conferences/icml-2026/cards/3801-3900.md#paper-rao26b)
+- <a id="ruan26b-representation-learning"></a>[Beyond Independent Genes: Learning Module-Inductive Representations for Single-Cell Gene Perturbation Prediction](../conferences/icml-2026/cards/3801-3900.md#paper-ruan26b)
 
 <a id="by-evaluation"></a>
 

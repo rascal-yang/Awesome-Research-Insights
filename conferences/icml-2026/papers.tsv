@@ -3847,84 +3847,84 @@ number	pmlr_id	title	paper_url	insight_status
 3846	ren26c	Unbiased Principles, Robust Rewards	https://proceedings.mlr.press/v306/ren26c.html	written
 3847	ren26d	Towards Reliable Marking and Verification of AI-Generated Text via Geometry-aware Sentence-level Watermarking	https://proceedings.mlr.press/v306/ren26d.html	written
 3848	ren26e	Streaming Covariate Balancing via Discrepancy-Based Feature Coresets	https://proceedings.mlr.press/v306/ren26e.html	written
-3849	ren26f	Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability	https://proceedings.mlr.press/v306/ren26f.html	pending
-3850	ren26g	Low-dimensional topology of deep neural networks	https://proceedings.mlr.press/v306/ren26g.html	pending
-3851	ren26h	Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients	https://proceedings.mlr.press/v306/ren26h.html	pending
-3852	ren26i	MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement	https://proceedings.mlr.press/v306/ren26i.html	pending
-3853	ren26j	Scalable Event Cloud Network for Event-based Classification	https://proceedings.mlr.press/v306/ren26j.html	pending
-3854	ren26k	Transfer Learning in Nonparametric Regression with Deep ReLU Networks	https://proceedings.mlr.press/v306/ren26k.html	pending
-3855	ren26l	POLCA: Stochastic Generative Optimization with LLM	https://proceedings.mlr.press/v306/ren26l.html	pending
-3856	ren26m	Riemannian Dueling Optimization	https://proceedings.mlr.press/v306/ren26m.html	pending
-3857	ren26n	FedSDR: Federated Self-Distillation with Rectification	https://proceedings.mlr.press/v306/ren26n.html	pending
-3858	ren26o	More Sail than Ballast: Addressing Harmful Knowledge Leakage in the Expansive Reasoning Space of LRMs	https://proceedings.mlr.press/v306/ren26o.html	pending
-3859	ren26p	Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence	https://proceedings.mlr.press/v306/ren26p.html	pending
-3860	ren26q	Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors	https://proceedings.mlr.press/v306/ren26q.html	pending
-3861	ren26r	FedSSM: State Space Model-based Proactive Inference for Heterogeneous Multimodal Federated Learning	https://proceedings.mlr.press/v306/ren26r.html	pending
-3862	ren26s	Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO	https://proceedings.mlr.press/v306/ren26s.html	pending
-3863	ren26t	Edit-Based Refinement for Parallel Masked Diffusion Language Models	https://proceedings.mlr.press/v306/ren26t.html	pending
-3864	ren26u	When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM’s Adaptive Reasoning	https://proceedings.mlr.press/v306/ren26u.html	pending
-3865	requena26a	A Minimal Agent for Automated Theorem Proving	https://proceedings.mlr.press/v306/requena26a.html	pending
-3866	reuel26a	Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations	https://proceedings.mlr.press/v306/reuel26a.html	pending
-3867	reuter26a	Use What You Know: Causal Foundation Models with Partial Graphs	https://proceedings.mlr.press/v306/reuter26a.html	pending
-3868	rezaei26a	Online Rubrics Elicitation from Pairwise Comparisons	https://proceedings.mlr.press/v306/rezaei26a.html	pending
-3869	rezk26a	Weight-Space Learning for Certifiable Few-shot Transfer Learning	https://proceedings.mlr.press/v306/rezk26a.html	pending
-3870	riabinin26a	From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs	https://proceedings.mlr.press/v306/riabinin26a.html	pending
-3871	ricci26a	A Fourier perspective on the learning dynamics of neural networks: from sample complexities to mechanistic insights	https://proceedings.mlr.press/v306/ricci26a.html	pending
-3872	ricco26a	A Geometric Analysis of Small-sized Language Model Hallucinations	https://proceedings.mlr.press/v306/ricco26a.html	pending
-3873	ridel26a	Improved Bounds for Reward-Agnostic and Reward-Free Exploration	https://proceedings.mlr.press/v306/ridel26a.html	pending
-3874	riess26a	Optimal conversion from Rényi Differential Privacy to $f$-Differential Privacy	https://proceedings.mlr.press/v306/riess26a.html	pending
-3875	rinaldi26a	Transporting Task Vectors across Different Architectures without Training	https://proceedings.mlr.press/v306/rinaldi26a.html	pending
-3876	ripken26a	Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics	https://proceedings.mlr.press/v306/ripken26a.html	pending
-3877	rivera-soto26a	Attacks on Machine-Text Detectors Retain Stylistic Fingerprints	https://proceedings.mlr.press/v306/rivera-soto26a.html	pending
-3878	roberts26a	ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models	https://proceedings.mlr.press/v306/roberts26a.html	pending
-3879	robnik26a	Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test	https://proceedings.mlr.press/v306/robnik26a.html	pending
-3880	roch26a	Model-Free Robust Average-Reward Reinforcement Learning with Sample Complexity Analysis	https://proceedings.mlr.press/v306/roch26a.html	pending
-3881	roch26b	Distributionally Robust Markov Games with Average Reward	https://proceedings.mlr.press/v306/roch26b.html	pending
-3882	rodemann26a	Performative Learning Theory	https://proceedings.mlr.press/v306/rodemann26a.html	pending
-3883	rodionov26a	FloorplanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations	https://proceedings.mlr.press/v306/rodionov26a.html	pending
-3884	rodriguez26a	Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?	https://proceedings.mlr.press/v306/rodriguez26a.html	pending
-3885	rodriguez-munoz26a	Ambient Dataloops: Generative Models for Dataset Refinement	https://proceedings.mlr.press/v306/rodriguez-munoz26a.html	pending
-3886	roh26a	PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning	https://proceedings.mlr.press/v306/roh26a.html	pending
-3887	roland26a	Modular Pretraining Enables Access Control	https://proceedings.mlr.press/v306/roland26a.html	pending
-3888	roos26a	Categorical Flow Maps	https://proceedings.mlr.press/v306/roos26a.html	pending
-3889	roschmann26a	SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport	https://proceedings.mlr.press/v306/roschmann26a.html	pending
-3890	rosenblatt26a	Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data	https://proceedings.mlr.press/v306/rosenblatt26a.html	pending
-3891	rosseau26a	Preserving Plasticity in Continual Learning via Dynamical Isometry	https://proceedings.mlr.press/v306/rosseau26a.html	pending
-3892	rossi26a	TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations	https://proceedings.mlr.press/v306/rossi26a.html	pending
-3893	roulet26a	Per-example Gradients: a New Frontier for Understanding and Improving Optimizers	https://proceedings.mlr.press/v306/roulet26a.html	pending
-3894	rout26a	Test-Time Anchoring for Discrete Diffusion Posterior Sampling	https://proceedings.mlr.press/v306/rout26a.html	pending
-3895	rouyer26a	Understanding the Gaps in Satisficing Bandits	https://proceedings.mlr.press/v306/rouyer26a.html	pending
-3896	roytburg26a	Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations	https://proceedings.mlr.press/v306/roytburg26a.html	pending
-3897	ruan26a	Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models	https://proceedings.mlr.press/v306/ruan26a.html	pending
-3898	ruan26b	Beyond Independent Genes: Learning Module-Inductive Representations for Single-Cell Gene Perturbation Prediction	https://proceedings.mlr.press/v306/ruan26b.html	pending
-3899	ruan26c	ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving	https://proceedings.mlr.press/v306/ruan26c.html	pending
-3900	ruan26d	Language Model Augmented Semi-Supervised Statistical Inference	https://proceedings.mlr.press/v306/ruan26d.html	pending
-3901	ruan26e	AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration	https://proceedings.mlr.press/v306/ruan26e.html	pending
-3902	rubacher26a	Attention Implements the Fisher Geometry of Exponential Families	https://proceedings.mlr.press/v306/rubacher26a.html	pending
-3903	rubbi26a	Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments	https://proceedings.mlr.press/v306/rubbi26a.html	pending
-3904	rubinstein26a	On the Accuracy of Newton Step and Influence Function Data Attributions	https://proceedings.mlr.press/v306/rubinstein26a.html	pending
-3905	rubio-madrigal26a	Fixed Aggregation Features Can Rival GNNs	https://proceedings.mlr.press/v306/rubio-madrigal26a.html	pending
-3906	rugamer26a	On the Epistemic Uncertainty of Overparametrized Neural Networks	https://proceedings.mlr.press/v306/rugamer26a.html	pending
-3907	ruhdorfer26a	Unsupervised Partner Design Enables Robust Ad-hoc Teamwork	https://proceedings.mlr.press/v306/ruhdorfer26a.html	pending
-3908	ruhling-cachay26a	U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster	https://proceedings.mlr.press/v306/ruhling-cachay26a.html	pending
-3909	ruhlmann26a	Flow Matching Calibration for Simulation-Based Inference under Model Misspecification	https://proceedings.mlr.press/v306/ruhlmann26a.html	pending
-3910	rui26a	Optimizing Inference-Time Compute for Medical Reasoning via Uncertainty Quantification	https://proceedings.mlr.press/v306/rui26a.html	pending
-3911	rundel26a	$\textttShaplEIG$: Bayesian Experimental Design for Shapley Value Estimation	https://proceedings.mlr.press/v306/rundel26a.html	pending
-3912	runwal26a	PRISM: Demystifying Retention and Interaction in Mid-Training	https://proceedings.mlr.press/v306/runwal26a.html	pending
-3913	russo26a	Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success	https://proceedings.mlr.press/v306/russo26a.html	pending
-3914	russo26b	PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline	https://proceedings.mlr.press/v306/russo26b.html	pending
-3915	ryabchenko26a	Reinforcement Learning with Action-Triggered Observations	https://proceedings.mlr.press/v306/ryabchenko26a.html	pending
-3916	ryan26a	Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models	https://proceedings.mlr.press/v306/ryan26a.html	pending
-3917	ryd26a	Removing Sandbagging in LLMs by Training with Weak Supervision	https://proceedings.mlr.press/v306/ryd26a.html	pending
-3918	saad-falcon26a	Global Convergence of Adaptive Sensing for Principal Eigenvector Estimation	https://proceedings.mlr.press/v306/saad-falcon26a.html	pending
-3919	saakyan26a	Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment	https://proceedings.mlr.press/v306/saakyan26a.html	pending
-3920	saber26a	RADE: Random Add-Drop Edge as a Regularizer	https://proceedings.mlr.press/v306/saber26a.html	pending
-3921	saberi26a	Training-Free Adversarial Robustness in Computational MRI	https://proceedings.mlr.press/v306/saberi26a.html	pending
-3922	sabolic26a	BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks	https://proceedings.mlr.press/v306/sabolic26a.html	pending
-3923	sadi26a	Welfare-Optimal Classification with Accuracy Auctions	https://proceedings.mlr.press/v306/sadi26a.html	pending
-3924	saegert26a	Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression	https://proceedings.mlr.press/v306/saegert26a.html	pending
-3925	saengkyongam26a	Anti-causal domain generalization: Leveraging unlabeled data	https://proceedings.mlr.press/v306/saengkyongam26a.html	pending
-3926	safarov26a	Memory-Distilled Selection for Noise-Robust Anomaly Detection	https://proceedings.mlr.press/v306/safarov26a.html	pending
+3849	ren26f	Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability	https://proceedings.mlr.press/v306/ren26f.html	written
+3850	ren26g	Low-dimensional topology of deep neural networks	https://proceedings.mlr.press/v306/ren26g.html	written
+3851	ren26h	Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients	https://proceedings.mlr.press/v306/ren26h.html	written
+3852	ren26i	MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement	https://proceedings.mlr.press/v306/ren26i.html	written
+3853	ren26j	Scalable Event Cloud Network for Event-based Classification	https://proceedings.mlr.press/v306/ren26j.html	written
+3854	ren26k	Transfer Learning in Nonparametric Regression with Deep ReLU Networks	https://proceedings.mlr.press/v306/ren26k.html	written
+3855	ren26l	POLCA: Stochastic Generative Optimization with LLM	https://proceedings.mlr.press/v306/ren26l.html	written
+3856	ren26m	Riemannian Dueling Optimization	https://proceedings.mlr.press/v306/ren26m.html	written
+3857	ren26n	FedSDR: Federated Self-Distillation with Rectification	https://proceedings.mlr.press/v306/ren26n.html	written
+3858	ren26o	More Sail than Ballast: Addressing Harmful Knowledge Leakage in the Expansive Reasoning Space of LRMs	https://proceedings.mlr.press/v306/ren26o.html	written
+3859	ren26p	Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence	https://proceedings.mlr.press/v306/ren26p.html	written
+3860	ren26q	Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors	https://proceedings.mlr.press/v306/ren26q.html	written
+3861	ren26r	FedSSM: State Space Model-based Proactive Inference for Heterogeneous Multimodal Federated Learning	https://proceedings.mlr.press/v306/ren26r.html	written
+3862	ren26s	Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO	https://proceedings.mlr.press/v306/ren26s.html	written
+3863	ren26t	Edit-Based Refinement for Parallel Masked Diffusion Language Models	https://proceedings.mlr.press/v306/ren26t.html	written
+3864	ren26u	When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM’s Adaptive Reasoning	https://proceedings.mlr.press/v306/ren26u.html	written
+3865	requena26a	A Minimal Agent for Automated Theorem Proving	https://proceedings.mlr.press/v306/requena26a.html	written
+3866	reuel26a	Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations	https://proceedings.mlr.press/v306/reuel26a.html	written
+3867	reuter26a	Use What You Know: Causal Foundation Models with Partial Graphs	https://proceedings.mlr.press/v306/reuter26a.html	written
+3868	rezaei26a	Online Rubrics Elicitation from Pairwise Comparisons	https://proceedings.mlr.press/v306/rezaei26a.html	written
+3869	rezk26a	Weight-Space Learning for Certifiable Few-shot Transfer Learning	https://proceedings.mlr.press/v306/rezk26a.html	written
+3870	riabinin26a	From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs	https://proceedings.mlr.press/v306/riabinin26a.html	written
+3871	ricci26a	A Fourier perspective on the learning dynamics of neural networks: from sample complexities to mechanistic insights	https://proceedings.mlr.press/v306/ricci26a.html	written
+3872	ricco26a	A Geometric Analysis of Small-sized Language Model Hallucinations	https://proceedings.mlr.press/v306/ricco26a.html	written
+3873	ridel26a	Improved Bounds for Reward-Agnostic and Reward-Free Exploration	https://proceedings.mlr.press/v306/ridel26a.html	written
+3874	riess26a	Optimal conversion from Rényi Differential Privacy to $f$-Differential Privacy	https://proceedings.mlr.press/v306/riess26a.html	written
+3875	rinaldi26a	Transporting Task Vectors across Different Architectures without Training	https://proceedings.mlr.press/v306/rinaldi26a.html	written
+3876	ripken26a	Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics	https://proceedings.mlr.press/v306/ripken26a.html	written
+3877	rivera-soto26a	Attacks on Machine-Text Detectors Retain Stylistic Fingerprints	https://proceedings.mlr.press/v306/rivera-soto26a.html	written
+3878	roberts26a	ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models	https://proceedings.mlr.press/v306/roberts26a.html	written
+3879	robnik26a	Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test	https://proceedings.mlr.press/v306/robnik26a.html	written
+3880	roch26a	Model-Free Robust Average-Reward Reinforcement Learning with Sample Complexity Analysis	https://proceedings.mlr.press/v306/roch26a.html	written
+3881	roch26b	Distributionally Robust Markov Games with Average Reward	https://proceedings.mlr.press/v306/roch26b.html	written
+3882	rodemann26a	Performative Learning Theory	https://proceedings.mlr.press/v306/rodemann26a.html	written
+3883	rodionov26a	FloorplanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations	https://proceedings.mlr.press/v306/rodionov26a.html	written
+3884	rodriguez26a	Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?	https://proceedings.mlr.press/v306/rodriguez26a.html	written
+3885	rodriguez-munoz26a	Ambient Dataloops: Generative Models for Dataset Refinement	https://proceedings.mlr.press/v306/rodriguez-munoz26a.html	written
+3886	roh26a	PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning	https://proceedings.mlr.press/v306/roh26a.html	written
+3887	roland26a	Modular Pretraining Enables Access Control	https://proceedings.mlr.press/v306/roland26a.html	written
+3888	roos26a	Categorical Flow Maps	https://proceedings.mlr.press/v306/roos26a.html	written
+3889	roschmann26a	SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport	https://proceedings.mlr.press/v306/roschmann26a.html	written
+3890	rosenblatt26a	Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data	https://proceedings.mlr.press/v306/rosenblatt26a.html	written
+3891	rosseau26a	Preserving Plasticity in Continual Learning via Dynamical Isometry	https://proceedings.mlr.press/v306/rosseau26a.html	written
+3892	rossi26a	TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations	https://proceedings.mlr.press/v306/rossi26a.html	written
+3893	roulet26a	Per-example Gradients: a New Frontier for Understanding and Improving Optimizers	https://proceedings.mlr.press/v306/roulet26a.html	written
+3894	rout26a	Test-Time Anchoring for Discrete Diffusion Posterior Sampling	https://proceedings.mlr.press/v306/rout26a.html	written
+3895	rouyer26a	Understanding the Gaps in Satisficing Bandits	https://proceedings.mlr.press/v306/rouyer26a.html	written
+3896	roytburg26a	Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations	https://proceedings.mlr.press/v306/roytburg26a.html	written
+3897	ruan26a	Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models	https://proceedings.mlr.press/v306/ruan26a.html	written
+3898	ruan26b	Beyond Independent Genes: Learning Module-Inductive Representations for Single-Cell Gene Perturbation Prediction	https://proceedings.mlr.press/v306/ruan26b.html	written
+3899	ruan26c	ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving	https://proceedings.mlr.press/v306/ruan26c.html	written
+3900	ruan26d	Language Model Augmented Semi-Supervised Statistical Inference	https://proceedings.mlr.press/v306/ruan26d.html	written
+3901	ruan26e	AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration	https://proceedings.mlr.press/v306/ruan26e.html	written
+3902	rubacher26a	Attention Implements the Fisher Geometry of Exponential Families	https://proceedings.mlr.press/v306/rubacher26a.html	written
+3903	rubbi26a	Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments	https://proceedings.mlr.press/v306/rubbi26a.html	written
+3904	rubinstein26a	On the Accuracy of Newton Step and Influence Function Data Attributions	https://proceedings.mlr.press/v306/rubinstein26a.html	written
+3905	rubio-madrigal26a	Fixed Aggregation Features Can Rival GNNs	https://proceedings.mlr.press/v306/rubio-madrigal26a.html	written
+3906	rugamer26a	On the Epistemic Uncertainty of Overparametrized Neural Networks	https://proceedings.mlr.press/v306/rugamer26a.html	written
+3907	ruhdorfer26a	Unsupervised Partner Design Enables Robust Ad-hoc Teamwork	https://proceedings.mlr.press/v306/ruhdorfer26a.html	written
+3908	ruhling-cachay26a	U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster	https://proceedings.mlr.press/v306/ruhling-cachay26a.html	written
+3909	ruhlmann26a	Flow Matching Calibration for Simulation-Based Inference under Model Misspecification	https://proceedings.mlr.press/v306/ruhlmann26a.html	written
+3910	rui26a	Optimizing Inference-Time Compute for Medical Reasoning via Uncertainty Quantification	https://proceedings.mlr.press/v306/rui26a.html	written
+3911	rundel26a	$\textttShaplEIG$: Bayesian Experimental Design for Shapley Value Estimation	https://proceedings.mlr.press/v306/rundel26a.html	written
+3912	runwal26a	PRISM: Demystifying Retention and Interaction in Mid-Training	https://proceedings.mlr.press/v306/runwal26a.html	written
+3913	russo26a	Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success	https://proceedings.mlr.press/v306/russo26a.html	written
+3914	russo26b	PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline	https://proceedings.mlr.press/v306/russo26b.html	written
+3915	ryabchenko26a	Reinforcement Learning with Action-Triggered Observations	https://proceedings.mlr.press/v306/ryabchenko26a.html	written
+3916	ryan26a	Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models	https://proceedings.mlr.press/v306/ryan26a.html	written
+3917	ryd26a	Removing Sandbagging in LLMs by Training with Weak Supervision	https://proceedings.mlr.press/v306/ryd26a.html	written
+3918	saad-falcon26a	Global Convergence of Adaptive Sensing for Principal Eigenvector Estimation	https://proceedings.mlr.press/v306/saad-falcon26a.html	written
+3919	saakyan26a	Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment	https://proceedings.mlr.press/v306/saakyan26a.html	written
+3920	saber26a	RADE: Random Add-Drop Edge as a Regularizer	https://proceedings.mlr.press/v306/saber26a.html	written
+3921	saberi26a	Training-Free Adversarial Robustness in Computational MRI	https://proceedings.mlr.press/v306/saberi26a.html	written
+3922	sabolic26a	BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks	https://proceedings.mlr.press/v306/sabolic26a.html	written
+3923	sadi26a	Welfare-Optimal Classification with Accuracy Auctions	https://proceedings.mlr.press/v306/sadi26a.html	written
+3924	saegert26a	Breaking the Simplification Bottleneck in Amortized Neural Symbolic Regression	https://proceedings.mlr.press/v306/saegert26a.html	written
+3925	saengkyongam26a	Anti-causal domain generalization: Leveraging unlabeled data	https://proceedings.mlr.press/v306/saengkyongam26a.html	written
+3926	safarov26a	Memory-Distilled Selection for Noise-Robust Anomaly Detection	https://proceedings.mlr.press/v306/safarov26a.html	written
 3927	safonov26a	Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions	https://proceedings.mlr.press/v306/safonov26a.html	pending
 3928	saglam26a	Test-Time Detoxification without Training or Learning Anything	https://proceedings.mlr.press/v306/saglam26a.html	pending
 3929	saha26a	Measuring Meta-Cultural Competency: A Spectral Framework for LLM Knowledge Structures	https://proceedings.mlr.press/v306/saha26a.html	pending

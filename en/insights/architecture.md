@@ -117,6 +117,7 @@ Model-wide design and information flow.
 - [GEM-FI: Gated Evidential Mixtures with Fisher Modulation](../../conferences/icml-2026/cards/3301-3400.md#mohammed26a-architecture) · 中文
 - [Learning Global Representation from Queries for Vectorized HD Map Construction](../../conferences/icml-2026/cards/3701-3800.md#qiu26m-architecture) · 中文
 - [Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](../../conferences/icml-2026/cards/3801-3900.md#ran26d-architecture) · 中文
+- [Scalable Event Cloud Network for Event-based Classification](../../conferences/icml-2026/cards/3801-3900.md#ren26j-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -394,4 +395,5 @@ Model-wide design and information flow.
 - [Protein Autoregressive Modeling via Multiscale Structure Generation](../../conferences/icml-2026/cards/3701-3800.md#qu26b-architecture) · 中文
 - [A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention](../../conferences/icml-2026/cards/3701-3800.md#qu26g-architecture) · 中文
 - [DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · 中文
+- [TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations](../../conferences/icml-2026/cards/3801-3900.md#rossi26a-architecture) · 中文
 <!-- classification:end -->

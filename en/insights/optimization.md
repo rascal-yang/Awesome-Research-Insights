@@ -90,6 +90,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](../../conferences/icml-2026/cards/3701-3800.md#qiu26o-optimization) · 中文
 - [MCCE: A Framework for Multi-LLM Collaborative Search in Discrete Spaces with Similarity-Filtered Preference Learning](../../conferences/icml-2026/cards/3801-3900.md#ran26a-optimization) · 中文
 - [KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits](../../conferences/icml-2026/cards/3801-3900.md#ran26b-optimization) · 中文
+- [POLCA: Stochastic Generative Optimization with LLM](../../conferences/icml-2026/cards/3801-3900.md#ren26l-optimization) · 中文
+- [From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs](../../conferences/icml-2026/cards/3801-3900.md#riabinin26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -372,6 +374,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [$α$-PFN: Fast Entropy Search via In-Context Learning](../../conferences/icml-2026/cards/3801-3900.md#rakotoarison26a-optimization) · 中文
 - [Particle Flow for Learning from Label Proportions](../../conferences/icml-2026/cards/3801-3900.md#rakotomamonjy26a-optimization) · 中文
 - [From Lyapunov Analysis to Algorithm Design in two-sided PL Minimax Optimization](../../conferences/icml-2026/cards/3801-3900.md#rankawat26a-optimization) · 中文
+- [Riemannian Dueling Optimization](../../conferences/icml-2026/cards/3801-3900.md#ren26m-optimization) · 中文
+- [Preserving Plasticity in Continual Learning via Dynamical Isometry](../../conferences/icml-2026/cards/3801-3900.md#rosseau26a-optimization) · 中文
+- [Per-example Gradients: a New Frontier for Understanding and Improving Optimizers](../../conferences/icml-2026/cards/3801-3900.md#roulet26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -437,4 +442,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [On the Generalization in Topology Optimization via Sensitivity-Conditioned Bernoulli Flow Matching](../../conferences/icml-2026/cards/3801-3900.md#rashed26a-optimization) · 中文
 - [A Dirac-Frenkel-Onsager Principle: Instantaneous Residual Minimization with Gauge Momentum for Nonlinear Parametrizations of PDE Solutions](../../conferences/icml-2026/cards/3801-3900.md#raviola26a-optimization) · 中文
 - [AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](../../conferences/icml-2026/cards/3801-3900.md#real26a-optimization) · 中文
+- [Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments](../../conferences/icml-2026/cards/3901-4000.md#rubbi26a-optimization) · 中文
 <!-- classification:end -->

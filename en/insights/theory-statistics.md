@@ -152,6 +152,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality](../../conferences/icml-2026/cards/3501-3600.md#palasamudram26a-theory-statistics) · 中文
 - [Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL](../../conferences/icml-2026/cards/3601-3700.md#peng26o-theory-statistics) · 中文
 - [What Does Thompson Sampling Optimize?](../../conferences/icml-2026/cards/3701-3800.md#qu26d-theory-statistics) · 中文
+- [Improved Bounds for Reward-Agnostic and Reward-Free Exploration](../../conferences/icml-2026/cards/3801-3900.md#ridel26a-theory-statistics) · 中文
+- [Model-Free Robust Average-Reward Reinforcement Learning with Sample Complexity Analysis](../../conferences/icml-2026/cards/3801-3900.md#roch26a-theory-statistics) · 中文
+- [Distributionally Robust Markov Games with Average Reward](../../conferences/icml-2026/cards/3801-3900.md#roch26b-theory-statistics) · 中文
+- [Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success](../../conferences/icml-2026/cards/3901-4000.md#russo26a-theory-statistics) · 中文
+- [Reinforcement Learning with Action-Triggered Observations](../../conferences/icml-2026/cards/3901-4000.md#ryabchenko26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -546,6 +551,22 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](../../conferences/icml-2026/cards/3801-3900.md#ramachandran26a-theory-statistics) · 中文
 - [Equilibrium Pricing in Oligopolistic Data Markets](../../conferences/icml-2026/cards/3801-3900.md#ray-chaudhury26a-theory-statistics) · 中文
 - [Streaming Covariate Balancing via Discrepancy-Based Feature Coresets](../../conferences/icml-2026/cards/3801-3900.md#ren26e-theory-statistics) · 中文
+- [Low-dimensional topology of deep neural networks](../../conferences/icml-2026/cards/3801-3900.md#ren26g-theory-statistics) · 中文
+- [Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients](../../conferences/icml-2026/cards/3801-3900.md#ren26h-theory-statistics) · 中文
+- [Transfer Learning in Nonparametric Regression with Deep ReLU Networks](../../conferences/icml-2026/cards/3801-3900.md#ren26k-theory-statistics) · 中文
+- [Use What You Know: Causal Foundation Models with Partial Graphs](../../conferences/icml-2026/cards/3801-3900.md#reuter26a-theory-statistics) · 中文
+- [Weight-Space Learning for Certifiable Few-shot Transfer Learning](../../conferences/icml-2026/cards/3801-3900.md#rezk26a-theory-statistics) · 中文
+- [A Fourier perspective on the learning dynamics of neural networks: from sample complexities to mechanistic insights](../../conferences/icml-2026/cards/3801-3900.md#ricci26a-theory-statistics) · 中文
+- [Optimal conversion from Rényi Differential Privacy to $f$-Differential Privacy](../../conferences/icml-2026/cards/3801-3900.md#riess26a-theory-statistics) · 中文
+- [Performative Learning Theory](../../conferences/icml-2026/cards/3801-3900.md#rodemann26a-theory-statistics) · 中文
+- [Understanding the Gaps in Satisficing Bandits](../../conferences/icml-2026/cards/3801-3900.md#rouyer26a-theory-statistics) · 中文
+- [Language Model Augmented Semi-Supervised Statistical Inference](../../conferences/icml-2026/cards/3801-3900.md#ruan26d-theory-statistics) · 中文
+- [Attention Implements the Fisher Geometry of Exponential Families](../../conferences/icml-2026/cards/3901-4000.md#rubacher26a-theory-statistics) · 中文
+- [On the Accuracy of Newton Step and Influence Function Data Attributions](../../conferences/icml-2026/cards/3901-4000.md#rubinstein26a-theory-statistics) · 中文
+- [On the Epistemic Uncertainty of Overparametrized Neural Networks](../../conferences/icml-2026/cards/3901-4000.md#rugamer26a-theory-statistics) · 中文
+- [$\textttShaplEIG$: Bayesian Experimental Design for Shapley Value Estimation](../../conferences/icml-2026/cards/3901-4000.md#rundel26a-theory-statistics) · 中文
+- [Global Convergence of Adaptive Sensing for Principal Eigenvector Estimation](../../conferences/icml-2026/cards/3901-4000.md#saad-falcon26a-theory-statistics) · 中文
+- [Welfare-Optimal Classification with Accuracy Auctions](../../conferences/icml-2026/cards/3901-4000.md#sadi26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -167,6 +167,7 @@
 - [反向扩散高斯矩联合匹配](../conferences/icml-2026/cards/3701-3800.md#qian26h-loss-functions) · Likelihood Matching for Diffusion Models
 - [用类先验扰动稳住长尾伪标签训练](../conferences/icml-2026/cards/3701-3800.md#qiao26b-loss-functions) · Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning
 - [以两组预测差代替逐对对齐](../conferences/icml-2026/cards/3801-3900.md#reichart26a-loss-functions) · Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization
+- [无标签环境识别预测应忽略的变化方向](../conferences/icml-2026/cards/3901-4000.md#saengkyongam26a-loss-functions) · Anti-causal domain generalization: Leveraging unlabeled data
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -106,6 +106,7 @@
 - [动力学互信息与经验时效的联合去偏](../conferences/icml-2026/cards/3101-3200.md#lyu26f-representation-learning) · Debiased Model-based Representations for Sample-efficient Continuous Control
 - [用随机投影把 RL 表征约束为各向同性高斯](../conferences/icml-2026/cards/3601-3700.md#pasand26a-representation-learning) · Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
 - [从动力学推断任务并压低无支撑价值](../conferences/icml-2026/cards/3701-3800.md#qian26o-representation-learning) · Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning
+- [给行为相似度加逐对正定几何](../conferences/icml-2026/cards/3801-3900.md#roh26a-representation-learning) · PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -167,6 +168,7 @@
 - [用规则网格声码词元改善连续扩散的分类去噪](../conferences/icml-2026/cards/3601-3700.md#popov26a-representation-learning) · Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech
 - [先拆分频带再做跨传感器对齐](../conferences/icml-2026/cards/3701-3800.md#qi26l-representation-learning) · FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification
 - [定长音乐拍点的稀疏模式词元](../conferences/icml-2026/cards/3701-3800.md#qian26a-representation-learning) · BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps
+- [用成对教师对齐未配对关系矩阵](../conferences/icml-2026/cards/3801-3900.md#roschmann26a-representation-learning) · SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport
 
 <a id="by-ml-foundations"></a>
 
@@ -254,6 +256,7 @@
 - [在特征空间预估隐式图游走核](../conferences/icml-2026/cards/3201-3300.md#manenti26b-representation-learning) · SWING: Unlocking Implicit Graph Representations for Graph Random Features
 - [语义角度与结构半径的层级检索](../conferences/icml-2026/cards/3301-3400.md#mishra26c-representation-learning) · Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning
 - [图角色比例嵌入](../conferences/icml-2026/cards/3401-3500.md#nakis26a-representation-learning) · Aitchison Embeddings for Learning Compositional Graph Representations
+- [固定多跳聚合的图节点表征](../conferences/icml-2026/cards/3901-4000.md#rubio-madrigal26a-representation-learning) · Fixed Aggregation Features Can Rival GNNs
 
 <a id="by-scientific-ml"></a>
 
@@ -319,4 +322,5 @@
 - [原子图网络的组成结构分流](../conferences/icml-2026/cards/3801-3900.md#ramlaoui26a-representation-learning) · TriForces: Augmenting Atomistic GNNs for Transferable Representations
 - [区域集中的球面地理编码](../conferences/icml-2026/cards/3801-3900.md#rao26a-representation-learning) · Localized, High-resolution Geographic Representations with Slepian Functions
 - [将动力模式先验用作流的起点](../conferences/icml-2026/cards/3801-3900.md#rao26b-representation-learning) · A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models
+- [在基因程序层保留协同响应](../conferences/icml-2026/cards/3801-3900.md#ruan26b-representation-learning) · Beyond Independent Genes: Learning Module-Inductive Representations for Single-Cell Gene Perturbation Prediction
 <!-- classification:end -->

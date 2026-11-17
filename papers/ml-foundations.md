@@ -153,6 +153,7 @@
 - <a id="qian26h-loss-functions"></a>[Likelihood Matching for Diffusion Models](../conferences/icml-2026/cards/3701-3800.md#paper-qian26h)
 - <a id="qiao26b-loss-functions"></a>[Class-Prior Perturbation-Robust Regularization for Imbalanced Unreliable Partial Label Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26b)
 - <a id="reichart26a-loss-functions"></a>[Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization](../conferences/icml-2026/cards/3801-3900.md#paper-reichart26a)
+- <a id="saengkyongam26a-loss-functions"></a>[Anti-causal domain generalization: Leveraging unlabeled data](../conferences/icml-2026/cards/3901-4000.md#paper-saengkyongam26a)
 
 <a id="by-optimization"></a>
 
@@ -370,6 +371,9 @@
 - <a id="rakotoarison26a-optimization"></a>[$α$-PFN: Fast Entropy Search via In-Context Learning](../conferences/icml-2026/cards/3801-3900.md#paper-rakotoarison26a)
 - <a id="rakotomamonjy26a-optimization"></a>[Particle Flow for Learning from Label Proportions](../conferences/icml-2026/cards/3801-3900.md#paper-rakotomamonjy26a)
 - <a id="rankawat26a-optimization"></a>[From Lyapunov Analysis to Algorithm Design in two-sided PL Minimax Optimization](../conferences/icml-2026/cards/3801-3900.md#paper-rankawat26a)
+- <a id="ren26m-optimization"></a>[Riemannian Dueling Optimization](../conferences/icml-2026/cards/3801-3900.md#paper-ren26m)
+- <a id="rosseau26a-optimization"></a>[Preserving Plasticity in Continual Learning via Dynamical Isometry](../conferences/icml-2026/cards/3801-3900.md#paper-rosseau26a)
+- <a id="roulet26a-optimization"></a>[Per-example Gradients: a New Frontier for Understanding and Improving Optimizers](../conferences/icml-2026/cards/3801-3900.md#paper-roulet26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -469,6 +473,7 @@
 - <a id="pei26c-data-strategies"></a>[CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification](../conferences/icml-2026/cards/3601-3700.md#paper-pei26c)
 - <a id="qi26n-data-strategies"></a>[Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qi26n)
 - <a id="qiao26c-data-strategies"></a>[When Sample Selection Bias Precipitates Model Collapse](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26c)
+- <a id="rodriguez-munoz26a-data-strategies"></a>[Ambient Dataloops: Generative Models for Dataset Refinement](../conferences/icml-2026/cards/3801-3900.md#paper-rodriguez-munoz26a)
 
 <a id="by-inference"></a>
 
@@ -512,6 +517,9 @@
 - <a id="phan26a-inference"></a>[Automatic Unsupervised Ensemble Outlier Model Selection](../conferences/icml-2026/cards/3601-3700.md#paper-phan26a)
 - <a id="qiu26q-inference"></a>[Revealing Scaling Paradox in Large-scale Time Series Models: Implications for More Efficient and Accurate Forecasting](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26q)
 - <a id="qu26c-inference"></a>[TFTF: Training-Free Targeted Flow for Conditional Sampling](../conferences/icml-2026/cards/3701-3800.md#paper-qu26c)
+- <a id="robnik26a-inference"></a>[Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test](../conferences/icml-2026/cards/3801-3900.md#paper-robnik26a)
+- <a id="roos26a-inference"></a>[Categorical Flow Maps](../conferences/icml-2026/cards/3801-3900.md#paper-roos26a)
+- <a id="ruhlmann26a-inference"></a>[Flow Matching Calibration for Simulation-Based Inference under Model Misspecification](../conferences/icml-2026/cards/3901-4000.md#paper-ruhlmann26a)
 
 <a id="by-representation-learning"></a>
 
@@ -620,6 +628,8 @@
 - <a id="pakman26a-evaluation"></a>[Revisiting the Volume Hypothesis](../conferences/icml-2026/cards/3501-3600.md#paper-pakman26a)
 - <a id="panayiotou26a-evaluation"></a>[CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning](../conferences/icml-2026/cards/3501-3600.md#paper-panayiotou26a)
 - <a id="qiao26g-evaluation"></a>[It’s TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26g)
+- <a id="reuel26a-evaluation"></a>[Who Evaluates AI’s Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](../conferences/icml-2026/cards/3801-3900.md#paper-reuel26a)
+- <a id="rodriguez26a-evaluation"></a>[Diffusion Models Preferentially Memorize Prototypical Examples or: Why Does My Diffusion Model Love Slop?](../conferences/icml-2026/cards/3801-3900.md#paper-rodriguez26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -999,4 +1009,20 @@
 - <a id="ramachandran26a-theory-statistics"></a>[Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](../conferences/icml-2026/cards/3801-3900.md#paper-ramachandran26a)
 - <a id="ray-chaudhury26a-theory-statistics"></a>[Equilibrium Pricing in Oligopolistic Data Markets](../conferences/icml-2026/cards/3801-3900.md#paper-ray-chaudhury26a)
 - <a id="ren26e-theory-statistics"></a>[Streaming Covariate Balancing via Discrepancy-Based Feature Coresets](../conferences/icml-2026/cards/3801-3900.md#paper-ren26e)
+- <a id="ren26g-theory-statistics"></a>[Low-dimensional topology of deep neural networks](../conferences/icml-2026/cards/3801-3900.md#paper-ren26g)
+- <a id="ren26h-theory-statistics"></a>[Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients](../conferences/icml-2026/cards/3801-3900.md#paper-ren26h)
+- <a id="ren26k-theory-statistics"></a>[Transfer Learning in Nonparametric Regression with Deep ReLU Networks](../conferences/icml-2026/cards/3801-3900.md#paper-ren26k)
+- <a id="reuter26a-theory-statistics"></a>[Use What You Know: Causal Foundation Models with Partial Graphs](../conferences/icml-2026/cards/3801-3900.md#paper-reuter26a)
+- <a id="rezk26a-theory-statistics"></a>[Weight-Space Learning for Certifiable Few-shot Transfer Learning](../conferences/icml-2026/cards/3801-3900.md#paper-rezk26a)
+- <a id="ricci26a-theory-statistics"></a>[A Fourier perspective on the learning dynamics of neural networks: from sample complexities to mechanistic insights](../conferences/icml-2026/cards/3801-3900.md#paper-ricci26a)
+- <a id="riess26a-theory-statistics"></a>[Optimal conversion from Rényi Differential Privacy to $f$-Differential Privacy](../conferences/icml-2026/cards/3801-3900.md#paper-riess26a)
+- <a id="rodemann26a-theory-statistics"></a>[Performative Learning Theory](../conferences/icml-2026/cards/3801-3900.md#paper-rodemann26a)
+- <a id="rouyer26a-theory-statistics"></a>[Understanding the Gaps in Satisficing Bandits](../conferences/icml-2026/cards/3801-3900.md#paper-rouyer26a)
+- <a id="ruan26d-theory-statistics"></a>[Language Model Augmented Semi-Supervised Statistical Inference](../conferences/icml-2026/cards/3801-3900.md#paper-ruan26d)
+- <a id="rubacher26a-theory-statistics"></a>[Attention Implements the Fisher Geometry of Exponential Families](../conferences/icml-2026/cards/3901-4000.md#paper-rubacher26a)
+- <a id="rubinstein26a-theory-statistics"></a>[On the Accuracy of Newton Step and Influence Function Data Attributions](../conferences/icml-2026/cards/3901-4000.md#paper-rubinstein26a)
+- <a id="rugamer26a-theory-statistics"></a>[On the Epistemic Uncertainty of Overparametrized Neural Networks](../conferences/icml-2026/cards/3901-4000.md#paper-rugamer26a)
+- <a id="rundel26a-theory-statistics"></a>[$\textttShaplEIG$: Bayesian Experimental Design for Shapley Value Estimation](../conferences/icml-2026/cards/3901-4000.md#paper-rundel26a)
+- <a id="saad-falcon26a-theory-statistics"></a>[Global Convergence of Adaptive Sensing for Principal Eigenvector Estimation](../conferences/icml-2026/cards/3901-4000.md#paper-saad-falcon26a)
+- <a id="sadi26a-theory-statistics"></a>[Welfare-Optimal Classification with Accuracy Auctions](../conferences/icml-2026/cards/3901-4000.md#paper-sadi26a)
 <!-- classification:end -->

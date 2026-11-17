@@ -67,6 +67,7 @@
 - <a id="mohammed26a-architecture"></a>[GEM-FI: Gated Evidential Mixtures with Fisher Modulation](../conferences/icml-2026/cards/3301-3400.md#paper-mohammed26a)
 - <a id="qiu26m-architecture"></a>[Learning Global Representation from Queries for Vectorized HD Map Construction](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26m)
 - <a id="ran26d-architecture"></a>[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](../conferences/icml-2026/cards/3801-3900.md#paper-ran26d)
+- <a id="ren26j-architecture"></a>[Scalable Event Cloud Network for Event-based Classification](../conferences/icml-2026/cards/3801-3900.md#paper-ren26j)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -240,6 +241,9 @@
 - <a id="qian26j-training-strategies"></a>[Selective Coupling of Decoupled Informative Regions: Masked Attention Alignment for Data-Free Quantization of Vision Transformers](../conferences/icml-2026/cards/3701-3800.md#paper-qian26j)
 - <a id="qin26k-training-strategies"></a>[GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures](../conferences/icml-2026/cards/3701-3800.md#paper-qin26k)
 - <a id="rebuffi26a-training-strategies"></a>[Learning to Watermark in the Latent Space of Generative Models](../conferences/icml-2026/cards/3801-3900.md#paper-rebuffi26a)
+- <a id="ren26i-training-strategies"></a>[MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement](../conferences/icml-2026/cards/3801-3900.md#paper-ren26i)
+- <a id="rinaldi26a-training-strategies"></a>[Transporting Task Vectors across Different Architectures without Training](../conferences/icml-2026/cards/3801-3900.md#paper-rinaldi26a)
+- <a id="safarov26a-training-strategies"></a>[Memory-Distilled Selection for Noise-Robust Anomaly Detection](../conferences/icml-2026/cards/3901-4000.md#paper-safarov26a)
 
 <a id="by-data-strategies"></a>
 

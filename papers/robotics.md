@@ -89,6 +89,7 @@
 - <a id="patil26a-reinforcement-learning"></a>[OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](../conferences/icml-2026/cards/3601-3700.md#paper-patil26a)
 - <a id="pranger26a-reinforcement-learning"></a>[Efficient and Safe Molecular Assembly via Reinforcement Learning and Constraint Solving](../conferences/icml-2026/cards/3601-3700.md#paper-pranger26a)
 - <a id="qiao26f-reinforcement-learning"></a>[Focus-Then-Contact: Speeding Up Robotic Contact-Rich Task Learning with Affordance-Guided Real-World Residual Reinforcement Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qiao26f)
+- <a id="ruan26c-reinforcement-learning"></a>[ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving](../conferences/icml-2026/cards/3801-3900.md#paper-ruan26c)
 
 <a id="by-training-strategies"></a>
 

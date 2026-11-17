@@ -217,6 +217,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="qiu26o-optimization"></a>[POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26o)
 - <a id="ran26a-optimization"></a>[MCCE: A Framework for Multi-LLM Collaborative Search in Discrete Spaces with Similarity-Filtered Preference Learning](../../conferences/icml-2026/cards/3801-3900.md#paper-ran26a)
 - <a id="ran26b-optimization"></a>[KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits](../../conferences/icml-2026/cards/3801-3900.md#paper-ran26b)
+- <a id="ren26l-optimization"></a>[POLCA: Stochastic Generative Optimization with LLM](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26l)
+- <a id="riabinin26a-optimization"></a>[From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs](../../conferences/icml-2026/cards/3801-3900.md#paper-riabinin26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -362,6 +364,10 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="rad26a-reinforcement-learning"></a>[G$^2$RPO: Geometric GRPO Escaping LLMs’ Reasoning Ruts to Break the Accuracy–Entropy Trade-off](../../conferences/icml-2026/cards/3701-3800.md#paper-rad26a)
 - <a id="ramesh26b-reinforcement-learning"></a>[Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](../../conferences/icml-2026/cards/3801-3900.md#paper-ramesh26b)
 - <a id="ren26c-reinforcement-learning"></a>[Unbiased Principles, Robust Rewards](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26c)
+- <a id="ren26o-reinforcement-learning"></a>[More Sail than Ballast: Addressing Harmful Knowledge Leakage in the Expansive Reasoning Space of LRMs](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26o)
+- <a id="ren26s-reinforcement-learning"></a>[Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26s)
+- <a id="ren26u-reinforcement-learning"></a>[When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM’s Adaptive Reasoning](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26u)
+- <a id="rezaei26a-reinforcement-learning"></a>[Online Rubrics Elicitation from Pairwise Comparisons](../../conferences/icml-2026/cards/3801-3900.md#paper-rezaei26a)
 
 <a id="by-training-strategies"></a>
 
@@ -469,6 +475,11 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="penaloza26a-training-strategies"></a>[Privileged Information Distillation for Language Models](../../conferences/icml-2026/cards/3601-3700.md#paper-penaloza26a)
 - <a id="peng26l-training-strategies"></a>[PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26l)
 - <a id="qiu26w-training-strategies"></a>[Less Is More in Federated Continual Learning: RieSelect for Conflict-Aware Layer Selection in LLMs](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26w)
+- <a id="ren26n-training-strategies"></a>[FedSDR: Federated Self-Distillation with Rectification](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26n)
+- <a id="ren26t-training-strategies"></a>[Edit-Based Refinement for Parallel Masked Diffusion Language Models](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26t)
+- <a id="roland26a-training-strategies"></a>[Modular Pretraining Enables Access Control](../../conferences/icml-2026/cards/3801-3900.md#paper-roland26a)
+- <a id="runwal26a-training-strategies"></a>[PRISM: Demystifying Retention and Interaction in Mid-Training](../../conferences/icml-2026/cards/3901-4000.md#paper-runwal26a)
+- <a id="ryd26a-training-strategies"></a>[Removing Sandbagging in LLMs by Training with Weak Supervision](../../conferences/icml-2026/cards/3901-4000.md#paper-ryd26a)
 
 <a id="by-data-strategies"></a>
 
@@ -533,6 +544,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="pinto26a-data-strategies"></a>[Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](../../conferences/icml-2026/cards/3601-3700.md#paper-pinto26a)
 - <a id="qian26l-data-strategies"></a>[The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26l)
 - <a id="qu26f-data-strategies"></a>[Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26f)
+- <a id="rosenblatt26a-data-strategies"></a>[Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data](../../conferences/icml-2026/cards/3801-3900.md#paper-rosenblatt26a)
 
 <a id="by-inference"></a>
 
@@ -801,6 +813,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="rauba26a-inference"></a>[No More, No Less: Least-Privilege Language Models](../../conferences/icml-2026/cards/3801-3900.md#paper-rauba26a)
 - <a id="reddy26a-inference"></a>[The Hidden Cost of Structured Generation in LLMs: Draft-Conditioned Constrained Decoding](../../conferences/icml-2026/cards/3801-3900.md#paper-reddy26a)
 - <a id="ren26d-inference"></a>[Towards Reliable Marking and Verification of AI-Generated Text via Geometry-aware Sentence-level Watermarking](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26d)
+- <a id="requena26a-inference"></a>[A Minimal Agent for Automated Theorem Proving](../../conferences/icml-2026/cards/3801-3900.md#paper-requena26a)
+- <a id="ruan26a-inference"></a>[Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](../../conferences/icml-2026/cards/3801-3900.md#paper-ruan26a)
+- <a id="ruan26e-inference"></a>[AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration](../../conferences/icml-2026/cards/3901-4000.md#paper-ruan26e)
 
 <a id="by-representation-learning"></a>
 
@@ -1112,6 +1127,11 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="rank26a-evaluation"></a>[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](../../conferences/icml-2026/cards/3801-3900.md#paper-rank26a)
 - <a id="reisizadeh26a-evaluation"></a>[Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding](../../conferences/icml-2026/cards/3801-3900.md#paper-reisizadeh26a)
 - <a id="remeli26a-evaluation"></a>[Correct Looks Better: Pairwise Comparisons Reveal Accuracy Rankings](../../conferences/icml-2026/cards/3801-3900.md#paper-remeli26a)
+- <a id="ren26p-evaluation"></a>[Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26p)
+- <a id="ricco26a-evaluation"></a>[A Geometric Analysis of Small-sized Language Model Hallucinations](../../conferences/icml-2026/cards/3801-3900.md#paper-ricco26a)
+- <a id="rodionov26a-evaluation"></a>[FloorplanQA: A Benchmark for Spatial Reasoning in LLMs using Structured Representations](../../conferences/icml-2026/cards/3801-3900.md#paper-rodionov26a)
+- <a id="roytburg26a-evaluation"></a>[Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations](../../conferences/icml-2026/cards/3801-3900.md#paper-roytburg26a)
+- <a id="saakyan26a-evaluation"></a>[Quantifying the Salience of Geo-Cultural Values for Pluralistic Safety Alignment](../../conferences/icml-2026/cards/3901-4000.md#paper-saakyan26a)
 
 <a id="by-theory-statistics"></a>
 

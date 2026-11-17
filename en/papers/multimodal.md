@@ -162,6 +162,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="pan26b-reinforcement-learning"></a>[Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26b)
 - <a id="qi26g-reinforcement-learning"></a>[CACR: Reinforcing Temporal Answer Grounding in Instructional Video via Candidate-Aware Causal Reasoning](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26g)
 - <a id="ren26b-reinforcement-learning"></a>[iGRPO: Fast Online RL for Flow Matching Model with Instant Reward](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26b)
+- <a id="ren26f-reinforcement-learning"></a>[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26f)
 
 <a id="by-training-strategies"></a>
 
@@ -212,6 +213,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="park26m-training-strategies"></a>[V-LynX: Token Interface Alignment for Video+X LLMs](../../conferences/icml-2026/cards/3501-3600.md#paper-park26m)
 - <a id="peng26j-training-strategies"></a>[IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26j)
 - <a id="peng26n-training-strategies"></a>[SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26n)
+- <a id="ren26r-training-strategies"></a>[FedSSM: State Space Model-based Proactive Inference for Heterogeneous Multimodal Federated Learning](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26r)
+- <a id="sabolic26a-training-strategies"></a>[BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks](../../conferences/icml-2026/cards/3901-4000.md#paper-sabolic26a)
 
 <a id="by-data-strategies"></a>
 
@@ -241,6 +244,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26ag-data-strategies"></a>[TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ag)
 - <a id="mao26f-data-strategies"></a>[TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26f)
 - <a id="naharas26a-data-strategies"></a>[Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../../conferences/icml-2026/cards/3401-3500.md#paper-naharas26a)
+- <a id="ryan26a-data-strategies"></a>[Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-ryan26a)
 
 <a id="by-inference"></a>
 
@@ -327,6 +331,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="qin26d-inference"></a>[VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models](../../conferences/icml-2026/cards/3701-3800.md#paper-qin26d)
 - <a id="qiu26i-inference"></a>[ReasonEdit: Editing Vision–Language Models using Human Reasoning](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26i)
 - <a id="qiu26v-inference"></a>[VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26v)
+- <a id="rout26a-inference"></a>[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../../conferences/icml-2026/cards/3801-3900.md#paper-rout26a)
 
 <a id="by-representation-learning"></a>
 
@@ -372,6 +377,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="popov26a-representation-learning"></a>[Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech](../../conferences/icml-2026/cards/3601-3700.md#paper-popov26a)
 - <a id="qi26l-representation-learning"></a>[FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification](../../conferences/icml-2026/cards/3701-3800.md#paper-qi26l)
 - <a id="qian26a-representation-learning"></a>[BEAT: Tokenizing and Generating Symbolic Music by Uniform Temporal Steps](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26a)
+- <a id="roschmann26a-representation-learning"></a>[SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](../../conferences/icml-2026/cards/3801-3900.md#paper-roschmann26a)
 
 <a id="by-evaluation"></a>
 
@@ -459,6 +465,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="qu26h-evaluation"></a>[Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26h)
 - <a id="rajgarhia26a-evaluation"></a>[MedMosaic: A Challenging Large Scale Benchmark of Diverse Medical Audio](../../conferences/icml-2026/cards/3801-3900.md#paper-rajgarhia26a)
 - <a id="ray26a-evaluation"></a>[$τ$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](../../conferences/icml-2026/cards/3801-3900.md#paper-ray26a)
+- <a id="roberts26a-evaluation"></a>[ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models](../../conferences/icml-2026/cards/3801-3900.md#paper-roberts26a)
 
 <a id="by-theory-statistics"></a>
 

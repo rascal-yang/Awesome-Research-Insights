@@ -152,6 +152,11 @@
 - [可达策略渐近最优](../conferences/icml-2026/cards/3501-3600.md#palasamudram26a-theory-statistics) · Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality
 - [按正违例自适应惩罚的策略优化](../conferences/icml-2026/cards/3601-3700.md#peng26o-theory-statistics) · Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL
 - [Thompson 采样的平方遗憾解释](../conferences/icml-2026/cards/3701-3800.md#qu26d-theory-statistics) · What Does Thompson Sampling Optimize?
+- [未知奖励下的策略覆盖与样本复杂度](../conferences/icml-2026/cards/3801-3900.md#ridel26a-theory-statistics) · Improved Bounds for Reward-Agnostic and Reward-Free Exploration
+- [无模型稳健平均奖励的偏差消除](../conferences/icml-2026/cards/3801-3900.md#roch26a-theory-statistics) · Model-Free Robust Average-Reward Reinforcement Learning with Sample Complexity Analysis
+- [分布稳健平均奖励博弈的纳什均衡](../conferences/icml-2026/cards/3801-3900.md#roch26b-theory-statistics) · Distributionally Robust Markov Games with Average Reward
+- [成功轨迹模仿的自适应信赖域](../conferences/icml-2026/cards/3901-4000.md#russo26a-theory-statistics) · Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success
+- [动作触发观测间的开环序列价值](../conferences/icml-2026/cards/3901-4000.md#ryabchenko26a-theory-statistics) · Reinforcement Learning with Action-Triggered Observations
 
 <a id="by-robotics"></a>
 
@@ -546,6 +551,22 @@
 - [把树路径用作流条件和蒸馏监督](../conferences/icml-2026/cards/3801-3900.md#ramachandran26a-theory-statistics) · Trees to Flows and Back: Unifying Decision Trees and Diffusion Models
 - [以分片定价限制单方改价收益](../conferences/icml-2026/cards/3801-3900.md#ray-chaudhury26a-theory-statistics) · Equilibrium Pricing in Oligopolistic Data Markets
 - [按协变量特征压缩处理和对照流](../conferences/icml-2026/cards/3801-3900.md#ren26e-theory-statistics) · Streaming Covariate Balancing via Discrepancy-Based Feature Coresets
+- [在固定窄宽度下用链环数检验网络解缠能力](../conferences/icml-2026/cards/3801-3900.md#ren26g-theory-statistics) · Low-dimensional topology of deep neural networks
+- [对齐客户端边际后堆叠依赖信号做联邦检验](../conferences/icml-2026/cards/3801-3900.md#ren26h-theory-statistics) · Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients
+- [把跨群体的共享回归和群组偏移分两阶段学习](../conferences/icml-2026/cards/3801-3900.md#ren26k-theory-statistics) · Transfer Learning in Nonparametric Regression with Deep ReLU Networks
+- [把完整或部分祖先关系作为因果模型的注意力偏置](../conferences/icml-2026/cards/3801-3900.md#reuter26a-theory-statistics) · Use What You Know: Causal Foundation Models with Partial Graphs
+- [从有限的生成式适配器候选中选择并认证少样本迁移](../conferences/icml-2026/cards/3801-3900.md#rezk26a-theory-statistics) · Weight-Space Learning for Certifiable Few-shot Transfer Learning
+- [用可控傅里叶幅度和相位拆解视觉学习简洁偏好](../conferences/icml-2026/cards/3801-3900.md#ricci26a-theory-statistics) · A Fourier perspective on the learning dynamics of neural networks: from sample complexities to mechanistic insights
+- [Rényi 多阶隐私轮廓的最紧转换](../conferences/icml-2026/cards/3801-3900.md#riess26a-theory-statistics) · Optimal conversion from Rényi Differential Privacy to $f$-Differential Privacy
+- [预测反馈引起的数据分布泛化界](../conferences/icml-2026/cards/3801-3900.md#rodemann26a-theory-statistics) · Performative Learning Theory
+- [按未确认达标的轮数激励探索](../conferences/icml-2026/cards/3801-3900.md#rouyer26a-theory-statistics) · Understanding the Gaps in Satisficing Bandits
+- [只在预测不变区域借用额外协变量](../conferences/icml-2026/cards/3801-3900.md#ruan26d-theory-statistics) · Language Model Augmented Semi-Supervised Statistical Inference
+- [用局部曲率决定注意力度量](../conferences/icml-2026/cards/3901-4000.md#rubacher26a-theory-statistics) · Attention Implements the Fisher Geometry of Exponential Families
+- [用删后数据曲率修正归因近似](../conferences/icml-2026/cards/3901-4000.md#rubinstein26a-theory-statistics) · On the Accuracy of Newton Step and Influence Function Data Attributions
+- [过参数神经网络的残余认知不确定性](../conferences/icml-2026/cards/3901-4000.md#rugamer26a-theory-statistics) · On the Epistemic Uncertainty of Overparametrized Neural Networks
+- [面向 Shapley 估计的信息增益选联盟](../conferences/icml-2026/cards/3901-4000.md#rundel26a-theory-statistics) · $\textttShaplEIG$: Bayesian Experimental Design for Shapley Value Estimation
+- [双标量感知兼顾当前估计与正交探索](../conferences/icml-2026/cards/3901-4000.md#saad-falcon26a-theory-statistics) · Global Convergence of Adaptive Sensing for Principal Eigenvector Estimation
+- [用单调学习分配的临界出价定价](../conferences/icml-2026/cards/3901-4000.md#sadi26a-theory-statistics) · Welfare-Optimal Classification with Accuracy Auctions
 
 <a id="by-graph-and-recommendation"></a>
 

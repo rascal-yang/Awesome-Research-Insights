@@ -276,6 +276,9 @@
 - [用嵌套秩按请求分配内部计算](../conferences/icml-2026/cards/3801-3900.md#rauba26a-inference) · No More, No Less: Least-Privilege Language Models
 - [先生成草稿再施加结构硬约束](../conferences/icml-2026/cards/3801-3900.md#reddy26a-inference) · The Hidden Cost of Structured Generation in LLMs: Draft-Conditioned Constrained Decoding
 - [按句向量残差重划水印接受区](../conferences/icml-2026/cards/3801-3900.md#ren26d-inference) · Towards Reliable Marking and Verification of AI-Generated Text via Geometry-aware Sentence-level Watermarking
+- [通过 Lean 反馈反复缩小形式证明的错误面](../conferences/icml-2026/cards/3801-3900.md#requena26a-inference) · A Minimal Agent for Automated Theorem Proving
+- [扰动并重建响应来选扩散推理](../conferences/icml-2026/cards/3801-3900.md#ruan26a-inference) · Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models
+- [按子任务生成执行器并筛选上下文](../conferences/icml-2026/cards/3901-4000.md#ruan26e-inference) · AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration
 
 <a id="by-computer-vision"></a>
 
@@ -525,6 +528,7 @@
 - [用路由亲和度校准专家误差](../conferences/icml-2026/cards/3701-3800.md#qin26d-inference) · VEQ: Modality-Adaptive Quantization for MoE Vision-Language Models
 - [用拓扑平衡检索把人工推理写入视觉语言编辑](../conferences/icml-2026/cards/3701-3800.md#qiu26i-inference) · ReasonEdit: Editing Vision–Language Models using Human Reasoning
 - [让长视频规划与最终答题证据权限分离](../conferences/icml-2026/cards/3701-3800.md#qiu26v-inference) · VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority
+- [在离散去噪中先解码可靠锚点](../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · Test-Time Anchoring for Discrete Diffusion Posterior Sampling
 
 <a id="by-ml-foundations"></a>
 
@@ -568,6 +572,9 @@
 - [以边际增益组装异常检测器](../conferences/icml-2026/cards/3601-3700.md#phan26a-inference) · Automatic Unsupervised Ensemble Outlier Model Selection
 - [用层内注意力和跨层冗余筛选时序模型关键层](../conferences/icml-2026/cards/3701-3800.md#qiu26q-inference) · Revealing Scaling Paradox in Large-scale Time Series Models: Implications for More Efficient and Accurate Forecasting
 - [流匹配模型的免训练条件采样](../conferences/icml-2026/cards/3701-3800.md#qu26c-inference) · TFTF: Training-Free Targeted Flow for Conditional Sampling
+- [用能量误差校准无接受检验的采样](../conferences/icml-2026/cards/3801-3900.md#robnik26a-inference) · Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test
+- [在离散生成中蒸馏连续单纯形大步](../conferences/icml-2026/cards/3801-3900.md#roos26a-inference) · Categorical Flow Maps
+- [仿真错设下的两层后验校准](../conferences/icml-2026/cards/3901-4000.md#ruhlmann26a-inference) · Flow Matching Calibration for Simulation-Based Inference under Model Misspecification
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -626,4 +633,6 @@
 - [稀疏观测双引导同化](../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation
 - [在后验流中按似然重采样](../conferences/icml-2026/cards/3701-3800.md#qin26j-inference) · FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation
 - [在部分分子构象上提前校正采样](../conferences/icml-2026/cards/3801-3900.md#rehman26a-inference) · Autoregressive Boltzmann Generators
+- [以已知接触位点排序新蛋白互作](../conferences/icml-2026/cards/3901-4000.md#russo26b-inference) · PPI Candidate Ranking: Large-Scale Evaluation of a Domain Knowledge–Guided Pipeline
+- [用重采样一致性校正受扰观测](../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · Training-Free Adversarial Robustness in Computational MRI
 <!-- classification:end -->

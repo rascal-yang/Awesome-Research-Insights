@@ -175,6 +175,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="qiao26d-reinforcement-learning"></a>[Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26d)
 - <a id="rafieioskouei26a-reinforcement-learning"></a>[HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation](../../conferences/icml-2026/cards/3701-3800.md#paper-rafieioskouei26a)
 - <a id="rashwan26a-reinforcement-learning"></a>[Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#paper-rashwan26a)
+- <a id="ruhdorfer26a-reinforcement-learning"></a>[Unsupervised Partner Design Enables Robust Ad-hoc Teamwork](../../conferences/icml-2026/cards/3901-4000.md#paper-ruhdorfer26a)
 
 <a id="by-training-strategies"></a>
 
@@ -227,6 +228,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lyu26f-representation-learning"></a>[Debiased Model-based Representations for Sample-efficient Continuous Control](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26f)
 - <a id="pasand26a-representation-learning"></a>[Stable Deep Reinforcement Learning via Isotropic Gaussian Representations](../../conferences/icml-2026/cards/3601-3700.md#paper-pasand26a)
 - <a id="qian26o-representation-learning"></a>[Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26o)
+- <a id="roh26a-representation-learning"></a>[PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#paper-roh26a)
 
 <a id="by-evaluation"></a>
 
@@ -313,4 +315,9 @@ Learning from interaction, feedback, and offline experience.
 - <a id="palasamudram26a-theory-statistics"></a>[Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality](../../conferences/icml-2026/cards/3501-3600.md#paper-palasamudram26a)
 - <a id="peng26o-theory-statistics"></a>[Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26o)
 - <a id="qu26d-theory-statistics"></a>[What Does Thompson Sampling Optimize?](../../conferences/icml-2026/cards/3701-3800.md#paper-qu26d)
+- <a id="ridel26a-theory-statistics"></a>[Improved Bounds for Reward-Agnostic and Reward-Free Exploration](../../conferences/icml-2026/cards/3801-3900.md#paper-ridel26a)
+- <a id="roch26a-theory-statistics"></a>[Model-Free Robust Average-Reward Reinforcement Learning with Sample Complexity Analysis](../../conferences/icml-2026/cards/3801-3900.md#paper-roch26a)
+- <a id="roch26b-theory-statistics"></a>[Distributionally Robust Markov Games with Average Reward](../../conferences/icml-2026/cards/3801-3900.md#paper-roch26b)
+- <a id="russo26a-theory-statistics"></a>[Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success](../../conferences/icml-2026/cards/3901-4000.md#paper-russo26a)
+- <a id="ryabchenko26a-theory-statistics"></a>[Reinforcement Learning with Action-Triggered Observations](../../conferences/icml-2026/cards/3901-4000.md#paper-ryabchenko26a)
 <!-- classification:end -->
