@@ -292,6 +292,8 @@
 - [评测多轮惯性时控制话题结构与历史长度](../conferences/icml-2026/cards/4101-4200.md#simhi26a-evaluation) · Old Habits Die Hard: How Conversational History Geometrically Traps LLMs
 - [扩散骨干与长度外推的受控边界](../conferences/icml-2026/cards/4101-4200.md#singh26d-evaluation) · DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone
 - [steering副作用须跨维度测量](../conferences/icml-2026/cards/4101-4200.md#siu26a-evaluation) · SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives
+- [以可迁移后果验证推理](../conferences/icml-2026/cards/4201-4300.md#son26a-evaluation) · Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math
+- [文本智能体赋能估计及失败边界](../conferences/icml-2026/cards/4201-4300.md#song26g-evaluation) · Estimating the Empowerment of Language Model Agents
 
 <a id="by-computer-vision"></a>
 
@@ -533,6 +535,7 @@
 - [用随机区域统计比较条件分布](../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · MIRA: A Score for Conditional Distribution Accuracy and Model Comparison
 - [按模型互信息和阈值验证抽取后的所有权](../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks
 - [用集合覆盖率检查假遗忘](../conferences/icml-2026/cards/4101-4200.md#shi26j-evaluation) · Tackling Fake Forgetting through Uncertainty Quantification
+- [序关系表征对齐](../conferences/icml-2026/cards/4101-4200.md#soares26a-evaluation) · Scalable and Interpretable Representation Alignment with Ordinal Similarity
 
 <a id="by-graph-and-recommendation"></a>
 

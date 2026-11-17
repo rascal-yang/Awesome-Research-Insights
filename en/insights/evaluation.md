@@ -292,6 +292,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Old Habits Die Hard: How Conversational History Geometrically Traps LLMs](../../conferences/icml-2026/cards/4101-4200.md#simhi26a-evaluation) · 中文
 - [DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone](../../conferences/icml-2026/cards/4101-4200.md#singh26d-evaluation) · 中文
 - [SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives](../../conferences/icml-2026/cards/4101-4200.md#siu26a-evaluation) · 中文
+- [Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](../../conferences/icml-2026/cards/4201-4300.md#son26a-evaluation) · 中文
+- [Estimating the Empowerment of Language Model Agents](../../conferences/icml-2026/cards/4201-4300.md#song26g-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -533,6 +535,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../../conferences/icml-2026/cards/4001-4100.md#sharief26a-evaluation) · 中文
 - [CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#shen26b-evaluation) · 中文
 - [Tackling Fake Forgetting through Uncertainty Quantification](../../conferences/icml-2026/cards/4101-4200.md#shi26j-evaluation) · 中文
+- [Scalable and Interpretable Representation Alignment with Ordinal Similarity](../../conferences/icml-2026/cards/4101-4200.md#soares26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

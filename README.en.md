@@ -16,7 +16,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest screening · 2026-11-18** · [ICML 2026 · 4,190 / 6,552 screened · 3,950 included](conferences/icml-2026/README.md)
+**Latest screening · 2026-11-18** · [ICML 2026 · 4,210 / 6,552 screened · 3,967 included](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -24,17 +24,17 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 | Domain | Papers | Scope |
 | :--- | ---: | :--- |
-| <a id="large-language-models"></a>[Large Language Models](en/papers/llm.md) | 1147 | Language models, tool use, and agents. |
-| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | 430 | Recognition, visual representations, and generation. |
+| <a id="large-language-models"></a>[Large Language Models](en/papers/llm.md) | 1151 | Language models, tool use, and agents. |
+| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | 432 | Recognition, visual representations, and generation. |
 | <a id="natural-language-processing"></a>[Natural Language Processing](en/papers/nlp.md) | 75 | Language, speech, retrieval, and text processing. |
 | <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 267 | Sequential decisions, rewards, policy learning, and games. |
-| <a id="robotics"></a>[Robotics](en/papers/robotics.md) | 140 | Robot perception, policy learning, planning, and control. |
-| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 404 | Learning and reasoning across vision, text, audio, and other modalities. |
-| <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 954 | General learning methods, optimization, learning theory, and inference. |
+| <a id="robotics"></a>[Robotics](en/papers/robotics.md) | 141 | Robot perception, policy learning, planning, and control. |
+| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 405 | Learning and reasoning across vision, text, audio, and other modalities. |
+| <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 962 | General learning methods, optimization, learning theory, and inference. |
 | <a id="graph-and-recommendation"></a>[Graph Learning and Recommendation](en/papers/graph-and-recommendation.md) | 154 | Graph models, knowledge graphs, and recommender systems. |
-| <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 380 | Machine learning for physics, medicine, biology, and engineering. |
+| <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 381 | Machine learning for physics, medicine, biology, and engineering. |
 
-**3,951 papers · 3,952 mechanisms.**
+**3,968 papers · 3,969 mechanisms.**
 
 <a id="insights-by-technical-category"></a>
 
@@ -42,25 +42,25 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 | Technique | Mechanisms | Scope |
 | :--- | ---: | :--- |
-| <a id="architectures"></a>[Architectures](en/insights/architecture.md) | 355 | Model-wide design and information flow. |
-| <a id="computer-vision-modules"></a><a id="modules"></a><a id="modules-1"></a>[Modules](en/insights/modules.md) | 171 | Components, connections, and parameterizations. |
+| <a id="architectures"></a>[Architectures](en/insights/architecture.md) | 356 | Model-wide design and information flow. |
+| <a id="computer-vision-modules"></a><a id="modules"></a><a id="modules-1"></a>[Modules](en/insights/modules.md) | 172 | Components, connections, and parameterizations. |
 | <a id="loss-functions"></a>[Loss Functions](en/insights/loss-functions.md) | 170 | Objectives, auxiliary supervision, and regularization. |
-| <a id="optimization"></a>[Optimization](en/insights/optimization.md) | 391 | Gradient updates, solvers, and optimization dynamics. |
-| <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[Reinforcement Learning Methods](en/insights/reinforcement-learning.md) | 397 | Rewards, exploration, credit assignment, and policy updates. |
-| <a id="training-strategies"></a>[Training Strategies](en/insights/training-strategies.md) | 357 | Schedules, fine-tuning, distillation, and transfer. |
+| <a id="optimization"></a>[Optimization](en/insights/optimization.md) | 394 | Gradient updates, solvers, and optimization dynamics. |
+| <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[Reinforcement Learning Methods](en/insights/reinforcement-learning.md) | 398 | Rewards, exploration, credit assignment, and policy updates. |
+| <a id="training-strategies"></a>[Training Strategies](en/insights/training-strategies.md) | 359 | Schedules, fine-tuning, distillation, and transfer. |
 | <a id="data-strategies"></a>[Data Strategies](en/insights/data-strategies.md) | 162 | Data construction, selection, annotation, and sampling. |
-| <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 606 | Decoding, search, test-time adaptation, and efficient execution. |
+| <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 612 | Decoding, search, test-time adaptation, and efficient execution. |
 | [Representation Learning](en/insights/representation-learning.md) | 281 | Representation extraction, alignment, transfer, and disentanglement. |
-| [Evaluation and Diagnostics](en/insights/evaluation.md) | 528 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
+| [Evaluation and Diagnostics](en/insights/evaluation.md) | 531 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
 | [Theory and Statistics](en/insights/theory-statistics.md) | 534 | Learning guarantees, counterexamples, estimation, and statistical tests. |
 
 ## Recent Updates
 
+- **2026-11-18** · Screened ICML 2026 papers 4190–4209 and updated the indexes.
+
 - **2026-11-18** · Screened ICML 2026 papers 4170–4189 and updated the indexes.
 
 - **2026-11-18** · Screened ICML 2026 papers 4150–4169 and updated the indexes.
-
-- **2026-11-18** · Screened ICML 2026 papers 4127 and updated the indexes.
 
 <a id="icml-2026-first-batch"></a>
 

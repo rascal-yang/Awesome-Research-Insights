@@ -165,6 +165,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="pfaff26a-inference"></a>[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](../../conferences/icml-2026/cards/3601-3700.md#paper-pfaff26a)
 - <a id="ren26a-inference"></a>[Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26a)
 - <a id="shen26ab-inference"></a>[Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26ab)
+- <a id="song26e-inference"></a>[EnsembleVLA: Ensemble Learning for Vision-Language Action Models](../../conferences/icml-2026/cards/4201-4300.md#paper-song26e)
 
 <a id="by-representation-learning"></a>
 

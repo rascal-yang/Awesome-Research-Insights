@@ -296,6 +296,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#shi26af-inference) · 中文
 - [V1: Unifying Generation and Self-Verification for Parallel Reasoners](../../conferences/icml-2026/cards/4101-4200.md#singh26b-inference) · 中文
 - [Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](../../conferences/icml-2026/cards/4101-4200.md#skifstad26a-inference) · 中文
+- [Process Reward Agents for Steering Knowledge-Intensive Reasoning](../../conferences/icml-2026/cards/4101-4200.md#sohn26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -395,6 +396,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing](../../conferences/icml-2026/cards/4001-4100.md#shan26d-inference) · 中文
 - [Fast and Scalable Analytical Diffusion](../../conferences/icml-2026/cards/4001-4100.md#shang26d-inference) · 中文
 - [Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping](../../conferences/icml-2026/cards/4101-4200.md#shin26b-inference) · 中文
+- [Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation](../../conferences/icml-2026/cards/4101-4200.md#so26a-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -467,6 +469,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](../../conferences/icml-2026/cards/3601-3700.md#pfaff26a-inference) · 中文
 - [Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control](../../conferences/icml-2026/cards/3801-3900.md#ren26a-inference) · 中文
 - [Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](../../conferences/icml-2026/cards/4001-4100.md#shen26ab-inference) · 中文
+- [EnsembleVLA: Ensemble Learning for Vision-Language Action Models](../../conferences/icml-2026/cards/4201-4300.md#song26e-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -555,6 +558,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · 中文
 - [DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · 中文
 - [Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · 中文
+- [When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation](../../conferences/icml-2026/cards/4201-4300.md#song26d-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -603,6 +607,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Flow Matching Calibration for Simulation-Based Inference under Model Misspecification](../../conferences/icml-2026/cards/3901-4000.md#ruhlmann26a-inference) · 中文
 - [WildCat: Near-Linear Attention in Theory and Practice](../../conferences/icml-2026/cards/3901-4000.md#schroder26a-inference) · 中文
 - [Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees](../../conferences/icml-2026/cards/4101-4200.md#silveri26a-inference) · 中文
+- [CountsDiff: A diffusion model on the natural numbers for generation and imputation of count-based data](../../conferences/icml-2026/cards/4101-4200.md#soatto26a-inference) · 中文
+- [Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?](../../conferences/icml-2026/cards/4201-4300.md#sommer26a-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

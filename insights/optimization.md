@@ -119,6 +119,7 @@
 - [沿预测敏感方向补偿量化误差](../conferences/icml-2026/cards/3101-3200.md#lv26j-optimization) · SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization
 - [残差网格反解 CAD](../conferences/icml-2026/cards/3401-3500.md#nehme26a-optimization) · CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization
 - [用置信和梯度共同限学习率](../conferences/icml-2026/cards/4001-4100.md#shaoran26a-optimization) · CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation
+- [部分几何能量场与梯度隔离](../conferences/icml-2026/cards/4201-4300.md#song26b-optimization) · EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors
 
 <a id="by-nlp"></a>
 
@@ -383,6 +384,8 @@
 - [按梯度噪声的状态依赖性联合调批量和动量](../conferences/icml-2026/cards/4101-4200.md#shulgin26a-optimization) · General Analysis of LMO-based Optimizers: Beyond Bounded Variance
 - [缩小动量梯度差修正需要权衡剩余误差](../conferences/icml-2026/cards/4101-4200.md#shulgin26b-optimization) · Understanding MARS: When Scaling Momentum Correction Provably Helps
 - [分解bandit协调昂贵设计搜索](../conferences/icml-2026/cards/4101-4200.md#singh26h-optimization) · Divide and Learn: Multi-Objective Combinatorial Optimization at Scale
+- [锚定双时间尺度乐观更新](../conferences/icml-2026/cards/4101-4200.md#sohrabi26a-optimization) · Accelerated and Stable Convergence with Anchored Generalized Optimistic Method
+- [解耦谱方向与方差适应](../conferences/icml-2026/cards/4201-4300.md#song26a-optimization) · Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

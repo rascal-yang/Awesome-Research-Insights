@@ -270,6 +270,7 @@
 - [混合连续序列的终止校准](../conferences/icml-2026/cards/4101-4200.md#shin26a-architecture) · Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts
 - [观测频带编码与扩展查询](../conferences/icml-2026/cards/4101-4200.md#shin26c-architecture) · Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration
 - [让几何路由与概率电路分解对齐](../conferences/icml-2026/cards/4101-4200.md#sidheekh26a-architecture) · Geometry-Aware Probabilistic Circuits via Voronoi Tessellations
+- [小波局部记忆SSM](../conferences/icml-2026/cards/4101-4200.md#solozabal26a-architecture) · WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention
 
 <a id="by-graph-and-recommendation"></a>
 

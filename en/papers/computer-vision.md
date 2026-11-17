@@ -170,6 +170,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lv26j-optimization"></a>[SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26j)
 - <a id="nehme26a-optimization"></a>[CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization](../../conferences/icml-2026/cards/3401-3500.md#paper-nehme26a)
 - <a id="shaoran26a-optimization"></a>[CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation](../../conferences/icml-2026/cards/4001-4100.md#paper-shaoran26a)
+- <a id="song26b-optimization"></a>[EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](../../conferences/icml-2026/cards/4201-4300.md#paper-song26b)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -376,6 +377,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="shan26d-inference"></a>[T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing](../../conferences/icml-2026/cards/4001-4100.md#paper-shan26d)
 - <a id="shang26d-inference"></a>[Fast and Scalable Analytical Diffusion](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26d)
 - <a id="shin26b-inference"></a>[Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping](../../conferences/icml-2026/cards/4101-4200.md#paper-shin26b)
+- <a id="so26a-inference"></a>[Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation](../../conferences/icml-2026/cards/4101-4200.md#paper-so26a)
 
 <a id="by-representation-learning"></a>
 

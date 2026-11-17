@@ -194,6 +194,7 @@ Reusable components and local changes to model inputs or connections.
 - [DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers](../../conferences/icml-2026/cards/3501-3600.md#pal26a-modules) · 中文
 - [Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data](../../conferences/icml-2026/cards/3601-3700.md#pertigkiozoglou26a-modules) · 中文
 - [RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models](../../conferences/icml-2026/cards/4101-4200.md#slupinski26a-modules) · 中文
+- [TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](../../conferences/icml-2026/cards/4101-4200.md#soegeng26a-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

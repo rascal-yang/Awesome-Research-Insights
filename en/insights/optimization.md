@@ -119,6 +119,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization](../../conferences/icml-2026/cards/3101-3200.md#lv26j-optimization) · 中文
 - [CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization](../../conferences/icml-2026/cards/3401-3500.md#nehme26a-optimization) · 中文
 - [CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation](../../conferences/icml-2026/cards/4001-4100.md#shaoran26a-optimization) · 中文
+- [EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](../../conferences/icml-2026/cards/4201-4300.md#song26b-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -383,6 +384,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [General Analysis of LMO-based Optimizers: Beyond Bounded Variance](../../conferences/icml-2026/cards/4101-4200.md#shulgin26a-optimization) · 中文
 - [Understanding MARS: When Scaling Momentum Correction Provably Helps](../../conferences/icml-2026/cards/4101-4200.md#shulgin26b-optimization) · 中文
 - [Divide and Learn: Multi-Objective Combinatorial Optimization at Scale](../../conferences/icml-2026/cards/4101-4200.md#singh26h-optimization) · 中文
+- [Accelerated and Stable Convergence with Anchored Generalized Optimistic Method](../../conferences/icml-2026/cards/4101-4200.md#sohrabi26a-optimization) · 中文
+- [Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization](../../conferences/icml-2026/cards/4201-4300.md#song26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

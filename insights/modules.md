@@ -194,6 +194,7 @@
 - [以可微析取投影嵌入硬规则](../conferences/icml-2026/cards/3501-3600.md#pal26a-modules) · DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers
 - [按中间分布调节等变](../conferences/icml-2026/cards/3601-3700.md#pertigkiozoglou26a-modules) · Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data
 - [用观察值调节显式状态时长](../conferences/icml-2026/cards/4101-4200.md#slupinski26a-modules) · RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models
+- [硬稀疏可微真值表](../conferences/icml-2026/cards/4101-4200.md#soegeng26a-modules) · TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables
 
 <a id="by-graph-and-recommendation"></a>
 

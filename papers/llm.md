@@ -377,6 +377,7 @@
 - <a id="shen26c-reinforcement-learning"></a>[From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs](../conferences/icml-2026/cards/4001-4100.md#paper-shen26c)
 - <a id="sheng26b-reinforcement-learning"></a>[When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](../conferences/icml-2026/cards/4001-4100.md#paper-sheng26b)
 - <a id="singh26c-reinforcement-learning"></a>[RL with Learnable Textual Feedback: A Bilevel Approach](../conferences/icml-2026/cards/4101-4200.md#paper-singh26c)
+- <a id="song26c-reinforcement-learning"></a>[Expanding the Capabilities of Reinforcement Learning via Text Feedback](../conferences/icml-2026/cards/4201-4300.md#paper-song26c)
 
 <a id="by-training-strategies"></a>
 
@@ -850,6 +851,7 @@
 - <a id="shi26af-inference"></a>[AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction](../conferences/icml-2026/cards/4101-4200.md#paper-shi26af)
 - <a id="singh26b-inference"></a>[V1: Unifying Generation and Self-Verification for Parallel Reasoners](../conferences/icml-2026/cards/4101-4200.md#paper-singh26b)
 - <a id="skifstad26a-inference"></a>[Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](../conferences/icml-2026/cards/4101-4200.md#paper-skifstad26a)
+- <a id="sohn26a-inference"></a>[Process Reward Agents for Steering Knowledge-Intensive Reasoning](../conferences/icml-2026/cards/4101-4200.md#paper-sohn26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1153,6 +1155,8 @@
 - <a id="simhi26a-evaluation"></a>[Old Habits Die Hard: How Conversational History Geometrically Traps LLMs](../conferences/icml-2026/cards/4101-4200.md#paper-simhi26a)
 - <a id="singh26d-evaluation"></a>[DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone](../conferences/icml-2026/cards/4101-4200.md#paper-singh26d)
 - <a id="siu26a-evaluation"></a>[SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives](../conferences/icml-2026/cards/4101-4200.md#paper-siu26a)
+- <a id="son26a-evaluation"></a>[Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](../conferences/icml-2026/cards/4201-4300.md#paper-son26a)
+- <a id="song26g-evaluation"></a>[Estimating the Empowerment of Language Model Agents](../conferences/icml-2026/cards/4201-4300.md#paper-song26g)
 
 <a id="by-theory-statistics"></a>
 

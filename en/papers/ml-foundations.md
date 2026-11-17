@@ -74,6 +74,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shin26a-architecture"></a>[Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts](../../conferences/icml-2026/cards/4101-4200.md#paper-shin26a)
 - <a id="shin26c-architecture"></a>[Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration](../../conferences/icml-2026/cards/4101-4200.md#paper-shin26c)
 - <a id="sidheekh26a-architecture"></a>[Geometry-Aware Probabilistic Circuits via Voronoi Tessellations](../../conferences/icml-2026/cards/4101-4200.md#paper-sidheekh26a)
+- <a id="solozabal26a-architecture"></a>[WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](../../conferences/icml-2026/cards/4101-4200.md#paper-solozabal26a)
 
 <a id="by-modules"></a>
 
@@ -122,6 +123,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="pal26a-modules"></a>[DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers](../../conferences/icml-2026/cards/3501-3600.md#paper-pal26a)
 - <a id="pertigkiozoglou26a-modules"></a>[Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data](../../conferences/icml-2026/cards/3601-3700.md#paper-pertigkiozoglou26a)
 - <a id="slupinski26a-modules"></a>[RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models](../../conferences/icml-2026/cards/4101-4200.md#paper-slupinski26a)
+- <a id="soegeng26a-modules"></a>[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](../../conferences/icml-2026/cards/4101-4200.md#paper-soegeng26a)
 
 <a id="by-loss-functions"></a>
 
@@ -391,6 +393,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shulgin26a-optimization"></a>[General Analysis of LMO-based Optimizers: Beyond Bounded Variance](../../conferences/icml-2026/cards/4101-4200.md#paper-shulgin26a)
 - <a id="shulgin26b-optimization"></a>[Understanding MARS: When Scaling Momentum Correction Provably Helps](../../conferences/icml-2026/cards/4101-4200.md#paper-shulgin26b)
 - <a id="singh26h-optimization"></a>[Divide and Learn: Multi-Objective Combinatorial Optimization at Scale](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26h)
+- <a id="sohrabi26a-optimization"></a>[Accelerated and Stable Convergence with Anchored Generalized Optimistic Method](../../conferences/icml-2026/cards/4101-4200.md#paper-sohrabi26a)
+- <a id="song26a-optimization"></a>[Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization](../../conferences/icml-2026/cards/4201-4300.md#paper-song26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -468,6 +472,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="shin26d-training-strategies"></a>[Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching](../../conferences/icml-2026/cards/4101-4200.md#paper-shin26d)
 - <a id="shlenskii26a-training-strategies"></a>[Overclocking Electrostatic Generative Models](../../conferences/icml-2026/cards/4101-4200.md#paper-shlenskii26a)
 - <a id="simon26a-training-strategies"></a>[On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](../../conferences/icml-2026/cards/4101-4200.md#paper-simon26a)
+- <a id="sommariva26a-training-strategies"></a>[Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic](../../conferences/icml-2026/cards/4101-4200.md#paper-sommariva26a)
 
 <a id="by-data-strategies"></a>
 
@@ -547,6 +552,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ruhlmann26a-inference"></a>[Flow Matching Calibration for Simulation-Based Inference under Model Misspecification](../../conferences/icml-2026/cards/3901-4000.md#paper-ruhlmann26a)
 - <a id="schroder26a-inference"></a>[WildCat: Near-Linear Attention in Theory and Practice](../../conferences/icml-2026/cards/3901-4000.md#paper-schroder26a)
 - <a id="silveri26a-inference"></a>[Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees](../../conferences/icml-2026/cards/4101-4200.md#paper-silveri26a)
+- <a id="soatto26a-inference"></a>[CountsDiff: A diffusion model on the natural numbers for generation and imputation of count-based data](../../conferences/icml-2026/cards/4101-4200.md#paper-soatto26a)
+- <a id="sommer26a-inference"></a>[Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?](../../conferences/icml-2026/cards/4201-4300.md#paper-sommer26a)
 
 <a id="by-representation-learning"></a>
 
@@ -657,6 +664,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="sharief26a-evaluation"></a>[MIRA: A Score for Conditional Distribution Accuracy and Model Comparison](../../conferences/icml-2026/cards/4001-4100.md#paper-sharief26a)
 - <a id="shen26b-evaluation"></a>[CREDIT: Certified Ownership Verification of Deep Neural Networks Against Model Extraction Attacks](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26b)
 - <a id="shi26j-evaluation"></a>[Tackling Fake Forgetting through Uncertainty Quantification](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26j)
+- <a id="soares26a-evaluation"></a>[Scalable and Interpretable Representation Alignment with Ordinal Similarity](../../conferences/icml-2026/cards/4101-4200.md#paper-soares26a)
 
 <a id="by-theory-statistics"></a>
 

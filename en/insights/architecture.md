@@ -270,6 +270,7 @@ Model-wide design and information flow.
 - [Infinite-Precision Autoregressive Modeling for Vector Graphics and Layouts](../../conferences/icml-2026/cards/4101-4200.md#shin26a-architecture) · 中文
 - [Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration](../../conferences/icml-2026/cards/4101-4200.md#shin26c-architecture) · 中文
 - [Geometry-Aware Probabilistic Circuits via Voronoi Tessellations](../../conferences/icml-2026/cards/4101-4200.md#sidheekh26a-architecture) · 中文
+- [WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](../../conferences/icml-2026/cards/4101-4200.md#solozabal26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

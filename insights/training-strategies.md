@@ -358,6 +358,7 @@
 - [先学数据到能量的生成耦合](../conferences/icml-2026/cards/4101-4200.md#shin26d-training-strategies) · Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching
 - [有限维泊松场蒸馏](../conferences/icml-2026/cards/4101-4200.md#shlenskii26a-training-strategies) · Overclocking Electrostatic Generative Models
 - [按均值偏移与有效秩诊断SAE特征死亡](../conferences/icml-2026/cards/4101-4200.md#simon26a-training-strategies) · On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders
+- [路径蒸馏任务算术](../conferences/icml-2026/cards/4101-4200.md#sommariva26a-training-strategies) · Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -410,4 +411,5 @@
 - [只用瞬时力学习大步长动力学](../conferences/icml-2026/cards/3801-3900.md#ripken26a-training-strategies) · Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics
 - [两阶段训练的概率天气预报](../conferences/icml-2026/cards/3901-4000.md#ruhling-cachay26a-training-strategies) · U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster
 - [用阴性对照稳定生物图像批归一化适配](../conferences/icml-2026/cards/3901-4000.md#sanchez-fernandez26a-training-strategies) · Stabilizing In-Context Multi-Source Domain Adaptation for Biomedical Images Through Controls
+- [采样与梯度分开定精度](../conferences/icml-2026/cards/4101-4200.md#solinas26a-training-strategies) · Neural Quantum States in Mixed Precision
 <!-- classification:end -->

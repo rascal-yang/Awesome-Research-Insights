@@ -263,6 +263,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ripken26a-training-strategies"></a>[Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](../../conferences/icml-2026/cards/3801-3900.md#paper-ripken26a)
 - <a id="ruhling-cachay26a-training-strategies"></a>[U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster](../../conferences/icml-2026/cards/3901-4000.md#paper-ruhling-cachay26a)
 - <a id="sanchez-fernandez26a-training-strategies"></a>[Stabilizing In-Context Multi-Source Domain Adaptation for Biomedical Images Through Controls](../../conferences/icml-2026/cards/3901-4000.md#paper-sanchez-fernandez26a)
+- <a id="solinas26a-training-strategies"></a>[Neural Quantum States in Mixed Precision](../../conferences/icml-2026/cards/4101-4200.md#paper-solinas26a)
 
 <a id="by-data-strategies"></a>
 

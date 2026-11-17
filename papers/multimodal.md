@@ -332,6 +332,7 @@
 - <a id="rout26a-inference"></a>[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](../conferences/icml-2026/cards/3801-3900.md#paper-rout26a)
 - <a id="seo26b-inference"></a>[DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../conferences/icml-2026/cards/3901-4000.md#paper-seo26b)
 - <a id="shen26y-inference"></a>[Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../conferences/icml-2026/cards/4001-4100.md#paper-shen26y)
+- <a id="song26d-inference"></a>[When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation](../conferences/icml-2026/cards/4201-4300.md#paper-song26d)
 
 <a id="by-representation-learning"></a>
 

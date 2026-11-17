@@ -296,6 +296,7 @@
 - [质量深宽联合工作流剪枝](../conferences/icml-2026/cards/4101-4200.md#shi26af-inference) · AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction
 - [覆盖与近平局配对验证](../conferences/icml-2026/cards/4101-4200.md#singh26b-inference) · V1: Unifying Generation and Self-Verification for Parallel Reasoners
 - [离线线性化与在线反馈steering](../conferences/icml-2026/cards/4101-4200.md#skifstad26a-inference) · Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control
+- [在线检索过程奖励](../conferences/icml-2026/cards/4101-4200.md#sohn26a-inference) · Process Reward Agents for Steering Knowledge-Intensive Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -395,6 +396,7 @@
 - [三轨迹锚定的免训练扩散编辑](../conferences/icml-2026/cards/4001-4100.md#shan26d-inference) · T-Edit: Triple-Branch Diffusion Anchoring for Consistent Editing
 - [依噪声分配检索预算的解析扩散](../conferences/icml-2026/cards/4001-4100.md#shang26d-inference) · Fast and Scalable Analytical Diffusion
 - [单边曲率的扩散逆问题校正](../conferences/icml-2026/cards/4101-4200.md#shin26b-inference) · Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping
+- [耦合自草稿采样](../conferences/icml-2026/cards/4101-4200.md#so26a-inference) · Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation
 
 <a id="by-nlp"></a>
 
@@ -467,6 +469,7 @@
 - [按资产可动性分流场景生成](../conferences/icml-2026/cards/3601-3700.md#pfaff26a-inference) · SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes
 - [沿灵敏度等值面引导扩散动作](../conferences/icml-2026/cards/3801-3900.md#ren26a-inference) · Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control
 - [让障碍布局先验约束语义地图补全](../conferences/icml-2026/cards/4001-4100.md#shen26ab-inference) · Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation
+- [生成策略场组合与有界修正](../conferences/icml-2026/cards/4201-4300.md#song26e-inference) · EnsembleVLA: Ensemble Learning for Vision-Language Action Models
 
 <a id="by-multimodal"></a>
 
@@ -555,6 +558,7 @@
 - [在离散去噪中先解码可靠锚点](../conferences/icml-2026/cards/3801-3900.md#rout26a-inference) · Test-Time Anchoring for Discrete Diffusion Posterior Sampling
 - [按逐层熵变选择视觉对比分支](../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models
 - [用固定频谱工作区推进视觉思考](../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning
+- [去噪置信波动定位幻觉](../conferences/icml-2026/cards/4201-4300.md#song26d-inference) · When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation
 
 <a id="by-ml-foundations"></a>
 
@@ -603,6 +607,8 @@
 - [仿真错设下的两层后验校准](../conferences/icml-2026/cards/3901-4000.md#ruhlmann26a-inference) · Flow Matching Calibration for Simulation-Based Inference under Model Misspecification
 - [用谱采样的加权键集压缩注意力](../conferences/icml-2026/cards/3901-4000.md#schroder26a-inference) · WildCat: Near-Linear Attention in Theory and Practice
 - [在Brownian扩散流匹配末端缩步以控制早停误差](../conferences/icml-2026/cards/4101-4200.md#silveri26a-inference) · Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees
+- [自然数扩散的可纠错逆过程](../conferences/icml-2026/cards/4101-4200.md#soatto26a-inference) · CountsDiff: A diffusion model on the natural numbers for generation and imputation of count-based data
+- [微正则采样噪声纠偏](../conferences/icml-2026/cards/4201-4300.md#sommer26a-inference) · Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -358,6 +358,7 @@ Training schedules, curricula, and task or stage composition.
 - [Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching](../../conferences/icml-2026/cards/4101-4200.md#shin26d-training-strategies) · 中文
 - [Overclocking Electrostatic Generative Models](../../conferences/icml-2026/cards/4101-4200.md#shlenskii26a-training-strategies) · 中文
 - [On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](../../conferences/icml-2026/cards/4101-4200.md#simon26a-training-strategies) · 中文
+- [Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic](../../conferences/icml-2026/cards/4101-4200.md#sommariva26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -410,4 +411,5 @@ Training schedules, curricula, and task or stage composition.
 - [Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](../../conferences/icml-2026/cards/3801-3900.md#ripken26a-training-strategies) · 中文
 - [U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster](../../conferences/icml-2026/cards/3901-4000.md#ruhling-cachay26a-training-strategies) · 中文
 - [Stabilizing In-Context Multi-Source Domain Adaptation for Biomedical Images Through Controls](../../conferences/icml-2026/cards/3901-4000.md#sanchez-fernandez26a-training-strategies) · 中文
+- [Neural Quantum States in Mixed Precision](../../conferences/icml-2026/cards/4101-4200.md#solinas26a-training-strategies) · 中文
 <!-- classification:end -->
