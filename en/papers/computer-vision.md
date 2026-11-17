@@ -33,7 +33,7 @@ The linked short insights are available in Chinese.
 | [CODiff: One-Step Diffusion Model for Camouflaged Object Detection](https://proceedings.mlr.press/v306/fu26l.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26l) | [Read insight (中文)](../../papers/computer-vision.md#fu26l-architecture) |
 | [DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](https://proceedings.mlr.press/v306/gao26aq.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26aq) | [Read insight (中文)](../../papers/computer-vision.md#gao26aq-architecture) |
 | [Beyond Pixel Histories: World Models with Persistent 3D State](https://proceedings.mlr.press/v306/garcin26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-garcin26a) | [Read insight (中文)](../../papers/computer-vision.md#garcin26a-architecture) |
-| [Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](https://proceedings.mlr.press/v306/gong26f.html) | [Read insight (中文)](../../papers/computer-vision.md#gong26f-architecture) |
+| [Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](https://proceedings.mlr.press/v306/gong26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26f) | [Read insight (中文)](../../papers/computer-vision.md#gong26f-architecture) |
 | [OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild](https://proceedings.mlr.press/v306/guo26ag.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26ag-architecture) |
 | [Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction](https://proceedings.mlr.press/v306/han26c.html) | [Read insight (中文)](../../papers/computer-vision.md#han26c-architecture) |
 
@@ -91,7 +91,7 @@ The linked short insights are available in Chinese.
 | [Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26as) | [Read insight (中文)](../../papers/computer-vision.md#chen26as-reinforcement-learning) |
 | [RELO: Reinforcement Learning to Localize for Visual Object Tracking](https://proceedings.mlr.press/v306/chen26ea.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26ea) | [Read insight (中文)](../../papers/computer-vision.md#chen26ea-reinforcement-learning) |
 | [Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://proceedings.mlr.press/v306/choi26o.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26o) | [Read insight (中文)](../../papers/computer-vision.md#choi26o-reinforcement-learning) |
-| [Probabilistic Salient Object Ranking](https://proceedings.mlr.press/v306/guo26h.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26h-reinforcement-learning) |
+| [Probabilistic Salient Object Ranking](https://proceedings.mlr.press/v306/guo26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26h) | [Read insight (中文)](../../papers/computer-vision.md#guo26h-reinforcement-learning) |
 | [ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models](https://proceedings.mlr.press/v306/han26o.html) | [Read insight (中文)](../../papers/computer-vision.md#han26o-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
@@ -115,7 +115,7 @@ The linked short insights are available in Chinese.
 | [Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction](https://proceedings.mlr.press/v306/du26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-du26g) | [Read insight (中文)](../../papers/computer-vision.md#du26g-training-strategies) |
 | [VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://proceedings.mlr.press/v306/du26q.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-du26q) | [Read insight (中文)](../../papers/computer-vision.md#du26q-training-strategies) |
 | [Spectrally-Guided Diffusion Noise Schedules](https://proceedings.mlr.press/v306/esteves26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-esteves26a) | [Read insight (中文)](../../papers/computer-vision.md#esteves26a-training-strategies) |
-| [Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](https://proceedings.mlr.press/v306/gong26j.html) | [Read insight (中文)](../../papers/computer-vision.md#gong26j-training-strategies) |
+| [Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](https://proceedings.mlr.press/v306/gong26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26j) | [Read insight (中文)](../../papers/computer-vision.md#gong26j-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -173,8 +173,8 @@ The linked short insights are available in Chinese.
 | [Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models](https://proceedings.mlr.press/v306/fu26o.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26o) | [Read insight (中文)](../../papers/computer-vision.md#fu26o-inference) |
 | [Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework](https://proceedings.mlr.press/v306/gao26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26e) | [Read insight (中文)](../../papers/computer-vision.md#gao26e-inference) |
 | [(1D) Ordered Tokens Enable Efficient Test-Time Search](https://proceedings.mlr.press/v306/gao26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26x) | [Read insight (中文)](../../papers/computer-vision.md#gao26x-inference) |
-| [Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models](https://proceedings.mlr.press/v306/gu26f.html) | [Read insight (中文)](../../papers/computer-vision.md#gu26f-inference) |
-| [R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations](https://proceedings.mlr.press/v306/gu26m.html) | [Read insight (中文)](../../papers/computer-vision.md#gu26m-inference) |
+| [Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models](https://proceedings.mlr.press/v306/gu26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26f) | [Read insight (中文)](../../papers/computer-vision.md#gu26f-inference) |
+| [R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations](https://proceedings.mlr.press/v306/gu26m.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26m) | [Read insight (中文)](../../papers/computer-vision.md#gu26m-inference) |
 | [Sample Margin-Aware Recalibration of Temperature Scaling](https://proceedings.mlr.press/v306/guo26s.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26s-inference) |
 | [Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models](https://proceedings.mlr.press/v306/gupta26a.html) | [Read insight (中文)](../../papers/computer-vision.md#gupta26a-inference) |
 | [Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them](https://proceedings.mlr.press/v306/han26l.html) | [Read insight (中文)](../../papers/computer-vision.md#han26l-inference) |
@@ -202,7 +202,7 @@ The linked short insights are available in Chinese.
 | [Event2Vec: Processing neuromorphic events directly by representations in vector space](https://proceedings.mlr.press/v306/fang26o.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26o) | [Read insight (中文)](../../papers/computer-vision.md#fang26o-representation-learning) |
 | [ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning](https://proceedings.mlr.press/v306/gao26ad.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ad) | [Read insight (中文)](../../papers/computer-vision.md#gao26ad-representation-learning) |
 | [Learning Latent Action World Models in the Wild](https://proceedings.mlr.press/v306/garrido26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-garrido26a) | [Read insight (中文)](../../papers/computer-vision.md#garrido26a-representation-learning) |
-| [Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](https://proceedings.mlr.press/v306/guo26e.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26e-representation-learning) |
+| [Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](https://proceedings.mlr.press/v306/guo26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26e) | [Read insight (中文)](../../papers/computer-vision.md#guo26e-representation-learning) |
 
 <a id="by-evaluation"></a>
 

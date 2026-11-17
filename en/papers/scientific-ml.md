@@ -104,7 +104,7 @@ The linked short insights are available in Chinese.
 | [LASER: Learning Active Sensing for Continuum Field Reconstruction](https://proceedings.mlr.press/v306/deng26y.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26y) | [Read insight (中文)](../../papers/scientific-ml.md#deng26y-reinforcement-learning) |
 | [GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](https://proceedings.mlr.press/v306/flynn26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-flynn26a) | [Read insight (中文)](../../papers/scientific-ml.md#flynn26a-reinforcement-learning) |
 | [Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/gao26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26c) | [Read insight (中文)](../../papers/scientific-ml.md#gao26c-reinforcement-learning) |
-| [CSG: Cognitive Structure Generation for Intelligent Education](https://proceedings.mlr.press/v306/gu26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#gu26b-reinforcement-learning) |
+| [CSG: Cognitive Structure Generation for Intelligent Education](https://proceedings.mlr.press/v306/gu26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26b) | [Read insight (中文)](../../papers/scientific-ml.md#gu26b-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -122,8 +122,8 @@ The linked short insights are available in Chinese.
 | [MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery](https://proceedings.mlr.press/v306/gao26s.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26s) | [Read insight (中文)](../../papers/scientific-ml.md#gao26s-training-strategies) |
 | [Scaling the Prior: Size-Consistent Geometric Diffusion for 3D Molecular Generation](https://proceedings.mlr.press/v306/gao26v.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26v) | [Read insight (中文)](../../papers/scientific-ml.md#gao26v-training-strategies) |
 | [Mesh Based Simulations with Spatial and Temporal awareness](https://proceedings.mlr.press/v306/garnier26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-garnier26a) | [Read insight (中文)](../../papers/scientific-ml.md#garnier26a-training-strategies) |
-| [Federated Multi-view Clustering for Remote Sensing Data](https://proceedings.mlr.press/v306/guan26j.html) | [Read insight (中文)](../../papers/scientific-ml.md#guan26j-training-strategies) |
-| [MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](https://proceedings.mlr.press/v306/guo26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#guo26c-training-strategies) |
+| [Federated Multi-view Clustering for Remote Sensing Data](https://proceedings.mlr.press/v306/guan26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26j) | [Read insight (中文)](../../papers/scientific-ml.md#guan26j-training-strategies) |
+| [MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](https://proceedings.mlr.press/v306/guo26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26c) | [Read insight (中文)](../../papers/scientific-ml.md#guo26c-training-strategies) |
 | [Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](https://proceedings.mlr.press/v306/han26j.html) | [Read insight (中文)](../../papers/scientific-ml.md#han26j-training-strategies) |
 
 <a id="by-data-strategies"></a>
@@ -179,7 +179,7 @@ The linked short insights are available in Chinese.
 | [Adaptive Protein Tokenization](https://proceedings.mlr.press/v306/dilip26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dilip26a) | [Read insight (中文)](../../papers/scientific-ml.md#dilip26a-representation-learning) |
 | [BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](https://proceedings.mlr.press/v306/du26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-du26f) | [Read insight (中文)](../../papers/scientific-ml.md#du26f-representation-learning) |
 | [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://proceedings.mlr.press/v306/gelard26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gelard26a) | [Read insight (中文)](../../papers/scientific-ml.md#gelard26a-representation-learning) |
-| [SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](https://proceedings.mlr.press/v306/guo26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#guo26a-representation-learning) |
+| [SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](https://proceedings.mlr.press/v306/guo26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26a) | [Read insight (中文)](../../papers/scientific-ml.md#guo26a-representation-learning) |
 | [Learning Permutation-invariant Macroscopic Dynamics](https://proceedings.mlr.press/v306/han26f.html) | [Read insight (中文)](../../papers/scientific-ml.md#han26f-representation-learning) |
 
 <a id="by-evaluation"></a>
@@ -221,5 +221,5 @@ The linked short insights are available in Chinese.
 | [Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](https://proceedings.mlr.press/v306/fu26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26i) | [Read insight (中文)](../../papers/scientific-ml.md#fu26i-theory-statistics) |
 | [Principled Confidence Estimation for Deep Computed Tomography](https://proceedings.mlr.press/v306/gatzner26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gatzner26a) | [Read insight (中文)](../../papers/scientific-ml.md#gatzner26a-theory-statistics) |
 | [Scalable Simulation-Based Model Inference with Test-Time Complexity Control](https://proceedings.mlr.press/v306/gloeckler26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gloeckler26a) | [Read insight (中文)](../../papers/scientific-ml.md#gloeckler26a-theory-statistics) |
-| [A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](https://proceedings.mlr.press/v306/guan26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#guan26a-theory-statistics) |
+| [A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](https://proceedings.mlr.press/v306/guan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26a) | [Read insight (中文)](../../papers/scientific-ml.md#guan26a-theory-statistics) |
 <!-- classification:end -->

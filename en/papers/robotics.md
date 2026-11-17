@@ -78,7 +78,7 @@ The linked short insights are available in Chinese.
 | [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26d) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
 | [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw) | [Read insight (中文)](../../papers/robotics.md#chen26fw-training-strategies) |
 | [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26n) | [Read insight (中文)](../../papers/robotics.md#feng26n-training-strategies) |
-| [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) | [Read insight (中文)](../../papers/robotics.md#guo26i-training-strategies) |
+| [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26i) | [Read insight (中文)](../../papers/robotics.md#guo26i-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -92,7 +92,7 @@ The linked short insights are available in Chinese.
 | [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26i) | [Read insight (中文)](../../papers/robotics.md#choi26i-data-strategies) |
 | [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26b) | [Read insight (中文)](../../papers/robotics.md#fan26b-data-strategies) |
 | [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26q) | [Read insight (中文)](../../papers/robotics.md#gao26q-data-strategies) |
-| [LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) | [Read insight (中文)](../../papers/robotics.md#guan26f-data-strategies) |
+| [LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26f) | [Read insight (中文)](../../papers/robotics.md#guan26f-data-strategies) |
 
 <a id="by-inference"></a>
 

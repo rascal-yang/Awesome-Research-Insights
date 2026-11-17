@@ -78,7 +78,7 @@
 | <a id="chen26d-training-strategies"></a>[NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chen26d) | 终身轨迹规划 | 让非参数贝叶斯记忆按新驾驶场景增长簇，扩散规划器按簇专门化，并用旧簇生成回放样本以保留此前技能。 |
 | <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) · [论文卡](../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw) | 部件位姿的弱监督对称估计 | 仅给出对称类型，让模型从点云和预测旋转估计对称轴概率。对镜面对称的候选平面，用原点云与镜像点云的 Chamfer 距离评估一致性，抑制缺少几何支持的平面。 |
 | <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-feng26n) | 跨构型控制的奇异分量门控 | 将形态感知 Transformer 的权重拆成 SVD 秩一分量，训练时把分量分为通用、构型专用和任务专用三组。用肢体与关节参数以及任务文本生成软门控，部署时可重组与当前机器人和任务相关的控制器。 |
-| <a id="guo26i-training-strategies"></a>[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) | 视觉动作策略与世界模型的交替改进 | 先用当前机器人策略采集真实成功与失败轨迹，更新动作条件视频世界模型，再用它生成策略的额外滚动轨迹。将奖励模型筛出的成功合成轨迹和真实成功轨迹一起用于下一轮策略微调。 |
+| <a id="guo26i-training-strategies"></a>[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26i) | 视觉动作策略与世界模型的交替改进 | 先用当前机器人策略采集真实成功与失败轨迹，更新动作条件视频世界模型，再用它生成策略的额外滚动轨迹。将奖励模型筛出的成功合成轨迹和真实成功轨迹一起用于下一轮策略微调。 |
 
 <a id="by-data-strategies"></a>
 
@@ -92,7 +92,7 @@
 | <a id="choi26i-data-strategies"></a>[EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) · [论文卡](../conferences/icml-2026/cards/0701-0800.md#paper-choi26i) | 具身动作风险的组合数据构造 | 为同类场景组合不同危险配置与动作，包括在危险仍存在时改用不会触发它的动作。将图像和动作配对并标注风险，使监督信号针对特定交互的后果，也覆盖容易引发误报的安全动作。 |
 | <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) · [论文卡](../conferences/icml-2026/cards/1001-1100.md#paper-fan26b) | 跨来源点云的 VLA 训练 | 在统一训练流程中混合仿真、深度传感器和模型估计的点云，并以形状和尺度变化扩展输入。将学到的三维表征与对应的二维特征融合，可减轻部署时深度来源和尺度差异对操作策略的影响。 |
 | <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26q) | 人类视频的潜动作监督 | 将相邻视频帧之间的变化通过信息瓶颈编码成连续潜动作，作为未标注人类视频的控制信号预训练机器人世界模型，再以目标机器人真动作做适配。 |
-| <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) | 人形运动跟踪的可行性与难度选样 | 先过滤违反物理约束的轨迹，再用运动嵌入的最近距离和关节速度、加速度衡量多样性与动态难度。每次优先补充覆盖不足且复杂的动作，在论文的 AMASS 实验中，约 3% 的样本已能超过全量训练的跟踪基线。 |
+| <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guan26f) | 人形运动跟踪的可行性与难度选样 | 先过滤违反物理约束的轨迹，再用运动嵌入的最近距离和关节速度、加速度衡量多样性与动态难度。每次优先补充覆盖不足且复杂的动作，在论文的 AMASS 实验中，约 3% 的样本已能超过全量训练的跟踪基线。 |
 
 <a id="by-inference"></a>
 

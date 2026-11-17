@@ -98,7 +98,7 @@ The linked short insights are available in Chinese.
 | [Online Packet Scheduling with Deadlines and Learning](https://proceedings.mlr.press/v306/genalti26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-genalti26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#genalti26a-reinforcement-learning) |
 | [DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](https://proceedings.mlr.press/v306/gerogiannis26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gerogiannis26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) |
 | [Online Robust Reinforcement Learning with General Function Approximation](https://proceedings.mlr.press/v306/ghosh26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ghosh26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) |
-| [Contextual Slate GLM Bandits with Limited Adaptivity](https://proceedings.mlr.press/v306/goyal26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) |
+| [Contextual Slate GLM Bandits with Limited Adaptivity](https://proceedings.mlr.press/v306/goyal26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-goyal26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) |
 | [Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](https://proceedings.mlr.press/v306/han26i.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#han26i-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
@@ -122,7 +122,7 @@ The linked short insights are available in Chinese.
 | [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-brosseit26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#brosseit26a-inference) |
 | [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chang26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#chang26a-inference) |
 | [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-cui26h) | [Read insight (中文)](../../papers/reinforcement-learning.md#cui26h-inference) |
-| [SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](https://proceedings.mlr.press/v306/gu26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gu26a-inference) |
+| [SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](https://proceedings.mlr.press/v306/gu26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#gu26a-inference) |
 | [RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://proceedings.mlr.press/v306/guo26r.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26r-inference) |
 
 <a id="by-representation-learning"></a>
@@ -141,7 +141,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Beyond Rewards in RL for Cyber Defence](https://proceedings.mlr.press/v306/bates26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bates26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bates26a-evaluation) |
 | [KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](https://proceedings.mlr.press/v306/cherepanov26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-cherepanov26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#cherepanov26a-evaluation) |
-| [PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](https://proceedings.mlr.press/v306/guo26f.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26f-evaluation) |
+| [PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](https://proceedings.mlr.press/v306/guo26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26f) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26f-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -174,5 +174,5 @@ The linked short insights are available in Chinese.
 | [Anytime Detection of Strategic Deviations in Multi-Agent Systems](https://proceedings.mlr.press/v306/gauthier26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gauthier26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#gauthier26a-theory-statistics) |
 | [On the Role of Computation in Reinforcement Learning](https://proceedings.mlr.press/v306/ghugare26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ghugare26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#ghugare26a-theory-statistics) |
 | [Impact of Connectivity on Laplacian Representations in Reinforcement Learning](https://proceedings.mlr.press/v306/giorgi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-giorgi26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#giorgi26a-theory-statistics) |
-| [The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](https://proceedings.mlr.press/v306/gong26i.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gong26i-theory-statistics) |
+| [The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](https://proceedings.mlr.press/v306/gong26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26i) | [Read insight (中文)](../../papers/reinforcement-learning.md#gong26i-theory-statistics) |
 <!-- classification:end -->

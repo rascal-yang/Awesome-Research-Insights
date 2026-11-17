@@ -80,8 +80,8 @@ The linked short insights are available in Chinese.
 | [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-canturk26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
 | [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26cz) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) |
 | [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ai) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26ai-training-strategies) |
-| [Certifying Graph Neural Networks Against Label and Structure Poisoning](https://proceedings.mlr.press/v306/gosch26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gosch26a-training-strategies) |
-| [Feedback Control for Multi-Objective Graph Self-Supervision](https://proceedings.mlr.press/v306/grover26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#grover26a-training-strategies) |
+| [Certifying Graph Neural Networks Against Label and Structure Poisoning](https://proceedings.mlr.press/v306/gosch26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gosch26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gosch26a-training-strategies) |
+| [Feedback Control for Multi-Objective Graph Self-Supervision](https://proceedings.mlr.press/v306/grover26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-grover26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#grover26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -132,7 +132,7 @@ The linked short insights are available in Chinese.
 | [Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-akula26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#akula26a-evaluation) |
 | [Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-ferrini26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ferrini26a-evaluation) |
 | [Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-forbat26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#forbat26a-evaluation) |
-| [VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://proceedings.mlr.press/v306/guan26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guan26b-evaluation) |
+| [VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://proceedings.mlr.press/v306/guan26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guan26b-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -149,5 +149,5 @@ The linked short insights are available in Chinese.
 | [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](https://proceedings.mlr.press/v306/fan26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26c) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fan26c-theory-statistics) |
 | [Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](https://proceedings.mlr.press/v306/fetrat-qharabagh26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fetrat-qharabagh26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fetrat-qharabagh26a-theory-statistics) |
 | [Understanding Truncated Positional Encodings for Graph Neural Networks](https://proceedings.mlr.press/v306/flora26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-flora26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#flora26a-theory-statistics) |
-| [Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series](https://proceedings.mlr.press/v306/guo26d.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26d-theory-statistics) |
+| [Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series](https://proceedings.mlr.press/v306/guo26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26d) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26d-theory-statistics) |
 <!-- classification:end -->

@@ -16,7 +16,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dervishi26a) | [Read insight (中文)](../../papers/nlp.md#dervishi26a-architecture) |
-| [Scaling Transformers for End-to-End Discrete Audio Tokenization](https://proceedings.mlr.press/v306/gong26c.html) | [Read insight (中文)](../../papers/nlp.md#gong26c-architecture) |
+| [Scaling Transformers for End-to-End Discrete Audio Tokenization](https://proceedings.mlr.press/v306/gong26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26c) | [Read insight (中文)](../../papers/nlp.md#gong26c-architecture) |
 
 <a id="by-modules"></a>
 
@@ -119,5 +119,5 @@ The linked short insights are available in Chinese.
 | [Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-arenas26a) | [Read insight (中文)](../../papers/nlp.md#arenas26a-theory-statistics) |
 | [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-ashrafi26a) | [Read insight (中文)](../../papers/nlp.md#ashrafi26a-theory-statistics) |
 | [Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26b) | [Read insight (中文)](../../papers/nlp.md#banihashem26b-theory-statistics) |
-| [Text Has Curvature](https://proceedings.mlr.press/v306/grover26b.html) | [Read insight (中文)](../../papers/nlp.md#grover26b-theory-statistics) |
+| [Text Has Curvature](https://proceedings.mlr.press/v306/grover26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-grover26b) | [Read insight (中文)](../../papers/nlp.md#grover26b-theory-statistics) |
 <!-- classification:end -->
