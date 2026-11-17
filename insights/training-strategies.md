@@ -109,6 +109,7 @@
 - [用交互稀疏度解释并改善深层 LLM 利用率](../conferences/icml-2026/cards/3301-3400.md#muhtar26a-training-strategies) · When Does Sparsity Mitigate the Curse of Depth in LLMs
 - [从小模型微调更新生成大模型更新](../conferences/icml-2026/cards/3401-3500.md#nguyen26r-training-strategies) · Gradient Transformer: Learning to Generate Updates for LLMs
 - [为量化跳层保留训练路径多样性](../conferences/icml-2026/cards/3401-3500.md#noh26a-training-strategies) · QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs
+- [用同句的有无前缀蒸馏更新事实](../conferences/icml-2026/cards/3501-3600.md#padmanabhan26a-training-strategies) · Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities
 
 <a id="by-computer-vision"></a>
 
@@ -309,6 +310,7 @@
 - [一次联邦训练支持多预算量化](../conferences/icml-2026/cards/3101-3200.md#ma26ae-training-strategies) · No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning
 - [跨数据孤岛组合生成因素](../conferences/icml-2026/cards/3301-3400.md#morshed26a-training-strategies) · Compositional Generative Modeling from Decentralized Data
 - [按谱熵与跨通道依赖适配时间序列模型](../conferences/icml-2026/cards/3301-3400.md#na26b-training-strategies) · Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models
+- [在重尾坐标上做对数退火](../conferences/icml-2026/cards/3501-3600.md#pachebat26a-training-strategies) · Tail Annealing for Heavy-Tailed Flow Matching
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -324,6 +326,7 @@
 - [以对比聚类进行路段到车道迁移](../conferences/icml-2026/cards/2601-2700.md#li26ih-training-strategies) · Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task
 - [各客户端保留曲率并共享类空更新](../conferences/icml-2026/cards/2701-2800.md#liu26b-training-strategies) · FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space
 - [图节点特征置换剪枝](../conferences/icml-2026/cards/3401-3500.md#navarro26a-training-strategies) · Adaptive Node Feature Selection for Graph Neural Networks
+- [组合问题分布元学习](../conferences/icml-2026/cards/3501-3600.md#pan26h-training-strategies) · Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation
 
 <a id="by-scientific-ml"></a>
 

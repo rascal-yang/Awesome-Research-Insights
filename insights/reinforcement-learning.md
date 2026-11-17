@@ -282,6 +282,7 @@
 - [用正交辅助梯度稳定无回放流式强化学习](../conferences/icml-2026/cards/3401-3500.md#nilaksh26a-reinforcement-learning) · Squeezing More from the Stream : Learning Representation Online for Streaming Reinforcement Learning
 - [用多次尝试的最大回报目标诱导探索](../conferences/icml-2026/cards/3401-3500.md#nishimori26a-reinforcement-learning) · Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying
 - [联合约束自博弈更新步幅与探索](../conferences/icml-2026/cards/3501-3600.md#ota26a-reinforcement-learning) · Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games
+- [把询问与监督协调做成马尔可夫博弈](../conferences/icml-2026/cards/3501-3600.md#overman26b-reinforcement-learning) · The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy
 
 <a id="by-robotics"></a>
 
@@ -356,6 +357,7 @@
 - [按段奖励图像证据与深伪判断](../conferences/icml-2026/cards/3401-3500.md#nguyen26f-reinforcement-learning) · PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection
 - [个性化图像描述奖励](../conferences/icml-2026/cards/3401-3500.md#oh26c-reinforcement-learning) · Contextualized Visual Personalization in Vision-Language Models
 - [平衡多任务和样本对策略梯度的贡献](../conferences/icml-2026/cards/3501-3600.md#ong26a-reinforcement-learning) · OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization
+- [近邻提示配对强化](../conferences/icml-2026/cards/3501-3600.md#pan26b-reinforcement-learning) · Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning
 
 <a id="by-ml-foundations"></a>
 

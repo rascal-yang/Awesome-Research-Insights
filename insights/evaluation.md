@@ -273,6 +273,8 @@
 - [用可验证成功率估算多模型级联成本](../conferences/icml-2026/cards/3501-3600.md#olmedo26a-evaluation) · Computational Arbitrage in AI Model Markets
 - [从题内差异估计多项选择的长度偏差](../conferences/icml-2026/cards/3501-3600.md#oostermeijer26a-evaluation) · Accuracy and Normalized Accuracy under Length Bias: Analysis, Guidelines, and a Bayesian Alternative
 - [独立测量搜索回答和所引网页的风险](../conferences/icml-2026/cards/3501-3600.md#ou26a-evaluation) · When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models
+- [生产智能体实践测量](../conferences/icml-2026/cards/3501-3600.md#pan26a-evaluation) · Measuring Agents in Production
+- [推理片段递归归因](../conferences/icml-2026/cards/3501-3600.md#pan26g-evaluation) · Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -509,6 +511,8 @@
 - [把联邦后门检测的重点放到聚合后的持续性](../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning
 - [预枚举树集成可实现输出组合以复用验证索引](../conferences/icml-2026/cards/3201-3300.md#martens26a-evaluation) · OC-space: a Unifying Perspective on Verification of Tree Ensembles
 - [分别测棋类规则外推和策略迁移](../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers
+- [先集成预测函数再估特征重要性](../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · Aggregate Models, Not Explanations: Improving Feature Importance Estimation
+- [用态密度测随机插值与梯度泛化](../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · Revisiting the Volume Hypothesis
 
 <a id="by-graph-and-recommendation"></a>
 

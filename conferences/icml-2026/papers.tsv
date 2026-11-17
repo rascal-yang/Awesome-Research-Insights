@@ -3527,30 +3527,30 @@ number	pmlr_id	title	paper_url	insight_status
 3526	ouyang26a	PDAgent: An LLM-Driven Autonomous Agent Framework Towards *In Silico* Protein Design via Directed Mutation	https://proceedings.mlr.press/v306/ouyang26a.html	written
 3527	ouyang26b	A Diffusive Classification Loss for Learning Energy-based Generative Models	https://proceedings.mlr.press/v306/ouyang26b.html	written
 3528	ouyang26c	Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion	https://proceedings.mlr.press/v306/ouyang26c.html	written
-3529	ouyang26d	DenseSteer: Steering Small Language Models towards Dense Math Reasoning	https://proceedings.mlr.press/v306/ouyang26d.html	pending
-3530	ouyang26e	LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws	https://proceedings.mlr.press/v306/ouyang26e.html	pending
-3531	ouyang26f	ReaForest: Fostering Generative Video Reasoning for Spatial Planning	https://proceedings.mlr.press/v306/ouyang26f.html	pending
-3532	ouyang26g	Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution	https://proceedings.mlr.press/v306/ouyang26g.html	pending
-3533	overman26a	Calibrating Conservatism for Scalable Oversight	https://proceedings.mlr.press/v306/overman26a.html	pending
-3534	overman26b	The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy	https://proceedings.mlr.press/v306/overman26b.html	pending
-3535	ozyilkan26a	SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation	https://proceedings.mlr.press/v306/ozyilkan26a.html	pending
-3536	pach26a	The Latent Color Subspace: Emergent Order in High-Dimensional Chaos	https://proceedings.mlr.press/v306/pach26a.html	pending
-3537	pachebat26a	Tail Annealing for Heavy-Tailed Flow Matching	https://proceedings.mlr.press/v306/pachebat26a.html	pending
-3538	padmanabhan26a	Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities	https://proceedings.mlr.press/v306/padmanabhan26a.html	pending
-3539	paes-leme26a	Allocating Variance to Maximize Expectation	https://proceedings.mlr.press/v306/paes-leme26a.html	pending
-3540	paillard26a	Aggregate Models, Not Explanations: Improving Feature Importance Estimation	https://proceedings.mlr.press/v306/paillard26a.html	pending
-3541	pakman26a	Revisiting the Volume Hypothesis	https://proceedings.mlr.press/v306/pakman26a.html	pending
-3542	pal26a	DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers	https://proceedings.mlr.press/v306/pal26a.html	pending
-3543	palasamudram26a	Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality	https://proceedings.mlr.press/v306/palasamudram26a.html	pending
-3544	palla26a	Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models	https://proceedings.mlr.press/v306/palla26a.html	pending
-3545	pan26a	Measuring Agents in Production	https://proceedings.mlr.press/v306/pan26a.html	pending
-3546	pan26b	Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning	https://proceedings.mlr.press/v306/pan26b.html	pending
-3547	pan26c	Adaptive Multi-Round Allocation with Stochastic Arrivals	https://proceedings.mlr.press/v306/pan26c.html	pending
-3548	pan26d	Difference-Aware Decision Learning for Multimodal Image Fusion	https://proceedings.mlr.press/v306/pan26d.html	pending
-3549	pan26e	Trajectory-Level Speculative Decoding for Diffusion Language Models	https://proceedings.mlr.press/v306/pan26e.html	pending
-3550	pan26f	ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization	https://proceedings.mlr.press/v306/pan26f.html	pending
-3551	pan26g	Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs	https://proceedings.mlr.press/v306/pan26g.html	pending
-3552	pan26h	Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation	https://proceedings.mlr.press/v306/pan26h.html	pending
+3529	ouyang26d	DenseSteer: Steering Small Language Models towards Dense Math Reasoning	https://proceedings.mlr.press/v306/ouyang26d.html	written
+3530	ouyang26e	LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws	https://proceedings.mlr.press/v306/ouyang26e.html	written
+3531	ouyang26f	ReaForest: Fostering Generative Video Reasoning for Spatial Planning	https://proceedings.mlr.press/v306/ouyang26f.html	written
+3532	ouyang26g	Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution	https://proceedings.mlr.press/v306/ouyang26g.html	written
+3533	overman26a	Calibrating Conservatism for Scalable Oversight	https://proceedings.mlr.press/v306/overman26a.html	written
+3534	overman26b	The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy	https://proceedings.mlr.press/v306/overman26b.html	written
+3535	ozyilkan26a	SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation	https://proceedings.mlr.press/v306/ozyilkan26a.html	written
+3536	pach26a	The Latent Color Subspace: Emergent Order in High-Dimensional Chaos	https://proceedings.mlr.press/v306/pach26a.html	written
+3537	pachebat26a	Tail Annealing for Heavy-Tailed Flow Matching	https://proceedings.mlr.press/v306/pachebat26a.html	written
+3538	padmanabhan26a	Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities	https://proceedings.mlr.press/v306/padmanabhan26a.html	written
+3539	paes-leme26a	Allocating Variance to Maximize Expectation	https://proceedings.mlr.press/v306/paes-leme26a.html	written
+3540	paillard26a	Aggregate Models, Not Explanations: Improving Feature Importance Estimation	https://proceedings.mlr.press/v306/paillard26a.html	written
+3541	pakman26a	Revisiting the Volume Hypothesis	https://proceedings.mlr.press/v306/pakman26a.html	written
+3542	pal26a	DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers	https://proceedings.mlr.press/v306/pal26a.html	written
+3543	palasamudram26a	Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality	https://proceedings.mlr.press/v306/palasamudram26a.html	written
+3544	palla26a	Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models	https://proceedings.mlr.press/v306/palla26a.html	written
+3545	pan26a	Measuring Agents in Production	https://proceedings.mlr.press/v306/pan26a.html	written
+3546	pan26b	Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning	https://proceedings.mlr.press/v306/pan26b.html	written
+3547	pan26c	Adaptive Multi-Round Allocation with Stochastic Arrivals	https://proceedings.mlr.press/v306/pan26c.html	written
+3548	pan26d	Difference-Aware Decision Learning for Multimodal Image Fusion	https://proceedings.mlr.press/v306/pan26d.html	written
+3549	pan26e	Trajectory-Level Speculative Decoding for Diffusion Language Models	https://proceedings.mlr.press/v306/pan26e.html	written
+3550	pan26f	ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization	https://proceedings.mlr.press/v306/pan26f.html	written
+3551	pan26g	Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs	https://proceedings.mlr.press/v306/pan26g.html	written
+3552	pan26h	Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation	https://proceedings.mlr.press/v306/pan26h.html	written
 3553	pan26i	Beyond Instance-Level Self-Supervision in 3D Multi-Modal Medical Imaging	https://proceedings.mlr.press/v306/pan26i.html	pending
 3554	pan26j	Knowing Bias, Doing Better: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement	https://proceedings.mlr.press/v306/pan26j.html	pending
 3555	pan26k	ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management	https://proceedings.mlr.press/v306/pan26k.html	pending

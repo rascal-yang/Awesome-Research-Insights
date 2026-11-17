@@ -104,6 +104,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="li26ih-training-strategies"></a>[Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ih)
 - <a id="liu26b-training-strategies"></a>[FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26b)
 - <a id="navarro26a-training-strategies"></a>[Adaptive Node Feature Selection for Graph Neural Networks](../../conferences/icml-2026/cards/3401-3500.md#paper-navarro26a)
+- <a id="pan26h-training-strategies"></a>[Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26h)
 
 <a id="by-data-strategies"></a>
 

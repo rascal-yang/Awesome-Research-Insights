@@ -251,6 +251,8 @@
 - [用可学习分段提高安全缓存命中](../conferences/icml-2026/cards/3401-3500.md#noshad26a-inference) · MVR-cache: Optimizing Semantic Caching via Multi-Vector Retrieval and Learned Prompt Segmentation
 - [在解码批内共享已激活专家](../conferences/icml-2026/cards/3501-3600.md#oncescu26a-inference) · Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining
 - [在数学探索中插入 Lean 检查点](../conferences/icml-2026/cards/3501-3600.md#ospanov26a-inference) · HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs
+- [用密集推理改写的激活差引导小语言模型](../conferences/icml-2026/cards/3501-3600.md#ouyang26d-inference) · DenseSteer: Steering Small Language Models towards Dense Math Reasoning
+- [扩散轨迹树投机](../conferences/icml-2026/cards/3501-3600.md#pan26e-inference) · Trajectory-Level Speculative Decoding for Diffusion Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -373,6 +375,7 @@
 - [扩散规划前缀可行性能量](../conferences/icml-2026/cards/3001-3100.md#lu26l-inference) · Improving Diffusion Planners by Self-Supervised Action Gating with Energies
 - [用离线局部状态图补上长程规划](../conferences/icml-2026/cards/3501-3600.md#opryshko26a-inference) · Test-Time Graph Search for Goal-Conditioned Reinforcement Learning
 - [先按根动作分配粒子再做树搜索](../conferences/icml-2026/cards/3501-3600.md#oren26a-inference) · Twice Sequential Monte Carlo for Tree Search
+- [用多个评分器校准行动保守度](../conferences/icml-2026/cards/3501-3600.md#overman26a-inference) · Calibrating Conservatism for Scalable Oversight
 
 <a id="by-robotics"></a>
 
@@ -484,6 +487,7 @@
 - [将流式视频远程 KV 压缩为可供原生注意力读取的原型](../conferences/icml-2026/cards/3301-3400.md#minh26a-inference) · ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory
 - [用频谱削弱后的特征一致性修正 CLIP 对抗输入](../conferences/icml-2026/cards/3401-3500.md#nie26d-inference) · Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP
 - [让视觉工具的观测反馈参与束搜索](../conferences/icml-2026/cards/3401-3500.md#ning26b-inference) · V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning
+- [用片段分支与约束验证扩展视频推理](../conferences/icml-2026/cards/3501-3600.md#ouyang26f-inference) · ReaForest: Fostering Generative Video Reasoning for Spatial Planning
 
 <a id="by-ml-foundations"></a>
 

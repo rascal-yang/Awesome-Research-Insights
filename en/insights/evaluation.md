@@ -273,6 +273,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Computational Arbitrage in AI Model Markets](../../conferences/icml-2026/cards/3501-3600.md#olmedo26a-evaluation) · 中文
 - [Accuracy and Normalized Accuracy under Length Bias: Analysis, Guidelines, and a Bayesian Alternative](../../conferences/icml-2026/cards/3501-3600.md#oostermeijer26a-evaluation) · 中文
 - [When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models](../../conferences/icml-2026/cards/3501-3600.md#ou26a-evaluation) · 中文
+- [Measuring Agents in Production](../../conferences/icml-2026/cards/3501-3600.md#pan26a-evaluation) · 中文
+- [Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs](../../conferences/icml-2026/cards/3501-3600.md#pan26g-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -509,6 +511,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · 中文
 - [OC-space: a Unifying Perspective on Verification of Tree Ensembles](../../conferences/icml-2026/cards/3201-3300.md#martens26a-evaluation) · 中文
 - [Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers](../../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · 中文
+- [Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · 中文
+- [Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

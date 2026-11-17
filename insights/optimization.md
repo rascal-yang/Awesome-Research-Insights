@@ -84,6 +84,7 @@
 - [多目标微调调度](../conferences/icml-2026/cards/3301-3400.md#monteiro26a-optimization) · Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection
 - [在可验证奖励强化学习中用无状态 SGD 替换 AdamW](../conferences/icml-2026/cards/3301-3400.md#mukherjee26c-optimization) · Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs
 - [把量化舍入误差累积到动量以省掉 master weights](../conferences/icml-2026/cards/3401-3500.md#nikdan26a-optimization) · ECO: Quantized Training without Full-Precision Master Weights
+- [编译遍历证据引导](../conferences/icml-2026/cards/3501-3600.md#pan26f-optimization) · ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -340,6 +341,7 @@
 - [扰动点 Polyak 步长](../conferences/icml-2026/cards/3501-3600.md#oikonomou26b-optimization) · Adaptive Sharpness-Aware Minimization with a Polyak-type Step size: A Theory-Grounded Scheduler
 - [次梯度分母保护](../conferences/icml-2026/cards/3501-3600.md#oikonomou26c-optimization) · Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients
 - [用衰减的缓存动量稳定部分参与聚合](../conferences/icml-2026/cards/3501-3600.md#otsuka26a-optimization) · Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation
+- [随机转介预算规划](../conferences/icml-2026/cards/3501-3600.md#pan26c-optimization) · Adaptive Multi-Round Allocation with Stochastic Arrivals
 
 <a id="by-graph-and-recommendation"></a>
 

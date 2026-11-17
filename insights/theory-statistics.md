@@ -59,6 +59,7 @@
 - [按每步分支数解释思维链深度](../conferences/icml-2026/cards/3301-3400.md#nadgir26a-theory-statistics) · How does Chain of Thought decompose complex tasks?
 - [把 KV 内存占用纳入 LLM 服务稳定阈值](../conferences/icml-2026/cards/3401-3500.md#nie26a-theory-statistics) · A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints
 - [用偏好采样与参考策略的错配解释效用失真](../conferences/icml-2026/cards/3501-3600.md#oko26a-theory-statistics) · Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner
+- [用带噪信道拟合模型扩展中的 U 形退化](../conferences/icml-2026/cards/3501-3600.md#ouyang26e-theory-statistics) · LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
 
 <a id="by-computer-vision"></a>
 
@@ -144,6 +145,7 @@
 - [对噪声统计树做耦合以精确遗忘](../conferences/icml-2026/cards/3401-3500.md#nguyen-tang26a-theory-statistics) · Exact Unlearning in Reinforcement Learning
 - [从安全策略逐步混合到候选策略](../conferences/icml-2026/cards/3401-3500.md#ni26c-theory-statistics) · Constrained Meta Reinforcement Learning with Provable Test-Time Safety
 - [延迟污染成对反馈](../conferences/icml-2026/cards/3401-3500.md#oh26a-theory-statistics) · Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions
+- [可达策略渐近最优](../conferences/icml-2026/cards/3501-3600.md#palasamudram26a-theory-statistics) · Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality
 
 <a id="by-robotics"></a>
 
@@ -509,6 +511,7 @@
 - [均值场预测方差方向性](../conferences/icml-2026/cards/3401-3500.md#odgers26a-theory-statistics) · Gaussian Mean Field Variational Inference can Overestimate Predictive Variance
 - [用交换约束和有向环诊断逆优化反馈](../conferences/icml-2026/cards/3501-3600.md#oki26a-theory-statistics) · Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets
 - [沿 Hessian 谱隙分离流形切向维数](../conferences/icml-2026/cards/3501-3600.md#osada26a-theory-statistics) · Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation
+- [从稀疏方差桶近似高斯极值目标](../conferences/icml-2026/cards/3501-3600.md#paes-leme26a-theory-statistics) · Allocating Variance to Maximize Expectation
 
 <a id="by-graph-and-recommendation"></a>
 

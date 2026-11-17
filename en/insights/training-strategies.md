@@ -109,6 +109,7 @@ Training schedules, curricula, and task or stage composition.
 - [When Does Sparsity Mitigate the Curse of Depth in LLMs](../../conferences/icml-2026/cards/3301-3400.md#muhtar26a-training-strategies) · 中文
 - [Gradient Transformer: Learning to Generate Updates for LLMs](../../conferences/icml-2026/cards/3401-3500.md#nguyen26r-training-strategies) · 中文
 - [QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](../../conferences/icml-2026/cards/3401-3500.md#noh26a-training-strategies) · 中文
+- [Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities](../../conferences/icml-2026/cards/3501-3600.md#padmanabhan26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -309,6 +310,7 @@ Training schedules, curricula, and task or stage composition.
 - [No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26ae-training-strategies) · 中文
 - [Compositional Generative Modeling from Decentralized Data](../../conferences/icml-2026/cards/3301-3400.md#morshed26a-training-strategies) · 中文
 - [Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#na26b-training-strategies) · 中文
+- [Tail Annealing for Heavy-Tailed Flow Matching](../../conferences/icml-2026/cards/3501-3600.md#pachebat26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -324,6 +326,7 @@ Training schedules, curricula, and task or stage composition.
 - [Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task](../../conferences/icml-2026/cards/2601-2700.md#li26ih-training-strategies) · 中文
 - [FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space](../../conferences/icml-2026/cards/2701-2800.md#liu26b-training-strategies) · 中文
 - [Adaptive Node Feature Selection for Graph Neural Networks](../../conferences/icml-2026/cards/3401-3500.md#navarro26a-training-strategies) · 中文
+- [Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation](../../conferences/icml-2026/cards/3501-3600.md#pan26h-training-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

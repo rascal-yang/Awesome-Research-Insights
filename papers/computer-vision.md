@@ -128,6 +128,7 @@
 - <a id="liu26cc-loss-functions"></a>[Geometric Rate–Distortion Invariance for Domain Generalization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cc)
 - <a id="liu26fh-loss-functions"></a>[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fh)
 - <a id="lu26t-loss-functions"></a>[One-step Latent-free Image Generation with Pixel Mean Flows](../conferences/icml-2026/cards/3001-3100.md#paper-lu26t)
+- <a id="ouyang26g-loss-functions"></a>[Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution](../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26g)
 
 <a id="by-optimization"></a>
 
@@ -389,6 +390,7 @@
 - <a id="ma26g-representation-learning"></a>[Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26g)
 - <a id="miller26a-representation-learning"></a>[SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](../conferences/icml-2026/cards/3301-3400.md#paper-miller26a)
 - <a id="morbitzer26a-representation-learning"></a>[Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion](../conferences/icml-2026/cards/3301-3400.md#paper-morbitzer26a)
+- <a id="pach26a-representation-learning"></a>[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](../conferences/icml-2026/cards/3501-3600.md#paper-pach26a)
 
 <a id="by-evaluation"></a>
 

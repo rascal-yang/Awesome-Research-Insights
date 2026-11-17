@@ -65,6 +65,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Geometric Rate–Distortion Invariance for Domain Generalization](../../conferences/icml-2026/cards/2801-2900.md#liu26cc-loss-functions) · 中文
 - [Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](../../conferences/icml-2026/cards/2901-3000.md#liu26fh-loss-functions) · 中文
 - [One-step Latent-free Image Generation with Pixel Mean Flows](../../conferences/icml-2026/cards/3001-3100.md#lu26t-loss-functions) · 中文
+- [Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution](../../conferences/icml-2026/cards/3501-3600.md#ouyang26g-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

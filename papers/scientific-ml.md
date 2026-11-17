@@ -103,6 +103,7 @@
 - <a id="nguyen26a-architecture"></a>[Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26a)
 - <a id="niu26e-architecture"></a>[Flexibility-Aware Geometric Latent Diffusion for Full-Atom Peptide Design](../conferences/icml-2026/cards/3401-3500.md#paper-niu26e)
 - <a id="noguchi26a-architecture"></a>[Mesh Field Theory: Port–Hamiltonian Formulation of Mesh-Based Physics](../conferences/icml-2026/cards/3401-3500.md#paper-noguchi26a)
+- <a id="palla26a-architecture"></a>[Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models](../conferences/icml-2026/cards/3501-3600.md#paper-palla26a)
 
 <a id="by-modules"></a>
 

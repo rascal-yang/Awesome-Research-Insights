@@ -202,6 +202,7 @@
 - <a id="monteiro26a-optimization"></a>[Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection](../conferences/icml-2026/cards/3301-3400.md#paper-monteiro26a)
 - <a id="mukherjee26c-optimization"></a>[Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs](../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26c)
 - <a id="nikdan26a-optimization"></a>[ECO: Quantized Training without Full-Precision Master Weights](../conferences/icml-2026/cards/3401-3500.md#paper-nikdan26a)
+- <a id="pan26f-optimization"></a>[ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization](../conferences/icml-2026/cards/3501-3600.md#paper-pan26f)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -434,6 +435,7 @@
 - <a id="muhtar26a-training-strategies"></a>[When Does Sparsity Mitigate the Curse of Depth in LLMs](../conferences/icml-2026/cards/3301-3400.md#paper-muhtar26a)
 - <a id="nguyen26r-training-strategies"></a>[Gradient Transformer: Learning to Generate Updates for LLMs](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26r)
 - <a id="noh26a-training-strategies"></a>[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](../conferences/icml-2026/cards/3401-3500.md#paper-noh26a)
+- <a id="padmanabhan26a-training-strategies"></a>[Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities](../conferences/icml-2026/cards/3501-3600.md#paper-padmanabhan26a)
 
 <a id="by-data-strategies"></a>
 
@@ -735,6 +737,8 @@
 - <a id="noshad26a-inference"></a>[MVR-cache: Optimizing Semantic Caching via Multi-Vector Retrieval and Learned Prompt Segmentation](../conferences/icml-2026/cards/3401-3500.md#paper-noshad26a)
 - <a id="oncescu26a-inference"></a>[Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining](../conferences/icml-2026/cards/3501-3600.md#paper-oncescu26a)
 - <a id="ospanov26a-inference"></a>[HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs](../conferences/icml-2026/cards/3501-3600.md#paper-ospanov26a)
+- <a id="ouyang26d-inference"></a>[DenseSteer: Steering Small Language Models towards Dense Math Reasoning](../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26d)
+- <a id="pan26e-inference"></a>[Trajectory-Level Speculative Decoding for Diffusion Language Models](../conferences/icml-2026/cards/3501-3600.md#paper-pan26e)
 
 <a id="by-representation-learning"></a>
 
@@ -1016,6 +1020,8 @@
 - <a id="olmedo26a-evaluation"></a>[Computational Arbitrage in AI Model Markets](../conferences/icml-2026/cards/3501-3600.md#paper-olmedo26a)
 - <a id="oostermeijer26a-evaluation"></a>[Accuracy and Normalized Accuracy under Length Bias: Analysis, Guidelines, and a Bayesian Alternative](../conferences/icml-2026/cards/3501-3600.md#paper-oostermeijer26a)
 - <a id="ou26a-evaluation"></a>[When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models](../conferences/icml-2026/cards/3501-3600.md#paper-ou26a)
+- <a id="pan26a-evaluation"></a>[Measuring Agents in Production](../conferences/icml-2026/cards/3501-3600.md#paper-pan26a)
+- <a id="pan26g-evaluation"></a>[Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs](../conferences/icml-2026/cards/3501-3600.md#paper-pan26g)
 
 <a id="by-theory-statistics"></a>
 
@@ -1067,4 +1073,5 @@
 - <a id="nadgir26a-theory-statistics"></a>[How does Chain of Thought decompose complex tasks?](../conferences/icml-2026/cards/3301-3400.md#paper-nadgir26a)
 - <a id="nie26a-theory-statistics"></a>[A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints](../conferences/icml-2026/cards/3401-3500.md#paper-nie26a)
 - <a id="oko26a-theory-statistics"></a>[Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner](../conferences/icml-2026/cards/3501-3600.md#paper-oko26a)
+- <a id="ouyang26e-theory-statistics"></a>[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26e)
 <!-- classification:end -->

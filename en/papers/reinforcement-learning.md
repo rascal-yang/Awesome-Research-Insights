@@ -164,6 +164,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="nilaksh26a-reinforcement-learning"></a>[Squeezing More from the Stream : Learning Representation Online for Streaming Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#paper-nilaksh26a)
 - <a id="nishimori26a-reinforcement-learning"></a>[Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying](../../conferences/icml-2026/cards/3401-3500.md#paper-nishimori26a)
 - <a id="ota26a-reinforcement-learning"></a>[Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games](../../conferences/icml-2026/cards/3501-3600.md#paper-ota26a)
+- <a id="overman26b-reinforcement-learning"></a>[The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy](../../conferences/icml-2026/cards/3501-3600.md#paper-overman26b)
 
 <a id="by-training-strategies"></a>
 
@@ -197,6 +198,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lu26l-inference"></a>[Improving Diffusion Planners by Self-Supervised Action Gating with Energies](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26l)
 - <a id="opryshko26a-inference"></a>[Test-Time Graph Search for Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-opryshko26a)
 - <a id="oren26a-inference"></a>[Twice Sequential Monte Carlo for Tree Search](../../conferences/icml-2026/cards/3501-3600.md#paper-oren26a)
+- <a id="overman26a-inference"></a>[Calibrating Conservatism for Scalable Oversight](../../conferences/icml-2026/cards/3501-3600.md#paper-overman26a)
 
 <a id="by-representation-learning"></a>
 
@@ -289,4 +291,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="nguyen-tang26a-theory-statistics"></a>[Exact Unlearning in Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen-tang26a)
 - <a id="ni26c-theory-statistics"></a>[Constrained Meta Reinforcement Learning with Provable Test-Time Safety](../../conferences/icml-2026/cards/3401-3500.md#paper-ni26c)
 - <a id="oh26a-theory-statistics"></a>[Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions](../../conferences/icml-2026/cards/3401-3500.md#paper-oh26a)
+- <a id="palasamudram26a-theory-statistics"></a>[Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality](../../conferences/icml-2026/cards/3501-3600.md#paper-palasamudram26a)
 <!-- classification:end -->

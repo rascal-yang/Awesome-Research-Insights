@@ -282,6 +282,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Squeezing More from the Stream : Learning Representation Online for Streaming Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#nilaksh26a-reinforcement-learning) · 中文
 - [Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying](../../conferences/icml-2026/cards/3401-3500.md#nishimori26a-reinforcement-learning) · 中文
 - [Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games](../../conferences/icml-2026/cards/3501-3600.md#ota26a-reinforcement-learning) · 中文
+- [The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy](../../conferences/icml-2026/cards/3501-3600.md#overman26b-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -356,6 +357,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection](../../conferences/icml-2026/cards/3401-3500.md#nguyen26f-reinforcement-learning) · 中文
 - [Contextualized Visual Personalization in Vision-Language Models](../../conferences/icml-2026/cards/3401-3500.md#oh26c-reinforcement-learning) · 中文
 - [OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization](../../conferences/icml-2026/cards/3501-3600.md#ong26a-reinforcement-learning) · 中文
+- [Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#pan26b-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

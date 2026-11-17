@@ -246,6 +246,7 @@
 - [按通道簇建模并顺序累积时序异常证据](../conferences/icml-2026/cards/3301-3400.md#murad26a-architecture) · Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series
 - [可稀疏化的非平稳高斯过程核](../conferences/icml-2026/cards/3401-3500.md#noack26a-architecture) · gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points
 - [把精确零值移出扩散状态](../conferences/icml-2026/cards/3501-3600.md#ostheimer26a-architecture) · Skipping the Zeros in Diffusion Models for Sparse Data Generation
+- [用随机二元潜变量和极化信道编码](../conferences/icml-2026/cards/3501-3600.md#ozyilkan26a-architecture) · SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -365,4 +366,5 @@
 - [误差驱动网格增边](../conferences/icml-2026/cards/3401-3500.md#nguyen26a-architecture) · Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates
 - [肽设计的柔性感知几何扩散](../conferences/icml-2026/cards/3401-3500.md#niu26e-architecture) · Flexibility-Aware Geometric Latent Diffusion for Full-Atom Peptide Design
 - [物理网格的拓扑接线与本构度量](../conferences/icml-2026/cards/3401-3500.md#noguchi26a-architecture) · Mesh Field Theory: Port–Hamiltonian Formulation of Mesh-Based Physics
+- [交换式单细胞扩散](../conferences/icml-2026/cards/3501-3600.md#palla26a-architecture) · Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models
 <!-- classification:end -->

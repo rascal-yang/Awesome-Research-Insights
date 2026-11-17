@@ -65,6 +65,7 @@
 - [分别约束类条件子空间方向和谱容量](../conferences/icml-2026/cards/2801-2900.md#liu26cc-loss-functions) · Geometric Rate–Distortion Invariance for Domain Generalization
 - [带噪潜空间偏好建模](../conferences/icml-2026/cards/2901-3000.md#liu26fh-loss-functions) · Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling
 - [单步像素平均流参数化](../conferences/icml-2026/cards/3001-3100.md#lu26t-loss-functions) · One-step Latent-free Image Generation with Pixel Mean Flows
+- [给地理半正样本分配软负标签](../conferences/icml-2026/cards/3501-3600.md#ouyang26g-loss-functions) · Must All Negatives Be Pushed Away Equally? Uncertainty-Aware Cross-View Geo-Localization via Normal Inverse Gamma Distribution
 
 <a id="by-nlp"></a>
 

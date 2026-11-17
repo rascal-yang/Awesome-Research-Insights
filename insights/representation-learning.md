@@ -71,6 +71,7 @@
 - [用模板拓扑传播与多视图融合指导三维变形](../conferences/icml-2026/cards/3101-3200.md#ma26g-representation-learning) · Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning
 - [让图 minor 沿稀疏分割目标边界收缩](../conferences/icml-2026/cards/3301-3400.md#miller26a-representation-learning) · SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation
 - [独立预测相机位姿和三维场景变化](../conferences/icml-2026/cards/3301-3400.md#morbitzer26a-representation-learning) · Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion
+- [潜空间三维颜色子空间干预](../conferences/icml-2026/cards/3501-3600.md#pach26a-representation-learning) · The Latent Color Subspace: Emergent Order in High-Dimensional Chaos
 
 <a id="by-nlp"></a>
 

@@ -61,6 +61,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lim26a-modules"></a>[Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity](../../conferences/icml-2026/cards/2701-2800.md#paper-lim26a)
 - <a id="ma26ac-modules"></a>[Dual-Latent Memory Routing for Vision-Language Reasoning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ac)
 - <a id="mi26c-modules"></a>[Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](../../conferences/icml-2026/cards/3201-3300.md#paper-mi26c)
+- <a id="pan26d-modules"></a>[Difference-Aware Decision Learning for Multimodal Image Fusion](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26d)
 
 <a id="by-loss-functions"></a>
 
@@ -152,6 +153,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="nguyen26f-reinforcement-learning"></a>[PRPO: Paragraph-level Policy Optimization for Vision-Language Deepfake Detection](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26f)
 - <a id="oh26c-reinforcement-learning"></a>[Contextualized Visual Personalization in Vision-Language Models](../../conferences/icml-2026/cards/3401-3500.md#paper-oh26c)
 - <a id="ong26a-reinforcement-learning"></a>[OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization](../../conferences/icml-2026/cards/3501-3600.md#paper-ong26a)
+- <a id="pan26b-reinforcement-learning"></a>[Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26b)
 
 <a id="by-training-strategies"></a>
 
@@ -304,6 +306,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="minh26a-inference"></a>[ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory](../../conferences/icml-2026/cards/3301-3400.md#paper-minh26a)
 - <a id="nie26d-inference"></a>[Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP](../../conferences/icml-2026/cards/3401-3500.md#paper-nie26d)
 - <a id="ning26b-inference"></a>[V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning](../../conferences/icml-2026/cards/3401-3500.md#paper-ning26b)
+- <a id="ouyang26f-inference"></a>[ReaForest: Fostering Generative Video Reasoning for Spatial Planning](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26f)
 
 <a id="by-representation-learning"></a>
 

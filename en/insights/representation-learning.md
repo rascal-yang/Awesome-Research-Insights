@@ -71,6 +71,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26g-representation-learning) · 中文
 - [SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](../../conferences/icml-2026/cards/3301-3400.md#miller26a-representation-learning) · 中文
 - [Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion](../../conferences/icml-2026/cards/3301-3400.md#morbitzer26a-representation-learning) · 中文
+- [The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](../../conferences/icml-2026/cards/3501-3600.md#pach26a-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

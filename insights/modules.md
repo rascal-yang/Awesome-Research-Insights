@@ -130,6 +130,7 @@
 - [脉冲集合相似度纠正注意力密度偏差](../conferences/icml-2026/cards/2701-2800.md#lim26a-modules) · Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity
 - [视觉证据与推理约束的双潜记忆](../conferences/icml-2026/cards/3101-3200.md#ma26ac-modules) · Dual-Latent Memory Routing for Vision-Language Reasoning
 - [共用跨模态适配器学习视频质量而非类别语义](../conferences/icml-2026/cards/3201-3300.md#mi26c-modules) · Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation
+- [频谱可靠性融合门控](../conferences/icml-2026/cards/3501-3600.md#pan26d-modules) · Difference-Aware Decision Learning for Multimodal Image Fusion
 
 <a id="by-ml-foundations"></a>
 
@@ -175,6 +176,7 @@
 - [结构注意力高阶求导](../conferences/icml-2026/cards/3301-3400.md#mogilevsky26a-modules) · d$^2$p: Structured Soft Attention Is All You Need
 - [在复域内部做几何批归一化](../conferences/icml-2026/cards/3401-3500.md#nguyen26e-modules) · Batch Normalization for Neural Networks on Complex Domains
 - [在状态注入端做动量和谱调节](../conferences/icml-2026/cards/3401-3500.md#nguyen26t-modules) · MuonSSM: Orthogonalizing State Space Models for Sequence Modeling
+- [以可微析取投影嵌入硬规则](../conferences/icml-2026/cards/3501-3600.md#pal26a-modules) · DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers
 
 <a id="by-graph-and-recommendation"></a>
 

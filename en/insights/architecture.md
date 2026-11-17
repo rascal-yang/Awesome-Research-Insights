@@ -246,6 +246,7 @@ Model-wide design and information flow.
 - [Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series](../../conferences/icml-2026/cards/3301-3400.md#murad26a-architecture) · 中文
 - [gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../../conferences/icml-2026/cards/3401-3500.md#noack26a-architecture) · 中文
 - [Skipping the Zeros in Diffusion Models for Sparse Data Generation](../../conferences/icml-2026/cards/3501-3600.md#ostheimer26a-architecture) · 中文
+- [SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation](../../conferences/icml-2026/cards/3501-3600.md#ozyilkan26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -365,4 +366,5 @@ Model-wide design and information flow.
 - [Error-Driven Graph Augmentation for Mesh-Based PDE Surrogates](../../conferences/icml-2026/cards/3401-3500.md#nguyen26a-architecture) · 中文
 - [Flexibility-Aware Geometric Latent Diffusion for Full-Atom Peptide Design](../../conferences/icml-2026/cards/3401-3500.md#niu26e-architecture) · 中文
 - [Mesh Field Theory: Port–Hamiltonian Formulation of Mesh-Based Physics](../../conferences/icml-2026/cards/3401-3500.md#noguchi26a-architecture) · 中文
+- [Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models](../../conferences/icml-2026/cards/3501-3600.md#palla26a-architecture) · 中文
 <!-- classification:end -->

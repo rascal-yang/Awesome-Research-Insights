@@ -59,6 +59,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [How does Chain of Thought decompose complex tasks?](../../conferences/icml-2026/cards/3301-3400.md#nadgir26a-theory-statistics) · 中文
 - [A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints](../../conferences/icml-2026/cards/3401-3500.md#nie26a-theory-statistics) · 中文
 - [Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner](../../conferences/icml-2026/cards/3501-3600.md#oko26a-theory-statistics) · 中文
+- [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../../conferences/icml-2026/cards/3501-3600.md#ouyang26e-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -144,6 +145,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Exact Unlearning in Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#nguyen-tang26a-theory-statistics) · 中文
 - [Constrained Meta Reinforcement Learning with Provable Test-Time Safety](../../conferences/icml-2026/cards/3401-3500.md#ni26c-theory-statistics) · 中文
 - [Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions](../../conferences/icml-2026/cards/3401-3500.md#oh26a-theory-statistics) · 中文
+- [Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality](../../conferences/icml-2026/cards/3501-3600.md#palasamudram26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -509,6 +511,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Gaussian Mean Field Variational Inference can Overestimate Predictive Variance](../../conferences/icml-2026/cards/3401-3500.md#odgers26a-theory-statistics) · 中文
 - [Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets](../../conferences/icml-2026/cards/3501-3600.md#oki26a-theory-statistics) · 中文
 - [Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation](../../conferences/icml-2026/cards/3501-3600.md#osada26a-theory-statistics) · 中文
+- [Allocating Variance to Maximize Expectation](../../conferences/icml-2026/cards/3501-3600.md#paes-leme26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -251,6 +251,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [MVR-cache: Optimizing Semantic Caching via Multi-Vector Retrieval and Learned Prompt Segmentation](../../conferences/icml-2026/cards/3401-3500.md#noshad26a-inference) · 中文
 - [Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining](../../conferences/icml-2026/cards/3501-3600.md#oncescu26a-inference) · 中文
 - [HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs](../../conferences/icml-2026/cards/3501-3600.md#ospanov26a-inference) · 中文
+- [DenseSteer: Steering Small Language Models towards Dense Math Reasoning](../../conferences/icml-2026/cards/3501-3600.md#ouyang26d-inference) · 中文
+- [Trajectory-Level Speculative Decoding for Diffusion Language Models](../../conferences/icml-2026/cards/3501-3600.md#pan26e-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -373,6 +375,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Improving Diffusion Planners by Self-Supervised Action Gating with Energies](../../conferences/icml-2026/cards/3001-3100.md#lu26l-inference) · 中文
 - [Test-Time Graph Search for Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#opryshko26a-inference) · 中文
 - [Twice Sequential Monte Carlo for Tree Search](../../conferences/icml-2026/cards/3501-3600.md#oren26a-inference) · 中文
+- [Calibrating Conservatism for Scalable Oversight](../../conferences/icml-2026/cards/3501-3600.md#overman26a-inference) · 中文
 
 <a id="by-robotics"></a>
 
@@ -484,6 +487,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory](../../conferences/icml-2026/cards/3301-3400.md#minh26a-inference) · 中文
 - [Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP](../../conferences/icml-2026/cards/3401-3500.md#nie26d-inference) · 中文
 - [V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning](../../conferences/icml-2026/cards/3401-3500.md#ning26b-inference) · 中文
+- [ReaForest: Fostering Generative Video Reasoning for Spatial Planning](../../conferences/icml-2026/cards/3501-3600.md#ouyang26f-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -61,6 +61,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="murad26a-architecture"></a>[Cluster-Aware Causal Mixer for Online Anomaly Detection in Multivariate Time Series](../../conferences/icml-2026/cards/3301-3400.md#paper-murad26a)
 - <a id="noack26a-architecture"></a>[gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../../conferences/icml-2026/cards/3401-3500.md#paper-noack26a)
 - <a id="ostheimer26a-architecture"></a>[Skipping the Zeros in Diffusion Models for Sparse Data Generation](../../conferences/icml-2026/cards/3501-3600.md#paper-ostheimer26a)
+- <a id="ozyilkan26a-architecture"></a>[SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation](../../conferences/icml-2026/cards/3501-3600.md#paper-ozyilkan26a)
 
 <a id="by-modules"></a>
 
@@ -106,6 +107,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="mogilevsky26a-modules"></a>[d$^2$p: Structured Soft Attention Is All You Need](../../conferences/icml-2026/cards/3301-3400.md#paper-mogilevsky26a)
 - <a id="nguyen26e-modules"></a>[Batch Normalization for Neural Networks on Complex Domains](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26e)
 - <a id="nguyen26t-modules"></a>[MuonSSM: Orthogonalizing State Space Models for Sequence Modeling](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26t)
+- <a id="pal26a-modules"></a>[DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers](../../conferences/icml-2026/cards/3501-3600.md#paper-pal26a)
 
 <a id="by-loss-functions"></a>
 
@@ -332,6 +334,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="oikonomou26b-optimization"></a>[Adaptive Sharpness-Aware Minimization with a Polyak-type Step size: A Theory-Grounded Scheduler](../../conferences/icml-2026/cards/3501-3600.md#paper-oikonomou26b)
 - <a id="oikonomou26c-optimization"></a>[Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](../../conferences/icml-2026/cards/3501-3600.md#paper-oikonomou26c)
 - <a id="otsuka26a-optimization"></a>[Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation](../../conferences/icml-2026/cards/3501-3600.md#paper-otsuka26a)
+- <a id="pan26c-optimization"></a>[Adaptive Multi-Round Allocation with Stochastic Arrivals](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26c)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -400,6 +403,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ma26ae-training-strategies"></a>[No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ae)
 - <a id="morshed26a-training-strategies"></a>[Compositional Generative Modeling from Decentralized Data](../../conferences/icml-2026/cards/3301-3400.md#paper-morshed26a)
 - <a id="na26b-training-strategies"></a>[Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#paper-na26b)
+- <a id="pachebat26a-training-strategies"></a>[Tail Annealing for Heavy-Tailed Flow Matching](../../conferences/icml-2026/cards/3501-3600.md#paper-pachebat26a)
 
 <a id="by-data-strategies"></a>
 
@@ -565,6 +569,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ma26k-evaluation"></a>[Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26k)
 - <a id="martens26a-evaluation"></a>[OC-space: a Unifying Perspective on Verification of Tree Ensembles](../../conferences/icml-2026/cards/3201-3300.md#paper-martens26a)
 - <a id="meszaros26a-evaluation"></a>[Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers](../../conferences/icml-2026/cards/3201-3300.md#paper-meszaros26a)
+- <a id="paillard26a-evaluation"></a>[Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paper-paillard26a)
+- <a id="pakman26a-evaluation"></a>[Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#paper-pakman26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -916,4 +922,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="odgers26a-theory-statistics"></a>[Gaussian Mean Field Variational Inference can Overestimate Predictive Variance](../../conferences/icml-2026/cards/3401-3500.md#paper-odgers26a)
 - <a id="oki26a-theory-statistics"></a>[Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets](../../conferences/icml-2026/cards/3501-3600.md#paper-oki26a)
 - <a id="osada26a-theory-statistics"></a>[Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation](../../conferences/icml-2026/cards/3501-3600.md#paper-osada26a)
+- <a id="paes-leme26a-theory-statistics"></a>[Allocating Variance to Maximize Expectation](../../conferences/icml-2026/cards/3501-3600.md#paper-paes-leme26a)
 <!-- classification:end -->

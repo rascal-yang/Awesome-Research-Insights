@@ -130,6 +130,7 @@ Reusable components and local changes to model inputs or connections.
 - [Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity](../../conferences/icml-2026/cards/2701-2800.md#lim26a-modules) · 中文
 - [Dual-Latent Memory Routing for Vision-Language Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26ac-modules) · 中文
 - [Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](../../conferences/icml-2026/cards/3201-3300.md#mi26c-modules) · 中文
+- [Difference-Aware Decision Learning for Multimodal Image Fusion](../../conferences/icml-2026/cards/3501-3600.md#pan26d-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -175,6 +176,7 @@ Reusable components and local changes to model inputs or connections.
 - [d$^2$p: Structured Soft Attention Is All You Need](../../conferences/icml-2026/cards/3301-3400.md#mogilevsky26a-modules) · 中文
 - [Batch Normalization for Neural Networks on Complex Domains](../../conferences/icml-2026/cards/3401-3500.md#nguyen26e-modules) · 中文
 - [MuonSSM: Orthogonalizing State Space Models for Sequence Modeling](../../conferences/icml-2026/cards/3401-3500.md#nguyen26t-modules) · 中文
+- [DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers](../../conferences/icml-2026/cards/3501-3600.md#pal26a-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
