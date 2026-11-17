@@ -52,6 +52,7 @@
 - [按归一化权重适度削弱注意力汇聚](../conferences/icml-2026/cards/4101-4200.md#shi26y-modules) · A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models
 - [用频率幅度调制形成多尺度位置核](../conferences/icml-2026/cards/4101-4200.md#shujun26a-modules) · The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency
 - [潜图后验条件化适配](../conferences/icml-2026/cards/4201-4300.md#song26ad-modules) · iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis
+- [triangular-mixing-sidepath](../conferences/icml-2026/cards/4401-4500.md#tao26b-modules) · The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path
 
 <a id="by-computer-vision"></a>
 
@@ -96,6 +97,7 @@
 - [将软视差指导与分层像素选择分开](../conferences/icml-2026/cards/4101-4200.md#shi26h-modules) · ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning
 - [窗口Toeplitz矩阵缓存](../conferences/icml-2026/cards/4201-4300.md#song26ae-modules) · WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution
 - [连续肢体采样补充关节点](../conferences/icml-2026/cards/4301-4400.md#tang26p-modules) · Glimpse: Geometry Learning of Multi-scale Structural Priors for 3D Pose Estimation
+- [primitive-membership-calibration](../conferences/icml-2026/cards/4301-4400.md#tang26ai-modules) · CoGe-GCD: Reframing Generalized Category Discovery with Compositional Generalization
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -200,6 +202,7 @@
 - [按中间分布调节等变](../conferences/icml-2026/cards/3601-3700.md#pertigkiozoglou26a-modules) · Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data
 - [用观察值调节显式状态时长](../conferences/icml-2026/cards/4101-4200.md#slupinski26a-modules) · RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models
 - [硬稀疏可微真值表](../conferences/icml-2026/cards/4101-4200.md#soegeng26a-modules) · TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables
+- [gaussian-associative-memory](../conferences/icml-2026/cards/4401-4500.md#tankala26a-modules) · Dense associative memory for Gaussian distributions
 
 <a id="by-graph-and-recommendation"></a>
 

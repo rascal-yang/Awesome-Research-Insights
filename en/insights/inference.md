@@ -412,6 +412,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Timestep Rescheduling in Diffusion Inversion](../../conferences/icml-2026/cards/4201-4300.md#sun26j-inference) · 中文
 - [RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers](../../conferences/icml-2026/cards/4301-4400.md#sun26aw-inference) · 中文
 - [When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation](../../conferences/icml-2026/cards/4301-4400.md#tang26q-inference) · 中文
+- [Bayesian Tensor Decomposition with Diffusion Model Prior](../../conferences/icml-2026/cards/4401-4500.md#tao26h-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -448,6 +449,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Twice Sequential Monte Carlo for Tree Search](../../conferences/icml-2026/cards/3501-3600.md#oren26a-inference) · 中文
 - [Calibrating Conservatism for Scalable Oversight](../../conferences/icml-2026/cards/3501-3600.md#overman26a-inference) · 中文
 - [Latent Guided Sampling for Combinatorial Optimization](../../conferences/icml-2026/cards/4301-4400.md#surendran26a-inference) · 中文
+- [NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search](../../conferences/icml-2026/cards/4301-4400.md#tang26ae-inference) · 中文
 
 <a id="by-robotics"></a>
 

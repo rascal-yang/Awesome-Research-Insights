@@ -50,6 +50,7 @@
 - [在惩罚两类失败的同时排序失败严重程度](../conferences/icml-2026/cards/4101-4200.md#simko26a-loss-functions) · Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks
 - [属性熵减少的澄清提问奖励](../conferences/icml-2026/cards/4201-4300.md#sun26i-loss-functions) · Closing the Expression Gap in LLM Instructions via Socratic Questioning
 - [按成败分组的熵重分配](../conferences/icml-2026/cards/4301-4400.md#tan26e-loss-functions) · GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy
+- [reference-regularized-self-play](../conferences/icml-2026/cards/4301-4400.md#tang26ab-loss-functions) · RSPO: Regularized Self-Play Alignment of Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -193,6 +194,7 @@
 - [稀疏雅可比与少量锚点配准](../conferences/icml-2026/cards/4101-4200.md#shrestha26a-loss-functions) · Domain Transfer Becomes Identifiable via a Single Alignment
 - [分布约束校准与无偏矩损失](../conferences/icml-2026/cards/4101-4200.md#smith26a-loss-functions) · Calibrating Generative Models to Distributional Constraints
 - [全序事件下界训练](../conferences/icml-2026/cards/4301-4400.md#tang26x-loss-functions) · Learning to Rank by Directly Optimizing Full-Order Probabilities
+- [value-repulsion-grokking](../conferences/icml-2026/cards/4401-4500.md#tao26f-loss-functions) · The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization
 
 <a id="by-graph-and-recommendation"></a>
 

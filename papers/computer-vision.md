@@ -115,6 +115,7 @@
 - <a id="shi26h-modules"></a>[ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning](../conferences/icml-2026/cards/4101-4200.md#paper-shi26h)
 - <a id="song26ae-modules"></a>[WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution](../conferences/icml-2026/cards/4201-4300.md#paper-song26ae)
 - <a id="tang26p-modules"></a>[Glimpse: Geometry Learning of Multi-scale Structural Priors for 3D Pose Estimation](../conferences/icml-2026/cards/4301-4400.md#paper-tang26p)
+- <a id="tang26ai-modules"></a>[CoGe-GCD: Reframing Generalized Category Discovery with Compositional Generalization](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ai)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -395,6 +396,7 @@
 - <a id="sun26j-inference"></a>[Timestep Rescheduling in Diffusion Inversion](../conferences/icml-2026/cards/4201-4300.md#paper-sun26j)
 - <a id="sun26aw-inference"></a>[RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers](../conferences/icml-2026/cards/4301-4400.md#paper-sun26aw)
 - <a id="tang26q-inference"></a>[When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation](../conferences/icml-2026/cards/4301-4400.md#paper-tang26q)
+- <a id="tao26h-inference"></a>[Bayesian Tensor Decomposition with Diffusion Model Prior](../conferences/icml-2026/cards/4401-4500.md#paper-tao26h)
 
 <a id="by-representation-learning"></a>
 

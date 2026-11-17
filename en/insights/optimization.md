@@ -392,6 +392,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Zeroth-Order Optimization at the Edge of Stability](../../conferences/icml-2026/cards/4201-4300.md#song26ac-optimization) · 中文
 - [Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace](../../conferences/icml-2026/cards/4201-4300.md#sun26r-optimization) · 中文
 - [Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity](../../conferences/icml-2026/cards/4301-4400.md#tan26a-optimization) · 中文
+- [Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction](../../conferences/icml-2026/cards/4401-4500.md#tao26d-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

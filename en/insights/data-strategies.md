@@ -75,6 +75,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4201-4300.md#sun26p-data-strategies) · 中文
 - [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](../../conferences/icml-2026/cards/4301-4400.md#sundaram26a-data-strategies) · 中文
 - [At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization](../../conferences/icml-2026/cards/4301-4400.md#suresh26a-data-strategies) · 中文
+- [SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection](../../conferences/icml-2026/cards/4301-4400.md#tang26y-data-strategies) · 中文
+- [CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling](../../conferences/icml-2026/cards/4301-4400.md#tang26aa-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

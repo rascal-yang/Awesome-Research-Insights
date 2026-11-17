@@ -50,6 +50,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks](../../conferences/icml-2026/cards/4101-4200.md#simko26a-loss-functions) · 中文
 - [Closing the Expression Gap in LLM Instructions via Socratic Questioning](../../conferences/icml-2026/cards/4201-4300.md#sun26i-loss-functions) · 中文
 - [GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](../../conferences/icml-2026/cards/4301-4400.md#tan26e-loss-functions) · 中文
+- [RSPO: Regularized Self-Play Alignment of Large Language Models](../../conferences/icml-2026/cards/4301-4400.md#tang26ab-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -193,6 +194,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Domain Transfer Becomes Identifiable via a Single Alignment](../../conferences/icml-2026/cards/4101-4200.md#shrestha26a-loss-functions) · 中文
 - [Calibrating Generative Models to Distributional Constraints](../../conferences/icml-2026/cards/4101-4200.md#smith26a-loss-functions) · 中文
 - [Learning to Rank by Directly Optimizing Full-Order Probabilities](../../conferences/icml-2026/cards/4301-4400.md#tang26x-loss-functions) · 中文
+- [The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization](../../conferences/icml-2026/cards/4401-4500.md#tao26f-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

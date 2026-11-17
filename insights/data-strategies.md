@@ -75,6 +75,8 @@
 - [boundary-aware-evidence-curriculum](../conferences/icml-2026/cards/4201-4300.md#sun26p-data-strategies) · Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation
 - [以学生真进步奖励课程生成](../conferences/icml-2026/cards/4301-4400.md#sundaram26a-data-strategies) · Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability
 - [sae-ood-selection](../conferences/icml-2026/cards/4301-4400.md#suresh26a-data-strategies) · At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization
+- [knowledge-injection-scaling](../conferences/icml-2026/cards/4301-4400.md#tang26y-data-strategies) · SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection
+- [first-error-local-repair](../conferences/icml-2026/cards/4301-4400.md#tang26aa-data-strategies) · CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling
 
 <a id="by-computer-vision"></a>
 

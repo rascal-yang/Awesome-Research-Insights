@@ -104,6 +104,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shi26y-modules"></a>[A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26y)
 - <a id="shujun26a-modules"></a>[The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency](../../conferences/icml-2026/cards/4101-4200.md#paper-shujun26a)
 - <a id="song26ad-modules"></a>[iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ad)
+- <a id="tao26b-modules"></a>[The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26b)
 
 <a id="by-loss-functions"></a>
 
@@ -146,6 +147,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="simko26a-loss-functions"></a>[Training with Honeypots: Reshaping How LLMs Fail Under Adversarial Attacks](../../conferences/icml-2026/cards/4101-4200.md#paper-simko26a)
 - <a id="sun26i-loss-functions"></a>[Closing the Expression Gap in LLM Instructions via Socratic Questioning](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26i)
 - <a id="tan26e-loss-functions"></a>[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26e)
+- <a id="tang26ab-loss-functions"></a>[RSPO: Regularized Self-Play Alignment of Large Language Models](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26ab)
 
 <a id="by-optimization"></a>
 
@@ -584,6 +586,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="sun26p-data-strategies"></a>[Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26p)
 - <a id="sundaram26a-data-strategies"></a>[Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](../../conferences/icml-2026/cards/4301-4400.md#paper-sundaram26a)
 - <a id="suresh26a-data-strategies"></a>[At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization](../../conferences/icml-2026/cards/4301-4400.md#paper-suresh26a)
+- <a id="tang26y-data-strategies"></a>[SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26y)
+- <a id="tang26aa-data-strategies"></a>[CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26aa)
 
 <a id="by-inference"></a>
 
@@ -1204,6 +1208,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="talokar26a-evaluation"></a>[Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents](../../conferences/icml-2026/cards/4301-4400.md#paper-talokar26a)
 - <a id="tamber26a-evaluation"></a>[Unifying Adversarial Robustness and Training Across Text Scoring Models](../../conferences/icml-2026/cards/4301-4400.md#paper-tamber26a)
 - <a id="tan26g-evaluation"></a>[Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26g)
+- <a id="tang26ad-evaluation"></a>[Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26ad)
+- <a id="tang26ah-evaluation"></a>[Do Language Models Track Entities Across State Changes?](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26ah)
 
 <a id="by-theory-statistics"></a>
 

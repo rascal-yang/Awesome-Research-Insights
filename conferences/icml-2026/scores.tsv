@@ -4388,26 +4388,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4387	tang26v							排除：重新检查完整PDF31–38页与最近原始工作后，经验部分采用既有Delfosse安全有理激活作VGG/离线RL/Transformer替换；PDF6/32的GroupNorm退化与PDF31仿射冗余解释未隔离新纠偏操作。Surdej等2025原文PDF5–6已报告LayerNorm使有理激活在原本稳定环境也出现爆炸（https://arxiv.org/pdf/2507.14736#page=6），ERA2022原文PDF6–8已研究归一化选择，故归一化依赖性不是独立新规律；本篇新增GroupNorm/VGG条件属于窄补充，不能仅以替换后的跑分单独保留。表达性主张另有GELU整函数与复奇点论证疑点（本篇PDF3–4），但排除不只依赖该理论疑点。 原文：https://proceedings.mlr.press/v306/tang26v.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26v/tang26v.pdf。	rule-excluded
 4388	tang26w	4	5	4	4	86		新增量4：双请求批交替推测解码；复用5：服务吞吐可用两个独立请求批交替draft/verify，隐藏草稿延迟；请求完成、抢占和批空时必须维护批身份与回退。；可用4：步骤和对照已给，边界为不等算力原始收益不能直接称算法效率；需持续请求填满双批，chunked prefill/抢占可能失衡；大draft窗口可反而拖慢；37.9%理论降时依赖特定指数接受模型及忽略启动。；独特4：按本批最近机制判断，尚需全库去重；证据PDF第2,3,4,5,6,8页。 原文：https://proceedings.mlr.press/v306/tang26w.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26w/tang26w.pdf。	scored
 4389	tang26x	4	4	4	4	80		新增量4：全序事件下界训练；复用4：需要全列表排序一致性时可为每项预测独立位置尺度分布，用有序切点限定各项落入各自区间，最大化可计算全序概率下界。；可用4：步骤和对照已给，边界为优化的是独立潜变量的全序下界而非精确全序概率；内层凹性需log-concave密度；列表变长下界变松；与最佳排序方法差异有CI重叠，不是全面优胜。；独特4：按本批最近机制判断，尚需全库去重；证据PDF第5,6,7,8,9页。 原文：https://proceedings.mlr.press/v306/tang26x.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26x/tang26x.pdf。	scored
-4390	tang26y							待原文复核评分	pending
-4391	tang26z							待原文复核评分	pending
-4392	tang26aa							待原文复核评分	pending
-4393	tang26ab							待原文复核评分	pending
-4394	tang26ac							待原文复核评分	pending
-4395	tang26ad							待原文复核评分	pending
-4396	tang26ae							待原文复核评分	pending
-4397	tang26af							待原文复核评分	pending
-4398	tang26ag							待原文复核评分	pending
-4399	tang26ah							待原文复核评分	pending
-4400	tang26ai							待原文复核评分	pending
-4401	tankala26a							待原文复核评分	pending
-4402	tao26a							待原文复核评分	pending
-4403	tao26b							待原文复核评分	pending
-4404	tao26c							待原文复核评分	pending
-4405	tao26d							待原文复核评分	pending
-4406	tao26e							待原文复核评分	pending
-4407	tao26f							待原文复核评分	pending
-4408	tao26g							待原文复核评分	pending
-4409	tao26h							待原文复核评分	pending
+4390	tang26y	3	4	4	3	70		新增量/复用/使用/独特性依次评分；知识注入应先按合成token预算比较固定多提示扩写：RL生成器的小规模效率优势会伴随重复而饱和，复杂多阶段提示未必优于精调单阶段提示。 方法及对照见原文PDF第3–8页；多样性仅每基准五文档；重复与饱和是相关证据，未隔离因果；不同生成器、引用基线不可完全等同；不推广为RL生成必然失败。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26y/tang26y.pdf	scored
+4391	tang26z							第3–6页普通cross-attention/top-k视觉检索、简化递归与SFT/蒸馏/GRPO串接，未核实相较最近潜空间视觉推理的独立新增机制；第5页新证据超过压缩损失是额外条件，不能由Markov命名保证熵下降。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26z/tang26z.pdf	rule-excluded
+4392	tang26aa	4	4	4	4	80		新增量/复用/使用/独特性依次评分；适配已有推理模型时，在其首次具体错误处插短提示并继续原轨迹，可比完整教师答案替换更好地保留后续RL可探索的求解行为。 方法及对照见原文PDF第3–8页；验证集中在运筹建模；教师诊断/质量过滤有成本；不能把完整系统11.8百分点全归于hint；其他领域迁移仅有限补充。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26aa/tang26aa.pdf	scored
+4393	tang26ab	3	4	4	3	70		新增量/复用/使用/独特性依次评分；自博弈对齐可把参考策略散度直接加到SPPO目标；前向KL偏短回答，反向KL更利胜率，应按长度与质量分开调温度。 方法及对照见原文PDF第3–8页；均衡定理要求线性博弈、相对1强凸、η≤τ及on-policy等；不能保证任意神经SGD收敛；正则温度/模型相关，前向KL实用近似可能违背假设。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26ab/tang26ab.pdf	scored
+4394	tang26ac							第3–8页将约束显式化、配置锚定、Mathlib映射及编译修复串接以生成几何数据；贡献主要专用数据/工程验证，未提取超出已有LLM形式化修复的可独立复用机制；编译通过不等于语义正确。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26ac/tang26ac.pdf	rule-excluded
+4395	tang26ad	5	5	4	5	96		新增量/复用/使用/独特性依次评分；用可精确求后验的马尔可夫链替换扩散去噪器，单独审核采样器：并行边缘正确不代表联合正确，低GenPPL也可能只是锐化造成。 方法及对照见原文PDF第3–8页；仅可控bigram先验与所测采样规则；置信选择有额外偏差，不能断言所有T步方案精确；图示曲线不造精确KL数值。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26ad/tang26ad.pdf	scored
+4396	tang26ae	4	4	3	4	76		新增量/复用/使用/独特性依次评分；多智能体树搜索可保持小候选集，用单智能体差分和双智能体混合差分提出协调动作，避免枚举全部联合动作。 方法及对照见原文PDF第3–8页；反事实来自学习模型；理论仅代理上单/双智能体局部偏移与光滑/估计误差条件的局部遗憾，非真实环境全局最优；invex表述不推出离散全局保证。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26ae/tang26ae.pdf	scored
+4397	tang26af							第5–8页以LCU/多路控制门实现傅里叶基与相位、给Sobolev逼近复杂度；操作限量子电路，未指出能具体改变常规具身或相关深度学习的技术选择，不能以通用逼近标签代替迁移证据。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26af/tang26af.pdf	rule-excluded
+4398	tang26ag							第3–7页七角色、领域RAG、代码执行、图检查和假设验证重规划为天气诊断集成；移除知识库有收益但未隔离新的通用推理/学习机制，五异常确认亦非因果归因保证。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26ag/tang26ag.pdf	rule-excluded
+4399	tang26ah	5	5	4	5	96		新增量/复用/使用/独特性依次评分；状态追踪测试需加入空删除、跨容器同名物与删除后重放：模型可能学到全局抑制实体标签，普通唯一实体基准掩盖了绑定错误。 方法及对照见原文PDF第3–8页；线性probe不可读不证明状态绝对不存在；人工boxes文本与选定模型，不能外推所有LLM；干预为最佳单层概念验证且未恢复完整REMOVE电路。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26ah/tang26ah.pdf	scored
+4400	tang26ai	3	4	4	3	70		新增量/复用/使用/独特性依次评分；开放类别发现可先将patch按原型列归一化，再在空间邻近图上扩散成员度并重新列归一化，增强未知类别组合表征。 方法及对照见原文PDF第3–8页；类别数多为给定；MSE理论要求低秩线性生成、光滑及噪声大于平滑偏差，非一般组合泛化保证；列归一化不自动保证不同原型不塌缩。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tang26ai/tang26ai.pdf	scored
+4401	tankala26a	4	4	4	4	80		新增量/复用/使用/独特性依次评分；高斯记忆检索应以Wasserstein距离定权并混合最优传输映射更新协方差，避免展平均值/协方差后做欧氏平均。 方法及对照见原文PDF第3–8页；容量指数结论只针对特定随机球构造、SPD谱界/分离与足够β；有限β固定点不等于存储分布；实数据未核验理论假设；能量极限为正min W²。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tankala26a/tankala26a.pdf	scored
+4402	tao26a							第3–7页文本记忆分层、语义+DTW检索、多轨迹打分、规则反思及成功置信累加主要组合成熟记忆/RAG/reflection；消融验证各模块有用不足以说明独立新机制，置信更新还依赖已到达真值。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26a/tao26a.pdf	rule-excluded
+4403	tao26b	4	5	4	4	86		新增量/复用/使用/独特性依次评分；长上下文模型可加双因果box滤波旁路，按层倍增窗口并按窗口/长度比门控，提供线性成本的固定多尺度信息通路。 方法及对照见原文PDF第3–8页；行随机矩阵不保证最大奇异值1，1−σ2不是一般混合率；循环图理论不能直接当因果残差网络保证；SPR为扰动增益代理；相对覆盖随T增大减小。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26b/tao26b.pdf	scored
+4404	tao26c							正文PDF第4–5页及第9页承认MaPER已联合TD/奖励/转移预测误差做优先回放，Curious Replay亦按模型陌生度回放；PMER改为仅训练动力学并用单预测误差、衰减/排名/均匀混采，未隔离超出成熟error-replay的独立新操作。第3–4页global/local错配沿用已有MBPO/PDML；第6–7页消融及附录D相关性不能确立高误差必指向当前策略的新普遍规律，故不单独收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26c/tao26c.pdf	rule-excluded
+4405	tao26d	4	4	3	4	76		新增量/复用/使用/独特性依次评分；多粒子神经过程可按损失分位分组，给各难度层平衡下降；对softmax权重logit正则并用跨步损失下降近似梯度积以省反传。 方法及对照见原文PDF第3–8页；强凸需有界梯度F且λ>2F²；收敛需额外光滑/步长/有界logit条件，仅liminf方向范数0；重采样及换分层混入loss-delta，非精确Taylor梯度积。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26d/tao26d.pdf	scored
+4406	tao26e							第4–8页动态残差2DGS、NormalCrafter法线监督、EnvGS式反射光追与粗到细训练组合；法线一致损失沿用2DGS、时序损失常规监督，新增主要动态场景整合，未提取超出最近反射/动态GS的独立机制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26e/tao26e.pdf	rule-excluded
+4407	tao26f	4	4	4	4	80		新增量/复用/使用/独特性依次评分；可用随机配对Value向量距离总和的倒数作为辅助损失：表示拥挤时排斥较强，分离后自动减弱，促进所测符号任务的grokking。 方法及对照见原文PDF第3–8页；理论径向/角向分解为局部更新分析，不能证明所有grokking根因；实验小型符号/语言任务，未证实大模型或机器人泛化；α需调，零距离数值处理需查实现。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26f/tao26f.pdf	scored
+4408	tao26g	4	3	3	4	70		4/3/3/4：随机参考方向及按坐标能量自适应二分有独立理论增量（PDF第5–7页），复用限精确比较/L光滑/已知非零梯度下界。仅保留方向估计，不采信未经核验O(1)测试；PDF第6页Alg3第17行重复下界笔误，证明写正确中点，实现需校正且未运行复现。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26g/tao26g.pdf	scored
+4409	tao26h	4	4	3	4	76		新增量/复用/使用/独特性依次评分；可用辅助完整张量把CP低秩因子与扩散数据先验分块，令因子保持共轭更新，扩散块接受低秩重构作去噪条件。 方法及对照见原文PDF第3–8页；固定ρ下目标已平滑有偏；神经去噪近似另加偏；τρ²=c随τ改变目标，不能称整个自适应链精确固定后验Gibbs；OOD仅三图；先验有域依赖与采样成本。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tao26h/tao26h.pdf	scored
 4410	tarale26a							待原文复核评分	pending
 4411	taranovic26a							待原文复核评分	pending
 4412	tarasov26a							待原文复核评分	pending

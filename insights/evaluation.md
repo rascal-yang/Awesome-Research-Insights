@@ -309,6 +309,8 @@
 - [多轮工具安全的过滤盲点与推理预算](../conferences/icml-2026/cards/4301-4400.md#talokar26a-evaluation) · Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents
 - [威胁族间鲁棒迁移失败](../conferences/icml-2026/cards/4301-4400.md#tamber26a-evaluation) · Unifying Adversarial Robustness and Training Across Text Scoring Models
 - [自奖励的耦合与过奖励偏差](../conferences/icml-2026/cards/4301-4400.md#tan26g-evaluation) · Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL
+- [oracle-sampler-audit](../conferences/icml-2026/cards/4301-4400.md#tang26ad-evaluation) · Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models
+- [global-removal-failure](../conferences/icml-2026/cards/4301-4400.md#tang26ah-evaluation) · Do Language Models Track Entities Across State Changes?
 
 <a id="by-computer-vision"></a>
 

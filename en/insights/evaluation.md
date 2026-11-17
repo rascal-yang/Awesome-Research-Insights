@@ -309,6 +309,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents](../../conferences/icml-2026/cards/4301-4400.md#talokar26a-evaluation) · 中文
 - [Unifying Adversarial Robustness and Training Across Text Scoring Models](../../conferences/icml-2026/cards/4301-4400.md#tamber26a-evaluation) · 中文
 - [Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL](../../conferences/icml-2026/cards/4301-4400.md#tan26g-evaluation) · 中文
+- [Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#tang26ad-evaluation) · 中文
+- [Do Language Models Track Entities Across State Changes?](../../conferences/icml-2026/cards/4301-4400.md#tang26ah-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

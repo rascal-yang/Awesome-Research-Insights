@@ -230,6 +230,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="oren26a-inference"></a>[Twice Sequential Monte Carlo for Tree Search](../../conferences/icml-2026/cards/3501-3600.md#paper-oren26a)
 - <a id="overman26a-inference"></a>[Calibrating Conservatism for Scalable Oversight](../../conferences/icml-2026/cards/3501-3600.md#paper-overman26a)
 - <a id="surendran26a-inference"></a>[Latent Guided Sampling for Combinatorial Optimization](../../conferences/icml-2026/cards/4301-4400.md#paper-surendran26a)
+- <a id="tang26ae-inference"></a>[NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26ae)
 
 <a id="by-representation-learning"></a>
 

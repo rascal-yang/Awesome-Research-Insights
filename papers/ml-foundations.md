@@ -124,6 +124,7 @@
 - <a id="pertigkiozoglou26a-modules"></a>[Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data](../conferences/icml-2026/cards/3601-3700.md#paper-pertigkiozoglou26a)
 - <a id="slupinski26a-modules"></a>[RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models](../conferences/icml-2026/cards/4101-4200.md#paper-slupinski26a)
 - <a id="soegeng26a-modules"></a>[TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables](../conferences/icml-2026/cards/4101-4200.md#paper-soegeng26a)
+- <a id="tankala26a-modules"></a>[Dense associative memory for Gaussian distributions](../conferences/icml-2026/cards/4401-4500.md#paper-tankala26a)
 
 <a id="by-loss-functions"></a>
 
@@ -167,6 +168,7 @@
 - <a id="shrestha26a-loss-functions"></a>[Domain Transfer Becomes Identifiable via a Single Alignment](../conferences/icml-2026/cards/4101-4200.md#paper-shrestha26a)
 - <a id="smith26a-loss-functions"></a>[Calibrating Generative Models to Distributional Constraints](../conferences/icml-2026/cards/4101-4200.md#paper-smith26a)
 - <a id="tang26x-loss-functions"></a>[Learning to Rank by Directly Optimizing Full-Order Probabilities](../conferences/icml-2026/cards/4301-4400.md#paper-tang26x)
+- <a id="tao26f-loss-functions"></a>[The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization](../conferences/icml-2026/cards/4401-4500.md#paper-tao26f)
 
 <a id="by-optimization"></a>
 
@@ -400,6 +402,7 @@
 - <a id="song26ac-optimization"></a>[Zeroth-Order Optimization at the Edge of Stability](../conferences/icml-2026/cards/4201-4300.md#paper-song26ac)
 - <a id="sun26r-optimization"></a>[Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace](../conferences/icml-2026/cards/4201-4300.md#paper-sun26r)
 - <a id="tan26a-optimization"></a>[Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity](../conferences/icml-2026/cards/4301-4400.md#paper-tan26a)
+- <a id="tao26d-optimization"></a>[Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction](../conferences/icml-2026/cards/4401-4500.md#paper-tao26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1048,4 +1051,5 @@
 - <a id="takeno26a-theory-statistics"></a>[On Regret Bounds of Thompson Sampling for Bayesian Optimization](../conferences/icml-2026/cards/4301-4400.md#paper-takeno26a)
 - <a id="takezawa26a-theory-statistics"></a>[Improved Convergence Analysis of Topology Dependence in Decentralized SGD](../conferences/icml-2026/cards/4301-4400.md#paper-takezawa26a)
 - <a id="takhanov26a-theory-statistics"></a>[Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding](../conferences/icml-2026/cards/4301-4400.md#paper-takhanov26a)
+- <a id="tao26g-theory-statistics"></a>[Gradient Testing and Estimation by Comparisons](../conferences/icml-2026/cards/4401-4500.md#paper-tao26g)
 <!-- classification:end -->

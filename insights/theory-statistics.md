@@ -548,6 +548,7 @@
 - [Thompson采样尾部风险边界](../conferences/icml-2026/cards/4301-4400.md#takeno26a-theory-statistics) · On Regret Bounds of Thompson Sampling for Bayesian Optimization
 - [全谱区分随机噪声与异质性](../conferences/icml-2026/cards/4301-4400.md#takezawa26a-theory-statistics) · Improved Convergence Analysis of Topology Dependence in Decentralized SGD
 - [核回归的不惩罚子空间](../conferences/icml-2026/cards/4301-4400.md#takhanov26a-theory-statistics) · Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding
+- [comparison-gradient-direction](../conferences/icml-2026/cards/4401-4500.md#tao26g-theory-statistics) · Gradient Testing and Estimation by Comparisons
 
 <a id="by-graph-and-recommendation"></a>
 

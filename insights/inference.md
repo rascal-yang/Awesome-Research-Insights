@@ -412,6 +412,7 @@
 - [固定步数反演的误差代理调度](../conferences/icml-2026/cards/4201-4300.md#sun26j-inference) · Timestep Rescheduling in Diffusion Inversion
 - [稀疏高强度CFG与分区校准](../conferences/icml-2026/cards/4301-4400.md#sun26aw-inference) · RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers
 - [PU过滤后校准零样本原型](../conferences/icml-2026/cards/4301-4400.md#tang26q-inference) · When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation
+- [low-rank-diffusion-splitting](../conferences/icml-2026/cards/4401-4500.md#tao26h-inference) · Bayesian Tensor Decomposition with Diffusion Model Prior
 
 <a id="by-nlp"></a>
 
@@ -448,6 +449,7 @@
 - [先按根动作分配粒子再做树搜索](../conferences/icml-2026/cards/3501-3600.md#oren26a-inference) · Twice Sequential Monte Carlo for Tree Search
 - [用多个评分器校准行动保守度](../conferences/icml-2026/cards/3501-3600.md#overman26a-inference) · Calibrating Conservatism for Scalable Oversight
 - [latent-particle-decoder-adaptation](../conferences/icml-2026/cards/4301-4400.md#surendran26a-inference) · Latent Guided Sampling for Combinatorial Optimization
+- [discrete-curvature-joint-search](../conferences/icml-2026/cards/4301-4400.md#tang26ae-inference) · NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search
 
 <a id="by-robotics"></a>
 
