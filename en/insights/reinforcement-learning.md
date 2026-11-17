@@ -82,6 +82,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26x-reinforcement-learning) · 中文
 - [From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training](../../conferences/icml-2026/cards/1901-2000.md#jiang26y-reinforcement-learning) · 中文
 - [Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ak-reinforcement-learning) · 中文
+- [Adversarial Training for Process Reward Models](../../conferences/icml-2026/cards/2001-2100.md#juneja26a-reinforcement-learning) · 中文
+- [Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems](../../conferences/icml-2026/cards/2001-2100.md#juneja26b-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

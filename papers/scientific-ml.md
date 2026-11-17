@@ -52,6 +52,7 @@
 - <a id="jin26i-architecture"></a>[EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design](../conferences/icml-2026/cards/1901-2000.md#paper-jin26i)
 - <a id="jin26p-architecture"></a>[Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling](../conferences/icml-2026/cards/1901-2000.md#paper-jin26p)
 - <a id="jing26h-architecture"></a>[Scaling-Aware Adapter for Structure-Grounded LLM Reasoning](../conferences/icml-2026/cards/1901-2000.md#paper-jing26h)
+- <a id="ju26a-architecture"></a>[Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems](../conferences/icml-2026/cards/2001-2100.md#paper-ju26a)
 
 <a id="by-modules"></a>
 

@@ -50,6 +50,8 @@
 - [把偏好异质性与通信混合拆进 DPO 收敛](../conferences/icml-2026/cards/1901-2000.md#jiang26h-optimization) · Distributed Direct Preference Optimization
 - [分别对梯度和更新施加软谱裁剪](../conferences/icml-2026/cards/1901-2000.md#jiang26am-optimization) · Enhancing LLM Training via Spectral Clipping
 - [用历次合并成败学习下一组权重](../conferences/icml-2026/cards/1901-2000.md#jiang26az-optimization) · EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization
+- [给低频同步的低秩更新保留全秩方向](../conferences/icml-2026/cards/2001-2100.md#jovanovic26a-optimization) · LoRDO: Distributed Low-Rank Optimization with Infrequent Communication
+- [将自适应优化坐标旋向 Hessian 主轴](../conferences/icml-2026/cards/2001-2100.md#jung26h-optimization) · Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation
 
 <a id="by-computer-vision"></a>
 
@@ -249,6 +251,7 @@
 - [用传输控制穿越组合松弛能量面](../conferences/icml-2026/cards/1701-1800.md#huang26bz-optimization) · Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization
 - [用扩散轨迹不稳定性寻找集合覆盖修复区](../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion
 - [用树流动态规划分配定额标签预算](../conferences/icml-2026/cards/1901-2000.md#john26a-optimization) · An Approximation Algorithm for Graph Label Selection
+- [动态图只在查询时抽取聚类核心集](../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · Fully Dynamic Coreset Spectral Clustering
 
 <a id="by-scientific-ml"></a>
 

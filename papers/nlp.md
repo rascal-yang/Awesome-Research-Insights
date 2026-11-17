@@ -73,6 +73,7 @@
 - <a id="jaasaari26a-inference"></a>[LEMUR: Learned Multi-Vector Retrieval](../conferences/icml-2026/cards/1801-1900.md#paper-jaasaari26a)
 - <a id="jiang26l-inference"></a>[Incremental BPE Tokenization](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26l)
 - <a id="jiang26aa-inference"></a>[Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aa)
+- <a id="jung26e-inference"></a>[Context-Driven Incremental Compression for Multi-Turn Dialogue Generation](../conferences/icml-2026/cards/2001-2100.md#paper-jung26e)
 
 <a id="by-representation-learning"></a>
 

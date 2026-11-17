@@ -50,6 +50,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Distributed Direct Preference Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26h-optimization) · 中文
 - [Enhancing LLM Training via Spectral Clipping](../../conferences/icml-2026/cards/1901-2000.md#jiang26am-optimization) · 中文
 - [EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26az-optimization) · 中文
+- [LoRDO: Distributed Low-Rank Optimization with Infrequent Communication](../../conferences/icml-2026/cards/2001-2100.md#jovanovic26a-optimization) · 中文
+- [Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](../../conferences/icml-2026/cards/2001-2100.md#jung26h-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -249,6 +251,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization](../../conferences/icml-2026/cards/1701-1800.md#huang26bz-optimization) · 中文
 - [Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](../../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · 中文
 - [An Approximation Algorithm for Graph Label Selection](../../conferences/icml-2026/cards/1901-2000.md#john26a-optimization) · 中文
+- [Fully Dynamic Coreset Spectral Clustering](../../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 

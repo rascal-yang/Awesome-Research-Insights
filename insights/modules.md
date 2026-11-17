@@ -123,6 +123,7 @@
 - [只在稀疏路由决策边界引入连续过渡](../conferences/icml-2026/cards/1701-1800.md#huu26a-modules) · Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts
 - [从输入块预估累加部分和的量化尺度](../conferences/icml-2026/cards/1701-1800.md#hwang26a-modules) · PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference
 - [把目标偏好写进边注意力](../conferences/icml-2026/cards/1801-1900.md#jia26l-modules) · Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization
+- [在中间层用互斥正交子空间分离变因](../conferences/icml-2026/cards/2001-2100.md#jung26g-modules) · Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -1995,30 +1995,30 @@ number	pmlr_id	title	paper_url	insight_status
 1994	jo26a	Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection	https://proceedings.mlr.press/v306/jo26a.html	written
 1995	johari26a	Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator	https://proceedings.mlr.press/v306/johari26a.html	written
 1996	john26a	An Approximation Algorithm for Graph Label Selection	https://proceedings.mlr.press/v306/john26a.html	written
-1997	johnson26a	VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks	https://proceedings.mlr.press/v306/johnson26a.html	pending
-1998	jones26a	A New Framework for Cybersecurity Refusals in AI Agents	https://proceedings.mlr.press/v306/jones26a.html	pending
-1999	jones26b	When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents	https://proceedings.mlr.press/v306/jones26b.html	pending
-2000	joo26a	PEARL: Differentially Private and Entropy-Aware Regulated Language Generation	https://proceedings.mlr.press/v306/joo26a.html	pending
-2001	jordan26a	Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation	https://proceedings.mlr.press/v306/jordan26a.html	pending
-2002	joseph26a	Interpreting Physics in Video World Models	https://proceedings.mlr.press/v306/joseph26a.html	pending
-2003	jourdan26a	Fully Dynamic Coreset Spectral Clustering	https://proceedings.mlr.press/v306/jourdan26a.html	pending
-2004	jovanovic26a	LoRDO: Distributed Low-Rank Optimization with Infrequent Communication	https://proceedings.mlr.press/v306/jovanovic26a.html	pending
-2005	ju26a	Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems	https://proceedings.mlr.press/v306/ju26a.html	pending
-2006	ju26b	Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching	https://proceedings.mlr.press/v306/ju26b.html	pending
-2007	ju26c	Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction	https://proceedings.mlr.press/v306/ju26c.html	pending
-2008	juneja26a	Adversarial Training for Process Reward Models	https://proceedings.mlr.press/v306/juneja26a.html	pending
-2009	juneja26b	Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems	https://proceedings.mlr.press/v306/juneja26b.html	pending
-2010	jung26a	Learning Context-Conditioned Predicate Semantics via Prototype Feedback	https://proceedings.mlr.press/v306/jung26a.html	pending
-2011	jung26b	Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures	https://proceedings.mlr.press/v306/jung26b.html	pending
-2012	jung26c	Probing Cross-modal Information Hubs in Audio-Visual LLMs	https://proceedings.mlr.press/v306/jung26c.html	pending
-2013	jung26d	Nonparametric Distribution Regression Re-calibration	https://proceedings.mlr.press/v306/jung26d.html	pending
-2014	jung26e	Context-Driven Incremental Compression for Multi-Turn Dialogue Generation	https://proceedings.mlr.press/v306/jung26e.html	pending
-2015	jung26f	SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation	https://proceedings.mlr.press/v306/jung26f.html	pending
-2016	jung26g	Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization	https://proceedings.mlr.press/v306/jung26g.html	pending
-2017	jung26h	Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation	https://proceedings.mlr.press/v306/jung26h.html	pending
-2018	jung26i	Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation	https://proceedings.mlr.press/v306/jung26i.html	pending
-2019	junger26a	Self-Augmenting Retrieval for Diffusion Language Models	https://proceedings.mlr.press/v306/junger26a.html	pending
-2020	just26a	The Signal is in the Steps: Local Scoring for Reasoning Data Selection	https://proceedings.mlr.press/v306/just26a.html	pending
+1997	johnson26a	VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks	https://proceedings.mlr.press/v306/johnson26a.html	written
+1998	jones26a	A New Framework for Cybersecurity Refusals in AI Agents	https://proceedings.mlr.press/v306/jones26a.html	written
+1999	jones26b	When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents	https://proceedings.mlr.press/v306/jones26b.html	written
+2000	joo26a	PEARL: Differentially Private and Entropy-Aware Regulated Language Generation	https://proceedings.mlr.press/v306/joo26a.html	written
+2001	jordan26a	Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation	https://proceedings.mlr.press/v306/jordan26a.html	written
+2002	joseph26a	Interpreting Physics in Video World Models	https://proceedings.mlr.press/v306/joseph26a.html	written
+2003	jourdan26a	Fully Dynamic Coreset Spectral Clustering	https://proceedings.mlr.press/v306/jourdan26a.html	written
+2004	jovanovic26a	LoRDO: Distributed Low-Rank Optimization with Infrequent Communication	https://proceedings.mlr.press/v306/jovanovic26a.html	written
+2005	ju26a	Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems	https://proceedings.mlr.press/v306/ju26a.html	written
+2006	ju26b	Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching	https://proceedings.mlr.press/v306/ju26b.html	written
+2007	ju26c	Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction	https://proceedings.mlr.press/v306/ju26c.html	written
+2008	juneja26a	Adversarial Training for Process Reward Models	https://proceedings.mlr.press/v306/juneja26a.html	written
+2009	juneja26b	Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems	https://proceedings.mlr.press/v306/juneja26b.html	written
+2010	jung26a	Learning Context-Conditioned Predicate Semantics via Prototype Feedback	https://proceedings.mlr.press/v306/jung26a.html	written
+2011	jung26b	Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures	https://proceedings.mlr.press/v306/jung26b.html	written
+2012	jung26c	Probing Cross-modal Information Hubs in Audio-Visual LLMs	https://proceedings.mlr.press/v306/jung26c.html	written
+2013	jung26d	Nonparametric Distribution Regression Re-calibration	https://proceedings.mlr.press/v306/jung26d.html	written
+2014	jung26e	Context-Driven Incremental Compression for Multi-Turn Dialogue Generation	https://proceedings.mlr.press/v306/jung26e.html	written
+2015	jung26f	SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation	https://proceedings.mlr.press/v306/jung26f.html	written
+2016	jung26g	Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization	https://proceedings.mlr.press/v306/jung26g.html	written
+2017	jung26h	Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation	https://proceedings.mlr.press/v306/jung26h.html	written
+2018	jung26i	Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation	https://proceedings.mlr.press/v306/jung26i.html	written
+2019	junger26a	Self-Augmenting Retrieval for Diffusion Language Models	https://proceedings.mlr.press/v306/junger26a.html	written
+2020	just26a	The Signal is in the Steps: Local Scoring for Reasoning Data Selection	https://proceedings.mlr.press/v306/just26a.html	written
 2021	kaczer26a	In-Training Defenses Against Emergent Misalignment in Language Models	https://proceedings.mlr.press/v306/kaczer26a.html	pending
 2022	kadi26a	Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization	https://proceedings.mlr.press/v306/kadi26a.html	pending
 2023	kaissis26a	Step-Resolved Data Attribution for Looped Transformers	https://proceedings.mlr.press/v306/kaissis26a.html	pending

@@ -181,6 +181,7 @@ Training schedules, curricula, and task or stage composition.
 - [From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../../conferences/icml-2026/cards/1501-1600.md#horoi26a-training-strategies) · 中文
 - [Continual Learning of Domain-Invariant Representations](../../conferences/icml-2026/cards/1801-1900.md#janetzky26a-training-strategies) · 中文
 - [MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](../../conferences/icml-2026/cards/1901-2000.md#jiang26c-training-strategies) · 中文
+- [SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](../../conferences/icml-2026/cards/2001-2100.md#jung26f-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

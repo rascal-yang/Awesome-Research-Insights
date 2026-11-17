@@ -25,6 +25,7 @@
 - <a id="huang26ax-architecture"></a>[Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ax)
 - <a id="huang26cj-architecture"></a>[GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation](../conferences/icml-2026/cards/1701-1800.md#paper-huang26cj)
 - <a id="jin26d-architecture"></a>[Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling](../conferences/icml-2026/cards/1901-2000.md#paper-jin26d)
+- <a id="johnson26a-architecture"></a>[VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../conferences/icml-2026/cards/1901-2000.md#paper-johnson26a)
 
 <a id="by-modules"></a>
 
@@ -63,6 +64,7 @@
 - <a id="huang26bz-optimization"></a>[Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bz)
 - <a id="jaziri26a-optimization"></a>[Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](../conferences/icml-2026/cards/1801-1900.md#paper-jaziri26a)
 - <a id="john26a-optimization"></a>[An Approximation Algorithm for Graph Label Selection](../conferences/icml-2026/cards/1901-2000.md#paper-john26a)
+- <a id="jourdan26a-optimization"></a>[Fully Dynamic Coreset Spectral Clustering](../conferences/icml-2026/cards/2001-2100.md#paper-jourdan26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -91,6 +93,7 @@
 - <a id="chen26cr-data-strategies"></a>[DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](../conferences/icml-2026/cards/0501-0600.md#paper-chen26cr)
 - <a id="eremeev26a-data-strategies"></a>[GraphPFN: A Prior-Data Fitted Graph Foundation Model](../conferences/icml-2026/cards/1001-1100.md#paper-eremeev26a)
 - <a id="hou26c-data-strategies"></a>[HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](../conferences/icml-2026/cards/1601-1700.md#paper-hou26c)
+- <a id="ju26c-data-strategies"></a>[Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](../conferences/icml-2026/cards/2001-2100.md#paper-ju26c)
 
 <a id="by-inference"></a>
 

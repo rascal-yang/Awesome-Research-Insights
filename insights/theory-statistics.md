@@ -322,6 +322,8 @@
 - [在分布式符号优化中校正压缩和采样误差](../conferences/icml-2026/cards/1901-2000.md#jiang26ax-theory-statistics) · Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings
 - [用序列网格分离逼近与时序估计误差](../conferences/icml-2026/cards/1901-2000.md#jiao26d-theory-statistics) · Approximation Bounds for Transformer Networks with Application to Regression
 - [截取未来窗口估计非平稳实验的累积效应](../conferences/icml-2026/cards/1901-2000.md#johari26a-theory-statistics) · Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator
+- [用可行余量调节约束势博弈步长](../conferences/icml-2026/cards/2001-2100.md#jordan26a-theory-statistics) · Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation
+- [用近线性的距离界转移高斯混合的风险保证](../conferences/icml-2026/cards/2001-2100.md#jung26b-theory-statistics) · Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures
 
 <a id="by-graph-and-recommendation"></a>
 

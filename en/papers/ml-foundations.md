@@ -72,6 +72,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="huu26a-modules"></a>[Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts](../../conferences/icml-2026/cards/1701-1800.md#paper-huu26a)
 - <a id="hwang26a-modules"></a>[PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26a)
 - <a id="jia26l-modules"></a>[Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26l)
+- <a id="jung26g-modules"></a>[Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26g)
 
 <a id="by-loss-functions"></a>
 
@@ -284,6 +285,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="horoi26a-training-strategies"></a>[From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../../conferences/icml-2026/cards/1501-1600.md#paper-horoi26a)
 - <a id="janetzky26a-training-strategies"></a>[Continual Learning of Domain-Invariant Representations](../../conferences/icml-2026/cards/1801-1900.md#paper-janetzky26a)
 - <a id="jiang26c-training-strategies"></a>[MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26c)
+- <a id="jung26f-training-strategies"></a>[SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26f)
 
 <a id="by-data-strategies"></a>
 
@@ -352,6 +354,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="hu26az-representation-learning"></a>[Parameter Manifold Purification](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26az)
 - <a id="jiang26ao-representation-learning"></a>[Transformed Latent Variable Multi-Output Gaussian Processes](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ao)
 - <a id="jin26n-representation-learning"></a>[Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26n)
+- <a id="jung26i-representation-learning"></a>[Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26i)
 
 <a id="by-evaluation"></a>
 
@@ -387,6 +390,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="huang26bw-evaluation"></a>[ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bw)
 - <a id="jahn26a-evaluation"></a>[Evaluating Bivariate Causal Statements Based on Mutual Compatibility](../../conferences/icml-2026/cards/1801-1900.md#paper-jahn26a)
 - <a id="jia26b-evaluation"></a>[Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26b)
+- <a id="jung26d-evaluation"></a>[Nonparametric Distribution Regression Re-calibration](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26d)
 
 <a id="by-theory-statistics"></a>
 
@@ -603,4 +607,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="jiang26ax-theory-statistics"></a>[Convergence Analysis of the Lion Optimizer in Centralized and Distributed Settings](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ax)
 - <a id="jiao26d-theory-statistics"></a>[Approximation Bounds for Transformer Networks with Application to Regression](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26d)
 - <a id="johari26a-theory-statistics"></a>[Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator](../../conferences/icml-2026/cards/1901-2000.md#paper-johari26a)
+- <a id="jordan26a-theory-statistics"></a>[Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation](../../conferences/icml-2026/cards/2001-2100.md#paper-jordan26a)
+- <a id="jung26b-theory-statistics"></a>[Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26b)
 <!-- classification:end -->

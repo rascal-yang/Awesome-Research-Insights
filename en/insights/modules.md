@@ -123,6 +123,7 @@ Reusable components and local changes to model inputs or connections.
 - [Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts](../../conferences/icml-2026/cards/1701-1800.md#huu26a-modules) · 中文
 - [PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference](../../conferences/icml-2026/cards/1701-1800.md#hwang26a-modules) · 中文
 - [Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization](../../conferences/icml-2026/cards/1801-1900.md#jia26l-modules) · 中文
+- [Layer-Centric Factors of Variation Disentanglement for Task- and Model-Agnostic Generalization](../../conferences/icml-2026/cards/2001-2100.md#jung26g-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

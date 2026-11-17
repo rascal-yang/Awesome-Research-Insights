@@ -38,6 +38,7 @@
 - [用同一教师对齐前后差异筛选监督](../conferences/icml-2026/cards/1901-2000.md#jiang26j-data-strategies) · Contrastive Weak-to-Strong Generalization
 - [先验证可解性再奖励合成题难度](../conferences/icml-2026/cards/1901-2000.md#jiao26f-data-strategies) · Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis
 - [用扰动模型的前缀损失挑长推理样本](../conferences/icml-2026/cards/1901-2000.md#jin26o-data-strategies) · Reasoning Quality Emerges Early: Data Curation for Reasoning Models
+- [按短前缀给每步推理单独打分](../conferences/icml-2026/cards/2001-2100.md#just26a-data-strategies) · The Signal is in the Steps: Local Scoring for Reasoning Data Selection
 
 <a id="by-computer-vision"></a>
 
@@ -130,6 +131,7 @@
 - [联邦文本图证据凝缩](../conferences/icml-2026/cards/0501-0600.md#chen26cr-data-strategies) · DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs
 - [图基础模型的合成预训练先验](../conferences/icml-2026/cards/1001-1100.md#eremeev26a-data-strategies) · GraphPFN: A Prior-Data Fitted Graph Foundation Model
 - [选取同时覆盖特征与超图传播的标注节点](../conferences/icml-2026/cards/1601-1700.md#hou26c-data-strategies) · HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization
+- [以扩散邻域影响冲突诊断标签](../conferences/icml-2026/cards/2001-2100.md#ju26c-data-strategies) · Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction
 
 <a id="by-scientific-ml"></a>
 

@@ -82,6 +82,8 @@
 - [按步骤信息量选择训练采样树分支](../conferences/icml-2026/cards/1901-2000.md#jiang26x-reinforcement-learning) · Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization
 - [在语义意图空间做事后信用分配](../conferences/icml-2026/cards/1901-2000.md#jiang26y-reinforcement-learning) · From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training
 - [用块间熵下降训练扩散推理分段](../conferences/icml-2026/cards/1901-2000.md#jiang26ak-reinforcement-learning) · Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning
+- [让过程奖励模型与难错误生成器共同训练](../conferences/icml-2026/cards/2001-2100.md#juneja26a-reinforcement-learning) · Adversarial Training for Process Reward Models
+- [用固定多锚点胜率训练主观任务](../conferences/icml-2026/cards/2001-2100.md#juneja26b-reinforcement-learning) · Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems
 
 <a id="by-computer-vision"></a>
 

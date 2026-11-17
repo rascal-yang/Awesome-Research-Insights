@@ -162,6 +162,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability](../../conferences/icml-2026/cards/1901-2000.md#jiang26af-evaluation) · 中文
 - [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](../../conferences/icml-2026/cards/1901-2000.md#jiang26as-evaluation) · 中文
 - [Margin-Adaptive Confidence Ranking for Reliable LLM Judgement](../../conferences/icml-2026/cards/1901-2000.md#jin26h-evaluation) · 中文
+- [A New Framework for Cybersecurity Refusals in AI Agents](../../conferences/icml-2026/cards/1901-2000.md#jones26a-evaluation) · 中文
+- [When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents](../../conferences/icml-2026/cards/1901-2000.md#jones26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -189,6 +191,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Geometry-Based View of Mahalanobis OOD Detection](../../conferences/icml-2026/cards/1801-1900.md#janiak26a-evaluation) · 中文
 - [When Do Diffusion Models Learn to Generate Multiple Objects?](../../conferences/icml-2026/cards/1801-1900.md#jeong26b-evaluation) · 中文
 - [Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance](../../conferences/icml-2026/cards/1801-1900.md#jia26k-evaluation) · 中文
+- [Interpreting Physics in Video World Models](../../conferences/icml-2026/cards/2001-2100.md#joseph26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -272,6 +275,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Seeing Symbols, Missing Structure: A Real-World Handwritten Mathematical Expression Recognition Benchmark for Large Models](../../conferences/icml-2026/cards/1901-2000.md#jiang26bg-evaluation) · 中文
 - [DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?](../../conferences/icml-2026/cards/1901-2000.md#jiao26b-evaluation) · 中文
 - [Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay](../../conferences/icml-2026/cards/1901-2000.md#jin26a-evaluation) · 中文
+- [Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching](../../conferences/icml-2026/cards/2001-2100.md#ju26b-evaluation) · 中文
+- [Probing Cross-modal Information Hubs in Audio-Visual LLMs](../../conferences/icml-2026/cards/2001-2100.md#jung26c-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -307,6 +312,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](../../conferences/icml-2026/cards/1701-1800.md#huang26bw-evaluation) · 中文
 - [Evaluating Bivariate Causal Statements Based on Mutual Compatibility](../../conferences/icml-2026/cards/1801-1900.md#jahn26a-evaluation) · 中文
 - [Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26b-evaluation) · 中文
+- [Nonparametric Distribution Regression Re-calibration](../../conferences/icml-2026/cards/2001-2100.md#jung26d-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

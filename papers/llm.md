@@ -125,6 +125,8 @@
 - <a id="jiang26h-optimization"></a>[Distributed Direct Preference Optimization](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26h)
 - <a id="jiang26am-optimization"></a>[Enhancing LLM Training via Spectral Clipping](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26am)
 - <a id="jiang26az-optimization"></a>[EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26az)
+- <a id="jovanovic26a-optimization"></a>[LoRDO: Distributed Low-Rank Optimization with Infrequent Communication](../conferences/icml-2026/cards/2001-2100.md#paper-jovanovic26a)
+- <a id="jung26h-optimization"></a>[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](../conferences/icml-2026/cards/2001-2100.md#paper-jung26h)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -199,6 +201,8 @@
 - <a id="jiang26x-reinforcement-learning"></a>[Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26x)
 - <a id="jiang26y-reinforcement-learning"></a>[From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26y)
 - <a id="jiang26ak-reinforcement-learning"></a>[Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ak)
+- <a id="juneja26a-reinforcement-learning"></a>[Adversarial Training for Process Reward Models](../conferences/icml-2026/cards/2001-2100.md#paper-juneja26a)
+- <a id="juneja26b-reinforcement-learning"></a>[Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems](../conferences/icml-2026/cards/2001-2100.md#paper-juneja26b)
 
 <a id="by-training-strategies"></a>
 
@@ -287,6 +291,7 @@
 - <a id="jiang26j-data-strategies"></a>[Contrastive Weak-to-Strong Generalization](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26j)
 - <a id="jiao26f-data-strategies"></a>[Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26f)
 - <a id="jin26o-data-strategies"></a>[Reasoning Quality Emerges Early: Data Curation for Reasoning Models](../conferences/icml-2026/cards/1901-2000.md#paper-jin26o)
+- <a id="just26a-data-strategies"></a>[The Signal is in the Steps: Local Scoring for Reasoning Data Selection](../conferences/icml-2026/cards/2001-2100.md#paper-just26a)
 
 <a id="by-inference"></a>
 
@@ -417,6 +422,8 @@
 - <a id="jiao26g-inference"></a>[DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26g)
 - <a id="jiao26h-inference"></a>[TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26h)
 - <a id="jo26a-inference"></a>[Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](../conferences/icml-2026/cards/1901-2000.md#paper-jo26a)
+- <a id="joo26a-inference"></a>[PEARL: Differentially Private and Entropy-Aware Regulated Language Generation](../conferences/icml-2026/cards/1901-2000.md#paper-joo26a)
+- <a id="junger26a-inference"></a>[Self-Augmenting Retrieval for Diffusion Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-junger26a)
 
 <a id="by-representation-learning"></a>
 
@@ -582,6 +589,8 @@
 - <a id="jiang26af-evaluation"></a>[Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26af)
 - <a id="jiang26as-evaluation"></a>[AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26as)
 - <a id="jin26h-evaluation"></a>[Margin-Adaptive Confidence Ranking for Reliable LLM Judgement](../conferences/icml-2026/cards/1901-2000.md#paper-jin26h)
+- <a id="jones26a-evaluation"></a>[A New Framework for Cybersecurity Refusals in AI Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jones26a)
+- <a id="jones26b-evaluation"></a>[When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jones26b)
 
 <a id="by-theory-statistics"></a>
 

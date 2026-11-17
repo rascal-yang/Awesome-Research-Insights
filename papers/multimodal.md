@@ -244,6 +244,8 @@
 - <a id="jiang26bg-evaluation"></a>[Seeing Symbols, Missing Structure: A Real-World Handwritten Mathematical Expression Recognition Benchmark for Large Models](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bg)
 - <a id="jiao26b-evaluation"></a>[DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26b)
 - <a id="jin26a-evaluation"></a>[Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay](../conferences/icml-2026/cards/1901-2000.md#paper-jin26a)
+- <a id="ju26b-evaluation"></a>[Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching](../conferences/icml-2026/cards/2001-2100.md#paper-ju26b)
+- <a id="jung26c-evaluation"></a>[Probing Cross-modal Information Hubs in Audio-Visual LLMs](../conferences/icml-2026/cards/2001-2100.md#paper-jung26c)
 
 <a id="by-theory-statistics"></a>
 

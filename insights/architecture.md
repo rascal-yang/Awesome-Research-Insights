@@ -159,6 +159,7 @@
 - [在保全关系语义的前提下学习表的节点和边角色](../conferences/icml-2026/cards/1701-1800.md#huang26ax-architecture) · Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning
 - [用地理条件和轴向注意力表达出行流竞争](../conferences/icml-2026/cards/1701-1800.md#huang26cj-architecture) · GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation
 - [分开建模用户兴趣与可持续阈值](../conferences/icml-2026/cards/1901-2000.md#jin26d-architecture) · Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling
+- [先对齐局部坐标再扩散向量信号](../conferences/icml-2026/cards/1901-2000.md#johnson26a-architecture) · VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks
 
 <a id="by-scientific-ml"></a>
 
@@ -203,4 +204,5 @@
 - [让分子流的目标分布逐步集中](../conferences/icml-2026/cards/1901-2000.md#jin26i-architecture) · EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design
 - [把晶体张量等变性放到笛卡尔基组装](../conferences/icml-2026/cards/1901-2000.md#jin26p-architecture) · Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling
 - [按全原子结构复杂度分配语言连接词元](../conferences/icml-2026/cards/1901-2000.md#jing26h-architecture) · Scaling-Aware Adapter for Structure-Grounded LLM Reasoning
+- [用局部网格传播和全局注意共享物理算子](../conferences/icml-2026/cards/2001-2100.md#ju26a-architecture) · Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems
 <!-- classification:end -->

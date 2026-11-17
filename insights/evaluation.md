@@ -162,6 +162,8 @@
 - [用位移与曲率联合诊断推理轨迹](../conferences/icml-2026/cards/1901-2000.md#jiang26af-evaluation) · Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability
 - [跨轮验证代理的安全目标是否被逐步改写](../conferences/icml-2026/cards/1901-2000.md#jiang26as-evaluation) · AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks
 - [把裁判置信度训练为人类一致性排序](../conferences/icml-2026/cards/1901-2000.md#jin26h-evaluation) · Margin-Adaptive Confidence Ranking for Reliable LLM Judgement
+- [分开评测代理的环境识别和拒绝](../conferences/icml-2026/cards/1901-2000.md#jones26a-evaluation) · A New Framework for Cybersecurity Refusals in AI Agents
+- [用执行反馈搜寻良性指令下的意外风险](../conferences/icml-2026/cards/1901-2000.md#jones26b-evaluation) · When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents
 
 <a id="by-computer-vision"></a>
 
@@ -189,6 +191,7 @@
 - [从分布内几何挑选马氏检测的径向缩放](../conferences/icml-2026/cards/1801-1900.md#janiak26a-evaluation) · A Geometry-Based View of Mahalanobis OOD Detection
 - [分别打乱概念频率与保留组合来定位生成失败](../conferences/icml-2026/cards/1801-1900.md#jeong26b-evaluation) · When Do Diffusion Models Learn to Generate Multiple Objects?
 - [按观测锚点密度判断弱先验是否够用](../conferences/icml-2026/cards/1801-1900.md#jia26k-evaluation) · Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance
+- [用多维因果干预检查视频物理表征](../conferences/icml-2026/cards/2001-2100.md#joseph26a-evaluation) · Interpreting Physics in Video World Models
 
 <a id="by-nlp"></a>
 
@@ -272,6 +275,8 @@
 - [先识别手写公式结构再转录符号](../conferences/icml-2026/cards/1901-2000.md#jiang26bg-evaluation) · Seeing Symbols, Missing Structure: A Real-World Handwritten Mathematical Expression Recognition Benchmark for Large Models
 - [用独立条件拆解长提示文生图的失败](../conferences/icml-2026/cards/1901-2000.md#jiao26b-evaluation) · DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?
 - [先验证棋盘读数再测规则推理](../conferences/icml-2026/cards/1901-2000.md#jin26a-evaluation) · Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay
+- [在球面估计嵌入密度作不确定性代理](../conferences/icml-2026/cards/2001-2100.md#ju26b-evaluation) · Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching
+- [用因果补丁定位跨模态注意力汇点](../conferences/icml-2026/cards/2001-2100.md#jung26c-evaluation) · Probing Cross-modal Information Hubs in Audio-Visual LLMs
 
 <a id="by-ml-foundations"></a>
 
@@ -307,6 +312,7 @@
 - [按估分与找失败的目标分配测试](../conferences/icml-2026/cards/1701-1800.md#huang26bw-evaluation) · ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation
 - [用全局兼容性筛查局部因果陈述](../conferences/icml-2026/cards/1801-1900.md#jahn26a-evaluation) · Evaluating Bivariate Causal Statements Based on Mutual Compatibility
 - [把预文本假设拆成三种可测失效](../conferences/icml-2026/cards/1801-1900.md#jia26b-evaluation) · Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning
+- [从预测分布到条件经验分布做非参数校准](../conferences/icml-2026/cards/2001-2100.md#jung26d-evaluation) · Nonparametric Distribution Regression Re-calibration
 
 <a id="by-graph-and-recommendation"></a>
 

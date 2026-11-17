@@ -38,6 +38,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Contrastive Weak-to-Strong Generalization](../../conferences/icml-2026/cards/1901-2000.md#jiang26j-data-strategies) · 中文
 - [Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis](../../conferences/icml-2026/cards/1901-2000.md#jiao26f-data-strategies) · 中文
 - [Reasoning Quality Emerges Early: Data Curation for Reasoning Models](../../conferences/icml-2026/cards/1901-2000.md#jin26o-data-strategies) · 中文
+- [The Signal is in the Steps: Local Scoring for Reasoning Data Selection](../../conferences/icml-2026/cards/2001-2100.md#just26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -130,6 +131,7 @@ Data selection, annotation, augmentation, and sampling.
 - [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](../../conferences/icml-2026/cards/0501-0600.md#chen26cr-data-strategies) · 中文
 - [GraphPFN: A Prior-Data Fitted Graph Foundation Model](../../conferences/icml-2026/cards/1001-1100.md#eremeev26a-data-strategies) · 中文
 - [HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](../../conferences/icml-2026/cards/1601-1700.md#hou26c-data-strategies) · 中文
+- [Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction](../../conferences/icml-2026/cards/2001-2100.md#ju26c-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

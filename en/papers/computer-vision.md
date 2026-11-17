@@ -227,6 +227,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hu26z-representation-learning"></a>[AURA: Visually Interpretable Affective Understanding via Robust Archetypes](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26z)
 - <a id="jiang26m-representation-learning"></a>[Olaf-World: Orienting Latent Actions for Video World Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26m)
 - <a id="jin26b-representation-learning"></a>[WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26b)
+- <a id="jung26a-representation-learning"></a>[Learning Context-Conditioned Predicate Semantics via Prototype Feedback](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26a)
 
 <a id="by-evaluation"></a>
 
@@ -254,6 +255,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="janiak26a-evaluation"></a>[A Geometry-Based View of Mahalanobis OOD Detection](../../conferences/icml-2026/cards/1801-1900.md#paper-janiak26a)
 - <a id="jeong26b-evaluation"></a>[When Do Diffusion Models Learn to Generate Multiple Objects?](../../conferences/icml-2026/cards/1801-1900.md#paper-jeong26b)
 - <a id="jia26k-evaluation"></a>[Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26k)
+- <a id="joseph26a-evaluation"></a>[Interpreting Physics in Video World Models](../../conferences/icml-2026/cards/2001-2100.md#paper-joseph26a)
 
 <a id="by-theory-statistics"></a>
 

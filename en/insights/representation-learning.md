@@ -48,6 +48,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [AURA: Visually Interpretable Affective Understanding via Robust Archetypes](../../conferences/icml-2026/cards/1601-1700.md#hu26z-representation-learning) · 中文
 - [Olaf-World: Orienting Latent Actions for Video World Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiang26m-representation-learning) · 中文
 - [WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](../../conferences/icml-2026/cards/1901-2000.md#jin26b-representation-learning) · 中文
+- [Learning Context-Conditioned Predicate Semantics via Prototype Feedback](../../conferences/icml-2026/cards/2001-2100.md#jung26a-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -122,6 +123,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Parameter Manifold Purification](../../conferences/icml-2026/cards/1601-1700.md#hu26az-representation-learning) · 中文
 - [Transformed Latent Variable Multi-Output Gaussian Processes](../../conferences/icml-2026/cards/1901-2000.md#jiang26ao-representation-learning) · 中文
 - [Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1901-2000.md#jin26n-representation-learning) · 中文
+- [Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation](../../conferences/icml-2026/cards/2001-2100.md#jung26i-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

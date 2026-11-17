@@ -138,6 +138,8 @@
 - [让未提交草稿维持扩散解码的双向上下文](../conferences/icml-2026/cards/1901-2000.md#jiao26g-inference) · DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding
 - [给提示生成器同时输入模型配置和资源偏好](../conferences/icml-2026/cards/1901-2000.md#jiao26h-inference) · TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems
 - [每层临时压缩注意力词元再还原](../conferences/icml-2026/cards/1901-2000.md#jo26a-inference) · Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection
+- [按置信差设计私有生成后的句级修补](../conferences/icml-2026/cards/1901-2000.md#joo26a-inference) · PEARL: Differentially Private and Entropy-Aware Regulated Language Generation
+- [用扩散答案草稿提前检索桥接实体](../conferences/icml-2026/cards/2001-2100.md#junger26a-inference) · Self-Augmenting Retrieval for Diffusion Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -210,6 +212,7 @@
 - [把晚交互打分蒸馏成可索引相似度](../conferences/icml-2026/cards/1801-1900.md#jaasaari26a-inference) · LEMUR: Learned Multi-Vector Retrieval
 - [用词元后缀路径维护流式 BPE 前沿](../conferences/icml-2026/cards/1901-2000.md#jiang26l-inference) · Incremental BPE Tokenization
 - [把集合奖励编入扩散检索监督](../conferences/icml-2026/cards/1901-2000.md#jiang26aa-inference) · Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion
+- [对话记忆按话题检索、修订和写回](../conferences/icml-2026/cards/2001-2100.md#jung26e-inference) · Context-Driven Incremental Compression for Multi-Turn Dialogue Generation
 
 <a id="by-reinforcement-learning"></a>
 

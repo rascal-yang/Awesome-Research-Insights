@@ -48,6 +48,7 @@
 - [按标签几何为视觉原型分配容量](../conferences/icml-2026/cards/1601-1700.md#hu26z-representation-learning) · AURA: Visually Interpretable Affective Understanding via Robust Archetypes
 - [用跨帧语义变化为潜动作建立共同坐标](../conferences/icml-2026/cards/1901-2000.md#jiang26m-representation-learning) · Olaf-World: Orienting Latent Actions for Video World Modeling
 - [用局部距离约束组织对象身份和位置](../conferences/icml-2026/cards/1901-2000.md#jin26b-representation-learning) · WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views
+- [让一张图里的关系候选反馈修正谓词原型](../conferences/icml-2026/cards/2001-2100.md#jung26a-representation-learning) · Learning Context-Conditioned Predicate Semantics via Prototype Feedback
 
 <a id="by-nlp"></a>
 
@@ -122,6 +123,7 @@
 - [在参数局部流形去除污染](../conferences/icml-2026/cards/1601-1700.md#hu26az-representation-learning) · Parameter Manifold Purification
 - [把输出身份嵌入标量高斯过程核](../conferences/icml-2026/cards/1901-2000.md#jiang26ao-representation-learning) · Transformed Latent Variable Multi-Output Gaussian Processes
 - [主动干预视图缺失模式检验聚类](../conferences/icml-2026/cards/1901-2000.md#jin26n-representation-learning) · Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering
+- [用表头和值作为联合可掩码片段](../conferences/icml-2026/cards/2001-2100.md#jung26i-representation-learning) · Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation
 
 <a id="by-graph-and-recommendation"></a>
 

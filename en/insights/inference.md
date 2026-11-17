@@ -138,6 +138,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding](../../conferences/icml-2026/cards/1901-2000.md#jiao26g-inference) · 中文
 - [TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Auto-Routing in LLM-based Systems](../../conferences/icml-2026/cards/1901-2000.md#jiao26h-inference) · 中文
 - [Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](../../conferences/icml-2026/cards/1901-2000.md#jo26a-inference) · 中文
+- [PEARL: Differentially Private and Entropy-Aware Regulated Language Generation](../../conferences/icml-2026/cards/1901-2000.md#joo26a-inference) · 中文
+- [Self-Augmenting Retrieval for Diffusion Language Models](../../conferences/icml-2026/cards/2001-2100.md#junger26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -210,6 +212,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [LEMUR: Learned Multi-Vector Retrieval](../../conferences/icml-2026/cards/1801-1900.md#jaasaari26a-inference) · 中文
 - [Incremental BPE Tokenization](../../conferences/icml-2026/cards/1901-2000.md#jiang26l-inference) · 中文
 - [Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](../../conferences/icml-2026/cards/1901-2000.md#jiang26aa-inference) · 中文
+- [Context-Driven Incremental Compression for Multi-Turn Dialogue Generation](../../conferences/icml-2026/cards/2001-2100.md#jung26e-inference) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

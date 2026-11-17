@@ -159,6 +159,7 @@ Model-wide design and information flow.
 - [Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26ax-architecture) · 中文
 - [GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation](../../conferences/icml-2026/cards/1701-1800.md#huang26cj-architecture) · 中文
 - [Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling](../../conferences/icml-2026/cards/1901-2000.md#jin26d-architecture) · 中文
+- [VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../../conferences/icml-2026/cards/1901-2000.md#johnson26a-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -203,4 +204,5 @@ Model-wide design and information flow.
 - [EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design](../../conferences/icml-2026/cards/1901-2000.md#jin26i-architecture) · 中文
 - [Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling](../../conferences/icml-2026/cards/1901-2000.md#jin26p-architecture) · 中文
 - [Scaling-Aware Adapter for Structure-Grounded LLM Reasoning](../../conferences/icml-2026/cards/1901-2000.md#jing26h-architecture) · 中文
+- [Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems](../../conferences/icml-2026/cards/2001-2100.md#ju26a-architecture) · 中文
 <!-- classification:end -->
