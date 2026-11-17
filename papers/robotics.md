@@ -23,7 +23,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bai26h-architecture"></a>[Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bai26h) | VLA 潜空间推理 | 按课程将显式文本和视觉思维链监督过渡到连续潜推理，再用这些潜状态条件化动作生成，推理时省去显式思维链解码。 |
-| <a id="cao26u-architecture"></a>[Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) | 频域分层动作策略 | 将动作序列经 DCT 拆为低频粗运动和高频修正，再根据观察与语言生成粗轨迹、以粗轨迹为条件补上对齐和接触所需细节。 |
+| <a id="cao26u-architecture"></a>[Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-cao26u) | 频域分层动作策略 | 将动作序列经 DCT 拆为低频粗运动和高频修正，再根据观察与语言生成粗轨迹、以粗轨迹为条件补上对齐和接触所需细节。 |
 | <a id="chuang26a-architecture"></a>[The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) | SE(3) 位姿扩散策略 | 在 SE(3) 上用左不变随机微分方程给机器人位姿加噪，在切空间预测反向去噪分数，再用指数映射更新位姿，使采样过程中的旋转保持在 SO(3) 上。 |
 | <a id="ding26x-architecture"></a>[Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](https://proceedings.mlr.press/v306/ding26x.html) | 第一视角三维检测的时序记忆 | 将先前帧的稀疏点特征存入统一坐标系，在当前视锥内检索聚合，并从仍可见的历史实例构造动态查询，与发现新实例的查询共同解码，以兼顾遮挡下的定位与身份一致性。 |
 
@@ -55,7 +55,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="chaudhary26a-optimization"></a>[Blending Neural Control Density Functions for Stabilization and Safety](https://proceedings.mlr.press/v306/chaudhary26a.html) | 安全控制器混合 | 用可积的神经密度函数作为几乎处处稳定的证书，可平滑混合多个控制器并保住各自吸引域的并集，再与控制障碍函数结合处理安全。 |
+| <a id="chaudhary26a-optimization"></a>[Blending Neural Control Density Functions for Stabilization and Safety](https://proceedings.mlr.press/v306/chaudhary26a.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chaudhary26a) | 安全控制器混合 | 用可积的神经密度函数作为几乎处处稳定的证书，可平滑混合多个控制器并保住各自吸引域的并集，再与控制障碍函数结合处理安全。 |
 | <a id="fan26g-optimization"></a>[De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](https://proceedings.mlr.press/v306/fan26g.html) | 动态 SLAM 的残差梯度隔离 | 用仅含静态模型的渲染残差监督运动预测分支，并在残差处停止梯度，使掩码学习无法靠改变背景几何减小损失。高静态残差可作为移动区域线索，用于调节后续静态和动态重建。 |
 
 <a id="by-reinforcement-learning"></a>
@@ -103,7 +103,7 @@
 | <a id="aissi26a-inference"></a>[PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-aissi26a) | 具身 Agent 感知 | 让决策模型检查初始图像描述，围绕当前任务追问视觉模型，再用得到的细节做动作决策。 |
 | <a id="balim26a-inference"></a>[Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-balim26a) | 扩散预测控制 | 在去噪过程中交替做任务规划和动力学修正，再按目标排序候选轨迹。动力学模型可以独立使用额外数据训练。 |
 | <a id="beyer26a-inference"></a>[Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-beyer26a) | 压缩空间运动规划 | 用自编码器把轨迹压成粗到细的离散 token，在潜空间按测试时指定的目标搜索，兼顾训练数据里的行为先验与可更换的规划目标。 |
-| <a id="chai26a-inference"></a>[N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | 移动操作站位 | 用操控策略的 rollout 给候选站位打分，并通过视角增强学习对视角不敏感的站位偏好，把策略能否成功执行纳入导航目标。 |
+| <a id="chai26a-inference"></a>[N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chai26a) | 移动操作站位 | 用操控策略的 rollout 给候选站位打分，并通过视角增强学习对视角不敏感的站位偏好，把策略能否成功执行纳入导航目标。 |
 | <a id="chen26i-inference"></a>[PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | 概率场景图导航 | 保留每个节点的完整类别分布，从联合分布选取多个可能世界来评估候选地标，再用过去成败轨迹校准当前检测结果。 |
 | <a id="chen26co-inference"></a>[Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](https://proceedings.mlr.press/v306/chen26co.html) | 长程机器人轨迹采样 | 当信噪比降至阈值以下时才触发 MCMC 重采样，用整段条件轨迹概率的幂分布比较候选动作序列，让局部决策容易偏离指令的时刻获得更多搜索计算。 |
 | <a id="chi26b-inference"></a>[EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning](https://proceedings.mlr.press/v306/chi26b.html) | 多智能体协作的反事实规划 | 把执行失败归纳成可检索的符号约束，再以这些约束为条件对联合计划做变异，用相关历史执行证据给候选排序。在具身协作仿真中，该搜索提高了计划的可执行性。 |
@@ -129,7 +129,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bai26e-evaluation"></a>[SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](https://proceedings.mlr.press/v306/bai26e.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bai26e) | 机器人轨迹安全 | 将全轨迹内的安全约束计入成功条件，再冻结原策略训练有界残差纠正动作，可以修复最终任务虽完成、过程却发生违规的轨迹。 |
-| <a id="cao26w-evaluation"></a>[DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) | 柔性线状物体操作 | 在同一个可微仿真中改变线状物体的伸缩、弯曲塑性和交互条件，从而检验策略能否跨材料泛化。规划时还可显式选择有控制权的抓点。 |
+| <a id="cao26w-evaluation"></a>[DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-cao26w) | 柔性线状物体操作 | 在同一个可微仿真中改变线状物体的伸缩、弯曲塑性和交互条件，从而检验策略能否跨材料泛化。规划时还可显式选择有控制权的抓点。 |
 | <a id="dai26c-evaluation"></a>[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) | 长程操作记忆的分项评测 | 用动作计数、遮挡后定位、跨时刻身份指代和动作模仿分别考查时间、空间、物体与程序记忆，再在同一 VLA 主干上比较记忆形式和接入方式。实验显示记忆机制的收益随任务类型变化。 |
 | <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) | 机器人生成视频的物理与任务评测 | 将均匀抽样的视频帧组成时间网格，以问答清单分别检查物体穿透、未接触搬运等物理失真和关键动作是否按顺序完成。由此能定位画面流畅但动作不符合任务要求的机器人视频。 |
 | <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) | 动作块增量的基准姿态 | 在模仿学习的动作块中，让未来各步都相对块起点表示增量，可避免逐步累加预测误差。论文的真机对照中，这种表示比相对前一步的增量更稳定。 |

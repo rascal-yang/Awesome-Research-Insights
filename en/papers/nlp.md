@@ -87,7 +87,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) | [Read insight (中文)](../../papers/nlp.md#cao26p-representation-learning) |
+| [Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26p) | [Read insight (中文)](../../papers/nlp.md#cao26p-representation-learning) |
 | [InstEmb: Instruction-Following Embeddings through Glimpses of the Future](https://proceedings.mlr.press/v306/gao26h.html) | [Read insight (中文)](../../papers/nlp.md#gao26h-representation-learning) |
 | [Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](https://proceedings.mlr.press/v306/gupta26c.html) | [Read insight (中文)](../../papers/nlp.md#gupta26c-representation-learning) |
 

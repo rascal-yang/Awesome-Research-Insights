@@ -85,7 +85,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="cao26p-representation-learning"></a>[Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) | 复杂表格理解 | 按空间与语义约束同时构建行树和列树，再用双路径恢复每个单元格的层级语义，保留合并单元格和多级表头中的依赖。 |
+| <a id="cao26p-representation-learning"></a>[Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-cao26p) | 复杂表格理解 | 按空间与语义约束同时构建行树和列树，再用双路径恢复每个单元格的层级语义，保留合并单元格和多级表头中的依赖。 |
 | <a id="gao26h-representation-learning"></a>[InstEmb: Instruction-Following Embeddings through Glimpses of the Future](https://proceedings.mlr.press/v306/gao26h.html) | 用前瞻 token 蒸馏指令嵌入 | 同时对最后一个输入 token 做对比学习，并用若干可学习前瞻 token 蒸馏真实生成后续的隐藏表征。推理把输入末位与前瞻位置的均值合并成向量，在一次计算中纳入输出相关语义，无需逐 token 解码。 |
 | <a id="gupta26c-representation-learning"></a>[Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](https://proceedings.mlr.press/v306/gupta26c.html) | 对比学习的层级检索索引 | 用对比损失训练树路由，使相关查询和文档走向相近路径、无关样本分散到不同叶子。检索时选择中间层或叶层作索引，可分别利用粗粒度语义分组或更细的表示。 |
 
