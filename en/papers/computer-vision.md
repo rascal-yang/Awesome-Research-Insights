@@ -44,9 +44,9 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [FOVI: A biologically-inspired foveated interface for deep vision models](https://proceedings.mlr.press/v306/blauch26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-blauch26a) | [Read insight (中文)](../../papers/computer-vision.md#blauch26a-modules) |
-| [Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](https://proceedings.mlr.press/v306/candogan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#candogan26a-modules) |
-| [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26j-modules) |
-| [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26n-modules) |
+| [Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](https://proceedings.mlr.press/v306/candogan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-candogan26a) | [Read insight (中文)](../../papers/computer-vision.md#candogan26a-modules) |
+| [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26j) | [Read insight (中文)](../../papers/computer-vision.md#cao26j-modules) |
+| [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26n) | [Read insight (中文)](../../papers/computer-vision.md#cao26n-modules) |
 | [StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](https://proceedings.mlr.press/v306/cao26ab.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26ab-modules) |
 | [WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder](https://proceedings.mlr.press/v306/chen26ce.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ce-modules) |
 | [Attentive Multi-Layer Fusion for Vision Transformers](https://proceedings.mlr.press/v306/ciernik26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ciernik26a-modules) |
@@ -101,7 +101,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Optimizing Few-Step Generation with Adaptive Matching Distillation](https://proceedings.mlr.press/v306/bai26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26n) | [Read insight (中文)](../../papers/computer-vision.md#bai26n-training-strategies) |
-| [Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26h-training-strategies) |
+| [Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://proceedings.mlr.press/v306/cai26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26h) | [Read insight (中文)](../../papers/computer-vision.md#cai26h-training-strategies) |
 | [Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26o-training-strategies) |
 | [NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chavhan26a-training-strategies) |
 | [Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](https://proceedings.mlr.press/v306/chen26cn.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26cn-training-strategies) |
@@ -123,7 +123,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26m-data-strategies) |
+| [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26m) | [Read insight (中文)](../../papers/computer-vision.md#cai26m-data-strategies) |
 | [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://proceedings.mlr.press/v306/cao26s.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26s-data-strategies) |
 | [When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](https://proceedings.mlr.press/v306/chen26s.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26s-data-strategies) |
 | [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](https://proceedings.mlr.press/v306/chen26bj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26bj-data-strategies) |
@@ -141,9 +141,9 @@ The linked short insights are available in Chinese.
 | [Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bae26b) | [Read insight (中文)](../../papers/computer-vision.md#bae26b-inference) |
 | [Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bang26a) | [Read insight (中文)](../../papers/computer-vision.md#bang26a-inference) |
 | [Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-briq26a) | [Read insight (中文)](../../papers/computer-vision.md#briq26a-inference) |
-| [Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26g-inference) |
-| [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26n-inference) |
-| [Efficient Learned Image Compression without Entropy Coding](https://proceedings.mlr.press/v306/cao26e.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26e-inference) |
+| [Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26g) | [Read insight (中文)](../../papers/computer-vision.md#cai26g-inference) |
+| [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26n) | [Read insight (中文)](../../papers/computer-vision.md#cai26n-inference) |
+| [Efficient Learned Image Compression without Entropy Coding](https://proceedings.mlr.press/v306/cao26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26e) | [Read insight (中文)](../../papers/computer-vision.md#cao26e-inference) |
 | [ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](https://proceedings.mlr.press/v306/chang26c.html) | [Read insight (中文)](../../papers/computer-vision.md#chang26c-inference) |
 | [PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](https://proceedings.mlr.press/v306/chen26v.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26v-inference) |
 | [Normalizing Flows with Iterative Denoising](https://proceedings.mlr.press/v306/chen26aj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26aj-inference) |
@@ -187,7 +187,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](https://proceedings.mlr.press/v306/bian26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bian26d) | [Read insight (中文)](../../papers/computer-vision.md#bian26d-representation-learning) |
 | [VFMF: Dense Forecasting by Generating Vision Foundation Model Features](https://proceedings.mlr.press/v306/boduljak26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-boduljak26a) | [Read insight (中文)](../../papers/computer-vision.md#boduljak26a-representation-learning) |
-| [On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26h-representation-learning) |
+| [On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26h) | [Read insight (中文)](../../papers/computer-vision.md#cao26h-representation-learning) |
 | [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://proceedings.mlr.press/v306/cassano26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cassano26a-representation-learning) |
 | [PartCo: Part-Level Correspondence Priors Enhance Category Discovery](https://proceedings.mlr.press/v306/cendra26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cendra26a-representation-learning) |
 | [Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling](https://proceedings.mlr.press/v306/chen26ca.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ca-representation-learning) |

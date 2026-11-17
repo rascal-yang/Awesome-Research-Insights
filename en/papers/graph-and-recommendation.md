@@ -77,7 +77,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-arafat26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) |
-| [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
+| [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-canturk26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
 | [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) |
 | [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26ai-training-strategies) |
 | [Certifying Graph Neural Networks Against Label and Structure Poisoning](https://proceedings.mlr.press/v306/gosch26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gosch26a-training-strategies) |
@@ -113,7 +113,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](https://proceedings.mlr.press/v306/behmanesh26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-behmanesh26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) |
-| [CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cai26f-representation-learning) |
+| [CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26f) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cai26f-representation-learning) |
 | [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) |
 | [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) |
 | [Computationally-efficient Graph Modeling with Refined Graph Random Features](https://proceedings.mlr.press/v306/choromanski26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#choromanski26a-representation-learning) |

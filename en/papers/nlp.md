@@ -32,7 +32,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](https://proceedings.mlr.press/v306/cai26d.html) | [Read insight (中文)](../../papers/nlp.md#cai26d-loss-functions) |
+| [ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](https://proceedings.mlr.press/v306/cai26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26d) | [Read insight (中文)](../../papers/nlp.md#cai26d-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -48,7 +48,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](https://proceedings.mlr.press/v306/bu26e.html) | [Read insight (中文)](../../papers/nlp.md#bu26e-reinforcement-learning) |
+| [Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](https://proceedings.mlr.press/v306/bu26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-bu26e) | [Read insight (中文)](../../papers/nlp.md#bu26e-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 

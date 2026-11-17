@@ -30,7 +30,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="cai26d-loss-functions"></a>[ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](https://proceedings.mlr.press/v306/cai26d.html) | 检索器生成正则 | 用检索器的相似度加权其他文本对下 token 预测的条件贡献，与对比目标一起训练，让检索器区分二分类相关性之外的证据联系。 |
+| <a id="cai26d-loss-functions"></a>[ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](https://proceedings.mlr.press/v306/cai26d.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-cai26d) | 检索器生成正则 | 用检索器的相似度加权其他文本对下 token 预测的条件贡献，与对比目标一起训练，让检索器区分二分类相关性之外的证据联系。 |
 
 <a id="by-optimization"></a>
 
@@ -46,7 +46,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bu26e-reinforcement-learning"></a>[Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](https://proceedings.mlr.press/v306/bu26e.html) | 多跳事实核查 | 要求模型输出证据与结论的依赖图，再用 GRPO 的规则奖励约束推理深度与冗余。实测过长的依赖链也会拉低核查准确率。 |
+| <a id="bu26e-reinforcement-learning"></a>[Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](https://proceedings.mlr.press/v306/bu26e.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-bu26e) | 多跳事实核查 | 要求模型输出证据与结论的依赖图，再用 GRPO 的规则奖励约束推理深度与冗余。实测过长的依赖链也会拉低核查准确率。 |
 
 <a id="by-training-strategies"></a>
 

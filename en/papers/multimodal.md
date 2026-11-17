@@ -67,7 +67,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](https://proceedings.mlr.press/v306/cao26m.html) | [Read insight (中文)](../../papers/multimodal.md#cao26m-reinforcement-learning) |
+| [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](https://proceedings.mlr.press/v306/cao26m.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26m) | [Read insight (中文)](../../papers/multimodal.md#cao26m-reinforcement-learning) |
 | [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](https://proceedings.mlr.press/v306/chen26bk.html) | [Read insight (中文)](../../papers/multimodal.md#chen26bk-reinforcement-learning) |
 | [OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](https://proceedings.mlr.press/v306/chen26ed.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ed-reinforcement-learning) |
 | [VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](https://proceedings.mlr.press/v306/dai26j.html) | [Read insight (中文)](../../papers/multimodal.md#dai26j-reinforcement-learning) |
@@ -87,7 +87,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning](https://proceedings.mlr.press/v306/alipour-talemi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alipour-talemi26a) | [Read insight (中文)](../../papers/multimodal.md#alipour-talemi26a-training-strategies) |
 | [TRACER: Persistent Regularization for Robust Multimodal Finetuning](https://proceedings.mlr.press/v306/asadollahzadeh26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-asadollahzadeh26a) | [Read insight (中文)](../../papers/multimodal.md#asadollahzadeh26a-training-strategies) |
-| [Seeing to Generalize: How Visual Data Corrects Binding Shortcuts](https://proceedings.mlr.press/v306/buzeta26a.html) | [Read insight (中文)](../../papers/multimodal.md#buzeta26a-training-strategies) |
+| [Seeing to Generalize: How Visual Data Corrects Binding Shortcuts](https://proceedings.mlr.press/v306/buzeta26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-buzeta26a) | [Read insight (中文)](../../papers/multimodal.md#buzeta26a-training-strategies) |
 | [Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](https://proceedings.mlr.press/v306/chen26am.html) | [Read insight (中文)](../../papers/multimodal.md#chen26am-training-strategies) |
 | [Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](https://proceedings.mlr.press/v306/chen26gr.html) | [Read insight (中文)](../../papers/multimodal.md#chen26gr-training-strategies) |
 | [HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning](https://proceedings.mlr.press/v306/cheng26p.html) | [Read insight (中文)](../../papers/multimodal.md#cheng26p-training-strategies) |
@@ -174,7 +174,7 @@ The linked short insights are available in Chinese.
 | [Jailbreaking Vision-Language Models Through the Visual Modality](https://proceedings.mlr.press/v306/azulay26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-azulay26a) | [Read insight (中文)](../../papers/multimodal.md#azulay26a-evaluation) |
 | [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://proceedings.mlr.press/v306/borchmann26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-borchmann26a) | [Read insight (中文)](../../papers/multimodal.md#borchmann26a-evaluation) |
 | [Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](https://proceedings.mlr.press/v306/bouguerra26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-bouguerra26a) | [Read insight (中文)](../../papers/multimodal.md#bouguerra26a-evaluation) |
-| [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](https://proceedings.mlr.press/v306/cao26i.html) | [Read insight (中文)](../../papers/multimodal.md#cao26i-evaluation) |
+| [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](https://proceedings.mlr.press/v306/cao26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26i) | [Read insight (中文)](../../papers/multimodal.md#cao26i-evaluation) |
 | [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://proceedings.mlr.press/v306/cao26v.html) | [Read insight (中文)](../../papers/multimodal.md#cao26v-evaluation) |
 | [FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](https://proceedings.mlr.press/v306/chen26ad.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ad-evaluation) |
 | [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://proceedings.mlr.press/v306/chen26dh.html) | [Read insight (中文)](../../papers/multimodal.md#chen26dh-evaluation) |
@@ -204,6 +204,6 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](https://proceedings.mlr.press/v306/cai26o.html) | [Read insight (中文)](../../papers/multimodal.md#cai26o-theory-statistics) |
+| [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](https://proceedings.mlr.press/v306/cai26o.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26o) | [Read insight (中文)](../../papers/multimodal.md#cai26o-theory-statistics) |
 | [Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](https://proceedings.mlr.press/v306/delattre26a.html) | [Read insight (中文)](../../papers/multimodal.md#delattre26a-theory-statistics) |
 <!-- classification:end -->
