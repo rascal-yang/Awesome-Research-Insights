@@ -169,6 +169,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](../../conferences/icml-2026/cards/2001-2100.md#karvonen26a-evaluation) · 中文
 - [Rethinking Pretraining Data Detection for LLMs: From Local to Global](../../conferences/icml-2026/cards/2001-2100.md#ke26f-evaluation) · 中文
 - [Expanding the AI Evaluation Toolbox with Statistical Models](../../conferences/icml-2026/cards/2001-2100.md#keller26a-evaluation) · 中文
+- [Robust AI Evaluation through Maximal Lotteries](../../conferences/icml-2026/cards/2001-2100.md#khalaf26a-evaluation) · 中文
+- [Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation](../../conferences/icml-2026/cards/2001-2100.md#kim26d-evaluation) · 中文
+- [VALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26r-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -198,6 +201,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance](../../conferences/icml-2026/cards/1801-1900.md#jia26k-evaluation) · 中文
 - [Interpreting Physics in Video World Models](../../conferences/icml-2026/cards/2001-2100.md#joseph26a-evaluation) · 中文
 - [Are Object-Centric Representations Better at Compositional Generalization?](../../conferences/icml-2026/cards/2001-2100.md#kapl26b-evaluation) · 中文
+- [Dissect and Prune: Enhancing Robustness in AI-Generated Image Detection](../../conferences/icml-2026/cards/2001-2100.md#kim26k-evaluation) · 中文
+- [Unlocking Noise-Resistant Vision: Key Architectural Secrets for Robust Models Against Gaussian Noise](../../conferences/icml-2026/cards/2101-2200.md#kim26w-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -215,6 +220,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](../../conferences/icml-2026/cards/1301-1400.md#guo26w-evaluation) · 中文
 - [MusicDET: Zero-Shot AI-Generated Music Detection](../../conferences/icml-2026/cards/1401-1500.md#han26u-evaluation) · 中文
 - [SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text](../../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · 中文
+- [Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG](../../conferences/icml-2026/cards/2001-2100.md#ki26a-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

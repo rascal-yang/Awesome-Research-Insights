@@ -43,6 +43,7 @@
 - [用方向导数保持蒸馏的输入可控性](../conferences/icml-2026/cards/1701-1800.md#huang26bj-loss-functions) · Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment
 - [以逆向重建约束长视频滚动](../conferences/icml-2026/cards/1701-1800.md#huang26bt-loss-functions) · LIVE: Long-horizon Interactive Video World Modeling
 - [训练对重缩放敏感的模型更新](../conferences/icml-2026/cards/1801-1900.md#jang26e-loss-functions) · Making Models Unmergeable via Scaling-Sensitive Loss Landscape
+- [让一致性训练更新指向数据流形](../conferences/icml-2026/cards/2001-2100.md#kim26e-loss-functions) · Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents
 
 <a id="by-nlp"></a>
 
@@ -58,6 +59,7 @@
 - [离线强化学习流策略正则](../conferences/icml-2026/cards/0601-0700.md#chen26ep-loss-functions) · Continuity-Regularized Flow Matching for Offline Reinforcement Learning
 - [用频域平滑正则降低随机流训练方差](../conferences/icml-2026/cards/1401-1500.md#hassen26a-loss-functions) · Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization
 - [对齐潜状态与任务价值而保留预测损失](../conferences/icml-2026/cards/1901-2000.md#jiang26ai-loss-functions) · Boosting World Models Learning via Latent-Space Value Alignment
+- [按轨迹回报软排序学习序数评级](../conferences/icml-2026/cards/2001-2100.md#kharyal26a-loss-functions) · Reward Learning through Ranking Mean Squared Error
 
 <a id="by-robotics"></a>
 

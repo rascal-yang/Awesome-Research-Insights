@@ -34,6 +34,7 @@
 - [让超网络按文本调节前馈门控斜率](../conferences/icml-2026/cards/1801-1900.md#ji26i-modules) · Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM
 - [用反馈锁定 MoE 动态路由的平均预算](../conferences/icml-2026/cards/1901-2000.md#jin26f-modules) · DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training
 - [用共同激活记录抑制 MoE 专家组合冗余](../conferences/icml-2026/cards/2001-2100.md#kang26q-modules) · Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE
+- [用可相加的推理 logits 复用轻量模块](../conferences/icml-2026/cards/2001-2100.md#kim26f-modules) · Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs
 
 <a id="by-computer-vision"></a>
 

@@ -49,6 +49,7 @@
 
 - <a id="chaudhary26a-optimization"></a>[Blending Neural Control Density Functions for Stabilization and Safety](../conferences/icml-2026/cards/0401-0500.md#paper-chaudhary26a)
 - <a id="fan26g-optimization"></a>[De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../conferences/icml-2026/cards/1001-1100.md#paper-fan26g)
+- <a id="khan26a-optimization"></a>[Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges](../conferences/icml-2026/cards/2001-2100.md#paper-khan26a)
 
 <a id="by-reinforcement-learning"></a>
 

@@ -72,6 +72,7 @@
 - [在共享参数的单流生成器解耦擦除更新](../conferences/icml-2026/cards/1901-2000.md#jiang26i-optimization) · Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers
 - [按时空梯度变化调整发放阈值附近的替代梯度](../conferences/icml-2026/cards/2001-2100.md#kang26g-optimization) · A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks
 - [用场景交互点约束单目群体重建尺度](../conferences/icml-2026/cards/2001-2100.md#kang26s-optimization) · Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction
+- [用显式遗忘约束校准保留程度](../conferences/icml-2026/cards/2001-2100.md#khalafi26a-optimization) · Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints
 
 <a id="by-nlp"></a>
 
@@ -92,6 +93,7 @@
 
 - [安全控制器混合](../conferences/icml-2026/cards/0401-0500.md#chaudhary26a-optimization) · Blending Neural Control Density Functions for Stabilization and Safety
 - [动态 SLAM 的残差梯度隔离](../conferences/icml-2026/cards/1001-1100.md#fan26g-optimization) · De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments
+- [由熵正则分数运输引导整数路径](../conferences/icml-2026/cards/2001-2100.md#khan26a-optimization) · Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
 
 <a id="by-multimodal"></a>
 
@@ -241,6 +243,7 @@
 - [在局部代理下降之间插入约束探索](../conferences/icml-2026/cards/1901-2000.md#jing26c-optimization) · Local Constrained Bayesian Optimization
 - [把中间边际变成流动轨迹的局部力](../conferences/icml-2026/cards/2001-2100.md#kansal26a-optimization) · Multimarginal flow matching with optimal transport potentials
 - [用动能决定各参数的阻尼强度](../conferences/icml-2026/cards/2001-2100.md#karoni26a-optimization) · Adaptive Momentum and Nonlinear Damping for Neural Network Training
+- [用硬前向和自适应软梯度训练门网络](../conferences/icml-2026/cards/2001-2100.md#kim26a-optimization) · Align Forward, Adapt Backward: Closing the Discretization Gap in Logic Gate Networks
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -283,4 +286,5 @@
 - [用廉价法向回拉代替逐步求可行投影](../conferences/icml-2026/cards/1801-1900.md#jeon26d-optimization) · Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing
 - [把状态切换写成可组合的结构约束](../conferences/icml-2026/cards/1901-2000.md#jing26a-optimization) · SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins
 - [沿神经活动主方向施加信用分配噪声](../conferences/icml-2026/cards/2001-2100.md#kang26n-optimization) · Credit Assignment via Neural Manifold Noise Correlation
+- [用两条流拆分分子生成与完成概率](../conferences/icml-2026/cards/2001-2100.md#kim26j-optimization) · LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition
 <!-- classification:end -->

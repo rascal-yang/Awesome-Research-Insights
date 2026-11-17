@@ -50,6 +50,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](../../conferences/icml-2026/cards/1901-2000.md#jin26b-representation-learning) · 中文
 - [Learning Context-Conditioned Predicate Semantics via Prototype Feedback](../../conferences/icml-2026/cards/2001-2100.md#jung26a-representation-learning) · 中文
 - [Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection](../../conferences/icml-2026/cards/2001-2100.md#kang26o-representation-learning) · 中文
+- [Equivariant Latent Alignment via Flow Matching under Group Symmetries](../../conferences/icml-2026/cards/2101-2200.md#kim26p-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -71,6 +72,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Action-Sufficient Goal Representations](../../conferences/icml-2026/cards/1801-1900.md#hyeon26a-representation-learning) · 中文
 - [Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions](../../conferences/icml-2026/cards/1801-1900.md#je-gal26a-representation-learning) · 中文
 - [Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26f-representation-learning) · 中文
+- [Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26x-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -128,6 +130,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Transformed Latent Variable Multi-Output Gaussian Processes](../../conferences/icml-2026/cards/1901-2000.md#jiang26ao-representation-learning) · 中文
 - [Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1901-2000.md#jin26n-representation-learning) · 中文
 - [Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation](../../conferences/icml-2026/cards/2001-2100.md#jung26i-representation-learning) · 中文
+- [Sinkhorn Normalization of Diffusion Kernels](../../conferences/icml-2026/cards/2001-2100.md#kessler26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -180,4 +183,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](../../conferences/icml-2026/cards/1801-1900.md#jia26d-representation-learning) · 中文
 - [What Makes a Representation Good for Single-Cell Perturbation Prediction?](../../conferences/icml-2026/cards/1901-2000.md#jiang26ad-representation-learning) · 中文
 - [Meta-learning Structure-Preserving Dynamics](../../conferences/icml-2026/cards/1901-2000.md#jing26e-representation-learning) · 中文
+- [Explicit representation of germline and non-germline residues improves antibody language modeling](../../conferences/icml-2026/cards/2001-2100.md#kim26c-representation-learning) · 中文
 <!-- classification:end -->

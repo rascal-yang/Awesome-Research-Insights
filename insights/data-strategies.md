@@ -40,6 +40,7 @@
 - [用扰动模型的前缀损失挑长推理样本](../conferences/icml-2026/cards/1901-2000.md#jin26o-data-strategies) · Reasoning Quality Emerges Early: Data Curation for Reasoning Models
 - [按短前缀给每步推理单独打分](../conferences/icml-2026/cards/2001-2100.md#just26a-data-strategies) · The Signal is in the Steps: Local Scoring for Reasoning Data Selection
 - [按边际安全收益选择最小增强集](../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment
+- [用模型自己的解掩顺序生成训练掩码](../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training
 
 <a id="by-computer-vision"></a>
 

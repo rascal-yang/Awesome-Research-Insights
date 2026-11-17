@@ -238,6 +238,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="jing26c-optimization"></a>[Local Constrained Bayesian Optimization](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26c)
 - <a id="kansal26a-optimization"></a>[Multimarginal flow matching with optimal transport potentials](../../conferences/icml-2026/cards/2001-2100.md#paper-kansal26a)
 - <a id="karoni26a-optimization"></a>[Adaptive Momentum and Nonlinear Damping for Neural Network Training](../../conferences/icml-2026/cards/2001-2100.md#paper-karoni26a)
+- <a id="kim26a-optimization"></a>[Align Forward, Adapt Backward: Closing the Discretization Gap in Logic Gate Networks](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -333,6 +334,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="guo26m-inference"></a>[FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26m)
 - <a id="hiranaka26a-inference"></a>[Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization](../../conferences/icml-2026/cards/1501-1600.md#paper-hiranaka26a)
 - <a id="hirth26a-inference"></a>[Denoising without Diffusion: Fixed-Noise Denoiser Anomaly Detection in Tabular Data](../../conferences/icml-2026/cards/1501-1600.md#paper-hirth26a)
+- <a id="khoo26a-inference"></a>[Minimum Distance Summaries for Robust Neural Posterior Estimation](../../conferences/icml-2026/cards/2001-2100.md#paper-khoo26a)
+- <a id="kim26u-inference"></a>[Inverting Data Transformations via Diffusion Sampling](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26u)
 
 <a id="by-representation-learning"></a>
 
@@ -361,6 +364,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="jiang26ao-representation-learning"></a>[Transformed Latent Variable Multi-Output Gaussian Processes](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ao)
 - <a id="jin26n-representation-learning"></a>[Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26n)
 - <a id="jung26i-representation-learning"></a>[Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26i)
+- <a id="kessler26a-representation-learning"></a>[Sinkhorn Normalization of Diffusion Kernels](../../conferences/icml-2026/cards/2001-2100.md#paper-kessler26a)
 
 <a id="by-evaluation"></a>
 
@@ -624,4 +628,9 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="kang26h-theory-statistics"></a>[Transformers Can Learn Posterior Predictive Distributions In-Context](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26h)
 - <a id="karhadkar26a-theory-statistics"></a>[Harmful Overfitting in Sobolev Spaces](../../conferences/icml-2026/cards/2001-2100.md#paper-karhadkar26a)
 - <a id="kato26a-theory-statistics"></a>[ScoreMatchingRiesz: Score Matching for Debiased Machine Learning and Policy Path Estimation](../../conferences/icml-2026/cards/2001-2100.md#paper-kato26a)
+- <a id="khelifa26a-theory-statistics"></a>[Quantifying Error Propagation and Model Collapse in Diffusion Models](../../conferences/icml-2026/cards/2001-2100.md#paper-khelifa26a)
+- <a id="khellaf26a-theory-statistics"></a>[Federated Causal Inference on Multi-Site Observational Data via Propensity Score Aggregation](../../conferences/icml-2026/cards/2001-2100.md#paper-khellaf26a)
+- <a id="khot26a-theory-statistics"></a>[Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference](../../conferences/icml-2026/cards/2001-2100.md#paper-khot26a)
+- <a id="kim26l-theory-statistics"></a>[Robust and Consistent Ski Rental with Distributional Advice](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26l)
+- <a id="kim26n-theory-statistics"></a>[Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26n)
 <!-- classification:end -->

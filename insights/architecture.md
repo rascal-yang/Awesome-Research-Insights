@@ -68,6 +68,7 @@
 - [用整体生成约束零件配准](../conferences/icml-2026/cards/1901-2000.md#jiang26ab-architecture) · CRAG: Can 3D Generative Models Help 3D Assembly?
 - [用平衡层给不同生成尺度分配步数](../conferences/icml-2026/cards/1901-2000.md#jiang26ah-architecture) · Visual Implicit Autoregressive Modeling
 - [用关节身份锚定状态更新并显式暴露深度](../conferences/icml-2026/cards/1901-2000.md#jiang26bb-architecture) · StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation
+- [让等变视觉与符号决策共同驱动旋转](../conferences/icml-2026/cards/2001-2100.md#khazoum26a-architecture) · A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments
 
 <a id="by-nlp"></a>
 

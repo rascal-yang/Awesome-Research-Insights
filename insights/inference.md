@@ -143,6 +143,10 @@
 - [在字节小块内并行猜测并按需验证](../conferences/icml-2026/cards/2001-2100.md#kallini26a-inference) · Fast Byte Latent Transformer
 - [用代理失败轨迹反推上下文保留规则](../conferences/icml-2026/cards/2001-2100.md#kang26b-inference) · ACON: Optimizing Context Compression for Long-horizon LLM Agents
 - [按完整代理流程调度缓存和工具环境](../conferences/icml-2026/cards/2001-2100.md#kang26j-inference) · ThunderAgent: A Fast, Simple, and Program-Aware Agentic Inference System
+- [用自动机可行概率引导连续扩散解码](../conferences/icml-2026/cards/2001-2100.md#kim26b-inference) · Continuous Diffusion Models Can Obey Formal Syntax
+- [用轻量规划器决定扩散解码先解哪里](../conferences/icml-2026/cards/2001-2100.md#kim26i-inference) · Early Decisions Matter: Proximity Bias and Initial Trajectory Shaping in Non-Autoregressive Diffusion Language Models
+- [每步在注意力依赖图上挑独立词元并行解掩](../conferences/icml-2026/cards/2101-2200.md#kim26t-inference) · DAPD: Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs
+- [先盲估计水印消息，再按指定码字验证](../conferences/icml-2026/cards/2101-2200.md#kim26y-inference) · Block-wise Codeword Embedding for Reliable Multi-bit Text Watermarking
 
 <a id="by-computer-vision"></a>
 
@@ -322,6 +326,8 @@
 - [联邦测试时的原型拓扑扩散](../conferences/icml-2026/cards/1301-1400.md#guo26m-inference) · FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology
 - [先定位知识组件，再生成最小范围的纠正](../conferences/icml-2026/cards/1501-1600.md#hiranaka26a-inference) · Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization
 - [以同一样本多次受扰后的去噪偏差衡量异常](../conferences/icml-2026/cards/1501-1600.md#hirth26a-inference) · Denoising without Diffusion: Fixed-Noise Denoiser Anomaly Detection in Tabular Data
+- [在测试时寻找稳健摘要再查询固定后验](../conferences/icml-2026/cards/2001-2100.md#khoo26a-inference) · Minimum Distance Summaries for Robust Neural Posterior Estimation
+- [在变换群上采后验并用逆作用校准输入](../conferences/icml-2026/cards/2101-2200.md#kim26u-inference) · Inverting Data Transformations via Diffusion Sampling
 
 <a id="by-graph-and-recommendation"></a>
 

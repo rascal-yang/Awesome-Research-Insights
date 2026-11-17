@@ -328,6 +328,11 @@
 - [以注意力迭代计算后验矩，再映射到分箱概率](../conferences/icml-2026/cards/2001-2100.md#kang26h-theory-statistics) · Transformers Can Learn Posterior Predictive Distributions In-Context
 - [用噪声点周围的误差体积识别有害插值](../conferences/icml-2026/cards/2001-2100.md#karhadkar26a-theory-statistics) · Harmful Overfitting in Sobolev Spaces
 - [用分数桥恢复有限政策变化的效应](../conferences/icml-2026/cards/2001-2100.md#kato26a-theory-statistics) · ScoreMatchingRiesz: Score Matching for Debiased Machine Learning and Policy Path Estimation
+- [按新鲜数据比例折现扩散代际误差](../conferences/icml-2026/cards/2001-2100.md#khelifa26a-theory-statistics) · Quantifying Error Propagation and Model Collapse in Diffusion Models
+- [按站点成员概率汇总倾向分数](../conferences/icml-2026/cards/2001-2100.md#khellaf26a-theory-statistics) · Federated Causal Inference on Multi-Site Observational Data via Propensity Score Aggregation
+- [用邻域处理向量代理空间混杂](../conferences/icml-2026/cards/2001-2100.md#khot26a-theory-statistics) · Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference
+- [把时长分布转成受限买入阈值](../conferences/icml-2026/cards/2001-2100.md#kim26l-theory-statistics) · Robust and Consistent Ski Rental with Distributional Advice
+- [把高斯变分推断的估计器和优化几何分开检验](../conferences/icml-2026/cards/2101-2200.md#kim26n-theory-statistics) · Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -364,4 +369,5 @@
 - [将多模哈密顿量恢复转成多项式系数估计](../conferences/icml-2026/cards/1701-1800.md#huang26ce-theory-statistics) · Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation
 - [从局部形态分布估计不同部位的发育时标](../conferences/icml-2026/cards/1901-2000.md#jiao26a-theory-statistics) · $\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling
 - [用重尾连接先验形成可外推的低维动力学](../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks
+- [用有记忆的基函数估计抗污染输入输出关系](../conferences/icml-2026/cards/2001-2100.md#kim26m-theory-statistics) · On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks
 <!-- classification:end -->

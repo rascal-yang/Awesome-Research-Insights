@@ -40,6 +40,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Reasoning Quality Emerges Early: Data Curation for Reasoning Models](../../conferences/icml-2026/cards/1901-2000.md#jin26o-data-strategies) · 中文
 - [The Signal is in the Steps: Local Scoring for Reasoning Data Selection](../../conferences/icml-2026/cards/2001-2100.md#just26a-data-strategies) · 中文
 - [Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment](../../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · 中文
+- [Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](../../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

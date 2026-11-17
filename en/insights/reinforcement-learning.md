@@ -85,6 +85,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Adversarial Training for Process Reward Models](../../conferences/icml-2026/cards/2001-2100.md#juneja26a-reinforcement-learning) · 中文
 - [Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems](../../conferences/icml-2026/cards/2001-2100.md#juneja26b-reinforcement-learning) · 中文
 - [MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks](../../conferences/icml-2026/cards/2001-2100.md#ke26c-reinforcement-learning) · 中文
+- [A Regret Minimization Framework on Preference Learning in Large Language Models](../../conferences/icml-2026/cards/2001-2100.md#kim26g-reinforcement-learning) · 中文
+- [Verifying Meta-Awareness via Predictive Rewards in Reasoning Models](../../conferences/icml-2026/cards/2101-2200.md#kim26s-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

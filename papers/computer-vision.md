@@ -37,6 +37,7 @@
 - <a id="jiang26ab-architecture"></a>[CRAG: Can 3D Generative Models Help 3D Assembly?](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ab)
 - <a id="jiang26ah-architecture"></a>[Visual Implicit Autoregressive Modeling](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ah)
 - <a id="jiang26bb-architecture"></a>[StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bb)
+- <a id="khazoum26a-architecture"></a>[A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](../conferences/icml-2026/cards/2001-2100.md#paper-khazoum26a)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -76,6 +77,7 @@
 - <a id="huang26bj-loss-functions"></a>[Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bj)
 - <a id="huang26bt-loss-functions"></a>[LIVE: Long-horizon Interactive Video World Modeling](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bt)
 - <a id="jang26e-loss-functions"></a>[Making Models Unmergeable via Scaling-Sensitive Loss Landscape](../conferences/icml-2026/cards/1801-1900.md#paper-jang26e)
+- <a id="kim26e-loss-functions"></a>[Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents](../conferences/icml-2026/cards/2001-2100.md#paper-kim26e)
 
 <a id="by-optimization"></a>
 
@@ -93,6 +95,7 @@
 - <a id="jiang26i-optimization"></a>[Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26i)
 - <a id="kang26g-optimization"></a>[A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks](../conferences/icml-2026/cards/2001-2100.md#paper-kang26g)
 - <a id="kang26s-optimization"></a>[Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction](../conferences/icml-2026/cards/2001-2100.md#paper-kang26s)
+- <a id="khalafi26a-optimization"></a>[Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints](../conferences/icml-2026/cards/2001-2100.md#paper-khalafi26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -234,6 +237,7 @@
 - <a id="jin26b-representation-learning"></a>[WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](../conferences/icml-2026/cards/1901-2000.md#paper-jin26b)
 - <a id="jung26a-representation-learning"></a>[Learning Context-Conditioned Predicate Semantics via Prototype Feedback](../conferences/icml-2026/cards/2001-2100.md#paper-jung26a)
 - <a id="kang26o-representation-learning"></a>[Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection](../conferences/icml-2026/cards/2001-2100.md#paper-kang26o)
+- <a id="kim26p-representation-learning"></a>[Equivariant Latent Alignment via Flow Matching under Group Symmetries](../conferences/icml-2026/cards/2101-2200.md#paper-kim26p)
 
 <a id="by-evaluation"></a>
 
@@ -263,6 +267,8 @@
 - <a id="jia26k-evaluation"></a>[Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance](../conferences/icml-2026/cards/1801-1900.md#paper-jia26k)
 - <a id="joseph26a-evaluation"></a>[Interpreting Physics in Video World Models](../conferences/icml-2026/cards/2001-2100.md#paper-joseph26a)
 - <a id="kapl26b-evaluation"></a>[Are Object-Centric Representations Better at Compositional Generalization?](../conferences/icml-2026/cards/2001-2100.md#paper-kapl26b)
+- <a id="kim26k-evaluation"></a>[Dissect and Prune: Enhancing Robustness in AI-Generated Image Detection](../conferences/icml-2026/cards/2001-2100.md#paper-kim26k)
+- <a id="kim26w-evaluation"></a>[Unlocking Noise-Resistant Vision: Key Architectural Secrets for Robust Models Against Gaussian Noise](../conferences/icml-2026/cards/2101-2200.md#paper-kim26w)
 
 <a id="by-theory-statistics"></a>
 

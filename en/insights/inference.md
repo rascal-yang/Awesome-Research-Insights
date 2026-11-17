@@ -143,6 +143,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Fast Byte Latent Transformer](../../conferences/icml-2026/cards/2001-2100.md#kallini26a-inference) · 中文
 - [ACON: Optimizing Context Compression for Long-horizon LLM Agents](../../conferences/icml-2026/cards/2001-2100.md#kang26b-inference) · 中文
 - [ThunderAgent: A Fast, Simple, and Program-Aware Agentic Inference System](../../conferences/icml-2026/cards/2001-2100.md#kang26j-inference) · 中文
+- [Continuous Diffusion Models Can Obey Formal Syntax](../../conferences/icml-2026/cards/2001-2100.md#kim26b-inference) · 中文
+- [Early Decisions Matter: Proximity Bias and Initial Trajectory Shaping in Non-Autoregressive Diffusion Language Models](../../conferences/icml-2026/cards/2001-2100.md#kim26i-inference) · 中文
+- [DAPD: Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs](../../conferences/icml-2026/cards/2101-2200.md#kim26t-inference) · 中文
+- [Block-wise Codeword Embedding for Reliable Multi-bit Text Watermarking](../../conferences/icml-2026/cards/2101-2200.md#kim26y-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -322,6 +326,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology](../../conferences/icml-2026/cards/1301-1400.md#guo26m-inference) · 中文
 - [Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization](../../conferences/icml-2026/cards/1501-1600.md#hiranaka26a-inference) · 中文
 - [Denoising without Diffusion: Fixed-Noise Denoiser Anomaly Detection in Tabular Data](../../conferences/icml-2026/cards/1501-1600.md#hirth26a-inference) · 中文
+- [Minimum Distance Summaries for Robust Neural Posterior Estimation](../../conferences/icml-2026/cards/2001-2100.md#khoo26a-inference) · 中文
+- [Inverting Data Transformations via Diffusion Sampling](../../conferences/icml-2026/cards/2101-2200.md#kim26u-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

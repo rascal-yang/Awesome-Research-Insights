@@ -72,6 +72,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](../../conferences/icml-2026/cards/1901-2000.md#jiang26i-optimization) · 中文
 - [A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks](../../conferences/icml-2026/cards/2001-2100.md#kang26g-optimization) · 中文
 - [Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction](../../conferences/icml-2026/cards/2001-2100.md#kang26s-optimization) · 中文
+- [Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints](../../conferences/icml-2026/cards/2001-2100.md#khalafi26a-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -92,6 +93,7 @@ Gradient updates, parameterization, and optimization dynamics.
 
 - [Blending Neural Control Density Functions for Stabilization and Safety](../../conferences/icml-2026/cards/0401-0500.md#chaudhary26a-optimization) · 中文
 - [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../../conferences/icml-2026/cards/1001-1100.md#fan26g-optimization) · 中文
+- [Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges](../../conferences/icml-2026/cards/2001-2100.md#khan26a-optimization) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -241,6 +243,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Local Constrained Bayesian Optimization](../../conferences/icml-2026/cards/1901-2000.md#jing26c-optimization) · 中文
 - [Multimarginal flow matching with optimal transport potentials](../../conferences/icml-2026/cards/2001-2100.md#kansal26a-optimization) · 中文
 - [Adaptive Momentum and Nonlinear Damping for Neural Network Training](../../conferences/icml-2026/cards/2001-2100.md#karoni26a-optimization) · 中文
+- [Align Forward, Adapt Backward: Closing the Discretization Gap in Logic Gate Networks](../../conferences/icml-2026/cards/2001-2100.md#kim26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -283,4 +286,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](../../conferences/icml-2026/cards/1801-1900.md#jeon26d-optimization) · 中文
 - [SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](../../conferences/icml-2026/cards/1901-2000.md#jing26a-optimization) · 中文
 - [Credit Assignment via Neural Manifold Noise Correlation](../../conferences/icml-2026/cards/2001-2100.md#kang26n-optimization) · 中文
+- [LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition](../../conferences/icml-2026/cards/2001-2100.md#kim26j-optimization) · 中文
 <!-- classification:end -->

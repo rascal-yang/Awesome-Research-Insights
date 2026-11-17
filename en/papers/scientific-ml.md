@@ -109,6 +109,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jeon26d-optimization"></a>[Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](../../conferences/icml-2026/cards/1801-1900.md#paper-jeon26d)
 - <a id="jing26a-optimization"></a>[SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26a)
 - <a id="kang26n-optimization"></a>[Credit Assignment via Neural Manifold Noise Correlation](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26n)
+- <a id="kim26j-optimization"></a>[LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26j)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -149,6 +150,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jiang26bd-training-strategies"></a>[Ophiuchus: Incentivizing Tool-augmented ”Think with Images” for Joint Medical Segmentation, Understanding and Reasoning](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bd)
 - <a id="jin26l-training-strategies"></a>[ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26l)
 - <a id="jing26b-training-strategies"></a>[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26b)
+- <a id="kim26q-training-strategies"></a>[Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26q)
 
 <a id="by-data-strategies"></a>
 
@@ -215,6 +217,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jia26d-representation-learning"></a>[EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26d)
 - <a id="jiang26ad-representation-learning"></a>[What Makes a Representation Good for Single-Cell Perturbation Prediction?](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ad)
 - <a id="jing26e-representation-learning"></a>[Meta-learning Structure-Preserving Dynamics](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26e)
+- <a id="kim26c-representation-learning"></a>[Explicit representation of germline and non-germline residues improves antibody language modeling](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26c)
 
 <a id="by-evaluation"></a>
 
@@ -256,4 +259,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="huang26ce-theory-statistics"></a>[Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ce)
 - <a id="jiao26a-theory-statistics"></a>[$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26a)
 - <a id="jiao26c-theory-statistics"></a>[Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26c)
+- <a id="kim26m-theory-statistics"></a>[On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26m)
 <!-- classification:end -->

@@ -85,6 +85,8 @@
 - [让过程奖励模型与难错误生成器共同训练](../conferences/icml-2026/cards/2001-2100.md#juneja26a-reinforcement-learning) · Adversarial Training for Process Reward Models
 - [用固定多锚点胜率训练主观任务](../conferences/icml-2026/cards/2001-2100.md#juneja26b-reinforcement-learning) · Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems
 - [把子代理封装成可调用函数后整体编排](../conferences/icml-2026/cards/2001-2100.md#ke26c-reinforcement-learning) · MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks
+- [把偏好目标转写成对替代行为的遗憾](../conferences/icml-2026/cards/2001-2100.md#kim26g-reinforcement-learning) · A Regret Minimization Framework on Preference Learning in Large Language Models
+- [用解题采样统计监督模型预测自身表现](../conferences/icml-2026/cards/2101-2200.md#kim26s-reinforcement-learning) · Verifying Meta-Awareness via Predictive Rewards in Reasoning Models
 
 <a id="by-computer-vision"></a>
 

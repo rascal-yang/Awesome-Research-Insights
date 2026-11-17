@@ -169,6 +169,9 @@
 - [把内层激活读出训练成可提问接口](../conferences/icml-2026/cards/2001-2100.md#karvonen26a-evaluation) · Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers
 - [用序列概率波动做预训练成员诊断](../conferences/icml-2026/cards/2001-2100.md#ke26f-evaluation) · Rethinking Pretraining Data Detection for LLMs: From Local to Global
 - [把题目差异纳入模型基准的区间估计](../conferences/icml-2026/cards/2001-2100.md#keller26a-evaluation) · Expanding the AI Evaluation Toolbox with Statistical Models
+- [对偏好子群分布做鲁棒模型混合](../conferences/icml-2026/cards/2001-2100.md#khalaf26a-evaluation) · Robust AI Evaluation through Maximal Lotteries
+- [生成能分辨候选程序的执行测试](../conferences/icml-2026/cards/2001-2100.md#kim26d-evaluation) · Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation
+- [以排序锚点校准语言模型表达的价值强度](../conferences/icml-2026/cards/2101-2200.md#kim26r-evaluation) · VALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -198,6 +201,8 @@
 - [按观测锚点密度判断弱先验是否够用](../conferences/icml-2026/cards/1801-1900.md#jia26k-evaluation) · Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance
 - [用多维因果干预检查视频物理表征](../conferences/icml-2026/cards/2001-2100.md#joseph26a-evaluation) · Interpreting Physics in Video World Models
 - [固定下游容量和训练组合再比较对象槽](../conferences/icml-2026/cards/2001-2100.md#kapl26b-evaluation) · Are Object-Centric Representations Better at Compositional Generalization?
+- [用混合真实和修补区域诊断检测通道](../conferences/icml-2026/cards/2001-2100.md#kim26k-evaluation) · Dissect and Prune: Enhancing Robustness in AI-Generated Image Detection
+- [把噪声强度相对模型预处理的变化纳入评测](../conferences/icml-2026/cards/2101-2200.md#kim26w-evaluation) · Unlocking Noise-Resistant Vision: Key Architectural Secrets for Robust Models Against Gaussian Noise
 
 <a id="by-nlp"></a>
 
@@ -215,6 +220,7 @@
 - [基于低概率词位的不确定性检测](../conferences/icml-2026/cards/1301-1400.md#guo26w-evaluation) · On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective
 - [基于真实音乐密度的生成检测](../conferences/icml-2026/cards/1401-1500.md#han26u-evaluation) · MusicDET: Zero-Shot AI-Generated Music Detection
 - [把模式归纳约束为可审计的类型图](../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text
+- [交换证据语言测引证相关性偏差](../conferences/icml-2026/cards/2001-2100.md#ki26a-evaluation) · Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG
 
 <a id="by-reinforcement-learning"></a>
 

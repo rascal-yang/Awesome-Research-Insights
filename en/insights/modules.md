@@ -34,6 +34,7 @@ Reusable components and local changes to model inputs or connections.
 - [Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM](../../conferences/icml-2026/cards/1801-1900.md#ji26i-modules) · 中文
 - [DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training](../../conferences/icml-2026/cards/1901-2000.md#jin26f-modules) · 中文
 - [Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE](../../conferences/icml-2026/cards/2001-2100.md#kang26q-modules) · 中文
+- [Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs](../../conferences/icml-2026/cards/2001-2100.md#kim26f-modules) · 中文
 
 <a id="by-computer-vision"></a>
 

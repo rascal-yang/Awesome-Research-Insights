@@ -2075,42 +2075,42 @@ number	pmlr_id	title	paper_url	insight_status
 2074	keenan26a	Mechanistic Anomaly Detection via Functional Attribution	https://proceedings.mlr.press/v306/keenan26a.html	written
 2075	keller26a	Expanding the AI Evaluation Toolbox with Statistical Models	https://proceedings.mlr.press/v306/keller26a.html	written
 2076	keriven26a	Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?	https://proceedings.mlr.press/v306/keriven26a.html	written
-2077	kessler26a	Sinkhorn Normalization of Diffusion Kernels	https://proceedings.mlr.press/v306/kessler26a.html	pending
-2078	khalaf26a	Robust AI Evaluation through Maximal Lotteries	https://proceedings.mlr.press/v306/khalaf26a.html	pending
-2079	khalafi26a	Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints	https://proceedings.mlr.press/v306/khalafi26a.html	pending
-2080	khan26a	Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges	https://proceedings.mlr.press/v306/khan26a.html	pending
-2081	kharyal26a	Reward Learning through Ranking Mean Squared Error	https://proceedings.mlr.press/v306/kharyal26a.html	pending
-2082	khazoum26a	A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments	https://proceedings.mlr.press/v306/khazoum26a.html	pending
-2083	khelifa26a	Quantifying Error Propagation and Model Collapse in Diffusion Models	https://proceedings.mlr.press/v306/khelifa26a.html	pending
-2084	khellaf26a	Federated Causal Inference on Multi-Site Observational Data via Propensity Score Aggregation	https://proceedings.mlr.press/v306/khellaf26a.html	pending
-2085	khoo26a	Minimum Distance Summaries for Robust Neural Posterior Estimation	https://proceedings.mlr.press/v306/khoo26a.html	pending
-2086	khot26a	Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference	https://proceedings.mlr.press/v306/khot26a.html	pending
-2087	ki26a	Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG	https://proceedings.mlr.press/v306/ki26a.html	pending
-2088	kim26a	Align Forward, Adapt Backward: Closing the Discretization Gap in Logic Gate Networks	https://proceedings.mlr.press/v306/kim26a.html	pending
-2089	kim26b	Continuous Diffusion Models Can Obey Formal Syntax	https://proceedings.mlr.press/v306/kim26b.html	pending
-2090	kim26c	Explicit representation of germline and non-germline residues improves antibody language modeling	https://proceedings.mlr.press/v306/kim26c.html	pending
-2091	kim26d	Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation	https://proceedings.mlr.press/v306/kim26d.html	pending
-2092	kim26e	Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents	https://proceedings.mlr.press/v306/kim26e.html	pending
-2093	kim26f	Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs	https://proceedings.mlr.press/v306/kim26f.html	pending
-2094	kim26g	A Regret Minimization Framework on Preference Learning in Large Language Models	https://proceedings.mlr.press/v306/kim26g.html	pending
-2095	kim26h	On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length	https://proceedings.mlr.press/v306/kim26h.html	pending
-2096	kim26i	Early Decisions Matter: Proximity Bias and Initial Trajectory Shaping in Non-Autoregressive Diffusion Language Models	https://proceedings.mlr.press/v306/kim26i.html	pending
-2097	kim26j	LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition	https://proceedings.mlr.press/v306/kim26j.html	pending
-2098	kim26k	Dissect and Prune: Enhancing Robustness in AI-Generated Image Detection	https://proceedings.mlr.press/v306/kim26k.html	pending
-2099	kim26l	Robust and Consistent Ski Rental with Distributional Advice	https://proceedings.mlr.press/v306/kim26l.html	pending
-2100	kim26m	On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks	https://proceedings.mlr.press/v306/kim26m.html	pending
-2101	kim26n	Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space	https://proceedings.mlr.press/v306/kim26n.html	pending
-2102	kim26o	Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training	https://proceedings.mlr.press/v306/kim26o.html	pending
-2103	kim26p	Equivariant Latent Alignment via Flow Matching under Group Symmetries	https://proceedings.mlr.press/v306/kim26p.html	pending
-2104	kim26q	Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations	https://proceedings.mlr.press/v306/kim26q.html	pending
-2105	kim26r	VALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models	https://proceedings.mlr.press/v306/kim26r.html	pending
-2106	kim26s	Verifying Meta-Awareness via Predictive Rewards in Reasoning Models	https://proceedings.mlr.press/v306/kim26s.html	pending
-2107	kim26t	DAPD: Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs	https://proceedings.mlr.press/v306/kim26t.html	pending
-2108	kim26u	Inverting Data Transformations via Diffusion Sampling	https://proceedings.mlr.press/v306/kim26u.html	pending
-2109	kim26v	AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs	https://proceedings.mlr.press/v306/kim26v.html	pending
-2110	kim26w	Unlocking Noise-Resistant Vision: Key Architectural Secrets for Robust Models Against Gaussian Noise	https://proceedings.mlr.press/v306/kim26w.html	pending
-2111	kim26x	Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning	https://proceedings.mlr.press/v306/kim26x.html	pending
-2112	kim26y	Block-wise Codeword Embedding for Reliable Multi-bit Text Watermarking	https://proceedings.mlr.press/v306/kim26y.html	pending
+2077	kessler26a	Sinkhorn Normalization of Diffusion Kernels	https://proceedings.mlr.press/v306/kessler26a.html	written
+2078	khalaf26a	Robust AI Evaluation through Maximal Lotteries	https://proceedings.mlr.press/v306/khalaf26a.html	written
+2079	khalafi26a	Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints	https://proceedings.mlr.press/v306/khalafi26a.html	written
+2080	khan26a	Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges	https://proceedings.mlr.press/v306/khan26a.html	written
+2081	kharyal26a	Reward Learning through Ranking Mean Squared Error	https://proceedings.mlr.press/v306/kharyal26a.html	written
+2082	khazoum26a	A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments	https://proceedings.mlr.press/v306/khazoum26a.html	written
+2083	khelifa26a	Quantifying Error Propagation and Model Collapse in Diffusion Models	https://proceedings.mlr.press/v306/khelifa26a.html	written
+2084	khellaf26a	Federated Causal Inference on Multi-Site Observational Data via Propensity Score Aggregation	https://proceedings.mlr.press/v306/khellaf26a.html	written
+2085	khoo26a	Minimum Distance Summaries for Robust Neural Posterior Estimation	https://proceedings.mlr.press/v306/khoo26a.html	written
+2086	khot26a	Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference	https://proceedings.mlr.press/v306/khot26a.html	written
+2087	ki26a	Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG	https://proceedings.mlr.press/v306/ki26a.html	written
+2088	kim26a	Align Forward, Adapt Backward: Closing the Discretization Gap in Logic Gate Networks	https://proceedings.mlr.press/v306/kim26a.html	written
+2089	kim26b	Continuous Diffusion Models Can Obey Formal Syntax	https://proceedings.mlr.press/v306/kim26b.html	written
+2090	kim26c	Explicit representation of germline and non-germline residues improves antibody language modeling	https://proceedings.mlr.press/v306/kim26c.html	written
+2091	kim26d	Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation	https://proceedings.mlr.press/v306/kim26d.html	written
+2092	kim26e	Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents	https://proceedings.mlr.press/v306/kim26e.html	written
+2093	kim26f	Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs	https://proceedings.mlr.press/v306/kim26f.html	written
+2094	kim26g	A Regret Minimization Framework on Preference Learning in Large Language Models	https://proceedings.mlr.press/v306/kim26g.html	written
+2095	kim26h	On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length	https://proceedings.mlr.press/v306/kim26h.html	written
+2096	kim26i	Early Decisions Matter: Proximity Bias and Initial Trajectory Shaping in Non-Autoregressive Diffusion Language Models	https://proceedings.mlr.press/v306/kim26i.html	written
+2097	kim26j	LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition	https://proceedings.mlr.press/v306/kim26j.html	written
+2098	kim26k	Dissect and Prune: Enhancing Robustness in AI-Generated Image Detection	https://proceedings.mlr.press/v306/kim26k.html	written
+2099	kim26l	Robust and Consistent Ski Rental with Distributional Advice	https://proceedings.mlr.press/v306/kim26l.html	written
+2100	kim26m	On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks	https://proceedings.mlr.press/v306/kim26m.html	written
+2101	kim26n	Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space	https://proceedings.mlr.press/v306/kim26n.html	written
+2102	kim26o	Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training	https://proceedings.mlr.press/v306/kim26o.html	written
+2103	kim26p	Equivariant Latent Alignment via Flow Matching under Group Symmetries	https://proceedings.mlr.press/v306/kim26p.html	written
+2104	kim26q	Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations	https://proceedings.mlr.press/v306/kim26q.html	written
+2105	kim26r	VALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models	https://proceedings.mlr.press/v306/kim26r.html	written
+2106	kim26s	Verifying Meta-Awareness via Predictive Rewards in Reasoning Models	https://proceedings.mlr.press/v306/kim26s.html	written
+2107	kim26t	DAPD: Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs	https://proceedings.mlr.press/v306/kim26t.html	written
+2108	kim26u	Inverting Data Transformations via Diffusion Sampling	https://proceedings.mlr.press/v306/kim26u.html	written
+2109	kim26v	AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs	https://proceedings.mlr.press/v306/kim26v.html	written
+2110	kim26w	Unlocking Noise-Resistant Vision: Key Architectural Secrets for Robust Models Against Gaussian Noise	https://proceedings.mlr.press/v306/kim26w.html	written
+2111	kim26x	Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning	https://proceedings.mlr.press/v306/kim26x.html	written
+2112	kim26y	Block-wise Codeword Embedding for Reliable Multi-bit Text Watermarking	https://proceedings.mlr.press/v306/kim26y.html	written
 2113	kim26z	CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching	https://proceedings.mlr.press/v306/kim26z.html	pending
 2114	kim26aa	Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR	https://proceedings.mlr.press/v306/kim26aa.html	pending
 2115	kim26ab	Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data	https://proceedings.mlr.press/v306/kim26ab.html	pending

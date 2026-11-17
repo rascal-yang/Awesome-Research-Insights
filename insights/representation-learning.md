@@ -50,6 +50,7 @@
 - [用局部距离约束组织对象身份和位置](../conferences/icml-2026/cards/1901-2000.md#jin26b-representation-learning) · WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views
 - [让一张图里的关系候选反馈修正谓词原型](../conferences/icml-2026/cards/2001-2100.md#jung26a-representation-learning) · Learning Context-Conditioned Predicate Semantics via Prototype Feedback
 - [分离伪造痕迹与语义，再按证据不确定性融合](../conferences/icml-2026/cards/2001-2100.md#kang26o-representation-learning) · Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection
+- [在解析旋转之后学习潜空间剩余位移](../conferences/icml-2026/cards/2101-2200.md#kim26p-representation-learning) · Equivariant Latent Alignment via Flow Matching under Group Symmetries
 
 <a id="by-nlp"></a>
 
@@ -71,6 +72,7 @@
 - [按最优动作而非价值压缩层级目标](../conferences/icml-2026/cards/1801-1900.md#hyeon26a-representation-learning) · Action-Sufficient Goal Representations
 - [将可迁移调度原则拆成单变量和交互项](../conferences/icml-2026/cards/1801-1900.md#je-gal26a-representation-learning) · Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions
 - [用不对称潜距离约束目标价值泛化](../conferences/icml-2026/cards/2001-2100.md#kang26f-representation-learning) · Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning
+- [用时距差表示可跨情境复用的动作变化](../conferences/icml-2026/cards/2101-2200.md#kim26x-representation-learning) · Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -128,6 +130,7 @@
 - [把输出身份嵌入标量高斯过程核](../conferences/icml-2026/cards/1901-2000.md#jiang26ao-representation-learning) · Transformed Latent Variable Multi-Output Gaussian Processes
 - [主动干预视图缺失模式检验聚类](../conferences/icml-2026/cards/1901-2000.md#jin26n-representation-learning) · Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering
 - [用表头和值作为联合可掩码片段](../conferences/icml-2026/cards/2001-2100.md#jung26i-representation-learning) · Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation
+- [按采样质量对称归一化扩散核](../conferences/icml-2026/cards/2001-2100.md#kessler26a-representation-learning) · Sinkhorn Normalization of Diffusion Kernels
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -180,4 +183,5 @@
 - [让 EEG 专家按样本贡献表征](../conferences/icml-2026/cards/1801-1900.md#jia26d-representation-learning) · EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models
 - [把稀疏扰动响应与稳态基因表达分块](../conferences/icml-2026/cards/1901-2000.md#jiang26ad-representation-learning) · What Makes a Representation Good for Single-Cell Perturbation Prediction?
 - [用可快速调制的潜码适配保结构动力学](../conferences/icml-2026/cards/1901-2000.md#jing26e-representation-learning) · Meta-learning Structure-Preserving Dynamics
+- [显式区分生殖系与体细胞突变词元](../conferences/icml-2026/cards/2001-2100.md#kim26c-representation-learning) · Explicit representation of germline and non-germline residues improves antibody language modeling
 <!-- classification:end -->

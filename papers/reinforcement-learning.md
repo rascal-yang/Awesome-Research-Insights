@@ -23,6 +23,7 @@
 - <a id="chen26ep-loss-functions"></a>[Continuity-Regularized Flow Matching for Offline Reinforcement Learning](../conferences/icml-2026/cards/0601-0700.md#paper-chen26ep)
 - <a id="hassen26a-loss-functions"></a>[Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization](../conferences/icml-2026/cards/1401-1500.md#paper-hassen26a)
 - <a id="jiang26ai-loss-functions"></a>[Boosting World Models Learning via Latent-Space Value Alignment](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ai)
+- <a id="kharyal26a-loss-functions"></a>[Reward Learning through Ranking Mean Squared Error](../conferences/icml-2026/cards/2001-2100.md#paper-kharyal26a)
 
 <a id="by-optimization"></a>
 
@@ -131,6 +132,7 @@
 - <a id="hyeon26a-representation-learning"></a>[Action-Sufficient Goal Representations](../conferences/icml-2026/cards/1801-1900.md#paper-hyeon26a)
 - <a id="je-gal26a-representation-learning"></a>[Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions](../conferences/icml-2026/cards/1801-1900.md#paper-je-gal26a)
 - <a id="kang26f-representation-learning"></a>[Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26f)
+- <a id="kim26x-representation-learning"></a>[Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](../conferences/icml-2026/cards/2101-2200.md#paper-kim26x)
 
 <a id="by-evaluation"></a>
 

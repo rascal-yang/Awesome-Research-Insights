@@ -328,6 +328,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Transformers Can Learn Posterior Predictive Distributions In-Context](../../conferences/icml-2026/cards/2001-2100.md#kang26h-theory-statistics) · 中文
 - [Harmful Overfitting in Sobolev Spaces](../../conferences/icml-2026/cards/2001-2100.md#karhadkar26a-theory-statistics) · 中文
 - [ScoreMatchingRiesz: Score Matching for Debiased Machine Learning and Policy Path Estimation](../../conferences/icml-2026/cards/2001-2100.md#kato26a-theory-statistics) · 中文
+- [Quantifying Error Propagation and Model Collapse in Diffusion Models](../../conferences/icml-2026/cards/2001-2100.md#khelifa26a-theory-statistics) · 中文
+- [Federated Causal Inference on Multi-Site Observational Data via Propensity Score Aggregation](../../conferences/icml-2026/cards/2001-2100.md#khellaf26a-theory-statistics) · 中文
+- [Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference](../../conferences/icml-2026/cards/2001-2100.md#khot26a-theory-statistics) · 中文
+- [Robust and Consistent Ski Rental with Distributional Advice](../../conferences/icml-2026/cards/2001-2100.md#kim26l-theory-statistics) · 中文
+- [Stochastic Gradient Variational Inference with Price’s Gradient Estimator from Bures-Wasserstein to Parameter Space](../../conferences/icml-2026/cards/2101-2200.md#kim26n-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -364,4 +369,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation](../../conferences/icml-2026/cards/1701-1800.md#huang26ce-theory-statistics) · 中文
 - [$\textttPRISM$:A 3D Probabilistic Neural Representation for Interpretable Shape Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiao26a-theory-statistics) · 中文
 - [Biologically Plausible Heavy-Tailed Connectivity Enhances Generalization on Cognitive Tasks in Recurrent Neural Networks](../../conferences/icml-2026/cards/1901-2000.md#jiao26c-theory-statistics) · 中文
+- [On the Sharp Input-Output Analysis of Nonlinear Systems under Adversarial Attacks](../../conferences/icml-2026/cards/2001-2100.md#kim26m-theory-statistics) · 中文
 <!-- classification:end -->

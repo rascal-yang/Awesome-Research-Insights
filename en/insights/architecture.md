@@ -68,6 +68,7 @@ Model-wide design and information flow.
 - [CRAG: Can 3D Generative Models Help 3D Assembly?](../../conferences/icml-2026/cards/1901-2000.md#jiang26ab-architecture) · 中文
 - [Visual Implicit Autoregressive Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiang26ah-architecture) · 中文
 - [StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation](../../conferences/icml-2026/cards/1901-2000.md#jiang26bb-architecture) · 中文
+- [A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](../../conferences/icml-2026/cards/2001-2100.md#khazoum26a-architecture) · 中文
 
 <a id="by-nlp"></a>
 

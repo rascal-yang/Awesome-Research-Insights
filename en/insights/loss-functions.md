@@ -43,6 +43,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment](../../conferences/icml-2026/cards/1701-1800.md#huang26bj-loss-functions) · 中文
 - [LIVE: Long-horizon Interactive Video World Modeling](../../conferences/icml-2026/cards/1701-1800.md#huang26bt-loss-functions) · 中文
 - [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](../../conferences/icml-2026/cards/1801-1900.md#jang26e-loss-functions) · 中文
+- [Align Your Trajectory Tangent: Training Better Consistency Models via Manifold-Aligned Tangents](../../conferences/icml-2026/cards/2001-2100.md#kim26e-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -58,6 +59,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Continuity-Regularized Flow Matching for Offline Reinforcement Learning](../../conferences/icml-2026/cards/0601-0700.md#chen26ep-loss-functions) · 中文
 - [Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization](../../conferences/icml-2026/cards/1401-1500.md#hassen26a-loss-functions) · 中文
 - [Boosting World Models Learning via Latent-Space Value Alignment](../../conferences/icml-2026/cards/1901-2000.md#jiang26ai-loss-functions) · 中文
+- [Reward Learning through Ranking Mean Squared Error](../../conferences/icml-2026/cards/2001-2100.md#kharyal26a-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

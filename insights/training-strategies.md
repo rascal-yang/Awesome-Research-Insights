@@ -68,6 +68,8 @@
 - [让扩散预训练掩码随模型成熟度改变](../conferences/icml-2026/cards/1901-2000.md#jing26g-training-strategies) · InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining
 - [按安全与失准模型的似然差挑交错样本](../conferences/icml-2026/cards/2001-2100.md#kaczer26a-training-strategies) · In-Training Defenses Against Emergent Misalignment in Language Models
 - [将批评当训练条件来教模型改答案](../conferences/icml-2026/cards/2001-2100.md#kapusuzoglu26a-training-strategies) · Critique-Guided Distillation for Robust Reasoning via Refinement
+- [用宏动作缩短有效决策长度](../conferences/icml-2026/cards/2001-2100.md#kim26h-training-strategies) · On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length
+- [按词表双射重编码并通过 API 适配模型](../conferences/icml-2026/cards/2101-2200.md#kim26v-training-strategies) · AlienLM: Alienization of Language for API-Boundary Privacy in Black-Box LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -222,4 +224,5 @@
 - [训练模型在医学图像上选区域并核查工具所得证据](../conferences/icml-2026/cards/1901-2000.md#jiang26bd-training-strategies) · Ophiuchus: Incentivizing Tool-augmented ”Think with Images” for Joint Medical Segmentation, Understanding and Reasoning
 - [把诊断规程拆成可奖励的导联证据](../conferences/icml-2026/cards/1901-2000.md#jin26l-training-strategies) · ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation
 - [蒸馏逐切片特征以跨架构联合训练](../conferences/icml-2026/cards/1901-2000.md#jing26b-training-strategies) · Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration
+- [用解之间的物理差值为粗网格数据补监督](../conferences/icml-2026/cards/2101-2200.md#kim26q-training-strategies) · Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations
 <!-- classification:end -->
