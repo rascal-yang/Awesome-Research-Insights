@@ -89,6 +89,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="kataria26a-optimization"></a>[GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#paper-kataria26a)
 - <a id="li26kb-optimization"></a>[COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26kb)
 - <a id="qian26d-optimization"></a>[Learning to Approximate Uniform Facility Location via Graph Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26d)
+- <a id="wang26eh-optimization"></a>[Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eh)
 
 <a id="by-reinforcement-learning"></a>
 

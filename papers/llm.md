@@ -243,6 +243,7 @@
 - <a id="vashisht26a-optimization"></a>[Faster Query-Key Learning Sharpens Attention in Self-Attention Models](../conferences/icml-2026/cards/4501-4600.md#paper-vashisht26a)
 - <a id="wang26z-optimization"></a>[CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26z)
 - <a id="wang26dr-optimization"></a>[CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dr)
+- <a id="wang26el-optimization"></a>[TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization](../conferences/icml-2026/cards/4701-4800.md#paper-wang26el)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -544,6 +545,8 @@
 - <a id="wang26aq-training-strategies"></a>[Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts](../conferences/icml-2026/cards/4601-4700.md#paper-wang26aq)
 - <a id="wang26cw-training-strategies"></a>[The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cw)
 - <a id="wang26ds-training-strategies"></a>[Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ds)
+- <a id="wang26dz-training-strategies"></a>[SuCo: Sufficiency-guided Continuous Adaptive Reasoning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dz)
+- <a id="wang26eg-training-strategies"></a>[Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL](../conferences/icml-2026/cards/4701-4800.md#paper-wang26eg)
 
 <a id="by-data-strategies"></a>
 
@@ -618,6 +621,7 @@
 - <a id="uzunoglu26a-data-strategies"></a>[Trust Functions: Near-Lossless Weak-to-Strong Generalization by Learning When to Trust the Weak Teacher](../conferences/icml-2026/cards/4501-4600.md#paper-uzunoglu26a)
 - <a id="wang26w-data-strategies"></a>[DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26w)
 - <a id="wang26ak-data-strategies"></a>[The Power of Power Law: Asymmetry Enables Compositional Reasoning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ak)
+- <a id="wang26eq-data-strategies"></a>[Mining Useful General Data for Low-Resource Domain Adaptation](../conferences/icml-2026/cards/4701-4800.md#paper-wang26eq)
 
 <a id="by-inference"></a>
 
@@ -929,6 +933,8 @@
 - <a id="wang26bz-inference"></a>[Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bz)
 - <a id="wang26cq-inference"></a>[GAM-RAG: Gain-Adaptive Memory for Evolving Retrieval in Retrieval-Augmented Generation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cq)
 - <a id="wang26cu-inference"></a>[AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cu)
+- <a id="wang26ea-inference"></a>[CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ea)
+- <a id="wang26eb-inference"></a>[Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective](../conferences/icml-2026/cards/4701-4800.md#paper-wang26eb)
 
 <a id="by-representation-learning"></a>
 
@@ -1275,6 +1281,7 @@
 - <a id="wang26bd-evaluation"></a>[HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bd)
 - <a id="wang26bl-evaluation"></a>[Model Merging Scaling Laws in Large Language Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bl)
 - <a id="wang26cr-evaluation"></a>[DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cr)
+- <a id="wang26ed-evaluation"></a>[Towards Understanding Massive Activations in Attention Sink Mechanism](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ed)
 
 <a id="by-theory-statistics"></a>
 

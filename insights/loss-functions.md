@@ -91,6 +91,8 @@
 - [频谱加权偏好对齐](../conferences/icml-2026/cards/4601-4700.md#wang26ch-loss-functions) · Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution
 - [shared-query-field-supervision](../conferences/icml-2026/cards/4601-4700.md#wang26dh-loss-functions) · NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision
 - [prototype-loss-rejection](../conferences/icml-2026/cards/4601-4700.md#wang26dl-loss-functions) · One Coin Has Two Sides: Single Positive Multi Label Learning from Salient Annotations
+- [动态语义锚遗忘奖励](../conferences/icml-2026/cards/4701-4800.md#wang26ef-loss-functions) · Preference-Calibrated Optimization with Score-Level Distribution Alignment for Text-to-Image Diffusion Model Unlearning
+- [少样本避让路由校正](../conferences/icml-2026/cards/4701-4800.md#wang26eo-loss-functions) · Fleet: Few Shots Lead Effective AI-generated Image Detection
 
 <a id="by-nlp"></a>
 

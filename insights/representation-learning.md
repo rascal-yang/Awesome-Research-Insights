@@ -140,6 +140,7 @@
 - [对象级掩码世界模型](../conferences/icml-2026/cards/3401-3500.md#nam26c-representation-learning) · Causal-JEPA: Learning World Models through Object-Level Latent Masking
 - [动作条件空间世界建模](../conferences/icml-2026/cards/4201-4300.md#su26c-representation-learning) · World Guidance: World Modeling in Condition Space for Action Generation
 - [movement-aligned-sensor-tokens](../conferences/icml-2026/cards/4401-4500.md#tarale26a-representation-learning) · Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data
+- [跨episode上下文解耦域因素](../conferences/icml-2026/cards/4701-4800.md#wang26er-representation-learning) · DADP: Domain Adaptive Diffusion Policy
 
 <a id="by-multimodal"></a>
 

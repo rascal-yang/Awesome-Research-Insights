@@ -4710,26 +4710,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4709	wang26dw							PDF2–4的跨语言参考执行oracle沿用已有跨语言测试思路（TransCoder-ST/MultiPL-T），再用于成熟执行rerank；AST/执行cluster阈值触发和hedged sampling亦为标准选择组件。PDF7–8比较直接oracle、单参考/多数票及always-transfer可证组合有效，但未提出独立超出跨语言测试和常规不确定性门控的新操作或可靠预算匹配规律；S*原作已具备基于执行与自适应输入的候选选择：https://aclanthology.org/2025.findings-emnlp.865.pdf 。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26dw/wang26dw.pdf	rule-excluded
 4710	wang26dx	4	4	3	4	76		技术选择：在正交特征的长尾线性softmax记忆模型中，矩阵sign可对齐潜在任务方向并均衡频率组更新；坐标sign只有知道该基底时才能匹配。（PDF第[3, 4, 6, 7, 8]页）。 新增机制：frequency-aligned-matrix-sign；复用与可用性以理论d=K正交等范数embedding、M组每组C同频，M远小于C；带噪幂律β>1。数值、长尾MNIST两层MLP与LLaMA预训练。条件为界；这些界不是现实Muon/AdamW保证；频率组、正交特征、零初始化及总体梯度是关键。TRA-SignGD需未知任务表示而非实用算法。真实预训练只作趋势检验，不能声称指数加速普遍成立。 证据PDF第[3, 4, 6, 7, 8]页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26dx/wang26dx.pdf	scored
 4711	wang26dy	3	4	4	3	70		技术选择：3D affordance对齐时，可让属性→affordance→点云形成有方向的锥包含约束，并把破坏必要属性的反事实文本排出锥外。（PDF第[4, 5, 6, 7, 8]页）。 新增机制：counterfactual-affordance-cones；复用与可用性以PIADv2 seen、unseen-object、unseen-affordance；同PointNet++与DINO-ViT-S；AUC/aIoU/SIM/MAE。条件为界；几何增益在此基准较小；MLLM生成的反事实并不验证真实属性必要性，不能称因果发现。依赖点级监督；无机器人闭环成功率。 证据PDF第[4, 5, 6, 7, 8]页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26dy/wang26dy.pdf	scored
-4712	wang26dz							待原文复核评分	pending
-4713	wang26ea							待原文复核评分	pending
-4714	wang26eb							待原文复核评分	pending
-4715	wang26ec							待原文复核评分	pending
-4716	wang26ed							待原文复核评分	pending
-4717	wang26ee							待原文复核评分	pending
-4718	wang26ef							待原文复核评分	pending
-4719	wang26eg							待原文复核评分	pending
-4720	wang26eh							待原文复核评分	pending
-4721	wang26ei							待原文复核评分	pending
-4722	wang26ej							待原文复核评分	pending
-4723	wang26ek							待原文复核评分	pending
-4724	wang26el							待原文复核评分	pending
-4725	wang26em							待原文复核评分	pending
-4726	wang26en							待原文复核评分	pending
-4727	wang26eo							待原文复核评分	pending
-4728	wang26ep							待原文复核评分	pending
-4729	wang26eq							待原文复核评分	pending
-4730	wang26er							待原文复核评分	pending
-4731	wang26es							待原文复核评分	pending
+4712	wang26dz	4	4	4	4	80		技术选择：以正确答案逐token几何平均概率确定最短充分推理前缀，并按长度分位数调整阈值；在线奖励同时约束过度与不足推理。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：以正确答案逐token几何平均概率确定最短充分推理前缀，并按长度分位数调整阈值；在线奖励同时约束过度与不足推理。 复用与可用性依据明确操作；训练需正确答案及前缀评分、外部精修模型；充分性是答案似然代理，非逻辑完备保证；部分基线初始化不同，token下降不等于同预算训练收益。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26dz/wang26dz.pdf	scored
+4713	wang26ea	3	4	3	3	66		技术选择：在层次模块间添加经文本逻辑依赖判断的跨模块门，再过滤扩展子图；仅扩大跨模块召回会增加噪声，必须与路径过滤配套。 PDF3,4,5,7,8；最近机制与边界见卡。 新增量：在层次模块间添加经文本逻辑依赖判断的跨模块门，再过滤扩展子图；仅扩大跨模块召回会增加噪声，必须与路径过滤配套。 复用与可用性依据明确操作；所谓因果指文本中逻辑依赖而非统计因果识别；图构建依赖LLM；主表不同检索器未统一压缩率，效果不等于因果正确性保证。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ea/wang26ea.pdf	scored
+4714	wang26eb	4	4	4	4	80		技术选择：固定KL强度和奖励上界时，使用基座采样求解提示相关自洽阈值，再用平滑阈值整形奖励；最优整形一般不同于直接使用用户效用。 PDF3,4,5,7,8,9；最近机制与边界见卡。 新增量：固定KL强度和奖励上界时，使用基座采样求解提示相关自洽阈值，再用平滑阈值整形奖励；最优整形一般不同于直接使用用户效用。 复用与可用性依据明确操作；最优性针对已知效用及精确KL响应，真实解码与奖励模型仅为近似；有界KL并非消除reward hacking保证；CD需离线训练Q函数。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,7,8,9 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26eb/wang26eb.pdf	scored
+4715	wang26ec	3	4	4	3	70		技术选择：将变量频谱相似度加入注意力分数，并由全局频谱决定Entmax稀疏度；精确零权重阻断不兼容变量交互。 PDF3,4,5,6,7；最近机制与边界见卡。 新增量：将变量频谱相似度加入注意力分数，并由全局频谱决定Entmax稀疏度；精确零权重阻断不兼容变量交互。 复用与可用性依据明确操作；零梯度来自已有Entmax性质；仅对落在支持集外的边成立，并不保证所有非共振变量都被识别；频谱相似不等于因果依赖。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ec/wang26ec.pdf	scored
+4716	wang26ed	4	4	3	4	76		技术选择：消融巨激活时同时检查sink的value通路：注意力汇限制非汇token混合，大范数经RMSNorm抑制汇token扰动，两者不能简单视为因果链。 PDF4,5,6,8,9；最近机制与边界见卡。 新增量：消融巨激活时同时检查sink的value通路：注意力汇限制非汇token混合，大范数经RMSNorm抑制汇token扰动，两者不能简单视为因果链。 复用与可用性依据明确操作；界针对自注意力和小扰动，FFN另行讨论；缩放保持输出依赖归一化近似不变性；干预结果不证明训练中形成机制的全局必然性。 独特性按相对最近方法的局部增量保守评分；PDF4,5,6,8,9 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ed/wang26ed.pdf	scored
+4717	wang26ee							§3/PDF3–5为重叠分块保留原文、摘要/向量/BM25并集路由、小模型局部阅读及主模型聚合；相对GAM等主要是已有层次检索阅读流程组合，LoCoMo分数与token成本改善未确立独立新操作。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ee/wang26ee.pdf	rule-excluded
+4718	wang26ef	3	4	3	3	66		技术选择：遗忘奖励同时排斥目标概念并吸引当前最接近的保留概念；用保留条件下的噪声score差约束分布漂移。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：遗忘奖励同时排斥目标概念并吸引当前最接近的保留概念；用保留条件下的噪声score差约束分布漂移。 复用与可用性依据明确操作；score匹配是噪声边缘分布的近似代理，不保证流形拓扑不变；需专用分类器、反传整个采样链；仅少数概念实验，非完全删除保证。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ef/wang26ef.pdf	scored
+4719	wang26eg	3	4	3	3	66		技术选择：在工作流策略训练时随机屏蔽可用工具演员，迫使策略探索替代组合，减少高奖励模板垄断。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：在工作流策略训练时随机屏蔽可用工具演员，迫使策略探索替代组合，减少高奖励模板垄断。 复用与可用性依据明确操作；生成5条后投票有额外执行成本；oracle81.5%不代表学习策略保证；Spider2.0正文44.97与表2的49.18不一致，不采用该数作结论。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26eg/wang26eg.pdf	scored
+4720	wang26eh	4	4	3	4	76		技术选择：检索架构单次编辑的性能差，而非整模型分数；根据新任务已观测编辑收益持续更新来源任务相似度。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：检索架构单次编辑的性能差，而非整模型分数；根据新任务已观测编辑收益持续更新来源任务相似度。 复用与可用性依据明确操作；最优只指有限预定义搜索空间；巨大离线库成本不计入在线100次预算；高斯/线性关系为经验局部假设，p>0.05不证明高斯性。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26eh/wang26eh.pdf	scored
+4721	wang26ei							§3/PDF3–6用few-shot将问题分到并行事实核验或链式KG搜索，随后使用已有KGR/ToG式验证、嵌入重排和DFS剪枝；主要是任务路由与现有分支组合，未提取超出这些方法的独立机制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ei/wang26ei.pdf	rule-excluded
+4722	wang26ej	4	4	3	4	76		技术选择：以视觉有无造成的隐藏态差在当前Top-K输出词向量子空间中的投影，衡量视觉token价值并周期性重选KV。 PDF3,4,5,6,7；最近机制与边界见卡。 新增量：以视觉有无造成的隐藏态差在当前Top-K输出词向量子空间中的投影，衡量视觉token价值并周期性重选KV。 复用与可用性依据明确操作；中间层投影为局部代理，不是完整模型语义保证；Qwen TextVQA 72B由84.70降81.54；需保留可恢复的视觉信息以及周期额外前向，不能把活跃KV压缩等同总显存减少。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ej/wang26ej.pdf	scored
+4723	wang26ek	3	4	3	3	66		技术选择：用批均值归一的负熵指数因子重分配轨迹优势，并给下一步低熵状态额外奖励；相同终局奖励下区分多步动作。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：用批均值归一的负熵指数因子重分配轨迹优势，并给下一步低熵状态额外奖励；相同终局奖励下区分多步动作。 复用与可用性依据明确操作；理论耦合针对logit score的Renyi-2熵，Shannon仅实践代理，不能推广为所有参数梯度；低熵不等于正确；最末步未来奖励处理须随实现确认。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 补核完整附录I/PDF20、22：伪代码按有效步骤mean校准及中心化，末步无未来奖励；正文Eq6索引和Eq9分母与实现不一致，可用性降至3。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ek/wang26ek.pdf	scored
+4724	wang26el	4	5	4	4	86		技术选择：让低秩和残差分支都量化到4位，联合学习全局正交旋转与低秩内部可逆变换，以输出重建误差校准分解。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：让低秩和残差分支都量化到4位，联合学习全局正交旋转与低秩内部可逆变换，以输出重建误差校准分解。 复用与可用性依据明确操作；主表SVDQuant rank32而本法128，不能全归因变换；r256较128收益小且分支开销近翻倍；理论使用独立量化噪声近似，不承诺任意Q/G改善实际误差。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26el/wang26el.pdf	scored
+4725	wang26em							§2–4/PDF3–7增加密码学题库与专家对照，代理执行和多裁判rubric评分沿用已有评测；能力分数与任务难度观察未形成可复用的新训练/评估操作或受控失效规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26em/wang26em.pdf	rule-excluded
+4726	wang26en							§3/PDF3–5核心为固定中心索引逐层裁剪、U形恢复/skip连接及空间通道门控scatter-add；§4/PDF6–8验证专用卫星追踪折中，但尚未建立超出常规稀疏编码恢复和门控组合的独立机制增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26en/wang26en.pdf	rule-excluded
+4727	wang26eo	3	4	4	3	70		技术选择：先分离AI与非AI的路由分布，再让新样本避开相反类别的旧路由锚；配合回放蒸馏保持历史检测能力。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：先分离AI与非AI的路由分布，再让新样本避开相反类别的旧路由锚；配合回放蒸馏保持历史检测能力。 复用与可用性依据明确操作；高旧集保持率受该回放/验证分布限制，非所有历史生成器保证；回放1000样本，不能把10-shot理解为总训练仅10张；20样本回放准确率显著下降。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26eo/wang26eo.pdf	scored
+4728	wang26ep	3	4	4	3	70		技术选择：给视频偏好模型的每轮判断修订提供准确率增益奖励，并在视觉工具调用比例不足时补探索奖励，防止强化学习退化为纯文本判断。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：给视频偏好模型的每轮判断修订提供准确率增益奖励，并在视觉工具调用比例不足时补探索奖励，防止强化学习退化为纯文本判断。 复用与可用性依据明确操作；82.3等是排除平局结果；含平局为68.7/71.8/67.3；不同方法取帧与调用预算不同；窗口只近似约束视觉token，文字链仍随轮数增长。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ep/wang26ep.pdf	scored
+4729	wang26eq	4	4	4	4	80		技术选择：用输出和的LoRA梯度内积近似NTK，而非损失梯度相似度，选择与少量目标样本训练方向接近的通用CoT。 PDF3,4,5,6,7；最近机制与边界见卡。 新增量：用输出和的LoRA梯度内积近似NTK，而非损失梯度相似度，选择与少量目标样本训练方向接近的通用CoT。 复用与可用性依据明确操作；输出和梯度含跨输出项，近似依赖这些项很小；核方向cos>0.99不代表幅度恒定或数据选择最优；仍需反向传播，Jacobian-free并非gradient-free。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26eq/wang26eq.pdf	scored
+4730	wang26er	4	5	4	4	86		技术选择：训练动力学预测时从同一域另一episode取上下文，打破瞬态线索；再以域表示平移扩散先验并监督复合噪声。 PDF3,4,5,6,7,8；最近机制与边界见卡。 新增量：训练动力学预测时从同一域另一episode取上下文，打破瞬态线索；再以域表示平移扩散先验并监督复合噪声。 复用与可用性依据明确操作；跨episode训练须知道同域分组；仅动力变化主设定，非跨任务普遍迁移；Hopper域探针仍仅26.4%；静态信息解耦是偏置和实证，不是无条件可识别性证明。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7,8 式14复合预测采样仅作为经验规则，不能宣称为式9前向的严格条件逆；原文表3仅验证不同表示利用方式的经验差异。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26er/wang26er.pdf	scored
+4731	wang26es	3	4	4	3	70		技术选择：审计时联合检查预测稳健性与解释稳定性：错误目标预测可以与高参考解释一致度同时出现，单看显著图稳定会漏报。 PDF3,4,5,6,7；最近机制与边界见卡。 新增量：审计时联合检查预测稳健性与解释稳定性：错误目标预测可以与高参考解释一致度同时出现，单看显著图稳定会漏报。 复用与可用性依据明确操作；主要白盒测试；预算0.1乘每实例量程，不是原始单位统一0.1；参考解释可为标注或原解释top-k，不能把参考对齐当解释真实；高维界依赖附录条件。 独特性按相对最近方法的局部增量保守评分；PDF3,4,5,6,7 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26es/wang26es.pdf	scored
 4732	wang26et							待原文复核评分	pending
 4733	wang26eu							待原文复核评分	pending
 4734	wang26ev							待原文复核评分	pending

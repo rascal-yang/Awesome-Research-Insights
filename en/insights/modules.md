@@ -219,6 +219,7 @@ Reusable components and local changes to model inputs or connections.
 - [Dense associative memory for Gaussian distributions](../../conferences/icml-2026/cards/4401-4500.md#tankala26a-modules) · 中文
 - [HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces](../../conferences/icml-2026/cards/4501-4600.md#ullah26b-modules) · 中文
 - [PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#wang26cs-modules) · 中文
+- [Crisp: A Spectral-Based Interaction Strategy for Multivariate Time Series Forecasting](../../conferences/icml-2026/cards/4701-4800.md#wang26ec-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

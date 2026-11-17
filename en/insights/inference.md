@@ -319,6 +319,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](../../conferences/icml-2026/cards/4601-4700.md#wang26bz-inference) · 中文
 - [GAM-RAG: Gain-Adaptive Memory for Evolving Retrieval in Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4601-4700.md#wang26cq-inference) · 中文
 - [AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](../../conferences/icml-2026/cards/4601-4700.md#wang26cu-inference) · 中文
+- [CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG](../../conferences/icml-2026/cards/4701-4800.md#wang26ea-inference) · 中文
+- [Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective](../../conferences/icml-2026/cards/4701-4800.md#wang26eb-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -609,6 +611,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [ActiveScope: Actively Seeking and Correcting Perception for MLLMs](../../conferences/icml-2026/cards/4501-4600.md#wang26h-inference) · 中文
 - [Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../../conferences/icml-2026/cards/4601-4700.md#wang26ac-inference) · 中文
 - [Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA](../../conferences/icml-2026/cards/4601-4700.md#wang26df-inference) · 中文
+- [Semantic Impact–Driven Visual Scheduling for Vision Language Models](../../conferences/icml-2026/cards/4701-4800.md#wang26ej-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

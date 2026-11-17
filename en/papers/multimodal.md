@@ -184,6 +184,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="shen26u-reinforcement-learning"></a>[OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26u)
 - <a id="sun26am-reinforcement-learning"></a>[ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26am)
 - <a id="uscidda26a-reinforcement-learning"></a>[The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning](../../conferences/icml-2026/cards/4501-4600.md#paper-uscidda26a)
+- <a id="wang26ep-reinforcement-learning"></a>[VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ep)
 
 <a id="by-training-strategies"></a>
 
@@ -365,6 +366,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26h-inference"></a>[ActiveScope: Actively Seeking and Correcting Perception for MLLMs](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26h)
 - <a id="wang26ac-inference"></a>[Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ac)
 - <a id="wang26df-inference"></a>[Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26df)
+- <a id="wang26ej-inference"></a>[Semantic Impact–Driven Visual Scheduling for Vision Language Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ej)
 
 <a id="by-representation-learning"></a>
 

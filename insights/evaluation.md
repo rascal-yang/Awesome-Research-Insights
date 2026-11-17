@@ -332,6 +332,7 @@
 - [高熵动作token的中训诊断](../conferences/icml-2026/cards/4601-4700.md#wang26bd-evaluation) · HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench
 - [有限专家池的合并收益预算](../conferences/icml-2026/cards/4601-4700.md#wang26bl-evaluation) · Model Merging Scaling Laws in Large Language Models
 - [扩散语言模型SAE诊断边界](../conferences/icml-2026/cards/4601-4700.md#wang26cr-evaluation) · DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders
+- [注意力汇与巨激活的作用分离](../conferences/icml-2026/cards/4701-4800.md#wang26ed-evaluation) · Towards Understanding Massive Activations in Attention Sink Mechanism
 
 <a id="by-computer-vision"></a>
 
@@ -602,6 +603,7 @@
 - [分离语义保持脆弱性和原始误差](../conferences/icml-2026/cards/4501-4600.md#vilucchio26a-evaluation) · On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification
 - [自适应客户端优化器的隐私评测边界](../conferences/icml-2026/cards/4501-4600.md#wan26c-evaluation) · Gradient Inversion Attacks Beyond SGD
 - [配对条件下的模块归因](../conferences/icml-2026/cards/4601-4700.md#wang26ay-evaluation) · CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models
+- [解释稳定不能替代决策稳健性](../conferences/icml-2026/cards/4701-4800.md#wang26es-evaluation) · Exposing Vulnerabilities in Explanation for Time Series Classifiers via Dual-Target Attacks
 
 <a id="by-graph-and-recommendation"></a>
 

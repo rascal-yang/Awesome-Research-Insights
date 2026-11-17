@@ -342,6 +342,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Multi-timescale Reinforcement Learning by Value Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#su26m-reinforcement-learning) · 中文
 - [Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](../../conferences/icml-2026/cards/4401-4500.md#tong26h-reinforcement-learning) · 中文
 - [Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification](../../conferences/icml-2026/cards/4601-4700.md#wang26dj-reinforcement-learning) · 中文
+- [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](../../conferences/icml-2026/cards/4701-4800.md#wang26ek-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -432,6 +433,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](../../conferences/icml-2026/cards/4001-4100.md#shen26u-reinforcement-learning) · 中文
 - [ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning](../../conferences/icml-2026/cards/4301-4400.md#sun26am-reinforcement-learning) · 中文
 - [The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning](../../conferences/icml-2026/cards/4501-4600.md#uscidda26a-reinforcement-learning) · 中文
+- [VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26ep-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

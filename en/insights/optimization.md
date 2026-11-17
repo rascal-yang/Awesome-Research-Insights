@@ -98,6 +98,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Faster Query-Key Learning Sharpens Attention in Self-Attention Models](../../conferences/icml-2026/cards/4501-4600.md#vashisht26a-optimization) · 中文
 - [CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#wang26z-optimization) · 中文
 - [CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26dr-optimization) · 中文
+- [TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization](../../conferences/icml-2026/cards/4701-4800.md#wang26el-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -437,6 +438,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · 中文
 - [COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · 中文
 - [Learning to Approximate Uniform Facility Location via Graph Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#qian26d-optimization) · 中文
+- [Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](../../conferences/icml-2026/cards/4701-4800.md#wang26eh-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 

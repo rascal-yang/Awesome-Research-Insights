@@ -319,6 +319,8 @@
 - [疑虑连接词触发反馈](../conferences/icml-2026/cards/4601-4700.md#wang26bz-inference) · Intervene When It Doubts: Conjunction-Guided Interactive Reasoning
 - [带非对称反馈噪声的检索记忆](../conferences/icml-2026/cards/4601-4700.md#wang26cq-inference) · GAM-RAG: Gain-Adaptive Memory for Evolving Retrieval in Retrieval-Augmented Generation
 - [外部调用状态感知的时空调度](../conferences/icml-2026/cards/4601-4700.md#wang26cu-inference) · AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving
+- [跨模块图检索门](../conferences/icml-2026/cards/4701-4800.md#wang26ea-inference) · CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG
+- [有界奖励的自洽阈值整形](../conferences/icml-2026/cards/4701-4800.md#wang26eb-inference) · Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective
 
 <a id="by-computer-vision"></a>
 
@@ -609,6 +611,7 @@
 - [target-specific-attention-correction](../conferences/icml-2026/cards/4501-4600.md#wang26h-inference) · ActiveScope: Actively Seeking and Correcting Perception for MLLMs
 - [Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../conferences/icml-2026/cards/4601-4700.md#wang26ac-inference) · Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility
 - [structure-aware-retrieval](../conferences/icml-2026/cards/4601-4700.md#wang26df-inference) · Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA
+- [语义决策空间指导视觉KV调度](../conferences/icml-2026/cards/4701-4800.md#wang26ej-inference) · Semantic Impact–Driven Visual Scheduling for Vision Language Models
 
 <a id="by-ml-foundations"></a>
 

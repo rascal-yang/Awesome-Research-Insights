@@ -332,6 +332,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench](../../conferences/icml-2026/cards/4601-4700.md#wang26bd-evaluation) · 中文
 - [Model Merging Scaling Laws in Large Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bl-evaluation) · 中文
 - [DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](../../conferences/icml-2026/cards/4601-4700.md#wang26cr-evaluation) · 中文
+- [Towards Understanding Massive Activations in Attention Sink Mechanism](../../conferences/icml-2026/cards/4701-4800.md#wang26ed-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -602,6 +603,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification](../../conferences/icml-2026/cards/4501-4600.md#vilucchio26a-evaluation) · 中文
 - [Gradient Inversion Attacks Beyond SGD](../../conferences/icml-2026/cards/4501-4600.md#wan26c-evaluation) · 中文
 - [CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](../../conferences/icml-2026/cards/4601-4700.md#wang26ay-evaluation) · 中文
+- [Exposing Vulnerabilities in Explanation for Time Series Classifiers via Dual-Target Attacks](../../conferences/icml-2026/cards/4701-4800.md#wang26es-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

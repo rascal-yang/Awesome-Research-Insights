@@ -342,6 +342,7 @@
 - [多折扣价值与奖励重构](../conferences/icml-2026/cards/4201-4300.md#su26m-reinforcement-learning) · Multi-timescale Reinforcement Learning by Value Reconstruction
 - [转折点去噪信用代理](../conferences/icml-2026/cards/4401-4500.md#tong26h-reinforcement-learning) · Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO
 - [negative-only-anchor-ratio](../conferences/icml-2026/cards/4601-4700.md#wang26dj-reinforcement-learning) · Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification
+- [步熵重加权与未来清晰度](../conferences/icml-2026/cards/4701-4800.md#wang26ek-reinforcement-learning) · Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents
 
 <a id="by-robotics"></a>
 
@@ -432,6 +433,7 @@
 - [用奖励斜率和进步率平衡判别与定位](../conferences/icml-2026/cards/4001-4100.md#shen26u-reinforcement-learning) · OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL
 - [正确性校准工具奖励](../conferences/icml-2026/cards/4301-4400.md#sun26am-reinforcement-learning) · ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning
 - [minimal-consistency-matching](../conferences/icml-2026/cards/4501-4600.md#uscidda26a-reinforcement-learning) · The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning
+- [证据更新收益激励视觉奖励模型](../conferences/icml-2026/cards/4701-4800.md#wang26ep-reinforcement-learning) · VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning
 
 <a id="by-ml-foundations"></a>
 

@@ -98,6 +98,7 @@
 - [QK与OV相对学习速度控制注意力](../conferences/icml-2026/cards/4501-4600.md#vashisht26a-optimization) · Faster Query-Key Learning Sharpens Attention in Self-Attention Models
 - [CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#wang26z-optimization) · CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning
 - [soft-ternary-proxy](../conferences/icml-2026/cards/4701-4800.md#wang26dr-optimization) · CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs
+- [双分支四位子空间校准](../conferences/icml-2026/cards/4701-4800.md#wang26el-optimization) · TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization
 
 <a id="by-computer-vision"></a>
 
@@ -437,6 +438,7 @@
 - [经粗化邻域限制新增节点的结构学习](../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s
 - [动态图曝光下的反事实公平控制](../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs
 - [用期望采样成本训练设施开设概率](../conferences/icml-2026/cards/3701-3800.md#qian26d-optimization) · Learning to Approximate Uniform Facility Location via Graph Neural Networks
+- [架构编辑收益的动态迁移](../conferences/icml-2026/cards/4701-4800.md#wang26eh-optimization) · Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design
 
 <a id="by-scientific-ml"></a>
 

@@ -194,6 +194,7 @@
 - <a id="su26m-reinforcement-learning"></a>[Multi-timescale Reinforcement Learning by Value Reconstruction](../conferences/icml-2026/cards/4201-4300.md#paper-su26m)
 - <a id="tong26h-reinforcement-learning"></a>[Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](../conferences/icml-2026/cards/4401-4500.md#paper-tong26h)
 - <a id="wang26dj-reinforcement-learning"></a>[Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dj)
+- <a id="wang26ek-reinforcement-learning"></a>[Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ek)
 
 <a id="by-training-strategies"></a>
 

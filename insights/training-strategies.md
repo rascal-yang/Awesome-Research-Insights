@@ -142,6 +142,8 @@
 - [按收敛状态选择扩深方式](../conferences/icml-2026/cards/4601-4700.md#wang26aq-training-strategies) · Beyond Sunk Costs: Boosting LLM Pre-training Efficiency via Orthogonal Growth of Mixture-of-Experts
 - [蒸馏按局部不确定性分配硬软监督](../conferences/icml-2026/cards/4601-4700.md#wang26cw-training-strategies) · The Bridge-Garden Dilemma in LLM Distillation: Why Mixing Hard and Soft Labels Works
 - [gradient-component-regrouping](../conferences/icml-2026/cards/4701-4800.md#wang26ds-training-strategies) · Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning
+- [答案充分性指导推理压缩](../conferences/icml-2026/cards/4701-4800.md#wang26dz-training-strategies) · SuCo: Sufficiency-guided Continuous Adaptive Reasoning
+- [随机演员屏蔽促工作流探索](../conferences/icml-2026/cards/4701-4800.md#wang26eg-training-strategies) · Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL
 
 <a id="by-computer-vision"></a>
 

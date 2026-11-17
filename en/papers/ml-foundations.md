@@ -129,6 +129,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="tankala26a-modules"></a>[Dense associative memory for Gaussian distributions](../../conferences/icml-2026/cards/4401-4500.md#paper-tankala26a)
 - <a id="ullah26b-modules"></a>[HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces](../../conferences/icml-2026/cards/4501-4600.md#paper-ullah26b)
 - <a id="wang26cs-modules"></a>[PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cs)
+- <a id="wang26ec-modules"></a>[Crisp: A Spectral-Based Interaction Strategy for Multivariate Time Series Forecasting](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ec)
 
 <a id="by-loss-functions"></a>
 
@@ -714,6 +715,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="vilucchio26a-evaluation"></a>[On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification](../../conferences/icml-2026/cards/4501-4600.md#paper-vilucchio26a)
 - <a id="wan26c-evaluation"></a>[Gradient Inversion Attacks Beyond SGD](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26c)
 - <a id="wang26ay-evaluation"></a>[CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ay)
+- <a id="wang26es-evaluation"></a>[Exposing Vulnerabilities in Explanation for Time Series Classifiers via Dual-Target Attacks](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26es)
 
 <a id="by-theory-statistics"></a>
 

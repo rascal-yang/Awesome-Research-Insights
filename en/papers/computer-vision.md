@@ -161,6 +161,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26ch-loss-functions"></a>[Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ch)
 - <a id="wang26dh-loss-functions"></a>[NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dh)
 - <a id="wang26dl-loss-functions"></a>[One Coin Has Two Sides: Single Positive Multi Label Learning from Salient Annotations](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dl)
+- <a id="wang26ef-loss-functions"></a>[Preference-Calibrated Optimization with Score-Level Distribution Alignment for Text-to-Image Diffusion Model Unlearning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ef)
+- <a id="wang26eo-loss-functions"></a>[Fleet: Few Shots Lead Effective AI-generated Image Detection](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eo)
 
 <a id="by-optimization"></a>
 
