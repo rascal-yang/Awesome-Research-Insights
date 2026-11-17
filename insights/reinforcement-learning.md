@@ -417,6 +417,7 @@
 - [用一步洁净预测给流匹配动作评分](../conferences/icml-2026/cards/3801-3900.md#ren26b-reinforcement-learning) · iGRPO: Fast Online RL for Flow Matching Model with Instant Reward
 - [用后续语音 token 似然衡量角色声音延续性](../conferences/icml-2026/cards/3801-3900.md#ren26f-reinforcement-learning) · Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability
 - [用奖励斜率和进步率平衡判别与定位](../conferences/icml-2026/cards/4001-4100.md#shen26u-reinforcement-learning) · OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL
+- [正确性校准工具奖励](../conferences/icml-2026/cards/4301-4400.md#sun26am-reinforcement-learning) · ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning
 
 <a id="by-ml-foundations"></a>
 

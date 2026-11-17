@@ -576,6 +576,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shen26o-data-strategies"></a>[SERA: Soft-Verified Efficient Repository Agents](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26o)
 - <a id="sun26h-data-strategies"></a>[KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26h)
 - <a id="sun26p-data-strategies"></a>[Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26p)
+- <a id="sundaram26a-data-strategies"></a>[Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](../../conferences/icml-2026/cards/4301-4400.md#paper-sundaram26a)
 
 <a id="by-inference"></a>
 
@@ -868,6 +869,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="song26ab-inference"></a>[DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ab)
 - <a id="su26o-inference"></a>[Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models](../../conferences/icml-2026/cards/4201-4300.md#paper-su26o)
 - <a id="sun26b-inference"></a>[Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26b)
+- <a id="sun26ao-inference"></a>[Singular Proxies for Adaptive Caching in Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ao)
 
 <a id="by-representation-learning"></a>
 
@@ -1181,6 +1183,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="suh26a-evaluation"></a>[AgentSuite: Toward More Reliable Agent Evaluation with a Component-Based Benchmark Auditing Pipeline](../../conferences/icml-2026/cards/4201-4300.md#paper-suh26a)
 - <a id="sun26d-evaluation"></a>[Anatomy of Massive Activations and Attention Sinks](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26d)
 - <a id="sun26z-evaluation"></a>[Reverse-Engineering Model Editing on Language Models](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26z)
+- <a id="sun26av-evaluation"></a>[Hallucination Detection from Structural Reasoning Model](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26av)
+- <a id="sun26ba-evaluation"></a>[AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ba)
 
 <a id="by-theory-statistics"></a>
 

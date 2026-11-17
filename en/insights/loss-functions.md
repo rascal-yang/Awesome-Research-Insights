@@ -109,6 +109,7 @@ Objectives, auxiliary supervision, and regularization.
 - [OMP: One-step Meanflow Policy with Directional Alignment](../../conferences/icml-2026/cards/1001-1100.md#fang26h-loss-functions) · 中文
 - [Contrastive Representation Regularization for Vision-Language-Action Models](../../conferences/icml-2026/cards/2101-2200.md#kim26ao-loss-functions) · 中文
 - <a id="align-action-features-with-latent-actions"></a><a id="latent-action-alignment"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../../conferences/icml-2026/cards/2801-2900.md#liu26bl-loss-functions) · 中文
+- [From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning](../../conferences/icml-2026/cards/4301-4400.md#sun26al-loss-functions) · 中文
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[ReconVLA](../../papers/reconvla.md#reconvla-loss-functions) · 中文
 
 <a id="by-multimodal"></a>
@@ -144,6 +145,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis](../../conferences/icml-2026/cards/4101-4200.md#shi26ag-loss-functions) · 中文
 - [Scalable Medical Multimodal Fusion via Symmetric Consistency Modeling](../../conferences/icml-2026/cards/4201-4300.md#sun26u-loss-functions) · 中文
 - [Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels](../../conferences/icml-2026/cards/4301-4400.md#sun26ah-loss-functions) · 中文
+- [Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label](../../conferences/icml-2026/cards/4301-4400.md#sun26aj-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

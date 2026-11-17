@@ -302,6 +302,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [AgentSuite: Toward More Reliable Agent Evaluation with a Component-Based Benchmark Auditing Pipeline](../../conferences/icml-2026/cards/4201-4300.md#suh26a-evaluation) · 中文
 - [Anatomy of Massive Activations and Attention Sinks](../../conferences/icml-2026/cards/4201-4300.md#sun26d-evaluation) · 中文
 - [Reverse-Engineering Model Editing on Language Models](../../conferences/icml-2026/cards/4201-4300.md#sun26z-evaluation) · 中文
+- [Hallucination Detection from Structural Reasoning Model](../../conferences/icml-2026/cards/4301-4400.md#sun26av-evaluation) · 中文
+- [AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](../../conferences/icml-2026/cards/4301-4400.md#sun26ba-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -416,6 +418,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26bu-evaluation) · 中文
 - [Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty](../../conferences/icml-2026/cards/3201-3300.md#meng26n-evaluation) · 中文
 - [BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis](../../conferences/icml-2026/cards/3701-3800.md#qi26p-evaluation) · 中文
+- [AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation](../../conferences/icml-2026/cards/4301-4400.md#sun26an-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 

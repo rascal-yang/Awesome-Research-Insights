@@ -300,6 +300,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search](../../conferences/icml-2026/cards/4201-4300.md#song26ab-inference) · 中文
 - [Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models](../../conferences/icml-2026/cards/4201-4300.md#su26o-inference) · 中文
 - [Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection](../../conferences/icml-2026/cards/4201-4300.md#sun26b-inference) · 中文
+- [Singular Proxies for Adaptive Caching in Diffusion Language Models](../../conferences/icml-2026/cards/4301-4400.md#sun26ao-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -403,6 +404,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#song26k-inference) · 中文
 - [Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../../conferences/icml-2026/cards/4201-4300.md#su26r-inference) · 中文
 - [Timestep Rescheduling in Diffusion Inversion](../../conferences/icml-2026/cards/4201-4300.md#sun26j-inference) · 中文
+- [RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers](../../conferences/icml-2026/cards/4301-4400.md#sun26aw-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -568,6 +570,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · 中文
 - [Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · 中文
 - [When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation](../../conferences/icml-2026/cards/4201-4300.md#song26d-inference) · 中文
+- [Very Efficient Listwise Multimodal Reranking for Long Documents](../../conferences/icml-2026/cards/4301-4400.md#sun26aq-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

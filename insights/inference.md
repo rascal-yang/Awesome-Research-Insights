@@ -300,6 +300,7 @@
 - [分块扩散搜索](../conferences/icml-2026/cards/4201-4300.md#song26ab-inference) · DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search
 - [生成中持续适配MoE路由](../conferences/icml-2026/cards/4201-4300.md#su26o-inference) · Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models
 - [检测代理模型逐样本路由](../conferences/icml-2026/cards/4201-4300.md#sun26b-inference) · Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection
+- [低秩Value漂移缓存](../conferences/icml-2026/cards/4301-4400.md#sun26ao-inference) · Singular Proxies for Adaptive Caching in Diffusion Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -403,6 +404,7 @@
 - [目标预测熵选视角](../conferences/icml-2026/cards/4201-4300.md#song26k-inference) · GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction
 - [按异质类型分配深度剪枝预算](../conferences/icml-2026/cards/4201-4300.md#su26r-inference) · Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective
 - [固定步数反演的误差代理调度](../conferences/icml-2026/cards/4201-4300.md#sun26j-inference) · Timestep Rescheduling in Diffusion Inversion
+- [稀疏高强度CFG与分区校准](../conferences/icml-2026/cards/4301-4400.md#sun26aw-inference) · RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers
 
 <a id="by-nlp"></a>
 
@@ -568,6 +570,7 @@
 - [按逐层熵变选择视觉对比分支](../conferences/icml-2026/cards/3901-4000.md#seo26b-inference) · DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models
 - [用固定频谱工作区推进视觉思考](../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning
 - [去噪置信波动定位幻觉](../conferences/icml-2026/cards/4201-4300.md#song26d-inference) · When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation
+- [查询前缀复用的图像裁剪](../conferences/icml-2026/cards/4301-4400.md#sun26aq-inference) · Very Efficient Listwise Multimodal Reranking for Long Documents
 
 <a id="by-ml-foundations"></a>
 

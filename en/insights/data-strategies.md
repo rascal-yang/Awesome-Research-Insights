@@ -73,6 +73,7 @@ Data selection, annotation, augmentation, and sampling.
 - [SERA: Soft-Verified Efficient Repository Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26o-data-strategies) · 中文
 - [KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering](../../conferences/icml-2026/cards/4201-4300.md#sun26h-data-strategies) · 中文
 - [Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4201-4300.md#sun26p-data-strategies) · 中文
+- [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](../../conferences/icml-2026/cards/4301-4400.md#sundaram26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

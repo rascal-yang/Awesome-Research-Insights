@@ -417,6 +417,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [iGRPO: Fast Online RL for Flow Matching Model with Instant Reward](../../conferences/icml-2026/cards/3801-3900.md#ren26b-reinforcement-learning) · 中文
 - [Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](../../conferences/icml-2026/cards/3801-3900.md#ren26f-reinforcement-learning) · 中文
 - [OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](../../conferences/icml-2026/cards/4001-4100.md#shen26u-reinforcement-learning) · 中文
+- [ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning](../../conferences/icml-2026/cards/4301-4400.md#sun26am-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

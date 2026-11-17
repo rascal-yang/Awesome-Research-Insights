@@ -102,6 +102,7 @@
 - <a id="shi26ag-loss-functions"></a>[Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis](../conferences/icml-2026/cards/4101-4200.md#paper-shi26ag)
 - <a id="sun26u-loss-functions"></a>[Scalable Medical Multimodal Fusion via Symmetric Consistency Modeling](../conferences/icml-2026/cards/4201-4300.md#paper-sun26u)
 - <a id="sun26ah-loss-functions"></a>[Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ah)
+- <a id="sun26aj-loss-functions"></a>[Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label](../conferences/icml-2026/cards/4301-4400.md#paper-sun26aj)
 
 <a id="by-optimization"></a>
 
@@ -170,6 +171,7 @@
 - <a id="ren26b-reinforcement-learning"></a>[iGRPO: Fast Online RL for Flow Matching Model with Instant Reward](../conferences/icml-2026/cards/3801-3900.md#paper-ren26b)
 - <a id="ren26f-reinforcement-learning"></a>[Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability](../conferences/icml-2026/cards/3801-3900.md#paper-ren26f)
 - <a id="shen26u-reinforcement-learning"></a>[OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL](../conferences/icml-2026/cards/4001-4100.md#paper-shen26u)
+- <a id="sun26am-reinforcement-learning"></a>[ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning](../conferences/icml-2026/cards/4301-4400.md#paper-sun26am)
 
 <a id="by-training-strategies"></a>
 
@@ -339,6 +341,7 @@
 - <a id="seo26b-inference"></a>[DEGAP: Dynamic Entropy-Guided Attention Perturbation for Contrastive Decoding in Large Vision-Language Models](../conferences/icml-2026/cards/3901-4000.md#paper-seo26b)
 - <a id="shen26y-inference"></a>[Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../conferences/icml-2026/cards/4001-4100.md#paper-shen26y)
 - <a id="song26d-inference"></a>[When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation](../conferences/icml-2026/cards/4201-4300.md#paper-song26d)
+- <a id="sun26aq-inference"></a>[Very Efficient Listwise Multimodal Reranking for Long Documents](../conferences/icml-2026/cards/4301-4400.md#paper-sun26aq)
 
 <a id="by-representation-learning"></a>
 

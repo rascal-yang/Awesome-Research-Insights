@@ -200,6 +200,7 @@
 - [球面噪声渐变与立方体时序校正](../conferences/icml-2026/cards/4201-4300.md#song26u-training-strategies) · PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation
 - [跨域留出教师蒸馏](../conferences/icml-2026/cards/4201-4300.md#song26af-training-strategies) · DomED: Redesigning Ensemble Distillation for Domain Generalization
 - [梯度证据挖掘未知目标](../conferences/icml-2026/cards/4201-4300.md#su26h-training-strategies) · OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection
+- [记忆条件对齐的蒸馏](../conferences/icml-2026/cards/4301-4400.md#sun26az-training-strategies) · WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling
 
 <a id="by-nlp"></a>
 

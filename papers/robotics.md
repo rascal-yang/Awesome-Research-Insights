@@ -56,6 +56,7 @@
 - <a id="fang26h-loss-functions"></a>[OMP: One-step Meanflow Policy with Directional Alignment](../conferences/icml-2026/cards/1001-1100.md#paper-fang26h)
 - <a id="kim26ao-loss-functions"></a>[Contrastive Representation Regularization for Vision-Language-Action Models](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ao)
 - <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl)
+- <a id="sun26al-loss-functions"></a>[From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning](../conferences/icml-2026/cards/4301-4400.md#paper-sun26al)
 - <a id="reconvla-loss-functions"></a><a id="reconvla-modules"></a>[ReconVLA](reconvla.md#paper-reconvla)
 
 <a id="by-optimization"></a>
@@ -204,6 +205,7 @@
 - <a id="liu26bu-evaluation"></a>[Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bu)
 - <a id="meng26n-evaluation"></a>[Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty](../conferences/icml-2026/cards/3201-3300.md#paper-meng26n)
 - <a id="qi26p-evaluation"></a>[BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis](../conferences/icml-2026/cards/3701-3800.md#paper-qi26p)
+- <a id="sun26an-evaluation"></a>[AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation](../conferences/icml-2026/cards/4301-4400.md#paper-sun26an)
 
 <a id="by-theory-statistics"></a>
 

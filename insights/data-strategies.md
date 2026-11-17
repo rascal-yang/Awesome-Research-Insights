@@ -73,6 +73,7 @@
 - [用补丁行召回构造仓库专用代理数据](../conferences/icml-2026/cards/4001-4100.md#shen26o-data-strategies) · SERA: Soft-Verified Efficient Repository Agents
 - [参考动作引导拒绝采样](../conferences/icml-2026/cards/4201-4300.md#sun26h-data-strategies) · KBQA-R1: Reinforcing Large Language Models for Knowledge Base Question Answering
 - [boundary-aware-evidence-curriculum](../conferences/icml-2026/cards/4201-4300.md#sun26p-data-strategies) · Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation
+- [以学生真进步奖励课程生成](../conferences/icml-2026/cards/4301-4400.md#sundaram26a-data-strategies) · Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability
 
 <a id="by-computer-vision"></a>
 

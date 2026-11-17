@@ -302,6 +302,8 @@
 - [按组件审计智能体基准](../conferences/icml-2026/cards/4201-4300.md#suh26a-evaluation) · AgentSuite: Toward More Reliable Agent Evaluation with a Component-Based Benchmark Auditing Pipeline
 - [激活尖峰与注意力汇解耦](../conferences/icml-2026/cards/4201-4300.md#sun26d-evaluation) · Anatomy of Massive Activations and Attention Sinks
 - [editing-update-privacy-boundary](../conferences/icml-2026/cards/4201-4300.md#sun26z-evaluation) · Reverse-Engineering Model Editing on Language Models
+- [依赖图质量流聚合](../conferences/icml-2026/cards/4301-4400.md#sun26av-evaluation) · Hallucination Detection from Structural Reasoning Model
+- [外部状态变化归因诊断](../conferences/icml-2026/cards/4301-4400.md#sun26ba-evaluation) · AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions
 
 <a id="by-computer-vision"></a>
 
@@ -416,6 +418,7 @@
 - [用恢复测试区分机器人技能遗忘](../conferences/icml-2026/cards/2801-2900.md#liu26bu-evaluation) · Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning
 - [按扰动修正扭矩分层评估动作模仿](../conferences/icml-2026/cards/3201-3300.md#meng26n-evaluation) · Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty
 - [以原子技能定位具身长任务错误](../conferences/icml-2026/cards/3701-3800.md#qi26p-evaluation) · BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis
+- [空中操纵的视角依赖诊断](../conferences/icml-2026/cards/4301-4400.md#sun26an-evaluation) · AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation
 
 <a id="by-multimodal"></a>
 

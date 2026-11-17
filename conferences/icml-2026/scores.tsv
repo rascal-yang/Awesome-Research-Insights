@@ -4308,26 +4308,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4307	sun26ag							p6–7采用标准PSD特征/分类器与已有EEG→BART，改输入维度；主要新增自然阅读数据集。LOSO与句子划分及样本平衡是必要控制，但未建立超出既有泄漏常识的独立机制；不以脑科学领域排除。	rule-excluded
 4308	sun26ah	3	4	3	3	66		新增量：以跨模态类别可接受度的优势间隔生成可靠性权重，对成对间隔损失软加权而非直接丢弃噪声样本。；复用/可用边界：原验证为预提CNN/BoW/Doc2Vec特征与固定随机种子；对称合成单标签噪声不等于真实噪声；必要性与κ文字/公式定义需按实现再核。；与最近方法比较：来源：fuzzy多视图、噪声分离/平滑及对比哈希；实比RSHNL、NACD、NRCH等和四组件消融。；独特性按该机制暂评，需全库排序复核。PDF第4,5,6,8,9页。 [原文PDF第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ah/sun26ah.pdf#page=4) · [原文PDF第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ah/sun26ah.pdf#page=5) · [原文PDF第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ah/sun26ah.pdf#page=6) · [原文PDF第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ah/sun26ah.pdf#page=8) · [原文PDF第9页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ah/sun26ah.pdf#page=9)	scored
 4309	sun26ai	4	5	3	4	82		新增量：对增强视图中持久同调连通分量合并的关键边惩罚偏离非零目标距离，避免正样本只追求距离归零。；复用/可用边界：理论泛化界另用平滑代理与类内连通假设，非原离散PH目标无条件保证；PH计算与多增强有开销；p8图中基线60.57与p9表60.38不同，采用表3。；与最近方法比较：来源：SimCLR、PH拓扑正则；实比SimCLR、增强强弱及目标距离/权重消融。；独特性按该机制暂评，需全库排序复核。PDF第3,4,5,6,9页。 [原文PDF第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ai/sun26ai.pdf#page=3) · [原文PDF第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ai/sun26ai.pdf#page=4) · [原文PDF第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ai/sun26ai.pdf#page=5) · [原文PDF第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ai/sun26ai.pdf#page=6) · [原文PDF第9页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ai/sun26ai.pdf#page=9)	scored
-4310	sun26aj							待原文复核评分	pending
-4311	sun26ak							待原文复核评分	pending
-4312	sun26al							待原文复核评分	pending
-4313	sun26am							待原文复核评分	pending
-4314	sun26an							待原文复核评分	pending
-4315	sun26ao							待原文复核评分	pending
-4316	sun26ap							待原文复核评分	pending
-4317	sun26aq							待原文复核评分	pending
-4318	sun26ar							待原文复核评分	pending
-4319	sun26as							待原文复核评分	pending
-4320	sun26at							待原文复核评分	pending
-4321	sun26au							待原文复核评分	pending
-4322	sun26av							待原文复核评分	pending
-4323	sun26aw							待原文复核评分	pending
-4324	sun26ax							待原文复核评分	pending
-4325	sun26ay							待原文复核评分	pending
-4326	sun26az							待原文复核评分	pending
-4327	sun26ba							待原文复核评分	pending
-4328	sundaram26a							待原文复核评分	pending
-4329	sung26a							待原文复核评分	pending
+4310	sun26aj	3	4	3	3	66		新增量3：不确定性感知相似度；复用4：在跨模态哈希的相似度中按样本对联合不确定性指数衰减语义差异，降低高噪声配对的约束强度。 可使用3：步骤与对照可核但须遵守卡内假设/成本；独特性3：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第3,4,7页。 原文：https://proceedings.mlr.press/v306/sun26aj.html。	scored
+4311	sun26ak	3	4	3	3	66		新增量3：有限步优势预条件求解；复用4：将小批量得分梯度Gram系统的残差解作为优势变换，通过有限步Kaczmarz式更新构建经验曲率修正策略梯度；不把其极限宣称为固定ridge目标解。 可使用3：步骤与对照可核但须遵守卡内假设/成本；独特性3：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第4,5,7,8,9页。 原文：https://proceedings.mlr.press/v306/sun26ak.html。	scored
+4312	sun26al	3	5	4	3	76		新增量3：回报校验的残差正则门控；复用5：仅当残差动作优于同噪声基策略动作且其Q值未超过回放Monte-Carlo回报容许界时取消残差BC惩罚，避免仅用Q改善门控造成过估计漂移。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性3：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第3,4,6,9页。 原文：https://proceedings.mlr.press/v306/sun26al.html。	scored
+4313	sun26am	3	4	3	3	66		新增量3：正确性校准工具奖励；复用4：按同组正确与错误轨迹的证据奖励均值差门控工具辅助奖励：错误轨迹反而获得更多证据分时指数降权。 可使用3：步骤与对照可核但须遵守卡内假设/成本；独特性3：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第5,6,8页。 原文：https://proceedings.mlr.press/v306/sun26am.html。	scored
+4314	sun26an	3	4	4	3	70		新增量3：空中操纵的视角依赖诊断；复用4：空中VLA不能只测扰动：移除固定第三人称视角的受控测试比所测状态高斯扰动更显著损害定位与操作，应单独验证外部视角依赖。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性3：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第4,6,7页。 原文：https://proceedings.mlr.press/v306/sun26an.html。	scored
+4315	sun26ao	4	5	4	4	86		新增量4：低秩Value漂移缓存；复用5：用Value投影权重的主奇异子空间监测token漂移，并按层漂移异质性配置更新比例，比统一压低更新预算更稳。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性4：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第4,5,6,8页。 原文：https://proceedings.mlr.press/v306/sun26ao.html。	scored
+4316	sun26ap							p3–7贡献为固定嵌套深度、特定Lipschitz/矩条件及量子oracle下的MLMC去随机化与复杂度；未给出可在当前神经训练/决策采用的独立技术选择，量子速度不能当实际训练加速。 原文：https://proceedings.mlr.press/v306/sun26ap.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ap/sun26ap.pdf。	rule-excluded
+4317	sun26aq	3	4	4	3	70		新增量3：查询前缀复用的图像裁剪；复用4：复用查询前缀KV提取query隐态，以其与视觉token的最大余弦相似度筛选图文重排输入，保持原patch位置。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性3：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第4,5,7,8页。 原文：https://proceedings.mlr.press/v306/sun26aq.html。	scored
+4318	sun26ar							p3–7通过知识整理、检索、生成验证样例、提示改写及LLM评价组合闭环；消融能说明组件有效，但未从既有自生成验证/反思提示优化中隔离出独立新目标或决策规律，收益主要是代理流程集成。 原文：https://proceedings.mlr.press/v306/sun26ar.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ar/sun26ar.pdf。	rule-excluded
+4319	sun26as							p3–7新增仅依赖他人估值的拍卖收费与IR约束优化，理论边界针对相关估值拍卖；无法指向具身或通用神经研究中可独立采用的新机制，非因缺少代码排除。 原文：https://proceedings.mlr.press/v306/sun26as.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26as/sun26as.pdf。	rule-excluded
+4320	sun26at							p2–7将成熟双QKV注意力、角色/用户偏置、互补sigmoid门控、预算推理与MoE用于角色扮演；p7有同参数同代理监督Wider-FT对照（3.83 vs完整3.92），说明整套设计有效，却未隔离出超越既有双流/门控模板的独立新偏置或冲突优化目标。单模块收益依赖配套设计，不能把完整系统增益当独立机制新意。 原文：https://proceedings.mlr.press/v306/sun26at.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26at/sun26at.pdf。	rule-excluded
+4321	sun26au							p4–8以Reptile式伪顺序任务初始化加已有白化着色式参考协方差对齐；OML比较主要改变内循环全参数更新，未建立超出现有元持续学习初始化与二阶对齐的独立机制。表2证明组合互补而非新一般规律；式10行向量Cholesky变换还存在转置不一致。 原文：https://proceedings.mlr.press/v306/sun26au.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26au/sun26au.pdf。	rule-excluded
+4322	sun26av	4	4	4	4	80		新增量4：依赖图质量流聚合；复用4：把局部步骤可信度沿显式引用DAG传播，按条件到答案的质量流吸收量评分，可让共享支撑错误比无关步骤错误更重要。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性4：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第4,6,8页。 原文：https://proceedings.mlr.press/v306/sun26av.html。	scored
+4323	sun26aw	4	4	3	4	76		新增量4：稀疏高强度CFG与分区校准；复用4：联合搜索少数较强CFG时间点，并按Transformer分区分配缓存校准秩；变量CFG下统一校准容量会浪费计算且不匹配块敏感度。 可使用3：步骤与对照可核但须遵守卡内假设/成本；独特性4：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第4,6,7页。 原文：https://proceedings.mlr.press/v306/sun26aw.html。	scored
+4324	sun26ax	4	4	4	4	80		新增量4：正交旋转的概念编辑；复用4：用闭式正交Procrustes旋转编辑概念输出，保留投影权重列的范数和两两夹角；通过目标子空间抑制缓和多概念约束冲突。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性4：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第3,5,6,7,8页。 原文：https://proceedings.mlr.press/v306/sun26ax.html。	scored
+4325	sun26ay							p3–7针对有符号图(I+L)^-1对角估计构造森林采样，误差预算受负环权重比控制；虽有专用新算法，但未验证能指导神经图表征或具身决策的具体可复用选择，不能仅以大图速度收录。 原文：https://proceedings.mlr.press/v306/sun26ay.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26ay/sun26ay.pdf。	rule-excluded
+4326	sun26az	4	5	4	4	86		新增量4：记忆条件对齐的蒸馏；复用5：蒸馏带检索记忆的自回归视频模型时，使双向教师与学生使用一致的历史上下文并屏蔽当前rollout，避免记忆条件分布不匹配。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性4：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第5,6,8页。 原文：https://proceedings.mlr.press/v306/sun26az.html。	scored
+4327	sun26ba	3	4	4	3	70		新增量3：外部状态变化归因诊断；复用4：GUI代理的历史应记录观察到的状态变化而不只记录计划动作：环境外部事件会诱发把非自身结果误归因给自身动作的失效。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性3：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第6,7,8页。 原文：https://proceedings.mlr.press/v306/sun26ba.html。	scored
+4328	sundaram26a	4	5	4	4	86		新增量4：以学生真进步奖励课程生成；复用5：用学生在有真值困难训练题上的实测提升奖励教师生成的问题集，而非按内部可学习性代理打分；生成有用踏脚石不要求教师先能解难题。 可使用4：步骤与对照可核但须遵守卡内假设/成本；独特性4：相对最接近方法有局部独立增量，未作全库不可替代性断言。证据PDF第3,4,6,7页。 原文：https://proceedings.mlr.press/v306/sundaram26a.html。	scored
+4329	sung26a							p6–7统计结果依赖专用细胞响应目标、数据质量与预训练规模的联合改变；去预训练和监督噪声消融不能独立建立通用于深度学习的新规律，跨任务证据仍限同一生物预测体系。 原文：https://proceedings.mlr.press/v306/sung26a.html；PDF：https://raw.githubusercontent.com/mlresearch/v306/main/assets/sung26a/sung26a.pdf。	rule-excluded
 4330	surendran26a							待原文复核评分	pending
 4331	suresh26a							待原文复核评分	pending
 4332	susladkar26a							待原文复核评分	pending

@@ -120,6 +120,7 @@
 - [残差网格反解 CAD](../conferences/icml-2026/cards/3401-3500.md#nehme26a-optimization) · CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization
 - [用置信和梯度共同限学习率](../conferences/icml-2026/cards/4001-4100.md#shaoran26a-optimization) · CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation
 - [部分几何能量场与梯度隔离](../conferences/icml-2026/cards/4201-4300.md#song26b-optimization) · EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors
+- [正交旋转的概念编辑](../conferences/icml-2026/cards/4301-4400.md#sun26ax-optimization) · Orthogonal Concept Erasure for Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -136,6 +137,7 @@
 - [用决策时点锚定的伴随量优化非指数折扣](../conferences/icml-2026/cards/2101-2200.md#ko26a-optimization) · Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting
 - [离线价值学习的解耦正交校正](../conferences/icml-2026/cards/3701-3800.md#qiao26j-optimization) · AdamO: A Collapse-Suppressed Optimizer for Offline RL
 - [按预期输出变化反算单步步长](../conferences/icml-2026/cards/4001-4100.md#sharifnassab26a-optimization) · Intentional Updates for Streaming Reinforcement Learning
+- [有限步优势预条件求解](../conferences/icml-2026/cards/4301-4400.md#sun26ak-optimization) · Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation
 
 <a id="by-robotics"></a>
 

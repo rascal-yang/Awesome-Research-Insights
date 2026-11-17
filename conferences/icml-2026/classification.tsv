@@ -4037,4 +4037,17 @@ sun26ae	ml-foundations	inference
 sun26af	ml-foundations	theory-statistics
 sun26ah	multimodal	loss-functions
 sun26ai	computer-vision	loss-functions
+sun26aj	multimodal	loss-functions
+sun26ak	reinforcement-learning	optimization
+sun26al	robotics	loss-functions
+sun26am	multimodal	reinforcement-learning
+sun26an	robotics	evaluation
+sun26ao	llm	inference
+sun26aq	multimodal	inference
+sun26av	llm	evaluation
+sun26aw	computer-vision	inference
+sun26ax	computer-vision	optimization
+sun26az	computer-vision	training-strategies
+sun26ba	llm	evaluation
+sundaram26a	llm	data-strategies
 tian26k	computer-vision	modules

@@ -174,6 +174,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="nehme26a-optimization"></a>[CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization](../../conferences/icml-2026/cards/3401-3500.md#paper-nehme26a)
 - <a id="shaoran26a-optimization"></a>[CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation](../../conferences/icml-2026/cards/4001-4100.md#paper-shaoran26a)
 - <a id="song26b-optimization"></a>[EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](../../conferences/icml-2026/cards/4201-4300.md#paper-song26b)
+- <a id="sun26ax-optimization"></a>[Orthogonal Concept Erasure for Diffusion Models](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ax)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -262,6 +263,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="song26u-training-strategies"></a>[PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](../../conferences/icml-2026/cards/4201-4300.md#paper-song26u)
 - <a id="song26af-training-strategies"></a>[DomED: Redesigning Ensemble Distillation for Domain Generalization](../../conferences/icml-2026/cards/4201-4300.md#paper-song26af)
 - <a id="su26h-training-strategies"></a>[OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection](../../conferences/icml-2026/cards/4201-4300.md#paper-su26h)
+- <a id="sun26az-training-strategies"></a>[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26az)
 
 <a id="by-data-strategies"></a>
 
@@ -388,6 +390,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="song26k-inference"></a>[GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#paper-song26k)
 - <a id="su26r-inference"></a>[Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../../conferences/icml-2026/cards/4201-4300.md#paper-su26r)
 - <a id="sun26j-inference"></a>[Timestep Rescheduling in Diffusion Inversion](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26j)
+- <a id="sun26aw-inference"></a>[RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26aw)
 
 <a id="by-representation-learning"></a>
 

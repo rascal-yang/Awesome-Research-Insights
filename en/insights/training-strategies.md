@@ -200,6 +200,7 @@ Training schedules, curricula, and task or stage composition.
 - [PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](../../conferences/icml-2026/cards/4201-4300.md#song26u-training-strategies) · 中文
 - [DomED: Redesigning Ensemble Distillation for Domain Generalization](../../conferences/icml-2026/cards/4201-4300.md#song26af-training-strategies) · 中文
 - [OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection](../../conferences/icml-2026/cards/4201-4300.md#su26h-training-strategies) · 中文
+- [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](../../conferences/icml-2026/cards/4301-4400.md#sun26az-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

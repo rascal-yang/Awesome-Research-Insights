@@ -109,6 +109,7 @@
 - [单步操作策略的速度方向监督](../conferences/icml-2026/cards/1001-1100.md#fang26h-loss-functions) · OMP: One-step Meanflow Policy with Directional Alignment
 - [用本体状态距离给视觉摘要提供软监督](../conferences/icml-2026/cards/2101-2200.md#kim26ao-loss-functions) · Contrastive Representation Regularization for Vision-Language-Action Models
 - <a id="align-action-features-with-latent-actions"></a><a id="latent-action-alignment"></a>[用潜动作监督动作专家的中间层](../conferences/icml-2026/cards/2801-2900.md#liu26bl-loss-functions) · LARA: Latent Action Representation Alignment for Vision-Language-Action Models
+- [回报校验的残差正则门控](../conferences/icml-2026/cards/4301-4400.md#sun26al-loss-functions) · From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[用目标区域重建做辅助监督](../papers/reconvla.md#reconvla-loss-functions) · ReconVLA
 
 <a id="by-multimodal"></a>
@@ -144,6 +145,7 @@
 - [保留模态间隙的关系对齐](../conferences/icml-2026/cards/4101-4200.md#shi26ag-loss-functions) · Structured Multi-modal Graph Disentanglement for Psychiatric Diagnosis
 - [bidirectional-reconstruction-consistency](../conferences/icml-2026/cards/4201-4300.md#sun26u-loss-functions) · Scalable Medical Multimodal Fusion via Symmetric Consistency Modeling
 - [admissibility-weighted-noisy-hashing](../conferences/icml-2026/cards/4301-4400.md#sun26ah-loss-functions) · Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels
+- [不确定性感知相似度](../conferences/icml-2026/cards/4301-4400.md#sun26aj-loss-functions) · Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label
 
 <a id="by-ml-foundations"></a>
 

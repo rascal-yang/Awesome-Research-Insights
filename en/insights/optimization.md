@@ -120,6 +120,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [CADFit: Precise Mesh-to-CAD Program Generation with Hybrid Optimization](../../conferences/icml-2026/cards/3401-3500.md#nehme26a-optimization) · 中文
 - [CONGA:Confidence-and-Gradient-Aware Learning Rate Schedule for Test Time Adaptation](../../conferences/icml-2026/cards/4001-4100.md#shaoran26a-optimization) · 中文
 - [EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](../../conferences/icml-2026/cards/4201-4300.md#song26b-optimization) · 中文
+- [Orthogonal Concept Erasure for Diffusion Models](../../conferences/icml-2026/cards/4301-4400.md#sun26ax-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -136,6 +137,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Beyond the Bellman Recursion: A Pontryagin-Guided Framework for Non-Exponential Discounting](../../conferences/icml-2026/cards/2101-2200.md#ko26a-optimization) · 中文
 - [AdamO: A Collapse-Suppressed Optimizer for Offline RL](../../conferences/icml-2026/cards/3701-3800.md#qiao26j-optimization) · 中文
 - [Intentional Updates for Streaming Reinforcement Learning](../../conferences/icml-2026/cards/4001-4100.md#sharifnassab26a-optimization) · 中文
+- [Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation](../../conferences/icml-2026/cards/4301-4400.md#sun26ak-optimization) · 中文
 
 <a id="by-robotics"></a>
 
