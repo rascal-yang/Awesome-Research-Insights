@@ -468,7 +468,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?](../../conferences/icml-2026/cards/3101-3200.md#lyu26k-theory-statistics) · 中文
 - [Efficiently Learning Drifting Halfspaces with Massart Noise](../../conferences/icml-2026/cards/3101-3200.md#ma26c-theory-statistics) · 中文
 - [Correcting Overparameterization Effects in Fair Empirical Risk Minimization](../../conferences/icml-2026/cards/3101-3200.md#mai26a-theory-statistics) · 中文
-- [Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](../../conferences/icml-2026/cards/3101-3200.md#maiti26a-theory-statistics) · 中文
 - [No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference](../../conferences/icml-2026/cards/3201-3300.md#mani26b-theory-statistics) · 中文
 - [Sequential Group Composition: A Window into the Mechanics of Deep Learning](../../conferences/icml-2026/cards/3201-3300.md#marchetti26a-theory-statistics) · 中文
 - [Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables](../../conferences/icml-2026/cards/3201-3300.md#martinez-taboada26a-theory-statistics) · 中文

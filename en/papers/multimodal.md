@@ -442,7 +442,6 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ma26as-evaluation"></a>[What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26as)
 - <a id="mao26b-evaluation"></a>[BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26b)
 - <a id="mao26j-evaluation"></a>[STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26j)
-- <a id="meng26d-evaluation"></a>[DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26d)
 - <a id="niu26c-evaluation"></a>[WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26c)
 - <a id="niu26d-evaluation"></a>[MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26d)
 - <a id="pang26c-evaluation"></a>[Unveiling the Visual Counting Bottleneck in Vision-Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-pang26c)

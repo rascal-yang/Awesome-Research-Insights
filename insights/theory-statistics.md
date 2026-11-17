@@ -468,7 +468,6 @@
 - [门控单元的核谱条件与收敛阶段](../conferences/icml-2026/cards/3101-3200.md#lyu26k-theory-statistics) · The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?
 - [用近期样本学习受漂移和有界标签噪声影响的半空间](../conferences/icml-2026/cards/3101-3200.md#ma26c-theory-statistics) · Efficiently Learning Drifting Halfspaces with Massart Noise
 - [从系数平衡校正训练公平约束](../conferences/icml-2026/cards/3101-3200.md#mai26a-theory-statistics) · Correcting Overparameterization Effects in Fair Empirical Risk Minimization
-- [以反事实偏离能力分析算法定价](../conferences/icml-2026/cards/3101-3200.md#maiti26a-theory-statistics) · Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners
 - [用有限样本相关阈值决定是否引入伪标签](../conferences/icml-2026/cards/3201-3300.md#mani26b-theory-statistics) · No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference
 - [用有限群乘积揭示深度如何利用结合律](../conferences/icml-2026/cards/3201-3300.md#marchetti26a-theory-statistics) · Sequential Group Composition: A Window into the Mechanics of Deep Learning
 - [对有界变量的方差构造渐近锐利的经验 Bernstein 界](../conferences/icml-2026/cards/3201-3300.md#martinez-taboada26a-theory-statistics) · Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables

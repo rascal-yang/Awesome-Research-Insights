@@ -469,7 +469,6 @@
 - [视觉工具强化学习收益归因](../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom
 - [将语音函数调用拆成转录与端到端两套可执行测试](../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · BFCL Audio: An Audio Function Calling Evaluation for Large Language Models
 - [按去噪时段诊断多模态红队风险](../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack
-- [把可视化成品与原生操作一同验证](../conferences/icml-2026/cards/3201-3300.md#meng26d-evaluation) · DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios
 - [用需要世界知识才能作画的提示评估文生图](../conferences/icml-2026/cards/3401-3500.md#niu26c-evaluation) · WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation
 - [让音频评估同时奖励语义相似和跨样本可辨识](../conferences/icml-2026/cards/3401-3500.md#niu26d-evaluation) · MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks
 - [分阶段定位视觉计数的外推失效](../conferences/icml-2026/cards/3501-3600.md#pang26c-evaluation) · Unveiling the Visual Counting Bottleneck in Vision-Language Models
@@ -532,7 +531,6 @@
 - [共同检验共形预测集大小与下游群体结果](../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · Beyond Procedure: Substantive Fairness in Conformal Prediction
 - [把 AI 缺陷报告转成可分发的结构化记录](../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · FLARE-AI: Flaw Reporting for AI
 - [把联邦后门检测的重点放到聚合后的持续性](../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning
-- [预枚举树集成可实现输出组合以复用验证索引](../conferences/icml-2026/cards/3201-3300.md#martens26a-evaluation) · OC-space: a Unifying Perspective on Verification of Tree Ensembles
 - [分别测棋类规则外推和策略迁移](../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers
 - [先集成预测函数再估特征重要性](../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · Aggregate Models, Not Explanations: Improving Feature Importance Estimation
 - [用态密度测随机插值与梯度泛化](../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · Revisiting the Volume Hypothesis

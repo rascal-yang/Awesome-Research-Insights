@@ -469,7 +469,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · 中文
 - [BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · 中文
 - [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · 中文
-- [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](../../conferences/icml-2026/cards/3201-3300.md#meng26d-evaluation) · 中文
 - [WISE: World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](../../conferences/icml-2026/cards/3401-3500.md#niu26c-evaluation) · 中文
 - [MECAT: A Multi-Experts Constructed Benchmark for Fine-Grained Audio Understanding Tasks](../../conferences/icml-2026/cards/3401-3500.md#niu26d-evaluation) · 中文
 - [Unveiling the Visual Counting Bottleneck in Vision-Language Models](../../conferences/icml-2026/cards/3501-3600.md#pang26c-evaluation) · 中文
@@ -532,7 +531,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Beyond Procedure: Substantive Fairness in Conformal Prediction](../../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · 中文
 - [FLARE-AI: Flaw Reporting for AI](../../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · 中文
 - [Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · 中文
-- [OC-space: a Unifying Perspective on Verification of Tree Ensembles](../../conferences/icml-2026/cards/3201-3300.md#martens26a-evaluation) · 中文
 - [Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers](../../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · 中文
 - [Aggregate Models, Not Explanations: Improving Feature Importance Estimation](../../conferences/icml-2026/cards/3501-3600.md#paillard26a-evaluation) · 中文
 - [Revisiting the Volume Hypothesis](../../conferences/icml-2026/cards/3501-3600.md#pakman26a-evaluation) · 中文
