@@ -48,6 +48,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Stabilizing Native Low-Rank LLM Pretraining](../../conferences/icml-2026/cards/1801-1900.md#janson26a-optimization) · 中文
 - [DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution](../../conferences/icml-2026/cards/1901-2000.md#jiang26g-optimization) · 中文
 - [Distributed Direct Preference Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26h-optimization) · 中文
+- [Enhancing LLM Training via Spectral Clipping](../../conferences/icml-2026/cards/1901-2000.md#jiang26am-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -228,6 +229,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [On the Role of Batch Size in Stochastic Conditional Gradient Methods](../../conferences/icml-2026/cards/1801-1900.md#islamov26b-optimization) · 中文
 - [An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale](../../conferences/icml-2026/cards/1801-1900.md#javaloy26a-optimization) · 中文
 - [SC-FAGC: Size Constrained Fast Anchor Graph Clustering](../../conferences/icml-2026/cards/1901-2000.md#jiachen26a-optimization) · 中文
+- [Private Learning with Public Feature Conditioning](../../conferences/icml-2026/cards/1901-2000.md#jiang26w-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

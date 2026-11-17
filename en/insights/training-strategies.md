@@ -63,6 +63,7 @@ Training schedules, curricula, and task or stage composition.
 - [Global Merger-Arbitrage Forecasting with Language Models](../../conferences/icml-2026/cards/1801-1900.md#jajal26a-training-strategies) · 中文
 - [Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs](../../conferences/icml-2026/cards/1801-1900.md#jang26a-training-strategies) · 中文
 - [Hyperparameter Transfer with Mixture-of-Experts Layers](../../conferences/icml-2026/cards/1901-2000.md#jiang26a-training-strategies) · 中文
+- [Configurable Reward Model for Balanced Safety Alignment](../../conferences/icml-2026/cards/1901-2000.md#jiang26v-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -129,6 +130,9 @@ Training schedules, curricula, and task or stage composition.
 - [Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#hwang26g-training-strategies) · 中文
 - [Efficient Distributed MLLM Training with Cornstarch](../../conferences/icml-2026/cards/1801-1900.md#jang26g-training-strategies) · 中文
 - [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](../../conferences/icml-2026/cards/1801-1900.md#jia26c-training-strategies) · 中文
+- [Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing](../../conferences/icml-2026/cards/1901-2000.md#jiang26q-training-strategies) · 中文
+- [KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls](../../conferences/icml-2026/cards/1901-2000.md#jiang26s-training-strategies) · 中文
+- [OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ag-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -109,6 +109,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hwang26g-training-strategies"></a>[Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26g)
 - <a id="jang26g-training-strategies"></a>[Efficient Distributed MLLM Training with Cornstarch](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26g)
 - <a id="jia26c-training-strategies"></a>[From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26c)
+- <a id="jiang26q-training-strategies"></a>[Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26q)
+- <a id="jiang26s-training-strategies"></a>[KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26s)
+- <a id="jiang26ag-training-strategies"></a>[OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ag)
 
 <a id="by-data-strategies"></a>
 
@@ -129,6 +132,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="gurbuz26a-data-strategies"></a>[ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](../../conferences/icml-2026/cards/1401-1500.md#paper-gurbuz26a)
 - <a id="he26ap-data-strategies"></a>[RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ap)
 - <a id="he26au-data-strategies"></a>[From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping](../../conferences/icml-2026/cards/1501-1600.md#paper-he26au)
+- <a id="jiang26p-data-strategies"></a>[TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26p)
 
 <a id="by-inference"></a>
 
@@ -173,6 +177,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="huang26ad-inference"></a>[Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ad)
 - <a id="huang26ag-inference"></a>[Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ag)
 - <a id="ji26h-inference"></a>[DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26h)
+- <a id="jiang26ac-inference"></a>[USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ac)
 
 <a id="by-representation-learning"></a>
 
@@ -233,6 +238,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="izadi26a-evaluation"></a>[Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding](../../conferences/icml-2026/cards/1801-1900.md#paper-izadi26a)
 - <a id="ji26l-evaluation"></a>[Zero-Shot Text-to-Motion Evaluation using Video Language Models](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26l)
 - <a id="jia26a-evaluation"></a>[VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26a)
+- <a id="jiang26t-evaluation"></a>[MM-Snowball: Evaluating and Mitigating Hallucination Snowballing in Multimodal Multi-Turn Dialogue](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26t)
 
 <a id="by-theory-statistics"></a>
 

@@ -118,6 +118,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="janson26a-optimization"></a>[Stabilizing Native Low-Rank LLM Pretraining](../../conferences/icml-2026/cards/1801-1900.md#paper-janson26a)
 - <a id="jiang26g-optimization"></a>[DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26g)
 - <a id="jiang26h-optimization"></a>[Distributed Direct Preference Optimization](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26h)
+- <a id="jiang26am-optimization"></a>[Enhancing LLM Training via Spectral Clipping](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26am)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -189,6 +190,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ildiz26a-reinforcement-learning"></a>[Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought](../../conferences/icml-2026/cards/1801-1900.md#paper-ildiz26a)
 - <a id="jayalath26a-reinforcement-learning"></a>[Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](../../conferences/icml-2026/cards/1801-1900.md#paper-jayalath26a)
 - <a id="jazbec26a-reinforcement-learning"></a>[Learning Unmasking Policies for Diffusion Language Models](../../conferences/icml-2026/cards/1801-1900.md#paper-jazbec26a)
+- <a id="jiang26x-reinforcement-learning"></a>[Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26x)
+- <a id="jiang26y-reinforcement-learning"></a>[From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26y)
+- <a id="jiang26ak-reinforcement-learning"></a>[Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ak)
 
 <a id="by-training-strategies"></a>
 
@@ -244,6 +248,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="jajal26a-training-strategies"></a>[Global Merger-Arbitrage Forecasting with Language Models](../../conferences/icml-2026/cards/1801-1900.md#paper-jajal26a)
 - <a id="jang26a-training-strategies"></a>[Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26a)
 - <a id="jiang26a-training-strategies"></a>[Hyperparameter Transfer with Mixture-of-Experts Layers](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26a)
+- <a id="jiang26v-training-strategies"></a>[Configurable Reward Model for Balanced Safety Alignment](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26v)
 
 <a id="by-data-strategies"></a>
 
@@ -395,6 +400,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ji26m-inference"></a>[SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26m)
 - <a id="jiang26f-inference"></a>[CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26f)
 - <a id="jiang26k-inference"></a>[OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26k)
+- <a id="jiang26z-inference"></a>[HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26z)
 
 <a id="by-representation-learning"></a>
 
@@ -557,6 +563,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ji26c-evaluation"></a>[TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26c)
 - <a id="jiang26d-evaluation"></a>[Collaborative Disagreement Resolution for Scalable Oversight](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26d)
 - <a id="jiang26o-evaluation"></a>[Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26o)
+- <a id="jiang26af-evaluation"></a>[Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26af)
 
 <a id="by-theory-statistics"></a>
 

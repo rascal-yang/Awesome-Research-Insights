@@ -159,6 +159,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering](../../conferences/icml-2026/cards/1801-1900.md#ji26c-evaluation) · 中文
 - [Collaborative Disagreement Resolution for Scalable Oversight](../../conferences/icml-2026/cards/1901-2000.md#jiang26d-evaluation) · 中文
 - [Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs](../../conferences/icml-2026/cards/1901-2000.md#jiang26o-evaluation) · 中文
+- [Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability](../../conferences/icml-2026/cards/1901-2000.md#jiang26af-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -264,6 +265,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding](../../conferences/icml-2026/cards/1801-1900.md#izadi26a-evaluation) · 中文
 - [Zero-Shot Text-to-Motion Evaluation using Video Language Models](../../conferences/icml-2026/cards/1801-1900.md#ji26l-evaluation) · 中文
 - [VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26a-evaluation) · 中文
+- [MM-Snowball: Evaluating and Mitigating Hallucination Snowballing in Multimodal Multi-Turn Dialogue](../../conferences/icml-2026/cards/1901-2000.md#jiang26t-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

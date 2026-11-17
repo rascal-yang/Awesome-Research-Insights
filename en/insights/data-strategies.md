@@ -101,6 +101,7 @@ Data selection, annotation, augmentation, and sampling.
 - [ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](../../conferences/icml-2026/cards/1401-1500.md#gurbuz26a-data-strategies) · 中文
 - [RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback](../../conferences/icml-2026/cards/1501-1600.md#he26ap-data-strategies) · 中文
 - [From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping](../../conferences/icml-2026/cards/1501-1600.md#he26au-data-strategies) · 中文
+- [TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution](../../conferences/icml-2026/cards/1901-2000.md#jiang26p-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

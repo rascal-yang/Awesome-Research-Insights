@@ -61,6 +61,8 @@
 - [把相机射线变成可共同去噪的像素](../conferences/icml-2026/cards/1801-1900.md#jang26f-architecture) · Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories
 - [级联空间边界与频域全局信息做杂乱分割](../conferences/icml-2026/cards/1801-1900.md#javaid26a-architecture) · Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background
 - [给轻量扩散编解码器预训练重建任务](../conferences/icml-2026/cards/1801-1900.md#jia26i-architecture) · CoD-Lite: Real-Time Diffusion-Based Generative Image Compression
+- [用整体生成约束零件配准](../conferences/icml-2026/cards/1901-2000.md#jiang26ab-architecture) · CRAG: Can 3D Generative Models Help 3D Assembly?
+- [用平衡层给不同生成尺度分配步数](../conferences/icml-2026/cards/1901-2000.md#jiang26ah-architecture) · Visual Implicit Autoregressive Modeling
 
 <a id="by-nlp"></a>
 
@@ -188,4 +190,6 @@
 - [基于局部轴对齐流式计算等变注意力](../conferences/icml-2026/cards/1701-1800.md#huang26p-architecture) · E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory
 - [用结构约束和功能需求共同求潜在脑网络流](../conferences/icml-2026/cards/1701-1800.md#huang26am-architecture) · Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing
 - [把系统辨识摊销为轨迹条件下的向量场查询](../conferences/icml-2026/cards/1701-1800.md#hubers26a-architecture) · Foundation Inference Models for Ordinary Differential Equations
+- [把短期功能动态和长期脑图融合](../conferences/icml-2026/cards/1901-2000.md#jiang26r-architecture) · ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network
+- [在相邻光刻工序的状态变化上学习干预](../conferences/icml-2026/cards/1901-2000.md#jiang26ae-architecture) · LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography
 <!-- classification:end -->

@@ -168,4 +168,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution](../../conferences/icml-2026/cards/1801-1900.md#jadhav26a-representation-learning) · 中文
 - [Flexible Kernels for Protein Property Prediction](../../conferences/icml-2026/cards/1801-1900.md#jankowiak26a-representation-learning) · 中文
 - [EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](../../conferences/icml-2026/cards/1801-1900.md#jia26d-representation-learning) · 中文
+- [What Makes a Representation Good for Single-Cell Perturbation Prediction?](../../conferences/icml-2026/cards/1901-2000.md#jiang26ad-representation-learning) · 中文
 <!-- classification:end -->

@@ -72,6 +72,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="hu26ac-inference"></a>[RAG without Forgetting: Continual Query-Infused Key Memory](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ac)
 - <a id="jaasaari26a-inference"></a>[LEMUR: Learned Multi-Vector Retrieval](../../conferences/icml-2026/cards/1801-1900.md#paper-jaasaari26a)
 - <a id="jiang26l-inference"></a>[Incremental BPE Tokenization](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26l)
+- <a id="jiang26aa-inference"></a>[Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aa)
 
 <a id="by-representation-learning"></a>
 

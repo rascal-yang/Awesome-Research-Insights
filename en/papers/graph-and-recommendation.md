@@ -100,6 +100,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="gao26t-inference"></a>[Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26t)
 - <a id="guo26t-inference"></a>[GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26t)
 - <a id="guo26ac-inference"></a>[X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26ac)
+- <a id="jiang26al-inference"></a>[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26al)
 
 <a id="by-representation-learning"></a>
 
@@ -149,4 +150,5 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="guo26d-theory-statistics"></a>[Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26d)
 - <a id="harker26a-theory-statistics"></a>[On the Optimization Trajectory of DeepWalk Embeddings](../../conferences/icml-2026/cards/1401-1500.md#paper-harker26a)
 - <a id="harviainen26a-theory-statistics"></a>[Exact and Approximate Algorithms for Polytree Learning](../../conferences/icml-2026/cards/1401-1500.md#paper-harviainen26a)
+- <a id="jiang26aj-theory-statistics"></a>[Quantum Algorithms for Triangle Cut Sparsification](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aj)
 <!-- classification:end -->

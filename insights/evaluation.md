@@ -159,6 +159,7 @@
 - [分开检验表格预测的意图识别与模型构造](../conferences/icml-2026/cards/1801-1900.md#ji26c-evaluation) · TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering
 - [把多模型分歧浓缩成可核验争点](../conferences/icml-2026/cards/1901-2000.md#jiang26d-evaluation) · Collaborative Disagreement Resolution for Scalable Oversight
 - [按路由干预诊断 MoE 安全集中性](../conferences/icml-2026/cards/1901-2000.md#jiang26o-evaluation) · Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs
+- [用位移与曲率联合诊断推理轨迹](../conferences/icml-2026/cards/1901-2000.md#jiang26af-evaluation) · Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability
 
 <a id="by-computer-vision"></a>
 
@@ -264,6 +265,7 @@
 - [通过跨模态共享分区标识绑定证据](../conferences/icml-2026/cards/1801-1900.md#izadi26a-evaluation) · Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding
 - [按视频评判熵筛动作渲染](../conferences/icml-2026/cards/1801-1900.md#ji26l-evaluation) · Zero-Shot Text-to-Motion Evaluation using Video Language Models
 - [用逐模态移除辨别融合干扰](../conferences/icml-2026/cards/1801-1900.md#jia26a-evaluation) · VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning
+- [用受控错误轨迹测视觉幻觉累积](../conferences/icml-2026/cards/1901-2000.md#jiang26t-evaluation) · MM-Snowball: Evaluating and Mitigating Hallucination Snowballing in Multimodal Multi-Turn Dialogue
 
 <a id="by-ml-foundations"></a>
 

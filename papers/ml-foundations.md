@@ -230,6 +230,7 @@
 - <a id="islamov26b-optimization"></a>[On the Role of Batch Size in Stochastic Conditional Gradient Methods](../conferences/icml-2026/cards/1801-1900.md#paper-islamov26b)
 - <a id="javaloy26a-optimization"></a>[An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale](../conferences/icml-2026/cards/1801-1900.md#paper-javaloy26a)
 - <a id="jiachen26a-optimization"></a>[SC-FAGC: Size Constrained Fast Anchor Graph Clustering](../conferences/icml-2026/cards/1901-2000.md#paper-jiachen26a)
+- <a id="jiang26w-optimization"></a>[Private Learning with Public Feature Conditioning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26w)
 
 <a id="by-reinforcement-learning"></a>
 

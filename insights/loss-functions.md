@@ -55,6 +55,7 @@
 
 - [离线强化学习流策略正则](../conferences/icml-2026/cards/0601-0700.md#chen26ep-loss-functions) · Continuity-Regularized Flow Matching for Offline Reinforcement Learning
 - [用频域平滑正则降低随机流训练方差](../conferences/icml-2026/cards/1401-1500.md#hassen26a-loss-functions) · Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization
+- [对齐潜状态与任务价值而保留预测损失](../conferences/icml-2026/cards/1901-2000.md#jiang26ai-loss-functions) · Boosting World Models Learning via Latent-Space Value Alignment
 
 <a id="by-robotics"></a>
 

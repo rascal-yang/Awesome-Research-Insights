@@ -34,6 +34,8 @@
 - <a id="jang26f-architecture"></a>[Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories](../conferences/icml-2026/cards/1801-1900.md#paper-jang26f)
 - <a id="javaid26a-architecture"></a>[Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background](../conferences/icml-2026/cards/1801-1900.md#paper-javaid26a)
 - <a id="jia26i-architecture"></a>[CoD-Lite: Real-Time Diffusion-Based Generative Image Compression](../conferences/icml-2026/cards/1801-1900.md#paper-jia26i)
+- <a id="jiang26ab-architecture"></a>[CRAG: Can 3D Generative Models Help 3D Assembly?](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ab)
+- <a id="jiang26ah-architecture"></a>[Visual Implicit Autoregressive Modeling](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ah)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 

@@ -335,6 +335,7 @@
 - [图时序的条件频谱共形校准](../conferences/icml-2026/cards/1301-1400.md#guo26d-theory-statistics) · Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series
 - [谱方向解释图嵌入的初期优化](../conferences/icml-2026/cards/1401-1500.md#harker26a-theory-statistics) · On the Optimization Trajectory of DeepWalk Embeddings
 - [用图结构约束压缩多树搜索状态](../conferences/icml-2026/cards/1401-1500.md#harviainen26a-theory-statistics) · Exact and Approximate Algorithms for Polytree Learning
+- [将三角跨割稀疏化约化为量子枚举和采样](../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · Quantum Algorithms for Triangle Cut Sparsification
 
 <a id="by-scientific-ml"></a>
 

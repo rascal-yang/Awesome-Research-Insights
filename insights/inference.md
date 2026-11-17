@@ -131,6 +131,7 @@
 - [用低位分数预筛可跳过的注意力块](../conferences/icml-2026/cards/1801-1900.md#ji26m-inference) · SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling
 - [把逐句引证核验写成多重检验](../conferences/icml-2026/cards/1901-2000.md#jiang26f-inference) · CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation
 - [按实时请求组合切换异构模型部署](../conferences/icml-2026/cards/1901-2000.md#jiang26k-inference) · OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration
+- [分组件监控和扩缩推理工作组](../conferences/icml-2026/cards/1901-2000.md#jiang26z-inference) · HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling
 
 <a id="by-computer-vision"></a>
 
@@ -201,6 +202,7 @@
 - [把经过正确性验证的查询扩展逐项写回检索键](../conferences/icml-2026/cards/1601-1700.md#hu26ac-inference) · RAG without Forgetting: Continual Query-Infused Key Memory
 - [把晚交互打分蒸馏成可索引相似度](../conferences/icml-2026/cards/1801-1900.md#jaasaari26a-inference) · LEMUR: Learned Multi-Vector Retrieval
 - [用词元后缀路径维护流式 BPE 前沿](../conferences/icml-2026/cards/1901-2000.md#jiang26l-inference) · Incremental BPE Tokenization
+- [把集合奖励编入扩散检索监督](../conferences/icml-2026/cards/1901-2000.md#jiang26aa-inference) · Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion
 
 <a id="by-reinforcement-learning"></a>
 
@@ -279,6 +281,7 @@
 - [按局部刚度自适应扩散求解的时间带宽](../conferences/icml-2026/cards/1701-1800.md#huang26ad-inference) · Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth
 - [向先验动态收缩低置信类别的测试时估计](../conferences/icml-2026/cards/1701-1800.md#huang26ag-inference) · Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction
 - [让流式生成随音频变化调节历史依赖](../conferences/icml-2026/cards/1801-1900.md#ji26h-inference) · DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing
+- [在适配与预测时用同一视图集成](../conferences/icml-2026/cards/1901-2000.md#jiang26ac-inference) · USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning
 
 <a id="by-ml-foundations"></a>
 
@@ -314,6 +317,7 @@
 - [知识图多跳搜索的语义补边](../conferences/icml-2026/cards/1201-1300.md#gao26t-inference) · Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs
 - [按需探查图拓扑的工具推理](../conferences/icml-2026/cards/1301-1400.md#guo26t-inference) · GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs
 - [冻结图网络的后验不确定性证据](../conferences/icml-2026/cards/1301-1400.md#guo26ac-inference) · X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks
+- [用目标图的有标注和无标注节点适配提示](../conferences/icml-2026/cards/1901-2000.md#jiang26al-inference) · GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning
 
 <a id="by-scientific-ml"></a>
 

@@ -48,6 +48,7 @@
 - [在低秩因子空间限制合成权重的谱更新](../conferences/icml-2026/cards/1801-1900.md#janson26a-optimization) · Stabilizing Native Low-Rank LLM Pretraining
 - [把程序搜索历史压缩为可复用的语义差量](../conferences/icml-2026/cards/1901-2000.md#jiang26g-optimization) · DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution
 - [把偏好异质性与通信混合拆进 DPO 收敛](../conferences/icml-2026/cards/1901-2000.md#jiang26h-optimization) · Distributed Direct Preference Optimization
+- [分别对梯度和更新施加软谱裁剪](../conferences/icml-2026/cards/1901-2000.md#jiang26am-optimization) · Enhancing LLM Training via Spectral Clipping
 
 <a id="by-computer-vision"></a>
 
@@ -228,6 +229,7 @@
 - [按噪声与更新频率一起调批量](../conferences/icml-2026/cards/1801-1900.md#islamov26b-optimization) · On the Role of Batch Size in Stochastic Conditional Gradient Methods
 - [用近流形回缩包装自适应优化器](../conferences/icml-2026/cards/1801-1900.md#javaloy26a-optimization) · An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale
 - [在锚图传输子问题中约束簇大小](../conferences/icml-2026/cards/1901-2000.md#jiachen26a-optimization) · SC-FAGC: Size Constrained Fast Anchor Graph Clustering
+- [用公开特征谱重参数化隐私回归](../conferences/icml-2026/cards/1901-2000.md#jiang26w-optimization) · Private Learning with Public Feature Conditioning
 
 <a id="by-graph-and-recommendation"></a>
 

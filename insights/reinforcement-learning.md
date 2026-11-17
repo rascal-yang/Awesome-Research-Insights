@@ -79,6 +79,9 @@
 - [按未来全失败概率校准多次尝试的信用](../conferences/icml-2026/cards/1801-1900.md#ildiz26a-reinforcement-learning) · Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought
 - [把多路推理合成答案用作训练参考](../conferences/icml-2026/cards/1801-1900.md#jayalath26a-reinforcement-learning) · Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision
 - [用置信序列学习扩散词元的揭示时机](../conferences/icml-2026/cards/1801-1900.md#jazbec26a-reinforcement-learning) · Learning Unmasking Policies for Diffusion Language Models
+- [按步骤信息量选择训练采样树分支](../conferences/icml-2026/cards/1901-2000.md#jiang26x-reinforcement-learning) · Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization
+- [在语义意图空间做事后信用分配](../conferences/icml-2026/cards/1901-2000.md#jiang26y-reinforcement-learning) · From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training
+- [用块间熵下降训练扩散推理分段](../conferences/icml-2026/cards/1901-2000.md#jiang26ak-reinforcement-learning) · Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -166,6 +169,7 @@
 - [用主动偏好查询把并行搜索预算移向感兴趣区域](../conferences/icml-2026/cards/1601-1700.md#hu26am-reinforcement-learning) · Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning
 - [在扩展状态中计入偏好切换成本](../conferences/icml-2026/cards/1601-1700.md#hu26bd-reinforcement-learning) · Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion
 - [给 critic 中的策略对数概率加界](../conferences/icml-2026/cards/1801-1900.md#iwaki26a-reinforcement-learning) · Mirror Descent Actor Critic via Bounded Advantage Learning
+- [同时约束参数共识和策略诱发的队列](../conferences/icml-2026/cards/1901-2000.md#jiang26u-reinforcement-learning) · Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>

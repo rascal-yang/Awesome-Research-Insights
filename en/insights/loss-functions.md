@@ -55,6 +55,7 @@ Objectives, auxiliary supervision, and regularization.
 
 - [Continuity-Regularized Flow Matching for Offline Reinforcement Learning](../../conferences/icml-2026/cards/0601-0700.md#chen26ep-loss-functions) · 中文
 - [Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization](../../conferences/icml-2026/cards/1401-1500.md#hassen26a-loss-functions) · 中文
+- [Boosting World Models Learning via Latent-Space Value Alignment](../../conferences/icml-2026/cards/1901-2000.md#jiang26ai-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

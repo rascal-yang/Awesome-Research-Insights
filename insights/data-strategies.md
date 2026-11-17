@@ -101,6 +101,7 @@
 - [界面全量解析监督](../conferences/icml-2026/cards/1401-1500.md#gurbuz26a-data-strategies) · ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision
 - [从参考模型置信度自动构建视觉偏好对](../conferences/icml-2026/cards/1501-1600.md#he26ap-data-strategies) · RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback
 - [用遮罩模型生成无掩膜配音训练对](../conferences/icml-2026/cards/1501-1600.md#he26au-data-strategies) · From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping
+- [把可回放 GUI 探索组织成可复用前缀树](../conferences/icml-2026/cards/1901-2000.md#jiang26p-data-strategies) · TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution
 
 <a id="by-ml-foundations"></a>
 

@@ -335,6 +335,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series](../../conferences/icml-2026/cards/1301-1400.md#guo26d-theory-statistics) · 中文
 - [On the Optimization Trajectory of DeepWalk Embeddings](../../conferences/icml-2026/cards/1401-1500.md#harker26a-theory-statistics) · 中文
 - [Exact and Approximate Algorithms for Polytree Learning](../../conferences/icml-2026/cards/1401-1500.md#harviainen26a-theory-statistics) · 中文
+- [Quantum Algorithms for Triangle Cut Sparsification](../../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

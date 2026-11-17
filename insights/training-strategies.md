@@ -63,6 +63,7 @@
 - [用事后复盘监督时点受限预测](../conferences/icml-2026/cards/1801-1900.md#jajal26a-training-strategies) · Global Merger-Arbitrage Forecasting with Language Models
 - [分开监督推理与证据定位置信度](../conferences/icml-2026/cards/1801-1900.md#jang26a-training-strategies) · Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs
 - [按 MoE 参数组缩放超参数再迁移](../conferences/icml-2026/cards/1901-2000.md#jiang26a-training-strategies) · Hyperparameter Transfer with Mixture-of-Experts Layers
+- [按安全配置改变标签并维护严重度排序](../conferences/icml-2026/cards/1901-2000.md#jiang26v-training-strategies) · Configurable Reward Model for Balanced Safety Alignment
 
 <a id="by-computer-vision"></a>
 
@@ -129,6 +130,9 @@
 - [用合成探针找出微调时应保护的权重](../conferences/icml-2026/cards/1701-1800.md#hwang26g-training-strategies) · Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models
 - [区分冻结模块和多模态 token 的并行开销](../conferences/icml-2026/cards/1801-1900.md#jang26g-training-strategies) · Efficient Distributed MLLM Training with Cornstarch
 - [用新模型的错误重配下一轮训练样本](../conferences/icml-2026/cards/1801-1900.md#jia26c-training-strategies) · From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models
+- [分阶段监督文档结构和细粒度内容](../conferences/icml-2026/cards/1901-2000.md#jiang26q-training-strategies) · Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing
+- [用旧知识激活的零空间初始化新适配器](../conferences/icml-2026/cards/1901-2000.md#jiang26s-training-strategies) · KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls
+- [把 OCR 教师监督和按版面元素的奖励结合](../conferences/icml-2026/cards/1901-2000.md#jiang26ag-training-strategies) · OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning
 
 <a id="by-ml-foundations"></a>
 

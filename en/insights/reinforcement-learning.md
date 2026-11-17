@@ -79,6 +79,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought](../../conferences/icml-2026/cards/1801-1900.md#ildiz26a-reinforcement-learning) · 中文
 - [Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](../../conferences/icml-2026/cards/1801-1900.md#jayalath26a-reinforcement-learning) · 中文
 - [Learning Unmasking Policies for Diffusion Language Models](../../conferences/icml-2026/cards/1801-1900.md#jazbec26a-reinforcement-learning) · 中文
+- [Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26x-reinforcement-learning) · 中文
+- [From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training](../../conferences/icml-2026/cards/1901-2000.md#jiang26y-reinforcement-learning) · 中文
+- [Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ak-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -166,6 +169,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26am-reinforcement-learning) · 中文
 - [Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion](../../conferences/icml-2026/cards/1601-1700.md#hu26bd-reinforcement-learning) · 中文
 - [Mirror Descent Actor Critic via Bounded Advantage Learning](../../conferences/icml-2026/cards/1801-1900.md#iwaki26a-reinforcement-learning) · 中文
+- [Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design](../../conferences/icml-2026/cards/1901-2000.md#jiang26u-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>

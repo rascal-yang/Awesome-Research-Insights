@@ -22,6 +22,7 @@
 
 - <a id="chen26ep-loss-functions"></a>[Continuity-Regularized Flow Matching for Offline Reinforcement Learning](../conferences/icml-2026/cards/0601-0700.md#paper-chen26ep)
 - <a id="hassen26a-loss-functions"></a>[Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization](../conferences/icml-2026/cards/1401-1500.md#paper-hassen26a)
+- <a id="jiang26ai-loss-functions"></a>[Boosting World Models Learning via Latent-Space Value Alignment](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ai)
 
 <a id="by-optimization"></a>
 
@@ -97,6 +98,7 @@
 - <a id="hu26am-reinforcement-learning"></a>[Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning](../conferences/icml-2026/cards/1601-1700.md#paper-hu26am)
 - <a id="hu26bd-reinforcement-learning"></a>[Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion](../conferences/icml-2026/cards/1601-1700.md#paper-hu26bd)
 - <a id="iwaki26a-reinforcement-learning"></a>[Mirror Descent Actor Critic via Bounded Advantage Learning](../conferences/icml-2026/cards/1801-1900.md#paper-iwaki26a)
+- <a id="jiang26u-reinforcement-learning"></a>[Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26u)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>

@@ -131,6 +131,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling](../../conferences/icml-2026/cards/1801-1900.md#ji26m-inference) · 中文
 - [CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation](../../conferences/icml-2026/cards/1901-2000.md#jiang26f-inference) · 中文
 - [OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration](../../conferences/icml-2026/cards/1901-2000.md#jiang26k-inference) · 中文
+- [HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling](../../conferences/icml-2026/cards/1901-2000.md#jiang26z-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -201,6 +202,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [RAG without Forgetting: Continual Query-Infused Key Memory](../../conferences/icml-2026/cards/1601-1700.md#hu26ac-inference) · 中文
 - [LEMUR: Learned Multi-Vector Retrieval](../../conferences/icml-2026/cards/1801-1900.md#jaasaari26a-inference) · 中文
 - [Incremental BPE Tokenization](../../conferences/icml-2026/cards/1901-2000.md#jiang26l-inference) · 中文
+- [Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](../../conferences/icml-2026/cards/1901-2000.md#jiang26aa-inference) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -279,6 +281,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth](../../conferences/icml-2026/cards/1701-1800.md#huang26ad-inference) · 中文
 - [Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](../../conferences/icml-2026/cards/1701-1800.md#huang26ag-inference) · 中文
 - [DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing](../../conferences/icml-2026/cards/1801-1900.md#ji26h-inference) · 中文
+- [USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ac-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -314,6 +317,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](../../conferences/icml-2026/cards/1201-1300.md#gao26t-inference) · 中文
 - [GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](../../conferences/icml-2026/cards/1301-1400.md#guo26t-inference) · 中文
 - [X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](../../conferences/icml-2026/cards/1301-1400.md#guo26ac-inference) · 中文
+- [GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](../../conferences/icml-2026/cards/1901-2000.md#jiang26al-inference) · 中文
 
 <a id="by-scientific-ml"></a>
 

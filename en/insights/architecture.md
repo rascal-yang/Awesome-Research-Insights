@@ -61,6 +61,8 @@ Model-wide design and information flow.
 - [Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories](../../conferences/icml-2026/cards/1801-1900.md#jang26f-architecture) · 中文
 - [Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background](../../conferences/icml-2026/cards/1801-1900.md#javaid26a-architecture) · 中文
 - [CoD-Lite: Real-Time Diffusion-Based Generative Image Compression](../../conferences/icml-2026/cards/1801-1900.md#jia26i-architecture) · 中文
+- [CRAG: Can 3D Generative Models Help 3D Assembly?](../../conferences/icml-2026/cards/1901-2000.md#jiang26ab-architecture) · 中文
+- [Visual Implicit Autoregressive Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiang26ah-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -188,4 +190,6 @@ Model-wide design and information flow.
 - [E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](../../conferences/icml-2026/cards/1701-1800.md#huang26p-architecture) · 中文
 - [Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing](../../conferences/icml-2026/cards/1701-1800.md#huang26am-architecture) · 中文
 - [Foundation Inference Models for Ordinary Differential Equations](../../conferences/icml-2026/cards/1701-1800.md#hubers26a-architecture) · 中文
+- [ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network](../../conferences/icml-2026/cards/1901-2000.md#jiang26r-architecture) · 中文
+- [LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography](../../conferences/icml-2026/cards/1901-2000.md#jiang26ae-architecture) · 中文
 <!-- classification:end -->

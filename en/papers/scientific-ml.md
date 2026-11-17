@@ -45,6 +45,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="huang26p-architecture"></a>[E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26p)
 - <a id="huang26am-architecture"></a>[Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26am)
 - <a id="hubers26a-architecture"></a>[Foundation Inference Models for Ordinary Differential Equations](../../conferences/icml-2026/cards/1701-1800.md#paper-hubers26a)
+- <a id="jiang26r-architecture"></a>[ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26r)
+- <a id="jiang26ae-architecture"></a>[LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ae)
 
 <a id="by-modules"></a>
 
@@ -197,6 +199,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jadhav26a-representation-learning"></a>[PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution](../../conferences/icml-2026/cards/1801-1900.md#paper-jadhav26a)
 - <a id="jankowiak26a-representation-learning"></a>[Flexible Kernels for Protein Property Prediction](../../conferences/icml-2026/cards/1801-1900.md#paper-jankowiak26a)
 - <a id="jia26d-representation-learning"></a>[EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26d)
+- <a id="jiang26ad-representation-learning"></a>[What Makes a Representation Good for Single-Cell Perturbation Prediction?](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ad)
 
 <a id="by-evaluation"></a>
 

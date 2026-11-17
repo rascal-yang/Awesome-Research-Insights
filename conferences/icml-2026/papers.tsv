@@ -1915,30 +1915,30 @@ number	pmlr_id	title	paper_url	insight_status
 1914	jiang26m	Olaf-World: Orienting Latent Actions for Video World Modeling	https://proceedings.mlr.press/v306/jiang26m.html	written
 1915	jiang26n	DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes	https://proceedings.mlr.press/v306/jiang26n.html	written
 1916	jiang26o	Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs	https://proceedings.mlr.press/v306/jiang26o.html	written
-1917	jiang26p	TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution	https://proceedings.mlr.press/v306/jiang26p.html	pending
-1918	jiang26q	Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing	https://proceedings.mlr.press/v306/jiang26q.html	pending
-1919	jiang26r	ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network	https://proceedings.mlr.press/v306/jiang26r.html	pending
-1920	jiang26s	KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls	https://proceedings.mlr.press/v306/jiang26s.html	pending
-1921	jiang26t	MM-Snowball: Evaluating and Mitigating Hallucination Snowballing in Multimodal Multi-Turn Dialogue	https://proceedings.mlr.press/v306/jiang26t.html	pending
-1922	jiang26u	Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design	https://proceedings.mlr.press/v306/jiang26u.html	pending
-1923	jiang26v	Configurable Reward Model for Balanced Safety Alignment	https://proceedings.mlr.press/v306/jiang26v.html	pending
-1924	jiang26w	Private Learning with Public Feature Conditioning	https://proceedings.mlr.press/v306/jiang26w.html	pending
-1925	jiang26x	Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization	https://proceedings.mlr.press/v306/jiang26x.html	pending
-1926	jiang26y	From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training	https://proceedings.mlr.press/v306/jiang26y.html	pending
-1927	jiang26z	HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling	https://proceedings.mlr.press/v306/jiang26z.html	pending
-1928	jiang26aa	Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion	https://proceedings.mlr.press/v306/jiang26aa.html	pending
-1929	jiang26ab	CRAG: Can 3D Generative Models Help 3D Assembly?	https://proceedings.mlr.press/v306/jiang26ab.html	pending
-1930	jiang26ac	USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning	https://proceedings.mlr.press/v306/jiang26ac.html	pending
-1931	jiang26ad	What Makes a Representation Good for Single-Cell Perturbation Prediction?	https://proceedings.mlr.press/v306/jiang26ad.html	pending
-1932	jiang26ae	LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography	https://proceedings.mlr.press/v306/jiang26ae.html	pending
-1933	jiang26af	Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability	https://proceedings.mlr.press/v306/jiang26af.html	pending
-1934	jiang26ag	OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning	https://proceedings.mlr.press/v306/jiang26ag.html	pending
-1935	jiang26ah	Visual Implicit Autoregressive Modeling	https://proceedings.mlr.press/v306/jiang26ah.html	pending
-1936	jiang26ai	Boosting World Models Learning via Latent-Space Value Alignment	https://proceedings.mlr.press/v306/jiang26ai.html	pending
-1937	jiang26aj	Quantum Algorithms for Triangle Cut Sparsification	https://proceedings.mlr.press/v306/jiang26aj.html	pending
-1938	jiang26ak	Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning	https://proceedings.mlr.press/v306/jiang26ak.html	pending
-1939	jiang26al	GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning	https://proceedings.mlr.press/v306/jiang26al.html	pending
-1940	jiang26am	Enhancing LLM Training via Spectral Clipping	https://proceedings.mlr.press/v306/jiang26am.html	pending
+1917	jiang26p	TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution	https://proceedings.mlr.press/v306/jiang26p.html	written
+1918	jiang26q	Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing	https://proceedings.mlr.press/v306/jiang26q.html	written
+1919	jiang26r	ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network	https://proceedings.mlr.press/v306/jiang26r.html	written
+1920	jiang26s	KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls	https://proceedings.mlr.press/v306/jiang26s.html	written
+1921	jiang26t	MM-Snowball: Evaluating and Mitigating Hallucination Snowballing in Multimodal Multi-Turn Dialogue	https://proceedings.mlr.press/v306/jiang26t.html	written
+1922	jiang26u	Secure Multi-agent Reinforcement Learning for Service Systems with Affinity and Byzantine Nodes: Stability Analysis and Protection Design	https://proceedings.mlr.press/v306/jiang26u.html	written
+1923	jiang26v	Configurable Reward Model for Balanced Safety Alignment	https://proceedings.mlr.press/v306/jiang26v.html	written
+1924	jiang26w	Private Learning with Public Feature Conditioning	https://proceedings.mlr.press/v306/jiang26w.html	written
+1925	jiang26x	Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization	https://proceedings.mlr.press/v306/jiang26x.html	written
+1926	jiang26y	From Outcomes to Actions: Leveraging Hindsight for Long-Horizon Language Agent Training	https://proceedings.mlr.press/v306/jiang26y.html	written
+1927	jiang26z	HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling	https://proceedings.mlr.press/v306/jiang26z.html	written
+1928	jiang26aa	Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion	https://proceedings.mlr.press/v306/jiang26aa.html	written
+1929	jiang26ab	CRAG: Can 3D Generative Models Help 3D Assembly?	https://proceedings.mlr.press/v306/jiang26ab.html	written
+1930	jiang26ac	USE: A Unified Self-Ensembling Framework for Test-Time Prompt Tuning	https://proceedings.mlr.press/v306/jiang26ac.html	written
+1931	jiang26ad	What Makes a Representation Good for Single-Cell Perturbation Prediction?	https://proceedings.mlr.press/v306/jiang26ad.html	written
+1932	jiang26ae	LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography	https://proceedings.mlr.press/v306/jiang26ae.html	written
+1933	jiang26af	Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability	https://proceedings.mlr.press/v306/jiang26af.html	written
+1934	jiang26ag	OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning	https://proceedings.mlr.press/v306/jiang26ag.html	written
+1935	jiang26ah	Visual Implicit Autoregressive Modeling	https://proceedings.mlr.press/v306/jiang26ah.html	written
+1936	jiang26ai	Boosting World Models Learning via Latent-Space Value Alignment	https://proceedings.mlr.press/v306/jiang26ai.html	written
+1937	jiang26aj	Quantum Algorithms for Triangle Cut Sparsification	https://proceedings.mlr.press/v306/jiang26aj.html	written
+1938	jiang26ak	Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning	https://proceedings.mlr.press/v306/jiang26ak.html	written
+1939	jiang26al	GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning	https://proceedings.mlr.press/v306/jiang26al.html	written
+1940	jiang26am	Enhancing LLM Training via Spectral Clipping	https://proceedings.mlr.press/v306/jiang26am.html	written
 1941	jiang26an	Efficient Transformer Attention for SNNs via Hadamard Simplification	https://proceedings.mlr.press/v306/jiang26an.html	pending
 1942	jiang26ao	Transformed Latent Variable Multi-Output Gaussian Processes	https://proceedings.mlr.press/v306/jiang26ao.html	pending
 1943	jiang26ap	Procedural Pretraining: Warming Up Language Models with Abstract Data	https://proceedings.mlr.press/v306/jiang26ap.html	pending

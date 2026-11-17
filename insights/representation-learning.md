@@ -168,4 +168,5 @@
 - [在固定正交模态系数中做概率超分](../conferences/icml-2026/cards/1801-1900.md#jadhav26a-representation-learning) · PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution
 - [用进化替换相关性构造小数据蛋白核](../conferences/icml-2026/cards/1801-1900.md#jankowiak26a-representation-learning) · Flexible Kernels for Protein Property Prediction
 - [让 EEG 专家按样本贡献表征](../conferences/icml-2026/cards/1801-1900.md#jia26d-representation-learning) · EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models
+- [把稀疏扰动响应与稳态基因表达分块](../conferences/icml-2026/cards/1901-2000.md#jiang26ad-representation-learning) · What Makes a Representation Good for Single-Cell Perturbation Prediction?
 <!-- classification:end -->
