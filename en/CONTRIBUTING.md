@@ -23,6 +23,8 @@ When the main contribution is applying existing methods to a new task or dataset
 
 Name the specific contribution and how someone could reuse it. Routine reporting across several metrics, combinations of existing components, scores from a single setup, and hypothetical transfer alone do not qualify. For new mechanisms and approaches, verify that the paper specifies a design that can be used independently. For findings and failure lessons, cite the supporting evidence, the conditions it applies to, and the decision it can inform.
 
+Keep one representative card per reusable mechanism. Compare the key operations, assumptions, and evidence in the papers. Choose the source that explains the mechanism and its applicable conditions most clearly. A paper using the same mechanism on another task, dataset, or backbone qualifies for its own card if it introduces an independently reusable change or verifies a different boundary of applicability. Record the representative paper ID in the screening reason when excluding a duplicate.
+
 ## Add or revise a card
 
 1. Search by paper title and identifier. When a preprint and proceedings paper describe the same work, update the sources in its existing card.

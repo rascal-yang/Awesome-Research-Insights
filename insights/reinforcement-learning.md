@@ -66,9 +66,9 @@
 - [按成功率给困难提示非对称权重](../conferences/icml-2026/cards/1501-1600.md#heckel26a-reinforcement-learning) · Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards
 - [奖励检索提高正确答案语义类的信念](../conferences/icml-2026/cards/1601-1700.md#hu26l-reinforcement-learning) · Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward
 - [按题目与当前策略估计合适的推理长度](../conferences/icml-2026/cards/1601-1700.md#hu26v-reinforcement-learning) · SmartThinker: Progressive Chain-of-Thought Length Calibration for Efficient Large Language Model Reasoning
-- [分开归一化扩散并行速度与正确性奖励](../conferences/icml-2026/cards/1601-1700.md#hu26y-reinforcement-learning) · LightningRL: Breaking the Accuracy–Parallelism Trade-off of Block-wise dLLMs via Reinforcement Learning
+- [用正确轨迹监督和速度筛选训练并行解码](../conferences/icml-2026/cards/1601-1700.md#hu26y-reinforcement-learning) · LightningRL: Breaking the Accuracy–Parallelism Trade-off of Block-wise dLLMs via Reinforcement Learning
 - [训练饱和后把预算从更多步转向同题更广探索](../conferences/icml-2026/cards/1601-1700.md#hu26ah-reinforcement-learning) · BroRL: Scaling Reinforcement Learning via Broadened Exploration
-- [分别分配探索与执行的强化学习信用](../conferences/icml-2026/cards/1601-1700.md#hua26c-reinforcement-learning) · Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization
+- [按环境状态和访问次数分组估计探索优势](../conferences/icml-2026/cards/1601-1700.md#hua26c-reinforcement-learning) · Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization
 - [从示范随机接续以混合模仿和探索](../conferences/icml-2026/cards/1601-1700.md#huang26g-reinforcement-learning) · Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling
 - [在自博弈对齐中分开优势排序与循环偏好](../conferences/icml-2026/cards/1701-1800.md#huang26ac-reinforcement-learning) · Transitivity Meets Cyclicity: Explicit Preference Decomposition for Dynamic Large Language Model Alignment
 - [用自然出现的结束标记采样简洁推理](../conferences/icml-2026/cards/1701-1800.md#huang26bn-reinforcement-learning) · Does Your Reasoning Model Implicitly Know When to Stop Thinking?
@@ -370,7 +370,7 @@
 - [用第二轮重述验证第一轮推理是否自足](../conferences/icml-2026/cards/1401-1500.md#he26e-reinforcement-learning) · DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models
 - [让视频扩散 GRPO 的组内样本共享同一个时间步](../conferences/icml-2026/cards/1501-1600.md#he26j-reinforcement-learning) · Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization
 - [把分割掩码反馈给下一轮定位](../conferences/icml-2026/cards/1501-1600.md#he26av-reinforcement-learning) · RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation
-- [为同奖惩组保留正确的优势方向](../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · Faithful Mobile GUI Agents with Guided Advantage Estimator
+- [按奖励方差调节组优势的幂指数](../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · Faithful Mobile GUI Agents with Guided Advantage Estimator
 - [用最小证据补丁修复观察后再做策略更新](../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · Find, Fix, Reason: Context Repair for Video Reasoning
 - [将生成反馈拆成可验证的具体问题](../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward
 - [用熵维持训练时的视觉查证路径多样性](../conferences/icml-2026/cards/2101-2200.md#kim26bs-reinforcement-learning) · Diversity Over Frequency: Rethinking Tool Use in Visual Chain-of-Thought Agents

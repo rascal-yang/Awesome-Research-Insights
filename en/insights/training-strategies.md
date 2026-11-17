@@ -258,7 +258,6 @@ Training schedules, curricula, and task or stage composition.
 - [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](../../conferences/icml-2026/cards/1801-1900.md#jia26c-training-strategies) · 中文
 - [Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing](../../conferences/icml-2026/cards/1901-2000.md#jiang26q-training-strategies) · 中文
 - [KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls](../../conferences/icml-2026/cards/1901-2000.md#jiang26s-training-strategies) · 中文
-- [OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ag-training-strategies) · 中文
 - [Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26c-training-strategies) · 中文
 - [FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](../../conferences/icml-2026/cards/2001-2100.md#karim26a-training-strategies) · 中文
 - [ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation](../../conferences/icml-2026/cards/2101-2200.md#kong26h-training-strategies) · 中文

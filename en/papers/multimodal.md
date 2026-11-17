@@ -190,7 +190,6 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="jia26c-training-strategies"></a>[From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26c)
 - <a id="jiang26q-training-strategies"></a>[Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26q)
 - <a id="jiang26s-training-strategies"></a>[KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26s)
-- <a id="jiang26ag-training-strategies"></a>[OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ag)
 - <a id="kang26c-training-strategies"></a>[Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26c)
 - <a id="karim26a-training-strategies"></a>[FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](../../conferences/icml-2026/cards/2001-2100.md#paper-karim26a)
 - <a id="kong26h-training-strategies"></a>[ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26h)

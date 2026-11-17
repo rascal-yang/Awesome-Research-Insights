@@ -258,7 +258,6 @@
 - [用新模型的错误重配下一轮训练样本](../conferences/icml-2026/cards/1801-1900.md#jia26c-training-strategies) · From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models
 - [分阶段监督文档结构和细粒度内容](../conferences/icml-2026/cards/1901-2000.md#jiang26q-training-strategies) · Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing
 - [用旧知识激活的零空间初始化新适配器](../conferences/icml-2026/cards/1901-2000.md#jiang26s-training-strategies) · KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls
-- [把 OCR 教师监督和按版面元素的奖励结合](../conferences/icml-2026/cards/1901-2000.md#jiang26ag-training-strategies) · OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning
 - [按任务相似度降权检查基础能力遗忘](../conferences/icml-2026/cards/2001-2100.md#kang26c-training-strategies) · Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning
 - [先校正视觉注意再用 IoU 细化定位](../conferences/icml-2026/cards/2001-2100.md#karim26a-training-strategies) · FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization
 - [图文生成的持续跨模态对齐](../conferences/icml-2026/cards/2101-2200.md#kong26h-training-strategies) · ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation
