@@ -121,6 +121,7 @@
 - <a id="align-action-features-with-latent-actions"></a><a id="latent-action-alignment"></a>[用潜动作监督动作专家的中间层](../conferences/icml-2026/cards/2801-2900.md#liu26bl-loss-functions) · LARA: Latent Action Representation Alignment for Vision-Language-Action Models
 - [回报校验的残差正则门控](../conferences/icml-2026/cards/4301-4400.md#sun26al-loss-functions) · From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning
 - [multiview-latent-actions](../conferences/icml-2026/cards/4501-4600.md#wan26f-loss-functions) · Multi-view Consistent Latent Action Learning for World Modeling and Control
+- [Temporal Straightening for Latent Planning](../conferences/icml-2026/cards/4501-4600.md#wang26n-loss-functions) · Temporal Straightening for Latent Planning
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[用目标区域重建做辅助监督](../papers/reconvla.md#reconvla-loss-functions) · ReconVLA
 
 <a id="by-multimodal"></a>

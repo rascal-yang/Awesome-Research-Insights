@@ -217,6 +217,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="qiao26e-data-strategies"></a>[Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets](../../conferences/icml-2026/cards/3701-3800.md#paper-qiao26e)
 - <a id="qing26a-data-strategies"></a>[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qing26a)
 - <a id="schmahling26a-data-strategies"></a>[Trajectory-Level Data Augmentation for Offline Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#paper-schmahling26a)
+- <a id="wang26s-data-strategies"></a>[Reward-Preserving Counterfactual State Editing for Offline Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26s)
 
 <a id="by-inference"></a>
 

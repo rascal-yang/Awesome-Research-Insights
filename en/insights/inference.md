@@ -313,6 +313,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling](../../conferences/icml-2026/cards/4501-4600.md#tu26c-inference) · 中文
 - [FPTQuant: Function-Preserving Transforms for LLM Quantization](../../conferences/icml-2026/cards/4501-4600.md#van-breugel26a-inference) · 中文
 - [The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](../../conferences/icml-2026/cards/4501-4600.md#wan26p-inference) · 中文
+- [ProphetKV: User-Query-Driven Selective Recomputation for Efficient KV Cache Reuse in Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4601-4700.md#wang26y-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -599,6 +600,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models](../../conferences/icml-2026/cards/4401-4500.md#tong26f-inference) · 中文
 - [RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](../../conferences/icml-2026/cards/4501-4600.md#wan26d-inference) · 中文
 - [ActiveScope: Actively Seeking and Correcting Perception for MLLMs](../../conferences/icml-2026/cards/4501-4600.md#wang26h-inference) · 中文
+- [Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../../conferences/icml-2026/cards/4601-4700.md#wang26ac-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

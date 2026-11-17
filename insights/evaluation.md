@@ -328,6 +328,8 @@
 - [以可执行适配程序的码长比较任务复杂度](../conferences/icml-2026/cards/4501-4600.md#vergara-browne26a-evaluation) · Operationalising the Superficial Alignment Hypothesis via Task Complexity
 - [reward-bias-search](../conferences/icml-2026/cards/4501-4600.md#wang26b-evaluation) · Automatically Finding Reward Model Biases
 - [research-claim-rediscovery](../conferences/icml-2026/cards/4501-4600.md#wang26d-evaluation) · FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights
+- [Automatic Layer Selection for Hallucination Detection](../conferences/icml-2026/cards/4501-4600.md#wang26r-evaluation) · Automatic Layer Selection for Hallucination Detection
+- [AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../conferences/icml-2026/cards/4601-4700.md#wang26ab-evaluation) · AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition
 
 <a id="by-computer-vision"></a>
 

@@ -310,6 +310,7 @@
 - [让邻居只对兼容的潜变量达成共识](../conferences/icml-2026/cards/3901-4000.md#seely26a-architecture) · Learning Multi-Agent Coordination via Sheaf-ADMM
 - [用低秩全局混合替代昂贵谱传播](../conferences/icml-2026/cards/4101-4200.md#shi26t-architecture) · S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning
 - [归一化步信息的递归图更新](../conferences/icml-2026/cards/4201-4300.md#sun26e-architecture) · Adaptive Recurrent Message Passing for Test Time Computing on Graphs
+- [Full-Spectrum Graph Neural Networks: Expressive and Scalable](../conferences/icml-2026/cards/4501-4600.md#wang26m-architecture) · Full-Spectrum Graph Neural Networks: Expressive and Scalable
 
 <a id="by-scientific-ml"></a>
 

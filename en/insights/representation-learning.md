@@ -86,6 +86,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](../../conferences/icml-2026/cards/4401-4500.md#tong26g-representation-learning) · 中文
 - [Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings](../../conferences/icml-2026/cards/4501-4600.md#turan26b-representation-learning) · 中文
 - [Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning](../../conferences/icml-2026/cards/4501-4600.md#vemuri26a-representation-learning) · 中文
+- [DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../../conferences/icml-2026/cards/4501-4600.md#wang26l-representation-learning) · 中文
+- [DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26aa-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

@@ -121,6 +121,7 @@ Objectives, auxiliary supervision, and regularization.
 - <a id="align-action-features-with-latent-actions"></a><a id="latent-action-alignment"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../../conferences/icml-2026/cards/2801-2900.md#liu26bl-loss-functions) · 中文
 - [From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning](../../conferences/icml-2026/cards/4301-4400.md#sun26al-loss-functions) · 中文
 - [Multi-view Consistent Latent Action Learning for World Modeling and Control](../../conferences/icml-2026/cards/4501-4600.md#wan26f-loss-functions) · 中文
+- [Temporal Straightening for Latent Planning](../../conferences/icml-2026/cards/4501-4600.md#wang26n-loss-functions) · 中文
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[ReconVLA](../../papers/reconvla.md#reconvla-loss-functions) · 中文
 
 <a id="by-multimodal"></a>

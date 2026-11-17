@@ -86,6 +86,8 @@
 - [因果属性与文本槽位对齐](../conferences/icml-2026/cards/4401-4500.md#tong26g-representation-learning) · Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation
 - [concept-space-prover-verifier](../conferences/icml-2026/cards/4501-4600.md#turan26b-representation-learning) · Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings
 - [按概念格粒度监督网络中间层](../conferences/icml-2026/cards/4501-4600.md#vemuri26a-representation-learning) · Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning
+- [DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../conferences/icml-2026/cards/4501-4600.md#wang26l-representation-learning) · DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation
+- [DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../conferences/icml-2026/cards/4601-4700.md#wang26aa-representation-learning) · DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning
 
 <a id="by-nlp"></a>
 

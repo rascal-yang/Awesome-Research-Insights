@@ -80,6 +80,7 @@
 - [surprisal-boundary-knowledge-editing](../conferences/icml-2026/cards/4401-4500.md#tian26e-data-strategies) · AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise
 - [预训练AI叙事改变行为先验](../conferences/icml-2026/cards/4401-4500.md#tice26a-data-strategies) · Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment
 - [hidden-state-trust-filtering](../conferences/icml-2026/cards/4501-4600.md#uzunoglu26a-data-strategies) · Trust Functions: Near-Lossless Weak-to-Strong Generalization by Learning When to Trust the Weak Teacher
+- [DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning](../conferences/icml-2026/cards/4601-4700.md#wang26w-data-strategies) · DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -126,6 +127,7 @@
 - [按动力学模式赋值的跨域离线强化学习](../conferences/icml-2026/cards/3701-3800.md#qiao26e-data-strategies) · Unifying Value Alignment and Assignment in Cross-Domain Offline Reinforcement Learning with Heterogeneous Datasets
 - [以同一状态拼接来路和去路](../conferences/icml-2026/cards/3701-3800.md#qing26a-data-strategies) · BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning
 - [用可核验轨迹捷径增加离线转移](../conferences/icml-2026/cards/3901-4000.md#schmahling26a-data-strategies) · Trajectory-Level Data Augmentation for Offline Reinforcement Learning
+- [Reward-Preserving Counterfactual State Editing for Offline Reinforcement Learning](../conferences/icml-2026/cards/4601-4700.md#wang26s-data-strategies) · Reward-Preserving Counterfactual State Editing for Offline Reinforcement Learning
 
 <a id="by-robotics"></a>
 

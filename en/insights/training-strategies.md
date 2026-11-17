@@ -138,6 +138,7 @@ Training schedules, curricula, and task or stage composition.
 - [ProactiveLLM: Learning Active Interaction for Streaming Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tong26n-training-strategies) · 中文
 - [Efficient DP-SGD for LLMs with Randomized Clipping](../../conferences/icml-2026/cards/4501-4600.md#ullah26a-training-strategies) · 中文
 - [Mitigating Conversational Inertia in Multi-Turn Agents](../../conferences/icml-2026/cards/4501-4600.md#wan26a-training-strategies) · 中文
+- [When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../../conferences/icml-2026/cards/4501-4600.md#wang26j-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -311,6 +312,7 @@ Training schedules, curricula, and task or stage composition.
 - [Beyond Language Modeling: An Exploration of Multimodal Pretraining](../../conferences/icml-2026/cards/4401-4500.md#tong26c-training-strategies) · 中文
 - [Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm](../../conferences/icml-2026/cards/4401-4500.md#tran26e-training-strategies) · 中文
 - [Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning](../../conferences/icml-2026/cards/4501-4600.md#wang26e-training-strategies) · 中文
+- [Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../../conferences/icml-2026/cards/4601-4700.md#wang26u-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -469,6 +469,8 @@
 - <a id="tong26g-representation-learning"></a>[Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](../conferences/icml-2026/cards/4401-4500.md#paper-tong26g)
 - <a id="turan26b-representation-learning"></a>[Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings](../conferences/icml-2026/cards/4501-4600.md#paper-turan26b)
 - <a id="vemuri26a-representation-learning"></a>[Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning](../conferences/icml-2026/cards/4501-4600.md#paper-vemuri26a)
+- <a id="wang26l-representation-learning"></a>[DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation](../conferences/icml-2026/cards/4501-4600.md#paper-wang26l)
+- <a id="wang26aa-representation-learning"></a>[DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26aa)
 
 <a id="by-evaluation"></a>
 

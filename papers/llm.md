@@ -241,6 +241,7 @@
 - <a id="tu26b-optimization"></a>[Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models](../conferences/icml-2026/cards/4501-4600.md#paper-tu26b)
 - <a id="tuo26a-optimization"></a>[SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot](../conferences/icml-2026/cards/4501-4600.md#paper-tuo26a)
 - <a id="vashisht26a-optimization"></a>[Faster Query-Key Learning Sharpens Attention in Self-Attention Models](../conferences/icml-2026/cards/4501-4600.md#paper-vashisht26a)
+- <a id="wang26z-optimization"></a>[CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26z)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -406,6 +407,7 @@
 - <a id="tang26h-reinforcement-learning"></a>[Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression](../conferences/icml-2026/cards/4301-4400.md#paper-tang26h)
 - <a id="tang26n-reinforcement-learning"></a>[The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization](../conferences/icml-2026/cards/4301-4400.md#paper-tang26n)
 - <a id="vijayvargiya26a-reinforcement-learning"></a>[Asking What Matters: Reward-Driven Clarification for Software Engineering Tasks](../conferences/icml-2026/cards/4501-4600.md#paper-vijayvargiya26a)
+- <a id="wang26x-reinforcement-learning"></a>[Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction](../conferences/icml-2026/cards/4601-4700.md#paper-wang26x)
 
 <a id="by-training-strategies"></a>
 
@@ -536,6 +538,7 @@
 - <a id="tong26n-training-strategies"></a>[ProactiveLLM: Learning Active Interaction for Streaming Large Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tong26n)
 - <a id="ullah26a-training-strategies"></a>[Efficient DP-SGD for LLMs with Randomized Clipping](../conferences/icml-2026/cards/4501-4600.md#paper-ullah26a)
 - <a id="wan26a-training-strategies"></a>[Mitigating Conversational Inertia in Multi-Turn Agents](../conferences/icml-2026/cards/4501-4600.md#paper-wan26a)
+- <a id="wang26j-training-strategies"></a>[When RL Meets Adaptive Speculative Training: A Unified Training-Serving System](../conferences/icml-2026/cards/4501-4600.md#paper-wang26j)
 
 <a id="by-data-strategies"></a>
 
@@ -608,6 +611,7 @@
 - <a id="tian26e-data-strategies"></a>[AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](../conferences/icml-2026/cards/4401-4500.md#paper-tian26e)
 - <a id="tice26a-data-strategies"></a>[Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment](../conferences/icml-2026/cards/4401-4500.md#paper-tice26a)
 - <a id="uzunoglu26a-data-strategies"></a>[Trust Functions: Near-Lossless Weak-to-Strong Generalization by Learning When to Trust the Weak Teacher](../conferences/icml-2026/cards/4501-4600.md#paper-uzunoglu26a)
+- <a id="wang26w-data-strategies"></a>[DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26w)
 
 <a id="by-inference"></a>
 
@@ -913,6 +917,7 @@
 - <a id="tu26c-inference"></a>[DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling](../conferences/icml-2026/cards/4501-4600.md#paper-tu26c)
 - <a id="van-breugel26a-inference"></a>[FPTQuant: Function-Preserving Transforms for LLM Quantization](../conferences/icml-2026/cards/4501-4600.md#paper-van-breugel26a)
 - <a id="wan26p-inference"></a>[The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](../conferences/icml-2026/cards/4501-4600.md#paper-wan26p)
+- <a id="wang26y-inference"></a>[ProphetKV: User-Query-Driven Selective Recomputation for Efficient KV Cache Reuse in Retrieval-Augmented Generation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26y)
 
 <a id="by-representation-learning"></a>
 
@@ -1253,6 +1258,8 @@
 - <a id="vergara-browne26a-evaluation"></a>[Operationalising the Superficial Alignment Hypothesis via Task Complexity](../conferences/icml-2026/cards/4501-4600.md#paper-vergara-browne26a)
 - <a id="wang26b-evaluation"></a>[Automatically Finding Reward Model Biases](../conferences/icml-2026/cards/4501-4600.md#paper-wang26b)
 - <a id="wang26d-evaluation"></a>[FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights](../conferences/icml-2026/cards/4501-4600.md#paper-wang26d)
+- <a id="wang26r-evaluation"></a>[Automatic Layer Selection for Hallucination Detection](../conferences/icml-2026/cards/4501-4600.md#paper-wang26r)
+- <a id="wang26ab-evaluation"></a>[AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ab)
 
 <a id="by-theory-statistics"></a>
 

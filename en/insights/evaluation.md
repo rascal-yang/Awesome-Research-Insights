@@ -328,6 +328,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Operationalising the Superficial Alignment Hypothesis via Task Complexity](../../conferences/icml-2026/cards/4501-4600.md#vergara-browne26a-evaluation) · 中文
 - [Automatically Finding Reward Model Biases](../../conferences/icml-2026/cards/4501-4600.md#wang26b-evaluation) · 中文
 - [FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights](../../conferences/icml-2026/cards/4501-4600.md#wang26d-evaluation) · 中文
+- [Automatic Layer Selection for Hallucination Detection](../../conferences/icml-2026/cards/4501-4600.md#wang26r-evaluation) · 中文
+- [AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../../conferences/icml-2026/cards/4601-4700.md#wang26ab-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

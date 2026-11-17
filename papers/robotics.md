@@ -60,6 +60,7 @@
 - <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl)
 - <a id="sun26al-loss-functions"></a>[From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning](../conferences/icml-2026/cards/4301-4400.md#paper-sun26al)
 - <a id="wan26f-loss-functions"></a>[Multi-view Consistent Latent Action Learning for World Modeling and Control](../conferences/icml-2026/cards/4501-4600.md#paper-wan26f)
+- <a id="wang26n-loss-functions"></a>[Temporal Straightening for Latent Planning](../conferences/icml-2026/cards/4501-4600.md#paper-wang26n)
 - <a id="reconvla-loss-functions"></a><a id="reconvla-modules"></a>[ReconVLA](reconvla.md#paper-reconvla)
 
 <a id="by-optimization"></a>

@@ -4590,26 +4590,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4589	wang26g	3	4	4	3	70		噪声窗口选择及前向激活跨时间复用是具体增量，单组件控制展示精度质量取舍；PCA/RFM和steering来源成熟（PDF4–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26g/wang26g.pdf	scored
 4590	wang26h	4	4	4	3	77		目标特定的拒绝区域attention边屏蔽超出普通crop搜索，多目标控制给出机制证据；适配要求和自验证偏差限制复用（PDF3–6）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26h/wang26h.pdf	scored
 4591	wang26i	4	4	4	4	80		score缩放提供独立decoder调节操作，和原DiffC相比新增同码率DP轴；Gaussian/逐维/渐近条件与真实图像启发式明确区分（PDF3–7）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26i/wang26i.pdf	scored
-4592	wang26j							待原文复核评分	pending
-4593	wang26k							待原文复核评分	pending
-4594	wang26l							待原文复核评分	pending
-4595	wang26m							待原文复核评分	pending
-4596	wang26n							待原文复核评分	pending
-4597	wang26o							待原文复核评分	pending
-4598	wang26p							待原文复核评分	pending
-4599	wang26q							待原文复核评分	pending
-4600	wang26r							待原文复核评分	pending
-4601	wang26s							待原文复核评分	pending
-4602	wang26t							待原文复核评分	pending
-4603	wang26u							待原文复核评分	pending
-4604	wang26v							待原文复核评分	pending
-4605	wang26w							待原文复核评分	pending
-4606	wang26x							待原文复核评分	pending
-4607	wang26y							待原文复核评分	pending
-4608	wang26z							待原文复核评分	pending
-4609	wang26aa							待原文复核评分	pending
-4610	wang26ab							待原文复核评分	pending
-4611	wang26ac							待原文复核评分	pending
+4592	wang26j	3	4	4	3	70		在线草稿适配先用接受token监督；拒绝分支的额外收益取决于lookahead留下的接受长度提升空间。 适用边界：图未列精确差值；在线学习用额外GPU；小batch收益更大，接受率不能单独代表端到端收益。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26j/wang26j.pdf	scored
+4593	wang26k							PDF4–6/8按已知审计漏洞搭建检测、修复、执行评测；定位提示揭示发现瓶颈，但仅该精选小样本审计流程，未验证可独立推广的代理设计或新的检测机制；不以智能体安全应用本身收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26k/wang26k.pdf	rule-excluded
+4594	wang26l	4	4	4	4	80		将多视角身份匹配作为多随机张量上的投影扩散，每步去噪后恢复多边缘约束，再三角化定位。 适用边界：需要标定相机、检测热图和伪标签；边缘约束保证匹配可行性，不保证几何正确；剪枝可能丢失真匹配。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26l/wang26l.pdf	scored
+4595	wang26m	4	4	4	4	80		用特征值对的双变量滤波保留跨特征空间耦合，以低秩可分离多项式实现避免显式节点对计算。 适用边界：低秩近似和滤波表达力制约实际能力；通用性针对节点对信号及论文条件，不等于任意图同构区分。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26m/wang26m.pdf	scored
+4596	wang26n	3	5	4	4	79		在同一JEPA规划器中隔离测试潜轨迹直线化；其收益依赖表征与任务，不能把余弦损失自动解释成全局良态动力学。 适用边界：条件数界依赖线性A近I、B及可控子空间和有限horizon；余弦直线化不直接保证这些条件；stop-gradient不能严格排除塌缩。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26n/wang26n.pdf	scored
+4597	wang26o							PDF4–5方法由VISTA3D分割统计、CT-CLIP局部相似度、器官mask排序、记忆及迭代选片组成；已有工具与ReAct式证据循环的3D医疗编排，未隔离超出既有检索/工具调用的独立机制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26o/wang26o.pdf	rule-excluded
+4598	wang26p							PDF4–5的平方根球面/Fisher-Rao重建与MDS距离应力项组合用于概率factorization；先例Hellinger-NMF（Yuan/Oja）及isoNMF（Vasiloglou等2009）已分别提供统计差异目标和几何保持分解。完整PDF1–20未见同分解器上FR重建/MDS逐项消融，无法隔离联合目标超出既有几何NMF的新可复用贡献；等距仅固定非重叠映射成立，不能把实际重叠因子的效果当一般等距新规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26p/wang26p.pdf	rule-excluded
+4599	wang26q							PDF3–6将已有层次遗传搜索、精英与轮盘选择用于黑盒推理成本压力测试；PDF7–8主要为响应长度与迁移指标，未形成独立的防御机制或有控制的新泛化边界。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26q/wang26q.pdf	rule-excluded
+4600	wang26r	3	4	4	3	70		无标签选探针层时使用内在维度的首个有效峰，避免末端词汇峰；回答首句末token可减少结束噪声。 适用边界：首句含答案是经验前提；深层词汇解释为假说；选择准则无标签不代表下游探针免监督。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26r/wang26r.pdf	scored
+4601	wang26s	4	4	4	4	80		离线序列策略可只编辑观测token并保留动作奖励，通过局部奖励模型与移动幅度门限验收，不伪造后继转移。 适用边界：奖励误差界是局部模型精度δ加验收ε，非因果识别或动力学有效性保证；架构与数据联合贡献需区分。保持当前奖励不保证原动作仍最优或整段轨迹动力学一致；位移半径不保证落在真实状态流形。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26s/wang26s.pdf	scored
+4602	wang26t							PDF4–5新增操作是异构聚类代表拼接后用query-softmax加权回分发；FEC原文Eq4–7已有pool初始化、代表聚合和回分发（https://arxiv.org/html/2403.17409）；本文Eq11–13为标准字典cross-attention，新增量主要为已有聚类集成。PDF8表4/6虽有组合及线性融合对照，未单独证明超出常规ensemble/token mixing的新操作或可可靠迁移的规律，不能以跑分保留。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26t/wang26t.pdf	rule-excluded
+4603	wang26u	3	4	4	3	70		对高分辨率证据搜索先注入领域文本QA，再训练视觉工具策略；通过pass@1与固定预算pass@32区分可达性和采样效率。 适用边界：仅遥感领域受控证据；pass@32为固定采样预算的可达性代理，非模型能力上界；文本数量等成本并非所有比较完全匹配。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26u/wang26u.pdf	scored
+4604	wang26v							PDF3–4明确BIN并行heads适配Gloeckle2024，FAST为已有标准MTP辅助训练；PDF7表3为上述机制机器人任务验证，加速反转直接来自并行预测替代长自回归，未提取超出既有方法的新机制或独立边界。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26v/wang26v.pdf	rule-excluded
+4605	wang26w	4	5	4	4	86		GRPO过采样后保留多数最短与少数有效最长轨迹，使组内奖励基线抑制冗长失败，同时保留必要长推理。 适用边界：采样改变训练分布，短长奖励排序仅为启发性分析；不是所有任务性能无损；冗余生成成本需系统profile。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26w/wang26w.pdf	scored
+4606	wang26x	3	5	4	3	76		把隐式过程奖励聚合到整轮后用softmax分配终局奖励，保持总奖励尺度并减少token级归因噪声。 适用边界：需要额外PRM和用户模拟器；softmax归因不是因果证明；终奖为零时该分配所有轮皆零，温度控制集中程度。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26x/wang26x.pdf	scored
+4607	wang26y	3	4	4	3	70		新增量3：query-aware及跨层统计已有先例，新增为query-only全层评分后统一token修复；复用4：适用独立chunk缓存重组；可用4：Eq7与双pass明确，PDF15有同设置层策略控制；独特3：比A3浅层代理有可证增量，但平均融合易替代且未做完整CacheFocus修复改造比较。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26y/wang26y.pdf	scored
+4608	wang26z	4	5	4	4	86		从零阶标量反馈累积局部曲率分数，以平方根分数分配稀疏扰动概率，并按集中度自适应预算。 适用边界：代理曲率非完整Hessian，忽略参数耦合；理论最优概率以真实Fisher为条件，实用plug-in不等价全局最优。分数含采样频率和共享梯度能量项，不是无偏Fisher/Hessian对角估计；有限差分仍有O(ε²)偏差。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26z/wang26z.pdf	scored
+4609	wang26aa	3	4	4	3	70		类别扩展时用离散锚选择性蒸馏，新增类别分配特征块时主动避开最易混淆旧类。 适用边界：依赖类别增量及可识别原型；块支撑有限，混淆错误可能误导分配；不同backbone和数据上并非统一优势。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26aa/wang26aa.pdf	scored
+4610	wang26ab	3	4	4	3	70		工具代理鲁棒性应按噪声来源和注入阶段拆测；强推理分数不可靠地预测工具故障下成功率。 适用边界：模型比较非严格配对因果实验；中段脆弱性的机制解释是假说；不能把场景内经验视为所有代理的普遍定律。可解性由生成/审核协议约束而非形式证明；轨迹全程有效的门控会排除中途偏离后恢复的成功，需与最终任务成功率分开解读。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ab/wang26ab.pdf	scored
+4611	wang26ac	3	4	4	3	70		安全校准可只在prefill早层对高风险视觉token注入语言风险原型方向，减少全token修改带来的效用损失。 适用边界：需模型内部视觉token与层访问、风险词原型及阈值；保留语义是实验观察而非严格保证；未证明对未见自适应攻击通用。；四维评分按相对最近方法的新增量、可迁移范围、操作条件及独特性评定。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ac/wang26ac.pdf	scored
 4612	wang26ad							待原文复核评分	pending
 4613	wang26ae							待原文复核评分	pending
 4614	wang26af							待原文复核评分	pending

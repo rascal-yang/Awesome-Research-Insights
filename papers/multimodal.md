@@ -233,6 +233,7 @@
 - <a id="tong26c-training-strategies"></a>[Beyond Language Modeling: An Exploration of Multimodal Pretraining](../conferences/icml-2026/cards/4401-4500.md#paper-tong26c)
 - <a id="tran26e-training-strategies"></a>[Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm](../conferences/icml-2026/cards/4401-4500.md#paper-tran26e)
 - <a id="wang26e-training-strategies"></a>[Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning](../conferences/icml-2026/cards/4501-4600.md#paper-wang26e)
+- <a id="wang26u-training-strategies"></a>[Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../conferences/icml-2026/cards/4601-4700.md#paper-wang26u)
 
 <a id="by-data-strategies"></a>
 
@@ -353,6 +354,7 @@
 - <a id="tong26f-inference"></a>[Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tong26f)
 - <a id="wan26d-inference"></a>[RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](../conferences/icml-2026/cards/4501-4600.md#paper-wan26d)
 - <a id="wang26h-inference"></a>[ActiveScope: Actively Seeking and Correcting Perception for MLLMs](../conferences/icml-2026/cards/4501-4600.md#paper-wang26h)
+- <a id="wang26ac-inference"></a>[Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ac)
 
 <a id="by-representation-learning"></a>
 

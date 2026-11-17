@@ -96,6 +96,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models](../../conferences/icml-2026/cards/4501-4600.md#tu26b-optimization) · 中文
 - [SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot](../../conferences/icml-2026/cards/4501-4600.md#tuo26a-optimization) · 中文
 - [Faster Query-Key Learning Sharpens Attention in Self-Attention Models](../../conferences/icml-2026/cards/4501-4600.md#vashisht26a-optimization) · 中文
+- [CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#wang26z-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 

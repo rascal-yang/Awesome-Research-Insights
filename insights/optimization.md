@@ -96,6 +96,7 @@
 - [analytic-plus-learned-binary-scaling](../conferences/icml-2026/cards/4501-4600.md#tu26b-optimization) · Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models
 - [time-shared-ssm-pruning](../conferences/icml-2026/cards/4501-4600.md#tuo26a-optimization) · SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot
 - [QK与OV相对学习速度控制注意力](../conferences/icml-2026/cards/4501-4600.md#vashisht26a-optimization) · Faster Query-Key Learning Sharpens Attention in Self-Attention Models
+- [CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#wang26z-optimization) · CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning
 
 <a id="by-computer-vision"></a>
 
