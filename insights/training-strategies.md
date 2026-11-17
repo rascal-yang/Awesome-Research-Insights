@@ -93,6 +93,8 @@
 - [让规划和执行一致度参与代理训练样本加权](../conferences/icml-2026/cards/2801-2900.md#liu26az-training-strategies) · CoPE: A Framework for Optimizing Coordination between Planning and Execution in LLM-based Agents
 - [在冷启动时限制专家令牌的概率跃升](../conferences/icml-2026/cards/2801-2900.md#liu26bm-training-strategies) · Clipping Low-Probability Tokens in SFT Yields a Generalizable Initialization for RL
 - [按共同字符区间稀疏对齐跨词表蒸馏](../conferences/icml-2026/cards/2801-2900.md#liu26bw-training-strategies) · Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation
+- [融合预测与上下文的潜变量推理](../conferences/icml-2026/cards/2801-2900.md#liu26cv-training-strategies) · Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens
+- [混合中训衔接通用预训练与专域后训练](../conferences/icml-2026/cards/2801-2900.md#liu26cz-training-strategies) · Midtraining Bridges Pretraining and Posttraining Distributions
 
 <a id="by-computer-vision"></a>
 
@@ -148,6 +150,7 @@
 - [以合成数据监督锚抑制属性奖励投机](../conferences/icml-2026/cards/1601-1700.md#hu26an-training-strategies) · ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control
 - [用对话答复构造改写偏好](../conferences/icml-2026/cards/2101-2200.md#kim26ak-training-strategies) · Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages
 - [用同语义跨时间的文档构造检索偏好](../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · Temporal Preference Optimization for Unsupervised Retrieval
+- [跨语种回答分布的一致性对齐](../conferences/icml-2026/cards/2801-2900.md#liu26dd-training-strategies) · Post-Training Language Models for Crosslingual Consistency
 
 <a id="by-reinforcement-learning"></a>
 

@@ -225,6 +225,7 @@
 - [用模型答题记录推估人类完成任务的时间](../conferences/icml-2026/cards/2801-2900.md#liu26ai-evaluation) · BRIDGE: Predicting Human Task Completion Time From Model Performance
 - [深层表达式的递归凸性验证](../conferences/icml-2026/cards/2801-2900.md#liu26bg-evaluation) · ConvexBench: Can LLMs Recognize Convex Functions?
 - [真实 LoRA 回收的等数据对照](../conferences/icml-2026/cards/2801-2900.md#liu26bh-evaluation) · The Appeal and Reality of Recycling LoRAs with Adaptive Merging
+- [基于修复前后测试的主动缺陷发现](../conferences/icml-2026/cards/2801-2900.md#liu26ct-evaluation) · TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation
 
 <a id="by-computer-vision"></a>
 
@@ -475,4 +476,8 @@
 - [分开评测光变曲线嵌入的类簇、分类和稀有源检索](../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars
 - [分层诊断健康信号推理能力](../conferences/icml-2026/cards/2601-2700.md#li26hr-evaluation) · HEARTS: Benchmarking LLM Reasoning on Health Time Series
 - [区分 RNA 表征复用与优化初始化](../conferences/icml-2026/cards/2601-2700.md#li26if-evaluation) · Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks
+- [生物实验流程的可溯源评测](../conferences/icml-2026/cards/2801-2900.md#liu26cu-evaluation) · BioProBench: A Corpus and Benchmark for Biological Protocol Reasoning in Autonomous Science
+- [生物安全能力的自动评分与实证校验](../conferences/icml-2026/cards/2801-2900.md#liu26cy-evaluation) · ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity
+- [用键长扫描的势能面平滑度指导原子势架构](../conferences/icml-2026/cards/2801-2900.md#liu26df-evaluation) · From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures
+- [同时测蛋白结合体设计的验证口径、产量和结构多样性](../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation
 <!-- classification:end -->

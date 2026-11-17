@@ -426,6 +426,7 @@
 - [用单个参考模型后验估计隐私风险](../conferences/icml-2026/cards/2801-2900.md#liu26bo-theory-statistics) · How does Bayesian Sampling help Membership Inference Attacks?
 - [沿活动集更新追踪共形阈值](../conferences/icml-2026/cards/2801-2900.md#liu26bq-theory-statistics) · SpeedCP: Fast Kernel-based Conditional Conformal Prediction
 - [从处理的局部边界找因果调整变量](../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions
+- [用灵敏度等距的混合高斯减少标量 DP 噪声](../conferences/icml-2026/cards/2801-2900.md#liu26dk-theory-statistics) · Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy
 
 <a id="by-graph-and-recommendation"></a>
 

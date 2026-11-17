@@ -30,6 +30,7 @@
 - <a id="lin26ab-architecture"></a>[MSP: Probabilistically Consistent Multi-Scale Action Generation](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ab)
 - <a id="liu26bf-architecture"></a>[GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bf)
 - <a id="liu26ch-architecture"></a>[LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ch)
+- <a id="liu26db-architecture"></a>[Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26db)
 
 <a id="by-modules"></a>
 

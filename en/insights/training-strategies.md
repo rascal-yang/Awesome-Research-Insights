@@ -93,6 +93,8 @@ Training schedules, curricula, and task or stage composition.
 - [CoPE: A Framework for Optimizing Coordination between Planning and Execution in LLM-based Agents](../../conferences/icml-2026/cards/2801-2900.md#liu26az-training-strategies) · 中文
 - [Clipping Low-Probability Tokens in SFT Yields a Generalizable Initialization for RL](../../conferences/icml-2026/cards/2801-2900.md#liu26bm-training-strategies) · 中文
 - [Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation](../../conferences/icml-2026/cards/2801-2900.md#liu26bw-training-strategies) · 中文
+- [Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](../../conferences/icml-2026/cards/2801-2900.md#liu26cv-training-strategies) · 中文
+- [Midtraining Bridges Pretraining and Posttraining Distributions](../../conferences/icml-2026/cards/2801-2900.md#liu26cz-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -148,6 +150,7 @@ Training schedules, curricula, and task or stage composition.
 - [ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control](../../conferences/icml-2026/cards/1601-1700.md#hu26an-training-strategies) · 中文
 - [Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages](../../conferences/icml-2026/cards/2101-2200.md#kim26ak-training-strategies) · 中文
 - [Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · 中文
+- [Post-Training Language Models for Crosslingual Consistency](../../conferences/icml-2026/cards/2801-2900.md#liu26dd-training-strategies) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

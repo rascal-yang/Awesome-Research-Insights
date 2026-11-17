@@ -76,6 +76,7 @@
 - [将零阶扰动限制在输入激活张成的子空间](../conferences/icml-2026/cards/2701-2800.md#lin26n-optimization) · AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning
 - [从首编辑层前向传播兼容的知识编辑目标](../conferences/icml-2026/cards/2801-2900.md#liu26ax-optimization) · From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing
 - [先选功能因子再生成架构搜索补丁](../conferences/icml-2026/cards/2801-2900.md#liu26cm-optimization) · Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search
+- [窄域微调退化的谱方向诊断](../conferences/icml-2026/cards/2801-2900.md#liu26cs-optimization) · The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation
 
 <a id="by-computer-vision"></a>
 
@@ -101,6 +102,7 @@
 - [按感受野位置调节三维大卷积核的梯度](../conferences/icml-2026/cards/2301-2400.md#lee26as-optimization) · Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization
 - [按视觉生成轨迹初始化稀疏专家](../conferences/icml-2026/cards/2501-2600.md#li26gy-optimization) · Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation
 - [沿损失障碍修正的参数路径选择合并点](../conferences/icml-2026/cards/2701-2800.md#lin26o-optimization) · Unlocking the Potential of Continual Model Merging: An ODE Perspective
+- [在任务向量合并前降低目标子群敏感性](../conferences/icml-2026/cards/2801-2900.md#liu26dl-optimization) · FairMerging: Rethinking Model Merging through the Lens of Fairness
 
 <a id="by-nlp"></a>
 

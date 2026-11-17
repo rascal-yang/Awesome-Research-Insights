@@ -150,6 +150,7 @@
 - [用单调学习曲线和预期缺口决定采集量](../conferences/icml-2026/cards/2301-2400.md#lee26af-data-strategies) · Monotonic Variational Gaussian Process for Efficient Data Collection
 - [梯度筛查与特征校正的噪声标签净化](../conferences/icml-2026/cards/2401-2500.md#li26cr-data-strategies) · GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception
 - [用预测相关性奖励训练少样本表格生成器](../conferences/icml-2026/cards/2701-2800.md#lin26p-data-strategies) · ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning
+- [用小波最优输运边际影响给时序片段估值](../conferences/icml-2026/cards/2801-2900.md#liu26dh-data-strategies) · TimeLAVA: Learning-Agnostic Valuation for Time Series Data
 
 <a id="by-graph-and-recommendation"></a>
 

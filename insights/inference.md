@@ -198,6 +198,9 @@
 - [分别估计思考、答案与一致性后路由](../conferences/icml-2026/cards/2801-2900.md#liu26cj-inference) · Causal Dependency-Aware Unsupervised Routing for Large Reasoning Models
 - [用可编译执行图和背压控制推理流水线](../conferences/icml-2026/cards/2801-2900.md#liu26co-inference) · SAGE: A Dataflow-Native Framework for Modular, Controllable, and Transparent LLM-Augmented Reasoning
 - [从注意力汇重分配权重以锐化图邻接证据](../conferences/icml-2026/cards/2801-2900.md#liu26cq-inference) · SLASH the Sink: Sharpening Structural Attention Inside LLMs
+- [长上下文解码的低比特扫描与融合](../conferences/icml-2026/cards/2801-2900.md#liu26da-inference) · Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding
+- [语言模型输出几何的单次幻觉检测](../conferences/icml-2026/cards/2801-2900.md#liu26dc-inference) · From Out-of-Distribution Detection to Hallucination Detection: A Geometric View
+- [以无限预算多数票为目标分配测试推理轨迹](../conferences/icml-2026/cards/2801-2900.md#liu26dg-inference) · PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency
 
 <a id="by-computer-vision"></a>
 

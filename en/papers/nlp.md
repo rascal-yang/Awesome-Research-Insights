@@ -55,6 +55,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="hu26an-training-strategies"></a>[ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26an)
 - <a id="kim26ak-training-strategies"></a>[Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ak)
 - <a id="kim26bm-training-strategies"></a>[Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bm)
+- <a id="liu26dd-training-strategies"></a>[Post-Training Language Models for Crosslingual Consistency](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dd)
 
 <a id="by-data-strategies"></a>
 

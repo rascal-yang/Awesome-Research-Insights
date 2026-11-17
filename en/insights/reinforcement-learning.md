@@ -117,6 +117,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering](../../conferences/icml-2026/cards/2701-2800.md#liu26i-reinforcement-learning) · 中文
 - [Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](../../conferences/icml-2026/cards/2701-2800.md#liu26k-reinforcement-learning) · 中文
 - [Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](../../conferences/icml-2026/cards/2801-2900.md#liu26bn-reinforcement-learning) · 中文
+- [On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](../../conferences/icml-2026/cards/2801-2900.md#liu26de-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

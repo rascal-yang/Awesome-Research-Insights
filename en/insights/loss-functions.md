@@ -33,6 +33,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](../../conferences/icml-2026/cards/2501-2600.md#li26ew-loss-functions) · 中文
 - [Task-Aware Preference Calibration for Direct Preference Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26jp-loss-functions) · 中文
 - [Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](../../conferences/icml-2026/cards/2801-2900.md#liu26cf-loss-functions) · 中文
+- [ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26dp-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -168,4 +169,5 @@ Objectives, auxiliary supervision, and regularization.
 - [From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale](../../conferences/icml-2026/cards/1901-2000.md#jin26k-loss-functions) · 中文
 - [PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials](../../conferences/icml-2026/cards/2101-2200.md#koker26a-loss-functions) · 中文
 - [Bias-Spectrum Neural Processes for Parametric PDEs: Architecture Priors Meet PDE Constraints](../../conferences/icml-2026/cards/2501-2600.md#li26dg-loss-functions) · 中文
+- [Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation](../../conferences/icml-2026/cards/2801-2900.md#liu26dm-loss-functions) · 中文
 <!-- classification:end -->

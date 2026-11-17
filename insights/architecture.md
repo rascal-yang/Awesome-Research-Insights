@@ -45,6 +45,7 @@
 - [让代理生成任务拓扑并用层级图保留上下文](../conferences/icml-2026/cards/2501-2600.md#li26gk-architecture) · OpenSage: Self-programming Agent Generation Engine
 - [让位置编码随上下文依赖重新排布](../conferences/icml-2026/cards/2601-2700.md#li26jq-architecture) · RePo: Language Models with Context Re-Positioning
 - [在数据代理任务图上局部重配失败分支](../conferences/icml-2026/cards/2801-2900.md#liu26at-architecture) · $R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration
+- [残差流分叉的并行潜空间计算](../conferences/icml-2026/cards/2801-2900.md#liu26cx-architecture) · Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space
 
 <a id="by-computer-vision"></a>
 
@@ -90,6 +91,8 @@
 - [共享波段前缀并连续查询空间分辨率](../conferences/icml-2026/cards/2601-2700.md#liang26c-architecture) · Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism
 - [把静态墨迹转成少步脉冲并压缩空白](../conferences/icml-2026/cards/2601-2700.md#liang26j-architecture) · Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition
 - [在世界坐标分开编辑人物轨迹和动作](../conferences/icml-2026/cards/2701-2800.md#liang26ad-architecture) · RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space
+- [任意几何先验的前馈三维重建](../conferences/icml-2026/cards/2801-2900.md#liu26cw-architecture) · WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting
+- [将二维旋转位置编码扩展到均匀斜向投影](../conferences/icml-2026/cards/2801-2900.md#liu26dj-architecture) · Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane
 
 <a id="by-nlp"></a>
 
@@ -132,6 +135,7 @@
 - [长时机器人动作的连续粗到细生成](../conferences/icml-2026/cards/2701-2800.md#lin26ab-architecture) · MSP: Probabilistically Consistent Multi-Scale Action Generation
 - [稀疏三维路点与可复用动作专家](../conferences/icml-2026/cards/2801-2900.md#liu26bf-architecture) · GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert
 - [用低频潜在时空推理支持高频机器人控制](../conferences/icml-2026/cards/2801-2900.md#liu26ch-architecture) · LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model
+- [观察条件作为动作扩散桥端点](../conferences/icml-2026/cards/2801-2900.md#liu26db-architecture) · Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation
 
 <a id="by-multimodal"></a>
 
@@ -198,6 +202,8 @@
 - [用不同分数奇异度的输入投影分工记忆远近信息](../conferences/icml-2026/cards/2401-2500.md#li26cx-architecture) · FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences
 - [用共享矩阵多项式推广状态空间对偶](../conferences/icml-2026/cards/2501-2600.md#li26ft-architecture) · MIMOMamba: From Scalar Duality to Matrix-Valued Attention
 - [将 KV 绑定测试时训练改写成线性注意力扫描](../conferences/icml-2026/cards/2801-2900.md#liu26ae-architecture) · Test-Time Training with KV Binding Is Secretly Linear Attention
+- [先拆分时序成分再生成未来的动态相位](../conferences/icml-2026/cards/2801-2900.md#liu26dn-architecture) · PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting
+- [用少量普通 LIF 反馈回路提供长期记忆](../conferences/icml-2026/cards/2801-2900.md#liu26do-architecture) · LIF Recurrent Memory Enables Long-Horizon Spiking Computation
 
 <a id="by-graph-and-recommendation"></a>
 

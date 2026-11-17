@@ -45,6 +45,7 @@
 - <a id="li26gk-architecture"></a>[OpenSage: Self-programming Agent Generation Engine](../conferences/icml-2026/cards/2501-2600.md#paper-li26gk)
 - <a id="li26jq-architecture"></a>[RePo: Language Models with Context Re-Positioning](../conferences/icml-2026/cards/2601-2700.md#paper-li26jq)
 - <a id="liu26at-architecture"></a>[$R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration](../conferences/icml-2026/cards/2801-2900.md#paper-liu26at)
+- <a id="liu26cx-architecture"></a>[Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cx)
 
 <a id="by-modules"></a>
 
@@ -106,6 +107,7 @@
 - <a id="li26ew-loss-functions"></a>[Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](../conferences/icml-2026/cards/2501-2600.md#paper-li26ew)
 - <a id="li26jp-loss-functions"></a>[Task-Aware Preference Calibration for Direct Preference Optimization](../conferences/icml-2026/cards/2601-2700.md#paper-li26jp)
 - <a id="liu26cf-loss-functions"></a>[Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cf)
+- <a id="liu26dp-loss-functions"></a>[ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dp)
 
 <a id="by-optimization"></a>
 
@@ -174,6 +176,7 @@
 - <a id="lin26n-optimization"></a>[AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning](../conferences/icml-2026/cards/2701-2800.md#paper-lin26n)
 - <a id="liu26ax-optimization"></a>[From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ax)
 - <a id="liu26cm-optimization"></a>[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cm)
+- <a id="liu26cs-optimization"></a>[The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cs)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -283,6 +286,7 @@
 - <a id="liu26i-reinforcement-learning"></a>[ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering](../conferences/icml-2026/cards/2701-2800.md#paper-liu26i)
 - <a id="liu26k-reinforcement-learning"></a>[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](../conferences/icml-2026/cards/2701-2800.md#paper-liu26k)
 - <a id="liu26bn-reinforcement-learning"></a>[Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bn)
+- <a id="liu26de-reinforcement-learning"></a>[On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](../conferences/icml-2026/cards/2801-2900.md#paper-liu26de)
 
 <a id="by-training-strategies"></a>
 
@@ -368,6 +372,8 @@
 - <a id="liu26az-training-strategies"></a>[CoPE: A Framework for Optimizing Coordination between Planning and Execution in LLM-based Agents](../conferences/icml-2026/cards/2801-2900.md#paper-liu26az)
 - <a id="liu26bm-training-strategies"></a>[Clipping Low-Probability Tokens in SFT Yields a Generalizable Initialization for RL](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bm)
 - <a id="liu26bw-training-strategies"></a>[Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bw)
+- <a id="liu26cv-training-strategies"></a>[Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cv)
+- <a id="liu26cz-training-strategies"></a>[Midtraining Bridges Pretraining and Posttraining Distributions](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cz)
 
 <a id="by-data-strategies"></a>
 
@@ -600,6 +606,9 @@
 - <a id="liu26cj-inference"></a>[Causal Dependency-Aware Unsupervised Routing for Large Reasoning Models](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cj)
 - <a id="liu26co-inference"></a>[SAGE: A Dataflow-Native Framework for Modular, Controllable, and Transparent LLM-Augmented Reasoning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26co)
 - <a id="liu26cq-inference"></a>[SLASH the Sink: Sharpening Structural Attention Inside LLMs](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cq)
+- <a id="liu26da-inference"></a>[Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding](../conferences/icml-2026/cards/2801-2900.md#paper-liu26da)
+- <a id="liu26dc-inference"></a>[From Out-of-Distribution Detection to Hallucination Detection: A Geometric View](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dc)
+- <a id="liu26dg-inference"></a>[PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dg)
 
 <a id="by-representation-learning"></a>
 
@@ -829,6 +838,7 @@
 - <a id="liu26ai-evaluation"></a>[BRIDGE: Predicting Human Task Completion Time From Model Performance](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ai)
 - <a id="liu26bg-evaluation"></a>[ConvexBench: Can LLMs Recognize Convex Functions?](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bg)
 - <a id="liu26bh-evaluation"></a>[The Appeal and Reality of Recycling LoRAs with Adaptive Merging](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bh)
+- <a id="liu26ct-evaluation"></a>[TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ct)
 
 <a id="by-theory-statistics"></a>
 

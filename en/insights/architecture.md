@@ -45,6 +45,7 @@ Model-wide design and information flow.
 - [OpenSage: Self-programming Agent Generation Engine](../../conferences/icml-2026/cards/2501-2600.md#li26gk-architecture) · 中文
 - [RePo: Language Models with Context Re-Positioning](../../conferences/icml-2026/cards/2601-2700.md#li26jq-architecture) · 中文
 - [$R^3$DAO: Reactive Recovery and Reconstruction for Long-horizon Data Agent Orchestration](../../conferences/icml-2026/cards/2801-2900.md#liu26at-architecture) · 中文
+- [Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space](../../conferences/icml-2026/cards/2801-2900.md#liu26cx-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -90,6 +91,8 @@ Model-wide design and information flow.
 - [Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism](../../conferences/icml-2026/cards/2601-2700.md#liang26c-architecture) · 中文
 - [Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition](../../conferences/icml-2026/cards/2601-2700.md#liang26j-architecture) · 中文
 - [RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space](../../conferences/icml-2026/cards/2701-2800.md#liang26ad-architecture) · 中文
+- [WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](../../conferences/icml-2026/cards/2801-2900.md#liu26cw-architecture) · 中文
+- [Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane](../../conferences/icml-2026/cards/2801-2900.md#liu26dj-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -132,6 +135,7 @@ Model-wide design and information flow.
 - [MSP: Probabilistically Consistent Multi-Scale Action Generation](../../conferences/icml-2026/cards/2701-2800.md#lin26ab-architecture) · 中文
 - [GAE: Unleashing Physical Potential of VLM with Generalizable Action Expert](../../conferences/icml-2026/cards/2801-2900.md#liu26bf-architecture) · 中文
 - [LaST$_0$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](../../conferences/icml-2026/cards/2801-2900.md#liu26ch-architecture) · 中文
+- [Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation](../../conferences/icml-2026/cards/2801-2900.md#liu26db-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -198,6 +202,8 @@ Model-wide design and information flow.
 - [FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences](../../conferences/icml-2026/cards/2401-2500.md#li26cx-architecture) · 中文
 - [MIMOMamba: From Scalar Duality to Matrix-Valued Attention](../../conferences/icml-2026/cards/2501-2600.md#li26ft-architecture) · 中文
 - [Test-Time Training with KV Binding Is Secretly Linear Attention](../../conferences/icml-2026/cards/2801-2900.md#liu26ae-architecture) · 中文
+- [PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](../../conferences/icml-2026/cards/2801-2900.md#liu26dn-architecture) · 中文
+- [LIF Recurrent Memory Enables Long-Horizon Spiking Computation](../../conferences/icml-2026/cards/2801-2900.md#liu26do-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -2875,30 +2875,30 @@ number	pmlr_id	title	paper_url	insight_status
 2874	liu26cp	Rethinking Feature Alignment in Generalist Graph Anomaly Detection: A Relational Fingerprint-based Approach	https://proceedings.mlr.press/v306/liu26cp.html	written
 2875	liu26cq	SLASH the Sink: Sharpening Structural Attention Inside LLMs	https://proceedings.mlr.press/v306/liu26cq.html	written
 2876	liu26cr	Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense	https://proceedings.mlr.press/v306/liu26cr.html	written
-2877	liu26cs	The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation	https://proceedings.mlr.press/v306/liu26cs.html	pending
-2878	liu26ct	TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation	https://proceedings.mlr.press/v306/liu26ct.html	pending
-2879	liu26cu	BioProBench: A Corpus and Benchmark for Biological Protocol Reasoning in Autonomous Science	https://proceedings.mlr.press/v306/liu26cu.html	pending
-2880	liu26cv	Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens	https://proceedings.mlr.press/v306/liu26cv.html	pending
-2881	liu26cw	WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting	https://proceedings.mlr.press/v306/liu26cw.html	pending
-2882	liu26cx	Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space	https://proceedings.mlr.press/v306/liu26cx.html	pending
-2883	liu26cy	ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity	https://proceedings.mlr.press/v306/liu26cy.html	pending
-2884	liu26cz	Midtraining Bridges Pretraining and Posttraining Distributions	https://proceedings.mlr.press/v306/liu26cz.html	pending
-2885	liu26da	Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding	https://proceedings.mlr.press/v306/liu26da.html	pending
-2886	liu26db	Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation	https://proceedings.mlr.press/v306/liu26db.html	pending
-2887	liu26dc	From Out-of-Distribution Detection to Hallucination Detection: A Geometric View	https://proceedings.mlr.press/v306/liu26dc.html	pending
-2888	liu26dd	Post-Training Language Models for Crosslingual Consistency	https://proceedings.mlr.press/v306/liu26dd.html	pending
-2889	liu26de	On Effectiveness and Efficiency of Agentic Tool-calling and RL Training	https://proceedings.mlr.press/v306/liu26de.html	pending
-2890	liu26df	From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures	https://proceedings.mlr.press/v306/liu26df.html	pending
-2891	liu26dg	PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency	https://proceedings.mlr.press/v306/liu26dg.html	pending
-2892	liu26dh	TimeLAVA: Learning-Agnostic Valuation for Time Series Data	https://proceedings.mlr.press/v306/liu26dh.html	pending
-2893	liu26di	ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation	https://proceedings.mlr.press/v306/liu26di.html	pending
-2894	liu26dj	Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane	https://proceedings.mlr.press/v306/liu26dj.html	pending
-2895	liu26dk	Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy	https://proceedings.mlr.press/v306/liu26dk.html	pending
-2896	liu26dl	FairMerging: Rethinking Model Merging through the Lens of Fairness	https://proceedings.mlr.press/v306/liu26dl.html	pending
-2897	liu26dm	Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation	https://proceedings.mlr.press/v306/liu26dm.html	pending
-2898	liu26dn	PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting	https://proceedings.mlr.press/v306/liu26dn.html	pending
-2899	liu26do	LIF Recurrent Memory Enables Long-Horizon Spiking Computation	https://proceedings.mlr.press/v306/liu26do.html	pending
-2900	liu26dp	ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning	https://proceedings.mlr.press/v306/liu26dp.html	pending
+2877	liu26cs	The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation	https://proceedings.mlr.press/v306/liu26cs.html	written
+2878	liu26ct	TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation	https://proceedings.mlr.press/v306/liu26ct.html	written
+2879	liu26cu	BioProBench: A Corpus and Benchmark for Biological Protocol Reasoning in Autonomous Science	https://proceedings.mlr.press/v306/liu26cu.html	written
+2880	liu26cv	Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens	https://proceedings.mlr.press/v306/liu26cv.html	written
+2881	liu26cw	WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting	https://proceedings.mlr.press/v306/liu26cw.html	written
+2882	liu26cx	Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space	https://proceedings.mlr.press/v306/liu26cx.html	written
+2883	liu26cy	ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity	https://proceedings.mlr.press/v306/liu26cy.html	written
+2884	liu26cz	Midtraining Bridges Pretraining and Posttraining Distributions	https://proceedings.mlr.press/v306/liu26cz.html	written
+2885	liu26da	Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding	https://proceedings.mlr.press/v306/liu26da.html	written
+2886	liu26db	Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation	https://proceedings.mlr.press/v306/liu26db.html	written
+2887	liu26dc	From Out-of-Distribution Detection to Hallucination Detection: A Geometric View	https://proceedings.mlr.press/v306/liu26dc.html	written
+2888	liu26dd	Post-Training Language Models for Crosslingual Consistency	https://proceedings.mlr.press/v306/liu26dd.html	written
+2889	liu26de	On Effectiveness and Efficiency of Agentic Tool-calling and RL Training	https://proceedings.mlr.press/v306/liu26de.html	written
+2890	liu26df	From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures	https://proceedings.mlr.press/v306/liu26df.html	written
+2891	liu26dg	PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency	https://proceedings.mlr.press/v306/liu26dg.html	written
+2892	liu26dh	TimeLAVA: Learning-Agnostic Valuation for Time Series Data	https://proceedings.mlr.press/v306/liu26dh.html	written
+2893	liu26di	ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation	https://proceedings.mlr.press/v306/liu26di.html	written
+2894	liu26dj	Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane	https://proceedings.mlr.press/v306/liu26dj.html	written
+2895	liu26dk	Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy	https://proceedings.mlr.press/v306/liu26dk.html	written
+2896	liu26dl	FairMerging: Rethinking Model Merging through the Lens of Fairness	https://proceedings.mlr.press/v306/liu26dl.html	written
+2897	liu26dm	Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation	https://proceedings.mlr.press/v306/liu26dm.html	written
+2898	liu26dn	PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting	https://proceedings.mlr.press/v306/liu26dn.html	written
+2899	liu26do	LIF Recurrent Memory Enables Long-Horizon Spiking Computation	https://proceedings.mlr.press/v306/liu26do.html	written
+2900	liu26dp	ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning	https://proceedings.mlr.press/v306/liu26dp.html	written
 2901	liu26dq	Hyperbolic Multimodal Continual Learning	https://proceedings.mlr.press/v306/liu26dq.html	pending
 2902	liu26dr	XPERT: Expert Knowledge Transfer for Effective Training of Language Models	https://proceedings.mlr.press/v306/liu26dr.html	pending
 2903	liu26ds	SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning	https://proceedings.mlr.press/v306/liu26ds.html	pending

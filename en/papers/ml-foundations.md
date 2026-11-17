@@ -48,6 +48,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26cx-architecture"></a>[FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cx)
 - <a id="li26ft-architecture"></a>[MIMOMamba: From Scalar Duality to Matrix-Valued Attention](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ft)
 - <a id="liu26ae-architecture"></a>[Test-Time Training with KV Binding Is Secretly Linear Attention](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ae)
+- <a id="liu26dn-architecture"></a>[PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dn)
+- <a id="liu26do-architecture"></a>[LIF Recurrent Memory Enables Long-Horizon Spiking Computation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26do)
 
 <a id="by-modules"></a>
 
@@ -370,6 +372,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lee26af-data-strategies"></a>[Monotonic Variational Gaussian Process for Efficient Data Collection](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26af)
 - <a id="li26cr-data-strategies"></a>[GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cr)
 - <a id="lin26p-data-strategies"></a>[ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26p)
+- <a id="liu26dh-data-strategies"></a>[TimeLAVA: Learning-Agnostic Valuation for Time Series Data](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dh)
 
 <a id="by-inference"></a>
 
@@ -780,4 +783,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="liu26bo-theory-statistics"></a>[How does Bayesian Sampling help Membership Inference Attacks?](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bo)
 - <a id="liu26bq-theory-statistics"></a>[SpeedCP: Fast Kernel-based Conditional Conformal Prediction](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bq)
 - <a id="liu26ca-theory-statistics"></a>[Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ca)
+- <a id="liu26dk-theory-statistics"></a>[Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dk)
 <!-- classification:end -->

@@ -150,6 +150,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Monotonic Variational Gaussian Process for Efficient Data Collection](../../conferences/icml-2026/cards/2301-2400.md#lee26af-data-strategies) · 中文
 - [GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cr-data-strategies) · 中文
 - [ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26p-data-strategies) · 中文
+- [TimeLAVA: Learning-Agnostic Valuation for Time Series Data](../../conferences/icml-2026/cards/2801-2900.md#liu26dh-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

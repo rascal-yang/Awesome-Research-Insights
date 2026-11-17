@@ -225,6 +225,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [BRIDGE: Predicting Human Task Completion Time From Model Performance](../../conferences/icml-2026/cards/2801-2900.md#liu26ai-evaluation) · 中文
 - [ConvexBench: Can LLMs Recognize Convex Functions?](../../conferences/icml-2026/cards/2801-2900.md#liu26bg-evaluation) · 中文
 - [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](../../conferences/icml-2026/cards/2801-2900.md#liu26bh-evaluation) · 中文
+- [TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation](../../conferences/icml-2026/cards/2801-2900.md#liu26ct-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -475,4 +476,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · 中文
 - [HEARTS: Benchmarking LLM Reasoning on Health Time Series](../../conferences/icml-2026/cards/2601-2700.md#li26hr-evaluation) · 中文
 - [Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks](../../conferences/icml-2026/cards/2601-2700.md#li26if-evaluation) · 中文
+- [BioProBench: A Corpus and Benchmark for Biological Protocol Reasoning in Autonomous Science](../../conferences/icml-2026/cards/2801-2900.md#liu26cu-evaluation) · 中文
+- [ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](../../conferences/icml-2026/cards/2801-2900.md#liu26cy-evaluation) · 中文
+- [From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures](../../conferences/icml-2026/cards/2801-2900.md#liu26df-evaluation) · 中文
+- [ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · 中文
 <!-- classification:end -->

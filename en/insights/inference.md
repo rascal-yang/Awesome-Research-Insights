@@ -198,6 +198,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Causal Dependency-Aware Unsupervised Routing for Large Reasoning Models](../../conferences/icml-2026/cards/2801-2900.md#liu26cj-inference) · 中文
 - [SAGE: A Dataflow-Native Framework for Modular, Controllable, and Transparent LLM-Augmented Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26co-inference) · 中文
 - [SLASH the Sink: Sharpening Structural Attention Inside LLMs](../../conferences/icml-2026/cards/2801-2900.md#liu26cq-inference) · 中文
+- [Faster Than Flash: Exploiting Attention Sparsity for Efficient Long-Context Decoding](../../conferences/icml-2026/cards/2801-2900.md#liu26da-inference) · 中文
+- [From Out-of-Distribution Detection to Hallucination Detection: A Geometric View](../../conferences/icml-2026/cards/2801-2900.md#liu26dc-inference) · 中文
+- [PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency](../../conferences/icml-2026/cards/2801-2900.md#liu26dg-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

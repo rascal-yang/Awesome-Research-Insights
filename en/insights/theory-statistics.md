@@ -426,6 +426,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [How does Bayesian Sampling help Membership Inference Attacks?](../../conferences/icml-2026/cards/2801-2900.md#liu26bo-theory-statistics) · 中文
 - [SpeedCP: Fast Kernel-based Conditional Conformal Prediction](../../conferences/icml-2026/cards/2801-2900.md#liu26bq-theory-statistics) · 中文
 - [Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · 中文
+- [Mind the Gap: Mixtures of Gaussians in Approximate Differential Privacy](../../conferences/icml-2026/cards/2801-2900.md#liu26dk-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

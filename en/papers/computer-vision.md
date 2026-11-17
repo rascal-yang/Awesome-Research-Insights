@@ -53,6 +53,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="liang26c-architecture"></a>[Hyperspectral Image Fusion with Spectral-Band and Fusion-Scale Agnosticism](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26c)
 - <a id="liang26j-architecture"></a>[Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26j)
 - <a id="liang26ad-architecture"></a>[RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26ad)
+- <a id="liu26cw-architecture"></a>[WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cw)
+- <a id="liu26dj-architecture"></a>[Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dj)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -135,6 +137,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lee26as-optimization"></a>[Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26as)
 - <a id="li26gy-optimization"></a>[Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gy)
 - <a id="lin26o-optimization"></a>[Unlocking the Potential of Continual Model Merging: An ODE Perspective](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26o)
+- <a id="liu26dl-optimization"></a>[FairMerging: Rethinking Model Merging through the Lens of Fairness](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dl)
 
 <a id="by-reinforcement-learning"></a>
 

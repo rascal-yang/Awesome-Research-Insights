@@ -117,6 +117,7 @@
 - [把机器学习实验反馈按执行步骤归一为奖励](../conferences/icml-2026/cards/2701-2800.md#liu26i-reinforcement-learning) · ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering
 - [为长时域去中心化协作使用训练期集中评论家](../conferences/icml-2026/cards/2701-2800.md#liu26k-reinforcement-learning) · Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic
 - [共享策略内同时更新安全攻防两角色](../conferences/icml-2026/cards/2801-2900.md#liu26bn-reinforcement-learning) · Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models
+- [按连续全对筛掉低信号工具调用并只回传高差异样本](../conferences/icml-2026/cards/2801-2900.md#liu26de-reinforcement-learning) · On Effectiveness and Efficiency of Agentic Tool-calling and RL Training
 
 <a id="by-computer-vision"></a>
 

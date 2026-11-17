@@ -116,6 +116,7 @@
 - <a id="jin26k-loss-functions"></a>[From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale](../conferences/icml-2026/cards/1901-2000.md#paper-jin26k)
 - <a id="koker26a-loss-functions"></a>[PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials](../conferences/icml-2026/cards/2101-2200.md#paper-koker26a)
 - <a id="li26dg-loss-functions"></a>[Bias-Spectrum Neural Processes for Parametric PDEs: Architecture Priors Meet PDE Constraints](../conferences/icml-2026/cards/2501-2600.md#paper-li26dg)
+- <a id="liu26dm-loss-functions"></a>[Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dm)
 
 <a id="by-optimization"></a>
 
@@ -310,6 +311,10 @@
 - <a id="li26t-evaluation"></a>[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../conferences/icml-2026/cards/2401-2500.md#paper-li26t)
 - <a id="li26hr-evaluation"></a>[HEARTS: Benchmarking LLM Reasoning on Health Time Series](../conferences/icml-2026/cards/2601-2700.md#paper-li26hr)
 - <a id="li26if-evaluation"></a>[Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks](../conferences/icml-2026/cards/2601-2700.md#paper-li26if)
+- <a id="liu26cu-evaluation"></a>[BioProBench: A Corpus and Benchmark for Biological Protocol Reasoning in Autonomous Science](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cu)
+- <a id="liu26cy-evaluation"></a>[ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cy)
+- <a id="liu26df-evaluation"></a>[From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures](../conferences/icml-2026/cards/2801-2900.md#paper-liu26df)
+- <a id="liu26di-evaluation"></a>[ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26di)
 
 <a id="by-theory-statistics"></a>
 
