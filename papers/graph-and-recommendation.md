@@ -57,7 +57,7 @@
 | <a id="chakraborty26b-optimization"></a>[Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chakraborty26b) | 公平排序聚合 | 把群体代表性约束写入前 k 位的排序聚合，可求得该前缀问题的最优解。若要为所有候选排序，则论文给出二倍近似。 |
 | <a id="chen26b-optimization"></a>[Differentially Private Range Subgraph Counting](https://proceedings.mlr.press/v306/chen26b.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chen26b) | 隐私图查询 | 把属性范围内固定模式的子图计数映射为加权正交范围查询，再用局部灵敏度加噪。理论下界说明高维属性会使误差显著增加。 |
 | <a id="cheng26j-optimization"></a>[What Makes a Desired Graph for Relational Deep Learning?](https://proceedings.mlr.press/v306/cheng26j.html) · [论文卡](../conferences/icml-2026/cards/0601-0700.md#paper-cheng26j) | 关系数据库的任务感知图结构优化 | 对关系图同时学习过滤任务无关的列和连接，并补入符合目标任务关系的边。实验发现过滤越多并不总会提升性能，注入的连接也需和下游任务的关系语义对应。 |
-| <a id="gupta26b-optimization"></a>[Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](https://proceedings.mlr.press/v306/gupta26b.html) | 演化图的粗化映射增量更新 | 从已有粗化矩阵出发，只优化新节点的分配和旧映射的修正项。目标同时惩罚粗图邻接变化、特征重建误差和不合理重分配，使拓扑演化时能复用上一时刻的粗化解。 |
+| <a id="gupta26b-optimization"></a>[Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](https://proceedings.mlr.press/v306/gupta26b.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-gupta26b) | 演化图的粗化映射增量更新 | 从已有粗化矩阵出发，只优化新节点的分配和旧映射的修正项。目标同时惩罚粗图邻接变化、特征重建误差和不合理重分配，使拓扑演化时能复用上一时刻的粗化解。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -101,8 +101,8 @@
 | <a id="bisht26b-inference"></a>[CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bisht26b) | 在线推荐校准 | 持续监测推荐损失并在用户行为变化时重新定阈值，同时在线调整不同集合预测器的权重，使可变长度推荐列表保持紧凑。 |
 | <a id="fomina26a-inference"></a>[On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-fomina26a) | 图注意力的 I/O 融合优化 | 将逐边计算与邻居聚合融合在 GPU 核内，减少把边级中间量写回显存。图重排序的收益取决于线程映射，实验中对邻居并行的 gather 型核比对特征并行核更稳定。 |
 | <a id="gao26t-inference"></a>[Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26t) | 知识图多跳搜索的语义补边 | 在语言模型引导的邻接遍历中，将高于嵌入相似度阈值的近邻也加入前沿，再排除已访问节点。这样可按查询跨过显式知识图中缺失的连接。 |
-| <a id="guo26t-inference"></a>[GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](https://proceedings.mlr.press/v306/guo26t.html) | 按需探查图拓扑的工具推理 | 让智能体按推理需要查询节点邻居，并把连通性或数值计算交给代码解释器。这样可以在观测不足时主动扩大局部感受野，避免固定展开深度在部分数据上引入大量无关节点。 |
-| <a id="guo26ac-inference"></a>[X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](https://proceedings.mlr.press/v306/guo26ac.html) | 冻结图网络的后验不确定性证据 | 用节点潜表示的几何关系为 logit 证据总量做门控，再按原预测概率将总量分配成各类的 Dirichlet 参数。图传播作用于证据强度，使邻居可靠性可参与校准，同时沿用原分类模型。 |
+| <a id="guo26t-inference"></a>[GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](https://proceedings.mlr.press/v306/guo26t.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26t) | 按需探查图拓扑的工具推理 | 让智能体按推理需要查询节点邻居，并把连通性或数值计算交给代码解释器。这样可以在观测不足时主动扩大局部感受野，避免固定展开深度在部分数据上引入大量无关节点。 |
+| <a id="guo26ac-inference"></a>[X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](https://proceedings.mlr.press/v306/guo26ac.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26ac) | 冻结图网络的后验不确定性证据 | 用节点潜表示的几何关系为 logit 证据总量做门控，再按原预测概率将总量分配成各类的 Dirichlet 参数。图传播作用于证据强度，使邻居可靠性可参与校准，同时沿用原分类模型。 |
 
 <a id="by-representation-learning"></a>
 
@@ -118,7 +118,7 @@
 | <a id="debaussart-joniec26a-representation-learning"></a>[Parametrized Power-Iteration Clustering for Directed Graphs](https://proceedings.mlr.press/v306/debaussart-joniec26a.html) · [论文卡](../conferences/icml-2026/cards/0801-0900.md#paper-debaussart-joniec26a) | 有向图的参数化幂迭代聚类 | 先构造保留方向信息的可逆随机游走算子，再用选定扩散时间下的迭代算子行作节点嵌入。自动选择扩散时间并截断嵌入，可在弱连通有向图上省去特征分解并降低聚类开销。 |
 | <a id="du26o-representation-learning"></a>[From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters](https://proceedings.mlr.press/v306/du26o.html) · [论文卡](../conferences/icml-2026/cards/0901-1000.md#paper-du26o) | 图分布的跨环境重心对齐 | 把各环境同类图的子图嵌入分布视为共享原型的不同变形，用 Wasserstein 重心估计这一原型。对齐各环境表征到同类重心，并以对抗训练分离仍可辨识环境的成分。 |
 | <a id="ezoe26a-representation-learning"></a>[Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation](https://proceedings.mlr.press/v306/ezoe26a.html) · [论文卡](../conferences/icml-2026/cards/1001-1100.md#paper-ezoe26a) | 动态图的展开归一化拉普拉斯嵌入 | 把各时刻的归一化拉普拉斯算子展开到同一谱嵌入空间。在动态随机块模型下，论文证明同一时刻的节点间比较和同一节点的跨时刻比较都具有稳定性，并用 Cheeger 型不等式把谱与跨时刻最差导通性联系起来。 |
-| <a id="guo26p-representation-learning"></a>[CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation](https://proceedings.mlr.press/v306/guo26p.html) | 结构与语义共识的推荐对比学习 | 分别从交互图邻域和语言模型的物品语义嵌入获取候选，再取交集形成高置信正样本。对比学习重点利用同时符合协同交互和语义相似性的样本对。 |
+| <a id="guo26p-representation-learning"></a>[CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation](https://proceedings.mlr.press/v306/guo26p.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26p) | 结构与语义共识的推荐对比学习 | 分别从交互图邻域和语言模型的物品语义嵌入获取候选，再取交集形成高置信正样本。对比学习重点利用同时符合协同交互和语义相似性的样本对。 |
 
 <a id="by-evaluation"></a>
 

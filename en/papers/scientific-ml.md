@@ -41,7 +41,7 @@ The linked short insights are available in Chinese.
 | [LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](https://proceedings.mlr.press/v306/feng26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-feng26b) | [Read insight (中文)](../../papers/scientific-ml.md#feng26b-architecture) |
 | [Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](https://proceedings.mlr.press/v306/friedl26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-friedl26a) | [Read insight (中文)](../../papers/scientific-ml.md#friedl26a-architecture) |
 | ["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](https://proceedings.mlr.press/v306/ghiglino26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ghiglino26a) | [Read insight (中文)](../../papers/scientific-ml.md#ghiglino26a-architecture) |
-| [SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](https://proceedings.mlr.press/v306/hagnberger26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#hagnberger26a-architecture) |
+| [SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](https://proceedings.mlr.press/v306/hagnberger26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-hagnberger26a) | [Read insight (中文)](../../papers/scientific-ml.md#hagnberger26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -87,9 +87,9 @@ The linked short insights are available in Chinese.
 | [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](https://proceedings.mlr.press/v306/fink26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fink26a) | [Read insight (中文)](../../papers/scientific-ml.md#fink26a-optimization) |
 | [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](https://proceedings.mlr.press/v306/gao26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26j) | [Read insight (中文)](../../papers/scientific-ml.md#gao26j-optimization) |
 | [Torus Graphs for Large Scale Neural Phase Analysis](https://proceedings.mlr.press/v306/goffinet26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-goffinet26b) | [Read insight (中文)](../../papers/scientific-ml.md#goffinet26b-optimization) |
-| [Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](https://proceedings.mlr.press/v306/guoze26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#guoze26a-optimization) |
-| [Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](https://proceedings.mlr.press/v306/gutjahr26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#gutjahr26a-optimization) |
-| [Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](https://proceedings.mlr.press/v306/haddadnia26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#haddadnia26a-optimization) |
+| [Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](https://proceedings.mlr.press/v306/guoze26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-guoze26a) | [Read insight (中文)](../../papers/scientific-ml.md#guoze26a-optimization) |
+| [Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](https://proceedings.mlr.press/v306/gutjahr26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-gutjahr26a) | [Read insight (中文)](../../papers/scientific-ml.md#gutjahr26a-optimization) |
+| [Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](https://proceedings.mlr.press/v306/haddadnia26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-haddadnia26a) | [Read insight (中文)](../../papers/scientific-ml.md#haddadnia26a-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -124,7 +124,7 @@ The linked short insights are available in Chinese.
 | [Mesh Based Simulations with Spatial and Temporal awareness](https://proceedings.mlr.press/v306/garnier26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-garnier26a) | [Read insight (中文)](../../papers/scientific-ml.md#garnier26a-training-strategies) |
 | [Federated Multi-view Clustering for Remote Sensing Data](https://proceedings.mlr.press/v306/guan26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26j) | [Read insight (中文)](../../papers/scientific-ml.md#guan26j-training-strategies) |
 | [MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](https://proceedings.mlr.press/v306/guo26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26c) | [Read insight (中文)](../../papers/scientific-ml.md#guo26c-training-strategies) |
-| [Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](https://proceedings.mlr.press/v306/han26j.html) | [Read insight (中文)](../../papers/scientific-ml.md#han26j-training-strategies) |
+| [Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](https://proceedings.mlr.press/v306/han26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-han26j) | [Read insight (中文)](../../papers/scientific-ml.md#han26j-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -159,7 +159,7 @@ The linked short insights are available in Chinese.
 | [Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting](https://proceedings.mlr.press/v306/gao26p.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26p) | [Read insight (中文)](../../papers/scientific-ml.md#gao26p-inference) |
 | [Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://proceedings.mlr.press/v306/ge26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ge26b) | [Read insight (中文)](../../papers/scientific-ml.md#ge26b-inference) |
 | [GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://proceedings.mlr.press/v306/giral26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-giral26a) | [Read insight (中文)](../../papers/scientific-ml.md#giral26a-inference) |
-| [Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](https://proceedings.mlr.press/v306/han26g.html) | [Read insight (中文)](../../papers/scientific-ml.md#han26g-inference) |
+| [Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](https://proceedings.mlr.press/v306/han26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-han26g) | [Read insight (中文)](../../papers/scientific-ml.md#han26g-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -180,7 +180,7 @@ The linked short insights are available in Chinese.
 | [BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](https://proceedings.mlr.press/v306/du26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-du26f) | [Read insight (中文)](../../papers/scientific-ml.md#du26f-representation-learning) |
 | [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://proceedings.mlr.press/v306/gelard26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gelard26a) | [Read insight (中文)](../../papers/scientific-ml.md#gelard26a-representation-learning) |
 | [SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](https://proceedings.mlr.press/v306/guo26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26a) | [Read insight (中文)](../../papers/scientific-ml.md#guo26a-representation-learning) |
-| [Learning Permutation-invariant Macroscopic Dynamics](https://proceedings.mlr.press/v306/han26f.html) | [Read insight (中文)](../../papers/scientific-ml.md#han26f-representation-learning) |
+| [Learning Permutation-invariant Macroscopic Dynamics](https://proceedings.mlr.press/v306/han26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-han26f) | [Read insight (中文)](../../papers/scientific-ml.md#han26f-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -205,7 +205,7 @@ The linked short insights are available in Chinese.
 | [TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering](https://proceedings.mlr.press/v306/gao26ao.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ao) | [Read insight (中文)](../../papers/scientific-ml.md#gao26ao-evaluation) |
 | [CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare](https://proceedings.mlr.press/v306/ghosh26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ghosh26b) | [Read insight (中文)](../../papers/scientific-ml.md#ghosh26b-evaluation) |
 | [Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](https://proceedings.mlr.press/v306/gokce26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gokce26a) | [Read insight (中文)](../../papers/scientific-ml.md#gokce26a-evaluation) |
-| [Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://proceedings.mlr.press/v306/han26v.html) | [Read insight (中文)](../../papers/scientific-ml.md#han26v-evaluation) |
+| [Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://proceedings.mlr.press/v306/han26v.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-han26v) | [Read insight (中文)](../../papers/scientific-ml.md#han26v-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

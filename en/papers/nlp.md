@@ -79,7 +79,7 @@ The linked short insights are available in Chinese.
 | [IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-an26a) | [Read insight (中文)](../../papers/nlp.md#an26a-inference) |
 | [MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chien26b) | [Read insight (中文)](../../papers/nlp.md#chien26b-inference) |
 | [Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://proceedings.mlr.press/v306/du26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-du26i) | [Read insight (中文)](../../papers/nlp.md#du26i-inference) |
-| [No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://proceedings.mlr.press/v306/guo26x.html) | [Read insight (中文)](../../papers/nlp.md#guo26x-inference) |
+| [No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://proceedings.mlr.press/v306/guo26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26x) | [Read insight (中文)](../../papers/nlp.md#guo26x-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -89,7 +89,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26p) | [Read insight (中文)](../../papers/nlp.md#cao26p-representation-learning) |
 | [InstEmb: Instruction-Following Embeddings through Glimpses of the Future](https://proceedings.mlr.press/v306/gao26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26h) | [Read insight (中文)](../../papers/nlp.md#gao26h-representation-learning) |
-| [Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](https://proceedings.mlr.press/v306/gupta26c.html) | [Read insight (中文)](../../papers/nlp.md#gupta26c-representation-learning) |
+| [Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](https://proceedings.mlr.press/v306/gupta26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-gupta26c) | [Read insight (中文)](../../papers/nlp.md#gupta26c-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -106,8 +106,8 @@ The linked short insights are available in Chinese.
 | [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fernandez26b) | [Read insight (中文)](../../papers/nlp.md#fernandez26b-evaluation) |
 | [FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26af) | [Read insight (中文)](../../papers/nlp.md#gao26af-evaluation) |
 | [BAT: Better Audio Transformer Guided by Convex Gated Probing](https://proceedings.mlr.press/v306/ghaffari26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ghaffari26a) | [Read insight (中文)](../../papers/nlp.md#ghaffari26a-evaluation) |
-| [On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](https://proceedings.mlr.press/v306/guo26w.html) | [Read insight (中文)](../../papers/nlp.md#guo26w-evaluation) |
-| [MusicDET: Zero-Shot AI-Generated Music Detection](https://proceedings.mlr.press/v306/han26u.html) | [Read insight (中文)](../../papers/nlp.md#han26u-evaluation) |
+| [On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](https://proceedings.mlr.press/v306/guo26w.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26w) | [Read insight (中文)](../../papers/nlp.md#guo26w-evaluation) |
+| [MusicDET: Zero-Shot AI-Generated Music Detection](https://proceedings.mlr.press/v306/han26u.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-han26u) | [Read insight (中文)](../../papers/nlp.md#han26u-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

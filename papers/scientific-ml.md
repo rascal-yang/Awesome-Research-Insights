@@ -39,7 +39,7 @@
 | <a id="feng26b-architecture"></a>[LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](https://proceedings.mlr.press/v306/feng26b.html) · [论文卡](../conferences/icml-2026/cards/1001-1100.md#paper-feng26b) | 脑电潜事件的电生理先验 | 将各脑电通道的潜事件时间建模为更新过程，用可微泄漏积分发放模型导出随时间变化的瞬时发放率作为先验。模型用该先验从未标注脑电推断事件与跨通道关系，并汇总组别的事件速率和时序差异。 |
 | <a id="friedl26a-architecture"></a>[Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](https://proceedings.mlr.press/v306/friedl26a.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-friedl26a) | 辛降维的 Hamilton 动力学 | 用受几何约束的辛自编码器把高维状态压到低维结构保持子流形，在该空间内学习 Hamilton 动力学。通过保持潜空间的辛结构，降维后的模型仍可进行物理一致的长时预测。 |
 | <a id="ghiglino26a-architecture"></a>["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](https://proceedings.mlr.press/v306/ghiglino26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-ghiglino26a) | 飞行器拓扑与连续参数的层级扩散 | 先生成电动垂直起降飞行器的离散构型，再让掩码扩散模型在该构型下推断连续设计参数。按构型确定参与推断的变量，可处理不同部件数量和排列带来的可变参数维度。 |
-| <a id="hagnberger26a-architecture"></a>[SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](https://proceedings.mlr.press/v306/hagnberger26a.html) | 点云到气动场的跨层解码 | 从原始几何点云和仿真参数提取不同深度的潜表征，让解码器每层查询对应编码层的几何特征，可在任意空间点估计物理量而无须输入仿真网格。 |
+| <a id="hagnberger26a-architecture"></a>[SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](https://proceedings.mlr.press/v306/hagnberger26a.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-hagnberger26a) | 点云到气动场的跨层解码 | 从原始几何点云和仿真参数提取不同深度的潜表征，让解码器每层查询对应编码层的几何特征，可在任意空间点估计物理量而无须输入仿真网格。 |
 
 <a id="by-modules"></a>
 
@@ -85,9 +85,9 @@
 | <a id="fink26a-optimization"></a>[RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](https://proceedings.mlr.press/v306/fink26a.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-fink26a) | 代数多重网格的稀疏粗层修正 | 用若干标准多重网格循环生成高频成分已衰减的残差，以此学习稀疏粗层算子修正。神经网络只在求解器初始化时运行，迭代阶段仍用稀疏算子计算。 |
 | <a id="gao26j-optimization"></a>[Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](https://proceedings.mlr.press/v306/gao26j.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26j) | 量子激发态的多态重要性采样 | 将同一分子结构下各态的采样密度混合作为共同提议，用混合密度重加权估计任意两态波函数的重叠。这样每对重叠都能复用所有态的样本，通过共享神经网络降低跨态求值开销。 |
 | <a id="goffinet26b-optimization"></a>[Torus Graphs for Large Scale Neural Phase Analysis](https://proceedings.mlr.press/v306/goffinet26b.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-goffinet26b) | 大规模神经振荡相位图的随机分数匹配 | 将环面图分数匹配的二次型改写为充分统计量雅可比与参数向量乘积的平方范数，利用局部相位导数的稀疏性按小批更新。每步成本降为相位变量数的平方，使上千维相位耦合和动态扩展可算。 |
-| <a id="guoze26a-optimization"></a>[Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](https://proceedings.mlr.press/v306/guoze26a.html) | 几何潜变量到 PDE 场的可微优化 | 在预测物理场的代理模型中，把形状潜向量经门控残差注入切片 token，使场目标可以直接反传到几何表示。优化时对白名单以外的部位用零空间约束控制形变，支持局部形状调整。 |
-| <a id="gutjahr26a-optimization"></a>[Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](https://proceedings.mlr.press/v306/gutjahr26a.html) | 约束分子生成的顺序微调 | 将奖励与约束超额的增广拉格朗日惩罚合成当轮微调目标，采样估计平均违约后再调乘子和惩罚强度，让通用生成微调器逐轮兼顾分子效用与可合成性。 |
-| <a id="haddadnia26a-optimization"></a>[Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](https://proceedings.mlr.press/v306/haddadnia26a.html) | 分区赌博机分配化学筛选预算 | 把分子库按特征分簇并将簇视为臂，每轮只在选中的簇上运行全局代理模型的获取函数，再用实际评估的批均值更新臂选择，可省去逐轮全库打分。 |
+| <a id="guoze26a-optimization"></a>[Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](https://proceedings.mlr.press/v306/guoze26a.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-guoze26a) | 几何潜变量到 PDE 场的可微优化 | 在预测物理场的代理模型中，把形状潜向量经门控残差注入切片 token，使场目标可以直接反传到几何表示。优化时对白名单以外的部位用零空间约束控制形变，支持局部形状调整。 |
+| <a id="gutjahr26a-optimization"></a>[Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](https://proceedings.mlr.press/v306/gutjahr26a.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-gutjahr26a) | 约束分子生成的顺序微调 | 将奖励与约束超额的增广拉格朗日惩罚合成当轮微调目标，采样估计平均违约后再调乘子和惩罚强度，让通用生成微调器逐轮兼顾分子效用与可合成性。 |
+| <a id="haddadnia26a-optimization"></a>[Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](https://proceedings.mlr.press/v306/haddadnia26a.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-haddadnia26a) | 分区赌博机分配化学筛选预算 | 把分子库按特征分簇并将簇视为臂，每轮只在选中的簇上运行全局代理模型的获取函数，再用实际评估的批均值更新臂选择，可省去逐轮全库打分。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -122,7 +122,7 @@
 | <a id="garnier26a-training-strategies"></a>[Mesh Based Simulations with Spatial and Temporal awareness](https://proceedings.mlr.press/v306/garnier26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-garnier26a) | 网格模拟的模板监督与时序校正 | 用节点邻接模板内的一组场值做联合监督，约束局部空间差分，再以跨时间注意力执行预测与校正。把这两项加入不同网格代理后，论文观察到长程滚动误差累积变慢。 |
 | <a id="guan26j-training-strategies"></a>[Federated Multi-view Clustering for Remote Sensing Data](https://proceedings.mlr.press/v306/guan26j.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guan26j) | 遥感多视图聚类的原型对齐 | 各客户端从配准样本的软分配中找簇的共现模式，用这些模式校正独立建模造成的簇编号错位。客户端交换加噪原型，并用分布间 Wasserstein 距离对齐异构视图中的簇。 |
 | <a id="guo26c-training-strategies"></a>[MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](https://proceedings.mlr.press/v306/guo26c.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26c) | 蛋白突变的多源相对偏好蒸馏 | 枚举结构上同一残基的替换候选，先在各来源内归一化两种替换的得分差，再按支持同一排序方向的来源数加权。可同时利用能量模型、蛋白语言模型和逆折叠模型的相对判断。 |
-| <a id="han26j-training-strategies"></a>[Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](https://proceedings.mlr.press/v306/han26j.html) | 用性能偏好训练单元版图脚本生成 | 以贝叶斯优化弥补人工版图缺少对应脚本的问题，构造可运行的脚本和版图配对。再用性能感知嵌入衡量生成结果与参考版图的接近程度，为监督微调后的偏好训练提供信号。 |
+| <a id="han26j-training-strategies"></a>[Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](https://proceedings.mlr.press/v306/han26j.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-han26j) | 用性能偏好训练单元版图脚本生成 | 以贝叶斯优化弥补人工版图缺少对应脚本的问题，构造可运行的脚本和版图配对。再用性能感知嵌入衡量生成结果与参考版图的接近程度，为监督微调后的偏好训练提供信号。 |
 
 <a id="by-data-strategies"></a>
 
@@ -157,7 +157,7 @@
 | <a id="gao26p-inference"></a>[Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting](https://proceedings.mlr.press/v306/gao26p.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26p) | 干旱预测的多分辨率残差校正 | 在多个时间分辨率上调用冻结的时序模型，以粗尺度预测为起点，用历史回测训练的残差估计来调节粗预测与细尺度结果的融合，逐级修正干旱指数预测。 |
 | <a id="ge26b-inference"></a>[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://proceedings.mlr.press/v306/ge26b.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-ge26b) | 超大病理切片的动态倍率推理 | 先在低倍率定位候选区域，再用注意力剪枝选择需要高倍率查看的局部，并在预测熵足够低时提前停止。论文在所测切片数据上维持相近 AUC，同时显著减少需要编码的图块。 |
 | <a id="giral26a-inference"></a>[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://proceedings.mlr.press/v306/giral26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-giral26a) | 稀疏传感条件下的城市风场扩散 | 在粗细两层网格传播观测信息，细网格保留建筑附近梯度，粗网格连接远处区域。生成时组合学习几何先验的无传感分支与传感条件分支，用同一采样流程同化固定点或沿轨迹获取的观测。 |
-| <a id="han26g-inference"></a>[Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](https://proceedings.mlr.press/v306/han26g.html) | 原子势的平滑动态截断 | 按局部邻居密度调整作用半径，并将边贡献平滑衰减到零，近似维持固定邻居预算。这样可减少稠密构型中的图边数和显存，在所测分子动力学系统中仍能长时稳定滚动。 |
+| <a id="han26g-inference"></a>[Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](https://proceedings.mlr.press/v306/han26g.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-han26g) | 原子势的平滑动态截断 | 按局部邻居密度调整作用半径，并将边贡献平滑衰减到零，近似维持固定邻居预算。这样可减少稠密构型中的图边数和显存，在所测分子动力学系统中仍能长时稳定滚动。 |
 
 <a id="by-representation-learning"></a>
 
@@ -178,7 +178,7 @@
 | <a id="du26f-representation-learning"></a>[BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](https://proceedings.mlr.press/v306/du26f.html) · [论文卡](../conferences/icml-2026/cards/0901-1000.md#paper-du26f) | 生理时序的分频幅相对齐 | 对生理时间序列特征做傅里叶变换，从样本频谱生成各频带的调制量，分别调整振幅和相位。以频带而非单个频点为单位对齐，减轻受试者间幅相差异对分类的影响。 |
 | <a id="gelard26a-representation-learning"></a>[Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://proceedings.mlr.press/v306/gelard26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gelard26a) | 转录组与甲基化的双模态掩码学习 | 将配对样本的基因表达量和甲基化量离散化，两种模态用各自的输出头预测被扰动的数值词元，以联合自监督学习肿瘤样本的表征。论文以癌种分类和生存预测验证表征的迁移效果。 |
 | <a id="guo26a-representation-learning"></a>[SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](https://proceedings.mlr.press/v306/guo26a.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26a) | 脉搏波词元的语义一致量化 | 对脉搏波片段加入缩放和高斯扰动，在量化前约束增强片段的编码接近原片段编码。该约束和频谱重建一起训练词元器，使轻微采集变化更少产生重复的码本项。 |
-| <a id="han26f-representation-learning"></a>[Learning Permutation-invariant Macroscopic Dynamics](https://proceedings.mlr.press/v306/han26f.html) | 无序微观系统的宏观状态表征 | 用置换不变编码器压缩粒子集合，并让解码器重建观测点周围的质量分布，取消逐点对应的要求。再与宏观可观测量的动力学联合学习，可跟踪粒子次序任意变化时的群体演化。 |
+| <a id="han26f-representation-learning"></a>[Learning Permutation-invariant Macroscopic Dynamics](https://proceedings.mlr.press/v306/han26f.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-han26f) | 无序微观系统的宏观状态表征 | 用置换不变编码器压缩粒子集合，并让解码器重建观测点周围的质量分布，取消逐点对应的要求。再与宏观可观测量的动力学联合学习，可跟踪粒子次序任意变化时的群体演化。 |
 
 <a id="by-evaluation"></a>
 
@@ -203,7 +203,7 @@
 | <a id="gao26ao-evaluation"></a>[TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering](https://proceedings.mlr.press/v306/gao26ao.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26ao) | 按轮次回放蛋白工程候选筛选 | 对齐各轮测量标签并保留真实实验时间顺序，用早期轮次的数据对后续才出现的候选排序。随机切分中表现良好的模型在未来轮次的有限预算筛选中仍明显退化，显示插值指标会高估前瞻能力。 |
 | <a id="ghosh26b-evaluation"></a>[CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare](https://proceedings.mlr.press/v306/ghosh26b.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-ghosh26b) | 多语言医疗模型的分维度可信评测 | 把医疗语言模型的真实性、公平性、安全性、鲁棒性与隐私拆为 18 项任务，在 15 种语言中分层比较。论文测试显示，低资源语言在诚实性、公平性及隐私上的退化尤其明显。 |
 | <a id="gokce26a-evaluation"></a>[Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](https://proceedings.mlr.press/v306/gokce26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gokce26a) | 视觉皮层映射的神经样本缩放 | 分别改变预训练规模与拟合模型到脑响应映射所用的刺激和记录配对数。所测多种记录模态中，增加配对数在考察范围内带来近似对数线性的对齐增益，而扩大预训练的收益逐渐饱和。 |
-| <a id="han26v-evaluation"></a>[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://proceedings.mlr.press/v306/han26v.html) | 站点天气预报的物理与业务对照 | 先用图动态核心生成物理引导的基线，再由 Transformer 预测残差，并约束气压风场配合和能量平滑性。对照业务数值预报时同时报告常规变量与极端事件误差，可看出学术模型在真实站点上的差距。 |
+| <a id="han26v-evaluation"></a>[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://proceedings.mlr.press/v306/han26v.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-han26v) | 站点天气预报的物理与业务对照 | 先用图动态核心生成物理引导的基线，再由 Transformer 预测残差，并约束气压风场配合和能量平滑性。对照业务数值预报时同时报告常规变量与极端事件误差，可看出学术模型在真实站点上的差距。 |
 
 <a id="by-theory-statistics"></a>
 

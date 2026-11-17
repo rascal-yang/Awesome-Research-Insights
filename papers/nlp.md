@@ -77,7 +77,7 @@
 | <a id="an26a-inference"></a>[IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-an26a) | 句子级水印 | 按模型和用户组织分层水印标识，用语义及句法信号筛选句子候选，再用分层检索缩小溯源检测范围。 |
 | <a id="chien26b-inference"></a>[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) · [论文卡](../conferences/icml-2026/cards/0701-0800.md#paper-chien26b) | 全双工语音的异步检索 | 语音模型用特殊词元决定是否检索，把流式转录交给后台后继续生成。利用开始应答到说出关键信息的时间差，把返回的检索文本编码后注入后续生成，兼顾语音交互时延与事实性。 |
 | <a id="du26i-inference"></a>[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://proceedings.mlr.press/v306/du26i.html) · [论文卡](../conferences/icml-2026/cards/0901-1000.md#paper-du26i) | 语音情感的稀疏特征干预 | 用稀疏自编码器分解文本转语音模型的语义隐状态，筛出与特定情感相关的潜特征。生成时只增减这些特征的激活，沿各自的解码方向改变隐状态，无需调整主干权重。 |
-| <a id="guo26x-inference"></a>[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://proceedings.mlr.press/v306/guo26x.html) | 稀疏编码的多向量倒排检索 | 用稀疏自编码器把查询和文档 token 投到高维稀疏空间，按激活维度建倒排表。共享非零维度的候选可先被召回，再计算 token 级最大相似度，省去大规模索引构建时的 K-means 聚类。 |
+| <a id="guo26x-inference"></a>[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://proceedings.mlr.press/v306/guo26x.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26x) | 稀疏编码的多向量倒排检索 | 用稀疏自编码器把查询和文档 token 投到高维稀疏空间，按激活维度建倒排表。共享非零维度的候选可先被召回，再计算 token 级最大相似度，省去大规模索引构建时的 K-means 聚类。 |
 
 <a id="by-representation-learning"></a>
 
@@ -87,7 +87,7 @@
 | :--- | :--- | :--- |
 | <a id="cao26p-representation-learning"></a>[Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-cao26p) | 复杂表格理解 | 按空间与语义约束同时构建行树和列树，再用双路径恢复每个单元格的层级语义，保留合并单元格和多级表头中的依赖。 |
 | <a id="gao26h-representation-learning"></a>[InstEmb: Instruction-Following Embeddings through Glimpses of the Future](https://proceedings.mlr.press/v306/gao26h.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26h) | 用前瞻 token 蒸馏指令嵌入 | 同时对最后一个输入 token 做对比学习，并用若干可学习前瞻 token 蒸馏真实生成后续的隐藏表征。推理把输入末位与前瞻位置的均值合并成向量，在一次计算中纳入输出相关语义，无需逐 token 解码。 |
-| <a id="gupta26c-representation-learning"></a>[Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](https://proceedings.mlr.press/v306/gupta26c.html) | 对比学习的层级检索索引 | 用对比损失训练树路由，使相关查询和文档走向相近路径、无关样本分散到不同叶子。检索时选择中间层或叶层作索引，可分别利用粗粒度语义分组或更细的表示。 |
+| <a id="gupta26c-representation-learning"></a>[Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](https://proceedings.mlr.press/v306/gupta26c.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-gupta26c) | 对比学习的层级检索索引 | 用对比损失训练树路由，使相关查询和文档走向相近路径、无关样本分散到不同叶子。检索时选择中间层或叶层作索引，可分别利用粗粒度语义分组或更细的表示。 |
 
 <a id="by-evaluation"></a>
 
@@ -104,8 +104,8 @@
 | <a id="fernandez26b-evaluation"></a>[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-fernandez26b) | 重写式事后文本水印评测 | 用带水印的解码器改写已有文本，联合测量水印可检测性和语义保真。论文比较显示，开放文本可通过束搜索改善折中，但代码的强水印往往伴随功能正确率下降。 |
 | <a id="gao26af-evaluation"></a>[FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26af) | 机器翻译的无参考成对排序 | 给裁判提供源句和两份译文，分别判断忠实度、流畅度与风格一致性。分项成对判断可用人工排序分别校验，并揭示总分掩盖的译文优缺点。 |
 | <a id="ghaffari26a-evaluation"></a>[BAT: Better Audio Transformer Guided by Convex Gated Probing](https://proceedings.mlr.press/v306/ghaffari26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-ghaffari26a) | 音频自监督表征的凸门控探测 | 冻结音频编码器，对所有层的块词元与全局词元学习和为一的非负聚合权重，再用汇总特征与可学习原型的相似度做预测。探针可同时评估表示质量和任务信息所处层次。 |
-| <a id="guo26w-evaluation"></a>[On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](https://proceedings.mlr.press/v306/guo26w.html) | 基于低概率词位的不确定性检测 | 先用实际 token 的概率分位数筛出低概率位置，汇总这些位置的对数概率，再用 Rényi 熵描述对应条件分布的形状。两种统计共同作判别，可减少高频套语和单点概率波动对生成文本检测的影响。 |
-| <a id="han26u-evaluation"></a>[MusicDET: Zero-Shot AI-Generated Music Detection](https://proceedings.mlr.press/v306/han26u.html) | 基于真实音乐密度的生成检测 | 用频率引导的归一化流只拟合真实音乐特征分布，按输入的似然检测分布外样本。在两个音乐数据集的未知生成器评测中，该信号比所测有监督检测器更能迁移。 |
+| <a id="guo26w-evaluation"></a>[On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](https://proceedings.mlr.press/v306/guo26w.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26w) | 基于低概率词位的不确定性检测 | 先用实际 token 的概率分位数筛出低概率位置，汇总这些位置的对数概率，再用 Rényi 熵描述对应条件分布的形状。两种统计共同作判别，可减少高频套语和单点概率波动对生成文本检测的影响。 |
+| <a id="han26u-evaluation"></a>[MusicDET: Zero-Shot AI-Generated Music Detection](https://proceedings.mlr.press/v306/han26u.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-han26u) | 基于真实音乐密度的生成检测 | 用频率引导的归一化流只拟合真实音乐特征分布，按输入的似然检测分布外样本。在两个音乐数据集的未知生成器评测中，该信号比所测有监督检测器更能迁移。 |
 
 <a id="by-theory-statistics"></a>
 

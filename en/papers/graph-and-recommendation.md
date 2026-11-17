@@ -59,7 +59,7 @@ The linked short insights are available in Chinese.
 | [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chakraborty26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) |
 | [Differentially Private Range Subgraph Counting](https://proceedings.mlr.press/v306/chen26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26b-optimization) |
 | [What Makes a Desired Graph for Relational Deep Learning?](https://proceedings.mlr.press/v306/cheng26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0601-0700.md#paper-cheng26j) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cheng26j-optimization) |
-| [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](https://proceedings.mlr.press/v306/gupta26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gupta26b-optimization) |
+| [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](https://proceedings.mlr.press/v306/gupta26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-gupta26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gupta26b-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -103,8 +103,8 @@ The linked short insights are available in Chinese.
 | [CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bisht26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26b-inference) |
 | [On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fomina26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fomina26a-inference) |
 | [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26t) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26t-inference) |
-| [GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](https://proceedings.mlr.press/v306/guo26t.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26t-inference) |
-| [X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](https://proceedings.mlr.press/v306/guo26ac.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26ac-inference) |
+| [GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](https://proceedings.mlr.press/v306/guo26t.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26t) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26t-inference) |
+| [X-EviProbe: Post-hoc Parameter-Free Evidential Uncertainty Quantification for Frozen Graph Neural Networks](https://proceedings.mlr.press/v306/guo26ac.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26ac) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26ac-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -120,7 +120,7 @@ The linked short insights are available in Chinese.
 | [Parametrized Power-Iteration Clustering for Directed Graphs](https://proceedings.mlr.press/v306/debaussart-joniec26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-debaussart-joniec26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) |
 | [From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters](https://proceedings.mlr.press/v306/du26o.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-du26o) | [Read insight (中文)](../../papers/graph-and-recommendation.md#du26o-representation-learning) |
 | [Unfolded Laplacian Spectral Embedding: A Theoretically Grounded Approach to Dynamic Network Representation](https://proceedings.mlr.press/v306/ezoe26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-ezoe26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ezoe26a-representation-learning) |
-| [CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation](https://proceedings.mlr.press/v306/guo26p.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26p-representation-learning) |
+| [CCLRec: Consensus-driven Contrastive Learning for LLM-enhanced Graph Recommendation](https://proceedings.mlr.press/v306/guo26p.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26p) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26p-representation-learning) |
 
 <a id="by-evaluation"></a>
 

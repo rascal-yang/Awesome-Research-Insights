@@ -35,7 +35,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26x) | [Read insight (中文)](../../papers/robotics.md#feng26x-modules) |
 | [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26x) | [Read insight (中文)](../../papers/robotics.md#fu26x-modules) |
-| [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) | [Read insight (中文)](../../papers/robotics.md#gyenes26a-modules) |
+| [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-gyenes26a) | [Read insight (中文)](../../papers/robotics.md#gyenes26a-modules) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-modules) · [Full entry](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
 <a id="by-loss-functions"></a>
@@ -67,7 +67,7 @@ The linked short insights are available in Chinese.
 | [Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aichmuller26a) | [Read insight (中文)](../../papers/robotics.md#aichmuller26a-reinforcement-learning) |
 | [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chowdhury26a) | [Read insight (中文)](../../papers/robotics.md#chowdhury26a-reinforcement-learning) |
 | [Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ge26a) | [Read insight (中文)](../../papers/robotics.md#ge26a-reinforcement-learning) |
-| [CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://proceedings.mlr.press/v306/guo26ae.html) | [Read insight (中文)](../../papers/robotics.md#guo26ae-reinforcement-learning) |
+| [CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://proceedings.mlr.press/v306/guo26ae.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ae) | [Read insight (中文)](../../papers/robotics.md#guo26ae-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -111,7 +111,7 @@ The linked short insights are available in Chinese.
 | [Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26c) | [Read insight (中文)](../../papers/robotics.md#choi26c-inference) |
 | [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chun26a) | [Read insight (中文)](../../papers/robotics.md#chun26a-inference) |
 | [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26r) | [Read insight (中文)](../../papers/robotics.md#ding26r-inference) |
-| [Reflex: Real-Time Vision-Language-Action Control through Streaming Inference](https://proceedings.mlr.press/v306/guo26l.html) | [Read insight (中文)](../../papers/robotics.md#guo26l-inference) |
+| [Reflex: Real-Time Vision-Language-Action Control through Streaming Inference](https://proceedings.mlr.press/v306/guo26l.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26l) | [Read insight (中文)](../../papers/robotics.md#guo26l-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -120,7 +120,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26f) | [Read insight (中文)](../../papers/robotics.md#fan26f-representation-learning) |
-| [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](https://proceedings.mlr.press/v306/habashy26a.html) | [Read insight (中文)](../../papers/robotics.md#habashy26a-representation-learning) |
+| [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](https://proceedings.mlr.press/v306/habashy26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-habashy26a) | [Read insight (中文)](../../papers/robotics.md#habashy26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 

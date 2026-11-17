@@ -63,7 +63,7 @@ The linked short insights are available in Chinese.
 | [Decoupling The "What" and "Where" With Polar Coordinate Positional Embedding](https://proceedings.mlr.press/v306/gopalakrishnan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gopalakrishnan26a) | [Read insight (中文)](../../papers/ml-foundations.md#gopalakrishnan26a-modules) |
 | [Byte Pair Encoding for Efficient Time Series Forecasting](https://proceedings.mlr.press/v306/gotz26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gotz26a) | [Read insight (中文)](../../papers/ml-foundations.md#gotz26a-modules) |
 | [Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion](https://proceedings.mlr.press/v306/gu26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26d) | [Read insight (中文)](../../papers/ml-foundations.md#gu26d-modules) |
-| [GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](https://proceedings.mlr.press/v306/habib26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#habib26a-modules) |
+| [GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](https://proceedings.mlr.press/v306/habib26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-habib26a) | [Read insight (中文)](../../papers/ml-foundations.md#habib26a-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -197,8 +197,8 @@ The linked short insights are available in Chinese.
 | [Mirror Mean-Field Langevin Dynamics](https://proceedings.mlr.press/v306/gu26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26e) | [Read insight (中文)](../../papers/ml-foundations.md#gu26e-optimization) |
 | [Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning](https://proceedings.mlr.press/v306/gu26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26n) | [Read insight (中文)](../../papers/ml-foundations.md#gu26n-optimization) |
 | [Constrained Bayesian Experimental Design via Online Planning](https://proceedings.mlr.press/v306/guo26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26g) | [Read insight (中文)](../../papers/ml-foundations.md#guo26g-optimization) |
-| [Discrete Adjoint Schrödinger Bridge Sampler](https://proceedings.mlr.press/v306/guo26al.html) | [Read insight (中文)](../../papers/ml-foundations.md#guo26al-optimization) |
-| [Maximin Relative Improvement: Fair Learning as a Bargaining Problem](https://proceedings.mlr.press/v306/han26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#han26a-optimization) |
+| [Discrete Adjoint Schrödinger Bridge Sampler](https://proceedings.mlr.press/v306/guo26al.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26al) | [Read insight (中文)](../../papers/ml-foundations.md#guo26al-optimization) |
+| [Maximin Relative Improvement: Fair Learning as a Bargaining Problem](https://proceedings.mlr.press/v306/han26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-han26a) | [Read insight (中文)](../../papers/ml-foundations.md#han26a-optimization) |
 
 <a id="by-training-strategies"></a>
 
@@ -239,7 +239,7 @@ The linked short insights are available in Chinese.
 | [One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification](https://proceedings.mlr.press/v306/gao26ac.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ac) | [Read insight (中文)](../../papers/ml-foundations.md#gao26ac-training-strategies) |
 | [Latent-Guided Cooperative Energy-Based Models](https://proceedings.mlr.press/v306/geng26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-geng26b) | [Read insight (中文)](../../papers/ml-foundations.md#geng26b-training-strategies) |
 | [TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](https://proceedings.mlr.press/v306/gorishniy26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gorishniy26a) | [Read insight (中文)](../../papers/ml-foundations.md#gorishniy26a-training-strategies) |
-| [Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations](https://proceedings.mlr.press/v306/guo26y.html) | [Read insight (中文)](../../papers/ml-foundations.md#guo26y-training-strategies) |
+| [Fine-Tune Once, Reuse Across Models: Bayesian Task-Update Factors and Approximations](https://proceedings.mlr.press/v306/guo26y.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26y) | [Read insight (中文)](../../papers/ml-foundations.md#guo26y-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -279,7 +279,7 @@ The linked short insights are available in Chinese.
 | [Calibrated Test-Time Guidance for Bayesian Inference](https://proceedings.mlr.press/v306/geyfman26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-geyfman26a) | [Read insight (中文)](../../papers/ml-foundations.md#geyfman26a-inference) |
 | [Efficient Test-time Inference for Generative Planning Models with OCL Search](https://proceedings.mlr.press/v306/gieselmann26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gieselmann26a) | [Read insight (中文)](../../papers/ml-foundations.md#gieselmann26a-inference) |
 | [Precision-Induced Miscalibration: Understanding and Correcting Confidence Distortion in Quantized Neural Networks](https://proceedings.mlr.press/v306/gu26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26j) | [Read insight (中文)](../../papers/ml-foundations.md#gu26j-inference) |
-| [FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology](https://proceedings.mlr.press/v306/guo26m.html) | [Read insight (中文)](../../papers/ml-foundations.md#guo26m-inference) |
+| [FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology](https://proceedings.mlr.press/v306/guo26m.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26m) | [Read insight (中文)](../../papers/ml-foundations.md#guo26m-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -301,7 +301,7 @@ The linked short insights are available in Chinese.
 | [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://proceedings.mlr.press/v306/fan26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26i) | [Read insight (中文)](../../papers/ml-foundations.md#fan26i-representation-learning) |
 | [Sparse Autoencoders are Topic Models](https://proceedings.mlr.press/v306/girrbach26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-girrbach26a) | [Read insight (中文)](../../papers/ml-foundations.md#girrbach26a-representation-learning) |
 | [Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture – Bridging Predictive and Generative Self-Supervised Learning](https://proceedings.mlr.press/v306/gogl26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gogl26a) | [Read insight (中文)](../../papers/ml-foundations.md#gogl26a-representation-learning) |
-| [Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](https://proceedings.mlr.press/v306/guo26an.html) | [Read insight (中文)](../../papers/ml-foundations.md#guo26an-representation-learning) |
+| [Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](https://proceedings.mlr.press/v306/guo26an.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26an) | [Read insight (中文)](../../papers/ml-foundations.md#guo26an-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -333,8 +333,8 @@ The linked short insights are available in Chinese.
 | [Biased Generalization in Diffusion Models](https://proceedings.mlr.press/v306/garnier-brun26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-garnier-brun26a) | [Read insight (中文)](../../papers/ml-foundations.md#garnier-brun26a-evaluation) |
 | [Procedural Generation Of Algorithm Discovery Tasks in Machine Learning](https://proceedings.mlr.press/v306/goldie26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-goldie26a) | [Read insight (中文)](../../papers/ml-foundations.md#goldie26a-evaluation) |
 | [Revisiting the Platonic Representation Hypothesis: An Aristotelian View](https://proceedings.mlr.press/v306/groger26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-groger26a) | [Read insight (中文)](../../papers/ml-foundations.md#groger26a-evaluation) |
-| [Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](https://proceedings.mlr.press/v306/guo26u.html) | [Read insight (中文)](../../papers/ml-foundations.md#guo26u-evaluation) |
-| [TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](https://proceedings.mlr.press/v306/han26d.html) | [Read insight (中文)](../../papers/ml-foundations.md#han26d-evaluation) |
+| [Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](https://proceedings.mlr.press/v306/guo26u.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26u) | [Read insight (中文)](../../papers/ml-foundations.md#guo26u-evaluation) |
+| [TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](https://proceedings.mlr.press/v306/han26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-han26d) | [Read insight (中文)](../../papers/ml-foundations.md#han26d-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -500,10 +500,10 @@ The linked short insights are available in Chinese.
 | [Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data](https://proceedings.mlr.press/v306/gu26p.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26p) | [Read insight (中文)](../../papers/ml-foundations.md#gu26p-theory-statistics) |
 | [On the Coordination of Value-Maximizing Bidders](https://proceedings.mlr.press/v306/guan26k.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26k) | [Read insight (中文)](../../papers/ml-foundations.md#guan26k-theory-statistics) |
 | [Finite-Width Neural Tangent Kernels from Feynman Diagrams](https://proceedings.mlr.press/v306/guillen26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guillen26a) | [Read insight (中文)](../../papers/ml-foundations.md#guillen26a-theory-statistics) |
-| [Axiomatic Atlas: A Prescriptive Framework for Neural Architecture Design](https://proceedings.mlr.press/v306/guo26n.html) | [Read insight (中文)](../../papers/ml-foundations.md#guo26n-theory-statistics) |
-| [Front-Loaded Robust Conformal Prediction: Heavy Calibration, Minimal Test-Time Cost](https://proceedings.mlr.press/v306/h-zargarbashi26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#h-zargarbashi26a-theory-statistics) |
-| [Why Deep Jacobian Spectra Separate: Depth-Induced Scaling and Singular-Vector Alignment](https://proceedings.mlr.press/v306/haas26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#haas26a-theory-statistics) |
-| [Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions](https://proceedings.mlr.press/v306/habring26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#habring26a-theory-statistics) |
-| [Formalizing and Falsifying Causal Pathways of Rare Events](https://proceedings.mlr.press/v306/haghighat26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#haghighat26a-theory-statistics) |
-| [Lower Bounds for Frank-Wolfe on Strongly Convex Sets](https://proceedings.mlr.press/v306/halbey26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#halbey26a-theory-statistics) |
+| [Axiomatic Atlas: A Prescriptive Framework for Neural Architecture Design](https://proceedings.mlr.press/v306/guo26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26n) | [Read insight (中文)](../../papers/ml-foundations.md#guo26n-theory-statistics) |
+| [Front-Loaded Robust Conformal Prediction: Heavy Calibration, Minimal Test-Time Cost](https://proceedings.mlr.press/v306/h-zargarbashi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-h-zargarbashi26a) | [Read insight (中文)](../../papers/ml-foundations.md#h-zargarbashi26a-theory-statistics) |
+| [Why Deep Jacobian Spectra Separate: Depth-Induced Scaling and Singular-Vector Alignment](https://proceedings.mlr.press/v306/haas26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-haas26a) | [Read insight (中文)](../../papers/ml-foundations.md#haas26a-theory-statistics) |
+| [Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions](https://proceedings.mlr.press/v306/habring26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-habring26a) | [Read insight (中文)](../../papers/ml-foundations.md#habring26a-theory-statistics) |
+| [Formalizing and Falsifying Causal Pathways of Rare Events](https://proceedings.mlr.press/v306/haghighat26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-haghighat26a) | [Read insight (中文)](../../papers/ml-foundations.md#haghighat26a-theory-statistics) |
+| [Lower Bounds for Frank-Wolfe on Strongly Convex Sets](https://proceedings.mlr.press/v306/halbey26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-halbey26a) | [Read insight (中文)](../../papers/ml-foundations.md#halbey26a-theory-statistics) |
 <!-- classification:end -->

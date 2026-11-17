@@ -99,7 +99,7 @@ The linked short insights are available in Chinese.
 | [DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](https://proceedings.mlr.press/v306/gerogiannis26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gerogiannis26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) |
 | [Online Robust Reinforcement Learning with General Function Approximation](https://proceedings.mlr.press/v306/ghosh26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ghosh26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) |
 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://proceedings.mlr.press/v306/goyal26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-goyal26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) |
-| [Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](https://proceedings.mlr.press/v306/han26i.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#han26i-reinforcement-learning) |
+| [Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](https://proceedings.mlr.press/v306/han26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-han26i) | [Read insight (中文)](../../papers/reinforcement-learning.md#han26i-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -123,7 +123,7 @@ The linked short insights are available in Chinese.
 | [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chang26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#chang26a-inference) |
 | [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-cui26h) | [Read insight (中文)](../../papers/reinforcement-learning.md#cui26h-inference) |
 | [SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](https://proceedings.mlr.press/v306/gu26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#gu26a-inference) |
-| [RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://proceedings.mlr.press/v306/guo26r.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26r-inference) |
+| [RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](https://proceedings.mlr.press/v306/guo26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26r) | [Read insight (中文)](../../papers/reinforcement-learning.md#guo26r-inference) |
 
 <a id="by-representation-learning"></a>
 

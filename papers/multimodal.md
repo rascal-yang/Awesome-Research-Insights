@@ -30,7 +30,7 @@
 | <a id="chen26dv-modules"></a>[SPR: A Structured Prompt Refinement Network for Modality Missing](https://proceedings.mlr.press/v306/chen26dv.html) · [论文卡](../conferences/icml-2026/cards/0501-0600.md#paper-chen26dv) | 缺失模态的结构化提示 | 根据图像和文本是否可用选择可学习提示，先跨层融合，再聚合相邻提示词元并按缺失状态门控通道，最后把提示注入冻结的 CLIP 主干做分类。 |
 | <a id="ding26e-modules"></a>[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://proceedings.mlr.press/v306/ding26e.html) · [论文卡](../conferences/icml-2026/cards/0901-1000.md#paper-ding26e) | 音视频非对称 token 压缩 | 先按帧内显著性和跨帧变化筛视频 token，再让音频 token 查询同一时间块保留下来的视频 token。跨注意力结果用于筛选音频，并用直通估计器让两阶段筛选能联合训练。 |
 | <a id="gong26g-modules"></a>[EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs](https://proceedings.mlr.press/v306/gong26g.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-gong26g) | 视听稀疏采样的 RoPE 抗混叠 | 按音视频联合显著性保留 token 后，根据保留位置间的稀疏采样间隔下调 RoPE 的频带上限。低通处理减弱高频相位回绕造成的远距离位置碰撞，维持压缩序列的时间次序。 |
-| <a id="guo26af-modules"></a>[DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://proceedings.mlr.press/v306/guo26af.html) | 用位置编码绑定人物与音色 | 按目标音视频的潜序列长度比例缩放音频 RoPE 频率，并为每个参考人物分配独立的时间位置段。同一人物的参考图像和音频共用该段，有助于多人生成时把声音与身份对应起来。 |
+| <a id="guo26af-modules"></a>[DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://proceedings.mlr.press/v306/guo26af.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-guo26af) | 用位置编码绑定人物与音色 | 按目标音视频的潜序列长度比例缩放音频 RoPE 频率，并为每个参考人物分配独立的时间位置段。同一人物的参考图像和音频共用该段，有助于多人生成时把声音与身份对应起来。 |
 
 <a id="by-loss-functions"></a>
 
@@ -75,7 +75,7 @@
 | <a id="gao26l-reinforcement-learning"></a>[EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment](https://proceedings.mlr.press/v306/gao26l.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26l) | 图像诱发情绪的排序奖励 | 在图像情绪问答监督训练后，用 GRPO 分别细化各评估任务。情绪排序的奖励同时看前三种情绪的命中及次序一致性，使模型学会区分主导情绪和次要情绪。 |
 | <a id="gao26n-reinforcement-learning"></a>[Segment-Aligned Policy Optimization for Multi-Modal Reasoning](https://proceedings.mlr.press/v306/gao26n.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26n) | 多模态推理的分段策略优化 | 按生成词元熵的上分位点切分推理轨迹，把每个片段作为策略动作并在片段边界估计价值。高熵位置更常出现价值突变，提供了可自动定位的信用分配边界。 |
 | <a id="guang26a-reinforcement-learning"></a>[ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](https://proceedings.mlr.press/v306/guang26a.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guang26a) | 多模态遗忘的拒答边界 | 先用激活引导产生初始拒答行为，再选取与遗忘样本相似但应保留的输入作为边界样本。强化学习分别奖励对前者拒答、对后者正常作答，减少遗忘后对相邻主题的误拒。 |
-| <a id="guo26ak-reinforcement-learning"></a>[SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](https://proceedings.mlr.press/v306/guo26ak.html) | 以自监督扰动构造视觉强化奖励 | 主动旋转图像、重排拼图或抽取图块位置，在构造扰动时保留正确答案。以模型预测与已知扰动标签的匹配发放奖励，为视觉语言策略提供可自动验证的感知训练信号。 |
+| <a id="guo26ak-reinforcement-learning"></a>[SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning](https://proceedings.mlr.press/v306/guo26ak.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-guo26ak) | 以自监督扰动构造视觉强化奖励 | 主动旋转图像、重排拼图或抽取图块位置，在构造扰动时保留正确答案。以模型预测与已知扰动标签的匹配发放奖励，为视觉语言策略提供可自动验证的感知训练信号。 |
 
 <a id="by-training-strategies"></a>
 
@@ -93,7 +93,7 @@
 | <a id="dufour26a-training-strategies"></a>[MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](https://proceedings.mlr.press/v306/dufour26a.html) · [论文卡](../conferences/icml-2026/cards/0901-1000.md#paper-dufour26a) | 多奖励条件的图像生成预训练 | 给每组图文样本计算图文一致性、偏好等多个分数，把分数向量与提示共同输入流匹配模型。训练可以利用不同质量层级的样本，采样时再指定所需分数，在多个质量目标间调节。 |
 | <a id="feng26m-training-strategies"></a>[Multimodal Nested Learning for Decoupled and Coordinated Optimization](https://proceedings.mlr.press/v306/feng26m.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-feng26m) | 多模态编码与融合的嵌套优化 | 外层用独立优化器学习编码和预测，内层以外层得到的模态特征为输入，串联按不同频率更新的残差 MLP。融合可同时适配不同变化速度的信息，且编码与预测的训练梯度在外层保持分离。 |
 | <a id="guan26c-training-strategies"></a>[From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](https://proceedings.mlr.press/v306/guan26c.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guan26c) | 长视频内容的一次性参数蒸馏 | 用视频的密集描述与自动生成的问答对训练每段视频专有的 LoRA，把内容写入少量权重。多轮问答时只需把相应适配器挂到冻结视觉语言模型上，免去重读视频带来的重复编码。 |
-| <a id="guo26aj-training-strategies"></a>[ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](https://proceedings.mlr.press/v306/guo26aj.html) | 隐蔽文字识别的能力边界训练 | 对每张图枚举增强工具，并用预热识别器的多次识别通过率选出最佳工具，形成工具选择监督。对语义识别器则只保留通过率严格介于零和一的增强样本，使训练聚焦于可解但尚未掌握的样本。 |
+| <a id="guo26aj-training-strategies"></a>[ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](https://proceedings.mlr.press/v306/guo26aj.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-guo26aj) | 隐蔽文字识别的能力边界训练 | 对每张图枚举增强工具，并用预热识别器的多次识别通过率选出最佳工具，形成工具选择监督。对语义识别器则只保留通过率严格介于零和一的增强样本，使训练聚焦于可解但尚未掌握的样本。 |
 
 <a id="by-data-strategies"></a>
 
@@ -113,7 +113,7 @@
 | <a id="fu26s-data-strategies"></a>[VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://proceedings.mlr.press/v306/fu26s.html) · [论文卡](../conferences/icml-2026/cards/1101-1200.md#paper-fu26s) | 知识密集视频的分技能数据构造 | 以领域知识点指导专家视频的搜集，分别为基础视频推理、知识辅助感知和知识密集推理构造题目。由专家制作含逐步解释的种子，让后续规模化生成保留视频证据与专业推理的联系。 |
 | <a id="gao26o-data-strategies"></a>[Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://proceedings.mlr.press/v306/gao26o.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26o) | 视频到三维空间监督数据 | 先优化多视角深度一致的三维高斯场景，再维护跨帧类别表生成语义一致的掩码。提升掩码到三维前做边界腐蚀和网格深度过滤，可减少物体边缘离群点对标注框的影响。 |
 | <a id="giannone26a-data-strategies"></a>[GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](https://proceedings.mlr.press/v306/giannone26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-giannone26a) | 图像到 CAD 的几何反馈扩增 | 执行多个候选 CAD 程序，以生成几何与真值的 IoU 筛出多样的高保真代码。再把可执行但有偏差的候选渲染成难例图像，与原正确程序配对，让微调模型学会纠正结构化几何错误。 |
-| <a id="gurbuz26a-data-strategies"></a>[ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](https://proceedings.mlr.press/v306/gurbuz26a.html) | 界面全量解析监督 | 批量渲染网页，把所有可见元素的边框、类型与文本共同整理成监督，再用视觉语言模型重标和筛选。密集标注使模型学到整屏结构，可迁移到只指向少数元素的定位任务。 |
+| <a id="gurbuz26a-data-strategies"></a>[ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](https://proceedings.mlr.press/v306/gurbuz26a.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-gurbuz26a) | 界面全量解析监督 | 批量渲染网页，把所有可见元素的边框、类型与文本共同整理成监督，再用视觉语言模型重标和筛选。密集标注使模型学到整屏结构，可迁移到只指向少数元素的定位任务。 |
 
 <a id="by-inference"></a>
 
@@ -145,8 +145,8 @@
 | <a id="gao26r-inference"></a>[AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density](https://proceedings.mlr.press/v306/gao26r.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26r) | 视觉词元压缩的平坦度路由 | 以像素梯度低于阈值的比例衡量图像平坦度。大面积平坦、结构信息稀疏的图表进入保留上下文的融合分支，其余图像则走激进剪枝分支。 |
 | <a id="ghosal26a-inference"></a>[Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away](https://proceedings.mlr.press/v306/ghosal26a.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-ghosal26a) | 安全阈值触发的早期推理纠偏 | 用安全奖励模型监测逐步生成的推理片段，仅在评分跌破阈值时拒绝该步并注入短纠偏前缀。论文测试发现，许多有害轨迹在最初一至三步内纠偏便可转向安全续写。 |
 | <a id="gu26r-inference"></a>[What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions](https://proceedings.mlr.press/v306/gu26r.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-gu26r) | 文本反事实下的时序预测归因 | 先在历史文本条件下用扩散归因提取相对不随外部事件变化的时序成分，再用描述未来事件的文本条件生成轨迹。这样可在保留内生规律的同时改变与事件相关的预测部分。 |
-| <a id="guo26ai-inference"></a>[Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer](https://proceedings.mlr.press/v306/guo26ai.html) | 异常检测的跨模态重建替换 | 对从三维特征重建的二维外观，计算它到正常原型库的最近余弦距离。距离过大时，用对应三维特征通过注意力检索正常二维表征来替换，再对比观测与重建以降低一对多映射造成的误报。 |
-| <a id="hai26a-inference"></a>[Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](https://proceedings.mlr.press/v306/hai26a.html) | 注意力引导的测试时提示适配 | 用末层的梯度加权注意力追踪类别词元到图块的相关性，再按图块重要性分配增强强度并组合多视图结果，使提示适配尽量保住细粒度判别区域。 |
+| <a id="guo26ai-inference"></a>[Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacer](https://proceedings.mlr.press/v306/guo26ai.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-guo26ai) | 异常检测的跨模态重建替换 | 对从三维特征重建的二维外观，计算它到正常原型库的最近余弦距离。距离过大时，用对应三维特征通过注意力检索正常二维表征来替换，再对比观测与重建以降低一对多映射造成的误报。 |
+| <a id="hai26a-inference"></a>[Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](https://proceedings.mlr.press/v306/hai26a.html) · [论文卡](../conferences/icml-2026/cards/1401-1500.md#paper-hai26a) | 注意力引导的测试时提示适配 | 用末层的梯度加权注意力追踪类别词元到图块的相关性，再按图块重要性分配增强强度并组合多视图结果，使提示适配尽量保住细粒度判别区域。 |
 
 <a id="by-representation-learning"></a>
 
@@ -194,7 +194,7 @@
 | <a id="gao26g-evaluation"></a>[FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content](https://proceedings.mlr.press/v306/gao26g.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26g) | 多模态伪造的来源与事实双轴评测 | 从同一语义素材包跨组合抽取自然或合成媒体及事实或非事实内容，再组装成网页。逐模态标注生成来源，并另外标注全局事实性、文本与图像音视频间的一致性，用以定位可信媒体包装下的内容错误。 |
 | <a id="gao26ag-evaluation"></a>[Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](https://proceedings.mlr.press/v306/gao26ag.html) · [论文卡](../conferences/icml-2026/cards/1201-1300.md#paper-gao26ag) | 文本知识编辑的图像迁移诊断 | 分别测目标文本续写和生成图像上的视觉问答。论文发现文本侧成功率高时图像仍可能沿用旧知识，生成前显式写出编辑后的事实可改善部分模型的迁移。 |
 | <a id="gong26a-evaluation"></a>[VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](https://proceedings.mlr.press/v306/gong26a.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-gong26a) | 手机 GUI 代理的分能力诊断 | 为任务标注感知、理解、决策、操作和记忆五类能力及其难度，并用环境变体复测同类意图。实测失败集中在感知与记忆，且强模型在环境变化下的成功率显著下降。 |
-| <a id="guo26q-evaluation"></a>[CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](https://proceedings.mlr.press/v306/guo26q.html) | 图文一致的训练数据后门评测 | 在无法访问被测模型权重和训练流程的设定下，论文用保持图文语义一致的扩散合成样本测试数据投毒。MSCOCO 与 VQA v2 上的实验显示，干净样本表现可保持稳定，同时触发条件下仍能出现明显的定向失效。 |
+| <a id="guo26q-evaluation"></a>[CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](https://proceedings.mlr.press/v306/guo26q.html) · [论文卡](../conferences/icml-2026/cards/1301-1400.md#paper-guo26q) | 图文一致的训练数据后门评测 | 在无法访问被测模型权重和训练流程的设定下，论文用保持图文语义一致的扩散合成样本测试数据投毒。MSCOCO 与 VQA v2 上的实验显示，干净样本表现可保持稳定，同时触发条件下仍能出现明显的定向失效。 |
 
 <a id="by-theory-statistics"></a>
 
