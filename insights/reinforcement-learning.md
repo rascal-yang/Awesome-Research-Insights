@@ -76,6 +76,8 @@
 - [用有效样本量缩放异步更新](../conferences/icml-2026/cards/1701-1800.md#huang26ca-reinforcement-learning) · Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs
 - [把环境反馈变成逐词元自蒸馏信号](../conferences/icml-2026/cards/1701-1800.md#hubotter26a-reinforcement-learning) · Reinforcement Learning via Self-Distillation
 - [按词元被纳入概率校正前缀反传](../conferences/icml-2026/cards/1701-1800.md#hwang26b-reinforcement-learning) · PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF
+- [按未来全失败概率校准多次尝试的信用](../conferences/icml-2026/cards/1801-1900.md#ildiz26a-reinforcement-learning) · Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought
+- [把多路推理合成答案用作训练参考](../conferences/icml-2026/cards/1801-1900.md#jayalath26a-reinforcement-learning) · Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision
 
 <a id="by-computer-vision"></a>
 
@@ -162,6 +164,7 @@
 - [用差分散度同时模仿专家与排斥坏示范](../conferences/icml-2026/cards/1501-1600.md#hoang26c-reinforcement-learning) · DualCOIL: Offline Imitation Learning from Contrasting Demonstrations
 - [用主动偏好查询把并行搜索预算移向感兴趣区域](../conferences/icml-2026/cards/1601-1700.md#hu26am-reinforcement-learning) · Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning
 - [在扩展状态中计入偏好切换成本](../conferences/icml-2026/cards/1601-1700.md#hu26bd-reinforcement-learning) · Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion
+- [给 critic 中的策略对数概率加界](../conferences/icml-2026/cards/1801-1900.md#iwaki26a-reinforcement-learning) · Mirror Descent Actor Critic via Bounded Advantage Learning
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -221,4 +224,5 @@
 - [将个体学情和群体进度纳入同一教学奖励](../conferences/icml-2026/cards/1501-1600.md#he26as-reinforcement-learning) · ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education
 - [用带随机扰动的速度场学习晶体生成退火](../conferences/icml-2026/cards/1501-1600.md#hollmer26a-reinforcement-learning) · Open Materials Generation with Inference-Time Reinforcement Learning
 - [让局部 RNA 设计代理共享全局折叠反馈](../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning
+- [用观测似然动态重加权潜结构轨迹](../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients
 <!-- classification:end -->

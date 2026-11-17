@@ -34,6 +34,7 @@
 - [复用可验证的软件环境](../conferences/icml-2026/cards/1301-1400.md#guo26aa-data-strategies) · MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering
 - [用多步代理更新估计样本的后续价值](../conferences/icml-2026/cards/1401-1500.md#hao26b-data-strategies) · BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining
 - [交替由学生写风格和教师补解法](../conferences/icml-2026/cards/1701-1800.md#huang26bq-data-strategies) · How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data
+- [把短题答案串成可验收的长链](../conferences/icml-2026/cards/1801-1900.md#ivanova26a-data-strategies) · h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 

@@ -122,6 +122,8 @@
 - [让并行验证器独立找错，并将长证明分段审核](../conferences/icml-2026/cards/1701-1800.md#huang26ay-inference) · Pessimistic Verification for Open-Ended Math Questions
 - [将模型选择与推理预算学习为一个在线动作](../conferences/icml-2026/cards/1701-1800.md#huang26bd-inference) · UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling
 - [按编辑意图选择水印嵌入强度](../conferences/icml-2026/cards/1701-1800.md#huang26ck-inference) · IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution
+- [用学习价值函数重采黑盒代理轨迹](../conferences/icml-2026/cards/1701-1800.md#hwang26i-inference) · Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents
+- [定位风格注意力头后再做人格引导](../conferences/icml-2026/cards/1801-1900.md#izawa26a-inference) · Steering at the Source: Style Modulation Heads for Robust Persona Control
 
 <a id="by-computer-vision"></a>
 
@@ -174,6 +176,9 @@
 - [用少量上下文样本低秩校正扩散缓存](../conferences/icml-2026/cards/1601-1700.md#huang26f-inference) · LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration
 - [利用流映射预测终点并施加奖励引导](../conferences/icml-2026/cards/1701-1800.md#huang26ae-inference) · How to Guide Your Flow: Few-Step Alignment via Flow Map Reward Guidance
 - [按零样本置信度维护测试时类原型](../conferences/icml-2026/cards/1701-1800.md#huang26cc-inference) · Prototype-Based Test-Time Adaptation of Vision-Language Models
+- [将逆问题先验修正限制在测量梯度的正交方向](../conferences/icml-2026/cards/1801-1900.md#hyoseok26a-inference) · Measurement-Consistent Langevin Corrector for Stabilizing Latent Diffusion Inverse Problem Solvers
+- [随去噪阶段伸缩高分辨率位置编码](../conferences/icml-2026/cards/1801-1900.md#issachar26a-inference) · DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion
+- [由视频生成器自校正高不确定区域](../conferences/icml-2026/cards/1801-1900.md#jang26d-inference) · Self-Refining Video Sampling
 
 <a id="by-nlp"></a>
 
@@ -186,6 +191,7 @@
 - [语音情感的稀疏特征干预](../conferences/icml-2026/cards/0901-1000.md#du26i-inference) · Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech
 - [稀疏编码的多向量倒排检索](../conferences/icml-2026/cards/1301-1400.md#guo26x-inference) · No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval
 - [把经过正确性验证的查询扩展逐项写回检索键](../conferences/icml-2026/cards/1601-1700.md#hu26ac-inference) · RAG without Forgetting: Continual Query-Infused Key Memory
+- [把晚交互打分蒸馏成可索引相似度](../conferences/icml-2026/cards/1801-1900.md#jaasaari26a-inference) · LEMUR: Learned Multi-Vector Retrieval
 
 <a id="by-reinforcement-learning"></a>
 

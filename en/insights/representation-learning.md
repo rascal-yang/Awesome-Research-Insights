@@ -62,6 +62,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 
 - [Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](../../conferences/icml-2026/cards/0201-0300.md#bastankhah26a-representation-learning) · 中文
 - [Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks](../../conferences/icml-2026/cards/1701-1800.md#huber26a-representation-learning) · 中文
+- [Action-Sufficient Goal Representations](../../conferences/icml-2026/cards/1801-1900.md#hyeon26a-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -160,4 +161,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [VecMol: Vector-Field Representations for 3D Molecule Generation](../../conferences/icml-2026/cards/1601-1700.md#hua26a-representation-learning) · 中文
 - [Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26as-representation-learning) · 中文
 - [LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space](../../conferences/icml-2026/cards/1701-1800.md#huang26ci-representation-learning) · 中文
+- [PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution](../../conferences/icml-2026/cards/1801-1900.md#jadhav26a-representation-learning) · 中文
+- [Flexible Kernels for Protein Property Prediction](../../conferences/icml-2026/cards/1801-1900.md#jankowiak26a-representation-learning) · 中文
 <!-- classification:end -->

@@ -44,6 +44,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [When Model Merging Breaks Routing: Training-Free Calibration for MoE](../../conferences/icml-2026/cards/1701-1800.md#huang26au-optimization) · 中文
 - [FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26br-optimization) · 中文
 - [Deterministic Differentiable Structured Pruning for Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26cg-optimization) · 中文
+- [CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](../../conferences/icml-2026/cards/1801-1900.md#ikram26a-optimization) · 中文
+- [Stabilizing Native Low-Rank LLM Pretraining](../../conferences/icml-2026/cards/1801-1900.md#janson26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -57,6 +59,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Newton-coupled Dual-Teacher Semi-supervised Learning Framework](../../conferences/icml-2026/cards/1501-1600.md#he26ad-optimization) · 中文
 - [AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing](../../conferences/icml-2026/cards/1501-1600.md#hong26c-optimization) · 中文
 - [3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](../../conferences/icml-2026/cards/1601-1700.md#hsiao26a-optimization) · 中文
+- [Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation](../../conferences/icml-2026/cards/1701-1800.md#hwang26h-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -217,6 +220,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [GradientStabilizer: Fix the Norm, Not the Gradient](../../conferences/icml-2026/cards/1701-1800.md#huang26bb-optimization) · 中文
 - [Discretely-Refined Multi-view Clustering via Aligned Anchor Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26bg-optimization) · 中文
 - [HONet: Data-Efficient Learning for Exact Cover Tasks via Hypergraph Optimization](../../conferences/icml-2026/cards/1701-1800.md#huang26cn-optimization) · 中文
+- [A hitchhiker’s guide to Poisson gradient estimation](../../conferences/icml-2026/cards/1801-1900.md#ibrahim26a-optimization) · 中文
+- [Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data](../../conferences/icml-2026/cards/1801-1900.md#inane26a-optimization) · 中文
+- [On the Role of Batch Size in Stochastic Conditional Gradient Methods](../../conferences/icml-2026/cards/1801-1900.md#islamov26b-optimization) · 中文
+- [An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale](../../conferences/icml-2026/cards/1801-1900.md#javaloy26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

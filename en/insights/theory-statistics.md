@@ -90,6 +90,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs](../../conferences/icml-2026/cards/1601-1700.md#hu26bc-theory-statistics) · 中文
 - [Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs](../../conferences/icml-2026/cards/1701-1800.md#huang26x-theory-statistics) · 中文
 - [Corrigibility Transformation: Constructing Goals That Accept Updates](../../conferences/icml-2026/cards/1701-1800.md#hudson26a-theory-statistics) · 中文
+- [Box Thirding: Anytime Best Arm Identification under Insufficient Sampling](../../conferences/icml-2026/cards/1701-1800.md#hwang26c-theory-statistics) · 中文
+- [Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -298,6 +300,20 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks](../../conferences/icml-2026/cards/1701-1800.md#huang26ai-theory-statistics) · 中文
 - [Delegation and Verification under AI](../../conferences/icml-2026/cards/1701-1800.md#huang26bp-theory-statistics) · 中文
 - [Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families](../../conferences/icml-2026/cards/1701-1800.md#hulsman26a-theory-statistics) · 中文
+- [Correcting Split Selection in Online Decision Trees via Anytime-Valid Inference](../../conferences/icml-2026/cards/1801-1900.md#i-amoukou26a-theory-statistics) · 中文
+- [High-Dimensional Learning Dynamics of Quantized Models with Straight-Through Estimator](../../conferences/icml-2026/cards/1801-1900.md#ichikawa26a-theory-statistics) · 中文
+- [Provably Label-Efficient Conformal Prediction](../../conferences/icml-2026/cards/1801-1900.md#ilyas26a-theory-statistics) · 中文
+- [A Theory of Data Acquisition and Pricing at Scale](../../conferences/icml-2026/cards/1801-1900.md#ilyas26b-theory-statistics) · 中文
+- [Dichotomy of Feature Learning and Unlearning: Fast-Slow Analysis on Neural Networks with Stochastic Gradient Descent](../../conferences/icml-2026/cards/1801-1900.md#imai26a-theory-statistics) · 中文
+- [Active Regression for Single-Index Models with Unknown Link Functions](../../conferences/icml-2026/cards/1801-1900.md#in26a-theory-statistics) · 中文
+- [On the Infinite Width and Depth Limits of Predictive Coding Networks](../../conferences/icml-2026/cards/1801-1900.md#innocenti26a-theory-statistics) · 中文
+- [Non-Euclidean Gradient Descent Operates at the Edge of Stability](../../conferences/icml-2026/cards/1801-1900.md#islamov26a-theory-statistics) · 中文
+- [Last-Iterate Convergence of Regularized Gradient Methods for Stochastic Monotone Variational Inequalities](../../conferences/icml-2026/cards/1801-1900.md#ito26a-theory-statistics) · 中文
+- [Tighter Regret Lower Bound for Gaussian Process Bandits with Squared Exponential Kernel in Hypersphere](../../conferences/icml-2026/cards/1801-1900.md#iwazaki26a-theory-statistics) · 中文
+- [Subgroup Discovery with the Cox Model](../../conferences/icml-2026/cards/1801-1900.md#izzo26a-theory-statistics) · 中文
+- [A Perturbation Approach to Unconstrained Linear Bandits](../../conferences/icml-2026/cards/1801-1900.md#jacobsen26a-theory-statistics) · 中文
+- [Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing](../../conferences/icml-2026/cards/1801-1900.md#jain26a-theory-statistics) · 中文
+- [Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models](../../conferences/icml-2026/cards/1801-1900.md#javanmard26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -150,6 +150,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild](../../conferences/icml-2026/cards/1701-1800.md#huang26cf-evaluation) · 中文
 - [RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks](../../conferences/icml-2026/cards/1701-1800.md#huang26ch-evaluation) · 中文
 - [Copyright-Bench: Agentic Evaluation of Copyright Law Compliance](../../conferences/icml-2026/cards/1701-1800.md#hui26a-evaluation) · 中文
+- [LLM Watermark Evasion via Bias Inversion](../../conferences/icml-2026/cards/1701-1800.md#hwang26e-evaluation) · 中文
+- [Lost in Context: Addressing Context Anxiety in Large Language Models](../../conferences/icml-2026/cards/1801-1900.md#igbinedion26a-evaluation) · 中文
+- [CapBencher: Give Your LLM Benchmark a Built-in Alarm for Test-Set Overfitting](../../conferences/icml-2026/cards/1801-1900.md#ishida26a-evaluation) · 中文
+- [Exploration Hacking: Can LLMs Learn to Resist RL Training?](../../conferences/icml-2026/cards/1801-1900.md#jang26b-evaluation) · 中文
+- [CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction](../../conferences/icml-2026/cards/1801-1900.md#jawad26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -173,6 +178,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring](../../conferences/icml-2026/cards/1601-1700.md#huang26n-evaluation) · 中文
 - [Formalizing the Binding Problem](../../conferences/icml-2026/cards/1701-1800.md#huang26y-evaluation) · 中文
 - [Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding](../../conferences/icml-2026/cards/1701-1800.md#huang26av-evaluation) · 中文
+- [Formally Exploring Visual Anomaly Detection Evaluation Metrics](../../conferences/icml-2026/cards/1801-1900.md#iqbal26a-evaluation) · 中文
+- [A Geometry-Based View of Mahalanobis OOD Detection](../../conferences/icml-2026/cards/1801-1900.md#janiak26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -246,6 +253,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · 中文
 - [Steal the Patch Size: Adversarially Manipulate Vision Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26b-evaluation) · 中文
 - [Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers](../../conferences/icml-2026/cards/1701-1800.md#huang26at-evaluation) · 中文
+- [Zero-Shot Rankability: Revealing Latent Ordinal Structure in Multimodal Large Language Models via Language](../../conferences/icml-2026/cards/1801-1900.md#hyeon-woo26a-evaluation) · 中文
+- [LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues](../../conferences/icml-2026/cards/1801-1900.md#ivry26a-evaluation) · 中文
+- [Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding](../../conferences/icml-2026/cards/1801-1900.md#izadi26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -279,6 +289,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](../../conferences/icml-2026/cards/1401-1500.md#han26d-evaluation) · 中文
 - [An In-Depth Study on Deep Learning Model Cloning](../../conferences/icml-2026/cards/1601-1700.md#hu26ap-evaluation) · 中文
 - [ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](../../conferences/icml-2026/cards/1701-1800.md#huang26bw-evaluation) · 中文
+- [Evaluating Bivariate Causal Statements Based on Mutual Compatibility](../../conferences/icml-2026/cards/1801-1900.md#jahn26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -32,6 +32,8 @@
 - <a id="huang26ap-architecture"></a>[Towards Professional-Grade Financial Agents: Benchmarking, Tooling, and Structured Reasoning](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ap)
 - <a id="huang26by-architecture"></a>[MAS-Architect: Declarative Multi-Agent System Design via Separation of Concerns](../conferences/icml-2026/cards/1701-1800.md#paper-huang26by)
 - <a id="huang26cl-architecture"></a>[ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation](../conferences/icml-2026/cards/1701-1800.md#paper-huang26cl)
+- <a id="ibrahimzada26a-architecture"></a>[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](../conferences/icml-2026/cards/1801-1900.md#paper-ibrahimzada26a)
+- <a id="jaiswal26a-architecture"></a>[MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](../conferences/icml-2026/cards/1801-1900.md#paper-jaiswal26a)
 
 <a id="by-modules"></a>
 
@@ -73,6 +75,7 @@
 - <a id="gu26o-loss-functions"></a>[From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models](../conferences/icml-2026/cards/1301-1400.md#paper-gu26o)
 - <a id="hu26d-loss-functions"></a>[Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](../conferences/icml-2026/cards/1601-1700.md#paper-hu26d)
 - <a id="huang26s-loss-functions"></a>[Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA](../conferences/icml-2026/cards/1701-1800.md#paper-huang26s)
+- <a id="im26a-loss-functions"></a>[Normalized Rewards for Preference Optimization](../conferences/icml-2026/cards/1801-1900.md#paper-im26a)
 
 <a id="by-optimization"></a>
 
@@ -109,6 +112,8 @@
 - <a id="huang26au-optimization"></a>[When Model Merging Breaks Routing: Training-Free Calibration for MoE](../conferences/icml-2026/cards/1701-1800.md#paper-huang26au)
 - <a id="huang26br-optimization"></a>[FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models](../conferences/icml-2026/cards/1701-1800.md#paper-huang26br)
 - <a id="huang26cg-optimization"></a>[Deterministic Differentiable Structured Pruning for Large Language Models](../conferences/icml-2026/cards/1701-1800.md#paper-huang26cg)
+- <a id="ikram26a-optimization"></a>[CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](../conferences/icml-2026/cards/1801-1900.md#paper-ikram26a)
+- <a id="janson26a-optimization"></a>[Stabilizing Native Low-Rank LLM Pretraining](../conferences/icml-2026/cards/1801-1900.md#paper-janson26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -177,6 +182,8 @@
 - <a id="huang26ca-reinforcement-learning"></a>[Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ca)
 - <a id="hubotter26a-reinforcement-learning"></a>[Reinforcement Learning via Self-Distillation](../conferences/icml-2026/cards/1701-1800.md#paper-hubotter26a)
 - <a id="hwang26b-reinforcement-learning"></a>[PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26b)
+- <a id="ildiz26a-reinforcement-learning"></a>[Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought](../conferences/icml-2026/cards/1801-1900.md#paper-ildiz26a)
+- <a id="jayalath26a-reinforcement-learning"></a>[Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](../conferences/icml-2026/cards/1801-1900.md#paper-jayalath26a)
 
 <a id="by-training-strategies"></a>
 
@@ -228,6 +235,9 @@
 - <a id="huang26an-training-strategies"></a>[Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity](../conferences/icml-2026/cards/1701-1800.md#paper-huang26an)
 - <a id="huang26ar-training-strategies"></a>[PADA-Coder: Improving Plan-Following Code Generation via Perturbation-Verified Attention Distillation and Dynamic Alignment](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ar)
 - <a id="huang26co-training-strategies"></a>[Reliability-Aware LLM Alignment from Inconsistent Human Feedback](../conferences/icml-2026/cards/1701-1800.md#paper-huang26co)
+- <a id="im26b-training-strategies"></a>[Post-Hoc Merging is Not Enough: Many-Shot Model Merging with Loss-Gap Balancing](../conferences/icml-2026/cards/1801-1900.md#paper-im26b)
+- <a id="jajal26a-training-strategies"></a>[Global Merger-Arbitrage Forecasting with Language Models](../conferences/icml-2026/cards/1801-1900.md#paper-jajal26a)
+- <a id="jang26a-training-strategies"></a>[Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs](../conferences/icml-2026/cards/1801-1900.md#paper-jang26a)
 
 <a id="by-data-strategies"></a>
 
@@ -254,6 +264,7 @@
 - <a id="guo26aa-data-strategies"></a>[MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering](../conferences/icml-2026/cards/1301-1400.md#paper-guo26aa)
 - <a id="hao26b-data-strategies"></a>[BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](../conferences/icml-2026/cards/1401-1500.md#paper-hao26b)
 - <a id="huang26bq-data-strategies"></a>[How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bq)
+- <a id="ivanova26a-data-strategies"></a>[h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning](../conferences/icml-2026/cards/1801-1900.md#paper-ivanova26a)
 
 <a id="by-inference"></a>
 
@@ -368,6 +379,8 @@
 - <a id="huang26ay-inference"></a>[Pessimistic Verification for Open-Ended Math Questions](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ay)
 - <a id="huang26bd-inference"></a>[UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bd)
 - <a id="huang26ck-inference"></a>[IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ck)
+- <a id="hwang26i-inference"></a>[Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26i)
+- <a id="izawa26a-inference"></a>[Steering at the Source: Style Modulation Heads for Robust Persona Control](../conferences/icml-2026/cards/1801-1900.md#paper-izawa26a)
 
 <a id="by-representation-learning"></a>
 
@@ -521,6 +534,11 @@
 - <a id="huang26cf-evaluation"></a>[How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild](../conferences/icml-2026/cards/1701-1800.md#paper-huang26cf)
 - <a id="huang26ch-evaluation"></a>[RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ch)
 - <a id="hui26a-evaluation"></a>[Copyright-Bench: Agentic Evaluation of Copyright Law Compliance](../conferences/icml-2026/cards/1701-1800.md#paper-hui26a)
+- <a id="hwang26e-evaluation"></a>[LLM Watermark Evasion via Bias Inversion](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26e)
+- <a id="igbinedion26a-evaluation"></a>[Lost in Context: Addressing Context Anxiety in Large Language Models](../conferences/icml-2026/cards/1801-1900.md#paper-igbinedion26a)
+- <a id="ishida26a-evaluation"></a>[CapBencher: Give Your LLM Benchmark a Built-in Alarm for Test-Set Overfitting](../conferences/icml-2026/cards/1801-1900.md#paper-ishida26a)
+- <a id="jang26b-evaluation"></a>[Exploration Hacking: Can LLMs Learn to Resist RL Training?](../conferences/icml-2026/cards/1801-1900.md#paper-jang26b)
+- <a id="jawad26a-evaluation"></a>[CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction](../conferences/icml-2026/cards/1801-1900.md#paper-jawad26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -34,6 +34,7 @@ Data selection, annotation, augmentation, and sampling.
 - [MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering](../../conferences/icml-2026/cards/1301-1400.md#guo26aa-data-strategies) · 中文
 - [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](../../conferences/icml-2026/cards/1401-1500.md#hao26b-data-strategies) · 中文
 - [How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data](../../conferences/icml-2026/cards/1701-1800.md#huang26bq-data-strategies) · 中文
+- [h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning](../../conferences/icml-2026/cards/1801-1900.md#ivanova26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

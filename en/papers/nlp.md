@@ -16,6 +16,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="dervishi26a-architecture"></a>[Separating Representation from Reconstruction Enables Scalable Text Encoders](../../conferences/icml-2026/cards/0801-0900.md#paper-dervishi26a)
 - <a id="gong26c-architecture"></a>[Scaling Transformers for End-to-End Discrete Audio Tokenization](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26c)
 - <a id="hong26f-architecture"></a>[Unifying Masked Diffusion Models with Various Generation Orders and Beyond](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26f)
+- <a id="isik26a-architecture"></a>[Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-isik26a)
 
 <a id="by-modules"></a>
 
@@ -69,6 +70,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="du26i-inference"></a>[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](../../conferences/icml-2026/cards/0901-1000.md#paper-du26i)
 - <a id="guo26x-inference"></a>[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26x)
 - <a id="hu26ac-inference"></a>[RAG without Forgetting: Continual Query-Infused Key Memory](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ac)
+- <a id="jaasaari26a-inference"></a>[LEMUR: Learned Multi-Vector Retrieval](../../conferences/icml-2026/cards/1801-1900.md#paper-jaasaari26a)
 
 <a id="by-representation-learning"></a>
 

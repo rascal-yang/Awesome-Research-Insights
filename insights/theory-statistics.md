@@ -90,6 +90,8 @@
 - [用坐标置信度覆盖连续偏好](../conferences/icml-2026/cards/1601-1700.md#hu26bc-theory-statistics) · Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs
 - [把探索与策略更新降到评估 oracle](../conferences/icml-2026/cards/1701-1800.md#huang26x-theory-statistics) · Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs
 - [用反事实动作价值消除阻止更新的激励](../conferences/icml-2026/cards/1701-1800.md#hudson26a-theory-statistics) · Corrigibility Transformation: Constructing Goals That Accept Updates
+- [用三路分流平衡大量候选的覆盖与复测](../conferences/icml-2026/cards/1701-1800.md#hwang26c-theory-statistics) · Box Thirding: Anytime Best Arm Identification under Insufficient Sampling
+- [用条件偏离限制低成交价](../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions
 
 <a id="by-robotics"></a>
 
@@ -298,6 +300,20 @@
 - [用师生重叠统计识别优化吸引子](../conferences/icml-2026/cards/1701-1800.md#huang26ai-theory-statistics) · Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks
 - [同时求解个人委派与机构质量](../conferences/icml-2026/cards/1701-1800.md#huang26bp-theory-statistics) · Delegation and Verification under AI
 - [先分解切换机制再在各机制内发现因果边](../conferences/icml-2026/cards/1701-1800.md#hulsman26a-theory-statistics) · Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families
+- [用任意时刻检验管理流式树的分裂预算](../conferences/icml-2026/cards/1801-1900.md#i-amoukou26a-theory-statistics) · Correcting Split Selection in Online Decision Trees via Anytime-Valid Inference
+- [用高维动态区分量化训练的平台期和稳态下限](../conferences/icml-2026/cards/1801-1900.md#ichikawa26a-theory-statistics) · High-Dimensional Learning Dynamics of Quantized Models with Straight-Through Estimator
+- [用任意时刻校准兼容自适应标注停止](../conferences/icml-2026/cards/1801-1900.md#ilyas26a-theory-statistics) · Provably Label-Efficient Conformal Prediction
+- [把昂贵归因计算留到优化后期](../conferences/icml-2026/cards/1801-1900.md#ilyas26b-theory-statistics) · A Theory of Data Acquisition and Pricing at Scale
+- [慢层更新可抹去快层对齐](../conferences/icml-2026/cards/1801-1900.md#imai26a-theory-statistics) · Dichotomy of Feature Learning and Unlearning: Fast-Slow Analysis on Neural Networks with Stochastic Gradient Descent
+- [特征可见时预选标签查询](../conferences/icml-2026/cards/1801-1900.md#in26a-theory-statistics) · Active Regression for Single-Index Models with Unknown Link Functions
+- [用宽深比例刻画局部信用分配](../conferences/icml-2026/cards/1801-1900.md#innocenti26a-theory-statistics) · On the Infinite Width and Depth Limits of Predictive Coding Networks
+- [用更新所用范数监测稳定性边缘](../conferences/icml-2026/cards/1801-1900.md#islamov26a-theory-statistics) · Non-Euclidean Gradient Descent Operates at the Edge of Stability
+- [递减正则跟踪随机变分不等式当前解](../conferences/icml-2026/cards/1801-1900.md#ito26a-theory-statistics) · Last-Iterate Convergence of Regularized Gradient Methods for Stochastic Monotone Variational Inequalities
+- [在球面用球谐方向构造难探索奖励](../conferences/icml-2026/cards/1801-1900.md#iwazaki26a-theory-statistics) · Tighter Regret Lower Bound for Gaussian Process Bandits with Squared Exponential Kernel in Hypersphere
+- [用生存分布熵与条件秩搜索亚组](../conferences/icml-2026/cards/1801-1900.md#izzo26a-theory-statistics) · Subgroup Discovery with the Cox Model
+- [用随机扰动接入全信息在线优化器](../conferences/icml-2026/cards/1801-1900.md#jacobsen26a-theory-statistics) · A Perturbation Approach to Unconstrained Linear Bandits
+- [检验条件处理效应的整个分布](../conferences/icml-2026/cards/1801-1900.md#jain26a-theory-statistics) · Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing
+- [按基座可解性区分监督和回报数据](../conferences/icml-2026/cards/1801-1900.md#javanmard26a-theory-statistics) · Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models
 
 <a id="by-graph-and-recommendation"></a>
 

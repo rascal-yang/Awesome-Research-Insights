@@ -59,6 +59,9 @@ Training schedules, curricula, and task or stage composition.
 - [Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity](../../conferences/icml-2026/cards/1701-1800.md#huang26an-training-strategies) · 中文
 - [PADA-Coder: Improving Plan-Following Code Generation via Perturbation-Verified Attention Distillation and Dynamic Alignment](../../conferences/icml-2026/cards/1701-1800.md#huang26ar-training-strategies) · 中文
 - [Reliability-Aware LLM Alignment from Inconsistent Human Feedback](../../conferences/icml-2026/cards/1701-1800.md#huang26co-training-strategies) · 中文
+- [Post-Hoc Merging is Not Enough: Many-Shot Model Merging with Loss-Gap Balancing](../../conferences/icml-2026/cards/1801-1900.md#im26b-training-strategies) · 中文
+- [Global Merger-Arbitrage Forecasting with Language Models](../../conferences/icml-2026/cards/1801-1900.md#jajal26a-training-strategies) · 中文
+- [Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs](../../conferences/icml-2026/cards/1801-1900.md#jang26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -83,6 +86,7 @@ Training schedules, curricula, and task or stage composition.
 - [CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal](../../conferences/icml-2026/cards/1501-1600.md#he26al-training-strategies) · 中文
 - [Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion](../../conferences/icml-2026/cards/1501-1600.md#he26aw-training-strategies) · 中文
 - [Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels](../../conferences/icml-2026/cards/1601-1700.md#hou26b-training-strategies) · 中文
+- [Scalable GANs with Transformers](../../conferences/icml-2026/cards/1801-1900.md#hyun26a-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -121,6 +125,8 @@ Training schedules, curricula, and task or stage composition.
 - [Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness](../../conferences/icml-2026/cards/1501-1600.md#hong26b-training-strategies) · 中文
 - [Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26bx-training-strategies) · 中文
 - [Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought](../../conferences/icml-2026/cards/1701-1800.md#huo26a-training-strategies) · 中文
+- [Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#hwang26g-training-strategies) · 中文
+- [Efficient Distributed MLLM Training with Cornstarch](../../conferences/icml-2026/cards/1801-1900.md#jang26g-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -165,6 +171,7 @@ Training schedules, curricula, and task or stage composition.
 - [FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping](../../conferences/icml-2026/cards/1501-1600.md#he26p-training-strategies) · 中文
 - [Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation](../../conferences/icml-2026/cards/1501-1600.md#hong26e-training-strategies) · 中文
 - [From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../../conferences/icml-2026/cards/1501-1600.md#horoi26a-training-strategies) · 中文
+- [Continual Learning of Domain-Invariant Representations](../../conferences/icml-2026/cards/1801-1900.md#janetzky26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

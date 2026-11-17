@@ -28,6 +28,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26x)
 - <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26x)
 - <a id="gyenes26a-modules"></a>[Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../../conferences/icml-2026/cards/1401-1500.md#paper-gyenes26a)
+- <a id="jang26c-modules"></a>[RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26c)
 
 <a id="by-loss-functions"></a><a id="vision-language-action-models"></a>
 

@@ -122,6 +122,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Pessimistic Verification for Open-Ended Math Questions](../../conferences/icml-2026/cards/1701-1800.md#huang26ay-inference) · 中文
 - [UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling](../../conferences/icml-2026/cards/1701-1800.md#huang26bd-inference) · 中文
 - [IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution](../../conferences/icml-2026/cards/1701-1800.md#huang26ck-inference) · 中文
+- [Agentic Monte Carlo: Simulating Reinforcement Learning for Black-Box Agents](../../conferences/icml-2026/cards/1701-1800.md#hwang26i-inference) · 中文
+- [Steering at the Source: Style Modulation Heads for Robust Persona Control](../../conferences/icml-2026/cards/1801-1900.md#izawa26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -174,6 +176,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration](../../conferences/icml-2026/cards/1601-1700.md#huang26f-inference) · 中文
 - [How to Guide Your Flow: Few-Step Alignment via Flow Map Reward Guidance](../../conferences/icml-2026/cards/1701-1800.md#huang26ae-inference) · 中文
 - [Prototype-Based Test-Time Adaptation of Vision-Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26cc-inference) · 中文
+- [Measurement-Consistent Langevin Corrector for Stabilizing Latent Diffusion Inverse Problem Solvers](../../conferences/icml-2026/cards/1801-1900.md#hyoseok26a-inference) · 中文
+- [DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/1801-1900.md#issachar26a-inference) · 中文
+- [Self-Refining Video Sampling](../../conferences/icml-2026/cards/1801-1900.md#jang26d-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -186,6 +191,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](../../conferences/icml-2026/cards/0901-1000.md#du26i-inference) · 中文
 - [No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](../../conferences/icml-2026/cards/1301-1400.md#guo26x-inference) · 中文
 - [RAG without Forgetting: Continual Query-Infused Key Memory](../../conferences/icml-2026/cards/1601-1700.md#hu26ac-inference) · 中文
+- [LEMUR: Learned Multi-Vector Retrieval](../../conferences/icml-2026/cards/1801-1900.md#jaasaari26a-inference) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

@@ -67,6 +67,7 @@ Reusable components and local changes to model inputs or connections.
 - [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](../../conferences/icml-2026/cards/1101-1200.md#feng26x-modules) · 中文
 - [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](../../conferences/icml-2026/cards/1101-1200.md#fu26x-modules) · 中文
 - [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../../conferences/icml-2026/cards/1401-1500.md#gyenes26a-modules) · 中文
+- [RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](../../conferences/icml-2026/cards/1801-1900.md#jang26c-modules) · 中文
 - <a id="instruction-prefixes-for-causal-visual-grounding"></a><a id="multimodal-token-layout"></a>[ReconVLA](../../papers/reconvla.md#reconvla-modules) · 中文
 
 <a id="by-multimodal"></a>

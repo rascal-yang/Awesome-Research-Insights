@@ -62,6 +62,7 @@
 
 - [控制相关表征](../conferences/icml-2026/cards/0201-0300.md#bastankhah26a-representation-learning) · Learning to Perceive the World Through Control: Empowerment-Based Representation Learning
 - [用切比雪夫多项式参数化低维控制策略](../conferences/icml-2026/cards/1701-1800.md#huber26a-representation-learning) · Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks
+- [按最优动作而非价值压缩层级目标](../conferences/icml-2026/cards/1801-1900.md#hyeon26a-representation-learning) · Action-Sufficient Goal Representations
 
 <a id="by-robotics"></a>
 
@@ -160,4 +161,6 @@
 - [用趋向原子的向量场表示分子](../conferences/icml-2026/cards/1601-1700.md#hua26a-representation-learning) · VecMol: Vector-Field Representations for 3D Molecule Generation
 - [利用跨环境变化学习工具变量中的稳定分量](../conferences/icml-2026/cards/1701-1800.md#huang26as-representation-learning) · Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning
 - [用导联投影约束心电潜变量](../conferences/icml-2026/cards/1701-1800.md#huang26ci-representation-learning) · LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space
+- [在固定正交模态系数中做概率超分](../conferences/icml-2026/cards/1801-1900.md#jadhav26a-representation-learning) · PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution
+- [用进化替换相关性构造小数据蛋白核](../conferences/icml-2026/cards/1801-1900.md#jankowiak26a-representation-learning) · Flexible Kernels for Protein Property Prediction
 <!-- classification:end -->

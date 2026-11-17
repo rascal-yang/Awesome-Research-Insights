@@ -96,6 +96,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="hoang26c-reinforcement-learning"></a>[DualCOIL: Offline Imitation Learning from Contrasting Demonstrations](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26c)
 - <a id="hu26am-reinforcement-learning"></a>[Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26am)
 - <a id="hu26bd-reinforcement-learning"></a>[Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bd)
+- <a id="iwaki26a-reinforcement-learning"></a>[Mirror Descent Actor Critic via Bounded Advantage Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-iwaki26a)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>
@@ -124,6 +125,7 @@ Learning from interaction, feedback, and offline experience.
 
 - <a id="bastankhah26a-representation-learning"></a>[Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](../../conferences/icml-2026/cards/0201-0300.md#paper-bastankhah26a)
 - <a id="huber26a-representation-learning"></a>[Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks](../../conferences/icml-2026/cards/1701-1800.md#paper-huber26a)
+- <a id="hyeon26a-representation-learning"></a>[Action-Sufficient Goal Representations](../../conferences/icml-2026/cards/1801-1900.md#paper-hyeon26a)
 
 <a id="by-evaluation"></a>
 
@@ -169,4 +171,6 @@ Learning from interaction, feedback, and offline experience.
 - <a id="hu26bc-theory-statistics"></a>[Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bc)
 - <a id="huang26x-theory-statistics"></a>[Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26x)
 - <a id="hudson26a-theory-statistics"></a>[Corrigibility Transformation: Constructing Goals That Accept Updates](../../conferences/icml-2026/cards/1701-1800.md#paper-hudson26a)
+- <a id="hwang26c-theory-statistics"></a>[Box Thirding: Anytime Best Arm Identification under Insufficient Sampling](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26c)
+- <a id="ipsen26a-theory-statistics"></a>[Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../../conferences/icml-2026/cards/1801-1900.md#paper-ipsen26a)
 <!-- classification:end -->

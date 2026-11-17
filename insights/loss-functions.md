@@ -26,6 +26,7 @@
 - [拆分语言模型的双端泄漏防护](../conferences/icml-2026/cards/1301-1400.md#gu26o-loss-functions) · From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models
 - [分别约束同层分工与跨层专家路径](../conferences/icml-2026/cards/1601-1700.md#hu26d-loss-functions) · Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization
 - [以局部方向一致性约束隐状态轨迹](../conferences/icml-2026/cards/1701-1800.md#huang26s-loss-functions) · Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA
+- [偏好对的总概率约束](../conferences/icml-2026/cards/1801-1900.md#im26a-loss-functions) · Normalized Rewards for Preference Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -39,6 +40,7 @@
 - [在商空间中去掉物体重组的整体刚体自由度](../conferences/icml-2026/cards/1501-1600.md#heck26a-loss-functions) · SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly
 - [用方向导数保持蒸馏的输入可控性](../conferences/icml-2026/cards/1701-1800.md#huang26bj-loss-functions) · Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment
 - [以逆向重建约束长视频滚动](../conferences/icml-2026/cards/1701-1800.md#huang26bt-loss-functions) · LIVE: Long-horizon Interactive Video World Modeling
+- [训练对重缩放敏感的模型更新](../conferences/icml-2026/cards/1801-1900.md#jang26e-loss-functions) · Making Models Unmergeable via Scaling-Sensitive Loss Landscape
 
 <a id="by-nlp"></a>
 
@@ -101,6 +103,7 @@
 - [多视图聚类的截断张量低秩惩罚](../conferences/icml-2026/cards/1101-1200.md#fu26g-loss-functions) · Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering
 - [用拓扑一致性约束特征激活](../conferences/icml-2026/cards/1201-1300.md#gaukstad26a-loss-functions) · Learning Coherent Representations: A Topological Approach to Interpretability
 - [用能量构造去噪漂移监督并复用探索轨迹](../conferences/icml-2026/cards/1401-1500.md#havens26a-loss-functions) · Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes
+- [用任务对称性约束加速迟发泛化](../conferences/icml-2026/cards/1701-1800.md#hwang26d-loss-functions) · Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -130,4 +133,5 @@
 - [保留配体受体关系的细胞传输](../conferences/icml-2026/cards/1001-1100.md#estevez26b-loss-functions) · CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment
 - [自一致控制训练扩散桥](../conferences/icml-2026/cards/1601-1700.md#howard26b-loss-functions) · Control Consistency Losses for Diffusion Bridges
 - [用对抗正交隔开坐标变化与动力学修正](../conferences/icml-2026/cards/1701-1800.md#huh26a-loss-functions) · Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality
+- [将路径结构和尾部风险直接接进配置策略](../conferences/icml-2026/cards/1701-1800.md#hwang26j-loss-functions) · Signature-Informed Transformer for Asset Allocation
 <!-- classification:end -->

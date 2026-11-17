@@ -26,6 +26,7 @@ Objectives, auxiliary supervision, and regularization.
 - [From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models](../../conferences/icml-2026/cards/1301-1400.md#gu26o-loss-functions) · 中文
 - [Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#hu26d-loss-functions) · 中文
 - [Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA](../../conferences/icml-2026/cards/1701-1800.md#huang26s-loss-functions) · 中文
+- [Normalized Rewards for Preference Optimization](../../conferences/icml-2026/cards/1801-1900.md#im26a-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -39,6 +40,7 @@ Objectives, auxiliary supervision, and regularization.
 - [SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly](../../conferences/icml-2026/cards/1501-1600.md#heck26a-loss-functions) · 中文
 - [Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment](../../conferences/icml-2026/cards/1701-1800.md#huang26bj-loss-functions) · 中文
 - [LIVE: Long-horizon Interactive Video World Modeling](../../conferences/icml-2026/cards/1701-1800.md#huang26bt-loss-functions) · 中文
+- [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](../../conferences/icml-2026/cards/1801-1900.md#jang26e-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -101,6 +103,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering](../../conferences/icml-2026/cards/1101-1200.md#fu26g-loss-functions) · 中文
 - [Learning Coherent Representations: A Topological Approach to Interpretability](../../conferences/icml-2026/cards/1201-1300.md#gaukstad26a-loss-functions) · 中文
 - [Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](../../conferences/icml-2026/cards/1401-1500.md#havens26a-loss-functions) · 中文
+- [Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks](../../conferences/icml-2026/cards/1701-1800.md#hwang26d-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -130,4 +133,5 @@ Objectives, auxiliary supervision, and regularization.
 - [CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](../../conferences/icml-2026/cards/1001-1100.md#estevez26b-loss-functions) · 中文
 - [Control Consistency Losses for Diffusion Bridges](../../conferences/icml-2026/cards/1601-1700.md#howard26b-loss-functions) · 中文
 - [Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality](../../conferences/icml-2026/cards/1701-1800.md#huh26a-loss-functions) · 中文
+- [Signature-Informed Transformer for Asset Allocation](../../conferences/icml-2026/cards/1701-1800.md#hwang26j-loss-functions) · 中文
 <!-- classification:end -->

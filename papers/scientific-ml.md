@@ -74,6 +74,7 @@
 - <a id="estevez26b-loss-functions"></a>[CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](../conferences/icml-2026/cards/1001-1100.md#paper-estevez26b)
 - <a id="howard26b-loss-functions"></a>[Control Consistency Losses for Diffusion Bridges](../conferences/icml-2026/cards/1601-1700.md#paper-howard26b)
 - <a id="huh26a-loss-functions"></a>[Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality](../conferences/icml-2026/cards/1701-1800.md#paper-huh26a)
+- <a id="hwang26j-loss-functions"></a>[Signature-Informed Transformer for Asset Allocation](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26j)
 
 <a id="by-optimization"></a>
 
@@ -108,6 +109,7 @@
 - <a id="he26as-reinforcement-learning"></a>[ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education](../conferences/icml-2026/cards/1501-1600.md#paper-he26as)
 - <a id="hollmer26a-reinforcement-learning"></a>[Open Materials Generation with Inference-Time Reinforcement Learning](../conferences/icml-2026/cards/1501-1600.md#paper-hollmer26a)
 - <a id="hu26al-reinforcement-learning"></a>[CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../conferences/icml-2026/cards/1601-1700.md#paper-hu26al)
+- <a id="ivanovic26a-reinforcement-learning"></a>[Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../conferences/icml-2026/cards/1801-1900.md#paper-ivanovic26a)
 
 <a id="by-training-strategies"></a>
 
@@ -187,6 +189,8 @@
 - <a id="hua26a-representation-learning"></a>[VecMol: Vector-Field Representations for 3D Molecule Generation](../conferences/icml-2026/cards/1601-1700.md#paper-hua26a)
 - <a id="huang26as-representation-learning"></a>[Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning](../conferences/icml-2026/cards/1701-1800.md#paper-huang26as)
 - <a id="huang26ci-representation-learning"></a>[LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ci)
+- <a id="jadhav26a-representation-learning"></a>[PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution](../conferences/icml-2026/cards/1801-1900.md#paper-jadhav26a)
+- <a id="jankowiak26a-representation-learning"></a>[Flexible Kernels for Protein Property Prediction](../conferences/icml-2026/cards/1801-1900.md#paper-jankowiak26a)
 
 <a id="by-evaluation"></a>
 

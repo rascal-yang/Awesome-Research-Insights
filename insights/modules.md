@@ -67,6 +67,7 @@
 - [视觉动作策略的连续网格采样](../conferences/icml-2026/cards/1101-1200.md#feng26x-modules) · See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model
 - [视觉动作模型的通道相关门控](../conferences/icml-2026/cards/1101-1200.md#fu26x-modules) · StableVLA: Towards Robust Vision-Language-Action Models without Extra Data
 - [精密操作的点云傅里叶编码](../conferences/icml-2026/cards/1401-1500.md#gyenes26a-modules) · Fourier Features Let Agents Learn High Precision Policies with Imitation Learning
+- [用行为检索和上下文间隔约束动作](../conferences/icml-2026/cards/1801-1900.md#jang26c-modules) · RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation
 - <a id="instruction-prefixes-for-causal-visual-grounding"></a><a id="multimodal-token-layout"></a>[用指令前缀让视觉表征感知任务](../papers/reconvla.md#reconvla-modules) · ReconVLA
 
 <a id="by-multimodal"></a>

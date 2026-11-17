@@ -150,6 +150,11 @@
 - [按表格拓扑构建多轮用表轨迹](../conferences/icml-2026/cards/1701-1800.md#huang26cf-evaluation) · How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild
 - [用自适应重写压力测试语言水印](../conferences/icml-2026/cards/1701-1800.md#huang26ch-evaluation) · RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks
 - [在任务可解时检验代理能否遵守素材许可](../conferences/icml-2026/cards/1701-1800.md#hui26a-evaluation) · Copyright-Bench: Agentic Evaluation of Copyright Law Compliance
+- [用改写压力测试词元水印的概率裕量](../conferences/icml-2026/cards/1701-1800.md#hwang26e-evaluation) · LLM Watermark Evasion via Bias Inversion
+- [把感知资源压力与实际上下文耗用区分开来](../conferences/icml-2026/cards/1801-1900.md#igbinedion26a-evaluation) · Lost in Context: Addressing Context Anxiety in Large Language Models
+- [用随机记分标签设置污染检验上限](../conferences/icml-2026/cards/1801-1900.md#ishida26a-evaluation) · CapBencher: Give Your LLM Benchmark a Built-in Alarm for Test-Set Overfitting
+- [用独立方式区分能力缺失和探索受抑](../conferences/icml-2026/cards/1801-1900.md#jang26b-evaluation) · Exploration Hacking: Can LLMs Learn to Resist RL Training?
+- [以语义干扰下的预测稳定度校准置信](../conferences/icml-2026/cards/1801-1900.md#jawad26a-evaluation) · CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction
 
 <a id="by-computer-vision"></a>
 
@@ -173,6 +178,8 @@
 - [跨训练阶段检验持续学习的后门持久性](../conferences/icml-2026/cards/1601-1700.md#huang26n-evaluation) · Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring
 - [从特征存在性中扣除对象绑定信息](../conferences/icml-2026/cards/1701-1800.md#huang26y-evaluation) · Formalizing the Binding Problem
 - [把扩散调度输入作为独立的安全审计面](../conferences/icml-2026/cards/1701-1800.md#huang26av-evaluation) · Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding
+- [按异常对象分配覆盖与误报代价](../conferences/icml-2026/cards/1801-1900.md#iqbal26a-evaluation) · Formally Exploring Visual Anomaly Detection Evaluation Metrics
+- [从分布内几何挑选马氏检测的径向缩放](../conferences/icml-2026/cards/1801-1900.md#janiak26a-evaluation) · A Geometry-Based View of Mahalanobis OOD Detection
 
 <a id="by-nlp"></a>
 
@@ -246,6 +253,9 @@
 - [在图像编辑评估中覆盖视觉指令](../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models
 - [从任务失败周期诊断隐藏视觉分块](../conferences/icml-2026/cards/1601-1700.md#hu26b-evaluation) · Steal the Patch Size: Adversarially Manipulate Vision Language Models
 - [用逐模态数据复杂度和头部敲除诊断上下文迁移](../conferences/icml-2026/cards/1701-1800.md#huang26at-evaluation) · Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers
+- [用文字属性两端构造多模态排序轴](../conferences/icml-2026/cards/1801-1900.md#hyeon-woo26a-evaluation) · Zero-Shot Rankability: Revealing Latent Ordinal Structure in Multimodal Large Language Models via Language
+- [拆开语音安全评审的模态贡献](../conferences/icml-2026/cards/1801-1900.md#ivry26a-evaluation) · LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues
+- [通过跨模态共享分区标识绑定证据](../conferences/icml-2026/cards/1801-1900.md#izadi26a-evaluation) · Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding
 
 <a id="by-ml-foundations"></a>
 
@@ -279,6 +289,7 @@
 - [时间序列预测的频域稳健性评测](../conferences/icml-2026/cards/1401-1500.md#han26d-evaluation) · TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting
 - [把图结构比较与免通道对齐的权重比较结合](../conferences/icml-2026/cards/1601-1700.md#hu26ap-evaluation) · An In-Depth Study on Deep Learning Model Cloning
 - [按估分与找失败的目标分配测试](../conferences/icml-2026/cards/1701-1800.md#huang26bw-evaluation) · ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation
+- [用全局兼容性筛查局部因果陈述](../conferences/icml-2026/cards/1801-1900.md#jahn26a-evaluation) · Evaluating Bivariate Causal Statements Based on Mutual Compatibility
 
 <a id="by-graph-and-recommendation"></a>
 

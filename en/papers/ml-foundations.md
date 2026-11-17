@@ -35,6 +35,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="hoang26a-architecture"></a>[Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26a)
 - <a id="hu26bf-architecture"></a>[TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bf)
 - <a id="huang26bl-architecture"></a>[A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bl)
+- <a id="ilin26a-architecture"></a>[DiScoFormer: Plug-In Density and Score Estimation with Transformers](../../conferences/icml-2026/cards/1801-1900.md#paper-ilin26a)
+- <a id="islam26a-architecture"></a>[Platonic Transformers: A Solid Choice For Equivariance](../../conferences/icml-2026/cards/1801-1900.md#paper-islam26a)
 
 <a id="by-modules"></a>
 
@@ -88,6 +90,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="fu26g-loss-functions"></a>[Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26g)
 - <a id="gaukstad26a-loss-functions"></a>[Learning Coherent Representations: A Topological Approach to Interpretability](../../conferences/icml-2026/cards/1201-1300.md#paper-gaukstad26a)
 - <a id="havens26a-loss-functions"></a>[Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](../../conferences/icml-2026/cards/1401-1500.md#paper-havens26a)
+- <a id="hwang26d-loss-functions"></a>[Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26d)
 
 <a id="by-optimization"></a>
 
@@ -220,6 +223,10 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="huang26bb-optimization"></a>[GradientStabilizer: Fix the Norm, Not the Gradient](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bb)
 - <a id="huang26bg-optimization"></a>[Discretely-Refined Multi-view Clustering via Aligned Anchor Learning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bg)
 - <a id="huang26cn-optimization"></a>[HONet: Data-Efficient Learning for Exact Cover Tasks via Hypergraph Optimization](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cn)
+- <a id="ibrahim26a-optimization"></a>[A hitchhiker’s guide to Poisson gradient estimation](../../conferences/icml-2026/cards/1801-1900.md#paper-ibrahim26a)
+- <a id="inane26a-optimization"></a>[Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data](../../conferences/icml-2026/cards/1801-1900.md#paper-inane26a)
+- <a id="islamov26b-optimization"></a>[On the Role of Batch Size in Stochastic Conditional Gradient Methods](../../conferences/icml-2026/cards/1801-1900.md#paper-islamov26b)
+- <a id="javaloy26a-optimization"></a>[An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale](../../conferences/icml-2026/cards/1801-1900.md#paper-javaloy26a)
 
 <a id="by-training-strategies"></a>
 
@@ -264,6 +271,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="he26p-training-strategies"></a>[FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping](../../conferences/icml-2026/cards/1501-1600.md#paper-he26p)
 - <a id="hong26e-training-strategies"></a>[Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26e)
 - <a id="horoi26a-training-strategies"></a>[From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../../conferences/icml-2026/cards/1501-1600.md#paper-horoi26a)
+- <a id="janetzky26a-training-strategies"></a>[Continual Learning of Domain-Invariant Representations](../../conferences/icml-2026/cards/1801-1900.md#paper-janetzky26a)
 
 <a id="by-data-strategies"></a>
 
@@ -362,6 +370,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="han26d-evaluation"></a>[TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](../../conferences/icml-2026/cards/1401-1500.md#paper-han26d)
 - <a id="hu26ap-evaluation"></a>[An In-Depth Study on Deep Learning Model Cloning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ap)
 - <a id="huang26bw-evaluation"></a>[ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bw)
+- <a id="jahn26a-evaluation"></a>[Evaluating Bivariate Causal Statements Based on Mutual Compatibility](../../conferences/icml-2026/cards/1801-1900.md#paper-jahn26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -557,4 +566,18 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="huang26ai-theory-statistics"></a>[Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ai)
 - <a id="huang26bp-theory-statistics"></a>[Delegation and Verification under AI](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bp)
 - <a id="hulsman26a-theory-statistics"></a>[Identifiable Markov Switching Models with Instantaneous Effects and Exponential Families](../../conferences/icml-2026/cards/1701-1800.md#paper-hulsman26a)
+- <a id="i-amoukou26a-theory-statistics"></a>[Correcting Split Selection in Online Decision Trees via Anytime-Valid Inference](../../conferences/icml-2026/cards/1801-1900.md#paper-i-amoukou26a)
+- <a id="ichikawa26a-theory-statistics"></a>[High-Dimensional Learning Dynamics of Quantized Models with Straight-Through Estimator](../../conferences/icml-2026/cards/1801-1900.md#paper-ichikawa26a)
+- <a id="ilyas26a-theory-statistics"></a>[Provably Label-Efficient Conformal Prediction](../../conferences/icml-2026/cards/1801-1900.md#paper-ilyas26a)
+- <a id="ilyas26b-theory-statistics"></a>[A Theory of Data Acquisition and Pricing at Scale](../../conferences/icml-2026/cards/1801-1900.md#paper-ilyas26b)
+- <a id="imai26a-theory-statistics"></a>[Dichotomy of Feature Learning and Unlearning: Fast-Slow Analysis on Neural Networks with Stochastic Gradient Descent](../../conferences/icml-2026/cards/1801-1900.md#paper-imai26a)
+- <a id="in26a-theory-statistics"></a>[Active Regression for Single-Index Models with Unknown Link Functions](../../conferences/icml-2026/cards/1801-1900.md#paper-in26a)
+- <a id="innocenti26a-theory-statistics"></a>[On the Infinite Width and Depth Limits of Predictive Coding Networks](../../conferences/icml-2026/cards/1801-1900.md#paper-innocenti26a)
+- <a id="islamov26a-theory-statistics"></a>[Non-Euclidean Gradient Descent Operates at the Edge of Stability](../../conferences/icml-2026/cards/1801-1900.md#paper-islamov26a)
+- <a id="ito26a-theory-statistics"></a>[Last-Iterate Convergence of Regularized Gradient Methods for Stochastic Monotone Variational Inequalities](../../conferences/icml-2026/cards/1801-1900.md#paper-ito26a)
+- <a id="iwazaki26a-theory-statistics"></a>[Tighter Regret Lower Bound for Gaussian Process Bandits with Squared Exponential Kernel in Hypersphere](../../conferences/icml-2026/cards/1801-1900.md#paper-iwazaki26a)
+- <a id="izzo26a-theory-statistics"></a>[Subgroup Discovery with the Cox Model](../../conferences/icml-2026/cards/1801-1900.md#paper-izzo26a)
+- <a id="jacobsen26a-theory-statistics"></a>[A Perturbation Approach to Unconstrained Linear Bandits](../../conferences/icml-2026/cards/1801-1900.md#paper-jacobsen26a)
+- <a id="jain26a-theory-statistics"></a>[Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing](../../conferences/icml-2026/cards/1801-1900.md#paper-jain26a)
+- <a id="javanmard26a-theory-statistics"></a>[Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models](../../conferences/icml-2026/cards/1801-1900.md#paper-javanmard26a)
 <!-- classification:end -->

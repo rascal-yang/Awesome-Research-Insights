@@ -32,6 +32,8 @@ Model-wide design and information flow.
 - [Towards Professional-Grade Financial Agents: Benchmarking, Tooling, and Structured Reasoning](../../conferences/icml-2026/cards/1701-1800.md#huang26ap-architecture) · 中文
 - [MAS-Architect: Declarative Multi-Agent System Design via Separation of Concerns](../../conferences/icml-2026/cards/1701-1800.md#huang26by-architecture) · 中文
 - [ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation](../../conferences/icml-2026/cards/1701-1800.md#huang26cl-architecture) · 中文
+- [MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](../../conferences/icml-2026/cards/1801-1900.md#ibrahimzada26a-architecture) · 中文
+- [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](../../conferences/icml-2026/cards/1801-1900.md#jaiswal26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -54,6 +56,9 @@ Model-wide design and information flow.
 - [Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction](../../conferences/icml-2026/cards/1401-1500.md#han26c-architecture) · 中文
 - [ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters](../../conferences/icml-2026/cards/1401-1500.md#hansen-estruch26a-architecture) · 中文
 - [Partial Ring Scan: Revisiting Scan Order in Vision State Space Models](../../conferences/icml-2026/cards/1601-1700.md#hsieh26a-architecture) · 中文
+- [Continuous Viewpoint Adaptation for Single View 3D Object Reconstruction](../../conferences/icml-2026/cards/1701-1800.md#hwang26f-architecture) · 中文
+- [Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories](../../conferences/icml-2026/cards/1801-1900.md#jang26f-architecture) · 中文
+- [Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background](../../conferences/icml-2026/cards/1801-1900.md#javaid26a-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -62,6 +67,7 @@ Model-wide design and information flow.
 - [Separating Representation from Reconstruction Enables Scalable Text Encoders](../../conferences/icml-2026/cards/0801-0900.md#dervishi26a-architecture) · 中文
 - [Scaling Transformers for End-to-End Discrete Audio Tokenization](../../conferences/icml-2026/cards/1301-1400.md#gong26c-architecture) · 中文
 - [Unifying Masked Diffusion Models with Various Generation Orders and Beyond](../../conferences/icml-2026/cards/1501-1600.md#hong26f-architecture) · 中文
+- [Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning](../../conferences/icml-2026/cards/1801-1900.md#isik26a-architecture) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -122,6 +128,8 @@ Model-wide design and information flow.
 - [Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/1501-1600.md#hoang26a-architecture) · 中文
 - [TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling](../../conferences/icml-2026/cards/1601-1700.md#hu26bf-architecture) · 中文
 - [A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](../../conferences/icml-2026/cards/1701-1800.md#huang26bl-architecture) · 中文
+- [DiScoFormer: Plug-In Density and Score Estimation with Transformers](../../conferences/icml-2026/cards/1801-1900.md#ilin26a-architecture) · 中文
+- [Platonic Transformers: A Solid Choice For Equivariance](../../conferences/icml-2026/cards/1801-1900.md#islam26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

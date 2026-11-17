@@ -106,6 +106,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hong26b-training-strategies"></a>[Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26b)
 - <a id="huang26bx-training-strategies"></a>[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bx)
 - <a id="huo26a-training-strategies"></a>[Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought](../../conferences/icml-2026/cards/1701-1800.md#paper-huo26a)
+- <a id="hwang26g-training-strategies"></a>[Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26g)
+- <a id="jang26g-training-strategies"></a>[Efficient Distributed MLLM Training with Cornstarch](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26g)
 
 <a id="by-data-strategies"></a>
 
@@ -223,6 +225,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hou26h-evaluation"></a>[When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26h)
 - <a id="hu26b-evaluation"></a>[Steal the Patch Size: Adversarially Manipulate Vision Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26b)
 - <a id="huang26at-evaluation"></a>[Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26at)
+- <a id="hyeon-woo26a-evaluation"></a>[Zero-Shot Rankability: Revealing Latent Ordinal Structure in Multimodal Large Language Models via Language](../../conferences/icml-2026/cards/1801-1900.md#paper-hyeon-woo26a)
+- <a id="ivry26a-evaluation"></a>[LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues](../../conferences/icml-2026/cards/1801-1900.md#paper-ivry26a)
+- <a id="izadi26a-evaluation"></a>[Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding](../../conferences/icml-2026/cards/1801-1900.md#paper-izadi26a)
 
 <a id="by-theory-statistics"></a>
 

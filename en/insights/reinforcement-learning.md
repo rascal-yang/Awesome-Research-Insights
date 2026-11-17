@@ -76,6 +76,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](../../conferences/icml-2026/cards/1701-1800.md#huang26ca-reinforcement-learning) · 中文
 - [Reinforcement Learning via Self-Distillation](../../conferences/icml-2026/cards/1701-1800.md#hubotter26a-reinforcement-learning) · 中文
 - [PS-PPO : Prefix-Sampling PPO for Critic-Free RLHF](../../conferences/icml-2026/cards/1701-1800.md#hwang26b-reinforcement-learning) · 中文
+- [Learning to Correct: Reinforcement Learning for Multi-Attempt Chain-of-Thought](../../conferences/icml-2026/cards/1801-1900.md#ildiz26a-reinforcement-learning) · 中文
+- [Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](../../conferences/icml-2026/cards/1801-1900.md#jayalath26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -162,6 +164,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [DualCOIL: Offline Imitation Learning from Contrasting Demonstrations](../../conferences/icml-2026/cards/1501-1600.md#hoang26c-reinforcement-learning) · 中文
 - [Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26am-reinforcement-learning) · 中文
 - [Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion](../../conferences/icml-2026/cards/1601-1700.md#hu26bd-reinforcement-learning) · 中文
+- [Mirror Descent Actor Critic via Bounded Advantage Learning](../../conferences/icml-2026/cards/1801-1900.md#iwaki26a-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -221,4 +224,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education](../../conferences/icml-2026/cards/1501-1600.md#he26as-reinforcement-learning) · 中文
 - [Open Materials Generation with Inference-Time Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hollmer26a-reinforcement-learning) · 中文
 - [CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · 中文
+- [Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · 中文
 <!-- classification:end -->
