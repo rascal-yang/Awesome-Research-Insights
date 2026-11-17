@@ -40,6 +40,12 @@
 - [细粒度 MoE 专家采样](../papers/llm.md#chen26er-inference) · Certain Head, Uncertain Tail: Expert-Sample for Test-Time Scaling in Fine-Grained MoE
 - [检索证据净化与推导](../papers/llm.md#chen26et-inference) · From Extraction to Deduction: Resolving Functional Misalignment in RAG via a Collaborative Critic-Reasoner Framework
 - [投机解码的动态草稿词表](../papers/llm.md#chen26fm-inference) · NanoSpec: Accelerating Speculative Decoding using Minimalist In-Context Vocabularies
+- [智能体批推理的缓存拥塞控制](../papers/llm.md#chen26fs-inference) · CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control
+- [批容量与缓存的影子价格路由](../papers/llm.md#chen26ft-inference) · Online Linear Programming for Multi-Objective Routing in LLM Serving
+- [逐题技能路由与专家批处理](../papers/llm.md#chen26fy-inference) · Skill-Based Mixture-of-Experts: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills
+- [语言模型 SVD 压缩的分级秩分配](../papers/llm.md#chen26ge-inference) · CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression
+- [风险聚合引导的解码回滚](../papers/llm.md#chen26ha-inference) · RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control
+- [代码文档的依赖感知搜索](../papers/llm.md#cheng26c-inference) · Escaping Whack-a-Mole: Optimizing Documentation as Repo-Specific Playbooks for Coding Agents
 
 ### 计算机视觉
 
@@ -58,6 +64,7 @@
 - [新视角扩散的语义条件](../papers/computer-vision.md#chen26ey-inference) · SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis
 - [自回归图像采样的轨迹剪枝](../papers/computer-vision.md#chen26fc-inference) · ScalingAR: Scaling Confidence for Autoregressive Image Generation
 - [桥式生成模型的分频先验引导](../papers/computer-vision.md#chen26fq-inference) · GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance
+- [图像到点云配准的动态交互深度](../papers/computer-vision.md#cheng26b-inference) · FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth
 
 ### 自然语言处理
 
@@ -92,6 +99,8 @@
 - [教学视频布局修正](../papers/multimodal.md#chen26bx-inference) · Code2Video: A Code-centric Paradigm for Educational Video Creation
 - [注意力层对比解码](../papers/multimodal.md#chen26dx-inference) · Beyond Logits: Coherent Hallucination Mitigation via Attention Contrastive Decoding
 - [双编码器视觉幻觉校正](../papers/multimodal.md#chen26dz-inference) · Beyond Blind Noising: Disentangled Visual Rectification for Hallucination Mitigation in MLLMs
+- [图像生成的潜空间推理调度](../papers/multimodal.md#chen26fv-inference) · Show, Don’t Tell: Morphing Latent Reasoning into Image Generation
+- [视觉语言模型注意力通路门控](../papers/multimodal.md#cheng26d-inference) · Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating
 
 ### 机器学习基础与统计
 
@@ -114,4 +123,5 @@
 - [质谱到分子生成](../papers/scientific-ml.md#bohde26a-inference) · FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time
 - [蛋白结合物设计](../papers/scientific-ml.md#cao26c-inference) · Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
 - [对接预测梯度反演](../papers/scientific-ml.md#chen26bu-inference) · Towards Docking-oriented De Novo Ligand Design via Gradient Inversion
+- [粗粒化玻尔兹曼重要性采样](../papers/scientific-ml.md#chen26gs-inference) · Coarse-Grained Boltzmann Generators
 <!-- classification:end -->

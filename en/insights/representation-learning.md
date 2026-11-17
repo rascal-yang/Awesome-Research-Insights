@@ -11,6 +11,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 
 - [Regression Language Models for Code](../../papers/llm.md#akhauri26b-representation-learning) · 中文
 - [Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](../../papers/llm.md#chen26dr-representation-learning) · 中文
+- [ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](../../papers/llm.md#chen26gy-representation-learning) · 中文
 
 ### Computer Vision
 
@@ -37,6 +38,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering](../../papers/multimodal.md#chen26ag-representation-learning) · 中文
 - [Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning](../../papers/multimodal.md#chen26cx-representation-learning) · 中文
 - [MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction](../../papers/multimodal.md#chen26fo-representation-learning) · 中文
+- [Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](../../papers/multimodal.md#cheng26k-representation-learning) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -57,6 +59,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](../../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) · 中文
 - [CONTEXTOR: Contextualized High-order Contrastive Learning](../../papers/graph-and-recommendation.md#cai26f-representation-learning) · 中文
 - [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) · 中文
+- [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) · 中文
 
 ### Scientific Machine Learning
 
@@ -68,4 +71,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing](../../papers/scientific-ml.md#chen26ay-representation-learning) · 中文
 - [SLAE: Strictly Local All-atom Environment for Protein Representation](../../papers/scientific-ml.md#chen26ct-representation-learning) · 中文
 - [Protein Fold Classification at Scale: Benchmarking and Pretraining](../../papers/scientific-ml.md#chen26db-representation-learning) · 中文
+- [Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](../../papers/scientific-ml.md#cheng26m-representation-learning) · 中文
 <!-- classification:end -->

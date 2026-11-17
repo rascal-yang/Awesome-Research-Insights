@@ -58,6 +58,9 @@
 - [生成式数值回归的奖励与蒸馏](../papers/llm.md#chen26ec-reinforcement-learning) · Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning
 - [生成与自验证交替训练](../papers/llm.md#chen26es-reinforcement-learning) · Learning to Self-Verify Makes Language Models Better Reasoners
 - [领域强化学习中的教师退出](../papers/llm.md#chen26fi-reinforcement-learning) · OnePO: Direct One-stage Policy Optimization for SFT-free Domain Adaptation
+- [动态检索规划与执行联合训练](../papers/llm.md#chen26gh-reinforcement-learning) · JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG
+- [多智能体检索的角色信用分配](../papers/llm.md#chen26gp-reinforcement-learning) · DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning
+- [智能体轨迹的图信用分配](../papers/llm.md#cheng26e-reinforcement-learning) · Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning
 
 ### 计算机视觉
 
@@ -91,6 +94,8 @@
 - [次模团队奖励的贪心策略](../papers/reinforcement-learning.md#chen26dk-reinforcement-learning) · Multi-Agent Reinforcement Learning with Submodular Reward
 - [离线强化学习的对抗动力学适配](../papers/reinforcement-learning.md#chen26fl-reinforcement-learning) · Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning
 - [价值一致性约束的离线世界模型](../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) · VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning
+- [增广拉格朗日引导安全动作去噪](../papers/reinforcement-learning.md#cheng26q-reinforcement-learning) · How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?
+- [对抗 MDP 的混合反馈遗憾控制](../papers/reinforcement-learning.md#cheng26s-reinforcement-learning) · Hybrid Reinforcement Learning in Adversarial Markov Decision Processes
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -113,4 +118,5 @@
 - [科学方程发现](../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) · DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery
 - [数学反例搜索](../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra
 - [逆合成搜索工具选择](../papers/scientific-ml.md#chang26g-reinforcement-learning) · RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models
+- [医学视觉定位与稀疏推理](../papers/scientific-ml.md#chen26gv-reinforcement-learning) · Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning
 <!-- classification:end -->

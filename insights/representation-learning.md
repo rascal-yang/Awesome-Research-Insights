@@ -11,6 +11,7 @@
 
 - [代码性能预测](../papers/llm.md#akhauri26b-representation-learning) · Regression Language Models for Code
 - [面向监测的行为表征解耦](../papers/llm.md#chen26dr-representation-learning) · Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring
+- [思维链视觉压缩](../papers/llm.md#chen26gy-representation-learning) · ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model
 
 ### 计算机视觉
 
@@ -37,6 +38,7 @@
 - [不完整多视图聚类](../papers/multimodal.md#chen26ag-representation-learning) · Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering
 - [关节与片段级动作文本对齐](../papers/multimodal.md#chen26cx-representation-learning) · Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning
 - [利用地理邻接的半监督街景对比学习](../papers/multimodal.md#chen26fo-representation-learning) · MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction
+- [结构化代理的跨模态哈希](../papers/multimodal.md#cheng26k-representation-learning) · Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval
 
 ### 机器学习基础与统计
 
@@ -57,6 +59,7 @@
 - [跨图对齐](../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) · Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication
 - [高阶关系表征](../papers/graph-and-recommendation.md#cai26f-representation-learning) · CONTEXTOR: Contextualized High-order Contrastive Learning
 - [跨模态生成式推荐](../papers/graph-and-recommendation.md#chen26ak-representation-learning) · SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation
+- [图节点边界的自适应对比更新](../papers/graph-and-recommendation.md#chen26fu-representation-learning) · Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement
 
 ### 科学机器学习
 
@@ -68,4 +71,5 @@
 - [三维分子表征](../papers/scientific-ml.md#chen26ay-representation-learning) · MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing
 - [蛋白质局部全原子表征](../papers/scientific-ml.md#chen26ct-representation-learning) · SLAE: Strictly Local All-atom Environment for Protein Representation
 - [高掩码蛋白质结构预训练](../papers/scientific-ml.md#chen26db-representation-learning) · Protein Fold Classification at Scale: Benchmarking and Pretraining
+- [多视角电子密度图表征](../papers/scientific-ml.md#cheng26m-representation-learning) · Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction
 <!-- classification:end -->

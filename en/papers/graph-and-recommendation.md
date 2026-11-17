@@ -26,6 +26,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](https://proceedings.mlr.press/v306/bai26i.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bai26i-modules) |
 | [Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://proceedings.mlr.press/v306/barcelo26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#barcelo26a-modules) |
+| [Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](https://proceedings.mlr.press/v306/chen26gm.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26gm-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -34,6 +35,8 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](https://proceedings.mlr.press/v306/chen26ez.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ez-loss-functions) |
+| [GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment](https://proceedings.mlr.press/v306/chen26gu.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26gu-loss-functions) |
+| [ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](https://proceedings.mlr.press/v306/chen26gx.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26gx-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -44,6 +47,7 @@ The linked short insights are available in Chinese.
 | [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://proceedings.mlr.press/v306/bai26g.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bai26g-optimization) |
 | [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) |
 | [Differentially Private Range Subgraph Counting](https://proceedings.mlr.press/v306/chen26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26b-optimization) |
+| [What Makes a Desired Graph for Relational Deep Learning?](https://proceedings.mlr.press/v306/cheng26j.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cheng26j-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -91,6 +95,7 @@ The linked short insights are available in Chinese.
 | [Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](https://proceedings.mlr.press/v306/behmanesh26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) |
 | [CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cai26f-representation-learning) |
 | [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) |
+| [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) |
 
 <a id="by-evaluation"></a>
 

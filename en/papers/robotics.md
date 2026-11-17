@@ -66,6 +66,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
+| [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) | [Read insight (中文)](../../papers/robotics.md#chen26fw-training-strategies) |
 
 <a id="by-data-strategies"></a>
 

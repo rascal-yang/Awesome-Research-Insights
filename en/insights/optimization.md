@@ -20,6 +20,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search](../../papers/llm.md#chen26ew-optimization) · 中文
 - [QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment](../../papers/llm.md#chen26ex-optimization) · 中文
 - [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](../../papers/llm.md#chen26fe-optimization) · 中文
+- [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](../../papers/llm.md#chen26hb-optimization) · 中文
 
 ### Robotics
 
@@ -74,14 +75,19 @@ Gradient updates, parameterization, and optimization dynamics.
 - [How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](../../papers/ml-foundations.md#chen26de-optimization) · 中文
 - [Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning](../../papers/ml-foundations.md#chen26ei-optimization) · 中文
 - [HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation](../../papers/ml-foundations.md#chen26fd-optimization) · 中文
+- [JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning](../../papers/ml-foundations.md#chen26fz-optimization) · 中文
+- [Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](../../papers/ml-foundations.md#chen26gg-optimization) · 中文
+- [Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask](../../papers/ml-foundations.md#cheng26f-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](../../papers/graph-and-recommendation.md#bai26g-optimization) · 中文
 - [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) · 中文
 - [Differentially Private Range Subgraph Counting](../../papers/graph-and-recommendation.md#chen26b-optimization) · 中文
+- [What Makes a Desired Graph for Relational Deep Learning?](../../papers/graph-and-recommendation.md#cheng26j-optimization) · 中文
 
 ### Scientific Machine Learning
 
 - [Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](../../papers/scientific-ml.md#chen26ck-optimization) · 中文
+- [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](../../papers/scientific-ml.md#chen26fx-optimization) · 中文
 <!-- classification:end -->

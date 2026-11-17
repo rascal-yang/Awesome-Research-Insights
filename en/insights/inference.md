@@ -40,6 +40,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [Certain Head, Uncertain Tail: Expert-Sample for Test-Time Scaling in Fine-Grained MoE](../../papers/llm.md#chen26er-inference) · 中文
 - [From Extraction to Deduction: Resolving Functional Misalignment in RAG via a Collaborative Critic-Reasoner Framework](../../papers/llm.md#chen26et-inference) · 中文
 - [NanoSpec: Accelerating Speculative Decoding using Minimalist In-Context Vocabularies](../../papers/llm.md#chen26fm-inference) · 中文
+- [CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](../../papers/llm.md#chen26fs-inference) · 中文
+- [Online Linear Programming for Multi-Objective Routing in LLM Serving](../../papers/llm.md#chen26ft-inference) · 中文
+- [Skill-Based Mixture-of-Experts: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills](../../papers/llm.md#chen26fy-inference) · 中文
+- [CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression](../../papers/llm.md#chen26ge-inference) · 中文
+- [RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control](../../papers/llm.md#chen26ha-inference) · 中文
+- [Escaping Whack-a-Mole: Optimizing Documentation as Repo-Specific Playbooks for Coding Agents](../../papers/llm.md#cheng26c-inference) · 中文
 
 ### Computer Vision
 
@@ -58,6 +64,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis](../../papers/computer-vision.md#chen26ey-inference) · 中文
 - [ScalingAR: Scaling Confidence for Autoregressive Image Generation](../../papers/computer-vision.md#chen26fc-inference) · 中文
 - [GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](../../papers/computer-vision.md#chen26fq-inference) · 中文
+- [FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth](../../papers/computer-vision.md#cheng26b-inference) · 中文
 
 ### Natural Language Processing
 
@@ -92,6 +99,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Code2Video: A Code-centric Paradigm for Educational Video Creation](../../papers/multimodal.md#chen26bx-inference) · 中文
 - [Beyond Logits: Coherent Hallucination Mitigation via Attention Contrastive Decoding](../../papers/multimodal.md#chen26dx-inference) · 中文
 - [Beyond Blind Noising: Disentangled Visual Rectification for Hallucination Mitigation in MLLMs](../../papers/multimodal.md#chen26dz-inference) · 中文
+- [Show, Don’t Tell: Morphing Latent Reasoning into Image Generation](../../papers/multimodal.md#chen26fv-inference) · 中文
+- [Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](../../papers/multimodal.md#cheng26d-inference) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -114,4 +123,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](../../papers/scientific-ml.md#bohde26a-inference) · 中文
 - [Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](../../papers/scientific-ml.md#cao26c-inference) · 中文
 - [Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](../../papers/scientific-ml.md#chen26bu-inference) · 中文
+- [Coarse-Grained Boltzmann Generators](../../papers/scientific-ml.md#chen26gs-inference) · 中文
 <!-- classification:end -->

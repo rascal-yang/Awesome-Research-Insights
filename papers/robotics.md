@@ -66,6 +66,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="chen26d-training-strategies"></a>[NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) | 终身轨迹规划 | 让非参数贝叶斯记忆按新驾驶场景增长簇，扩散规划器按簇专门化，并用旧簇生成回放样本以保留此前技能。 |
+| <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) | 部件位姿的弱监督对称估计 | 仅给出对称类型，让模型从点云和预测旋转估计对称轴概率。对镜面对称的候选平面，用原点云与镜像点云的 Chamfer 距离评估一致性，抑制缺少几何支持的平面。 |
 
 <a id="by-data-strategies"></a>
 

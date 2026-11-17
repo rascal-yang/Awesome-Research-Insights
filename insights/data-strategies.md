@@ -21,6 +21,8 @@
 - [开放预测训练数据](../papers/llm.md#chandak26a-data-strategies) · Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters
 - [威胁情报驱动的流量数据构造](../papers/llm.md#chen26cb-data-strategies) · Threat2Traffic: Multi-Agent Environment Synthesis for Malware Traffic Generation from Threat Intelligence
 - [语料域变动后的混合比例复用](../papers/llm.md#chen26dd-data-strategies) · Olmix: A Framework for Data Mixing Throughout LM Development
+- [任务敏感注意力头筛样](../papers/llm.md#chen26gi-data-strategies) · From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment
+- [从工具执行轨迹反推训练任务](../papers/llm.md#chen26gj-data-strategies) · DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use
 
 ### 计算机视觉
 
@@ -36,6 +38,7 @@
 ### 强化学习
 
 - [零样本离线强化学习](../papers/reinforcement-learning.md#bendib26a-data-strategies) · Improving Zero-Shot Offline RL via Behavioral Task Sampling
+- [跨域离线强化学习的软筛选](../papers/reinforcement-learning.md#chen26gd-data-strategies) · Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation
 
 ### 机器人学
 
@@ -51,6 +54,7 @@
 - [弱监督指代分割](../papers/multimodal.md#cao26aa-data-strategies) · Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation
 - [图解到代码](../papers/multimodal.md#chai26b-data-strategies) · From Diagrams to Code: Multilingual Programming with Visual Design
 - [多模态图像编辑数据](../papers/multimodal.md#chen26c-data-strategies) · OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing
+- [GUI 智能体的失败轨迹纠错数据](../papers/multimodal.md#chen26gb-data-strategies) · CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training
 
 ### 机器学习基础与统计
 

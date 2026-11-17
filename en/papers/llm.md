@@ -45,6 +45,7 @@ The linked short insights are available in Chinese.
 | [What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis](https://proceedings.mlr.press/v306/chen26bi.html) | [Read insight (中文)](../../papers/llm.md#chen26bi-loss-functions) |
 | [$φ$-Balancing for Mixture-of-Experts Training](https://proceedings.mlr.press/v306/chen26br.html) | [Read insight (中文)](../../papers/llm.md#chen26br-loss-functions) |
 | [Discrete Tilt Matching](https://proceedings.mlr.press/v306/chen26el.html) | [Read insight (中文)](../../papers/llm.md#chen26el-loss-functions) |
+| [$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](https://proceedings.mlr.press/v306/chen26hc.html) | [Read insight (中文)](../../papers/llm.md#chen26hc-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -63,6 +64,7 @@ The linked short insights are available in Chinese.
 | [SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search](https://proceedings.mlr.press/v306/chen26ew.html) | [Read insight (中文)](../../papers/llm.md#chen26ew-optimization) |
 | [QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment](https://proceedings.mlr.press/v306/chen26ex.html) | [Read insight (中文)](../../papers/llm.md#chen26ex-optimization) |
 | [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](https://proceedings.mlr.press/v306/chen26fe.html) | [Read insight (中文)](../../papers/llm.md#chen26fe-optimization) |
+| [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](https://proceedings.mlr.press/v306/chen26hb.html) | [Read insight (中文)](../../papers/llm.md#chen26hb-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -92,6 +94,9 @@ The linked short insights are available in Chinese.
 | [Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning](https://proceedings.mlr.press/v306/chen26ec.html) | [Read insight (中文)](../../papers/llm.md#chen26ec-reinforcement-learning) |
 | [Learning to Self-Verify Makes Language Models Better Reasoners](https://proceedings.mlr.press/v306/chen26es.html) | [Read insight (中文)](../../papers/llm.md#chen26es-reinforcement-learning) |
 | [OnePO: Direct One-stage Policy Optimization for SFT-free Domain Adaptation](https://proceedings.mlr.press/v306/chen26fi.html) | [Read insight (中文)](../../papers/llm.md#chen26fi-reinforcement-learning) |
+| [JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG](https://proceedings.mlr.press/v306/chen26gh.html) | [Read insight (中文)](../../papers/llm.md#chen26gh-reinforcement-learning) |
+| [DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gp.html) | [Read insight (中文)](../../papers/llm.md#chen26gp-reinforcement-learning) |
+| [Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](https://proceedings.mlr.press/v306/cheng26e.html) | [Read insight (中文)](../../papers/llm.md#cheng26e-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -117,6 +122,8 @@ The linked short insights are available in Chinese.
 | [TetraJet-v2: Accurate NVFP4 Training for Large Language Models with Oscillation Suppression and Outlier Control](https://proceedings.mlr.press/v306/chen26cl.html) | [Read insight (中文)](../../papers/llm.md#chen26cl-training-strategies) |
 | [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](https://proceedings.mlr.press/v306/chen26do.html) | [Read insight (中文)](../../papers/llm.md#chen26do-training-strategies) |
 | [Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation](https://proceedings.mlr.press/v306/chen26em.html) | [Read insight (中文)](../../papers/llm.md#chen26em-training-strategies) |
+| [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](https://proceedings.mlr.press/v306/chen26gc.html) | [Read insight (中文)](../../papers/llm.md#chen26gc-training-strategies) |
+| [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](https://proceedings.mlr.press/v306/cheng26o.html) | [Read insight (中文)](../../papers/llm.md#cheng26o-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -136,6 +143,8 @@ The linked short insights are available in Chinese.
 | [Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters](https://proceedings.mlr.press/v306/chandak26a.html) | [Read insight (中文)](../../papers/llm.md#chandak26a-data-strategies) |
 | [Threat2Traffic: Multi-Agent Environment Synthesis for Malware Traffic Generation from Threat Intelligence](https://proceedings.mlr.press/v306/chen26cb.html) | [Read insight (中文)](../../papers/llm.md#chen26cb-data-strategies) |
 | [Olmix: A Framework for Data Mixing Throughout LM Development](https://proceedings.mlr.press/v306/chen26dd.html) | [Read insight (中文)](../../papers/llm.md#chen26dd-data-strategies) |
+| [From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment](https://proceedings.mlr.press/v306/chen26gi.html) | [Read insight (中文)](../../papers/llm.md#chen26gi-data-strategies) |
+| [DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](https://proceedings.mlr.press/v306/chen26gj.html) | [Read insight (中文)](../../papers/llm.md#chen26gj-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -174,6 +183,12 @@ The linked short insights are available in Chinese.
 | [Certain Head, Uncertain Tail: Expert-Sample for Test-Time Scaling in Fine-Grained MoE](https://proceedings.mlr.press/v306/chen26er.html) | [Read insight (中文)](../../papers/llm.md#chen26er-inference) |
 | [From Extraction to Deduction: Resolving Functional Misalignment in RAG via a Collaborative Critic-Reasoner Framework](https://proceedings.mlr.press/v306/chen26et.html) | [Read insight (中文)](../../papers/llm.md#chen26et-inference) |
 | [NanoSpec: Accelerating Speculative Decoding using Minimalist In-Context Vocabularies](https://proceedings.mlr.press/v306/chen26fm.html) | [Read insight (中文)](../../papers/llm.md#chen26fm-inference) |
+| [CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://proceedings.mlr.press/v306/chen26fs.html) | [Read insight (中文)](../../papers/llm.md#chen26fs-inference) |
+| [Online Linear Programming for Multi-Objective Routing in LLM Serving](https://proceedings.mlr.press/v306/chen26ft.html) | [Read insight (中文)](../../papers/llm.md#chen26ft-inference) |
+| [Skill-Based Mixture-of-Experts: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills](https://proceedings.mlr.press/v306/chen26fy.html) | [Read insight (中文)](../../papers/llm.md#chen26fy-inference) |
+| [CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression](https://proceedings.mlr.press/v306/chen26ge.html) | [Read insight (中文)](../../papers/llm.md#chen26ge-inference) |
+| [RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control](https://proceedings.mlr.press/v306/chen26ha.html) | [Read insight (中文)](../../papers/llm.md#chen26ha-inference) |
+| [Escaping Whack-a-Mole: Optimizing Documentation as Repo-Specific Playbooks for Coding Agents](https://proceedings.mlr.press/v306/cheng26c.html) | [Read insight (中文)](../../papers/llm.md#cheng26c-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -183,6 +198,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Regression Language Models for Code](https://proceedings.mlr.press/v306/akhauri26b.html) | [Read insight (中文)](../../papers/llm.md#akhauri26b-representation-learning) |
 | [Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](https://proceedings.mlr.press/v306/chen26dr.html) | [Read insight (中文)](../../papers/llm.md#chen26dr-representation-learning) |
+| [ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](https://proceedings.mlr.press/v306/chen26gy.html) | [Read insight (中文)](../../papers/llm.md#chen26gy-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -251,6 +267,8 @@ The linked short insights are available in Chinese.
 | [Scam2Prompt: A Scalable Framework for Auditing Malicious Scam Endpoints in Production LLMs](https://proceedings.mlr.press/v306/chen26dp.html) | [Read insight (中文)](../../papers/llm.md#chen26dp-evaluation) |
 | [AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use](https://proceedings.mlr.press/v306/chen26eg.html) | [Read insight (中文)](../../papers/llm.md#chen26eg-evaluation) |
 | [INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](https://proceedings.mlr.press/v306/chen26fa.html) | [Read insight (中文)](../../papers/llm.md#chen26fa-evaluation) |
+| [Scaling Law for Quantization-Aware Training](https://proceedings.mlr.press/v306/chen26gl.html) | [Read insight (中文)](../../papers/llm.md#chen26gl-evaluation) |
+| [IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL](https://proceedings.mlr.press/v306/cheng26n.html) | [Read insight (中文)](../../papers/llm.md#cheng26n-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

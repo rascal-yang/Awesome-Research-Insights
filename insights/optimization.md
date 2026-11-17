@@ -20,6 +20,7 @@
 - [MoE 专家组合剪枝](../papers/llm.md#chen26ew-optimization) · SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search
 - [遥测反馈驱动内核调优](../papers/llm.md#chen26ex-optimization) · QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment
 - [偏好更新的梯度激励校准](../papers/llm.md#chen26fe-optimization) · Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner
+- [求解器程序树进化](../papers/llm.md#chen26hb-optimization) · $A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees
 
 ### 机器人学
 
@@ -74,14 +75,19 @@
 - [受遗忘进度约束的模型更新](../papers/ml-foundations.md#chen26de-optimization) · How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning
 - [LoRA 学习率的秩缩放](../papers/ml-foundations.md#chen26ei-optimization) · Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning
 - [分割联邦学习的混阶更新](../papers/ml-foundations.md#chen26fd-optimization) · HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation
+- [持续学习的 LoRA 梯度修正](../papers/ml-foundations.md#chen26fz-optimization) · JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning
+- [集合元素污染的鲁棒优化](../papers/ml-foundations.md#chen26gg-optimization) · Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption
+- [结构鲁棒的 Gromov–Wasserstein 对齐](../papers/ml-foundations.md#cheng26f-optimization) · Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask
 
 ### 图学习与推荐
 
 - [图粗化](../papers/graph-and-recommendation.md#bai26g-optimization) · Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle
 - [公平排序聚合](../papers/graph-and-recommendation.md#chakraborty26b-optimization) · Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking
 - [隐私图查询](../papers/graph-and-recommendation.md#chen26b-optimization) · Differentially Private Range Subgraph Counting
+- [关系数据库的任务感知图结构优化](../papers/graph-and-recommendation.md#cheng26j-optimization) · What Makes a Desired Graph for Relational Deep Learning?
 
 ### 科学机器学习
 
 - [广义特征值积分轮廓](../papers/scientific-ml.md#chen26ck-optimization) · Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers
+- [语言模型预测与真实实验的门控](../papers/scientific-ml.md#chen26fx-optimization) · LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation
 <!-- classification:end -->

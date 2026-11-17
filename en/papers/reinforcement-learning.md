@@ -57,6 +57,8 @@ The linked short insights are available in Chinese.
 | [Multi-Agent Reinforcement Learning with Submodular Reward](https://proceedings.mlr.press/v306/chen26dk.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26dk-reinforcement-learning) |
 | [Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning](https://proceedings.mlr.press/v306/chen26fl.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26fl-reinforcement-learning) |
 | [VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning](https://proceedings.mlr.press/v306/chen26fn.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) |
+| [How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](https://proceedings.mlr.press/v306/cheng26q.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cheng26q-reinforcement-learning) |
+| [Hybrid Reinforcement Learning in Adversarial Markov Decision Processes](https://proceedings.mlr.press/v306/cheng26s.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cheng26s-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -66,6 +68,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bendib26a-data-strategies) |
+| [Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](https://proceedings.mlr.press/v306/chen26gd.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26gd-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -114,4 +117,5 @@ The linked short insights are available in Chinese.
 | [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](https://proceedings.mlr.press/v306/carr26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#carr26a-theory-statistics) |
 | [Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](https://proceedings.mlr.press/v306/chen26dy.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26dy-theory-statistics) |
 | [A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](https://proceedings.mlr.press/v306/chen26ef.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26ef-theory-statistics) |
+| [Offline Two-Player Zero-Sum Markov Games with KL Regularization](https://proceedings.mlr.press/v306/chen26gk.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26gk-theory-statistics) |
 <!-- classification:end -->

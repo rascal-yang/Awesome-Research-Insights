@@ -115,10 +115,12 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 
 - [图卷积](../papers/graph-and-recommendation.md#bai26i-modules) · GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification
 - [图神经网络表达力](../papers/graph-and-recommendation.md#barcelo26a-modules) · Message Passing on the Edge: Towards Scalable and Expressive GNNs
+- [兼顾图拓扑与因果顺序的注意力](../papers/graph-and-recommendation.md#chen26gm-modules) · Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs
 
 ### 科学机器学习
 
 - [网格动力学平滑](../papers/scientific-ml.md#berman26d-modules) · Smoothness Errors in Dynamics Models and How to Avoid Them
 - [医学视觉定位](../papers/scientific-ml.md#chang26b-modules) · MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models
 - [口袋与配体双向融合](../papers/scientific-ml.md#chen26bw-modules) · TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion
+- [脑电信号的复数频谱细化](../papers/scientific-ml.md#chen26fr-modules) · PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding
 <!-- classification:end -->

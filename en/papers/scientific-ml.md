@@ -41,6 +41,7 @@ The linked short insights are available in Chinese.
 | [Smoothness Errors in Dynamics Models and How to Avoid Them](https://proceedings.mlr.press/v306/berman26d.html) | [Read insight (中文)](../../papers/scientific-ml.md#berman26d-modules) |
 | [MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](https://proceedings.mlr.press/v306/chang26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#chang26b-modules) |
 | [TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](https://proceedings.mlr.press/v306/chen26bw.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26bw-modules) |
+| [PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](https://proceedings.mlr.press/v306/chen26fr.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fr-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -63,6 +64,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](https://proceedings.mlr.press/v306/chen26ck.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ck-optimization) |
+| [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](https://proceedings.mlr.press/v306/chen26fx.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fx-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -73,6 +75,7 @@ The linked short insights are available in Chinese.
 | [DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](https://proceedings.mlr.press/v306/behzadifar26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) |
 | [Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](https://proceedings.mlr.press/v306/butbaia26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#butbaia26a-reinforcement-learning) |
 | [RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](https://proceedings.mlr.press/v306/chang26g.html) | [Read insight (中文)](../../papers/scientific-ml.md#chang26g-reinforcement-learning) |
+| [Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gv.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26gv-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -105,6 +108,7 @@ The linked short insights are available in Chinese.
 | [FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](https://proceedings.mlr.press/v306/bohde26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bohde26a-inference) |
 | [Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](https://proceedings.mlr.press/v306/cao26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26c-inference) |
 | [Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](https://proceedings.mlr.press/v306/chen26bu.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26bu-inference) |
+| [Coarse-Grained Boltzmann Generators](https://proceedings.mlr.press/v306/chen26gs.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26gs-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -120,6 +124,7 @@ The linked short insights are available in Chinese.
 | [MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing](https://proceedings.mlr.press/v306/chen26ay.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ay-representation-learning) |
 | [SLAE: Strictly Local All-atom Environment for Protein Representation](https://proceedings.mlr.press/v306/chen26ct.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ct-representation-learning) |
 | [Protein Fold Classification at Scale: Benchmarking and Pretraining](https://proceedings.mlr.press/v306/chen26db.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26db-representation-learning) |
+| [Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](https://proceedings.mlr.press/v306/cheng26m.html) | [Read insight (中文)](../../papers/scientific-ml.md#cheng26m-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -136,6 +141,7 @@ The linked short insights are available in Chinese.
 | [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://proceedings.mlr.press/v306/cao26g.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26g-evaluation) |
 | [A Systematic Study of Behavioral Cloning for Scientific Data Annotation](https://proceedings.mlr.press/v306/chandok26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chandok26a-evaluation) |
 | [Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](https://proceedings.mlr.press/v306/chen26fp.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fp-evaluation) |
+| [Abstraction Induces the Brain Alignment of Language and Speech Models](https://proceedings.mlr.press/v306/cheng26l.html) | [Read insight (中文)](../../papers/scientific-ml.md#cheng26l-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

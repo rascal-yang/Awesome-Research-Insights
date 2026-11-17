@@ -27,6 +27,8 @@
 - [4 位训练权重振荡](../papers/llm.md#chen26cl-training-strategies) · TetraJet-v2: Accurate NVFP4 Training for Large Language Models with Oscillation Suppression and Outlier Control
 - [后训练的近似在策略数据](../papers/llm.md#chen26do-training-strategies) · Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting
 - [拒答引导的激活对抗训练](../papers/llm.md#chen26em-training-strategies) · Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation
+- [代码风险节点的树式自对弈](../papers/llm.md#chen26gc-training-strategies) · Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs
+- [多智能体的隐私偏好构造](../papers/llm.md#cheng26o-training-strategies) · PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training
 
 ### 计算机视觉
 
@@ -41,6 +43,7 @@
 ### 机器人学
 
 - [终身轨迹规划](../papers/robotics.md#chen26d-training-strategies) · NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts
+- [部件位姿的弱监督对称估计](../papers/robotics.md#chen26fw-training-strategies) · Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy
 
 ### 多模态学习
 
@@ -48,6 +51,8 @@
 - [多模态微调](../papers/multimodal.md#asadollahzadeh26a-training-strategies) · TRACER: Persistent Regularization for Robust Multimodal Finetuning
 - [视觉数据与符号绑定](../papers/multimodal.md#buzeta26a-training-strategies) · Seeing to Generalize: How Visual Data Corrects Binding Shortcuts
 - [视觉语言蒸馏与量化](../papers/multimodal.md#chen26am-training-strategies) · Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs
+- [多模态蒸馏的视觉与转移对齐](../papers/multimodal.md#chen26gr-training-strategies) · Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions
+- [双曲空间中的 CLIP 持续适配](../papers/multimodal.md#cheng26p-training-strategies) · HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning
 
 ### 机器学习基础与统计
 
@@ -67,6 +72,9 @@
 - [多层联邦个性化建模](../papers/ml-foundations.md#chen26cp-training-strategies) · Personalized Additive Modeling for Multi-level Federated Learning
 - [离线 GFlowNet 的边奖励引导](../papers/ml-foundations.md#chen26ej-training-strategies) · Beyond the Proxy: Trajectory-Distilled Guidance for Offline GFlowNet Training
 - [多方向异步流水线训练](../papers/ml-foundations.md#chen26ff-training-strategies) · AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training
+- [面向后续适配的模型合并](../papers/ml-foundations.md#chen26gq-training-strategies) · Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merging
+- [逐步域适应的半对偶传输](../papers/ml-foundations.md#chen26hd-training-strategies) · Rethinking the Flow-based Gradual Domain Adaptation: A Semi-Dual Optimal Transport Perspective
+- [多目标扩散模型的半监督蒸馏](../papers/ml-foundations.md#cheng26g-training-strategies) · Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning
 
 ### 图学习与推荐
 

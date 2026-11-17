@@ -48,6 +48,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](../../papers/reinforcement-learning.md#carr26a-theory-statistics) · 中文
 - [Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](../../papers/reinforcement-learning.md#chen26dy-theory-statistics) · 中文
 - [A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](../../papers/reinforcement-learning.md#chen26ef-theory-statistics) · 中文
+- [Offline Two-Player Zero-Sum Markov Games with KL Regularization](../../papers/reinforcement-learning.md#chen26gk-theory-statistics) · 中文
 
 ### Multimodal Learning
 
@@ -127,6 +128,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework](../../papers/ml-foundations.md#chen26eh-theory-statistics) · 中文
 - [Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise](../../papers/ml-foundations.md#chen26ev-theory-statistics) · 中文
 - [General Quantification of Covariate and Concept Shifts](../../papers/ml-foundations.md#chen26fg-theory-statistics) · 中文
+- [Nonlinear Covariate Balance in Experimental Design](../../papers/ml-foundations.md#chen26gn-theory-statistics) · 中文
+- [Towards Optimal Robustness in Learning-Augmented Paging](../../papers/ml-foundations.md#chen26gt-theory-statistics) · 中文
+- [Theoretical Challenges in Learning for Branch-and-Cut](../../papers/ml-foundations.md#cheng26a-theory-statistics) · 中文
+- [Domain Adaptation with Adaptive $f$-Divergence: Tighter Variational Representation and Generalization Bounds](../../papers/ml-foundations.md#cheng26r-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 

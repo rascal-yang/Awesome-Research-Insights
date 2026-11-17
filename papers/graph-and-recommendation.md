@@ -24,6 +24,7 @@
 | :--- | :--- | :--- |
 | <a id="bai26i-modules"></a>[GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](https://proceedings.mlr.press/v306/bai26i.html) | 图卷积 | 用 Dominant Set 迭代估计全图节点的重要性，在每层局部消息传播前重加权，令邻域卷积也能利用非邻接节点的关联。 |
 | <a id="barcelo26a-modules"></a>[Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://proceedings.mlr.press/v306/barcelo26a.html) | 图神经网络表达力 | 把消息传播的中心从点移到边，并沿三角形交换信息，可区分更多图结构，在论文考虑的实际图负载上仍保持近线性开销。 |
+| <a id="chen26gm-modules"></a>[Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](https://proceedings.mlr.press/v306/chen26gm.html) | 兼顾图拓扑与因果顺序的注意力 | 同一图元素的 token 块内保留因果掩码，不同图元素块之间允许双向注意。将序列位置与图谱坐标共同编码到 RoPE 旋转相位，让 Q、K 点积同时反映 token 顺序和图结构。 |
 
 <a id="by-loss-functions"></a>
 
@@ -32,6 +33,8 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="chen26ez-loss-functions"></a>[Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](https://proceedings.mlr.press/v306/chen26ez.html) | 推荐排序的伪负例偏好优化 | 两两偏好更新可能几乎不改变正例和未采样负例的相对次序。加入带锚定奖励的伪负例作为额外比较对象，可为这些容易被原有梯度忽略的排序关系补充监督。 |
+| <a id="chen26gu-loss-functions"></a>[GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment](https://proceedings.mlr.press/v306/chen26gu.html) | 联邦图学习的 Fisher 参数对齐 | 用服务端下发的对角 Fisher 信息加权本地参数与全局参数的平方差，使高敏感参数受到更强的偏移惩罚。服务端再依据客户端 Fisher 信息的迹分配模型聚合权重。 |
+| <a id="chen26gx-loss-functions"></a>[ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](https://proceedings.mlr.press/v306/chen26gx.html) | 时序图解释的稳定与转变证据 | 按交互频率对解释子图做软拆分，使重复互动偏向稳定分量、首次或罕见互动偏向转变分量，再用以事件标签为条件的互信息惩罚压低两部分的冗余。 |
 
 <a id="by-optimization"></a>
 
@@ -42,6 +45,7 @@
 | <a id="bai26g-optimization"></a>[Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://proceedings.mlr.press/v306/bai26g.html) | 图粗化 | 评估合并时优先考虑对整个邻域的干扰，减少逐节点全局匹配。局部各向同性允许把高节点度带来的额外计算消掉。 |
 | <a id="chakraborty26b-optimization"></a>[Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) | 公平排序聚合 | 把群体代表性约束写入前 k 位的排序聚合，可求得该前缀问题的最优解。若要为所有候选排序，则论文给出二倍近似。 |
 | <a id="chen26b-optimization"></a>[Differentially Private Range Subgraph Counting](https://proceedings.mlr.press/v306/chen26b.html) | 隐私图查询 | 把属性范围内固定模式的子图计数映射为加权正交范围查询，再用局部灵敏度加噪。理论下界说明高维属性会使误差显著增加。 |
+| <a id="cheng26j-optimization"></a>[What Makes a Desired Graph for Relational Deep Learning?](https://proceedings.mlr.press/v306/cheng26j.html) | 关系数据库的任务感知图结构优化 | 对关系图同时学习过滤任务无关的列和连接，并补入符合目标任务关系的边。实验发现过滤越多并不总会提升性能，注入的连接也需和下游任务的关系语义对应。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -89,6 +93,7 @@
 | <a id="behmanesh26a-representation-learning"></a>[Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](https://proceedings.mlr.press/v306/behmanesh26a.html) | 跨图对齐 | 先向节点嵌入注入高频信息以保留局部区分度，再在对应映射上做低通平滑，分别处理节点过平滑与跨图匹配噪声。 |
 | <a id="cai26f-representation-learning"></a>[CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | 高阶关系表征 | 把高阶关系拆成多个不完整查询与补全实体，用查询非对称地调制候选实体表征，再做对比对齐。 |
 | <a id="chen26ak-representation-learning"></a>[SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | 跨模态生成式推荐 | 抑制模型过度依赖占优模态，让推荐生成器学习只有联合读取图像与文本才能辨识的商品属性。 |
+| <a id="chen26fu-representation-learning"></a>[Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | 图节点边界的自适应对比更新 | 在类别嵌入簇的边界区域选择结构混杂的节点做对比学习。先虚拟更新边界注意力层并测量全图嵌入变化，再按变化量的倒数缩放实际更新，限制少量边界样本对其他节点的扰动。 |
 
 <a id="by-evaluation"></a>
 

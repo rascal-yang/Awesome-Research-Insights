@@ -111,10 +111,12 @@ Teacher features can be low rank for each image while occupying different subspa
 
 - [GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](../../papers/graph-and-recommendation.md#bai26i-modules) · 中文
 - [Message Passing on the Edge: Towards Scalable and Expressive GNNs](../../papers/graph-and-recommendation.md#barcelo26a-modules) · 中文
+- [Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](../../papers/graph-and-recommendation.md#chen26gm-modules) · 中文
 
 ### Scientific Machine Learning
 
 - [Smoothness Errors in Dynamics Models and How to Avoid Them](../../papers/scientific-ml.md#berman26d-modules) · 中文
 - [MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](../../papers/scientific-ml.md#chang26b-modules) · 中文
 - [TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](../../papers/scientific-ml.md#chen26bw-modules) · 中文
+- [PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](../../papers/scientific-ml.md#chen26fr-modules) · 中文
 <!-- classification:end -->

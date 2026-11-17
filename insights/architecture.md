@@ -20,6 +20,7 @@
 - [像素空间扩散](../papers/computer-vision.md#baade26a-architecture) · Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation
 - [少样本布局生成](../papers/computer-vision.md#bao26f-architecture) · Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation
 - [按空间分组的同位词元预测](../papers/computer-vision.md#chen26du-architecture) · Autoregression with Self-Token Prediction
+- [压缩成像的连续光谱先验](../papers/computer-vision.md#chen26ga-architecture) · Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging
 
 ### 强化学习
 
@@ -33,6 +34,7 @@
 ### 多模态学习
 
 - [交互式人物检索](../papers/multimodal.md#bai26j-architecture) · Interactive Person Retrieval via Multi-Turn Multimodal Conversation
+- [遥感跨模态的共享潜空间扩散](../papers/multimodal.md#chen26go-architecture) · Any2Any: Unified Arbitrary Modality Translation for Remote Sensing
 
 ### 机器学习基础与统计
 
@@ -44,6 +46,8 @@
 - [离散函数近似](../papers/ml-foundations.md#candogan26b-architecture) · Deep Flow Networks
 - [受约束域回归](../papers/ml-foundations.md#chakraborty26a-architecture) · Probabilistically-routed Bayesian Additive Spanning Trees for Learning on Constrained Domains
 - [时序计数分解](../papers/ml-foundations.md#chaussard26a-architecture) · Independent Component Discovery in Temporal Count Data
+- [自回归与流匹配耦合预测](../papers/ml-foundations.md#cheng26h-architecture) · CoGenCast: A Coupled Autoregressive–Flow Generative Framework for Time Series Forecasting
+- [外生时序的历史条件生成](../papers/ml-foundations.md#cheng26t-architecture) · KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables
 
 ### 图学习与推荐
 

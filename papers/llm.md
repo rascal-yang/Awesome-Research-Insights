@@ -43,6 +43,7 @@
 | <a id="chen26bi-loss-functions"></a>[What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis](https://proceedings.mlr.press/v306/chen26bi.html) | 潜在思维链的重建监督 | 逐步用潜状态替换显式推理步骤时，额外训练解码器用潜状态重建对应的推理词元。在文中任务上，该辅助监督优于用均方误差将潜状态拉向推理词元的平均嵌入。 |
 | <a id="chen26br-loss-functions"></a>[$φ$-Balancing for Mixture-of-Experts Training](https://proceedings.mlr.press/v306/chen26br.html) | MoE 软路由负载均衡 | 对各专家的软路由概率维护指数移动平均，用全局凸均衡势函数在该均值处的梯度作为专家代价。计算辅助损失时停止代价的梯度，只对当前批次的路由概率反传，降低硬分派统计带来的波动。 |
 | <a id="chen26el-loss-functions"></a>[Discrete Tilt Matching](https://proceedings.mlr.press/v306/chen26el.html) | 离散扩散的奖励倾斜匹配 | 从基础掩码扩散模型采样完整序列，按终局奖励的指数给去掩码交叉熵加权，并用基础模型的去掩码分布构造控制变量。该目标在加权条件均值保持不变时匹配奖励倾斜后的后验，无需求序列边际似然。 |
+| <a id="chen26hc-loss-functions"></a>[$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](https://proceedings.mlr.press/v306/chen26hc.html) | 自博弈偏好语义校准 | 依据偏好对中两条回答的语义相似度，将裁判给出的胜率目标向 0.5 收缩。回答越接近，越少用其表面胜负作为学习信号，以减轻自博弈反复放大噪声偏好的问题。 |
 
 <a id="by-optimization"></a>
 
@@ -61,6 +62,7 @@
 | <a id="chen26ew-optimization"></a>[SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search](https://proceedings.mlr.press/v306/chen26ew.html) | MoE 专家组合剪枝 | 给定每层专家预算，以重新线性拟合该层原始输出的误差给专家组合评分，再用舒尔补为剩余选择的潜在收益设上界，让 A* 剪掉无法改进当前解的搜索分支。 |
 | <a id="chen26ex-optimization"></a>[QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment](https://proceedings.mlr.press/v306/chen26ex.html) | 遥测反馈驱动内核调优 | 把热点调用栈和硬件拓扑压缩成语言模型可读取的运行摘要，再用分层配置树同时呈现局部选项和子系统摘要，指导配置搜索与剪枝，并把实际运行性能反馈给下一轮。 |
 | <a id="chen26fe-optimization"></a>[Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](https://proceedings.mlr.press/v306/chen26fe.html) | 偏好更新的梯度激励校准 | 将不同偏好目标的梯度拆成胜负回答两个方向及对应权重，在反向传播中把权重比调进由局部梯度关系决定的区间。论文的一阶分析表明，该条件可在压低落选回答似然的同时保住入选回答。 |
+| <a id="chen26hb-optimization"></a>[$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](https://proceedings.mlr.press/v306/chen26hb.html) | 求解器程序树进化 | 把完整求解器作为进化树节点，允许语言模型编辑局部策略、重写入口流程或融合两个父程序，再用执行反馈修补缺失依赖与运行错误，从而搜索可运行的整体算法。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -90,6 +92,9 @@
 | <a id="chen26ec-reinforcement-learning"></a>[Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning](https://proceedings.mlr.press/v306/chen26ec.html) | 生成式数值回归的奖励与蒸馏 | 完整数字解码后用数值距离给 ReMax 提供序列级奖励，同时让专家沿模型实际生成的前缀选择最接近目标值的下一 token。即使前缀已产生错误，蒸馏仍可教模型用后续位减小数值偏差。 |
 | <a id="chen26es-reinforcement-learning"></a>[Learning to Self-Verify Makes Language Models Better Reasoners](https://proceedings.mlr.press/v306/chen26es.html) | 生成与自验证交替训练 | 用 GRPO 分别优化答案正确性奖励和判断答案是否正确的奖励。交替训练时，用上一生成阶段采出的答案构造验证样本，使同一策略练习识别自身当前会犯的错误。 |
 | <a id="chen26fi-reinforcement-learning"></a>[OnePO: Direct One-stage Policy Optimization for SFT-free Domain Adaptation](https://proceedings.mlr.press/v306/chen26fi.html) | 领域强化学习中的教师退出 | 在单阶段 RL 中把教师回答与在线采样一起评分，早期抬高低概率优质教师词元的更新信号。当某个教师回答的奖励被在线策略的前沿超过时停止使用它，使后续探索能脱离教师分布。 |
+| <a id="chen26gh-reinforcement-learning"></a>[JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG](https://proceedings.mlr.press/v306/chen26gh.html) | 动态检索规划与执行联合训练 | 规划器为每个未解子问题选择继续分解或直接安排求解模块，可训练的执行角色与规划器共用主干。PPO 将终局答案得分扣除检索和轮次成本后回传给各角色，并对格式违规即时扣分。 |
+| <a id="chen26gp-reinforcement-learning"></a>[DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gp.html) | 多智能体检索的角色信用分配 | 为规划、筛证和回答三个角色分别给过程反馈，再与团队答案得分合成训练奖励。评分时仅在共享记忆已包含必要证据的情况下惩罚回答者的推理错误，从而区分检索失败和推理失败。 |
+| <a id="cheng26e-reinforcement-learning"></a>[Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](https://proceedings.mlr.press/v306/cheng26e.html) | 智能体轨迹的图信用分配 | 将多条采样轨迹合并为状态转移图，用动作代价与后继状态到目标的最短路径距离构造奖励，再在同起点的出边之间归一化优势，使失败轨迹中的有效动作也有机会获得正信用。 |
 
 <a id="by-training-strategies"></a>
 
@@ -115,6 +120,8 @@
 | <a id="chen26cl-training-strategies"></a>[TetraJet-v2: Accurate NVFP4 Training for Large Language Models with Oscillation Suppression and Outlier Control](https://proceedings.mlr.press/v306/chen26cl.html) | 4 位训练权重振荡 | 在 NVFP4 训练后期，用量化权重与主权重的累计变化量之比识别在量化边界附近反复跳变的权重，再把这些主权重重置到当前量化区间中心，保留当下的量化取值。 |
 | <a id="chen26do-training-strategies"></a>[Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](https://proceedings.mlr.press/v306/chen26do.html) | 后训练的近似在策略数据 | 迭代式监督微调在每轮开头用当时的模型重新生成训练数据。在论文的对照实验中，按轮刷新样本可明显减轻旧任务遗忘，同时维持与标准监督微调相当或更高的目标任务准确率。 |
 | <a id="chen26em-training-strategies"></a>[Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation](https://proceedings.mlr.press/v306/chen26em.html) | 拒答引导的激活对抗训练 | 从拒答激活出发，沿无监督发现的潜方向生成当前引导场难以纠正的训练样本。外层学习标量势函数，使其梯度在推理时把模拟越狱激活推回拒答区域，同时约束对正常请求激活的改动。 |
+| <a id="chen26gc-training-strategies"></a>[Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](https://proceedings.mlr.press/v306/chen26gc.html) | 代码风险节点的树式自对弈 | 在安全代码标注的风险位置截取同一前缀，让上一轮模型从此处分支生成续写，再把安全原路径与该分支组成偏好对。这样可把训练反馈集中在可能引入漏洞的局部决策处。 |
+| <a id="cheng26o-training-strategies"></a>[PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](https://proceedings.mlr.press/v306/cheng26o.html) | 多智能体的隐私偏好构造 | 把任务完成和隐私合规的评分从对话末端向前传播，用各层阈值对同一输入下的候选回复分组，再构造成对数据做 DPO。这样可让中间智能体按自身动作的下游泄露后果学习。 |
 
 <a id="by-data-strategies"></a>
 
@@ -134,6 +141,8 @@
 | <a id="chandak26a-data-strategies"></a>[Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters](https://proceedings.mlr.press/v306/chandak26a.html) | 开放预测训练数据 | 从过往新闻合成可判定的预测题并筛掉劣质样本；训练、检索和评测都按时间截断新闻，可以控制未来信息泄漏。 |
 | <a id="chen26cb-data-strategies"></a>[Threat2Traffic: Multi-Agent Environment Synthesis for Malware Traffic Generation from Threat Intelligence](https://proceedings.mlr.press/v306/chen26cb.html) | 威胁情报驱动的流量数据构造 | 多智能体从威胁情报中提取样本依赖并汇总到证据图，结合证据解决冲突，再对隔离测试环境的配置做语法与语义双层验证，用于采集与样本行为对应的流量数据。 |
 | <a id="chen26dd-data-strategies"></a>[Olmix: A Framework for Data Mixing Throughout LM Development](https://proceedings.mlr.press/v306/chen26dd.html) | 语料域变动后的混合比例复用 | 增删语料域时固定未受影响域之间的相对权重，只重新估计它们的总占比和受影响域的权重。若新旧域的最优比例耦合较强，可放开部分旧域权重重新估计。 |
+| <a id="chen26gi-data-strategies"></a>[From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment](https://proceedings.mlr.press/v306/chen26gi.html) | 任务敏感注意力头筛样 | 以轻量代理微调前后的复合投影权重分布之 Wasserstein 距离筛选任务敏感头，再用这些头对上下文示例的注意力给示例表现加权。用选中的数据微调时，只更新同一组头。 |
+| <a id="chen26gj-data-strategies"></a>[DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](https://proceedings.mlr.press/v306/chen26gj.html) | 从工具执行轨迹反推训练任务 | 先从大工具池抽取工具组合并实际执行，累积可回放的调用与返回值，再从这些证据反推有可验证答案的任务。分别改变工具池覆盖和单任务工具组合，可在保留可执行依据的同时扩充调用结构。 |
 
 <a id="by-inference"></a>
 
@@ -172,6 +181,12 @@
 | <a id="chen26er-inference"></a>[Certain Head, Uncertain Tail: Expert-Sample for Test-Time Scaling in Fine-Grained MoE](https://proceedings.mlr.press/v306/chen26er.html) | 细粒度 MoE 专家采样 | 解码时固定门控排名靠前的专家，对剩余名额只在低置信候选中采样，再按原门控权重归一化。这样可以改变候选的推理路径，同时保留高置信专家的输出贡献。 |
 | <a id="chen26et-inference"></a>[From Extraction to Deduction: Resolving Functional Misalignment in RAG via a Collaborative Critic-Reasoner Framework](https://proceedings.mlr.press/v306/chen26et.html) | 检索证据净化与推导 | 用同一个语言模型先过滤无关背景、再用掩码标出疑似错误的答案片段，保留其周围语境，随后由推理角色整合剩余线索作答，降低照抄检索结果中错误实体的机会。 |
 | <a id="chen26fm-inference"></a>[NanoSpec: Accelerating Speculative Decoding using Minimalist In-Context Vocabularies](https://proceedings.mlr.press/v306/chen26fm.html) | 投机解码的动态草稿词表 | 把草稿与目标模型近几步的高概率 token 放进滑动窗口，去重后仅对这些词表行计算草稿 logits。用异步收集将活跃行排成稠密矩阵，降低大词表末层投影开销，同时保留目标模型的完整验证。 |
+| <a id="chen26fs-inference"></a>[CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control](https://proceedings.mlr.press/v306/chen26fs.html) | 智能体批推理的缓存拥塞控制 | 以活跃智能体数作为并发窗口。KV 缓存使用率偏低时按固定量增加准入，使用率高且命中率低时按比例缩减窗口，并让已有智能体继续运行，减少长上下文批处理中反复淘汰与重算缓存。 |
+| <a id="chen26ft-inference"></a>[Online Linear Programming for Multi-Objective Routing in LLM Serving](https://proceedings.mlr.press/v306/chen26ft.html) | 批容量与缓存的影子价格路由 | 分别给解码节点的批容量和 KV 缓存维护影子价格，以投影在线梯度更新跟踪资源拥塞。按请求收益减去资源成本所得的净值排序，从满足剩余容量约束的正净值候选中贪心分配。 |
+| <a id="chen26fy-inference"></a>[Skill-Based Mixture-of-Experts: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills](https://proceedings.mlr.press/v306/chen26fy.html) | 逐题技能路由与专家批处理 | 从查询推断技能关键词，与各专家的历史技能画像匹配，并结合总体能力为每题选择模型。将请求按选中的专家归组，每轮批处理只加载一次各专家，再汇总各自的推理输出。 |
+| <a id="chen26ge-inference"></a>[CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression](https://proceedings.mlr.press/v306/chen26ge.html) | 语言模型 SVD 压缩的分级秩分配 | 按层间激活的角距离分配各层保留预算，再用层内模块的谱熵分配 SVD 截断秩。将整数秩向下取整留下的预算重新分给尚可增加秩的模块，以提高既定参数预算的利用率。 |
+| <a id="chen26ha-inference"></a>[RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control](https://proceedings.mlr.press/v306/chen26ha.html) | 风险聚合引导的解码回滚 | 发生规则违规后，从覆盖一定比例累计风险的最短时间窗中选回滚点，再用带松弛量的 KL 投影调整下一词元分布，使修正同时考虑多条规则在该前缀下的风险余量。 |
+| <a id="cheng26c-inference"></a>[Escaping Whack-a-Mole: Optimizing Documentation as Repo-Specific Playbooks for Coding Agents](https://proceedings.mlr.press/v306/cheng26c.html) | 代码文档的依赖感知搜索 | 按程序依赖图先定稿被调用实体的文档，再搜索调用方的文档改写。对每个实体从自生成单元测试中多样化采样失败信息驱动束搜索，减少级联错误和重复报错对修订的干扰。 |
 
 <a id="by-representation-learning"></a>
 
@@ -181,6 +196,7 @@
 | :--- | :--- | :--- |
 | <a id="akhauri26b-representation-learning"></a>[Regression Language Models for Code](https://proceedings.mlr.press/v306/akhauri26b.html) | 代码性能预测 | 冻结统一的语言编码器，直接从代码文本回归内存、内核延迟或模型架构性能等数值，可共享跨语言和任务的表征。 |
 | <a id="chen26dr-representation-learning"></a>[Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](https://proceedings.mlr.press/v306/chen26dr.html) | 面向监测的行为表征解耦 | 用对比损失拉近同类行为的中间层表征、分开异类行为，同时在保留集上约束隐状态距离和输出 KL 散度。这样可让简单探针更容易识别行为，同时限制通用能力的变化。 |
+| <a id="chen26gy-representation-learning"></a>[ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](https://proceedings.mlr.press/v306/chen26gy.html) | 思维链视觉压缩 | 把推理步骤渲染成带边框与连接箭头的图像，再用视觉自编码器压成离散词元。混合版本另保留平均词元对数似然较低的少量文本步骤，以补充压缩后易丢失的推理细节。 |
 
 <a id="by-evaluation"></a>
 
@@ -249,6 +265,8 @@
 | <a id="chen26dp-evaluation"></a>[Scam2Prompt: A Scalable Framework for Auditing Malicious Scam Endpoints in Production LLMs](https://proceedings.mlr.press/v306/chen26dp.html) | 代码生成的诈骗链接审计 | 从已知诈骗页面提取可见文本，据此合成表面正常的开发需求。对生成代码提取 URL 并交由多个安全检测器核验，可测量模型在日常编程请求中输出恶意链接的频率。 |
 | <a id="chen26eg-evaluation"></a>[AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use](https://proceedings.mlr.press/v306/chen26eg.html) | 工具智能体的用户交互评测 | 从可自动执行的有状态任务构造指令欠定、目标不可行和操作待确认的变体，并可在同一任务叠加多种情形。模拟用户只依照预设知识边界回答，评测同时检查应用状态与所需交互。 |
 | <a id="chen26fa-evaluation"></a>[INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](https://proceedings.mlr.press/v306/chen26fa.html) | 分块低比特量化格式比较 | 比较整数与浮点量化时，应同时看块大小和块内峰值相对均方根的比例。论文的细粒度实验中，缩小分块使异常值影响局部化，因而同位宽整数格式可在低峰值比的块上获得更高的量化信噪比。 |
+| <a id="chen26gl-evaluation"></a>[Scaling Law for Quantization-Aware Training](https://proceedings.mlr.press/v306/chen26gl.html) | 量化感知训练的激活异常值诊断 | 用仅量化权重和仅量化激活的对照实验拆分 W4A4 训练损失差，定位到前馈层 FC2 输入的持续异常值。仅将该处输入改用 8 比特，论文在量化组大小为 256 的设置中测得量化损失差降低 42.9%。 |
+| <a id="cheng26n-evaluation"></a>[IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL](https://proceedings.mlr.press/v306/cheng26n.html) | 语言模型强化学习的采样预算分配 | 在相同采样预算下分别改变每题 rollout 数、批内问题数和更新步数。实验观察到最优每题 rollout 数随预算增长后趋于饱和，易题更多体现为让概率集中到已有正确解，难题则更多体现为扩大正确解的覆盖。 |
 
 <a id="by-theory-statistics"></a>
 

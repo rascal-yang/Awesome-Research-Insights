@@ -25,6 +25,7 @@ The linked short insights are available in Chinese.
 | [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://proceedings.mlr.press/v306/baade26a.html) | [Read insight (中文)](../../papers/computer-vision.md#baade26a-architecture) |
 | [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | [Read insight (中文)](../../papers/computer-vision.md#bao26f-architecture) |
 | [Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26du-architecture) |
+| [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ga-architecture) |
 
 <a id="by-modules"></a>
 
@@ -105,6 +106,7 @@ The linked short insights are available in Chinese.
 | [SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis](https://proceedings.mlr.press/v306/chen26ey.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ey-inference) |
 | [ScalingAR: Scaling Confidence for Autoregressive Image Generation](https://proceedings.mlr.press/v306/chen26fc.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26fc-inference) |
 | [GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](https://proceedings.mlr.press/v306/chen26fq.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26fq-inference) |
+| [FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth](https://proceedings.mlr.press/v306/cheng26b.html) | [Read insight (中文)](../../papers/computer-vision.md#cheng26b-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -134,6 +136,7 @@ The linked short insights are available in Chinese.
 | [Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | [Read insight (中文)](../../papers/computer-vision.md#baek26e-evaluation) |
 | [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | [Read insight (中文)](../../papers/computer-vision.md#braun26b-evaluation) |
 | [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26az-evaluation) |
+| [Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://proceedings.mlr.press/v306/chen26gw.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26gw-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

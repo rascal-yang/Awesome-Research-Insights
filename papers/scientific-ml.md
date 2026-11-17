@@ -39,6 +39,7 @@
 | <a id="berman26d-modules"></a>[Smoothness Errors in Dynamics Models and How to Avoid Them](https://proceedings.mlr.press/v306/berman26d.html) | 网格动力学平滑 | 热扩散等过程本身需要平滑，严格酉卷积会限制这种物理变化。放松酉性可在抑制图网络过平滑的同时允许合理的平滑演化。 |
 | <a id="chang26b-modules"></a>[MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](https://proceedings.mlr.press/v306/chang26b.html) | 医学视觉定位 | 在语言模型词表中引入区域代码，通过区域感知模块将代码解码成像素掩码，使语言输出能够对应到图像里的具体组织区域。 |
 | <a id="chen26bw-modules"></a>[TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](https://proceedings.mlr.press/v306/chen26bw.html) | 口袋与配体双向融合 | 将残基超图与原子级几何编码成口袋表征，让口袋与候选分子序列的特征分别作为查询做门控交叉注意力。把口袋查询得到的全局向量广播到各序列位置，再与逐位置融合结果相加以引导 SMILES 生成。 |
+| <a id="chen26fr-modules"></a>[PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](https://proceedings.mlr.press/v306/chen26fr.html) | 脑电信号的复数频谱细化 | 对脑电特征做二维傅里叶变换，用独立卷积分支处理实部和虚部，以幅值谱生成的门控同时筛选两个分支，再逆变换并与时域卷积特征融合。该设计在文中的 0.1 秒听觉注意解码实验中仍有改善。 |
 
 <a id="by-loss-functions"></a>
 
@@ -61,6 +62,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="chen26ck-optimization"></a>[Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](https://proceedings.mlr.press/v306/chen26ck.html) | 广义特征值积分轮廓 | 对厄米广义特征值问题，先用神经算子快速预测实谱，再用核密度估计找出谱簇间的低密度谷底，以此划分积分轮廓并预留边距。目标特征值由后续围道积分求解器计算。 |
+| <a id="chen26fx-optimization"></a>[LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](https://proceedings.mlr.press/v306/chen26fx.html) | 语言模型预测与真实实验的门控 | 用高斯过程分别建模语言模型的低成本预测以及它与真实实验的偏差。贝叶斯优化选点后，只有偏差项占预测方差的比例超过阈值才调用昂贵实验，其余位置用低成本预测更新代理。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -71,6 +73,7 @@
 | <a id="behzadifar26a-reinforcement-learning"></a>[DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](https://proceedings.mlr.press/v306/behzadifar26a.html) | 科学方程发现 | 把候选方程拆成符号项提供细粒度反馈，再用测试时强化学习更新假设生成器，让后续搜索利用当前系统的观测与误差。 |
 | <a id="butbaia26a-reinforcement-learning"></a>[Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](https://proceedings.mlr.press/v306/butbaia26a.html) | 数学反例搜索 | 把构造代数反例建成稀疏奖励的图搜索，使用受约束的多步选项与等变图策略，在长搜索中学习可复用的时间抽象。 |
 | <a id="chang26g-reinforcement-learning"></a>[RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](https://proceedings.mlr.press/v306/chang26g.html) | 逆合成搜索工具选择 | 搜索时同时决定展开哪个分子、调用哪个单步逆合成模型。用基于分子骨架的强化学习按局面路由，可利用各模型的互补能力。 |
+| <a id="chen26gv-reinforcement-learning"></a>[Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gv.html) | 医学视觉定位与稀疏推理 | 让同一策略先在医学图像上定位相关区域，再用裁剪后的视觉词元回答问题。顺序优化两分支并互用答题正确性奖励，使定位步骤得到所保留证据能否支撑答案的反馈。 |
 
 <a id="by-training-strategies"></a>
 
@@ -103,6 +106,7 @@
 | <a id="bohde26a-inference"></a>[FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](https://proceedings.mlr.press/v306/bohde26a.html) | 质谱到分子生成 | 用正向碎裂模型找出候选分子中与观测质谱不符的局部片段，只重掩码并去噪这些片段，随推理预算逐步纠偏。 |
 | <a id="cao26c-inference"></a>[Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](https://proceedings.mlr.press/v306/cao26c.html) | 蛋白结合物设计 | 联合学习不同结合环境下的序列与结构，再在推理时混合多个环境的采样路径，以搜索同一条能适配多目标或多构象的序列。 |
 | <a id="chen26bu-inference"></a>[Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](https://proceedings.mlr.press/v306/chen26bu.html) | 对接预测梯度反演 | 把训练好的可微对接模型用作生成时的评分器，对候选配体的连续坐标和特征反传预测目标的梯度，每步投影回可行集合，最后按小分子或蛋白质配体的约束解码。 |
+| <a id="chen26gs-inference"></a>[Coarse-Grained Boltzmann Generators](https://proceedings.mlr.press/v306/chen26gs.html) | 粗粒化玻尔兹曼重要性采样 | 增强采样偏置只依赖粗粒化坐标时，给定该坐标的原子构型条件分布保持不变，因此可用重新计算的无偏投影力拟合平均力势。随后用其玻尔兹曼权重与流模型密度的比值重加权，平衡统计的准确性取决于势的拟合质量。 |
 
 <a id="by-representation-learning"></a>
 
@@ -118,6 +122,7 @@
 | <a id="chen26ay-representation-learning"></a>[MolAlign3D: Enhancing Fixed-Dimensional E(3)-Equivariant Latent Space for High-Fidelity 3D Molecular Reconstruction and Editing](https://proceedings.mlr.press/v306/chen26ay.html) | 三维分子表征 | 在固定维的 E(3) 等变几何潜空间里加上预训练分子编码器的语义锚点，可保留重建精度，同时改善改变原子数等零样本编辑。 |
 | <a id="chen26ct-representation-learning"></a>[SLAE: Strictly Local All-atom Environment for Protein Representation](https://proceedings.mlr.press/v306/chen26ct.html) | 蛋白质局部全原子表征 | 以残基附近的重原子类型和相对几何构建局部表征，同时监督全原子坐标重建、氨基酸识别和 Rosetta 相互作用能回归，让表征同时保留侧链几何和局部化学环境。 |
 | <a id="chen26db-representation-learning"></a>[Protein Fold Classification at Scale: Benchmarking and Pretraining](https://proceedings.mlr.press/v306/chen26db.html) | 高掩码蛋白质结构预训练 | 随机掩去最高 90% 的残基，以 SE(3) 不变编码器处理可见结构，让轻量解码器重建骨架坐标。在去冗余的 TEDBench 上，这种自监督表征提升了折叠拓扑分类表现。 |
+| <a id="cheng26m-representation-learning"></a>[Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](https://proceedings.mlr.press/v306/cheng26m.html) | 多视角电子密度图表征 | 把三维电子密度转为多视角图像，共享视觉编码器提取各视角特征后池化，并用跨尺度物理任务预训练。论文在有机光伏和发色团数据上验证了这种输入在降低电子密度建模成本的同时仍能预测材料属性。 |
 
 <a id="by-evaluation"></a>
 
@@ -134,6 +139,7 @@
 | <a id="cao26g-evaluation"></a>[SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://proceedings.mlr.press/v306/cao26g.html) | 仿真 Agent 成本评测 | 在测参成功率之外，把仿真器调用成本独立记账，并与固定扫描基线比较。论文中，多轮交互提高成功率的同时仍可能更耗时。 |
 | <a id="chandok26a-evaluation"></a>[A Systematic Study of Behavioral Cloning for Scientific Data Annotation](https://proceedings.mlr.press/v306/chandok26a.html) | 科学标注行为克隆 | 用模拟的专家导航、纠错和验证轨迹研究标注策略，分开测界面操作与任务决策。多任务预训练可提升少样本新标注任务的微调效果。 |
 | <a id="chen26fp-evaluation"></a>[Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](https://proceedings.mlr.press/v306/chen26fp.html) | 自然感官数据的跨刺激神经预测 | 用真实环境采样训练无监督模型，再用学得的特征预测刺激诱发的皮层响应。仅用普通话训练的模型可预测英语刺激下的听觉响应，用婴儿头戴相机视频训练的模型可预测成年人观看物体图像时的视觉响应。 |
+| <a id="cheng26l-evaluation"></a>[Abstraction Induces the Brain Alignment of Language and Speech Models](https://proceedings.mlr.press/v306/cheng26l.html) | 语言与语音层表征的脑响应对齐 | 逐层测量表征内在维度并预测 fMRI 和 ECoG 信号，发现高维度的中间层通常更贴合脑响应。以脑响应为目标微调时，内在维度和可解码的语义信息也随之增加。 |
 
 <a id="by-theory-statistics"></a>
 

@@ -25,6 +25,7 @@
 | <a id="baade26a-architecture"></a>[Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://proceedings.mlr.press/v306/baade26a.html) | 像素空间扩散 | 给潜变量和像素安排不同噪声日程，使模型先形成可作中间计算的潜表示，再补出高频像素细节。 |
 | <a id="bao26f-architecture"></a>[Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | 少样本布局生成 | 用类别锚点保留对象身份，将局部视觉细节编码成可重组原语，缓解小样本非典型布局生成中的语义碎裂。 |
 | <a id="chen26du-architecture"></a>[Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | 按空间分组的同位词元预测 | 把图像词元按空间顺序分组，用已生成组构造与当前组位置对齐的输入。当前组输入内部可做全注意力，并行预测对应位置，组间掩码保证预测只依赖先前生成的真实词元。 |
+| <a id="chen26ga-architecture"></a>[Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | 压缩成像的连续光谱先验 | 在每一步展开重建中用物理编码掩码约束数据一致性，再以可查询波长的连续光谱场作先验。训练时只对有真值的离散波长切片计算误差，推理时可查询未参与训练的波长。 |
 
 <a id="by-modules"></a>
 
@@ -105,6 +106,7 @@
 | <a id="chen26ey-inference"></a>[SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis](https://proceedings.mlr.press/v306/chen26ey.html) | 新视角扩散的语义条件 | 逐步去噪时，在有观测覆盖的像素用从输入视图变换过来的语义特征，在其余像素从当前预测的干净图中提取 DINO 特征，让相机位移较大时仍有语义条件可用。 |
 | <a id="chen26fc-inference"></a>[ScalingAR: Scaling Confidence for Autoregressive Image Generation](https://proceedings.mlr.press/v306/chen26fc.html) | 自回归图像采样的轨迹剪枝 | 用视觉 token 的预测熵与条件信号评估正在生成的轨迹，并随置信度调整条件引导强度、提前停止低分轨迹。这样可在潜 token 空间分配采样预算，省去中途解码图像和调用外部评分器。 |
 | <a id="chen26fq-inference"></a>[GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](https://proceedings.mlr.press/v306/chen26fq.html) | 桥式生成模型的分频先验引导 | 对输入先验做模糊等退化构造弱版本，每步外推强弱先验下的去噪结果。按桥采样两端信噪比较高的特点，在早段和末段加强高频引导，低频引导则贯穿整个轨迹。 |
+| <a id="cheng26b-inference"></a>[FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth](https://proceedings.mlr.press/v306/cheng26b.html) | 图像到点云配准的动态交互深度 | 对每个尺度池化图像和点云词元，交给以匹配误差倒数为奖励训练的策略选择 Mamba 交互次数。允许跳过某一尺度，避免在当前场景不需要的层级反复细化对应关系。 |
 
 <a id="by-representation-learning"></a>
 
@@ -134,6 +136,7 @@
 | <a id="baek26e-evaluation"></a>[Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | 深伪防御评测 | 把输出画质和身份保真度分开评估，并校准生成器固有的身份偏差。白盒防御表现特别强时也要检查是否损害跨生成器迁移。 |
 | <a id="braun26b-evaluation"></a>[Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | 扩散模型概念遗忘 | 通过测试擦除前写入的触发关联能否在遗忘后复现概念，可以检查现有擦除方法是否还保留潜在生成路径。 |
 | <a id="chen26az-evaluation"></a>[Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | 生成模型后门评测 | 后门可能对语义相同的改写提示共同触发，枚举固定字符串容易漏检。可用语义等价改写、部分语义和正常输入分别测触发、误触发和正常质量。 |
+| <a id="chen26gw-evaluation"></a>[Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://proceedings.mlr.press/v306/chen26gw.html) | 人脸数据集内在质量估计 | 用轻量代理模型提取人脸嵌入，联合计算近邻身份标签一致性和嵌入协方差谱的归一化有效秩，分别衡量局部标签可靠性与整体多样性，可在完整训练前筛查数据集。 |
 
 <a id="by-theory-statistics"></a>
 

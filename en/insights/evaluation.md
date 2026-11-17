@@ -70,6 +70,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Scam2Prompt: A Scalable Framework for Auditing Malicious Scam Endpoints in Production LLMs](../../papers/llm.md#chen26dp-evaluation) · 中文
 - [AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use](../../papers/llm.md#chen26eg-evaluation) · 中文
 - [INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](../../papers/llm.md#chen26fa-evaluation) · 中文
+- [Scaling Law for Quantization-Aware Training](../../papers/llm.md#chen26gl-evaluation) · 中文
+- [IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL](../../papers/llm.md#cheng26n-evaluation) · 中文
 
 ### Computer Vision
 
@@ -79,6 +81,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Proactive Defense Benchmark against Deepfake Generation](../../papers/computer-vision.md#baek26e-evaluation) · 中文
 - [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../../papers/computer-vision.md#braun26b-evaluation) · 中文
 - [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](../../papers/computer-vision.md#chen26az-evaluation) · 中文
+- [Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](../../papers/computer-vision.md#chen26gw-evaluation) · 中文
 
 ### Natural Language Processing
 
@@ -108,6 +111,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs](../../papers/multimodal.md#chen26dl-evaluation) · 中文
 - [OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](../../papers/multimodal.md#chen26en-evaluation) · 中文
 - [BabyVision: Visual Reasoning Beyond Language](../../papers/multimodal.md#chen26fj-evaluation) · 中文
+- [HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing](../../papers/multimodal.md#chen26gz-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -122,6 +126,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Verified SHAP: Provable Bounds for Exact Shapley Values of Neural Networks](../../papers/ml-foundations.md#boetius26a-evaluation) · 中文
 - [STABLEVAL: Disagreement-Aware and Stable Evaluation of AI Systems](../../papers/ml-foundations.md#bonagiri26a-evaluation) · 中文
 - [Conditional Coverage Diagnostics for Conformal Prediction](../../papers/ml-foundations.md#braun26c-evaluation) · 中文
+- [Leaderboard Incentives: Model Rankings under Strategic Post-Training](../../papers/ml-foundations.md#chen26gf-evaluation) · 中文
+- [Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization](../../papers/ml-foundations.md#cheng26i-evaluation) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -139,4 +145,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](../../papers/scientific-ml.md#cao26g-evaluation) · 中文
 - [A Systematic Study of Behavioral Cloning for Scientific Data Annotation](../../papers/scientific-ml.md#chandok26a-evaluation) · 中文
 - [Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](../../papers/scientific-ml.md#chen26fp-evaluation) · 中文
+- [Abstraction Induces the Brain Alignment of Language and Speech Models](../../papers/scientific-ml.md#cheng26l-evaluation) · 中文
 <!-- classification:end -->

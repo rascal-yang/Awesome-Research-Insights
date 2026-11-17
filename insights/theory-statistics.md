@@ -48,6 +48,7 @@
 - [长期偏好强化学习](../papers/reinforcement-learning.md#carr26a-theory-statistics) · Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems
 - [重置噪声与有效折扣](../papers/reinforcement-learning.md#chen26dy-theory-statistics) · Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity
 - [因果公平约束下的上下文老虎机](../papers/reinforcement-learning.md#chen26ef-theory-statistics) · A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits
+- [离线零和博弈的 KL 正则估计](../papers/reinforcement-learning.md#chen26gk-theory-statistics) · Offline Two-Player Zero-Sum Markov Games with KL Regularization
 
 ### 多模态学习
 
@@ -127,6 +128,10 @@
 - [单次主观评分的不确定性估计](../papers/ml-foundations.md#chen26eh-theory-statistics) · A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework
 - [重尾梯度噪声下的泛化界](../papers/ml-foundations.md#chen26ev-theory-statistics) · Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise
 - [支持集不重合时的概念漂移](../papers/ml-foundations.md#chen26fg-theory-statistics) · General Quantification of Covariate and Concept Shifts
+- [随机试验的非线性协变量平衡](../papers/ml-foundations.md#chen26gn-theory-statistics) · Nonlinear Covariate Balance in Experimental Design
+- [在线换页的相对预测预算](../papers/ml-foundations.md#chen26gt-theory-statistics) · Towards Optimal Robustness in Learning-Augmented Paging
+- [分支切割局部评分的最坏情形](../papers/ml-foundations.md#cheng26a-theory-statistics) · Theoretical Challenges in Learning for Branch-and-Cut
+- [自适应散度的无监督域适配](../papers/ml-foundations.md#cheng26r-theory-statistics) · Domain Adaptation with Adaptive $f$-Divergence: Tighter Variational Representation and Generalization Bounds
 
 ### 图学习与推荐
 

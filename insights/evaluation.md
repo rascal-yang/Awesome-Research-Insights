@@ -70,6 +70,8 @@
 - [代码生成的诈骗链接审计](../papers/llm.md#chen26dp-evaluation) · Scam2Prompt: A Scalable Framework for Auditing Malicious Scam Endpoints in Production LLMs
 - [工具智能体的用户交互评测](../papers/llm.md#chen26eg-evaluation) · AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use
 - [分块低比特量化格式比较](../papers/llm.md#chen26fa-evaluation) · INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats
+- [量化感知训练的激活异常值诊断](../papers/llm.md#chen26gl-evaluation) · Scaling Law for Quantization-Aware Training
+- [语言模型强化学习的采样预算分配](../papers/llm.md#cheng26n-evaluation) · IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL
 
 ### 计算机视觉
 
@@ -79,6 +81,7 @@
 - [深伪防御评测](../papers/computer-vision.md#baek26e-evaluation) · Proactive Defense Benchmark against Deepfake Generation
 - [扩散模型概念遗忘](../papers/computer-vision.md#braun26b-evaluation) · Erased but Not Forgotten: How Backdoors Compromise Concept Erasure
 - [生成模型后门评测](../papers/computer-vision.md#chen26az-evaluation) · Semantic-level Backdoor Attack against Text-to-Image Diffusion Models
+- [人脸数据集内在质量估计](../papers/computer-vision.md#chen26gw-evaluation) · Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets
 
 ### 自然语言处理
 
@@ -108,6 +111,7 @@
 - [基于物体提示的幻觉检测](../papers/multimodal.md#chen26dl-evaluation) · DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs
 - [文生图工具链越狱评测](../papers/multimodal.md#chen26en-evaluation) · OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing
 - [基础视觉推理诊断](../papers/multimodal.md#chen26fj-evaluation) · BabyVision: Visual Reasoning Beyond Language
+- [文生图人口属性多样性评测](../papers/multimodal.md#chen26gz-evaluation) · HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing
 
 ### 机器学习基础与统计
 
@@ -122,6 +126,8 @@
 - [可验证模型解释](../papers/ml-foundations.md#boetius26a-evaluation) · Verified SHAP: Provable Bounds for Exact Shapley Values of Neural Networks
 - [人评聚合](../papers/ml-foundations.md#bonagiri26a-evaluation) · STABLEVAL: Disagreement-Aware and Stable Evaluation of AI Systems
 - [共形覆盖诊断](../papers/ml-foundations.md#braun26c-evaluation) · Conditional Coverage Diagnostics for Conformal Prediction
+- [榜单评测前的统一微调](../papers/ml-foundations.md#chen26gf-evaluation) · Leaderboard Incentives: Model Rankings under Strategic Post-Training
+- [用合成记忆任务诊断可塑性](../papers/ml-foundations.md#cheng26i-evaluation) · Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization
 
 ### 图学习与推荐
 
@@ -139,4 +145,5 @@
 - [仿真 Agent 成本评测](../papers/scientific-ml.md#cao26g-evaluation) · SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs
 - [科学标注行为克隆](../papers/scientific-ml.md#chandok26a-evaluation) · A Systematic Study of Behavioral Cloning for Scientific Data Annotation
 - [自然感官数据的跨刺激神经预测](../papers/scientific-ml.md#chen26fp-evaluation) · Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli
+- [语言与语音层表征的脑响应对齐](../papers/scientific-ml.md#cheng26l-evaluation) · Abstraction Induces the Brain Alignment of Language and Speech Models
 <!-- classification:end -->

@@ -27,6 +27,8 @@ Training schedules, curricula, and task or stage composition.
 - [TetraJet-v2: Accurate NVFP4 Training for Large Language Models with Oscillation Suppression and Outlier Control](../../papers/llm.md#chen26cl-training-strategies) · 中文
 - [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](../../papers/llm.md#chen26do-training-strategies) · 中文
 - [Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation](../../papers/llm.md#chen26em-training-strategies) · 中文
+- [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../../papers/llm.md#chen26gc-training-strategies) · 中文
+- [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](../../papers/llm.md#cheng26o-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -41,6 +43,7 @@ Training schedules, curricula, and task or stage composition.
 ### Robotics
 
 - [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](../../papers/robotics.md#chen26d-training-strategies) · 中文
+- [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](../../papers/robotics.md#chen26fw-training-strategies) · 中文
 
 ### Multimodal Learning
 
@@ -48,6 +51,8 @@ Training schedules, curricula, and task or stage composition.
 - [TRACER: Persistent Regularization for Robust Multimodal Finetuning](../../papers/multimodal.md#asadollahzadeh26a-training-strategies) · 中文
 - [Seeing to Generalize: How Visual Data Corrects Binding Shortcuts](../../papers/multimodal.md#buzeta26a-training-strategies) · 中文
 - [Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](../../papers/multimodal.md#chen26am-training-strategies) · 中文
+- [Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](../../papers/multimodal.md#chen26gr-training-strategies) · 中文
+- [HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning](../../papers/multimodal.md#cheng26p-training-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -67,6 +72,9 @@ Training schedules, curricula, and task or stage composition.
 - [Personalized Additive Modeling for Multi-level Federated Learning](../../papers/ml-foundations.md#chen26cp-training-strategies) · 中文
 - [Beyond the Proxy: Trajectory-Distilled Guidance for Offline GFlowNet Training](../../papers/ml-foundations.md#chen26ej-training-strategies) · 中文
 - [AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training](../../papers/ml-foundations.md#chen26ff-training-strategies) · 中文
+- [Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merging](../../papers/ml-foundations.md#chen26gq-training-strategies) · 中文
+- [Rethinking the Flow-based Gradual Domain Adaptation: A Semi-Dual Optimal Transport Perspective](../../papers/ml-foundations.md#chen26hd-training-strategies) · 中文
+- [Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning](../../papers/ml-foundations.md#cheng26g-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 

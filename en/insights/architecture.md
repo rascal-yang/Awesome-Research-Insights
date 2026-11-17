@@ -20,6 +20,7 @@ Model-wide design and information flow.
 - [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](../../papers/computer-vision.md#baade26a-architecture) · 中文
 - [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](../../papers/computer-vision.md#bao26f-architecture) · 中文
 - [Autoregression with Self-Token Prediction](../../papers/computer-vision.md#chen26du-architecture) · 中文
+- [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](../../papers/computer-vision.md#chen26ga-architecture) · 中文
 
 ### Reinforcement Learning
 
@@ -33,6 +34,7 @@ Model-wide design and information flow.
 ### Multimodal Learning
 
 - [Interactive Person Retrieval via Multi-Turn Multimodal Conversation](../../papers/multimodal.md#bai26j-architecture) · 中文
+- [Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](../../papers/multimodal.md#chen26go-architecture) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -44,6 +46,8 @@ Model-wide design and information flow.
 - [Deep Flow Networks](../../papers/ml-foundations.md#candogan26b-architecture) · 中文
 - [Probabilistically-routed Bayesian Additive Spanning Trees for Learning on Constrained Domains](../../papers/ml-foundations.md#chakraborty26a-architecture) · 中文
 - [Independent Component Discovery in Temporal Count Data](../../papers/ml-foundations.md#chaussard26a-architecture) · 中文
+- [CoGenCast: A Coupled Autoregressive–Flow Generative Framework for Time Series Forecasting](../../papers/ml-foundations.md#cheng26h-architecture) · 中文
+- [KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables](../../papers/ml-foundations.md#cheng26t-architecture) · 中文
 
 ### Graph Learning and Recommendation
 

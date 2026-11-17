@@ -21,6 +21,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters](../../papers/llm.md#chandak26a-data-strategies) · 中文
 - [Threat2Traffic: Multi-Agent Environment Synthesis for Malware Traffic Generation from Threat Intelligence](../../papers/llm.md#chen26cb-data-strategies) · 中文
 - [Olmix: A Framework for Data Mixing Throughout LM Development](../../papers/llm.md#chen26dd-data-strategies) · 中文
+- [From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment](../../papers/llm.md#chen26gi-data-strategies) · 中文
+- [DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](../../papers/llm.md#chen26gj-data-strategies) · 中文
 
 ### Computer Vision
 
@@ -36,6 +38,7 @@ Data selection, annotation, augmentation, and sampling.
 ### Reinforcement Learning
 
 - [Improving Zero-Shot Offline RL via Behavioral Task Sampling](../../papers/reinforcement-learning.md#bendib26a-data-strategies) · 中文
+- [Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](../../papers/reinforcement-learning.md#chen26gd-data-strategies) · 中文
 
 ### Robotics
 
@@ -51,6 +54,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation](../../papers/multimodal.md#cao26aa-data-strategies) · 中文
 - [From Diagrams to Code: Multilingual Programming with Visual Design](../../papers/multimodal.md#chai26b-data-strategies) · 中文
 - [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](../../papers/multimodal.md#chen26c-data-strategies) · 中文
+- [CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](../../papers/multimodal.md#chen26gb-data-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 

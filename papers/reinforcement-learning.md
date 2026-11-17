@@ -57,6 +57,8 @@
 | <a id="chen26dk-reinforcement-learning"></a>[Multi-Agent Reinforcement Learning with Submodular Reward](https://proceedings.mlr.press/v306/chen26dk.html) | 次模团队奖励的贪心策略 | 固定前面智能体的局部策略，把新智能体带来的团队奖励增量作为它的奖励，再求解单智能体策略。在独立转移、单调次模奖励且动力学已知的设定下，所得策略达到最优价值的一半减去有限采样误差。 |
 | <a id="chen26fl-reinforcement-learning"></a>[Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning](https://proceedings.mlr.press/v306/chen26fl.html) | 离线强化学习的对抗动力学适配 | 在受离线转移数据约束的范围内，把世界模型更新为降低当前策略回报的响应，并用 Stackelberg 学习让策略更新考虑这一模型响应。在加噪的 MuJoCo 和随机托卡马克控制任务中，所得策略更稳健。 |
 | <a id="chen26fn-reinforcement-learning"></a>[VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning](https://proceedings.mlr.press/v306/chen26fn.html) | 价值一致性约束的离线世界模型 | 在转移拟合之外，再惩罚模型内估计的价值与离线数据直接估计的价值之间的差异，使世界模型的训练兼顾对决策回报有影响的误差。 |
+| <a id="cheng26q-reinforcement-learning"></a>[How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](https://proceedings.mlr.press/v306/cheng26q.html) | 增广拉格朗日引导安全动作去噪 | 把奖励与安全代价组成的拉格朗日量作为动作去噪的能量，并加入约束违背惩罚来改善能量的局部曲率。在论文分析的条件下，这能稳定采样与训练，并保留最优策略分布。 |
+| <a id="cheng26s-reinforcement-learning"></a>[Hybrid Reinforcement Learning in Adversarial Markov Decision Processes](https://proceedings.mlr.press/v306/cheng26s.html) | 对抗 MDP 的混合反馈遗憾控制 | 并行运行使用在线反馈的基学习器和多个离策略基学习器，为后者配置覆盖不同失配程度的学习率，再用元算法组合策略。这样在行为策略覆盖较好时可利用离策略反馈收紧遗憾界，覆盖较差时仍有在线保证。 |
 | <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -66,6 +68,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bendib26a-data-strategies"></a>[Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) | 零样本离线强化学习 | 从离线数据中的真实行为提取任务向量作为训练任务分布，替换任意随机向量，有助于策略泛化到未见奖励。 |
+| <a id="chen26gd-data-strategies"></a>[Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](https://proceedings.mlr.press/v306/chen26gd.html) | 跨域离线强化学习的软筛选 | 用非平衡最优传输匹配源域与目标域的转移样本，以广义 KL 惩罚替代固定总运输量约束。按每条源转移的传输边际给离线训练加权，该权重随到目标域的最小匹配代价指数衰减。 |
 
 <a id="by-inference"></a>
 
@@ -114,4 +117,5 @@
 | <a id="carr26a-theory-statistics"></a>[Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](https://proceedings.mlr.press/v306/carr26a.html) | 长期偏好强化学习 | 将轨迹成对偏好建成马尔可夫竞赛，在该设定下可用定常马尔可夫策略达到依赖完整历史的策略所能达到的表现。 |
 | <a id="chen26dy-theory-statistics"></a>[Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](https://proceedings.mlr.press/v306/chen26dy.html) | 重置噪声与有效折扣 | 若每步以概率 1−α 从固定分布重置，且重置概率和分布均与当前状态及动作无关，则折扣为 γ 的含噪 MDP 与折扣为 αγ 的原 MDP 共享最优策略。有效规划范围因此可由保留原转移的概率刻画。 |
 | <a id="chen26ef-theory-statistics"></a>[A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](https://proceedings.mlr.press/v306/chen26ef.html) | 因果公平约束下的上下文老虎机 | 分别约束受保护属性的反事实直接、间接及伪关联效应，用在线估计和探索补偿项近似可行域，再把镜像下降得到的策略投影进去。在论文的因果识别和约束可行条件下，累积遗憾和约束违反均可次线性增长。 |
+| <a id="chen26gk-theory-statistics"></a>[Offline Two-Player Zero-Sum Markov Games with KL Regularization](https://proceedings.mlr.press/v306/chen26gk.html) | 离线零和博弈的 KL 正则估计 | 从末阶段逆推，用最小二乘估计价值，每阶段对双方策略加入相对参考策略的 KL 正则后求鞍点。在数据满足单方偏离覆盖、函数类条件且正则强度与参考策略满足联合约束时，正则博弈的对偶间隙随样本数按约 1/n 衰减。 |
 <!-- classification:end -->

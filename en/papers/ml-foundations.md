@@ -23,6 +23,8 @@ The linked short insights are available in Chinese.
 | [Deep Flow Networks](https://proceedings.mlr.press/v306/candogan26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#candogan26b-architecture) |
 | [Probabilistically-routed Bayesian Additive Spanning Trees for Learning on Constrained Domains](https://proceedings.mlr.press/v306/chakraborty26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chakraborty26a-architecture) |
 | [Independent Component Discovery in Temporal Count Data](https://proceedings.mlr.press/v306/chaussard26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chaussard26a-architecture) |
+| [CoGenCast: A Coupled Autoregressive–Flow Generative Framework for Time Series Forecasting](https://proceedings.mlr.press/v306/cheng26h.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26h-architecture) |
+| [KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables](https://proceedings.mlr.press/v306/cheng26t.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26t-architecture) |
 
 <a id="by-modules"></a>
 
@@ -108,6 +110,9 @@ The linked short insights are available in Chinese.
 | [How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](https://proceedings.mlr.press/v306/chen26de.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26de-optimization) |
 | [Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning](https://proceedings.mlr.press/v306/chen26ei.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ei-optimization) |
 | [HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation](https://proceedings.mlr.press/v306/chen26fd.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26fd-optimization) |
+| [JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning](https://proceedings.mlr.press/v306/chen26fz.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26fz-optimization) |
+| [Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](https://proceedings.mlr.press/v306/chen26gg.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26gg-optimization) |
+| [Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask](https://proceedings.mlr.press/v306/cheng26f.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26f-optimization) |
 
 <a id="by-training-strategies"></a>
 
@@ -131,6 +136,9 @@ The linked short insights are available in Chinese.
 | [Personalized Additive Modeling for Multi-level Federated Learning](https://proceedings.mlr.press/v306/chen26cp.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26cp-training-strategies) |
 | [Beyond the Proxy: Trajectory-Distilled Guidance for Offline GFlowNet Training](https://proceedings.mlr.press/v306/chen26ej.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ej-training-strategies) |
 | [AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training](https://proceedings.mlr.press/v306/chen26ff.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ff-training-strategies) |
+| [Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merging](https://proceedings.mlr.press/v306/chen26gq.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26gq-training-strategies) |
+| [Rethinking the Flow-based Gradual Domain Adaptation: A Semi-Dual Optimal Transport Perspective](https://proceedings.mlr.press/v306/chen26hd.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26hd-training-strategies) |
+| [Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning](https://proceedings.mlr.press/v306/cheng26g.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26g-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -190,6 +198,8 @@ The linked short insights are available in Chinese.
 | [Verified SHAP: Provable Bounds for Exact Shapley Values of Neural Networks](https://proceedings.mlr.press/v306/boetius26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#boetius26a-evaluation) |
 | [STABLEVAL: Disagreement-Aware and Stable Evaluation of AI Systems](https://proceedings.mlr.press/v306/bonagiri26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bonagiri26a-evaluation) |
 | [Conditional Coverage Diagnostics for Conformal Prediction](https://proceedings.mlr.press/v306/braun26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#braun26c-evaluation) |
+| [Leaderboard Incentives: Model Rankings under Strategic Post-Training](https://proceedings.mlr.press/v306/chen26gf.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26gf-evaluation) |
+| [Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization](https://proceedings.mlr.press/v306/cheng26i.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26i-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -269,4 +279,8 @@ The linked short insights are available in Chinese.
 | [A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework](https://proceedings.mlr.press/v306/chen26eh.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26eh-theory-statistics) |
 | [Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise](https://proceedings.mlr.press/v306/chen26ev.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ev-theory-statistics) |
 | [General Quantification of Covariate and Concept Shifts](https://proceedings.mlr.press/v306/chen26fg.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26fg-theory-statistics) |
+| [Nonlinear Covariate Balance in Experimental Design](https://proceedings.mlr.press/v306/chen26gn.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26gn-theory-statistics) |
+| [Towards Optimal Robustness in Learning-Augmented Paging](https://proceedings.mlr.press/v306/chen26gt.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26gt-theory-statistics) |
+| [Theoretical Challenges in Learning for Branch-and-Cut](https://proceedings.mlr.press/v306/cheng26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26a-theory-statistics) |
+| [Domain Adaptation with Adaptive $f$-Divergence: Tighter Variational Representation and Generalization Bounds](https://proceedings.mlr.press/v306/cheng26r.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26r-theory-statistics) |
 <!-- classification:end -->

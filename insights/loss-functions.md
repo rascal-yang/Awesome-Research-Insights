@@ -70,6 +70,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [潜在思维链的重建监督](../papers/llm.md#chen26bi-loss-functions) · What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis
 - [MoE 软路由负载均衡](../papers/llm.md#chen26br-loss-functions) · $φ$-Balancing for Mixture-of-Experts Training
 - [离散扩散的奖励倾斜匹配](../papers/llm.md#chen26el-loss-functions) · Discrete Tilt Matching
+- [自博弈偏好语义校准](../papers/llm.md#chen26hc-loss-functions) · $\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization
 
 ### 计算机视觉
 
@@ -96,6 +97,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [多模态提示泛化](../papers/multimodal.md#chen26au-loss-functions) · Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks
 - [视觉指令微调的语言偏差正则](../papers/multimodal.md#chen26bn-loss-functions) · Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation
 - [多轮音频编辑的独立加噪](../papers/multimodal.md#chen26dq-loss-functions) · AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing
+- [可变长多模态样本的公平自监督](../papers/multimodal.md#cheong26a-loss-functions) · FairSSL: Fair Multimodal Self-Supervised Learning
 
 ### 机器学习基础与统计
 
@@ -109,6 +111,8 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 ### 图学习与推荐
 
 - [推荐排序的伪负例偏好优化](../papers/graph-and-recommendation.md#chen26ez-loss-functions) · Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach
+- [联邦图学习的 Fisher 参数对齐](../papers/graph-and-recommendation.md#chen26gu-loss-functions) · GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment
+- [时序图解释的稳定与转变证据](../papers/graph-and-recommendation.md#chen26gx-loss-functions) · ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability
 
 ### 科学机器学习
 

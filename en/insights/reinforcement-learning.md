@@ -56,6 +56,9 @@ Aggregating rewards before group normalization can map different combinations to
 - [Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning](../../papers/llm.md#chen26ec-reinforcement-learning) · 中文
 - [Learning to Self-Verify Makes Language Models Better Reasoners](../../papers/llm.md#chen26es-reinforcement-learning) · 中文
 - [OnePO: Direct One-stage Policy Optimization for SFT-free Domain Adaptation](../../papers/llm.md#chen26fi-reinforcement-learning) · 中文
+- [JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG](../../papers/llm.md#chen26gh-reinforcement-learning) · 中文
+- [DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning](../../papers/llm.md#chen26gp-reinforcement-learning) · 中文
+- [Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](../../papers/llm.md#cheng26e-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -89,6 +92,8 @@ Aggregating rewards before group normalization can map different combinations to
 - [Multi-Agent Reinforcement Learning with Submodular Reward](../../papers/reinforcement-learning.md#chen26dk-reinforcement-learning) · 中文
 - [Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning](../../papers/reinforcement-learning.md#chen26fl-reinforcement-learning) · 中文
 - [VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning](../../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) · 中文
+- [How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](../../papers/reinforcement-learning.md#cheng26q-reinforcement-learning) · 中文
+- [Hybrid Reinforcement Learning in Adversarial Markov Decision Processes](../../papers/reinforcement-learning.md#cheng26s-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -111,4 +116,5 @@ Aggregating rewards before group normalization can map different combinations to
 - [DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](../../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) · 中文
 - [Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](../../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · 中文
 - [RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](../../papers/scientific-ml.md#chang26g-reinforcement-learning) · 中文
+- [Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](../../papers/scientific-ml.md#chen26gv-reinforcement-learning) · 中文
 <!-- classification:end -->

@@ -68,6 +68,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis](../../papers/llm.md#chen26bi-loss-functions) · 中文
 - [$φ$-Balancing for Mixture-of-Experts Training](../../papers/llm.md#chen26br-loss-functions) · 中文
 - [Discrete Tilt Matching](../../papers/llm.md#chen26el-loss-functions) · 中文
+- [$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](../../papers/llm.md#chen26hc-loss-functions) · 中文
 
 ### Computer Vision
 
@@ -94,6 +95,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks](../../papers/multimodal.md#chen26au-loss-functions) · 中文
 - [Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation](../../papers/multimodal.md#chen26bn-loss-functions) · 中文
 - [AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing](../../papers/multimodal.md#chen26dq-loss-functions) · 中文
+- [FairSSL: Fair Multimodal Self-Supervised Learning](../../papers/multimodal.md#cheong26a-loss-functions) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -107,6 +109,8 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 ### Graph Learning and Recommendation
 
 - [Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](../../papers/graph-and-recommendation.md#chen26ez-loss-functions) · 中文
+- [GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment](../../papers/graph-and-recommendation.md#chen26gu-loss-functions) · 中文
+- [ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](../../papers/graph-and-recommendation.md#chen26gx-loss-functions) · 中文
 
 ### Scientific Machine Learning
 
