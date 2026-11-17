@@ -39,6 +39,8 @@ Training schedules, curricula, and task or stage composition.
 - [Training LLM Agents to Empower Humans](../../papers/llm.md#ellis26a-training-strategies) · 中文
 - [Rank-Aware Spectral Bounds on Attention Logits for Stable Low-Precision Training](../../papers/llm.md#emadi26a-training-strategies) · 中文
 - [Uncovering the Gradient Geometry of Long CoT: A Spectral-guided Approach to Reasoning Distillation](../../papers/llm.md#fan26e-training-strategies) · 中文
+- [Federated Sketching LoRA: A Flexible Framework for Heterogeneous Collaborative Fine-Tuning of LLMs](../../papers/llm.md#fang26e-training-strategies) · 中文
+- [Leveraging Machine Unlearning for Cost-Efficient Preference Alignment](../../papers/llm.md#feng26f-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -62,6 +64,7 @@ Training schedules, curricula, and task or stage composition.
 
 - [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](../../papers/robotics.md#chen26d-training-strategies) · 中文
 - [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](../../papers/robotics.md#chen26fw-training-strategies) · 中文
+- [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](../../papers/robotics.md#feng26n-training-strategies) · 中文
 
 ### Multimodal Learning
 
@@ -73,6 +76,7 @@ Training schedules, curricula, and task or stage composition.
 - [HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning](../../papers/multimodal.md#cheng26p-training-strategies) · 中文
 - [Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](../../papers/multimodal.md#du26t-training-strategies) · 中文
 - [MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](../../papers/multimodal.md#dufour26a-training-strategies) · 中文
+- [Multimodal Nested Learning for Decoupled and Coordinated Optimization](../../papers/multimodal.md#feng26m-training-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -101,6 +105,8 @@ Training schedules, curricula, and task or stage composition.
 - [LAVA: A Unified Framework for Finetuning Language and Vision Models](../../papers/ml-foundations.md#ding26o-training-strategies) · 中文
 - [From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection](../../papers/ml-foundations.md#ding26s-training-strategies) · 中文
 - [Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models](../../papers/ml-foundations.md#dodson26a-training-strategies) · 中文
+- [Decoupled Low-Rank Adaptation for Robust Federated Fine-Tuning](../../papers/ml-foundations.md#fang26v-training-strategies) · 中文
+- [Dropout Universality: Scaling Laws and Optimal Scheduling at the Edge-of-Chaos](../../papers/ml-foundations.md#fernandez-sarmiento26a-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 

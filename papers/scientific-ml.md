@@ -35,6 +35,9 @@
 | <a id="dai26a-architecture"></a>[TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](https://proceedings.mlr.press/v306/dai26a.html) | 时间驱动空间网络参数 | 用小网络给空间网络各层的权重组和偏置组分别生成时间坐标，同组参数共享该坐标但各有仿射系数。由此可随时间改变整个空间映射，又省去大超网络逐项生成全部参数的成本。 |
 | <a id="deng26c-architecture"></a>[Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems](https://proceedings.mlr.press/v306/deng26c.html) | 工况条件下的分层图流匹配 | 将流体网格及其物理工况作为条件，用多层图上的消息传递预测流匹配向量场。构建粗图时兼顾邻接关系与局部点密度，使模型能在不规则网格上同时处理局部梯度和远距离作用。 |
 | <a id="elsborg26a-architecture"></a>[Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink](https://proceedings.mlr.press/v306/elsborg26a.html) | 周期晶体电荷密度的傅里叶重建 | 在实空间拟合局部各向异性高斯，从闭式傅里叶变换直接得到倒空间平面波系数，再以一次逆 FFT 重建整胞周期电荷密度，省去逐点累加周期镜像。 |
+| <a id="fang26u-architecture"></a>[BIOARC: Discovering Optimal Neural Architectures for Biological Foundation Models](https://proceedings.mlr.press/v306/fang26u.html) | 生物序列模型的异构架构搜索 | 将卷积、循环、注意力和状态空间等块放入可共享权重的超网，每条候选路径独立选择深度、块类型和隐藏宽度。由数据筛选混合架构，以匹配基因组、蛋白等不同序列的归纳偏置。 |
+| <a id="feng26b-architecture"></a>[LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](https://proceedings.mlr.press/v306/feng26b.html) | 脑电潜事件的电生理先验 | 将各脑电通道的潜事件时间建模为更新过程，用可微泄漏积分发放模型导出随时间变化的瞬时发放率作为先验。模型用该先验从未标注脑电推断事件与跨通道关系，并汇总组别的事件速率和时序差异。 |
+| <a id="friedl26a-architecture"></a>[Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](https://proceedings.mlr.press/v306/friedl26a.html) | 辛降维的 Hamilton 动力学 | 用受几何约束的辛自编码器把高维状态压到低维结构保持子流形，在该空间内学习 Hamilton 动力学。通过保持潜空间的辛结构，降维后的模型仍可进行物理一致的长时预测。 |
 
 <a id="by-modules"></a>
 
@@ -76,6 +79,7 @@
 | <a id="chen26fx-optimization"></a>[LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](https://proceedings.mlr.press/v306/chen26fx.html) | 语言模型预测与真实实验的门控 | 用高斯过程分别建模语言模型的低成本预测以及它与真实实验的偏差。贝叶斯优化选点后，只有偏差项占预测方差的比例超过阈值才调用昂贵实验，其余位置用低成本预测更新代理。 |
 | <a id="du26n-optimization"></a>[Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](https://proceedings.mlr.press/v306/du26n.html) | 扩散重建的对偶反馈与频谱均衡 | 用 ADMM 的对偶变量累积测量一致性与去噪先验的失配。送入预训练去噪器前，估计残差功率谱并在能量不足的频段补噪，使输入残差更接近去噪器预期的白噪声。 |
 | <a id="estevez26a-optimization"></a>[Automatic Construction of Clinical Scoring Systems with LLM Agents](https://proceedings.mlr.press/v306/estevez26a.html) | 临床二元规则的等权清单搜索 | 用语言模型按预定义语法提议可执行的二元规则，再用数据检验区分度和规则冗余并筛成有长度上限的等权清单，最后选择总分阈值。 |
+| <a id="fink26a-optimization"></a>[RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](https://proceedings.mlr.press/v306/fink26a.html) | 代数多重网格的稀疏粗层修正 | 用若干标准多重网格循环生成高频成分已衰减的残差，以此学习稀疏粗层算子修正。神经网络只在求解器初始化时运行，迭代阶段仍用稀疏算子计算。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -88,6 +92,7 @@
 | <a id="chang26g-reinforcement-learning"></a>[RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](https://proceedings.mlr.press/v306/chang26g.html) | 逆合成搜索工具选择 | 搜索时同时决定展开哪个分子、调用哪个单步逆合成模型。用基于分子骨架的强化学习按局面路由，可利用各模型的互补能力。 |
 | <a id="chen26gv-reinforcement-learning"></a>[Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gv.html) | 医学视觉定位与稀疏推理 | 让同一策略先在医学图像上定位相关区域，再用裁剪后的视觉词元回答问题。顺序优化两分支并互用答题正确性奖励，使定位步骤得到所保留证据能否支撑答案的反馈。 |
 | <a id="deng26y-reinforcement-learning"></a>[LASER: Learning Active Sensing for Continuum Field Reconstruction](https://proceedings.mlr.press/v306/deng26y.html) | 连续物理场重建的主动传感 | 从稀疏在线观测编码场的潜状态，再用扩散动力学预测未来场状态。策略基于潜空间前瞻估计候选传感器位置对重建精度的影响，学习把传感器移向当前尚未充分观测的区域。 |
+| <a id="flynn26a-reinforcement-learning"></a>[GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](https://proceedings.mlr.press/v306/flynn26a.html) | 遗传电路代码的分层验证奖励 | 把代码执行、结构约束和功能表现拆成分层评分，高层奖励受低层检查结果门控。训练课程逐阶段从基础格式移到功能正确性，以缓解一次性成败反馈稀疏的问题。 |
 
 <a id="by-training-strategies"></a>
 

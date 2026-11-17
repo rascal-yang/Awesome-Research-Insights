@@ -31,6 +31,14 @@
 | :--- | :--- | :--- |
 | <a id="cai26d-loss-functions"></a>[ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](https://proceedings.mlr.press/v306/cai26d.html) | 检索器生成正则 | 用检索器的相似度加权其他文本对下 token 预测的条件贡献，与对比目标一起训练，让检索器区分二分类相关性之外的证据联系。 |
 
+<a id="by-optimization"></a>
+
+### 优化
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="feng26p-optimization"></a>[Convex Low-resource Accent-Robust Language Detection in Speech Recognition](https://proceedings.mlr.press/v306/feng26p.html) | 低资源语音语言识别的凸检测头 | 从冻结的语音编码器提取特征并做带掩码的均值池化，用批量 ADMM 在凸重参数化下训练语言识别头。将它预测的语言 token 传给转录解码器，减少口音造成的语言误判向转录阶段传播。 |
+
 <a id="by-reinforcement-learning"></a>
 
 ### 强化学习方法
@@ -81,6 +89,7 @@
 | <a id="chen26bf-evaluation"></a>[Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | 生成文本的惊异度转移检测 | 用代理语言模型单次前向计算词元的负对数条件概率，将其离散为状态，再统计相邻状态的转移。用广义 Jensen–Shannon 散度比较测试文本与预先建立的人类和机器文本转移矩阵。 |
 | <a id="dehdashtian26a-evaluation"></a>[FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | 音频深伪检测的多样性压力测试 | 在黑盒红队评测中同时把检测器反馈和候选音频间的多样性反馈放进上下文，令测试覆盖更多错误模式。论文在所测检测器上确认了部分失效跨模型迁移，且回收测试样本做微调能提高检测稳健性。 |
 | <a id="duarte26a-evaluation"></a>[Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | 同行评审来源的声明级检测 | 为目标评审配对同一论文、总体评分相同的多份 AI 参考评审，比较评价意见、建设建议等声明的最佳语义匹配，再加文本特征训练三分类器。在论文数据中，经 AI 润色的人类评审仍常保留有辨识度的判断内容。 |
+| <a id="fernandez26b-evaluation"></a>[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | 重写式事后文本水印评测 | 用带水印的解码器改写已有文本，联合测量水印可检测性和语义保真。论文比较显示，开放文本可通过束搜索改善折中，但代码的强水印往往伴随功能正确率下降。 |
 
 <a id="by-theory-statistics"></a>
 

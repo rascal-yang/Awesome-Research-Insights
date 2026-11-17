@@ -115,6 +115,7 @@
 | <a id="chen26s-data-strategies"></a>[When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](https://proceedings.mlr.press/v306/chen26s.html) | 生成偏好数据 | 以真实图像作偏好基准，将模型生成结果或扰动样本作为对照，可以在缺少人工偏好对时构造图像对齐监督。 |
 | <a id="chen26bj-data-strategies"></a>[Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](https://proceedings.mlr.press/v306/chen26bj.html) | 跨域遮挡分割数据 | 对物理仿真中摆放的三维商品场景做多视角渲染，自动生成可见与完整实例掩码。让合成集和人工标注的真实集共享标签定义与评测协议，可直接测量遮挡分割的跨域表现。 |
 | <a id="cui26f-data-strategies"></a>[Geometry-Aware Dataset Condensation for Diffusion Model Training](https://proceedings.mlr.press/v306/cui26f.html) | 扩散训练子集的单边部分传输 | 按类用嵌入距离匹配训练子集与全量数据，要求子集的概率质量全部运输，同时只限制全量侧的到达容量。允许全量数据的部分质量不匹配，避免少量样本被迫同时代表核心分布和稀疏区域。 |
+| <a id="fang26s-data-strategies"></a>[Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](https://proceedings.mlr.press/v306/fang26s.html) | 生成视频检测的质量分布配对 | 按质量分布匹配真实与生成视频，再成对补充低质量和超高质量数据源。让两类覆盖相近的质量范围，可抑制检测器把画质当真伪标签的捷径，提升对不同质量真实视频的泛化。 |
 
 <a id="by-inference"></a>
 
@@ -147,6 +148,14 @@
 | <a id="deng26i-inference"></a>[Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking](https://proceedings.mlr.press/v306/deng26i.html) | 多概念遗忘的掩码合并 | 分别找出对各目标概念敏感的连接，再统计每条连接被多少个概念选中。合并掩码时保留跨许多概念重复出现的连接，只剪除对少数目标敏感的部分，以减轻多概念移除造成的生成退化。 |
 | <a id="duan26d-inference"></a>[SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion](https://proceedings.mlr.press/v306/duan26d.html) | 整流流反演的球面校正 | 将潜状态拆成模长与单位方向，沿径向速度更新模长，并在当前与预测方向间做球面线性插值。再用校正目标与当前状态的差合成步进速度，缓存后供后续步使用，以少量额外计算修正反演轨迹。 |
 | <a id="elbrachter26a-inference"></a>[MAD: Manifold Attracted Diffusion](https://proceedings.mlr.press/v306/elbrachter26a.html) | 带噪训练数据的扩散采样修正 | 在同一采样点用相邻噪声尺度的分数差分估计分数对尺度的导数，再将其与原分数结合更新样本，以压低带噪训练数据中偏离数据流形的小幅扰动。 |
+| <a id="fang26n-inference"></a>[Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback](https://proceedings.mlr.press/v306/fang26n.html) | 脉冲扩散的膜电位误差反馈 | 把当前去噪步结束时的残余膜电位用作下一步脉冲神经元的初值。利用相邻去噪步的激活相似性，将尚未触发脉冲的残差传到后续步骤，减少转换误差的累积。 |
+| <a id="fang26z-inference"></a>[StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation](https://proceedings.mlr.press/v306/fang26z.html) | 异构时间步的整流流批处理 | 将批内不同时间步到速度场时间窗的查找写成掩码运算，并并行计算各样本的窗边界和系数，使不同去噪进度的请求能共享批执行，减少逐样本调度。 |
+| <a id="feng26g-inference"></a>[Explainable Forensics of Manipulated Segments in Untrimmed Long Videos](https://proceedings.mlr.press/v306/feng26g.html) | 长视频篡改的边界感知定位 | 用滑动窗口把真实、合成、真到假及假到真的过渡分成四类，以过渡信号提出可疑片段，再用多模态模型精修起止时间并解释视觉线索。 |
+| <a id="feng26r-inference"></a>[HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning](https://proceedings.mlr.press/v306/feng26r.html) | 增量域预测的能量距离加权 | 对测试图像并行计算到各域 CLIP 特征中心的距离和使用各域提示时的预测能量，再把两类分数融合为预测权重，使未知域的输入也可借用已学域的提示。 |
+| <a id="feng26t-inference"></a>[Fast-SAM3D: 3Dfy Anything in Images but Faster](https://proceedings.mlr.press/v306/feng26t.html) | 单图三维生成的分量差异缓存 | 稀疏结构去噪中，形状词元的变化较平滑，可从两次实际网络计算的差分外推被跳过的步骤。单独处理波动更大的位姿和尺度词元，可避免相同外推规则引起布局漂移。 |
+| <a id="feng26w-inference"></a>[Bridging RGB and RAW: Single-step Deterministic Flow with Homogeneous Representation Alignment](https://proceedings.mlr.press/v306/feng26w.html) | RGB 到 RAW 的一步潜空间传输 | 让同一编码器处理对齐后的 RGB 和 RAW，在其潜变量线性插值路径上学习速度场。推理时从输入 RGB 潜变量执行一步确定性传输，再解码为 RAW。 |
+| <a id="feng26ac-inference"></a>[Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](https://proceedings.mlr.press/v306/feng26ac.html) | 长视频队列的双向一致性引导 | 在自回归去噪队列尾部评估并修正新加入的高噪潜帧，同时用队列头部的低噪潜帧指导局部去噪，分别约束新帧质量和较远帧之间的连续性。 |
+| <a id="frumkin26a-inference"></a>[Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling](https://proceedings.mlr.press/v306/frumkin26a.html) | 低比特少步扩散的调度校准 | 冻结量化去噪器，只拟合修正少步轨迹的预条件系数。用少量文本提示优化图文对齐与图像质量的联合指标，可在校准时省去全精度教师前向。 |
 
 <a id="by-representation-learning"></a>
 
@@ -168,6 +177,7 @@
 | <a id="ding26f-representation-learning"></a>[DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization](https://proceedings.mlr.press/v306/ding26f.html) | 用 SVM 边界精炼视觉表征 | 用归一化特征拟合线性 SVM，按类别内到分隔超平面的距离生成目标特征，让靠近边界的样本接受较强的间隔扩张监督。更新骨干时把目标视为常量，球面归一化使梯度沿切空间改变特征方向。 |
 | <a id="ding26n-representation-learning"></a>[Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences](https://proceedings.mlr.press/v306/ding26n.html) | 三维场景图的混合分布原型 | 为对象与关系各类别学习多个高斯分量，表达类别内的多种特征模式。再对共现的节点与边原型做双向注意力，用得到的偏移校正原型均值，约束对象与关系的匹配。 |
 | <a id="dou26b-representation-learning"></a>[DNA: Uncovering Universal Latent Forgery Knowledge](https://proceedings.mlr.press/v306/dou26b.html) | 冻结视觉模型中的伪造敏感单元 | 先用特征与注意力诊断定位从全局语义转向局部异常的中间层，再根据多信号融合分数与曲率拐点筛选伪造敏感单元。仅使用这些单元的特征，在所测少样本和未见生成器上也能检测伪造。 |
+| <a id="fang26o-representation-learning"></a>[Event2Vec: Processing neuromorphic events directly by representations in vector space](https://proceedings.mlr.press/v306/fang26o.html) | 异步事件的逐事件向量化 | 把事件的坐标与极性嵌入和相邻事件的相对时间嵌入相加，对聚合事件再按簇中原始事件数的对数缩放。所得向量序列可直接输入 Transformer，并保留事件间的时间间隔。 |
 
 <a id="by-evaluation"></a>
 
@@ -185,6 +195,7 @@
 | <a id="chung26a-evaluation"></a>[Global Geometry Is Not Enough for Vision Representations](https://proceedings.mlr.press/v306/chung26a.html) | 视觉表征的组合绑定诊断 | 用输入到嵌入的局部雅可比奇异值计算有效秩，衡量模型对多少独立输入方向敏感。在被测视觉编码器上，这一数值与属性绑定表现相关，而全局嵌入几何指标的相关性接近零。 |
 | <a id="ebrahimpour-boroojeny26a-evaluation"></a>[Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](https://proceedings.mlr.press/v306/ebrahimpour-boroojeny26a.html) | 类别遗忘的近邻输出泄漏 | 用模型对近邻保留类别的输出训练判别器，并在完整重训模型上建立参照。遗忘类输入即使不再被判为该类，也可能因其在相似类别上的独特输出而被识别，因而可用此探测残留信息。 |
 | <a id="elisha26a-evaluation"></a>[ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](https://proceedings.mlr.press/v306/elisha26a.html) | 概念感知的显著性图 | 将类内发现的概念激活向量在空间维度做池化，用所得通道权重混合待解释图像的特征图，得到概念出现位置，再结合该概念对分类分数的贡献生成解释。 |
+| <a id="fang26l-evaluation"></a>[iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](https://proceedings.mlr.press/v306/fang26l.html) | 交互世界模型的统一动作编码 | 将第一人称平移与转动组合编码，再把同一动作映射为相机参数、独热向量或文字指令。用同一组动作任务分别测量不同接口的世界模型在轨迹跟随、视觉生成及场景记忆上的表现。 |
 
 <a id="by-theory-statistics"></a>
 

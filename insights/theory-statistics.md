@@ -21,6 +21,8 @@
 - [多智能体竞争下的凸包对齐条件](../papers/llm.md#collina26a-theory-statistics) · Emergent Alignment via Competition
 - [未见输出概率与幻觉下界](../papers/llm.md#das26c-theory-statistics) · Innovation: An Almost Characterization of Hallucination
 - [贝叶斯模型估计评委家族偏差](../papers/llm.md#dubois26a-theory-statistics) · Quantifying Biases in LLM-as-a-Judge Evaluations
+- [闭环控制的共形反事实生成](../papers/llm.md#farzaneh26a-theory-statistics) · Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control
+- [偏好排行榜的去偏估计](../papers/llm.md#frauen26a-theory-statistics) · Nonparametric LLM Evaluation from Preference Data
 
 ### 计算机视觉
 
@@ -57,6 +59,11 @@
 - [部分可观测强化学习的特权评论家](../papers/reinforcement-learning.md#ebi26a-theory-statistics) · Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access
 - [线性 MDP 的奖励投毒可行性](../papers/reinforcement-learning.md#escamilla26a-theory-statistics) · When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs
 - [图结构 MDP 的局部策略近似](../papers/reinforcement-learning.md#faizal26a-theory-statistics) · Local Policies for Graph-Structured Markov Decision Processes
+- [无界状态空间的高斯过程后验采样](../papers/reinforcement-learning.md#flynn26b-theory-statistics) · Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces
+
+### 机器人学
+
+- [用时序差分校准机器人任务成功率](../papers/robotics.md#francis-meretzki26a-theory-statistics) · Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models
 
 ### 多模态学习
 
@@ -189,6 +196,15 @@
 - [用户级私有流式计数的空间下界](../papers/ml-foundations.md#epasto26a-theory-statistics) · Keeping a Secret Requires a Good Memory: Unconditional Streaming Lower-Bounds for Differentially Private Algorithms
 - [懒训练的宽度无关局部 Lipschitz 界](../papers/ml-foundations.md#evangelidis26a-theory-statistics) · Width Independent Bounds for the Local Lipschitz Constant of Deep Neural Networks at Random Initialization and after Lazy Training
 - [单层最小权重扰动与压缩诊断](../papers/ml-foundations.md#evans26b-theory-statistics) · Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks
+- [类别相似度修正共形预测集](../papers/ml-foundations.md#fargion26a-theory-statistics) · Enhancing Conformal Prediction via Class Similarity
+- [随机初始化下的深层注意力聚簇](../papers/ml-foundations.md#fedorov26a-theory-statistics) · Clustering in Deep Stochastic Transformers
+- [随机分配的隐私损失卷积](../papers/ml-foundations.md#feldman26a-theory-statistics) · Efficient privacy loss accounting for subsampling and random allocation
+- [环境偏移下的鲁棒因果抽象](../papers/ml-foundations.md#felekis26a-theory-statistics) · Distributionally Robust Causal Abstractions
+- [零和博弈中 Adam 一阶动量的稳定区间](../papers/ml-foundations.md#feng26k-theory-statistics) · Understanding Dynamics of Adam in Zero-Sum Games: An ODE Approach
+- [核均值驱动的个性化联邦聚合](../papers/ml-foundations.md#fermanian26a-theory-statistics) · Adaptive Personalized Federated Learning via Multi-task Averaging of Kernel Mean Embeddings
+- [相关类别变量的函数 ANOVA](../papers/ml-foundations.md#ferrere26a-theory-statistics) · Exact Functional ANOVA Decomposition for Categorical Inputs Models
+- [Dirichlet 过程切片采样的簇数开销](../papers/ml-foundations.md#franzolini26a-theory-statistics) · Complexity Bounds for Dirichlet Process Slice Samplers
+- [条件独立检验的谱表示](../papers/ml-foundations.md#frohlich26a-theory-statistics) · Toward Scalable and Valid Conditional Independence Testing with Spectral Representations
 
 ### 图学习与推荐
 
@@ -199,6 +215,8 @@
 - [关系嵌入表达力](../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) · Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models
 - [用匹配决策约束边权多重校准](../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) · Multicalibration Yields Better Matchings
 - [网络抽样偏好的福利校正](../papers/graph-and-recommendation.md#fan26c-theory-statistics) · Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation
+- [图算法的局部指令精确执行](../papers/graph-and-recommendation.md#fetrat-qharabagh26a-theory-statistics) · Learning to Execute Graph Algorithms Exactly with Graph Neural Networks
+- [截断图位置编码的表达能力](../papers/graph-and-recommendation.md#flora26a-theory-statistics) · Understanding Truncated Positional Encodings for Graph Neural Networks
 
 ### 科学机器学习
 

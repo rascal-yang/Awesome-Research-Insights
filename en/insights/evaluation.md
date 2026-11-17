@@ -95,6 +95,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ProtocolBench: Which LLM MultiAgent Protocol to Choose?](../../papers/llm.md#du26l-evaluation) · 中文
 - ["very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](../../papers/llm.md#duan26b-evaluation) · 中文
 - [Evaluating Robustness of Reasoning Models on Parameterized Logical Problems](../../papers/llm.md#es-sebbani26a-evaluation) · 中文
+- [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../../papers/llm.md#fang26y-evaluation) · 中文
+- [One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models](../../papers/llm.md#fein26a-evaluation) · 中文
+- [SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems](../../papers/llm.md#feng26c-evaluation) · 中文
+- [What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT](../../papers/llm.md#feng26e-evaluation) · 中文
+- [Evaluating Relational Reasoning in LLMs with REL](../../papers/llm.md#fesser26a-evaluation) · 中文
+- [Singular Vectors of Attention Heads Align with Features](../../papers/llm.md#franco26a-evaluation) · 中文
+- [CATArena: Evaluating Evolutionary Capabilities of Code Agents via Iterative Tournaments](../../papers/llm.md#fu26a-evaluation) · 中文
 
 ### Computer Vision
 
@@ -108,6 +115,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Global Geometry Is Not Enough for Vision Representations](../../papers/computer-vision.md#chung26a-evaluation) · 中文
 - [Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](../../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) · 中文
 - [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](../../papers/computer-vision.md#elisha26a-evaluation) · 中文
+- [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](../../papers/computer-vision.md#fang26l-evaluation) · 中文
 
 ### Natural Language Processing
 
@@ -117,6 +125,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](../../papers/nlp.md#chen26bf-evaluation) · 中文
 - [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](../../papers/nlp.md#dehdashtian26a-evaluation) · 中文
 - [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](../../papers/nlp.md#duarte26a-evaluation) · 中文
+- [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](../../papers/nlp.md#fernandez26b-evaluation) · 中文
 
 ### Reinforcement Learning
 
@@ -129,6 +138,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](../../papers/robotics.md#cao26w-evaluation) · 中文
 - [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](../../papers/robotics.md#dai26c-evaluation) · 中文
 - [Rethinking Video Generation Model for the Embodied World](../../papers/robotics.md#deng26r-evaluation) · 中文
+- [Demystifying Action Space Design for Robotic Manipulation Policies](../../papers/robotics.md#feng26ab-evaluation) · 中文
 
 ### Multimodal Learning
 
@@ -150,6 +160,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](../../papers/multimodal.md#deng26w-evaluation) · 中文
 - [Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help](../../papers/multimodal.md#di26b-evaluation) · 中文
 - [NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web](../../papers/multimodal.md#fan26a-evaluation) · 中文
+- [Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models](../../papers/multimodal.md#fang26f-evaluation) · 中文
+- [Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](../../papers/multimodal.md#fang26r-evaluation) · 中文
+- [Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition](../../papers/multimodal.md#fang26x-evaluation) · 中文
+- [MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge](../../papers/multimodal.md#fu26c-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -170,11 +184,15 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CHB: A Diagnostic Toolkit for Hardness-Aware Clustering Evaluation](../../papers/ml-foundations.md#durani26a-evaluation) · 中文
 - [On the "Induction Bias" in Sequence Models](../../papers/ml-foundations.md#ebrahimi26a-evaluation) · 中文
 - [ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior](../../papers/ml-foundations.md#eichin26a-evaluation) · 中文
+- [Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](../../papers/ml-foundations.md#feng26u-evaluation) · 中文
+- [On the Anisotropy of Score-Based Generative Models](../../papers/ml-foundations.md#floros26a-evaluation) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](../../papers/graph-and-recommendation.md#agbaje26a-evaluation) · 中文
 - [Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](../../papers/graph-and-recommendation.md#akula26a-evaluation) · 中文
+- [Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](../../papers/graph-and-recommendation.md#ferrini26a-evaluation) · 中文
+- [Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](../../papers/graph-and-recommendation.md#forbat26a-evaluation) · 中文
 
 ### Scientific Machine Learning
 

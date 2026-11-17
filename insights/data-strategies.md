@@ -33,6 +33,7 @@
 - [生成偏好数据](../papers/computer-vision.md#chen26s-data-strategies) · When Preference Labels Fall Short: Aligning Diffusion Models from Real Data
 - [跨域遮挡分割数据](../papers/computer-vision.md#chen26bj-data-strategies) · Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer
 - [扩散训练子集的单边部分传输](../papers/computer-vision.md#cui26f-data-strategies) · Geometry-Aware Dataset Condensation for Diffusion Model Training
+- [生成视频检测的质量分布配对](../papers/computer-vision.md#fang26s-data-strategies) · Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection
 
 ### 自然语言处理
 
@@ -45,6 +46,7 @@
 - [零样本离线强化学习](../papers/reinforcement-learning.md#bendib26a-data-strategies) · Improving Zero-Shot Offline RL via Behavioral Task Sampling
 - [跨域离线强化学习的软筛选](../papers/reinforcement-learning.md#chen26gd-data-strategies) · Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation
 - [数学搜索课程的中间难度实例](../papers/reinforcement-learning.md#fagan26a-data-strategies) · The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning
+- [世界模型的主动探测数据](../papers/reinforcement-learning.md#feng26aa-data-strategies) · Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling
 
 ### 机器人学
 
@@ -64,6 +66,7 @@
 - [多模态图像编辑数据](../papers/multimodal.md#chen26c-data-strategies) · OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing
 - [GUI 智能体的失败轨迹纠错数据](../papers/multimodal.md#chen26gb-data-strategies) · CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training
 - [用近域异常文本约束开放集识别](../papers/multimodal.md#fang26b-data-strategies) · Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness
+- [电信观测序列保留绝对量纲](../papers/multimodal.md#feng26s-data-strategies) · TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis
 
 ### 机器学习基础与统计
 

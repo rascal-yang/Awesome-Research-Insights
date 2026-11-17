@@ -76,6 +76,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [连分式因果 token 混合](../papers/llm.md#dhurandhar26a-modules) · CoFrGeNet: Continued Fraction Architectures for Language Generation
 - [基于专家权重谱的免训练路由](../papers/llm.md#do26a-modules) · Eigenvectors of Experts are Training-free Non-collapsing Routers
 - [键相似度预调节注意力](../papers/llm.md#duvvuri26a-modules) · LUCID: Attention with Preconditioned Representations
+- [逐解码步的潜空间经验检索](../papers/llm.md#feng26i-modules) · ExpWeaver: LLM Agents Learn from Experience via Latent RAG
+- [MoE 专家输出的有向图聚合](../papers/llm.md#feng26v-modules) · DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts
 
 ### 计算机视觉
 
@@ -98,6 +100,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 
 ### 机器人学
 
+- [视觉动作策略的连续网格采样](../papers/robotics.md#feng26x-modules) · See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model
 - [指令前缀](../papers/robotics.md#reconvla-modules) · ReconVLA
 
 ### 多模态学习
@@ -125,6 +128,9 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [词元与专家的联合稀疏路由](../papers/ml-foundations.md#do26b-modules) · Rethinking Sparse Mixture of Experts from a Unified Perspective
 - [GPU 友好的块置换随机投影](../papers/ml-foundations.md#dwaraknath26a-modules) · FlashSketch: Sketch-Kernel Co-Design for Fast Sparse Sketching on GPUs
 - [可微的逐样本特征选择](../papers/ml-foundations.md#ellinson26a-modules) · Hide&Seek: Learning to Explain in an End-to-End Differentiable Network
+- [局部坐标对齐的向量丛注意力](../papers/ml-foundations.md#fang26q-modules) · VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning
+- [跨数据集时序谱结构对齐](../papers/ml-foundations.md#fei26b-modules) · Olivia: Harmonizing Time Series Foundation Models with Power Spectral Density
+- [时序分类的定长词元生成](../papers/ml-foundations.md#feofanov26a-modules) · Mantis: Lightweight Foundation Model for Time Series Classification
 
 ### 图学习与推荐
 
@@ -132,6 +138,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [图神经网络表达力](../papers/graph-and-recommendation.md#barcelo26a-modules) · Message Passing on the Edge: Towards Scalable and Expressive GNNs
 - [兼顾图拓扑与因果顺序的注意力](../papers/graph-and-recommendation.md#chen26gm-modules) · Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs
 - [异配图消息的自成分消除](../papers/graph-and-recommendation.md#choi26d-modules) · Gauge-Equivariant Graph Networks via Self-Interference Cancellation
+- [有向带属性图的酉卷积](../papers/graph-and-recommendation.md#fesser26b-modules) · Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs
 
 ### 科学机器学习
 

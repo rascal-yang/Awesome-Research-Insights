@@ -18,6 +18,7 @@
 - [长上下文的块级混合注意力](../papers/llm.md#deng26v-architecture) · Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models
 - [低维潜空间专家计算](../papers/llm.md#elango26a-architecture) · Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures
 - [可结构化高阶递推的词元混合](../papers/llm.md#fagnou26a-architecture) · Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing
+- [窗口注意力与递归长时记忆](../papers/llm.md#fang26w-architecture) · Artificial Hippocampus Networks for Efficient Long-Context Modeling
 
 ### 计算机视觉
 
@@ -51,6 +52,7 @@
 - [交互式人物检索](../papers/multimodal.md#bai26j-architecture) · Interactive Person Retrieval via Multi-Turn Multimodal Conversation
 - [遥感跨模态的共享潜空间扩散](../papers/multimodal.md#chen26go-architecture) · Any2Any: Unified Arbitrary Modality Translation for Remote Sensing
 - [阵列几何条件化的空间音频词元](../papers/multimodal.md#dementyev26a-architecture) · PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs
+- [持续学习专家的置信加权协作](../papers/multimodal.md#forhad26a-architecture) · Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning
 
 ### 机器学习基础与统计
 
@@ -68,6 +70,8 @@
 - [混合专家式概念瓶颈](../papers/ml-foundations.md#de-santis26a-architecture) · Mixture of Concept Bottleneck Experts
 - [联邦学习的弹性共享专家](../papers/ml-foundations.md#du26d-architecture) · FedEMoE: Improving Personalization on Heterogeneous Federated Learning via Elastic Mixture of Experts Architecture
 - [带长历史压缩的时序插补](../papers/ml-foundations.md#fan26h-architecture) · Rethinking Time-Series Imputation as Conditional Inference along Temporal Evolution
+- [跨尺度共享的递归状态空间模型](../papers/ml-foundations.md#fang26p-architecture) · Dynamic Fractal Mamba: A Neural Renormalization Group Flow for Scale-Invariant Sequence Modeling
+- [符号置换等变的循环推理](../papers/ml-foundations.md#freinschlag26a-architecture) · Symbol-Equivariant Recurrent Reasoning Models
 
 ### 图学习与推荐
 
@@ -75,6 +79,8 @@
 - [生成式电商检索](../papers/graph-and-recommendation.md#chen26al-architecture) · OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search
 - [动态图的可学习信息耗散](../papers/graph-and-recommendation.md#de-castelli26a-architecture) · Adaptive Memory Retention in Dynamic Graphs
 - [图动力学的能量与切向流](../papers/graph-and-recommendation.md#eliasof26a-architecture) · Graph Neural Dynamics via Learned Energy and Tangential Flows
+- [超边潜类型与多通道传播](../papers/graph-and-recommendation.md#fang26g-architecture) · MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks
+- [图傅里叶变换的柯西分解](../papers/graph-and-recommendation.md#fernandez26a-architecture) · L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations
 
 ### 科学机器学习
 
@@ -100,4 +106,7 @@
 - [时间驱动空间网络参数](../papers/scientific-ml.md#dai26a-architecture) · TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs
 - [工况条件下的分层图流匹配](../papers/scientific-ml.md#deng26c-architecture) · Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems
 - [周期晶体电荷密度的傅里叶重建](../papers/scientific-ml.md#elsborg26a-architecture) · Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink
+- [生物序列模型的异构架构搜索](../papers/scientific-ml.md#fang26u-architecture) · BIOARC: Discovering Optimal Neural Architectures for Biological Foundation Models
+- [脑电潜事件的电生理先验](../papers/scientific-ml.md#feng26b-architecture) · LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification
+- [辛降维的 Hamilton 动力学](../papers/scientific-ml.md#friedl26a-architecture) · Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach
 <!-- classification:end -->

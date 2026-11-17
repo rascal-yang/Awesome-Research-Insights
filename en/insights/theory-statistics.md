@@ -21,6 +21,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Emergent Alignment via Competition](../../papers/llm.md#collina26a-theory-statistics) · 中文
 - [Innovation: An Almost Characterization of Hallucination](../../papers/llm.md#das26c-theory-statistics) · 中文
 - [Quantifying Biases in LLM-as-a-Judge Evaluations](../../papers/llm.md#dubois26a-theory-statistics) · 中文
+- [Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control](../../papers/llm.md#farzaneh26a-theory-statistics) · 中文
+- [Nonparametric LLM Evaluation from Preference Data](../../papers/llm.md#frauen26a-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -57,6 +59,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access](../../papers/reinforcement-learning.md#ebi26a-theory-statistics) · 中文
 - [When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs](../../papers/reinforcement-learning.md#escamilla26a-theory-statistics) · 中文
 - [Local Policies for Graph-Structured Markov Decision Processes](../../papers/reinforcement-learning.md#faizal26a-theory-statistics) · 中文
+- [Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](../../papers/reinforcement-learning.md#flynn26b-theory-statistics) · 中文
+
+### Robotics
+
+- [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](../../papers/robotics.md#francis-meretzki26a-theory-statistics) · 中文
 
 ### Multimodal Learning
 
@@ -189,6 +196,15 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Keeping a Secret Requires a Good Memory: Unconditional Streaming Lower-Bounds for Differentially Private Algorithms](../../papers/ml-foundations.md#epasto26a-theory-statistics) · 中文
 - [Width Independent Bounds for the Local Lipschitz Constant of Deep Neural Networks at Random Initialization and after Lazy Training](../../papers/ml-foundations.md#evangelidis26a-theory-statistics) · 中文
 - [Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks](../../papers/ml-foundations.md#evans26b-theory-statistics) · 中文
+- [Enhancing Conformal Prediction via Class Similarity](../../papers/ml-foundations.md#fargion26a-theory-statistics) · 中文
+- [Clustering in Deep Stochastic Transformers](../../papers/ml-foundations.md#fedorov26a-theory-statistics) · 中文
+- [Efficient privacy loss accounting for subsampling and random allocation](../../papers/ml-foundations.md#feldman26a-theory-statistics) · 中文
+- [Distributionally Robust Causal Abstractions](../../papers/ml-foundations.md#felekis26a-theory-statistics) · 中文
+- [Understanding Dynamics of Adam in Zero-Sum Games: An ODE Approach](../../papers/ml-foundations.md#feng26k-theory-statistics) · 中文
+- [Adaptive Personalized Federated Learning via Multi-task Averaging of Kernel Mean Embeddings](../../papers/ml-foundations.md#fermanian26a-theory-statistics) · 中文
+- [Exact Functional ANOVA Decomposition for Categorical Inputs Models](../../papers/ml-foundations.md#ferrere26a-theory-statistics) · 中文
+- [Complexity Bounds for Dirichlet Process Slice Samplers](../../papers/ml-foundations.md#franzolini26a-theory-statistics) · 中文
+- [Toward Scalable and Valid Conditional Independence Testing with Spectral Representations](../../papers/ml-foundations.md#frohlich26a-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -199,6 +215,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) · 中文
 - [Multicalibration Yields Better Matchings](../../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) · 中文
 - [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](../../papers/graph-and-recommendation.md#fan26c-theory-statistics) · 中文
+- [Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](../../papers/graph-and-recommendation.md#fetrat-qharabagh26a-theory-statistics) · 中文
+- [Understanding Truncated Positional Encodings for Graph Neural Networks](../../papers/graph-and-recommendation.md#flora26a-theory-statistics) · 中文
 
 ### Scientific Machine Learning
 

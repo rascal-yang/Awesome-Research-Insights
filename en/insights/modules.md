@@ -72,6 +72,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [CoFrGeNet: Continued Fraction Architectures for Language Generation](../../papers/llm.md#dhurandhar26a-modules) · 中文
 - [Eigenvectors of Experts are Training-free Non-collapsing Routers](../../papers/llm.md#do26a-modules) · 中文
 - [LUCID: Attention with Preconditioned Representations](../../papers/llm.md#duvvuri26a-modules) · 中文
+- [ExpWeaver: LLM Agents Learn from Experience via Latent RAG](../../papers/llm.md#feng26i-modules) · 中文
+- [DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts](../../papers/llm.md#feng26v-modules) · 中文
 
 ### Computer Vision
 
@@ -94,6 +96,7 @@ Teacher features can be low rank for each image while occupying different subspa
 
 ### Robotics
 
+- [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](../../papers/robotics.md#feng26x-modules) · 中文
 - [ReconVLA](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding)
 
 ### Multimodal Learning
@@ -121,6 +124,9 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Rethinking Sparse Mixture of Experts from a Unified Perspective](../../papers/ml-foundations.md#do26b-modules) · 中文
 - [FlashSketch: Sketch-Kernel Co-Design for Fast Sparse Sketching on GPUs](../../papers/ml-foundations.md#dwaraknath26a-modules) · 中文
 - [Hide&Seek: Learning to Explain in an End-to-End Differentiable Network](../../papers/ml-foundations.md#ellinson26a-modules) · 中文
+- [VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning](../../papers/ml-foundations.md#fang26q-modules) · 中文
+- [Olivia: Harmonizing Time Series Foundation Models with Power Spectral Density](../../papers/ml-foundations.md#fei26b-modules) · 中文
+- [Mantis: Lightweight Foundation Model for Time Series Classification](../../papers/ml-foundations.md#feofanov26a-modules) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -128,6 +134,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Message Passing on the Edge: Towards Scalable and Expressive GNNs](../../papers/graph-and-recommendation.md#barcelo26a-modules) · 中文
 - [Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](../../papers/graph-and-recommendation.md#chen26gm-modules) · 中文
 - [Gauge-Equivariant Graph Networks via Self-Interference Cancellation](../../papers/graph-and-recommendation.md#choi26d-modules) · 中文
+- [Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs](../../papers/graph-and-recommendation.md#fesser26b-modules) · 中文
 
 ### Scientific Machine Learning
 

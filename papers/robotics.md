@@ -33,6 +33,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
+| <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | 视觉动作策略的连续网格采样 | 由任务条件预测少量连续采样坐标，并对各坐标周围四个视觉特征做双线性插值。可微采样允许动作监督调整坐标，也能保留位于图块边界的抓取线索。 |
 | <a id="reconvla-modules"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) | 指令前缀 | 把指令 token 放在图像 token 前，使视觉隐藏状态通过因果注意力读取任务信息。 [详细解读](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
 <a id="by-loss-functions"></a>
@@ -42,6 +43,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="amad26a-loss-functions"></a>[DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) | 面向决策的数字孪生 | 用离线价值评估给策略排序，再训练数字孪生保住这些成对排序。当模型容量受限时，单步预测精度和策略选择质量可以分离。 |
+| <a id="fang26h-loss-functions"></a>[OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) | 单步操作策略的速度方向监督 | 在 MeanFlow 重建目标外，用预测速度与真实平均速度的余弦相似度单独监督方向，使低速精细动作仍获得方向梯度。论文还用有限差分近似训练所需的导数，以减轻显存开销。 |
 | <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) | 动作表征监督 | 用视频前后帧提取潜动作，监督动作专家的中间层，使策略表征能利用额外的运动信号。 [详细解读](../insights/loss-functions.md#align-action-features-with-latent-actions) |
 | <a id="reconvla-loss-functions"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) | 目标区域重建 | 用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。 [详细解读](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
 
@@ -71,6 +73,7 @@
 | :--- | :--- | :--- |
 | <a id="chen26d-training-strategies"></a>[NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) | 终身轨迹规划 | 让非参数贝叶斯记忆按新驾驶场景增长簇，扩散规划器按簇专门化，并用旧簇生成回放样本以保留此前技能。 |
 | <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) | 部件位姿的弱监督对称估计 | 仅给出对称类型，让模型从点云和预测旋转估计对称轴概率。对镜面对称的候选平面，用原点云与镜像点云的 Chamfer 距离评估一致性，抑制缺少几何支持的平面。 |
+| <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) | 跨构型控制的奇异分量门控 | 将形态感知 Transformer 的权重拆成 SVD 秩一分量，训练时把分量分为通用、构型专用和任务专用三组。用肢体与关节参数以及任务文本生成软门控，部署时可重组与当前机器人和任务相关的控制器。 |
 
 <a id="by-data-strategies"></a>
 
@@ -120,4 +123,13 @@
 | <a id="cao26w-evaluation"></a>[DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) | 柔性线状物体操作 | 在同一个可微仿真中改变线状物体的伸缩、弯曲塑性和交互条件，从而检验策略能否跨材料泛化。规划时还可显式选择有控制权的抓点。 |
 | <a id="dai26c-evaluation"></a>[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) | 长程操作记忆的分项评测 | 用动作计数、遮挡后定位、跨时刻身份指代和动作模仿分别考查时间、空间、物体与程序记忆，再在同一 VLA 主干上比较记忆形式和接入方式。实验显示记忆机制的收益随任务类型变化。 |
 | <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) | 机器人生成视频的物理与任务评测 | 将均匀抽样的视频帧组成时间网格，以问答清单分别检查物体穿透、未接触搬运等物理失真和关键动作是否按顺序完成。由此能定位画面流畅但动作不符合任务要求的机器人视频。 |
+| <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) | 动作块增量的基准姿态 | 在模仿学习的动作块中，让未来各步都相对块起点表示增量，可避免逐步累加预测误差。论文的真机对照中，这种表示比相对前一步的增量更稳定。 |
+
+<a id="by-theory-statistics"></a>
+
+### 理论与统计
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="francis-meretzki26a-theory-statistics"></a>[Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](https://proceedings.mlr.press/v306/francis-meretzki26a.html) | 用时序差分校准机器人任务成功率 | 对每个部分轨迹预测最终二元成败。在序列版 Brier 风险下，最优置信度等于当前策略的成功价值，因此可用时序差分把终局标签的监督传给途中各步。 |
 <!-- classification:end -->

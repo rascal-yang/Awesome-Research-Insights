@@ -95,6 +95,13 @@
 - [多智能体通信协议的受控评测](../papers/llm.md#du26l-evaluation) · ProtocolBench: Which LLM MultiAgent Protocol to Choose?
 - [语言不确定性词的正确率校准](../papers/llm.md#duan26b-evaluation) · "very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification
 - [可控 2-SAT 结构鲁棒性评测](../papers/llm.md#es-sebbani26a-evaluation) · Evaluating Robustness of Reasoning Models on Parameterized Logical Problems
+- [越狱论文到可复现评测模块](../papers/llm.md#fang26y-evaluation) · Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking
+- [奖励模型偏差的激活投影](../papers/llm.md#fein26a-evaluation) · One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models
+- [外部技能组合的后门评测](../papers/llm.md#feng26c-evaluation) · SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems
+- [推理链的失败步骤比例](../papers/llm.md#feng26e-evaluation) · What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT
+- [关系推理的元数控制评测](../papers/llm.md#fesser26a-evaluation) · Evaluating Relational Reasoning in LLMs with REL
+- [注意力奇异向量的特征对齐诊断](../papers/llm.md#franco26a-evaluation) · Singular Vectors of Attention Heads Align with Features
+- [代码智能体的迭代锦标赛](../papers/llm.md#fu26a-evaluation) · CATArena: Evaluating Evolutionary Capabilities of Code Agents via Iterative Tournaments
 
 ### 计算机视觉
 
@@ -108,6 +115,7 @@
 - [视觉表征的组合绑定诊断](../papers/computer-vision.md#chung26a-evaluation) · Global Geometry Is Not Enough for Vision Representations
 - [类别遗忘的近邻输出泄漏](../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) · Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations
 - [概念感知的显著性图](../papers/computer-vision.md#elisha26a-evaluation) · ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution
+- [交互世界模型的统一动作编码](../papers/computer-vision.md#fang26l-evaluation) · iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework
 
 ### 自然语言处理
 
@@ -117,6 +125,7 @@
 - [生成文本的惊异度转移检测](../papers/nlp.md#chen26bf-evaluation) · Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence
 - [音频深伪检测的多样性压力测试](../papers/nlp.md#dehdashtian26a-evaluation) · FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors
 - [同行评审来源的声明级检测](../papers/nlp.md#duarte26a-evaluation) · Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews
+- [重写式事后文本水印评测](../papers/nlp.md#fernandez26b-evaluation) · How Good is Post-Hoc Watermarking With Language Model Rephrasing?
 
 ### 强化学习
 
@@ -129,6 +138,7 @@
 - [柔性线状物体操作](../papers/robotics.md#cao26w-evaluation) · DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics
 - [长程操作记忆的分项评测](../papers/robotics.md#dai26c-evaluation) · RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
 - [机器人生成视频的物理与任务评测](../papers/robotics.md#deng26r-evaluation) · Rethinking Video Generation Model for the Embodied World
+- [动作块增量的基准姿态](../papers/robotics.md#feng26ab-evaluation) · Demystifying Action Space Design for Robotic Manipulation Policies
 
 ### 多模态学习
 
@@ -150,6 +160,10 @@
 - [科学视频推理的视觉依赖校验](../papers/multimodal.md#deng26w-evaluation) · SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models
 - [语义近邻校准标注判错](../papers/multimodal.md#di26b-evaluation) · Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help
 - [由图像主动决定开放网页检索](../papers/multimodal.md#fan26a-evaluation) · NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web
+- [用图像证据约束欺骗辩论](../papers/multimodal.md#fang26f-evaluation) · Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models
+- [音频安全评测的稀疏梯度诊断](../papers/multimodal.md#fang26r-evaluation) · Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization
+- [文本条件下的音视频信息分解](../papers/multimodal.md#fang26x-evaluation) · Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition
+- [区分旧事实更新和未知事实学习](../papers/multimodal.md#fu26c-evaluation) · MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge
 
 ### 机器学习基础与统计
 
@@ -170,11 +184,15 @@
 - [按数据结构难度诊断聚类](../papers/ml-foundations.md#durani26a-evaluation) · CHB: A Diagnostic Toolkit for Hardness-Aware Clustering Evaluation
 - [序列状态跟踪的跨长度共享诊断](../papers/ml-foundations.md#ebrahimi26a-evaluation) · On the "Induction Bias" in Sequence Models
 - [沿 AdamW 训练路径联合归因](../papers/ml-foundations.md#eichin26a-evaluation) · ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior
+- [时序预测的分频可预测性诊断](../papers/ml-foundations.md#feng26u-evaluation) · Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting
+- [评分模型的架构各向异性](../papers/ml-foundations.md#floros26a-evaluation) · On the Anisotropy of Score-Based Generative Models
 
 ### 图学习与推荐
 
 - [图模型隐私评测](../papers/graph-and-recommendation.md#agbaje26a-evaluation) · Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks
 - [图模型迁移](../papers/graph-and-recommendation.md#akula26a-evaluation) · Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors
+- [缺失节点特征的压力测试](../papers/graph-and-recommendation.md#ferrini26a-evaluation) · Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution
+- [图 Mixup 插值质量诊断](../papers/graph-and-recommendation.md#forbat26a-evaluation) · Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods
 
 ### 科学机器学习
 

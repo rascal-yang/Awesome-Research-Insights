@@ -115,6 +115,7 @@ The linked short insights are available in Chinese.
 | [When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](https://proceedings.mlr.press/v306/chen26s.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26s-data-strategies) |
 | [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](https://proceedings.mlr.press/v306/chen26bj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26bj-data-strategies) |
 | [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://proceedings.mlr.press/v306/cui26f.html) | [Read insight (中文)](../../papers/computer-vision.md#cui26f-data-strategies) |
+| [Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](https://proceedings.mlr.press/v306/fang26s.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26s-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -147,6 +148,14 @@ The linked short insights are available in Chinese.
 | [Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking](https://proceedings.mlr.press/v306/deng26i.html) | [Read insight (中文)](../../papers/computer-vision.md#deng26i-inference) |
 | [SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion](https://proceedings.mlr.press/v306/duan26d.html) | [Read insight (中文)](../../papers/computer-vision.md#duan26d-inference) |
 | [MAD: Manifold Attracted Diffusion](https://proceedings.mlr.press/v306/elbrachter26a.html) | [Read insight (中文)](../../papers/computer-vision.md#elbrachter26a-inference) |
+| [Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback](https://proceedings.mlr.press/v306/fang26n.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26n-inference) |
+| [StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation](https://proceedings.mlr.press/v306/fang26z.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26z-inference) |
+| [Explainable Forensics of Manipulated Segments in Untrimmed Long Videos](https://proceedings.mlr.press/v306/feng26g.html) | [Read insight (中文)](../../papers/computer-vision.md#feng26g-inference) |
+| [HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning](https://proceedings.mlr.press/v306/feng26r.html) | [Read insight (中文)](../../papers/computer-vision.md#feng26r-inference) |
+| [Fast-SAM3D: 3Dfy Anything in Images but Faster](https://proceedings.mlr.press/v306/feng26t.html) | [Read insight (中文)](../../papers/computer-vision.md#feng26t-inference) |
+| [Bridging RGB and RAW: Single-step Deterministic Flow with Homogeneous Representation Alignment](https://proceedings.mlr.press/v306/feng26w.html) | [Read insight (中文)](../../papers/computer-vision.md#feng26w-inference) |
+| [Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](https://proceedings.mlr.press/v306/feng26ac.html) | [Read insight (中文)](../../papers/computer-vision.md#feng26ac-inference) |
+| [Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling](https://proceedings.mlr.press/v306/frumkin26a.html) | [Read insight (中文)](../../papers/computer-vision.md#frumkin26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -168,6 +177,7 @@ The linked short insights are available in Chinese.
 | [DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization](https://proceedings.mlr.press/v306/ding26f.html) | [Read insight (中文)](../../papers/computer-vision.md#ding26f-representation-learning) |
 | [Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences](https://proceedings.mlr.press/v306/ding26n.html) | [Read insight (中文)](../../papers/computer-vision.md#ding26n-representation-learning) |
 | [DNA: Uncovering Universal Latent Forgery Knowledge](https://proceedings.mlr.press/v306/dou26b.html) | [Read insight (中文)](../../papers/computer-vision.md#dou26b-representation-learning) |
+| [Event2Vec: Processing neuromorphic events directly by representations in vector space](https://proceedings.mlr.press/v306/fang26o.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26o-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -185,6 +195,7 @@ The linked short insights are available in Chinese.
 | [Global Geometry Is Not Enough for Vision Representations](https://proceedings.mlr.press/v306/chung26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chung26a-evaluation) |
 | [Unlearning Isn’t Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](https://proceedings.mlr.press/v306/ebrahimpour-boroojeny26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ebrahimpour-boroojeny26a-evaluation) |
 | [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](https://proceedings.mlr.press/v306/elisha26a.html) | [Read insight (中文)](../../papers/computer-vision.md#elisha26a-evaluation) |
+| [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](https://proceedings.mlr.press/v306/fang26l.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26l-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

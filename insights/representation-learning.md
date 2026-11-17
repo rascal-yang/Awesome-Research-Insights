@@ -29,6 +29,7 @@
 - [用 SVM 边界精炼视觉表征](../papers/computer-vision.md#ding26f-representation-learning) · DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization
 - [三维场景图的混合分布原型](../papers/computer-vision.md#ding26n-representation-learning) · Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences
 - [冻结视觉模型中的伪造敏感单元](../papers/computer-vision.md#dou26b-representation-learning) · DNA: Uncovering Universal Latent Forgery Knowledge
+- [异步事件的逐事件向量化](../papers/computer-vision.md#fang26o-representation-learning) · Event2Vec: Processing neuromorphic events directly by representations in vector space
 
 ### 自然语言处理
 

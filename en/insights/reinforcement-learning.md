@@ -68,6 +68,9 @@ Aggregating rewards before group normalization can map different combinations to
 - [How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs](../../papers/llm.md#dong26f-reinforcement-learning) · 中文
 - [Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning](../../papers/llm.md#dou26c-reinforcement-learning) · 中文
 - [Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling](../../papers/llm.md#duan26c-reinforcement-learning) · 中文
+- [Bridging On-Device and Cloud LLMs for Collaborative Reasoning: A Unified Methodology for Local Routing and Post-Training](../../papers/llm.md#fang26d-reinforcement-learning) · 中文
+- [PRM-PBE: Process Reward Model for Reinforcement Learning in Programming-by-Example](../../papers/llm.md#fang26j-reinforcement-learning) · 中文
+- [Learning to Share: Selective Memory for Efficient Parallel Agentic Systems](../../papers/llm.md#fioresi26a-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -124,6 +127,10 @@ Aggregating rewards before group normalization can map different combinations to
 - [Commit to the Bit: Reactive Reinforcement Learning Done Right](../../papers/reinforcement-learning.md#eberhard26b-reinforcement-learning) · 中文
 - [Moment Matching Q-Learning](../../papers/reinforcement-learning.md#edgar26a-reinforcement-learning) · 中文
 - [Stochastic Linear Bandits with Parameter Noise](../../papers/reinforcement-learning.md#ezer26a-reinforcement-learning) · 中文
+- [Compositional Planning with Jumpy World Models](../../papers/reinforcement-learning.md#farebrother26a-reinforcement-learning) · 中文
+- [Learning Interpretable Options by Identifying Reward Diffusion Bottlenecks in Reinforcement Learning](../../papers/reinforcement-learning.md#fei26a-reinforcement-learning) · 中文
+- [Offline Reinforcement Learning with Generative Trajectory Policies](../../papers/reinforcement-learning.md#feng26q-reinforcement-learning) · 中文
+- [FlowMAP: Flow Matching for Generalizable Agent Planning](../../papers/reinforcement-learning.md#fu26b-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -153,4 +160,5 @@ Aggregating rewards before group normalization can map different combinations to
 - [RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](../../papers/scientific-ml.md#chang26g-reinforcement-learning) · 中文
 - [Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](../../papers/scientific-ml.md#chen26gv-reinforcement-learning) · 中文
 - [LASER: Learning Active Sensing for Continuum Field Reconstruction](../../papers/scientific-ml.md#deng26y-reinforcement-learning) · 中文
+- [GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](../../papers/scientific-ml.md#flynn26a-reinforcement-learning) · 中文
 <!-- classification:end -->

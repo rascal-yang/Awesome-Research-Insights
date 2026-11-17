@@ -24,6 +24,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](../../papers/llm.md#chong26a-optimization) · 中文
 - [Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression](../../papers/llm.md#ding26q-optimization) · 中文
 - [CoCoQuant: Breaking the Bandwidth Wall via Co-Optimized Communication and Computation Quantization](../../papers/llm.md#duanmu26a-optimization) · 中文
+- [LOZO+: Provably Efficient Zeroth-Order Fine-Tuning via Greedy Low-Rank Subspace Selection](../../papers/llm.md#fang26k-optimization) · 中文
+- [Convex Optimization for Alignment and Preference Learning on a Single GPU](../../papers/llm.md#feng26l-optimization) · 中文
+- [Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization](../../papers/llm.md#feng26y-optimization) · 中文
 
 ### Computer Vision
 
@@ -31,6 +34,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [TextMesh4D: Zero-shot Text-to-4D Mesh Generation](../../papers/computer-vision.md#dai26h-optimization) · 中文
 - [Trajectory Stitching for Solving Inverse Problems with Flow-Based Models](../../papers/computer-vision.md#denker26a-optimization) · 中文
 - [Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture](../../papers/computer-vision.md#ding26p-optimization) · 中文
+
+### Natural Language Processing
+
+- [Convex Low-resource Accent-Robust Language Detection in Speech Recognition](../../papers/nlp.md#feng26p-optimization) · 中文
 
 ### Reinforcement Learning
 
@@ -127,6 +134,13 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Learning Randomized Reductions](../../papers/ml-foundations.md#erata26a-optimization) · 中文
 - [Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](../../papers/ml-foundations.md#erickson26a-optimization) · 中文
 - [Robust Bayesian Optimisation with Unbounded Corruptions](../../papers/ml-foundations.md#ezzerg26a-optimization) · 中文
+- [ASAP: Exploiting the Satisficing Generalization Edge in Neural Combinatorial Optimization](../../papers/ml-foundations.md#fang26t-optimization) · 中文
+- [Solving the Offline and Online Min-Max Problem of Non-smooth Submodular-Concave Functions: A Zeroth-Order Approach](../../papers/ml-foundations.md#farzin26a-optimization) · 中文
+- [Dissecting Quantization Error: A Concentration-Alignment Perspective](../../papers/ml-foundations.md#federici26a-optimization) · 中文
+- [Learning in the Fisher Subspace: A Guided Initialization for LoRA Fine-Tuning](../../papers/ml-foundations.md#feng26h-optimization) · 中文
+- [Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching](../../papers/ml-foundations.md#feng26o-optimization) · 中文
+- [Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](../../papers/ml-foundations.md#feoktistov26a-optimization) · 中文
+- [CLASP: Online learning algorithms for Convex Losses And Squared Penalties](../../papers/ml-foundations.md#ferreira26a-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -141,4 +155,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](../../papers/scientific-ml.md#chen26fx-optimization) · 中文
 - [Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](../../papers/scientific-ml.md#du26n-optimization) · 中文
 - [Automatic Construction of Clinical Scoring Systems with LLM Agents](../../papers/scientific-ml.md#estevez26a-optimization) · 中文
+- [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../../papers/scientific-ml.md#fink26a-optimization) · 中文
 <!-- classification:end -->

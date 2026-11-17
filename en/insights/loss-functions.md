@@ -71,6 +71,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](../../papers/llm.md#chen26hc-loss-functions) · 中文
 - [Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget](../../papers/llm.md#dasgupta26a-loss-functions) · 中文
 - [Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs](../../papers/llm.md#fan26j-loss-functions) · 中文
+- [Self-correcting for Debiasing Large Language Models](../../papers/llm.md#feng26z-loss-functions) · 中文
 
 ### Computer Vision
 
@@ -89,6 +90,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 ### Robotics
 
 - [DT²: Decision-Targeted Digital Twins](../../papers/robotics.md#amad26a-loss-functions) · 中文
+- [OMP: One-step Meanflow Policy with Directional Alignment](../../papers/robotics.md#fang26h-loss-functions) · 中文
 - [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../insights/loss-functions.md#align-action-features-with-latent-actions)
 - [ReconVLA](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)
 
@@ -114,6 +116,8 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Positive-Unlabeled Learning with Extreme Scarcity of Labeled Positives](../../papers/ml-foundations.md#dai26f-loss-functions) · 中文
 - [Expectation Consistency Loss: Rethink Confidence Calibration under Covariate Shift](../../papers/ml-foundations.md#dong26e-loss-functions) · 中文
 - [When Softmax Fails at the Top: Extreme-Value Corrections for InfoNCE](../../papers/ml-foundations.md#erol26a-loss-functions) · 中文
+- [Information Geometry Loss for Time Series Forecasting](../../papers/ml-foundations.md#fang26m-loss-functions) · 中文
+- [$f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data](../../papers/ml-foundations.md#fawkes26a-loss-functions) · 中文
 
 ### Graph Learning and Recommendation
 

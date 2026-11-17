@@ -33,6 +33,14 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](https://proceedings.mlr.press/v306/cai26d.html) | [Read insight (中文)](../../papers/nlp.md#cai26d-loss-functions) |
 
+<a id="by-optimization"></a>
+
+### Optimization
+
+| Paper | Insight |
+| :--- | :--- |
+| [Convex Low-resource Accent-Robust Language Detection in Speech Recognition](https://proceedings.mlr.press/v306/feng26p.html) | [Read insight (中文)](../../papers/nlp.md#feng26p-optimization) |
+
 <a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning Methods
@@ -83,6 +91,7 @@ The linked short insights are available in Chinese.
 | [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) | [Read insight (中文)](../../papers/nlp.md#chen26bf-evaluation) |
 | [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | [Read insight (中文)](../../papers/nlp.md#dehdashtian26a-evaluation) |
 | [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | [Read insight (中文)](../../papers/nlp.md#duarte26a-evaluation) |
+| [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | [Read insight (中文)](../../papers/nlp.md#fernandez26b-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

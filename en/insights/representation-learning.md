@@ -29,6 +29,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization](../../papers/computer-vision.md#ding26f-representation-learning) · 中文
 - [Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences](../../papers/computer-vision.md#ding26n-representation-learning) · 中文
 - [DNA: Uncovering Universal Latent Forgery Knowledge](../../papers/computer-vision.md#dou26b-representation-learning) · 中文
+- [Event2Vec: Processing neuromorphic events directly by representations in vector space](../../papers/computer-vision.md#fang26o-representation-learning) · 中文
 
 ### Natural Language Processing
 

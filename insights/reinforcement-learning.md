@@ -70,6 +70,9 @@
 - [面向答案的信息流信用分配](../papers/llm.md#dong26f-reinforcement-learning) · How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs
 - [高层计划引导逐步推理](../papers/llm.md#dou26c-reinforcement-learning) · Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning
 - [贝叶斯非负因子奖励建模](../papers/llm.md#duan26c-reinforcement-learning) · Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling
+- [端云推理的自主求助奖励](../papers/llm.md#fang26d-reinforcement-learning) · Bridging On-Device and Cloud LLMs for Collaborative Reasoning: A Unified Methodology for Local Routing and Post-Training
+- [示例编程的推理步骤奖励](../papers/llm.md#fang26j-reinforcement-learning) · PRM-PBE: Process Reward Model for Reinforcement Learning in Programming-by-Example
+- [并行智能体共享记忆的写入控制](../papers/llm.md#fioresi26a-reinforcement-learning) · Learning to Share: Selective Memory for Efficient Parallel Agentic Systems
 
 ### 计算机视觉
 
@@ -126,6 +129,10 @@
 - [状态聚合下的动作承诺 Q 学习](../papers/reinforcement-learning.md#eberhard26b-reinforcement-learning) · Commit to the Bit: Reactive Reinforcement Learning Done Right
 - [基于矩匹配的少步动作采样](../papers/reinforcement-learning.md#edgar26a-reinforcement-learning) · Moment Matching Q-Learning
 - [参数噪声下的方差自适应探索](../papers/reinforcement-learning.md#ezer26a-reinforcement-learning) · Stochastic Linear Bandits with Parameter Noise
+- [跨尺度状态占用的策略组合](../papers/reinforcement-learning.md#farebrother26a-reinforcement-learning) · Compositional Planning with Jumpy World Models
+- [用随机奖励定位探索瓶颈](../papers/reinforcement-learning.md#fei26a-reinforcement-learning) · Learning Interpretable Options by Identifying Reward Diffusion Bottlenecks in Reinforcement Learning
+- [离线策略的生成 ODE 解映射](../papers/reinforcement-learning.md#feng26q-reinforcement-learning) · Offline Reinforcement Learning with Generative Trajectory Policies
+- [价值引导的规划分布传输](../papers/reinforcement-learning.md#fu26b-reinforcement-learning) · FlowMAP: Flow Matching for Generalizable Agent Planning
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -155,4 +162,5 @@
 - [逆合成搜索工具选择](../papers/scientific-ml.md#chang26g-reinforcement-learning) · RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models
 - [医学视觉定位与稀疏推理](../papers/scientific-ml.md#chen26gv-reinforcement-learning) · Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning
 - [连续物理场重建的主动传感](../papers/scientific-ml.md#deng26y-reinforcement-learning) · LASER: Learning Active Sensing for Continuum Field Reconstruction
+- [遗传电路代码的分层验证奖励](../papers/scientific-ml.md#flynn26a-reinforcement-learning) · GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design
 <!-- classification:end -->

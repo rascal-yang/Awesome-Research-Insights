@@ -16,6 +16,7 @@
 | <a id="bai26j-architecture"></a>[Interactive Person Retrieval via Multi-Turn Multimodal Conversation](https://proceedings.mlr.press/v306/bai26j.html) | 交互式人物检索 | 允许用户针对返回图像指出与目标不同的视觉属性，先逐轮编码反馈，再聚合历史记忆逐步修正检索结果。 |
 | <a id="chen26go-architecture"></a>[Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://proceedings.mlr.press/v306/chen26go.html) | 遥感跨模态的共享潜空间扩散 | 先用配对观测对齐各模态编码器的潜空间，再将源潜变量和加噪目标潜变量拼接后输入共享扩散 Transformer，用源、目标模态标识调制归一化，直接回归干净目标潜变量。一个主干即可用于多个转换方向。 |
 | <a id="dementyev26a-architecture"></a>[PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](https://proceedings.mlr.press/v306/dementyev26a.html) | 阵列几何条件化的空间音频词元 | 把多通道波形及对应麦克风坐标一同送入 Transformer 编码器，生成保留声源方向的空间音频词元。接入语言模型后可做空间推理和定向转写，测试覆盖训练时未见的阵列布局。 |
+| <a id="forhad26a-architecture"></a>[Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](https://proceedings.mlr.press/v306/forhad26a.html) | 持续学习专家的置信加权协作 | 利用冻结视觉语言模型的开放集预测为各任务专家提供先验，再用学得的多元高斯描述专家表征分布并分配融合权重。专家可按输入与其训练分布的匹配程度协作，无需显式任务 ID。 |
 
 <a id="by-modules"></a>
 
@@ -70,6 +71,7 @@
 | <a id="cheng26p-training-strategies"></a>[HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning](https://proceedings.mlr.press/v306/cheng26p.html) | 双曲空间中的 CLIP 持续适配 | 给连续任务添加轻量适配器，在庞加莱球内依次复合适配更新。用适配后视觉特征生成的类别原型校准测试 logits，可帮助区分随任务增加的新旧类别。 |
 | <a id="du26t-training-strategies"></a>[Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](https://proceedings.mlr.press/v306/du26t.html) | 权重差迁移语音指令能力 | 从文本基座继续做语音预训练，再把文本指令模型相对同一基座的参数差加到语音模型上。用单独的系数缩放语音预训练增量，以平衡语音适应和指令能力，无需另做语音指令微调。 |
 | <a id="dufour26a-training-strategies"></a>[MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](https://proceedings.mlr.press/v306/dufour26a.html) | 多奖励条件的图像生成预训练 | 给每组图文样本计算图文一致性、偏好等多个分数，把分数向量与提示共同输入流匹配模型。训练可以利用不同质量层级的样本，采样时再指定所需分数，在多个质量目标间调节。 |
+| <a id="feng26m-training-strategies"></a>[Multimodal Nested Learning for Decoupled and Coordinated Optimization](https://proceedings.mlr.press/v306/feng26m.html) | 多模态编码与融合的嵌套优化 | 外层用独立优化器学习编码和预测，内层以外层得到的模态特征为输入，串联按不同频率更新的残差 MLP。融合可同时适配不同变化速度的信息，且编码与预测的训练梯度在外层保持分离。 |
 
 <a id="by-data-strategies"></a>
 
@@ -85,6 +87,7 @@
 | <a id="chen26c-data-strategies"></a>[OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](https://proceedings.mlr.press/v306/chen26c.html) | 多模态图像编辑数据 | 先定义编辑操作、科学图示和文字渲染等分层任务，再从各分支合成多步骤指令图像对，能按能力覆盖定向扩充数据。 |
 | <a id="chen26gb-data-strategies"></a>[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://proceedings.mlr.press/v306/chen26gb.html) | GUI 智能体的失败轨迹纠错数据 | 在可自动判定结果的合成界面中收集学生模型的失败轨迹，让专家结合中间截图和正确解回顾错误并写出纠正过程。把这些轨迹与正常解题轨迹一起微调，给原生视觉语言智能体提供从中途错误恢复的监督。 |
 | <a id="fang26b-data-strategies"></a>[Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness](https://proceedings.mlr.press/v306/fang26b.html) | 用近域异常文本约束开放集识别 | 让语言模型为已知类别生成外观相近或语境异常的未知样本描述，再将这些描述作为视觉语言模型的负向语义参照。与已知类文本一起比较时，可为易被强行归类的近域异常提供识别依据。 |
+| <a id="feng26s-data-strategies"></a>[TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis](https://proceedings.mlr.press/v306/feng26s.html) | 电信观测序列保留绝对量纲 | 在异常检测与根因评测中保留 5G 指标原始尺度。消融实验把原始序列的通道均值和标准差提供给模型后，根因识别更准确，表明量级可区分时序形态相似的故障。 |
 
 <a id="by-inference"></a>
 
@@ -108,6 +111,9 @@
 | <a id="cho26b-inference"></a>[Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](https://proceedings.mlr.press/v306/cho26b.html) | 视觉词元删减后的注意力校准 | 减少视觉词元后仍保留原位置，用 RoPE 的相对距离衰减估计补偿注意力，合并时同时计入每个词元代表的原词元数。在稀疏视觉序列上恢复部分注意力，无需补回被删词元。 |
 | <a id="dang26a-inference"></a>[UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing](https://proceedings.mlr.press/v306/dang26a.html) | 超高分遥感词元分区压缩 | 按文本问题计算多尺度视觉词元的重要性，并以各区域自己的平均分为保留阈值，其余词元在区域内合并。这样在紧预算下，局部小目标的证据也有机会保留。 |
 | <a id="du26k-inference"></a>[$G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA](https://proceedings.mlr.press/v306/du26k.html) | 多模态文档问答的内容图与规划图 | 用内容图连接文档内的文字、图表等证据，按相似度检索节点并带上邻居。另用有向无环规划图记录子问题及依赖，按拓扑顺序检索并根据证据是否充分调整后续计划。 |
+| <a id="fang26c-inference"></a>[SLAP: The Semantic Least Action Principle for Variational Video-Language Modeling](https://proceedings.mlr.press/v306/fang26c.html) | 稀疏视频帧的语义轨迹插值 | 固定缺帧区间两端的观测表示，以位移代价和语义势能构造离散作用量，再联合求解整段中间轨迹。模型可在潜空间补全状态变化，无需渲染中间像素帧。 |
+| <a id="feng26d-inference"></a>[WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching](https://proceedings.mlr.press/v306/feng26d.html) | 世界模型缓存的曲率漂移判据 | 以 token 轨迹曲率衡量难预测程度，对急转的 token 采用阻尼预测。缓存跳步时累积高曲率 token 的曲率与特征漂移模长之积，使重算由最不稳定的局部轨迹触发，并降低不同模态特征尺度的影响。 |
+| <a id="forouzandeh26a-inference"></a>[LINGUA: Bridging the Grounding Gap in VideoQA via Typed Memory and Belief-State Reasoning](https://proceedings.mlr.press/v306/forouzandeh26a.html) | 视频问答的结构化记忆与核验 | 把事件帧写入记忆并区分情节、语义和程序信息，推理时显式更新语言化信念并检查动作后的状态与时间条件。答案和支持片段可据此一起核验，暴露只答对结论却定位错误的情况。 |
 
 <a id="by-representation-learning"></a>
 
@@ -146,6 +152,10 @@
 | <a id="deng26w-evaluation"></a>[SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://proceedings.mlr.press/v306/deng26w.html) | 科学视频推理的视觉依赖校验 | 用配套论文和转录稿辅助命题，再让标注者核对视频证据的时间戳。分别以仅给选项和只给问题与选项的条件做筛查，修改或剔除能在无视频时答出的题，以减少文字线索泄漏。 |
 | <a id="di26b-evaluation"></a>[Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help](https://proceedings.mlr.press/v306/di26b.html) | 语义近邻校准标注判错 | 用输入嵌入找近邻，把邻居的标注作为目标标注的比较依据。论文将 AUROC 的变化归因于原有可分性、参考引起的评分均值变化及平均降噪，参考语义匹配且标注正确时，最可能拉开正确与错误的分数。 |
 | <a id="fan26a-evaluation"></a>[NAVIGATE: Evaluating Visual-Guided Search Decision-Making on the Open Web](https://proceedings.mlr.press/v306/fan26a.html) | 由图像主动决定开放网页检索 | 把图片作为主要查找依据，混合无需联网的单图题与需要多图综合、多轮搜索的题，并让模型自行决定是否搜索及如何改写查询。由此可分别观察视觉线索整合、搜索触发和策略协调的失败。 |
+| <a id="fang26f-evaluation"></a>[Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models](https://proceedings.mlr.press/v306/fang26f.html) | 用图像证据约束欺骗辩论 | 给多个辩论模型分派不同立场，每轮在原图上重放辩论者提出的视觉操作，把所得图像证据和文字论证一起传给后续辩论者与裁判。该评测在文中与人工判断的一致性高于单模型裁判。 |
+| <a id="fang26r-evaluation"></a>[Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](https://proceedings.mlr.press/v306/fang26r.html) | 音频安全评测的稀疏梯度诊断 | 按音频词元对应的波形区间统计梯度能量，发现越狱优化信号集中在少数区段。论文中 Qwen3-Omni 的对照实验显示，仅保留四分之一词元相关梯度仍接近全量条件的攻击成功率。 |
+| <a id="fang26x-evaluation"></a>[Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition](https://proceedings.mlr.press/v306/fang26x.html) | 文本条件下的音视频信息分解 | 保持指令不变，比较只给视频、只给音频和同时给两者时的预测分布，将决策信息分解为各模态独有、冗余及协同项。论文评测显示，即使在音视频融合任务上，测试模型也多依赖单模态线索。 |
+| <a id="fu26c-evaluation"></a>[MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge](https://proceedings.mlr.press/v306/fu26c.html) | 区分旧事实更新和未知事实学习 | 将事实已经变化和模型原先未知的知识分开评测，并跨文本与图像提问检查更新是否一致。实验显示，微调法和局部知识编辑在持续更新与保留原能力上呈现不同的局限。 |
 
 <a id="by-theory-statistics"></a>
 

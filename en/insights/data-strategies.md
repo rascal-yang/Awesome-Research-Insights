@@ -33,6 +33,7 @@ Data selection, annotation, augmentation, and sampling.
 - [When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](../../papers/computer-vision.md#chen26s-data-strategies) · 中文
 - [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](../../papers/computer-vision.md#chen26bj-data-strategies) · 中文
 - [Geometry-Aware Dataset Condensation for Diffusion Model Training](../../papers/computer-vision.md#cui26f-data-strategies) · 中文
+- [Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](../../papers/computer-vision.md#fang26s-data-strategies) · 中文
 
 ### Natural Language Processing
 
@@ -45,6 +46,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Improving Zero-Shot Offline RL via Behavioral Task Sampling](../../papers/reinforcement-learning.md#bendib26a-data-strategies) · 中文
 - [Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](../../papers/reinforcement-learning.md#chen26gd-data-strategies) · 中文
 - [The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](../../papers/reinforcement-learning.md#fagan26a-data-strategies) · 中文
+- [Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](../../papers/reinforcement-learning.md#feng26aa-data-strategies) · 中文
 
 ### Robotics
 
@@ -64,6 +66,7 @@ Data selection, annotation, augmentation, and sampling.
 - [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](../../papers/multimodal.md#chen26c-data-strategies) · 中文
 - [CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](../../papers/multimodal.md#chen26gb-data-strategies) · 中文
 - [Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness](../../papers/multimodal.md#fang26b-data-strategies) · 中文
+- [TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis](../../papers/multimodal.md#feng26s-data-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 

@@ -24,6 +24,9 @@
 - [低秩二值权重量化](../papers/llm.md#chong26a-optimization) · NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models
 - [MoE 通道贡献覆盖剪枝](../papers/llm.md#ding26q-optimization) · Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression
 - [张量并行的计算通信联合量化](../papers/llm.md#duanmu26a-optimization) · CoCoQuant: Breaking the Bandwidth Wall via Co-Optimized Communication and Computation Quantization
+- [零阶微调的贪心子空间筛选](../papers/llm.md#fang26k-optimization) · LOZO+: Provably Efficient Zeroth-Order Fine-Tuning via Greedy Low-Rank Subspace Selection
+- [冻结主干的凸偏好对齐](../papers/llm.md#feng26l-optimization) · Convex Optimization for Alignment and Preference Learning on a Single GPU
+- [多模型红队搜索的嵌入动量](../papers/llm.md#feng26y-optimization) · Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization
 
 ### 计算机视觉
 
@@ -31,6 +34,10 @@
 - [动态网格的逐面雅可比形变](../papers/computer-vision.md#dai26h-optimization) · TextMesh4D: Zero-shot Text-to-4D Mesh Generation
 - [流模型逆问题的分段轨迹拼接](../papers/computer-vision.md#denker26a-optimization) · Trajectory Stitching for Solving Inverse Problems with Flow-Based Models
 - [动态高斯属性平均](../papers/computer-vision.md#ding26p-optimization) · Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture
+
+### 自然语言处理
+
+- [低资源语音语言识别的凸检测头](../papers/nlp.md#feng26p-optimization) · Convex Low-resource Accent-Robust Language Detection in Speech Recognition
 
 ### 强化学习
 
@@ -127,6 +134,13 @@
 - [随机自归约的稀疏回归搜索](../papers/ml-foundations.md#erata26a-optimization) · Learning Randomized Reductions
 - [异步 SGD 的梯度裁剪](../papers/ml-foundations.md#erickson26a-optimization) · Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers
 - [容忍无界异常幅度的贝叶斯优化](../papers/ml-foundations.md#ezzerg26a-optimization) · Robust Bayesian Optimisation with Unbounded Corruptions
+- [组合优化的候选提出与在线选择](../papers/ml-foundations.md#fang26t-optimization) · ASAP: Exploiting the Satisficing Generalization Edge in Neural Combinatorial Optimization
+- [次模凹鞍点的零阶求解](../papers/ml-foundations.md#farzin26a-optimization) · Solving the Offline and Online Min-Max Problem of Non-smooth Submodular-Concave Functions: A Zeroth-Order Approach
+- [量化前的权重激活协方差对齐](../papers/ml-foundations.md#federici26a-optimization) · Dissecting Quantization Error: A Concentration-Alignment Perspective
+- [下游 Fisher 子空间初始化 LoRA](../papers/ml-foundations.md#feng26h-optimization) · Learning in the Fisher Subspace: A Guided Initialization for LoRA Fine-Tuning
+- [离散扩散求解的单轨迹伴随估计](../papers/ml-foundations.md#feng26o-optimization) · Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching
+- [动量符号更新的平滑过渡](../papers/ml-foundations.md#feoktistov26a-optimization) · Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling
+- [在线凸优化的平方违约控制](../papers/ml-foundations.md#ferreira26a-optimization) · CLASP: Online learning algorithms for Convex Losses And Squared Penalties
 
 ### 图学习与推荐
 
@@ -141,4 +155,5 @@
 - [语言模型预测与真实实验的门控](../papers/scientific-ml.md#chen26fx-optimization) · LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation
 - [扩散重建的对偶反馈与频谱均衡](../papers/scientific-ml.md#du26n-optimization) · Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction
 - [临床二元规则的等权清单搜索](../papers/scientific-ml.md#estevez26a-optimization) · Automatic Construction of Clinical Scoring Systems with LLM Agents
+- [代数多重网格的稀疏粗层修正](../papers/scientific-ml.md#fink26a-optimization) · RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections
 <!-- classification:end -->

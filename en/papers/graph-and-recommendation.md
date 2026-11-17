@@ -19,6 +19,8 @@ The linked short insights are available in Chinese.
 | [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26al-architecture) |
 | [Adaptive Memory Retention in Dynamic Graphs](https://proceedings.mlr.press/v306/de-castelli26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#de-castelli26a-architecture) |
 | [Graph Neural Dynamics via Learned Energy and Tangential Flows](https://proceedings.mlr.press/v306/eliasof26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#eliasof26a-architecture) |
+| [MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/fang26g.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fang26g-architecture) |
+| [L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](https://proceedings.mlr.press/v306/fernandez26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fernandez26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -30,6 +32,7 @@ The linked short insights are available in Chinese.
 | [Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://proceedings.mlr.press/v306/barcelo26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#barcelo26a-modules) |
 | [Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](https://proceedings.mlr.press/v306/chen26gm.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26gm-modules) |
 | [Gauge-Equivariant Graph Networks via Self-Interference Cancellation](https://proceedings.mlr.press/v306/choi26d.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#choi26d-modules) |
+| [Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs](https://proceedings.mlr.press/v306/fesser26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fesser26b-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -92,6 +95,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ai26c-inference) |
 | [CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26b-inference) |
+| [On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fomina26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -116,6 +120,8 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](https://proceedings.mlr.press/v306/agbaje26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#agbaje26a-evaluation) |
 | [Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#akula26a-evaluation) |
+| [Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ferrini26a-evaluation) |
+| [Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#forbat26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -130,4 +136,6 @@ The linked short insights are available in Chinese.
 | [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) |
 | [Multicalibration Yields Better Matchings](https://proceedings.mlr.press/v306/colini-baldeschi26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) |
 | [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](https://proceedings.mlr.press/v306/fan26c.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fan26c-theory-statistics) |
+| [Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](https://proceedings.mlr.press/v306/fetrat-qharabagh26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fetrat-qharabagh26a-theory-statistics) |
+| [Understanding Truncated Positional Encodings for Graph Neural Networks](https://proceedings.mlr.press/v306/flora26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#flora26a-theory-statistics) |
 <!-- classification:end -->

@@ -39,6 +39,8 @@
 - [保留用户决策权的建议训练](../papers/llm.md#ellis26a-training-strategies) · Training LLM Agents to Empower Humans
 - [FP8 注意力的谱范数缩放](../papers/llm.md#emadi26a-training-strategies) · Rank-Aware Spectral Bounds on Attention Logits for Stable Low-Precision Training
 - [长思维链蒸馏的梯度谱筛选](../papers/llm.md#fan26e-training-strategies) · Uncovering the Gradient Geometry of Long CoT: A Spectral-guided Approach to Reasoning Distillation
+- [异构联邦微调的 LoRA 子矩阵](../papers/llm.md#fang26e-training-strategies) · Federated Sketching LoRA: A Flexible Framework for Heterogeneous Collaborative Fine-Tuning of LLMs
+- [偏好对齐中的负例遗忘权重](../papers/llm.md#feng26f-training-strategies) · Leveraging Machine Unlearning for Cost-Efficient Preference Alignment
 
 ### 计算机视觉
 
@@ -62,6 +64,7 @@
 
 - [终身轨迹规划](../papers/robotics.md#chen26d-training-strategies) · NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts
 - [部件位姿的弱监督对称估计](../papers/robotics.md#chen26fw-training-strategies) · Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy
+- [跨构型控制的奇异分量门控](../papers/robotics.md#feng26n-training-strategies) · Knowledge Diversion for Efficient Morphology Control and Policy Transfer
 
 ### 多模态学习
 
@@ -73,6 +76,7 @@
 - [双曲空间中的 CLIP 持续适配](../papers/multimodal.md#cheng26p-training-strategies) · HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning
 - [权重差迁移语音指令能力](../papers/multimodal.md#du26t-training-strategies) · Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning
 - [多奖励条件的图像生成预训练](../papers/multimodal.md#dufour26a-training-strategies) · MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency
+- [多模态编码与融合的嵌套优化](../papers/multimodal.md#feng26m-training-strategies) · Multimodal Nested Learning for Decoupled and Coordinated Optimization
 
 ### 机器学习基础与统计
 
@@ -101,6 +105,8 @@
 - [矩阵与卷积的低秩微调](../papers/ml-foundations.md#ding26o-training-strategies) · LAVA: A Unified Framework for Finetuning Language and Vision Models
 - [表格离群检测的合成课程](../papers/ml-foundations.md#ding26s-training-strategies) · From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection
 - [扩散模型记忆的中等噪声区间](../papers/ml-foundations.md#dodson26a-training-strategies) · Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models
+- [噪声联邦微调的双分支 LoRA](../papers/ml-foundations.md#fang26v-training-strategies) · Decoupled Low-Rank Adaptation for Robust Federated Fine-Tuning
+- [临界信号传播的分层 dropout](../papers/ml-foundations.md#fernandez-sarmiento26a-training-strategies) · Dropout Universality: Scaling Laws and Optimal Scheduling at the Edge-of-Chaos
 
 ### 图学习与推荐
 

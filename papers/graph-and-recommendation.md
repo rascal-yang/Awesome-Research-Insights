@@ -17,6 +17,8 @@
 | <a id="chen26al-architecture"></a>[OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) | 生成式电商检索 | 用关键词增强的层级量化编码表示商品，再把短期和长期用户行为送入同一个生成检索模型，统一学习相关性与个体偏好。 |
 | <a id="de-castelli26a-architecture"></a>[Adaptive Memory Retention in Dynamic Graphs](https://proceedings.mlr.press/v306/de-castelli26a.html) | 动态图的可学习信息耗散 | 在快照之间用反对称参数化的神经 ODE 传播节点信息，并在快照到达时注入观测更新。加入依节点状态调节的耗散项，可抑制噪声累积并保留跨时间的有效依赖。 |
 | <a id="eliasof26a-architecture"></a>[Graph Neural Dynamics via Learned Energy and Tangential Flows](https://proceedings.mlr.press/v306/eliasof26a.html) | 图动力学的能量与切向流 | 将节点表征的演化拆成能量梯度下降和与梯度正交的消息传递流。后者可沿等能面继续传播信息，使能量下降的约束允许表征在梯度很小的区域继续更新。 |
+| <a id="fang26g-architecture"></a>[MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/fang26g.html) | 超边潜类型与多通道传播 | 让各超边以可学习权重混合共享码本中的类型原型，给超边聚合额外提供独立于输入节点特征的类型信息。再用多通道消息传递为节点表示保留更高的秩容量。 |
+| <a id="fernandez26a-architecture"></a>[L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](https://proceedings.mlr.press/v306/fernandez26a.html) | 图傅里叶变换的柯西分解 | 把全图傅里叶变换分解为小子图的谱算子和跨割连接的柯西因子，在因子之间插入可学习局部滤波器，逐级整合远程信息并避免全图特征分解。 |
 
 <a id="by-modules"></a>
 
@@ -28,6 +30,7 @@
 | <a id="barcelo26a-modules"></a>[Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://proceedings.mlr.press/v306/barcelo26a.html) | 图神经网络表达力 | 把消息传播的中心从点移到边，并沿三角形交换信息，可区分更多图结构，在论文考虑的实际图负载上仍保持近线性开销。 |
 | <a id="chen26gm-modules"></a>[Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](https://proceedings.mlr.press/v306/chen26gm.html) | 兼顾图拓扑与因果顺序的注意力 | 同一图元素的 token 块内保留因果掩码，不同图元素块之间允许双向注意。将序列位置与图谱坐标共同编码到 RoPE 旋转相位，让 Q、K 点积同时反映 token 顺序和图结构。 |
 | <a id="choi26d-modules"></a>[Gauge-Equivariant Graph Networks via Self-Interference Cancellation](https://proceedings.mlr.press/v306/choi26d.html) | 异配图消息的自成分消除 | 先用 U(1) 传输把复数邻居消息对齐到目标节点的规范，再投影去除沿目标特征的分量。对残差用规范不变的相位对齐量门控，并与原消息混合后计算注意力，以控制自平行成分的强化。 |
+| <a id="fesser26b-modules"></a>[Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs](https://proceedings.mlr.press/v306/fesser26b.html) | 有向带属性图的酉卷积 | 将带边属性的有向邻接矩阵变换为斜厄米矩阵并做矩阵指数，得到酉传播算子。它在两个方向传递消息时仍可区分边的方向，并保持传播步中的特征范数。 |
 
 <a id="by-loss-functions"></a>
 
@@ -90,6 +93,7 @@
 | :--- | :--- | :--- |
 | <a id="ai26c-inference"></a>[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) | 图模型测试时适应 | 冻结图骨干，用当前快照的无标签特征熵更新动态图提示，持续跟随图结构与测试分布的变化。 |
 | <a id="bisht26b-inference"></a>[CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) | 在线推荐校准 | 持续监测推荐损失并在用户行为变化时重新定阈值，同时在线调整不同集合预测器的权重，使可变长度推荐列表保持紧凑。 |
+| <a id="fomina26a-inference"></a>[On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) | 图注意力的 I/O 融合优化 | 将逐边计算与邻居聚合融合在 GPU 核内，减少把边级中间量写回显存。图重排序的收益取决于线程映射，实验中对邻居并行的 gather 型核比对特征并行核更稳定。 |
 
 <a id="by-representation-learning"></a>
 
@@ -114,6 +118,8 @@
 | :--- | :--- | :--- |
 | <a id="agbaje26a-evaluation"></a>[Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](https://proceedings.mlr.press/v306/agbaje26a.html) | 图模型隐私评测 | 连边泄漏应在极低误报率下分组测量。同类节点的后验几何可能压缩判别方向，重调距离后会暴露平均结果遗漏的风险。 |
 | <a id="akula26a-evaluation"></a>[Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) | 图模型迁移 | 同一图上，节点分类迁往链路预测在同质性强的图上更可靠。反向迁移要尤其关注结构信号强度，并固定消息传递图及测试负样本防止泄漏。 |
+| <a id="ferrini26a-evaluation"></a>[Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) | 缺失节点特征的压力测试 | 评估缺失特征时使用信息量较高的密集属性，并让更能预测标签的列具有更高的遮盖率。这样可测出在稀疏节点特征、均匀随机遮盖下不易暴露的性能退化。 |
+| <a id="forbat26a-evaluation"></a>[Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) | 图 Mixup 插值质量诊断 | 统一图分类的评测协议后，同时测合成图的插值误差和下游收益。高误差可拖累准确率，但低误差本身也未带来显著增益，所测 Mixup 方法均未显著优于无 Mixup 的基线。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -128,4 +134,6 @@
 | <a id="charpenay26a-theory-statistics"></a>[Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | 关系嵌入表达力 | 用逐坐标比较定义的凸区域能高效编码部分关系规则，但参数化会限制可忠实表达的规则集合，应按目标规则选区域形式。 |
 | <a id="colini-baldeschi26a-theory-statistics"></a>[Multicalibration Yields Better Matchings](https://proceedings.mlr.press/v306/colini-baldeschi26a.html) | 用匹配决策约束边权多重校准 | 从竞争的匹配规则提取边权残差的校准约束，再用校准后的权重做普通最大权匹配。在论文的随机边权设定下，这可使所得决策与在原预测上使用比较类中最优规则的表现竞争。 |
 | <a id="fan26c-theory-statistics"></a>[Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](https://proceedings.mlr.press/v306/fan26c.html) | 网络抽样偏好的福利校正 | 让相邻标注者共享奖励模型信息，再用稳定化的目标权重与入样概率之比聚合个人奖励。若反馈招募偏向网络中心，这可减小聚合奖励偏离预设目标群体福利的程度。 |
+| <a id="fetrat-qharabagh26a-theory-statistics"></a>[Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](https://proceedings.mlr.press/v306/fetrat-qharabagh26a.html) | 图算法的局部指令精确执行 | 先用 MLP 集成学习单节点的局部指令，再把它作为图网络的消息更新函数。在度数、状态大小及消息精度有界的理论设定下，网络可高概率无误地执行 LOCAL 算法。 |
+| <a id="flora26a-theory-statistics"></a>[Understanding Truncated Positional Encodings for Graph Neural Networks](https://proceedings.mlr.press/v306/flora26a.html) | 截断图位置编码的表达能力 | 完整谱编码与随机游走编码虽同等可表达，截断后不同编码可区分的图会分化。论文给出截断谱编码无法保留相对 1-WL 的严格优势的例子，并在真实数据上验证混合多类截断编码的收益。 |
 <!-- classification:end -->

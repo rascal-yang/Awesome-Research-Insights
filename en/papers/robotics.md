@@ -33,6 +33,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
+| [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | [Read insight (中文)](../../papers/robotics.md#feng26x-modules) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) | [Read insight (中文)](../../papers/robotics.md#reconvla-modules) · [Full entry](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
 <a id="by-loss-functions"></a>
@@ -42,6 +43,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) | [Read insight (中文)](../../papers/robotics.md#amad26a-loss-functions) |
+| [OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) | [Read insight (中文)](../../papers/robotics.md#fang26h-loss-functions) |
 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) | [Read insight (中文)](../../papers/robotics.md#liu26bl-loss-functions) · [Full entry](../insights/loss-functions.md#align-action-features-with-latent-actions) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) | [Read insight (中文)](../../papers/robotics.md#reconvla-loss-functions) · [Full entry](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
 
@@ -71,6 +73,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
 | [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) | [Read insight (中文)](../../papers/robotics.md#chen26fw-training-strategies) |
+| [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) | [Read insight (中文)](../../papers/robotics.md#feng26n-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -120,4 +123,13 @@ The linked short insights are available in Chinese.
 | [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) | [Read insight (中文)](../../papers/robotics.md#cao26w-evaluation) |
 | [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) | [Read insight (中文)](../../papers/robotics.md#dai26c-evaluation) |
 | [Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) | [Read insight (中文)](../../papers/robotics.md#deng26r-evaluation) |
+| [Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) | [Read insight (中文)](../../papers/robotics.md#feng26ab-evaluation) |
+
+<a id="by-theory-statistics"></a>
+
+### Theory and Statistics
+
+| Paper | Insight |
+| :--- | :--- |
+| [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](https://proceedings.mlr.press/v306/francis-meretzki26a.html) | [Read insight (中文)](../../papers/robotics.md#francis-meretzki26a-theory-statistics) |
 <!-- classification:end -->

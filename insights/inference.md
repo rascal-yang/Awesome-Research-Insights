@@ -71,6 +71,10 @@
 - [值缓存的低秩阻尼解码](../papers/llm.md#du26m-inference) · Escaping Mode Collapse in LLM Generation via Geometric Regulation
 - [基于词元熵的动态搜索分支](../papers/llm.md#evans26a-inference) · Entropy-informed Decoding: Adaptive Information-Driven Branching
 - [用稀疏特征做流式安全检测](../papers/llm.md#fang26a-inference) · NExT-Guard: Streaming Safeguard without Token-Level Labels
+- [联合规划的知识缺口澄清](../papers/llm.md#fang26i-inference) · MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation
+- [反事实推理的共形 token 筛选](../papers/llm.md#fayyazi26a-inference) · COFT: Counterfactual–Conformal Decoding for Fair Chain-of-Thought Reasoning in Large Language Models
+- [跨问题分配自洽采样预算](../papers/llm.md#feng26a-inference) · Optimal Self-Consistency for Efficient Reasoning with Large Language Models
+- [按输出扰动分配 KV 缓存预算](../papers/llm.md#feng26j-inference) · CriticalKV: Optimizing KV Cache Eviction from an Output Perturbation Perspective
 
 ### 计算机视觉
 
@@ -99,6 +103,14 @@
 - [多概念遗忘的掩码合并](../papers/computer-vision.md#deng26i-inference) · Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking
 - [整流流反演的球面校正](../papers/computer-vision.md#duan26d-inference) · SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion
 - [带噪训练数据的扩散采样修正](../papers/computer-vision.md#elbrachter26a-inference) · MAD: Manifold Attracted Diffusion
+- [脉冲扩散的膜电位误差反馈](../papers/computer-vision.md#fang26n-inference) · Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback
+- [异构时间步的整流流批处理](../papers/computer-vision.md#fang26z-inference) · StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation
+- [长视频篡改的边界感知定位](../papers/computer-vision.md#feng26g-inference) · Explainable Forensics of Manipulated Segments in Untrimmed Long Videos
+- [增量域预测的能量距离加权](../papers/computer-vision.md#feng26r-inference) · HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning
+- [单图三维生成的分量差异缓存](../papers/computer-vision.md#feng26t-inference) · Fast-SAM3D: 3Dfy Anything in Images but Faster
+- [RGB 到 RAW 的一步潜空间传输](../papers/computer-vision.md#feng26w-inference) · Bridging RGB and RAW: Single-step Deterministic Flow with Homogeneous Representation Alignment
+- [长视频队列的双向一致性引导](../papers/computer-vision.md#feng26ac-inference) · Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos
+- [低比特少步扩散的调度校准](../papers/computer-vision.md#frumkin26a-inference) · Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling
 
 ### 自然语言处理
 
@@ -146,6 +158,9 @@
 - [视觉词元删减后的注意力校准](../papers/multimodal.md#cho26b-inference) · Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference
 - [超高分遥感词元分区压缩](../papers/multimodal.md#dang26a-inference) · UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing
 - [多模态文档问答的内容图与规划图](../papers/multimodal.md#du26k-inference) · $G^2$-Reader: Dual Evolving Graphs for Multimodal Document QA
+- [稀疏视频帧的语义轨迹插值](../papers/multimodal.md#fang26c-inference) · SLAP: The Semantic Least Action Principle for Variational Video-Language Modeling
+- [世界模型缓存的曲率漂移判据](../papers/multimodal.md#feng26d-inference) · WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching
+- [视频问答的结构化记忆与核验](../papers/multimodal.md#forouzandeh26a-inference) · LINGUA: Bridging the Grounding Gap in VideoQA via Typed Memory and Belief-State Reasoning
 
 ### 机器学习基础与统计
 
@@ -159,11 +174,13 @@
 - [离散扩散的免训练 logit 引导](../papers/ml-foundations.md#dou26a-inference) · Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction
 - [离散神经采样的历史势垒调节](../papers/ml-foundations.md#du26h-inference) · MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics
 - [无目标观测站点的时序扩散重建](../papers/ml-foundations.md#fan26d-inference) · ZeroDiff: Zero-Shot Time Series Reconstruction via Informed-Prior Diffusion
+- [离散流的重参数化强度外推](../papers/ml-foundations.md#fu26d-inference) · A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching
 
 ### 图学习与推荐
 
 - [图模型测试时适应](../papers/graph-and-recommendation.md#ai26c-inference) · PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs
 - [在线推荐校准](../papers/graph-and-recommendation.md#bisht26b-inference) · CARE: Adaptive Calibration for Reliable Recommendations
+- [图注意力的 I/O 融合优化](../papers/graph-and-recommendation.md#fomina26a-inference) · On Efficient Scaling of GNNs via IO-Aware Layers Implementations
 
 ### 科学机器学习
 

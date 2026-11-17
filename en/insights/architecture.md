@@ -18,6 +18,7 @@ Model-wide design and information flow.
 - [Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models](../../papers/llm.md#deng26v-architecture) · 中文
 - [Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures](../../papers/llm.md#elango26a-architecture) · 中文
 - [Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing](../../papers/llm.md#fagnou26a-architecture) · 中文
+- [Artificial Hippocampus Networks for Efficient Long-Context Modeling](../../papers/llm.md#fang26w-architecture) · 中文
 
 ### Computer Vision
 
@@ -51,6 +52,7 @@ Model-wide design and information flow.
 - [Interactive Person Retrieval via Multi-Turn Multimodal Conversation](../../papers/multimodal.md#bai26j-architecture) · 中文
 - [Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](../../papers/multimodal.md#chen26go-architecture) · 中文
 - [PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](../../papers/multimodal.md#dementyev26a-architecture) · 中文
+- [Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](../../papers/multimodal.md#forhad26a-architecture) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -68,6 +70,8 @@ Model-wide design and information flow.
 - [Mixture of Concept Bottleneck Experts](../../papers/ml-foundations.md#de-santis26a-architecture) · 中文
 - [FedEMoE: Improving Personalization on Heterogeneous Federated Learning via Elastic Mixture of Experts Architecture](../../papers/ml-foundations.md#du26d-architecture) · 中文
 - [Rethinking Time-Series Imputation as Conditional Inference along Temporal Evolution](../../papers/ml-foundations.md#fan26h-architecture) · 中文
+- [Dynamic Fractal Mamba: A Neural Renormalization Group Flow for Scale-Invariant Sequence Modeling](../../papers/ml-foundations.md#fang26p-architecture) · 中文
+- [Symbol-Equivariant Recurrent Reasoning Models](../../papers/ml-foundations.md#freinschlag26a-architecture) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -75,6 +79,8 @@ Model-wide design and information flow.
 - [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](../../papers/graph-and-recommendation.md#chen26al-architecture) · 中文
 - [Adaptive Memory Retention in Dynamic Graphs](../../papers/graph-and-recommendation.md#de-castelli26a-architecture) · 中文
 - [Graph Neural Dynamics via Learned Energy and Tangential Flows](../../papers/graph-and-recommendation.md#eliasof26a-architecture) · 中文
+- [MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks](../../papers/graph-and-recommendation.md#fang26g-architecture) · 中文
+- [L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](../../papers/graph-and-recommendation.md#fernandez26a-architecture) · 中文
 
 ### Scientific Machine Learning
 
@@ -100,4 +106,7 @@ Model-wide design and information flow.
 - [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](../../papers/scientific-ml.md#dai26a-architecture) · 中文
 - [Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems](../../papers/scientific-ml.md#deng26c-architecture) · 中文
 - [Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink](../../papers/scientific-ml.md#elsborg26a-architecture) · 中文
+- [BIOARC: Discovering Optimal Neural Architectures for Biological Foundation Models](../../papers/scientific-ml.md#fang26u-architecture) · 中文
+- [LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](../../papers/scientific-ml.md#feng26b-architecture) · 中文
+- [Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](../../papers/scientific-ml.md#friedl26a-architecture) · 中文
 <!-- classification:end -->

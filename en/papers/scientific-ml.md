@@ -37,6 +37,9 @@ The linked short insights are available in Chinese.
 | [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](https://proceedings.mlr.press/v306/dai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dai26a-architecture) |
 | [Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems](https://proceedings.mlr.press/v306/deng26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#deng26c-architecture) |
 | [Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink](https://proceedings.mlr.press/v306/elsborg26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#elsborg26a-architecture) |
+| [BIOARC: Discovering Optimal Neural Architectures for Biological Foundation Models](https://proceedings.mlr.press/v306/fang26u.html) | [Read insight (中文)](../../papers/scientific-ml.md#fang26u-architecture) |
+| [LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](https://proceedings.mlr.press/v306/feng26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#feng26b-architecture) |
+| [Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](https://proceedings.mlr.press/v306/friedl26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#friedl26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -78,6 +81,7 @@ The linked short insights are available in Chinese.
 | [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](https://proceedings.mlr.press/v306/chen26fx.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fx-optimization) |
 | [Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](https://proceedings.mlr.press/v306/du26n.html) | [Read insight (中文)](../../papers/scientific-ml.md#du26n-optimization) |
 | [Automatic Construction of Clinical Scoring Systems with LLM Agents](https://proceedings.mlr.press/v306/estevez26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#estevez26a-optimization) |
+| [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](https://proceedings.mlr.press/v306/fink26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#fink26a-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -90,6 +94,7 @@ The linked short insights are available in Chinese.
 | [RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](https://proceedings.mlr.press/v306/chang26g.html) | [Read insight (中文)](../../papers/scientific-ml.md#chang26g-reinforcement-learning) |
 | [Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gv.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26gv-reinforcement-learning) |
 | [LASER: Learning Active Sensing for Continuum Field Reconstruction](https://proceedings.mlr.press/v306/deng26y.html) | [Read insight (中文)](../../papers/scientific-ml.md#deng26y-reinforcement-learning) |
+| [GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](https://proceedings.mlr.press/v306/flynn26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#flynn26a-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 

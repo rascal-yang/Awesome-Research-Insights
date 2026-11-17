@@ -73,6 +73,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [自博弈偏好语义校准](../papers/llm.md#chen26hc-loss-functions) · $\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization
 - [语言模型蒸馏的尾部 KL](../papers/llm.md#dasgupta26a-loss-functions) · Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget
 - [按目标词元概率调节微调梯度](../papers/llm.md#fan26j-loss-functions) · Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs
+- [推理链去偏的后缀优化](../papers/llm.md#feng26z-loss-functions) · Self-correcting for Debiasing Large Language Models
 
 ### 计算机视觉
 
@@ -91,6 +92,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 ### 机器人学
 
 - [面向决策的数字孪生](../papers/robotics.md#amad26a-loss-functions) · DT²: Decision-Targeted Digital Twins
+- [单步操作策略的速度方向监督](../papers/robotics.md#fang26h-loss-functions) · OMP: One-step Meanflow Policy with Directional Alignment
 - [动作表征监督](../papers/robotics.md#liu26bl-loss-functions) · LARA: Latent Action Representation Alignment for Vision-Language-Action Models
 - [目标区域重建](../papers/robotics.md#reconvla-loss-functions) · ReconVLA
 
@@ -116,6 +118,8 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [极少正标签下的 PU 风险正则](../papers/ml-foundations.md#dai26f-loss-functions) · Positive-Unlabeled Learning with Extreme Scarcity of Labeled Positives
 - [协变量偏移下的期望一致性校准](../papers/ml-foundations.md#dong26e-loss-functions) · Expectation Consistency Loss: Rethink Confidence Calibration under Covariate Shift
 - [InfoNCE 的端点尾部修正](../papers/ml-foundations.md#erol26a-loss-functions) · When Softmax Fails at the Top: Extreme-Value Corrections for InfoNCE
+- [时序预测的信息几何损失](../papers/ml-foundations.md#fang26m-loss-functions) · Information Geometry Loss for Time Series Forecasting
+- [未归一化目标的批次广义偏差损失](../papers/ml-foundations.md#fawkes26a-loss-functions) · $f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data
 
 ### 图学习与推荐
 
