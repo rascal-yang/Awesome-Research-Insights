@@ -66,7 +66,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="agarwal26a-reinforcement-learning"></a>[Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](https://proceedings.mlr.press/v306/agarwal26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26a) | 在线影响力最大化 | 独立级联只观察节点是否激活时，可用标准的离线种子选择 oracle 构造在线算法，达到平方根量级的遗憾界。 |
-| <a id="bisht26a-reinforcement-learning"></a>[CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](https://proceedings.mlr.press/v306/bisht26a.html) | 推荐曝光控制 | 把类别曝光累积量当成状态，对超出曝光约束的概率估计上置信界，再随风险提高惩罚，抑制反馈循环中的集中化。 |
+| <a id="bisht26a-reinforcement-learning"></a>[CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](https://proceedings.mlr.press/v306/bisht26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bisht26a) | 推荐曝光控制 | 把类别曝光累积量当成状态，对超出曝光约束的概率估计上置信界，再随风险提高惩罚，抑制反馈循环中的集中化。 |
 
 <a id="by-training-strategies"></a>
 
@@ -98,7 +98,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="ai26c-inference"></a>[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ai26c) | 图模型测试时适应 | 冻结图骨干，用当前快照的无标签特征熵更新动态图提示，持续跟随图结构与测试分布的变化。 |
-| <a id="bisht26b-inference"></a>[CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) | 在线推荐校准 | 持续监测推荐损失并在用户行为变化时重新定阈值，同时在线调整不同集合预测器的权重，使可变长度推荐列表保持紧凑。 |
+| <a id="bisht26b-inference"></a>[CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bisht26b) | 在线推荐校准 | 持续监测推荐损失并在用户行为变化时重新定阈值，同时在线调整不同集合预测器的权重，使可变长度推荐列表保持紧凑。 |
 | <a id="fomina26a-inference"></a>[On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) | 图注意力的 I/O 融合优化 | 将逐边计算与邻居聚合融合在 GPU 核内，减少把边级中间量写回显存。图重排序的收益取决于线程映射，实验中对邻居并行的 gather 型核比对特征并行核更稳定。 |
 | <a id="gao26t-inference"></a>[Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) | 知识图多跳搜索的语义补边 | 在语言模型引导的邻接遍历中，将高于嵌入相似度阈值的近邻也加入前沿，再排除已访问节点。这样可按查询跨过显式知识图中缺失的连接。 |
 | <a id="guo26t-inference"></a>[GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](https://proceedings.mlr.press/v306/guo26t.html) | 按需探查图拓扑的工具推理 | 让智能体按推理需要查询节点邻居，并把连通性或数值计算交给代码解释器。这样可以在观测不足时主动扩大局部感受野，避免固定展开深度在部分数据上引入大量无关节点。 |

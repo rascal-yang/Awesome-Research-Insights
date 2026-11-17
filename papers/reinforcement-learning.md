@@ -21,7 +21,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bian26a-architecture"></a>[RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](https://proceedings.mlr.press/v306/bian26a.html) | 连续控制动作表示 | 将每个连续动作维度分箱，用分类分布代替高斯策略，并搭配正则化网络，可改善论文所测的 on-policy 控制任务。 |
+| <a id="bian26a-architecture"></a>[RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](https://proceedings.mlr.press/v306/bian26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bian26a) | 连续控制动作表示 | 将每个连续动作维度分箱，用分类分布代替高斯策略，并搭配正则化网络，可改善论文所测的 on-policy 控制任务。 |
 
 <a id="by-loss-functions"></a>
 
@@ -57,9 +57,9 @@
 | <a id="bagatella26a-reinforcement-learning"></a>[Test-time Offline Reinforcement Learning on Goal-related Experience](https://proceedings.mlr.press/v306/bagatella26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bagatella26a) | 目标条件测试时 RL | 根据当前状态选离线数据，再按测试目标评估转移质量，用少量更新在滚动时域内持续微调策略，适配当前这条轨迹。 |
 | <a id="basu26a-reinforcement-learning"></a>[Performative Policy Gradient: Optimality in Performative Reinforcement Learning](https://proceedings.mlr.press/v306/basu26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-basu26a) | 部署反馈下的强化学习 | 策略会改变环境动力学时，将这种影响纳入策略梯度。在论文的 softmax 参数化设定里，可收敛到考虑自身引发分布变化的最优策略。 |
 | <a id="baur26a-reinforcement-learning"></a>[MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference](https://proceedings.mlr.press/v306/baur26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-baur26a) | 多反馈奖励学习 | 为示范、比较、评分和停止信号等各自建似然，用共享潜奖励和一个变分目标联合推断，可避免手调不同反馈的损失权重。 |
-| <a id="belouadah26a-reinforcement-learning"></a>[CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](https://proceedings.mlr.press/v306/belouadah26a.html) | 安全策略优化 | 用局部一阶近似计算策略到安全边界的有符号距离，把它加入原始策略目标，缓解拉格朗日乘子更新滞后造成的违规与振荡。 |
-| <a id="blonde26a-reinforcement-learning"></a>[Noise-Guided Transport: Imitation Learning from Random Priors](https://proceedings.mlr.press/v306/blonde26a.html) | 低数据模仿学习 | 将模仿学习写成从随机先验出发的最优传输问题，用离策略对抗训练求解，可在少量专家转移下学习高维控制，并把不确定性纳入方法。 |
-| <a id="bo26c-reinforcement-learning"></a>[Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) | 因果元强化学习 | 从与混杂观测相容的候选环境中采样反事实轨迹，再用它们训练策略初始化，显式覆盖多个可能的环境机制。 |
+| <a id="belouadah26a-reinforcement-learning"></a>[CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](https://proceedings.mlr.press/v306/belouadah26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-belouadah26a) | 安全策略优化 | 用局部一阶近似计算策略到安全边界的有符号距离，把它加入原始策略目标，缓解拉格朗日乘子更新滞后造成的违规与振荡。 |
+| <a id="blonde26a-reinforcement-learning"></a>[Noise-Guided Transport: Imitation Learning from Random Priors](https://proceedings.mlr.press/v306/blonde26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-blonde26a) | 低数据模仿学习 | 将模仿学习写成从随机先验出发的最优传输问题，用离策略对抗训练求解，可在少量专家转移下学习高维控制，并把不确定性纳入方法。 |
+| <a id="bo26c-reinforcement-learning"></a>[Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-bo26c) | 因果元强化学习 | 从与混杂观测相容的候选环境中采样反事实轨迹，再用它们训练策略初始化，显式覆盖多个可能的环境机制。 |
 | <a id="bui26a-reinforcement-learning"></a>[Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](https://proceedings.mlr.press/v306/bui26a.html) | 离线到在线强化学习 | 离线从扩散模型蒸馏快采样 actor 和转移模型，在线以 Laplace 近似和状态偏移判断不确定性，帮助在分布变动时调节探索。 |
 | <a id="cao26f-reinforcement-learning"></a>[Direct Flow Q-Learning](https://proceedings.mlr.press/v306/cao26f.html) | 流匹配策略优化 | 用最终动作的 Q 值梯度构造每一步速度场的引导项，直接训练多步流策略，避免通过全部采样步骤反传或蒸馏成单步。 |
 | <a id="chen26cc-reinforcement-learning"></a>[Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes](https://proceedings.mlr.press/v306/chen26cc.html) | 重尾损失下的占用度量更新 | 已知转移时，用随状态动作占用概率变化的阈值跳过极端损失，再用跳过补偿项修正估计并更新 FTRL 策略。在论文的有限 α 阶矩假设下，该估计支持对抗情形的次线性遗憾及满足自约束条件的随机情形的对数遗憾。 |
@@ -108,7 +108,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bendib26a-data-strategies"></a>[Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) | 零样本离线强化学习 | 从离线数据中的真实行为提取任务向量作为训练任务分布，替换任意随机向量，有助于策略泛化到未见奖励。 |
+| <a id="bendib26a-data-strategies"></a>[Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bendib26a) | 零样本离线强化学习 | 从离线数据中的真实行为提取任务向量作为训练任务分布，替换任意随机向量，有助于策略泛化到未见奖励。 |
 | <a id="chen26gd-data-strategies"></a>[Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](https://proceedings.mlr.press/v306/chen26gd.html) | 跨域离线强化学习的软筛选 | 用非平衡最优传输匹配源域与目标域的转移样本，以广义 KL 惩罚替代固定总运输量约束。按每条源转移的传输边际给离线训练加权，该权重随到目标域的最小匹配代价指数衰减。 |
 | <a id="fagan26a-data-strategies"></a>[The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](https://proceedings.mlr.press/v306/fagan26a.html) | 数学搜索课程的中间难度实例 | 在 Andrews–Curtis 搜索中构造可解但需要多步操作的实例，填补简单例与几乎无法解决例之间的数据缺口。将一组基本变换合成替换动作，可在稀疏成功反馈下缩短策略需要搜索的决策链。 |
 | <a id="feng26aa-data-strategies"></a>[Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](https://proceedings.mlr.press/v306/feng26aa.html) | 世界模型的主动探测数据 | 构建可区分的探测技能库，在新环境中按对世界模型参数的信息增益挑选技能，并兼顾状态覆盖，让后续表征学习获得能区分控制相关潜在因素的轨迹。 |
@@ -158,8 +158,8 @@
 | <a id="balcan26a-theory-statistics"></a>[Learning in Structured Stackelberg Games](https://proceedings.mlr.press/v306/balcan26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-balcan26a) | 结构化 Stackelberg 博弈 | 当上下文可以预测追随者类型时，更合适的在线难度度量是 Stackelberg–Littlestone 维数。它能紧致刻画领导者的实例最优遗憾。 |
 | <a id="banihashem26a-theory-statistics"></a>[Bandit Social Learning with Exploration Episodes](https://proceedings.mlr.press/v306/banihashem26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26a) | 社会学习探索 | 个体在自己的短回合里有探索动机，整体系统的贝叶斯遗憾仍可能线性增长，设计平台时要单独考虑跨回合的探索。 |
 | <a id="barbara26a-theory-statistics"></a>[Optimal Rates for Feasible Payoff Set Estimation in Games](https://proceedings.mlr.press/v306/barbara26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-barbara26a) | 逆博弈估计 | 只观察到近似纳什行为时，可用 Hausdorff 距离估计所有与行为相容的收益函数集合，为后续反事实分析保留不可辨识性。 |
-| <a id="benyamine26a-theory-statistics"></a>[Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) | 不确定 MDP | 把未知转移看作随机分布，对策略回报施加风险度量，并据此判断哪类风险偏好还能沿用 Bellman 递推。 |
-| <a id="bollini26a-theory-statistics"></a>[Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) | 在线 Stackelberg 博弈 | 领头方不知道对手类型的收益时，只观测最佳响应不足以保证次线性遗憾；如果每轮还能看到类型，则可达到根号轮数量级。 |
+| <a id="benyamine26a-theory-statistics"></a>[Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-benyamine26a) | 不确定 MDP | 把未知转移看作随机分布，对策略回报施加风险度量，并据此判断哪类风险偏好还能沿用 Bellman 递推。 |
+| <a id="bollini26a-theory-statistics"></a>[Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-bollini26a) | 在线 Stackelberg 博弈 | 领头方不知道对手类型的收益时，只观测最佳响应不足以保证次线性遗憾；如果每轮还能看到类型，则可达到根号轮数量级。 |
 | <a id="braverman26a-theory-statistics"></a>[Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | 流式多臂老虎机 | 只允许在最近到达的臂里选择时，有限存储使精确找最佳臂困难，近似最佳臂则可用更少内存；可用这一区别决定要保证哪种精度。 |
 | <a id="cao26x-theory-statistics"></a>[Understanding Behavior Cloning with Action Quantization](https://proceedings.mlr.press/v306/cao26x.html) | 行为克隆动作量化 | 当动力学稳定且策略满足概率平滑条件时，离散动作上的对数损失可保持最优样本复杂度；量化误差随时域至多多项式放大。 |
 | <a id="carr26a-theory-statistics"></a>[Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](https://proceedings.mlr.press/v306/carr26a.html) | 长期偏好强化学习 | 将轨迹成对偏好建成马尔可夫竞赛，在该设定下可用定常马尔可夫策略达到依赖完整历史的策略所能达到的表现。 |

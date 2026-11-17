@@ -24,7 +24,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](https://proceedings.mlr.press/v306/bian26c.html) | [Read insight (中文)](../../papers/nlp.md#bian26c-modules) |
+| [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](https://proceedings.mlr.press/v306/bian26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bian26c) | [Read insight (中文)](../../papers/nlp.md#bian26c-modules) |
 
 <a id="by-loss-functions"></a>
 

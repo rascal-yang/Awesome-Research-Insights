@@ -22,7 +22,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bian26c-modules"></a>[AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](https://proceedings.mlr.press/v306/bian26c.html) | Agent 词表适配 | 从实际工具调用轨迹中提取常见结构和语义单元扩充词表，减少同一调用所需的解码步数。 |
+| <a id="bian26c-modules"></a>[AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](https://proceedings.mlr.press/v306/bian26c.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bian26c) | Agent 词表适配 | 从实际工具调用轨迹中提取常见结构和语义单元扩充词表，减少同一调用所需的解码步数。 |
 
 <a id="by-loss-functions"></a>
 

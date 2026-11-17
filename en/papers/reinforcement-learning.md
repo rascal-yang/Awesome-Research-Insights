@@ -21,7 +21,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](https://proceedings.mlr.press/v306/bian26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bian26a-architecture) |
+| [RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](https://proceedings.mlr.press/v306/bian26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bian26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bian26a-architecture) |
 
 <a id="by-loss-functions"></a>
 
@@ -57,9 +57,9 @@ The linked short insights are available in Chinese.
 | [Test-time Offline Reinforcement Learning on Goal-related Experience](https://proceedings.mlr.press/v306/bagatella26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bagatella26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bagatella26a-reinforcement-learning) |
 | [Performative Policy Gradient: Optimality in Performative Reinforcement Learning](https://proceedings.mlr.press/v306/basu26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-basu26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#basu26a-reinforcement-learning) |
 | [MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference](https://proceedings.mlr.press/v306/baur26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-baur26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#baur26a-reinforcement-learning) |
-| [CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](https://proceedings.mlr.press/v306/belouadah26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#belouadah26a-reinforcement-learning) |
-| [Noise-Guided Transport: Imitation Learning from Random Priors](https://proceedings.mlr.press/v306/blonde26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#blonde26a-reinforcement-learning) |
-| [Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bo26c-reinforcement-learning) |
+| [CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](https://proceedings.mlr.press/v306/belouadah26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-belouadah26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#belouadah26a-reinforcement-learning) |
+| [Noise-Guided Transport: Imitation Learning from Random Priors](https://proceedings.mlr.press/v306/blonde26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-blonde26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#blonde26a-reinforcement-learning) |
+| [Counterfactual Bootstrap for Robust Meta-Reinforcement Learning](https://proceedings.mlr.press/v306/bo26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-bo26c) | [Read insight (中文)](../../papers/reinforcement-learning.md#bo26c-reinforcement-learning) |
 | [Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](https://proceedings.mlr.press/v306/bui26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bui26a-reinforcement-learning) |
 | [Direct Flow Q-Learning](https://proceedings.mlr.press/v306/cao26f.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cao26f-reinforcement-learning) |
 | [Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes](https://proceedings.mlr.press/v306/chen26cc.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26cc-reinforcement-learning) |
@@ -108,7 +108,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bendib26a-data-strategies) |
+| [Improving Zero-Shot Offline RL via Behavioral Task Sampling](https://proceedings.mlr.press/v306/bendib26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bendib26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bendib26a-data-strategies) |
 | [Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](https://proceedings.mlr.press/v306/chen26gd.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26gd-data-strategies) |
 | [The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](https://proceedings.mlr.press/v306/fagan26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#fagan26a-data-strategies) |
 | [Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](https://proceedings.mlr.press/v306/feng26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#feng26aa-data-strategies) |
@@ -158,8 +158,8 @@ The linked short insights are available in Chinese.
 | [Learning in Structured Stackelberg Games](https://proceedings.mlr.press/v306/balcan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-balcan26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#balcan26a-theory-statistics) |
 | [Bandit Social Learning with Exploration Episodes](https://proceedings.mlr.press/v306/banihashem26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#banihashem26a-theory-statistics) |
 | [Optimal Rates for Feasible Payoff Set Estimation in Games](https://proceedings.mlr.press/v306/barbara26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-barbara26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#barbara26a-theory-statistics) |
-| [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) |
-| [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bollini26a-theory-statistics) |
+| [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-benyamine26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) |
+| [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-bollini26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bollini26a-theory-statistics) |
 | [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) |
 | [Understanding Behavior Cloning with Action Quantization](https://proceedings.mlr.press/v306/cao26x.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cao26x-theory-statistics) |
 | [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](https://proceedings.mlr.press/v306/carr26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#carr26a-theory-statistics) |

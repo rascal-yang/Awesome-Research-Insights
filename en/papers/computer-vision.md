@@ -43,7 +43,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [FOVI: A biologically-inspired foveated interface for deep vision models](https://proceedings.mlr.press/v306/blauch26a.html) | [Read insight (中文)](../../papers/computer-vision.md#blauch26a-modules) |
+| [FOVI: A biologically-inspired foveated interface for deep vision models](https://proceedings.mlr.press/v306/blauch26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-blauch26a) | [Read insight (中文)](../../papers/computer-vision.md#blauch26a-modules) |
 | [Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](https://proceedings.mlr.press/v306/candogan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#candogan26a-modules) |
 | [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26j-modules) |
 | [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26n-modules) |
@@ -65,7 +65,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Threshold-Guided Optimization for Visual Generative Models](https://proceedings.mlr.press/v306/bai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26c) | [Read insight (中文)](../../papers/computer-vision.md#bai26c-loss-functions) |
-| [Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bo26a-loss-functions) |
+| [Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-bo26a) | [Read insight (中文)](../../papers/computer-vision.md#bo26a-loss-functions) |
 | [Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](https://proceedings.mlr.press/v306/deng26e.html) | [Read insight (中文)](../../papers/computer-vision.md#deng26e-loss-functions) |
 | [BiRQA: Bidirectional Robust Quality Assessment for Images](https://proceedings.mlr.press/v306/gushchin26a.html) | [Read insight (中文)](../../papers/computer-vision.md#gushchin26a-loss-functions) |
 | [Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](https://proceedings.mlr.press/v306/ha26b.html) | [Read insight (中文)](../../papers/computer-vision.md#ha26b-loss-functions) |
@@ -185,8 +185,8 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](https://proceedings.mlr.press/v306/bian26d.html) | [Read insight (中文)](../../papers/computer-vision.md#bian26d-representation-learning) |
-| [VFMF: Dense Forecasting by Generating Vision Foundation Model Features](https://proceedings.mlr.press/v306/boduljak26a.html) | [Read insight (中文)](../../papers/computer-vision.md#boduljak26a-representation-learning) |
+| [CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](https://proceedings.mlr.press/v306/bian26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bian26d) | [Read insight (中文)](../../papers/computer-vision.md#bian26d-representation-learning) |
+| [VFMF: Dense Forecasting by Generating Vision Foundation Model Features](https://proceedings.mlr.press/v306/boduljak26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-boduljak26a) | [Read insight (中文)](../../papers/computer-vision.md#boduljak26a-representation-learning) |
 | [On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26h-representation-learning) |
 | [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://proceedings.mlr.press/v306/cassano26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cassano26a-representation-learning) |
 | [PartCo: Part-Level Correspondence Priors Enhance Category Discovery](https://proceedings.mlr.press/v306/cendra26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cendra26a-representation-learning) |

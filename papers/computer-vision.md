@@ -43,7 +43,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="blauch26a-modules"></a>[FOVI: A biologically-inspired foveated interface for deep vision models](https://proceedings.mlr.press/v306/blauch26a.html) | 主动视觉分辨率 | 在传感器坐标中保留中心高分辨率和周边低分辨率，再映射到均匀的处理流形做近邻卷积，减少全视野处理所需的像素与计算。 |
+| <a id="blauch26a-modules"></a>[FOVI: A biologically-inspired foveated interface for deep vision models](https://proceedings.mlr.press/v306/blauch26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-blauch26a) | 主动视觉分辨率 | 在传感器坐标中保留中心高分辨率和周边低分辨率，再映射到均匀的处理流形做近邻卷积，减少全视野处理所需的像素与计算。 |
 | <a id="candogan26a-modules"></a>[Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](https://proceedings.mlr.press/v306/candogan26a.html) | 小型视觉 Transformer | 沿多条空间填充曲线扫描图像，把路径距离转成衰减掩码乘到注意力上，用很少的新参数注入空间邻近先验。 |
 | <a id="cao26j-modules"></a>[Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) | 分层三维语义分割 | 共享点云编码，临近输出再按层级拆分解码器，并引入粗到细一致性。基于点簇的对比自监督补充不平衡类别的特征。 |
 | <a id="cao26n-modules"></a>[LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | 轻量视频超分 | 冻结整个扩散 Transformer，用双流适配器分别读低清视频的静态结构和当前去噪状态，再按时间步调节结构对齐与纹理细化。 |
@@ -65,7 +65,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bai26c-loss-functions"></a>[Threshold-Guided Optimization for Visual Generative Models](https://proceedings.mlr.press/v306/bai26c.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-bai26c) | 视觉生成偏好对齐 | 用经验分数阈值把独立评分转成正负样本，并按离阈值的距离加权，使没有成对偏好的数据也能训练对齐。 |
-| <a id="bo26a-loss-functions"></a>[Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) | 密集小目标计数 | 用视觉语言模型生成伪分割掩码压制背景，再用对比损失分离果实与叶片表征。按边缘调整裁剪也可减少密集簇中的目标截断。 |
+| <a id="bo26a-loss-functions"></a>[Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-bo26a) | 密集小目标计数 | 用视觉语言模型生成伪分割掩码压制背景，再用对比损失分离果实与叶片表征。按边缘调整裁剪也可减少密集簇中的目标截断。 |
 | <a id="deng26e-loss-functions"></a>[Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](https://proceedings.mlr.press/v306/deng26e.html) | 单步超分辨率的全路径对齐 | 把预测的高分辨率图像沿前向加噪过程投影回多个离散时刻，并与真值图像在相同噪声下的状态逐一比较。高噪声时主要约束整体结构，低噪声时可进一步校准细节，以减轻一致性训练中的轨迹漂移。 |
 | <a id="gushchin26a-loss-functions"></a>[BiRQA: Bidirectional Robust Quality Assessment for Images](https://proceedings.mlr.press/v306/gushchin26a.html) | 全参考画质的锚定对抗训练 | 给受扰图像匹配质量略高、略低的可靠干净锚点，并约束其预测排序。在双侧锚点覆盖与排序损失受控时，可由相对次序推得单样本评分的误差上界。 |
 | <a id="ha26b-loss-functions"></a>[Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](https://proceedings.mlr.press/v306/ha26b.html) | 类别遗忘的邻域保护与表征分散 | 在待遗忘类附近对保留类分布做掩码蒸馏，以保护邻域决策边界，同时用类内分散损失打散待遗忘类嵌入，使少量样本更难重新估稳该类原型。 |
@@ -185,8 +185,8 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="bian26d-representation-learning"></a>[CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](https://proceedings.mlr.press/v306/bian26d.html) | 新类别发现 | 先用已知类原型训练语义结构，再用带语义正则的一致性学习扩展未知类，避免过早的全局均匀排布冲淡类别结构。 |
-| <a id="boduljak26a-representation-learning"></a>[VFMF: Dense Forecasting by Generating Vision Foundation Model Features](https://proceedings.mlr.press/v306/boduljak26a.html) | 视频特征预测 | 先把视觉基础模型特征压到适合生成的紧凑潜空间，再用条件流匹配采样未来。在部分可见时可表达多个可能未来，且比直接扩散原特征或 PCA 压缩保留更多信息。 |
+| <a id="bian26d-representation-learning"></a>[CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](https://proceedings.mlr.press/v306/bian26d.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-bian26d) | 新类别发现 | 先用已知类原型训练语义结构，再用带语义正则的一致性学习扩展未知类，避免过早的全局均匀排布冲淡类别结构。 |
+| <a id="boduljak26a-representation-learning"></a>[VFMF: Dense Forecasting by Generating Vision Foundation Model Features](https://proceedings.mlr.press/v306/boduljak26a.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-boduljak26a) | 视频特征预测 | 先把视觉基础模型特征压到适合生成的紧凑潜空间，再用条件流匹配采样未来。在部分可见时可表达多个可能未来，且比直接扩散原特征或 PCA 压缩保留更多信息。 |
 | <a id="cao26h-representation-learning"></a>[On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) | 类别增量学习 | 冻结视觉骨干，只维护逐类的特征统计量并用它们推断，可以作为检验复杂持续训练方法是否带来收益的强基线。 |
 | <a id="cassano26a-representation-learning"></a>[SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://proceedings.mlr.press/v306/cassano26a.html) | 扩散概念遗忘 | 用标签训练稀疏自编码器，将每个概念的激活集中在单个可解释神经元，便于有针对性地擦除并依次处理多个概念。 |
 | <a id="cendra26a-representation-learning"></a>[PartCo: Part-Level Correspondence Priors Enhance Category Discovery](https://proceedings.mlr.press/v306/cendra26a.html) | 细粒度类别发现 | 用图像局部部件之间的特征对应为类别聚类补充先验，可以区分全局语义相近、只在局部有差异的类别。 |

@@ -68,7 +68,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](https://proceedings.mlr.press/v306/agarwal26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#agarwal26a-reinforcement-learning) |
-| [CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](https://proceedings.mlr.press/v306/bisht26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26a-reinforcement-learning) |
+| [CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](https://proceedings.mlr.press/v306/bisht26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bisht26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26a-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -100,7 +100,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ai26c) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ai26c-inference) |
-| [CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26b-inference) |
+| [CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bisht26b) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26b-inference) |
 | [On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fomina26a-inference) |
 | [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26t-inference) |
 | [GRASP: Graph Reasoning via Agentic Solving and Probing of LLMs](https://proceedings.mlr.press/v306/guo26t.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guo26t-inference) |
