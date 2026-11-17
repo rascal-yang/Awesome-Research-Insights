@@ -22,7 +22,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](../../conferences/icml-2026/cards/0301-0400.md#bu26b-data-strategies) · 中文
 - [Safe and Scalable Web Agent Learning via Recreated Websites](../../conferences/icml-2026/cards/0401-0500.md#chae26a-data-strategies) · 中文
 - [Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters](../../conferences/icml-2026/cards/0401-0500.md#chandak26a-data-strategies) · 中文
-- [Threat2Traffic: Multi-Agent Environment Synthesis for Malware Traffic Generation from Threat Intelligence](../../conferences/icml-2026/cards/0501-0600.md#chen26cb-data-strategies) · 中文
 - [Olmix: A Framework for Data Mixing Throughout LM Development](../../conferences/icml-2026/cards/0501-0600.md#chen26dd-data-strategies) · 中文
 - [From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment](../../conferences/icml-2026/cards/0601-0700.md#chen26gi-data-strategies) · 中文
 - [DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](../../conferences/icml-2026/cards/0601-0700.md#chen26gj-data-strategies) · 中文

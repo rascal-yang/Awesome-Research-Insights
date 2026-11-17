@@ -704,7 +704,6 @@
 - <a id="burgin26a-theory-statistics"></a>[Beyond Structural Symmetries: Linear Mode Connectivity via Neuron Identifiability](../conferences/icml-2026/cards/0301-0400.md#paper-burgin26a)
 - <a id="burla26a-theory-statistics"></a>[All ERMs Can Fail in Stochastic Convex Optimization Lower Bounds in Linear Dimension](../conferences/icml-2026/cards/0301-0400.md#paper-burla26a)
 - <a id="byun26b-theory-statistics"></a>[Robust Human-AI Complementarity under Uncertainty](../conferences/icml-2026/cards/0301-0400.md#paper-byun26b)
-- <a id="cai26e-theory-statistics"></a>[Privacy-Aware Data Integration for Enhanced Quantile Inference under Heterogeneity](../conferences/icml-2026/cards/0301-0400.md#paper-cai26e)
 - <a id="cai26l-theory-statistics"></a>[Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements](../conferences/icml-2026/cards/0301-0400.md#paper-cai26l)
 - <a id="cao26b-theory-statistics"></a>[On the Robustness of Langevin Dynamics to Score Function Error](../conferences/icml-2026/cards/0301-0400.md#paper-cao26b)
 - <a id="cao26l-theory-statistics"></a>[A Control-Theoretic View of Mamba on Stability and Robustness](../conferences/icml-2026/cards/0301-0400.md#paper-cao26l)

@@ -231,7 +231,6 @@
 - [权重空间对齐](../conferences/icml-2026/cards/0301-0400.md#burgin26a-theory-statistics) · Beyond Structural Symmetries: Linear Mode Connectivity via Neuron Identifiability
 - [经验风险最小化](../conferences/icml-2026/cards/0301-0400.md#burla26a-theory-statistics) · All ERMs Can Fail in Stochastic Convex Optimization Lower Bounds in Linear Dimension
 - [人机预测互补](../conferences/icml-2026/cards/0301-0400.md#byun26b-theory-statistics) · Robust Human-AI Complementarity under Uncertainty
-- [隐私约束下的分位数估计](../conferences/icml-2026/cards/0301-0400.md#cai26e-theory-statistics) · Privacy-Aware Data Integration for Enhanced Quantile Inference under Heterogeneity
 - [稀疏尖峰恢复](../conferences/icml-2026/cards/0301-0400.md#cai26l-theory-statistics) · Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements
 - [分数误差与 Langevin 采样](../conferences/icml-2026/cards/0301-0400.md#cao26b-theory-statistics) · On the Robustness of Langevin Dynamics to Score Function Error
 - [选择性状态空间稳定性](../conferences/icml-2026/cards/0301-0400.md#cao26l-theory-statistics) · A Control-Theoretic View of Mamba on Stability and Robustness

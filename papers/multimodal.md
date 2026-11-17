@@ -390,8 +390,6 @@
 - <a id="azulay26a-evaluation"></a>[Jailbreaking Vision-Language Models Through the Visual Modality](../conferences/icml-2026/cards/0101-0200.md#paper-azulay26a)
 - <a id="bouguerra26a-evaluation"></a>[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](../conferences/icml-2026/cards/0301-0400.md#paper-bouguerra26a)
 - <a id="cao26i-evaluation"></a>[UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](../conferences/icml-2026/cards/0301-0400.md#paper-cao26i)
-- <a id="cao26v-evaluation"></a>[T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](../conferences/icml-2026/cards/0401-0500.md#paper-cao26v)
-- <a id="chen26ad-evaluation"></a>[FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](../conferences/icml-2026/cards/0401-0500.md#paper-chen26ad)
 - <a id="chen26dh-evaluation"></a>[MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](../conferences/icml-2026/cards/0501-0600.md#paper-chen26dh)
 - <a id="chen26dl-evaluation"></a>[DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs](../conferences/icml-2026/cards/0501-0600.md#paper-chen26dl)
 - <a id="chen26en-evaluation"></a>[OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](../conferences/icml-2026/cards/0601-0700.md#paper-chen26en)

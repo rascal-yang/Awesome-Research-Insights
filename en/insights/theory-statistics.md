@@ -231,7 +231,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Beyond Structural Symmetries: Linear Mode Connectivity via Neuron Identifiability](../../conferences/icml-2026/cards/0301-0400.md#burgin26a-theory-statistics) · 中文
 - [All ERMs Can Fail in Stochastic Convex Optimization Lower Bounds in Linear Dimension](../../conferences/icml-2026/cards/0301-0400.md#burla26a-theory-statistics) · 中文
 - [Robust Human-AI Complementarity under Uncertainty](../../conferences/icml-2026/cards/0301-0400.md#byun26b-theory-statistics) · 中文
-- [Privacy-Aware Data Integration for Enhanced Quantile Inference under Heterogeneity](../../conferences/icml-2026/cards/0301-0400.md#cai26e-theory-statistics) · 中文
 - [Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements](../../conferences/icml-2026/cards/0301-0400.md#cai26l-theory-statistics) · 中文
 - [On the Robustness of Langevin Dynamics to Score Function Error](../../conferences/icml-2026/cards/0301-0400.md#cao26b-theory-statistics) · 中文
 - [A Control-Theoretic View of Mamba on Stability and Robustness](../../conferences/icml-2026/cards/0301-0400.md#cao26l-theory-statistics) · 中文

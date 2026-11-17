@@ -22,7 +22,6 @@
 - [GUI Agent 错误恢复](../conferences/icml-2026/cards/0301-0400.md#bu26b-data-strategies) · Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents
 - [网页 Agent 训练环境](../conferences/icml-2026/cards/0401-0500.md#chae26a-data-strategies) · Safe and Scalable Web Agent Learning via Recreated Websites
 - [开放预测训练数据](../conferences/icml-2026/cards/0401-0500.md#chandak26a-data-strategies) · Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters
-- [威胁情报驱动的流量数据构造](../conferences/icml-2026/cards/0501-0600.md#chen26cb-data-strategies) · Threat2Traffic: Multi-Agent Environment Synthesis for Malware Traffic Generation from Threat Intelligence
 - [语料域变动后的混合比例复用](../conferences/icml-2026/cards/0501-0600.md#chen26dd-data-strategies) · Olmix: A Framework for Data Mixing Throughout LM Development
 - [任务敏感注意力头筛样](../conferences/icml-2026/cards/0601-0700.md#chen26gi-data-strategies) · From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment
 - [从工具执行轨迹反推训练任务](../conferences/icml-2026/cards/0601-0700.md#chen26gj-data-strategies) · DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use
