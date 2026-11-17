@@ -462,7 +462,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lu26ah-theory-statistics"></a>[Conditionally Site-Independent Neural Evolution of Antibody Sequences](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ah)
 - <a id="ma26j-theory-statistics"></a>[DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26j)
 - <a id="men26a-theory-statistics"></a>[FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#paper-men26a)
-- <a id="montes26a-theory-statistics"></a>[Reduction of Probabilistic Chemical Reaction Networks](../../conferences/icml-2026/cards/3301-3400.md#paper-montes26a)
 - <a id="queiruga26a-theory-statistics"></a>[Interpretability and Generalization Bounds for Learning Spatial Physics](../../conferences/icml-2026/cards/3701-3800.md#paper-queiruga26a)
 - <a id="salehkaleybar26a-theory-statistics"></a>[One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../../conferences/icml-2026/cards/3901-4000.md#paper-salehkaleybar26a)
 <!-- classification:end -->

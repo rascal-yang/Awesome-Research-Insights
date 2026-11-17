@@ -631,7 +631,6 @@
 - [用序列条件突变率近似抗体逐步演化](../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · Conditionally Site-Independent Neural Evolution of Antibody Sequences
 - [双重优化并行拟合纵向处理的各时点效应](../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · DeepBlip: Estimating Conditional Average Treatment Effects Over Time
 - [右删失生存分位](../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival
-- [先约简因子图再编译化学反应](../conferences/icml-2026/cards/3301-3400.md#montes26a-theory-statistics) · Reduction of Probabilistic Chemical Reaction Networks
 - [空间物理学习的函数空间外推](../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · Interpretability and Generalization Bounds for Learning Spatial Physics
 - [用每个强连通分量一次的干预恢复线性随机动力学](../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State
 <!-- classification:end -->

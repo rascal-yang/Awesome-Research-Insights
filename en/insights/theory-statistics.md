@@ -631,7 +631,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Conditionally Site-Independent Neural Evolution of Antibody Sequences](../../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · 中文
 - [DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · 中文
 - [FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · 中文
-- [Reduction of Probabilistic Chemical Reaction Networks](../../conferences/icml-2026/cards/3301-3400.md#montes26a-theory-statistics) · 中文
 - [Interpretability and Generalization Bounds for Learning Spatial Physics](../../conferences/icml-2026/cards/3701-3800.md#queiruga26a-theory-statistics) · 中文
 - [One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · 中文
 <!-- classification:end -->
