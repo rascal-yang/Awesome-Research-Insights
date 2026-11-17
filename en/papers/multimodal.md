@@ -459,6 +459,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="sesmat26a-evaluation"></a>[Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../../conferences/icml-2026/cards/4001-4100.md#paper-sesmat26a)
 - <a id="she26a-evaluation"></a>[Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../../conferences/icml-2026/cards/4001-4100.md#paper-she26a)
 - <a id="shi26ad-evaluation"></a>[Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26ad)
+- <a id="song26s-evaluation"></a>[VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge](../../conferences/icml-2026/cards/4201-4300.md#paper-song26s)
 
 <a id="by-theory-statistics"></a>
 

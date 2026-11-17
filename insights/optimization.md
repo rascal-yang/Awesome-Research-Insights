@@ -386,6 +386,7 @@
 - [分解bandit协调昂贵设计搜索](../conferences/icml-2026/cards/4101-4200.md#singh26h-optimization) · Divide and Learn: Multi-Objective Combinatorial Optimization at Scale
 - [锚定双时间尺度乐观更新](../conferences/icml-2026/cards/4101-4200.md#sohrabi26a-optimization) · Accelerated and Stable Convergence with Anchored Generalized Optimistic Method
 - [解耦谱方向与方差适应](../conferences/icml-2026/cards/4201-4300.md#song26a-optimization) · Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization
+- [近似局部GW与残余边际](../conferences/icml-2026/cards/4201-4300.md#song26h-optimization) · LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent
 
 <a id="by-graph-and-recommendation"></a>
 

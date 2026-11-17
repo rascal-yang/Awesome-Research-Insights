@@ -95,6 +95,8 @@
 - [在视觉强化学习中从部分帧预测回合回报](../conferences/icml-2026/cards/3001-3100.md#lu26al-loss-functions) · Return-Critic: Bridging Goal Discrepancy for Efficient Visual Reinforcement Learning
 - [用对数重要性比的高斯权重复用旧轨迹](../conferences/icml-2026/cards/3001-3100.md#lu26at-loss-functions) · GIPO: Gaussian Importance Sampling Policy Optimization
 - [混合专家谱可塑性](../conferences/icml-2026/cards/3001-3100.md#luo26ah-loss-functions) · SPHERE: Mitigating the Loss of Spectral Plasticity in Mixture-of-Experts for Deep Reinforcement Learning
+- [高UTD非中心冗余正则](../conferences/icml-2026/cards/4201-4300.md#song26j-loss-functions) · R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning
+- [chunk价值引导单步critic](../conferences/icml-2026/cards/4201-4300.md#song26t-loss-functions) · Chunk-Guided Q-Learning
 
 <a id="by-robotics"></a>
 

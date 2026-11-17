@@ -255,6 +255,7 @@
 - <a id="rinaldi26a-training-strategies"></a>[Transporting Task Vectors across Different Architectures without Training](../conferences/icml-2026/cards/3801-3900.md#paper-rinaldi26a)
 - <a id="safarov26a-training-strategies"></a>[Memory-Distilled Selection for Noise-Robust Anomaly Detection](../conferences/icml-2026/cards/3901-4000.md#paper-safarov26a)
 - <a id="selikhanovych26a-training-strategies"></a>[One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](../conferences/icml-2026/cards/3901-4000.md#paper-selikhanovych26a)
+- <a id="song26u-training-strategies"></a>[PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](../conferences/icml-2026/cards/4201-4300.md#paper-song26u)
 
 <a id="by-data-strategies"></a>
 
@@ -378,6 +379,7 @@
 - <a id="shang26d-inference"></a>[Fast and Scalable Analytical Diffusion](../conferences/icml-2026/cards/4001-4100.md#paper-shang26d)
 - <a id="shin26b-inference"></a>[Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping](../conferences/icml-2026/cards/4101-4200.md#paper-shin26b)
 - <a id="so26a-inference"></a>[Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation](../conferences/icml-2026/cards/4101-4200.md#paper-so26a)
+- <a id="song26k-inference"></a>[GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](../conferences/icml-2026/cards/4201-4300.md#paper-song26k)
 
 <a id="by-representation-learning"></a>
 
@@ -429,6 +431,7 @@
 - <a id="qiu26d-representation-learning"></a>[Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26d)
 - <a id="shi26m-representation-learning"></a>[Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes](../conferences/icml-2026/cards/4101-4200.md#paper-shi26m)
 - <a id="shokrolahi26a-representation-learning"></a>[Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation](../conferences/icml-2026/cards/4101-4200.md#paper-shokrolahi26a)
+- <a id="song26i-representation-learning"></a>[Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes](../conferences/icml-2026/cards/4201-4300.md#paper-song26i)
 
 <a id="by-evaluation"></a>
 

@@ -58,6 +58,7 @@
 - [用信息形式的并行卡尔曼滤波保存序列置信状态](../conferences/icml-2026/cards/4001-4100.md#shaj26a-architecture) · Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking
 - [把知识缺口与报告提纲分图维护](../conferences/icml-2026/cards/4101-4200.md#shi26n-architecture) · A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research
 - [把原子专家按专家重排执行](../conferences/icml-2026/cards/4101-4200.md#shi26q-architecture) · OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale
+- [保持因果性的动态旧key](../conferences/icml-2026/cards/4201-4300.md#song26y-architecture) · Causal Attention with Lookahead Keys
 
 <a id="by-computer-vision"></a>
 
@@ -172,6 +173,7 @@
 - [无投影多面体流匹配](../conferences/icml-2026/cards/3101-3200.md#ma26ar-architecture) · PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update
 - [行动生成前预测分离的驾驶动力学](../conferences/icml-2026/cards/4001-4100.md#shang26f-architecture) · DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving
 - [文本推理视觉子目标分专家](../conferences/icml-2026/cards/4101-4200.md#shou26a-architecture) · HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning
+- [预测趋势与历史细节分源](../conferences/icml-2026/cards/4201-4300.md#song26q-architecture) · TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction
 
 <a id="by-multimodal"></a>
 

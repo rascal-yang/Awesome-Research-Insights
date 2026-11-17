@@ -164,6 +164,8 @@
 - [分别学习是否写记忆和是否继续读](../conferences/icml-2026/cards/4001-4100.md#sheng26b-reinforcement-learning) · When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning
 - [反馈按策略学习效果优化](../conferences/icml-2026/cards/4101-4200.md#singh26c-reinforcement-learning) · RL with Learnable Textual Feedback: A Bilevel Approach
 - [反馈蒸馏的首轮奖励基线](../conferences/icml-2026/cards/4201-4300.md#song26c-reinforcement-learning) · Expanding the Capabilities of Reinforcement Learning via Text Feedback
+- [逐渐撤除训练专家](../conferences/icml-2026/cards/4201-4300.md#song26p-reinforcement-learning) · EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance
+- [组间偏好训练点式奖励](../conferences/icml-2026/cards/4201-4300.md#song26aa-reinforcement-learning) · IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models
 
 <a id="by-computer-vision"></a>
 

@@ -294,6 +294,8 @@
 - [steering副作用须跨维度测量](../conferences/icml-2026/cards/4101-4200.md#siu26a-evaluation) · SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives
 - [以可迁移后果验证推理](../conferences/icml-2026/cards/4201-4300.md#son26a-evaluation) · Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math
 - [文本智能体赋能估计及失败边界](../conferences/icml-2026/cards/4201-4300.md#song26g-evaluation) · Estimating the Empowerment of Language Model Agents
+- [拒答率与执行后果分离](../conferences/icml-2026/cards/4201-4300.md#song26v-evaluation) · ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm
+- [优化器与模拟器非对称校验](../conferences/icml-2026/cards/4201-4300.md#song26z-evaluation) · NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents
 
 <a id="by-computer-vision"></a>
 
@@ -482,6 +484,7 @@
 - [沿 Flow Matching 插值路径定位训练成员信号](../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path
 - [用唇形与头部姿态的协调关系检测及归因伪造](../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses
 - [换图检验视觉复查](../conferences/icml-2026/cards/4101-4200.md#shi26ad-evaluation) · Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination
+- [知识轻视觉推理与计算收益](../conferences/icml-2026/cards/4201-4300.md#song26s-evaluation) · VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge
 
 <a id="by-ml-foundations"></a>
 

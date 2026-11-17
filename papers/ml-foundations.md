@@ -395,6 +395,7 @@
 - <a id="singh26h-optimization"></a>[Divide and Learn: Multi-Objective Combinatorial Optimization at Scale](../conferences/icml-2026/cards/4101-4200.md#paper-singh26h)
 - <a id="sohrabi26a-optimization"></a>[Accelerated and Stable Convergence with Anchored Generalized Optimistic Method](../conferences/icml-2026/cards/4101-4200.md#paper-sohrabi26a)
 - <a id="song26a-optimization"></a>[Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization](../conferences/icml-2026/cards/4201-4300.md#paper-song26a)
+- <a id="song26h-optimization"></a>[LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent](../conferences/icml-2026/cards/4201-4300.md#paper-song26h)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -473,6 +474,7 @@
 - <a id="shlenskii26a-training-strategies"></a>[Overclocking Electrostatic Generative Models](../conferences/icml-2026/cards/4101-4200.md#paper-shlenskii26a)
 - <a id="simon26a-training-strategies"></a>[On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](../conferences/icml-2026/cards/4101-4200.md#paper-simon26a)
 - <a id="sommariva26a-training-strategies"></a>[Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic](../conferences/icml-2026/cards/4101-4200.md#paper-sommariva26a)
+- <a id="song26m-training-strategies"></a>[MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](../conferences/icml-2026/cards/4201-4300.md#paper-song26m)
 
 <a id="by-data-strategies"></a>
 

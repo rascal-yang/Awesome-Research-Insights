@@ -397,6 +397,7 @@
 - [依噪声分配检索预算的解析扩散](../conferences/icml-2026/cards/4001-4100.md#shang26d-inference) · Fast and Scalable Analytical Diffusion
 - [单边曲率的扩散逆问题校正](../conferences/icml-2026/cards/4101-4200.md#shin26b-inference) · Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping
 - [耦合自草稿采样](../conferences/icml-2026/cards/4101-4200.md#so26a-inference) · Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation
+- [目标预测熵选视角](../conferences/icml-2026/cards/4201-4300.md#song26k-inference) · GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction
 
 <a id="by-nlp"></a>
 

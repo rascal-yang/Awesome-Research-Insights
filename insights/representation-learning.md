@@ -78,6 +78,7 @@
 - [在抗失真特征域用编码式水印分离比特](../conferences/icml-2026/cards/3701-3800.md#qiu26d-representation-learning) · Revisiting Coding-Based Approaches to Overcome the Curse of Dimensionality in Learning-Based Watermarking
 - [只蒸馏跨衣着身份子空间](../conferences/icml-2026/cards/4101-4200.md#shi26m-representation-learning) · Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes
 - [冻结扩散模型的概念对齐](../conferences/icml-2026/cards/4101-4200.md#shokrolahi26a-representation-learning) · Responsible Text-to-Image Diffusion: Interpretable and Linearly Controllable Semantics for Fair and Safe Generation
+- [运动对齐高斯协方差](../conferences/icml-2026/cards/4201-4300.md#song26i-representation-learning) · Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes
 
 <a id="by-nlp"></a>
 

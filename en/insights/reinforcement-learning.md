@@ -164,6 +164,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](../../conferences/icml-2026/cards/4001-4100.md#sheng26b-reinforcement-learning) · 中文
 - [RL with Learnable Textual Feedback: A Bilevel Approach](../../conferences/icml-2026/cards/4101-4200.md#singh26c-reinforcement-learning) · 中文
 - [Expanding the Capabilities of Reinforcement Learning via Text Feedback](../../conferences/icml-2026/cards/4201-4300.md#song26c-reinforcement-learning) · 中文
+- [EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance](../../conferences/icml-2026/cards/4201-4300.md#song26p-reinforcement-learning) · 中文
+- [IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models](../../conferences/icml-2026/cards/4201-4300.md#song26aa-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -294,6 +294,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives](../../conferences/icml-2026/cards/4101-4200.md#siu26a-evaluation) · 中文
 - [Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](../../conferences/icml-2026/cards/4201-4300.md#son26a-evaluation) · 中文
 - [Estimating the Empowerment of Language Model Agents](../../conferences/icml-2026/cards/4201-4300.md#song26g-evaluation) · 中文
+- [ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm](../../conferences/icml-2026/cards/4201-4300.md#song26v-evaluation) · 中文
+- [NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../../conferences/icml-2026/cards/4201-4300.md#song26z-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -482,6 +484,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Where Flow Matching Leaks: Characterising the Membership Signals Along the Interpolation Path](../../conferences/icml-2026/cards/4001-4100.md#sesmat26a-evaluation) · 中文
 - [Ariadne’s Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses](../../conferences/icml-2026/cards/4001-4100.md#she26a-evaluation) · 中文
 - [Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](../../conferences/icml-2026/cards/4101-4200.md#shi26ad-evaluation) · 中文
+- [VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge](../../conferences/icml-2026/cards/4201-4300.md#song26s-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

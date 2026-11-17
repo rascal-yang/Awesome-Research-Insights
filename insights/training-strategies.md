@@ -194,6 +194,7 @@
 - [按激活几何跨宽度迁移任务向量](../conferences/icml-2026/cards/3801-3900.md#rinaldi26a-training-strategies) · Transporting Task Vectors across Different Architectures without Training
 - [用稀疏记忆打分再渐进筛污染](../conferences/icml-2026/cards/3901-4000.md#safarov26a-training-strategies) · Memory-Distilled Selection for Noise-Robust Anomaly Detection
 - [残差移位扩散的单步超分蒸馏](../conferences/icml-2026/cards/3901-4000.md#selikhanovych26a-training-strategies) · One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation
+- [球面噪声渐变与立方体时序校正](../conferences/icml-2026/cards/4201-4300.md#song26u-training-strategies) · PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation
 
 <a id="by-nlp"></a>
 
@@ -359,6 +360,7 @@
 - [有限维泊松场蒸馏](../conferences/icml-2026/cards/4101-4200.md#shlenskii26a-training-strategies) · Overclocking Electrostatic Generative Models
 - [按均值偏移与有效秩诊断SAE特征死亡](../conferences/icml-2026/cards/4101-4200.md#simon26a-training-strategies) · On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders
 - [路径蒸馏任务算术](../conferences/icml-2026/cards/4101-4200.md#sommariva26a-training-strategies) · Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic
+- [子图消息复用](../conferences/icml-2026/cards/4201-4300.md#song26m-training-strategies) · MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction
 
 <a id="by-graph-and-recommendation"></a>
 

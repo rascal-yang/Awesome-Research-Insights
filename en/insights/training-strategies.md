@@ -194,6 +194,7 @@ Training schedules, curricula, and task or stage composition.
 - [Transporting Task Vectors across Different Architectures without Training](../../conferences/icml-2026/cards/3801-3900.md#rinaldi26a-training-strategies) · 中文
 - [Memory-Distilled Selection for Noise-Robust Anomaly Detection](../../conferences/icml-2026/cards/3901-4000.md#safarov26a-training-strategies) · 中文
 - [One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](../../conferences/icml-2026/cards/3901-4000.md#selikhanovych26a-training-strategies) · 中文
+- [PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](../../conferences/icml-2026/cards/4201-4300.md#song26u-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -359,6 +360,7 @@ Training schedules, curricula, and task or stage composition.
 - [Overclocking Electrostatic Generative Models](../../conferences/icml-2026/cards/4101-4200.md#shlenskii26a-training-strategies) · 中文
 - [On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](../../conferences/icml-2026/cards/4101-4200.md#simon26a-training-strategies) · 中文
 - [Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic](../../conferences/icml-2026/cards/4101-4200.md#sommariva26a-training-strategies) · 中文
+- [MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](../../conferences/icml-2026/cards/4201-4300.md#song26m-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

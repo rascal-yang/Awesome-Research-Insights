@@ -58,6 +58,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shaj26a-architecture"></a>[Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking](../../conferences/icml-2026/cards/4001-4100.md#paper-shaj26a)
 - <a id="shi26n-architecture"></a>[A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26n)
 - <a id="shi26q-architecture"></a>[OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26q)
+- <a id="song26y-architecture"></a>[Causal Attention with Lookahead Keys](../../conferences/icml-2026/cards/4201-4300.md#paper-song26y)
 
 <a id="by-modules"></a>
 
@@ -378,6 +379,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="sheng26b-reinforcement-learning"></a>[When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](../../conferences/icml-2026/cards/4001-4100.md#paper-sheng26b)
 - <a id="singh26c-reinforcement-learning"></a>[RL with Learnable Textual Feedback: A Bilevel Approach](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26c)
 - <a id="song26c-reinforcement-learning"></a>[Expanding the Capabilities of Reinforcement Learning via Text Feedback](../../conferences/icml-2026/cards/4201-4300.md#paper-song26c)
+- <a id="song26p-reinforcement-learning"></a>[EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance](../../conferences/icml-2026/cards/4201-4300.md#paper-song26p)
+- <a id="song26aa-reinforcement-learning"></a>[IRPM: Intergroup Relative Preference Modeling for Pointwise Generative Reward Models](../../conferences/icml-2026/cards/4201-4300.md#paper-song26aa)
 
 <a id="by-training-strategies"></a>
 
@@ -1157,6 +1160,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="siu26a-evaluation"></a>[SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives](../../conferences/icml-2026/cards/4101-4200.md#paper-siu26a)
 - <a id="son26a-evaluation"></a>[Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](../../conferences/icml-2026/cards/4201-4300.md#paper-son26a)
 - <a id="song26g-evaluation"></a>[Estimating the Empowerment of Language Model Agents](../../conferences/icml-2026/cards/4201-4300.md#paper-song26g)
+- <a id="song26v-evaluation"></a>[ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm](../../conferences/icml-2026/cards/4201-4300.md#paper-song26v)
+- <a id="song26z-evaluation"></a>[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../../conferences/icml-2026/cards/4201-4300.md#paper-song26z)
 
 <a id="by-theory-statistics"></a>
 

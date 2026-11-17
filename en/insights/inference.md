@@ -397,6 +397,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Fast and Scalable Analytical Diffusion](../../conferences/icml-2026/cards/4001-4100.md#shang26d-inference) · 中文
 - [Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping](../../conferences/icml-2026/cards/4101-4200.md#shin26b-inference) · 中文
 - [Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation](../../conferences/icml-2026/cards/4101-4200.md#so26a-inference) · 中文
+- [GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#song26k-inference) · 中文
 
 <a id="by-nlp"></a>
 

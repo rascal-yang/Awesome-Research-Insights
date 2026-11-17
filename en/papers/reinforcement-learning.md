@@ -41,6 +41,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lu26al-loss-functions"></a>[Return-Critic: Bridging Goal Discrepancy for Efficient Visual Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26al)
 - <a id="lu26at-loss-functions"></a>[GIPO: Gaussian Importance Sampling Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26at)
 - <a id="luo26ah-loss-functions"></a>[SPHERE: Mitigating the Loss of Spectral Plasticity in Mixture-of-Experts for Deep Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ah)
+- <a id="song26j-loss-functions"></a>[R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning](../../conferences/icml-2026/cards/4201-4300.md#paper-song26j)
+- <a id="song26t-loss-functions"></a>[Chunk-Guided Q-Learning](../../conferences/icml-2026/cards/4201-4300.md#paper-song26t)
 
 <a id="by-optimization"></a>
 
