@@ -46,6 +46,7 @@
 | <a id="feng26i-modules"></a>[ExpWeaver: LLM Agents Learn from Experience via Latent RAG](https://proceedings.mlr.press/v306/feng26i.html) | 逐解码步的潜空间经验检索 | 用模型自身隐状态编码经验，每个解码步以当前末层隐状态检索相似经验。用可学习查询对取回向量做交叉注意力汇聚，再经门控残差并入当前状态，使经验影响生成而无需扩展文本上下文。 |
 | <a id="feng26v-modules"></a>[DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts](https://proceedings.mlr.press/v306/feng26v.html) | MoE 专家输出的有向图聚合 | 将路由选出的专家输出作为初始节点，逐层学习各节点间的有向连接并汇聚邻接表示。在固定专家选择预算下，单个 MoE 层可以形成多步组合路径。 |
 | <a id="gao26y-modules"></a>[Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models](https://proceedings.mlr.press/v306/gao26y.html) | Softplus 注意力的两阶段重加权 | 用随序列长度调整的余弦分数经 Softplus 和 L1 归一化获得注意力，再通过重加权强化显著项。归一化保留平滑梯度，重加权则缓解长序列中权重摊薄的问题。 |
+| <a id="goncalves26a-modules"></a>[AdaSplash-2: Faster Differentiable Sparse Attention](https://proceedings.mlr.press/v306/goncalves26a.html) | 稀疏 entmax 的直方图阈值初始化 | 在 GPU 片上 SRAM 为当前注意力分数建立粗直方图，通过分箱近似初始化 entmax 阈值。随后用真实分数做少量迭代并跳过全零块，常见设置下只需一到两次阈值求解迭代。 |
 
 <a id="by-loss-functions"></a>
 
@@ -63,6 +64,7 @@
 | <a id="fan26j-loss-functions"></a>[Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs](https://proceedings.mlr.press/v306/fan26j.html) | 按目标词元概率调节微调梯度 | 在负对数似然与概率加权的更新之间调节梯度随目标词元概率的曲线。这样可削弱低概率噪声词元的过大更新，同时为真正难学的新词元保留监督信号。 |
 | <a id="feng26z-loss-functions"></a>[Self-correcting for Debiasing Large Language Models](https://proceedings.mlr.press/v306/feng26z.html) | 推理链去偏的后缀优化 | 以偏见首次出现的位置为分界，固定之前的有效前缀，只优化纠正与有偏后缀的偏好间隔，并约束批内间隔分布，减少训练信号集中在容易修正的样本上。 |
 | <a id="fu26v-loss-functions"></a>[Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse](https://proceedings.mlr.press/v306/fu26v.html) | 注意力汇的门控与负载均衡 | 利用注意力汇对应的隐式门控或显式门控度量各头的重要性，从头训练时惩罚同层重要性的变异系数平方。该辅助项减轻生成长期依赖少数注意力头的现象。 |
+| <a id="gu26o-loss-functions"></a>[From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models](https://proceedings.mlr.press/v306/gu26o.html) | 拆分语言模型的双端泄漏防护 | 对传给云端的中间表示用互信息正则减少输入信息泄漏，同时用参数距离正则降低服务端尾部被近似补全的风险。先本地预热适配器再联合训练，在所测反演威胁下兼顾任务性能。 |
 
 <a id="by-optimization"></a>
 
@@ -88,6 +90,8 @@
 | <a id="fang26k-optimization"></a>[LOZO+: Provably Efficient Zeroth-Order Fine-Tuning via Greedy Low-Rank Subspace Selection](https://proceedings.mlr.press/v306/fang26k.html) | 零阶微调的贪心子空间筛选 | 在低秩更新的候选方向中，逐一保留单个方向的更新并用前向损失评估其贡献。以自适应阈值保留能有效降损的方向，让后续零阶更新集中于更有效的子空间。 |
 | <a id="feng26l-optimization"></a>[Convex Optimization for Alignment and Preference Learning on a Single GPU](https://proceedings.mlr.press/v306/feng26l.html) | 冻结主干的凸偏好对齐 | 冻结预训练主干与偏好头第一层，只在第二层参数上优化带固定间隔的成对偏好目标。此时可用凸优化求解轻量偏好头，目标直接使用偏好回答与非偏好回答在同一模型下的对数概率比，无需加载参考模型。 |
 | <a id="feng26y-optimization"></a>[Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization](https://proceedings.mlr.press/v306/feng26y.html) | 多模型红队搜索的嵌入动量 | 在连续词元嵌入中累积多个代理模型的梯度动量，并将动量投影回词表用于挑选离散候选，使 Nesterov 前瞻更新可用于测试跨模型越狱的可迁移性。 |
+| <a id="glentis26a-optimization"></a>[Memory-Efficient LLM Pretraining via Minimalist Optimizer Design](https://proceedings.mlr.press/v306/glentis26a.html) | 逐列归一化与末层动量 | 按输出单元逐列归一化权重矩阵梯度，只给梯度波动较大的输出层维护一阶动量。论文的语言模型预训练实验中，这一组合用较少优化器状态达到与 Adam 相当或更好的表现。 |
+| <a id="gordon26b-optimization"></a>[LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs](https://proceedings.mlr.press/v306/gordon26b.html) | 微缩放量化的可逆仿射校准 | 针对 MX 格式的分块尺度，在校准时学习可逆仿射变换，兼顾激活分布和量化块误差。能折叠的变换吸收入相邻权重，可在保留推理效率的同时减少块内离群值的影响。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -136,6 +140,8 @@
 | <a id="gai26b-reinforcement-learning"></a>[Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling](https://proceedings.mlr.press/v306/gai26b.html) | 正确与错误轨迹驱动的熵调度 | 分别求正确组和错误组内的平均负对数概率，以两者之差衡量熵差。熵正则系数随该差值动态调整，更新时停止对系数反传，使训练能按当前策略分布改变熵的调节方向。 |
 | <a id="gao26f-reinforcement-learning"></a>[Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization](https://proceedings.mlr.press/v306/gao26f.html) | 由终局标签学习前缀价值 | 用一次采样的最终正确性监督该轨迹的每个前缀，估计从各前缀继续生成后成功的概率。相邻前缀价值的差作为局部反馈，可同时给实际采样和高概率备选 token 分配优势。 |
 | <a id="gao26aj-reinforcement-learning"></a>[Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue](https://proceedings.mlr.press/v306/gao26aj.html) | 客服多轮决策的成本优势估计 | 以最终用户满意度、逐轮过程奖励和高成本动作惩罚共同计算组内优势，再用 PID 拉格朗日控制器动态调节惩罚，使策略按全局成本约束权衡补偿等动作。 |
+| <a id="goel26b-reinforcement-learning"></a>[Training AI Co-Scientists Using Rubric Rewards](https://proceedings.mlr.press/v306/goel26b.html) | 从论文提取研究计划的评分奖励 | 把论文中的关键洞见反推成带约束的研究目标，同时构造目标专属评分条目和参考方案。让初始策略的冻结副本按该量规给生成计划打分，为缺少可执行反馈的研究规划提供强化学习奖励。 |
+| <a id="gong26d-reinforcement-learning"></a>[Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models](https://proceedings.mlr.press/v306/gong26d.html) | 黑盒提示优化的模仿到探索课程 | 早期在 PPO 中提高对参考提示的模仿权重，随后指数衰减该权重并增加创新项。创新分按新提示与历史提示的最大相似度反向计算，逐步把查询预算用于探索尚未覆盖的可读提示。 |
 
 <a id="by-training-strategies"></a>
 
@@ -177,6 +183,7 @@
 | <a id="feng26f-training-strategies"></a>[Leveraging Machine Unlearning for Cost-Efficient Preference Alignment](https://proceedings.mlr.press/v306/feng26f.html) | 偏好对齐中的负例遗忘权重 | 内层按权重对负例执行遗忘，并用正则约束模型改动。外层依据遗忘后的对齐表现更新负例权重并鼓励稀疏，集中处理能改善目标偏好的样本。 |
 | <a id="fu26q-training-strategies"></a>[Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://proceedings.mlr.press/v306/fu26q.html) | 自回归转扩散的位置相关掩码 | 用块内双向、块间因果的注意力继续预训练，以保留原模型的权重结构。低噪声阶段优先遮盖块尾词元，使训练掩码贴近推理后期仍待生成的位置分布，并支持块间 KV 缓存复用。 |
 | <a id="gao26d-training-strategies"></a>[One-shot Entropy Minimization for Language Model Reasoning](https://proceedings.mlr.press/v306/gao26d.html) | 单样本自生成熵最小化 | 让模型从一个无标签提示生成回答，再只对生成部分的逐位置词表分布最小化平均熵，无需答案或奖励模型。论文在多类推理测试观察到少量梯度步后的增益，同时高概率 token 的 logits 更容易被抬升。 |
+| <a id="ghadia26a-training-strategies"></a>[Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](https://proceedings.mlr.press/v306/ghadia26a.html) | 上下文并行的按头显存复用 | 把注意力的投影、全互换和计算按少数头分阶段执行，每完成一块便复用其 QKV 和通信缓冲区。分组查询注意力下可重排头的处理顺序，避免对共享的键值头重复通信。 |
 
 <a id="by-data-strategies"></a>
 
@@ -280,6 +287,16 @@
 | <a id="gao26a-inference"></a>[EntroKV: Entropy-Guided Dynamic Budget Allocation for KV-Cache Compression](https://proceedings.mlr.press/v306/gao26a.html) | 按注意力熵分配 KV 保留预算 | 复用后端观测窗口中已有的注意力权重，以序列长度的对数归一化各头的熵。压缩前端混合统一配额与该头的归一化熵，给注意力分散的头保留更多条目，实际裁剪交给现有后端。 |
 | <a id="gao26m-inference"></a>[DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing](https://proceedings.mlr.press/v306/gao26m.html) | 按生成时延动态划分 GPU | 用考虑注意力访存的屋顶线模型预测每轮耗时，仅在逐词元时延可能超标时把 GPU 的流式多处理器分给预填充和解码，并在一次预填充期间安排多个解码步以维持利用率。 |
 | <a id="gao26u-inference"></a>[Efficient Code Analysis via Graph Representation Learning-Guided Large Language Models](https://proceedings.mlr.press/v306/gao26u.html) | 代码图解释引导恶意行为分析 | 先在跨文件依赖图上用图神经网络识别可疑项目，再优化边和节点掩码找出支撑判断的代码区域，只将关键片段送给语言模型核验行为。 |
+| <a id="geiping26a-inference"></a>[Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models](https://proceedings.mlr.press/v306/geiping26a.html) | 循环深度模型的并行采样 | 每轮采样推进一个新词元，同时并行递归精炼生成前沿上多个位置的隐状态，并冻结达到递归预算的前缀。这样把多个位置的计算重叠起来，可直接用于论文测试的预训练循环模型。 |
+| <a id="geng26a-inference"></a>[RelayCaching: Accelerating LLM Collaboration via Decoding KV Cache Reuse](https://proceedings.mlr.press/v306/geng26a.html) | 跨智能体的解码缓存复用 | 把上游智能体解码生成的 KV 缓存交给下游预填充，先定位对前缀变化敏感的层区间，再按偏差和后缀注意力选择少数词元重算。论文的协同推理实验中，复用率超过 80%，首词元等待时间显著缩短。 |
+| <a id="giannone26b-inference"></a>[Mitigating Premature Exploitation in Particle-based Monte Carlo for Inference-Time Scaling](https://proceedings.mlr.press/v306/giannone26b.html) | 推理粒子的自适应重采样退火 | 用有效粒子数监测推理轨迹的多样性。多样性开始坍缩时提高重采样温度，使权重分布更平坦，并到搜索后期逐步收紧，以减少过程奖励过早排除潜在正确分支。 |
+| <a id="goel26a-inference"></a>[Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing](https://proceedings.mlr.press/v306/goel26a.html) | 用嵌入探针做多 token 投机解码 | 用提示 token 的平均嵌入初始化软掩码，并随新生成 token 做移动平均更新。一次前向读取多个掩码位置的 logits 构造并剪枝候选树，再由原模型并行验证，保留标准解码的输出分布。 |
+| <a id="gong26e-inference"></a>[LLM-Guided Loop Bound Generation for Program Termination Verification](https://proceedings.mlr.press/v306/gong26e.html) | 语言模型猜测与形式验证的循环上界 | 由模型提出循环次数上界，常数上界用展开后检查再迭代一次的路径是否可行，符号上界则通过加计数器和验证归纳不变量来证明。验证器的反例回馈给模型修订，只有经形式验证的上界才用于终止性结论。 |
+| <a id="gong26h-inference"></a>[D-Judge: Disrupting Multi-Turn Jailbreaks using Semantics-Preserving Output Rewriting](https://proceedings.mlr.press/v306/gong26h.html) | 切断多轮越狱的评委反馈 | 在被保护模型输出交给外部评委前做保义改写，用语义相同但危害评分不同的响应对训练改写器。这样能扰动多轮攻击用于改进提示的反馈信号，论文在 HarmBench 上观测到攻击成功率下降。 |
+| <a id="grivas26a-inference"></a>[Fast and Expressive Multi-Byte Prediction with Probabilistic Circuits](https://proceedings.mlr.press/v306/grivas26a.html) | 概率电路联合草拟多字节 | 用概率电路为多个未来字节建联合分布，一次采样保留字节间依赖，再交由共享主干上的单字节自回归头做投机验证，保留原验证模型的生成规则。 |
+| <a id="gu26c-inference"></a>[TileQ: Efficient Low-Rank Quantization of Mixture-of-Experts with 2D Tiling](https://proceedings.mlr.press/v306/gu26c.html) | MoE 二维分块低秩量化 | 将专家权重排成二维块，让同一行共享左低秩因子、同一列共享右低秩因子，并量化各专家残差。推理时合并共享因子的乘法以减少额外访存。 |
+| <a id="gu26h-inference"></a>[OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference](https://proceedings.mlr.press/v306/gu26h.html) | 按注意力输出扰动裁剪 KV 缓存 | 把缓存淘汰视为分层结构化剪枝，分别估算移除键、值或键值对时的注意力输出误差。用含值向量和输出偏差信息的分数代替只看历史注意力的排序，在所测长上下文任务上能保留更多有效条目。 |
+| <a id="gu26k-inference"></a>[Detecting the Semantic Fixed Point: A Geometric Framework for Efficient Inference](https://proceedings.mlr.press/v306/gu26k.html) | 由隐藏更新几何判定提前退出 | 逐层查看隐藏状态更新的归一化范数，以及相邻两次更新的余弦相似度。两项同时显示步长变小、方向稳定时提前退出，避免每层计算整个词表的置信度。 |
 
 <a id="by-representation-learning"></a>
 
@@ -394,6 +411,13 @@
 | <a id="gandhi26a-evaluation"></a>[PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks](https://proceedings.mlr.press/v306/gandhi26a.html) | 幻灯片代理任务的分项评分 | 为每个编辑任务制订评分细则，分别检查内容、布局和格式，对部分完成给分，对多余修改和明显美观问题扣分。该评测根据输出和任务要求给分，兼容图形界面和脚本等不同执行路径。 |
 | <a id="gao26b-evaluation"></a>[The First Drop of Ink: Nonlinear Impact of Distracting Information in Long-Context Reasoning](https://proceedings.mlr.press/v306/gao26b.html) | 长上下文中少量困难干扰的影响 | 固定上下文长度并改变语义相关误导文档的比例，将干扰比例效应与长度效应区别开。在论文的 128K NQ 易题设置中，Qwen2.5-7B-Instruct 的前 10% 干扰就造成了从零到全干扰总准确率降幅的 58%。 |
 | <a id="gao26w-evaluation"></a>[Weight-sparse transformers have interpretable circuits](https://proceedings.mlr.press/v306/gao26w.html) | 权重稀疏模型的电路提取 | 在预训练时约束大量权重为零，再对具体任务学习节点掩码，以平均激活替换被屏蔽的节点。固定目标损失比较所需电路规模，可量化权重稀疏对电路可读性的作用。 |
+| <a id="gonzalez26a-evaluation"></a>[QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs](https://proceedings.mlr.press/v306/gonzalez26a.html) | 大学数学证明的双量规评判 | 对同一批证明，用课程量规和专门检查隐蔽逻辑错误的专家量规分别让模型评分，再与专家分数比较。交叉评测多个解题模型与评委，可分辨评委偏高打分和解题能力本身的差别。 |
+| <a id="gorbatovski26a-evaluation"></a>[The Differences Between Direct Alignment Algorithms are a Blur](https://proceedings.mlr.press/v306/gorbatovski26a.html) | 直接偏好对齐的可控比较 | 将 ORPO 和 ASFT 也改用显式监督微调起点，并统一温度参数搜索。在受控比较中，成对或逐点的排序目标比选用概率比或赔率比更能解释对齐表现的差异。 |
+| <a id="gordon26a-evaluation"></a>[Towards Spectroscopy: Susceptibility Clusters in Language Models](https://proceedings.mlr.press/v306/gordon26a.html) | 词元扰动的成分响应分析 | 以训练检查点附近的局部后验采样估计模型成分观测量与词元损失的协方差，再对响应向量聚类，可找出由类似机制支持、但表面词元可能不同的续写。 |
+| <a id="gorla26a-evaluation"></a>[The Illusion of Generalization in Tabular Language Models](https://proceedings.mlr.press/v306/gorla26a.html) | 表格语言模型的任务级泄漏核查 | 分别与各任务类型的多数类基线比较，并回查训练语料中的表结构和任务。Tabula-8B 的高分主要来自四分位分类，部分高分任务能找到整表重叠或行级去重难以发现的任务级泄漏。 |
+| <a id="gu26g-evaluation"></a>[What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?](https://proceedings.mlr.press/v306/gu26g.html) | 智能体对训练接口的依赖诊断 | 用语义等价且执行行为相同的操作别名改写接口，再用对调顺序的别名对照测智能体是否偏爱原名称。在多种环境中，轨迹监督微调提高了对训练接口的依赖，这种变化在原接口得分中可能看不出来。 |
+| <a id="gu26q-evaluation"></a>[Ekka: Automated Diagnosis of Silent Errors in LLM Inference](https://proceedings.mlr.press/v306/gu26q.html) | 跨推理框架的静默错误定位 | 将待测服务和可信参考实现的中间张量按语义操作对齐，沿执行路径比较数值差异以定位偏离。在只表现为生成质量下滑的错误上，这能把输出症状缩小到具体算子或数据变换。 |
+| <a id="guan26d-evaluation"></a>[TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation](https://proceedings.mlr.press/v306/guan26d.html) | 带执行反馈的 Triton 代码智能体评测 | 把 Triton 代码生成、正确性验证和性能测量封装成统一函数接口，让不同模型和工作流在同一反馈条件下迭代。以算子集、分布外任务和 DSL 扩展分别测量，可区分背题和借助工具修正内核的能力。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -416,4 +440,6 @@
 | <a id="farzaneh26a-theory-statistics"></a>[Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control](https://proceedings.mlr.press/v306/farzaneh26a.html) | 闭环控制的共形反事实生成 | 从已发生的控制轨迹推断潜在外生变量，再在替换用户意图后多次生成候选结果。离线校准接受和停止规则，以给定置信度控制候选集未能包含足够接近真实反事实的结果的概率。 |
 | <a id="frauen26a-theory-statistics"></a>[Nonparametric LLM Evaluation from Preference Data](https://proceedings.mlr.press/v306/frauen26a.html) | 偏好排行榜的去偏估计 | 把包括平局在内的比较写成广义平均排名分数，交叉拟合辅助模型后，用有效影响函数校正分数。这样可借助黑盒评审或其他灵活估计器，同时给榜单差异构造统计区间。 |
 | <a id="gao26al-theory-statistics"></a>[The Cylindrical Representation Hypothesis for Language Model Steering](https://proceedings.mlr.press/v306/gao26al.html) | 语言模型干预的样本特异几何 | 用中心轴刻画目标概念的主要变化，把干预在正交平面上的投影用于解释激活、抑制或延迟等反应。差分向量可定位该平面，但难以确定输入特有的敏感扇区，因而同一方向在不同样本上仍可能效果不一。 |
+| <a id="goldwaser26a-theory-statistics"></a>[Equivalence of Context and Parameter Updates in Modern Transformer Blocks](https://proceedings.mlr.press/v306/goldwaser26a.html) | 上下文效应的精确参数等价 | 对 Gemma 模块的单个输入 token，将移除上下文导致的中间表示变化吸收到 MLP 权重的秩一改动和 RMSNorm 缩放改动中，可复现完整上下文的块输出。改动依赖具体 token，也可逐层构造。 |
+| <a id="gu26l-theory-statistics"></a>[Anytime-Valid Inference for Online Ranking of Large Language Models](https://proceedings.mlr.press/v306/gu26l.html) | 在线语言模型排名的任意时推断 | 把排名拆为成对偏好检验，为每对建立可顺序更新的 e 过程，并按锦标赛结构自适应选择待标注比较。达到证据阈值后可提前停采，论文给出任意监控时点的族错误率控制。 |
 <!-- classification:end -->

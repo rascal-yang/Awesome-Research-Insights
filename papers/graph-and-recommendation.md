@@ -77,6 +77,8 @@
 | <a id="canturk26a-training-strategies"></a>[Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | 图组合优化迁移 | 用计算复杂性中的任务归约关系选择预训练组合，再共享图编码器微调。留一任务评测中，多任务预训练通常加快收敛。 |
 | <a id="chen26cz-training-strategies"></a>[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | 图基础模型的消息微调 | 冻结预训练 GNN，在每层加入少量可学习的消息原型，并动态融合原型和原生消息。逐层改变消息聚合可提高适配能力，论文在其刻画的模型条件下给出了超出输入提示微调上界的构造。 |
 | <a id="gao26ai-training-strategies"></a>[GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | 空间众包的双视图蒸馏 | 以门控融合社交影响、工人任务匹配与邻居信息，并把融合表征蒸馏给单视图模型，帮助种子选择同时考虑邀请能否传播及被邀请者能否完成线下任务。 |
+| <a id="gosch26a-training-strategies"></a>[Certifying Graph Neural Networks Against Label and Structure Poisoning](https://proceedings.mlr.press/v306/gosch26a.html) | 图分区投毒认证的半监督增强 | 各分区仅用本区可用信息生成伪标签或补边，再训练基模型，用集成票差计算能抵御的改动预算。分区增强减轻稀疏标签或边使基模型投票失真的问题。 |
+| <a id="grover26a-training-strategies"></a>[Feedback Control for Multi-Objective Graph Self-Supervision](https://proceedings.mlr.press/v306/grover26a.html) | 图自监督任务的反馈式预算调度 | 按任务难度与目标间冲突制定各预训练目标的更新配额，再用 PID 控制器追踪每个目标已获得的更新块数。每块只训练一个目标，可显式纠正长期得不到更新的目标。 |
 
 <a id="by-data-strategies"></a>
 
@@ -124,6 +126,7 @@
 | <a id="akula26a-evaluation"></a>[Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) | 图模型迁移 | 同一图上，节点分类迁往链路预测在同质性强的图上更可靠。反向迁移要尤其关注结构信号强度，并固定消息传递图及测试负样本防止泄漏。 |
 | <a id="ferrini26a-evaluation"></a>[Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) | 缺失节点特征的压力测试 | 评估缺失特征时使用信息量较高的密集属性，并让更能预测标签的列具有更高的遮盖率。这样可测出在稀疏节点特征、均匀随机遮盖下不易暴露的性能退化。 |
 | <a id="forbat26a-evaluation"></a>[Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) | 图 Mixup 插值质量诊断 | 统一图分类的评测协议后，同时测合成图的插值误差和下游收益。高误差可拖累准确率，但低误差本身也未带来显著增益，所测 Mixup 方法均未显著优于无 Mixup 的基线。 |
+| <a id="guan26b-evaluation"></a>[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://proceedings.mlr.press/v306/guan26b.html) | 多模态推荐的同步污染诊断 | 分别评测单模态与联合污染对推荐曝光和正常效用的影响。论文发现视觉与文本扰动相互配合时，即使整体效用接近原模型，个别商品的曝光仍可能明显偏移，因此需单独测跨模态协同风险。 |
 
 <a id="by-theory-statistics"></a>
 

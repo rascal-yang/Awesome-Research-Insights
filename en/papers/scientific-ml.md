@@ -40,6 +40,7 @@ The linked short insights are available in Chinese.
 | [BIOARC: Discovering Optimal Neural Architectures for Biological Foundation Models](https://proceedings.mlr.press/v306/fang26u.html) | [Read insight (中文)](../../papers/scientific-ml.md#fang26u-architecture) |
 | [LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](https://proceedings.mlr.press/v306/feng26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#feng26b-architecture) |
 | [Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](https://proceedings.mlr.press/v306/friedl26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#friedl26a-architecture) |
+| ["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](https://proceedings.mlr.press/v306/ghiglino26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#ghiglino26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -84,6 +85,7 @@ The linked short insights are available in Chinese.
 | [Automatic Construction of Clinical Scoring Systems with LLM Agents](https://proceedings.mlr.press/v306/estevez26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#estevez26a-optimization) |
 | [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](https://proceedings.mlr.press/v306/fink26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#fink26a-optimization) |
 | [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](https://proceedings.mlr.press/v306/gao26j.html) | [Read insight (中文)](../../papers/scientific-ml.md#gao26j-optimization) |
+| [Torus Graphs for Large Scale Neural Phase Analysis](https://proceedings.mlr.press/v306/goffinet26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#goffinet26b-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -98,6 +100,7 @@ The linked short insights are available in Chinese.
 | [LASER: Learning Active Sensing for Continuum Field Reconstruction](https://proceedings.mlr.press/v306/deng26y.html) | [Read insight (中文)](../../papers/scientific-ml.md#deng26y-reinforcement-learning) |
 | [GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](https://proceedings.mlr.press/v306/flynn26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#flynn26a-reinforcement-learning) |
 | [Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/gao26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#gao26c-reinforcement-learning) |
+| [CSG: Cognitive Structure Generation for Intelligent Education](https://proceedings.mlr.press/v306/gu26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#gu26b-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -148,6 +151,7 @@ The linked short insights are available in Chinese.
 | [SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction](https://proceedings.mlr.press/v306/gan26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#gan26b-inference) |
 | [Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting](https://proceedings.mlr.press/v306/gao26p.html) | [Read insight (中文)](../../papers/scientific-ml.md#gao26p-inference) |
 | [Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://proceedings.mlr.press/v306/ge26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#ge26b-inference) |
+| [GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://proceedings.mlr.press/v306/giral26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#giral26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -166,6 +170,7 @@ The linked short insights are available in Chinese.
 | [Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](https://proceedings.mlr.press/v306/cheng26m.html) | [Read insight (中文)](../../papers/scientific-ml.md#cheng26m-representation-learning) |
 | [Adaptive Protein Tokenization](https://proceedings.mlr.press/v306/dilip26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dilip26a-representation-learning) |
 | [BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](https://proceedings.mlr.press/v306/du26f.html) | [Read insight (中文)](../../papers/scientific-ml.md#du26f-representation-learning) |
+| [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://proceedings.mlr.press/v306/gelard26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#gelard26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -188,6 +193,8 @@ The linked short insights are available in Chinese.
 | [(Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations](https://proceedings.mlr.press/v306/duan26f.html) | [Read insight (中文)](../../papers/scientific-ml.md#duan26f-evaluation) |
 | [BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics](https://proceedings.mlr.press/v306/fa26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#fa26a-evaluation) |
 | [TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering](https://proceedings.mlr.press/v306/gao26ao.html) | [Read insight (中文)](../../papers/scientific-ml.md#gao26ao-evaluation) |
+| [CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare](https://proceedings.mlr.press/v306/ghosh26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#ghosh26b-evaluation) |
+| [Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](https://proceedings.mlr.press/v306/gokce26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#gokce26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -202,4 +209,6 @@ The linked short insights are available in Chinese.
 | [Learning Treatment Allocations with Risk Control Under Partial Identifiability](https://proceedings.mlr.press/v306/ek26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#ek26a-theory-statistics) |
 | [Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](https://proceedings.mlr.press/v306/fu26i.html) | [Read insight (中文)](../../papers/scientific-ml.md#fu26i-theory-statistics) |
 | [Principled Confidence Estimation for Deep Computed Tomography](https://proceedings.mlr.press/v306/gatzner26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#gatzner26a-theory-statistics) |
+| [Scalable Simulation-Based Model Inference with Test-Time Complexity Control](https://proceedings.mlr.press/v306/gloeckler26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#gloeckler26a-theory-statistics) |
+| [A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](https://proceedings.mlr.press/v306/guan26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#guan26a-theory-statistics) |
 <!-- classification:end -->

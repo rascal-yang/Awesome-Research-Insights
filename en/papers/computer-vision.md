@@ -33,6 +33,7 @@ The linked short insights are available in Chinese.
 | [CODiff: One-Step Diffusion Model for Camouflaged Object Detection](https://proceedings.mlr.press/v306/fu26l.html) | [Read insight (中文)](../../papers/computer-vision.md#fu26l-architecture) |
 | [DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](https://proceedings.mlr.press/v306/gao26aq.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26aq-architecture) |
 | [Beyond Pixel Histories: World Models with Persistent 3D State](https://proceedings.mlr.press/v306/garcin26a.html) | [Read insight (中文)](../../papers/computer-vision.md#garcin26a-architecture) |
+| [Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](https://proceedings.mlr.press/v306/gong26f.html) | [Read insight (中文)](../../papers/computer-vision.md#gong26f-architecture) |
 
 <a id="by-modules"></a>
 
@@ -106,6 +107,7 @@ The linked short insights are available in Chinese.
 | [Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction](https://proceedings.mlr.press/v306/du26g.html) | [Read insight (中文)](../../papers/computer-vision.md#du26g-training-strategies) |
 | [VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://proceedings.mlr.press/v306/du26q.html) | [Read insight (中文)](../../papers/computer-vision.md#du26q-training-strategies) |
 | [Spectrally-Guided Diffusion Noise Schedules](https://proceedings.mlr.press/v306/esteves26a.html) | [Read insight (中文)](../../papers/computer-vision.md#esteves26a-training-strategies) |
+| [Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](https://proceedings.mlr.press/v306/gong26j.html) | [Read insight (中文)](../../papers/computer-vision.md#gong26j-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -163,6 +165,8 @@ The linked short insights are available in Chinese.
 | [Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models](https://proceedings.mlr.press/v306/fu26o.html) | [Read insight (中文)](../../papers/computer-vision.md#fu26o-inference) |
 | [Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework](https://proceedings.mlr.press/v306/gao26e.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26e-inference) |
 | [(1D) Ordered Tokens Enable Efficient Test-Time Search](https://proceedings.mlr.press/v306/gao26x.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26x-inference) |
+| [Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models](https://proceedings.mlr.press/v306/gu26f.html) | [Read insight (中文)](../../papers/computer-vision.md#gu26f-inference) |
+| [R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations](https://proceedings.mlr.press/v306/gu26m.html) | [Read insight (中文)](../../papers/computer-vision.md#gu26m-inference) |
 
 <a id="by-representation-learning"></a>
 

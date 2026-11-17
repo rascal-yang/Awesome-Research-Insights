@@ -73,6 +73,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs](../../papers/llm.md#fan26j-loss-functions) · 中文
 - [Self-correcting for Debiasing Large Language Models](../../papers/llm.md#feng26z-loss-functions) · 中文
 - [Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse](../../papers/llm.md#fu26v-loss-functions) · 中文
+- [From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models](../../papers/llm.md#gu26o-loss-functions) · 中文
 
 ### Computer Vision
 
@@ -105,6 +106,8 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](../../papers/multimodal.md#dellali26a-loss-functions) · 中文
 - [Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization](../../papers/multimodal.md#deng26z-loss-functions) · 中文
 - [Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation](../../papers/multimodal.md#fu26r-loss-functions) · 中文
+- [Twins: Learn to Predict Unified Representations with Focal Loss](../../papers/multimodal.md#gong26b-loss-functions) · 中文
+- [GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows](../../papers/multimodal.md#grebe26a-loss-functions) · 中文
 
 ### Machine Learning Foundations and Statistics
 

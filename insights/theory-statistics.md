@@ -24,6 +24,8 @@
 - [闭环控制的共形反事实生成](../papers/llm.md#farzaneh26a-theory-statistics) · Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control
 - [偏好排行榜的去偏估计](../papers/llm.md#frauen26a-theory-statistics) · Nonparametric LLM Evaluation from Preference Data
 - [语言模型干预的样本特异几何](../papers/llm.md#gao26al-theory-statistics) · The Cylindrical Representation Hypothesis for Language Model Steering
+- [上下文效应的精确参数等价](../papers/llm.md#goldwaser26a-theory-statistics) · Equivalence of Context and Parameter Updates in Modern Transformer Blocks
+- [在线语言模型排名的任意时推断](../papers/llm.md#gu26l-theory-statistics) · Anytime-Valid Inference for Online Ranking of Large Language Models
 
 ### 计算机视觉
 
@@ -36,6 +38,7 @@
 - [语言学习复杂度](../papers/nlp.md#arenas26a-theory-statistics) · Language Generation in the Limit: Complexity Barriers and Implications for Learning
 - [检索公平性](../papers/nlp.md#ashrafi26a-theory-statistics) · The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents
 - [自适应近似检索](../papers/nlp.md#banihashem26b-theory-statistics) · Adversarially Robust Approximate Furthest Neighbor
+- [双侧上下文的词义收缩曲率](../papers/nlp.md#grover26b-theory-statistics) · Text Has Curvature
 
 ### 强化学习
 
@@ -62,6 +65,9 @@
 - [图结构 MDP 的局部策略近似](../papers/reinforcement-learning.md#faizal26a-theory-statistics) · Local Policies for Graph-Structured Markov Decision Processes
 - [无界状态空间的高斯过程后验采样](../papers/reinforcement-learning.md#flynn26b-theory-statistics) · Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces
 - [重复博弈中的任意时偏离检测](../papers/reinforcement-learning.md#gauthier26a-theory-statistics) · Anytime Detection of Strategic Deviations in Multi-Agent Systems
+- [策略计算预算与长程泛化](../papers/reinforcement-learning.md#ghugare26a-theory-statistics) · On the Role of Computation in Reinforcement Learning
+- [状态图谱特征的价值误差分解](../papers/reinforcement-learning.md#giorgi26a-theory-statistics) · Impact of Connectivity on Laplacian Representations in Reinforcement Learning
+- [付费观测的免费预算相变](../papers/reinforcement-learning.md#gong26i-theory-statistics) · The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations
 
 ### 机器人学
 
@@ -220,6 +226,16 @@
 - [深度诱导的低秩分类几何](../papers/ml-foundations.md#garrod26a-theory-statistics) · The Implicit Bias of Depth: From Neural Collapse to Softmax Codes
 - [深层神经坍塌的联合谱解释](../papers/ml-foundations.md#garrod26b-theory-statistics) · Unifying Low Dimensional Spectra in Deep Learning
 - [混合分布的样本初始化与身份检验](../papers/ml-foundations.md#gay26a-theory-statistics) · Sampling and Identity-Testing Without Approximate Tensorization of Entropy
+- [稀疏逻辑回归的硬标签代价](../papers/ml-foundations.md#ghosh26c-theory-statistics) · Hard labels sampled from sparse targets mislead rotation invariant algorithms
+- [成对比较的前 k 项识别](../papers/ml-foundations.md#goldberger26a-theory-statistics) · Optimal Top-$k$ Identification from Pairwise Comparisons
+- [基于最高估值者身份的在线分配](../papers/ml-foundations.md#goldner26a-theory-statistics) · Knowing Who, Not How Much: Learning-Augmented Mechanisms for Consumer Utility Maximization
+- [用于共形校准的紧凑子图](../papers/ml-foundations.md#gollapudi26a-theory-statistics) · Compact Conformal Subgraphs
+- [高斯图模型的共同枢纽恢复](../papers/ml-foundations.md#gomez26a-theory-statistics) · Identifying Common Hubs in Multiple Gaussian Graphical Models
+- [近重复投毒的曲率盲区](../papers/ml-foundations.md#granziol26a-theory-statistics) · Safety-Efficacy Trade Off: Robustness against Data-Poisoning
+- [时变漂移的响应时间近似](../papers/ml-foundations.md#grivol26a-theory-statistics) · Approximating Drift-Diffusion Models for User Decisions under Nudging and External Information
+- [动量优化器的范数间隔偏置](../papers/ml-foundations.md#gronich26a-theory-statistics) · The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks
+- [稀疏线性求解的量子查询分离](../papers/ml-foundations.md#gronlund26a-theory-statistics) · An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems
+- [异质面板的稀疏 Granger 信号筛查](../papers/ml-foundations.md#gu26p-theory-statistics) · Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data
 
 ### 图学习与推荐
 
@@ -242,4 +258,6 @@
 - [部分可识别的治疗分配风险](../papers/scientific-ml.md#ek26a-theory-statistics) · Learning Treatment Allocations with Risk Control Under Partial Identifiability
 - [隐藏动态过程的因果可识别性](../papers/scientific-ml.md#fu26i-theory-statistics) · Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis
 - [基于物理似然的 CT 重建置信区域](../papers/scientific-ml.md#gatzner26a-theory-statistics) · Principled Confidence Estimation for Deep Computed Tomography
+- [推理时可调的模型复杂度先验](../papers/scientific-ml.md#gloeckler26a-theory-statistics) · Scalable Simulation-Based Model Inference with Test-Time Complexity Control
+- [从时间快照学习群体 Hamilton 动力学](../papers/scientific-ml.md#guan26a-theory-statistics) · A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots
 <!-- classification:end -->

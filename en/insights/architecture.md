@@ -36,10 +36,12 @@ Model-wide design and information flow.
 - [CODiff: One-Step Diffusion Model for Camouflaged Object Detection](../../papers/computer-vision.md#fu26l-architecture) · 中文
 - [DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](../../papers/computer-vision.md#gao26aq-architecture) · 中文
 - [Beyond Pixel Histories: World Models with Persistent 3D State](../../papers/computer-vision.md#garcin26a-architecture) · 中文
+- [Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](../../papers/computer-vision.md#gong26f-architecture) · 中文
 
 ### Natural Language Processing
 
 - [Separating Representation from Reconstruction Enables Scalable Text Encoders](../../papers/nlp.md#dervishi26a-architecture) · 中文
+- [Scaling Transformers for End-to-End Discrete Audio Tokenization](../../papers/nlp.md#gong26c-architecture) · 中文
 
 ### Reinforcement Learning
 
@@ -78,6 +80,8 @@ Model-wide design and information flow.
 - [Rethinking Time-Series Imputation as Conditional Inference along Temporal Evolution](../../papers/ml-foundations.md#fan26h-architecture) · 中文
 - [Dynamic Fractal Mamba: A Neural Renormalization Group Flow for Scale-Invariant Sequence Modeling](../../papers/ml-foundations.md#fang26p-architecture) · 中文
 - [Symbol-Equivariant Recurrent Reasoning Models](../../papers/ml-foundations.md#freinschlag26a-architecture) · 中文
+- [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../../papers/ml-foundations.md#gerdes26a-architecture) · 中文
+- [FlowState: Sampling-Rate-Equivariant Time-Series Forecasting](../../papers/ml-foundations.md#graf26a-architecture) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -117,4 +121,5 @@ Model-wide design and information flow.
 - [BIOARC: Discovering Optimal Neural Architectures for Biological Foundation Models](../../papers/scientific-ml.md#fang26u-architecture) · 中文
 - [LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](../../papers/scientific-ml.md#feng26b-architecture) · 中文
 - [Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](../../papers/scientific-ml.md#friedl26a-architecture) · 中文
+- ["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](../../papers/scientific-ml.md#ghiglino26a-architecture) · 中文
 <!-- classification:end -->

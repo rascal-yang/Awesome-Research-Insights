@@ -73,6 +73,7 @@ Data selection, annotation, augmentation, and sampling.
 - [TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis](../../papers/multimodal.md#feng26s-data-strategies) · 中文
 - [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](../../papers/multimodal.md#fu26s-data-strategies) · 中文
 - [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](../../papers/multimodal.md#gao26o-data-strategies) · 中文
+- [GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](../../papers/multimodal.md#giannone26a-data-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 

@@ -24,6 +24,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control](../../papers/llm.md#farzaneh26a-theory-statistics) · 中文
 - [Nonparametric LLM Evaluation from Preference Data](../../papers/llm.md#frauen26a-theory-statistics) · 中文
 - [The Cylindrical Representation Hypothesis for Language Model Steering](../../papers/llm.md#gao26al-theory-statistics) · 中文
+- [Equivalence of Context and Parameter Updates in Modern Transformer Blocks](../../papers/llm.md#goldwaser26a-theory-statistics) · 中文
+- [Anytime-Valid Inference for Online Ranking of Large Language Models](../../papers/llm.md#gu26l-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -36,6 +38,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Language Generation in the Limit: Complexity Barriers and Implications for Learning](../../papers/nlp.md#arenas26a-theory-statistics) · 中文
 - [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](../../papers/nlp.md#ashrafi26a-theory-statistics) · 中文
 - [Adversarially Robust Approximate Furthest Neighbor](../../papers/nlp.md#banihashem26b-theory-statistics) · 中文
+- [Text Has Curvature](../../papers/nlp.md#grover26b-theory-statistics) · 中文
 
 ### Reinforcement Learning
 
@@ -62,6 +65,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Local Policies for Graph-Structured Markov Decision Processes](../../papers/reinforcement-learning.md#faizal26a-theory-statistics) · 中文
 - [Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](../../papers/reinforcement-learning.md#flynn26b-theory-statistics) · 中文
 - [Anytime Detection of Strategic Deviations in Multi-Agent Systems](../../papers/reinforcement-learning.md#gauthier26a-theory-statistics) · 中文
+- [On the Role of Computation in Reinforcement Learning](../../papers/reinforcement-learning.md#ghugare26a-theory-statistics) · 中文
+- [Impact of Connectivity on Laplacian Representations in Reinforcement Learning](../../papers/reinforcement-learning.md#giorgi26a-theory-statistics) · 中文
+- [The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](../../papers/reinforcement-learning.md#gong26i-theory-statistics) · 中文
 
 ### Robotics
 
@@ -220,6 +226,16 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Implicit Bias of Depth: From Neural Collapse to Softmax Codes](../../papers/ml-foundations.md#garrod26a-theory-statistics) · 中文
 - [Unifying Low Dimensional Spectra in Deep Learning](../../papers/ml-foundations.md#garrod26b-theory-statistics) · 中文
 - [Sampling and Identity-Testing Without Approximate Tensorization of Entropy](../../papers/ml-foundations.md#gay26a-theory-statistics) · 中文
+- [Hard labels sampled from sparse targets mislead rotation invariant algorithms](../../papers/ml-foundations.md#ghosh26c-theory-statistics) · 中文
+- [Optimal Top-$k$ Identification from Pairwise Comparisons](../../papers/ml-foundations.md#goldberger26a-theory-statistics) · 中文
+- [Knowing Who, Not How Much: Learning-Augmented Mechanisms for Consumer Utility Maximization](../../papers/ml-foundations.md#goldner26a-theory-statistics) · 中文
+- [Compact Conformal Subgraphs](../../papers/ml-foundations.md#gollapudi26a-theory-statistics) · 中文
+- [Identifying Common Hubs in Multiple Gaussian Graphical Models](../../papers/ml-foundations.md#gomez26a-theory-statistics) · 中文
+- [Safety-Efficacy Trade Off: Robustness against Data-Poisoning](../../papers/ml-foundations.md#granziol26a-theory-statistics) · 中文
+- [Approximating Drift-Diffusion Models for User Decisions under Nudging and External Information](../../papers/ml-foundations.md#grivol26a-theory-statistics) · 中文
+- [The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks](../../papers/ml-foundations.md#gronich26a-theory-statistics) · 中文
+- [An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems](../../papers/ml-foundations.md#gronlund26a-theory-statistics) · 中文
+- [Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data](../../papers/ml-foundations.md#gu26p-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -242,4 +258,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning Treatment Allocations with Risk Control Under Partial Identifiability](../../papers/scientific-ml.md#ek26a-theory-statistics) · 中文
 - [Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](../../papers/scientific-ml.md#fu26i-theory-statistics) · 中文
 - [Principled Confidence Estimation for Deep Computed Tomography](../../papers/scientific-ml.md#gatzner26a-theory-statistics) · 中文
+- [Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../papers/scientific-ml.md#gloeckler26a-theory-statistics) · 中文
+- [A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](../../papers/scientific-ml.md#guan26a-theory-statistics) · 中文
 <!-- classification:end -->

@@ -14,6 +14,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="dervishi26a-architecture"></a>[Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) | 文本编码与掩码重建解耦 | 让编码器表示可见 token，由独立预测器读取表示并重建被遮蔽 token。用互补掩码构造同一句子的两份视图，各视图彼此隔离，两次预测合计能覆盖所有 token，并支持较高掩码率。 |
+| <a id="gong26c-architecture"></a>[Scaling Transformers for End-to-End Discrete Audio Tokenization](https://proceedings.mlr.press/v306/gong26c.html) | 纯因果 Transformer 的音频分词 | 用交错的波形分块与因果 Transformer 编码层逐步降采样，经残差向量量化得到离散 token，再由对称解码器重建波形。编码器、量化器和解码器可端到端联合训练，也支持流式编解码。 |
 
 <a id="by-modules"></a>
 
@@ -46,6 +47,14 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bu26e-reinforcement-learning"></a>[Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](https://proceedings.mlr.press/v306/bu26e.html) | 多跳事实核查 | 要求模型输出证据与结论的依赖图，再用 GRPO 的规则奖励约束推理深度与冗余。实测过长的依赖链也会拉低核查准确率。 |
+
+<a id="by-training-strategies"></a>
+
+### 训练策略
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="geng26c-training-strategies"></a>[Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models](https://proceedings.mlr.press/v306/geng26c.html) | 低资源语音的多温度自对齐 | 缺少真实语音参照时，对同一文本用多个温度采样，先按重复和时长过滤，再按转写词错率构造偏好对。优选与劣选样本都满足时长与重复限制，让偏好训练集中在发音准确度。 |
 
 <a id="by-data-strategies"></a>
 
@@ -92,6 +101,7 @@
 | <a id="duarte26a-evaluation"></a>[Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | 同行评审来源的声明级检测 | 为目标评审配对同一论文、总体评分相同的多份 AI 参考评审，比较评价意见、建设建议等声明的最佳语义匹配，再加文本特征训练三分类器。在论文数据中，经 AI 润色的人类评审仍常保留有辨识度的判断内容。 |
 | <a id="fernandez26b-evaluation"></a>[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | 重写式事后文本水印评测 | 用带水印的解码器改写已有文本，联合测量水印可检测性和语义保真。论文比较显示，开放文本可通过束搜索改善折中，但代码的强水印往往伴随功能正确率下降。 |
 | <a id="gao26af-evaluation"></a>[FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) | 机器翻译的无参考成对排序 | 给裁判提供源句和两份译文，分别判断忠实度、流畅度与风格一致性。分项成对判断可用人工排序分别校验，并揭示总分掩盖的译文优缺点。 |
+| <a id="ghaffari26a-evaluation"></a>[BAT: Better Audio Transformer Guided by Convex Gated Probing](https://proceedings.mlr.press/v306/ghaffari26a.html) | 音频自监督表征的凸门控探测 | 冻结音频编码器，对所有层的块词元与全局词元学习和为一的非负聚合权重，再用汇总特征与可学习原型的相似度做预测。探针可同时评估表示质量和任务信息所处层次。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -103,4 +113,5 @@
 | <a id="arenas26a-theory-statistics"></a>[Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) | 语言学习复杂度 | 只从正例最终生成目标形式语言在可计算意义下成立，但样本复杂度障碍甚至出现在正则语言的严格子类。 |
 | <a id="ashrafi26a-theory-statistics"></a>[The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) | 检索公平性 | 在共享向量空间里，语义相邻的多数文档变得密集后，可能把少数目标挤出前 k 位。按查询孤立评测容易漏掉这种跨目标相互作用。 |
 | <a id="banihashem26b-theory-statistics"></a>[Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) | 自适应近似检索 | 查询会参考历史返回值时，经典近似最远邻结构可能失去保证。为自适应查询设计的结构仍能在一部分参数范围保持次线性查询开销。 |
+| <a id="grover26b-theory-statistics"></a>[Text Has Curvature](https://proceedings.mlr.press/v306/grover26b.html) | 双侧上下文的词义收缩曲率 | 在同一词位分别扩展左、右上下文，用去偏传输散度比较扩展一侧前后另一侧引起的词义后验变化。变化收缩对应正曲率，扩张对应负曲率。 |
 <!-- classification:end -->

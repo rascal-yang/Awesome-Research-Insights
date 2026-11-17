@@ -79,6 +79,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [逐解码步的潜空间经验检索](../papers/llm.md#feng26i-modules) · ExpWeaver: LLM Agents Learn from Experience via Latent RAG
 - [MoE 专家输出的有向图聚合](../papers/llm.md#feng26v-modules) · DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts
 - [Softplus 注意力的两阶段重加权](../papers/llm.md#gao26y-modules) · Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models
+- [稀疏 entmax 的直方图阈值初始化](../papers/llm.md#goncalves26a-modules) · AdaSplash-2: Faster Differentiable Sparse Attention
 
 ### 计算机视觉
 
@@ -111,6 +112,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [非对称 RGB-D 特征融合](../papers/multimodal.md#chen26ch-modules) · Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance
 - [缺失模态的结构化提示](../papers/multimodal.md#chen26dv-modules) · SPR: A Structured Prompt Refinement Network for Modality Missing
 - [音视频非对称 token 压缩](../papers/multimodal.md#ding26e-modules) · OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
+- [视听稀疏采样的 RoPE 抗混叠](../papers/multimodal.md#gong26g-modules) · EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs
 
 ### 机器学习基础与统计
 
@@ -133,6 +135,10 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [局部坐标对齐的向量丛注意力](../papers/ml-foundations.md#fang26q-modules) · VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning
 - [跨数据集时序谱结构对齐](../papers/ml-foundations.md#fei26b-modules) · Olivia: Harmonizing Time Series Foundation Models with Power Spectral Density
 - [时序分类的定长词元生成](../papers/ml-foundations.md#feofanov26a-modules) · Mantis: Lightweight Foundation Model for Time Series Classification
+- [显著性变速的多项式记忆](../papers/ml-foundations.md#goffinet26a-modules) · HiPPO Zoo: Explicit Memory Mechanisms for Interpretable State Space Models
+- [位置与内容分离的极坐标编码](../papers/ml-foundations.md#gopalakrishnan26a-modules) · Decoupling The "What" and "Where" With Polar Coordinate Positional Embedding
+- [时序预测的可变长模式词元](../papers/ml-foundations.md#gotz26a-modules) · Byte Pair Encoding for Efficient Time Series Forecasting
+- [ANN 到 SNN 的递推时序编码](../papers/ml-foundations.md#gu26d-modules) · Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion
 
 ### 图学习与推荐
 

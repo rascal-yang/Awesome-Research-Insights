@@ -95,6 +95,10 @@ The linked short insights are available in Chinese.
 | [HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/fu26k.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#fu26k-reinforcement-learning) |
 | [RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](https://proceedings.mlr.press/v306/fukazawa26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#fukazawa26a-reinforcement-learning) |
 | [Decentralized Bandits without Global Clock for Dynamic Matching Market](https://proceedings.mlr.press/v306/gao26ak.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gao26ak-reinforcement-learning) |
+| [Online Packet Scheduling with Deadlines and Learning](https://proceedings.mlr.press/v306/genalti26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#genalti26a-reinforcement-learning) |
+| [DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](https://proceedings.mlr.press/v306/gerogiannis26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) |
+| [Online Robust Reinforcement Learning with General Function Approximation](https://proceedings.mlr.press/v306/ghosh26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) |
+| [Contextual Slate GLM Bandits with Limited Adaptivity](https://proceedings.mlr.press/v306/goyal26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -117,6 +121,7 @@ The linked short insights are available in Chinese.
 | [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#brosseit26a-inference) |
 | [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chang26a-inference) |
 | [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cui26h-inference) |
+| [SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](https://proceedings.mlr.press/v306/gu26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gu26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -164,4 +169,7 @@ The linked short insights are available in Chinese.
 | [Local Policies for Graph-Structured Markov Decision Processes](https://proceedings.mlr.press/v306/faizal26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#faizal26a-theory-statistics) |
 | [Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](https://proceedings.mlr.press/v306/flynn26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#flynn26b-theory-statistics) |
 | [Anytime Detection of Strategic Deviations in Multi-Agent Systems](https://proceedings.mlr.press/v306/gauthier26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gauthier26a-theory-statistics) |
+| [On the Role of Computation in Reinforcement Learning](https://proceedings.mlr.press/v306/ghugare26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ghugare26a-theory-statistics) |
+| [Impact of Connectivity on Laplacian Representations in Reinforcement Learning](https://proceedings.mlr.press/v306/giorgi26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#giorgi26a-theory-statistics) |
+| [The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](https://proceedings.mlr.press/v306/gong26i.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gong26i-theory-statistics) |
 <!-- classification:end -->

@@ -75,6 +75,8 @@ Aggregating rewards before group normalization can map different combinations to
 - [Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling](../../papers/llm.md#gai26b-reinforcement-learning) · 中文
 - [Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization](../../papers/llm.md#gao26f-reinforcement-learning) · 中文
 - [Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue](../../papers/llm.md#gao26aj-reinforcement-learning) · 中文
+- [Training AI Co-Scientists Using Rubric Rewards](../../papers/llm.md#goel26b-reinforcement-learning) · 中文
+- [Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models](../../papers/llm.md#gong26d-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -138,6 +140,10 @@ Aggregating rewards before group normalization can map different combinations to
 - [HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning](../../papers/reinforcement-learning.md#fu26k-reinforcement-learning) · 中文
 - [RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](../../papers/reinforcement-learning.md#fukazawa26a-reinforcement-learning) · 中文
 - [Decentralized Bandits without Global Clock for Dynamic Matching Market](../../papers/reinforcement-learning.md#gao26ak-reinforcement-learning) · 中文
+- [Online Packet Scheduling with Deadlines and Learning](../../papers/reinforcement-learning.md#genalti26a-reinforcement-learning) · 中文
+- [DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](../../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) · 中文
+- [Online Robust Reinforcement Learning with General Function Approximation](../../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) · 中文
+- [Contextual Slate GLM Bandits with Limited Adaptivity](../../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -172,4 +178,5 @@ Aggregating rewards before group normalization can map different combinations to
 - [LASER: Learning Active Sensing for Continuum Field Reconstruction](../../papers/scientific-ml.md#deng26y-reinforcement-learning) · 中文
 - [GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](../../papers/scientific-ml.md#flynn26a-reinforcement-learning) · 中文
 - [Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning](../../papers/scientific-ml.md#gao26c-reinforcement-learning) · 中文
+- [CSG: Cognitive Structure Generation for Intelligent Education](../../papers/scientific-ml.md#gu26b-reinforcement-learning) · 中文
 <!-- classification:end -->

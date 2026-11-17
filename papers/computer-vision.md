@@ -33,6 +33,7 @@
 | <a id="fu26l-architecture"></a>[CODiff: One-Step Diffusion Model for Camouflaged Object Detection](https://proceedings.mlr.press/v306/fu26l.html) | 单步伪装物体掩码预测 | 从 DINOv2 的全局特征和去噪时刻生成调制参数，注入自注意力和条件融合层，并分层融合局部结构特征。用于单步预测时，模型可同时利用场景语义和伪装物体的细粒度边界。 |
 | <a id="gao26aq-architecture"></a>[DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](https://proceedings.mlr.press/v306/gao26aq.html) | 按类别难度隔离位姿学习梯度 | 用数据估计几何难度，再把类别划到不同的对应点分支，使共享模块少承受方向冲突的梯度。给结构简单的组较高容量作为稳定训练支点，并限制复杂组的分支容量以减少噪声更新。 |
 | <a id="garcin26a-architecture"></a>[Beyond Pixel Histories: World Models with Persistent 3D State](https://proceedings.mlr.press/v306/garcin26a.html) | 持久三维状态的交互视频世界模型 | 独立维护随动作演化的潜三维场景和相机状态，每步由相机查询并投影相关场景特征再渲染画面。重访离开视野的区域时可读回场景状态，降低长视频只用近帧记忆造成的空间不一致。 |
+| <a id="gong26f-architecture"></a>[Direct 3D-Aware Object Insertion via Decomposed Visual Proxies](https://proceedings.mlr.press/v306/gong26f.html) | 姿态可控插入的三路视觉条件 | 用调整后的三维代理 RGB 渲染引导姿态，原参考图补充代理缺失的外观细节，局部合成图与全图背景特征共同提供场景上下文。通过独立通路注入，可同时处理姿态、身份及背景光照匹配。 |
 
 <a id="by-modules"></a>
 
@@ -106,6 +107,7 @@
 | <a id="du26g-training-strategies"></a>[Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction](https://proceedings.mlr.press/v306/du26g.html) | 统一图像取证的受限低秩适配 | 冻结 CLIP 视觉主干以保留图像类别的语义结构，仅在自注意力投影中加入可训练的低秩更新。让同一检测器在保留语义结构的同时拟合不同取证子域的伪造痕迹，减轻多域训练中的表征坍缩。 |
 | <a id="du26q-training-strategies"></a>[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://proceedings.mlr.press/v306/du26q.html) | 视频扩散的三维一致性偏好 | 从生成视频估计深度和相机位姿，把各帧反投影成三维点，再根据点投回其他帧的误差给视频打分。用这些分数构造同一条件下的偏好对，以 DPO 微调视频扩散模型。 |
 | <a id="esteves26a-training-strategies"></a>[Spectrally-Guided Diffusion Noise Schedules](https://proceedings.mlr.press/v306/esteves26a.html) | 由图像功率谱确定扩散日程 | 按训练图像的径向平均功率谱确定适用的噪声区间和各频段对应的噪声水平。生成时先按类别或提示采样功率谱参数，再构造对应日程，以减少少步去噪中的冗余。 |
+| <a id="gong26j-training-strategies"></a>[Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](https://proceedings.mlr.press/v306/gong26j.html) | 物理平面光照监督的补光条件 | 将光源的六维物理参数映射为扩散模型条件 token，预训练时用这些 token 重建圆盘光源照到平面的 RGB 辐照度图和逐像素方向场。该辅助任务使控制表示同时编码光强和光照方向，再用于人脸补光。 |
 
 <a id="by-data-strategies"></a>
 
@@ -163,6 +165,8 @@
 | <a id="fu26o-inference"></a>[Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models](https://proceedings.mlr.press/v306/fu26o.html) | 低频几何引导的参考纹理迁移 | 先以重心软传输对齐参考对象与生成布局，再用低频特征与空间距离计算传输代价。按该传输计划迁移参考图的高频残差，使纹理细节落在结构相符的位置。 |
 | <a id="gao26e-inference"></a>[Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework](https://proceedings.mlr.press/v306/gao26e.html) | 用图生视频过程纠正人和物的交互编辑 | 先把目标交互指令交给图生视频模型，再用视觉语言模型检查中途帧，定位操作了错误对象等失误。根据诊断更新提示和经验记录并重新生成，最后选出呈现目标交互的视频帧作为编辑图像。 |
 | <a id="gao26x-inference"></a>[(1D) Ordered Tokens Enable Efficient Test-Time Search](https://proceedings.mlr.press/v306/gao26x.html) | 粗到细图像词元的前缀搜索 | 图像由粗到细的有序词元表示时，短前缀已能解码成可评价的全局语义图像。用图文验证器逐轮给这些中间图像打分，可在生成早期剪掉与提示不符的分支。 |
+| <a id="gu26f-inference"></a>[Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models](https://proceedings.mlr.press/v306/gu26f.html) | 扩散生成的实例数布局控制 | 初始噪声可通过早期交叉注意力固定物体布局，使更改提示里的数量仍沿用原布局。采样时先按目标个数调整初始潜噪声，再优化早期注意力以稳定物体布置，可提高指定数量的命中率。 |
+| <a id="gu26m-inference"></a>[R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations](https://proceedings.mlr.press/v306/gu26m.html) | 三维相对关系链的坐标分解 | 把长空间关系链拆成参考系较稳定的短段，先生成候选布局并反查关系冲突，再用全局到局部的坐标重参数化优化物体位姿。这样可减少反复变换参考系积累的语义和度量误差。 |
 
 <a id="by-representation-learning"></a>
 

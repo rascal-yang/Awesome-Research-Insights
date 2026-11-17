@@ -77,6 +77,8 @@
 - [正确与错误轨迹驱动的熵调度](../papers/llm.md#gai26b-reinforcement-learning) · Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling
 - [由终局标签学习前缀价值](../papers/llm.md#gao26f-reinforcement-learning) · Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization
 - [客服多轮决策的成本优势估计](../papers/llm.md#gao26aj-reinforcement-learning) · Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue
+- [从论文提取研究计划的评分奖励](../papers/llm.md#goel26b-reinforcement-learning) · Training AI Co-Scientists Using Rubric Rewards
+- [黑盒提示优化的模仿到探索课程](../papers/llm.md#gong26d-reinforcement-learning) · Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models
 
 ### 计算机视觉
 
@@ -140,6 +142,10 @@
 - [多智能体共享权重的尺度分离](../papers/reinforcement-learning.md#fu26k-reinforcement-learning) · HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning
 - [生成式离线策略的下尾风险约束](../papers/reinforcement-learning.md#fukazawa26a-reinforcement-learning) · RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization
 - [无全局时钟的匹配探索](../papers/reinforcement-learning.md#gao26ak-reinforcement-learning) · Decentralized Bandits without Global Clock for Dynamic Matching Market
+- [未知价值包的限期调度](../papers/reinforcement-learning.md#genalti26a-reinforcement-learning) · Online Packet Scheduling with Deadlines and Learning
+- [分段平稳老虎机的检测式重启](../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) · DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits
+- [在线稳健 Bellman 的对偶拟合](../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) · Online Robust Reinforcement Learning with General Function Approximation
+- [有限更新的组合 GLM 赌博机](../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) · Contextual Slate GLM Bandits with Limited Adaptivity
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -174,4 +180,5 @@
 - [连续物理场重建的主动传感](../papers/scientific-ml.md#deng26y-reinforcement-learning) · LASER: Learning Active Sensing for Continuum Field Reconstruction
 - [遗传电路代码的分层验证奖励](../papers/scientific-ml.md#flynn26a-reinforcement-learning) · GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design
 - [序贯诊断的分角色奖励](../papers/scientific-ml.md#gao26c-reinforcement-learning) · Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning
+- [学生认知图的分层去噪奖励](../papers/scientific-ml.md#gu26b-reinforcement-learning) · CSG: Cognitive Structure Generation for Intelligent Education
 <!-- classification:end -->

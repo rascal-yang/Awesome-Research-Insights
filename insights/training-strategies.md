@@ -43,6 +43,7 @@
 - [偏好对齐中的负例遗忘权重](../papers/llm.md#feng26f-training-strategies) · Leveraging Machine Unlearning for Cost-Efficient Preference Alignment
 - [自回归转扩散的位置相关掩码](../papers/llm.md#fu26q-training-strategies) · Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed
 - [单样本自生成熵最小化](../papers/llm.md#gao26d-training-strategies) · One-shot Entropy Minimization for Language Model Reasoning
+- [上下文并行的按头显存复用](../papers/llm.md#ghadia26a-training-strategies) · Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking
 
 ### 计算机视觉
 
@@ -61,6 +62,11 @@
 - [统一图像取证的受限低秩适配](../papers/computer-vision.md#du26g-training-strategies) · Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction
 - [视频扩散的三维一致性偏好](../papers/computer-vision.md#du26q-training-strategies) · VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation
 - [由图像功率谱确定扩散日程](../papers/computer-vision.md#esteves26a-training-strategies) · Spectrally-Guided Diffusion Noise Schedules
+- [物理平面光照监督的补光条件](../papers/computer-vision.md#gong26j-training-strategies) · Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement
+
+### 自然语言处理
+
+- [低资源语音的多温度自对齐](../papers/nlp.md#geng26c-training-strategies) · Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models
 
 ### 机器人学
 
@@ -79,6 +85,7 @@
 - [权重差迁移语音指令能力](../papers/multimodal.md#du26t-training-strategies) · Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning
 - [多奖励条件的图像生成预训练](../papers/multimodal.md#dufour26a-training-strategies) · MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency
 - [多模态编码与融合的嵌套优化](../papers/multimodal.md#feng26m-training-strategies) · Multimodal Nested Learning for Decoupled and Coordinated Optimization
+- [长视频内容的一次性参数蒸馏](../papers/multimodal.md#guan26c-training-strategies) · From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations
 
 ### 机器学习基础与统计
 
@@ -113,6 +120,8 @@
 - [无标签自监督模型的参数合并](../papers/ml-foundations.md#fuller26a-training-strategies) · Self-Soupervision: Cooking Model Soups without Labels
 - [预训练权重邻域的随机专家集成](../papers/ml-foundations.md#gan26a-training-strategies) · Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights
 - [不规则时序图流的辅助轨迹监督](../papers/ml-foundations.md#gao26ac-training-strategies) · One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification
+- [联合能量模型的边缘采样](../papers/ml-foundations.md#geng26b-training-strategies) · Latent-Guided Cooperative Energy-Based Models
+- [表格 MLP 超参数并行集成](../papers/ml-foundations.md#gorishniy26a-training-strategies) · TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning
 
 ### 图学习与推荐
 
@@ -120,6 +129,8 @@
 - [图组合优化迁移](../papers/graph-and-recommendation.md#canturk26a-training-strategies) · Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?
 - [图基础模型的消息微调](../papers/graph-and-recommendation.md#chen26cz-training-strategies) · Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective
 - [空间众包的双视图蒸馏](../papers/graph-and-recommendation.md#gao26ai-training-strategies) · GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation
+- [图分区投毒认证的半监督增强](../papers/graph-and-recommendation.md#gosch26a-training-strategies) · Certifying Graph Neural Networks Against Label and Structure Poisoning
+- [图自监督任务的反馈式预算调度](../papers/graph-and-recommendation.md#grover26a-training-strategies) · Feedback Control for Multi-Objective Graph Self-Supervision
 
 ### 科学机器学习
 

@@ -75,6 +75,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [按目标词元概率调节微调梯度](../papers/llm.md#fan26j-loss-functions) · Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs
 - [推理链去偏的后缀优化](../papers/llm.md#feng26z-loss-functions) · Self-correcting for Debiasing Large Language Models
 - [注意力汇的门控与负载均衡](../papers/llm.md#fu26v-loss-functions) · Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse
+- [拆分语言模型的双端泄漏防护](../papers/llm.md#gu26o-loss-functions) · From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models
 
 ### 计算机视觉
 
@@ -107,6 +108,8 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [长视频配音的掩码与快捷去噪监督](../papers/multimodal.md#dellali26a-loss-functions) · SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos
 - [共享视觉上下文的对比偏好优化](../papers/multimodal.md#deng26z-loss-functions) · Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization
 - [图像实例约束的雷达场景流](../papers/multimodal.md#fu26r-loss-functions) · Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation
+- [统一视觉 token 的分量焦点损失](../papers/multimodal.md#gong26b-loss-functions) · Twins: Learn to Predict Unified Representations with Focal Loss
+- [整流流中的对比速度擦除](../papers/multimodal.md#grebe26a-loss-functions) · GEM: Geometric Erasure by Contrastive Velocity Matching in Rectified Flows
 
 ### 机器学习基础与统计
 

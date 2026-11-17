@@ -79,6 +79,8 @@ The linked short insights are available in Chinese.
 | [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
 | [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) |
 | [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26ai-training-strategies) |
+| [Certifying Graph Neural Networks Against Label and Structure Poisoning](https://proceedings.mlr.press/v306/gosch26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gosch26a-training-strategies) |
+| [Feedback Control for Multi-Objective Graph Self-Supervision](https://proceedings.mlr.press/v306/grover26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#grover26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -126,6 +128,7 @@ The linked short insights are available in Chinese.
 | [Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#akula26a-evaluation) |
 | [Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ferrini26a-evaluation) |
 | [Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#forbat26a-evaluation) |
+| [VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://proceedings.mlr.press/v306/guan26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#guan26b-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

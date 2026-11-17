@@ -105,6 +105,13 @@
 - [幻灯片代理任务的分项评分](../papers/llm.md#gandhi26a-evaluation) · PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks
 - [长上下文中少量困难干扰的影响](../papers/llm.md#gao26b-evaluation) · The First Drop of Ink: Nonlinear Impact of Distracting Information in Long-Context Reasoning
 - [权重稀疏模型的电路提取](../papers/llm.md#gao26w-evaluation) · Weight-sparse transformers have interpretable circuits
+- [大学数学证明的双量规评判](../papers/llm.md#gonzalez26a-evaluation) · QEDBench: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs
+- [直接偏好对齐的可控比较](../papers/llm.md#gorbatovski26a-evaluation) · The Differences Between Direct Alignment Algorithms are a Blur
+- [词元扰动的成分响应分析](../papers/llm.md#gordon26a-evaluation) · Towards Spectroscopy: Susceptibility Clusters in Language Models
+- [表格语言模型的任务级泄漏核查](../papers/llm.md#gorla26a-evaluation) · The Illusion of Generalization in Tabular Language Models
+- [智能体对训练接口的依赖诊断](../papers/llm.md#gu26g-evaluation) · What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?
+- [跨推理框架的静默错误定位](../papers/llm.md#gu26q-evaluation) · Ekka: Automated Diagnosis of Silent Errors in LLM Inference
+- [带执行反馈的 Triton 代码智能体评测](../papers/llm.md#guan26d-evaluation) · TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation
 
 ### 计算机视觉
 
@@ -130,6 +137,7 @@
 - [同行评审来源的声明级检测](../papers/nlp.md#duarte26a-evaluation) · Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews
 - [重写式事后文本水印评测](../papers/nlp.md#fernandez26b-evaluation) · How Good is Post-Hoc Watermarking With Language Model Rephrasing?
 - [机器翻译的无参考成对排序](../papers/nlp.md#gao26af-evaluation) · FiRE: Fine-grained Ranking Evaluation for Machine Translation
+- [音频自监督表征的凸门控探测](../papers/nlp.md#ghaffari26a-evaluation) · BAT: Better Audio Transformer Guided by Convex Gated Probing
 
 ### 强化学习
 
@@ -171,6 +179,7 @@
 - [区分旧事实更新和未知事实学习](../papers/multimodal.md#fu26c-evaluation) · MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge
 - [多模态伪造的来源与事实双轴评测](../papers/multimodal.md#gao26g-evaluation) · FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content
 - [文本知识编辑的图像迁移诊断](../papers/multimodal.md#gao26ag-evaluation) · Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs
+- [手机 GUI 代理的分能力诊断](../papers/multimodal.md#gong26a-evaluation) · VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics
 
 ### 机器学习基础与统计
 
@@ -196,6 +205,8 @@
 - [分布式数据归因的操纵鲁棒性](../papers/ml-foundations.md#gao26k-evaluation) · On the Fragility of Data Attribution When Learning Is Distributed
 - [条件生成的保形可靠性评分](../papers/ml-foundations.md#gao26aa-evaluation) · Conformal Reliability: A New Evaluation Metric for Conditional Generation
 - [扩散生成的训练样本邻近偏差](../papers/ml-foundations.md#garnier-brun26a-evaluation) · Biased Generalization in Diffusion Models
+- [程序化算法发现任务](../papers/ml-foundations.md#goldie26a-evaluation) · Procedural Generation Of Algorithm Discovery Tasks in Machine Learning
+- [表征相似度的置换零校准](../papers/ml-foundations.md#groger26a-evaluation) · Revisiting the Platonic Representation Hypothesis: An Aristotelian View
 
 ### 图学习与推荐
 
@@ -203,6 +214,7 @@
 - [图模型迁移](../papers/graph-and-recommendation.md#akula26a-evaluation) · Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors
 - [缺失节点特征的压力测试](../papers/graph-and-recommendation.md#ferrini26a-evaluation) · Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution
 - [图 Mixup 插值质量诊断](../papers/graph-and-recommendation.md#forbat26a-evaluation) · Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods
+- [多模态推荐的同步污染诊断](../papers/graph-and-recommendation.md#guan26b-evaluation) · VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems
 
 ### 科学机器学习
 
@@ -221,4 +233,6 @@
 - [生物基础模型的双类扰动诊断](../papers/scientific-ml.md#duan26f-evaluation) · (Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations
 - [生物信息学智能体的流程稳健性评测](../papers/scientific-ml.md#fa26a-evaluation) · BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics
 - [按轮次回放蛋白工程候选筛选](../papers/scientific-ml.md#gao26ao-evaluation) · TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering
+- [多语言医疗模型的分维度可信评测](../papers/scientific-ml.md#ghosh26b-evaluation) · CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare
+- [视觉皮层映射的神经样本缩放](../papers/scientific-ml.md#gokce26a-evaluation) · Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex
 <!-- classification:end -->

@@ -38,6 +38,7 @@
 | <a id="fang26u-architecture"></a>[BIOARC: Discovering Optimal Neural Architectures for Biological Foundation Models](https://proceedings.mlr.press/v306/fang26u.html) | 生物序列模型的异构架构搜索 | 将卷积、循环、注意力和状态空间等块放入可共享权重的超网，每条候选路径独立选择深度、块类型和隐藏宽度。由数据筛选混合架构，以匹配基因组、蛋白等不同序列的归纳偏置。 |
 | <a id="feng26b-architecture"></a>[LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification](https://proceedings.mlr.press/v306/feng26b.html) | 脑电潜事件的电生理先验 | 将各脑电通道的潜事件时间建模为更新过程，用可微泄漏积分发放模型导出随时间变化的瞬时发放率作为先验。模型用该先验从未标注脑电推断事件与跨通道关系，并汇总组别的事件速率和时序差异。 |
 | <a id="friedl26a-architecture"></a>[Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](https://proceedings.mlr.press/v306/friedl26a.html) | 辛降维的 Hamilton 动力学 | 用受几何约束的辛自编码器把高维状态压到低维结构保持子流形，在该空间内学习 Hamilton 动力学。通过保持潜空间的辛结构，降维后的模型仍可进行物理一致的长时预测。 |
+| <a id="ghiglino26a-architecture"></a>["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](https://proceedings.mlr.press/v306/ghiglino26a.html) | 飞行器拓扑与连续参数的层级扩散 | 先生成电动垂直起降飞行器的离散构型，再让掩码扩散模型在该构型下推断连续设计参数。按构型确定参与推断的变量，可处理不同部件数量和排列带来的可变参数维度。 |
 
 <a id="by-modules"></a>
 
@@ -82,6 +83,7 @@
 | <a id="estevez26a-optimization"></a>[Automatic Construction of Clinical Scoring Systems with LLM Agents](https://proceedings.mlr.press/v306/estevez26a.html) | 临床二元规则的等权清单搜索 | 用语言模型按预定义语法提议可执行的二元规则，再用数据检验区分度和规则冗余并筛成有长度上限的等权清单，最后选择总分阈值。 |
 | <a id="fink26a-optimization"></a>[RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](https://proceedings.mlr.press/v306/fink26a.html) | 代数多重网格的稀疏粗层修正 | 用若干标准多重网格循环生成高频成分已衰减的残差，以此学习稀疏粗层算子修正。神经网络只在求解器初始化时运行，迭代阶段仍用稀疏算子计算。 |
 | <a id="gao26j-optimization"></a>[Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](https://proceedings.mlr.press/v306/gao26j.html) | 量子激发态的多态重要性采样 | 将同一分子结构下各态的采样密度混合作为共同提议，用混合密度重加权估计任意两态波函数的重叠。这样每对重叠都能复用所有态的样本，通过共享神经网络降低跨态求值开销。 |
+| <a id="goffinet26b-optimization"></a>[Torus Graphs for Large Scale Neural Phase Analysis](https://proceedings.mlr.press/v306/goffinet26b.html) | 大规模神经振荡相位图的随机分数匹配 | 将环面图分数匹配的二次型改写为充分统计量雅可比与参数向量乘积的平方范数，利用局部相位导数的稀疏性按小批更新。每步成本降为相位变量数的平方，使上千维相位耦合和动态扩展可算。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -96,6 +98,7 @@
 | <a id="deng26y-reinforcement-learning"></a>[LASER: Learning Active Sensing for Continuum Field Reconstruction](https://proceedings.mlr.press/v306/deng26y.html) | 连续物理场重建的主动传感 | 从稀疏在线观测编码场的潜状态，再用扩散动力学预测未来场状态。策略基于潜空间前瞻估计候选传感器位置对重建精度的影响，学习把传感器移向当前尚未充分观测的区域。 |
 | <a id="flynn26a-reinforcement-learning"></a>[GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](https://proceedings.mlr.press/v306/flynn26a.html) | 遗传电路代码的分层验证奖励 | 把代码执行、结构约束和功能表现拆成分层评分，高层奖励受低层检查结果门控。训练课程逐阶段从基础格式移到功能正确性，以缓解一次性成败反馈稀疏的问题。 |
 | <a id="gao26c-reinforcement-learning"></a>[Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/gao26c.html) | 序贯诊断的分角色奖励 | 在模拟诊断环境里分开生成鉴别诊断、决定何时停止和提出下一项检查。对早期鉴别诊断按正确疾病在前三位的排名给分，并单独惩罚控制器过早停止，为终局诊断前的动作提供更密集的训练反馈。 |
+| <a id="gu26b-reinforcement-learning"></a>[CSG: Cognitive Structure Generation for Intelligent Education](https://proceedings.mlr.press/v306/gu26b.html) | 学生认知图的分层去噪奖励 | 把学生概念关系图的反向去噪视作策略，按照 SOLO 层级评价去噪后图中与下一道实际作答有关的概念和关系。分层奖励使生成图可独立于具体下游预测器学习。 |
 
 <a id="by-training-strategies"></a>
 
@@ -146,6 +149,7 @@
 | <a id="gan26b-inference"></a>[SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction](https://proceedings.mlr.press/v306/gan26b.html) | 港口和航路节点条件下的航迹外推 | 从历史航迹检索和核验参考航迹，先估计船只接下来可能经过的港区、海峡或航路节点，再以该关键点约束局部运动预测。把远期导航意图与短期运动分开，可减小长时外推的方向漂移。 |
 | <a id="gao26p-inference"></a>[Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting](https://proceedings.mlr.press/v306/gao26p.html) | 干旱预测的多分辨率残差校正 | 在多个时间分辨率上调用冻结的时序模型，以粗尺度预测为起点，用历史回测训练的残差估计来调节粗预测与细尺度结果的融合，逐级修正干旱指数预测。 |
 | <a id="ge26b-inference"></a>[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://proceedings.mlr.press/v306/ge26b.html) | 超大病理切片的动态倍率推理 | 先在低倍率定位候选区域，再用注意力剪枝选择需要高倍率查看的局部，并在预测熵足够低时提前停止。论文在所测切片数据上维持相近 AUC，同时显著减少需要编码的图块。 |
+| <a id="giral26a-inference"></a>[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://proceedings.mlr.press/v306/giral26a.html) | 稀疏传感条件下的城市风场扩散 | 在粗细两层网格传播观测信息，细网格保留建筑附近梯度，粗网格连接远处区域。生成时组合学习几何先验的无传感分支与传感条件分支，用同一采样流程同化固定点或沿轨迹获取的观测。 |
 
 <a id="by-representation-learning"></a>
 
@@ -164,6 +168,7 @@
 | <a id="cheng26m-representation-learning"></a>[Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](https://proceedings.mlr.press/v306/cheng26m.html) | 多视角电子密度图表征 | 把三维电子密度转为多视角图像，共享视觉编码器提取各视角特征后池化，并用跨尺度物理任务预训练。论文在有机光伏和发色团数据上验证了这种输入在降低电子密度建模成本的同时仍能预测材料属性。 |
 | <a id="dilip26a-representation-learning"></a>[Adaptive Protein Tokenization](https://proceedings.mlr.press/v306/dilip26a.html) | 蛋白结构的可截断全局分词 | 训练时随机截断蛋白结构量化 token 序列的后缀，并用保留的前缀调节流匹配解码器。这样早期 token 优先承载大小和整体结构等信息，追加 token 可逐步恢复更多几何细节。 |
 | <a id="du26f-representation-learning"></a>[BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](https://proceedings.mlr.press/v306/du26f.html) | 生理时序的分频幅相对齐 | 对生理时间序列特征做傅里叶变换，从样本频谱生成各频带的调制量，分别调整振幅和相位。以频带而非单个频点为单位对齐，减轻受试者间幅相差异对分类的影响。 |
+| <a id="gelard26a-representation-learning"></a>[Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://proceedings.mlr.press/v306/gelard26a.html) | 转录组与甲基化的双模态掩码学习 | 将配对样本的基因表达量和甲基化量离散化，两种模态用各自的输出头预测被扰动的数值词元，以联合自监督学习肿瘤样本的表征。论文以癌种分类和生存预测验证表征的迁移效果。 |
 
 <a id="by-evaluation"></a>
 
@@ -186,6 +191,8 @@
 | <a id="duan26f-evaluation"></a>[(Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations](https://proceedings.mlr.press/v306/duan26f.html) | 生物基础模型的双类扰动诊断 | 分别对蛋白结构加入未解析环缺失等生物数据扰动，并在原数据固定时改动建图的邻居数或截断半径。用边集合 Jaccard 相似度等指标量化建图变化，再与输出波动对照，可区分数据采集误差和处理流程敏感性。 |
 | <a id="fa26a-evaluation"></a>[BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics](https://proceedings.mlr.press/v306/fa26a.html) | 生物信息学智能体的流程稳健性评测 | 为端到端任务指定可检查的产物，并记录运行轨迹。在损坏输入、误导文件和冗长提示下分别重测，可发现智能体虽能搭对高层流程，仍可能在具体输入取舍或错误恢复上出错。 |
 | <a id="gao26ao-evaluation"></a>[TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering](https://proceedings.mlr.press/v306/gao26ao.html) | 按轮次回放蛋白工程候选筛选 | 对齐各轮测量标签并保留真实实验时间顺序，用早期轮次的数据对后续才出现的候选排序。随机切分中表现良好的模型在未来轮次的有限预算筛选中仍明显退化，显示插值指标会高估前瞻能力。 |
+| <a id="ghosh26b-evaluation"></a>[CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare](https://proceedings.mlr.press/v306/ghosh26b.html) | 多语言医疗模型的分维度可信评测 | 把医疗语言模型的真实性、公平性、安全性、鲁棒性与隐私拆为 18 项任务，在 15 种语言中分层比较。论文测试显示，低资源语言在诚实性、公平性及隐私上的退化尤其明显。 |
+| <a id="gokce26a-evaluation"></a>[Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](https://proceedings.mlr.press/v306/gokce26a.html) | 视觉皮层映射的神经样本缩放 | 分别改变预训练规模与拟合模型到脑响应映射所用的刺激和记录配对数。所测多种记录模态中，增加配对数在考察范围内带来近似对数线性的对齐增益，而扩大预训练的收益逐渐饱和。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -200,4 +207,6 @@
 | <a id="ek26a-theory-statistics"></a>[Learning Treatment Allocations with Risk Control Under Partial Identifiability](https://proceedings.mlr.press/v306/ek26a.html) | 部分可识别的治疗分配风险 | 按给定的倾向赔率偏差范围为未获益治疗比例计算风险上界。先用一部分数据训练候选分配策略，再用独立样本的上置信界筛选满足风险容忍度的候选。 |
 | <a id="fu26i-theory-statistics"></a>[Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](https://proceedings.mlr.press/v306/fu26i.html) | 隐藏动态过程的因果可识别性 | 把含隐藏动态驱动的非线性结构方程写成等价的非线性独立成分模型，再用雅可比的非零结构表征观测变量间因果边。在文中给定的条件变异与结构约束下，可同时识别隐藏过程的表示和观测因果图。 |
 | <a id="gatzner26a-theory-statistics"></a>[Principled Confidence Estimation for Deep Computed Tomography](https://proceedings.mlr.press/v306/gatzner26a.html) | 基于物理似然的 CT 重建置信区域 | 用 Beer–Lambert 前向过程和 Poisson 观测模型计算似然，再以序贯似然混合为重建结果构造置信区域。论文在模型条件下提供覆盖保证，同一方法可比较传统重建器和深度重建器给出的区域宽度。 |
+| <a id="gloeckler26a-theory-statistics"></a>[Scalable Simulation-Based Model Inference with Test-Time Complexity Control](https://proceedings.mlr.press/v306/gloeckler26a.html) | 推理时可调的模型复杂度先验 | 先从观测解码离散模型结构，再在选定结构下推断连续参数。训练时将复杂度先验强度输入两个解码器，部署时只改变该条件就能比较不同简约程度下的后验，无需重新训练。 |
+| <a id="guan26a-theory-statistics"></a>[A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](https://proceedings.mlr.press/v306/guan26a.html) | 从时间快照学习群体 Hamilton 动力学 | 把群体演化建模为 Wasserstein 空间中的作用量极值问题，再从多个时刻的边际分布反推 Hamilton 动力学。只需群体快照即可插值和预测分布，并能表示梯度流难以描述的周期运动。 |
 <!-- classification:end -->

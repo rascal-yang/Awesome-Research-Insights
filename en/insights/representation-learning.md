@@ -56,6 +56,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](../../papers/multimodal.md#choi26h-representation-learning) · 中文
 - [Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](../../papers/multimodal.md#dutta26b-representation-learning) · 中文
 - [ObjEmbed: Towards Universal Multimodal Object Embeddings](../../papers/multimodal.md#fu26p-representation-learning) · 中文
+- [TimeOmni-VL: Unified Models for Time Series Understanding and Generation](../../papers/multimodal.md#guan26e-representation-learning) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -71,6 +72,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](../../papers/ml-foundations.md#chen26cj-representation-learning) · 中文
 - [Discovering Symmetry Groups with Flow Matching](../../papers/ml-foundations.md#chen26dg-representation-learning) · 中文
 - [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](../../papers/ml-foundations.md#fan26i-representation-learning) · 中文
+- [Sparse Autoencoders are Topic Models](../../papers/ml-foundations.md#girrbach26a-representation-learning) · 中文
+- [Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture – Bridging Predictive and Generative Self-Supervised Learning](../../papers/ml-foundations.md#gogl26a-representation-learning) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -96,4 +99,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](../../papers/scientific-ml.md#cheng26m-representation-learning) · 中文
 - [Adaptive Protein Tokenization](../../papers/scientific-ml.md#dilip26a-representation-learning) · 中文
 - [BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series](../../papers/scientific-ml.md#du26f-representation-learning) · 中文
+- [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](../../papers/scientific-ml.md#gelard26a-representation-learning) · 中文
 <!-- classification:end -->

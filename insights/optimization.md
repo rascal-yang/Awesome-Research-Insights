@@ -27,6 +27,8 @@
 - [零阶微调的贪心子空间筛选](../papers/llm.md#fang26k-optimization) · LOZO+: Provably Efficient Zeroth-Order Fine-Tuning via Greedy Low-Rank Subspace Selection
 - [冻结主干的凸偏好对齐](../papers/llm.md#feng26l-optimization) · Convex Optimization for Alignment and Preference Learning on a Single GPU
 - [多模型红队搜索的嵌入动量](../papers/llm.md#feng26y-optimization) · Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization
+- [逐列归一化与末层动量](../papers/llm.md#glentis26a-optimization) · Memory-Efficient LLM Pretraining via Minimalist Optimizer Design
+- [微缩放量化的可逆仿射校准](../papers/llm.md#gordon26b-optimization) · LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs
 
 ### 计算机视觉
 
@@ -52,6 +54,7 @@
 ### 多模态学习
 
 - [多模态检测的跨阶段融合搜索](../papers/multimodal.md#gao26an-optimization) · MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection
+- [持续低秩适配的谱均衡约束](../papers/multimodal.md#gu26i-optimization) · Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation
 
 ### 机器学习基础与统计
 
@@ -148,6 +151,17 @@
 - [容量公平聚类的树度量化](../papers/ml-foundations.md#gadekar26a-optimization) · Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms
 - [按局部光滑性选梯度下降步长](../papers/ml-foundations.md#galli26a-optimization) · Flatland: The Adventures of Gradient Descent with Large Step Sizes
 - [量化数据的潜变量条件极大化](../papers/ml-foundations.md#gao26ah-optimization) · Inference from Quantized Data via Normal Variance-Mean Mixtures
+- [极小极大问题的免投影平滑](../papers/ml-foundations.md#giang-tran26a-optimization) · Projection-Free Algorithms for Minimax Problems
+- [LogSumExp 的平滑随机近似](../papers/ml-foundations.md#gladin26a-optimization) · Improved Stochastic Optimization of LogSumExp
+- [预测编码的误差变量重参数化](../papers/ml-foundations.md#goemaere26a-optimization) · ePC: Fast and Deep Predictive Coding in Digital Simulation
+- [同批自然梯度的草图投影分析](../papers/ml-foundations.md#goldshlager26a-optimization) · A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms
+- [按舍入间隔编码主权重残差](../papers/ml-foundations.md#gonzalez-ortiz26a-optimization) · FlashOptim: Optimizers for Memory-Efficient Training
+- [无固定生成顺序的组合搜索](../papers/ml-foundations.md#goudet26a-optimization) · Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning
+- [分类采样的去噪重参数化](../papers/ml-foundations.md#gourevitch26a-optimization) · Categorical Reparameterization with Denoising Diffusion Models
+- [未配对快照的多边际薛定谔桥](../papers/ml-foundations.md#gravier26a-optimization) · Multi-marginal temporal Schrödinger Bridge Matching from unpaired data
+- [张量列车求解扩散分数方程](../papers/ml-foundations.md#gruhlke26a-optimization) · Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling
+- [凸约束域上的镜像平均场朗之万动力学](../papers/ml-foundations.md#gu26e-optimization) · Mirror Mean-Field Langevin Dynamics
+- [跨域增量学习的掩码与轨迹调节](../papers/ml-foundations.md#gu26n-optimization) · Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning
 
 ### 图学习与推荐
 
@@ -164,4 +178,5 @@
 - [临床二元规则的等权清单搜索](../papers/scientific-ml.md#estevez26a-optimization) · Automatic Construction of Clinical Scoring Systems with LLM Agents
 - [代数多重网格的稀疏粗层修正](../papers/scientific-ml.md#fink26a-optimization) · RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections
 - [量子激发态的多态重要性采样](../papers/scientific-ml.md#gao26j-optimization) · Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State
+- [大规模神经振荡相位图的随机分数匹配](../papers/scientific-ml.md#goffinet26b-optimization) · Torus Graphs for Large Scale Neural Phase Analysis
 <!-- classification:end -->

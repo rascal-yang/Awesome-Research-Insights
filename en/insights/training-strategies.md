@@ -43,6 +43,7 @@ Training schedules, curricula, and task or stage composition.
 - [Leveraging Machine Unlearning for Cost-Efficient Preference Alignment](../../papers/llm.md#feng26f-training-strategies) · 中文
 - [Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](../../papers/llm.md#fu26q-training-strategies) · 中文
 - [One-shot Entropy Minimization for Language Model Reasoning](../../papers/llm.md#gao26d-training-strategies) · 中文
+- [Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](../../papers/llm.md#ghadia26a-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -61,6 +62,11 @@ Training schedules, curricula, and task or stage composition.
 - [Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction](../../papers/computer-vision.md#du26g-training-strategies) · 中文
 - [VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](../../papers/computer-vision.md#du26q-training-strategies) · 中文
 - [Spectrally-Guided Diffusion Noise Schedules](../../papers/computer-vision.md#esteves26a-training-strategies) · 中文
+- [Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](../../papers/computer-vision.md#gong26j-training-strategies) · 中文
+
+### Natural Language Processing
+
+- [Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models](../../papers/nlp.md#geng26c-training-strategies) · 中文
 
 ### Robotics
 
@@ -79,6 +85,7 @@ Training schedules, curricula, and task or stage composition.
 - [Unlocking Speech–Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning](../../papers/multimodal.md#du26t-training-strategies) · 中文
 - [MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency](../../papers/multimodal.md#dufour26a-training-strategies) · 中文
 - [Multimodal Nested Learning for Decoupled and Coordinated Optimization](../../papers/multimodal.md#feng26m-training-strategies) · 中文
+- [From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](../../papers/multimodal.md#guan26c-training-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -113,6 +120,8 @@ Training schedules, curricula, and task or stage composition.
 - [Self-Soupervision: Cooking Model Soups without Labels](../../papers/ml-foundations.md#fuller26a-training-strategies) · 中文
 - [Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](../../papers/ml-foundations.md#gan26a-training-strategies) · 中文
 - [One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification](../../papers/ml-foundations.md#gao26ac-training-strategies) · 中文
+- [Latent-Guided Cooperative Energy-Based Models](../../papers/ml-foundations.md#geng26b-training-strategies) · 中文
+- [TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](../../papers/ml-foundations.md#gorishniy26a-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -120,6 +129,8 @@ Training schedules, curricula, and task or stage composition.
 - [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) · 中文
 - [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) · 中文
 - [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](../../papers/graph-and-recommendation.md#gao26ai-training-strategies) · 中文
+- [Certifying Graph Neural Networks Against Label and Structure Poisoning](../../papers/graph-and-recommendation.md#gosch26a-training-strategies) · 中文
+- [Feedback Control for Multi-Objective Graph Self-Supervision](../../papers/graph-and-recommendation.md#grover26a-training-strategies) · 中文
 
 ### Scientific Machine Learning
 

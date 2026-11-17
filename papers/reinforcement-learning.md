@@ -95,6 +95,10 @@
 | <a id="fu26k-reinforcement-learning"></a>[HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/fu26k.html) | 多智能体共享权重的尺度分离 | 将共享主干的权重向量归一化到单位球面，令反传梯度只保留切向分量。用各智能体的尺度生成器单独调节输出幅度，保留共享方向的同时减少尺度梯度冲突。 |
 | <a id="fukazawa26a-reinforcement-learning"></a>[RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](https://proceedings.mlr.press/v306/fukazawa26a.html) | 生成式离线策略的下尾风险约束 | 用价值模型估计动作回报的分布，对扩散策略优化下尾条件风险价值，同时加入行为克隆正则。这样保留了多峰动作的表达能力，并抑制偏离离线数据的高风险动作。 |
 | <a id="gao26ak-reinforcement-learning"></a>[Decentralized Bandits without Global Clock for Dynamic Matching Market](https://proceedings.mlr.press/v306/gao26ak.html) | 无全局时钟的匹配探索 | 动态匹配中，各参与者用本地成功匹配记录更新置信区间，并用本地指针和等待机制调整探索，避免把因竞争被拒的申请计为偏好样本。论文给出任意进出下双边学习的次线性遗憾界。 |
+| <a id="genalti26a-reinforcement-learning"></a>[Online Packet Scheduling with Deadlines and Learning](https://proceedings.mlr.press/v306/genalti26a.html) | 未知价值包的限期调度 | 将包类型视为仅在对应包未过期时可选的臂。对截止期最多晚一拍的情形，分别找出即将到期与可等待包中置信上界最高者，再用随调度状态变化的阈值比较，兼顾即刻发送和后续学习。 |
+| <a id="gerogiannis26a-reinforcement-learning"></a>[DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits](https://proceedings.mlr.press/v306/gerogiannis26a.html) | 分段平稳老虎机的检测式重启 | 用少量强制探索为变点检测器持续收集反馈，检测到奖励机制变化时重置内部的平稳老虎机算法。将探测与正常选臂解耦，可在不知道变点个数和位置时复用现有平稳算法。 |
+| <a id="ghosh26a-reinforcement-learning"></a>[Online Robust Reinforcement Learning with General Function Approximation](https://proceedings.mlr.press/v306/ghosh26a.html) | 在线稳健 Bellman 的对偶拟合 | 用对偶函数统一表示各状态动作处、散度不确定集下的最坏转移备份。在线采样后联合拟合对偶备份和值函数，使一般函数逼近下的分布稳健学习能直接依赖交互数据。 |
+| <a id="goyal26a-reinforcement-learning"></a>[Contextual Slate GLM Bandits with Limited Adaptivity](https://proceedings.mlr.press/v306/goyal26a.html) | 有限更新的组合 GLM 赌博机 | 每轮每个槽位选一件商品但只观察整组回报时，用整组的参考组合估计链接函数的导数来缩放特征，避免逐件缩放累积非线性误差。论文在上下文多样性条件下给出了有限策略更新次数的遗憾保证。 |
 | <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -117,6 +121,7 @@
 | <a id="brosseit26a-inference"></a>[Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) | 强化学习提前退出 | 在 actor 的不同深度挂接出口，训练时用约束线性规划决定性能和计算预算之间的退出规则，部署时用学好的规则直接选择出口。 |
 | <a id="chang26a-inference"></a>[The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) | 模型强化学习搜索 | 搜索可能放大候选轨迹的价值高估，即使动力学模型准确也会选错。对多个价值估计取最小值，可在搜索时降低这种偏差。 |
 | <a id="cui26h-inference"></a>[DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) | 离线竞价的候选生成与价值筛选 | 用高斯混合头采样多个可能的出价，同时检索相近状态下的优质历史出价。推理时把两类候选交给用日志和隐式 Q 学习训练的价值评估器排序，选择估计价值最高的出价。 |
+| <a id="gu26a-inference"></a>[SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](https://proceedings.mlr.press/v306/gu26a.html) | 空域避碰策略的运动学约束 | 将安全间隔和航空让行规则写成信号时序逻辑，在推理时依据本机及邻机观测检查并修正策略动作。论文在不同飞机数量的仿真中验证了该约束模块。 |
 
 <a id="by-representation-learning"></a>
 
@@ -164,4 +169,7 @@
 | <a id="faizal26a-theory-statistics"></a>[Local Policies for Graph-Structured Markov Decision Processes](https://proceedings.mlr.press/v306/faizal26a.html) | 图结构 MDP 的局部策略近似 | 用 Dobrushin 型矩阵控制节点状态和动作扰动向远处传播的幅度。满足论文的稳定性条件时，每个智能体仅读取 m 跳邻域就可近似全局最优，性能差距随 m 指数下降。 |
 | <a id="flynn26b-theory-statistics"></a>[Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](https://proceedings.mlr.press/v306/flynn26b.html) | 无界状态空间的高斯过程后验采样 | 递归应用高斯过程的极值集中界，对实际访问的状态建立高概率有界区域，再在该区域内用链式界控制后验采样误差。在论文的弱光滑条件下，Bayes 遗憾随有效信息增益和交互时长的乘积平方根增长，另有时域长度因子。 |
 | <a id="gauthier26a-theory-statistics"></a>[Anytime Detection of Strategic Deviations in Multi-Agent Systems](https://proceedings.mlr.press/v306/gauthier26a.html) | 重复博弈中的任意时偏离检测 | 按收益违背均衡条件的程度递推 e 值，使零假设下的证据过程成为超鞅。在线监视何时越过阈值，可在适时停止的同时控制误报，并用同一框架检测多种均衡假设。 |
+| <a id="ghugare26a-theory-statistics"></a>[On the Role of Computation in Reinforcement Learning](https://proceedings.mlr.press/v306/ghugare26a.html) | 策略计算预算与长程泛化 | 按执行计算上限将策略分层，可以构造低预算策略在训练任务上达到最优、却在更长测试任务上明显落后的情形。论文以参数共享的循环策略检验这一差异，通过增加循环次数扩大计算预算。 |
+| <a id="giorgi26a-theory-statistics"></a>[Impact of Connectivity on Laplacian Representations in Reinforcement Learning](https://proceedings.mlr.press/v306/giorgi26a.html) | 状态图谱特征的价值误差分解 | 用状态图拉普拉斯的低频特征线性拟合价值函数时，误差界包含截断项和特征估计项。前者受图的代数连通度及首个被舍弃的特征值控制，后者取决于保留边界处的谱间隙及特征优化误差。 |
+| <a id="gong26i-theory-statistics"></a>[The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](https://proceedings.mlr.press/v306/gong26i.html) | 付费观测的免费预算相变 | 把观察动作的费用纳入上下文老虎机的累计遗憾，免费预算低于临界量时主要抵扣费用，高于临界量时可改善遗憾的渐近阶。按预算相对阈值切换策略，可在两个区间都接近下界。 |
 <!-- classification:end -->

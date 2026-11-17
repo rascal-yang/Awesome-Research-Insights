@@ -73,6 +73,7 @@
 - [电信观测序列保留绝对量纲](../papers/multimodal.md#feng26s-data-strategies) · TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis
 - [知识密集视频的分技能数据构造](../papers/multimodal.md#fu26s-data-strategies) · VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding
 - [视频到三维空间监督数据](../papers/multimodal.md#gao26o-data-strategies) · Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence
+- [图像到 CAD 的几何反馈扩增](../papers/multimodal.md#giannone26a-data-strategies) · GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback
 
 ### 机器学习基础与统计
 

@@ -36,10 +36,12 @@
 - [单步伪装物体掩码预测](../papers/computer-vision.md#fu26l-architecture) · CODiff: One-Step Diffusion Model for Camouflaged Object Detection
 - [按类别难度隔离位姿学习梯度](../papers/computer-vision.md#gao26aq-architecture) · DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation
 - [持久三维状态的交互视频世界模型](../papers/computer-vision.md#garcin26a-architecture) · Beyond Pixel Histories: World Models with Persistent 3D State
+- [姿态可控插入的三路视觉条件](../papers/computer-vision.md#gong26f-architecture) · Direct 3D-Aware Object Insertion via Decomposed Visual Proxies
 
 ### 自然语言处理
 
 - [文本编码与掩码重建解耦](../papers/nlp.md#dervishi26a-architecture) · Separating Representation from Reconstruction Enables Scalable Text Encoders
+- [纯因果 Transformer 的音频分词](../papers/nlp.md#gong26c-architecture) · Scaling Transformers for End-to-End Discrete Audio Tokenization
 
 ### 强化学习
 
@@ -78,6 +80,8 @@
 - [带长历史压缩的时序插补](../papers/ml-foundations.md#fan26h-architecture) · Rethinking Time-Series Imputation as Conditional Inference along Temporal Evolution
 - [跨尺度共享的递归状态空间模型](../papers/ml-foundations.md#fang26p-architecture) · Dynamic Fractal Mamba: A Neural Renormalization Group Flow for Scale-Invariant Sequence Modeling
 - [符号置换等变的循环推理](../papers/ml-foundations.md#freinschlag26a-architecture) · Symbol-Equivariant Recurrent Reasoning Models
+- [可解析径向归一化流](../papers/ml-foundations.md#gerdes26a-architecture) · Analytic Bijections for Smooth and Interpretable Normalizing Flows
+- [时序预测的可调连续时间基](../papers/ml-foundations.md#graf26a-architecture) · FlowState: Sampling-Rate-Equivariant Time-Series Forecasting
 
 ### 图学习与推荐
 
@@ -117,4 +121,5 @@
 - [生物序列模型的异构架构搜索](../papers/scientific-ml.md#fang26u-architecture) · BIOARC: Discovering Optimal Neural Architectures for Biological Foundation Models
 - [脑电潜事件的电生理先验](../papers/scientific-ml.md#feng26b-architecture) · LERD: Latent Event-Relational Dynamics for Neurodegenerative Classification
 - [辛降维的 Hamilton 动力学](../papers/scientific-ml.md#friedl26a-architecture) · Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach
+- [飞行器拓扑与连续参数的层级扩散](../papers/scientific-ml.md#ghiglino26a-architecture) · "Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design
 <!-- classification:end -->

@@ -75,6 +75,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [ExpWeaver: LLM Agents Learn from Experience via Latent RAG](../../papers/llm.md#feng26i-modules) · 中文
 - [DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts](../../papers/llm.md#feng26v-modules) · 中文
 - [Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models](../../papers/llm.md#gao26y-modules) · 中文
+- [AdaSplash-2: Faster Differentiable Sparse Attention](../../papers/llm.md#goncalves26a-modules) · 中文
 
 ### Computer Vision
 
@@ -107,6 +108,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](../../papers/multimodal.md#chen26ch-modules) · 中文
 - [SPR: A Structured Prompt Refinement Network for Modality Missing](../../papers/multimodal.md#chen26dv-modules) · 中文
 - [OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](../../papers/multimodal.md#ding26e-modules) · 中文
+- [EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs](../../papers/multimodal.md#gong26g-modules) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -129,6 +131,10 @@ Teacher features can be low rank for each image while occupying different subspa
 - [VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning](../../papers/ml-foundations.md#fang26q-modules) · 中文
 - [Olivia: Harmonizing Time Series Foundation Models with Power Spectral Density](../../papers/ml-foundations.md#fei26b-modules) · 中文
 - [Mantis: Lightweight Foundation Model for Time Series Classification](../../papers/ml-foundations.md#feofanov26a-modules) · 中文
+- [HiPPO Zoo: Explicit Memory Mechanisms for Interpretable State Space Models](../../papers/ml-foundations.md#goffinet26a-modules) · 中文
+- [Decoupling The "What" and "Where" With Polar Coordinate Positional Embedding](../../papers/ml-foundations.md#gopalakrishnan26a-modules) · 中文
+- [Byte Pair Encoding for Efficient Time Series Forecasting](../../papers/ml-foundations.md#gotz26a-modules) · 中文
+- [Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion](../../papers/ml-foundations.md#gu26d-modules) · 中文
 
 ### Graph Learning and Recommendation
 

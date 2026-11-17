@@ -16,6 +16,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) | [Read insight (中文)](../../papers/nlp.md#dervishi26a-architecture) |
+| [Scaling Transformers for End-to-End Discrete Audio Tokenization](https://proceedings.mlr.press/v306/gong26c.html) | [Read insight (中文)](../../papers/nlp.md#gong26c-architecture) |
 
 <a id="by-modules"></a>
 
@@ -48,6 +49,14 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](https://proceedings.mlr.press/v306/bu26e.html) | [Read insight (中文)](../../papers/nlp.md#bu26e-reinforcement-learning) |
+
+<a id="by-training-strategies"></a>
+
+### Training Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models](https://proceedings.mlr.press/v306/geng26c.html) | [Read insight (中文)](../../papers/nlp.md#geng26c-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -94,6 +103,7 @@ The linked short insights are available in Chinese.
 | [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | [Read insight (中文)](../../papers/nlp.md#duarte26a-evaluation) |
 | [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | [Read insight (中文)](../../papers/nlp.md#fernandez26b-evaluation) |
 | [FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) | [Read insight (中文)](../../papers/nlp.md#gao26af-evaluation) |
+| [BAT: Better Audio Transformer Guided by Convex Gated Probing](https://proceedings.mlr.press/v306/ghaffari26a.html) | [Read insight (中文)](../../papers/nlp.md#ghaffari26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -105,4 +115,5 @@ The linked short insights are available in Chinese.
 | [Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) | [Read insight (中文)](../../papers/nlp.md#arenas26a-theory-statistics) |
 | [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) | [Read insight (中文)](../../papers/nlp.md#ashrafi26a-theory-statistics) |
 | [Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) | [Read insight (中文)](../../papers/nlp.md#banihashem26b-theory-statistics) |
+| [Text Has Curvature](https://proceedings.mlr.press/v306/grover26b.html) | [Read insight (中文)](../../papers/nlp.md#grover26b-theory-statistics) |
 <!-- classification:end -->

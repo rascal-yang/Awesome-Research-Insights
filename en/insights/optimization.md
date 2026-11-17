@@ -27,6 +27,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [LOZO+: Provably Efficient Zeroth-Order Fine-Tuning via Greedy Low-Rank Subspace Selection](../../papers/llm.md#fang26k-optimization) · 中文
 - [Convex Optimization for Alignment and Preference Learning on a Single GPU](../../papers/llm.md#feng26l-optimization) · 中文
 - [Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization](../../papers/llm.md#feng26y-optimization) · 中文
+- [Memory-Efficient LLM Pretraining via Minimalist Optimizer Design](../../papers/llm.md#glentis26a-optimization) · 中文
+- [LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs](../../papers/llm.md#gordon26b-optimization) · 中文
 
 ### Computer Vision
 
@@ -52,6 +54,7 @@ Gradient updates, parameterization, and optimization dynamics.
 ### Multimodal Learning
 
 - [MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](../../papers/multimodal.md#gao26an-optimization) · 中文
+- [Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation](../../papers/multimodal.md#gu26i-optimization) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -148,6 +151,17 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms](../../papers/ml-foundations.md#gadekar26a-optimization) · 中文
 - [Flatland: The Adventures of Gradient Descent with Large Step Sizes](../../papers/ml-foundations.md#galli26a-optimization) · 中文
 - [Inference from Quantized Data via Normal Variance-Mean Mixtures](../../papers/ml-foundations.md#gao26ah-optimization) · 中文
+- [Projection-Free Algorithms for Minimax Problems](../../papers/ml-foundations.md#giang-tran26a-optimization) · 中文
+- [Improved Stochastic Optimization of LogSumExp](../../papers/ml-foundations.md#gladin26a-optimization) · 中文
+- [ePC: Fast and Deep Predictive Coding in Digital Simulation](../../papers/ml-foundations.md#goemaere26a-optimization) · 中文
+- [A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms](../../papers/ml-foundations.md#goldshlager26a-optimization) · 中文
+- [FlashOptim: Optimizers for Memory-Efficient Training](../../papers/ml-foundations.md#gonzalez-ortiz26a-optimization) · 中文
+- [Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning](../../papers/ml-foundations.md#goudet26a-optimization) · 中文
+- [Categorical Reparameterization with Denoising Diffusion Models](../../papers/ml-foundations.md#gourevitch26a-optimization) · 中文
+- [Multi-marginal temporal Schrödinger Bridge Matching from unpaired data](../../papers/ml-foundations.md#gravier26a-optimization) · 中文
+- [Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling](../../papers/ml-foundations.md#gruhlke26a-optimization) · 中文
+- [Mirror Mean-Field Langevin Dynamics](../../papers/ml-foundations.md#gu26e-optimization) · 中文
+- [Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning](../../papers/ml-foundations.md#gu26n-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -164,4 +178,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Automatic Construction of Clinical Scoring Systems with LLM Agents](../../papers/scientific-ml.md#estevez26a-optimization) · 中文
 - [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../../papers/scientific-ml.md#fink26a-optimization) · 中文
 - [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](../../papers/scientific-ml.md#gao26j-optimization) · 中文
+- [Torus Graphs for Large Scale Neural Phase Analysis](../../papers/scientific-ml.md#goffinet26b-optimization) · 中文
 <!-- classification:end -->

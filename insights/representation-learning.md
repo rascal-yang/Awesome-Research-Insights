@@ -56,6 +56,7 @@
 - [可稀疏选择的多模态专家表征](../papers/multimodal.md#choi26h-representation-learning) · Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts
 - [传感通道文本调制时序表征](../papers/multimodal.md#dutta26b-representation-learning) · Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings
 - [对象检索的语义与定位质量嵌入](../papers/multimodal.md#fu26p-representation-learning) · ObjEmbed: Towards Universal Multimodal Object Embeddings
+- [时序与图像之间的双向保真映射](../papers/multimodal.md#guan26e-representation-learning) · TimeOmni-VL: Unified Models for Time Series Understanding and Generation
 
 ### 机器学习基础与统计
 
@@ -71,6 +72,8 @@
 - [线性因果表征](../papers/ml-foundations.md#chen26cj-representation-learning) · Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement
 - [在变换群上发现数据对称性](../papers/ml-foundations.md#chen26dg-representation-learning) · Discovering Symmetry Groups with Flow Matching
 - [连续演化因果机制的混合轨迹](../papers/ml-foundations.md#fan26i-representation-learning) · TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning
+- [稀疏自编码器的主题原子](../papers/ml-foundations.md#girrbach26a-representation-learning) · Sparse Autoencoders are Topic Models
+- [JEPA 的变分潜空间目标](../papers/ml-foundations.md#gogl26a-representation-learning) · Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture – Bridging Predictive and Generative Self-Supervised Learning
 
 ### 图学习与推荐
 
@@ -96,4 +99,5 @@
 - [多视角电子密度图表征](../papers/scientific-ml.md#cheng26m-representation-learning) · Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction
 - [蛋白结构的可截断全局分词](../papers/scientific-ml.md#dilip26a-representation-learning) · Adaptive Protein Tokenization
 - [生理时序的分频幅相对齐](../papers/scientific-ml.md#du26f-representation-learning) · BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series
+- [转录组与甲基化的双模态掩码学习](../papers/scientific-ml.md#gelard26a-representation-learning) · Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning
 <!-- classification:end -->
