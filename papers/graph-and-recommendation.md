@@ -22,6 +22,8 @@
 - <a id="gailhard26a-architecture"></a>[Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](../conferences/icml-2026/cards/1101-1200.md#paper-gailhard26a)
 - <a id="gantes26a-architecture"></a>[SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](../conferences/icml-2026/cards/1201-1300.md#paper-gantes26a)
 - <a id="hossen26a-architecture"></a>[Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation](../conferences/icml-2026/cards/1601-1700.md#paper-hossen26a)
+- <a id="huang26ax-architecture"></a>[Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ax)
+- <a id="huang26cj-architecture"></a>[GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation](../conferences/icml-2026/cards/1701-1800.md#paper-huang26cj)
 
 <a id="by-modules"></a>
 
@@ -55,6 +57,9 @@
 - <a id="gupta26b-optimization"></a>[Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../conferences/icml-2026/cards/1401-1500.md#paper-gupta26b)
 - <a id="hosseini26b-optimization"></a>[Neural Dispersion on Graphs](../conferences/icml-2026/cards/1601-1700.md#paper-hosseini26b)
 - <a id="huang26k-optimization"></a>[Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning](../conferences/icml-2026/cards/1601-1700.md#paper-huang26k)
+- <a id="huang26az-optimization"></a>[Attributed Network Alignment: Statistical Limits and Efficient Algorithm](../conferences/icml-2026/cards/1701-1800.md#paper-huang26az)
+- <a id="huang26bi-optimization"></a>[Towards Generative Graph Matching for Graph Edit Distance Computation](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bi)
+- <a id="huang26bz-optimization"></a>[Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bz)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -113,6 +118,7 @@
 - <a id="he26at-representation-learning"></a>[A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs](../conferences/icml-2026/cards/1501-1600.md#paper-he26at)
 - <a id="hu26x-representation-learning"></a>[Hierarchical Anchor Graph Learning for Multi-View Clustering](../conferences/icml-2026/cards/1601-1700.md#paper-hu26x)
 - <a id="hu26ag-representation-learning"></a>[A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering](../conferences/icml-2026/cards/1601-1700.md#paper-hu26ag)
+- <a id="huang26bs-representation-learning"></a>[Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bs)
 
 <a id="by-evaluation"></a>
 

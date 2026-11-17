@@ -63,6 +63,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="gushchin26a-loss-functions"></a>[BiRQA: Bidirectional Robust Quality Assessment for Images](../../conferences/icml-2026/cards/1401-1500.md#paper-gushchin26a)
 - <a id="ha26b-loss-functions"></a>[Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](../../conferences/icml-2026/cards/1401-1500.md#paper-ha26b)
 - <a id="heck26a-loss-functions"></a>[SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly](../../conferences/icml-2026/cards/1501-1600.md#paper-heck26a)
+- <a id="huang26bj-loss-functions"></a>[Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bj)
+- <a id="huang26bt-loss-functions"></a>[LIVE: Long-horizon Interactive Video World Modeling](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bt)
 
 <a id="by-optimization"></a>
 
@@ -176,6 +178,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="holderrieth26a-inference"></a>[Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps](../../conferences/icml-2026/cards/1501-1600.md#paper-holderrieth26a)
 - <a id="hu26p-inference"></a>[DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26p)
 - <a id="huang26f-inference"></a>[LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26f)
+- <a id="huang26ae-inference"></a>[How to Guide Your Flow: Few-Step Alignment via Flow Map Reward Guidance](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ae)
+- <a id="huang26cc-inference"></a>[Prototype-Based Test-Time Adaptation of Vision-Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cc)
 
 <a id="by-representation-learning"></a>
 
@@ -224,6 +228,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hesse26a-evaluation"></a>[What is Missing? Explaining Neurons Activated by Absent Concepts](../../conferences/icml-2026/cards/1501-1600.md#paper-hesse26a)
 - <a id="hong26a-evaluation"></a>[DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26a)
 - <a id="huang26n-evaluation"></a>[Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26n)
+- <a id="huang26y-evaluation"></a>[Formalizing the Binding Problem](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26y)
+- <a id="huang26av-evaluation"></a>[Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26av)
 
 <a id="by-theory-statistics"></a>
 

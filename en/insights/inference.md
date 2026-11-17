@@ -118,6 +118,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [ECHO: Elastic Speculative Decoding with Sparse Gating for High-Concurrency Scenarios](../../conferences/icml-2026/cards/1601-1700.md#hu26ar-inference) · 中文
 - [Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models](../../conferences/icml-2026/cards/1601-1700.md#hu26bb-inference) · 中文
 - [Gram2Token: Enabling Run-time GPU-Native Grammar-Constrained Decoding for LLMs](../../conferences/icml-2026/cards/1601-1700.md#hua26b-inference) · 中文
+- [Optimal Bayesian Stopping for Efficient Inference of Consistent LLM Answers](../../conferences/icml-2026/cards/1701-1800.md#huang26ak-inference) · 中文
+- [Pessimistic Verification for Open-Ended Math Questions](../../conferences/icml-2026/cards/1701-1800.md#huang26ay-inference) · 中文
+- [UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling](../../conferences/icml-2026/cards/1701-1800.md#huang26bd-inference) · 中文
+- [IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution](../../conferences/icml-2026/cards/1701-1800.md#huang26ck-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -168,6 +172,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps](../../conferences/icml-2026/cards/1501-1600.md#holderrieth26a-inference) · 中文
 - [DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation](../../conferences/icml-2026/cards/1601-1700.md#hu26p-inference) · 中文
 - [LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration](../../conferences/icml-2026/cards/1601-1700.md#huang26f-inference) · 中文
+- [How to Guide Your Flow: Few-Step Alignment via Flow Map Reward Guidance](../../conferences/icml-2026/cards/1701-1800.md#huang26ae-inference) · 中文
+- [Prototype-Based Test-Time Adaptation of Vision-Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26cc-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -211,6 +217,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Training-Free Guided Diffusion for Planning: A Unified Framework via Doob’s h-Transform with Safety Guarantees](../../conferences/icml-2026/cards/1501-1600.md#hoshino26a-inference) · 中文
 - [Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation](../../conferences/icml-2026/cards/1601-1700.md#hu26w-inference) · 中文
 - [EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models](../../conferences/icml-2026/cards/1601-1700.md#huang26h-inference) · 中文
+- [SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning](../../conferences/icml-2026/cards/1701-1800.md#huang26t-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -252,6 +259,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution](../../conferences/icml-2026/cards/1601-1700.md#hu26ai-inference) · 中文
 - [Respecting Modality Gap in Post-hoc Out-of-distribution Detection with Pre-trained Vision-Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26aq-inference) · 中文
 - [EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering](../../conferences/icml-2026/cards/1601-1700.md#hu26ay-inference) · 中文
+- [Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth](../../conferences/icml-2026/cards/1701-1800.md#huang26ad-inference) · 中文
+- [Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](../../conferences/icml-2026/cards/1701-1800.md#huang26ag-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

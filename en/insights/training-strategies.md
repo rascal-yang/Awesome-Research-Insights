@@ -56,6 +56,9 @@ Training schedules, curricula, and task or stage composition.
 - [Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization](../../conferences/icml-2026/cards/1501-1600.md#he26aj-training-strategies) · 中文
 - [Differentiable Conformal Training for LLM Reasoning Factuality](../../conferences/icml-2026/cards/1501-1600.md#hittesdorf26a-training-strategies) · 中文
 - [Fast and Accurate Causal Parallel Decoding using Jacobi Forcing](../../conferences/icml-2026/cards/1601-1700.md#hu26aa-training-strategies) · 中文
+- [Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity](../../conferences/icml-2026/cards/1701-1800.md#huang26an-training-strategies) · 中文
+- [PADA-Coder: Improving Plan-Following Code Generation via Perturbation-Verified Attention Distillation and Dynamic Alignment](../../conferences/icml-2026/cards/1701-1800.md#huang26ar-training-strategies) · 中文
+- [Reliability-Aware LLM Alignment from Inconsistent Human Feedback](../../conferences/icml-2026/cards/1701-1800.md#huang26co-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -97,6 +100,8 @@ Training schedules, curricula, and task or stage composition.
 - [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](../../conferences/icml-2026/cards/1101-1200.md#feng26n-training-strategies) · 中文
 - [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](../../conferences/icml-2026/cards/1301-1400.md#guo26i-training-strategies) · 中文
 - [FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy](../../conferences/icml-2026/cards/1501-1600.md#he26aq-training-strategies) · 中文
+- [Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](../../conferences/icml-2026/cards/1701-1800.md#huang26v-training-strategies) · 中文
+- [TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](../../conferences/icml-2026/cards/1701-1800.md#huang26cd-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -114,6 +119,7 @@ Training schedules, curricula, and task or stage composition.
 - [From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](../../conferences/icml-2026/cards/1301-1400.md#guan26c-training-strategies) · 中文
 - [ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](../../conferences/icml-2026/cards/1401-1500.md#guo26aj-training-strategies) · 中文
 - [Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness](../../conferences/icml-2026/cards/1501-1600.md#hong26b-training-strategies) · 中文
+- [Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26bx-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -30,6 +30,7 @@
 - [稀疏 entmax 的直方图阈值初始化](../conferences/icml-2026/cards/1301-1400.md#goncalves26a-modules) · AdaSplash-2: Faster Differentiable Sparse Attention
 - [把重遮盖位置的高熵表征留给下轮去噪](../conferences/icml-2026/cards/1601-1700.md#hu26as-modules) · Residual Context Diffusion Language Models
 - [在自回归推理中保存耗散的连续隐状态](../conferences/icml-2026/cards/1601-1700.md#huang26m-modules) · Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning
+- [以分块偏置校准抑制压缩误差累积](../conferences/icml-2026/cards/1701-1800.md#huang26q-modules) · Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition
 
 <a id="by-computer-vision"></a>
 
@@ -112,6 +113,7 @@
 - [ANN 到 SNN 的递推时序编码](../conferences/icml-2026/cards/1301-1400.md#gu26d-modules) · Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion
 - [高维表格的相关特征分组压缩](../conferences/icml-2026/cards/1401-1500.md#habib26a-modules) · GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data
 - [用双曲几何实现层级记忆检索](../conferences/icml-2026/cards/1401-1500.md#hao26d-modules) · Hyperbolic Associative Memory Networks
+- [用高阶随机草图补足线性原型注意力](../conferences/icml-2026/cards/1701-1800.md#huang26ao-modules) · PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching
 
 <a id="by-graph-and-recommendation"></a>
 

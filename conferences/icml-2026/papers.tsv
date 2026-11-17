@@ -1699,86 +1699,86 @@ number	pmlr_id	title	paper_url	insight_status
 1698	huang26l	Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning	https://proceedings.mlr.press/v306/huang26l.html	written
 1699	huang26m	Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning	https://proceedings.mlr.press/v306/huang26m.html	written
 1700	huang26n	Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring	https://proceedings.mlr.press/v306/huang26n.html	written
-1701	huang26o	ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization	https://proceedings.mlr.press/v306/huang26o.html	pending
-1702	huang26p	E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory	https://proceedings.mlr.press/v306/huang26p.html	pending
-1703	huang26q	Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition	https://proceedings.mlr.press/v306/huang26q.html	pending
-1704	huang26r	ProbeLLM: Automating Principled Diagnosis of LLM Failures	https://proceedings.mlr.press/v306/huang26r.html	pending
-1705	huang26s	Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA	https://proceedings.mlr.press/v306/huang26s.html	pending
-1706	huang26t	SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning	https://proceedings.mlr.press/v306/huang26t.html	pending
-1707	huang26u	Robust Learning via Nested Distributionally Robust Optimization	https://proceedings.mlr.press/v306/huang26u.html	pending
-1708	huang26v	Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation	https://proceedings.mlr.press/v306/huang26v.html	pending
-1709	huang26w	Alignment-Sensitive Minimax Rates for Spectral Algorithms with Learned Kernels	https://proceedings.mlr.press/v306/huang26w.html	pending
-1710	huang26x	Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs	https://proceedings.mlr.press/v306/huang26x.html	pending
-1711	huang26y	Formalizing the Binding Problem	https://proceedings.mlr.press/v306/huang26y.html	pending
-1712	huang26z	Text-Conditional JEPA for Learning Semantically Rich Visual Representations	https://proceedings.mlr.press/v306/huang26z.html	pending
-1713	huang26aa	TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning	https://proceedings.mlr.press/v306/huang26aa.html	pending
-1714	huang26ab	New Algorithms for Fully-Dynamic k-center with Outliers	https://proceedings.mlr.press/v306/huang26ab.html	pending
-1715	huang26ac	Transitivity Meets Cyclicity: Explicit Preference Decomposition for Dynamic Large Language Model Alignment	https://proceedings.mlr.press/v306/huang26ac.html	pending
-1716	huang26ad	Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth	https://proceedings.mlr.press/v306/huang26ad.html	pending
-1717	huang26ae	How to Guide Your Flow: Few-Step Alignment via Flow Map Reward Guidance	https://proceedings.mlr.press/v306/huang26ae.html	pending
-1718	huang26af	MDN: Parallelizing Stepwise Momentum for Delta Linear Attention	https://proceedings.mlr.press/v306/huang26af.html	pending
-1719	huang26ag	Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction	https://proceedings.mlr.press/v306/huang26ag.html	pending
-1720	huang26ah	SURGE: Surrogate Gradient Adaptation in Binary Neural Networks	https://proceedings.mlr.press/v306/huang26ah.html	pending
-1721	huang26ai	Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks	https://proceedings.mlr.press/v306/huang26ai.html	pending
-1722	huang26aj	LiMuon: Light and Fast Muon Optimizer for Large Models	https://proceedings.mlr.press/v306/huang26aj.html	pending
-1723	huang26ak	Optimal Bayesian Stopping for Efficient Inference of Consistent LLM Answers	https://proceedings.mlr.press/v306/huang26ak.html	pending
-1724	huang26al	Outrunning LLM Cutoffs: A Live Kernel Crash Resolution Benchmark for All	https://proceedings.mlr.press/v306/huang26al.html	pending
-1725	huang26am	Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing	https://proceedings.mlr.press/v306/huang26am.html	pending
-1726	huang26an	Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity	https://proceedings.mlr.press/v306/huang26an.html	pending
-1727	huang26ao	PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching	https://proceedings.mlr.press/v306/huang26ao.html	pending
-1728	huang26ap	Towards Professional-Grade Financial Agents: Benchmarking, Tooling, and Structured Reasoning	https://proceedings.mlr.press/v306/huang26ap.html	pending
-1729	huang26aq	Find, Fix, Reason: Context Repair for Video Reasoning	https://proceedings.mlr.press/v306/huang26aq.html	pending
-1730	huang26ar	PADA-Coder: Improving Plan-Following Code Generation via Perturbation-Verified Attention Distillation and Dynamic Alignment	https://proceedings.mlr.press/v306/huang26ar.html	pending
-1731	huang26as	Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning	https://proceedings.mlr.press/v306/huang26as.html	pending
-1732	huang26at	Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers	https://proceedings.mlr.press/v306/huang26at.html	pending
-1733	huang26au	When Model Merging Breaks Routing: Training-Free Calibration for MoE	https://proceedings.mlr.press/v306/huang26au.html	pending
-1734	huang26av	Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding	https://proceedings.mlr.press/v306/huang26av.html	pending
-1735	huang26aw	Local Minima in Quadratic-Penalty Relaxations of Binary Linear Programs	https://proceedings.mlr.press/v306/huang26aw.html	pending
-1736	huang26ax	Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning	https://proceedings.mlr.press/v306/huang26ax.html	pending
-1737	huang26ay	Pessimistic Verification for Open-Ended Math Questions	https://proceedings.mlr.press/v306/huang26ay.html	pending
-1738	huang26az	Attributed Network Alignment: Statistical Limits and Efficient Algorithm	https://proceedings.mlr.press/v306/huang26az.html	pending
-1739	huang26ba	VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models	https://proceedings.mlr.press/v306/huang26ba.html	pending
-1740	huang26bb	GradientStabilizer: Fix the Norm, Not the Gradient	https://proceedings.mlr.press/v306/huang26bb.html	pending
-1741	huang26bc	RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress	https://proceedings.mlr.press/v306/huang26bc.html	pending
-1742	huang26bd	UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling	https://proceedings.mlr.press/v306/huang26bd.html	pending
-1743	huang26be	CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models	https://proceedings.mlr.press/v306/huang26be.html	pending
-1744	huang26bf	AudioMosaic: Contrastive Masked Audio Representation Learning	https://proceedings.mlr.press/v306/huang26bf.html	pending
-1745	huang26bg	Discretely-Refined Multi-view Clustering via Aligned Anchor Learning	https://proceedings.mlr.press/v306/huang26bg.html	pending
-1746	huang26bh	SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-Body Manipulation	https://proceedings.mlr.press/v306/huang26bh.html	pending
-1747	huang26bi	Towards Generative Graph Matching for Graph Edit Distance Computation	https://proceedings.mlr.press/v306/huang26bi.html	pending
-1748	huang26bj	Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment	https://proceedings.mlr.press/v306/huang26bj.html	pending
-1749	huang26bk	On the Emergence of Implicit Curriculum in RLVR Learning Dynamics	https://proceedings.mlr.press/v306/huang26bk.html	pending
-1750	huang26bl	A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention	https://proceedings.mlr.press/v306/huang26bl.html	pending
-1751	huang26bm	AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward	https://proceedings.mlr.press/v306/huang26bm.html	pending
-1752	huang26bn	Does Your Reasoning Model Implicitly Know When to Stop Thinking?	https://proceedings.mlr.press/v306/huang26bn.html	pending
-1753	huang26bo	Real-Time Aligned Reward Model beyond Semantics	https://proceedings.mlr.press/v306/huang26bo.html	pending
-1754	huang26bp	Delegation and Verification under AI	https://proceedings.mlr.press/v306/huang26bp.html	pending
-1755	huang26bq	How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data	https://proceedings.mlr.press/v306/huang26bq.html	pending
-1756	huang26br	FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models	https://proceedings.mlr.press/v306/huang26br.html	pending
-1757	huang26bs	Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection	https://proceedings.mlr.press/v306/huang26bs.html	pending
-1758	huang26bt	LIVE: Long-horizon Interactive Video World Modeling	https://proceedings.mlr.press/v306/huang26bt.html	pending
-1759	huang26bu	FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models	https://proceedings.mlr.press/v306/huang26bu.html	pending
-1760	huang26bv	Cross-Embodiment Robot Foundation World Models with Latent Actions	https://proceedings.mlr.press/v306/huang26bv.html	pending
-1761	huang26bw	ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation	https://proceedings.mlr.press/v306/huang26bw.html	pending
-1762	huang26bx	Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models	https://proceedings.mlr.press/v306/huang26bx.html	pending
-1763	huang26by	MAS-Architect: Declarative Multi-Agent System Design via Separation of Concerns	https://proceedings.mlr.press/v306/huang26by.html	pending
-1764	huang26bz	Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization	https://proceedings.mlr.press/v306/huang26bz.html	pending
-1765	huang26ca	Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs	https://proceedings.mlr.press/v306/huang26ca.html	pending
-1766	huang26cb	AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving	https://proceedings.mlr.press/v306/huang26cb.html	pending
-1767	huang26cc	Prototype-Based Test-Time Adaptation of Vision-Language Models	https://proceedings.mlr.press/v306/huang26cc.html	pending
-1768	huang26cd	TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments	https://proceedings.mlr.press/v306/huang26cd.html	pending
-1769	huang26ce	Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation	https://proceedings.mlr.press/v306/huang26ce.html	pending
-1770	huang26cf	How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild	https://proceedings.mlr.press/v306/huang26cf.html	pending
-1771	huang26cg	Deterministic Differentiable Structured Pruning for Large Language Models	https://proceedings.mlr.press/v306/huang26cg.html	pending
-1772	huang26ch	RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks	https://proceedings.mlr.press/v306/huang26ch.html	pending
-1773	huang26ci	LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space	https://proceedings.mlr.press/v306/huang26ci.html	pending
-1774	huang26cj	GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation	https://proceedings.mlr.press/v306/huang26cj.html	pending
-1775	huang26ck	IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution	https://proceedings.mlr.press/v306/huang26ck.html	pending
-1776	huang26cl	ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation	https://proceedings.mlr.press/v306/huang26cl.html	pending
-1777	huang26cm	TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches	https://proceedings.mlr.press/v306/huang26cm.html	pending
-1778	huang26cn	HONet: Data-Efficient Learning for Exact Cover Tasks via Hypergraph Optimization	https://proceedings.mlr.press/v306/huang26cn.html	pending
-1779	huang26co	Reliability-Aware LLM Alignment from Inconsistent Human Feedback	https://proceedings.mlr.press/v306/huang26co.html	pending
-1780	huber26a	Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks	https://proceedings.mlr.press/v306/huber26a.html	pending
+1701	huang26o	ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization	https://proceedings.mlr.press/v306/huang26o.html	written
+1702	huang26p	E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory	https://proceedings.mlr.press/v306/huang26p.html	written
+1703	huang26q	Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition	https://proceedings.mlr.press/v306/huang26q.html	written
+1704	huang26r	ProbeLLM: Automating Principled Diagnosis of LLM Failures	https://proceedings.mlr.press/v306/huang26r.html	written
+1705	huang26s	Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA	https://proceedings.mlr.press/v306/huang26s.html	written
+1706	huang26t	SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning	https://proceedings.mlr.press/v306/huang26t.html	written
+1707	huang26u	Robust Learning via Nested Distributionally Robust Optimization	https://proceedings.mlr.press/v306/huang26u.html	written
+1708	huang26v	Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation	https://proceedings.mlr.press/v306/huang26v.html	written
+1709	huang26w	Alignment-Sensitive Minimax Rates for Spectral Algorithms with Learned Kernels	https://proceedings.mlr.press/v306/huang26w.html	written
+1710	huang26x	Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs	https://proceedings.mlr.press/v306/huang26x.html	written
+1711	huang26y	Formalizing the Binding Problem	https://proceedings.mlr.press/v306/huang26y.html	written
+1712	huang26z	Text-Conditional JEPA for Learning Semantically Rich Visual Representations	https://proceedings.mlr.press/v306/huang26z.html	written
+1713	huang26aa	TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning	https://proceedings.mlr.press/v306/huang26aa.html	written
+1714	huang26ab	New Algorithms for Fully-Dynamic k-center with Outliers	https://proceedings.mlr.press/v306/huang26ab.html	written
+1715	huang26ac	Transitivity Meets Cyclicity: Explicit Preference Decomposition for Dynamic Large Language Model Alignment	https://proceedings.mlr.press/v306/huang26ac.html	written
+1716	huang26ad	Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth	https://proceedings.mlr.press/v306/huang26ad.html	written
+1717	huang26ae	How to Guide Your Flow: Few-Step Alignment via Flow Map Reward Guidance	https://proceedings.mlr.press/v306/huang26ae.html	written
+1718	huang26af	MDN: Parallelizing Stepwise Momentum for Delta Linear Attention	https://proceedings.mlr.press/v306/huang26af.html	written
+1719	huang26ag	Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction	https://proceedings.mlr.press/v306/huang26ag.html	written
+1720	huang26ah	SURGE: Surrogate Gradient Adaptation in Binary Neural Networks	https://proceedings.mlr.press/v306/huang26ah.html	written
+1721	huang26ai	Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks	https://proceedings.mlr.press/v306/huang26ai.html	written
+1722	huang26aj	LiMuon: Light and Fast Muon Optimizer for Large Models	https://proceedings.mlr.press/v306/huang26aj.html	written
+1723	huang26ak	Optimal Bayesian Stopping for Efficient Inference of Consistent LLM Answers	https://proceedings.mlr.press/v306/huang26ak.html	written
+1724	huang26al	Outrunning LLM Cutoffs: A Live Kernel Crash Resolution Benchmark for All	https://proceedings.mlr.press/v306/huang26al.html	written
+1725	huang26am	Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing	https://proceedings.mlr.press/v306/huang26am.html	written
+1726	huang26an	Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity	https://proceedings.mlr.press/v306/huang26an.html	written
+1727	huang26ao	PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching	https://proceedings.mlr.press/v306/huang26ao.html	written
+1728	huang26ap	Towards Professional-Grade Financial Agents: Benchmarking, Tooling, and Structured Reasoning	https://proceedings.mlr.press/v306/huang26ap.html	written
+1729	huang26aq	Find, Fix, Reason: Context Repair for Video Reasoning	https://proceedings.mlr.press/v306/huang26aq.html	written
+1730	huang26ar	PADA-Coder: Improving Plan-Following Code Generation via Perturbation-Verified Attention Distillation and Dynamic Alignment	https://proceedings.mlr.press/v306/huang26ar.html	written
+1731	huang26as	Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning	https://proceedings.mlr.press/v306/huang26as.html	written
+1732	huang26at	Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers	https://proceedings.mlr.press/v306/huang26at.html	written
+1733	huang26au	When Model Merging Breaks Routing: Training-Free Calibration for MoE	https://proceedings.mlr.press/v306/huang26au.html	written
+1734	huang26av	Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding	https://proceedings.mlr.press/v306/huang26av.html	written
+1735	huang26aw	Local Minima in Quadratic-Penalty Relaxations of Binary Linear Programs	https://proceedings.mlr.press/v306/huang26aw.html	written
+1736	huang26ax	Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning	https://proceedings.mlr.press/v306/huang26ax.html	written
+1737	huang26ay	Pessimistic Verification for Open-Ended Math Questions	https://proceedings.mlr.press/v306/huang26ay.html	written
+1738	huang26az	Attributed Network Alignment: Statistical Limits and Efficient Algorithm	https://proceedings.mlr.press/v306/huang26az.html	written
+1739	huang26ba	VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models	https://proceedings.mlr.press/v306/huang26ba.html	written
+1740	huang26bb	GradientStabilizer: Fix the Norm, Not the Gradient	https://proceedings.mlr.press/v306/huang26bb.html	written
+1741	huang26bc	RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress	https://proceedings.mlr.press/v306/huang26bc.html	written
+1742	huang26bd	UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling	https://proceedings.mlr.press/v306/huang26bd.html	written
+1743	huang26be	CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models	https://proceedings.mlr.press/v306/huang26be.html	written
+1744	huang26bf	AudioMosaic: Contrastive Masked Audio Representation Learning	https://proceedings.mlr.press/v306/huang26bf.html	written
+1745	huang26bg	Discretely-Refined Multi-view Clustering via Aligned Anchor Learning	https://proceedings.mlr.press/v306/huang26bg.html	written
+1746	huang26bh	SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-Body Manipulation	https://proceedings.mlr.press/v306/huang26bh.html	written
+1747	huang26bi	Towards Generative Graph Matching for Graph Edit Distance Computation	https://proceedings.mlr.press/v306/huang26bi.html	written
+1748	huang26bj	Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment	https://proceedings.mlr.press/v306/huang26bj.html	written
+1749	huang26bk	On the Emergence of Implicit Curriculum in RLVR Learning Dynamics	https://proceedings.mlr.press/v306/huang26bk.html	written
+1750	huang26bl	A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention	https://proceedings.mlr.press/v306/huang26bl.html	written
+1751	huang26bm	AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward	https://proceedings.mlr.press/v306/huang26bm.html	written
+1752	huang26bn	Does Your Reasoning Model Implicitly Know When to Stop Thinking?	https://proceedings.mlr.press/v306/huang26bn.html	written
+1753	huang26bo	Real-Time Aligned Reward Model beyond Semantics	https://proceedings.mlr.press/v306/huang26bo.html	written
+1754	huang26bp	Delegation and Verification under AI	https://proceedings.mlr.press/v306/huang26bp.html	written
+1755	huang26bq	How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data	https://proceedings.mlr.press/v306/huang26bq.html	written
+1756	huang26br	FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models	https://proceedings.mlr.press/v306/huang26br.html	written
+1757	huang26bs	Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection	https://proceedings.mlr.press/v306/huang26bs.html	written
+1758	huang26bt	LIVE: Long-horizon Interactive Video World Modeling	https://proceedings.mlr.press/v306/huang26bt.html	written
+1759	huang26bu	FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models	https://proceedings.mlr.press/v306/huang26bu.html	written
+1760	huang26bv	Cross-Embodiment Robot Foundation World Models with Latent Actions	https://proceedings.mlr.press/v306/huang26bv.html	written
+1761	huang26bw	ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation	https://proceedings.mlr.press/v306/huang26bw.html	written
+1762	huang26bx	Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models	https://proceedings.mlr.press/v306/huang26bx.html	written
+1763	huang26by	MAS-Architect: Declarative Multi-Agent System Design via Separation of Concerns	https://proceedings.mlr.press/v306/huang26by.html	written
+1764	huang26bz	Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization	https://proceedings.mlr.press/v306/huang26bz.html	written
+1765	huang26ca	Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs	https://proceedings.mlr.press/v306/huang26ca.html	written
+1766	huang26cb	AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving	https://proceedings.mlr.press/v306/huang26cb.html	written
+1767	huang26cc	Prototype-Based Test-Time Adaptation of Vision-Language Models	https://proceedings.mlr.press/v306/huang26cc.html	written
+1768	huang26cd	TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments	https://proceedings.mlr.press/v306/huang26cd.html	written
+1769	huang26ce	Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation	https://proceedings.mlr.press/v306/huang26ce.html	written
+1770	huang26cf	How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild	https://proceedings.mlr.press/v306/huang26cf.html	written
+1771	huang26cg	Deterministic Differentiable Structured Pruning for Large Language Models	https://proceedings.mlr.press/v306/huang26cg.html	written
+1772	huang26ch	RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks	https://proceedings.mlr.press/v306/huang26ch.html	written
+1773	huang26ci	LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space	https://proceedings.mlr.press/v306/huang26ci.html	written
+1774	huang26cj	GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation	https://proceedings.mlr.press/v306/huang26cj.html	written
+1775	huang26ck	IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution	https://proceedings.mlr.press/v306/huang26ck.html	written
+1776	huang26cl	ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation	https://proceedings.mlr.press/v306/huang26cl.html	written
+1777	huang26cm	TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches	https://proceedings.mlr.press/v306/huang26cm.html	written
+1778	huang26cn	HONet: Data-Efficient Learning for Exact Cover Tasks via Hypergraph Optimization	https://proceedings.mlr.press/v306/huang26cn.html	written
+1779	huang26co	Reliability-Aware LLM Alignment from Inconsistent Human Feedback	https://proceedings.mlr.press/v306/huang26co.html	written
+1780	huber26a	Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks	https://proceedings.mlr.press/v306/huber26a.html	written
 1781	hubers26a	Foundation Inference Models for Ordinary Differential Equations	https://proceedings.mlr.press/v306/hubers26a.html	pending
 1782	hubotter26a	Reinforcement Learning via Self-Distillation	https://proceedings.mlr.press/v306/hubotter26a.html	pending
 1783	hudson26a	Corrigibility Transformation: Constructing Goals That Accept Updates	https://proceedings.mlr.press/v306/hudson26a.html	pending

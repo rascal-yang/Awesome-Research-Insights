@@ -42,6 +42,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="hagnberger26a-architecture"></a>[SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](../../conferences/icml-2026/cards/1401-1500.md#paper-hagnberger26a)
 - <a id="hong26h-architecture"></a>[Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26h)
 - <a id="hu26at-architecture"></a>[MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26at)
+- <a id="huang26p-architecture"></a>[E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26p)
+- <a id="huang26am-architecture"></a>[Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26am)
 
 <a id="by-modules"></a>
 
@@ -180,6 +182,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="hu26s-representation-learning"></a>[See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26s)
 - <a id="hu26aj-representation-learning"></a>[Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded Orthogonal Inference](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26aj)
 - <a id="hua26a-representation-learning"></a>[VecMol: Vector-Field Representations for 3D Molecule Generation](../../conferences/icml-2026/cards/1601-1700.md#paper-hua26a)
+- <a id="huang26as-representation-learning"></a>[Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26as)
+- <a id="huang26ci-representation-learning"></a>[LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ci)
 
 <a id="by-evaluation"></a>
 
@@ -218,4 +222,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="gatzner26a-theory-statistics"></a>[Principled Confidence Estimation for Deep Computed Tomography](../../conferences/icml-2026/cards/1201-1300.md#paper-gatzner26a)
 - <a id="gloeckler26a-theory-statistics"></a>[Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../conferences/icml-2026/cards/1201-1300.md#paper-gloeckler26a)
 - <a id="guan26a-theory-statistics"></a>[A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26a)
+- <a id="huang26ce-theory-statistics"></a>[Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ce)
 <!-- classification:end -->

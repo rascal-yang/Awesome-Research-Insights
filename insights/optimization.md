@@ -40,6 +40,10 @@
 - [从执行轨迹进化代理协作图](../conferences/icml-2026/cards/1601-1700.md#hu26bg-optimization) · EvoMAS: Evolutionary Generation of Multi-Agent Systems
 - [按有效秩跨层分配专家保留额](../conferences/icml-2026/cards/1601-1700.md#hu26bj-optimization) · RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models
 - [跟踪并抑制主导梯度谱方向](../conferences/icml-2026/cards/1601-1700.md#huang26d-optimization) · Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy
+- [让文本优化反馈按责任节点传递](../conferences/icml-2026/cards/1701-1800.md#huang26aa-optimization) · TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning
+- [合并专家后按局部曲率重校准离散路由](../conferences/icml-2026/cards/1701-1800.md#huang26au-optimization) · When Model Merging Breaks Routing: Training-Free Calibration for MoE
+- [量化时重视不可逆写入前沿](../conferences/icml-2026/cards/1701-1800.md#huang26br-optimization) · FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models
+- [用确定性门优化结构化剪枝](../conferences/icml-2026/cards/1701-1800.md#huang26cg-optimization) · Deterministic Differentiable Structured Pruning for Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -80,6 +84,7 @@
 
 - [多模态检测的跨阶段融合搜索](../conferences/icml-2026/cards/1201-1300.md#gao26an-optimization) · MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection
 - [持续低秩适配的谱均衡约束](../conferences/icml-2026/cards/1301-1400.md#gu26i-optimization) · Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation
+- [在奇异子空间选择注入哪些推理能力](../conferences/icml-2026/cards/1701-1800.md#huang26bu-optimization) · FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -204,6 +209,14 @@
 - [用平均分数编码采样的访问历史](../conferences/icml-2026/cards/1601-1700.md#hu26g-optimization) · Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces
 - [用两类备择调度带约束测量](../conferences/icml-2026/cards/1601-1700.md#hu26bi-optimization) · Learning the Best Under Constraints: A Duality-Based Framework
 - [只用学习求解器采样整数变量](../conferences/icml-2026/cards/1601-1700.md#huang26j-optimization) · Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming
+- [学习谱尾以适配目标函数粗糙度](../conferences/icml-2026/cards/1701-1800.md#huang26o-optimization) · ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization
+- [分离离群清洗与几何鲁棒化](../conferences/icml-2026/cards/1701-1800.md#huang26u-optimization) · Robust Learning via Nested Distributionally Robust Optimization
+- [用全精度辅助支路校准二值反向梯度](../conferences/icml-2026/cards/1701-1800.md#huang26ah-optimization) · SURGE: Surrogate Gradient Adaptation in Binary Neural Networks
+- [为矩阵优化器压缩方差缩减状态](../conferences/icml-2026/cards/1701-1800.md#huang26aj-optimization) · LiMuon: Light and Fast Muon Optimizer for Large Models
+- [用罚项的局部可修复性排除不可行的盒极小点](../conferences/icml-2026/cards/1701-1800.md#huang26aw-optimization) · Local Minima in Quadratic-Penalty Relaxations of Binary Linear Programs
+- [用范数的均方比稳定步幅，同时保留随机梯度方向](../conferences/icml-2026/cards/1701-1800.md#huang26bb-optimization) · GradientStabilizer: Fix the Norm, Not the Gradient
+- [用离散聚类指派反哺连续共识图](../conferences/icml-2026/cards/1701-1800.md#huang26bg-optimization) · Discretely-Refined Multi-view Clustering via Aligned Anchor Learning
+- [把固定规则放入可微精确覆盖层](../conferences/icml-2026/cards/1701-1800.md#huang26cn-optimization) · HONet: Data-Efficient Learning for Exact Cover Tasks via Hypergraph Optimization
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -216,6 +229,9 @@
 - [演化图的粗化映射增量更新](../conferences/icml-2026/cards/1401-1500.md#gupta26b-optimization) · Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening
 - [用生成轨迹累积结构互斥的候选图](../conferences/icml-2026/cards/1601-1700.md#hosseini26b-optimization) · Neural Dispersion on Graphs
 - [先按同配性归组再修正组间联邦梯度](../conferences/icml-2026/cards/1601-1700.md#huang26k-optimization) · Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning
+- [用同一个排列变量融合边权和节点属性证据](../conferences/icml-2026/cards/1701-1800.md#huang26az-optimization) · Attributed Network Alignment: Statistical Limits and Efficient Algorithm
+- [用扩散采样生成多样图编辑候选](../conferences/icml-2026/cards/1701-1800.md#huang26bi-optimization) · Towards Generative Graph Matching for Graph Edit Distance Computation
+- [用传输控制穿越组合松弛能量面](../conferences/icml-2026/cards/1701-1800.md#huang26bz-optimization) · Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization
 
 <a id="by-scientific-ml"></a>
 

@@ -18,6 +18,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="chuang26a-architecture"></a>[The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](../../conferences/icml-2026/cards/0701-0800.md#paper-chuang26a)
 - <a id="ding26x-architecture"></a>[Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26x)
 - <a id="hu26ad-architecture"></a>[From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ad)
+- <a id="huang26bh-architecture"></a>[SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-Body Manipulation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bh)
+- <a id="huang26cb-architecture"></a>[AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cb)
 
 <a id="by-modules"></a>
 
@@ -63,6 +65,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26n)
 - <a id="guo26i-training-strategies"></a>[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26i)
 - <a id="he26aq-training-strategies"></a>[FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy](../../conferences/icml-2026/cards/1501-1600.md#paper-he26aq)
+- <a id="huang26v-training-strategies"></a>[Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26v)
+- <a id="huang26cd-training-strategies"></a>[TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cd)
 
 <a id="by-data-strategies"></a>
 
@@ -95,6 +99,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="hoshino26a-inference"></a>[Training-Free Guided Diffusion for Planning: A Unified Framework via Doob’s h-Transform with Safety Guarantees](../../conferences/icml-2026/cards/1501-1600.md#paper-hoshino26a)
 - <a id="hu26w-inference"></a>[Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26w)
 - <a id="huang26h-inference"></a>[EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26h)
+- <a id="huang26t-inference"></a>[SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26t)
 
 <a id="by-representation-learning"></a>
 
@@ -103,6 +108,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="fan26f-representation-learning"></a>[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26f)
 - <a id="habashy26a-representation-learning"></a>[Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](../../conferences/icml-2026/cards/1401-1500.md#paper-habashy26a)
 - <a id="he26ao-representation-learning"></a>[Motion Dynamics Learning for Few-Shot Embodied Adaptation](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ao)
+- <a id="huang26bv-representation-learning"></a>[Cross-Embodiment Robot Foundation World Models with Latent Actions](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bv)
 
 <a id="by-evaluation"></a>
 
@@ -114,6 +120,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26r)
 - <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab)
 - <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26u)
+- <a id="huang26cm-evaluation"></a>[TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cm)
 
 <a id="by-theory-statistics"></a>
 

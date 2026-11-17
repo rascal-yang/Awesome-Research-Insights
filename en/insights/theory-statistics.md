@@ -35,6 +35,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling](../../conferences/icml-2026/cards/1501-1600.md#hilton-jones26a-theory-statistics) · 中文
 - [Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence](../../conferences/icml-2026/cards/1601-1700.md#hu26ak-theory-statistics) · 中文
 - [OSCS: Online Selection with Provable FAR Control for LLM Safety](../../conferences/icml-2026/cards/1601-1700.md#hu26bh-theory-statistics) · 中文
+- [On the Emergence of Implicit Curriculum in RLVR Learning Dynamics](../../conferences/icml-2026/cards/1701-1800.md#huang26bk-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -87,6 +88,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hopkins26b-theory-statistics) · 中文
 - [Finite-time Convergence Analysis of Actor-Critic with Evolving Reward](../../conferences/icml-2026/cards/1601-1700.md#hu26f-theory-statistics) · 中文
 - [Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs](../../conferences/icml-2026/cards/1601-1700.md#hu26bc-theory-statistics) · 中文
+- [Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs](../../conferences/icml-2026/cards/1701-1800.md#huang26x-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -290,6 +292,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Universal Approximation with Softmax Attention](../../conferences/icml-2026/cards/1601-1700.md#hu26af-theory-statistics) · 中文
 - [On Structured State-Space Duality](../../conferences/icml-2026/cards/1601-1700.md#hu26be-theory-statistics) · 中文
 - [Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics](../../conferences/icml-2026/cards/1601-1700.md#huang26a-theory-statistics) · 中文
+- [Alignment-Sensitive Minimax Rates for Spectral Algorithms with Learned Kernels](../../conferences/icml-2026/cards/1701-1800.md#huang26w-theory-statistics) · 中文
+- [New Algorithms for Fully-Dynamic k-center with Outliers](../../conferences/icml-2026/cards/1701-1800.md#huang26ab-theory-statistics) · 中文
+- [Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks](../../conferences/icml-2026/cards/1701-1800.md#huang26ai-theory-statistics) · 中文
+- [Delegation and Verification under AI](../../conferences/icml-2026/cards/1701-1800.md#huang26bp-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -321,4 +327,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Principled Confidence Estimation for Deep Computed Tomography](../../conferences/icml-2026/cards/1201-1300.md#gatzner26a-theory-statistics) · 中文
 - [Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../conferences/icml-2026/cards/1201-1300.md#gloeckler26a-theory-statistics) · 中文
 - [A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](../../conferences/icml-2026/cards/1301-1400.md#guan26a-theory-statistics) · 中文
+- [Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation](../../conferences/icml-2026/cards/1701-1800.md#huang26ce-theory-statistics) · 中文
 <!-- classification:end -->

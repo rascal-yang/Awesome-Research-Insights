@@ -70,6 +70,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [BroRL: Scaling Reinforcement Learning via Broadened Exploration](../../conferences/icml-2026/cards/1601-1700.md#hu26ah-reinforcement-learning) · 中文
 - [Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](../../conferences/icml-2026/cards/1601-1700.md#hua26c-reinforcement-learning) · 中文
 - [Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](../../conferences/icml-2026/cards/1601-1700.md#huang26g-reinforcement-learning) · 中文
+- [Transitivity Meets Cyclicity: Explicit Preference Decomposition for Dynamic Large Language Model Alignment](../../conferences/icml-2026/cards/1701-1800.md#huang26ac-reinforcement-learning) · 中文
+- [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](../../conferences/icml-2026/cards/1701-1800.md#huang26bn-reinforcement-learning) · 中文
+- [Real-Time Aligned Reward Model beyond Semantics](../../conferences/icml-2026/cards/1701-1800.md#huang26bo-reinforcement-learning) · 中文
+- [Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](../../conferences/icml-2026/cards/1701-1800.md#huang26ca-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -189,6 +193,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization](../../conferences/icml-2026/cards/1501-1600.md#he26j-reinforcement-learning) · 中文
 - [RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation](../../conferences/icml-2026/cards/1501-1600.md#he26av-reinforcement-learning) · 中文
 - [Faithful Mobile GUI Agents with Guided Advantage Estimator](../../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · 中文
+- [Find, Fix, Reason: Context Repair for Video Reasoning](../../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · 中文
+- [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

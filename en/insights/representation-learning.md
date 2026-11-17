@@ -54,12 +54,14 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](../../conferences/icml-2026/cards/0301-0400.md#cao26p-representation-learning) · 中文
 - [InstEmb: Instruction-Following Embeddings through Glimpses of the Future](../../conferences/icml-2026/cards/1201-1300.md#gao26h-representation-learning) · 中文
 - [Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](../../conferences/icml-2026/cards/1401-1500.md#gupta26c-representation-learning) · 中文
+- [AudioMosaic: Contrastive Masked Audio Representation Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26bf-representation-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning
 
 - [Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](../../conferences/icml-2026/cards/0201-0300.md#bastankhah26a-representation-learning) · 中文
+- [Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks](../../conferences/icml-2026/cards/1701-1800.md#huber26a-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -68,6 +70,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](../../conferences/icml-2026/cards/1001-1100.md#fan26f-representation-learning) · 中文
 - [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](../../conferences/icml-2026/cards/1401-1500.md#habashy26a-representation-learning) · 中文
 - [Motion Dynamics Learning for Few-Shot Embodied Adaptation](../../conferences/icml-2026/cards/1501-1600.md#he26ao-representation-learning) · 中文
+- [Cross-Embodiment Robot Foundation World Models with Latent Actions](../../conferences/icml-2026/cards/1701-1800.md#huang26bv-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -85,6 +88,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [RADIO1D: Elastic Representations for Condensed Vision Modeling](../../conferences/icml-2026/cards/1501-1600.md#heinrich26a-representation-learning) · 中文
 - [TextME: Bridging Unseen Modalities Through Text Descriptions](../../conferences/icml-2026/cards/1501-1600.md#hong26d-representation-learning) · 中文
 - [ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding](../../conferences/icml-2026/cards/1601-1700.md#hu26a-representation-learning) · 中文
+- [Text-Conditional JEPA for Learning Semantically Rich Visual Representations](../../conferences/icml-2026/cards/1701-1800.md#huang26z-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -129,6 +133,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs](../../conferences/icml-2026/cards/1501-1600.md#he26at-representation-learning) · 中文
 - [Hierarchical Anchor Graph Learning for Multi-View Clustering](../../conferences/icml-2026/cards/1601-1700.md#hu26x-representation-learning) · 中文
 - [A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1601-1700.md#hu26ag-representation-learning) · 中文
+- [Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection](../../conferences/icml-2026/cards/1701-1800.md#huang26bs-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -153,4 +158,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition](../../conferences/icml-2026/cards/1601-1700.md#hu26s-representation-learning) · 中文
 - [Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded Orthogonal Inference](../../conferences/icml-2026/cards/1601-1700.md#hu26aj-representation-learning) · 中文
 - [VecMol: Vector-Field Representations for 3D Molecule Generation](../../conferences/icml-2026/cards/1601-1700.md#hua26a-representation-learning) · 中文
+- [Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26as-representation-learning) · 中文
+- [LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space](../../conferences/icml-2026/cards/1701-1800.md#huang26ci-representation-learning) · 中文
 <!-- classification:end -->

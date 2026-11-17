@@ -33,6 +33,7 @@
 - [差分隐私偏好对合成](../conferences/icml-2026/cards/1201-1300.md#gao26ae-data-strategies) · Differentially Private Preference Data Synthesis for Large Language Model Alignment
 - [复用可验证的软件环境](../conferences/icml-2026/cards/1301-1400.md#guo26aa-data-strategies) · MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering
 - [用多步代理更新估计样本的后续价值](../conferences/icml-2026/cards/1401-1500.md#hao26b-data-strategies) · BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining
+- [交替由学生写风格和教师补解法](../conferences/icml-2026/cards/1701-1800.md#huang26bq-data-strategies) · How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data
 
 <a id="by-computer-vision"></a>
 

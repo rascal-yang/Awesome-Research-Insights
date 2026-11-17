@@ -144,6 +144,11 @@
 - [把采样来源与训练损失交叉消融](../conferences/icml-2026/cards/1601-1700.md#huan26a-evaluation) · Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning
 - [先精确反编译再按因果效应剪枝](../conferences/icml-2026/cards/1601-1700.md#huang26b-evaluation) · Discovering Interpretable Algorithms by Decompiling Transformers to RASP
 - [审计安全数据自动增广的污染传播](../conferences/icml-2026/cards/1601-1700.md#huang26e-evaluation) · Rapid Poison: Practical Poisoning Attacks Against the Rapid Response Framework
+- [在失败探测中划分探索和复查预算](../conferences/icml-2026/cards/1701-1800.md#huang26r-evaluation) · ProbeLLM: Automating Principled Diagnosis of LLM Failures
+- [用滚动崩溃集与补丁双指标评估修复](../conferences/icml-2026/cards/1701-1800.md#huang26al-evaluation) · Outrunning LLM Cutoffs: A Live Kernel Crash Resolution Benchmark for All
+- [用设备负载分布和 TTFT 共同审计 MoE 路由](../conferences/icml-2026/cards/1701-1800.md#huang26bc-evaluation) · RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress
+- [按表格拓扑构建多轮用表轨迹](../conferences/icml-2026/cards/1701-1800.md#huang26cf-evaluation) · How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild
+- [用自适应重写压力测试语言水印](../conferences/icml-2026/cards/1701-1800.md#huang26ch-evaluation) · RLCracker: Evaluating the Worst-Case Vulnerability of LLM Watermarks with Adaptive RL Attacks
 
 <a id="by-computer-vision"></a>
 
@@ -165,6 +170,8 @@
 - [插入抑制证据解释缺席概念](../conferences/icml-2026/cards/1501-1600.md#hesse26a-evaluation) · What is Missing? Explaining Neurons Activated by Absent Concepts
 - [用人工定位上界区分小物体编辑和评审失败](../conferences/icml-2026/cards/1501-1600.md#hong26a-evaluation) · DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model
 - [跨训练阶段检验持续学习的后门持久性](../conferences/icml-2026/cards/1601-1700.md#huang26n-evaluation) · Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring
+- [从特征存在性中扣除对象绑定信息](../conferences/icml-2026/cards/1701-1800.md#huang26y-evaluation) · Formalizing the Binding Problem
+- [把扩散调度输入作为独立的安全审计面](../conferences/icml-2026/cards/1701-1800.md#huang26av-evaluation) · Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding
 
 <a id="by-nlp"></a>
 
@@ -201,6 +208,7 @@
 - [机器人生成视频的物理与任务评测](../conferences/icml-2026/cards/0801-0900.md#deng26r-evaluation) · Rethinking Video Generation Model for the Embodied World
 - [动作块增量的基准姿态](../conferences/icml-2026/cards/1101-1200.md#feng26ab-evaluation) · Demystifying Action Space Design for Robotic Manipulation Policies
 - [机器人代码策略的分层脚手架评测](../conferences/icml-2026/cards/1101-1200.md#fu26u-evaluation) · CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
+- [分开审计 VLA 的指令、推理与动作链路](../conferences/icml-2026/cards/1701-1800.md#huang26cm-evaluation) · TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches
 
 <a id="by-multimodal"></a>
 
@@ -236,6 +244,7 @@
 - [对同一因果问题分别评估叙述和显式链](../conferences/icml-2026/cards/1501-1600.md#hoang26b-evaluation) · The Abstraction Gap in Vision-Language Causal Reasoning
 - [在图像编辑评估中覆盖视觉指令](../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models
 - [从任务失败周期诊断隐藏视觉分块](../conferences/icml-2026/cards/1601-1700.md#hu26b-evaluation) · Steal the Patch Size: Adversarially Manipulate Vision Language Models
+- [用逐模态数据复杂度和头部敲除诊断上下文迁移](../conferences/icml-2026/cards/1701-1800.md#huang26at-evaluation) · Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers
 
 <a id="by-ml-foundations"></a>
 
@@ -268,6 +277,7 @@
 - [按决策收益度量解释价值](../conferences/icml-2026/cards/1301-1400.md#guo26u-evaluation) · Explanations are a Means to an End: Decision Theoretic Explanation Evaluation
 - [时间序列预测的频域稳健性评测](../conferences/icml-2026/cards/1401-1500.md#han26d-evaluation) · TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting
 - [把图结构比较与免通道对齐的权重比较结合](../conferences/icml-2026/cards/1601-1700.md#hu26ap-evaluation) · An In-Depth Study on Deep Learning Model Cloning
+- [按估分与找失败的目标分配测试](../conferences/icml-2026/cards/1701-1800.md#huang26bw-evaluation) · ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -40,6 +40,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [EvoMAS: Evolutionary Generation of Multi-Agent Systems](../../conferences/icml-2026/cards/1601-1700.md#hu26bg-optimization) · 中文
 - [RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26bj-optimization) · 中文
 - [Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy](../../conferences/icml-2026/cards/1601-1700.md#huang26d-optimization) · 中文
+- [TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning](../../conferences/icml-2026/cards/1701-1800.md#huang26aa-optimization) · 中文
+- [When Model Merging Breaks Routing: Training-Free Calibration for MoE](../../conferences/icml-2026/cards/1701-1800.md#huang26au-optimization) · 中文
+- [FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26br-optimization) · 中文
+- [Deterministic Differentiable Structured Pruning for Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26cg-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -80,6 +84,7 @@ Gradient updates, parameterization, and optimization dynamics.
 
 - [MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](../../conferences/icml-2026/cards/1201-1300.md#gao26an-optimization) · 中文
 - [Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation](../../conferences/icml-2026/cards/1301-1400.md#gu26i-optimization) · 中文
+- [FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26bu-optimization) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -204,6 +209,14 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces](../../conferences/icml-2026/cards/1601-1700.md#hu26g-optimization) · 中文
 - [Learning the Best Under Constraints: A Duality-Based Framework](../../conferences/icml-2026/cards/1601-1700.md#hu26bi-optimization) · 中文
 - [Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming](../../conferences/icml-2026/cards/1601-1700.md#huang26j-optimization) · 中文
+- [ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization](../../conferences/icml-2026/cards/1701-1800.md#huang26o-optimization) · 中文
+- [Robust Learning via Nested Distributionally Robust Optimization](../../conferences/icml-2026/cards/1701-1800.md#huang26u-optimization) · 中文
+- [SURGE: Surrogate Gradient Adaptation in Binary Neural Networks](../../conferences/icml-2026/cards/1701-1800.md#huang26ah-optimization) · 中文
+- [LiMuon: Light and Fast Muon Optimizer for Large Models](../../conferences/icml-2026/cards/1701-1800.md#huang26aj-optimization) · 中文
+- [Local Minima in Quadratic-Penalty Relaxations of Binary Linear Programs](../../conferences/icml-2026/cards/1701-1800.md#huang26aw-optimization) · 中文
+- [GradientStabilizer: Fix the Norm, Not the Gradient](../../conferences/icml-2026/cards/1701-1800.md#huang26bb-optimization) · 中文
+- [Discretely-Refined Multi-view Clustering via Aligned Anchor Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26bg-optimization) · 中文
+- [HONet: Data-Efficient Learning for Exact Cover Tasks via Hypergraph Optimization](../../conferences/icml-2026/cards/1701-1800.md#huang26cn-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -216,6 +229,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../../conferences/icml-2026/cards/1401-1500.md#gupta26b-optimization) · 中文
 - [Neural Dispersion on Graphs](../../conferences/icml-2026/cards/1601-1700.md#hosseini26b-optimization) · 中文
 - [Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning](../../conferences/icml-2026/cards/1601-1700.md#huang26k-optimization) · 中文
+- [Attributed Network Alignment: Statistical Limits and Efficient Algorithm](../../conferences/icml-2026/cards/1701-1800.md#huang26az-optimization) · 中文
+- [Towards Generative Graph Matching for Graph Edit Distance Computation](../../conferences/icml-2026/cards/1701-1800.md#huang26bi-optimization) · 中文
+- [Optimal Transport–Guided Stochastic Control for Graph Combinatorial Optimization](../../conferences/icml-2026/cards/1701-1800.md#huang26bz-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 

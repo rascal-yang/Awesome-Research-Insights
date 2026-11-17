@@ -56,6 +56,9 @@
 - [蒸馏投影的激活感知初始化](../conferences/icml-2026/cards/1501-1600.md#he26aj-training-strategies) · Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization
 - [用可微共形流程学习断言评分，再切回硬校准](../conferences/icml-2026/cards/1501-1600.md#hittesdorf26a-training-strategies) · Differentiable Conformal Training for LLM Reasoning Factuality
 - [从自身 Jacobi 轨迹蒸馏保持因果的多词元预测](../conferences/icml-2026/cards/1601-1700.md#hu26aa-training-strategies) · Fast and Accurate Causal Parallel Decoding using Jacobi Forcing
+- [用可辨识的掩码区间安排扩散语言模型训练预算](../conferences/icml-2026/cards/1701-1800.md#huang26an-training-strategies) · Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity
+- [用词元扰动验证当前代码步骤真正依赖的计划线索](../conferences/icml-2026/cards/1701-1800.md#huang26ar-training-strategies) · PADA-Coder: Improving Plan-Following Code Generation via Perturbation-Verified Attention Distillation and Dynamic Alignment
+- [用标注者可靠性加权语言模型偏好学习](../conferences/icml-2026/cards/1701-1800.md#huang26co-training-strategies) · Reliability-Aware LLM Alignment from Inconsistent Human Feedback
 
 <a id="by-computer-vision"></a>
 
@@ -97,6 +100,8 @@
 - [跨构型控制的奇异分量门控](../conferences/icml-2026/cards/1101-1200.md#feng26n-training-strategies) · Knowledge Diversion for Efficient Morphology Control and Policy Transfer
 - [视觉动作策略与世界模型的交替改进](../conferences/icml-2026/cards/1301-1400.md#guo26i-training-strategies) · VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model
 - [用频域监督衔接连续动作块](../conferences/icml-2026/cards/1501-1600.md#he26aq-training-strategies) · FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy
+- [让同一符号域提供规划示范与逐步反馈](../conferences/icml-2026/cards/1701-1800.md#huang26v-training-strategies) · Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation
+- [训练控制端显式处理过期语义](../conferences/icml-2026/cards/1701-1800.md#huang26cd-training-strategies) · TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments
 
 <a id="by-multimodal"></a>
 
@@ -114,6 +119,7 @@
 - [长视频内容的一次性参数蒸馏](../conferences/icml-2026/cards/1301-1400.md#guan26c-training-strategies) · From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations
 - [隐蔽文字识别的能力边界训练](../conferences/icml-2026/cards/1401-1500.md#guo26aj-training-strategies) · ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning
 - [按实际梯度曝光量控制多模态尾部压力](../conferences/icml-2026/cards/1501-1600.md#hong26b-training-strategies) · Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness
+- [训练多轮多尺度视觉检索轨迹](../conferences/icml-2026/cards/1701-1800.md#huang26bx-training-strategies) · Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models
 
 <a id="by-ml-foundations"></a>
 

@@ -25,6 +25,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse](../../conferences/icml-2026/cards/1101-1200.md#fu26v-loss-functions) · 中文
 - [From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models](../../conferences/icml-2026/cards/1301-1400.md#gu26o-loss-functions) · 中文
 - [Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#hu26d-loss-functions) · 中文
+- [Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA](../../conferences/icml-2026/cards/1701-1800.md#huang26s-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -36,6 +37,8 @@ Objectives, auxiliary supervision, and regularization.
 - [BiRQA: Bidirectional Robust Quality Assessment for Images](../../conferences/icml-2026/cards/1401-1500.md#gushchin26a-loss-functions) · 中文
 - [Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](../../conferences/icml-2026/cards/1401-1500.md#ha26b-loss-functions) · 中文
 - [SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly](../../conferences/icml-2026/cards/1501-1600.md#heck26a-loss-functions) · 中文
+- [Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment](../../conferences/icml-2026/cards/1701-1800.md#huang26bj-loss-functions) · 中文
+- [LIVE: Long-horizon Interactive Video World Modeling](../../conferences/icml-2026/cards/1701-1800.md#huang26bt-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

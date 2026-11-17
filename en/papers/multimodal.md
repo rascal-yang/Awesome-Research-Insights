@@ -21,6 +21,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="he26ac-architecture"></a>[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ac)
 - <a id="hu26q-architecture"></a>[RVAS: Referring Video Active Exploration and Segmentation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26q)
 - <a id="hu26u-architecture"></a>[MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26u)
+- <a id="huang26be-architecture"></a>[CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26be)
 
 <a id="by-modules"></a>
 
@@ -62,6 +63,7 @@ Learning across modalities such as images, text, audio, and video.
 
 - <a id="gao26an-optimization"></a>[MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26an)
 - <a id="gu26i-optimization"></a>[Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26i)
+- <a id="huang26bu-optimization"></a>[FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bu)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -83,6 +85,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="he26j-reinforcement-learning"></a>[Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization](../../conferences/icml-2026/cards/1501-1600.md#paper-he26j)
 - <a id="he26av-reinforcement-learning"></a>[RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation](../../conferences/icml-2026/cards/1501-1600.md#paper-he26av)
 - <a id="hu26k-reinforcement-learning"></a>[Faithful Mobile GUI Agents with Guided Advantage Estimator](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26k)
+- <a id="huang26aq-reinforcement-learning"></a>[Find, Fix, Reason: Context Repair for Video Reasoning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26aq)
+- <a id="huang26bm-reinforcement-learning"></a>[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bm)
 
 <a id="by-training-strategies"></a>
 
@@ -100,6 +104,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="guan26c-training-strategies"></a>[From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26c)
 - <a id="guo26aj-training-strategies"></a>[ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26aj)
 - <a id="hong26b-training-strategies"></a>[Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26b)
+- <a id="huang26bx-training-strategies"></a>[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bx)
 
 <a id="by-data-strategies"></a>
 
@@ -161,6 +166,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hu26ai-inference"></a>[DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ai)
 - <a id="hu26aq-inference"></a>[Respecting Modality Gap in Post-hoc Out-of-distribution Detection with Pre-trained Vision-Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26aq)
 - <a id="hu26ay-inference"></a>[EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ay)
+- <a id="huang26ad-inference"></a>[Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ad)
+- <a id="huang26ag-inference"></a>[Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ag)
 
 <a id="by-representation-learning"></a>
 
@@ -178,6 +185,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="heinrich26a-representation-learning"></a>[RADIO1D: Elastic Representations for Condensed Vision Modeling](../../conferences/icml-2026/cards/1501-1600.md#paper-heinrich26a)
 - <a id="hong26d-representation-learning"></a>[TextME: Bridging Unseen Modalities Through Text Descriptions](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26d)
 - <a id="hu26a-representation-learning"></a>[ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26a)
+- <a id="huang26z-representation-learning"></a>[Text-Conditional JEPA for Learning Semantically Rich Visual Representations](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26z)
 
 <a id="by-evaluation"></a>
 
@@ -213,6 +221,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hoang26b-evaluation"></a>[The Abstraction Gap in Vision-Language Causal Reasoning](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26b)
 - <a id="hou26h-evaluation"></a>[When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26h)
 - <a id="hu26b-evaluation"></a>[Steal the Patch Size: Adversarially Manipulate Vision Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26b)
+- <a id="huang26at-evaluation"></a>[Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26at)
 
 <a id="by-theory-statistics"></a>
 

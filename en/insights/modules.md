@@ -30,6 +30,7 @@ Reusable components and local changes to model inputs or connections.
 - [AdaSplash-2: Faster Differentiable Sparse Attention](../../conferences/icml-2026/cards/1301-1400.md#goncalves26a-modules) · 中文
 - [Residual Context Diffusion Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26as-modules) · 中文
 - [Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning](../../conferences/icml-2026/cards/1601-1700.md#huang26m-modules) · 中文
+- [Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition](../../conferences/icml-2026/cards/1701-1800.md#huang26q-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -112,6 +113,7 @@ Reusable components and local changes to model inputs or connections.
 - [Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion](../../conferences/icml-2026/cards/1301-1400.md#gu26d-modules) · 中文
 - [GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](../../conferences/icml-2026/cards/1401-1500.md#habib26a-modules) · 中文
 - [Hyperbolic Associative Memory Networks](../../conferences/icml-2026/cards/1401-1500.md#hao26d-modules) · 中文
+- [PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching](../../conferences/icml-2026/cards/1701-1800.md#huang26ao-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

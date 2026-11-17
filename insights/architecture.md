@@ -28,6 +28,10 @@
 - [用独立执行验证连接漏洞发现与代理记忆](../conferences/icml-2026/cards/1501-1600.md#he26i-architecture) · Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents
 - [为 MoE 解耦共用主谱与专家剩余分量](../conferences/icml-2026/cards/1601-1700.md#huang26i-architecture) · SD-MoE: Spectral Decomposition for Effective Expert Specialization
 - [通过带噪吸引子迭代扩展潜空间推理](../conferences/icml-2026/cards/1601-1700.md#huang26l-architecture) · Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning
+- [按块重排带动量的线性注意力递推](../conferences/icml-2026/cards/1701-1800.md#huang26af-architecture) · MDN: Parallelizing Stepwise Momentum for Delta Linear Attention
+- [把金融工具调用写成带依赖的可并行计划](../conferences/icml-2026/cards/1701-1800.md#huang26ap-architecture) · Towards Professional-Grade Financial Agents: Benchmarking, Tooling, and Structured Reasoning
+- [解耦代理图拓扑与节点实现](../conferences/icml-2026/cards/1701-1800.md#huang26by-architecture) · MAS-Architect: Declarative Multi-Agent System Design via Separation of Concerns
+- [把局部相似 token 压成概念后再做重计算](../conferences/icml-2026/cards/1701-1800.md#huang26cl-architecture) · ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation
 
 <a id="by-computer-vision"></a>
 
@@ -64,6 +68,7 @@
 ### 强化学习
 
 - [连续控制动作表示](../conferences/icml-2026/cards/0201-0300.md#bian26a-architecture) · RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning
+- [以潜状态分布替代像素重构并允许替换约束先验](../conferences/icml-2026/cards/1701-1800.md#huang26ba-architecture) · VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models
 
 <a id="by-robotics"></a>
 
@@ -74,6 +79,8 @@
 - [SE(3) 位姿扩散策略](../conferences/icml-2026/cards/0701-0800.md#chuang26a-architecture) · The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space
 - [第一视角三维检测的时序记忆](../conferences/icml-2026/cards/0901-1000.md#ding26x-architecture) · Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views
 - [把长演示学习的行为原型按在线阶段实例化](../conferences/icml-2026/cards/1601-1700.md#hu26ad-architecture) · From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model
+- [在同一软体仿真状态接入环境力和动作](../conferences/icml-2026/cards/1701-1800.md#huang26bh-architecture) · SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-Body Manipulation
+- [让高频动作复用低频理解注意力缓存](../conferences/icml-2026/cards/1701-1800.md#huang26cb-architecture) · AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving
 
 <a id="by-multimodal"></a>
 
@@ -87,6 +94,7 @@
 - [用去噪轨迹保留视觉推理状态](../conferences/icml-2026/cards/1501-1600.md#he26ac-architecture) · DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models
 - [用轻量状态判断何时重做视频推理](../conferences/icml-2026/cards/1601-1700.md#hu26q-architecture) · RVAS: Referring Video Active Exploration and Segmentation
 - [把语义提示留在视频编码侧](../conferences/icml-2026/cards/1601-1700.md#hu26u-architecture) · MoVie: Multimodal Video Compression with Text Guidance
+- [按文本词元和三维潜块的粒度拆分自回归分支](../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -113,6 +121,7 @@
 - [连续秩噪声配合前缀条件的排列采样](../conferences/icml-2026/cards/1501-1600.md#he26ax-architecture) · Learning Permutation Distributions via Reflected Diffusion on Ranks
 - [以样条局部支撑减少片上单样本更新](../conferences/icml-2026/cards/1501-1600.md#hoang26a-architecture) · Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks
 - [按周期尺度掩码并门控辅助通道](../conferences/icml-2026/cards/1601-1700.md#hu26bf-architecture) · TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling
+- [并行建模同类型元素和跨类型约束](../conferences/icml-2026/cards/1701-1800.md#huang26bl-architecture) · A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -127,6 +136,8 @@
 - [超图生成的多尺度展开](../conferences/icml-2026/cards/1101-1200.md#gailhard26a-architecture) · Feature-Aware (Hyper)graph Generation via Next-Scale Prediction
 - [以分层极大团表示超边](../conferences/icml-2026/cards/1201-1300.md#gantes26a-architecture) · SuperHype: Hypergraph Generation via Graph-Superposition Decomposition
 - [异配图的有符号分层 Haar 滤波](../conferences/icml-2026/cards/1601-1700.md#hossen26a-architecture) · Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation
+- [在保全关系语义的前提下学习表的节点和边角色](../conferences/icml-2026/cards/1701-1800.md#huang26ax-architecture) · Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning
+- [用地理条件和轴向注意力表达出行流竞争](../conferences/icml-2026/cards/1701-1800.md#huang26cj-architecture) · GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation
 
 <a id="by-scientific-ml"></a>
 
@@ -161,4 +172,6 @@
 - [点云到气动场的跨层解码](../conferences/icml-2026/cards/1401-1500.md#hagnberger26a-architecture) · SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model
 - [分距离层覆盖稠密原子相互作用](../conferences/icml-2026/cards/1501-1600.md#hong26h-architecture) · Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing
 - [按局部组织形态路由生成速度场](../conferences/icml-2026/cards/1601-1700.md#hu26at-architecture) · MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology
+- [基于局部轴对齐流式计算等变注意力](../conferences/icml-2026/cards/1701-1800.md#huang26p-architecture) · E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory
+- [用结构约束和功能需求共同求潜在脑网络流](../conferences/icml-2026/cards/1701-1800.md#huang26am-architecture) · Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing
 <!-- classification:end -->

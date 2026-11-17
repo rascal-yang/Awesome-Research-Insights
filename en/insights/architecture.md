@@ -28,6 +28,10 @@ Model-wide design and information flow.
 - [Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](../../conferences/icml-2026/cards/1501-1600.md#he26i-architecture) · 中文
 - [SD-MoE: Spectral Decomposition for Effective Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#huang26i-architecture) · 中文
 - [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](../../conferences/icml-2026/cards/1601-1700.md#huang26l-architecture) · 中文
+- [MDN: Parallelizing Stepwise Momentum for Delta Linear Attention](../../conferences/icml-2026/cards/1701-1800.md#huang26af-architecture) · 中文
+- [Towards Professional-Grade Financial Agents: Benchmarking, Tooling, and Structured Reasoning](../../conferences/icml-2026/cards/1701-1800.md#huang26ap-architecture) · 中文
+- [MAS-Architect: Declarative Multi-Agent System Design via Separation of Concerns](../../conferences/icml-2026/cards/1701-1800.md#huang26by-architecture) · 中文
+- [ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation](../../conferences/icml-2026/cards/1701-1800.md#huang26cl-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -64,6 +68,7 @@ Model-wide design and information flow.
 ### Reinforcement Learning
 
 - [RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](../../conferences/icml-2026/cards/0201-0300.md#bian26a-architecture) · 中文
+- [VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](../../conferences/icml-2026/cards/1701-1800.md#huang26ba-architecture) · 中文
 
 <a id="by-robotics"></a>
 
@@ -74,6 +79,8 @@ Model-wide design and information flow.
 - [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](../../conferences/icml-2026/cards/0701-0800.md#chuang26a-architecture) · 中文
 - [Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](../../conferences/icml-2026/cards/0901-1000.md#ding26x-architecture) · 中文
 - [From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](../../conferences/icml-2026/cards/1601-1700.md#hu26ad-architecture) · 中文
+- [SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-Body Manipulation](../../conferences/icml-2026/cards/1701-1800.md#huang26bh-architecture) · 中文
+- [AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving](../../conferences/icml-2026/cards/1701-1800.md#huang26cb-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -87,6 +94,7 @@ Model-wide design and information flow.
 - [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](../../conferences/icml-2026/cards/1501-1600.md#he26ac-architecture) · 中文
 - [RVAS: Referring Video Active Exploration and Segmentation](../../conferences/icml-2026/cards/1601-1700.md#hu26q-architecture) · 中文
 - [MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#hu26u-architecture) · 中文
+- [CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -113,6 +121,7 @@ Model-wide design and information flow.
 - [Learning Permutation Distributions via Reflected Diffusion on Ranks](../../conferences/icml-2026/cards/1501-1600.md#he26ax-architecture) · 中文
 - [Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/1501-1600.md#hoang26a-architecture) · 中文
 - [TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling](../../conferences/icml-2026/cards/1601-1700.md#hu26bf-architecture) · 中文
+- [A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](../../conferences/icml-2026/cards/1701-1800.md#huang26bl-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -127,6 +136,8 @@ Model-wide design and information flow.
 - [Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](../../conferences/icml-2026/cards/1101-1200.md#gailhard26a-architecture) · 中文
 - [SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](../../conferences/icml-2026/cards/1201-1300.md#gantes26a-architecture) · 中文
 - [Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation](../../conferences/icml-2026/cards/1601-1700.md#hossen26a-architecture) · 中文
+- [Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26ax-architecture) · 中文
+- [GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation](../../conferences/icml-2026/cards/1701-1800.md#huang26cj-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -161,4 +172,6 @@ Model-wide design and information flow.
 - [SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](../../conferences/icml-2026/cards/1401-1500.md#hagnberger26a-architecture) · 中文
 - [Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing](../../conferences/icml-2026/cards/1501-1600.md#hong26h-architecture) · 中文
 - [MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology](../../conferences/icml-2026/cards/1601-1700.md#hu26at-architecture) · 中文
+- [E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](../../conferences/icml-2026/cards/1701-1800.md#huang26p-architecture) · 中文
+- [Uncovering Latent Communication Patterns in Brain Networks via Adaptive Flow Routing](../../conferences/icml-2026/cards/1701-1800.md#huang26am-architecture) · 中文
 <!-- classification:end -->

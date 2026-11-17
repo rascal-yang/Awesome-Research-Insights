@@ -35,6 +35,7 @@
 - [用对数概率比监测长上下文注意力的尾部结构](../conferences/icml-2026/cards/1501-1600.md#hilton-jones26a-theory-statistics) · Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling
 - [用答案方向的残差投影判断重复提示的极限](../conferences/icml-2026/cards/1601-1700.md#hu26ak-theory-statistics) · Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence
 - [从线上混合分布估计接收集风险](../conferences/icml-2026/cards/1601-1700.md#hu26bh-theory-statistics) · OSCS: Online Selection with Provable FAR Control for LLM Safety
+- [用相邻难度间距衡量隐式课程能否接力](../conferences/icml-2026/cards/1701-1800.md#huang26bk-theory-statistics) · On the Emergence of Implicit Curriculum in RLVR Learning Dynamics
 
 <a id="by-computer-vision"></a>
 
@@ -87,6 +88,7 @@
 - [可复现探索先筛掉低可达状态](../conferences/icml-2026/cards/1501-1600.md#hopkins26b-theory-statistics) · From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning
 - [控制奖励漂移以维持策略与价值跟踪](../conferences/icml-2026/cards/1601-1700.md#hu26f-theory-statistics) · Finite-time Convergence Analysis of Actor-Critic with Evolving Reward
 - [用坐标置信度覆盖连续偏好](../conferences/icml-2026/cards/1601-1700.md#hu26bc-theory-statistics) · Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs
+- [把探索与策略更新降到评估 oracle](../conferences/icml-2026/cards/1701-1800.md#huang26x-theory-statistics) · Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs
 
 <a id="by-robotics"></a>
 
@@ -290,6 +292,10 @@
 - [用注意力插值构造可组合的广义激活基](../conferences/icml-2026/cards/1601-1700.md#hu26af-theory-statistics) · Universal Approximation with Softmax Attention
 - [以新增记忆方向判定单掩码对偶](../conferences/icml-2026/cards/1601-1700.md#hu26be-theory-statistics) · On Structured State-Space Duality
 - [利用晋升助益设计多级努力阈值](../conferences/icml-2026/cards/1601-1700.md#huang26a-theory-statistics) · Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics
+- [在噪声尺度上评估谱排序与信号的对齐](../conferences/icml-2026/cards/1701-1800.md#huang26w-theory-statistics) · Alignment-Sensitive Minimax Rates for Spectral Algorithms with Learned Kernels
+- [按剩余规模分层采样动态簇](../conferences/icml-2026/cards/1701-1800.md#huang26ab-theory-statistics) · New Algorithms for Fully-Dynamic k-center with Outliers
+- [用师生重叠统计识别优化吸引子](../conferences/icml-2026/cards/1701-1800.md#huang26ai-theory-statistics) · Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks
+- [同时求解个人委派与机构质量](../conferences/icml-2026/cards/1701-1800.md#huang26bp-theory-statistics) · Delegation and Verification under AI
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -321,4 +327,5 @@
 - [基于物理似然的 CT 重建置信区域](../conferences/icml-2026/cards/1201-1300.md#gatzner26a-theory-statistics) · Principled Confidence Estimation for Deep Computed Tomography
 - [推理时可调的模型复杂度先验](../conferences/icml-2026/cards/1201-1300.md#gloeckler26a-theory-statistics) · Scalable Simulation-Based Model Inference with Test-Time Complexity Control
 - [从时间快照学习群体 Hamilton 动力学](../conferences/icml-2026/cards/1301-1400.md#guan26a-theory-statistics) · A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots
+- [将多模哈密顿量恢复转成多项式系数估计](../conferences/icml-2026/cards/1701-1800.md#huang26ce-theory-statistics) · Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation
 <!-- classification:end -->

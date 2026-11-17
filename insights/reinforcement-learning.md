@@ -70,6 +70,10 @@
 - [训练饱和后把预算从更多步转向同题更广探索](../conferences/icml-2026/cards/1601-1700.md#hu26ah-reinforcement-learning) · BroRL: Scaling Reinforcement Learning via Broadened Exploration
 - [分别分配探索与执行的强化学习信用](../conferences/icml-2026/cards/1601-1700.md#hua26c-reinforcement-learning) · Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization
 - [从示范随机接续以混合模仿和探索](../conferences/icml-2026/cards/1601-1700.md#huang26g-reinforcement-learning) · Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling
+- [在自博弈对齐中分开优势排序与循环偏好](../conferences/icml-2026/cards/1701-1800.md#huang26ac-reinforcement-learning) · Transitivity Meets Cyclicity: Explicit Preference Decomposition for Dynamic Large Language Model Alignment
+- [用自然出现的结束标记采样简洁推理](../conferences/icml-2026/cards/1701-1800.md#huang26bn-reinforcement-learning) · Does Your Reasoning Model Implicitly Know When to Stop Thinking?
+- [用当前策略隐藏表示更新奖励](../conferences/icml-2026/cards/1701-1800.md#huang26bo-reinforcement-learning) · Real-Time Aligned Reward Model beyond Semantics
+- [用有效样本量缩放异步更新](../conferences/icml-2026/cards/1701-1800.md#huang26ca-reinforcement-learning) · Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -189,6 +193,8 @@
 - [让视频扩散 GRPO 的组内样本共享同一个时间步](../conferences/icml-2026/cards/1501-1600.md#he26j-reinforcement-learning) · Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization
 - [把分割掩码反馈给下一轮定位](../conferences/icml-2026/cards/1501-1600.md#he26av-reinforcement-learning) · RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation
 - [为同奖惩组保留正确的优势方向](../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · Faithful Mobile GUI Agents with Guided Advantage Estimator
+- [用最小证据补丁修复观察后再做策略更新](../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · Find, Fix, Reason: Context Repair for Video Reasoning
+- [将生成反馈拆成可验证的具体问题](../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward
 
 <a id="by-graph-and-recommendation"></a>
 

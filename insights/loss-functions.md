@@ -25,6 +25,7 @@
 - [注意力汇的门控与负载均衡](../conferences/icml-2026/cards/1101-1200.md#fu26v-loss-functions) · Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse
 - [拆分语言模型的双端泄漏防护](../conferences/icml-2026/cards/1301-1400.md#gu26o-loss-functions) · From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models
 - [分别约束同层分工与跨层专家路径](../conferences/icml-2026/cards/1601-1700.md#hu26d-loss-functions) · Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization
+- [以局部方向一致性约束隐状态轨迹](../conferences/icml-2026/cards/1701-1800.md#huang26s-loss-functions) · Semantic Tube Prediction: Beating LLM Data Efficiency with JEPA
 
 <a id="by-computer-vision"></a>
 
@@ -36,6 +37,8 @@
 - [全参考画质的锚定对抗训练](../conferences/icml-2026/cards/1401-1500.md#gushchin26a-loss-functions) · BiRQA: Bidirectional Robust Quality Assessment for Images
 - [类别遗忘的邻域保护与表征分散](../conferences/icml-2026/cards/1401-1500.md#ha26b-loss-functions) · Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack
 - [在商空间中去掉物体重组的整体刚体自由度](../conferences/icml-2026/cards/1501-1600.md#heck26a-loss-functions) · SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly
+- [用方向导数保持蒸馏的输入可控性](../conferences/icml-2026/cards/1701-1800.md#huang26bj-loss-functions) · Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment
+- [以逆向重建约束长视频滚动](../conferences/icml-2026/cards/1701-1800.md#huang26bt-loss-functions) · LIVE: Long-horizon Interactive Video World Modeling
 
 <a id="by-nlp"></a>
 

@@ -34,6 +34,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="he26ax-architecture"></a>[Learning Permutation Distributions via Reflected Diffusion on Ranks](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ax)
 - <a id="hoang26a-architecture"></a>[Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26a)
 - <a id="hu26bf-architecture"></a>[TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bf)
+- <a id="huang26bl-architecture"></a>[A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bl)
 
 <a id="by-modules"></a>
 
@@ -64,6 +65,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="gu26d-modules"></a>[Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26d)
 - <a id="habib26a-modules"></a>[GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data](../../conferences/icml-2026/cards/1401-1500.md#paper-habib26a)
 - <a id="hao26d-modules"></a>[Hyperbolic Associative Memory Networks](../../conferences/icml-2026/cards/1401-1500.md#paper-hao26d)
+- <a id="huang26ao-modules"></a>[PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ao)
 
 <a id="by-loss-functions"></a>
 
@@ -208,6 +210,14 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="hu26g-optimization"></a>[Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26g)
 - <a id="hu26bi-optimization"></a>[Learning the Best Under Constraints: A Duality-Based Framework](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bi)
 - <a id="huang26j-optimization"></a>[Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26j)
+- <a id="huang26o-optimization"></a>[ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26o)
+- <a id="huang26u-optimization"></a>[Robust Learning via Nested Distributionally Robust Optimization](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26u)
+- <a id="huang26ah-optimization"></a>[SURGE: Surrogate Gradient Adaptation in Binary Neural Networks](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ah)
+- <a id="huang26aj-optimization"></a>[LiMuon: Light and Fast Muon Optimizer for Large Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26aj)
+- <a id="huang26aw-optimization"></a>[Local Minima in Quadratic-Penalty Relaxations of Binary Linear Programs](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26aw)
+- <a id="huang26bb-optimization"></a>[GradientStabilizer: Fix the Norm, Not the Gradient](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bb)
+- <a id="huang26bg-optimization"></a>[Discretely-Refined Multi-view Clustering via Aligned Anchor Learning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bg)
+- <a id="huang26cn-optimization"></a>[HONet: Data-Efficient Learning for Exact Cover Tasks via Hypergraph Optimization](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cn)
 
 <a id="by-training-strategies"></a>
 
@@ -349,6 +359,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="guo26u-evaluation"></a>[Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26u)
 - <a id="han26d-evaluation"></a>[TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](../../conferences/icml-2026/cards/1401-1500.md#paper-han26d)
 - <a id="hu26ap-evaluation"></a>[An In-Depth Study on Deep Learning Model Cloning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ap)
+- <a id="huang26bw-evaluation"></a>[ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bw)
 
 <a id="by-theory-statistics"></a>
 
@@ -539,4 +550,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="hu26af-theory-statistics"></a>[Universal Approximation with Softmax Attention](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26af)
 - <a id="hu26be-theory-statistics"></a>[On Structured State-Space Duality](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26be)
 - <a id="huang26a-theory-statistics"></a>[Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26a)
+- <a id="huang26w-theory-statistics"></a>[Alignment-Sensitive Minimax Rates for Spectral Algorithms with Learned Kernels](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26w)
+- <a id="huang26ab-theory-statistics"></a>[New Algorithms for Fully-Dynamic k-center with Outliers](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ab)
+- <a id="huang26ai-theory-statistics"></a>[Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ai)
+- <a id="huang26bp-theory-statistics"></a>[Delegation and Verification under AI](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bp)
 <!-- classification:end -->

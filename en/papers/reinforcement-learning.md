@@ -14,6 +14,7 @@ Learning from interaction, feedback, and offline experience.
 ### Architectures
 
 - <a id="bian26a-architecture"></a>[RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](../../conferences/icml-2026/cards/0201-0300.md#paper-bian26a)
+- <a id="huang26ba-architecture"></a>[VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ba)
 
 <a id="by-loss-functions"></a>
 
@@ -122,6 +123,7 @@ Learning from interaction, feedback, and offline experience.
 ### Representation Learning
 
 - <a id="bastankhah26a-representation-learning"></a>[Learning to Perceive the World Through Control: Empowerment-Based Representation Learning](../../conferences/icml-2026/cards/0201-0300.md#paper-bastankhah26a)
+- <a id="huber26a-representation-learning"></a>[Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks](../../conferences/icml-2026/cards/1701-1800.md#paper-huber26a)
 
 <a id="by-evaluation"></a>
 
@@ -165,4 +167,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="hopkins26b-theory-statistics"></a>[From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hopkins26b)
 - <a id="hu26f-theory-statistics"></a>[Finite-time Convergence Analysis of Actor-Critic with Evolving Reward](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26f)
 - <a id="hu26bc-theory-statistics"></a>[Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bc)
+- <a id="huang26x-theory-statistics"></a>[Breaking the Computational Barrier: Provably Efficient Actor–Critic for Low-Rank MDPs](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26x)
 <!-- classification:end -->

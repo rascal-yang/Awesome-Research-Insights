@@ -118,6 +118,10 @@
 - [稀疏门控后在同批请求间重分配验证预算](../conferences/icml-2026/cards/1601-1700.md#hu26ar-inference) · ECHO: Elastic Speculative Decoding with Sparse Gating for High-Concurrency Scenarios
 - [用隐状态偏移触发短程去迎合](../conferences/icml-2026/cards/1601-1700.md#hu26bb-inference) · Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models
 - [预编译词元等价类供约束解码查表](../conferences/icml-2026/cards/1601-1700.md#hua26b-inference) · Gram2Token: Enabling Run-time GPU-Native Grammar-Constrained Decoding for LLMs
+- [用前两名计数近似答案众数的停采后验](../conferences/icml-2026/cards/1701-1800.md#huang26ak-inference) · Optimal Bayesian Stopping for Efficient Inference of Consistent LLM Answers
+- [让并行验证器独立找错，并将长证明分段审核](../conferences/icml-2026/cards/1701-1800.md#huang26ay-inference) · Pessimistic Verification for Open-Ended Math Questions
+- [将模型选择与推理预算学习为一个在线动作](../conferences/icml-2026/cards/1701-1800.md#huang26bd-inference) · UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling
+- [按编辑意图选择水印嵌入强度](../conferences/icml-2026/cards/1701-1800.md#huang26ck-inference) · IACW: Intent-Aware Controllable Watermarking for Scalable Authorial Intent Attribution
 
 <a id="by-computer-vision"></a>
 
@@ -168,6 +172,8 @@
 - [以一步随机后验映射并行估计生成价值](../conferences/icml-2026/cards/1501-1600.md#holderrieth26a-inference) · Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps
 - [重排视频词元再分层选择稀疏块](../conferences/icml-2026/cards/1601-1700.md#hu26p-inference) · DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation
 - [用少量上下文样本低秩校正扩散缓存](../conferences/icml-2026/cards/1601-1700.md#huang26f-inference) · LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration
+- [利用流映射预测终点并施加奖励引导](../conferences/icml-2026/cards/1701-1800.md#huang26ae-inference) · How to Guide Your Flow: Few-Step Alignment via Flow Map Reward Guidance
+- [按零样本置信度维护测试时类原型](../conferences/icml-2026/cards/1701-1800.md#huang26cc-inference) · Prototype-Based Test-Time Adaptation of Vision-Language Models
 
 <a id="by-nlp"></a>
 
@@ -211,6 +217,7 @@
 - [用未来去噪路径的终局成本引导当前步](../conferences/icml-2026/cards/1501-1600.md#hoshino26a-inference) · Training-Free Guided Diffusion for Planning: A Unified Framework via Doob’s h-Transform with Safety Guarantees
 - [把过往测试时适配保存为可插值提示](../conferences/icml-2026/cards/1601-1700.md#hu26w-inference) · Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation
 - [按环境变化异步更新动作模型通道稀疏度](../conferences/icml-2026/cards/1601-1700.md#huang26h-inference) · EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models
+- [在生成时间加入轨迹约束控制](../conferences/icml-2026/cards/1701-1800.md#huang26t-inference) · SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning
 
 <a id="by-multimodal"></a>
 
@@ -252,6 +259,8 @@
 - [并行准备草稿和目标回退，用证据比率决定提交](../conferences/icml-2026/cards/1601-1700.md#hu26ai-inference) · DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution
 - [用测试流的软预测将文本原型校准到视觉空间](../conferences/icml-2026/cards/1601-1700.md#hu26aq-inference) · Respecting Modality Gap in Post-hoc Out-of-distribution Detection with Pre-trained Vision-Language Models
 - [以实体名称绑定视觉检索](../conferences/icml-2026/cards/1601-1700.md#hu26ay-inference) · EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering
+- [按局部刚度自适应扩散求解的时间带宽](../conferences/icml-2026/cards/1701-1800.md#huang26ad-inference) · Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth
+- [向先验动态收缩低置信类别的测试时估计](../conferences/icml-2026/cards/1701-1800.md#huang26ag-inference) · Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction
 
 <a id="by-ml-foundations"></a>
 
