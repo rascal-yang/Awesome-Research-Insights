@@ -63,6 +63,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="luo26al-architecture"></a>[4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26al)
 - <a id="ma26x-architecture"></a>[Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26x)
 - <a id="ma26au-architecture"></a>[CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26au)
+- <a id="min26f-architecture"></a>[Compass-RoPE: Isotropic Rotary Position Embeddings for Vision Transformers](../../conferences/icml-2026/cards/3301-3400.md#paper-min26f)
+- <a id="mohammed26a-architecture"></a>[GEM-FI: Gated Evidential Mixtures with Fisher Modulation](../../conferences/icml-2026/cards/3301-3400.md#paper-mohammed26a)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -100,6 +102,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="liu26gn-modules"></a>[Radial Scaling Voxelization for Accurate Small Object 3D Detection](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gn)
 - <a id="lou26i-modules"></a>[Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26i)
 - <a id="meng26g-modules"></a>[Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26g)
+- <a id="mo26e-modules"></a>[MapUQ: Map with Uncertainty Quantification for Robust BEV Vectorized Construction](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26e)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -169,6 +172,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="liu26ev-reinforcement-learning"></a>[Distillation Models are Good Samplers for Diffusion Reinforcement Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ev)
 - <a id="luo26j-reinforcement-learning"></a>[TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26j)
 - <a id="luo26u-reinforcement-learning"></a>[Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26u)
+- <a id="mo26b-reinforcement-learning"></a>[Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26b)
 
 <a id="by-training-strategies"></a>
 
@@ -329,6 +333,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="mammadov26a-inference"></a>[Variational Flow Maps: Make Some Noise for One-Step Conditional Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-mammadov26a)
 - <a id="man26a-inference"></a>[Turbo4DGen: Ultra-Fast Acceleration for 4D Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-man26a)
 - <a id="meng26h-inference"></a>[WhisperSplat: Lossless Steganography in 3D Gaussian Splatting](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26h)
+- <a id="moon26b-inference"></a>[ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT](../../conferences/icml-2026/cards/3301-3400.md#paper-moon26b)
+- <a id="moreira26a-inference"></a>[Spectral Guidance for Flexible and Efficient Control of Diffusion Models](../../conferences/icml-2026/cards/3301-3400.md#paper-moreira26a)
 
 <a id="by-representation-learning"></a>
 
@@ -374,6 +380,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lu26c-representation-learning"></a>[DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26c)
 - <a id="lv26k-representation-learning"></a>[Knowing the Unknown: Interpretable Open-World Object Detection via Concept Decomposition Model](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26k)
 - <a id="ma26g-representation-learning"></a>[Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26g)
+- <a id="miller26a-representation-learning"></a>[SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](../../conferences/icml-2026/cards/3301-3400.md#paper-miller26a)
+- <a id="morbitzer26a-representation-learning"></a>[Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion](../../conferences/icml-2026/cards/3301-3400.md#paper-morbitzer26a)
 
 <a id="by-evaluation"></a>
 
@@ -422,6 +430,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lu26f-evaluation"></a>[SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26f)
 - <a id="luo26ak-evaluation"></a>[MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ak)
 - <a id="meshram26a-evaluation"></a>[Low-Compute Watermark Removal via Dual-Domain Natural Projection](../../conferences/icml-2026/cards/3201-3300.md#paper-meshram26a)
+- <a id="mordacq26a-evaluation"></a>[IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension](../../conferences/icml-2026/cards/3301-3400.md#paper-mordacq26a)
 
 <a id="by-theory-statistics"></a>
 

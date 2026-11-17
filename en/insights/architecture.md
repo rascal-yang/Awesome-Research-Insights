@@ -52,6 +52,8 @@ Model-wide design and information flow.
 - [Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts](../../conferences/icml-2026/cards/3001-3100.md#lu26au-architecture) · 中文
 - [Head-in-Head in Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#mei26a-architecture) · 中文
 - [Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents](../../conferences/icml-2026/cards/3201-3300.md#mi26d-architecture) · 中文
+- [Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers](../../conferences/icml-2026/cards/3301-3400.md#mohan26b-architecture) · 中文
+- [Rational Transductors](../../conferences/icml-2026/cards/3301-3400.md#mohri26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -107,6 +109,8 @@ Model-wide design and information flow.
 - [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](../../conferences/icml-2026/cards/3001-3100.md#luo26al-architecture) · 中文
 - [Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras](../../conferences/icml-2026/cards/3101-3200.md#ma26x-architecture) · 中文
 - [CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences](../../conferences/icml-2026/cards/3101-3200.md#ma26au-architecture) · 中文
+- [Compass-RoPE: Isotropic Rotary Position Embeddings for Vision Transformers](../../conferences/icml-2026/cards/3301-3400.md#min26f-architecture) · 中文
+- [GEM-FI: Gated Evidential Mixtures with Fisher Modulation](../../conferences/icml-2026/cards/3301-3400.md#mohammed26a-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -234,6 +238,8 @@ Model-wide design and information flow.
 - [ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters](../../conferences/icml-2026/cards/3001-3100.md#lu26w-architecture) · 中文
 - [LassoFlexNet: a Flexible Neural Architecture for Tabular Data](../../conferences/icml-2026/cards/3001-3100.md#lui26a-architecture) · 中文
 - [Convolutional Learnable-Group Weightless Neural Network](../../conferences/icml-2026/cards/3101-3200.md#ma26e-architecture) · 中文
+- [Revisiting Neural Processes via Fourier Transform and Volterra Series](../../conferences/icml-2026/cards/3301-3400.md#mohseni26a-architecture) · 中文
+- [Incremental Transformer Neural Processes](../../conferences/icml-2026/cards/3301-3400.md#mortimer26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -256,6 +262,7 @@ Model-wide design and information flow.
 - [Ramba: Selective State-Space Models for Relational Deep Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ep-architecture) · 中文
 - [NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies](../../conferences/icml-2026/cards/3201-3300.md#marcoccia26a-architecture) · 中文
 - [LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation](../../conferences/icml-2026/cards/3201-3300.md#miao26e-architecture) · 中文
+- [Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#mo26a-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 

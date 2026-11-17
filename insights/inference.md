@@ -238,6 +238,11 @@
 - [结合路由频率与有效秩分配 MoE 专家的压缩预算](../conferences/icml-2026/cards/3201-3300.md#mi26a-inference) · Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density
 - [用正则化正确性探针校准残差激活引导](../conferences/icml-2026/cards/3201-3300.md#miao26a-inference) · Correctness-Optimized Residual Activation Lens (CORAL): Transferable and Calibration-Aware Inference-Time Steering
 - [本地小模型先答再基于隐状态决定是否升级](../conferences/icml-2026/cards/3201-3300.md#miao26b-inference) · Selective Deferred Routing: Enabling Cost-Efficient Collaboration between Local SLMs and Remote LLMs
+- [掩码扩散的确定性分支搜索](../conferences/icml-2026/cards/3301-3400.md#misaki26a-inference) · UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching
+- [剩余 token 驱动的树搜索](../conferences/icml-2026/cards/3301-3400.md#miyamoto26a-inference) · Aligning Tree-Search Policies with Fixed Token Budgets in Test-Time Scaling of LLMs
+- [开放世界补前提](../conferences/icml-2026/cards/3301-3400.md#mo26f-inference) · Open-World LLM Logical Reasoning
+- [状态空间激活干预](../conferences/icml-2026/cards/3301-3400.md#mohan26a-inference) · Interpreting and Steering State-Space Models via Activation Subspace Bottlenecks
+- [用未来注意力训练缓存淘汰排序](../conferences/icml-2026/cards/3301-3400.md#moschella26a-inference) · Learning to Evict from Key-Value Cache
 
 <a id="by-computer-vision"></a>
 
@@ -324,6 +329,8 @@
 - [为一步条件生成学习初始噪声](../conferences/icml-2026/cards/3101-3200.md#mammadov26a-inference) · Variational Flow Maps: Make Some Noise for One-Step Conditional Generation
 - [按链稳定性复用多视角去噪计算](../conferences/icml-2026/cards/3101-3200.md#man26a-inference) · Turbo4DGen: Ultra-Fast Acceleration for 4D Generation
 - [用外置视角密钥承载隐写信息](../conferences/icml-2026/cards/3201-3300.md#meng26h-inference) · WhisperSplat: Lossless Steganography in 3D Gaussian Splatting
+- [分别压缩注意力权重和前馈通道](../conferences/icml-2026/cards/3301-3400.md#moon26b-inference) · ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT
+- [将多个扩散控制目标投影到共享谱基](../conferences/icml-2026/cards/3301-3400.md#moreira26a-inference) · Spectral Guidance for Flexible and Efficient Control of Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -460,6 +467,8 @@
 - [同时去除跨域检索内容和分类先验的样式偏差](../conferences/icml-2026/cards/3001-3100.md#luo26i-inference) · D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models
 - [先用原始视频作假设再以合成斜视角复核](../conferences/icml-2026/cards/3101-3200.md#ma26z-inference) · Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning
 - [截图元素定位多模态融合](../conferences/icml-2026/cards/3101-3200.md#ma26ax-inference) · Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion
+- [用 Codec 混淆关系提高语音水印重编码鲁棒性](../conferences/icml-2026/cards/3301-3400.md#milis26a-inference) · Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio
+- [将流式视频远程 KV 压缩为可供原生注意力读取的原型](../conferences/icml-2026/cards/3301-3400.md#minh26a-inference) · ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory
 
 <a id="by-ml-foundations"></a>
 
@@ -496,6 +505,7 @@
 - [以投影检验和反馈缓冲减少图索引的距离调用](../conferences/icml-2026/cards/3001-3100.md#lu26y-inference) · Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach
 - [用策略响应对齐上下文](../conferences/icml-2026/cards/3101-3200.md#lv26g-inference) · When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach
 - [编译期间合并激活近似](../conferences/icml-2026/cards/3101-3200.md#lydike26a-inference) · Faster Activation Functions at the Edge for Post-Training Speedups
+- [只融合不同模型中相似的神经元](../conferences/icml-2026/cards/3301-3400.md#morelli26a-inference) · Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -543,4 +553,7 @@
 - [按规格局部信息生成和调试 Verilog](../conferences/icml-2026/cards/3101-3200.md#lyu26c-inference) · QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation
 - [实验约束蛋白构象集合](../conferences/icml-2026/cards/3101-3200.md#maddipatla26a-inference) · Inference-time optimization for experiment-grounded protein ensemble generation
 - [用持久同调控制分子环闭合](../conferences/icml-2026/cards/3101-3200.md#maksymiuk26a-inference) · MacroGuide: Topological Guidance for Macrocycle Generation
+- [用粒子重采样引导 PDE 扩散求解](../conferences/icml-2026/cards/3301-3400.md#millard26a-inference) · Particle-Guided Diffusion Models for Partial Differential Equations
+- [用机理后验不确定性分配疫情扩散引导](../conferences/icml-2026/cards/3301-3400.md#min26b-inference) · Bridging Dynamics and Data: A Unified Diffusion Framework for Mechanistically-Informed Epidemic Forecasting
+- [用真实路径算子约束降雨扩散后验](../conferences/icml-2026/cards/3301-3400.md#moufad26a-inference) · Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors
 <!-- classification:end -->

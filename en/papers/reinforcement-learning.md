@@ -150,6 +150,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="matthews26a-reinforcement-learning"></a>[Goal-Conditioned Agents that Learn Everything All at Once](../../conferences/icml-2026/cards/3201-3300.md#paper-matthews26a)
 - <a id="meng26m-reinforcement-learning"></a>[PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26m)
 - <a id="mguni26a-reinforcement-learning"></a>[Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction](../../conferences/icml-2026/cards/3201-3300.md#paper-mguni26a)
+- <a id="moeini26a-reinforcement-learning"></a>[Safe In-Context Reinforcement Learning](../../conferences/icml-2026/cards/3301-3400.md#paper-moeini26a)
+- <a id="montenegro26a-reinforcement-learning"></a>[Reusing Trajectories in Policy Gradients Enables Fast Convergence](../../conferences/icml-2026/cards/3301-3400.md#paper-montenegro26a)
 
 <a id="by-training-strategies"></a>
 
@@ -157,6 +159,7 @@ Learning from interaction, feedback, and offline experience.
 
 - <a id="lee26ai-training-strategies"></a>[CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ai)
 - <a id="liu26j-training-strategies"></a>[Active Curriculum Refinement for Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26j)
+- <a id="mitsides26a-training-strategies"></a>[Dreaming in Code for Curriculum Learning in Open-Ended Worlds](../../conferences/icml-2026/cards/3301-3400.md#paper-mitsides26a)
 
 <a id="by-data-strategies"></a>
 
@@ -266,4 +269,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lyu26e-theory-statistics"></a>[Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26e)
 - <a id="mahadevan26a-theory-statistics"></a>[Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-mahadevan26a)
 - <a id="mao26a-theory-statistics"></a>[Rethinking the Hardness of PbRL: A Provable General Regret Bound](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26a)
+- <a id="mousavi-hosseini26a-theory-statistics"></a>[Post-Training with Policy Gradients: Optimality and the Base Model Barrier](../../conferences/icml-2026/cards/3301-3400.md#paper-mousavi-hosseini26a)
 <!-- classification:end -->

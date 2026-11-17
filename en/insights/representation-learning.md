@@ -22,6 +22,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SemRep : Generative Code Representation Learning with Code Transformations](../../conferences/icml-2026/cards/2501-2600.md#li26fj-representation-learning) · 中文
 - [Learning a Generative Meta-Model of LLM Activations](../../conferences/icml-2026/cards/3001-3100.md#luo26d-representation-learning) · 中文
 - [Closing the Loop: Universal Repository Representation with RPG-Encoder](../../conferences/icml-2026/cards/3001-3100.md#luo26ad-representation-learning) · 中文
+- [Emergent Analogical Reasoning in Transformers](../../conferences/icml-2026/cards/3301-3400.md#minegishi26a-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -67,6 +68,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion](../../conferences/icml-2026/cards/3001-3100.md#lu26c-representation-learning) · 中文
 - [Knowing the Unknown: Interpretable Open-World Object Detection via Concept Decomposition Model](../../conferences/icml-2026/cards/3101-3200.md#lv26k-representation-learning) · 中文
 - [Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26g-representation-learning) · 中文
+- [SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](../../conferences/icml-2026/cards/3301-3400.md#miller26a-representation-learning) · 中文
+- [Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion](../../conferences/icml-2026/cards/3301-3400.md#morbitzer26a-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -148,6 +151,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment](../../conferences/icml-2026/cards/3201-3300.md#mao26d-representation-learning) · 中文
 - [PHALAR: Phasors for Learned Musical Audio Representations](../../conferences/icml-2026/cards/3201-3300.md#marincione26a-representation-learning) · 中文
 - [Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](../../conferences/icml-2026/cards/3201-3300.md#mendez26a-representation-learning) · 中文
+- [Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models](../../conferences/icml-2026/cards/3301-3400.md#mishra26b-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -224,6 +228,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains](../../conferences/icml-2026/cards/2901-3000.md#liu26eg-representation-learning) · 中文
 - [Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26aj-representation-learning) · 中文
 - [SWING: Unlocking Implicit Graph Representations for Graph Random Features](../../conferences/icml-2026/cards/3201-3300.md#manenti26b-representation-learning) · 中文
+- [Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning](../../conferences/icml-2026/cards/3301-3400.md#mishra26c-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -277,4 +282,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../../conferences/icml-2026/cards/3101-3200.md#mahns26a-representation-learning) · 中文
 - [SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment](../../conferences/icml-2026/cards/3201-3300.md#mao26h-representation-learning) · 中文
 - [BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models](../../conferences/icml-2026/cards/3201-3300.md#medvedev26b-representation-learning) · 中文
+- [How Should Transformers Encode Numeric Values in Electronic Health Records?](../../conferences/icml-2026/cards/3301-3400.md#montgomery26a-representation-learning) · 中文
 <!-- classification:end -->

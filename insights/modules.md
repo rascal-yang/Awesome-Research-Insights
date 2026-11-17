@@ -44,6 +44,7 @@
 - [用激活缩放和位移竞争构建脉冲注意力](../conferences/icml-2026/cards/2701-2800.md#liang26ae-modules) · SpikingLM: Towards Fully Spiking Language Model
 - [把 LoRA 权重增量写成稀疏高斯过程后验](../conferences/icml-2026/cards/2701-2800.md#lin26j-modules) · Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models
 - [把结构先验从注意力语义键中拆出](../conferences/icml-2026/cards/2701-2800.md#litman26a-modules) · You Need Better Attention Priors
+- [查询依赖的多极近似注意力](../conferences/icml-2026/cards/3301-3400.md#mitchell26a-modules) · Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining
 
 <a id="by-computer-vision"></a>
 
@@ -81,6 +82,7 @@
 - [体素化前径向缩放保留近处小目标细节](../conferences/icml-2026/cards/2901-3000.md#liu26gn-modules) · Radial Scaling Voxelization for Accurate Small Object 3D Detection
 - [视觉适配器的阶段共享与动态权重](../conferences/icml-2026/cards/2901-3000.md#lou26i-modules) · Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing
 - [恢复线性注意力中的查询范数](../conferences/icml-2026/cards/3201-3300.md#meng26g-modules) · Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention
+- [矢量地图不确定性](../conferences/icml-2026/cards/3301-3400.md#mo26e-modules) · MapUQ: Map with Uncertainty Quantification for Robust BEV Vectorized Construction
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -163,6 +165,8 @@
 - [用单纯形频率构造多维旋转位置编码](../conferences/icml-2026/cards/2601-2700.md#li26hn-modules) · nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
 - [先消除视图尺度再按不确定性融合证据](../conferences/icml-2026/cards/2701-2800.md#liu26r-modules) · Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification
 - [用局部距离置信限制注意力全局同步](../conferences/icml-2026/cards/2901-3000.md#liu26fs-modules) · Krause Synchronization Transformers
+- [脉冲神经元的超离散化](../conferences/icml-2026/cards/3301-3400.md#minoza26a-modules) · UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra
+- [结构注意力高阶求导](../conferences/icml-2026/cards/3301-3400.md#mogilevsky26a-modules) · d$^2$p: Structured Soft Attention Is All You Need
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -188,4 +192,5 @@
 - [用虚拟三跳路径编码蛋白交互先验](../conferences/icml-2026/cards/1201-1300.md#gao26ap-modules) · Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach
 - [按当前流向为网格图加局部二跳边](../conferences/icml-2026/cards/2401-2500.md#li26cu-modules) · Graph Rewiring based on Flow Alignment for Improving Fluid Simulation
 - [学习分数阶算子输入](../conferences/icml-2026/cards/3201-3300.md#mehouachi26a-modules) · Fractional is Better: Learnable Derivative Orders in Neural Operator Learning
+- [把边界条件学成域内函数扩展](../conferences/icml-2026/cards/3301-3400.md#mousavi26a-modules) · Imposing Boundary Conditions on Neural Operators via Learned Function Extensions
 <!-- classification:end -->

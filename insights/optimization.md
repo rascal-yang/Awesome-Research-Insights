@@ -81,6 +81,7 @@
 - [预训练中联合诱导稀疏与低秩权重](../conferences/icml-2026/cards/3101-3200.md#ma26a-optimization) · SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference
 - [用持续梯度白化保护顺序编辑中的旧知识](../conferences/icml-2026/cards/3101-3200.md#ma26f-optimization) · More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing
 - [在分布邻域内稳健优化偏好](../conferences/icml-2026/cards/3201-3300.md#mandal26a-optimization) · Distributionally Robust Reinforcement Learning from Human Feedback
+- [多目标微调调度](../conferences/icml-2026/cards/3301-3400.md#monteiro26a-optimization) · Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection
 
 <a id="by-computer-vision"></a>
 
@@ -325,6 +326,8 @@
 - [梯度归因隐式曲率正则](../conferences/icml-2026/cards/3201-3300.md#mehrpanah26a-optimization) · Improving Adversarial Robustness of Attribution via Implicit Regularization
 - [在相邻重复块之间平滑优化器更新](../conferences/icml-2026/cards/3201-3300.md#meng26j-optimization) · Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization
 - [先保证粒子更新可逆再估计熵](../conferences/icml-2026/cards/3201-3300.md#messaoud26a-optimization) · Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities
+- [预条件器批求逆根](../conferences/icml-2026/cards/3301-3400.md#modoranu26a-optimization) · DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers
+- [硬重置脉冲网络的分块并行](../conferences/icml-2026/cards/3301-3400.md#morrill26a-optimization) · Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -378,4 +381,5 @@
 - [用细胞外多电极记录拟合刺激响应的生物物理参数](../conferences/icml-2026/cards/2901-3000.md#lotlikar26a-optimization) · Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation
 - [按树突结构调度 GPU 仿真并推导梯度](../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks
 - [用不变密度的测地结构补足稀疏随机轨迹](../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints
+- [芯片宏布局排序](../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution
 <!-- classification:end -->

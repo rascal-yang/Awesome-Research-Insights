@@ -38,6 +38,7 @@
 - [在反嵌入前锚定有害查询表征](../conferences/icml-2026/cards/3001-3100.md#lu26ac-loss-functions) · Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks
 - [偏好优化的对比互信息](../conferences/icml-2026/cards/3101-3200.md#lv26a-loss-functions) · The Hidden Link between RLHF and Contrastive Learning
 - [把比较器的平局纳入偏好学习](../conferences/icml-2026/cards/3101-3200.md#lv26l-loss-functions) · When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning
+- [语义自适应偏好间隔](../conferences/icml-2026/cards/3301-3400.md#mohri26e-loss-functions) · Mind the Gap: Structure-Aware Consistency in Preference Learning
 
 <a id="by-computer-vision"></a>
 
@@ -119,6 +120,7 @@
 - [用梯度式通道正则压缩连续音频](../conferences/icml-2026/cards/2901-3000.md#liu26ei-loss-functions) · STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation
 - [在对抗训练中对齐类别分布和证据总量](../conferences/icml-2026/cards/3001-3100.md#lu26af-loss-functions) · Calibrating Uncertainty for Zero-Shot Adversarial CLIP
 - [以类别锚点约束视觉提示范数](../conferences/icml-2026/cards/3101-3200.md#ma26ai-loss-functions) · AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field
+- [专家路由的 Dirichlet 先验](../conferences/icml-2026/cards/3301-3400.md#mirvakhabova26a-loss-functions) · Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs
 
 <a id="by-ml-foundations"></a>
 
@@ -147,6 +149,7 @@
 - [用半群导出的线性代理监督流映射](../conferences/icml-2026/cards/2501-2600.md#li26fn-loss-functions) · Trajectory Consistency for One-Step Generation on Euler Mean Flows
 - [用逐样本正确性约束候选专家的训练竞争](../conferences/icml-2026/cards/2701-2800.md#liu26g-loss-functions) · When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer
 - [以成对监督保存语义相反标签的分歧度](../conferences/icml-2026/cards/3001-3100.md#lu26an-loss-functions) · Divisiveness-Consistent Label Distribution Learning
+- [线性内核一致损失](../conferences/icml-2026/cards/3301-3400.md#mohri26d-loss-functions) · Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction
 
 <a id="by-graph-and-recommendation"></a>
 

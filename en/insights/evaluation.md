@@ -250,6 +250,12 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Endogenous Resistance to Activation Steering in Language Models](../../conferences/icml-2026/cards/3201-3300.md#mckenzie26a-evaluation) · 中文
 - [Mechanistic Interpretability as Statistical Estimation: A Variance Analysis](../../conferences/icml-2026/cards/3201-3300.md#meloux26a-evaluation) · 中文
 - [Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting](../../conferences/icml-2026/cards/3201-3300.md#meng26k-evaluation) · 中文
+- [A geometric relation of the error introduced by sampling a language model’s output distribution to its internal state](../../conferences/icml-2026/cards/3301-3400.md#modenbach26a-evaluation) · 中文
+- [Beyond Perplexity: UTF-8 Validity in Byte-aware Language Models](../../conferences/icml-2026/cards/3301-3400.md#moon26a-evaluation) · 中文
+- [Understanding Dynamic Compute Allocation in Recurrent Transformers](../../conferences/icml-2026/cards/3301-3400.md#moosa26a-evaluation) · 中文
+- [Causal Detection of Multi-Step LLM Agent Attacks](../../conferences/icml-2026/cards/3301-3400.md#mothukuri26a-evaluation) · 中文
+- [LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/3301-3400.md#motwani26a-evaluation) · 中文
+- [SpatialJB: How Text Distribution Art Becomes The "Jailbreak Key" for LLM Guardrails](../../conferences/icml-2026/cards/3301-3400.md#mou26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -298,6 +304,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](../../conferences/icml-2026/cards/3001-3100.md#lu26f-evaluation) · 中文
 - [MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing](../../conferences/icml-2026/cards/3001-3100.md#luo26ak-evaluation) · 中文
 - [Low-Compute Watermark Removal via Dual-Domain Natural Projection](../../conferences/icml-2026/cards/3201-3300.md#meshram26a-evaluation) · 中文
+- [IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension](../../conferences/icml-2026/cards/3301-3400.md#mordacq26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -532,4 +539,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · 中文
 - [AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · 中文
 - [MADE: Benchmark Environments for Closed-Loop Materials Discovery](../../conferences/icml-2026/cards/3101-3200.md#malik26a-evaluation) · 中文
+- [Probing the Geometry of Diffusion Models with the String Method](../../conferences/icml-2026/cards/3301-3400.md#moreau26a-evaluation) · 中文
 <!-- classification:end -->

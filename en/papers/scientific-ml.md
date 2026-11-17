@@ -109,6 +109,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="gao26ap-modules"></a>[Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ap)
 - <a id="li26cu-modules"></a>[Graph Rewiring based on Flow Alignment for Improving Fluid Simulation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cu)
 - <a id="mehouachi26a-modules"></a>[Fractional is Better: Learnable Derivative Orders in Neural Operator Learning](../../conferences/icml-2026/cards/3201-3300.md#paper-mehouachi26a)
+- <a id="mousavi26a-modules"></a>[Imposing Boundary Conditions on Neural Operators via Learned Function Extensions](../../conferences/icml-2026/cards/3301-3400.md#paper-mousavi26a)
 
 <a id="by-loss-functions"></a>
 
@@ -166,6 +167,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lotlikar26a-optimization"></a>[Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation](../../conferences/icml-2026/cards/2901-3000.md#paper-lotlikar26a)
 - <a id="lu26ar-optimization"></a>[HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ar)
 - <a id="maoutsa26a-optimization"></a>[From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#paper-maoutsa26a)
+- <a id="mo26d-optimization"></a>[Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -265,6 +267,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lyu26c-inference"></a>[QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26c)
 - <a id="maddipatla26a-inference"></a>[Inference-time optimization for experiment-grounded protein ensemble generation](../../conferences/icml-2026/cards/3101-3200.md#paper-maddipatla26a)
 - <a id="maksymiuk26a-inference"></a>[MacroGuide: Topological Guidance for Macrocycle Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-maksymiuk26a)
+- <a id="millard26a-inference"></a>[Particle-Guided Diffusion Models for Partial Differential Equations](../../conferences/icml-2026/cards/3301-3400.md#paper-millard26a)
+- <a id="min26b-inference"></a>[Bridging Dynamics and Data: A Unified Diffusion Framework for Mechanistically-Informed Epidemic Forecasting](../../conferences/icml-2026/cards/3301-3400.md#paper-min26b)
+- <a id="moufad26a-inference"></a>[Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors](../../conferences/icml-2026/cards/3301-3400.md#paper-moufad26a)
 
 <a id="by-representation-learning"></a>
 
@@ -318,6 +323,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="mahns26a-representation-learning"></a>[Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../../conferences/icml-2026/cards/3101-3200.md#paper-mahns26a)
 - <a id="mao26h-representation-learning"></a>[SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26h)
 - <a id="medvedev26b-representation-learning"></a>[BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models](../../conferences/icml-2026/cards/3201-3300.md#paper-medvedev26b)
+- <a id="montgomery26a-representation-learning"></a>[How Should Transformers Encode Numeric Values in Electronic Health Records?](../../conferences/icml-2026/cards/3301-3400.md#paper-montgomery26a)
 
 <a id="by-evaluation"></a>
 
@@ -355,6 +361,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26di-evaluation"></a>[ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26di)
 - <a id="lv26b-evaluation"></a>[AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26b)
 - <a id="malik26a-evaluation"></a>[MADE: Benchmark Environments for Closed-Loop Materials Discovery](../../conferences/icml-2026/cards/3101-3200.md#paper-malik26a)
+- <a id="moreau26a-evaluation"></a>[Probing the Geometry of Diffusion Models with the String Method](../../conferences/icml-2026/cards/3301-3400.md#paper-moreau26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -383,4 +390,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lu26ah-theory-statistics"></a>[Conditionally Site-Independent Neural Evolution of Antibody Sequences](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ah)
 - <a id="ma26j-theory-statistics"></a>[DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26j)
 - <a id="men26a-theory-statistics"></a>[FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#paper-men26a)
+- <a id="montes26a-theory-statistics"></a>[Reduction of Probabilistic Chemical Reaction Networks](../../conferences/icml-2026/cards/3301-3400.md#paper-montes26a)
 <!-- classification:end -->

@@ -60,6 +60,8 @@
 - [用非对称辩论验证定制守卫训练样本](../conferences/icml-2026/cards/3201-3300.md#mazza26a-data-strategies) · BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate
 - [主动偏好对选择](../conferences/icml-2026/cards/3201-3300.md#melikidze26a-data-strategies) · ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning
 - [智能体轨迹水印](../conferences/icml-2026/cards/3201-3300.md#meng26b-data-strategies) · Watermarking LLM Agent Trajectories
+- [在 LoRA 验证梯度子空间筛选指令数据](../conferences/icml-2026/cards/3301-3400.md#min26a-data-strategies) · GIST: Targeted Data Selection for Instruction Tuning via Coupled Optimization Geometry
+- [用均衡语义域支持预训练数据配比](../conferences/icml-2026/cards/3301-3400.md#min26e-data-strategies) · GEM: Geometric Entropy Mixing for Optimal LLM Data Curation
 
 <a id="by-computer-vision"></a>
 
@@ -165,6 +167,8 @@
 - [梯度筛查与特征校正的噪声标签净化](../conferences/icml-2026/cards/2401-2500.md#li26cr-data-strategies) · GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception
 - [用预测相关性奖励训练少样本表格生成器](../conferences/icml-2026/cards/2701-2800.md#lin26p-data-strategies) · ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning
 - [用小波最优输运边际影响给时序片段估值](../conferences/icml-2026/cards/2801-2900.md#liu26dh-data-strategies) · TimeLAVA: Learning-Agnostic Valuation for Time Series Data
+- [回归残差复用](../conferences/icml-2026/cards/3301-3400.md#mohebbi26a-data-strategies) · Counterfactual Residual Data Augmentation for Regression
+- [用等权群体重心蒸馏数据](../conferences/icml-2026/cards/3301-3400.md#moslemi26a-data-strategies) · Fair Dataset Distillation via Cross-Group Barycenter Alignment
 
 <a id="by-graph-and-recommendation"></a>
 

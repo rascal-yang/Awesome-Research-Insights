@@ -54,6 +54,8 @@
 - [用已知非成员校准训练数据集合识别](../conferences/icml-2026/cards/2901-3000.md#liu26ft-theory-statistics) · Provable Training Data Identification for Large Language Models
 - [混合专家的活跃参数与路由统计代价](../conferences/icml-2026/cards/3201-3300.md#mayaki26a-theory-statistics) · Generalization and Scaling Laws for Mixture-of-ExpertsTransformers
 - [从可分辨提示区域估计输出容量](../conferences/icml-2026/cards/3201-3300.md#meyer26a-theory-statistics) · How Many Different Outputs Can a Transformer Generate?
+- [低遗憾续词预测](../conferences/icml-2026/cards/3301-3400.md#mohri26b-theory-statistics) · Next-Token Prediction and Regret Minimization
+- [用无规律样本测记忆容量](../conferences/icml-2026/cards/3301-3400.md#morris26a-theory-statistics) · How much can language models memorize?
 
 <a id="by-computer-vision"></a>
 
@@ -132,6 +134,7 @@
 - [未知误差转移先验的乐观镜像下降](../conferences/icml-2026/cards/3101-3200.md#lyu26e-theory-statistics) · Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors
 - [用慢变量历史幅度控制快变量](../conferences/icml-2026/cards/3101-3200.md#mahadevan26a-theory-statistics) · Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning
 - [以双轨迹复杂度刻画偏好强化学习的最优探索](../conferences/icml-2026/cards/3201-3300.md#mao26a-theory-statistics) · Rethinking the Hardness of PbRL: A Provable General Regret Bound
+- [后训练的底模似然分位数](../conferences/icml-2026/cards/3301-3400.md#mousavi-hosseini26a-theory-statistics) · Post-Training with Policy Gradients: Optimality and the Base Model Barrier
 
 <a id="by-robotics"></a>
 
@@ -475,6 +478,10 @@
 - [用递归转移的组合结构估计可并行性](../conferences/icml-2026/cards/3201-3300.md#merrill26a-theory-statistics) · Why Are Linear RNNs More Parallelizable?
 - [以连续黎曼势参数化避免离散输运映射的维数灾难](../conferences/icml-2026/cards/3201-3300.md#micheli26a-theory-statistics) · Riemannian Neural Optimal Transport
 - [用潜在似然加熵统一自监督对齐与防坍缩](../conferences/icml-2026/cards/3201-3300.md#mikulasch26a-theory-statistics) · Understanding Self-Supervised Learning via Latent Distribution Matching
+- [用预测集稳定性揭示边际覆盖的投机改进](../conferences/icml-2026/cards/3301-3400.md#min26c-theory-statistics) · Questioning the Coverage-Length Metric in Conformal Prediction: When Shorter Intervals Are Not Better
+- [用无标签目标样本稳定共形预测集大小](../conferences/icml-2026/cards/3301-3400.md#min26d-theory-statistics) · Stable Localized Conformal Prediction via Transduction
+- [右删失下的变点检测估计](../conferences/icml-2026/cards/3301-3400.md#miyagawa26a-theory-statistics) · Accurate Evaluation of Quickest Changepoint Detectors via Non-parametric Survival Analysis
+- [把曲率耦合纳入压缩优化的步长模型](../conferences/icml-2026/cards/3301-3400.md#monzio-compagnoni26a-theory-statistics) · On the Interaction of Batch Noise, Adaptivity, and Compression, under $(L_0,L_1)$-Smoothness: An SDE Approach
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -529,4 +536,5 @@
 - [用序列条件突变率近似抗体逐步演化](../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · Conditionally Site-Independent Neural Evolution of Antibody Sequences
 - [双重优化并行拟合纵向处理的各时点效应](../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · DeepBlip: Estimating Conditional Average Treatment Effects Over Time
 - [右删失生存分位](../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival
+- [先约简因子图再编译化学反应](../conferences/icml-2026/cards/3301-3400.md#montes26a-theory-statistics) · Reduction of Probabilistic Chemical Reaction Networks
 <!-- classification:end -->

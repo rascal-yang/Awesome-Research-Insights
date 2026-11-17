@@ -104,6 +104,7 @@ Training schedules, curricula, and task or stage composition.
 - [Collaborative and Efficient Fine-tuning: Leveraging Task Similarity](../../conferences/icml-2026/cards/3101-3200.md#magakyan26a-training-strategies) · 中文
 - [1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization](../../conferences/icml-2026/cards/3201-3300.md#maskey26a-training-strategies) · 中文
 - [Making Expert Reasoning Learnable with Self-Distillation](../../conferences/icml-2026/cards/3201-3300.md#mendes26b-training-strategies) · 中文
+- [CoRe: Collaborative Reasoning via Cross Teaching](../../conferences/icml-2026/cards/3301-3400.md#mishra26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -176,6 +177,7 @@ Training schedules, curricula, and task or stage composition.
 
 - [CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26ai-training-strategies) · 中文
 - [Active Curriculum Refinement for Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#liu26j-training-strategies) · 中文
+- [Dreaming in Code for Curriculum Learning in Open-Ended Worlds](../../conferences/icml-2026/cards/3301-3400.md#mitsides26a-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -193,6 +195,7 @@ Training schedules, curricula, and task or stage composition.
 - [NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26am-training-strategies) · 中文
 - [RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization](../../conferences/icml-2026/cards/2801-2900.md#liu26bx-training-strategies) · 中文
 - [Vision-Language-Action Pretraining from Large-Scale Human Videos](../../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · 中文
+- [On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../../conferences/icml-2026/cards/3301-3400.md#morin26a-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -233,6 +236,7 @@ Training schedules, curricula, and task or stage composition.
 - [Hyperbolic Multimodal Continual Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26dq-training-strategies) · 中文
 - [Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26h-training-strategies) · 中文
 - [Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#miao26c-training-strategies) · 中文
+- [Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](../../conferences/icml-2026/cards/3301-3400.md#mo26c-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -292,6 +296,7 @@ Training schedules, curricula, and task or stage composition.
 - [FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26aa-training-strategies) · 中文
 - [Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration](../../conferences/icml-2026/cards/3101-3200.md#ma26ab-training-strategies) · 中文
 - [No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26ae-training-strategies) · 中文
+- [Compositional Generative Modeling from Decentralized Data](../../conferences/icml-2026/cards/3301-3400.md#morshed26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

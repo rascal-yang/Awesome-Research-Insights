@@ -30,6 +30,7 @@
 - <a id="liu26ep-architecture"></a>[Ramba: Selective State-Space Models for Relational Deep Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ep)
 - <a id="marcoccia26a-architecture"></a>[NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies](../conferences/icml-2026/cards/3201-3300.md#paper-marcoccia26a)
 - <a id="miao26e-architecture"></a>[LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation](../conferences/icml-2026/cards/3201-3300.md#paper-miao26e)
+- <a id="mo26a-architecture"></a>[Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](../conferences/icml-2026/cards/3301-3400.md#paper-mo26a)
 
 <a id="by-modules"></a>
 
@@ -160,6 +161,7 @@
 - <a id="liu26eg-representation-learning"></a>[HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eg)
 - <a id="ma26aj-representation-learning"></a>[Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26aj)
 - <a id="manenti26b-representation-learning"></a>[SWING: Unlocking Implicit Graph Representations for Graph Random Features](../conferences/icml-2026/cards/3201-3300.md#paper-manenti26b)
+- <a id="mishra26c-representation-learning"></a>[Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning](../conferences/icml-2026/cards/3301-3400.md#paper-mishra26c)
 
 <a id="by-evaluation"></a>
 

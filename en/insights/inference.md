@@ -238,6 +238,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density](../../conferences/icml-2026/cards/3201-3300.md#mi26a-inference) · 中文
 - [Correctness-Optimized Residual Activation Lens (CORAL): Transferable and Calibration-Aware Inference-Time Steering](../../conferences/icml-2026/cards/3201-3300.md#miao26a-inference) · 中文
 - [Selective Deferred Routing: Enabling Cost-Efficient Collaboration between Local SLMs and Remote LLMs](../../conferences/icml-2026/cards/3201-3300.md#miao26b-inference) · 中文
+- [UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching](../../conferences/icml-2026/cards/3301-3400.md#misaki26a-inference) · 中文
+- [Aligning Tree-Search Policies with Fixed Token Budgets in Test-Time Scaling of LLMs](../../conferences/icml-2026/cards/3301-3400.md#miyamoto26a-inference) · 中文
+- [Open-World LLM Logical Reasoning](../../conferences/icml-2026/cards/3301-3400.md#mo26f-inference) · 中文
+- [Interpreting and Steering State-Space Models via Activation Subspace Bottlenecks](../../conferences/icml-2026/cards/3301-3400.md#mohan26a-inference) · 中文
+- [Learning to Evict from Key-Value Cache](../../conferences/icml-2026/cards/3301-3400.md#moschella26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -324,6 +329,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Variational Flow Maps: Make Some Noise for One-Step Conditional Generation](../../conferences/icml-2026/cards/3101-3200.md#mammadov26a-inference) · 中文
 - [Turbo4DGen: Ultra-Fast Acceleration for 4D Generation](../../conferences/icml-2026/cards/3101-3200.md#man26a-inference) · 中文
 - [WhisperSplat: Lossless Steganography in 3D Gaussian Splatting](../../conferences/icml-2026/cards/3201-3300.md#meng26h-inference) · 中文
+- [ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT](../../conferences/icml-2026/cards/3301-3400.md#moon26b-inference) · 中文
+- [Spectral Guidance for Flexible and Efficient Control of Diffusion Models](../../conferences/icml-2026/cards/3301-3400.md#moreira26a-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -460,6 +467,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models](../../conferences/icml-2026/cards/3001-3100.md#luo26i-inference) · 中文
 - [Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26z-inference) · 中文
 - [Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion](../../conferences/icml-2026/cards/3101-3200.md#ma26ax-inference) · 中文
+- [Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](../../conferences/icml-2026/cards/3301-3400.md#milis26a-inference) · 中文
+- [ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory](../../conferences/icml-2026/cards/3301-3400.md#minh26a-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -496,6 +505,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach](../../conferences/icml-2026/cards/3001-3100.md#lu26y-inference) · 中文
 - [When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach](../../conferences/icml-2026/cards/3101-3200.md#lv26g-inference) · 中文
 - [Faster Activation Functions at the Edge for Post-Training Speedups](../../conferences/icml-2026/cards/3101-3200.md#lydike26a-inference) · 中文
+- [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../../conferences/icml-2026/cards/3301-3400.md#morelli26a-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -543,4 +553,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation](../../conferences/icml-2026/cards/3101-3200.md#lyu26c-inference) · 中文
 - [Inference-time optimization for experiment-grounded protein ensemble generation](../../conferences/icml-2026/cards/3101-3200.md#maddipatla26a-inference) · 中文
 - [MacroGuide: Topological Guidance for Macrocycle Generation](../../conferences/icml-2026/cards/3101-3200.md#maksymiuk26a-inference) · 中文
+- [Particle-Guided Diffusion Models for Partial Differential Equations](../../conferences/icml-2026/cards/3301-3400.md#millard26a-inference) · 中文
+- [Bridging Dynamics and Data: A Unified Diffusion Framework for Mechanistically-Informed Epidemic Forecasting](../../conferences/icml-2026/cards/3301-3400.md#min26b-inference) · 中文
+- [Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors](../../conferences/icml-2026/cards/3301-3400.md#moufad26a-inference) · 中文
 <!-- classification:end -->

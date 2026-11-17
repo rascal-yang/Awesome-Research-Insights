@@ -54,6 +54,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Provable Training Data Identification for Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26ft-theory-statistics) · 中文
 - [Generalization and Scaling Laws for Mixture-of-ExpertsTransformers](../../conferences/icml-2026/cards/3201-3300.md#mayaki26a-theory-statistics) · 中文
 - [How Many Different Outputs Can a Transformer Generate?](../../conferences/icml-2026/cards/3201-3300.md#meyer26a-theory-statistics) · 中文
+- [Next-Token Prediction and Regret Minimization](../../conferences/icml-2026/cards/3301-3400.md#mohri26b-theory-statistics) · 中文
+- [How much can language models memorize?](../../conferences/icml-2026/cards/3301-3400.md#morris26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -132,6 +134,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors](../../conferences/icml-2026/cards/3101-3200.md#lyu26e-theory-statistics) · 中文
 - [Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#mahadevan26a-theory-statistics) · 中文
 - [Rethinking the Hardness of PbRL: A Provable General Regret Bound](../../conferences/icml-2026/cards/3201-3300.md#mao26a-theory-statistics) · 中文
+- [Post-Training with Policy Gradients: Optimality and the Base Model Barrier](../../conferences/icml-2026/cards/3301-3400.md#mousavi-hosseini26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -475,6 +478,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Why Are Linear RNNs More Parallelizable?](../../conferences/icml-2026/cards/3201-3300.md#merrill26a-theory-statistics) · 中文
 - [Riemannian Neural Optimal Transport](../../conferences/icml-2026/cards/3201-3300.md#micheli26a-theory-statistics) · 中文
 - [Understanding Self-Supervised Learning via Latent Distribution Matching](../../conferences/icml-2026/cards/3201-3300.md#mikulasch26a-theory-statistics) · 中文
+- [Questioning the Coverage-Length Metric in Conformal Prediction: When Shorter Intervals Are Not Better](../../conferences/icml-2026/cards/3301-3400.md#min26c-theory-statistics) · 中文
+- [Stable Localized Conformal Prediction via Transduction](../../conferences/icml-2026/cards/3301-3400.md#min26d-theory-statistics) · 中文
+- [Accurate Evaluation of Quickest Changepoint Detectors via Non-parametric Survival Analysis](../../conferences/icml-2026/cards/3301-3400.md#miyagawa26a-theory-statistics) · 中文
+- [On the Interaction of Batch Noise, Adaptivity, and Compression, under $(L_0,L_1)$-Smoothness: An SDE Approach](../../conferences/icml-2026/cards/3301-3400.md#monzio-compagnoni26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -529,4 +536,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Conditionally Site-Independent Neural Evolution of Antibody Sequences](../../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · 中文
 - [DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · 中文
 - [FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · 中文
+- [Reduction of Probabilistic Chemical Reaction Networks](../../conferences/icml-2026/cards/3301-3400.md#montes26a-theory-statistics) · 中文
 <!-- classification:end -->

@@ -133,6 +133,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](../../conferences/icml-2026/cards/3101-3200.md#ma26aw-reinforcement-learning) · 中文
 - [Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients](../../conferences/icml-2026/cards/3201-3300.md#mansouri26a-reinforcement-learning) · 中文
 - [Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective](../../conferences/icml-2026/cards/3201-3300.md#mao26i-reinforcement-learning) · 中文
+- [Draft-and-Audit Reinforcement Learning for Optimization Modeling](../../conferences/icml-2026/cards/3301-3400.md#min26g-reinforcement-learning) · 中文
+- [Distributional Alignment Games for Answer-Level Fine-Tuning](../../conferences/icml-2026/cards/3301-3400.md#mohri26c-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -149,6 +151,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Distillation Models are Good Samplers for Diffusion Reinforcement Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ev-reinforcement-learning) · 中文
 - [TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward](../../conferences/icml-2026/cards/3001-3100.md#luo26j-reinforcement-learning) · 中文
 - [Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#luo26u-reinforcement-learning) · 中文
+- [Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization](../../conferences/icml-2026/cards/3301-3400.md#mo26b-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -266,6 +269,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Goal-Conditioned Agents that Learn Everything All at Once](../../conferences/icml-2026/cards/3201-3300.md#matthews26a-reinforcement-learning) · 中文
 - [PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating](../../conferences/icml-2026/cards/3201-3300.md#meng26m-reinforcement-learning) · 中文
 - [Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction](../../conferences/icml-2026/cards/3201-3300.md#mguni26a-reinforcement-learning) · 中文
+- [Safe In-Context Reinforcement Learning](../../conferences/icml-2026/cards/3301-3400.md#moeini26a-reinforcement-learning) · 中文
+- [Reusing Trajectories in Policy Gradients Enables Fast Convergence](../../conferences/icml-2026/cards/3301-3400.md#montenegro26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

@@ -88,6 +88,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26ei-loss-functions"></a>[STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ei)
 - <a id="lu26af-loss-functions"></a>[Calibrating Uncertainty for Zero-Shot Adversarial CLIP](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26af)
 - <a id="ma26ai-loss-functions"></a>[AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ai)
+- <a id="mirvakhabova26a-loss-functions"></a>[Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs](../../conferences/icml-2026/cards/3301-3400.md#paper-mirvakhabova26a)
 
 <a id="by-optimization"></a>
 
@@ -187,6 +188,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26dq-training-strategies"></a>[Hyperbolic Multimodal Continual Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dq)
 - <a id="ma26h-training-strategies"></a>[Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26h)
 - <a id="miao26c-training-strategies"></a>[Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#paper-miao26c)
+- <a id="mo26c-training-strategies"></a>[Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](../../conferences/icml-2026/cards/3301-3400.md#paper-mo26c)
 
 <a id="by-data-strategies"></a>
 
@@ -289,6 +291,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="luo26i-inference"></a>[D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26i)
 - <a id="ma26z-inference"></a>[Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26z)
 - <a id="ma26ax-inference"></a>[Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ax)
+- <a id="milis26a-inference"></a>[Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](../../conferences/icml-2026/cards/3301-3400.md#paper-milis26a)
+- <a id="minh26a-inference"></a>[ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory](../../conferences/icml-2026/cards/3301-3400.md#paper-minh26a)
 
 <a id="by-representation-learning"></a>
 
@@ -328,6 +332,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="mao26d-representation-learning"></a>[SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26d)
 - <a id="marincione26a-representation-learning"></a>[PHALAR: Phasors for Learned Musical Audio Representations](../../conferences/icml-2026/cards/3201-3300.md#paper-marincione26a)
 - <a id="mendez26a-representation-learning"></a>[Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](../../conferences/icml-2026/cards/3201-3300.md#paper-mendez26a)
+- <a id="mishra26b-representation-learning"></a>[Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models](../../conferences/icml-2026/cards/3301-3400.md#paper-mishra26b)
 
 <a id="by-evaluation"></a>
 

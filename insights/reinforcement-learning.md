@@ -133,6 +133,8 @@
 - [混合专家 rollout 路由重放](../conferences/icml-2026/cards/3101-3200.md#ma26aw-reinforcement-learning) · Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers
 - [估计奖励翻转率后校正组相对策略梯度](../conferences/icml-2026/cards/3201-3300.md#mansouri26a-reinforcement-learning) · Noise-corrected GRPO: From Noisy Rewards to Unbiased Gradients
 - [用短行为前缀探索并强化模型的隐含行为模式](../conferences/icml-2026/cards/3201-3300.md#mao26i-reinforcement-learning) · Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective
+- [用终局求解奖励训练优化建模的起草与自审](../conferences/icml-2026/cards/3301-3400.md#min26g-reinforcement-learning) · Draft-and-Audit Reinforcement Learning for Optimization Modeling
+- [答案分布奖励](../conferences/icml-2026/cards/3301-3400.md#mohri26c-reinforcement-learning) · Distributional Alignment Games for Answer-Level Fine-Tuning
 
 <a id="by-computer-vision"></a>
 
@@ -149,6 +151,7 @@
 - [扩散强化学习快速采样](../conferences/icml-2026/cards/2901-3000.md#liu26ev-reinforcement-learning) · Distillation Models are Good Samplers for Diffusion Reinforcement Learning
 - [学习可微替代奖励把非可微反馈分配到少步生成轨迹](../conferences/icml-2026/cards/3001-3100.md#luo26j-reinforcement-learning) · TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward
 - [按去噪动态分块优化图像生成策略](../conferences/icml-2026/cards/3001-3100.md#luo26u-reinforcement-learning) · Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization
+- [按需取证的视频异常定位](../conferences/icml-2026/cards/3301-3400.md#mo26b-reinforcement-learning) · Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization
 
 <a id="by-nlp"></a>
 
@@ -266,6 +269,8 @@
 - [全目标并行更新与目标条件策略](../conferences/icml-2026/cards/3201-3300.md#matthews26a-reinforcement-learning) · Goal-Conditioned Agents that Learn Everything All at Once
 - [在同一车辆路径实例内学习相对偏好](../conferences/icml-2026/cards/3201-3300.md#meng26m-reinforcement-learning) · PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating
 - [让故障注入瞄准协作的关键状态](../conferences/icml-2026/cards/3201-3300.md#mguni26a-reinforcement-learning) · Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction
+- [代价约束上下文学习](../conferences/icml-2026/cards/3301-3400.md#moeini26a-reinforcement-learning) · Safe In-Context Reinforcement Learning
+- [策略梯度轨迹复用](../conferences/icml-2026/cards/3301-3400.md#montenegro26a-reinforcement-learning) · Reusing Trajectories in Policy Gradients Enables Fast Convergence
 
 <a id="by-robotics"></a>
 

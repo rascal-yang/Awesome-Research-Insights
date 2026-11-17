@@ -22,6 +22,7 @@
 - [用保语义代码变换作为生成式中间表示](../conferences/icml-2026/cards/2501-2600.md#li26fj-representation-learning) · SemRep : Generative Code Representation Learning with Code Transformations
 - [把生成式激活先验用于修复表示干预](../conferences/icml-2026/cards/3001-3100.md#luo26d-representation-learning) · Learning a Generative Meta-Model of LLM Activations
 - [代码仓功能依赖双视图](../conferences/icml-2026/cards/3001-3100.md#luo26ad-representation-learning) · Closing the Loop: Universal Repository Representation with RPG-Encoder
+- [用保结构函子探查 Transformer 的类比推理](../conferences/icml-2026/cards/3301-3400.md#minegishi26a-representation-learning) · Emergent Analogical Reasoning in Transformers
 
 <a id="by-computer-vision"></a>
 
@@ -67,6 +68,8 @@
 - [沿共享扩散轨迹对齐相机与雷达步态](../conferences/icml-2026/cards/3001-3100.md#lu26c-representation-learning) · DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion
 - [用共享物体概念识别未知](../conferences/icml-2026/cards/3101-3200.md#lv26k-representation-learning) · Knowing the Unknown: Interpretable Open-World Object Detection via Concept Decomposition Model
 - [用模板拓扑传播与多视图融合指导三维变形](../conferences/icml-2026/cards/3101-3200.md#ma26g-representation-learning) · Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning
+- [让图 minor 沿稀疏分割目标边界收缩](../conferences/icml-2026/cards/3301-3400.md#miller26a-representation-learning) · SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation
+- [独立预测相机位姿和三维场景变化](../conferences/icml-2026/cards/3301-3400.md#morbitzer26a-representation-learning) · Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion
 
 <a id="by-nlp"></a>
 
@@ -148,6 +151,7 @@
 - [用全局图文锚校准局部图像块裁剪](../conferences/icml-2026/cards/3201-3300.md#mao26d-representation-learning) · SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment
 - [用复相位和频谱池化保留音乐分轨匹配线索](../conferences/icml-2026/cards/3201-3300.md#marincione26a-representation-learning) · PHALAR: Phasors for Learned Musical Audio Representations
 - [分类权重语义原型](../conferences/icml-2026/cards/3201-3300.md#mendez26a-representation-learning) · Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling
+- [模糊触发与跨模态概念解释](../conferences/icml-2026/cards/3301-3400.md#mishra26b-representation-learning) · Neuro-Fuzzy Concept Learning for Interpretable Large Multimodal Models
 
 <a id="by-ml-foundations"></a>
 
@@ -224,6 +228,7 @@
 - [双曲重心对齐跨域推荐表示](../conferences/icml-2026/cards/2901-3000.md#liu26eg-representation-learning) · HVAE: Hyperbolic Variational Autoencoder For Flexible Knowledge Transfer Across Multiple Domains
 - [跨城路网的公共低频与本地高频](../conferences/icml-2026/cards/3101-3200.md#ma26aj-representation-learning) · Seeking Commonality, Preserving Specificity: A Spectral-Aware Hierarchical Framework for Cross-City Road Representation Learning
 - [在特征空间预估隐式图游走核](../conferences/icml-2026/cards/3201-3300.md#manenti26b-representation-learning) · SWING: Unlocking Implicit Graph Representations for Graph Random Features
+- [语义角度与结构半径的层级检索](../conferences/icml-2026/cards/3301-3400.md#mishra26c-representation-learning) · Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning
 
 <a id="by-scientific-ml"></a>
 
@@ -277,4 +282,5 @@
 - [用遮挡潜预测学习市场风险结构](../conferences/icml-2026/cards/3101-3200.md#mahns26a-representation-learning) · Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities
 - [用腹侧视觉区脑信号定位模型稀疏语义特征](../conferences/icml-2026/cards/3201-3300.md#mao26h-representation-learning) · SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment
 - [生物注释 DNA 标记](../conferences/icml-2026/cards/3201-3300.md#medvedev26b-representation-learning) · BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models
+- [用受控算术任务选病历数值编码](../conferences/icml-2026/cards/3301-3400.md#montgomery26a-representation-learning) · How Should Transformers Encode Numeric Values in Electronic Health Records?
 <!-- classification:end -->

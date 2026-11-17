@@ -104,6 +104,7 @@
 - [按任务相似度共享适配器子空间](../conferences/icml-2026/cards/3101-3200.md#magakyan26a-training-strategies) · Collaborative and Efficient Fine-tuning: Leveraging Task Similarity
 - [用非均匀质心做极低位宽量化训练](../conferences/icml-2026/cards/3201-3300.md#maskey26a-training-strategies) · 1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization
 - [专家推理自蒸馏](../conferences/icml-2026/cards/3201-3300.md#mendes26b-training-strategies) · Making Expert Reasoning Learnable with Self-Distillation
+- [同伴成功轨迹的交叉教学](../conferences/icml-2026/cards/3301-3400.md#mishra26a-training-strategies) · CoRe: Collaborative Reasoning via Cross Teaching
 
 <a id="by-computer-vision"></a>
 
@@ -176,6 +177,7 @@
 
 - [按宽度与深度缩放策略网络的参数和更新](../conferences/icml-2026/cards/2301-2400.md#lee26ai-training-strategies) · CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning
 - [先覆盖有先修关系的课程图再训练前沿](../conferences/icml-2026/cards/2701-2800.md#liu26j-training-strategies) · Active Curriculum Refinement for Reinforcement Learning
+- [可执行环境变体的闭环课程](../conferences/icml-2026/cards/3301-3400.md#mitsides26a-training-strategies) · Dreaming in Code for Curriculum Learning in Open-Ended Worlds
 
 <a id="by-robotics"></a>
 
@@ -193,6 +195,7 @@
 - [把符号级失败修复蒸馏成 VLA 的执行策略](../conferences/icml-2026/cards/2801-2900.md#liu26am-training-strategies) · NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning
 - [先让动作符合骨干接口再学连续执行](../conferences/icml-2026/cards/2801-2900.md#liu26bx-training-strategies) · RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization
 - [用大规模人手视频预训练可转移的动作指令模型](../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · Vision-Language-Action Pretraining from Large-Scale Human Videos
+- [用后继观察降低少标注动作学习难度](../conferences/icml-2026/cards/3301-3400.md#morin26a-training-strategies) · On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning
 
 <a id="by-multimodal"></a>
 
@@ -233,6 +236,7 @@
 - [持续学习中用共享双曲等距约束保护图文层级](../conferences/icml-2026/cards/2901-3000.md#liu26dq-training-strategies) · Hyperbolic Multimodal Continual Learning
 - [客户端和服务器分别训练图像与文本编码器](../conferences/icml-2026/cards/3101-3200.md#ma26h-training-strategies) · Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning
 - [按输入与输出 token 动态缓解视觉语言微调的长尾偏差](../conferences/icml-2026/cards/3201-3300.md#miao26c-training-strategies) · Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning
+- [三维关系推理蒸馏](../conferences/icml-2026/cards/3301-3400.md#mo26c-training-strategies) · Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs
 
 <a id="by-ml-foundations"></a>
 
@@ -292,6 +296,7 @@
 - [用共享语义锚点校准异质客户端的残差](../conferences/icml-2026/cards/3001-3100.md#lu26aa-training-strategies) · FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning
 - [联邦子模型按平台期逐步恢复容量](../conferences/icml-2026/cards/3101-3200.md#ma26ab-training-strategies) · Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration
 - [一次联邦训练支持多预算量化](../conferences/icml-2026/cards/3101-3200.md#ma26ae-training-strategies) · No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning
+- [跨数据孤岛组合生成因素](../conferences/icml-2026/cards/3301-3400.md#morshed26a-training-strategies) · Compositional Generative Modeling from Decentralized Data
 
 <a id="by-graph-and-recommendation"></a>
 

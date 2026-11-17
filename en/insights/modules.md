@@ -44,6 +44,7 @@ Reusable components and local changes to model inputs or connections.
 - [SpikingLM: Towards Fully Spiking Language Model](../../conferences/icml-2026/cards/2701-2800.md#liang26ae-modules) · 中文
 - [Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26j-modules) · 中文
 - [You Need Better Attention Priors](../../conferences/icml-2026/cards/2701-2800.md#litman26a-modules) · 中文
+- [Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining](../../conferences/icml-2026/cards/3301-3400.md#mitchell26a-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -81,6 +82,7 @@ Reusable components and local changes to model inputs or connections.
 - [Radial Scaling Voxelization for Accurate Small Object 3D Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26gn-modules) · 中文
 - [Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing](../../conferences/icml-2026/cards/2901-3000.md#lou26i-modules) · 中文
 - [Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#meng26g-modules) · 中文
+- [MapUQ: Map with Uncertainty Quantification for Robust BEV Vectorized Construction](../../conferences/icml-2026/cards/3301-3400.md#mo26e-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -163,6 +165,8 @@ Reusable components and local changes to model inputs or connections.
 - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../../conferences/icml-2026/cards/2601-2700.md#li26hn-modules) · 中文
 - [Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification](../../conferences/icml-2026/cards/2701-2800.md#liu26r-modules) · 中文
 - [Krause Synchronization Transformers](../../conferences/icml-2026/cards/2901-3000.md#liu26fs-modules) · 中文
+- [UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra](../../conferences/icml-2026/cards/3301-3400.md#minoza26a-modules) · 中文
+- [d$^2$p: Structured Soft Attention Is All You Need](../../conferences/icml-2026/cards/3301-3400.md#mogilevsky26a-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -188,4 +192,5 @@ Reusable components and local changes to model inputs or connections.
 - [Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](../../conferences/icml-2026/cards/1201-1300.md#gao26ap-modules) · 中文
 - [Graph Rewiring based on Flow Alignment for Improving Fluid Simulation](../../conferences/icml-2026/cards/2401-2500.md#li26cu-modules) · 中文
 - [Fractional is Better: Learnable Derivative Orders in Neural Operator Learning](../../conferences/icml-2026/cards/3201-3300.md#mehouachi26a-modules) · 中文
+- [Imposing Boundary Conditions on Neural Operators via Learned Function Extensions](../../conferences/icml-2026/cards/3301-3400.md#mousavi26a-modules) · 中文
 <!-- classification:end -->

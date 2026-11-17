@@ -52,6 +52,8 @@
 - [以自激活秩一键值原子积累持续学习记忆](../conferences/icml-2026/cards/3001-3100.md#lu26au-architecture) · Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts
 - [线性注意头内记忆分组](../conferences/icml-2026/cards/3201-3300.md#mei26a-architecture) · Head-in-Head in Linear Attention
 - [用结构化技能和非参数 PPO 门升级代理记忆](../conferences/icml-2026/cards/3201-3300.md#mi26d-architecture) · Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents
+- [跨词元高层反馈](../conferences/icml-2026/cards/3301-3400.md#mohan26b-architecture) · Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers
+- [有限自动机状态注入](../conferences/icml-2026/cards/3301-3400.md#mohri26a-architecture) · Rational Transductors
 
 <a id="by-computer-vision"></a>
 
@@ -107,6 +109,8 @@
 - [单目四维几何运动查询](../conferences/icml-2026/cards/3001-3100.md#luo26al-architecture) · 4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere
 - [用降噪脉冲单元和双向多尺度网络处理事件相机](../conferences/icml-2026/cards/3101-3200.md#ma26x-architecture) · Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras
 - [红外小目标背景流形](../conferences/icml-2026/cards/3101-3200.md#ma26au-architecture) · CodeMamba: Shifting from Target Semantics to Self-Supervised Background Manifold Learning for Singularity Detection in Infrared Sequences
+- [让二维 RoPE 在大图分辨率均匀分配方向](../conferences/icml-2026/cards/3301-3400.md#min26f-architecture) · Compass-RoPE: Isotropic Rotary Position Embeddings for Vision Transformers
+- [证据混合校准](../conferences/icml-2026/cards/3301-3400.md#mohammed26a-architecture) · GEM-FI: Gated Evidential Mixtures with Fisher Modulation
 
 <a id="by-nlp"></a>
 
@@ -234,6 +238,8 @@
 - [逐段扩展直接时序预测](../conferences/icml-2026/cards/3001-3100.md#lu26w-architecture) · ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters
 - [用独立特征嵌入与组 Lasso 强化表格轴归纳](../conferences/icml-2026/cards/3001-3100.md#lui26a-architecture) · LassoFlexNet: a Flexible Neural Architecture for Tabular Data
 - [用 LUT 卷积与可学习分组连接构造无权重神经网络](../conferences/icml-2026/cards/3101-3200.md#ma26e-architecture) · Convolutional Learnable-Group Weightless Neural Network
+- [不规则点集傅里叶卷积](../conferences/icml-2026/cards/3301-3400.md#mohseni26a-architecture) · Revisiting Neural Processes via Fourier Transform and Volterra Series
+- [流式神经过程的因果缓存](../conferences/icml-2026/cards/3301-3400.md#mortimer26a-architecture) · Incremental Transformer Neural Processes
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -256,6 +262,7 @@
 - [关系数据库状态空间模型](../conferences/icml-2026/cards/2901-3000.md#liu26ep-architecture) · Ramba: Selective State-Space Models for Relational Deep Learning
 - [用全局调制 token 让扩散生成满足网络链路约束](../conferences/icml-2026/cards/3201-3300.md#marcoccia26a-architecture) · NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies
 - [在知识图查询执行合约中显式绑定否定范围](../conferences/icml-2026/cards/3201-3300.md#miao26e-architecture) · LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation
+- [动态图的结构频谱时序解耦](../conferences/icml-2026/cards/3301-3400.md#mo26a-architecture) · Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks
 
 <a id="by-scientific-ml"></a>
 

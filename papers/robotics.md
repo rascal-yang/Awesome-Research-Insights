@@ -100,6 +100,7 @@
 - <a id="liu26am-training-strategies"></a>[NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26am)
 - <a id="liu26bx-training-strategies"></a>[RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bx)
 - <a id="luo26e-training-strategies"></a>[Vision-Language-Action Pretraining from Large-Scale Human Videos](../conferences/icml-2026/cards/3001-3100.md#paper-luo26e)
+- <a id="morin26a-training-strategies"></a>[On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning](../conferences/icml-2026/cards/3301-3400.md#paper-morin26a)
 
 <a id="by-data-strategies"></a>
 

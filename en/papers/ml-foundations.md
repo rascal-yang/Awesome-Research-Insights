@@ -55,6 +55,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lu26w-architecture"></a>[ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26w)
 - <a id="lui26a-architecture"></a>[LassoFlexNet: a Flexible Neural Architecture for Tabular Data](../../conferences/icml-2026/cards/3001-3100.md#paper-lui26a)
 - <a id="ma26e-architecture"></a>[Convolutional Learnable-Group Weightless Neural Network](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26e)
+- <a id="mohseni26a-architecture"></a>[Revisiting Neural Processes via Fourier Transform and Volterra Series](../../conferences/icml-2026/cards/3301-3400.md#paper-mohseni26a)
+- <a id="mortimer26a-architecture"></a>[Incremental Transformer Neural Processes](../../conferences/icml-2026/cards/3301-3400.md#paper-mortimer26a)
 
 <a id="by-modules"></a>
 
@@ -96,6 +98,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26hn-modules"></a>[nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hn)
 - <a id="liu26r-modules"></a>[Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26r)
 - <a id="liu26fs-modules"></a>[Krause Synchronization Transformers](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fs)
+- <a id="minoza26a-modules"></a>[UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra](../../conferences/icml-2026/cards/3301-3400.md#paper-minoza26a)
+- <a id="mogilevsky26a-modules"></a>[d$^2$p: Structured Soft Attention Is All You Need](../../conferences/icml-2026/cards/3301-3400.md#paper-mogilevsky26a)
 
 <a id="by-loss-functions"></a>
 
@@ -124,6 +128,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26fn-loss-functions"></a>[Trajectory Consistency for One-Step Generation on Euler Mean Flows](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fn)
 - <a id="liu26g-loss-functions"></a>[When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26g)
 - <a id="lu26an-loss-functions"></a>[Divisiveness-Consistent Label Distribution Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26an)
+- <a id="mohri26d-loss-functions"></a>[Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../../conferences/icml-2026/cards/3301-3400.md#paper-mohri26d)
 
 <a id="by-optimization"></a>
 
@@ -308,6 +313,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="mehrpanah26a-optimization"></a>[Improving Adversarial Robustness of Attribution via Implicit Regularization](../../conferences/icml-2026/cards/3201-3300.md#paper-mehrpanah26a)
 - <a id="meng26j-optimization"></a>[Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26j)
 - <a id="messaoud26a-optimization"></a>[Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities](../../conferences/icml-2026/cards/3201-3300.md#paper-messaoud26a)
+- <a id="modoranu26a-optimization"></a>[DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers](../../conferences/icml-2026/cards/3301-3400.md#paper-modoranu26a)
+- <a id="morrill26a-optimization"></a>[Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#paper-morrill26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -374,6 +381,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lu26aa-training-strategies"></a>[FedARC: Anchor-Guided Residual Compensation for Data and Model Heterogeneous Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26aa)
 - <a id="ma26ab-training-strategies"></a>[Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ab)
 - <a id="ma26ae-training-strategies"></a>[No Retraining at Edge: Efficient Resource-Aware Mixed-Precision Quantization via Federated Supernet Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ae)
+- <a id="morshed26a-training-strategies"></a>[Compositional Generative Modeling from Decentralized Data](../../conferences/icml-2026/cards/3301-3400.md#paper-morshed26a)
 
 <a id="by-data-strategies"></a>
 
@@ -397,6 +405,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26cr-data-strategies"></a>[GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cr)
 - <a id="lin26p-data-strategies"></a>[ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26p)
 - <a id="liu26dh-data-strategies"></a>[TimeLAVA: Learning-Agnostic Valuation for Time Series Data](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dh)
+- <a id="mohebbi26a-data-strategies"></a>[Counterfactual Residual Data Augmentation for Regression](../../conferences/icml-2026/cards/3301-3400.md#paper-mohebbi26a)
+- <a id="moslemi26a-data-strategies"></a>[Fair Dataset Distillation via Cross-Group Barycenter Alignment](../../conferences/icml-2026/cards/3301-3400.md#paper-moslemi26a)
 
 <a id="by-inference"></a>
 
@@ -433,6 +443,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lu26y-inference"></a>[Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26y)
 - <a id="lv26g-inference"></a>[When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26g)
 - <a id="lydike26a-inference"></a>[Faster Activation Functions at the Edge for Post-Training Speedups](../../conferences/icml-2026/cards/3101-3200.md#paper-lydike26a)
+- <a id="morelli26a-inference"></a>[Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../../conferences/icml-2026/cards/3301-3400.md#paper-morelli26a)
 
 <a id="by-representation-learning"></a>
 
@@ -857,4 +868,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="merrill26a-theory-statistics"></a>[Why Are Linear RNNs More Parallelizable?](../../conferences/icml-2026/cards/3201-3300.md#paper-merrill26a)
 - <a id="micheli26a-theory-statistics"></a>[Riemannian Neural Optimal Transport](../../conferences/icml-2026/cards/3201-3300.md#paper-micheli26a)
 - <a id="mikulasch26a-theory-statistics"></a>[Understanding Self-Supervised Learning via Latent Distribution Matching](../../conferences/icml-2026/cards/3201-3300.md#paper-mikulasch26a)
+- <a id="min26c-theory-statistics"></a>[Questioning the Coverage-Length Metric in Conformal Prediction: When Shorter Intervals Are Not Better](../../conferences/icml-2026/cards/3301-3400.md#paper-min26c)
+- <a id="min26d-theory-statistics"></a>[Stable Localized Conformal Prediction via Transduction](../../conferences/icml-2026/cards/3301-3400.md#paper-min26d)
+- <a id="miyagawa26a-theory-statistics"></a>[Accurate Evaluation of Quickest Changepoint Detectors via Non-parametric Survival Analysis](../../conferences/icml-2026/cards/3301-3400.md#paper-miyagawa26a)
+- <a id="monzio-compagnoni26a-theory-statistics"></a>[On the Interaction of Batch Noise, Adaptivity, and Compression, under $(L_0,L_1)$-Smoothness: An SDE Approach](../../conferences/icml-2026/cards/3301-3400.md#paper-monzio-compagnoni26a)
 <!-- classification:end -->

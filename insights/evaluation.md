@@ -250,6 +250,12 @@
 - [持续激活干预下区分重试和有效纠正](../conferences/icml-2026/cards/3201-3300.md#mckenzie26a-evaluation) · Endogenous Resistance to Activation Steering in Language Models
 - [因果电路稳定性](../conferences/icml-2026/cards/3201-3300.md#meloux26a-evaluation) · Mechanistic Interpretability as Statistical Estimation: A Variance Analysis
 - [用依赖流程拆解威胁狩猎评测](../conferences/icml-2026/cards/3201-3300.md#meng26k-evaluation) · Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting
+- [采样分岔几何](../conferences/icml-2026/cards/3301-3400.md#modenbach26a-evaluation) · A geometric relation of the error introduced by sampling a language model’s output distribution to its internal state
+- [分开度量字节结构与目标字符匹配](../conferences/icml-2026/cards/3301-3400.md#moon26a-evaluation) · Beyond Perplexity: UTF-8 Validity in Byte-aware Language Models
+- [用已知复杂度检验动态深度分配](../conferences/icml-2026/cards/3301-3400.md#moosa26a-evaluation) · Understanding Dynamic Compute Allocation in Recurrent Transformers
+- [用因果轨迹审计多步提示注入](../conferences/icml-2026/cards/3301-3400.md#mothukuri26a-evaluation) · Causal Detection of Multi-Step LLM Agent Attacks
+- [以短题面和依赖图测试长推理](../conferences/icml-2026/cards/3301-3400.md#motwani26a-evaluation) · LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning
+- [二维排版下的护栏鲁棒性评测](../conferences/icml-2026/cards/3301-3400.md#mou26a-evaluation) · SpatialJB: How Text Distribution Art Becomes The "Jailbreak Key" for LLM Guardrails
 
 <a id="by-computer-vision"></a>
 
@@ -298,6 +304,7 @@
 - [扩散数据贡献者归因](../conferences/icml-2026/cards/3001-3100.md#lu26f-evaluation) · SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models
 - [多参考视觉创作编辑评测](../conferences/icml-2026/cards/3001-3100.md#luo26ak-evaluation) · MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing
 - [用频域干预测试水印的语义保真](../conferences/icml-2026/cards/3201-3300.md#meshram26a-evaluation) · Low-Compute Watermark Removal via Dual-Domain Natural Projection
+- [用最小生成树估计表征的内在维数](../conferences/icml-2026/cards/3301-3400.md#mordacq26a-evaluation) · IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension
 
 <a id="by-nlp"></a>
 
@@ -532,4 +539,5 @@
 - [同时测蛋白结合体设计的验证口径、产量和结构多样性](../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation
 - [晶体结构操作评测](../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures
 - [用固定形成能预算评估闭环发现](../conferences/icml-2026/cards/3101-3200.md#malik26a-evaluation) · MADE: Benchmark Environments for Closed-Loop Materials Discovery
+- [用带温度的弦方法诊断扩散模态](../conferences/icml-2026/cards/3301-3400.md#moreau26a-evaluation) · Probing the Geometry of Diffusion Models with the String Method
 <!-- classification:end -->

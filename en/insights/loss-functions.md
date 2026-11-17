@@ -38,6 +38,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks](../../conferences/icml-2026/cards/3001-3100.md#lu26ac-loss-functions) · 中文
 - [The Hidden Link between RLHF and Contrastive Learning](../../conferences/icml-2026/cards/3101-3200.md#lv26a-loss-functions) · 中文
 - [When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning](../../conferences/icml-2026/cards/3101-3200.md#lv26l-loss-functions) · 中文
+- [Mind the Gap: Structure-Aware Consistency in Preference Learning](../../conferences/icml-2026/cards/3301-3400.md#mohri26e-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -119,6 +120,7 @@ Objectives, auxiliary supervision, and regularization.
 - [STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation](../../conferences/icml-2026/cards/2901-3000.md#liu26ei-loss-functions) · 中文
 - [Calibrating Uncertainty for Zero-Shot Adversarial CLIP](../../conferences/icml-2026/cards/3001-3100.md#lu26af-loss-functions) · 中文
 - [AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field](../../conferences/icml-2026/cards/3101-3200.md#ma26ai-loss-functions) · 中文
+- [Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs](../../conferences/icml-2026/cards/3301-3400.md#mirvakhabova26a-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -147,6 +149,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Trajectory Consistency for One-Step Generation on Euler Mean Flows](../../conferences/icml-2026/cards/2501-2600.md#li26fn-loss-functions) · 中文
 - [When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer](../../conferences/icml-2026/cards/2701-2800.md#liu26g-loss-functions) · 中文
 - [Divisiveness-Consistent Label Distribution Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26an-loss-functions) · 中文
+- [Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../../conferences/icml-2026/cards/3301-3400.md#mohri26d-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -60,6 +60,8 @@ Data selection, annotation, augmentation, and sampling.
 - [BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate](../../conferences/icml-2026/cards/3201-3300.md#mazza26a-data-strategies) · 中文
 - [ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning](../../conferences/icml-2026/cards/3201-3300.md#melikidze26a-data-strategies) · 中文
 - [Watermarking LLM Agent Trajectories](../../conferences/icml-2026/cards/3201-3300.md#meng26b-data-strategies) · 中文
+- [GIST: Targeted Data Selection for Instruction Tuning via Coupled Optimization Geometry](../../conferences/icml-2026/cards/3301-3400.md#min26a-data-strategies) · 中文
+- [GEM: Geometric Entropy Mixing for Optimal LLM Data Curation](../../conferences/icml-2026/cards/3301-3400.md#min26e-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -165,6 +167,8 @@ Data selection, annotation, augmentation, and sampling.
 - [GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cr-data-strategies) · 中文
 - [ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26p-data-strategies) · 中文
 - [TimeLAVA: Learning-Agnostic Valuation for Time Series Data](../../conferences/icml-2026/cards/2801-2900.md#liu26dh-data-strategies) · 中文
+- [Counterfactual Residual Data Augmentation for Regression](../../conferences/icml-2026/cards/3301-3400.md#mohebbi26a-data-strategies) · 中文
+- [Fair Dataset Distillation via Cross-Group Barycenter Alignment](../../conferences/icml-2026/cards/3301-3400.md#moslemi26a-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -81,6 +81,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference](../../conferences/icml-2026/cards/3101-3200.md#ma26a-optimization) · 中文
 - [More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](../../conferences/icml-2026/cards/3101-3200.md#ma26f-optimization) · 中文
 - [Distributionally Robust Reinforcement Learning from Human Feedback](../../conferences/icml-2026/cards/3201-3300.md#mandal26a-optimization) · 中文
+- [Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection](../../conferences/icml-2026/cards/3301-3400.md#monteiro26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -325,6 +326,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Improving Adversarial Robustness of Attribution via Implicit Regularization](../../conferences/icml-2026/cards/3201-3300.md#mehrpanah26a-optimization) · 中文
 - [Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization](../../conferences/icml-2026/cards/3201-3300.md#meng26j-optimization) · 中文
 - [Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities](../../conferences/icml-2026/cards/3201-3300.md#messaoud26a-optimization) · 中文
+- [DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers](../../conferences/icml-2026/cards/3301-3400.md#modoranu26a-optimization) · 中文
+- [Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#morrill26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -378,4 +381,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation](../../conferences/icml-2026/cards/2901-3000.md#lotlikar26a-optimization) · 中文
 - [HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · 中文
 - [From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · 中文
+- [Order Matters: Unveiling the Hidden Impact of Macro Placement Sequences via Proxy-Guided LLM Evolution](../../conferences/icml-2026/cards/3301-3400.md#mo26d-optimization) · 中文
 <!-- classification:end -->
