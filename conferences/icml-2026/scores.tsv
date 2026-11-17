@@ -3849,260 +3849,260 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 3848	ren26e	4	3	3	4	70		技术选择：FCore 对处理和对照分别维护经差异签名压缩的随机特征核心集，在缓存上直接求协变量平衡权重，输出加权差的前缀 ATE。；对照背景：改进来源：离线协变量平衡和流式倾向或结果估计（PDF 第 3、4 页）。	scored
 3849	ren26f	4	4	4	4	80		技术选择：表达性 TTS 用预训音频 LM 的角色上下文续写似然作奖励，同时保 CER 内容约束，替代仅文字风格评审（PDF 第 4、5 页）。	scored
 3850	ren26g	4	4	3	5	79		技术选择：构建保持或改变链环数的理论例子，比较宽度等于环境维度的单调和非单调前馈、ResNet、Transformer 与可逆结构。；对照背景：以连续可逆流、ReLU/Sigmoid/tanh、GELU/Swish、残差和纯注意力为结构对照（PDF 第 3、5 页）。	scored
-3851	ren26h							待原文复核评分	pending
-3852	ren26i							待原文复核评分	pending
-3853	ren26j							待原文复核评分	pending
-3854	ren26k							待原文复核评分	pending
-3855	ren26l							待原文复核评分	pending
-3856	ren26m							待原文复核评分	pending
-3857	ren26n							待原文复核评分	pending
-3858	ren26o							待原文复核评分	pending
-3859	ren26p							待原文复核评分	pending
-3860	ren26q							待原文复核评分	pending
-3861	ren26r							待原文复核评分	pending
-3862	ren26s							待原文复核评分	pending
-3863	ren26t							待原文复核评分	pending
-3864	ren26u							待原文复核评分	pending
-3865	requena26a							待原文复核评分	pending
-3866	reuel26a							待原文复核评分	pending
-3867	reuter26a							待原文复核评分	pending
-3868	rezaei26a							待原文复核评分	pending
-3869	rezk26a							待原文复核评分	pending
-3870	riabinin26a							待原文复核评分	pending
-3871	ricci26a							待原文复核评分	pending
-3872	ricco26a							待原文复核评分	pending
-3873	ridel26a							待原文复核评分	pending
-3874	riess26a							待原文复核评分	pending
-3875	rinaldi26a							待原文复核评分	pending
-3876	ripken26a							待原文复核评分	pending
-3877	rivera-soto26a							待原文复核评分	pending
-3878	roberts26a							待原文复核评分	pending
-3879	robnik26a							待原文复核评分	pending
-3880	roch26a							待原文复核评分	pending
-3881	roch26b							待原文复核评分	pending
-3882	rodemann26a							待原文复核评分	pending
-3883	rodionov26a							待原文复核评分	pending
-3884	rodriguez26a							待原文复核评分	pending
-3885	rodriguez-munoz26a							待原文复核评分	pending
-3886	roh26a							待原文复核评分	pending
-3887	roland26a							待原文复核评分	pending
-3888	roos26a							待原文复核评分	pending
-3889	roschmann26a							待原文复核评分	pending
-3890	rosenblatt26a							待原文复核评分	pending
-3891	rosseau26a							待原文复核评分	pending
-3892	rossi26a							待原文复核评分	pending
-3893	roulet26a							待原文复核评分	pending
-3894	rout26a							待原文复核评分	pending
-3895	rouyer26a							待原文复核评分	pending
-3896	roytburg26a							待原文复核评分	pending
-3897	ruan26a							待原文复核评分	pending
-3898	ruan26b							待原文复核评分	pending
-3899	ruan26c							待原文复核评分	pending
-3900	ruan26d							待原文复核评分	pending
-3901	ruan26e							待原文复核评分	pending
-3902	rubacher26a							待原文复核评分	pending
-3903	rubbi26a							待原文复核评分	pending
-3904	rubinstein26a							待原文复核评分	pending
-3905	rubio-madrigal26a							待原文复核评分	pending
-3906	rugamer26a							待原文复核评分	pending
-3907	ruhdorfer26a							待原文复核评分	pending
-3908	ruhling-cachay26a							待原文复核评分	pending
-3909	ruhlmann26a							待原文复核评分	pending
-3910	rui26a							待原文复核评分	pending
-3911	rundel26a							待原文复核评分	pending
-3912	runwal26a							待原文复核评分	pending
-3913	russo26a							待原文复核评分	pending
-3914	russo26b							待原文复核评分	pending
-3915	ryabchenko26a							待原文复核评分	pending
-3916	ryan26a							待原文复核评分	pending
-3917	ryd26a							待原文复核评分	pending
-3918	saad-falcon26a							待原文复核评分	pending
-3919	saakyan26a							待原文复核评分	pending
-3920	saber26a							待原文复核评分	pending
-3921	saberi26a							待原文复核评分	pending
-3922	sabolic26a							待原文复核评分	pending
-3923	sadi26a							待原文复核评分	pending
-3924	saegert26a							待原文复核评分	pending
-3925	saengkyongam26a							待原文复核评分	pending
-3926	safarov26a							待原文复核评分	pending
-3927	safonov26a							待原文复核评分	pending
-3928	saglam26a							待原文复核评分	pending
-3929	saha26a							待原文复核评分	pending
-3930	saha26b							待原文复核评分	pending
-3931	sahin26a							待原文复核评分	pending
-3932	sahoo26a							待原文复核评分	pending
-3933	sahoo26b							待原文复核评分	pending
-3934	sahu26a							待原文复核评分	pending
-3935	saied26a							待原文复核评分	pending
-3936	saig26a							待原文复核评分	pending
-3937	sakai26a							待原文复核评分	pending
-3938	sakai26b							待原文复核评分	pending
-3939	sakata26a							待原文复核评分	pending
-3940	sakaue26a							待原文复核评分	pending
-3941	salehkaleybar26a							待原文复核评分	pending
-3942	salla26a							待原文复核评分	pending
-3943	salvy26a							待原文复核评分	pending
-3944	samanta26a							待原文复核评分	pending
-3945	samarin26a							待原文复核评分	pending
-3946	samuel26a							待原文复核评分	pending
-3947	sanchez-fernandez26a							待原文复核评分	pending
-3948	sandilya26a							待原文复核评分	pending
-3949	sani26a							待原文复核评分	pending
-3950	sanjeet26a							待原文复核评分	pending
-3951	sansford26a							待原文复核评分	pending
-3952	saravanos26a							待原文复核评分	pending
-3953	sargent26a							待原文复核评分	pending
-3954	sarkar26a							待原文复核评分	pending
-3955	sarkar26b							待原文复核评分	pending
-3956	sarkar26c							待原文复核评分	pending
-3957	sarrof26a							待原文复核评分	pending
-3958	sasnauskas26a							待原文复核评分	pending
-3959	sattar26a							待原文复核评分	pending
-3960	savary26a							待原文复核评分	pending
-3961	saveliev26a							待原文复核评分	pending
-3962	savietto26a							待原文复核评分	pending
-3963	saxena26a							待原文复核评分	pending
-3964	saxena26b							待原文复核评分	pending
-3965	scalena26a							待原文复核评分	pending
-3966	schaefer26a							待原文复核评分	pending
-3967	schafer26a							待原文复核评分	pending
-3968	schaipp26a							待原文复核评分	pending
-3969	scheufele26a							待原文复核评分	pending
-3970	schiekiera26a							待原文复核评分	pending
-3971	schiff26a							待原文复核评分	pending
-3972	schliserman26a							待原文复核评分	pending
-3973	schmahling26a							待原文复核评分	pending
-3974	schmidt26a							待原文复核评分	pending
-3975	schneckenreiter26a							待原文复核评分	pending
-3976	schnepf26a							待原文复核评分	pending
-3977	schnitzer26a							待原文复核评分	pending
-3978	schopmans26a							待原文复核评分	pending
-3979	schram26a							待原文复核评分	pending
-3980	schroder26a							待原文复核评分	pending
-3981	schulz26a							待原文复核评分	pending
-3982	schulze-buschoff26a							待原文复核评分	pending
-3983	schur26a							待原文复核评分	pending
-3984	schuster26a							待原文复核评分	pending
-3985	schwerdtner26a							待原文复核评分	pending
-3986	schwinn26a							待原文复核评分	pending
-3987	scurria26a							待原文复核评分	pending
-3988	seddiqi26a							待原文复核评分	pending
-3989	seely26a							待原文复核评分	pending
-3990	segal26a							待原文复核评分	pending
-3991	sehgal26a							待原文复核评分	pending
-3992	sehwag26a							待原文复核评分	pending
-3993	sekikawa26a							待原文复核评分	pending
-3994	sel26a							待原文复核评分	pending
-3995	selikhanovych26a							待原文复核评分	pending
-3996	selim26a							待原文复核评分	pending
-3997	selvam26a							待原文复核评分	pending
-3998	sen26a							待原文复核评分	pending
-3999	seo26a							待原文复核评分	pending
-4000	seo26b							待原文复核评分	pending
-4001	seo26c							待原文复核评分	pending
-4002	seo26d							待原文复核评分	pending
-4003	seong26a							待原文复核评分	pending
-4004	seong-eun26a							待原文复核评分	pending
-4005	serov26a							待原文复核评分	pending
-4006	serra-gomez26a							待原文复核评分	pending
-4007	serrano26a							待原文复核评分	pending
-4008	serrano26b							待原文复核评分	pending
-4009	sesmat26a							待原文复核评分	pending
-4010	sethi26a							待原文复核评分	pending
-4011	setlur26a							待原文复核评分	pending
-4012	seto26a							待原文复核评分	pending
-4013	sfyraki26a							待原文复核评分	pending
-4014	shabalin26a							待原文复核评分	pending
-4015	shaer26a							待原文复核评分	pending
-4016	shaffer26a							待原文复核评分	pending
-4017	shaffiey26a							待原文复核评分	pending
-4018	shafran26a							待原文复核评分	pending
-4019	shah26a							待原文复核评分	pending
-4020	shah26b							待原文复核评分	pending
-4021	shah26c							待原文复核评分	pending
-4022	shah26d							待原文复核评分	pending
-4023	shahariar26a							待原文复核评分	pending
-4024	shaheen26a							待原文复核评分	pending
-4025	shahroz26a							待原文复核评分	pending
-4026	shahverdi26a							待原文复核评分	pending
-4027	shai26a							待原文复核评分	pending
-4028	shaj26a							待原文复核评分	pending
-4029	shakeri26a							待原文复核评分	pending
-4030	shalyt26a							待原文复核评分	pending
-4031	shamba26a							待原文复核评分	pending
-4032	shan26a							待原文复核评分	pending
-4033	shan26b							待原文复核评分	pending
-4034	shan26c							待原文复核评分	pending
-4035	shan26d							待原文复核评分	pending
-4036	shang26a							待原文复核评分	pending
-4037	shang26b							待原文复核评分	pending
-4038	shang26c							待原文复核评分	pending
-4039	shang26d							待原文复核评分	pending
-4040	shang26e							待原文复核评分	pending
-4041	shang26f							待原文复核评分	pending
-4042	shao26a							待原文复核评分	pending
-4043	shao26b							待原文复核评分	pending
-4044	shao26c							待原文复核评分	pending
-4045	shao26d							待原文复核评分	pending
-4046	shao26e							待原文复核评分	pending
-4047	shao26f							待原文复核评分	pending
-4048	shao26g							待原文复核评分	pending
-4049	shao26h							待原文复核评分	pending
-4050	shao26i							待原文复核评分	pending
-4051	shao26j							待原文复核评分	pending
-4052	shao26k							待原文复核评分	pending
-4053	shaoran26a							待原文复核评分	pending
-4054	shapira26a							待原文复核评分	pending
-4055	sharief26a							待原文复核评分	pending
-4056	sharifnassab26a							待原文复核评分	pending
-4057	sharma26a							待原文复核评分	pending
-4058	sharma26b							待原文复核评分	pending
-4059	sharma26c							待原文复核评分	pending
-4060	she26a							待原文复核评分	pending
-4061	she26b							待原文复核评分	pending
-4062	shehmar26a							待原文复核评分	pending
-4063	sheikh26a							待原文复核评分	pending
-4064	shen26a							待原文复核评分	pending
-4065	shen26b							待原文复核评分	pending
-4066	shen26c							待原文复核评分	pending
-4067	shen26d							待原文复核评分	pending
-4068	shen26e							待原文复核评分	pending
-4069	shen26f							待原文复核评分	pending
-4070	shen26g							待原文复核评分	pending
-4071	shen26h							待原文复核评分	pending
-4072	shen26i							待原文复核评分	pending
-4073	shen26j							待原文复核评分	pending
-4074	shen26k							待原文复核评分	pending
-4075	shen26l							待原文复核评分	pending
-4076	shen26m							待原文复核评分	pending
-4077	shen26n							待原文复核评分	pending
-4078	shen26o							待原文复核评分	pending
-4079	shen26p							待原文复核评分	pending
-4080	shen26q							待原文复核评分	pending
-4081	shen26r							待原文复核评分	pending
-4082	shen26s							待原文复核评分	pending
-4083	shen26t							待原文复核评分	pending
-4084	shen26u							待原文复核评分	pending
-4085	shen26v							待原文复核评分	pending
-4086	shen26w							待原文复核评分	pending
-4087	shen26x							待原文复核评分	pending
-4088	shen26y							待原文复核评分	pending
-4089	shen26z							待原文复核评分	pending
-4090	shen26aa							待原文复核评分	pending
-4091	shen26ab							待原文复核评分	pending
-4092	shen26ac							待原文复核评分	pending
-4093	shen26ad							待原文复核评分	pending
-4094	shen26ae							待原文复核评分	pending
-4095	shenfeld26a							待原文复核评分	pending
-4096	sheng26a							待原文复核评分	pending
-4097	sheng26b							待原文复核评分	pending
-4098	shenoy26a							待原文复核评分	pending
-4099	shestakov26a							待原文复核评分	pending
-4100	shevkunov26a							待原文复核评分	pending
-4101	shi26a							待原文复核评分	pending
-4102	shi26b							待原文复核评分	pending
-4103	shi26c							待原文复核评分	pending
-4104	shi26d							待原文复核评分	pending
+3851	ren26h	4	3	4	4	74		技术选择：跨客户端依赖检测先做 copula 边缘对齐，再堆叠聚合并择客户端子集；新增针对异质性造成的失效，但贡献是联邦统计检验而非神经联邦优化（PDF 第 4、6 页）。	scored
+3852	ren26i	4	4	4	4	80		技术选择：MIND 以 Latent Decoupling Estimator 动态投影并聚类，在簇内估噪声并训练鲁棒学生，无需干净锚标签。；对照背景：比较标准 CE、GCE、BLTM、NPC、DMLP、ProMix、CA2C 等，噪声源含 KPConv、MPRM、PCAM 和零样本模型（PDF 第 4、5 页）。	scored
+3853	ren26j	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：SECNet 将极性融入 Event-based Group and Sampling，使用频谱特征提取降低乘加规模。；对照背景：比较帧模型 TANet/I3D、体素 RG-CNN/VMST-Net、点云 TTPOINT、SpikePoint、EventMamba（PDF 第 4、5 页）。	scored
+3854	ren26k	4	4	4	4	80		技术选择：深 ReLU 回归迁移用两阶段 offset 校正而非直接合并源目标；通用 L2 界把源估计误差与目标偏移复杂度分开，给出层次组合结构的适用收益边界（PDF 第 4、5 页）。	scored
+3855	ren26l	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：POLCA 用优先队列管理探索和重评，ε-Net 保持候选覆盖，LLM summarizer 聚合局部历史文本及数值反馈。；对照背景：比较 Base Prompt、GEPA、OpenEvolve 和各任务优化方法（PDF 第 4、5 页）。	scored
+3856	ren26m	4	3	4	4	74		技术选择：提出 RDNGD、其随机变体及 RDFW，在测地光滑、凸或强凸条件下给迭代/查询复杂度。；对照背景：比较数值查询的 ZO-RGD、RDNGD 固定/余弦步长及约束下的 RDFW（PDF 第 3、4 页）。	scored
+3857	ren26n	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：FedSDR 用 LoRA-S 在自蒸馏数据平滑、用 LoRA-R 在原数据纠偏，交替训练且只上传 R。；对照背景：FedAvg、FedAvgM、FedProx 等联邦骨干加/不加 FedSD；完整方案比较 FedSD、同时上传双路、FedDPA 等（PDF 第 4、5 页）。	scored
+3858	ren26o	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：构造开放题及泄漏判定数据，用安全优先奖励综合有害性、有用性和推理忠实，训练负责答复。；对照背景：Vanilla、SFT、GA、CB 及安全 RL；完整奖励与不同组件消融（PDF 第 4、5 页）。	scored
+3859	ren26p	4	4	4	4	80		技术选择：复杂知识和大量连续编辑时不再把参数编辑当稳定知识存储；原文以维数塌缩解释小奇异值扰动，并对照上下文检索，新增是可定位的容量失效边界而非仅比较分数（PDF 第 4、5 页）。	scored
+3860	ren26q	4	3	4	3	71		技术选择：Attention Hijacking 从双层蒸馏中的注意力监督测试后门，并用语义锚定假设刻画领域词与低/高干扰触发的行为。；对照背景：比较 Clean-Std/Clean-Attn、标准或带注意力的投毒对照（如 DI-Attn）及多种事后防御（PDF 第 4、5 页）。	scored
+3861	ren26r	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：FedSSM 预测不同候选参与动作，以 surprise 调整参与数量和探索，聚合时做信任加权与模态路由。；对照背景：比较 FedAvg、Oort、CriticalFL、FedMBridge 及其他模态异质方法；基线通常固定每轮 10% 客户端（PDF 第 4、5 页）。	scored
+3862	ren26s	4	4	4	4	80		技术选择：GRPO 探索不只靠同一大模型采样，而混入固定同族小模型轨迹并退火其比例；新增是策略级而非温度级多样性来源，区别于普通增大组样本数（PDF 第 4、5 页）。	scored
+3863	ren26t	4	4	4	4	80		技术选择：ME-DLM 将并行生成和少量编辑扩散步结合，以最小编辑轨迹和分阶段训练让修正利用全序列。；对照背景：使用 LLaDA-Instruct，比较 Stage-2/3 和原模型，并列 Soft Mask、EvoToken 设置（PDF 第 4、5 页）。	scored
+3864	ren26u	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：AdaRS 先用简洁/冗余配对做监督微调，再通过自定义奖励的 GRPO 学习按真实复杂度切换推理模式。；对照背景：比较直接/思考的基础模型以及 OverThink、O1-Pruner、CoT-Valve、Thinkless、AdaptThink（PDF 第 4、5 页）。	scored
+3865	requena26a	2	3	4	2	54		技术选择：Lean 证明预算优先给带编译反馈的迭代与记忆，再给库搜索；架构本身采用成熟三组件，增量主要是统一预算下各环节的消融归因，非独立新代理机制（PDF 第 4、5 页）。	scored
+3866	reuel26a	1	2	3	1	34		主体为发布报告、第三方来源与访谈的社会影响披露调查；没有独立的模型训练、推理或控制机制，政策披露建议不改变具身或深度学习技术选择（PDF 第 2、4 页）。	scored
+3867	reuter26a	4	4	4	4	80		技术选择：已知部分因果图时向 CFM 注意力注入结构偏置而非仅把图序列化为文本；对完整/部分图和祖先知识的对照给出知识接入形式的具体新增（PDF 第 4、5 页）。	scored
+3868	rezaei26a	4	4	4	4	80		技术选择：OnlineRubrics 从新旧策略回复的比较在线生成准则，与静态 rubric 合用，分别用固定参考或上一策略。；对照背景：比较 LLM 判分、合成/人工离线准则、普适要求、逐回复准则抽取和两种在线变体（PDF 第 4、5 页）。	scored
+3869	rezk26a	4	4	4	4	80		技术选择：STEEL 用扩散模型学习 PEFT 参数分布，抽有限集做 sample-and-evaluate，并给学习论风险证书。；对照背景：对照 SGD、LoRA-Hub、MeZO；视觉少样本另比 BBPT 与 Meta-PB 等，部分风险类型不同（PDF 第 4、5 页）。	scored
+3870	riabinin26a	4	4	4	4	80		技术选择：Gluon 建立分层 LMO、动量及动态半径框架，引入逐层 (L0,L1) 广义光滑并分析确定和随机收敛。；对照背景：以 Muon/Scion 和原 LMO 理论为对照，比较把参数看成一块与按层更新及不同光滑假设（PDF 第 4、5 页）。	scored
+3871	ricci26a	4	4	4	4	80		技术选择：构造可控的平移不变 Fourier 数据，分析在线 SGD 恢复相位方向的样本规模，配合纹理和图像的分阶段实验。；对照背景：比较各向同性/幂律幅度、相位可用性，及两层网络和深卷积；非各向同性的机制结论含猜想（PDF 第 4、5 页）。	scored
+3872	ricco26a	2	3	4	2	54		技术选择：用真假句嵌入的 Fisher 投影与图标签传播做幻觉判别；两类成熟方法的组合为主，未说明相对已有判别几何新增的不可替代机制（PDF 第 4、6 页）。	scored
+3873	ridel26a	4	3	4	4	74		技术选择：用一次在线 MDP 优化处理构造的奖励序列，近似优化占用测度并平均探索策略，随后采样估计转移并在奖励揭示后用悲观离线规划。；对照背景：改进来源：Jin 等及 Li 等的多次无遗憾探索、Rosenberg–Mansour 在线算法。理论对照：已有上界与 Ménard 等的无奖励结果（PDF 第 3、4 页）。	scored
+3874	riess26a	4	4	4	4	80		技术选择：对每个 Rényi 阶用 Bernoulli 分布提取错误区域，取区域交集。对每个 I 类错误水平构造达到联合作用边界的二元见证机制。；对照背景：改进来源：Zhu 等的多阶区域交集猜想。理论对照：单阶转换及所有仅以 RDP 轮廓为输入的有效规则（PDF 第 4、5 页）。	scored
+3875	rinaldi26a	4	4	4	4	80		技术选择：跨架构搬任务向量先在校准激活上对齐功能变化，以双侧 Procrustes 映射权重增量；区别于同形权重逐项相加或重新训练，接口可独立复用（PDF 第 3、4 页）。	scored
+3876	ripken26a	4	4	4	4	80		技术选择：大步 Hamiltonian 模拟学习平均速度/力的 Mean Flow 一致性而非只学瞬时场；JVP 目标与能量、角动量校正可分别使用，明确改变大步长动力学建模选择（PDF 第 3、4 页）。	scored
+3877	rivera-soto26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：用作者风格嵌入分析攻击残留，再以作者示例和偏好训练压力测试风格检测。将同源多篇文本的检测分数取均值，比较随文档数量的变化。；对照背景：改进来源：少样本 StyleDetect 和文本改写（PDF 第 2、3 页）。	scored
+3878	roberts26a	1	2	3	1	34		新增主要是人工对抗过滤的高难视觉题和长期追踪；未提出独立推理机制，也未把模型强弱/难题类型变成具明确条件的新增技术规律（PDF 第 4、5 页）。	scored
+3879	robnik26a	4	4	4	4	80		技术选择：用每维能量误差方差 EEVPD 作为偏差代理，自适应调步长，并调轨迹长度和对角预调节。分析高斯协方差和 Wasserstein 偏差界。；对照背景：改进来源：HMC、LMC、MCLMC 与经典接受率调参（PDF 第 4、5 页）。	scored
+3880	roch26a	4	3	4	4	74		技术选择：RHI 用锚定 Halpern 迭代减小 Bellman 残差的跨度，使用 R-SAMPLE 估计不确定集内的最坏回报。高阶多层 Monte Carlo 校正非线性估计偏差。；对照背景：改进来源：Halpern 不动点迭代、稳健 Bellman 学习、标准 MLMC。理论对照：折扣归约及先前稳健 RL 复杂度（PDF 第 5、6 页）。	scored
+3881	roch26b	4	3	4	4	74		技术选择：用诱导稳健 MDP 的 Bellman 方程表征最佳反应，弱连通时构造常增益最优算子的集合值映射。算法包括稳健 Nash 迭代与平滑稳健 TD 下降。；对照背景：改进来源：非稳健平均奖励和折扣稳健博弈。理论对照：折扣稳健均衡、Nash 迭代、平滑 TD 的不同保证（PDF 第 5、6 页）。	scored
+3882	rodemann26a	4	3	4	4	74		技术选择：把反应分布转移纳入统计学习，用强凸损失和联合敏感性分开控制初始采样误差与受影响样本传播，并区分样本和总体响应。；对照背景：改进来源：Perdomo、Brown 等的反馈预测理论与经典经验风险最小化。理论对照：无反馈、仅样本反馈及全反馈设定（PDF 第 4、6 页）。	scored
+3883	rodionov26a	3	3	4	3	64		技术选择：符号室内布局不能把距离题成功当成满足碰撞、可见及放置约束的证据，应分开检查几何约束；JSON/XML、扰动与工具对照提供局部诊断边界，新增仍主要是基准设计（PDF 第 3、5 页）。	scored
+3884	rodriguez26a	4	4	4	4	80		技术选择：扩散去重/隐私检查应控制共享子结构的典型性，而不能只以稀有图像判定记忆风险；可控 Zipf 层次字符串与 CelebA 属性分离样本独特性和原型频率，形成明确新增规律（PDF 第 4、6 页）。	scored
+3885	rodriguez-munoz26a	4	4	4	4	80		技术选择：Ambient Dataloops 交替学习抗噪扩散模型与后验恢复。每轮用新模型从原始样本出发采样至更低噪声级，再按该级标为仍含噪数据，供下一轮训练。；对照背景：改进来源为 Ambient Diffusion Omni 的异质噪声训练和后验采样。实验对照包括直接过滤、不过滤、Ambient Omni 初始轮、Micro-diffusion 以及推理指导 SIMS（PDF 第 3、4 页）。	scored
+3886	roh26a	4	4	4	4	80		技术选择：视觉 RL 双模拟表示的固定欧氏比较器可换成逐对 SPD 距离；三角因子、岭项和迹归一化给出可拆用的正定/尺度控制，非仅移植双模拟训练（PDF 第 4、5 页）。	scored
+3887	roland26a	4	4	4	4	80		技术选择：GRAM 为 Transformer MLP 增加按领域标注激活的辅助模块。辅助数据始终更新对应模块，按概率更新核心。核心数据训练共享主干并随机联合模块，使推理时可按权限消融模块。；对照背景：改进来源为监督梯度路由和预训练期间能力分离。实验对照包括逐配置过滤数据重新训练、FT-LoRA、FT-Full、MaxEnt 和部分标记条件（PDF 第 3、6 页）。	scored
+3888	roos26a	4	4	4	4	80		技术选择：Categorical Flow Maps 在单纯形上以预测终点构造连续流映射，结合变分流匹配训练瞬时速度，再用 Lagrangian 自蒸馏或终点一致性加漂移约束训练大步映射。；对照背景：改进来源为变分类别流匹配和连续流映射蒸馏。实验对照包括 Naive Flow Map、MoFlow、PairFlow、CatFlow、GDSS，以及文本和图像的少步基线（PDF 第 3、4 页）。	scored
+3889	roschmann26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：SOTAlign 先用少量配对数据拟合线性教师，产生未配对跨模态批的软关系矩阵。学生用配对 SigLIP 与 KLOT 最优传输散度共同拟合共享几何。；对照背景：改进来源为线性 Procrustes、CCA 等对齐及配对对比学习。实验对照包括监督 SAIL、InfoNCE、CKA 和不同视觉/语言编码组合（PDF 第 3、5 页）。	scored
+3890	rosenblatt26a	3	3	4	3	64		技术选择：用户级 DP 时序表生成每人每轮仅抽一个动态切点，完整历史序列化续写；该采样单位与隐私单位对齐可复用，但底层语言模型和 DP-SGD 均沿用，新增限于数据接口（PDF 第 5、6 页）。	scored
+3891	rosseau26a	4	4	4	4	80		技术选择：从经验 NTK 刻画可塑性，使用近动态等距来保留反传方向。AdamO 用任务梯度更新 Adam 矩估计，并另执行使权重 Gram 接近单位阵的正则步。另比较正交层加 GroupSort。；对照背景：改进来源为动态等距、解耦 Adam 更新与持续训练诊断。实验对照包括 NaP、ReDo、L2-Init、谱归一化及无额外正则的网络（PDF 第 5、6 页）。	scored
+3892	rossi26a	3	3	4	3	64		技术选择：结合任务可选 Cβ 粗结构与距离分布替代全原子扩散，直接由距离潜量读亲和力；存在具体计算/表征接口，但 Pairformer、epinet 等组合占主，跨任务必要性证据有限（PDF 第 5、6 页）。	scored
+3893	roulet26a	4	4	4	4	80		技术选择：优化器符号或二阶统计可在逐样本梯度聚合前计算；比较 sign 顺序和 Adam 均值平方/方差，揭示平均梯度会掩盖的独立统计选择，区别于再调全局学习率（PDF 第 3、4 页）。	scored
+3894	rout26a	4	4	4	4	80		技术选择：APS 用量化期望构造对离散嵌入的可导代理，以预训练先验及测量似然更新分布；锚定重掩码优先解码被引导后的可靠 token。；对照背景：改进来源：离散扩散的无训练后验引导与锚定去噪（PDF 第 3、4 页）。	scored
+3895	rouyer26a	4	3	4	3	71		技术选择：uncertain-UCB 用尚不能确信所选臂达标的轮数与每臂试次数计算置信上界，连续选到有把握的达标臂时停止放大探索。；对照背景：改进来源：UCB1 与满足型老虎机遗憾界（PDF 第 3、4 页）。	scored
+3896	roytburg26a	4	4	4	4	80		技术选择：检验裁判自偏好先以独立结果匹配代理答案，再作配对票率差检验；避免把答案质量差当身份偏好，较原始自答胜率多了可操作的混杂控制（PDF 第 4、5 页）。	scored
+3897	ruan26a	4	4	4	4	80		技术选择：BMC 将候选随机遮蔽后用少轮逆扩散重建，按 token、语义等一致性打分，用于错误诊断与拒绝重采样；训练时只对答案正确的候选追加一致性奖励。；对照背景：改进来源：自一致性投票、置信度和纯结果强化学习（PDF 第 5、6 页）。	scored
+3898	ruan26b	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：scBIG 用基因嵌入和 STRING 蛋白互作作平衡 OT 分簇，编码簇内及簇间作用；以簇相关和通路 Sinkhorn 损失引导条件流匹配生成表达。；对照背景：改进来源：逐基因基座、图扰动模型及条件生成（PDF 第 3、4 页）。	scored
+3899	ruan26c	4	4	4	4	80		技术选择：ScenePilot 把基于 RSS 的物理可行性和在线学习的自车风险作为双目标信号，扫过可行阈值，训练两头价值模型并用逐步屏蔽控制探索。；对照背景：改进来源：以周围车辆作对手的场景生成和安全约束强化学习（PDF 第 3、4 页）。	scored
+3900	ruan26d	4	3	4	4	74		技术选择：LASS 按给定协变量下伪标签与真标签的协方差和伪标签方差校准；变量不齐时在预测均值不变的区域才借用标签组的额外变量。；对照背景：改进来源：结构化半监督推断及 PPI/PPI++（PDF 第 4、5 页）。	scored
+3901	ruan26e	3	3	4	3	64		技术选择：编排时按任务临时实例化模型/工具/上下文四元组而非固定子代理名单；接口清楚，但动态代理与上下文筛选已有，新增主要是统一配置和组合（PDF 第 3、4 页）。	scored
+3902	rubacher26a	4	4	4	4	80		技术选择：有限符号指数族中用充分统计做 query、自然参数做 key、对数先验减配分项做偏置；对偶曲率不恒定时，用多个局部 Fisher 二次近似分区覆盖。；对照背景：改进来源：指数族 Bregman 对偶、Fisher 信息与字典注意力（PDF 第 2、3 页）。	scored
+3903	rubbi26a	2	3	4	2	54		技术选择：稀有命中发现按后验超阈概率选批而非最大均值或期望改进；这基本是既有概率改进式采集在扰动命中目标的重定向，独立新增较薄（PDF 第 4、5 页）。	scored
+3904	rubinstein26a	4	4	4	4	80		技术选择：在保留集损失的首个 Newton 步邻域控制曲率、平滑和残余梯度，证明近似邻近局部极小值；在高斯逻辑回归中推导删样规模与维数的误差阶，并分析重缩放 IF。；对照背景：改进来源：全局强凸条件下的 IF 与一步 Newton 误差分析（PDF 第 3、5 页）。	scored
+3905	rubio-madrigal26a	4	4	4	4	80		技术选择：图分类先检验固定多跳统计聚合加 MLP，而不默认端到端消息传递权重必需；注入性分析及公平调参对照给出训练复杂度可省去的具体边界（PDF 第 4、5 页）。	scored
+3906	rugamer26a	4	3	4	4	74		技术选择：以高斯先验下的单隐层 ReLU 网络分析非辨识后验，区分离散置换或分组与连续神经元拆分流形，并用 MCMC 检查经验矩。；对照背景：改进来源：将认知不确定性解释为可随数据减少的预测变异。理论及（PDF 第 3、5 页）。	scored
+3907	ruhdorfer26a	4	4	4	4	80		技术选择：UPD 在线采样自方与带偏随机策略的混合比，按 rollout 回报方差做课程筛选。JUPD 扩展到同时选择伙伴与程序式关卡。；对照背景：改进来源：E3T 固定噪声伙伴与无监督环境设计（PDF 第 4、6 页）。	scored
+3908	ruhling-cachay26a	2	3	4	2	54		技术选择：概率预测可先 MAE 预训，再用 MC dropout 集合的无偏 CRPS 短调；U-Net、Muon、dropout 与 CRPS 均成熟，主要贡献是天气规模上的简洁组合验证（PDF 第 3、4 页）。	scored
+3909	ruhlmann26a	4	4	4	4	80		技术选择：FMCPE 先用仿真数据拟合后验，再用两条条件流分别映射观测到仿真空间、修正参数后验。两条流用已知参数的少量实测标定配对联合训练。；对照背景：改进来源：神经后验估计、校准 SBI 与条件流匹配（PDF 第 4、5 页）。	scored
+3910	rui26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：AdaThink-Med 从 rollout 正误和最高熵词元估计题难，使用批次分位数及滑动平均调整奖励，分阶段强化微调以让同一模型按难度改变输出长度。；对照背景：改进来源：GRPO 与长度惩罚（PDF 第 3、4 页）。	scored
+3911	rundel26a	4	4	4	4	80		技术选择：ShaplEIG 用 Hamming 核高斯过程拟合联盟价值，线性变换得到 Shapley 后验，逐轮最大化归因的期望信息增益。用对称多项式避免指数枚举。；对照背景：改进来源：贝叶斯实验设计、高斯过程和联盟抽样（PDF 第 4、6 页）。	scored
+3912	runwal26a	3	3	4	3	64		技术选择：中训混合保留通用/指令数据，并按损伤类型选择长上下文扩展或基座合并恢复；有顺序与恢复对照，但具体比例和现象依赖所测模型，增量是局部训练配方（PDF 第 3、4 页）。	scored
+3913	russo26a	4	4	4	4	80		技术选择：成功轨迹模仿可解释为占用加权 χ² 信赖域改进，半径由条件成功率平方变异系数决定；新增不是另一个 BC 组合，而是何时成功条件化会改进策略的目标与边界（PDF 第 3、4 页）。	scored
+3914	russo26b	1	2	3	1	34		主要以已有 PPI 接触图解释筛残基，再拼接检索、互作分、结构和生物语义重排；新增集中于领域知识管线与 STRING 历时评估，未给独立可拆用的训练或检索机制（PDF 第 4、5 页）。	scored
+3915	ryabchenko26a	4	4	4	4	80		技术选择：建立 ATST-MDP 的增广 Bellman 方程，再等价为观测时选择动作序列。线性 MDP 下构造 2d 维价值特征，用最小二乘值迭代和 UCB 学习。；对照背景：改进来源：间歇观测 MDP 与线性 LSVI-UCB。理论对照：完全可观测线性 MDP 遗憾阶（PDF 第 2、3 页）。	scored
+3916	ryan26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：用基于逐点部分信息分解的 MI 门控筛选视觉独有信息居多的样本，模型自生成图注补到文本。用补注数据做 LoRA 微调并比较不同补注比例。；对照背景：改进来源：多模态部分信息分解与图注指令微调（PDF 第 4、5 页）。	scored
+3917	ryd26a	4	4	4	4	80		技术选择：用红队构造含指示触发的低表现模型，以弱模型正常示范做短 SFT，再以弱裁判奖励做 RL。用真实答案测恢复比例，并测试模型能否区分训练和部署。；对照背景：改进来源为弱监督下的能力引出与 AI 控制测试。实验对照包括只做 SFT、只做 RL、弱与很弱监督者及情境可识别的红队版本（PDF 第 3、5 页）。	scored
+3918	saad-falcon26a	4	3	4	4	74		技术选择：压缩 Oja 每步沿当前估计和一个随机正交方向测量，计算随机更新。分析含暖启动与衰减步长的全局收敛，并用信息下界比较非自适应测量。；对照背景：改进来源为在线 Oja 更新、自适应压缩测量和完整观测 PCA minimax 率。实验对照为每步同样两次但不自适应的随机测量（PDF 第 3、4 页）。	scored
+3919	saakyan26a	3	3	4	3	64		技术选择：安全标注池在年龄性别之外应保留文化分层，LLM 用作敏感项分流而非替代人类评审；六数据集多层模型及代理/分流对照支持此边界，非仅扩大评测覆盖（PDF 第 4–9 页，§4–6）。	scored
+3920	saber26a	4	4	4	4	80		技术选择：RADE 同时随机删原边和加非边。OF 修正训练加权和的期望回到原图。OFS 在推理聚合中保留新增边的期望贡献。GradNorm 训练时调节两种概率。；对照背景：改进来源为 DropEdge 类增强、图重连与期望保持聚合。实验对照包括 Dropout、DropEdge、DropNode、DropMessage 以及固定速率和单组件消融（PDF 第 4、5 页）。	scored
+3921	saberi26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：从当前图像用相似采样掩码模拟 k 空间观测，再用原网络重建。用原采集位置的循环一致性误差，在受扰观测的邻域内迭代寻找修正输入。；对照背景：改进来源为物理驱动重建与模拟掩码的循环测量一致性。实验对照包括 MoDL、对抗训练、SMUG、JPEG、TV 和随机平滑（PDF 第 4、5 页）。	scored
+3922	sabolic26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：BYORn 用底座对给定图文下目标答复的平均词元负对数似然打分，对可疑答复在训练中由模型再生成替代，以改变触发与异常输出的相关性。；对照背景：改进来源为预训练条件似然和开放生成数据清洗。实验对照包括常规 SFT、ONION、BYE 与只过滤不重写的 BYORn-F（PDF 第 3、4 页）。	scored
+3923	sadi26a	4	3	4	4	74		新增是申报价加权正确分类与临界支付的福利最优机制；要改变的是出价及激励规则，非具身决策或神经模型训练接口（PDF 第 4、5 页）。	scored
+3924	saegert26a	4	4	4	4	80		技术选择：SimpliPy 离线预生成短式改写表，运行时在前缀序列中做子树模式匹配、加法和乘法消去。Flash-ANSR 在线生成规范形式，训练集合到表达式的 Transformer，推理拟合常数和筛选长度。；对照背景：改进来源为计算机代数简化及神经符号回归。实验对照包括 SymPy、NeSymReS、E2E 与遗传编程 PySR（PDF 第 3、6 页）。	scored
+3925	saengkyongam26a	4	4	4	4	80		技术选择：MIR 和 VIR 分别估计协变量均值或协方差在环境间的变化方向，再惩罚预测系数对这些方向的敏感度。在线性平方损失下具闭式估计与特定最坏情况解释。；对照背景：改进来源为反因果结构和分布稳健回归。实验对照包括 Pooled-Ridge、AnchorReg、GroupDRO、DRIG 及最优调参参考（PDF 第 4、6 页）。	scored
+3926	safarov26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：MeDS 抽样构造多个稀疏 patch 记忆库，集成近邻距离作为粗异常分数。蒸馏分数给重建网络，再用分数中位数和绝对偏差渐进选出较干净样本微调。；对照背景：改进来源为记忆库近邻检测、分数级蒸馏和训练数据选择。实验对照包括 SoftPatch、FUN-AD，以及 HVQ、Dinomaly、INP-Former 的原始和增强版本（PDF 第 4、5 页）。	scored
+3927	safonov26a	2	3	4	2	54		技术选择：视频质量按设备与观看条件在冻结评估器后加适配模块；对比标注与成熟偏好聚合/后置适配组成主线，独立模型新增偏薄（PDF 第 3、5 页）。	scored
+3928	saglam26a	2	3	4	2	54		技术选择：测试时以有限差分沿毒性目标改输入嵌入；做法明确但基本是既有零阶输入优化的目标替换，独立新增/相对近邻不可替代性有限（PDF 第 4、5 页）。	scored
+3929	saha26a	3	3	4	3	64		技术选择：文化对齐不能只看事实答对率，可比较知识关系谱结构；具体新增是宏观谱指标，并在陌生文化推荐模拟检验与任务效用的关系，范围限于所测文化结构（PDF 第 3–8 页，§3–5）。	scored
+3930	saha26b	3	3	4	3	64		技术选择：不能以现有 AI 文本检测分数实施仅准润色的审稿政策，编辑程度、上下文与改写对照表明边界难分；是检测工具可用性的失败结论，非新的检测器（PDF 第 4、5 页）。	scored
+3931	sahin26a	4	3	4	4	74		技术选择：设计方差降低的零阶估计，并给相对 Fisher 信息和 Poincaré 条件下总变差界；扩成逆问题的 ZO-APMC 后验采样。；对照背景：黑盒对照 Forward/Central-GSG、SCG、DPG、EnKG；另列可用梯度的 PnPDM、DPS、APMC（PDF 第 4、5 页）。	scored
+3932	sahoo26a	4	4	4	4	80		技术选择：比较掩码、均匀状态和插值扩散的 IsoFLOP 曲线，并用低方差交叉熵改进掩码训练，扩到同为 1.7B。；对照背景：对照 AR、MDLM、Duo、Eso-LM；历史 SMDM/LLaDa 仅参照，训练数据及预算不同（PDF 第 4、5 页）。	scored
+3933	sahoo26b	4	4	4	4	80		技术选择：Eso-LM 利用掩码和任意顺序 AR 的关系，训练因果去噪及可调顺序混合，既支持精确似然又支持 KV 缓存。；对照背景：对照 AR Transformer、MDLM、SEDD、D3PM 等和不同 α0，比较无缓存/不同解码（PDF 第 4、5 页）。	scored
+3934	sahu26a	4	4	4	4	80		技术选择：对 SGD、Heavy-Ball 与 Nesterov 推导有限时间分项跟踪界和变化约束下的极小极大下界。；对照背景：比较无动量 SGD、HB、NAG 在不同 β、步长和噪声下的同漂移任务（PDF 第 4、5 页）。	scored
+3935	saied26a	4	4	4	4	80		技术选择：WNE 用无参输入标准化/输出反标准化分解，证明可表示全部 NE 函数，并在盲去噪中比较。；对照背景：对照原 FDnCNN/SwinIR 等骨干和所有内部层均受限的 NE-arch（PDF 第 3、4 页）。	scored
+3936	saig26a	4	3	4	4	74		技术选择针对供应商绩效支付：先粗信号再选择性细评降低合同成本；原文虽用 QA/代码输出验证，机制控制支付与检查激励，没有改变模型训练、推理或具身策略（PDF 第 4、6 页）。	scored
+3937	sakai26a	4	4	4	4	80		技术选择：低比特/子比特压缩前检查初始符号模板，有限更新使符号难翻转；gap 初始化/外漂移正则主动保留低秩模板，有与普通量化不同的参数化杠杆（PDF 第 3、5 页）。	scored
+3938	sakai26b	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：从 noisy-channel 观点将 MBR 表示为正反条件似然及假设/参考先验的乘积，扫描各项指数。；对照背景：比较传统 MBR、MAP 及统一式下的 model-based MBR、不同权重基线（PDF 第 3、4 页）。	scored
+3939	sakata26a	4	4	4	4	80		技术选择：GFB 将梯度表征学习与公平 Bayes 阈值后处理结合，在一次学习中改善可达权衡曲线。；对照背景：比较 EPO、FairBiNN 等训练方法及 YOTO、FairBayes 后处理或可调方案（PDF 第 4、5 页）。	scored
+3940	sakaue26a	4	3	4	4	74		技术选择：结合代理间隙与动态遗憾，给出非递增 Polyak 型步长，并扩展到卷积 Fenchel–Young 损失。；对照背景：比较固定和 AdaGrad 型 OGD 步长；理论对照固定比较者的代理遗憾（PDF 第 4、6 页）。	scored
+3941	salehkaleybar26a	4	3	4	4	74		技术选择：线性随机动力学稳态辨识按强连通分量布置一次干预，联合拟合均值与协方差；图/谱条件界定可辨识性，直接影响具身系统辨识的干预预算（PDF 第 4、5 页）。	scored
+3942	salla26a	4	4	4	4	80		技术选择：CrossQ 用索引时读取但无需存储的轻量文档上下文做条件量化，结合候选列表与成对排序损失。；对照背景：比较相同 B/token 下 PQ、OPQ、RQ、token-wise conditional；PLAID 仅匹配候选数，另有轻量微调（PDF 第 4、5 页）。	scored
+3943	salvy26a	3	3	4	3	64		技术选择：生成模型距离评估可用真实/生成混合邻域的迭代上下文距离减轻 hubness；新增有明确距离修正，但相对既有 ICDM 的核心思想沿用，独立增量较窄（PDF 第 4、5 页）。	scored
+3944	samanta26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：Thought-ICS 生成结构化 thought、验证并定位，回退修复；自治 Thought-ICS-A 依据终止状态保留或撤销修正。；对照背景：比较普通 CoT、Self-Refine、CoVe，分别以 oracle 已知错误和无外部验证协议测试（PDF 第 4、5 页）。	scored
+3945	samarin26a	4	4	4	4	80		技术选择：LK 提出接受导向的替代损失，可接 EAGLE-3、MEDUSA、MLP、DeepSeek-MTP 的常规训练。；对照背景：比较标准 KL、TV 及多种 LK；覆盖不同目标体积和采样温度（PDF 第 4、6 页）。	scored
+3946	samuel26a	4	4	4	4	80		技术选择：自回归视频扩散把时间 KV 压缩与近邻注意分开插拔；TempCache 及 AnnCA/AnnSA 给出具体近似算子，不能仅因无训练组合而忽略其独立缓存与注意设计（PDF 第 4、5 页）。	scored
+3947	sanchez-fernandez26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：CS-ARM-BN 在元训练和推断阶段以阴性对照提供上下文，适配每个实验批的 BN。；对照背景：比较无适配 BatchNorm/InstanceNorm、CA-MAE、CellProfiler、DANN、CORAL、TENT、ARM-BN 等（PDF 第 4、6 页）。	scored
+3948	sandilya26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：ConDA 冻结扩散模型训练低维对比投影，用 kNN 回映并做样条、Taylor 等轨迹计算。；对照背景：对照 Lerp/Slerp、TEX-1/2、样条、LSTM、不同编辑潜空间和反演器（PDF 第 4、5 页）。	scored
+3949	sani26a	4	4	4	4	80		技术选择：MMD Guidance 把 MMD 梯度纳入逆扩散并支持潜空间和 prompt-aware 产品核。；对照背景：比较无引导、用户训练扩散、微调、Classifier Guidance、Domain Guidance（PDF 第 4、5 页）。	scored
+3950	sanjeet26a	4	4	4	4	80		技术选择：PeRQ 先按期望 L1 做质量均衡置换，再分块旋转、量化；给出最坏情况非渐近分析。；对照背景：对照无置换分块、全向量 QuaRot 等，配 Qronos、RTN、GPTQ，并扩格式（PDF 第 4、5 页）。	scored
+3951	sansford26a	4	3	4	4	74		技术选择：用高维数据做流形/拓扑推断时，先分开有效维数、相关秩及内在维数，按集中条件判断距离是否近等距；理论新增清楚，但未给神经表征学习的直接算法接口（PDF 第 2、3 页）。	scored
+3952	saravanos26a	4	4	4	4	80		技术选择：FlowOptimizer 用目标值、梯度及群体统计调节速度场，流匹配预训练单步后展开多轮，对各步目标端到端微调。无维数版本共享按坐标更新。；对照背景：改进来源：学习优化器、采样型群体搜索及流匹配（PDF 第 3、5 页）。	scored
+3953	sargent26a	4	3	4	4	74		技术选择：PPAI 将未标注上下文的预测分数和有标签的逆倾向加权残差组成估计方程。用鞅极限给出协方差，再按其迹最小化选择预测权重。；对照背景：改进来源：PPI++ 与自适应数据上的加权最小二乘（PDF 第 5、6 页）。	scored
+3954	sarkar26a	4	4	4	4	80		技术选择：EGGROLL 用独立随机低秩矩阵因子产生搜索扰动，分离共享主前向和低秩校正，根据个体回报形成进化更新，并分析秩和维数极限。；对照背景：改进来源：高斯矩阵进化策略（PDF 第 4、5 页）。	scored
+3955	sarkar26b	4	3	4	4	74		技术选择是带 Nash/p-均值福利的线性臂探索：混合 D 最优热身后接 UCB/淘汰；新增改善维数阶和公平效用范围，但没有具身/深度模型的明确实现或选择验证（PDF 第 3、4 页）。	scored
+3956	sarkar26c	4	3	4	4	74		技术选择是凸在线约束优化中随时有效的时变 Lyapunov/虚队列比例修正，避免已知时域与 doubling；正文数值为最短路，未建立非凸深度训练或具身策略的适用接口（PDF 第 3、4 页）。	scored
+3957	sarrof26a	4	4	4	4	80		技术选择：用 C-RASP 处理固定对象，扩展 C*-RASP 处理对象词汇随长度增长，按命题更新规则证明可表达大小域，另用合成规划检验预测。；对照背景：改进来源：C-RASP 与符号极限 Transformer。理论及（PDF 第 3、4 页）。	scored
+3958	sasnauskas26a	4	4	4	4	80		技术选择：AT-DPT 先预测专家动作预训练，再并行让攻击策略生成污染历史，攻击者用 RL 更新，受测 DPT 用污染上下文和未污染的最优动作标签继续训练。；对照背景：改进来源：DPT 上下文强化学习和对抗训练（PDF 第 3、4 页）。	scored
+3959	sattar26a	4	4	4	4	80		技术选择：两层线性自回归用过去输入输出预测未来块，分析短记忆滤波近似、低秩经验最小化和 Hankel 型因子化，从而识别相似变换下的隐表示。；对照背景：改进来源：Kalman 滤波、线性系统识别及低秩自回归。理论及（PDF 第 3、4 页）。	scored
+3960	savary26a	4	4	4	4	80		技术选择：用扩散模拟器的转移分数与观测似然分数近似采样观测条件提议，在转移均值处评估似然近似粒子权重，执行自适应辅助粒子滤波。；对照背景：改进来源：完全适配辅助粒子滤波和扩散后验引导（PDF 第 3、4 页）。	scored
+3961	saveliev26a	2	3	4	2	54		技术选择：LLM 方程搜索以固定其他系数时的验证损失增量剪枝，再用 MCTS 扩展；成熟影响筛选、线性拟合与树搜索组合占主，独立新增较薄（PDF 第 3、4 页）。	scored
+3962	savietto26a	4	4	4	4	80		技术选择：比较注意探针与激活质心提炼概念方向，用按源概念投影强度的替换干预做因果验证，再把余弦相似与视觉搜索及相似度行为联系。；对照背景：改进来源：线性表征假说与激活 steering（PDF 第 3、4 页）。	scored
+3963	saxena26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：METEORA 用与证据选择成败关联的偏好数据训练理由生成器。推理只看问题生成理由，用理由与片段匹配、统计拐点截断，并用同一理由指导核验器筛除可疑片段。；对照背景：改进来源为稠密检索后的证据选择、偏好优化和证据核验。实验对照包括 SBERT、Contriever、Cross-Encoder、RankRAG 与去 DPO、核验及上下文扩展的版本（PDF 第 4、5 页）。	scored
+3964	saxena26b	4	3	4	3	71		技术选择：VLM 鲁棒性测试优先覆盖重采样/几何变化，不能以感知严重度排序替代难度；15模型、两任务显示轻度玻璃模糊可比重度光度破坏更难，属于具体失败边界（PDF 第 4–7 页，§4）。	scored
+3965	scalena26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：EAGer-init 在 top-K 词元熵过阈值时以两个最高概率词元分叉并复用前缀。完整 EAGer 将前期省下的预算重分给校验未过的题，无真值的 adapt 版本给分支已饱和的题。；对照背景：改进来源为固定次数完全并行采样和词元级不确定性。实验对照包括 Full Parallel、只分叉的 EAGer-init 和不同重分配策略（PDF 第 4、5 页）。	scored
+3966	schaefer26a	2	3	4	2	54		技术选择：用转录组桥接无配对病理图像与文字表征；跨模态传递对齐与已有编码器投影组合占主，新增主要是组学桥接应用而非独立通用对齐机制（PDF 第 3、6 页）。	scored
+3967	schafer26a	4	4	4	4	80		技术选择：以方差降低收益对照预测未来状态的偏差/协变量偏移，决定用预测逆动力学还是 BC；误差分解明确说明何时二阶段动作预测更好，直接改变模仿策略建模（PDF 第 4、5 页）。	scored
+3968	schaipp26a	4	4	4	4	80		技术选择：把 SGD、SPS、NGN、SPP 写为随机近端模型更新，定义当前样本损失与最优近端代理值的差 δ。通过累计 δ 的步长加权项建立凸次优界及弱凸驻点界。；对照背景：改进来源为模型式随机近端点分析。理论对照包括 SGD 与自适应 SPS、NGN、SPP。实验对照为学习率扫描和有无 warmup（PDF 第 3、4 页）。	scored
+3969	scheufele26a	4	4	4	4	80		技术选择：统一自回归与随机解掩码为序列更新模型。用成对序列的对数似然差消除归一化常数，以有效温度和排序相关衡量，比较重要性加权、方差比值回归及似然估计目标。；对照背景：改进来源为序列级幂温度与离散扩散。实验对照包括逐词元温度、原底座、T=1 消融以及不同路径样本数（PDF 第 6、7 页）。	scored
+3970	schiekiera26a	3	3	4	3	64		技术选择：黑盒测语言模型语义几何时采用强制相似选择而非自由联想；八模型、共同词表与留出词回归支持行为恢复内部相似结构的局部边界（PDF 第 4–7 页，§4–5）。	scored
+3971	schiff26a	4	4	4	4	80		技术选择：ICR-FQI 以转移表作上下文，把回归模型预测写回 Bellman 目标反复重标记。ICR-RL 对当前候选动作批量求 Q，用 ε-greedy 交互并在上下文满后去重或替换。；对照背景：改进来源为 Fitted Q-Iteration 与 TabPFN 上下文回归。实验对照包括 DQN、PPO、TRPO、保留最近或冻结上下文及 TabICL 稀疏奖励测试（PDF 第 4、5 页）。	scored
+3972	schliserman26a	4	4	4	4	80		技术选择：在光滑非负随机凸损失中构造数据未观测方向，使经验平坦性与总体风险脱钩。分别分析精确邻域最大化的 SA-GD 与线性化内步的 SAM，并用算法稳定性给总体风险上界。；对照背景：改进来源为经验风险的尖锐度解释及 SA-ERM、SA-GD、SAM。理论对照包括 GD/SGD 的零扰动极限、平与尖的经验极小值（PDF 第 5、6 页）。	scored
+3973	schmahling26a	4	4	4	4	80		技术选择：在同条轨迹内累加相邻动作形成跨多步捷径，并用终点观测和价值改进条件生成训练转移。LIFT 用捷径训练高价值动作建议器，采集时偶尔辅助原日志策略。；对照背景：改进来源为离线轨迹拼接、定位几何和日志策略改进。实验对照包括 CQL、仅捷径版、SAC warm-start、随机或噪声增强、GTA 和 Diffusion-QL（PDF 第 4、5 页）。	scored
+3974	schmidt26a	4	4	4	4	80		技术选择：Transport Clustering 先求满秩 Monge 传输排列，对齐两组样本后将两套簇分配改写为一个广义 K-means。用镜像下降或有理据的聚类初始化求解。；对照背景：改进来源为低秩 OT 的匹配簇分解与聚类归约。理论对照是低秩最优解，实验对照有 FRLC 与 LOT（PDF 第 4、5 页）。	scored
+3975	schneckenreiter26a	2	3	4	2	54		技术选择：药物设计以全蛋白和口袋双空间对齐配体指纹；等变编码、虚拟节点及对比学习的已有组件组合为主，跨药物任务统一性不足以单列独立技术机制（PDF 第 5、6 页）。	scored
+3976	schnepf26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：SphericalDreamer 依次生成分层深度全景并抬升成点云，去掉连接方向上的遮挡区域。相邻球形块间用二维修补和调和深度融合补内容，再反投影拼成场景。；对照背景：改进来源为分层全景三维生成和迭代场景补全。实验对照包括 LayerPano3D、SceneScape、WonderJourney、LucidDreamer（PDF 第 3、4 页）。	scored
+3977	schnitzer26a	4	3	4	4	74		技术选择：多任务 RL 可靠性声明同时为任务内有限 rollout 与任务间抽样留置信预算；用二项尾及次序统计给新任务达标概率，区别于直接报告跨任务平均回报（PDF 第 3、6 页）。	scored
+3978	schopmans26a	4	4	4	4	80		技术选择：LDR 用参考数据计算模型负对数密度与不归一目标能量的差，减去批次均值后最小化 L1 或 L2 离散度。可和数据目标结合，利用离策略能量标签。；对照背景：改进来源为 Boltzmann 流生成、前向 KL 与对数方差目标。实验对照包括纯前向 KL、路径梯度、只在重要性样本上加正则及两种离散度（PDF 第 3、4 页）。	scored
+3979	schram26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：先给候选模型统一起始额度，再用 LMC 多任务高斯过程或深度集成外推截断学习曲线。按预期最终损失筛选进入下轮，最后由已训练曲线估计前沿。；对照背景：改进来源为逐次减半、学习曲线外推及经验缩放律。实验对照包括均匀分配、原始 SH、深集成不同函数族和穷举全量训练（PDF 第 4、5 页）。	scored
+3980	schroder26a	4	4	4	4	80		技术选择：WildCat 用随机枢轴 Cholesky 在指数核中选择关键键，优化重构权重以聚合值，再对小加权集合求注意力。自回归用途在 prefill 压缩 KV，解码使用加权前向。；对照背景：改进来源为随机枢轴 Nyström、加权注意力和谱近似。实验对照包括精确注意力、Performer、Thinformer、KDEformer 和多种 KV 压缩（PDF 第 4、5 页）。	scored
+3981	schulz26a	4	3	4	4	74		技术选择：把概率 CFG 唯一分解成子语法层级，将自回归 KL 按顶部子语法出现的上下文递归拆分。用不同规模的小 Transformer 比较联合学习与子语法预训练。；对照背景：改进来源为 PCFG 的生成结构与自回归损失链式分解。理论对照包括上下文不敏感条件，实验对照为同预算从头训练和不同预训练长度（PDF 第 3、4 页）。	scored
+3982	schulze-buschoff26a	4	3	4	4	74		技术选择：积木物理交互中分别评 GRPO 与 SFT 的任务外迁移和物理状态表征，不能把单任务回报当物理常识；跨任务、照片及探针对照提供具体能力边界（PDF 第 3、5 页）。	scored
+3983	schur26a	4	3	4	4	74		新增是多环境少重复非配对 IV 的跨折协方差 GMM 和稀疏重拟合；目标为线性因果效应一致估计，没有神经训练、表征或具身控制接口（PDF 第 3、6 页）。	scored
+3984	schuster26a	4	4	4	4	80		技术选择：FiGuRO 在编码瓶颈用截断 SVD 的低秩权重，按重建保真预算定期增减共享和各模态秩；用跨模态共享及私有潜量重建各输入。；对照背景：改进来源：自编码秩正则化和多视图低秩分解（PDF 第 3、4 页）。	scored
+3985	schwerdtner26a	4	4	4	4	80		技术选择：双参数流用条件流匹配学习基础噪声到各时刻边际的采样时间输运，沿多个物理时刻复用同一噪声得到合成轨迹，再回归物理时间差分速度。；对照背景：改进来源：依赖时刻间最优运输配对或梯度速度约束的群体动力学（PDF 第 4、5 页）。	scored
+3986	schwinn26a	4	4	4	4	80		技术选择：对抗稳健性排序应人工校准裁判的假阳性，不可把单一 LLM 判定当可靠地面真值；6,642人工核验及分层ROC显示误差可改变攻击排序，是具体评估失败结论（PDF 第 3、4 页）。	scored
+3987	scurria26a	4	4	4	4	80		技术选择：AsymEP 在受扰阶段加入与平衡处 Jacobian 反对称部分相关的校正；Dyadic EP 在双份状态的能量上构造鞍点动力学，以受扰平衡差求更新。；对照背景：改进来源：保守平衡传播和传统向量场 EP 扩展（PDF 第 3、4 页）。	scored
+3988	seddiqi26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：从浅层准确深度建深度转移先验，以教师分类和回归作 HMM 发射，并用命中已知状态的硬锚点做前后向推断，得到序列一致的深度标签。；对照背景：改进来源：DeepCubeA 和 CayleyPy 风格的成本到目标估计（PDF 第 3、4 页）。	scored
+3989	seely26a	4	4	4	4	80		技术选择：Sheaf-ADMM 由共享编码器生成各局部凸子问题，以胞腔层的限制映射指定邻居必须一致的潜变量，再展开 ADMM 训练编码器、映射与解码器。；对照背景：改进来源：分布式 ADMM、层约束与消息传递图网络（PDF 第 4、5 页）。	scored
+3990	segal26a	4	4	4	4	80		技术选择：SCP-Δr 针对两个分区模型的相对概率，只保留影响较大的 token 偏差，其他 token 用共享基础模型平滑，再以近无访问性的规则融合。；对照背景：改进来源：近无访问性 NAF 与 CP-Δ、CP-Δr 聚合（PDF 第 4、5 页）。	scored
+3991	sehgal26a	1	2	3	1	34		主要挖掘仓库性能问题、专家补丁和社区负载，按正确性门控多目标运行分数；未提出独立代码优化机制，跨模块多指标覆盖本身不足以成为可复用新增（PDF 第 3、4 页）。	scored
+3992	sehwag26a	4	3	4	3	71		技术选择：不能依 LLM 自报信心/可预测性跳过实验验证；SciPredict 中准确率不随模型信心改善而专家可预测性有明显分层，给出预实验选择的可靠性失败边界（PDF 第 4、5 页）。	scored
+3993	sekikawa26a	4	4	4	4	80		技术选择：SoLA 将查询与键同单位方向的四维增广向量做外积，使内积同时编码内容和大圆距离；无 softmax 的线性版本按邻域聚合键值。；对照背景：改进来源：带局部位置嵌入的球面 Transformer（PDF 第 4、5 页）。	scored
+3994	sel26a	4	3	4	4	74		技术选择：Trojan-Speak 在实验中用对抗微调让模型理解对文本分类器不透明的表示，并用中间激活探针测试能否检测模型已解出的有害含义。；对照背景：改进来源：对抗微调、外部 Constitutional Classifiers 与激活监测（PDF 第 3、4 页）。	scored
+3995	selikhanovych26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：RSD 让学生生成高分辨率样本，训练辅助 ResShift 学习这些样本。优化辅助模型与固定教师的差异，利用等价损失避免反传整个内层训练，并辅以监督项。；对照背景：改进来源：ResShift 残差移位、SinSR 与 VSD（PDF 第 4、5 页）。	scored
+3996	selim26a	4	4	4	4	80		技术选择：定义噪声潜在 Q 为条件去噪动作 Q 的期望，用 Monte Carlo 和噪声分数估计 NSPG，做带 KL 的策略改进。critic 仅在干净动作空间悲观回归。；对照背景：改进来源：DAC、扩散分数匹配及行为约束离线策略迭代（PDF 第 3、4 页）。	scored
+3997	selvam26a	4	3	4	4	74		技术选择：矩阵分解式共识聚合要测试反向投票是否反而增分及潜向量协同操纵，不能只设多数/桥接阈值；有反直觉单调性失败与生产数据验证，但未转成深度训练方法（PDF 第 2、4 页）。	scored
+3998	sen26a	3	3	4	3	64		技术选择：时序描述可先选图形 VLM 接口而非默认专用时序语言模型或序列化数字；跨五数据集、三输入形式的比较支持该局部边界，增量主要在输入选择诊断（PDF 第 3、4 页）。	scored
+3999	seo26a	1	2	3	1	34		WVS 检索、本体三元组、多角色推理和证据裁决组成文化应用流程；相对既有 RAG/多代理没有明确独立新目标或接口，不能仅从应用效果推导通用机制（PDF 第 2、4 页）。	scored
+4000	seo26b	4	4	4	4	80		技术选择：DEGAP 拟合逐层 logits 熵的分段折点，逐 token 选择开始扰动视觉注意的位置。重用原分支前层激活，只在后层重算对比 logits。；对照背景：改进来源：输入遮掩式视觉对比解码（PDF 第 4、5 页）。	scored
+4001	seo26c	4	4	4	4	80		技术选择：Un-EM-BSDE 对同一时间状态独立采样两组 Euler 残差，先各自求均值再相乘。利用期望分解控制偏差，并分析内采样量对方差的影响。；对照背景：改进来源：EM-BSDE 和样本拆分（PDF 第 4、5 页）。	scored
+4002	seo26d	4	3	4	4	74		技术选择：FANS 用基准 DAG 训练因果归一化流，比较父节点干预后的反事实分布。对检出的节点看逆变换残差与父节点的独立性，并在特定结构下区分同时漂移。；对照背景：改进来源：因果归一化流及机制不变性检测（PDF 第 4、5 页）。	scored
+4003	seong26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：MCFlow 对离散原子类型使用连续时间马尔可夫链，对分数坐标和晶格使用流 ODE，设两套时间。DiT 输入按电负性和 Wyckoff 位置排序，以等价轨道层次置换增强。；对照背景：改进来源：晶体扩散/流生成和对称排序（PDF 第 3、5 页）。	scored
+4004	seong-eun26a	2	3	4	2	54		技术选择：LoRA 超参 BO 用语言描述嵌入加可学 token、投影与 GP；主要是既有语言代理 BO 在新搜索任务的组合，独立新增及替代必要性有限（PDF 第 3、4 页）。	scored
+4005	serov26a	4	4	4	4	80		技术选择：用核回归或 GP 后验均值替代精确插值。MV-CDE 通过不同查询和带宽生成多视图，MVC-CDE 用一维卷积增强注意上下文。；对照背景：改进来源：线性/三次插值 Neural CDE、核平滑及注意查询（PDF 第 4、5 页）。	scored
+4006	serra-gomez26a	4	4	4	4	80		技术选择：PO-MPC 用逆 KL 正则训练采样策略及其规则化 Q 值，以 MPPI 的中间学习先验降低陈旧回放目标方差，并比较先验的正反向 KL。；对照背景：改进来源：TD-MPC2 值导向更新与 BMPC 规划克隆（PDF 第 4、5 页）。	scored
+4007	serrano26a	4	4	4	4	80		技术选择：在 DISCO 的多动力学算子字典上做神经算子分裂，测试时均匀或束搜索候选组合并估参数，不修改训练权重。；对照背景：对照 MPP、FNO、Zebra、GEPS、原 DISCO 及均匀搜索（PDF 第 4、5 页）。	scored
+4008	serrano26b	4	3	4	4	74		技术选择：需要极低概率执行动作时由外部随机量控制而非信任提示中的目标率；直接/推导概率与多种任务对照给出模型内概率校准的具体下限（PDF 第 4、5 页）。	scored
+4009	sesmat26a	4	4	4	4	80		技术选择：推导训练-测试误差钟形差及等方高斯条件的峰值预测，实验按编码器、架构、调度与数据验证并评估成员检测。；对照背景：对照随机/其他时间点重建与迁移至流匹配的既有成员推断方法，改变噪声和模型（PDF 第 4、5 页）。	scored
+4010	sethi26a	4	3	4	4	74		技术选择：检验 MDP 线性转移等结构时不能把相关轨迹当独立样本，可用马尔可夫似然序贯检验；实例相关下界和渐近最优停时给出采样停止边界，原文明确覆盖 MDP 检验（PDF 第 4、6 页）。	scored
+4011	setlur26a	4	4	4	4	80		技术选择：PrefixRL 从成功轨迹抽前缀，用当前策略续写，证明目标一致性和样本效率，并检查无前缀迁移。；对照背景：比较标准 RL、离策略 SFT 再 RL、重要性加权 RL、LUFFY 等；成功训练轨迹可由自身拒绝采样获取（PDF 第 4、5 页）。	scored
+4012	seto26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：拟合双阶段扩展律，在 D+K×D′ 固定的条件优化分配，分簇语料后按语义路由到专业模型。；对照背景：比较全程通训、不同拆分点、不同域数及全路由/子集路由；跨参数和词元预算验证（PDF 第 4、5 页）。	scored
+4013	sfyraki26a	4	4	4	4	80		技术选择：证明带权重衰减的 Lion 和 Muon 是随机构造的 Frank–Wolfe 特例，FW 间隙对应规范约束的 KKT；给两个重尾稳健变体。；对照背景：对照普通 Lion、Muon，实验一维向量参数统一由 AdamW 更新；理论对照 bounded-variance FW（PDF 第 4、6 页）。	scored
+4014	shabalin26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：Smoothie 将嵌入的语义邻近性放入逐级平滑扩散空间，并与原嵌入和类别 simplex 对照。；对照背景：比较 DiffuSeq、SeqDiffuSeq、MDLM、TEncDM、原嵌入、Simplex，并附 GPT-2/FLAN-T5（PDF 第 4、5 页）。	scored
+4015	shaer26a	4	4	4	4	80		技术选择：构造条件共形检验鞅，校正估计分布误差，给随时一类错误界、渐近功效和检测步数。；对照背景：比较标准增长参考 CTM 与 pairwise betting，测试延迟或缓变偏移（PDF 第 4、6 页）。	scored
+4016	shaffer26a	4	4	4	4	80		技术选择：Geo-NeWF 同时学缩减 Whitney 形式空间和本构算子，以有限元外微积分守恒，并约束本构参数保证可解。；对照背景：比较 GNOT、Transolver、Linear Attention、Inducing Point 等神经算子及标准方法（PDF 第 4、5 页）。	scored
+4017	shaffiey26a	2	3	4	2	54		技术选择：多组学按三层耦合潜 ODE 表达时间尺度并加稳定性分析；新增主要是成熟分层动力学/信息目标的组学组合，独立可迁移增量薄（PDF 第 4、5 页）。	scored
+4018	shafran26a	4	4	4	4	80		技术选择：为 Llama-3.1-8B 和 Gemma-2-2B 拟合 Mixture of Factor Analyzers，用后验定位区域、用因子代表区域内变化并操控。；对照背景：比较无监督 PCA、SAE，以及监督 DBM、DAS 等（PDF 第 4、6 页）。	scored
+4019	shah26a	4	3	4	4	74		技术选择：低维流形数据做 k-means 播种可用 2/d 量化指数调拒绝采样，替代全量距离；有近似与运行界，但面向几何聚类而非神经训练或控制（PDF 第 4、5 页）。	scored
+4020	shah26b	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：dnaHNet 联合训练动态分段、可学习潜词元及递归自回归骨干，在速度和预测之间调压缩率。；对照背景：比较 Transformer 和 StripedHyena2 等，考查层次与压缩配置（PDF 第 4、6 页）。	scored
+4021	shah26c	4	3	4	4	74		技术选择：特定核矩阵乘积/谱范数/元素和可调用密度估计实现子二次计算；复杂度和条件性下界清楚，但尚未给可替换深度注意/表征的具体算子接口（PDF 第 3、4 页）。	scored
+4022	shah26d	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：MoLoRA 按词表结构或学到的软门控做 token 路由，适配器独立加载，并用热点驻留和 CUDA 图实现服务。；对照背景：比较 S-LoRA 式序列路由/分页、热点驻留及架构步骤；任务对照原 Qwen 和不同适配组合（PDF 第 4、5 页）。	scored
+4023	shahariar26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：将 CoT 抽象为有限状态机，从内部状态探针和转移图得到 Q 值，在句级做无需再训练的选择性引导。；对照背景：比较无引导、Greedy、Weighted、Q-Value，另试跨模型迁移（PDF 第 4、5 页）。	scored
+4024	shaheen26a	2	3	4	2	54		技术选择：跨层 SAE 轨迹加 Markov 或轻量分类器做域判别；方法沿用字典和序列统计组合，独立新增偏薄（PDF 第 4、5 页）。	scored
+4025	shahroz26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：TMS 从历史检查点混合构造动态监督，无需外部奖励或验证器，监测策略–标签差 PLD 及遗忘。；对照背景：比较 SFT、Self-SFT、迭代监督、REINFORCE、GRPO 与基础模型（PDF 第 3、4 页）。	scored
+4026	shahverdi26a	4	4	4	4	80		技术选择：给出架构无关形式，在可辨识假设下构造函数保持的重参数化，使每层对相应隐层群作用等变。；对照背景：与内建群等变架构和已有网络参数辨识性结果比较；实证比较 tanh/GELU 和任务（PDF 第 4、5 页）。	scored
+4027	shai26a	4	4	4	4	80		技术选择：对已知潜在过程推导联合、因子表达的维数和几何，以受控 Transformer 下一词训练检验。；对照背景：比较条件独立/相关的生成过程、联合与因子后验编码及不同训练步（PDF 第 4、5 页）。	scored
+4028	shaj26a	4	4	4	4	80		技术选择：KLA 用信息形式完成结合扫描，引入 OU 回归先验以稳定深堆叠，并通过过程噪声实现非线性精度门。；对照背景：比较 GPT、Mamba、GDN、GLA 及末层混合，消融 OU 和过程噪声（PDF 第 4、6 页）。	scored
+4029	shakeri26a	3	3	4	3	64		技术选择：网络传播控制按影响层分组保留枢纽信息，输出规模不变的观察，再用分布式价值处理双峰回报；独立观察器设计和 Jensen/聚合失效分析应计入，非仅 GPU+TQC 移植（PDF 第 4、5 页）。	scored
+4030	shalyt26a	2	3	4	2	54		技术选择：符号数学要测等价保持扰动并比较 CAS/LLM 互补，不能把原题得分作泛化；变换和工具管线均成熟，新增主要是特定题集的范围扩展与诊断（PDF 第 4、5 页）。	scored
+4031	shamba26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：Di-COT 随机将时间窗切为少量重叠子块，一次批量编码。以上一块为正例，将同一序列的相似度矩阵转成前驱位置分类。；对照背景：改进来源：时间对比学习与多粒度表征（PDF 第 3、4 页）。	scored
+4032	shan26a	4	4	4	4	80		技术选择：LUGS 用冻结模型的末层表征、掩码和时间输入小 Transformer，乘性调节候选位置排序，分支搜索后按序列分数剪枝。用宽束搜索轨迹离线蒸馏。；对照背景：改进来源：LLaDA 的局部置信度解掩和束搜索（PDF 第 4、5 页）。	scored
+4033	shan26b	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：SPGCL 以 Dirichlet 能量分流传播，保留高能分量，利用低能分量余弦相似做概率正样本采样，采用标准 InfoNCE。；对照背景：改进来源：GNN 消息传递与图对比正样本选择（PDF 第 4、5 页）。	scored
+4034	shan26c	4	4	4	4	80		技术选择：LieWarper 从光流解析估计 Sim(2) 李代数参数，以指数映射推进全局变换，再用光流引导的局部残差调制视频扩散的 RoPE 相位。；对照背景：改进来源：RoPE 运动控制、光流引导和 Lie 群运动建模（PDF 第 4、5 页）。	scored
+4035	shan26d	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：T-Edit 分离反演、原提示重建和改写提示三分支，利用重建误差校正潜变量。以注意 value 的 SVD 衡量结构能量并动态选择 K/V 注入层。；对照背景：改进来源：DiT 反演编辑、关键层控制（PDF 第 3、4 页）。	scored
+4036	shang26a	2	3	4	2	54		技术选择：空间组学将基因图和位点图重建以逐元素门控融合；图注意自编码与预训练嵌入移植组合为主，独立通用机制有限（PDF 第 3、4 页）。	scored
+4037	shang26b	2	3	4	2	54		技术选择：时序提示按主频多尺度构造，再用路由跨模态检索；频谱提示、路由和检索组件组合占主，尚未说明比近邻多尺度 RAG 多出的必要性（PDF 第 3、4 页）。	scored
+4038	shang26c	4	4	4	4	80		技术选择：训练和推理均分段，共享固定体积可微 KV 尾缓存，额外长程检索只在指定层和注意头前向读取。截断反传只跨最近 K 段。；对照背景：改进来源：长上下文稀疏注意力与截断反传（PDF 第 3、4 页）。	scored
+4039	shang26d	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：GoldDiff 按低分辨率距离粗筛，再对候选精排。噪声变小时扩大候选安全范围但收紧最终支持，用稳定流式归一化聚合保留样本。；对照背景：改进来源：经验 Bayes 解析去噪、Wiener/patch/PCA 方法（PDF 第 3、4 页）。	scored
+4040	shang26e	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：COGNOS 在活动片段加 MSE、频谱平坦和小波细节 MMD 约束，离线校准 Kalman 平滑参数，按创新平方的 χ² 检验膨胀过程噪声。；对照背景：改进来源：MSE 时序重建、频谱白化与 Kalman 滤波（PDF 第 3、4 页）。	scored
+4041	shang26f	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：动态图像编码器分离自车与环境并向量量化，用自车动作监督及跨视图一致性正则。先 SFT 自回归预测动力学和动作，再用 PDMS 和格式奖励做 GRPO。；对照背景：改进来源：驾驶 VLA、视觉或文本思维链与 FAST 动作编码（PDF 第 3、4 页）。	scored
+4042	shao26a	4	4	4	4	80		技术选择：RLER 对每个提示用搜索结果初始化持久评分条款，用多条在策略回答及其来源补充正负规则。按评分方差更新活跃池，另奖励格式、搜索和引文，采用异步工具调用 GRPO。；对照背景：改进来源：静态 rubric、可验证奖励 RL 和工具使用训练（PDF 第 3、4 页）。	scored
+4043	shao26b	2	3	4	2	54		技术选择：时序凝缩同时对齐轨迹、功率谱和变量依赖；多视图损失拼合及任务适配占主，单批覆盖多任务不是独立新增机制（PDF 第 3、4 页）。	scored
+4044	shao26c	4	3	4	4	74		技术选择：SERMiSC 先以设计探索与基于安全成本的策略混合收集可辨识数据，再以安全感知的奖励策略补齐后续回合。用两环境 KL 和可用的臂拉取次数建立效益前沿下界。；对照背景：改进来源为安全线性老虎机、统计可辨识性和两阶段探索。理论对照为固定遗憾及安全预算下的 minimax 下界。实验对照为 OFUL 和 PO（PDF 第 4、5 页）。	scored
+4045	shao26d	4	4	4	4	80		技术选择：RLVR 随机/格式奖励的收益需排查概率比剪裁产生的非零偏向和底座先验；关闭剪裁、错误奖励及未执行 Python 推理控制提供新增因果诊断，而非仅发现错误奖励也涨分（PDF 第 4、5 页）。	scored
+4046	shao26e	4	4	4	4	80		技术选择：MonoScale 为新代理生成预热任务，把实际成功和失败蒸馏成文字路由记忆。冻结路由语言模型，以只调用旧代理的保守策略为信赖域更新的回退选项。；对照背景：改进来源为多智能体扩容、上下文老虎机和自然语言记忆更新。实验对照包括同底座不更新记忆、三代理强路由器和故障代理扩容（PDF 第 4、5 页）。	scored
+4047	shao26f	1	2	3	1	34		主要将参考蓝图、技能库、PowerPoint 脚本和视觉诊断组成绘图代理；可编辑文件是应用产物，没有独立新增的训练、推理或控制机制（PDF 第 4、5 页）。	scored
+4048	shao26g	4	4	4	4	80		技术选择：BRQ 以量化块为单位作独立正交旋转，将离群能量限制在块内；可用随机块旋转或在块内继续优化旋转。；对照背景：改进来源：QuaRot、SpinQuant 的全局旋转与 GPTQ 等 PTQ（PDF 第 3、5 页）。	scored
+4049	shao26h	1	2	3	1	34		主要按引文网扩展文献检索至节点/论文对/路径任务并比较代理；未给新的关系检索机制，低准确率与覆盖扩展不能单独形成具体技术选择（PDF 第 3、4 页）。	scored
+4050	shao26i	4	4	4	4	80		技术选择：NSI 将观察映射为谓词并做变量绑定，归纳包含检查、分支、循环和动作节点的程序；从轨迹内与跨轨迹一致性合并技能，并用在线失败恢复扩展分支。；对照背景：改进来源：提示轨迹记忆、参数化脚本和自动工作流（PDF 第 4、5 页）。	scored
+4051	shao26j	3	3	4	3	64		技术选择：解码决策分析先按跨任务共同 PCA 子空间消融，再做回注和随机控制；有因果干预，但共享方差提取/投影本身成熟，新增主要是该模型范围的现象（PDF 第 3、4 页）。	scored
+4052	shao26k	4	4	4	4	80		技术选择：ISA 先池化筛除部分低显著性上下文键，再按查询块尖锐度及重要性将高误差部分送到完全注意力，其余用块零阶 Taylor 近似；LIVEditor-14B 用混合数据与优质子集训练。；对照背景：改进来源：上下文视频编辑和块稀疏注意力（PDF 第 4、5 页）。	scored
+4053	shaoran26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：CONGA 用参数和梯度范数比的对数阻尼定学习率上限，以高置信样本比例平方代理信号质量定下限，在区间内按周期余弦调度。；对照背景：改进来源：固定学习率及 LARS 式信赖比、周期衰减（PDF 第 3、4 页）。	scored
+4054	shapira26a	4	4	4	4	80		技术选择：在理想 KL 正则策略下以基策略的认同信号和指数奖励的协方差表达行为漂移；分析成对标注如何影响奖励，并用 KL 投影得到按题或平均的认同惩罚。；对照背景：改进来源：Bradley–Terry 奖励学习、KL 正则 RLHF 与抗迎合奖励修正（PDF 第 3、4 页）。	scored
+4055	sharief26a	4	4	4	4	80		技术选择：MIRA 由候选样本和随机中心构造球区，用候选落入数和真值是否落入推导参考概率；跨区域和观测平均，得到可比较的条件精度分数。；对照背景：改进来源：PQMass 的随机区域质量比较与条件覆盖检验（PDF 第 3、4 页）。	scored
+4056	sharifnassab26a	4	4	4	4	80		技术选择：先规定 TD 误差应缩减的比例或策略局部 KL 的目标变化，用一阶近似反解当前步长；结合资格迹与对角缩放实现 Intentional TD、Q 学习和策略梯度。；对照背景：改进来源：NLMS、StreamX 及信赖域策略更新（PDF 第 2、3 页）。	scored
+4057	sharma26a	1	2	3	1	34		Clio 聚类与人评用于真实用户自主性风险分布调查；结果说明社会使用风险和用户批准关系，没有可独立操作的模型训练、推理或具身控制新增（PDF 第 2、3 页）。	scored
+4058	sharma26b	4	3	4	3	71		技术选择：rubric 裁判须检查否定、删除、无关添加及定向扣分项，不能把原准则评分当稳健排序；强度曲线和同答案复评定位准则扰动失败，限定于所测评分器（PDF 第 4、5 页）。	scored
+4059	sharma26c	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：TRACE 用更强代理评判分流偏好对，再以双层影响分数挑高杠杆样本，分别施加 IPO 排序和 NPO 抑制目标。；对照背景：对照 U2A、DPO-Gold 与 TRACE 各组件，并测通用能力保持（PDF 第 4、5 页）。	scored
+4060	she26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：LipDA 对比真假视频的唇、头特征，检测采用视觉或音视频变体，归因使用时间动态和同步指纹。；对照背景：比较 FTCN、LipForensics、RealForensics、LipFD、SpeechForensics、DFD-FCG 等（PDF 第 4、5 页）。	scored
+4061	she26b	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：Spik4lite 估计通道活跃配置并做结构化压缩，由补偿降低精度损失，接到多个现有 SNN。；对照背景：比较 Spikformer、Spikingformer、Spike-Driven Transformer 原/带插件及统一稀疏度消融（PDF 第 4、5 页）。	scored
+4062	shehmar26a	4	4	4	4	80		技术选择：ALPS 用拉普拉斯表示和分层子目标搜索，把离线学到的潜动力学用于决策时刻规划。；对照背景：比较 PcLast、GCBC、GCIVL、GCIQL、QRL、CRL、HIQL，以及内部组件变体（PDF 第 4、5 页）。	scored
+4063	sheikh26a	1	2	3	1	34		主要构造气候多模态 QA、专家验证并对文本域常规微调；贡献是数据与评测覆盖，未给独立通用的对齐、训练或推理机制（PDF 第 4、5 页）。	scored
+4064	shen26a	4	3	4	4	74		技术选择：DF-LoGiT 通过直接权重修改展示 ViT 组合后门的可行性，按激活与未激活条件审计。；对照背景：比较原检查点、已修改检查点和所测经典或 ViT 专用防御，包含 DeiT-Tiny/Small、ViT-B（PDF 第 3、6 页）。	scored
+4065	shen26b	4	4	4	4	80		技术选择：CREDIT 定义以互信息衡量的模型相似度、可实施判定阈值和条件保证，并在多个任务验证。；对照背景：图像对照 EWE、Backdooring、IPGuard、UAP，图任务比较多种 watermark；抽取按蒸馏和其他查询协议（PDF 第 4、5 页）。	scored
+4066	shen26c	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：以反演启发的 RL 训练模型描述植入触发，再构造遗忘和运行时检测；考查无触发时效用。；对照背景：遗忘比较 BEEAR、R-SFT/GCG 加对抗训练等；检测比较 ONION、BEAT、CoS（PDF 第 4、5 页）。	scored
+4067	shen26d	1	2	3	1	34		主要构造跨学科识别、整合和推荐任务并比较模型/提示；没有独立研究代理机制或能确定改变技术选择的新增规律（PDF 第 4、5 页）。	scored
+4068	shen26e	4	4	4	4	80		技术选择：导航先在物理沙盒学抽象经验，策略优化用非对称自适应裁剪，再检索桥接真实低层动作；存在可独立使用的策略损失与抽象经验接口，不能因系统组合而忽略（PDF 第 4、5 页）。	scored
+4069	shen26f	4	4	4	4	80		技术选择：FRONT 提取低频权重并变换到目标形状；直接初始化无训练，FRONT+ 可用频谱正则做教师细化。；对照背景：比较 He-Init、Mimetic、Share Init、Auto-LG、TLEG、WAVE 及直接预训练（PDF 第 4、5 页）。	scored
+4070	shen26g	4	4	4	4	80		技术选择：RDM 将训练目标写成 Rényi 散度及变分形式，不改常用网络和采样器即可调损失。；对照背景：对照 Flow Matching、ScoreFlow、VDM、Soft Truncation、Reflected DM、MULAN、W-PCDM 等（PDF 第 4、5 页）。	scored
+4071	shen26h	1	2	3	1	34		主要把电力 OPF 的参数/结构要求合成为数据，并按参考优化结果执行评测；新增限于专业建模任务和验证集，未给独立模型或搜索机制（PDF 第 4、5 页）。	scored
+4072	shen26i	4	4	4	4	80		技术选择：T3S 比较初始与早期准确率谷底模型的目标词元对数置信度。自回归训练屏蔽置信度已上升的锚点，扩散训练优先遮挡待学位置。；对照背景：改进来源：自回归与扩散推理轨迹蒸馏（PDF 第 3、5 页）。	scored
+4073	shen26j	4	4	4	4	80		技术选择：长程用户交互策略按全局指令归一化及逐轮奖励差更新，再逐轮归一；GTPO 是可替换目标增量，不能只因论文含基准而忽略（PDF 第 3、4 页）。	scored
+4074	shen26k	4	4	4	4	80		技术选择：SSA 以等概率交替两种训练流，通过双向特征对齐和停止梯度目标收紧全与稀疏注意输出差。推导误差随丢弃注意质量线性变化。；对照背景：改进来源：稀疏注意训练与完整注意（PDF 第 4、5 页）。	scored
+4075	shen26l	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：TEFormer 的注意 V 支路用可学习衰减构造并行 EMA 矩阵，T-MLP 从窗口末端做单门逆向脉冲融合；不同编码方案共享双向设计。；对照背景：改进来源：脉冲 QK 注意、前向时序增强（PDF 第 4、5 页）。	scored
+4076	shen26m	4	4	4	4	80		技术选择：离线 RL 约束数据一致 critic 的最坏评估差距，并把价值策略梯度对加权 BC 正交化；样本内非对称目标与 OPG 可拆用，区别于普通悲观 Q 加 BC（PDF 第 4、5 页）。	scored
+4077	shen26n	4	3	4	4	74		技术选择：推理受损模型只在下一词分布分歧尖峰换少数决策词元，而非替换整条 CoT；全局阈值和实际替换率对照给出介入位置的重要性边界（PDF 第 4、5 页）。	scored
+4078	shen26o	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：SVG 第一轮从仓库函数生成修改，再将轨迹转换为合成请求。第二轮按请求复现，使用行级召回分配验证等级，收集数据微调仓库代理。；对照背景：改进来源：合成软件修复任务与测试验证（PDF 第 3、4 页）。	scored
+4079	shen26p	3	3	4	3	64		技术选择：安全压力测试保留模型自然错误推理并在触发输入翻转 GRPO 奖励，检验流畅度与正确性脱钩；有具体训练目标但触发后门和 SFT/RL 思想既有，独立新增有限（PDF 第 4、5 页）。	scored
+4080	shen26q	4	4	4	4	80		技术选择：对齐次高阶多项式网络，从 KKT 插值恢复矩张量并做白化分解。通用样本拆分在梯度下降间沿负曲率调整合并的重构样本。；对照背景：改进来源：KKT/NTK 权重反演和曲率细化（PDF 第 3、4 页）。	scored
+4081	shen26r	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：CORE 从注释图文及背景检索构建冲突归因语料 CAC，先用困难负例桥接模态，后用对比和语言损失分离冲突因素并生成理由。；对照背景：改进来源：图文关系验证、SigLIP 和多模态指令微调（PDF 第 4、5 页）。	scored
+4082	shen26s	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：Heima 用专用 thinking token 逐步替换各阶段文本 CoT，再以原文本恢复辅助训练。为每阶段训练只读问题与隐向量的解释器，并分析条件互信息差距。；对照背景：改进来源：LLaVA-CoT、隐空间推理及 CoT 蒸馏（PDF 第 3、4 页）。	scored
+4083	shen26t	4	3	4	4	74		新增是从非混合 Glauber 轨迹的短窗局部更新恢复稀疏高斯图，用条件方差缩放与稳健中位数隔离边；原文未给神经网络/具身系统的具体选择接口（PDF 第 2、3 页）。	scored
+4084	shen26u	3	3	4	3	64		技术选择：多任务 RL 中按分类恒等映射与定位指数映射分开变换奖励，再依据近期表现调系数；映射是可独立替换的简单设计，应计入，整体伪造检测数据流程仍占较多（PDF 第 4、5 页）。	scored
+4085	shen26v	4	4	4	4	80		技术选择：MAHALO 为各目标共享语言主干、独立训练线性词元头，用向量偏好做 MAH-DPO。为可滚动、难滚动和无明确过程的任务构建不同过程标签，并用加权头及 PRM 搜索解码。；对照背景：改进来源为 DPO、多目标偏好、过程奖励模型。实验对照包括 SFT、单头 DPO、MODPO、DPO Soup、普通解码与单目标引导（PDF 第 4、5 页）。	scored
+4086	shen26w	4	4	4	4	80		技术选择：LaTtE-Flow 在预训练 VLM 上建立图像流匹配路径，把时间区间各自交给特定 Transformer 层组。缓存多模态条件，每个采样步仅运行相应层组，并用时间门控残差注意补充跨层信息。；对照背景：改进来源为统一 VLM 和流匹配图像生成。实验对照包括用全层的 Vanilla、Janus Pro、Show-o、扩散模型及去残差注意版本（PDF 第 4、5 页）。	scored
+4087	shen26x	4	3	4	4	74		技术选择：LLM 服务先选量化/并行配置再按资源影子价格接纳请求，以可切换混合配置的流体 oracle 作基准；SP-UCB–OLP 明确改变配置与接纳耦合方式，非泛化经济模型（PDF 第 2、5 页）。	scored
+4088	shen26y	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：SpecFlow 将视觉潜变量按块投影到离散余弦域，保留定长工作区，由流匹配分阶段激活低到高频。用查询及文本轨迹经无分类器引导更新当前视觉状态，覆盖旧视觉状态。；对照背景：改进来源为多模态思维链、潜变量流匹配和频谱压缩。实验对照包括 VoCoT、CODI、SparseVLM 以及不同频带调度和学习瓶颈（PDF 第 4、5 页）。	scored
+4089	shen26z	4	4	4	4	80		技术选择：SPEED 仅在教师预测正确的位置用锐化教师、平滑学生的 KL 蒸馏和掩码语言损失。推理比较揭示前块前后的词元分布 JSD，对低敏感词元用激进阈值，高敏感的延后。；对照背景：改进来源为扩散置信阈值解码与温度蒸馏。实验对照为逐词元贪心、固定少步、阈值、Consistency Distill 和全词元蒸馏（PDF 第 4、5 页）。	scored
+4090	shen26aa	2	3	4	2	54		技术选择：工具轨迹可按输入输出依赖图执行后反向生成题目，并保留报错修正；依赖图执行/逆向出题是既有合成数据范式，新增主要是科学工具与覆盖扩展（PDF 第 4、5 页）。	scored
+4091	shen26ab	4	4	4	4	80		技术选择：PLMD 从 RGB-D、位姿和已有标签生成局部 BEV。先扩散补全障碍，再用障碍特征调制语义去噪，只替换未知区域标签，给现有目标导航器提出位置候选。；对照背景：改进来源为语义地图导航和扩散补全。实验对照包括 SemExp、MCoCoNav、IEVE，以及 IR-SDE、StrDiffusion 和直接图像替换（PDF 第 3、4 页）。	scored
+4092	shen26ac	1	2	3	1	34		新增主要是代码题时间/空间双指标、分级子任务和专家 Pareto 参考；指标组合及硬件重标定未构成独立代码生成或优化机制（PDF 第 4、5 页）。	scored
+4093	shen26ad	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：按分析、复现、编辑、验证动态划分子任务，用类别、问题描述及抽象经验存档；开始子任务时先按类别过滤再语义检索，完成后从成败中提炼经验。；对照背景：改进来源：实例级轨迹记忆（PDF 第 3、4 页）。	scored
+4094	shen26ae	3	2	3	3	54		训练轨迹中的 fMRI 对齐领先性能仅是受控相关/Granger 证据；原文未验证用它选检查点、训练目标或架构的收益，不能把相关性直接当可执行的具身/DL 技术选择（PDF 第 5–8 页，§3.3–4）。	scored
+4095	shenfeld26a	4	4	4	4	80		技术选择：SDFT 用同模型条件化专家示例作教师，学生无示例自采样；在学生走过的前缀上最小化逐 token 逆 KL，训练时视教师为固定或用学生 EMA。；对照背景：改进来源：SFT、教师蒸馏与在线策略学习（PDF 第 3、4 页）。	scored
+4096	sheng26a	4	4	4	4	80		技术选择：ICALD 以非对称 Laplace 分布参数化分类，并用均匀随机置信锚点约束预测单调和接近目标；DDSO 将判别与校准分流，阻断校准对特征提取的梯度。；对照背景：改进来源：Softmax、ALD 分布式分类和概率个体校准（PDF 第 2、4 页）。	scored
+4097	sheng26b	3	3	4	3	64		技术选择：长上下文记忆以文本更新门与退出门分别控制写入和停止；奖励可替换，但门控记忆及早停思想已有，新增主要是两门联合训练的局部实现（PDF 第 4、5 页）。	scored
+4098	shenoy26a	4	4	4	4	80		技术选择：给同一基座衍生多份已知植入行为的模型，在这些模型上联合训练一份 LoRA 让其口述真实行为，再用 DPO 减少误报。；对照背景：改进来源：模型行为审计与激活干预（PDF 第 2、3 页）。	scored
+4099	shestakov26a	4	4	4	4	80		技术选择：分开分析数据集抽样和在固定数据集上的迭代噪声，以总体最优点梯度尾指数控制经验矩；为梯度裁剪 SGD 推导凸或强凸收敛和泛化率。；对照背景：改进来源：有限和 SGD 与具有重尾噪声的梯度裁剪分析（PDF 第 4、5 页）。	scored
+4100	shevkunov26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：RBE 分别用查询对少量支持文档、文档对支持查询的重排序分向量作输入，学习轻量嵌入以点积候选；支持例用聚类或 ℓ₂ 贪婪选择。；对照背景：改进来源：双编码候选检索、评分矩阵 CUR 近似（PDF 第 3、4 页）。	scored
+4101	shi26a	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：UniSparse 用发放次数乘后续非零突触定义能耗项，通过批归一化仿射参数调有效发放阈值，并用同一惩罚对权重做稀疏化。；对照背景：改进来源：BN 阈值折叠与脉冲或权重剪枝（PDF 第 3、4 页）。	scored
+4102	shi26b	2	3	4	2	54		技术选择：三维 CT 用 CNN 给 ViT 构局部 token，再以疾病查询做报告对比和原型提示；主体是成熟骨干、查询对齐与提示的医学组合，独立跨任务机制增量薄（PDF 第 4、5 页）。	scored
+4103	shi26c	3	3	4	3	64		改动可操作，但较最接近机制的新增或必要性仍薄；技术选择：SAPO 为每任务生成释义池，以当前模型在训练子集上的更新前损失选最低者，用它微调和评估该任务，并随模型状态重选。；对照背景：改进来源：固定提示的连续微调与提示改写（PDF 第 3、5 页）。	scored
+4104	shi26d	4	4	4	4	80		技术选择：耦合训练交替拟合部署模型与富视图模型；富视图供无标签伪响应，再依据部署预测校准自己，同时受真实标签损失约束。；对照背景：改进来源：特权信息蒸馏与两阶段半监督回归（PDF 第 2、5 页）。	scored
 4105	shi26e							待原文复核评分	pending
 4106	shi26f							待原文复核评分	pending
 4107	shi26g							待原文复核评分	pending
@@ -4449,7 +4449,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4448	tian26h							待原文复核评分	pending
 4449	tian26i							待原文复核评分	pending
 4450	tian26j							待原文复核评分	pending
-4451	tian26k							待原文复核评分	pending
+4451	tian26k	4	4	4	4	80		技术选择：ViT 特征蒸馏不把单图低秩诊断误当统一瓶颈；Lift 保留训练/推理共用升维编码，WideLast 只加宽末块，分别修复编码不匹配与保留输入自适应宽表示，区别于只在损失端加投影（PDF 第 4、6 页）。	scored
 4452	tian26l							待原文复核评分	pending
 4453	tian26m							待原文复核评分	pending
 4454	tian26n							待原文复核评分	pending
