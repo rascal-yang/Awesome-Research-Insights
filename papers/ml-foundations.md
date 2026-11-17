@@ -897,7 +897,6 @@
 - <a id="lindon26a-theory-statistics"></a>[Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry](../conferences/icml-2026/cards/2701-2800.md#paper-lindon26a)
 - <a id="liu26f-theory-statistics"></a>[Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad](../conferences/icml-2026/cards/2701-2800.md#paper-liu26f)
 - <a id="liu26y-theory-statistics"></a>[Online Conformal Prediction via Universal Portfolio Algorithms](../conferences/icml-2026/cards/2801-2900.md#paper-liu26y)
-- <a id="liu26bi-theory-statistics"></a>[Accelerating Regression Tasks with Quantum Algorithms](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bi)
 - <a id="liu26bo-theory-statistics"></a>[How does Bayesian Sampling help Membership Inference Attacks?](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bo)
 - <a id="liu26bq-theory-statistics"></a>[SpeedCP: Fast Kernel-based Conditional Conformal Prediction](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bq)
 - <a id="liu26ca-theory-statistics"></a>[Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ca)

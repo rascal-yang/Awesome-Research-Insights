@@ -433,7 +433,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry](../../conferences/icml-2026/cards/2701-2800.md#lindon26a-theory-statistics) · 中文
 - [Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad](../../conferences/icml-2026/cards/2701-2800.md#liu26f-theory-statistics) · 中文
 - [Online Conformal Prediction via Universal Portfolio Algorithms](../../conferences/icml-2026/cards/2801-2900.md#liu26y-theory-statistics) · 中文
-- [Accelerating Regression Tasks with Quantum Algorithms](../../conferences/icml-2026/cards/2801-2900.md#liu26bi-theory-statistics) · 中文
 - [How does Bayesian Sampling help Membership Inference Attacks?](../../conferences/icml-2026/cards/2801-2900.md#liu26bo-theory-statistics) · 中文
 - [SpeedCP: Fast Kernel-based Conditional Conformal Prediction](../../conferences/icml-2026/cards/2801-2900.md#liu26bq-theory-statistics) · 中文
 - [Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions](../../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · 中文

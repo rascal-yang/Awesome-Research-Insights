@@ -433,7 +433,6 @@
 - [用事件时间分臂监控延迟干预](../conferences/icml-2026/cards/2701-2800.md#lindon26a-theory-statistics) · Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry
 - [按尾指数和目标范围区分 AdaGrad 收敛条件](../conferences/icml-2026/cards/2701-2800.md#liu26f-theory-statistics) · Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad
 - [用在线线性化遗憾导出预测区间覆盖](../conferences/icml-2026/cards/2801-2900.md#liu26y-theory-statistics) · Online Conformal Prediction via Universal Portfolio Algorithms
-- [量子杠杆采样压缩广义回归](../conferences/icml-2026/cards/2801-2900.md#liu26bi-theory-statistics) · Accelerating Regression Tasks with Quantum Algorithms
 - [用单个参考模型后验估计隐私风险](../conferences/icml-2026/cards/2801-2900.md#liu26bo-theory-statistics) · How does Bayesian Sampling help Membership Inference Attacks?
 - [沿活动集更新追踪共形阈值](../conferences/icml-2026/cards/2801-2900.md#liu26bq-theory-statistics) · SpeedCP: Fast Kernel-based Conditional Conformal Prediction
 - [从处理的局部边界找因果调整变量](../conferences/icml-2026/cards/2801-2900.md#liu26ca-theory-statistics) · Local Covariate Selection for Average Causal Effect Estimation without Pretreatment and Causal Sufficiency Assumptions
