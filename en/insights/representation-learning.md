@@ -53,6 +53,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Equivariant Latent Alignment via Flow Matching under Group Symmetries](../../conferences/icml-2026/cards/2101-2200.md#kim26p-representation-learning) · 中文
 - [ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin](../../conferences/icml-2026/cards/2101-2200.md#kim26bx-representation-learning) · 中文
 - [Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds](../../conferences/icml-2026/cards/2101-2200.md#kong26b-representation-learning) · 中文
+- [Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers](../../conferences/icml-2026/cards/2301-2400.md#lee26l-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -85,6 +86,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](../../conferences/icml-2026/cards/1401-1500.md#habashy26a-representation-learning) · 中文
 - [Motion Dynamics Learning for Few-Shot Embodied Adaptation](../../conferences/icml-2026/cards/1501-1600.md#he26ao-representation-learning) · 中文
 - [Cross-Embodiment Robot Foundation World Models with Latent Actions](../../conferences/icml-2026/cards/1701-1800.md#huang26bv-representation-learning) · 中文
+- [MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](../../conferences/icml-2026/cards/2301-2400.md#lee26am-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -158,6 +160,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1601-1700.md#hu26ag-representation-learning) · 中文
 - [Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection](../../conferences/icml-2026/cards/1701-1800.md#huang26bs-representation-learning) · 中文
 - [Efficient Synthetic Network Generation via Latent Embedding Reconstruction](../../conferences/icml-2026/cards/1901-2000.md#jiang26b-representation-learning) · 中文
+- [Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion](../../conferences/icml-2026/cards/2301-2400.md#lee26ad-representation-learning) · 中文
+- [View Space: Learning Representation across Arbitrary Graphs](../../conferences/icml-2026/cards/2301-2400.md#lee26ah-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 

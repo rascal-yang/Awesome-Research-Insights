@@ -36,6 +36,7 @@
 - [用共同激活记录抑制 MoE 专家组合冗余](../conferences/icml-2026/cards/2001-2100.md#kang26q-modules) · Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE
 - [用可相加的推理 logits 复用轻量模块](../conferences/icml-2026/cards/2001-2100.md#kim26f-modules) · Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs
 - [把注意力权重当高阶张量做 Tucker 分解](../conferences/icml-2026/cards/2101-2200.md#klein26a-modules) · Tucker Attention: A generalization of approximate attention mechanisms
+- [用结构探针定位表格超图的注入层](../conferences/icml-2026/cards/2301-2400.md#lee26p-modules) · HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding
 
 <a id="by-computer-vision"></a>
 

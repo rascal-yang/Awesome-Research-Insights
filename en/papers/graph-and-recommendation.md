@@ -48,6 +48,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="deng26u-loss-functions"></a>[Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26u)
 - <a id="ding26v-loss-functions"></a>[Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26v)
 - <a id="downer26a-loss-functions"></a>[Watermarking Graph Neural Networks via Explanations for Ownership Protection](../../conferences/icml-2026/cards/0901-1000.md#paper-downer26a)
+- <a id="lee26w-loss-functions"></a>[Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26w)
 
 <a id="by-optimization"></a>
 
@@ -132,6 +133,8 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="hu26ag-representation-learning"></a>[A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ag)
 - <a id="huang26bs-representation-learning"></a>[Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bs)
 - <a id="jiang26b-representation-learning"></a>[Efficient Synthetic Network Generation via Latent Embedding Reconstruction](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26b)
+- <a id="lee26ad-representation-learning"></a>[Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ad)
+- <a id="lee26ah-representation-learning"></a>[View Space: Learning Representation across Arbitrary Graphs](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ah)
 
 <a id="by-evaluation"></a>
 

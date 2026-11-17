@@ -41,6 +41,7 @@
 - [按短前缀给每步推理单独打分](../conferences/icml-2026/cards/2001-2100.md#just26a-data-strategies) · The Signal is in the Steps: Local Scoring for Reasoning Data Selection
 - [按边际安全收益选择最小增强集](../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment
 - [用模型自己的解掩顺序生成训练掩码](../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training
+- [将端侧偏好记忆压缩为可检索指令](../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG
 
 <a id="by-computer-vision"></a>
 
@@ -110,6 +111,7 @@
 - [用遮罩模型生成无掩膜配音训练对](../conferences/icml-2026/cards/1501-1600.md#he26au-data-strategies) · From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping
 - [把可回放 GUI 探索组织成可复用前缀树](../conferences/icml-2026/cards/1901-2000.md#jiang26p-data-strategies) · TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution
 - [用身体部位定位为无障碍理解建立监督](../conferences/icml-2026/cards/2001-2100.md#ke26e-data-strategies) · IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency
+- [用视觉交叉熵收益分配训练预算](../conferences/icml-2026/cards/2301-2400.md#lee26m-data-strategies) · Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain
 
 <a id="by-ml-foundations"></a>
 
@@ -129,6 +131,7 @@
 - [用梯度投影贡献分配联邦客户端预算](../conferences/icml-2026/cards/1801-1900.md#ji26b-data-strategies) · ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning
 - [在上下文中按条件互信息决定补测哪个特征](../conferences/icml-2026/cards/2101-2200.md#kobayashi26a-data-strategies) · Learning-To-Measure: In-Context Active Feature Acquisition
 - [先复用加密边缘统计再发布私有合成数据](../conferences/icml-2026/cards/2201-2300.md#kumar26e-data-strategies) · $\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation
+- [用单调学习曲线和预期缺口决定采集量](../conferences/icml-2026/cards/2301-2400.md#lee26af-data-strategies) · Monotonic Variational Gaussian Process for Efficient Data Collection
 
 <a id="by-graph-and-recommendation"></a>
 

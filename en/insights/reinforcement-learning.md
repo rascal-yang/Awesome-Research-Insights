@@ -94,6 +94,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains](../../conferences/icml-2026/cards/2201-2300.md#krishnan26a-reinforcement-learning) · 中文
 - [Learning Structured Reasoning via Tractable Trajectory Control](../../conferences/icml-2026/cards/2201-2300.md#kung26a-reinforcement-learning) · 中文
 - [Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance](../../conferences/icml-2026/cards/2201-2300.md#kwon26a-reinforcement-learning) · 中文
+- [SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs](../../conferences/icml-2026/cards/2301-2400.md#lee26r-reinforcement-learning) · 中文
+- [QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning](../../conferences/icml-2026/cards/2301-2400.md#lee26au-reinforcement-learning) · 中文
+- [OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards](../../conferences/icml-2026/cards/2301-2400.md#lee26ay-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -189,6 +192,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions](../../conferences/icml-2026/cards/2101-2200.md#kong26e-reinforcement-learning) · 中文
 - [Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed](../../conferences/icml-2026/cards/2201-2300.md#kwon26c-reinforcement-learning) · 中文
 - [Trust-Region Diffusion Policies for Massively Parallel On-Policy RL](../../conferences/icml-2026/cards/2201-2300.md#le26a-reinforcement-learning) · 中文
+- [Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26s-reinforcement-learning) · 中文
+- [Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26t-reinforcement-learning) · 中文
+- [Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity](../../conferences/icml-2026/cards/2301-2400.md#lee26ae-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -202,6 +208,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands](../../conferences/icml-2026/cards/1501-1600.md#heald26a-reinforcement-learning) · 中文
 - [Learning Anisotropic Value Geometry with Finsler Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hossain26a-reinforcement-learning) · 中文
 - [Recovering Hidden Reward in Diffusion-Based Policies](../../conferences/icml-2026/cards/1801-1900.md#ji26e-reinforcement-learning) · 中文
+- [Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../../conferences/icml-2026/cards/2301-2400.md#lei26e-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -235,6 +242,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 ### Machine Learning Foundations and Statistics
 
 - [DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes](../../conferences/icml-2026/cards/1901-2000.md#jiang26n-reinforcement-learning) · 中文
+- [RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs](../../conferences/icml-2026/cards/2301-2400.md#lee26ac-reinforcement-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

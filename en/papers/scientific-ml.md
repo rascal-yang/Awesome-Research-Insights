@@ -61,6 +61,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="kumar26b-architecture"></a>[NeurOCNN: A Neural-Operator-Based Model for Physiological Time Series](../../conferences/icml-2026/cards/2201-2300.md#paper-kumar26b)
 - <a id="lan26c-architecture"></a>[FluxNet: Learning Capacity-Constrained Local Transport Operators for Conservative and Bounded PDE Surrogates](../../conferences/icml-2026/cards/2201-2300.md#paper-lan26c)
 - <a id="ledneva26a-architecture"></a>[LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling](../../conferences/icml-2026/cards/2301-2400.md#paper-ledneva26a)
+- <a id="lee26v-architecture"></a>[BIT-LLM: Brain Instruction Tuned LLM with persistent Cross-Attention for fMRI-to-Text Decoding](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26v)
+- <a id="lee26aa-architecture"></a>[Lie-Algebraic Acceleration of Neural Koopman Dynamics](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26aa)
 
 <a id="by-modules"></a>
 

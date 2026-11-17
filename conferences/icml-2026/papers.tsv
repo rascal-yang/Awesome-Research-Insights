@@ -2315,74 +2315,74 @@ number	pmlr_id	title	paper_url	insight_status
 2314	lee26i	DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention	https://proceedings.mlr.press/v306/lee26i.html	written
 2315	lee26j	Stochastic Sparse Attention for Memory-Bound Inference	https://proceedings.mlr.press/v306/lee26j.html	written
 2316	lee26k	Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models	https://proceedings.mlr.press/v306/lee26k.html	written
-2317	lee26l	Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers	https://proceedings.mlr.press/v306/lee26l.html	pending
-2318	lee26m	Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain	https://proceedings.mlr.press/v306/lee26m.html	pending
-2319	lee26n	On the Collapse of Generative Paths: A Criterion and Correction for Diffusion Steering	https://proceedings.mlr.press/v306/lee26n.html	pending
-2320	lee26o	Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning	https://proceedings.mlr.press/v306/lee26o.html	pending
-2321	lee26p	HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding	https://proceedings.mlr.press/v306/lee26p.html	pending
-2322	lee26q	Decision-Focused Learning via Tangent-Space Projection of Prediction Error	https://proceedings.mlr.press/v306/lee26q.html	pending
-2323	lee26r	SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs	https://proceedings.mlr.press/v306/lee26r.html	pending
-2324	lee26s	Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/lee26s.html	pending
-2325	lee26t	Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning	https://proceedings.mlr.press/v306/lee26t.html	pending
-2326	lee26u	From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG	https://proceedings.mlr.press/v306/lee26u.html	pending
-2327	lee26v	BIT-LLM: Brain Instruction Tuned LLM with persistent Cross-Attention for fMRI-to-Text Decoding	https://proceedings.mlr.press/v306/lee26v.html	pending
-2328	lee26w	Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy	https://proceedings.mlr.press/v306/lee26w.html	pending
-2329	lee26x	Geometry-Aware Image Flow Matching	https://proceedings.mlr.press/v306/lee26x.html	pending
-2330	lee26y	LittleBit-2: Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment	https://proceedings.mlr.press/v306/lee26y.html	pending
-2331	lee26z	MEC: Machine-Learning-Assisted Generalized Entropy Calibration for Semi-Supervised Mean Estimation	https://proceedings.mlr.press/v306/lee26z.html	pending
-2332	lee26aa	Lie-Algebraic Acceleration of Neural Koopman Dynamics	https://proceedings.mlr.press/v306/lee26aa.html	pending
-2333	lee26ab	Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models	https://proceedings.mlr.press/v306/lee26ab.html	pending
-2334	lee26ac	RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs	https://proceedings.mlr.press/v306/lee26ac.html	pending
-2335	lee26ad	Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion	https://proceedings.mlr.press/v306/lee26ad.html	pending
-2336	lee26ae	Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity	https://proceedings.mlr.press/v306/lee26ae.html	pending
-2337	lee26af	Monotonic Variational Gaussian Process for Efficient Data Collection	https://proceedings.mlr.press/v306/lee26af.html	pending
-2338	lee26ag	Probabilistic Modeling of Latent Agentic Substructures in Deep Neural Networks	https://proceedings.mlr.press/v306/lee26ag.html	pending
-2339	lee26ah	View Space: Learning Representation across Arbitrary Graphs	https://proceedings.mlr.press/v306/lee26ah.html	pending
-2340	lee26ai	CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning	https://proceedings.mlr.press/v306/lee26ai.html	pending
-2341	lee26aj	Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods	https://proceedings.mlr.press/v306/lee26aj.html	pending
-2342	lee26ak	UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems	https://proceedings.mlr.press/v306/lee26ak.html	pending
-2343	lee26al	Generalizing Multi-Scale Time-Series Modeling with a Single Operator	https://proceedings.mlr.press/v306/lee26al.html	pending
-2344	lee26am	MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction	https://proceedings.mlr.press/v306/lee26am.html	pending
-2345	lee26an	ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training	https://proceedings.mlr.press/v306/lee26an.html	pending
-2346	lee26ao	PhysHanDI: Physics-Based Reconstruction of Hand-Deformable Object Interactions	https://proceedings.mlr.press/v306/lee26ao.html	pending
-2347	lee26ap	SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models	https://proceedings.mlr.press/v306/lee26ap.html	pending
-2348	lee26aq	Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data	https://proceedings.mlr.press/v306/lee26aq.html	pending
-2349	lee26ar	Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation	https://proceedings.mlr.press/v306/lee26ar.html	pending
-2350	lee26as	Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization	https://proceedings.mlr.press/v306/lee26as.html	pending
-2351	lee26at	Priority-Aware Shapley Value	https://proceedings.mlr.press/v306/lee26at.html	pending
-2352	lee26au	QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning	https://proceedings.mlr.press/v306/lee26au.html	pending
-2353	lee26av	FUSE: Ensembling Verifiers with Zero Labeled Data	https://proceedings.mlr.press/v306/lee26av.html	pending
-2354	lee26aw	Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment	https://proceedings.mlr.press/v306/lee26aw.html	pending
-2355	lee26ax	Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting	https://proceedings.mlr.press/v306/lee26ax.html	pending
-2356	lee26ay	OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards	https://proceedings.mlr.press/v306/lee26ay.html	pending
-2357	lee26az	TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/lee26az.html	pending
-2358	lee26ba	Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification	https://proceedings.mlr.press/v306/lee26ba.html	pending
-2359	lee26bb	FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models	https://proceedings.mlr.press/v306/lee26bb.html	pending
-2360	lee26bc	Reflective Hamiltonian Monte Carlo: Mixing Analysis and Application to Sampling on Stiefel Manifold	https://proceedings.mlr.press/v306/lee26bc.html	pending
-2361	lee26bd	Contrastive Order Learning: A General Framework for Ordinal Regression	https://proceedings.mlr.press/v306/lee26bd.html	pending
-2362	lee26be	Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models	https://proceedings.mlr.press/v306/lee26be.html	pending
-2363	lee26bf	Emergent Communication Under Misinformation	https://proceedings.mlr.press/v306/lee26bf.html	pending
-2364	lee26bg	Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks	https://proceedings.mlr.press/v306/lee26bg.html	pending
-2365	lee26bh	The Efficiency Gap in Byte Modeling	https://proceedings.mlr.press/v306/lee26bh.html	pending
-2366	lee26bi	LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs	https://proceedings.mlr.press/v306/lee26bi.html	pending
-2367	lee26bj	Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook	https://proceedings.mlr.press/v306/lee26bj.html	pending
-2368	lee26bk	Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective	https://proceedings.mlr.press/v306/lee26bk.html	pending
-2369	lee26bl	How to Correctly Report LLM-as-a-Judge Evaluations	https://proceedings.mlr.press/v306/lee26bl.html	pending
-2370	lee26bm	Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective	https://proceedings.mlr.press/v306/lee26bm.html	pending
-2371	lee26bn	Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery	https://proceedings.mlr.press/v306/lee26bn.html	pending
-2372	lefebvre26a	The Cost of Commitment in Option-Based Hierarchical RL	https://proceedings.mlr.press/v306/lefebvre26a.html	pending
-2373	lei26a	Stability beyond Bounded Differences: Sharp Generalization Bounds under Finite $L_p$ Moments	https://proceedings.mlr.press/v306/lei26a.html	pending
-2374	lei26b	Synergistic Space-Vision Processing for Predicate Inference	https://proceedings.mlr.press/v306/lei26b.html	pending
-2375	lei26c	A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors	https://proceedings.mlr.press/v306/lei26c.html	pending
-2376	lei26d	A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies	https://proceedings.mlr.press/v306/lei26d.html	pending
-2377	lei26e	Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models	https://proceedings.mlr.press/v306/lei26e.html	pending
-2378	lei26f	A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks	https://proceedings.mlr.press/v306/lei26f.html	pending
-2379	lei26g	QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL	https://proceedings.mlr.press/v306/lei26g.html	pending
-2380	lei26h	GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding	https://proceedings.mlr.press/v306/lei26h.html	pending
-2381	lei26i	Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer	https://proceedings.mlr.press/v306/lei26i.html	pending
-2382	lei26j	Budget-Constrained Step-Level Diffusion Caching	https://proceedings.mlr.press/v306/lei26j.html	pending
-2383	leng26a	Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark	https://proceedings.mlr.press/v306/leng26a.html	pending
-2384	leng26b	LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games	https://proceedings.mlr.press/v306/leng26b.html	pending
+2317	lee26l	Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers	https://proceedings.mlr.press/v306/lee26l.html	written
+2318	lee26m	Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain	https://proceedings.mlr.press/v306/lee26m.html	written
+2319	lee26n	On the Collapse of Generative Paths: A Criterion and Correction for Diffusion Steering	https://proceedings.mlr.press/v306/lee26n.html	written
+2320	lee26o	Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning	https://proceedings.mlr.press/v306/lee26o.html	written
+2321	lee26p	HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding	https://proceedings.mlr.press/v306/lee26p.html	written
+2322	lee26q	Decision-Focused Learning via Tangent-Space Projection of Prediction Error	https://proceedings.mlr.press/v306/lee26q.html	written
+2323	lee26r	SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs	https://proceedings.mlr.press/v306/lee26r.html	written
+2324	lee26s	Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/lee26s.html	written
+2325	lee26t	Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning	https://proceedings.mlr.press/v306/lee26t.html	written
+2326	lee26u	From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG	https://proceedings.mlr.press/v306/lee26u.html	written
+2327	lee26v	BIT-LLM: Brain Instruction Tuned LLM with persistent Cross-Attention for fMRI-to-Text Decoding	https://proceedings.mlr.press/v306/lee26v.html	written
+2328	lee26w	Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy	https://proceedings.mlr.press/v306/lee26w.html	written
+2329	lee26x	Geometry-Aware Image Flow Matching	https://proceedings.mlr.press/v306/lee26x.html	written
+2330	lee26y	LittleBit-2: Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment	https://proceedings.mlr.press/v306/lee26y.html	written
+2331	lee26z	MEC: Machine-Learning-Assisted Generalized Entropy Calibration for Semi-Supervised Mean Estimation	https://proceedings.mlr.press/v306/lee26z.html	written
+2332	lee26aa	Lie-Algebraic Acceleration of Neural Koopman Dynamics	https://proceedings.mlr.press/v306/lee26aa.html	written
+2333	lee26ab	Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models	https://proceedings.mlr.press/v306/lee26ab.html	written
+2334	lee26ac	RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs	https://proceedings.mlr.press/v306/lee26ac.html	written
+2335	lee26ad	Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion	https://proceedings.mlr.press/v306/lee26ad.html	written
+2336	lee26ae	Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity	https://proceedings.mlr.press/v306/lee26ae.html	written
+2337	lee26af	Monotonic Variational Gaussian Process for Efficient Data Collection	https://proceedings.mlr.press/v306/lee26af.html	written
+2338	lee26ag	Probabilistic Modeling of Latent Agentic Substructures in Deep Neural Networks	https://proceedings.mlr.press/v306/lee26ag.html	written
+2339	lee26ah	View Space: Learning Representation across Arbitrary Graphs	https://proceedings.mlr.press/v306/lee26ah.html	written
+2340	lee26ai	CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning	https://proceedings.mlr.press/v306/lee26ai.html	written
+2341	lee26aj	Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods	https://proceedings.mlr.press/v306/lee26aj.html	written
+2342	lee26ak	UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems	https://proceedings.mlr.press/v306/lee26ak.html	written
+2343	lee26al	Generalizing Multi-Scale Time-Series Modeling with a Single Operator	https://proceedings.mlr.press/v306/lee26al.html	written
+2344	lee26am	MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction	https://proceedings.mlr.press/v306/lee26am.html	written
+2345	lee26an	ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training	https://proceedings.mlr.press/v306/lee26an.html	written
+2346	lee26ao	PhysHanDI: Physics-Based Reconstruction of Hand-Deformable Object Interactions	https://proceedings.mlr.press/v306/lee26ao.html	written
+2347	lee26ap	SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models	https://proceedings.mlr.press/v306/lee26ap.html	written
+2348	lee26aq	Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data	https://proceedings.mlr.press/v306/lee26aq.html	written
+2349	lee26ar	Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation	https://proceedings.mlr.press/v306/lee26ar.html	written
+2350	lee26as	Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization	https://proceedings.mlr.press/v306/lee26as.html	written
+2351	lee26at	Priority-Aware Shapley Value	https://proceedings.mlr.press/v306/lee26at.html	written
+2352	lee26au	QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning	https://proceedings.mlr.press/v306/lee26au.html	written
+2353	lee26av	FUSE: Ensembling Verifiers with Zero Labeled Data	https://proceedings.mlr.press/v306/lee26av.html	written
+2354	lee26aw	Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment	https://proceedings.mlr.press/v306/lee26aw.html	written
+2355	lee26ax	Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting	https://proceedings.mlr.press/v306/lee26ax.html	written
+2356	lee26ay	OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards	https://proceedings.mlr.press/v306/lee26ay.html	written
+2357	lee26az	TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/lee26az.html	written
+2358	lee26ba	Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification	https://proceedings.mlr.press/v306/lee26ba.html	written
+2359	lee26bb	FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models	https://proceedings.mlr.press/v306/lee26bb.html	written
+2360	lee26bc	Reflective Hamiltonian Monte Carlo: Mixing Analysis and Application to Sampling on Stiefel Manifold	https://proceedings.mlr.press/v306/lee26bc.html	written
+2361	lee26bd	Contrastive Order Learning: A General Framework for Ordinal Regression	https://proceedings.mlr.press/v306/lee26bd.html	written
+2362	lee26be	Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models	https://proceedings.mlr.press/v306/lee26be.html	written
+2363	lee26bf	Emergent Communication Under Misinformation	https://proceedings.mlr.press/v306/lee26bf.html	written
+2364	lee26bg	Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks	https://proceedings.mlr.press/v306/lee26bg.html	written
+2365	lee26bh	The Efficiency Gap in Byte Modeling	https://proceedings.mlr.press/v306/lee26bh.html	written
+2366	lee26bi	LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs	https://proceedings.mlr.press/v306/lee26bi.html	written
+2367	lee26bj	Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook	https://proceedings.mlr.press/v306/lee26bj.html	written
+2368	lee26bk	Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective	https://proceedings.mlr.press/v306/lee26bk.html	written
+2369	lee26bl	How to Correctly Report LLM-as-a-Judge Evaluations	https://proceedings.mlr.press/v306/lee26bl.html	written
+2370	lee26bm	Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective	https://proceedings.mlr.press/v306/lee26bm.html	written
+2371	lee26bn	Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery	https://proceedings.mlr.press/v306/lee26bn.html	written
+2372	lefebvre26a	The Cost of Commitment in Option-Based Hierarchical RL	https://proceedings.mlr.press/v306/lefebvre26a.html	written
+2373	lei26a	Stability beyond Bounded Differences: Sharp Generalization Bounds under Finite $L_p$ Moments	https://proceedings.mlr.press/v306/lei26a.html	written
+2374	lei26b	Synergistic Space-Vision Processing for Predicate Inference	https://proceedings.mlr.press/v306/lei26b.html	written
+2375	lei26c	A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors	https://proceedings.mlr.press/v306/lei26c.html	written
+2376	lei26d	A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies	https://proceedings.mlr.press/v306/lei26d.html	written
+2377	lei26e	Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models	https://proceedings.mlr.press/v306/lei26e.html	written
+2378	lei26f	A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks	https://proceedings.mlr.press/v306/lei26f.html	written
+2379	lei26g	QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL	https://proceedings.mlr.press/v306/lei26g.html	written
+2380	lei26h	GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding	https://proceedings.mlr.press/v306/lei26h.html	written
+2381	lei26i	Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer	https://proceedings.mlr.press/v306/lei26i.html	written
+2382	lei26j	Budget-Constrained Step-Level Diffusion Caching	https://proceedings.mlr.press/v306/lei26j.html	written
+2383	leng26a	Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark	https://proceedings.mlr.press/v306/leng26a.html	written
+2384	leng26b	LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games	https://proceedings.mlr.press/v306/leng26b.html	written
 2385	leng26c	Linguistic Relative Policy Optimization for Video Anomaly Reasoning	https://proceedings.mlr.press/v306/leng26c.html	pending
 2386	letson26a	SorryDB: Can AI Provers Complete Real-World Lean Theorems?	https://proceedings.mlr.press/v306/letson26a.html	pending
 2387	letzelter26a	Multiple Choice Learning of Low-Rank Adapters for Language Modeling	https://proceedings.mlr.press/v306/letzelter26a.html	pending

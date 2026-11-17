@@ -7,7 +7,7 @@ Training schedules, curricula, and task or stage composition.
 <!-- classification:start -->
 ## Browse by Research Domain
 
-[Large Language Models](#by-llm) · [Computer Vision](#by-computer-vision) · [Natural Language Processing](#by-nlp) · [Robotics](#by-robotics) · [Multimodal Learning](#by-multimodal) · [Machine Learning Foundations and Statistics](#by-ml-foundations) · [Graph Learning and Recommendation](#by-graph-and-recommendation) · [Scientific Machine Learning](#by-scientific-ml)
+[Large Language Models](#by-llm) · [Computer Vision](#by-computer-vision) · [Natural Language Processing](#by-nlp) · [Reinforcement Learning](#by-reinforcement-learning) · [Robotics](#by-robotics) · [Multimodal Learning](#by-multimodal) · [Machine Learning Foundations and Statistics](#by-ml-foundations) · [Graph Learning and Recommendation](#by-graph-and-recommendation) · [Scientific Machine Learning](#by-scientific-ml)
 
 <a id="by-llm"></a>
 
@@ -75,6 +75,8 @@ Training schedules, curricula, and task or stage composition.
 - [Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences](../../conferences/icml-2026/cards/2201-2300.md#koo26a-training-strategies) · 中文
 - [Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections](../../conferences/icml-2026/cards/2201-2300.md#lauffer26a-training-strategies) · 中文
 - [SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs](../../conferences/icml-2026/cards/2301-2400.md#lee26c-training-strategies) · 中文
+- [ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training](../../conferences/icml-2026/cards/2301-2400.md#lee26an-training-strategies) · 中文
+- [LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs](../../conferences/icml-2026/cards/2301-2400.md#lee26bi-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -103,6 +105,7 @@ Training schedules, curricula, and task or stage composition.
 - [Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26e-training-strategies) · 中文
 - [Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks](../../conferences/icml-2026/cards/2201-2300.md#kumar26a-training-strategies) · 中文
 - [Toward Understanding Adversarial Distillation: Why Robust Teachers Fail](../../conferences/icml-2026/cards/2301-2400.md#lee26g-training-strategies) · 中文
+- [Geometry-Aware Image Flow Matching](../../conferences/icml-2026/cards/2301-2400.md#lee26x-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -112,6 +115,12 @@ Training schedules, curricula, and task or stage composition.
 - [ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control](../../conferences/icml-2026/cards/1601-1700.md#hu26an-training-strategies) · 中文
 - [Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages](../../conferences/icml-2026/cards/2101-2200.md#kim26ak-training-strategies) · 中文
 - [Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · 中文
+
+<a id="by-reinforcement-learning"></a>
+
+### Reinforcement Learning
+
+- [CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26ai-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -124,6 +133,7 @@ Training schedules, curricula, and task or stage composition.
 - [FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy](../../conferences/icml-2026/cards/1501-1600.md#he26aq-training-strategies) · 中文
 - [Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](../../conferences/icml-2026/cards/1701-1800.md#huang26v-training-strategies) · 中文
 - [TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](../../conferences/icml-2026/cards/1701-1800.md#huang26cd-training-strategies) · 中文
+- [A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](../../conferences/icml-2026/cards/2301-2400.md#lei26d-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -154,6 +164,7 @@ Training schedules, curricula, and task or stage composition.
 - [ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation](../../conferences/icml-2026/cards/2101-2200.md#kong26h-training-strategies) · 中文
 - [AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning](../../conferences/icml-2026/cards/2201-2300.md#lang26a-training-strategies) · 中文
 - [HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models](../../conferences/icml-2026/cards/2201-2300.md#le26b-training-strategies) · 中文
+- [Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective](../../conferences/icml-2026/cards/2301-2400.md#lee26bk-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -205,6 +216,7 @@ Training schedules, curricula, and task or stage composition.
 - [AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](../../conferences/icml-2026/cards/2101-2200.md#kim26bh-training-strategies) · 中文
 - [SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks](../../conferences/icml-2026/cards/2201-2300.md#kowsher26b-training-strategies) · 中文
 - [Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](../../conferences/icml-2026/cards/2201-2300.md#lan26b-training-strategies) · 中文
+- [LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games](../../conferences/icml-2026/cards/2301-2400.md#leng26b-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

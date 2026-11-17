@@ -40,6 +40,8 @@
 - [推理模块组合所需的局部覆盖](../conferences/icml-2026/cards/2101-2200.md#kong26c-theory-statistics) · From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning
 - [把参考策略正则强度与操纵收益上界对应](../conferences/icml-2026/cards/2201-2300.md#korkmaz26a-theory-statistics) · The Axiomatic Value of Regularization in AI Alignment from Human Preferences
 - [用表征首次越阈深度追踪 LoRA 漂移](../conferences/icml-2026/cards/2201-2300.md#koubbi26a-theory-statistics) · Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics
+- [只调注意力值矩阵保留上下文学习](../conferences/icml-2026/cards/2301-2400.md#lee26be-theory-statistics) · Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models
+- [同时报告裁判校正和人工校准的不确定性](../conferences/icml-2026/cards/2301-2400.md#lee26bl-theory-statistics) · How to Correctly Report LLM-as-a-Judge Evaluations
 
 <a id="by-computer-vision"></a>
 
@@ -102,6 +104,9 @@
 - [用准确 critic 让随机策略梯度的方差随梯度消失](../conferences/icml-2026/cards/2201-2300.md#labbi26a-theory-statistics) · Refined Analysis of Entropy-Regularized Actor-Critic
 - [共同噪声下的人群感知模仿](../conferences/icml-2026/cards/2201-2300.md#lambrecht26a-theory-statistics) · Population-Aware Imitation Learning in Mean-field Games with Common Noise
 - [把逐步时序差分作为策略搜索的高斯过程观测](../conferences/icml-2026/cards/2301-2400.md#lederer26a-theory-statistics) · Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes
+- [从延迟扩展状态中分离真正未知的动力学](../conferences/icml-2026/cards/2301-2400.md#lee26o-theory-statistics) · Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning
+- [对抗信号中的组合通信涌现](../conferences/icml-2026/cards/2301-2400.md#lee26bf-theory-statistics) · Emergent Communication Under Misinformation
+- [依模型误差来源选择重规划频率](../conferences/icml-2026/cards/2301-2400.md#lefebvre26a-theory-statistics) · The Cost of Commitment in Option-Based Hierarchical RL
 
 <a id="by-robotics"></a>
 
@@ -370,6 +375,13 @@
 - [按不同风险区分直接预测乘子与热启动](../conferences/icml-2026/cards/2201-2300.md#le26e-theory-statistics) · Provably Data-driven Lagrangian Relaxation for Mixed Integer Linear Programming
 - [用阈值公式分析联合调参的样本复杂度](../conferences/icml-2026/cards/2201-2300.md#le26f-theory-statistics) · Provably Data-driven Multiple Hyper-parameter Tuning with Structured Loss Function
 - [比较移动点造成的簇代价与冻结中心距离](../conferences/icml-2026/cards/2301-2400.md#lederman26a-theory-statistics) · The Catastrophic Failure of *the* k-Means Algorithm in High Dimensions, and How Hartigan’s Algorithm Avoids It
+- [用折外预测作标签样本的校准坐标](../conferences/icml-2026/cards/2301-2400.md#lee26z-theory-statistics) · MEC: Machine-Learning-Assisted Generalized Entropy Calibration for Semi-Supervised Mean Estimation
+- [用对数意见池检验潜在子代理能否一致受益](../conferences/icml-2026/cards/2301-2400.md#lee26ag-theory-statistics) · Probabilistic Modeling of Latent Agentic Substructures in Deep Neural Networks
+- [在优先关系允许的顺序中计算加权边际贡献](../conferences/icml-2026/cards/2301-2400.md#lee26at-theory-statistics) · Priority-Aware Shapley Value
+- [反射 HMC 的凸容器与抽稀](../conferences/icml-2026/cards/2301-2400.md#lee26bc-theory-statistics) · Reflective Hamiltonian Monte Carlo: Mixing Analysis and Application to Sampling on Stiefel Manifold
+- [用故障前等价类缩小根因推断空间](../conferences/icml-2026/cards/2301-2400.md#lee26bn-theory-statistics) · Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery
+- [用有限矩区分常规波动和极端样本替换](../conferences/icml-2026/cards/2301-2400.md#lei26a-theory-statistics) · Stability beyond Bounded Differences: Sharp Generalization Bounds under Finite $L_p$ Moments
+- [附加发布物的隐私风险](../conferences/icml-2026/cards/2301-2400.md#lei26f-theory-statistics) · A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks
 
 <a id="by-graph-and-recommendation"></a>
 

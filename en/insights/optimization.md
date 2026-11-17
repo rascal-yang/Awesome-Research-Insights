@@ -60,6 +60,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](../../conferences/icml-2026/cards/2101-2200.md#kim26br-optimization) · 中文
 - [ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation](../../conferences/icml-2026/cards/2101-2200.md#kim26bv-optimization) · 中文
 - [Evolving Interpretable Constitutions for Multi-Agent Coordination](../../conferences/icml-2026/cards/2201-2300.md#kumar26f-optimization) · 中文
+- [LittleBit-2: Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment](../../conferences/icml-2026/cards/2301-2400.md#lee26y-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -81,6 +82,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks](../../conferences/icml-2026/cards/2101-2200.md#kim26ax-optimization) · 中文
 - [Guaranteed Optimal Compositional Explanations for Neurons](../../conferences/icml-2026/cards/2201-2300.md#la-rosa26a-optimization) · 中文
 - [MoCL: Metabolic Optimization for Curvature-Aware Continual Learning](../../conferences/icml-2026/cards/2201-2300.md#lai26d-optimization) · 中文
+- [UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems](../../conferences/icml-2026/cards/2301-2400.md#lee26ak-optimization) · 中文
+- [Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization](../../conferences/icml-2026/cards/2301-2400.md#lee26as-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -261,6 +264,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [The Theory and Practice of MAP Inference over Non-Convex Constraints](../../conferences/icml-2026/cards/2201-2300.md#kurscheidt26a-optimization) · 中文
 - [Search Space Synthesis for Parametric Functions](../../conferences/icml-2026/cards/2201-2300.md#laarmann26a-optimization) · 中文
 - [Path-conditioned training: a principled way to rescale ReLU neural networks](../../conferences/icml-2026/cards/2201-2300.md#lebeurrier26a-optimization) · 中文
+- [Decision-Focused Learning via Tangent-Space Projection of Prediction Error](../../conferences/icml-2026/cards/2301-2400.md#lee26q-optimization) · 中文
+- [Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](../../conferences/icml-2026/cards/2301-2400.md#lee26ba-optimization) · 中文
+- [Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks](../../conferences/icml-2026/cards/2301-2400.md#lee26bg-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

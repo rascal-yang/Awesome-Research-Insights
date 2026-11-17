@@ -70,6 +70,8 @@
 - [用平衡层给不同生成尺度分配步数](../conferences/icml-2026/cards/1901-2000.md#jiang26ah-architecture) · Visual Implicit Autoregressive Modeling
 - [用关节身份锚定状态更新并显式暴露深度](../conferences/icml-2026/cards/1901-2000.md#jiang26bb-architecture) · StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation
 - [让等变视觉与符号决策共同驱动旋转](../conferences/icml-2026/cards/2001-2100.md#khazoum26a-architecture) · A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments
+- [以重建手的接触力驱动可变形物体并反向校正手](../conferences/icml-2026/cards/2301-2400.md#lee26ao-architecture) · PhysHanDI: Physics-Based Reconstruction of Hand-Deformable Object Interactions
+- [先分开学习几何和语义关系再交互](../conferences/icml-2026/cards/2301-2400.md#lei26b-architecture) · Synergistic Space-Vision Processing for Predicate Inference
 
 <a id="by-nlp"></a>
 
@@ -89,6 +91,7 @@
 - [以潜状态分布替代像素重构并允许替换约束先验](../conferences/icml-2026/cards/1701-1800.md#huang26ba-architecture) · VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models
 - [用输入门在固定参考路径和可学投影间插值](../conferences/icml-2026/cards/2101-2200.md#koeppe26a-architecture) · Mitigating Plasticity Loss through Architectural Design in Continual Learning
 - [把可梯度训练的连续策略编译成查表电路](../conferences/icml-2026/cards/2201-2300.md#kresse26a-architecture) · Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control
+- [离线控制中的目标可达性](../conferences/icml-2026/cards/2301-2400.md#lei26g-architecture) · QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL
 
 <a id="by-robotics"></a>
 
@@ -122,6 +125,7 @@
 - [让移动界面模型输出可渲染代码来预测下一屏](../conferences/icml-2026/cards/2101-2200.md#koh26a-architecture) · Generative Visual Code Mobile World Models
 - [多变量时序与文本的交错建模](../conferences/icml-2026/cards/2201-2300.md#langer26a-architecture) · OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data
 - [在低频语音潜变量上分层补回波形](../conferences/icml-2026/cards/2301-2400.md#lee26f-architecture) · ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models
+- [全景空间音频流式生成](../conferences/icml-2026/cards/2301-2400.md#lei26i-architecture) · Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer
 
 <a id="by-ml-foundations"></a>
 
@@ -158,6 +162,7 @@
 - [对一般线性共轭保留矩阵中心特征](../conferences/icml-2026/cards/2101-2200.md#kim26ca-architecture) · Equivariant Neural Networks for General Linear Symmetries on Lie Algebras
 - [固定非零权重预算下扩宽网络](../conferences/icml-2026/cards/2101-2200.md#kong26f-architecture) · Expand Neurons, Not Parameters
 - [用乘积节点和稀疏样本辨别奇偶支持](../conferences/icml-2026/cards/2201-2300.md#larue26a-architecture) · Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent
+- [用单个可学离散 Gaussian 核替换固定多尺度分支](../conferences/icml-2026/cards/2301-2400.md#lee26al-architecture) · Generalizing Multi-Scale Time-Series Modeling with a Single Operator
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -229,4 +234,6 @@
 - [用连续卷积和频谱池化适配采样率](../conferences/icml-2026/cards/2201-2300.md#kumar26b-architecture) · NeurOCNN: A Neural-Operator-Based Model for Physiological Time Series
 - [守恒 PDE 的容量约束累积输运](../conferences/icml-2026/cards/2201-2300.md#lan26c-architecture) · FluxNet: Learning Capacity-Constrained Local Transport Operators for Conservative and Bounded PDE Surrogates
 - [用等算量固定边界隔离基因组动态分块的价值](../conferences/icml-2026/cards/2301-2400.md#ledneva26a-architecture) · LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling
+- [用跨层持久记忆检验脑信号参与解码](../conferences/icml-2026/cards/2301-2400.md#lee26v-architecture) · BIT-LLM: Brain Instruction Tuned LLM with persistent Cross-Attention for fMRI-to-Text Decoding
+- [用李群前缀扫描并行合成长时演化](../conferences/icml-2026/cards/2301-2400.md#lee26aa-architecture) · Lie-Algebraic Acceleration of Neural Koopman Dynamics
 <!-- classification:end -->

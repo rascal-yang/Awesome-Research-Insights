@@ -60,6 +60,7 @@
 - [用角色数据学习专属 FFN 剪枝掩码](../conferences/icml-2026/cards/2101-2200.md#kim26br-optimization) · Persona-Pruner: Sculpting Lightweight Models for Role-Playing
 - [离线融合逐层旋转并只在线补低秩差](../conferences/icml-2026/cards/2101-2200.md#kim26bv-optimization) · ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation
 - [在不同种群演化能执行的多代理规则](../conferences/icml-2026/cards/2201-2300.md#kumar26f-optimization) · Evolving Interpretable Constitutions for Multi-Agent Coordination
+- [先旋转奇异子空间再二值化低秩因子](../conferences/icml-2026/cards/2301-2400.md#lee26y-optimization) · LittleBit-2: Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment
 
 <a id="by-computer-vision"></a>
 
@@ -81,6 +82,8 @@
 - [沿优化后的连续路径重组对抗扰动](../conferences/icml-2026/cards/2101-2200.md#kim26ax-optimization) · MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks
 - [按解释 IoU 上下界剪枝求全局最优规则](../conferences/icml-2026/cards/2201-2300.md#la-rosa26a-optimization) · Guaranteed Optimal Compositional Explanations for Neurons
 - [按历史曲率对增量任务的更新作软抑制](../conferences/icml-2026/cards/2201-2300.md#lai26d-optimization) · MoCL: Metabolic Optimization for Curvature-Aware Continual Learning
+- [放松传输边际并用观测似然约束反演](../conferences/icml-2026/cards/2301-2400.md#lee26ak-optimization) · UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems
+- [按感受野位置调节三维大卷积核的梯度](../conferences/icml-2026/cards/2301-2400.md#lee26as-optimization) · Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization
 
 <a id="by-nlp"></a>
 
@@ -261,6 +264,9 @@
 - [用逻辑多面体分解约束 MAP 搜索](../conferences/icml-2026/cards/2201-2300.md#kurscheidt26a-optimization) · The Theory and Practice of MAP Inference over Non-Convex Constraints
 - [用类型谓词合成满足条件的架构搜索空间](../conferences/icml-2026/cards/2201-2300.md#laarmann26a-optimization) · Search Space Synthesis for Parametric Functions
 - [在保持 ReLU 函数时改善路径空间的条件](../conferences/icml-2026/cards/2201-2300.md#lebeurrier26a-optimization) · Path-conditioned training: a principled way to rescale ReLU neural networks
+- [把预测误差投影到活跃约束的切空间](../conferences/icml-2026/cards/2301-2400.md#lee26q-optimization) · Decision-Focused Learning via Tangent-Space Projection of Prediction Error
+- [多项 Logit 组合试验的最优设计](../conferences/icml-2026/cards/2301-2400.md#lee26ba-optimization) · Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification
+- [可微逻辑门的两阶段常量绑定](../conferences/icml-2026/cards/2301-2400.md#lee26bg-optimization) · Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks
 
 <a id="by-graph-and-recommendation"></a>
 

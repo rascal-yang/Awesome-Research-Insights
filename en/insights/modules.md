@@ -36,6 +36,7 @@ Reusable components and local changes to model inputs or connections.
 - [Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE](../../conferences/icml-2026/cards/2001-2100.md#kang26q-modules) · 中文
 - [Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs](../../conferences/icml-2026/cards/2001-2100.md#kim26f-modules) · 中文
 - [Tucker Attention: A generalization of approximate attention mechanisms](../../conferences/icml-2026/cards/2101-2200.md#klein26a-modules) · 中文
+- [HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding](../../conferences/icml-2026/cards/2301-2400.md#lee26p-modules) · 中文
 
 <a id="by-computer-vision"></a>
 

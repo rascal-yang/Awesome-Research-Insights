@@ -190,6 +190,9 @@
 - [先逐特征解释再汇总专家路由](../conferences/icml-2026/cards/2201-2300.md#lasy26a-evaluation) · RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing
 - [将特征触发路径与输出影响分开追踪](../conferences/icml-2026/cards/2301-2400.md#lee26a-evaluation) · Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects
 - [用成对协方差差分分解关系分数](../conferences/icml-2026/cards/2301-2400.md#lee26b-evaluation) · Decomposing Query-Key Feature Interactions Using Contrastive Covariances
+- [用每字节损失比较不同分词的算力前沿](../conferences/icml-2026/cards/2301-2400.md#lee26bh-evaluation) · The Efficiency Gap in Byte Modeling
+- [先提炼价值表达再比较文本分布](../conferences/icml-2026/cards/2301-2400.md#lee26bj-evaluation) · Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook
+- [开放式行为模拟评估](../conferences/icml-2026/cards/2301-2400.md#lei26c-evaluation) · A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors
 
 <a id="by-computer-vision"></a>
 
@@ -228,6 +231,7 @@
 - [用多个条件向量复测扩散去记忆](../conferences/icml-2026/cards/2201-2300.md#kowalczuk26a-evaluation) · Finding DoRI: Discovery of Retained Images in Diffusion Models
 - [固定训练和采样预算比较增强随机过程](../conferences/icml-2026/cards/2201-2300.md#kozlowski26a-evaluation) · Unifying Deep Stochastic Processes for Image Enhancement
 - [用角落位移区分显著性的中心先验](../conferences/icml-2026/cards/2201-2300.md#kuang26a-evaluation) · When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability
+- [水印通过后再检查反演潜变量的几何偏移](../conferences/icml-2026/cards/2301-2400.md#lee26bm-evaluation) · Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective
 
 <a id="by-nlp"></a>
 
@@ -259,6 +263,7 @@
 - [强化学习后门的逐步不确定性监测](../conferences/icml-2026/cards/1301-1400.md#guo26f-evaluation) · PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent
 - [持续记录新队友和新布局中的上下文适应](../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork
 - [在整条多机构轨迹上评估公平干预](../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems
+- [可重配置的高吞吐多智能体仿真](../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -323,6 +328,7 @@
 - [按机械图纸推理弱项重分配训练采样](../conferences/icml-2026/cards/2201-2300.md#kou26c-evaluation) · MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding
 - [以同层文本近邻解释视觉隐藏表示](../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
 - [用指令词元的内部状态判别模型是否虚构对象](../conferences/icml-2026/cards/2201-2300.md#lai26e-evaluation) · Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models
+- [视频异常事件级评估](../conferences/icml-2026/cards/2301-2400.md#leng26a-evaluation) · Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark
 
 <a id="by-ml-foundations"></a>
 

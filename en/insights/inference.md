@@ -160,6 +160,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding](../../conferences/icml-2026/cards/2301-2400.md#lee26d-inference) · 中文
 - [DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](../../conferences/icml-2026/cards/2301-2400.md#lee26i-inference) · 中文
 - [Stochastic Sparse Attention for Memory-Bound Inference](../../conferences/icml-2026/cards/2301-2400.md#lee26j-inference) · 中文
+- [Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26ab-inference) · 中文
+- [FUSE: Ensembling Verifiers with Zero Labeled Data](../../conferences/icml-2026/cards/2301-2400.md#lee26av-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -219,6 +221,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](../../conferences/icml-2026/cards/1901-2000.md#jiao26e-inference) · 中文
 - [Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bo-inference) · 中文
 - [Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation](../../conferences/icml-2026/cards/2201-2300.md#kwon26d-inference) · 中文
+- [Budget-Constrained Step-Level Diffusion Caching](../../conferences/icml-2026/cards/2301-2400.md#lei26j-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -272,6 +275,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](../../conferences/icml-2026/cards/1801-1900.md#ji26o-inference) · 中文
 - [DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+](../../conferences/icml-2026/cards/1901-2000.md#jiang26av-inference) · 中文
 - [SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies](../../conferences/icml-2026/cards/2001-2100.md#kapoor26a-inference) · 中文
+- [Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](../../conferences/icml-2026/cards/2301-2400.md#lee26ax-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -321,6 +325,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding](../../conferences/icml-2026/cards/2101-2200.md#kim26al-inference) · 中文
 - [SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bt-inference) · 中文
 - [CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26e-inference) · 中文
+- [SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26ap-inference) · 中文
+- [GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](../../conferences/icml-2026/cards/2301-2400.md#lei26h-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -349,6 +355,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Inverting Data Transformations via Diffusion Sampling](../../conferences/icml-2026/cards/2101-2200.md#kim26u-inference) · 中文
 - [Rethinking Calibration for Early-Exit Neural Networks](../../conferences/icml-2026/cards/2201-2300.md#kubaty26a-inference) · 中文
 - [Adversarial Attack and Defense for Denoising Diffusion Sampling](../../conferences/icml-2026/cards/2201-2300.md#lai26g-inference) · 中文
+- [On the Collapse of Generative Paths: A Criterion and Correction for Diffusion Steering](../../conferences/icml-2026/cards/2301-2400.md#lee26n-inference) · 中文
+- [Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation](../../conferences/icml-2026/cards/2301-2400.md#lee26ar-inference) · 中文
+- [Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](../../conferences/icml-2026/cards/2301-2400.md#lee26aw-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

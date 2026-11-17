@@ -70,6 +70,8 @@ Model-wide design and information flow.
 - [Visual Implicit Autoregressive Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiang26ah-architecture) · 中文
 - [StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation](../../conferences/icml-2026/cards/1901-2000.md#jiang26bb-architecture) · 中文
 - [A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](../../conferences/icml-2026/cards/2001-2100.md#khazoum26a-architecture) · 中文
+- [PhysHanDI: Physics-Based Reconstruction of Hand-Deformable Object Interactions](../../conferences/icml-2026/cards/2301-2400.md#lee26ao-architecture) · 中文
+- [Synergistic Space-Vision Processing for Predicate Inference](../../conferences/icml-2026/cards/2301-2400.md#lei26b-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -89,6 +91,7 @@ Model-wide design and information flow.
 - [VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](../../conferences/icml-2026/cards/1701-1800.md#huang26ba-architecture) · 中文
 - [Mitigating Plasticity Loss through Architectural Design in Continual Learning](../../conferences/icml-2026/cards/2101-2200.md#koeppe26a-architecture) · 中文
 - [Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](../../conferences/icml-2026/cards/2201-2300.md#kresse26a-architecture) · 中文
+- [QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL](../../conferences/icml-2026/cards/2301-2400.md#lei26g-architecture) · 中文
 
 <a id="by-robotics"></a>
 
@@ -122,6 +125,7 @@ Model-wide design and information flow.
 - [Generative Visual Code Mobile World Models](../../conferences/icml-2026/cards/2101-2200.md#koh26a-architecture) · 中文
 - [OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](../../conferences/icml-2026/cards/2201-2300.md#langer26a-architecture) · 中文
 - [ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#lee26f-architecture) · 中文
+- [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](../../conferences/icml-2026/cards/2301-2400.md#lei26i-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -158,6 +162,7 @@ Model-wide design and information flow.
 - [Equivariant Neural Networks for General Linear Symmetries on Lie Algebras](../../conferences/icml-2026/cards/2101-2200.md#kim26ca-architecture) · 中文
 - [Expand Neurons, Not Parameters](../../conferences/icml-2026/cards/2101-2200.md#kong26f-architecture) · 中文
 - [Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent](../../conferences/icml-2026/cards/2201-2300.md#larue26a-architecture) · 中文
+- [Generalizing Multi-Scale Time-Series Modeling with a Single Operator](../../conferences/icml-2026/cards/2301-2400.md#lee26al-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -229,4 +234,6 @@ Model-wide design and information flow.
 - [NeurOCNN: A Neural-Operator-Based Model for Physiological Time Series](../../conferences/icml-2026/cards/2201-2300.md#kumar26b-architecture) · 中文
 - [FluxNet: Learning Capacity-Constrained Local Transport Operators for Conservative and Bounded PDE Surrogates](../../conferences/icml-2026/cards/2201-2300.md#lan26c-architecture) · 中文
 - [LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling](../../conferences/icml-2026/cards/2301-2400.md#ledneva26a-architecture) · 中文
+- [BIT-LLM: Brain Instruction Tuned LLM with persistent Cross-Attention for fMRI-to-Text Decoding](../../conferences/icml-2026/cards/2301-2400.md#lee26v-architecture) · 中文
+- [Lie-Algebraic Acceleration of Neural Koopman Dynamics](../../conferences/icml-2026/cards/2301-2400.md#lee26aa-architecture) · 中文
 <!-- classification:end -->

@@ -7,7 +7,7 @@
 <!-- classification:start -->
 ## 按研究领域浏览
 
-[大语言模型](#by-llm) · [计算机视觉](#by-computer-vision) · [自然语言处理](#by-nlp) · [机器人学](#by-robotics) · [多模态学习](#by-multimodal) · [机器学习基础与统计](#by-ml-foundations) · [图学习与推荐](#by-graph-and-recommendation) · [科学机器学习](#by-scientific-ml)
+[大语言模型](#by-llm) · [计算机视觉](#by-computer-vision) · [自然语言处理](#by-nlp) · [强化学习](#by-reinforcement-learning) · [机器人学](#by-robotics) · [多模态学习](#by-multimodal) · [机器学习基础与统计](#by-ml-foundations) · [图学习与推荐](#by-graph-and-recommendation) · [科学机器学习](#by-scientific-ml)
 
 <a id="by-llm"></a>
 
@@ -75,6 +75,8 @@
 - [联邦偏好对齐的个性化混合先验](../conferences/icml-2026/cards/2201-2300.md#koo26a-training-strategies) · Federated Variational Preference Alignment with Gumbel-Softmax Prior for Personalized User Preferences
 - [让教师从学生自己走到的状态接管](../conferences/icml-2026/cards/2201-2300.md#lauffer26a-training-strategies) · Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections
 - [用可补算的数据分片抵消同步训练故障](../conferences/icml-2026/cards/2301-2400.md#lee26c-training-strategies) · SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs
+- [在相同推理轨迹上稳住 FP4 的低熵决策](../conferences/icml-2026/cards/2301-2400.md#lee26an-training-strategies) · ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training
+- [在末块量化时直接校准词表分布](../conferences/icml-2026/cards/2301-2400.md#lee26bi-training-strategies) · LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -103,6 +105,7 @@
 - [保留槽位的因素分区并在学习后回放解码器](../conferences/icml-2026/cards/2001-2100.md#kang26e-training-strategies) · Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning
 - [用熵导向扰动训练失真恢复](../conferences/icml-2026/cards/2201-2300.md#kumar26a-training-strategies) · Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks
 - [按学生不可学习区域选择教师熵](../conferences/icml-2026/cards/2301-2400.md#lee26g-training-strategies) · Toward Understanding Adversarial Distillation: Why Robust Teachers Fail
+- [在图像球面方向上配对并学习流](../conferences/icml-2026/cards/2301-2400.md#lee26x-training-strategies) · Geometry-Aware Image Flow Matching
 
 <a id="by-nlp"></a>
 
@@ -112,6 +115,12 @@
 - [以合成数据监督锚抑制属性奖励投机](../conferences/icml-2026/cards/1601-1700.md#hu26an-training-strategies) · ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control
 - [用对话答复构造改写偏好](../conferences/icml-2026/cards/2101-2200.md#kim26ak-training-strategies) · Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages
 - [用同语义跨时间的文档构造检索偏好](../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · Temporal Preference Optimization for Unsupervised Retrieval
+
+<a id="by-reinforcement-learning"></a>
+
+### 强化学习
+
+- [按宽度与深度缩放策略网络的参数和更新](../conferences/icml-2026/cards/2301-2400.md#lee26ai-training-strategies) · CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -124,6 +133,7 @@
 - [用频域监督衔接连续动作块](../conferences/icml-2026/cards/1501-1600.md#he26aq-training-strategies) · FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy
 - [让同一符号域提供规划示范与逐步反馈](../conferences/icml-2026/cards/1701-1800.md#huang26v-training-strategies) · Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation
 - [训练控制端显式处理过期语义](../conferences/icml-2026/cards/1701-1800.md#huang26cd-training-strategies) · TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments
+- [仿真与真实数据联合训练](../conferences/icml-2026/cards/2301-2400.md#lei26d-training-strategies) · A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies
 
 <a id="by-multimodal"></a>
 
@@ -154,6 +164,7 @@
 - [图文生成的持续跨模态对齐](../conferences/icml-2026/cards/2101-2200.md#kong26h-training-strategies) · ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation
 - [缺失模态的上下文提示](../conferences/icml-2026/cards/2201-2300.md#lang26a-training-strategies) · AOEPT: Breaking the Implicit Modality-Reduction Bottleneck in Modality-Missing Prompt Tuning
 - [蒸馏物体词组层级及跨模态关系](../conferences/icml-2026/cards/2201-2300.md#le26b-training-strategies) · HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models
+- [用同类跨模态随机配对平滑监督](../conferences/icml-2026/cards/2301-2400.md#lee26bk-training-strategies) · Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective
 
 <a id="by-ml-foundations"></a>
 
@@ -205,6 +216,7 @@
 - [以随机补全做条件，仅用真实观测训练去噪](../conferences/icml-2026/cards/2101-2200.md#kim26bh-training-strategies) · AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking
 - [轮流更新小权重切片保留累计方向](../conferences/icml-2026/cards/2201-2300.md#kowsher26b-training-strategies) · SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks
 - [基于上下文差异的零样本时序检测](../conferences/icml-2026/cards/2201-2300.md#lan26b-training-strategies) · Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy
+- [异构联邦模型的模块聚合](../conferences/icml-2026/cards/2301-2400.md#leng26b-training-strategies) · LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games
 
 <a id="by-graph-and-recommendation"></a>
 

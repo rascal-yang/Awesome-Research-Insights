@@ -44,6 +44,7 @@
 - <a id="kim26ca-architecture"></a>[Equivariant Neural Networks for General Linear Symmetries on Lie Algebras](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ca)
 - <a id="kong26f-architecture"></a>[Expand Neurons, Not Parameters](../conferences/icml-2026/cards/2101-2200.md#paper-kong26f)
 - <a id="larue26a-architecture"></a>[Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent](../conferences/icml-2026/cards/2201-2300.md#paper-larue26a)
+- <a id="lee26al-architecture"></a>[Generalizing Multi-Scale Time-Series Modeling with a Single Operator](../conferences/icml-2026/cards/2301-2400.md#paper-lee26al)
 
 <a id="by-modules"></a>
 
@@ -104,6 +105,8 @@
 - <a id="hwang26d-loss-functions"></a>[Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26d)
 - <a id="kavak26a-loss-functions"></a>[DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation](../conferences/icml-2026/cards/2001-2100.md#paper-kavak26a)
 - <a id="kim26ab-loss-functions"></a>[Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data](../conferences/icml-2026/cards/2101-2200.md#paper-kim26ab)
+- <a id="lee26aq-loss-functions"></a>[Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data](../conferences/icml-2026/cards/2301-2400.md#paper-lee26aq)
+- <a id="lee26bd-loss-functions"></a>[Contrastive Order Learning: A General Framework for Ordinal Regression](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bd)
 
 <a id="by-optimization"></a>
 
@@ -254,12 +257,16 @@
 - <a id="kurscheidt26a-optimization"></a>[The Theory and Practice of MAP Inference over Non-Convex Constraints](../conferences/icml-2026/cards/2201-2300.md#paper-kurscheidt26a)
 - <a id="laarmann26a-optimization"></a>[Search Space Synthesis for Parametric Functions](../conferences/icml-2026/cards/2201-2300.md#paper-laarmann26a)
 - <a id="lebeurrier26a-optimization"></a>[Path-conditioned training: a principled way to rescale ReLU neural networks](../conferences/icml-2026/cards/2201-2300.md#paper-lebeurrier26a)
+- <a id="lee26q-optimization"></a>[Decision-Focused Learning via Tangent-Space Projection of Prediction Error](../conferences/icml-2026/cards/2301-2400.md#paper-lee26q)
+- <a id="lee26ba-optimization"></a>[Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ba)
+- <a id="lee26bg-optimization"></a>[Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bg)
 
 <a id="by-reinforcement-learning"></a>
 
 ### 强化学习方法
 
 - <a id="jiang26n-reinforcement-learning"></a>[DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26n)
+- <a id="lee26ac-reinforcement-learning"></a>[RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ac)
 
 <a id="by-training-strategies"></a>
 
@@ -311,6 +318,7 @@
 - <a id="kim26bh-training-strategies"></a>[AugMask: Training Diffusion Models on Incomplete Tabular Data via Stochastic Augmentation and Masking](../conferences/icml-2026/cards/2101-2200.md#paper-kim26bh)
 - <a id="kowsher26b-training-strategies"></a>[SliceFine: The Universal Winning-Slice Hypothesis for Pretrained Networks](../conferences/icml-2026/cards/2201-2300.md#paper-kowsher26b)
 - <a id="lan26b-training-strategies"></a>[Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](../conferences/icml-2026/cards/2201-2300.md#paper-lan26b)
+- <a id="leng26b-training-strategies"></a>[LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games](../conferences/icml-2026/cards/2301-2400.md#paper-leng26b)
 
 <a id="by-data-strategies"></a>
 
@@ -330,6 +338,7 @@
 - <a id="ji26b-data-strategies"></a>[ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning](../conferences/icml-2026/cards/1801-1900.md#paper-ji26b)
 - <a id="kobayashi26a-data-strategies"></a>[Learning-To-Measure: In-Context Active Feature Acquisition](../conferences/icml-2026/cards/2101-2200.md#paper-kobayashi26a)
 - <a id="kumar26e-data-strategies"></a>[$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26e)
+- <a id="lee26af-data-strategies"></a>[Monotonic Variational Gaussian Process for Efficient Data Collection](../conferences/icml-2026/cards/2301-2400.md#paper-lee26af)
 
 <a id="by-inference"></a>
 
@@ -358,6 +367,9 @@
 - <a id="kim26u-inference"></a>[Inverting Data Transformations via Diffusion Sampling](../conferences/icml-2026/cards/2101-2200.md#paper-kim26u)
 - <a id="kubaty26a-inference"></a>[Rethinking Calibration for Early-Exit Neural Networks](../conferences/icml-2026/cards/2201-2300.md#paper-kubaty26a)
 - <a id="lai26g-inference"></a>[Adversarial Attack and Defense for Denoising Diffusion Sampling](../conferences/icml-2026/cards/2201-2300.md#paper-lai26g)
+- <a id="lee26n-inference"></a>[On the Collapse of Generative Paths: A Criterion and Correction for Diffusion Steering](../conferences/icml-2026/cards/2301-2400.md#paper-lee26n)
+- <a id="lee26ar-inference"></a>[Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ar)
+- <a id="lee26aw-inference"></a>[Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](../conferences/icml-2026/cards/2301-2400.md#paper-lee26aw)
 
 <a id="by-representation-learning"></a>
 
@@ -688,4 +700,11 @@
 - <a id="le26e-theory-statistics"></a>[Provably Data-driven Lagrangian Relaxation for Mixed Integer Linear Programming](../conferences/icml-2026/cards/2201-2300.md#paper-le26e)
 - <a id="le26f-theory-statistics"></a>[Provably Data-driven Multiple Hyper-parameter Tuning with Structured Loss Function](../conferences/icml-2026/cards/2201-2300.md#paper-le26f)
 - <a id="lederman26a-theory-statistics"></a>[The Catastrophic Failure of *the* k-Means Algorithm in High Dimensions, and How Hartigan’s Algorithm Avoids It](../conferences/icml-2026/cards/2301-2400.md#paper-lederman26a)
+- <a id="lee26z-theory-statistics"></a>[MEC: Machine-Learning-Assisted Generalized Entropy Calibration for Semi-Supervised Mean Estimation](../conferences/icml-2026/cards/2301-2400.md#paper-lee26z)
+- <a id="lee26ag-theory-statistics"></a>[Probabilistic Modeling of Latent Agentic Substructures in Deep Neural Networks](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ag)
+- <a id="lee26at-theory-statistics"></a>[Priority-Aware Shapley Value](../conferences/icml-2026/cards/2301-2400.md#paper-lee26at)
+- <a id="lee26bc-theory-statistics"></a>[Reflective Hamiltonian Monte Carlo: Mixing Analysis and Application to Sampling on Stiefel Manifold](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bc)
+- <a id="lee26bn-theory-statistics"></a>[Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bn)
+- <a id="lei26a-theory-statistics"></a>[Stability beyond Bounded Differences: Sharp Generalization Bounds under Finite $L_p$ Moments](../conferences/icml-2026/cards/2301-2400.md#paper-lei26a)
+- <a id="lei26f-theory-statistics"></a>[A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks](../conferences/icml-2026/cards/2301-2400.md#paper-lei26f)
 <!-- classification:end -->

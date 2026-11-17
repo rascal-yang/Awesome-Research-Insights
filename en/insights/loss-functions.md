@@ -29,6 +29,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Normalized Rewards for Preference Optimization](../../conferences/icml-2026/cards/1801-1900.md#im26a-loss-functions) · 中文
 - [Entropy-Aware On-Policy Distillation of Language Models](../../conferences/icml-2026/cards/1901-2000.md#jin26e-loss-functions) · 中文
 - [C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders](../../conferences/icml-2026/cards/1901-2000.md#jin26j-loss-functions) · 中文
+- [FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26bb-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -63,6 +64,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization](../../conferences/icml-2026/cards/1401-1500.md#hassen26a-loss-functions) · 中文
 - [Boosting World Models Learning via Latent-Space Value Alignment](../../conferences/icml-2026/cards/1901-2000.md#jiang26ai-loss-functions) · 中文
 - [Reward Learning through Ranking Mean Squared Error](../../conferences/icml-2026/cards/2001-2100.md#kharyal26a-loss-functions) · 中文
+- [Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods](../../conferences/icml-2026/cards/2301-2400.md#lee26aj-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -116,6 +118,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks](../../conferences/icml-2026/cards/1701-1800.md#hwang26d-loss-functions) · 中文
 - [DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation](../../conferences/icml-2026/cards/2001-2100.md#kavak26a-loss-functions) · 中文
 - [Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data](../../conferences/icml-2026/cards/2101-2200.md#kim26ab-loss-functions) · 中文
+- [Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data](../../conferences/icml-2026/cards/2301-2400.md#lee26aq-loss-functions) · 中文
+- [Contrastive Order Learning: A General Framework for Ordinal Regression](../../conferences/icml-2026/cards/2301-2400.md#lee26bd-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -127,6 +131,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](../../conferences/icml-2026/cards/0801-0900.md#deng26u-loss-functions) · 中文
 - [Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](../../conferences/icml-2026/cards/0901-1000.md#ding26v-loss-functions) · 中文
 - [Watermarking Graph Neural Networks via Explanations for Ownership Protection](../../conferences/icml-2026/cards/0901-1000.md#downer26a-loss-functions) · 中文
+- [Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](../../conferences/icml-2026/cards/2301-2400.md#lee26w-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

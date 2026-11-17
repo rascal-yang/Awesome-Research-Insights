@@ -7,7 +7,7 @@ Learning from interaction, feedback, and offline experience.
 <!-- classification:start -->
 ## Browse by Technique
 
-[Architectures](#by-architecture) · [Loss Functions](#by-loss-functions) · [Optimization](#by-optimization) · [Reinforcement Learning Methods](#by-reinforcement-learning) · [Data Strategies](#by-data-strategies) · [Inference Strategies](#by-inference) · [Representation Learning](#by-representation-learning) · [Evaluation and Diagnostics](#by-evaluation) · [Theory and Statistics](#by-theory-statistics)
+[Architectures](#by-architecture) · [Loss Functions](#by-loss-functions) · [Optimization](#by-optimization) · [Reinforcement Learning Methods](#by-reinforcement-learning) · [Training Strategies](#by-training-strategies) · [Data Strategies](#by-data-strategies) · [Inference Strategies](#by-inference) · [Representation Learning](#by-representation-learning) · [Evaluation and Diagnostics](#by-evaluation) · [Theory and Statistics](#by-theory-statistics)
 
 <a id="by-architecture"></a>
 
@@ -17,6 +17,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="huang26ba-architecture"></a>[VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ba)
 - <a id="koeppe26a-architecture"></a>[Mitigating Plasticity Loss through Architectural Design in Continual Learning](../../conferences/icml-2026/cards/2101-2200.md#paper-koeppe26a)
 - <a id="kresse26a-architecture"></a>[Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](../../conferences/icml-2026/cards/2201-2300.md#paper-kresse26a)
+- <a id="lei26g-architecture"></a>[QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26g)
 
 <a id="by-loss-functions"></a>
 
@@ -26,6 +27,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="hassen26a-loss-functions"></a>[Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization](../../conferences/icml-2026/cards/1401-1500.md#paper-hassen26a)
 - <a id="jiang26ai-loss-functions"></a>[Boosting World Models Learning via Latent-Space Value Alignment](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ai)
 - <a id="kharyal26a-loss-functions"></a>[Reward Learning through Ranking Mean Squared Error](../../conferences/icml-2026/cards/2001-2100.md#paper-kharyal26a)
+- <a id="lee26aj-loss-functions"></a>[Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26aj)
 
 <a id="by-optimization"></a>
 
@@ -109,7 +111,16 @@ Learning from interaction, feedback, and offline experience.
 - <a id="kong26e-reinforcement-learning"></a>[Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26e)
 - <a id="kwon26c-reinforcement-learning"></a>[Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed](../../conferences/icml-2026/cards/2201-2300.md#paper-kwon26c)
 - <a id="le26a-reinforcement-learning"></a>[Trust-Region Diffusion Policies for Massively Parallel On-Policy RL](../../conferences/icml-2026/cards/2201-2300.md#paper-le26a)
+- <a id="lee26s-reinforcement-learning"></a>[Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26s)
+- <a id="lee26t-reinforcement-learning"></a>[Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26t)
+- <a id="lee26ae-reinforcement-learning"></a>[Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ae)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
+
+<a id="by-training-strategies"></a>
+
+### Training Strategies
+
+- <a id="lee26ai-training-strategies"></a>[CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ai)
 
 <a id="by-data-strategies"></a>
 
@@ -152,6 +163,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="guo26f-evaluation"></a>[PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26f)
 - <a id="jing26d-evaluation"></a>[Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26d)
 - <a id="lazri26a-evaluation"></a>[MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../../conferences/icml-2026/cards/2201-2300.md#paper-lazri26a)
+- <a id="lee26az-evaluation"></a>[TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26az)
 
 <a id="by-theory-statistics"></a>
 
@@ -197,4 +209,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="labbi26a-theory-statistics"></a>[Refined Analysis of Entropy-Regularized Actor-Critic](../../conferences/icml-2026/cards/2201-2300.md#paper-labbi26a)
 - <a id="lambrecht26a-theory-statistics"></a>[Population-Aware Imitation Learning in Mean-field Games with Common Noise](../../conferences/icml-2026/cards/2201-2300.md#paper-lambrecht26a)
 - <a id="lederer26a-theory-statistics"></a>[Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes](../../conferences/icml-2026/cards/2301-2400.md#paper-lederer26a)
+- <a id="lee26o-theory-statistics"></a>[Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26o)
+- <a id="lee26bf-theory-statistics"></a>[Emergent Communication Under Misinformation](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bf)
+- <a id="lefebvre26a-theory-statistics"></a>[The Cost of Commitment in Option-Based Hierarchical RL](../../conferences/icml-2026/cards/2301-2400.md#paper-lefebvre26a)
 <!-- classification:end -->

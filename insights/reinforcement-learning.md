@@ -94,6 +94,9 @@
 - [对开放式任务按课程轮换偏好准则](../conferences/icml-2026/cards/2201-2300.md#krishnan26a-reinforcement-learning) · Rubric Curriculum RL: Exploiting the Generation-Verification Gap in Non-Verifiable Domains
 - [以可计算概率的约束采样覆盖稀有推理轨迹](../conferences/icml-2026/cards/2201-2300.md#kung26a-reinforcement-learning) · Learning Structured Reasoning via Tractable Trajectory Control
 - [以两条终止轨迹相消未知奖励归一化常数](../conferences/icml-2026/cards/2201-2300.md#kwon26a-reinforcement-learning) · Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance
+- [用高熵分支重塑反向 KL 的参考锚点](../conferences/icml-2026/cards/2301-2400.md#lee26r-reinforcement-learning) · SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs
+- [每条提示直接求满足 KL 预算的优势权重](../conferences/icml-2026/cards/2301-2400.md#lee26au-reinforcement-learning) · QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning
+- [自博弈出题的单类新颖奖励](../conferences/icml-2026/cards/2301-2400.md#lee26ay-reinforcement-learning) · OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards
 
 <a id="by-computer-vision"></a>
 
@@ -189,6 +192,9 @@
 - [球面成本流策略与组合求解](../conferences/icml-2026/cards/2101-2200.md#kong26e-reinforcement-learning) · Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions
 - [用预测时域安全屏蔽修正分布外控制动作](../conferences/icml-2026/cards/2201-2300.md#kwon26c-reinforcement-learning) · Safety Generalization Under Distribution Shift in Safe Reinforcement Learning: A Diabetes Testbed
 - [用联合去噪轨迹设扩散策略信赖域](../conferences/icml-2026/cards/2201-2300.md#le26a-reinforcement-learning) · Trust-Region Diffusion Policies for Massively Parallel On-Policy RL
+- [按跨组互信息构造协作中断训练样本](../conferences/icml-2026/cards/2301-2400.md#lee26s-reinforcement-learning) · Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning
+- [用单步流锚点约束噪声条件价值学习](../conferences/icml-2026/cards/2301-2400.md#lee26t-reinforcement-learning) · Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning
+- [用量子最小值搜索替换鲁棒 Bellman 内层枚举](../conferences/icml-2026/cards/2301-2400.md#lee26ae-reinforcement-learning) · Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -202,6 +208,7 @@
 - [从关节动力学选可控的低维动作](../conferences/icml-2026/cards/1501-1600.md#heald26a-reinforcement-learning) · Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands
 - [以有方向的运动代价和尾部风险训练策略](../conferences/icml-2026/cards/1501-1600.md#hossain26a-reinforcement-learning) · Learning Anisotropic Value Geometry with Finsler Reinforcement Learning
 - [将动作去噪向量场限制为标量能量梯度](../conferences/icml-2026/cards/1801-1900.md#ji26e-reinforcement-learning) · Recovering Hidden Reward in Diffusion-Based Policies
+- [动作策略的潜在推理](../conferences/icml-2026/cards/2301-2400.md#lei26e-reinforcement-learning) · Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models
 
 <a id="by-multimodal"></a>
 
@@ -235,6 +242,7 @@
 ### 机器学习基础与统计
 
 - [用发射预测误差信号估计离散状态](../conferences/icml-2026/cards/1901-2000.md#jiang26n-reinforcement-learning) · DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes
+- [只让强化学习策略逐轮修改少量整数变量](../conferences/icml-2026/cards/2301-2400.md#lee26ac-reinforcement-learning) · RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -190,6 +190,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing](../../conferences/icml-2026/cards/2201-2300.md#lasy26a-evaluation) · 中文
 - [Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects](../../conferences/icml-2026/cards/2301-2400.md#lee26a-evaluation) · 中文
 - [Decomposing Query-Key Feature Interactions Using Contrastive Covariances](../../conferences/icml-2026/cards/2301-2400.md#lee26b-evaluation) · 中文
+- [The Efficiency Gap in Byte Modeling](../../conferences/icml-2026/cards/2301-2400.md#lee26bh-evaluation) · 中文
+- [Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook](../../conferences/icml-2026/cards/2301-2400.md#lee26bj-evaluation) · 中文
+- [A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors](../../conferences/icml-2026/cards/2301-2400.md#lei26c-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -228,6 +231,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Finding DoRI: Discovery of Retained Images in Diffusion Models](../../conferences/icml-2026/cards/2201-2300.md#kowalczuk26a-evaluation) · 中文
 - [Unifying Deep Stochastic Processes for Image Enhancement](../../conferences/icml-2026/cards/2201-2300.md#kozlowski26a-evaluation) · 中文
 - [When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability](../../conferences/icml-2026/cards/2201-2300.md#kuang26a-evaluation) · 中文
+- [Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective](../../conferences/icml-2026/cards/2301-2400.md#lee26bm-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -259,6 +263,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](../../conferences/icml-2026/cards/1301-1400.md#guo26f-evaluation) · 中文
 - [Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · 中文
 - [MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · 中文
+- [TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -323,6 +328,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding](../../conferences/icml-2026/cards/2201-2300.md#kou26c-evaluation) · 中文
 - [LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](../../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · 中文
 - [Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models](../../conferences/icml-2026/cards/2201-2300.md#lai26e-evaluation) · 中文
+- [Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark](../../conferences/icml-2026/cards/2301-2400.md#leng26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

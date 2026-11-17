@@ -160,6 +160,8 @@
 - [用历史与草稿联合选择验证缓存](../conferences/icml-2026/cards/2301-2400.md#lee26d-inference) · Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding
 - [按注意力上下文变化刷新扩散解码缓存](../conferences/icml-2026/cards/2301-2400.md#lee26i-inference) · DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention
 - [将注意力的 KV 读取转成有界抽样预算](../conferences/icml-2026/cards/2301-2400.md#lee26j-inference) · Stochastic Sparse Attention for Memory-Bound Inference
+- [用扩散模型自身的不确定性筛解掩路径](../conferences/icml-2026/cards/2301-2400.md#lee26ab-inference) · Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models
+- [无标签的验证器集成选答](../conferences/icml-2026/cards/2301-2400.md#lee26av-inference) · FUSE: Ensembling Verifiers with Zero Labeled Data
 
 <a id="by-computer-vision"></a>
 
@@ -219,6 +221,7 @@
 - [把去噪器评估挪到估计的目标端点](../conferences/icml-2026/cards/1901-2000.md#jiao26e-inference) · Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach
 - [以前瞻样本估未来奖赏并免反传引导](../conferences/icml-2026/cards/2101-2200.md#kim26bo-inference) · Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models
 - [对生成早期特征的空间均值做衰减](../conferences/icml-2026/cards/2201-2300.md#kwon26d-inference) · Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation
+- [固定预算扩散缓存](../conferences/icml-2026/cards/2301-2400.md#lei26j-inference) · Budget-Constrained Step-Level Diffusion Caching
 
 <a id="by-nlp"></a>
 
@@ -272,6 +275,7 @@
 - [按当前观察预测整条去噪剪枝图](../conferences/icml-2026/cards/1801-1900.md#ji26o-inference) · Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning
 - [逐级缩小符号规划范围并验证关键规则](../conferences/icml-2026/cards/1901-2000.md#jiang26av-inference) · DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+
 - [在机器人动作采样前计入时序约束](../conferences/icml-2026/cards/2001-2100.md#kapoor26a-inference) · SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies
+- [冻结 VLA 的实例级视觉提示](../conferences/icml-2026/cards/2301-2400.md#lee26ax-inference) · Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting
 
 <a id="by-multimodal"></a>
 
@@ -321,6 +325,8 @@
 - [先否决扩散解码中不稳定或无图像依据的词元](../conferences/icml-2026/cards/2101-2200.md#kim26al-inference) · ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding
 - [按跨增广稳定性和局部密度选择视图](../conferences/icml-2026/cards/2101-2200.md#kim26bt-inference) · SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models
 - [从弱相似视觉补丁恢复指代区域](../conferences/icml-2026/cards/2301-2400.md#lee26e-inference) · CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models
+- [按表征跨层变化为视觉区域分配裁剪预算](../conferences/icml-2026/cards/2301-2400.md#lee26ap-inference) · SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models
+- [高分辨率界面的主动定位](../conferences/icml-2026/cards/2301-2400.md#lei26h-inference) · GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding
 
 <a id="by-ml-foundations"></a>
 
@@ -349,6 +355,9 @@
 - [在变换群上采后验并用逆作用校准输入](../conferences/icml-2026/cards/2101-2200.md#kim26u-inference) · Inverting Data Transformations via Diffusion Sampling
 - [用继续计算的收益训练早退门控](../conferences/icml-2026/cards/2201-2300.md#kubaty26a-inference) · Rethinking Calibration for Early-Exit Neural Networks
 - [最小化势能时显式压低局部变化以抵抗采样扰动](../conferences/icml-2026/cards/2201-2300.md#lai26g-inference) · Adversarial Attack and Defense for Denoising Diffusion Sampling
+- [沿采样路径检查密度比的归一性](../conferences/icml-2026/cards/2301-2400.md#lee26n-inference) · On the Collapse of Generative Paths: A Criterion and Correction for Diffusion Steering
+- [只调输入的分片边界和个数来给故障 SNN 降负荷](../conferences/icml-2026/cards/2301-2400.md#lee26ar-inference) · Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation
+- [表格 ICL 的后验先验校正](../conferences/icml-2026/cards/2301-2400.md#lee26aw-inference) · Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment
 
 <a id="by-graph-and-recommendation"></a>
 

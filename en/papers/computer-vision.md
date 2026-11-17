@@ -38,6 +38,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="jiang26ah-architecture"></a>[Visual Implicit Autoregressive Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ah)
 - <a id="jiang26bb-architecture"></a>[StructMamPose: From Sequential Perception to Structural Reasoning for 3D Human Pose Estimation](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26bb)
 - <a id="khazoum26a-architecture"></a>[A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments](../../conferences/icml-2026/cards/2001-2100.md#paper-khazoum26a)
+- <a id="lee26ao-architecture"></a>[PhysHanDI: Physics-Based Reconstruction of Hand-Deformable Object Interactions](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ao)
+- <a id="lei26b-architecture"></a>[Synergistic Space-Vision Processing for Predicate Inference](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26b)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -104,6 +106,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="kim26ax-optimization"></a>[MoCo-EA: Exploiting Adversarial Mode Connectivity for Efficient Evolutionary Attacks](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ax)
 - <a id="la-rosa26a-optimization"></a>[Guaranteed Optimal Compositional Explanations for Neurons](../../conferences/icml-2026/cards/2201-2300.md#paper-la-rosa26a)
 - <a id="lai26d-optimization"></a>[MoCL: Metabolic Optimization for Curvature-Aware Continual Learning](../../conferences/icml-2026/cards/2201-2300.md#paper-lai26d)
+- <a id="lee26ak-optimization"></a>[UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ak)
+- <a id="lee26as-optimization"></a>[Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26as)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -144,6 +148,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="kang26e-training-strategies"></a>[Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26e)
 - <a id="kumar26a-training-strategies"></a>[Feature Collapse Under Corruption: An Entropy Perspective on Robust Neural Networks](../../conferences/icml-2026/cards/2201-2300.md#paper-kumar26a)
 - <a id="lee26g-training-strategies"></a>[Toward Understanding Adversarial Distillation: Why Robust Teachers Fail](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26g)
+- <a id="lee26x-training-strategies"></a>[Geometry-Aware Image Flow Matching](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26x)
 
 <a id="by-data-strategies"></a>
 
@@ -218,6 +223,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="jiao26e-inference"></a>[Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach](../../conferences/icml-2026/cards/1901-2000.md#paper-jiao26e)
 - <a id="kim26bo-inference"></a>[Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bo)
 - <a id="kwon26d-inference"></a>[Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation](../../conferences/icml-2026/cards/2201-2300.md#paper-kwon26d)
+- <a id="lei26j-inference"></a>[Budget-Constrained Step-Level Diffusion Caching](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26j)
 
 <a id="by-representation-learning"></a>
 
@@ -252,6 +258,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="kim26p-representation-learning"></a>[Equivariant Latent Alignment via Flow Matching under Group Symmetries](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26p)
 - <a id="kim26bx-representation-learning"></a>[ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bx)
 - <a id="kong26b-representation-learning"></a>[Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds](../../conferences/icml-2026/cards/2101-2200.md#paper-kong26b)
+- <a id="lee26l-representation-learning"></a>[Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26l)
 
 <a id="by-evaluation"></a>
 
@@ -290,6 +297,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="kowalczuk26a-evaluation"></a>[Finding DoRI: Discovery of Retained Images in Diffusion Models](../../conferences/icml-2026/cards/2201-2300.md#paper-kowalczuk26a)
 - <a id="kozlowski26a-evaluation"></a>[Unifying Deep Stochastic Processes for Image Enhancement](../../conferences/icml-2026/cards/2201-2300.md#paper-kozlowski26a)
 - <a id="kuang26a-evaluation"></a>[When Random Saliency Looks Trained: Architectural Center Bias in CNN Interpretability](../../conferences/icml-2026/cards/2201-2300.md#paper-kuang26a)
+- <a id="lee26bm-evaluation"></a>[Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bm)
 
 <a id="by-theory-statistics"></a>
 

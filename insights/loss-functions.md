@@ -29,6 +29,7 @@
 - [偏好对的总概率约束](../conferences/icml-2026/cards/1801-1900.md#im26a-loss-functions) · Normalized Rewards for Preference Optimization
 - [让教师词元熵决定何时补正向 KL](../conferences/icml-2026/cards/1901-2000.md#jin26e-loss-functions) · Entropy-Aware On-Policy Distillation of Language Models
 - [按解码方向筛选跨样本冗余激活](../conferences/icml-2026/cards/1901-2000.md#jin26j-loss-functions) · C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders
+- [剪枝语言模型的循环起点纠偏](../conferences/icml-2026/cards/2301-2400.md#lee26bb-loss-functions) · FOCUS & RePAIR: Mitigating Text Degeneration via Token-Level Guidance For Pruned Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -63,6 +64,7 @@
 - [用频域平滑正则降低随机流训练方差](../conferences/icml-2026/cards/1401-1500.md#hassen26a-loss-functions) · Spectral Flow Matching: Stabilizing Stochastic GFlowNets via Frequency-Domain Regularization
 - [对齐潜状态与任务价值而保留预测损失](../conferences/icml-2026/cards/1901-2000.md#jiang26ai-loss-functions) · Boosting World Models Learning via Latent-Space Value Alignment
 - [按轨迹回报软排序学习序数评级](../conferences/icml-2026/cards/2001-2100.md#kharyal26a-loss-functions) · Reward Learning through Ranking Mean Squared Error
+- [约束 critic 的动作梯度来平滑策略](../conferences/icml-2026/cards/2301-2400.md#lee26aj-loss-functions) · Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods
 
 <a id="by-robotics"></a>
 
@@ -116,6 +118,8 @@
 - [用任务对称性约束加速迟发泛化](../conferences/icml-2026/cards/1701-1800.md#hwang26d-loss-functions) · Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks
 - [在目标条件下惩罚预测与偏差的依赖](../conferences/icml-2026/cards/2001-2100.md#kavak26a-loss-functions) · DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation
 - [无标签局部预测一致性](../conferences/icml-2026/cards/2101-2200.md#kim26ab-loss-functions) · Inconsistency-Aware Minimization: Improving Generalization with Unlabeled Data
+- [把带噪等级变成可比较的概率序](../conferences/icml-2026/cards/2301-2400.md#lee26aq-loss-functions) · Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data
+- [连续秩差的对比学习](../conferences/icml-2026/cards/2301-2400.md#lee26bd-loss-functions) · Contrastive Order Learning: A General Framework for Ordinal Regression
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -127,6 +131,7 @@
 - [图混合专家的分组对比路由](../conferences/icml-2026/cards/0801-0900.md#deng26u-loss-functions) · Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion
 - [属性图聚类的双视图去冗余](../conferences/icml-2026/cards/0901-1000.md#ding26v-loss-functions) · Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning
 - [基于子图解释的模型水印](../conferences/icml-2026/cards/0901-1000.md#downer26a-loss-functions) · Watermarking Graph Neural Networks via Explanations for Ownership Protection
+- [按邻居类型重写图推荐的负样本分数](../conferences/icml-2026/cards/2301-2400.md#lee26w-loss-functions) · Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy
 
 <a id="by-scientific-ml"></a>
 

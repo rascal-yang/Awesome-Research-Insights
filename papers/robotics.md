@@ -63,6 +63,7 @@
 - <a id="heald26a-reinforcement-learning"></a>[Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands](../conferences/icml-2026/cards/1501-1600.md#paper-heald26a)
 - <a id="hossain26a-reinforcement-learning"></a>[Learning Anisotropic Value Geometry with Finsler Reinforcement Learning](../conferences/icml-2026/cards/1501-1600.md#paper-hossain26a)
 - <a id="ji26e-reinforcement-learning"></a>[Recovering Hidden Reward in Diffusion-Based Policies](../conferences/icml-2026/cards/1801-1900.md#paper-ji26e)
+- <a id="lei26e-reinforcement-learning"></a>[Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../conferences/icml-2026/cards/2301-2400.md#paper-lei26e)
 
 <a id="by-training-strategies"></a>
 
@@ -75,6 +76,7 @@
 - <a id="he26aq-training-strategies"></a>[FocalPolicy: Frequency-Optimized Chunking and Locally Anchored Flow Matching for Coherent Visuomotor Policy](../conferences/icml-2026/cards/1501-1600.md#paper-he26aq)
 - <a id="huang26v-training-strategies"></a>[Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](../conferences/icml-2026/cards/1701-1800.md#paper-huang26v)
 - <a id="huang26cd-training-strategies"></a>[TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](../conferences/icml-2026/cards/1701-1800.md#paper-huang26cd)
+- <a id="lei26d-training-strategies"></a>[A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](../conferences/icml-2026/cards/2301-2400.md#paper-lei26d)
 
 <a id="by-data-strategies"></a>
 
@@ -114,6 +116,7 @@
 - <a id="ji26o-inference"></a>[Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](../conferences/icml-2026/cards/1801-1900.md#paper-ji26o)
 - <a id="jiang26av-inference"></a>[DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26av)
 - <a id="kapoor26a-inference"></a>[SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies](../conferences/icml-2026/cards/2001-2100.md#paper-kapoor26a)
+- <a id="lee26ax-inference"></a>[Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ax)
 
 <a id="by-representation-learning"></a>
 
@@ -123,6 +126,7 @@
 - <a id="habashy26a-representation-learning"></a>[Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](../conferences/icml-2026/cards/1401-1500.md#paper-habashy26a)
 - <a id="he26ao-representation-learning"></a>[Motion Dynamics Learning for Few-Shot Embodied Adaptation](../conferences/icml-2026/cards/1501-1600.md#paper-he26ao)
 - <a id="huang26bv-representation-learning"></a>[Cross-Embodiment Robot Foundation World Models with Latent Actions](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bv)
+- <a id="lee26am-representation-learning"></a>[MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](../conferences/icml-2026/cards/2301-2400.md#paper-lee26am)
 
 <a id="by-evaluation"></a>
 

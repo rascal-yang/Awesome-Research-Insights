@@ -41,6 +41,7 @@ Data selection, annotation, augmentation, and sampling.
 - [The Signal is in the Steps: Local Scoring for Reasoning Data Selection](../../conferences/icml-2026/cards/2001-2100.md#just26a-data-strategies) · 中文
 - [Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment](../../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · 中文
 - [Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](../../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · 中文
+- [From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](../../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -110,6 +111,7 @@ Data selection, annotation, augmentation, and sampling.
 - [From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping](../../conferences/icml-2026/cards/1501-1600.md#he26au-data-strategies) · 中文
 - [TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution](../../conferences/icml-2026/cards/1901-2000.md#jiang26p-data-strategies) · 中文
 - [IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency](../../conferences/icml-2026/cards/2001-2100.md#ke26e-data-strategies) · 中文
+- [Focusing Where Vision Matters: Selective Training for Large Vision Language Models via Visual Information Gain](../../conferences/icml-2026/cards/2301-2400.md#lee26m-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -129,6 +131,7 @@ Data selection, annotation, augmentation, and sampling.
 - [ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning](../../conferences/icml-2026/cards/1801-1900.md#ji26b-data-strategies) · 中文
 - [Learning-To-Measure: In-Context Active Feature Acquisition](../../conferences/icml-2026/cards/2101-2200.md#kobayashi26a-data-strategies) · 中文
 - [$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation](../../conferences/icml-2026/cards/2201-2300.md#kumar26e-data-strategies) · 中文
+- [Monotonic Variational Gaussian Process for Efficient Data Collection](../../conferences/icml-2026/cards/2301-2400.md#lee26af-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

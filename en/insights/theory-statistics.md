@@ -40,6 +40,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning](../../conferences/icml-2026/cards/2101-2200.md#kong26c-theory-statistics) · 中文
 - [The Axiomatic Value of Regularization in AI Alignment from Human Preferences](../../conferences/icml-2026/cards/2201-2300.md#korkmaz26a-theory-statistics) · 中文
 - [Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics](../../conferences/icml-2026/cards/2201-2300.md#koubbi26a-theory-statistics) · 中文
+- [Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models](../../conferences/icml-2026/cards/2301-2400.md#lee26be-theory-statistics) · 中文
+- [How to Correctly Report LLM-as-a-Judge Evaluations](../../conferences/icml-2026/cards/2301-2400.md#lee26bl-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -102,6 +104,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Refined Analysis of Entropy-Regularized Actor-Critic](../../conferences/icml-2026/cards/2201-2300.md#labbi26a-theory-statistics) · 中文
 - [Population-Aware Imitation Learning in Mean-field Games with Common Noise](../../conferences/icml-2026/cards/2201-2300.md#lambrecht26a-theory-statistics) · 中文
 - [Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes](../../conferences/icml-2026/cards/2301-2400.md#lederer26a-theory-statistics) · 中文
+- [Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26o-theory-statistics) · 中文
+- [Emergent Communication Under Misinformation](../../conferences/icml-2026/cards/2301-2400.md#lee26bf-theory-statistics) · 中文
+- [The Cost of Commitment in Option-Based Hierarchical RL](../../conferences/icml-2026/cards/2301-2400.md#lefebvre26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -370,6 +375,13 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Provably Data-driven Lagrangian Relaxation for Mixed Integer Linear Programming](../../conferences/icml-2026/cards/2201-2300.md#le26e-theory-statistics) · 中文
 - [Provably Data-driven Multiple Hyper-parameter Tuning with Structured Loss Function](../../conferences/icml-2026/cards/2201-2300.md#le26f-theory-statistics) · 中文
 - [The Catastrophic Failure of *the* k-Means Algorithm in High Dimensions, and How Hartigan’s Algorithm Avoids It](../../conferences/icml-2026/cards/2301-2400.md#lederman26a-theory-statistics) · 中文
+- [MEC: Machine-Learning-Assisted Generalized Entropy Calibration for Semi-Supervised Mean Estimation](../../conferences/icml-2026/cards/2301-2400.md#lee26z-theory-statistics) · 中文
+- [Probabilistic Modeling of Latent Agentic Substructures in Deep Neural Networks](../../conferences/icml-2026/cards/2301-2400.md#lee26ag-theory-statistics) · 中文
+- [Priority-Aware Shapley Value](../../conferences/icml-2026/cards/2301-2400.md#lee26at-theory-statistics) · 中文
+- [Reflective Hamiltonian Monte Carlo: Mixing Analysis and Application to Sampling on Stiefel Manifold](../../conferences/icml-2026/cards/2301-2400.md#lee26bc-theory-statistics) · 中文
+- [Root Cause Analysis of Failures in Microservices via Bayesian Root Cause Discovery](../../conferences/icml-2026/cards/2301-2400.md#lee26bn-theory-statistics) · 中文
+- [Stability beyond Bounded Differences: Sharp Generalization Bounds under Finite $L_p$ Moments](../../conferences/icml-2026/cards/2301-2400.md#lei26a-theory-statistics) · 中文
+- [A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks](../../conferences/icml-2026/cards/2301-2400.md#lei26f-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

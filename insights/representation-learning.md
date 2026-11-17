@@ -53,6 +53,7 @@
 - [在解析旋转之后学习潜空间剩余位移](../conferences/icml-2026/cards/2101-2200.md#kim26p-representation-learning) · Equivariant Latent Alignment via Flow Matching under Group Symmetries
 - [在有界码本内用角边际拉开量化方向](../conferences/icml-2026/cards/2101-2200.md#kim26bx-representation-learning) · ArcVQ-VAE: A Spherical Vector Quantization Framework with ArcCosine Additive Margin
 - [让符号相位与距离场各自学习再耦合](../conferences/icml-2026/cards/2101-2200.md#kong26b-representation-learning) · Metric—Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds
+- [用共享合并树对齐多种生成长度](../conferences/icml-2026/cards/2301-2400.md#lee26l-representation-learning) · Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers
 
 <a id="by-nlp"></a>
 
@@ -85,6 +86,7 @@
 - [空间语义指针的测地流去噪](../conferences/icml-2026/cards/1401-1500.md#habashy26a-representation-learning) · Geodesic Flow Matching for Denoising High-Dimensional Structured Representations
 - [用先验动作库约束少样本轨迹适配](../conferences/icml-2026/cards/1501-1600.md#he26ao-representation-learning) · Motion Dynamics Learning for Few-Shot Embodied Adaptation
 - [用观察变化学习跨形态潜动作](../conferences/icml-2026/cards/1701-1800.md#huang26bv-representation-learning) · Cross-Embodiment Robot Foundation World Models with Latent Actions
+- [让一台相机编码的动作能预测另一台相机的未来](../conferences/icml-2026/cards/2301-2400.md#lee26am-representation-learning) · MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction
 
 <a id="by-multimodal"></a>
 
@@ -158,6 +160,8 @@
 - [让共识锚的超边和缺失权重共同决定聚类](../conferences/icml-2026/cards/1601-1700.md#hu26ag-representation-learning) · A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering
 - [把程序扩展特性和危险子结构写进图](../conferences/icml-2026/cards/1701-1800.md#huang26bs-representation-learning) · Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection
 - [先重建节点潜空间再采样新图](../conferences/icml-2026/cards/1901-2000.md#jiang26b-representation-learning) · Efficient Synthetic Network Generation via Latent Embedding Reconstruction
+- [让超关系图扩散同时补任意数量的空位](../conferences/icml-2026/cards/2301-2400.md#lee26ad-representation-learning) · Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion
+- [把同一节点特征跨传播算子的视图交给共享映射](../conferences/icml-2026/cards/2301-2400.md#lee26ah-representation-learning) · View Space: Learning Representation across Arbitrary Graphs
 
 <a id="by-scientific-ml"></a>
 
