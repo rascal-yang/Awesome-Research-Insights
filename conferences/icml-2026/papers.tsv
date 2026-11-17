@@ -3329,16 +3329,16 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3328	mo26f	Open-World LLM Logical Reasoning	https://proceedings.mlr.press/v306/mo26f.html	具体改变缺前提的语言逻辑推断流程：符号化后用solver定位缺口，只补最少必要前提，并分开逻辑验证和事实验证；第3–5页方法，第7页表5拆翻译/补全/两验证器。独立双层验证接口可用，不等同只拼RAG；LLM事实验证也可能出错，逻辑可满足并不保证事实真实。	written
 3329	modenbach26a	A geometric relation of the error introduced by sampling a language model’s output distribution to its internal state	https://proceedings.mlr.press/v306/modenbach26a.html	具体改变token采样误差与内部状态关系的诊断：由token嵌入几何构造so(n)值1-form及曲率，原文第8页以同Frobenius范数随机旋转作对照，区分几何结构信号与任意旋转效应。独立分析操作可用于检查表征几何，证据限所测棋类状态，不能当通用世界模型或改善推断的证明。	written
 3330	modoranu26a	DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers	https://proceedings.mlr.press/v306/modoranu26a.html	具体改变Shampoo预条件器实现和数值算法：批叠块矩阵提升GPU利用，比较Newton-DB与Chebyshev逆根及矩阵缩放；PDF第3页明确NDB在FP16不稳，第6页给批矩阵实现。独立求解器与数值失败经验可用，不将单纯更快内核当唯一贡献，精度选择需按算法分别验证。	written
-3331	moeini26a	Safe In-Context Reinforcement Learning	https://proceedings.mlr.press/v306/moeini26a.html		written
-3332	mogilevsky26a	d$^2$p: Structured Soft Attention Is All You Need	https://proceedings.mlr.press/v306/mogilevsky26a.html		written
-3333	mohammed26a	GEM-FI: Gated Evidential Mixtures with Fisher Modulation	https://proceedings.mlr.press/v306/mohammed26a.html		written
-3334	mohan26a	Interpreting and Steering State-Space Models via Activation Subspace Bottlenecks	https://proceedings.mlr.press/v306/mohan26a.html		written
-3335	mohan26b	Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers	https://proceedings.mlr.press/v306/mohan26b.html		written
-3336	mohebbi26a	Counterfactual Residual Data Augmentation for Regression	https://proceedings.mlr.press/v306/mohebbi26a.html		written
-3337	mohri26a	Rational Transductors	https://proceedings.mlr.press/v306/mohri26a.html		written
-3338	mohri26b	Next-Token Prediction and Regret Minimization	https://proceedings.mlr.press/v306/mohri26b.html		written
-3339	mohri26c	Distributional Alignment Games for Answer-Level Fine-Tuning	https://proceedings.mlr.press/v306/mohri26c.html		written
-3340	mohri26d	Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction	https://proceedings.mlr.press/v306/mohri26d.html		written
+3331	moeini26a	Safe In-Context Reinforcement Learning	https://proceedings.mlr.press/v306/moeini26a.html	具体改变ICRL安全预算的预训练目标：PDF第4页对逐episode超预算部分用正部惩罚，避免约束已满足时继续牺牲回报，并学习按测试预算调节行为；第7页控制上下文/规模。独立约束损失及预算条件化与交互决策直接相关，平均成本受控不等于每次真机行动安全。	written
+3332	mogilevsky26a	d$^2$p: Structured Soft Attention Is All You Need	https://proceedings.mlr.press/v306/mogilevsky26a.html	具体改变可微DP中代价/温度的学习：DP边缘量本身是一阶导数，训练这些量需二阶交叉Jacobian/HVP；原文给12种DP的协方差闭式算子及融合实现，并比较冻结/学习gap penalties。独立导数算法超出纯CUDA工程，可用于结构注意力/对齐；任务和数值精度限制需保留。	written
+3333	mohammed26a	GEM-FI: Gated Evidential Mixtures with Fisher Modulation	https://proceedings.mlr.press/v306/mohammed26a.html	具体改变单次前向证据不确定性的输出结构：有界门抑制低支持证据，多头混合表示多模态不确定性，并以Fisher项稳定路由；PDF第6页明确最终门不强制随能量单调，第7页起拆门控/混合/FI。独立证据与正则接口可用，不把OOD分数当校准的通用保证。	written
+3334	mohan26a	Interpreting and Steering State-Space Models via Activation Subspace Bottlenecks	https://proceedings.mlr.press/v306/mohan26a.html	具体改变Mamba推断干预的选层/选子空间：PDF第4页结合敏感度和消融KL找瓶颈，以标量缩放激活；第7页比较不同层和子空间，第5–6页另作架构修改验证。可独立测试轻量引导，不把Stable-Mamba多个架构改动的收益都归因于同一瓶颈或所有任务通用。	written
+3335	mohan26b	Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers	https://proceedings.mlr.press/v306/mohan26b.html	具体改变Transformer跨token的计算路径：PDF第4页从token t高层向t+1低层加多路残差，第5页分组降低顺序代价；对比只传单状态的稀疏连接。独立拓扑可用于多步计算任务，需计训练/推断依赖与分组开销，不能只据parity正确率宣称普适推理。	written
+3336	mohebbi26a	Counterfactual Residual Data Augmentation for Regression	https://proceedings.mlr.press/v306/mohebbi26a.html	具体改变小样本回归增强标签的生成：保留拟合残差，在选择性小特征扰动后将其加回系统预测，利用局部残差稳定假设而非独立生成全表。原文方法与MLP/XGBoost等对照给可独立增强步骤；假设不满足时可能伪造样本，counterfactual名称不自动赋予因果干预含义。	written
+3337	mohri26a	Rational Transductors	https://proceedings.mlr.press/v306/mohri26a.html	具体改变序列骨干的状态接口：以WFA矩阵递归与Transformer双流结合，PDF第3页scaled Cayley参数化兼顾转移，第4–5页rational injection注入注意力。独立结构选择支持状态跟踪，理论表达类/对数深度并行条件不直接等于所有GPU实现高吞吐。	written
+3338	mohri26b	Next-Token Prediction and Regret Minimization	https://proceedings.mlr.press/v306/mohri26b.html	具体改变以next-token预测驱动在线决策时的上下文配置：原文区分无界窗口可小分布扰动低遗憾与有界窗口不可能性，给增加上下文或常数层的构造及小Transformer实验。直接针对深度预测器，不能把预测分布接近当对抗决策稳健的充分条件；理论访问/精度前提需保留。	written
+3339	mohri26c	Distributional Alignment Games for Answer-Level Fine-Tuning	https://proceedings.mlr.press/v306/mohri26c.html	具体改变只看最终答案的策略优化：用生成策略与辅助目标分布的对齐游戏替代对全部推理轨迹的直接边缘化，给投影算法与Coherence-GRPO实现；原文第3–6页构造、第8页含难度偏置实验。独立目标/算法可用，均衡等价不意味着有限训练一定找到全局均衡。	written
+3340	mohri26d	Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction	https://proceedings.mlr.press/v306/mohri26d.html	具体改变分类/结构预测的surrogate损失：用线性核心接平滑尾部，同时保持可微及线性一致性界；原文理论并在第6页起对实例依赖标签噪声和结构推断开销比较。独立损失可直接替换，界受假设类及分布条件限制，CIFAR改进不是任意噪声鲁棒保证。	written
 3341	mohri26e	Mind the Gap: Structure-Aware Consistency in Preference Learning	https://proceedings.mlr.press/v306/mohri26e.html		written
 3342	mohseni26a	Revisiting Neural Processes via Fourier Transform and Volterra Series	https://proceedings.mlr.press/v306/mohseni26a.html		written
 3343	monteiro26a	Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection	https://proceedings.mlr.press/v306/monteiro26a.html		written
