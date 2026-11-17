@@ -76,7 +76,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="chen26d-training-strategies"></a>[NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chen26d) | 终身轨迹规划 | 让非参数贝叶斯记忆按新驾驶场景增长簇，扩散规划器按簇专门化，并用旧簇生成回放样本以保留此前技能。 |
-| <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) | 部件位姿的弱监督对称估计 | 仅给出对称类型，让模型从点云和预测旋转估计对称轴概率。对镜面对称的候选平面，用原点云与镜像点云的 Chamfer 距离评估一致性，抑制缺少几何支持的平面。 |
+| <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) · [论文卡](../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw) | 部件位姿的弱监督对称估计 | 仅给出对称类型，让模型从点云和预测旋转估计对称轴概率。对镜面对称的候选平面，用原点云与镜像点云的 Chamfer 距离评估一致性，抑制缺少几何支持的平面。 |
 | <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) | 跨构型控制的奇异分量门控 | 将形态感知 Transformer 的权重拆成 SVD 秩一分量，训练时把分量分为通用、构型专用和任务专用三组。用肢体与关节参数以及任务文本生成软门控，部署时可重组与当前机器人和任务相关的控制器。 |
 | <a id="guo26i-training-strategies"></a>[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) | 视觉动作策略与世界模型的交替改进 | 先用当前机器人策略采集真实成功与失败轨迹，更新动作条件视频世界模型，再用它生成策略的额外滚动轨迹。将奖励模型筛出的成功合成轨迹和真实成功轨迹一起用于下一轮策略微调。 |
 

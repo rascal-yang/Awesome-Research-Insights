@@ -76,7 +76,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26d) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
-| [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) | [Read insight (中文)](../../papers/robotics.md#chen26fw-training-strategies) |
+| [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw) | [Read insight (中文)](../../papers/robotics.md#chen26fw-training-strategies) |
 | [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) | [Read insight (中文)](../../papers/robotics.md#feng26n-training-strategies) |
 | [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) | [Read insight (中文)](../../papers/robotics.md#guo26i-training-strategies) |
 
