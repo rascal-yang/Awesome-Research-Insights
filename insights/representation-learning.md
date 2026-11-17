@@ -143,6 +143,8 @@
 - [按采样质量对称归一化扩散核](../conferences/icml-2026/cards/2001-2100.md#kessler26a-representation-learning) · Sinkhorn Normalization of Diffusion Kernels
 - [以多尺度小波定位传感事件的词元边界](../conferences/icml-2026/cards/2101-2200.md#kimura26a-representation-learning) · Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals
 - [从目标和参考激活的协方差闭式分解记忆权重](../conferences/icml-2026/cards/2201-2300.md#kwon26b-representation-learning) · AI Engram: In Search of Memory Traces in Artificial Intelligence
+- [缺失多视图的标签原型贝叶斯融合](../conferences/icml-2026/cards/2401-2500.md#li26cg-representation-learning) · Label-Guided Representation Learning for Incomplete Multi-View Multi-Label Classification
+- [跨表格域的统一异常距离特征](../conferences/icml-2026/cards/2501-2600.md#li26du-representation-learning) · Towards One-for-All Anomaly Detection for Tabular Data
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -206,4 +208,5 @@
 - [皮层平面图上的 fMRI 掩码预训练](../conferences/icml-2026/cards/2201-2300.md#lane26a-representation-learning) · Scaling Vision Transformers for Functional MRI with Flat Maps
 - [生理时序的低冗余指纹](../conferences/icml-2026/cards/2401-2500.md#li26bg-representation-learning) · Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization
 - [无源新设备发现的正交锚点](../conferences/icml-2026/cards/2401-2500.md#li26bl-representation-learning) · Source-Free Open-World RF Fingerprint Identification
+- [把跨环境稳定的分子特征投到语义原型](../conferences/icml-2026/cards/2401-2500.md#li26ct-representation-learning) · Learning Molecular Semantic Invariant Representation with Prototype Constraint
 <!-- classification:end -->

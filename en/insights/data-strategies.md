@@ -59,6 +59,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery](../../conferences/icml-2026/cards/1601-1700.md#hou26a-data-strategies) · 中文
 - [VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection](../../conferences/icml-2026/cards/1601-1700.md#hu26bk-data-strategies) · 中文
 - [Geometrically Constrained Outlier Synthesis](../../conferences/icml-2026/cards/2001-2100.md#karzanov26a-data-strategies) · 中文
+- [GeoDM: Geometry-aware Distribution Matching for Dataset Distillation](../../conferences/icml-2026/cards/2501-2600.md#li26ea-data-strategies) · 中文
+- [Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](../../conferences/icml-2026/cards/2501-2600.md#li26ec-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -136,6 +138,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Learning-To-Measure: In-Context Active Feature Acquisition](../../conferences/icml-2026/cards/2101-2200.md#kobayashi26a-data-strategies) · 中文
 - [$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation](../../conferences/icml-2026/cards/2201-2300.md#kumar26e-data-strategies) · 中文
 - [Monotonic Variational Gaussian Process for Efficient Data Collection](../../conferences/icml-2026/cards/2301-2400.md#lee26af-data-strategies) · 中文
+- [GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cr-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

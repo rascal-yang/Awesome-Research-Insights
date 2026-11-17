@@ -81,6 +81,9 @@
 - [微调末几层改变贪婪解码的上下文排序](../conferences/icml-2026/cards/2401-2500.md#li26af-training-strategies) · Beyond Temperature: Hyperfitting as a Late-Stage Geometric Expansion
 - [离散扩散语言模型的逆向蒸馏](../conferences/icml-2026/cards/2401-2500.md#li26az-training-strategies) · IDLM: Inverse-distilled Diffusion Language Models
 - [自博弈题目的解法多样性](../conferences/icml-2026/cards/2401-2500.md#li26bh-training-strategies) · R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training
+- [扰动 RoPE 位置索引并要求两次预测一致](../conferences/icml-2026/cards/2401-2500.md#li26cs-training-strategies) · Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation
+- [语义与偏好双轴课程的层间监控](../conferences/icml-2026/cards/2501-2600.md#li26ds-training-strategies) · Layer-wise Gradient Disentanglement: Decoupling Semantics and Preferences in Direct Preference Optimization
+- [按证明闭合反馈区分有效战术](../conferences/icml-2026/cards/2501-2600.md#li26ek-training-strategies) · OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving
 
 <a id="by-computer-vision"></a>
 
@@ -111,6 +114,11 @@
 - [按学生不可学习区域选择教师熵](../conferences/icml-2026/cards/2301-2400.md#lee26g-training-strategies) · Toward Understanding Adversarial Distillation: Why Robust Teachers Fail
 - [在图像球面方向上配对并学习流](../conferences/icml-2026/cards/2301-2400.md#lee26x-training-strategies) · Geometry-Aware Image Flow Matching
 - [用部件可供性图约束从文本生成的人物交互](../conferences/icml-2026/cards/2401-2500.md#li26ac-training-strategies) · HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance
+- [持续红外复原的通道扩展与复用](../conferences/icml-2026/cards/2401-2500.md#li26cp-training-strategies) · Expandable, Compressible, Mineable: Open-World Thermal Image Restoration
+- [按类别频率调三个去噪专家的共识门槛](../conferences/icml-2026/cards/2401-2500.md#li26cy-training-strategies) · CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels
+- [转换后按初始失真给 SNN 局部特征蒸馏加权](../conferences/icml-2026/cards/2401-2500.md#li26db-training-strategies) · High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation
+- [按渲染块残差加密高斯基元](../conferences/icml-2026/cards/2501-2600.md#li26em-training-strategies) · PCGS: Deblurring 3D Gaussian Splatting with Patch Comparison
+- [按实际输出漂移回收持续学习的秩](../conferences/icml-2026/cards/2501-2600.md#li26eq-training-strategies) · Energy-Structured Low-Rank Adaptation for Continual Learning
 
 <a id="by-nlp"></a>
 
@@ -224,6 +232,7 @@
 - [基于上下文差异的零样本时序检测](../conferences/icml-2026/cards/2201-2300.md#lan26b-training-strategies) · Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy
 - [异构联邦模型的模块聚合](../conferences/icml-2026/cards/2301-2400.md#leng26b-training-strategies) · LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games
 - [用排队预测决定每轮联邦训练做多少本地工作](../conferences/icml-2026/cards/2401-2500.md#li26ae-training-strategies) · FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training
+- [合并模型时校准共享方向的幅值](../conferences/icml-2026/cards/2501-2600.md#li26ep-training-strategies) · When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -260,4 +269,5 @@
 - [蒸馏逐切片特征以跨架构联合训练](../conferences/icml-2026/cards/1901-2000.md#jing26b-training-strategies) · Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration
 - [用解之间的物理差值为粗网格数据补监督](../conferences/icml-2026/cards/2101-2200.md#kim26q-training-strategies) · Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations
 - [只在训练时用原子轨迹教静态预测器](../conferences/icml-2026/cards/2101-2200.md#kim26au-training-strategies) · Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor
+- [按置信与分歧共同筛选分割伪标](../conferences/icml-2026/cards/2501-2600.md#li26et-training-strategies) · Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?
 <!-- classification:end -->

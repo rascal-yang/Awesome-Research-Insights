@@ -45,6 +45,7 @@
 - <a id="kong26f-architecture"></a>[Expand Neurons, Not Parameters](../conferences/icml-2026/cards/2101-2200.md#paper-kong26f)
 - <a id="larue26a-architecture"></a>[Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent](../conferences/icml-2026/cards/2201-2300.md#paper-larue26a)
 - <a id="lee26al-architecture"></a>[Generalizing Multi-Scale Time-Series Modeling with a Single Operator](../conferences/icml-2026/cards/2301-2400.md#paper-lee26al)
+- <a id="li26cx-architecture"></a>[FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences](../conferences/icml-2026/cards/2401-2500.md#paper-li26cx)
 
 <a id="by-modules"></a>
 
@@ -265,6 +266,7 @@
 - <a id="li26i-optimization"></a>[Improving the Robustness-Utility Trade-off in Decentralized Learning over Sparse Networks](../conferences/icml-2026/cards/2401-2500.md#paper-li26i)
 - <a id="li26ab-optimization"></a>[MoSSP: A Momentum-Based Single-Loop Stochastic Penalty Method for Nonconvex Constrained DC-regularized Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26ab)
 - <a id="li26as-optimization"></a>[Large Scale Manifold Balanced Clustering](../conferences/icml-2026/cards/2401-2500.md#paper-li26as)
+- <a id="li26dc-optimization"></a>[Breaking Multi-Task Curse: Reward-Weighted Evolution for Black-Box Many-Task Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26dc)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -325,6 +327,7 @@
 - <a id="lan26b-training-strategies"></a>[Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](../conferences/icml-2026/cards/2201-2300.md#paper-lan26b)
 - <a id="leng26b-training-strategies"></a>[LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games](../conferences/icml-2026/cards/2301-2400.md#paper-leng26b)
 - <a id="li26ae-training-strategies"></a>[FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training](../conferences/icml-2026/cards/2401-2500.md#paper-li26ae)
+- <a id="li26ep-training-strategies"></a>[When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](../conferences/icml-2026/cards/2501-2600.md#paper-li26ep)
 
 <a id="by-data-strategies"></a>
 
@@ -345,6 +348,7 @@
 - <a id="kobayashi26a-data-strategies"></a>[Learning-To-Measure: In-Context Active Feature Acquisition](../conferences/icml-2026/cards/2101-2200.md#paper-kobayashi26a)
 - <a id="kumar26e-data-strategies"></a>[$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26e)
 - <a id="lee26af-data-strategies"></a>[Monotonic Variational Gaussian Process for Efficient Data Collection](../conferences/icml-2026/cards/2301-2400.md#paper-lee26af)
+- <a id="li26cr-data-strategies"></a>[GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception](../conferences/icml-2026/cards/2401-2500.md#paper-li26cr)
 
 <a id="by-inference"></a>
 
@@ -407,6 +411,8 @@
 - <a id="kessler26a-representation-learning"></a>[Sinkhorn Normalization of Diffusion Kernels](../conferences/icml-2026/cards/2001-2100.md#paper-kessler26a)
 - <a id="kimura26a-representation-learning"></a>[Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals](../conferences/icml-2026/cards/2101-2200.md#paper-kimura26a)
 - <a id="kwon26b-representation-learning"></a>[AI Engram: In Search of Memory Traces in Artificial Intelligence](../conferences/icml-2026/cards/2201-2300.md#paper-kwon26b)
+- <a id="li26cg-representation-learning"></a>[Label-Guided Representation Learning for Incomplete Multi-View Multi-Label Classification](../conferences/icml-2026/cards/2401-2500.md#paper-li26cg)
+- <a id="li26du-representation-learning"></a>[Towards One-for-All Anomaly Detection for Tabular Data](../conferences/icml-2026/cards/2501-2600.md#paper-li26du)
 
 <a id="by-evaluation"></a>
 
@@ -718,4 +724,10 @@
 - <a id="li26aw-theory-statistics"></a>[Selling Data as a Digital Good with Scaling Valuations](../conferences/icml-2026/cards/2401-2500.md#paper-li26aw)
 - <a id="li26bd-theory-statistics"></a>[Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift](../conferences/icml-2026/cards/2401-2500.md#paper-li26bd)
 - <a id="li26bz-theory-statistics"></a>[Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables](../conferences/icml-2026/cards/2401-2500.md#paper-li26bz)
+- <a id="li26cl-theory-statistics"></a>[Mean-Shift PCA by Knockoff Mean](../conferences/icml-2026/cards/2401-2500.md#paper-li26cl)
+- <a id="li26cz-theory-statistics"></a>[Envy-Free Allocation of Indivisible Goods via Noisy Queries](../conferences/icml-2026/cards/2401-2500.md#paper-li26cz)
+- <a id="li26dn-theory-statistics"></a>[Signal Strength Estimation in Logistic Regression Using Data Splitting](../conferences/icml-2026/cards/2501-2600.md#paper-li26dn)
+- <a id="li26dx-theory-statistics"></a>[How Can Mamba Learn In Context with Outliers and Generalize Provably?](../conferences/icml-2026/cards/2501-2600.md#paper-li26dx)
+- <a id="li26ef-theory-statistics"></a>[A Minimax Approach for Optimal Intervention Policy Learning with Two-Stage Outcomes](../conferences/icml-2026/cards/2501-2600.md#paper-li26ef)
+- <a id="li26eg-theory-statistics"></a>[Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs](../conferences/icml-2026/cards/2501-2600.md#paper-li26eg)
 <!-- classification:end -->

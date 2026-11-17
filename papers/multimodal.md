@@ -27,6 +27,8 @@
 - <a id="langer26a-architecture"></a>[OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](../conferences/icml-2026/cards/2201-2300.md#paper-langer26a)
 - <a id="lee26f-architecture"></a>[ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26f)
 - <a id="lei26i-architecture"></a>[Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](../conferences/icml-2026/cards/2301-2400.md#paper-lei26i)
+- <a id="li26df-architecture"></a>[DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation](../conferences/icml-2026/cards/2501-2600.md#paper-li26df)
+- <a id="li26dv-architecture"></a>[Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](../conferences/icml-2026/cards/2501-2600.md#paper-li26dv)
 
 <a id="by-modules"></a>
 
@@ -64,6 +66,7 @@
 - <a id="he26ai-loss-functions"></a>[Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models](../conferences/icml-2026/cards/1501-1600.md#paper-he26ai)
 - <a id="hu26aw-loss-functions"></a>[DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs](../conferences/icml-2026/cards/1601-1700.md#paper-hu26aw)
 - <a id="kosman26a-loss-functions"></a>[Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges](../conferences/icml-2026/cards/2201-2300.md#paper-kosman26a)
+- <a id="li26er-loss-functions"></a>[Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26er)
 
 <a id="by-optimization"></a>
 
@@ -214,6 +217,11 @@
 - <a id="li26be-inference"></a>[Hermes: An Evidence-Driven Agentic Framework for Trustworthy and Explainable AI-Generated Video Detection](../conferences/icml-2026/cards/2401-2500.md#paper-li26be)
 - <a id="li26bw-inference"></a>[CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception](../conferences/icml-2026/cards/2401-2500.md#paper-li26bw)
 - <a id="li26ce-inference"></a>[Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models](../conferences/icml-2026/cards/2401-2500.md#paper-li26ce)
+- <a id="li26ci-inference"></a>[FrameOracle: Learning What to See and How Much to See in Videos](../conferences/icml-2026/cards/2401-2500.md#paper-li26ci)
+- <a id="li26ck-inference"></a>[Polyphonia: Zero-Shot Timbre Transfer in Polyphonic Music with Acoustic-Informed Attention Calibration](../conferences/icml-2026/cards/2401-2500.md#paper-li26ck)
+- <a id="li26di-inference"></a>[Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](../conferences/icml-2026/cards/2501-2600.md#paper-li26di)
+- <a id="li26dj-inference"></a>[Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases](../conferences/icml-2026/cards/2501-2600.md#paper-li26dj)
+- <a id="li26eo-inference"></a>[BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception](../conferences/icml-2026/cards/2501-2600.md#paper-li26eo)
 
 <a id="by-representation-learning"></a>
 
@@ -294,6 +302,7 @@
 - <a id="li26r-evaluation"></a>[Imagination Helps Visual Reasoning, But Not Yet in Latent Space](../conferences/icml-2026/cards/2401-2500.md#paper-li26r)
 - <a id="li26z-evaluation"></a>[MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs](../conferences/icml-2026/cards/2401-2500.md#paper-li26z)
 - <a id="li26bb-evaluation"></a>[SAW-Bench: Learning Situated Awareness in the Real World](../conferences/icml-2026/cards/2401-2500.md#paper-li26bb)
+- <a id="li26co-evaluation"></a>[Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](../conferences/icml-2026/cards/2401-2500.md#paper-li26co)
 
 <a id="by-theory-statistics"></a>
 

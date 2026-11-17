@@ -65,6 +65,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lee26aa-architecture"></a>[Lie-Algebraic Acceleration of Neural Koopman Dynamics](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26aa)
 - <a id="li26am-architecture"></a>[InertialAR: Autoregressive 3D Molecule Generation with Inertial Frames](../../conferences/icml-2026/cards/2401-2500.md#paper-li26am)
 - <a id="li26aq-architecture"></a>[From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators](../../conferences/icml-2026/cards/2401-2500.md#paper-li26aq)
+- <a id="li26dk-architecture"></a>[Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dk)
+- <a id="li26eh-architecture"></a>[CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM](../../conferences/icml-2026/cards/2501-2600.md#paper-li26eh)
 
 <a id="by-modules"></a>
 
@@ -76,6 +78,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="chen26fr-modules"></a>[PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26fr)
 - <a id="coscia26a-modules"></a>[BLIPs: Bayesian Learned Interatomic Potentials](../../conferences/icml-2026/cards/0701-0800.md#paper-coscia26a)
 - <a id="gao26ap-modules"></a>[Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ap)
+- <a id="li26cu-modules"></a>[Graph Rewiring based on Flow Alignment for Improving Fluid Simulation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cu)
 
 <a id="by-loss-functions"></a>
 
@@ -98,6 +101,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jia26j-loss-functions"></a>[Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26j)
 - <a id="jin26k-loss-functions"></a>[From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26k)
 - <a id="koker26a-loss-functions"></a>[PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials](../../conferences/icml-2026/cards/2101-2200.md#paper-koker26a)
+- <a id="li26dg-loss-functions"></a>[Bias-Spectrum Neural Processes for Parametric PDEs: Architecture Priors Meet PDE Constraints](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dg)
 
 <a id="by-optimization"></a>
 
@@ -121,6 +125,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jing26a-optimization"></a>[SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26a)
 - <a id="kang26n-optimization"></a>[Credit Assignment via Neural Manifold Noise Correlation](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26n)
 - <a id="kim26j-optimization"></a>[LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26j)
+- <a id="li26el-optimization"></a>[Causal Structure Learning for Sparse Matrix Fill-in Reduction](../../conferences/icml-2026/cards/2501-2600.md#paper-li26el)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -142,6 +147,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="knorr26a-reinforcement-learning"></a>[Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../../conferences/icml-2026/cards/2101-2200.md#paper-knorr26a)
 - <a id="lai26f-reinforcement-learning"></a>[LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching](../../conferences/icml-2026/cards/2201-2300.md#paper-lai26f)
 - <a id="li26bp-reinforcement-learning"></a>[Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bp)
+- <a id="li26ch-reinforcement-learning"></a>[FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ch)
 
 <a id="by-training-strategies"></a>
 
@@ -167,6 +173,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jing26b-training-strategies"></a>[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26b)
 - <a id="kim26q-training-strategies"></a>[Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26q)
 - <a id="kim26au-training-strategies"></a>[Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26au)
+- <a id="li26et-training-strategies"></a>[Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?](../../conferences/icml-2026/cards/2501-2600.md#paper-li26et)
 
 <a id="by-data-strategies"></a>
 
@@ -244,6 +251,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lane26a-representation-learning"></a>[Scaling Vision Transformers for Functional MRI with Flat Maps](../../conferences/icml-2026/cards/2201-2300.md#paper-lane26a)
 - <a id="li26bg-representation-learning"></a>[Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bg)
 - <a id="li26bl-representation-learning"></a>[Source-Free Open-World RF Fingerprint Identification](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bl)
+- <a id="li26ct-representation-learning"></a>[Learning Molecular Semantic Invariant Representation with Prototype Constraint](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ct)
 
 <a id="by-evaluation"></a>
 
@@ -294,4 +302,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="kim26bd-theory-statistics"></a>[Identifying Connectivity Distributions from Neural Dynamics Using Flows](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bd)
 - <a id="large26a-theory-statistics"></a>[Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution](../../conferences/icml-2026/cards/2201-2300.md#paper-large26a)
 - <a id="leclerc26a-theory-statistics"></a>[When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control](../../conferences/icml-2026/cards/2301-2400.md#paper-leclerc26a)
+- <a id="li26cj-theory-statistics"></a>[Causal Discovery for Irregularly Time Series with Consistency Guarantees](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cj)
 <!-- classification:end -->

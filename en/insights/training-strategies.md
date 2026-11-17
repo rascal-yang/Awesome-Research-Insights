@@ -81,6 +81,9 @@ Training schedules, curricula, and task or stage composition.
 - [Beyond Temperature: Hyperfitting as a Late-Stage Geometric Expansion](../../conferences/icml-2026/cards/2401-2500.md#li26af-training-strategies) · 中文
 - [IDLM: Inverse-distilled Diffusion Language Models](../../conferences/icml-2026/cards/2401-2500.md#li26az-training-strategies) · 中文
 - [R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training](../../conferences/icml-2026/cards/2401-2500.md#li26bh-training-strategies) · 中文
+- [Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation](../../conferences/icml-2026/cards/2401-2500.md#li26cs-training-strategies) · 中文
+- [Layer-wise Gradient Disentanglement: Decoupling Semantics and Preferences in Direct Preference Optimization](../../conferences/icml-2026/cards/2501-2600.md#li26ds-training-strategies) · 中文
+- [OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving](../../conferences/icml-2026/cards/2501-2600.md#li26ek-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -111,6 +114,11 @@ Training schedules, curricula, and task or stage composition.
 - [Toward Understanding Adversarial Distillation: Why Robust Teachers Fail](../../conferences/icml-2026/cards/2301-2400.md#lee26g-training-strategies) · 中文
 - [Geometry-Aware Image Flow Matching](../../conferences/icml-2026/cards/2301-2400.md#lee26x-training-strategies) · 中文
 - [HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance](../../conferences/icml-2026/cards/2401-2500.md#li26ac-training-strategies) · 中文
+- [Expandable, Compressible, Mineable: Open-World Thermal Image Restoration](../../conferences/icml-2026/cards/2401-2500.md#li26cp-training-strategies) · 中文
+- [CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels](../../conferences/icml-2026/cards/2401-2500.md#li26cy-training-strategies) · 中文
+- [High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation](../../conferences/icml-2026/cards/2401-2500.md#li26db-training-strategies) · 中文
+- [PCGS: Deblurring 3D Gaussian Splatting with Patch Comparison](../../conferences/icml-2026/cards/2501-2600.md#li26em-training-strategies) · 中文
+- [Energy-Structured Low-Rank Adaptation for Continual Learning](../../conferences/icml-2026/cards/2501-2600.md#li26eq-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -224,6 +232,7 @@ Training schedules, curricula, and task or stage composition.
 - [Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](../../conferences/icml-2026/cards/2201-2300.md#lan26b-training-strategies) · 中文
 - [LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games](../../conferences/icml-2026/cards/2301-2400.md#leng26b-training-strategies) · 中文
 - [FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training](../../conferences/icml-2026/cards/2401-2500.md#li26ae-training-strategies) · 中文
+- [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](../../conferences/icml-2026/cards/2501-2600.md#li26ep-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -260,4 +269,5 @@ Training schedules, curricula, and task or stage composition.
 - [Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](../../conferences/icml-2026/cards/1901-2000.md#jing26b-training-strategies) · 中文
 - [Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations](../../conferences/icml-2026/cards/2101-2200.md#kim26q-training-strategies) · 中文
 - [Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor](../../conferences/icml-2026/cards/2101-2200.md#kim26au-training-strategies) · 中文
+- [Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?](../../conferences/icml-2026/cards/2501-2600.md#li26et-training-strategies) · 中文
 <!-- classification:end -->

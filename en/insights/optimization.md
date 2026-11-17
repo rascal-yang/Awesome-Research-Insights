@@ -65,6 +65,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Low-cost Full Fine-tuning: Learning What to Update for LLMs](../../conferences/icml-2026/cards/2401-2500.md#li26ax-optimization) · 中文
 - [OMAC: A Holistic Optimization Framework for LLM-Based Multi-Agent Collaboration](../../conferences/icml-2026/cards/2401-2500.md#li26bf-optimization) · 中文
 - [Textual Stochastic Gradient Descent: Discrete Optimization of External Memory for Reasoning Language Agents](../../conferences/icml-2026/cards/2401-2500.md#li26bo-optimization) · 中文
+- [Verbalized Bayesian Persuasion](../../conferences/icml-2026/cards/2401-2500.md#li26cw-optimization) · 中文
+- [NorMuon: Making Muon more efficient and scalable](../../conferences/icml-2026/cards/2501-2600.md#li26dh-optimization) · 中文
+- [WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points](../../conferences/icml-2026/cards/2501-2600.md#li26dr-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -275,6 +278,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Improving the Robustness-Utility Trade-off in Decentralized Learning over Sparse Networks](../../conferences/icml-2026/cards/2401-2500.md#li26i-optimization) · 中文
 - [MoSSP: A Momentum-Based Single-Loop Stochastic Penalty Method for Nonconvex Constrained DC-regularized Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ab-optimization) · 中文
 - [Large Scale Manifold Balanced Clustering](../../conferences/icml-2026/cards/2401-2500.md#li26as-optimization) · 中文
+- [Breaking Multi-Task Curse: Reward-Weighted Evolution for Black-Box Many-Task Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26dc-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -318,4 +322,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](../../conferences/icml-2026/cards/1901-2000.md#jing26a-optimization) · 中文
 - [Credit Assignment via Neural Manifold Noise Correlation](../../conferences/icml-2026/cards/2001-2100.md#kang26n-optimization) · 中文
 - [LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition](../../conferences/icml-2026/cards/2001-2100.md#kim26j-optimization) · 中文
+- [Causal Structure Learning for Sparse Matrix Fill-in Reduction](../../conferences/icml-2026/cards/2501-2600.md#li26el-optimization) · 中文
 <!-- classification:end -->

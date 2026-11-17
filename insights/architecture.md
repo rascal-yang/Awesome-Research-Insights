@@ -80,6 +80,7 @@
 - [预训练注意力的线性化迁移](../conferences/icml-2026/cards/2401-2500.md#li26bc-architecture) · Linearizing Vision Transformer with Test-Time Training
 - [用实例深度锚初始化人体网格](../conferences/icml-2026/cards/2401-2500.md#li26bq-architecture) · DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring
 - [先聚焦视频关系区间再生成稀有事件补样](../conferences/icml-2026/cards/2401-2500.md#li26bx-architecture) · SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation
+- [在潜令牌上求解空间光谱融合](../conferences/icml-2026/cards/2501-2600.md#li26en-architecture) · Solving Spatial-Spectral Fusion with Latent Spectral Operators
 
 <a id="by-nlp"></a>
 
@@ -134,6 +135,8 @@
 - [多变量时序与文本的交错建模](../conferences/icml-2026/cards/2201-2300.md#langer26a-architecture) · OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data
 - [在低频语音潜变量上分层补回波形](../conferences/icml-2026/cards/2301-2400.md#lee26f-architecture) · ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models
 - [全景空间音频流式生成](../conferences/icml-2026/cards/2301-2400.md#lei26i-architecture) · Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer
+- [以主体身份查询把视频词元稀疏路由给对应参照](../conferences/icml-2026/cards/2501-2600.md#li26df-architecture) · DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation
+- [跨模态离散掩码的联合生成](../conferences/icml-2026/cards/2501-2600.md#li26dv-architecture) · Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion
 
 <a id="by-ml-foundations"></a>
 
@@ -171,6 +174,7 @@
 - [固定非零权重预算下扩宽网络](../conferences/icml-2026/cards/2101-2200.md#kong26f-architecture) · Expand Neurons, Not Parameters
 - [用乘积节点和稀疏样本辨别奇偶支持](../conferences/icml-2026/cards/2201-2300.md#larue26a-architecture) · Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent
 - [用单个可学离散 Gaussian 核替换固定多尺度分支](../conferences/icml-2026/cards/2301-2400.md#lee26al-architecture) · Generalizing Multi-Scale Time-Series Modeling with a Single Operator
+- [用不同分数奇异度的输入投影分工记忆远近信息](../conferences/icml-2026/cards/2401-2500.md#li26cx-architecture) · FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -246,4 +250,6 @@
 - [用李群前缀扫描并行合成长时演化](../conferences/icml-2026/cards/2301-2400.md#lee26aa-architecture) · Lie-Algebraic Acceleration of Neural Koopman Dynamics
 - [用惯性坐标系把三维分子写成原子序列](../conferences/icml-2026/cards/2401-2500.md#li26am-architecture) · InertialAR: Autoregressive 3D Molecule Generation with Inertial Frames
 - [PDE 算子的高斯模态投影](../conferences/icml-2026/cards/2401-2500.md#li26aq-architecture) · From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators
+- [在同一潜空间用稀疏场解 PDE 正向和反向问题](../conferences/icml-2026/cards/2501-2600.md#li26dk-architecture) · Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations
+- [在候选原子处查询冷冻电镜密度](../conferences/icml-2026/cards/2501-2600.md#li26eh-architecture) · CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM
 <!-- classification:end -->

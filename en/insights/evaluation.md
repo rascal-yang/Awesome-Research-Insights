@@ -198,6 +198,14 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Do Activation Verbalization Methods Convey Privileged Information?](../../conferences/icml-2026/cards/2401-2500.md#li26k-evaluation) · 中文
 - [Data Provenance Auditing of Fine-Tuned Large Language Models with a Text-Preserving Technique](../../conferences/icml-2026/cards/2401-2500.md#li26an-evaluation) · 中文
 - [QiMeng-LibBench: Benchmarking LLM Agents for Library-Scale Cross-Architecture Migration](../../conferences/icml-2026/cards/2401-2500.md#li26ar-evaluation) · 中文
+- [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](../../conferences/icml-2026/cards/2501-2600.md#li26dm-evaluation) · 中文
+- [From Winning to Understanding: A Diagnostic Long-Horizon RTS Benchmark for LLMs](../../conferences/icml-2026/cards/2501-2600.md#li26do-evaluation) · 中文
+- [AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation](../../conferences/icml-2026/cards/2501-2600.md#li26dy-evaluation) · 中文
+- [Constructing Industrial-Scale Optimization Modeling Benchmark](../../conferences/icml-2026/cards/2501-2600.md#li26dz-evaluation) · 中文
+- [Gradients with Respect to Semantics Preserving Embeddings Tell the Uncertainty of Large Language Models](../../conferences/icml-2026/cards/2501-2600.md#li26eb-evaluation) · 中文
+- [OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents](../../conferences/icml-2026/cards/2501-2600.md#li26ei-evaluation) · 中文
+- [Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs](../../conferences/icml-2026/cards/2501-2600.md#li26ej-evaluation) · 中文
+- [Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs](../../conferences/icml-2026/cards/2501-2600.md#li26eu-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -343,6 +351,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Imagination Helps Visual Reasoning, But Not Yet in Latent Space](../../conferences/icml-2026/cards/2401-2500.md#li26r-evaluation) · 中文
 - [MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs](../../conferences/icml-2026/cards/2401-2500.md#li26z-evaluation) · 中文
 - [SAW-Bench: Learning Situated Awareness in the Real World](../../conferences/icml-2026/cards/2401-2500.md#li26bb-evaluation) · 中文
+- [Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation](../../conferences/icml-2026/cards/2401-2500.md#li26co-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

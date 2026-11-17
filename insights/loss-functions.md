@@ -96,6 +96,7 @@
 - [以径向蕴涵与球面角距分工表示分类树](../conferences/icml-2026/cards/1501-1600.md#he26ai-loss-functions) · Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models
 - [跨模型对齐多视图特征分布](../conferences/icml-2026/cards/1601-1700.md#hu26aw-loss-functions) · DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs
 - [用循环一致性约束未配对扩散桥](../conferences/icml-2026/cards/2201-2300.md#kosman26a-loss-functions) · Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges
+- [用双重归一化限制错标梯度](../conferences/icml-2026/cards/2501-2600.md#li26er-loss-functions) · Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -155,4 +156,5 @@
 - [把物理残差监督送到扩散中间层](../conferences/icml-2026/cards/1801-1900.md#jia26j-loss-functions) · Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment
 - [用有序峰集合替代昂贵的原子指派](../conferences/icml-2026/cards/1901-2000.md#jin26k-loss-functions) · From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale
 - [随机抽 Hessian 列监督势能曲率](../conferences/icml-2026/cards/2101-2200.md#koker26a-loss-functions) · PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials
+- [只对预测均值施加 PDE 残差并重抽配点](../conferences/icml-2026/cards/2501-2600.md#li26dg-loss-functions) · Bias-Spectrum Neural Processes for Parametric PDEs: Architecture Priors Meet PDE Constraints
 <!-- classification:end -->

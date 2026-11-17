@@ -170,6 +170,12 @@
 - [按最近工具检索可复用经验](../conferences/icml-2026/cards/2401-2500.md#li26bn-inference) · Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory
 - [在所有智能体动作的执行边界共享最小修复规则](../conferences/icml-2026/cards/2401-2500.md#li26bv-inference) · Judgment Operators: A Composition-Invariant Substrate for Multi-Agent Action Spaces
 - [用实际共用关系重排论文实验资源](../conferences/icml-2026/cards/2401-2500.md#li26cb-inference) · AgentExpt: Automating AI Experiment Design with LLM-based Resource Retrieval Agent
+- [按输入预测跳层和重复层程序](../conferences/icml-2026/cards/2401-2500.md#li26cq-inference) · Skip a Layer or Loop It? Learning Program-of-Layers in LLMs
+- [用在线记忆的优势估计修正候选动作 logits](../conferences/icml-2026/cards/2401-2500.md#li26cv-inference) · Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates
+- [用词元轨迹传感器冻结已收敛的扩散输出](../conferences/icml-2026/cards/2401-2500.md#li26dd-inference) · Efficient Diffusion LLMs via Temporal-Spatial Parallel Decoding and Confidence Extrapolation
+- [多轮服务中追加预填充的动态路由](../conferences/icml-2026/cards/2501-2600.md#li26dq-inference) · Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving
+- [对抗树搜索排除代码伪正确解](../conferences/icml-2026/cards/2501-2600.md#li26dt-inference) · AdverMCTS: Combating Pseudo-Correctness in Code Generation via Adversarial Monte Carlo Tree Search
+- [用注意力变化识别推理收敛](../conferences/icml-2026/cards/2501-2600.md#li26ev-inference) · Stop When Further Reasoning Won’t Help: Attention-State Adaptive Generation in Reasoning Models
 
 <a id="by-computer-vision"></a>
 
@@ -232,6 +238,7 @@
 - [固定预算扩散缓存](../conferences/icml-2026/cards/2301-2400.md#lei26j-inference) · Budget-Constrained Step-Level Diffusion Caching
 - [流匹配起步速度补偿](../conferences/icml-2026/cards/2401-2500.md#li26bi-inference) · The Velocity Deficit: Initial Energy Injection for Flow Matching
 - [按采样阶段调节轨迹动能](../conferences/icml-2026/cards/2401-2500.md#li26bk-inference) · A Kinetic Energy Perspective of Flow Matching
+- [从引导势的后验挑生成初噪声](../conferences/icml-2026/cards/2501-2600.md#li26de-inference) · Initialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior
 
 <a id="by-nlp"></a>
 
@@ -342,6 +349,11 @@
 - [视频取证的证据图复核](../conferences/icml-2026/cards/2401-2500.md#li26be-inference) · Hermes: An Evidence-Driven Agentic Framework for Trustworthy and Explainable AI-Generated Video Detection
 - [按信息充分性逐级切换高分辨率视觉搜索](../conferences/icml-2026/cards/2401-2500.md#li26bw-inference) · CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception
 - [用空间预算和汇聚词元保存裁剪信息](../conferences/icml-2026/cards/2401-2500.md#li26ce-inference) · Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models
+- [问句条件下的可变长度选帧](../conferences/icml-2026/cards/2401-2500.md#li26ci-inference) · FrameOracle: Learning What to See and How Much to See in Videos
+- [复调音乐局部音色编辑的声学掩码](../conferences/icml-2026/cards/2401-2500.md#li26ck-inference) · Polyphonia: Zero-Shot Timbre Transfer in Polyphonic Music with Acoustic-Informed Attention Calibration
+- [用跨头共识校准视觉注意并补回解码中衰减的历史注意](../conferences/icml-2026/cards/2501-2600.md#li26di-inference) · Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory
+- [先演化定位提示，再以变换后框的一致性计置信](../conferences/icml-2026/cards/2501-2600.md#li26dj-inference) · Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases
+- [以贝叶斯后验更新高清裁剪](../conferences/icml-2026/cards/2501-2600.md#li26eo-inference) · BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception
 
 <a id="by-ml-foundations"></a>
 

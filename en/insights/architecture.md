@@ -80,6 +80,7 @@ Model-wide design and information flow.
 - [Linearizing Vision Transformer with Test-Time Training](../../conferences/icml-2026/cards/2401-2500.md#li26bc-architecture) · 中文
 - [DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring](../../conferences/icml-2026/cards/2401-2500.md#li26bq-architecture) · 中文
 - [SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](../../conferences/icml-2026/cards/2401-2500.md#li26bx-architecture) · 中文
+- [Solving Spatial-Spectral Fusion with Latent Spectral Operators](../../conferences/icml-2026/cards/2501-2600.md#li26en-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -134,6 +135,8 @@ Model-wide design and information flow.
 - [OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](../../conferences/icml-2026/cards/2201-2300.md#langer26a-architecture) · 中文
 - [ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#lee26f-architecture) · 中文
 - [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](../../conferences/icml-2026/cards/2301-2400.md#lei26i-architecture) · 中文
+- [DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation](../../conferences/icml-2026/cards/2501-2600.md#li26df-architecture) · 中文
+- [Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](../../conferences/icml-2026/cards/2501-2600.md#li26dv-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -171,6 +174,7 @@ Model-wide design and information flow.
 - [Expand Neurons, Not Parameters](../../conferences/icml-2026/cards/2101-2200.md#kong26f-architecture) · 中文
 - [Learning High-Dimensional Parity Functions with Product Networks using Gradient Descent](../../conferences/icml-2026/cards/2201-2300.md#larue26a-architecture) · 中文
 - [Generalizing Multi-Scale Time-Series Modeling with a Single Operator](../../conferences/icml-2026/cards/2301-2400.md#lee26al-architecture) · 中文
+- [FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences](../../conferences/icml-2026/cards/2401-2500.md#li26cx-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -246,4 +250,6 @@ Model-wide design and information flow.
 - [Lie-Algebraic Acceleration of Neural Koopman Dynamics](../../conferences/icml-2026/cards/2301-2400.md#lee26aa-architecture) · 中文
 - [InertialAR: Autoregressive 3D Molecule Generation with Inertial Frames](../../conferences/icml-2026/cards/2401-2500.md#li26am-architecture) · 中文
 - [From Basis to Basis: Gaussian Particle Representation for Interpretable PDE Operators](../../conferences/icml-2026/cards/2401-2500.md#li26aq-architecture) · 中文
+- [Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations](../../conferences/icml-2026/cards/2501-2600.md#li26dk-architecture) · 中文
+- [CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM](../../conferences/icml-2026/cards/2501-2600.md#li26eh-architecture) · 中文
 <!-- classification:end -->

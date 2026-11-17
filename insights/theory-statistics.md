@@ -43,6 +43,7 @@
 - [只调注意力值矩阵保留上下文学习](../conferences/icml-2026/cards/2301-2400.md#lee26be-theory-statistics) · Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models
 - [同时报告裁判校正和人工校准的不确定性](../conferences/icml-2026/cards/2301-2400.md#lee26bl-theory-statistics) · How to Correctly Report LLM-as-a-Judge Evaluations
 - [把一段多任务提示的误差拆为噪声与任务干扰](../conferences/icml-2026/cards/2401-2500.md#li26ag-theory-statistics) · Understanding Generalization and Forgetting in In-Context Continual Learning
+- [分开批大小与更新步数的损失预测](../conferences/icml-2026/cards/2501-2600.md#li26ed-theory-statistics) · Predicting Large Model Test Losses with a Noisy Quadratic System
 
 <a id="by-computer-vision"></a>
 
@@ -390,6 +391,12 @@
 - [规模收益下的数据生产与定价](../conferences/icml-2026/cards/2401-2500.md#li26aw-theory-statistics) · Selling Data as a Digital Good with Scaling Valuations
 - [域偏移下的蒸馏泛化](../conferences/icml-2026/cards/2401-2500.md#li26bd-theory-statistics) · Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift
 - [用外生噪声可分性界定因果候选效应](../conferences/icml-2026/cards/2401-2500.md#li26bz-theory-statistics) · Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables
+- [通过受控均值扰动鉴别主成分](../conferences/icml-2026/cards/2401-2500.md#li26cl-theory-statistics) · Mean-Shift PCA by Knockoff Mean
+- [用非自适应的噪声阈值规则构造无嫉妒分配](../conferences/icml-2026/cards/2401-2500.md#li26cz-theory-statistics) · Envy-Free Allocation of Indivisible Goods via Noisy Queries
+- [用两个独立分半拟合的共同信号反解逻辑回归信噪比](../conferences/icml-2026/cards/2501-2600.md#li26dn-theory-statistics) · Signal Strength Estimation in Logistic Regression Using Data Splitting
+- [Mamba 在含异常示例的上下文学习](../conferences/icml-2026/cards/2501-2600.md#li26dx-theory-statistics) · How Can Mamba Learn In Context with Outliers and Generalize Provably?
+- [两阶段干预的最坏后悔](../conferences/icml-2026/cards/2501-2600.md#li26ef-theory-statistics) · A Minimax Approach for Optimal Intervention Policy Learning with Two-Stage Outcomes
+- [按潜在模式聚合同类令牌去噪](../conferences/icml-2026/cards/2501-2600.md#li26eg-theory-statistics) · Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -432,4 +439,5 @@
 - [只为神经动力学保留必要的连接结构](../conferences/icml-2026/cards/2101-2200.md#kim26bd-theory-statistics) · Identifying Connectivity Distributions from Neural Dynamics Using Flows
 - [蛋白质插入删除的嵌套生灭模型](../conferences/icml-2026/cards/2201-2300.md#large26a-theory-statistics) · Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution
 - [用少量探针估计量子门适配何时值得](../conferences/icml-2026/cards/2301-2400.md#leclerc26a-theory-statistics) · When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control
+- [不规则时间序列的结构感知补全](../conferences/icml-2026/cards/2401-2500.md#li26cj-theory-statistics) · Causal Discovery for Irregularly Time Series with Consistency Guarantees
 <!-- classification:end -->

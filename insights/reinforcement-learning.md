@@ -102,6 +102,10 @@
 - [按注意力里局部分块和全局锚点调整逐词信用](../conferences/icml-2026/cards/2401-2500.md#li26ak-reinforcement-learning) · Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization
 - [共享前缀的树形强化学习采样](../conferences/icml-2026/cards/2401-2500.md#li26au-reinforcement-learning) · TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling
 - [按奖励质量匹配采样组内多解分布](../conferences/icml-2026/cards/2401-2500.md#li26cc-reinforcement-learning) · Beyond Mode Collapse: Distribution Matching for Diverse Reasoning
+- [让教练按解题者的进步奖励出题](../conferences/icml-2026/cards/2401-2500.md#li26da-reinforcement-learning) · CPMöbius: Iterative Coach–Player Reasoning for Data-Free Reinforcement Learning
+- [按整条轨迹的最大 KL 偏离掩码策略梯度](../conferences/icml-2026/cards/2501-2600.md#li26dp-reinforcement-learning) · Trust Region Masking for Long-Horizon LLM Reinforcement Learning
+- [组相对奖励重缩放控制长度](../conferences/icml-2026/cards/2501-2600.md#li26dw-reinforcement-learning) · Tackling Length Inflation Without Trade-offs: Group Relative Reward Rescaling for Reinforcement Learning
+- [以支配排序分配工具调用的训练优势](../conferences/icml-2026/cards/2501-2600.md#li26es-reinforcement-learning) · Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -202,6 +206,7 @@
 - [用量子最小值搜索替换鲁棒 Bellman 内层枚举](../conferences/icml-2026/cards/2301-2400.md#lee26ae-reinforcement-learning) · Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity
 - [用当前策略价值引导可行环境扩散](../conferences/icml-2026/cards/2301-2400.md#li26b-reinforcement-learning) · Scaling Multi-Agent Environment Co-Design with Diffusion Models
 - [由下一帧预测误差驱动探索](../conferences/icml-2026/cards/2401-2500.md#li26bj-reinforcement-learning) · What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity
+- [从最坏响应找关键失效成员](../conferences/icml-2026/cards/2501-2600.md#li26ee-reinforcement-learning) · Vulnerable Agent Identification in Large-Scale Multi-Agent Reinforcement Learning
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -284,4 +289,5 @@
 - [把可执行的临床资源查询反馈用于代理训练](../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)
 - [用物理指标奖励少步光刻掩模生成](../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching
 - [把物理引导移到分子扩散后训练](../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields
+- [对齐 Best-of-N 的蛋白质设计策略](../conferences/icml-2026/cards/2401-2500.md#li26ch-reinforcement-learning) · FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization
 <!-- classification:end -->

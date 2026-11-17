@@ -116,6 +116,7 @@
 - <a id="lee26ae-reinforcement-learning"></a>[Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ae)
 - <a id="li26b-reinforcement-learning"></a>[Scaling Multi-Agent Environment Co-Design with Diffusion Models](../conferences/icml-2026/cards/2301-2400.md#paper-li26b)
 - <a id="li26bj-reinforcement-learning"></a>[What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity](../conferences/icml-2026/cards/2401-2500.md#paper-li26bj)
+- <a id="li26ee-reinforcement-learning"></a>[Vulnerable Agent Identification in Large-Scale Multi-Agent Reinforcement Learning](../conferences/icml-2026/cards/2501-2600.md#paper-li26ee)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-training-strategies"></a>

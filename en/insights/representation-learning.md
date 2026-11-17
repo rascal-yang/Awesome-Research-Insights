@@ -143,6 +143,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Sinkhorn Normalization of Diffusion Kernels](../../conferences/icml-2026/cards/2001-2100.md#kessler26a-representation-learning) · 中文
 - [Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals](../../conferences/icml-2026/cards/2101-2200.md#kimura26a-representation-learning) · 中文
 - [AI Engram: In Search of Memory Traces in Artificial Intelligence](../../conferences/icml-2026/cards/2201-2300.md#kwon26b-representation-learning) · 中文
+- [Label-Guided Representation Learning for Incomplete Multi-View Multi-Label Classification](../../conferences/icml-2026/cards/2401-2500.md#li26cg-representation-learning) · 中文
+- [Towards One-for-All Anomaly Detection for Tabular Data](../../conferences/icml-2026/cards/2501-2600.md#li26du-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -206,4 +208,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Scaling Vision Transformers for Functional MRI with Flat Maps](../../conferences/icml-2026/cards/2201-2300.md#lane26a-representation-learning) · 中文
 - [Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](../../conferences/icml-2026/cards/2401-2500.md#li26bg-representation-learning) · 中文
 - [Source-Free Open-World RF Fingerprint Identification](../../conferences/icml-2026/cards/2401-2500.md#li26bl-representation-learning) · 中文
+- [Learning Molecular Semantic Invariant Representation with Prototype Constraint](../../conferences/icml-2026/cards/2401-2500.md#li26ct-representation-learning) · 中文
 <!-- classification:end -->

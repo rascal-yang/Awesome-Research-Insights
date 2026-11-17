@@ -43,6 +43,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models](../../conferences/icml-2026/cards/2301-2400.md#lee26be-theory-statistics) · 中文
 - [How to Correctly Report LLM-as-a-Judge Evaluations](../../conferences/icml-2026/cards/2301-2400.md#lee26bl-theory-statistics) · 中文
 - [Understanding Generalization and Forgetting in In-Context Continual Learning](../../conferences/icml-2026/cards/2401-2500.md#li26ag-theory-statistics) · 中文
+- [Predicting Large Model Test Losses with a Noisy Quadratic System](../../conferences/icml-2026/cards/2501-2600.md#li26ed-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -390,6 +391,12 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Selling Data as a Digital Good with Scaling Valuations](../../conferences/icml-2026/cards/2401-2500.md#li26aw-theory-statistics) · 中文
 - [Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift](../../conferences/icml-2026/cards/2401-2500.md#li26bd-theory-statistics) · 中文
 - [Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables](../../conferences/icml-2026/cards/2401-2500.md#li26bz-theory-statistics) · 中文
+- [Mean-Shift PCA by Knockoff Mean](../../conferences/icml-2026/cards/2401-2500.md#li26cl-theory-statistics) · 中文
+- [Envy-Free Allocation of Indivisible Goods via Noisy Queries](../../conferences/icml-2026/cards/2401-2500.md#li26cz-theory-statistics) · 中文
+- [Signal Strength Estimation in Logistic Regression Using Data Splitting](../../conferences/icml-2026/cards/2501-2600.md#li26dn-theory-statistics) · 中文
+- [How Can Mamba Learn In Context with Outliers and Generalize Provably?](../../conferences/icml-2026/cards/2501-2600.md#li26dx-theory-statistics) · 中文
+- [A Minimax Approach for Optimal Intervention Policy Learning with Two-Stage Outcomes](../../conferences/icml-2026/cards/2501-2600.md#li26ef-theory-statistics) · 中文
+- [Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs](../../conferences/icml-2026/cards/2501-2600.md#li26eg-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -432,4 +439,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Identifying Connectivity Distributions from Neural Dynamics Using Flows](../../conferences/icml-2026/cards/2101-2200.md#kim26bd-theory-statistics) · 中文
 - [Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution](../../conferences/icml-2026/cards/2201-2300.md#large26a-theory-statistics) · 中文
 - [When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control](../../conferences/icml-2026/cards/2301-2400.md#leclerc26a-theory-statistics) · 中文
+- [Causal Discovery for Irregularly Time Series with Consistency Guarantees](../../conferences/icml-2026/cards/2401-2500.md#li26cj-theory-statistics) · 中文
 <!-- classification:end -->

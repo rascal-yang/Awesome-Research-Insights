@@ -59,6 +59,8 @@
 - [分别约束插入物的布局、照明和边界纹理](../conferences/icml-2026/cards/1601-1700.md#hou26a-data-strategies) · Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery
 - [以细粒度隐私标注驱动频带适配](../conferences/icml-2026/cards/1601-1700.md#hu26bk-data-strategies) · VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection
 - [沿正常特征低方差方向造难负例](../conferences/icml-2026/cards/2001-2100.md#karzanov26a-data-strategies) · Geometrically Constrained Outlier Synthesis
+- [乘积流形上的数据集蒸馏](../conferences/icml-2026/cards/2501-2600.md#li26ea-data-strategies) · GeoDM: Geometry-aware Distribution Matching for Dataset Distillation
+- [按最差分类间隔蒸馏数据](../conferences/icml-2026/cards/2501-2600.md#li26ec-data-strategies) · Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?
 
 <a id="by-nlp"></a>
 
@@ -136,6 +138,7 @@
 - [在上下文中按条件互信息决定补测哪个特征](../conferences/icml-2026/cards/2101-2200.md#kobayashi26a-data-strategies) · Learning-To-Measure: In-Context Active Feature Acquisition
 - [先复用加密边缘统计再发布私有合成数据](../conferences/icml-2026/cards/2201-2300.md#kumar26e-data-strategies) · $\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation
 - [用单调学习曲线和预期缺口决定采集量](../conferences/icml-2026/cards/2301-2400.md#lee26af-data-strategies) · Monotonic Variational Gaussian Process for Efficient Data Collection
+- [梯度筛查与特征校正的噪声标签净化](../conferences/icml-2026/cards/2401-2500.md#li26cr-data-strategies) · GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -47,6 +47,7 @@
 - <a id="li26bc-architecture"></a>[Linearizing Vision Transformer with Test-Time Training](../conferences/icml-2026/cards/2401-2500.md#paper-li26bc)
 - <a id="li26bq-architecture"></a>[DGG-HMR: Multi-Person Human Mesh Recovery with Depth-Guided Geometric Anchoring](../conferences/icml-2026/cards/2401-2500.md#paper-li26bq)
 - <a id="li26bx-architecture"></a>[SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](../conferences/icml-2026/cards/2401-2500.md#paper-li26bx)
+- <a id="li26en-architecture"></a>[Solving Spatial-Spectral Fusion with Latent Spectral Operators](../conferences/icml-2026/cards/2501-2600.md#paper-li26en)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -73,6 +74,8 @@
 - <a id="ke26d-modules"></a>[Deformba: Vision State Space Model with Adaptive State Fusion](../conferences/icml-2026/cards/2001-2100.md#paper-ke26d)
 - <a id="kim26by-modules"></a>[Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception](../conferences/icml-2026/cards/2101-2200.md#paper-kim26by)
 - <a id="kumar26c-modules"></a>[Concept Removal for Frontier Image Generative Models](../conferences/icml-2026/cards/2201-2300.md#paper-kumar26c)
+- <a id="li26cm-modules"></a>[One Model to Translate Them All: Universal Any-to-Any Translation for Heterogeneous Collaborative Perception](../conferences/icml-2026/cards/2401-2500.md#paper-li26cm)
+- <a id="li26cn-modules"></a>[CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception](../conferences/icml-2026/cards/2401-2500.md#paper-li26cn)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -158,6 +161,11 @@
 - <a id="lee26g-training-strategies"></a>[Toward Understanding Adversarial Distillation: Why Robust Teachers Fail](../conferences/icml-2026/cards/2301-2400.md#paper-lee26g)
 - <a id="lee26x-training-strategies"></a>[Geometry-Aware Image Flow Matching](../conferences/icml-2026/cards/2301-2400.md#paper-lee26x)
 - <a id="li26ac-training-strategies"></a>[HOI-PAGE: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance](../conferences/icml-2026/cards/2401-2500.md#paper-li26ac)
+- <a id="li26cp-training-strategies"></a>[Expandable, Compressible, Mineable: Open-World Thermal Image Restoration](../conferences/icml-2026/cards/2401-2500.md#paper-li26cp)
+- <a id="li26cy-training-strategies"></a>[CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels](../conferences/icml-2026/cards/2401-2500.md#paper-li26cy)
+- <a id="li26db-training-strategies"></a>[High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation](../conferences/icml-2026/cards/2401-2500.md#paper-li26db)
+- <a id="li26em-training-strategies"></a>[PCGS: Deblurring 3D Gaussian Splatting with Patch Comparison](../conferences/icml-2026/cards/2501-2600.md#paper-li26em)
+- <a id="li26eq-training-strategies"></a>[Energy-Structured Low-Rank Adaptation for Continual Learning](../conferences/icml-2026/cards/2501-2600.md#paper-li26eq)
 
 <a id="by-data-strategies"></a>
 
@@ -173,6 +181,8 @@
 - <a id="hou26a-data-strategies"></a>[Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery](../conferences/icml-2026/cards/1601-1700.md#paper-hou26a)
 - <a id="hu26bk-data-strategies"></a>[VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection](../conferences/icml-2026/cards/1601-1700.md#paper-hu26bk)
 - <a id="karzanov26a-data-strategies"></a>[Geometrically Constrained Outlier Synthesis](../conferences/icml-2026/cards/2001-2100.md#paper-karzanov26a)
+- <a id="li26ea-data-strategies"></a>[GeoDM: Geometry-aware Distribution Matching for Dataset Distillation](../conferences/icml-2026/cards/2501-2600.md#paper-li26ea)
+- <a id="li26ec-data-strategies"></a>[Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](../conferences/icml-2026/cards/2501-2600.md#paper-li26ec)
 
 <a id="by-inference"></a>
 
@@ -235,6 +245,7 @@
 - <a id="lei26j-inference"></a>[Budget-Constrained Step-Level Diffusion Caching](../conferences/icml-2026/cards/2301-2400.md#paper-lei26j)
 - <a id="li26bi-inference"></a>[The Velocity Deficit: Initial Energy Injection for Flow Matching](../conferences/icml-2026/cards/2401-2500.md#paper-li26bi)
 - <a id="li26bk-inference"></a>[A Kinetic Energy Perspective of Flow Matching](../conferences/icml-2026/cards/2401-2500.md#paper-li26bk)
+- <a id="li26de-inference"></a>[Initialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior](../conferences/icml-2026/cards/2501-2600.md#paper-li26de)
 
 <a id="by-representation-learning"></a>
 

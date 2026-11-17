@@ -72,6 +72,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lee26p-modules"></a>[HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26p)
 - <a id="li26bs-modules"></a>[The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bs)
 - <a id="li26cd-modules"></a>[Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cd)
+- <a id="li26dl-modules"></a>[FiX: Introducing Fine-grained Forget Gate into Softmax Attention](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dl)
 
 <a id="by-loss-functions"></a>
 
@@ -151,6 +152,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26ax-optimization"></a>[Low-cost Full Fine-tuning: Learning What to Update for LLMs](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ax)
 - <a id="li26bf-optimization"></a>[OMAC: A Holistic Optimization Framework for LLM-Based Multi-Agent Collaboration](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bf)
 - <a id="li26bo-optimization"></a>[Textual Stochastic Gradient Descent: Discrete Optimization of External Memory for Reasoning Language Agents](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bo)
+- <a id="li26cw-optimization"></a>[Verbalized Bayesian Persuasion](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cw)
+- <a id="li26dh-optimization"></a>[NorMuon: Making Muon more efficient and scalable](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dh)
+- <a id="li26dr-optimization"></a>[WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dr)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -245,6 +249,10 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26ak-reinforcement-learning"></a>[Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ak)
 - <a id="li26au-reinforcement-learning"></a>[TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling](../../conferences/icml-2026/cards/2401-2500.md#paper-li26au)
 - <a id="li26cc-reinforcement-learning"></a>[Beyond Mode Collapse: Distribution Matching for Diverse Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cc)
+- <a id="li26da-reinforcement-learning"></a>[CPMöbius: Iterative Coach–Player Reasoning for Data-Free Reinforcement Learning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26da)
+- <a id="li26dp-reinforcement-learning"></a>[Trust Region Masking for Long-Horizon LLM Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dp)
+- <a id="li26dw-reinforcement-learning"></a>[Tackling Length Inflation Without Trade-offs: Group Relative Reward Rescaling for Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dw)
+- <a id="li26es-reinforcement-learning"></a>[Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](../../conferences/icml-2026/cards/2501-2600.md#paper-li26es)
 
 <a id="by-training-strategies"></a>
 
@@ -318,6 +326,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26af-training-strategies"></a>[Beyond Temperature: Hyperfitting as a Late-Stage Geometric Expansion](../../conferences/icml-2026/cards/2401-2500.md#paper-li26af)
 - <a id="li26az-training-strategies"></a>[IDLM: Inverse-distilled Diffusion Language Models](../../conferences/icml-2026/cards/2401-2500.md#paper-li26az)
 - <a id="li26bh-training-strategies"></a>[R-Diverse: Mitigating Diversity Illusion in Self-Play LLM Training](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bh)
+- <a id="li26cs-training-strategies"></a>[Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cs)
+- <a id="li26ds-training-strategies"></a>[Layer-wise Gradient Disentanglement: Decoupling Semantics and Preferences in Direct Preference Optimization](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ds)
+- <a id="li26ek-training-strategies"></a>[OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ek)
 
 <a id="by-data-strategies"></a>
 
@@ -516,6 +527,12 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26bn-inference"></a>[Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bn)
 - <a id="li26bv-inference"></a>[Judgment Operators: A Composition-Invariant Substrate for Multi-Agent Action Spaces](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bv)
 - <a id="li26cb-inference"></a>[AgentExpt: Automating AI Experiment Design with LLM-based Resource Retrieval Agent](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cb)
+- <a id="li26cq-inference"></a>[Skip a Layer or Loop It? Learning Program-of-Layers in LLMs](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cq)
+- <a id="li26cv-inference"></a>[Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cv)
+- <a id="li26dd-inference"></a>[Efficient Diffusion LLMs via Temporal-Spatial Parallel Decoding and Confidence Extrapolation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26dd)
+- <a id="li26dq-inference"></a>[Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dq)
+- <a id="li26dt-inference"></a>[AdverMCTS: Combating Pseudo-Correctness in Code Generation via Adversarial Monte Carlo Tree Search](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dt)
+- <a id="li26ev-inference"></a>[Stop When Further Reasoning Won’t Help: Attention-State Adaptive Generation in Reasoning Models](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ev)
 
 <a id="by-representation-learning"></a>
 
@@ -717,6 +734,14 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26k-evaluation"></a>[Do Activation Verbalization Methods Convey Privileged Information?](../../conferences/icml-2026/cards/2401-2500.md#paper-li26k)
 - <a id="li26an-evaluation"></a>[Data Provenance Auditing of Fine-Tuned Large Language Models with a Text-Preserving Technique](../../conferences/icml-2026/cards/2401-2500.md#paper-li26an)
 - <a id="li26ar-evaluation"></a>[QiMeng-LibBench: Benchmarking LLM Agents for Library-Scale Cross-Architecture Migration](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ar)
+- <a id="li26dm-evaluation"></a>[Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dm)
+- <a id="li26do-evaluation"></a>[From Winning to Understanding: A Diagnostic Long-Horizon RTS Benchmark for LLMs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26do)
+- <a id="li26dy-evaluation"></a>[AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dy)
+- <a id="li26dz-evaluation"></a>[Constructing Industrial-Scale Optimization Modeling Benchmark](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dz)
+- <a id="li26eb-evaluation"></a>[Gradients with Respect to Semantics Preserving Embeddings Tell the Uncertainty of Large Language Models](../../conferences/icml-2026/cards/2501-2600.md#paper-li26eb)
+- <a id="li26ei-evaluation"></a>[OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ei)
+- <a id="li26ej-evaluation"></a>[Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ej)
+- <a id="li26eu-evaluation"></a>[Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26eu)
 
 <a id="by-theory-statistics"></a>
 
@@ -752,4 +777,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lee26be-theory-statistics"></a>[Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26be)
 - <a id="lee26bl-theory-statistics"></a>[How to Correctly Report LLM-as-a-Judge Evaluations](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bl)
 - <a id="li26ag-theory-statistics"></a>[Understanding Generalization and Forgetting in In-Context Continual Learning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ag)
+- <a id="li26ed-theory-statistics"></a>[Predicting Large Model Test Losses with a Noisy Quadratic System](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ed)
 <!-- classification:end -->

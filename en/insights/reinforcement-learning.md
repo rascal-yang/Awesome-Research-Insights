@@ -102,6 +102,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Attention Illuminates LLM Reasoning: The Uncovered Preplan-and-Anchor Rhythm Enables Fine-Grained Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ak-reinforcement-learning) · 中文
 - [TreePO: Enhancing Policy Efficacy and Inference Efficiency with Tree Modeling](../../conferences/icml-2026/cards/2401-2500.md#li26au-reinforcement-learning) · 中文
 - [Beyond Mode Collapse: Distribution Matching for Diverse Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26cc-reinforcement-learning) · 中文
+- [CPMöbius: Iterative Coach–Player Reasoning for Data-Free Reinforcement Learning](../../conferences/icml-2026/cards/2401-2500.md#li26da-reinforcement-learning) · 中文
+- [Trust Region Masking for Long-Horizon LLM Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#li26dp-reinforcement-learning) · 中文
+- [Tackling Length Inflation Without Trade-offs: Group Relative Reward Rescaling for Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#li26dw-reinforcement-learning) · 中文
+- [Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](../../conferences/icml-2026/cards/2501-2600.md#li26es-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -202,6 +206,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity](../../conferences/icml-2026/cards/2301-2400.md#lee26ae-reinforcement-learning) · 中文
 - [Scaling Multi-Agent Environment Co-Design with Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#li26b-reinforcement-learning) · 中文
 - [What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity](../../conferences/icml-2026/cards/2401-2500.md#li26bj-reinforcement-learning) · 中文
+- [Vulnerable Agent Identification in Large-Scale Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#li26ee-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -284,4 +289,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · 中文
 - [LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching](../../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · 中文
 - [Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](../../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · 中文
+- [FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ch-reinforcement-learning) · 中文
 <!-- classification:end -->

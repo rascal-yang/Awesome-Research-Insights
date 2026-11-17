@@ -170,6 +170,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory](../../conferences/icml-2026/cards/2401-2500.md#li26bn-inference) · 中文
 - [Judgment Operators: A Composition-Invariant Substrate for Multi-Agent Action Spaces](../../conferences/icml-2026/cards/2401-2500.md#li26bv-inference) · 中文
 - [AgentExpt: Automating AI Experiment Design with LLM-based Resource Retrieval Agent](../../conferences/icml-2026/cards/2401-2500.md#li26cb-inference) · 中文
+- [Skip a Layer or Loop It? Learning Program-of-Layers in LLMs](../../conferences/icml-2026/cards/2401-2500.md#li26cq-inference) · 中文
+- [Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates](../../conferences/icml-2026/cards/2401-2500.md#li26cv-inference) · 中文
+- [Efficient Diffusion LLMs via Temporal-Spatial Parallel Decoding and Confidence Extrapolation](../../conferences/icml-2026/cards/2401-2500.md#li26dd-inference) · 中文
+- [Not All Prefills Are Equal: PPD Disaggregation for Multi-turn LLM Serving](../../conferences/icml-2026/cards/2501-2600.md#li26dq-inference) · 中文
+- [AdverMCTS: Combating Pseudo-Correctness in Code Generation via Adversarial Monte Carlo Tree Search](../../conferences/icml-2026/cards/2501-2600.md#li26dt-inference) · 中文
+- [Stop When Further Reasoning Won’t Help: Attention-State Adaptive Generation in Reasoning Models](../../conferences/icml-2026/cards/2501-2600.md#li26ev-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -232,6 +238,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Budget-Constrained Step-Level Diffusion Caching](../../conferences/icml-2026/cards/2301-2400.md#lei26j-inference) · 中文
 - [The Velocity Deficit: Initial Energy Injection for Flow Matching](../../conferences/icml-2026/cards/2401-2500.md#li26bi-inference) · 中文
 - [A Kinetic Energy Perspective of Flow Matching](../../conferences/icml-2026/cards/2401-2500.md#li26bk-inference) · 中文
+- [Initialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior](../../conferences/icml-2026/cards/2501-2600.md#li26de-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -342,6 +349,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Hermes: An Evidence-Driven Agentic Framework for Trustworthy and Explainable AI-Generated Video Detection](../../conferences/icml-2026/cards/2401-2500.md#li26be-inference) · 中文
 - [CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception](../../conferences/icml-2026/cards/2401-2500.md#li26bw-inference) · 中文
 - [Spectral Heat Flow for Conservative Token Condensation in Vision-Language Models](../../conferences/icml-2026/cards/2401-2500.md#li26ce-inference) · 中文
+- [FrameOracle: Learning What to See and How Much to See in Videos](../../conferences/icml-2026/cards/2401-2500.md#li26ci-inference) · 中文
+- [Polyphonia: Zero-Shot Timbre Transfer in Polyphonic Music with Acoustic-Informed Attention Calibration](../../conferences/icml-2026/cards/2401-2500.md#li26ck-inference) · 中文
+- [Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](../../conferences/icml-2026/cards/2501-2600.md#li26di-inference) · 中文
+- [Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases](../../conferences/icml-2026/cards/2501-2600.md#li26dj-inference) · 中文
+- [BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception](../../conferences/icml-2026/cards/2501-2600.md#li26eo-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

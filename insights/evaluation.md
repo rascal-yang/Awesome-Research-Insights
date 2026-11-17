@@ -198,6 +198,14 @@
 - [让目标模型和描述器持有冲突知识](../conferences/icml-2026/cards/2401-2500.md#li26k-evaluation) · Do Activation Verbalization Methods Convey Privileged Information?
 - [用不可见触发与回复对给文本做可检验溯源](../conferences/icml-2026/cards/2401-2500.md#li26an-evaluation) · Data Provenance Auditing of Fine-Tuned Large Language Models with a Text-Preserving Technique
 - [库级 SIMD 迁移的编译与性能评测](../conferences/icml-2026/cards/2401-2500.md#li26ar-evaluation) · QiMeng-LibBench: Benchmarking LLM Agents for Library-Scale Cross-Architecture Migration
+- [把科学解题所需知识单独提供来测推理差距](../conferences/icml-2026/cards/2501-2600.md#li26dm-evaluation) · Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning
+- [用固定宏动作接口诊断长时程对战决策](../conferences/icml-2026/cards/2501-2600.md#li26do-evaluation) · From Winning to Understanding: A Diagnostic Long-Horizon RTS Benchmark for LLMs
+- [可执行风险场景的逻辑与叙事分离](../conferences/icml-2026/cards/2501-2600.md#li26dy-evaluation) · AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation
+- [工业优化建模的反向基准构造](../conferences/icml-2026/cards/2501-2600.md#li26dz-evaluation) · Constructing Industrial-Scale Optimization Modeling Benchmark
+- [语义保持表示上的回答不确定性](../conferences/icml-2026/cards/2501-2600.md#li26eb-evaluation) · Gradients with Respect to Semantics Preserving Embeddings Tell the Uncertainty of Large Language Models
+- [工具智能体的可用性红队评估](../conferences/icml-2026/cards/2501-2600.md#li26ei-evaluation) · OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents
+- [用信息剖面对照评测集体推理](../conferences/icml-2026/cards/2501-2600.md#li26ej-evaluation) · Systematic Failures in Collective Reasoning under Distributed Information in Multi-Agent LLMs
+- [同时衡量越狱发生率和严重性](../conferences/icml-2026/cards/2501-2600.md#li26eu-evaluation) · Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -343,6 +351,7 @@
 - [用输入和中间态两次干预检验视觉推理链](../conferences/icml-2026/cards/2401-2500.md#li26r-evaluation) · Imagination Helps Visual Reasoning, But Not Yet in Latent Space
 - [把多轮遗忘请求作为测试序列并按实体路由适配器](../conferences/icml-2026/cards/2401-2500.md#li26z-evaluation) · MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs
 - [观察者中心的空间评测](../conferences/icml-2026/cards/2401-2500.md#li26bb-evaluation) · SAW-Bench: Learning Situated Awareness in the Real World
+- [单一扰动的语义依赖攻击评测](../conferences/icml-2026/cards/2401-2500.md#li26co-evaluation) · Semantic Router: On the Feasibility of Hijacking MLLMs via a Single Adversarial Perturbation
 
 <a id="by-ml-foundations"></a>
 

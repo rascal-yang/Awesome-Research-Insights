@@ -39,6 +39,7 @@ Reusable components and local changes to model inputs or connections.
 - [HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding](../../conferences/icml-2026/cards/2301-2400.md#lee26p-modules) · 中文
 - [The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](../../conferences/icml-2026/cards/2401-2500.md#li26bs-modules) · 中文
 - [Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention](../../conferences/icml-2026/cards/2401-2500.md#li26cd-modules) · 中文
+- [FiX: Introducing Fine-grained Forget Gate into Softmax Attention](../../conferences/icml-2026/cards/2501-2600.md#li26dl-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -65,6 +66,8 @@ Reusable components and local changes to model inputs or connections.
 - [Deformba: Vision State Space Model with Adaptive State Fusion](../../conferences/icml-2026/cards/2001-2100.md#ke26d-modules) · 中文
 - [Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception](../../conferences/icml-2026/cards/2101-2200.md#kim26by-modules) · 中文
 - [Concept Removal for Frontier Image Generative Models](../../conferences/icml-2026/cards/2201-2300.md#kumar26c-modules) · 中文
+- [One Model to Translate Them All: Universal Any-to-Any Translation for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cm-modules) · 中文
+- [CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cn-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -161,4 +164,5 @@ Reusable components and local changes to model inputs or connections.
 - [PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](../../conferences/icml-2026/cards/0601-0700.md#chen26fr-modules) · 中文
 - [BLIPs: Bayesian Learned Interatomic Potentials](../../conferences/icml-2026/cards/0701-0800.md#coscia26a-modules) · 中文
 - [Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](../../conferences/icml-2026/cards/1201-1300.md#gao26ap-modules) · 中文
+- [Graph Rewiring based on Flow Alignment for Improving Fluid Simulation](../../conferences/icml-2026/cards/2401-2500.md#li26cu-modules) · 中文
 <!-- classification:end -->

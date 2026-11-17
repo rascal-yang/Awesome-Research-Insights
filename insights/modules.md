@@ -39,6 +39,7 @@
 - [用结构探针定位表格超图的注入层](../conferences/icml-2026/cards/2301-2400.md#lee26p-modules) · HInT: Hypergraph Infusion at the Structural Layers Improves Table Understanding
 - [在值聚合后修正位置方差](../conferences/icml-2026/cards/2401-2500.md#li26bs-modules) · The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity
 - [按查询路由从多域抽取的注意力方向](../conferences/icml-2026/cards/2401-2500.md#li26cd-modules) · Train Once, Reuse Everywhere: Generalizable Implicit In-Context Learning by Routing Attention
+- [借 RMSNorm 的尺度消除把逐维遗忘施加在值上](../conferences/icml-2026/cards/2501-2600.md#li26dl-modules) · FiX: Introducing Fine-grained Forget Gate into Softmax Attention
 
 <a id="by-computer-vision"></a>
 
@@ -65,6 +66,8 @@
 - [用上下文偏移决定状态空间模型读哪里](../conferences/icml-2026/cards/2001-2100.md#ke26d-modules) · Deformba: Vision State Space Model with Adaptive State Fusion
 - [按可靠度门控视频预测记忆](../conferences/icml-2026/cards/2101-2200.md#kim26by-modules) · Memory as Dynamics: Learning Reliability-Guided Predictive Models for Online Video Perception
 - [用可分解转换器编辑内部生成特征](../conferences/icml-2026/cards/2201-2300.md#kumar26c-modules) · Concept Removal for Frontier Image Generative Models
+- [按模态对临时组合协同感知转换器](../conferences/icml-2026/cards/2401-2500.md#li26cm-modules) · One Model to Translate Them All: Universal Any-to-Any Translation for Heterogeneous Collaborative Perception
+- [协同感知协议里的模态统计干预](../conferences/icml-2026/cards/2401-2500.md#li26cn-modules) · CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -161,4 +164,5 @@
 - [脑电信号的复数频谱细化](../conferences/icml-2026/cards/0601-0700.md#chen26fr-modules) · PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding
 - [原子间势的自适应贝叶斯失活](../conferences/icml-2026/cards/0701-0800.md#coscia26a-modules) · BLIPs: Bayesian Learned Interatomic Potentials
 - [用虚拟三跳路径编码蛋白交互先验](../conferences/icml-2026/cards/1201-1300.md#gao26ap-modules) · Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach
+- [按当前流向为网格图加局部二跳边](../conferences/icml-2026/cards/2401-2500.md#li26cu-modules) · Graph Rewiring based on Flow Alignment for Improving Fluid Simulation
 <!-- classification:end -->

@@ -96,6 +96,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models](../../conferences/icml-2026/cards/1501-1600.md#he26ai-loss-functions) · 中文
 - [DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs](../../conferences/icml-2026/cards/1601-1700.md#hu26aw-loss-functions) · 中文
 - [Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges](../../conferences/icml-2026/cards/2201-2300.md#kosman26a-loss-functions) · 中文
+- [Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models](../../conferences/icml-2026/cards/2501-2600.md#li26er-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -155,4 +156,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](../../conferences/icml-2026/cards/1801-1900.md#jia26j-loss-functions) · 中文
 - [From Human Labels to Literature: Semi-Supervised Learning of NMR Chemical Shifts at Scale](../../conferences/icml-2026/cards/1901-2000.md#jin26k-loss-functions) · 中文
 - [PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials](../../conferences/icml-2026/cards/2101-2200.md#koker26a-loss-functions) · 中文
+- [Bias-Spectrum Neural Processes for Parametric PDEs: Architecture Priors Meet PDE Constraints](../../conferences/icml-2026/cards/2501-2600.md#li26dg-loss-functions) · 中文
 <!-- classification:end -->
