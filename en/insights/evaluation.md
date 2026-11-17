@@ -48,6 +48,12 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought](../../papers/llm.md#boppana26a-evaluation) · 中文
 - [Detecting Perspective Shifts in Multi-Agent Systems](../../papers/llm.md#bridgeford26a-evaluation) · 中文
 - [Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](../../papers/llm.md#calderon26a-evaluation) · 中文
+- [DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents](../../papers/llm.md#cao26z-evaluation) · 中文
+- [SEDRAS: Symbolically Evaluated Deep Research And Science](../../papers/llm.md#carlsson26a-evaluation) · 中文
+- [On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance](../../papers/llm.md#casanova26a-evaluation) · 中文
+- [How2Everything: Mining the Web for How-to Procedures to Evaluate and Improve LLMs](../../papers/llm.md#chang26e-evaluation) · 中文
+- [Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](../../papers/llm.md#chanin26a-evaluation) · 中文
+- [Token-Efficient Change Detection in LLM APIs](../../papers/llm.md#chauvin26a-evaluation) · 中文
 
 ### Computer Vision
 
@@ -69,6 +75,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 ### Robotics
 
 - [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](../../papers/robotics.md#bai26e-evaluation) · 中文
+- [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](../../papers/robotics.md#cao26w-evaluation) · 中文
 
 ### Multimodal Learning
 
@@ -76,6 +83,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](../../papers/multimodal.md#borchmann26a-evaluation) · 中文
 - [Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](../../papers/multimodal.md#bouguerra26a-evaluation) · 中文
 - [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](../../papers/multimodal.md#cao26i-evaluation) · 中文
+- [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](../../papers/multimodal.md#cao26v-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -105,4 +113,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](../../papers/scientific-ml.md#bai26a-evaluation) · 中文
 - [Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](../../papers/scientific-ml.md#becktepe26a-evaluation) · 中文
 - [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](../../papers/scientific-ml.md#cao26g-evaluation) · 中文
+- [A Systematic Study of Behavioral Cloning for Scientific Data Annotation](../../papers/scientific-ml.md#chandok26a-evaluation) · 中文
 <!-- classification:end -->

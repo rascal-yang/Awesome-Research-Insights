@@ -33,6 +33,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://proceedings.mlr.press/v306/bai26g.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bai26g-optimization) |
+| [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -97,4 +98,5 @@ The linked short insights are available in Chinese.
 | [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#amran26a-theory-statistics) |
 | [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) |
 | [On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) |
+| [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) |
 <!-- classification:end -->

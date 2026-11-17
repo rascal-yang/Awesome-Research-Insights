@@ -17,10 +17,13 @@ Data selection, annotation, augmentation, and sampling.
 - [SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale](../../papers/llm.md#badertdinov26a-data-strategies) · 中文
 - [Facts in Stats: Impacts of Pretraining Diversity on Language Model Generalization](../../papers/llm.md#behnia26a-data-strategies) · 中文
 - [Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](../../papers/llm.md#bu26b-data-strategies) · 中文
+- [Safe and Scalable Web Agent Learning via Recreated Websites](../../papers/llm.md#chae26a-data-strategies) · 中文
+- [Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters](../../papers/llm.md#chandak26a-data-strategies) · 中文
 
 ### Computer Vision
 
 - [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](../../papers/computer-vision.md#cai26m-data-strategies) · 中文
+- [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](../../papers/computer-vision.md#cao26s-data-strategies) · 中文
 
 ### Natural Language Processing
 
@@ -35,6 +38,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](../../papers/multimodal.md#acuna26a-data-strategies) · 中文
 - [PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](../../papers/multimodal.md#assouel26a-data-strategies) · 中文
 - [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](../../papers/multimodal.md#bo26b-data-strategies) · 中文
+- [Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation](../../papers/multimodal.md#cao26aa-data-strategies) · 中文
+- [From Diagrams to Code: Multilingual Programming with Visual Design](../../papers/multimodal.md#chai26b-data-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -49,4 +54,5 @@ Data selection, annotation, augmentation, and sampling.
 ### Scientific Machine Learning
 
 - [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](../../papers/scientific-ml.md#brockschmidt26a-data-strategies) · 中文
+- [DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](../../papers/scientific-ml.md#chan26a-data-strategies) · 中文
 <!-- classification:end -->

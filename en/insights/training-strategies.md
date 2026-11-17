@@ -21,6 +21,7 @@ Training schedules, curricula, and task or stage composition.
 - [Diffract: Spectral View of LLM Domain Adaptation](../../papers/llm.md#borodin26a-training-strategies) · 中文
 - [Provable Sample Efficiency of Curriculum Post-Training for Transformer Reasoning](../../papers/llm.md#bu26a-training-strategies) · 中文
 - [Scaling depth capacity via zero/one-layer model expansion](../../papers/llm.md#bu26c-training-strategies) · 中文
+- [Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning](../../papers/llm.md#casademunt26a-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -44,6 +45,7 @@ Training schedules, curricula, and task or stage composition.
 - [Efficient Learning of Deep State Space Models via Importance Smoothing](../../papers/ml-foundations.md#brady26a-training-strategies) · 中文
 - [One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models](../../papers/ml-foundations.md#cameron26a-training-strategies) · 中文
 - [Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](../../papers/ml-foundations.md#cao26a-training-strategies) · 中文
+- [Discrete Diffusion Samplers and Bridges: Off-Policy Algorithms and Applications in Latent Spaces](../../papers/ml-foundations.md#carter26a-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -53,4 +55,5 @@ Training schedules, curricula, and task or stage composition.
 ### Scientific Machine Learning
 
 - [TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](../../papers/scientific-ml.md#cao26r-training-strategies) · 中文
+- [Tokenised Flow Matching for Hierarchical Simulation Based Inference](../../papers/scientific-ml.md#charles26a-training-strategies) · 中文
 <!-- classification:end -->

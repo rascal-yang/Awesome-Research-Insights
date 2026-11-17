@@ -63,6 +63,8 @@ Teacher features can be low rank for each image while occupying different subspa
 
 - [Learning to Remember, Learn, and Forget in Attention-Based Models](../../papers/llm.md#bonnet26a-modules) · 中文
 - [Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models](../../papers/llm.md#byun26a-modules) · 中文
+- [SpanNorm: Reconciling Training Stability and Performance in Deep Transformers](../../papers/llm.md#chao26b-modules) · 中文
+- [Doc-to-LoRA: Learning to Instantly Internalize Contexts](../../papers/llm.md#charakorn26a-modules) · 中文
 
 ### Computer Vision
 
@@ -70,6 +72,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](../../papers/computer-vision.md#candogan26a-modules) · 中文
 - [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](../../papers/computer-vision.md#cao26j-modules) · 中文
 - [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](../../papers/computer-vision.md#cao26n-modules) · 中文
+- [StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](../../papers/computer-vision.md#cao26ab-modules) · 中文
 - [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../insights/modules.md#widen-the-student-distillation-interface)
 
 ### Natural Language Processing
@@ -94,6 +97,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [ATLAS: Learning to Optimally Memorize the Context at Test Time](../../papers/ml-foundations.md#behrouz26b-modules) · 中文
 - [Time Series Forecasting Through the Lens of Dynamics](../../papers/ml-foundations.md#brachet26a-modules) · 中文
 - [Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications](../../papers/ml-foundations.md#brandoit26a-modules) · 中文
+- [Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](../../papers/ml-foundations.md#cao26af-modules) · 中文
+- [The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](../../papers/ml-foundations.md#chaudhry26a-modules) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -103,4 +108,5 @@ Teacher features can be low rank for each image while occupying different subspa
 ### Scientific Machine Learning
 
 - [Smoothness Errors in Dynamics Models and How to Avoid Them](../../papers/scientific-ml.md#berman26d-modules) · 中文
+- [MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](../../papers/scientific-ml.md#chang26b-modules) · 中文
 <!-- classification:end -->

@@ -11,6 +11,11 @@ Gradient updates, parameterization, and optimization dynamics.
 
 - [Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](../../papers/llm.md#abbasi26a-optimization) · 中文
 - [AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](../../papers/llm.md#cai26a-optimization) · 中文
+- [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](../../papers/llm.md#castin26a-optimization) · 中文
+
+### Robotics
+
+- [Blending Neural Control Density Functions for Stabilization and Safety](../../papers/robotics.md#chaudhary26a-optimization) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -45,8 +50,15 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval](../../papers/ml-foundations.md#braun26a-optimization) · 中文
 - [Flatness-Aware Stochastic Gradient Langevin Dynamics](../../papers/ml-foundations.md#bruno26a-optimization) · 中文
 - [Fast Spectrally Sparse Signal Reconstruction via Jacobi-Preconditioned Gradient Descent](../../papers/ml-foundations.md#cai26j-optimization) · 中文
+- [Diversity-Aware Recursive Feature Multiple Kernel Learning](../../papers/ml-foundations.md#cao26ae-optimization) · 中文
+- [Bregman meets Lévy: Stochastic Mirror Descent with Heavy-Tailed Noise in Continuous and Discrete Time](../../papers/ml-foundations.md#cauvin26a-optimization) · 中文
+- [Geometric Convergence of Gauss–Newton for Neural Networks: Riemannian Geometry and Adaptive Damping](../../papers/ml-foundations.md#cayci26a-optimization) · 中文
+- [Efficient Online Variational Estimation via Monte Carlo Sampling](../../papers/ml-foundations.md#chagneux26a-optimization) · 中文
+- [Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes](../../papers/ml-foundations.md#chakraborty26c-optimization) · 中文
+- [Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem](../../papers/ml-foundations.md#chao26a-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](../../papers/graph-and-recommendation.md#bai26g-optimization) · 中文
+- [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) · 中文
 <!-- classification:end -->

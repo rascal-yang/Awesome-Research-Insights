@@ -52,6 +52,8 @@ The linked short insights are available in Chinese.
 | [Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](https://proceedings.mlr.press/v306/acuna26a.html) | [Read insight (中文)](../../papers/multimodal.md#acuna26a-data-strategies) |
 | [PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://proceedings.mlr.press/v306/assouel26a.html) | [Read insight (中文)](../../papers/multimodal.md#assouel26a-data-strategies) |
 | [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://proceedings.mlr.press/v306/bo26b.html) | [Read insight (中文)](../../papers/multimodal.md#bo26b-data-strategies) |
+| [Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation](https://proceedings.mlr.press/v306/cao26aa.html) | [Read insight (中文)](../../papers/multimodal.md#cao26aa-data-strategies) |
+| [From Diagrams to Code: Multilingual Programming with Visual Design](https://proceedings.mlr.press/v306/chai26b.html) | [Read insight (中文)](../../papers/multimodal.md#chai26b-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -77,6 +79,7 @@ The linked short insights are available in Chinese.
 | [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://proceedings.mlr.press/v306/borchmann26a.html) | [Read insight (中文)](../../papers/multimodal.md#borchmann26a-evaluation) |
 | [Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](https://proceedings.mlr.press/v306/bouguerra26a.html) | [Read insight (中文)](../../papers/multimodal.md#bouguerra26a-evaluation) |
 | [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](https://proceedings.mlr.press/v306/cao26i.html) | [Read insight (中文)](../../papers/multimodal.md#cao26i-evaluation) |
+| [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://proceedings.mlr.press/v306/cao26v.html) | [Read insight (中文)](../../papers/multimodal.md#cao26v-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

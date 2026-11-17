@@ -42,6 +42,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) · 中文
 - [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](../../papers/reinforcement-learning.md#bollini26a-theory-statistics) · 中文
 - [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) · 中文
+- [Understanding Behavior Cloning with Action Quantization](../../papers/reinforcement-learning.md#cao26x-theory-statistics) · 中文
+- [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](../../papers/reinforcement-learning.md#carr26a-theory-statistics) · 中文
 
 ### Multimodal Learning
 
@@ -105,6 +107,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements](../../papers/ml-foundations.md#cai26l-theory-statistics) · 中文
 - [On the Robustness of Langevin Dynamics to Score Function Error](../../papers/ml-foundations.md#cao26b-theory-statistics) · 中文
 - [A Control-Theoretic View of Mamba on Stability and Robustness](../../papers/ml-foundations.md#cao26l-theory-statistics) · 中文
+- [A Unifying View of Variational Generative Wasserstein Flows](../../papers/ml-foundations.md#caucheteux26a-theory-statistics) · 中文
+- [Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe](../../papers/ml-foundations.md#chan26b-theory-statistics) · 中文
+- [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](../../papers/ml-foundations.md#chang26f-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -112,6 +117,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](../../papers/graph-and-recommendation.md#amran26a-theory-statistics) · 中文
 - [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) · 中文
 - [On the Theoretical Limitations of Embedding-based Link Prediction](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) · 中文
+- [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) · 中文
 
 ### Scientific Machine Learning
 

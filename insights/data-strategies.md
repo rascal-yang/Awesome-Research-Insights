@@ -17,10 +17,13 @@
 - [代码 Agent 训练数据](../papers/llm.md#badertdinov26a-data-strategies) · SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale
 - [事实预训练](../papers/llm.md#behnia26a-data-strategies) · Facts in Stats: Impacts of Pretraining Diversity on Language Model Generalization
 - [GUI Agent 错误恢复](../papers/llm.md#bu26b-data-strategies) · Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents
+- [网页 Agent 训练环境](../papers/llm.md#chae26a-data-strategies) · Safe and Scalable Web Agent Learning via Recreated Websites
+- [开放预测训练数据](../papers/llm.md#chandak26a-data-strategies) · Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters
 
 ### 计算机视觉
 
 - [图像训练数据保护](../papers/computer-vision.md#cai26m-data-strategies) · FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization
+- [合成图检测](../papers/computer-vision.md#cao26s-data-strategies) · Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection
 
 ### 自然语言处理
 
@@ -35,6 +38,8 @@
 - [数据与后训练](../papers/multimodal.md#acuna26a-data-strategies) · Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale
 - [视觉定位监督](../papers/multimodal.md#assouel26a-data-strategies) · PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs
 - [多模态数据蒸馏](../papers/multimodal.md#bo26b-data-strategies) · Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching
+- [弱监督指代分割](../papers/multimodal.md#cao26aa-data-strategies) · Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation
+- [图解到代码](../papers/multimodal.md#chai26b-data-strategies) · From Diagrams to Code: Multilingual Programming with Visual Design
 
 ### 机器学习基础与统计
 
@@ -49,4 +54,5 @@
 ### 科学机器学习
 
 - [生存分析合成数据](../papers/scientific-ml.md#brockschmidt26a-data-strategies) · SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis
+- [过程奖励数据筛选](../papers/scientific-ml.md#chan26a-data-strategies) · DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning
 <!-- classification:end -->

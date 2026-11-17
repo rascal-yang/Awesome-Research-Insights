@@ -25,6 +25,7 @@
 ### 机器人学
 
 - [VLA 潜空间推理](../papers/robotics.md#bai26h-architecture) · Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models
+- [频域分层动作策略](../papers/robotics.md#cao26u-architecture) · Hierarchical Policy Learning via Spectral Decomposition
 
 ### 多模态学习
 
@@ -38,6 +39,8 @@
 - [可线性化网络](../papers/ml-foundations.md#berman26c-architecture) · Who Said Neural Networks Aren’t Linear?
 - [非高斯扩散](../papers/ml-foundations.md#bertholom26a-architecture) · M-Star: Markovian Projection of Star-Shaped Diffusion for Exponential Family Distributions
 - [离散函数近似](../papers/ml-foundations.md#candogan26b-architecture) · Deep Flow Networks
+- [受约束域回归](../papers/ml-foundations.md#chakraborty26a-architecture) · Probabilistically-routed Bayesian Additive Spanning Trees for Learning on Constrained Domains
+- [时序计数分解](../papers/ml-foundations.md#chaussard26a-architecture) · Independent Component Discovery in Temporal Count Data
 
 ### 图学习与推荐
 
@@ -56,4 +59,6 @@
 - [连续时间动力学](../papers/scientific-ml.md#brandle26a-architecture) · Continuous-Time Piecewise-Linear Recurrent Neural Networks
 - [几何轨迹生成](../papers/scientific-ml.md#brinke26a-architecture) · STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation
 - [无线传播建模](../papers/scientific-ml.md#bu26d-architecture) · Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling
+- [实验室布局生成](../papers/scientific-ml.md#cao26ad-architecture) · LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory
+- [生物声学定位](../papers/scientific-ml.md#chasmai26b-architecture) · Bioacoustic Geolocation: Species Sounds as Geographic Signals
 <!-- classification:end -->

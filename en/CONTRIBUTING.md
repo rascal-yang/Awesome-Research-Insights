@@ -26,6 +26,8 @@ A paper qualifies if it offers one independently explainable insight that reader
 
 For ICML 2026 entries, record the primary domain and technique in the [classification list](../conferences/icml-2026/classification.tsv). Update the matching section on the domain page and the cross-domain technique index, then check both homepage counts. English indexes may link to short Chinese insights.
 
+For batch updates, run `python conferences/icml-2026/append_batch.py <batch.tsv> --date YYYY-MM-DD` from the repository root. Use the columns `number`, `pmlr_id`, `domain`, `technique`, `topic`, and `insight` in that order, with existing classification values. The script checks numbering and refreshes the indexes. Write each insight from the paper.
+
 Count papers in their primary domain indexes. Each paper counts once regardless of its insight count or cross-links. Update the domain counts on both homepages when adding, removing, or moving a paper.
 
 - **On merge.** Use the merge date for the latest additions on both homepages. Keep the three most recent batches in **Recent Updates**. Earlier changes remain in the pull request history.

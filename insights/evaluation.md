@@ -48,6 +48,12 @@
 - [推理忠实性](../papers/llm.md#boppana26a-evaluation) · Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought
 - [多 Agent 行为监控](../papers/llm.md#bridgeford26a-evaluation) · Detecting Perspective Shifts in Multi-Agent Systems
 - [事实召回评测](../papers/llm.md#calderon26a-evaluation) · Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality
+- [动态调度评测](../papers/llm.md#cao26z-evaluation) · DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents
+- [科学发现 Agent 评测](../papers/llm.md#carlsson26a-evaluation) · SEDRAS: Symbolically Evaluated Deep Research And Science
+- [LLM 标注评测](../papers/llm.md#casanova26a-evaluation) · On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance
+- [操作步骤评测](../papers/llm.md#chang26e-evaluation) · How2Everything: Mining the Web for How-to Procedures to Evaluate and Improve LLMs
+- [稀疏自编码器可解释性](../papers/llm.md#chanin26a-evaluation) · Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders
+- [LLM API 变化检测](../papers/llm.md#chauvin26a-evaluation) · Token-Efficient Change Detection in LLM APIs
 
 ### 计算机视觉
 
@@ -69,6 +75,7 @@
 ### 机器人学
 
 - [机器人轨迹安全](../papers/robotics.md#bai26e-evaluation) · SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics
+- [柔性线状物体操作](../papers/robotics.md#cao26w-evaluation) · DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics
 
 ### 多模态学习
 
@@ -76,6 +83,7 @@
 - [文档 Agent 评测](../papers/multimodal.md#borchmann26a-evaluation) · Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections
 - [视觉语言模型量化](../papers/multimodal.md#bouguerra26a-evaluation) · Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy
 - [图像感知评测](../papers/multimodal.md#cao26i-evaluation) · UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
+- [音视频生成评测](../papers/multimodal.md#cao26v-evaluation) · T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation
 
 ### 机器学习基础与统计
 
@@ -105,4 +113,5 @@
 - [CAD 操作评测](../papers/scientific-ml.md#bai26a-evaluation) · Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation
 - [流体控制强化学习](../papers/scientific-ml.md#becktepe26a-evaluation) · Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control
 - [仿真 Agent 成本评测](../papers/scientific-ml.md#cao26g-evaluation) · SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs
+- [科学标注行为克隆](../papers/scientific-ml.md#chandok26a-evaluation) · A Systematic Study of Behavioral Cloning for Scientific Data Annotation
 <!-- classification:end -->

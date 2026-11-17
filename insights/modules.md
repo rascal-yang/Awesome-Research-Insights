@@ -67,6 +67,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 
 - [线性注意力记忆](../papers/llm.md#bonnet26a-modules) · Learning to Remember, Learn, and Forget in Attention-Based Models
 - [归一化替换](../papers/llm.md#byun26a-modules) · Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models
+- [深层 Transformer 归一化](../papers/llm.md#chao26b-modules) · SpanNorm: Reconciling Training Stability and Performance in Deep Transformers
+- [上下文转 LoRA](../papers/llm.md#charakorn26a-modules) · Doc-to-LoRA: Learning to Instantly Internalize Contexts
 
 ### 计算机视觉
 
@@ -74,6 +76,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [小型视觉 Transformer](../papers/computer-vision.md#candogan26a-modules) · Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers
 - [分层三维语义分割](../papers/computer-vision.md#cao26j-modules) · Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation
 - [轻量视频超分](../papers/computer-vision.md#cao26n-modules) · LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution
+- [结构化图像生成](../papers/computer-vision.md#cao26ab-modules) · StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation
 - [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 ### 自然语言处理
@@ -98,6 +101,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [测试时记忆更新](../papers/ml-foundations.md#behrouz26b-modules) · ATLAS: Learning to Optimally Memorize the Context at Test Time
 - [时间序列预测](../papers/ml-foundations.md#brachet26a-modules) · Time Series Forecasting Through the Lens of Dynamics
 - [低功耗循环网络](../papers/ml-foundations.md#brandoit26a-modules) · Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications
+- [多实例部分标签](../papers/ml-foundations.md#cao26af-modules) · Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product
+- [自监督投影头](../papers/ml-foundations.md#chaudhry26a-modules) · The Geometry of Projection Heads: Conditioning, Invariance, and Collapse
 
 ### 图学习与推荐
 
@@ -107,4 +112,5 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 ### 科学机器学习
 
 - [网格动力学平滑](../papers/scientific-ml.md#berman26d-modules) · Smoothness Errors in Dynamics Models and How to Avoid Them
+- [医学视觉定位](../papers/scientific-ml.md#chang26b-modules) · MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models
 <!-- classification:end -->

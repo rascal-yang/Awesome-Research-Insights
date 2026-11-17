@@ -19,6 +19,8 @@
 | <a id="berman26c-architecture"></a>[Who Said Neural Networks Aren’t Linear?](https://proceedings.mlr.press/v306/berman26c.html) | 可线性化网络 | 用可逆网络把输入输出变到新坐标，中间只放线性算子；共享坐标变换的复合可直接合并线性算子，论文用它将多步扩散合成一步。 |
 | <a id="bertholom26a-architecture"></a>[M-Star: Markovian Projection of Star-Shaped Diffusion for Exponential Family Distributions](https://proceedings.mlr.press/v306/bertholom26a.html) | 非高斯扩散 | 在星形扩散的非马尔可夫前向过程上学习马尔可夫投影，使指数族噪声模型也能保持连贯的反向轨迹并用于少步蒸馏。 |
 | <a id="candogan26b-architecture"></a>[Deep Flow Networks](https://proceedings.mlr.press/v306/candogan26b.html) | 离散函数近似 | 把最小费用流的值函数扩展为可训练模型，可逼近具有凸延拓的离散函数。偏离 M 凸结构的程度决定最小化难度。 |
+| <a id="chakraborty26a-architecture"></a>[Probabilistically-routed Bayesian Additive Spanning Trees for Learning on Constrained Domains](https://proceedings.mlr.press/v306/chakraborty26a.html) | 受约束域回归 | 把贝叶斯生成树的硬分割改成沿树概率路由，可拟合平滑函数；固定树下仍能利用稀疏精度矩阵做后验计算。 |
+| <a id="chaussard26a-architecture"></a>[Independent Component Discovery in Temporal Count Data](https://proceedings.mlr.press/v306/chaussard26a.html) | 时序计数分解 | 按不同运行状态建模独立潜成分的贡献，以 Poisson 对数正态模型生成计数，可以区分持续共变成分与状态切换。 |
 
 <a id="by-modules"></a>
 
@@ -34,6 +36,8 @@
 | <a id="behrouz26b-modules"></a>[ATLAS: Learning to Optimally Memorize the Context at Test Time](https://proceedings.mlr.press/v306/behrouz26b.html) | 测试时记忆更新 | 更新循环记忆时联合优化滑窗内近期多个 token 的加权键值拟合误差，使写入过程能结合历史上下文。 |
 | <a id="brachet26a-modules"></a>[Time Series Forecasting Through the Lens of Dynamics](https://proceedings.mlr.press/v306/brachet26a.html) | 时间序列预测 | 在模型末端加入直接从历史数据点到未来数据点的动态模块，可以补足只在中间层表征中建模时序依赖的做法。 |
 | <a id="brandoit26a-modules"></a>[Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications](https://proceedings.mlr.press/v306/brandoit26a.html) | 低功耗循环网络 | 将离散记忆状态改为累积更新，使梯度能沿时间跳连传播。在保持量化记忆和迟滞特性的同时，可减轻早期训练对初始化的敏感性。 |
+| <a id="cao26af-modules"></a>[Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](https://proceedings.mlr.press/v306/cao26af.html) | 多实例部分标签 | 用包级预测的平均梯度外积找出对判别最敏感的特征方向，并据此重加权实例注意力，辅助识别被错误候选标签淹没的关键实例。 |
+| <a id="chaudhry26a-modules"></a>[The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](https://proceedings.mlr.press/v306/chaudhry26a.html) | 自监督投影头 | 线性投影头可做隐式白化，而平滑非线性头可在表征坍缩点引入负曲率。投影头的深度和激活函数因此会影响主干保留的信息。 |
 
 <a id="by-loss-functions"></a>
 
@@ -45,6 +49,7 @@
 | <a id="applebaum26a-loss-functions"></a>[Optimal Learning from Label Proportions with General Loss Functions](https://proceedings.mlr.press/v306/applebaum26a.html) | 聚合标签学习 | 用组内标签比例构造低方差去偏损失估计，使只有聚合标签的二分类和多分类也能使用多种常见训练损失。 |
 | <a id="berndt26a-loss-functions"></a>[Approximate Equivariance via Projection-Based Regularisation](https://proceedings.mlr.press/v306/berndt26a.html) | 近似等变正则 | 逐层正交投影得到等变分量，直接惩罚剩下的算子分量，可以覆盖整个群轨道，省掉大量抽样变换。 |
 | <a id="cao26k-loss-functions"></a>[Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](https://proceedings.mlr.press/v306/cao26k.html) | 不平衡域泛化 | 在对比损失中放大负样本梯度以拉开类别边界，再用重加权交叉熵与跨域预测对齐来处理类内聚合、标签偏移和域偏移。 |
+| <a id="chatterjee26a-loss-functions"></a>[One-shot Conditional Sampling: MMD meets Nearest Neighbors](https://proceedings.mlr.press/v306/chatterjee26a.html) | 单步条件采样 | 用近邻构造局部条件分布的训练估计，并用 MMD 直接优化生成器；测试时一次前向即可采样。 |
 
 <a id="by-optimization"></a>
 
@@ -83,6 +88,12 @@
 | <a id="braun26a-optimization"></a>[Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval](https://proceedings.mlr.press/v306/braun26a.html) | 谱梯度优化 | 相位恢复中，高方差方向可能与真实信号正交，普通梯度更新会在早期放大这个方向。谱梯度归一化能抑制这种无关放大。 |
 | <a id="bruno26a-optimization"></a>[Flatness-Aware Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v306/bruno26a.html) | Langevin 优化 | 把噪声尺度与逆温度联合设定，可让一阶 Langevin 更新采样偏向平坦的低损失盆地，同时保留较低的优化开销。 |
 | <a id="cai26j-optimization"></a>[Fast Spectrally Sparse Signal Reconstruction via Jacobi-Preconditioned Gradient Descent](https://proceedings.mlr.press/v306/cai26j.html) | 谱稀疏信号重建 | 把信号重建写成低秩 Hankel 补全，在因子空间用 Jacobi 预条件更新；可保留一阶迭代成本，并在论文条件下让线性收敛率摆脱条件数。 |
+| <a id="cao26ae-optimization"></a>[Diversity-Aware Recursive Feature Multiple Kernel Learning](https://proceedings.mlr.press/v306/cao26ae.html) | 多核学习 | 先从数据学习特征加权核，再联合优化核质量和多样性。线性松弛与 Nyström 草图可降低组合选核成本。 |
+| <a id="cauvin26a-optimization"></a>[Bregman meets Lévy: Stochastic Mirror Descent with Heavy-Tailed Noise in Continuous and Discrete Time](https://proceedings.mlr.press/v306/cauvin26a.html) | 重尾随机镜像下降 | 用 Lévy 跳过程分析重尾随机梯度。即使方差无限，只要存在一阶以上的矩，仍可得到依赖矩阶数和目标曲率的收敛界。 |
+| <a id="cayci26a-optimization"></a>[Geometric Convergence of Gauss–Newton for Neural Networks: Riemannian Geometry and Adaptive Damping](https://proceedings.mlr.press/v306/cayci26a.html) | Gauss–Newton 训练 | 把欠参数化的高斯–牛顿视作函数流形上的梯度下降，在过参数化时根据曲率调阻尼，可在特定条件下避免最小核特征值拖慢收敛。 |
+| <a id="chagneux26a-optimization"></a>[Efficient Online Variational Estimation via Monte Carlo Sampling](https://proceedings.mlr.press/v306/chagneux26a.html) | 在线变分估计 | 用独立 Monte Carlo 样本估计流式证据下界及其梯度，使状态空间模型的参数和潜状态后验能在新观测到达时联合更新。 |
+| <a id="chakraborty26c-optimization"></a>[Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes](https://proceedings.mlr.press/v306/chakraborty26c.html) | 随机约束优化 | 无需每步投影到整个可行交集，抽取随机数量的约束做 Polyak 式可行性更新，再与目标的梯度步交替。 |
+| <a id="chao26a-optimization"></a>[Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem](https://proceedings.mlr.press/v306/chao26a.html) | 多仿射等式约束 | 即使全局问题非凸，固定其余变量后仍可利用单块结构。论文给出这类问题上 ADMM 的末次迭代收敛，约束非凸性受限时可线性收敛。 |
 
 <a id="by-training-strategies"></a>
 
@@ -98,6 +109,7 @@
 | <a id="brady26a-training-strategies"></a>[Efficient Learning of Deep State Space Models via Importance Smoothing](https://proceedings.mlr.press/v306/brady26a.html) | 状态空间模型训练 | 把变分训练与重要性平滑结合为可并行的 Monte Carlo 训练，避免沿时间轴串行运行传统粒子滤波，兼顾生成和判别任务。 |
 | <a id="cameron26a-training-strategies"></a>[One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models](https://proceedings.mlr.press/v306/cameron26a.html) | 递归去噪训练 | 按不同强度破坏目标解，再监督循环模型用多次共享块更新恢复，可让中间状态更接近推理过程，并训练非贪心细化路径。 |
 | <a id="cao26a-training-strategies"></a>[Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](https://proceedings.mlr.press/v306/cao26a.html) | 异构联邦学习 | 每层保留各设备共同训练的主干，剩余神经元按历史激活频率概率抽样，为不同设备生成子网并减少参数冲突。 |
+| <a id="carter26a-training-strategies"></a>[Discrete Diffusion Samplers and Bridges: Off-Policy Algorithms and Applications in Latent Spaces](https://proceedings.mlr.press/v306/carter26a.html) | 离散扩散采样 | 用离策略样本训练离散扩散采样器，并将训练扩展为连接数据分布和未归一化能量目标的 Schrödinger 桥。 |
 
 <a id="by-data-strategies"></a>
 
@@ -117,6 +129,7 @@
 | :--- | :--- | :--- |
 | <a id="blessing26a-inference"></a>[Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching](https://proceedings.mlr.press/v306/blessing26a.html) | 未归一化分布采样 | 把扩散匹配统一成由 Nelson 关系导出的不动点迭代，允许使用更一般的先验。阻尼正则可以缓和迭代中的模态坍缩。 |
 | <a id="block26a-inference"></a>[Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](https://proceedings.mlr.press/v306/block26a.html) | 生成式模型遗忘 | 先对基座分布做温度缩放压平待遗忘样本的高概率峰，再用区分保留与遗忘数据的小分类器调整采样，以改善集中遗忘集的有限样本效果。 |
+| <a id="castro-maci-as26a-inference"></a>[Conditional Diffusion Sampling](https://proceedings.mlr.press/v306/castro-maci-as26a.html) | 条件扩散采样 | 先用并行回火做全局探索，再沿有闭式形式的条件 SDE 做短时局部传输，结合两者能力而无需求助神经网络近似。 |
 
 <a id="by-representation-learning"></a>
 
@@ -130,6 +143,7 @@
 | <a id="batra26a-representation-learning"></a>[Uncovering the Latent Potential of Deep Intermediate Representations](https://proceedings.mlr.press/v306/batra26a.html) | 中间层特征迁移 | 任务判别信息随深度非单调分布。先用谱方法挑中间层子空间，再用几何正则保持类别结构，可以改善迁移。 |
 | <a id="berardini26a-representation-learning"></a>[Distribution Alignment for One-Shot Federated Learning via Optimal Transport](https://proceedings.mlr.press/v306/berardini26a.html) | 单轮联邦学习 | 用冻结编码器提取各方特征统计，以 Bures–Wasserstein 重心作共同参考，再通过闭式传输一次对齐本地表示。 |
 | <a id="calvo-ordonez26a-representation-learning"></a>[Richer Bayesian Last Layers with Subsampled NTK Features](https://proceedings.mlr.press/v306/calvo-ordonez26a.html) | 贝叶斯不确定性 | 把全网络的神经切线核特征投影到末层特征空间，可让贝叶斯末层纳入前部网络的变化，同时保持低成本推断。 |
+| <a id="cao26t-representation-learning"></a>[Causal Feature Learning via Generalized Rayleigh Quotients](https://proceedings.mlr.press/v306/cao26t.html) | 跨环境特征提取 | 用广义 Rayleigh 商在最大化时序预测相关性的同时惩罚环境之间的均值漂移，从而提取对工况变化更稳健的子空间。 |
 
 <a id="by-evaluation"></a>
 
@@ -211,4 +225,7 @@
 | <a id="cai26l-theory-statistics"></a>[Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements](https://proceedings.mlr.press/v306/cai26l.html) | 稀疏尖峰恢复 | 稀疏尖峰含足够大的单个坐标时，列阈值化就能以约为稀疏度平方根的信号强度实现估计和支持集恢复，再用截断幂法精化。 |
 | <a id="cao26b-theory-statistics"></a>[On the Robustness of Langevin Dynamics to Score Function Error](https://proceedings.mlr.press/v306/cao26b.html) | 分数误差与 Langevin 采样 | 对某些高维分布，即使估计分数的 Lp 误差任意小，多项式时间的 Langevin 采样仍可能在总变差意义下远离目标。 |
 | <a id="cao26l-theory-statistics"></a>[A Control-Theoretic View of Mamba on Stability and Robustness](https://proceedings.mlr.press/v306/cao26l.html) | 选择性状态空间稳定性 | 单个状态矩阵稳定并不能推出任意切换后稳定。可用共同二次 Lyapunov 函数给选择性层建立证书，并从权重计算鲁棒界的常数。 |
+| <a id="caucheteux26a-theory-statistics"></a>[A Unifying View of Variational Generative Wasserstein Flows](https://proceedings.mlr.press/v306/caucheteux26a.html) | Wasserstein 生成模型 | 将多个生成算法表示为参数化 JKO 更新，就能比较它们真正不同的目标散度和同一种运输正则；该形式还可扩展到核距离等目标。 |
+| <a id="chan26b-theory-statistics"></a>[Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe](https://proceedings.mlr.press/v306/chan26b.html) | 持续学习参与隐私 | 随机缓冲后按变长批次发布，可把单个用户加入或退出引起的全程位移转成批次邻接问题，从而复用前缀聚合的差分隐私机制。 |
+| <a id="chang26f-theory-statistics"></a>[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://proceedings.mlr.press/v306/chang26f.html) | 关系推理的线性传播 | 否定与换序在特定张量分解下可由一阶更新传播，但关系复合需要双线性合取，与否定一般不兼容，限制了局部知识编辑的传播范围。 |
 <!-- classification:end -->

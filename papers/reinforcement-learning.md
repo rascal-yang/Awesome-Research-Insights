@@ -62,6 +62,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="brosseit26a-inference"></a>[Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) | 强化学习提前退出 | 在 actor 的不同深度挂接出口，训练时用约束线性规划决定性能和计算预算之间的退出规则，部署时用学好的规则直接选择出口。 |
+| <a id="chang26a-inference"></a>[The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) | 模型强化学习搜索 | 搜索可能放大候选轨迹的价值高估，即使动力学模型准确也会选错。对多个价值估计取最小值，可在搜索时降低这种偏差。 |
 
 <a id="by-representation-learning"></a>
 
@@ -97,4 +98,6 @@
 | <a id="benyamine26a-theory-statistics"></a>[Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) | 不确定 MDP | 把未知转移看作随机分布，对策略回报施加风险度量，并据此判断哪类风险偏好还能沿用 Bellman 递推。 |
 | <a id="bollini26a-theory-statistics"></a>[Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) | 在线 Stackelberg 博弈 | 领头方不知道对手类型的收益时，只观测最佳响应不足以保证次线性遗憾；如果每轮还能看到类型，则可达到根号轮数量级。 |
 | <a id="braverman26a-theory-statistics"></a>[Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | 流式多臂老虎机 | 只允许在最近到达的臂里选择时，有限存储使精确找最佳臂困难，近似最佳臂则可用更少内存；可用这一区别决定要保证哪种精度。 |
+| <a id="cao26x-theory-statistics"></a>[Understanding Behavior Cloning with Action Quantization](https://proceedings.mlr.press/v306/cao26x.html) | 行为克隆动作量化 | 当动力学稳定且策略满足概率平滑条件时，离散动作上的对数损失可保持最优样本复杂度；量化误差随时域至多多项式放大。 |
+| <a id="carr26a-theory-statistics"></a>[Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](https://proceedings.mlr.press/v306/carr26a.html) | 长期偏好强化学习 | 将轨迹成对偏好建成马尔可夫竞赛，在该设定下可用定常马尔可夫策略达到依赖完整历史的策略所能达到的表现。 |
 <!-- classification:end -->

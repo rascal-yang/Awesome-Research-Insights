@@ -42,6 +42,8 @@
 - [不确定 MDP](../papers/reinforcement-learning.md#benyamine26a-theory-statistics) · Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes
 - [在线 Stackelberg 博弈](../papers/reinforcement-learning.md#bollini26a-theory-statistics) · Learning in Bayesian Stackelberg Games With Unknown Follower’s Types
 - [流式多臂老虎机](../papers/reinforcement-learning.md#braverman26a-theory-statistics) · Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits
+- [行为克隆动作量化](../papers/reinforcement-learning.md#cao26x-theory-statistics) · Understanding Behavior Cloning with Action Quantization
+- [长期偏好强化学习](../papers/reinforcement-learning.md#carr26a-theory-statistics) · Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems
 
 ### 多模态学习
 
@@ -105,6 +107,9 @@
 - [稀疏尖峰恢复](../papers/ml-foundations.md#cai26l-theory-statistics) · Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements
 - [分数误差与 Langevin 采样](../papers/ml-foundations.md#cao26b-theory-statistics) · On the Robustness of Langevin Dynamics to Score Function Error
 - [选择性状态空间稳定性](../papers/ml-foundations.md#cao26l-theory-statistics) · A Control-Theoretic View of Mamba on Stability and Robustness
+- [Wasserstein 生成模型](../papers/ml-foundations.md#caucheteux26a-theory-statistics) · A Unifying View of Variational Generative Wasserstein Flows
+- [持续学习参与隐私](../papers/ml-foundations.md#chan26b-theory-statistics) · Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe
+- [关系推理的线性传播](../papers/ml-foundations.md#chang26f-theory-statistics) · Dynamics Reveals Structure: Challenging the Linear Propagation Assumption
 
 ### 图学习与推荐
 
@@ -112,6 +117,7 @@
 - [图神经网络理论](../papers/graph-and-recommendation.md#amran26a-theory-statistics) · A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation
 - [拍卖中的预测改进](../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) · Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?
 - [知识图谱链路预测](../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) · On the Theoretical Limitations of Embedding-based Link Prediction
+- [关系嵌入表达力](../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) · Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models
 
 ### 科学机器学习
 

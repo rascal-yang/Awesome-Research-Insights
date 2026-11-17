@@ -24,6 +24,8 @@
 | <a id="brandle26a-architecture"></a>[Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://proceedings.mlr.press/v306/brandle26a.html) | 连续时间动力学 | 利用 ReLU 循环网络各区域内的分段线性结构推进连续动力学，减少数值积分开销，并能半解析地查找平衡点和极限环。 |
 | <a id="brinke26a-architecture"></a>[STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://proceedings.mlr.press/v306/brinke26a.html) | 几何轨迹生成 | 以按观测条件构造的随机游走作为流匹配起点，替代独立高斯噪声。更接近真实轨迹的先验能降低传输成本。 |
 | <a id="bu26d-architecture"></a>[Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](https://proceedings.mlr.press/v306/bu26d.html) | 无线传播建模 | 把射频传播写成随机输运过程，让材料衰减率成为可学习的传播参数，在神经射线追踪中保留互易性和可逆性。 |
+| <a id="cao26ad-architecture"></a>[LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory](https://proceedings.mlr.press/v306/cao26ad.html) | 实验室布局生成 | 先把自然语言任务转成结构化实验协议，再在几何、导航及化学安全约束下迭代布局，使生成场景能按所建模的协议执行。 |
+| <a id="chasmai26b-architecture"></a>[Bioacoustic Geolocation: Species Sounds as Geographic Signals](https://proceedings.mlr.press/v306/chasmai26b.html) | 生物声学定位 | 将声音里的物种线索与其地理分布结合，再融合检索定位；聚合附近多个样本可进一步利用物种组成线索。 |
 
 <a id="by-modules"></a>
 
@@ -32,6 +34,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="berman26d-modules"></a>[Smoothness Errors in Dynamics Models and How to Avoid Them](https://proceedings.mlr.press/v306/berman26d.html) | 网格动力学平滑 | 热扩散等过程本身需要平滑，严格酉卷积会限制这种物理变化。放松酉性可在抑制图网络过平滑的同时允许合理的平滑演化。 |
+| <a id="chang26b-modules"></a>[MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](https://proceedings.mlr.press/v306/chang26b.html) | 医学视觉定位 | 在语言模型词表中引入区域代码，通过区域感知模块将代码解码成像素掩码，使语言输出能够对应到图像里的具体组织区域。 |
 
 <a id="by-loss-functions"></a>
 
@@ -42,6 +45,7 @@
 | <a id="abijuru26b-loss-functions"></a>[Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) | 鲁棒损失 | 把物理残差建模为 Student-t，通过 EM 自适应调低极端残差在加权 MSE 中的影响。 |
 | <a id="anwer26a-loss-functions"></a>[Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | 网格算子学习 | 给学习出的算子对测量其偏离链复形一致性的距离，并可闭式投影到最近的兼容算子，避免网格细化时条件数失控。 |
 | <a id="byeon26a-loss-functions"></a>[HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | 空间转录组预测 | 针对组织切片上六角排列的采样点，用几何匹配的窗口和位置编码，再加局部差分损失，减轻逐点回归导致的基因表达过平滑。 |
+| <a id="chasmai26a-loss-functions"></a>[MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | 生物声学辅助监督 | 把录音已有的时间和位置元数据作为辅助学习目标，借物种与环境的相关性塑造表征，并分别测地理和声学域偏移。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -51,6 +55,7 @@
 | :--- | :--- | :--- |
 | <a id="behzadifar26a-reinforcement-learning"></a>[DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](https://proceedings.mlr.press/v306/behzadifar26a.html) | 科学方程发现 | 把候选方程拆成符号项提供细粒度反馈，再用测试时强化学习更新假设生成器，让后续搜索利用当前系统的观测与误差。 |
 | <a id="butbaia26a-reinforcement-learning"></a>[Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](https://proceedings.mlr.press/v306/butbaia26a.html) | 数学反例搜索 | 把构造代数反例建成稀疏奖励的图搜索，使用受约束的多步选项与等变图策略，在长搜索中学习可复用的时间抽象。 |
+| <a id="chang26g-reinforcement-learning"></a>[RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](https://proceedings.mlr.press/v306/chang26g.html) | 逆合成搜索工具选择 | 搜索时同时决定展开哪个分子、调用哪个单步逆合成模型。用基于分子骨架的强化学习按局面路由，可利用各模型的互补能力。 |
 
 <a id="by-training-strategies"></a>
 
@@ -59,6 +64,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="cao26r-training-strategies"></a>[TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](https://proceedings.mlr.press/v306/cao26r.html) | 变构蛋白结合物生成 | 将预测激动或拮抗方向的信号与软亲和门控分开，用两者微调离散扩散，使生成目标能区分作用方向和静态结合强度。 |
+| <a id="charles26a-training-strategies"></a>[Tokenised Flow Matching for Hierarchical Simulation Based Inference](https://proceedings.mlr.press/v306/charles26a.html) | 层级仿真推断 | 先从单站点仿真学习因子化似然，再拼出多站点合成观测训练完整层级后验，可减少每个训练样本需要调用仿真器的次数。 |
 
 <a id="by-data-strategies"></a>
 
@@ -67,6 +73,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="brockschmidt26a-data-strategies"></a>[SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://proceedings.mlr.press/v306/brockschmidt26a.html) | 生存分析合成数据 | 联合生成协变量、事件时间和右删失标记，并把生存任务结构写进扩散损失，避免合成表格只拟合协变量却丢失删失机制。 |
+| <a id="chan26a-data-strategies"></a>[DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](https://proceedings.mlr.press/v306/chan26a.html) | 过程奖励数据筛选 | 同时用弱标注者之间的一致性与嵌入近邻的一致性评估逐步标签，再按可靠性采样例子并遮蔽可疑标签。 |
 
 <a id="by-inference"></a>
 
@@ -104,6 +111,7 @@
 | <a id="bai26a-evaluation"></a>[Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](https://proceedings.mlr.press/v306/bai26a.html) | CAD 操作评测 | 用几何引导解析把建模序列切成单个操作，并用倒角和圆角专用的 CF-IoU 检查局部改动，避免整体形状相近掩盖操作错误。 |
 | <a id="becktepe26a-evaluation"></a>[Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://proceedings.mlr.press/v306/becktepe26a.html) | 流体控制强化学习 | 把可微 GPU 流体求解器和环境统一在 PyTorch 栈内，固定观测、执行和评测口径，让 PPO、SAC 与可微控制能直接对照。 |
 | <a id="cao26g-evaluation"></a>[SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://proceedings.mlr.press/v306/cao26g.html) | 仿真 Agent 成本评测 | 在测参成功率之外，把仿真器调用成本独立记账，并与固定扫描基线比较。论文中，多轮交互提高成功率的同时仍可能更耗时。 |
+| <a id="chandok26a-evaluation"></a>[A Systematic Study of Behavioral Cloning for Scientific Data Annotation](https://proceedings.mlr.press/v306/chandok26a.html) | 科学标注行为克隆 | 用模拟的专家导航、纠错和验证轨迹研究标注策略，分开测界面操作与任务决策。多任务预训练可提升少样本新标注任务的微调效果。 |
 
 <a id="by-theory-statistics"></a>
 

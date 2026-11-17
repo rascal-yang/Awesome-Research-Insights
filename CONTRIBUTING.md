@@ -26,6 +26,8 @@
 
 ICML 2026 的逐篇条目还需在 [分类清单](conferences/icml-2026/classification.tsv) 中记录论文的主领域和 Insight 的主技术类型。更新对应领域页的技术小节和跨领域技术索引，再核对两版首页的论文数和 Insight 数。英文索引可链接到中文短条目。
 
+批量更新时，从仓库根目录运行 `python conferences/icml-2026/append_batch.py <批次.tsv> --date YYYY-MM-DD`。批次文件的表头依次为 `number`、`pmlr_id`、`domain`、`technique`、`topic`、`insight`。分类值沿用现有清单。脚本检查编号并刷新索引，每条 Insight 由贡献者根据原文撰写。
+
 按主领域索引中的论文条目计数。同一篇论文拆出的多条 Insight 仍计为一篇，跨领域引用也不另计。增删或移动论文时，同步更新中英文首页的领域收录数。
 
 | 节奏 | 维护事项 |

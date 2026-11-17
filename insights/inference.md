@@ -24,6 +24,10 @@
 - [MoE 稀疏推理](../papers/llm.md#cai26i-inference) · Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference
 - [扩散语言模型解码](../papers/llm.md#cao26d-inference) · Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models
 - [LLM 推理隐私](../papers/llm.md#cao26q-inference) · OSNIP: Balancing the Privacy-Utility-Efficiency Trilemma in LLM Inference via Obfuscated Semantic Null Space
+- [模型路由](../papers/llm.md#cao26ac-inference) · Models Under SCOPE: Scalable and Controllable Routing via Pre-hoc Reasoning
+- [非结构化稀疏推理](../papers/llm.md#cetin26a-inference) · Sparser, Faster, Lighter Transformer Language Models
+- [自投机解码](../papers/llm.md#cha26a-inference) · KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem
+- [跨层 KV 缓存压缩](../papers/llm.md#chang26d-inference) · xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction
 
 ### 计算机视觉
 
@@ -34,6 +38,7 @@
 - [无分类器引导](../papers/computer-vision.md#cai26g-inference) · Improving Classifier-Free Guidance of Flow Matching via Manifold Projection
 - [多实例图像到三维](../papers/computer-vision.md#cai26n-inference) · TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity
 - [低延迟图像压缩](../papers/computer-vision.md#cao26e-inference) · Efficient Learned Image Compression without Entropy Coding
+- [扩散正负概念引导](../papers/computer-vision.md#chang26c-inference) · ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts
 
 ### 自然语言处理
 
@@ -44,12 +49,14 @@
 ### 强化学习
 
 - [强化学习提前退出](../papers/reinforcement-learning.md#brosseit26a-inference) · Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks
+- [模型强化学习搜索](../papers/reinforcement-learning.md#chang26a-inference) · The Surprising Difficulty of Search in Model-Based Reinforcement Learning
 
 ### 机器人学
 
 - [具身 Agent 感知](../papers/robotics.md#aissi26a-inference) · PRISM: Perception Reasoning Interleaved for Sequential Decision Making.
 - [扩散预测控制](../papers/robotics.md#balim26a-inference) · Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making
 - [压缩空间运动规划](../papers/robotics.md#beyer26a-inference) · Motion Planning in Compressed Representation Spaces
+- [移动操作站位](../papers/robotics.md#chai26a-inference) · N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout
 
 ### 多模态学习
 
@@ -65,6 +72,7 @@
 
 - [未归一化分布采样](../papers/ml-foundations.md#blessing26a-inference) · Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching
 - [生成式模型遗忘](../papers/ml-foundations.md#block26a-inference) · Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance
+- [条件扩散采样](../papers/ml-foundations.md#castro-maci-as26a-inference) · Conditional Diffusion Sampling
 
 ### 图学习与推荐
 

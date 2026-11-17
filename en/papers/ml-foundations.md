@@ -21,6 +21,8 @@ The linked short insights are available in Chinese.
 | [Who Said Neural Networks Aren’t Linear?](https://proceedings.mlr.press/v306/berman26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#berman26c-architecture) |
 | [M-Star: Markovian Projection of Star-Shaped Diffusion for Exponential Family Distributions](https://proceedings.mlr.press/v306/bertholom26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bertholom26a-architecture) |
 | [Deep Flow Networks](https://proceedings.mlr.press/v306/candogan26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#candogan26b-architecture) |
+| [Probabilistically-routed Bayesian Additive Spanning Trees for Learning on Constrained Domains](https://proceedings.mlr.press/v306/chakraborty26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chakraborty26a-architecture) |
+| [Independent Component Discovery in Temporal Count Data](https://proceedings.mlr.press/v306/chaussard26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chaussard26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -36,6 +38,8 @@ The linked short insights are available in Chinese.
 | [ATLAS: Learning to Optimally Memorize the Context at Test Time](https://proceedings.mlr.press/v306/behrouz26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#behrouz26b-modules) |
 | [Time Series Forecasting Through the Lens of Dynamics](https://proceedings.mlr.press/v306/brachet26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#brachet26a-modules) |
 | [Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications](https://proceedings.mlr.press/v306/brandoit26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#brandoit26a-modules) |
+| [Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](https://proceedings.mlr.press/v306/cao26af.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26af-modules) |
+| [The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](https://proceedings.mlr.press/v306/chaudhry26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chaudhry26a-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -47,6 +51,7 @@ The linked short insights are available in Chinese.
 | [Optimal Learning from Label Proportions with General Loss Functions](https://proceedings.mlr.press/v306/applebaum26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#applebaum26a-loss-functions) |
 | [Approximate Equivariance via Projection-Based Regularisation](https://proceedings.mlr.press/v306/berndt26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#berndt26a-loss-functions) |
 | [Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](https://proceedings.mlr.press/v306/cao26k.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26k-loss-functions) |
+| [One-shot Conditional Sampling: MMD meets Nearest Neighbors](https://proceedings.mlr.press/v306/chatterjee26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chatterjee26a-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -85,6 +90,12 @@ The linked short insights are available in Chinese.
 | [Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval](https://proceedings.mlr.press/v306/braun26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#braun26a-optimization) |
 | [Flatness-Aware Stochastic Gradient Langevin Dynamics](https://proceedings.mlr.press/v306/bruno26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bruno26a-optimization) |
 | [Fast Spectrally Sparse Signal Reconstruction via Jacobi-Preconditioned Gradient Descent](https://proceedings.mlr.press/v306/cai26j.html) | [Read insight (中文)](../../papers/ml-foundations.md#cai26j-optimization) |
+| [Diversity-Aware Recursive Feature Multiple Kernel Learning](https://proceedings.mlr.press/v306/cao26ae.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26ae-optimization) |
+| [Bregman meets Lévy: Stochastic Mirror Descent with Heavy-Tailed Noise in Continuous and Discrete Time](https://proceedings.mlr.press/v306/cauvin26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cauvin26a-optimization) |
+| [Geometric Convergence of Gauss–Newton for Neural Networks: Riemannian Geometry and Adaptive Damping](https://proceedings.mlr.press/v306/cayci26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cayci26a-optimization) |
+| [Efficient Online Variational Estimation via Monte Carlo Sampling](https://proceedings.mlr.press/v306/chagneux26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chagneux26a-optimization) |
+| [Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes](https://proceedings.mlr.press/v306/chakraborty26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#chakraborty26c-optimization) |
+| [Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem](https://proceedings.mlr.press/v306/chao26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chao26a-optimization) |
 
 <a id="by-training-strategies"></a>
 
@@ -100,6 +111,7 @@ The linked short insights are available in Chinese.
 | [Efficient Learning of Deep State Space Models via Importance Smoothing](https://proceedings.mlr.press/v306/brady26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#brady26a-training-strategies) |
 | [One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models](https://proceedings.mlr.press/v306/cameron26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cameron26a-training-strategies) |
 | [Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](https://proceedings.mlr.press/v306/cao26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26a-training-strategies) |
+| [Discrete Diffusion Samplers and Bridges: Off-Policy Algorithms and Applications in Latent Spaces](https://proceedings.mlr.press/v306/carter26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#carter26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -119,6 +131,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching](https://proceedings.mlr.press/v306/blessing26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#blessing26a-inference) |
 | [Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](https://proceedings.mlr.press/v306/block26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#block26a-inference) |
+| [Conditional Diffusion Sampling](https://proceedings.mlr.press/v306/castro-maci-as26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#castro-maci-as26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -132,6 +145,7 @@ The linked short insights are available in Chinese.
 | [Uncovering the Latent Potential of Deep Intermediate Representations](https://proceedings.mlr.press/v306/batra26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#batra26a-representation-learning) |
 | [Distribution Alignment for One-Shot Federated Learning via Optimal Transport](https://proceedings.mlr.press/v306/berardini26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#berardini26a-representation-learning) |
 | [Richer Bayesian Last Layers with Subsampled NTK Features](https://proceedings.mlr.press/v306/calvo-ordonez26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#calvo-ordonez26a-representation-learning) |
+| [Causal Feature Learning via Generalized Rayleigh Quotients](https://proceedings.mlr.press/v306/cao26t.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26t-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -213,4 +227,7 @@ The linked short insights are available in Chinese.
 | [Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements](https://proceedings.mlr.press/v306/cai26l.html) | [Read insight (中文)](../../papers/ml-foundations.md#cai26l-theory-statistics) |
 | [On the Robustness of Langevin Dynamics to Score Function Error](https://proceedings.mlr.press/v306/cao26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26b-theory-statistics) |
 | [A Control-Theoretic View of Mamba on Stability and Robustness](https://proceedings.mlr.press/v306/cao26l.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26l-theory-statistics) |
+| [A Unifying View of Variational Generative Wasserstein Flows](https://proceedings.mlr.press/v306/caucheteux26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#caucheteux26a-theory-statistics) |
+| [Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe](https://proceedings.mlr.press/v306/chan26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#chan26b-theory-statistics) |
+| [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://proceedings.mlr.press/v306/chang26f.html) | [Read insight (中文)](../../papers/ml-foundations.md#chang26f-theory-statistics) |
 <!-- classification:end -->

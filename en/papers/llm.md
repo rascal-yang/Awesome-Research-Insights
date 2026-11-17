@@ -26,6 +26,8 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Learning to Remember, Learn, and Forget in Attention-Based Models](https://proceedings.mlr.press/v306/bonnet26a.html) | [Read insight (中文)](../../papers/llm.md#bonnet26a-modules) |
 | [Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models](https://proceedings.mlr.press/v306/byun26a.html) | [Read insight (中文)](../../papers/llm.md#byun26a-modules) |
+| [SpanNorm: Reconciling Training Stability and Performance in Deep Transformers](https://proceedings.mlr.press/v306/chao26b.html) | [Read insight (中文)](../../papers/llm.md#chao26b-modules) |
+| [Doc-to-LoRA: Learning to Instantly Internalize Contexts](https://proceedings.mlr.press/v306/charakorn26a.html) | [Read insight (中文)](../../papers/llm.md#charakorn26a-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -44,6 +46,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](https://proceedings.mlr.press/v306/abbasi26a.html) | [Read insight (中文)](../../papers/llm.md#abbasi26a-optimization) |
 | [AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](https://proceedings.mlr.press/v306/cai26a.html) | [Read insight (中文)](../../papers/llm.md#cai26a-optimization) |
+| [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](https://proceedings.mlr.press/v306/castin26a.html) | [Read insight (中文)](../../papers/llm.md#castin26a-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -64,6 +67,8 @@ The linked short insights are available in Chinese.
 | [From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory](https://proceedings.mlr.press/v306/cai26b.html) | [Read insight (中文)](../../papers/llm.md#cai26b-reinforcement-learning) |
 | [Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization](https://proceedings.mlr.press/v306/cai26c.html) | [Read insight (中文)](../../papers/llm.md#cai26c-reinforcement-learning) |
 | [Escaping the Verifier: Learning to Reason via Demonstrations](https://proceedings.mlr.press/v306/cai26k.html) | [Read insight (中文)](../../papers/llm.md#cai26k-reinforcement-learning) |
+| [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models](https://proceedings.mlr.press/v306/cao26y.html) | [Read insight (中文)](../../papers/llm.md#cao26y-reinforcement-learning) |
+| [GXPO: Group Cross-Lingual Relative Policy Optimization for Code Generation](https://proceedings.mlr.press/v306/chai26c.html) | [Read insight (中文)](../../papers/llm.md#chai26c-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -83,6 +88,7 @@ The linked short insights are available in Chinese.
 | [Diffract: Spectral View of LLM Domain Adaptation](https://proceedings.mlr.press/v306/borodin26a.html) | [Read insight (中文)](../../papers/llm.md#borodin26a-training-strategies) |
 | [Provable Sample Efficiency of Curriculum Post-Training for Transformer Reasoning](https://proceedings.mlr.press/v306/bu26a.html) | [Read insight (中文)](../../papers/llm.md#bu26a-training-strategies) |
 | [Scaling depth capacity via zero/one-layer model expansion](https://proceedings.mlr.press/v306/bu26c.html) | [Read insight (中文)](../../papers/llm.md#bu26c-training-strategies) |
+| [Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning](https://proceedings.mlr.press/v306/casademunt26a.html) | [Read insight (中文)](../../papers/llm.md#casademunt26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -98,6 +104,8 @@ The linked short insights are available in Chinese.
 | [SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale](https://proceedings.mlr.press/v306/badertdinov26a.html) | [Read insight (中文)](../../papers/llm.md#badertdinov26a-data-strategies) |
 | [Facts in Stats: Impacts of Pretraining Diversity on Language Model Generalization](https://proceedings.mlr.press/v306/behnia26a.html) | [Read insight (中文)](../../papers/llm.md#behnia26a-data-strategies) |
 | [Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](https://proceedings.mlr.press/v306/bu26b.html) | [Read insight (中文)](../../papers/llm.md#bu26b-data-strategies) |
+| [Safe and Scalable Web Agent Learning via Recreated Websites](https://proceedings.mlr.press/v306/chae26a.html) | [Read insight (中文)](../../papers/llm.md#chae26a-data-strategies) |
+| [Curating the Future: A Scalable Recipe for Training Open-Ended Forecasters](https://proceedings.mlr.press/v306/chandak26a.html) | [Read insight (中文)](../../papers/llm.md#chandak26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -120,6 +128,10 @@ The linked short insights are available in Chinese.
 | [Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference](https://proceedings.mlr.press/v306/cai26i.html) | [Read insight (中文)](../../papers/llm.md#cai26i-inference) |
 | [Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](https://proceedings.mlr.press/v306/cao26d.html) | [Read insight (中文)](../../papers/llm.md#cao26d-inference) |
 | [OSNIP: Balancing the Privacy-Utility-Efficiency Trilemma in LLM Inference via Obfuscated Semantic Null Space](https://proceedings.mlr.press/v306/cao26q.html) | [Read insight (中文)](../../papers/llm.md#cao26q-inference) |
+| [Models Under SCOPE: Scalable and Controllable Routing via Pre-hoc Reasoning](https://proceedings.mlr.press/v306/cao26ac.html) | [Read insight (中文)](../../papers/llm.md#cao26ac-inference) |
+| [Sparser, Faster, Lighter Transformer Language Models](https://proceedings.mlr.press/v306/cetin26a.html) | [Read insight (中文)](../../papers/llm.md#cetin26a-inference) |
+| [KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](https://proceedings.mlr.press/v306/cha26a.html) | [Read insight (中文)](../../papers/llm.md#cha26a-inference) |
+| [xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction](https://proceedings.mlr.press/v306/chang26d.html) | [Read insight (中文)](../../papers/llm.md#chang26d-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -174,6 +186,12 @@ The linked short insights are available in Chinese.
 | [Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought](https://proceedings.mlr.press/v306/boppana26a.html) | [Read insight (中文)](../../papers/llm.md#boppana26a-evaluation) |
 | [Detecting Perspective Shifts in Multi-Agent Systems](https://proceedings.mlr.press/v306/bridgeford26a.html) | [Read insight (中文)](../../papers/llm.md#bridgeford26a-evaluation) |
 | [Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](https://proceedings.mlr.press/v306/calderon26a.html) | [Read insight (中文)](../../papers/llm.md#calderon26a-evaluation) |
+| [DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents](https://proceedings.mlr.press/v306/cao26z.html) | [Read insight (中文)](../../papers/llm.md#cao26z-evaluation) |
+| [SEDRAS: Symbolically Evaluated Deep Research And Science](https://proceedings.mlr.press/v306/carlsson26a.html) | [Read insight (中文)](../../papers/llm.md#carlsson26a-evaluation) |
+| [On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance](https://proceedings.mlr.press/v306/casanova26a.html) | [Read insight (中文)](../../papers/llm.md#casanova26a-evaluation) |
+| [How2Everything: Mining the Web for How-to Procedures to Evaluate and Improve LLMs](https://proceedings.mlr.press/v306/chang26e.html) | [Read insight (中文)](../../papers/llm.md#chang26e-evaluation) |
+| [Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](https://proceedings.mlr.press/v306/chanin26a.html) | [Read insight (中文)](../../papers/llm.md#chanin26a-evaluation) |
+| [Token-Efficient Change Detection in LLM APIs](https://proceedings.mlr.press/v306/chauvin26a.html) | [Read insight (中文)](../../papers/llm.md#chauvin26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

@@ -87,10 +87,12 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Optimal Learning from Label Proportions with General Loss Functions](../../papers/ml-foundations.md#applebaum26a-loss-functions) · 中文
 - [Approximate Equivariance via Projection-Based Regularisation](../../papers/ml-foundations.md#berndt26a-loss-functions) · 中文
 - [Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](../../papers/ml-foundations.md#cao26k-loss-functions) · 中文
+- [One-shot Conditional Sampling: MMD meets Nearest Neighbors](../../papers/ml-foundations.md#chatterjee26a-loss-functions) · 中文
 
 ### Scientific Machine Learning
 
 - [Heavy-tailed Physics-Informed Neural Networks](../../papers/scientific-ml.md#abijuru26b-loss-functions) · 中文
 - [Certificates for Complex-Compatible Learned Cochain Laplacians](../../papers/scientific-ml.md#anwer26a-loss-functions) · 中文
 - [HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](../../papers/scientific-ml.md#byeon26a-loss-functions) · 中文
+- [MetaPerch: Learning from metadata for bioacoustics foundation models](../../papers/scientific-ml.md#chasmai26a-loss-functions) · 中文
 <!-- classification:end -->

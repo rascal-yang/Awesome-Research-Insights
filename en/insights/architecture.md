@@ -25,6 +25,7 @@ Model-wide design and information flow.
 ### Robotics
 
 - [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](../../papers/robotics.md#bai26h-architecture) · 中文
+- [Hierarchical Policy Learning via Spectral Decomposition](../../papers/robotics.md#cao26u-architecture) · 中文
 
 ### Multimodal Learning
 
@@ -38,6 +39,8 @@ Model-wide design and information flow.
 - [Who Said Neural Networks Aren’t Linear?](../../papers/ml-foundations.md#berman26c-architecture) · 中文
 - [M-Star: Markovian Projection of Star-Shaped Diffusion for Exponential Family Distributions](../../papers/ml-foundations.md#bertholom26a-architecture) · 中文
 - [Deep Flow Networks](../../papers/ml-foundations.md#candogan26b-architecture) · 中文
+- [Probabilistically-routed Bayesian Additive Spanning Trees for Learning on Constrained Domains](../../papers/ml-foundations.md#chakraborty26a-architecture) · 中文
+- [Independent Component Discovery in Temporal Count Data](../../papers/ml-foundations.md#chaussard26a-architecture) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -56,4 +59,6 @@ Model-wide design and information flow.
 - [Continuous-Time Piecewise-Linear Recurrent Neural Networks](../../papers/scientific-ml.md#brandle26a-architecture) · 中文
 - [STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](../../papers/scientific-ml.md#brinke26a-architecture) · 中文
 - [Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](../../papers/scientific-ml.md#bu26d-architecture) · 中文
+- [LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory](../../papers/scientific-ml.md#cao26ad-architecture) · 中文
+- [Bioacoustic Geolocation: Species Sounds as Geographic Signals](../../papers/scientific-ml.md#chasmai26b-architecture) · 中文
 <!-- classification:end -->

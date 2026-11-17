@@ -21,6 +21,7 @@
 - [持续预训练](../papers/llm.md#borodin26a-training-strategies) · Diffract: Spectral View of LLM Domain Adaptation
 - [推理后训练课程](../papers/llm.md#bu26a-training-strategies) · Provable Sample Efficiency of Curriculum Post-Training for Transformer Reasoning
 - [渐进式模型训练](../papers/llm.md#bu26c-training-strategies) · Scaling depth capacity via zero/one-layer model expansion
+- [微调泛化干预](../papers/llm.md#casademunt26a-training-strategies) · Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning
 
 ### 计算机视觉
 
@@ -44,6 +45,7 @@
 - [状态空间模型训练](../papers/ml-foundations.md#brady26a-training-strategies) · Efficient Learning of Deep State Space Models via Importance Smoothing
 - [递归去噪训练](../papers/ml-foundations.md#cameron26a-training-strategies) · One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models
 - [异构联邦学习](../papers/ml-foundations.md#cao26a-training-strategies) · Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection
+- [离散扩散采样](../papers/ml-foundations.md#carter26a-training-strategies) · Discrete Diffusion Samplers and Bridges: Off-Policy Algorithms and Applications in Latent Spaces
 
 ### 图学习与推荐
 
@@ -53,4 +55,5 @@
 ### 科学机器学习
 
 - [变构蛋白结合物生成](../papers/scientific-ml.md#cao26r-training-strategies) · TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation
+- [层级仿真推断](../papers/scientific-ml.md#charles26a-training-strategies) · Tokenised Flow Matching for Hierarchical Simulation Based Inference
 <!-- classification:end -->

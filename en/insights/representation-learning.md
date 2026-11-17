@@ -16,6 +16,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](../../papers/computer-vision.md#bian26d-representation-learning) · 中文
 - [VFMF: Dense Forecasting by Generating Vision Foundation Model Features](../../papers/computer-vision.md#boduljak26a-representation-learning) · 中文
 - [On the Power of Statistics in Class-Incremental Learning with Pretrained Models](../../papers/computer-vision.md#cao26h-representation-learning) · 中文
+- [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](../../papers/computer-vision.md#cassano26a-representation-learning) · 中文
+- [PartCo: Part-Level Correspondence Priors Enhance Category Discovery](../../papers/computer-vision.md#cendra26a-representation-learning) · 中文
 
 ### Natural Language Processing
 
@@ -33,6 +35,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Uncovering the Latent Potential of Deep Intermediate Representations](../../papers/ml-foundations.md#batra26a-representation-learning) · 中文
 - [Distribution Alignment for One-Shot Federated Learning via Optimal Transport](../../papers/ml-foundations.md#berardini26a-representation-learning) · 中文
 - [Richer Bayesian Last Layers with Subsampled NTK Features](../../papers/ml-foundations.md#calvo-ordonez26a-representation-learning) · 中文
+- [Causal Feature Learning via Generalized Rayleigh Quotients](../../papers/ml-foundations.md#cao26t-representation-learning) · 中文
 
 ### Graph Learning and Recommendation
 

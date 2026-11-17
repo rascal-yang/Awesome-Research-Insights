@@ -62,6 +62,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#brosseit26a-inference) |
+| [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chang26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -97,4 +98,6 @@ The linked short insights are available in Chinese.
 | [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) |
 | [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bollini26a-theory-statistics) |
 | [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) |
+| [Understanding Behavior Cloning with Action Quantization](https://proceedings.mlr.press/v306/cao26x.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cao26x-theory-statistics) |
+| [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](https://proceedings.mlr.press/v306/carr26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#carr26a-theory-statistics) |
 <!-- classification:end -->

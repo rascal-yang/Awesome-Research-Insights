@@ -31,6 +31,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bai26g-optimization"></a>[Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://proceedings.mlr.press/v306/bai26g.html) | 图粗化 | 评估合并时优先考虑对整个邻域的干扰，减少逐节点全局匹配。局部各向同性允许把高节点度带来的额外计算消掉。 |
+| <a id="chakraborty26b-optimization"></a>[Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](https://proceedings.mlr.press/v306/chakraborty26b.html) | 公平排序聚合 | 把群体代表性约束写入前 k 位的排序聚合，可求得该前缀问题的最优解。若要为所有候选排序，则论文给出二倍近似。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -95,4 +96,5 @@
 | <a id="amran26a-theory-statistics"></a>[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) | 图神经网络理论 | 扩展 graphop 极限框架，构造跨图规模和稀疏度的紧致度量，用同一套等度连续性分析 MPNN 的泛化和逼近。 |
 | <a id="badanidiyuru26a-theory-statistics"></a>[Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | 拍卖中的预测改进 | 提高预测分辨率对拍卖收入的影响依赖出价规则。无预算限制的目标成本出价者满足文中的一价拍卖单调性，二价机制可打破它。 |
 | <a id="badreddine26a-theory-statistics"></a>[On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | 知识图谱链路预测 | 线性输出层使嵌入维度必须随图规模和连通性增长才能表达训练关系。混合式非线性输出可打破这一秩瓶颈，且参数开销较低。 |
+| <a id="charpenay26a-theory-statistics"></a>[Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | 关系嵌入表达力 | 用逐坐标比较定义的凸区域能高效编码部分关系规则，但参数化会限制可忠实表达的规则集合，应按目标规则选区域形式。 |
 <!-- classification:end -->

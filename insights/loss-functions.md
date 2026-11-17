@@ -89,10 +89,12 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [聚合标签学习](../papers/ml-foundations.md#applebaum26a-loss-functions) · Optimal Learning from Label Proportions with General Loss Functions
 - [近似等变正则](../papers/ml-foundations.md#berndt26a-loss-functions) · Approximate Equivariance via Projection-Based Regularisation
 - [不平衡域泛化](../papers/ml-foundations.md#cao26k-loss-functions) · Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains
+- [单步条件采样](../papers/ml-foundations.md#chatterjee26a-loss-functions) · One-shot Conditional Sampling: MMD meets Nearest Neighbors
 
 ### 科学机器学习
 
 - [鲁棒损失](../papers/scientific-ml.md#abijuru26b-loss-functions) · Heavy-tailed Physics-Informed Neural Networks
 - [网格算子学习](../papers/scientific-ml.md#anwer26a-loss-functions) · Certificates for Complex-Compatible Learned Cochain Laplacians
 - [空间转录组预测](../papers/scientific-ml.md#byeon26a-loss-functions) · HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction
+- [生物声学辅助监督](../papers/scientific-ml.md#chasmai26a-loss-functions) · MetaPerch: Learning from metadata for bioacoustics foundation models
 <!-- classification:end -->

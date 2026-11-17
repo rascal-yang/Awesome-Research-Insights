@@ -47,6 +47,8 @@ Aggregating rewards before group normalization can map different combinations to
 - [From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory](../../papers/llm.md#cai26b-reinforcement-learning) · 中文
 - [Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization](../../papers/llm.md#cai26c-reinforcement-learning) · 中文
 - [Escaping the Verifier: Learning to Reason via Demonstrations](../../papers/llm.md#cai26k-reinforcement-learning) · 中文
+- [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models](../../papers/llm.md#cao26y-reinforcement-learning) · 中文
+- [GXPO: Group Cross-Lingual Relative Policy Optimization for Code Generation](../../papers/llm.md#chai26c-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -93,4 +95,5 @@ Aggregating rewards before group normalization can map different combinations to
 
 - [DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](../../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) · 中文
 - [Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](../../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · 中文
+- [RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](../../papers/scientific-ml.md#chang26g-reinforcement-learning) · 中文
 <!-- classification:end -->

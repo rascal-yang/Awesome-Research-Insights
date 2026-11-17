@@ -24,6 +24,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference](../../papers/llm.md#cai26i-inference) · 中文
 - [Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](../../papers/llm.md#cao26d-inference) · 中文
 - [OSNIP: Balancing the Privacy-Utility-Efficiency Trilemma in LLM Inference via Obfuscated Semantic Null Space](../../papers/llm.md#cao26q-inference) · 中文
+- [Models Under SCOPE: Scalable and Controllable Routing via Pre-hoc Reasoning](../../papers/llm.md#cao26ac-inference) · 中文
+- [Sparser, Faster, Lighter Transformer Language Models](../../papers/llm.md#cetin26a-inference) · 中文
+- [KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem](../../papers/llm.md#cha26a-inference) · 中文
+- [xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction](../../papers/llm.md#chang26d-inference) · 中文
 
 ### Computer Vision
 
@@ -34,6 +38,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](../../papers/computer-vision.md#cai26g-inference) · 中文
 - [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](../../papers/computer-vision.md#cai26n-inference) · 中文
 - [Efficient Learned Image Compression without Entropy Coding](../../papers/computer-vision.md#cao26e-inference) · 中文
+- [ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](../../papers/computer-vision.md#chang26c-inference) · 中文
 
 ### Natural Language Processing
 
@@ -44,12 +49,14 @@ Decoding, test-time adaptation, and efficient execution.
 ### Reinforcement Learning
 
 - [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](../../papers/reinforcement-learning.md#brosseit26a-inference) · 中文
+- [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](../../papers/reinforcement-learning.md#chang26a-inference) · 中文
 
 ### Robotics
 
 - [PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](../../papers/robotics.md#aissi26a-inference) · 中文
 - [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](../../papers/robotics.md#balim26a-inference) · 中文
 - [Motion Planning in Compressed Representation Spaces](../../papers/robotics.md#beyer26a-inference) · 中文
+- [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](../../papers/robotics.md#chai26a-inference) · 中文
 
 ### Multimodal Learning
 
@@ -65,6 +72,7 @@ Decoding, test-time adaptation, and efficient execution.
 
 - [Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching](../../papers/ml-foundations.md#blessing26a-inference) · 中文
 - [Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](../../papers/ml-foundations.md#block26a-inference) · 中文
+- [Conditional Diffusion Sampling](../../papers/ml-foundations.md#castro-maci-as26a-inference) · 中文
 
 ### Graph Learning and Recommendation
 

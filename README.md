@@ -14,7 +14,7 @@
 
 跨领域科研技术灵感库，收录论文中可迁移的模块、损失、优化方法与训练策略。
 
-**最新收录 · 2026-11-17** · [ICML 2026 · 403 / 6,552 篇已有 Insight](conferences/icml-2026/README.md)
+**最新收录 · 2026-11-17** · [ICML 2026 · 463 / 6,552 篇已有 Insight](conferences/icml-2026/README.md)
 
 **最近核查 · 2026-11-15** · 首批条目及交叉链接
 
@@ -42,33 +42,33 @@
 
 | 领域 | 收录论文 | 收录范围 |
 | :--- | ---: | :--- |
-| [大语言模型](#large-language-models) | 102 | 语言模型、工具调用与智能体。 |
-| [计算机视觉](#computer-vision) | 32 | 视觉识别、表征学习与生成。 |
+| [大语言模型](#large-language-models) | 120 | 语言模型、工具调用与智能体。 |
+| [计算机视觉](#computer-vision) | 37 | 视觉识别、表征学习与生成。 |
 | [自然语言处理](#natural-language-processing) | 14 | 语言、语音、检索与文本处理。 |
-| [强化学习](#reinforcement-learning) | 34 | 交互决策、奖励、策略学习与博弈。 |
-| [机器人学](#robotics) | 9 | 机器人感知、策略学习、规划与控制。 |
-| [多模态学习](#multimodal-learning) | 21 | 跨视觉、文本、音频等模态的学习与推理。 |
-| [机器学习基础与统计](#ml-foundations) | 135 | 通用学习方法、优化、学习理论与统计推断。 |
-| [图学习与推荐](#graph-and-recommendation) | 19 | 图模型、知识图谱与推荐系统。 |
-| [科学机器学习](#scientific-ml) | 38 | 物理、医学、生物与工程中的机器学习。 |
+| [强化学习](#reinforcement-learning) | 37 | 交互决策、奖励、策略学习与博弈。 |
+| [机器人学](#robotics) | 13 | 机器人感知、策略学习、规划与控制。 |
+| [多模态学习](#multimodal-learning) | 24 | 跨视觉、文本、音频等模态的学习与推理。 |
+| [机器学习基础与统计](#ml-foundations) | 152 | 通用学习方法、优化、学习理论与统计推断。 |
+| [图学习与推荐](#graph-and-recommendation) | 21 | 图模型、知识图谱与推荐系统。 |
+| [科学机器学习](#scientific-ml) | 46 | 物理、医学、生物与工程中的机器学习。 |
 
-**共 404 篇论文、405 条 Insight。** 每篇论文按主要研究问题计入一个领域。
+**共 464 篇论文、465 条 Insight。** 每篇论文按主要研究问题计入一个领域。
 
 <a id="large-language-models"></a>
 
 ## 大语言模型
 
-[全部论文 (102)](papers/llm.md)
+[全部论文 (120)](papers/llm.md)
 
-[模型架构 (2)](papers/llm.md#by-architecture) · [模块 (2)](papers/llm.md#by-modules) · [损失函数 (2)](papers/llm.md#by-loss-functions) · [优化 (2)](papers/llm.md#by-optimization) · [强化学习方法 (13)](papers/llm.md#by-reinforcement-learning) · [训练策略 (12)](papers/llm.md#by-training-strategies) · [数据策略 (8)](papers/llm.md#by-data-strategies) · [推理策略 (15)](papers/llm.md#by-inference) · [表征学习 (1)](papers/llm.md#by-representation-learning) · [评测与诊断 (39)](papers/llm.md#by-evaluation) · [理论与统计 (6)](papers/llm.md#by-theory-statistics)
+[模型架构 (2)](papers/llm.md#by-architecture) · [模块 (4)](papers/llm.md#by-modules) · [损失函数 (2)](papers/llm.md#by-loss-functions) · [优化 (3)](papers/llm.md#by-optimization) · [强化学习方法 (15)](papers/llm.md#by-reinforcement-learning) · [训练策略 (13)](papers/llm.md#by-training-strategies) · [数据策略 (10)](papers/llm.md#by-data-strategies) · [推理策略 (19)](papers/llm.md#by-inference) · [表征学习 (1)](papers/llm.md#by-representation-learning) · [评测与诊断 (45)](papers/llm.md#by-evaluation) · [理论与统计 (6)](papers/llm.md#by-theory-statistics)
 
 <a id="computer-vision"></a>
 
 ## 计算机视觉
 
-[全部论文 (32)](papers/computer-vision.md)
+[全部论文 (37)](papers/computer-vision.md)
 
-[模型架构 (3)](papers/computer-vision.md#by-architecture) · <a id="computer-vision-modules"></a>[模块 (5)](papers/computer-vision.md#by-modules) · [损失函数 (2)](papers/computer-vision.md#by-loss-functions) · [强化学习方法 (1)](papers/computer-vision.md#by-reinforcement-learning) · [训练策略 (3)](papers/computer-vision.md#by-training-strategies) · [数据策略 (1)](papers/computer-vision.md#by-data-strategies) · [推理策略 (7)](papers/computer-vision.md#by-inference) · [表征学习 (3)](papers/computer-vision.md#by-representation-learning) · [评测与诊断 (5)](papers/computer-vision.md#by-evaluation) · [理论与统计 (2)](papers/computer-vision.md#by-theory-statistics)
+[模型架构 (3)](papers/computer-vision.md#by-architecture) · <a id="computer-vision-modules"></a>[模块 (6)](papers/computer-vision.md#by-modules) · [损失函数 (2)](papers/computer-vision.md#by-loss-functions) · [强化学习方法 (1)](papers/computer-vision.md#by-reinforcement-learning) · [训练策略 (3)](papers/computer-vision.md#by-training-strategies) · [数据策略 (2)](papers/computer-vision.md#by-data-strategies) · [推理策略 (8)](papers/computer-vision.md#by-inference) · [表征学习 (5)](papers/computer-vision.md#by-representation-learning) · [评测与诊断 (5)](papers/computer-vision.md#by-evaluation) · [理论与统计 (2)](papers/computer-vision.md#by-theory-statistics)
 
 <a id="natural-language-processing"></a>
 
@@ -82,49 +82,49 @@
 
 ## 强化学习
 
-[全部论文 (34)](papers/reinforcement-learning.md)
+[全部论文 (37)](papers/reinforcement-learning.md)
 
-[模型架构 (1)](papers/reinforcement-learning.md#by-architecture) · <a id="reward-and-advantage-estimation"></a>[强化学习方法 (17)](papers/reinforcement-learning.md#by-reinforcement-learning) · [数据策略 (1)](papers/reinforcement-learning.md#by-data-strategies) · [推理策略 (1)](papers/reinforcement-learning.md#by-inference) · [表征学习 (1)](papers/reinforcement-learning.md#by-representation-learning) · [评测与诊断 (1)](papers/reinforcement-learning.md#by-evaluation) · [理论与统计 (12)](papers/reinforcement-learning.md#by-theory-statistics)
+[模型架构 (1)](papers/reinforcement-learning.md#by-architecture) · <a id="reward-and-advantage-estimation"></a>[强化学习方法 (17)](papers/reinforcement-learning.md#by-reinforcement-learning) · [数据策略 (1)](papers/reinforcement-learning.md#by-data-strategies) · [推理策略 (2)](papers/reinforcement-learning.md#by-inference) · [表征学习 (1)](papers/reinforcement-learning.md#by-representation-learning) · [评测与诊断 (1)](papers/reinforcement-learning.md#by-evaluation) · [理论与统计 (14)](papers/reinforcement-learning.md#by-theory-statistics)
 
 <a id="robotics"></a>
 
 ## 机器人学
 
-[全部论文 (9)](papers/robotics.md)
+[全部论文 (13)](papers/robotics.md)
 
-[模型架构 (1)](papers/robotics.md#by-architecture) · <a id="modules"></a>[模块 (1)](papers/robotics.md#by-modules) · <a id="loss-functions"></a>[损失函数 (3)](papers/robotics.md#by-loss-functions) · [强化学习方法 (1)](papers/robotics.md#by-reinforcement-learning) · [推理策略 (3)](papers/robotics.md#by-inference) · [评测与诊断 (1)](papers/robotics.md#by-evaluation)
+[模型架构 (2)](papers/robotics.md#by-architecture) · <a id="modules"></a>[模块 (1)](papers/robotics.md#by-modules) · <a id="loss-functions"></a>[损失函数 (3)](papers/robotics.md#by-loss-functions) · [优化 (1)](papers/robotics.md#by-optimization) · [强化学习方法 (1)](papers/robotics.md#by-reinforcement-learning) · [推理策略 (4)](papers/robotics.md#by-inference) · [评测与诊断 (2)](papers/robotics.md#by-evaluation)
 
 <a id="multimodal-learning"></a>
 
 ## 多模态学习
 
-[全部论文 (21)](papers/multimodal.md)
+[全部论文 (24)](papers/multimodal.md)
 
-[模型架构 (1)](papers/multimodal.md#by-architecture) · [模块 (1)](papers/multimodal.md#by-modules) · [强化学习方法 (1)](papers/multimodal.md#by-reinforcement-learning) · [训练策略 (3)](papers/multimodal.md#by-training-strategies) · [数据策略 (3)](papers/multimodal.md#by-data-strategies) · [推理策略 (7)](papers/multimodal.md#by-inference) · [评测与诊断 (4)](papers/multimodal.md#by-evaluation) · [理论与统计 (1)](papers/multimodal.md#by-theory-statistics)
+[模型架构 (1)](papers/multimodal.md#by-architecture) · [模块 (1)](papers/multimodal.md#by-modules) · [强化学习方法 (1)](papers/multimodal.md#by-reinforcement-learning) · [训练策略 (3)](papers/multimodal.md#by-training-strategies) · [数据策略 (5)](papers/multimodal.md#by-data-strategies) · [推理策略 (7)](papers/multimodal.md#by-inference) · [评测与诊断 (5)](papers/multimodal.md#by-evaluation) · [理论与统计 (1)](papers/multimodal.md#by-theory-statistics)
 
 <a id="ml-foundations"></a>
 
 ## 机器学习基础与统计
 
-[全部论文 (135)](papers/ml-foundations.md)
+[全部论文 (152)](papers/ml-foundations.md)
 
-[模型架构 (6)](papers/ml-foundations.md#by-architecture) · [模块 (8)](papers/ml-foundations.md#by-modules) · [损失函数 (4)](papers/ml-foundations.md#by-loss-functions) · [优化 (31)](papers/ml-foundations.md#by-optimization) · [训练策略 (8)](papers/ml-foundations.md#by-training-strategies) · [数据策略 (3)](papers/ml-foundations.md#by-data-strategies) · [推理策略 (2)](papers/ml-foundations.md#by-inference) · [表征学习 (6)](papers/ml-foundations.md#by-representation-learning) · [评测与诊断 (11)](papers/ml-foundations.md#by-evaluation) · [理论与统计 (56)](papers/ml-foundations.md#by-theory-statistics)
+[模型架构 (8)](papers/ml-foundations.md#by-architecture) · [模块 (10)](papers/ml-foundations.md#by-modules) · [损失函数 (5)](papers/ml-foundations.md#by-loss-functions) · [优化 (37)](papers/ml-foundations.md#by-optimization) · [训练策略 (9)](papers/ml-foundations.md#by-training-strategies) · [数据策略 (3)](papers/ml-foundations.md#by-data-strategies) · [推理策略 (3)](papers/ml-foundations.md#by-inference) · [表征学习 (7)](papers/ml-foundations.md#by-representation-learning) · [评测与诊断 (11)](papers/ml-foundations.md#by-evaluation) · [理论与统计 (59)](papers/ml-foundations.md#by-theory-statistics)
 
 <a id="graph-and-recommendation"></a>
 
 ## 图学习与推荐
 
-[全部论文 (19)](papers/graph-and-recommendation.md)
+[全部论文 (21)](papers/graph-and-recommendation.md)
 
-[模型架构 (1)](papers/graph-and-recommendation.md#by-architecture) · [模块 (2)](papers/graph-and-recommendation.md#by-modules) · [优化 (1)](papers/graph-and-recommendation.md#by-optimization) · [强化学习方法 (2)](papers/graph-and-recommendation.md#by-reinforcement-learning) · [训练策略 (2)](papers/graph-and-recommendation.md#by-training-strategies) · [数据策略 (1)](papers/graph-and-recommendation.md#by-data-strategies) · [推理策略 (2)](papers/graph-and-recommendation.md#by-inference) · [表征学习 (2)](papers/graph-and-recommendation.md#by-representation-learning) · [评测与诊断 (2)](papers/graph-and-recommendation.md#by-evaluation) · [理论与统计 (4)](papers/graph-and-recommendation.md#by-theory-statistics)
+[模型架构 (1)](papers/graph-and-recommendation.md#by-architecture) · [模块 (2)](papers/graph-and-recommendation.md#by-modules) · [优化 (2)](papers/graph-and-recommendation.md#by-optimization) · [强化学习方法 (2)](papers/graph-and-recommendation.md#by-reinforcement-learning) · [训练策略 (2)](papers/graph-and-recommendation.md#by-training-strategies) · [数据策略 (1)](papers/graph-and-recommendation.md#by-data-strategies) · [推理策略 (2)](papers/graph-and-recommendation.md#by-inference) · [表征学习 (2)](papers/graph-and-recommendation.md#by-representation-learning) · [评测与诊断 (2)](papers/graph-and-recommendation.md#by-evaluation) · [理论与统计 (5)](papers/graph-and-recommendation.md#by-theory-statistics)
 
 <a id="scientific-ml"></a>
 
 ## 科学机器学习
 
-[全部论文 (38)](papers/scientific-ml.md)
+[全部论文 (46)](papers/scientific-ml.md)
 
-[模型架构 (11)](papers/scientific-ml.md#by-architecture) · [模块 (1)](papers/scientific-ml.md#by-modules) · [损失函数 (3)](papers/scientific-ml.md#by-loss-functions) · [强化学习方法 (2)](papers/scientific-ml.md#by-reinforcement-learning) · [训练策略 (1)](papers/scientific-ml.md#by-training-strategies) · [数据策略 (1)](papers/scientific-ml.md#by-data-strategies) · [推理策略 (5)](papers/scientific-ml.md#by-inference) · [表征学习 (4)](papers/scientific-ml.md#by-representation-learning) · [评测与诊断 (7)](papers/scientific-ml.md#by-evaluation) · [理论与统计 (3)](papers/scientific-ml.md#by-theory-statistics)
+[模型架构 (13)](papers/scientific-ml.md#by-architecture) · [模块 (2)](papers/scientific-ml.md#by-modules) · [损失函数 (4)](papers/scientific-ml.md#by-loss-functions) · [强化学习方法 (3)](papers/scientific-ml.md#by-reinforcement-learning) · [训练策略 (2)](papers/scientific-ml.md#by-training-strategies) · [数据策略 (2)](papers/scientific-ml.md#by-data-strategies) · [推理策略 (5)](papers/scientific-ml.md#by-inference) · [表征学习 (4)](papers/scientific-ml.md#by-representation-learning) · [评测与诊断 (8)](papers/scientific-ml.md#by-evaluation) · [理论与统计 (3)](papers/scientific-ml.md#by-theory-statistics)
 
 <a id="insights-by-technical-category"></a>
 
@@ -134,17 +134,17 @@
 
 | 技术分类 | Insight 数 | 收录范围 |
 | :--- | ---: | :--- |
-| <a id="architectures"></a>[模型架构](insights/architecture.md) | 26 | 整体架构与信息流。 |
-| [模块](insights/modules.md) | 21 | 局部组件、连接与参数化。 |
-| [损失函数](insights/loss-functions.md) | 15 | 训练目标、辅助监督与正则化。 |
-| <a id="optimization"></a>[优化](insights/optimization.md) | 34 | 梯度更新、求解器与优化过程。 |
-| <a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 38 | 奖励、探索、信用分配与策略更新。 |
-| <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 29 | 训练日程、微调、蒸馏与迁移。 |
-| <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 19 | 数据构造、筛选、标注与采样。 |
-| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 45 | 解码、搜索、推理时适配与高效执行。 |
-| [表征学习](insights/representation-learning.md) | 18 | 表征提取、对齐、迁移与解耦。 |
-| [评测与诊断](insights/evaluation.md) | 72 | 基准、评测协议、消融与失效诊断。 |
-| [理论与统计](insights/theory-statistics.md) | 88 | 学习保证、反例、估计与统计检验。 |
+| <a id="architectures"></a>[模型架构](insights/architecture.md) | 31 | 整体架构与信息流。 |
+| [模块](insights/modules.md) | 27 | 局部组件、连接与参数化。 |
+| [损失函数](insights/loss-functions.md) | 17 | 训练目标、辅助监督与正则化。 |
+| <a id="optimization"></a>[优化](insights/optimization.md) | 43 | 梯度更新、求解器与优化过程。 |
+| <a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 41 | 奖励、探索、信用分配与策略更新。 |
+| <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 32 | 训练日程、微调、蒸馏与迁移。 |
+| <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 25 | 数据构造、筛选、标注与采样。 |
+| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 53 | 解码、搜索、推理时适配与高效执行。 |
+| [表征学习](insights/representation-learning.md) | 21 | 表征提取、对齐、迁移与解耦。 |
+| [评测与诊断](insights/evaluation.md) | 81 | 基准、评测协议、消融与失效诊断。 |
+| [理论与统计](insights/theory-statistics.md) | 94 | 学习保证、反例、估计与统计检验。 |
 
 <p align="right"><a href="#top">↑ 回到顶部</a></p>
 
@@ -169,6 +169,8 @@
 <a id="recent-updates"></a>
 
 ## 最近更新
+
+- **2026-11-17** · 收录并分类整理 ICML 2026 第 401–460 篇的 Insight。[会议索引](conferences/icml-2026/README.md)
 
 - **2026-11-17** · 收录并分类整理 ICML 2026 第 301–400 篇的 Insight。[会议索引](conferences/icml-2026/README.md)
 

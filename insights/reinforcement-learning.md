@@ -49,6 +49,8 @@
 - [Agent 测试时记忆](../papers/llm.md#cai26b-reinforcement-learning) · From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory
 - [策略更新几何](../papers/llm.md#cai26c-reinforcement-learning) · Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization
 - [示范驱动的逆强化学习](../papers/llm.md#cai26k-reinforcement-learning) · Escaping the Verifier: Learning to Reason via Demonstrations
+- [形式逻辑过程奖励](../papers/llm.md#cao26y-reinforcement-learning) · Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models
+- [跨语言代码强化学习](../papers/llm.md#chai26c-reinforcement-learning) · GXPO: Group Cross-Lingual Relative Policy Optimization for Code Generation
 
 ### 计算机视觉
 
@@ -95,4 +97,5 @@
 
 - [科学方程发现](../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) · DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery
 - [数学反例搜索](../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra
+- [逆合成搜索工具选择](../papers/scientific-ml.md#chang26g-reinforcement-learning) · RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models
 <!-- classification:end -->

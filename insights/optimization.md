@@ -11,6 +11,11 @@
 
 - [模型压缩](../papers/llm.md#abbasi26a-optimization) · Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression
 - [低显存零阶微调](../papers/llm.md#cai26a-optimization) · AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments
+- [LoRA 收敛](../papers/llm.md#castin26a-optimization) · Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence
+
+### 机器人学
+
+- [安全控制器混合](../papers/robotics.md#chaudhary26a-optimization) · Blending Neural Control Density Functions for Stabilization and Safety
 
 ### 机器学习基础与统计
 
@@ -45,8 +50,15 @@
 - [谱梯度优化](../papers/ml-foundations.md#braun26a-optimization) · Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval
 - [Langevin 优化](../papers/ml-foundations.md#bruno26a-optimization) · Flatness-Aware Stochastic Gradient Langevin Dynamics
 - [谱稀疏信号重建](../papers/ml-foundations.md#cai26j-optimization) · Fast Spectrally Sparse Signal Reconstruction via Jacobi-Preconditioned Gradient Descent
+- [多核学习](../papers/ml-foundations.md#cao26ae-optimization) · Diversity-Aware Recursive Feature Multiple Kernel Learning
+- [重尾随机镜像下降](../papers/ml-foundations.md#cauvin26a-optimization) · Bregman meets Lévy: Stochastic Mirror Descent with Heavy-Tailed Noise in Continuous and Discrete Time
+- [Gauss–Newton 训练](../papers/ml-foundations.md#cayci26a-optimization) · Geometric Convergence of Gauss–Newton for Neural Networks: Riemannian Geometry and Adaptive Damping
+- [在线变分估计](../papers/ml-foundations.md#chagneux26a-optimization) · Efficient Online Variational Estimation via Monte Carlo Sampling
+- [随机约束优化](../papers/ml-foundations.md#chakraborty26c-optimization) · Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes
+- [多仿射等式约束](../papers/ml-foundations.md#chao26a-optimization) · Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem
 
 ### 图学习与推荐
 
 - [图粗化](../papers/graph-and-recommendation.md#bai26g-optimization) · Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle
+- [公平排序聚合](../papers/graph-and-recommendation.md#chakraborty26b-optimization) · Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking
 <!-- classification:end -->

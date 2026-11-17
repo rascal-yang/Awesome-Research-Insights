@@ -16,6 +16,8 @@
 - [新类别发现](../papers/computer-vision.md#bian26d-representation-learning) · CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery
 - [视频特征预测](../papers/computer-vision.md#boduljak26a-representation-learning) · VFMF: Dense Forecasting by Generating Vision Foundation Model Features
 - [类别增量学习](../papers/computer-vision.md#cao26h-representation-learning) · On the Power of Statistics in Class-Incremental Learning with Pretrained Models
+- [扩散概念遗忘](../papers/computer-vision.md#cassano26a-representation-learning) · SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders
+- [细粒度类别发现](../papers/computer-vision.md#cendra26a-representation-learning) · PartCo: Part-Level Correspondence Priors Enhance Category Discovery
 
 ### 自然语言处理
 
@@ -33,6 +35,7 @@
 - [中间层特征迁移](../papers/ml-foundations.md#batra26a-representation-learning) · Uncovering the Latent Potential of Deep Intermediate Representations
 - [单轮联邦学习](../papers/ml-foundations.md#berardini26a-representation-learning) · Distribution Alignment for One-Shot Federated Learning via Optimal Transport
 - [贝叶斯不确定性](../papers/ml-foundations.md#calvo-ordonez26a-representation-learning) · Richer Bayesian Last Layers with Subsampled NTK Features
+- [跨环境特征提取](../papers/ml-foundations.md#cao26t-representation-learning) · Causal Feature Learning via Generalized Rayleigh Quotients
 
 ### 图学习与推荐
 

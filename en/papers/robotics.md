@@ -23,6 +23,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) | [Read insight (中文)](../../papers/robotics.md#bai26h-architecture) |
+| [Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) | [Read insight (中文)](../../papers/robotics.md#cao26u-architecture) |
 
 <a id="by-modules"></a>
 
@@ -42,6 +43,14 @@ The linked short insights are available in Chinese.
 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) | [Read insight (中文)](../../papers/robotics.md#liu26bl-loss-functions) · [Full entry](../insights/loss-functions.md#align-action-features-with-latent-actions) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) | [Read insight (中文)](../../papers/robotics.md#reconvla-loss-functions) · [Full entry](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
 
+<a id="by-optimization"></a>
+
+### Optimization
+
+| Paper | Insight |
+| :--- | :--- |
+| [Blending Neural Control Density Functions for Stabilization and Safety](https://proceedings.mlr.press/v306/chaudhary26a.html) | [Read insight (中文)](../../papers/robotics.md#chaudhary26a-optimization) |
+
 <a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning Methods
@@ -59,6 +68,7 @@ The linked short insights are available in Chinese.
 | [PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) | [Read insight (中文)](../../papers/robotics.md#aissi26a-inference) |
 | [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) | [Read insight (中文)](../../papers/robotics.md#balim26a-inference) |
 | [Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) | [Read insight (中文)](../../papers/robotics.md#beyer26a-inference) |
+| [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | [Read insight (中文)](../../papers/robotics.md#chai26a-inference) |
 
 <a id="by-evaluation"></a>
 
@@ -67,4 +77,5 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](https://proceedings.mlr.press/v306/bai26e.html) | [Read insight (中文)](../../papers/robotics.md#bai26e-evaluation) |
+| [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) | [Read insight (中文)](../../papers/robotics.md#cao26w-evaluation) |
 <!-- classification:end -->

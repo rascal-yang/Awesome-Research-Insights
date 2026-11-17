@@ -35,6 +35,7 @@ The linked short insights are available in Chinese.
 | [Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers](https://proceedings.mlr.press/v306/candogan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#candogan26a-modules) |
 | [Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation](https://proceedings.mlr.press/v306/cao26j.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26j-modules) |
 | [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26n-modules) |
+| [StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](https://proceedings.mlr.press/v306/cao26ab.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26ab-modules) |
 | [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | [Read insight (中文)](../../papers/computer-vision.md#tian26k-modules) · [Full entry](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -71,6 +72,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [FUSE: Full-spectrum Unlearnable Examples via Spectral Equalization](https://proceedings.mlr.press/v306/cai26m.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26m-data-strategies) |
+| [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://proceedings.mlr.press/v306/cao26s.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26s-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -85,6 +87,7 @@ The linked short insights are available in Chinese.
 | [Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26g-inference) |
 | [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26n-inference) |
 | [Efficient Learned Image Compression without Entropy Coding](https://proceedings.mlr.press/v306/cao26e.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26e-inference) |
+| [ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts](https://proceedings.mlr.press/v306/chang26c.html) | [Read insight (中文)](../../papers/computer-vision.md#chang26c-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -95,6 +98,8 @@ The linked short insights are available in Chinese.
 | [CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery](https://proceedings.mlr.press/v306/bian26d.html) | [Read insight (中文)](../../papers/computer-vision.md#bian26d-representation-learning) |
 | [VFMF: Dense Forecasting by Generating Vision Foundation Model Features](https://proceedings.mlr.press/v306/boduljak26a.html) | [Read insight (中文)](../../papers/computer-vision.md#boduljak26a-representation-learning) |
 | [On the Power of Statistics in Class-Incremental Learning with Pretrained Models](https://proceedings.mlr.press/v306/cao26h.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26h-representation-learning) |
+| [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://proceedings.mlr.press/v306/cassano26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cassano26a-representation-learning) |
+| [PartCo: Part-Level Correspondence Priors Enhance Category Discovery](https://proceedings.mlr.press/v306/cendra26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cendra26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 

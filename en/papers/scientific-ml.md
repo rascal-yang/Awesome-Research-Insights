@@ -26,6 +26,8 @@ The linked short insights are available in Chinese.
 | [Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://proceedings.mlr.press/v306/brandle26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brandle26a-architecture) |
 | [STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://proceedings.mlr.press/v306/brinke26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brinke26a-architecture) |
 | [Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](https://proceedings.mlr.press/v306/bu26d.html) | [Read insight (中文)](../../papers/scientific-ml.md#bu26d-architecture) |
+| [LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory](https://proceedings.mlr.press/v306/cao26ad.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26ad-architecture) |
+| [Bioacoustic Geolocation: Species Sounds as Geographic Signals](https://proceedings.mlr.press/v306/chasmai26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#chasmai26b-architecture) |
 
 <a id="by-modules"></a>
 
@@ -34,6 +36,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Smoothness Errors in Dynamics Models and How to Avoid Them](https://proceedings.mlr.press/v306/berman26d.html) | [Read insight (中文)](../../papers/scientific-ml.md#berman26d-modules) |
+| [MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](https://proceedings.mlr.press/v306/chang26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#chang26b-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -44,6 +47,7 @@ The linked short insights are available in Chinese.
 | [Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#abijuru26b-loss-functions) |
 | [Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#anwer26a-loss-functions) |
 | [HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#byeon26a-loss-functions) |
+| [MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chasmai26a-loss-functions) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -53,6 +57,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery](https://proceedings.mlr.press/v306/behzadifar26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) |
 | [Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](https://proceedings.mlr.press/v306/butbaia26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#butbaia26a-reinforcement-learning) |
+| [RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](https://proceedings.mlr.press/v306/chang26g.html) | [Read insight (中文)](../../papers/scientific-ml.md#chang26g-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -61,6 +66,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](https://proceedings.mlr.press/v306/cao26r.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26r-training-strategies) |
+| [Tokenised Flow Matching for Hierarchical Simulation Based Inference](https://proceedings.mlr.press/v306/charles26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#charles26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -69,6 +75,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://proceedings.mlr.press/v306/brockschmidt26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brockschmidt26a-data-strategies) |
+| [DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](https://proceedings.mlr.press/v306/chan26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chan26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -106,6 +113,7 @@ The linked short insights are available in Chinese.
 | [Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](https://proceedings.mlr.press/v306/bai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bai26a-evaluation) |
 | [Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://proceedings.mlr.press/v306/becktepe26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#becktepe26a-evaluation) |
 | [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://proceedings.mlr.press/v306/cao26g.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26g-evaluation) |
+| [A Systematic Study of Behavioral Cloning for Scientific Data Annotation](https://proceedings.mlr.press/v306/chandok26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chandok26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
