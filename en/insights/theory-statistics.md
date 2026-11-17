@@ -584,6 +584,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows](../../conferences/icml-2026/cards/3801-3900.md#rancati26a-theory-statistics) · 中文
 - [Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective](../../conferences/icml-2026/cards/4101-4200.md#shu26a-theory-statistics) · 中文
 - [On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models](../../conferences/icml-2026/cards/4301-4400.md#taing26a-theory-statistics) · 中文
+- [Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors](../../conferences/icml-2026/cards/4501-4600.md#turan26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

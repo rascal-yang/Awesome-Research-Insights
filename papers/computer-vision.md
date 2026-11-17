@@ -148,6 +148,7 @@
 - <a id="su26b-loss-functions"></a>[PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection](../conferences/icml-2026/cards/4201-4300.md#paper-su26b)
 - <a id="sun26ai-loss-functions"></a>[Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ai)
 - <a id="tewel26a-loss-functions"></a>[Unpaired Visual Editing with Self-Consistent Flow Matching](../conferences/icml-2026/cards/4401-4500.md#paper-tewel26a)
+- <a id="turan26c-loss-functions"></a>[Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization](../conferences/icml-2026/cards/4501-4600.md#paper-turan26c)
 
 <a id="by-optimization"></a>
 
@@ -272,6 +273,7 @@
 - <a id="tan26b-training-strategies"></a>[VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tan26b)
 - <a id="teymourian26a-training-strategies"></a>[SORA: Free Second-Order Attacks in Fast Adversarial Training](../conferences/icml-2026/cards/4401-4500.md#paper-teymourian26a)
 - <a id="tong26a-training-strategies"></a>[CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](../conferences/icml-2026/cards/4401-4500.md#paper-tong26a)
+- <a id="tu26d-training-strategies"></a>[Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration](../conferences/icml-2026/cards/4501-4600.md#paper-tu26d)
 
 <a id="by-data-strategies"></a>
 
@@ -295,6 +297,7 @@
 - <a id="oh26b-data-strategies"></a>[CSOR: Coreset Selection for Object Re-identification via Class Pruning](../conferences/icml-2026/cards/3401-3500.md#paper-oh26b)
 - <a id="rahimi26a-data-strategies"></a>[ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](../conferences/icml-2026/cards/3801-3900.md#paper-rahimi26a)
 - <a id="reiss26a-data-strategies"></a>[Alterbute: Editing Intrinsic Attributes of Objects in Images](../conferences/icml-2026/cards/3801-3900.md#paper-reiss26a)
+- <a id="traub26a-data-strategies"></a>[Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation](../conferences/icml-2026/cards/4401-4500.md#paper-traub26a)
 
 <a id="by-inference"></a>
 
@@ -458,6 +461,7 @@
 - <a id="tan26f-representation-learning"></a>[Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tan26f)
 - <a id="timilsina26a-representation-learning"></a>[Content-Style Identification via Differential Independence](../conferences/icml-2026/cards/4401-4500.md#paper-timilsina26a)
 - <a id="tong26g-representation-learning"></a>[Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](../conferences/icml-2026/cards/4401-4500.md#paper-tong26g)
+- <a id="turan26b-representation-learning"></a>[Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings](../conferences/icml-2026/cards/4501-4600.md#paper-turan26b)
 
 <a id="by-evaluation"></a>
 

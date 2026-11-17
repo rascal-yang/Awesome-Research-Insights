@@ -310,6 +310,7 @@
 - [inference-consistent-kv-selection](../conferences/icml-2026/cards/4401-4500.md#teng26b-inference) · InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context
 - [可执行程序的静默语义错误探测](../conferences/icml-2026/cards/4401-4500.md#tian26m-inference) · LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement
 - [任务结构空间中的Bayes合成](../conferences/icml-2026/cards/4401-4500.md#tomov26a-inference) · Task-Awareness Improves LLM Generations and Uncertainty
+- [stepwise-difficulty-control](../conferences/icml-2026/cards/4501-4600.md#tu26c-inference) · DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling
 
 <a id="by-computer-vision"></a>
 
@@ -454,6 +455,7 @@
 - [用多个评分器校准行动保守度](../conferences/icml-2026/cards/3501-3600.md#overman26a-inference) · Calibrating Conservatism for Scalable Oversight
 - [latent-particle-decoder-adaptation](../conferences/icml-2026/cards/4301-4400.md#surendran26a-inference) · Latent Guided Sampling for Combinatorial Optimization
 - [discrete-curvature-joint-search](../conferences/icml-2026/cards/4301-4400.md#tang26ae-inference) · NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search
+- [implicit-rerooted-subtasks](../conferences/icml-2026/cards/4501-4600.md#tuero26a-inference) · Structure-Induced Information for Rerooting Levin Tree Search
 
 <a id="by-robotics"></a>
 

@@ -92,6 +92,9 @@
 - [inner-optimizer-worker-scaling](../conferences/icml-2026/cards/4401-4500.md#therien26a-optimization) · MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo
 - [calibrated-svd-rank-allocation](../conferences/icml-2026/cards/4401-4500.md#thoma26a-optimization) · Advancing SVD-based LLM Compression via Layer-Wise Error Model Search
 - [跨客户端闲置专家伪梯度](../conferences/icml-2026/cards/4401-4500.md#tran26f-optimization) · UB-SMoE: Universally Balanced Sparse Mixture-of-Experts for Resource-adaptive Federated Fine-tuning of Foundation Models
+- [end-to-end-rounding-curvature](../conferences/icml-2026/cards/4401-4500.md#tseng26b-optimization) · Model-Preserving Adaptive Rounding
+- [analytic-plus-learned-binary-scaling](../conferences/icml-2026/cards/4501-4600.md#tu26b-optimization) · Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models
+- [time-shared-ssm-pruning](../conferences/icml-2026/cards/4501-4600.md#tuo26a-optimization) · SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot
 
 <a id="by-computer-vision"></a>
 

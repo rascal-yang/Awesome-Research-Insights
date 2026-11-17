@@ -61,6 +61,8 @@ Model-wide design and information flow.
 - [Causal Attention with Lookahead Keys](../../conferences/icml-2026/cards/4201-4300.md#song26y-architecture) · 中文
 - [Attention Projection Mixing with Exogenous Anchors](../../conferences/icml-2026/cards/4201-4300.md#su26a-architecture) · 中文
 - [MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models](../../conferences/icml-2026/cards/4401-4500.md#tastan26a-architecture) · 中文
+- [$L^3$: Large Lookup Layers](../../conferences/icml-2026/cards/4401-4500.md#tseng26a-architecture) · 中文
+- [Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences](../../conferences/icml-2026/cards/4501-4600.md#tumma26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -277,6 +279,7 @@ Model-wide design and information flow.
 - [Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration](../../conferences/icml-2026/cards/4101-4200.md#shin26c-architecture) · 中文
 - [Geometry-Aware Probabilistic Circuits via Voronoi Tessellations](../../conferences/icml-2026/cards/4101-4200.md#sidheekh26a-architecture) · 中文
 - [WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](../../conferences/icml-2026/cards/4101-4200.md#solozabal26a-architecture) · 中文
+- [Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning](../../conferences/icml-2026/cards/4401-4500.md#troxell26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

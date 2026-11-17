@@ -207,6 +207,7 @@ Training schedules, curricula, and task or stage composition.
 - [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#tan26b-training-strategies) · 中文
 - [SORA: Free Second-Order Attacks in Fast Adversarial Training](../../conferences/icml-2026/cards/4401-4500.md#teymourian26a-training-strategies) · 中文
 - [CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](../../conferences/icml-2026/cards/4401-4500.md#tong26a-training-strategies) · 中文
+- [Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration](../../conferences/icml-2026/cards/4501-4600.md#tu26d-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

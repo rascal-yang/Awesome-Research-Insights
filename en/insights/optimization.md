@@ -92,6 +92,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo](../../conferences/icml-2026/cards/4401-4500.md#therien26a-optimization) · 中文
 - [Advancing SVD-based LLM Compression via Layer-Wise Error Model Search](../../conferences/icml-2026/cards/4401-4500.md#thoma26a-optimization) · 中文
 - [UB-SMoE: Universally Balanced Sparse Mixture-of-Experts for Resource-adaptive Federated Fine-tuning of Foundation Models](../../conferences/icml-2026/cards/4401-4500.md#tran26f-optimization) · 中文
+- [Model-Preserving Adaptive Rounding](../../conferences/icml-2026/cards/4401-4500.md#tseng26b-optimization) · 中文
+- [Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models](../../conferences/icml-2026/cards/4501-4600.md#tu26b-optimization) · 中文
+- [SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot](../../conferences/icml-2026/cards/4501-4600.md#tuo26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 

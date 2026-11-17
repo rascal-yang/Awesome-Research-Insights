@@ -136,6 +136,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="hui26b-data-strategies"></a>[Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](../../conferences/icml-2026/cards/1701-1800.md#paper-hui26b)
 - <a id="ji26g-data-strategies"></a>[OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26g)
 - <a id="liang26n-data-strategies"></a>[PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26n)
+- <a id="tsai26a-data-strategies"></a>[Creat3r: Confidence Reaggregation for Exploration-aware Active 3D Reconstruction](../../conferences/icml-2026/cards/4401-4500.md#paper-tsai26a)
 
 <a id="by-inference"></a>
 

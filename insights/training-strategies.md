@@ -207,6 +207,7 @@
 - [感知前置RL与任务梯度分配](../conferences/icml-2026/cards/4301-4400.md#tan26b-training-strategies) · VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning
 - [reuse-gradients-to-diagnose-fast-at-collapse](../conferences/icml-2026/cards/4401-4500.md#teymourian26a-training-strategies) · SORA: Free Second-Order Attacks in Fast Adversarial Training
 - [视频模型的三帧视觉修正](../conferences/icml-2026/cards/4401-4500.md#tong26a-training-strategies) · CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
+- [uncertainty-modulated-bridge](../conferences/icml-2026/cards/4501-4600.md#tu26d-training-strategies) · Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration
 
 <a id="by-nlp"></a>
 

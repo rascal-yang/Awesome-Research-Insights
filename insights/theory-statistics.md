@@ -584,6 +584,7 @@
 - [从离散分布快照恢复自由能扩散](../conferences/icml-2026/cards/3801-3900.md#rancati26a-theory-statistics) · Learning Discrete Diffusion on Graphs via Free-Energy Gradient Flows
 - [稀疏图跨规模归一化边界](../conferences/icml-2026/cards/4101-4200.md#shu26a-theory-statistics) · Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective
 - [spectral-dimension-misspecification](../conferences/icml-2026/cards/4301-4400.md#taing26a-theory-statistics) · On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models
+- [activation-bifurcation-boundaries](../conferences/icml-2026/cards/4501-4600.md#turan26a-theory-statistics) · Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors
 
 <a id="by-scientific-ml"></a>
 

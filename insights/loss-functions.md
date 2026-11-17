@@ -81,6 +81,7 @@
 - [真值与扩张框语义对比奖励](../conferences/icml-2026/cards/4201-4300.md#su26b-loss-functions) · PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection
 - [persistent-connectivity-regularization](../conferences/icml-2026/cards/4301-4400.md#sun26ai-loss-functions) · Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology
 - [clean-forward-noisy-backward-edit-cycle](../conferences/icml-2026/cards/4401-4500.md#tewel26a-loss-functions) · Unpaired Visual Editing with Self-Consistent Flow Matching
+- [trajectory-consistent-koopman](../conferences/icml-2026/cards/4501-4600.md#turan26c-loss-functions) · Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization
 
 <a id="by-nlp"></a>
 
@@ -199,6 +200,7 @@
 - [全序事件下界训练](../conferences/icml-2026/cards/4301-4400.md#tang26x-loss-functions) · Learning to Rank by Directly Optimizing Full-Order Probabilities
 - [value-repulsion-grokking](../conferences/icml-2026/cards/4401-4500.md#tao26f-loss-functions) · The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization
 - [多尺度几何集合生成损失](../conferences/icml-2026/cards/4401-4500.md#torkamani26a-loss-functions) · Magnitude Distance: A Geometric Measure of Dataset Similarity
+- [amortized-attribution](../conferences/icml-2026/cards/4401-4500.md#tran26h-loss-functions) · Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation
 
 <a id="by-graph-and-recommendation"></a>
 

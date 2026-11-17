@@ -75,6 +75,7 @@
 - <a id="shin26c-architecture"></a>[Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration](../conferences/icml-2026/cards/4101-4200.md#paper-shin26c)
 - <a id="sidheekh26a-architecture"></a>[Geometry-Aware Probabilistic Circuits via Voronoi Tessellations](../conferences/icml-2026/cards/4101-4200.md#paper-sidheekh26a)
 - <a id="solozabal26a-architecture"></a>[WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](../conferences/icml-2026/cards/4101-4200.md#paper-solozabal26a)
+- <a id="troxell26a-architecture"></a>[Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning](../conferences/icml-2026/cards/4401-4500.md#paper-troxell26a)
 
 <a id="by-modules"></a>
 
@@ -170,6 +171,7 @@
 - <a id="tang26x-loss-functions"></a>[Learning to Rank by Directly Optimizing Full-Order Probabilities](../conferences/icml-2026/cards/4301-4400.md#paper-tang26x)
 - <a id="tao26f-loss-functions"></a>[The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization](../conferences/icml-2026/cards/4401-4500.md#paper-tao26f)
 - <a id="torkamani26a-loss-functions"></a>[Magnitude Distance: A Geometric Measure of Dataset Similarity](../conferences/icml-2026/cards/4401-4500.md#paper-torkamani26a)
+- <a id="tran26h-loss-functions"></a>[Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation](../conferences/icml-2026/cards/4401-4500.md#paper-tran26h)
 
 <a id="by-optimization"></a>
 

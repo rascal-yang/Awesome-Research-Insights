@@ -235,6 +235,7 @@
 - <a id="overman26a-inference"></a>[Calibrating Conservatism for Scalable Oversight](../conferences/icml-2026/cards/3501-3600.md#paper-overman26a)
 - <a id="surendran26a-inference"></a>[Latent Guided Sampling for Combinatorial Optimization](../conferences/icml-2026/cards/4301-4400.md#paper-surendran26a)
 - <a id="tang26ae-inference"></a>[NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ae)
+- <a id="tuero26a-inference"></a>[Structure-Induced Information for Rerooting Levin Tree Search](../conferences/icml-2026/cards/4501-4600.md#paper-tuero26a)
 
 <a id="by-representation-learning"></a>
 

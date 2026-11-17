@@ -321,6 +321,7 @@
 - [过程奖励与正确率脱钩](../conferences/icml-2026/cards/4401-4500.md#tiwari26b-evaluation) · Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models
 - [代码表示与执行机制的配对分离](../conferences/icml-2026/cards/4401-4500.md#tong26d-evaluation) · Is Code Better Than Language for Algorithmic Reasoning?
 - [代码风格条件化安全失效](../conferences/icml-2026/cards/4401-4500.md#tran26b-evaluation) · Poison with Style: A Practical Poisoning Attack on Code Large Language Models
+- [probability-irt-scaling](../conferences/icml-2026/cards/4401-4500.md#truong26b-evaluation) · Item Response Scaling Laws: A Measurement Theory Approach for Efficient and Generalizable Neural Scaling Estimation
 
 <a id="by-computer-vision"></a>
 

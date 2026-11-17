@@ -84,6 +84,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning](../../conferences/icml-2026/cards/4301-4400.md#tan26f-representation-learning) · 中文
 - [Content-Style Identification via Differential Independence](../../conferences/icml-2026/cards/4401-4500.md#timilsina26a-representation-learning) · 中文
 - [Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](../../conferences/icml-2026/cards/4401-4500.md#tong26g-representation-learning) · 中文
+- [Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings](../../conferences/icml-2026/cards/4501-4600.md#turan26b-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -281,6 +282,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](../../conferences/icml-2026/cards/4001-4100.md#shan26b-representation-learning) · 中文
 - [Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls](../../conferences/icml-2026/cards/4001-4100.md#shevkunov26a-representation-learning) · 中文
 - [Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](../../conferences/icml-2026/cards/4301-4400.md#sun26ab-representation-learning) · 中文
+- [Plain Transformers are Surprisingly Powerful Link Predictors](../../conferences/icml-2026/cards/4401-4500.md#truong26a-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 

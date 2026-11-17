@@ -81,6 +81,7 @@ Objectives, auxiliary supervision, and regularization.
 - [PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection](../../conferences/icml-2026/cards/4201-4300.md#su26b-loss-functions) · 中文
 - [Topology-Aware Contrastive Learning: Regulating Representation Connectivity via Persistent Homology](../../conferences/icml-2026/cards/4301-4400.md#sun26ai-loss-functions) · 中文
 - [Unpaired Visual Editing with Self-Consistent Flow Matching](../../conferences/icml-2026/cards/4401-4500.md#tewel26a-loss-functions) · 中文
+- [Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization](../../conferences/icml-2026/cards/4501-4600.md#turan26c-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -199,6 +200,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Learning to Rank by Directly Optimizing Full-Order Probabilities](../../conferences/icml-2026/cards/4301-4400.md#tang26x-loss-functions) · 中文
 - [The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization](../../conferences/icml-2026/cards/4401-4500.md#tao26f-loss-functions) · 中文
 - [Magnitude Distance: A Geometric Measure of Dataset Similarity](../../conferences/icml-2026/cards/4401-4500.md#torkamani26a-loss-functions) · 中文
+- [Unified Time Series Explanations via Amortized Optimization and Instance-level Multi-Expert Knowledge Distillation](../../conferences/icml-2026/cards/4401-4500.md#tran26h-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

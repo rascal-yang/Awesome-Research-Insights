@@ -61,6 +61,8 @@
 - <a id="song26y-architecture"></a>[Causal Attention with Lookahead Keys](../conferences/icml-2026/cards/4201-4300.md#paper-song26y)
 - <a id="su26a-architecture"></a>[Attention Projection Mixing with Exogenous Anchors](../conferences/icml-2026/cards/4201-4300.md#paper-su26a)
 - <a id="tastan26a-architecture"></a>[MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tastan26a)
+- <a id="tseng26a-architecture"></a>[$L^3$: Large Lookup Layers](../conferences/icml-2026/cards/4401-4500.md#paper-tseng26a)
+- <a id="tumma26a-architecture"></a>[Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences](../conferences/icml-2026/cards/4501-4600.md#paper-tumma26a)
 
 <a id="by-modules"></a>
 
@@ -233,6 +235,9 @@
 - <a id="therien26a-optimization"></a>[MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo](../conferences/icml-2026/cards/4401-4500.md#paper-therien26a)
 - <a id="thoma26a-optimization"></a>[Advancing SVD-based LLM Compression via Layer-Wise Error Model Search](../conferences/icml-2026/cards/4401-4500.md#paper-thoma26a)
 - <a id="tran26f-optimization"></a>[UB-SMoE: Universally Balanced Sparse Mixture-of-Experts for Resource-adaptive Federated Fine-tuning of Foundation Models](../conferences/icml-2026/cards/4401-4500.md#paper-tran26f)
+- <a id="tseng26b-optimization"></a>[Model-Preserving Adaptive Rounding](../conferences/icml-2026/cards/4401-4500.md#paper-tseng26b)
+- <a id="tu26b-optimization"></a>[Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models](../conferences/icml-2026/cards/4501-4600.md#paper-tu26b)
+- <a id="tuo26a-optimization"></a>[SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot](../conferences/icml-2026/cards/4501-4600.md#paper-tuo26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -898,6 +903,7 @@
 - <a id="teng26b-inference"></a>[InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context](../conferences/icml-2026/cards/4401-4500.md#paper-teng26b)
 - <a id="tian26m-inference"></a>[LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](../conferences/icml-2026/cards/4401-4500.md#paper-tian26m)
 - <a id="tomov26a-inference"></a>[Task-Awareness Improves LLM Generations and Uncertainty](../conferences/icml-2026/cards/4401-4500.md#paper-tomov26a)
+- <a id="tu26c-inference"></a>[DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling](../conferences/icml-2026/cards/4501-4600.md#paper-tu26c)
 
 <a id="by-representation-learning"></a>
 
@@ -1231,6 +1237,7 @@
 - <a id="tiwari26b-evaluation"></a>[Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models](../conferences/icml-2026/cards/4401-4500.md#paper-tiwari26b)
 - <a id="tong26d-evaluation"></a>[Is Code Better Than Language for Algorithmic Reasoning?](../conferences/icml-2026/cards/4401-4500.md#paper-tong26d)
 - <a id="tran26b-evaluation"></a>[Poison with Style: A Practical Poisoning Attack on Code Large Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tran26b)
+- <a id="truong26b-evaluation"></a>[Item Response Scaling Laws: A Measurement Theory Approach for Efficient and Generalizable Neural Scaling Estimation](../conferences/icml-2026/cards/4401-4500.md#paper-truong26b)
 
 <a id="by-theory-statistics"></a>
 

@@ -102,6 +102,7 @@ Data selection, annotation, augmentation, and sampling.
 - [CSOR: Coreset Selection for Object Re-identification via Class Pruning](../../conferences/icml-2026/cards/3401-3500.md#oh26b-data-strategies) · 中文
 - [ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](../../conferences/icml-2026/cards/3801-3900.md#rahimi26a-data-strategies) · 中文
 - [Alterbute: Editing Intrinsic Attributes of Objects in Images](../../conferences/icml-2026/cards/3801-3900.md#reiss26a-data-strategies) · 中文
+- [Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation](../../conferences/icml-2026/cards/4401-4500.md#traub26a-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -139,6 +140,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](../../conferences/icml-2026/cards/1701-1800.md#hui26b-data-strategies) · 中文
 - [OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning](../../conferences/icml-2026/cards/1801-1900.md#ji26g-data-strategies) · 中文
 - [PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration](../../conferences/icml-2026/cards/2601-2700.md#liang26n-data-strategies) · 中文
+- [Creat3r: Confidence Reaggregation for Exploration-aware Active 3D Reconstruction](../../conferences/icml-2026/cards/4401-4500.md#tsai26a-data-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

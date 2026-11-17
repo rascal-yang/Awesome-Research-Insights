@@ -321,6 +321,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models](../../conferences/icml-2026/cards/4401-4500.md#tiwari26b-evaluation) · 中文
 - [Is Code Better Than Language for Algorithmic Reasoning?](../../conferences/icml-2026/cards/4401-4500.md#tong26d-evaluation) · 中文
 - [Poison with Style: A Practical Poisoning Attack on Code Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tran26b-evaluation) · 中文
+- [Item Response Scaling Laws: A Measurement Theory Approach for Efficient and Generalizable Neural Scaling Estimation](../../conferences/icml-2026/cards/4401-4500.md#truong26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

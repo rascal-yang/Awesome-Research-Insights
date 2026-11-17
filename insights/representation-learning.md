@@ -84,6 +84,7 @@
 - [Jacobian分维排序对比](../conferences/icml-2026/cards/4301-4400.md#tan26f-representation-learning) · Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning
 - [内容风格切空间正交](../conferences/icml-2026/cards/4401-4500.md#timilsina26a-representation-learning) · Content-Style Identification via Differential Independence
 - [因果属性与文本槽位对齐](../conferences/icml-2026/cards/4401-4500.md#tong26g-representation-learning) · Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation
+- [concept-space-prover-verifier](../conferences/icml-2026/cards/4501-4600.md#turan26b-representation-learning) · Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings
 
 <a id="by-nlp"></a>
 
@@ -281,6 +282,7 @@
 - [按 Dirichlet 能量分离图对比传播](../conferences/icml-2026/cards/4001-4100.md#shan26b-representation-learning) · Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing
 - [用少量重排分数编码候选](../conferences/icml-2026/cards/4001-4100.md#shevkunov26a-representation-learning) · Relevance-Based Embeddings: Lightweight Candidate Retrieval via Heavy-Ranker Calls
 - [polarity-invariant-equivariant-decomposition](../conferences/icml-2026/cards/4301-4400.md#sun26ab-representation-learning) · Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs
+- [sample-local-node-identities](../conferences/icml-2026/cards/4401-4500.md#truong26a-representation-learning) · Plain Transformers are Surprisingly Powerful Link Predictors
 
 <a id="by-scientific-ml"></a>
 

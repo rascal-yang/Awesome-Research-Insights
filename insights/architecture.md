@@ -61,6 +61,8 @@
 - [保持因果性的动态旧key](../conferences/icml-2026/cards/4201-4300.md#song26y-architecture) · Causal Attention with Lookahead Keys
 - [外源注意力锚与归一化](../conferences/icml-2026/cards/4201-4300.md#su26a-architecture) · Attention Projection Mixing with Exogenous Anchors
 - [router-conditioned-expert-width](../conferences/icml-2026/cards/4401-4500.md#tastan26a-architecture) · MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models
+- [static-contextual-lookup](../conferences/icml-2026/cards/4401-4500.md#tseng26a-architecture) · $L^3$: Large Lookup Layers
+- [diagonal-preconditioned-delta](../conferences/icml-2026/cards/4501-4600.md#tumma26a-architecture) · Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences
 
 <a id="by-computer-vision"></a>
 
@@ -277,6 +279,7 @@
 - [观测频带编码与扩展查询](../conferences/icml-2026/cards/4101-4200.md#shin26c-architecture) · Query-Based Asymmetric Modeling with Decoupled Input–Output Rates for Speech Restoration
 - [让几何路由与概率电路分解对齐](../conferences/icml-2026/cards/4101-4200.md#sidheekh26a-architecture) · Geometry-Aware Probabilistic Circuits via Voronoi Tessellations
 - [小波局部记忆SSM](../conferences/icml-2026/cards/4101-4200.md#solozabal26a-architecture) · WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention
+- [differentiable-parity-projection](../conferences/icml-2026/cards/4401-4500.md#troxell26a-architecture) · Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning
 
 <a id="by-graph-and-recommendation"></a>
 

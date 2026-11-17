@@ -4490,26 +4490,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4489	tran26e	3	4	3	3	66		新增量/复用/可用/独特性依次(3, 4, 3, 3)；来源为Sinkhorn OT、元学习与跨模态蒸馏；比较CE、Feature KD及paired Vanilla KD；Table6将FA-only/LA-only/直接联合作消融。 界为风险差分解加teacher条件损失Lipschitz运输界；LA是带符号风险差项，非一般非负距离。附录D学生条件Dirac及teacher插件估计不自动给语义无偏保证；保留经验策略。随机打乱不等真实域偏移，内外更新额外计算未等FLOPs。 PDF第3,4,5,6,7,8,13,16页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26e/tran26e.pdf	scored
 4490	tran26f	4	4	3	4	76		新增量/复用/可用/独特性依次(4, 4, 3, 4)；最近A3SMoE支持异构激活但不补闲置梯度；来源含loss-free balancing。实际比较A3SMoE、SMoE-LLB、FlexLoRA等及PG/DMR消融。 需全局闲置专家参数更新/通信，伪梯度不是本地无偏真梯度。收敛需PL、平滑偏差等强假设；p6候选Np=2与Kmax=8及Np≥Kmax文字冲突；表2/4平均.4267/.4313不一致，保留各表局部数值。 PDF第4,5,6,7,8,9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26f/tran26f.pdf	scored
 4491	tran26g	3	4	4	3	70		新增量/复用/可用/独特性依次(3, 4, 4, 3)；来源为MILA、Swin和Mamba遗忘；独立改动为局部聚合+全局均值，消融均值/值投影；与VMamba等比较。 系数摊薄定理需对序列长度一致的有界logits及正分母下界，非compact输入即可证明任意Transformer失效，也不意味着系数相等。SEMA参数比MILA略多，多数实验单次；ADE多尺度48.5低于VMamba48.8。 PDF第3,4,6,7,8,9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26g/tran26g.pdf	scored
-4492	tran26h							待原文复核评分	pending
-4493	traub26a							待原文复核评分	pending
-4494	troxell26a							待原文复核评分	pending
-4495	truong26a							待原文复核评分	pending
-4496	truong26b							待原文复核评分	pending
-4497	tsai26a							待原文复核评分	pending
-4498	tseng26a							待原文复核评分	pending
-4499	tseng26b							待原文复核评分	pending
-4500	tsui26a							待原文复核评分	pending
-4501	tu26a							待原文复核评分	pending
-4502	tu26b							待原文复核评分	pending
-4503	tu26c							待原文复核评分	pending
-4504	tu26d							待原文复核评分	pending
-4505	tu26e							待原文复核评分	pending
-4506	tuero26a							待原文复核评分	pending
-4507	tumma26a							待原文复核评分	pending
-4508	tuo26a							待原文复核评分	pending
-4509	turan26a							待原文复核评分	pending
-4510	turan26b							待原文复核评分	pending
-4511	turan26c							待原文复核评分	pending
+4492	tran26h	4	4	4	3	77		新增量：逐实例选择最可靠归因教师，再用保真与稳定性损失修正蒸馏；不能单靠代理指标训练解释器。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,5,7,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26h/tran26h.pdf	scored
+4493	traub26a	4	5	4	4	86		新增量：把对象提示直接用于离网多尺度输入采样，可保留小目标细节，但提示误差会同时破坏编码与查询。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 4,5,8,9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/traub26a/traub26a.pdf	scored
+4494	troxell26a	4	4	3	3	73		新增量：若输出公平性可写成仿射约束，可把凸投影置于训练图中；小批推理用累计原对偶约束，不能将逐批公平直接推成总体公平。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 2,3,4,7。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/troxell26a/troxell26a.pdf	scored
+4495	truong26a	3	4	4	3	70		新增量：只在采样子图内赋局部身份和邻接行，并以显式邻接乘法残差补充注意力，可避免维护全图ID表。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,6,7,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/truong26a/truong26a.pdf	scored
+4496	truong26b	4	5	4	4	86		新增量：用连续回答概率拟合题目难度与模型能力，再用少量题估新模型能力，适于低评估预算下的缩放决策。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,6,8,9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/truong26b/truong26b.pdf	scored
+4497	tsai26a	4	4	3	4	76		新增量4：几何支架跨视图置信重聚合，PDF4/9；复用4：NBV可脱离3DGS优化；可用3：覆盖纸面式有误，作者代码非零支持mask澄清实际算法；独特4：置信与稳健几何区别现有渲染器不确定性，表4有隔离对照。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tsai26a/tsai26a.pdf	scored
+4498	tseng26a	4	5	4	4	86		新增量：按token静态选一组记忆、再由上下文注意力聚合，可在稀疏模型中提前预取；各token记忆预算需按信息量分配。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,6,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tseng26a/tseng26a.pdf	scored
+4499	tseng26b	5	5	4	4	93		新增量：量化舍入应同时补偿输入与输出方向误差，用接近输出KL Hessian的Kronecker草图替代仅层内激活误差。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 2,4,5,6,7,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tseng26b/tseng26b.pdf	scored
+4500	tsui26a							仅提取普通解释机制判断：PDF2–4将已有cross-layer transcoders、top-k稀疏与replacement-circuit分析迁移到蛋白语言模型；与逐层transcoder的比较验证跨层建模优势，但未显示超越既有跨层transcoder的独立通用设计。依赖原模型attention缓存的替代评估也不等于独立完整模型；缺少改变相关深度学习技术选择的新边界，不因生物领域排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tsui26a/tsui26a.pdf	rule-excluded
+4501	tu26a							PDF2–6的可执行工具/数据库生成、测试修补、终态规则奖励已有EnvScaler覆盖（EnvScaler原文PDF2–5，ScenGenerator）；seed链逆向生成也是该文PDF5列出的已有通用做法。新增依赖BFS及LLM门控扩图仍为普通依赖满足/环境扩充，PDF8去执行验证对照仅证明验证有用，未隔离较最近生成器的独立新算子。固定1024任务扩域趋势亦未建立超出已知环境多样性效应的独特规律，故不保留pipeline。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tu26a/tu26a.pdf	rule-excluded
+4502	tu26b	3	4	4	3	70		新增量3：非continuation本身，而是保留解析Sa归一再乘可学习Sl的小型参数化增量；复用4：可独立用于相近二值训练；可用4：PDF6 Eq9与PDF8表5输入/操作/局部收益清楚；独特3：已有解析和学习尺度，本文补充二者组合受控证据，不主张广泛首创。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tu26b/tu26b.pdf	scored
+4503	tu26c	3	4	4	3	70		新增量：用每步隐藏态预测剩余推理长度并动态抑制反思触发词，比按问题固定深度更能随推理进程分配计算。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 4,5,6,7,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tu26c/tu26c.pdf	scored
+4504	tu26d	4	4	3	3	73		新增量：图像恢复桥中将严格终点放宽为像素不确定性分布，再分别调噪声与路径，可避免固定轨迹对异质退化一刀切。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,5,7,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tu26d/tu26d.pdf	scored
+4505	tu26e							PDF2、4–5、9页的独立候选是浅层结构/深层语义的先验位置选择；但原文已据Voynov2023及MegaSR2025的层分工动机，MegaSR物理PDF4与12页已验证跨块低层属性/高层语义角色及分层条件化（https://arxiv.org/pdf/2503.08096#page=4）。当前表6为已知分工在该恢复骨干的局部放置验证；三先验、蒸馏、调制/交叉注意力仍为成熟构件，未分离出超出已有分层先验策略的新机制或新适用边界，不能因跨多退化的指标改进单列。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tu26e/tu26e.pdf	rule-excluded
+4506	tuero26a	4	4	3	4	76		新增量：策略树搜索可用图聚类边界和cost-to-go作软重根权重，避免显式生成子目标，并用两者互补抵消误导。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,5,7,8,9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tuero26a/tuero26a.pdf	scored
+4507	tumma26a	4	5	4	4	86		新增量：Delta记忆更新可累计key平方矩作对角曲率校正，并对预条件幅度有界化以保持稳定与分块并行。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,5,6,7,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tumma26a/tumma26a.pdf	scored
+4508	tuo26a	3	4	3	4	69		新增量3：时间共享状态显著性与前缀加权有局部实证，但Hessian推导只作近似；复用4：指导SSM状态筛选；可用3：Alog参数化及ppl条件mask限制复现，不能以零权重等同删计算；独特4：区别普通线性层一次剪枝。PDF4–5、9、17及固定提交forward/结构裁剪代码。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tuo26a/tuo26a.pdf	scored
+4509	turan26a	4	4	3	4	76		新增量：深图网络可联合平滑奇激活与谱临界初始化避免零状态吸引；结构模式还需谱滤波选择，不能把非零均衡当作无过平滑保证。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 4,5,7,8,9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turan26a/turan26a.pdf	scored
+4510	turan26b	4	4	3	4	76		新增量：将prover的证据选择移到概念编码，并让非线性verifier只读所选概念，可在复杂视觉输入中兼顾证据约束与组合判别。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,5,6,7,8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turan26b/turan26b.pdf	scored
+4511	turan26c	4	4	3	4	76		新增量：蒸馏流模型时用教师边际速度约束提升空间的微分动力学，不能直接以条件速度替代，否则多出依赖编码器的方差项。；复用：对应训练/推理选择可独立采用；可用性受卡内假设/成本限制；独特性据最近方法差异，未发现本库同题记录。PDF 3,4,5,7,8,9。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/turan26c/turan26c.pdf	scored
 4512	turbal26a							待原文复核评分	pending
 4513	turkoglu26a							待原文复核评分	pending
 4514	turkoglu26b							待原文复核评分	pending
