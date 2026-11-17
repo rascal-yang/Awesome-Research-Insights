@@ -33,6 +33,7 @@
 - [以分块偏置校准抑制压缩误差累积](../conferences/icml-2026/cards/1701-1800.md#huang26q-modules) · Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition
 - [让超网络按文本调节前馈门控斜率](../conferences/icml-2026/cards/1801-1900.md#ji26i-modules) · Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM
 - [用反馈锁定 MoE 动态路由的平均预算](../conferences/icml-2026/cards/1901-2000.md#jin26f-modules) · DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training
+- [用共同激活记录抑制 MoE 专家组合冗余](../conferences/icml-2026/cards/2001-2100.md#kang26q-modules) · Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE
 
 <a id="by-computer-vision"></a>
 
@@ -56,6 +57,7 @@
 - [把修正点击变成连通误差区](../conferences/icml-2026/cards/1601-1700.md#hu26au-modules) · Interactive Segmentation with Elaborate Focus Prior
 - [用逐元素门控降低脉冲注意力通信](../conferences/icml-2026/cards/1901-2000.md#jiang26an-modules) · Efficient Transformer Attention for SNNs via Hadamard Simplification
 - [从局部频谱提取风格并路由检测适配词元](../conferences/icml-2026/cards/1901-2000.md#jiang26ay-modules) · SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation
+- [用上下文偏移决定状态空间模型读哪里](../conferences/icml-2026/cards/2001-2100.md#ke26d-modules) · Deformba: Vision State Space Model with Adaptive State Fusion
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>

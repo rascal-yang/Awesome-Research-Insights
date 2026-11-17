@@ -38,6 +38,8 @@
 - <a id="ilin26a-architecture"></a>[DiScoFormer: Plug-In Density and Score Estimation with Transformers](../conferences/icml-2026/cards/1801-1900.md#paper-ilin26a)
 - <a id="islam26a-architecture"></a>[Platonic Transformers: A Solid Choice For Equivariance](../conferences/icml-2026/cards/1801-1900.md#paper-islam26a)
 - <a id="jiang26e-architecture"></a>[PRISM: Parallel Residual Iterative Sequence Model](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26e)
+- <a id="kano26a-architecture"></a>[Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects](../conferences/icml-2026/cards/2001-2100.md#paper-kano26a)
+- <a id="karjol26a-architecture"></a>[Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries](../conferences/icml-2026/cards/2001-2100.md#paper-karjol26a)
 
 <a id="by-modules"></a>
 
@@ -94,6 +96,7 @@
 - <a id="gaukstad26a-loss-functions"></a>[Learning Coherent Representations: A Topological Approach to Interpretability](../conferences/icml-2026/cards/1201-1300.md#paper-gaukstad26a)
 - <a id="havens26a-loss-functions"></a>[Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](../conferences/icml-2026/cards/1401-1500.md#paper-havens26a)
 - <a id="hwang26d-loss-functions"></a>[Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26d)
+- <a id="kavak26a-loss-functions"></a>[DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation](../conferences/icml-2026/cards/2001-2100.md#paper-kavak26a)
 
 <a id="by-optimization"></a>
 
@@ -233,6 +236,8 @@
 - <a id="jiachen26a-optimization"></a>[SC-FAGC: Size Constrained Fast Anchor Graph Clustering](../conferences/icml-2026/cards/1901-2000.md#paper-jiachen26a)
 - <a id="jiang26w-optimization"></a>[Private Learning with Public Feature Conditioning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26w)
 - <a id="jing26c-optimization"></a>[Local Constrained Bayesian Optimization](../conferences/icml-2026/cards/1901-2000.md#paper-jing26c)
+- <a id="kansal26a-optimization"></a>[Multimarginal flow matching with optimal transport potentials](../conferences/icml-2026/cards/2001-2100.md#paper-kansal26a)
+- <a id="karoni26a-optimization"></a>[Adaptive Momentum and Nonlinear Damping for Neural Network Training](../conferences/icml-2026/cards/2001-2100.md#paper-karoni26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -286,6 +291,7 @@
 - <a id="janetzky26a-training-strategies"></a>[Continual Learning of Domain-Invariant Representations](../conferences/icml-2026/cards/1801-1900.md#paper-janetzky26a)
 - <a id="jiang26c-training-strategies"></a>[MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26c)
 - <a id="jung26f-training-strategies"></a>[SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](../conferences/icml-2026/cards/2001-2100.md#paper-jung26f)
+- <a id="keegan26a-training-strategies"></a>[Manifold-Aware Perturbations for Constrained Generative Modeling](../conferences/icml-2026/cards/2001-2100.md#paper-keegan26a)
 
 <a id="by-data-strategies"></a>
 
@@ -391,6 +397,11 @@
 - <a id="jahn26a-evaluation"></a>[Evaluating Bivariate Causal Statements Based on Mutual Compatibility](../conferences/icml-2026/cards/1801-1900.md#paper-jahn26a)
 - <a id="jia26b-evaluation"></a>[Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning](../conferences/icml-2026/cards/1801-1900.md#paper-jia26b)
 - <a id="jung26d-evaluation"></a>[Nonparametric Distribution Regression Re-calibration](../conferences/icml-2026/cards/2001-2100.md#paper-jung26d)
+- <a id="kang26m-evaluation"></a>[Instance-Level Costs for Nuanced Classifier Evaluation](../conferences/icml-2026/cards/2001-2100.md#paper-kang26m)
+- <a id="kartashev26a-evaluation"></a>[Unveiling the Role of Data Uncertainty in Tabular Deep Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kartashev26a)
+- <a id="kaulen26a-evaluation"></a>[Rethinking Evaluation Paradigms in IBP-based Certified Training](../conferences/icml-2026/cards/2001-2100.md#paper-kaulen26a)
+- <a id="kechris26a-evaluation"></a>[Time series saliency maps: Explaining models across multiple domains](../conferences/icml-2026/cards/2001-2100.md#paper-kechris26a)
+- <a id="keenan26a-evaluation"></a>[Mechanistic Anomaly Detection via Functional Attribution](../conferences/icml-2026/cards/2001-2100.md#paper-keenan26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -610,4 +621,7 @@
 - <a id="jordan26a-theory-statistics"></a>[Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation](../conferences/icml-2026/cards/2001-2100.md#paper-jordan26a)
 - <a id="jung26b-theory-statistics"></a>[Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures](../conferences/icml-2026/cards/2001-2100.md#paper-jung26b)
 - <a id="kadi26a-theory-statistics"></a>[Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization](../conferences/icml-2026/cards/2001-2100.md#paper-kadi26a)
+- <a id="kang26h-theory-statistics"></a>[Transformers Can Learn Posterior Predictive Distributions In-Context](../conferences/icml-2026/cards/2001-2100.md#paper-kang26h)
+- <a id="karhadkar26a-theory-statistics"></a>[Harmful Overfitting in Sobolev Spaces](../conferences/icml-2026/cards/2001-2100.md#paper-karhadkar26a)
+- <a id="kato26a-theory-statistics"></a>[ScoreMatchingRiesz: Score Matching for Debiased Machine Learning and Policy Path Estimation](../conferences/icml-2026/cards/2001-2100.md#paper-kato26a)
 <!-- classification:end -->

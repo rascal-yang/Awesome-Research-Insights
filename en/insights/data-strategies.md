@@ -39,6 +39,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis](../../conferences/icml-2026/cards/1901-2000.md#jiao26f-data-strategies) · 中文
 - [Reasoning Quality Emerges Early: Data Curation for Reasoning Models](../../conferences/icml-2026/cards/1901-2000.md#jin26o-data-strategies) · 中文
 - [The Signal is in the Steps: Local Scoring for Reasoning Data Selection](../../conferences/icml-2026/cards/2001-2100.md#just26a-data-strategies) · 中文
+- [Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment](../../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -53,6 +54,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](../../conferences/icml-2026/cards/1101-1200.md#gan26d-data-strategies) · 中文
 - [Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery](../../conferences/icml-2026/cards/1601-1700.md#hou26a-data-strategies) · 中文
 - [VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection](../../conferences/icml-2026/cards/1601-1700.md#hu26bk-data-strategies) · 中文
+- [Geometrically Constrained Outlier Synthesis](../../conferences/icml-2026/cards/2001-2100.md#karzanov26a-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -105,6 +107,7 @@ Data selection, annotation, augmentation, and sampling.
 - [RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback](../../conferences/icml-2026/cards/1501-1600.md#he26ap-data-strategies) · 中文
 - [From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping](../../conferences/icml-2026/cards/1501-1600.md#he26au-data-strategies) · 中文
 - [TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution](../../conferences/icml-2026/cards/1901-2000.md#jiang26p-data-strategies) · 中文
+- [IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency](../../conferences/icml-2026/cards/2001-2100.md#ke26e-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

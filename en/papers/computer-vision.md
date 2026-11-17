@@ -60,6 +60,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hu26au-modules"></a>[Interactive Segmentation with Elaborate Focus Prior](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26au)
 - <a id="jiang26an-modules"></a>[Efficient Transformer Attention for SNNs via Hadamard Simplification](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26an)
 - <a id="jiang26ay-modules"></a>[SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ay)
+- <a id="ke26d-modules"></a>[Deformba: Vision State Space Model with Adaptive State Fusion](../../conferences/icml-2026/cards/2001-2100.md#paper-ke26d)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -91,6 +92,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hwang26h-optimization"></a>[Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26h)
 - <a id="jiang26i-optimization"></a>[Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26i)
 - <a id="kang26g-optimization"></a>[A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26g)
+- <a id="kang26s-optimization"></a>[Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26s)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -143,6 +145,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="gan26d-data-strategies"></a>[Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](../../conferences/icml-2026/cards/1101-1200.md#paper-gan26d)
 - <a id="hou26a-data-strategies"></a>[Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26a)
 - <a id="hu26bk-data-strategies"></a>[VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bk)
+- <a id="karzanov26a-data-strategies"></a>[Geometrically Constrained Outlier Synthesis](../../conferences/icml-2026/cards/2001-2100.md#paper-karzanov26a)
 
 <a id="by-inference"></a>
 
@@ -230,6 +233,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="jiang26m-representation-learning"></a>[Olaf-World: Orienting Latent Actions for Video World Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26m)
 - <a id="jin26b-representation-learning"></a>[WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26b)
 - <a id="jung26a-representation-learning"></a>[Learning Context-Conditioned Predicate Semantics via Prototype Feedback](../../conferences/icml-2026/cards/2001-2100.md#paper-jung26a)
+- <a id="kang26o-representation-learning"></a>[Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26o)
 
 <a id="by-evaluation"></a>
 
@@ -258,6 +262,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="jeong26b-evaluation"></a>[When Do Diffusion Models Learn to Generate Multiple Objects?](../../conferences/icml-2026/cards/1801-1900.md#paper-jeong26b)
 - <a id="jia26k-evaluation"></a>[Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26k)
 - <a id="joseph26a-evaluation"></a>[Interpreting Physics in Video World Models](../../conferences/icml-2026/cards/2001-2100.md#paper-joseph26a)
+- <a id="kapl26b-evaluation"></a>[Are Object-Centric Representations Better at Compositional Generalization?](../../conferences/icml-2026/cards/2001-2100.md#paper-kapl26b)
 
 <a id="by-theory-statistics"></a>
 

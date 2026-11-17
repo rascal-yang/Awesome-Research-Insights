@@ -325,6 +325,9 @@
 - [用可行余量调节约束势博弈步长](../conferences/icml-2026/cards/2001-2100.md#jordan26a-theory-statistics) · Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation
 - [用近线性的距离界转移高斯混合的风险保证](../conferences/icml-2026/cards/2001-2100.md#jung26b-theory-statistics) · Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures
 - [用含噪排序在内在子空间寻找下降方向](../conferences/icml-2026/cards/2001-2100.md#kadi26a-theory-statistics) · Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization
+- [以注意力迭代计算后验矩，再映射到分箱概率](../conferences/icml-2026/cards/2001-2100.md#kang26h-theory-statistics) · Transformers Can Learn Posterior Predictive Distributions In-Context
+- [用噪声点周围的误差体积识别有害插值](../conferences/icml-2026/cards/2001-2100.md#karhadkar26a-theory-statistics) · Harmful Overfitting in Sobolev Spaces
+- [用分数桥恢复有限政策变化的效应](../conferences/icml-2026/cards/2001-2100.md#kato26a-theory-statistics) · ScoreMatchingRiesz: Score Matching for Debiased Machine Learning and Policy Path Estimation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -343,6 +346,7 @@
 - [谱方向解释图嵌入的初期优化](../conferences/icml-2026/cards/1401-1500.md#harker26a-theory-statistics) · On the Optimization Trajectory of DeepWalk Embeddings
 - [用图结构约束压缩多树搜索状态](../conferences/icml-2026/cards/1401-1500.md#harviainen26a-theory-statistics) · Exact and Approximate Algorithms for Polytree Learning
 - [将三角跨割稀疏化约化为量子枚举和采样](../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · Quantum Algorithms for Triangle Cut Sparsification
+- [同时监测深层图网络的前后向过平滑](../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?
 
 <a id="by-scientific-ml"></a>
 

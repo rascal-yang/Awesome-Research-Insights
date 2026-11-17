@@ -142,6 +142,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Self-Augmenting Retrieval for Diffusion Language Models](../../conferences/icml-2026/cards/2001-2100.md#junger26a-inference) · 中文
 - [Fast Byte Latent Transformer](../../conferences/icml-2026/cards/2001-2100.md#kallini26a-inference) · 中文
 - [ACON: Optimizing Context Compression for Long-horizon LLM Agents](../../conferences/icml-2026/cards/2001-2100.md#kang26b-inference) · 中文
+- [ThunderAgent: A Fast, Simple, and Program-Aware Agentic Inference System](../../conferences/icml-2026/cards/2001-2100.md#kang26j-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -250,6 +251,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](../../conferences/icml-2026/cards/1801-1900.md#jayasinghe26a-inference) · 中文
 - [Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](../../conferences/icml-2026/cards/1801-1900.md#ji26o-inference) · 中文
 - [DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+](../../conferences/icml-2026/cards/1901-2000.md#jiang26av-inference) · 中文
+- [SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies](../../conferences/icml-2026/cards/2001-2100.md#kapoor26a-inference) · 中文
 
 <a id="by-multimodal"></a>
 

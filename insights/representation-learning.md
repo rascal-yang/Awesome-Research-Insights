@@ -49,6 +49,7 @@
 - [用跨帧语义变化为潜动作建立共同坐标](../conferences/icml-2026/cards/1901-2000.md#jiang26m-representation-learning) · Olaf-World: Orienting Latent Actions for Video World Modeling
 - [用局部距离约束组织对象身份和位置](../conferences/icml-2026/cards/1901-2000.md#jin26b-representation-learning) · WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views
 - [让一张图里的关系候选反馈修正谓词原型](../conferences/icml-2026/cards/2001-2100.md#jung26a-representation-learning) · Learning Context-Conditioned Predicate Semantics via Prototype Feedback
+- [分离伪造痕迹与语义，再按证据不确定性融合](../conferences/icml-2026/cards/2001-2100.md#kang26o-representation-learning) · Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection
 
 <a id="by-nlp"></a>
 
@@ -59,6 +60,7 @@
 - [对比学习的层级检索索引](../conferences/icml-2026/cards/1401-1500.md#gupta26c-representation-learning) · Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency
 - [用互补时频掩码构造低开销音频正样本](../conferences/icml-2026/cards/1701-1800.md#huang26bf-representation-learning) · AudioMosaic: Contrastive Masked Audio Representation Learning
 - [用带标签的稀疏嵌入作为文档分析坐标](../conferences/icml-2026/cards/1901-2000.md#jiang26ar-representation-learning) · Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit
+- [从共现核的平移对称预估嵌入几何](../conferences/icml-2026/cards/2001-2100.md#karkada26a-representation-learning) · Symmetry in language statistics shapes the geometry of model representations
 
 <a id="by-reinforcement-learning"></a>
 
@@ -97,6 +99,7 @@
 - [用软多实例聚合实现词元与区域弱对齐](../conferences/icml-2026/cards/1601-1700.md#hu26a-representation-learning) · ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding
 - [用文字缩小被遮挡图块的预测范围](../conferences/icml-2026/cards/1701-1800.md#huang26z-representation-learning) · Text-Conditional JEPA for Learning Semantically Rich Visual Representations
 - [在每段推理前插入视觉对齐状态](../conferences/icml-2026/cards/1801-1900.md#jeon26c-representation-learning) · Vision-aligned Latent Reasoning for Multi-modal Large Language Model
+- [用双曲文本锚点训练无文本输入的红外可见光融合](../conferences/icml-2026/cards/2001-2100.md#kang26k-representation-learning) · Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space
 
 <a id="by-ml-foundations"></a>
 

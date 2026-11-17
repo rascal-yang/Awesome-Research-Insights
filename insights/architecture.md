@@ -37,6 +37,8 @@
 - [让离散发词策略读取连续演化状态](../conferences/icml-2026/cards/1801-1900.md#jia26h-architecture) · Text Generation as Continuous Latent Dynamics via Reinforcement Learning
 - [解码前让行为、隐状态和记忆迭代对齐](../conferences/icml-2026/cards/1901-2000.md#jiang26aw-architecture) · BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency
 - [将协作步骤做成可检索的潜通信原语](../conferences/icml-2026/cards/1901-2000.md#jin26c-architecture) · Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems
+- [循环保留了迭代结构的中间层](../conferences/icml-2026/cards/2001-2100.md#kapl26a-architecture) · From Growing to Looping: A Unified View of Iterative Computation in LLMs
+- [共享键和值以减少自回归缓存](../conferences/icml-2026/cards/2001-2100.md#kayyam26a-architecture) · Do Transformers Need Three Projections? Systematic Study of QKV Variants
 
 <a id="by-computer-vision"></a>
 
@@ -75,6 +77,7 @@
 - [纯因果 Transformer 的音频分词](../conferences/icml-2026/cards/1301-1400.md#gong26c-architecture) · Scaling Transformers for End-to-End Discrete Audio Tokenization
 - [去噪网络与解掩顺序共同训练](../conferences/icml-2026/cards/1501-1600.md#hong26f-architecture) · Unifying Masked Diffusion Models with Various Generation Orders and Beyond
 - [按符号建共享流使改名可交换](../conferences/icml-2026/cards/1801-1900.md#isik26a-architecture) · Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning
+- [用声学原型和快慢反馈落实复合语音指令](../conferences/icml-2026/cards/2001-2100.md#kang26p-architecture) · AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech
 
 <a id="by-reinforcement-learning"></a>
 
@@ -142,6 +145,8 @@
 - [训练注意力密度估计器来复用跨分布核行为](../conferences/icml-2026/cards/1801-1900.md#ilin26a-architecture) · DiScoFormer: Plug-In Density and Score Estimation with Transformers
 - [把几何对称落实为注意力参考系共享](../conferences/icml-2026/cards/1801-1900.md#islam26a-architecture) · Platonic Transformers: A Solid Choice For Equivariance
 - [用并行代理写入近似迭代状态更新](../conferences/icml-2026/cards/1901-2000.md#jiang26e-architecture) · PRISM: Parallel Residual Iterative Sequence Model
+- [让软斜树承担因果效应网络的特征路由](../conferences/icml-2026/cards/2001-2100.md#kano26a-architecture) · Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects
+- [先限定对称族再学习可解释生成元](../conferences/icml-2026/cards/2001-2100.md#karjol26a-architecture) · Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries
 
 <a id="by-graph-and-recommendation"></a>
 

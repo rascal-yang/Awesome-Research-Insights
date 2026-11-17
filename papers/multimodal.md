@@ -114,6 +114,7 @@
 - <a id="jiang26s-training-strategies"></a>[KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26s)
 - <a id="jiang26ag-training-strategies"></a>[OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ag)
 - <a id="kang26c-training-strategies"></a>[Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26c)
+- <a id="karim26a-training-strategies"></a>[FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization](../conferences/icml-2026/cards/2001-2100.md#paper-karim26a)
 
 <a id="by-data-strategies"></a>
 
@@ -135,6 +136,7 @@
 - <a id="he26ap-data-strategies"></a>[RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback](../conferences/icml-2026/cards/1501-1600.md#paper-he26ap)
 - <a id="he26au-data-strategies"></a>[From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping](../conferences/icml-2026/cards/1501-1600.md#paper-he26au)
 - <a id="jiang26p-data-strategies"></a>[TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26p)
+- <a id="ke26e-data-strategies"></a>[IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency](../conferences/icml-2026/cards/2001-2100.md#paper-ke26e)
 
 <a id="by-inference"></a>
 
@@ -200,6 +202,7 @@
 - <a id="hu26a-representation-learning"></a>[ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding](../conferences/icml-2026/cards/1601-1700.md#paper-hu26a)
 - <a id="huang26z-representation-learning"></a>[Text-Conditional JEPA for Learning Semantically Rich Visual Representations](../conferences/icml-2026/cards/1701-1800.md#paper-huang26z)
 - <a id="jeon26c-representation-learning"></a>[Vision-aligned Latent Reasoning for Multi-modal Large Language Model](../conferences/icml-2026/cards/1801-1900.md#paper-jeon26c)
+- <a id="kang26k-representation-learning"></a>[Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](../conferences/icml-2026/cards/2001-2100.md#paper-kang26k)
 
 <a id="by-evaluation"></a>
 

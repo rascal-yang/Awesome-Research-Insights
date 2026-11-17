@@ -49,6 +49,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Olaf-World: Orienting Latent Actions for Video World Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiang26m-representation-learning) · 中文
 - [WorldComp2D: Spatio-semantic Representations of Object Identity and Location from Local Views](../../conferences/icml-2026/cards/1901-2000.md#jin26b-representation-learning) · 中文
 - [Learning Context-Conditioned Predicate Semantics via Prototype Feedback](../../conferences/icml-2026/cards/2001-2100.md#jung26a-representation-learning) · 中文
+- [Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection](../../conferences/icml-2026/cards/2001-2100.md#kang26o-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -59,6 +60,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](../../conferences/icml-2026/cards/1401-1500.md#gupta26c-representation-learning) · 中文
 - [AudioMosaic: Contrastive Masked Audio Representation Learning](../../conferences/icml-2026/cards/1701-1800.md#huang26bf-representation-learning) · 中文
 - [Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](../../conferences/icml-2026/cards/1901-2000.md#jiang26ar-representation-learning) · 中文
+- [Symmetry in language statistics shapes the geometry of model representations](../../conferences/icml-2026/cards/2001-2100.md#karkada26a-representation-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -97,6 +99,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding](../../conferences/icml-2026/cards/1601-1700.md#hu26a-representation-learning) · 中文
 - [Text-Conditional JEPA for Learning Semantically Rich Visual Representations](../../conferences/icml-2026/cards/1701-1800.md#huang26z-representation-learning) · 中文
 - [Vision-aligned Latent Reasoning for Multi-modal Large Language Model](../../conferences/icml-2026/cards/1801-1900.md#jeon26c-representation-learning) · 中文
+- [Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](../../conferences/icml-2026/cards/2001-2100.md#kang26k-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

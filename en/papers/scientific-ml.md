@@ -108,6 +108,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="jeon26a-optimization"></a>[Decision-focused Sparse Tangent Portfolio Optimization](../../conferences/icml-2026/cards/1801-1900.md#paper-jeon26a)
 - <a id="jeon26d-optimization"></a>[Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](../../conferences/icml-2026/cards/1801-1900.md#paper-jeon26d)
 - <a id="jing26a-optimization"></a>[SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26a)
+- <a id="kang26n-optimization"></a>[Credit Assignment via Neural Manifold Noise Correlation](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26n)
 
 <a id="by-reinforcement-learning"></a>
 

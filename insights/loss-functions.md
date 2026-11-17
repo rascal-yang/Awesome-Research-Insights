@@ -107,6 +107,7 @@
 - [用拓扑一致性约束特征激活](../conferences/icml-2026/cards/1201-1300.md#gaukstad26a-loss-functions) · Learning Coherent Representations: A Topological Approach to Interpretability
 - [用能量构造去噪漂移监督并复用探索轨迹](../conferences/icml-2026/cards/1401-1500.md#havens26a-loss-functions) · Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes
 - [用任务对称性约束加速迟发泛化](../conferences/icml-2026/cards/1701-1800.md#hwang26d-loss-functions) · Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks
+- [在目标条件下惩罚预测与偏差的依赖](../conferences/icml-2026/cards/2001-2100.md#kavak26a-loss-functions) · DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation
 
 <a id="by-graph-and-recommendation"></a>
 

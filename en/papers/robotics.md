@@ -111,6 +111,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="jayasinghe26a-inference"></a>[Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](../../conferences/icml-2026/cards/1801-1900.md#paper-jayasinghe26a)
 - <a id="ji26o-inference"></a>[Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26o)
 - <a id="jiang26av-inference"></a>[DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26av)
+- <a id="kapoor26a-inference"></a>[SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies](../../conferences/icml-2026/cards/2001-2100.md#paper-kapoor26a)
 
 <a id="by-representation-learning"></a>
 
@@ -132,6 +133,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab)
 - <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26u)
 - <a id="huang26cm-evaluation"></a>[TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cm)
+- <a id="kang26i-evaluation"></a>[Moving Out: Physically-grounded Human-AI Collaboration](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26i)
 
 <a id="by-theory-statistics"></a>
 

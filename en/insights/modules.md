@@ -33,6 +33,7 @@ Reusable components and local changes to model inputs or connections.
 - [Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition](../../conferences/icml-2026/cards/1701-1800.md#huang26q-modules) · 中文
 - [Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM](../../conferences/icml-2026/cards/1801-1900.md#ji26i-modules) · 中文
 - [DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training](../../conferences/icml-2026/cards/1901-2000.md#jin26f-modules) · 中文
+- [Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE](../../conferences/icml-2026/cards/2001-2100.md#kang26q-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -56,6 +57,7 @@ Reusable components and local changes to model inputs or connections.
 - [Interactive Segmentation with Elaborate Focus Prior](../../conferences/icml-2026/cards/1601-1700.md#hu26au-modules) · 中文
 - [Efficient Transformer Attention for SNNs via Hadamard Simplification](../../conferences/icml-2026/cards/1901-2000.md#jiang26an-modules) · 中文
 - [SCoA: Revisiting Domain Generalized Object Detection with Style-Conditioned Adaptation](../../conferences/icml-2026/cards/1901-2000.md#jiang26ay-modules) · 中文
+- [Deformba: Vision State Space Model with Adaptive State Fusion](../../conferences/icml-2026/cards/2001-2100.md#ke26d-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>

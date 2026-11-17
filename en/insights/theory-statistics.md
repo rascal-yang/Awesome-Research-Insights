@@ -325,6 +325,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation](../../conferences/icml-2026/cards/2001-2100.md#jordan26a-theory-statistics) · 中文
 - [Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures](../../conferences/icml-2026/cards/2001-2100.md#jung26b-theory-statistics) · 中文
 - [Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization](../../conferences/icml-2026/cards/2001-2100.md#kadi26a-theory-statistics) · 中文
+- [Transformers Can Learn Posterior Predictive Distributions In-Context](../../conferences/icml-2026/cards/2001-2100.md#kang26h-theory-statistics) · 中文
+- [Harmful Overfitting in Sobolev Spaces](../../conferences/icml-2026/cards/2001-2100.md#karhadkar26a-theory-statistics) · 中文
+- [ScoreMatchingRiesz: Score Matching for Debiased Machine Learning and Policy Path Estimation](../../conferences/icml-2026/cards/2001-2100.md#kato26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -343,6 +346,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On the Optimization Trajectory of DeepWalk Embeddings](../../conferences/icml-2026/cards/1401-1500.md#harker26a-theory-statistics) · 中文
 - [Exact and Approximate Algorithms for Polytree Learning](../../conferences/icml-2026/cards/1401-1500.md#harviainen26a-theory-statistics) · 中文
 - [Quantum Algorithms for Triangle Cut Sparsification](../../conferences/icml-2026/cards/1901-2000.md#jiang26aj-theory-statistics) · 中文
+- [Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](../../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -52,6 +52,9 @@
 - [用历次合并成败学习下一组权重](../conferences/icml-2026/cards/1901-2000.md#jiang26az-optimization) · EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization
 - [给低频同步的低秩更新保留全秩方向](../conferences/icml-2026/cards/2001-2100.md#jovanovic26a-optimization) · LoRDO: Distributed Low-Rank Optimization with Infrequent Communication
 - [将自适应优化坐标旋向 Hessian 主轴](../conferences/icml-2026/cards/2001-2100.md#jung26h-optimization) · Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation
+- [搜索剪枝规则时按层的异常程度分配稀疏度](../conferences/icml-2026/cards/2001-2100.md#kang26l-optimization) · Automatic Pruning Discovery for Large Language Models
+- [让模型提议可由外部程序验证的几何引理](../conferences/icml-2026/cards/2001-2100.md#ke26a-optimization) · Towards Solving the Gilbert-Pollak Conjecture via Large Language Models
+- [让求解器和生成器在程序空间共同进化](../conferences/icml-2026/cards/2001-2100.md#ke26b-optimization) · Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery
 
 <a id="by-computer-vision"></a>
 
@@ -68,6 +71,7 @@
 - [把奖励梯度投影成保持噪声统计的方向](../conferences/icml-2026/cards/1701-1800.md#hwang26h-optimization) · Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation
 - [在共享参数的单流生成器解耦擦除更新](../conferences/icml-2026/cards/1901-2000.md#jiang26i-optimization) · Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers
 - [按时空梯度变化调整发放阈值附近的替代梯度](../conferences/icml-2026/cards/2001-2100.md#kang26g-optimization) · A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks
+- [用场景交互点约束单目群体重建尺度](../conferences/icml-2026/cards/2001-2100.md#kang26s-optimization) · Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction
 
 <a id="by-nlp"></a>
 
@@ -235,6 +239,8 @@
 - [在锚图传输子问题中约束簇大小](../conferences/icml-2026/cards/1901-2000.md#jiachen26a-optimization) · SC-FAGC: Size Constrained Fast Anchor Graph Clustering
 - [用公开特征谱重参数化隐私回归](../conferences/icml-2026/cards/1901-2000.md#jiang26w-optimization) · Private Learning with Public Feature Conditioning
 - [在局部代理下降之间插入约束探索](../conferences/icml-2026/cards/1901-2000.md#jing26c-optimization) · Local Constrained Bayesian Optimization
+- [把中间边际变成流动轨迹的局部力](../conferences/icml-2026/cards/2001-2100.md#kansal26a-optimization) · Multimarginal flow matching with optimal transport potentials
+- [用动能决定各参数的阻尼强度](../conferences/icml-2026/cards/2001-2100.md#karoni26a-optimization) · Adaptive Momentum and Nonlinear Damping for Neural Network Training
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -253,6 +259,8 @@
 - [用扩散轨迹不稳定性寻找集合覆盖修复区](../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion
 - [用树流动态规划分配定额标签预算](../conferences/icml-2026/cards/1901-2000.md#john26a-optimization) · An Approximation Algorithm for Graph Label Selection
 - [动态图只在查询时抽取聚类核心集](../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · Fully Dynamic Coreset Spectral Clustering
+- [在每轮 PageRank 扩散后投影公平约束](../conferences/icml-2026/cards/2001-2100.md#kariotakis26a-optimization) · FairRARI: A Plug and Play Framework for Fairness-Aware PageRank
+- [经粗化邻域限制新增节点的结构学习](../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s
 
 <a id="by-scientific-ml"></a>
 
@@ -274,4 +282,5 @@
 - [让资产筛选与 Sharpe 目标贯通梯度](../conferences/icml-2026/cards/1801-1900.md#jeon26a-optimization) · Decision-focused Sparse Tangent Portfolio Optimization
 - [用廉价法向回拉代替逐步求可行投影](../conferences/icml-2026/cards/1801-1900.md#jeon26d-optimization) · Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing
 - [把状态切换写成可组合的结构约束](../conferences/icml-2026/cards/1901-2000.md#jing26a-optimization) · SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins
+- [沿神经活动主方向施加信用分配噪声](../conferences/icml-2026/cards/2001-2100.md#kang26n-optimization) · Credit Assignment via Neural Manifold Noise Correlation
 <!-- classification:end -->

@@ -142,6 +142,7 @@
 - [用扩散答案草稿提前检索桥接实体](../conferences/icml-2026/cards/2001-2100.md#junger26a-inference) · Self-Augmenting Retrieval for Diffusion Language Models
 - [在字节小块内并行猜测并按需验证](../conferences/icml-2026/cards/2001-2100.md#kallini26a-inference) · Fast Byte Latent Transformer
 - [用代理失败轨迹反推上下文保留规则](../conferences/icml-2026/cards/2001-2100.md#kang26b-inference) · ACON: Optimizing Context Compression for Long-horizon LLM Agents
+- [按完整代理流程调度缓存和工具环境](../conferences/icml-2026/cards/2001-2100.md#kang26j-inference) · ThunderAgent: A Fast, Simple, and Program-Aware Agentic Inference System
 
 <a id="by-computer-vision"></a>
 
@@ -250,6 +251,7 @@
 - [将部署故障校正放进受限的局部残差](../conferences/icml-2026/cards/1801-1900.md#jayasinghe26a-inference) · Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation
 - [按当前观察预测整条去噪剪枝图](../conferences/icml-2026/cards/1801-1900.md#ji26o-inference) · Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning
 - [逐级缩小符号规划范围并验证关键规则](../conferences/icml-2026/cards/1901-2000.md#jiang26av-inference) · DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+
+- [在机器人动作采样前计入时序约束](../conferences/icml-2026/cards/2001-2100.md#kapoor26a-inference) · SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies
 
 <a id="by-multimodal"></a>
 

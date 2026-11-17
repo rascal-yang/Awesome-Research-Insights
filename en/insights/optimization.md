@@ -52,6 +52,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26az-optimization) · 中文
 - [LoRDO: Distributed Low-Rank Optimization with Infrequent Communication](../../conferences/icml-2026/cards/2001-2100.md#jovanovic26a-optimization) · 中文
 - [Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](../../conferences/icml-2026/cards/2001-2100.md#jung26h-optimization) · 中文
+- [Automatic Pruning Discovery for Large Language Models](../../conferences/icml-2026/cards/2001-2100.md#kang26l-optimization) · 中文
+- [Towards Solving the Gilbert-Pollak Conjecture via Large Language Models](../../conferences/icml-2026/cards/2001-2100.md#ke26a-optimization) · 中文
+- [Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery](../../conferences/icml-2026/cards/2001-2100.md#ke26b-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -68,6 +71,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation](../../conferences/icml-2026/cards/1701-1800.md#hwang26h-optimization) · 中文
 - [Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](../../conferences/icml-2026/cards/1901-2000.md#jiang26i-optimization) · 中文
 - [A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks](../../conferences/icml-2026/cards/2001-2100.md#kang26g-optimization) · 中文
+- [Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction](../../conferences/icml-2026/cards/2001-2100.md#kang26s-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -235,6 +239,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SC-FAGC: Size Constrained Fast Anchor Graph Clustering](../../conferences/icml-2026/cards/1901-2000.md#jiachen26a-optimization) · 中文
 - [Private Learning with Public Feature Conditioning](../../conferences/icml-2026/cards/1901-2000.md#jiang26w-optimization) · 中文
 - [Local Constrained Bayesian Optimization](../../conferences/icml-2026/cards/1901-2000.md#jing26c-optimization) · 中文
+- [Multimarginal flow matching with optimal transport potentials](../../conferences/icml-2026/cards/2001-2100.md#kansal26a-optimization) · 中文
+- [Adaptive Momentum and Nonlinear Damping for Neural Network Training](../../conferences/icml-2026/cards/2001-2100.md#karoni26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -253,6 +259,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](../../conferences/icml-2026/cards/1801-1900.md#jaziri26a-optimization) · 中文
 - [An Approximation Algorithm for Graph Label Selection](../../conferences/icml-2026/cards/1901-2000.md#john26a-optimization) · 中文
 - [Fully Dynamic Coreset Spectral Clustering](../../conferences/icml-2026/cards/2001-2100.md#jourdan26a-optimization) · 中文
+- [FairRARI: A Plug and Play Framework for Fairness-Aware PageRank](../../conferences/icml-2026/cards/2001-2100.md#kariotakis26a-optimization) · 中文
+- [GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -274,4 +282,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Decision-focused Sparse Tangent Portfolio Optimization](../../conferences/icml-2026/cards/1801-1900.md#jeon26a-optimization) · 中文
 - [Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](../../conferences/icml-2026/cards/1801-1900.md#jeon26d-optimization) · 中文
 - [SwitchCraft: A Programmatic Framework for Designing State-Switching Proteins](../../conferences/icml-2026/cards/1901-2000.md#jing26a-optimization) · 中文
+- [Credit Assignment via Neural Manifold Noise Correlation](../../conferences/icml-2026/cards/2001-2100.md#kang26n-optimization) · 中文
 <!-- classification:end -->

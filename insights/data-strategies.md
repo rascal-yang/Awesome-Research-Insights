@@ -39,6 +39,7 @@
 - [先验证可解性再奖励合成题难度](../conferences/icml-2026/cards/1901-2000.md#jiao26f-data-strategies) · Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis
 - [用扰动模型的前缀损失挑长推理样本](../conferences/icml-2026/cards/1901-2000.md#jin26o-data-strategies) · Reasoning Quality Emerges Early: Data Curation for Reasoning Models
 - [按短前缀给每步推理单独打分](../conferences/icml-2026/cards/2001-2100.md#just26a-data-strategies) · The Signal is in the Steps: Local Scoring for Reasoning Data Selection
+- [按边际安全收益选择最小增强集](../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment
 
 <a id="by-computer-vision"></a>
 
@@ -53,6 +54,7 @@
 - [扩散数据蒸馏的集合耦合引导](../conferences/icml-2026/cards/1101-1200.md#gan26d-data-strategies) · Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation
 - [分别约束插入物的布局、照明和边界纹理](../conferences/icml-2026/cards/1601-1700.md#hou26a-data-strategies) · Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery
 - [以细粒度隐私标注驱动频带适配](../conferences/icml-2026/cards/1601-1700.md#hu26bk-data-strategies) · VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection
+- [沿正常特征低方差方向造难负例](../conferences/icml-2026/cards/2001-2100.md#karzanov26a-data-strategies) · Geometrically Constrained Outlier Synthesis
 
 <a id="by-nlp"></a>
 
@@ -105,6 +107,7 @@
 - [从参考模型置信度自动构建视觉偏好对](../conferences/icml-2026/cards/1501-1600.md#he26ap-data-strategies) · RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback
 - [用遮罩模型生成无掩膜配音训练对](../conferences/icml-2026/cards/1501-1600.md#he26au-data-strategies) · From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping
 - [把可回放 GUI 探索组织成可复用前缀树](../conferences/icml-2026/cards/1901-2000.md#jiang26p-data-strategies) · TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution
+- [用身体部位定位为无障碍理解建立监督](../conferences/icml-2026/cards/2001-2100.md#ke26e-data-strategies) · IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency
 
 <a id="by-ml-foundations"></a>
 

@@ -37,6 +37,8 @@ Model-wide design and information flow.
 - [Text Generation as Continuous Latent Dynamics via Reinforcement Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26h-architecture) · 中文
 - [BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency](../../conferences/icml-2026/cards/1901-2000.md#jiang26aw-architecture) · 中文
 - [Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems](../../conferences/icml-2026/cards/1901-2000.md#jin26c-architecture) · 中文
+- [From Growing to Looping: A Unified View of Iterative Computation in LLMs](../../conferences/icml-2026/cards/2001-2100.md#kapl26a-architecture) · 中文
+- [Do Transformers Need Three Projections? Systematic Study of QKV Variants](../../conferences/icml-2026/cards/2001-2100.md#kayyam26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -75,6 +77,7 @@ Model-wide design and information flow.
 - [Scaling Transformers for End-to-End Discrete Audio Tokenization](../../conferences/icml-2026/cards/1301-1400.md#gong26c-architecture) · 中文
 - [Unifying Masked Diffusion Models with Various Generation Orders and Beyond](../../conferences/icml-2026/cards/1501-1600.md#hong26f-architecture) · 中文
 - [Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning](../../conferences/icml-2026/cards/1801-1900.md#isik26a-architecture) · 中文
+- [AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech](../../conferences/icml-2026/cards/2001-2100.md#kang26p-architecture) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -142,6 +145,8 @@ Model-wide design and information flow.
 - [DiScoFormer: Plug-In Density and Score Estimation with Transformers](../../conferences/icml-2026/cards/1801-1900.md#ilin26a-architecture) · 中文
 - [Platonic Transformers: A Solid Choice For Equivariance](../../conferences/icml-2026/cards/1801-1900.md#islam26a-architecture) · 中文
 - [PRISM: Parallel Residual Iterative Sequence Model](../../conferences/icml-2026/cards/1901-2000.md#jiang26e-architecture) · 中文
+- [Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects](../../conferences/icml-2026/cards/2001-2100.md#kano26a-architecture) · 中文
+- [Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries](../../conferences/icml-2026/cards/2001-2100.md#karjol26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

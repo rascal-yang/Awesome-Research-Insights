@@ -165,6 +165,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A New Framework for Cybersecurity Refusals in AI Agents](../../conferences/icml-2026/cards/1901-2000.md#jones26a-evaluation) · 中文
 - [When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents](../../conferences/icml-2026/cards/1901-2000.md#jones26b-evaluation) · 中文
 - [Step-Resolved Data Attribution for Looped Transformers](../../conferences/icml-2026/cards/2001-2100.md#kaissis26a-evaluation) · 中文
+- [Capacity without Access: Reinterpreting the Mid-Depth Spectral Plateau in LLMs](../../conferences/icml-2026/cards/2001-2100.md#kang26r-evaluation) · 中文
+- [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](../../conferences/icml-2026/cards/2001-2100.md#karvonen26a-evaluation) · 中文
+- [Rethinking Pretraining Data Detection for LLMs: From Local to Global](../../conferences/icml-2026/cards/2001-2100.md#ke26f-evaluation) · 中文
+- [Expanding the AI Evaluation Toolbox with Statistical Models](../../conferences/icml-2026/cards/2001-2100.md#keller26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -193,6 +197,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [When Do Diffusion Models Learn to Generate Multiple Objects?](../../conferences/icml-2026/cards/1801-1900.md#jeong26b-evaluation) · 中文
 - [Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance](../../conferences/icml-2026/cards/1801-1900.md#jia26k-evaluation) · 中文
 - [Interpreting Physics in Video World Models](../../conferences/icml-2026/cards/2001-2100.md#joseph26a-evaluation) · 中文
+- [Are Object-Centric Representations Better at Compositional Generalization?](../../conferences/icml-2026/cards/2001-2100.md#kapl26b-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -231,6 +236,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Demystifying Action Space Design for Robotic Manipulation Policies](../../conferences/icml-2026/cards/1101-1200.md#feng26ab-evaluation) · 中文
 - [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](../../conferences/icml-2026/cards/1101-1200.md#fu26u-evaluation) · 中文
 - [TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches](../../conferences/icml-2026/cards/1701-1800.md#huang26cm-evaluation) · 中文
+- [Moving Out: Physically-grounded Human-AI Collaboration](../../conferences/icml-2026/cards/2001-2100.md#kang26i-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -315,6 +321,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Evaluating Bivariate Causal Statements Based on Mutual Compatibility](../../conferences/icml-2026/cards/1801-1900.md#jahn26a-evaluation) · 中文
 - [Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26b-evaluation) · 中文
 - [Nonparametric Distribution Regression Re-calibration](../../conferences/icml-2026/cards/2001-2100.md#jung26d-evaluation) · 中文
+- [Instance-Level Costs for Nuanced Classifier Evaluation](../../conferences/icml-2026/cards/2001-2100.md#kang26m-evaluation) · 中文
+- [Unveiling the Role of Data Uncertainty in Tabular Deep Learning](../../conferences/icml-2026/cards/2001-2100.md#kartashev26a-evaluation) · 中文
+- [Rethinking Evaluation Paradigms in IBP-based Certified Training](../../conferences/icml-2026/cards/2001-2100.md#kaulen26a-evaluation) · 中文
+- [Time series saliency maps: Explaining models across multiple domains](../../conferences/icml-2026/cards/2001-2100.md#kechris26a-evaluation) · 中文
+- [Mechanistic Anomaly Detection via Functional Attribution](../../conferences/icml-2026/cards/2001-2100.md#keenan26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -17,6 +17,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="gong26c-architecture"></a>[Scaling Transformers for End-to-End Discrete Audio Tokenization](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26c)
 - <a id="hong26f-architecture"></a>[Unifying Masked Diffusion Models with Various Generation Orders and Beyond](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26f)
 - <a id="isik26a-architecture"></a>[Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-isik26a)
+- <a id="kang26p-architecture"></a>[AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26p)
 
 <a id="by-modules"></a>
 
@@ -84,6 +85,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="gupta26c-representation-learning"></a>[Hierarchical Retrieval at Scale: Bridging Interpretability and Efficiency](../../conferences/icml-2026/cards/1401-1500.md#paper-gupta26c)
 - <a id="huang26bf-representation-learning"></a>[AudioMosaic: Contrastive Masked Audio Representation Learning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bf)
 - <a id="jiang26ar-representation-learning"></a>[Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ar)
+- <a id="karkada26a-representation-learning"></a>[Symmetry in language statistics shapes the geometry of model representations](../../conferences/icml-2026/cards/2001-2100.md#paper-karkada26a)
 
 <a id="by-evaluation"></a>
 

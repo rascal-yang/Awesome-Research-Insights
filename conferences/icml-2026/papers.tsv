@@ -2031,50 +2031,50 @@ number	pmlr_id	title	paper_url	insight_status
 2030	kang26e	Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning	https://proceedings.mlr.press/v306/kang26e.html	written
 2031	kang26f	Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning	https://proceedings.mlr.press/v306/kang26f.html	written
 2032	kang26g	A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks	https://proceedings.mlr.press/v306/kang26g.html	written
-2033	kang26h	Transformers Can Learn Posterior Predictive Distributions In-Context	https://proceedings.mlr.press/v306/kang26h.html	pending
-2034	kang26i	Moving Out: Physically-grounded Human-AI Collaboration	https://proceedings.mlr.press/v306/kang26i.html	pending
-2035	kang26j	ThunderAgent: A Fast, Simple, and Program-Aware Agentic Inference System	https://proceedings.mlr.press/v306/kang26j.html	pending
-2036	kang26k	Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space	https://proceedings.mlr.press/v306/kang26k.html	pending
-2037	kang26l	Automatic Pruning Discovery for Large Language Models	https://proceedings.mlr.press/v306/kang26l.html	pending
-2038	kang26m	Instance-Level Costs for Nuanced Classifier Evaluation	https://proceedings.mlr.press/v306/kang26m.html	pending
-2039	kang26n	Credit Assignment via Neural Manifold Noise Correlation	https://proceedings.mlr.press/v306/kang26n.html	pending
-2040	kang26o	Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection	https://proceedings.mlr.press/v306/kang26o.html	pending
-2041	kang26p	AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech	https://proceedings.mlr.press/v306/kang26p.html	pending
-2042	kang26q	Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE	https://proceedings.mlr.press/v306/kang26q.html	pending
-2043	kang26r	Capacity without Access: Reinterpreting the Mid-Depth Spectral Plateau in LLMs	https://proceedings.mlr.press/v306/kang26r.html	pending
-2044	kang26s	Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction	https://proceedings.mlr.press/v306/kang26s.html	pending
-2045	kano26a	Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects	https://proceedings.mlr.press/v306/kano26a.html	pending
-2046	kansal26a	Multimarginal flow matching with optimal transport potentials	https://proceedings.mlr.press/v306/kansal26a.html	pending
-2047	kao26a	Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment	https://proceedings.mlr.press/v306/kao26a.html	pending
-2048	kapl26a	From Growing to Looping: A Unified View of Iterative Computation in LLMs	https://proceedings.mlr.press/v306/kapl26a.html	pending
-2049	kapl26b	Are Object-Centric Representations Better at Compositional Generalization?	https://proceedings.mlr.press/v306/kapl26b.html	pending
-2050	kapoor26a	SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies	https://proceedings.mlr.press/v306/kapoor26a.html	pending
-2051	kapusuzoglu26a	Critique-Guided Distillation for Robust Reasoning via Refinement	https://proceedings.mlr.press/v306/kapusuzoglu26a.html	pending
-2052	karhadkar26a	Harmful Overfitting in Sobolev Spaces	https://proceedings.mlr.press/v306/karhadkar26a.html	pending
-2053	karim26a	FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization	https://proceedings.mlr.press/v306/karim26a.html	pending
-2054	kariotakis26a	FairRARI: A Plug and Play Framework for Fairness-Aware PageRank	https://proceedings.mlr.press/v306/kariotakis26a.html	pending
-2055	karjol26a	Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries	https://proceedings.mlr.press/v306/karjol26a.html	pending
-2056	karkada26a	Symmetry in language statistics shapes the geometry of model representations	https://proceedings.mlr.press/v306/karkada26a.html	pending
-2057	karoni26a	Adaptive Momentum and Nonlinear Damping for Neural Network Training	https://proceedings.mlr.press/v306/karoni26a.html	pending
-2058	kartashev26a	Unveiling the Role of Data Uncertainty in Tabular Deep Learning	https://proceedings.mlr.press/v306/kartashev26a.html	pending
-2059	karvonen26a	Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers	https://proceedings.mlr.press/v306/karvonen26a.html	pending
-2060	karzanov26a	Geometrically Constrained Outlier Synthesis	https://proceedings.mlr.press/v306/karzanov26a.html	pending
-2061	kataria26a	GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s	https://proceedings.mlr.press/v306/kataria26a.html	pending
-2062	kato26a	ScoreMatchingRiesz: Score Matching for Debiased Machine Learning and Policy Path Estimation	https://proceedings.mlr.press/v306/kato26a.html	pending
-2063	kaulen26a	Rethinking Evaluation Paradigms in IBP-based Certified Training	https://proceedings.mlr.press/v306/kaulen26a.html	pending
-2064	kavak26a	DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation	https://proceedings.mlr.press/v306/kavak26a.html	pending
-2065	kayyam26a	Do Transformers Need Three Projections? Systematic Study of QKV Variants	https://proceedings.mlr.press/v306/kayyam26a.html	pending
-2066	ke26a	Towards Solving the Gilbert-Pollak Conjecture via Large Language Models	https://proceedings.mlr.press/v306/ke26a.html	pending
-2067	ke26b	Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery	https://proceedings.mlr.press/v306/ke26b.html	pending
-2068	ke26c	MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks	https://proceedings.mlr.press/v306/ke26c.html	pending
-2069	ke26d	Deformba: Vision State Space Model with Adaptive State Fusion	https://proceedings.mlr.press/v306/ke26d.html	pending
-2070	ke26e	IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency	https://proceedings.mlr.press/v306/ke26e.html	pending
-2071	ke26f	Rethinking Pretraining Data Detection for LLMs: From Local to Global	https://proceedings.mlr.press/v306/ke26f.html	pending
-2072	kechris26a	Time series saliency maps: Explaining models across multiple domains	https://proceedings.mlr.press/v306/kechris26a.html	pending
-2073	keegan26a	Manifold-Aware Perturbations for Constrained Generative Modeling	https://proceedings.mlr.press/v306/keegan26a.html	pending
-2074	keenan26a	Mechanistic Anomaly Detection via Functional Attribution	https://proceedings.mlr.press/v306/keenan26a.html	pending
-2075	keller26a	Expanding the AI Evaluation Toolbox with Statistical Models	https://proceedings.mlr.press/v306/keller26a.html	pending
-2076	keriven26a	Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?	https://proceedings.mlr.press/v306/keriven26a.html	pending
+2033	kang26h	Transformers Can Learn Posterior Predictive Distributions In-Context	https://proceedings.mlr.press/v306/kang26h.html	written
+2034	kang26i	Moving Out: Physically-grounded Human-AI Collaboration	https://proceedings.mlr.press/v306/kang26i.html	written
+2035	kang26j	ThunderAgent: A Fast, Simple, and Program-Aware Agentic Inference System	https://proceedings.mlr.press/v306/kang26j.html	written
+2036	kang26k	Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space	https://proceedings.mlr.press/v306/kang26k.html	written
+2037	kang26l	Automatic Pruning Discovery for Large Language Models	https://proceedings.mlr.press/v306/kang26l.html	written
+2038	kang26m	Instance-Level Costs for Nuanced Classifier Evaluation	https://proceedings.mlr.press/v306/kang26m.html	written
+2039	kang26n	Credit Assignment via Neural Manifold Noise Correlation	https://proceedings.mlr.press/v306/kang26n.html	written
+2040	kang26o	Divide and Conquer: Reliable Multi-View Evidential Learning for Deepfake Detection	https://proceedings.mlr.press/v306/kang26o.html	written
+2041	kang26p	AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech	https://proceedings.mlr.press/v306/kang26p.html	written
+2042	kang26q	Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE	https://proceedings.mlr.press/v306/kang26q.html	written
+2043	kang26r	Capacity without Access: Reinterpreting the Mid-Depth Spectral Plateau in LLMs	https://proceedings.mlr.press/v306/kang26r.html	written
+2044	kang26s	Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction	https://proceedings.mlr.press/v306/kang26s.html	written
+2045	kano26a	Gradient-Based Causal Tree Ensembles: A Backbone Architecture for Heterogeneous Treatment Effects	https://proceedings.mlr.press/v306/kano26a.html	written
+2046	kansal26a	Multimarginal flow matching with optimal transport potentials	https://proceedings.mlr.press/v306/kansal26a.html	written
+2047	kao26a	Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment	https://proceedings.mlr.press/v306/kao26a.html	written
+2048	kapl26a	From Growing to Looping: A Unified View of Iterative Computation in LLMs	https://proceedings.mlr.press/v306/kapl26a.html	written
+2049	kapl26b	Are Object-Centric Representations Better at Compositional Generalization?	https://proceedings.mlr.press/v306/kapl26b.html	written
+2050	kapoor26a	SafeDec: Constrained Decoding for Safe Autoregressive Generalist Robot Navigation Policies	https://proceedings.mlr.press/v306/kapoor26a.html	written
+2051	kapusuzoglu26a	Critique-Guided Distillation for Robust Reasoning via Refinement	https://proceedings.mlr.press/v306/kapusuzoglu26a.html	written
+2052	karhadkar26a	Harmful Overfitting in Sobolev Spaces	https://proceedings.mlr.press/v306/karhadkar26a.html	written
+2053	karim26a	FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization	https://proceedings.mlr.press/v306/karim26a.html	written
+2054	kariotakis26a	FairRARI: A Plug and Play Framework for Fairness-Aware PageRank	https://proceedings.mlr.press/v306/kariotakis26a.html	written
+2055	karjol26a	Interpretable Discovery of One-parameter Subgroups: A Modular Framework for Elliptical, Hyperbolic, and Parabolic Symmetries	https://proceedings.mlr.press/v306/karjol26a.html	written
+2056	karkada26a	Symmetry in language statistics shapes the geometry of model representations	https://proceedings.mlr.press/v306/karkada26a.html	written
+2057	karoni26a	Adaptive Momentum and Nonlinear Damping for Neural Network Training	https://proceedings.mlr.press/v306/karoni26a.html	written
+2058	kartashev26a	Unveiling the Role of Data Uncertainty in Tabular Deep Learning	https://proceedings.mlr.press/v306/kartashev26a.html	written
+2059	karvonen26a	Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers	https://proceedings.mlr.press/v306/karvonen26a.html	written
+2060	karzanov26a	Geometrically Constrained Outlier Synthesis	https://proceedings.mlr.press/v306/karzanov26a.html	written
+2061	kataria26a	GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s	https://proceedings.mlr.press/v306/kataria26a.html	written
+2062	kato26a	ScoreMatchingRiesz: Score Matching for Debiased Machine Learning and Policy Path Estimation	https://proceedings.mlr.press/v306/kato26a.html	written
+2063	kaulen26a	Rethinking Evaluation Paradigms in IBP-based Certified Training	https://proceedings.mlr.press/v306/kaulen26a.html	written
+2064	kavak26a	DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation	https://proceedings.mlr.press/v306/kavak26a.html	written
+2065	kayyam26a	Do Transformers Need Three Projections? Systematic Study of QKV Variants	https://proceedings.mlr.press/v306/kayyam26a.html	written
+2066	ke26a	Towards Solving the Gilbert-Pollak Conjecture via Large Language Models	https://proceedings.mlr.press/v306/ke26a.html	written
+2067	ke26b	Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery	https://proceedings.mlr.press/v306/ke26b.html	written
+2068	ke26c	MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks	https://proceedings.mlr.press/v306/ke26c.html	written
+2069	ke26d	Deformba: Vision State Space Model with Adaptive State Fusion	https://proceedings.mlr.press/v306/ke26d.html	written
+2070	ke26e	IVQA-LD: Inclusive Multimodal Understanding for Population with Limb Deficiency	https://proceedings.mlr.press/v306/ke26e.html	written
+2071	ke26f	Rethinking Pretraining Data Detection for LLMs: From Local to Global	https://proceedings.mlr.press/v306/ke26f.html	written
+2072	kechris26a	Time series saliency maps: Explaining models across multiple domains	https://proceedings.mlr.press/v306/kechris26a.html	written
+2073	keegan26a	Manifold-Aware Perturbations for Constrained Generative Modeling	https://proceedings.mlr.press/v306/keegan26a.html	written
+2074	keenan26a	Mechanistic Anomaly Detection via Functional Attribution	https://proceedings.mlr.press/v306/keenan26a.html	written
+2075	keller26a	Expanding the AI Evaluation Toolbox with Statistical Models	https://proceedings.mlr.press/v306/keller26a.html	written
+2076	keriven26a	Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?	https://proceedings.mlr.press/v306/keriven26a.html	written
 2077	kessler26a	Sinkhorn Normalization of Diffusion Kernels	https://proceedings.mlr.press/v306/kessler26a.html	pending
 2078	khalaf26a	Robust AI Evaluation through Maximal Lotteries	https://proceedings.mlr.press/v306/khalaf26a.html	pending
 2079	khalafi26a	Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints	https://proceedings.mlr.press/v306/khalafi26a.html	pending

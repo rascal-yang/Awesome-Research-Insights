@@ -165,6 +165,10 @@
 - [分开评测代理的环境识别和拒绝](../conferences/icml-2026/cards/1901-2000.md#jones26a-evaluation) · A New Framework for Cybersecurity Refusals in AI Agents
 - [用执行反馈搜寻良性指令下的意外风险](../conferences/icml-2026/cards/1901-2000.md#jones26b-evaluation) · When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents
 - [将数据影响沿循环计算的各步展开](../conferences/icml-2026/cards/2001-2100.md#kaissis26a-evaluation) · Step-Resolved Data Attribution for Looped Transformers
+- [用临时中层读出测试特征可达性](../conferences/icml-2026/cards/2001-2100.md#kang26r-evaluation) · Capacity without Access: Reinterpreting the Mid-Depth Spectral Plateau in LLMs
+- [把内层激活读出训练成可提问接口](../conferences/icml-2026/cards/2001-2100.md#karvonen26a-evaluation) · Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers
+- [用序列概率波动做预训练成员诊断](../conferences/icml-2026/cards/2001-2100.md#ke26f-evaluation) · Rethinking Pretraining Data Detection for LLMs: From Local to Global
+- [把题目差异纳入模型基准的区间估计](../conferences/icml-2026/cards/2001-2100.md#keller26a-evaluation) · Expanding the AI Evaluation Toolbox with Statistical Models
 
 <a id="by-computer-vision"></a>
 
@@ -193,6 +197,7 @@
 - [分别打乱概念频率与保留组合来定位生成失败](../conferences/icml-2026/cards/1801-1900.md#jeong26b-evaluation) · When Do Diffusion Models Learn to Generate Multiple Objects?
 - [按观测锚点密度判断弱先验是否够用](../conferences/icml-2026/cards/1801-1900.md#jia26k-evaluation) · Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance
 - [用多维因果干预检查视频物理表征](../conferences/icml-2026/cards/2001-2100.md#joseph26a-evaluation) · Interpreting Physics in Video World Models
+- [固定下游容量和训练组合再比较对象槽](../conferences/icml-2026/cards/2001-2100.md#kapl26b-evaluation) · Are Object-Centric Representations Better at Compositional Generalization?
 
 <a id="by-nlp"></a>
 
@@ -231,6 +236,7 @@
 - [动作块增量的基准姿态](../conferences/icml-2026/cards/1101-1200.md#feng26ab-evaluation) · Demystifying Action Space Design for Robotic Manipulation Policies
 - [机器人代码策略的分层脚手架评测](../conferences/icml-2026/cards/1101-1200.md#fu26u-evaluation) · CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
 - [分开审计 VLA 的指令、推理与动作链路](../conferences/icml-2026/cards/1701-1800.md#huang26cm-evaluation) · TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches
+- [协作增强时交换兼容伙伴轨迹并推演双人动作](../conferences/icml-2026/cards/2001-2100.md#kang26i-evaluation) · Moving Out: Physically-grounded Human-AI Collaboration
 
 <a id="by-multimodal"></a>
 
@@ -315,6 +321,11 @@
 - [用全局兼容性筛查局部因果陈述](../conferences/icml-2026/cards/1801-1900.md#jahn26a-evaluation) · Evaluating Bivariate Causal Statements Based on Mutual Compatibility
 - [把预文本假设拆成三种可测失效](../conferences/icml-2026/cards/1801-1900.md#jia26b-evaluation) · Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning
 - [从预测分布到条件经验分布做非参数校准](../conferences/icml-2026/cards/2001-2100.md#jung26d-evaluation) · Nonparametric Distribution Regression Re-calibration
+- [给每个分类错误赋予实例级损失权重](../conferences/icml-2026/cards/2001-2100.md#kang26m-evaluation) · Instance-Level Costs for Nuanced Classifier Evaluation
+- [按不可约噪声分层评估表格模型](../conferences/icml-2026/cards/2001-2100.md#kartashev26a-evaluation) · Unveiling the Role of Data Uncertainty in Tabular Deep Learning
+- [用统一搜索预算比较认证训练的整条前沿](../conferences/icml-2026/cards/2001-2100.md#kaulen26a-evaluation) · Rethinking Evaluation Paradigms in IBP-based Certified Training
+- [在可逆频谱或趋势域内积分梯度](../conferences/icml-2026/cards/2001-2100.md#kechris26a-evaluation) · Time series saliency maps: Explaining models across multiple domains
+- [借可信参考样本诊断异常输出机制](../conferences/icml-2026/cards/2001-2100.md#keenan26a-evaluation) · Mechanistic Anomaly Detection via Functional Attribution
 
 <a id="by-graph-and-recommendation"></a>
 

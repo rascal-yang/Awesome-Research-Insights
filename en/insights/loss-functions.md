@@ -107,6 +107,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Learning Coherent Representations: A Topological Approach to Interpretability](../../conferences/icml-2026/cards/1201-1300.md#gaukstad26a-loss-functions) · 中文
 - [Flow Sampling : Learning to Sample from Unnormalized Densities via Denoising Conditional Processes](../../conferences/icml-2026/cards/1401-1500.md#havens26a-loss-functions) · 中文
 - [Intrinsic Task Symmetry Drives Generalization in Algorithmic Tasks](../../conferences/icml-2026/cards/1701-1800.md#hwang26d-loss-functions) · 中文
+- [DISCO: Mitigating Bias in Deep Learning with Conditional Distance Correlation](../../conferences/icml-2026/cards/2001-2100.md#kavak26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

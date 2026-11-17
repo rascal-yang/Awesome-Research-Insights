@@ -65,6 +65,8 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="jaziri26a-optimization"></a>[Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](../../conferences/icml-2026/cards/1801-1900.md#paper-jaziri26a)
 - <a id="john26a-optimization"></a>[An Approximation Algorithm for Graph Label Selection](../../conferences/icml-2026/cards/1901-2000.md#paper-john26a)
 - <a id="jourdan26a-optimization"></a>[Fully Dynamic Coreset Spectral Clustering](../../conferences/icml-2026/cards/2001-2100.md#paper-jourdan26a)
+- <a id="kariotakis26a-optimization"></a>[FairRARI: A Plug and Play Framework for Fairness-Aware PageRank](../../conferences/icml-2026/cards/2001-2100.md#paper-kariotakis26a)
+- <a id="kataria26a-optimization"></a>[GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#paper-kataria26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -156,4 +158,5 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="harker26a-theory-statistics"></a>[On the Optimization Trajectory of DeepWalk Embeddings](../../conferences/icml-2026/cards/1401-1500.md#paper-harker26a)
 - <a id="harviainen26a-theory-statistics"></a>[Exact and Approximate Algorithms for Polytree Learning](../../conferences/icml-2026/cards/1401-1500.md#paper-harviainen26a)
 - <a id="jiang26aj-theory-statistics"></a>[Quantum Algorithms for Triangle Cut Sparsification](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aj)
+- <a id="keriven26a-theory-statistics"></a>[Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](../../conferences/icml-2026/cards/2001-2100.md#paper-keriven26a)
 <!-- classification:end -->

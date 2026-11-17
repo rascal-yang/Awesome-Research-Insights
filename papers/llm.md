@@ -37,6 +37,8 @@
 - <a id="jia26h-architecture"></a>[Text Generation as Continuous Latent Dynamics via Reinforcement Learning](../conferences/icml-2026/cards/1801-1900.md#paper-jia26h)
 - <a id="jiang26aw-architecture"></a>[BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26aw)
 - <a id="jin26c-architecture"></a>[Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems](../conferences/icml-2026/cards/1901-2000.md#paper-jin26c)
+- <a id="kapl26a-architecture"></a>[From Growing to Looping: A Unified View of Iterative Computation in LLMs](../conferences/icml-2026/cards/2001-2100.md#paper-kapl26a)
+- <a id="kayyam26a-architecture"></a>[Do Transformers Need Three Projections? Systematic Study of QKV Variants](../conferences/icml-2026/cards/2001-2100.md#paper-kayyam26a)
 
 <a id="by-modules"></a>
 
@@ -62,6 +64,7 @@
 - <a id="huang26q-modules"></a>[Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition](../conferences/icml-2026/cards/1701-1800.md#paper-huang26q)
 - <a id="ji26i-modules"></a>[Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM](../conferences/icml-2026/cards/1801-1900.md#paper-ji26i)
 - <a id="jin26f-modules"></a>[DTop-p MoE: Sparsity-Controlled Dynamic Top-p MoE for Foundation Model Pre-training](../conferences/icml-2026/cards/1901-2000.md#paper-jin26f)
+- <a id="kang26q-modules"></a>[Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE](../conferences/icml-2026/cards/2001-2100.md#paper-kang26q)
 
 <a id="by-loss-functions"></a>
 
@@ -127,6 +130,9 @@
 - <a id="jiang26az-optimization"></a>[EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26az)
 - <a id="jovanovic26a-optimization"></a>[LoRDO: Distributed Low-Rank Optimization with Infrequent Communication](../conferences/icml-2026/cards/2001-2100.md#paper-jovanovic26a)
 - <a id="jung26h-optimization"></a>[Mitigating Staleness in Asynchronous Pipeline Parallelism via Basis Rotation](../conferences/icml-2026/cards/2001-2100.md#paper-jung26h)
+- <a id="kang26l-optimization"></a>[Automatic Pruning Discovery for Large Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-kang26l)
+- <a id="ke26a-optimization"></a>[Towards Solving the Gilbert-Pollak Conjecture via Large Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-ke26a)
+- <a id="ke26b-optimization"></a>[Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery](../conferences/icml-2026/cards/2001-2100.md#paper-ke26b)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -203,6 +209,7 @@
 - <a id="jiang26ak-reinforcement-learning"></a>[Break the Block: Dynamic-size Reasoning Blocks for Diffusion Large Language Models via Monotonic Entropy Descent with Reinforcement Learning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ak)
 - <a id="juneja26a-reinforcement-learning"></a>[Adversarial Training for Process Reward Models](../conferences/icml-2026/cards/2001-2100.md#paper-juneja26a)
 - <a id="juneja26b-reinforcement-learning"></a>[Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems](../conferences/icml-2026/cards/2001-2100.md#paper-juneja26b)
+- <a id="ke26c-reinforcement-learning"></a>[MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks](../conferences/icml-2026/cards/2001-2100.md#paper-ke26c)
 
 <a id="by-training-strategies"></a>
 
@@ -262,6 +269,7 @@
 - <a id="jiang26ap-training-strategies"></a>[Procedural Pretraining: Warming Up Language Models with Abstract Data](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ap)
 - <a id="jing26g-training-strategies"></a>[InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining](../conferences/icml-2026/cards/1901-2000.md#paper-jing26g)
 - <a id="kaczer26a-training-strategies"></a>[In-Training Defenses Against Emergent Misalignment in Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-kaczer26a)
+- <a id="kapusuzoglu26a-training-strategies"></a>[Critique-Guided Distillation for Robust Reasoning via Refinement](../conferences/icml-2026/cards/2001-2100.md#paper-kapusuzoglu26a)
 
 <a id="by-data-strategies"></a>
 
@@ -293,6 +301,7 @@
 - <a id="jiao26f-data-strategies"></a>[Agentic Proposing: Enhancing Large language Model Reasoning via Compositional Skill Synthesis](../conferences/icml-2026/cards/1901-2000.md#paper-jiao26f)
 - <a id="jin26o-data-strategies"></a>[Reasoning Quality Emerges Early: Data Curation for Reasoning Models](../conferences/icml-2026/cards/1901-2000.md#paper-jin26o)
 - <a id="just26a-data-strategies"></a>[The Signal is in the Steps: Local Scoring for Reasoning Data Selection](../conferences/icml-2026/cards/2001-2100.md#paper-just26a)
+- <a id="kao26a-data-strategies"></a>[Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment](../conferences/icml-2026/cards/2001-2100.md#paper-kao26a)
 
 <a id="by-inference"></a>
 
@@ -427,6 +436,7 @@
 - <a id="junger26a-inference"></a>[Self-Augmenting Retrieval for Diffusion Language Models](../conferences/icml-2026/cards/2001-2100.md#paper-junger26a)
 - <a id="kallini26a-inference"></a>[Fast Byte Latent Transformer](../conferences/icml-2026/cards/2001-2100.md#paper-kallini26a)
 - <a id="kang26b-inference"></a>[ACON: Optimizing Context Compression for Long-horizon LLM Agents](../conferences/icml-2026/cards/2001-2100.md#paper-kang26b)
+- <a id="kang26j-inference"></a>[ThunderAgent: A Fast, Simple, and Program-Aware Agentic Inference System](../conferences/icml-2026/cards/2001-2100.md#paper-kang26j)
 
 <a id="by-representation-learning"></a>
 
@@ -595,6 +605,10 @@
 - <a id="jones26a-evaluation"></a>[A New Framework for Cybersecurity Refusals in AI Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jones26a)
 - <a id="jones26b-evaluation"></a>[When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents](../conferences/icml-2026/cards/1901-2000.md#paper-jones26b)
 - <a id="kaissis26a-evaluation"></a>[Step-Resolved Data Attribution for Looped Transformers](../conferences/icml-2026/cards/2001-2100.md#paper-kaissis26a)
+- <a id="kang26r-evaluation"></a>[Capacity without Access: Reinterpreting the Mid-Depth Spectral Plateau in LLMs](../conferences/icml-2026/cards/2001-2100.md#paper-kang26r)
+- <a id="karvonen26a-evaluation"></a>[Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](../conferences/icml-2026/cards/2001-2100.md#paper-karvonen26a)
+- <a id="ke26f-evaluation"></a>[Rethinking Pretraining Data Detection for LLMs: From Local to Global](../conferences/icml-2026/cards/2001-2100.md#paper-ke26f)
+- <a id="keller26a-evaluation"></a>[Expanding the AI Evaluation Toolbox with Statistical Models](../conferences/icml-2026/cards/2001-2100.md#paper-keller26a)
 
 <a id="by-theory-statistics"></a>
 
