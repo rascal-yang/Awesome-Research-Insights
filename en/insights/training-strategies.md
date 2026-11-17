@@ -134,6 +134,7 @@ Training schedules, curricula, and task or stage composition.
 - [MESA: Improving MoE Safety Alignment via Decentralized Expertise](../../conferences/icml-2026/cards/4201-4300.md#sun26m-training-strategies) · 中文
 - [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](../../conferences/icml-2026/cards/4201-4300.md#sun26w-training-strategies) · 中文
 - [The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order](../../conferences/icml-2026/cards/4301-4400.md#sweeney26a-training-strategies) · 中文
+- [Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning](../../conferences/icml-2026/cards/4401-4500.md#tiwari26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -204,6 +205,7 @@ Training schedules, curricula, and task or stage composition.
 - [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](../../conferences/icml-2026/cards/4301-4400.md#sun26az-training-strategies) · 中文
 - [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#tan26b-training-strategies) · 中文
 - [SORA: Free Second-Order Attacks in Fast Adversarial Training](../../conferences/icml-2026/cards/4401-4500.md#teymourian26a-training-strategies) · 中文
+- [CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](../../conferences/icml-2026/cards/4401-4500.md#tong26a-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -300,6 +302,7 @@ Training schedules, curricula, and task or stage composition.
 - [Efficient Reasoning with Hidden Thinking](../../conferences/icml-2026/cards/4001-4100.md#shen26s-training-strategies) · 中文
 - [Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation](../../conferences/icml-2026/cards/4201-4300.md#su26n-training-strategies) · 中文
 - [SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](../../conferences/icml-2026/cards/4201-4300.md#sun26q-training-strategies) · 中文
+- [Beyond Language Modeling: An Exploration of Multimodal Pretraining](../../conferences/icml-2026/cards/4401-4500.md#tong26c-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -373,6 +376,7 @@ Training schedules, curricula, and task or stage composition.
 - [Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic](../../conferences/icml-2026/cards/4101-4200.md#sommariva26a-training-strategies) · 中文
 - [MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](../../conferences/icml-2026/cards/4201-4300.md#song26m-training-strategies) · 中文
 - [Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training](../../conferences/icml-2026/cards/4301-4400.md#tang26g-training-strategies) · 中文
+- [Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels](../../conferences/icml-2026/cards/4401-4500.md#tian26l-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -229,6 +229,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="shen26s-training-strategies"></a>[Efficient Reasoning with Hidden Thinking](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26s)
 - <a id="su26n-training-strategies"></a>[Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation](../../conferences/icml-2026/cards/4201-4300.md#paper-su26n)
 - <a id="sun26q-training-strategies"></a>[SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26q)
+- <a id="tong26c-training-strategies"></a>[Beyond Language Modeling: An Exploration of Multimodal Pretraining](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26c)
 
 <a id="by-data-strategies"></a>
 
@@ -397,6 +398,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="shi26l-representation-learning"></a>[MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26l)
 - <a id="shi26z-representation-learning"></a>[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26z)
 - <a id="sun26c-representation-learning"></a>[Multimodal Latent Language Modeling with Next-Token Diffusion](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26c)
+- <a id="tonekaboni26a-representation-learning"></a>[MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning](../../conferences/icml-2026/cards/4401-4500.md#paper-tonekaboni26a)
 
 <a id="by-evaluation"></a>
 

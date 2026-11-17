@@ -82,6 +82,7 @@
 - [运动对齐高斯协方差](../conferences/icml-2026/cards/4201-4300.md#song26i-representation-learning) · Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes
 - [parametric-to-spatial-pretraining](../conferences/icml-2026/cards/4301-4400.md#sun26ac-representation-learning) · Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers
 - [Jacobian分维排序对比](../conferences/icml-2026/cards/4301-4400.md#tan26f-representation-learning) · Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning
+- [内容风格切空间正交](../conferences/icml-2026/cards/4401-4500.md#timilsina26a-representation-learning) · Content-Style Identification via Differential Independence
 
 <a id="by-nlp"></a>
 
@@ -182,6 +183,7 @@
 - [按视觉显著性分配记忆密度](../conferences/icml-2026/cards/4101-4200.md#shi26l-representation-learning) · MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning
 - [以快慢视觉token联合时空定位](../conferences/icml-2026/cards/4101-4200.md#shi26z-representation-learning) · VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding
 - [连续潜码方差与自回归匹配](../conferences/icml-2026/cards/4201-4300.md#sun26c-representation-learning) · Multimodal Latent Language Modeling with Next-Token Diffusion
+- [共享与私有低秩表示编辑](../conferences/icml-2026/cards/4401-4500.md#tonekaboni26a-representation-learning) · MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning
 
 <a id="by-ml-foundations"></a>
 

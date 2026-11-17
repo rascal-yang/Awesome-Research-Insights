@@ -522,6 +522,7 @@
 - <a id="sun26m-training-strategies"></a>[MESA: Improving MoE Safety Alignment via Decentralized Expertise](../conferences/icml-2026/cards/4201-4300.md#paper-sun26m)
 - <a id="sun26w-training-strategies"></a>[SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](../conferences/icml-2026/cards/4201-4300.md#paper-sun26w)
 - <a id="sweeney26a-training-strategies"></a>[The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order](../conferences/icml-2026/cards/4301-4400.md#paper-sweeney26a)
+- <a id="tiwari26a-training-strategies"></a>[Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning](../conferences/icml-2026/cards/4401-4500.md#paper-tiwari26a)
 
 <a id="by-data-strategies"></a>
 
@@ -592,6 +593,7 @@
 - <a id="tang26y-data-strategies"></a>[SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection](../conferences/icml-2026/cards/4301-4400.md#paper-tang26y)
 - <a id="tang26aa-data-strategies"></a>[CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling](../conferences/icml-2026/cards/4301-4400.md#paper-tang26aa)
 - <a id="tian26e-data-strategies"></a>[AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](../conferences/icml-2026/cards/4401-4500.md#paper-tian26e)
+- <a id="tice26a-data-strategies"></a>[Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment](../conferences/icml-2026/cards/4401-4500.md#paper-tice26a)
 
 <a id="by-inference"></a>
 
@@ -892,6 +894,8 @@
 - <a id="tang26t-inference"></a>[Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers](../conferences/icml-2026/cards/4301-4400.md#paper-tang26t)
 - <a id="tang26w-inference"></a>[MineDraft: A Framework for Batch Parallel Speculative Decoding](../conferences/icml-2026/cards/4301-4400.md#paper-tang26w)
 - <a id="teng26b-inference"></a>[InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context](../conferences/icml-2026/cards/4401-4500.md#paper-teng26b)
+- <a id="tian26m-inference"></a>[LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](../conferences/icml-2026/cards/4401-4500.md#paper-tian26m)
+- <a id="tomov26a-inference"></a>[Task-Awareness Improves LLM Generations and Uncertainty](../conferences/icml-2026/cards/4401-4500.md#paper-tomov26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1222,6 +1226,8 @@
 - <a id="thillen26a-evaluation"></a>[CodeTaste: Can LLMs Generate Human-Level Code Refactorings?](../conferences/icml-2026/cards/4401-4500.md#paper-thillen26a)
 - <a id="thimmaiah26a-evaluation"></a>[LLMs Lean on Priors, Not Programming Language Semantics](../conferences/icml-2026/cards/4401-4500.md#paper-thimmaiah26a)
 - <a id="tian26d-evaluation"></a>[Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tian26d)
+- <a id="tiwari26b-evaluation"></a>[Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models](../conferences/icml-2026/cards/4401-4500.md#paper-tiwari26b)
+- <a id="tong26d-evaluation"></a>[Is Code Better Than Language for Algorithmic Reasoning?](../conferences/icml-2026/cards/4401-4500.md#paper-tong26d)
 
 <a id="by-theory-statistics"></a>
 
@@ -1280,4 +1286,5 @@
 - <a id="sarrof26a-theory-statistics"></a>[On the Ability of Transformers to Verify Plans](../conferences/icml-2026/cards/3901-4000.md#paper-sarrof26a)
 - <a id="shapira26a-theory-statistics"></a>[How RLHF Amplifies Sycophancy](../conferences/icml-2026/cards/4001-4100.md#paper-shapira26a)
 - <a id="sullivan26a-theory-statistics"></a>[GRPO is Secretly a Process Reward Model](../conferences/icml-2026/cards/4201-4300.md#paper-sullivan26a)
+- <a id="tomlinson26a-theory-statistics"></a>[Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](../conferences/icml-2026/cards/4401-4500.md#paper-tomlinson26a)
 <!-- classification:end -->

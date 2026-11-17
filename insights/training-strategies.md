@@ -134,6 +134,7 @@
 - [MoE对齐的专家容量分配](../conferences/icml-2026/cards/4201-4300.md#sun26m-training-strategies) · MESA: Improving MoE Safety Alignment via Decentralized Expertise
 - [trajectory-aware-gui-judge](../conferences/icml-2026/cards/4201-4300.md#sun26w-training-strategies) · SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience
 - [lie-bracket-curriculum](../conferences/icml-2026/cards/4301-4400.md#sweeney26a-training-strategies) · The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order
+- [选择性反向prompt更新](../conferences/icml-2026/cards/4401-4500.md#tiwari26a-training-strategies) · Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning
 
 <a id="by-computer-vision"></a>
 
@@ -204,6 +205,7 @@
 - [记忆条件对齐的蒸馏](../conferences/icml-2026/cards/4301-4400.md#sun26az-training-strategies) · WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling
 - [感知前置RL与任务梯度分配](../conferences/icml-2026/cards/4301-4400.md#tan26b-training-strategies) · VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning
 - [reuse-gradients-to-diagnose-fast-at-collapse](../conferences/icml-2026/cards/4401-4500.md#teymourian26a-training-strategies) · SORA: Free Second-Order Attacks in Fast Adversarial Training
+- [视频模型的三帧视觉修正](../conferences/icml-2026/cards/4401-4500.md#tong26a-training-strategies) · CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
 
 <a id="by-nlp"></a>
 
@@ -300,6 +302,7 @@
 - [以阶段化隐词元压缩多模态推理](../conferences/icml-2026/cards/4001-4100.md#shen26s-training-strategies) · Efficient Reasoning with Hidden Thinking
 - [多内在表征生成辅助理解](../conferences/icml-2026/cards/4201-4300.md#su26n-training-strategies) · Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
 - [scale-conditioned-spatial-learning](../conferences/icml-2026/cards/4201-4300.md#sun26q-training-strategies) · SpaceVista: All-Scale Visual Spatial Reasoning from mm to km
+- [统一多模态的数据与目标耦合](../conferences/icml-2026/cards/4401-4500.md#tong26c-training-strategies) · Beyond Language Modeling: An Exploration of Multimodal Pretraining
 
 <a id="by-ml-foundations"></a>
 
@@ -373,6 +376,7 @@
 - [路径蒸馏任务算术](../conferences/icml-2026/cards/4101-4200.md#sommariva26a-training-strategies) · Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic
 - [子图消息复用](../conferences/icml-2026/cards/4201-4300.md#song26m-training-strategies) · MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction
 - [静默梯度错误与副本重同步](../conferences/icml-2026/cards/4301-4400.md#tang26g-training-strategies) · Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training
+- [联邦全局教师修正噪声标签](../conferences/icml-2026/cards/4401-4500.md#tian26l-training-strategies) · Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels
 
 <a id="by-graph-and-recommendation"></a>
 

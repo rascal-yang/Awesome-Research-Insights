@@ -318,6 +318,8 @@
 - [intent-versus-execution-refactoring](../conferences/icml-2026/cards/4401-4500.md#thillen26a-evaluation) · CodeTaste: Can LLMs Generate Human-Level Code Refactorings?
 - [semantics-prior-conflict](../conferences/icml-2026/cards/4401-4500.md#thimmaiah26a-evaluation) · LLMs Lean on Priors, Not Programming Language Semantics
 - [evaluation-factor-interactions](../conferences/icml-2026/cards/4401-4500.md#tian26d-evaluation) · Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models
+- [过程奖励与正确率脱钩](../conferences/icml-2026/cards/4401-4500.md#tiwari26b-evaluation) · Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models
+- [代码表示与执行机制的配对分离](../conferences/icml-2026/cards/4401-4500.md#tong26d-evaluation) · Is Code Better Than Language for Algorithmic Reasoning?
 
 <a id="by-computer-vision"></a>
 
@@ -418,6 +420,7 @@
 - [以动作价值差拆分部署风险](../conferences/icml-2026/cards/3701-3800.md#qian26f-evaluation) · Rationality Measurement and Theory for Reinforcement Learning Agents
 - [正常回报掩盖策略后门的压力测试](../conferences/icml-2026/cards/3701-3800.md#qian26n-evaluation) · Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning
 - [复核策略泛化时控制奖励和观察](../conferences/icml-2026/cards/3801-3900.md#rajabpour26a-evaluation) · Revisiting OOD Generalization in Programmatic RL
+- [百任务序列暴露正则塑性失效](../conferences/icml-2026/cards/4401-4500.md#tomilin26a-evaluation) · MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning
 
 <a id="by-robotics"></a>
 

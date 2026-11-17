@@ -318,6 +318,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CodeTaste: Can LLMs Generate Human-Level Code Refactorings?](../../conferences/icml-2026/cards/4401-4500.md#thillen26a-evaluation) · 中文
 - [LLMs Lean on Priors, Not Programming Language Semantics](../../conferences/icml-2026/cards/4401-4500.md#thimmaiah26a-evaluation) · 中文
 - [Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tian26d-evaluation) · 中文
+- [Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models](../../conferences/icml-2026/cards/4401-4500.md#tiwari26b-evaluation) · 中文
+- [Is Code Better Than Language for Algorithmic Reasoning?](../../conferences/icml-2026/cards/4401-4500.md#tong26d-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -418,6 +420,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Rationality Measurement and Theory for Reinforcement Learning Agents](../../conferences/icml-2026/cards/3701-3800.md#qian26f-evaluation) · 中文
 - [Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qian26n-evaluation) · 中文
 - [Revisiting OOD Generalization in Programmatic RL](../../conferences/icml-2026/cards/3801-3900.md#rajabpour26a-evaluation) · 中文
+- [MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/4401-4500.md#tomilin26a-evaluation) · 中文
 
 <a id="by-robotics"></a>
 

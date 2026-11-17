@@ -78,6 +78,7 @@ Data selection, annotation, augmentation, and sampling.
 - [SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection](../../conferences/icml-2026/cards/4301-4400.md#tang26y-data-strategies) · 中文
 - [CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling](../../conferences/icml-2026/cards/4301-4400.md#tang26aa-data-strategies) · 中文
 - [AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](../../conferences/icml-2026/cards/4401-4500.md#tian26e-data-strategies) · 中文
+- [Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment](../../conferences/icml-2026/cards/4401-4500.md#tice26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

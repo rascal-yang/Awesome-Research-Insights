@@ -396,6 +396,7 @@
 - [密度约束反事实轨迹](../conferences/icml-2026/cards/4301-4400.md#tan26a-optimization) · Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity
 - [stratified-particle-descent](../conferences/icml-2026/cards/4401-4500.md#tao26d-optimization) · Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction
 - [layerwise-variance-preserving-connectivity](../conferences/icml-2026/cards/4401-4500.md#tian26a-optimization) · Connecting Independently Trained Modes via Layer-Wise Connectivity
+- [特征与样本双侧ARD](../conferences/icml-2026/cards/4401-4500.md#timans26a-optimization) · Joint Model and Data Sparsification via the Marginal Likelihood
 
 <a id="by-graph-and-recommendation"></a>
 

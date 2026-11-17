@@ -308,6 +308,8 @@
 - [任务条件的注意力头稀疏路由](../conferences/icml-2026/cards/4301-4400.md#tang26t-inference) · Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers
 - [双请求批交替推测解码](../conferences/icml-2026/cards/4301-4400.md#tang26w-inference) · MineDraft: A Framework for Batch Parallel Speculative Decoding
 - [inference-consistent-kv-selection](../conferences/icml-2026/cards/4401-4500.md#teng26b-inference) · InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context
+- [可执行程序的静默语义错误探测](../conferences/icml-2026/cards/4401-4500.md#tian26m-inference) · LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement
+- [任务结构空间中的Bayes合成](../conferences/icml-2026/cards/4401-4500.md#tomov26a-inference) · Task-Awareness Improves LLM Generations and Uncertainty
 
 <a id="by-computer-vision"></a>
 

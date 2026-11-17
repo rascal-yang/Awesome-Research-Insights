@@ -4450,26 +4450,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4449	tian26i	4	5	4	4	86		新增量/复用/可用/独特性依次为(4, 5, 4, 4)；多视角融合应让高冲突阻止不确定性盲目下降；CMAM按信念冲突在乘积不确定性与调和平均不确定性间插值，可独立于睡眠模型使用。 对照与边界：来源：EDL/主观逻辑、DS与ECML/RCML；实际消融均值融合、Xu2024融合、去混合类别；通用CMAM比分视角基线。 命题证明仅C→0与C→1极限，不是任意中间冲突均增加不确定性；可由公式看到阈值依赖ua/ub；非临床可靠性保证；粗类平均映射有任务假设；多意见组合顺序与高维零信念边界需另核。（PDF第4、5、6、8、9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26i/tian26i.pdf	scored
 4450	tian26j	3	4	3	3	66		新增量是双参考/双门控的局部预测修正，非中性校准本身；可复用到冻结视觉语言分类推理；输入、门限与候选选择明确，但校准与图生成有成本，理论不当作正确翻转保证。独特性为选择性纠错，通用去偏思想已有。PDF6–8、21、24页。原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26j/tian26j.pdf	scored
 4451	tian26k	4	4	4	4	80		技术选择：ViT 特征蒸馏不把单图低秩诊断误当统一瓶颈；Lift 保留训练/推理共用升维编码，WideLast 只加宽末块，分别修复编码不匹配与保留输入自适应宽表示，区别于只在损失端加投影（PDF 第 4、6 页）。	scored
-4452	tian26l							待原文复核评分	pending
-4453	tian26m							待原文复核评分	pending
-4454	tian26n							待原文复核评分	pending
-4455	tice26a							待原文复核评分	pending
-4456	tie26a							待原文复核评分	pending
-4457	timans26a							待原文复核评分	pending
-4458	timilsina26a							待原文复核评分	pending
-4459	tiofack26a							待原文复核评分	pending
-4460	tirsgaard26a							待原文复核评分	pending
-4461	tiwari26a							待原文复核评分	pending
-4462	tiwari26b							待原文复核评分	pending
-4463	tomilin26a							待原文复核评分	pending
-4464	tomlinson26a							待原文复核评分	pending
-4465	tomov26a							待原文复核评分	pending
-4466	tonekaboni26a							待原文复核评分	pending
-4467	tong26a							待原文复核评分	pending
-4468	tong26b							待原文复核评分	pending
-4469	tong26c							待原文复核评分	pending
-4470	tong26d							待原文复核评分	pending
-4471	tong26e							待原文复核评分	pending
+4452	tian26l	3	4	4	3	70		新增量/复用/可用/独特性依次评分：异质噪声下用全局模型跨轮平均损失作集中筛选，再以全局参数修正本地EMA教师；避免本地模型先记住错标后自我强化。 最近来源与对照：来源DivideMix二分GMM、FixMatch伪标签、EMA；比较FedCorr、FedNoRo、FedFixer、FedDiv及去FS/LR/蒸馏/表征约束。 边界：非所有噪声设定均最佳；弱强增广贡献很大；上传样本标识及损失不等于形式隐私保证；额外全局推断/EMA成本，未作严格等计算对照。 PDF第4,5,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26l/tian26l.pdf	scored
+4453	tian26m	3	4	3	3	66		新增量/复用/可用/独特性依次评分：把逻辑程序token按语法/语义流分别归一化熵，仅对异常token追问核验；成功执行也触发语义复查。 最近来源与对照：来源Logic-LM及Logic-LM++错误反馈修复；新增重点为主动熵探测；比较同Qwen3-8B骨干和反应式/主动式消融。 边界：主动模块额外推理预算未与等调用随机复查完全匹配；不能将SFT92.36全部归因架构；Tmax3约65秒，更多轮收益饱和；局部熵不是语义正确保证。 PDF第3,4,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26m/tian26m.pdf	scored
+4454	tian26n	4	4	4	4	80		新增量/复用/可用/独特性依次评分：只用充足参考集学习/校准异常评分，保留独立参考holdout与全部查询置换；按敏感性除以重采样方差聚合多种评分。 最近来源与对照：来源单类学习和核均值嵌入；比较MMD-FUSE、MMDAgg、MMD-Deep、RL-TST、C2ST-L，使用相同视觉嵌入。 边界：有限样本I类控制需独立holdout、交换性及权重不依赖测试；一致性需查询也趋于无穷、二阶矩及至少一个一致表示；有限LOF等不自动满足全替代一致性，少参考可能输核方法。 PDF第3,4,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26n/tian26n.pdf	scored
+4455	tice26a	4	4	3	4	76		新增量/复用/可用/独特性依次评分：安全语料处理不只删除负面AI叙事，还可加入正面对齐叙事；比较同token正负合成组，并在未用于合成的问题源上测试迁移。 最近来源与对照：来源对齐后训练与人格语料干预；比较Unfiltered、Filtered、正向与负向合成叙事；合成基于Articles问题，Textbook问题源留出。 边界：基线500B+50B与上采样另加5B+0.5B并非全等token；正负合成组较可比；CPT额外1B含500M回放；场景选择非真实自主行为，多训练seed稳健性未充分报告。 PDF第3,5,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tice26a/tice26a.pdf	scored
+4456	tie26a							p3–4路由为验证集准确率减延迟/token成本的标准效用最大化、LLM/SFT选择评审器；p5–8主要给模型池与难度分桶的局部权衡，未核实超越既有routing/LLM judge的独立新机制或可迁移受控规律；不将普通管线拼装单留。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tie26a/tie26a.pdf	rule-excluded
+4457	timans26a	3	3	4	3	64		新增量/复用/可用/独特性依次评分：在冻结特征的稀疏回归头里，同时学习每权重精度与每训练样本噪声方差，用一个边际似然联合抑制弱特征和污染样本。 最近来源与对照：来源SBL/ARD、RVM和Jin&Rao鲁棒数据稀疏化；贡献为统一双侧目标、求解及杠杆边界；比较同方差版本、Huber、Student-t、Ridge、GP。 边界：主要线性/固定特征和核头，非任意深网剪枝；非凸无全局最优保证；高杠杆离群有残差掩蔽；训练样本方差没有测试输入噪声映射；RVM固定核尺度与GP对照存在差异。 PDF第3,4,6,7页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/timans26a/timans26a.pdf	scored
+4458	timilsina26a	4	4	3	4	76		新增量/复用/可用/独特性依次评分：多域无配对图像分解可把统计独立替换为内容/风格对生成流形的切方向正交；用归一化交叉Jacobian正则避免靠缩小导数伪造正交。 最近来源与对照：来源Wei2021正交Jacobian与IMA，非首次提出正交；相对I-StyleGAN和B.I.GAN新增多域内容/风格块识别条件及实现。 边界：识别依赖可逆生成、足够域变异和满秩style Jacobian；不是任意真实数据可识别保证；近似正交的style泄漏界还依赖最小奇异值；随机比值估计不等于整体无偏；构造依赖实验不覆盖所有依赖。 PDF第4,5,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/timilsina26a/timilsina26a.pdf	scored
+4459	tiofack26a	5	5	4	5	96		新增量/复用/可用/独特性依次评分：将未到目标的截断轨迹视为右删失而非失败标签，以首次到达hazard似然训练critic，再积分折扣生存概率得到目标价值。 最近来源与对照：来源生存分析、hindsight和HIQL分层提取；比较HIQL、CRL及共享DDPG+BC actor的flat CRL。 边界：价值恒等式限达标终止、未达每步-1；需要非信息删失，灾难失败不适用；重标记离线行为数据不自动满足目标策略MLE一致性；giant数据4M多于large2M，不能当时域单变量比较；真实机器人未测。 PDF第4,5,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tiofack26a/tiofack26a.pdf	scored
+4460	tirsgaard26a							p3–4为未标注样本上匹配ensemble均值的标准协同/蒸馏一致性目标，p6–8分子图实验说明该成熟目标可用且单成员获益，但新增主要是应用与比较；未找到区别于既有co-distillation/consensus SSL的独立设计，不因生物领域名排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tirsgaard26a/tirsgaard26a.pdf	rule-excluded
+4461	tiwari26a	4	4	3	4	76		新增量/复用/可用/独特性依次评分：持续prompt学习时先筛相关旧任务，只用新任务数据在旧prompt已保护梯度子空间的正交补作少量更新；保留更新方向防后续覆盖。 最近来源与对照：来源prompt隔离、正交梯度保护；比较ProgPrompt、SHLPT、SAPT及无约束/同子空间/正交/混合反向更新。 边界：需任务标识与各旧prompt的梯度基/损失统计；不存原样本仍有增长状态与额外更新预算；命题只保证新任务loss下降，非旧任务无遗忘全局保证；BoolQ←MultiRC正交仍-0.010。 PDF第4,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tiwari26a/tiwari26a.pdf	scored
+4462	tiwari26b	4	5	4	4	86		新增量/复用/可用/独特性依次评分：部署PRM作训练信号前，分别测试风格不变性、逻辑敏感性与闭环优化后的奖励/真值偏离；静态稳健不能推出优化稳健。 最近来源与对照：来源奖励过优化/Goodhart诊断；新增同PRM跨压力层对照，而非把所有PRM称为同类失败。 边界：离散压力测试下Qwen7B抵抗，不能泛称所有模型所有攻击均失效；Skywork末步与Qwen最小步聚合不同；小AIME样本、单闭环设置不等于普遍失败率；43%为干预归因，非全部错误的因果解释。 PDF第3,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tiwari26b/tiwari26b.pdf	scored
+4463	tomilin26a	4	4	4	4	80		新增量/复用/可用/独特性依次评分：持续多智能体学习评测要把任务序列拉到100项：短序列相近的累积EWC和Online EWC会在长序列明显分离，不能仅看遗忘接近零。 最近来源与对照：来源JaxMARL、Overcooked和既有CL方法；独立Insight是长度改变方法排序；比较EWC、Online EWC、MAS、PackNet、AGEM等。 边界：长短序列总计算不同但每任务步数固定；得分为归一化汤数并非成功率；主要Overcooked且需任务ID，多头隔离；失效经验不直接外推任意协作环境。 PDF第3,5,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tomilin26a/tomilin26a.pdf	scored
+4464	tomlinson26a	4	4	3	4	76		新增量/复用/可用/独特性依次评分：对固定带宽注意力代理模型中的多数判定/匹配/可达性任务，不把固定推理预算外推到更长输入；预算随输入信息量增长，并单独检查模型是否执行预期分解。 最近来源与对照：来源Schnabel BAPO和UHAT CoT长度界；新增BAPO信息流的逐步下界及cBAPO限制，非一般Transformer运算下界。 边界：带宽常数、字母表与最坏情况正确性为关键；n节点不能误作可达输入边数；原始无限制oracle甚至能解不可判定语言；经验一致非证明真实LLM遵循该代理，词预算不等于token预算。 PDF第3,4,5,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tomlinson26a/tomlinson26a.pdf	scored
+4465	tomov26a	4	5	4	4	86		新增量/复用/可用/独特性依次评分：把多次语言回答映射成集合、向量或图，用任务距离最小化Bayes风险合成新结构，再以同一风险估不确定性；无需限于选择现成样本。 最近来源与对照：来源MBR解码、语义聚合/熵；新增在结构空间合成而非只从sample选；比较beam、自一致、最佳sample和多种UQ方法。 边界：需可靠结构提取、任务距离及可实现的逆映射；不是所有指标同步提升，例如摘要F1未必胜其他decode；MC采样成本，Bayes最优仅对所估结构分布和选定损失成立。 PDF第3,4,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tomov26a/tomov26a.pdf	scored
+4466	tonekaboni26a	3	4	4	3	70		新增量/复用/可用/独特性依次评分：冻结单模态编码器后，在共享/各模态私有低秩子空间分别编辑表示，并用跨模态shared加自身private保持信息；缺模态时复用可用模态共享投影。 最近来源与对照：来源LoReFT、DRIM-U、APOLLO和信息分解；比较相同冻结embedding上的解耦/融合模块，非编码器替换收益。 边界：训练需要配对(x1,x2)，非无配对学习；低HSIC或正交不证明语义完全解耦；模拟中private仍含shared信息；受冻结encoder覆盖限制；三模态部分共享因素难解释，未作任意容量等预算保证。 PDF第3,4,5,7,9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tonekaboni26a/tonekaboni26a.pdf	scored
+4467	tong26a	4	4	4	4	80		新增量/复用/可用/独特性依次评分：将图像生成监督组织为草稿→语义修正→美学完善三帧，逐帧独立VAE编码以避免时间压缩引入运动；最终仅解码末帧。 最近来源与对照：来源CoF视觉推理、Wan和编辑模型；比较同backbone最终帧单图微调与轨迹/编码消融，独立点是有序修正监督。 边界：0.55→0.86包含新数据与微调，不能全归因推理链；三帧与单图计算未完全等预算；轨迹改善不证明显式逻辑推理；依赖编辑/验证器数据质量，未测动作决策迁移。 PDF第3,4,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26a/tong26a.pdf	scored
+4468	tong26b							p3–5沿rank将BA分为共享/私有是矩阵乘法恒等式，聚合SVD及OOD重加权来自现成操作；p7异质设置缺同设定竞争对照，p8秩权衡未分离容量/配置；相对FedDPA/PF2LoRA尚未核实可独立带走的新增机制，不能把单adapter无冲突口号当证据。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26b/tong26b.pdf	rule-excluded
+4469	tong26c	4	5	4	4	86		新增量/复用/可用/独特性依次评分：按表示选择扩散目标：RAE高维语义latent配x-pred，低维VAE在细粒度MoE下配v-pred；导航模型优先补通用视频而非只扩域内轨迹。 最近来源与对照：来源Transfusion、RAE、MoE与NWM；增量是条件化选择与等预算混合规律，非首次使用这些模块。 边界：1T多模态与520B纯文本不是等总计算；优先采用文中固定总预算对照；1%为所测数据/模型范围，非通用比例；能力经VQA微调评测，世界模型预测非真机策略安全保证；缩放指数仅拟合范围内。 PDF第3,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26c/tong26c.pdf	scored
+4470	tong26d	4	5	5	4	90		新增量/复用/可用/独特性依次评分：评价代码推理时将同一生成程序分别交给LLM模拟和真实执行器；只有真实执行显著获益时应投资执行可靠性，而非只改写推理表示。 最近来源与对照：来源程序辅助推理；新增中间模拟干预分离同code执行机制，另用回译检查表示信息保留。 边界：NL/模拟仍有prompt与生成trace差异，非独立操纵潜变量的强因果识别；相同程序的执行比较更强；线性理论需共享充分信息和附加正交噪声，不等于任意LLM代码表示必优；单次无修复工具协议。 PDF第3,4,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26d/tong26d.pdf	scored
+4471	tong26e							p3–8的拒绝仍有不安全CoT现象及局部softmax-Jacobian谱差异可作防御线索，但局限固定假新闻提示/标注器与模型，小层段随风格明显变化；未核实相对既有CoT监控/层定位可迁移的稳定诊断准则，谱相关不证明头部安全因果机制，暂不单列。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26e/tong26e.pdf	rule-excluded
 4472	tong26f							待原文复核评分	pending
 4473	tong26g							待原文复核评分	pending
 4474	tong26h							待原文复核评分	pending

@@ -46,6 +46,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="song26t-loss-functions"></a>[Chunk-Guided Q-Learning](../../conferences/icml-2026/cards/4201-4300.md#paper-song26t)
 - <a id="tajwar26a-loss-functions"></a>[Maximum Likelihood Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#paper-tajwar26a)
 - <a id="theodoropoulos26a-loss-functions"></a>[Generalized Schrödinger Bridge on Graphs](../../conferences/icml-2026/cards/4401-4500.md#paper-theodoropoulos26a)
+- <a id="tiofack26a-loss-functions"></a>[SVL: Goal-Conditioned Reinforcement Learning as Survival Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tiofack26a)
 
 <a id="by-optimization"></a>
 
@@ -265,6 +266,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="qian26f-evaluation"></a>[Rationality Measurement and Theory for Reinforcement Learning Agents](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26f)
 - <a id="qian26n-evaluation"></a>[Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26n)
 - <a id="rajabpour26a-evaluation"></a>[Revisiting OOD Generalization in Programmatic RL](../../conferences/icml-2026/cards/3801-3900.md#paper-rajabpour26a)
+- <a id="tomilin26a-evaluation"></a>[MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tomilin26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -66,6 +66,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On the Ability of Transformers to Verify Plans](../../conferences/icml-2026/cards/3901-4000.md#sarrof26a-theory-statistics) · 中文
 - [How RLHF Amplifies Sycophancy](../../conferences/icml-2026/cards/4001-4100.md#shapira26a-theory-statistics) · 中文
 - [GRPO is Secretly a Process Reward Model](../../conferences/icml-2026/cards/4201-4300.md#sullivan26a-theory-statistics) · 中文
+- [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](../../conferences/icml-2026/cards/4401-4500.md#tomlinson26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -554,6 +555,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Gradient Testing and Estimation by Comparisons](../../conferences/icml-2026/cards/4401-4500.md#tao26g-theory-statistics) · 中文
 - [Semi-Supervised Hypothesis Testing by Betting on Predictions](../../conferences/icml-2026/cards/4401-4500.md#tenzer26a-theory-statistics) · 中文
 - [A Tight Theory of Error Feedback Algorithms in Distributed Optimization](../../conferences/icml-2026/cards/4401-4500.md#thomsen26a-theory-statistics) · 中文
+- [LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry](../../conferences/icml-2026/cards/4401-4500.md#tian26n-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -404,6 +404,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="tan26a-optimization"></a>[Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26a)
 - <a id="tao26d-optimization"></a>[Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26d)
 - <a id="tian26a-optimization"></a>[Connecting Independently Trained Modes via Layer-Wise Connectivity](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26a)
+- <a id="timans26a-optimization"></a>[Joint Model and Data Sparsification via the Marginal Likelihood](../../conferences/icml-2026/cards/4401-4500.md#paper-timans26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -484,6 +485,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="sommariva26a-training-strategies"></a>[Distilling Linearized Behavior into Non-linear Fine-Tuning for Effective Task Arithmetic](../../conferences/icml-2026/cards/4101-4200.md#paper-sommariva26a)
 - <a id="song26m-training-strategies"></a>[MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](../../conferences/icml-2026/cards/4201-4300.md#paper-song26m)
 - <a id="tang26g-training-strategies"></a>[Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26g)
+- <a id="tian26l-training-strategies"></a>[Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26l)
 
 <a id="by-data-strategies"></a>
 
@@ -1058,4 +1060,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="tao26g-theory-statistics"></a>[Gradient Testing and Estimation by Comparisons](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26g)
 - <a id="tenzer26a-theory-statistics"></a>[Semi-Supervised Hypothesis Testing by Betting on Predictions](../../conferences/icml-2026/cards/4401-4500.md#paper-tenzer26a)
 - <a id="thomsen26a-theory-statistics"></a>[A Tight Theory of Error Feedback Algorithms in Distributed Optimization](../../conferences/icml-2026/cards/4401-4500.md#paper-thomsen26a)
+- <a id="tian26n-theory-statistics"></a>[LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26n)
 <!-- classification:end -->

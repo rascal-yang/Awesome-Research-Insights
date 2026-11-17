@@ -105,6 +105,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Chunk-Guided Q-Learning](../../conferences/icml-2026/cards/4201-4300.md#song26t-loss-functions) · 中文
 - [Maximum Likelihood Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#tajwar26a-loss-functions) · 中文
 - [Generalized Schrödinger Bridge on Graphs](../../conferences/icml-2026/cards/4401-4500.md#theodoropoulos26a-loss-functions) · 中文
+- [SVL: Goal-Conditioned Reinforcement Learning as Survival Learning](../../conferences/icml-2026/cards/4401-4500.md#tiofack26a-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

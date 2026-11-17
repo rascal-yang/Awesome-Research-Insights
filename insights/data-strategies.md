@@ -78,6 +78,7 @@
 - [knowledge-injection-scaling](../conferences/icml-2026/cards/4301-4400.md#tang26y-data-strategies) · SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection
 - [first-error-local-repair](../conferences/icml-2026/cards/4301-4400.md#tang26aa-data-strategies) · CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling
 - [surprisal-boundary-knowledge-editing](../conferences/icml-2026/cards/4401-4500.md#tian26e-data-strategies) · AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise
+- [预训练AI叙事改变行为先验](../conferences/icml-2026/cards/4401-4500.md#tice26a-data-strategies) · Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment
 
 <a id="by-computer-vision"></a>
 

@@ -66,6 +66,7 @@
 - [Transformer 计划验证的长度外推](../conferences/icml-2026/cards/3901-4000.md#sarrof26a-theory-statistics) · On the Ability of Transformers to Verify Plans
 - [先测奖励差再解释迎合漂移](../conferences/icml-2026/cards/4001-4100.md#shapira26a-theory-statistics) · How RLHF Amplifies Sycophancy
 - [按共享前缀频率重加权GRPO](../conferences/icml-2026/cards/4201-4300.md#sullivan26a-theory-statistics) · GRPO is Secretly a Process Reward Model
+- [有限注意力下CoT预算下界](../conferences/icml-2026/cards/4401-4500.md#tomlinson26a-theory-statistics) · Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -554,6 +555,7 @@
 - [comparison-gradient-direction](../conferences/icml-2026/cards/4401-4500.md#tao26g-theory-statistics) · Gradient Testing and Estimation by Comparisons
 - [bet-on-predictions-with-null-retraining](../conferences/icml-2026/cards/4401-4500.md#tenzer26a-theory-statistics) · Semi-Supervised Hypothesis Testing by Betting on Predictions
 - [error-feedback-heterogeneity-boundary](../conferences/icml-2026/cards/4401-4500.md#thomsen26a-theory-statistics) · A Tight Theory of Error Feedback Algorithms in Distributed Optimization
+- [少查询双样本检验的参考端学习](../conferences/icml-2026/cards/4401-4500.md#tian26n-theory-statistics) · LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry
 
 <a id="by-graph-and-recommendation"></a>
 

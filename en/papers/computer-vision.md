@@ -270,6 +270,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="sun26az-training-strategies"></a>[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26az)
 - <a id="tan26b-training-strategies"></a>[VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26b)
 - <a id="teymourian26a-training-strategies"></a>[SORA: Free Second-Order Attacks in Fast Adversarial Training](../../conferences/icml-2026/cards/4401-4500.md#paper-teymourian26a)
+- <a id="tong26a-training-strategies"></a>[CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26a)
 
 <a id="by-data-strategies"></a>
 
@@ -453,6 +454,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="song26i-representation-learning"></a>[Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes](../../conferences/icml-2026/cards/4201-4300.md#paper-song26i)
 - <a id="sun26ac-representation-learning"></a>[Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ac)
 - <a id="tan26f-representation-learning"></a>[Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26f)
+- <a id="timilsina26a-representation-learning"></a>[Content-Style Identification via Differential Independence](../../conferences/icml-2026/cards/4401-4500.md#paper-timilsina26a)
 
 <a id="by-evaluation"></a>
 

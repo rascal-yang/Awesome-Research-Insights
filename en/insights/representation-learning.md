@@ -82,6 +82,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes](../../conferences/icml-2026/cards/4201-4300.md#song26i-representation-learning) · 中文
 - [Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers](../../conferences/icml-2026/cards/4301-4400.md#sun26ac-representation-learning) · 中文
 - [Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning](../../conferences/icml-2026/cards/4301-4400.md#tan26f-representation-learning) · 中文
+- [Content-Style Identification via Differential Independence](../../conferences/icml-2026/cards/4401-4500.md#timilsina26a-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -182,6 +183,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning](../../conferences/icml-2026/cards/4101-4200.md#shi26l-representation-learning) · 中文
 - [VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](../../conferences/icml-2026/cards/4101-4200.md#shi26z-representation-learning) · 中文
 - [Multimodal Latent Language Modeling with Next-Token Diffusion](../../conferences/icml-2026/cards/4201-4300.md#sun26c-representation-learning) · 中文
+- [MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning](../../conferences/icml-2026/cards/4401-4500.md#tonekaboni26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

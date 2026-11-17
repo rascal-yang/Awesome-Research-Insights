@@ -105,6 +105,7 @@
 - [chunk价值引导单步critic](../conferences/icml-2026/cards/4201-4300.md#song26t-loss-functions) · Chunk-Guided Q-Learning
 - [finite-compute-maxrl](../conferences/icml-2026/cards/4301-4400.md#tajwar26a-loss-functions) · Maximum Likelihood Reinforcement Learning
 - [cost-consistent-graph-transport](../conferences/icml-2026/cards/4401-4500.md#theodoropoulos26a-loss-functions) · Generalized Schrödinger Bridge on Graphs
+- [删失轨迹的生存价值学习](../conferences/icml-2026/cards/4401-4500.md#tiofack26a-loss-functions) · SVL: Goal-Conditioned Reinforcement Learning as Survival Learning
 
 <a id="by-robotics"></a>
 
