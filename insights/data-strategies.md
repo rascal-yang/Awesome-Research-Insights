@@ -106,6 +106,7 @@
 - [按识别特征距离选择扩散混合类别](../conferences/icml-2026/cards/3801-3900.md#rahimi26a-data-strategies) · ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition
 - [用细粒度对象簇训练属性编辑](../conferences/icml-2026/cards/3801-3900.md#reiss26a-data-strategies) · Alterbute: Editing Intrinsic Attributes of Objects in Images
 - [object-conditioned-foveation](../conferences/icml-2026/cards/4401-4500.md#traub26a-data-strategies) · Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation
+- [按频谱和扩散时刻学习选patch](../conferences/icml-2026/cards/4601-4700.md#wang26bq-data-strategies) · FaPS: A General and Fast Training Method for Diffusion Models
 
 <a id="by-nlp"></a>
 

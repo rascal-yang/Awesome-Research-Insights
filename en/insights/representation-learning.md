@@ -28,6 +28,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [From Directions to Regions: Decomposing Activations in Language Models via Local Geometry](../../conferences/icml-2026/cards/4001-4100.md#shafran26a-representation-learning) · 中文
 - [Transformers learn factored representations](../../conferences/icml-2026/cards/4001-4100.md#shai26a-representation-learning) · 中文
 - [Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](../../conferences/icml-2026/cards/4301-4400.md#tan26c-representation-learning) · 中文
+- [Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26bh-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -28,6 +28,7 @@
 - [用局部高斯区域与低秩变化解释模型激活](../conferences/icml-2026/cards/4001-4100.md#shafran26a-representation-learning) · From Directions to Regions: Decomposing Activations in Language Models via Local Geometry
 - [从条件独立性预测 Transformer 会否形成因子正交子空间](../conferences/icml-2026/cards/4001-4100.md#shai26a-representation-learning) · Transformers learn factored representations
 - [无需原语料的局部几何遗忘](../conferences/icml-2026/cards/4301-4400.md#tan26c-representation-learning) · Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure
+- [按激活主子空间初始化稀疏字典](../conferences/icml-2026/cards/4601-4700.md#wang26bh-representation-learning) · Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning
 
 <a id="by-computer-vision"></a>
 

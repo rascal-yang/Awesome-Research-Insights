@@ -86,6 +86,8 @@
 - [trajectory-consistent-koopman](../conferences/icml-2026/cards/4501-4600.md#turan26c-loss-functions) · Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization
 - [head-proxy-cam-distillation](../conferences/icml-2026/cards/4501-4600.md#wan26o-loss-functions) · Shortcut-Resistant CAM Distillation for Long-Tailed Recognition
 - [弱监督指定待移除子空间](../conferences/icml-2026/cards/4601-4700.md#wang26ao-loss-functions) · Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection
+- [难度与不确定性联合长度预算](../conferences/icml-2026/cards/4601-4700.md#wang26ba-loss-functions) · Don’t Overthink with Pixels: Efficient Reasoning for Segmentation
+- [正交重构的风格蒸馏](../conferences/icml-2026/cards/4601-4700.md#wang26bi-loss-functions) · StyleDistillation: A New Insight of Image Style Enables Personalized Aesthetic Manipulation
 
 <a id="by-nlp"></a>
 

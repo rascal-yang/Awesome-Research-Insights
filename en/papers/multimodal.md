@@ -69,6 +69,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="suharitdamrong26a-modules"></a>[CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks](../../conferences/icml-2026/cards/4201-4300.md#paper-suharitdamrong26a)
 - <a id="sun26s-modules"></a>[video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26s)
 - <a id="tian26i-modules"></a>[A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26i)
+- <a id="wang26az-modules"></a>[API: Adaptive Prototype Imputation for Incomplete Multimodal Sentiment Analysis](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26az)
+- <a id="wang26bo-modules"></a>[Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Vision-Language Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bo)
 
 <a id="by-loss-functions"></a>
 

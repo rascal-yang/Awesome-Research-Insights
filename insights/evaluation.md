@@ -330,6 +330,8 @@
 - [research-claim-rediscovery](../conferences/icml-2026/cards/4501-4600.md#wang26d-evaluation) · FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights
 - [Automatic Layer Selection for Hallucination Detection](../conferences/icml-2026/cards/4501-4600.md#wang26r-evaluation) · Automatic Layer Selection for Hallucination Detection
 - [AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../conferences/icml-2026/cards/4601-4700.md#wang26ab-evaluation) · AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition
+- [高熵动作token的中训诊断](../conferences/icml-2026/cards/4601-4700.md#wang26bd-evaluation) · HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench
+- [有限专家池的合并收益预算](../conferences/icml-2026/cards/4601-4700.md#wang26bl-evaluation) · Model Merging Scaling Laws in Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -436,6 +438,7 @@
 - [正常回报掩盖策略后门的压力测试](../conferences/icml-2026/cards/3701-3800.md#qian26n-evaluation) · Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning
 - [复核策略泛化时控制奖励和观察](../conferences/icml-2026/cards/3801-3900.md#rajabpour26a-evaluation) · Revisiting OOD Generalization in Programmatic RL
 - [百任务序列暴露正则塑性失效](../conferences/icml-2026/cards/4401-4500.md#tomilin26a-evaluation) · MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning
+- [跨输入可区分性诊断模板坍缩](../conferences/icml-2026/cards/4601-4700.md#wang26bn-evaluation) · RAGEN-2: Reasoning Collapse in Agentic RL
 
 <a id="by-robotics"></a>
 
@@ -596,6 +599,7 @@
 - [生成公平必须比较组内质量](../conferences/icml-2026/cards/4501-4600.md#verine26a-evaluation) · Equalized Generative Treatment: Matching f-divergences for Fairness in Generative Models
 - [分离语义保持脆弱性和原始误差](../conferences/icml-2026/cards/4501-4600.md#vilucchio26a-evaluation) · On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification
 - [自适应客户端优化器的隐私评测边界](../conferences/icml-2026/cards/4501-4600.md#wan26c-evaluation) · Gradient Inversion Attacks Beyond SGD
+- [配对条件下的模块归因](../conferences/icml-2026/cards/4601-4700.md#wang26ay-evaluation) · CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models
 
 <a id="by-graph-and-recommendation"></a>
 

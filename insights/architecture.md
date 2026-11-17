@@ -280,6 +280,7 @@
 - [让几何路由与概率电路分解对齐](../conferences/icml-2026/cards/4101-4200.md#sidheekh26a-architecture) · Geometry-Aware Probabilistic Circuits via Voronoi Tessellations
 - [小波局部记忆SSM](../conferences/icml-2026/cards/4101-4200.md#solozabal26a-architecture) · WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention
 - [differentiable-parity-projection](../conferences/icml-2026/cards/4401-4500.md#troxell26a-architecture) · Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning
+- [显式谱因子的预测头](../conferences/icml-2026/cards/4601-4700.md#wang26ax-architecture) · Ellipsoidal Time Series Forecasting
 
 <a id="by-graph-and-recommendation"></a>
 

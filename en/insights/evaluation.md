@@ -330,6 +330,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights](../../conferences/icml-2026/cards/4501-4600.md#wang26d-evaluation) · 中文
 - [Automatic Layer Selection for Hallucination Detection](../../conferences/icml-2026/cards/4501-4600.md#wang26r-evaluation) · 中文
 - [AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../../conferences/icml-2026/cards/4601-4700.md#wang26ab-evaluation) · 中文
+- [HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench](../../conferences/icml-2026/cards/4601-4700.md#wang26bd-evaluation) · 中文
+- [Model Merging Scaling Laws in Large Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bl-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -436,6 +438,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qian26n-evaluation) · 中文
 - [Revisiting OOD Generalization in Programmatic RL](../../conferences/icml-2026/cards/3801-3900.md#rajabpour26a-evaluation) · 中文
 - [MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/4401-4500.md#tomilin26a-evaluation) · 中文
+- [RAGEN-2: Reasoning Collapse in Agentic RL](../../conferences/icml-2026/cards/4601-4700.md#wang26bn-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -596,6 +599,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Equalized Generative Treatment: Matching f-divergences for Fairness in Generative Models](../../conferences/icml-2026/cards/4501-4600.md#verine26a-evaluation) · 中文
 - [On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification](../../conferences/icml-2026/cards/4501-4600.md#vilucchio26a-evaluation) · 中文
 - [Gradient Inversion Attacks Beyond SGD](../../conferences/icml-2026/cards/4501-4600.md#wan26c-evaluation) · 中文
+- [CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](../../conferences/icml-2026/cards/4601-4700.md#wang26ay-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

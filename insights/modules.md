@@ -101,6 +101,8 @@
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 - [局部注意力加全局值均值](../conferences/icml-2026/cards/4401-4500.md#tran26g-modules) · SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging
 - [可见区域限制控制残差](../conferences/icml-2026/cards/4601-4700.md#wang26af-modules) · EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance
+- [语义簇软路由分类器残差](../conferences/icml-2026/cards/4601-4700.md#wang26bg-modules) · Granularity-Aware Adaptive Classifier Expansion via Zero-Shot Learning
+- [异质感受野乘法与深层稳定化](../conferences/icml-2026/cards/4601-4700.md#wang26bj-modules) · Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models
 
 <a id="by-nlp"></a>
 
@@ -158,6 +160,8 @@
 - [跨模态低秩中间矩阵](../conferences/icml-2026/cards/4201-4300.md#suharitdamrong26a-modules) · CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks
 - [long-span-fast-weight-memory](../conferences/icml-2026/cards/4201-4300.md#sun26s-modules) · video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM
 - [conflict-aware-evidence-fusion](../conferences/icml-2026/cards/4401-4500.md#tian26i-modules) · A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification
+- [类时序原型的定向插补](../conferences/icml-2026/cards/4601-4700.md#wang26az-modules) · API: Adaptive Prototype Imputation for Incomplete Multimodal Sentiment Analysis
+- [等半径圆周索引与交替几何](../conferences/icml-2026/cards/4601-4700.md#wang26bo-modules) · Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

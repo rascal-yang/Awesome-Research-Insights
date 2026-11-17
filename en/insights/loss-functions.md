@@ -86,6 +86,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization](../../conferences/icml-2026/cards/4501-4600.md#turan26c-loss-functions) · 中文
 - [Shortcut-Resistant CAM Distillation for Long-Tailed Recognition](../../conferences/icml-2026/cards/4501-4600.md#wan26o-loss-functions) · 中文
 - [Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection](../../conferences/icml-2026/cards/4601-4700.md#wang26ao-loss-functions) · 中文
+- [Don’t Overthink with Pixels: Efficient Reasoning for Segmentation](../../conferences/icml-2026/cards/4601-4700.md#wang26ba-loss-functions) · 中文
+- [StyleDistillation: A New Insight of Image Style Enables Personalized Aesthetic Manipulation](../../conferences/icml-2026/cards/4601-4700.md#wang26bi-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

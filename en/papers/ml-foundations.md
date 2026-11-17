@@ -76,6 +76,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="sidheekh26a-architecture"></a>[Geometry-Aware Probabilistic Circuits via Voronoi Tessellations](../../conferences/icml-2026/cards/4101-4200.md#paper-sidheekh26a)
 - <a id="solozabal26a-architecture"></a>[WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](../../conferences/icml-2026/cards/4101-4200.md#paper-solozabal26a)
 - <a id="troxell26a-architecture"></a>[Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-troxell26a)
+- <a id="wang26ax-architecture"></a>[Ellipsoidal Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ax)
 
 <a id="by-modules"></a>
 
@@ -417,6 +418,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="van-waerebeke26a-optimization"></a>[Variance-Reduced $(\varepsilon, δ)-$Unlearning using Forget Set Gradients](../../conferences/icml-2026/cards/4501-4600.md#paper-van-waerebeke26a)
 - <a id="vinas-torne26a-optimization"></a>[PACER: Acyclic Causal Discovery from Large-scale Interventional Data](../../conferences/icml-2026/cards/4501-4600.md#paper-vinas-torne26a)
 - <a id="wang26f-optimization"></a>[Decoupling Regularization and Privacy in Differentially Private Ridge Regression and ERM](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26f)
+- <a id="wang26be-optimization"></a>[Global Credit Assignment via Dynamical Criticality](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26be)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -498,6 +500,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="song26m-training-strategies"></a>[MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](../../conferences/icml-2026/cards/4201-4300.md#paper-song26m)
 - <a id="tang26g-training-strategies"></a>[Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26g)
 - <a id="tian26l-training-strategies"></a>[Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26l)
+- <a id="wang26bc-training-strategies"></a>[Learning Credal Ensembles via Distributionally Robust Optimization](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bc)
 
 <a id="by-data-strategies"></a>
 
@@ -585,6 +588,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="sommer26a-inference"></a>[Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?](../../conferences/icml-2026/cards/4201-4300.md#paper-sommer26a)
 - <a id="sun26ae-inference"></a>[Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ae)
 - <a id="wan26j-inference"></a>[Corrected Samplers for Discrete Flow Models](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26j)
+- <a id="wang26bp-inference"></a>[Effective Model Pruning : Measuring the Redundancy of Model Components](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bp)
 
 <a id="by-representation-learning"></a>
 
@@ -707,6 +711,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="verine26a-evaluation"></a>[Equalized Generative Treatment: Matching f-divergences for Fairness in Generative Models](../../conferences/icml-2026/cards/4501-4600.md#paper-verine26a)
 - <a id="vilucchio26a-evaluation"></a>[On the Existence of Consistent Adversarial Attacks in High-Dimensional Linear Classification](../../conferences/icml-2026/cards/4501-4600.md#paper-vilucchio26a)
 - <a id="wan26c-evaluation"></a>[Gradient Inversion Attacks Beyond SGD](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26c)
+- <a id="wang26ay-evaluation"></a>[CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ay)
 
 <a id="by-theory-statistics"></a>
 

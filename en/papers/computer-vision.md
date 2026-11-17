@@ -119,6 +119,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 - <a id="tran26g-modules"></a>[SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26g)
 - <a id="wang26af-modules"></a>[EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26af)
+- <a id="wang26bg-modules"></a>[Granularity-Aware Adaptive Classifier Expansion via Zero-Shot Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bg)
+- <a id="wang26bj-modules"></a>[Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bj)
 
 <a id="by-loss-functions"></a>
 
@@ -152,6 +154,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="turan26c-loss-functions"></a>[Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization](../../conferences/icml-2026/cards/4501-4600.md#paper-turan26c)
 - <a id="wan26o-loss-functions"></a>[Shortcut-Resistant CAM Distillation for Long-Tailed Recognition](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26o)
 - <a id="wang26ao-loss-functions"></a>[Privacy-Aware Video Anomaly Detection through Orthogonal Subspace Projection](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ao)
+- <a id="wang26ba-loss-functions"></a>[Don’t Overthink with Pixels: Efficient Reasoning for Segmentation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ba)
+- <a id="wang26bi-loss-functions"></a>[StyleDistillation: A New Insight of Image Style Enables Personalized Aesthetic Manipulation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bi)
 
 <a id="by-optimization"></a>
 
@@ -303,6 +307,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="rahimi26a-data-strategies"></a>[ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](../../conferences/icml-2026/cards/3801-3900.md#paper-rahimi26a)
 - <a id="reiss26a-data-strategies"></a>[Alterbute: Editing Intrinsic Attributes of Objects in Images](../../conferences/icml-2026/cards/3801-3900.md#paper-reiss26a)
 - <a id="traub26a-data-strategies"></a>[Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation](../../conferences/icml-2026/cards/4401-4500.md#paper-traub26a)
+- <a id="wang26bq-data-strategies"></a>[FaPS: A General and Fast Training Method for Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bq)
 
 <a id="by-inference"></a>
 

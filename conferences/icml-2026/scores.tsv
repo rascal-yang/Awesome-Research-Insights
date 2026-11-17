@@ -4630,26 +4630,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4629	wang26au	3	3	4	3	64		比非加速sketch推断多出加速动力学的协方差规则，在线逆步长加权估计可直接使用；技术价值主要在已有随机Newton框架，适用模型和谱条件较窄，PDF4–8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26au/wang26au.pdf	scored
 4630	wang26av	3	3	4	3	64		可改变未配对监督的损失分配，区间调制有独立消融；成熟模块较多、验证集中属性回归，新增量/复用/独特性3，页4–8。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26av/wang26av.pdf	scored
 4631	wang26aw							页3–7相较Q-Eval、AIGVQA-DB及已有视频质量模型，主增量是评测数据规模/标注维度，模型采用视觉/时间编码、LoRA、文本等级到数值两阶段训练及现成RL奖励；所核缺少超出这些成熟做法的独立新机制或可改变生成模型研究选择的控制性失败规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26aw/wang26aw.pdf	rule-excluded
-4632	wang26ax							待原文复核评分	pending
-4633	wang26ay							待原文复核评分	pending
-4634	wang26az							待原文复核评分	pending
-4635	wang26ba							待原文复核评分	pending
-4636	wang26bb							待原文复核评分	pending
-4637	wang26bc							待原文复核评分	pending
-4638	wang26bd							待原文复核评分	pending
-4639	wang26be							待原文复核评分	pending
-4640	wang26bf							待原文复核评分	pending
-4641	wang26bg							待原文复核评分	pending
-4642	wang26bh							待原文复核评分	pending
-4643	wang26bi							待原文复核评分	pending
-4644	wang26bj							待原文复核评分	pending
-4645	wang26bk							待原文复核评分	pending
-4646	wang26bl							待原文复核评分	pending
-4647	wang26bm							待原文复核评分	pending
-4648	wang26bn							待原文复核评分	pending
-4649	wang26bo							待原文复核评分	pending
-4650	wang26bp							待原文复核评分	pending
-4651	wang26bq							待原文复核评分	pending
+4632	wang26ax	4	4	3	4	76		新增量4：显式谱因子的预测头；复用4：预测头直接输出非负谱和Householder正交因子，以结构化SPD噪声映射替代任意稠密变换；点损失下谱是内部状态，不能解释为校准协方差。 可用3、独特4：OT精确性只针对固定谱参数的噪声子映射，非context Jacobian或真实预测分布；点损失不识别真实Σ，随机非线性编码不能自动保证单高斯；小R限制容量，patch去掉跨patch协方差。（PDF第3、4、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ax/wang26ax.pdf	scored
+4633	wang26ay	3	4	4	3	70		新增量3：配对条件下的模块归因；复用4：比较时序backbone前先固定/配对其余模块与训练条件，比较边缘化MSE分布；把无编码器的Identity纳入基线，防止把token视图收益归给深层网络。 可用4、独特3：归因依赖所选条件空间与模块兼容性；不证明所有时序任务无需复杂骨干；原TimeMixer最佳值与配对估计协议不同，不能直接比较。（PDF第3、5、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ay/wang26ay.pdf	scored
+4634	wang26az	3	4	4	3	70		新增量3：类时序原型的定向插补；复用4：缺模态时先检索稳定类时序原型，再由可见模态生成方向专用缩放与偏移；静态类先验和实例调制的收益可分开验证。 可用4、独特3：训练检索使用真值类，推理以相似度预测类别，存在失配；7类离散化依赖情感标注，尚未验证无类别传感器缺失或机器人部署。（PDF第4、5、7页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26az/wang26az.pdf	scored
+4635	wang26ba	3	4	4	3	70		新增量3：难度与不确定性联合长度预算；复用4：用外部难度分档和模型top-2概率间隔决定推理长度惩罚：简单样本低预算、困难样本按不确定性增预算，中等样本不约束。 可用4、独特3：难度依赖MLLM打分，概率间隔不等于校准不确定性；预算计数及新综合指标依任务设定，效果不能直接外推所有长推理。（PDF第4、5、7页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ba/wang26ba.pdf	scored
+4636	wang26bb							Game-TARS §3.3已用action-only预测错误定位思考点，再拒绝采样保留导向正确动作的推理并控制密度（https://arxiv.org/html/2510.23691v1#S3.SS3）。本稿独有差别主要是导航重复/无进展oracle定位和A*回溯接续修复（PDF第5–6页§3.5）；Stage2→IRFT还同时增加on-policy/纠正数据，PDF第7–8页表1–2未分离该停滞规则相对既有选择性RFT/专家纠正的可独立增量，故不以导航慢快系统集成单独收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bb/wang26bb.pdf	rule-excluded
+4637	wang26bc	3	4	4	3	70		新增量3：按DRO强度分散集成；复用4：为集成成员设置不同的CVaR保留比例，分别只更新batch最高损失部分；用训练分布假设差异产生分歧，而非只改随机种子。 可用4、独特3：DRO与熵工具本身非新；δG过小导致小batch更新不稳；集合不保证包含真实测试分布，排序与多成员带来训练及UQ成本。（PDF第3、4、6、7页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bc/wang26bc.pdf	scored
+4638	wang26bd	3	3	3	3	60		新增量3：高熵动作token的中训诊断；复用3：中训检查点比较可只在去格式动作token、真值进入top10且top10熵高于(ln3+ln4)/2的集合上，平均真值概率/熵；用于缓解上下文扩展使PPL暂时变差的误判。 可用3、独特3：与SFT同分布的成功轨迹和阈值选择限制外推；高熵峰不证明普遍智能规律；过滤掉真值不在top10的严重错误，不能替代完整能力评测。（PDF第4、6、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bd/wang26bd.pdf	scored
+4639	wang26be	4	4	3	4	76		新增量4：临界RNN的局部闭环教学信号；复用4：在明确时空梯度比例近似下，用局部环路增益修正即时梯度，避免时间展开；必须监测分母稳定性并把临界增益估计当初始化近似。 可用3、独特4：临界性不推出单元梯度比例假设，不是精确BPTT；近奇异分母需保护；O(H)辅助状态不包括稠密循环权重，部分任务精确时间梯度仍优。（PDF第4、5、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26be/wang26be.pdf	scored
+4640	wang26bf							主要为通用3D扩散的35K脸部域微调、既有多视角生成与纹理流程；尺度/平移的轮廓IoU配准用Powell优化，未建立相对已有多视角纹理/配准方法的独立机制增量，改进主要随脸部先验与对齐集成出现（PDF3–6页，§3、§4）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bf/wang26bf.pdf	rule-excluded
+4641	wang26bg	3	3	3	3	60		新增量3：语义簇软路由分类器残差；复用3：零样本扩类中，先以语义混合分布形成粗类软路由，再在共享语义到权重映射上加入簇专用残差，缓解相似类和远类竞争。 可用3、独特3：依赖预训练类别权重、语义质量和簇数；图像不可用设定区别于普通端到端视觉训练，尚无机器人在线扩类证据。（PDF第4、5、6、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bg/wang26bg.pdf	scored
+4642	wang26bh	4	5	4	4	86		新增量4：按激活主子空间初始化稀疏字典；复用5：在attention输出训练大SAE前，先SVD取激活主子空间，把随机解码器投影进去并转置初始化编码器；大字典再配SparseAdam以缓解死特征。 可用4、独特4：有效秩约60%不是精确秩只有0.6d；dinit过小可能漏次要方向，需激活样本/SVD成本；不能把组合收益全部归给初始化。（PDF第4、5、6、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bh/wang26bh.pdf	scored
+4643	wang26bi	3	4	3	3	66		新增量3：正交重构的风格蒸馏；复用4：分解CLIP图像特征时，用内容文本锚、图像风格锚、正交和下调内容分量的重构联合约束，避免风格向量坍缩为零；评估须同时检查内容泄漏。 可用3、独特3：指标表按100倍显示；正交与重构本身不能排除ys=0退化，依赖γ和锚；文本描述不完全可靠，推理存在风格/文本权衡。（PDF第3、4、5、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bi/wang26bi.pdf	scored
+4644	wang26bj	3	4	4	3	70		新增量3：NAFNet §4 Eq4的SimpleGate与Π-Nets早已有无激活乘法；仅异质粗细分支/翻转和深层稳定化作为局部增量。复用4、可用4：接口和稳定化操作明确，PDF第7页粗分支移除−0.5个百分点、等初值自由标量只低0.5个百分点。独特3：整体gate高度可替代，flip未独立消融。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bj/wang26bj.pdf	scored
+4645	wang26bk							MWT已有保留低/高频的递归分解重构层级（Gupta2021 §2.3，PDF第5页：https://proceedings.neurips.cc/paper_files/paper/2021/file/c9e5c2b59d98488fe1070e744041ea0e-Paper.pdf#page=5）；Waveformer已有wavelet域Transformer与物理域分支（§3 Eq13–15：https://arxiv.org/html/2310.04990v1#S3）。本稿PDF第5–6页模块主要把token化、既有子带保留与attention组成U形架构；完整附录PDF第20页表9仅与去attention/strided-conv变体比较，未建立超上述最近机制的独立操作或新增适用边界，气候应用与整体分数不足以单独收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bk/wang26bk.pdf	rule-excluded
+4646	wang26bl	4	4	3	4	76		新增量4：有限专家池的合并收益预算；复用4：用专家子集均值拟合L∞(N)+A(N)/(k+b)，以目标损失和边际收益规划合并数量；不要把均值递减尾当单个专家组合必然改善。 可用3、独特4：有限池无放回采样、固定权重归一化和局部二阶解释；L∞为拟合量；不保证单一子集、新域或k>9外推，也不保证下游任务正确率。（PDF第4、5、7页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bl/wang26bl.pdf	scored
+4647	wang26bm	4	4	3	4	76		新增量4：跨层级联的TEE表征保护；复用4：使相邻decoder直接传递同一正交变换表征，补偿RMSNorm和权重，把TEE交互集中到边界；选混合块大小时同时测吞吐和恢复攻击。 可用3、独特4：依赖可信TEE及指定威胁模型，实验不等同密码学或侧信道保证；LayerNorm需Π1=1，γ零值替换会引入数值误差；硬件与输出头决定实际收益。（PDF第4、5、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bm/wang26bm.pdf	scored
+4648	wang26bn	4	5	4	4	86		新增量4：跨输入可区分性诊断模板坍缩；复用5：监控推理对真实输入相对其他输入的匹配分数，而不只监控单输入熵；用奖励方差过滤训练prompt时同步保留负例和随机奖励边界。 可用4、独特4：代理不是真实MI，跨prompt条件评分仍需计算，不能由已有rollout logprob无代价直接获得；奖励方差可来自噪声，稀疏奖励与激进筛选可能失败，单agent证据。（PDF第3、5、6、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bn/wang26bn.pdf	scored
+4649	wang26bo	4	4	3	4	76		新增量4：等半径圆周索引与交替几何；复用4：把图像token映射到与文本轴正交的等半径圆周，跨层交替圆周/网格索引，以实验控制跨模态几何和图内局部性之间的取舍。 可用3、独特4：PTD实际为距离平均绝对偏差而非方差；等欧氏距离只在相应径向核假设下消除几何项，不保证真实逐坐标RoPE的全部logit同等；圆周需AGE补局部网格先验。（PDF第4、5、6、7、8页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bo/wang26bo.pdf	scored
+4650	wang26bp	3	5	4	3	76		新增量3：重要性有效样本数设剪枝预算；复用5：将非负重要性归一化，保留floor(1/Σω²)个最高分组件，把剪枝预算直接绑定分数集中度；评分质量和真实速度仍需验证。 可用4、独特3：ρ在推导中是保留比例；质量界不等于任务精度保证，loss/Hessian推导针对幅值和局部假设，不能自动覆盖任意语义分数；绝对值不适合符号有意义评分，稀疏率非硬件加速。（PDF第3、5、6、7页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bp/wang26bp.pdf	scored
+4651	wang26bq	3	4	4	3	70		新增量3：按频谱和扩散时刻学习选patch；复用4：patch扩散训练可由频谱+时刻条件门控学习采样分布，再仅训练一个抽样patch；把采样增量与已有patch训练分开比较。 可用4、独特3：部分主表基线数值引用原论文，不能视作全部同机重跑；门控计算和策略方差有成本；理论是带方差残余的平均梯度范数界，非精确收敛保证；迁移到动作扩散未验证。（PDF第4、5、7、8、9页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bq/wang26bq.pdf	scored
 4652	wang26br							待原文复核评分	pending
 4653	wang26bs							待原文复核评分	pending
 4654	wang26bt							待原文复核评分	pending

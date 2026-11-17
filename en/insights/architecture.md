@@ -280,6 +280,7 @@ Model-wide design and information flow.
 - [Geometry-Aware Probabilistic Circuits via Voronoi Tessellations](../../conferences/icml-2026/cards/4101-4200.md#sidheekh26a-architecture) · 中文
 - [WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](../../conferences/icml-2026/cards/4101-4200.md#solozabal26a-architecture) · 中文
 - [Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning](../../conferences/icml-2026/cards/4401-4500.md#troxell26a-architecture) · 中文
+- [Ellipsoidal Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#wang26ax-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

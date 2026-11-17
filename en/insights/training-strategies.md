@@ -388,6 +388,7 @@ Training schedules, curricula, and task or stage composition.
 - [MIMO-LP: A Multi-Input Multi-Output Framework for Subgraph-based Link Prediction](../../conferences/icml-2026/cards/4201-4300.md#song26m-training-strategies) · 中文
 - [Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training](../../conferences/icml-2026/cards/4301-4400.md#tang26g-training-strategies) · 中文
 - [Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels](../../conferences/icml-2026/cards/4401-4500.md#tian26l-training-strategies) · 中文
+- [Learning Credal Ensembles via Distributionally Robust Optimization](../../conferences/icml-2026/cards/4601-4700.md#wang26bc-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

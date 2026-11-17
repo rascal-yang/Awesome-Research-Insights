@@ -106,6 +106,7 @@ Data selection, annotation, augmentation, and sampling.
 - [ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](../../conferences/icml-2026/cards/3801-3900.md#rahimi26a-data-strategies) · 中文
 - [Alterbute: Editing Intrinsic Attributes of Objects in Images](../../conferences/icml-2026/cards/3801-3900.md#reiss26a-data-strategies) · 中文
 - [Looking Locally: Object-Centric Vision Transformers as Foundation Models for Efficient Segmentation](../../conferences/icml-2026/cards/4401-4500.md#traub26a-data-strategies) · 中文
+- [FaPS: A General and Fast Training Method for Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bq-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

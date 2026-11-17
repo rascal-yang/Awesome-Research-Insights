@@ -314,6 +314,7 @@
 - [利用等变性重排量化变换](../conferences/icml-2026/cards/4501-4600.md#van-breugel26a-inference) · FPTQuant: Function-Preserving Transforms for LLM Quantization
 - [reasoning-budget-abandonment](../conferences/icml-2026/cards/4501-4600.md#wan26p-inference) · The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs
 - [Layer-fused query scoring for cache repair](../conferences/icml-2026/cards/4601-4700.md#wang26y-inference) · ProphetKV: User-Query-Driven Selective Recomputation for Efficient KV Cache Reuse in Retrieval-Augmented Generation
+- [跨层级联的TEE表征保护](../conferences/icml-2026/cards/4601-4700.md#wang26bm-inference) · SLIM: Secure and Efficient Inference for Large Language Models on Untrusted Devices via TEEs
 
 <a id="by-computer-vision"></a>
 
@@ -653,6 +654,7 @@
 - [微正则采样噪声纠偏](../conferences/icml-2026/cards/4201-4300.md#sommer26a-inference) · Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?
 - [temperature-amortized-posterior](../conferences/icml-2026/cards/4301-4400.md#sun26ae-inference) · Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation
 - [corrected-discrete-flow-sampling](../conferences/icml-2026/cards/4501-4600.md#wan26j-inference) · Corrected Samplers for Discrete Flow Models
+- [重要性有效样本数设剪枝预算](../conferences/icml-2026/cards/4601-4700.md#wang26bp-inference) · Effective Model Pruning : Measuring the Redundancy of Model Components
 
 <a id="by-graph-and-recommendation"></a>
 

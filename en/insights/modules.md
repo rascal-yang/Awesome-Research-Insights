@@ -101,6 +101,8 @@ Reusable components and local changes to model inputs or connections.
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 - [SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging](../../conferences/icml-2026/cards/4401-4500.md#tran26g-modules) · 中文
 - [EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance](../../conferences/icml-2026/cards/4601-4700.md#wang26af-modules) · 中文
+- [Granularity-Aware Adaptive Classifier Expansion via Zero-Shot Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26bg-modules) · 中文
+- [Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bj-modules) · 中文
 
 <a id="by-nlp"></a>
 
@@ -158,6 +160,8 @@ Reusable components and local changes to model inputs or connections.
 - [CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks](../../conferences/icml-2026/cards/4201-4300.md#suharitdamrong26a-modules) · 中文
 - [video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM](../../conferences/icml-2026/cards/4201-4300.md#sun26s-modules) · 中文
 - [A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification](../../conferences/icml-2026/cards/4401-4500.md#tian26i-modules) · 中文
+- [API: Adaptive Prototype Imputation for Incomplete Multimodal Sentiment Analysis](../../conferences/icml-2026/cards/4601-4700.md#wang26az-modules) · 中文
+- [Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Vision-Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bo-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

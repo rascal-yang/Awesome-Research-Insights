@@ -314,6 +314,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [FPTQuant: Function-Preserving Transforms for LLM Quantization](../../conferences/icml-2026/cards/4501-4600.md#van-breugel26a-inference) · 中文
 - [The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](../../conferences/icml-2026/cards/4501-4600.md#wan26p-inference) · 中文
 - [ProphetKV: User-Query-Driven Selective Recomputation for Efficient KV Cache Reuse in Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4601-4700.md#wang26y-inference) · 中文
+- [SLIM: Secure and Efficient Inference for Large Language Models on Untrusted Devices via TEEs](../../conferences/icml-2026/cards/4601-4700.md#wang26bm-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -653,6 +654,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?](../../conferences/icml-2026/cards/4201-4300.md#sommer26a-inference) · 中文
 - [Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation](../../conferences/icml-2026/cards/4301-4400.md#sun26ae-inference) · 中文
 - [Corrected Samplers for Discrete Flow Models](../../conferences/icml-2026/cards/4501-4600.md#wan26j-inference) · 中文
+- [Effective Model Pruning : Measuring the Redundancy of Model Components](../../conferences/icml-2026/cards/4601-4700.md#wang26bp-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

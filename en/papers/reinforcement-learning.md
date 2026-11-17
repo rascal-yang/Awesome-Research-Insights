@@ -270,6 +270,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="qian26n-evaluation"></a>[Toward Subspace-Perturbed Trajectory-Aware Backdoor Attacks in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26n)
 - <a id="rajabpour26a-evaluation"></a>[Revisiting OOD Generalization in Programmatic RL](../../conferences/icml-2026/cards/3801-3900.md#paper-rajabpour26a)
 - <a id="tomilin26a-evaluation"></a>[MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tomilin26a)
+- <a id="wang26bn-evaluation"></a>[RAGEN-2: Reasoning Collapse in Agentic RL](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bn)
 
 <a id="by-theory-statistics"></a>
 

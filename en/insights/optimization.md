@@ -412,6 +412,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Variance-Reduced $(\varepsilon, δ)-$Unlearning using Forget Set Gradients](../../conferences/icml-2026/cards/4501-4600.md#van-waerebeke26a-optimization) · 中文
 - [PACER: Acyclic Causal Discovery from Large-scale Interventional Data](../../conferences/icml-2026/cards/4501-4600.md#vinas-torne26a-optimization) · 中文
 - [Decoupling Regularization and Privacy in Differentially Private Ridge Regression and ERM](../../conferences/icml-2026/cards/4501-4600.md#wang26f-optimization) · 中文
+- [Global Credit Assignment via Dynamical Criticality](../../conferences/icml-2026/cards/4601-4700.md#wang26be-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

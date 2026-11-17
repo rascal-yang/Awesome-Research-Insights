@@ -921,6 +921,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="van-breugel26a-inference"></a>[FPTQuant: Function-Preserving Transforms for LLM Quantization](../../conferences/icml-2026/cards/4501-4600.md#paper-van-breugel26a)
 - <a id="wan26p-inference"></a>[The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26p)
 - <a id="wang26y-inference"></a>[ProphetKV: User-Query-Driven Selective Recomputation for Efficient KV Cache Reuse in Retrieval-Augmented Generation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26y)
+- <a id="wang26bm-inference"></a>[SLIM: Secure and Efficient Inference for Large Language Models on Untrusted Devices via TEEs](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bm)
 
 <a id="by-representation-learning"></a>
 
@@ -941,6 +942,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shafran26a-representation-learning"></a>[From Directions to Regions: Decomposing Activations in Language Models via Local Geometry](../../conferences/icml-2026/cards/4001-4100.md#paper-shafran26a)
 - <a id="shai26a-representation-learning"></a>[Transformers learn factored representations](../../conferences/icml-2026/cards/4001-4100.md#paper-shai26a)
 - <a id="tan26c-representation-learning"></a>[Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](../../conferences/icml-2026/cards/4301-4400.md#paper-tan26c)
+- <a id="wang26bh-representation-learning"></a>[Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bh)
 
 <a id="by-evaluation"></a>
 
@@ -1263,6 +1265,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26d-evaluation"></a>[FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26d)
 - <a id="wang26r-evaluation"></a>[Automatic Layer Selection for Hallucination Detection](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26r)
 - <a id="wang26ab-evaluation"></a>[AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ab)
+- <a id="wang26bd-evaluation"></a>[HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-bench](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bd)
+- <a id="wang26bl-evaluation"></a>[Model Merging Scaling Laws in Large Language Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bl)
 
 <a id="by-theory-statistics"></a>
 
