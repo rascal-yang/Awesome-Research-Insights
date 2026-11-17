@@ -184,6 +184,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="lyu26a-representation-learning"></a>[General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26a)
 - <a id="lyu26b-representation-learning"></a>[LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26b)
 - <a id="nam26c-representation-learning"></a>[Causal-JEPA: Learning World Models through Object-Level Latent Masking](../../conferences/icml-2026/cards/3401-3500.md#paper-nam26c)
+- <a id="su26c-representation-learning"></a>[World Guidance: World Modeling in Condition Space for Action Generation](../../conferences/icml-2026/cards/4201-4300.md#paper-su26c)
 
 <a id="by-evaluation"></a>
 

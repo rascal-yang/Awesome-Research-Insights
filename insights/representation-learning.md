@@ -126,6 +126,7 @@
 - [分开表示机器人路径形状与速度](../conferences/icml-2026/cards/3101-3200.md#lyu26a-representation-learning) · General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling
 - [以李代数和局部白化量化机器人动作](../conferences/icml-2026/cards/3101-3200.md#lyu26b-representation-learning) · LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment
 - [对象级掩码世界模型](../conferences/icml-2026/cards/3401-3500.md#nam26c-representation-learning) · Causal-JEPA: Learning World Models through Object-Level Latent Masking
+- [动作条件空间世界建模](../conferences/icml-2026/cards/4201-4300.md#su26c-representation-learning) · World Guidance: World Modeling in Condition Space for Action Generation
 
 <a id="by-multimodal"></a>
 

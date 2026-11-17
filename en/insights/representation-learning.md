@@ -126,6 +126,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling](../../conferences/icml-2026/cards/3101-3200.md#lyu26a-representation-learning) · 中文
 - [LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment](../../conferences/icml-2026/cards/3101-3200.md#lyu26b-representation-learning) · 中文
 - [Causal-JEPA: Learning World Models through Object-Level Latent Masking](../../conferences/icml-2026/cards/3401-3500.md#nam26c-representation-learning) · 中文
+- [World Guidance: World Modeling in Condition Space for Action Generation](../../conferences/icml-2026/cards/4201-4300.md#su26c-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 

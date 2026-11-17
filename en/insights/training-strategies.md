@@ -197,6 +197,7 @@ Training schedules, curricula, and task or stage composition.
 - [One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](../../conferences/icml-2026/cards/3901-4000.md#selikhanovych26a-training-strategies) · 中文
 - [PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](../../conferences/icml-2026/cards/4201-4300.md#song26u-training-strategies) · 中文
 - [DomED: Redesigning Ensemble Distillation for Domain Generalization](../../conferences/icml-2026/cards/4201-4300.md#song26af-training-strategies) · 中文
+- [OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection](../../conferences/icml-2026/cards/4201-4300.md#su26h-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -291,6 +292,7 @@ Training schedules, curricula, and task or stage composition.
 - [BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks](../../conferences/icml-2026/cards/3901-4000.md#sabolic26a-training-strategies) · 中文
 - [CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection](../../conferences/icml-2026/cards/4001-4100.md#shen26r-training-strategies) · 中文
 - [Efficient Reasoning with Hidden Thinking](../../conferences/icml-2026/cards/4001-4100.md#shen26s-training-strategies) · 中文
+- [Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation](../../conferences/icml-2026/cards/4201-4300.md#su26n-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

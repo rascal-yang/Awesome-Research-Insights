@@ -59,6 +59,7 @@
 - <a id="shi26n-architecture"></a>[A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research](../conferences/icml-2026/cards/4101-4200.md#paper-shi26n)
 - <a id="shi26q-architecture"></a>[OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale](../conferences/icml-2026/cards/4101-4200.md#paper-shi26q)
 - <a id="song26y-architecture"></a>[Causal Attention with Lookahead Keys](../conferences/icml-2026/cards/4201-4300.md#paper-song26y)
+- <a id="su26a-architecture"></a>[Attention Projection Mixing with Exogenous Anchors](../conferences/icml-2026/cards/4201-4300.md#paper-su26a)
 
 <a id="by-modules"></a>
 
@@ -858,6 +859,7 @@
 - <a id="skifstad26a-inference"></a>[Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](../conferences/icml-2026/cards/4101-4200.md#paper-skifstad26a)
 - <a id="sohn26a-inference"></a>[Process Reward Agents for Steering Knowledge-Intensive Reasoning](../conferences/icml-2026/cards/4101-4200.md#paper-sohn26a)
 - <a id="song26ab-inference"></a>[DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search](../conferences/icml-2026/cards/4201-4300.md#paper-song26ab)
+- <a id="su26o-inference"></a>[Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models](../conferences/icml-2026/cards/4201-4300.md#paper-su26o)
 
 <a id="by-representation-learning"></a>
 
@@ -1166,6 +1168,7 @@
 - <a id="song26v-evaluation"></a>[ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm](../conferences/icml-2026/cards/4201-4300.md#paper-song26v)
 - <a id="song26z-evaluation"></a>[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../conferences/icml-2026/cards/4201-4300.md#paper-song26z)
 - <a id="storf26a-evaluation"></a>[Constitutional Black-Box Monitoring for Scheming in LLM Agents](../conferences/icml-2026/cards/4201-4300.md#paper-storf26a)
+- <a id="subasic26a-evaluation"></a>[Evaluating Language Models in Realistic Conversational Contexts](../conferences/icml-2026/cards/4201-4300.md#paper-subasic26a)
 
 <a id="by-theory-statistics"></a>
 

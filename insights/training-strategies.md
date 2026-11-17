@@ -197,6 +197,7 @@
 - [残差移位扩散的单步超分蒸馏](../conferences/icml-2026/cards/3901-4000.md#selikhanovych26a-training-strategies) · One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation
 - [球面噪声渐变与立方体时序校正](../conferences/icml-2026/cards/4201-4300.md#song26u-training-strategies) · PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation
 - [跨域留出教师蒸馏](../conferences/icml-2026/cards/4201-4300.md#song26af-training-strategies) · DomED: Redesigning Ensemble Distillation for Domain Generalization
+- [梯度证据挖掘未知目标](../conferences/icml-2026/cards/4201-4300.md#su26h-training-strategies) · OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection
 
 <a id="by-nlp"></a>
 
@@ -291,6 +292,7 @@
 - [重写语义不相容的指令响应](../conferences/icml-2026/cards/3901-4000.md#sabolic26a-training-strategies) · BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks
 - [用显式跨模态冲突训练操纵检测](../conferences/icml-2026/cards/4001-4100.md#shen26r-training-strategies) · CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection
 - [以阶段化隐词元压缩多模态推理](../conferences/icml-2026/cards/4001-4100.md#shen26s-training-strategies) · Efficient Reasoning with Hidden Thinking
+- [多内在表征生成辅助理解](../conferences/icml-2026/cards/4201-4300.md#su26n-training-strategies) · Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
 
 <a id="by-ml-foundations"></a>
 

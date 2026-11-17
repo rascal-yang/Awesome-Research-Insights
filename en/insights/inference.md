@@ -298,6 +298,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](../../conferences/icml-2026/cards/4101-4200.md#skifstad26a-inference) · 中文
 - [Process Reward Agents for Steering Knowledge-Intensive Reasoning](../../conferences/icml-2026/cards/4101-4200.md#sohn26a-inference) · 中文
 - [DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search](../../conferences/icml-2026/cards/4201-4300.md#song26ab-inference) · 中文
+- [Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models](../../conferences/icml-2026/cards/4201-4300.md#su26o-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -399,6 +400,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping](../../conferences/icml-2026/cards/4101-4200.md#shin26b-inference) · 中文
 - [Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation](../../conferences/icml-2026/cards/4101-4200.md#so26a-inference) · 中文
 - [GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#song26k-inference) · 中文
+- [Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../../conferences/icml-2026/cards/4201-4300.md#su26r-inference) · 中文
 
 <a id="by-nlp"></a>
 

@@ -218,6 +218,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="sabolic26a-training-strategies"></a>[BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks](../../conferences/icml-2026/cards/3901-4000.md#paper-sabolic26a)
 - <a id="shen26r-training-strategies"></a>[CORE: Conflict-Oriented Reasoning for General Multimodal Manipulation Detection](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26r)
 - <a id="shen26s-training-strategies"></a>[Efficient Reasoning with Hidden Thinking](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26s)
+- <a id="su26n-training-strategies"></a>[Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation](../../conferences/icml-2026/cards/4201-4300.md#paper-su26n)
 
 <a id="by-data-strategies"></a>
 

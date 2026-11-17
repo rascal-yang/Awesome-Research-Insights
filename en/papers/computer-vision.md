@@ -141,6 +141,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="rakitin26a-loss-functions"></a>[One-step Optimal Transport via Regularized Distribution Matching Distillation](../../conferences/icml-2026/cards/3801-3900.md#paper-rakitin26a)
 - <a id="shen26g-loss-functions"></a>[Rényi Diffusion Models](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26g)
 - <a id="simion26a-loss-functions"></a>[3DPoV: Improving 3D understanding via Patch Ordering on Videos](../../conferences/icml-2026/cards/4101-4200.md#paper-simion26a)
+- <a id="su26b-loss-functions"></a>[PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection](../../conferences/icml-2026/cards/4201-4300.md#paper-su26b)
 
 <a id="by-optimization"></a>
 
@@ -258,6 +259,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="selikhanovych26a-training-strategies"></a>[One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation](../../conferences/icml-2026/cards/3901-4000.md#paper-selikhanovych26a)
 - <a id="song26u-training-strategies"></a>[PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation](../../conferences/icml-2026/cards/4201-4300.md#paper-song26u)
 - <a id="song26af-training-strategies"></a>[DomED: Redesigning Ensemble Distillation for Domain Generalization](../../conferences/icml-2026/cards/4201-4300.md#paper-song26af)
+- <a id="su26h-training-strategies"></a>[OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection](../../conferences/icml-2026/cards/4201-4300.md#paper-su26h)
 
 <a id="by-data-strategies"></a>
 
@@ -382,6 +384,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="shin26b-inference"></a>[Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping](../../conferences/icml-2026/cards/4101-4200.md#paper-shin26b)
 - <a id="so26a-inference"></a>[Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation](../../conferences/icml-2026/cards/4101-4200.md#paper-so26a)
 - <a id="song26k-inference"></a>[GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#paper-song26k)
+- <a id="su26r-inference"></a>[Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective](../../conferences/icml-2026/cards/4201-4300.md#paper-su26r)
 
 <a id="by-representation-learning"></a>
 

@@ -59,6 +59,7 @@ Model-wide design and information flow.
 - [A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research](../../conferences/icml-2026/cards/4101-4200.md#shi26n-architecture) · 中文
 - [OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale](../../conferences/icml-2026/cards/4101-4200.md#shi26q-architecture) · 中文
 - [Causal Attention with Lookahead Keys](../../conferences/icml-2026/cards/4201-4300.md#song26y-architecture) · 中文
+- [Attention Projection Mixing with Exogenous Anchors](../../conferences/icml-2026/cards/4201-4300.md#su26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 

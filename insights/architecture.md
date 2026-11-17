@@ -59,6 +59,7 @@
 - [把知识缺口与报告提纲分图维护](../conferences/icml-2026/cards/4101-4200.md#shi26n-architecture) · A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research
 - [把原子专家按专家重排执行](../conferences/icml-2026/cards/4101-4200.md#shi26q-architecture) · OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale
 - [保持因果性的动态旧key](../conferences/icml-2026/cards/4201-4300.md#song26y-architecture) · Causal Attention with Lookahead Keys
+- [外源注意力锚与归一化](../conferences/icml-2026/cards/4201-4300.md#su26a-architecture) · Attention Projection Mixing with Exogenous Anchors
 
 <a id="by-computer-vision"></a>
 

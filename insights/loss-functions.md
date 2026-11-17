@@ -75,6 +75,7 @@
 - [同时拟合目标域和限制实例改动](../conferences/icml-2026/cards/3801-3900.md#rakitin26a-loss-functions) · One-step Optimal Transport via Regularized Distribution Matching Distillation
 - [用 Rényi 散度调整扩散训练的覆盖和保真](../conferences/icml-2026/cards/4001-4100.md#shen26g-loss-functions) · Rényi Diffusion Models
 - [沿视频轨迹对齐参考相似度的排序](../conferences/icml-2026/cards/4101-4200.md#simion26a-loss-functions) · 3DPoV: Improving 3D understanding via Patch Ordering on Videos
+- [真值与扩张框语义对比奖励](../conferences/icml-2026/cards/4201-4300.md#su26b-loss-functions) · PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection
 
 <a id="by-nlp"></a>
 

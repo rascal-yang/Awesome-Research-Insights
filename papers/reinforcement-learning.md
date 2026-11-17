@@ -185,6 +185,7 @@
 - <a id="shakeri26a-reinforcement-learning"></a>[Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL](../conferences/icml-2026/cards/4001-4100.md#paper-shakeri26a)
 - <a id="shehmar26a-reinforcement-learning"></a>[Laplacian Representations for Decision-Time Planning](../conferences/icml-2026/cards/4001-4100.md#paper-shehmar26a)
 - <a id="shen26m-reinforcement-learning"></a>[REG: In-Sample RL via Regularizing the Evaluation Gap](../conferences/icml-2026/cards/4001-4100.md#paper-shen26m)
+- <a id="su26m-reinforcement-learning"></a>[Multi-timescale Reinforcement Learning by Value Reconstruction](../conferences/icml-2026/cards/4201-4300.md#paper-su26m)
 
 <a id="by-training-strategies"></a>
 

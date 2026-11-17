@@ -298,6 +298,7 @@
 - [离线线性化与在线反馈steering](../conferences/icml-2026/cards/4101-4200.md#skifstad26a-inference) · Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control
 - [在线检索过程奖励](../conferences/icml-2026/cards/4101-4200.md#sohn26a-inference) · Process Reward Agents for Steering Knowledge-Intensive Reasoning
 - [分块扩散搜索](../conferences/icml-2026/cards/4201-4300.md#song26ab-inference) · DiffuReason: Enhancing Reasoning Ability for Diffusion Language Models via Monte Carlo Tree Search
+- [生成中持续适配MoE路由](../conferences/icml-2026/cards/4201-4300.md#su26o-inference) · Rewiring Experts on the Fly: Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert Models
 
 <a id="by-computer-vision"></a>
 
@@ -399,6 +400,7 @@
 - [单边曲率的扩散逆问题校正](../conferences/icml-2026/cards/4101-4200.md#shin26b-inference) · Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping
 - [耦合自草稿采样](../conferences/icml-2026/cards/4101-4200.md#so26a-inference) · Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation
 - [目标预测熵选视角](../conferences/icml-2026/cards/4201-4300.md#song26k-inference) · GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction
+- [按异质类型分配深度剪枝预算](../conferences/icml-2026/cards/4201-4300.md#su26r-inference) · Rethinking Depth Pruning for Vision Transformers: A Heterogeneity-Aware Perspective
 
 <a id="by-nlp"></a>
 

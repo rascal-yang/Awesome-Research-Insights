@@ -3993,4 +3993,13 @@ stein26a	robotics	theory-statistics
 stein26b	ml-foundations	theory-statistics
 stevinson26a	ml-foundations	evaluation
 storf26a	llm	evaluation
+su26a	llm	architecture
+su26b	computer-vision	loss-functions
+su26c	robotics	representation-learning
+su26h	computer-vision	training-strategies
+su26m	reinforcement-learning	reinforcement-learning
+su26n	multimodal	training-strategies
+su26o	llm	inference
+su26r	computer-vision	inference
+subasic26a	llm	evaluation
 tian26k	computer-vision	modules

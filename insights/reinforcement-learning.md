@@ -327,6 +327,7 @@
 - [按传播影响分层观测并用回报分布评估双峰级联](../conferences/icml-2026/cards/4001-4100.md#shakeri26a-reinforcement-learning) · Closing the Sim-to-Real Gap in Network Spreading Processes via GPU-Accelerated Distributional RL
 - [用拉普拉斯状态距离做逐段规划](../conferences/icml-2026/cards/4001-4100.md#shehmar26a-reinforcement-learning) · Laplacian Representations for Decision-Time Planning
 - [控制离线评估差距及正交策略更新](../conferences/icml-2026/cards/4001-4100.md#shen26m-reinforcement-learning) · REG: In-Sample RL via Regularizing the Evaluation Gap
+- [多折扣价值与奖励重构](../conferences/icml-2026/cards/4201-4300.md#su26m-reinforcement-learning) · Multi-timescale Reinforcement Learning by Value Reconstruction
 
 <a id="by-robotics"></a>
 

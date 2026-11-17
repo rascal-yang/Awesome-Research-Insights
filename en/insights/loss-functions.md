@@ -75,6 +75,7 @@ Objectives, auxiliary supervision, and regularization.
 - [One-step Optimal Transport via Regularized Distribution Matching Distillation](../../conferences/icml-2026/cards/3801-3900.md#rakitin26a-loss-functions) · 中文
 - [Rényi Diffusion Models](../../conferences/icml-2026/cards/4001-4100.md#shen26g-loss-functions) · 中文
 - [3DPoV: Improving 3D understanding via Patch Ordering on Videos](../../conferences/icml-2026/cards/4101-4200.md#simion26a-loss-functions) · 中文
+- [PMSPO: Progressive Matching and Semantic-Aware Policy Optimization for Camouflaged Object Detection](../../conferences/icml-2026/cards/4201-4300.md#su26b-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

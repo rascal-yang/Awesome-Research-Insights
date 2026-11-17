@@ -297,6 +297,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm](../../conferences/icml-2026/cards/4201-4300.md#song26v-evaluation) · 中文
 - [NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../../conferences/icml-2026/cards/4201-4300.md#song26z-evaluation) · 中文
 - [Constitutional Black-Box Monitoring for Scheming in LLM Agents](../../conferences/icml-2026/cards/4201-4300.md#storf26a-evaluation) · 中文
+- [Evaluating Language Models in Realistic Conversational Contexts](../../conferences/icml-2026/cards/4201-4300.md#subasic26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
