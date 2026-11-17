@@ -164,6 +164,7 @@
 - [把裁判置信度训练为人类一致性排序](../conferences/icml-2026/cards/1901-2000.md#jin26h-evaluation) · Margin-Adaptive Confidence Ranking for Reliable LLM Judgement
 - [分开评测代理的环境识别和拒绝](../conferences/icml-2026/cards/1901-2000.md#jones26a-evaluation) · A New Framework for Cybersecurity Refusals in AI Agents
 - [用执行反馈搜寻良性指令下的意外风险](../conferences/icml-2026/cards/1901-2000.md#jones26b-evaluation) · When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents
+- [将数据影响沿循环计算的各步展开](../conferences/icml-2026/cards/2001-2100.md#kaissis26a-evaluation) · Step-Resolved Data Attribution for Looped Transformers
 
 <a id="by-computer-vision"></a>
 
@@ -277,6 +278,7 @@
 - [先验证棋盘读数再测规则推理](../conferences/icml-2026/cards/1901-2000.md#jin26a-evaluation) · Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay
 - [在球面估计嵌入密度作不确定性代理](../conferences/icml-2026/cards/2001-2100.md#ju26b-evaluation) · Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching
 - [用因果补丁定位跨模态注意力汇点](../conferences/icml-2026/cards/2001-2100.md#jung26c-evaluation) · Probing Cross-modal Information Hubs in Audio-Visual LLMs
+- [用注意力特征摊销推理中的区域消融归因](../conferences/icml-2026/cards/2001-2100.md#kang26d-evaluation) · Real-Time Visual Attribution Streaming in Thinking Model
 
 <a id="by-ml-foundations"></a>
 

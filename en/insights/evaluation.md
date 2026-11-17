@@ -164,6 +164,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Margin-Adaptive Confidence Ranking for Reliable LLM Judgement](../../conferences/icml-2026/cards/1901-2000.md#jin26h-evaluation) · 中文
 - [A New Framework for Cybersecurity Refusals in AI Agents](../../conferences/icml-2026/cards/1901-2000.md#jones26a-evaluation) · 中文
 - [When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents](../../conferences/icml-2026/cards/1901-2000.md#jones26b-evaluation) · 中文
+- [Step-Resolved Data Attribution for Looped Transformers](../../conferences/icml-2026/cards/2001-2100.md#kaissis26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -277,6 +278,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay](../../conferences/icml-2026/cards/1901-2000.md#jin26a-evaluation) · 中文
 - [Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching](../../conferences/icml-2026/cards/2001-2100.md#ju26b-evaluation) · 中文
 - [Probing Cross-modal Information Hubs in Audio-Visual LLMs](../../conferences/icml-2026/cards/2001-2100.md#jung26c-evaluation) · 中文
+- [Real-Time Visual Attribution Streaming in Thinking Model](../../conferences/icml-2026/cards/2001-2100.md#kang26d-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -324,6 +324,7 @@
 - [截取未来窗口估计非平稳实验的累积效应](../conferences/icml-2026/cards/1901-2000.md#johari26a-theory-statistics) · Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator
 - [用可行余量调节约束势博弈步长](../conferences/icml-2026/cards/2001-2100.md#jordan26a-theory-statistics) · Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation
 - [用近线性的距离界转移高斯混合的风险保证](../conferences/icml-2026/cards/2001-2100.md#jung26b-theory-statistics) · Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures
+- [用含噪排序在内在子空间寻找下降方向](../conferences/icml-2026/cards/2001-2100.md#kadi26a-theory-statistics) · Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

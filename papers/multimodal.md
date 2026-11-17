@@ -113,6 +113,7 @@
 - <a id="jiang26q-training-strategies"></a>[Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26q)
 - <a id="jiang26s-training-strategies"></a>[KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26s)
 - <a id="jiang26ag-training-strategies"></a>[OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ag)
+- <a id="kang26c-training-strategies"></a>[Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26c)
 
 <a id="by-data-strategies"></a>
 
@@ -246,6 +247,7 @@
 - <a id="jin26a-evaluation"></a>[Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay](../conferences/icml-2026/cards/1901-2000.md#paper-jin26a)
 - <a id="ju26b-evaluation"></a>[Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching](../conferences/icml-2026/cards/2001-2100.md#paper-ju26b)
 - <a id="jung26c-evaluation"></a>[Probing Cross-modal Information Hubs in Audio-Visual LLMs](../conferences/icml-2026/cards/2001-2100.md#paper-jung26c)
+- <a id="kang26d-evaluation"></a>[Real-Time Visual Attribution Streaming in Thinking Model](../conferences/icml-2026/cards/2001-2100.md#paper-kang26d)
 
 <a id="by-theory-statistics"></a>
 

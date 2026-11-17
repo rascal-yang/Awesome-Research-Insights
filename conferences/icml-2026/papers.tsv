@@ -2019,18 +2019,18 @@ number	pmlr_id	title	paper_url	insight_status
 2018	jung26i	Segment-driven Structural Induction and Semantic Alignment for Heterogeneous Tabular Representation	https://proceedings.mlr.press/v306/jung26i.html	written
 2019	junger26a	Self-Augmenting Retrieval for Diffusion Language Models	https://proceedings.mlr.press/v306/junger26a.html	written
 2020	just26a	The Signal is in the Steps: Local Scoring for Reasoning Data Selection	https://proceedings.mlr.press/v306/just26a.html	written
-2021	kaczer26a	In-Training Defenses Against Emergent Misalignment in Language Models	https://proceedings.mlr.press/v306/kaczer26a.html	pending
-2022	kadi26a	Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization	https://proceedings.mlr.press/v306/kadi26a.html	pending
-2023	kaissis26a	Step-Resolved Data Attribution for Looped Transformers	https://proceedings.mlr.press/v306/kaissis26a.html	pending
-2024	kallini26a	Fast Byte Latent Transformer	https://proceedings.mlr.press/v306/kallini26a.html	pending
-2025	kaminsky26a	Overcoming PINNs Failure Modes In High Dimension With Low-Rank Fourier Sum	https://proceedings.mlr.press/v306/kaminsky26a.html	pending
-2026	kang26a	Time-Conditioned Foreseeing: An EHR-Specific Foundation Model for Irregular Dynamics and Calendrical Time	https://proceedings.mlr.press/v306/kang26a.html	pending
-2027	kang26b	ACON: Optimizing Context Compression for Long-horizon LLM Agents	https://proceedings.mlr.press/v306/kang26b.html	pending
-2028	kang26c	Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning	https://proceedings.mlr.press/v306/kang26c.html	pending
-2029	kang26d	Real-Time Visual Attribution Streaming in Thinking Model	https://proceedings.mlr.press/v306/kang26d.html	pending
-2030	kang26e	Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning	https://proceedings.mlr.press/v306/kang26e.html	pending
-2031	kang26f	Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning	https://proceedings.mlr.press/v306/kang26f.html	pending
-2032	kang26g	A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks	https://proceedings.mlr.press/v306/kang26g.html	pending
+2021	kaczer26a	In-Training Defenses Against Emergent Misalignment in Language Models	https://proceedings.mlr.press/v306/kaczer26a.html	written
+2022	kadi26a	Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization	https://proceedings.mlr.press/v306/kadi26a.html	written
+2023	kaissis26a	Step-Resolved Data Attribution for Looped Transformers	https://proceedings.mlr.press/v306/kaissis26a.html	written
+2024	kallini26a	Fast Byte Latent Transformer	https://proceedings.mlr.press/v306/kallini26a.html	written
+2025	kaminsky26a	Overcoming PINNs Failure Modes In High Dimension With Low-Rank Fourier Sum	https://proceedings.mlr.press/v306/kaminsky26a.html	written
+2026	kang26a	Time-Conditioned Foreseeing: An EHR-Specific Foundation Model for Irregular Dynamics and Calendrical Time	https://proceedings.mlr.press/v306/kang26a.html	written
+2027	kang26b	ACON: Optimizing Context Compression for Long-horizon LLM Agents	https://proceedings.mlr.press/v306/kang26b.html	written
+2028	kang26c	Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning	https://proceedings.mlr.press/v306/kang26c.html	written
+2029	kang26d	Real-Time Visual Attribution Streaming in Thinking Model	https://proceedings.mlr.press/v306/kang26d.html	written
+2030	kang26e	Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning	https://proceedings.mlr.press/v306/kang26e.html	written
+2031	kang26f	Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning	https://proceedings.mlr.press/v306/kang26f.html	written
+2032	kang26g	A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks	https://proceedings.mlr.press/v306/kang26g.html	written
 2033	kang26h	Transformers Can Learn Posterior Predictive Distributions In-Context	https://proceedings.mlr.press/v306/kang26h.html	pending
 2034	kang26i	Moving Out: Physically-grounded Human-AI Collaboration	https://proceedings.mlr.press/v306/kang26i.html	pending
 2035	kang26j	ThunderAgent: A Fast, Simple, and Program-Aware Agentic Inference System	https://proceedings.mlr.press/v306/kang26j.html	pending

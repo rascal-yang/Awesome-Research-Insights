@@ -205,4 +205,6 @@ Model-wide design and information flow.
 - [Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling](../../conferences/icml-2026/cards/1901-2000.md#jin26p-architecture) · 中文
 - [Scaling-Aware Adapter for Structure-Grounded LLM Reasoning](../../conferences/icml-2026/cards/1901-2000.md#jing26h-architecture) · 中文
 - [Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems](../../conferences/icml-2026/cards/2001-2100.md#ju26a-architecture) · 中文
+- [Overcoming PINNs Failure Modes In High Dimension With Low-Rank Fourier Sum](../../conferences/icml-2026/cards/2001-2100.md#kaminsky26a-architecture) · 中文
+- [Time-Conditioned Foreseeing: An EHR-Specific Foundation Model for Irregular Dynamics and Calendrical Time](../../conferences/icml-2026/cards/2001-2100.md#kang26a-architecture) · 中文
 <!-- classification:end -->

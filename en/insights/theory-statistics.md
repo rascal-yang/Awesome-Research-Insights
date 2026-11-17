@@ -324,6 +324,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator](../../conferences/icml-2026/cards/1901-2000.md#johari26a-theory-statistics) · 中文
 - [Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation](../../conferences/icml-2026/cards/2001-2100.md#jordan26a-theory-statistics) · 中文
 - [Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures](../../conferences/icml-2026/cards/2001-2100.md#jung26b-theory-statistics) · 中文
+- [Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization](../../conferences/icml-2026/cards/2001-2100.md#kadi26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

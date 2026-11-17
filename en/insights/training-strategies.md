@@ -66,6 +66,7 @@ Training schedules, curricula, and task or stage composition.
 - [Configurable Reward Model for Balanced Safety Alignment](../../conferences/icml-2026/cards/1901-2000.md#jiang26v-training-strategies) · 中文
 - [Procedural Pretraining: Warming Up Language Models with Abstract Data](../../conferences/icml-2026/cards/1901-2000.md#jiang26ap-training-strategies) · 中文
 - [InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining](../../conferences/icml-2026/cards/1901-2000.md#jing26g-training-strategies) · 中文
+- [In-Training Defenses Against Emergent Misalignment in Language Models](../../conferences/icml-2026/cards/2001-2100.md#kaczer26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -91,6 +92,7 @@ Training schedules, curricula, and task or stage composition.
 - [Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion](../../conferences/icml-2026/cards/1501-1600.md#he26aw-training-strategies) · 中文
 - [Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels](../../conferences/icml-2026/cards/1601-1700.md#hou26b-training-strategies) · 中文
 - [Scalable GANs with Transformers](../../conferences/icml-2026/cards/1801-1900.md#hyun26a-training-strategies) · 中文
+- [Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26e-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -135,6 +137,7 @@ Training schedules, curricula, and task or stage composition.
 - [Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing](../../conferences/icml-2026/cards/1901-2000.md#jiang26q-training-strategies) · 中文
 - [KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls](../../conferences/icml-2026/cards/1901-2000.md#jiang26s-training-strategies) · 中文
 - [OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning](../../conferences/icml-2026/cards/1901-2000.md#jiang26ag-training-strategies) · 中文
+- [Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26c-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

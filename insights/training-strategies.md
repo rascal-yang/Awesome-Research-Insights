@@ -66,6 +66,7 @@
 - [按安全配置改变标签并维护严重度排序](../conferences/icml-2026/cards/1901-2000.md#jiang26v-training-strategies) · Configurable Reward Model for Balanced Safety Alignment
 - [把少量可程序生成的结构任务放到预训练开头](../conferences/icml-2026/cards/1901-2000.md#jiang26ap-training-strategies) · Procedural Pretraining: Warming Up Language Models with Abstract Data
 - [让扩散预训练掩码随模型成熟度改变](../conferences/icml-2026/cards/1901-2000.md#jing26g-training-strategies) · InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining
+- [按安全与失准模型的似然差挑交错样本](../conferences/icml-2026/cards/2001-2100.md#kaczer26a-training-strategies) · In-Training Defenses Against Emergent Misalignment in Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -91,6 +92,7 @@
 - [先筛稳定样本再削弱纹理捷径](../conferences/icml-2026/cards/1501-1600.md#he26aw-training-strategies) · Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion
 - [直接预测标签以积累跨轮不一致性](../conferences/icml-2026/cards/1601-1700.md#hou26b-training-strategies) · Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels
 - [用分级加噪监督激活生成器早层](../conferences/icml-2026/cards/1801-1900.md#hyun26a-training-strategies) · Scalable GANs with Transformers
+- [保留槽位的因素分区并在学习后回放解码器](../conferences/icml-2026/cards/2001-2100.md#kang26e-training-strategies) · Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning
 
 <a id="by-nlp"></a>
 
@@ -135,6 +137,7 @@
 - [分阶段监督文档结构和细粒度内容](../conferences/icml-2026/cards/1901-2000.md#jiang26q-training-strategies) · Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing
 - [用旧知识激活的零空间初始化新适配器](../conferences/icml-2026/cards/1901-2000.md#jiang26s-training-strategies) · KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls
 - [把 OCR 教师监督和按版面元素的奖励结合](../conferences/icml-2026/cards/1901-2000.md#jiang26ag-training-strategies) · OvisOCR: End-to-End Document Parsing via Aligning Specialized Perception with General Reasoning
+- [按任务相似度降权检查基础能力遗忘](../conferences/icml-2026/cards/2001-2100.md#kang26c-training-strategies) · Don’t Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning
 
 <a id="by-ml-foundations"></a>
 

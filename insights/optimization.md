@@ -67,6 +67,7 @@
 - [对角曲率配合高斯参数信赖域](../conferences/icml-2026/cards/1601-1700.md#hsiao26a-optimization) · 3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting
 - [把奖励梯度投影成保持噪声统计的方向](../conferences/icml-2026/cards/1701-1800.md#hwang26h-optimization) · Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation
 - [在共享参数的单流生成器解耦擦除更新](../conferences/icml-2026/cards/1901-2000.md#jiang26i-optimization) · Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers
+- [按时空梯度变化调整发放阈值附近的替代梯度](../conferences/icml-2026/cards/2001-2100.md#kang26g-optimization) · A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks
 
 <a id="by-nlp"></a>
 

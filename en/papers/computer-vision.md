@@ -90,6 +90,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hsiao26a-optimization"></a>[3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](../../conferences/icml-2026/cards/1601-1700.md#paper-hsiao26a)
 - <a id="hwang26h-optimization"></a>[Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26h)
 - <a id="jiang26i-optimization"></a>[Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26i)
+- <a id="kang26g-optimization"></a>[A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26g)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -127,6 +128,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="he26aw-training-strategies"></a>[Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion](../../conferences/icml-2026/cards/1501-1600.md#paper-he26aw)
 - <a id="hou26b-training-strategies"></a>[Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26b)
 - <a id="hyun26a-training-strategies"></a>[Scalable GANs with Transformers](../../conferences/icml-2026/cards/1801-1900.md#paper-hyun26a)
+- <a id="kang26e-training-strategies"></a>[Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26e)
 
 <a id="by-data-strategies"></a>
 

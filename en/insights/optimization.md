@@ -67,6 +67,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](../../conferences/icml-2026/cards/1601-1700.md#hsiao26a-optimization) · 中文
 - [Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation](../../conferences/icml-2026/cards/1701-1800.md#hwang26h-optimization) · 中文
 - [Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](../../conferences/icml-2026/cards/1901-2000.md#jiang26i-optimization) · 中文
+- [A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks](../../conferences/icml-2026/cards/2001-2100.md#kang26g-optimization) · 中文
 
 <a id="by-nlp"></a>
 

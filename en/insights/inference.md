@@ -140,6 +140,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](../../conferences/icml-2026/cards/1901-2000.md#jo26a-inference) · 中文
 - [PEARL: Differentially Private and Entropy-Aware Regulated Language Generation](../../conferences/icml-2026/cards/1901-2000.md#joo26a-inference) · 中文
 - [Self-Augmenting Retrieval for Diffusion Language Models](../../conferences/icml-2026/cards/2001-2100.md#junger26a-inference) · 中文
+- [Fast Byte Latent Transformer](../../conferences/icml-2026/cards/2001-2100.md#kallini26a-inference) · 中文
+- [ACON: Optimizing Context Compression for Long-horizon LLM Agents](../../conferences/icml-2026/cards/2001-2100.md#kang26b-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

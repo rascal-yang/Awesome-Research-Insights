@@ -205,4 +205,6 @@
 - [把晶体张量等变性放到笛卡尔基组装](../conferences/icml-2026/cards/1901-2000.md#jin26p-architecture) · Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling
 - [按全原子结构复杂度分配语言连接词元](../conferences/icml-2026/cards/1901-2000.md#jing26h-architecture) · Scaling-Aware Adapter for Structure-Grounded LLM Reasoning
 - [用局部网格传播和全局注意共享物理算子](../conferences/icml-2026/cards/2001-2100.md#ju26a-architecture) · Adaptive Physics Transformer with Fused Global-Local Attention for Subsurface Energy Systems
+- [用可分离谱因子解析计算高维物理残差](../conferences/icml-2026/cards/2001-2100.md#kaminsky26a-architecture) · Overcoming PINNs Failure Modes In High Dimension With Low-Rank Fourier Sum
+- [将临床事件的时间与内容分别预训练](../conferences/icml-2026/cards/2001-2100.md#kang26a-architecture) · Time-Conditioned Foreseeing: An EHR-Specific Foundation Model for Irregular Dynamics and Calendrical Time
 <!-- classification:end -->

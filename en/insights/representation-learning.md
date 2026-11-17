@@ -68,6 +68,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks](../../conferences/icml-2026/cards/1701-1800.md#huber26a-representation-learning) · 中文
 - [Action-Sufficient Goal Representations](../../conferences/icml-2026/cards/1801-1900.md#hyeon26a-representation-learning) · 中文
 - [Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions](../../conferences/icml-2026/cards/1801-1900.md#je-gal26a-representation-learning) · 中文
+- [Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26f-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 

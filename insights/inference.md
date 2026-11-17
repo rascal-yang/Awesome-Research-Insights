@@ -140,6 +140,8 @@
 - [每层临时压缩注意力词元再还原](../conferences/icml-2026/cards/1901-2000.md#jo26a-inference) · Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection
 - [按置信差设计私有生成后的句级修补](../conferences/icml-2026/cards/1901-2000.md#joo26a-inference) · PEARL: Differentially Private and Entropy-Aware Regulated Language Generation
 - [用扩散答案草稿提前检索桥接实体](../conferences/icml-2026/cards/2001-2100.md#junger26a-inference) · Self-Augmenting Retrieval for Diffusion Language Models
+- [在字节小块内并行猜测并按需验证](../conferences/icml-2026/cards/2001-2100.md#kallini26a-inference) · Fast Byte Latent Transformer
+- [用代理失败轨迹反推上下文保留规则](../conferences/icml-2026/cards/2001-2100.md#kang26b-inference) · ACON: Optimizing Context Compression for Long-horizon LLM Agents
 
 <a id="by-computer-vision"></a>
 

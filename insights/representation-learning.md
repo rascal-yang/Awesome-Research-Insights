@@ -68,6 +68,7 @@
 - [用切比雪夫多项式参数化低维控制策略](../conferences/icml-2026/cards/1701-1800.md#huber26a-representation-learning) · Chebyshev Policies and the Mountain Car Problem: Reinforcement Learning for Low-Dimensional Control Tasks
 - [按最优动作而非价值压缩层级目标](../conferences/icml-2026/cards/1801-1900.md#hyeon26a-representation-learning) · Action-Sufficient Goal Representations
 - [将可迁移调度原则拆成单变量和交互项](../conferences/icml-2026/cards/1801-1900.md#je-gal26a-representation-learning) · Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions
+- [用不对称潜距离约束目标价值泛化](../conferences/icml-2026/cards/2001-2100.md#kang26f-representation-learning) · Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning
 
 <a id="by-robotics"></a>
 

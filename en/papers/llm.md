@@ -261,6 +261,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="jiang26v-training-strategies"></a>[Configurable Reward Model for Balanced Safety Alignment](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26v)
 - <a id="jiang26ap-training-strategies"></a>[Procedural Pretraining: Warming Up Language Models with Abstract Data](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ap)
 - <a id="jing26g-training-strategies"></a>[InfoDLM: an Information-Adaptive Framework for Discrete Diffusion Language Model Pretraining](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26g)
+- <a id="kaczer26a-training-strategies"></a>[In-Training Defenses Against Emergent Misalignment in Language Models](../../conferences/icml-2026/cards/2001-2100.md#paper-kaczer26a)
 
 <a id="by-data-strategies"></a>
 
@@ -424,6 +425,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="jo26a-inference"></a>[Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](../../conferences/icml-2026/cards/1901-2000.md#paper-jo26a)
 - <a id="joo26a-inference"></a>[PEARL: Differentially Private and Entropy-Aware Regulated Language Generation](../../conferences/icml-2026/cards/1901-2000.md#paper-joo26a)
 - <a id="junger26a-inference"></a>[Self-Augmenting Retrieval for Diffusion Language Models](../../conferences/icml-2026/cards/2001-2100.md#paper-junger26a)
+- <a id="kallini26a-inference"></a>[Fast Byte Latent Transformer](../../conferences/icml-2026/cards/2001-2100.md#paper-kallini26a)
+- <a id="kang26b-inference"></a>[ACON: Optimizing Context Compression for Long-horizon LLM Agents](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26b)
 
 <a id="by-representation-learning"></a>
 
@@ -591,6 +594,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="jin26h-evaluation"></a>[Margin-Adaptive Confidence Ranking for Reliable LLM Judgement](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26h)
 - <a id="jones26a-evaluation"></a>[A New Framework for Cybersecurity Refusals in AI Agents](../../conferences/icml-2026/cards/1901-2000.md#paper-jones26a)
 - <a id="jones26b-evaluation"></a>[When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents](../../conferences/icml-2026/cards/1901-2000.md#paper-jones26b)
+- <a id="kaissis26a-evaluation"></a>[Step-Resolved Data Attribution for Looped Transformers](../../conferences/icml-2026/cards/2001-2100.md#paper-kaissis26a)
 
 <a id="by-theory-statistics"></a>
 

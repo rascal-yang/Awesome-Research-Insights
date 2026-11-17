@@ -609,4 +609,5 @@
 - <a id="johari26a-theory-statistics"></a>[Estimation of Treatment Effects Under Nonstationarity via the Truncated Policy Gradient Estimator](../conferences/icml-2026/cards/1901-2000.md#paper-johari26a)
 - <a id="jordan26a-theory-statistics"></a>[Nash Equilibria in Games with Playerwise Concave Coupling Constraints: Existence and Computation](../conferences/icml-2026/cards/2001-2100.md#paper-jordan26a)
 - <a id="jung26b-theory-statistics"></a>[Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures](../conferences/icml-2026/cards/2001-2100.md#paper-jung26b)
+- <a id="kadi26a-theory-statistics"></a>[Noisy Pairwise-Comparison Random Search for Smooth Nonconvex Optimization](../conferences/icml-2026/cards/2001-2100.md#paper-kadi26a)
 <!-- classification:end -->
