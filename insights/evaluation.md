@@ -334,6 +334,8 @@
 - [扩散语言模型SAE诊断边界](../conferences/icml-2026/cards/4601-4700.md#wang26cr-evaluation) · DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders
 - [注意力汇与巨激活的作用分离](../conferences/icml-2026/cards/4701-4800.md#wang26ed-evaluation) · Towards Understanding Massive Activations in Attention Sink Mechanism
 - [隔离验证与污染采纳诊断](../conferences/icml-2026/cards/4701-4800.md#wang26gf-evaluation) · Persistent Semantic Entities in Tool-Augmented LLM Systems
+- [图搜索复杂度与隐式推理容量](../conferences/icml-2026/cards/4701-4800.md#wang26hf-evaluation) · Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models
+- [功能向量的路由与内容分解](../conferences/icml-2026/cards/4801-4900.md#wang26hp-evaluation) · How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning
 
 <a id="by-computer-vision"></a>
 
@@ -424,6 +426,7 @@
 - [规避检测后的机器文本风格指纹](../conferences/icml-2026/cards/3801-3900.md#rivera-soto26a-evaluation) · Attacks on Machine-Text Detectors Retain Stylistic Fingerprints
 - [分级构造人机协作审稿以测润色误判](../conferences/icml-2026/cards/3901-4000.md#saha26b-evaluation) · Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable
 - [retrieval-blind-spot-audit](../conferences/icml-2026/cards/4301-4400.md#taghavi26a-evaluation) · With Argus Eyes: Assessing Retrieval Gaps via Uncertainty Scoring to Detect and Remedy Retrieval Blind Spots
+- [语音生成中激活注入位置的诊断](../conferences/icml-2026/cards/4701-4800.md#wang26he-evaluation) · CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering
 
 <a id="by-reinforcement-learning"></a>
 

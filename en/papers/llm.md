@@ -157,6 +157,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26fa-loss-functions"></a>[Unbiased Alignment for Large Language Models with Noisy Preferences](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fa)
 - <a id="wang26fi-loss-functions"></a>[Rooted Absorbed Prefix Trajectory Balance with Submodular Replay for GFlowNet Training](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fi)
 - <a id="wang26gj-loss-functions"></a>[A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gj)
+- <a id="wang26ho-loss-functions"></a>[Generalized Discrete Diffusion with Self-Correction](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ho)
 
 <a id="by-optimization"></a>
 
@@ -418,6 +419,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26ah-reinforcement-learning"></a>[T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ah)
 - <a id="wang26gn-reinforcement-learning"></a>[StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gn)
 - <a id="wang26ha-reinforcement-learning"></a>[ThetaEvolve: Test-time Learning on Open Problems](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ha)
+- <a id="wang26hl-reinforcement-learning"></a>[d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hl)
 
 <a id="by-training-strategies"></a>
 
@@ -631,6 +633,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26ak-data-strategies"></a>[The Power of Power Law: Asymmetry Enables Compositional Reasoning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ak)
 - <a id="wang26eq-data-strategies"></a>[Mining Useful General Data for Low-Resource Domain Adaptation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eq)
 - <a id="wang26go-data-strategies"></a>[Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26go)
+- <a id="wang26hi-data-strategies"></a>[MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hi)
+- <a id="wang26hk-data-strategies"></a>[Target-Oriented Pretraining Data Selection via Neuron-Activated Graph](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hk)
 
 <a id="by-inference"></a>
 
@@ -945,6 +949,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26ea-inference"></a>[CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ea)
 - <a id="wang26eb-inference"></a>[Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eb)
 - <a id="wang26ev-inference"></a>[Inference Time Optimization with Confidence Dynamics](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ev)
+- <a id="wang26hd-inference"></a>[Conformal Thinking: Risk Control for Reasoning on a Compute Budget](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hd)
+- <a id="wang26hg-inference"></a>[Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hg)
+- <a id="wang26hn-inference"></a>[SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hn)
 
 <a id="by-representation-learning"></a>
 
@@ -1293,6 +1300,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26cr-evaluation"></a>[DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cr)
 - <a id="wang26ed-evaluation"></a>[Towards Understanding Massive Activations in Attention Sink Mechanism](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ed)
 - <a id="wang26gf-evaluation"></a>[Persistent Semantic Entities in Tool-Augmented LLM Systems](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gf)
+- <a id="wang26hf-evaluation"></a>[Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hf)
+- <a id="wang26hp-evaluation"></a>[How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hp)
 
 <a id="by-theory-statistics"></a>
 

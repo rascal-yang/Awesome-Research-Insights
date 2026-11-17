@@ -68,6 +68,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="ran26c-loss-functions"></a>[Differentially Private Cross-Silo Recommendation from Implicit Feedback](../../conferences/icml-2026/cards/3801-3900.md#paper-ran26c)
 - <a id="siampou26a-loss-functions"></a>[Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](../../conferences/icml-2026/cards/4101-4200.md#paper-siampou26a)
 - <a id="tian26h-loss-functions"></a>[Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26h)
+- <a id="wang26hb-loss-functions"></a>[Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hb)
 
 <a id="by-optimization"></a>
 

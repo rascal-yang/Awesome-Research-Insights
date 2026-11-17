@@ -322,6 +322,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG](../../conferences/icml-2026/cards/4701-4800.md#wang26ea-inference) · 中文
 - [Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective](../../conferences/icml-2026/cards/4701-4800.md#wang26eb-inference) · 中文
 - [Inference Time Optimization with Confidence Dynamics](../../conferences/icml-2026/cards/4701-4800.md#wang26ev-inference) · 中文
+- [Conformal Thinking: Risk Control for Reasoning on a Compute Budget](../../conferences/icml-2026/cards/4701-4800.md#wang26hd-inference) · 中文
+- [Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks](../../conferences/icml-2026/cards/4701-4800.md#wang26hg-inference) · 中文
+- [SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation](../../conferences/icml-2026/cards/4801-4900.md#wang26hn-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

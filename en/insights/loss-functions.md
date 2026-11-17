@@ -56,6 +56,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Unbiased Alignment for Large Language Models with Noisy Preferences](../../conferences/icml-2026/cards/4701-4800.md#wang26fa-loss-functions) · 中文
 - [Rooted Absorbed Prefix Trajectory Balance with Submodular Replay for GFlowNet Training](../../conferences/icml-2026/cards/4701-4800.md#wang26fi-loss-functions) · 中文
 - [A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions](../../conferences/icml-2026/cards/4701-4800.md#wang26gj-loss-functions) · 中文
+- [Generalized Discrete Diffusion with Self-Correction](../../conferences/icml-2026/cards/4801-4900.md#wang26ho-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -97,6 +98,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Preference-Calibrated Optimization with Score-Level Distribution Alignment for Text-to-Image Diffusion Model Unlearning](../../conferences/icml-2026/cards/4701-4800.md#wang26ef-loss-functions) · 中文
 - [Fleet: Few Shots Lead Effective AI-generated Image Detection](../../conferences/icml-2026/cards/4701-4800.md#wang26eo-loss-functions) · 中文
 - [EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition](../../conferences/icml-2026/cards/4701-4800.md#wang26eu-loss-functions) · 中文
+- [Revisiting Spectral Representations in Generative Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#wang26hu-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -241,6 +243,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Differentially Private Cross-Silo Recommendation from Implicit Feedback](../../conferences/icml-2026/cards/3801-3900.md#ran26c-loss-functions) · 中文
 - [Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](../../conferences/icml-2026/cards/4101-4200.md#siampou26a-loss-functions) · 中文
 - [Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision](../../conferences/icml-2026/cards/4401-4500.md#tian26h-loss-functions) · 中文
+- [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](../../conferences/icml-2026/cards/4701-4800.md#wang26hb-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

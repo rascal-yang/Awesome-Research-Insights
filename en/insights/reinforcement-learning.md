@@ -177,6 +177,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26ah-reinforcement-learning) · 中文
 - [StepCodeReasoner: Aligning Code Reasoning with Stepwise Execution Traces via Reinforcement Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26gn-reinforcement-learning) · 中文
 - [ThetaEvolve: Test-time Learning on Open Problems](../../conferences/icml-2026/cards/4701-4800.md#wang26ha-reinforcement-learning) · 中文
+- [d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation](../../conferences/icml-2026/cards/4801-4900.md#wang26hl-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -439,6 +440,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning](../../conferences/icml-2026/cards/4501-4600.md#uscidda26a-reinforcement-learning) · 中文
 - [VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26ep-reinforcement-learning) · 中文
 - [Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation](../../conferences/icml-2026/cards/4701-4800.md#wang26fe-reinforcement-learning) · 中文
+- [Reason with Thumbnails, Answer with Focus: An Efficient and Effective Paradigm for Multimodal Grounded Visual Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26hh-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

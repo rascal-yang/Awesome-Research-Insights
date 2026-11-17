@@ -84,6 +84,8 @@
 - [非均匀原子技能采样](../conferences/icml-2026/cards/4601-4700.md#wang26ak-data-strategies) · The Power of Power Law: Asymmetry Enables Compositional Reasoning
 - [输出梯度核选择辅助数据](../conferences/icml-2026/cards/4701-4800.md#wang26eq-data-strategies) · Mining Useful General Data for Low-Resource Domain Adaptation
 - [注意力片段引导生成回放](../conferences/icml-2026/cards/4701-4800.md#wang26go-data-strategies) · Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm
+- [模型合并代理数据混合比例](../conferences/icml-2026/cards/4701-4800.md#wang26hi-data-strategies) · MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging
+- [目标神经元激活集合筛选数据](../conferences/icml-2026/cards/4801-4900.md#wang26hk-data-strategies) · Target-Oriented Pretraining Data Selection via Neuron-Activated Graph
 
 <a id="by-computer-vision"></a>
 
@@ -111,6 +113,7 @@
 - [按频谱和扩散时刻学习选patch](../conferences/icml-2026/cards/4601-4700.md#wang26bq-data-strategies) · FaPS: A General and Fast Training Method for Diffusion Models
 - [按尺度原型修正VAR logits](../conferences/icml-2026/cards/4601-4700.md#wang26co-data-strategies) · ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling
 - [按本地与全局预测缺口补数据](../conferences/icml-2026/cards/4701-4800.md#wang26ga-data-strategies) · FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning
+- [片间一致性约束的拼图回放](../conferences/icml-2026/cards/4701-4800.md#wang26hc-data-strategies) · Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning
 
 <a id="by-nlp"></a>
 

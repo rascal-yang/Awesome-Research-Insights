@@ -105,6 +105,7 @@
 - [异质感受野乘法与深层稳定化](../conferences/icml-2026/cards/4601-4700.md#wang26bj-modules) · Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models
 - [局部单纯形几何提示](../conferences/icml-2026/cards/4601-4700.md#wang26br-modules) · TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding
 - [双层事件微动态解耦](../conferences/icml-2026/cards/4601-4700.md#wang26cx-modules) · EvReflection: Event-Driven Micro-Dynamics for Reflection Removal
+- [可测退化指标路由修复专家](../conferences/icml-2026/cards/4801-4900.md#wang26hr-modules) · Degradation-Aware Metric Prompting for Hyperspectral Image Restoration
 
 <a id="by-nlp"></a>
 

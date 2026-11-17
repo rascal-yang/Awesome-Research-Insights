@@ -84,6 +84,8 @@ Data selection, annotation, augmentation, and sampling.
 - [The Power of Power Law: Asymmetry Enables Compositional Reasoning](../../conferences/icml-2026/cards/4601-4700.md#wang26ak-data-strategies) · 中文
 - [Mining Useful General Data for Low-Resource Domain Adaptation](../../conferences/icml-2026/cards/4701-4800.md#wang26eq-data-strategies) · 中文
 - [Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm](../../conferences/icml-2026/cards/4701-4800.md#wang26go-data-strategies) · 中文
+- [MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](../../conferences/icml-2026/cards/4701-4800.md#wang26hi-data-strategies) · 中文
+- [Target-Oriented Pretraining Data Selection via Neuron-Activated Graph](../../conferences/icml-2026/cards/4801-4900.md#wang26hk-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -111,6 +113,7 @@ Data selection, annotation, augmentation, and sampling.
 - [FaPS: A General and Fast Training Method for Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#wang26bq-data-strategies) · 中文
 - [ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](../../conferences/icml-2026/cards/4601-4700.md#wang26co-data-strategies) · 中文
 - [FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26ga-data-strategies) · 中文
+- [Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26hc-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

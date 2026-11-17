@@ -334,6 +334,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](../../conferences/icml-2026/cards/4601-4700.md#wang26cr-evaluation) · 中文
 - [Towards Understanding Massive Activations in Attention Sink Mechanism](../../conferences/icml-2026/cards/4701-4800.md#wang26ed-evaluation) · 中文
 - [Persistent Semantic Entities in Tool-Augmented LLM Systems](../../conferences/icml-2026/cards/4701-4800.md#wang26gf-evaluation) · 中文
+- [Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](../../conferences/icml-2026/cards/4701-4800.md#wang26hf-evaluation) · 中文
+- [How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26hp-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -424,6 +426,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Attacks on Machine-Text Detectors Retain Stylistic Fingerprints](../../conferences/icml-2026/cards/3801-3900.md#rivera-soto26a-evaluation) · 中文
 - [Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable](../../conferences/icml-2026/cards/3901-4000.md#saha26b-evaluation) · 中文
 - [With Argus Eyes: Assessing Retrieval Gaps via Uncertainty Scoring to Detect and Remedy Retrieval Blind Spots](../../conferences/icml-2026/cards/4301-4400.md#taghavi26a-evaluation) · 中文
+- [CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](../../conferences/icml-2026/cards/4701-4800.md#wang26he-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

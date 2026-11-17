@@ -322,6 +322,9 @@
 - [跨模块图检索门](../conferences/icml-2026/cards/4701-4800.md#wang26ea-inference) · CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG
 - [有界奖励的自洽阈值整形](../conferences/icml-2026/cards/4701-4800.md#wang26eb-inference) · Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective
 - [置信变化指导多样本选择](../conferences/icml-2026/cards/4701-4800.md#wang26ev-inference) · Inference Time Optimization with Confidence Dynamics
+- [双阈值推理停止与风险边界](../conferences/icml-2026/cards/4701-4800.md#wang26hd-inference) · Conformal Thinking: Risk Control for Reasoning on a Compute Budget
+- [真实动作核对的前瞻风险参考](../conferences/icml-2026/cards/4701-4800.md#wang26hg-inference) · Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks
+- [句级固定核心神经元](../conferences/icml-2026/cards/4801-4900.md#wang26hn-inference) · SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation
 
 <a id="by-computer-vision"></a>
 

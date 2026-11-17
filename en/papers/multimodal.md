@@ -186,6 +186,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="uscidda26a-reinforcement-learning"></a>[The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning](../../conferences/icml-2026/cards/4501-4600.md#paper-uscidda26a)
 - <a id="wang26ep-reinforcement-learning"></a>[VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ep)
 - <a id="wang26fe-reinforcement-learning"></a>[Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fe)
+- <a id="wang26hh-reinforcement-learning"></a>[Reason with Thumbnails, Answer with Focus: An Efficient and Effective Paradigm for Multimodal Grounded Visual Reasoning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hh)
 
 <a id="by-training-strategies"></a>
 

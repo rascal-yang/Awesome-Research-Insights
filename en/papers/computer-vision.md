@@ -123,6 +123,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26bj-modules"></a>[Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bj)
 - <a id="wang26br-modules"></a>[TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26br)
 - <a id="wang26cx-modules"></a>[EvReflection: Event-Driven Micro-Dynamics for Reflection Removal](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cx)
+- <a id="wang26hr-modules"></a>[Degradation-Aware Metric Prompting for Hyperspectral Image Restoration](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hr)
 
 <a id="by-loss-functions"></a>
 
@@ -164,6 +165,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26ef-loss-functions"></a>[Preference-Calibrated Optimization with Score-Level Distribution Alignment for Text-to-Image Diffusion Model Unlearning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ef)
 - <a id="wang26eo-loss-functions"></a>[Fleet: Few Shots Lead Effective AI-generated Image Detection](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eo)
 - <a id="wang26eu-loss-functions"></a>[EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eu)
+- <a id="wang26hu-loss-functions"></a>[Revisiting Spectral Representations in Generative Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hu)
 
 <a id="by-optimization"></a>
 
@@ -320,6 +322,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26bq-data-strategies"></a>[FaPS: A General and Fast Training Method for Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bq)
 - <a id="wang26co-data-strategies"></a>[ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26co)
 - <a id="wang26ga-data-strategies"></a>[FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ga)
+- <a id="wang26hc-data-strategies"></a>[Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hc)
 
 <a id="by-inference"></a>
 
