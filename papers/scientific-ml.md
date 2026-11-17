@@ -189,6 +189,7 @@
 - <a id="kim26q-training-strategies"></a>[Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations](../conferences/icml-2026/cards/2101-2200.md#paper-kim26q)
 - <a id="kim26au-training-strategies"></a>[Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor](../conferences/icml-2026/cards/2101-2200.md#paper-kim26au)
 - <a id="li26et-training-strategies"></a>[Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?](../conferences/icml-2026/cards/2501-2600.md#paper-li26et)
+- <a id="liu26aj-training-strategies"></a>[From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aj)
 
 <a id="by-data-strategies"></a>
 

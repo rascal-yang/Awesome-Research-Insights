@@ -132,6 +132,7 @@ Training schedules, curricula, and task or stage composition.
 - [World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing](../../conferences/icml-2026/cards/2601-2700.md#liang26m-training-strategies) · 中文
 - [DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](../../conferences/icml-2026/cards/2701-2800.md#lin26ah-training-strategies) · 中文
 - [GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26aj-training-strategies) · 中文
+- [FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation](../../conferences/icml-2026/cards/2801-2900.md#liu26af-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -162,6 +163,7 @@ Training schedules, curricula, and task or stage composition.
 - [TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](../../conferences/icml-2026/cards/1701-1800.md#huang26cd-training-strategies) · 中文
 - [A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](../../conferences/icml-2026/cards/2301-2400.md#lei26d-training-strategies) · 中文
 - [LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](../../conferences/icml-2026/cards/2601-2700.md#lian26d-training-strategies) · 中文
+- [NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26am-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -295,4 +297,5 @@ Training schedules, curricula, and task or stage composition.
 - [Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations](../../conferences/icml-2026/cards/2101-2200.md#kim26q-training-strategies) · 中文
 - [Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor](../../conferences/icml-2026/cards/2101-2200.md#kim26au-training-strategies) · 中文
 - [Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?](../../conferences/icml-2026/cards/2501-2600.md#li26et-training-strategies) · 中文
+- [From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers](../../conferences/icml-2026/cards/2801-2900.md#liu26aj-training-strategies) · 中文
 <!-- classification:end -->

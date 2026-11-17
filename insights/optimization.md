@@ -297,6 +297,8 @@
 - [保留正半定结构的可学习拟牛顿预条件](../conferences/icml-2026/cards/2701-2800.md#lifshitz26a-optimization) · L-SR1: Learned Symmetric-Rank-One Preconditioning
 - [语义提议和图评估协同的网络搜索](../conferences/icml-2026/cards/2701-2800.md#lin26ac-optimization) · SAGE-NAS: Synergizing LLM-Based Semantic Agent with Graph-Based Evaluator for Neural Architecture Search
 - [用罚函数 Hessian 给黑盒 QP 反传](../conferences/icml-2026/cards/2701-2800.md#linghu26b-optimization) · A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers
+- [通过子集采样偏置改变各层学习速度](../conferences/icml-2026/cards/2801-2900.md#liu26ad-optimization) · Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases
+- [以平均分位的置信上界取代随机规划点估计](../conferences/icml-2026/cards/2801-2900.md#liu26al-optimization) · Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming
 
 <a id="by-graph-and-recommendation"></a>
 

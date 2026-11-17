@@ -2807,5 +2807,17 @@ liu26y	ml-foundations	theory-statistics
 liu26z	llm	inference
 liu26aa	reinforcement-learning	reinforcement-learning
 liu26ab	llm	theory-statistics
+liu26ac	multimodal	inference
+liu26ad	ml-foundations	optimization
+liu26ae	ml-foundations	architecture
+liu26af	computer-vision	training-strategies
+liu26ag	multimodal	data-strategies
+liu26ah	multimodal	representation-learning
+liu26ai	llm	evaluation
+liu26aj	scientific-ml	training-strategies
+liu26ak	multimodal	reinforcement-learning
+liu26al	ml-foundations	optimization
+liu26am	robotics	training-strategies
+liu26an	multimodal	inference
 liu26bl	robotics	loss-functions
 tian26k	computer-vision	modules

@@ -193,6 +193,7 @@
 - [用单个可学离散 Gaussian 核替换固定多尺度分支](../conferences/icml-2026/cards/2301-2400.md#lee26al-architecture) · Generalizing Multi-Scale Time-Series Modeling with a Single Operator
 - [用不同分数奇异度的输入投影分工记忆远近信息](../conferences/icml-2026/cards/2401-2500.md#li26cx-architecture) · FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences
 - [用共享矩阵多项式推广状态空间对偶](../conferences/icml-2026/cards/2501-2600.md#li26ft-architecture) · MIMOMamba: From Scalar Duality to Matrix-Valued Attention
+- [将 KV 绑定测试时训练改写成线性注意力扫描](../conferences/icml-2026/cards/2801-2900.md#liu26ae-architecture) · Test-Time Training with KV Binding Is Secretly Linear Attention
 
 <a id="by-graph-and-recommendation"></a>
 

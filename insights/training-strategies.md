@@ -132,6 +132,7 @@
 - [按纬度监督全景编辑的形状](../conferences/icml-2026/cards/2601-2700.md#liang26m-training-strategies) · World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing
 - [长视频的语义记忆与运动监督](../conferences/icml-2026/cards/2701-2800.md#lin26ah-training-strategies) · DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors
 - [把正交投影丢掉的梯度送到任务分支](../conferences/icml-2026/cards/2701-2800.md#lin26aj-training-strategies) · GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning
+- [以分层 Wasserstein 聚合联邦原型并解耦蒸馏](../conferences/icml-2026/cards/2801-2900.md#liu26af-training-strategies) · FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation
 
 <a id="by-nlp"></a>
 
@@ -162,6 +163,7 @@
 - [训练控制端显式处理过期语义](../conferences/icml-2026/cards/1701-1800.md#huang26cd-training-strategies) · TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments
 - [仿真与真实数据联合训练](../conferences/icml-2026/cards/2301-2400.md#lei26d-training-strategies) · A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies
 - [用视觉先验与语言后验分离动作信号](../conferences/icml-2026/cards/2601-2700.md#lian26d-training-strategies) · LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
+- [把符号级失败修复蒸馏成 VLA 的执行策略](../conferences/icml-2026/cards/2801-2900.md#liu26am-training-strategies) · NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning
 
 <a id="by-multimodal"></a>
 
@@ -295,4 +297,5 @@
 - [用解之间的物理差值为粗网格数据补监督](../conferences/icml-2026/cards/2101-2200.md#kim26q-training-strategies) · Semi-Supervised Neural Super-Resolution for Mesh-Based Simulations
 - [只在训练时用原子轨迹教静态预测器](../conferences/icml-2026/cards/2101-2200.md#kim26au-training-strategies) · Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor
 - [按置信与分歧共同筛选分割伪标](../conferences/icml-2026/cards/2501-2600.md#li26et-training-strategies) · Are We Overconfident in Models and Results for Semi-Supervised 3D Medical Image Segmentation?
+- [用回归、上下文去噪与局部性诱导不同轨道世界模型](../conferences/icml-2026/cards/2801-2900.md#liu26aj-training-strategies) · From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers
 <!-- classification:end -->

@@ -387,6 +387,8 @@
 - [分开筛查采图与文字推理的轨迹](../conferences/icml-2026/cards/2601-2700.md#li26ii-inference) · Reliable Thinking with Images
 - [将安全子空间从音频模型的拒绝方向剔除](../conferences/icml-2026/cards/2701-2800.md#lin26u-inference) · SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering
 - [先删冗余再放大多模态情绪证据](../conferences/icml-2026/cards/2701-2800.md#liu26o-inference) · World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition
+- [用反扰动软标签和多视图一致性抵消对抗误差](../conferences/icml-2026/cards/2801-2900.md#liu26ac-inference) · Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models
+- [把高分辨率裁剪当作顺序证据采集](../conferences/icml-2026/cards/2801-2900.md#liu26an-inference) · The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design
 
 <a id="by-ml-foundations"></a>
 

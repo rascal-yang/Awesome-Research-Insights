@@ -2807,18 +2807,18 @@ number	pmlr_id	title	paper_url	insight_status
 2806	liu26z	Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees	https://proceedings.mlr.press/v306/liu26z.html	written
 2807	liu26aa	GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization	https://proceedings.mlr.press/v306/liu26aa.html	written
 2808	liu26ab	A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula	https://proceedings.mlr.press/v306/liu26ab.html	written
-2809	liu26ac	Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models	https://proceedings.mlr.press/v306/liu26ac.html	pending
-2810	liu26ad	Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases	https://proceedings.mlr.press/v306/liu26ad.html	pending
-2811	liu26ae	Test-Time Training with KV Binding Is Secretly Linear Attention	https://proceedings.mlr.press/v306/liu26ae.html	pending
-2812	liu26af	FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation	https://proceedings.mlr.press/v306/liu26af.html	pending
-2813	liu26ag	TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning	https://proceedings.mlr.press/v306/liu26ag.html	pending
-2814	liu26ah	Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning	https://proceedings.mlr.press/v306/liu26ah.html	pending
-2815	liu26ai	BRIDGE: Predicting Human Task Completion Time From Model Performance	https://proceedings.mlr.press/v306/liu26ai.html	pending
-2816	liu26aj	From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers	https://proceedings.mlr.press/v306/liu26aj.html	pending
-2817	liu26ak	Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners	https://proceedings.mlr.press/v306/liu26ak.html	pending
-2818	liu26al	Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming	https://proceedings.mlr.press/v306/liu26al.html	pending
-2819	liu26am	NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning	https://proceedings.mlr.press/v306/liu26am.html	pending
-2820	liu26an	The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design	https://proceedings.mlr.press/v306/liu26an.html	pending
+2809	liu26ac	Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models	https://proceedings.mlr.press/v306/liu26ac.html	written
+2810	liu26ad	Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases	https://proceedings.mlr.press/v306/liu26ad.html	written
+2811	liu26ae	Test-Time Training with KV Binding Is Secretly Linear Attention	https://proceedings.mlr.press/v306/liu26ae.html	written
+2812	liu26af	FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation	https://proceedings.mlr.press/v306/liu26af.html	written
+2813	liu26ag	TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning	https://proceedings.mlr.press/v306/liu26ag.html	written
+2814	liu26ah	Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning	https://proceedings.mlr.press/v306/liu26ah.html	written
+2815	liu26ai	BRIDGE: Predicting Human Task Completion Time From Model Performance	https://proceedings.mlr.press/v306/liu26ai.html	written
+2816	liu26aj	From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers	https://proceedings.mlr.press/v306/liu26aj.html	written
+2817	liu26ak	Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners	https://proceedings.mlr.press/v306/liu26ak.html	written
+2818	liu26al	Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming	https://proceedings.mlr.press/v306/liu26al.html	written
+2819	liu26am	NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning	https://proceedings.mlr.press/v306/liu26am.html	written
+2820	liu26an	The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design	https://proceedings.mlr.press/v306/liu26an.html	written
 2821	liu26ao	PrivCode++: Latent-Conditioned Differentially Private Code Generation for Comprehensive Guarantees	https://proceedings.mlr.press/v306/liu26ao.html	pending
 2822	liu26ap	ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding	https://proceedings.mlr.press/v306/liu26ap.html	pending
 2823	liu26aq	LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems	https://proceedings.mlr.press/v306/liu26aq.html	pending

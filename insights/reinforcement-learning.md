@@ -287,6 +287,7 @@
 - [放射报告的解剖级轨迹奖励](../conferences/icml-2026/cards/2701-2800.md#lin26ag-reinforcement-learning) · Regulating Anatomy-Aware Rewards via Trajectory-Integral Feedback for Volumetric Computed Tomography Analysis
 - [直接用三维几何误差奖励视频定位](../conferences/icml-2026/cards/2701-2800.md#linghu26a-reinforcement-learning) · 3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding
 - [把标注加入可验证奖励轨迹并校准相对优势](../conferences/icml-2026/cards/2701-2800.md#liu26p-reinforcement-learning) · ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models
+- [按指令难度自选直接生成、反思或交错分解](../conferences/icml-2026/cards/2801-2900.md#liu26ak-reinforcement-learning) · Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners
 
 <a id="by-ml-foundations"></a>
 

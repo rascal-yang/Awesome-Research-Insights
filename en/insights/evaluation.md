@@ -222,6 +222,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation](../../conferences/icml-2026/cards/2701-2800.md#lin26aq-evaluation) · 中文
 - [AlgoTrace: Algorithmic Primitives and Compositional Geometry of Reasoning in Language Models](../../conferences/icml-2026/cards/2701-2800.md#lippl26a-evaluation) · 中文
 - [Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution](../../conferences/icml-2026/cards/2801-2900.md#liu26u-evaluation) · 中文
+- [BRIDGE: Predicting Human Task Completion Time From Model Performance](../../conferences/icml-2026/cards/2801-2900.md#liu26ai-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

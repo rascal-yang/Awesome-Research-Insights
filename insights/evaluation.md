@@ -222,6 +222,7 @@
 - [用价值状态和行为双轨测量教育模拟](../conferences/icml-2026/cards/2701-2800.md#lin26aq-evaluation) · EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [用激活干预测试候选推理原语](../conferences/icml-2026/cards/2701-2800.md#lippl26a-evaluation) · AlgoTrace: Algorithmic Primitives and Compositional Geometry of Reasoning in Language Models
 - [用多条正确轨迹的结构共识定位推理错误](../conferences/icml-2026/cards/2801-2900.md#liu26u-evaluation) · Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution
+- [用模型答题记录推估人类完成任务的时间](../conferences/icml-2026/cards/2801-2900.md#liu26ai-evaluation) · BRIDGE: Predicting Human Task Completion Time From Model Performance
 
 <a id="by-computer-vision"></a>
 

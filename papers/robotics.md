@@ -87,6 +87,7 @@
 - <a id="huang26cd-training-strategies"></a>[TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](../conferences/icml-2026/cards/1701-1800.md#paper-huang26cd)
 - <a id="lei26d-training-strategies"></a>[A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](../conferences/icml-2026/cards/2301-2400.md#paper-lei26d)
 - <a id="lian26d-training-strategies"></a>[LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](../conferences/icml-2026/cards/2601-2700.md#paper-lian26d)
+- <a id="liu26am-training-strategies"></a>[NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26am)
 
 <a id="by-data-strategies"></a>
 

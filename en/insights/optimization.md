@@ -297,6 +297,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [L-SR1: Learned Symmetric-Rank-One Preconditioning](../../conferences/icml-2026/cards/2701-2800.md#lifshitz26a-optimization) · 中文
 - [SAGE-NAS: Synergizing LLM-Based Semantic Agent with Graph-Based Evaluator for Neural Architecture Search](../../conferences/icml-2026/cards/2701-2800.md#lin26ac-optimization) · 中文
 - [A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers](../../conferences/icml-2026/cards/2701-2800.md#linghu26b-optimization) · 中文
+- [Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases](../../conferences/icml-2026/cards/2801-2900.md#liu26ad-optimization) · 中文
+- [Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming](../../conferences/icml-2026/cards/2801-2900.md#liu26al-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

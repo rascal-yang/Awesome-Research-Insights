@@ -122,6 +122,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](../../conferences/icml-2026/cards/2401-2500.md#li26ca-representation-learning) · 中文
 - [From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](../../conferences/icml-2026/cards/2601-2700.md#li26hc-representation-learning) · 中文
 - [Prototype-guided Bilateral Alignment Multimodal Federated Learning](../../conferences/icml-2026/cards/2701-2800.md#liao26b-representation-learning) · 中文
+- [Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26ah-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

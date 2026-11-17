@@ -47,6 +47,7 @@
 - <a id="lee26al-architecture"></a>[Generalizing Multi-Scale Time-Series Modeling with a Single Operator](../conferences/icml-2026/cards/2301-2400.md#paper-lee26al)
 - <a id="li26cx-architecture"></a>[FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences](../conferences/icml-2026/cards/2401-2500.md#paper-li26cx)
 - <a id="li26ft-architecture"></a>[MIMOMamba: From Scalar Duality to Matrix-Valued Attention](../conferences/icml-2026/cards/2501-2600.md#paper-li26ft)
+- <a id="liu26ae-architecture"></a>[Test-Time Training with KV Binding Is Secretly Linear Attention](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ae)
 
 <a id="by-modules"></a>
 
@@ -280,6 +281,8 @@
 - <a id="lifshitz26a-optimization"></a>[L-SR1: Learned Symmetric-Rank-One Preconditioning](../conferences/icml-2026/cards/2701-2800.md#paper-lifshitz26a)
 - <a id="lin26ac-optimization"></a>[SAGE-NAS: Synergizing LLM-Based Semantic Agent with Graph-Based Evaluator for Neural Architecture Search](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ac)
 - <a id="linghu26b-optimization"></a>[A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers](../conferences/icml-2026/cards/2701-2800.md#paper-linghu26b)
+- <a id="liu26ad-optimization"></a>[Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ad)
+- <a id="liu26al-optimization"></a>[Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming](../conferences/icml-2026/cards/2801-2900.md#paper-liu26al)
 
 <a id="by-reinforcement-learning"></a>
 

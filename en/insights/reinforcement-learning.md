@@ -287,6 +287,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Regulating Anatomy-Aware Rewards via Trajectory-Integral Feedback for Volumetric Computed Tomography Analysis](../../conferences/icml-2026/cards/2701-2800.md#lin26ag-reinforcement-learning) · 中文
 - [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](../../conferences/icml-2026/cards/2701-2800.md#linghu26a-reinforcement-learning) · 中文
 - [ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models](../../conferences/icml-2026/cards/2701-2800.md#liu26p-reinforcement-learning) · 中文
+- [Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners](../../conferences/icml-2026/cards/2801-2900.md#liu26ak-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

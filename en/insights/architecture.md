@@ -193,6 +193,7 @@ Model-wide design and information flow.
 - [Generalizing Multi-Scale Time-Series Modeling with a Single Operator](../../conferences/icml-2026/cards/2301-2400.md#lee26al-architecture) · 中文
 - [FRACTAL: State Space Model with Fractional Recurrent Architecture for Computational Temporal Analysis of Long Sequences](../../conferences/icml-2026/cards/2401-2500.md#li26cx-architecture) · 中文
 - [MIMOMamba: From Scalar Duality to Matrix-Valued Attention](../../conferences/icml-2026/cards/2501-2600.md#li26ft-architecture) · 中文
+- [Test-Time Training with KV Binding Is Secretly Linear Attention](../../conferences/icml-2026/cards/2801-2900.md#liu26ae-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

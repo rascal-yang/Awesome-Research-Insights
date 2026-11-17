@@ -122,6 +122,7 @@
 - [分开估计长视频检索的跨样本歧义和片段噪声](../conferences/icml-2026/cards/2401-2500.md#li26ca-representation-learning) · Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval
 - [文本线索向时序演化原语的映射](../conferences/icml-2026/cards/2601-2700.md#li26hc-representation-learning) · From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space
 - [异构联邦中的特征与决策原型](../conferences/icml-2026/cards/2701-2800.md#liao26b-representation-learning) · Prototype-guided Bilateral Alignment Multimodal Federated Learning
+- [用模态内邻域软原型纠正图文错配](../conferences/icml-2026/cards/2801-2900.md#liu26ah-representation-learning) · Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning
 
 <a id="by-ml-foundations"></a>
 

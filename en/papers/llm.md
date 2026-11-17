@@ -810,6 +810,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lin26aq-evaluation"></a>[EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26aq)
 - <a id="lippl26a-evaluation"></a>[AlgoTrace: Algorithmic Primitives and Compositional Geometry of Reasoning in Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lippl26a)
 - <a id="liu26u-evaluation"></a>[Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26u)
+- <a id="liu26ai-evaluation"></a>[BRIDGE: Predicting Human Task Completion Time From Model Performance](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ai)
 
 <a id="by-theory-statistics"></a>
 

@@ -123,6 +123,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lin26ag-reinforcement-learning"></a>[Regulating Anatomy-Aware Rewards via Trajectory-Integral Feedback for Volumetric Computed Tomography Analysis](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ag)
 - <a id="linghu26a-reinforcement-learning"></a>[3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](../../conferences/icml-2026/cards/2701-2800.md#paper-linghu26a)
 - <a id="liu26p-reinforcement-learning"></a>[ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26p)
+- <a id="liu26ak-reinforcement-learning"></a>[Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ak)
 
 <a id="by-training-strategies"></a>
 
@@ -186,6 +187,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26y-data-strategies"></a>[A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26y)
 - <a id="li26bm-data-strategies"></a>[Training Data Efficiency in Multimodal Process Reward Models](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bm)
 - <a id="lin26c-data-strategies"></a>[Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26c)
+- <a id="liu26ag-data-strategies"></a>[TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ag)
 
 <a id="by-inference"></a>
 
@@ -251,6 +253,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26ii-inference"></a>[Reliable Thinking with Images](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ii)
 - <a id="lin26u-inference"></a>[SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26u)
 - <a id="liu26o-inference"></a>[World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26o)
+- <a id="liu26ac-inference"></a>[Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ac)
+- <a id="liu26an-inference"></a>[The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26an)
 
 <a id="by-representation-learning"></a>
 
@@ -277,6 +281,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26ca-representation-learning"></a>[Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ca)
 - <a id="li26hc-representation-learning"></a>[From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hc)
 - <a id="liao26b-representation-learning"></a>[Prototype-guided Bilateral Alignment Multimodal Federated Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26b)
+- <a id="liu26ah-representation-learning"></a>[Intra-Modal Neighbors Never Lie: Rectifying Inter-Modal Noisy Correspondence via Graph-Based Intra-Modal Reasoning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26ah)
 
 <a id="by-evaluation"></a>
 

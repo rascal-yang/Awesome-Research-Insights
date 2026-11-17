@@ -190,6 +190,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="liang26m-training-strategies"></a>[World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26m)
 - <a id="lin26ah-training-strategies"></a>[DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ah)
 - <a id="lin26aj-training-strategies"></a>[GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26aj)
+- <a id="liu26af-training-strategies"></a>[FedCDWA: Decoupled Federated Prototype Distillation with Hierarchical Wasserstein Aggregation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26af)
 
 <a id="by-data-strategies"></a>
 
