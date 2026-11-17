@@ -87,7 +87,6 @@
 - [语言模型罕见事件的重要性估计](../conferences/icml-2026/cards/0901-1000.md#dorman26a-evaluation) · Rare Event Analysis of Large Language Models
 - [语言不确定性词的正确率校准](../conferences/icml-2026/cards/0901-1000.md#duan26b-evaluation) · "very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification
 - [可控 2-SAT 结构鲁棒性评测](../conferences/icml-2026/cards/1001-1100.md#es-sebbani26a-evaluation) · Evaluating Robustness of Reasoning Models on Parameterized Logical Problems
-- [越狱论文到可复现评测模块](../conferences/icml-2026/cards/1001-1100.md#fang26y-evaluation) · Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking
 - [奖励模型偏差的激活投影](../conferences/icml-2026/cards/1001-1100.md#fein26a-evaluation) · One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models
 - [外部技能组合的后门评测](../conferences/icml-2026/cards/1001-1100.md#feng26c-evaluation) · SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems
 - [推理链的失败步骤比例](../conferences/icml-2026/cards/1101-1200.md#feng26e-evaluation) · What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT
@@ -103,7 +102,6 @@
 - [表格语言模型的任务级泄漏核查](../conferences/icml-2026/cards/1301-1400.md#gorla26a-evaluation) · The Illusion of Generalization in Tabular Language Models
 - [智能体对训练接口的依赖诊断](../conferences/icml-2026/cards/1301-1400.md#gu26g-evaluation) · What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?
 - [跨推理框架的静默错误定位](../conferences/icml-2026/cards/1301-1400.md#gu26q-evaluation) · Ekka: Automated Diagnosis of Silent Errors in LLM Inference
-- [带执行反馈的 Triton 代码智能体评测](../conferences/icml-2026/cards/1301-1400.md#guan26d-evaluation) · TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation
 - [推理轨迹的可监测性评测](../conferences/icml-2026/cards/1301-1400.md#guan26h-evaluation) · Monitoring Monitorability
 - [工具故障下的智能体失败披露评测](../conferences/icml-2026/cards/1301-1400.md#guo26k-evaluation) · Are Your Agents Upward Deceivers?
 - [并发代码的数据竞争定位](../conferences/icml-2026/cards/1301-1400.md#guo26z-evaluation) · DRPBench: Evaluating LLMs in Concurrent Code Comprehension via Fine-Grained Data Race Prediction
@@ -428,7 +426,6 @@
 - [文本条件下的音视频信息分解](../conferences/icml-2026/cards/1001-1100.md#fang26x-evaluation) · Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition
 - [区分旧事实更新和未知事实学习](../conferences/icml-2026/cards/1101-1200.md#fu26c-evaluation) · MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge
 - [文本知识编辑的图像迁移诊断](../conferences/icml-2026/cards/1201-1300.md#gao26ag-evaluation) · Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs
-- [手机 GUI 代理的分能力诊断](../conferences/icml-2026/cards/1301-1400.md#gong26a-evaluation) · VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics
 - [图文一致的训练数据后门评测](../conferences/icml-2026/cards/1301-1400.md#guo26q-evaluation) · CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models
 - [对同一因果问题分别评估叙述和显式链](../conferences/icml-2026/cards/1501-1600.md#hoang26b-evaluation) · The Abstraction Gap in Vision-Language Causal Reasoning
 - [在图像编辑评估中覆盖视觉指令](../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models
@@ -515,7 +512,6 @@
 - [分布式数据归因的操纵鲁棒性](../conferences/icml-2026/cards/1201-1300.md#gao26k-evaluation) · On the Fragility of Data Attribution When Learning Is Distributed
 - [条件生成的保形可靠性评分](../conferences/icml-2026/cards/1201-1300.md#gao26aa-evaluation) · Conformal Reliability: A New Evaluation Metric for Conditional Generation
 - [扩散生成的训练样本邻近偏差](../conferences/icml-2026/cards/1201-1300.md#garnier-brun26a-evaluation) · Biased Generalization in Diffusion Models
-- [程序化算法发现任务](../conferences/icml-2026/cards/1201-1300.md#goldie26a-evaluation) · Procedural Generation Of Algorithm Discovery Tasks in Machine Learning
 - [表征相似度的置换零校准](../conferences/icml-2026/cards/1301-1400.md#groger26a-evaluation) · Revisiting the Platonic Representation Hypothesis: An Aristotelian View
 - [按决策收益度量解释价值](../conferences/icml-2026/cards/1301-1400.md#guo26u-evaluation) · Explanations are a Means to an End: Decision Theoretic Explanation Evaluation
 - [时间序列预测的频域稳健性评测](../conferences/icml-2026/cards/1401-1500.md#han26d-evaluation) · TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting

@@ -142,7 +142,6 @@
 - [GUI 智能体的失败轨迹纠错数据](../conferences/icml-2026/cards/0601-0700.md#chen26gb-data-strategies) · CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training
 - [用近域异常文本约束开放集识别](../conferences/icml-2026/cards/1001-1100.md#fang26b-data-strategies) · Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness
 - [电信观测序列保留绝对量纲](../conferences/icml-2026/cards/1101-1200.md#feng26s-data-strategies) · TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis
-- [知识密集视频的分技能数据构造](../conferences/icml-2026/cards/1101-1200.md#fu26s-data-strategies) · VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding
 - [视频到三维空间监督数据](../conferences/icml-2026/cards/1201-1300.md#gao26o-data-strategies) · Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence
 - [图像到 CAD 的几何反馈扩增](../conferences/icml-2026/cards/1201-1300.md#giannone26a-data-strategies) · GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback
 - [界面全量解析监督](../conferences/icml-2026/cards/1401-1500.md#gurbuz26a-data-strategies) · ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision

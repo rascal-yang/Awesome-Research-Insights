@@ -362,7 +362,6 @@
 - [超图鲁棒训练](../conferences/icml-2026/cards/0101-0200.md#arafat26a-training-strategies) · Adversarial Attacks and Robust Training for Hypergraph Neural Networks
 - [图组合优化迁移](../conferences/icml-2026/cards/0301-0400.md#canturk26a-training-strategies) · Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?
 - [图基础模型的消息微调](../conferences/icml-2026/cards/0501-0600.md#chen26cz-training-strategies) · Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective
-- [空间众包的双视图蒸馏](../conferences/icml-2026/cards/1201-1300.md#gao26ai-training-strategies) · GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation
 - [图分区投毒认证的半监督增强](../conferences/icml-2026/cards/1301-1400.md#gosch26a-training-strategies) · Certifying Graph Neural Networks Against Label and Structure Poisoning
 - [图自监督任务的反馈式预算调度](../conferences/icml-2026/cards/1301-1400.md#grover26a-training-strategies) · Feedback Control for Multi-Objective Graph Self-Supervision
 - [从全局模型和本地图邻居两侧找噪声标签](../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · FedRGL: Robust Federated Graph Learning under Label Noise

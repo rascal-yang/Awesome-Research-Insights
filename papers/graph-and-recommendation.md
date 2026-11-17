@@ -103,7 +103,6 @@
 - <a id="arafat26a-training-strategies"></a>[Adversarial Attacks and Robust Training for Hypergraph Neural Networks](../conferences/icml-2026/cards/0101-0200.md#paper-arafat26a)
 - <a id="canturk26a-training-strategies"></a>[Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](../conferences/icml-2026/cards/0301-0400.md#paper-canturk26a)
 - <a id="chen26cz-training-strategies"></a>[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](../conferences/icml-2026/cards/0501-0600.md#paper-chen26cz)
-- <a id="gao26ai-training-strategies"></a>[GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](../conferences/icml-2026/cards/1201-1300.md#paper-gao26ai)
 - <a id="gosch26a-training-strategies"></a>[Certifying Graph Neural Networks Against Label and Structure Poisoning](../conferences/icml-2026/cards/1301-1400.md#paper-gosch26a)
 - <a id="grover26a-training-strategies"></a>[Feedback Control for Multi-Objective Graph Self-Supervision](../conferences/icml-2026/cards/1301-1400.md#paper-grover26a)
 - <a id="li26fv-training-strategies"></a>[FedRGL: Robust Federated Graph Learning under Label Noise](../conferences/icml-2026/cards/2501-2600.md#paper-li26fv)

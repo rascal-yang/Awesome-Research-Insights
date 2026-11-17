@@ -362,7 +362,6 @@ Training schedules, curricula, and task or stage composition.
 - [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](../../conferences/icml-2026/cards/0101-0200.md#arafat26a-training-strategies) · 中文
 - [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](../../conferences/icml-2026/cards/0301-0400.md#canturk26a-training-strategies) · 中文
 - [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](../../conferences/icml-2026/cards/0501-0600.md#chen26cz-training-strategies) · 中文
-- [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](../../conferences/icml-2026/cards/1201-1300.md#gao26ai-training-strategies) · 中文
 - [Certifying Graph Neural Networks Against Label and Structure Poisoning](../../conferences/icml-2026/cards/1301-1400.md#gosch26a-training-strategies) · 中文
 - [Feedback Control for Multi-Objective Graph Self-Supervision](../../conferences/icml-2026/cards/1301-1400.md#grover26a-training-strategies) · 中文
 - [FedRGL: Robust Federated Graph Learning under Label Noise](../../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · 中文

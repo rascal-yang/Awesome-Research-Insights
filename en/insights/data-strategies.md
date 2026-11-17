@@ -142,7 +142,6 @@ Data selection, annotation, augmentation, and sampling.
 - [CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](../../conferences/icml-2026/cards/0601-0700.md#chen26gb-data-strategies) · 中文
 - [Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness](../../conferences/icml-2026/cards/1001-1100.md#fang26b-data-strategies) · 中文
 - [TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis](../../conferences/icml-2026/cards/1101-1200.md#feng26s-data-strategies) · 中文
-- [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](../../conferences/icml-2026/cards/1101-1200.md#fu26s-data-strategies) · 中文
 - [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](../../conferences/icml-2026/cards/1201-1300.md#gao26o-data-strategies) · 中文
 - [GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](../../conferences/icml-2026/cards/1201-1300.md#giannone26a-data-strategies) · 中文
 - [ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](../../conferences/icml-2026/cards/1401-1500.md#gurbuz26a-data-strategies) · 中文

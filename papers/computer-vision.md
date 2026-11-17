@@ -303,7 +303,6 @@
 - <a id="duan26d-inference"></a>[SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion](../conferences/icml-2026/cards/0901-1000.md#paper-duan26d)
 - <a id="elbrachter26a-inference"></a>[MAD: Manifold Attracted Diffusion](../conferences/icml-2026/cards/1001-1100.md#paper-elbrachter26a)
 - <a id="fang26n-inference"></a>[Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback](../conferences/icml-2026/cards/1001-1100.md#paper-fang26n)
-- <a id="fang26z-inference"></a>[StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation](../conferences/icml-2026/cards/1001-1100.md#paper-fang26z)
 - <a id="feng26g-inference"></a>[Explainable Forensics of Manipulated Segments in Untrimmed Long Videos](../conferences/icml-2026/cards/1101-1200.md#paper-feng26g)
 - <a id="feng26r-inference"></a>[HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning](../conferences/icml-2026/cards/1101-1200.md#paper-feng26r)
 - <a id="feng26t-inference"></a>[Fast-SAM3D: 3Dfy Anything in Images but Faster](../conferences/icml-2026/cards/1101-1200.md#paper-feng26t)

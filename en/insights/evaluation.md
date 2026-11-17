@@ -87,7 +87,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Rare Event Analysis of Large Language Models](../../conferences/icml-2026/cards/0901-1000.md#dorman26a-evaluation) · 中文
 - ["very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](../../conferences/icml-2026/cards/0901-1000.md#duan26b-evaluation) · 中文
 - [Evaluating Robustness of Reasoning Models on Parameterized Logical Problems](../../conferences/icml-2026/cards/1001-1100.md#es-sebbani26a-evaluation) · 中文
-- [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../../conferences/icml-2026/cards/1001-1100.md#fang26y-evaluation) · 中文
 - [One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models](../../conferences/icml-2026/cards/1001-1100.md#fein26a-evaluation) · 中文
 - [SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems](../../conferences/icml-2026/cards/1001-1100.md#feng26c-evaluation) · 中文
 - [What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT](../../conferences/icml-2026/cards/1101-1200.md#feng26e-evaluation) · 中文
@@ -103,7 +102,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Illusion of Generalization in Tabular Language Models](../../conferences/icml-2026/cards/1301-1400.md#gorla26a-evaluation) · 中文
 - [What Do Agents Learn from Trajectory-SFT: Semantics or Interfaces?](../../conferences/icml-2026/cards/1301-1400.md#gu26g-evaluation) · 中文
 - [Ekka: Automated Diagnosis of Silent Errors in LLM Inference](../../conferences/icml-2026/cards/1301-1400.md#gu26q-evaluation) · 中文
-- [TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation](../../conferences/icml-2026/cards/1301-1400.md#guan26d-evaluation) · 中文
 - [Monitoring Monitorability](../../conferences/icml-2026/cards/1301-1400.md#guan26h-evaluation) · 中文
 - [Are Your Agents Upward Deceivers?](../../conferences/icml-2026/cards/1301-1400.md#guo26k-evaluation) · 中文
 - [DRPBench: Evaluating LLMs in Concurrent Code Comprehension via Fine-Grained Data Race Prediction](../../conferences/icml-2026/cards/1301-1400.md#guo26z-evaluation) · 中文
@@ -428,7 +426,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition](../../conferences/icml-2026/cards/1001-1100.md#fang26x-evaluation) · 中文
 - [MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge](../../conferences/icml-2026/cards/1101-1200.md#fu26c-evaluation) · 中文
 - [Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](../../conferences/icml-2026/cards/1201-1300.md#gao26ag-evaluation) · 中文
-- [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](../../conferences/icml-2026/cards/1301-1400.md#gong26a-evaluation) · 中文
 - [CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](../../conferences/icml-2026/cards/1301-1400.md#guo26q-evaluation) · 中文
 - [The Abstraction Gap in Vision-Language Causal Reasoning](../../conferences/icml-2026/cards/1501-1600.md#hoang26b-evaluation) · 中文
 - [When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · 中文
@@ -515,7 +512,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [On the Fragility of Data Attribution When Learning Is Distributed](../../conferences/icml-2026/cards/1201-1300.md#gao26k-evaluation) · 中文
 - [Conformal Reliability: A New Evaluation Metric for Conditional Generation](../../conferences/icml-2026/cards/1201-1300.md#gao26aa-evaluation) · 中文
 - [Biased Generalization in Diffusion Models](../../conferences/icml-2026/cards/1201-1300.md#garnier-brun26a-evaluation) · 中文
-- [Procedural Generation Of Algorithm Discovery Tasks in Machine Learning](../../conferences/icml-2026/cards/1201-1300.md#goldie26a-evaluation) · 中文
 - [Revisiting the Platonic Representation Hypothesis: An Aristotelian View](../../conferences/icml-2026/cards/1301-1400.md#groger26a-evaluation) · 中文
 - [Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](../../conferences/icml-2026/cards/1301-1400.md#guo26u-evaluation) · 中文
 - [TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](../../conferences/icml-2026/cards/1401-1500.md#han26d-evaluation) · 中文

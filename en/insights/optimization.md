@@ -247,7 +247,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Learning in the Fisher Subspace: A Guided Initialization for LoRA Fine-Tuning](../../conferences/icml-2026/cards/1101-1200.md#feng26h-optimization) · 中文
 - [Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching](../../conferences/icml-2026/cards/1101-1200.md#feng26o-optimization) · 中文
 - [Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](../../conferences/icml-2026/cards/1101-1200.md#feoktistov26a-optimization) · 中文
-- [CLASP: Online learning algorithms for Convex Losses And Squared Penalties](../../conferences/icml-2026/cards/1101-1200.md#ferreira26a-optimization) · 中文
 - [Flatland: The Adventures of Gradient Descent with Large Step Sizes](../../conferences/icml-2026/cards/1101-1200.md#galli26a-optimization) · 中文
 - [Projection-Free Algorithms for Minimax Problems](../../conferences/icml-2026/cards/1201-1300.md#giang-tran26a-optimization) · 中文
 - [Improved Stochastic Optimization of LogSumExp](../../conferences/icml-2026/cards/1201-1300.md#gladin26a-optimization) · 中文

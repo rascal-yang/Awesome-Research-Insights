@@ -294,7 +294,6 @@
 - <a id="gan26b-inference"></a>[SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction](../conferences/icml-2026/cards/1101-1200.md#paper-gan26b)
 - <a id="gao26p-inference"></a>[Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting](../conferences/icml-2026/cards/1201-1300.md#paper-gao26p)
 - <a id="ge26b-inference"></a>[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](../conferences/icml-2026/cards/1201-1300.md#paper-ge26b)
-- <a id="giral26a-inference"></a>[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](../conferences/icml-2026/cards/1201-1300.md#paper-giral26a)
 - <a id="han26g-inference"></a>[Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](../conferences/icml-2026/cards/1401-1500.md#paper-han26g)
 - <a id="hastedt26a-inference"></a>[From Feasible to Practical: Pareto-Optimal Synthesis Planning](../conferences/icml-2026/cards/1401-1500.md#paper-hastedt26a)
 - <a id="helvits26a-inference"></a>[Score Based Error Correcting Code Decoder](../conferences/icml-2026/cards/1501-1600.md#paper-helvits26a)
