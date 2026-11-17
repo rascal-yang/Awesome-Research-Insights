@@ -183,7 +183,6 @@
 - [按文本词元和三维潜块的粒度拆分自回归分支](../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models
 - [把 GUI 历史动作和跨任务经验分层检索](../conferences/icml-2026/cards/1901-2000.md#jin26m-architecture) · SE-GA: Memory-Augmented Self-Evolution for GUI Agents
 - [让移动界面模型输出可渲染代码来预测下一屏](../conferences/icml-2026/cards/2101-2200.md#koh26a-architecture) · Generative Visual Code Mobile World Models
-- [多变量时序与文本的交错建模](../conferences/icml-2026/cards/2201-2300.md#langer26a-architecture) · OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data
 - [在低频语音潜变量上分层补回波形](../conferences/icml-2026/cards/2301-2400.md#lee26f-architecture) · ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models
 - [全景空间音频流式生成](../conferences/icml-2026/cards/2301-2400.md#lei26i-architecture) · Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer
 - [以主体身份查询把视频词元稀疏路由给对应参照](../conferences/icml-2026/cards/2501-2600.md#li26df-architecture) · DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation

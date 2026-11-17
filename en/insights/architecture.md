@@ -183,7 +183,6 @@ Model-wide design and information flow.
 - [CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26be-architecture) · 中文
 - [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](../../conferences/icml-2026/cards/1901-2000.md#jin26m-architecture) · 中文
 - [Generative Visual Code Mobile World Models](../../conferences/icml-2026/cards/2101-2200.md#koh26a-architecture) · 中文
-- [OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](../../conferences/icml-2026/cards/2201-2300.md#langer26a-architecture) · 中文
 - [ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#lee26f-architecture) · 中文
 - [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](../../conferences/icml-2026/cards/2301-2400.md#lei26i-architecture) · 中文
 - [DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation](../../conferences/icml-2026/cards/2501-2600.md#li26df-architecture) · 中文

@@ -294,7 +294,6 @@
 - [用掩码保护的可学习分段编码 DNA](../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · DNACHUNKER: Learnable Tokenization for DNA Language Models
 - [在局部共享坐标中匹配源目标表征曲率](../conferences/icml-2026/cards/2101-2200.md#ko26c-representation-learning) · Geometric Embedding Alignment via Curvature Matching in Transfer Learning
 - [空间转录组中的弱配对形态生成](../conferences/icml-2026/cards/2101-2200.md#kong26d-representation-learning) · SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes
-- [用未配对序列预训部件，再用低熵先解码联合结构](../conferences/icml-2026/cards/2201-2300.md#lai26b-representation-learning) · DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions
 - [随机场的隐式流匹配与条件生成](../conferences/icml-2026/cards/2201-2300.md#lalanne26a-representation-learning) · Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields
 - [皮层平面图上的 fMRI 掩码预训练](../conferences/icml-2026/cards/2201-2300.md#lane26a-representation-learning) · Scaling Vision Transformers for Functional MRI with Flat Maps
 - [生理时序的低冗余指纹](../conferences/icml-2026/cards/2401-2500.md#li26bg-representation-learning) · Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization

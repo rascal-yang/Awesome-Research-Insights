@@ -40,7 +40,6 @@
 - [按边际安全收益选择最小增强集](../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment
 - [用模型自己的解掩顺序生成训练掩码](../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training
 - [将端侧偏好记忆压缩为可检索指令](../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG
-- [先定义专家推理步骤再用证据改写监督](../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · Toward Cybersecurity-Expert Small Language Models
 - [容量感知的数据配比定律](../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization
 - [瞄准稀疏字典中的数据空缺](../conferences/icml-2026/cards/2601-2700.md#li26hl-data-strategies) · Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders
 - [用合并成分模型评估预训练数据配比](../conferences/icml-2026/cards/2601-2700.md#li26jt-data-strategies) · Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training

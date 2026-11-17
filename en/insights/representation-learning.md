@@ -294,7 +294,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DNACHUNKER: Learnable Tokenization for DNA Language Models](../../conferences/icml-2026/cards/2101-2200.md#kim26bn-representation-learning) · 中文
 - [Geometric Embedding Alignment via Curvature Matching in Transfer Learning](../../conferences/icml-2026/cards/2101-2200.md#ko26c-representation-learning) · 中文
 - [SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes](../../conferences/icml-2026/cards/2101-2200.md#kong26d-representation-learning) · 中文
-- [DecoderTCR: Compositional Pretraining and Entropy-Guided Decoding for TCR-pMHC Interactions](../../conferences/icml-2026/cards/2201-2300.md#lai26b-representation-learning) · 中文
 - [Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields](../../conferences/icml-2026/cards/2201-2300.md#lalanne26a-representation-learning) · 中文
 - [Scaling Vision Transformers for Functional MRI with Flat Maps](../../conferences/icml-2026/cards/2201-2300.md#lane26a-representation-learning) · 中文
 - [Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization](../../conferences/icml-2026/cards/2401-2500.md#li26bg-representation-learning) · 中文

@@ -440,7 +440,6 @@
 - [让局部 RNA 设计代理共享全局折叠反馈](../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning
 - [用观测似然动态重加权潜结构轨迹](../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients
 - [可合成分子的软约束采样](../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors
-- [把可执行的临床资源查询反馈用于代理训练](../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)
 - [用物理指标奖励少步光刻掩模生成](../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching
 - [把物理引导移到分子扩散后训练](../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields
 - [对齐 Best-of-N 的蛋白质设计策略](../conferences/icml-2026/cards/2401-2500.md#li26ch-reinforcement-learning) · FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization

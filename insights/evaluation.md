@@ -155,8 +155,6 @@
 - [对偏好子群分布做鲁棒模型混合](../conferences/icml-2026/cards/2001-2100.md#khalaf26a-evaluation) · Robust AI Evaluation through Maximal Lotteries
 - [生成能分辨候选程序的执行测试](../conferences/icml-2026/cards/2001-2100.md#kim26d-evaluation) · Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation
 - [以排序锚点校准语言模型表达的价值强度](../conferences/icml-2026/cards/2101-2200.md#kim26r-evaluation) · VALUEFLOW: Toward Pluralistic and Steerable Value-based Alignment in Large Language Models
-- [将网页偏好推断和执行成功分别计分](../conferences/icml-2026/cards/2101-2200.md#kim26ap-evaluation) · Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History
-- [用逐题反馈评价搜索结果的个性化](../conferences/icml-2026/cards/2101-2200.md#kim26at-evaluation) · BESPOKE: Benchmark for Search-Augmented Large Language Model Personalization via Diagnostic Feedback
 - [固定迭代和成本再测多代理的贡献](../conferences/icml-2026/cards/2101-2200.md#kim26ba-evaluation) · Investigating Component Contributions in Multi-Agent ML Systems
 - [让证据库随工具调用累积来评估每一步](../conferences/icml-2026/cards/2101-2200.md#kim26bg-evaluation) · Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents
 - [用论证角色和转移评估推理过程](../conferences/icml-2026/cards/2101-2200.md#kim26bw-evaluation) · TRACE: Toulmin-based Reasoning Assessment through Constructive Elements for LLM CoT Evaluation
@@ -166,17 +164,13 @@
 - [网页代理的任务重定向抗性](../conferences/icml-2026/cards/2201-2300.md#korgul26a-evaluation) · It’s a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents
 - [用控制训练变量检验谱指标的预测力](../conferences/icml-2026/cards/2201-2300.md#kulkarni26c-evaluation) · Disentangling Geometry, Performance, and Training in Language Models
 - [用位置干预追踪口头置信度从哪里读出](../conferences/icml-2026/cards/2201-2300.md#kumaran26a-evaluation) · How do LLMs Compute Verbal Confidence?
-- [把工作簿盲测偏好拆成格式、结构和公式因素](../conferences/icml-2026/cards/2201-2300.md#kundurthy26a-evaluation) · SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks
 - [用嵌套重采样拆出模型的意图敏感度](../conferences/icml-2026/cards/2201-2300.md#kunievsky26a-evaluation) · Measuring Intent Comprehension in LLMs
 - [先生成任务适用的评分规则，再输出逐项比较](../conferences/icml-2026/cards/2201-2300.md#lai26a-evaluation) · UniRRM: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms
-- [蒸馏能耗的阶段核算与复用](../conferences/icml-2026/cards/2201-2300.md#lambert26a-evaluation) · Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines
 - [先逐特征解释再汇总专家路由](../conferences/icml-2026/cards/2201-2300.md#lasy26a-evaluation) · RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing
 - [将特征触发路径与输出影响分开追踪](../conferences/icml-2026/cards/2301-2400.md#lee26a-evaluation) · Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects
 - [用成对协方差差分分解关系分数](../conferences/icml-2026/cards/2301-2400.md#lee26b-evaluation) · Decomposing Query-Key Feature Interactions Using Contrastive Covariances
 - [用每字节损失比较不同分词的算力前沿](../conferences/icml-2026/cards/2301-2400.md#lee26bh-evaluation) · The Efficiency Gap in Byte Modeling
 - [先提炼价值表达再比较文本分布](../conferences/icml-2026/cards/2301-2400.md#lee26bj-evaluation) · Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook
-- [开放式行为模拟评估](../conferences/icml-2026/cards/2301-2400.md#lei26c-evaluation) · A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors
-- [用活跃形式化项目的待证明空位滚动评测](../conferences/icml-2026/cards/2301-2400.md#letson26a-evaluation) · SorryDB: Can AI Provers Complete Real-World Lean Theorems?
 - [以逐步干预和双重读出区分潜在推理承诺](../conferences/icml-2026/cards/2301-2400.md#li26c-evaluation) · Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure
 - [让目标模型和描述器持有冲突知识](../conferences/icml-2026/cards/2401-2500.md#li26k-evaluation) · Do Activation Verbalization Methods Convey Privileged Information?
 - [用不可见触发与回复对给文本做可检验溯源](../conferences/icml-2026/cards/2401-2500.md#li26an-evaluation) · Data Provenance Auditing of Fine-Tuned Large Language Models with a Text-Preserving Technique
@@ -376,7 +370,6 @@
 - [交换证据语言测引证相关性偏差](../conferences/icml-2026/cards/2001-2100.md#ki26a-evaluation) · Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG
 - [按语料的语义分层覆盖检索评测](../conferences/icml-2026/cards/2101-2200.md#klearman26a-evaluation) · Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation
 - [分别破坏输出语言与源句内容寻找翻译头](../conferences/icml-2026/cards/2201-2300.md#lasnier26a-evaluation) · Translation Heads: Disentangling meaning from language in LLM-based machine translation
-- [用多跳知识图谱路径做跨语种事实对照](../conferences/icml-2026/cards/2201-2300.md#lavrinovics26a-evaluation) · MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations
 - [用未知查询下的文档改动压力测试召回](../conferences/icml-2026/cards/2301-2400.md#li26g-evaluation) · “Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval
 - [给音频伪造检测的不同分布单独画规模曲线](../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection
 - [用局部游程与多轮改写稳定性识别文字水印](../conferences/icml-2026/cards/3201-3300.md#mansouri26b-evaluation) · Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text
@@ -392,7 +385,6 @@
 - [像素策略的单因素泛化评测](../conferences/icml-2026/cards/0701-0800.md#cherepanov26a-evaluation) · KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning
 - [强化学习后门的逐步不确定性监测](../conferences/icml-2026/cards/1301-1400.md#guo26f-evaluation) · PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent
 - [持续记录新队友和新布局中的上下文适应](../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork
-- [在整条多机构轨迹上评估公平干预](../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems
 - [可重配置的高吞吐多智能体仿真](../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning
 - [用外部训练对手的交互路径检验强化学习后门](../conferences/icml-2026/cards/2801-2900.md#liu26w-evaluation) · Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning
 - [用可塑性干预与后门的交互诊断强化学习脆弱性](../conferences/icml-2026/cards/3101-3200.md#ma26w-evaluation) · Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning
@@ -454,7 +446,6 @@
 - [在球面估计嵌入密度作不确定性代理](../conferences/icml-2026/cards/2001-2100.md#ju26b-evaluation) · Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching
 - [用因果补丁定位跨模态注意力汇点](../conferences/icml-2026/cards/2001-2100.md#jung26c-evaluation) · Probing Cross-modal Information Hubs in Audio-Visual LLMs
 - [用注意力特征摊销推理中的区域消融归因](../conferences/icml-2026/cards/2001-2100.md#kang26d-evaluation) · Real-Time Visual Attribution Streaming in Thinking Model
-- [按机械图纸推理弱项重分配训练采样](../conferences/icml-2026/cards/2201-2300.md#kou26c-evaluation) · MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding
 - [以同层文本近邻解释视觉隐藏表示](../conferences/icml-2026/cards/2201-2300.md#krojer26a-evaluation) · LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
 - [用指令词元的内部状态判别模型是否虚构对象](../conferences/icml-2026/cards/2201-2300.md#lai26e-evaluation) · Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models
 - [视频异常事件级评估](../conferences/icml-2026/cards/2301-2400.md#leng26a-evaluation) · Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark
@@ -590,7 +581,6 @@
 - [同时核对反演代理的物理耦合和速度](../conferences/icml-2026/cards/1501-1600.md#he26ay-evaluation) · MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition
 - [分开归因初始条件和物理残差](../conferences/icml-2026/cards/2201-2300.md#krasowski26a-evaluation) · PINNfluence: Interpreting PINNs through Influence Functions
 - [按构象机制评估蛋白模型的状态覆盖](../conferences/icml-2026/cards/2201-2300.md#ku26a-evaluation) · ProMiSE: Protein Multi-State Evaluation Benchmark in Biological Contexts
-- [以多维指标和时间切分评估功能蛋白设计](../conferences/icml-2026/cards/2201-2300.md#kuang26d-evaluation) · PDFBench: A Benchmark for De Novo Protein Design from Function
 - [按功能和样本量复核基因组模型排名](../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · GENEB: Why Genomic Models Are Hard to Compare
 - [分开评测光变曲线嵌入的类簇、分类和稀有源检索](../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars
 - [分层诊断健康信号推理能力](../conferences/icml-2026/cards/2601-2700.md#li26hr-evaluation) · HEARTS: Benchmarking LLM Reasoning on Health Time Series

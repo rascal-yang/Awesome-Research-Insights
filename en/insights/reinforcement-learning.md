@@ -440,7 +440,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · 中文
 - [Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients](../../conferences/icml-2026/cards/1801-1900.md#ivanovic26a-reinforcement-learning) · 中文
 - [Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors](../../conferences/icml-2026/cards/2101-2200.md#kim26ad-reinforcement-learning) · 中文
-- [Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)](../../conferences/icml-2026/cards/2101-2200.md#knorr26a-reinforcement-learning) · 中文
 - [LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching](../../conferences/icml-2026/cards/2201-2300.md#lai26f-reinforcement-learning) · 中文
 - [Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](../../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · 中文
 - [FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ch-reinforcement-learning) · 中文

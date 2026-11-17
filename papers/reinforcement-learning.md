@@ -246,7 +246,6 @@
 - <a id="cherepanov26a-evaluation"></a>[KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](../conferences/icml-2026/cards/0701-0800.md#paper-cherepanov26a)
 - <a id="guo26f-evaluation"></a>[PolicyGuard: Towards Test-time and Step-level Adversary Defense for Reinforcement Learning Agent](../conferences/icml-2026/cards/1301-1400.md#paper-guo26f)
 - <a id="jing26d-evaluation"></a>[Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../conferences/icml-2026/cards/1901-2000.md#paper-jing26d)
-- <a id="lazri26a-evaluation"></a>[MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../conferences/icml-2026/cards/2201-2300.md#paper-lazri26a)
 - <a id="lee26az-evaluation"></a>[TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../conferences/icml-2026/cards/2301-2400.md#paper-lee26az)
 - <a id="liu26w-evaluation"></a>[Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26w)
 - <a id="ma26w-evaluation"></a>[Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26w)

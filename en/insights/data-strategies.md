@@ -40,7 +40,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment](../../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · 中文
 - [Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](../../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · 中文
 - [From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](../../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · 中文
-- [Toward Cybersecurity-Expert Small Language Models](../../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · 中文
 - [Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · 中文
 - [Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](../../conferences/icml-2026/cards/2601-2700.md#li26hl-data-strategies) · 中文
 - [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](../../conferences/icml-2026/cards/2601-2700.md#li26jt-data-strategies) · 中文
