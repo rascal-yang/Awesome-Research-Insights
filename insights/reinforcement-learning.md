@@ -126,6 +126,7 @@
 - [把知识超图检索训练成多轮代理策略](../conferences/icml-2026/cards/3001-3100.md#luo26c-reinforcement-learning) · Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning
 - [训练长程研究代理在执行前主动澄清用户意图](../conferences/icml-2026/cards/3001-3100.md#luo26p-reinforcement-learning) · IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning
 - [推理隐状态与输出的安全一致性](../conferences/icml-2026/cards/3001-3100.md#luo26x-reinforcement-learning) · Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations
+- [用持久沙盒训练文件推理代理从执行错误恢复](../conferences/icml-2026/cards/3101-3200.md#ma26q-reinforcement-learning) · FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -252,6 +253,7 @@
 - [用分位数梯度回收 CVaR 尾部之外的采样信息](../conferences/icml-2026/cards/3001-3100.md#luo26b-reinforcement-learning) · Boosting CVaR Policy Optimization with Quantile Gradients
 - [用策略比率方差保留高价值但偏离较大的更新](../conferences/icml-2026/cards/3001-3100.md#luo26h-reinforcement-learning) · Ratio-Variance Regularized Policy Optimization
 - [控制隐式策略的生成路径](../conferences/icml-2026/cards/3101-3200.md#lv26d-reinforcement-learning) · FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching
+- [用基策略经验给残差 critic 热启动并恢复动作尺度](../conferences/icml-2026/cards/3101-3200.md#ma26s-reinforcement-learning) · What Makes Value Learning Efficient in Residual Reinforcement Learning?
 
 <a id="by-robotics"></a>
 

@@ -276,6 +276,7 @@
 - <a id="liu26gt-inference"></a>[Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gt)
 - <a id="lu26ae-inference"></a>[Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ae)
 - <a id="luo26i-inference"></a>[D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models](../conferences/icml-2026/cards/3001-3100.md#paper-luo26i)
+- <a id="ma26z-inference"></a>[Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26z)
 
 <a id="by-representation-learning"></a>
 
@@ -385,6 +386,7 @@
 - <a id="lu26o-evaluation"></a>[PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios](../conferences/icml-2026/cards/3001-3100.md#paper-lu26o)
 - <a id="luo26k-evaluation"></a>[AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](../conferences/icml-2026/cards/3001-3100.md#paper-luo26k)
 - <a id="luo26n-evaluation"></a>[Vision Language Models Cannot Reason About Physical Transformation](../conferences/icml-2026/cards/3001-3100.md#paper-luo26n)
+- <a id="ma26t-evaluation"></a>[The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance](../conferences/icml-2026/cards/3101-3200.md#paper-ma26t)
 
 <a id="by-theory-statistics"></a>
 

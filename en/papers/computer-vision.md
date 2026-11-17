@@ -61,6 +61,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lou26c-architecture"></a>[Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26c)
 - <a id="luo26af-architecture"></a>[MotionMAR: Multi-scale Auto-Regressive Human Motion Reconstruction from Sparse Observations](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26af)
 - <a id="luo26al-architecture"></a>[4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26al)
+- <a id="ma26x-architecture"></a>[Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26x)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -218,6 +219,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="luo26ag-training-strategies"></a>[SABER: Continual Learning with Representation Conflict Management](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ag)
 - <a id="ma26b-training-strategies"></a>[Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26b)
 - <a id="ma26n-training-strategies"></a>[Domain Adaptive Object Detection via Dynamic Causal Refinement](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26n)
+- <a id="ma26u-training-strategies"></a>[FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26u)
 
 <a id="by-data-strategies"></a>
 

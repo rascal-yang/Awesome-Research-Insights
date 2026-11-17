@@ -126,6 +126,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luo26c-reinforcement-learning) · 中文
 - [IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luo26p-reinforcement-learning) · 中文
 - [Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](../../conferences/icml-2026/cards/3001-3100.md#luo26x-reinforcement-learning) · 中文
+- [FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26q-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -252,6 +253,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Boosting CVaR Policy Optimization with Quantile Gradients](../../conferences/icml-2026/cards/3001-3100.md#luo26b-reinforcement-learning) · 中文
 - [Ratio-Variance Regularized Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#luo26h-reinforcement-learning) · 中文
 - [FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching](../../conferences/icml-2026/cards/3101-3200.md#lv26d-reinforcement-learning) · 中文
+- [What Makes Value Learning Efficient in Residual Reinforcement Learning?](../../conferences/icml-2026/cards/3101-3200.md#ma26s-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

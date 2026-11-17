@@ -236,6 +236,8 @@
 - [协作拦截与心智理论](../conferences/icml-2026/cards/3001-3100.md#lupu26a-evaluation) · The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind
 - [配对评测降低最佳模型识别成本](../conferences/icml-2026/cards/3101-3200.md#lyu26h-evaluation) · Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm That Provably Exploits Model Similarity
 - [用实际工作负载与原生测试衡量仓库级性能补丁](../conferences/icml-2026/cards/3101-3200.md#ma26l-evaluation) · SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?
+- [用反例和语义保持改写检验稀疏特征是否真表征推理](../conferences/icml-2026/cards/3101-3200.md#ma26v-evaluation) · Do Sparse Autoencoders Identify Reasoning Features in Language Models?
+- [用可逆规则生成可验证的抽象推理变体](../conferences/icml-2026/cards/3101-3200.md#ma26y-evaluation) · A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation
 
 <a id="by-computer-vision"></a>
 
@@ -319,6 +321,7 @@
 - [在整条多机构轨迹上评估公平干预](../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems
 - [可重配置的高吞吐多智能体仿真](../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning
 - [用外部训练对手的交互路径检验强化学习后门](../conferences/icml-2026/cards/2801-2900.md#liu26w-evaluation) · Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning
+- [用可塑性干预与后门的交互诊断强化学习脆弱性](../conferences/icml-2026/cards/3101-3200.md#ma26w-evaluation) · Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -407,6 +410,7 @@
 - [移动音视流回答时机](../conferences/icml-2026/cards/3001-3100.md#lu26o-evaluation) · PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios
 - [把提示设计者与文生图底座分开做可控评测](../conferences/icml-2026/cards/3001-3100.md#luo26k-evaluation) · AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters
 - [用成对守恒与非守恒条件剥离物理判断的文本先验](../conferences/icml-2026/cards/3001-3100.md#luo26n-evaluation) · Vision Language Models Cannot Reason About Physical Transformation
+- [按样本的跨模态差异评估联邦成员推断暴露](../conferences/icml-2026/cards/3101-3200.md#ma26t-evaluation) · The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance
 
 <a id="by-ml-foundations"></a>
 

@@ -152,6 +152,7 @@
 - [持续学习低秩知识合成](../conferences/icml-2026/cards/3001-3100.md#luo26ag-training-strategies) · SABER: Continual Learning with Representation Conflict Management
 - [沿帧轴和去噪轴切换视频扩散粒度](../conferences/icml-2026/cards/3101-3200.md#ma26b-training-strategies) · Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model
 - [以预测不一致驱动频谱扰动抑制跨域检测捷径](../conferences/icml-2026/cards/3101-3200.md#ma26n-training-strategies) · Domain Adaptive Object Detection via Dynamic Causal Refinement
+- [用对抗模仿降低流式生成器与示范轨迹分布差](../conferences/icml-2026/cards/3101-3200.md#ma26u-training-strategies) · FAIL: Flow Matching Adversarial Imitation Learning for Image Generation
 
 <a id="by-nlp"></a>
 

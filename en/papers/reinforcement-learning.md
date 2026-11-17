@@ -141,6 +141,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="luo26b-reinforcement-learning"></a>[Boosting CVaR Policy Optimization with Quantile Gradients](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26b)
 - <a id="luo26h-reinforcement-learning"></a>[Ratio-Variance Regularized Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26h)
 - <a id="lv26d-reinforcement-learning"></a>[FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26d)
+- <a id="ma26s-reinforcement-learning"></a>[What Makes Value Learning Efficient in Residual Reinforcement Learning?](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26s)
 
 <a id="by-training-strategies"></a>
 
@@ -157,6 +158,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="chen26gd-data-strategies"></a>[Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26gd)
 - <a id="fagan26a-data-strategies"></a>[The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](../../conferences/icml-2026/cards/1001-1100.md#paper-fagan26a)
 - <a id="feng26aa-data-strategies"></a>[Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26aa)
+- <a id="ma26p-data-strategies"></a>[Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26p)
 
 <a id="by-inference"></a>
 
@@ -194,6 +196,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="lazri26a-evaluation"></a>[MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../../conferences/icml-2026/cards/2201-2300.md#paper-lazri26a)
 - <a id="lee26az-evaluation"></a>[TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26az)
 - <a id="liu26w-evaluation"></a>[Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26w)
+- <a id="ma26w-evaluation"></a>[Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26w)
 
 <a id="by-theory-statistics"></a>
 

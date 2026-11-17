@@ -103,6 +103,7 @@
 - [用两级路由将长序列任务接入不同专家](../conferences/icml-2026/cards/2901-3000.md#lou26c-architecture) · Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts
 - [稀疏动作的逐尺度自回归](../conferences/icml-2026/cards/3001-3100.md#luo26af-architecture) · MotionMAR: Multi-scale Auto-Regressive Human Motion Reconstruction from Sparse Observations
 - [单目四维几何运动查询](../conferences/icml-2026/cards/3001-3100.md#luo26al-architecture) · 4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere
+- [用降噪脉冲单元和双向多尺度网络处理事件相机](../conferences/icml-2026/cards/3101-3200.md#ma26x-architecture) · Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras
 
 <a id="by-nlp"></a>
 

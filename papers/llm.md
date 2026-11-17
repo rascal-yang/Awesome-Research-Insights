@@ -306,6 +306,7 @@
 - <a id="luo26c-reinforcement-learning"></a>[Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning](../conferences/icml-2026/cards/3001-3100.md#paper-luo26c)
 - <a id="luo26p-reinforcement-learning"></a>[IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning](../conferences/icml-2026/cards/3001-3100.md#paper-luo26p)
 - <a id="luo26x-reinforcement-learning"></a>[Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](../conferences/icml-2026/cards/3001-3100.md#paper-luo26x)
+- <a id="ma26q-reinforcement-learning"></a>[FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26q)
 
 <a id="by-training-strategies"></a>
 
@@ -446,6 +447,7 @@
 - <a id="lu26ab-data-strategies"></a>[FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ab)
 - <a id="luo26m-data-strategies"></a>[TarGATE: Target-Aware Data Selection via Token-Attenuation Gates](../conferences/icml-2026/cards/3001-3100.md#paper-luo26m)
 - <a id="ma26i-data-strategies"></a>[AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining](../conferences/icml-2026/cards/3101-3200.md#paper-ma26i)
+- <a id="ma26o-data-strategies"></a>[Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](../conferences/icml-2026/cards/3101-3200.md#paper-ma26o)
 
 <a id="by-inference"></a>
 
@@ -659,6 +661,7 @@
 - <a id="luo26q-inference"></a>[Task-and-Model-Aware Fractal-Consistency for Efficient LLM Reasoning](../conferences/icml-2026/cards/3001-3100.md#paper-luo26q)
 - <a id="luxembourg26a-inference"></a>[Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](../conferences/icml-2026/cards/3101-3200.md#paper-luxembourg26a)
 - <a id="ma26m-inference"></a>[Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets](../conferences/icml-2026/cards/3101-3200.md#paper-ma26m)
+- <a id="ma26r-inference"></a>[FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing](../conferences/icml-2026/cards/3101-3200.md#paper-ma26r)
 
 <a id="by-representation-learning"></a>
 
@@ -901,6 +904,8 @@
 - <a id="lupu26a-evaluation"></a>[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](../conferences/icml-2026/cards/3001-3100.md#paper-lupu26a)
 - <a id="lyu26h-evaluation"></a>[Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm That Provably Exploits Model Similarity](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26h)
 - <a id="ma26l-evaluation"></a>[SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?](../conferences/icml-2026/cards/3101-3200.md#paper-ma26l)
+- <a id="ma26v-evaluation"></a>[Do Sparse Autoencoders Identify Reasoning Features in Language Models?](../conferences/icml-2026/cards/3101-3200.md#paper-ma26v)
+- <a id="ma26y-evaluation"></a>[A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation](../conferences/icml-2026/cards/3101-3200.md#paper-ma26y)
 
 <a id="by-theory-statistics"></a>
 

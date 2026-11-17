@@ -221,6 +221,7 @@
 - [按答案部件投票并用任务历史校准提前停止](../conferences/icml-2026/cards/3001-3100.md#luo26q-inference) · Task-and-Model-Aware Fractal-Consistency for Efficient LLM Reasoning
 - [掩码解码空洞调度](../conferences/icml-2026/cards/3101-3200.md#luxembourg26a-inference) · Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models
 - [从模拟市场自博弈中让代理构造与复用数值工具](../conferences/icml-2026/cards/3101-3200.md#ma26m-inference) · Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets
+- [把定点非线性编译成批量比较与区间查表](../conferences/icml-2026/cards/3101-3200.md#ma26r-inference) · FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing
 
 <a id="by-computer-vision"></a>
 
@@ -438,6 +439,7 @@
 - [按邻域均匀保留视觉 token 并沿用原位置](../conferences/icml-2026/cards/2901-3000.md#liu26gt-inference) · Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation
 - [分别调节视觉注意力选择与内容的频谱](../conferences/icml-2026/cards/3001-3100.md#lu26ae-inference) · Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery
 - [同时去除跨域检索内容和分类先验的样式偏差](../conferences/icml-2026/cards/3001-3100.md#luo26i-inference) · D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models
+- [先用原始视频作假设再以合成斜视角复核](../conferences/icml-2026/cards/3101-3200.md#ma26z-inference) · Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning
 
 <a id="by-ml-foundations"></a>
 

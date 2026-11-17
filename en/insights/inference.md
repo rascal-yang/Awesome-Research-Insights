@@ -221,6 +221,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Task-and-Model-Aware Fractal-Consistency for Efficient LLM Reasoning](../../conferences/icml-2026/cards/3001-3100.md#luo26q-inference) · 中文
 - [Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](../../conferences/icml-2026/cards/3101-3200.md#luxembourg26a-inference) · 中文
 - [Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets](../../conferences/icml-2026/cards/3101-3200.md#ma26m-inference) · 中文
+- [FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing](../../conferences/icml-2026/cards/3101-3200.md#ma26r-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -438,6 +439,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation](../../conferences/icml-2026/cards/2901-3000.md#liu26gt-inference) · 中文
 - [Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery](../../conferences/icml-2026/cards/3001-3100.md#lu26ae-inference) · 中文
 - [D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models](../../conferences/icml-2026/cards/3001-3100.md#luo26i-inference) · 中文
+- [Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26z-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

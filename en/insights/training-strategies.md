@@ -152,6 +152,7 @@ Training schedules, curricula, and task or stage composition.
 - [SABER: Continual Learning with Representation Conflict Management](../../conferences/icml-2026/cards/3001-3100.md#luo26ag-training-strategies) · 中文
 - [Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model](../../conferences/icml-2026/cards/3101-3200.md#ma26b-training-strategies) · 中文
 - [Domain Adaptive Object Detection via Dynamic Causal Refinement](../../conferences/icml-2026/cards/3101-3200.md#ma26n-training-strategies) · 中文
+- [FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](../../conferences/icml-2026/cards/3101-3200.md#ma26u-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

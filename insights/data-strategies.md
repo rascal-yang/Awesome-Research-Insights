@@ -56,6 +56,7 @@
 - [从可运行全栈仓库反推训练任务与测试](../conferences/icml-2026/cards/3001-3100.md#lu26ab-data-strategies) · FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation
 - [用目标条件的 token 保留率给微调样本排序](../conferences/icml-2026/cards/3001-3100.md#luo26m-data-strategies) · TarGATE: Target-Aware Data Selection via Token-Attenuation Gates
 - [用 Actor–Critic 动态选择预训练域权重](../conferences/icml-2026/cards/3101-3200.md#ma26i-data-strategies) · AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining
+- [补少量实体恒等句让自回归模型学反向关联](../conferences/icml-2026/cards/3101-3200.md#ma26o-data-strategies) · Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge
 
 <a id="by-computer-vision"></a>
 
@@ -94,6 +95,7 @@
 - [跨域离线强化学习的软筛选](../conferences/icml-2026/cards/0601-0700.md#chen26gd-data-strategies) · Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation
 - [数学搜索课程的中间难度实例](../conferences/icml-2026/cards/1001-1100.md#fagan26a-data-strategies) · The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning
 - [世界模型的主动探测数据](../conferences/icml-2026/cards/1101-1200.md#feng26aa-data-strategies) · Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling
+- [用情景记忆的时差误差选择合成强化学习经验](../conferences/icml-2026/cards/3101-3200.md#ma26p-data-strategies) · Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning
 
 <a id="by-robotics"></a>
 

@@ -3139,18 +3139,18 @@ number	pmlr_id	title	paper_url	insight_status
 3138	ma26l	SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?	https://proceedings.mlr.press/v306/ma26l.html	written
 3139	ma26m	Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets	https://proceedings.mlr.press/v306/ma26m.html	written
 3140	ma26n	Domain Adaptive Object Detection via Dynamic Causal Refinement	https://proceedings.mlr.press/v306/ma26n.html	written
-3141	ma26o	Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge	https://proceedings.mlr.press/v306/ma26o.html	pending
-3142	ma26p	Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning	https://proceedings.mlr.press/v306/ma26p.html	pending
-3143	ma26q	FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning	https://proceedings.mlr.press/v306/ma26q.html	pending
-3144	ma26r	FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing	https://proceedings.mlr.press/v306/ma26r.html	pending
-3145	ma26s	What Makes Value Learning Efficient in Residual Reinforcement Learning?	https://proceedings.mlr.press/v306/ma26s.html	pending
-3146	ma26t	The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance	https://proceedings.mlr.press/v306/ma26t.html	pending
-3147	ma26u	FAIL: Flow Matching Adversarial Imitation Learning for Image Generation	https://proceedings.mlr.press/v306/ma26u.html	pending
-3148	ma26v	Do Sparse Autoencoders Identify Reasoning Features in Language Models?	https://proceedings.mlr.press/v306/ma26v.html	pending
-3149	ma26w	Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning	https://proceedings.mlr.press/v306/ma26w.html	pending
-3150	ma26x	Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras	https://proceedings.mlr.press/v306/ma26x.html	pending
-3151	ma26y	A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation	https://proceedings.mlr.press/v306/ma26y.html	pending
-3152	ma26z	Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning	https://proceedings.mlr.press/v306/ma26z.html	pending
+3141	ma26o	Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge	https://proceedings.mlr.press/v306/ma26o.html	written
+3142	ma26p	Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning	https://proceedings.mlr.press/v306/ma26p.html	written
+3143	ma26q	FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning	https://proceedings.mlr.press/v306/ma26q.html	written
+3144	ma26r	FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing	https://proceedings.mlr.press/v306/ma26r.html	written
+3145	ma26s	What Makes Value Learning Efficient in Residual Reinforcement Learning?	https://proceedings.mlr.press/v306/ma26s.html	written
+3146	ma26t	The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance	https://proceedings.mlr.press/v306/ma26t.html	written
+3147	ma26u	FAIL: Flow Matching Adversarial Imitation Learning for Image Generation	https://proceedings.mlr.press/v306/ma26u.html	written
+3148	ma26v	Do Sparse Autoencoders Identify Reasoning Features in Language Models?	https://proceedings.mlr.press/v306/ma26v.html	written
+3149	ma26w	Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning	https://proceedings.mlr.press/v306/ma26w.html	written
+3150	ma26x	Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras	https://proceedings.mlr.press/v306/ma26x.html	written
+3151	ma26y	A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation	https://proceedings.mlr.press/v306/ma26y.html	written
+3152	ma26z	Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning	https://proceedings.mlr.press/v306/ma26z.html	written
 3153	ma26aa	Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces	https://proceedings.mlr.press/v306/ma26aa.html	pending
 3154	ma26ab	Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration	https://proceedings.mlr.press/v306/ma26ab.html	pending
 3155	ma26ac	Dual-Latent Memory Routing for Vision-Language Reasoning	https://proceedings.mlr.press/v306/ma26ac.html	pending

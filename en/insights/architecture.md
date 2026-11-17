@@ -103,6 +103,7 @@ Model-wide design and information flow.
 - [Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts](../../conferences/icml-2026/cards/2901-3000.md#lou26c-architecture) · 中文
 - [MotionMAR: Multi-scale Auto-Regressive Human Motion Reconstruction from Sparse Observations](../../conferences/icml-2026/cards/3001-3100.md#luo26af-architecture) · 中文
 - [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](../../conferences/icml-2026/cards/3001-3100.md#luo26al-architecture) · 中文
+- [Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras](../../conferences/icml-2026/cards/3101-3200.md#ma26x-architecture) · 中文
 
 <a id="by-nlp"></a>
 

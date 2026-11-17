@@ -56,6 +56,7 @@ Data selection, annotation, augmentation, and sampling.
 - [FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](../../conferences/icml-2026/cards/3001-3100.md#lu26ab-data-strategies) · 中文
 - [TarGATE: Target-Aware Data Selection via Token-Attenuation Gates](../../conferences/icml-2026/cards/3001-3100.md#luo26m-data-strategies) · 中文
 - [AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining](../../conferences/icml-2026/cards/3101-3200.md#ma26i-data-strategies) · 中文
+- [Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](../../conferences/icml-2026/cards/3101-3200.md#ma26o-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -94,6 +95,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Transport or Discard: Robust Unbalanced Optimal Transport for Cross-Domain Policy Adaptation](../../conferences/icml-2026/cards/0601-0700.md#chen26gd-data-strategies) · 中文
 - [The Two-Hump Problem: Bridging the Difficulty Gap in Mathematical Reinforcement Learning](../../conferences/icml-2026/cards/1001-1100.md#fagan26a-data-strategies) · 中文
 - [Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](../../conferences/icml-2026/cards/1101-1200.md#feng26aa-data-strategies) · 中文
+- [Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26p-data-strategies) · 中文
 
 <a id="by-robotics"></a>
 

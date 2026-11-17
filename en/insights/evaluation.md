@@ -236,6 +236,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](../../conferences/icml-2026/cards/3001-3100.md#lupu26a-evaluation) · 中文
 - [Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm That Provably Exploits Model Similarity](../../conferences/icml-2026/cards/3101-3200.md#lyu26h-evaluation) · 中文
 - [SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?](../../conferences/icml-2026/cards/3101-3200.md#ma26l-evaluation) · 中文
+- [Do Sparse Autoencoders Identify Reasoning Features in Language Models?](../../conferences/icml-2026/cards/3101-3200.md#ma26v-evaluation) · 中文
+- [A$^2$RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation](../../conferences/icml-2026/cards/3101-3200.md#ma26y-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -319,6 +321,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · 中文
 - [TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · 中文
 - [Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26w-evaluation) · 中文
+- [Angel or Demon: Investigating the Plasticity Interventions’ Impact on Backdoor Threats in Deep Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26w-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -407,6 +410,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios](../../conferences/icml-2026/cards/3001-3100.md#lu26o-evaluation) · 中文
 - [AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](../../conferences/icml-2026/cards/3001-3100.md#luo26k-evaluation) · 中文
 - [Vision Language Models Cannot Reason About Physical Transformation](../../conferences/icml-2026/cards/3001-3100.md#luo26n-evaluation) · 中文
+- [The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance](../../conferences/icml-2026/cards/3101-3200.md#ma26t-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
