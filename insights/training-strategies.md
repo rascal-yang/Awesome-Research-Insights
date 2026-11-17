@@ -135,6 +135,7 @@
 - [trajectory-aware-gui-judge](../conferences/icml-2026/cards/4201-4300.md#sun26w-training-strategies) · SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience
 - [lie-bracket-curriculum](../conferences/icml-2026/cards/4301-4400.md#sweeney26a-training-strategies) · The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order
 - [选择性反向prompt更新](../conferences/icml-2026/cards/4401-4500.md#tiwari26a-training-strategies) · Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning
+- [单调部分上下文流式训练](../conferences/icml-2026/cards/4401-4500.md#tong26n-training-strategies) · ProactiveLLM: Learning Active Interaction for Streaming Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -303,6 +304,7 @@
 - [多内在表征生成辅助理解](../conferences/icml-2026/cards/4201-4300.md#su26n-training-strategies) · Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
 - [scale-conditioned-spatial-learning](../conferences/icml-2026/cards/4201-4300.md#sun26q-training-strategies) · SpaceVista: All-Scale Visual Spatial Reasoning from mm to km
 - [统一多模态的数据与目标耦合](../conferences/icml-2026/cards/4401-4500.md#tong26c-training-strategies) · Beyond Language Modeling: An Exploration of Multimodal Pretraining
+- [无配对跨模态分阶段适配](../conferences/icml-2026/cards/4401-4500.md#tran26e-training-strategies) · Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm
 
 <a id="by-ml-foundations"></a>
 

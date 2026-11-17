@@ -191,6 +191,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="shehmar26a-reinforcement-learning"></a>[Laplacian Representations for Decision-Time Planning](../../conferences/icml-2026/cards/4001-4100.md#paper-shehmar26a)
 - <a id="shen26m-reinforcement-learning"></a>[REG: In-Sample RL via Regularizing the Evaluation Gap](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26m)
 - <a id="su26m-reinforcement-learning"></a>[Multi-timescale Reinforcement Learning by Value Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#paper-su26m)
+- <a id="tong26h-reinforcement-learning"></a>[Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26h)
 
 <a id="by-training-strategies"></a>
 

@@ -99,6 +99,7 @@ Reusable components and local changes to model inputs or connections.
 - [Glimpse: Geometry Learning of Multi-scale Structural Priors for 3D Pose Estimation](../../conferences/icml-2026/cards/4301-4400.md#tang26p-modules) · 中文
 - [CoGe-GCD: Reframing Generalized Category Discovery with Compositional Generalization](../../conferences/icml-2026/cards/4301-4400.md#tang26ai-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
+- [SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging](../../conferences/icml-2026/cards/4401-4500.md#tran26g-modules) · 中文
 
 <a id="by-nlp"></a>
 

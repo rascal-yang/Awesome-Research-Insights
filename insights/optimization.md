@@ -91,6 +91,7 @@
 - [用语言知识构造 LoRA 贝叶斯搜索空间](../conferences/icml-2026/cards/4001-4100.md#seong-eun26a-optimization) · A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search
 - [inner-optimizer-worker-scaling](../conferences/icml-2026/cards/4401-4500.md#therien26a-optimization) · MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo
 - [calibrated-svd-rank-allocation](../conferences/icml-2026/cards/4401-4500.md#thoma26a-optimization) · Advancing SVD-based LLM Compression via Layer-Wise Error Model Search
+- [跨客户端闲置专家伪梯度](../conferences/icml-2026/cards/4401-4500.md#tran26f-optimization) · UB-SMoE: Universally Balanced Sparse Mixture-of-Experts for Resource-adaptive Federated Fine-tuning of Foundation Models
 
 <a id="by-computer-vision"></a>
 
@@ -150,6 +151,7 @@
 - [由熵正则分数运输引导整数路径](../conferences/icml-2026/cards/2001-2100.md#khan26a-optimization) · Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
 - [把长程规划中间状态设为并行变量](../conferences/icml-2026/cards/3601-3700.md#psenka26a-optimization) · Parallel Stochastic Gradient-Based Planning for World Models
 - [用模拟器裁决形态与奖励的多智能体辩论](../conferences/icml-2026/cards/3701-3800.md#qiu26c-optimization) · Debate2Create: Robot Co-design via Multi-Agent LLM Debate
+- [分支依赖平衡序列代理伴随](../conferences/icml-2026/cards/4401-4500.md#tong26j-optimization) · Neural Control: Adjoint Learning Through Equilibrium Constraints
 
 <a id="by-multimodal"></a>
 
@@ -397,6 +399,7 @@
 - [stratified-particle-descent](../conferences/icml-2026/cards/4401-4500.md#tao26d-optimization) · Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction
 - [layerwise-variance-preserving-connectivity](../conferences/icml-2026/cards/4401-4500.md#tian26a-optimization) · Connecting Independently Trained Modes via Layer-Wise Connectivity
 - [特征与样本双侧ARD](../conferences/icml-2026/cards/4401-4500.md#timans26a-optimization) · Joint Model and Data Sparsification via the Marginal Likelihood
+- [位置编码约束的权重匹配](../conferences/icml-2026/cards/4401-4500.md#tran26d-optimization) · Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity
 
 <a id="by-graph-and-recommendation"></a>
 

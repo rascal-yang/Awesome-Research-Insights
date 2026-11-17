@@ -83,6 +83,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers](../../conferences/icml-2026/cards/4301-4400.md#sun26ac-representation-learning) · 中文
 - [Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning](../../conferences/icml-2026/cards/4301-4400.md#tan26f-representation-learning) · 中文
 - [Content-Style Identification via Differential Independence](../../conferences/icml-2026/cards/4401-4500.md#timilsina26a-representation-learning) · 中文
+- [Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](../../conferences/icml-2026/cards/4401-4500.md#tong26g-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

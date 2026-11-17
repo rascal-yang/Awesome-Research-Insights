@@ -320,6 +320,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tian26d-evaluation) · 中文
 - [Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models](../../conferences/icml-2026/cards/4401-4500.md#tiwari26b-evaluation) · 中文
 - [Is Code Better Than Language for Algorithmic Reasoning?](../../conferences/icml-2026/cards/4401-4500.md#tong26d-evaluation) · 中文
+- [Poison with Style: A Practical Poisoning Attack on Code Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tran26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -379,6 +380,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements](../../conferences/icml-2026/cards/4201-4300.md#sprunck26a-evaluation) · 中文
 - [Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation](../../conferences/icml-2026/cards/4201-4300.md#sreeram26a-evaluation) · 中文
 - [Deep Learning for BioImaging: What Are We Really Learning?](../../conferences/icml-2026/cards/4301-4400.md#svatko26a-evaluation) · 中文
+- [Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](../../conferences/icml-2026/cards/4401-4500.md#tragoudaras26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

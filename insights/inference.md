@@ -416,6 +416,7 @@
 - [稀疏高强度CFG与分区校准](../conferences/icml-2026/cards/4301-4400.md#sun26aw-inference) · RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers
 - [PU过滤后校准零样本原型](../conferences/icml-2026/cards/4301-4400.md#tang26q-inference) · When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation
 - [low-rank-diffusion-splitting](../conferences/icml-2026/cards/4401-4500.md#tao26h-inference) · Bayesian Tensor Decomposition with Diffusion Model Prior
+- [熵感知视觉稀疏注意力](../conferences/icml-2026/cards/4401-4500.md#tong26k-inference) · Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing
 
 <a id="by-nlp"></a>
 
@@ -585,6 +586,7 @@
 - [去噪置信波动定位幻觉](../conferences/icml-2026/cards/4201-4300.md#song26d-inference) · When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation
 - [查询前缀复用的图像裁剪](../conferences/icml-2026/cards/4301-4400.md#sun26aq-inference) · Very Efficient Listwise Multimodal Reranking for Long Documents
 - [neutral-reference-pairwise-correction](../conferences/icml-2026/cards/4401-4500.md#tian26j-inference) · Neutral-Reference Prompting for Vision–Language Models
+- [跨模型答案熵选路](../conferences/icml-2026/cards/4401-4500.md#tong26f-inference) · Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

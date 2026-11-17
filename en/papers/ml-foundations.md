@@ -169,6 +169,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="smith26a-loss-functions"></a>[Calibrating Generative Models to Distributional Constraints](../../conferences/icml-2026/cards/4101-4200.md#paper-smith26a)
 - <a id="tang26x-loss-functions"></a>[Learning to Rank by Directly Optimizing Full-Order Probabilities](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26x)
 - <a id="tao26f-loss-functions"></a>[The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26f)
+- <a id="torkamani26a-loss-functions"></a>[Magnitude Distance: A Geometric Measure of Dataset Similarity](../../conferences/icml-2026/cards/4401-4500.md#paper-torkamani26a)
 
 <a id="by-optimization"></a>
 
@@ -405,6 +406,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="tao26d-optimization"></a>[Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26d)
 - <a id="tian26a-optimization"></a>[Connecting Independently Trained Modes via Layer-Wise Connectivity](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26a)
 - <a id="timans26a-optimization"></a>[Joint Model and Data Sparsification via the Marginal Likelihood](../../conferences/icml-2026/cards/4401-4500.md#paper-timans26a)
+- <a id="tran26d-optimization"></a>[Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -519,6 +521,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="singer26a-data-strategies"></a>[Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints](../../conferences/icml-2026/cards/4101-4200.md#paper-singer26a)
 - <a id="tang26r-data-strategies"></a>[Federated Data and Feature Selection by Generalized CUR Decomposition](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26r)
 - <a id="tian26c-data-strategies"></a>[Is Data Shapley Not Better than Random in Data Selection? Ask NASH](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26c)
+- <a id="tran26a-data-strategies"></a>[Differentially Private Synthetic Data via APIs 4: Tabular Data](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26a)
 
 <a id="by-inference"></a>
 
@@ -1061,4 +1064,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="tenzer26a-theory-statistics"></a>[Semi-Supervised Hypothesis Testing by Betting on Predictions](../../conferences/icml-2026/cards/4401-4500.md#paper-tenzer26a)
 - <a id="thomsen26a-theory-statistics"></a>[A Tight Theory of Error Feedback Algorithms in Distributed Optimization](../../conferences/icml-2026/cards/4401-4500.md#paper-thomsen26a)
 - <a id="tian26n-theory-statistics"></a>[LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26n)
+- <a id="tran26c-theory-statistics"></a>[Conservation Laws for Modern Neural Architectures](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26c)
 <!-- classification:end -->

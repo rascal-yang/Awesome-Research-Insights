@@ -320,6 +320,7 @@
 - [evaluation-factor-interactions](../conferences/icml-2026/cards/4401-4500.md#tian26d-evaluation) · Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models
 - [过程奖励与正确率脱钩](../conferences/icml-2026/cards/4401-4500.md#tiwari26b-evaluation) · Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models
 - [代码表示与执行机制的配对分离](../conferences/icml-2026/cards/4401-4500.md#tong26d-evaluation) · Is Code Better Than Language for Algorithmic Reasoning?
+- [代码风格条件化安全失效](../conferences/icml-2026/cards/4401-4500.md#tran26b-evaluation) · Poison with Style: A Practical Poisoning Attack on Code Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -379,6 +380,7 @@
 - [单观测噪声裂分模型检验](../conferences/icml-2026/cards/4201-4300.md#sprunck26a-evaluation) · Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements
 - [在线自适应时间效用](../conferences/icml-2026/cards/4201-4300.md#sreeram26a-evaluation) · Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation
 - [audit-low-level-shortcuts](../conferences/icml-2026/cards/4301-4400.md#svatko26a-evaluation) · Deep Learning for BioImaging: What Are We Really Learning?
+- [基于定律的视频动力学评测](../conferences/icml-2026/cards/4401-4500.md#tragoudaras26a-evaluation) · Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems
 
 <a id="by-nlp"></a>
 

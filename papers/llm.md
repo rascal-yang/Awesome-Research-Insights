@@ -232,6 +232,7 @@
 - <a id="seong-eun26a-optimization"></a>[A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search](../conferences/icml-2026/cards/4001-4100.md#paper-seong-eun26a)
 - <a id="therien26a-optimization"></a>[MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo](../conferences/icml-2026/cards/4401-4500.md#paper-therien26a)
 - <a id="thoma26a-optimization"></a>[Advancing SVD-based LLM Compression via Layer-Wise Error Model Search](../conferences/icml-2026/cards/4401-4500.md#paper-thoma26a)
+- <a id="tran26f-optimization"></a>[UB-SMoE: Universally Balanced Sparse Mixture-of-Experts for Resource-adaptive Federated Fine-tuning of Foundation Models](../conferences/icml-2026/cards/4401-4500.md#paper-tran26f)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -523,6 +524,7 @@
 - <a id="sun26w-training-strategies"></a>[SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](../conferences/icml-2026/cards/4201-4300.md#paper-sun26w)
 - <a id="sweeney26a-training-strategies"></a>[The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order](../conferences/icml-2026/cards/4301-4400.md#paper-sweeney26a)
 - <a id="tiwari26a-training-strategies"></a>[Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning](../conferences/icml-2026/cards/4401-4500.md#paper-tiwari26a)
+- <a id="tong26n-training-strategies"></a>[ProactiveLLM: Learning Active Interaction for Streaming Large Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tong26n)
 
 <a id="by-data-strategies"></a>
 
@@ -1228,6 +1230,7 @@
 - <a id="tian26d-evaluation"></a>[Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tian26d)
 - <a id="tiwari26b-evaluation"></a>[Reward Under Attack: Analyzing the Robustness and Hackability of Process Reward Models](../conferences/icml-2026/cards/4401-4500.md#paper-tiwari26b)
 - <a id="tong26d-evaluation"></a>[Is Code Better Than Language for Algorithmic Reasoning?](../conferences/icml-2026/cards/4401-4500.md#paper-tong26d)
+- <a id="tran26b-evaluation"></a>[Poison with Style: A Practical Poisoning Attack on Code Large Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tran26b)
 
 <a id="by-theory-statistics"></a>
 

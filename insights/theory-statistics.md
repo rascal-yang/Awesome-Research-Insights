@@ -77,6 +77,7 @@
 - [递归探测图像表征的空间组合能力](../conferences/icml-2026/cards/3101-3200.md#lyu26g-theory-statistics) · On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning
 - [用补丁后验解释卷积逆问题求解器](../conferences/icml-2026/cards/3401-3500.md#nguyen26c-theory-statistics) · An analytic theory of convolutional neural network inverse problems solvers
 - [沿扩散时间分辨语义互信息和低层细节熵](../conferences/icml-2026/cards/3601-3700.md#premkumar26a-theory-statistics) · On the Separability of Information in Diffusion Models
+- [简单对比增广的频谱捷径](../conferences/icml-2026/cards/4401-4500.md#torralba26a-theory-statistics) · A Theory of Contrastive Learning with Natural Images
 
 <a id="by-nlp"></a>
 
@@ -556,6 +557,7 @@
 - [bet-on-predictions-with-null-retraining](../conferences/icml-2026/cards/4401-4500.md#tenzer26a-theory-statistics) · Semi-Supervised Hypothesis Testing by Betting on Predictions
 - [error-feedback-heterogeneity-boundary](../conferences/icml-2026/cards/4401-4500.md#thomsen26a-theory-statistics) · A Tight Theory of Error Feedback Algorithms in Distributed Optimization
 - [少查询双样本检验的参考端学习](../conferences/icml-2026/cards/4401-4500.md#tian26n-theory-statistics) · LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry
+- [现代模块守恒量诊断边界](../conferences/icml-2026/cards/4401-4500.md#tran26c-theory-statistics) · Conservation Laws for Modern Neural Architectures
 
 <a id="by-graph-and-recommendation"></a>
 

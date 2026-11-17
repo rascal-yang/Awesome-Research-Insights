@@ -117,6 +117,7 @@
 - <a id="tang26p-modules"></a>[Glimpse: Geometry Learning of Multi-scale Structural Priors for 3D Pose Estimation](../conferences/icml-2026/cards/4301-4400.md#paper-tang26p)
 - <a id="tang26ai-modules"></a>[CoGe-GCD: Reframing Generalized Category Discovery with Compositional Generalization](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ai)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
+- <a id="tran26g-modules"></a>[SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging](../conferences/icml-2026/cards/4401-4500.md#paper-tran26g)
 
 <a id="by-loss-functions"></a>
 
@@ -400,6 +401,7 @@
 - <a id="sun26aw-inference"></a>[RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers](../conferences/icml-2026/cards/4301-4400.md#paper-sun26aw)
 - <a id="tang26q-inference"></a>[When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation](../conferences/icml-2026/cards/4301-4400.md#paper-tang26q)
 - <a id="tao26h-inference"></a>[Bayesian Tensor Decomposition with Diffusion Model Prior](../conferences/icml-2026/cards/4401-4500.md#paper-tao26h)
+- <a id="tong26k-inference"></a>[Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing](../conferences/icml-2026/cards/4401-4500.md#paper-tong26k)
 
 <a id="by-representation-learning"></a>
 
@@ -455,6 +457,7 @@
 - <a id="sun26ac-representation-learning"></a>[Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers](../conferences/icml-2026/cards/4301-4400.md#paper-sun26ac)
 - <a id="tan26f-representation-learning"></a>[Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tan26f)
 - <a id="timilsina26a-representation-learning"></a>[Content-Style Identification via Differential Independence](../conferences/icml-2026/cards/4401-4500.md#paper-timilsina26a)
+- <a id="tong26g-representation-learning"></a>[Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](../conferences/icml-2026/cards/4401-4500.md#paper-tong26g)
 
 <a id="by-evaluation"></a>
 
@@ -514,6 +517,7 @@
 - <a id="sprunck26a-evaluation"></a>[Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements](../conferences/icml-2026/cards/4201-4300.md#paper-sprunck26a)
 - <a id="sreeram26a-evaluation"></a>[Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation](../conferences/icml-2026/cards/4201-4300.md#paper-sreeram26a)
 - <a id="svatko26a-evaluation"></a>[Deep Learning for BioImaging: What Are We Really Learning?](../conferences/icml-2026/cards/4301-4400.md#paper-svatko26a)
+- <a id="tragoudaras26a-evaluation"></a>[Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](../conferences/icml-2026/cards/4401-4500.md#paper-tragoudaras26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -524,4 +528,5 @@
 - <a id="lyu26g-theory-statistics"></a>[On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26g)
 - <a id="nguyen26c-theory-statistics"></a>[An analytic theory of convolutional neural network inverse problems solvers](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26c)
 - <a id="premkumar26a-theory-statistics"></a>[On the Separability of Information in Diffusion Models](../conferences/icml-2026/cards/3601-3700.md#paper-premkumar26a)
+- <a id="torralba26a-theory-statistics"></a>[A Theory of Contrastive Learning with Natural Images](../conferences/icml-2026/cards/4401-4500.md#paper-torralba26a)
 <!-- classification:end -->

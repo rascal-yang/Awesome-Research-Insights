@@ -198,6 +198,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Calibrating Generative Models to Distributional Constraints](../../conferences/icml-2026/cards/4101-4200.md#smith26a-loss-functions) · 中文
 - [Learning to Rank by Directly Optimizing Full-Order Probabilities](../../conferences/icml-2026/cards/4301-4400.md#tang26x-loss-functions) · 中文
 - [The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization](../../conferences/icml-2026/cards/4401-4500.md#tao26f-loss-functions) · 中文
+- [Magnitude Distance: A Geometric Measure of Dataset Similarity](../../conferences/icml-2026/cards/4401-4500.md#torkamani26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

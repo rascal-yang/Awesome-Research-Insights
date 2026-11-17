@@ -416,6 +416,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [RSTR: Reducing SpatioTemporal Redundancy in Diffusion Transformers](../../conferences/icml-2026/cards/4301-4400.md#sun26aw-inference) · 中文
 - [When Generalized Zero-Shot Learning Meets PU Learning: A Plug-and-Play Framework for Seen-Class Bias Mitigation](../../conferences/icml-2026/cards/4301-4400.md#tang26q-inference) · 中文
 - [Bayesian Tensor Decomposition with Diffusion Model Prior](../../conferences/icml-2026/cards/4401-4500.md#tao26h-inference) · 中文
+- [Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing](../../conferences/icml-2026/cards/4401-4500.md#tong26k-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -585,6 +586,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation](../../conferences/icml-2026/cards/4201-4300.md#song26d-inference) · 中文
 - [Very Efficient Listwise Multimodal Reranking for Long Documents](../../conferences/icml-2026/cards/4301-4400.md#sun26aq-inference) · 中文
 - [Neutral-Reference Prompting for Vision–Language Models](../../conferences/icml-2026/cards/4401-4500.md#tian26j-inference) · 中文
+- [Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models](../../conferences/icml-2026/cards/4401-4500.md#tong26f-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

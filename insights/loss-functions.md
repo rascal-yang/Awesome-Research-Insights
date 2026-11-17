@@ -198,6 +198,7 @@
 - [分布约束校准与无偏矩损失](../conferences/icml-2026/cards/4101-4200.md#smith26a-loss-functions) · Calibrating Generative Models to Distributional Constraints
 - [全序事件下界训练](../conferences/icml-2026/cards/4301-4400.md#tang26x-loss-functions) · Learning to Rank by Directly Optimizing Full-Order Probabilities
 - [value-repulsion-grokking](../conferences/icml-2026/cards/4401-4500.md#tao26f-loss-functions) · The Geometric Origin of Grokking: Accelerating Generalization via Active Structural Reorganization
+- [多尺度几何集合生成损失](../conferences/icml-2026/cards/4401-4500.md#torkamani26a-loss-functions) · Magnitude Distance: A Geometric Measure of Dataset Similarity
 
 <a id="by-graph-and-recommendation"></a>
 

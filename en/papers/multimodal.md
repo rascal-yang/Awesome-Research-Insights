@@ -230,6 +230,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="su26n-training-strategies"></a>[Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation](../../conferences/icml-2026/cards/4201-4300.md#paper-su26n)
 - <a id="sun26q-training-strategies"></a>[SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26q)
 - <a id="tong26c-training-strategies"></a>[Beyond Language Modeling: An Exploration of Multimodal Pretraining](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26c)
+- <a id="tran26e-training-strategies"></a>[Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm](../../conferences/icml-2026/cards/4401-4500.md#paper-tran26e)
 
 <a id="by-data-strategies"></a>
 
@@ -347,6 +348,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="song26d-inference"></a>[When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation](../../conferences/icml-2026/cards/4201-4300.md#paper-song26d)
 - <a id="sun26aq-inference"></a>[Very Efficient Listwise Multimodal Reranking for Long Documents](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26aq)
 - <a id="tian26j-inference"></a>[Neutral-Reference Prompting for Vision–Language Models](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26j)
+- <a id="tong26f-inference"></a>[Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26f)
 
 <a id="by-representation-learning"></a>
 

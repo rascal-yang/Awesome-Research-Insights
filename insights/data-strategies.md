@@ -198,6 +198,7 @@
 - [保留后验概率并在公平阈值处随机化标签聚合](../conferences/icml-2026/cards/4101-4200.md#singer26a-data-strategies) · Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints
 - [联邦列主元与局部样本选择](../conferences/icml-2026/cards/4301-4400.md#tang26r-data-strategies) · Federated Data and Feature Selection by Generalized CUR Decomposition
 - [nonlinear-component-data-valuation](../conferences/icml-2026/cards/4401-4500.md#tian26c-data-strategies) · Is Data Shapley Not Better than Random in Data Selection? Ask NASH
+- [隐私合成样本级两阶段演化](../conferences/icml-2026/cards/4401-4500.md#tran26a-data-strategies) · Differentially Private Synthetic Data via APIs 4: Tabular Data
 
 <a id="by-graph-and-recommendation"></a>
 

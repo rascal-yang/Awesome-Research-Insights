@@ -83,6 +83,7 @@
 - [parametric-to-spatial-pretraining](../conferences/icml-2026/cards/4301-4400.md#sun26ac-representation-learning) · Brep2Shape: Boundary and Shape Representation Alignment via Self-supervised Transformers
 - [Jacobian分维排序对比](../conferences/icml-2026/cards/4301-4400.md#tan26f-representation-learning) · Semi-Supervised Gaze Estimation via Disentangled Subspace Contrastive Learning
 - [内容风格切空间正交](../conferences/icml-2026/cards/4401-4500.md#timilsina26a-representation-learning) · Content-Style Identification via Differential Independence
+- [因果属性与文本槽位对齐](../conferences/icml-2026/cards/4401-4500.md#tong26g-representation-learning) · Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation
 
 <a id="by-nlp"></a>
 

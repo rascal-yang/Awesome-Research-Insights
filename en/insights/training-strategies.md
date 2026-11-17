@@ -135,6 +135,7 @@ Training schedules, curricula, and task or stage composition.
 - [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](../../conferences/icml-2026/cards/4201-4300.md#sun26w-training-strategies) · 中文
 - [The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order](../../conferences/icml-2026/cards/4301-4400.md#sweeney26a-training-strategies) · 中文
 - [Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning](../../conferences/icml-2026/cards/4401-4500.md#tiwari26a-training-strategies) · 中文
+- [ProactiveLLM: Learning Active Interaction for Streaming Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tong26n-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -303,6 +304,7 @@ Training schedules, curricula, and task or stage composition.
 - [Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation](../../conferences/icml-2026/cards/4201-4300.md#su26n-training-strategies) · 中文
 - [SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](../../conferences/icml-2026/cards/4201-4300.md#sun26q-training-strategies) · 中文
 - [Beyond Language Modeling: An Exploration of Multimodal Pretraining](../../conferences/icml-2026/cards/4401-4500.md#tong26c-training-strategies) · 中文
+- [Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm](../../conferences/icml-2026/cards/4401-4500.md#tran26e-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -4470,26 +4470,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4469	tong26c	4	5	4	4	86		新增量/复用/可用/独特性依次评分：按表示选择扩散目标：RAE高维语义latent配x-pred，低维VAE在细粒度MoE下配v-pred；导航模型优先补通用视频而非只扩域内轨迹。 最近来源与对照：来源Transfusion、RAE、MoE与NWM；增量是条件化选择与等预算混合规律，非首次使用这些模块。 边界：1T多模态与520B纯文本不是等总计算；优先采用文中固定总预算对照；1%为所测数据/模型范围，非通用比例；能力经VQA微调评测，世界模型预测非真机策略安全保证；缩放指数仅拟合范围内。 PDF第3,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26c/tong26c.pdf	scored
 4470	tong26d	4	5	5	4	90		新增量/复用/可用/独特性依次评分：评价代码推理时将同一生成程序分别交给LLM模拟和真实执行器；只有真实执行显著获益时应投资执行可靠性，而非只改写推理表示。 最近来源与对照：来源程序辅助推理；新增中间模拟干预分离同code执行机制，另用回译检查表示信息保留。 边界：NL/模拟仍有prompt与生成trace差异，非独立操纵潜变量的强因果识别；相同程序的执行比较更强；线性理论需共享充分信息和附加正交噪声，不等于任意LLM代码表示必优；单次无修复工具协议。 PDF第3,4,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26d/tong26d.pdf	scored
 4471	tong26e							p3–8的拒绝仍有不安全CoT现象及局部softmax-Jacobian谱差异可作防御线索，但局限固定假新闻提示/标注器与模型，小层段随风格明显变化；未核实相对既有CoT监控/层定位可迁移的稳定诊断准则，谱相关不证明头部安全因果机制，暂不单列。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26e/tong26e.pdf	rule-excluded
-4472	tong26f							待原文复核评分	pending
-4473	tong26g							待原文复核评分	pending
-4474	tong26h							待原文复核评分	pending
-4475	tong26i							待原文复核评分	pending
-4476	tong26j							待原文复核评分	pending
-4477	tong26k							待原文复核评分	pending
-4478	tong26l							待原文复核评分	pending
-4479	tong26m							待原文复核评分	pending
-4480	tong26n							待原文复核评分	pending
-4481	torkamani26a							待原文复核评分	pending
-4482	torralba26a							待原文复核评分	pending
-4483	toure26a							待原文复核评分	pending
-4484	tragoudaras26a							待原文复核评分	pending
-4485	tran26a							待原文复核评分	pending
-4486	tran26b							待原文复核评分	pending
-4487	tran26c							待原文复核评分	pending
-4488	tran26d							待原文复核评分	pending
-4489	tran26e							待原文复核评分	pending
-4490	tran26f							待原文复核评分	pending
-4491	tran26g							待原文复核评分	pending
+4472	tong26f	3	4	4	3	70		新增量/复用/可用/独特性依次(3, 4, 4, 3)；来源为自一致投票、Best-of-N与置信选路；对照长度、pivot词、Feature-All及完全相同输出上的多数投票。 只验证多选题，模型间熵可比与校准关键；跨模型不是同FLOPs单模型对照。定理1用成对相关推导一般投票单调性、定理2以熵与正确标签概率严格单调推导优势均不足以作为普遍保证；保留经验机制。 PDF第3,6,7页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26f/tong26f.pdf	scored
+4473	tong26g	3	4	4	3	70		新增量/复用/可用/独特性依次(3, 4, 4, 3)；来源为SCM、ControlNet类侧路、InfoNCE与注意力引导；实际对比CausalVAE、CausalDiffAE、HVAE、DiffCounter，内部逐加PAI/CTC。 因果解释依赖已知图、机制/噪声假设及正确图像反演；编辑成功不证明从观测识别真实因果。额外适配器训练与属性标注；注意力引导有保真和有效性权衡。 PDF第4,5,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26g/tong26g.pdf	scored
+4474	tong26h	4	4	3	4	76		新增量/复用/可用/独特性依次(4, 4, 3, 4)；Flow-GRPO为终局回报对照；最近过程奖励TempFlow-GRPO仅取分支机制做重实现；新增点为转折点选择与累计差替换。 逐latent完整续跑增加开销，更新数相同不等计算。ODE保持边缘分布不意味着其结果是条件SDE回报期望；标准终局回报策略梯度也不假设各步贡献相同，因此仅把该设计当经验信用代理，非无偏纯效应。 PDF第4,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26h/tong26h.pdf	scored
+4475	tong26i							主要操作分别来自MAETok的遮蔽tokenizer、DeTok的latent插值噪声及VideoMAE可见token编码；p3–4明确沿用，其视频扩展和decoder容量调整未分离出足以单列的新增机制；不以gFVD提升替代独立新增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26i/tong26i.pdf	rule-excluded
+4476	tong26j	4	5	4	4	86		新增量/复用/可用/独特性依次(4, 5, 4, 4)；来源为隐式微分、DEQ、可微MPC与伴随；比较SPSA、iCEM以及去掉RHC的Adjoint-only，共用前向求解器。 代理梯度不是分支切换的精确导数；依赖局部平滑、Gx非奇异且切线变化温和；准静态不含惯性。固定更新非等目标评估次数，真实实验主要定性。 PDF第3,4,5,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26j/tong26j.pdf	scored
+4477	tong26k	3	4	4	3	70		新增量/复用/可用/独特性依次(3, 4, 4, 3)；来源为StreamingLLM、R-KV及视觉局部性；新增区域熵控制三档预算；实际对比原模型、Streaming、R-KV、LineAR。 前向表显示延迟节约远小于正文接近2倍说法；tokens/s与整样本延迟分别报告，不混用。不同方法预算口径不同；完整历史仍须可供高熵步骤访问，稀疏注意力不等于永久删缓存。 PDF第4,5,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26k/tong26k.pdf	scored
+4478	tong26l							p4 Eq1的同查询baseline正确性为全组常数，在p5 Eq2减组均值/除标准差后完全抵消，与二元正确性奖励给出同优势；p7表4差异未解释此不变量。其余为常规GRPO工具选择/冻结reasoner组合，尚无可独立采纳的新操作；不采信差分奖励归因。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26l/tong26l.pdf	rule-excluded
+4479	tong26m							p4–6 Eq5候选分数固定，Eq7只加抽样干扰项均值/标准差，未计算主候选在上下文变化下的新分数；故不能由该式支持所称稳定性机制。表2虽有同score贪心对照，但未排除额外搜索/采样选择效应；剩余CLIP/SAM/热图/语言规则组合缺少独立新增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26m/tong26m.pdf	rule-excluded
+4480	tong26n	4	4	4	4	80		新增量/复用/可用/独特性依次(4, 4, 4, 4)；来源为wait-k、随机mask及自蒸馏；比较静态wait-k和用Qwen3-32B/GPT-5.4构造对齐监督的决策器；去MSLM/蒸馏消融。 RCO非实际算力，AIL非秒级端到端延迟；多选85.83/88.33是97.17%质量保留，不是97%准确率。部分上下文仍可能幻觉；完整NLL锚与KL贡献应分开。 PDF第3,4,5,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tong26n/tong26n.pdf	scored
+4481	torkamani26a	4	4	3	4	76		新增量/复用/可用/独特性依次(4, 4, 3, 4)；来源为Leinster magnitude和MMD类生成训练；比较MMD、切片Wasserstein及同MLP的WGAN/WGAN-GP。 不是一般概率分布度量：忽略重复点频率，D>1不满足三角不等式；有界鲁棒性依赖非负权重；核求解成本和病态需控制；跨距离绝对数值不可直接比较。 PDF第2,3,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/torkamani26a/torkamani26a.pdf	scored
+4482	torralba26a	4	4	4	4	80		新增量/复用/可用/独特性依次(4, 4, 4, 4)；来源为谱对比学习与经典部分白化；比较随机权重、PCA部分白化、不同合成频谱及增广，非提出普适深网络最优解。 全局最优结论针对LGUPA、平稳性和指定增广/浅层架构；不扩展为InfoNCE深网定理。SOTA尺寸/宽高比/颜色增广打破简单正弦解，噪声预训练取决于频谱匹配。 PDF第4,5,6,7,9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/torralba26a/torralba26a.pdf	scored
+4483	toure26a							p2/附录A(p15–17)把新增量定位为from-scratch低秩权重后验，但Hawkins与Zhang2021 Bayesian tensorized neural networks（https://web.ece.ucsb.edu/~zhengzhang/journals/Cole_BTNN_neurocomputing_2021.pdf PDF p2–5）已在神经网络因子权重上端到端Bayesian训练、共享低秩结构并量化不确定性，且支持自动秩选择。该先验使用TT/SVGD而本篇为二维AB转置/mean-field BBB，二者并非逐式相同；但本篇p3为常规因子ELBO/重参数化，p5谱尾界为经典Eckart–Young迁移，p9秩/校准/SVD经验缺少与旧Bayesian因子模型的受控比较，未找到足以独立单列的新条件或决策边界。排除依据是独立新增量不足，不是PAC-Bayes瑕疵。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/toure26a/toure26a.pdf	rule-excluded
+4484	tragoudaras26a	4	5	4	4	86		新增量/复用/可用/独特性依次(4, 5, 4, 4)；对比PhysicsIQ/COSMOS参考轨迹匹配、VLM打分及LikePhys内部似然；新增对真实动力学的显式定律与过滤分报。 得分仅对通过筛选视频，须同时读丢弃率；未知像素物理尺度只拟合方程形状，不能验证绝对重力/质量；2D投影和轨迹微分有误差。首尾条件额外给未来信息，不是同信息预测对照。 PDF第4,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tragoudaras26a/tragoudaras26a.pdf	scored
+4485	tran26a	3	3	4	3	64		新增量/复用/可用/独特性依次(3, 3, 4, 3)；继承Private Evolution的私有直方图；新增轻量表格随机步和两阶段选择；对比AIM/PrivMRF/GEM/RAP++/PrivGSD和单阶段、交叉变异消融。 需要属性范围/类别等先验，私有范围估计另耗预算；高阶优势可能伴低阶保真变差，低阶数据约落后AIM1个百分点；未证明神经感知/动作数据同样适用，迁移仅为结构化训练数据。 PDF第4,5,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26a/tran26a.pdf	scored
+4486	tran26b	4	4	4	4	80		新增量/复用/可用/独特性依次(4, 4, 4, 4)；对照原模型、固定触发Sleeper Agent以及安全提示/再微调/BEEAR防御；机制为分布式风格条件风险，不提供投毒构造。 基于静态分析判定，不能等价真实可利用性；主要Python和指定模型；常规效用少量下降不代表供应链安全；不将定制集率外推所有真实代码。 PDF第3,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26b/tran26b.pdf	scored
+4487	tran26c	4	3	3	4	70		新增量/复用/可用/独特性依次(4, 3, 3, 4)；继承Marcotte等Lie/守恒框架，新增现代激活、RoPE及路由的完整结构刻画；实验对比非守恒量、学习率和初始化。 要求V_loss覆盖输出空间等条件，普通softmax CE logit梯度和为零通常不满足；欧氏连续gradient flow结论，不自动涵盖Adam/weight decay/离散SGD。用于模块诊断，不证明下游准确率收益。 PDF第3,4,5,6,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26c/tran26c.pdf	scored
+4488	tran26d	4	4	4	4	80		新增量/复用/可用/独特性依次(4, 4, 4, 4)；继承Ainsworth weight matching及Tran2025普通注意力等价；新增位置编码对称群约束与连续对齐；置换-only、正交初始化-only消融。 等价刻画依赖满秩及头非退化等假设；缩小对称群本身不证明更大函数类/更好任务表达。局部层重训连通不代表任意独立预训练模型可直接平均。 PDF第3,4,6,7,8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26d/tran26d.pdf	scored
+4489	tran26e	3	4	3	3	66		新增量/复用/可用/独特性依次(3, 4, 3, 3)；来源为Sinkhorn OT、元学习与跨模态蒸馏；比较CE、Feature KD及paired Vanilla KD；Table6将FA-only/LA-only/直接联合作消融。 界为风险差分解加teacher条件损失Lipschitz运输界；LA是带符号风险差项，非一般非负距离。附录D学生条件Dirac及teacher插件估计不自动给语义无偏保证；保留经验策略。随机打乱不等真实域偏移，内外更新额外计算未等FLOPs。 PDF第3,4,5,6,7,8,13,16页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26e/tran26e.pdf	scored
+4490	tran26f	4	4	3	4	76		新增量/复用/可用/独特性依次(4, 4, 3, 4)；最近A3SMoE支持异构激活但不补闲置梯度；来源含loss-free balancing。实际比较A3SMoE、SMoE-LLB、FlexLoRA等及PG/DMR消融。 需全局闲置专家参数更新/通信，伪梯度不是本地无偏真梯度。收敛需PL、平滑偏差等强假设；p6候选Np=2与Kmax=8及Np≥Kmax文字冲突；表2/4平均.4267/.4313不一致，保留各表局部数值。 PDF第4,5,6,7,8,9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26f/tran26f.pdf	scored
+4491	tran26g	3	4	4	3	70		新增量/复用/可用/独特性依次(3, 4, 4, 3)；来源为MILA、Swin和Mamba遗忘；独立改动为局部聚合+全局均值，消融均值/值投影；与VMamba等比较。 系数摊薄定理需对序列长度一致的有界logits及正分母下界，非compact输入即可证明任意Transformer失效，也不意味着系数相等。SEMA参数比MILA略多，多数实验单次；ADE多尺度48.5低于VMamba48.8。 PDF第3,4,6,7,8,9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tran26g/tran26g.pdf	scored
 4492	tran26h							待原文复核评分	pending
 4493	traub26a							待原文复核评分	pending
 4494	troxell26a							待原文复核评分	pending

@@ -335,6 +335,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Laplacian Representations for Decision-Time Planning](../../conferences/icml-2026/cards/4001-4100.md#shehmar26a-reinforcement-learning) · 中文
 - [REG: In-Sample RL via Regularizing the Evaluation Gap](../../conferences/icml-2026/cards/4001-4100.md#shen26m-reinforcement-learning) · 中文
 - [Multi-timescale Reinforcement Learning by Value Reconstruction](../../conferences/icml-2026/cards/4201-4300.md#su26m-reinforcement-learning) · 中文
+- [Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO](../../conferences/icml-2026/cards/4401-4500.md#tong26h-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

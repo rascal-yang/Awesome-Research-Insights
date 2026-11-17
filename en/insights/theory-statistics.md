@@ -77,6 +77,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#lyu26g-theory-statistics) · 中文
 - [An analytic theory of convolutional neural network inverse problems solvers](../../conferences/icml-2026/cards/3401-3500.md#nguyen26c-theory-statistics) · 中文
 - [On the Separability of Information in Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#premkumar26a-theory-statistics) · 中文
+- [A Theory of Contrastive Learning with Natural Images](../../conferences/icml-2026/cards/4401-4500.md#torralba26a-theory-statistics) · 中文
 
 <a id="by-nlp"></a>
 
@@ -556,6 +557,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Semi-Supervised Hypothesis Testing by Betting on Predictions](../../conferences/icml-2026/cards/4401-4500.md#tenzer26a-theory-statistics) · 中文
 - [A Tight Theory of Error Feedback Algorithms in Distributed Optimization](../../conferences/icml-2026/cards/4401-4500.md#thomsen26a-theory-statistics) · 中文
 - [LOTTERY: Learning from Reference-Only Samples in Two-Sample Testing under Size Asymmetry](../../conferences/icml-2026/cards/4401-4500.md#tian26n-theory-statistics) · 中文
+- [Conservation Laws for Modern Neural Architectures](../../conferences/icml-2026/cards/4401-4500.md#tran26c-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -91,6 +91,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search](../../conferences/icml-2026/cards/4001-4100.md#seong-eun26a-optimization) · 中文
 - [MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo](../../conferences/icml-2026/cards/4401-4500.md#therien26a-optimization) · 中文
 - [Advancing SVD-based LLM Compression via Layer-Wise Error Model Search](../../conferences/icml-2026/cards/4401-4500.md#thoma26a-optimization) · 中文
+- [UB-SMoE: Universally Balanced Sparse Mixture-of-Experts for Resource-adaptive Federated Fine-tuning of Foundation Models](../../conferences/icml-2026/cards/4401-4500.md#tran26f-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -150,6 +151,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges](../../conferences/icml-2026/cards/2001-2100.md#khan26a-optimization) · 中文
 - [Parallel Stochastic Gradient-Based Planning for World Models](../../conferences/icml-2026/cards/3601-3700.md#psenka26a-optimization) · 中文
 - [Debate2Create: Robot Co-design via Multi-Agent LLM Debate](../../conferences/icml-2026/cards/3701-3800.md#qiu26c-optimization) · 中文
+- [Neural Control: Adjoint Learning Through Equilibrium Constraints](../../conferences/icml-2026/cards/4401-4500.md#tong26j-optimization) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -397,6 +399,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction](../../conferences/icml-2026/cards/4401-4500.md#tao26d-optimization) · 中文
 - [Connecting Independently Trained Modes via Layer-Wise Connectivity](../../conferences/icml-2026/cards/4401-4500.md#tian26a-optimization) · 中文
 - [Joint Model and Data Sparsification via the Marginal Likelihood](../../conferences/icml-2026/cards/4401-4500.md#timans26a-optimization) · 中文
+- [Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity](../../conferences/icml-2026/cards/4401-4500.md#tran26d-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

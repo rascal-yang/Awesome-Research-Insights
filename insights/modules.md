@@ -99,6 +99,7 @@
 - [连续肢体采样补充关节点](../conferences/icml-2026/cards/4301-4400.md#tang26p-modules) · Glimpse: Geometry Learning of Multi-scale Structural Priors for 3D Pose Estimation
 - [primitive-membership-calibration](../conferences/icml-2026/cards/4301-4400.md#tang26ai-modules) · CoGe-GCD: Reframing Generalized Category Discovery with Compositional Generalization
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
+- [局部注意力加全局值均值](../conferences/icml-2026/cards/4401-4500.md#tran26g-modules) · SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging
 
 <a id="by-nlp"></a>
 

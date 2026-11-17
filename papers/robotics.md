@@ -70,6 +70,7 @@
 - <a id="khan26a-optimization"></a>[Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges](../conferences/icml-2026/cards/2001-2100.md#paper-khan26a)
 - <a id="psenka26a-optimization"></a>[Parallel Stochastic Gradient-Based Planning for World Models](../conferences/icml-2026/cards/3601-3700.md#paper-psenka26a)
 - <a id="qiu26c-optimization"></a>[Debate2Create: Robot Co-design via Multi-Agent LLM Debate](../conferences/icml-2026/cards/3701-3800.md#paper-qiu26c)
+- <a id="tong26j-optimization"></a>[Neural Control: Adjoint Learning Through Equilibrium Constraints](../conferences/icml-2026/cards/4401-4500.md#paper-tong26j)
 
 <a id="by-reinforcement-learning"></a>
 
