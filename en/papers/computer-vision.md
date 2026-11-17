@@ -140,7 +140,7 @@ The linked short insights are available in Chinese.
 | [Logical Guidance for the Exact Composition of Diffusion Models](https://proceedings.mlr.press/v306/alesiani26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alesiani26a) | [Read insight (中文)](../../papers/computer-vision.md#alesiani26a-inference) |
 | [Training-Free Coverless Multi-Image Steganography with Access Control](https://proceedings.mlr.press/v306/bae26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bae26b) | [Read insight (中文)](../../papers/computer-vision.md#bae26b-inference) |
 | [Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules](https://proceedings.mlr.press/v306/bang26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bang26a) | [Read insight (中文)](../../papers/computer-vision.md#bang26a-inference) |
-| [Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) | [Read insight (中文)](../../papers/computer-vision.md#briq26a-inference) |
+| [Exploring and Exploiting Stability in Latent Flow Matching](https://proceedings.mlr.press/v306/briq26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-briq26a) | [Read insight (中文)](../../papers/computer-vision.md#briq26a-inference) |
 | [Improving Classifier-Free Guidance of Flow Matching via Manifold Projection](https://proceedings.mlr.press/v306/cai26g.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26g-inference) |
 | [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://proceedings.mlr.press/v306/cai26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cai26n-inference) |
 | [Efficient Learned Image Compression without Entropy Coding](https://proceedings.mlr.press/v306/cao26e.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26e-inference) |
@@ -214,7 +214,7 @@ The linked short insights are available in Chinese.
 | [Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ahmed26a) | [Read insight (中文)](../../papers/computer-vision.md#ahmed26a-evaluation) |
 | [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-alexis26a) | [Read insight (中文)](../../papers/computer-vision.md#alexis26a-evaluation) |
 | [Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-baek26e) | [Read insight (中文)](../../papers/computer-vision.md#baek26e-evaluation) |
-| [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | [Read insight (中文)](../../papers/computer-vision.md#braun26b-evaluation) |
+| [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-braun26b) | [Read insight (中文)](../../papers/computer-vision.md#braun26b-evaluation) |
 | [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26az-evaluation) |
 | [Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://proceedings.mlr.press/v306/chen26gw.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26gw-evaluation) |
 | [Global Geometry Is Not Enough for Vision Representations](https://proceedings.mlr.press/v306/chung26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chung26a-evaluation) |
@@ -229,6 +229,6 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Local Mechanisms of Compositional Generalization in Conditional Diffusion](https://proceedings.mlr.press/v306/bradley26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bradley26a-theory-statistics) |
-| [Is Generation Required for Data-Efficient Perception?](https://proceedings.mlr.press/v306/brady26b.html) | [Read insight (中文)](../../papers/computer-vision.md#brady26b-theory-statistics) |
+| [Local Mechanisms of Compositional Generalization in Conditional Diffusion](https://proceedings.mlr.press/v306/bradley26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-bradley26a) | [Read insight (中文)](../../papers/computer-vision.md#bradley26a-theory-statistics) |
+| [Is Generation Required for Data-Efficient Perception?](https://proceedings.mlr.press/v306/brady26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-brady26b) | [Read insight (中文)](../../papers/computer-vision.md#brady26b-theory-statistics) |
 <!-- classification:end -->

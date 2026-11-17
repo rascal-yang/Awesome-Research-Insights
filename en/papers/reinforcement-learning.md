@@ -119,7 +119,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#brosseit26a-inference) |
+| [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-brosseit26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#brosseit26a-inference) |
 | [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chang26a-inference) |
 | [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cui26h-inference) |
 | [SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](https://proceedings.mlr.press/v306/gu26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gu26a-inference) |
@@ -160,7 +160,7 @@ The linked short insights are available in Chinese.
 | [Optimal Rates for Feasible Payoff Set Estimation in Games](https://proceedings.mlr.press/v306/barbara26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-barbara26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#barbara26a-theory-statistics) |
 | [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://proceedings.mlr.press/v306/benyamine26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-benyamine26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) |
 | [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](https://proceedings.mlr.press/v306/bollini26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-bollini26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#bollini26a-theory-statistics) |
-| [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) |
+| [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-braverman26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) |
 | [Understanding Behavior Cloning with Action Quantization](https://proceedings.mlr.press/v306/cao26x.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cao26x-theory-statistics) |
 | [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](https://proceedings.mlr.press/v306/carr26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#carr26a-theory-statistics) |
 | [Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](https://proceedings.mlr.press/v306/chen26dy.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26dy-theory-statistics) |

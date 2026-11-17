@@ -23,8 +23,8 @@ The linked short insights are available in Chinese.
 | [Cheap2Rich: A Multi-Fidelity Framework for Data Assimilation and System Identification of Multiscale Physics - Rotating Detonation Engines](https://proceedings.mlr.press/v306/bao26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bao26d) | [Read insight (中文)](../../papers/scientific-ml.md#bao26d-architecture) |
 | [Physics-Informed Coarsening for Multigrid Graph Neural Surrogates](https://proceedings.mlr.press/v306/bazzi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-bazzi26a) | [Read insight (中文)](../../papers/scientific-ml.md#bazzi26a-architecture) |
 | [Stochastic Lifting for Generating Trajectories of Stochastic Physical Systems](https://proceedings.mlr.press/v306/berman26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-berman26b) | [Read insight (中文)](../../papers/scientific-ml.md#berman26b-architecture) |
-| [Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://proceedings.mlr.press/v306/brandle26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brandle26a-architecture) |
-| [STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://proceedings.mlr.press/v306/brinke26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brinke26a-architecture) |
+| [Continuous-Time Piecewise-Linear Recurrent Neural Networks](https://proceedings.mlr.press/v306/brandle26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-brandle26a) | [Read insight (中文)](../../papers/scientific-ml.md#brandle26a-architecture) |
+| [STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://proceedings.mlr.press/v306/brinke26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-brinke26a) | [Read insight (中文)](../../papers/scientific-ml.md#brinke26a-architecture) |
 | [Stochastic Neural Ray Tracing for Radio Frequency Channel Modeling](https://proceedings.mlr.press/v306/bu26d.html) | [Read insight (中文)](../../papers/scientific-ml.md#bu26d-architecture) |
 | [LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory](https://proceedings.mlr.press/v306/cao26ad.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26ad-architecture) |
 | [Bioacoustic Geolocation: Species Sounds as Geographic Signals](https://proceedings.mlr.press/v306/chasmai26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#chasmai26b-architecture) |
@@ -132,7 +132,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://proceedings.mlr.press/v306/brockschmidt26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brockschmidt26a-data-strategies) |
+| [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://proceedings.mlr.press/v306/brockschmidt26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-brockschmidt26a) | [Read insight (中文)](../../papers/scientific-ml.md#brockschmidt26a-data-strategies) |
 | [DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](https://proceedings.mlr.press/v306/chan26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chan26a-data-strategies) |
 | [ANTiC: Adaptive Neural Temporal In Situ Compressor](https://proceedings.mlr.press/v306/cranganore26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#cranganore26a-data-strategies) |
 | [scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](https://proceedings.mlr.press/v306/d-ascenzo26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#d-ascenzo26a-data-strategies) |
