@@ -211,6 +211,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Large Language Models as Topological Thinkers: A Benchmark on Graph Persistent Homology](../../conferences/icml-2026/cards/2501-2600.md#li26gg-evaluation) · 中文
 - [Expectation Alignment of Language Models for Real-World User Expectations](../../conferences/icml-2026/cards/2501-2600.md#li26gr-evaluation) · 中文
 - [Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](../../conferences/icml-2026/cards/2501-2600.md#li26gw-evaluation) · 中文
+- [ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](../../conferences/icml-2026/cards/2601-2700.md#li26ij-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -277,6 +278,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations](../../conferences/icml-2026/cards/2201-2300.md#lavrinovics26a-evaluation) · 中文
 - [“Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](../../conferences/icml-2026/cards/2301-2400.md#li26g-evaluation) · 中文
 - [Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection](../../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · 中文
+- [MGAL: A Multilingual Granularity-Aware Long-Context Benchmark](../../conferences/icml-2026/cards/2601-2700.md#li26ib-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -447,4 +449,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [GENEB: Why Genomic Models Are Hard to Compare](../../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · 中文
 - [StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · 中文
 - [HEARTS: Benchmarking LLM Reasoning on Health Time Series](../../conferences/icml-2026/cards/2601-2700.md#li26hr-evaluation) · 中文
+- [Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks](../../conferences/icml-2026/cards/2601-2700.md#li26if-evaluation) · 中文
 <!-- classification:end -->

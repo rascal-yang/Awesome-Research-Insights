@@ -108,6 +108,7 @@
 - [以支配排序分配工具调用的训练优势](../conferences/icml-2026/cards/2501-2600.md#li26es-reinforcement-learning) · Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization
 - [为搜索代理显式奖励证据判断](../conferences/icml-2026/cards/2501-2600.md#li26gq-reinforcement-learning) · ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards
 - [执行反馈下的软件补丁行级信用](../conferences/icml-2026/cards/2501-2600.md#li26gv-reinforcement-learning) · BOOSTAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models
+- [按累积梯度能量估计逐令牌基线](../conferences/icml-2026/cards/2601-2700.md#li26hy-reinforcement-learning) · The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL
 
 <a id="by-computer-vision"></a>
 

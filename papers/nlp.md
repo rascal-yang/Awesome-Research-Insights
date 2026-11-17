@@ -116,6 +116,7 @@
 - <a id="lavrinovics26a-evaluation"></a>[MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations](../conferences/icml-2026/cards/2201-2300.md#paper-lavrinovics26a)
 - <a id="li26g-evaluation"></a>[“Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](../conferences/icml-2026/cards/2301-2400.md#paper-li26g)
 - <a id="li26u-evaluation"></a>[Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection](../conferences/icml-2026/cards/2401-2500.md#paper-li26u)
+- <a id="li26ib-evaluation"></a>[MGAL: A Multilingual Granularity-Aware Long-Context Benchmark](../conferences/icml-2026/cards/2601-2700.md#paper-li26ib)
 
 <a id="by-theory-statistics"></a>
 

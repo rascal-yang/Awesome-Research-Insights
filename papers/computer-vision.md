@@ -256,6 +256,7 @@
 - <a id="li26de-inference"></a>[Initialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior](../conferences/icml-2026/cards/2501-2600.md#paper-li26de)
 - <a id="li26go-inference"></a>[FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26go)
 - <a id="li26hx-inference"></a>[DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion](../conferences/icml-2026/cards/2601-2700.md#paper-li26hx)
+- <a id="li26hz-inference"></a>[Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification](../conferences/icml-2026/cards/2601-2700.md#paper-li26hz)
 
 <a id="by-representation-learning"></a>
 

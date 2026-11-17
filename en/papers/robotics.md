@@ -123,6 +123,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="lee26ax-inference"></a>[Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ax)
 - <a id="li26aa-inference"></a>[STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction](../../conferences/icml-2026/cards/2401-2500.md#paper-li26aa)
 - <a id="li26fl-inference"></a>[VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fl)
+- <a id="li26id-inference"></a>[Embodied Task Planning via Graph-Informed Action Generation with Large Language Models](../../conferences/icml-2026/cards/2601-2700.md#paper-li26id)
 
 <a id="by-representation-learning"></a>
 

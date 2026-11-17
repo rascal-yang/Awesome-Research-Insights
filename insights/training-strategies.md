@@ -185,6 +185,8 @@
 - [用同类跨模态随机配对平滑监督](../conferences/icml-2026/cards/2301-2400.md#lee26bk-training-strategies) · Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective
 - [用共享语言概念预对齐不同遥感传感器](../conferences/icml-2026/cards/2401-2500.md#li26q-training-strategies) · Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining
 - [把退化表征拉回干净特征分布](../conferences/icml-2026/cards/2601-2700.md#li26hs-training-strategies) · Robust Vision-Language Models via Manifold-Adversarial Adapters
+- [用有图无图的奖励差筛查幻觉](../conferences/icml-2026/cards/2601-2700.md#li26ic-training-strategies) · IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination
+- [按难度逐步学习最小图文对照](../conferences/icml-2026/cards/2601-2700.md#li26ie-training-strategies) · Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs
 
 <a id="by-ml-foundations"></a>
 
@@ -252,6 +254,7 @@
 - [图分区投毒认证的半监督增强](../conferences/icml-2026/cards/1301-1400.md#gosch26a-training-strategies) · Certifying Graph Neural Networks Against Label and Structure Poisoning
 - [图自监督任务的反馈式预算调度](../conferences/icml-2026/cards/1301-1400.md#grover26a-training-strategies) · Feedback Control for Multi-Objective Graph Self-Supervision
 - [从全局模型和本地图邻居两侧找噪声标签](../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · FedRGL: Robust Federated Graph Learning under Label Noise
+- [以对比聚类进行路段到车道迁移](../conferences/icml-2026/cards/2601-2700.md#li26ih-training-strategies) · Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task
 
 <a id="by-scientific-ml"></a>
 

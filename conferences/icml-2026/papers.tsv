@@ -2623,18 +2623,18 @@ number	pmlr_id	title	paper_url	insight_status
 2622	li26hv	PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models	https://proceedings.mlr.press/v306/li26hv.html	written
 2623	li26hw	Optimizing Visual Generative Models via Distribution-wise Rewards	https://proceedings.mlr.press/v306/li26hw.html	written
 2624	li26hx	DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion	https://proceedings.mlr.press/v306/li26hx.html	written
-2625	li26hy	The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL	https://proceedings.mlr.press/v306/li26hy.html	pending
-2626	li26hz	Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification	https://proceedings.mlr.press/v306/li26hz.html	pending
-2627	li26ia	From Historical Patches to Repair Plans: Outcome-Conditioned Reasoning for Repository-Level Program Repair	https://proceedings.mlr.press/v306/li26ia.html	pending
-2628	li26ib	MGAL: A Multilingual Granularity-Aware Long-Context Benchmark	https://proceedings.mlr.press/v306/li26ib.html	pending
-2629	li26ic	IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination	https://proceedings.mlr.press/v306/li26ic.html	pending
-2630	li26id	Embodied Task Planning via Graph-Informed Action Generation with Large Language Models	https://proceedings.mlr.press/v306/li26id.html	pending
-2631	li26ie	Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs	https://proceedings.mlr.press/v306/li26ie.html	pending
-2632	li26if	Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks	https://proceedings.mlr.press/v306/li26if.html	pending
-2633	li26ig	GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving	https://proceedings.mlr.press/v306/li26ig.html	pending
-2634	li26ih	Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task	https://proceedings.mlr.press/v306/li26ih.html	pending
-2635	li26ii	Reliable Thinking with Images	https://proceedings.mlr.press/v306/li26ii.html	pending
-2636	li26ij	ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox	https://proceedings.mlr.press/v306/li26ij.html	pending
+2625	li26hy	The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL	https://proceedings.mlr.press/v306/li26hy.html	written
+2626	li26hz	Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification	https://proceedings.mlr.press/v306/li26hz.html	written
+2627	li26ia	From Historical Patches to Repair Plans: Outcome-Conditioned Reasoning for Repository-Level Program Repair	https://proceedings.mlr.press/v306/li26ia.html	written
+2628	li26ib	MGAL: A Multilingual Granularity-Aware Long-Context Benchmark	https://proceedings.mlr.press/v306/li26ib.html	written
+2629	li26ic	IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination	https://proceedings.mlr.press/v306/li26ic.html	written
+2630	li26id	Embodied Task Planning via Graph-Informed Action Generation with Large Language Models	https://proceedings.mlr.press/v306/li26id.html	written
+2631	li26ie	Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs	https://proceedings.mlr.press/v306/li26ie.html	written
+2632	li26if	Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks	https://proceedings.mlr.press/v306/li26if.html	written
+2633	li26ig	GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving	https://proceedings.mlr.press/v306/li26ig.html	written
+2634	li26ih	Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task	https://proceedings.mlr.press/v306/li26ih.html	written
+2635	li26ii	Reliable Thinking with Images	https://proceedings.mlr.press/v306/li26ii.html	written
+2636	li26ij	ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox	https://proceedings.mlr.press/v306/li26ij.html	written
 2637	li26ik	Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models	https://proceedings.mlr.press/v306/li26ik.html	pending
 2638	li26il	ALSO: Adversarial Online Strategy Optimization for Social Agents	https://proceedings.mlr.press/v306/li26il.html	pending
 2639	li26im	Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation	https://proceedings.mlr.press/v306/li26im.html	pending

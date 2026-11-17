@@ -139,6 +139,8 @@
 - <a id="lee26bk-training-strategies"></a>[Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bk)
 - <a id="li26q-training-strategies"></a>[Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining](../conferences/icml-2026/cards/2401-2500.md#paper-li26q)
 - <a id="li26hs-training-strategies"></a>[Robust Vision-Language Models via Manifold-Adversarial Adapters](../conferences/icml-2026/cards/2601-2700.md#paper-li26hs)
+- <a id="li26ic-training-strategies"></a>[IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination](../conferences/icml-2026/cards/2601-2700.md#paper-li26ic)
+- <a id="li26ie-training-strategies"></a>[Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](../conferences/icml-2026/cards/2601-2700.md#paper-li26ie)
 
 <a id="by-data-strategies"></a>
 
@@ -226,6 +228,7 @@
 - <a id="li26eo-inference"></a>[BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception](../conferences/icml-2026/cards/2501-2600.md#paper-li26eo)
 - <a id="li26ht-inference"></a>[Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](../conferences/icml-2026/cards/2601-2700.md#paper-li26ht)
 - <a id="li26hv-inference"></a>[PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models](../conferences/icml-2026/cards/2601-2700.md#paper-li26hv)
+- <a id="li26ii-inference"></a>[Reliable Thinking with Images](../conferences/icml-2026/cards/2601-2700.md#paper-li26ii)
 
 <a id="by-representation-learning"></a>
 

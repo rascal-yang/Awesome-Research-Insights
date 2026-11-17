@@ -91,6 +91,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="gosch26a-training-strategies"></a>[Certifying Graph Neural Networks Against Label and Structure Poisoning](../../conferences/icml-2026/cards/1301-1400.md#paper-gosch26a)
 - <a id="grover26a-training-strategies"></a>[Feedback Control for Multi-Objective Graph Self-Supervision](../../conferences/icml-2026/cards/1301-1400.md#paper-grover26a)
 - <a id="li26fv-training-strategies"></a>[FedRGL: Robust Federated Graph Learning under Label Noise](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fv)
+- <a id="li26ih-training-strategies"></a>[Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ih)
 
 <a id="by-data-strategies"></a>
 

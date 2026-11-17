@@ -185,6 +185,8 @@ Training schedules, curricula, and task or stage composition.
 - [Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective](../../conferences/icml-2026/cards/2301-2400.md#lee26bk-training-strategies) · 中文
 - [Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining](../../conferences/icml-2026/cards/2401-2500.md#li26q-training-strategies) · 中文
 - [Robust Vision-Language Models via Manifold-Adversarial Adapters](../../conferences/icml-2026/cards/2601-2700.md#li26hs-training-strategies) · 中文
+- [IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination](../../conferences/icml-2026/cards/2601-2700.md#li26ic-training-strategies) · 中文
+- [Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](../../conferences/icml-2026/cards/2601-2700.md#li26ie-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -252,6 +254,7 @@ Training schedules, curricula, and task or stage composition.
 - [Certifying Graph Neural Networks Against Label and Structure Poisoning](../../conferences/icml-2026/cards/1301-1400.md#gosch26a-training-strategies) · 中文
 - [Feedback Control for Multi-Objective Graph Self-Supervision](../../conferences/icml-2026/cards/1301-1400.md#grover26a-training-strategies) · 中文
 - [FedRGL: Robust Federated Graph Learning under Label Noise](../../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · 中文
+- [Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task](../../conferences/icml-2026/cards/2601-2700.md#li26ih-training-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

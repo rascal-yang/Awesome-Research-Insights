@@ -108,6 +108,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](../../conferences/icml-2026/cards/2501-2600.md#li26es-reinforcement-learning) · 中文
 - [ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards](../../conferences/icml-2026/cards/2501-2600.md#li26gq-reinforcement-learning) · 中文
 - [BOOSTAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](../../conferences/icml-2026/cards/2501-2600.md#li26gv-reinforcement-learning) · 中文
+- [The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL](../../conferences/icml-2026/cards/2601-2700.md#li26hy-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -288,6 +288,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ledneva26b-evaluation"></a>[GENEB: Why Genomic Models Are Hard to Compare](../../conferences/icml-2026/cards/2301-2400.md#paper-ledneva26b)
 - <a id="li26t-evaluation"></a>[StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars](../../conferences/icml-2026/cards/2401-2500.md#paper-li26t)
 - <a id="li26hr-evaluation"></a>[HEARTS: Benchmarking LLM Reasoning on Health Time Series](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hr)
+- <a id="li26if-evaluation"></a>[Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks](../../conferences/icml-2026/cards/2601-2700.md#paper-li26if)
 
 <a id="by-theory-statistics"></a>
 

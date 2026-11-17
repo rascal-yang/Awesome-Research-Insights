@@ -211,6 +211,7 @@
 - [用滤过推理任务拆开图拓扑能力](../conferences/icml-2026/cards/2501-2600.md#li26gg-evaluation) · Large Language Models as Topological Thinkers: A Benchmark on Graph Persistent Homology
 - [从真实对话提取期望并训练潜在期望表示](../conferences/icml-2026/cards/2501-2600.md#li26gr-evaluation) · Expectation Alignment of Language Models for Real-World User Expectations
 - [工具代理的语义保持型效率风险](../conferences/icml-2026/cards/2501-2600.md#li26gw-evaluation) · Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning
+- [按环境状态测复杂工具任务](../conferences/icml-2026/cards/2601-2700.md#li26ij-evaluation) · ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox
 
 <a id="by-computer-vision"></a>
 
@@ -277,6 +278,7 @@
 - [用多跳知识图谱路径做跨语种事实对照](../conferences/icml-2026/cards/2201-2300.md#lavrinovics26a-evaluation) · MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations
 - [用未知查询下的文档改动压力测试召回](../conferences/icml-2026/cards/2301-2400.md#li26g-evaluation) · “Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval
 - [给音频伪造检测的不同分布单独画规模曲线](../conferences/icml-2026/cards/2401-2500.md#li26u-evaluation) · Scaling Behavior in Model Fine-tuning for Audio DeepFake Detection
+- [拆分多语长文的粒度与证据位置](../conferences/icml-2026/cards/2601-2700.md#li26ib-evaluation) · MGAL: A Multilingual Granularity-Aware Long-Context Benchmark
 
 <a id="by-reinforcement-learning"></a>
 
@@ -447,4 +449,5 @@
 - [按功能和样本量复核基因组模型排名](../conferences/icml-2026/cards/2301-2400.md#ledneva26b-evaluation) · GENEB: Why Genomic Models Are Hard to Compare
 - [分开评测光变曲线嵌入的类簇、分类和稀有源检索](../conferences/icml-2026/cards/2401-2500.md#li26t-evaluation) · StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars
 - [分层诊断健康信号推理能力](../conferences/icml-2026/cards/2601-2700.md#li26hr-evaluation) · HEARTS: Benchmarking LLM Reasoning on Health Time Series
+- [区分 RNA 表征复用与优化初始化](../conferences/icml-2026/cards/2601-2700.md#li26if-evaluation) · Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks
 <!-- classification:end -->

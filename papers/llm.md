@@ -259,6 +259,7 @@
 - <a id="li26es-reinforcement-learning"></a>[Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](../conferences/icml-2026/cards/2501-2600.md#paper-li26es)
 - <a id="li26gq-reinforcement-learning"></a>[ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards](../conferences/icml-2026/cards/2501-2600.md#paper-li26gq)
 - <a id="li26gv-reinforcement-learning"></a>[BOOSTAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26gv)
+- <a id="li26hy-reinforcement-learning"></a>[The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL](../conferences/icml-2026/cards/2601-2700.md#paper-li26hy)
 
 <a id="by-training-strategies"></a>
 
@@ -547,6 +548,8 @@
 - <a id="li26gh-inference"></a>[ARC-Decode: Accelerated Decoding with Risk-Bounded Acceptance](../conferences/icml-2026/cards/2501-2600.md#paper-li26gh)
 - <a id="li26gn-inference"></a>[Prefix-Cache-Aware Data Reordering for LLM-Augmented Database Analytics](../conferences/icml-2026/cards/2501-2600.md#paper-li26gn)
 - <a id="li26hq-inference"></a>[PlugGuard: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](../conferences/icml-2026/cards/2601-2700.md#paper-li26hq)
+- <a id="li26ia-inference"></a>[From Historical Patches to Repair Plans: Outcome-Conditioned Reasoning for Repository-Level Program Repair](../conferences/icml-2026/cards/2601-2700.md#paper-li26ia)
+- <a id="li26ig-inference"></a>[GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving](../conferences/icml-2026/cards/2601-2700.md#paper-li26ig)
 
 <a id="by-representation-learning"></a>
 
@@ -762,6 +765,7 @@
 - <a id="li26gg-evaluation"></a>[Large Language Models as Topological Thinkers: A Benchmark on Graph Persistent Homology](../conferences/icml-2026/cards/2501-2600.md#paper-li26gg)
 - <a id="li26gr-evaluation"></a>[Expectation Alignment of Language Models for Real-World User Expectations](../conferences/icml-2026/cards/2501-2600.md#paper-li26gr)
 - <a id="li26gw-evaluation"></a>[Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](../conferences/icml-2026/cards/2501-2600.md#paper-li26gw)
+- <a id="li26ij-evaluation"></a>[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](../conferences/icml-2026/cards/2601-2700.md#paper-li26ij)
 
 <a id="by-theory-statistics"></a>
 

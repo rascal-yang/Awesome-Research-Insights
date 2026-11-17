@@ -181,6 +181,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [ARC-Decode: Accelerated Decoding with Risk-Bounded Acceptance](../../conferences/icml-2026/cards/2501-2600.md#li26gh-inference) · 中文
 - [Prefix-Cache-Aware Data Reordering for LLM-Augmented Database Analytics](../../conferences/icml-2026/cards/2501-2600.md#li26gn-inference) · 中文
 - [PlugGuard: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](../../conferences/icml-2026/cards/2601-2700.md#li26hq-inference) · 中文
+- [From Historical Patches to Repair Plans: Outcome-Conditioned Reasoning for Repository-Level Program Repair](../../conferences/icml-2026/cards/2601-2700.md#li26ia-inference) · 中文
+- [GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving](../../conferences/icml-2026/cards/2601-2700.md#li26ig-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -246,6 +248,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Initialization is Half the Battle: Generating Diverse Images from a Guidance Potential Posterior](../../conferences/icml-2026/cards/2501-2600.md#li26de-inference) · 中文
 - [FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models](../../conferences/icml-2026/cards/2501-2600.md#li26go-inference) · 中文
 - [DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion](../../conferences/icml-2026/cards/2601-2700.md#li26hx-inference) · 中文
+- [Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification](../../conferences/icml-2026/cards/2601-2700.md#li26hz-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -303,6 +306,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](../../conferences/icml-2026/cards/2301-2400.md#lee26ax-inference) · 中文
 - [STEP: Warm-Started Visuomotor Policies with Spatiotemporal Consistency Prediction](../../conferences/icml-2026/cards/2401-2500.md#li26aa-inference) · 中文
 - [VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model](../../conferences/icml-2026/cards/2501-2600.md#li26fl-inference) · 中文
+- [Embodied Task Planning via Graph-Informed Action Generation with Large Language Models](../../conferences/icml-2026/cards/2601-2700.md#li26id-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -365,6 +369,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [BVS: Bayesian Visual Search with Multimodal Large Language Model for Fine-grained Perception](../../conferences/icml-2026/cards/2501-2600.md#li26eo-inference) · 中文
 - [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](../../conferences/icml-2026/cards/2601-2700.md#li26ht-inference) · 中文
 - [PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models](../../conferences/icml-2026/cards/2601-2700.md#li26hv-inference) · 中文
+- [Reliable Thinking with Images](../../conferences/icml-2026/cards/2601-2700.md#li26ii-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
