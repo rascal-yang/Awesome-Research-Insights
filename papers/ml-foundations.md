@@ -74,6 +74,8 @@
 | <a id="erol26a-loss-functions"></a>[When Softmax Fails at the Top: Extreme-Value Corrections for InfoNCE](https://proceedings.mlr.press/v306/erol26a.html) | InfoNCE 的端点尾部修正 | 对每个锚点拟合最难负例相似度距上限的尾部分布，再按上限接近程度和拟合优势，将尾部修正与原 softmax logits 插值，无需为该修正学习额外参数。 |
 | <a id="fang26m-loss-functions"></a>[Information Geometry Loss for Time Series Forecasting](https://proceedings.mlr.press/v306/fang26m.html) | 时序预测的信息几何损失 | 预测未来观测的分布参数，在统计流形上用 Fisher 信息度量参数变化，并加入 Bregman 散度表征非对称的误差。训练时以自然梯度加权，使均值与尺度的更新适应分布局部几何。 |
 | <a id="fawkes26a-loss-functions"></a>[$f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data](https://proceedings.mlr.press/v306/fawkes26a.html) | 未归一化目标的批次广义偏差损失 | 将模型对数概率与奖励之差送入对应于某个 f 散度的损失，并在每批单独优化共同平移量以吸收未知配分项。这样可把方差损失推广到不同散度，在论文条件下还能使用离策略数据。 |
+| <a id="fu26g-loss-functions"></a>[Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering](https://proceedings.mlr.press/v306/fu26g.html) | 多视图聚类的截断张量低秩惩罚 | 将各视图的自表示堆成张量，对变换域切片中较小的奇异值施加非凸惩罚，并对较大值截断。误差项也使用有上界的组惩罚，限制离群样本的影响，同时引入深层先验保留局部几何。 |
+| <a id="gaukstad26a-loss-functions"></a>[Learning Coherent Representations: A Topological Approach to Interpretability](https://proceedings.mlr.press/v306/gaukstad26a.html) | 用拓扑一致性约束特征激活 | 以 Fréchet 方差惩罚每个特征激活的样本过于分散，也限制单个样本所用特征的空间离散程度。满足论文的覆盖与聚集条件时，样本与特征的 Vietoris–Rips 滤过存在有界交错，可使环状数据的特征覆盖连续弧段。 |
 
 <a id="by-optimization"></a>
 
@@ -171,6 +173,9 @@
 | <a id="feng26o-optimization"></a>[Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching](https://proceedings.mlr.press/v306/feng26o.html) | 离散扩散求解的单轨迹伴随估计 | 把组合搜索建模为连续时间马尔可夫链上的单坐标翻转控制。近似伴随量用轨迹终点一次翻转前后的目标差估计，并按该坐标沿途翻转的奇偶性校正符号，以单条轨迹提供训练信号。 |
 | <a id="feoktistov26a-optimization"></a>[Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](https://proceedings.mlr.press/v306/feoktistov26a.html) | 动量符号更新的平滑过渡 | 用带温度的 tanh 逐坐标变换动量。大动量坐标仍接近固定幅值的符号更新，小动量坐标进入近线性区间，可用更小的更新幅度减轻收敛末段振荡。 |
 | <a id="ferreira26a-optimization"></a>[CLASP: Online learning algorithms for Convex Losses And Squared Penalties](https://proceedings.mlr.press/v306/ferreira26a.html) | 在线凸优化的平方违约控制 | 先对当轮新揭示的约束做次梯度投影，再在静态决策集内更新损失梯度，从而拆开两类可行性处理。在强凸和论文假设下，累计平方违约与遗憾均为对数量级。 |
+| <a id="gadekar26a-optimization"></a>[Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms](https://proceedings.mlr.press/v306/gadekar26a.html) | 容量公平聚类的树度量化 | 先用普通 k-中位数近似解的 k 个中心组成团，把其他点接到最近中心，再仅对该团做树嵌入。群组数固定时，树上动态规划可精确满足容量和群组配额，并在原度量下得到 O(log k) 的 k-中位数近似。 |
+| <a id="galli26a-optimization"></a>[Flatland: The Adventures of Gradient Descent with Large Step Sizes](https://proceedings.mlr.press/v306/galli26a.html) | 按局部光滑性选梯度下降步长 | 用更新线段上的局部梯度光滑尺度定义大步长，让搜索周期中部分步越过该线段对应的单调下降阈值。非单调线搜索用参考损失控制整体下降，从而允许训练中出现边缘稳定式振荡。 |
+| <a id="gao26ah-optimization"></a>[Inference from Quantized Data via Normal Variance-Mean Mixtures](https://proceedings.mlr.press/v306/gao26ah.html) | 量化数据的潜变量条件极大化 | 同时把量化前数值与均值方差混合因子视作潜变量，利用条件高斯结构计算期望并交替执行闭式参数更新，使多位量化数据也可拟合含重尾和偏斜的分布。 |
 
 <a id="by-training-strategies"></a>
 
@@ -205,6 +210,10 @@
 | <a id="dodson26a-training-strategies"></a>[Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models](https://proceedings.mlr.press/v306/dodson26a.html) | 扩散模型记忆的中等噪声区间 | 当噪声水平同时使训练样本有较大覆盖范围且后验集中于个别训练样本时，扩散模型更易记忆。论文在受控实验中减少对这一中等噪声区间的训练，验证了该区间对记忆的影响。 |
 | <a id="fang26v-training-strategies"></a>[Decoupled Low-Rank Adaptation for Robust Federated Fine-Tuning](https://proceedings.mlr.press/v306/fang26v.html) | 噪声联邦微调的双分支 LoRA | 让干净分支学习可靠特征，让噪声分支建模错误标签模式并提供负向监督。服务器分别聚合两路的上投影矩阵 B，客户端保留下投影 A，以共享任务知识并维持本地特征对齐。 |
 | <a id="fernandez-sarmiento26a-training-strategies"></a>[Dropout Universality: Scaling Laws and Optimal Scheduling at the Edge-of-Chaos](https://proceedings.mlr.press/v306/fernandez-sarmiento26a.html) | 临界信号传播的分层 dropout | 均场分析表明 dropout 会移动完美相关的固定点，使临界初始化下的相关传播距离也变为有限。固定预算时将更多 dropout 分配给浅层，可扩大正则化的影响范围。 |
+| <a id="fu26n-training-strategies"></a>[Zeus: Towards Tuning-Free Foundation Model for Time Series Analysis](https://proceedings.mlr.press/v306/fu26n.html) | 时间序列的多目标掩码预训练 | 按层次采样掩码比例、时间跨度和位置形状，用预测式掩码训练外推，并用点掩码和块掩码训练插补及跨尺度结构恢复。不同任务可复用同一套逐点表示和预训练模型。 |
+| <a id="fuller26a-training-strategies"></a>[Self-Soupervision: Cooking Model Soups without Labels](https://proceedings.mlr.press/v306/fuller26a.html) | 无标签自监督模型的参数合并 | 从同一基座出发，用不同自监督目标、超参数或无标签数据继续训练，再合并多个分支的共享权重。论文中，用目标分布的无标签扰动图像适配再回到干净训练集微调，可提高图像分类的扰动鲁棒性。 |
+| <a id="gan26a-training-strategies"></a>[Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](https://proceedings.mlr.press/v306/gan26a.html) | 预训练权重邻域的随机专家集成 | 在预训练参数周围以多种尺度独立加高斯扰动，用小样本集打分并挑出表现最好的若干变体，再对预测投票。实验发现充分预训练的大模型邻域里有具备互补强项的参数变体，可通过这种无梯度搜索找到。 |
+| <a id="gao26ac-training-strategies"></a>[One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification](https://proceedings.mlr.press/v306/gao26ac.html) | 不规则时序图流的辅助轨迹监督 | 在同一潜轨迹的中间时刻重启一步神经流，用新轨迹与原轨迹的差异暴露节点间交互。同时利用流的可逆性做反向轨迹一致性约束，减少仅靠一步终点监督的欠约束。 |
 
 <a id="by-data-strategies"></a>
 
@@ -220,6 +229,7 @@
 | <a id="cohen-addad26a-data-strategies"></a>[Active Learning with Low-Rank Structure for Data Selection](https://proceedings.mlr.press/v306/cohen-addad26a.html) | 低秩数据子集的残差采样 | 先选一组嵌入行构成低秩子空间，再按点在子空间内的敏感度和投影残差共同分配采样权重。在给定的损失正则条件下，所选加权子集可近似全量损失，额外误差随最优低秩残差增大。 |
 | <a id="du26u-data-strategies"></a>[On the Difficulty of Learning a Meta-network for Training Data Selection](https://proceedings.mlr.press/v306/du26u.html) | 元学习选样的低信噪比 | 双层选样的权重超梯度取决于单样本梯度相对批内加权均值与验证梯度的对齐。当少数样本的对齐度远高于其他样本时，选样网络的梯度信噪比可能偏低，增加批量可缓解这一现象。 |
 | <a id="falahati26a-data-strategies"></a>[Curated Synthetic Data Doesn’t Have to Collapse: A Theoretical Study of Generative Retraining with Pluralistic Preferences](https://proceedings.mlr.press/v306/falahati26a.html) | 合成递归训练的多偏好筛选 | 每轮从当前生成器抽样，再随机选定一种偏好奖励筛候选，并以获选样本做下一轮训练。在论文的收敛条件下，极限分布将概率质量分给不同偏好的高奖励区域，并对应加权 Nash 议价解。 |
+| <a id="gao26z-data-strategies"></a>[Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data](https://proceedings.mlr.press/v306/gao26z.html) | 治疗效应估计的主动随机试验 | 在有限随机试验预算内，联合按个体效应估计不确定性、目标人群与已有数据的差异及观测治疗重叠不足程度排序，再优先对得分高的个体随机分配治疗。 |
 
 <a id="by-inference"></a>
 
@@ -238,6 +248,8 @@
 | <a id="du26h-inference"></a>[MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics](https://proceedings.mlr.press/v306/du26h.html) | 离散神经采样的历史势垒调节 | 在低维集体变量上为访问过的位置累加逐渐减弱的偏置势，抬高频访区域能量并促进跨越势垒。最后对有偏样本做重要性重加权，以恢复原热力学分布。 |
 | <a id="fan26d-inference"></a>[ZeroDiff: Zero-Shot Time Series Reconstruction via Informed-Prior Diffusion](https://proceedings.mlr.press/v306/fan26d.html) | 无目标观测站点的时序扩散重建 | 先用新站点可取得的外生变量生成时序先验，再以有观测站点的数据学习扩散校正。把残差动态单独交给生成模型，可缓解直接回归把极值过度平滑的问题。 |
 | <a id="fu26d-inference"></a>[A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching](https://proceedings.mlr.press/v306/fu26d.html) | 离散流的重参数化强度外推 | 先按噪声调度拉伸时间轴以吸收末段速率增长，再复用上一步模型输出外推本步累计跳转强度。两项改动保持每步一次模型评估，并改善少步离散采样的近似。 |
+| <a id="gaintseva26a-inference"></a>[MidSteer: Optimal Affine Framework for Steering Generative Models](https://proceedings.mlr.press/v306/gaintseva26a.html) | 最小扰动的仿射概念引导 | 用激活与源、目标概念指示量的交叉协方差指定概念变换，在匹配目标协方差的约束下最小化仿射映射前后的平均平方位移。白化后的闭式解在论文的秩条件下给出低扰动的定向引导。 |
+| <a id="gatmiry26a-inference"></a>[High-accuracy and dimension-free sampling with diffusions](https://proceedings.mlr.press/v306/gatmiry26a.html) | 用低阶配点做高精度扩散采样 | 用低阶函数近似配合配点法求解扩散轨迹。在目标半径与平滑结构满足假设、分数误差有界且具次指数尾时，达到总变差误差 ε 的迭代数对 1/ε 仅呈多对数增长，维数通过有效半径影响该界。 |
 
 <a id="by-representation-learning"></a>
 
@@ -283,6 +295,9 @@
 | <a id="eichin26a-evaluation"></a>[ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior](https://proceedings.mlr.press/v306/eichin26a.html) | 沿 AdamW 训练路径联合归因 | 把预测相对初始化的变化拆为训练步、参数、训练样本和输出所索引的可加影响项，并单列正则化影响。对不同维度求和，就能同时追查一个预测受到哪些层、数据和训练阶段的影响。 |
 | <a id="feng26u-evaluation"></a>[Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](https://proceedings.mlr.press/v306/feng26u.html) | 时序预测的分频可预测性诊断 | 以历史与真实未来的频谱相干度估计各频段可线性预测的功率，再与模型预测解释的功率比较。按频段与窗口难度报告利用率，可定位均方误差汇总中被掩盖的频段差异。 |
 | <a id="floros26a-evaluation"></a>[On the Anisotropy of Score-Based Generative Models](https://proceedings.mlr.press/v306/floros26a.html) | 评分模型的架构各向异性 | 从架构诱导的输出几何做特征分解，把方向按模型倾向于生成该方向结构的程度排序。测试数据与这些方向的对齐能在训练前提示生成难度，实验中与 Wasserstein 质量指标相关。 |
+| <a id="gao26k-evaluation"></a>[On the Fragility of Data Attribution When Learning Is Distributed](https://proceedings.mlr.press/v306/gao26k.html) | 分布式数据归因的操纵鲁棒性 | 在非独立同分布客户端上同时比较联邦 Shapley 值、留一归因和全局测试准确率。论文的单客户端干预可以抬高其测得的归因并改变其他参与者的排序，而全局准确率近似不变，显示总体效用不足以诊断归因失真。 |
+| <a id="gao26aa-evaluation"></a>[Conformal Reliability: A New Evaluation Metric for Conditional Generation](https://proceedings.mlr.press/v306/gao26aa.html) | 条件生成的保形可靠性评分 | 在生成输出的低维潜空间拟合并校准给定覆盖率的预测集，再对集合内解码结果的参考相似度求最小值，报告生成结果在该覆盖范围内的质量下界。 |
+| <a id="garnier-brun26a-evaluation"></a>[Biased Generalization in Diffusion Models](https://proceedings.mlr.press/v306/garnier-brun26a.html) | 扩散生成的训练样本邻近偏差 | 用相同架构分别在互斥数据集训练，比较各自生成样本之间的距离及它们对训练样本的邻近程度。论文在测试损失继续下降时仍测到样本向各自训练集偏移，并用层级模拟将其联系到晚学到的细粒度特征。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -423,4 +438,17 @@
 | <a id="ferrere26a-theory-statistics"></a>[Exact Functional ANOVA Decomposition for Categorical Inputs Models](https://proceedings.mlr.press/v306/ferrere26a.html) | 相关类别变量的函数 ANOVA | 对类别变量构造满足层级正交的离散基函数，通过线性方程求系数并按变量子集归并主效应及交互项。满支持时分解唯一，独立情形恢复经典 ANOVA。 |
 | <a id="franzolini26a-theory-statistics"></a>[Complexity Bounds for Dirichlet Process Slice Samplers](https://proceedings.mlr.press/v306/franzolini26a.html) | Dirichlet 过程切片采样的簇数开销 | 把某次切片迭代需实例化的组件数与当前后验划分的占用簇数比较。对任意观测数据，在给定 DP 设定下，两者差值以高概率至多为对数级，界可覆盖不同的后验簇增长情形。 |
 | <a id="frohlich26a-theory-statistics"></a>[Toward Scalable and Valid Conditional Independence Testing with Spectral Representations](https://proceedings.mlr.press/v306/frohlich26a.html) | 条件独立检验的谱表示 | 用偏协方差算子的奇异方向定义表征，以双层对比训练近似这些方向，再在独立测试集上计算统计量。谱表示学习误差满足论文的速率条件时，卡方阈值给出渐近有效检验。 |
+| <a id="fu26w-theory-statistics"></a>[Noise-Robust Density Estimation for Tabular Data Anomaly Detection](https://proceedings.mlr.press/v306/fu26w.html) | 异常检测的噪声隔离密度 | 用带雅可比正则的归一化流估计表格数据的潜在来源，区分生成信号和噪声的分量。重建时隔离噪声分量，再用去噪样本的密度打分，减少采集噪声对异常判断的影响。 |
+| <a id="fuchs26a-theory-statistics"></a>[Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation](https://proceedings.mlr.press/v306/fuchs26a.html) | 候选标签的摊销后验推断 | 先把标签概率均匀放在样本的候选集合内，以此预热条件变分自编码器。训练时用分类网络直接预测变分参数并迭代更新候选标签概率，避免为每个实例单独求解后验。 |
+| <a id="fumagalli26a-theory-statistics"></a>[An Odd Estimator for Shapley Values](https://proceedings.mlr.press/v306/fumagalli26a.html) | Shapley 值的奇分量估计 | 同时采样特征子集与补集，可使对称加权回归中的奇偶部分解耦。由于 Shapley 值只由补集变换下的奇分量决定，可仅在傅里叶奇子空间拟合，并用代理模型筛出高影响交互。 |
+| <a id="furuya26a-theory-statistics"></a>[Approximation Theory for Lipschitz Continuous Transformers](https://proceedings.mlr.press/v306/furuya26a.html) | Lipschitz Transformer 的逼近能力 | 将注意力和前馈层设计为负梯度流的显式欧拉步，在给定步长及结构条件下约束 Lipschitz 常数。将上下文表示为概率测度后，可证明该模型对相应函数类的逼近保证与词元数量无关。 |
+| <a id="futami26a-theory-statistics"></a>[Information-Theoretic Generalization Bounds for VAEs: A Role of Encoder and Latent Variable](https://proceedings.mlr.press/v306/futami26a.html) | 变分自编码器的编码信息泛化界 | 在留一设定下，将重建泛化误差界分解为编码器参数携带的训练索引信息，以及给定编码器后潜变量仍记住的索引信息。该上界在文中假设下不依赖解码器的复杂度。 |
+| <a id="gachon26a-theory-statistics"></a>[PCA of Probability Measures: Sparse and Dense Sampling Regimes](https://proceedings.mlr.press/v306/gachon26a.html) | 概率测度 PCA 的双层采样误差 | 先将每个概率测度嵌入希尔伯特空间，再估计样本协方差。误差界分为跨测度采样的 n⁻¹ᐟ² 项和由每个测度内的 m 个观测带来的嵌入误差，两项大小决定何时进一步增加每个测度的样本数收益变小。 |
+| <a id="gafni26a-theory-statistics"></a>[The Cost of Learning Under Multiple Change Points](https://proceedings.mlr.press/v306/gafni26a.html) | 多变点的在线选择性检测 | 每次重新开始后，扫描所有候选切点，比较切点两侧的标准化均值差，以最大差和随时间变化的阈值决定是否重启。该策略可略过信噪比太低的变化，并在变化足够大时缩短检测延迟。 |
+| <a id="ganian26a-theory-statistics"></a>[Gateways to Tractability for Satisfiability in Pearl’s Causal Hierarchy](https://proceedings.mlr.press/v306/ganian26a.html) | 树分解上的因果语言可满足性判定 | 在只含观测概率的线性不等式片段，为树分解每个包内的赋值引入概率变量，并用共享变量上的边缘一致性拼接局部分布。这样可用线性规划检查可满足性，变量规模随包大小而变。 |
+| <a id="gao26i-theory-statistics"></a>[Causal-EPIG: Causally Aligned Active CATE Estimation](https://proceedings.mlr.press/v306/gao26i.html) | 以条件处理效应为目标的主动采集 | 用候选观测与目标群体的潜在结果后验或条件平均处理效应之间的互信息选择要测量的对象。联合潜在结果版本保留两条响应曲面的依赖，直接效应版本则把测量预算聚焦于两者之差。 |
+| <a id="gao26ab-theory-statistics"></a>[Optimal structure learning and conditional independence testing](https://proceedings.mlr.press/v306/gao26ab.html) | 用条件独立检验推导结构学习速率 | 对满足强树忠实性与难实例条件的有向多森林，把最优条件独立检验嵌入 PC-tree。结构恢复的最优样本量继承检验对信号强度的指数依赖，并多出变量数的对数因子。 |
+| <a id="garrod26a-theory-statistics"></a>[The Implicit Bias of Depth: From Neural Collapse to Softmax Codes](https://proceedings.mlr.press/v306/garrod26a.html) | 深度诱导的低秩分类几何 | 在无正则的深层无约束特征模型中，谱初始化下的大奇异值在训练早期进一步拉开差距。深度可以缩小神经坍塌的吸引域，让低秩 softmax code 成为可能的极限结构。 |
+| <a id="garrod26b-theory-statistics"></a>[Unifying Low Dimensional Spectra in Deep Learning](https://proceedings.mlr.press/v306/garrod26b.html) | 深层神经坍塌的联合谱解释 | 在无约束特征模型中，用各类特征均值构造 Hessian、梯度相关矩阵和权重的主要谱方向。论文对线性与 ReLU 情形的分析说明，同一类均值结构可解释不同矩阵的谱离群值及其特征向量。 |
+| <a id="gay26a-theory-statistics"></a>[Sampling and Identity-Testing Without Approximate Tensorization of Entropy](https://proceedings.mlr.press/v306/gay26a.html) | 混合分布的样本初始化与身份检验 | 即使混合分布整体不具备熵的近似张量化，也可用少量真实样本初始化 Glauber 链，在分量满足修正对数 Sobolev 条件时获得快速混合。论文也证明，在可查询坐标条件分布时能有效检验分量满足近似张量化的混合模型。 |
 <!-- classification:end -->

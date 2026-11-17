@@ -72,6 +72,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget](../../papers/llm.md#dasgupta26a-loss-functions) · 中文
 - [Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs](../../papers/llm.md#fan26j-loss-functions) · 中文
 - [Self-correcting for Debiasing Large Language Models](../../papers/llm.md#feng26z-loss-functions) · 中文
+- [Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse](../../papers/llm.md#fu26v-loss-functions) · 中文
 
 ### Computer Vision
 
@@ -103,6 +104,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [FairSSL: Fair Multimodal Self-Supervised Learning](../../papers/multimodal.md#cheong26a-loss-functions) · 中文
 - [SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](../../papers/multimodal.md#dellali26a-loss-functions) · 中文
 - [Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization](../../papers/multimodal.md#deng26z-loss-functions) · 中文
+- [Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation](../../papers/multimodal.md#fu26r-loss-functions) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -118,6 +120,8 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [When Softmax Fails at the Top: Extreme-Value Corrections for InfoNCE](../../papers/ml-foundations.md#erol26a-loss-functions) · 中文
 - [Information Geometry Loss for Time Series Forecasting](../../papers/ml-foundations.md#fang26m-loss-functions) · 中文
 - [$f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data](../../papers/ml-foundations.md#fawkes26a-loss-functions) · 中文
+- [Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering](../../papers/ml-foundations.md#fu26g-loss-functions) · 中文
+- [Learning Coherent Representations: A Topological Approach to Interpretability](../../papers/ml-foundations.md#gaukstad26a-loss-functions) · 中文
 
 ### Graph Learning and Recommendation
 

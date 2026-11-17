@@ -49,6 +49,10 @@
 - [安全控制器混合](../papers/robotics.md#chaudhary26a-optimization) · Blending Neural Control Density Functions for Stabilization and Safety
 - [动态 SLAM 的残差梯度隔离](../papers/robotics.md#fan26g-optimization) · De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments
 
+### 多模态学习
+
+- [多模态检测的跨阶段融合搜索](../papers/multimodal.md#gao26an-optimization) · MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection
+
 ### 机器学习基础与统计
 
 - [约束优化](../papers/ml-foundations.md#abbas26a-optimization) · QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses
@@ -141,6 +145,9 @@
 - [离散扩散求解的单轨迹伴随估计](../papers/ml-foundations.md#feng26o-optimization) · Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching
 - [动量符号更新的平滑过渡](../papers/ml-foundations.md#feoktistov26a-optimization) · Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling
 - [在线凸优化的平方违约控制](../papers/ml-foundations.md#ferreira26a-optimization) · CLASP: Online learning algorithms for Convex Losses And Squared Penalties
+- [容量公平聚类的树度量化](../papers/ml-foundations.md#gadekar26a-optimization) · Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms
+- [按局部光滑性选梯度下降步长](../papers/ml-foundations.md#galli26a-optimization) · Flatland: The Adventures of Gradient Descent with Large Step Sizes
+- [量化数据的潜变量条件极大化](../papers/ml-foundations.md#gao26ah-optimization) · Inference from Quantized Data via Normal Variance-Mean Mixtures
 
 ### 图学习与推荐
 
@@ -156,4 +163,5 @@
 - [扩散重建的对偶反馈与频谱均衡](../papers/scientific-ml.md#du26n-optimization) · Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction
 - [临床二元规则的等权清单搜索](../papers/scientific-ml.md#estevez26a-optimization) · Automatic Construction of Clinical Scoring Systems with LLM Agents
 - [代数多重网格的稀疏粗层修正](../papers/scientific-ml.md#fink26a-optimization) · RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections
+- [量子激发态的多态重要性采样](../papers/scientific-ml.md#gao26j-optimization) · Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State
 <!-- classification:end -->

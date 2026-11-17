@@ -23,6 +23,7 @@
 - [贝叶斯模型估计评委家族偏差](../papers/llm.md#dubois26a-theory-statistics) · Quantifying Biases in LLM-as-a-Judge Evaluations
 - [闭环控制的共形反事实生成](../papers/llm.md#farzaneh26a-theory-statistics) · Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control
 - [偏好排行榜的去偏估计](../papers/llm.md#frauen26a-theory-statistics) · Nonparametric LLM Evaluation from Preference Data
+- [语言模型干预的样本特异几何](../papers/llm.md#gao26al-theory-statistics) · The Cylindrical Representation Hypothesis for Language Model Steering
 
 ### 计算机视觉
 
@@ -60,6 +61,7 @@
 - [线性 MDP 的奖励投毒可行性](../papers/reinforcement-learning.md#escamilla26a-theory-statistics) · When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs
 - [图结构 MDP 的局部策略近似](../papers/reinforcement-learning.md#faizal26a-theory-statistics) · Local Policies for Graph-Structured Markov Decision Processes
 - [无界状态空间的高斯过程后验采样](../papers/reinforcement-learning.md#flynn26b-theory-statistics) · Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces
+- [重复博弈中的任意时偏离检测](../papers/reinforcement-learning.md#gauthier26a-theory-statistics) · Anytime Detection of Strategic Deviations in Multi-Agent Systems
 
 ### 机器人学
 
@@ -205,6 +207,19 @@
 - [相关类别变量的函数 ANOVA](../papers/ml-foundations.md#ferrere26a-theory-statistics) · Exact Functional ANOVA Decomposition for Categorical Inputs Models
 - [Dirichlet 过程切片采样的簇数开销](../papers/ml-foundations.md#franzolini26a-theory-statistics) · Complexity Bounds for Dirichlet Process Slice Samplers
 - [条件独立检验的谱表示](../papers/ml-foundations.md#frohlich26a-theory-statistics) · Toward Scalable and Valid Conditional Independence Testing with Spectral Representations
+- [异常检测的噪声隔离密度](../papers/ml-foundations.md#fu26w-theory-statistics) · Noise-Robust Density Estimation for Tabular Data Anomaly Detection
+- [候选标签的摊销后验推断](../papers/ml-foundations.md#fuchs26a-theory-statistics) · Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation
+- [Shapley 值的奇分量估计](../papers/ml-foundations.md#fumagalli26a-theory-statistics) · An Odd Estimator for Shapley Values
+- [Lipschitz Transformer 的逼近能力](../papers/ml-foundations.md#furuya26a-theory-statistics) · Approximation Theory for Lipschitz Continuous Transformers
+- [变分自编码器的编码信息泛化界](../papers/ml-foundations.md#futami26a-theory-statistics) · Information-Theoretic Generalization Bounds for VAEs: A Role of Encoder and Latent Variable
+- [概率测度 PCA 的双层采样误差](../papers/ml-foundations.md#gachon26a-theory-statistics) · PCA of Probability Measures: Sparse and Dense Sampling Regimes
+- [多变点的在线选择性检测](../papers/ml-foundations.md#gafni26a-theory-statistics) · The Cost of Learning Under Multiple Change Points
+- [树分解上的因果语言可满足性判定](../papers/ml-foundations.md#ganian26a-theory-statistics) · Gateways to Tractability for Satisfiability in Pearl’s Causal Hierarchy
+- [以条件处理效应为目标的主动采集](../papers/ml-foundations.md#gao26i-theory-statistics) · Causal-EPIG: Causally Aligned Active CATE Estimation
+- [用条件独立检验推导结构学习速率](../papers/ml-foundations.md#gao26ab-theory-statistics) · Optimal structure learning and conditional independence testing
+- [深度诱导的低秩分类几何](../papers/ml-foundations.md#garrod26a-theory-statistics) · The Implicit Bias of Depth: From Neural Collapse to Softmax Codes
+- [深层神经坍塌的联合谱解释](../papers/ml-foundations.md#garrod26b-theory-statistics) · Unifying Low Dimensional Spectra in Deep Learning
+- [混合分布的样本初始化与身份检验](../papers/ml-foundations.md#gay26a-theory-statistics) · Sampling and Identity-Testing Without Approximate Tensorization of Entropy
 
 ### 图学习与推荐
 
@@ -225,4 +240,6 @@
 - [群体动力学反演](../papers/scientific-ml.md#berman26a-theory-statistics) · Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems
 - [多病风险的贝叶斯超图](../papers/scientific-ml.md#ding26c-theory-statistics) · Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference
 - [部分可识别的治疗分配风险](../papers/scientific-ml.md#ek26a-theory-statistics) · Learning Treatment Allocations with Risk Control Under Partial Identifiability
+- [隐藏动态过程的因果可识别性](../papers/scientific-ml.md#fu26i-theory-statistics) · Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis
+- [基于物理似然的 CT 重建置信区域](../papers/scientific-ml.md#gatzner26a-theory-statistics) · Principled Confidence Estimation for Deep Computed Tomography
 <!-- classification:end -->

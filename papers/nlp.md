@@ -76,6 +76,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="cao26p-representation-learning"></a>[Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) | 复杂表格理解 | 按空间与语义约束同时构建行树和列树，再用双路径恢复每个单元格的层级语义，保留合并单元格和多级表头中的依赖。 |
+| <a id="gao26h-representation-learning"></a>[InstEmb: Instruction-Following Embeddings through Glimpses of the Future](https://proceedings.mlr.press/v306/gao26h.html) | 用前瞻 token 蒸馏指令嵌入 | 同时对最后一个输入 token 做对比学习，并用若干可学习前瞻 token 蒸馏真实生成后续的隐藏表征。推理把输入末位与前瞻位置的均值合并成向量，在一次计算中纳入输出相关语义，无需逐 token 解码。 |
 
 <a id="by-evaluation"></a>
 
@@ -90,6 +91,7 @@
 | <a id="dehdashtian26a-evaluation"></a>[FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | 音频深伪检测的多样性压力测试 | 在黑盒红队评测中同时把检测器反馈和候选音频间的多样性反馈放进上下文，令测试覆盖更多错误模式。论文在所测检测器上确认了部分失效跨模型迁移，且回收测试样本做微调能提高检测稳健性。 |
 | <a id="duarte26a-evaluation"></a>[Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | 同行评审来源的声明级检测 | 为目标评审配对同一论文、总体评分相同的多份 AI 参考评审，比较评价意见、建设建议等声明的最佳语义匹配，再加文本特征训练三分类器。在论文数据中，经 AI 润色的人类评审仍常保留有辨识度的判断内容。 |
 | <a id="fernandez26b-evaluation"></a>[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | 重写式事后文本水印评测 | 用带水印的解码器改写已有文本，联合测量水印可检测性和语义保真。论文比较显示，开放文本可通过束搜索改善折中，但代码的强水印往往伴随功能正确率下降。 |
+| <a id="gao26af-evaluation"></a>[FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) | 机器翻译的无参考成对排序 | 给裁判提供源句和两份译文，分别判断忠实度、流畅度与风格一致性。分项成对判断可用人工排序分别校验，并揭示总分掩盖的译文优缺点。 |
 
 <a id="by-theory-statistics"></a>
 

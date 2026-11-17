@@ -17,6 +17,7 @@
 | <a id="chen26go-architecture"></a>[Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://proceedings.mlr.press/v306/chen26go.html) | 遥感跨模态的共享潜空间扩散 | 先用配对观测对齐各模态编码器的潜空间，再将源潜变量和加噪目标潜变量拼接后输入共享扩散 Transformer，用源、目标模态标识调制归一化，直接回归干净目标潜变量。一个主干即可用于多个转换方向。 |
 | <a id="dementyev26a-architecture"></a>[PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](https://proceedings.mlr.press/v306/dementyev26a.html) | 阵列几何条件化的空间音频词元 | 把多通道波形及对应麦克风坐标一同送入 Transformer 编码器，生成保留声源方向的空间音频词元。接入语言模型后可做空间推理和定向转写，测试覆盖训练时未见的阵列布局。 |
 | <a id="forhad26a-architecture"></a>[Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](https://proceedings.mlr.press/v306/forhad26a.html) | 持续学习专家的置信加权协作 | 利用冻结视觉语言模型的开放集预测为各任务专家提供先验，再用学得的多元高斯描述专家表征分布并分配融合权重。专家可按输入与其训练分布的匹配程度协作，无需显式任务 ID。 |
+| <a id="gao26am-architecture"></a>[DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](https://proceedings.mlr.press/v306/gao26am.html) | 交替状态与转移的视觉世界模型 | 把关键帧状态与按层级模式编码的事件转移交替排成序列，分别交给专家预测和模拟。用跨专家选择性注意力交换线索，并重加权结构化转移词元，使状态生成更能遵守动作和场景变化条件。 |
 
 <a id="by-modules"></a>
 
@@ -42,6 +43,15 @@
 | <a id="cheong26a-loss-functions"></a>[FairSSL: Fair Multimodal Self-Supervised Learning](https://proceedings.mlr.press/v306/cheong26a.html) | 可变长多模态样本的公平自监督 | 把每个受试者的可变长模态划成片段后池化，用同一受试者的片段建立跨模态对齐，同时约束受试者内方差和表征的冗余。论文在异质数据上观察到预测性能接近时的群体差距缩小。 |
 | <a id="dellali26a-loss-functions"></a>[SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](https://proceedings.mlr.press/v306/dellali26a.html) | 长视频配音的掩码与快捷去噪监督 | 用随机音频掩码训练模型在视频及未遮盖音频条件下补全缺口，推理时利用已生成音频衔接后续片段。同时用 shortcut 损失监督较大的去噪步，使论文中的采样步数可降到八步。 |
 | <a id="deng26z-loss-functions"></a>[Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization](https://proceedings.mlr.press/v306/deng26z.html) | 共享视觉上下文的对比偏好优化 | 把原图和经细粒度修改的负例图放进同一上下文，以位置指令指定当前目标图。让优选与劣选回答共享图像和文本条件，使偏好目标中的配分函数相消，训练模型区分细微视觉差异。 |
+| <a id="fu26r-loss-functions"></a>[Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation](https://proceedings.mlr.press/v306/fu26r.html) | 图像实例约束的雷达场景流 | 将相邻图像中跟踪到的实例掩码回投到雷达点，按实例限制跨帧匹配以减少稀疏点云的错配。对静态区再用车体里程计与雷达运动线索施加刚性约束。 |
+
+<a id="by-optimization"></a>
+
+### 优化
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="gao26an-optimization"></a>[MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](https://proceedings.mlr.press/v306/gao26an.html) | 多模态检测的跨阶段融合搜索 | 用可微搜索选择局部融合算子，以进化搜索同时寻找高层融合节点和跨阶段连接。在所测 RGB 与热成像数据上，该分工可发掘固定同层融合难以覆盖的互补路径。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -56,6 +66,8 @@
 | <a id="deng26x-reinforcement-learning"></a>[Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://proceedings.mlr.press/v306/deng26x.html) | 主动空间推理的可执行中间奖励 | 让视觉语言智能体主动选取视角，把物体位置和朝向累积到认知地图。将中间空间关系写成可执行断言，在该地图上计算断言是否成立，为选视角和推理提供比最终答案更密集的强化学习反馈。 |
 | <a id="ding26m-reinforcement-learning"></a>[Learning Self-Correction in Vision–Language Models via Rollout Augmentation](https://proceedings.mlr.press/v306/ding26m.html) | 错到对的自纠正轨迹重组 | 先让模型生成带自纠正标记的前后两段回答，再在同题的采样组内重配前段与后段，优先构造错误初答转为正确答案的轨迹。这让已有生成结果能提供更密集的纠正信号。 |
 | <a id="du26j-reinforcement-learning"></a>[Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](https://proceedings.mlr.press/v306/du26j.html) | 长尾回归的批级一致相关奖励 | 针对一个候选数值，把它与同批其他样本的多次生成均值组成预测向量。与真值向量计算一致性相关系数作为 GRPO 奖励，同时约束批内预测的相关性、尺度和均值。 |
+| <a id="gao26l-reinforcement-learning"></a>[EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment](https://proceedings.mlr.press/v306/gao26l.html) | 图像诱发情绪的排序奖励 | 在图像情绪问答监督训练后，用 GRPO 分别细化各评估任务。情绪排序的奖励同时看前三种情绪的命中及次序一致性，使模型学会区分主导情绪和次要情绪。 |
+| <a id="gao26n-reinforcement-learning"></a>[Segment-Aligned Policy Optimization for Multi-Modal Reasoning](https://proceedings.mlr.press/v306/gao26n.html) | 多模态推理的分段策略优化 | 按生成词元熵的上分位点切分推理轨迹，把每个片段作为策略动作并在片段边界估计价值。高熵位置更常出现价值突变，提供了可自动定位的信用分配边界。 |
 
 <a id="by-training-strategies"></a>
 
@@ -88,6 +100,8 @@
 | <a id="chen26gb-data-strategies"></a>[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://proceedings.mlr.press/v306/chen26gb.html) | GUI 智能体的失败轨迹纠错数据 | 在可自动判定结果的合成界面中收集学生模型的失败轨迹，让专家结合中间截图和正确解回顾错误并写出纠正过程。把这些轨迹与正常解题轨迹一起微调，给原生视觉语言智能体提供从中途错误恢复的监督。 |
 | <a id="fang26b-data-strategies"></a>[Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness](https://proceedings.mlr.press/v306/fang26b.html) | 用近域异常文本约束开放集识别 | 让语言模型为已知类别生成外观相近或语境异常的未知样本描述，再将这些描述作为视觉语言模型的负向语义参照。与已知类文本一起比较时，可为易被强行归类的近域异常提供识别依据。 |
 | <a id="feng26s-data-strategies"></a>[TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis](https://proceedings.mlr.press/v306/feng26s.html) | 电信观测序列保留绝对量纲 | 在异常检测与根因评测中保留 5G 指标原始尺度。消融实验把原始序列的通道均值和标准差提供给模型后，根因识别更准确，表明量级可区分时序形态相似的故障。 |
+| <a id="fu26s-data-strategies"></a>[VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](https://proceedings.mlr.press/v306/fu26s.html) | 知识密集视频的分技能数据构造 | 以领域知识点指导专家视频的搜集，分别为基础视频推理、知识辅助感知和知识密集推理构造题目。由专家制作含逐步解释的种子，让后续规模化生成保留视频证据与专业推理的联系。 |
+| <a id="gao26o-data-strategies"></a>[Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](https://proceedings.mlr.press/v306/gao26o.html) | 视频到三维空间监督数据 | 先优化多视角深度一致的三维高斯场景，再维护跨帧类别表生成语义一致的掩码。提升掩码到三维前做边界腐蚀和网格深度过滤，可减少物体边缘离群点对标注框的影响。 |
 
 <a id="by-inference"></a>
 
@@ -114,6 +128,9 @@
 | <a id="fang26c-inference"></a>[SLAP: The Semantic Least Action Principle for Variational Video-Language Modeling](https://proceedings.mlr.press/v306/fang26c.html) | 稀疏视频帧的语义轨迹插值 | 固定缺帧区间两端的观测表示，以位移代价和语义势能构造离散作用量，再联合求解整段中间轨迹。模型可在潜空间补全状态变化，无需渲染中间像素帧。 |
 | <a id="feng26d-inference"></a>[WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching](https://proceedings.mlr.press/v306/feng26d.html) | 世界模型缓存的曲率漂移判据 | 以 token 轨迹曲率衡量难预测程度，对急转的 token 采用阻尼预测。缓存跳步时累积高曲率 token 的曲率与特征漂移模长之积，使重算由最不稳定的局部轨迹触发，并降低不同模态特征尺度的影响。 |
 | <a id="forouzandeh26a-inference"></a>[LINGUA: Bridging the Grounding Gap in VideoQA via Typed Memory and Belief-State Reasoning](https://proceedings.mlr.press/v306/forouzandeh26a.html) | 视频问答的结构化记忆与核验 | 把事件帧写入记忆并区分情节、语义和程序信息，推理时显式更新语言化信念并检查动作后的状态与时间条件。答案和支持片段可据此一起核验，暴露只答对结论却定位错误的情况。 |
+| <a id="fu26e-inference"></a>[Multimodal Function Vectors for Visual Relations](https://proceedings.mlr.press/v306/fu26e.html) | 视觉关系的函数向量干预 | 对每种视觉关系提取注意力头的平均激活，把这些激活逐一注入缺少有效示例的提示，按预测恢复程度定位关键头。在论文测试的视觉关系任务上，注入关键头的聚合向量可改善零样本判断。 |
+| <a id="fu26m-inference"></a>[Hierarchical Procedural Meta-Reasoning for Generalizable Multimodal Agents](https://proceedings.mlr.press/v306/fu26m.html) | 移动端智能体的流程充分性判断 | 将操作步骤显式保存为自然语言流程，由底层执行器据此选择动作。高层模块随交互检查剩余流程是否可行，只在流程已不足且难以直接修正时检索外部知识，再更新步骤。 |
+| <a id="gao26r-inference"></a>[AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density](https://proceedings.mlr.press/v306/gao26r.html) | 视觉词元压缩的平坦度路由 | 以像素梯度低于阈值的比例衡量图像平坦度。大面积平坦、结构信息稀疏的图表进入保留上下文的融合分支，其余图像则走激进剪枝分支。 |
 
 <a id="by-representation-learning"></a>
 
@@ -127,6 +144,7 @@
 | <a id="cheng26k-representation-learning"></a>[Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](https://proceedings.mlr.press/v306/cheng26k.html) | 结构化代理的跨模态哈希 | 为每个样本从同标签代理中选近邻形成稀疏子图，按关联强度聚合候选代理的标签响应。以子图约束代理间竞争，可改善多标签样本在汉明空间中的可分性。 |
 | <a id="choi26h-representation-learning"></a>[Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](https://proceedings.mlr.press/v306/choi26h.html) | 可稀疏选择的多模态专家表征 | 先预训练各模态的 MoE 编码器，让专家子空间承载可对齐的语义成分，再训练任务路由器选择专家，并在推理时按批次保留评分最高的一定比例的输入与专家配对。MultiBench 实验中，中等稀疏率的表现优于研究中测试的更高稀疏率。 |
 | <a id="dutta26b-representation-learning"></a>[Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](https://proceedings.mlr.press/v306/dutta26b.html) | 传感通道文本调制时序表征 | 用通道描述的文本嵌入生成时间卷积核和软门控，并让描述相似度调节跨通道注意力。再在潜空间预测时序表征，所得特征可用线性探针迁移到分类、预测和异常检测。 |
+| <a id="fu26p-representation-learning"></a>[ObjEmbed: Towards Universal Multimodal Object Embeddings](https://proceedings.mlr.press/v306/fu26p.html) | 对象检索的语义与定位质量嵌入 | 把区域候选编码成一串对象词元，另设词元表征框的定位质量，一次前向编码所有区域与全图。匹配短语时联合使用语义相似度和预测 IoU，以优先选中描述匹配且框更准确的区域。 |
 
 <a id="by-evaluation"></a>
 
@@ -156,6 +174,8 @@
 | <a id="fang26r-evaluation"></a>[Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](https://proceedings.mlr.press/v306/fang26r.html) | 音频安全评测的稀疏梯度诊断 | 按音频词元对应的波形区间统计梯度能量，发现越狱优化信号集中在少数区段。论文中 Qwen3-Omni 的对照实验显示，仅保留四分之一词元相关梯度仍接近全量条件的攻击成功率。 |
 | <a id="fang26x-evaluation"></a>[Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition](https://proceedings.mlr.press/v306/fang26x.html) | 文本条件下的音视频信息分解 | 保持指令不变，比较只给视频、只给音频和同时给两者时的预测分布，将决策信息分解为各模态独有、冗余及协同项。论文评测显示，即使在音视频融合任务上，测试模型也多依赖单模态线索。 |
 | <a id="fu26c-evaluation"></a>[MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge](https://proceedings.mlr.press/v306/fu26c.html) | 区分旧事实更新和未知事实学习 | 将事实已经变化和模型原先未知的知识分开评测，并跨文本与图像提问检查更新是否一致。实验显示，微调法和局部知识编辑在持续更新与保留原能力上呈现不同的局限。 |
+| <a id="gao26g-evaluation"></a>[FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content](https://proceedings.mlr.press/v306/gao26g.html) | 多模态伪造的来源与事实双轴评测 | 从同一语义素材包跨组合抽取自然或合成媒体及事实或非事实内容，再组装成网页。逐模态标注生成来源，并另外标注全局事实性、文本与图像音视频间的一致性，用以定位可信媒体包装下的内容错误。 |
+| <a id="gao26ag-evaluation"></a>[Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](https://proceedings.mlr.press/v306/gao26ag.html) | 文本知识编辑的图像迁移诊断 | 分别测目标文本续写和生成图像上的视觉问答。论文发现文本侧成功率高时图像仍可能沿用旧知识，生成前显式写出编辑后的事实可改善部分模型的迁移。 |
 
 <a id="by-theory-statistics"></a>
 

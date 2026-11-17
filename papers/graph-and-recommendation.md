@@ -19,6 +19,8 @@
 | <a id="eliasof26a-architecture"></a>[Graph Neural Dynamics via Learned Energy and Tangential Flows](https://proceedings.mlr.press/v306/eliasof26a.html) | 图动力学的能量与切向流 | 将节点表征的演化拆成能量梯度下降和与梯度正交的消息传递流。后者可沿等能面继续传播信息，使能量下降的约束允许表征在梯度很小的区域继续更新。 |
 | <a id="fang26g-architecture"></a>[MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/fang26g.html) | 超边潜类型与多通道传播 | 让各超边以可学习权重混合共享码本中的类型原型，给超边聚合额外提供独立于输入节点特征的类型信息。再用多通道消息传递为节点表示保留更高的秩容量。 |
 | <a id="fernandez26a-architecture"></a>[L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](https://proceedings.mlr.press/v306/fernandez26a.html) | 图傅里叶变换的柯西分解 | 把全图傅里叶变换分解为小子图的谱算子和跨割连接的柯西因子，在因子之间插入可学习局部滤波器，逐级整合远程信息并避免全图特征分解。 |
+| <a id="gailhard26a-architecture"></a>[Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](https://proceedings.mlr.press/v306/gailhard26a.html) | 超图生成的多尺度展开 | 把节点和超边写成二部表示，由粗到细复制父节点及其连接。细化阶段在子节点间重分配尺度编码，并更新属性、移除多余的边，使每一步同时恢复结构和特征。 |
+| <a id="gantes26a-architecture"></a>[SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](https://proceedings.mlr.press/v306/gantes26a.html) | 以分层极大团表示超边 | 把超图拆成共享节点集合的多层普通图，令各层极大团的不交并集恰好还原原始超边。扩散 Transformer 在这一层序列上生成，再从各层提取极大团复原高阶连边。 |
 
 <a id="by-modules"></a>
 
@@ -74,6 +76,7 @@
 | <a id="arafat26a-training-strategies"></a>[Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) | 超图鲁棒训练 | 把超图拉普拉斯作为统一的攻击目标，在同一预算框架下测试结构及特征扰动，再用相应扰动做超图模型的对抗训练。 |
 | <a id="canturk26a-training-strategies"></a>[Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | 图组合优化迁移 | 用计算复杂性中的任务归约关系选择预训练组合，再共享图编码器微调。留一任务评测中，多任务预训练通常加快收敛。 |
 | <a id="chen26cz-training-strategies"></a>[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | 图基础模型的消息微调 | 冻结预训练 GNN，在每层加入少量可学习的消息原型，并动态融合原型和原生消息。逐层改变消息聚合可提高适配能力，论文在其刻画的模型条件下给出了超出输入提示微调上界的构造。 |
+| <a id="gao26ai-training-strategies"></a>[GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | 空间众包的双视图蒸馏 | 以门控融合社交影响、工人任务匹配与邻居信息，并把融合表征蒸馏给单视图模型，帮助种子选择同时考虑邀请能否传播及被邀请者能否完成线下任务。 |
 
 <a id="by-data-strategies"></a>
 
@@ -94,6 +97,7 @@
 | <a id="ai26c-inference"></a>[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) | 图模型测试时适应 | 冻结图骨干，用当前快照的无标签特征熵更新动态图提示，持续跟随图结构与测试分布的变化。 |
 | <a id="bisht26b-inference"></a>[CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) | 在线推荐校准 | 持续监测推荐损失并在用户行为变化时重新定阈值，同时在线调整不同集合预测器的权重，使可变长度推荐列表保持紧凑。 |
 | <a id="fomina26a-inference"></a>[On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) | 图注意力的 I/O 融合优化 | 将逐边计算与邻居聚合融合在 GPU 核内，减少把边级中间量写回显存。图重排序的收益取决于线程映射，实验中对邻居并行的 gather 型核比对特征并行核更稳定。 |
+| <a id="gao26t-inference"></a>[Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) | 知识图多跳搜索的语义补边 | 在语言模型引导的邻接遍历中，将高于嵌入相似度阈值的近邻也加入前沿，再排除已访问节点。这样可按查询跨过显式知识图中缺失的连接。 |
 
 <a id="by-representation-learning"></a>
 

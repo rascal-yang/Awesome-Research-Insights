@@ -71,6 +71,10 @@ Aggregating rewards before group normalization can map different combinations to
 - [Bridging On-Device and Cloud LLMs for Collaborative Reasoning: A Unified Methodology for Local Routing and Post-Training](../../papers/llm.md#fang26d-reinforcement-learning) · 中文
 - [PRM-PBE: Process Reward Model for Reinforcement Learning in Programming-by-Example](../../papers/llm.md#fang26j-reinforcement-learning) · 中文
 - [Learning to Share: Selective Memory for Efficient Parallel Agentic Systems](../../papers/llm.md#fioresi26a-reinforcement-learning) · 中文
+- [Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning](../../papers/llm.md#gai26a-reinforcement-learning) · 中文
+- [Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling](../../papers/llm.md#gai26b-reinforcement-learning) · 中文
+- [Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization](../../papers/llm.md#gao26f-reinforcement-learning) · 中文
+- [Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue](../../papers/llm.md#gao26aj-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -131,12 +135,16 @@ Aggregating rewards before group normalization can map different combinations to
 - [Learning Interpretable Options by Identifying Reward Diffusion Bottlenecks in Reinforcement Learning](../../papers/reinforcement-learning.md#fei26a-reinforcement-learning) · 中文
 - [Offline Reinforcement Learning with Generative Trajectory Policies](../../papers/reinforcement-learning.md#feng26q-reinforcement-learning) · 中文
 - [FlowMAP: Flow Matching for Generalizable Agent Planning](../../papers/reinforcement-learning.md#fu26b-reinforcement-learning) · 中文
+- [HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning](../../papers/reinforcement-learning.md#fu26k-reinforcement-learning) · 中文
+- [RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](../../papers/reinforcement-learning.md#fukazawa26a-reinforcement-learning) · 中文
+- [Decentralized Bandits without Global Clock for Dynamic Matching Market](../../papers/reinforcement-learning.md#gao26ak-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
 
 - [Learning to Search and Searching to Learn for Generalization in Planning](../../papers/robotics.md#aichmuller26a-reinforcement-learning) · 中文
 - [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](../../papers/robotics.md#chowdhury26a-reinforcement-learning) · 中文
+- [Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](../../papers/robotics.md#ge26a-reinforcement-learning) · 中文
 
 ### Multimodal Learning
 
@@ -147,6 +155,8 @@ Aggregating rewards before group normalization can map different combinations to
 - [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](../../papers/multimodal.md#deng26x-reinforcement-learning) · 中文
 - [Learning Self-Correction in Vision–Language Models via Rollout Augmentation](../../papers/multimodal.md#ding26m-reinforcement-learning) · 中文
 - [Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](../../papers/multimodal.md#du26j-reinforcement-learning) · 中文
+- [EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment](../../papers/multimodal.md#gao26l-reinforcement-learning) · 中文
+- [Segment-Aligned Policy Optimization for Multi-Modal Reasoning](../../papers/multimodal.md#gao26n-reinforcement-learning) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -161,4 +171,5 @@ Aggregating rewards before group normalization can map different combinations to
 - [Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](../../papers/scientific-ml.md#chen26gv-reinforcement-learning) · 中文
 - [LASER: Learning Active Sensing for Continuum Field Reconstruction](../../papers/scientific-ml.md#deng26y-reinforcement-learning) · 中文
 - [GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design](../../papers/scientific-ml.md#flynn26a-reinforcement-learning) · 中文
+- [Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning](../../papers/scientific-ml.md#gao26c-reinforcement-learning) · 中文
 <!-- classification:end -->

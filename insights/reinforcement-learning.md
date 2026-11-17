@@ -73,6 +73,10 @@
 - [端云推理的自主求助奖励](../papers/llm.md#fang26d-reinforcement-learning) · Bridging On-Device and Cloud LLMs for Collaborative Reasoning: A Unified Methodology for Local Routing and Post-Training
 - [示例编程的推理步骤奖励](../papers/llm.md#fang26j-reinforcement-learning) · PRM-PBE: Process Reward Model for Reinforcement Learning in Programming-by-Example
 - [并行智能体共享记忆的写入控制](../papers/llm.md#fioresi26a-reinforcement-learning) · Learning to Share: Selective Memory for Efficient Parallel Agentic Systems
+- [按正确性分开平滑推理轨迹](../papers/llm.md#gai26a-reinforcement-learning) · Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning
+- [正确与错误轨迹驱动的熵调度](../papers/llm.md#gai26b-reinforcement-learning) · Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling
+- [由终局标签学习前缀价值](../papers/llm.md#gao26f-reinforcement-learning) · Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization
+- [客服多轮决策的成本优势估计](../papers/llm.md#gao26aj-reinforcement-learning) · Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue
 
 ### 计算机视觉
 
@@ -133,12 +137,16 @@
 - [用随机奖励定位探索瓶颈](../papers/reinforcement-learning.md#fei26a-reinforcement-learning) · Learning Interpretable Options by Identifying Reward Diffusion Bottlenecks in Reinforcement Learning
 - [离线策略的生成 ODE 解映射](../papers/reinforcement-learning.md#feng26q-reinforcement-learning) · Offline Reinforcement Learning with Generative Trajectory Policies
 - [价值引导的规划分布传输](../papers/reinforcement-learning.md#fu26b-reinforcement-learning) · FlowMAP: Flow Matching for Generalizable Agent Planning
+- [多智能体共享权重的尺度分离](../papers/reinforcement-learning.md#fu26k-reinforcement-learning) · HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning
+- [生成式离线策略的下尾风险约束](../papers/reinforcement-learning.md#fukazawa26a-reinforcement-learning) · RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization
+- [无全局时钟的匹配探索](../papers/reinforcement-learning.md#gao26ak-reinforcement-learning) · Decentralized Bandits without Global Clock for Dynamic Matching Market
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
 
 - [规划与强化学习](../papers/robotics.md#aichmuller26a-reinforcement-learning) · Learning to Search and Searching to Learn for Generalization in Planning
 - [按关键帧分配语言反馈奖励](../papers/robotics.md#chowdhury26a-reinforcement-learning) · LAGEA: Language Guided Embodied Agents for Robotic Manipulation
+- [以专家动态奖励后训练视频预测](../papers/robotics.md#ge26a-reinforcement-learning) · Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics
 
 ### 多模态学习
 
@@ -149,6 +157,8 @@
 - [主动空间推理的可执行中间奖励](../papers/multimodal.md#deng26x-reinforcement-learning) · Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models
 - [错到对的自纠正轨迹重组](../papers/multimodal.md#ding26m-reinforcement-learning) · Learning Self-Correction in Vision–Language Models via Rollout Augmentation
 - [长尾回归的批级一致相关奖励](../papers/multimodal.md#du26j-reinforcement-learning) · Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression
+- [图像诱发情绪的排序奖励](../papers/multimodal.md#gao26l-reinforcement-learning) · EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment
+- [多模态推理的分段策略优化](../papers/multimodal.md#gao26n-reinforcement-learning) · Segment-Aligned Policy Optimization for Multi-Modal Reasoning
 
 ### 图学习与推荐
 
@@ -163,4 +173,5 @@
 - [医学视觉定位与稀疏推理](../papers/scientific-ml.md#chen26gv-reinforcement-learning) · Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning
 - [连续物理场重建的主动传感](../papers/scientific-ml.md#deng26y-reinforcement-learning) · LASER: Learning Active Sensing for Continuum Field Reconstruction
 - [遗传电路代码的分层验证奖励](../papers/scientific-ml.md#flynn26a-reinforcement-learning) · GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design
+- [序贯诊断的分角色奖励](../papers/scientific-ml.md#gao26c-reinforcement-learning) · Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning
 <!-- classification:end -->

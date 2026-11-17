@@ -102,6 +102,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Evaluating Relational Reasoning in LLMs with REL](../../papers/llm.md#fesser26a-evaluation) · 中文
 - [Singular Vectors of Attention Heads Align with Features](../../papers/llm.md#franco26a-evaluation) · 中文
 - [CATArena: Evaluating Evolutionary Capabilities of Code Agents via Iterative Tournaments](../../papers/llm.md#fu26a-evaluation) · 中文
+- [PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks](../../papers/llm.md#gandhi26a-evaluation) · 中文
+- [The First Drop of Ink: Nonlinear Impact of Distracting Information in Long-Context Reasoning](../../papers/llm.md#gao26b-evaluation) · 中文
+- [Weight-sparse transformers have interpretable circuits](../../papers/llm.md#gao26w-evaluation) · 中文
 
 ### Computer Vision
 
@@ -126,6 +129,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](../../papers/nlp.md#dehdashtian26a-evaluation) · 中文
 - [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](../../papers/nlp.md#duarte26a-evaluation) · 中文
 - [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](../../papers/nlp.md#fernandez26b-evaluation) · 中文
+- [FiRE: Fine-grained Ranking Evaluation for Machine Translation](../../papers/nlp.md#gao26af-evaluation) · 中文
 
 ### Reinforcement Learning
 
@@ -139,6 +143,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](../../papers/robotics.md#dai26c-evaluation) · 中文
 - [Rethinking Video Generation Model for the Embodied World](../../papers/robotics.md#deng26r-evaluation) · 中文
 - [Demystifying Action Space Design for Robotic Manipulation Policies](../../papers/robotics.md#feng26ab-evaluation) · 中文
+- [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](../../papers/robotics.md#fu26u-evaluation) · 中文
 
 ### Multimodal Learning
 
@@ -164,6 +169,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](../../papers/multimodal.md#fang26r-evaluation) · 中文
 - [Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition](../../papers/multimodal.md#fang26x-evaluation) · 中文
 - [MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge](../../papers/multimodal.md#fu26c-evaluation) · 中文
+- [FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content](../../papers/multimodal.md#gao26g-evaluation) · 中文
+- [Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](../../papers/multimodal.md#gao26ag-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -186,6 +193,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior](../../papers/ml-foundations.md#eichin26a-evaluation) · 中文
 - [Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](../../papers/ml-foundations.md#feng26u-evaluation) · 中文
 - [On the Anisotropy of Score-Based Generative Models](../../papers/ml-foundations.md#floros26a-evaluation) · 中文
+- [On the Fragility of Data Attribution When Learning Is Distributed](../../papers/ml-foundations.md#gao26k-evaluation) · 中文
+- [Conformal Reliability: A New Evaluation Metric for Conditional Generation](../../papers/ml-foundations.md#gao26aa-evaluation) · 中文
+- [Biased Generalization in Diffusion Models](../../papers/ml-foundations.md#garnier-brun26a-evaluation) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -210,4 +220,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications](../../papers/scientific-ml.md#didi26a-evaluation) · 中文
 - [(Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations](../../papers/scientific-ml.md#duan26f-evaluation) · 中文
 - [BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics](../../papers/scientific-ml.md#fa26a-evaluation) · 中文
+- [TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering](../../papers/scientific-ml.md#gao26ao-evaluation) · 中文
 <!-- classification:end -->

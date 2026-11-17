@@ -78,6 +78,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [键相似度预调节注意力](../papers/llm.md#duvvuri26a-modules) · LUCID: Attention with Preconditioned Representations
 - [逐解码步的潜空间经验检索](../papers/llm.md#feng26i-modules) · ExpWeaver: LLM Agents Learn from Experience via Latent RAG
 - [MoE 专家输出的有向图聚合](../papers/llm.md#feng26v-modules) · DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts
+- [Softplus 注意力的两阶段重加权](../papers/llm.md#gao26y-modules) · Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models
 
 ### 计算机视觉
 
@@ -101,6 +102,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 ### 机器人学
 
 - [视觉动作策略的连续网格采样](../papers/robotics.md#feng26x-modules) · See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model
+- [视觉动作模型的通道相关门控](../papers/robotics.md#fu26x-modules) · StableVLA: Towards Robust Vision-Language-Action Models without Extra Data
 - [指令前缀](../papers/robotics.md#reconvla-modules) · ReconVLA
 
 ### 多模态学习
@@ -147,4 +149,5 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [口袋与配体双向融合](../papers/scientific-ml.md#chen26bw-modules) · TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion
 - [脑电信号的复数频谱细化](../papers/scientific-ml.md#chen26fr-modules) · PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding
 - [原子间势的自适应贝叶斯失活](../papers/scientific-ml.md#coscia26a-modules) · BLIPs: Bayesian Learned Interatomic Potentials
+- [用虚拟三跳路径编码蛋白交互先验](../papers/scientific-ml.md#gao26ap-modules) · Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach
 <!-- classification:end -->

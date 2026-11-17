@@ -25,6 +25,8 @@ Data selection, annotation, augmentation, and sampling.
 - [DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](../../papers/llm.md#chen26gj-data-strategies) · 中文
 - [How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess](../../papers/llm.md#dionisopoulos26a-data-strategies) · 中文
 - [Understanding Data Temporality Impact on Large Language Models Pre-training](../../papers/llm.md#fabre26a-data-strategies) · 中文
+- [Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning](../../papers/llm.md#fu26f-data-strategies) · 中文
+- [Differentially Private Preference Data Synthesis for Large Language Model Alignment](../../papers/llm.md#gao26ae-data-strategies) · 中文
 
 ### Computer Vision
 
@@ -34,6 +36,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](../../papers/computer-vision.md#chen26bj-data-strategies) · 中文
 - [Geometry-Aware Dataset Condensation for Diffusion Model Training](../../papers/computer-vision.md#cui26f-data-strategies) · 中文
 - [Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](../../papers/computer-vision.md#fang26s-data-strategies) · 中文
+- [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](../../papers/computer-vision.md#gan26d-data-strategies) · 中文
 
 ### Natural Language Processing
 
@@ -55,6 +58,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](../../papers/robotics.md#chen26cy-data-strategies) · 中文
 - [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](../../papers/robotics.md#choi26i-data-strategies) · 中文
 - [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](../../papers/robotics.md#fan26b-data-strategies) · 中文
+- [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](../../papers/robotics.md#gao26q-data-strategies) · 中文
 
 ### Multimodal Learning
 
@@ -67,6 +71,8 @@ Data selection, annotation, augmentation, and sampling.
 - [CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](../../papers/multimodal.md#chen26gb-data-strategies) · 中文
 - [Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness](../../papers/multimodal.md#fang26b-data-strategies) · 中文
 - [TelecomTS: A Multi-Modal Observability Dataset for Time Series and Language Analysis](../../papers/multimodal.md#feng26s-data-strategies) · 中文
+- [VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding](../../papers/multimodal.md#fu26s-data-strategies) · 中文
+- [Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence](../../papers/multimodal.md#gao26o-data-strategies) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -78,6 +84,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Active Learning with Low-Rank Structure for Data Selection](../../papers/ml-foundations.md#cohen-addad26a-data-strategies) · 中文
 - [On the Difficulty of Learning a Meta-network for Training Data Selection](../../papers/ml-foundations.md#du26u-data-strategies) · 中文
 - [Curated Synthetic Data Doesn’t Have to Collapse: A Theoretical Study of Generative Retraining with Pluralistic Preferences](../../papers/ml-foundations.md#falahati26a-data-strategies) · 中文
+- [Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data](../../papers/ml-foundations.md#gao26z-data-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -91,4 +98,5 @@ Data selection, annotation, augmentation, and sampling.
 - [DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](../../papers/scientific-ml.md#chan26a-data-strategies) · 中文
 - [ANTiC: Adaptive Neural Temporal In Situ Compressor](../../papers/scientific-ml.md#cranganore26a-data-strategies) · 中文
 - [scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](../../papers/scientific-ml.md#d-ascenzo26a-data-strategies) · 中文
+- [A robust PPG foundation model using multimodal physiological supervision](../../papers/scientific-ml.md#geenjaar26a-data-strategies) · 中文
 <!-- classification:end -->

@@ -102,6 +102,9 @@
 - [关系推理的元数控制评测](../papers/llm.md#fesser26a-evaluation) · Evaluating Relational Reasoning in LLMs with REL
 - [注意力奇异向量的特征对齐诊断](../papers/llm.md#franco26a-evaluation) · Singular Vectors of Attention Heads Align with Features
 - [代码智能体的迭代锦标赛](../papers/llm.md#fu26a-evaluation) · CATArena: Evaluating Evolutionary Capabilities of Code Agents via Iterative Tournaments
+- [幻灯片代理任务的分项评分](../papers/llm.md#gandhi26a-evaluation) · PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks
+- [长上下文中少量困难干扰的影响](../papers/llm.md#gao26b-evaluation) · The First Drop of Ink: Nonlinear Impact of Distracting Information in Long-Context Reasoning
+- [权重稀疏模型的电路提取](../papers/llm.md#gao26w-evaluation) · Weight-sparse transformers have interpretable circuits
 
 ### 计算机视觉
 
@@ -126,6 +129,7 @@
 - [音频深伪检测的多样性压力测试](../papers/nlp.md#dehdashtian26a-evaluation) · FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors
 - [同行评审来源的声明级检测](../papers/nlp.md#duarte26a-evaluation) · Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews
 - [重写式事后文本水印评测](../papers/nlp.md#fernandez26b-evaluation) · How Good is Post-Hoc Watermarking With Language Model Rephrasing?
+- [机器翻译的无参考成对排序](../papers/nlp.md#gao26af-evaluation) · FiRE: Fine-grained Ranking Evaluation for Machine Translation
 
 ### 强化学习
 
@@ -139,6 +143,7 @@
 - [长程操作记忆的分项评测](../papers/robotics.md#dai26c-evaluation) · RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
 - [机器人生成视频的物理与任务评测](../papers/robotics.md#deng26r-evaluation) · Rethinking Video Generation Model for the Embodied World
 - [动作块增量的基准姿态](../papers/robotics.md#feng26ab-evaluation) · Demystifying Action Space Design for Robotic Manipulation Policies
+- [机器人代码策略的分层脚手架评测](../papers/robotics.md#fu26u-evaluation) · CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
 
 ### 多模态学习
 
@@ -164,6 +169,8 @@
 - [音频安全评测的稀疏梯度诊断](../papers/multimodal.md#fang26r-evaluation) · Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization
 - [文本条件下的音视频信息分解](../papers/multimodal.md#fang26x-evaluation) · Towards Understanding Modality Interaction in Multimodal Language Models via Partial Information Decomposition
 - [区分旧事实更新和未知事实学习](../papers/multimodal.md#fu26c-evaluation) · MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge
+- [多模态伪造的来源与事实双轴评测](../papers/multimodal.md#gao26g-evaluation) · FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content
+- [文本知识编辑的图像迁移诊断](../papers/multimodal.md#gao26ag-evaluation) · Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs
 
 ### 机器学习基础与统计
 
@@ -186,6 +193,9 @@
 - [沿 AdamW 训练路径联合归因](../papers/ml-foundations.md#eichin26a-evaluation) · ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior
 - [时序预测的分频可预测性诊断](../papers/ml-foundations.md#feng26u-evaluation) · Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting
 - [评分模型的架构各向异性](../papers/ml-foundations.md#floros26a-evaluation) · On the Anisotropy of Score-Based Generative Models
+- [分布式数据归因的操纵鲁棒性](../papers/ml-foundations.md#gao26k-evaluation) · On the Fragility of Data Attribution When Learning Is Distributed
+- [条件生成的保形可靠性评分](../papers/ml-foundations.md#gao26aa-evaluation) · Conformal Reliability: A New Evaluation Metric for Conditional Generation
+- [扩散生成的训练样本邻近偏差](../papers/ml-foundations.md#garnier-brun26a-evaluation) · Biased Generalization in Diffusion Models
 
 ### 图学习与推荐
 
@@ -210,4 +220,5 @@
 - [蛋白适应度的外推切分](../papers/scientific-ml.md#didi26a-evaluation) · FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications
 - [生物基础模型的双类扰动诊断](../papers/scientific-ml.md#duan26f-evaluation) · (Be Cautious!) Bio-Foundation Models Are Not Yet Robust to Biologically Plausible Perturbations and ML Transformations
 - [生物信息学智能体的流程稳健性评测](../papers/scientific-ml.md#fa26a-evaluation) · BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics
+- [按轮次回放蛋白工程候选筛选](../papers/scientific-ml.md#gao26ao-evaluation) · TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering
 <!-- classification:end -->

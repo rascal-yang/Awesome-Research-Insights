@@ -74,6 +74,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [LUCID: Attention with Preconditioned Representations](../../papers/llm.md#duvvuri26a-modules) · 中文
 - [ExpWeaver: LLM Agents Learn from Experience via Latent RAG](../../papers/llm.md#feng26i-modules) · 中文
 - [DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts](../../papers/llm.md#feng26v-modules) · 中文
+- [Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models](../../papers/llm.md#gao26y-modules) · 中文
 
 ### Computer Vision
 
@@ -97,6 +98,7 @@ Teacher features can be low rank for each image while occupying different subspa
 ### Robotics
 
 - [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](../../papers/robotics.md#feng26x-modules) · 中文
+- [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](../../papers/robotics.md#fu26x-modules) · 中文
 - [ReconVLA](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding)
 
 ### Multimodal Learning
@@ -143,4 +145,5 @@ Teacher features can be low rank for each image while occupying different subspa
 - [TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](../../papers/scientific-ml.md#chen26bw-modules) · 中文
 - [PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](../../papers/scientific-ml.md#chen26fr-modules) · 中文
 - [BLIPs: Bayesian Learned Interatomic Potentials](../../papers/scientific-ml.md#coscia26a-modules) · 中文
+- [Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](../../papers/scientific-ml.md#gao26ap-modules) · 中文
 <!-- classification:end -->

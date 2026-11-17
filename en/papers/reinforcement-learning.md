@@ -92,6 +92,9 @@ The linked short insights are available in Chinese.
 | [Learning Interpretable Options by Identifying Reward Diffusion Bottlenecks in Reinforcement Learning](https://proceedings.mlr.press/v306/fei26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#fei26a-reinforcement-learning) |
 | [Offline Reinforcement Learning with Generative Trajectory Policies](https://proceedings.mlr.press/v306/feng26q.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#feng26q-reinforcement-learning) |
 | [FlowMAP: Flow Matching for Generalizable Agent Planning](https://proceedings.mlr.press/v306/fu26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#fu26b-reinforcement-learning) |
+| [HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/fu26k.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#fu26k-reinforcement-learning) |
+| [RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](https://proceedings.mlr.press/v306/fukazawa26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#fukazawa26a-reinforcement-learning) |
+| [Decentralized Bandits without Global Clock for Dynamic Matching Market](https://proceedings.mlr.press/v306/gao26ak.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gao26ak-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -160,4 +163,5 @@ The linked short insights are available in Chinese.
 | [When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs](https://proceedings.mlr.press/v306/escamilla26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#escamilla26a-theory-statistics) |
 | [Local Policies for Graph-Structured Markov Decision Processes](https://proceedings.mlr.press/v306/faizal26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#faizal26a-theory-statistics) |
 | [Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](https://proceedings.mlr.press/v306/flynn26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#flynn26b-theory-statistics) |
+| [Anytime Detection of Strategic Deviations in Multi-Agent Systems](https://proceedings.mlr.press/v306/gauthier26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#gauthier26a-theory-statistics) |
 <!-- classification:end -->

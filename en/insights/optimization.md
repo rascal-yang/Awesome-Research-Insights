@@ -49,6 +49,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Blending Neural Control Density Functions for Stabilization and Safety](../../papers/robotics.md#chaudhary26a-optimization) · 中文
 - [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../../papers/robotics.md#fan26g-optimization) · 中文
 
+### Multimodal Learning
+
+- [MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](../../papers/multimodal.md#gao26an-optimization) · 中文
+
 ### Machine Learning Foundations and Statistics
 
 - [QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](../../papers/ml-foundations.md#abbas26a-optimization) · 中文
@@ -141,6 +145,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching](../../papers/ml-foundations.md#feng26o-optimization) · 中文
 - [Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](../../papers/ml-foundations.md#feoktistov26a-optimization) · 中文
 - [CLASP: Online learning algorithms for Convex Losses And Squared Penalties](../../papers/ml-foundations.md#ferreira26a-optimization) · 中文
+- [Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms](../../papers/ml-foundations.md#gadekar26a-optimization) · 中文
+- [Flatland: The Adventures of Gradient Descent with Large Step Sizes](../../papers/ml-foundations.md#galli26a-optimization) · 中文
+- [Inference from Quantized Data via Normal Variance-Mean Mixtures](../../papers/ml-foundations.md#gao26ah-optimization) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -156,4 +163,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](../../papers/scientific-ml.md#du26n-optimization) · 中文
 - [Automatic Construction of Clinical Scoring Systems with LLM Agents](../../papers/scientific-ml.md#estevez26a-optimization) · 中文
 - [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../../papers/scientific-ml.md#fink26a-optimization) · 中文
+- [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](../../papers/scientific-ml.md#gao26j-optimization) · 中文
 <!-- classification:end -->

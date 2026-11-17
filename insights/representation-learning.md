@@ -12,6 +12,7 @@
 - [代码性能预测](../papers/llm.md#akhauri26b-representation-learning) · Regression Language Models for Code
 - [面向监测的行为表征解耦](../papers/llm.md#chen26dr-representation-learning) · Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring
 - [思维链视觉压缩](../papers/llm.md#chen26gy-representation-learning) · ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model
+- [按残差训练稀疏自编码器集成](../papers/llm.md#gadgil26a-representation-learning) · Ensembling Sparse Autoencoders
 
 ### 计算机视觉
 
@@ -30,10 +31,13 @@
 - [三维场景图的混合分布原型](../papers/computer-vision.md#ding26n-representation-learning) · Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences
 - [冻结视觉模型中的伪造敏感单元](../papers/computer-vision.md#dou26b-representation-learning) · DNA: Uncovering Universal Latent Forgery Knowledge
 - [异步事件的逐事件向量化](../papers/computer-vision.md#fang26o-representation-learning) · Event2Vec: Processing neuromorphic events directly by representations in vector space
+- [扩散自编码的非对称语义蒸馏](../papers/computer-vision.md#gao26ad-representation-learning) · ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning
+- [真实视频中的连续潜动作](../papers/computer-vision.md#garrido26a-representation-learning) · Learning Latent Action World Models in the Wild
 
 ### 自然语言处理
 
 - [复杂表格理解](../papers/nlp.md#cao26p-representation-learning) · Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models
+- [用前瞻 token 蒸馏指令嵌入](../papers/nlp.md#gao26h-representation-learning) · InstEmb: Instruction-Following Embeddings through Glimpses of the Future
 
 ### 强化学习
 
@@ -51,6 +55,7 @@
 - [结构化代理的跨模态哈希](../papers/multimodal.md#cheng26k-representation-learning) · Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval
 - [可稀疏选择的多模态专家表征](../papers/multimodal.md#choi26h-representation-learning) · Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts
 - [传感通道文本调制时序表征](../papers/multimodal.md#dutta26b-representation-learning) · Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings
+- [对象检索的语义与定位质量嵌入](../papers/multimodal.md#fu26p-representation-learning) · ObjEmbed: Towards Universal Multimodal Object Embeddings
 
 ### 机器学习基础与统计
 

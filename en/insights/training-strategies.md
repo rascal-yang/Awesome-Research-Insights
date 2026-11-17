@@ -41,6 +41,8 @@ Training schedules, curricula, and task or stage composition.
 - [Uncovering the Gradient Geometry of Long CoT: A Spectral-guided Approach to Reasoning Distillation](../../papers/llm.md#fan26e-training-strategies) · 中文
 - [Federated Sketching LoRA: A Flexible Framework for Heterogeneous Collaborative Fine-Tuning of LLMs](../../papers/llm.md#fang26e-training-strategies) · 中文
 - [Leveraging Machine Unlearning for Cost-Efficient Preference Alignment](../../papers/llm.md#feng26f-training-strategies) · 中文
+- [Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](../../papers/llm.md#fu26q-training-strategies) · 中文
+- [One-shot Entropy Minimization for Language Model Reasoning](../../papers/llm.md#gao26d-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -107,12 +109,17 @@ Training schedules, curricula, and task or stage composition.
 - [Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models](../../papers/ml-foundations.md#dodson26a-training-strategies) · 中文
 - [Decoupled Low-Rank Adaptation for Robust Federated Fine-Tuning](../../papers/ml-foundations.md#fang26v-training-strategies) · 中文
 - [Dropout Universality: Scaling Laws and Optimal Scheduling at the Edge-of-Chaos](../../papers/ml-foundations.md#fernandez-sarmiento26a-training-strategies) · 中文
+- [Zeus: Towards Tuning-Free Foundation Model for Time Series Analysis](../../papers/ml-foundations.md#fu26n-training-strategies) · 中文
+- [Self-Soupervision: Cooking Model Soups without Labels](../../papers/ml-foundations.md#fuller26a-training-strategies) · 中文
+- [Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](../../papers/ml-foundations.md#gan26a-training-strategies) · 中文
+- [One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification](../../papers/ml-foundations.md#gao26ac-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) · 中文
 - [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) · 中文
 - [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) · 中文
+- [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](../../papers/graph-and-recommendation.md#gao26ai-training-strategies) · 中文
 
 ### Scientific Machine Learning
 
@@ -123,4 +130,7 @@ Training schedules, curricula, and task or stage composition.
 - [Discrete Survival Knowledge Distillation for Competing Risks Analysis](../../papers/scientific-ml.md#deng26o-training-strategies) · 中文
 - [Component-Wise Composite Likelihood Distillation for Censored Time-to-Event Data](../../papers/scientific-ml.md#deng26p-training-strategies) · 中文
 - [Probabilistic Retrofitting of Learned Simulators](../../papers/scientific-ml.md#diaconu26a-training-strategies) · 中文
+- [MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery](../../papers/scientific-ml.md#gao26s-training-strategies) · 中文
+- [Scaling the Prior: Size-Consistent Geometric Diffusion for 3D Molecular Generation](../../papers/scientific-ml.md#gao26v-training-strategies) · 中文
+- [Mesh Based Simulations with Spatial and Temporal awareness](../../papers/scientific-ml.md#garnier26a-training-strategies) · 中文
 <!-- classification:end -->

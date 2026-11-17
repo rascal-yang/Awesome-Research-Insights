@@ -12,6 +12,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Regression Language Models for Code](../../papers/llm.md#akhauri26b-representation-learning) · 中文
 - [Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](../../papers/llm.md#chen26dr-representation-learning) · 中文
 - [ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](../../papers/llm.md#chen26gy-representation-learning) · 中文
+- [Ensembling Sparse Autoencoders](../../papers/llm.md#gadgil26a-representation-learning) · 中文
 
 ### Computer Vision
 
@@ -30,10 +31,13 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences](../../papers/computer-vision.md#ding26n-representation-learning) · 中文
 - [DNA: Uncovering Universal Latent Forgery Knowledge](../../papers/computer-vision.md#dou26b-representation-learning) · 中文
 - [Event2Vec: Processing neuromorphic events directly by representations in vector space](../../papers/computer-vision.md#fang26o-representation-learning) · 中文
+- [ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning](../../papers/computer-vision.md#gao26ad-representation-learning) · 中文
+- [Learning Latent Action World Models in the Wild](../../papers/computer-vision.md#garrido26a-representation-learning) · 中文
 
 ### Natural Language Processing
 
 - [Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](../../papers/nlp.md#cao26p-representation-learning) · 中文
+- [InstEmb: Instruction-Following Embeddings through Glimpses of the Future](../../papers/nlp.md#gao26h-representation-learning) · 中文
 
 ### Reinforcement Learning
 
@@ -51,6 +55,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](../../papers/multimodal.md#cheng26k-representation-learning) · 中文
 - [Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](../../papers/multimodal.md#choi26h-representation-learning) · 中文
 - [Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](../../papers/multimodal.md#dutta26b-representation-learning) · 中文
+- [ObjEmbed: Towards Universal Multimodal Object Embeddings](../../papers/multimodal.md#fu26p-representation-learning) · 中文
 
 ### Machine Learning Foundations and Statistics
 

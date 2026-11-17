@@ -74,6 +74,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [语言模型蒸馏的尾部 KL](../papers/llm.md#dasgupta26a-loss-functions) · Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget
 - [按目标词元概率调节微调梯度](../papers/llm.md#fan26j-loss-functions) · Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs
 - [推理链去偏的后缀优化](../papers/llm.md#feng26z-loss-functions) · Self-correcting for Debiasing Large Language Models
+- [注意力汇的门控与负载均衡](../papers/llm.md#fu26v-loss-functions) · Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse
 
 ### 计算机视觉
 
@@ -105,6 +106,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [可变长多模态样本的公平自监督](../papers/multimodal.md#cheong26a-loss-functions) · FairSSL: Fair Multimodal Self-Supervised Learning
 - [长视频配音的掩码与快捷去噪监督](../papers/multimodal.md#dellali26a-loss-functions) · SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos
 - [共享视觉上下文的对比偏好优化](../papers/multimodal.md#deng26z-loss-functions) · Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization
+- [图像实例约束的雷达场景流](../papers/multimodal.md#fu26r-loss-functions) · Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation
 
 ### 机器学习基础与统计
 
@@ -120,6 +122,8 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [InfoNCE 的端点尾部修正](../papers/ml-foundations.md#erol26a-loss-functions) · When Softmax Fails at the Top: Extreme-Value Corrections for InfoNCE
 - [时序预测的信息几何损失](../papers/ml-foundations.md#fang26m-loss-functions) · Information Geometry Loss for Time Series Forecasting
 - [未归一化目标的批次广义偏差损失](../papers/ml-foundations.md#fawkes26a-loss-functions) · $f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data
+- [多视图聚类的截断张量低秩惩罚](../papers/ml-foundations.md#fu26g-loss-functions) · Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering
+- [用拓扑一致性约束特征激活](../papers/ml-foundations.md#gaukstad26a-loss-functions) · Learning Coherent Representations: A Topological Approach to Interpretability
 
 ### 图学习与推荐
 

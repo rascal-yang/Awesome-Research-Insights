@@ -19,6 +19,8 @@ Model-wide design and information flow.
 - [Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures](../../papers/llm.md#elango26a-architecture) · 中文
 - [Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing](../../papers/llm.md#fagnou26a-architecture) · 中文
 - [Artificial Hippocampus Networks for Efficient Long-Context Modeling](../../papers/llm.md#fang26w-architecture) · 中文
+- [Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](../../papers/llm.md#fu26t-architecture) · 中文
+- [Caracal: Causal Architecture via Spectral Mixing](../../papers/llm.md#gan26c-architecture) · 中文
 
 ### Computer Vision
 
@@ -31,6 +33,9 @@ Model-wide design and information flow.
 - [Native Spatio-Temporal 4D Variational Autoencoder](../../papers/computer-vision.md#ding26u-architecture) · 中文
 - [AesFormer: Transform Everyday Photos into Beautiful Memories](../../papers/computer-vision.md#du26c-architecture) · 中文
 - [Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](../../papers/computer-vision.md#duan26e-architecture) · 中文
+- [CODiff: One-Step Diffusion Model for Camouflaged Object Detection](../../papers/computer-vision.md#fu26l-architecture) · 中文
+- [DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](../../papers/computer-vision.md#gao26aq-architecture) · 中文
+- [Beyond Pixel Histories: World Models with Persistent 3D State](../../papers/computer-vision.md#garcin26a-architecture) · 中文
 
 ### Natural Language Processing
 
@@ -53,6 +58,7 @@ Model-wide design and information flow.
 - [Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](../../papers/multimodal.md#chen26go-architecture) · 中文
 - [PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](../../papers/multimodal.md#dementyev26a-architecture) · 中文
 - [Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](../../papers/multimodal.md#forhad26a-architecture) · 中文
+- [DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](../../papers/multimodal.md#gao26am-architecture) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -81,6 +87,8 @@ Model-wide design and information flow.
 - [Graph Neural Dynamics via Learned Energy and Tangential Flows](../../papers/graph-and-recommendation.md#eliasof26a-architecture) · 中文
 - [MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks](../../papers/graph-and-recommendation.md#fang26g-architecture) · 中文
 - [L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](../../papers/graph-and-recommendation.md#fernandez26a-architecture) · 中文
+- [Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](../../papers/graph-and-recommendation.md#gailhard26a-architecture) · 中文
+- [SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](../../papers/graph-and-recommendation.md#gantes26a-architecture) · 中文
 
 ### Scientific Machine Learning
 

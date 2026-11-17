@@ -34,6 +34,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | 视觉动作策略的连续网格采样 | 由任务条件预测少量连续采样坐标，并对各坐标周围四个视觉特征做双线性插值。可微采样允许动作监督调整坐标，也能保留位于图块边界的抓取线索。 |
+| <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | 视觉动作模型的通道相关门控 | 将视觉投影特征分成多个通道子空间，沿空间词元计算通道相关性，再经 sigmoid 门控筛选信息。用这一轻量适配器增强稳健的视觉语义，在论文扰动测试中提升操作策略的鲁棒性。 |
 | <a id="reconvla-modules"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) | 指令前缀 | 把指令 token 放在图像 token 前，使视觉隐藏状态通过因果注意力读取任务信息。 [详细解读](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
 <a id="by-loss-functions"></a>
@@ -64,6 +65,7 @@
 | :--- | :--- | :--- |
 | <a id="aichmuller26a-reinforcement-learning"></a>[Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | 规划与强化学习 | 用关系图网络预测价值启发式来指导加权 A*，再用搜索产生的经验做 Q-learning，形成可自我改进的规划循环。 |
 | <a id="chowdhury26a-reinforcement-learning"></a>[LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) | 按关键帧分配语言反馈奖励 | 让视觉语言模型对一次操作尝试生成结构化反思，把反思和机器人观测映射到同一表征空间。用状态与反馈相似度的时序变化构造奖励，并用关键帧权重把训练信号集中到关键步骤。 |
+| <a id="ge26a-reinforcement-learning"></a>[Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) | 以专家动态奖励后训练视频预测 | 把多步视频去噪视为策略，用同一编码空间里生成轨迹与专家未来帧的动态一致性作为终局奖励。这样可针对下游操作敏感的预测误差更新生成器，论文在仿真与真机操作中观察到成功率提升。 |
 
 <a id="by-training-strategies"></a>
 
@@ -86,6 +88,7 @@
 | <a id="chen26cy-data-strategies"></a>[Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | 固定预算下的机器人示范分配 | 先在少数核心条件重复采集示范以稳定策略，再按教师强制下的动作偏差找出高风险边界，补采示范并用受约束的残差更新扩展覆盖。真机实验中，同等预算下的成功率优于分散采样。 |
 | <a id="choi26i-data-strategies"></a>[EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) | 具身动作风险的组合数据构造 | 为同类场景组合不同危险配置与动作，包括在危险仍存在时改用不会触发它的动作。将图像和动作配对并标注风险，使监督信号针对特定交互的后果，也覆盖容易引发误报的安全动作。 |
 | <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) | 跨来源点云的 VLA 训练 | 在统一训练流程中混合仿真、深度传感器和模型估计的点云，并以形状和尺度变化扩展输入。将学到的三维表征与对应的二维特征融合，可减轻部署时深度来源和尺度差异对操作策略的影响。 |
+| <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) | 人类视频的潜动作监督 | 将相邻视频帧之间的变化通过信息瓶颈编码成连续潜动作，作为未标注人类视频的控制信号预训练机器人世界模型，再以目标机器人真动作做适配。 |
 
 <a id="by-inference"></a>
 
@@ -124,6 +127,7 @@
 | <a id="dai26c-evaluation"></a>[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) | 长程操作记忆的分项评测 | 用动作计数、遮挡后定位、跨时刻身份指代和动作模仿分别考查时间、空间、物体与程序记忆，再在同一 VLA 主干上比较记忆形式和接入方式。实验显示记忆机制的收益随任务类型变化。 |
 | <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) | 机器人生成视频的物理与任务评测 | 将均匀抽样的视频帧组成时间网格，以问答清单分别检查物体穿透、未接触搬运等物理失真和关键动作是否按顺序完成。由此能定位画面流畅但动作不符合任务要求的机器人视频。 |
 | <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) | 动作块增量的基准姿态 | 在模仿学习的动作块中，让未来各步都相对块起点表示增量，可避免逐步累加预测误差。论文的真机对照中，这种表示比相对前一步的增量更稳定。 |
+| <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) | 机器人代码策略的分层脚手架评测 | 将任务按控制接口的抽象层级、感知来源和是否提供示例分层，逐步撤去高层操作原语与示例。结合多轮执行反馈的对照，可区分能力下降来自感知误差、接口组合还是长程控制。 |
 
 <a id="by-theory-statistics"></a>
 

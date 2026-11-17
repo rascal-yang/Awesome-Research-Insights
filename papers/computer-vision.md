@@ -30,6 +30,9 @@
 | <a id="ding26u-architecture"></a>[Native Spatio-Temporal 4D Variational Autoencoder](https://proceedings.mlr.press/v306/ding26u.html) | 原生四维体素自编码 | 让动态彩色体素始终携带三维位置与时间坐标，用稀疏卷积压缩空间，再用局部四维窗口注意力汇聚时空信息，使时间压缩率可调且保持显式坐标对应。 |
 | <a id="du26c-architecture"></a>[AesFormer: Transform Everyday Photos into Beautiful Memories](https://proceedings.mlr.press/v306/du26c.html) | 照片结构重构的动作条件编辑 | 先让规划模型把照片的构图、视角等问题转成结构化编辑动作，再用编辑动作和原图作为流匹配模型的条件。通过已对齐的欠佳与优质照片对监督编辑器，使摄影术语对应具体的像素变化。 |
 | <a id="duan26e-architecture"></a>[Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](https://proceedings.mlr.press/v306/duan26e.html) | 病理去焦模糊的局部积分算子 | 把全图核积分拆为互不重叠的空间单元，各单元用局部算子拟合不同模糊模式，再用数值通量在单元边界交换特征。这样允许局部核不连续，同时在预测清晰图像时保留跨块联系。 |
+| <a id="fu26l-architecture"></a>[CODiff: One-Step Diffusion Model for Camouflaged Object Detection](https://proceedings.mlr.press/v306/fu26l.html) | 单步伪装物体掩码预测 | 从 DINOv2 的全局特征和去噪时刻生成调制参数，注入自注意力和条件融合层，并分层融合局部结构特征。用于单步预测时，模型可同时利用场景语义和伪装物体的细粒度边界。 |
+| <a id="gao26aq-architecture"></a>[DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](https://proceedings.mlr.press/v306/gao26aq.html) | 按类别难度隔离位姿学习梯度 | 用数据估计几何难度，再把类别划到不同的对应点分支，使共享模块少承受方向冲突的梯度。给结构简单的组较高容量作为稳定训练支点，并限制复杂组的分支容量以减少噪声更新。 |
+| <a id="garcin26a-architecture"></a>[Beyond Pixel Histories: World Models with Persistent 3D State](https://proceedings.mlr.press/v306/garcin26a.html) | 持久三维状态的交互视频世界模型 | 独立维护随动作演化的潜三维场景和相机状态，每步由相机查询并投影相关场景特征再渲染画面。重访离开视野的区域时可读回场景状态，降低长视频只用近帧记忆造成的空间不一致。 |
 
 <a id="by-modules"></a>
 
@@ -116,6 +119,7 @@
 | <a id="chen26bj-data-strategies"></a>[Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](https://proceedings.mlr.press/v306/chen26bj.html) | 跨域遮挡分割数据 | 对物理仿真中摆放的三维商品场景做多视角渲染，自动生成可见与完整实例掩码。让合成集和人工标注的真实集共享标签定义与评测协议，可直接测量遮挡分割的跨域表现。 |
 | <a id="cui26f-data-strategies"></a>[Geometry-Aware Dataset Condensation for Diffusion Model Training](https://proceedings.mlr.press/v306/cui26f.html) | 扩散训练子集的单边部分传输 | 按类用嵌入距离匹配训练子集与全量数据，要求子集的概率质量全部运输，同时只限制全量侧的到达容量。允许全量数据的部分质量不匹配，避免少量样本被迫同时代表核心分布和稀疏区域。 |
 | <a id="fang26s-data-strategies"></a>[Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](https://proceedings.mlr.press/v306/fang26s.html) | 生成视频检测的质量分布配对 | 按质量分布匹配真实与生成视频，再成对补充低质量和超高质量数据源。让两类覆盖相近的质量范围，可抑制检测器把画质当真伪标签的捷径，提升对不同质量真实视频的泛化。 |
+| <a id="gan26d-data-strategies"></a>[Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](https://proceedings.mlr.press/v306/gan26d.html) | 扩散数据蒸馏的集合耦合引导 | 同批生成每类的多个合成样本，对它们的去噪潜变量提取低维描述量并匹配真实样本描述量的经验特征函数。再以核耦合协调样本更新，使每步引导能调整整组样本的统计量。 |
 
 <a id="by-inference"></a>
 
@@ -156,6 +160,9 @@
 | <a id="feng26w-inference"></a>[Bridging RGB and RAW: Single-step Deterministic Flow with Homogeneous Representation Alignment](https://proceedings.mlr.press/v306/feng26w.html) | RGB 到 RAW 的一步潜空间传输 | 让同一编码器处理对齐后的 RGB 和 RAW，在其潜变量线性插值路径上学习速度场。推理时从输入 RGB 潜变量执行一步确定性传输，再解码为 RAW。 |
 | <a id="feng26ac-inference"></a>[Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](https://proceedings.mlr.press/v306/feng26ac.html) | 长视频队列的双向一致性引导 | 在自回归去噪队列尾部评估并修正新加入的高噪潜帧，同时用队列头部的低噪潜帧指导局部去噪，分别约束新帧质量和较远帧之间的连续性。 |
 | <a id="frumkin26a-inference"></a>[Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling](https://proceedings.mlr.press/v306/frumkin26a.html) | 低比特少步扩散的调度校准 | 冻结量化去噪器，只拟合修正少步轨迹的预条件系数。用少量文本提示优化图文对齐与图像质量的联合指标，可在校准时省去全精度教师前向。 |
+| <a id="fu26o-inference"></a>[Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models](https://proceedings.mlr.press/v306/fu26o.html) | 低频几何引导的参考纹理迁移 | 先以重心软传输对齐参考对象与生成布局，再用低频特征与空间距离计算传输代价。按该传输计划迁移参考图的高频残差，使纹理细节落在结构相符的位置。 |
+| <a id="gao26e-inference"></a>[Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework](https://proceedings.mlr.press/v306/gao26e.html) | 用图生视频过程纠正人和物的交互编辑 | 先把目标交互指令交给图生视频模型，再用视觉语言模型检查中途帧，定位操作了错误对象等失误。根据诊断更新提示和经验记录并重新生成，最后选出呈现目标交互的视频帧作为编辑图像。 |
+| <a id="gao26x-inference"></a>[(1D) Ordered Tokens Enable Efficient Test-Time Search](https://proceedings.mlr.press/v306/gao26x.html) | 粗到细图像词元的前缀搜索 | 图像由粗到细的有序词元表示时，短前缀已能解码成可评价的全局语义图像。用图文验证器逐轮给这些中间图像打分，可在生成早期剪掉与提示不符的分支。 |
 
 <a id="by-representation-learning"></a>
 
@@ -178,6 +185,8 @@
 | <a id="ding26n-representation-learning"></a>[Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences](https://proceedings.mlr.press/v306/ding26n.html) | 三维场景图的混合分布原型 | 为对象与关系各类别学习多个高斯分量，表达类别内的多种特征模式。再对共现的节点与边原型做双向注意力，用得到的偏移校正原型均值，约束对象与关系的匹配。 |
 | <a id="dou26b-representation-learning"></a>[DNA: Uncovering Universal Latent Forgery Knowledge](https://proceedings.mlr.press/v306/dou26b.html) | 冻结视觉模型中的伪造敏感单元 | 先用特征与注意力诊断定位从全局语义转向局部异常的中间层，再根据多信号融合分数与曲率拐点筛选伪造敏感单元。仅使用这些单元的特征，在所测少样本和未见生成器上也能检测伪造。 |
 | <a id="fang26o-representation-learning"></a>[Event2Vec: Processing neuromorphic events directly by representations in vector space](https://proceedings.mlr.press/v306/fang26o.html) | 异步事件的逐事件向量化 | 把事件的坐标与极性嵌入和相邻事件的相对时间嵌入相加，对聚合事件再按簇中原始事件数的对数缩放。所得向量序列可直接输入 Transformer，并保留事件间的时间间隔。 |
+| <a id="gao26ad-representation-learning"></a>[ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning](https://proceedings.mlr.press/v306/gao26ad.html) | 扩散自编码的非对称语义蒸馏 | 用学生的指数移动平均教师编码干净视图，以其停止梯度的嵌入监督学生对含噪、增强视图的编码，使重建仍保有细节时，语义瓶颈对随机扰动更稳定。 |
+| <a id="garrido26a-representation-learning"></a>[Learning Latent Action World Models in the Wild](https://proceedings.mlr.press/v306/garrido26a.html) | 真实视频中的连续潜动作 | 从没有动作标注的视频学习有容量约束的连续潜动作，并用预测未来帧的世界模型验证可迁移性。没有统一本体时，动作多以相机为参照而局部化，再用小控制器把已知动作映射到该潜空间做规划。 |
 
 <a id="by-evaluation"></a>
 

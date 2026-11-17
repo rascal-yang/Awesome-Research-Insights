@@ -34,6 +34,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | [Read insight (中文)](../../papers/robotics.md#feng26x-modules) |
+| [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | [Read insight (中文)](../../papers/robotics.md#fu26x-modules) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) | [Read insight (中文)](../../papers/robotics.md#reconvla-modules) · [Full entry](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
 <a id="by-loss-functions"></a>
@@ -64,6 +65,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | [Read insight (中文)](../../papers/robotics.md#aichmuller26a-reinforcement-learning) |
 | [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) | [Read insight (中文)](../../papers/robotics.md#chowdhury26a-reinforcement-learning) |
+| [Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) | [Read insight (中文)](../../papers/robotics.md#ge26a-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -86,6 +88,7 @@ The linked short insights are available in Chinese.
 | [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | [Read insight (中文)](../../papers/robotics.md#chen26cy-data-strategies) |
 | [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) | [Read insight (中文)](../../papers/robotics.md#choi26i-data-strategies) |
 | [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) | [Read insight (中文)](../../papers/robotics.md#fan26b-data-strategies) |
+| [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) | [Read insight (中文)](../../papers/robotics.md#gao26q-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -124,6 +127,7 @@ The linked short insights are available in Chinese.
 | [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) | [Read insight (中文)](../../papers/robotics.md#dai26c-evaluation) |
 | [Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) | [Read insight (中文)](../../papers/robotics.md#deng26r-evaluation) |
 | [Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) | [Read insight (中文)](../../papers/robotics.md#feng26ab-evaluation) |
+| [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) | [Read insight (中文)](../../papers/robotics.md#fu26u-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

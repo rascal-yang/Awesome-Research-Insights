@@ -75,6 +75,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [COFT: Counterfactual–Conformal Decoding for Fair Chain-of-Thought Reasoning in Large Language Models](../../papers/llm.md#fayyazi26a-inference) · 中文
 - [Optimal Self-Consistency for Efficient Reasoning with Large Language Models](../../papers/llm.md#feng26a-inference) · 中文
 - [CriticalKV: Optimizing KV Cache Eviction from an Output Perturbation Perspective](../../papers/llm.md#feng26j-inference) · 中文
+- [From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models](../../papers/llm.md#fu26h-inference) · 中文
+- [Rethinking LLM Ensembling from the Perspective of Mixture Models](../../papers/llm.md#fu26j-inference) · 中文
+- [EntroKV: Entropy-Guided Dynamic Budget Allocation for KV-Cache Compression](../../papers/llm.md#gao26a-inference) · 中文
+- [DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing](../../papers/llm.md#gao26m-inference) · 中文
+- [Efficient Code Analysis via Graph Representation Learning-Guided Large Language Models](../../papers/llm.md#gao26u-inference) · 中文
 
 ### Computer Vision
 
@@ -111,6 +116,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Bridging RGB and RAW: Single-step Deterministic Flow with Homogeneous Representation Alignment](../../papers/computer-vision.md#feng26w-inference) · 中文
 - [Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](../../papers/computer-vision.md#feng26ac-inference) · 中文
 - [Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling](../../papers/computer-vision.md#frumkin26a-inference) · 中文
+- [Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models](../../papers/computer-vision.md#fu26o-inference) · 中文
+- [Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework](../../papers/computer-vision.md#gao26e-inference) · 中文
+- [(1D) Ordered Tokens Enable Efficient Test-Time Search](../../papers/computer-vision.md#gao26x-inference) · 中文
 
 ### Natural Language Processing
 
@@ -161,6 +169,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [SLAP: The Semantic Least Action Principle for Variational Video-Language Modeling](../../papers/multimodal.md#fang26c-inference) · 中文
 - [WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching](../../papers/multimodal.md#feng26d-inference) · 中文
 - [LINGUA: Bridging the Grounding Gap in VideoQA via Typed Memory and Belief-State Reasoning](../../papers/multimodal.md#forouzandeh26a-inference) · 中文
+- [Multimodal Function Vectors for Visual Relations](../../papers/multimodal.md#fu26e-inference) · 中文
+- [Hierarchical Procedural Meta-Reasoning for Generalizable Multimodal Agents](../../papers/multimodal.md#fu26m-inference) · 中文
+- [AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density](../../papers/multimodal.md#gao26r-inference) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -175,12 +186,15 @@ Decoding, test-time adaptation, and efficient execution.
 - [MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics](../../papers/ml-foundations.md#du26h-inference) · 中文
 - [ZeroDiff: Zero-Shot Time Series Reconstruction via Informed-Prior Diffusion](../../papers/ml-foundations.md#fan26d-inference) · 中文
 - [A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching](../../papers/ml-foundations.md#fu26d-inference) · 中文
+- [MidSteer: Optimal Affine Framework for Steering Generative Models](../../papers/ml-foundations.md#gaintseva26a-inference) · 中文
+- [High-accuracy and dimension-free sampling with diffusions](../../papers/ml-foundations.md#gatmiry26a-inference) · 中文
 
 ### Graph Learning and Recommendation
 
 - [PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](../../papers/graph-and-recommendation.md#ai26c-inference) · 中文
 - [CARE: Adaptive Calibration for Reliable Recommendations](../../papers/graph-and-recommendation.md#bisht26b-inference) · 中文
 - [On Efficient Scaling of GNNs via IO-Aware Layers Implementations](../../papers/graph-and-recommendation.md#fomina26a-inference) · 中文
+- [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](../../papers/graph-and-recommendation.md#gao26t-inference) · 中文
 
 ### Scientific Machine Learning
 
@@ -194,4 +208,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Agentic Framework for Epidemiological Modeling](../../papers/scientific-ml.md#datta26a-inference) · 中文
 - [Generative Inverse Design with Abstention via Diagonal Flow Matching](../../papers/scientific-ml.md#de-campos26a-inference) · 中文
 - [Listening Through the Noise: Cauchy-Driven Diffusion Bridges for Robust Gastrointestinal Auscultation and Clinical Benchmarking](../../papers/scientific-ml.md#ding26a-inference) · 中文
+- [Physics-Informed Diffusion Models in Spectral Space](../../papers/scientific-ml.md#gallon26a-inference) · 中文
+- [SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction](../../papers/scientific-ml.md#gan26b-inference) · 中文
+- [Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting](../../papers/scientific-ml.md#gao26p-inference) · 中文
+- [Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](../../papers/scientific-ml.md#ge26b-inference) · 中文
 <!-- classification:end -->

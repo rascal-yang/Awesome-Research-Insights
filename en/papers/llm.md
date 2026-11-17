@@ -25,6 +25,8 @@ The linked short insights are available in Chinese.
 | [Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures](https://proceedings.mlr.press/v306/elango26a.html) | [Read insight (中文)](../../papers/llm.md#elango26a-architecture) |
 | [Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing](https://proceedings.mlr.press/v306/fagnou26a.html) | [Read insight (中文)](../../papers/llm.md#fagnou26a-architecture) |
 | [Artificial Hippocampus Networks for Efficient Long-Context Modeling](https://proceedings.mlr.press/v306/fang26w.html) | [Read insight (中文)](../../papers/llm.md#fang26w-architecture) |
+| [Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](https://proceedings.mlr.press/v306/fu26t.html) | [Read insight (中文)](../../papers/llm.md#fu26t-architecture) |
+| [Caracal: Causal Architecture via Spectral Mixing](https://proceedings.mlr.press/v306/gan26c.html) | [Read insight (中文)](../../papers/llm.md#gan26c-architecture) |
 
 <a id="by-modules"></a>
 
@@ -45,6 +47,7 @@ The linked short insights are available in Chinese.
 | [LUCID: Attention with Preconditioned Representations](https://proceedings.mlr.press/v306/duvvuri26a.html) | [Read insight (中文)](../../papers/llm.md#duvvuri26a-modules) |
 | [ExpWeaver: LLM Agents Learn from Experience via Latent RAG](https://proceedings.mlr.press/v306/feng26i.html) | [Read insight (中文)](../../papers/llm.md#feng26i-modules) |
 | [DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts](https://proceedings.mlr.press/v306/feng26v.html) | [Read insight (中文)](../../papers/llm.md#feng26v-modules) |
+| [Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models](https://proceedings.mlr.press/v306/gao26y.html) | [Read insight (中文)](../../papers/llm.md#gao26y-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -61,6 +64,7 @@ The linked short insights are available in Chinese.
 | [Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget](https://proceedings.mlr.press/v306/dasgupta26a.html) | [Read insight (中文)](../../papers/llm.md#dasgupta26a-loss-functions) |
 | [Navigating the Pareto Frontier of Alignment: Spectrum-Adaptive Fine-Tuning for LLMs](https://proceedings.mlr.press/v306/fan26j.html) | [Read insight (中文)](../../papers/llm.md#fan26j-loss-functions) |
 | [Self-correcting for Debiasing Large Language Models](https://proceedings.mlr.press/v306/feng26z.html) | [Read insight (中文)](../../papers/llm.md#feng26z-loss-functions) |
+| [Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse](https://proceedings.mlr.press/v306/fu26v.html) | [Read insight (中文)](../../papers/llm.md#fu26v-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -130,6 +134,10 @@ The linked short insights are available in Chinese.
 | [Bridging On-Device and Cloud LLMs for Collaborative Reasoning: A Unified Methodology for Local Routing and Post-Training](https://proceedings.mlr.press/v306/fang26d.html) | [Read insight (中文)](../../papers/llm.md#fang26d-reinforcement-learning) |
 | [PRM-PBE: Process Reward Model for Reinforcement Learning in Programming-by-Example](https://proceedings.mlr.press/v306/fang26j.html) | [Read insight (中文)](../../papers/llm.md#fang26j-reinforcement-learning) |
 | [Learning to Share: Selective Memory for Efficient Parallel Agentic Systems](https://proceedings.mlr.press/v306/fioresi26a.html) | [Read insight (中文)](../../papers/llm.md#fioresi26a-reinforcement-learning) |
+| [Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning](https://proceedings.mlr.press/v306/gai26a.html) | [Read insight (中文)](../../papers/llm.md#gai26a-reinforcement-learning) |
+| [Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling](https://proceedings.mlr.press/v306/gai26b.html) | [Read insight (中文)](../../papers/llm.md#gai26b-reinforcement-learning) |
+| [Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization](https://proceedings.mlr.press/v306/gao26f.html) | [Read insight (中文)](../../papers/llm.md#gao26f-reinforcement-learning) |
+| [Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue](https://proceedings.mlr.press/v306/gao26aj.html) | [Read insight (中文)](../../papers/llm.md#gao26aj-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -169,6 +177,8 @@ The linked short insights are available in Chinese.
 | [Uncovering the Gradient Geometry of Long CoT: A Spectral-guided Approach to Reasoning Distillation](https://proceedings.mlr.press/v306/fan26e.html) | [Read insight (中文)](../../papers/llm.md#fan26e-training-strategies) |
 | [Federated Sketching LoRA: A Flexible Framework for Heterogeneous Collaborative Fine-Tuning of LLMs](https://proceedings.mlr.press/v306/fang26e.html) | [Read insight (中文)](../../papers/llm.md#fang26e-training-strategies) |
 | [Leveraging Machine Unlearning for Cost-Efficient Preference Alignment](https://proceedings.mlr.press/v306/feng26f.html) | [Read insight (中文)](../../papers/llm.md#feng26f-training-strategies) |
+| [Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://proceedings.mlr.press/v306/fu26q.html) | [Read insight (中文)](../../papers/llm.md#fu26q-training-strategies) |
+| [One-shot Entropy Minimization for Language Model Reasoning](https://proceedings.mlr.press/v306/gao26d.html) | [Read insight (中文)](../../papers/llm.md#gao26d-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -192,6 +202,8 @@ The linked short insights are available in Chinese.
 | [DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](https://proceedings.mlr.press/v306/chen26gj.html) | [Read insight (中文)](../../papers/llm.md#chen26gj-data-strategies) |
 | [How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess](https://proceedings.mlr.press/v306/dionisopoulos26a.html) | [Read insight (中文)](../../papers/llm.md#dionisopoulos26a-data-strategies) |
 | [Understanding Data Temporality Impact on Large Language Models Pre-training](https://proceedings.mlr.press/v306/fabre26a.html) | [Read insight (中文)](../../papers/llm.md#fabre26a-data-strategies) |
+| [Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning](https://proceedings.mlr.press/v306/fu26f.html) | [Read insight (中文)](../../papers/llm.md#fu26f-data-strategies) |
+| [Differentially Private Preference Data Synthesis for Large Language Model Alignment](https://proceedings.mlr.press/v306/gao26ae.html) | [Read insight (中文)](../../papers/llm.md#gao26ae-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -265,6 +277,11 @@ The linked short insights are available in Chinese.
 | [COFT: Counterfactual–Conformal Decoding for Fair Chain-of-Thought Reasoning in Large Language Models](https://proceedings.mlr.press/v306/fayyazi26a.html) | [Read insight (中文)](../../papers/llm.md#fayyazi26a-inference) |
 | [Optimal Self-Consistency for Efficient Reasoning with Large Language Models](https://proceedings.mlr.press/v306/feng26a.html) | [Read insight (中文)](../../papers/llm.md#feng26a-inference) |
 | [CriticalKV: Optimizing KV Cache Eviction from an Output Perturbation Perspective](https://proceedings.mlr.press/v306/feng26j.html) | [Read insight (中文)](../../papers/llm.md#feng26j-inference) |
+| [From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models](https://proceedings.mlr.press/v306/fu26h.html) | [Read insight (中文)](../../papers/llm.md#fu26h-inference) |
+| [Rethinking LLM Ensembling from the Perspective of Mixture Models](https://proceedings.mlr.press/v306/fu26j.html) | [Read insight (中文)](../../papers/llm.md#fu26j-inference) |
+| [EntroKV: Entropy-Guided Dynamic Budget Allocation for KV-Cache Compression](https://proceedings.mlr.press/v306/gao26a.html) | [Read insight (中文)](../../papers/llm.md#gao26a-inference) |
+| [DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing](https://proceedings.mlr.press/v306/gao26m.html) | [Read insight (中文)](../../papers/llm.md#gao26m-inference) |
+| [Efficient Code Analysis via Graph Representation Learning-Guided Large Language Models](https://proceedings.mlr.press/v306/gao26u.html) | [Read insight (中文)](../../papers/llm.md#gao26u-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -275,6 +292,7 @@ The linked short insights are available in Chinese.
 | [Regression Language Models for Code](https://proceedings.mlr.press/v306/akhauri26b.html) | [Read insight (中文)](../../papers/llm.md#akhauri26b-representation-learning) |
 | [Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring](https://proceedings.mlr.press/v306/chen26dr.html) | [Read insight (中文)](../../papers/llm.md#chen26dr-representation-learning) |
 | [ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](https://proceedings.mlr.press/v306/chen26gy.html) | [Read insight (中文)](../../papers/llm.md#chen26gy-representation-learning) |
+| [Ensembling Sparse Autoencoders](https://proceedings.mlr.press/v306/gadgil26a.html) | [Read insight (中文)](../../papers/llm.md#gadgil26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -375,6 +393,9 @@ The linked short insights are available in Chinese.
 | [Evaluating Relational Reasoning in LLMs with REL](https://proceedings.mlr.press/v306/fesser26a.html) | [Read insight (中文)](../../papers/llm.md#fesser26a-evaluation) |
 | [Singular Vectors of Attention Heads Align with Features](https://proceedings.mlr.press/v306/franco26a.html) | [Read insight (中文)](../../papers/llm.md#franco26a-evaluation) |
 | [CATArena: Evaluating Evolutionary Capabilities of Code Agents via Iterative Tournaments](https://proceedings.mlr.press/v306/fu26a.html) | [Read insight (中文)](../../papers/llm.md#fu26a-evaluation) |
+| [PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks](https://proceedings.mlr.press/v306/gandhi26a.html) | [Read insight (中文)](../../papers/llm.md#gandhi26a-evaluation) |
+| [The First Drop of Ink: Nonlinear Impact of Distracting Information in Long-Context Reasoning](https://proceedings.mlr.press/v306/gao26b.html) | [Read insight (中文)](../../papers/llm.md#gao26b-evaluation) |
+| [Weight-sparse transformers have interpretable circuits](https://proceedings.mlr.press/v306/gao26w.html) | [Read insight (中文)](../../papers/llm.md#gao26w-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -396,4 +417,5 @@ The linked short insights are available in Chinese.
 | [Quantifying Biases in LLM-as-a-Judge Evaluations](https://proceedings.mlr.press/v306/dubois26a.html) | [Read insight (中文)](../../papers/llm.md#dubois26a-theory-statistics) |
 | [Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control](https://proceedings.mlr.press/v306/farzaneh26a.html) | [Read insight (中文)](../../papers/llm.md#farzaneh26a-theory-statistics) |
 | [Nonparametric LLM Evaluation from Preference Data](https://proceedings.mlr.press/v306/frauen26a.html) | [Read insight (中文)](../../papers/llm.md#frauen26a-theory-statistics) |
+| [The Cylindrical Representation Hypothesis for Language Model Steering](https://proceedings.mlr.press/v306/gao26al.html) | [Read insight (中文)](../../papers/llm.md#gao26al-theory-statistics) |
 <!-- classification:end -->

@@ -41,6 +41,8 @@
 - [长思维链蒸馏的梯度谱筛选](../papers/llm.md#fan26e-training-strategies) · Uncovering the Gradient Geometry of Long CoT: A Spectral-guided Approach to Reasoning Distillation
 - [异构联邦微调的 LoRA 子矩阵](../papers/llm.md#fang26e-training-strategies) · Federated Sketching LoRA: A Flexible Framework for Heterogeneous Collaborative Fine-Tuning of LLMs
 - [偏好对齐中的负例遗忘权重](../papers/llm.md#feng26f-training-strategies) · Leveraging Machine Unlearning for Cost-Efficient Preference Alignment
+- [自回归转扩散的位置相关掩码](../papers/llm.md#fu26q-training-strategies) · Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed
+- [单样本自生成熵最小化](../papers/llm.md#gao26d-training-strategies) · One-shot Entropy Minimization for Language Model Reasoning
 
 ### 计算机视觉
 
@@ -107,12 +109,17 @@
 - [扩散模型记忆的中等噪声区间](../papers/ml-foundations.md#dodson26a-training-strategies) · Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models
 - [噪声联邦微调的双分支 LoRA](../papers/ml-foundations.md#fang26v-training-strategies) · Decoupled Low-Rank Adaptation for Robust Federated Fine-Tuning
 - [临界信号传播的分层 dropout](../papers/ml-foundations.md#fernandez-sarmiento26a-training-strategies) · Dropout Universality: Scaling Laws and Optimal Scheduling at the Edge-of-Chaos
+- [时间序列的多目标掩码预训练](../papers/ml-foundations.md#fu26n-training-strategies) · Zeus: Towards Tuning-Free Foundation Model for Time Series Analysis
+- [无标签自监督模型的参数合并](../papers/ml-foundations.md#fuller26a-training-strategies) · Self-Soupervision: Cooking Model Soups without Labels
+- [预训练权重邻域的随机专家集成](../papers/ml-foundations.md#gan26a-training-strategies) · Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights
+- [不规则时序图流的辅助轨迹监督](../papers/ml-foundations.md#gao26ac-training-strategies) · One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification
 
 ### 图学习与推荐
 
 - [超图鲁棒训练](../papers/graph-and-recommendation.md#arafat26a-training-strategies) · Adversarial Attacks and Robust Training for Hypergraph Neural Networks
 - [图组合优化迁移](../papers/graph-and-recommendation.md#canturk26a-training-strategies) · Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?
 - [图基础模型的消息微调](../papers/graph-and-recommendation.md#chen26cz-training-strategies) · Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective
+- [空间众包的双视图蒸馏](../papers/graph-and-recommendation.md#gao26ai-training-strategies) · GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation
 
 ### 科学机器学习
 
@@ -123,4 +130,7 @@
 - [竞争风险的离散危险率蒸馏](../papers/scientific-ml.md#deng26o-training-strategies) · Discrete Survival Knowledge Distillation for Competing Risks Analysis
 - [删失数据的分量似然蒸馏](../papers/scientific-ml.md#deng26p-training-strategies) · Component-Wise Composite Likelihood Distillation for Censored Time-to-Event Data
 - [确定性 PDE 模拟器的概率改造](../papers/scientific-ml.md#diaconu26a-training-strategies) · Probabilistic Retrofitting of Learned Simulators
+- [医学分割任务的在线分簇适配](../papers/scientific-ml.md#gao26s-training-strategies) · MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery
+- [按原子数缩放分子扩散先验](../papers/scientific-ml.md#gao26v-training-strategies) · Scaling the Prior: Size-Consistent Geometric Diffusion for 3D Molecular Generation
+- [网格模拟的模板监督与时序校正](../papers/scientific-ml.md#garnier26a-training-strategies) · Mesh Based Simulations with Spatial and Temporal awareness
 <!-- classification:end -->

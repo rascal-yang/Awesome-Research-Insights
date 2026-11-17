@@ -78,6 +78,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Orthogonal Hierarchical Decomposition for Structure-Aware Table Understanding with Large Language Models](https://proceedings.mlr.press/v306/cao26p.html) | [Read insight (中文)](../../papers/nlp.md#cao26p-representation-learning) |
+| [InstEmb: Instruction-Following Embeddings through Glimpses of the Future](https://proceedings.mlr.press/v306/gao26h.html) | [Read insight (中文)](../../papers/nlp.md#gao26h-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -92,6 +93,7 @@ The linked short insights are available in Chinese.
 | [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | [Read insight (中文)](../../papers/nlp.md#dehdashtian26a-evaluation) |
 | [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | [Read insight (中文)](../../papers/nlp.md#duarte26a-evaluation) |
 | [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | [Read insight (中文)](../../papers/nlp.md#fernandez26b-evaluation) |
+| [FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) | [Read insight (中文)](../../papers/nlp.md#gao26af-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

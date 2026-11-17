@@ -23,6 +23,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Quantifying Biases in LLM-as-a-Judge Evaluations](../../papers/llm.md#dubois26a-theory-statistics) · 中文
 - [Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control](../../papers/llm.md#farzaneh26a-theory-statistics) · 中文
 - [Nonparametric LLM Evaluation from Preference Data](../../papers/llm.md#frauen26a-theory-statistics) · 中文
+- [The Cylindrical Representation Hypothesis for Language Model Steering](../../papers/llm.md#gao26al-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -60,6 +61,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs](../../papers/reinforcement-learning.md#escamilla26a-theory-statistics) · 中文
 - [Local Policies for Graph-Structured Markov Decision Processes](../../papers/reinforcement-learning.md#faizal26a-theory-statistics) · 中文
 - [Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](../../papers/reinforcement-learning.md#flynn26b-theory-statistics) · 中文
+- [Anytime Detection of Strategic Deviations in Multi-Agent Systems](../../papers/reinforcement-learning.md#gauthier26a-theory-statistics) · 中文
 
 ### Robotics
 
@@ -205,6 +207,19 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Exact Functional ANOVA Decomposition for Categorical Inputs Models](../../papers/ml-foundations.md#ferrere26a-theory-statistics) · 中文
 - [Complexity Bounds for Dirichlet Process Slice Samplers](../../papers/ml-foundations.md#franzolini26a-theory-statistics) · 中文
 - [Toward Scalable and Valid Conditional Independence Testing with Spectral Representations](../../papers/ml-foundations.md#frohlich26a-theory-statistics) · 中文
+- [Noise-Robust Density Estimation for Tabular Data Anomaly Detection](../../papers/ml-foundations.md#fu26w-theory-statistics) · 中文
+- [Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation](../../papers/ml-foundations.md#fuchs26a-theory-statistics) · 中文
+- [An Odd Estimator for Shapley Values](../../papers/ml-foundations.md#fumagalli26a-theory-statistics) · 中文
+- [Approximation Theory for Lipschitz Continuous Transformers](../../papers/ml-foundations.md#furuya26a-theory-statistics) · 中文
+- [Information-Theoretic Generalization Bounds for VAEs: A Role of Encoder and Latent Variable](../../papers/ml-foundations.md#futami26a-theory-statistics) · 中文
+- [PCA of Probability Measures: Sparse and Dense Sampling Regimes](../../papers/ml-foundations.md#gachon26a-theory-statistics) · 中文
+- [The Cost of Learning Under Multiple Change Points](../../papers/ml-foundations.md#gafni26a-theory-statistics) · 中文
+- [Gateways to Tractability for Satisfiability in Pearl’s Causal Hierarchy](../../papers/ml-foundations.md#ganian26a-theory-statistics) · 中文
+- [Causal-EPIG: Causally Aligned Active CATE Estimation](../../papers/ml-foundations.md#gao26i-theory-statistics) · 中文
+- [Optimal structure learning and conditional independence testing](../../papers/ml-foundations.md#gao26ab-theory-statistics) · 中文
+- [The Implicit Bias of Depth: From Neural Collapse to Softmax Codes](../../papers/ml-foundations.md#garrod26a-theory-statistics) · 中文
+- [Unifying Low Dimensional Spectra in Deep Learning](../../papers/ml-foundations.md#garrod26b-theory-statistics) · 中文
+- [Sampling and Identity-Testing Without Approximate Tensorization of Entropy](../../papers/ml-foundations.md#gay26a-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -225,4 +240,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../papers/scientific-ml.md#berman26a-theory-statistics) · 中文
 - [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../../papers/scientific-ml.md#ding26c-theory-statistics) · 中文
 - [Learning Treatment Allocations with Risk Control Under Partial Identifiability](../../papers/scientific-ml.md#ek26a-theory-statistics) · 中文
+- [Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](../../papers/scientific-ml.md#fu26i-theory-statistics) · 中文
+- [Principled Confidence Estimation for Deep Computed Tomography](../../papers/scientific-ml.md#gatzner26a-theory-statistics) · 中文
 <!-- classification:end -->

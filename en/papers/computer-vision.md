@@ -30,6 +30,9 @@ The linked short insights are available in Chinese.
 | [Native Spatio-Temporal 4D Variational Autoencoder](https://proceedings.mlr.press/v306/ding26u.html) | [Read insight (中文)](../../papers/computer-vision.md#ding26u-architecture) |
 | [AesFormer: Transform Everyday Photos into Beautiful Memories](https://proceedings.mlr.press/v306/du26c.html) | [Read insight (中文)](../../papers/computer-vision.md#du26c-architecture) |
 | [Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](https://proceedings.mlr.press/v306/duan26e.html) | [Read insight (中文)](../../papers/computer-vision.md#duan26e-architecture) |
+| [CODiff: One-Step Diffusion Model for Camouflaged Object Detection](https://proceedings.mlr.press/v306/fu26l.html) | [Read insight (中文)](../../papers/computer-vision.md#fu26l-architecture) |
+| [DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](https://proceedings.mlr.press/v306/gao26aq.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26aq-architecture) |
+| [Beyond Pixel Histories: World Models with Persistent 3D State](https://proceedings.mlr.press/v306/garcin26a.html) | [Read insight (中文)](../../papers/computer-vision.md#garcin26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -116,6 +119,7 @@ The linked short insights are available in Chinese.
 | [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](https://proceedings.mlr.press/v306/chen26bj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26bj-data-strategies) |
 | [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://proceedings.mlr.press/v306/cui26f.html) | [Read insight (中文)](../../papers/computer-vision.md#cui26f-data-strategies) |
 | [Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](https://proceedings.mlr.press/v306/fang26s.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26s-data-strategies) |
+| [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](https://proceedings.mlr.press/v306/gan26d.html) | [Read insight (中文)](../../papers/computer-vision.md#gan26d-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -156,6 +160,9 @@ The linked short insights are available in Chinese.
 | [Bridging RGB and RAW: Single-step Deterministic Flow with Homogeneous Representation Alignment](https://proceedings.mlr.press/v306/feng26w.html) | [Read insight (中文)](../../papers/computer-vision.md#feng26w-inference) |
 | [Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](https://proceedings.mlr.press/v306/feng26ac.html) | [Read insight (中文)](../../papers/computer-vision.md#feng26ac-inference) |
 | [Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling](https://proceedings.mlr.press/v306/frumkin26a.html) | [Read insight (中文)](../../papers/computer-vision.md#frumkin26a-inference) |
+| [Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models](https://proceedings.mlr.press/v306/fu26o.html) | [Read insight (中文)](../../papers/computer-vision.md#fu26o-inference) |
+| [Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework](https://proceedings.mlr.press/v306/gao26e.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26e-inference) |
+| [(1D) Ordered Tokens Enable Efficient Test-Time Search](https://proceedings.mlr.press/v306/gao26x.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26x-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -178,6 +185,8 @@ The linked short insights are available in Chinese.
 | [Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences](https://proceedings.mlr.press/v306/ding26n.html) | [Read insight (中文)](../../papers/computer-vision.md#ding26n-representation-learning) |
 | [DNA: Uncovering Universal Latent Forgery Knowledge](https://proceedings.mlr.press/v306/dou26b.html) | [Read insight (中文)](../../papers/computer-vision.md#dou26b-representation-learning) |
 | [Event2Vec: Processing neuromorphic events directly by representations in vector space](https://proceedings.mlr.press/v306/fang26o.html) | [Read insight (中文)](../../papers/computer-vision.md#fang26o-representation-learning) |
+| [ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning](https://proceedings.mlr.press/v306/gao26ad.html) | [Read insight (中文)](../../papers/computer-vision.md#gao26ad-representation-learning) |
+| [Learning Latent Action World Models in the Wild](https://proceedings.mlr.press/v306/garrido26a.html) | [Read insight (中文)](../../papers/computer-vision.md#garrido26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 

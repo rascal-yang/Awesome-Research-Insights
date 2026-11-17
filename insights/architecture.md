@@ -19,6 +19,8 @@
 - [低维潜空间专家计算](../papers/llm.md#elango26a-architecture) · Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures
 - [可结构化高阶递推的词元混合](../papers/llm.md#fagnou26a-architecture) · Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing
 - [窗口注意力与递归长时记忆](../papers/llm.md#fang26w-architecture) · Artificial Hippocampus Networks for Efficient Long-Context Modeling
+- [仅对困难词元启动隐空间迭代](../papers/llm.md#fu26t-architecture) · Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning
+- [频域乘法实现因果序列混合](../papers/llm.md#gan26c-architecture) · Caracal: Causal Architecture via Spectral Mixing
 
 ### 计算机视觉
 
@@ -31,6 +33,9 @@
 - [原生四维体素自编码](../papers/computer-vision.md#ding26u-architecture) · Native Spatio-Temporal 4D Variational Autoencoder
 - [照片结构重构的动作条件编辑](../papers/computer-vision.md#du26c-architecture) · AesFormer: Transform Everyday Photos into Beautiful Memories
 - [病理去焦模糊的局部积分算子](../papers/computer-vision.md#duan26e-architecture) · Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring
+- [单步伪装物体掩码预测](../papers/computer-vision.md#fu26l-architecture) · CODiff: One-Step Diffusion Model for Camouflaged Object Detection
+- [按类别难度隔离位姿学习梯度](../papers/computer-vision.md#gao26aq-architecture) · DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation
+- [持久三维状态的交互视频世界模型](../papers/computer-vision.md#garcin26a-architecture) · Beyond Pixel Histories: World Models with Persistent 3D State
 
 ### 自然语言处理
 
@@ -53,6 +58,7 @@
 - [遥感跨模态的共享潜空间扩散](../papers/multimodal.md#chen26go-architecture) · Any2Any: Unified Arbitrary Modality Translation for Remote Sensing
 - [阵列几何条件化的空间音频词元](../papers/multimodal.md#dementyev26a-architecture) · PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs
 - [持续学习专家的置信加权协作](../papers/multimodal.md#forhad26a-architecture) · Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning
+- [交替状态与转移的视觉世界模型](../papers/multimodal.md#gao26am-architecture) · DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics
 
 ### 机器学习基础与统计
 
@@ -81,6 +87,8 @@
 - [图动力学的能量与切向流](../papers/graph-and-recommendation.md#eliasof26a-architecture) · Graph Neural Dynamics via Learned Energy and Tangential Flows
 - [超边潜类型与多通道传播](../papers/graph-and-recommendation.md#fang26g-architecture) · MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks
 - [图傅里叶变换的柯西分解](../papers/graph-and-recommendation.md#fernandez26a-architecture) · L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations
+- [超图生成的多尺度展开](../papers/graph-and-recommendation.md#gailhard26a-architecture) · Feature-Aware (Hyper)graph Generation via Next-Scale Prediction
+- [以分层极大团表示超边](../papers/graph-and-recommendation.md#gantes26a-architecture) · SuperHype: Hypergraph Generation via Graph-Superposition Decomposition
 
 ### 科学机器学习
 

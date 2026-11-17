@@ -75,6 +75,11 @@
 - [反事实推理的共形 token 筛选](../papers/llm.md#fayyazi26a-inference) · COFT: Counterfactual–Conformal Decoding for Fair Chain-of-Thought Reasoning in Large Language Models
 - [跨问题分配自洽采样预算](../papers/llm.md#feng26a-inference) · Optimal Self-Consistency for Efficient Reasoning with Large Language Models
 - [按输出扰动分配 KV 缓存预算](../papers/llm.md#feng26j-inference) · CriticalKV: Optimizing KV Cache Eviction from an Output Perturbation Perspective
+- [扩散解码的前瞻探索](../papers/llm.md#fu26h-inference) · From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models
+- [逐词元采样的语言模型集成](../papers/llm.md#fu26j-inference) · Rethinking LLM Ensembling from the Perspective of Mixture Models
+- [按注意力熵分配 KV 保留预算](../papers/llm.md#gao26a-inference) · EntroKV: Entropy-Guided Dynamic Budget Allocation for KV-Cache Compression
+- [按生成时延动态划分 GPU](../papers/llm.md#gao26m-inference) · DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing
+- [代码图解释引导恶意行为分析](../papers/llm.md#gao26u-inference) · Efficient Code Analysis via Graph Representation Learning-Guided Large Language Models
 
 ### 计算机视觉
 
@@ -111,6 +116,9 @@
 - [RGB 到 RAW 的一步潜空间传输](../papers/computer-vision.md#feng26w-inference) · Bridging RGB and RAW: Single-step Deterministic Flow with Homogeneous Representation Alignment
 - [长视频队列的双向一致性引导](../papers/computer-vision.md#feng26ac-inference) · Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos
 - [低比特少步扩散的调度校准](../papers/computer-vision.md#frumkin26a-inference) · Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling
+- [低频几何引导的参考纹理迁移](../papers/computer-vision.md#fu26o-inference) · Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models
+- [用图生视频过程纠正人和物的交互编辑](../papers/computer-vision.md#gao26e-inference) · Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework
+- [粗到细图像词元的前缀搜索](../papers/computer-vision.md#gao26x-inference) · (1D) Ordered Tokens Enable Efficient Test-Time Search
 
 ### 自然语言处理
 
@@ -161,6 +169,9 @@
 - [稀疏视频帧的语义轨迹插值](../papers/multimodal.md#fang26c-inference) · SLAP: The Semantic Least Action Principle for Variational Video-Language Modeling
 - [世界模型缓存的曲率漂移判据](../papers/multimodal.md#feng26d-inference) · WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching
 - [视频问答的结构化记忆与核验](../papers/multimodal.md#forouzandeh26a-inference) · LINGUA: Bridging the Grounding Gap in VideoQA via Typed Memory and Belief-State Reasoning
+- [视觉关系的函数向量干预](../papers/multimodal.md#fu26e-inference) · Multimodal Function Vectors for Visual Relations
+- [移动端智能体的流程充分性判断](../papers/multimodal.md#fu26m-inference) · Hierarchical Procedural Meta-Reasoning for Generalizable Multimodal Agents
+- [视觉词元压缩的平坦度路由](../papers/multimodal.md#gao26r-inference) · AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density
 
 ### 机器学习基础与统计
 
@@ -175,12 +186,15 @@
 - [离散神经采样的历史势垒调节](../papers/ml-foundations.md#du26h-inference) · MetaDNS: Enhancing Exploration in Discrete Neural Samplers via Well-Tempered Metadynamics
 - [无目标观测站点的时序扩散重建](../papers/ml-foundations.md#fan26d-inference) · ZeroDiff: Zero-Shot Time Series Reconstruction via Informed-Prior Diffusion
 - [离散流的重参数化强度外推](../papers/ml-foundations.md#fu26d-inference) · A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching
+- [最小扰动的仿射概念引导](../papers/ml-foundations.md#gaintseva26a-inference) · MidSteer: Optimal Affine Framework for Steering Generative Models
+- [用低阶配点做高精度扩散采样](../papers/ml-foundations.md#gatmiry26a-inference) · High-accuracy and dimension-free sampling with diffusions
 
 ### 图学习与推荐
 
 - [图模型测试时适应](../papers/graph-and-recommendation.md#ai26c-inference) · PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs
 - [在线推荐校准](../papers/graph-and-recommendation.md#bisht26b-inference) · CARE: Adaptive Calibration for Reliable Recommendations
 - [图注意力的 I/O 融合优化](../papers/graph-and-recommendation.md#fomina26a-inference) · On Efficient Scaling of GNNs via IO-Aware Layers Implementations
+- [知识图多跳搜索的语义补边](../papers/graph-and-recommendation.md#gao26t-inference) · Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs
 
 ### 科学机器学习
 
@@ -194,4 +208,8 @@
 - [流行病模拟器的流图验证](../papers/scientific-ml.md#datta26a-inference) · Agentic Framework for Epidemiological Modeling
 - [逆设计流的零锚定置信度](../papers/scientific-ml.md#de-campos26a-inference) · Generative Inverse Design with Abstention via Diagonal Flow Matching
 - [重尾扩散桥的肠鸣音分离](../papers/scientific-ml.md#ding26a-inference) · Listening Through the Noise: Cauchy-Driven Diffusion Bridges for Robust Gastrointestinal Auscultation and Clinical Benchmarking
+- [谱空间扩散的 PDE 后验引导](../papers/scientific-ml.md#gallon26a-inference) · Physics-Informed Diffusion Models in Spectral Space
+- [港口和航路节点条件下的航迹外推](../papers/scientific-ml.md#gan26b-inference) · SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction
+- [干旱预测的多分辨率残差校正](../papers/scientific-ml.md#gao26p-inference) · Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting
+- [超大病理切片的动态倍率推理](../papers/scientific-ml.md#ge26b-inference) · Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning
 <!-- classification:end -->

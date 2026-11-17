@@ -1159,106 +1159,106 @@ number	pmlr_id	title	paper_url	insight_status
 1158	fu26b	FlowMAP: Flow Matching for Generalizable Agent Planning	https://proceedings.mlr.press/v306/fu26b.html	written
 1159	fu26c	MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge	https://proceedings.mlr.press/v306/fu26c.html	written
 1160	fu26d	A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching	https://proceedings.mlr.press/v306/fu26d.html	written
-1161	fu26e	Multimodal Function Vectors for Visual Relations	https://proceedings.mlr.press/v306/fu26e.html	pending
-1162	fu26f	Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning	https://proceedings.mlr.press/v306/fu26f.html	pending
-1163	fu26g	Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering	https://proceedings.mlr.press/v306/fu26g.html	pending
-1164	fu26h	From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models	https://proceedings.mlr.press/v306/fu26h.html	pending
-1165	fu26i	Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis	https://proceedings.mlr.press/v306/fu26i.html	pending
-1166	fu26j	Rethinking LLM Ensembling from the Perspective of Mixture Models	https://proceedings.mlr.press/v306/fu26j.html	pending
-1167	fu26k	HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/fu26k.html	pending
-1168	fu26l	CODiff: One-Step Diffusion Model for Camouflaged Object Detection	https://proceedings.mlr.press/v306/fu26l.html	pending
-1169	fu26m	Hierarchical Procedural Meta-Reasoning for Generalizable Multimodal Agents	https://proceedings.mlr.press/v306/fu26m.html	pending
-1170	fu26n	Zeus: Towards Tuning-Free Foundation Model for Time Series Analysis	https://proceedings.mlr.press/v306/fu26n.html	pending
-1171	fu26o	Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models	https://proceedings.mlr.press/v306/fu26o.html	pending
-1172	fu26p	ObjEmbed: Towards Universal Multimodal Object Embeddings	https://proceedings.mlr.press/v306/fu26p.html	pending
-1173	fu26q	Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed	https://proceedings.mlr.press/v306/fu26q.html	pending
-1174	fu26r	Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation	https://proceedings.mlr.press/v306/fu26r.html	pending
-1175	fu26s	VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding	https://proceedings.mlr.press/v306/fu26s.html	pending
-1176	fu26t	Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning	https://proceedings.mlr.press/v306/fu26t.html	pending
-1177	fu26u	CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation	https://proceedings.mlr.press/v306/fu26u.html	pending
-1178	fu26v	Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse	https://proceedings.mlr.press/v306/fu26v.html	pending
-1179	fu26w	Noise-Robust Density Estimation for Tabular Data Anomaly Detection	https://proceedings.mlr.press/v306/fu26w.html	pending
-1180	fu26x	StableVLA: Towards Robust Vision-Language-Action Models without Extra Data	https://proceedings.mlr.press/v306/fu26x.html	pending
-1181	fuchs26a	Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation	https://proceedings.mlr.press/v306/fuchs26a.html	pending
-1182	fukazawa26a	RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization	https://proceedings.mlr.press/v306/fukazawa26a.html	pending
-1183	fuller26a	Self-Soupervision: Cooking Model Soups without Labels	https://proceedings.mlr.press/v306/fuller26a.html	pending
-1184	fumagalli26a	An Odd Estimator for Shapley Values	https://proceedings.mlr.press/v306/fumagalli26a.html	pending
-1185	furuya26a	Approximation Theory for Lipschitz Continuous Transformers	https://proceedings.mlr.press/v306/furuya26a.html	pending
-1186	futami26a	Information-Theoretic Generalization Bounds for VAEs: A Role of Encoder and Latent Variable	https://proceedings.mlr.press/v306/futami26a.html	pending
-1187	gachon26a	PCA of Probability Measures: Sparse and Dense Sampling Regimes	https://proceedings.mlr.press/v306/gachon26a.html	pending
-1188	gadekar26a	Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms	https://proceedings.mlr.press/v306/gadekar26a.html	pending
-1189	gadgil26a	Ensembling Sparse Autoencoders	https://proceedings.mlr.press/v306/gadgil26a.html	pending
-1190	gafni26a	The Cost of Learning Under Multiple Change Points	https://proceedings.mlr.press/v306/gafni26a.html	pending
-1191	gai26a	Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning	https://proceedings.mlr.press/v306/gai26a.html	pending
-1192	gai26b	Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling	https://proceedings.mlr.press/v306/gai26b.html	pending
-1193	gailhard26a	Feature-Aware (Hyper)graph Generation via Next-Scale Prediction	https://proceedings.mlr.press/v306/gailhard26a.html	pending
-1194	gaintseva26a	MidSteer: Optimal Affine Framework for Steering Generative Models	https://proceedings.mlr.press/v306/gaintseva26a.html	pending
-1195	galli26a	Flatland: The Adventures of Gradient Descent with Large Step Sizes	https://proceedings.mlr.press/v306/galli26a.html	pending
-1196	gallon26a	Physics-Informed Diffusion Models in Spectral Space	https://proceedings.mlr.press/v306/gallon26a.html	pending
-1197	gan26a	Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights	https://proceedings.mlr.press/v306/gan26a.html	pending
-1198	gan26b	SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction	https://proceedings.mlr.press/v306/gan26b.html	pending
-1199	gan26c	Caracal: Causal Architecture via Spectral Mixing	https://proceedings.mlr.press/v306/gan26c.html	pending
-1200	gan26d	Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation	https://proceedings.mlr.press/v306/gan26d.html	pending
-1201	gandhi26a	PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks	https://proceedings.mlr.press/v306/gandhi26a.html	pending
-1202	ganian26a	Gateways to Tractability for Satisfiability in Pearl’s Causal Hierarchy	https://proceedings.mlr.press/v306/ganian26a.html	pending
-1203	gantes26a	SuperHype: Hypergraph Generation via Graph-Superposition Decomposition	https://proceedings.mlr.press/v306/gantes26a.html	pending
-1204	gao26a	EntroKV: Entropy-Guided Dynamic Budget Allocation for KV-Cache Compression	https://proceedings.mlr.press/v306/gao26a.html	pending
-1205	gao26b	The First Drop of Ink: Nonlinear Impact of Distracting Information in Long-Context Reasoning	https://proceedings.mlr.press/v306/gao26b.html	pending
-1206	gao26c	Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/gao26c.html	pending
-1207	gao26d	One-shot Entropy Minimization for Language Model Reasoning	https://proceedings.mlr.press/v306/gao26d.html	pending
-1208	gao26e	Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework	https://proceedings.mlr.press/v306/gao26e.html	pending
-1209	gao26f	Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization	https://proceedings.mlr.press/v306/gao26f.html	pending
-1210	gao26g	FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content	https://proceedings.mlr.press/v306/gao26g.html	pending
-1211	gao26h	InstEmb: Instruction-Following Embeddings through Glimpses of the Future	https://proceedings.mlr.press/v306/gao26h.html	pending
-1212	gao26i	Causal-EPIG: Causally Aligned Active CATE Estimation	https://proceedings.mlr.press/v306/gao26i.html	pending
-1213	gao26j	Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State	https://proceedings.mlr.press/v306/gao26j.html	pending
-1214	gao26k	On the Fragility of Data Attribution When Learning Is Distributed	https://proceedings.mlr.press/v306/gao26k.html	pending
-1215	gao26l	EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment	https://proceedings.mlr.press/v306/gao26l.html	pending
-1216	gao26m	DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing	https://proceedings.mlr.press/v306/gao26m.html	pending
-1217	gao26n	Segment-Aligned Policy Optimization for Multi-Modal Reasoning	https://proceedings.mlr.press/v306/gao26n.html	pending
-1218	gao26o	Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence	https://proceedings.mlr.press/v306/gao26o.html	pending
-1219	gao26p	Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting	https://proceedings.mlr.press/v306/gao26p.html	pending
-1220	gao26q	DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos	https://proceedings.mlr.press/v306/gao26q.html	pending
-1221	gao26r	AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density	https://proceedings.mlr.press/v306/gao26r.html	pending
-1222	gao26s	MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery	https://proceedings.mlr.press/v306/gao26s.html	pending
-1223	gao26t	Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs	https://proceedings.mlr.press/v306/gao26t.html	pending
-1224	gao26u	Efficient Code Analysis via Graph Representation Learning-Guided Large Language Models	https://proceedings.mlr.press/v306/gao26u.html	pending
-1225	gao26v	Scaling the Prior: Size-Consistent Geometric Diffusion for 3D Molecular Generation	https://proceedings.mlr.press/v306/gao26v.html	pending
-1226	gao26w	Weight-sparse transformers have interpretable circuits	https://proceedings.mlr.press/v306/gao26w.html	pending
-1227	gao26x	(1D) Ordered Tokens Enable Efficient Test-Time Search	https://proceedings.mlr.press/v306/gao26x.html	pending
-1228	gao26y	Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models	https://proceedings.mlr.press/v306/gao26y.html	pending
-1229	gao26z	Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data	https://proceedings.mlr.press/v306/gao26z.html	pending
-1230	gao26aa	Conformal Reliability: A New Evaluation Metric for Conditional Generation	https://proceedings.mlr.press/v306/gao26aa.html	pending
-1231	gao26ab	Optimal structure learning and conditional independence testing	https://proceedings.mlr.press/v306/gao26ab.html	pending
-1232	gao26ac	One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification	https://proceedings.mlr.press/v306/gao26ac.html	pending
-1233	gao26ad	ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning	https://proceedings.mlr.press/v306/gao26ad.html	pending
-1234	gao26ae	Differentially Private Preference Data Synthesis for Large Language Model Alignment	https://proceedings.mlr.press/v306/gao26ae.html	pending
-1235	gao26af	FiRE: Fine-grained Ranking Evaluation for Machine Translation	https://proceedings.mlr.press/v306/gao26af.html	pending
-1236	gao26ag	Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs	https://proceedings.mlr.press/v306/gao26ag.html	pending
-1237	gao26ah	Inference from Quantized Data via Normal Variance-Mean Mixtures	https://proceedings.mlr.press/v306/gao26ah.html	pending
-1238	gao26ai	GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation	https://proceedings.mlr.press/v306/gao26ai.html	pending
-1239	gao26aj	Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue	https://proceedings.mlr.press/v306/gao26aj.html	pending
-1240	gao26ak	Decentralized Bandits without Global Clock for Dynamic Matching Market	https://proceedings.mlr.press/v306/gao26ak.html	pending
-1241	gao26al	The Cylindrical Representation Hypothesis for Language Model Steering	https://proceedings.mlr.press/v306/gao26al.html	pending
-1242	gao26am	DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics	https://proceedings.mlr.press/v306/gao26am.html	pending
-1243	gao26an	MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection	https://proceedings.mlr.press/v306/gao26an.html	pending
-1244	gao26ao	TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering	https://proceedings.mlr.press/v306/gao26ao.html	pending
-1245	gao26ap	Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach	https://proceedings.mlr.press/v306/gao26ap.html	pending
-1246	gao26aq	DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation	https://proceedings.mlr.press/v306/gao26aq.html	pending
-1247	garcin26a	Beyond Pixel Histories: World Models with Persistent 3D State	https://proceedings.mlr.press/v306/garcin26a.html	pending
-1248	garnier26a	Mesh Based Simulations with Spatial and Temporal awareness	https://proceedings.mlr.press/v306/garnier26a.html	pending
-1249	garnier-brun26a	Biased Generalization in Diffusion Models	https://proceedings.mlr.press/v306/garnier-brun26a.html	pending
-1250	garrido26a	Learning Latent Action World Models in the Wild	https://proceedings.mlr.press/v306/garrido26a.html	pending
-1251	garrod26a	The Implicit Bias of Depth: From Neural Collapse to Softmax Codes	https://proceedings.mlr.press/v306/garrod26a.html	pending
-1252	garrod26b	Unifying Low Dimensional Spectra in Deep Learning	https://proceedings.mlr.press/v306/garrod26b.html	pending
-1253	gatmiry26a	High-accuracy and dimension-free sampling with diffusions	https://proceedings.mlr.press/v306/gatmiry26a.html	pending
-1254	gatzner26a	Principled Confidence Estimation for Deep Computed Tomography	https://proceedings.mlr.press/v306/gatzner26a.html	pending
-1255	gaukstad26a	Learning Coherent Representations: A Topological Approach to Interpretability	https://proceedings.mlr.press/v306/gaukstad26a.html	pending
-1256	gauthier26a	Anytime Detection of Strategic Deviations in Multi-Agent Systems	https://proceedings.mlr.press/v306/gauthier26a.html	pending
-1257	gay26a	Sampling and Identity-Testing Without Approximate Tensorization of Entropy	https://proceedings.mlr.press/v306/gay26a.html	pending
-1258	ge26a	Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics	https://proceedings.mlr.press/v306/ge26a.html	pending
-1259	ge26b	Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning	https://proceedings.mlr.press/v306/ge26b.html	pending
-1260	geenjaar26a	A robust PPG foundation model using multimodal physiological supervision	https://proceedings.mlr.press/v306/geenjaar26a.html	pending
+1161	fu26e	Multimodal Function Vectors for Visual Relations	https://proceedings.mlr.press/v306/fu26e.html	written
+1162	fu26f	Cure-SFT: Diagnostic-Guided Data Curation for Instruction Tuning	https://proceedings.mlr.press/v306/fu26f.html	written
+1163	fu26g	Nonconvex Low-Rank Tensor Representation with Deep Priors for Multiview Subspace Clustering	https://proceedings.mlr.press/v306/fu26g.html	written
+1164	fu26h	From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models	https://proceedings.mlr.press/v306/fu26h.html	written
+1165	fu26i	Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis	https://proceedings.mlr.press/v306/fu26i.html	written
+1166	fu26j	Rethinking LLM Ensembling from the Perspective of Mixture Models	https://proceedings.mlr.press/v306/fu26j.html	written
+1167	fu26k	HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/fu26k.html	written
+1168	fu26l	CODiff: One-Step Diffusion Model for Camouflaged Object Detection	https://proceedings.mlr.press/v306/fu26l.html	written
+1169	fu26m	Hierarchical Procedural Meta-Reasoning for Generalizable Multimodal Agents	https://proceedings.mlr.press/v306/fu26m.html	written
+1170	fu26n	Zeus: Towards Tuning-Free Foundation Model for Time Series Analysis	https://proceedings.mlr.press/v306/fu26n.html	written
+1171	fu26o	Dual Optimal Transport for Multi-Concept Composition: Structure Alignment and Texture Injection in Diffusion Models	https://proceedings.mlr.press/v306/fu26o.html	written
+1172	fu26p	ObjEmbed: Towards Universal Multimodal Object Embeddings	https://proceedings.mlr.press/v306/fu26p.html	written
+1173	fu26q	Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed	https://proceedings.mlr.press/v306/fu26q.html	written
+1174	fu26r	Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation	https://proceedings.mlr.press/v306/fu26r.html	written
+1175	fu26s	VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding	https://proceedings.mlr.press/v306/fu26s.html	written
+1176	fu26t	Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning	https://proceedings.mlr.press/v306/fu26t.html	written
+1177	fu26u	CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation	https://proceedings.mlr.press/v306/fu26u.html	written
+1178	fu26v	Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse	https://proceedings.mlr.press/v306/fu26v.html	written
+1179	fu26w	Noise-Robust Density Estimation for Tabular Data Anomaly Detection	https://proceedings.mlr.press/v306/fu26w.html	written
+1180	fu26x	StableVLA: Towards Robust Vision-Language-Action Models without Extra Data	https://proceedings.mlr.press/v306/fu26x.html	written
+1181	fuchs26a	Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation	https://proceedings.mlr.press/v306/fuchs26a.html	written
+1182	fukazawa26a	RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization	https://proceedings.mlr.press/v306/fukazawa26a.html	written
+1183	fuller26a	Self-Soupervision: Cooking Model Soups without Labels	https://proceedings.mlr.press/v306/fuller26a.html	written
+1184	fumagalli26a	An Odd Estimator for Shapley Values	https://proceedings.mlr.press/v306/fumagalli26a.html	written
+1185	furuya26a	Approximation Theory for Lipschitz Continuous Transformers	https://proceedings.mlr.press/v306/furuya26a.html	written
+1186	futami26a	Information-Theoretic Generalization Bounds for VAEs: A Role of Encoder and Latent Variable	https://proceedings.mlr.press/v306/futami26a.html	written
+1187	gachon26a	PCA of Probability Measures: Sparse and Dense Sampling Regimes	https://proceedings.mlr.press/v306/gachon26a.html	written
+1188	gadekar26a	Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms	https://proceedings.mlr.press/v306/gadekar26a.html	written
+1189	gadgil26a	Ensembling Sparse Autoencoders	https://proceedings.mlr.press/v306/gadgil26a.html	written
+1190	gafni26a	The Cost of Learning Under Multiple Change Points	https://proceedings.mlr.press/v306/gafni26a.html	written
+1191	gai26a	Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning	https://proceedings.mlr.press/v306/gai26a.html	written
+1192	gai26b	Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling	https://proceedings.mlr.press/v306/gai26b.html	written
+1193	gailhard26a	Feature-Aware (Hyper)graph Generation via Next-Scale Prediction	https://proceedings.mlr.press/v306/gailhard26a.html	written
+1194	gaintseva26a	MidSteer: Optimal Affine Framework for Steering Generative Models	https://proceedings.mlr.press/v306/gaintseva26a.html	written
+1195	galli26a	Flatland: The Adventures of Gradient Descent with Large Step Sizes	https://proceedings.mlr.press/v306/galli26a.html	written
+1196	gallon26a	Physics-Informed Diffusion Models in Spectral Space	https://proceedings.mlr.press/v306/gallon26a.html	written
+1197	gan26a	Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights	https://proceedings.mlr.press/v306/gan26a.html	written
+1198	gan26b	SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction	https://proceedings.mlr.press/v306/gan26b.html	written
+1199	gan26c	Caracal: Causal Architecture via Spectral Mixing	https://proceedings.mlr.press/v306/gan26c.html	written
+1200	gan26d	Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation	https://proceedings.mlr.press/v306/gan26d.html	written
+1201	gandhi26a	PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks	https://proceedings.mlr.press/v306/gandhi26a.html	written
+1202	ganian26a	Gateways to Tractability for Satisfiability in Pearl’s Causal Hierarchy	https://proceedings.mlr.press/v306/ganian26a.html	written
+1203	gantes26a	SuperHype: Hypergraph Generation via Graph-Superposition Decomposition	https://proceedings.mlr.press/v306/gantes26a.html	written
+1204	gao26a	EntroKV: Entropy-Guided Dynamic Budget Allocation for KV-Cache Compression	https://proceedings.mlr.press/v306/gao26a.html	written
+1205	gao26b	The First Drop of Ink: Nonlinear Impact of Distracting Information in Long-Context Reasoning	https://proceedings.mlr.press/v306/gao26b.html	written
+1206	gao26c	Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning	https://proceedings.mlr.press/v306/gao26c.html	written
+1207	gao26d	One-shot Entropy Minimization for Language Model Reasoning	https://proceedings.mlr.press/v306/gao26d.html	written
+1208	gao26e	Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework	https://proceedings.mlr.press/v306/gao26e.html	written
+1209	gao26f	Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization	https://proceedings.mlr.press/v306/gao26f.html	written
+1210	gao26g	FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content	https://proceedings.mlr.press/v306/gao26g.html	written
+1211	gao26h	InstEmb: Instruction-Following Embeddings through Glimpses of the Future	https://proceedings.mlr.press/v306/gao26h.html	written
+1212	gao26i	Causal-EPIG: Causally Aligned Active CATE Estimation	https://proceedings.mlr.press/v306/gao26i.html	written
+1213	gao26j	Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State	https://proceedings.mlr.press/v306/gao26j.html	written
+1214	gao26k	On the Fragility of Data Attribution When Learning Is Distributed	https://proceedings.mlr.press/v306/gao26k.html	written
+1215	gao26l	EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment	https://proceedings.mlr.press/v306/gao26l.html	written
+1216	gao26m	DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing	https://proceedings.mlr.press/v306/gao26m.html	written
+1217	gao26n	Segment-Aligned Policy Optimization for Multi-Modal Reasoning	https://proceedings.mlr.press/v306/gao26n.html	written
+1218	gao26o	Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence	https://proceedings.mlr.press/v306/gao26o.html	written
+1219	gao26p	Residual-Guided Multi-Resolution Refinement of Foundation Models: A Case Study in Drought Forecasting	https://proceedings.mlr.press/v306/gao26p.html	written
+1220	gao26q	DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos	https://proceedings.mlr.press/v306/gao26q.html	written
+1221	gao26r	AD-BTS: Adaptive Dual-Branch Token Sparsification via Spatial Information Density	https://proceedings.mlr.press/v306/gao26r.html	written
+1222	gao26s	MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery	https://proceedings.mlr.press/v306/gao26s.html	written
+1223	gao26t	Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs	https://proceedings.mlr.press/v306/gao26t.html	written
+1224	gao26u	Efficient Code Analysis via Graph Representation Learning-Guided Large Language Models	https://proceedings.mlr.press/v306/gao26u.html	written
+1225	gao26v	Scaling the Prior: Size-Consistent Geometric Diffusion for 3D Molecular Generation	https://proceedings.mlr.press/v306/gao26v.html	written
+1226	gao26w	Weight-sparse transformers have interpretable circuits	https://proceedings.mlr.press/v306/gao26w.html	written
+1227	gao26x	(1D) Ordered Tokens Enable Efficient Test-Time Search	https://proceedings.mlr.press/v306/gao26x.html	written
+1228	gao26y	Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models	https://proceedings.mlr.press/v306/gao26y.html	written
+1229	gao26z	Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data	https://proceedings.mlr.press/v306/gao26z.html	written
+1230	gao26aa	Conformal Reliability: A New Evaluation Metric for Conditional Generation	https://proceedings.mlr.press/v306/gao26aa.html	written
+1231	gao26ab	Optimal structure learning and conditional independence testing	https://proceedings.mlr.press/v306/gao26ab.html	written
+1232	gao26ac	One-Step Graph-Structured Neural Flows for Irregular Multivariate Time Series Classification	https://proceedings.mlr.press/v306/gao26ac.html	written
+1233	gao26ad	ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning	https://proceedings.mlr.press/v306/gao26ad.html	written
+1234	gao26ae	Differentially Private Preference Data Synthesis for Large Language Model Alignment	https://proceedings.mlr.press/v306/gao26ae.html	written
+1235	gao26af	FiRE: Fine-grained Ranking Evaluation for Machine Translation	https://proceedings.mlr.press/v306/gao26af.html	written
+1236	gao26ag	Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs	https://proceedings.mlr.press/v306/gao26ag.html	written
+1237	gao26ah	Inference from Quantized Data via Normal Variance-Mean Mixtures	https://proceedings.mlr.press/v306/gao26ah.html	written
+1238	gao26ai	GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation	https://proceedings.mlr.press/v306/gao26ai.html	written
+1239	gao26aj	Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue	https://proceedings.mlr.press/v306/gao26aj.html	written
+1240	gao26ak	Decentralized Bandits without Global Clock for Dynamic Matching Market	https://proceedings.mlr.press/v306/gao26ak.html	written
+1241	gao26al	The Cylindrical Representation Hypothesis for Language Model Steering	https://proceedings.mlr.press/v306/gao26al.html	written
+1242	gao26am	DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics	https://proceedings.mlr.press/v306/gao26am.html	written
+1243	gao26an	MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection	https://proceedings.mlr.press/v306/gao26an.html	written
+1244	gao26ao	TadA-Bench: A Million-Variant Benchmark for Future-Round Discovery Toward Agentic Protein Engineering	https://proceedings.mlr.press/v306/gao26ao.html	written
+1245	gao26ap	Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach	https://proceedings.mlr.press/v306/gao26ap.html	written
+1246	gao26aq	DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation	https://proceedings.mlr.press/v306/gao26aq.html	written
+1247	garcin26a	Beyond Pixel Histories: World Models with Persistent 3D State	https://proceedings.mlr.press/v306/garcin26a.html	written
+1248	garnier26a	Mesh Based Simulations with Spatial and Temporal awareness	https://proceedings.mlr.press/v306/garnier26a.html	written
+1249	garnier-brun26a	Biased Generalization in Diffusion Models	https://proceedings.mlr.press/v306/garnier-brun26a.html	written
+1250	garrido26a	Learning Latent Action World Models in the Wild	https://proceedings.mlr.press/v306/garrido26a.html	written
+1251	garrod26a	The Implicit Bias of Depth: From Neural Collapse to Softmax Codes	https://proceedings.mlr.press/v306/garrod26a.html	written
+1252	garrod26b	Unifying Low Dimensional Spectra in Deep Learning	https://proceedings.mlr.press/v306/garrod26b.html	written
+1253	gatmiry26a	High-accuracy and dimension-free sampling with diffusions	https://proceedings.mlr.press/v306/gatmiry26a.html	written
+1254	gatzner26a	Principled Confidence Estimation for Deep Computed Tomography	https://proceedings.mlr.press/v306/gatzner26a.html	written
+1255	gaukstad26a	Learning Coherent Representations: A Topological Approach to Interpretability	https://proceedings.mlr.press/v306/gaukstad26a.html	written
+1256	gauthier26a	Anytime Detection of Strategic Deviations in Multi-Agent Systems	https://proceedings.mlr.press/v306/gauthier26a.html	written
+1257	gay26a	Sampling and Identity-Testing Without Approximate Tensorization of Entropy	https://proceedings.mlr.press/v306/gay26a.html	written
+1258	ge26a	Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics	https://proceedings.mlr.press/v306/ge26a.html	written
+1259	ge26b	Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning	https://proceedings.mlr.press/v306/ge26b.html	written
+1260	geenjaar26a	A robust PPG foundation model using multimodal physiological supervision	https://proceedings.mlr.press/v306/geenjaar26a.html	written
 1261	geiping26a	Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models	https://proceedings.mlr.press/v306/geiping26a.html	pending
 1262	gelard26a	Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning	https://proceedings.mlr.press/v306/gelard26a.html	pending
 1263	genalti26a	Online Packet Scheduling with Deadlines and Learning	https://proceedings.mlr.press/v306/genalti26a.html	pending

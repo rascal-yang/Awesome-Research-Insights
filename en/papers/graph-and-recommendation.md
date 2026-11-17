@@ -21,6 +21,8 @@ The linked short insights are available in Chinese.
 | [Graph Neural Dynamics via Learned Energy and Tangential Flows](https://proceedings.mlr.press/v306/eliasof26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#eliasof26a-architecture) |
 | [MC-HNN: Learning Latent Structural Semantics and High-Rank Representations for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/fang26g.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fang26g-architecture) |
 | [L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](https://proceedings.mlr.press/v306/fernandez26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fernandez26a-architecture) |
+| [Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](https://proceedings.mlr.press/v306/gailhard26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gailhard26a-architecture) |
+| [SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](https://proceedings.mlr.press/v306/gantes26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gantes26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -76,6 +78,7 @@ The linked short insights are available in Chinese.
 | [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) |
 | [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
 | [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) |
+| [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26ai-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -96,6 +99,7 @@ The linked short insights are available in Chinese.
 | [PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://proceedings.mlr.press/v306/ai26c.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ai26c-inference) |
 | [CARE: Adaptive Calibration for Reliable Recommendations](https://proceedings.mlr.press/v306/bisht26b.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26b-inference) |
 | [On Efficient Scaling of GNNs via IO-Aware Layers Implementations](https://proceedings.mlr.press/v306/fomina26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#fomina26a-inference) |
+| [Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs](https://proceedings.mlr.press/v306/gao26t.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26t-inference) |
 
 <a id="by-representation-learning"></a>
 
