@@ -3186,7 +3186,7 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3185	magakyan26a	Collaborative and Efficient Fine-tuning: Leveraging Task Similarity	https://proceedings.mlr.press/v306/magakyan26a.html		written
 3186	mahadevan26a	Convergence of Two-Timescale Markovian Stochastic Approximations with Applications in Reinforcement Learning	https://proceedings.mlr.press/v306/mahadevan26a.html		written
 3187	mahdavi26a	Scaling Generative Verifiers For Natural Language Mathematical Proof Verification And Selection	https://proceedings.mlr.press/v306/mahdavi26a.html		written
-3188	mahns26a	Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities	https://proceedings.mlr.press/v306/mahns26a.html		written
+3188	mahns26a	Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities	https://proceedings.mlr.press/v306/mahns26a.html	新增问题复查通过：具体改变的是时序JEPA训练的遮挡方式选择。PDF第8页§4表6在同一市场数据设置比较整因子块与随机独立遮挡，结构描述符关联相近而随机遮挡的方向信息泄漏更大；第8页说明相邻同日因子可带入收益方向，支持在强调慢变状态而非方向预测时选择结构遮挡。可独立理解的内容是用目标属性和干扰属性的探针同时判断遮挡策略，而非仅追求重建/预测分数。证据限于美股市场状态，不声称已验证机器人迁移；金融数据本身与常规双塔/JEPA拼接不作为收录理由。	written
 3189	mai26a	Correcting Overparameterization Effects in Fair Empirical Risk Minimization	https://proceedings.mlr.press/v306/mai26a.html		written
 3190	maiti26a	Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners	https://proceedings.mlr.press/v306/maiti26a.html		written
 3191	maity26a	Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates	https://proceedings.mlr.press/v306/maity26a.html		written
