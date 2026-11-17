@@ -71,6 +71,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [MoE 软路由负载均衡](../papers/llm.md#chen26br-loss-functions) · $φ$-Balancing for Mixture-of-Experts Training
 - [离散扩散的奖励倾斜匹配](../papers/llm.md#chen26el-loss-functions) · Discrete Tilt Matching
 - [自博弈偏好语义校准](../papers/llm.md#chen26hc-loss-functions) · $\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization
+- [语言模型蒸馏的尾部 KL](../papers/llm.md#dasgupta26a-loss-functions) · Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget
 
 ### 计算机视觉
 
@@ -98,6 +99,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [视觉指令微调的语言偏差正则](../papers/multimodal.md#chen26bn-loss-functions) · Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation
 - [多轮音频编辑的独立加噪](../papers/multimodal.md#chen26dq-loss-functions) · AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing
 - [可变长多模态样本的公平自监督](../papers/multimodal.md#cheong26a-loss-functions) · FairSSL: Fair Multimodal Self-Supervised Learning
+- [长视频配音的掩码与快捷去噪监督](../papers/multimodal.md#dellali26a-loss-functions) · SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos
 
 ### 机器学习基础与统计
 
@@ -107,6 +109,8 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [不平衡域泛化](../papers/ml-foundations.md#cao26k-loss-functions) · Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains
 - [单步条件采样](../papers/ml-foundations.md#chatterjee26a-loss-functions) · One-shot Conditional Sampling: MMD meets Nearest Neighbors
 - [密度加权的分位数回归](../papers/ml-foundations.md#chen26bm-loss-functions) · Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction
+- [专家失衡下的代价敏感路由](../papers/ml-foundations.md#cortes26b-loss-functions) · Optimized Deferral for Imbalanced Settings
+- [极少正标签下的 PU 风险正则](../papers/ml-foundations.md#dai26f-loss-functions) · Positive-Unlabeled Learning with Extreme Scarcity of Labeled Positives
 
 ### 图学习与推荐
 

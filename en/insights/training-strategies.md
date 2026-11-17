@@ -30,6 +30,7 @@ Training schedules, curricula, and task or stage composition.
 - [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../../papers/llm.md#chen26gc-training-strategies) · 中文
 - [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](../../papers/llm.md#cheng26o-training-strategies) · 中文
 - [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](../../papers/llm.md#choi26g-training-strategies) · 中文
+- [Transport and Merge: Cross-Architecture Merging for Large Language Models](../../papers/llm.md#cui26j-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -41,6 +42,7 @@ Training schedules, curricula, and task or stage composition.
 - [3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification](../../papers/computer-vision.md#chen26dm-training-strategies) · 中文
 - [Context Forcing: Consistent Autoregressive Video Generation with Long Context](../../papers/computer-vision.md#chen26eu-training-strategies) · 中文
 - [End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer](../../papers/computer-vision.md#chu26b-training-strategies) · 中文
+- [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](../../papers/computer-vision.md#cui26g-training-strategies) · 中文
 
 ### Robotics
 
@@ -77,6 +79,9 @@ Training schedules, curricula, and task or stage composition.
 - [Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merging](../../papers/ml-foundations.md#chen26gq-training-strategies) · 中文
 - [Rethinking the Flow-based Gradual Domain Adaptation: A Semi-Dual Optimal Transport Perspective](../../papers/ml-foundations.md#chen26hd-training-strategies) · 中文
 - [Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning](../../papers/ml-foundations.md#cheng26g-training-strategies) · 中文
+- [Active Continual Learning with Metaplastic Binary Bayesian Neural Networks](../../papers/ml-foundations.md#cottart26a-training-strategies) · 中文
+- [Learn from A Rationalist: Distilling Intermediate Interpretable Rationales](../../papers/ml-foundations.md#dai26e-training-strategies) · 中文
+- [Avoid What You Know: Divergent Trajectory Balance for GFlowNets](../../papers/ml-foundations.md#dall-antonia26a-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 

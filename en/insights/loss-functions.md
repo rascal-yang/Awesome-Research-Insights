@@ -69,6 +69,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [$φ$-Balancing for Mixture-of-Experts Training](../../papers/llm.md#chen26br-loss-functions) · 中文
 - [Discrete Tilt Matching](../../papers/llm.md#chen26el-loss-functions) · 中文
 - [$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](../../papers/llm.md#chen26hc-loss-functions) · 中文
+- [Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget](../../papers/llm.md#dasgupta26a-loss-functions) · 中文
 
 ### Computer Vision
 
@@ -96,6 +97,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation](../../papers/multimodal.md#chen26bn-loss-functions) · 中文
 - [AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing](../../papers/multimodal.md#chen26dq-loss-functions) · 中文
 - [FairSSL: Fair Multimodal Self-Supervised Learning](../../papers/multimodal.md#cheong26a-loss-functions) · 中文
+- [SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](../../papers/multimodal.md#dellali26a-loss-functions) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -105,6 +107,8 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](../../papers/ml-foundations.md#cao26k-loss-functions) · 中文
 - [One-shot Conditional Sampling: MMD meets Nearest Neighbors](../../papers/ml-foundations.md#chatterjee26a-loss-functions) · 中文
 - [Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction](../../papers/ml-foundations.md#chen26bm-loss-functions) · 中文
+- [Optimized Deferral for Imbalanced Settings](../../papers/ml-foundations.md#cortes26b-loss-functions) · 中文
+- [Positive-Unlabeled Learning with Extreme Scarcity of Labeled Positives](../../papers/ml-foundations.md#dai26f-loss-functions) · 中文
 
 ### Graph Learning and Recommendation
 

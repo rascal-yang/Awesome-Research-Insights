@@ -24,6 +24,8 @@
 - [动态点云的参考与残差表征](../papers/computer-vision.md#chen26ee-representation-learning) · DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds
 - [异构视觉表征的聚类共识](../papers/computer-vision.md#chen26ek-representation-learning) · Multiview Self-Representation Learning across Heterogeneous Views
 - [复数表征的分布外识别](../papers/computer-vision.md#chen26fh-representation-learning) · TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification
+- [概率门控的非负对比表征](../papers/computer-vision.md#cui26k-representation-learning) · Bayesian Gated Non-Negative Contrastive Learning
+- [基元场重写局部视觉 token](../papers/computer-vision.md#dai26b-representation-learning) · Identifying Latent Concepts and Structures for Generalized Category Discovery
 
 ### 自然语言处理
 
@@ -62,6 +64,7 @@
 - [跨模态生成式推荐](../papers/graph-and-recommendation.md#chen26ak-representation-learning) · SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation
 - [图节点边界的自适应对比更新](../papers/graph-and-recommendation.md#chen26fu-representation-learning) · Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement
 - [短随机游走拼接图特征](../papers/graph-and-recommendation.md#choromanski26a-representation-learning) · Computationally-efficient Graph Modeling with Refined Graph Random Features
+- [有向图的参数化幂迭代聚类](../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) · Parametrized Power-Iteration Clustering for Directed Graphs
 
 ### 科学机器学习
 

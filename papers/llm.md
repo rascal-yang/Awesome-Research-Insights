@@ -17,6 +17,8 @@
 | <a id="bui26b-architecture"></a>[HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](https://proceedings.mlr.press/v306/bui26b.html) | 长任务 Agent 协作 | 调度器先分配子任务资源，再让执行器并行规划；共享约束经事务检查，无法满足子目标时执行器可拒绝并触发重规划。 |
 | <a id="chen26r-architecture"></a>[MARS: Modular Agent with Reflective Search for Automated AI Research](https://proceedings.mlr.press/v306/chen26r.html) | 科研 Agent 搜索 | 用有预算约束的树搜索分配昂贵训练评估，先把方案拆成模块再实现，并从不同搜索分支的结果差异提取可以复用的经验。 |
 | <a id="chen26cg-architecture"></a>[LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining](https://proceedings.mlr.press/v306/chen26cg.html) | 局部注意力与参数化记忆 | 在解码器中用分组卷积为各注意力头融合邻近词元，再用压缩的键值表征查询独立的可训练键值记忆，使局部模式建模和序列外知识检索各有专门通路。 |
+| <a id="cui26c-architecture"></a>[Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism](https://proceedings.mlr.press/v306/cui26c.html) | 混合专家的按头并行 | 先把每个词元投影并切成子词元，在路由之前按头做一次固定分布的全互换，再在各卡本地运行每个头的路由器和专家。通信量由头分片确定，避免随每个词元激活的专家数增长。 |
+| <a id="dai26g-architecture"></a>[Context-level Language Modeling by Learning Predictive Context Embeddings](https://proceedings.mlr.press/v306/dai26g.html) | 预测分块上下文辅助逐词解码 | 把已完成块的 token 隐状态汇聚成上下文向量，因果地预测下一块向量并广播给该块的 token 解码器。损失仍是逐 token 交叉熵，块内各位置的梯度共同监督上下文预测，推理时只在块边界更新预测向量。 |
 
 <a id="by-modules"></a>
 
@@ -45,6 +47,7 @@
 | <a id="chen26br-loss-functions"></a>[$φ$-Balancing for Mixture-of-Experts Training](https://proceedings.mlr.press/v306/chen26br.html) | MoE 软路由负载均衡 | 对各专家的软路由概率维护指数移动平均，用全局凸均衡势函数在该均值处的梯度作为专家代价。计算辅助损失时停止代价的梯度，只对当前批次的路由概率反传，降低硬分派统计带来的波动。 |
 | <a id="chen26el-loss-functions"></a>[Discrete Tilt Matching](https://proceedings.mlr.press/v306/chen26el.html) | 离散扩散的奖励倾斜匹配 | 从基础掩码扩散模型采样完整序列，按终局奖励的指数给去掩码交叉熵加权，并用基础模型的去掩码分布构造控制变量。该目标在加权条件均值保持不变时匹配奖励倾斜后的后验，无需求序列边际似然。 |
 | <a id="chen26hc-loss-functions"></a>[$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](https://proceedings.mlr.press/v306/chen26hc.html) | 自博弈偏好语义校准 | 依据偏好对中两条回答的语义相似度，将裁判给出的胜率目标向 0.5 收缩。回答越接近，越少用其表面胜负作为学习信号，以减轻自博弈反复放大噪声偏好的问题。 |
+| <a id="dasgupta26a-loss-functions"></a>[Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget](https://proceedings.mlr.press/v306/dasgupta26a.html) | 语言模型蒸馏的尾部 KL | 按教师概率排名将前 K 个词元与尾部分开，对尾部重新归一化后单独计算 KL，使低概率词元的相对分布在蒸馏梯度中仍有影响。 |
 
 <a id="by-optimization"></a>
 
@@ -98,6 +101,8 @@
 | <a id="chen26gp-reinforcement-learning"></a>[DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gp.html) | 多智能体检索的角色信用分配 | 为规划、筛证和回答三个角色分别给过程反馈，再与团队答案得分合成训练奖励。评分时仅在共享记忆已包含必要证据的情况下惩罚回答者的推理错误，从而区分检索失败和推理失败。 |
 | <a id="cheng26e-reinforcement-learning"></a>[Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](https://proceedings.mlr.press/v306/cheng26e.html) | 智能体轨迹的图信用分配 | 将多条采样轨迹合并为状态转移图，用动作代价与后继状态到目标的最短路径距离构造奖励，再在同起点的出边之间归一化优势，使失败轨迹中的有效动作也有机会获得正信用。 |
 | <a id="choi26f-reinforcement-learning"></a>[Anchored Self-Play for Code Repair](https://proceedings.mlr.press/v306/choi26f.html) | 代码修复的锚定自博弈 | 让同一模型交替生成和修复缺陷，用单元测试验证行为，并把正确程序到缺陷程序的改动编码，并按它与近邻参考改动的相似度补充生成奖励。修复端还混入参考缺陷，缓解自博弈的缺陷分布逐步偏离实际缺陷。 |
+| <a id="cui26i-reinforcement-learning"></a>[Less Is More: Elevating RAG via Performance-Driven Context Compression](https://proceedings.mlr.press/v306/cui26i.html) | 按问答效果训练上下文压缩 | 先用教师摘要初始化压缩器，再对同一问题与检索文档生成多条短摘要。用冻结的回答模型逐条作答，以答案完全匹配和 token 级 F1 给摘要打分，由 GRPO 更新压缩器。 |
+| <a id="dauncey26a-reinforcement-learning"></a>[You Can Learn Tokenization End-to-End with Reinforcement Learning](https://proceedings.mlr.press/v306/dauncey26a.html) | 端到端词元边界学习 | 把每个字节位置是否切分作为伯努利动作。从后续预测的对数似然中减去浅层字节预测基线，再对未来收益做时间折扣，降低训练离散切分策略时的梯度方差。 |
 
 <a id="by-training-strategies"></a>
 
@@ -126,6 +131,7 @@
 | <a id="chen26gc-training-strategies"></a>[Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](https://proceedings.mlr.press/v306/chen26gc.html) | 代码风险节点的树式自对弈 | 在安全代码标注的风险位置截取同一前缀，让上一轮模型从此处分支生成续写，再把安全原路径与该分支组成偏好对。这样可把训练反馈集中在可能引入漏洞的局部决策处。 |
 | <a id="cheng26o-training-strategies"></a>[PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](https://proceedings.mlr.press/v306/cheng26o.html) | 多智能体的隐私偏好构造 | 把任务完成和隐私合规的评分从对话末端向前传播，用各层阈值对同一输入下的候选回复分组，再构造成对数据做 DPO。这样可让中间智能体按自身动作的下游泄露后果学习。 |
 | <a id="choi26g-training-strategies"></a>[Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](https://proceedings.mlr.press/v306/choi26g.html) | 按梯度冲突拆分指令微调 | 对各数据集的梯度余弦相似度做 PCA，沿主要冲突方向以样本量加权中位数分组。各组从同一模型独立微调，最后按训练 token 数加权平均各组权重，训练期间无需组间同步。 |
+| <a id="cui26j-training-strategies"></a>[Transport and Merge: Cross-Architecture Merging for Large Language Models](https://proceedings.mlr.press/v306/cui26j.html) | 跨架构模型的激活对齐合并 | 让源模型和目标模型处理同一小批文本，以 1 减去激活通道间的 Pearson 相关系数为代价求熵正则最优传输。用得到的层和通道对齐把源权重映射到目标坐标，只对校准样本上高激活的部分神经元做融合。 |
 
 <a id="by-data-strategies"></a>
 
@@ -200,6 +206,13 @@
 | <a id="choudhary26b-inference"></a>[Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG](https://proceedings.mlr.press/v306/choudhary26b.html) | RAG 段落注意力方差过滤 | 对检索集合计算各段落的归一化注意力分数。分数方差超阈值时，迭代删除得分最高的段落并重新估计，直到方差回落或达到删除预算，以减轻少量投毒段落对生成的支配。 |
 | <a id="chrabaszcz26a-inference"></a>[Efficient LLM Moderation with Multi-Layer Latent Prototypes](https://proceedings.mlr.press/v306/chrabaszcz26a.html) | 多层原型输入审核 | 在语言模型各层的最后一个输入词元表征上，用类别均值和共享协方差建立有害输入分类器，再用带 L1 正则的权重融合各层预测，复用模型本身的中间激活来审查输入。 |
 | <a id="chung26c-inference"></a>[Many-Shot CoT-ICL: Making In-Context Learning Truly Learn](https://proceedings.mlr.press/v306/chung26c.html) | 长上下文思维链示例排序 | 将每条示例的问题、推理过程与答案共同嵌入，把示例顺序看作嵌入空间中的路径，再按曲率减少相邻推理模式的突变。论文在部分多示例数学任务上观察到准确率提升。 |
+| <a id="cotnareanu26a-inference"></a>[Abductive Reasoning with Probabilistic Commonsense](https://proceedings.mlr.press/v306/cotnareanu26a.html) | 概率常识溯因推理 | 用语言模型按条件分布逐步采样常识假设，让形式求解器检查这些假设是否已足以判断命题。一旦能判定便停止采样，再汇总多次采样所得结论，以反映常识判断在人群中的差异。 |
+| <a id="dadkhahi26a-inference"></a>[Distribution-Calibrated Inference Time Compute for Thinking LLM-as-a-Judge](https://proceedings.mlr.press/v306/dadkhahi26a.html) | 含平局偏好的分布校准聚合 | 多次独立询问评委，用平滑胜负票数的对数比表示偏好方向，用平局占比估计平局证据。由校准后的 Bradley–Terry–Davidson 模型估计胜、负、平三类概率，再按绝对误差最小的规则作答。 |
+| <a id="dang26c-inference"></a>[Mitigating Bias in Locally Constrained Decoding via Tractable Proposals](https://proceedings.mlr.press/v306/dang26c.html) | 全局约束的序贯蒙特卡洛解码 | 把有限自动机张量化并与隐马尔可夫模型做乘积，用可满足约束的后续概率引导下一词元提议和粒子重加权，减少单纯屏蔽眼前非法词元带来的全序列采样偏差。 |
+| <a id="datta26b-inference"></a>[ManifoldKV: Training-Free KV Cache Compression via Euclidean Outlier Detection](https://proceedings.mlr.press/v306/datta26b.html) | KV 缓存的窗口离群保留 | 按键向量离质心的欧氏距离保留离群词元，使筛选同时利用方向和模长。对超长上下文按窗口计算局部质心，再统一排序，可减轻全局质心混合多个主题后区分力下降的问题。 |
+| <a id="davidov26a-inference"></a>[Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](https://proceedings.mlr.press/v306/davidov26a.html) | 推理生成中的动态弃答 | 用完整推理轨迹的最终正确性监督各个前缀的轻量价值估计器。生成时若当前前缀的估计价值低于弃答回报就停止，并通过调节弃答回报权衡继续计算和选答准确率。 |
+| <a id="davoodi26a-inference"></a>[Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models](https://proceedings.mlr.press/v306/davoodi26a.html) | 词元几何感知的截断解码 | 按词嵌入距离计算截断分布偏离原分布的 Wasserstein 代价，同时计入保留概率质量和熵。固定传输势时，最优集合为单个词元或某个排序前缀，可用线性扫描选择候选集合。 |
+| <a id="demir26a-inference"></a>[Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions](https://proceedings.mlr.press/v306/demir26a.html) | 用注意力温度缓解上下文分布偏移 | 在高维线性回归的近似 softmax 模型中，用注意力原始分数的矩确定最小化预测误差的温度。论文把这一关系用于噪声示例下的语言模型测试，并观察到调整温度能改善上下文问答。 |
 
 <a id="by-representation-learning"></a>
 
@@ -284,6 +297,9 @@
 | <a id="cho26g-evaluation"></a>[Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms](https://proceedings.mlr.press/v306/cho26g.html) | 续写分布的语义与机制聚类 | 对同一前缀采样多条续写，为每条续写同时保留语义向量和机制向量。机制向量沿续写位置平均前缀稀疏特征对 logits 的归因，再用率失真目标联合聚类，可识别语义相近但依赖不同内部特征的生成模式。 |
 | <a id="choi26n-evaluation"></a>[Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory](https://proceedings.mlr.press/v306/choi26n.html) | 语言模型评委的潜在质量诊断 | 用项目反应理论的分级反应模型从有序评分估计样本潜在质量，先用提示变体间的稳定性与后验估计可靠性诊断评委，再以质量跨度及 Wasserstein 距离检查通过前一阶段的评委与人类判断的一致性。 |
 | <a id="chong26b-evaluation"></a>[Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation](https://proceedings.mlr.press/v306/chong26b.html) | 冻结演化轨迹的反馈归因 | 在同一代冻结 CUDA 程序状态与参考信息，只改变提供给规划器的反馈项组合，并固定提示、解码和执行评测。比较组合对编译、正确性及加速的影响，可估计各反馈项及其交互在当前决策点的贡献。 |
+| <a id="cunningham26a-evaluation"></a>[Contribution Weights: A Geometrical Analysis of Self-Attention Transformers](https://proceedings.mlr.press/v306/cunningham26a.html) | 注意力输出的有符号贡献 | 计算每个 token 的加权 value 向量与总输出的内积，再除以总输出的平方范数。各贡献系数之和为一，负值表示该 token 的分量抵消了部分输出方向上的信号。 |
+| <a id="dai26d-evaluation"></a>[Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data](https://proceedings.mlr.press/v306/dai26d.html) | 社会影响信号的在线序贯监测 | 在帖子数据流上同时监控特定特征频率与当前特征化的误差。用任意时点有效的序贯检验控制持续查看的假警报概率，误差明显上升时重新学习特征，而单个特征显著变化时单独预警。 |
+| <a id="dai26k-evaluation"></a>[When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression](https://proceedings.mlr.press/v306/dai26k.html) | 图路径诊断推理幻觉 | 在合成关系图上分开测试带上下文和无上下文推理，可追踪两种错误机制。训练较早时，模型会复用记忆路径而违背题内关系，较晚时则可能把常见多跳路径压成并不存在的直连边。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -301,4 +317,5 @@
 | <a id="chen26cs-theory-statistics"></a>[Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression](https://proceedings.mlr.press/v306/chen26cs.html) | 测试时采样与上下文回归 | 在只有一条无噪声上下文样本和一个非零系数的稀疏线性回归模型里，分析表明，延长随机解码并对采样路径做多数投票，可提高恢复真实系数的概率，缓解贪心解码受限于单一路径的问题。 |
 | <a id="cohen26e-theory-statistics"></a>[Barriers to Counterfactual Credit Attribution for Autoregressive Models](https://proceedings.mlr.press/v306/cohen26e.html) | 自回归生成的反事实来源归因界限 | 以部署时数据库记录被删去后的输出变化定义归因条件。论文构造表明逐 token 满足该条件未必能保证整段生成也满足，给定黑盒预测器时，事后补上归因的最坏查询成本可随生成长度指数增长。 |
 | <a id="collina26a-theory-statistics"></a>[Emergent Alignment via Competition](https://proceedings.mlr.press/v306/collina26a.html) | 多智能体竞争下的凸包对齐条件 | 在多领导者 Stackelberg 模型中，若用户效用近似落在多个智能体效用的凸包内，竞争能够在论文规定的互动条件下实现近最优效用。仿真显示，凸包近似条件失效时收益也可能消失。 |
+| <a id="das26c-theory-statistics"></a>[Innovation: An Almost Characterization of Hallucination](https://proceedings.mlr.press/v306/das26c.html) | 未见输出概率与幻觉下界 | 用模型分给训练集中未出现结果的概率质量度量创新。在论文对真实事实稀疏性和规律性的假设下，正的创新概率质量意味着模型以高后验概率给某些虚假结果分配正概率。 |
 <!-- classification:end -->

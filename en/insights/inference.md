@@ -55,6 +55,13 @@ Decoding, test-time adaptation, and efficient execution.
 - [Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG](../../papers/llm.md#choudhary26b-inference) · 中文
 - [Efficient LLM Moderation with Multi-Layer Latent Prototypes](../../papers/llm.md#chrabaszcz26a-inference) · 中文
 - [Many-Shot CoT-ICL: Making In-Context Learning Truly Learn](../../papers/llm.md#chung26c-inference) · 中文
+- [Abductive Reasoning with Probabilistic Commonsense](../../papers/llm.md#cotnareanu26a-inference) · 中文
+- [Distribution-Calibrated Inference Time Compute for Thinking LLM-as-a-Judge](../../papers/llm.md#dadkhahi26a-inference) · 中文
+- [Mitigating Bias in Locally Constrained Decoding via Tractable Proposals](../../papers/llm.md#dang26c-inference) · 中文
+- [ManifoldKV: Training-Free KV Cache Compression via Euclidean Outlier Detection](../../papers/llm.md#datta26b-inference) · 中文
+- [Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](../../papers/llm.md#davidov26a-inference) · 中文
+- [Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models](../../papers/llm.md#davoodi26a-inference) · 中文
+- [Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions](../../papers/llm.md#demir26a-inference) · 中文
 
 ### Computer Vision
 
@@ -78,6 +85,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective](../../papers/computer-vision.md#cho26d-inference) · 中文
 - [Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling](../../papers/computer-vision.md#choi26m-inference) · 中文
 - [RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models](../../papers/computer-vision.md#cong26a-inference) · 中文
+- [SG2Loc: Sequential Visual Localization on 3D Scene Graphs](../../papers/computer-vision.md#damblon26a-inference) · 中文
 
 ### Natural Language Processing
 
@@ -90,6 +98,7 @@ Decoding, test-time adaptation, and efficient execution.
 
 - [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](../../papers/reinforcement-learning.md#brosseit26a-inference) · 中文
 - [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](../../papers/reinforcement-learning.md#chang26a-inference) · 中文
+- [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](../../papers/reinforcement-learning.md#cui26h-inference) · 中文
 
 ### Robotics
 
@@ -120,6 +129,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Show, Don’t Tell: Morphing Latent Reasoning into Image Generation](../../papers/multimodal.md#chen26fv-inference) · 中文
 - [Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](../../papers/multimodal.md#cheng26d-inference) · 中文
 - [Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](../../papers/multimodal.md#cho26b-inference) · 中文
+- [UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing](../../papers/multimodal.md#dang26a-inference) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -145,4 +155,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](../../papers/scientific-ml.md#cao26c-inference) · 中文
 - [Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](../../papers/scientific-ml.md#chen26bu-inference) · 中文
 - [Coarse-Grained Boltzmann Generators](../../papers/scientific-ml.md#chen26gs-inference) · 中文
+- [Agentic Framework for Epidemiological Modeling](../../papers/scientific-ml.md#datta26a-inference) · 中文
+- [Generative Inverse Design with Abstention via Diagonal Flow Matching](../../papers/scientific-ml.md#de-campos26a-inference) · 中文
 <!-- classification:end -->

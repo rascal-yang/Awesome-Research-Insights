@@ -15,6 +15,7 @@
 | :--- | :--- | :--- |
 | <a id="bandyopadhyay26a-architecture"></a>[RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](https://proceedings.mlr.press/v306/bandyopadhyay26a.html) | 知识图谱多跳问答 | 用 GRU 更新查询表示，让连续相关性分数穿过与问题缺少词汇重合的桥接节点，再提取稀疏推理路径给生成器。 |
 | <a id="chen26al-architecture"></a>[OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) | 生成式电商检索 | 用关键词增强的层级量化编码表示商品，再把短期和长期用户行为送入同一个生成检索模型，统一学习相关性与个体偏好。 |
+| <a id="de-castelli26a-architecture"></a>[Adaptive Memory Retention in Dynamic Graphs](https://proceedings.mlr.press/v306/de-castelli26a.html) | 动态图的可学习信息耗散 | 在快照之间用反对称参数化的神经 ODE 传播节点信息，并在快照到达时注入观测更新。加入依节点状态调节的耗散项，可抑制噪声累积并保留跨时间的有效依赖。 |
 
 <a id="by-modules"></a>
 
@@ -96,6 +97,7 @@
 | <a id="chen26ak-representation-learning"></a>[SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | 跨模态生成式推荐 | 抑制模型过度依赖占优模态，让推荐生成器学习只有联合读取图像与文本才能辨识的商品属性。 |
 | <a id="chen26fu-representation-learning"></a>[Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | 图节点边界的自适应对比更新 | 在类别嵌入簇的边界区域选择结构混杂的节点做对比学习。先虚拟更新边界注意力层并测量全图嵌入变化，再按变化量的倒数缩放实际更新，限制少量边界样本对其他节点的扰动。 |
 | <a id="choromanski26a-representation-learning"></a>[Computationally-efficient Graph Modeling with Refined Graph Random Features](https://proceedings.mlr.press/v306/choromanski26a.html) | 短随机游走拼接图特征 | 把较长图游走的核估计拆成可并行采样的短游走，再用对应随机特征矩阵的乘积组合多段覆盖范围，在论文的构造下保留图核估计的无偏性。 |
+| <a id="debaussart-joniec26a-representation-learning"></a>[Parametrized Power-Iteration Clustering for Directed Graphs](https://proceedings.mlr.press/v306/debaussart-joniec26a.html) | 有向图的参数化幂迭代聚类 | 先构造保留方向信息的可逆随机游走算子，再用选定扩散时间下的迭代算子行作节点嵌入。自动选择扩散时间并截断嵌入，可在弱连通有向图上省去特征分解并降低聚类开销。 |
 
 <a id="by-evaluation"></a>
 

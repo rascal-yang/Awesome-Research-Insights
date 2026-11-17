@@ -30,6 +30,7 @@
 - [代码风险节点的树式自对弈](../papers/llm.md#chen26gc-training-strategies) · Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs
 - [多智能体的隐私偏好构造](../papers/llm.md#cheng26o-training-strategies) · PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training
 - [按梯度冲突拆分指令微调](../papers/llm.md#choi26g-training-strategies) · Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging
+- [跨架构模型的激活对齐合并](../papers/llm.md#cui26j-training-strategies) · Transport and Merge: Cross-Architecture Merging for Large Language Models
 
 ### 计算机视觉
 
@@ -41,6 +42,7 @@
 - [高斯泼溅的瞬态区域筛除](../papers/computer-vision.md#chen26dm-training-strategies) · 3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification
 - [长上下文视频蒸馏](../papers/computer-vision.md#chen26eu-training-strategies) · Context Forcing: Consistent Autoregressive Video Generation with Long Context
 - [图像词元化与生成联合训练](../papers/computer-vision.md#chu26b-training-strategies) · End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer
+- [稀疏软标签的硬标签校准](../papers/computer-vision.md#cui26g-training-strategies) · Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift
 
 ### 机器人学
 
@@ -77,6 +79,9 @@
 - [面向后续适配的模型合并](../papers/ml-foundations.md#chen26gq-training-strategies) · Learn to Merge: Meta-Learning for Adaptive Multi-Task Model Merging
 - [逐步域适应的半对偶传输](../papers/ml-foundations.md#chen26hd-training-strategies) · Rethinking the Flow-based Gradual Domain Adaptation: A Semi-Dual Optimal Transport Perspective
 - [多目标扩散模型的半监督蒸馏](../papers/ml-foundations.md#cheng26g-training-strategies) · Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning
+- [二值贝叶斯网络的主动持续学习](../papers/ml-foundations.md#cottart26a-training-strategies) · Active Continual Learning with Metaplastic Binary Bayesian Neural Networks
+- [选择式解释的双路蒸馏](../papers/ml-foundations.md#dai26e-training-strategies) · Learn from A Rationalist: Distilling Intermediate Interpretable Rationales
+- [GFlowNet 互补探索](../papers/ml-foundations.md#dall-antonia26a-training-strategies) · Avoid What You Know: Divergent Trajectory Balance for GFlowNets
 
 ### 图学习与推荐
 

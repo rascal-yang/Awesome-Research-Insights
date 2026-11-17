@@ -53,6 +53,15 @@ The linked short insights are available in Chinese.
 | [Threshold-Guided Optimization for Visual Generative Models](https://proceedings.mlr.press/v306/bai26c.html) | [Read insight (中文)](../../papers/computer-vision.md#bai26c-loss-functions) |
 | [Benchmarking Dense and Indiscernible Object Counting with Blueberries](https://proceedings.mlr.press/v306/bo26a.html) | [Read insight (中文)](../../papers/computer-vision.md#bo26a-loss-functions) |
 
+<a id="by-optimization"></a>
+
+### Optimization
+
+| Paper | Insight |
+| :--- | :--- |
+| [Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy](https://proceedings.mlr.press/v306/crane26a.html) | [Read insight (中文)](../../papers/computer-vision.md#crane26a-optimization) |
+| [TextMesh4D: Zero-shot Text-to-4D Mesh Generation](https://proceedings.mlr.press/v306/dai26h.html) | [Read insight (中文)](../../papers/computer-vision.md#dai26h-optimization) |
+
 <a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning Methods
@@ -78,6 +87,7 @@ The linked short insights are available in Chinese.
 | [3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification](https://proceedings.mlr.press/v306/chen26dm.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26dm-training-strategies) |
 | [Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://proceedings.mlr.press/v306/chen26eu.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26eu-training-strategies) |
 | [End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer](https://proceedings.mlr.press/v306/chu26b.html) | [Read insight (中文)](../../papers/computer-vision.md#chu26b-training-strategies) |
+| [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](https://proceedings.mlr.press/v306/cui26g.html) | [Read insight (中文)](../../papers/computer-vision.md#cui26g-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -89,6 +99,7 @@ The linked short insights are available in Chinese.
 | [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://proceedings.mlr.press/v306/cao26s.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26s-data-strategies) |
 | [When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](https://proceedings.mlr.press/v306/chen26s.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26s-data-strategies) |
 | [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](https://proceedings.mlr.press/v306/chen26bj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26bj-data-strategies) |
+| [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://proceedings.mlr.press/v306/cui26f.html) | [Read insight (中文)](../../papers/computer-vision.md#cui26f-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -116,6 +127,7 @@ The linked short insights are available in Chinese.
 | [Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective](https://proceedings.mlr.press/v306/cho26d.html) | [Read insight (中文)](../../papers/computer-vision.md#cho26d-inference) |
 | [Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling](https://proceedings.mlr.press/v306/choi26m.html) | [Read insight (中文)](../../papers/computer-vision.md#choi26m-inference) |
 | [RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models](https://proceedings.mlr.press/v306/cong26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cong26a-inference) |
+| [SG2Loc: Sequential Visual Localization on 3D Scene Graphs](https://proceedings.mlr.press/v306/damblon26a.html) | [Read insight (中文)](../../papers/computer-vision.md#damblon26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -132,6 +144,8 @@ The linked short insights are available in Chinese.
 | [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](https://proceedings.mlr.press/v306/chen26ee.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ee-representation-learning) |
 | [Multiview Self-Representation Learning across Heterogeneous Views](https://proceedings.mlr.press/v306/chen26ek.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ek-representation-learning) |
 | [TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification](https://proceedings.mlr.press/v306/chen26fh.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26fh-representation-learning) |
+| [Bayesian Gated Non-Negative Contrastive Learning](https://proceedings.mlr.press/v306/cui26k.html) | [Read insight (中文)](../../papers/computer-vision.md#cui26k-representation-learning) |
+| [Identifying Latent Concepts and Structures for Generalized Category Discovery](https://proceedings.mlr.press/v306/dai26b.html) | [Read insight (中文)](../../papers/computer-vision.md#dai26b-representation-learning) |
 
 <a id="by-evaluation"></a>
 

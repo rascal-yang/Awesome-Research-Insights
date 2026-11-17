@@ -19,6 +19,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression](../../papers/llm.md#chen26cs-theory-statistics) · 中文
 - [Barriers to Counterfactual Credit Attribution for Autoregressive Models](../../papers/llm.md#cohen26e-theory-statistics) · 中文
 - [Emergent Alignment via Competition](../../papers/llm.md#collina26a-theory-statistics) · 中文
+- [Innovation: An Almost Characterization of Hallucination](../../papers/llm.md#das26c-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -55,6 +56,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 ### Multimodal Learning
 
 - [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](../../papers/multimodal.md#cai26o-theory-statistics) · 中文
+- [Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](../../papers/multimodal.md#delattre26a-theory-statistics) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -146,6 +148,24 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Improved Distribution Estimation in $\ell_∞$](../../papers/ml-foundations.md#cohen26c-theory-statistics) · 中文
 - [Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles](../../papers/ml-foundations.md#conrad26a-theory-statistics) · 中文
 - [Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](../../papers/ml-foundations.md#cooper26a-theory-statistics) · 中文
+- [A Theoretical Framework for Modular Learning of Robust Generative Models](../../papers/ml-foundations.md#cortes26c-theory-statistics) · 中文
+- [Extending Prediction-Powered Inference through Conformal Prediction](../../papers/ml-foundations.md#csillag26a-theory-statistics) · 中文
+- [Ski Rental with Distributional Predictions of Unknown Quality](../../papers/ml-foundations.md#cui26a-theory-statistics) · 中文
+- [A General Framework for Fair and Robust Regression](../../papers/ml-foundations.md#cui26d-theory-statistics) · 中文
+- [Asymptotic Theory of Iterated Empirical Risk Minimization, with Applications to Active Learning](../../papers/ml-foundations.md#cui26e-theory-statistics) · 中文
+- [Deep Single-Index Fréchet Regression](../../papers/ml-foundations.md#cui26l-theory-statistics) · 中文
+- [Optimal Regularization for Performative Learning](../../papers/ml-foundations.md#cyffers26a-theory-statistics) · 中文
+- [Induction Heads Interpolate N-Grams](../../papers/ml-foundations.md#d-angelo26a-theory-statistics) · 中文
+- [Causal Modeling of Selection in Evolution](../../papers/ml-foundations.md#dai26i-theory-statistics) · 中文
+- [Explaining Data Mixing Scaling Laws](../../papers/ml-foundations.md#dai26l-theory-statistics) · 中文
+- [Interventional Processes For Causal Uncertainty Quantification](../../papers/ml-foundations.md#dance26a-theory-statistics) · 中文
+- [Optimal Unconstrained Self-Distillation in Ridge Regression: Strict Improvements, Precise Asymptotics, and One-Shot Tuning](../../papers/ml-foundations.md#dang26b-theory-statistics) · 中文
+- [Deep Networks Learn Deep Hierarchical Models](../../papers/ml-foundations.md#daniely26a-theory-statistics) · 中文
+- [Sharp Concentration Bounds for Bundle-Valued Statistics on Manifolds](../../papers/ml-foundations.md#das26b-theory-statistics) · 中文
+- [On the Expressive Power of Permutation-Equivariant Weight-Space Networks](../../papers/ml-foundations.md#dayan26a-theory-statistics) · 中文
+- [Beyond First-order Asymptotics in Sequential Mean Testing](../../papers/ml-foundations.md#deep26a-theory-statistics) · 中文
+- [A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models](../../papers/ml-foundations.md#defilippis26a-theory-statistics) · 中文
+- [Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing](../../papers/ml-foundations.md#della-vecchia26a-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 

@@ -30,6 +30,7 @@
 - [合成图检测](../papers/computer-vision.md#cao26s-data-strategies) · Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection
 - [生成偏好数据](../papers/computer-vision.md#chen26s-data-strategies) · When Preference Labels Fall Short: Aligning Diffusion Models from Real Data
 - [跨域遮挡分割数据](../papers/computer-vision.md#chen26bj-data-strategies) · Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer
+- [扩散训练子集的单边部分传输](../papers/computer-vision.md#cui26f-data-strategies) · Geometry-Aware Dataset Condensation for Diffusion Model Training
 
 ### 自然语言处理
 
@@ -76,4 +77,6 @@
 
 - [生存分析合成数据](../papers/scientific-ml.md#brockschmidt26a-data-strategies) · SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis
 - [过程奖励数据筛选](../papers/scientific-ml.md#chan26a-data-strategies) · DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning
+- [物理仿真的流式快照压缩](../papers/scientific-ml.md#cranganore26a-data-strategies) · ANTiC: Adaptive Neural Temporal In Situ Compressor
+- [单细胞训练的块采样与批量预取](../papers/scientific-ml.md#d-ascenzo26a-data-strategies) · scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics
 <!-- classification:end -->

@@ -19,6 +19,8 @@ The linked short insights are available in Chinese.
 | [HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](https://proceedings.mlr.press/v306/bui26b.html) | [Read insight (中文)](../../papers/llm.md#bui26b-architecture) |
 | [MARS: Modular Agent with Reflective Search for Automated AI Research](https://proceedings.mlr.press/v306/chen26r.html) | [Read insight (中文)](../../papers/llm.md#chen26r-architecture) |
 | [LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining](https://proceedings.mlr.press/v306/chen26cg.html) | [Read insight (中文)](../../papers/llm.md#chen26cg-architecture) |
+| [Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism](https://proceedings.mlr.press/v306/cui26c.html) | [Read insight (中文)](../../papers/llm.md#cui26c-architecture) |
+| [Context-level Language Modeling by Learning Predictive Context Embeddings](https://proceedings.mlr.press/v306/dai26g.html) | [Read insight (中文)](../../papers/llm.md#dai26g-architecture) |
 
 <a id="by-modules"></a>
 
@@ -47,6 +49,7 @@ The linked short insights are available in Chinese.
 | [$φ$-Balancing for Mixture-of-Experts Training](https://proceedings.mlr.press/v306/chen26br.html) | [Read insight (中文)](../../papers/llm.md#chen26br-loss-functions) |
 | [Discrete Tilt Matching](https://proceedings.mlr.press/v306/chen26el.html) | [Read insight (中文)](../../papers/llm.md#chen26el-loss-functions) |
 | [$\textitS$-SPPO: Semantic-Calibrated Self-Play Preference Optimization](https://proceedings.mlr.press/v306/chen26hc.html) | [Read insight (中文)](../../papers/llm.md#chen26hc-loss-functions) |
+| [Don’t Ignore the Tail: Decoupled Distillation Produces Top Maths Students on an Academic Budget](https://proceedings.mlr.press/v306/dasgupta26a.html) | [Read insight (中文)](../../papers/llm.md#dasgupta26a-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -100,6 +103,8 @@ The linked short insights are available in Chinese.
 | [DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gp.html) | [Read insight (中文)](../../papers/llm.md#chen26gp-reinforcement-learning) |
 | [Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](https://proceedings.mlr.press/v306/cheng26e.html) | [Read insight (中文)](../../papers/llm.md#cheng26e-reinforcement-learning) |
 | [Anchored Self-Play for Code Repair](https://proceedings.mlr.press/v306/choi26f.html) | [Read insight (中文)](../../papers/llm.md#choi26f-reinforcement-learning) |
+| [Less Is More: Elevating RAG via Performance-Driven Context Compression](https://proceedings.mlr.press/v306/cui26i.html) | [Read insight (中文)](../../papers/llm.md#cui26i-reinforcement-learning) |
+| [You Can Learn Tokenization End-to-End with Reinforcement Learning](https://proceedings.mlr.press/v306/dauncey26a.html) | [Read insight (中文)](../../papers/llm.md#dauncey26a-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -128,6 +133,7 @@ The linked short insights are available in Chinese.
 | [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](https://proceedings.mlr.press/v306/chen26gc.html) | [Read insight (中文)](../../papers/llm.md#chen26gc-training-strategies) |
 | [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](https://proceedings.mlr.press/v306/cheng26o.html) | [Read insight (中文)](../../papers/llm.md#cheng26o-training-strategies) |
 | [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](https://proceedings.mlr.press/v306/choi26g.html) | [Read insight (中文)](../../papers/llm.md#choi26g-training-strategies) |
+| [Transport and Merge: Cross-Architecture Merging for Large Language Models](https://proceedings.mlr.press/v306/cui26j.html) | [Read insight (中文)](../../papers/llm.md#cui26j-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -202,6 +208,13 @@ The linked short insights are available in Chinese.
 | [Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG](https://proceedings.mlr.press/v306/choudhary26b.html) | [Read insight (中文)](../../papers/llm.md#choudhary26b-inference) |
 | [Efficient LLM Moderation with Multi-Layer Latent Prototypes](https://proceedings.mlr.press/v306/chrabaszcz26a.html) | [Read insight (中文)](../../papers/llm.md#chrabaszcz26a-inference) |
 | [Many-Shot CoT-ICL: Making In-Context Learning Truly Learn](https://proceedings.mlr.press/v306/chung26c.html) | [Read insight (中文)](../../papers/llm.md#chung26c-inference) |
+| [Abductive Reasoning with Probabilistic Commonsense](https://proceedings.mlr.press/v306/cotnareanu26a.html) | [Read insight (中文)](../../papers/llm.md#cotnareanu26a-inference) |
+| [Distribution-Calibrated Inference Time Compute for Thinking LLM-as-a-Judge](https://proceedings.mlr.press/v306/dadkhahi26a.html) | [Read insight (中文)](../../papers/llm.md#dadkhahi26a-inference) |
+| [Mitigating Bias in Locally Constrained Decoding via Tractable Proposals](https://proceedings.mlr.press/v306/dang26c.html) | [Read insight (中文)](../../papers/llm.md#dang26c-inference) |
+| [ManifoldKV: Training-Free KV Cache Compression via Euclidean Outlier Detection](https://proceedings.mlr.press/v306/datta26b.html) | [Read insight (中文)](../../papers/llm.md#datta26b-inference) |
+| [Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](https://proceedings.mlr.press/v306/davidov26a.html) | [Read insight (中文)](../../papers/llm.md#davidov26a-inference) |
+| [Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models](https://proceedings.mlr.press/v306/davoodi26a.html) | [Read insight (中文)](../../papers/llm.md#davoodi26a-inference) |
+| [Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions](https://proceedings.mlr.press/v306/demir26a.html) | [Read insight (中文)](../../papers/llm.md#demir26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -286,6 +299,9 @@ The linked short insights are available in Chinese.
 | [Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms](https://proceedings.mlr.press/v306/cho26g.html) | [Read insight (中文)](../../papers/llm.md#cho26g-evaluation) |
 | [Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory](https://proceedings.mlr.press/v306/choi26n.html) | [Read insight (中文)](../../papers/llm.md#choi26n-evaluation) |
 | [Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation](https://proceedings.mlr.press/v306/chong26b.html) | [Read insight (中文)](../../papers/llm.md#chong26b-evaluation) |
+| [Contribution Weights: A Geometrical Analysis of Self-Attention Transformers](https://proceedings.mlr.press/v306/cunningham26a.html) | [Read insight (中文)](../../papers/llm.md#cunningham26a-evaluation) |
+| [Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data](https://proceedings.mlr.press/v306/dai26d.html) | [Read insight (中文)](../../papers/llm.md#dai26d-evaluation) |
+| [When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression](https://proceedings.mlr.press/v306/dai26k.html) | [Read insight (中文)](../../papers/llm.md#dai26k-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
@@ -303,4 +319,5 @@ The linked short insights are available in Chinese.
 | [Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression](https://proceedings.mlr.press/v306/chen26cs.html) | [Read insight (中文)](../../papers/llm.md#chen26cs-theory-statistics) |
 | [Barriers to Counterfactual Credit Attribution for Autoregressive Models](https://proceedings.mlr.press/v306/cohen26e.html) | [Read insight (中文)](../../papers/llm.md#cohen26e-theory-statistics) |
 | [Emergent Alignment via Competition](https://proceedings.mlr.press/v306/collina26a.html) | [Read insight (中文)](../../papers/llm.md#collina26a-theory-statistics) |
+| [Innovation: An Almost Characterization of Hallucination](https://proceedings.mlr.press/v306/das26c.html) | [Read insight (中文)](../../papers/llm.md#das26c-theory-statistics) |
 <!-- classification:end -->

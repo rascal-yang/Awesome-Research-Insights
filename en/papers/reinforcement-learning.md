@@ -38,6 +38,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Fast Mixing Steady-State Control in Markov Decision Processes](https://proceedings.mlr.press/v306/corso26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#corso26a-optimization) |
+| [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](https://proceedings.mlr.press/v306/dam26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#dam26a-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -72,6 +73,9 @@ The linked short insights are available in Chinese.
 | [Value Aggregation with Uncertainty in Online Decentralized MARL](https://proceedings.mlr.press/v306/chu26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chu26a-reinforcement-learning) |
 | [Balancing Plasticity and Stability with Fast and Slow Successor Features](https://proceedings.mlr.press/v306/chua26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chua26a-reinforcement-learning) |
 | [Offline Reinforcement Learning with Universal Horizon Models](https://proceedings.mlr.press/v306/chung26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chung26b-reinforcement-learning) |
+| [Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport](https://proceedings.mlr.press/v306/croissant26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) |
+| [SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://proceedings.mlr.press/v306/de-lara26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) |
+| [Multivariate Distributional Reinforcement Learning Using Sliced Divergences](https://proceedings.mlr.press/v306/debes26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#debes26a-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -91,6 +95,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#brosseit26a-inference) |
 | [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chang26a-inference) |
+| [DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cui26h-inference) |
 
 <a id="by-representation-learning"></a>
 

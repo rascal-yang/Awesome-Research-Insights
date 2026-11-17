@@ -30,6 +30,9 @@
 | <a id="chen26ai-architecture"></a>[From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://proceedings.mlr.press/v306/chen26ai.html) | 电子密度条件分子生成 | 用口袋内配体和溶剂的低分辨率电子密度代替刚性空口袋条件。密度可以来自计算或实验，并让自回归模型利用构象和占位信息。 |
 | <a id="chen26cu-architecture"></a>[Co-Generative De Novo Functional Protein Design](https://proceedings.mlr.press/v306/chen26cu.html) | 功能条件蛋白质共生成 | 从功能提示检索已知结构基序，经交叉注意力引导氨基酸和结构 token 同步生成，再用局部结构的功能分类作为辅助监督。这样可把抽象功能条件落实到具体的结构线索。 |
 | <a id="collart26a-architecture"></a>[Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems](https://proceedings.mlr.press/v306/collart26a.html) | 基因组性状到土壤碳动力学 | 用神经网络从宏基因组性状预测动力学参数，再经可微土壤过程模型生成碳库和 CO₂ 时间序列。以可测 CO₂ 拟合并对未观测状态和参数施加生态约束，可限制在相同排放曲线下可能出现的不合理动力学。 |
+| <a id="cretu26a-architecture"></a>[SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles](https://proceedings.mlr.press/v306/cretu26a.html) | 分子构象与合成路线的联合潜空间 | 用同一分子潜变量分别解码原子类型和三维坐标，以及序列化的反应合成路径。再以三维药效团为条件在该空间中做扩散采样，使生成结果同时附带候选结构和合成方案。 |
+| <a id="dagli26a-architecture"></a>[Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](https://proceedings.mlr.press/v306/dagli26a.html) | 机械属性场的自适应稀疏体素 | 由共享 Transformer 自粗到细处理待细分体素，让每个候选预测空置、保留或继续细分，并让子体素继承父级隐状态。保留的非空体素携带材料潜变量，可在不同分辨率下恢复杨氏模量、泊松比与密度。 |
+| <a id="dai26a-architecture"></a>[TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](https://proceedings.mlr.press/v306/dai26a.html) | 时间驱动空间网络参数 | 用小网络给空间网络各层的权重组和偏置组分别生成时间坐标，同组参数共享该坐标但各有仿射系数。由此可随时间改变整个空间映射，又省去大超网络逐项生成全部参数的成本。 |
 
 <a id="by-modules"></a>
 
@@ -41,6 +44,7 @@
 | <a id="chang26b-modules"></a>[MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](https://proceedings.mlr.press/v306/chang26b.html) | 医学视觉定位 | 在语言模型词表中引入区域代码，通过区域感知模块将代码解码成像素掩码，使语言输出能够对应到图像里的具体组织区域。 |
 | <a id="chen26bw-modules"></a>[TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](https://proceedings.mlr.press/v306/chen26bw.html) | 口袋与配体双向融合 | 将残基超图与原子级几何编码成口袋表征，让口袋与候选分子序列的特征分别作为查询做门控交叉注意力。把口袋查询得到的全局向量广播到各序列位置，再与逐位置融合结果相加以引导 SMILES 生成。 |
 | <a id="chen26fr-modules"></a>[PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](https://proceedings.mlr.press/v306/chen26fr.html) | 脑电信号的复数频谱细化 | 对脑电特征做二维傅里叶变换，用独立卷积分支处理实部和虚部，以幅值谱生成的门控同时筛选两个分支，再逆变换并与时域卷积特征融合。该设计在文中的 0.1 秒听觉注意解码实验中仍有改善。 |
+| <a id="coscia26a-modules"></a>[BLIPs: Bayesian Learned Interatomic Potentials](https://proceedings.mlr.press/v306/coscia26a.html) | 原子间势的自适应贝叶斯失活 | 在消息传递层用高斯变分后验表示权重，由边特征决定消息网络的方差尺度，由节点特征决定更新网络的方差尺度。借助局部重参数化采样，可同时估计原子体系能量、力及其不确定性。 |
 
 <a id="by-loss-functions"></a>
 
@@ -96,6 +100,8 @@
 | :--- | :--- | :--- |
 | <a id="brockschmidt26a-data-strategies"></a>[SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://proceedings.mlr.press/v306/brockschmidt26a.html) | 生存分析合成数据 | 联合生成协变量、事件时间和右删失标记，并把生存任务结构写进扩散损失，避免合成表格只拟合协变量却丢失删失机制。 |
 | <a id="chan26a-data-strategies"></a>[DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](https://proceedings.mlr.press/v306/chan26a.html) | 过程奖励数据筛选 | 同时用弱标注者之间的一致性与嵌入近邻的一致性评估逐步标签，再按可靠性采样例子并遮蔽可疑标签。 |
+| <a id="cranganore26a-data-strategies"></a>[ANTiC: Adaptive Neural Temporal In Situ Compressor](https://proceedings.mlr.press/v306/cranganore26a.html) | 物理仿真的流式快照压缩 | 仿真运行时用涡量平方积分等物理指标监测变化，以滑窗中的自适应阈值选择快照。对选中快照沿用上一帧的神经场，通过低秩参数更新编码变化，避免先落盘整段轨迹。 |
+| <a id="d-ascenzo26a-data-strategies"></a>[scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](https://proceedings.mlr.press/v306/d-ascenzo26a.html) | 单细胞训练的块采样与批量预取 | 随机抽取连续磁盘块并一次预取多个小批次的细胞，再在内存打乱和分批。块读取减少随机 I/O，跨块打乱则让单个训练批次能混合更远的磁盘位置，缓解连续读取引入的相关性。 |
 
 <a id="by-inference"></a>
 
@@ -110,6 +116,8 @@
 | <a id="cao26c-inference"></a>[Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](https://proceedings.mlr.press/v306/cao26c.html) | 蛋白结合物设计 | 联合学习不同结合环境下的序列与结构，再在推理时混合多个环境的采样路径，以搜索同一条能适配多目标或多构象的序列。 |
 | <a id="chen26bu-inference"></a>[Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](https://proceedings.mlr.press/v306/chen26bu.html) | 对接预测梯度反演 | 把训练好的可微对接模型用作生成时的评分器，对候选配体的连续坐标和特征反传预测目标的梯度，每步投影回可行集合，最后按小分子或蛋白质配体的约束解码。 |
 | <a id="chen26gs-inference"></a>[Coarse-Grained Boltzmann Generators](https://proceedings.mlr.press/v306/chen26gs.html) | 粗粒化玻尔兹曼重要性采样 | 增强采样偏置只依赖粗粒化坐标时，给定该坐标的原子构型条件分布保持不变，因此可用重新计算的无偏投影力拟合平均力势。随后用其玻尔兹曼权重与流模型密度的比值重加权，平衡统计的准确性取决于势的拟合质量。 |
+| <a id="datta26a-inference"></a>[Agentic Framework for Epidemiological Modeling](https://proceedings.mlr.press/v306/datta26a.html) | 流行病模拟器的流图验证 | 先从场景描述生成包含舱室与转移的流图，检查转移合法性以及与免疫衰减、疫苗接种等假设的一致性，再将通过验证的图编译成待校准的动力系统。 |
+| <a id="de-campos26a-inference"></a>[Generative Inverse Design with Abstention via Diagonal Flow Matching](https://proceedings.mlr.press/v306/de-campos26a.html) | 逆设计流的零锚定置信度 | 流匹配训练时让设计坐标和噪声成对，让性能标签连到零。反向生成候选时可直接用应归零的坐标残差衡量不确定性，再用正向重建目标的误差复核候选。 |
 
 <a id="by-representation-learning"></a>
 
@@ -143,6 +151,7 @@
 | <a id="chandok26a-evaluation"></a>[A Systematic Study of Behavioral Cloning for Scientific Data Annotation](https://proceedings.mlr.press/v306/chandok26a.html) | 科学标注行为克隆 | 用模拟的专家导航、纠错和验证轨迹研究标注策略，分开测界面操作与任务决策。多任务预训练可提升少样本新标注任务的微调效果。 |
 | <a id="chen26fp-evaluation"></a>[Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](https://proceedings.mlr.press/v306/chen26fp.html) | 自然感官数据的跨刺激神经预测 | 用真实环境采样训练无监督模型，再用学得的特征预测刺激诱发的皮层响应。仅用普通话训练的模型可预测英语刺激下的听觉响应，用婴儿头戴相机视频训练的模型可预测成年人观看物体图像时的视觉响应。 |
 | <a id="cheng26l-evaluation"></a>[Abstraction Induces the Brain Alignment of Language and Speech Models](https://proceedings.mlr.press/v306/cheng26l.html) | 语言与语音层表征的脑响应对齐 | 逐层测量表征内在维度并预测 fMRI 和 ECoG 信号，发现高维度的中间层通常更贴合脑响应。以脑响应为目标微调时，内在维度和可解码的语义信息也随之增加。 |
+| <a id="dan26a-evaluation"></a>[Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](https://proceedings.mlr.press/v306/dan26a.html) | 长程脑电癫痫检测的泛化评测 | 用独立留出的连续脑电记录做容器化盲测，按发作事件及每日误报计分，并单看每名受试者的排名。该测试中最高事件 F1 为 32%，总体领先的算法在受试者之间仍有较大波动。 |
 
 <a id="by-theory-statistics"></a>
 

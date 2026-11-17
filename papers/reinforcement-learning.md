@@ -38,6 +38,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="corso26a-optimization"></a>[Fast Mixing Steady-State Control in Markov Decision Processes](https://proceedings.mlr.press/v306/corso26a.html) | 目标稳态分布约束下的快速混合 | 在遍历 MDP 中对策略诱导的马尔可夫链施加目标稳态分布约束，以次大奇异值构造混合速度的凸替代目标。对表格 MDP，还可从离线数据估计转移，并分析估计误差对所得策略的影响。 |
+| <a id="dam26a-optimization"></a>[Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](https://proceedings.mlr.press/v306/dam26a.html) | 二阶平滑 Bellman 规划 | 用动作分布上的最优传输平滑构造具有 Lipschitz Hessian 的 Bellman 更新，再以独立估计的交叉乘积无偏估计二阶修正。在固定平滑参数下，误差 ε 的模拟器调用复杂度降至 ε⁻³ 量级，忽略对数因子。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -72,6 +73,9 @@
 | <a id="chu26a-reinforcement-learning"></a>[Value Aggregation with Uncertainty in Online Decentralized MARL](https://proceedings.mlr.press/v306/chu26a.html) | 去中心化 Q 值的不确定性聚合 | 按各智能体两次同步之间对每个状态动作对的访问次数决定聚合权重。访问更充分的估计可获得超过 1 的系数，较不确定的邻居项允许取负，以补偿普通凸平均引起的学习回退。 |
 | <a id="chua26a-reinforcement-learning"></a>[Balancing Plasticity and Stability with Fast and Slow Successor Features](https://proceedings.mlr.press/v306/chua26a.html) | 持续漂移下的多时间尺度巩固 | 将巩固机制施加在后继特征上，使快速分量通过新经验更新，较慢分量通过多个时间尺度保留历史。在持续漂移的 MiniWorld 和 MuJoCo 实验里，这比直接巩固 Q 值更有效。 |
 | <a id="chung26b-reinforcement-learning"></a>[Offline Reinforcement Learning with Universal Horizon Models](https://proceedings.mlr.press/v306/chung26b.html) | 任意步长的离线强化学习模型 | 以期望预见步数为条件直接预测未来状态，避免逐步在模型自产生的状态上反复推演。训练时按几何分布抽取步数后将超长值压到分位点上，以限制不可靠的远期自举目标。 |
+| <a id="croissant26a-reinforcement-learning"></a>[Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport](https://proceedings.mlr.press/v306/croissant26a.html) | 最优传输老虎机的熵正则探索 | 在希尔伯特空间中用最小二乘构造传输成本的置信集，再选择乐观的运输计划并加入熵惩罚。随着轮数增加减小熵系数，以控制相对未正则化 Kantorovich 最优传输的累积近似误差。 |
+| <a id="de-lara26a-reinforcement-learning"></a>[SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://proceedings.mlr.press/v306/de-lara26a.html) | 离线到在线的动作梯度匹配 | 离线训练时约束 Q 函数对动作的梯度与策略对数密度的动作梯度相匹配，减小切到在线 Actor–Critic 目标时的局部更新冲突。在六个 D4RL 任务上，论文报告了转入 SAC 和 TD3 时的平滑过渡。 |
+| <a id="debes26a-reinforcement-learning"></a>[Multivariate Distributional Reinforcement Learning Using Sliced Divergences](https://proceedings.mlr.press/v306/debes26a.html) | 多元回报分布的切片差异 | 沿一维方向投影多元回报，再用 Wasserstein 等一维差异比较分布。共享标量折扣时可对方向均匀平均，面对一般稠密折扣矩阵时，论文以最大投影差异获得相应的 Bellman 收缩结果。 |
 | <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -91,6 +95,7 @@
 | :--- | :--- | :--- |
 | <a id="brosseit26a-inference"></a>[Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks](https://proceedings.mlr.press/v306/brosseit26a.html) | 强化学习提前退出 | 在 actor 的不同深度挂接出口，训练时用约束线性规划决定性能和计算预算之间的退出规则，部署时用学好的规则直接选择出口。 |
 | <a id="chang26a-inference"></a>[The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://proceedings.mlr.press/v306/chang26a.html) | 模型强化学习搜索 | 搜索可能放大候选轨迹的价值高估，即使动力学模型准确也会选错。对多个价值估计取最小值，可在搜索时降低这种偏差。 |
+| <a id="cui26h-inference"></a>[DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](https://proceedings.mlr.press/v306/cui26h.html) | 离线竞价的候选生成与价值筛选 | 用高斯混合头采样多个可能的出价，同时检索相近状态下的优质历史出价。推理时把两类候选交给用日志和隐式 Q 学习训练的价值评估器排序，选择估计价值最高的出价。 |
 
 <a id="by-representation-learning"></a>
 

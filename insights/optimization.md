@@ -23,9 +23,15 @@
 - [求解器程序树进化](../papers/llm.md#chen26hb-optimization) · $A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees
 - [低秩二值权重量化](../papers/llm.md#chong26a-optimization) · NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models
 
+### 计算机视觉
+
+- [可微的随机特征点云配准](../papers/computer-vision.md#crane26a-optimization) · Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy
+- [动态网格的逐面雅可比形变](../papers/computer-vision.md#dai26h-optimization) · TextMesh4D: Zero-shot Text-to-4D Mesh Generation
+
 ### 强化学习
 
 - [目标稳态分布约束下的快速混合](../papers/reinforcement-learning.md#corso26a-optimization) · Fast Mixing Steady-State Control in Markov Decision Processes
+- [二阶平滑 Bellman 规划](../papers/reinforcement-learning.md#dam26a-optimization) · Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing
 
 ### 机器人学
 
@@ -89,6 +95,14 @@
 - [混合整数求解的共形提前停止](../papers/ml-foundations.md#clarke26a-optimization) · Conformal Prediction for Early Stopping in Mixed Integer Optimization
 - [在线最小化的对偶预测](../papers/ml-foundations.md#coester26a-optimization) · Learning-Augmented Online Minimization with Dual Predictions
 - [带移动成本的图结构连续优化](../papers/ml-foundations.md#cortes26a-optimization) · Beyond Binary: Continuous State Optimization with Graph-Structured Objectives
+- [Muon 的跨层范数步长](../papers/ml-foundations.md#crawshaw26a-optimization) · An Exploration of Non-Euclidean Gradient Descent: Muon and its Many Variants
+- [预算可行的次模采购拍卖](../papers/ml-foundations.md#cui26b-optimization) · Budget-Feasible Mechanisms for Submodular Welfare Maximization in Procurement Auctions
+- [跨优化迭代复用蒙特卡洛粒子](../papers/ml-foundations.md#cuin26a-optimization) · Efficient Stochastic Optimisation via Sequential Monte Carlo
+- [SVRG 的变分后验校正](../papers/ml-foundations.md#daheim26a-optimization) · SVRG and Beyond via Posterior Correction
+- [强污染下的单指标模型恢复](../papers/ml-foundations.md#das26a-optimization) · Convex Basins in Single-Index Model Loss Landscapes: Applications to Robust Recovery under Strong Adversarial Corruption
+- [不确定最优传输的 Sinkhorn 变分推断](../papers/ml-foundations.md#de26a-optimization) · Variational Inference for Uncertain Optimal Transport via Sinkhorn Parametrization
+- [持续学习的平衡态控制更新](../papers/ml-foundations.md#de-haan26a-optimization) · Continual Learning through Control Minimization
+- [生成流的奖励引导合并](../papers/ml-foundations.md#de-santi26a-optimization) · A Unified Density Operator View of Flow Control and Merging
 
 ### 图学习与推荐
 

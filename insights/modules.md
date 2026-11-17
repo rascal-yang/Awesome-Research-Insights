@@ -114,6 +114,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [自监督投影头](../papers/ml-foundations.md#chaudhry26a-modules) · The Geometry of Projection Heads: Conditioning, Invariance, and Collapse
 - [相关矩阵流形全连接层](../papers/ml-foundations.md#chen26fb-modules) · Riemannian Networks over Full-Rank Correlation Matrices
 - [时间序列的后续轨迹检索](../papers/ml-foundations.md#chong26c-modules) · Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting
+- [无需旧样本的持续学习适配器](../papers/ml-foundations.md#cosentino26a-modules) · PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning
 
 ### 图学习与推荐
 
@@ -128,4 +129,5 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [医学视觉定位](../papers/scientific-ml.md#chang26b-modules) · MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models
 - [口袋与配体双向融合](../papers/scientific-ml.md#chen26bw-modules) · TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion
 - [脑电信号的复数频谱细化](../papers/scientific-ml.md#chen26fr-modules) · PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding
+- [原子间势的自适应贝叶斯失活](../papers/scientific-ml.md#coscia26a-modules) · BLIPs: Bayesian Learned Interatomic Potentials
 <!-- classification:end -->

@@ -110,6 +110,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](../../papers/ml-foundations.md#chaudhry26a-modules) · 中文
 - [Riemannian Networks over Full-Rank Correlation Matrices](../../papers/ml-foundations.md#chen26fb-modules) · 中文
 - [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](../../papers/ml-foundations.md#chong26c-modules) · 中文
+- [PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning](../../papers/ml-foundations.md#cosentino26a-modules) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -124,4 +125,5 @@ Teacher features can be low rank for each image while occupying different subspa
 - [MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](../../papers/scientific-ml.md#chang26b-modules) · 中文
 - [TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](../../papers/scientific-ml.md#chen26bw-modules) · 中文
 - [PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](../../papers/scientific-ml.md#chen26fr-modules) · 中文
+- [BLIPs: Bayesian Learned Interatomic Potentials](../../papers/scientific-ml.md#coscia26a-modules) · 中文
 <!-- classification:end -->

@@ -60,6 +60,8 @@ Aggregating rewards before group normalization can map different combinations to
 - [DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning](../../papers/llm.md#chen26gp-reinforcement-learning) · 中文
 - [Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](../../papers/llm.md#cheng26e-reinforcement-learning) · 中文
 - [Anchored Self-Play for Code Repair](../../papers/llm.md#choi26f-reinforcement-learning) · 中文
+- [Less Is More: Elevating RAG via Performance-Driven Context Compression](../../papers/llm.md#cui26i-reinforcement-learning) · 中文
+- [You Can Learn Tokenization End-to-End with Reinforcement Learning](../../papers/llm.md#dauncey26a-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -101,6 +103,9 @@ Aggregating rewards before group normalization can map different combinations to
 - [Value Aggregation with Uncertainty in Online Decentralized MARL](../../papers/reinforcement-learning.md#chu26a-reinforcement-learning) · 中文
 - [Balancing Plasticity and Stability with Fast and Slow Successor Features](../../papers/reinforcement-learning.md#chua26a-reinforcement-learning) · 中文
 - [Offline Reinforcement Learning with Universal Horizon Models](../../papers/reinforcement-learning.md#chung26b-reinforcement-learning) · 中文
+- [Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport](../../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) · 中文
+- [SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](../../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) · 中文
+- [Multivariate Distributional Reinforcement Learning Using Sliced Divergences](../../papers/reinforcement-learning.md#debes26a-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -113,6 +118,7 @@ Aggregating rewards before group normalization can map different combinations to
 - [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](../../papers/multimodal.md#cao26m-reinforcement-learning) · 中文
 - [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](../../papers/multimodal.md#chen26bk-reinforcement-learning) · 中文
 - [OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](../../papers/multimodal.md#chen26ed-reinforcement-learning) · 中文
+- [VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](../../papers/multimodal.md#dai26j-reinforcement-learning) · 中文
 
 ### Graph Learning and Recommendation
 

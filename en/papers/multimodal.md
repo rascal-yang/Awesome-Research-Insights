@@ -17,6 +17,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Interactive Person Retrieval via Multi-Turn Multimodal Conversation](https://proceedings.mlr.press/v306/bai26j.html) | [Read insight (中文)](../../papers/multimodal.md#bai26j-architecture) |
 | [Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](https://proceedings.mlr.press/v306/chen26go.html) | [Read insight (中文)](../../papers/multimodal.md#chen26go-architecture) |
+| [PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](https://proceedings.mlr.press/v306/dementyev26a.html) | [Read insight (中文)](../../papers/multimodal.md#dementyev26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -39,6 +40,7 @@ The linked short insights are available in Chinese.
 | [Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation](https://proceedings.mlr.press/v306/chen26bn.html) | [Read insight (中文)](../../papers/multimodal.md#chen26bn-loss-functions) |
 | [AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing](https://proceedings.mlr.press/v306/chen26dq.html) | [Read insight (中文)](../../papers/multimodal.md#chen26dq-loss-functions) |
 | [FairSSL: Fair Multimodal Self-Supervised Learning](https://proceedings.mlr.press/v306/cheong26a.html) | [Read insight (中文)](../../papers/multimodal.md#cheong26a-loss-functions) |
+| [SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](https://proceedings.mlr.press/v306/dellali26a.html) | [Read insight (中文)](../../papers/multimodal.md#dellali26a-loss-functions) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -49,6 +51,7 @@ The linked short insights are available in Chinese.
 | [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](https://proceedings.mlr.press/v306/cao26m.html) | [Read insight (中文)](../../papers/multimodal.md#cao26m-reinforcement-learning) |
 | [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](https://proceedings.mlr.press/v306/chen26bk.html) | [Read insight (中文)](../../papers/multimodal.md#chen26bk-reinforcement-learning) |
 | [OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](https://proceedings.mlr.press/v306/chen26ed.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ed-reinforcement-learning) |
+| [VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](https://proceedings.mlr.press/v306/dai26j.html) | [Read insight (中文)](../../papers/multimodal.md#dai26j-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -97,6 +100,7 @@ The linked short insights are available in Chinese.
 | [Show, Don’t Tell: Morphing Latent Reasoning into Image Generation](https://proceedings.mlr.press/v306/chen26fv.html) | [Read insight (中文)](../../papers/multimodal.md#chen26fv-inference) |
 | [Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](https://proceedings.mlr.press/v306/cheng26d.html) | [Read insight (中文)](../../papers/multimodal.md#cheng26d-inference) |
 | [Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](https://proceedings.mlr.press/v306/cho26b.html) | [Read insight (中文)](../../papers/multimodal.md#cho26b-inference) |
+| [UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing](https://proceedings.mlr.press/v306/dang26a.html) | [Read insight (中文)](../../papers/multimodal.md#dang26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -138,4 +142,5 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](https://proceedings.mlr.press/v306/cai26o.html) | [Read insight (中文)](../../papers/multimodal.md#cai26o-theory-statistics) |
+| [Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](https://proceedings.mlr.press/v306/delattre26a.html) | [Read insight (中文)](../../papers/multimodal.md#delattre26a-theory-statistics) |
 <!-- classification:end -->

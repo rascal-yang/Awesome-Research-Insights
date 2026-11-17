@@ -17,6 +17,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](https://proceedings.mlr.press/v306/bandyopadhyay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) |
 | [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://proceedings.mlr.press/v306/chen26al.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26al-architecture) |
+| [Adaptive Memory Retention in Dynamic Graphs](https://proceedings.mlr.press/v306/de-castelli26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#de-castelli26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -98,6 +99,7 @@ The linked short insights are available in Chinese.
 | [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) |
 | [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) |
 | [Computationally-efficient Graph Modeling with Refined Graph Random Features](https://proceedings.mlr.press/v306/choromanski26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#choromanski26a-representation-learning) |
+| [Parametrized Power-Iteration Clustering for Directed Graphs](https://proceedings.mlr.press/v306/debaussart-joniec26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 

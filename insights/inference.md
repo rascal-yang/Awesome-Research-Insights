@@ -55,6 +55,13 @@
 - [RAG 段落注意力方差过滤](../papers/llm.md#choudhary26b-inference) · Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG
 - [多层原型输入审核](../papers/llm.md#chrabaszcz26a-inference) · Efficient LLM Moderation with Multi-Layer Latent Prototypes
 - [长上下文思维链示例排序](../papers/llm.md#chung26c-inference) · Many-Shot CoT-ICL: Making In-Context Learning Truly Learn
+- [概率常识溯因推理](../papers/llm.md#cotnareanu26a-inference) · Abductive Reasoning with Probabilistic Commonsense
+- [含平局偏好的分布校准聚合](../papers/llm.md#dadkhahi26a-inference) · Distribution-Calibrated Inference Time Compute for Thinking LLM-as-a-Judge
+- [全局约束的序贯蒙特卡洛解码](../papers/llm.md#dang26c-inference) · Mitigating Bias in Locally Constrained Decoding via Tractable Proposals
+- [KV 缓存的窗口离群保留](../papers/llm.md#datta26b-inference) · ManifoldKV: Training-Free KV Cache Compression via Euclidean Outlier Detection
+- [推理生成中的动态弃答](../papers/llm.md#davidov26a-inference) · Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning
+- [词元几何感知的截断解码](../papers/llm.md#davoodi26a-inference) · Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models
+- [用注意力温度缓解上下文分布偏移](../papers/llm.md#demir26a-inference) · Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions
 
 ### 计算机视觉
 
@@ -78,6 +85,7 @@
 - [扩散注意力的反对称分量调节](../papers/computer-vision.md#cho26d-inference) · Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective
 - [扩散负引导的阈值投影](../papers/computer-vision.md#choi26m-inference) · Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling
 - [扩散 Transformer 激活稀疏推理](../papers/computer-vision.md#cong26a-inference) · RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models
+- [场景图粒子滤波定位](../papers/computer-vision.md#damblon26a-inference) · SG2Loc: Sequential Visual Localization on 3D Scene Graphs
 
 ### 自然语言处理
 
@@ -90,6 +98,7 @@
 
 - [强化学习提前退出](../papers/reinforcement-learning.md#brosseit26a-inference) · Mind the Budget: Accelerating Deep Reinforcement Learning using Constrained Early Exit Neural Networks
 - [模型强化学习搜索](../papers/reinforcement-learning.md#chang26a-inference) · The Surprising Difficulty of Search in Model-Based Reinforcement Learning
+- [离线竞价的候选生成与价值筛选](../papers/reinforcement-learning.md#cui26h-inference) · DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation
 
 ### 机器人学
 
@@ -120,6 +129,7 @@
 - [图像生成的潜空间推理调度](../papers/multimodal.md#chen26fv-inference) · Show, Don’t Tell: Morphing Latent Reasoning into Image Generation
 - [视觉语言模型注意力通路门控](../papers/multimodal.md#cheng26d-inference) · Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating
 - [视觉词元删减后的注意力校准](../papers/multimodal.md#cho26b-inference) · Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference
+- [超高分遥感词元分区压缩](../papers/multimodal.md#dang26a-inference) · UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing
 
 ### 机器学习基础与统计
 
@@ -145,4 +155,6 @@
 - [蛋白结合物设计](../papers/scientific-ml.md#cao26c-inference) · Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
 - [对接预测梯度反演](../papers/scientific-ml.md#chen26bu-inference) · Towards Docking-oriented De Novo Ligand Design via Gradient Inversion
 - [粗粒化玻尔兹曼重要性采样](../papers/scientific-ml.md#chen26gs-inference) · Coarse-Grained Boltzmann Generators
+- [流行病模拟器的流图验证](../papers/scientific-ml.md#datta26a-inference) · Agentic Framework for Epidemiological Modeling
+- [逆设计流的零锚定置信度](../papers/scientific-ml.md#de-campos26a-inference) · Generative Inverse Design with Abstention via Diagonal Flow Matching
 <!-- classification:end -->

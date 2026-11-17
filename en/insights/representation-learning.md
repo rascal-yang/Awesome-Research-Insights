@@ -24,6 +24,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](../../papers/computer-vision.md#chen26ee-representation-learning) · 中文
 - [Multiview Self-Representation Learning across Heterogeneous Views](../../papers/computer-vision.md#chen26ek-representation-learning) · 中文
 - [TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification](../../papers/computer-vision.md#chen26fh-representation-learning) · 中文
+- [Bayesian Gated Non-Negative Contrastive Learning](../../papers/computer-vision.md#cui26k-representation-learning) · 中文
+- [Identifying Latent Concepts and Structures for Generalized Category Discovery](../../papers/computer-vision.md#dai26b-representation-learning) · 中文
 
 ### Natural Language Processing
 
@@ -62,6 +64,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) · 中文
 - [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) · 中文
 - [Computationally-efficient Graph Modeling with Refined Graph Random Features](../../papers/graph-and-recommendation.md#choromanski26a-representation-learning) · 中文
+- [Parametrized Power-Iteration Clustering for Directed Graphs](../../papers/graph-and-recommendation.md#debaussart-joniec26a-representation-learning) · 中文
 
 ### Scientific Machine Learning
 

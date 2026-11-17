@@ -23,9 +23,15 @@ Gradient updates, parameterization, and optimization dynamics.
 - [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](../../papers/llm.md#chen26hb-optimization) · 中文
 - [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](../../papers/llm.md#chong26a-optimization) · 中文
 
+### Computer Vision
+
+- [Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy](../../papers/computer-vision.md#crane26a-optimization) · 中文
+- [TextMesh4D: Zero-shot Text-to-4D Mesh Generation](../../papers/computer-vision.md#dai26h-optimization) · 中文
+
 ### Reinforcement Learning
 
 - [Fast Mixing Steady-State Control in Markov Decision Processes](../../papers/reinforcement-learning.md#corso26a-optimization) · 中文
+- [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../papers/reinforcement-learning.md#dam26a-optimization) · 中文
 
 ### Robotics
 
@@ -89,6 +95,14 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Conformal Prediction for Early Stopping in Mixed Integer Optimization](../../papers/ml-foundations.md#clarke26a-optimization) · 中文
 - [Learning-Augmented Online Minimization with Dual Predictions](../../papers/ml-foundations.md#coester26a-optimization) · 中文
 - [Beyond Binary: Continuous State Optimization with Graph-Structured Objectives](../../papers/ml-foundations.md#cortes26a-optimization) · 中文
+- [An Exploration of Non-Euclidean Gradient Descent: Muon and its Many Variants](../../papers/ml-foundations.md#crawshaw26a-optimization) · 中文
+- [Budget-Feasible Mechanisms for Submodular Welfare Maximization in Procurement Auctions](../../papers/ml-foundations.md#cui26b-optimization) · 中文
+- [Efficient Stochastic Optimisation via Sequential Monte Carlo](../../papers/ml-foundations.md#cuin26a-optimization) · 中文
+- [SVRG and Beyond via Posterior Correction](../../papers/ml-foundations.md#daheim26a-optimization) · 中文
+- [Convex Basins in Single-Index Model Loss Landscapes: Applications to Robust Recovery under Strong Adversarial Corruption](../../papers/ml-foundations.md#das26a-optimization) · 中文
+- [Variational Inference for Uncertain Optimal Transport via Sinkhorn Parametrization](../../papers/ml-foundations.md#de26a-optimization) · 中文
+- [Continual Learning through Control Minimization](../../papers/ml-foundations.md#de-haan26a-optimization) · 中文
+- [A Unified Density Operator View of Flow Control and Merging](../../papers/ml-foundations.md#de-santi26a-optimization) · 中文
 
 ### Graph Learning and Recommendation
 

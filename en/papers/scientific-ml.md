@@ -32,6 +32,9 @@ The linked short insights are available in Chinese.
 | [From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://proceedings.mlr.press/v306/chen26ai.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ai-architecture) |
 | [Co-Generative De Novo Functional Protein Design](https://proceedings.mlr.press/v306/chen26cu.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26cu-architecture) |
 | [Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems](https://proceedings.mlr.press/v306/collart26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#collart26a-architecture) |
+| [SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles](https://proceedings.mlr.press/v306/cretu26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#cretu26a-architecture) |
+| [Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](https://proceedings.mlr.press/v306/dagli26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dagli26a-architecture) |
+| [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](https://proceedings.mlr.press/v306/dai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dai26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -43,6 +46,7 @@ The linked short insights are available in Chinese.
 | [MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models](https://proceedings.mlr.press/v306/chang26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#chang26b-modules) |
 | [TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion](https://proceedings.mlr.press/v306/chen26bw.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26bw-modules) |
 | [PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding](https://proceedings.mlr.press/v306/chen26fr.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fr-modules) |
+| [BLIPs: Bayesian Learned Interatomic Potentials](https://proceedings.mlr.press/v306/coscia26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#coscia26a-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -98,6 +102,8 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](https://proceedings.mlr.press/v306/brockschmidt26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#brockschmidt26a-data-strategies) |
 | [DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](https://proceedings.mlr.press/v306/chan26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chan26a-data-strategies) |
+| [ANTiC: Adaptive Neural Temporal In Situ Compressor](https://proceedings.mlr.press/v306/cranganore26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#cranganore26a-data-strategies) |
+| [scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](https://proceedings.mlr.press/v306/d-ascenzo26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#d-ascenzo26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -112,6 +118,8 @@ The linked short insights are available in Chinese.
 | [Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](https://proceedings.mlr.press/v306/cao26c.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26c-inference) |
 | [Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](https://proceedings.mlr.press/v306/chen26bu.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26bu-inference) |
 | [Coarse-Grained Boltzmann Generators](https://proceedings.mlr.press/v306/chen26gs.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26gs-inference) |
+| [Agentic Framework for Epidemiological Modeling](https://proceedings.mlr.press/v306/datta26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#datta26a-inference) |
+| [Generative Inverse Design with Abstention via Diagonal Flow Matching](https://proceedings.mlr.press/v306/de-campos26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#de-campos26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -145,6 +153,7 @@ The linked short insights are available in Chinese.
 | [A Systematic Study of Behavioral Cloning for Scientific Data Annotation](https://proceedings.mlr.press/v306/chandok26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chandok26a-evaluation) |
 | [Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](https://proceedings.mlr.press/v306/chen26fp.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fp-evaluation) |
 | [Abstraction Induces the Brain Alignment of Language and Speech Models](https://proceedings.mlr.press/v306/cheng26l.html) | [Read insight (中文)](../../papers/scientific-ml.md#cheng26l-evaluation) |
+| [Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](https://proceedings.mlr.press/v306/dan26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#dan26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

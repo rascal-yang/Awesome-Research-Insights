@@ -76,6 +76,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms](../../papers/llm.md#cho26g-evaluation) · 中文
 - [Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory](../../papers/llm.md#choi26n-evaluation) · 中文
 - [Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation](../../papers/llm.md#chong26b-evaluation) · 中文
+- [Contribution Weights: A Geometrical Analysis of Self-Attention Transformers](../../papers/llm.md#cunningham26a-evaluation) · 中文
+- [Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data](../../papers/llm.md#dai26d-evaluation) · 中文
+- [When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression](../../papers/llm.md#dai26k-evaluation) · 中文
 
 ### Computer Vision
 
@@ -94,6 +97,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](../../papers/nlp.md#basha26a-evaluation) · 中文
 - [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](../../papers/nlp.md#chen26av-evaluation) · 中文
 - [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](../../papers/nlp.md#chen26bf-evaluation) · 中文
+- [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](../../papers/nlp.md#dehdashtian26a-evaluation) · 中文
 
 ### Reinforcement Learning
 
@@ -104,6 +108,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 
 - [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](../../papers/robotics.md#bai26e-evaluation) · 中文
 - [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](../../papers/robotics.md#cao26w-evaluation) · 中文
+- [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](../../papers/robotics.md#dai26c-evaluation) · 中文
 
 ### Multimodal Learning
 
@@ -155,4 +160,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Systematic Study of Behavioral Cloning for Scientific Data Annotation](../../papers/scientific-ml.md#chandok26a-evaluation) · 中文
 - [Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](../../papers/scientific-ml.md#chen26fp-evaluation) · 中文
 - [Abstraction Induces the Brain Alignment of Language and Speech Models](../../papers/scientific-ml.md#cheng26l-evaluation) · 中文
+- [Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](../../papers/scientific-ml.md#dan26a-evaluation) · 中文
 <!-- classification:end -->

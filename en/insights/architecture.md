@@ -13,6 +13,8 @@ Model-wide design and information flow.
 - [HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel](../../papers/llm.md#bui26b-architecture) · 中文
 - [MARS: Modular Agent with Reflective Search for Automated AI Research](../../papers/llm.md#chen26r-architecture) · 中文
 - [LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining](../../papers/llm.md#chen26cg-architecture) · 中文
+- [Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism](../../papers/llm.md#cui26c-architecture) · 中文
+- [Context-level Language Modeling by Learning Predictive Context Embeddings](../../papers/llm.md#dai26g-architecture) · 中文
 
 ### Computer Vision
 
@@ -37,6 +39,7 @@ Model-wide design and information flow.
 
 - [Interactive Person Retrieval via Multi-Turn Multimodal Conversation](../../papers/multimodal.md#bai26j-architecture) · 中文
 - [Any2Any: Unified Arbitrary Modality Translation for Remote Sensing](../../papers/multimodal.md#chen26go-architecture) · 中文
+- [PhaseCoder: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](../../papers/multimodal.md#dementyev26a-architecture) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -51,11 +54,13 @@ Model-wide design and information flow.
 - [CoGenCast: A Coupled Autoregressive–Flow Generative Framework for Time Series Forecasting](../../papers/ml-foundations.md#cheng26h-architecture) · 中文
 - [KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables](../../papers/ml-foundations.md#cheng26t-architecture) · 中文
 - [Transformer Circuits Can Realize Clustering Algorithms](../../papers/ml-foundations.md#clarkson26a-architecture) · 中文
+- [Mixture of Concept Bottleneck Experts](../../papers/ml-foundations.md#de-santis26a-architecture) · 中文
 
 ### Graph Learning and Recommendation
 
 - [RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](../../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) · 中文
 - [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](../../papers/graph-and-recommendation.md#chen26al-architecture) · 中文
+- [Adaptive Memory Retention in Dynamic Graphs](../../papers/graph-and-recommendation.md#de-castelli26a-architecture) · 中文
 
 ### Scientific Machine Learning
 
@@ -76,4 +81,7 @@ Model-wide design and information flow.
 - [From Holo Pockets to Electron Density: GPT-style Drug Design with Density](../../papers/scientific-ml.md#chen26ai-architecture) · 中文
 - [Co-Generative De Novo Functional Protein Design](../../papers/scientific-ml.md#chen26cu-architecture) · 中文
 - [Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems](../../papers/scientific-ml.md#collart26a-architecture) · 中文
+- [SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles](../../papers/scientific-ml.md#cretu26a-architecture) · 中文
+- [Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](../../papers/scientific-ml.md#dagli26a-architecture) · 中文
+- [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](../../papers/scientific-ml.md#dai26a-architecture) · 中文
 <!-- classification:end -->

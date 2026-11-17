@@ -30,6 +30,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](../../papers/computer-vision.md#cao26s-data-strategies) · 中文
 - [When Preference Labels Fall Short: Aligning Diffusion Models from Real Data](../../papers/computer-vision.md#chen26s-data-strategies) · 中文
 - [Amodal Instance Segmentation with IRAIS Dataset for Sim-to-Real Transfer](../../papers/computer-vision.md#chen26bj-data-strategies) · 中文
+- [Geometry-Aware Dataset Condensation for Diffusion Model Training](../../papers/computer-vision.md#cui26f-data-strategies) · 中文
 
 ### Natural Language Processing
 
@@ -76,4 +77,6 @@ Data selection, annotation, augmentation, and sampling.
 
 - [SurvDiff: A Diffusion Model for Generating Synthetic Data in Survival Analysis](../../papers/scientific-ml.md#brockschmidt26a-data-strategies) · 中文
 - [DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning](../../papers/scientific-ml.md#chan26a-data-strategies) · 中文
+- [ANTiC: Adaptive Neural Temporal In Situ Compressor](../../papers/scientific-ml.md#cranganore26a-data-strategies) · 中文
+- [scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](../../papers/scientific-ml.md#d-ascenzo26a-data-strategies) · 中文
 <!-- classification:end -->

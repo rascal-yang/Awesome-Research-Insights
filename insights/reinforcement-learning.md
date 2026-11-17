@@ -62,6 +62,8 @@
 - [多智能体检索的角色信用分配](../papers/llm.md#chen26gp-reinforcement-learning) · DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning
 - [智能体轨迹的图信用分配](../papers/llm.md#cheng26e-reinforcement-learning) · Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning
 - [代码修复的锚定自博弈](../papers/llm.md#choi26f-reinforcement-learning) · Anchored Self-Play for Code Repair
+- [按问答效果训练上下文压缩](../papers/llm.md#cui26i-reinforcement-learning) · Less Is More: Elevating RAG via Performance-Driven Context Compression
+- [端到端词元边界学习](../papers/llm.md#dauncey26a-reinforcement-learning) · You Can Learn Tokenization End-to-End with Reinforcement Learning
 
 ### 计算机视觉
 
@@ -103,6 +105,9 @@
 - [去中心化 Q 值的不确定性聚合](../papers/reinforcement-learning.md#chu26a-reinforcement-learning) · Value Aggregation with Uncertainty in Online Decentralized MARL
 - [持续漂移下的多时间尺度巩固](../papers/reinforcement-learning.md#chua26a-reinforcement-learning) · Balancing Plasticity and Stability with Fast and Slow Successor Features
 - [任意步长的离线强化学习模型](../papers/reinforcement-learning.md#chung26b-reinforcement-learning) · Offline Reinforcement Learning with Universal Horizon Models
+- [最优传输老虎机的熵正则探索](../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) · Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport
+- [离线到在线的动作梯度匹配](../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) · SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer
+- [多元回报分布的切片差异](../papers/reinforcement-learning.md#debes26a-reinforcement-learning) · Multivariate Distributional Reinforcement Learning Using Sliced Divergences
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -115,6 +120,7 @@
 - [长视频推理奖励](../papers/multimodal.md#cao26m-reinforcement-learning) · VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning
 - [分层评分规则的强化学习课程](../papers/multimodal.md#chen26bk-reinforcement-learning) · RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning
 - [音视频联合推理奖励](../papers/multimodal.md#chen26ed-reinforcement-learning) · OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention
+- [视频分割的像素级策略反馈](../papers/multimodal.md#dai26j-reinforcement-learning) · VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation
 
 ### 图学习与推荐
 

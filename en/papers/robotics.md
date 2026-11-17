@@ -106,4 +106,5 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](https://proceedings.mlr.press/v306/bai26e.html) | [Read insight (中文)](../../papers/robotics.md#bai26e-evaluation) |
 | [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) | [Read insight (中文)](../../papers/robotics.md#cao26w-evaluation) |
+| [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) | [Read insight (中文)](../../papers/robotics.md#dai26c-evaluation) |
 <!-- classification:end -->

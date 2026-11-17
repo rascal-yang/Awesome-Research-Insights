@@ -19,6 +19,7 @@
 - [测试时采样与上下文回归](../papers/llm.md#chen26cs-theory-statistics) · Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression
 - [自回归生成的反事实来源归因界限](../papers/llm.md#cohen26e-theory-statistics) · Barriers to Counterfactual Credit Attribution for Autoregressive Models
 - [多智能体竞争下的凸包对齐条件](../papers/llm.md#collina26a-theory-statistics) · Emergent Alignment via Competition
+- [未见输出概率与幻觉下界](../papers/llm.md#das26c-theory-statistics) · Innovation: An Almost Characterization of Hallucination
 
 ### 计算机视觉
 
@@ -55,6 +56,7 @@
 ### 多模态学习
 
 - [跨模态对比学习](../papers/multimodal.md#cai26o-theory-statistics) · The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence
+- [离散与连续扰动的联合认证](../papers/multimodal.md#delattre26a-theory-statistics) · Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing
 
 ### 机器学习基础与统计
 
@@ -146,6 +148,24 @@
 - [离散分布最大坐标误差的经验界](../papers/ml-foundations.md#cohen26c-theory-statistics) · Improved Distribution Estimation in $\ell_∞$
 - [基于空间秩的多元共形区域](../papers/ml-foundations.md#conrad26a-theory-statistics) · Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles
 - [混合序列模型的表达与内存界](../papers/ml-foundations.md#cooper26a-theory-statistics) · Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models
+- [生成专家的最坏混合门控](../papers/ml-foundations.md#cortes26c-theory-statistics) · A Theoretical Framework for Modular Learning of Robust Generative Models
+- [基于共形集合的预测辅助推断](../papers/ml-foundations.md#csillag26a-theory-statistics) · Extending Prediction-Powered Inference through Conformal Prediction
+- [分布预测下的稳健租买阈值](../papers/ml-foundations.md#cui26a-theory-statistics) · Ski Rental with Distributional Predictions of Unknown Quality
+- [稳健回归的组间分位数映射](../papers/ml-foundations.md#cui26d-theory-statistics) · A General Framework for Fair and Robust Regression
+- [主动学习的两阶段标注预算](../papers/ml-foundations.md#cui26e-theory-statistics) · Asymptotic Theory of Iterated Empirical Risk Minimization, with Applications to Active Learning
+- [度量空间输出的深度单指标回归](../papers/ml-foundations.md#cui26l-theory-statistics) · Deep Single-Index Fréchet Regression
+- [部署反馈下的岭正则强度](../papers/ml-foundations.md#cyffers26a-theory-statistics) · Optimal Regularization for Performative Learning
+- [归纳头的 n 元组插值](../papers/ml-foundations.md#d-angelo26a-theory-statistics) · Induction Heads Interpolate N-Grams
+- [跨代选择的因果图识别](../papers/ml-foundations.md#dai26i-theory-statistics) · Causal Modeling of Selection in Evolution
+- [多域数据混合的容量与噪声](../papers/ml-foundations.md#dai26l-theory-statistics) · Explaining Data Mixing Scaling Laws
+- [因果干预函数不确定性](../papers/ml-foundations.md#dance26a-theory-statistics) · Interventional Processes For Causal Uncertainty Quantification
+- [岭回归自蒸馏的权重符号](../papers/ml-foundations.md#dang26b-theory-statistics) · Optimal Unconstrained Self-Distillation in Ridge Regression: Strict Improvements, Precise Asymptotics, and One-Shot Tuning
+- [分层标签与残差网络可学习性](../papers/ml-foundations.md#daniely26a-theory-statistics) · Deep Networks Learn Deep Hierarchical Models
+- [流形平移均值的路径偏差](../papers/ml-foundations.md#das26b-theory-statistics) · Sharp Concentration Bounds for Bundle-Valued Statistics on Manifolds
+- [等变权重空间网络的表达能力](../papers/ml-foundations.md#dayan26a-theory-statistics) · On the Expressive Power of Permutation-Equivariant Weight-Space Networks
+- [序贯均值检验的停止时刻波动](../papers/ml-foundations.md#deep26a-theory-statistics) · Beyond First-order Asymptotics in Sequential Mean Testing
+- [激活噪声敏感性与学习难度](../papers/ml-foundations.md#defilippis26a-theory-statistics) · A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models
+- [动态规划的逐时误差传播](../papers/ml-foundations.md#della-vecchia26a-theory-statistics) · Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing
 
 ### 图学习与推荐
 
