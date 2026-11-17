@@ -3269,16 +3269,16 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3268	meng26f	PhenoBrain: Phenotype-Conditioned Long-Range Communication for Multi-Modal Brain Network Analysis	https://proceedings.mlr.press/v306/meng26f.html		written
 3269	meng26g	Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention	https://proceedings.mlr.press/v306/meng26g.html	具体改变线性注意力核：PDF第3–4页指出归一化消去query范数、非负化丢符号交互，采用范数条件化核与余弦方向映射分别修补；第9页组件和QK-Norm对照支持独立设计选择。可用于决定恢复查询范数还是修改非负特征映射，不能把分类/分割提升直接当所有模型保证。	written
 3270	meng26h	WhisperSplat: Lossless Steganography in 3D Gaussian Splatting	https://proceedings.mlr.press/v306/meng26h.html	具体改变3DGS可控渲染改动的参数位置：冻结原模型，仅在指定视角调用时向球谐特征注入单独优化的key；PDF第4–5页给接口及早期拉离原渲染、后期重建/SSIM的渐变损失，第6–8页对照修改原权重方案的干净视图保真。独立机制是分离原模型与条件残差，属于相关深度表示的可用选择，不将隐写业务本身视为具身贡献；无key保真不等于面对攻击或泄漏的安全保证。	written
-3271	meng26i	Deep Coupling Learning for Solving PDEs	https://proceedings.mlr.press/v306/meng26i.html		written
-3272	meng26j	Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization	https://proceedings.mlr.press/v306/meng26j.html		written
-3273	meng26k	Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting	https://proceedings.mlr.press/v306/meng26k.html		written
-3274	meng26l	Small Agent Group is the Future of Digital Health	https://proceedings.mlr.press/v306/meng26l.html		written
-3275	meng26m	PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating	https://proceedings.mlr.press/v306/meng26m.html		written
-3276	meng26n	Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty	https://proceedings.mlr.press/v306/meng26n.html		written
-3277	mensch26a	Robust Stochastic Gradient Posterior Sampling with Lattice Based Discretisation	https://proceedings.mlr.press/v306/mensch26a.html		written
-3278	merchant26a	Divergence Decoding: Inference-Time Unlearning via Auxiliary Models	https://proceedings.mlr.press/v306/merchant26a.html		written
-3279	merrill26a	Why Are Linear RNNs More Parallelizable?	https://proceedings.mlr.press/v306/merrill26a.html		written
-3280	meshchaninov26a	Guided Star-Shaped Masked Diffusion	https://proceedings.mlr.press/v306/meshchaninov26a.html		written
+3271	meng26i	Deep Coupling Learning for Solving PDEs	https://proceedings.mlr.press/v306/meng26i.html	具体改变深PINN输入微分传播的结构：PDF第3–4页耦合块控制Jacobian谱范数的上下界，第5页置换消融与第7页深度消融检验微分稳定性。独立机制针对输入微分消失/爆炸，不能只用普通参数梯度稳定来替代判断；限原文PDE和深度设置。	written
+3272	meng26j	Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization	https://proceedings.mlr.press/v306/meng26j.html	具体改变同形重复层的优化更新：PDF第3页对基础优化器输出的块更新施加深度方向线性平滑算子，支持SGD/Adam/Muon。可单独改更新步骤而不改损失，适用同形可对齐块；不同层参数形状不可直接混合，实验收益不等于任意平滑均有收敛保证。	written
+3273	meng26k	Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting	https://proceedings.mlr.press/v306/meng26k.html	PDF第3–5页CYBERTEAM把威胁归因、行为分析、优先级和响应按依赖连接，调用NER、检索、映射、摘要等现有操作；第6–8页比较开放推理与标准化流程。主体是网络防御任务及操作编排，未分离出不同于已有模块化代理的新检索、控制或训练机制；流程总成绩及组件有用不足以构成独立规律。无法指出对具身/相关深度学习的具体新增技术选择，按专用任务/工程集成排除。	excluded
+3274	meng26l	Small Agent Group is the Future of Digital Health	https://proceedings.mlr.press/v306/meng26l.html	PDF第2–3页SAG指定推理、知识、审查、裁决角色，采用已有多代理辩论、RAG、GRPO和CTDE；第4–5页比较临床任务、角色移除和交互配方。原文贡献是临床集体代理的部署折中，未给独立于既有角色协作和训练方式的新学习操作；十个小代理优于单模型的任务成绩不能自动当普适规律。未提取对具身或相关深度学习的独立新增选择，按专用应用/组合排除。	excluded
+3275	meng26m	PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating	https://proceedings.mlr.press/v306/meng26m.html	具体改变神经路径规划解码器与探索目标：PDF第4–5页由多起点候选路径构造相对偏好，并在多头拼接后按头门控及残差映射；第8页表2拆除门控、映射及偏好目标。保留可独立修改的解码组件和成对目标，不因车辆路径应用自动排除；证据限所测多约束VRP。	written
+3276	meng26n	Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty	https://proceedings.mlr.press/v306/meng26n.html	具体改变人形模仿策略的错误归因和数据筛选：PDF第4–5页以小姿态扰动的修正扭矩构造TVS，第6–7页在UHC/PHC+与AMASS比较相关性和组件；高误差低TVS优先查策略，高误差高TVS提示运动难度。独立物理诊断，不将相关性等同所有策略不可学的证明，依赖动力学和扰动设定。	written
+3277	mensch26a	Robust Stochastic Gradient Posterior Sampling with Lattice Based Discretisation	https://proceedings.mlr.press/v306/mensch26a.html	具体改变小批量后验采样的离散更新：PDF第3–5页以固定幅度坐标格点步、梯度调方向概率，限制梯度噪声影响协方差的方式；第6页起对照SGLD及剪裁版本。能指导在重尾梯度/小批量不稳时替换采样器，理论与步长前提必须保留，不等于无条件精确后验。	written
+3278	merchant26a	Divergence Decoding: Inference-Time Unlearning via Auxiliary Models	https://proceedings.mlr.press/v306/merchant26a.html	具体改变无需先改主模型参数的遗忘推断：用保留/遗忘辅助模型的logits差修正主模型分布或限制候选，再可蒸馏回单模型。原文方法与第8页讨论区分推断引导和参数修改，且有跨文本/图像实验；独立接口可用，基准遗忘分数不等于训练样本已从参数中彻底删除。	written
+3279	merrill26a	Why Are Linear RNNs More Parallelizable?	https://proceedings.mlr.press/v306/merrill26a.html	具体改变序列骨干的并行性/表达力选择：原文将线性RNN矩阵积对应对数深度算术线路，并区分非线性递归和不同线性参数化，第8页用连通与矩阵乘任务比较可学习容量。理论直接针对深度序列模型，不能因复杂性理论形式排除；精度和计算模型下的界不直接等于GPU实测吞吐。	written
+3280	meshchaninov26a	Guided Star-Shaped Masked Diffusion	https://proceedings.mlr.press/v306/meshchaninov26a.html	具体改变预训练掩码扩散的采样修错：PDF第3–4页采用星形状态关系及轻量错误预测头，按可能错误位置重新掩码；第6页切换时机消融说明不能全程盲用单一采样器。可在少步生成中独立替换采样逻辑，需训练错误头且依赖主模型质量。	written
 3281	meshram26a	Low-Compute Watermark Removal via Dual-Domain Natural Projection	https://proceedings.mlr.press/v306/meshram26a.html		written
 3282	messaoud26a	Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities	https://proceedings.mlr.press/v306/messaoud26a.html		written
 3283	messica26a	Adaptive Time Series Reasoning via Segment Selection	https://proceedings.mlr.press/v306/messica26a.html		written

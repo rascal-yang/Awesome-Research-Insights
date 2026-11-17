@@ -238,7 +238,6 @@
 - [用反事实增量测自我解释的预测价值](../conferences/icml-2026/cards/3201-3300.md#mayne26a-evaluation) · A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior
 - [持续激活干预下区分重试和有效纠正](../conferences/icml-2026/cards/3201-3300.md#mckenzie26a-evaluation) · Endogenous Resistance to Activation Steering in Language Models
 - [因果电路稳定性](../conferences/icml-2026/cards/3201-3300.md#meloux26a-evaluation) · Mechanistic Interpretability as Statistical Estimation: A Variance Analysis
-- [用依赖流程拆解威胁狩猎评测](../conferences/icml-2026/cards/3201-3300.md#meng26k-evaluation) · Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting
 - [采样分岔几何](../conferences/icml-2026/cards/3301-3400.md#modenbach26a-evaluation) · A geometric relation of the error introduced by sampling a language model’s output distribution to its internal state
 - [分开度量字节结构与目标字符匹配](../conferences/icml-2026/cards/3301-3400.md#moon26a-evaluation) · Beyond Perplexity: UTF-8 Validity in Byte-aware Language Models
 - [用已知复杂度检验动态深度分配](../conferences/icml-2026/cards/3301-3400.md#moosa26a-evaluation) · Understanding Dynamic Compute Allocation in Recurrent Transformers

@@ -112,7 +112,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 111	arcuschin26a	4	4	4	4	80		自动提议概念及成对反事实，按序贯多重检验停止并排除已显式用作理由的概念；可操作识别被CoT遗漏的偏差。（原文：§2 偏差检测方法（PDF 第 3 页））	scored
 112	arcuschin26b	4	4	5	4	84		交换比较对象顺序，在逻辑反问题中追踪相同是非答复及各自辩护；给无需人为提示偏差的忠实性反证机制。（原文：图 2（PDF 第 3 页））	scored
 113	ardoin26a	3	3	4	2	61		探针加随机稀疏残差指纹识别生成来源，操作可复用但与激活水印/方向归因相邻，新增设计较局部。（原文：§2 激活与指纹（PDF 第 3 页））	scored
-114	arenas26a	4	2	3	4	64		最大有限交刻画语言族极限生成阈值并给自动机复杂度障碍；严谨但应用限特定形式语言访问模型。（原文：命题 2.3（PDF 第 3 页））	scored
+114	arenas26a	4	2	3	4	64		对仅正例驱动的形式语言/DSL生成，可按最大有限交的样本阈值判断是否必须补显式结构约束；不能只依最终可计算生成。结果限给定语言族，不能直接推出自然语言LM结论。（原文：命题 2.3（PDF 第 3 页））	scored
 115	arghal26a							PDF 第 9 页 §6。只以 GPT-OSS-20B 在网格导航做行为与探针对照。解释来自单模型内的统计相关，激活替换未可靠改变行为，原文未建立可用的因果机制或跨设置稳定的控制规律。	rule-excluded
 116	ariguib26a	3	3	4	2	61		邻域遮蔽JEPA联合2D/3D构象且EMA防坍塌，结构具体但主要拼接既有图预测和多视图自监督。（原文：§3 子图预测（PDF 第 4 页））	scored
 117	arike26a	3	3	4	3	64		先抽证据再独立评估缓解整段监控干扰，有攻击者知情设置对照；操作接近常见压缩后审查，作为监控实现候选。（原文：§3 沙箱任务（PDF 第 3 页））	scored
@@ -213,7 +213,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 212	banerjee26a	4	4	4	4	80		多项式顶点吸引项给连续局部极小与Ising单翻转局部极小对应条件，避免常见松弛引入伪局部解。（原文：§3.1 连续松弛（PDF 第 3 页））	scored
 213	banerjee26b	4	4	4	4	80		以Mori–Zwanzig/Koopman将大量非线性连续单元压成少量GRU加线性ODE，可矩阵指数求解；改变连续深度计算结构。（原文：定理 3.1 与构造（PDF 第 4 页））	scored
 214	bang26a	3	3	4	2	61		联合调度数据一致性、CFG和随机性，以模板/GRPO搜曲线；主要去噪超参日程优化，新增规律相对薄。（原文：§3 三路耦合（PDF 第 3 页））	scored
-215	banihashem26a	4	2	3	4	64		允许多步主动探索的社会学习仍可锁劣臂，给事件/遗憾下界；明确但限定双臂成本/效用模型。（原文：§2 模型（PDF 第 3 页））	scored
+215	banihashem26a	4	2	3	4	64		多用户agent学习不可把每人多步主动探索视为全局充分探索；有成本/可跳过双臂协议仍锁劣臂并线性后悔，支持单独设计跨回合探索而非只延长每人episode。（原文：§2 模型（PDF 第 3 页））	scored
 216	banihashem26b	4	4	3	4	76		用直径覆盖把随机投影单查询成功扩成同时保证，再以独立副本候选选择抵御自适应攻击；可操作稳健近邻机制。（原文：定理 1.1（PDF 第 2 页））	scored
 217	banihashem26c	4	2	3	4	64		分层候选与局部重建改善全动态非单调次模近似，专门算法真实增量但复用集中基数约束。（原文：已有结果（PDF 第 2 页））	scored
 218	banihashem26d	4	4	3	5	79		将独立性oracle按集合大小收费，给小查询无信息下界与秩截断/抽样上界；改变常数查询成本下的算法选择。（原文：定理 1.1（PDF 第 2 页））	scored
@@ -224,7 +224,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 223	bao26d	1	2	4	1	38		SHRED潜对齐、频率补偿再SINDy辨识组合用于旋转爆震引擎；贡献主要现成代理/同化管线的专门应用。（原文：§3 双路径（PDF 第 4 页））	scored
 224	bao26e	1	2	4	1	38		按缺陷类别与用户风格对照允许/禁止澄清，主要多轮故障基准与常规评测分解。（原文：§3–4 数据与协议（PDF 第 5 页））	scored
 225	bao26f	3	3	3	3	60		类别语义锚与可重组局部原语分开，改善少样本布局生成；具体设计但锚/局部特征解耦与显著约束较邻近。（原文：§4 解耦方法（PDF 第 5 页））	scored
-226	barbara26a	4	2	3	4	64		逆博弈可行收益集合频率估计及Hausdorff匹配下界，理论对象专门，可操作方法主要plug-in约束。（原文：§3 下界（PDF 第 4 页））	scored
+226	barbara26a	4	2	3	4	64		多智能体从均衡动作推收益时可输出兼容payoff集合而非点奖励；频数+均衡约束估计与Hausdorff率给数据预算，限所述逆博弈假设。（原文：§3 下界（PDF 第 4 页））	scored
 227	barbero26a	3	3	4	3	64		对话模板采样提取对齐数据并语义匹配，再SFT验证内容有效；显示对齐集可提取边界但主技术沿用数据提取。（原文：§2 语义匹配（PDF 第 3 页））	scored
 228	barcelo26a	4	5	4	5	89		边着色沿三角传递增加WL表达力，并用树丛度控制枚举成本和逻辑刻画；比加三角特征多独立消息机制。（原文：§3–4 边精化与表达力（PDF 第 4 页））	scored
 229	bardone26a	4	5	4	5	89		用可独立控制二/四阶信号的模型定义扩散信息指数，联接统计学习先后与样本量；能区分数据结构和模型偏置。（原文：§2 图像实验（PDF 第 3 页））	scored
@@ -309,7 +309,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 308	bohacek26a							PDF 第 3–4、8–9 页 §3、§5.1–5.2。用既有稀疏自编码器特征加权现成基准分数与样本覆盖。报告的概念缺口依赖特征词典和激活题目的难度，作者未校准后者，低分不足以分辨缺该能力还是题目普遍偏难。未验证据此选题或训练带来的改进。	rule-excluded
 309	bohbot26a	4	4	3	4	76		把token经验测度attention的一致偏差、矩及硬最大极限连到样本量/温度，给有限上下文近似的可用条件。（原文：定理4.4（PDF 第 5 页））	scored
 310	bohde26a	3	3	3	3	60		指纹/化学式条件扩散，碎片谱不匹配归因token再重掩码，具体但主要质谱领域辅助模型反馈适配。（原文：§3 指纹扩散（PDF 第 4 页））	scored
-311	bollini26a	4	2	3	4	64		类型估计、回应分区和承诺剪枝分阶段学习，反馈差异下界明确；复用集中Stackelberg未知类型模型。（原文：§2.3 反馈模型（PDF 第 4 页））	scored
+311	bollini26a	4	2	3	4	64		未知对手type的序贯领导者学习应区分action-only与type反馈，分阶段估类型/回应分区/剪承诺；下界说明不能用多训练替代缺失反馈。（原文：§2.3 反馈模型（PDF 第 4 页））	scored
 312	bollini26b	4	2	3	4	64		按结果分布聚元行动再查询回应区，专门隐藏技术合同探索算法，迁移范围较窄。（原文：§2.2 已知候选（PDF 第 3 页））	scored
 313	bon26a	4	4	4	5	83		以接收者先验和恰当评分下决策增益定义发布隐私，将威胁与决策价值联系；能区分DP未表达的目标风险。（原文：§2–3、定义（PDF 第 4 页））	scored
 314	bonagiri26a	2	3	4	2	54		Dawid–Skene潜正确性后验软信用替硬标签，主要标注聚合的评测移植，排名稳定统计不是独立机制。（原文：§3、信用和稳定性（PDF 第 4 页））	scored
@@ -851,7 +851,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 850	de-santis26a	3	3	4	3	64		输入路由概念专家、线性/算符库符号回归头，接口可解释但MoE/CBM/符号搜索主要组件成熟。（原文：§3（PDF 第 2 页））	scored
 851	debaussart-joniec26a	3	3	4	3	64		可选择兼顾有向图入/出度的扩散嵌入，并按熵拐点停迭代；参数化随机游走新增具体，但聚类/截断组件成熟。（原文：§3（PDF 第 3 页））	scored
 852	debes26a	4	4	4	4	80		多奖励/多指标RL可选择切片联合回报分布而非独立边际，并按单样本Bellman相容性选Wasserstein/Cramér/MMD。（原文：§3（PDF 第 3 页））	scored
-853	deep26a	4	2	3	4	64		新增均值序贯检验停止时间二阶分布，而非新采样策略；原文未给具身/深度学习的具体技术选择，另列相关性候选。（原文：定理 4.2、4.4（PDF 第 5 页））	scored
+853	deep26a	4	2	3	4	64		i.i.d.有界回报的序贯均值验证，可按KLinf检验停止时间CLT而非仅渐近均值安排试验预算分位；适用level-α power-one框架，不外推相关rollout。（原文：定理 4.2、4.4（PDF 第 5 页））	scored
 854	defilippis26a	4	4	3	5	79		选择单/多索引网络的激活/数据噪声条件时，β指数区分统计可学与AMP计算恢复阈值，非仅增样本就能解决。（原文：模型与 NSE（PDF 第 3 页））	scored
 855	dehdashtian26a	2	3	4	2	54		音频检测红队可按真实TTS反馈迭代文本并筛多样性，操作现成ICL/黑盒搜索，独立增量薄。（原文：§3（PDF 第 3 页））	scored
 856	delattre26a	4	5	4	4	86		多模态鲁棒性认证可选择离散文本×Gaussian图像联合平滑，联合似然比将最坏认证化一维求界，避免拼独立证书。（原文：联合似然（PDF 第 4 页））	scored
@@ -892,10 +892,10 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 891	deshpande26a	2	3	4	2	54		代码奖励漏洞数据和正常样本对比检测，相关代理安全，但主要基准/异常评审配置。（原文：§3 数据（PDF 第 3 页））	scored
 892	dhar26a	3	3	4	2	61		感知鲁棒可混随机权重与attention特征噪声并平滑认证，设计具体但多噪声机制组合。（原文：§3 方法（PDF 第 3 页））	scored
 893	dhurandhar26a	3	3	4	3	64		语言模型可换连分式FFN/attention并用行列式递推梯度及逐深释放，算子独立但机制必要性/稳定边界较薄。（原文：§4 连分式组件（PDF 第 4 页））	scored
-894	di26a	4	3	3	4	70		近端步骤可用HJ的MC近似并按误差可求和调平滑/样本；优化方法明确，具身/神经专门使用未确立，另列相关性候选。（原文：§2.1 近端（PDF 第 2 页））	scored
+894	di26a	4	3	3	4	70		无闭式prox的模型优化可选HJ的导数自由MC近似，并按可求和误差联调平滑/样本量以保分裂收敛；不是任意近似近端都安全，使用条件明确。（原文：§2.1 近端（PDF 第 2 页））	scored
 895	di26b	4	4	4	3	77		AI标注审查可用语义邻居局部对照，AUROC分解说明何时参考分数移位而非平均降噪带收益，可选参照策略。（原文：§3.2 参照构造（PDF 第 3 页））	scored
 896	diaconu26a	4	4	4	4	80		确定性学得模拟器可加噪声条件归一/门控并CRPS校准，滚动保持同集成身份；具体概率化改造而非只输出方差头。（原文：§4 噪声与训练（PDF 第 4 页））	scored
-897	diakonikolas26a	4	2	3	4	64		已知基分布频谱条件下均值位移污染的鲁棒估计率，原文未给具身/DL直接技术选择，相关性另列。（原文：表1 样本复杂度（PDF 第 2 页））	scored
+897	diakonikolas26a	4	2	3	4	64		已知基分布、mean-shift传感污染下，先检Fourier质量/可区分频率再选鲁棒均值估计和样本预算；条件专门，不泛推未知梯度分布。（原文：表1 样本复杂度（PDF 第 2 页））	scored
 898	didi26a	1	2	4	1	38		七类蛋白适应度现实切分/数据扩展，主体基准；只能泛指表征迁移，另列相关性。（原文：表1 数据（PDF 第 3 页））	scored
 899	dietz26a	4	4	4	4	80		监控可把诚实审查角色放独立LoRA，答完触发并共享原状态但删后续审查，分离生成表现和内部知情审查。（原文：§3.1 分离（PDF 第 3 页））	scored
 900	dilip26a	3	3	4	2	61		蛋白结构token前缀嵌套dropout+扩散解码/熵停，机制主要沿FlexTok家族，暂无具身/DL独立新选择。（原文：§3 全局编码（PDF 第 3 页））	scored
@@ -1002,7 +1002,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 1001	duvvuri26a	4	5	4	4	86		attention可用指数键核预条件去重叠，因果三角系统实现，改变键相互相关造成重复计权的处理方式。（原文：RKHS 表述（PDF 第 2 页））	scored
 1002	dwaraknath26a	4	4	5	4	84		GPU低秩/随机特征可选块置换SJLT支撑，混合度/局部性有可调保证，现场随机内核区别仅把传统草图搬GPU。（原文：块结构（PDF 第 4 页））	scored
 1003	dyachenko26a	4	4	4	4	80		神经OT可用正辅助函数精确变分化log配分，无模拟训势/辅助网再Langevin；目标重写与实现独立。（原文：定理 3.2–3.3（PDF 第 4 页））	scored
-1004	eberhard26a	3	3	3	3	60		可在可容许密度矩阵流形上监督梯度/Hessian，增量集中交换相关泛函；原文未直接改变具身/一般DL选择，相关性另列。（原文：§4 目标（PDF 第 3 页））	scored
+1004	eberhard26a	3	3	3	3	60		约束能量网络可选在可容许矩阵的切空间监督梯度/Hessian而非仅能量或任意环境方向；新增为Grassmann几何的导数损失，电子泛函之外效果未验证。（原文：§4 目标（PDF 第 3 页））	scored
 1005	eberhard26b	4	5	4	5	89		部分观测反应式RL应在观测特征不变时承诺动作分布而非每原子步重选，Q按特征—分布更新，修正非Markov策略偏差。（原文：核心假设（PDF 第 2 页））	scored
 1006	ebi26a	4	5	5	5	93		asymmetric actor-critic训练期critic可用任意状态相关特权信号而非必须完整状态，给梯度等价与可检信号条件。（原文：定理 3.1（PDF 第 4 页））	scored
 1007	ebrahimi26a	4	4	4	4	80		状态跟踪可据样本/状态/长度和逐位对齐CoT选择序列模型/监督，控制实验分离归纳复制偏置与状态推理。（原文：监督协议（PDF 第 3 页））	scored
@@ -1022,7 +1022,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 1021	elisha26a	2	3	4	2	54		VLM概念/分割、mask和质心差CAV再乘LRP，主要已有概念发现/归因工具组合。（原文：§3（PDF 第 3 页））	scored
 1022	ellinson26a	3	3	4	2	61		连续mask混随机替代与退火稀疏NLL，能端到端解释但相近mask/rationale方法多，新增幅度小。（原文：§3 方法（PDF 第 4 页））	scored
 1023	ellis26a	3	3	4	3	64		助人代理可用人类后续文本累计似然筛最长高概率延续训练，目标具体但人类赋能代理与实际决策权关系有限。（原文：图 1（PDF 第 3 页））	scored
-1024	elsborg26a	4	3	3	4	70		原子Gaussian到平面波闭式Fourier/Poisson求和可降电荷场重建成本；电子密度专门接口，具身联系需类比，另列相关性。（原文：Gaussian 与平面波（PDF 第 4 页））	scored
+1024	elsborg26a	4	3	3	4	70		周期神经场可选原子锚Gaussian的解析Fourier/Poisson求和再一次FFT，避免让网络学习非局部周期性；独立表示/重建做法，电子密度是其验证对象。（原文：Gaussian 与平面波（PDF 第 4 页））	scored
 1025	emadi26a	4	4	5	4	84		低精attention尺度可按实际rank谱界与隐式幂迭代逐层定，不用维数最坏界；直接选安全量化训练scale。（原文：§3.2（PDF 第 4 页））	scored
 1026	ene26a	4	2	3	4	64		正线性规划DP的密度乘法权重/截断软极值界，原文无具体神经或具身计算选择，相关性另列。（原文：定理 1–2（PDF 第 2 页））	scored
 1027	epasto26a	4	3	3	4	70		DP流算法内存不能任意压缩的通信下界，通用隐私边界；无具体神经/具身实例，另列相关性。（原文：§2（PDF 第 3 页））	scored
@@ -3271,8 +3271,8 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 3270	meng26h	2	3	4	3	57		评分依据为以下技术内容及其与已有方法的差异。WhisperSplat 冻结模型，学习在指定视角渲染时加到球谐系数的噪声密钥；从渐进像素扰动切换到重建与 SSIM，并可用小型修复器减轻泄漏。 对照基础。改进来源：把隐藏信号放在按视角加载的外部密钥里。实验对照：3DGS+SH、3DGS+Decoder、GS-Hider、KeySS 与原始 3DGS。 原文 [§4.1 噪声密钥（PDF 第 4 页）](https://raw.githubusercontent.com/mlresearch/v306/main/assets/meng26h/meng26h.pdf#page=4)	scored
 3271	meng26i	4	4	4	4	80		评分依据为以下技术内容及其与已有方法的差异。CoupledNet 以带置换的耦合块传递输入微分，以雅可比谱范数约束、归一化和输出层控制稳定深度方向的微分传播。 对照基础。改进来源：把输入微分稳定性纳入耦合架构。实验对照：Jaxpi、PirateNet、无 NTK 加权版本及 MLP 等。 原文 [§3.1 耦合块（PDF 第 3 页）](https://raw.githubusercontent.com/mlresearch/v306/main/assets/meng26i/meng26i.pdf#page=3)	scored
 3272	meng26j	4	5	5	4	90		评分依据为以下技术内容及其与已有方法的差异。Gradient Smoothing 在基础优化器产生更新向量后，对同形重复块应用局部深度窗口平滑；可选择重缩放和方向投影，不更改训练目标。 对照基础。改进来源：在优化器输出层面进行深度方向结构化预条件。实验对照：相同配置的 AdamW 或 NorMuon/AdamW 基线和不同平滑方式。 原文 [§3 更新框架（PDF 第 3 页）](https://raw.githubusercontent.com/mlresearch/v306/main/assets/meng26j/meng26j.pdf#page=3)	scored
-3273	meng26k	2	2	3	2	44		评分依据为以下技术内容及其与已有方法的差异。CYBERTEAM 将归因、行为分析、优先级和响应组织为依赖流程，再给各任务配置可复用的实体抽取、检索或其他分析模块。 对照基础。改进来源：在步骤和输入输出层面对狩猎流程做标准化。实验对照：ICL5/ICL10、CoT、ToT，并测专业安全模型及通用 LLM。 原文 [§3.1–3.2 任务与数据（PDF 第 3 页）](https://raw.githubusercontent.com/mlresearch/v306/main/assets/meng26k/meng26k.pdf#page=3)	scored
-3274	meng26l	2	2	4	2	48		评分依据为以下技术内容及其与已有方法的差异。SAG 以十个小模型实例分别承担推理、知识、审查与综合裁决，通过辩论和证据协作形成输出，并比较 GRPO 与集中训练分布执行。 对照基础。改进来源：用角色分工和多方复核落实临床流程。实验对照：Llama-3-70B、Qwen 72B、Meditron、Me-LLaMA，单模型 PPO/DPO 及角色消融。 原文 [§2与图2 协作结构（PDF 第 3 页）](https://raw.githubusercontent.com/mlresearch/v306/main/assets/meng26l/meng26l.pdf#page=3)	scored
+3273	meng26k							PDF第3–5页CYBERTEAM把威胁归因、行为分析、优先级和响应按依赖连接，调用NER、检索、映射、摘要等现有操作；第6–8页比较开放推理与标准化流程。主体是网络防御任务及操作编排，未分离出不同于已有模块化代理的新检索、控制或训练机制；流程总成绩及组件有用不足以构成独立规律。无法指出对具身/相关深度学习的具体新增技术选择，按专用任务/工程集成排除。	rule-excluded
+3274	meng26l							PDF第2–3页SAG指定推理、知识、审查、裁决角色，采用已有多代理辩论、RAG、GRPO和CTDE；第4–5页比较临床任务、角色移除和交互配方。原文贡献是临床集体代理的部署折中，未给独立于既有角色协作和训练方式的新学习操作；十个小代理优于单模型的任务成绩不能自动当普适规律。未提取对具身或相关深度学习的独立新增选择，按专用应用/组合排除。	rule-excluded
 3275	meng26m	3	3	4	3	64		评分依据为以下技术内容及其与已有方法的差异。PoMtVRS 对同一实例从不同起点生成路径，以相对优劣组成 Bradley–Terry 偏好损失，并在解码器多头输出后加入门控和非线性残差。 对照基础。改进来源：联合优化候选路径排序与任务条件解码。实验对照：MVMoE、CaDA、MoSES(CaDA) 以及去门控和去偏好消融。 原文 [§4.2 门控（PDF 第 5 页）](https://raw.githubusercontent.com/mlresearch/v306/main/assets/meng26m/meng26m.pdf#page=5)	scored
 3276	meng26n	4	4	4	4	80		评分依据为以下技术内容及其与已有方法的差异。TVS 用刚体动力学计算小姿态扰动需要的修正扭矩，聚合扭矩局部幅度及跨姿态、时段变化；按难度分层评估策略并查找异常片段。 对照基础。改进来源：在训练策略之前以扭矩灵敏度刻画动作难度。实验对照：UHC、PHC+ 的 MPJPE-G 及去除不同 TVS 部件。 原文 [§4.1–4.2 动力学扰动（PDF 第 4 页）](https://raw.githubusercontent.com/mlresearch/v306/main/assets/meng26n/meng26n.pdf#page=4)	scored
 3277	mensch26a	4	5	5	4	90		评分依据为以下技术内容及其与已有方法的差异。SGLRW 逐坐标在固定幅度的正负格点步之间采样，由随机梯度调节方向概率；小批量梯度噪声对更新协方差的影响落在非对角项。 对照基础。改进来源：限制单步增量并保留 Langevin 型漂移。实验对照：SGLD、Clipped-SGLD、解析高斯和 NUTS 参考。 原文 [§4.2 格点步（PDF 第 4 页）](https://raw.githubusercontent.com/mlresearch/v306/main/assets/mensch26a/mensch26a.pdf#page=4)	scored

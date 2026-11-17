@@ -231,7 +231,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#mao26g-inference) · 中文
 - [CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill](../../conferences/icml-2026/cards/3201-3300.md#mcdanel26a-inference) · 中文
 - [GHOST: Unmasking Phantom States in Mamba2 via Grouped Hidden-state Output-aware Selection & Truncation](../../conferences/icml-2026/cards/3201-3300.md#menezes26a-inference) · 中文
-- [Small Agent Group is the Future of Digital Health](../../conferences/icml-2026/cards/3201-3300.md#meng26l-inference) · 中文
 - [Divergence Decoding: Inference-Time Unlearning via Auxiliary Models](../../conferences/icml-2026/cards/3201-3300.md#merchant26a-inference) · 中文
 - [Guided Star-Shaped Masked Diffusion](../../conferences/icml-2026/cards/3201-3300.md#meshchaninov26a-inference) · 中文
 - [Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density](../../conferences/icml-2026/cards/3201-3300.md#mi26a-inference) · 中文

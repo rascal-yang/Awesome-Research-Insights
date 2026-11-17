@@ -231,7 +231,6 @@
 - [将长文档合成问答微调进短上下文模型](../conferences/icml-2026/cards/3201-3300.md#mao26g-inference) · LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning
 - [跨层平均平滑预填充 token 排序](../conferences/icml-2026/cards/3201-3300.md#mcdanel26a-inference) · CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill
 - [循环状态剪枝](../conferences/icml-2026/cards/3201-3300.md#menezes26a-inference) · GHOST: Unmasking Phantom States in Mamba2 via Grouped Hidden-state Output-aware Selection & Truncation
-- [让小模型分别承担证据和审查](../conferences/icml-2026/cards/3201-3300.md#meng26l-inference) · Small Agent Group is the Future of Digital Health
 - [用辅助模型的分布差引导遗忘解码](../conferences/icml-2026/cards/3201-3300.md#merchant26a-inference) · Divergence Decoding: Inference-Time Unlearning via Auxiliary Models
 - [将可能出错的 token 定向重新掩码](../conferences/icml-2026/cards/3201-3300.md#meshchaninov26a-inference) · Guided Star-Shaped Masked Diffusion
 - [结合路由频率与有效秩分配 MoE 专家的压缩预算](../conferences/icml-2026/cards/3201-3300.md#mi26a-inference) · Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density

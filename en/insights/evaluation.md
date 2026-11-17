@@ -238,7 +238,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior](../../conferences/icml-2026/cards/3201-3300.md#mayne26a-evaluation) · 中文
 - [Endogenous Resistance to Activation Steering in Language Models](../../conferences/icml-2026/cards/3201-3300.md#mckenzie26a-evaluation) · 中文
 - [Mechanistic Interpretability as Statistical Estimation: A Variance Analysis](../../conferences/icml-2026/cards/3201-3300.md#meloux26a-evaluation) · 中文
-- [Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting](../../conferences/icml-2026/cards/3201-3300.md#meng26k-evaluation) · 中文
 - [A geometric relation of the error introduced by sampling a language model’s output distribution to its internal state](../../conferences/icml-2026/cards/3301-3400.md#modenbach26a-evaluation) · 中文
 - [Beyond Perplexity: UTF-8 Validity in Byte-aware Language Models](../../conferences/icml-2026/cards/3301-3400.md#moon26a-evaluation) · 中文
 - [Understanding Dynamic Compute Allocation in Recurrent Transformers](../../conferences/icml-2026/cards/3301-3400.md#moosa26a-evaluation) · 中文

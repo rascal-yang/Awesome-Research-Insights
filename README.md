@@ -16,7 +16,7 @@
 
 <a id="conference-sources"></a>
 
-**最新筛选 · 2026-11-18** · [ICML 2026 · 1,925 / 6,552 篇已筛选 · 收录 4,045 篇](conferences/icml-2026/README.md)
+**最新筛选 · 2026-11-18** · [ICML 2026 · 1,935 / 6,552 篇已筛选 · 收录 4,043 篇](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -24,7 +24,7 @@
 
 | 领域 | 收录论文 | 收录范围 |
 | :--- | ---: | :--- |
-| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 1165 | 语言模型、工具调用与智能体。 |
+| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 1163 | 语言模型、工具调用与智能体。 |
 | <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 426 | 视觉识别、表征学习与生成。 |
 | <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 75 | 语言、语音、检索与文本处理。 |
 | <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 270 | 交互决策、奖励、策略学习与博弈。 |
@@ -34,7 +34,7 @@
 | <a id="graph-and-recommendation"></a>[图学习与推荐](papers/graph-and-recommendation.md) | 158 | 图模型、知识图谱与推荐系统。 |
 | <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 404 | 物理、医学、生物与工程中的机器学习。 |
 
-**共 4,046 篇论文、4,047 个技术机制。**
+**共 4,044 篇论文、4,045 个技术机制。**
 
 <a id="insights-by-technical-category"></a>
 
@@ -49,20 +49,20 @@
 | <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 396 | 奖励、探索、信用分配与策略更新。 |
 | <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 355 | 训练日程、微调、蒸馏与迁移。 |
 | <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 162 | 数据构造、筛选、标注与采样。 |
-| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 611 | 解码、搜索、推理时适配与高效执行。 |
+| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 610 | 解码、搜索、推理时适配与高效执行。 |
 | [表征学习](insights/representation-learning.md) | 278 | 表征提取、对齐、迁移与解耦。 |
-| [评测与诊断](insights/evaluation.md) | 578 | 基准、评测协议、消融与失效诊断。 |
+| [评测与诊断](insights/evaluation.md) | 577 | 基准、评测协议、消融与失效诊断。 |
 | [理论与统计](insights/theory-statistics.md) | 589 | 学习保证、反例、估计与统计检验。 |
 
 <a id="recent-updates"></a>
 
 ## 最近更新
 
+- **2026-11-18** · 筛选 ICML 2026 编号 3271–3280，同步更新收录索引。
+
 - **2026-11-18** · 复核 5 张 ICML 2026 论文卡，移除 1 张。
 
 - **2026-11-18** · 复核 5 张 ICML 2026 论文卡，移除 0 张。
-
-- **2026-11-18** · 筛选 ICML 2026 编号 3585，同步更新收录索引。
 
 <a id="icml-2026-first-batch"></a>
 
