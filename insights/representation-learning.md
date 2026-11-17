@@ -26,6 +26,9 @@
 - [复数表征的分布外识别](../papers/computer-vision.md#chen26fh-representation-learning) · TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification
 - [概率门控的非负对比表征](../papers/computer-vision.md#cui26k-representation-learning) · Bayesian Gated Non-Negative Contrastive Learning
 - [基元场重写局部视觉 token](../papers/computer-vision.md#dai26b-representation-learning) · Identifying Latent Concepts and Structures for Generalized Category Discovery
+- [用 SVM 边界精炼视觉表征](../papers/computer-vision.md#ding26f-representation-learning) · DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization
+- [三维场景图的混合分布原型](../papers/computer-vision.md#ding26n-representation-learning) · Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences
+- [冻结视觉模型中的伪造敏感单元](../papers/computer-vision.md#dou26b-representation-learning) · DNA: Uncovering Universal Latent Forgery Knowledge
 
 ### 自然语言处理
 
@@ -77,4 +80,5 @@
 - [蛋白质局部全原子表征](../papers/scientific-ml.md#chen26ct-representation-learning) · SLAE: Strictly Local All-atom Environment for Protein Representation
 - [高掩码蛋白质结构预训练](../papers/scientific-ml.md#chen26db-representation-learning) · Protein Fold Classification at Scale: Benchmarking and Pretraining
 - [多视角电子密度图表征](../papers/scientific-ml.md#cheng26m-representation-learning) · Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction
+- [蛋白结构的可截断全局分词](../papers/scientific-ml.md#dilip26a-representation-learning) · Adaptive Protein Tokenization
 <!-- classification:end -->

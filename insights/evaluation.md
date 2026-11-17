@@ -79,6 +79,19 @@
 - [注意力输出的有符号贡献](../papers/llm.md#cunningham26a-evaluation) · Contribution Weights: A Geometrical Analysis of Self-Attention Transformers
 - [社会影响信号的在线序贯监测](../papers/llm.md#dai26d-evaluation) · Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data
 - [图路径诊断推理幻觉](../papers/llm.md#dai26k-evaluation) · When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression
+- [持续软件演进的里程碑评测](../papers/llm.md#deng26d-evaluation) · SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution
+- [跨文件软件工程的补丁验证](../papers/llm.md#deng26f-evaluation) · SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?
+- [歧义搜索的交互必要性检测](../papers/llm.md#deng26h-evaluation) · InteractComp: Evaluating Search Agents With Ambiguous Queries
+- [审稿意见的分类校验](../papers/llm.md#deng26j-evaluation) · CoCoReviewBench: A Completeness- and Correctness-Oriented Benchmark for AI Reviewers
+- [多模型投票的相关错误诊断](../papers/llm.md#denisov-blanch26a-evaluation) · Truthfulness Does Not Scale Like Reasoning: Why Polling Fails as a Proxy Verifier
+- [奖励投机的对照轨迹评测](../papers/llm.md#deshpande26a-evaluation) · Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis
+- [可切换适配器的模型自审计](../papers/llm.md#dietz26a-evaluation) · Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities
+- [从空工作区生成 Python 仓库的评测](../papers/llm.md#ding26j-evaluation) · NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents
+- [RLVR 训练目标劫持诊断](../papers/llm.md#dong26b-evaluation) · Probing RLVR Training Instability through the Lens of Objective-Level Hacking
+- [搜索智能体的沙箱红队评测](../papers/llm.md#dong26c-evaluation) · SafeSearch: Automated Red-Teaming of LLM-Based Search Agents
+- [用成对推理比较降低评测方差](../papers/llm.md#dong26o-evaluation) · Evaluating LLMs When They Do Not Know the Answer: Statistical Evaluation of Mathematical Reasoning via Comparative Signals
+- [用超额描述长度区分能力诱发与学习](../papers/llm.md#donoway26a-evaluation) · Bits That Count: Quantifying and Predicting Capabilities of Language Models
+- [语言模型罕见事件的重要性估计](../papers/llm.md#dorman26a-evaluation) · Rare Event Analysis of Large Language Models
 
 ### 计算机视觉
 
@@ -109,6 +122,7 @@
 - [机器人轨迹安全](../papers/robotics.md#bai26e-evaluation) · SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics
 - [柔性线状物体操作](../papers/robotics.md#cao26w-evaluation) · DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics
 - [长程操作记忆的分项评测](../papers/robotics.md#dai26c-evaluation) · RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
+- [机器人生成视频的物理与任务评测](../papers/robotics.md#deng26r-evaluation) · Rethinking Video Generation Model for the Embodied World
 
 ### 多模态学习
 
@@ -126,6 +140,9 @@
 - [视觉语言模型的选择偏好审计](../papers/multimodal.md#cherep26a-evaluation) · Visual Persuasion: What Influences Decisions of Vision-Language Models?
 - [游戏开发智能体的运行时反馈](../papers/multimodal.md#chi26a-evaluation) · GameDevBench: Evaluating Agentic Capabilities Through Game Development
 - [视觉实体追踪的感知与推理解耦](../papers/multimodal.md#cohen26d-evaluation) · MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models
+- [视觉历史中的跨图检索评测](../papers/multimodal.md#deng26g-evaluation) · DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories
+- [科学视频推理的视觉依赖校验](../papers/multimodal.md#deng26w-evaluation) · SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models
+- [语义近邻校准标注判错](../papers/multimodal.md#di26b-evaluation) · Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help
 
 ### 机器学习基础与统计
 
@@ -142,6 +159,7 @@
 - [共形覆盖诊断](../papers/ml-foundations.md#braun26c-evaluation) · Conditional Coverage Diagnostics for Conformal Prediction
 - [榜单评测前的统一微调](../papers/ml-foundations.md#chen26gf-evaluation) · Leaderboard Incentives: Model Rankings under Strategic Post-Training
 - [用合成记忆任务诊断可塑性](../papers/ml-foundations.md#cheng26i-evaluation) · Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization
+- [元胞自动机可学习性的频谱诊断](../papers/ml-foundations.md#disselhoff26a-evaluation) · Probing the Inductive Bias of Neural Networks through Learning Random Cellular Automata
 
 ### 图学习与推荐
 
@@ -161,4 +179,5 @@
 - [自然感官数据的跨刺激神经预测](../papers/scientific-ml.md#chen26fp-evaluation) · Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli
 - [语言与语音层表征的脑响应对齐](../papers/scientific-ml.md#cheng26l-evaluation) · Abstraction Induces the Brain Alignment of Language and Speech Models
 - [长程脑电癫痫检测的泛化评测](../papers/scientific-ml.md#dan26a-evaluation) · Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge
+- [蛋白适应度的外推切分](../papers/scientific-ml.md#didi26a-evaluation) · FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications
 <!-- classification:end -->

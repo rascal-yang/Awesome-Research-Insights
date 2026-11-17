@@ -31,6 +31,10 @@ Training schedules, curricula, and task or stage composition.
 - [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](../../papers/llm.md#cheng26o-training-strategies) · 中文
 - [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](../../papers/llm.md#choi26g-training-strategies) · 中文
 - [Transport and Merge: Cross-Architecture Merging for Large Language Models](../../papers/llm.md#cui26j-training-strategies) · 中文
+- [ConPress: Learning Efficient Reasoning from Multi-Question Contextual Pressure](../../papers/llm.md#deng26m-training-strategies) · 中文
+- [CSPLoRA: Confidence-Guided Structural Planning for Low-Rank Adaptation](../../papers/llm.md#ding26h-training-strategies) · 中文
+- [COBRA: Contribution-Based Bayesian Rank Allocation for Parameter-Efficient Fine-Tuning](../../papers/llm.md#ding26y-training-strategies) · 中文
+- [INDEXGUARD: Index-only Backdoor Vetting for Secure Federated PEFT of Large Language Models](../../papers/llm.md#dogani26a-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -43,6 +47,9 @@ Training schedules, curricula, and task or stage composition.
 - [Context Forcing: Consistent Autoregressive Video Generation with Long Context](../../papers/computer-vision.md#chen26eu-training-strategies) · 中文
 - [End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer](../../papers/computer-vision.md#chu26b-training-strategies) · 中文
 - [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](../../papers/computer-vision.md#cui26g-training-strategies) · 中文
+- [SpeedVFI: One-step Diffusion for Efficient Video Frame Interpolation](../../papers/computer-vision.md#ding26t-training-strategies) · 中文
+- [TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization](../../papers/computer-vision.md#dong26k-training-strategies) · 中文
+- [RePack then Refine: Efficient Diffusion Transformers with Vision Foundation Models](../../papers/computer-vision.md#dong26l-training-strategies) · 中文
 
 ### Robotics
 
@@ -82,6 +89,9 @@ Training schedules, curricula, and task or stage composition.
 - [Active Continual Learning with Metaplastic Binary Bayesian Neural Networks](../../papers/ml-foundations.md#cottart26a-training-strategies) · 中文
 - [Learn from A Rationalist: Distilling Intermediate Interpretable Rationales](../../papers/ml-foundations.md#dai26e-training-strategies) · 中文
 - [Avoid What You Know: Divergent Trajectory Balance for GFlowNets](../../papers/ml-foundations.md#dall-antonia26a-training-strategies) · 中文
+- [LAVA: A Unified Framework for Finetuning Language and Vision Models](../../papers/ml-foundations.md#ding26o-training-strategies) · 中文
+- [From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection](../../papers/ml-foundations.md#ding26s-training-strategies) · 中文
+- [Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models](../../papers/ml-foundations.md#dodson26a-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -95,4 +105,7 @@ Training schedules, curricula, and task or stage composition.
 - [Tokenised Flow Matching for Hierarchical Simulation Based Inference](../../papers/scientific-ml.md#charles26a-training-strategies) · 中文
 - [EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting](../../papers/scientific-ml.md#chen26ao-training-strategies) · 中文
 - [Predicting evolutionary rate as a pretraining task improves genome language model representations](../../papers/scientific-ml.md#consens26a-training-strategies) · 中文
+- [Discrete Survival Knowledge Distillation for Competing Risks Analysis](../../papers/scientific-ml.md#deng26o-training-strategies) · 中文
+- [Component-Wise Composite Likelihood Distillation for Censored Time-to-Event Data](../../papers/scientific-ml.md#deng26p-training-strategies) · 中文
+- [Probabilistic Retrofitting of Learned Simulators](../../papers/scientific-ml.md#diaconu26a-training-strategies) · 中文
 <!-- classification:end -->

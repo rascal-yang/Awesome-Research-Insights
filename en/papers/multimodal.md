@@ -28,6 +28,7 @@ The linked short insights are available in Chinese.
 | [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) | [Read insight (中文)](../../papers/multimodal.md#barrios26a-modules) |
 | [Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](https://proceedings.mlr.press/v306/chen26ch.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ch-modules) |
 | [SPR: A Structured Prompt Refinement Network for Modality Missing](https://proceedings.mlr.press/v306/chen26dv.html) | [Read insight (中文)](../../papers/multimodal.md#chen26dv-modules) |
+| [OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://proceedings.mlr.press/v306/ding26e.html) | [Read insight (中文)](../../papers/multimodal.md#ding26e-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -41,6 +42,7 @@ The linked short insights are available in Chinese.
 | [AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing](https://proceedings.mlr.press/v306/chen26dq.html) | [Read insight (中文)](../../papers/multimodal.md#chen26dq-loss-functions) |
 | [FairSSL: Fair Multimodal Self-Supervised Learning](https://proceedings.mlr.press/v306/cheong26a.html) | [Read insight (中文)](../../papers/multimodal.md#cheong26a-loss-functions) |
 | [SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](https://proceedings.mlr.press/v306/dellali26a.html) | [Read insight (中文)](../../papers/multimodal.md#dellali26a-loss-functions) |
+| [Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization](https://proceedings.mlr.press/v306/deng26z.html) | [Read insight (中文)](../../papers/multimodal.md#deng26z-loss-functions) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -52,6 +54,8 @@ The linked short insights are available in Chinese.
 | [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](https://proceedings.mlr.press/v306/chen26bk.html) | [Read insight (中文)](../../papers/multimodal.md#chen26bk-reinforcement-learning) |
 | [OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](https://proceedings.mlr.press/v306/chen26ed.html) | [Read insight (中文)](../../papers/multimodal.md#chen26ed-reinforcement-learning) |
 | [VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](https://proceedings.mlr.press/v306/dai26j.html) | [Read insight (中文)](../../papers/multimodal.md#dai26j-reinforcement-learning) |
+| [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://proceedings.mlr.press/v306/deng26x.html) | [Read insight (中文)](../../papers/multimodal.md#deng26x-reinforcement-learning) |
+| [Learning Self-Correction in Vision–Language Models via Rollout Augmentation](https://proceedings.mlr.press/v306/ding26m.html) | [Read insight (中文)](../../papers/multimodal.md#ding26m-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -134,6 +138,9 @@ The linked short insights are available in Chinese.
 | [Visual Persuasion: What Influences Decisions of Vision-Language Models?](https://proceedings.mlr.press/v306/cherep26a.html) | [Read insight (中文)](../../papers/multimodal.md#cherep26a-evaluation) |
 | [GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://proceedings.mlr.press/v306/chi26a.html) | [Read insight (中文)](../../papers/multimodal.md#chi26a-evaluation) |
 | [MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models](https://proceedings.mlr.press/v306/cohen26d.html) | [Read insight (中文)](../../papers/multimodal.md#cohen26d-evaluation) |
+| [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://proceedings.mlr.press/v306/deng26g.html) | [Read insight (中文)](../../papers/multimodal.md#deng26g-evaluation) |
+| [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://proceedings.mlr.press/v306/deng26w.html) | [Read insight (中文)](../../papers/multimodal.md#deng26w-evaluation) |
+| [Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help](https://proceedings.mlr.press/v306/di26b.html) | [Read insight (中文)](../../papers/multimodal.md#di26b-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

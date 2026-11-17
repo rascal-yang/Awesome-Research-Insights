@@ -62,6 +62,11 @@ Aggregating rewards before group normalization can map different combinations to
 - [Anchored Self-Play for Code Repair](../../papers/llm.md#choi26f-reinforcement-learning) · 中文
 - [Less Is More: Elevating RAG via Performance-Driven Context Compression](../../papers/llm.md#cui26i-reinforcement-learning) · 中文
 - [You Can Learn Tokenization End-to-End with Reinforcement Learning](../../papers/llm.md#dauncey26a-reinforcement-learning) · 中文
+- [On Group Relative Policy Optimization Collapse in Agent Search: The Lazy Likelihood-Displacement](../../papers/llm.md#deng26k-reinforcement-learning) · 中文
+- [Uncertainty-Aware Clarification in LLM Agents with Information Gain](../../papers/llm.md#deng26l-reinforcement-learning) · 中文
+- [TGPO: Efficient Policy Optimization through Sequence Anchor and Information Gating](../../papers/llm.md#ding26i-reinforcement-learning) · 中文
+- [How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs](../../papers/llm.md#dong26f-reinforcement-learning) · 中文
+- [Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning](../../papers/llm.md#dou26c-reinforcement-learning) · 中文
 
 ### Computer Vision
 
@@ -106,6 +111,13 @@ Aggregating rewards before group normalization can map different combinations to
 - [Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport](../../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) · 中文
 - [SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](../../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) · 中文
 - [Multivariate Distributional Reinforcement Learning Using Sliced Divergences](../../papers/reinforcement-learning.md#debes26a-reinforcement-learning) · 中文
+- [BFTS: Thompson Sampling with Bayesian Additive Regression Trees](../../papers/reinforcement-learning.md#deng26b-reinforcement-learning) · 中文
+- [Sparse Topology-Aware Pairwise Scoring for Large-Scale Multi-Agent Reinforcement Learning](../../papers/reinforcement-learning.md#deng26n-reinforcement-learning) · 中文
+- [Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance](../../papers/reinforcement-learning.md#ding26z-reinforcement-learning) · 中文
+- [Trust Region Inverse Reinforcement Learning: Explicit Dual Ascent using Local Policy Updates](../../papers/reinforcement-learning.md#diwan26a-reinforcement-learning) · 中文
+- [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](../../papers/reinforcement-learning.md#dong26d-reinforcement-learning) · 中文
+- [Mean Flow Policy Optimization](../../papers/reinforcement-learning.md#dong26m-reinforcement-learning) · 中文
+- [Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy](../../papers/reinforcement-learning.md#doo26a-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -119,6 +131,8 @@ Aggregating rewards before group normalization can map different combinations to
 - [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](../../papers/multimodal.md#chen26bk-reinforcement-learning) · 中文
 - [OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](../../papers/multimodal.md#chen26ed-reinforcement-learning) · 中文
 - [VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](../../papers/multimodal.md#dai26j-reinforcement-learning) · 中文
+- [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](../../papers/multimodal.md#deng26x-reinforcement-learning) · 中文
+- [Learning Self-Correction in Vision–Language Models via Rollout Augmentation](../../papers/multimodal.md#ding26m-reinforcement-learning) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -131,4 +145,5 @@ Aggregating rewards before group normalization can map different combinations to
 - [Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](../../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · 中文
 - [RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](../../papers/scientific-ml.md#chang26g-reinforcement-learning) · 中文
 - [Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](../../papers/scientific-ml.md#chen26gv-reinforcement-learning) · 中文
+- [LASER: Learning Active Sensing for Continuum Field Reconstruction](../../papers/scientific-ml.md#deng26y-reinforcement-learning) · 中文
 <!-- classification:end -->

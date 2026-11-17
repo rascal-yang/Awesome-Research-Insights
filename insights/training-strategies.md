@@ -31,6 +31,10 @@
 - [多智能体的隐私偏好构造](../papers/llm.md#cheng26o-training-strategies) · PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training
 - [按梯度冲突拆分指令微调](../papers/llm.md#choi26g-training-strategies) · Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging
 - [跨架构模型的激活对齐合并](../papers/llm.md#cui26j-training-strategies) · Transport and Merge: Cross-Architecture Merging for Large Language Models
+- [多题上下文诱导的短推理蒸馏](../papers/llm.md#deng26m-training-strategies) · ConPress: Learning Efficient Reasoning from Multi-Question Contextual Pressure
+- [置信度加权的 LoRA 秩规划](../papers/llm.md#ding26h-training-strategies) · CSPLoRA: Confidence-Guided Structural Planning for Low-Rank Adaptation
+- [LoRA 的双因素层间秩分配](../papers/llm.md#ding26y-training-strategies) · COBRA: Contribution-Based Bayesian Rank Allocation for Parameter-Efficient Fine-Tuning
+- [联邦微调的索引重叠后门筛查](../papers/llm.md#dogani26a-training-strategies) · INDEXGUARD: Index-only Backdoor Vetting for Secure Federated PEFT of Large Language Models
 
 ### 计算机视觉
 
@@ -43,6 +47,9 @@
 - [长上下文视频蒸馏](../papers/computer-vision.md#chen26eu-training-strategies) · Context Forcing: Consistent Autoregressive Video Generation with Long Context
 - [图像词元化与生成联合训练](../papers/computer-vision.md#chu26b-training-strategies) · End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer
 - [稀疏软标签的硬标签校准](../papers/computer-vision.md#cui26g-training-strategies) · Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift
+- [多帧插值扩散的一步蒸馏](../papers/computer-vision.md#ding26t-training-strategies) · SpeedVFI: One-step Diffusion for Efficient Video Frame Interpolation
+- [高斯泼溅的误差引导像素采样](../papers/computer-vision.md#dong26k-training-strategies) · TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization
+- [视觉基础特征的压缩生成与细化](../papers/computer-vision.md#dong26l-training-strategies) · RePack then Refine: Efficient Diffusion Transformers with Vision Foundation Models
 
 ### 机器人学
 
@@ -82,6 +89,9 @@
 - [二值贝叶斯网络的主动持续学习](../papers/ml-foundations.md#cottart26a-training-strategies) · Active Continual Learning with Metaplastic Binary Bayesian Neural Networks
 - [选择式解释的双路蒸馏](../papers/ml-foundations.md#dai26e-training-strategies) · Learn from A Rationalist: Distilling Intermediate Interpretable Rationales
 - [GFlowNet 互补探索](../papers/ml-foundations.md#dall-antonia26a-training-strategies) · Avoid What You Know: Divergent Trajectory Balance for GFlowNets
+- [矩阵与卷积的低秩微调](../papers/ml-foundations.md#ding26o-training-strategies) · LAVA: A Unified Framework for Finetuning Language and Vision Models
+- [表格离群检测的合成课程](../papers/ml-foundations.md#ding26s-training-strategies) · From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection
+- [扩散模型记忆的中等噪声区间](../papers/ml-foundations.md#dodson26a-training-strategies) · Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models
 
 ### 图学习与推荐
 
@@ -95,4 +105,7 @@
 - [层级仿真推断](../papers/scientific-ml.md#charles26a-training-strategies) · Tokenised Flow Matching for Hierarchical Simulation Based Inference
 - [长时天气预测](../papers/scientific-ml.md#chen26ao-training-strategies) · EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting
 - [基因组模型的进化速率监督](../papers/scientific-ml.md#consens26a-training-strategies) · Predicting evolutionary rate as a pretraining task improves genome language model representations
+- [竞争风险的离散危险率蒸馏](../papers/scientific-ml.md#deng26o-training-strategies) · Discrete Survival Knowledge Distillation for Competing Risks Analysis
+- [删失数据的分量似然蒸馏](../papers/scientific-ml.md#deng26p-training-strategies) · Component-Wise Composite Likelihood Distillation for Censored Time-to-Event Data
+- [确定性 PDE 模拟器的概率改造](../papers/scientific-ml.md#diaconu26a-training-strategies) · Probabilistic Retrofitting of Learned Simulators
 <!-- classification:end -->

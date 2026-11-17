@@ -15,6 +15,7 @@
 - [局部注意力与参数化记忆](../papers/llm.md#chen26cg-architecture) · LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining
 - [混合专家的按头并行](../papers/llm.md#cui26c-architecture) · Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism
 - [预测分块上下文辅助逐词解码](../papers/llm.md#dai26g-architecture) · Context-level Language Modeling by Learning Predictive Context Embeddings
+- [长上下文的块级混合注意力](../papers/llm.md#deng26v-architecture) · Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models
 
 ### 计算机视觉
 
@@ -24,6 +25,11 @@
 - [按空间分组的同位词元预测](../papers/computer-vision.md#chen26du-architecture) · Autoregression with Self-Token Prediction
 - [压缩成像的连续光谱先验](../papers/computer-vision.md#chen26ga-architecture) · Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging
 - [开放词汇三维实例分割](../papers/computer-vision.md#choy26a-architecture) · SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation
+- [原生四维体素自编码](../papers/computer-vision.md#ding26u-architecture) · Native Spatio-Temporal 4D Variational Autoencoder
+
+### 自然语言处理
+
+- [文本编码与掩码重建解耦](../papers/nlp.md#dervishi26a-architecture) · Separating Representation from Reconstruction Enables Scalable Text Encoders
 
 ### 强化学习
 
@@ -34,6 +40,7 @@
 - [VLA 潜空间推理](../papers/robotics.md#bai26h-architecture) · Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models
 - [频域分层动作策略](../papers/robotics.md#cao26u-architecture) · Hierarchical Policy Learning via Spectral Decomposition
 - [SE(3) 位姿扩散策略](../papers/robotics.md#chuang26a-architecture) · The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space
+- [第一视角三维检测的时序记忆](../papers/robotics.md#ding26x-architecture) · Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views
 
 ### 多模态学习
 
@@ -84,4 +91,5 @@
 - [分子构象与合成路线的联合潜空间](../papers/scientific-ml.md#cretu26a-architecture) · SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles
 - [机械属性场的自适应稀疏体素](../papers/scientific-ml.md#dagli26a-architecture) · Adaptive Volumetric Mechanical Property Fields Invariant to Resolution
 - [时间驱动空间网络参数](../papers/scientific-ml.md#dai26a-architecture) · TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs
+- [工况条件下的分层图流匹配](../papers/scientific-ml.md#deng26c-architecture) · Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems
 <!-- classification:end -->

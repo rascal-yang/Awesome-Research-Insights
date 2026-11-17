@@ -79,6 +79,19 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Contribution Weights: A Geometrical Analysis of Self-Attention Transformers](../../papers/llm.md#cunningham26a-evaluation) · 中文
 - [Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data](../../papers/llm.md#dai26d-evaluation) · 中文
 - [When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression](../../papers/llm.md#dai26k-evaluation) · 中文
+- [SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution](../../papers/llm.md#deng26d-evaluation) · 中文
+- [SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?](../../papers/llm.md#deng26f-evaluation) · 中文
+- [InteractComp: Evaluating Search Agents With Ambiguous Queries](../../papers/llm.md#deng26h-evaluation) · 中文
+- [CoCoReviewBench: A Completeness- and Correctness-Oriented Benchmark for AI Reviewers](../../papers/llm.md#deng26j-evaluation) · 中文
+- [Truthfulness Does Not Scale Like Reasoning: Why Polling Fails as a Proxy Verifier](../../papers/llm.md#denisov-blanch26a-evaluation) · 中文
+- [Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis](../../papers/llm.md#deshpande26a-evaluation) · 中文
+- [Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities](../../papers/llm.md#dietz26a-evaluation) · 中文
+- [NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents](../../papers/llm.md#ding26j-evaluation) · 中文
+- [Probing RLVR Training Instability through the Lens of Objective-Level Hacking](../../papers/llm.md#dong26b-evaluation) · 中文
+- [SafeSearch: Automated Red-Teaming of LLM-Based Search Agents](../../papers/llm.md#dong26c-evaluation) · 中文
+- [Evaluating LLMs When They Do Not Know the Answer: Statistical Evaluation of Mathematical Reasoning via Comparative Signals](../../papers/llm.md#dong26o-evaluation) · 中文
+- [Bits That Count: Quantifying and Predicting Capabilities of Language Models](../../papers/llm.md#donoway26a-evaluation) · 中文
+- [Rare Event Analysis of Large Language Models](../../papers/llm.md#dorman26a-evaluation) · 中文
 
 ### Computer Vision
 
@@ -109,6 +122,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](../../papers/robotics.md#bai26e-evaluation) · 中文
 - [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](../../papers/robotics.md#cao26w-evaluation) · 中文
 - [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](../../papers/robotics.md#dai26c-evaluation) · 中文
+- [Rethinking Video Generation Model for the Embodied World](../../papers/robotics.md#deng26r-evaluation) · 中文
 
 ### Multimodal Learning
 
@@ -126,6 +140,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Visual Persuasion: What Influences Decisions of Vision-Language Models?](../../papers/multimodal.md#cherep26a-evaluation) · 中文
 - [GameDevBench: Evaluating Agentic Capabilities Through Game Development](../../papers/multimodal.md#chi26a-evaluation) · 中文
 - [MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models](../../papers/multimodal.md#cohen26d-evaluation) · 中文
+- [DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](../../papers/multimodal.md#deng26g-evaluation) · 中文
+- [SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](../../papers/multimodal.md#deng26w-evaluation) · 中文
+- [Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help](../../papers/multimodal.md#di26b-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -142,6 +159,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Conditional Coverage Diagnostics for Conformal Prediction](../../papers/ml-foundations.md#braun26c-evaluation) · 中文
 - [Leaderboard Incentives: Model Rankings under Strategic Post-Training](../../papers/ml-foundations.md#chen26gf-evaluation) · 中文
 - [Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization](../../papers/ml-foundations.md#cheng26i-evaluation) · 中文
+- [Probing the Inductive Bias of Neural Networks through Learning Random Cellular Automata](../../papers/ml-foundations.md#disselhoff26a-evaluation) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -161,4 +179,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](../../papers/scientific-ml.md#chen26fp-evaluation) · 中文
 - [Abstraction Induces the Brain Alignment of Language and Speech Models](../../papers/scientific-ml.md#cheng26l-evaluation) · 中文
 - [Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](../../papers/scientific-ml.md#dan26a-evaluation) · 中文
+- [FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications](../../papers/scientific-ml.md#didi26a-evaluation) · 中文
 <!-- classification:end -->

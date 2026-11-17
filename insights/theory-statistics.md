@@ -166,6 +166,16 @@
 - [序贯均值检验的停止时刻波动](../papers/ml-foundations.md#deep26a-theory-statistics) · Beyond First-order Asymptotics in Sequential Mean Testing
 - [激活噪声敏感性与学习难度](../papers/ml-foundations.md#defilippis26a-theory-statistics) · A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models
 - [动态规划的逐时误差传播](../papers/ml-foundations.md#della-vecchia26a-theory-statistics) · Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing
+- [观察研究的偏差来源诊断](../papers/ml-foundations.md#demirel26a-theory-statistics) · Uncovering Bias Mechanisms in Observational Studies
+- [反上三角约束下多块 ADMM 收敛](../papers/ml-foundations.md#deng26s-theory-statistics) · A proximal ADMM for multiblock problems with block anti-upper triangular constraints
+- [均值平移污染的傅里叶见证](../papers/ml-foundations.md#diakonikolas26a-theory-statistics) · Sample Complexity Bounds for Robust Mean Estimation with Mean-Shift Contamination
+- [隐私训练的信号学习与噪声记忆](../papers/ml-foundations.md#ding26g-theory-statistics) · Understanding Private Learning From Feature Perspective
+- [LoRA 投影的等角紧框架初始化](../papers/ml-foundations.md#ding26k-theory-statistics) · Towards Understanding the Dynamics of Low-Rank Adaptation
+- [因果发现的实例相关样本复杂度](../papers/ml-foundations.md#doan26a-theory-statistics) · The Fisher Dimension: Instance-Dependent Complexity for Causal Discovery
+- [非线性动力系统的观测谱滤波](../papers/ml-foundations.md#dogariu26a-theory-statistics) · Universal Learning of Nonlinear Dynamics
+- [非平稳潜变量模型的条件协方差秩](../papers/ml-foundations.md#dong26a-theory-statistics) · Identifying Partially Observed Causal Models from Heterogeneous/Nonstationary Data
+- [有限位长下激活函数的训练复杂度](../papers/ml-foundations.md#doron-arad26a-theory-statistics) · Why ReLU? A Bit-Model Dichotomy for Deep Network Training
+- [无标签配对观测下的共形校准迁移](../papers/ml-foundations.md#doula26a-theory-statistics) · Conformal Calibration Transfer
 
 ### 图学习与推荐
 
@@ -181,4 +191,5 @@
 - [密度比估计](../papers/scientific-ml.md#antipov26a-theory-statistics) · Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics
 - [量子稀疏依赖学习](../papers/scientific-ml.md#bao26a-theory-statistics) · Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits
 - [群体动力学反演](../papers/scientific-ml.md#berman26a-theory-statistics) · Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems
+- [多病风险的贝叶斯超图](../papers/scientific-ml.md#ding26c-theory-statistics) · Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference
 <!-- classification:end -->

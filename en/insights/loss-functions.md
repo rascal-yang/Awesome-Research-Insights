@@ -75,6 +75,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 
 - [Threshold-Guided Optimization for Visual Generative Models](../../papers/computer-vision.md#bai26c-loss-functions) · 中文
 - [Benchmarking Dense and Indiscernible Object Counting with Blueberries](../../papers/computer-vision.md#bo26a-loss-functions) · 中文
+- [Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](../../papers/computer-vision.md#deng26e-loss-functions) · 中文
 
 ### Natural Language Processing
 
@@ -98,6 +99,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing](../../papers/multimodal.md#chen26dq-loss-functions) · 中文
 - [FairSSL: Fair Multimodal Self-Supervised Learning](../../papers/multimodal.md#cheong26a-loss-functions) · 中文
 - [SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](../../papers/multimodal.md#dellali26a-loss-functions) · 中文
+- [Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization](../../papers/multimodal.md#deng26z-loss-functions) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -109,12 +111,15 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction](../../papers/ml-foundations.md#chen26bm-loss-functions) · 中文
 - [Optimized Deferral for Imbalanced Settings](../../papers/ml-foundations.md#cortes26b-loss-functions) · 中文
 - [Positive-Unlabeled Learning with Extreme Scarcity of Labeled Positives](../../papers/ml-foundations.md#dai26f-loss-functions) · 中文
+- [Expectation Consistency Loss: Rethink Confidence Calibration under Covariate Shift](../../papers/ml-foundations.md#dong26e-loss-functions) · 中文
 
 ### Graph Learning and Recommendation
 
 - [Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](../../papers/graph-and-recommendation.md#chen26ez-loss-functions) · 中文
 - [GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment](../../papers/graph-and-recommendation.md#chen26gu-loss-functions) · 中文
 - [ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](../../papers/graph-and-recommendation.md#chen26gx-loss-functions) · 中文
+- [Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](../../papers/graph-and-recommendation.md#deng26u-loss-functions) · 中文
+- [Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](../../papers/graph-and-recommendation.md#ding26v-loss-functions) · 中文
 
 ### Scientific Machine Learning
 
@@ -126,4 +131,5 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](../../papers/scientific-ml.md#chen26at-loss-functions) · 中文
 - [Self-Supervised Dynamical System Representations for Physiological Time-Series](../../papers/scientific-ml.md#chen26fk-loss-functions) · 中文
 - [S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation](../../papers/scientific-ml.md#chowdhury26b-loss-functions) · 中文
+- [Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation](../../papers/scientific-ml.md#ding26w-loss-functions) · 中文
 <!-- classification:end -->

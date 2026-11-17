@@ -26,6 +26,7 @@
 | <a id="barrios26a-modules"></a>[MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](https://proceedings.mlr.press/v306/barrios26a.html) | 细粒度视觉定位 | 用指令和对齐后的视觉特征做交叉注意力，生成逐通道乘法掩码，可在每个 patch 内放大与当前指令有关的特征。 |
 | <a id="chen26ch-modules"></a>[Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](https://proceedings.mlr.press/v306/chen26ch.html) | 非对称 RGB-D 特征融合 | 用主模态的频域相关性引导辅助特征，并用门控动量反复更新辅助查询。将主模态输出中的辅助残差系数设为零，可在该融合块内切断辅助噪声的回流。 |
 | <a id="chen26dv-modules"></a>[SPR: A Structured Prompt Refinement Network for Modality Missing](https://proceedings.mlr.press/v306/chen26dv.html) | 缺失模态的结构化提示 | 根据图像和文本是否可用选择可学习提示，先跨层融合，再聚合相邻提示词元并按缺失状态门控通道，最后把提示注入冻结的 CLIP 主干做分类。 |
+| <a id="ding26e-modules"></a>[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://proceedings.mlr.press/v306/ding26e.html) | 音视频非对称 token 压缩 | 先按帧内显著性和跨帧变化筛视频 token，再让音频 token 查询同一时间块保留下来的视频 token。跨注意力结果用于筛选音频，并用直通估计器让两阶段筛选能联合训练。 |
 
 <a id="by-loss-functions"></a>
 
@@ -39,6 +40,7 @@
 | <a id="chen26dq-loss-functions"></a>[AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing](https://proceedings.mlr.press/v306/chen26dq.html) | 多轮音频编辑的独立加噪 | 把文字推理的自回归损失与音频潜变量的扩散损失联合训练。对同一对话的不同轮音频独立采样加噪时刻，降低模型靠复制上一轮潜变量完成去噪的倾向。 |
 | <a id="cheong26a-loss-functions"></a>[FairSSL: Fair Multimodal Self-Supervised Learning](https://proceedings.mlr.press/v306/cheong26a.html) | 可变长多模态样本的公平自监督 | 把每个受试者的可变长模态划成片段后池化，用同一受试者的片段建立跨模态对齐，同时约束受试者内方差和表征的冗余。论文在异质数据上观察到预测性能接近时的群体差距缩小。 |
 | <a id="dellali26a-loss-functions"></a>[SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](https://proceedings.mlr.press/v306/dellali26a.html) | 长视频配音的掩码与快捷去噪监督 | 用随机音频掩码训练模型在视频及未遮盖音频条件下补全缺口，推理时利用已生成音频衔接后续片段。同时用 shortcut 损失监督较大的去噪步，使论文中的采样步数可降到八步。 |
+| <a id="deng26z-loss-functions"></a>[Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization](https://proceedings.mlr.press/v306/deng26z.html) | 共享视觉上下文的对比偏好优化 | 把原图和经细粒度修改的负例图放进同一上下文，以位置指令指定当前目标图。让优选与劣选回答共享图像和文本条件，使偏好目标中的配分函数相消，训练模型区分细微视觉差异。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -50,6 +52,8 @@
 | <a id="chen26bk-reinforcement-learning"></a>[RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](https://proceedings.mlr.press/v306/chen26bk.html) | 分层评分规则的强化学习课程 | 把可复用的视觉推理评分规则分为基础层和进阶层，与最终答案校验一起组成奖励。等模型在基础规则上表现稳定后再激活进阶规则，逐步把训练重点从感知移到复杂推理。 |
 | <a id="chen26ed-reinforcement-learning"></a>[OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](https://proceedings.mlr.press/v306/chen26ed.html) | 音视频联合推理奖励 | 对同一道题分别用完整音视频、静音视频和纯音频生成答案。当完整输入的答案得分至少等于两个单模态得分时，才发放额外奖励，用于训练依赖联合线索的音视频推理。 |
 | <a id="dai26j-reinforcement-learning"></a>[VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation](https://proceedings.mlr.press/v306/dai26j.html) | 视频分割的像素级策略反馈 | 采用 GRPO 训练多轮视频定位时，将采样掩码的逐像素对数似然加到分割标记的对数概率上。这样策略的重要性比率会随掩码变化，使分割奖励也能训练像素解码器。 |
+| <a id="deng26x-reinforcement-learning"></a>[Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](https://proceedings.mlr.press/v306/deng26x.html) | 主动空间推理的可执行中间奖励 | 让视觉语言智能体主动选取视角，把物体位置和朝向累积到认知地图。将中间空间关系写成可执行断言，在该地图上计算断言是否成立，为选视角和推理提供比最终答案更密集的强化学习反馈。 |
+| <a id="ding26m-reinforcement-learning"></a>[Learning Self-Correction in Vision–Language Models via Rollout Augmentation](https://proceedings.mlr.press/v306/ding26m.html) | 错到对的自纠正轨迹重组 | 先让模型生成带自纠正标记的前后两段回答，再在同题的采样组内重配前段与后段，优先构造错误初答转为正确答案的轨迹。这让已有生成结果能提供更密集的纠正信号。 |
 
 <a id="by-training-strategies"></a>
 
@@ -132,6 +136,9 @@
 | <a id="cherep26a-evaluation"></a>[Visual Persuasion: What Influences Decisions of Vision-Language Models?](https://proceedings.mlr.press/v306/cherep26a.html) | 视觉语言模型的选择偏好审计 | 将图像编辑封装成可迭代更新的文字提示，在尽量保持对象身份的前提下改变构图、光照等属性。让被测模型在成对图片中做选择，以选择率变化衡量视觉属性能在多大程度上左右决策。 |
 | <a id="chi26a-evaluation"></a>[GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://proceedings.mlr.press/v306/chi26a.html) | 游戏开发智能体的运行时反馈 | 用含着色器、精灵图和动画等资产的 Godot 开发任务评测多模态智能体。把编辑器截图与运行视频作为反馈，分别暴露场景配置和时序行为，在论文测试中提高了智能体的任务完成率。 |
 | <a id="cohen26d-evaluation"></a>[MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models](https://proceedings.mlr.press/v306/cohen26d.html) | 视觉实体追踪的感知与推理解耦 | 对同一实体状态变化分别给出图像和文字，还测试先把图像动作转成文字再追踪的级联系统。对能够正确识别画面动作的测试条件，这种对照仍能发现视觉状态更新中的推理瓶颈。 |
+| <a id="deng26g-evaluation"></a>[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://proceedings.mlr.press/v306/deng26g.html) | 视觉历史中的跨图检索评测 | 让视觉语言模型从图像中提取地标、物件等线索，先检索候选图，再核查跨图关联并由人工验证生成的问题。由此构造必须沿多张历史图像追踪线索才能回答的检索任务。 |
+| <a id="deng26w-evaluation"></a>[SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](https://proceedings.mlr.press/v306/deng26w.html) | 科学视频推理的视觉依赖校验 | 用配套论文和转录稿辅助命题，再让标注者核对视频证据的时间戳。分别以仅给选项和只给问题与选项的条件做筛查，修改或剔除能在无视频时答出的题，以减少文字线索泄漏。 |
+| <a id="di26b-evaluation"></a>[Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help](https://proceedings.mlr.press/v306/di26b.html) | 语义近邻校准标注判错 | 用输入嵌入找近邻，把邻居的标注作为目标标注的比较依据。论文将 AUROC 的变化归因于原有可分性、参考引起的评分均值变化及平均降噪，参考语义匹配且标注正确时，最可能拉开正确与错误的分数。 |
 
 <a id="by-theory-statistics"></a>
 

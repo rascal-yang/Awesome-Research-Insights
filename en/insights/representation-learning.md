@@ -26,6 +26,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification](../../papers/computer-vision.md#chen26fh-representation-learning) · 中文
 - [Bayesian Gated Non-Negative Contrastive Learning](../../papers/computer-vision.md#cui26k-representation-learning) · 中文
 - [Identifying Latent Concepts and Structures for Generalized Category Discovery](../../papers/computer-vision.md#dai26b-representation-learning) · 中文
+- [DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization](../../papers/computer-vision.md#ding26f-representation-learning) · 中文
+- [Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences](../../papers/computer-vision.md#ding26n-representation-learning) · 中文
+- [DNA: Uncovering Universal Latent Forgery Knowledge](../../papers/computer-vision.md#dou26b-representation-learning) · 中文
 
 ### Natural Language Processing
 
@@ -77,4 +80,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SLAE: Strictly Local All-atom Environment for Protein Representation](../../papers/scientific-ml.md#chen26ct-representation-learning) · 中文
 - [Protein Fold Classification at Scale: Benchmarking and Pretraining](../../papers/scientific-ml.md#chen26db-representation-learning) · 中文
 - [Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](../../papers/scientific-ml.md#cheng26m-representation-learning) · 中文
+- [Adaptive Protein Tokenization](../../papers/scientific-ml.md#dilip26a-representation-learning) · 中文
 <!-- classification:end -->

@@ -62,6 +62,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](../../papers/llm.md#davidov26a-inference) · 中文
 - [Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models](../../papers/llm.md#davoodi26a-inference) · 中文
 - [Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions](../../papers/llm.md#demir26a-inference) · 中文
+- [GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs](../../papers/llm.md#deng26t-inference) · 中文
+- [Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](../../papers/llm.md#ding26d-inference) · 中文
+- [HybridFlow: Resource-Adaptive Subtask Routing for Efficient Edge-Cloud LLM Inference](../../papers/llm.md#dong26g-inference) · 中文
+- [ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution](../../papers/llm.md#dong26h-inference) · 中文
 
 ### Computer Vision
 
@@ -86,6 +90,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling](../../papers/computer-vision.md#choi26m-inference) · 中文
 - [RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models](../../papers/computer-vision.md#cong26a-inference) · 中文
 - [SG2Loc: Sequential Visual Localization on 3D Scene Graphs](../../papers/computer-vision.md#damblon26a-inference) · 中文
+- [STORM: Segment, Track, and Object Re-Localization from a Single Image](../../papers/computer-vision.md#deng26a-inference) · 中文
+- [Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking](../../papers/computer-vision.md#deng26i-inference) · 中文
 
 ### Natural Language Processing
 
@@ -112,6 +118,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](../../papers/robotics.md#choi26a-inference) · 中文
 - [Efficient Skill Grounding via Code Refactoring with Small Language Models](../../papers/robotics.md#choi26c-inference) · 中文
 - [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](../../papers/robotics.md#chun26a-inference) · 中文
+- [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](../../papers/robotics.md#ding26r-inference) · 中文
 
 ### Multimodal Learning
 
@@ -140,6 +147,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](../../papers/ml-foundations.md#chen26g-inference) · 中文
 - [Reinforced Sequential Monte Carlo for Amortised Sampling](../../papers/ml-foundations.md#choi26l-inference) · 中文
 - [Unifying Stacking and Cascading for Efficient Ensemble Inference](../../papers/ml-foundations.md#colaco26a-inference) · 中文
+- [Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction](../../papers/ml-foundations.md#dou26a-inference) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -157,4 +165,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Coarse-Grained Boltzmann Generators](../../papers/scientific-ml.md#chen26gs-inference) · 中文
 - [Agentic Framework for Epidemiological Modeling](../../papers/scientific-ml.md#datta26a-inference) · 中文
 - [Generative Inverse Design with Abstention via Diagonal Flow Matching](../../papers/scientific-ml.md#de-campos26a-inference) · 中文
+- [Listening Through the Noise: Cauchy-Driven Diffusion Bridges for Robust Gastrointestinal Auscultation and Clinical Benchmarking](../../papers/scientific-ml.md#ding26a-inference) · 中文
 <!-- classification:end -->

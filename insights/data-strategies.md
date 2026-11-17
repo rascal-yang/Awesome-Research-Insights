@@ -23,6 +23,7 @@
 - [语料域变动后的混合比例复用](../papers/llm.md#chen26dd-data-strategies) · Olmix: A Framework for Data Mixing Throughout LM Development
 - [任务敏感注意力头筛样](../papers/llm.md#chen26gi-data-strategies) · From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment
 - [从工具执行轨迹反推训练任务](../papers/llm.md#chen26gj-data-strategies) · DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use
+- [棋类后训练数据的推理忠实度](../papers/llm.md#dionisopoulos26a-data-strategies) · How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess
 
 ### 计算机视觉
 

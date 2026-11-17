@@ -23,6 +23,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Olmix: A Framework for Data Mixing Throughout LM Development](../../papers/llm.md#chen26dd-data-strategies) · 中文
 - [From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment](../../papers/llm.md#chen26gi-data-strategies) · 中文
 - [DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use](../../papers/llm.md#chen26gj-data-strategies) · 中文
+- [How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess](../../papers/llm.md#dionisopoulos26a-data-strategies) · 中文
 
 ### Computer Vision
 

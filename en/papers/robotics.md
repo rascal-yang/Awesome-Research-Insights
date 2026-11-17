@@ -25,6 +25,7 @@ The linked short insights are available in Chinese.
 | [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) | [Read insight (中文)](../../papers/robotics.md#bai26h-architecture) |
 | [Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) | [Read insight (中文)](../../papers/robotics.md#cao26u-architecture) |
 | [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) | [Read insight (中文)](../../papers/robotics.md#chuang26a-architecture) |
+| [Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](https://proceedings.mlr.press/v306/ding26x.html) | [Read insight (中文)](../../papers/robotics.md#ding26x-architecture) |
 
 <a id="by-modules"></a>
 
@@ -97,6 +98,7 @@ The linked short insights are available in Chinese.
 | [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](https://proceedings.mlr.press/v306/choi26a.html) | [Read insight (中文)](../../papers/robotics.md#choi26a-inference) |
 | [Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) | [Read insight (中文)](../../papers/robotics.md#choi26c-inference) |
 | [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) | [Read insight (中文)](../../papers/robotics.md#chun26a-inference) |
+| [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) | [Read insight (中文)](../../papers/robotics.md#ding26r-inference) |
 
 <a id="by-evaluation"></a>
 
@@ -107,4 +109,5 @@ The linked short insights are available in Chinese.
 | [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](https://proceedings.mlr.press/v306/bai26e.html) | [Read insight (中文)](../../papers/robotics.md#bai26e-evaluation) |
 | [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) | [Read insight (中文)](../../papers/robotics.md#cao26w-evaluation) |
 | [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) | [Read insight (中文)](../../papers/robotics.md#dai26c-evaluation) |
+| [Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) | [Read insight (中文)](../../papers/robotics.md#deng26r-evaluation) |
 <!-- classification:end -->

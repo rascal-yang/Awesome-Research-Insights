@@ -76,6 +76,13 @@ The linked short insights are available in Chinese.
 | [Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport](https://proceedings.mlr.press/v306/croissant26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) |
 | [SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://proceedings.mlr.press/v306/de-lara26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) |
 | [Multivariate Distributional Reinforcement Learning Using Sliced Divergences](https://proceedings.mlr.press/v306/debes26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#debes26a-reinforcement-learning) |
+| [BFTS: Thompson Sampling with Bayesian Additive Regression Trees](https://proceedings.mlr.press/v306/deng26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#deng26b-reinforcement-learning) |
+| [Sparse Topology-Aware Pairwise Scoring for Large-Scale Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v306/deng26n.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#deng26n-reinforcement-learning) |
+| [Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance](https://proceedings.mlr.press/v306/ding26z.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ding26z-reinforcement-learning) |
+| [Trust Region Inverse Reinforcement Learning: Explicit Dual Ascent using Local Policy Updates](https://proceedings.mlr.press/v306/diwan26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#diwan26a-reinforcement-learning) |
+| [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://proceedings.mlr.press/v306/dong26d.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#dong26d-reinforcement-learning) |
+| [Mean Flow Policy Optimization](https://proceedings.mlr.press/v306/dong26m.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#dong26m-reinforcement-learning) |
+| [Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy](https://proceedings.mlr.press/v306/doo26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#doo26a-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>

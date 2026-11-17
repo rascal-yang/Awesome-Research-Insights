@@ -25,6 +25,7 @@
 | <a id="bai26h-architecture"></a>[Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) | VLA 潜空间推理 | 按课程将显式文本和视觉思维链监督过渡到连续潜推理，再用这些潜状态条件化动作生成，推理时省去显式思维链解码。 |
 | <a id="cao26u-architecture"></a>[Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) | 频域分层动作策略 | 将动作序列经 DCT 拆为低频粗运动和高频修正，再根据观察与语言生成粗轨迹、以粗轨迹为条件补上对齐和接触所需细节。 |
 | <a id="chuang26a-architecture"></a>[The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) | SE(3) 位姿扩散策略 | 在 SE(3) 上用左不变随机微分方程给机器人位姿加噪，在切空间预测反向去噪分数，再用指数映射更新位姿，使采样过程中的旋转保持在 SO(3) 上。 |
+| <a id="ding26x-architecture"></a>[Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](https://proceedings.mlr.press/v306/ding26x.html) | 第一视角三维检测的时序记忆 | 将先前帧的稀疏点特征存入统一坐标系，在当前视锥内检索聚合，并从仍可见的历史实例构造动态查询，与发现新实例的查询共同解码，以兼顾遮挡下的定位与身份一致性。 |
 
 <a id="by-modules"></a>
 
@@ -97,6 +98,7 @@
 | <a id="choi26a-inference"></a>[SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](https://proceedings.mlr.press/v306/choi26a.html) | VLA 不确定性调节感知与动作 | 用当前动作分布对高、低不确定性参考分布的 KL 距离差调节动作采样温度，并用上一控制步的不确定性相对历史均值的偏差调节当前视觉注意力温度。这样可在一次视觉编码内同时适配感知和动作探索。 |
 | <a id="choi26c-inference"></a>[Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) | 机器人技能代码的局部重绑定 | 把技能的控制流程保存为可执行代码，部署时用本体比对目标机器人的能力和原语 API。对确定的冲突，让小语言模型只填补受影响的代码片段，依赖现场感知的条件留到执行时检验和调整。 |
 | <a id="chun26a-inference"></a>[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) | 函数级 KV 缓存拼接与修补 | 缓存已验证函数的接口和实现。合成机器人代码策略时，将相关接口的 KV 状态拼入上下文并链接现成函数，执行反馈指出需调整的位置后，只重解码受影响的代码片段。 |
+| <a id="ding26r-inference"></a>[AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) | 导航中的熵驱动推理 | 将当前动作词元的平均熵与历史熵走势作为触发推理的先验，用奖励兼顾接近目标与推理成本，再逐步交由学习到的策略选择何时推理。 |
 
 <a id="by-evaluation"></a>
 
@@ -107,4 +109,5 @@
 | <a id="bai26e-evaluation"></a>[SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](https://proceedings.mlr.press/v306/bai26e.html) | 机器人轨迹安全 | 将全轨迹内的安全约束计入成功条件，再冻结原策略训练有界残差纠正动作，可以修复最终任务虽完成、过程却发生违规的轨迹。 |
 | <a id="cao26w-evaluation"></a>[DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) | 柔性线状物体操作 | 在同一个可微仿真中改变线状物体的伸缩、弯曲塑性和交互条件，从而检验策略能否跨材料泛化。规划时还可显式选择有控制权的抓点。 |
 | <a id="dai26c-evaluation"></a>[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) | 长程操作记忆的分项评测 | 用动作计数、遮挡后定位、跨时刻身份指代和动作模仿分别考查时间、空间、物体与程序记忆，再在同一 VLA 主干上比较记忆形式和接入方式。实验显示记忆机制的收益随任务类型变化。 |
+| <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) | 机器人生成视频的物理与任务评测 | 将均匀抽样的视频帧组成时间网格，以问答清单分别检查物体穿透、未接触搬运等物理失真和关键动作是否按顺序完成。由此能定位画面流畅但动作不符合任务要求的机器人视频。 |
 <!-- classification:end -->

@@ -22,11 +22,14 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](../../papers/llm.md#chen26fe-optimization) · 中文
 - [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](../../papers/llm.md#chen26hb-optimization) · 中文
 - [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](../../papers/llm.md#chong26a-optimization) · 中文
+- [Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression](../../papers/llm.md#ding26q-optimization) · 中文
 
 ### Computer Vision
 
 - [Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy](../../papers/computer-vision.md#crane26a-optimization) · 中文
 - [TextMesh4D: Zero-shot Text-to-4D Mesh Generation](../../papers/computer-vision.md#dai26h-optimization) · 中文
+- [Trajectory Stitching for Solving Inverse Problems with Flow-Based Models](../../papers/computer-vision.md#denker26a-optimization) · 中文
+- [Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture](../../papers/computer-vision.md#ding26p-optimization) · 中文
 
 ### Reinforcement Learning
 
@@ -103,6 +106,14 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Variational Inference for Uncertain Optimal Transport via Sinkhorn Parametrization](../../papers/ml-foundations.md#de26a-optimization) · 中文
 - [Continual Learning through Control Minimization](../../papers/ml-foundations.md#de-haan26a-optimization) · 中文
 - [A Unified Density Operator View of Flow Control and Merging](../../papers/ml-foundations.md#de-santi26a-optimization) · 中文
+- [RMNP: Row-Momentum Normalized Preconditioning for Scalable Matrix-Based Optimization](../../papers/ml-foundations.md#deng26q-optimization) · 中文
+- [Operator Splitting with Hamilton-Jacobi-based Proximals](../../papers/ml-foundations.md#di26a-optimization) · 中文
+- [Near-Optimal and Efficient First-Order Algorithm for Multi-Task Learning with Shared Linear Representation](../../papers/ml-foundations.md#ding26b-optimization) · 中文
+- [DMCO: Budget-Aware Co-Optimization of Data Cleaning and AutoML](../../papers/ml-foundations.md#ding26l-optimization) · 中文
+- [Diffusion-based learning framework for Constrained Nonconvex Optimization with Weighted Bootstrapped Refinement](../../papers/ml-foundations.md#ding26aa-optimization) · 中文
+- [FIBER: A Differentially Private Optimizer with Filter-Aware Innovation Bias Correction](../../papers/ml-foundations.md#dm26a-optimization) · 中文
+- [Romberg-Extrapolated Zeroth-Order Gradient Estimator: Higher-Order Bias Reduction with Preserved Leading Directional Variance](../../papers/ml-foundations.md#dong26j-optimization) · 中文
+- [Algorithmic Recourse of In-Context Learning for Tabular Data](../../papers/ml-foundations.md#dong26n-optimization) · 中文
 
 ### Graph Learning and Recommendation
 

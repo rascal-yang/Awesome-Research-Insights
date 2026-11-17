@@ -69,6 +69,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [SimpleGPT: Improving GPT via A Simple Normalization Strategy](../../papers/llm.md#chen26dj-modules) · 中文
 - [Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance](../../papers/llm.md#chen26dw-modules) · 中文
 - [Learning When to Attend: Conditional Memory Access for Long-Context LLMs](../../papers/llm.md#choudhary26a-modules) · 中文
+- [CoFrGeNet: Continued Fraction Architectures for Language Generation](../../papers/llm.md#dhurandhar26a-modules) · 中文
+- [Eigenvectors of Experts are Training-free Non-collapsing Routers](../../papers/llm.md#do26a-modules) · 中文
 
 ### Computer Vision
 
@@ -80,6 +82,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder](../../papers/computer-vision.md#chen26ce-modules) · 中文
 - [Attentive Multi-Layer Fusion for Vision Transformers](../../papers/computer-vision.md#ciernik26a-modules) · 中文
 - [Prototype-Grounded Concept Models for Verifiable Concept Alignment](../../papers/computer-vision.md#colamonaco26a-modules) · 中文
+- [Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?](../../papers/computer-vision.md#dhar26a-modules) · 中文
+- [PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors](../../papers/computer-vision.md#dong26i-modules) · 中文
 - [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../insights/modules.md#widen-the-student-distillation-interface)
 
 ### Natural Language Processing
@@ -95,6 +99,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](../../papers/multimodal.md#barrios26a-modules) · 中文
 - [Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](../../papers/multimodal.md#chen26ch-modules) · 中文
 - [SPR: A Structured Prompt Refinement Network for Modality Missing](../../papers/multimodal.md#chen26dv-modules) · 中文
+- [OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](../../papers/multimodal.md#ding26e-modules) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -111,6 +116,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Riemannian Networks over Full-Rank Correlation Matrices](../../papers/ml-foundations.md#chen26fb-modules) · 中文
 - [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](../../papers/ml-foundations.md#chong26c-modules) · 中文
 - [PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning](../../papers/ml-foundations.md#cosentino26a-modules) · 中文
+- [Rethinking Sparse Mixture of Experts from a Unified Perspective](../../papers/ml-foundations.md#do26b-modules) · 中文
 
 ### Graph Learning and Recommendation
 

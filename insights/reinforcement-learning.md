@@ -64,6 +64,11 @@
 - [代码修复的锚定自博弈](../papers/llm.md#choi26f-reinforcement-learning) · Anchored Self-Play for Code Repair
 - [按问答效果训练上下文压缩](../papers/llm.md#cui26i-reinforcement-learning) · Less Is More: Elevating RAG via Performance-Driven Context Compression
 - [端到端词元边界学习](../papers/llm.md#dauncey26a-reinforcement-learning) · You Can Learn Tokenization End-to-End with Reinforcement Learning
+- [搜索智能体的动作似然保护](../papers/llm.md#deng26k-reinforcement-learning) · On Group Relative Policy Optimization Collapse in Agent Search: The Lazy Likelihood-Displacement
+- [以真实目标的似然增益奖励澄清](../papers/llm.md#deng26l-reinforcement-learning) · Uncertainty-Aware Clarification in LLM Agents with Information Gain
+- [序列锚定的 token 策略更新](../papers/llm.md#ding26i-reinforcement-learning) · TGPO: Efficient Policy Optimization through Sequence Anchor and Information Gating
+- [面向答案的信息流信用分配](../papers/llm.md#dong26f-reinforcement-learning) · How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs
+- [高层计划引导逐步推理](../papers/llm.md#dou26c-reinforcement-learning) · Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning
 
 ### 计算机视觉
 
@@ -108,6 +113,13 @@
 - [最优传输老虎机的熵正则探索](../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) · Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport
 - [离线到在线的动作梯度匹配](../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) · SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer
 - [多元回报分布的切片差异](../papers/reinforcement-learning.md#debes26a-reinforcement-learning) · Multivariate Distributional Reinforcement Learning Using Sliced Divergences
+- [贝叶斯回归树的 Thompson 采样](../papers/reinforcement-learning.md#deng26b-reinforcement-learning) · BFTS: Thompson Sampling with Bayesian Additive Regression Trees
+- [多智能体通信的稀疏选边](../papers/reinforcement-learning.md#deng26n-reinforcement-learning) · Sparse Topology-Aware Pairwise Scoring for Large-Scale Multi-Agent Reinforcement Learning
+- [评论家引导的扩散策略回归](../papers/reinforcement-learning.md#ding26z-reinforcement-learning) · Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance
+- [信赖域逆强化学习的对偶更新](../papers/reinforcement-learning.md#diwan26a-reinforcement-learning) · Trust Region Inverse Reinforcement Learning: Explicit Dual Ascent using Local Policy Updates
+- [大规模 Q 网络的注意力熵控制](../papers/reinforcement-learning.md#dong26d-reinforcement-learning) · TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse
+- [少步 MeanFlow 策略优化](../papers/reinforcement-learning.md#dong26m-reinforcement-learning) · Mean Flow Policy Optimization
+- [流策略的中间状态价值优化](../papers/reinforcement-learning.md#doo26a-reinforcement-learning) · Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -121,6 +133,8 @@
 - [分层评分规则的强化学习课程](../papers/multimodal.md#chen26bk-reinforcement-learning) · RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning
 - [音视频联合推理奖励](../papers/multimodal.md#chen26ed-reinforcement-learning) · OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention
 - [视频分割的像素级策略反馈](../papers/multimodal.md#dai26j-reinforcement-learning) · VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation
+- [主动空间推理的可执行中间奖励](../papers/multimodal.md#deng26x-reinforcement-learning) · Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models
+- [错到对的自纠正轨迹重组](../papers/multimodal.md#ding26m-reinforcement-learning) · Learning Self-Correction in Vision–Language Models via Rollout Augmentation
 
 ### 图学习与推荐
 
@@ -133,4 +147,5 @@
 - [数学反例搜索](../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra
 - [逆合成搜索工具选择](../papers/scientific-ml.md#chang26g-reinforcement-learning) · RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models
 - [医学视觉定位与稀疏推理](../papers/scientific-ml.md#chen26gv-reinforcement-learning) · Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning
+- [连续物理场重建的主动传感](../papers/scientific-ml.md#deng26y-reinforcement-learning) · LASER: Learning Active Sensing for Continuum Field Reconstruction
 <!-- classification:end -->

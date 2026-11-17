@@ -33,6 +33,7 @@
 | <a id="cretu26a-architecture"></a>[SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles](https://proceedings.mlr.press/v306/cretu26a.html) | 分子构象与合成路线的联合潜空间 | 用同一分子潜变量分别解码原子类型和三维坐标，以及序列化的反应合成路径。再以三维药效团为条件在该空间中做扩散采样，使生成结果同时附带候选结构和合成方案。 |
 | <a id="dagli26a-architecture"></a>[Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](https://proceedings.mlr.press/v306/dagli26a.html) | 机械属性场的自适应稀疏体素 | 由共享 Transformer 自粗到细处理待细分体素，让每个候选预测空置、保留或继续细分，并让子体素继承父级隐状态。保留的非空体素携带材料潜变量，可在不同分辨率下恢复杨氏模量、泊松比与密度。 |
 | <a id="dai26a-architecture"></a>[TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](https://proceedings.mlr.press/v306/dai26a.html) | 时间驱动空间网络参数 | 用小网络给空间网络各层的权重组和偏置组分别生成时间坐标，同组参数共享该坐标但各有仿射系数。由此可随时间改变整个空间映射，又省去大超网络逐项生成全部参数的成本。 |
+| <a id="deng26c-architecture"></a>[Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems](https://proceedings.mlr.press/v306/deng26c.html) | 工况条件下的分层图流匹配 | 将流体网格及其物理工况作为条件，用多层图上的消息传递预测流匹配向量场。构建粗图时兼顾邻接关系与局部点密度，使模型能在不规则网格上同时处理局部梯度和远距离作用。 |
 
 <a id="by-modules"></a>
 
@@ -60,6 +61,7 @@
 | <a id="chen26at-loss-functions"></a>[FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](https://proceedings.mlr.press/v306/chen26at.html) | 共病多标签表征 | 让同一局部视觉证据以模糊隶属度支持多个疾病概念，再按共病关系组织概念锚点，避免硬分类边界抹掉可共享的病征。 |
 | <a id="chen26fk-loss-functions"></a>[Self-Supervised Dynamical System Representations for Physiological Time-Series](https://proceedings.mlr.press/v306/chen26fk.html) | 生理时序的跨窗重建监督 | 用同一动力过程的一个窗口估计系统表征，再让该表征参与重建另一个窗口。跨窗共享的生成规律可以帮助重建，各窗口独有的初值和过程噪声难以迁移，从而促使编码器保留可迁移信息。 |
 | <a id="chowdhury26b-loss-functions"></a>[S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation](https://proceedings.mlr.press/v306/chowdhury26b.html) | 医学分割的形态自适应损失 | 从真值掩码计算管状程度、紧致度、边界不规则性和相对面积，用这些量逐样本调节区域、边界等损失的权重，并与数据集层面学习的权重结合。 |
+| <a id="ding26w-loss-functions"></a>[Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation](https://proceedings.mlr.press/v306/ding26w.html) | 固定边界等离子体平衡监督 | 求解非线性 Grad–Shafranov 方程时，将少量求解器平衡场作为监督锚点，与离散方程残差共同训练神经算子。实验中，锚点有助于避开错误解支，联合训练则减轻跨形状与多参数偏移的尾部误差。 |
 
 <a id="by-optimization"></a>
 
@@ -80,6 +82,7 @@
 | <a id="butbaia26a-reinforcement-learning"></a>[Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra](https://proceedings.mlr.press/v306/butbaia26a.html) | 数学反例搜索 | 把构造代数反例建成稀疏奖励的图搜索，使用受约束的多步选项与等变图策略，在长搜索中学习可复用的时间抽象。 |
 | <a id="chang26g-reinforcement-learning"></a>[RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models](https://proceedings.mlr.press/v306/chang26g.html) | 逆合成搜索工具选择 | 搜索时同时决定展开哪个分子、调用哪个单步逆合成模型。用基于分子骨架的强化学习按局面路由，可利用各模型的互补能力。 |
 | <a id="chen26gv-reinforcement-learning"></a>[Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](https://proceedings.mlr.press/v306/chen26gv.html) | 医学视觉定位与稀疏推理 | 让同一策略先在医学图像上定位相关区域，再用裁剪后的视觉词元回答问题。顺序优化两分支并互用答题正确性奖励，使定位步骤得到所保留证据能否支撑答案的反馈。 |
+| <a id="deng26y-reinforcement-learning"></a>[LASER: Learning Active Sensing for Continuum Field Reconstruction](https://proceedings.mlr.press/v306/deng26y.html) | 连续物理场重建的主动传感 | 从稀疏在线观测编码场的潜状态，再用扩散动力学预测未来场状态。策略基于潜空间前瞻估计候选传感器位置对重建精度的影响，学习把传感器移向当前尚未充分观测的区域。 |
 
 <a id="by-training-strategies"></a>
 
@@ -91,6 +94,9 @@
 | <a id="charles26a-training-strategies"></a>[Tokenised Flow Matching for Hierarchical Simulation Based Inference](https://proceedings.mlr.press/v306/charles26a.html) | 层级仿真推断 | 先从单站点仿真学习因子化似然，再拼出多站点合成观测训练完整层级后验，可减少每个训练样本需要调用仿真器的次数。 |
 | <a id="chen26ao-training-strategies"></a>[EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting](https://proceedings.mlr.press/v306/chen26ao.html) | 长时天气预测 | 渐进增加模型可见的累积历史做微调，减轻长时预测误差累积，并用动态加权的组合损失平衡长短预测目标。 |
 | <a id="consens26a-training-strategies"></a>[Predicting evolutionary rate as a pretraining task improves genome language model representations](https://proceedings.mlr.press/v306/consens26a.html) | 基因组模型的进化速率监督 | 将单碱基 PhyloP 分数用作进化速率预训练目标，与序列重建联合优化。对调控基因组和变异效应基准，这种监督为序列重建提供了额外的保守性信号。 |
+| <a id="deng26o-training-strategies"></a>[Discrete Survival Knowledge Distillation for Competing Risks Analysis](https://proceedings.mlr.press/v306/deng26o.html) | 竞争风险的离散危险率蒸馏 | 将每个时间区间内各事件发生及无事件的概率组成多项分布，只在个体仍处于风险集的区间计算师生 KL 散度，并把它加入本地生存似然。可用教师预测作监督，保留删失观测下的风险集结构。 |
+| <a id="deng26p-training-strategies"></a>[Component-Wise Composite Likelihood Distillation for Censored Time-to-Event Data](https://proceedings.mlr.press/v306/deng26p.html) | 删失数据的分量似然蒸馏 | 在复合似然的每个可比较样本集合内，对教师风险分数指数化并归一化，再用该分量上的 KL 散度对齐学生分布。教师只需给出样本风险分数，即可用于 Cox 等仅有部分似然的情形。 |
+| <a id="diaconu26a-training-strategies"></a>[Probabilistic Retrofitting of Learned Simulators](https://proceedings.mlr.press/v306/diaconu26a.html) | 确定性 PDE 模拟器的概率改造 | 把每个集合成员的低维高斯噪声映射为跨空间共享的条件归一化调制量，再用公平版 CRPS 微调预测集合。预训练主干用较小学习率，新增噪声支路用较大学习率，以利用原有动力学表征。 |
 
 <a id="by-data-strategies"></a>
 
@@ -118,6 +124,7 @@
 | <a id="chen26gs-inference"></a>[Coarse-Grained Boltzmann Generators](https://proceedings.mlr.press/v306/chen26gs.html) | 粗粒化玻尔兹曼重要性采样 | 增强采样偏置只依赖粗粒化坐标时，给定该坐标的原子构型条件分布保持不变，因此可用重新计算的无偏投影力拟合平均力势。随后用其玻尔兹曼权重与流模型密度的比值重加权，平衡统计的准确性取决于势的拟合质量。 |
 | <a id="datta26a-inference"></a>[Agentic Framework for Epidemiological Modeling](https://proceedings.mlr.press/v306/datta26a.html) | 流行病模拟器的流图验证 | 先从场景描述生成包含舱室与转移的流图，检查转移合法性以及与免疫衰减、疫苗接种等假设的一致性，再将通过验证的图编译成待校准的动力系统。 |
 | <a id="de-campos26a-inference"></a>[Generative Inverse Design with Abstention via Diagonal Flow Matching](https://proceedings.mlr.press/v306/de-campos26a.html) | 逆设计流的零锚定置信度 | 流匹配训练时让设计坐标和噪声成对，让性能标签连到零。反向生成候选时可直接用应归零的坐标残差衡量不确定性，再用正向重建目标的误差复核候选。 |
+| <a id="ding26a-inference"></a>[Listening Through the Noise: Cauchy-Driven Diffusion Bridges for Robust Gastrointestinal Auscultation and Clinical Benchmarking](https://proceedings.mlr.press/v306/ding26a.html) | 重尾扩散桥的肠鸣音分离 | 用 Cauchy 驱动的扩散桥建模受干扰音频到干净肠鸣音的恢复。采样时把重尾项实现为随机尺度的高斯噪声，使条件尺度固定时能沿用高斯桥的闭式反向更新。 |
 
 <a id="by-representation-learning"></a>
 
@@ -134,6 +141,7 @@
 | <a id="chen26ct-representation-learning"></a>[SLAE: Strictly Local All-atom Environment for Protein Representation](https://proceedings.mlr.press/v306/chen26ct.html) | 蛋白质局部全原子表征 | 以残基附近的重原子类型和相对几何构建局部表征，同时监督全原子坐标重建、氨基酸识别和 Rosetta 相互作用能回归，让表征同时保留侧链几何和局部化学环境。 |
 | <a id="chen26db-representation-learning"></a>[Protein Fold Classification at Scale: Benchmarking and Pretraining](https://proceedings.mlr.press/v306/chen26db.html) | 高掩码蛋白质结构预训练 | 随机掩去最高 90% 的残基，以 SE(3) 不变编码器处理可见结构，让轻量解码器重建骨架坐标。在去冗余的 TEDBench 上，这种自监督表征提升了折叠拓扑分类表现。 |
 | <a id="cheng26m-representation-learning"></a>[Physics-Informed Pre-training on Efficient Electron-Density Images for Organic Material Property Prediction](https://proceedings.mlr.press/v306/cheng26m.html) | 多视角电子密度图表征 | 把三维电子密度转为多视角图像，共享视觉编码器提取各视角特征后池化，并用跨尺度物理任务预训练。论文在有机光伏和发色团数据上验证了这种输入在降低电子密度建模成本的同时仍能预测材料属性。 |
+| <a id="dilip26a-representation-learning"></a>[Adaptive Protein Tokenization](https://proceedings.mlr.press/v306/dilip26a.html) | 蛋白结构的可截断全局分词 | 训练时随机截断蛋白结构量化 token 序列的后缀，并用保留的前缀调节流匹配解码器。这样早期 token 优先承载大小和整体结构等信息，追加 token 可逐步恢复更多几何细节。 |
 
 <a id="by-evaluation"></a>
 
@@ -152,6 +160,7 @@
 | <a id="chen26fp-evaluation"></a>[Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](https://proceedings.mlr.press/v306/chen26fp.html) | 自然感官数据的跨刺激神经预测 | 用真实环境采样训练无监督模型，再用学得的特征预测刺激诱发的皮层响应。仅用普通话训练的模型可预测英语刺激下的听觉响应，用婴儿头戴相机视频训练的模型可预测成年人观看物体图像时的视觉响应。 |
 | <a id="cheng26l-evaluation"></a>[Abstraction Induces the Brain Alignment of Language and Speech Models](https://proceedings.mlr.press/v306/cheng26l.html) | 语言与语音层表征的脑响应对齐 | 逐层测量表征内在维度并预测 fMRI 和 ECoG 信号，发现高维度的中间层通常更贴合脑响应。以脑响应为目标微调时，内在维度和可解码的语义信息也随之增加。 |
 | <a id="dan26a-evaluation"></a>[Quantifying the Generalization Gap in Seizure Detection: A Large-Scale Empirical Benchmark via the SzCORE Challenge](https://proceedings.mlr.press/v306/dan26a.html) | 长程脑电癫痫检测的泛化评测 | 用独立留出的连续脑电记录做容器化盲测，按发作事件及每日误报计分，并单看每名受试者的排名。该测试中最高事件 F1 为 32%，总体领先的算法在受试者之间仍有较大波动。 |
+| <a id="didi26a-evaluation"></a>[FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications](https://proceedings.mlr.press/v306/didi26a.html) | 蛋白适应度的外推切分 | 分别按突变数、突变位置、具体替换、适应度和野生型骨架构造训练与测试切分。例如按适应度用低分变体训练、高分变体测试，可衡量模型能否外推到后续优化所需的高适应度区间。 |
 
 <a id="by-theory-statistics"></a>
 
@@ -162,4 +171,5 @@
 | <a id="antipov26a-theory-statistics"></a>[Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](https://proceedings.mlr.press/v306/antipov26a.html) | 密度比估计 | 用条件 flow matching 沿同一条生成轨迹追踪密度比，省去分别求两种分布似然再相除的流程。 |
 | <a id="bao26a-theory-statistics"></a>[Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](https://proceedings.mlr.press/v306/bao26a.html) | 量子稀疏依赖学习 | 只有 k 个相关位的经典分布可用约 2^k log(n) / ε² 个样本学习。量子态的相应结构只在 k 个量子位上偏离最大混合态，也可利用这种低维依赖。 |
 | <a id="berman26a-theory-statistics"></a>[Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](https://proceedings.mlr.press/v306/berman26a.html) | 群体动力学反演 | 用连续性方程的弱形式约束总体分布演化，并允许非梯度速度场，可重建最小动能梯度流无法表达的输运。 |
+| <a id="ding26c-theory-statistics"></a>[Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](https://proceedings.mlr.press/v306/ding26c.html) | 多病风险的贝叶斯超图 | 以潜在疾病组为超边，使某个风险因子可在多条超边上有不同效应，再汇总疾病所属超边的贡献。用分层先验分别表示超边是否存在、疾病是否属于超边及因子是否作用于超边，便于报告各项后验不确定性。 |
 <!-- classification:end -->

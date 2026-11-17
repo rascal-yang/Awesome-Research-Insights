@@ -62,6 +62,10 @@
 - [推理生成中的动态弃答](../papers/llm.md#davidov26a-inference) · Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning
 - [词元几何感知的截断解码](../papers/llm.md#davoodi26a-inference) · Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models
 - [用注意力温度缓解上下文分布偏移](../papers/llm.md#demir26a-inference) · Optimal Attention Temperature Improves the Robustness of In-Context Learning under Distribution Shift in High Dimensions
+- [混合专家的全局渐进量化](../papers/llm.md#deng26t-inference) · GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs
+- [预算约束下的自适应群体提问](../papers/llm.md#ding26d-inference) · Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions
+- [端云推理的依赖感知子任务路由](../papers/llm.md#dong26g-inference) · HybridFlow: Resource-Adaptive Subtask Routing for Efficient Edge-Cloud LLM Inference
+- [以未来注意力训练 KV 淘汰](../papers/llm.md#dong26h-inference) · ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution
 
 ### 计算机视觉
 
@@ -86,6 +90,8 @@
 - [扩散负引导的阈值投影](../papers/computer-vision.md#choi26m-inference) · Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling
 - [扩散 Transformer 激活稀疏推理](../papers/computer-vision.md#cong26a-inference) · RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models
 - [场景图粒子滤波定位](../papers/computer-vision.md#damblon26a-inference) · SG2Loc: Sequential Visual Localization on 3D Scene Graphs
+- [六维位姿跟踪的漂移重定位](../papers/computer-vision.md#deng26a-inference) · STORM: Segment, Track, and Object Re-Localization from a Single Image
+- [多概念遗忘的掩码合并](../papers/computer-vision.md#deng26i-inference) · Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking
 
 ### 自然语言处理
 
@@ -112,6 +118,7 @@
 - [VLA 不确定性调节感知与动作](../papers/robotics.md#choi26a-inference) · SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models
 - [机器人技能代码的局部重绑定](../papers/robotics.md#choi26c-inference) · Efficient Skill Grounding via Code Refactoring with Small Language Models
 - [函数级 KV 缓存拼接与修补](../papers/robotics.md#chun26a-inference) · Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents
+- [导航中的熵驱动推理](../papers/robotics.md#ding26r-inference) · AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation
 
 ### 多模态学习
 
@@ -140,6 +147,7 @@
 - [分块扩散注意力缓存](../papers/ml-foundations.md#chen26g-inference) · FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion
 - [摊销采样器与粒子采样互训](../papers/ml-foundations.md#choi26l-inference) · Reinforced Sequential Monte Carlo for Amortised Sampling
 - [动态集成的路径聚合与早退](../papers/ml-foundations.md#colaco26a-inference) · Unifying Stacking and Cascading for Efficient Ensemble Inference
+- [离散扩散的免训练 logit 引导](../papers/ml-foundations.md#dou26a-inference) · Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction
 
 ### 图学习与推荐
 
@@ -157,4 +165,5 @@
 - [粗粒化玻尔兹曼重要性采样](../papers/scientific-ml.md#chen26gs-inference) · Coarse-Grained Boltzmann Generators
 - [流行病模拟器的流图验证](../papers/scientific-ml.md#datta26a-inference) · Agentic Framework for Epidemiological Modeling
 - [逆设计流的零锚定置信度](../papers/scientific-ml.md#de-campos26a-inference) · Generative Inverse Design with Abstention via Diagonal Flow Matching
+- [重尾扩散桥的肠鸣音分离](../papers/scientific-ml.md#ding26a-inference) · Listening Through the Noise: Cauchy-Driven Diffusion Bridges for Robust Gastrointestinal Auscultation and Clinical Benchmarking
 <!-- classification:end -->

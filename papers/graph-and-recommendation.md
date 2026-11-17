@@ -37,6 +37,8 @@
 | <a id="chen26ez-loss-functions"></a>[Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](https://proceedings.mlr.press/v306/chen26ez.html) | 推荐排序的伪负例偏好优化 | 两两偏好更新可能几乎不改变正例和未采样负例的相对次序。加入带锚定奖励的伪负例作为额外比较对象，可为这些容易被原有梯度忽略的排序关系补充监督。 |
 | <a id="chen26gu-loss-functions"></a>[GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment](https://proceedings.mlr.press/v306/chen26gu.html) | 联邦图学习的 Fisher 参数对齐 | 用服务端下发的对角 Fisher 信息加权本地参数与全局参数的平方差，使高敏感参数受到更强的偏移惩罚。服务端再依据客户端 Fisher 信息的迹分配模型聚合权重。 |
 | <a id="chen26gx-loss-functions"></a>[ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](https://proceedings.mlr.press/v306/chen26gx.html) | 时序图解释的稳定与转变证据 | 按交互频率对解释子图做软拆分，使重复互动偏向稳定分量、首次或罕见互动偏向转变分量，再用以事件标签为条件的互信息惩罚压低两部分的冗余。 |
+| <a id="deng26u-loss-functions"></a>[Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](https://proceedings.mlr.press/v306/deng26u.html) | 图混合专家的分组对比路由 | 同时按原始节点属性和个性化 PageRank 得到分组，只将两种分组标签都相同的节点放在一起。对比损失让节点的路由分布靠近本组平均分布并区分其他组，以抑制路由坍缩。 |
+| <a id="ding26v-loss-functions"></a>[Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](https://proceedings.mlr.press/v306/ding26v.html) | 属性图聚类的双视图去冗余 | 直接将属性自编码器与图自编码器的嵌入用作两种视图，再通过互信息估计和去相关约束减少重叠信息，使聚类表征能利用属性和拓扑的互补线索。 |
 
 <a id="by-optimization"></a>
 

@@ -77,6 +77,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 
 - [视觉生成偏好对齐](../papers/computer-vision.md#bai26c-loss-functions) · Threshold-Guided Optimization for Visual Generative Models
 - [密集小目标计数](../papers/computer-vision.md#bo26a-loss-functions) · Benchmarking Dense and Indiscernible Object Counting with Blueberries
+- [单步超分辨率的全路径对齐](../papers/computer-vision.md#deng26e-loss-functions) · Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution
 
 ### 自然语言处理
 
@@ -100,6 +101,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [多轮音频编辑的独立加噪](../papers/multimodal.md#chen26dq-loss-functions) · AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing
 - [可变长多模态样本的公平自监督](../papers/multimodal.md#cheong26a-loss-functions) · FairSSL: Fair Multimodal Self-Supervised Learning
 - [长视频配音的掩码与快捷去噪监督](../papers/multimodal.md#dellali26a-loss-functions) · SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos
+- [共享视觉上下文的对比偏好优化](../papers/multimodal.md#deng26z-loss-functions) · Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization
 
 ### 机器学习基础与统计
 
@@ -111,12 +113,15 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [密度加权的分位数回归](../papers/ml-foundations.md#chen26bm-loss-functions) · Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction
 - [专家失衡下的代价敏感路由](../papers/ml-foundations.md#cortes26b-loss-functions) · Optimized Deferral for Imbalanced Settings
 - [极少正标签下的 PU 风险正则](../papers/ml-foundations.md#dai26f-loss-functions) · Positive-Unlabeled Learning with Extreme Scarcity of Labeled Positives
+- [协变量偏移下的期望一致性校准](../papers/ml-foundations.md#dong26e-loss-functions) · Expectation Consistency Loss: Rethink Confidence Calibration under Covariate Shift
 
 ### 图学习与推荐
 
 - [推荐排序的伪负例偏好优化](../papers/graph-and-recommendation.md#chen26ez-loss-functions) · Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach
 - [联邦图学习的 Fisher 参数对齐](../papers/graph-and-recommendation.md#chen26gu-loss-functions) · GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment
 - [时序图解释的稳定与转变证据](../papers/graph-and-recommendation.md#chen26gx-loss-functions) · ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability
+- [图混合专家的分组对比路由](../papers/graph-and-recommendation.md#deng26u-loss-functions) · Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion
+- [属性图聚类的双视图去冗余](../papers/graph-and-recommendation.md#ding26v-loss-functions) · Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning
 
 ### 科学机器学习
 
@@ -128,4 +133,5 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [共病多标签表征](../papers/scientific-ml.md#chen26at-loss-functions) · FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis
 - [生理时序的跨窗重建监督](../papers/scientific-ml.md#chen26fk-loss-functions) · Self-Supervised Dynamical System Representations for Physiological Time-Series
 - [医学分割的形态自适应损失](../papers/scientific-ml.md#chowdhury26b-loss-functions) · S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation
+- [固定边界等离子体平衡监督](../papers/scientific-ml.md#ding26w-loss-functions) · Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation
 <!-- classification:end -->

@@ -9,6 +9,14 @@ Language processing methods, including structured prediction and retrieval.
 
 The linked short insights are available in Chinese.
 
+<a id="by-architecture"></a>
+
+### Architectures
+
+| Paper | Insight |
+| :--- | :--- |
+| [Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) | [Read insight (中文)](../../papers/nlp.md#dervishi26a-architecture) |
+
 <a id="by-modules"></a>
 
 ### Modules

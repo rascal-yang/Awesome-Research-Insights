@@ -166,6 +166,16 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Beyond First-order Asymptotics in Sequential Mean Testing](../../papers/ml-foundations.md#deep26a-theory-statistics) · 中文
 - [A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models](../../papers/ml-foundations.md#defilippis26a-theory-statistics) · 中文
 - [Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing](../../papers/ml-foundations.md#della-vecchia26a-theory-statistics) · 中文
+- [Uncovering Bias Mechanisms in Observational Studies](../../papers/ml-foundations.md#demirel26a-theory-statistics) · 中文
+- [A proximal ADMM for multiblock problems with block anti-upper triangular constraints](../../papers/ml-foundations.md#deng26s-theory-statistics) · 中文
+- [Sample Complexity Bounds for Robust Mean Estimation with Mean-Shift Contamination](../../papers/ml-foundations.md#diakonikolas26a-theory-statistics) · 中文
+- [Understanding Private Learning From Feature Perspective](../../papers/ml-foundations.md#ding26g-theory-statistics) · 中文
+- [Towards Understanding the Dynamics of Low-Rank Adaptation](../../papers/ml-foundations.md#ding26k-theory-statistics) · 中文
+- [The Fisher Dimension: Instance-Dependent Complexity for Causal Discovery](../../papers/ml-foundations.md#doan26a-theory-statistics) · 中文
+- [Universal Learning of Nonlinear Dynamics](../../papers/ml-foundations.md#dogariu26a-theory-statistics) · 中文
+- [Identifying Partially Observed Causal Models from Heterogeneous/Nonstationary Data](../../papers/ml-foundations.md#dong26a-theory-statistics) · 中文
+- [Why ReLU? A Bit-Model Dichotomy for Deep Network Training](../../papers/ml-foundations.md#doron-arad26a-theory-statistics) · 中文
+- [Conformal Calibration Transfer](../../papers/ml-foundations.md#doula26a-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -181,4 +191,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](../../papers/scientific-ml.md#antipov26a-theory-statistics) · 中文
 - [Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](../../papers/scientific-ml.md#bao26a-theory-statistics) · 中文
 - [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../papers/scientific-ml.md#berman26a-theory-statistics) · 中文
+- [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../../papers/scientific-ml.md#ding26c-theory-statistics) · 中文
 <!-- classification:end -->

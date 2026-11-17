@@ -39,6 +39,8 @@ The linked short insights are available in Chinese.
 | [Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](https://proceedings.mlr.press/v306/chen26ez.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ez-loss-functions) |
 | [GraphP-FL: Personalized Federated Graph Learning via Dynamic Structure Awareness and Fisher Information Elastic Alignment](https://proceedings.mlr.press/v306/chen26gu.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26gu-loss-functions) |
 | [ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](https://proceedings.mlr.press/v306/chen26gx.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26gx-loss-functions) |
+| [Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion](https://proceedings.mlr.press/v306/deng26u.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#deng26u-loss-functions) |
+| [Discriminative Attribute Graph Clustering Through Topology-Guided Contrastive Learning](https://proceedings.mlr.press/v306/ding26v.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ding26v-loss-functions) |
 
 <a id="by-optimization"></a>
 

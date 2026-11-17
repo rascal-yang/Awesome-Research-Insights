@@ -7,6 +7,14 @@
 <!-- classification:start -->
 ## 按技术类型浏览
 
+<a id="by-architecture"></a>
+
+### 模型架构
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="dervishi26a-architecture"></a>[Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) | 文本编码与掩码重建解耦 | 让编码器表示可见 token，由独立预测器读取表示并重建被遮蔽 token。用互补掩码构造同一句子的两份视图，各视图彼此隔离，两次预测合计能覆盖所有 token，并支持较高掩码率。 |
+
 <a id="by-modules"></a>
 
 ### 模块

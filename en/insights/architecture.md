@@ -15,6 +15,7 @@ Model-wide design and information flow.
 - [LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining](../../papers/llm.md#chen26cg-architecture) · 中文
 - [Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism](../../papers/llm.md#cui26c-architecture) · 中文
 - [Context-level Language Modeling by Learning Predictive Context Embeddings](../../papers/llm.md#dai26g-architecture) · 中文
+- [Neural Attention Search Linear: Towards Adaptive Token-Level Hybrid Attention Models](../../papers/llm.md#deng26v-architecture) · 中文
 
 ### Computer Vision
 
@@ -24,6 +25,11 @@ Model-wide design and information flow.
 - [Autoregression with Self-Token Prediction](../../papers/computer-vision.md#chen26du-architecture) · 中文
 - [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](../../papers/computer-vision.md#chen26ga-architecture) · 中文
 - [SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](../../papers/computer-vision.md#choy26a-architecture) · 中文
+- [Native Spatio-Temporal 4D Variational Autoencoder](../../papers/computer-vision.md#ding26u-architecture) · 中文
+
+### Natural Language Processing
+
+- [Separating Representation from Reconstruction Enables Scalable Text Encoders](../../papers/nlp.md#dervishi26a-architecture) · 中文
 
 ### Reinforcement Learning
 
@@ -34,6 +40,7 @@ Model-wide design and information flow.
 - [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](../../papers/robotics.md#bai26h-architecture) · 中文
 - [Hierarchical Policy Learning via Spectral Decomposition](../../papers/robotics.md#cao26u-architecture) · 中文
 - [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](../../papers/robotics.md#chuang26a-architecture) · 中文
+- [Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](../../papers/robotics.md#ding26x-architecture) · 中文
 
 ### Multimodal Learning
 
@@ -84,4 +91,5 @@ Model-wide design and information flow.
 - [SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles](../../papers/scientific-ml.md#cretu26a-architecture) · 中文
 - [Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](../../papers/scientific-ml.md#dagli26a-architecture) · 中文
 - [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](../../papers/scientific-ml.md#dai26a-architecture) · 中文
+- [Condition-Aware Graph Flow Matching for Modeling the Distributions of Complex Fluid Systems](../../papers/scientific-ml.md#deng26c-architecture) · 中文
 <!-- classification:end -->

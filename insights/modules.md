@@ -73,6 +73,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [线性投影后的局部归一化](../papers/llm.md#chen26dj-modules) · SimpleGPT: Improving GPT via A Simple Normalization Strategy
 - [独立价值空间的桥接词元](../papers/llm.md#chen26dw-modules) · Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance
 - [逐词元全局注意力路由](../papers/llm.md#choudhary26a-modules) · Learning When to Attend: Conditional Memory Access for Long-Context LLMs
+- [连分式因果 token 混合](../papers/llm.md#dhurandhar26a-modules) · CoFrGeNet: Continued Fraction Architectures for Language Generation
+- [基于专家权重谱的免训练路由](../papers/llm.md#do26a-modules) · Eigenvectors of Experts are Training-free Non-collapsing Routers
 
 ### 计算机视觉
 
@@ -84,6 +86,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [视频超分的小波编码前端](../papers/computer-vision.md#chen26ce-modules) · WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder
 - [ViT 多层注意力探针](../papers/computer-vision.md#ciernik26a-modules) · Attentive Multi-Layer Fusion for Vision Transformers
 - [视觉概念瓶颈的原型证据](../papers/computer-vision.md#colamonaco26a-modules) · Prototype-Grounded Concept Models for Verifiable Concept Alignment
+- [卷积权重与特征的双空间扰动](../papers/computer-vision.md#dhar26a-modules) · Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?
+- [偏振物理先验的透明物体深度](../papers/computer-vision.md#dong26i-modules) · PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors
 - [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 ### 自然语言处理
@@ -99,6 +103,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [细粒度视觉定位](../papers/multimodal.md#barrios26a-modules) · MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs
 - [非对称 RGB-D 特征融合](../papers/multimodal.md#chen26ch-modules) · Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance
 - [缺失模态的结构化提示](../papers/multimodal.md#chen26dv-modules) · SPR: A Structured Prompt Refinement Network for Modality Missing
+- [音视频非对称 token 压缩](../papers/multimodal.md#ding26e-modules) · OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
 
 ### 机器学习基础与统计
 
@@ -115,6 +120,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [相关矩阵流形全连接层](../papers/ml-foundations.md#chen26fb-modules) · Riemannian Networks over Full-Rank Correlation Matrices
 - [时间序列的后续轨迹检索](../papers/ml-foundations.md#chong26c-modules) · Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting
 - [无需旧样本的持续学习适配器](../papers/ml-foundations.md#cosentino26a-modules) · PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning
+- [词元与专家的联合稀疏路由](../papers/ml-foundations.md#do26b-modules) · Rethinking Sparse Mixture of Experts from a Unified Perspective
 
 ### 图学习与推荐
 
