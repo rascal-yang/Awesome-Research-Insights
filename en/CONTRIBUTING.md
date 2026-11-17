@@ -25,6 +25,8 @@ Name the specific contribution and how someone could reuse it. Routine reporting
 
 Keep one representative card per reusable mechanism. Compare the key operations, assumptions, and evidence in the papers. Choose the source that explains the mechanism and its applicable conditions most clearly. A paper using the same mechanism on another task, dataset, or backbone qualifies for its own card if it introduces an independently reusable change or verifies a different boundary of applicability. Record the representative paper ID in the screening reason when excluding a duplicate.
 
+This cleanup also prioritizes the existing ICML 2026 cards. Starting from 4,105 papers, remove at least half and retain at most 2,052 cards. Compare papers that pass the technical criteria by their design contribution relative to the closest method, how independently the mechanism can be used, and whether it changes a concrete technical decision. Prioritize clear operations, applicable conditions, and contributions with few substitutes. Record capacity-based exclusions explicitly in the manifest.
+
 ## Add or revise a card
 
 1. Search by paper title and identifier. When a preprint and proceedings paper describe the same work, update the sources in its existing card.
