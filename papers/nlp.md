@@ -63,7 +63,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="banayeeanzade26a-data-strategies"></a>[EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-banayeeanzade26a) | 差分隐私合成数据 | 只提取和净化一次私有数据相对公共先验的激活偏移向量，之后用它引导解码。重复合成样本属于后处理，无需重复消耗隐私预算。 |
-| <a id="cho26i-data-strategies"></a>[Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://proceedings.mlr.press/v306/cho26i.html) | 临床文本改写的专家约束 | 先让轻量医学专家模型标出临床笔记中必须保留语义的词项，再把原文和词项约束交给通用模型改写，沿用原始标签。实验同时检查词元和医学概念，测量改写对关键内容的保留及幻觉引入。 |
+| <a id="cho26i-data-strategies"></a>[Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://proceedings.mlr.press/v306/cho26i.html) · [论文卡](../conferences/icml-2026/cards/0701-0800.md#paper-cho26i) | 临床文本改写的专家约束 | 先让轻量医学专家模型标出临床笔记中必须保留语义的词项，再把原文和词项约束交给通用模型改写，沿用原始标签。实验同时检查词元和医学概念，测量改写对关键内容的保留及幻觉引入。 |
 | <a id="dutta26a-data-strategies"></a>[HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](https://proceedings.mlr.press/v306/dutta26a.html) | 对比学习的困难负例组批 | 组批时用查询与候选负文档的相似度减去正、负文档相似度的加权项，优先选对查询有迷惑性但与正例不近重复的负例。再贪心最大化子模组批目标，让这种难负例随训练批次变化。 |
 
 <a id="by-inference"></a>
@@ -75,7 +75,7 @@
 | <a id="agrawal26d-inference"></a>[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://proceedings.mlr.press/v306/agrawal26d.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agrawal26d) | 排序与检索 | 把一次多项排序转换成多条比较边，用传递闭包复用查询结果，再围绕前 k 名继续查询。循环偏好可合成同一档。 |
 | <a id="ai26b-inference"></a>[PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ai26b) | 文本水印 | 把水印放到语义簇层，通过密钥与语义历史同步随机性，让释义改写后仍可在语义层检测水印。 |
 | <a id="an26a-inference"></a>[IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-an26a) | 句子级水印 | 按模型和用户组织分层水印标识，用语义及句法信号筛选句子候选，再用分层检索缩小溯源检测范围。 |
-| <a id="chien26b-inference"></a>[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) | 全双工语音的异步检索 | 语音模型用特殊词元决定是否检索，把流式转录交给后台后继续生成。利用开始应答到说出关键信息的时间差，把返回的检索文本编码后注入后续生成，兼顾语音交互时延与事实性。 |
+| <a id="chien26b-inference"></a>[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) · [论文卡](../conferences/icml-2026/cards/0701-0800.md#paper-chien26b) | 全双工语音的异步检索 | 语音模型用特殊词元决定是否检索，把流式转录交给后台后继续生成。利用开始应答到说出关键信息的时间差，把返回的检索文本编码后注入后续生成，兼顾语音交互时延与事实性。 |
 | <a id="du26i-inference"></a>[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://proceedings.mlr.press/v306/du26i.html) | 语音情感的稀疏特征干预 | 用稀疏自编码器分解文本转语音模型的语义隐状态，筛出与特定情感相关的潜特征。生成时只增减这些特征的激活，沿各自的解码方向改变隐状态，无需调整主干权重。 |
 | <a id="guo26x-inference"></a>[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://proceedings.mlr.press/v306/guo26x.html) | 稀疏编码的多向量倒排检索 | 用稀疏自编码器把查询和文档 token 投到高维稀疏空间，按激活维度建倒排表。共享非零维度的候选可先被召回，再计算 token 级最大相似度，省去大规模索引构建时的 K-means 聚类。 |
 
