@@ -16,7 +16,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest screening · 2026-11-18** · [ICML 2026 · 4,450 / 6,552 screened · 4,150 included](conferences/icml-2026/README.md)
+**Latest screening · 2026-11-18** · [ICML 2026 · 4,451 / 6,552 screened · 4,151 included](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -29,12 +29,12 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="natural-language-processing"></a>[Natural Language Processing](en/papers/nlp.md) | 76 | Language, speech, retrieval, and text processing. |
 | <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 278 | Sequential decisions, rewards, policy learning, and games. |
 | <a id="robotics"></a>[Robotics](en/papers/robotics.md) | 158 | Robot perception, policy learning, planning, and control. |
-| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 421 | Learning and reasoning across vision, text, audio, and other modalities. |
+| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 422 | Learning and reasoning across vision, text, audio, and other modalities. |
 | <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 995 | General learning methods, optimization, learning theory, and inference. |
 | <a id="graph-and-recommendation"></a>[Graph Learning and Recommendation](en/papers/graph-and-recommendation.md) | 160 | Graph models, knowledge graphs, and recommender systems. |
 | <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 387 | Machine learning for physics, medicine, biology, and engineering. |
 
-**4,151 papers · 4,152 mechanisms.**
+**4,152 papers · 4,153 mechanisms.**
 
 <a id="insights-by-technical-category"></a>
 
@@ -49,18 +49,18 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[Reinforcement Learning Methods](en/insights/reinforcement-learning.md) | 412 | Rewards, exploration, credit assignment, and policy updates. |
 | <a id="training-strategies"></a>[Training Strategies](en/insights/training-strategies.md) | 373 | Schedules, fine-tuning, distillation, and transfer. |
 | <a id="data-strategies"></a>[Data Strategies](en/insights/data-strategies.md) | 172 | Data construction, selection, annotation, and sampling. |
-| <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 636 | Decoding, search, test-time adaptation, and efficient execution. |
+| <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 637 | Decoding, search, test-time adaptation, and efficient execution. |
 | [Representation Learning](en/insights/representation-learning.md) | 293 | Representation extraction, alignment, transfer, and disentanglement. |
 | [Evaluation and Diagnostics](en/insights/evaluation.md) | 568 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
 | [Theory and Statistics](en/insights/theory-statistics.md) | 555 | Learning guarantees, counterexamples, estimation, and statistical tests. |
 
 ## Recent Updates
 
+- **2026-11-18** · Screened ICML 2026 papers 4450 and updated the indexes.
+
 - **2026-11-18** · Screened ICML 2026 papers 4430–4449 and updated the indexes.
 
 - **2026-11-18** · Screened ICML 2026 papers 4410–4429 and updated the indexes.
-
-- **2026-11-18** · Screened ICML 2026 papers 4390–4409 and updated the indexes.
 
 <a id="icml-2026-first-batch"></a>
 

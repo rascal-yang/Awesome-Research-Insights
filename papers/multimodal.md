@@ -345,6 +345,7 @@
 - <a id="shen26y-inference"></a>[Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning](../conferences/icml-2026/cards/4001-4100.md#paper-shen26y)
 - <a id="song26d-inference"></a>[When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation](../conferences/icml-2026/cards/4201-4300.md#paper-song26d)
 - <a id="sun26aq-inference"></a>[Very Efficient Listwise Multimodal Reranking for Long Documents](../conferences/icml-2026/cards/4301-4400.md#paper-sun26aq)
+- <a id="tian26j-inference"></a>[Neutral-Reference Prompting for Vision–Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tian26j)
 
 <a id="by-representation-learning"></a>
 

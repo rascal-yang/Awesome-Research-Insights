@@ -4448,7 +4448,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4447	tian26g							排除：关系/节点分层总结、阈值更新与多尺度检索构成现成LLM记忆流程；Hamiltonian明确不被优化，RG算子是LLM启发式更新。阈值3和约3.8k上下文峰值仅两基准局部调参曲线，不能证明独立相变/普适定律；缺少隔离新机制的证据（PDF3–5、7–9页）。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26g/tian26g.pdf	rule-excluded
 4448	tian26h	3	4	3	3	66		新增量3：异常事件检测可用同一编码器的“加入事件后−历史”残差隔离新变化，再将正常残差约束到壳层而非全部压向零；该辅助目标可独立于密度边界模块使用。；复用4：UCI/Enron/LastFM真实异常及Wikipedia/MOOC等合成异常；有限标签、1/2/3异常few-shot、无标签设定；AUROC/AP/F1（%）。；可用3及独特性3：来源：既有CTDG编码器、one-class球及Zhang2024双球；新增端到端残差/壳层restriction目标；实际用TCL/CAWN/DyGFormer和去Res/去LRR/去LBO比较。；保留依据仅残差与独立壳层辅助目标；PDF第5页图像确认Eq11正常项|min(softplus(logp-Bn),0)|恒0，与文字边界惩罚不符，未擅自修正、未声称精确复现完整双边界；异质真实异常对超参更敏感，单数据消融不能保证未知异常普适性。（PDF第3,4,5,7,8页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26h/tian26h.pdf	scored
 4449	tian26i	4	5	4	4	86		新增量/复用/可用/独特性依次为(4, 5, 4, 4)；多视角融合应让高冲突阻止不确定性盲目下降；CMAM按信念冲突在乘积不确定性与调和平均不确定性间插值，可独立于睡眠模型使用。 对照与边界：来源：EDL/主观逻辑、DS与ECML/RCML；实际消融均值融合、Xu2024融合、去混合类别；通用CMAM比分视角基线。 命题证明仅C→0与C→1极限，不是任意中间冲突均增加不确定性；可由公式看到阈值依赖ua/ub；非临床可靠性保证；粗类平均映射有任务假设；多意见组合顺序与高维零信念边界需另核。（PDF第4、5、6、8、9页） 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26i/tian26i.pdf	scored
-4450	tian26j							待原文复核评分	pending
+4450	tian26j	3	4	3	3	66		新增量是双参考/双门控的局部预测修正，非中性校准本身；可复用到冻结视觉语言分类推理；输入、门限与候选选择明确，但校准与图生成有成本，理论不当作正确翻转保证。独特性为选择性纠错，通用去偏思想已有。PDF6–8、21、24页。原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26j/tian26j.pdf	scored
 4451	tian26k	4	4	4	4	80		技术选择：ViT 特征蒸馏不把单图低秩诊断误当统一瓶颈；Lift 保留训练/推理共用升维编码，WideLast 只加宽末块，分别修复编码不匹配与保留输入自适应宽表示，区别于只在损失端加投影（PDF 第 4、6 页）。	scored
 4452	tian26l							待原文复核评分	pending
 4453	tian26m							待原文复核评分	pending

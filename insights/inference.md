@@ -582,6 +582,7 @@
 - [用固定频谱工作区推进视觉思考](../conferences/icml-2026/cards/4001-4100.md#shen26y-inference) · Spectral-Progressive Thought Flow for Lightweight Multimodal Reasoning
 - [去噪置信波动定位幻觉](../conferences/icml-2026/cards/4201-4300.md#song26d-inference) · When Diffusion Language Models Hesitate: Detecting and Correcting Visual Hallucinations via Confidence Fluctuation
 - [查询前缀复用的图像裁剪](../conferences/icml-2026/cards/4301-4400.md#sun26aq-inference) · Very Efficient Listwise Multimodal Reranking for Long Documents
+- [neutral-reference-pairwise-correction](../conferences/icml-2026/cards/4401-4500.md#tian26j-inference) · Neutral-Reference Prompting for Vision–Language Models
 
 <a id="by-ml-foundations"></a>
 
