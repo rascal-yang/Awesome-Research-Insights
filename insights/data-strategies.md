@@ -59,6 +59,7 @@
 - [补少量实体恒等句让自回归模型学反向关联](../conferences/icml-2026/cards/3101-3200.md#ma26o-data-strategies) · Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge
 - [用非对称辩论验证定制守卫训练样本](../conferences/icml-2026/cards/3201-3300.md#mazza26a-data-strategies) · BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate
 - [主动偏好对选择](../conferences/icml-2026/cards/3201-3300.md#melikidze26a-data-strategies) · ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning
+- [智能体轨迹水印](../conferences/icml-2026/cards/3201-3300.md#meng26b-data-strategies) · Watermarking LLM Agent Trajectories
 
 <a id="by-computer-vision"></a>
 

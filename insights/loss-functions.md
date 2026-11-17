@@ -185,4 +185,5 @@
 - [迭代神经算子逐步加权高频残差](../conferences/icml-2026/cards/2801-2900.md#liu26dm-loss-functions) · Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation
 - [PINN 边界与残差对齐](../conferences/icml-2026/cards/3001-3100.md#luo26am-loss-functions) · Mitigating Gradient Pathology in PINNs through Aligned Constraint
 - [单细胞扰动稀疏信号加权](../conferences/icml-2026/cards/3201-3300.md#mejia26a-loss-functions) · Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation
+- [混沌系统模拟](../conferences/icml-2026/cards/3201-3300.md#melo26a-loss-functions) · Learning to Emulate Chaos: Adversarial Optimal Transport Regularization
 <!-- classification:end -->

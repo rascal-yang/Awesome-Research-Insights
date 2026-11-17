@@ -306,6 +306,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="mani26a-optimization"></a>[Few-Shot Design Optimization by Exploiting Auxiliary Information](../../conferences/icml-2026/cards/3201-3300.md#paper-mani26a)
 - <a id="mcginnis26a-optimization"></a>[Optimizing Rank for High-Fidelity Implicit Neural Representations](../../conferences/icml-2026/cards/3201-3300.md#paper-mcginnis26a)
 - <a id="mehrpanah26a-optimization"></a>[Improving Adversarial Robustness of Attribution via Implicit Regularization](../../conferences/icml-2026/cards/3201-3300.md#paper-mehrpanah26a)
+- <a id="meng26j-optimization"></a>[Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26j)
+- <a id="messaoud26a-optimization"></a>[Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities](../../conferences/icml-2026/cards/3201-3300.md#paper-messaoud26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -475,6 +477,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ma26ao-representation-learning"></a>[Reliable Neighborhood-Aware Multi-View Outlier Detection](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ao)
 - <a id="makinen26a-representation-learning"></a>[Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings](../../conferences/icml-2026/cards/3101-3200.md#paper-makinen26a)
 - <a id="mao26c-representation-learning"></a>[Identifying Learnwares via Reduced Neural Conditional Mean Embedding](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26c)
+- <a id="meunier26a-representation-learning"></a>[Outcome-Aware Spectral Feature Learning for Instrumental Variable Regression](../../conferences/icml-2026/cards/3201-3300.md#paper-meunier26a)
 
 <a id="by-evaluation"></a>
 
@@ -524,6 +527,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="longpre26a-evaluation"></a>[FLARE-AI: Flaw Reporting for AI](../../conferences/icml-2026/cards/2901-3000.md#paper-longpre26a)
 - <a id="ma26k-evaluation"></a>[Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26k)
 - <a id="martens26a-evaluation"></a>[OC-space: a Unifying Perspective on Verification of Tree Ensembles](../../conferences/icml-2026/cards/3201-3300.md#paper-martens26a)
+- <a id="meszaros26a-evaluation"></a>[Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers](../../conferences/icml-2026/cards/3201-3300.md#paper-meszaros26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -847,4 +851,10 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="maurer26a-theory-statistics"></a>[Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime](../../conferences/icml-2026/cards/3201-3300.md#paper-maurer26a)
 - <a id="medvedev26a-theory-statistics"></a>[Positive Distribution Shift as a Framework for Understanding Tractable Learning](../../conferences/icml-2026/cards/3201-3300.md#paper-medvedev26a)
 - <a id="melnychuk26a-theory-statistics"></a>[Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](../../conferences/icml-2026/cards/3201-3300.md#paper-melnychuk26a)
+- <a id="menadjiev26a-theory-statistics"></a>[DistMatch: Adaptive Binning via Distribution Matching for Robust Sequential Conformal Prediction](../../conferences/icml-2026/cards/3201-3300.md#paper-menadjiev26a)
+- <a id="mendes26a-theory-statistics"></a>[A Solvable High-Dimensional Model Where Nonlinear Autoencoders Learn Structure Invisible to PCA While Test Loss Misaligns With Generalization](../../conferences/icml-2026/cards/3201-3300.md#paper-mendes26a)
+- <a id="mensch26a-theory-statistics"></a>[Robust Stochastic Gradient Posterior Sampling with Lattice Based Discretisation](../../conferences/icml-2026/cards/3201-3300.md#paper-mensch26a)
+- <a id="merrill26a-theory-statistics"></a>[Why Are Linear RNNs More Parallelizable?](../../conferences/icml-2026/cards/3201-3300.md#paper-merrill26a)
+- <a id="micheli26a-theory-statistics"></a>[Riemannian Neural Optimal Transport](../../conferences/icml-2026/cards/3201-3300.md#paper-micheli26a)
+- <a id="mikulasch26a-theory-statistics"></a>[Understanding Self-Supervised Learning via Latent Distribution Matching](../../conferences/icml-2026/cards/3201-3300.md#paper-mikulasch26a)
 <!-- classification:end -->

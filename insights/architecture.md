@@ -51,6 +51,7 @@
 - [把上下文键值视为逐步实例化的两层网络](../conferences/icml-2026/cards/3001-3100.md#lu26aq-architecture) · HyperMLP: An Integrated Perspective for Sequence Modeling
 - [以自激活秩一键值原子积累持续学习记忆](../conferences/icml-2026/cards/3001-3100.md#lu26au-architecture) · Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts
 - [线性注意头内记忆分组](../conferences/icml-2026/cards/3201-3300.md#mei26a-architecture) · Head-in-Head in Linear Attention
+- [用结构化技能和非参数 PPO 门升级代理记忆](../conferences/icml-2026/cards/3201-3300.md#mi26d-architecture) · Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents
 
 <a id="by-computer-vision"></a>
 
@@ -184,6 +185,8 @@
 - [移动界面阶段专家](../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning
 - [语音和文本的分组加共享专家路由](../conferences/icml-2026/cards/2901-3000.md#lou26h-architecture) · MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts
 - [文本控制音乐修复与母带](../conferences/icml-2026/cards/3201-3300.md#melechovsky26a-architecture) · SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering
+- [跨模态消息门控](../conferences/icml-2026/cards/3201-3300.md#meng26a-architecture) · Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration
+- [按实际效用维护可组合的界面操作记忆](../conferences/icml-2026/cards/3201-3300.md#mi26b-architecture) · Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution
 
 <a id="by-ml-foundations"></a>
 
@@ -252,6 +255,7 @@
 - [在多尺度子图之图中路由曲率专家](../conferences/icml-2026/cards/2801-2900.md#liu26x-architecture) · Learning Graph Foundation Models on Riemannian Graph-of-Graphs
 - [关系数据库状态空间模型](../conferences/icml-2026/cards/2901-3000.md#liu26ep-architecture) · Ramba: Selective State-Space Models for Relational Deep Learning
 - [用全局调制 token 让扩散生成满足网络链路约束](../conferences/icml-2026/cards/3201-3300.md#marcoccia26a-architecture) · NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies
+- [在知识图查询执行合约中显式绑定否定范围](../conferences/icml-2026/cards/3201-3300.md#miao26e-architecture) · LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation
 
 <a id="by-scientific-ml"></a>
 
@@ -336,4 +340,8 @@
 - [在数据空间预测干净雷达图并用弱平流稳住降水输运](../conferences/icml-2026/cards/3001-3100.md#luo26l-architecture) · Physically-Guided Data-Space Rectified Flow for Precipitation Nowcasting
 - [可追溯病灶概念的多视角分级](../conferences/icml-2026/cards/3001-3100.md#luo26ac-architecture) · ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis
 - [跨领域连续动力学的共享体素与网格抖动](../conferences/icml-2026/cards/3201-3300.md#mccabe26a-architecture) · Walrus: A Cross-domain Foundation Model for Continuum Dynamics
+- [用表型条件化脑图的多跳路由](../conferences/icml-2026/cards/3201-3300.md#meng26f-architecture) · PhenoBrain: Phenotype-Conditioned Long-Range Communication for Multi-Modal Brain Network Analysis
+- [显式控制深层 PINN 的输入雅可比](../conferences/icml-2026/cards/3201-3300.md#meng26i-architecture) · Deep Coupling Learning for Solving PDEs
+- [按近端分裂连接物理与神经求解块](../conferences/icml-2026/cards/3201-3300.md#mezidi26a-architecture) · Proximal Splitting Methods for Hybrid Differentiable Models
+- [用对称耦合放大电池早期微弱退化差异](../conferences/icml-2026/cards/3201-3300.md#miao26d-architecture) · DITING: A Weak Degradation Listener for Battery Lifetime Early Prediction
 <!-- classification:end -->

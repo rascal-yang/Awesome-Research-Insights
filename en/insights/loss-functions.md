@@ -185,4 +185,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation](../../conferences/icml-2026/cards/2801-2900.md#liu26dm-loss-functions) · 中文
 - [Mitigating Gradient Pathology in PINNs through Aligned Constraint](../../conferences/icml-2026/cards/3001-3100.md#luo26am-loss-functions) · 中文
 - [Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation](../../conferences/icml-2026/cards/3201-3300.md#mejia26a-loss-functions) · 中文
+- [Learning to Emulate Chaos: Adversarial Optimal Transport Regularization](../../conferences/icml-2026/cards/3201-3300.md#melo26a-loss-functions) · 中文
 <!-- classification:end -->

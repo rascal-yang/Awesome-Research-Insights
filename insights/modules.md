@@ -80,6 +80,7 @@
 - [用相机位姿引导时空深度特征匹配](../conferences/icml-2026/cards/2801-2900.md#liu26v-modules) · GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth
 - [体素化前径向缩放保留近处小目标细节](../conferences/icml-2026/cards/2901-3000.md#liu26gn-modules) · Radial Scaling Voxelization for Accurate Small Object 3D Detection
 - [视觉适配器的阶段共享与动态权重](../conferences/icml-2026/cards/2901-3000.md#lou26i-modules) · Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing
+- [恢复线性注意力中的查询范数](../conferences/icml-2026/cards/3201-3300.md#meng26g-modules) · Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -120,6 +121,7 @@
 - [以可微软投影保留稀疏点云的视觉连接](../conferences/icml-2026/cards/2601-2700.md#li26io-modules) · SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion
 - [脉冲集合相似度纠正注意力密度偏差](../conferences/icml-2026/cards/2701-2800.md#lim26a-modules) · Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity
 - [视觉证据与推理约束的双潜记忆](../conferences/icml-2026/cards/3101-3200.md#ma26ac-modules) · Dual-Latent Memory Routing for Vision-Language Reasoning
+- [共用跨模态适配器学习视频质量而非类别语义](../conferences/icml-2026/cards/3201-3300.md#mi26c-modules) · Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation
 
 <a id="by-ml-foundations"></a>
 

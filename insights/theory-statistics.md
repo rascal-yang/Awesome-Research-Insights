@@ -53,6 +53,7 @@
 - [漂移下在线共形事实性](../conferences/icml-2026/cards/2901-3000.md#liu26eu-theory-statistics) · Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality
 - [用已知非成员校准训练数据集合识别](../conferences/icml-2026/cards/2901-3000.md#liu26ft-theory-statistics) · Provable Training Data Identification for Large Language Models
 - [混合专家的活跃参数与路由统计代价](../conferences/icml-2026/cards/3201-3300.md#mayaki26a-theory-statistics) · Generalization and Scaling Laws for Mixture-of-ExpertsTransformers
+- [从可分辨提示区域估计输出容量](../conferences/icml-2026/cards/3201-3300.md#meyer26a-theory-statistics) · How Many Different Outputs Can a Transformer Generate?
 
 <a id="by-computer-vision"></a>
 
@@ -468,6 +469,12 @@
 - [利用高温训练误差估计插值模型的泛化界](../conferences/icml-2026/cards/3201-3300.md#maurer26a-theory-statistics) · Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime
 - [正向协变量偏移可学性](../conferences/icml-2026/cards/3201-3300.md#medvedev26a-theory-statistics) · Positive Distribution Shift as a Framework for Understanding Tractable Learning
 - [因果 PFN 后验频率校准](../conferences/icml-2026/cards/3201-3300.md#melnychuk26a-theory-statistics) · Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference
+- [序列保形校准](../conferences/icml-2026/cards/3201-3300.md#menadjiev26a-theory-statistics) · DistMatch: Adaptive Binning via Distribution Matching for Robust Sequential Conformal Prediction
+- [非线性潜变量恢复](../conferences/icml-2026/cards/3201-3300.md#mendes26a-theory-statistics) · A Solvable High-Dimensional Model Where Nonlinear Autoencoders Learn Structure Invisible to PCA While Test Loss Misaligns With Generalization
+- [把随机梯度用于格点转移方向](../conferences/icml-2026/cards/3201-3300.md#mensch26a-theory-statistics) · Robust Stochastic Gradient Posterior Sampling with Lattice Based Discretisation
+- [用递归转移的组合结构估计可并行性](../conferences/icml-2026/cards/3201-3300.md#merrill26a-theory-statistics) · Why Are Linear RNNs More Parallelizable?
+- [以连续黎曼势参数化避免离散输运映射的维数灾难](../conferences/icml-2026/cards/3201-3300.md#micheli26a-theory-statistics) · Riemannian Neural Optimal Transport
+- [用潜在似然加熵统一自监督对齐与防坍缩](../conferences/icml-2026/cards/3201-3300.md#mikulasch26a-theory-statistics) · Understanding Self-Supervised Learning via Latent Distribution Matching
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -493,6 +500,7 @@
 - [节点到达流中的相关聚类代价估计](../conferences/icml-2026/cards/2901-3000.md#liu26ed-theory-statistics) · Estimating Correlation Clustering Cost in Node-Arrival Stream
 - [按可学习顺序分解排名后验](../conferences/icml-2026/cards/2901-3000.md#liu26ee-theory-statistics) · Pseudo-Mallows for Efficient Probabilistic Preference Learning
 - [在面偏序的等变向量丛上统一图和层网络](../conferences/icml-2026/cards/3201-3300.md#maruyama26a-theory-statistics) · Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks
+- [从依赖排序位置的残缺反馈识别完整前 k](../conferences/icml-2026/cards/3201-3300.md#migali26a-theory-statistics) · Learning to Rank from Incomplete Rankings
 
 <a id="by-scientific-ml"></a>
 
@@ -520,4 +528,5 @@
 - [从 SDE 增量学漂移扩散再找李生成元](../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems
 - [用序列条件突变率近似抗体逐步演化](../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · Conditionally Site-Independent Neural Evolution of Antibody Sequences
 - [双重优化并行拟合纵向处理的各时点效应](../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · DeepBlip: Estimating Conditional Average Treatment Effects Over Time
+- [右删失生存分位](../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival
 <!-- classification:end -->

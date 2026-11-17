@@ -38,6 +38,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26fc-architecture"></a>[CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fc)
 - <a id="lou26h-architecture"></a>[MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26h)
 - <a id="melechovsky26a-architecture"></a>[SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering](../../conferences/icml-2026/cards/3201-3300.md#paper-melechovsky26a)
+- <a id="meng26a-architecture"></a>[Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26a)
+- <a id="mi26b-architecture"></a>[Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../../conferences/icml-2026/cards/3201-3300.md#paper-mi26b)
 
 <a id="by-modules"></a>
 
@@ -58,6 +60,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26io-modules"></a>[SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](../../conferences/icml-2026/cards/2601-2700.md#paper-li26io)
 - <a id="lim26a-modules"></a>[Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity](../../conferences/icml-2026/cards/2701-2800.md#paper-lim26a)
 - <a id="ma26ac-modules"></a>[Dual-Latent Memory Routing for Vision-Language Reasoning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ac)
+- <a id="mi26c-modules"></a>[Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](../../conferences/icml-2026/cards/3201-3300.md#paper-mi26c)
 
 <a id="by-loss-functions"></a>
 
@@ -142,6 +145,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lu26b-reinforcement-learning"></a>[PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26b)
 - <a id="lu26i-reinforcement-learning"></a>[VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26i)
 - <a id="ma26ay-reinforcement-learning"></a>[Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ay)
+- <a id="meng26e-reinforcement-learning"></a>[Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26e)
+- <a id="messica26a-reinforcement-learning"></a>[Adaptive Time Series Reasoning via Segment Selection](../../conferences/icml-2026/cards/3201-3300.md#paper-messica26a)
 
 <a id="by-training-strategies"></a>
 
@@ -181,6 +186,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liang26ac-training-strategies"></a>[Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26ac)
 - <a id="liu26dq-training-strategies"></a>[Hyperbolic Multimodal Continual Learning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dq)
 - <a id="ma26h-training-strategies"></a>[Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26h)
+- <a id="miao26c-training-strategies"></a>[Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#paper-miao26c)
 
 <a id="by-data-strategies"></a>
 
@@ -321,6 +327,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lu26as-representation-learning"></a>[DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26as)
 - <a id="mao26d-representation-learning"></a>[SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26d)
 - <a id="marincione26a-representation-learning"></a>[PHALAR: Phasors for Learned Musical Audio Representations](../../conferences/icml-2026/cards/3201-3300.md#paper-marincione26a)
+- <a id="mendez26a-representation-learning"></a>[Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](../../conferences/icml-2026/cards/3201-3300.md#paper-mendez26a)
 
 <a id="by-evaluation"></a>
 
@@ -399,6 +406,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ma26as-evaluation"></a>[What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26as)
 - <a id="mao26b-evaluation"></a>[BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26b)
 - <a id="mao26j-evaluation"></a>[STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26j)
+- <a id="meng26d-evaluation"></a>[DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26d)
 
 <a id="by-theory-statistics"></a>
 

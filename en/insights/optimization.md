@@ -323,6 +323,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Few-Shot Design Optimization by Exploiting Auxiliary Information](../../conferences/icml-2026/cards/3201-3300.md#mani26a-optimization) · 中文
 - [Optimizing Rank for High-Fidelity Implicit Neural Representations](../../conferences/icml-2026/cards/3201-3300.md#mcginnis26a-optimization) · 中文
 - [Improving Adversarial Robustness of Attribution via Implicit Regularization](../../conferences/icml-2026/cards/3201-3300.md#mehrpanah26a-optimization) · 中文
+- [Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization](../../conferences/icml-2026/cards/3201-3300.md#meng26j-optimization) · 中文
+- [Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities](../../conferences/icml-2026/cards/3201-3300.md#messaoud26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

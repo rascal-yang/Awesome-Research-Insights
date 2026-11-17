@@ -231,6 +231,13 @@
 - [用旋转前查询键统计和三角级数做长推理缓存保留](../conferences/icml-2026/cards/3201-3300.md#mao26e-inference) · TriAttention: Efficient Long Reasoning with Trigonometric KV Compression
 - [将长文档合成问答微调进短上下文模型](../conferences/icml-2026/cards/3201-3300.md#mao26g-inference) · LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning
 - [跨层平均平滑预填充 token 排序](../conferences/icml-2026/cards/3201-3300.md#mcdanel26a-inference) · CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill
+- [循环状态剪枝](../conferences/icml-2026/cards/3201-3300.md#menezes26a-inference) · GHOST: Unmasking Phantom States in Mamba2 via Grouped Hidden-state Output-aware Selection & Truncation
+- [让小模型分别承担证据和审查](../conferences/icml-2026/cards/3201-3300.md#meng26l-inference) · Small Agent Group is the Future of Digital Health
+- [用辅助模型的分布差引导遗忘解码](../conferences/icml-2026/cards/3201-3300.md#merchant26a-inference) · Divergence Decoding: Inference-Time Unlearning via Auxiliary Models
+- [将可能出错的 token 定向重新掩码](../conferences/icml-2026/cards/3201-3300.md#meshchaninov26a-inference) · Guided Star-Shaped Masked Diffusion
+- [结合路由频率与有效秩分配 MoE 专家的压缩预算](../conferences/icml-2026/cards/3201-3300.md#mi26a-inference) · Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density
+- [用正则化正确性探针校准残差激活引导](../conferences/icml-2026/cards/3201-3300.md#miao26a-inference) · Correctness-Optimized Residual Activation Lens (CORAL): Transferable and Calibration-Aware Inference-Time Steering
+- [本地小模型先答再基于隐状态决定是否升级](../conferences/icml-2026/cards/3201-3300.md#miao26b-inference) · Selective Deferred Routing: Enabling Cost-Efficient Collaboration between Local SLMs and Remote LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -316,6 +323,7 @@
 - [用累计漂移触发缓存刷新](../conferences/icml-2026/cards/3101-3200.md#lv26m-inference) · NaviCache: Test-Time Self-Calibration Caching for Video Generation
 - [为一步条件生成学习初始噪声](../conferences/icml-2026/cards/3101-3200.md#mammadov26a-inference) · Variational Flow Maps: Make Some Noise for One-Step Conditional Generation
 - [按链稳定性复用多视角去噪计算](../conferences/icml-2026/cards/3101-3200.md#man26a-inference) · Turbo4DGen: Ultra-Fast Acceleration for 4D Generation
+- [用外置视角密钥承载隐写信息](../conferences/icml-2026/cards/3201-3300.md#meng26h-inference) · WhisperSplat: Lossless Steganography in 3D Gaussian Splatting
 
 <a id="by-nlp"></a>
 

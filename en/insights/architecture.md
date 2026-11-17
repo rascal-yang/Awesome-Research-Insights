@@ -51,6 +51,7 @@ Model-wide design and information flow.
 - [HyperMLP: An Integrated Perspective for Sequence Modeling](../../conferences/icml-2026/cards/3001-3100.md#lu26aq-architecture) · 中文
 - [Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts](../../conferences/icml-2026/cards/3001-3100.md#lu26au-architecture) · 中文
 - [Head-in-Head in Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#mei26a-architecture) · 中文
+- [Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents](../../conferences/icml-2026/cards/3201-3300.md#mi26d-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -184,6 +185,8 @@ Model-wide design and information flow.
 - [CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · 中文
 - [MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts](../../conferences/icml-2026/cards/2901-3000.md#lou26h-architecture) · 中文
 - [SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering](../../conferences/icml-2026/cards/3201-3300.md#melechovsky26a-architecture) · 中文
+- [Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration](../../conferences/icml-2026/cards/3201-3300.md#meng26a-architecture) · 中文
+- [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../../conferences/icml-2026/cards/3201-3300.md#mi26b-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -252,6 +255,7 @@ Model-wide design and information flow.
 - [Learning Graph Foundation Models on Riemannian Graph-of-Graphs](../../conferences/icml-2026/cards/2801-2900.md#liu26x-architecture) · 中文
 - [Ramba: Selective State-Space Models for Relational Deep Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ep-architecture) · 中文
 - [NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies](../../conferences/icml-2026/cards/3201-3300.md#marcoccia26a-architecture) · 中文
+- [LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation](../../conferences/icml-2026/cards/3201-3300.md#miao26e-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -336,4 +340,8 @@ Model-wide design and information flow.
 - [Physically-Guided Data-Space Rectified Flow for Precipitation Nowcasting](../../conferences/icml-2026/cards/3001-3100.md#luo26l-architecture) · 中文
 - [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](../../conferences/icml-2026/cards/3001-3100.md#luo26ac-architecture) · 中文
 - [Walrus: A Cross-domain Foundation Model for Continuum Dynamics](../../conferences/icml-2026/cards/3201-3300.md#mccabe26a-architecture) · 中文
+- [PhenoBrain: Phenotype-Conditioned Long-Range Communication for Multi-Modal Brain Network Analysis](../../conferences/icml-2026/cards/3201-3300.md#meng26f-architecture) · 中文
+- [Deep Coupling Learning for Solving PDEs](../../conferences/icml-2026/cards/3201-3300.md#meng26i-architecture) · 中文
+- [Proximal Splitting Methods for Hybrid Differentiable Models](../../conferences/icml-2026/cards/3201-3300.md#mezidi26a-architecture) · 中文
+- [DITING: A Weak Degradation Listener for Battery Lifetime Early Prediction](../../conferences/icml-2026/cards/3201-3300.md#miao26d-architecture) · 中文
 <!-- classification:end -->

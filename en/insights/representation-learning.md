@@ -147,6 +147,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](../../conferences/icml-2026/cards/3001-3100.md#lu26as-representation-learning) · 中文
 - [SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment](../../conferences/icml-2026/cards/3201-3300.md#mao26d-representation-learning) · 中文
 - [PHALAR: Phasors for Learned Musical Audio Representations](../../conferences/icml-2026/cards/3201-3300.md#marincione26a-representation-learning) · 中文
+- [Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](../../conferences/icml-2026/cards/3201-3300.md#mendez26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -191,6 +192,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Reliable Neighborhood-Aware Multi-View Outlier Detection](../../conferences/icml-2026/cards/3101-3200.md#ma26ao-representation-learning) · 中文
 - [Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings](../../conferences/icml-2026/cards/3101-3200.md#makinen26a-representation-learning) · 中文
 - [Identifying Learnwares via Reduced Neural Conditional Mean Embedding](../../conferences/icml-2026/cards/3201-3300.md#mao26c-representation-learning) · 中文
+- [Outcome-Aware Spectral Feature Learning for Instrumental Variable Regression](../../conferences/icml-2026/cards/3201-3300.md#meunier26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

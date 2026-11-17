@@ -92,6 +92,10 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="luo26l-architecture"></a>[Physically-Guided Data-Space Rectified Flow for Precipitation Nowcasting](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26l)
 - <a id="luo26ac-architecture"></a>[ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ac)
 - <a id="mccabe26a-architecture"></a>[Walrus: A Cross-domain Foundation Model for Continuum Dynamics](../../conferences/icml-2026/cards/3201-3300.md#paper-mccabe26a)
+- <a id="meng26f-architecture"></a>[PhenoBrain: Phenotype-Conditioned Long-Range Communication for Multi-Modal Brain Network Analysis](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26f)
+- <a id="meng26i-architecture"></a>[Deep Coupling Learning for Solving PDEs](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26i)
+- <a id="mezidi26a-architecture"></a>[Proximal Splitting Methods for Hybrid Differentiable Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mezidi26a)
+- <a id="miao26d-architecture"></a>[DITING: A Weak Degradation Listener for Battery Lifetime Early Prediction](../../conferences/icml-2026/cards/3201-3300.md#paper-miao26d)
 
 <a id="by-modules"></a>
 
@@ -131,6 +135,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26dm-loss-functions"></a>[Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dm)
 - <a id="luo26am-loss-functions"></a>[Mitigating Gradient Pathology in PINNs through Aligned Constraint](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26am)
 - <a id="mejia26a-loss-functions"></a>[Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation](../../conferences/icml-2026/cards/3201-3300.md#paper-mejia26a)
+- <a id="melo26a-loss-functions"></a>[Learning to Emulate Chaos: Adversarial Optimal Transport Regularization](../../conferences/icml-2026/cards/3201-3300.md#paper-melo26a)
 
 <a id="by-optimization"></a>
 
@@ -214,6 +219,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26aj-training-strategies"></a>[From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aj)
 - <a id="liu26br-training-strategies"></a>[DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26br)
 - <a id="liu26em-training-strategies"></a>[From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26em)
+- <a id="meng26c-training-strategies"></a>[Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26c)
 
 <a id="by-data-strategies"></a>
 
@@ -376,4 +382,5 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26aq-theory-statistics"></a>[LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aq)
 - <a id="lu26ah-theory-statistics"></a>[Conditionally Site-Independent Neural Evolution of Antibody Sequences](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ah)
 - <a id="ma26j-theory-statistics"></a>[DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26j)
+- <a id="men26a-theory-statistics"></a>[FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#paper-men26a)
 <!-- classification:end -->

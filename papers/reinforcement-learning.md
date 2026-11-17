@@ -148,6 +148,8 @@
 - <a id="ma26aa-reinforcement-learning"></a>[Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces](../conferences/icml-2026/cards/3101-3200.md#paper-ma26aa)
 - <a id="maity26a-reinforcement-learning"></a>[Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates](../conferences/icml-2026/cards/3101-3200.md#paper-maity26a)
 - <a id="matthews26a-reinforcement-learning"></a>[Goal-Conditioned Agents that Learn Everything All at Once](../conferences/icml-2026/cards/3201-3300.md#paper-matthews26a)
+- <a id="meng26m-reinforcement-learning"></a>[PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating](../conferences/icml-2026/cards/3201-3300.md#paper-meng26m)
+- <a id="mguni26a-reinforcement-learning"></a>[Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction](../conferences/icml-2026/cards/3201-3300.md#paper-mguni26a)
 
 <a id="by-training-strategies"></a>
 

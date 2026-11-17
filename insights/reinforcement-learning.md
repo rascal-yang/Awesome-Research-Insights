@@ -264,6 +264,8 @@
 - [以镜像下降目标训练组合动作扩散策略](../conferences/icml-2026/cards/3101-3200.md#ma26aa-reinforcement-learning) · Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces
 - [用访问历史过滤被污染的奖励](../conferences/icml-2026/cards/3101-3200.md#maity26a-reinforcement-learning) · Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates
 - [全目标并行更新与目标条件策略](../conferences/icml-2026/cards/3201-3300.md#matthews26a-reinforcement-learning) · Goal-Conditioned Agents that Learn Everything All at Once
+- [在同一车辆路径实例内学习相对偏好](../conferences/icml-2026/cards/3201-3300.md#meng26m-reinforcement-learning) · PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating
+- [让故障注入瞄准协作的关键状态](../conferences/icml-2026/cards/3201-3300.md#mguni26a-reinforcement-learning) · Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction
 
 <a id="by-robotics"></a>
 
@@ -332,6 +334,8 @@
 - [时序模式对齐与推理奖励均衡](../conferences/icml-2026/cards/3001-3100.md#lu26b-reinforcement-learning) · PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering
 - [多任务图像质量连续奖励](../conferences/icml-2026/cards/3001-3100.md#lu26i-reinforcement-learning) · VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning
 - [视觉工具双模式自适应调用](../conferences/icml-2026/cards/3101-3200.md#ma26ay-reinforcement-learning) · Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning
+- [以时间和空间证据约束视频推理](../conferences/icml-2026/cards/3201-3300.md#meng26e-reinforcement-learning) · Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence
+- [让时序问答按推理进展追加片段](../conferences/icml-2026/cards/3201-3300.md#messica26a-reinforcement-learning) · Adaptive Time Series Reasoning via Segment Selection
 
 <a id="by-ml-foundations"></a>
 

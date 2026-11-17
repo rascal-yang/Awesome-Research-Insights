@@ -248,6 +248,8 @@
 - [用提示注意、表示漂移和熵联合监测生成退化](../conferences/icml-2026/cards/3201-3300.md#marwah26a-evaluation) · Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement
 - [用反事实增量测自我解释的预测价值](../conferences/icml-2026/cards/3201-3300.md#mayne26a-evaluation) · A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior
 - [持续激活干预下区分重试和有效纠正](../conferences/icml-2026/cards/3201-3300.md#mckenzie26a-evaluation) · Endogenous Resistance to Activation Steering in Language Models
+- [因果电路稳定性](../conferences/icml-2026/cards/3201-3300.md#meloux26a-evaluation) · Mechanistic Interpretability as Statistical Estimation: A Variance Analysis
+- [用依赖流程拆解威胁狩猎评测](../conferences/icml-2026/cards/3201-3300.md#meng26k-evaluation) · Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting
 
 <a id="by-computer-vision"></a>
 
@@ -295,6 +297,7 @@
 - [诊断潜空间曲率与可见细节失配](../conferences/icml-2026/cards/2601-2700.md#liang26d-evaluation) · Geometric Decoupling: Diagnosing the Structural Instability of Latent
 - [扩散数据贡献者归因](../conferences/icml-2026/cards/3001-3100.md#lu26f-evaluation) · SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models
 - [多参考视觉创作编辑评测](../conferences/icml-2026/cards/3001-3100.md#luo26ak-evaluation) · MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing
+- [用频域干预测试水印的语义保真](../conferences/icml-2026/cards/3201-3300.md#meshram26a-evaluation) · Low-Compute Watermark Removal via Dual-Domain Natural Projection
 
 <a id="by-nlp"></a>
 
@@ -349,6 +352,7 @@
 - [协作增强时交换兼容伙伴轨迹并推演双人动作](../conferences/icml-2026/cards/2001-2100.md#kang26i-evaluation) · Moving Out: Physically-grounded Human-AI Collaboration
 - [用失败轨迹校验世界模型排序](../conferences/icml-2026/cards/2601-2700.md#li26hi-evaluation) · Scaling Robot Policy Evaluation via Discrete Diffusion World Model
 - [用恢复测试区分机器人技能遗忘](../conferences/icml-2026/cards/2801-2900.md#liu26bu-evaluation) · Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning
+- [按扰动修正扭矩分层评估动作模仿](../conferences/icml-2026/cards/3201-3300.md#meng26n-evaluation) · Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty
 
 <a id="by-multimodal"></a>
 
@@ -427,6 +431,7 @@
 - [视觉工具强化学习收益归因](../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom
 - [将语音函数调用拆成转录与端到端两套可执行测试](../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · BFCL Audio: An Audio Function Calling Evaluation for Large Language Models
 - [按去噪时段诊断多模态红队风险](../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack
+- [把可视化成品与原生操作一同验证](../conferences/icml-2026/cards/3201-3300.md#meng26d-evaluation) · DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios
 
 <a id="by-ml-foundations"></a>
 
@@ -476,6 +481,7 @@
 - [把 AI 缺陷报告转成可分发的结构化记录](../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · FLARE-AI: Flaw Reporting for AI
 - [把联邦后门检测的重点放到聚合后的持续性](../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning
 - [预枚举树集成可实现输出组合以复用验证索引](../conferences/icml-2026/cards/3201-3300.md#martens26a-evaluation) · OC-space: a Unifying Perspective on Verification of Tree Ensembles
+- [分别测棋类规则外推和策略迁移](../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -103,6 +103,7 @@ Training schedules, curricula, and task or stage composition.
 - [Non-Monotonic Autoregressive Sequence Model](../../conferences/icml-2026/cards/3101-3200.md#ma26ad-training-strategies) · 中文
 - [Collaborative and Efficient Fine-tuning: Leveraging Task Similarity](../../conferences/icml-2026/cards/3101-3200.md#magakyan26a-training-strategies) · 中文
 - [1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization](../../conferences/icml-2026/cards/3201-3300.md#maskey26a-training-strategies) · 中文
+- [Making Expert Reasoning Learnable with Self-Distillation](../../conferences/icml-2026/cards/3201-3300.md#mendes26b-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -231,6 +232,7 @@ Training schedules, curricula, and task or stage composition.
 - [Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../conferences/icml-2026/cards/2701-2800.md#liang26ac-training-strategies) · 中文
 - [Hyperbolic Multimodal Continual Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26dq-training-strategies) · 中文
 - [Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26h-training-strategies) · 中文
+- [Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#miao26c-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -333,4 +335,5 @@ Training schedules, curricula, and task or stage composition.
 - [From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers](../../conferences/icml-2026/cards/2801-2900.md#liu26aj-training-strategies) · 中文
 - [DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · 中文
 - [From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding](../../conferences/icml-2026/cards/2901-3000.md#liu26em-training-strategies) · 中文
+- [Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis](../../conferences/icml-2026/cards/3201-3300.md#meng26c-training-strategies) · 中文
 <!-- classification:end -->

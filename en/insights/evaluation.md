@@ -248,6 +248,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement](../../conferences/icml-2026/cards/3201-3300.md#marwah26a-evaluation) · 中文
 - [A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior](../../conferences/icml-2026/cards/3201-3300.md#mayne26a-evaluation) · 中文
 - [Endogenous Resistance to Activation Steering in Language Models](../../conferences/icml-2026/cards/3201-3300.md#mckenzie26a-evaluation) · 中文
+- [Mechanistic Interpretability as Statistical Estimation: A Variance Analysis](../../conferences/icml-2026/cards/3201-3300.md#meloux26a-evaluation) · 中文
+- [Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting](../../conferences/icml-2026/cards/3201-3300.md#meng26k-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -295,6 +297,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Geometric Decoupling: Diagnosing the Structural Instability of Latent](../../conferences/icml-2026/cards/2601-2700.md#liang26d-evaluation) · 中文
 - [SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](../../conferences/icml-2026/cards/3001-3100.md#lu26f-evaluation) · 中文
 - [MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing](../../conferences/icml-2026/cards/3001-3100.md#luo26ak-evaluation) · 中文
+- [Low-Compute Watermark Removal via Dual-Domain Natural Projection](../../conferences/icml-2026/cards/3201-3300.md#meshram26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -349,6 +352,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Moving Out: Physically-grounded Human-AI Collaboration](../../conferences/icml-2026/cards/2001-2100.md#kang26i-evaluation) · 中文
 - [Scaling Robot Policy Evaluation via Discrete Diffusion World Model](../../conferences/icml-2026/cards/2601-2700.md#li26hi-evaluation) · 中文
 - [Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26bu-evaluation) · 中文
+- [Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty](../../conferences/icml-2026/cards/3201-3300.md#meng26n-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -427,6 +431,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · 中文
 - [BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · 中文
 - [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · 中文
+- [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](../../conferences/icml-2026/cards/3201-3300.md#meng26d-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -476,6 +481,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [FLARE-AI: Flaw Reporting for AI](../../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · 中文
 - [Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · 中文
 - [OC-space: a Unifying Perspective on Verification of Tree Ensembles](../../conferences/icml-2026/cards/3201-3300.md#martens26a-evaluation) · 中文
+- [Out-of-Distribution Evaluation of Rule-Based and Strategic Reasoning in Chess Transformers](../../conferences/icml-2026/cards/3201-3300.md#meszaros26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

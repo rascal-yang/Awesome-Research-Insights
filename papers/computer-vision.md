@@ -99,6 +99,7 @@
 - <a id="liu26v-modules"></a>[GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](../conferences/icml-2026/cards/2801-2900.md#paper-liu26v)
 - <a id="liu26gn-modules"></a>[Radial Scaling Voxelization for Accurate Small Object 3D Detection](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gn)
 - <a id="lou26i-modules"></a>[Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing](../conferences/icml-2026/cards/2901-3000.md#paper-lou26i)
+- <a id="meng26g-modules"></a>[Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention](../conferences/icml-2026/cards/3201-3300.md#paper-meng26g)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -327,6 +328,7 @@
 - <a id="lv26m-inference"></a>[NaviCache: Test-Time Self-Calibration Caching for Video Generation](../conferences/icml-2026/cards/3101-3200.md#paper-lv26m)
 - <a id="mammadov26a-inference"></a>[Variational Flow Maps: Make Some Noise for One-Step Conditional Generation](../conferences/icml-2026/cards/3101-3200.md#paper-mammadov26a)
 - <a id="man26a-inference"></a>[Turbo4DGen: Ultra-Fast Acceleration for 4D Generation](../conferences/icml-2026/cards/3101-3200.md#paper-man26a)
+- <a id="meng26h-inference"></a>[WhisperSplat: Lossless Steganography in 3D Gaussian Splatting](../conferences/icml-2026/cards/3201-3300.md#paper-meng26h)
 
 <a id="by-representation-learning"></a>
 
@@ -419,6 +421,7 @@
 - <a id="liang26d-evaluation"></a>[Geometric Decoupling: Diagnosing the Structural Instability of Latent](../conferences/icml-2026/cards/2601-2700.md#paper-liang26d)
 - <a id="lu26f-evaluation"></a>[SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](../conferences/icml-2026/cards/3001-3100.md#paper-lu26f)
 - <a id="luo26ak-evaluation"></a>[MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing](../conferences/icml-2026/cards/3001-3100.md#paper-luo26ak)
+- <a id="meshram26a-evaluation"></a>[Low-Compute Watermark Removal via Dual-Domain Natural Projection](../conferences/icml-2026/cards/3201-3300.md#paper-meshram26a)
 
 <a id="by-theory-statistics"></a>
 

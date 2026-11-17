@@ -177,6 +177,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="kang26i-evaluation"></a>[Moving Out: Physically-grounded Human-AI Collaboration](../../conferences/icml-2026/cards/2001-2100.md#paper-kang26i)
 - <a id="li26hi-evaluation"></a>[Scaling Robot Policy Evaluation via Discrete Diffusion World Model](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hi)
 - <a id="liu26bu-evaluation"></a>[Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bu)
+- <a id="meng26n-evaluation"></a>[Distinguishing Imitation Error from Intrinsic Motion Learning Difficulty](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26n)
 
 <a id="by-theory-statistics"></a>
 

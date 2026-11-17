@@ -80,6 +80,7 @@ Reusable components and local changes to model inputs or connections.
 - [GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](../../conferences/icml-2026/cards/2801-2900.md#liu26v-modules) · 中文
 - [Radial Scaling Voxelization for Accurate Small Object 3D Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26gn-modules) · 中文
 - [Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing](../../conferences/icml-2026/cards/2901-3000.md#lou26i-modules) · 中文
+- [Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#meng26g-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -120,6 +121,7 @@ Reusable components and local changes to model inputs or connections.
 - [SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](../../conferences/icml-2026/cards/2601-2700.md#li26io-modules) · 中文
 - [Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity](../../conferences/icml-2026/cards/2701-2800.md#lim26a-modules) · 中文
 - [Dual-Latent Memory Routing for Vision-Language Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26ac-modules) · 中文
+- [Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation](../../conferences/icml-2026/cards/3201-3300.md#mi26c-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

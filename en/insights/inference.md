@@ -231,6 +231,13 @@ Decoding, test-time adaptation, and efficient execution.
 - [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](../../conferences/icml-2026/cards/3201-3300.md#mao26e-inference) · 中文
 - [LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#mao26g-inference) · 中文
 - [CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill](../../conferences/icml-2026/cards/3201-3300.md#mcdanel26a-inference) · 中文
+- [GHOST: Unmasking Phantom States in Mamba2 via Grouped Hidden-state Output-aware Selection & Truncation](../../conferences/icml-2026/cards/3201-3300.md#menezes26a-inference) · 中文
+- [Small Agent Group is the Future of Digital Health](../../conferences/icml-2026/cards/3201-3300.md#meng26l-inference) · 中文
+- [Divergence Decoding: Inference-Time Unlearning via Auxiliary Models](../../conferences/icml-2026/cards/3201-3300.md#merchant26a-inference) · 中文
+- [Guided Star-Shaped Masked Diffusion](../../conferences/icml-2026/cards/3201-3300.md#meshchaninov26a-inference) · 中文
+- [Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density](../../conferences/icml-2026/cards/3201-3300.md#mi26a-inference) · 中文
+- [Correctness-Optimized Residual Activation Lens (CORAL): Transferable and Calibration-Aware Inference-Time Steering](../../conferences/icml-2026/cards/3201-3300.md#miao26a-inference) · 中文
+- [Selective Deferred Routing: Enabling Cost-Efficient Collaboration between Local SLMs and Remote LLMs](../../conferences/icml-2026/cards/3201-3300.md#miao26b-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -316,6 +323,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [NaviCache: Test-Time Self-Calibration Caching for Video Generation](../../conferences/icml-2026/cards/3101-3200.md#lv26m-inference) · 中文
 - [Variational Flow Maps: Make Some Noise for One-Step Conditional Generation](../../conferences/icml-2026/cards/3101-3200.md#mammadov26a-inference) · 中文
 - [Turbo4DGen: Ultra-Fast Acceleration for 4D Generation](../../conferences/icml-2026/cards/3101-3200.md#man26a-inference) · 中文
+- [WhisperSplat: Lossless Steganography in 3D Gaussian Splatting](../../conferences/icml-2026/cards/3201-3300.md#meng26h-inference) · 中文
 
 <a id="by-nlp"></a>
 

@@ -59,6 +59,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](../../conferences/icml-2026/cards/3101-3200.md#ma26o-data-strategies) · 中文
 - [BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate](../../conferences/icml-2026/cards/3201-3300.md#mazza26a-data-strategies) · 中文
 - [ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning](../../conferences/icml-2026/cards/3201-3300.md#melikidze26a-data-strategies) · 中文
+- [Watermarking LLM Agent Trajectories](../../conferences/icml-2026/cards/3201-3300.md#meng26b-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

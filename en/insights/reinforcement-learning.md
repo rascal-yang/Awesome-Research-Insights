@@ -264,6 +264,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces](../../conferences/icml-2026/cards/3101-3200.md#ma26aa-reinforcement-learning) · 中文
 - [Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates](../../conferences/icml-2026/cards/3101-3200.md#maity26a-reinforcement-learning) · 中文
 - [Goal-Conditioned Agents that Learn Everything All at Once](../../conferences/icml-2026/cards/3201-3300.md#matthews26a-reinforcement-learning) · 中文
+- [PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating](../../conferences/icml-2026/cards/3201-3300.md#meng26m-reinforcement-learning) · 中文
+- [Learning Robust Multi-Agent Policies via Selective Adversarial Fault Induction](../../conferences/icml-2026/cards/3201-3300.md#mguni26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -332,6 +334,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering](../../conferences/icml-2026/cards/3001-3100.md#lu26b-reinforcement-learning) · 中文
 - [VisualScore: Learning Holistic Visual Quality Scores via Multi-Task Reasoning](../../conferences/icml-2026/cards/3001-3100.md#lu26i-reinforcement-learning) · 中文
 - [Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning](../../conferences/icml-2026/cards/3101-3200.md#ma26ay-reinforcement-learning) · 中文
+- [Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](../../conferences/icml-2026/cards/3201-3300.md#meng26e-reinforcement-learning) · 中文
+- [Adaptive Time Series Reasoning via Segment Selection](../../conferences/icml-2026/cards/3201-3300.md#messica26a-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

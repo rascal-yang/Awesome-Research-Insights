@@ -53,6 +53,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality](../../conferences/icml-2026/cards/2901-3000.md#liu26eu-theory-statistics) · 中文
 - [Provable Training Data Identification for Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26ft-theory-statistics) · 中文
 - [Generalization and Scaling Laws for Mixture-of-ExpertsTransformers](../../conferences/icml-2026/cards/3201-3300.md#mayaki26a-theory-statistics) · 中文
+- [How Many Different Outputs Can a Transformer Generate?](../../conferences/icml-2026/cards/3201-3300.md#meyer26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -468,6 +469,12 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime](../../conferences/icml-2026/cards/3201-3300.md#maurer26a-theory-statistics) · 中文
 - [Positive Distribution Shift as a Framework for Understanding Tractable Learning](../../conferences/icml-2026/cards/3201-3300.md#medvedev26a-theory-statistics) · 中文
 - [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](../../conferences/icml-2026/cards/3201-3300.md#melnychuk26a-theory-statistics) · 中文
+- [DistMatch: Adaptive Binning via Distribution Matching for Robust Sequential Conformal Prediction](../../conferences/icml-2026/cards/3201-3300.md#menadjiev26a-theory-statistics) · 中文
+- [A Solvable High-Dimensional Model Where Nonlinear Autoencoders Learn Structure Invisible to PCA While Test Loss Misaligns With Generalization](../../conferences/icml-2026/cards/3201-3300.md#mendes26a-theory-statistics) · 中文
+- [Robust Stochastic Gradient Posterior Sampling with Lattice Based Discretisation](../../conferences/icml-2026/cards/3201-3300.md#mensch26a-theory-statistics) · 中文
+- [Why Are Linear RNNs More Parallelizable?](../../conferences/icml-2026/cards/3201-3300.md#merrill26a-theory-statistics) · 中文
+- [Riemannian Neural Optimal Transport](../../conferences/icml-2026/cards/3201-3300.md#micheli26a-theory-statistics) · 中文
+- [Understanding Self-Supervised Learning via Latent Distribution Matching](../../conferences/icml-2026/cards/3201-3300.md#mikulasch26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -493,6 +500,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Estimating Correlation Clustering Cost in Node-Arrival Stream](../../conferences/icml-2026/cards/2901-3000.md#liu26ed-theory-statistics) · 中文
 - [Pseudo-Mallows for Efficient Probabilistic Preference Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ee-theory-statistics) · 中文
 - [Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](../../conferences/icml-2026/cards/3201-3300.md#maruyama26a-theory-statistics) · 中文
+- [Learning to Rank from Incomplete Rankings](../../conferences/icml-2026/cards/3201-3300.md#migali26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -520,4 +528,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems](../../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · 中文
 - [Conditionally Site-Independent Neural Evolution of Antibody Sequences](../../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · 中文
 - [DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · 中文
+- [FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival](../../conferences/icml-2026/cards/3201-3300.md#men26a-theory-statistics) · 中文
 <!-- classification:end -->

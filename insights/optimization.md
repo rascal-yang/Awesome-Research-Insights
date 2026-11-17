@@ -323,6 +323,8 @@
 - [用历史试验的辅助时序提高设计搜索效率](../conferences/icml-2026/cards/3201-3300.md#mani26a-optimization) · Few-Shot Design Optimization by Exploiting Auxiliary Information
 - [正交权重更新缓解隐式表征的低秩限制](../conferences/icml-2026/cards/3201-3300.md#mcginnis26a-optimization) · Optimizing Rank for High-Fidelity Implicit Neural Representations
 - [梯度归因隐式曲率正则](../conferences/icml-2026/cards/3201-3300.md#mehrpanah26a-optimization) · Improving Adversarial Robustness of Attribution via Implicit Regularization
+- [在相邻重复块之间平滑优化器更新](../conferences/icml-2026/cards/3201-3300.md#meng26j-optimization) · Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization
+- [先保证粒子更新可逆再估计熵](../conferences/icml-2026/cards/3201-3300.md#messaoud26a-optimization) · Particles Don’t Care About Z: Towards Scaling Entropy Estimation of Unnormalized Densities
 
 <a id="by-graph-and-recommendation"></a>
 

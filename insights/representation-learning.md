@@ -147,6 +147,7 @@
 - [在生成与理解之间单独交换共享表征](../conferences/icml-2026/cards/3001-3100.md#lu26as-representation-learning) · DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement
 - [用全局图文锚校准局部图像块裁剪](../conferences/icml-2026/cards/3201-3300.md#mao26d-representation-learning) · SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment
 - [用复相位和频谱池化保留音乐分轨匹配线索](../conferences/icml-2026/cards/3201-3300.md#marincione26a-representation-learning) · PHALAR: Phasors for Learned Musical Audio Representations
+- [分类权重语义原型](../conferences/icml-2026/cards/3201-3300.md#mendez26a-representation-learning) · Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling
 
 <a id="by-ml-foundations"></a>
 
@@ -191,6 +192,7 @@
 - [多视图异常邻域校准](../conferences/icml-2026/cards/3101-3200.md#ma26ao-representation-learning) · Reliable Neighborhood-Aware Multi-View Outlier Detection
 - [用专家相对判断定位新任务](../conferences/icml-2026/cards/3101-3200.md#makinen26a-representation-learning) · Bayesian Meta-Learning with Expert Feedback for Task-Shift Adaptation through Causal Embeddings
 - [用条件均值嵌入描述可复用模型的输入输出关系](../conferences/icml-2026/cards/3201-3300.md#mao26c-representation-learning) · Identifying Learnwares via Reduced Neural Conditional Mean Embedding
+- [用结果预测信息纠正工具变量谱错位](../conferences/icml-2026/cards/3201-3300.md#meunier26a-representation-learning) · Outcome-Aware Spectral Feature Learning for Instrumental Variable Regression
 
 <a id="by-graph-and-recommendation"></a>
 

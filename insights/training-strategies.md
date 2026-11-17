@@ -103,6 +103,7 @@
 - [通过撤销标记学习可回退的自回归生成](../conferences/icml-2026/cards/3101-3200.md#ma26ad-training-strategies) · Non-Monotonic Autoregressive Sequence Model
 - [按任务相似度共享适配器子空间](../conferences/icml-2026/cards/3101-3200.md#magakyan26a-training-strategies) · Collaborative and Efficient Fine-tuning: Leveraging Task Similarity
 - [用非均匀质心做极低位宽量化训练](../conferences/icml-2026/cards/3201-3300.md#maskey26a-training-strategies) · 1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization
+- [专家推理自蒸馏](../conferences/icml-2026/cards/3201-3300.md#mendes26b-training-strategies) · Making Expert Reasoning Learnable with Self-Distillation
 
 <a id="by-computer-vision"></a>
 
@@ -231,6 +232,7 @@
 - [把语言多选题分布蒸馏为视觉类别概念签名](../conferences/icml-2026/cards/2701-2800.md#liang26ac-training-strategies) · Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge
 - [持续学习中用共享双曲等距约束保护图文层级](../conferences/icml-2026/cards/2901-3000.md#liu26dq-training-strategies) · Hyperbolic Multimodal Continual Learning
 - [客户端和服务器分别训练图像与文本编码器](../conferences/icml-2026/cards/3101-3200.md#ma26h-training-strategies) · Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning
+- [按输入与输出 token 动态缓解视觉语言微调的长尾偏差](../conferences/icml-2026/cards/3201-3300.md#miao26c-training-strategies) · Adaptive Token Refinement in Long-Tailed Large Vision-Language Models Fine-Tuning
 
 <a id="by-ml-foundations"></a>
 
@@ -333,4 +335,5 @@
 - [用回归、上下文去噪与局部性诱导不同轨道世界模型](../conferences/icml-2026/cards/2801-2900.md#liu26aj-training-strategies) · From Kepler to Newton: Inductive Biases Guide Learned World Models in Transformers
 - [为多任务健康模型组合共享和条件适配](../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home
 - [无线信号扩散中的可学习物理信道](../conferences/icml-2026/cards/2901-3000.md#liu26em-training-strategies) · From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding
+- [用亚群原型路由联邦专家](../conferences/icml-2026/cards/3201-3300.md#meng26c-training-strategies) · Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis
 <!-- classification:end -->
