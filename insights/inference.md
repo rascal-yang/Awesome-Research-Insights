@@ -4,4 +4,64 @@
 
 解码、测试时适配与高效执行。
 
-欢迎贡献首批条目。
+<!-- classification:start -->
+## 按研究领域浏览
+
+### 大语言模型
+
+- [表征干预](../papers/llm.md#abdullaev26a-inference) · Concept Heterogeneity-aware Representation Steering
+- [交互式研究 Agent](../papers/llm.md#ai26a-inference) · An Interactive Paradigm for Deep Research
+- [多模型答案聚合](../papers/llm.md#ai26d-inference) · Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information
+- [动态推理预算](../papers/llm.md#akhauri26a-inference) · Compute Where it Counts: Self Optimizing Language Models
+- [小模型 Agent 路由](../papers/llm.md#alazraki26a-inference) · Scaling Small Agents Through Strategy Auctions
+- [模型文本溯源](../papers/llm.md#ardoin26a-inference) · LLM Self-Recognition: Steering and Retrieving Activation Signatures
+- [多 Agent 红队](../papers/llm.md#asad26a-inference) · RedDebate: Safer Responses Through Multi-Agent Red Teaming Debates
+- [离散扩散搜索](../papers/llm.md#bai26f-inference) · PRISM: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models
+- [偏好对齐解码](../papers/llm.md#berdoz26a-inference) · Alignment-Aware Decoding
+- [KV 缓存压缩](../papers/llm.md#bhatnagar26a-inference) · STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control
+- [推理预算分配](../papers/llm.md#bilal26a-inference) · What If We Allocate Test-Time Compute Adaptively?
+
+### 计算机视觉
+
+- [扩散模型逻辑控制](../papers/computer-vision.md#alesiani26a-inference) · Logical Guidance for the Exact Composition of Diffusion Models
+- [图像隐写](../papers/computer-vision.md#bae26b-inference) · Training-Free Coverless Multi-Image Steganography with Access Control
+- [扩散逆问题](../papers/computer-vision.md#bang26a-inference) · Triadic Dynamics Aware Diffusion Posterior Sampling for Inverse Problems: Optimizing Guidance and Stochasticity Schedules
+
+### 自然语言处理
+
+- [排序与检索](../papers/nlp.md#agrawal26d-inference) · BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs
+- [文本水印](../papers/nlp.md#ai26b-inference) · PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks
+- [句子级水印](../papers/nlp.md#an26a-inference) · IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection
+
+### 机器人学
+
+- [具身 Agent 感知](../papers/robotics.md#aissi26a-inference) · PRISM: Perception Reasoning Interleaved for Sequential Decision Making.
+- [扩散预测控制](../papers/robotics.md#balim26a-inference) · Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making
+- [压缩空间运动规划](../papers/robotics.md#beyer26a-inference) · Motion Planning in Compressed Representation Spaces
+
+### 多模态学习
+
+- [视觉语言检索](../papers/multimodal.md#alshehri26a-inference) · Similarity Is Not Logic: Factored Inference for Dual-Encoder Vision-Language Models
+- [流式语音工具调用](../papers/multimodal.md#arora26a-inference) · Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage
+- [视觉推理预算](../papers/multimodal.md#avogaro26a-inference) · SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs
+- [文本到图像生成](../papers/multimodal.md#baek26c-inference) · Diagnosing and Correcting Concept Omission in Multimodal Diffusion Transformers
+- [扩散对抗净化](../papers/multimodal.md#bai26b-inference) · Two Modalities Are Better Than One: Efficient Adversarial Purification via Multimodal Diffusion Models
+- [三维生成引导](../papers/multimodal.md#bai26d-inference) · Let Language Constrain Geometry: Vision–Language Models as Semantic and Spatial Critics for 3D Generation
+- [视觉语言推理控制](../papers/multimodal.md#bi26d-inference) · Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking
+
+### 机器学习基础与统计
+
+- [未归一化分布采样](../papers/ml-foundations.md#blessing26a-inference) · Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching
+- [生成式模型遗忘](../papers/ml-foundations.md#block26a-inference) · Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance
+
+### 图学习与推荐
+
+- [图模型测试时适应](../papers/graph-and-recommendation.md#ai26c-inference) · PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs
+- [在线推荐校准](../papers/graph-and-recommendation.md#bisht26b-inference) · CARE: Adaptive Calibration for Reliable Recommendations
+
+### 科学机器学习
+
+- [大气生成模型](../papers/scientific-ml.md#aich26a-inference) · WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling
+- [数据同化](../papers/scientific-ml.md#andrae26a-inference) · DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants
+- [函数空间逆问题](../papers/scientific-ml.md#baker26a-inference) · Supervised Guidance Training for Infinite-Dimensional Diffusion Models
+<!-- classification:end -->

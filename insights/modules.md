@@ -59,3 +59,42 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 
 - **论文证据** · 在 ImageNet-1K 上，CaiT-S24 蒸馏到 DeiT-Tiny 时，原学生 Top-1 为 74.86%，Lift 和 WideLast 的最佳配置分别为 77.53% 和 78.23%（表 2）。加宽在没有蒸馏时也有收益（表 8）。
 - **迁移设想** · 可用于小型视觉编码器的特征蒸馏。对比「只加宽」和「加宽加蒸馏」，同时记录部署开销，以区分额外容量和教师监督的作用。
+
+<!-- classification:start -->
+## 按研究领域浏览
+
+### 计算机视觉
+
+- [主动视觉分辨率](../papers/computer-vision.md#blauch26a-modules) · FOVI: A biologically-inspired foveated interface for deep vision models
+- [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
+
+### 自然语言处理
+
+- [Agent 词表适配](../papers/nlp.md#bian26c-modules) · AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents
+
+### 机器人学
+
+- [指令前缀](../papers/robotics.md#reconvla-modules) · ReconVLA
+
+### 多模态学习
+
+- [细粒度视觉定位](../papers/multimodal.md#barrios26a-modules) · MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs
+
+### 机器学习基础与统计
+
+- [注意力参数化](../papers/ml-foundations.md#bae26d-modules) · Affine-Scaled Attention: Towards Flexible and Stable Transformer Attention
+- [克罗内克适配器](../papers/ml-foundations.md#bai26l-modules) · Diving into Kronecker Adapters: Component Design Matters
+- [稠密模型转 MoE](../papers/ml-foundations.md#bamba26a-modules) · DOT-MoE: Differentiable Optimal Transport for MoEfication
+- [连续深度模型](../papers/ml-foundations.md#banerjee26b-modules) · Efficient Continuous-Depth Modeling with GRU Equivalents
+- [循环模型长程记忆](../papers/ml-foundations.md#behrouz26a-modules) · Memory Caching: RNNs with Growing Memory
+- [测试时记忆更新](../papers/ml-foundations.md#behrouz26b-modules) · ATLAS: Learning to Optimally Memorize the Context at Test Time
+
+### 图学习与推荐
+
+- [图卷积](../papers/graph-and-recommendation.md#bai26i-modules) · GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification
+- [图神经网络表达力](../papers/graph-and-recommendation.md#barcelo26a-modules) · Message Passing on the Edge: Towards Scalable and Expressive GNNs
+
+### 科学机器学习
+
+- [网格动力学平滑](../papers/scientific-ml.md#berman26d-modules) · Smoothness Errors in Dynamics Models and How to Avoid Them
+<!-- classification:end -->

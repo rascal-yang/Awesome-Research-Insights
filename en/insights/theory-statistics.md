@@ -1,0 +1,91 @@
+# Theory and Statistics
+
+[Home](../../README.en.md) · [简体中文](../../insights/theory-statistics.md)
+
+Learning guarantees, counterexamples, estimation, and statistical tests.
+
+<!-- classification:start -->
+## Browse by Research Domain
+
+### Large Language Models
+
+- [How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off](../../papers/llm.md#azizian26a-theory-statistics) · 中文
+- [Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment](../../papers/llm.md#bakman26a-theory-statistics) · 中文
+- [Belief Dynamics Reveal the Dual Nature of In-Context Learning and Activation Steering](../../papers/llm.md#bigelow26a-theory-statistics) · 中文
+
+### Natural Language Processing
+
+- [Efficient Mismatch-Tolerant Coding for Model-Driven Compression](../../papers/nlp.md#adler26b-theory-statistics) · 中文
+- [Language Generation in the Limit: Complexity Barriers and Implications for Learning](../../papers/nlp.md#arenas26a-theory-statistics) · 中文
+- [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](../../papers/nlp.md#ashrafi26a-theory-statistics) · 中文
+- [Adversarially Robust Approximate Furthest Neighbor](../../papers/nlp.md#banihashem26b-theory-statistics) · 中文
+
+### Reinforcement Learning
+
+- [What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](../../papers/reinforcement-learning.md#abbadi26a-theory-statistics) · 中文
+- [(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](../../papers/reinforcement-learning.md#anagnostides26b-theory-statistics) · 中文
+- [The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](../../papers/reinforcement-learning.md#anderson26a-theory-statistics) · 中文
+- [Generalized Linear Bandits with Memory](../../papers/reinforcement-learning.md#ann26a-theory-statistics) · 中文
+- [Minimax-Optimal Policy Regret in Partially Observable Markov Games](../../papers/reinforcement-learning.md#arora26b-theory-statistics) · 中文
+- [Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](../../papers/reinforcement-learning.md#balagopalan26a-theory-statistics) · 中文
+- [Learning in Structured Stackelberg Games](../../papers/reinforcement-learning.md#balcan26a-theory-statistics) · 中文
+- [Bandit Social Learning with Exploration Episodes](../../papers/reinforcement-learning.md#banihashem26a-theory-statistics) · 中文
+- [Optimal Rates for Feasible Payoff Set Estimation in Games](../../papers/reinforcement-learning.md#barbara26a-theory-statistics) · 中文
+- [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) · 中文
+
+### Machine Learning Foundations and Statistics
+
+- [Efficient Bayesian Inference from Noisy Pairwise Comparisons](../../papers/ml-foundations.md#aczel26a-theory-statistics) · 中文
+- [A Capacity-Based Rationale for Multi-Head Attention](../../papers/ml-foundations.md#adler26a-theory-statistics) · 中文
+- [Fast Reconstruction of Mixtures of Bernoulli Product Distributions](../../papers/ml-foundations.md#agarwal26b-theory-statistics) · 中文
+- [Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](../../papers/ml-foundations.md#agarwal26c-theory-statistics) · 中文
+- [A Theoretical Framework for Statistical Evaluability of Generative Models](../../papers/ml-foundations.md#aiyer26a-theory-statistics) · 中文
+- [Solving Stochastic Variational Inequalities without the Bounded Variance Assumption](../../papers/ml-foundations.md#alacaoglu26a-theory-statistics) · 中文
+- [Set-Preserving Calibration from Conformal P-Values to E-Values](../../papers/ml-foundations.md#alami26a-theory-statistics) · 中文
+- [Attention’s forward pass and Frank-Wolfe](../../papers/ml-foundations.md#alcalde26a-theory-statistics) · 中文
+- [Robust Strategic Classification under Decision-Dependent Cost Uncertainty](../../papers/ml-foundations.md#alhanouti26a-theory-statistics) · 中文
+- [Asymmetric conformal prediction with penalized kernel sum-of-squares](../../papers/ml-foundations.md#allain26a-theory-statistics) · 中文
+- [Perceptrons and Localization of Attention’s Mean-Field Landscape](../../papers/ml-foundations.md#alvarez-lopez26a-theory-statistics) · 中文
+- [Likelihood over Estimation: Robust Quadratic Discriminant Analysis for Heavy-Tailed Distributions with Theory and Evidence](../../papers/ml-foundations.md#ambadi26a-theory-statistics) · 中文
+- [Learning-Augmented Online Covering Problems](../../papers/ml-foundations.md#ameli26a-theory-statistics) · 中文
+- [On the Computational Complexity of Performative Prediction](../../papers/ml-foundations.md#anagnostides26a-theory-statistics) · 中文
+- [A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning](../../papers/ml-foundations.md#anguita26a-theory-statistics) · 中文
+- [Rank-Learner: Orthogonal Ranking of Treatment Effects](../../papers/ml-foundations.md#arno26a-theory-statistics) · 中文
+- [Provable Accuracy Collapse in Embedding-Based Representations under Dimensionality Mismatch](../../papers/ml-foundations.md#arvanitakis26a-theory-statistics) · 中文
+- [Why DDIM Hallucinates More Than DDPM: A Theoretical Analysis of Reverse Dynamics](../../papers/ml-foundations.md#ashiq26a-theory-statistics) · 中文
+- [Robust Bayes-Assisted Conformal Prediction](../../papers/ml-foundations.md#ashouritaklimi26a-theory-statistics) · 中文
+- [Fast and Near-Optimal Algorithms for Private Hypothesis Selection](../../papers/ml-foundations.md#asi26a-theory-statistics) · 中文
+- [Learning Partial Concept Classes and Universal Rates Under Massart Noise](../../papers/ml-foundations.md#avital26a-theory-statistics) · 中文
+- [Fair Transit Stop Placement: A Clustering Perspective and Beyond](../../papers/ml-foundations.md#aziz26a-theory-statistics) · 中文
+- [Regret-Based Federated Causal Discovery with Unknown Interventions](../../papers/ml-foundations.md#baldo26a-theory-statistics) · 中文
+- [Matroid Algorithms Under Size-Sensitive Independence Oracles](../../papers/ml-foundations.md#banihashem26d-theory-statistics) · 中文
+- [Conformal C2ST: Turning weak classifiers into strong two-sample tests](../../papers/ml-foundations.md#bansal26a-theory-statistics) · 中文
+- [A theory of learning data statistics in diffusion models, from easy to hard](../../papers/ml-foundations.md#bardone26a-theory-statistics) · 中文
+- [On the Origin of Neural Scaling Laws: from Random Graphs to Natural Language](../../papers/ml-foundations.md#barkeshli26a-theory-statistics) · 中文
+- [General Synthetic-Powered Inference](../../papers/ml-foundations.md#bashari26a-theory-statistics) · 中文
+- [Networked Information Aggregation for Binary Classification](../../papers/ml-foundations.md#bateni26a-theory-statistics) · 中文
+- [A unified theory of feature learning in RNNs and DNNs](../../papers/ml-foundations.md#bauer26a-theory-statistics) · 中文
+- [The Relative Instability of Model Comparison with Cross-validation](../../papers/ml-foundations.md#bayle26a-theory-statistics) · 中文
+- [Stronger Benchmarks for Prediction as a Service with Constraints](../../papers/ml-foundations.md#bechavod26a-theory-statistics) · 中文
+- [Symmetries in PAC-Bayesian Learning](../../papers/ml-foundations.md#beck26a-theory-statistics) · 中文
+- [Efficient Public Verification of Private ML via Regularization](../../papers/ml-foundations.md#bell26b-theory-statistics) · 中文
+- [Fair Decisions from Calibrated Scores: Achieving Optimal Classification While Satisfying Sufficiency](../../papers/ml-foundations.md#benger26a-theory-statistics) · 中文
+- [RSA-CP: Efficient Conformal Prediction in Small-Sample Regimes via Random Score Alignment](../../papers/ml-foundations.md#bhagwat26a-theory-statistics) · 中文
+- [Dynamic High-Dimensional Facility Location with Low Recourse](../../papers/ml-foundations.md#bhattacharya26a-theory-statistics) · 中文
+- [Provably Learning Attention with Queries](../../papers/ml-foundations.md#bhattamishra26a-theory-statistics) · 中文
+- [Optimal Transport under Group Fairness Constraints](../../papers/ml-foundations.md#bleistein26a-theory-statistics) · 中文
+- [On Contraction of Sequential and Offset Rademacher Complexities](../../papers/ml-foundations.md#block26b-theory-statistics) · 中文
+
+### Graph Learning and Recommendation
+
+- [Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](../../papers/graph-and-recommendation.md#adriaens26a-theory-statistics) · 中文
+- [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](../../papers/graph-and-recommendation.md#amran26a-theory-statistics) · 中文
+- [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) · 中文
+- [On the Theoretical Limitations of Embedding-based Link Prediction](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) · 中文
+
+### Scientific Machine Learning
+
+- [Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](../../papers/scientific-ml.md#antipov26a-theory-statistics) · 中文
+- [Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](../../papers/scientific-ml.md#bao26a-theory-statistics) · 中文
+- [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../papers/scientific-ml.md#berman26a-theory-statistics) · 中文
+<!-- classification:end -->

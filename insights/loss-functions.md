@@ -59,3 +59,33 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 
 - **论文证据** · GR00T-N1.6 后训练在 G1 上两项任务各评估 50 次，完整任务平均成功率从 72% 到 76%。其中抓取再倾倒完整成功率均为 68%。在 LIBERO-Long 消融中，联合优化优于冻结潜动作模型。最佳对齐层随骨干变化。
 - **迁移设想** · 小型 VLA 可对比仅用动作损失、加冻结潜动作监督、联合更新潜动作模型三种设定。需要可配对的前后帧及动作标签，监督接口靠近动作输出的位置可作为起点。
+
+<!-- classification:start -->
+## 按研究领域浏览
+
+### 大语言模型
+
+- [偏好学习](../papers/llm.md#abas26a-loss-functions) · TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization
+- [异质偏好学习](../papers/llm.md#aouad26a-loss-functions) · The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity
+
+### 计算机视觉
+
+- [视觉生成偏好对齐](../papers/computer-vision.md#bai26c-loss-functions) · Threshold-Guided Optimization for Visual Generative Models
+
+### 机器人学
+
+- [面向决策的数字孪生](../papers/robotics.md#amad26a-loss-functions) · DT²: Decision-Targeted Digital Twins
+- [动作表征监督](../papers/robotics.md#liu26bl-loss-functions) · LARA: Latent Action Representation Alignment for Vision-Language-Action Models
+- [目标区域重建](../papers/robotics.md#reconvla-loss-functions) · ReconVLA
+
+### 机器学习基础与统计
+
+- [分布偏移鲁棒性](../papers/ml-foundations.md#agirman26a-loss-functions) · Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift
+- [聚合标签学习](../papers/ml-foundations.md#applebaum26a-loss-functions) · Optimal Learning from Label Proportions with General Loss Functions
+- [近似等变正则](../papers/ml-foundations.md#berndt26a-loss-functions) · Approximate Equivariance via Projection-Based Regularisation
+
+### 科学机器学习
+
+- [鲁棒损失](../papers/scientific-ml.md#abijuru26b-loss-functions) · Heavy-tailed Physics-Informed Neural Networks
+- [网格算子学习](../papers/scientific-ml.md#anwer26a-loss-functions) · Certificates for Complex-Compatible Learned Cochain Laplacians
+<!-- classification:end -->

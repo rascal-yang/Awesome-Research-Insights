@@ -55,3 +55,42 @@ Teacher features can be low rank for each image while occupying different subspa
 
 - **Paper evidence** · On ImageNet-1K with CaiT-S24 as teacher and DeiT-Tiny as student, the standalone baseline was 74.86% top-1. The best Lift and WideLast settings reached 77.53% and 78.23% (Table 2). Wider interfaces also helped without distillation (Table 8).
 - **Transfer hypothesis** · For a compact visual encoder, compare widening alone with widening plus distillation and report deployment cost. This can help isolate benefits from capacity and from teacher supervision.
+
+<!-- classification:start -->
+## Browse by Research Domain
+
+### Computer Vision
+
+- [FOVI: A biologically-inspired foveated interface for deep vision models](../../papers/computer-vision.md#blauch26a-modules) · 中文
+- [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../insights/modules.md#widen-the-student-distillation-interface)
+
+### Natural Language Processing
+
+- [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](../../papers/nlp.md#bian26c-modules) · 中文
+
+### Robotics
+
+- [ReconVLA](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding)
+
+### Multimodal Learning
+
+- [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](../../papers/multimodal.md#barrios26a-modules) · 中文
+
+### Machine Learning Foundations and Statistics
+
+- [Affine-Scaled Attention: Towards Flexible and Stable Transformer Attention](../../papers/ml-foundations.md#bae26d-modules) · 中文
+- [Diving into Kronecker Adapters: Component Design Matters](../../papers/ml-foundations.md#bai26l-modules) · 中文
+- [DOT-MoE: Differentiable Optimal Transport for MoEfication](../../papers/ml-foundations.md#bamba26a-modules) · 中文
+- [Efficient Continuous-Depth Modeling with GRU Equivalents](../../papers/ml-foundations.md#banerjee26b-modules) · 中文
+- [Memory Caching: RNNs with Growing Memory](../../papers/ml-foundations.md#behrouz26a-modules) · 中文
+- [ATLAS: Learning to Optimally Memorize the Context at Test Time](../../papers/ml-foundations.md#behrouz26b-modules) · 中文
+
+### Graph Learning and Recommendation
+
+- [GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](../../papers/graph-and-recommendation.md#bai26i-modules) · 中文
+- [Message Passing on the Edge: Towards Scalable and Expressive GNNs](../../papers/graph-and-recommendation.md#barcelo26a-modules) · 中文
+
+### Scientific Machine Learning
+
+- [Smoothness Errors in Dynamics Models and How to Avoid Them](../../papers/scientific-ml.md#berman26d-modules) · 中文
+<!-- classification:end -->

@@ -4,4 +4,51 @@
 
 整体架构与信息流。
 
-欢迎贡献首批条目。
+<!-- classification:start -->
+## 按研究领域浏览
+
+### 大语言模型
+
+- [离散扩散解码](../papers/llm.md#arriola26a-architecture) · Set Diffusion: Interpolating Token Orderings between Autoregression and Diffusion for Fast and Flexible Decoding
+
+### 计算机视觉
+
+- [视频分词](../papers/computer-vision.md#atanov26a-architecture) · VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization
+- [像素空间扩散](../papers/computer-vision.md#baade26a-architecture) · Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation
+- [少样本布局生成](../papers/computer-vision.md#bao26f-architecture) · Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation
+
+### 强化学习
+
+- [连续控制动作表示](../papers/reinforcement-learning.md#bian26a-architecture) · RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning
+
+### 机器人学
+
+- [VLA 潜空间推理](../papers/robotics.md#bai26h-architecture) · Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models
+
+### 多模态学习
+
+- [交互式人物检索](../papers/multimodal.md#bai26j-architecture) · Interactive Person Retrieval via Multi-Turn Multimodal Conversation
+
+### 机器学习基础与统计
+
+- [脉冲状态空间模型](../papers/ml-foundations.md#agrawal26c-architecture) · A Spiking Heterogeneous Harmonic Resonate-and-Fire State Space Model for Time Series
+- [可解释风险排序](../papers/ml-foundations.md#babbar26a-architecture) · Falling Trees: A Model Class for Interpretable Risk Prioritization
+- [世界模型](../papers/ml-foundations.md#baek26b-architecture) · Learning to Theorize the World from Observation
+- [可线性化网络](../papers/ml-foundations.md#berman26c-architecture) · Who Said Neural Networks Aren’t Linear?
+- [非高斯扩散](../papers/ml-foundations.md#bertholom26a-architecture) · M-Star: Markovian Projection of Star-Shaped Diffusion for Exponential Family Distributions
+
+### 图学习与推荐
+
+- [知识图谱多跳问答](../papers/graph-and-recommendation.md#bandyopadhyay26a-architecture) · RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation
+
+### 科学机器学习
+
+- [物理约束学习](../papers/scientific-ml.md#abijuru26a-architecture) · Physics-Informed Residual Flows
+- [时空预测](../papers/scientific-ml.md#ai26f-architecture) · Nested Spatio-Temporal Time Series Forecasting
+- [单细胞反事实编辑](../papers/scientific-ml.md#andersson26a-architecture) · scCBGM: Single-Cell Editing via Concept Bottlenecks
+- [量子生成先验](../papers/scientific-ml.md#bacarreza26a-architecture) · Quantum latent distributions in deep generative models
+- [单细胞时间建模](../papers/scientific-ml.md#balik26a-architecture) · Modeling Temporal scRNA-seq Data with Latent Gaussian Process and Optimal Transport
+- [多保真数据同化](../papers/scientific-ml.md#bao26d-architecture) · Cheap2Rich: A Multi-Fidelity Framework for Data Assimilation and System Identification of Multiscale Physics - Rotating Detonation Engines
+- [固体力学代理模型](../papers/scientific-ml.md#bazzi26a-architecture) · Physics-Informed Coarsening for Multigrid Graph Neural Surrogates
+- [随机动力学生成](../papers/scientific-ml.md#berman26b-architecture) · Stochastic Lifting for Generating Trajectories of Stochastic Physical Systems
+<!-- classification:end -->

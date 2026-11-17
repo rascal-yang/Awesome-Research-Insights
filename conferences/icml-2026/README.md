@@ -6,6 +6,8 @@
 
 **已整理 303 / 6,552 篇。** 连续整理到第 300 篇，另有三篇来自此前的专题收录。下一篇从第 301 篇开始。底册的 `written` 表示已有 Insight，`pending` 表示待整理。
 
+[按研究领域浏览](../../README.md#papers-by-domain) · [按技术类型浏览](../../README.md#insights-by-technical-category) · [逐篇分类清单（TSV）](classification.tsv)
+
 ## 按目录浏览
 
 - [第 1–100 篇](0001-0100.md)

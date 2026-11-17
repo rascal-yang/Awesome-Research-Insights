@@ -4,4 +4,54 @@
 
 Language processing methods, including structured prediction and retrieval.
 
-This index is open for contributions.
+<!-- classification:start -->
+## Browse by Technique
+
+The linked short insights are available in Chinese.
+
+<a id="by-modules"></a>
+
+### Modules
+
+| Paper | Insight |
+| :--- | :--- |
+| [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](https://proceedings.mlr.press/v306/bian26c.html) | [Read insight (中文)](../../papers/nlp.md#bian26c-modules) |
+
+<a id="by-data-strategies"></a>
+
+### Data Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) | [Read insight (中文)](../../papers/nlp.md#banayeeanzade26a-data-strategies) |
+
+<a id="by-inference"></a>
+
+### Inference Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://proceedings.mlr.press/v306/agrawal26d.html) | [Read insight (中文)](../../papers/nlp.md#agrawal26d-inference) |
+| [PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) | [Read insight (中文)](../../papers/nlp.md#ai26b-inference) |
+| [IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) | [Read insight (中文)](../../papers/nlp.md#an26a-inference) |
+
+<a id="by-evaluation"></a>
+
+### Evaluation and Diagnostics
+
+| Paper | Insight |
+| :--- | :--- |
+| [TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior](https://proceedings.mlr.press/v306/altintas26a.html) | [Read insight (中文)](../../papers/nlp.md#altintas26a-evaluation) |
+| [VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) | [Read insight (中文)](../../papers/nlp.md#basha26a-evaluation) |
+
+<a id="by-theory-statistics"></a>
+
+### Theory and Statistics
+
+| Paper | Insight |
+| :--- | :--- |
+| [Efficient Mismatch-Tolerant Coding for Model-Driven Compression](https://proceedings.mlr.press/v306/adler26b.html) | [Read insight (中文)](../../papers/nlp.md#adler26b-theory-statistics) |
+| [Language Generation in the Limit: Complexity Barriers and Implications for Learning](https://proceedings.mlr.press/v306/arenas26a.html) | [Read insight (中文)](../../papers/nlp.md#arenas26a-theory-statistics) |
+| [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](https://proceedings.mlr.press/v306/ashrafi26a.html) | [Read insight (中文)](../../papers/nlp.md#ashrafi26a-theory-statistics) |
+| [Adversarially Robust Approximate Furthest Neighbor](https://proceedings.mlr.press/v306/banihashem26b.html) | [Read insight (中文)](../../papers/nlp.md#banihashem26b-theory-statistics) |
+<!-- classification:end -->

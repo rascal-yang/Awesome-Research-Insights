@@ -30,3 +30,54 @@
 
 - **论文证据** · BFCL-v3 上，Qwen2.5-Instruct-1.5B 的五次运行平均工具调用准确率由 GRPO 的 30.18% 提升到 32.81%，格式正确率由 76.33% 到 80.66%（表 1）。
 - **迁移设想** · 可以在同一初始场景的多条机器人 rollout 上分别比较成功、进度和约束奖励。前提是组内奖励可比且有变化。某个奖励在整组里都相同时，归一化无法为该项创造区分信号。真机效果待验证。
+
+<!-- classification:start -->
+## 按研究领域浏览
+
+### 大语言模型
+
+- [奖励优化](../papers/llm.md#ackermann26a-reinforcement-learning) · Gradient Regularization Mitigates Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards
+- [Agent 后训练](../papers/llm.md#agarwal26e-reinforcement-learning) · Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use
+- [多目标偏好优化](../papers/llm.md#agnihotri26a-reinforcement-learning) · Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models
+- [LLM 强化学习](../papers/llm.md#arnal26a-reinforcement-learning) · Efficient RL Training for LLMs with Experience Replay
+- [测试时推理](../papers/llm.md#baek26a-reinforcement-learning) · D-FUSEr: Diverse Failure, Unified Success via Error-Distribution Shaping in LLM Reasoning
+- [异步强化学习](../papers/llm.md#bai26k-reinforcement-learning) · D-ARL: A Distribution-Matched Asynchronous Reinforcement Learning Framework for Language Reasoning
+- [生成安全对齐](../papers/llm.md#ball26b-reinforcement-learning) · Don’t Walk the Line: Boundary Guidance for Filtered Generation
+- [GRPO 探索](../papers/llm.md#bamba26b-reinforcement-learning) · XRPO: Pushing the Limits of GRPO with Targeted Exploration and Exploitation
+- [可验证奖励强化学习](../papers/llm.md#bi26a-reinforcement-learning) · EchoRL: Reinforcement Learning via Rollout Echoing
+- [多领域推理强化学习](../papers/llm.md#bi26c-reinforcement-learning) · Reward and Guidance through Rubrics: Promoting Exploration to Improve Multi-Domain Reasoning
+
+### 计算机视觉
+
+- [多奖励生成优化](../papers/computer-vision.md#ba26a-reinforcement-learning) · Pareto-Guided Optimal Transport for Multi-Reward Alignment
+
+### 强化学习
+
+- [价值函数学习](../papers/reinforcement-learning.md#agrawalla26a-reinforcement-learning) · What Does Flow-Matching Bring to TD-Learning?
+- [分布强化学习](../papers/reinforcement-learning.md#akgul26a-reinforcement-learning) · Distributional Active Inference
+- [多来源在线学习](../papers/reinforcement-learning.md#anand26a-reinforcement-learning) · Data-Source Adaptive Online Learning under Heteroscedastic Noise
+- [离策略学习](../papers/reinforcement-learning.md#aouali26a-reinforcement-learning) · Off-Policy Learning in Large Action Spaces: Optimization Matters More Than Estimation
+- [零样本离策略学习](../papers/reinforcement-learning.md#asadulaev26b-reinforcement-learning) · Zero-Shot Off-Policy Learning
+- [长任务信用分配](../papers/reinforcement-learning.md#auzina26a-reinforcement-learning) · Intrinsic Credit Assignment for Long Horizon Interaction
+- [神经逻辑老虎机](../papers/reinforcement-learning.md#bae26a-reinforcement-learning) · Neural Logistic Bandits
+- [多智能体通信](../papers/reinforcement-learning.md#bae26c-reinforcement-learning) · LLM-Guided Communication for Cooperative Multi-Agent Reinforcement Learning
+- [目标条件测试时 RL](../papers/reinforcement-learning.md#bagatella26a-reinforcement-learning) · Test-time Offline Reinforcement Learning on Goal-related Experience
+- [部署反馈下的强化学习](../papers/reinforcement-learning.md#basu26a-reinforcement-learning) · Performative Policy Gradient: Optimality in Performative Reinforcement Learning
+- [多反馈奖励学习](../papers/reinforcement-learning.md#baur26a-reinforcement-learning) · MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference
+- [安全策略优化](../papers/reinforcement-learning.md#belouadah26a-reinforcement-learning) · CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning
+- [低数据模仿学习](../papers/reinforcement-learning.md#blonde26a-reinforcement-learning) · Noise-Guided Transport: Imitation Learning from Random Priors
+- [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+
+### 机器人学
+
+- [规划与强化学习](../papers/robotics.md#aichmuller26a-reinforcement-learning) · Learning to Search and Searching to Learn for Generalization in Planning
+
+### 图学习与推荐
+
+- [在线影响力最大化](../papers/graph-and-recommendation.md#agarwal26a-reinforcement-learning) · Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback
+- [推荐曝光控制](../papers/graph-and-recommendation.md#bisht26a-reinforcement-learning) · CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems
+
+### 科学机器学习
+
+- [科学方程发现](../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) · DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery
+<!-- classification:end -->

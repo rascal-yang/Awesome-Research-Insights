@@ -1,0 +1,182 @@
+# Machine Learning Foundations and Statistics
+
+[Home](../../README.en.md) · [简体中文](../../papers/ml-foundations.md)
+
+General learning methods, optimization, learning theory, and inference.
+
+<!-- classification:start -->
+## Browse by Technique
+
+The linked short insights are available in Chinese.
+
+<a id="by-architecture"></a>
+
+### Architectures
+
+| Paper | Insight |
+| :--- | :--- |
+| [A Spiking Heterogeneous Harmonic Resonate-and-Fire State Space Model for Time Series](https://proceedings.mlr.press/v306/agrawal26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#agrawal26c-architecture) |
+| [Falling Trees: A Model Class for Interpretable Risk Prioritization](https://proceedings.mlr.press/v306/babbar26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#babbar26a-architecture) |
+| [Learning to Theorize the World from Observation](https://proceedings.mlr.press/v306/baek26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#baek26b-architecture) |
+| [Who Said Neural Networks Aren’t Linear?](https://proceedings.mlr.press/v306/berman26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#berman26c-architecture) |
+| [M-Star: Markovian Projection of Star-Shaped Diffusion for Exponential Family Distributions](https://proceedings.mlr.press/v306/bertholom26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bertholom26a-architecture) |
+
+<a id="by-modules"></a>
+
+### Modules
+
+| Paper | Insight |
+| :--- | :--- |
+| [Affine-Scaled Attention: Towards Flexible and Stable Transformer Attention](https://proceedings.mlr.press/v306/bae26d.html) | [Read insight (中文)](../../papers/ml-foundations.md#bae26d-modules) |
+| [Diving into Kronecker Adapters: Component Design Matters](https://proceedings.mlr.press/v306/bai26l.html) | [Read insight (中文)](../../papers/ml-foundations.md#bai26l-modules) |
+| [DOT-MoE: Differentiable Optimal Transport for MoEfication](https://proceedings.mlr.press/v306/bamba26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bamba26a-modules) |
+| [Efficient Continuous-Depth Modeling with GRU Equivalents](https://proceedings.mlr.press/v306/banerjee26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#banerjee26b-modules) |
+| [Memory Caching: RNNs with Growing Memory](https://proceedings.mlr.press/v306/behrouz26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#behrouz26a-modules) |
+| [ATLAS: Learning to Optimally Memorize the Context at Test Time](https://proceedings.mlr.press/v306/behrouz26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#behrouz26b-modules) |
+
+<a id="by-loss-functions"></a>
+
+### Loss Functions
+
+| Paper | Insight |
+| :--- | :--- |
+| [Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift](https://proceedings.mlr.press/v306/agirman26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#agirman26a-loss-functions) |
+| [Optimal Learning from Label Proportions with General Loss Functions](https://proceedings.mlr.press/v306/applebaum26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#applebaum26a-loss-functions) |
+| [Approximate Equivariance via Projection-Based Regularisation](https://proceedings.mlr.press/v306/berndt26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#berndt26a-loss-functions) |
+
+<a id="by-optimization"></a>
+
+### Optimization
+
+| Paper | Insight |
+| :--- | :--- |
+| [QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](https://proceedings.mlr.press/v306/abbas26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#abbas26a-optimization) |
+| [Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](https://proceedings.mlr.press/v306/abe26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#abe26a-optimization) |
+| [Bridging Spherical Black-Box Optimizers](https://proceedings.mlr.press/v306/ackermann26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#ackermann26b-optimization) |
+| [SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](https://proceedings.mlr.press/v306/adnan26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#adnan26a-optimization) |
+| [A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](https://proceedings.mlr.press/v306/afriat26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#afriat26a-optimization) |
+| [An Efficient Joint Learning Approach for Item Response Theory](https://proceedings.mlr.press/v306/agarwal26d.html) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26d-optimization) |
+| [Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://proceedings.mlr.press/v306/aguie26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#aguie26a-optimization) |
+| [Why Do We Need Warm-up? A Theoretical Perspective](https://proceedings.mlr.press/v306/alimisis26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alimisis26a-optimization) |
+| [Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems](https://proceedings.mlr.press/v306/amidzadeh26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#amidzadeh26a-optimization) |
+| [Diffusion Differentiable Resampling](https://proceedings.mlr.press/v306/andersson26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#andersson26b-optimization) |
+| [Momentum Further Constrains Sharpness at the Edge of Stochastic Stability](https://proceedings.mlr.press/v306/andreyev26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#andreyev26a-optimization) |
+| [Taming Stochastic Gradient Descent: Almost Sure Convergence and Saddle-Point Avoidance under $(L_0,L_1)$-Smoothness](https://proceedings.mlr.press/v306/apidopoulos26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#apidopoulos26a-optimization) |
+| [High-Probability Convergence Guarantees of Decentralized SGD](https://proceedings.mlr.press/v306/armacki26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#armacki26a-optimization) |
+| [Exploiting weight-space symmetries for approximating curvature](https://proceedings.mlr.press/v306/artemev26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#artemev26a-optimization) |
+| [Learning Rate Annealing Improves Tuning Robustness in Stochastic Optimization](https://proceedings.mlr.press/v306/attia26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#attia26a-optimization) |
+| [Reducing Per-Sample Interference in Stochastic Optimization](https://proceedings.mlr.press/v306/avranas26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#avranas26a-optimization) |
+| [Taking the GP Out of the Loop](https://proceedings.mlr.press/v306/bafna26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bafna26a-optimization) |
+| [Towards Understanding Adam Convergence on Highly Degenerate Polynomials](https://proceedings.mlr.press/v306/bai26m.html) | [Read insight (中文)](../../papers/ml-foundations.md#bai26m-optimization) |
+| [Adaptive Preconditioners Trigger Loss Spikes in Adam](https://proceedings.mlr.press/v306/bai26o.html) | [Read insight (中文)](../../papers/ml-foundations.md#bai26o-optimization) |
+| [Dimension-Free Multimodal Sampling via Preconditioned Annealed Langevin Dynamics](https://proceedings.mlr.press/v306/baldassari26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#baldassari26a-optimization) |
+| [Local-Minima-Preserving Polynomial Relaxation of Ising Problems](https://proceedings.mlr.press/v306/banerjee26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#banerjee26a-optimization) |
+| [Improved Dynamic Algorithm for Non-monotone Submodular Maximization under Cardinality Constraint](https://proceedings.mlr.press/v306/banihashem26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#banihashem26c-optimization) |
+| [CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings](https://proceedings.mlr.press/v306/bhatia26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bhatia26a-optimization) |
+| [FedFit: Federated Dynamic Sparse Training via Fisher Information scoring](https://proceedings.mlr.press/v306/bi26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#bi26b-optimization) |
+| [Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers](https://proceedings.mlr.press/v306/blasingame26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#blasingame26a-optimization) |
+| [Batched First-Order Methods for Parallel LP Solving in MIP](https://proceedings.mlr.press/v306/blin26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#blin26a-optimization) |
+
+<a id="by-training-strategies"></a>
+
+### Training Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [MODEL SOUPS NEED ONLY ONE INGREDIENT](https://proceedings.mlr.press/v306/abdollahpoorrostam26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#abdollahpoorrostam26a-training-strategies) |
+| [Representation Unlearning: Forgetting through Information Compression](https://proceedings.mlr.press/v306/almudevar26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#almudevar26b-training-strategies) |
+| [Collaborative Threshold Watermarking](https://proceedings.mlr.press/v306/bakr26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bakr26a-training-strategies) |
+| [Continual Model Routing in Evolving Model Hubs](https://proceedings.mlr.press/v306/bell26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bell26a-training-strategies) |
+| [FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning](https://proceedings.mlr.press/v306/bian26e.html) | [Read insight (中文)](../../papers/ml-foundations.md#bian26e-training-strategies) |
+
+<a id="by-data-strategies"></a>
+
+### Data Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue](https://proceedings.mlr.press/v306/afshani26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#afshani26a-data-strategies) |
+
+<a id="by-inference"></a>
+
+### Inference Strategies
+
+| Paper | Insight |
+| :--- | :--- |
+| [Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching](https://proceedings.mlr.press/v306/blessing26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#blessing26a-inference) |
+| [Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](https://proceedings.mlr.press/v306/block26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#block26a-inference) |
+
+<a id="by-representation-learning"></a>
+
+### Representation Learning
+
+| Paper | Insight |
+| :--- | :--- |
+| [Multi-Way Representation Alignment](https://proceedings.mlr.press/v306/achara26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#achara26a-representation-learning) |
+| [WeightCLIP: Aligning Datasets and Models for Weight Space Learning](https://proceedings.mlr.press/v306/asefaw26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#asefaw26a-representation-learning) |
+| [Riemannian Metric Matching for Scalable Geometric Modeling of Distributions](https://proceedings.mlr.press/v306/bamberger26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bamberger26a-representation-learning) |
+| [Uncovering the Latent Potential of Deep Intermediate Representations](https://proceedings.mlr.press/v306/batra26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#batra26a-representation-learning) |
+| [Distribution Alignment for One-Shot Federated Learning via Optimal Transport](https://proceedings.mlr.press/v306/berardini26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#berardini26a-representation-learning) |
+
+<a id="by-evaluation"></a>
+
+### Evaluation and Diagnostics
+
+| Paper | Insight |
+| :--- | :--- |
+| [A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets](https://proceedings.mlr.press/v306/agrawal26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#agrawal26b-evaluation) |
+| [Bridging Functional and Representational Similarity via Usable Information](https://proceedings.mlr.press/v306/almudevar26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#almudevar26a-evaluation) |
+| [Certified Circuits: Stability Guarantees for Mechanistic Circuits](https://proceedings.mlr.press/v306/anani26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#anani26a-evaluation) |
+| [TPV: Parameter Perturbations Through the Lens of Test Prediction Variance](https://proceedings.mlr.press/v306/arpit26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#arpit26a-evaluation) |
+| [Grounding Functional Similarity by Invariance-Aware Model Stitching](https://proceedings.mlr.press/v306/athanasiadis26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#athanasiadis26a-evaluation) |
+| [Clustered Influence Functions](https://proceedings.mlr.press/v306/bado26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bado26a-evaluation) |
+| [Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models](https://proceedings.mlr.press/v306/balef26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#balef26a-evaluation) |
+| [Universal Redundancies in Time Series Foundation Models](https://proceedings.mlr.press/v306/bao26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#bao26c-evaluation) |
+
+<a id="by-theory-statistics"></a>
+
+### Theory and Statistics
+
+| Paper | Insight |
+| :--- | :--- |
+| [Efficient Bayesian Inference from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v306/aczel26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#aczel26a-theory-statistics) |
+| [A Capacity-Based Rationale for Multi-Head Attention](https://proceedings.mlr.press/v306/adler26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#adler26a-theory-statistics) |
+| [Fast Reconstruction of Mixtures of Bernoulli Product Distributions](https://proceedings.mlr.press/v306/agarwal26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26b-theory-statistics) |
+| [Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](https://proceedings.mlr.press/v306/agarwal26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26c-theory-statistics) |
+| [A Theoretical Framework for Statistical Evaluability of Generative Models](https://proceedings.mlr.press/v306/aiyer26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#aiyer26a-theory-statistics) |
+| [Solving Stochastic Variational Inequalities without the Bounded Variance Assumption](https://proceedings.mlr.press/v306/alacaoglu26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alacaoglu26a-theory-statistics) |
+| [Set-Preserving Calibration from Conformal P-Values to E-Values](https://proceedings.mlr.press/v306/alami26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alami26a-theory-statistics) |
+| [Attention’s forward pass and Frank-Wolfe](https://proceedings.mlr.press/v306/alcalde26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alcalde26a-theory-statistics) |
+| [Robust Strategic Classification under Decision-Dependent Cost Uncertainty](https://proceedings.mlr.press/v306/alhanouti26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alhanouti26a-theory-statistics) |
+| [Asymmetric conformal prediction with penalized kernel sum-of-squares](https://proceedings.mlr.press/v306/allain26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#allain26a-theory-statistics) |
+| [Perceptrons and Localization of Attention’s Mean-Field Landscape](https://proceedings.mlr.press/v306/alvarez-lopez26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alvarez-lopez26a-theory-statistics) |
+| [Likelihood over Estimation: Robust Quadratic Discriminant Analysis for Heavy-Tailed Distributions with Theory and Evidence](https://proceedings.mlr.press/v306/ambadi26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#ambadi26a-theory-statistics) |
+| [Learning-Augmented Online Covering Problems](https://proceedings.mlr.press/v306/ameli26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#ameli26a-theory-statistics) |
+| [On the Computational Complexity of Performative Prediction](https://proceedings.mlr.press/v306/anagnostides26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#anagnostides26a-theory-statistics) |
+| [A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning](https://proceedings.mlr.press/v306/anguita26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#anguita26a-theory-statistics) |
+| [Rank-Learner: Orthogonal Ranking of Treatment Effects](https://proceedings.mlr.press/v306/arno26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#arno26a-theory-statistics) |
+| [Provable Accuracy Collapse in Embedding-Based Representations under Dimensionality Mismatch](https://proceedings.mlr.press/v306/arvanitakis26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#arvanitakis26a-theory-statistics) |
+| [Why DDIM Hallucinates More Than DDPM: A Theoretical Analysis of Reverse Dynamics](https://proceedings.mlr.press/v306/ashiq26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#ashiq26a-theory-statistics) |
+| [Robust Bayes-Assisted Conformal Prediction](https://proceedings.mlr.press/v306/ashouritaklimi26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#ashouritaklimi26a-theory-statistics) |
+| [Fast and Near-Optimal Algorithms for Private Hypothesis Selection](https://proceedings.mlr.press/v306/asi26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#asi26a-theory-statistics) |
+| [Learning Partial Concept Classes and Universal Rates Under Massart Noise](https://proceedings.mlr.press/v306/avital26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#avital26a-theory-statistics) |
+| [Fair Transit Stop Placement: A Clustering Perspective and Beyond](https://proceedings.mlr.press/v306/aziz26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#aziz26a-theory-statistics) |
+| [Regret-Based Federated Causal Discovery with Unknown Interventions](https://proceedings.mlr.press/v306/baldo26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#baldo26a-theory-statistics) |
+| [Matroid Algorithms Under Size-Sensitive Independence Oracles](https://proceedings.mlr.press/v306/banihashem26d.html) | [Read insight (中文)](../../papers/ml-foundations.md#banihashem26d-theory-statistics) |
+| [Conformal C2ST: Turning weak classifiers into strong two-sample tests](https://proceedings.mlr.press/v306/bansal26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bansal26a-theory-statistics) |
+| [A theory of learning data statistics in diffusion models, from easy to hard](https://proceedings.mlr.press/v306/bardone26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bardone26a-theory-statistics) |
+| [On the Origin of Neural Scaling Laws: from Random Graphs to Natural Language](https://proceedings.mlr.press/v306/barkeshli26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#barkeshli26a-theory-statistics) |
+| [General Synthetic-Powered Inference](https://proceedings.mlr.press/v306/bashari26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bashari26a-theory-statistics) |
+| [Networked Information Aggregation for Binary Classification](https://proceedings.mlr.press/v306/bateni26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bateni26a-theory-statistics) |
+| [A unified theory of feature learning in RNNs and DNNs](https://proceedings.mlr.press/v306/bauer26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bauer26a-theory-statistics) |
+| [The Relative Instability of Model Comparison with Cross-validation](https://proceedings.mlr.press/v306/bayle26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bayle26a-theory-statistics) |
+| [Stronger Benchmarks for Prediction as a Service with Constraints](https://proceedings.mlr.press/v306/bechavod26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bechavod26a-theory-statistics) |
+| [Symmetries in PAC-Bayesian Learning](https://proceedings.mlr.press/v306/beck26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#beck26a-theory-statistics) |
+| [Efficient Public Verification of Private ML via Regularization](https://proceedings.mlr.press/v306/bell26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#bell26b-theory-statistics) |
+| [Fair Decisions from Calibrated Scores: Achieving Optimal Classification While Satisfying Sufficiency](https://proceedings.mlr.press/v306/benger26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#benger26a-theory-statistics) |
+| [RSA-CP: Efficient Conformal Prediction in Small-Sample Regimes via Random Score Alignment](https://proceedings.mlr.press/v306/bhagwat26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bhagwat26a-theory-statistics) |
+| [Dynamic High-Dimensional Facility Location with Low Recourse](https://proceedings.mlr.press/v306/bhattacharya26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bhattacharya26a-theory-statistics) |
+| [Provably Learning Attention with Queries](https://proceedings.mlr.press/v306/bhattamishra26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bhattamishra26a-theory-statistics) |
+| [Optimal Transport under Group Fairness Constraints](https://proceedings.mlr.press/v306/bleistein26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bleistein26a-theory-statistics) |
+| [On Contraction of Sequential and Offset Rademacher Complexities](https://proceedings.mlr.press/v306/block26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#block26b-theory-statistics) |
+<!-- classification:end -->

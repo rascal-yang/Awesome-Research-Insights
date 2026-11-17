@@ -57,3 +57,33 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 
 - **Paper evidence** · In GR00T-N1.6 post-training on G1, average full-task success rose from 72% to 76% across two tasks with 50 trials each. Full Grasp-n-Pour success was 68% in both settings. On LIBERO-Long, joint training beat the frozen latent-action baseline. The best alignment layer varied by backbone.
 - **Transfer hypothesis** · For a small VLA, compare action loss alone, frozen latent-action supervision, and joint training. This needs aligned frame pairs and action labels. A layer near the action output is a starting point.
+
+<!-- classification:start -->
+## Browse by Research Domain
+
+### Large Language Models
+
+- [TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization](../../papers/llm.md#abas26a-loss-functions) · 中文
+- [The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity](../../papers/llm.md#aouad26a-loss-functions) · 中文
+
+### Computer Vision
+
+- [Threshold-Guided Optimization for Visual Generative Models](../../papers/computer-vision.md#bai26c-loss-functions) · 中文
+
+### Robotics
+
+- [DT²: Decision-Targeted Digital Twins](../../papers/robotics.md#amad26a-loss-functions) · 中文
+- [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../insights/loss-functions.md#align-action-features-with-latent-actions)
+- [ReconVLA](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)
+
+### Machine Learning Foundations and Statistics
+
+- [Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift](../../papers/ml-foundations.md#agirman26a-loss-functions) · 中文
+- [Optimal Learning from Label Proportions with General Loss Functions](../../papers/ml-foundations.md#applebaum26a-loss-functions) · 中文
+- [Approximate Equivariance via Projection-Based Regularisation](../../papers/ml-foundations.md#berndt26a-loss-functions) · 中文
+
+### Scientific Machine Learning
+
+- [Heavy-tailed Physics-Informed Neural Networks](../../papers/scientific-ml.md#abijuru26b-loss-functions) · 中文
+- [Certificates for Complex-Compatible Learned Cochain Laplacians](../../papers/scientific-ml.md#anwer26a-loss-functions) · 中文
+<!-- classification:end -->

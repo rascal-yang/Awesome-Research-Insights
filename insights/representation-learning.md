@@ -1,0 +1,40 @@
+# 表征学习
+
+[首页](../README.md) · [English](../en/insights/representation-learning.md)
+
+表征提取、对齐、迁移与解耦。
+
+<!-- classification:start -->
+## 按研究领域浏览
+
+### 大语言模型
+
+- [代码性能预测](../papers/llm.md#akhauri26b-representation-learning) · Regression Language Models for Code
+
+### 计算机视觉
+
+- [新类别发现](../papers/computer-vision.md#bian26d-representation-learning) · CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery
+
+### 强化学习
+
+- [控制相关表征](../papers/reinforcement-learning.md#bastankhah26a-representation-learning) · Learning to Perceive the World Through Control: Empowerment-Based Representation Learning
+
+### 机器学习基础与统计
+
+- [多模型表征对齐](../papers/ml-foundations.md#achara26a-representation-learning) · Multi-Way Representation Alignment
+- [权重空间学习](../papers/ml-foundations.md#asefaw26a-representation-learning) · WeightCLIP: Aligning Datasets and Models for Weight Space Learning
+- [数据流形几何](../papers/ml-foundations.md#bamberger26a-representation-learning) · Riemannian Metric Matching for Scalable Geometric Modeling of Distributions
+- [中间层特征迁移](../papers/ml-foundations.md#batra26a-representation-learning) · Uncovering the Latent Potential of Deep Intermediate Representations
+- [单轮联邦学习](../papers/ml-foundations.md#berardini26a-representation-learning) · Distribution Alignment for One-Shot Federated Learning via Optimal Transport
+
+### 图学习与推荐
+
+- [跨图对齐](../papers/graph-and-recommendation.md#behmanesh26a-representation-learning) · Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication
+
+### 科学机器学习
+
+- [图表征学习](../papers/scientific-ml.md#abulikemu26a-representation-learning) · Geometry-Guided Generative Representation for Functional Brain Graphs
+- [分子动力学泛化](../papers/scientific-ml.md#antoniadis26a-representation-learning) · Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators
+- [分子自监督](../papers/scientific-ml.md#ariguib26a-representation-learning) · Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining
+- [多结局风险表征](../papers/scientific-ml.md#baloch26a-representation-learning) · A Machine-Learned Comorbidity Index
+<!-- classification:end -->
