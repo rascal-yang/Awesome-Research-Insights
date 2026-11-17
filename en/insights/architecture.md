@@ -54,7 +54,6 @@ Model-wide design and information flow.
 - [Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule](../../conferences/icml-2026/cards/3401-3500.md#nguyen26i-architecture) · 中文
 - [MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](../../conferences/icml-2026/cards/3401-3500.md#nother26a-architecture) · 中文
 - [TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · 中文
-- [MarketSim: Simulating Stock Markets with Large-Scale Generative Agents](../../conferences/icml-2026/cards/3601-3700.md#piao26b-architecture) · 中文
 - [Esoteric Language Models: A Family of Any-Order Diffusion LLMs](../../conferences/icml-2026/cards/3901-4000.md#sahoo26b-architecture) · 中文
 - [Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking](../../conferences/icml-2026/cards/4001-4100.md#shaj26a-architecture) · 中文
 
@@ -392,7 +391,6 @@ Model-wide design and information flow.
 - [Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction](../../conferences/icml-2026/cards/3601-3700.md#piao26a-architecture) · 中文
 - [Protein Autoregressive Modeling via Multiscale Structure Generation](../../conferences/icml-2026/cards/3701-3800.md#qu26b-architecture) · 中文
 - [A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention](../../conferences/icml-2026/cards/3701-3800.md#qu26g-architecture) · 中文
-- [DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](../../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · 中文
 - [TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations](../../conferences/icml-2026/cards/3801-3900.md#rossi26a-architecture) · 中文
 - [Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling](../../conferences/icml-2026/cards/4001-4100.md#seong26a-architecture) · 中文
 - [Structure-Preserving Learning Improves Geometry Generalization in Neural PDEs](../../conferences/icml-2026/cards/4001-4100.md#shaffer26a-architecture) · 中文

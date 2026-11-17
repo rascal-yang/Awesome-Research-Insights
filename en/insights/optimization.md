@@ -348,7 +348,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Sharpness-Aware Minimization Can Hallucinate Minimizers](../../conferences/icml-2026/cards/3501-3600.md#park26e-optimization) · 中文
 - [Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning](../../conferences/icml-2026/cards/3501-3600.md#park26g-optimization) · 中文
 - [SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients](../../conferences/icml-2026/cards/3601-3700.md#paulus26a-optimization) · 中文
-- [Riemannian stochastic optimization for sufficient dimension reduction](../../conferences/icml-2026/cards/3601-3700.md#pautrel26a-optimization) · 中文
 - [Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation](../../conferences/icml-2026/cards/3601-3700.md#petersen26a-optimization) · 中文
 - [Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization](../../conferences/icml-2026/cards/3601-3700.md#pion26a-optimization) · 中文
 - [A Constrained Optimization Perspective of Unrolled Transformers](../../conferences/icml-2026/cards/3601-3700.md#porras-valenzuela26a-optimization) · 中文

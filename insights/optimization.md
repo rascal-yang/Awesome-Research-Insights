@@ -348,7 +348,6 @@
 - [同时监测 SAM 原点和扰动点梯度](../conferences/icml-2026/cards/3501-3600.md#park26e-optimization) · Sharpness-Aware Minimization Can Hallucinate Minimizers
 - [在客户端用分组归一动量平衡稀类](../conferences/icml-2026/cards/3501-3600.md#park26g-optimization) · Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning
 - [硬操作的软梯度与软索引](../conferences/icml-2026/cards/3601-3700.md#paulus26a-optimization) · SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients
-- [用稀疏近邻做流形充分降维](../conferences/icml-2026/cards/3601-3700.md#pautrel26a-optimization) · Riemannian stochastic optimization for sufficient dimension reduction
 - [黑盒平滑的扰动预算](../conferences/icml-2026/cards/3601-3700.md#petersen26a-optimization) · Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation
 - [为期望改进校准 GP 预测低尾](../conferences/icml-2026/cards/3601-3700.md#pion26a-optimization) · Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization
 - [用原始–对偶训练使 Transformer 层间目标期望下降](../conferences/icml-2026/cards/3601-3700.md#porras-valenzuela26a-optimization) · A Constrained Optimization Perspective of Unrolled Transformers

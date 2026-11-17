@@ -3436,7 +3436,6 @@ park26u	llm	modules
 park26v	llm	inference
 park26w	reinforcement-learning	training-strategies
 park26x	graph-and-recommendation	theory-statistics
-park26y	scientific-ml	evaluation
 park26z	computer-vision	inference
 park26aa	scientific-ml	architecture
 parker26a	llm	architecture
@@ -3448,7 +3447,6 @@ patil26a	robotics	reinforcement-learning
 pattnayak26a	llm	evaluation
 paulus26a	ml-foundations	optimization
 paulus26b	llm	reinforcement-learning
-pautrel26a	ml-foundations	optimization
 pedawi26a	scientific-ml	inference
 pegoraro26a	computer-vision	representation-learning
 pei26a	llm	inference
@@ -3491,7 +3489,6 @@ pham26c	ml-foundations	theory-statistics
 phan26a	ml-foundations	inference
 pi26a	ml-foundations	theory-statistics
 piao26a	scientific-ml	architecture
-piao26b	llm	architecture
 pieper-sethmacher26a	ml-foundations	theory-statistics
 pillaud-vivien26a	ml-foundations	theory-statistics
 pimparkhede26a	llm	representation-learning
@@ -3515,7 +3512,6 @@ potter26a	llm	evaluation
 potter26b	llm	evaluation
 prabhu26a	ml-foundations	theory-statistics
 prabhudesai26a	llm	reinforcement-learning
-prakash26a	llm	evaluation
 prakash26b	ml-foundations	optimization
 prakash26c	graph-and-recommendation	training-strategies
 pranger26a	robotics	reinforcement-learning
@@ -3523,7 +3519,6 @@ prasad26a	llm	evaluation
 pratihar26a	llm	theory-statistics
 premkumar26a	computer-vision	theory-statistics
 prinster26a	ml-foundations	theory-statistics
-proietti26a	scientific-ml	evaluation
 prokhorov26a	ml-foundations	optimization
 psenka26a	robotics	optimization
 pu26a	scientific-ml	optimization
@@ -3573,11 +3568,8 @@ qiao26c	ml-foundations	data-strategies
 qiao26d	reinforcement-learning	reinforcement-learning
 qiao26e	reinforcement-learning	data-strategies
 qiao26f	robotics	reinforcement-learning
-qiao26g	ml-foundations	evaluation
-qiao26h	llm	evaluation
 qiao26i	llm	inference
 qiao26j	reinforcement-learning	optimization
-qiao26k	ml-foundations	theory-statistics
 qin26a	multimodal	optimization
 qin26b	scientific-ml	loss-functions
 qin26c	llm	inference
@@ -3603,14 +3595,12 @@ qiu26h	ml-foundations	optimization
 qiu26i	multimodal	inference
 qiu26j	llm	inference
 qiu26k	ml-foundations	theory-statistics
-qiu26l	ml-foundations	theory-statistics
 qiu26m	computer-vision	architecture
 qiu26n	ml-foundations	architecture
 qiu26o	llm	optimization
 qiu26p	llm	inference
 qiu26q	ml-foundations	inference
 qiu26r	scientific-ml	training-strategies
-qiu26s	multimodal	evaluation
 qiu26t	ml-foundations	architecture
 qiu26u	ml-foundations	architecture
 qiu26v	multimodal	inference
@@ -3633,7 +3623,6 @@ racioppo26a	llm	modules
 rad26a	llm	reinforcement-learning
 rad26b	llm	theory-statistics
 rafieioskouei26a	reinforcement-learning	reinforcement-learning
-raghavan26a	ml-foundations	theory-statistics
 raghuvanshi26a	graph-and-recommendation	architecture
 rahimi26a	computer-vision	data-strategies
 rahman26a	llm	inference
@@ -3642,14 +3631,12 @@ raisa26a	ml-foundations	theory-statistics
 rajabpour26a	reinforcement-learning	evaluation
 rajagopalan26a	computer-vision	inference
 rajesh26a	llm	inference
-rajgarhia26a	multimodal	evaluation
 raju26a	llm	theory-statistics
 rakitin26a	computer-vision	loss-functions
 rakotoarison26a	ml-foundations	optimization
 rakotomamonjy26a	ml-foundations	optimization
 ramachandran26a	ml-foundations	theory-statistics
 raman26a	llm	evaluation
-ramani26a	scientific-ml	architecture
 ramesh26a	llm	evaluation
 ramesh26b	llm	reinforcement-learning
 ramlaoui26a	scientific-ml	representation-learning
@@ -3667,7 +3654,6 @@ rashwan26a	reinforcement-learning	reinforcement-learning
 rauba26a	llm	inference
 raviola26a	scientific-ml	optimization
 ray26a	multimodal	evaluation
-ray-chaudhury26a	ml-foundations	theory-statistics
 real26a	scientific-ml	optimization
 rebuffi26a	computer-vision	training-strategies
 reddy26a	llm	inference
@@ -3682,7 +3668,6 @@ ren26a	robotics	inference
 ren26b	multimodal	reinforcement-learning
 ren26c	llm	reinforcement-learning
 ren26d	llm	inference
-ren26e	ml-foundations	theory-statistics
 ren26f	multimodal	reinforcement-learning
 ren26g	ml-foundations	theory-statistics
 ren26h	ml-foundations	theory-statistics

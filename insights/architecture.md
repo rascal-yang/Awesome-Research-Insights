@@ -54,7 +54,6 @@
 - [把栈操作写成可并行的递归更新](../conferences/icml-2026/cards/3401-3500.md#nguyen26i-architecture) · Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule
 - [用对手搜索协同设计多智能体防线](../conferences/icml-2026/cards/3401-3500.md#nother26a-architecture) · MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems
 - [给语言模型加可读写数值时序的 patch 接口](../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction
-- [把低频机构推理接到高频市场执行](../conferences/icml-2026/cards/3601-3700.md#piao26b-architecture) · MarketSim: Simulating Stock Markets with Large-Scale Generative Agents
 - [用任意顺序因果注意力实现扩散文本的精确 KV 缓存](../conferences/icml-2026/cards/3901-4000.md#sahoo26b-architecture) · Esoteric Language Models: A Family of Any-Order Diffusion LLMs
 - [用信息形式的并行卡尔曼滤波保存序列置信状态](../conferences/icml-2026/cards/4001-4100.md#shaj26a-architecture) · Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking
 
@@ -392,7 +391,6 @@
 - [按基因扰动选稀疏图上下文](../conferences/icml-2026/cards/3601-3700.md#piao26a-architecture) · Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction
 - [蛋白质骨架的多尺度自回归](../conferences/icml-2026/cards/3701-3800.md#qu26b-architecture) · Protein Autoregressive Modeling via Multiscale Structure Generation
 - [全原子全局注意力学习长程势能](../conferences/icml-2026/cards/3701-3800.md#qu26g-architecture) · A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention
-- [保留热力学约束的分子溶解度预测](../conferences/icml-2026/cards/3801-3900.md#ramani26a-architecture) · DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction
 - [用口袋距离分布直接预测结合亲和力](../conferences/icml-2026/cards/3801-3900.md#rossi26a-architecture) · TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations
 - [以独立流时间统一晶体生成任务](../conferences/icml-2026/cards/4001-4100.md#seong26a-architecture) · Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling
 - [用几何网格兼容的有限元空间保住神经 PDE 守恒](../conferences/icml-2026/cards/4001-4100.md#shaffer26a-architecture) · Structure-Preserving Learning Improves Geometry Generalization in Neural PDEs
