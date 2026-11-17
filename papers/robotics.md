@@ -45,7 +45,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="amad26a-loss-functions"></a>[DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-amad26a) | 面向决策的数字孪生 | 用离线价值评估给策略排序，再训练数字孪生保住这些成对排序。当模型容量受限时，单步预测精度和策略选择质量可以分离。 |
-| <a id="fang26h-loss-functions"></a>[OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) | 单步操作策略的速度方向监督 | 在 MeanFlow 重建目标外，用预测速度与真实平均速度的余弦相似度单独监督方向，使低速精细动作仍获得方向梯度。论文还用有限差分近似训练所需的导数，以减轻显存开销。 |
+| <a id="fang26h-loss-functions"></a>[OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) · [论文卡](../conferences/icml-2026/cards/1001-1100.md#paper-fang26h) | 单步操作策略的速度方向监督 | 在 MeanFlow 重建目标外，用预测速度与真实平均速度的余弦相似度单独监督方向，使低速精细动作仍获得方向梯度。论文还用有限差分近似训练所需的导数，以减轻显存开销。 |
 | <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl) | 动作表征监督 | 用视频前后帧提取潜动作，监督动作专家的中间层，使策略表征能利用额外的运动信号。 [详细解读](../insights/loss-functions.md#align-action-features-with-latent-actions) |
 | <a id="reconvla-loss-functions"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) · [论文卡](reconvla.md#paper-reconvla) | 目标区域重建 | 用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。 [详细解读](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
 
@@ -56,7 +56,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="chaudhary26a-optimization"></a>[Blending Neural Control Density Functions for Stabilization and Safety](https://proceedings.mlr.press/v306/chaudhary26a.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chaudhary26a) | 安全控制器混合 | 用可积的神经密度函数作为几乎处处稳定的证书，可平滑混合多个控制器并保住各自吸引域的并集，再与控制障碍函数结合处理安全。 |
-| <a id="fan26g-optimization"></a>[De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](https://proceedings.mlr.press/v306/fan26g.html) | 动态 SLAM 的残差梯度隔离 | 用仅含静态模型的渲染残差监督运动预测分支，并在残差处停止梯度，使掩码学习无法靠改变背景几何减小损失。高静态残差可作为移动区域线索，用于调节后续静态和动态重建。 |
+| <a id="fan26g-optimization"></a>[De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](https://proceedings.mlr.press/v306/fan26g.html) · [论文卡](../conferences/icml-2026/cards/1001-1100.md#paper-fan26g) | 动态 SLAM 的残差梯度隔离 | 用仅含静态模型的渲染残差监督运动预测分支，并在残差处停止梯度，使掩码学习无法靠改变背景几何减小损失。高静态残差可作为移动区域线索，用于调节后续静态和动态重建。 |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -90,7 +90,7 @@
 | <a id="chen26ab-data-strategies"></a>[PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) · [论文卡](../conferences/icml-2026/cards/0401-0500.md#paper-chen26ab) | 物理可用的桌面场景 | 先按锚点依赖顺序放置物体，再用可微 SDF 在测试时优化碰撞并约束语义关系，使生成布局更容易直接载入物理仿真。 |
 | <a id="chen26cy-data-strategies"></a>[Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) · [论文卡](../conferences/icml-2026/cards/0501-0600.md#paper-chen26cy) | 固定预算下的机器人示范分配 | 先在少数核心条件重复采集示范以稳定策略，再按教师强制下的动作偏差找出高风险边界，补采示范并用受约束的残差更新扩展覆盖。真机实验中，同等预算下的成功率优于分散采样。 |
 | <a id="choi26i-data-strategies"></a>[EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) · [论文卡](../conferences/icml-2026/cards/0701-0800.md#paper-choi26i) | 具身动作风险的组合数据构造 | 为同类场景组合不同危险配置与动作，包括在危险仍存在时改用不会触发它的动作。将图像和动作配对并标注风险，使监督信号针对特定交互的后果，也覆盖容易引发误报的安全动作。 |
-| <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) | 跨来源点云的 VLA 训练 | 在统一训练流程中混合仿真、深度传感器和模型估计的点云，并以形状和尺度变化扩展输入。将学到的三维表征与对应的二维特征融合，可减轻部署时深度来源和尺度差异对操作策略的影响。 |
+| <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) · [论文卡](../conferences/icml-2026/cards/1001-1100.md#paper-fan26b) | 跨来源点云的 VLA 训练 | 在统一训练流程中混合仿真、深度传感器和模型估计的点云，并以形状和尺度变化扩展输入。将学到的三维表征与对应的二维特征融合，可减轻部署时深度来源和尺度差异对操作策略的影响。 |
 | <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) | 人类视频的潜动作监督 | 将相邻视频帧之间的变化通过信息瓶颈编码成连续潜动作，作为未标注人类视频的控制信号预训练机器人世界模型，再以目标机器人真动作做适配。 |
 | <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) | 人形运动跟踪的可行性与难度选样 | 先过滤违反物理约束的轨迹，再用运动嵌入的最近距离和关节速度、加速度衡量多样性与动态难度。每次优先补充覆盖不足且复杂的动作，在论文的 AMASS 实验中，约 3% 的样本已能超过全量训练的跟踪基线。 |
 
@@ -119,7 +119,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="fan26f-representation-learning"></a>[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) | 跨机器人共享的视觉运动码 | 用双分支 VQ-VAE 将图像动态和机器人动作压入共享离散码本，再用这些码引导跨本体 VLA 预训练。统一的中间运动表示让不同机器人或视觉来源的动态知识可服务于下游控制。 |
+| <a id="fan26f-representation-learning"></a>[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) · [论文卡](../conferences/icml-2026/cards/1001-1100.md#paper-fan26f) | 跨机器人共享的视觉运动码 | 用双分支 VQ-VAE 将图像动态和机器人动作压入共享离散码本，再用这些码引导跨本体 VLA 预训练。统一的中间运动表示让不同机器人或视觉来源的动态知识可服务于下游控制。 |
 | <a id="habashy26a-representation-learning"></a>[Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](https://proceedings.mlr.press/v306/habashy26a.html) | 空间语义指针的测地流去噪 | 沿单位球上源向量与目标向量间的大圆弧构造训练路径，让模型回归切向速度并在采样中保持单位范数，有助于抑制脉冲神经 SLAM 路径积分的漂移。 |
 
 <a id="by-evaluation"></a>

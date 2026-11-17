@@ -45,7 +45,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-amad26a) | [Read insight (中文)](../../papers/robotics.md#amad26a-loss-functions) |
-| [OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) | [Read insight (中文)](../../papers/robotics.md#fang26h-loss-functions) |
+| [OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26h) | [Read insight (中文)](../../papers/robotics.md#fang26h-loss-functions) |
 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl) | [Read insight (中文)](../../papers/robotics.md#liu26bl-loss-functions) · [Full entry](../insights/loss-functions.md#align-action-features-with-latent-actions) |
 | [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-loss-functions) · [Full entry](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
 
@@ -56,7 +56,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Blending Neural Control Density Functions for Stabilization and Safety](https://proceedings.mlr.press/v306/chaudhary26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chaudhary26a) | [Read insight (中文)](../../papers/robotics.md#chaudhary26a-optimization) |
-| [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](https://proceedings.mlr.press/v306/fan26g.html) | [Read insight (中文)](../../papers/robotics.md#fan26g-optimization) |
+| [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](https://proceedings.mlr.press/v306/fan26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26g) | [Read insight (中文)](../../papers/robotics.md#fan26g-optimization) |
 
 <a id="by-reinforcement-learning"></a>
 
@@ -90,7 +90,7 @@ The linked short insights are available in Chinese.
 | [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26ab) | [Read insight (中文)](../../papers/robotics.md#chen26ab-data-strategies) |
 | [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26cy) | [Read insight (中文)](../../papers/robotics.md#chen26cy-data-strategies) |
 | [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26i) | [Read insight (中文)](../../papers/robotics.md#choi26i-data-strategies) |
-| [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) | [Read insight (中文)](../../papers/robotics.md#fan26b-data-strategies) |
+| [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26b) | [Read insight (中文)](../../papers/robotics.md#fan26b-data-strategies) |
 | [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) | [Read insight (中文)](../../papers/robotics.md#gao26q-data-strategies) |
 | [LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) | [Read insight (中文)](../../papers/robotics.md#guan26f-data-strategies) |
 
@@ -119,7 +119,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) | [Read insight (中文)](../../papers/robotics.md#fan26f-representation-learning) |
+| [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26f) | [Read insight (中文)](../../papers/robotics.md#fan26f-representation-learning) |
 | [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](https://proceedings.mlr.press/v306/habashy26a.html) | [Read insight (中文)](../../papers/robotics.md#habashy26a-representation-learning) |
 
 <a id="by-evaluation"></a>
