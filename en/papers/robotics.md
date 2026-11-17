@@ -8,8 +8,8 @@ Robot perception, policy learning, planning, and control.
 
 | Paper | First public / venue | Transferable insights | Resources |
 | :--- | :--- | :--- | :--- |
-| **ReconVLA**<br>Song et al., *ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver* | 2025-08-14<br><sub>[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883)</sub> | [Target-Region Reconstruction as Auxiliary Supervision](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) · [Instruction Prefixes for Causal Visual Grounding](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | [Paper](https://arxiv.org/abs/2508.10333) · [Project](https://zionchow.github.io/ReconVLA/) · [Code](https://github.com/OpenHelix-Team/ReconVLA) |
-| [**LARA**](https://proceedings.mlr.press/v306/liu26bl.html)<br><sub>Mengya Liu et al., LARA: Latent Action Representation Alignment for Vision-Language-Action Models</sub> | [2026-06-05](https://arxiv.org/abs/2606.07100)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26bl.html)</sub> | [Align Action-Expert Features with Latent Actions](../insights/loss-functions.md#align-action-features-with-latent-actions) | [PMLR](https://proceedings.mlr.press/v306/liu26bl.html) · [arXiv](https://arxiv.org/abs/2606.07100) · [Code](https://github.com/lmy1001/LARA) |
+| **ReconVLA**<br>Song et al., *ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver* | 2025-08-14<br><sub>[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883)</sub> | [Target-Region Reconstruction as Auxiliary Supervision](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) · [Instruction Prefixes for Causal Visual Grounding](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | [Paper](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) · [Project](https://zionchow.github.io/ReconVLA/) · [Code](https://github.com/OpenHelix-Team/ReconVLA) |
+| [**LARA**](https://proceedings.mlr.press/v306/liu26bl.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl)<br><sub>Mengya Liu et al., LARA: Latent Action Representation Alignment for Vision-Language-Action Models</sub> | [2026-06-05](https://arxiv.org/abs/2606.07100)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26bl.html)</sub> | [Align Action-Expert Features with Latent Actions](../insights/loss-functions.md#align-action-features-with-latent-actions) | [PMLR](https://proceedings.mlr.press/v306/liu26bl.html) · [arXiv](https://arxiv.org/abs/2606.07100) · [Code](https://github.com/lmy1001/LARA) |
 
 <!-- classification:start -->
 ## Browse by Technique
@@ -36,7 +36,7 @@ The linked short insights are available in Chinese.
 | [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | [Read insight (中文)](../../papers/robotics.md#feng26x-modules) |
 | [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | [Read insight (中文)](../../papers/robotics.md#fu26x-modules) |
 | [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) | [Read insight (中文)](../../papers/robotics.md#gyenes26a-modules) |
-| [ReconVLA](https://arxiv.org/abs/2508.10333) | [Read insight (中文)](../../papers/robotics.md#reconvla-modules) · [Full entry](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
+| [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-modules) · [Full entry](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
 <a id="by-loss-functions"></a>
 
@@ -46,8 +46,8 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) | [Read insight (中文)](../../papers/robotics.md#amad26a-loss-functions) |
 | [OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) | [Read insight (中文)](../../papers/robotics.md#fang26h-loss-functions) |
-| [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) | [Read insight (中文)](../../papers/robotics.md#liu26bl-loss-functions) · [Full entry](../insights/loss-functions.md#align-action-features-with-latent-actions) |
-| [ReconVLA](https://arxiv.org/abs/2508.10333) | [Read insight (中文)](../../papers/robotics.md#reconvla-loss-functions) · [Full entry](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
+| [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl) | [Read insight (中文)](../../papers/robotics.md#liu26bl-loss-functions) · [Full entry](../insights/loss-functions.md#align-action-features-with-latent-actions) |
+| [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-loss-functions) · [Full entry](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
 
 <a id="by-optimization"></a>
 

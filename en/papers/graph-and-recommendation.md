@@ -67,7 +67,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](https://proceedings.mlr.press/v306/agarwal26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#agarwal26a-reinforcement-learning) |
+| [Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](https://proceedings.mlr.press/v306/agarwal26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#agarwal26a-reinforcement-learning) |
 | [CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](https://proceedings.mlr.press/v306/bisht26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bisht26a-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
@@ -128,7 +128,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](https://proceedings.mlr.press/v306/agbaje26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#agbaje26a-evaluation) |
+| [Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](https://proceedings.mlr.press/v306/agbaje26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agbaje26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#agbaje26a-evaluation) |
 | [Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#akula26a-evaluation) |
 | [Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#ferrini26a-evaluation) |
 | [Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#forbat26a-evaluation) |
@@ -140,7 +140,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](https://proceedings.mlr.press/v306/adriaens26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#adriaens26a-theory-statistics) |
+| [Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](https://proceedings.mlr.press/v306/adriaens26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adriaens26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#adriaens26a-theory-statistics) |
 | [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#amran26a-theory-statistics) |
 | [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) |
 | [On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) |

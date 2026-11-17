@@ -10,8 +10,8 @@
 
 | 论文 | 首次公开 / 发表 | 可借鉴的技术 | 资源 |
 | :--- | :--- | :--- | :--- |
-| [**ReconVLA**](https://arxiv.org/abs/2508.10333)<br><sub>Song et al., ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver</sub> | 2025-08-14<br><sub>[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883)</sub> | [用目标区域重建做辅助监督](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)<br>[用指令前缀让视觉表征感知任务](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | [论文](https://arxiv.org/abs/2508.10333) · [项目](https://zionchow.github.io/ReconVLA/) · [代码](https://github.com/OpenHelix-Team/ReconVLA) |
-| [**LARA**](https://proceedings.mlr.press/v306/liu26bl.html)<br><sub>Mengya Liu 等, LARA: Latent Action Representation Alignment for Vision-Language-Action Models</sub> | [2026-06-05](https://arxiv.org/abs/2606.07100)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26bl.html)</sub> | [用潜动作监督动作专家的中间层](../insights/loss-functions.md#align-action-features-with-latent-actions) | [PMLR](https://proceedings.mlr.press/v306/liu26bl.html) · [arXiv](https://arxiv.org/abs/2606.07100) · [代码](https://github.com/lmy1001/LARA) |
+| [**ReconVLA**](https://arxiv.org/abs/2508.10333) · [论文卡](reconvla.md#paper-reconvla)<br><sub>Song et al., ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver</sub> | 2025-08-14<br><sub>[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883)</sub> | [用目标区域重建做辅助监督](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)<br>[用指令前缀让视觉表征感知任务](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | [论文](https://arxiv.org/abs/2508.10333) · [项目](https://zionchow.github.io/ReconVLA/) · [代码](https://github.com/OpenHelix-Team/ReconVLA) |
+| [**LARA**](https://proceedings.mlr.press/v306/liu26bl.html) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl)<br><sub>Mengya Liu 等, LARA: Latent Action Representation Alignment for Vision-Language-Action Models</sub> | [2026-06-05](https://arxiv.org/abs/2606.07100)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26bl.html)</sub> | [用潜动作监督动作专家的中间层](../insights/loss-functions.md#align-action-features-with-latent-actions) | [PMLR](https://proceedings.mlr.press/v306/liu26bl.html) · [arXiv](https://arxiv.org/abs/2606.07100) · [代码](https://github.com/lmy1001/LARA) |
 
 <!-- classification:start -->
 ## 按技术类型浏览
@@ -36,7 +36,7 @@
 | <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) | 视觉动作策略的连续网格采样 | 由任务条件预测少量连续采样坐标，并对各坐标周围四个视觉特征做双线性插值。可微采样允许动作监督调整坐标，也能保留位于图块边界的抓取线索。 |
 | <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) | 视觉动作模型的通道相关门控 | 将视觉投影特征分成多个通道子空间，沿空间词元计算通道相关性，再经 sigmoid 门控筛选信息。用这一轻量适配器增强稳健的视觉语义，在论文扰动测试中提升操作策略的鲁棒性。 |
 | <a id="gyenes26a-modules"></a>[Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) | 精密操作的点云傅里叶编码 | 在点云送入策略编码器前，对每个笛卡尔坐标独立计算多波长正余弦特征。高频分量为模仿学习提供更直接的细微几何差异，便于区分插入与重新对位等动作。 |
-| <a id="reconvla-modules"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) | 指令前缀 | 把指令 token 放在图像 token 前，使视觉隐藏状态通过因果注意力读取任务信息。 [详细解读](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
+| <a id="reconvla-modules"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) · [论文卡](reconvla.md#paper-reconvla) | 指令前缀 | 把指令 token 放在图像 token 前，使视觉隐藏状态通过因果注意力读取任务信息。 [详细解读](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
 
 <a id="by-loss-functions"></a>
 
@@ -46,8 +46,8 @@
 | :--- | :--- | :--- |
 | <a id="amad26a-loss-functions"></a>[DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) | 面向决策的数字孪生 | 用离线价值评估给策略排序，再训练数字孪生保住这些成对排序。当模型容量受限时，单步预测精度和策略选择质量可以分离。 |
 | <a id="fang26h-loss-functions"></a>[OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) | 单步操作策略的速度方向监督 | 在 MeanFlow 重建目标外，用预测速度与真实平均速度的余弦相似度单独监督方向，使低速精细动作仍获得方向梯度。论文还用有限差分近似训练所需的导数，以减轻显存开销。 |
-| <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) | 动作表征监督 | 用视频前后帧提取潜动作，监督动作专家的中间层，使策略表征能利用额外的运动信号。 [详细解读](../insights/loss-functions.md#align-action-features-with-latent-actions) |
-| <a id="reconvla-loss-functions"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) | 目标区域重建 | 用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。 [详细解读](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
+| <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl) | 动作表征监督 | 用视频前后帧提取潜动作，监督动作专家的中间层，使策略表征能利用额外的运动信号。 [详细解读](../insights/loss-functions.md#align-action-features-with-latent-actions) |
+| <a id="reconvla-loss-functions"></a>[ReconVLA](https://arxiv.org/abs/2508.10333) · [论文卡](reconvla.md#paper-reconvla) | 目标区域重建 | 用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。 [详细解读](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
 
 <a id="by-optimization"></a>
 

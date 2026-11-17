@@ -10,7 +10,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 
 **Source**
 
-[GDPO](https://proceedings.mlr.press/v306/liu26aa.html) (Shih-Yang Liu et al., ICML 2026) · [§3.1, Eqs. 4–6](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=4) · [§4.1 and Table 1](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=5) · [Paper index](../papers/reinforcement-learning.md#group-relative-policy-optimization)
+[GDPO](https://proceedings.mlr.press/v306/liu26aa.html) (Shih-Yang Liu et al., ICML 2026) · [§3.1, Eqs. 4–6](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=4) · [§4.1 and Table 1](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=5) · [Paper index](../papers/reinforcement-learning.md#group-relative-policy-optimization) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 **Core Idea**
 

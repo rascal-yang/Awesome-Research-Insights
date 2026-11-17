@@ -8,7 +8,7 @@ Visual representation, recognition, reconstruction, and generation.
 
 | Paper | First public / venue | Transferable insights | Resources |
 | :--- | :--- | :--- | :--- |
-| [**Lift / WideLast**](https://proceedings.mlr.press/v306/tian26k.html)<br><sub>Huiyuan Tian et al., From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers</sub> | First public date unverified<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/tian26k.html)</sub> | [Widen the Student Distillation Interface](../insights/modules.md#widen-the-student-distillation-interface) | [PMLR](https://proceedings.mlr.press/v306/tian26k.html) · [OpenReview](https://openreview.net/forum?id=2Ud1nkQrVZ) · [Code](https://github.com/thy960112/From-Per-Image-Low-Rank-to-Encoding-Mismatch) |
+| [**Lift / WideLast**](https://proceedings.mlr.press/v306/tian26k.html) · [Paper card (中文)](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)<br><sub>Huiyuan Tian et al., From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers</sub> | First public date unverified<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/tian26k.html)</sub> | [Widen the Student Distillation Interface](../insights/modules.md#widen-the-student-distillation-interface) | [PMLR](https://proceedings.mlr.press/v306/tian26k.html) · [OpenReview](https://openreview.net/forum?id=2Ud1nkQrVZ) · [Code](https://github.com/thy960112/From-Per-Image-Low-Rank-to-Encoding-Mismatch) |
 
 <!-- classification:start -->
 ## Browse by Technique
@@ -56,7 +56,7 @@ The linked short insights are available in Chinese.
 | [MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](https://proceedings.mlr.press/v306/duan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#duan26a-modules) |
 | [WildActor: Unconstrained Identity-Preserving Video Generation](https://proceedings.mlr.press/v306/guo26ad.html) | [Read insight (中文)](../../papers/computer-vision.md#guo26ad-modules) |
 | [Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](https://proceedings.mlr.press/v306/hadji26a.html) | [Read insight (中文)](../../papers/computer-vision.md#hadji26a-modules) |
-| [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | [Read insight (中文)](../../papers/computer-vision.md#tian26k-modules) · [Full entry](../insights/modules.md#widen-the-student-distillation-interface) |
+| [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) · [Paper card (中文)](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26k) | [Read insight (中文)](../../papers/computer-vision.md#tian26k-modules) · [Full entry](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
 
@@ -210,7 +210,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Rethinking Visual Intelligence: Insights from Video Pretraining](https://proceedings.mlr.press/v306/acuaviva26a.html) | [Read insight (中文)](../../papers/computer-vision.md#acuaviva26a-evaluation) |
+| [Rethinking Visual Intelligence: Insights from Video Pretraining](https://proceedings.mlr.press/v306/acuaviva26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-acuaviva26a) | [Read insight (中文)](../../papers/computer-vision.md#acuaviva26a-evaluation) |
 | [Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ahmed26a-evaluation) |
 | [GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) | [Read insight (中文)](../../papers/computer-vision.md#alexis26a-evaluation) |
 | [Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | [Read insight (中文)](../../papers/computer-vision.md#baek26e-evaluation) |

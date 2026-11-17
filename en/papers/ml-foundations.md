@@ -71,7 +71,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift](https://proceedings.mlr.press/v306/agirman26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#agirman26a-loss-functions) |
+| [Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift](https://proceedings.mlr.press/v306/agirman26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agirman26a) | [Read insight (中文)](../../papers/ml-foundations.md#agirman26a-loss-functions) |
 | [Optimal Learning from Label Proportions with General Loss Functions](https://proceedings.mlr.press/v306/applebaum26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#applebaum26a-loss-functions) |
 | [Approximate Equivariance via Projection-Based Regularisation](https://proceedings.mlr.press/v306/berndt26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#berndt26a-loss-functions) |
 | [Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](https://proceedings.mlr.press/v306/cao26k.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26k-loss-functions) |
@@ -92,12 +92,12 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](https://proceedings.mlr.press/v306/abbas26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#abbas26a-optimization) |
-| [Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](https://proceedings.mlr.press/v306/abe26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#abe26a-optimization) |
-| [Bridging Spherical Black-Box Optimizers](https://proceedings.mlr.press/v306/ackermann26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#ackermann26b-optimization) |
-| [SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](https://proceedings.mlr.press/v306/adnan26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#adnan26a-optimization) |
-| [A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](https://proceedings.mlr.press/v306/afriat26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#afriat26a-optimization) |
-| [An Efficient Joint Learning Approach for Item Response Theory](https://proceedings.mlr.press/v306/agarwal26d.html) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26d-optimization) |
+| [QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](https://proceedings.mlr.press/v306/abbas26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abbas26a) | [Read insight (中文)](../../papers/ml-foundations.md#abbas26a-optimization) |
+| [Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](https://proceedings.mlr.press/v306/abe26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abe26a) | [Read insight (中文)](../../papers/ml-foundations.md#abe26a-optimization) |
+| [Bridging Spherical Black-Box Optimizers](https://proceedings.mlr.press/v306/ackermann26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-ackermann26b) | [Read insight (中文)](../../papers/ml-foundations.md#ackermann26b-optimization) |
+| [SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](https://proceedings.mlr.press/v306/adnan26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adnan26a) | [Read insight (中文)](../../papers/ml-foundations.md#adnan26a-optimization) |
+| [A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](https://proceedings.mlr.press/v306/afriat26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-afriat26a) | [Read insight (中文)](../../papers/ml-foundations.md#afriat26a-optimization) |
+| [An Efficient Joint Learning Approach for Item Response Theory](https://proceedings.mlr.press/v306/agarwal26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26d) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26d-optimization) |
 | [Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://proceedings.mlr.press/v306/aguie26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#aguie26a-optimization) |
 | [Why Do We Need Warm-up? A Theoretical Perspective](https://proceedings.mlr.press/v306/alimisis26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alimisis26a-optimization) |
 | [Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems](https://proceedings.mlr.press/v306/amidzadeh26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#amidzadeh26a-optimization) |
@@ -206,7 +206,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [MODEL SOUPS NEED ONLY ONE INGREDIENT](https://proceedings.mlr.press/v306/abdollahpoorrostam26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#abdollahpoorrostam26a-training-strategies) |
+| [MODEL SOUPS NEED ONLY ONE INGREDIENT](https://proceedings.mlr.press/v306/abdollahpoorrostam26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abdollahpoorrostam26a) | [Read insight (中文)](../../papers/ml-foundations.md#abdollahpoorrostam26a-training-strategies) |
 | [Representation Unlearning: Forgetting through Information Compression](https://proceedings.mlr.press/v306/almudevar26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#almudevar26b-training-strategies) |
 | [Collaborative Threshold Watermarking](https://proceedings.mlr.press/v306/bakr26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bakr26a-training-strategies) |
 | [Continual Model Routing in Evolving Model Hubs](https://proceedings.mlr.press/v306/bell26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bell26a-training-strategies) |
@@ -247,7 +247,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue](https://proceedings.mlr.press/v306/afshani26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#afshani26a-data-strategies) |
+| [The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue](https://proceedings.mlr.press/v306/afshani26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-afshani26a) | [Read insight (中文)](../../papers/ml-foundations.md#afshani26a-data-strategies) |
 | [Causal Preference Elicitation](https://proceedings.mlr.press/v306/bonilla26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bonilla26a-data-strategies) |
 | [Probably Approximately Correct Labels](https://proceedings.mlr.press/v306/candes26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#candes26a-data-strategies) |
 | [Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning](https://proceedings.mlr.press/v306/chen26ac.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ac-data-strategies) |
@@ -287,7 +287,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Multi-Way Representation Alignment](https://proceedings.mlr.press/v306/achara26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#achara26a-representation-learning) |
+| [Multi-Way Representation Alignment](https://proceedings.mlr.press/v306/achara26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-achara26a) | [Read insight (中文)](../../papers/ml-foundations.md#achara26a-representation-learning) |
 | [WeightCLIP: Aligning Datasets and Models for Weight Space Learning](https://proceedings.mlr.press/v306/asefaw26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#asefaw26a-representation-learning) |
 | [Riemannian Metric Matching for Scalable Geometric Modeling of Distributions](https://proceedings.mlr.press/v306/bamberger26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bamberger26a-representation-learning) |
 | [Uncovering the Latent Potential of Deep Intermediate Representations](https://proceedings.mlr.press/v306/batra26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#batra26a-representation-learning) |
@@ -342,10 +342,10 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Efficient Bayesian Inference from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v306/aczel26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#aczel26a-theory-statistics) |
-| [A Capacity-Based Rationale for Multi-Head Attention](https://proceedings.mlr.press/v306/adler26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#adler26a-theory-statistics) |
-| [Fast Reconstruction of Mixtures of Bernoulli Product Distributions](https://proceedings.mlr.press/v306/agarwal26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26b-theory-statistics) |
-| [Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](https://proceedings.mlr.press/v306/agarwal26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26c-theory-statistics) |
+| [Efficient Bayesian Inference from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v306/aczel26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aczel26a) | [Read insight (中文)](../../papers/ml-foundations.md#aczel26a-theory-statistics) |
+| [A Capacity-Based Rationale for Multi-Head Attention](https://proceedings.mlr.press/v306/adler26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-adler26a) | [Read insight (中文)](../../papers/ml-foundations.md#adler26a-theory-statistics) |
+| [Fast Reconstruction of Mixtures of Bernoulli Product Distributions](https://proceedings.mlr.press/v306/agarwal26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26b) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26b-theory-statistics) |
+| [Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](https://proceedings.mlr.press/v306/agarwal26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26c) | [Read insight (中文)](../../papers/ml-foundations.md#agarwal26c-theory-statistics) |
 | [A Theoretical Framework for Statistical Evaluability of Generative Models](https://proceedings.mlr.press/v306/aiyer26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#aiyer26a-theory-statistics) |
 | [Solving Stochastic Variational Inequalities without the Bounded Variance Assumption](https://proceedings.mlr.press/v306/alacaoglu26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alacaoglu26a-theory-statistics) |
 | [Set-Preserving Calibration from Conformal P-Values to E-Values](https://proceedings.mlr.press/v306/alami26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#alami26a-theory-statistics) |

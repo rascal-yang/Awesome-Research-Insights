@@ -65,7 +65,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="agarwal26a-reinforcement-learning"></a>[Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](https://proceedings.mlr.press/v306/agarwal26a.html) | 在线影响力最大化 | 独立级联只观察节点是否激活时，可用标准的离线种子选择 oracle 构造在线算法，达到平方根量级的遗憾界。 |
+| <a id="agarwal26a-reinforcement-learning"></a>[Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](https://proceedings.mlr.press/v306/agarwal26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26a) | 在线影响力最大化 | 独立级联只观察节点是否激活时，可用标准的离线种子选择 oracle 构造在线算法，达到平方根量级的遗憾界。 |
 | <a id="bisht26a-reinforcement-learning"></a>[CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](https://proceedings.mlr.press/v306/bisht26a.html) | 推荐曝光控制 | 把类别曝光累积量当成状态，对超出曝光约束的概率估计上置信界，再随风险提高惩罚，抑制反馈循环中的集中化。 |
 
 <a id="by-training-strategies"></a>
@@ -126,7 +126,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="agbaje26a-evaluation"></a>[Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](https://proceedings.mlr.press/v306/agbaje26a.html) | 图模型隐私评测 | 连边泄漏应在极低误报率下分组测量。同类节点的后验几何可能压缩判别方向，重调距离后会暴露平均结果遗漏的风险。 |
+| <a id="agbaje26a-evaluation"></a>[Revisiting Asymmetries in Black-box Link Stealing against Graph Neural Networks](https://proceedings.mlr.press/v306/agbaje26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agbaje26a) | 图模型隐私评测 | 连边泄漏应在极低误报率下分组测量。同类节点的后验几何可能压缩判别方向，重调距离后会暴露平均结果遗漏的风险。 |
 | <a id="akula26a-evaluation"></a>[Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors](https://proceedings.mlr.press/v306/akula26a.html) | 图模型迁移 | 同一图上，节点分类迁往链路预测在同质性强的图上更可靠。反向迁移要尤其关注结构信号强度，并固定消息传递图及测试负样本防止泄漏。 |
 | <a id="ferrini26a-evaluation"></a>[Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://proceedings.mlr.press/v306/ferrini26a.html) | 缺失节点特征的压力测试 | 评估缺失特征时使用信息量较高的密集属性，并让更能预测标签的列具有更高的遮盖率。这样可测出在稀疏节点特征、均匀随机遮盖下不易暴露的性能退化。 |
 | <a id="forbat26a-evaluation"></a>[Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](https://proceedings.mlr.press/v306/forbat26a.html) | 图 Mixup 插值质量诊断 | 统一图分类的评测协议后，同时测合成图的插值误差和下游收益。高误差可拖累准确率，但低误差本身也未带来显著增益，所测 Mixup 方法均未显著优于无 Mixup 的基线。 |
@@ -138,7 +138,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="adriaens26a-theory-statistics"></a>[Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](https://proceedings.mlr.press/v306/adriaens26a.html) | 相关聚类 | 完整符号图上，先找到击中所有恰有一条负边三角形的删除边集，再通过枢轴过程转成聚类，两类最优代价相差至多 1.5 倍。 |
+| <a id="adriaens26a-theory-statistics"></a>[Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](https://proceedings.mlr.press/v306/adriaens26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adriaens26a) | 相关聚类 | 完整符号图上，先找到击中所有恰有一条负边三角形的删除边集，再通过枢轴过程转成聚类，两类最优代价相差至多 1.5 倍。 |
 | <a id="amran26a-theory-statistics"></a>[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://proceedings.mlr.press/v306/amran26a.html) | 图神经网络理论 | 扩展 graphop 极限框架，构造跨图规模和稀疏度的紧致度量，用同一套等度连续性分析 MPNN 的泛化和逼近。 |
 | <a id="badanidiyuru26a-theory-statistics"></a>[Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | 拍卖中的预测改进 | 提高预测分辨率对拍卖收入的影响依赖出价规则。无预算限制的目标成本出价者满足文中的一价拍卖单调性，二价机制可打破它。 |
 | <a id="badreddine26a-theory-statistics"></a>[On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | 知识图谱链路预测 | 线性输出层使嵌入维度必须随图规模和连通性增长才能表达训练关系。混合式非线性输出可打破这一秩瓶颈，且参数开销较低。 |

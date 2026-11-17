@@ -14,7 +14,7 @@
 
 跨领域科研技术灵感库，收录论文中可迁移的模块、损失、优化方法与训练策略。
 
-**最新收录 · 2026-11-17** · [ICML 2026 · 1,463 / 6,552 篇已有 Insight](conferences/icml-2026/README.md)
+**最新收录 · 2026-11-17** · [ICML 2026 · 1,463 / 6,552 篇已有 Insight](conferences/icml-2026/README.md) · [论文卡](conferences/icml-2026/cards/README.md)
 
 **最近核查 · 2026-11-15** · 首批条目及交叉链接
 

@@ -2,6 +2,8 @@
 
 [English](../en/templates/paper-template.md)
 
+正文使用[六字段论文卡](paper-card-template.md)，并链接可复用的 Insight。
+
 在论文所属的主领域页找合适的研究主题，添加一行。首次公开日期使用 YYYY-MM-DD，发表信息附出处。
 
 ```markdown

@@ -69,7 +69,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="agirman26a-loss-functions"></a>[Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift](https://proceedings.mlr.press/v306/agirman26a.html) | 分布偏移鲁棒性 | 把域内性能设为目标值，训练时直接降低性能随分布偏移下降的速率，每次更新可用一次前向和反向计算。 |
+| <a id="agirman26a-loss-functions"></a>[Iterative Robust Satisficing: Minimizing Performance Degradation Under Distribution Shift](https://proceedings.mlr.press/v306/agirman26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agirman26a) | 分布偏移鲁棒性 | 把域内性能设为目标值，训练时直接降低性能随分布偏移下降的速率，每次更新可用一次前向和反向计算。 |
 | <a id="applebaum26a-loss-functions"></a>[Optimal Learning from Label Proportions with General Loss Functions](https://proceedings.mlr.press/v306/applebaum26a.html) | 聚合标签学习 | 用组内标签比例构造低方差去偏损失估计，使只有聚合标签的二分类和多分类也能使用多种常见训练损失。 |
 | <a id="berndt26a-loss-functions"></a>[Approximate Equivariance via Projection-Based Regularisation](https://proceedings.mlr.press/v306/berndt26a.html) | 近似等变正则 | 逐层正交投影得到等变分量，直接惩罚剩下的算子分量，可以覆盖整个群轨道，省掉大量抽样变换。 |
 | <a id="cao26k-loss-functions"></a>[Negatives-Dominant Contrastive Learning for Generalization in Imbalanced Domains](https://proceedings.mlr.press/v306/cao26k.html) | 不平衡域泛化 | 在对比损失中放大负样本梯度以拉开类别边界，再用重加权交叉熵与跨域预测对齐来处理类内聚合、标签偏移和域偏移。 |
@@ -90,12 +90,12 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abbas26a-optimization"></a>[QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](https://proceedings.mlr.press/v306/abbas26a.html) | 约束优化 | 在量子 boosting 中把昂贵的约束投影改成每隔 K 轮做一次，由两次投影之间的误差界确定可延迟多久。 |
-| <a id="abe26a-optimization"></a>[Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](https://proceedings.mlr.press/v306/abe26a.html) | 极小极大优化 | 用非对称收益扰动先改善梯度动力学，再在扰动足够小时恢复原博弈的均衡策略。 |
-| <a id="ackermann26b-optimization"></a>[Bridging Spherical Black-Box Optimizers](https://proceedings.mlr.press/v306/ackermann26b.html) | 黑盒优化 | 在 ES 和 OVI 更新之间插值，可以调整优化器对平坦解和尖锐解的偏好。 |
-| <a id="adnan26a-optimization"></a>[SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](https://proceedings.mlr.press/v306/adnan26a.html) | 动态稀疏训练 | 按每个神经元输入连接的非零比例开平方来缩放梯度，再用全层平均稀疏度归一化，以抵消批归一化在动态稀疏训练中引入的梯度偏移。 |
-| <a id="afriat26a-optimization"></a>[A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](https://proceedings.mlr.press/v306/afriat26a.html) | 一次性剪枝 | 把校准数据噪声和求解过程引起的二次目标不确定性写进鲁棒优化，可在现有一次性剪枝流程中替换目标。 |
-| <a id="agarwal26d-optimization"></a>[An Efficient Joint Learning Approach for Item Response Theory](https://proceedings.mlr.press/v306/agarwal26d.html) | 项目反应理论 | 在 Rasch 模型的逻辑似然中引入 Pólya–Gamma 隐变量，使题目难度和用户能力可以在同一 EM 过程中估计。 |
+| <a id="abbas26a-optimization"></a>[QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](https://proceedings.mlr.press/v306/abbas26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abbas26a) | 约束优化 | 在量子 boosting 中把昂贵的约束投影改成每隔 K 轮做一次，由两次投影之间的误差界确定可延迟多久。 |
+| <a id="abe26a-optimization"></a>[Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](https://proceedings.mlr.press/v306/abe26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abe26a) | 极小极大优化 | 用非对称收益扰动先改善梯度动力学，再在扰动足够小时恢复原博弈的均衡策略。 |
+| <a id="ackermann26b-optimization"></a>[Bridging Spherical Black-Box Optimizers](https://proceedings.mlr.press/v306/ackermann26b.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ackermann26b) | 黑盒优化 | 在 ES 和 OVI 更新之间插值，可以调整优化器对平坦解和尖锐解的偏好。 |
+| <a id="adnan26a-optimization"></a>[SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](https://proceedings.mlr.press/v306/adnan26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adnan26a) | 动态稀疏训练 | 按每个神经元输入连接的非零比例开平方来缩放梯度，再用全层平均稀疏度归一化，以抵消批归一化在动态稀疏训练中引入的梯度偏移。 |
+| <a id="afriat26a-optimization"></a>[A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](https://proceedings.mlr.press/v306/afriat26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-afriat26a) | 一次性剪枝 | 把校准数据噪声和求解过程引起的二次目标不确定性写进鲁棒优化，可在现有一次性剪枝流程中替换目标。 |
+| <a id="agarwal26d-optimization"></a>[An Efficient Joint Learning Approach for Item Response Theory](https://proceedings.mlr.press/v306/agarwal26d.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26d) | 项目反应理论 | 在 Rasch 模型的逻辑似然中引入 Pólya–Gamma 隐变量，使题目难度和用户能力可以在同一 EM 过程中估计。 |
 | <a id="aguie26a-optimization"></a>[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](https://proceedings.mlr.press/v306/aguie26a.html) | 分布式主成分分析 | 把不精确矩阵向量积的容许误差界放宽，可以在去中心化 PCA 中保留加速幂迭代的收敛优势。 |
 | <a id="alimisis26a-optimization"></a>[Why Do We Need Warm-up? A Theoretical Perspective](https://proceedings.mlr.press/v306/alimisis26a.html) | 学习率预热 | 若局部曲率上界随损失距最优值而增加，自适应步长在训练初期自然较小，并随损失下降变大，从而得到预热日程。 |
 | <a id="amidzadeh26a-optimization"></a>[Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems](https://proceedings.mlr.press/v306/amidzadeh26a.html) | 时变随机优化 | 用 Malliavin 微积分推导随机决策路径的非参数最优条件，再训练路径跟踪器，可适应分布漂移且不直接受参数化维度限制。 |
@@ -204,7 +204,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abdollahpoorrostam26a-training-strategies"></a>[MODEL SOUPS NEED ONLY ONE INGREDIENT](https://proceedings.mlr.press/v306/abdollahpoorrostam26a.html) | 权重合并 | 对基座到微调模型的逐层权重差做 SVD，分别调整头部和尾部成分。 |
+| <a id="abdollahpoorrostam26a-training-strategies"></a>[MODEL SOUPS NEED ONLY ONE INGREDIENT](https://proceedings.mlr.press/v306/abdollahpoorrostam26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abdollahpoorrostam26a) | 权重合并 | 对基座到微调模型的逐层权重差做 SVD，分别调整头部和尾部成分。 |
 | <a id="almudevar26b-training-strategies"></a>[Representation Unlearning: Forgetting through Information Compression](https://proceedings.mlr.press/v306/almudevar26b.html) | 机器遗忘 | 固定模型参数，在表征空间学习信息瓶颈，保留与应保留数据有关的信息并压掉与欲遗忘数据有关的信息。 |
 | <a id="bakr26a-training-strategies"></a>[Collaborative Threshold Watermarking](https://proceedings.mlr.press/v306/bakr26a.html) | 联邦模型水印 | 各客户端训练一个共享水印，对验证密钥做门限秘密分享，只有凑够指定数量的参与方才能共同确认模型来源。 |
 | <a id="bell26a-training-strategies"></a>[Continual Model Routing in Evolving Model Hubs](https://proceedings.mlr.press/v306/bell26a.html) | 持续模型路由 | 模型库扩展时，用分领域的代表样本回放与旧检查点锚定训练路由嵌入，兼顾接入新模型和维持已有路由表现。 |
@@ -245,7 +245,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="afshani26a-data-strategies"></a>[The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue](https://proceedings.mlr.press/v306/afshani26a.html) | 数据洗牌 | 对无放回 SGD，用低阶独立的近随机排列代替均匀排列，在论文设定下保持期望收敛率并把 I/O 压到线性。 |
+| <a id="afshani26a-data-strategies"></a>[The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue](https://proceedings.mlr.press/v306/afshani26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-afshani26a) | 数据洗牌 | 对无放回 SGD，用低阶独立的近随机排列代替均匀排列，在论文设定下保持期望收敛率并把 I/O 压到线性。 |
 | <a id="bonilla26a-data-strategies"></a>[Causal Preference Elicitation](https://proceedings.mlr.press/v306/bonilla26a.html) | 主动因果发现 | 从观测数据得到的图后验出发，用带噪三类专家反馈更新边的存在和方向，并按期望信息增益优先选择要问的边。 |
 | <a id="candes26a-data-strategies"></a>[Probably Approximately Correct Labels](https://proceedings.mlr.press/v306/candes26a.html) | 带保证的自动标注 | 按模型预测的不确定性分配人工核查，再用审计结果限制全数据集的标注错误率，保留自动标注节省的成本。 |
 | <a id="chen26ac-data-strategies"></a>[Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning](https://proceedings.mlr.press/v306/chen26ac.html) | 稀疏多类标注聚合 | 先跨标注者共享每个类别的标注行为原型，再为个人估计原型权重，可在个人标注不足时共享统计强度，并允许复杂的混淆模式。 |
@@ -285,7 +285,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="achara26a-representation-learning"></a>[Multi-Way Representation Alignment](https://proceedings.mlr.press/v306/achara26a.html) | 多模型表征对齐 | 先用多路正交 Procrustes 建公共空间，再做方向校正，兼顾内部几何与跨模型检索。 |
+| <a id="achara26a-representation-learning"></a>[Multi-Way Representation Alignment](https://proceedings.mlr.press/v306/achara26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-achara26a) | 多模型表征对齐 | 先用多路正交 Procrustes 建公共空间，再做方向校正，兼顾内部几何与跨模型检索。 |
 | <a id="asefaw26a-representation-learning"></a>[WeightCLIP: Aligning Datasets and Models for Weight Space Learning](https://proceedings.mlr.press/v306/asefaw26a.html) | 权重空间学习 | 对齐数据集编码与训练出模型的权重潜变量，再解码可从目标数据的表示生成或细化模型参数。 |
 | <a id="bamberger26a-representation-learning"></a>[Riemannian Metric Matching for Scalable Geometric Modeling of Distributions](https://proceedings.mlr.press/v306/bamberger26a.html) | 数据流形几何 | 把决定黎曼度量的 carré du champ 算子写成扰动的条件期望，用逐样本去噪训练神经估计器，无需在推理时重建核或近邻图。 |
 | <a id="batra26a-representation-learning"></a>[Uncovering the Latent Potential of Deep Intermediate Representations](https://proceedings.mlr.press/v306/batra26a.html) | 中间层特征迁移 | 任务判别信息随深度非单调分布。先用谱方法挑中间层子空间，再用几何正则保持类别结构，可以改善迁移。 |
@@ -340,10 +340,10 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="aczel26a-theory-statistics"></a>[Efficient Bayesian Inference from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v306/aczel26a.html) | 偏好标注 | 拟合成对偏好时同时估计标注者质量，使噪声较大的标注者贡献更小。 |
-| <a id="adler26a-theory-statistics"></a>[A Capacity-Based Rationale for Multi-Head Attention](https://proceedings.mlr.press/v306/adler26a.html) | 注意力容量 | 总键维度相同时，多头可以减轻嵌入叠加造成的关系干扰，即使每个查询只需要找一个目标。 |
-| <a id="agarwal26b-theory-statistics"></a>[Fast Reconstruction of Mixtures of Bernoulli Product Distributions](https://proceedings.mlr.press/v306/agarwal26b.html) | 潜变量模型 | 对 Bernoulli 乘积分布混合的生成多项式做低维限制，用低阶系数构造张量矩来恢复各分量和混合权重。 |
-| <a id="agarwal26c-theory-statistics"></a>[Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](https://proceedings.mlr.press/v306/agarwal26c.html) | 因果推断 | 用熵正则最优传输比较两个反事实结果分布，并把多个正则强度的检验合起来，降低检验功效对单一强度的依赖。 |
+| <a id="aczel26a-theory-statistics"></a>[Efficient Bayesian Inference from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v306/aczel26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-aczel26a) | 偏好标注 | 拟合成对偏好时同时估计标注者质量，使噪声较大的标注者贡献更小。 |
+| <a id="adler26a-theory-statistics"></a>[A Capacity-Based Rationale for Multi-Head Attention](https://proceedings.mlr.press/v306/adler26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adler26a) | 注意力容量 | 总键维度相同时，多头可以减轻嵌入叠加造成的关系干扰，即使每个查询只需要找一个目标。 |
+| <a id="agarwal26b-theory-statistics"></a>[Fast Reconstruction of Mixtures of Bernoulli Product Distributions](https://proceedings.mlr.press/v306/agarwal26b.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26b) | 潜变量模型 | 对 Bernoulli 乘积分布混合的生成多项式做低维限制，用低阶系数构造张量矩来恢复各分量和混合权重。 |
+| <a id="agarwal26c-theory-statistics"></a>[Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](https://proceedings.mlr.press/v306/agarwal26c.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26c) | 因果推断 | 用熵正则最优传输比较两个反事实结果分布，并把多个正则强度的检验合起来，降低检验功效对单一强度的依赖。 |
 | <a id="aiyer26a-theory-statistics"></a>[A Theoretical Framework for Statistical Evaluability of Generative Models](https://proceedings.mlr.press/v306/aiyer26a.html) | 生成模型评测 | 有限样本下，基于有界测试函数的积分概率度量有近似估计保证，而罕见事件可使 KL 或 Rényi 散度无法可靠估计。 |
 | <a id="alacaoglu26a-theory-statistics"></a>[Solving Stochastic Variational Inequalities without the Bounded Variance Assumption](https://proceedings.mlr.press/v306/alacaoglu26a.html) | 随机变分不等式 | 允许随机 oracle 的方差随变量范数平方增长，仍能在单调和满足弱 Minty 条件的部分非单调问题上保持约为 ε⁻⁴ 的复杂度。 |
 | <a id="alami26a-theory-statistics"></a>[Set-Preserving Calibration from Conformal P-Values to E-Values](https://proceedings.mlr.press/v306/alami26a.html) | 共形预测 | 设计保留原预测集的 p 值到 e 值转换，再利用 e 值合并相依的划分或模型证据，可得到目标覆盖率。 |

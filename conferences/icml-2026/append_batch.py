@@ -8,6 +8,8 @@ from datetime import date
 from pathlib import Path
 import re
 
+from paper_cards import CARD_LINK, load_card_rows, read_tsv, refresh_card_links, write_cards
+
 DOMAINS = {
     'L': ('llm', '大语言模型', 'Large Language Models', '语言模型、工具调用与智能体。', 'Language models, tool use, and agents.'),
     'V': ('computer-vision', '计算机视觉', 'Computer Vision', '视觉识别、表征学习与生成。', 'Recognition, visual representations, and generation.'),
@@ -55,11 +57,7 @@ def new_page(path, collection, slug, label, scope, english):
     path.write_text(f'# {label}\n\n[{home_label}]({home}) · [{other_label}]({other})\n\n{scope}\n', encoding='utf-8')
 
 
-def read_tsv(path):
-    with path.open(encoding='utf-8', newline='') as file:
-        return list(csv.DictReader(file, delimiter='\t'))
-
-def add_batch(batch_path, date):
+def add_batch(batch_path, date, paper_cards=None):
     conference = Path('conferences/icml-2026')
     manifest = conference / 'papers.tsv'
     classifications = conference / 'classification.tsv'
@@ -75,6 +73,9 @@ def add_batch(batch_path, date):
     batch = read_tsv(batch_path)
     if not batch:
         raise ValueError('Batch is empty.')
+    cards = load_card_rows(paper_cards) if paper_cards else []
+    if cards and {row['pmlr_id'] for row in cards} != {row['pmlr_id'] for row in batch}:
+        raise ValueError('Provide one paper card for each paper in this Insight batch.')
     numbers = [int(row['number']) for row in batch]
     last = numbers[-1]
     expected = [number for number in range(first, last + 1) if number in pending]
@@ -147,12 +148,16 @@ def add_batch(batch_path, date):
     assert updated == 1
     index.write_text(text, encoding='utf-8')
     render_indexes(conference, catalog, mapping, old_count, total, first, last, date)
+    if cards:
+        write_cards(cards)
+    refresh_card_links()
 
 def render_indexes(conference, catalog, mapping, old_count, total, first, last, date):
     papers = {}
     notes = {}
     for file in sorted(conference.glob('*.md')):
         for line in file.read_text(encoding='utf-8').splitlines():
+            line = CARD_LINK.sub('', line)
             match = re.match(r'^\| (\d+) \| .*?\((https://proceedings\.mlr\.press/v306/[\w-]+\.html)\) \| (.*?) \| (.*) \|$', line)
             if match:
                 n = int(match[1])
@@ -311,5 +316,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('batch', type=Path, help='TSV with number, pmlr_id, domain, technique, topic, and insight columns')
     parser.add_argument('--date', required=True, type=date.fromisoformat, help='Publication date (YYYY-MM-DD)')
+    parser.add_argument('--paper-cards', type=Path, help='Optional matching TSV of six-field paper cards')
     args = parser.parse_args()
-    add_batch(args.batch, args.date)
+    add_batch(args.batch, args.date, args.paper_cards)

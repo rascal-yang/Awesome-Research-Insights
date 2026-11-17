@@ -15,7 +15,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Physics-Informed Residual Flows](https://proceedings.mlr.press/v306/abijuru26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#abijuru26a-architecture) |
+| [Physics-Informed Residual Flows](https://proceedings.mlr.press/v306/abijuru26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abijuru26a) | [Read insight (中文)](../../papers/scientific-ml.md#abijuru26a-architecture) |
 | [Nested Spatio-Temporal Time Series Forecasting](https://proceedings.mlr.press/v306/ai26f.html) | [Read insight (中文)](../../papers/scientific-ml.md#ai26f-architecture) |
 | [scCBGM: Single-Cell Editing via Concept Bottlenecks](https://proceedings.mlr.press/v306/andersson26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#andersson26a-architecture) |
 | [Quantum latent distributions in deep generative models](https://proceedings.mlr.press/v306/bacarreza26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#bacarreza26a-architecture) |
@@ -62,7 +62,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#abijuru26b-loss-functions) |
+| [Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abijuru26b) | [Read insight (中文)](../../papers/scientific-ml.md#abijuru26b-loss-functions) |
 | [Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#anwer26a-loss-functions) |
 | [HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#byeon26a-loss-functions) |
 | [MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chasmai26a-loss-functions) |
@@ -167,7 +167,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Geometry-Guided Generative Representation for Functional Brain Graphs](https://proceedings.mlr.press/v306/abulikemu26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#abulikemu26a-representation-learning) |
+| [Geometry-Guided Generative Representation for Functional Brain Graphs](https://proceedings.mlr.press/v306/abulikemu26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abulikemu26a) | [Read insight (中文)](../../papers/scientific-ml.md#abulikemu26a-representation-learning) |
 | [Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](https://proceedings.mlr.press/v306/antoniadis26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#antoniadis26a-representation-learning) |
 | [Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://proceedings.mlr.press/v306/ariguib26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#ariguib26a-representation-learning) |
 | [A Machine-Learned Comorbidity Index](https://proceedings.mlr.press/v306/baloch26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#baloch26a-representation-learning) |

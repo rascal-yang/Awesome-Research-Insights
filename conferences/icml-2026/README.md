@@ -8,6 +8,8 @@
 
 [按研究领域浏览](../../README.md#papers-by-domain) · [按技术类型浏览](../../README.md#insights-by-technical-category) · [逐篇分类清单（TSV）](classification.tsv)
 
+[论文卡索引](cards/README.md) 汇集每篇论文的研究问题、方法、对照、评测、结果和适用边界。
+
 ## 按目录浏览
 
 - [第 1–100 篇](0001-0100.md)
@@ -32,6 +34,6 @@
 
 | 序号 | 论文 | 技术主题 | Insight |
 | ---: | --- | --- | --- |
-| 2807 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [专题解读](../../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
-| 2844 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) | 动作表征监督 | 用视频前后帧提取潜动作，监督动作专家的中间层，使策略表征能利用额外的运动信号。 [专题解读](../../insights/loss-functions.md#align-action-features-with-latent-actions) |
-| 4451 | [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | 视觉特征蒸馏 | 给小型 ViT 的特征输出接口或最后一个 Transformer 块加宽，以匹配教师模型的编码空间。 [专题解读](../../insights/modules.md#widen-the-student-distillation-interface) |
+| 2807 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) · [论文卡](cards/2801-2900.md#paper-liu26aa) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [专题解读](../../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
+| 2844 | [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) · [论文卡](cards/2801-2900.md#paper-liu26bl) | 动作表征监督 | 用视频前后帧提取潜动作，监督动作专家的中间层，使策略表征能利用额外的运动信号。 [专题解读](../../insights/loss-functions.md#align-action-features-with-latent-actions) |
+| 4451 | [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) · [论文卡](cards/4401-4500.md#paper-tian26k) | 视觉特征蒸馏 | 给小型 ViT 的特征输出接口或最后一个 Transformer 块加宽，以匹配教师模型的编码空间。 [专题解读](../../insights/modules.md#widen-the-student-distillation-interface) |

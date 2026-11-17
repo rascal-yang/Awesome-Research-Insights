@@ -6,13 +6,13 @@
 
 ## 收录标准
 
-一篇论文有一条可独立讲清、可回原文核实的 Insight 即可收录。可以是一种有效做法、一个成立条件、一个反例，或一条有证据支持的失败经验。写清原文证据和适用边界。迁移场景可选。
+一条可独立讲清、可回原文核实的 Insight 即可支持收录。可以是一种有效做法、一个成立条件、一个反例，或一条有证据支持的失败经验。每篇论文另有一张[六字段论文卡](templates/paper-card-template.md)，汇集论文层面的比较与证据。
 
 ## 新增 Insight
 
 1. 阅读原文，定位能支撑技术描述的小节、公式、图或代码位置。
 2. 选择一个主技术分类，照 [Insight 模板](templates/insight-template.md) 新增条目。H2 是方法族，H3 是一条具体 Insight。条目标题尽量写出做法。
-3. 照 [论文模板](templates/paper-template.md) 在论文所属的主领域添加或更新索引行，链接到具体 Insight。一篇论文可对应多条 Insight。其他分类需要引用时，用交叉链接。
+3. 照[论文卡模板](templates/paper-card-template.md)记录六个字段，再照[论文索引模板](templates/paper-template.md)更新主领域索引。论文卡和 Insight 互链。一篇论文可对应多条 Insight。
 4. 同一批变更中同步英文索引和条目。中英文条目使用相同的英文锚点。合并前同步更新 [中文首页](README.md#recent-updates) 和 [英文首页](README.en.md#recent-updates) 的收录记录。
 
 ### 提交前检查
@@ -27,6 +27,8 @@
 ICML 2026 的逐篇条目还需在 [分类清单](conferences/icml-2026/classification.tsv) 中记录论文的主领域和 Insight 的主技术类型。更新对应领域页的技术小节和跨领域技术索引，再核对两版首页的论文数和 Insight 数。英文索引可链接到中文短条目。
 
 批量更新时，从仓库根目录运行 `python conferences/icml-2026/append_batch.py <批次.tsv> --date YYYY-MM-DD`。批次文件的表头依次为 `number`、`pmlr_id`、`domain`、`technique`、`topic`、`insight`。分类值沿用现有清单。脚本检查编号并刷新索引，每条 Insight 由贡献者根据原文撰写。
+
+同批新增论文卡时附加 `--paper-cards <论文卡.tsv>`。补充或修订已有论文卡时，运行 `python conferences/icml-2026/paper_cards.py <论文卡.tsv>`。字段顺序见[论文卡模板](templates/paper-card-template.md)。
 
 按主领域索引中的论文条目计数。同一篇论文拆出的多条 Insight 仍计为一篇，跨领域引用也不另计。增删或移动论文时，同步更新中英文首页的领域收录数。
 

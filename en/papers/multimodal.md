@@ -103,7 +103,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](https://proceedings.mlr.press/v306/acuna26a.html) | [Read insight (中文)](../../papers/multimodal.md#acuna26a-data-strategies) |
+| [Long Grounded Thoughts: Synthesizing Visual Problems and Reasoning Chains at Scale](https://proceedings.mlr.press/v306/acuna26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-acuna26a) | [Read insight (中文)](../../papers/multimodal.md#acuna26a-data-strategies) |
 | [PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://proceedings.mlr.press/v306/assouel26a.html) | [Read insight (中文)](../../papers/multimodal.md#assouel26a-data-strategies) |
 | [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://proceedings.mlr.press/v306/bo26b.html) | [Read insight (中文)](../../papers/multimodal.md#bo26b-data-strategies) |
 | [Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation](https://proceedings.mlr.press/v306/cao26aa.html) | [Read insight (中文)](../../papers/multimodal.md#cao26aa-data-strategies) |

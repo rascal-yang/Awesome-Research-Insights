@@ -8,7 +8,7 @@ Learning from interaction, feedback, and offline experience.
 
 | Paper | First public / venue | Transferable insights | Resources |
 | :--- | :--- | :--- | :--- |
-| [**GDPO**](https://proceedings.mlr.press/v306/liu26aa.html)<br><sub>Shih-Yang Liu et al., GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization</sub> | [2026-01-08](https://arxiv.org/abs/2601.05242)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26aa.html)</sub> | [Normalize Each Reward Before Aggregation](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) | [PMLR](https://proceedings.mlr.press/v306/liu26aa.html) · [arXiv](https://arxiv.org/abs/2601.05242) · [Code](https://github.com/NVlabs/GDPO) |
+| [**GDPO**](https://proceedings.mlr.press/v306/liu26aa.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)<br><sub>Shih-Yang Liu et al., GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization</sub> | [2026-01-08](https://arxiv.org/abs/2601.05242)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26aa.html)</sub> | [Normalize Each Reward Before Aggregation](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) | [PMLR](https://proceedings.mlr.press/v306/liu26aa.html) · [arXiv](https://arxiv.org/abs/2601.05242) · [Code](https://github.com/NVlabs/GDPO) |
 
 <!-- classification:start -->
 ## Browse by Technique
@@ -100,7 +100,7 @@ The linked short insights are available in Chinese.
 | [Online Robust Reinforcement Learning with General Function Approximation](https://proceedings.mlr.press/v306/ghosh26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) |
 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://proceedings.mlr.press/v306/goyal26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) |
 | [Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](https://proceedings.mlr.press/v306/han26i.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#han26i-reinforcement-learning) |
-| [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
+| [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
 
@@ -149,7 +149,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](https://proceedings.mlr.press/v306/abbadi26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#abbadi26a-theory-statistics) |
+| [What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](https://proceedings.mlr.press/v306/abbadi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-abbadi26a) | [Read insight (中文)](../../papers/reinforcement-learning.md#abbadi26a-theory-statistics) |
 | [(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](https://proceedings.mlr.press/v306/anagnostides26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#anagnostides26b-theory-statistics) |
 | [The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](https://proceedings.mlr.press/v306/anderson26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#anderson26a-theory-statistics) |
 | [Generalized Linear Bandits with Memory](https://proceedings.mlr.press/v306/ann26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#ann26a-theory-statistics) |

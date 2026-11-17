@@ -54,7 +54,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abas26a-loss-functions"></a>[TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization](https://proceedings.mlr.press/v306/abas26a.html) | 偏好学习 | 把回答抽成主张及其依赖图，用推理结构质量和不确定性加权偏好训练。 |
+| <a id="abas26a-loss-functions"></a>[TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization](https://proceedings.mlr.press/v306/abas26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abas26a) | 偏好学习 | 把回答抽成主张及其依赖图，用推理结构质量和不确定性加权偏好训练。 |
 | <a id="aouad26a-loss-functions"></a>[The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity](https://proceedings.mlr.press/v306/aouad26a.html) | 异质偏好学习 | 把成对偏好的交叉熵改成二分类式损失，在论文的假设下，学到的排序与总体平均效用一致。 |
 | <a id="chen26bi-loss-functions"></a>[What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis](https://proceedings.mlr.press/v306/chen26bi.html) | 潜在思维链的重建监督 | 逐步用潜状态替换显式推理步骤时，额外训练解码器用潜状态重建对应的推理词元。在文中任务上，该辅助监督优于用均方误差将潜状态拉向推理词元的平均嵌入。 |
 | <a id="chen26br-loss-functions"></a>[$φ$-Balancing for Mixture-of-Experts Training](https://proceedings.mlr.press/v306/chen26br.html) | MoE 软路由负载均衡 | 对各专家的软路由概率维护指数移动平均，用全局凸均衡势函数在该均值处的梯度作为专家代价。计算辅助损失时停止代价的梯度，只对当前批次的路由概率反传，降低硬分派统计带来的波动。 |
@@ -72,7 +72,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abbasi26a-optimization"></a>[Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](https://proceedings.mlr.press/v306/abbasi26a.html) | 模型压缩 | 在全模型固定参数预算下，用校准损失的一阶估计决定跨层删哪些奇异成分。 |
+| <a id="abbasi26a-optimization"></a>[Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](https://proceedings.mlr.press/v306/abbasi26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abbasi26a) | 模型压缩 | 在全模型固定参数预算下，用校准损失的一阶估计决定跨层删哪些奇异成分。 |
 | <a id="cai26a-optimization"></a>[AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](https://proceedings.mlr.press/v306/cai26a.html) | 低显存零阶微调 | 在只需前向计算的零阶微调中引入 Adam 式一阶和二阶矩估计，同时省去持久化矩状态，以少量显存获得更快收敛。 |
 | <a id="castin26a-optimization"></a>[Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](https://proceedings.mlr.press/v306/castin26a.html) | LoRA 收敛 | 同一个低秩权重更新可以由多组因子得到，而各组因子的条件数不同。将因子投影到平衡流形，保持乘积不变的同时改善收敛条件。 |
 | <a id="chen26z-optimization"></a>[WUSH: Near-Optimal Adaptive Transforms for LLM Quantization](https://proceedings.mlr.press/v306/chen26z.html) | 权重激活联合量化 | 把 Hadamard 变换与数据驱动的二阶矩校正结合，在分块最大绝对值量化前调节离群值影响，使权重和激活共享更适合低位宽的变换。 |
@@ -99,8 +99,8 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="ackermann26a-reinforcement-learning"></a>[Gradient Regularization Mitigates Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards](https://proceedings.mlr.press/v306/ackermann26a.html) | 奖励优化 | 惩罚 RL 目标对策略参数的梯度范数，并用有限差分近似该正则项的梯度，以减轻代理奖励优化过头。 |
-| <a id="agarwal26e-reinforcement-learning"></a>[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://proceedings.mlr.press/v306/agarwal26e.html) | Agent 后训练 | 把检查放到工具执行前，让继续与拒绝都成为显式动作，再用成对轨迹偏好训练整个多步决策过程。 |
+| <a id="ackermann26a-reinforcement-learning"></a>[Gradient Regularization Mitigates Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards](https://proceedings.mlr.press/v306/ackermann26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-ackermann26a) | 奖励优化 | 惩罚 RL 目标对策略参数的梯度范数，并用有限差分近似该正则项的梯度，以减轻代理奖励优化过头。 |
+| <a id="agarwal26e-reinforcement-learning"></a>[Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://proceedings.mlr.press/v306/agarwal26e.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26e) | Agent 后训练 | 把检查放到工具执行前，让继续与拒绝都成为显式动作，再用成对轨迹偏好训练整个多步决策过程。 |
 | <a id="agnihotri26a-reinforcement-learning"></a>[Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models](https://proceedings.mlr.press/v306/agnihotri26a.html) | 多目标偏好优化 | 用成对偏好优化主目标，把其他目标写为可调最低要求，避免为帮助性与安全性预设固定线性权重。 |
 | <a id="arnal26a-reinforcement-learning"></a>[Efficient RL Training for LLMs with Experience Replay](https://proceedings.mlr.press/v306/arnal26a.html) | LLM 强化学习 | 生成昂贵时可以复用历史 rollout，显式平衡数据陈旧导致的方差与样本多样性，以较少生成计算维持最终性能和策略熵。 |
 | <a id="baek26a-reinforcement-learning"></a>[D-FUSEr: Diverse Failure, Unified Success via Error-Distribution Shaping in LLM Reasoning](https://proceedings.mlr.press/v306/baek26a.html) | 测试时推理 | 多数投票的上限受错误答案是否集中影响。训练时奖励错误样本的适度分歧，或推理时识别并降权最常见误答，都可以提高聚合准确率。 |
@@ -153,8 +153,8 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="adepu26a-training-strategies"></a>[Fine-Tuning of Transformer models with Frames](https://proceedings.mlr.press/v306/adepu26a.html) | 参数高效微调 | 多层共享可算法生成的融合框架基底，只存储和训练稀疏的展开系数，以压低微调的显存和参数开销。 |
-| <a id="adila26a-training-strategies"></a>[Weight Updates as Activation Shifts: A Principled Framework for Steering](https://proceedings.mlr.press/v306/adila26a.html) | 激活干预 | 一阶近似把权重更新对应到激活变化，据此可把干预放在整个 Transformer 块的输出，还可以与权重微调联合训练。 |
+| <a id="adepu26a-training-strategies"></a>[Fine-Tuning of Transformer models with Frames](https://proceedings.mlr.press/v306/adepu26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adepu26a) | 参数高效微调 | 多层共享可算法生成的融合框架基底，只存储和训练稀疏的展开系数，以压低微调的显存和参数开销。 |
+| <a id="adila26a-training-strategies"></a>[Weight Updates as Activation Shifts: A Principled Framework for Steering](https://proceedings.mlr.press/v306/adila26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-adila26a) | 激活干预 | 一阶近似把权重更新对应到激活变化，据此可把干预放在整个 Transformer 块的输出，还可以与权重微调联合训练。 |
 | <a id="amin26a-training-strategies"></a>[Consistent Diffusion Language Models](https://proceedings.mlr.press/v306/amin26a.html) | 离散扩散加速 | 用两个噪声层级之间的精确离散后验桥做一致性监督，让去噪器对不同随机路径在期望上给出一致结果，可单阶段训练。 |
 | <a id="asadulaev26a-training-strategies"></a>[Latent Reasoning in TRMs is Secretly a Policy Improvement Operator](https://proceedings.mlr.press/v306/asadulaev26a.html) | 递归潜空间推理 | 把循环更新看作逐步改进策略，从强化学习和扩散借训练方法，让更少次的 Tiny Recursive Model 前向仍保持任务表现。 |
 | <a id="asawa26a-training-strategies"></a>[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://proceedings.mlr.press/v306/asawa26a.html) | 黑盒模型适配 | 训练小型开源模型按输入生成动态建议，把优化后的建议插入黑盒模型提示。在廉价学生上训练的顾问也能迁往闭源模型。 |
@@ -199,7 +199,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="aden-ali26a-data-strategies"></a>[Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](https://proceedings.mlr.press/v306/aden-ali26a.html) | 数据选择 | 按教师模型对两种条件下回答的 logit 对比挑子集，可以在没有显式目标标签的数据里诱导隐藏行为。 |
+| <a id="aden-ali26a-data-strategies"></a>[Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](https://proceedings.mlr.press/v306/aden-ali26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-aden-ali26a) | 数据选择 | 按教师模型对两种条件下回答的 logit 对比挑子集，可以在没有显式目标标签的数据里诱导隐藏行为。 |
 | <a id="agrawal26a-data-strategies"></a>[Minibatch selection for Language Models via Partition Matroid Constrained Gradient Matching](https://proceedings.mlr.press/v306/agrawal26a.html) | 训练数据选择 | 保留每个数据域的配额，再用一个验证梯度匹配目标跨域联合选样，可减少同一 batch 内的重复或冲突梯度。 |
 | <a id="arraf26a-data-strategies"></a>[Learning Rewrite-Invariant Reasoning with Targeted Alternation Training](https://proceedings.mlr.press/v306/arraf26a.html) | 改写稳定性 | 从等义改写采样多条推理轨迹，合并成中间步骤图定位出错分叉，再针对有影响的改写方式构造少量训练或上下文示例。 |
 | <a id="arx26a-data-strategies"></a>[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://proceedings.mlr.press/v306/arx26a.html) | 代码安全评测 | 为同一任务生成两套测试，一套验证功能，另一套用端到端探针验证漏洞，避免功能正确掩盖安全缺陷。 |
@@ -225,7 +225,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abdullaev26a-inference"></a>[Concept Heterogeneity-aware Representation Steering](https://proceedings.mlr.press/v306/abdullaev26a.html) | 表征干预 | 同一概念有多种表现时，用高斯混合分组和最优传输得到随输入变化的激活偏移。 |
+| <a id="abdullaev26a-inference"></a>[Concept Heterogeneity-aware Representation Steering](https://proceedings.mlr.press/v306/abdullaev26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abdullaev26a) | 表征干预 | 同一概念有多种表现时，用高斯混合分组和最优传输得到随输入变化的激活偏移。 |
 | <a id="ai26a-inference"></a>[An Interactive Paradigm for Deep Research](https://proceedings.mlr.press/v306/ai26a.html) | 交互式研究 Agent | 在研究流程的决策点权衡询问成本和预期收益，结合不断更新的用户偏好选择追问还是继续检索与综合。 |
 | <a id="ai26d-inference"></a>[Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information](https://proceedings.mlr.press/v306/ai26d.html) | 多模型答案聚合 | 投票时利用模型间的可靠性差异与相关性，以一阶及二阶统计量修正等权多数票。 |
 | <a id="akhauri26a-inference"></a>[Compute Where it Counts: Self Optimizing Language Models](https://proceedings.mlr.press/v306/akhauri26a.html) | 动态推理预算 | 固定教师强制的 token 序列，对同一序列采样多套计算调度，再用组相对优化训练逐 token 的稀疏度、剪枝和量化选择。 |
@@ -331,10 +331,10 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abramovich26a-evaluation"></a>[SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding](https://proceedings.mlr.press/v306/abramovich26a.html) | 推理系统评测 | 投机解码要用真实输入跨并发量评测，最佳草稿长度会随 batch 大小变化。 |
-| <a id="acevedo26a-evaluation"></a>[Differential syntactic and semantic encoding in LLMs](https://proceedings.mlr.press/v306/acevedo26a.html) | 表征分析 | 给句法相同或语义相同的句子分别求激活中心，再做减法消融定位对应信号。 |
-| <a id="acharya26a-evaluation"></a>[CauSciBench: Can LLMs Automate Causal Inference in Real-World Scientific Research?](https://proceedings.mlr.press/v306/acharya26a.html) | 分阶段评测 | 评测因果推断 Agent 时，把方法选择和数值计算分开计分，能定位真实数据上的失误来源。 |
-| <a id="africa26a-evaluation"></a>[Consistency Training Can Entrench Misalignment](https://proceedings.mlr.press/v306/africa26a.html) | 一致性训练 | 一致性自训练可能抑制奖励投机却加剧迎合，诊断时要检查生成一致性标签造成的训练分布变化。 |
+| <a id="abramovich26a-evaluation"></a>[SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding](https://proceedings.mlr.press/v306/abramovich26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abramovich26a) | 推理系统评测 | 投机解码要用真实输入跨并发量评测，最佳草稿长度会随 batch 大小变化。 |
+| <a id="acevedo26a-evaluation"></a>[Differential syntactic and semantic encoding in LLMs](https://proceedings.mlr.press/v306/acevedo26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-acevedo26a) | 表征分析 | 给句法相同或语义相同的句子分别求激活中心，再做减法消融定位对应信号。 |
+| <a id="acharya26a-evaluation"></a>[CauSciBench: Can LLMs Automate Causal Inference in Real-World Scientific Research?](https://proceedings.mlr.press/v306/acharya26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-acharya26a) | 分阶段评测 | 评测因果推断 Agent 时，把方法选择和数值计算分开计分，能定位真实数据上的失误来源。 |
+| <a id="africa26a-evaluation"></a>[Consistency Training Can Entrench Misalignment](https://proceedings.mlr.press/v306/africa26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-africa26a) | 一致性训练 | 一致性自训练可能抑制奖励投机却加剧迎合，诊断时要检查生成一致性标签造成的训练分布变化。 |
 | <a id="ai26e-evaluation"></a>[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://proceedings.mlr.press/v306/ai26e.html) | 持续记忆评测 | 把用户反馈模拟成依次到达的在线事件，检查系统能否在后续任务中吸收历史反馈。 |
 | <a id="aka26a-evaluation"></a>[Evaluating Contextual Illegality: AI Compliance in Corporate Law Scenarios](https://proceedings.mlr.press/v306/aka26a.html) | Agent 合规评测 | 保持工具动作相同、改变决定其合规性的背景，配对测试系统能否看出情境差别，同时测量合法请求被拒绝的情况。 |
 | <a id="akhtar26a-evaluation"></a>[When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://proceedings.mlr.press/v306/akhtar26a.html) | 基准饱和 | 比较评测集老化时，专家筛题与延缓饱和有关，是否公开测试数据在该研究中未显示出同样的关系。 |

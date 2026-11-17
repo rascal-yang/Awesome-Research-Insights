@@ -14,7 +14,7 @@
 
 A cross-disciplinary collection of reusable modules, losses, optimization methods, and training strategies from research papers.
 
-**Latest additions · 2026-11-17** · [ICML 2026 · 1,463 / 6,552 papers with insights](conferences/icml-2026/README.md)
+**Latest additions · 2026-11-17** · [ICML 2026 · 1,463 / 6,552 papers with insights](conferences/icml-2026/README.md) · [Paper cards (中文)](conferences/icml-2026/cards/README.md)
 
 **Last reviewed · 2026-11-15** · Initial entries and cross-links
 

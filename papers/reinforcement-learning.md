@@ -10,7 +10,7 @@
 
 | 论文 | 首次公开 / 发表 | 可借鉴的技术 | 资源 |
 | :--- | :--- | :--- | :--- |
-| [**GDPO**](https://proceedings.mlr.press/v306/liu26aa.html)<br><sub>Shih-Yang Liu 等, GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization</sub> | [2026-01-08](https://arxiv.org/abs/2601.05242)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26aa.html)</sub> | [多奖励先分别归一化再聚合](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) | [PMLR](https://proceedings.mlr.press/v306/liu26aa.html) · [arXiv](https://arxiv.org/abs/2601.05242) · [代码](https://github.com/NVlabs/GDPO) |
+| [**GDPO**](https://proceedings.mlr.press/v306/liu26aa.html) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)<br><sub>Shih-Yang Liu 等, GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization</sub> | [2026-01-08](https://arxiv.org/abs/2601.05242)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26aa.html)</sub> | [多奖励先分别归一化再聚合](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) | [PMLR](https://proceedings.mlr.press/v306/liu26aa.html) · [arXiv](https://arxiv.org/abs/2601.05242) · [代码](https://github.com/NVlabs/GDPO) |
 
 <!-- classification:start -->
 ## 按技术类型浏览
@@ -100,7 +100,7 @@
 | <a id="ghosh26a-reinforcement-learning"></a>[Online Robust Reinforcement Learning with General Function Approximation](https://proceedings.mlr.press/v306/ghosh26a.html) | 在线稳健 Bellman 的对偶拟合 | 用对偶函数统一表示各状态动作处、散度不确定集下的最坏转移备份。在线采样后联合拟合对偶备份和值函数，使一般函数逼近下的分布稳健学习能直接依赖交互数据。 |
 | <a id="goyal26a-reinforcement-learning"></a>[Contextual Slate GLM Bandits with Limited Adaptivity](https://proceedings.mlr.press/v306/goyal26a.html) | 有限更新的组合 GLM 赌博机 | 每轮每个槽位选一件商品但只观察整组回报时，用整组的参考组合估计链接函数的导数来缩放特征，避免逐件缩放累积非线性误差。论文在上下文多样性条件下给出了有限策略更新次数的遗憾保证。 |
 | <a id="han26i-reinforcement-learning"></a>[Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment](https://proceedings.mlr.press/v306/han26i.html) | 由环境后验控制仿真到现实的策略风险 | 从现场交互推断环境条件的潜变量分布，再按后验估计精度调节分布式强化学习策略的风险水平。部署初期可更保守，随着环境辨识改善再降低保守程度。 |
-| <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
+| <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
 
@@ -149,7 +149,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abbadi26a-theory-statistics"></a>[What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](https://proceedings.mlr.press/v306/abbadi26a.html) | 多智能体学习 | 仅比较策略偏好顺序会丢掉收益幅度，同一偏好图允许出现不同的 FTRL 动态。 |
+| <a id="abbadi26a-theory-statistics"></a>[What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](https://proceedings.mlr.press/v306/abbadi26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abbadi26a) | 多智能体学习 | 仅比较策略偏好顺序会丢掉收益幅度，同一偏好图允许出现不同的 FTRL 动态。 |
 | <a id="anagnostides26b-theory-statistics"></a>[(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](https://proceedings.mlr.press/v306/anagnostides26b.html) | 在线博弈动力学 | 势博弈的结构仍允许 FTRL 收敛至纳什均衡需要指数时间，极端的虚拟对弈在多人博弈中甚至有双指数下界。 |
 | <a id="anderson26a-theory-statistics"></a>[The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](https://proceedings.mlr.press/v306/anderson26a.html) | 部分可观测决策 | 无记忆随机策略的可达价值由多项式不等式表示。部分可观测性可引入独立局部极大值，其表现依赖初始状态分布。 |
 | <a id="ann26a-theory-statistics"></a>[Generalized Linear Bandits with Memory](https://proceedings.mlr.press/v306/ann26a.html) | 带动作记忆的老虎机 | 当历史动作通过有限记忆影响当前回报时，用分块决策与收缩置信界可把广义线性设定的遗憾控制到平方根量级。 |

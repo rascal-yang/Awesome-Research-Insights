@@ -10,7 +10,7 @@
 
 | 论文 | 首次公开 / 发表 | 可借鉴的技术 | 资源 |
 | :--- | :--- | :--- | :--- |
-| [**Lift / WideLast**](https://proceedings.mlr.press/v306/tian26k.html)<br><sub>Huiyuan Tian 等, From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers</sub> | 首次公开日期待核实<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/tian26k.html)</sub> | [只加宽学生模型的蒸馏接口](../insights/modules.md#widen-the-student-distillation-interface) | [PMLR](https://proceedings.mlr.press/v306/tian26k.html) · [OpenReview](https://openreview.net/forum?id=2Ud1nkQrVZ) · [代码](https://github.com/thy960112/From-Per-Image-Low-Rank-to-Encoding-Mismatch) |
+| [**Lift / WideLast**](https://proceedings.mlr.press/v306/tian26k.html) · [论文卡](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)<br><sub>Huiyuan Tian 等, From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers</sub> | 首次公开日期待核实<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/tian26k.html)</sub> | [只加宽学生模型的蒸馏接口](../insights/modules.md#widen-the-student-distillation-interface) | [PMLR](https://proceedings.mlr.press/v306/tian26k.html) · [OpenReview](https://openreview.net/forum?id=2Ud1nkQrVZ) · [代码](https://github.com/thy960112/From-Per-Image-Low-Rank-to-Encoding-Mismatch) |
 
 <!-- classification:start -->
 ## 按技术类型浏览
@@ -56,7 +56,7 @@
 | <a id="duan26a-modules"></a>[MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](https://proceedings.mlr.press/v306/duan26a.html) | 红外可见光融合的卷积分支折叠 | 训练时用多卷积分支促进红外与可见光特征交互。部署时先将批归一化折入各分支卷积，再对齐核的空间尺寸并合并参数，用单个标准卷积执行等价变换。 |
 | <a id="guo26ad-modules"></a>[WildActor: Unconstrained Identity-Preserving Video Generation](https://proceedings.mlr.press/v306/guo26ad.html) | 人体视频的非对称身份注意力 | 让脸部与全身参考 token 先独立聚合多视角身份，再由视频 token 单向读取参考表示。LoRA 只作用于参考 token，可向去噪视频传递身份线索，同时减少噪声视频对参考表示的干扰。 |
 | <a id="hadji26a-modules"></a>[Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](https://proceedings.mlr.press/v306/hadji26a.html) | 超分辨率的跨尺度词元前缀 | 分辨率逐级提高时，保留较低分辨率已得到的残差词元前缀，只在当前尺度追加新的量化词元，使中间前缀也可解码为相应倍率的超分辨率图像。 |
-| <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | 视觉特征蒸馏 | 给小型 ViT 的特征输出接口或最后一个 Transformer 块加宽，以匹配教师模型的编码空间。 [详细解读](../insights/modules.md#widen-the-student-distillation-interface) |
+| <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) · [论文卡](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k) | 视觉特征蒸馏 | 给小型 ViT 的特征输出接口或最后一个 Transformer 块加宽，以匹配教师模型的编码空间。 [详细解读](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
 
@@ -210,7 +210,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="acuaviva26a-evaluation"></a>[Rethinking Visual Intelligence: Insights from Video Pretraining](https://proceedings.mlr.press/v306/acuaviva26a.html) | 视觉推理评测 | 比较视频扩散模型与 LLM 的适配能力时，让两类模型分别用自己的输入模态，并报告数据效率。 |
+| <a id="acuaviva26a-evaluation"></a>[Rethinking Visual Intelligence: Insights from Video Pretraining](https://proceedings.mlr.press/v306/acuaviva26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-acuaviva26a) | 视觉推理评测 | 比较视频扩散模型与 LLM 的适配能力时，让两类模型分别用自己的输入模态，并报告数据效率。 |
 | <a id="ahmed26a-evaluation"></a>[Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://proceedings.mlr.press/v306/ahmed26a.html) | 分割模型诊断 | 用稀疏自编码器拆解并对齐不同架构及人群的分割激活，再干预与分布偏移相关的潜特征定位和修复错误。 |
 | <a id="alexis26a-evaluation"></a>[GEPC: Group-Equivariant Posterior Consistency for Out-of-Distribution Detection in Diffusion Models](https://proceedings.mlr.press/v306/alexis26a.html) | 扩散模型域外检测 | 检查输入做旋转或翻转后，扩散分数场是否相应变换。即使分数幅值相近，等变性残差也能暴露域外样本。 |
 | <a id="baek26e-evaluation"></a>[Proactive Defense Benchmark against Deepfake Generation](https://proceedings.mlr.press/v306/baek26e.html) | 深伪防御评测 | 把输出画质和身份保真度分开评估，并校准生成器固有的身份偏差。白盒防御表现特别强时也要检查是否损害跨生成器迁移。 |

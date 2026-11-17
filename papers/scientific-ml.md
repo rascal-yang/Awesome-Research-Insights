@@ -13,7 +13,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abijuru26a-architecture"></a>[Physics-Informed Residual Flows](https://proceedings.mlr.press/v306/abijuru26a.html) | 物理约束学习 | 把物理场预测拆成显式残差修正步骤，并检查中间预测是否沿合适的方向变化。 |
+| <a id="abijuru26a-architecture"></a>[Physics-Informed Residual Flows](https://proceedings.mlr.press/v306/abijuru26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abijuru26a) | 物理约束学习 | 把物理场预测拆成显式残差修正步骤，并检查中间预测是否沿合适的方向变化。 |
 | <a id="ai26f-architecture"></a>[Nested Spatio-Temporal Time Series Forecasting](https://proceedings.mlr.press/v306/ai26f.html) | 时空预测 | 先对节点做谱聚类并预测区域级未来趋势，再将预测到的宏观变化注入节点级预测。 |
 | <a id="andersson26a-architecture"></a>[scCBGM: Single-Cell Editing via Concept Bottlenecks](https://proceedings.mlr.press/v306/andersson26a.html) | 单细胞反事实编辑 | 在概念瓶颈加入解码器跳连，用交叉协方差惩罚减少概念与其他潜变量的相关性，再用合成反事实逐细胞验证编辑效果。 |
 | <a id="bacarreza26a-architecture"></a>[Quantum latent distributions in deep generative models](https://proceedings.mlr.press/v306/bacarreza26a.html) | 量子生成先验 | 在理论设定中，量子潜分布能高效生成部分经典潜分布难以高效得到的目标分布。论文用光子实验和模拟比较了量子干涉带来的影响。 |
@@ -60,7 +60,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abijuru26b-loss-functions"></a>[Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) | 鲁棒损失 | 把物理残差建模为 Student-t，通过 EM 自适应调低极端残差在加权 MSE 中的影响。 |
+| <a id="abijuru26b-loss-functions"></a>[Heavy-tailed Physics-Informed Neural Networks](https://proceedings.mlr.press/v306/abijuru26b.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abijuru26b) | 鲁棒损失 | 把物理残差建模为 Student-t，通过 EM 自适应调低极端残差在加权 MSE 中的影响。 |
 | <a id="anwer26a-loss-functions"></a>[Certificates for Complex-Compatible Learned Cochain Laplacians](https://proceedings.mlr.press/v306/anwer26a.html) | 网格算子学习 | 给学习出的算子对测量其偏离链复形一致性的距离，并可闭式投影到最近的兼容算子，避免网格细化时条件数失控。 |
 | <a id="byeon26a-loss-functions"></a>[HEXST: Hexagonal Shifted-Window Transformer for Spatial Transcriptomics Gene Expression Prediction](https://proceedings.mlr.press/v306/byeon26a.html) | 空间转录组预测 | 针对组织切片上六角排列的采样点，用几何匹配的窗口和位置编码，再加局部差分损失，减轻逐点回归导致的基因表达过平滑。 |
 | <a id="chasmai26a-loss-functions"></a>[MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | 生物声学辅助监督 | 把录音已有的时间和位置元数据作为辅助学习目标，借物种与环境的相关性塑造表征，并分别测地理和声学域偏移。 |
@@ -165,7 +165,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="abulikemu26a-representation-learning"></a>[Geometry-Guided Generative Representation for Functional Brain Graphs](https://proceedings.mlr.press/v306/abulikemu26a.html) | 图表征学习 | 用跨样本对齐的功能梯度作为图自编码器的几何先验，再在压缩的图级潜空间建模。 |
+| <a id="abulikemu26a-representation-learning"></a>[Geometry-Guided Generative Representation for Functional Brain Graphs](https://proceedings.mlr.press/v306/abulikemu26a.html) · [论文卡](../conferences/icml-2026/cards/0001-0100.md#paper-abulikemu26a) | 图表征学习 | 用跨样本对齐的功能梯度作为图自编码器的几何先验，再在压缩的图级潜空间建模。 |
 | <a id="antoniadis26a-representation-learning"></a>[Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators](https://proceedings.mlr.press/v306/antoniadis26a.html) | 分子动力学泛化 | 在粗粒化的隐式转移算子中加入蛋白语言模型嵌入作为条件，可改善对未见过蛋白的平衡态采样。 |
 | <a id="ariguib26a-representation-learning"></a>[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](https://proceedings.mlr.press/v306/ariguib26a.html) | 分子自监督 | 用固定半径子图作训练单元，从互补邻域预测其潜嵌入，把同一分子的多种 3D 构象引入免负样本训练。 |
 | <a id="baloch26a-representation-learning"></a>[A Machine-Learned Comorbidity Index](https://proceedings.mlr.press/v306/baloch26a.html) | 多结局风险表征 | 用归一化 Hilbert–Schmidt 独立性准则将诊断编码压成一个非线性分数，使其共同反映多个结局的风险。 |

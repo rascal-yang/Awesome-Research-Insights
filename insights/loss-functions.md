@@ -12,7 +12,7 @@
 
 **来源**
 
-ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883#page=4) · [§4.4、表 2](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883#page=6) · [论文索引](../papers/robotics.md#vision-language-action-models)
+ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883#page=4) · [§4.4、表 2](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883#page=6) · [论文索引](../papers/robotics.md#vision-language-action-models) · [论文卡](../papers/reconvla.md#paper-reconvla)
 
 **核心思路**
 
@@ -41,7 +41,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 
 **来源**
 
-[LARA](https://proceedings.mlr.press/v306/liu26bl.html) (Mengya Liu 等, ICML 2026) · [§4.1、图 3、式 6–7](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=4) · [表 2](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=7) · [§5.6、图 6](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=8) · [论文索引](../papers/robotics.md#vision-language-action-models)
+[LARA](https://proceedings.mlr.press/v306/liu26bl.html) (Mengya Liu 等, ICML 2026) · [§4.1、图 3、式 6–7](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=4) · [表 2](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=7) · [§5.6、图 6](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26bl/liu26bl.pdf#page=8) · [论文索引](../papers/robotics.md#vision-language-action-models) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl)
 
 **核心思路**
 

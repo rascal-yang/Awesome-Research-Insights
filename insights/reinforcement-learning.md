@@ -12,7 +12,7 @@
 
 **来源**
 
-[GDPO](https://proceedings.mlr.press/v306/liu26aa.html) (Shih-Yang Liu 等, ICML 2026) · [§3.1、式 4–6](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=4) · [§4.1、表 1](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=5) · [论文索引](../papers/reinforcement-learning.md#group-relative-policy-optimization)
+[GDPO](https://proceedings.mlr.press/v306/liu26aa.html) (Shih-Yang Liu 等, ICML 2026) · [§3.1、式 4–6](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=4) · [§4.1、表 1](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=5) · [论文索引](../papers/reinforcement-learning.md#group-relative-policy-optimization) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 **核心思路**
 
