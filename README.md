@@ -14,13 +14,14 @@
 
 跨领域科研技术灵感库，收录论文中可迁移的模块、损失、优化方法与训练策略。
 
-**最新收录 · 2026-11-15** · [ICML 2026 · 3 篇论文、3 条 Insight](#icml-2026-first-batch)
+**最新收录 · 2026-11-17** · [ICML 2026 · 163 / 6,552 篇已有 Insight](conferences/icml-2026/README.md)
 
 **最近核查 · 2026-11-15** · 首批条目及交叉链接
 
 **目录**
 
 - [全部论文领域](#papers-by-domain)
+- [ICML 2026 论文 Insight](conferences/icml-2026/README.md)
 - [机器人学](#robotics)
   - [损失函数](#loss-functions)
   - [模块](#modules)
@@ -137,6 +138,8 @@
 <a id="recent-updates"></a>
 
 ## 最近更新
+
+- **2026-11-17** · 新增 ICML 2026 逐篇目录，第 1–160 篇已有 Insight，另附此前专题收录的 3 篇。 [ICML 2026 论文 Insight](conferences/icml-2026/README.md)
 
 <a id="icml-2026-first-batch"></a>
 
