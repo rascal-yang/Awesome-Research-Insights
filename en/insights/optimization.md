@@ -345,6 +345,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Adaptive Multi-Round Allocation with Stochastic Arrivals](../../conferences/icml-2026/cards/3501-3600.md#pan26c-optimization) · 中文
 - [Sharpness-Aware Minimization Can Hallucinate Minimizers](../../conferences/icml-2026/cards/3501-3600.md#park26e-optimization) · 中文
 - [Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning](../../conferences/icml-2026/cards/3501-3600.md#park26g-optimization) · 中文
+- [SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients](../../conferences/icml-2026/cards/3601-3700.md#paulus26a-optimization) · 中文
+- [Riemannian stochastic optimization for sufficient dimension reduction](../../conferences/icml-2026/cards/3601-3700.md#pautrel26a-optimization) · 中文
+- [Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation](../../conferences/icml-2026/cards/3601-3700.md#petersen26a-optimization) · 中文
+- [Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization](../../conferences/icml-2026/cards/3601-3700.md#pion26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -403,4 +407,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Neuro-Symbolic AI for Analytical Solutions of Differential Equations](../../conferences/icml-2026/cards/3401-3500.md#oikonomou26a-optimization) · 中文
 - [Interpretability Driven Evolutionary Approach for the Design of Biological Sequences](../../conferences/icml-2026/cards/3501-3600.md#pandey26a-optimization) · 中文
 - [Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs](../../conferences/icml-2026/cards/3501-3600.md#pang26f-optimization) · 中文
+- [Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces](../../conferences/icml-2026/cards/3501-3600.md#park26k-optimization) · 中文
+- [Online Bayesian Experimental Design for Partially Observed Dynamical Systems](../../conferences/icml-2026/cards/3601-3700.md#perez-vieites26a-optimization) · 中文
 <!-- classification:end -->

@@ -345,6 +345,10 @@
 - [随机转介预算规划](../conferences/icml-2026/cards/3501-3600.md#pan26c-optimization) · Adaptive Multi-Round Allocation with Stochastic Arrivals
 - [同时监测 SAM 原点和扰动点梯度](../conferences/icml-2026/cards/3501-3600.md#park26e-optimization) · Sharpness-Aware Minimization Can Hallucinate Minimizers
 - [在客户端用分组归一动量平衡稀类](../conferences/icml-2026/cards/3501-3600.md#park26g-optimization) · Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning
+- [硬操作的软梯度与软索引](../conferences/icml-2026/cards/3601-3700.md#paulus26a-optimization) · SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients
+- [用稀疏近邻做流形充分降维](../conferences/icml-2026/cards/3601-3700.md#pautrel26a-optimization) · Riemannian stochastic optimization for sufficient dimension reduction
+- [黑盒平滑的扰动预算](../conferences/icml-2026/cards/3601-3700.md#petersen26a-optimization) · Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation
+- [为期望改进校准 GP 预测低尾](../conferences/icml-2026/cards/3601-3700.md#pion26a-optimization) · Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -403,4 +407,6 @@
 - [微分方程符号解搜索](../conferences/icml-2026/cards/3401-3500.md#oikonomou26a-optimization) · Neuro-Symbolic AI for Analytical Solutions of Differential Equations
 - [用序列归因指导进化的变异位置](../conferences/icml-2026/cards/3501-3600.md#pandey26a-optimization) · Interpretability Driven Evolutionary Approach for the Design of Biological Sequences
 - [把函数候选生成同诊断和搜索分开](../conferences/icml-2026/cards/3501-3600.md#pang26f-optimization) · Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs
+- [把伴随采样推广到满足端点条件的路径空间](../conferences/icml-2026/cards/3501-3600.md#park26k-optimization) · Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces
+- [序贯实验设计复用粒子后验](../conferences/icml-2026/cards/3601-3700.md#perez-vieites26a-optimization) · Online Bayesian Experimental Design for Partially Observed Dynamical Systems
 <!-- classification:end -->

@@ -277,6 +277,11 @@
 - [推理片段递归归因](../conferences/icml-2026/cards/3501-3600.md#pan26g-evaluation) · Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs
 - [以检查点反传校准省显存训练的对照](../conferences/icml-2026/cards/3501-3600.md#panchal26a-evaluation) · Memory Savings at What Cost? A Study of Alternatives to Backpropagation
 - [用专家身份干预拆解团队协同损失](../conferences/icml-2026/cards/3501-3600.md#pappu26a-evaluation) · Multi-Agent Teams Hold Experts Back
+- [分开测辅助改写的语义与负担](../conferences/icml-2026/cards/3601-3700.md#pattnayak26a-evaluation) · Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints
+- [真假数学命题成对评测](../conferences/icml-2026/cards/3601-3700.md#petrov26a-evaluation) · BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs
+- [在对齐测试中逐步增加压力](../conferences/icml-2026/cards/3601-3700.md#petrova26a-evaluation) · Pressure Reveals Character: Behavioural Alignment Evaluation at Depth
+- [干预注意力头的时间重现方向](../conferences/icml-2026/cards/3601-3700.md#pink26a-evaluation) · Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models
+- [用图任务分离低温推理循环机制](../conferences/icml-2026/cards/3601-3700.md#pipis26a-evaluation) · Wait, Wait, Wait... Why Do Reasoning Models Loop?
 
 <a id="by-computer-vision"></a>
 
@@ -574,4 +579,5 @@
 - [融合物理与约束证据解释控制动作](../conferences/icml-2026/cards/3301-3400.md#naagarajan26a-evaluation) · Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control
 - [把大脑信号对齐和语言技能分开测量](../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models
 - [用概念重组测试分布外时序解释](../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models
+- [以共享三维标签和真实纹理梯度评估地震断层模型](../conferences/icml-2026/cards/3601-3700.md#park26y-evaluation) · SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection
 <!-- classification:end -->

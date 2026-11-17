@@ -68,6 +68,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data](../../conferences/icml-2026/cards/3401-3500.md#nam26b-data-strategies) · 中文
 - [Detecting and Filtering Unsafe Training Data via Data Attribution with Denoised Representation](../../conferences/icml-2026/cards/3501-3600.md#pan26l-data-strategies) · 中文
 - [EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning](../../conferences/icml-2026/cards/3501-3600.md#pang26e-data-strategies) · 中文
+- [Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation](../../conferences/icml-2026/cards/3601-3700.md#peng26b-data-strategies) · 中文
+- [Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](../../conferences/icml-2026/cards/3601-3700.md#pinto26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -177,6 +179,7 @@ Data selection, annotation, augmentation, and sampling.
 - [TimeLAVA: Learning-Agnostic Valuation for Time Series Data](../../conferences/icml-2026/cards/2801-2900.md#liu26dh-data-strategies) · 中文
 - [Counterfactual Residual Data Augmentation for Regression](../../conferences/icml-2026/cards/3301-3400.md#mohebbi26a-data-strategies) · 中文
 - [Fair Dataset Distillation via Cross-Group Barycenter Alignment](../../conferences/icml-2026/cards/3301-3400.md#moslemi26a-data-strategies) · 中文
+- [CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification](../../conferences/icml-2026/cards/3601-3700.md#pei26c-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

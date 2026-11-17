@@ -42,6 +42,8 @@ Objectives, auxiliary supervision, and regularization.
 - [TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](../../conferences/icml-2026/cards/3401-3500.md#nguyen26l-loss-functions) · 中文
 - [Autoregressive Direct Preference Optimization](../../conferences/icml-2026/cards/3401-3500.md#oi26b-loss-functions) · 中文
 - [Optimal Transport for LLM Reward Modeling from Noisy Feedback](../../conferences/icml-2026/cards/3501-3600.md#pan26o-loss-functions) · 中文
+- [Forget to Know, Remember to Use: Context-Aware Unlearning for Large Language Models](../../conferences/icml-2026/cards/3601-3700.md#peng26a-loss-functions) · 中文
+- [Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](../../conferences/icml-2026/cards/3601-3700.md#piskorz26a-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -127,6 +129,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs](../../conferences/icml-2026/cards/3301-3400.md#mirvakhabova26a-loss-functions) · 中文
 - [A Unified Framework for Diffusion Model Unlearning with f-Divergence](../../conferences/icml-2026/cards/3401-3500.md#novello26a-loss-functions) · 中文
 - [Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion](../../conferences/icml-2026/cards/3501-3600.md#pan26m-loss-functions) · 中文
+- [CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning](../../conferences/icml-2026/cards/3601-3700.md#pellicer26a-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -158,6 +161,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../../conferences/icml-2026/cards/3301-3400.md#mohri26d-loss-functions) · 中文
 - [Possibilistic Predictive Uncertainty for Deep Learning](../../conferences/icml-2026/cards/3401-3500.md#ni26b-loss-functions) · 中文
 - [A Diffusive Classification Loss for Learning Energy-based Generative Models](../../conferences/icml-2026/cards/3501-3600.md#ouyang26b-loss-functions) · 中文
+- [Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization](../../conferences/icml-2026/cards/3601-3700.md#persiianov26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -68,6 +68,8 @@
 - [提示响应互信息](../conferences/icml-2026/cards/3401-3500.md#nam26b-data-strategies) · Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data
 - [安全数据白化归因](../conferences/icml-2026/cards/3501-3600.md#pan26l-data-strategies) · Detecting and Filtering Unsafe Training Data via Data Attribution with Denoised Representation
 - [用当前模型的估计熵重排领域课程](../conferences/icml-2026/cards/3501-3600.md#pang26e-data-strategies) · EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning
+- [反向推理骨架](../conferences/icml-2026/cards/3601-3700.md#peng26b-data-strategies) · Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation
+- [用验证器筛选有效又加速的循环不变量](../conferences/icml-2026/cards/3601-3700.md#pinto26a-data-strategies) · Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs
 
 <a id="by-computer-vision"></a>
 
@@ -177,6 +179,7 @@
 - [用小波最优输运边际影响给时序片段估值](../conferences/icml-2026/cards/2801-2900.md#liu26dh-data-strategies) · TimeLAVA: Learning-Agnostic Valuation for Time Series Data
 - [回归残差复用](../conferences/icml-2026/cards/3301-3400.md#mohebbi26a-data-strategies) · Counterfactual Residual Data Augmentation for Regression
 - [用等权群体重心蒸馏数据](../conferences/icml-2026/cards/3301-3400.md#moslemi26a-data-strategies) · Fair Dataset Distillation via Cross-Group Barycenter Alignment
+- [解耦类别与域上下文来合成时间序列](../conferences/icml-2026/cards/3601-3700.md#pei26c-data-strategies) · CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification
 
 <a id="by-graph-and-recommendation"></a>
 

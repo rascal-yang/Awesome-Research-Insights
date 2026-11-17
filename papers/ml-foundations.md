@@ -62,6 +62,8 @@
 - <a id="noack26a-architecture"></a>[gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../conferences/icml-2026/cards/3401-3500.md#paper-noack26a)
 - <a id="ostheimer26a-architecture"></a>[Skipping the Zeros in Diffusion Models for Sparse Data Generation](../conferences/icml-2026/cards/3501-3600.md#paper-ostheimer26a)
 - <a id="ozyilkan26a-architecture"></a>[SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation](../conferences/icml-2026/cards/3501-3600.md#paper-ozyilkan26a)
+- <a id="peng26c-architecture"></a>[CauScale: Neural Causal Discovery at Scale](../conferences/icml-2026/cards/3601-3700.md#paper-peng26c)
+- <a id="pinna26a-architecture"></a>[ParalESN: Enabling parallel information processing in Reservoir Computing](../conferences/icml-2026/cards/3601-3700.md#paper-pinna26a)
 
 <a id="by-modules"></a>
 
@@ -108,6 +110,7 @@
 - <a id="nguyen26e-modules"></a>[Batch Normalization for Neural Networks on Complex Domains](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26e)
 - <a id="nguyen26t-modules"></a>[MuonSSM: Orthogonalizing State Space Models for Sequence Modeling](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26t)
 - <a id="pal26a-modules"></a>[DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers](../conferences/icml-2026/cards/3501-3600.md#paper-pal26a)
+- <a id="pertigkiozoglou26a-modules"></a>[Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data](../conferences/icml-2026/cards/3601-3700.md#paper-pertigkiozoglou26a)
 
 <a id="by-loss-functions"></a>
 
@@ -139,6 +142,7 @@
 - <a id="mohri26d-loss-functions"></a>[Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../conferences/icml-2026/cards/3301-3400.md#paper-mohri26d)
 - <a id="ni26b-loss-functions"></a>[Possibilistic Predictive Uncertainty for Deep Learning](../conferences/icml-2026/cards/3401-3500.md#paper-ni26b)
 - <a id="ouyang26b-loss-functions"></a>[A Diffusive Classification Loss for Learning Energy-based Generative Models](../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26b)
+- <a id="persiianov26a-loss-functions"></a>[Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization](../conferences/icml-2026/cards/3601-3700.md#paper-persiianov26a)
 
 <a id="by-optimization"></a>
 
@@ -337,6 +341,10 @@
 - <a id="pan26c-optimization"></a>[Adaptive Multi-Round Allocation with Stochastic Arrivals](../conferences/icml-2026/cards/3501-3600.md#paper-pan26c)
 - <a id="park26e-optimization"></a>[Sharpness-Aware Minimization Can Hallucinate Minimizers](../conferences/icml-2026/cards/3501-3600.md#paper-park26e)
 - <a id="park26g-optimization"></a>[Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning](../conferences/icml-2026/cards/3501-3600.md#paper-park26g)
+- <a id="paulus26a-optimization"></a>[SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients](../conferences/icml-2026/cards/3601-3700.md#paper-paulus26a)
+- <a id="pautrel26a-optimization"></a>[Riemannian stochastic optimization for sufficient dimension reduction](../conferences/icml-2026/cards/3601-3700.md#paper-pautrel26a)
+- <a id="petersen26a-optimization"></a>[Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation](../conferences/icml-2026/cards/3601-3700.md#paper-petersen26a)
+- <a id="pion26a-optimization"></a>[Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization](../conferences/icml-2026/cards/3601-3700.md#paper-pion26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -406,6 +414,7 @@
 - <a id="morshed26a-training-strategies"></a>[Compositional Generative Modeling from Decentralized Data](../conferences/icml-2026/cards/3301-3400.md#paper-morshed26a)
 - <a id="na26b-training-strategies"></a>[Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models](../conferences/icml-2026/cards/3301-3400.md#paper-na26b)
 - <a id="pachebat26a-training-strategies"></a>[Tail Annealing for Heavy-Tailed Flow Matching](../conferences/icml-2026/cards/3501-3600.md#paper-pachebat26a)
+- <a id="park26l-training-strategies"></a>[Saliency-Aware Model Merging](../conferences/icml-2026/cards/3501-3600.md#paper-park26l)
 
 <a id="by-data-strategies"></a>
 
@@ -431,6 +440,7 @@
 - <a id="liu26dh-data-strategies"></a>[TimeLAVA: Learning-Agnostic Valuation for Time Series Data](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dh)
 - <a id="mohebbi26a-data-strategies"></a>[Counterfactual Residual Data Augmentation for Regression](../conferences/icml-2026/cards/3301-3400.md#paper-mohebbi26a)
 - <a id="moslemi26a-data-strategies"></a>[Fair Dataset Distillation via Cross-Group Barycenter Alignment](../conferences/icml-2026/cards/3301-3400.md#paper-moslemi26a)
+- <a id="pei26c-data-strategies"></a>[CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification](../conferences/icml-2026/cards/3601-3700.md#paper-pei26c)
 
 <a id="by-inference"></a>
 
@@ -471,6 +481,7 @@
 - <a id="nguyen26u-inference"></a>[Reviving Error Correction in Modern Deep Time-Series Forecasting](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26u)
 - <a id="nurko26a-inference"></a>[Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits](../conferences/icml-2026/cards/3401-3500.md#paper-nurko26a)
 - <a id="nyang26a-inference"></a>[Beyond Hamming: Query-Aware Decoding of Binary Cosine Sketches](../conferences/icml-2026/cards/3401-3500.md#paper-nyang26a)
+- <a id="phan26a-inference"></a>[Automatic Unsupervised Ensemble Outlier Model Selection](../conferences/icml-2026/cards/3601-3700.md#paper-phan26a)
 
 <a id="by-representation-learning"></a>
 
@@ -523,6 +534,8 @@
 - <a id="ousherovitch26a-representation-learning"></a>[Learning to Extrapolate to New Tasks: A Relational Approach to Task Extrapolation](../conferences/icml-2026/cards/3501-3600.md#paper-ousherovitch26a)
 - <a id="park26a-representation-learning"></a>[TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation](../conferences/icml-2026/cards/3501-3600.md#paper-park26a)
 - <a id="park26d-representation-learning"></a>[Convergent World Representations and Divergent Tasks](../conferences/icml-2026/cards/3501-3600.md#paper-park26d)
+- <a id="park26p-representation-learning"></a>[The Information Geometry of Softmax: Probing and Steering](../conferences/icml-2026/cards/3501-3600.md#paper-park26p)
+- <a id="pence26a-representation-learning"></a>[Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories](../conferences/icml-2026/cards/3601-3700.md#paper-pence26a)
 
 <a id="by-evaluation"></a>
 
@@ -930,4 +943,14 @@
 - <a id="paes-leme26a-theory-statistics"></a>[Allocating Variance to Maximize Expectation](../conferences/icml-2026/cards/3501-3600.md#paper-paes-leme26a)
 - <a id="pang26d-theory-statistics"></a>[Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks](../conferences/icml-2026/cards/3501-3600.md#paper-pang26d)
 - <a id="pardeshi26a-theory-statistics"></a>[Online Social Welfare Function-based Resource Allocation](../conferences/icml-2026/cards/3501-3600.md#paper-pardeshi26a)
+- <a id="park26r-theory-statistics"></a>[Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients](../conferences/icml-2026/cards/3501-3600.md#paper-park26r)
+- <a id="park26s-theory-statistics"></a>[On Expressive Power of Floating-Point Transformers](../conferences/icml-2026/cards/3501-3600.md#paper-park26s)
+- <a id="park26t-theory-statistics"></a>[On Minimum Depth and Width of Floating-Point Neural Networks for Representing Floating-Point Functions](../conferences/icml-2026/cards/3501-3600.md#paper-park26t)
+- <a id="parley26a-theory-statistics"></a>[Deep networks learn to parse uniform-depth context-free languages from local statistics](../conferences/icml-2026/cards/3601-3700.md#paper-parley26a)
+- <a id="petrova26b-theory-statistics"></a>[Geometric Entropy and Retrieval Phase Transitions in Continuous Dense Associative Memory](../conferences/icml-2026/cards/3601-3700.md#paper-petrova26b)
+- <a id="pham26a-theory-statistics"></a>[Decomposing Out-of-Distribution Error in Conditional Flow Matching via Wasserstein Geometry](../conferences/icml-2026/cards/3601-3700.md#paper-pham26a)
+- <a id="pham26c-theory-statistics"></a>[Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation](../conferences/icml-2026/cards/3601-3700.md#paper-pham26c)
+- <a id="pi26a-theory-statistics"></a>[Learning Manifold Data with Flow Matching](../conferences/icml-2026/cards/3601-3700.md#paper-pi26a)
+- <a id="pieper-sethmacher26a-theory-statistics"></a>[Infinite-Dimensional Generative Diffusions via Doob’s h-Transform](../conferences/icml-2026/cards/3601-3700.md#paper-pieper-sethmacher26a)
+- <a id="pillaud-vivien26a-theory-statistics"></a>[Joint Learning in the Gaussian Single Index Model](../conferences/icml-2026/cards/3601-3700.md#paper-pillaud-vivien26a)
 <!-- classification:end -->

@@ -46,6 +46,8 @@
 - [把结构先验从注意力语义键中拆出](../conferences/icml-2026/cards/2701-2800.md#litman26a-modules) · You Need Better Attention Priors
 - [查询依赖的多极近似注意力](../conferences/icml-2026/cards/3301-3400.md#mitchell26a-modules) · Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining
 - [让查询读出反馈参与线性记忆写入](../conferences/icml-2026/cards/3501-3600.md#park26f-modules) · Q-Delta: Beyond Key–Value Associative State Evolution
+- [用在线主子空间辅助 MoE 路由](../conferences/icml-2026/cards/3501-3600.md#park26u-modules) · STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning
+- [概念方向进入解释提示的校准](../conferences/icml-2026/cards/3601-3700.md#pepper26a-modules) · Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs
 
 <a id="by-computer-vision"></a>
 
@@ -178,6 +180,7 @@
 - [在复域内部做几何批归一化](../conferences/icml-2026/cards/3401-3500.md#nguyen26e-modules) · Batch Normalization for Neural Networks on Complex Domains
 - [在状态注入端做动量和谱调节](../conferences/icml-2026/cards/3401-3500.md#nguyen26t-modules) · MuonSSM: Orthogonalizing State Space Models for Sequence Modeling
 - [以可微析取投影嵌入硬规则](../conferences/icml-2026/cards/3501-3600.md#pal26a-modules) · DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers
+- [按中间分布调节等变](../conferences/icml-2026/cards/3601-3700.md#pertigkiozoglou26a-modules) · Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -204,4 +207,5 @@
 - [按当前流向为网格图加局部二跳边](../conferences/icml-2026/cards/2401-2500.md#li26cu-modules) · Graph Rewiring based on Flow Alignment for Improving Fluid Simulation
 - [学习分数阶算子输入](../conferences/icml-2026/cards/3201-3300.md#mehouachi26a-modules) · Fractional is Better: Learnable Derivative Orders in Neural Operator Learning
 - [把边界条件学成域内函数扩展](../conferences/icml-2026/cards/3301-3400.md#mousavi26a-modules) · Imposing Boundary Conditions on Neural Operators via Learned Function Extensions
+- [用综合征预测匹配解码边权](../conferences/icml-2026/cards/3601-3700.md#peled26a-modules) · Neural Minimum Weight Perfect Matching for Quantum Error Codes
 <!-- classification:end -->

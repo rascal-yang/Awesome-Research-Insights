@@ -277,6 +277,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs](../../conferences/icml-2026/cards/3501-3600.md#pan26g-evaluation) · 中文
 - [Memory Savings at What Cost? A Study of Alternatives to Backpropagation](../../conferences/icml-2026/cards/3501-3600.md#panchal26a-evaluation) · 中文
 - [Multi-Agent Teams Hold Experts Back](../../conferences/icml-2026/cards/3501-3600.md#pappu26a-evaluation) · 中文
+- [Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints](../../conferences/icml-2026/cards/3601-3700.md#pattnayak26a-evaluation) · 中文
+- [BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs](../../conferences/icml-2026/cards/3601-3700.md#petrov26a-evaluation) · 中文
+- [Pressure Reveals Character: Behavioural Alignment Evaluation at Depth](../../conferences/icml-2026/cards/3601-3700.md#petrova26a-evaluation) · 中文
+- [Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models](../../conferences/icml-2026/cards/3601-3700.md#pink26a-evaluation) · 中文
+- [Wait, Wait, Wait... Why Do Reasoning Models Loop?](../../conferences/icml-2026/cards/3601-3700.md#pipis26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -574,4 +579,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control](../../conferences/icml-2026/cards/3301-3400.md#naagarajan26a-evaluation) · 中文
 - [Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models](../../conferences/icml-2026/cards/3501-3600.md#oota26a-evaluation) · 中文
 - [TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#oublal26a-evaluation) · 中文
+- [SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection](../../conferences/icml-2026/cards/3601-3700.md#park26y-evaluation) · 中文
 <!-- classification:end -->

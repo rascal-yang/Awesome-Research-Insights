@@ -142,6 +142,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#pan26p-reinforcement-learning) · 中文
 - [Group Distributionally Robust Optimization-Driven RL for LLM Reasoning](../../conferences/icml-2026/cards/3501-3600.md#panaganti26a-reinforcement-learning) · 中文
 - [$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments](../../conferences/icml-2026/cards/3501-3600.md#park26h-reinforcement-learning) · 中文
+- [Safety Alignment of LMs via Non-cooperative Games](../../conferences/icml-2026/cards/3601-3700.md#paulus26b-reinforcement-learning) · 中文
+- [HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents](../../conferences/icml-2026/cards/3601-3700.md#peng26h-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -287,6 +289,11 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games](../../conferences/icml-2026/cards/3501-3600.md#ota26a-reinforcement-learning) · 中文
 - [The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy](../../conferences/icml-2026/cards/3501-3600.md#overman26b-reinforcement-learning) · 中文
 - [Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning](../../conferences/icml-2026/cards/3501-3600.md#pan26n-reinforcement-learning) · 中文
+- [Constrained Multi-Objective Reinforcement Learning with Max-Min Criterion](../../conferences/icml-2026/cards/3501-3600.md#park26o-reinforcement-learning) · 中文
+- [Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL](../../conferences/icml-2026/cards/3501-3600.md#park26q-reinforcement-learning) · 中文
+- [TACTIC: Task-Aware Sparse Coordination Graphs for Multi-Task Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/3601-3700.md#peng26f-reinforcement-learning) · 中文
+- [Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment](../../conferences/icml-2026/cards/3601-3700.md#petitbois26a-reinforcement-learning) · 中文
+- [Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset](../../conferences/icml-2026/cards/3601-3700.md#pham26b-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -309,6 +316,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luu26a-reinforcement-learning) · 中文
 - [DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](../../conferences/icml-2026/cards/3201-3300.md#mandi26a-reinforcement-learning) · 中文
 - [CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#ni26d-reinforcement-learning) · 中文
+- [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](../../conferences/icml-2026/cards/3601-3700.md#patil26a-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 

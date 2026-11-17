@@ -84,6 +84,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="luu26a-reinforcement-learning"></a>[Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-luu26a)
 - <a id="mandi26a-reinforcement-learning"></a>[DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation](../../conferences/icml-2026/cards/3201-3300.md#paper-mandi26a)
 - <a id="ni26d-reinforcement-learning"></a>[CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](../../conferences/icml-2026/cards/3401-3500.md#paper-ni26d)
+- <a id="patil26a-reinforcement-learning"></a>[OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](../../conferences/icml-2026/cards/3601-3700.md#paper-patil26a)
 
 <a id="by-training-strategies"></a>
 
@@ -152,6 +153,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="luo26ab-inference"></a>[STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics–Physics Dual System](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ab)
 - <a id="nandiraju26a-inference"></a>[HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks](../../conferences/icml-2026/cards/3401-3500.md#paper-nandiraju26a)
 - <a id="panchal26b-inference"></a>[Mosaic: Runtime-Efficient Multi-Agent Embodied Planning](../../conferences/icml-2026/cards/3501-3600.md#paper-panchal26b)
+- <a id="pfaff26a-inference"></a>[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](../../conferences/icml-2026/cards/3601-3700.md#paper-pfaff26a)
 
 <a id="by-representation-learning"></a>
 

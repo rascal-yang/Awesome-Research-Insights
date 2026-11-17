@@ -24,6 +24,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Closing the Loop: Universal Repository Representation with RPG-Encoder](../../conferences/icml-2026/cards/3001-3100.md#luo26ad-representation-learning) · 中文
 - [Emergent Analogical Reasoning in Transformers](../../conferences/icml-2026/cards/3301-3400.md#minegishi26a-representation-learning) · 中文
 - [Deep sequence models tend to memorize geometrically; it is unclear why](../../conferences/icml-2026/cards/3401-3500.md#noroozizadeh26a-representation-learning) · 中文
+- [Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping](../../conferences/icml-2026/cards/3601-3700.md#pethkar26a-representation-learning) · 中文
+- [Learning the ESG Geometry with Domain Aware Language Models](../../conferences/icml-2026/cards/3601-3700.md#pimparkhede26a-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -72,6 +74,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](../../conferences/icml-2026/cards/3301-3400.md#miller26a-representation-learning) · 中文
 - [Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion](../../conferences/icml-2026/cards/3301-3400.md#morbitzer26a-representation-learning) · 中文
 - [The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](../../conferences/icml-2026/cards/3501-3600.md#pach26a-representation-learning) · 中文
+- [FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds](../../conferences/icml-2026/cards/3601-3700.md#pegoraro26a-representation-learning) · 中文
+- [STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition](../../conferences/icml-2026/cards/3601-3700.md#peng26m-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -99,6 +103,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26f-representation-learning) · 中文
 - [Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26x-representation-learning) · 中文
 - [Debiased Model-based Representations for Sample-efficient Continuous Control](../../conferences/icml-2026/cards/3101-3200.md#lyu26f-representation-learning) · 中文
+- [Stable Deep Reinforcement Learning via Isotropic Gaussian Representations](../../conferences/icml-2026/cards/3601-3700.md#pasand26a-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -209,6 +214,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning to Extrapolate to New Tasks: A Relational Approach to Task Extrapolation](../../conferences/icml-2026/cards/3501-3600.md#ousherovitch26a-representation-learning) · 中文
 - [TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation](../../conferences/icml-2026/cards/3501-3600.md#park26a-representation-learning) · 中文
 - [Convergent World Representations and Divergent Tasks](../../conferences/icml-2026/cards/3501-3600.md#park26d-representation-learning) · 中文
+- [The Information Geometry of Softmax: Probing and Steering](../../conferences/icml-2026/cards/3501-3600.md#park26p-representation-learning) · 中文
+- [Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories](../../conferences/icml-2026/cards/3601-3700.md#pence26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -24,6 +24,8 @@
 - [代码仓功能依赖双视图](../conferences/icml-2026/cards/3001-3100.md#luo26ad-representation-learning) · Closing the Loop: Universal Repository Representation with RPG-Encoder
 - [用保结构函子探查 Transformer 的类比推理](../conferences/icml-2026/cards/3301-3400.md#minegishi26a-representation-learning) · Emergent Analogical Reasoning in Transformers
 - [局部事实学出支持多跳的全局嵌入](../conferences/icml-2026/cards/3401-3500.md#noroozizadeh26a-representation-learning) · Deep sequence models tend to memorize geometrically; it is unclear why
+- [用旧嵌入词典扩词](../conferences/icml-2026/cards/3601-3700.md#pethkar26a-representation-learning) · Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping
+- [有类型数值 token 与轨迹几何对齐](../conferences/icml-2026/cards/3601-3700.md#pimparkhede26a-representation-learning) · Learning the ESG Geometry with Domain Aware Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -72,6 +74,8 @@
 - [让图 minor 沿稀疏分割目标边界收缩](../conferences/icml-2026/cards/3301-3400.md#miller26a-representation-learning) · SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation
 - [独立预测相机位姿和三维场景变化](../conferences/icml-2026/cards/3301-3400.md#morbitzer26a-representation-learning) · Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion
 - [潜空间三维颜色子空间干预](../conferences/icml-2026/cards/3501-3600.md#pach26a-representation-learning) · The Latent Color Subspace: Emergent Order in High-Dimensional Chaos
+- [在运动相位流形中连续解码](../conferences/icml-2026/cards/3601-3700.md#pegoraro26a-representation-learning) · FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds
+- [图像条件纹理词典与类间拓扑](../conferences/icml-2026/cards/3601-3700.md#peng26m-representation-learning) · STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition
 
 <a id="by-nlp"></a>
 
@@ -99,6 +103,7 @@
 - [用不对称潜距离约束目标价值泛化](../conferences/icml-2026/cards/2001-2100.md#kang26f-representation-learning) · Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning
 - [用时距差表示可跨情境复用的动作变化](../conferences/icml-2026/cards/2101-2200.md#kim26x-representation-learning) · Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning
 - [动力学互信息与经验时效的联合去偏](../conferences/icml-2026/cards/3101-3200.md#lyu26f-representation-learning) · Debiased Model-based Representations for Sample-efficient Continuous Control
+- [用随机投影把 RL 表征约束为各向同性高斯](../conferences/icml-2026/cards/3601-3700.md#pasand26a-representation-learning) · Stable Deep Reinforcement Learning via Isotropic Gaussian Representations
 
 <a id="by-robotics"></a>
 
@@ -209,6 +214,8 @@
 - [将未见任务分解成已见锚与变换](../conferences/icml-2026/cards/3501-3600.md#ousherovitch26a-representation-learning) · Learning to Extrapolate to New Tasks: A Relational Approach to Task Extrapolation
 - [为数值箱同时保留次序和连续回归](../conferences/icml-2026/cards/3501-3600.md#park26a-representation-learning) · TabularBERT: Binning-Based Self-Supervised Learning for Tabular Representation
 - [独立测试世界表示对齐和新实体整合](../conferences/icml-2026/cards/3501-3600.md#park26d-representation-learning) · Convergent World Representations and Divergent Tasks
+- [在 softmax 对偶坐标中定向改概念](../conferences/icml-2026/cards/3501-3600.md#park26p-representation-learning) · The Information Geometry of Softmax: Probing and Steering
+- [上下文子空间张量绑定](../conferences/icml-2026/cards/3601-3700.md#pence26a-representation-learning) · Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories
 
 <a id="by-graph-and-recommendation"></a>
 

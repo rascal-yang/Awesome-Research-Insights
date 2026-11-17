@@ -32,6 +32,7 @@
 - <a id="miao26e-architecture"></a>[LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation](../conferences/icml-2026/cards/3201-3300.md#paper-miao26e)
 - <a id="mo26a-architecture"></a>[Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](../conferences/icml-2026/cards/3301-3400.md#paper-mo26a)
 - <a id="nikolentzos26a-architecture"></a>[InvGNN: Learning Invertible Node Representations on Graphs](../conferences/icml-2026/cards/3401-3500.md#paper-nikolentzos26a)
+- <a id="peng26e-architecture"></a>[Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning](../conferences/icml-2026/cards/3601-3700.md#paper-peng26e)
 
 <a id="by-modules"></a>
 
@@ -207,4 +208,5 @@
 - <a id="liu26ee-theory-statistics"></a>[Pseudo-Mallows for Efficient Probabilistic Preference Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ee)
 - <a id="maruyama26a-theory-statistics"></a>[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](../conferences/icml-2026/cards/3201-3300.md#paper-maruyama26a)
 - <a id="migali26a-theory-statistics"></a>[Learning to Rank from Incomplete Rankings](../conferences/icml-2026/cards/3201-3300.md#paper-migali26a)
+- <a id="park26x-theory-statistics"></a>[Quantile-Free Uncertainty Quantification in Graph Neural Networks](../conferences/icml-2026/cards/3601-3700.md#paper-park26x)
 <!-- classification:end -->

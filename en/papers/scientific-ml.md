@@ -104,6 +104,12 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="niu26e-architecture"></a>[Flexibility-Aware Geometric Latent Diffusion for Full-Atom Peptide Design](../../conferences/icml-2026/cards/3401-3500.md#paper-niu26e)
 - <a id="noguchi26a-architecture"></a>[Mesh Field Theory: Port–Hamiltonian Formulation of Mesh-Based Physics](../../conferences/icml-2026/cards/3401-3500.md#paper-noguchi26a)
 - <a id="palla26a-architecture"></a>[Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models](../../conferences/icml-2026/cards/3501-3600.md#paper-palla26a)
+- <a id="park26j-architecture"></a>[Euler–Poincaré Neural Dynamics: A Geometric-Mechanics Framework for Scientific Simulation](../../conferences/icml-2026/cards/3501-3600.md#paper-park26j)
+- <a id="park26n-architecture"></a>[SleepMaMi: A Universal Sleep Foundation Model for Integrating Macro- and Micro-structures](../../conferences/icml-2026/cards/3501-3600.md#paper-park26n)
+- <a id="park26aa-architecture"></a>[Generative Neural Operators through Diffusion Last Layer](../../conferences/icml-2026/cards/3601-3700.md#paper-park26aa)
+- <a id="patel26a-architecture"></a>[Insertion Based Sequence Generation with Learnable Order Dynamics](../../conferences/icml-2026/cards/3601-3700.md#paper-patel26a)
+- <a id="pei26b-architecture"></a>[Hyperbolic Neural Operator](../../conferences/icml-2026/cards/3601-3700.md#paper-pei26b)
+- <a id="piao26a-architecture"></a>[Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction](../../conferences/icml-2026/cards/3601-3700.md#paper-piao26a)
 
 <a id="by-modules"></a>
 
@@ -118,6 +124,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26cu-modules"></a>[Graph Rewiring based on Flow Alignment for Improving Fluid Simulation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cu)
 - <a id="mehouachi26a-modules"></a>[Fractional is Better: Learnable Derivative Orders in Neural Operator Learning](../../conferences/icml-2026/cards/3201-3300.md#paper-mehouachi26a)
 - <a id="mousavi26a-modules"></a>[Imposing Boundary Conditions on Neural Operators via Learned Function Extensions](../../conferences/icml-2026/cards/3301-3400.md#paper-mousavi26a)
+- <a id="peled26a-modules"></a>[Neural Minimum Weight Perfect Matching for Quantum Error Codes](../../conferences/icml-2026/cards/3601-3700.md#paper-peled26a)
 
 <a id="by-loss-functions"></a>
 
@@ -181,6 +188,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="oikonomou26a-optimization"></a>[Neuro-Symbolic AI for Analytical Solutions of Differential Equations](../../conferences/icml-2026/cards/3401-3500.md#paper-oikonomou26a)
 - <a id="pandey26a-optimization"></a>[Interpretability Driven Evolutionary Approach for the Design of Biological Sequences](../../conferences/icml-2026/cards/3501-3600.md#paper-pandey26a)
 - <a id="pang26f-optimization"></a>[Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs](../../conferences/icml-2026/cards/3501-3600.md#paper-pang26f)
+- <a id="park26k-optimization"></a>[Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces](../../conferences/icml-2026/cards/3501-3600.md#paper-park26k)
+- <a id="perez-vieites26a-optimization"></a>[Online Bayesian Experimental Design for Partially Observed Dynamical Systems](../../conferences/icml-2026/cards/3601-3700.md#paper-perez-vieites26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -288,6 +297,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="oufattole26a-inference"></a>[MoRGen: Mixture-of-Resolutions Generative Forecasting for Irregularly Sampled Medical Time-Series Data](../../conferences/icml-2026/cards/3501-3600.md#paper-oufattole26a)
 - <a id="ouyang26a-inference"></a>[PDAgent: An LLM-Driven Autonomous Agent Framework Towards *In Silico* Protein Design via Directed Mutation](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26a)
 - <a id="ouyang26c-inference"></a>[Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26c)
+- <a id="pedawi26a-inference"></a>[APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries](../../conferences/icml-2026/cards/3601-3700.md#paper-pedawi26a)
+- <a id="peng26d-inference"></a>[LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26d)
 
 <a id="by-representation-learning"></a>
 
@@ -388,6 +399,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="naagarajan26a-evaluation"></a>[Hierarchical Causal Abduction: A Foundation Framework for Explainable Model Predictive Control](../../conferences/icml-2026/cards/3301-3400.md#paper-naagarajan26a)
 - <a id="oota26a-evaluation"></a>[Linguistic Properties and Model Scale in Brain Encoding: From Small to Compressed Language Models](../../conferences/icml-2026/cards/3501-3600.md#paper-oota26a)
 - <a id="oublal26a-evaluation"></a>[TimeSAE: Causal Sparse Decoding for Faithful Explanations of Black-Box Time Series Models](../../conferences/icml-2026/cards/3501-3600.md#paper-oublal26a)
+- <a id="park26y-evaluation"></a>[SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection](../../conferences/icml-2026/cards/3601-3700.md#paper-park26y)
 
 <a id="by-theory-statistics"></a>
 

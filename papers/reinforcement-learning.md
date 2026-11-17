@@ -166,6 +166,11 @@
 - <a id="ota26a-reinforcement-learning"></a>[Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games](../conferences/icml-2026/cards/3501-3600.md#paper-ota26a)
 - <a id="overman26b-reinforcement-learning"></a>[The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy](../conferences/icml-2026/cards/3501-3600.md#paper-overman26b)
 - <a id="pan26n-reinforcement-learning"></a>[Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning](../conferences/icml-2026/cards/3501-3600.md#paper-pan26n)
+- <a id="park26o-reinforcement-learning"></a>[Constrained Multi-Objective Reinforcement Learning with Max-Min Criterion](../conferences/icml-2026/cards/3501-3600.md#paper-park26o)
+- <a id="park26q-reinforcement-learning"></a>[Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL](../conferences/icml-2026/cards/3501-3600.md#paper-park26q)
+- <a id="peng26f-reinforcement-learning"></a>[TACTIC: Task-Aware Sparse Coordination Graphs for Multi-Task Multi-agent Reinforcement Learning](../conferences/icml-2026/cards/3601-3700.md#paper-peng26f)
+- <a id="petitbois26a-reinforcement-learning"></a>[Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment](../conferences/icml-2026/cards/3601-3700.md#paper-petitbois26a)
+- <a id="pham26b-reinforcement-learning"></a>[Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset](../conferences/icml-2026/cards/3601-3700.md#paper-pham26b)
 
 <a id="by-training-strategies"></a>
 
@@ -175,6 +180,7 @@
 - <a id="liu26j-training-strategies"></a>[Active Curriculum Refinement for Reinforcement Learning](../conferences/icml-2026/cards/2701-2800.md#paper-liu26j)
 - <a id="mitsides26a-training-strategies"></a>[Dreaming in Code for Curriculum Learning in Open-Ended Worlds](../conferences/icml-2026/cards/3301-3400.md#paper-mitsides26a)
 - <a id="park26i-training-strategies"></a>[Adaptive Policy Backbone via Shared Network](../conferences/icml-2026/cards/3501-3600.md#paper-park26i)
+- <a id="park26w-training-strategies"></a>[Scalable Reinforcement Learning via Adaptive Batch Scaling](../conferences/icml-2026/cards/3501-3600.md#paper-park26w)
 
 <a id="by-data-strategies"></a>
 
@@ -213,6 +219,7 @@
 - <a id="kang26f-representation-learning"></a>[Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26f)
 - <a id="kim26x-representation-learning"></a>[Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](../conferences/icml-2026/cards/2101-2200.md#paper-kim26x)
 - <a id="lyu26f-representation-learning"></a>[Debiased Model-based Representations for Sample-efficient Continuous Control](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26f)
+- <a id="pasand26a-representation-learning"></a>[Stable Deep Reinforcement Learning via Isotropic Gaussian Representations](../conferences/icml-2026/cards/3601-3700.md#paper-pasand26a)
 
 <a id="by-evaluation"></a>
 
@@ -294,4 +301,5 @@
 - <a id="ni26c-theory-statistics"></a>[Constrained Meta Reinforcement Learning with Provable Test-Time Safety](../conferences/icml-2026/cards/3401-3500.md#paper-ni26c)
 - <a id="oh26a-theory-statistics"></a>[Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions](../conferences/icml-2026/cards/3401-3500.md#paper-oh26a)
 - <a id="palasamudram26a-theory-statistics"></a>[Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality](../conferences/icml-2026/cards/3501-3600.md#paper-palasamudram26a)
+- <a id="peng26o-theory-statistics"></a>[Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL](../conferences/icml-2026/cards/3601-3700.md#paper-peng26o)
 <!-- classification:end -->

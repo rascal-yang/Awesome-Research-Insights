@@ -112,6 +112,8 @@ Training schedules, curricula, and task or stage composition.
 - [Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities](../../conferences/icml-2026/cards/3501-3600.md#padmanabhan26a-training-strategies) · 中文
 - [Learnability-Informed Fine-Tuning of Diffusion Language Models](../../conferences/icml-2026/cards/3501-3600.md#parashar26a-training-strategies) · 中文
 - [Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach](../../conferences/icml-2026/cards/3501-3600.md#park26b-training-strategies) · 中文
+- [Privileged Information Distillation for Language Models](../../conferences/icml-2026/cards/3601-3700.md#penaloza26a-training-strategies) · 中文
+- [PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning](../../conferences/icml-2026/cards/3601-3700.md#peng26l-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -189,6 +191,7 @@ Training schedules, curricula, and task or stage composition.
 - [Active Curriculum Refinement for Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#liu26j-training-strategies) · 中文
 - [Dreaming in Code for Curriculum Learning in Open-Ended Worlds](../../conferences/icml-2026/cards/3301-3400.md#mitsides26a-training-strategies) · 中文
 - [Adaptive Policy Backbone via Shared Network](../../conferences/icml-2026/cards/3501-3600.md#park26i-training-strategies) · 中文
+- [Scalable Reinforcement Learning via Adaptive Batch Scaling](../../conferences/icml-2026/cards/3501-3600.md#park26w-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -255,6 +258,9 @@ Training schedules, curricula, and task or stage composition.
 - [From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](../../conferences/icml-2026/cards/3401-3500.md#oi26a-training-strategies) · 中文
 - [Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](../../conferences/icml-2026/cards/3501-3600.md#pang26b-training-strategies) · 中文
 - [STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits](../../conferences/icml-2026/cards/3501-3600.md#paraperas-papantoniou26a-training-strategies) · 中文
+- [V-LynX: Token Interface Alignment for Video+X LLMs](../../conferences/icml-2026/cards/3501-3600.md#park26m-training-strategies) · 中文
+- [IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring](../../conferences/icml-2026/cards/3601-3700.md#peng26j-training-strategies) · 中文
+- [SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](../../conferences/icml-2026/cards/3601-3700.md#peng26n-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -317,6 +323,7 @@ Training schedules, curricula, and task or stage composition.
 - [Compositional Generative Modeling from Decentralized Data](../../conferences/icml-2026/cards/3301-3400.md#morshed26a-training-strategies) · 中文
 - [Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models](../../conferences/icml-2026/cards/3301-3400.md#na26b-training-strategies) · 中文
 - [Tail Annealing for Heavy-Tailed Flow Matching](../../conferences/icml-2026/cards/3501-3600.md#pachebat26a-training-strategies) · 中文
+- [Saliency-Aware Model Merging](../../conferences/icml-2026/cards/3501-3600.md#park26l-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

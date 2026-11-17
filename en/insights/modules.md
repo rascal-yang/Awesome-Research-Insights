@@ -46,6 +46,8 @@ Reusable components and local changes to model inputs or connections.
 - [You Need Better Attention Priors](../../conferences/icml-2026/cards/2701-2800.md#litman26a-modules) · 中文
 - [Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining](../../conferences/icml-2026/cards/3301-3400.md#mitchell26a-modules) · 中文
 - [Q-Delta: Beyond Key–Value Associative State Evolution](../../conferences/icml-2026/cards/3501-3600.md#park26f-modules) · 中文
+- [STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning](../../conferences/icml-2026/cards/3501-3600.md#park26u-modules) · 中文
+- [Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](../../conferences/icml-2026/cards/3601-3700.md#pepper26a-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -178,6 +180,7 @@ Reusable components and local changes to model inputs or connections.
 - [Batch Normalization for Neural Networks on Complex Domains](../../conferences/icml-2026/cards/3401-3500.md#nguyen26e-modules) · 中文
 - [MuonSSM: Orthogonalizing State Space Models for Sequence Modeling](../../conferences/icml-2026/cards/3401-3500.md#nguyen26t-modules) · 中文
 - [DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers](../../conferences/icml-2026/cards/3501-3600.md#pal26a-modules) · 中文
+- [Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data](../../conferences/icml-2026/cards/3601-3700.md#pertigkiozoglou26a-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -204,4 +207,5 @@ Reusable components and local changes to model inputs or connections.
 - [Graph Rewiring based on Flow Alignment for Improving Fluid Simulation](../../conferences/icml-2026/cards/2401-2500.md#li26cu-modules) · 中文
 - [Fractional is Better: Learnable Derivative Orders in Neural Operator Learning](../../conferences/icml-2026/cards/3201-3300.md#mehouachi26a-modules) · 中文
 - [Imposing Boundary Conditions on Neural Operators via Learned Function Extensions](../../conferences/icml-2026/cards/3301-3400.md#mousavi26a-modules) · 中文
+- [Neural Minimum Weight Perfect Matching for Quantum Error Codes](../../conferences/icml-2026/cards/3601-3700.md#peled26a-modules) · 中文
 <!-- classification:end -->

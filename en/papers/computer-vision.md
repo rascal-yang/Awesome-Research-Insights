@@ -344,6 +344,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="moreira26a-inference"></a>[Spectral Guidance for Flexible and Efficient Control of Diffusion Models](../../conferences/icml-2026/cards/3301-3400.md#paper-moreira26a)
 - <a id="nguyen26q-inference"></a>[Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance](../../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26q)
 - <a id="oettinger26a-inference"></a>[Towards Diffeomorphism-Equivariant Neural Networks via Canonicalization](../../conferences/icml-2026/cards/3401-3500.md#paper-oettinger26a)
+- <a id="park26z-inference"></a>[Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion](../../conferences/icml-2026/cards/3601-3700.md#paper-park26z)
 
 <a id="by-representation-learning"></a>
 
@@ -392,6 +393,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="miller26a-representation-learning"></a>[SEMIR: Semantic Minor-Induced Representation Learning on Graphs for Visual Segmentation](../../conferences/icml-2026/cards/3301-3400.md#paper-miller26a)
 - <a id="morbitzer26a-representation-learning"></a>[Future Dynamic 3D Reconstruction: Toward 3D World Modeling with Disentangled Ego-Motion](../../conferences/icml-2026/cards/3301-3400.md#paper-morbitzer26a)
 - <a id="pach26a-representation-learning"></a>[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](../../conferences/icml-2026/cards/3501-3600.md#paper-pach26a)
+- <a id="pegoraro26a-representation-learning"></a>[FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds](../../conferences/icml-2026/cards/3601-3700.md#paper-pegoraro26a)
+- <a id="peng26m-representation-learning"></a>[STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26m)
 
 <a id="by-evaluation"></a>
 

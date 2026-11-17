@@ -40,6 +40,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="melechovsky26a-architecture"></a>[SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering](../../conferences/icml-2026/cards/3201-3300.md#paper-melechovsky26a)
 - <a id="meng26a-architecture"></a>[Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26a)
 - <a id="mi26b-architecture"></a>[Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../../conferences/icml-2026/cards/3201-3300.md#paper-mi26b)
+- <a id="peng26k-architecture"></a>[Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26k)
 
 <a id="by-modules"></a>
 
@@ -92,6 +93,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="mirvakhabova26a-loss-functions"></a>[Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs](../../conferences/icml-2026/cards/3301-3400.md#paper-mirvakhabova26a)
 - <a id="novello26a-loss-functions"></a>[A Unified Framework for Diffusion Model Unlearning with f-Divergence](../../conferences/icml-2026/cards/3401-3500.md#paper-novello26a)
 - <a id="pan26m-loss-functions"></a>[Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26m)
+- <a id="pellicer26a-loss-functions"></a>[CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning](../../conferences/icml-2026/cards/3601-3700.md#paper-pellicer26a)
 
 <a id="by-optimization"></a>
 
@@ -202,6 +204,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="oi26a-training-strategies"></a>[From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](../../conferences/icml-2026/cards/3401-3500.md#paper-oi26a)
 - <a id="pang26b-training-strategies"></a>[Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](../../conferences/icml-2026/cards/3501-3600.md#paper-pang26b)
 - <a id="paraperas-papantoniou26a-training-strategies"></a>[STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits](../../conferences/icml-2026/cards/3501-3600.md#paper-paraperas-papantoniou26a)
+- <a id="park26m-training-strategies"></a>[V-LynX: Token Interface Alignment for Video+X LLMs](../../conferences/icml-2026/cards/3501-3600.md#paper-park26m)
+- <a id="peng26j-training-strategies"></a>[IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26j)
+- <a id="peng26n-training-strategies"></a>[SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26n)
 
 <a id="by-data-strategies"></a>
 
@@ -311,6 +316,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ning26b-inference"></a>[V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning](../../conferences/icml-2026/cards/3401-3500.md#paper-ning26b)
 - <a id="ouyang26f-inference"></a>[ReaForest: Fostering Generative Video Reasoning for Spatial Planning](../../conferences/icml-2026/cards/3501-3600.md#paper-ouyang26f)
 - <a id="pang26a-inference"></a>[Decouple and Cache: KV Cache Construction for Streaming Video Understanding](../../conferences/icml-2026/cards/3501-3600.md#paper-pang26a)
+- <a id="peng26g-inference"></a>[MIST: Moment-Aligned Invariant Stability Transform for Robust Flow Matching](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26g)
+- <a id="peng26i-inference"></a>[A Close Look at Negative Label Guided Out-of-distribution Detection in Pre-trained Vision-Language Models](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26i)
 
 <a id="by-representation-learning"></a>
 

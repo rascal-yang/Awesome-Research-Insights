@@ -142,6 +142,8 @@
 - [多智能体攻防共训练](../conferences/icml-2026/cards/3501-3600.md#pan26p-reinforcement-learning) · AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning
 - [难度组稳健强化训练](../conferences/icml-2026/cards/3501-3600.md#panaganti26a-reinforcement-learning) · Group Distributionally Robust Optimization-Driven RL for LLM Reasoning
 - [为长期代理分开训练子目标和原子动作](../conferences/icml-2026/cards/3501-3600.md#park26h-reinforcement-learning) · $\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments
+- [用成对偏好共训安全攻防](../conferences/icml-2026/cards/3601-3700.md#paulus26b-reinforcement-learning) · Safety Alignment of LMs via Non-cooperative Games
+- [计划执行分层信用](../conferences/icml-2026/cards/3601-3700.md#peng26h-reinforcement-learning) · HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents
 
 <a id="by-computer-vision"></a>
 
@@ -287,6 +289,11 @@
 - [联合约束自博弈更新步幅与探索](../conferences/icml-2026/cards/3501-3600.md#ota26a-reinforcement-learning) · Revisiting Regularized Policy Optimization for Stable and Efficient Reinforcement Learning in Two-Player Games
 - [把询问与监督协调做成马尔可夫博弈](../conferences/icml-2026/cards/3501-3600.md#overman26b-reinforcement-learning) · The Oversight Game: Learning to Cooperatively Balance an AI Agent’s Safety and Autonomy
 - [随机到达规避证书](../conferences/icml-2026/cards/3501-3600.md#pan26n-reinforcement-learning) · Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning
+- [在最大化最差组回报时显式约束累积成本](../conferences/icml-2026/cards/3501-3600.md#park26o-reinforcement-learning) · Constrained Multi-Objective Reinforcement Learning with Max-Min Criterion
+- [给回放重标技能并保留自体运动线索](../conferences/icml-2026/cards/3501-3600.md#park26q-reinforcement-learning) · Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL
+- [轨迹条件动态协调](../conferences/icml-2026/cards/3601-3700.md#peng26f-reinforcement-learning) · TACTIC: Task-Aware Sparse Coordination Graphs for Multi-Task Multi-agent Reinforcement Learning
+- [以风格优势门控任务回报](../conferences/icml-2026/cards/3601-3700.md#petitbois26a-reinforcement-learning) · Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment
+- [在占用分布两端加入共同参照](../conferences/icml-2026/cards/3601-3700.md#pham26b-reinforcement-learning) · Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset
 
 <a id="by-robotics"></a>
 
@@ -309,6 +316,7 @@
 - [视频最优传输偏好传播](../conferences/icml-2026/cards/3001-3100.md#luu26a-reinforcement-learning) · Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning
 - [逐步将物体控制交给双手策略](../conferences/icml-2026/cards/3201-3300.md#mandi26a-reinforcement-learning) · DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation
 - [用正式奖励与残差偏好共同训练机器人](../conferences/icml-2026/cards/3401-3500.md#ni26d-reinforcement-learning) · CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning
+- [用离策略 Critic 更新生成控制策略的完整去噪轨迹](../conferences/icml-2026/cards/3601-3700.md#patil26a-reinforcement-learning) · OGPO: Sample Efficient Full-Finetuning of Generative Control Policies
 
 <a id="by-multimodal"></a>
 

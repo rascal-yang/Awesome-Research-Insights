@@ -3585,86 +3585,86 @@ number	pmlr_id	title	paper_url	insight_status
 3584	park26g	Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning	https://proceedings.mlr.press/v306/park26g.html	written
 3585	park26h	$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments	https://proceedings.mlr.press/v306/park26h.html	written
 3586	park26i	Adaptive Policy Backbone via Shared Network	https://proceedings.mlr.press/v306/park26i.html	written
-3587	park26j	Euler–Poincaré Neural Dynamics: A Geometric-Mechanics Framework for Scientific Simulation	https://proceedings.mlr.press/v306/park26j.html	pending
-3588	park26k	Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces	https://proceedings.mlr.press/v306/park26k.html	pending
-3589	park26l	Saliency-Aware Model Merging	https://proceedings.mlr.press/v306/park26l.html	pending
-3590	park26m	V-LynX: Token Interface Alignment for Video+X LLMs	https://proceedings.mlr.press/v306/park26m.html	pending
-3591	park26n	SleepMaMi: A Universal Sleep Foundation Model for Integrating Macro- and Micro-structures	https://proceedings.mlr.press/v306/park26n.html	pending
-3592	park26o	Constrained Multi-Objective Reinforcement Learning with Max-Min Criterion	https://proceedings.mlr.press/v306/park26o.html	pending
-3593	park26p	The Information Geometry of Softmax: Probing and Steering	https://proceedings.mlr.press/v306/park26p.html	pending
-3594	park26q	Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL	https://proceedings.mlr.press/v306/park26q.html	pending
-3595	park26r	Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients	https://proceedings.mlr.press/v306/park26r.html	pending
-3596	park26s	On Expressive Power of Floating-Point Transformers	https://proceedings.mlr.press/v306/park26s.html	pending
-3597	park26t	On Minimum Depth and Width of Floating-Point Neural Networks for Representing Floating-Point Functions	https://proceedings.mlr.press/v306/park26t.html	pending
-3598	park26u	STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning	https://proceedings.mlr.press/v306/park26u.html	pending
-3599	park26v	Bridging the Knowledge-Prediction Gap in LLMs on Multiple-Choice Questions	https://proceedings.mlr.press/v306/park26v.html	pending
-3600	park26w	Scalable Reinforcement Learning via Adaptive Batch Scaling	https://proceedings.mlr.press/v306/park26w.html	pending
-3601	park26x	Quantile-Free Uncertainty Quantification in Graph Neural Networks	https://proceedings.mlr.press/v306/park26x.html	pending
-3602	park26y	SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection	https://proceedings.mlr.press/v306/park26y.html	pending
-3603	park26z	Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion	https://proceedings.mlr.press/v306/park26z.html	pending
-3604	park26aa	Generative Neural Operators through Diffusion Last Layer	https://proceedings.mlr.press/v306/park26aa.html	pending
-3605	parker26a	TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction	https://proceedings.mlr.press/v306/parker26a.html	pending
-3606	parley26a	Deep networks learn to parse uniform-depth context-free languages from local statistics	https://proceedings.mlr.press/v306/parley26a.html	pending
-3607	parys26a	Constrained Adaptive Rejection Sampling	https://proceedings.mlr.press/v306/parys26a.html	pending
-3608	pasand26a	Stable Deep Reinforcement Learning via Isotropic Gaussian Representations	https://proceedings.mlr.press/v306/pasand26a.html	pending
-3609	patel26a	Insertion Based Sequence Generation with Learnable Order Dynamics	https://proceedings.mlr.press/v306/patel26a.html	pending
-3610	patil26a	OGPO: Sample Efficient Full-Finetuning of Generative Control Policies	https://proceedings.mlr.press/v306/patil26a.html	pending
-3611	pattnayak26a	Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints	https://proceedings.mlr.press/v306/pattnayak26a.html	pending
-3612	paulus26a	SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients	https://proceedings.mlr.press/v306/paulus26a.html	pending
-3613	paulus26b	Safety Alignment of LMs via Non-cooperative Games	https://proceedings.mlr.press/v306/paulus26b.html	pending
-3614	pautrel26a	Riemannian stochastic optimization for sufficient dimension reduction	https://proceedings.mlr.press/v306/pautrel26a.html	pending
-3615	pedawi26a	APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries	https://proceedings.mlr.press/v306/pedawi26a.html	pending
-3616	pegoraro26a	FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds	https://proceedings.mlr.press/v306/pegoraro26a.html	pending
-3617	pei26a	When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning	https://proceedings.mlr.press/v306/pei26a.html	pending
-3618	pei26b	Hyperbolic Neural Operator	https://proceedings.mlr.press/v306/pei26b.html	pending
-3619	pei26c	CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification	https://proceedings.mlr.press/v306/pei26c.html	pending
-3620	pei26d	Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation	https://proceedings.mlr.press/v306/pei26d.html	pending
-3621	peled26a	Neural Minimum Weight Perfect Matching for Quantum Error Codes	https://proceedings.mlr.press/v306/peled26a.html	pending
-3622	pellicer26a	CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning	https://proceedings.mlr.press/v306/pellicer26a.html	pending
-3623	penaloza26a	Privileged Information Distillation for Language Models	https://proceedings.mlr.press/v306/penaloza26a.html	pending
-3624	pence26a	Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories	https://proceedings.mlr.press/v306/pence26a.html	pending
-3625	peng26a	Forget to Know, Remember to Use: Context-Aware Unlearning for Large Language Models	https://proceedings.mlr.press/v306/peng26a.html	pending
-3626	peng26b	Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation	https://proceedings.mlr.press/v306/peng26b.html	pending
-3627	peng26c	CauScale: Neural Causal Discovery at Scale	https://proceedings.mlr.press/v306/peng26c.html	pending
-3628	peng26d	LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation	https://proceedings.mlr.press/v306/peng26d.html	pending
-3629	peng26e	Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning	https://proceedings.mlr.press/v306/peng26e.html	pending
-3630	peng26f	TACTIC: Task-Aware Sparse Coordination Graphs for Multi-Task Multi-agent Reinforcement Learning	https://proceedings.mlr.press/v306/peng26f.html	pending
-3631	peng26g	MIST: Moment-Aligned Invariant Stability Transform for Robust Flow Matching	https://proceedings.mlr.press/v306/peng26g.html	pending
-3632	peng26h	HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents	https://proceedings.mlr.press/v306/peng26h.html	pending
-3633	peng26i	A Close Look at Negative Label Guided Out-of-distribution Detection in Pre-trained Vision-Language Models	https://proceedings.mlr.press/v306/peng26i.html	pending
-3634	peng26j	IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring	https://proceedings.mlr.press/v306/peng26j.html	pending
-3635	peng26k	Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification	https://proceedings.mlr.press/v306/peng26k.html	pending
-3636	peng26l	PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning	https://proceedings.mlr.press/v306/peng26l.html	pending
-3637	peng26m	STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition	https://proceedings.mlr.press/v306/peng26m.html	pending
-3638	peng26n	SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection	https://proceedings.mlr.press/v306/peng26n.html	pending
-3639	peng26o	Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL	https://proceedings.mlr.press/v306/peng26o.html	pending
-3640	pepper26a	Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs	https://proceedings.mlr.press/v306/pepper26a.html	pending
-3641	perez-vieites26a	Online Bayesian Experimental Design for Partially Observed Dynamical Systems	https://proceedings.mlr.press/v306/perez-vieites26a.html	pending
-3642	persiianov26a	Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization	https://proceedings.mlr.press/v306/persiianov26a.html	pending
-3643	pertigkiozoglou26a	Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data	https://proceedings.mlr.press/v306/pertigkiozoglou26a.html	pending
-3644	petersen26a	Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation	https://proceedings.mlr.press/v306/petersen26a.html	pending
-3645	pethkar26a	Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping	https://proceedings.mlr.press/v306/pethkar26a.html	pending
-3646	petitbois26a	Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment	https://proceedings.mlr.press/v306/petitbois26a.html	pending
-3647	petrov26a	BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs	https://proceedings.mlr.press/v306/petrov26a.html	pending
-3648	petrova26a	Pressure Reveals Character: Behavioural Alignment Evaluation at Depth	https://proceedings.mlr.press/v306/petrova26a.html	pending
-3649	petrova26b	Geometric Entropy and Retrieval Phase Transitions in Continuous Dense Associative Memory	https://proceedings.mlr.press/v306/petrova26b.html	pending
-3650	pfaff26a	SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes	https://proceedings.mlr.press/v306/pfaff26a.html	pending
-3651	pham26a	Decomposing Out-of-Distribution Error in Conditional Flow Matching via Wasserstein Geometry	https://proceedings.mlr.press/v306/pham26a.html	pending
-3652	pham26b	Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset	https://proceedings.mlr.press/v306/pham26b.html	pending
-3653	pham26c	Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation	https://proceedings.mlr.press/v306/pham26c.html	pending
-3654	phan26a	Automatic Unsupervised Ensemble Outlier Model Selection	https://proceedings.mlr.press/v306/phan26a.html	pending
-3655	pi26a	Learning Manifold Data with Flow Matching	https://proceedings.mlr.press/v306/pi26a.html	pending
-3656	piao26a	Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction	https://proceedings.mlr.press/v306/piao26a.html	pending
-3657	piao26b	MarketSim: Simulating Stock Markets with Large-Scale Generative Agents	https://proceedings.mlr.press/v306/piao26b.html	pending
-3658	pieper-sethmacher26a	Infinite-Dimensional Generative Diffusions via Doob’s h-Transform	https://proceedings.mlr.press/v306/pieper-sethmacher26a.html	pending
-3659	pillaud-vivien26a	Joint Learning in the Gaussian Single Index Model	https://proceedings.mlr.press/v306/pillaud-vivien26a.html	pending
-3660	pimparkhede26a	Learning the ESG Geometry with Domain Aware Language Models	https://proceedings.mlr.press/v306/pimparkhede26a.html	pending
-3661	pink26a	Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models	https://proceedings.mlr.press/v306/pink26a.html	pending
-3662	pinna26a	ParalESN: Enabling parallel information processing in Reservoir Computing	https://proceedings.mlr.press/v306/pinna26a.html	pending
-3663	pinto26a	Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs	https://proceedings.mlr.press/v306/pinto26a.html	pending
-3664	pion26a	Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization	https://proceedings.mlr.press/v306/pion26a.html	pending
-3665	pipis26a	Wait, Wait, Wait... Why Do Reasoning Models Loop?	https://proceedings.mlr.press/v306/pipis26a.html	pending
-3666	piskorz26a	Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models	https://proceedings.mlr.press/v306/piskorz26a.html	pending
+3587	park26j	Euler–Poincaré Neural Dynamics: A Geometric-Mechanics Framework for Scientific Simulation	https://proceedings.mlr.press/v306/park26j.html	written
+3588	park26k	Functional Adjoint Sampler: Scalable Sampling on Infinite Dimensional Spaces	https://proceedings.mlr.press/v306/park26k.html	written
+3589	park26l	Saliency-Aware Model Merging	https://proceedings.mlr.press/v306/park26l.html	written
+3590	park26m	V-LynX: Token Interface Alignment for Video+X LLMs	https://proceedings.mlr.press/v306/park26m.html	written
+3591	park26n	SleepMaMi: A Universal Sleep Foundation Model for Integrating Macro- and Micro-structures	https://proceedings.mlr.press/v306/park26n.html	written
+3592	park26o	Constrained Multi-Objective Reinforcement Learning with Max-Min Criterion	https://proceedings.mlr.press/v306/park26o.html	written
+3593	park26p	The Information Geometry of Softmax: Probing and Steering	https://proceedings.mlr.press/v306/park26p.html	written
+3594	park26q	Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL	https://proceedings.mlr.press/v306/park26q.html	written
+3595	park26r	Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients	https://proceedings.mlr.press/v306/park26r.html	written
+3596	park26s	On Expressive Power of Floating-Point Transformers	https://proceedings.mlr.press/v306/park26s.html	written
+3597	park26t	On Minimum Depth and Width of Floating-Point Neural Networks for Representing Floating-Point Functions	https://proceedings.mlr.press/v306/park26t.html	written
+3598	park26u	STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning	https://proceedings.mlr.press/v306/park26u.html	written
+3599	park26v	Bridging the Knowledge-Prediction Gap in LLMs on Multiple-Choice Questions	https://proceedings.mlr.press/v306/park26v.html	written
+3600	park26w	Scalable Reinforcement Learning via Adaptive Batch Scaling	https://proceedings.mlr.press/v306/park26w.html	written
+3601	park26x	Quantile-Free Uncertainty Quantification in Graph Neural Networks	https://proceedings.mlr.press/v306/park26x.html	written
+3602	park26y	SeisMark: A Large-Scale Open Benchmark for Robust 3D Seismic Fault Detection	https://proceedings.mlr.press/v306/park26y.html	written
+3603	park26z	Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion	https://proceedings.mlr.press/v306/park26z.html	written
+3604	park26aa	Generative Neural Operators through Diffusion Last Layer	https://proceedings.mlr.press/v306/park26aa.html	written
+3605	parker26a	TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction	https://proceedings.mlr.press/v306/parker26a.html	written
+3606	parley26a	Deep networks learn to parse uniform-depth context-free languages from local statistics	https://proceedings.mlr.press/v306/parley26a.html	written
+3607	parys26a	Constrained Adaptive Rejection Sampling	https://proceedings.mlr.press/v306/parys26a.html	written
+3608	pasand26a	Stable Deep Reinforcement Learning via Isotropic Gaussian Representations	https://proceedings.mlr.press/v306/pasand26a.html	written
+3609	patel26a	Insertion Based Sequence Generation with Learnable Order Dynamics	https://proceedings.mlr.press/v306/patel26a.html	written
+3610	patil26a	OGPO: Sample Efficient Full-Finetuning of Generative Control Policies	https://proceedings.mlr.press/v306/patil26a.html	written
+3611	pattnayak26a	Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints	https://proceedings.mlr.press/v306/pattnayak26a.html	written
+3612	paulus26a	SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients	https://proceedings.mlr.press/v306/paulus26a.html	written
+3613	paulus26b	Safety Alignment of LMs via Non-cooperative Games	https://proceedings.mlr.press/v306/paulus26b.html	written
+3614	pautrel26a	Riemannian stochastic optimization for sufficient dimension reduction	https://proceedings.mlr.press/v306/pautrel26a.html	written
+3615	pedawi26a	APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries	https://proceedings.mlr.press/v306/pedawi26a.html	written
+3616	pegoraro26a	FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds	https://proceedings.mlr.press/v306/pegoraro26a.html	written
+3617	pei26a	When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning	https://proceedings.mlr.press/v306/pei26a.html	written
+3618	pei26b	Hyperbolic Neural Operator	https://proceedings.mlr.press/v306/pei26b.html	written
+3619	pei26c	CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification	https://proceedings.mlr.press/v306/pei26c.html	written
+3620	pei26d	Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation	https://proceedings.mlr.press/v306/pei26d.html	written
+3621	peled26a	Neural Minimum Weight Perfect Matching for Quantum Error Codes	https://proceedings.mlr.press/v306/peled26a.html	written
+3622	pellicer26a	CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning	https://proceedings.mlr.press/v306/pellicer26a.html	written
+3623	penaloza26a	Privileged Information Distillation for Language Models	https://proceedings.mlr.press/v306/penaloza26a.html	written
+3624	pence26a	Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories	https://proceedings.mlr.press/v306/pence26a.html	written
+3625	peng26a	Forget to Know, Remember to Use: Context-Aware Unlearning for Large Language Models	https://proceedings.mlr.press/v306/peng26a.html	written
+3626	peng26b	Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation	https://proceedings.mlr.press/v306/peng26b.html	written
+3627	peng26c	CauScale: Neural Causal Discovery at Scale	https://proceedings.mlr.press/v306/peng26c.html	written
+3628	peng26d	LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation	https://proceedings.mlr.press/v306/peng26d.html	written
+3629	peng26e	Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning	https://proceedings.mlr.press/v306/peng26e.html	written
+3630	peng26f	TACTIC: Task-Aware Sparse Coordination Graphs for Multi-Task Multi-agent Reinforcement Learning	https://proceedings.mlr.press/v306/peng26f.html	written
+3631	peng26g	MIST: Moment-Aligned Invariant Stability Transform for Robust Flow Matching	https://proceedings.mlr.press/v306/peng26g.html	written
+3632	peng26h	HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents	https://proceedings.mlr.press/v306/peng26h.html	written
+3633	peng26i	A Close Look at Negative Label Guided Out-of-distribution Detection in Pre-trained Vision-Language Models	https://proceedings.mlr.press/v306/peng26i.html	written
+3634	peng26j	IQA-Spider: Unifying Multi-Granularity Image Quality Assessment with Reasoning, Grounding and Referring	https://proceedings.mlr.press/v306/peng26j.html	written
+3635	peng26k	Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification	https://proceedings.mlr.press/v306/peng26k.html	written
+3636	peng26l	PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning	https://proceedings.mlr.press/v306/peng26l.html	written
+3637	peng26m	STD-Former: Image-Conditioned Texture Dictionary Encoding with Sparse Topological Supervision for Texture Recognition	https://proceedings.mlr.press/v306/peng26m.html	written
+3638	peng26n	SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection	https://proceedings.mlr.press/v306/peng26n.html	written
+3639	peng26o	Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL	https://proceedings.mlr.press/v306/peng26o.html	written
+3640	pepper26a	Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs	https://proceedings.mlr.press/v306/pepper26a.html	written
+3641	perez-vieites26a	Online Bayesian Experimental Design for Partially Observed Dynamical Systems	https://proceedings.mlr.press/v306/perez-vieites26a.html	written
+3642	persiianov26a	Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization	https://proceedings.mlr.press/v306/persiianov26a.html	written
+3643	pertigkiozoglou26a	Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data	https://proceedings.mlr.press/v306/pertigkiozoglou26a.html	written
+3644	petersen26a	Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation	https://proceedings.mlr.press/v306/petersen26a.html	written
+3645	pethkar26a	Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping	https://proceedings.mlr.press/v306/pethkar26a.html	written
+3646	petitbois26a	Offline Reinforcement Learning of High-Quality Behaviors Under Robust Style Alignment	https://proceedings.mlr.press/v306/petitbois26a.html	written
+3647	petrov26a	BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs	https://proceedings.mlr.press/v306/petrov26a.html	written
+3648	petrova26a	Pressure Reveals Character: Behavioural Alignment Evaluation at Depth	https://proceedings.mlr.press/v306/petrova26a.html	written
+3649	petrova26b	Geometric Entropy and Retrieval Phase Transitions in Continuous Dense Associative Memory	https://proceedings.mlr.press/v306/petrova26b.html	written
+3650	pfaff26a	SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes	https://proceedings.mlr.press/v306/pfaff26a.html	written
+3651	pham26a	Decomposing Out-of-Distribution Error in Conditional Flow Matching via Wasserstein Geometry	https://proceedings.mlr.press/v306/pham26a.html	written
+3652	pham26b	Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset	https://proceedings.mlr.press/v306/pham26b.html	written
+3653	pham26c	Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation	https://proceedings.mlr.press/v306/pham26c.html	written
+3654	phan26a	Automatic Unsupervised Ensemble Outlier Model Selection	https://proceedings.mlr.press/v306/phan26a.html	written
+3655	pi26a	Learning Manifold Data with Flow Matching	https://proceedings.mlr.press/v306/pi26a.html	written
+3656	piao26a	Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction	https://proceedings.mlr.press/v306/piao26a.html	written
+3657	piao26b	MarketSim: Simulating Stock Markets with Large-Scale Generative Agents	https://proceedings.mlr.press/v306/piao26b.html	written
+3658	pieper-sethmacher26a	Infinite-Dimensional Generative Diffusions via Doob’s h-Transform	https://proceedings.mlr.press/v306/pieper-sethmacher26a.html	written
+3659	pillaud-vivien26a	Joint Learning in the Gaussian Single Index Model	https://proceedings.mlr.press/v306/pillaud-vivien26a.html	written
+3660	pimparkhede26a	Learning the ESG Geometry with Domain Aware Language Models	https://proceedings.mlr.press/v306/pimparkhede26a.html	written
+3661	pink26a	Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models	https://proceedings.mlr.press/v306/pink26a.html	written
+3662	pinna26a	ParalESN: Enabling parallel information processing in Reservoir Computing	https://proceedings.mlr.press/v306/pinna26a.html	written
+3663	pinto26a	Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs	https://proceedings.mlr.press/v306/pinto26a.html	written
+3664	pion26a	Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization	https://proceedings.mlr.press/v306/pion26a.html	written
+3665	pipis26a	Wait, Wait, Wait... Why Do Reasoning Models Loop?	https://proceedings.mlr.press/v306/pipis26a.html	written
+3666	piskorz26a	Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models	https://proceedings.mlr.press/v306/piskorz26a.html	written
 3667	pitre26a	A Diagnostic Study of Multi-Agent LLMs for Real-World Debates	https://proceedings.mlr.press/v306/pitre26a.html	pending
 3668	plaud26a	Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference	https://proceedings.mlr.press/v306/plaud26a.html	pending
 3669	plitsis26a	Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search	https://proceedings.mlr.press/v306/plitsis26a.html	pending

@@ -56,6 +56,8 @@ Model-wide design and information flow.
 - [Rational Transductors](../../conferences/icml-2026/cards/3301-3400.md#mohri26a-architecture) · 中文
 - [Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule](../../conferences/icml-2026/cards/3401-3500.md#nguyen26i-architecture) · 中文
 - [MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](../../conferences/icml-2026/cards/3401-3500.md#nother26a-architecture) · 中文
+- [TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../../conferences/icml-2026/cards/3601-3700.md#parker26a-architecture) · 中文
+- [MarketSim: Simulating Stock Markets with Large-Scale Generative Agents](../../conferences/icml-2026/cards/3601-3700.md#piao26b-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -193,6 +195,7 @@ Model-wide design and information flow.
 - [SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering](../../conferences/icml-2026/cards/3201-3300.md#melechovsky26a-architecture) · 中文
 - [Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration](../../conferences/icml-2026/cards/3201-3300.md#meng26a-architecture) · 中文
 - [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../../conferences/icml-2026/cards/3201-3300.md#mi26b-architecture) · 中文
+- [Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../../conferences/icml-2026/cards/3601-3700.md#peng26k-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -247,6 +250,8 @@ Model-wide design and information flow.
 - [gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../../conferences/icml-2026/cards/3401-3500.md#noack26a-architecture) · 中文
 - [Skipping the Zeros in Diffusion Models for Sparse Data Generation](../../conferences/icml-2026/cards/3501-3600.md#ostheimer26a-architecture) · 中文
 - [SoftBinary Coding: A New Information-Theoretic Paradigm for Neural Compression via Fast Channel Simulation](../../conferences/icml-2026/cards/3501-3600.md#ozyilkan26a-architecture) · 中文
+- [CauScale: Neural Causal Discovery at Scale](../../conferences/icml-2026/cards/3601-3700.md#peng26c-architecture) · 中文
+- [ParalESN: Enabling parallel information processing in Reservoir Computing](../../conferences/icml-2026/cards/3601-3700.md#pinna26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -271,6 +276,7 @@ Model-wide design and information flow.
 - [LLM-MatLogic: Executable Exchange Contracts for Knowledge-Graph Query Answering with Scoped Negation](../../conferences/icml-2026/cards/3201-3300.md#miao26e-architecture) · 中文
 - [Entangled No More: Multi-Domain Decoupling for Robust Dynamic Graph Neural Networks](../../conferences/icml-2026/cards/3301-3400.md#mo26a-architecture) · 中文
 - [InvGNN: Learning Invertible Node Representations on Graphs](../../conferences/icml-2026/cards/3401-3500.md#nikolentzos26a-architecture) · 中文
+- [Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning](../../conferences/icml-2026/cards/3601-3700.md#peng26e-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -367,4 +373,10 @@ Model-wide design and information flow.
 - [Flexibility-Aware Geometric Latent Diffusion for Full-Atom Peptide Design](../../conferences/icml-2026/cards/3401-3500.md#niu26e-architecture) · 中文
 - [Mesh Field Theory: Port–Hamiltonian Formulation of Mesh-Based Physics](../../conferences/icml-2026/cards/3401-3500.md#noguchi26a-architecture) · 中文
 - [Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models](../../conferences/icml-2026/cards/3501-3600.md#palla26a-architecture) · 中文
+- [Euler–Poincaré Neural Dynamics: A Geometric-Mechanics Framework for Scientific Simulation](../../conferences/icml-2026/cards/3501-3600.md#park26j-architecture) · 中文
+- [SleepMaMi: A Universal Sleep Foundation Model for Integrating Macro- and Micro-structures](../../conferences/icml-2026/cards/3501-3600.md#park26n-architecture) · 中文
+- [Generative Neural Operators through Diffusion Last Layer](../../conferences/icml-2026/cards/3601-3700.md#park26aa-architecture) · 中文
+- [Insertion Based Sequence Generation with Learnable Order Dynamics](../../conferences/icml-2026/cards/3601-3700.md#patel26a-architecture) · 中文
+- [Hyperbolic Neural Operator](../../conferences/icml-2026/cards/3601-3700.md#pei26b-architecture) · 中文
+- [Learning Adaptive Perturbation-Conditioned Contexts for Robust Transcriptional Response Prediction](../../conferences/icml-2026/cards/3601-3700.md#piao26a-architecture) · 中文
 <!-- classification:end -->

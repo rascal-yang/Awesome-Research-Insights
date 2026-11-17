@@ -146,6 +146,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Constrained Meta Reinforcement Learning with Provable Test-Time Safety](../../conferences/icml-2026/cards/3401-3500.md#ni26c-theory-statistics) · 中文
 - [Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions](../../conferences/icml-2026/cards/3401-3500.md#oh26a-theory-statistics) · 中文
 - [Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality](../../conferences/icml-2026/cards/3501-3600.md#palasamudram26a-theory-statistics) · 中文
+- [Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL](../../conferences/icml-2026/cards/3601-3700.md#peng26o-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -514,6 +515,16 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Allocating Variance to Maximize Expectation](../../conferences/icml-2026/cards/3501-3600.md#paes-leme26a-theory-statistics) · 中文
 - [Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks](../../conferences/icml-2026/cards/3501-3600.md#pang26d-theory-statistics) · 中文
 - [Online Social Welfare Function-based Resource Allocation](../../conferences/icml-2026/cards/3501-3600.md#pardeshi26a-theory-statistics) · 中文
+- [Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients](../../conferences/icml-2026/cards/3501-3600.md#park26r-theory-statistics) · 中文
+- [On Expressive Power of Floating-Point Transformers](../../conferences/icml-2026/cards/3501-3600.md#park26s-theory-statistics) · 中文
+- [On Minimum Depth and Width of Floating-Point Neural Networks for Representing Floating-Point Functions](../../conferences/icml-2026/cards/3501-3600.md#park26t-theory-statistics) · 中文
+- [Deep networks learn to parse uniform-depth context-free languages from local statistics](../../conferences/icml-2026/cards/3601-3700.md#parley26a-theory-statistics) · 中文
+- [Geometric Entropy and Retrieval Phase Transitions in Continuous Dense Associative Memory](../../conferences/icml-2026/cards/3601-3700.md#petrova26b-theory-statistics) · 中文
+- [Decomposing Out-of-Distribution Error in Conditional Flow Matching via Wasserstein Geometry](../../conferences/icml-2026/cards/3601-3700.md#pham26a-theory-statistics) · 中文
+- [Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation](../../conferences/icml-2026/cards/3601-3700.md#pham26c-theory-statistics) · 中文
+- [Learning Manifold Data with Flow Matching](../../conferences/icml-2026/cards/3601-3700.md#pi26a-theory-statistics) · 中文
+- [Infinite-Dimensional Generative Diffusions via Doob’s h-Transform](../../conferences/icml-2026/cards/3601-3700.md#pieper-sethmacher26a-theory-statistics) · 中文
+- [Joint Learning in the Gaussian Single Index Model](../../conferences/icml-2026/cards/3601-3700.md#pillaud-vivien26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -540,6 +551,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Pseudo-Mallows for Efficient Probabilistic Preference Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ee-theory-statistics) · 中文
 - [Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](../../conferences/icml-2026/cards/3201-3300.md#maruyama26a-theory-statistics) · 中文
 - [Learning to Rank from Incomplete Rankings](../../conferences/icml-2026/cards/3201-3300.md#migali26a-theory-statistics) · 中文
+- [Quantile-Free Uncertainty Quantification in Graph Neural Networks](../../conferences/icml-2026/cards/3601-3700.md#park26x-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

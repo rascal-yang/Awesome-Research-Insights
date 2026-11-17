@@ -56,6 +56,8 @@
 - <a id="mohri26a-architecture"></a>[Rational Transductors](../conferences/icml-2026/cards/3301-3400.md#paper-mohri26a)
 - <a id="nguyen26i-architecture"></a>[Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26i)
 - <a id="nother26a-architecture"></a>[MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](../conferences/icml-2026/cards/3401-3500.md#paper-nother26a)
+- <a id="parker26a-architecture"></a>[TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction](../conferences/icml-2026/cards/3601-3700.md#paper-parker26a)
+- <a id="piao26b-architecture"></a>[MarketSim: Simulating Stock Markets with Large-Scale Generative Agents](../conferences/icml-2026/cards/3601-3700.md#paper-piao26b)
 
 <a id="by-modules"></a>
 
@@ -94,6 +96,8 @@
 - <a id="litman26a-modules"></a>[You Need Better Attention Priors](../conferences/icml-2026/cards/2701-2800.md#paper-litman26a)
 - <a id="mitchell26a-modules"></a>[Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining](../conferences/icml-2026/cards/3301-3400.md#paper-mitchell26a)
 - <a id="park26f-modules"></a>[Q-Delta: Beyond Key–Value Associative State Evolution](../conferences/icml-2026/cards/3501-3600.md#paper-park26f)
+- <a id="park26u-modules"></a>[STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning](../conferences/icml-2026/cards/3501-3600.md#paper-park26u)
+- <a id="pepper26a-modules"></a>[Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](../conferences/icml-2026/cards/3601-3700.md#paper-pepper26a)
 
 <a id="by-loss-functions"></a>
 
@@ -128,6 +132,8 @@
 - <a id="nguyen26l-loss-functions"></a>[TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26l)
 - <a id="oi26b-loss-functions"></a>[Autoregressive Direct Preference Optimization](../conferences/icml-2026/cards/3401-3500.md#paper-oi26b)
 - <a id="pan26o-loss-functions"></a>[Optimal Transport for LLM Reward Modeling from Noisy Feedback](../conferences/icml-2026/cards/3501-3600.md#paper-pan26o)
+- <a id="peng26a-loss-functions"></a>[Forget to Know, Remember to Use: Context-Aware Unlearning for Large Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-peng26a)
+- <a id="piskorz26a-loss-functions"></a>[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-piskorz26a)
 
 <a id="by-optimization"></a>
 
@@ -340,6 +346,8 @@
 - <a id="pan26p-reinforcement-learning"></a>[AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning](../conferences/icml-2026/cards/3501-3600.md#paper-pan26p)
 - <a id="panaganti26a-reinforcement-learning"></a>[Group Distributionally Robust Optimization-Driven RL for LLM Reasoning](../conferences/icml-2026/cards/3501-3600.md#paper-panaganti26a)
 - <a id="park26h-reinforcement-learning"></a>[$\textttMulti^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments](../conferences/icml-2026/cards/3501-3600.md#paper-park26h)
+- <a id="paulus26b-reinforcement-learning"></a>[Safety Alignment of LMs via Non-cooperative Games](../conferences/icml-2026/cards/3601-3700.md#paper-paulus26b)
+- <a id="peng26h-reinforcement-learning"></a>[HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents](../conferences/icml-2026/cards/3601-3700.md#paper-peng26h)
 
 <a id="by-training-strategies"></a>
 
@@ -444,6 +452,8 @@
 - <a id="padmanabhan26a-training-strategies"></a>[Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities](../conferences/icml-2026/cards/3501-3600.md#paper-padmanabhan26a)
 - <a id="parashar26a-training-strategies"></a>[Learnability-Informed Fine-Tuning of Diffusion Language Models](../conferences/icml-2026/cards/3501-3600.md#paper-parashar26a)
 - <a id="park26b-training-strategies"></a>[Post-Training LLMs as Better Decision-Making Agents: A Regret-Minimization Approach](../conferences/icml-2026/cards/3501-3600.md#paper-park26b)
+- <a id="penaloza26a-training-strategies"></a>[Privileged Information Distillation for Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-penaloza26a)
+- <a id="peng26l-training-strategies"></a>[PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning](../conferences/icml-2026/cards/3601-3700.md#paper-peng26l)
 
 <a id="by-data-strategies"></a>
 
@@ -504,6 +514,8 @@
 - <a id="nam26b-data-strategies"></a>[Maximizing Mutual Information Between Prompt and Response Improves LLM Performance With No Additional Data](../conferences/icml-2026/cards/3401-3500.md#paper-nam26b)
 - <a id="pan26l-data-strategies"></a>[Detecting and Filtering Unsafe Training Data via Data Attribution with Denoised Representation](../conferences/icml-2026/cards/3501-3600.md#paper-pan26l)
 - <a id="pang26e-data-strategies"></a>[EDCO: Dynamic Curriculum Orchestration for Domain-specific Large Language Model Fine-tuning](../conferences/icml-2026/cards/3501-3600.md#paper-pang26e)
+- <a id="peng26b-data-strategies"></a>[Measuring and Mitigating Post-Hoc Rationalization in Reverse Chain-of-Thought Generation](../conferences/icml-2026/cards/3601-3700.md#paper-peng26b)
+- <a id="pinto26a-data-strategies"></a>[Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](../conferences/icml-2026/cards/3601-3700.md#paper-pinto26a)
 
 <a id="by-inference"></a>
 
@@ -751,6 +763,10 @@
 - <a id="pan26e-inference"></a>[Trajectory-Level Speculative Decoding for Diffusion Language Models](../conferences/icml-2026/cards/3501-3600.md#paper-pan26e)
 - <a id="pan26j-inference"></a>[Knowing Bias, Doing Better: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement](../conferences/icml-2026/cards/3501-3600.md#paper-pan26j)
 - <a id="pan26k-inference"></a>[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](../conferences/icml-2026/cards/3501-3600.md#paper-pan26k)
+- <a id="park26v-inference"></a>[Bridging the Knowledge-Prediction Gap in LLMs on Multiple-Choice Questions](../conferences/icml-2026/cards/3501-3600.md#paper-park26v)
+- <a id="parys26a-inference"></a>[Constrained Adaptive Rejection Sampling](../conferences/icml-2026/cards/3601-3700.md#paper-parys26a)
+- <a id="pei26a-inference"></a>[When LLMs Develop Languages: Symbolic Communication for Efficient Multi-Agent Reasoning](../conferences/icml-2026/cards/3601-3700.md#paper-pei26a)
+- <a id="pei26d-inference"></a>[Great Minds Think Alike: Contextual Tacit Communication for Decentralized LLM-Agent Cooperation](../conferences/icml-2026/cards/3601-3700.md#paper-pei26d)
 
 <a id="by-representation-learning"></a>
 
@@ -767,6 +783,8 @@
 - <a id="luo26ad-representation-learning"></a>[Closing the Loop: Universal Repository Representation with RPG-Encoder](../conferences/icml-2026/cards/3001-3100.md#paper-luo26ad)
 - <a id="minegishi26a-representation-learning"></a>[Emergent Analogical Reasoning in Transformers](../conferences/icml-2026/cards/3301-3400.md#paper-minegishi26a)
 - <a id="noroozizadeh26a-representation-learning"></a>[Deep sequence models tend to memorize geometrically; it is unclear why](../conferences/icml-2026/cards/3401-3500.md#paper-noroozizadeh26a)
+- <a id="pethkar26a-representation-learning"></a>[Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping](../conferences/icml-2026/cards/3601-3700.md#paper-pethkar26a)
+- <a id="pimparkhede26a-representation-learning"></a>[Learning the ESG Geometry with Domain Aware Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-pimparkhede26a)
 
 <a id="by-evaluation"></a>
 
@@ -1036,6 +1054,11 @@
 - <a id="pan26g-evaluation"></a>[Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs](../conferences/icml-2026/cards/3501-3600.md#paper-pan26g)
 - <a id="panchal26a-evaluation"></a>[Memory Savings at What Cost? A Study of Alternatives to Backpropagation](../conferences/icml-2026/cards/3501-3600.md#paper-panchal26a)
 - <a id="pappu26a-evaluation"></a>[Multi-Agent Teams Hold Experts Back](../conferences/icml-2026/cards/3501-3600.md#paper-pappu26a)
+- <a id="pattnayak26a-evaluation"></a>[Assistive Prompt Mediation: Evaluating Language Models Under Accessibility Constraints](../conferences/icml-2026/cards/3601-3700.md#paper-pattnayak26a)
+- <a id="petrov26a-evaluation"></a>[BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs](../conferences/icml-2026/cards/3601-3700.md#paper-petrov26a)
+- <a id="petrova26a-evaluation"></a>[Pressure Reveals Character: Behavioural Alignment Evaluation at Depth](../conferences/icml-2026/cards/3601-3700.md#paper-petrova26a)
+- <a id="pink26a-evaluation"></a>[Temporal Context Reinstatement Drives Episodic-Like Order Memory in Long-Context Language Models](../conferences/icml-2026/cards/3601-3700.md#paper-pink26a)
+- <a id="pipis26a-evaluation"></a>[Wait, Wait, Wait... Why Do Reasoning Models Loop?](../conferences/icml-2026/cards/3601-3700.md#paper-pipis26a)
 
 <a id="by-theory-statistics"></a>
 

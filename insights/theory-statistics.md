@@ -146,6 +146,7 @@
 - [从安全策略逐步混合到候选策略](../conferences/icml-2026/cards/3401-3500.md#ni26c-theory-statistics) · Constrained Meta Reinforcement Learning with Provable Test-Time Safety
 - [延迟污染成对反馈](../conferences/icml-2026/cards/3401-3500.md#oh26a-theory-statistics) · Robust Linear Dueling Bandits with Post-serving Context under Unknown Delays and Adversarial Corruptions
 - [可达策略渐近最优](../conferences/icml-2026/cards/3501-3600.md#palasamudram26a-theory-statistics) · Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality
+- [按正违例自适应惩罚的策略优化](../conferences/icml-2026/cards/3601-3700.md#peng26o-theory-statistics) · Towards Achieving Optimal Strong Regret and Constraint Violation via Computationally Efficient Model-free RL
 
 <a id="by-robotics"></a>
 
@@ -514,6 +515,16 @@
 - [从稀疏方差桶近似高斯极值目标](../conferences/icml-2026/cards/3501-3600.md#paes-leme26a-theory-statistics) · Allocating Variance to Maximize Expectation
 - [用逐步损失检查层间学习率分配](../conferences/icml-2026/cards/3501-3600.md#pang26d-theory-statistics) · Balancing Learning Rates Across Layers: Exact Two-Step Dynamics and Optimal Scaling in Linear Neural Networks
 - [用单调性把个体置信区间提升到总体福利](../conferences/icml-2026/cards/3501-3600.md#pardeshi26a-theory-statistics) · Online Social Welfare Function-based Resource Allocation
+- [在浮点网络构造中同时指定前向值与自动微分梯度](../conferences/icml-2026/cards/3501-3600.md#park26r-theory-statistics) · Floating-Point Networks with Automatic Differentiation Can Represent Almost All Floating-Point Functions and Their Gradients
+- [用有限精度归约分析 Transformer 的对称性边界](../conferences/icml-2026/cards/3501-3600.md#park26s-theory-statistics) · On Expressive Power of Floating-Point Transformers
+- [用浮点指示网络精确确定全域表示的最小深度](../conferences/icml-2026/cards/3501-3600.md#park26t-theory-statistics) · On Minimum Depth and Width of Floating-Point Neural Networks for Representing Floating-Point Functions
+- [由多尺度局部相关性恢复等深文法的隐规则](../conferences/icml-2026/cards/3601-3700.md#parley26a-theory-statistics) · Deep networks learn to parse uniform-depth context-free languages from local statistics
+- [让记忆核在局部隔绝串扰](../conferences/icml-2026/cards/3601-3700.md#petrova26b-theory-statistics) · Geometric Entropy and Retrieval Phase Transitions in Continuous Dense Associative Memory
+- [区分条件覆盖缺口与生成器失真](../conferences/icml-2026/cards/3601-3700.md#pham26a-theory-statistics) · Decomposing Out-of-Distribution Error in Conditional Flow Matching via Wasserstein Geometry
+- [用连边核心解释剪枝效果](../conferences/icml-2026/cards/3601-3700.md#pham26c-theory-statistics) · Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation
+- [线性潜空间的流匹配速度分解](../conferences/icml-2026/cards/3601-3700.md#pi26a-theory-statistics) · Learning Manifold Data with Flow Matching
+- [用 Doob h 变换构造函数空间生成扩散](../conferences/icml-2026/cards/3601-3700.md#pieper-sethmacher26a-theory-statistics) · Infinite-Dimensional Generative Diffusions via Doob’s h-Transform
+- [从 Hermite 模式解释联合单指标学习](../conferences/icml-2026/cards/3601-3700.md#pillaud-vivien26a-theory-statistics) · Joint Learning in the Gaussian Single Index Model
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -540,6 +551,7 @@
 - [按可学习顺序分解排名后验](../conferences/icml-2026/cards/2901-3000.md#liu26ee-theory-statistics) · Pseudo-Mallows for Efficient Probabilistic Preference Learning
 - [在面偏序的等变向量丛上统一图和层网络](../conferences/icml-2026/cards/3201-3300.md#maruyama26a-theory-statistics) · Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks
 - [从依赖排序位置的残缺反馈识别完整前 k](../conferences/icml-2026/cards/3201-3300.md#migali26a-theory-statistics) · Learning to Rank from Incomplete Rankings
+- [用覆盖与宽度联合目标学习图上的预测区间](../conferences/icml-2026/cards/3601-3700.md#park26x-theory-statistics) · Quantile-Free Uncertainty Quantification in Graph Neural Networks
 
 <a id="by-scientific-ml"></a>
 

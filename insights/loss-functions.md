@@ -42,6 +42,8 @@
 - [为每个前缀匹配偏好密度比](../conferences/icml-2026/cards/3401-3500.md#nguyen26l-loss-functions) · TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching
 - [自回归前缀偏好](../conferences/icml-2026/cards/3401-3500.md#oi26b-loss-functions) · Autoregressive Direct Preference Optimization
 - [偏好部分最优传输](../conferences/icml-2026/cards/3501-3600.md#pan26o-loss-functions) · Optimal Transport for LLM Reward Modeling from Noisy Feedback
+- [遗忘后上下文保留](../conferences/icml-2026/cards/3601-3700.md#peng26a-loss-functions) · Forget to Know, Remember to Use: Context-Aware Unlearning for Large Language Models
+- [对齐不同掩码长度下的答案分布](../conferences/icml-2026/cards/3601-3700.md#piskorz26a-loss-functions) · Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -127,6 +129,7 @@
 - [专家路由的 Dirichlet 先验](../conferences/icml-2026/cards/3301-3400.md#mirvakhabova26a-loss-functions) · Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs
 - [扩散概念擦除散度](../conferences/icml-2026/cards/3401-3500.md#novello26a-loss-functions) · A Unified Framework for Diffusion Model Unlearning with f-Divergence
 - [时序耦合流匹配](../conferences/icml-2026/cards/3501-3600.md#pan26m-loss-functions) · Temporal-aware Flow Matching for Video Generation with Temporally Coherent Motion
+- [以类条件最优传输对齐互补模态证据](../conferences/icml-2026/cards/3601-3700.md#pellicer26a-loss-functions) · CAMP: Coherent Alignment of Multimodal Prototypes for Explainable Complementary Learning
 
 <a id="by-ml-foundations"></a>
 
@@ -158,6 +161,7 @@
 - [线性内核一致损失](../conferences/icml-2026/cards/3301-3400.md#mohri26d-loss-functions) · Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction
 - [用可能性上确界估计认知不确定性](../conferences/icml-2026/cards/3401-3500.md#ni26b-loss-functions) · Possibilistic Predictive Uncertainty for Deep Learning
 - [用噪声层级分类识别能量分布的模态权重](../conferences/icml-2026/cards/3501-3600.md#ouyang26b-loss-functions) · A Diffusive Classification Loss for Learning Energy-based Generative Models
+- [稀少配对监督与边缘样本分工](../conferences/icml-2026/cards/3601-3700.md#persiianov26a-loss-functions) · Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization
 
 <a id="by-graph-and-recommendation"></a>
 
