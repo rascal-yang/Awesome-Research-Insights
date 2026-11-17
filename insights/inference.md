@@ -249,6 +249,7 @@
 - [视觉自回归只压缩保真细化阶段](../conferences/icml-2026/cards/2501-2600.md#li26go-inference) · FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models
 - [分离历史运动与抖动后再融合视频](../conferences/icml-2026/cards/2601-2700.md#li26hx-inference) · DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion
 - [带空间熵的细粒度令牌合并](../conferences/icml-2026/cards/2601-2700.md#li26hz-inference) · Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification
+- [按信噪比对齐扩散历史并保留当前残差](../conferences/icml-2026/cards/2601-2700.md#li26iv-inference) · DiFA: Inference-Time Forward-Process Alignment for Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -402,6 +403,7 @@
 - [只调输入的分片边界和个数来给故障 SNN 降负荷](../conferences/icml-2026/cards/2301-2400.md#lee26ar-inference) · Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation
 - [表格 ICL 的后验先验校正](../conferences/icml-2026/cards/2301-2400.md#lee26aw-inference) · Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment
 - [让轻量变体与显存布局共同参与实时调度](../conferences/icml-2026/cards/2501-2600.md#li26fq-inference) · RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs
+- [用 Stein 散度校正大步长扩散轨迹](../conferences/icml-2026/cards/2601-2700.md#li26ix-inference) · Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization
 
 <a id="by-graph-and-recommendation"></a>
 

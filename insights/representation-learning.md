@@ -89,6 +89,7 @@
 - [用先验动作库约束少样本轨迹适配](../conferences/icml-2026/cards/1501-1600.md#he26ao-representation-learning) · Motion Dynamics Learning for Few-Shot Embodied Adaptation
 - [用观察变化学习跨形态潜动作](../conferences/icml-2026/cards/1701-1800.md#huang26bv-representation-learning) · Cross-Embodiment Robot Foundation World Models with Latent Actions
 - [让一台相机编码的动作能预测另一台相机的未来](../conferences/icml-2026/cards/2301-2400.md#lee26am-representation-learning) · MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction
+- [从想象视频中反解多个模态的潜在动作](../conferences/icml-2026/cards/2601-2700.md#li26jf-representation-learning) · From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation
 
 <a id="by-multimodal"></a>
 

@@ -46,6 +46,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="hu26ba-modules"></a>[TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ba)
 - <a id="kowsher26a-modules"></a>[LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](../../conferences/icml-2026/cards/2201-2300.md#paper-kowsher26a)
 - <a id="li26j-modules"></a>[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26j)
+- <a id="li26io-modules"></a>[SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](../../conferences/icml-2026/cards/2601-2700.md#paper-li26io)
 
 <a id="by-loss-functions"></a>
 
@@ -106,6 +107,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26ad-reinforcement-learning"></a>[Ego3S: Select, Strengthen, and Synchronize for Efficient Egocentric Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ad)
 - <a id="li26ap-reinforcement-learning"></a>[Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ap)
 - <a id="li26at-reinforcement-learning"></a>[Perceptual Flow Network for Visually Grounded Reasoning](../../conferences/icml-2026/cards/2401-2500.md#paper-li26at)
+- <a id="li26ip-reinforcement-learning"></a>[FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ip)
 
 <a id="by-training-strategies"></a>
 
@@ -141,6 +143,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26hs-training-strategies"></a>[Robust Vision-Language Models via Manifold-Adversarial Adapters](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hs)
 - <a id="li26ic-training-strategies"></a>[IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ic)
 - <a id="li26ie-training-strategies"></a>[Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ie)
+- <a id="li26im-training-strategies"></a>[Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](../../conferences/icml-2026/cards/2601-2700.md#paper-li26im)
 
 <a id="by-data-strategies"></a>
 

@@ -84,6 +84,7 @@
 - [先聚焦视频关系区间再生成稀有事件补样](../conferences/icml-2026/cards/2401-2500.md#li26bx-architecture) · SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation
 - [在潜令牌上求解空间光谱融合](../conferences/icml-2026/cards/2501-2600.md#li26en-architecture) · Solving Spatial-Spectral Fusion with Latent Spectral Operators
 - [可识别虚拟人脸的身份绑定水印](../conferences/icml-2026/cards/2501-2600.md#li26gt-architecture) · Towards Trustworthy and Identifiable Virtual Face Generation
+- [以分层射线交点同时预测可见与遮挡表面](../conferences/icml-2026/cards/2601-2700.md#li26jg-architecture) · LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning
 
 <a id="by-nlp"></a>
 
@@ -261,4 +262,5 @@
 - [在候选原子处查询冷冻电镜密度](../conferences/icml-2026/cards/2501-2600.md#li26eh-architecture) · CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM
 - [用预训练 fMRI 解码器和状态提示重建脑活动](../conferences/icml-2026/cards/2501-2600.md#li26gp-architecture) · Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis
 - [以应力和内力为接口训练神经模拟器](../conferences/icml-2026/cards/2601-2700.md#li26ho-architecture) · Neural Modular Physics for Elastic Simulation
+- [让 CAD 程序用文字查询锚定边界基元](../conferences/icml-2026/cards/2601-2700.md#li26jd-architecture) · Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding
 <!-- classification:end -->

@@ -24,6 +24,7 @@
 ### 模块
 
 - <a id="bian26c-modules"></a>[AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](../conferences/icml-2026/cards/0201-0300.md#paper-bian26c)
+- <a id="li26jh-modules"></a>[Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages](../conferences/icml-2026/cards/2601-2700.md#paper-li26jh)
 
 <a id="by-loss-functions"></a>
 

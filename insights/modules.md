@@ -78,6 +78,7 @@
 ### 自然语言处理
 
 - [Agent 词表适配](../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents
+- [把低资源语种锚到英语语义并用语言感知头融合](../conferences/icml-2026/cards/2601-2700.md#li26jh-modules) · Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages
 
 <a id="by-robotics"></a>
 
@@ -107,6 +108,7 @@
 - [让推理过程主动发起稀疏查证](../conferences/icml-2026/cards/1601-1700.md#hu26ba-modules) · TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding
 - [用专家向量调制共享适配器](../conferences/icml-2026/cards/2201-2300.md#kowsher26a-modules) · LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning
 - [用同帧查询和重要性门按需读取几何](../conferences/icml-2026/cards/2401-2500.md#li26j-modules) · Thinking with Geometry: Active Geometry Integration for Spatial Reasoning
+- [以可微软投影保留稀疏点云的视觉连接](../conferences/icml-2026/cards/2601-2700.md#li26io-modules) · SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion
 
 <a id="by-ml-foundations"></a>
 

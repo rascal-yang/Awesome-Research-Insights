@@ -109,6 +109,8 @@
 - [为搜索代理显式奖励证据判断](../conferences/icml-2026/cards/2501-2600.md#li26gq-reinforcement-learning) · ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards
 - [执行反馈下的软件补丁行级信用](../conferences/icml-2026/cards/2501-2600.md#li26gv-reinforcement-learning) · BOOSTAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models
 - [按累积梯度能量估计逐令牌基线](../conferences/icml-2026/cards/2601-2700.md#li26hy-reinforcement-learning) · The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL
+- [把动态社交提示当作对抗赌博机策略臂](../conferences/icml-2026/cards/2601-2700.md#li26il-reinforcement-learning) · ALSO: Adversarial Online Strategy Optimization for Social Agents
+- [用真实执行与细项规则联合训练 GPU 编码代理](../conferences/icml-2026/cards/2601-2700.md#li26jc-reinforcement-learning) · StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -217,6 +219,8 @@
 - [把组内候选先投影成非负可行权重再回归策略](../conferences/icml-2026/cards/2501-2600.md#li26ga-reinforcement-learning) · Learning from Comparison: Constrained Projection Policy Optimization for Pareto-Front Improvement
 - [演化任务掩码并冻结已固化的技能子网](../conferences/icml-2026/cards/2501-2600.md#li26gb-reinforcement-learning) · Neuro-evolutionary Continual Reinforcement Learning
 - [按旧策略概率分配 token 的信赖域预算](../conferences/icml-2026/cards/2501-2600.md#li26gm-reinforcement-learning) · BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning
+- [用角色条件观测划分训练共享扩散策略](../conferences/icml-2026/cards/2601-2700.md#li26it-reinforcement-learning) · Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization
+- [用因果最坏情形目标训练离线流策略](../conferences/icml-2026/cards/2601-2700.md#li26ja-reinforcement-learning) · Causal Flow Q-Learning for Robust Offline Reinforcement Learning
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -261,6 +265,7 @@
 - [用反事实挑出必须看局部交互的第一视角问题](../conferences/icml-2026/cards/2401-2500.md#li26ad-reinforcement-learning) · Ego3S: Select, Strengthen, and Synchronize for Efficient Egocentric Reasoning
 - [按感知和推理难度共享归一化尺度](../conferences/icml-2026/cards/2401-2500.md#li26ap-reinforcement-learning) · Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization
 - [视觉推理的可学习感知轨迹](../conferences/icml-2026/cards/2401-2500.md#li26at-reinforcement-learning) · Perceptual Flow Network for Visually Grounded Reasoning
+- [用歧义触发证据工具并单独优化调用](../conferences/icml-2026/cards/2601-2700.md#li26ip-reinforcement-learning) · FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning
 
 <a id="by-ml-foundations"></a>
 

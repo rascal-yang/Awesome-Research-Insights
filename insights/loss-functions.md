@@ -50,6 +50,7 @@
 - [匹配带零点质量的最大熵表征目标](../conferences/icml-2026/cards/2201-2300.md#kuang26b-loss-functions) · Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations
 - [用正负条件分数校正扩散软提示](../conferences/icml-2026/cards/2301-2400.md#lee26k-loss-functions) · Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models
 - [用幅度等变把去噪监督迁移至低噪区](../conferences/icml-2026/cards/2301-2400.md#levac26a-loss-functions) · Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements
+- [让高斯基元的颜色歧义反过来指导表面修复](../conferences/icml-2026/cards/2601-2700.md#li26iz-loss-functions) · Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction
 
 <a id="by-nlp"></a>
 

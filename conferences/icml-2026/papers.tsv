@@ -2635,30 +2635,30 @@ number	pmlr_id	title	paper_url	insight_status
 2634	li26ih	Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task	https://proceedings.mlr.press/v306/li26ih.html	written
 2635	li26ii	Reliable Thinking with Images	https://proceedings.mlr.press/v306/li26ii.html	written
 2636	li26ij	ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox	https://proceedings.mlr.press/v306/li26ij.html	written
-2637	li26ik	Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models	https://proceedings.mlr.press/v306/li26ik.html	pending
-2638	li26il	ALSO: Adversarial Online Strategy Optimization for Social Agents	https://proceedings.mlr.press/v306/li26il.html	pending
-2639	li26im	Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation	https://proceedings.mlr.press/v306/li26im.html	pending
-2640	li26in	Learning Dynamics of Zeroth-Order Optimization: A Kernel Perspective	https://proceedings.mlr.press/v306/li26in.html	pending
-2641	li26io	SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion	https://proceedings.mlr.press/v306/li26io.html	pending
-2642	li26ip	FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning	https://proceedings.mlr.press/v306/li26ip.html	pending
-2643	li26iq	Adalina: Adaptive Linear Approximation for the Shapley Value and Beyond	https://proceedings.mlr.press/v306/li26iq.html	pending
-2644	li26ir	Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs	https://proceedings.mlr.press/v306/li26ir.html	pending
-2645	li26is	Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents	https://proceedings.mlr.press/v306/li26is.html	pending
-2646	li26it	Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization	https://proceedings.mlr.press/v306/li26it.html	pending
-2647	li26iu	Probability of Matching for Batch Multi-Objective Bayesian Optimization	https://proceedings.mlr.press/v306/li26iu.html	pending
-2648	li26iv	DiFA: Inference-Time Forward-Process Alignment for Diffusion Models	https://proceedings.mlr.press/v306/li26iv.html	pending
-2649	li26iw	AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation	https://proceedings.mlr.press/v306/li26iw.html	pending
-2650	li26ix	Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization	https://proceedings.mlr.press/v306/li26ix.html	pending
-2651	li26iy	Eliminating Solution Bias in Differentially Private Optimization	https://proceedings.mlr.press/v306/li26iy.html	pending
-2652	li26iz	Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction	https://proceedings.mlr.press/v306/li26iz.html	pending
-2653	li26ja	Causal Flow Q-Learning for Robust Offline Reinforcement Learning	https://proceedings.mlr.press/v306/li26ja.html	pending
-2654	li26jb	Characterizing the Effect of Noise in Language Generation in the Limit	https://proceedings.mlr.press/v306/li26jb.html	pending
-2655	li26jc	StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning	https://proceedings.mlr.press/v306/li26jc.html	pending
-2656	li26jd	Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding	https://proceedings.mlr.press/v306/li26jd.html	pending
-2657	li26je	PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training	https://proceedings.mlr.press/v306/li26je.html	pending
-2658	li26jf	From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation	https://proceedings.mlr.press/v306/li26jf.html	pending
-2659	li26jg	LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning	https://proceedings.mlr.press/v306/li26jg.html	pending
-2660	li26jh	Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages	https://proceedings.mlr.press/v306/li26jh.html	pending
+2637	li26ik	Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models	https://proceedings.mlr.press/v306/li26ik.html	written
+2638	li26il	ALSO: Adversarial Online Strategy Optimization for Social Agents	https://proceedings.mlr.press/v306/li26il.html	written
+2639	li26im	Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation	https://proceedings.mlr.press/v306/li26im.html	written
+2640	li26in	Learning Dynamics of Zeroth-Order Optimization: A Kernel Perspective	https://proceedings.mlr.press/v306/li26in.html	written
+2641	li26io	SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion	https://proceedings.mlr.press/v306/li26io.html	written
+2642	li26ip	FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning	https://proceedings.mlr.press/v306/li26ip.html	written
+2643	li26iq	Adalina: Adaptive Linear Approximation for the Shapley Value and Beyond	https://proceedings.mlr.press/v306/li26iq.html	written
+2644	li26ir	Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs	https://proceedings.mlr.press/v306/li26ir.html	written
+2645	li26is	Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents	https://proceedings.mlr.press/v306/li26is.html	written
+2646	li26it	Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization	https://proceedings.mlr.press/v306/li26it.html	written
+2647	li26iu	Probability of Matching for Batch Multi-Objective Bayesian Optimization	https://proceedings.mlr.press/v306/li26iu.html	written
+2648	li26iv	DiFA: Inference-Time Forward-Process Alignment for Diffusion Models	https://proceedings.mlr.press/v306/li26iv.html	written
+2649	li26iw	AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation	https://proceedings.mlr.press/v306/li26iw.html	written
+2650	li26ix	Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization	https://proceedings.mlr.press/v306/li26ix.html	written
+2651	li26iy	Eliminating Solution Bias in Differentially Private Optimization	https://proceedings.mlr.press/v306/li26iy.html	written
+2652	li26iz	Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction	https://proceedings.mlr.press/v306/li26iz.html	written
+2653	li26ja	Causal Flow Q-Learning for Robust Offline Reinforcement Learning	https://proceedings.mlr.press/v306/li26ja.html	written
+2654	li26jb	Characterizing the Effect of Noise in Language Generation in the Limit	https://proceedings.mlr.press/v306/li26jb.html	written
+2655	li26jc	StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning	https://proceedings.mlr.press/v306/li26jc.html	written
+2656	li26jd	Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding	https://proceedings.mlr.press/v306/li26jd.html	written
+2657	li26je	PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training	https://proceedings.mlr.press/v306/li26je.html	written
+2658	li26jf	From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation	https://proceedings.mlr.press/v306/li26jf.html	written
+2659	li26jg	LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning	https://proceedings.mlr.press/v306/li26jg.html	written
+2660	li26jh	Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages	https://proceedings.mlr.press/v306/li26jh.html	written
 2661	li26ji	Modality-Decoupled Online Recursive Editing	https://proceedings.mlr.press/v306/li26ji.html	pending
 2662	li26jj	"MedScope: Incentivizing ""Think with Videos"" for Clinical Reasoning via Coarse-to-Fine Tool Calling"	https://proceedings.mlr.press/v306/li26jj.html	pending
 2663	li26jk	SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning	https://proceedings.mlr.press/v306/li26jk.html	pending

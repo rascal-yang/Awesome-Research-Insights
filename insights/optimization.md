@@ -68,6 +68,7 @@
 - [在博弈求解器中滚动优化可读的语言信号](../conferences/icml-2026/cards/2401-2500.md#li26cw-optimization) · Verbalized Bayesian Persuasion
 - [先正交化矩阵更新，再按神经元二阶矩归一](../conferences/icml-2026/cards/2501-2600.md#li26dh-optimization) · NorMuon: Making Muon more efficient and scalable
 - [量化训练在近平坦鞍点的加速](../conferences/icml-2026/cards/2501-2600.md#li26dr-optimization) · WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points
+- [压缩激活时保留主方向并无偏估计谱尾部](../conferences/icml-2026/cards/2601-2700.md#li26je-optimization) · PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training
 
 <a id="by-computer-vision"></a>
 
@@ -281,6 +282,8 @@
 - [锚点流形上的均衡聚类](../conferences/icml-2026/cards/2401-2500.md#li26as-optimization) · Large Scale Manifold Balanced Clustering
 - [用历史进展共同调配评估与跨任务迁移](../conferences/icml-2026/cards/2401-2500.md#li26dc-optimization) · Breaking Multi-Task Curse: Reward-Weighted Evolution for Black-Box Many-Task Optimization
 - [异步联邦持续学习的双重漂移校准](../conferences/icml-2026/cards/2501-2600.md#li26gx-optimization) · Cross-task Calibration for Asynchronous Federated Continual Learning
+- [用 Pareto 集匹配概率选择高质量多样批次](../conferences/icml-2026/cards/2601-2700.md#li26iu-optimization) · Probability of Matching for Batch Multi-Objective Bayesian Optimization
+- [耦合剪裁与偏移阈值消除 DP 解偏差](../conferences/icml-2026/cards/2601-2700.md#li26iy-optimization) · Eliminating Solution Bias in Differentially Private Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

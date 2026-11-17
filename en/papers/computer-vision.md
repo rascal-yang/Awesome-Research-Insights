@@ -49,6 +49,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26bx-architecture"></a>[SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bx)
 - <a id="li26en-architecture"></a>[Solving Spatial-Spectral Fusion with Latent Spectral Operators](../../conferences/icml-2026/cards/2501-2600.md#paper-li26en)
 - <a id="li26gt-architecture"></a>[Towards Trustworthy and Identifiable Virtual Face Generation](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gt)
+- <a id="li26jg-architecture"></a>[LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jg)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -99,6 +100,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="kuang26b-loss-functions"></a>[Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations](../../conferences/icml-2026/cards/2201-2300.md#paper-kuang26b)
 - <a id="lee26k-loss-functions"></a>[Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26k)
 - <a id="levac26a-loss-functions"></a>[Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements](../../conferences/icml-2026/cards/2301-2400.md#paper-levac26a)
+- <a id="li26iz-loss-functions"></a>[Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iz)
 
 <a id="by-optimization"></a>
 
@@ -174,6 +176,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26fy-training-strategies"></a>[Private and Stable Test-time Adaptation with Differential Privacy](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fy)
 - <a id="li26gj-training-strategies"></a>[Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Editing via In-Context Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gj)
 - <a id="li26hp-training-strategies"></a>[Object-level Semantic and Spatial Distillation for Open Vocabulary Detection](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hp)
+- <a id="li26iw-training-strategies"></a>[AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iw)
 
 <a id="by-data-strategies"></a>
 
@@ -257,6 +260,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="li26go-inference"></a>[FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models](../../conferences/icml-2026/cards/2501-2600.md#paper-li26go)
 - <a id="li26hx-inference"></a>[DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hx)
 - <a id="li26hz-inference"></a>[Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hz)
+- <a id="li26iv-inference"></a>[DiFA: Inference-Time Forward-Process Alignment for Diffusion Models](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iv)
 
 <a id="by-representation-learning"></a>
 

@@ -50,6 +50,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations](../../conferences/icml-2026/cards/2201-2300.md#kuang26b-loss-functions) · 中文
 - [Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#lee26k-loss-functions) · 中文
 - [Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements](../../conferences/icml-2026/cards/2301-2400.md#levac26a-loss-functions) · 中文
+- [Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction](../../conferences/icml-2026/cards/2601-2700.md#li26iz-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

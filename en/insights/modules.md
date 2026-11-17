@@ -78,6 +78,7 @@ Reusable components and local changes to model inputs or connections.
 ### Natural Language Processing
 
 - [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](../../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · 中文
+- [Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages](../../conferences/icml-2026/cards/2601-2700.md#li26jh-modules) · 中文
 
 <a id="by-robotics"></a>
 
@@ -107,6 +108,7 @@ Reusable components and local changes to model inputs or connections.
 - [TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](../../conferences/icml-2026/cards/1601-1700.md#hu26ba-modules) · 中文
 - [LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning](../../conferences/icml-2026/cards/2201-2300.md#kowsher26a-modules) · 中文
 - [Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26j-modules) · 中文
+- [SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](../../conferences/icml-2026/cards/2601-2700.md#li26io-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

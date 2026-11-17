@@ -89,6 +89,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Motion Dynamics Learning for Few-Shot Embodied Adaptation](../../conferences/icml-2026/cards/1501-1600.md#he26ao-representation-learning) · 中文
 - [Cross-Embodiment Robot Foundation World Models with Latent Actions](../../conferences/icml-2026/cards/1701-1800.md#huang26bv-representation-learning) · 中文
 - [MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](../../conferences/icml-2026/cards/2301-2400.md#lee26am-representation-learning) · 中文
+- [From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation](../../conferences/icml-2026/cards/2601-2700.md#li26jf-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 

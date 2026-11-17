@@ -249,6 +249,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models](../../conferences/icml-2026/cards/2501-2600.md#li26go-inference) · 中文
 - [DRFusion: Drift-Resilient Temporally Consistent Infrared–Visible Video Fusion](../../conferences/icml-2026/cards/2601-2700.md#li26hx-inference) · 中文
 - [Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification](../../conferences/icml-2026/cards/2601-2700.md#li26hz-inference) · 中文
+- [DiFA: Inference-Time Forward-Process Alignment for Diffusion Models](../../conferences/icml-2026/cards/2601-2700.md#li26iv-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -402,6 +403,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation](../../conferences/icml-2026/cards/2301-2400.md#lee26ar-inference) · 中文
 - [Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](../../conferences/icml-2026/cards/2301-2400.md#lee26aw-inference) · 中文
 - [RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs](../../conferences/icml-2026/cards/2501-2600.md#li26fq-inference) · 中文
+- [Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization](../../conferences/icml-2026/cards/2601-2700.md#li26ix-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

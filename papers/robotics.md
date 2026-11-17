@@ -134,6 +134,7 @@
 - <a id="he26ao-representation-learning"></a>[Motion Dynamics Learning for Few-Shot Embodied Adaptation](../conferences/icml-2026/cards/1501-1600.md#paper-he26ao)
 - <a id="huang26bv-representation-learning"></a>[Cross-Embodiment Robot Foundation World Models with Latent Actions](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bv)
 - <a id="lee26am-representation-learning"></a>[MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](../conferences/icml-2026/cards/2301-2400.md#paper-lee26am)
+- <a id="li26jf-representation-learning"></a>[From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation](../conferences/icml-2026/cards/2601-2700.md#paper-li26jf)
 
 <a id="by-evaluation"></a>
 

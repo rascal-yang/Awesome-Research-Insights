@@ -68,6 +68,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Verbalized Bayesian Persuasion](../../conferences/icml-2026/cards/2401-2500.md#li26cw-optimization) · 中文
 - [NorMuon: Making Muon more efficient and scalable](../../conferences/icml-2026/cards/2501-2600.md#li26dh-optimization) · 中文
 - [WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points](../../conferences/icml-2026/cards/2501-2600.md#li26dr-optimization) · 中文
+- [PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training](../../conferences/icml-2026/cards/2601-2700.md#li26je-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -281,6 +282,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Large Scale Manifold Balanced Clustering](../../conferences/icml-2026/cards/2401-2500.md#li26as-optimization) · 中文
 - [Breaking Multi-Task Curse: Reward-Weighted Evolution for Black-Box Many-Task Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26dc-optimization) · 中文
 - [Cross-task Calibration for Asynchronous Federated Continual Learning](../../conferences/icml-2026/cards/2501-2600.md#li26gx-optimization) · 中文
+- [Probability of Matching for Batch Multi-Objective Bayesian Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26iu-optimization) · 中文
+- [Eliminating Solution Bias in Differentially Private Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26iy-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

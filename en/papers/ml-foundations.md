@@ -271,6 +271,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26as-optimization"></a>[Large Scale Manifold Balanced Clustering](../../conferences/icml-2026/cards/2401-2500.md#paper-li26as)
 - <a id="li26dc-optimization"></a>[Breaking Multi-Task Curse: Reward-Weighted Evolution for Black-Box Many-Task Optimization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26dc)
 - <a id="li26gx-optimization"></a>[Cross-task Calibration for Asynchronous Federated Continual Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gx)
+- <a id="li26iu-optimization"></a>[Probability of Matching for Batch Multi-Objective Bayesian Optimization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iu)
+- <a id="li26iy-optimization"></a>[Eliminating Solution Bias in Differentially Private Optimization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iy)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -386,6 +388,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lee26ar-inference"></a>[Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ar)
 - <a id="lee26aw-inference"></a>[Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26aw)
 - <a id="li26fq-inference"></a>[RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fq)
+- <a id="li26ix-inference"></a>[Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ix)
 
 <a id="by-representation-learning"></a>
 
@@ -744,4 +747,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26hd-theory-statistics"></a>[Differentially Private Continual Release with Relative Error](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hd)
 - <a id="li26hg-theory-statistics"></a>[Statistical Consistency and Generalization of Contrastive Representation Learning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hg)
 - <a id="li26hu-theory-statistics"></a>[A Recursive Decomposition Framework for Causal Structure Learning in the Presence of Latent Variables](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hu)
+- <a id="li26in-theory-statistics"></a>[Learning Dynamics of Zeroth-Order Optimization: A Kernel Perspective](../../conferences/icml-2026/cards/2601-2700.md#paper-li26in)
+- <a id="li26iq-theory-statistics"></a>[Adalina: Adaptive Linear Approximation for the Shapley Value and Beyond](../../conferences/icml-2026/cards/2601-2700.md#paper-li26iq)
+- <a id="li26jb-theory-statistics"></a>[Characterizing the Effect of Noise in Language Generation in the Limit](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jb)
 <!-- classification:end -->

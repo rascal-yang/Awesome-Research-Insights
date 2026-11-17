@@ -406,6 +406,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Differentially Private Continual Release with Relative Error](../../conferences/icml-2026/cards/2601-2700.md#li26hd-theory-statistics) · 中文
 - [Statistical Consistency and Generalization of Contrastive Representation Learning](../../conferences/icml-2026/cards/2601-2700.md#li26hg-theory-statistics) · 中文
 - [A Recursive Decomposition Framework for Causal Structure Learning in the Presence of Latent Variables](../../conferences/icml-2026/cards/2601-2700.md#li26hu-theory-statistics) · 中文
+- [Learning Dynamics of Zeroth-Order Optimization: A Kernel Perspective](../../conferences/icml-2026/cards/2601-2700.md#li26in-theory-statistics) · 中文
+- [Adalina: Adaptive Linear Approximation for the Shapley Value and Beyond](../../conferences/icml-2026/cards/2601-2700.md#li26iq-theory-statistics) · 中文
+- [Characterizing the Effect of Noise in Language Generation in the Limit](../../conferences/icml-2026/cards/2601-2700.md#li26jb-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

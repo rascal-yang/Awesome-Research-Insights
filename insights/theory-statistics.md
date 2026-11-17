@@ -406,6 +406,9 @@
 - [相对误差下的差分隐私持续发布](../conferences/icml-2026/cards/2601-2700.md#li26hd-theory-statistics) · Differentially Private Continual Release with Relative Error
 - [按锚点规模配置对比学习负例](../conferences/icml-2026/cards/2601-2700.md#li26hg-theory-statistics) · Statistical Consistency and Generalization of Contrastive Representation Learning
 - [含潜在混杂时递归合并因果骨架](../conferences/icml-2026/cards/2601-2700.md#li26hu-theory-statistics) · A Recursive Decomposition Framework for Causal Structure Learning in the Presence of Latent Variables
+- [用输出切向量的随机投影刻画零阶误差](../conferences/icml-2026/cards/2601-2700.md#li26in-theory-statistics) · Learning Dynamics of Zeroth-Order Optimization: A Kernel Perspective
+- [用自适应控制变量降低半值近似方差](../conferences/icml-2026/cards/2601-2700.md#li26iq-theory-statistics) · Adalina: Adaptive Linear Approximation for the Shapley Value and Beyond
+- [用单个噪声下的闭包维数刻画极限生成](../conferences/icml-2026/cards/2601-2700.md#li26jb-theory-statistics) · Characterizing the Effect of Noise in Language Generation in the Limit
 
 <a id="by-graph-and-recommendation"></a>
 

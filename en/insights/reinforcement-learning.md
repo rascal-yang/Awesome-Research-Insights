@@ -109,6 +109,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards](../../conferences/icml-2026/cards/2501-2600.md#li26gq-reinforcement-learning) · 中文
 - [BOOSTAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](../../conferences/icml-2026/cards/2501-2600.md#li26gv-reinforcement-learning) · 中文
 - [The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL](../../conferences/icml-2026/cards/2601-2700.md#li26hy-reinforcement-learning) · 中文
+- [ALSO: Adversarial Online Strategy Optimization for Social Agents](../../conferences/icml-2026/cards/2601-2700.md#li26il-reinforcement-learning) · 中文
+- [StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26jc-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -217,6 +219,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning from Comparison: Constrained Projection Policy Optimization for Pareto-Front Improvement](../../conferences/icml-2026/cards/2501-2600.md#li26ga-reinforcement-learning) · 中文
 - [Neuro-evolutionary Continual Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#li26gb-reinforcement-learning) · 中文
 - [BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#li26gm-reinforcement-learning) · 中文
+- [Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization](../../conferences/icml-2026/cards/2601-2700.md#li26it-reinforcement-learning) · 中文
+- [Causal Flow Q-Learning for Robust Offline Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26ja-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -261,6 +265,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Ego3S: Select, Strengthen, and Synchronize for Efficient Egocentric Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26ad-reinforcement-learning) · 中文
 - [Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization](../../conferences/icml-2026/cards/2401-2500.md#li26ap-reinforcement-learning) · 中文
 - [Perceptual Flow Network for Visually Grounded Reasoning](../../conferences/icml-2026/cards/2401-2500.md#li26at-reinforcement-learning) · 中文
+- [FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26ip-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

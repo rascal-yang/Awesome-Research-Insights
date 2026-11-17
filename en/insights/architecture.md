@@ -84,6 +84,7 @@ Model-wide design and information flow.
 - [SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](../../conferences/icml-2026/cards/2401-2500.md#li26bx-architecture) · 中文
 - [Solving Spatial-Spectral Fusion with Latent Spectral Operators](../../conferences/icml-2026/cards/2501-2600.md#li26en-architecture) · 中文
 - [Towards Trustworthy and Identifiable Virtual Face Generation](../../conferences/icml-2026/cards/2501-2600.md#li26gt-architecture) · 中文
+- [LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning](../../conferences/icml-2026/cards/2601-2700.md#li26jg-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -261,4 +262,5 @@ Model-wide design and information flow.
 - [CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM](../../conferences/icml-2026/cards/2501-2600.md#li26eh-architecture) · 中文
 - [Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis](../../conferences/icml-2026/cards/2501-2600.md#li26gp-architecture) · 中文
 - [Neural Modular Physics for Elastic Simulation](../../conferences/icml-2026/cards/2601-2700.md#li26ho-architecture) · 中文
+- [Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding](../../conferences/icml-2026/cards/2601-2700.md#li26jd-architecture) · 中文
 <!-- classification:end -->

@@ -212,6 +212,8 @@
 - [从真实对话提取期望并训练潜在期望表示](../conferences/icml-2026/cards/2501-2600.md#li26gr-evaluation) · Expectation Alignment of Language Models for Real-World User Expectations
 - [工具代理的语义保持型效率风险](../conferences/icml-2026/cards/2501-2600.md#li26gw-evaluation) · Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning
 - [按环境状态测复杂工具任务](../conferences/icml-2026/cards/2601-2700.md#li26ij-evaluation) · ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox
+- [用跨步解码依赖作为扩散模型指纹](../conferences/icml-2026/cards/2601-2700.md#li26ir-evaluation) · Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs
+- [在工具接入时用模拟多轮测试生成安全经验](../conferences/icml-2026/cards/2601-2700.md#li26is-evaluation) · Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents
 
 <a id="by-computer-vision"></a>
 

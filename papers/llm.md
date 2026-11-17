@@ -159,6 +159,7 @@
 - <a id="li26cw-optimization"></a>[Verbalized Bayesian Persuasion](../conferences/icml-2026/cards/2401-2500.md#paper-li26cw)
 - <a id="li26dh-optimization"></a>[NorMuon: Making Muon more efficient and scalable](../conferences/icml-2026/cards/2501-2600.md#paper-li26dh)
 - <a id="li26dr-optimization"></a>[WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points](../conferences/icml-2026/cards/2501-2600.md#paper-li26dr)
+- <a id="li26je-optimization"></a>[PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training](../conferences/icml-2026/cards/2601-2700.md#paper-li26je)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -260,6 +261,8 @@
 - <a id="li26gq-reinforcement-learning"></a>[ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards](../conferences/icml-2026/cards/2501-2600.md#paper-li26gq)
 - <a id="li26gv-reinforcement-learning"></a>[BOOSTAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26gv)
 - <a id="li26hy-reinforcement-learning"></a>[The Optimal Token Baseline: Variance Reduction for Long-Horizon LLM-RL](../conferences/icml-2026/cards/2601-2700.md#paper-li26hy)
+- <a id="li26il-reinforcement-learning"></a>[ALSO: Adversarial Online Strategy Optimization for Social Agents](../conferences/icml-2026/cards/2601-2700.md#paper-li26il)
+- <a id="li26jc-reinforcement-learning"></a>[StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](../conferences/icml-2026/cards/2601-2700.md#paper-li26jc)
 
 <a id="by-training-strategies"></a>
 
@@ -338,6 +341,7 @@
 - <a id="li26ek-training-strategies"></a>[OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving](../conferences/icml-2026/cards/2501-2600.md#paper-li26ek)
 - <a id="li26hf-training-strategies"></a>[SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding](../conferences/icml-2026/cards/2601-2700.md#paper-li26hf)
 - <a id="li26hh-training-strategies"></a>[Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment](../conferences/icml-2026/cards/2601-2700.md#paper-li26hh)
+- <a id="li26ik-training-strategies"></a>[Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](../conferences/icml-2026/cards/2601-2700.md#paper-li26ik)
 
 <a id="by-data-strategies"></a>
 
@@ -766,6 +770,8 @@
 - <a id="li26gr-evaluation"></a>[Expectation Alignment of Language Models for Real-World User Expectations](../conferences/icml-2026/cards/2501-2600.md#paper-li26gr)
 - <a id="li26gw-evaluation"></a>[Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](../conferences/icml-2026/cards/2501-2600.md#paper-li26gw)
 - <a id="li26ij-evaluation"></a>[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](../conferences/icml-2026/cards/2601-2700.md#paper-li26ij)
+- <a id="li26ir-evaluation"></a>[Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs](../conferences/icml-2026/cards/2601-2700.md#paper-li26ir)
+- <a id="li26is-evaluation"></a>[Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents](../conferences/icml-2026/cards/2601-2700.md#paper-li26is)
 
 <a id="by-theory-statistics"></a>
 

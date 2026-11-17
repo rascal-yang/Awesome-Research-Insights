@@ -123,6 +123,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="li26ga-reinforcement-learning"></a>[Learning from Comparison: Constrained Projection Policy Optimization for Pareto-Front Improvement](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ga)
 - <a id="li26gb-reinforcement-learning"></a>[Neuro-evolutionary Continual Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gb)
 - <a id="li26gm-reinforcement-learning"></a>[BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gm)
+- <a id="li26it-reinforcement-learning"></a>[Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26it)
+- <a id="li26ja-reinforcement-learning"></a>[Causal Flow Q-Learning for Robust Offline Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ja)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-training-strategies"></a>

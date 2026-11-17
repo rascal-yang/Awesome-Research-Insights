@@ -86,6 +86,7 @@
 - [按证明闭合反馈区分有效战术](../conferences/icml-2026/cards/2501-2600.md#li26ek-training-strategies) · OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving
 - [为草稿训练拆开目标模型执行](../conferences/icml-2026/cards/2601-2700.md#li26hf-training-strategies) · SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding
 - [用无角色预测稳定安全决策](../conferences/icml-2026/cards/2601-2700.md#li26hh-training-strategies) · Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment
+- [先保持对话连续抽取激活再混合训练](../conferences/icml-2026/cards/2601-2700.md#li26ik-training-strategies) · Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models
 
 <a id="by-computer-vision"></a>
 
@@ -124,6 +125,7 @@
 - [在测试时无标签更新中按样本裁剪并加噪](../conferences/icml-2026/cards/2501-2600.md#li26fy-training-strategies) · Private and Stable Test-time Adaptation with Differential Privacy
 - [从原图提取字形与风格做场景文字编辑](../conferences/icml-2026/cards/2501-2600.md#li26gj-training-strategies) · Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Editing via In-Context Learning
 - [分开蒸馏开放词汇检测的语义和边界](../conferences/icml-2026/cards/2601-2700.md#li26hp-training-strategies) · Object-level Semantic and Spatial Distillation for Open Vocabulary Detection
+- [用双向视频判别器约束单步因果生成](../conferences/icml-2026/cards/2601-2700.md#li26iw-training-strategies) · AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation
 
 <a id="by-nlp"></a>
 
@@ -187,6 +189,7 @@
 - [把退化表征拉回干净特征分布](../conferences/icml-2026/cards/2601-2700.md#li26hs-training-strategies) · Robust Vision-Language Models via Manifold-Adversarial Adapters
 - [用有图无图的奖励差筛查幻觉](../conferences/icml-2026/cards/2601-2700.md#li26ic-training-strategies) · IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination
 - [按难度逐步学习最小图文对照](../conferences/icml-2026/cards/2601-2700.md#li26ie-training-strategies) · Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs
+- [优先蒸馏教师可靠且师生分歧大的在线轨迹](../conferences/icml-2026/cards/2601-2700.md#li26im-training-strategies) · Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation
 
 <a id="by-ml-foundations"></a>
 

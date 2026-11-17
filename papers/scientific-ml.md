@@ -69,6 +69,7 @@
 - <a id="li26eh-architecture"></a>[CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM](../conferences/icml-2026/cards/2501-2600.md#paper-li26eh)
 - <a id="li26gp-architecture"></a>[Mind the State: Towards Unified, Context-Aware EEG-to-fMRI Synthesis](../conferences/icml-2026/cards/2501-2600.md#paper-li26gp)
 - <a id="li26ho-architecture"></a>[Neural Modular Physics for Elastic Simulation](../conferences/icml-2026/cards/2601-2700.md#paper-li26ho)
+- <a id="li26jd-architecture"></a>[Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding](../conferences/icml-2026/cards/2601-2700.md#paper-li26jd)
 
 <a id="by-modules"></a>
 

@@ -212,6 +212,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Expectation Alignment of Language Models for Real-World User Expectations](../../conferences/icml-2026/cards/2501-2600.md#li26gr-evaluation) · 中文
 - [Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](../../conferences/icml-2026/cards/2501-2600.md#li26gw-evaluation) · 中文
 - [ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](../../conferences/icml-2026/cards/2601-2700.md#li26ij-evaluation) · 中文
+- [Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs](../../conferences/icml-2026/cards/2601-2700.md#li26ir-evaluation) · 中文
+- [Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents](../../conferences/icml-2026/cards/2601-2700.md#li26is-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
