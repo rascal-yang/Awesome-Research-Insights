@@ -52,7 +52,6 @@
 ### 计算机视觉
 
 - [视觉生成偏好对齐](../conferences/icml-2026/cards/0101-0200.md#bai26c-loss-functions) · Threshold-Guided Optimization for Visual Generative Models
-- [密集小目标计数](../conferences/icml-2026/cards/0301-0400.md#bo26a-loss-functions) · Benchmarking Dense and Indiscernible Object Counting with Blueberries
 - [单步超分辨率的全路径对齐](../conferences/icml-2026/cards/0801-0900.md#deng26e-loss-functions) · Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution
 - [全参考画质的锚定对抗训练](../conferences/icml-2026/cards/1401-1500.md#gushchin26a-loss-functions) · BiRQA: Bidirectional Robust Quality Assessment for Images
 - [类别遗忘的邻域保护与表征分散](../conferences/icml-2026/cards/1401-1500.md#ha26b-loss-functions) · Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack

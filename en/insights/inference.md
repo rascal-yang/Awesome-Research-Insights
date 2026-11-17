@@ -22,7 +22,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [PRISM: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](../../conferences/icml-2026/cards/0101-0200.md#bai26f-inference) · 中文
 - [Alignment-Aware Decoding](../../conferences/icml-2026/cards/0201-0300.md#berdoz26a-inference) · 中文
 - [STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control](../../conferences/icml-2026/cards/0201-0300.md#bhatnagar26a-inference) · 中文
-- [What If We Allocate Test-Time Compute Adaptively?](../../conferences/icml-2026/cards/0201-0300.md#bilal26a-inference) · 中文
 - [Cold-Start Personalization via Bayesian Adaptive Questioning](../../conferences/icml-2026/cards/0301-0400.md#bose26a-inference) · 中文
 - [Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference](../../conferences/icml-2026/cards/0301-0400.md#cai26i-inference) · 中文
 - [Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](../../conferences/icml-2026/cards/0301-0400.md#cao26d-inference) · 中文

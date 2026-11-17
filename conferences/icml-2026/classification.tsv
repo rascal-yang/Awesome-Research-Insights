@@ -269,7 +269,6 @@ bian26d	computer-vision	representation-learning
 bian26e	ml-foundations	training-strategies
 bick26a	llm	training-strategies
 bigelow26a	llm	theory-statistics
-bilal26a	llm	inference
 binkowski26a	llm	evaluation
 bisht26a	graph-and-recommendation	reinforcement-learning
 bisht26b	graph-and-recommendation	inference
@@ -282,7 +281,6 @@ block26a	ml-foundations	inference
 block26b	ml-foundations	theory-statistics
 blonde26a	reinforcement-learning	reinforcement-learning
 blondel26a	llm	theory-statistics
-bo26a	computer-vision	loss-functions
 bo26b	multimodal	data-strategies
 bo26c	reinforcement-learning	reinforcement-learning
 boduljak26a	computer-vision	representation-learning

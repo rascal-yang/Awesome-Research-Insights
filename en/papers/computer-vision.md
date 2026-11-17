@@ -118,7 +118,6 @@ Visual representation, recognition, reconstruction, and generation.
 ### Loss Functions
 
 - <a id="bai26c-loss-functions"></a>[Threshold-Guided Optimization for Visual Generative Models](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26c)
-- <a id="bo26a-loss-functions"></a>[Benchmarking Dense and Indiscernible Object Counting with Blueberries](../../conferences/icml-2026/cards/0301-0400.md#paper-bo26a)
 - <a id="deng26e-loss-functions"></a>[Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26e)
 - <a id="gushchin26a-loss-functions"></a>[BiRQA: Bidirectional Robust Quality Assessment for Images](../../conferences/icml-2026/cards/1401-1500.md#paper-gushchin26a)
 - <a id="ha26b-loss-functions"></a>[Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](../../conferences/icml-2026/cards/1401-1500.md#paper-ha26b)

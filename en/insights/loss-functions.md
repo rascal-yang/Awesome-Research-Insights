@@ -52,7 +52,6 @@ Objectives, auxiliary supervision, and regularization.
 ### Computer Vision
 
 - [Threshold-Guided Optimization for Visual Generative Models](../../conferences/icml-2026/cards/0101-0200.md#bai26c-loss-functions) · 中文
-- [Benchmarking Dense and Indiscernible Object Counting with Blueberries](../../conferences/icml-2026/cards/0301-0400.md#bo26a-loss-functions) · 中文
 - [Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](../../conferences/icml-2026/cards/0801-0900.md#deng26e-loss-functions) · 中文
 - [BiRQA: Bidirectional Robust Quality Assessment for Images](../../conferences/icml-2026/cards/1401-1500.md#gushchin26a-loss-functions) · 中文
 - [Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](../../conferences/icml-2026/cards/1401-1500.md#ha26b-loss-functions) · 中文

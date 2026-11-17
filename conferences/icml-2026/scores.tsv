@@ -287,7 +287,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 286	bian26e	4	4	4	4	80		统一客户端层次树，各层按功能异质性在同树选切深度，避免逐层任意分组不一致；可独立操作的共享粒度设计。（原文：§5.1 全局树（PDF 第 4 页））	scored
 287	bick26a	4	4	5	4	84		用合成键值检索功能敲除选保留attention头，其余改SSM，检索职责明确后才缩循环状态；区别按层均匀替换。（原文：§4.1–4.2 选头与替换（PDF 第 4 页））	scored
 288	bigelow26a	4	4	4	4	80		log胜算分先验/证据，activation改初始先验而ICL累积似然，联合强度可闭式预测并留出验证；给两手段组合规律。（原文：§4 胜算建模与交叉验证（PDF 第 5 页））	scored
-289	bilal26a	1	2	4	1	38		角色提示计划/工具、多候选、过程奖励剪枝与跨轮重排，主要现成test-time scaling管线拼装。（原文：§2 控制流程（PDF 第 2 页））	scored
+289	bilal26a							已复核完整PDF §2（第2–4页）、附录B.3/B.4（第18、20页）：自适应确有明示规则，但只是‘分支→beam 3–6、局部比较→lookahead 2–4、稳定单路→BoN 3–5’的角色提示，加既有PRM步剪枝/轨迹选优；未发现独立预算优化或新的信号到分配规则，属于常规搜索/提示组件编排，免训练本身不是排除原因。	rule-excluded
 290	binkowski26a	2	3	4	2	54		注意力sink秩统计加logistic幻觉分类器，轻量特征新变体但未改变检测机制/边界。（原文：§2.1 Sink Score（PDF 第 2 页））	scored
 291	bisht26a	3	3	3	2	57		自激历史饱和度和风险UCB动态罚曝光，具体但成熟点过程+置信惩罚用于推荐，增量集中窄任务。（原文：§3 自激状态（PDF 第 3 页））	scored
 292	bisht26b	3	3	4	2	61		漂移检测触发保形重校准再指数加权聚合，实用但主要在线校准/变点组件组合。（原文：§4 集合构造（PDF 第 3 页））	scored
@@ -300,7 +300,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 299	block26b	4	2	3	4	64		序列与offset Rademacher收缩的条件/反例补全理论工具，强但主要经验过程技术，单独操作场景较专。（原文：§1.1 三种复杂度（PDF 第 2 页））	scored
 300	blonde26a	3	3	3	2	57		随机先验预测差作非负OT势/不确定性，再直方图目标交SAC；多种既有模仿/随机蒸馏机制组合。（原文：§4 奖励机制（PDF 第 4 页））	scored
 301	blondel26a	3	3	3	3	60		ARM与EBM的双射及后缀配分递推解释看前方能力；主要由链式法则/软Bellman联系导出，独立操作增量较薄。（原文：§3 与命题1（PDF 第 5 页））	scored
-302	bo26a	1	2	4	1	38		CLIP伪掩码、密度对比和重叠裁片拼接用于蓝莓密集计数，主要常规分割/计数组件及专门数据。（原文：§2 采样与标注（PDF 第 2 页））	scored
+302	bo26a							§3.1（PDF第4页）是带halo重叠输入、丢边界仅拼中心，已有U-Net §1图2（https://arxiv.org/html/1505.04597#S1）采用同一overlap-tile原则；§3.3（第6页）新前景/背景项式7写为最小化1−cos，实际促对齐，与所称分离相反，原文未澄清符号或提供可复用的新分离规则；其余为CLIP掩码与既有少样本计数管线。	rule-excluded
 303	bo26b	4	4	4	4	80		固定编码器后匹配闭式投影参数，并解析分解模态内/跨模态统计，绕开轨迹展开；多模态蒸馏的新可解匹配目标。（原文：§3.1–3.2 闭式匹配（PDF 第 3 页））	scored
 304	bo26c	3	3	3	3	60		部分识别的相容环境后验生成反事实轨迹，再交Causal MAML，方法明确但反事实增强/元学习主模块成熟。（原文：§3.1 自举（PDF 第 5 页））	scored
 305	boduljak26a	2	3	4	2	54		视觉基础特征VAE压缩后条件flow预测多未来并复用解码头，主要将现成生成建模接稠密预测。（原文：§3.2–3.4 模型（PDF 第 5 页））	scored

@@ -574,7 +574,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="bai26f-inference"></a>[PRISM: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26f)
 - <a id="berdoz26a-inference"></a>[Alignment-Aware Decoding](../../conferences/icml-2026/cards/0201-0300.md#paper-berdoz26a)
 - <a id="bhatnagar26a-inference"></a>[STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control](../../conferences/icml-2026/cards/0201-0300.md#paper-bhatnagar26a)
-- <a id="bilal26a-inference"></a>[What If We Allocate Test-Time Compute Adaptively?](../../conferences/icml-2026/cards/0201-0300.md#paper-bilal26a)
 - <a id="bose26a-inference"></a>[Cold-Start Personalization via Bayesian Adaptive Questioning](../../conferences/icml-2026/cards/0301-0400.md#paper-bose26a)
 - <a id="cai26i-inference"></a>[Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26i)
 - <a id="cao26d-inference"></a>[Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](../../conferences/icml-2026/cards/0301-0400.md#paper-cao26d)

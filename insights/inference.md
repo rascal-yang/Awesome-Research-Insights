@@ -22,7 +22,6 @@
 - [离散扩散搜索](../conferences/icml-2026/cards/0101-0200.md#bai26f-inference) · PRISM: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models
 - [偏好对齐解码](../conferences/icml-2026/cards/0201-0300.md#berdoz26a-inference) · Alignment-Aware Decoding
 - [KV 缓存压缩](../conferences/icml-2026/cards/0201-0300.md#bhatnagar26a-inference) · STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control
-- [推理预算分配](../conferences/icml-2026/cards/0201-0300.md#bilal26a-inference) · What If We Allocate Test-Time Compute Adaptively?
 - [冷启动个性化](../conferences/icml-2026/cards/0301-0400.md#bose26a-inference) · Cold-Start Personalization via Bayesian Adaptive Questioning
 - [MoE 稀疏推理](../conferences/icml-2026/cards/0301-0400.md#cai26i-inference) · Mining Tensor/Neuron-Level Sparsity to Maximize Mixture-of-Experts Potential in Post-Training and Inference
 - [扩散语言模型解码](../conferences/icml-2026/cards/0301-0400.md#cao26d-inference) · Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models
