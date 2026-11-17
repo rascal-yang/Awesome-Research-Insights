@@ -76,7 +76,7 @@
 | :--- | :--- | :--- |
 | <a id="arafat26a-training-strategies"></a>[Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-arafat26a) | 超图鲁棒训练 | 把超图拉普拉斯作为统一的攻击目标，在同一预算框架下测试结构及特征扰动，再用相应扰动做超图模型的对抗训练。 |
 | <a id="canturk26a-training-strategies"></a>[Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) · [论文卡](../conferences/icml-2026/cards/0301-0400.md#paper-canturk26a) | 图组合优化迁移 | 用计算复杂性中的任务归约关系选择预训练组合，再共享图编码器微调。留一任务评测中，多任务预训练通常加快收敛。 |
-| <a id="chen26cz-training-strategies"></a>[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | 图基础模型的消息微调 | 冻结预训练 GNN，在每层加入少量可学习的消息原型，并动态融合原型和原生消息。逐层改变消息聚合可提高适配能力，论文在其刻画的模型条件下给出了超出输入提示微调上界的构造。 |
+| <a id="chen26cz-training-strategies"></a>[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) · [论文卡](../conferences/icml-2026/cards/0501-0600.md#paper-chen26cz) | 图基础模型的消息微调 | 冻结预训练 GNN，在每层加入少量可学习的消息原型，并动态融合原型和原生消息。逐层改变消息聚合可提高适配能力，论文在其刻画的模型条件下给出了超出输入提示微调上界的构造。 |
 | <a id="gao26ai-training-strategies"></a>[GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | 空间众包的双视图蒸馏 | 以门控融合社交影响、工人任务匹配与邻居信息，并把融合表征蒸馏给单视图模型，帮助种子选择同时考虑邀请能否传播及被邀请者能否完成线下任务。 |
 | <a id="gosch26a-training-strategies"></a>[Certifying Graph Neural Networks Against Label and Structure Poisoning](https://proceedings.mlr.press/v306/gosch26a.html) | 图分区投毒认证的半监督增强 | 各分区仅用本区可用信息生成伪标签或补边，再训练基模型，用集成票差计算能抵御的改动预算。分区增强减轻稀疏标签或边使基模型投票失真的问题。 |
 | <a id="grover26a-training-strategies"></a>[Feedback Control for Multi-Objective Graph Self-Supervision](https://proceedings.mlr.press/v306/grover26a.html) | 图自监督任务的反馈式预算调度 | 按任务难度与目标间冲突制定各预训练目标的更新配额，再用 PID 控制器追踪每个目标已获得的更新块数。每块只训练一个目标，可显式纠正长期得不到更新的目标。 |
@@ -88,7 +88,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="azizpour26a-data-strategies"></a>[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) · [论文卡](../conferences/icml-2026/cards/0101-0200.md#paper-azizpour26a) | 图数据增强 | 用模体密度给图数据估计潜在生成分量，再让 mixup 与对比学习利用分量信息，避免把结构来源差异当作可任意混合的扰动。 |
-| <a id="chen26cr-data-strategies"></a>[DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) | 联邦文本图证据凝缩 | 每轮用上一轮的图编码器更新核心节点的邻居和句段选择，在逐跳预算和文本预算内聚合证据，并在客户端保留选中邻居和原句段的映射，以便审计压缩后的表征。 |
+| <a id="chen26cr-data-strategies"></a>[DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) · [论文卡](../conferences/icml-2026/cards/0501-0600.md#paper-chen26cr) | 联邦文本图证据凝缩 | 每轮用上一轮的图编码器更新核心节点的邻居和句段选择，在逐跳预算和文本预算内聚合证据，并在客户端保留选中邻居和原句段的映射，以便审计压缩后的表征。 |
 | <a id="eremeev26a-data-strategies"></a>[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://proceedings.mlr.press/v306/eremeev26a.html) | 图基础模型的合成预训练先验 | 叠合多个随机块模型以生成可重叠的社区，再用混合图聚合与逐节点变换的结构因果模型生成属性和标签，让预训练任务同时提供拓扑与属性依赖。 |
 
 <a id="by-inference"></a>

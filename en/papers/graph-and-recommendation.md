@@ -78,7 +78,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Adversarial Attacks and Robust Training for Hypergraph Neural Networks](https://proceedings.mlr.press/v306/arafat26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-arafat26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#arafat26a-training-strategies) |
 | [Can Computational Reducibility Lead to Transferable Models for Graph Combinatorial Optimization?](https://proceedings.mlr.press/v306/canturk26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0301-0400.md#paper-canturk26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#canturk26a-training-strategies) |
-| [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) |
+| [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://proceedings.mlr.press/v306/chen26cz.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26cz) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cz-training-strategies) |
 | [GKD-Recruiter: Jointly Modeling Social and Task Heterogeneity for Spatial Crowdsourcing via Graph Knowledge Distillation](https://proceedings.mlr.press/v306/gao26ai.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gao26ai-training-strategies) |
 | [Certifying Graph Neural Networks Against Label and Structure Poisoning](https://proceedings.mlr.press/v306/gosch26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#gosch26a-training-strategies) |
 | [Feedback Control for Multi-Objective Graph Self-Supervision](https://proceedings.mlr.press/v306/grover26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#grover26a-training-strategies) |
@@ -90,7 +90,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://proceedings.mlr.press/v306/azizpour26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-azizpour26a) | [Read insight (中文)](../../papers/graph-and-recommendation.md#azizpour26a-data-strategies) |
-| [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cr-data-strategies) |
+| [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://proceedings.mlr.press/v306/chen26cr.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26cr) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26cr-data-strategies) |
 | [GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://proceedings.mlr.press/v306/eremeev26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#eremeev26a-data-strategies) |
 
 <a id="by-inference"></a>
