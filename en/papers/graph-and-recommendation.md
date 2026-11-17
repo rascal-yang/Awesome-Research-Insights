@@ -66,6 +66,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="lee26w-loss-functions"></a>[Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26w)
 - <a id="ran26c-loss-functions"></a>[Differentially Private Cross-Silo Recommendation from Implicit Feedback](../../conferences/icml-2026/cards/3801-3900.md#paper-ran26c)
 - <a id="siampou26a-loss-functions"></a>[Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](../../conferences/icml-2026/cards/4101-4200.md#paper-siampou26a)
+- <a id="tian26h-loss-functions"></a>[Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26h)
 
 <a id="by-optimization"></a>
 

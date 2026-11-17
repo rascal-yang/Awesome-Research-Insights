@@ -89,6 +89,8 @@
 - [用优先队列和近邻摘要迭代改写有噪声的候选系统](../conferences/icml-2026/cards/3801-3900.md#ren26l-optimization) · POLCA: Stochastic Generative Optimization with LLM
 - [用逐层广义光滑性分析线性最小化优化器](../conferences/icml-2026/cards/3801-3900.md#riabinin26a-optimization) · From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs
 - [用语言知识构造 LoRA 贝叶斯搜索空间](../conferences/icml-2026/cards/4001-4100.md#seong-eun26a-optimization) · A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search
+- [inner-optimizer-worker-scaling](../conferences/icml-2026/cards/4401-4500.md#therien26a-optimization) · MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo
+- [calibrated-svd-rank-allocation](../conferences/icml-2026/cards/4401-4500.md#thoma26a-optimization) · Advancing SVD-based LLM Compression via Layer-Wise Error Model Search
 
 <a id="by-computer-vision"></a>
 
@@ -393,6 +395,7 @@
 - [core-subspace-preservation](../conferences/icml-2026/cards/4201-4300.md#sun26r-optimization) · Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace
 - [密度约束反事实轨迹](../conferences/icml-2026/cards/4301-4400.md#tan26a-optimization) · Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity
 - [stratified-particle-descent](../conferences/icml-2026/cards/4401-4500.md#tao26d-optimization) · Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction
+- [layerwise-variance-preserving-connectivity](../conferences/icml-2026/cards/4401-4500.md#tian26a-optimization) · Connecting Independently Trained Modes via Layer-Wise Connectivity
 
 <a id="by-graph-and-recommendation"></a>
 

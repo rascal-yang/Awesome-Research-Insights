@@ -177,6 +177,7 @@
 - [行动生成前预测分离的驾驶动力学](../conferences/icml-2026/cards/4001-4100.md#shang26f-architecture) · DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving
 - [文本推理视觉子目标分专家](../conferences/icml-2026/cards/4101-4200.md#shou26a-architecture) · HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning
 - [预测趋势与历史细节分源](../conferences/icml-2026/cards/4201-4300.md#song26q-architecture) · TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction
+- [calculus-matched-rough-dynamics](../conferences/icml-2026/cards/4401-4500.md#thompson26a-architecture) · Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations
 
 <a id="by-multimodal"></a>
 
@@ -416,4 +417,5 @@
 - [高维节点与相关性边联合扩散的失败边界](../conferences/icml-2026/cards/4101-4200.md#si26a-architecture) · FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction
 - [分层半可分神经算子](../conferences/icml-2026/cards/4101-4200.md#sittoni26a-architecture) · Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver
 - [latent-conditioned-operator-splitting](../conferences/icml-2026/cards/4301-4400.md#sun26aa-architecture) · Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting
+- [sign-equivariant-orbital-attention](../conferences/icml-2026/cards/4401-4500.md#thiede26a-architecture) · Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions
 <!-- classification:end -->

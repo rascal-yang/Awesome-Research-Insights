@@ -403,6 +403,7 @@
 - <a id="sun26r-optimization"></a>[Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace](../conferences/icml-2026/cards/4201-4300.md#paper-sun26r)
 - <a id="tan26a-optimization"></a>[Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity](../conferences/icml-2026/cards/4301-4400.md#paper-tan26a)
 - <a id="tao26d-optimization"></a>[Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction](../conferences/icml-2026/cards/4401-4500.md#paper-tao26d)
+- <a id="tian26a-optimization"></a>[Connecting Independently Trained Modes via Layer-Wise Connectivity](../conferences/icml-2026/cards/4401-4500.md#paper-tian26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -515,6 +516,7 @@
 - <a id="shao26b-data-strategies"></a>[One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](../conferences/icml-2026/cards/4001-4100.md#paper-shao26b)
 - <a id="singer26a-data-strategies"></a>[Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints](../conferences/icml-2026/cards/4101-4200.md#paper-singer26a)
 - <a id="tang26r-data-strategies"></a>[Federated Data and Feature Selection by Generalized CUR Decomposition](../conferences/icml-2026/cards/4301-4400.md#paper-tang26r)
+- <a id="tian26c-data-strategies"></a>[Is Data Shapley Not Better than Random in Data Selection? Ask NASH](../conferences/icml-2026/cards/4401-4500.md#paper-tian26c)
 
 <a id="by-inference"></a>
 
@@ -682,6 +684,7 @@
 - <a id="stevinson26a-evaluation"></a>[Adversarial Vulnerability from Interference Between Features in Superposition](../conferences/icml-2026/cards/4201-4300.md#paper-stevinson26a)
 - <a id="taheri26b-evaluation"></a>[Probabilistic Robustness Certificates against Adversarial Attacks](../conferences/icml-2026/cards/4301-4400.md#paper-taheri26b)
 - <a id="thaker26a-evaluation"></a>[Membership Inference Attacks for Unseen Classes](../conferences/icml-2026/cards/4401-4500.md#paper-thaker26a)
+- <a id="thies26a-evaluation"></a>[Calibrated Preference Learning: The Case of Label Ranking](../conferences/icml-2026/cards/4401-4500.md#paper-thies26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1054,4 +1057,5 @@
 - <a id="takhanov26a-theory-statistics"></a>[Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding](../conferences/icml-2026/cards/4301-4400.md#paper-takhanov26a)
 - <a id="tao26g-theory-statistics"></a>[Gradient Testing and Estimation by Comparisons](../conferences/icml-2026/cards/4401-4500.md#paper-tao26g)
 - <a id="tenzer26a-theory-statistics"></a>[Semi-Supervised Hypothesis Testing by Betting on Predictions](../conferences/icml-2026/cards/4401-4500.md#paper-tenzer26a)
+- <a id="thomsen26a-theory-statistics"></a>[A Tight Theory of Error Feedback Algorithms in Distributed Optimization](../conferences/icml-2026/cards/4401-4500.md#paper-thomsen26a)
 <!-- classification:end -->

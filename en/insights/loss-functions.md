@@ -104,6 +104,7 @@ Objectives, auxiliary supervision, and regularization.
 - [R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning](../../conferences/icml-2026/cards/4201-4300.md#song26j-loss-functions) · 中文
 - [Chunk-Guided Q-Learning](../../conferences/icml-2026/cards/4201-4300.md#song26t-loss-functions) · 中文
 - [Maximum Likelihood Reinforcement Learning](../../conferences/icml-2026/cards/4301-4400.md#tajwar26a-loss-functions) · 中文
+- [Generalized Schrödinger Bridge on Graphs](../../conferences/icml-2026/cards/4401-4500.md#theodoropoulos26a-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -209,6 +210,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](../../conferences/icml-2026/cards/2301-2400.md#lee26w-loss-functions) · 中文
 - [Differentially Private Cross-Silo Recommendation from Implicit Feedback](../../conferences/icml-2026/cards/3801-3900.md#ran26c-loss-functions) · 中文
 - [Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](../../conferences/icml-2026/cards/4101-4200.md#siampou26a-loss-functions) · 中文
+- [Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision](../../conferences/icml-2026/cards/4401-4500.md#tian26h-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

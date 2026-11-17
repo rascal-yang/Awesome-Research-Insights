@@ -315,6 +315,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](../../conferences/icml-2026/cards/4401-4500.md#taufeeque26a-evaluation) · 中文
 - [TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning](../../conferences/icml-2026/cards/4401-4500.md#tayebati26a-evaluation) · 中文
 - [CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas](../../conferences/icml-2026/cards/4401-4500.md#tewolde26a-evaluation) · 中文
+- [CodeTaste: Can LLMs Generate Human-Level Code Refactorings?](../../conferences/icml-2026/cards/4401-4500.md#thillen26a-evaluation) · 中文
+- [LLMs Lean on Priors, Not Programming Language Semantics](../../conferences/icml-2026/cards/4401-4500.md#thimmaiah26a-evaluation) · 中文
+- [Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models](../../conferences/icml-2026/cards/4401-4500.md#tian26d-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -569,6 +572,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Adversarial Vulnerability from Interference Between Features in Superposition](../../conferences/icml-2026/cards/4201-4300.md#stevinson26a-evaluation) · 中文
 - [Probabilistic Robustness Certificates against Adversarial Attacks](../../conferences/icml-2026/cards/4301-4400.md#taheri26b-evaluation) · 中文
 - [Membership Inference Attacks for Unseen Classes](../../conferences/icml-2026/cards/4401-4500.md#thaker26a-evaluation) · 中文
+- [Calibrated Preference Learning: The Case of Label Ranking](../../conferences/icml-2026/cards/4401-4500.md#thies26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

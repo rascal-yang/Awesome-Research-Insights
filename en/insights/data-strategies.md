@@ -77,6 +77,7 @@ Data selection, annotation, augmentation, and sampling.
 - [At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization](../../conferences/icml-2026/cards/4301-4400.md#suresh26a-data-strategies) · 中文
 - [SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection](../../conferences/icml-2026/cards/4301-4400.md#tang26y-data-strategies) · 中文
 - [CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling](../../conferences/icml-2026/cards/4301-4400.md#tang26aa-data-strategies) · 中文
+- [AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](../../conferences/icml-2026/cards/4401-4500.md#tian26e-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -195,6 +196,7 @@ Data selection, annotation, augmentation, and sampling.
 - [One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](../../conferences/icml-2026/cards/4001-4100.md#shao26b-data-strategies) · 中文
 - [Optimal Fair Aggregation of Crowdsourced Noisy Labels using Demographic Parity Constraints](../../conferences/icml-2026/cards/4101-4200.md#singer26a-data-strategies) · 中文
 - [Federated Data and Feature Selection by Generalized CUR Decomposition](../../conferences/icml-2026/cards/4301-4400.md#tang26r-data-strategies) · 中文
+- [Is Data Shapley Not Better than Random in Data Selection? Ask NASH](../../conferences/icml-2026/cards/4401-4500.md#tian26c-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

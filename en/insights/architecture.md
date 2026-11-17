@@ -177,6 +177,7 @@ Model-wide design and information flow.
 - [DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving](../../conferences/icml-2026/cards/4001-4100.md#shang26f-architecture) · 中文
 - [HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/4101-4200.md#shou26a-architecture) · 中文
 - [TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction](../../conferences/icml-2026/cards/4201-4300.md#song26q-architecture) · 中文
+- [Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations](../../conferences/icml-2026/cards/4401-4500.md#thompson26a-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -416,4 +417,5 @@ Model-wide design and information flow.
 - [FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction](../../conferences/icml-2026/cards/4101-4200.md#si26a-architecture) · 中文
 - [Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](../../conferences/icml-2026/cards/4101-4200.md#sittoni26a-architecture) · 中文
 - [Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting](../../conferences/icml-2026/cards/4301-4400.md#sun26aa-architecture) · 中文
+- [Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions](../../conferences/icml-2026/cards/4401-4500.md#thiede26a-architecture) · 中文
 <!-- classification:end -->

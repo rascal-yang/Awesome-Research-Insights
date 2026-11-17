@@ -118,6 +118,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="si26a-architecture"></a>[FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction](../../conferences/icml-2026/cards/4101-4200.md#paper-si26a)
 - <a id="sittoni26a-architecture"></a>[Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](../../conferences/icml-2026/cards/4101-4200.md#paper-sittoni26a)
 - <a id="sun26aa-architecture"></a>[Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26aa)
+- <a id="thiede26a-architecture"></a>[Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions](../../conferences/icml-2026/cards/4401-4500.md#paper-thiede26a)
 
 <a id="by-modules"></a>
 

@@ -113,6 +113,7 @@ Reusable components and local changes to model inputs or connections.
 ### Reinforcement Learning
 
 - [Accelerating Q-learning through Efficient Value-Sharing across Actions](../../conferences/icml-2026/cards/3301-3400.md#nagarajan26a-modules) · 中文
+- [Deep Incentive Design with Differentiable Equilibrium Blocks](../../conferences/icml-2026/cards/4401-4500.md#thoma26b-modules) · 中文
 
 <a id="by-robotics"></a>
 
@@ -124,6 +125,7 @@ Reusable components and local changes to model inputs or connections.
 - [RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](../../conferences/icml-2026/cards/1801-1900.md#jang26c-modules) · 中文
 - [Mixture of Horizons in Action Chunking](../../conferences/icml-2026/cards/1901-2000.md#jing26f-modules) · 中文
 - [Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](../../conferences/icml-2026/cards/2401-2500.md#li26ay-modules) · 中文
+- [QPKO: Differentiable QP-Embedded Deep Koopman Framework for Modeling Nonlinear Systems](../../conferences/icml-2026/cards/4401-4500.md#tian26f-modules) · 中文
 - <a id="instruction-prefixes-for-causal-visual-grounding"></a><a id="multimodal-token-layout"></a>[ReconVLA](../../papers/reconvla.md#reconvla-modules) · 中文
 
 <a id="by-multimodal"></a>
@@ -153,6 +155,7 @@ Reusable components and local changes to model inputs or connections.
 - [VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion](../../conferences/icml-2026/cards/4101-4200.md#singh26g-modules) · 中文
 - [CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks](../../conferences/icml-2026/cards/4201-4300.md#suharitdamrong26a-modules) · 中文
 - [video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM](../../conferences/icml-2026/cards/4201-4300.md#sun26s-modules) · 中文
+- [A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification](../../conferences/icml-2026/cards/4401-4500.md#tian26i-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

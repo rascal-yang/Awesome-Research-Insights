@@ -28,6 +28,7 @@
 ### 模块
 
 - <a id="nagarajan26a-modules"></a>[Accelerating Q-learning through Efficient Value-Sharing across Actions](../conferences/icml-2026/cards/3301-3400.md#paper-nagarajan26a)
+- <a id="thoma26b-modules"></a>[Deep Incentive Design with Differentiable Equilibrium Blocks](../conferences/icml-2026/cards/4401-4500.md#paper-thoma26b)
 
 <a id="by-loss-functions"></a>
 
@@ -44,6 +45,7 @@
 - <a id="song26j-loss-functions"></a>[R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning](../conferences/icml-2026/cards/4201-4300.md#paper-song26j)
 - <a id="song26t-loss-functions"></a>[Chunk-Guided Q-Learning](../conferences/icml-2026/cards/4201-4300.md#paper-song26t)
 - <a id="tajwar26a-loss-functions"></a>[Maximum Likelihood Reinforcement Learning](../conferences/icml-2026/cards/4301-4400.md#paper-tajwar26a)
+- <a id="theodoropoulos26a-loss-functions"></a>[Generalized Schrödinger Bridge on Graphs](../conferences/icml-2026/cards/4401-4500.md#paper-theodoropoulos26a)
 
 <a id="by-optimization"></a>
 
@@ -338,4 +340,5 @@
 - <a id="shao26c-theory-statistics"></a>[The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints](../conferences/icml-2026/cards/4001-4100.md#paper-shao26c)
 - <a id="shi26s-theory-statistics"></a>[Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO](../conferences/icml-2026/cards/4101-4200.md#paper-shi26s)
 - <a id="singh26e-theory-statistics"></a>[Holonomy Grid Codes for Generalisation Under Directed Actions](../conferences/icml-2026/cards/4101-4200.md#paper-singh26e)
+- <a id="tian26b-theory-statistics"></a>[Bridging the Gap Between Average and Discounted TD Learning](../conferences/icml-2026/cards/4401-4500.md#paper-tian26b)
 <!-- classification:end -->

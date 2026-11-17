@@ -89,6 +89,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [POLCA: Stochastic Generative Optimization with LLM](../../conferences/icml-2026/cards/3801-3900.md#ren26l-optimization) · 中文
 - [From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs](../../conferences/icml-2026/cards/3801-3900.md#riabinin26a-optimization) · 中文
 - [A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search](../../conferences/icml-2026/cards/4001-4100.md#seong-eun26a-optimization) · 中文
+- [MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo](../../conferences/icml-2026/cards/4401-4500.md#therien26a-optimization) · 中文
+- [Advancing SVD-based LLM Compression via Layer-Wise Error Model Search](../../conferences/icml-2026/cards/4401-4500.md#thoma26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -393,6 +395,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Revisiting the Role of Pretrained Weights in Model Merging: On Near-Optimality within the Core Subspace](../../conferences/icml-2026/cards/4201-4300.md#sun26r-optimization) · 中文
 - [Density-Guided Robust Counterfactual Explanations on Tabular Data under Model Multiplicity](../../conferences/icml-2026/cards/4301-4400.md#tan26a-optimization) · 中文
 - [Latent Space Robust Optimization of Neural Processes with Aligned Stratified Order-Statistic Loss Reduction](../../conferences/icml-2026/cards/4401-4500.md#tao26d-optimization) · 中文
+- [Connecting Independently Trained Modes via Layer-Wise Connectivity](../../conferences/icml-2026/cards/4401-4500.md#tian26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

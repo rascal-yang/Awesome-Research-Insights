@@ -162,6 +162,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints](../../conferences/icml-2026/cards/4001-4100.md#shao26c-theory-statistics) · 中文
 - [Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO](../../conferences/icml-2026/cards/4101-4200.md#shi26s-theory-statistics) · 中文
 - [Holonomy Grid Codes for Generalisation Under Directed Actions](../../conferences/icml-2026/cards/4101-4200.md#singh26e-theory-statistics) · 中文
+- [Bridging the Gap Between Average and Discounted TD Learning](../../conferences/icml-2026/cards/4401-4500.md#tian26b-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -552,6 +553,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding](../../conferences/icml-2026/cards/4301-4400.md#takhanov26a-theory-statistics) · 中文
 - [Gradient Testing and Estimation by Comparisons](../../conferences/icml-2026/cards/4401-4500.md#tao26g-theory-statistics) · 中文
 - [Semi-Supervised Hypothesis Testing by Betting on Predictions](../../conferences/icml-2026/cards/4401-4500.md#tenzer26a-theory-statistics) · 中文
+- [A Tight Theory of Error Feedback Algorithms in Distributed Optimization](../../conferences/icml-2026/cards/4401-4500.md#thomsen26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -162,6 +162,7 @@
 - [安全探索时显式预算参数估计](../conferences/icml-2026/cards/4001-4100.md#shao26c-theory-statistics) · The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints
 - [按奖励结构选择RLHF或DPO](../conferences/icml-2026/cards/4101-4200.md#shi26s-theory-statistics) · Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO
 - [非交换动作需要矩阵谱](../conferences/icml-2026/cards/4101-4200.md#singh26e-theory-statistics) · Holonomy Grid Codes for Generalisation Under Directed Actions
+- [independent-chain-average-td](../conferences/icml-2026/cards/4401-4500.md#tian26b-theory-statistics) · Bridging the Gap Between Average and Discounted TD Learning
 
 <a id="by-robotics"></a>
 
@@ -552,6 +553,7 @@
 - [核回归的不惩罚子空间](../conferences/icml-2026/cards/4301-4400.md#takhanov26a-theory-statistics) · Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding
 - [comparison-gradient-direction](../conferences/icml-2026/cards/4401-4500.md#tao26g-theory-statistics) · Gradient Testing and Estimation by Comparisons
 - [bet-on-predictions-with-null-retraining](../conferences/icml-2026/cards/4401-4500.md#tenzer26a-theory-statistics) · Semi-Supervised Hypothesis Testing by Betting on Predictions
+- [error-feedback-heterogeneity-boundary](../conferences/icml-2026/cards/4401-4500.md#thomsen26a-theory-statistics) · A Tight Theory of Error Feedback Algorithms in Distributed Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

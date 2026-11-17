@@ -113,6 +113,7 @@
 ### 强化学习
 
 - [扩大动作值均值以共享 TD 信号](../conferences/icml-2026/cards/3301-3400.md#nagarajan26a-modules) · Accelerating Q-learning through Efficient Value-Sharing across Actions
+- [surrogate-equilibrium-gradient](../conferences/icml-2026/cards/4401-4500.md#thoma26b-modules) · Deep Incentive Design with Differentiable Equilibrium Blocks
 
 <a id="by-robotics"></a>
 
@@ -124,6 +125,7 @@
 - [用行为检索和上下文间隔约束动作](../conferences/icml-2026/cards/1801-1900.md#jang26c-modules) · RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation
 - [按多时域动作预测的共识决定执行长度](../conferences/icml-2026/cards/1901-2000.md#jing26f-modules) · Mixture of Horizons in Action Chunking
 - [视野外操作的持续空间记忆](../conferences/icml-2026/cards/2401-2500.md#li26ay-modules) · Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action
+- [constrained-koopman-variable-elimination](../conferences/icml-2026/cards/4401-4500.md#tian26f-modules) · QPKO: Differentiable QP-Embedded Deep Koopman Framework for Modeling Nonlinear Systems
 - <a id="instruction-prefixes-for-causal-visual-grounding"></a><a id="multimodal-token-layout"></a>[用指令前缀让视觉表征感知任务](../papers/reconvla.md#reconvla-modules) · ReconVLA
 
 <a id="by-multimodal"></a>
@@ -153,6 +155,7 @@
 - [运动同步度调节场景条件强度](../conferences/icml-2026/cards/4101-4200.md#singh26g-modules) · VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion
 - [跨模态低秩中间矩阵](../conferences/icml-2026/cards/4201-4300.md#suharitdamrong26a-modules) · CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks
 - [long-span-fast-weight-memory](../conferences/icml-2026/cards/4201-4300.md#sun26s-modules) · video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM
+- [conflict-aware-evidence-fusion](../conferences/icml-2026/cards/4401-4500.md#tian26i-modules) · A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification
 
 <a id="by-ml-foundations"></a>
 

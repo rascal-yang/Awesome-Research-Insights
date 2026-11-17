@@ -315,6 +315,9 @@
 - [separate-probe-drift-from-policy-change](../conferences/icml-2026/cards/4401-4500.md#taufeeque26a-evaluation) · The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes
 - [tail-risk-agent-monitoring](../conferences/icml-2026/cards/4401-4500.md#tayebati26a-evaluation) · TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning
 - [cooperation-mechanisms-under-crossplay](../conferences/icml-2026/cards/4401-4500.md#tewolde26a-evaluation) · CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas
+- [intent-versus-execution-refactoring](../conferences/icml-2026/cards/4401-4500.md#thillen26a-evaluation) · CodeTaste: Can LLMs Generate Human-Level Code Refactorings?
+- [semantics-prior-conflict](../conferences/icml-2026/cards/4401-4500.md#thimmaiah26a-evaluation) · LLMs Lean on Priors, Not Programming Language Semantics
+- [evaluation-factor-interactions](../conferences/icml-2026/cards/4401-4500.md#tian26d-evaluation) · Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -569,6 +572,7 @@
 - [表征压缩干扰与鲁棒性](../conferences/icml-2026/cards/4201-4300.md#stevinson26a-evaluation) · Adversarial Vulnerability from Interference Between Features in Superposition
 - [stochastic-training-barrier-validation](../conferences/icml-2026/cards/4301-4400.md#taheri26b-evaluation) · Probabilistic Robustness Certificates against Adversarial Attacks
 - [unseen-class-privacy-auditing](../conferences/icml-2026/cards/4401-4500.md#thaker26a-evaluation) · Membership Inference Attacks for Unseen Classes
+- [ranking-calibration-hierarchy](../conferences/icml-2026/cards/4401-4500.md#thies26a-evaluation) · Calibrated Preference Learning: The Case of Label Ranking
 
 <a id="by-graph-and-recommendation"></a>
 

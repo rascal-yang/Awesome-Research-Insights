@@ -36,6 +36,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="shang26f-architecture"></a>[DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving](../../conferences/icml-2026/cards/4001-4100.md#paper-shang26f)
 - <a id="shou26a-architecture"></a>[HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/4101-4200.md#paper-shou26a)
 - <a id="song26q-architecture"></a>[TF-FACE: Time-Frequency Fusion Learning via Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction](../../conferences/icml-2026/cards/4201-4300.md#paper-song26q)
+- <a id="thompson26a-architecture"></a>[Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations](../../conferences/icml-2026/cards/4401-4500.md#paper-thompson26a)
 
 <a id="by-modules"></a>
 
@@ -47,6 +48,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="jang26c-modules"></a>[RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26c)
 - <a id="jing26f-modules"></a>[Mixture of Horizons in Action Chunking](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26f)
 - <a id="li26ay-modules"></a>[Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ay)
+- <a id="tian26f-modules"></a>[QPKO: Differentiable QP-Embedded Deep Koopman Framework for Modeling Nonlinear Systems](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26f)
 
 <a id="by-loss-functions"></a><a id="vision-language-action-models"></a>
 

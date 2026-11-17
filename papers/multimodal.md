@@ -68,6 +68,7 @@
 - <a id="singh26g-modules"></a>[VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion](../conferences/icml-2026/cards/4101-4200.md#paper-singh26g)
 - <a id="suharitdamrong26a-modules"></a>[CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks](../conferences/icml-2026/cards/4201-4300.md#paper-suharitdamrong26a)
 - <a id="sun26s-modules"></a>[video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM](../conferences/icml-2026/cards/4201-4300.md#paper-sun26s)
+- <a id="tian26i-modules"></a>[A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification](../conferences/icml-2026/cards/4401-4500.md#paper-tian26i)
 
 <a id="by-loss-functions"></a>
 

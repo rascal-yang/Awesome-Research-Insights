@@ -230,6 +230,8 @@
 - <a id="ren26l-optimization"></a>[POLCA: Stochastic Generative Optimization with LLM](../conferences/icml-2026/cards/3801-3900.md#paper-ren26l)
 - <a id="riabinin26a-optimization"></a>[From Muon to Gluon: Bridging Theory and Practice of LMO-based Optimizers for LLMs](../conferences/icml-2026/cards/3801-3900.md#paper-riabinin26a)
 - <a id="seong-eun26a-optimization"></a>[A Language-Guided Bayesian Optimization for Efficient LoRA Hyperparameter Search](../conferences/icml-2026/cards/4001-4100.md#paper-seong-eun26a)
+- <a id="therien26a-optimization"></a>[MuLoCo: Muon is a Practical Inner Optimizer for DiLoCo](../conferences/icml-2026/cards/4401-4500.md#paper-therien26a)
+- <a id="thoma26a-optimization"></a>[Advancing SVD-based LLM Compression via Layer-Wise Error Model Search](../conferences/icml-2026/cards/4401-4500.md#paper-thoma26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -589,6 +591,7 @@
 - <a id="suresh26a-data-strategies"></a>[At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization](../conferences/icml-2026/cards/4301-4400.md#paper-suresh26a)
 - <a id="tang26y-data-strategies"></a>[SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection](../conferences/icml-2026/cards/4301-4400.md#paper-tang26y)
 - <a id="tang26aa-data-strategies"></a>[CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling](../conferences/icml-2026/cards/4301-4400.md#paper-tang26aa)
+- <a id="tian26e-data-strategies"></a>[AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](../conferences/icml-2026/cards/4401-4500.md#paper-tian26e)
 
 <a id="by-inference"></a>
 
@@ -1216,6 +1219,9 @@
 - <a id="taufeeque26a-evaluation"></a>[The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes](../conferences/icml-2026/cards/4401-4500.md#paper-taufeeque26a)
 - <a id="tayebati26a-evaluation"></a>[TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning](../conferences/icml-2026/cards/4401-4500.md#paper-tayebati26a)
 - <a id="tewolde26a-evaluation"></a>[CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas](../conferences/icml-2026/cards/4401-4500.md#paper-tewolde26a)
+- <a id="thillen26a-evaluation"></a>[CodeTaste: Can LLMs Generate Human-Level Code Refactorings?](../conferences/icml-2026/cards/4401-4500.md#paper-thillen26a)
+- <a id="thimmaiah26a-evaluation"></a>[LLMs Lean on Priors, Not Programming Language Semantics](../conferences/icml-2026/cards/4401-4500.md#paper-thimmaiah26a)
+- <a id="tian26d-evaluation"></a>[Beyond Benchmarks: Toward Causally Faithful Evaluation of Large Language Models](../conferences/icml-2026/cards/4401-4500.md#paper-tian26d)
 
 <a id="by-theory-statistics"></a>
 

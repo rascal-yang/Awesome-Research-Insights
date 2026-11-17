@@ -104,6 +104,7 @@
 - [高UTD非中心冗余正则](../conferences/icml-2026/cards/4201-4300.md#song26j-loss-functions) · R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning
 - [chunk价值引导单步critic](../conferences/icml-2026/cards/4201-4300.md#song26t-loss-functions) · Chunk-Guided Q-Learning
 - [finite-compute-maxrl](../conferences/icml-2026/cards/4301-4400.md#tajwar26a-loss-functions) · Maximum Likelihood Reinforcement Learning
+- [cost-consistent-graph-transport](../conferences/icml-2026/cards/4401-4500.md#theodoropoulos26a-loss-functions) · Generalized Schrödinger Bridge on Graphs
 
 <a id="by-robotics"></a>
 
@@ -209,6 +210,7 @@
 - [按邻居类型重写图推荐的负样本分数](../conferences/icml-2026/cards/2301-2400.md#lee26w-loss-functions) · Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy
 - [隐式推荐的互补损失与私有分解](../conferences/icml-2026/cards/3801-3900.md#ran26c-loss-functions) · Differentially Private Cross-Silo Recommendation from Implicit Feedback
 - [以多空间尺度的分布教师辅助长尾实体表征](../conferences/icml-2026/cards/4101-4200.md#siampou26a-loss-functions) · Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement
+- [event-residual-shell-restriction](../conferences/icml-2026/cards/4401-4500.md#tian26h-loss-functions) · Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision
 
 <a id="by-scientific-ml"></a>
 
