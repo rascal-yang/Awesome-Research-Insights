@@ -34,6 +34,7 @@ Data selection, annotation, augmentation, and sampling.
 ### Natural Language Processing
 
 - [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](../../papers/nlp.md#banayeeanzade26a-data-strategies) · 中文
+- [Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](../../papers/nlp.md#cho26i-data-strategies) · 中文
 
 ### Reinforcement Learning
 
@@ -45,6 +46,7 @@ Data selection, annotation, augmentation, and sampling.
 - [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](../../papers/robotics.md#chen26j-data-strategies) · 中文
 - [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](../../papers/robotics.md#chen26ab-data-strategies) · 中文
 - [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](../../papers/robotics.md#chen26cy-data-strategies) · 中文
+- [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](../../papers/robotics.md#choi26i-data-strategies) · 中文
 
 ### Multimodal Learning
 
@@ -62,6 +64,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Causal Preference Elicitation](../../papers/ml-foundations.md#bonilla26a-data-strategies) · 中文
 - [Probably Approximately Correct Labels](../../papers/ml-foundations.md#candes26a-data-strategies) · 中文
 - [Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning](../../papers/ml-foundations.md#chen26ac-data-strategies) · 中文
+- [Unifying and Optimizing Data Values for Selection via Sequential Decision-Making](../../papers/ml-foundations.md#chi26d-data-strategies) · 中文
+- [Active Learning with Low-Rank Structure for Data Selection](../../papers/ml-foundations.md#cohen-addad26a-data-strategies) · 中文
 
 ### Graph Learning and Recommendation
 

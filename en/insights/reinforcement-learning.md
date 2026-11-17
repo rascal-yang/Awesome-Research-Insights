@@ -59,12 +59,14 @@ Aggregating rewards before group normalization can map different combinations to
 - [JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG](../../papers/llm.md#chen26gh-reinforcement-learning) · 中文
 - [DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning](../../papers/llm.md#chen26gp-reinforcement-learning) · 中文
 - [Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning](../../papers/llm.md#cheng26e-reinforcement-learning) · 中文
+- [Anchored Self-Play for Code Repair](../../papers/llm.md#choi26f-reinforcement-learning) · 中文
 
 ### Computer Vision
 
 - [Pareto-Guided Optimal Transport for Multi-Reward Alignment](../../papers/computer-vision.md#ba26a-reinforcement-learning) · 中文
 - [Test-Time Reinforcement Learning for Flow Matching](../../papers/computer-vision.md#chen26as-reinforcement-learning) · 中文
 - [RELO: Reinforcement Learning to Localize for Visual Object Tracking](../../papers/computer-vision.md#chen26ea-reinforcement-learning) · 中文
+- [Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](../../papers/computer-vision.md#choi26o-reinforcement-learning) · 中文
 
 ### Natural Language Processing
 
@@ -94,11 +96,17 @@ Aggregating rewards before group normalization can map different combinations to
 - [VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning](../../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) · 中文
 - [How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](../../papers/reinforcement-learning.md#cheng26q-reinforcement-learning) · 中文
 - [Hybrid Reinforcement Learning in Adversarial Markov Decision Processes](../../papers/reinforcement-learning.md#cheng26s-reinforcement-learning) · 中文
+- [Bilinear Bandits with Partially Observable Features](../../papers/reinforcement-learning.md#cho26f-reinforcement-learning) · 中文
+- [Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL](../../papers/reinforcement-learning.md#choi26k-reinforcement-learning) · 中文
+- [Value Aggregation with Uncertainty in Online Decentralized MARL](../../papers/reinforcement-learning.md#chu26a-reinforcement-learning) · 中文
+- [Balancing Plasticity and Stability with Fast and Slow Successor Features](../../papers/reinforcement-learning.md#chua26a-reinforcement-learning) · 中文
+- [Offline Reinforcement Learning with Universal Horizon Models](../../papers/reinforcement-learning.md#chung26b-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
 
 - [Learning to Search and Searching to Learn for Generalization in Planning](../../papers/robotics.md#aichmuller26a-reinforcement-learning) · 中文
+- [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](../../papers/robotics.md#chowdhury26a-reinforcement-learning) · 中文
 
 ### Multimodal Learning
 

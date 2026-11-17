@@ -39,6 +39,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning](../../papers/multimodal.md#chen26cx-representation-learning) · 中文
 - [MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction](../../papers/multimodal.md#chen26fo-representation-learning) · 中文
 - [Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](../../papers/multimodal.md#cheng26k-representation-learning) · 中文
+- [Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](../../papers/multimodal.md#choi26h-representation-learning) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -60,6 +61,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [CONTEXTOR: Contextualized High-order Contrastive Learning](../../papers/graph-and-recommendation.md#cai26f-representation-learning) · 中文
 - [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) · 中文
 - [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) · 中文
+- [Computationally-efficient Graph Modeling with Refined Graph Random Features](../../papers/graph-and-recommendation.md#choromanski26a-representation-learning) · 中文
 
 ### Scientific Machine Learning
 

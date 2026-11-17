@@ -29,6 +29,7 @@
 | <a id="chen26aa-architecture"></a>[StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](https://proceedings.mlr.press/v306/chen26aa.html) | 对流风暴短时预报 | 分别编码风暴状态、垂直热力耦合和大尺度环境强迫，再按环境变化聚合不同高度的信息，支持三维结构的短时演化预测。 |
 | <a id="chen26ai-architecture"></a>[From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://proceedings.mlr.press/v306/chen26ai.html) | 电子密度条件分子生成 | 用口袋内配体和溶剂的低分辨率电子密度代替刚性空口袋条件。密度可以来自计算或实验，并让自回归模型利用构象和占位信息。 |
 | <a id="chen26cu-architecture"></a>[Co-Generative De Novo Functional Protein Design](https://proceedings.mlr.press/v306/chen26cu.html) | 功能条件蛋白质共生成 | 从功能提示检索已知结构基序，经交叉注意力引导氨基酸和结构 token 同步生成，再用局部结构的功能分类作为辅助监督。这样可把抽象功能条件落实到具体的结构线索。 |
+| <a id="collart26a-architecture"></a>[Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems](https://proceedings.mlr.press/v306/collart26a.html) | 基因组性状到土壤碳动力学 | 用神经网络从宏基因组性状预测动力学参数，再经可微土壤过程模型生成碳库和 CO₂ 时间序列。以可测 CO₂ 拟合并对未观测状态和参数施加生态约束，可限制在相同排放曲线下可能出现的不合理动力学。 |
 
 <a id="by-modules"></a>
 
@@ -54,6 +55,7 @@
 | <a id="chen26y-loss-functions"></a>[SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](https://proceedings.mlr.press/v306/chen26y.html) | 心电与报告对齐 | 分别用 Stein 核约束单条心电与报告的匹配及跨样本的整体分布，再用难例匹配细化边界，弥补单一对比损失只监督样本对的不足。 |
 | <a id="chen26at-loss-functions"></a>[FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](https://proceedings.mlr.press/v306/chen26at.html) | 共病多标签表征 | 让同一局部视觉证据以模糊隶属度支持多个疾病概念，再按共病关系组织概念锚点，避免硬分类边界抹掉可共享的病征。 |
 | <a id="chen26fk-loss-functions"></a>[Self-Supervised Dynamical System Representations for Physiological Time-Series](https://proceedings.mlr.press/v306/chen26fk.html) | 生理时序的跨窗重建监督 | 用同一动力过程的一个窗口估计系统表征，再让该表征参与重建另一个窗口。跨窗共享的生成规律可以帮助重建，各窗口独有的初值和过程噪声难以迁移，从而促使编码器保留可迁移信息。 |
+| <a id="chowdhury26b-loss-functions"></a>[S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation](https://proceedings.mlr.press/v306/chowdhury26b.html) | 医学分割的形态自适应损失 | 从真值掩码计算管状程度、紧致度、边界不规则性和相对面积，用这些量逐样本调节区域、边界等损失的权重，并与数据集层面学习的权重结合。 |
 
 <a id="by-optimization"></a>
 
@@ -84,6 +86,7 @@
 | <a id="cao26r-training-strategies"></a>[TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](https://proceedings.mlr.press/v306/cao26r.html) | 变构蛋白结合物生成 | 将预测激动或拮抗方向的信号与软亲和门控分开，用两者微调离散扩散，使生成目标能区分作用方向和静态结合强度。 |
 | <a id="charles26a-training-strategies"></a>[Tokenised Flow Matching for Hierarchical Simulation Based Inference](https://proceedings.mlr.press/v306/charles26a.html) | 层级仿真推断 | 先从单站点仿真学习因子化似然，再拼出多站点合成观测训练完整层级后验，可减少每个训练样本需要调用仿真器的次数。 |
 | <a id="chen26ao-training-strategies"></a>[EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting](https://proceedings.mlr.press/v306/chen26ao.html) | 长时天气预测 | 渐进增加模型可见的累积历史做微调，减轻长时预测误差累积，并用动态加权的组合损失平衡长短预测目标。 |
+| <a id="consens26a-training-strategies"></a>[Predicting evolutionary rate as a pretraining task improves genome language model representations](https://proceedings.mlr.press/v306/consens26a.html) | 基因组模型的进化速率监督 | 将单碱基 PhyloP 分数用作进化速率预训练目标，与序列重建联合优化。对调控基因组和变异效应基准，这种监督为序列重建提供了额外的保守性信号。 |
 
 <a id="by-data-strategies"></a>
 

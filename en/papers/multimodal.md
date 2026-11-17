@@ -96,6 +96,7 @@ The linked short insights are available in Chinese.
 | [Beyond Blind Noising: Disentangled Visual Rectification for Hallucination Mitigation in MLLMs](https://proceedings.mlr.press/v306/chen26dz.html) | [Read insight (中文)](../../papers/multimodal.md#chen26dz-inference) |
 | [Show, Don’t Tell: Morphing Latent Reasoning into Image Generation](https://proceedings.mlr.press/v306/chen26fv.html) | [Read insight (中文)](../../papers/multimodal.md#chen26fv-inference) |
 | [Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](https://proceedings.mlr.press/v306/cheng26d.html) | [Read insight (中文)](../../papers/multimodal.md#cheng26d-inference) |
+| [Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](https://proceedings.mlr.press/v306/cho26b.html) | [Read insight (中文)](../../papers/multimodal.md#cho26b-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -107,6 +108,7 @@ The linked short insights are available in Chinese.
 | [Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning](https://proceedings.mlr.press/v306/chen26cx.html) | [Read insight (中文)](../../papers/multimodal.md#chen26cx-representation-learning) |
 | [MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction](https://proceedings.mlr.press/v306/chen26fo.html) | [Read insight (中文)](../../papers/multimodal.md#chen26fo-representation-learning) |
 | [Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](https://proceedings.mlr.press/v306/cheng26k.html) | [Read insight (中文)](../../papers/multimodal.md#cheng26k-representation-learning) |
+| [Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](https://proceedings.mlr.press/v306/choi26h.html) | [Read insight (中文)](../../papers/multimodal.md#choi26h-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -125,6 +127,9 @@ The linked short insights are available in Chinese.
 | [OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](https://proceedings.mlr.press/v306/chen26en.html) | [Read insight (中文)](../../papers/multimodal.md#chen26en-evaluation) |
 | [BabyVision: Visual Reasoning Beyond Language](https://proceedings.mlr.press/v306/chen26fj.html) | [Read insight (中文)](../../papers/multimodal.md#chen26fj-evaluation) |
 | [HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing](https://proceedings.mlr.press/v306/chen26gz.html) | [Read insight (中文)](../../papers/multimodal.md#chen26gz-evaluation) |
+| [Visual Persuasion: What Influences Decisions of Vision-Language Models?](https://proceedings.mlr.press/v306/cherep26a.html) | [Read insight (中文)](../../papers/multimodal.md#cherep26a-evaluation) |
+| [GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://proceedings.mlr.press/v306/chi26a.html) | [Read insight (中文)](../../papers/multimodal.md#chi26a-evaluation) |
+| [MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models](https://proceedings.mlr.press/v306/cohen26d.html) | [Read insight (中文)](../../papers/multimodal.md#cohen26d-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

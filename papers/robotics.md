@@ -24,6 +24,7 @@
 | :--- | :--- | :--- |
 | <a id="bai26h-architecture"></a>[Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) | VLA 潜空间推理 | 按课程将显式文本和视觉思维链监督过渡到连续潜推理，再用这些潜状态条件化动作生成，推理时省去显式思维链解码。 |
 | <a id="cao26u-architecture"></a>[Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) | 频域分层动作策略 | 将动作序列经 DCT 拆为低频粗运动和高频修正，再根据观察与语言生成粗轨迹、以粗轨迹为条件补上对齐和接触所需细节。 |
+| <a id="chuang26a-architecture"></a>[The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) | SE(3) 位姿扩散策略 | 在 SE(3) 上用左不变随机微分方程给机器人位姿加噪，在切空间预测反向去噪分数，再用指数映射更新位姿，使采样过程中的旋转保持在 SO(3) 上。 |
 
 <a id="by-modules"></a>
 
@@ -58,6 +59,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="aichmuller26a-reinforcement-learning"></a>[Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | 规划与强化学习 | 用关系图网络预测价值启发式来指导加权 A*，再用搜索产生的经验做 Q-learning，形成可自我改进的规划循环。 |
+| <a id="chowdhury26a-reinforcement-learning"></a>[LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) | 按关键帧分配语言反馈奖励 | 让视觉语言模型对一次操作尝试生成结构化反思，把反思和机器人观测映射到同一表征空间。用状态与反馈相似度的时序变化构造奖励，并用关键帧权重把训练信号集中到关键步骤。 |
 
 <a id="by-training-strategies"></a>
 
@@ -77,6 +79,7 @@
 | <a id="chen26j-data-strategies"></a>[RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) | 双臂仿真数据生成 | 让多模态模型编写任务程序，由仿真执行结果反馈失败并引导改写。程序通过后再沿杂物、光照、背景、台面高度和语言等维度生成变体。 |
 | <a id="chen26ab-data-strategies"></a>[PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | 物理可用的桌面场景 | 先按锚点依赖顺序放置物体，再用可微 SDF 在测试时优化碰撞并约束语义关系，使生成布局更容易直接载入物理仿真。 |
 | <a id="chen26cy-data-strategies"></a>[Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | 固定预算下的机器人示范分配 | 先在少数核心条件重复采集示范以稳定策略，再按教师强制下的动作偏差找出高风险边界，补采示范并用受约束的残差更新扩展覆盖。真机实验中，同等预算下的成功率优于分散采样。 |
+| <a id="choi26i-data-strategies"></a>[EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) | 具身动作风险的组合数据构造 | 为同类场景组合不同危险配置与动作，包括在危险仍存在时改用不会触发它的动作。将图像和动作配对并标注风险，使监督信号针对特定交互的后果，也覆盖容易引发误报的安全动作。 |
 
 <a id="by-inference"></a>
 
@@ -90,6 +93,10 @@
 | <a id="chai26a-inference"></a>[N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | 移动操作站位 | 用操控策略的 rollout 给候选站位打分，并通过视角增强学习对视角不敏感的站位偏好，把策略能否成功执行纳入导航目标。 |
 | <a id="chen26i-inference"></a>[PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | 概率场景图导航 | 保留每个节点的完整类别分布，从联合分布选取多个可能世界来评估候选地标，再用过去成败轨迹校准当前检测结果。 |
 | <a id="chen26co-inference"></a>[Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](https://proceedings.mlr.press/v306/chen26co.html) | 长程机器人轨迹采样 | 当信噪比降至阈值以下时才触发 MCMC 重采样，用整段条件轨迹概率的幂分布比较候选动作序列，让局部决策容易偏离指令的时刻获得更多搜索计算。 |
+| <a id="chi26b-inference"></a>[EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning](https://proceedings.mlr.press/v306/chi26b.html) | 多智能体协作的反事实规划 | 把执行失败归纳成可检索的符号约束，再以这些约束为条件对联合计划做变异，用相关历史执行证据给候选排序。在具身协作仿真中，该搜索提高了计划的可执行性。 |
+| <a id="choi26a-inference"></a>[SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](https://proceedings.mlr.press/v306/choi26a.html) | VLA 不确定性调节感知与动作 | 用当前动作分布对高、低不确定性参考分布的 KL 距离差调节动作采样温度，并用上一控制步的不确定性相对历史均值的偏差调节当前视觉注意力温度。这样可在一次视觉编码内同时适配感知和动作探索。 |
+| <a id="choi26c-inference"></a>[Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) | 机器人技能代码的局部重绑定 | 把技能的控制流程保存为可执行代码，部署时用本体比对目标机器人的能力和原语 API。对确定的冲突，让小语言模型只填补受影响的代码片段，依赖现场感知的条件留到执行时检验和调整。 |
+| <a id="chun26a-inference"></a>[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) | 函数级 KV 缓存拼接与修补 | 缓存已验证函数的接口和实现。合成机器人代码策略时，将相关接口的 KV 状态拼入上下文并链接现成函数，执行反馈指出需调整的位置后，只重解码受影响的代码片段。 |
 
 <a id="by-evaluation"></a>
 

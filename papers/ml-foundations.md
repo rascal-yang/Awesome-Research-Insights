@@ -23,6 +23,7 @@
 | <a id="chaussard26a-architecture"></a>[Independent Component Discovery in Temporal Count Data](https://proceedings.mlr.press/v306/chaussard26a.html) | 时序计数分解 | 按不同运行状态建模独立潜成分的贡献，以 Poisson 对数正态模型生成计数，可以区分持续共变成分与状态切换。 |
 | <a id="cheng26h-architecture"></a>[CoGenCast: A Coupled Autoregressive–Flow Generative Framework for Time Series Forecasting](https://proceedings.mlr.press/v306/cheng26h.html) | 自回归与流匹配耦合预测 | 修改预训练解码器的注意力拓扑，让历史和上下文双向交互，再以因果注意力逐步生成预测表征。以该表征为条件进行流匹配采样，可输出连续的概率预测轨迹。 |
 | <a id="cheng26t-architecture"></a>[KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables](https://proceedings.mlr.press/v306/cheng26t.html) | 外生时序的历史条件生成 | 用历史窗口构造流生成的条件起点，再用 Pearson 相关和 Granger 检验等统计先验约束外生变量之间的交互，使采样更贴近历史动态并减轻偶然相关的影响。 |
+| <a id="clarkson26a-architecture"></a>[Transformer Circuits Can Realize Clustering Algorithms](https://proceedings.mlr.press/v306/clarkson26a.html) | 用 Transformer 电路实现 Lloyd 迭代 | 把数据点分配到最近质心和按组重算质心组织成 Transformer 的一次前向。论文给出点积注意力与前馈块的显式构造，证明一层即可精确实现一轮 k-means 更新。 |
 
 <a id="by-modules"></a>
 
@@ -41,6 +42,7 @@
 | <a id="cao26af-modules"></a>[Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](https://proceedings.mlr.press/v306/cao26af.html) | 多实例部分标签 | 用包级预测的平均梯度外积找出对判别最敏感的特征方向，并据此重加权实例注意力，辅助识别被错误候选标签淹没的关键实例。 |
 | <a id="chaudhry26a-modules"></a>[The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](https://proceedings.mlr.press/v306/chaudhry26a.html) | 自监督投影头 | 线性投影头可做隐式白化，而平滑非线性头可在表征坍缩点引入负曲率。投影头的深度和激活函数因此会影响主干保留的信息。 |
 | <a id="chen26fb-modules"></a>[Riemannian Networks over Full-Rank Correlation Matrices](https://proceedings.mlr.press/v306/chen26fb.html) | 相关矩阵流形全连接层 | 把全连接层的每个输出坐标写成带符号的超平面距离，再用相关矩阵流形的度量和对应的逆映射合成输出，使层的输入和输出都保持满秩相关矩阵结构。 |
+| <a id="chong26c-modules"></a>[Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](https://proceedings.mlr.press/v306/chong26c.html) | 时间序列的后续轨迹检索 | 在训练库中存储历史窗及预测目标之后的相对变化。对当前历史按通道检索形态相似的训练窗，聚合其变化构成后续轨迹代理，再用门控将代理特征融入预测主干。 |
 
 <a id="by-loss-functions"></a>
 
@@ -111,6 +113,12 @@
 | <a id="chen26fz-optimization"></a>[JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning](https://proceedings.mlr.press/v306/chen26fz.html) | 持续学习的 LoRA 梯度修正 | 先把目标权重更新投影到历史任务表征的正交补，再固定 B 求 A 的更新，用剩余拟合误差求 B 的更新。让两个低秩因子的合成变化逼近安全方向，减小对旧表征的干扰。 |
 | <a id="chen26gg-optimization"></a>[Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](https://proceedings.mlr.press/v306/chen26gg.html) | 集合元素污染的鲁棒优化 | 在切片 Wasserstein 嵌入空间中为每个集合找近邻，凸组合近邻嵌入，并用投影梯度上升寻找使任务损失最大的混合权重。训练同时压低原样本损失和这种局部重心扰动的损失，把受污染集合的搜索近似为单纯形优化。 |
 | <a id="cheng26f-optimization"></a>[Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask](https://proceedings.mlr.press/v306/cheng26f.html) | 结构鲁棒的 Gromov–Wasserstein 对齐 | 保留传输计划的平衡边缘约束，在二次匹配损失中加入两个有预算且受传输量约束的软掩码，交替更新配对和掩码，以过滤有效节点间的异常连接对齐误差。 |
+| <a id="choi26j-optimization"></a>[Parameter Decorrelation via Transition-Variance Alignment for Multivariate Time-series Forecasting](https://proceedings.mlr.press/v306/choi26j.html) | 按梯度噪声调节更新方差 | 用梯度噪声尺度与目标尺度的对数差绝对值构造步长门控，二者相近时保留基准步长，偏离时平滑缩小步长。该方法直接控制由噪声方差和步长平方共同决定的参数更新方差。 |
+| <a id="choo26b-optimization"></a>[Learning Unanimously Acceptable Lotteries via Queries](https://proceedings.mlr.press/v306/choo26b.html) | 一致可接受的随机方案查询 | 从当前已知约束中选出候选随机方案，只在某位利益相关者拒绝时用二元查询拟合其可接受半空间，将约束加入可行域。这样在找到所有人接受的方案前只需详查实际阻挡候选的参与者。 |
+| <a id="chung26d-optimization"></a>[Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation](https://proceedings.mlr.press/v306/chung26d.html) | 距离算子的凸最优传输 | 以传输计划诱导的条件期望算子连接两个域，惩罚先施加域内距离算子再传输与先传输再施加另一域距离算子的差异，使结构项成为传输计划的凸二次函数。 |
+| <a id="clarke26a-optimization"></a>[Conformal Prediction for Early Stopping in Mixed Integer Optimization](https://proceedings.mlr.press/v306/clarke26a.html) | 混合整数求解的共形提前停止 | 从求解器状态预测真实最优性差距，再用独立同分布的校准实例选出预测阈值。对同分布的新实例，可在预测差距首次降至阈值时停止，并为解超出指定误差容忍度的概率提供上界。 |
+| <a id="coester26a-optimization"></a>[Learning-Augmented Online Minimization with Dual Predictions](https://proceedings.mlr.press/v306/coester26a.html) | 在线最小化的对偶预测 | 为度量任务系统和层状集合覆盖预测最优线性规划的对偶解，并用对偶信息指导在线决策。论文给出的稳定性分析说明，这类预测在相近实例之间比直接复用原始最优解更可靠。 |
+| <a id="cortes26a-optimization"></a>[Beyond Binary: Continuous State Optimization with Graph-Structured Objectives](https://proceedings.mlr.press/v306/cortes26a.html) | 带移动成本的图结构连续优化 | 用依赖图把线性目标分解到各自相关的状态维度。局部观测信息矩阵的行列式翻倍后才重算相关状态块，使稀疏依赖图中的更新可以异步进行，减少小步频繁调整带来的移动开销。 |
 
 <a id="by-training-strategies"></a>
 
@@ -148,6 +156,8 @@
 | <a id="bonilla26a-data-strategies"></a>[Causal Preference Elicitation](https://proceedings.mlr.press/v306/bonilla26a.html) | 主动因果发现 | 从观测数据得到的图后验出发，用带噪三类专家反馈更新边的存在和方向，并按期望信息增益优先选择要问的边。 |
 | <a id="candes26a-data-strategies"></a>[Probably Approximately Correct Labels](https://proceedings.mlr.press/v306/candes26a.html) | 带保证的自动标注 | 按模型预测的不确定性分配人工核查，再用审计结果限制全数据集的标注错误率，保留自动标注节省的成本。 |
 | <a id="chen26ac-data-strategies"></a>[Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning](https://proceedings.mlr.press/v306/chen26ac.html) | 稀疏多类标注聚合 | 先跨标注者共享每个类别的标注行为原型，再为个人估计原型权重，可在个人标注不足时共享统计强度，并允许复杂的混淆模式。 |
+| <a id="chi26d-data-strategies"></a>[Unifying and Optimizing Data Values for Selection via Sequential Decision-Making](https://proceedings.mlr.press/v306/chi26d.html) | 训练样本选择的二部图覆盖 | 在训练样本与验证样本之间建相似度图，用所选样本能覆盖的验证点比例代理训练效用。每步挑新增覆盖最多的样本，利用次模性避开覆盖重复，并对代理目标取得 1−1/e 的近似保证。 |
+| <a id="cohen-addad26a-data-strategies"></a>[Active Learning with Low-Rank Structure for Data Selection](https://proceedings.mlr.press/v306/cohen-addad26a.html) | 低秩数据子集的残差采样 | 先选一组嵌入行构成低秩子空间，再按点在子空间内的敏感度和投影残差共同分配采样权重。在给定的损失正则条件下，所选加权子集可近似全量损失，额外误差随最优低秩残差增大。 |
 
 <a id="by-inference"></a>
 
@@ -160,6 +170,8 @@
 | <a id="castro-maci-as26a-inference"></a>[Conditional Diffusion Sampling](https://proceedings.mlr.press/v306/castro-maci-as26a.html) | 条件扩散采样 | 先用并行回火做全局探索，再沿有闭式形式的条件 SDE 做短时局部传输，结合两者能力而无需求助神经网络近似。 |
 | <a id="chen26f-inference"></a>[Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators](https://proceedings.mlr.press/v306/chen26f.html) | 贝叶斯逆问题采样 | 先从便宜但有偏的近似后验采样，再解局部近端优化调整提议，最后由独立 Metropolis–Hastings 校正到目标后验。 |
 | <a id="chen26g-inference"></a>[FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://proceedings.mlr.press/v306/chen26g.html) | 分块扩散注意力缓存 | 当前块外的注意力输出在多个去噪步骤间变化较小，可缓存并复用这一部分，每步继续重算变化大的块内注意力。 |
+| <a id="choi26l-inference"></a>[Reinforced Sequential Monte Carlo for Amortised Sampling](https://proceedings.mlr.press/v306/choi26l.html) | 摊销采样器与粒子采样互训 | 把最大熵强化学习得到的策略用作序贯蒙特卡洛的提议分布，用学习到的流构造中间目标。再从粒子采样的终点反向构造轨迹，混入摊销采样器自身的正向轨迹训练，增加对当前提议分布覆盖不足的高概率区域的访问。 |
+| <a id="colaco26a-inference"></a>[Unifying Stacking and Cascading for Efficient Ensemble Inference](https://proceedings.mlr.press/v306/colaco26a.html) | 动态集成的路径聚合与早退 | 只为常用的模型执行路径及其前缀训练预测聚合器，再用 MDP 决定继续调哪一个模型或提前退出。中等成本模型若更常提供足够置信度，可以先运行以降低整条路径的期望开销。 |
 
 <a id="by-representation-learning"></a>
 
@@ -281,4 +293,16 @@
 | <a id="chen26gt-theory-statistics"></a>[Towards Optimal Robustness in Learning-Augmented Paging](https://proceedings.mlr.press/v306/chen26gt.html) | 在线换页的相对预测预算 | 在请求落到工作函数支持集外且缓存未命中时按预测淘汰并重置预算，其他未命中则用在线基线的淘汰效果决定何时增加预算，并消耗预算采纳预测。对容量为 k 的缓存，完美预测下达到离线最优，任意预测下的竞争比上界为第 k 个调和数加常数。 |
 | <a id="cheng26a-theory-statistics"></a>[Theoretical Challenges in Learning for Branch-and-Cut](https://proceedings.mlr.press/v306/cheng26a.html) | 分支切割局部评分的最坏情形 | 在论文构造的混合整数线性规划实例中，即使准确按线性松弛的界改进选择根节点割平面，强分支搜索树也可能比按割平面效力评分选割时大指数倍。 |
 | <a id="cheng26r-theory-statistics"></a>[Domain Adaptation with Adaptive $f$-Divergence: Tighter Variational Representation and Generalization Bounds](https://proceedings.mlr.press/v306/cheng26r.html) | 自适应散度的无监督域适配 | 在 f 散度的变分表示中引入可学习的单调 Lipschitz 变换以收紧下界，再按数据似然选择散度族。所得目标域风险界由变换后的源风险、估计的域间差异和共享假设的残差组成。 |
+| <a id="cherradi26a-theory-statistics"></a>[Entropic Mirror Monte Carlo](https://proceedings.mlr.press/v306/cherradi26a.html) | 重要性采样的熵镜像更新 | 先从当前提议分布采样，再用马尔可夫核传播粒子。分别对传播前后的样本算重要性比率并取幂，混合两组加权样本后投影回可计算密度的参数分布，供下一轮继续探索。 |
+| <a id="chi26c-theory-statistics"></a>[Quadratically Regularized Optimal Transport: Localization Bounds and Affine Case Analysis](https://proceedings.mlr.press/v306/chi26c.html) | 二次正则最优传输的支撑局部化 | 在论文的密度与正则性条件下，d 维二次正则最优传输的支撑到 Monge 映射图的单向 Hausdorff 距离至少为 ε^(1/(d+2)) 量级。若 Brenier 映射是仿射的，还可通过化为自传输得到同阶上界。 |
+| <a id="chien26a-theory-statistics"></a>[Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States](https://proceedings.mlr.press/v306/chien26a.html) | 零阶优化的迭代隐私放大 | 只公开加噪零阶梯度下降的最终参数时，可追踪相邻数据集迭代状态的距离，用后续更新的收缩抵消部分早期差异。论文对平滑强凸损失给出隐私损失随训练步数最终有界的条件。 |
+| <a id="chihara26a-theory-statistics"></a>[Modeling Covariate Transition for Efficient Estimation of Longitudinal Treatment Effects in Randomized Experiments](https://proceedings.mlr.press/v306/chihara26a.html) | 协变量转移与纵向处理效应 | 对给定的固定处理序列估计处理后协变量的条件转移核。在末期结果回归上沿各期转移核逐步积分，得到给定基线协变量的期望结果，用于估计不同时间点的处理效应。 |
+| <a id="ching26a-theory-statistics"></a>[Efficient and Minimax Optimal In-context Nonparametric Regression with Transformers](https://proceedings.mlr.press/v306/ching26a.html) | Transformer 的局部多项式回归 | 用线性注意力和前馈层构造核加权多项式基，再用梯度下降近似局部回归解。对于 Hölder 光滑的回归函数，在论文规定的预训练数据量下，参数量为 Θ(log n) 的 Transformer 可达到 n 个上下文样本的最优均方误差率。 |
+| <a id="cho26c-theory-statistics"></a>[GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function](https://proceedings.mlr.press/v306/cho26c.html) | 条件均值函数的渐近随时检验 | 用历史数据估计条件均值和条件方差，以估计均值相对原假设的差除以方差作为权重，并对幅值设下限。跟踪加权序列的单侧置信下界，在文中条件下可持续查看全局原假设检验并渐近控制一类错误。 |
+| <a id="choo26a-theory-statistics"></a>[Approximate Proportionality in Online Fair Division](https://proceedings.mlr.press/v306/choo26a.html) | 在线公平分配的随机保证 | 不可分物品到达后须立即分配时，若对手事先固定物品序列，均匀随机分配可高概率保证单件补偿比例公平，近似因子为 1/log(n/δ) 量级，其中 n 为参与者数、δ 为允许的失败概率。 |
+| <a id="cohen26a-theory-statistics"></a>[Adaptively Robust Resettable Streaming](https://proceedings.mlr.press/v306/cohen26a.html) | 可重置数据流的自适应鲁棒草图 | 用二叉树持续观测机制保护单数据流草图的内部随机性，减少对手从已发布答案推断随机种子的机会。对计数及部分矩统计等，误差可按已见前缀的最大统计量控制，空间仍为流长度的多对数级。 |
+| <a id="cohen26b-theory-statistics"></a>[Realizable Bayes-Consistency for General Metric Losses](https://proceedings.mlr.press/v306/cohen26b.html) | 无界度量损失的可实现学习判据 | 把强普适 Bayes 一致性的障碍写成无穷 Littlestone 树，每层两条标签分支之间的最小度量距离随深度趋于无穷。在论文设定下，缺少这类树等价于存在对所有可实现分布风险几乎必然趋零的学习规则。 |
+| <a id="cohen26c-theory-statistics"></a>[Improved Distribution Estimation in $\ell_∞$](https://proceedings.mlr.press/v306/cohen26c.html) | 离散分布最大坐标误差的经验界 | 用样本频率构造最大坐标方差和分布复杂度的经验量，为频率估计的 ℓ∞ 误差给出完全由数据计算的高概率界。最坏情形的期望误差为 n⁻¹ᐟ² 量级，等权两点分布已能达到该量级。 |
+| <a id="conrad26a-theory-statistics"></a>[Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles](https://proceedings.mlr.press/v306/conrad26a.html) | 基于空间秩的多元共形区域 | 将向量型一致性得分按几何径向秩排序，再以独立校准集决定接收区域，保留多个输出之间的几何依赖。对所测多目标回归和分类任务，该区域在接近名义覆盖率时比若干标量化方法更紧。 |
+| <a id="cooper26a-theory-statistics"></a>[Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](https://proceedings.mlr.press/v306/cooper26a.html) | 混合序列模型的表达与内存界 | 对选择性复制及一种带解码的关联回忆任务，构造由状态空间层与窗口注意力组成的浅层混合模型，以对数规模和次线性工作内存求解。对应的纯模型在论文定义的任务族中必须增加参数规模或工作内存。 |
 <!-- classification:end -->

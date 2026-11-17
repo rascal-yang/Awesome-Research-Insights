@@ -40,6 +40,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) | [Read insight (中文)](../../papers/nlp.md#banayeeanzade26a-data-strategies) |
+| [Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://proceedings.mlr.press/v306/cho26i.html) | [Read insight (中文)](../../papers/nlp.md#cho26i-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -50,6 +51,7 @@ The linked short insights are available in Chinese.
 | [BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://proceedings.mlr.press/v306/agrawal26d.html) | [Read insight (中文)](../../papers/nlp.md#agrawal26d-inference) |
 | [PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) | [Read insight (中文)](../../papers/nlp.md#ai26b-inference) |
 | [IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) | [Read insight (中文)](../../papers/nlp.md#an26a-inference) |
+| [MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) | [Read insight (中文)](../../papers/nlp.md#chien26b-inference) |
 
 <a id="by-representation-learning"></a>
 

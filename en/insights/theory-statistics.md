@@ -17,6 +17,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](../../papers/llm.md#cai26p-theory-statistics) · 中文
 - [Chain-of-Thought Gradient Descent](../../papers/llm.md#chen26ae-theory-statistics) · 中文
 - [Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression](../../papers/llm.md#chen26cs-theory-statistics) · 中文
+- [Barriers to Counterfactual Credit Attribution for Autoregressive Models](../../papers/llm.md#cohen26e-theory-statistics) · 中文
+- [Emergent Alignment via Competition](../../papers/llm.md#collina26a-theory-statistics) · 中文
 
 ### Computer Vision
 
@@ -132,6 +134,18 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Towards Optimal Robustness in Learning-Augmented Paging](../../papers/ml-foundations.md#chen26gt-theory-statistics) · 中文
 - [Theoretical Challenges in Learning for Branch-and-Cut](../../papers/ml-foundations.md#cheng26a-theory-statistics) · 中文
 - [Domain Adaptation with Adaptive $f$-Divergence: Tighter Variational Representation and Generalization Bounds](../../papers/ml-foundations.md#cheng26r-theory-statistics) · 中文
+- [Entropic Mirror Monte Carlo](../../papers/ml-foundations.md#cherradi26a-theory-statistics) · 中文
+- [Quadratically Regularized Optimal Transport: Localization Bounds and Affine Case Analysis](../../papers/ml-foundations.md#chi26c-theory-statistics) · 中文
+- [Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States](../../papers/ml-foundations.md#chien26a-theory-statistics) · 中文
+- [Modeling Covariate Transition for Efficient Estimation of Longitudinal Treatment Effects in Randomized Experiments](../../papers/ml-foundations.md#chihara26a-theory-statistics) · 中文
+- [Efficient and Minimax Optimal In-context Nonparametric Regression with Transformers](../../papers/ml-foundations.md#ching26a-theory-statistics) · 中文
+- [GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function](../../papers/ml-foundations.md#cho26c-theory-statistics) · 中文
+- [Approximate Proportionality in Online Fair Division](../../papers/ml-foundations.md#choo26a-theory-statistics) · 中文
+- [Adaptively Robust Resettable Streaming](../../papers/ml-foundations.md#cohen26a-theory-statistics) · 中文
+- [Realizable Bayes-Consistency for General Metric Losses](../../papers/ml-foundations.md#cohen26b-theory-statistics) · 中文
+- [Improved Distribution Estimation in $\ell_∞$](../../papers/ml-foundations.md#cohen26c-theory-statistics) · 中文
+- [Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles](../../papers/ml-foundations.md#conrad26a-theory-statistics) · 中文
+- [Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](../../papers/ml-foundations.md#cooper26a-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -140,6 +154,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) · 中文
 - [On the Theoretical Limitations of Embedding-based Link Prediction](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) · 中文
 - [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) · 中文
+- [Multicalibration Yields Better Matchings](../../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) · 中文
 
 ### Scientific Machine Learning
 

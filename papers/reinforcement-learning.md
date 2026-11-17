@@ -31,6 +31,14 @@
 | :--- | :--- | :--- |
 | <a id="chen26ep-loss-functions"></a>[Continuity-Regularized Flow Matching for Offline Reinforcement Learning](https://proceedings.mlr.press/v306/chen26ep.html) | 离线强化学习流策略正则 | 从连续性方程导出对动作速度场雅可比矩阵的正则项，用随机雅可比向量积估计范数，再用 Beta 分布加密中间流时刻的采样，约束从噪声到动作的生成路径。 |
 
+<a id="by-optimization"></a>
+
+### 优化
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="corso26a-optimization"></a>[Fast Mixing Steady-State Control in Markov Decision Processes](https://proceedings.mlr.press/v306/corso26a.html) | 目标稳态分布约束下的快速混合 | 在遍历 MDP 中对策略诱导的马尔可夫链施加目标稳态分布约束，以次大奇异值构造混合速度的凸替代目标。对表格 MDP，还可从离线数据估计转移，并分析估计误差对所得策略的影响。 |
+
 <a id="by-reinforcement-learning"></a>
 
 ### 强化学习方法
@@ -59,6 +67,11 @@
 | <a id="chen26fn-reinforcement-learning"></a>[VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning](https://proceedings.mlr.press/v306/chen26fn.html) | 价值一致性约束的离线世界模型 | 在转移拟合之外，再惩罚模型内估计的价值与离线数据直接估计的价值之间的差异，使世界模型的训练兼顾对决策回报有影响的误差。 |
 | <a id="cheng26q-reinforcement-learning"></a>[How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](https://proceedings.mlr.press/v306/cheng26q.html) | 增广拉格朗日引导安全动作去噪 | 把奖励与安全代价组成的拉格朗日量作为动作去噪的能量，并加入约束违背惩罚来改善能量的局部曲率。在论文分析的条件下，这能稳定采样与训练，并保留最优策略分布。 |
 | <a id="cheng26s-reinforcement-learning"></a>[Hybrid Reinforcement Learning in Adversarial Markov Decision Processes](https://proceedings.mlr.press/v306/cheng26s.html) | 对抗 MDP 的混合反馈遗憾控制 | 并行运行使用在线反馈的基学习器和多个离策略基学习器，为后者配置覆盖不同失配程度的学习率，再用元算法组合策略。这样在行为策略覆盖较好时可利用离策略反馈收紧遗憾界，覆盖较差时仍有在线保证。 |
+| <a id="cho26f-reinforcement-learning"></a>[Bilinear Bandits with Partially Observable Features](https://proceedings.mlr.press/v306/cho26f.html) | 部分可观测双线性老虎机 | 在用户和物品两侧增添可见特征的正交补基，并以奖励预测和逆倾向校正构造未选组合的伪奖励。直接用双线性 Lasso 拟合，利用诱导出的块对角 Gram 结构精确分块更新。 |
+| <a id="choi26k-reinforcement-learning"></a>[Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL](https://proceedings.mlr.press/v306/choi26k.html) | 离线策略的潜子目标链 | 给定状态和终点，由同一 MLP-Mixer 自回归地从远到近生成潜子目标，再根据整条子目标链预测底层动作。训练以离线轨迹中固定步长采样的状态监督子目标，并用共享价值函数为子目标和动作计算优势权重。 |
+| <a id="chu26a-reinforcement-learning"></a>[Value Aggregation with Uncertainty in Online Decentralized MARL](https://proceedings.mlr.press/v306/chu26a.html) | 去中心化 Q 值的不确定性聚合 | 按各智能体两次同步之间对每个状态动作对的访问次数决定聚合权重。访问更充分的估计可获得超过 1 的系数，较不确定的邻居项允许取负，以补偿普通凸平均引起的学习回退。 |
+| <a id="chua26a-reinforcement-learning"></a>[Balancing Plasticity and Stability with Fast and Slow Successor Features](https://proceedings.mlr.press/v306/chua26a.html) | 持续漂移下的多时间尺度巩固 | 将巩固机制施加在后继特征上，使快速分量通过新经验更新，较慢分量通过多个时间尺度保留历史。在持续漂移的 MiniWorld 和 MuJoCo 实验里，这比直接巩固 Q 值更有效。 |
+| <a id="chung26b-reinforcement-learning"></a>[Offline Reinforcement Learning with Universal Horizon Models](https://proceedings.mlr.press/v306/chung26b.html) | 任意步长的离线强化学习模型 | 以期望预见步数为条件直接预测未来状态，避免逐步在模型自产生的状态上反复推演。训练时按几何分布抽取步数后将超长值压到分位点上，以限制不可靠的远期自举目标。 |
 | <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -94,6 +107,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="bates26a-evaluation"></a>[Beyond Rewards in RL for Cyber Defence](https://proceedings.mlr.press/v306/bates26a.html) | 防御强化学习奖励 | 用独立于训练奖励的目标评估比较策略。若稀疏成功信号在探索中出现得够频繁，策略可更可靠并减少代价高的动作。 |
+| <a id="cherepanov26a-evaluation"></a>[KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](https://proceedings.mlr.press/v306/cherepanov26a.html) | 像素策略的单因素泛化评测 | 保持转移和奖励不变，每个训练与评测配置对只改变一个渲染参数。论文中的 PPO-CNN 有时在背景或图像滤镜变化后仍能向前移动，却无法通关，评测时可同时记录任务完成率和推进程度。 |
 
 <a id="by-theory-statistics"></a>
 

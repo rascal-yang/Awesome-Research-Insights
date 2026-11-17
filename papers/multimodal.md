@@ -94,6 +94,7 @@
 | <a id="chen26dz-inference"></a>[Beyond Blind Noising: Disentangled Visual Rectification for Hallucination Mitigation in MLLMs](https://proceedings.mlr.press/v306/chen26dz.html) | 双编码器视觉幻觉校正 | 对同一图像加噪后，比较图文预训练编码器与对齐后的自监督视觉编码器的响应变化，用后者估计结构损失。按响应差抑制幻觉主导区域、补偿结构损失主导区域，再用校正特征与加噪图像特征各自得到的 logits 做对比解码。 |
 | <a id="chen26fv-inference"></a>[Show, Don’t Tell: Morphing Latent Reasoning into Image Generation](https://proceedings.mlr.press/v306/chen26fv.html) | 图像生成的潜空间推理调度 | 压缩近期图像词元的隐状态供策略判断何时推理。触发后将推理结果映射为控制信号，直接写入生成分支的 KV 缓存，引导后续图像词元，无需在每次推理时把半成品图像解码为像素。 |
 | <a id="cheng26d-inference"></a>[Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](https://proceedings.mlr.press/v306/cheng26d.html) | 视觉语言模型注意力通路门控 | 把各注意力头的输出拆为视觉与文本两路，用一次前向及一次梯度查询近似估计两路对当前词元决策的影响，再只抑制冲突头的文本分量，保留视觉分量。 |
+| <a id="cho26b-inference"></a>[Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](https://proceedings.mlr.press/v306/cho26b.html) | 视觉词元删减后的注意力校准 | 减少视觉词元后仍保留原位置，用 RoPE 的相对距离衰减估计补偿注意力，合并时同时计入每个词元代表的原词元数。在稀疏视觉序列上恢复部分注意力，无需补回被删词元。 |
 
 <a id="by-representation-learning"></a>
 
@@ -105,6 +106,7 @@
 | <a id="chen26cx-representation-learning"></a>[Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning](https://proceedings.mlr.press/v306/chen26cx.html) | 关节与片段级动作文本对齐 | 把人体动作拆成时间片段和空间关节，用 Shapley–Taylor 交互建模逐级学习它们与词元的对应，让检索分数能够反映整段相似度容易掩盖的局部动作。 |
 | <a id="chen26fo-representation-learning"></a>[MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction](https://proceedings.mlr.press/v306/chen26fo.html) | 利用地理邻接的半监督街景对比学习 | 为无标签街段从其已标注邻居继承负样本候选，即选择与邻居标签不同的街段作负例。若街段属性具有空间自相关，可据此让未标注街景参与视觉和文本的联合表征学习。 |
 | <a id="cheng26k-representation-learning"></a>[Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval](https://proceedings.mlr.press/v306/cheng26k.html) | 结构化代理的跨模态哈希 | 为每个样本从同标签代理中选近邻形成稀疏子图，按关联强度聚合候选代理的标签响应。以子图约束代理间竞争，可改善多标签样本在汉明空间中的可分性。 |
+| <a id="choi26h-representation-learning"></a>[Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts](https://proceedings.mlr.press/v306/choi26h.html) | 可稀疏选择的多模态专家表征 | 先预训练各模态的 MoE 编码器，让专家子空间承载可对齐的语义成分，再训练任务路由器选择专家，并在推理时按批次保留评分最高的一定比例的输入与专家配对。MultiBench 实验中，中等稀疏率的表现优于研究中测试的更高稀疏率。 |
 
 <a id="by-evaluation"></a>
 
@@ -123,6 +125,9 @@
 | <a id="chen26en-evaluation"></a>[OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](https://proceedings.mlr.press/v306/chen26en.html) | 文生图工具链越狱评测 | 把成功越狱的工具调用轨迹分解为任务规划、步骤调度和工具选择，再将这些行为与提示词片段建立经验关联，引导模糊测试查找由多步组合触发的风险。 |
 | <a id="chen26fj-evaluation"></a>[BabyVision: Visual Reasoning Beyond Language](https://proceedings.mlr.press/v306/chen26fj.html) | 基础视觉推理诊断 | 把视觉推理拆成细粒度辨别、轨迹追踪、空间感知和图案识别四类，构造尽量少依赖语言知识的题目并与真人成绩比较，单独检验视觉语言模型对基础视觉线索的处理能力。 |
 | <a id="chen26gz-evaluation"></a>[HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing](https://proceedings.mlr.press/v306/chen26gz.html) | 文生图人口属性多样性评测 | 用属性分类器统计生成样本，把性别、年龄和种族分布的归一化熵以几何平均合并，再取易触发刻板印象的提示词中该分数的第 10 百分位，衡量较差情境下的多样性。 |
+| <a id="cherep26a-evaluation"></a>[Visual Persuasion: What Influences Decisions of Vision-Language Models?](https://proceedings.mlr.press/v306/cherep26a.html) | 视觉语言模型的选择偏好审计 | 将图像编辑封装成可迭代更新的文字提示，在尽量保持对象身份的前提下改变构图、光照等属性。让被测模型在成对图片中做选择，以选择率变化衡量视觉属性能在多大程度上左右决策。 |
+| <a id="chi26a-evaluation"></a>[GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://proceedings.mlr.press/v306/chi26a.html) | 游戏开发智能体的运行时反馈 | 用含着色器、精灵图和动画等资产的 Godot 开发任务评测多模态智能体。把编辑器截图与运行视频作为反馈，分别暴露场景配置和时序行为，在论文测试中提高了智能体的任务完成率。 |
+| <a id="cohen26d-evaluation"></a>[MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models](https://proceedings.mlr.press/v306/cohen26d.html) | 视觉实体追踪的感知与推理解耦 | 对同一实体状态变化分别给出图像和文字，还测试先把图像动作转成文字再追踪的级联系统。对能够正确识别画面动作的测试条件，这种对照仍能发现视觉状态更新中的推理瓶颈。 |
 
 <a id="by-theory-statistics"></a>
 

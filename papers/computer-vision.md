@@ -26,6 +26,7 @@
 | <a id="bao26f-architecture"></a>[Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | 少样本布局生成 | 用类别锚点保留对象身份，将局部视觉细节编码成可重组原语，缓解小样本非典型布局生成中的语义碎裂。 |
 | <a id="chen26du-architecture"></a>[Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | 按空间分组的同位词元预测 | 把图像词元按空间顺序分组，用已生成组构造与当前组位置对齐的输入。当前组输入内部可做全注意力，并行预测对应位置，组间掩码保证预测只依赖先前生成的真实词元。 |
 | <a id="chen26ga-architecture"></a>[Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | 压缩成像的连续光谱先验 | 在每一步展开重建中用物理编码掩码约束数据一致性，再以可查询波长的连续光谱场作先验。训练时只对有真值的离散波长切片计算误差，推理时可查询未参与训练的波长。 |
+| <a id="choy26a-architecture"></a>[SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](https://proceedings.mlr.press/v306/choy26a.html) | 开放词汇三维实例分割 | 将固定空间范围的窗口注意力和固定词元数的 Morton 序分段交替使用，以兼顾局部几何与分块计算。解码器直接用可学习查询从体素特征预测实例掩码。 |
 
 <a id="by-modules"></a>
 
@@ -39,6 +40,8 @@
 | <a id="cao26n-modules"></a>[LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | 轻量视频超分 | 冻结整个扩散 Transformer，用双流适配器分别读低清视频的静态结构和当前去噪状态，再按时间步调节结构对齐与纹理细化。 |
 | <a id="cao26ab-modules"></a>[StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](https://proceedings.mlr.press/v306/cao26ab.html) | 结构化图像生成 | 用二维旋转位置编码保持潜变量拓扑，通过布局引导的注意力偏置把各位置分配到相应实例，再用检测指标微调布局对齐。 |
 | <a id="chen26ce-modules"></a>[WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder](https://proceedings.mlr.press/v306/chen26ce.html) | 视频超分的小波编码前端 | 逐帧做多级离散小波变换，递归分解低频子带，并把各级高频子带与同尺度的 VAE 编码器特征拼接，用 1×1 卷积投影回原通道数。这样可把细节线索送入潜空间，并沿用冻结的预训练解码器。 |
+| <a id="ciernik26a-modules"></a>[Attentive Multi-Layer Fusion for Vision Transformers](https://proceedings.mlr.press/v306/ciernik26a.html) | ViT 多层注意力探针 | 冻结视觉主干，取各层的分类词元和平均池化表征作为键和值，再由任务训练得到的查询做跨层注意力，使轻量探针能按任务选取不同深度的信息。 |
+| <a id="colamonaco26a-modules"></a>[Prototype-Grounded Concept Models for Verifiable Concept Alignment](https://proceedings.mlr.press/v306/colamonaco26a.html) | 视觉概念瓶颈的原型证据 | 把每个概念的得分回溯到匹配的局部图像原型，让读者能检查模型实际使用的概念证据。发现伪相关时可删除对应原型或重标其概念，也可以加入人工选择的图像块。 |
 | <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | 视觉特征蒸馏 | 给小型 ViT 的特征输出接口或最后一个 Transformer 块加宽，以匹配教师模型的编码空间。 [详细解读](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -59,6 +62,7 @@
 | <a id="ba26a-reinforcement-learning"></a>[Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://proceedings.mlr.press/v306/ba26a.html) | 多奖励生成优化 | 对同一个提示构造样本的 Pareto 前沿，再用最优传输把被支配样本推向前沿，降低整个数据集共用一个加权奖励所带来的投机空间。 |
 | <a id="chen26as-reinforcement-learning"></a>[Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) | 流匹配测试时优化 | 把中间潜变量看作待选择状态，在同一速度场中用随机 rollout 探索。先按高噪声阶段的奖励差稳定结构，再用组相对优势调整低噪声细节。 |
 | <a id="chen26ea-reinforcement-learning"></a>[RELO: Reinforcement Learning to Localize for Visual Object Tracking](https://proceedings.mlr.press/v306/chen26ea.html) | 目标跟踪定位策略 | 先预热边界框回归头，再把特征图上的位置作为动作，用采样位置对应的预测框计算逐帧 IoU 和序列 AUC 奖励，以 actor-critic 更新定位策略，使训练能直接利用跟踪评测指标。 |
+| <a id="choi26o-reinforcement-learning"></a>[Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://proceedings.mlr.press/v306/choi26o.html) | 扩散强化学习的样本似然估计 | 直接从生成终样本正向加噪，用加权流匹配误差计算 ELBO 似然估计，使策略更新可复用 ODE 采样结果，无需记录随机去噪轨迹。论文交叉比较采样、估计和目标函数，发现似然估计的选择对训练效果影响最大。 |
 
 <a id="by-training-strategies"></a>
 
@@ -73,6 +77,7 @@
 | <a id="chen26cn-training-strategies"></a>[Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](https://proceedings.mlr.press/v306/chen26cn.html) | 视图一致的三维 VAE 稀疏训练 | 训练时将潜体素投影到当前视角，用真值网格的渲染深度筛除远离可见表面的体素，并保留命中体素的邻域，使解码和注意力的开销集中在当前渲染损失可监督的区域。 |
 | <a id="chen26dm-training-strategies"></a>[3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification](https://proceedings.mlr.press/v306/chen26dm.html) | 高斯泼溅的瞬态区域筛除 | 以规则图像块为单位汇总训练图与渲染图之间的误差。用 RGB 差异估计静态区域比例，再据此约束感知误差的筛除阈值，减少把纹理弱的静态区域误判成瞬态干扰。 |
 | <a id="chen26eu-training-strategies"></a>[Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://proceedings.mlr.press/v306/chen26eu.html) | 长上下文视频蒸馏 | 让教师和学生都读取长视频历史，避免短窗口教师给出的监督只覆盖局部时序。缓存用滚动队列保留近期帧，并按相邻键向量的差异挑选有新信息的词元长期保留。 |
+| <a id="chu26b-training-strategies"></a>[End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer](https://proceedings.mlr.press/v306/chu26b.html) | 图像词元化与生成联合训练 | 用量化指示向量与嵌入表的矩阵乘积替代生成器查表，让下一词元预测的梯度可回传到视觉词元化器。词元由此同时接受图像重建和自回归生成监督。 |
 
 <a id="by-data-strategies"></a>
 
@@ -107,6 +112,10 @@
 | <a id="chen26fc-inference"></a>[ScalingAR: Scaling Confidence for Autoregressive Image Generation](https://proceedings.mlr.press/v306/chen26fc.html) | 自回归图像采样的轨迹剪枝 | 用视觉 token 的预测熵与条件信号评估正在生成的轨迹，并随置信度调整条件引导强度、提前停止低分轨迹。这样可在潜 token 空间分配采样预算，省去中途解码图像和调用外部评分器。 |
 | <a id="chen26fq-inference"></a>[GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](https://proceedings.mlr.press/v306/chen26fq.html) | 桥式生成模型的分频先验引导 | 对输入先验做模糊等退化构造弱版本，每步外推强弱先验下的去噪结果。按桥采样两端信噪比较高的特点，在早段和末段加强高频引导，低频引导则贯穿整个轨迹。 |
 | <a id="cheng26b-inference"></a>[FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth](https://proceedings.mlr.press/v306/cheng26b.html) | 图像到点云配准的动态交互深度 | 对每个尺度池化图像和点云词元，交给以匹配误差倒数为奖励训练的策略选择 Mamba 交互次数。允许跳过某一尺度，避免在当前场景不需要的层级反复细化对应关系。 |
+| <a id="cho26a-inference"></a>[TAG: Tangential Amplifying Guidance for Hallucination-Resistant Sampling](https://proceedings.mlr.press/v306/cho26a.html) | 扩散采样的切向增量放大 | 用当前潜变量方向分解基础求解器给出的采样增量，保留径向分量，只放大正交的切向分量。该操作直接复用求解器增量，在论文的语义幻觉评测中改善了图像与条件的一致性。 |
+| <a id="cho26d-inference"></a>[Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective](https://proceedings.mlr.press/v306/cho26d.html) | 扩散注意力的反对称分量调节 | 把 softmax 前的注意力矩阵分成对称和反对称部分，缩放反对称部分后重新检索特征，再把特征变化混回原结果并匹配尺度。可用缩放和混合强度调节生成结果的保真度与多样性。 |
+| <a id="choi26m-inference"></a>[Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling](https://proceedings.mlr.press/v306/choi26m.html) | 扩散负引导的阈值投影 | 在每个去噪步用模型自身的噪声预测估计待抑制概念的存在度，把阈值写成噪声向量上的仿射约束。仅当估计超过阈值时，将原预测投影到可行半空间，以最小的欧氏改动校正该步引导。 |
+| <a id="cong26a-inference"></a>[RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models](https://proceedings.mlr.press/v306/cong26a.html) | 扩散 Transformer 激活稀疏推理 | 对 QKV 投影和 MLP 线性层的输入激活在线施加 N:M 稀疏化，再用低秩 LoRA 补偿重建误差。实验中激活比权重更能承受同类稀疏化，专用 CUDA 核把这一特性转化为线性层加速。 |
 
 <a id="by-representation-learning"></a>
 
@@ -137,6 +146,7 @@
 | <a id="braun26b-evaluation"></a>[Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | 扩散模型概念遗忘 | 通过测试擦除前写入的触发关联能否在遗忘后复现概念，可以检查现有擦除方法是否还保留潜在生成路径。 |
 | <a id="chen26az-evaluation"></a>[Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | 生成模型后门评测 | 后门可能对语义相同的改写提示共同触发，枚举固定字符串容易漏检。可用语义等价改写、部分语义和正常输入分别测触发、误触发和正常质量。 |
 | <a id="chen26gw-evaluation"></a>[Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://proceedings.mlr.press/v306/chen26gw.html) | 人脸数据集内在质量估计 | 用轻量代理模型提取人脸嵌入，联合计算近邻身份标签一致性和嵌入协方差谱的归一化有效秩，分别衡量局部标签可靠性与整体多样性，可在完整训练前筛查数据集。 |
+| <a id="chung26a-evaluation"></a>[Global Geometry Is Not Enough for Vision Representations](https://proceedings.mlr.press/v306/chung26a.html) | 视觉表征的组合绑定诊断 | 用输入到嵌入的局部雅可比奇异值计算有效秩，衡量模型对多少独立输入方向敏感。在被测视觉编码器上，这一数值与属性绑定表现相关，而全局嵌入几何指标的相关性接近零。 |
 
 <a id="by-theory-statistics"></a>
 

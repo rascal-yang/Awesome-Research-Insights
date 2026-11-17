@@ -24,6 +24,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) | [Read insight (中文)](../../papers/robotics.md#bai26h-architecture) |
 | [Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) | [Read insight (中文)](../../papers/robotics.md#cao26u-architecture) |
+| [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) | [Read insight (中文)](../../papers/robotics.md#chuang26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -58,6 +59,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) | [Read insight (中文)](../../papers/robotics.md#aichmuller26a-reinforcement-learning) |
+| [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) | [Read insight (中文)](../../papers/robotics.md#chowdhury26a-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -77,6 +79,7 @@ The linked short insights are available in Chinese.
 | [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) | [Read insight (中文)](../../papers/robotics.md#chen26j-data-strategies) |
 | [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) | [Read insight (中文)](../../papers/robotics.md#chen26ab-data-strategies) |
 | [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) | [Read insight (中文)](../../papers/robotics.md#chen26cy-data-strategies) |
+| [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) | [Read insight (中文)](../../papers/robotics.md#choi26i-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -90,6 +93,10 @@ The linked short insights are available in Chinese.
 | [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) | [Read insight (中文)](../../papers/robotics.md#chai26a-inference) |
 | [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) | [Read insight (中文)](../../papers/robotics.md#chen26i-inference) |
 | [Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](https://proceedings.mlr.press/v306/chen26co.html) | [Read insight (中文)](../../papers/robotics.md#chen26co-inference) |
+| [EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning](https://proceedings.mlr.press/v306/chi26b.html) | [Read insight (中文)](../../papers/robotics.md#chi26b-inference) |
+| [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](https://proceedings.mlr.press/v306/choi26a.html) | [Read insight (中文)](../../papers/robotics.md#choi26a-inference) |
+| [Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) | [Read insight (中文)](../../papers/robotics.md#choi26c-inference) |
+| [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) | [Read insight (中文)](../../papers/robotics.md#chun26a-inference) |
 
 <a id="by-evaluation"></a>
 

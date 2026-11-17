@@ -21,6 +21,7 @@ Model-wide design and information flow.
 - [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](../../papers/computer-vision.md#bao26f-architecture) · 中文
 - [Autoregression with Self-Token Prediction](../../papers/computer-vision.md#chen26du-architecture) · 中文
 - [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](../../papers/computer-vision.md#chen26ga-architecture) · 中文
+- [SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](../../papers/computer-vision.md#choy26a-architecture) · 中文
 
 ### Reinforcement Learning
 
@@ -30,6 +31,7 @@ Model-wide design and information flow.
 
 - [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](../../papers/robotics.md#bai26h-architecture) · 中文
 - [Hierarchical Policy Learning via Spectral Decomposition](../../papers/robotics.md#cao26u-architecture) · 中文
+- [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](../../papers/robotics.md#chuang26a-architecture) · 中文
 
 ### Multimodal Learning
 
@@ -48,6 +50,7 @@ Model-wide design and information flow.
 - [Independent Component Discovery in Temporal Count Data](../../papers/ml-foundations.md#chaussard26a-architecture) · 中文
 - [CoGenCast: A Coupled Autoregressive–Flow Generative Framework for Time Series Forecasting](../../papers/ml-foundations.md#cheng26h-architecture) · 中文
 - [KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables](../../papers/ml-foundations.md#cheng26t-architecture) · 中文
+- [Transformer Circuits Can Realize Clustering Algorithms](../../papers/ml-foundations.md#clarkson26a-architecture) · 中文
 
 ### Graph Learning and Recommendation
 
@@ -72,4 +75,5 @@ Model-wide design and information flow.
 - [StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](../../papers/scientific-ml.md#chen26aa-architecture) · 中文
 - [From Holo Pockets to Electron Density: GPT-style Drug Design with Density](../../papers/scientific-ml.md#chen26ai-architecture) · 中文
 - [Co-Generative De Novo Functional Protein Design](../../papers/scientific-ml.md#chen26cu-architecture) · 中文
+- [Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems](../../papers/scientific-ml.md#collart26a-architecture) · 中文
 <!-- classification:end -->

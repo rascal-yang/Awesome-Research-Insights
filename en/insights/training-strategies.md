@@ -29,6 +29,7 @@ Training schedules, curricula, and task or stage composition.
 - [Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation](../../papers/llm.md#chen26em-training-strategies) · 中文
 - [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../../papers/llm.md#chen26gc-training-strategies) · 中文
 - [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](../../papers/llm.md#cheng26o-training-strategies) · 中文
+- [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](../../papers/llm.md#choi26g-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -39,6 +40,7 @@ Training schedules, curricula, and task or stage composition.
 - [Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](../../papers/computer-vision.md#chen26cn-training-strategies) · 中文
 - [3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification](../../papers/computer-vision.md#chen26dm-training-strategies) · 中文
 - [Context Forcing: Consistent Autoregressive Video Generation with Long Context](../../papers/computer-vision.md#chen26eu-training-strategies) · 中文
+- [End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer](../../papers/computer-vision.md#chu26b-training-strategies) · 中文
 
 ### Robotics
 
@@ -87,4 +89,5 @@ Training schedules, curricula, and task or stage composition.
 - [TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](../../papers/scientific-ml.md#cao26r-training-strategies) · 中文
 - [Tokenised Flow Matching for Hierarchical Simulation Based Inference](../../papers/scientific-ml.md#charles26a-training-strategies) · 中文
 - [EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting](../../papers/scientific-ml.md#chen26ao-training-strategies) · 中文
+- [Predicting evolutionary rate as a pretraining task improves genome language model representations](../../papers/scientific-ml.md#consens26a-training-strategies) · 中文
 <!-- classification:end -->

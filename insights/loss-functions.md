@@ -123,4 +123,5 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [心电与报告对齐](../papers/scientific-ml.md#chen26y-loss-functions) · SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning
 - [共病多标签表征](../papers/scientific-ml.md#chen26at-loss-functions) · FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis
 - [生理时序的跨窗重建监督](../papers/scientific-ml.md#chen26fk-loss-functions) · Self-Supervised Dynamical System Representations for Physiological Time-Series
+- [医学分割的形态自适应损失](../papers/scientific-ml.md#chowdhury26b-loss-functions) · S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation
 <!-- classification:end -->

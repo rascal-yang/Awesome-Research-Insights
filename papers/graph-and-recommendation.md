@@ -25,6 +25,7 @@
 | <a id="bai26i-modules"></a>[GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](https://proceedings.mlr.press/v306/bai26i.html) | 图卷积 | 用 Dominant Set 迭代估计全图节点的重要性，在每层局部消息传播前重加权，令邻域卷积也能利用非邻接节点的关联。 |
 | <a id="barcelo26a-modules"></a>[Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://proceedings.mlr.press/v306/barcelo26a.html) | 图神经网络表达力 | 把消息传播的中心从点移到边，并沿三角形交换信息，可区分更多图结构，在论文考虑的实际图负载上仍保持近线性开销。 |
 | <a id="chen26gm-modules"></a>[Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](https://proceedings.mlr.press/v306/chen26gm.html) | 兼顾图拓扑与因果顺序的注意力 | 同一图元素的 token 块内保留因果掩码，不同图元素块之间允许双向注意。将序列位置与图谱坐标共同编码到 RoPE 旋转相位，让 Q、K 点积同时反映 token 顺序和图结构。 |
+| <a id="choi26d-modules"></a>[Gauge-Equivariant Graph Networks via Self-Interference Cancellation](https://proceedings.mlr.press/v306/choi26d.html) | 异配图消息的自成分消除 | 先用 U(1) 传输把复数邻居消息对齐到目标节点的规范，再投影去除沿目标特征的分量。对残差用规范不变的相位对齐量门控，并与原消息混合后计算注意力，以控制自平行成分的强化。 |
 
 <a id="by-loss-functions"></a>
 
@@ -94,6 +95,7 @@
 | <a id="cai26f-representation-learning"></a>[CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | 高阶关系表征 | 把高阶关系拆成多个不完整查询与补全实体，用查询非对称地调制候选实体表征，再做对比对齐。 |
 | <a id="chen26ak-representation-learning"></a>[SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | 跨模态生成式推荐 | 抑制模型过度依赖占优模态，让推荐生成器学习只有联合读取图像与文本才能辨识的商品属性。 |
 | <a id="chen26fu-representation-learning"></a>[Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | 图节点边界的自适应对比更新 | 在类别嵌入簇的边界区域选择结构混杂的节点做对比学习。先虚拟更新边界注意力层并测量全图嵌入变化，再按变化量的倒数缩放实际更新，限制少量边界样本对其他节点的扰动。 |
+| <a id="choromanski26a-representation-learning"></a>[Computationally-efficient Graph Modeling with Refined Graph Random Features](https://proceedings.mlr.press/v306/choromanski26a.html) | 短随机游走拼接图特征 | 把较长图游走的核估计拆成可并行采样的短游走，再用对应随机特征矩阵的乘积组合多段覆盖范围，在论文的构造下保留图核估计的无偏性。 |
 
 <a id="by-evaluation"></a>
 
@@ -115,4 +117,5 @@
 | <a id="badanidiyuru26a-theory-statistics"></a>[Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | 拍卖中的预测改进 | 提高预测分辨率对拍卖收入的影响依赖出价规则。无预算限制的目标成本出价者满足文中的一价拍卖单调性，二价机制可打破它。 |
 | <a id="badreddine26a-theory-statistics"></a>[On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | 知识图谱链路预测 | 线性输出层使嵌入维度必须随图规模和连通性增长才能表达训练关系。混合式非线性输出可打破这一秩瓶颈，且参数开销较低。 |
 | <a id="charpenay26a-theory-statistics"></a>[Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | 关系嵌入表达力 | 用逐坐标比较定义的凸区域能高效编码部分关系规则，但参数化会限制可忠实表达的规则集合，应按目标规则选区域形式。 |
+| <a id="colini-baldeschi26a-theory-statistics"></a>[Multicalibration Yields Better Matchings](https://proceedings.mlr.press/v306/colini-baldeschi26a.html) | 用匹配决策约束边权多重校准 | 从竞争的匹配规则提取边权残差的校准约束，再用校准后的权重做普通最大权匹配。在论文的随机边权设定下，这可使所得决策与在原预测上使用比较类中最优规则的表现竞争。 |
 <!-- classification:end -->

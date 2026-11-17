@@ -699,86 +699,86 @@ number	pmlr_id	title	paper_url	insight_status
 698	cheng26s	Hybrid Reinforcement Learning in Adversarial Markov Decision Processes	https://proceedings.mlr.press/v306/cheng26s.html	written
 699	cheng26t	KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables	https://proceedings.mlr.press/v306/cheng26t.html	written
 700	cheong26a	FairSSL: Fair Multimodal Self-Supervised Learning	https://proceedings.mlr.press/v306/cheong26a.html	written
-701	cherep26a	Visual Persuasion: What Influences Decisions of Vision-Language Models?	https://proceedings.mlr.press/v306/cherep26a.html	pending
-702	cherepanov26a	KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning	https://proceedings.mlr.press/v306/cherepanov26a.html	pending
-703	cherradi26a	Entropic Mirror Monte Carlo	https://proceedings.mlr.press/v306/cherradi26a.html	pending
-704	chhugani26a	Unveiling the Potential of Quantization with MXFP4: Strategies for Quantization Error Reduction	https://proceedings.mlr.press/v306/chhugani26a.html	pending
-705	chi26a	GameDevBench: Evaluating Agentic Capabilities Through Game Development	https://proceedings.mlr.press/v306/chi26a.html	pending
-706	chi26b	EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning	https://proceedings.mlr.press/v306/chi26b.html	pending
-707	chi26c	Quadratically Regularized Optimal Transport: Localization Bounds and Affine Case Analysis	https://proceedings.mlr.press/v306/chi26c.html	pending
-708	chi26d	Unifying and Optimizing Data Values for Selection via Sequential Decision-Making	https://proceedings.mlr.press/v306/chi26d.html	pending
-709	chien26a	Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States	https://proceedings.mlr.press/v306/chien26a.html	pending
-710	chien26b	MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models	https://proceedings.mlr.press/v306/chien26b.html	pending
-711	chihara26a	Modeling Covariate Transition for Efficient Estimation of Longitudinal Treatment Effects in Randomized Experiments	https://proceedings.mlr.press/v306/chihara26a.html	pending
-712	ching26a	Efficient and Minimax Optimal In-context Nonparametric Regression with Transformers	https://proceedings.mlr.press/v306/ching26a.html	pending
-713	chiu26a	When AI Agents Compete for Jobs: Strategic Capabilities and Economic Dynamics of AI Labour Markets	https://proceedings.mlr.press/v306/chiu26a.html	pending
-714	chlon26a	Predictable Compression Failures: Order Sensitivity and Information Budgeting for Evidence-Grounded Binary Adjudication	https://proceedings.mlr.press/v306/chlon26a.html	pending
-715	cho26a	TAG: Tangential Amplifying Guidance for Hallucination-Resistant Sampling	https://proceedings.mlr.press/v306/cho26a.html	pending
-716	cho26b	Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference	https://proceedings.mlr.press/v306/cho26b.html	pending
-717	cho26c	GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function	https://proceedings.mlr.press/v306/cho26c.html	pending
-718	cho26d	Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective	https://proceedings.mlr.press/v306/cho26d.html	pending
-719	cho26e	Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs	https://proceedings.mlr.press/v306/cho26e.html	pending
-720	cho26f	Bilinear Bandits with Partially Observable Features	https://proceedings.mlr.press/v306/cho26f.html	pending
-721	cho26g	Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms	https://proceedings.mlr.press/v306/cho26g.html	pending
-722	cho26h	CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features	https://proceedings.mlr.press/v306/cho26h.html	pending
-723	cho26i	Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration	https://proceedings.mlr.press/v306/cho26i.html	pending
-724	choi26a	SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models	https://proceedings.mlr.press/v306/choi26a.html	pending
-725	choi26b	PinTok: Tokenizers Deserve Dedicated Pinned CPU-Compute and Memory	https://proceedings.mlr.press/v306/choi26b.html	pending
-726	choi26c	Efficient Skill Grounding via Code Refactoring with Small Language Models	https://proceedings.mlr.press/v306/choi26c.html	pending
-727	choi26d	Gauge-Equivariant Graph Networks via Self-Interference Cancellation	https://proceedings.mlr.press/v306/choi26d.html	pending
-728	choi26e	The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages	https://proceedings.mlr.press/v306/choi26e.html	pending
-729	choi26f	Anchored Self-Play for Code Repair	https://proceedings.mlr.press/v306/choi26f.html	pending
-730	choi26g	Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging	https://proceedings.mlr.press/v306/choi26g.html	pending
-731	choi26h	Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts	https://proceedings.mlr.press/v306/choi26h.html	pending
-732	choi26i	EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents	https://proceedings.mlr.press/v306/choi26i.html	pending
-733	choi26j	Parameter Decorrelation via Transition-Variance Alignment for Multivariate Time-series Forecasting	https://proceedings.mlr.press/v306/choi26j.html	pending
-734	choi26k	Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL	https://proceedings.mlr.press/v306/choi26k.html	pending
-735	choi26l	Reinforced Sequential Monte Carlo for Amortised Sampling	https://proceedings.mlr.press/v306/choi26l.html	pending
-736	choi26m	Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling	https://proceedings.mlr.press/v306/choi26m.html	pending
-737	choi26n	Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory	https://proceedings.mlr.press/v306/choi26n.html	pending
-738	choi26o	Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design	https://proceedings.mlr.press/v306/choi26o.html	pending
-739	chong26a	NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models	https://proceedings.mlr.press/v306/chong26a.html	pending
-740	chong26b	Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation	https://proceedings.mlr.press/v306/chong26b.html	pending
-741	chong26c	Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting	https://proceedings.mlr.press/v306/chong26c.html	pending
-742	choo26a	Approximate Proportionality in Online Fair Division	https://proceedings.mlr.press/v306/choo26a.html	pending
-743	choo26b	Learning Unanimously Acceptable Lotteries via Queries	https://proceedings.mlr.press/v306/choo26b.html	pending
-744	choromanski26a	Computationally-efficient Graph Modeling with Refined Graph Random Features	https://proceedings.mlr.press/v306/choromanski26a.html	pending
-745	choudhary26a	Learning When to Attend: Conditional Memory Access for Long-Context LLMs	https://proceedings.mlr.press/v306/choudhary26a.html	pending
-746	choudhary26b	Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG	https://proceedings.mlr.press/v306/choudhary26b.html	pending
-747	chowdhury26a	LAGEA: Language Guided Embodied Agents for Robotic Manipulation	https://proceedings.mlr.press/v306/chowdhury26a.html	pending
-748	chowdhury26b	S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation	https://proceedings.mlr.press/v306/chowdhury26b.html	pending
-749	choy26a	SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation	https://proceedings.mlr.press/v306/choy26a.html	pending
-750	chrabaszcz26a	Efficient LLM Moderation with Multi-Layer Latent Prototypes	https://proceedings.mlr.press/v306/chrabaszcz26a.html	pending
-751	chu26a	Value Aggregation with Uncertainty in Online Decentralized MARL	https://proceedings.mlr.press/v306/chu26a.html	pending
-752	chu26b	End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer	https://proceedings.mlr.press/v306/chu26b.html	pending
-753	chua26a	Balancing Plasticity and Stability with Fast and Slow Successor Features	https://proceedings.mlr.press/v306/chua26a.html	pending
-754	chuang26a	The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space	https://proceedings.mlr.press/v306/chuang26a.html	pending
-755	chun26a	Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents	https://proceedings.mlr.press/v306/chun26a.html	pending
-756	chung26a	Global Geometry Is Not Enough for Vision Representations	https://proceedings.mlr.press/v306/chung26a.html	pending
-757	chung26b	Offline Reinforcement Learning with Universal Horizon Models	https://proceedings.mlr.press/v306/chung26b.html	pending
-758	chung26c	Many-Shot CoT-ICL: Making In-Context Learning Truly Learn	https://proceedings.mlr.press/v306/chung26c.html	pending
-759	chung26d	Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation	https://proceedings.mlr.press/v306/chung26d.html	pending
-760	ciernik26a	Attentive Multi-Layer Fusion for Vision Transformers	https://proceedings.mlr.press/v306/ciernik26a.html	pending
-761	clarke26a	Conformal Prediction for Early Stopping in Mixed Integer Optimization	https://proceedings.mlr.press/v306/clarke26a.html	pending
-762	clarkson26a	Transformer Circuits Can Realize Clustering Algorithms	https://proceedings.mlr.press/v306/clarkson26a.html	pending
-763	coester26a	Learning-Augmented Online Minimization with Dual Predictions	https://proceedings.mlr.press/v306/coester26a.html	pending
-764	cohen26a	Adaptively Robust Resettable Streaming	https://proceedings.mlr.press/v306/cohen26a.html	pending
-765	cohen26b	Realizable Bayes-Consistency for General Metric Losses	https://proceedings.mlr.press/v306/cohen26b.html	pending
-766	cohen26c	Improved Distribution Estimation in $\ell_∞$	https://proceedings.mlr.press/v306/cohen26c.html	pending
-767	cohen26d	MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models	https://proceedings.mlr.press/v306/cohen26d.html	pending
-768	cohen26e	Barriers to Counterfactual Credit Attribution for Autoregressive Models	https://proceedings.mlr.press/v306/cohen26e.html	pending
-769	cohen-addad26a	Active Learning with Low-Rank Structure for Data Selection	https://proceedings.mlr.press/v306/cohen-addad26a.html	pending
-770	colaco26a	Unifying Stacking and Cascading for Efficient Ensemble Inference	https://proceedings.mlr.press/v306/colaco26a.html	pending
-771	colamonaco26a	Prototype-Grounded Concept Models for Verifiable Concept Alignment	https://proceedings.mlr.press/v306/colamonaco26a.html	pending
-772	colini-baldeschi26a	Multicalibration Yields Better Matchings	https://proceedings.mlr.press/v306/colini-baldeschi26a.html	pending
-773	collart26a	Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems	https://proceedings.mlr.press/v306/collart26a.html	pending
-774	collina26a	Emergent Alignment via Competition	https://proceedings.mlr.press/v306/collina26a.html	pending
-775	cong26a	RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models	https://proceedings.mlr.press/v306/cong26a.html	pending
-776	conrad26a	Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles	https://proceedings.mlr.press/v306/conrad26a.html	pending
-777	consens26a	Predicting evolutionary rate as a pretraining task improves genome language model representations	https://proceedings.mlr.press/v306/consens26a.html	pending
-778	cooper26a	Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models	https://proceedings.mlr.press/v306/cooper26a.html	pending
-779	corso26a	Fast Mixing Steady-State Control in Markov Decision Processes	https://proceedings.mlr.press/v306/corso26a.html	pending
-780	cortes26a	Beyond Binary: Continuous State Optimization with Graph-Structured Objectives	https://proceedings.mlr.press/v306/cortes26a.html	pending
+701	cherep26a	Visual Persuasion: What Influences Decisions of Vision-Language Models?	https://proceedings.mlr.press/v306/cherep26a.html	written
+702	cherepanov26a	KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning	https://proceedings.mlr.press/v306/cherepanov26a.html	written
+703	cherradi26a	Entropic Mirror Monte Carlo	https://proceedings.mlr.press/v306/cherradi26a.html	written
+704	chhugani26a	Unveiling the Potential of Quantization with MXFP4: Strategies for Quantization Error Reduction	https://proceedings.mlr.press/v306/chhugani26a.html	written
+705	chi26a	GameDevBench: Evaluating Agentic Capabilities Through Game Development	https://proceedings.mlr.press/v306/chi26a.html	written
+706	chi26b	EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning	https://proceedings.mlr.press/v306/chi26b.html	written
+707	chi26c	Quadratically Regularized Optimal Transport: Localization Bounds and Affine Case Analysis	https://proceedings.mlr.press/v306/chi26c.html	written
+708	chi26d	Unifying and Optimizing Data Values for Selection via Sequential Decision-Making	https://proceedings.mlr.press/v306/chi26d.html	written
+709	chien26a	Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States	https://proceedings.mlr.press/v306/chien26a.html	written
+710	chien26b	MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models	https://proceedings.mlr.press/v306/chien26b.html	written
+711	chihara26a	Modeling Covariate Transition for Efficient Estimation of Longitudinal Treatment Effects in Randomized Experiments	https://proceedings.mlr.press/v306/chihara26a.html	written
+712	ching26a	Efficient and Minimax Optimal In-context Nonparametric Regression with Transformers	https://proceedings.mlr.press/v306/ching26a.html	written
+713	chiu26a	When AI Agents Compete for Jobs: Strategic Capabilities and Economic Dynamics of AI Labour Markets	https://proceedings.mlr.press/v306/chiu26a.html	written
+714	chlon26a	Predictable Compression Failures: Order Sensitivity and Information Budgeting for Evidence-Grounded Binary Adjudication	https://proceedings.mlr.press/v306/chlon26a.html	written
+715	cho26a	TAG: Tangential Amplifying Guidance for Hallucination-Resistant Sampling	https://proceedings.mlr.press/v306/cho26a.html	written
+716	cho26b	Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference	https://proceedings.mlr.press/v306/cho26b.html	written
+717	cho26c	GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function	https://proceedings.mlr.press/v306/cho26c.html	written
+718	cho26d	Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective	https://proceedings.mlr.press/v306/cho26d.html	written
+719	cho26e	Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs	https://proceedings.mlr.press/v306/cho26e.html	written
+720	cho26f	Bilinear Bandits with Partially Observable Features	https://proceedings.mlr.press/v306/cho26f.html	written
+721	cho26g	Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms	https://proceedings.mlr.press/v306/cho26g.html	written
+722	cho26h	CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features	https://proceedings.mlr.press/v306/cho26h.html	written
+723	cho26i	Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration	https://proceedings.mlr.press/v306/cho26i.html	written
+724	choi26a	SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models	https://proceedings.mlr.press/v306/choi26a.html	written
+725	choi26b	PinTok: Tokenizers Deserve Dedicated Pinned CPU-Compute and Memory	https://proceedings.mlr.press/v306/choi26b.html	written
+726	choi26c	Efficient Skill Grounding via Code Refactoring with Small Language Models	https://proceedings.mlr.press/v306/choi26c.html	written
+727	choi26d	Gauge-Equivariant Graph Networks via Self-Interference Cancellation	https://proceedings.mlr.press/v306/choi26d.html	written
+728	choi26e	The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages	https://proceedings.mlr.press/v306/choi26e.html	written
+729	choi26f	Anchored Self-Play for Code Repair	https://proceedings.mlr.press/v306/choi26f.html	written
+730	choi26g	Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging	https://proceedings.mlr.press/v306/choi26g.html	written
+731	choi26h	Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts	https://proceedings.mlr.press/v306/choi26h.html	written
+732	choi26i	EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents	https://proceedings.mlr.press/v306/choi26i.html	written
+733	choi26j	Parameter Decorrelation via Transition-Variance Alignment for Multivariate Time-series Forecasting	https://proceedings.mlr.press/v306/choi26j.html	written
+734	choi26k	Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL	https://proceedings.mlr.press/v306/choi26k.html	written
+735	choi26l	Reinforced Sequential Monte Carlo for Amortised Sampling	https://proceedings.mlr.press/v306/choi26l.html	written
+736	choi26m	Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling	https://proceedings.mlr.press/v306/choi26m.html	written
+737	choi26n	Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory	https://proceedings.mlr.press/v306/choi26n.html	written
+738	choi26o	Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design	https://proceedings.mlr.press/v306/choi26o.html	written
+739	chong26a	NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models	https://proceedings.mlr.press/v306/chong26a.html	written
+740	chong26b	Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation	https://proceedings.mlr.press/v306/chong26b.html	written
+741	chong26c	Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting	https://proceedings.mlr.press/v306/chong26c.html	written
+742	choo26a	Approximate Proportionality in Online Fair Division	https://proceedings.mlr.press/v306/choo26a.html	written
+743	choo26b	Learning Unanimously Acceptable Lotteries via Queries	https://proceedings.mlr.press/v306/choo26b.html	written
+744	choromanski26a	Computationally-efficient Graph Modeling with Refined Graph Random Features	https://proceedings.mlr.press/v306/choromanski26a.html	written
+745	choudhary26a	Learning When to Attend: Conditional Memory Access for Long-Context LLMs	https://proceedings.mlr.press/v306/choudhary26a.html	written
+746	choudhary26b	Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG	https://proceedings.mlr.press/v306/choudhary26b.html	written
+747	chowdhury26a	LAGEA: Language Guided Embodied Agents for Robotic Manipulation	https://proceedings.mlr.press/v306/chowdhury26a.html	written
+748	chowdhury26b	S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation	https://proceedings.mlr.press/v306/chowdhury26b.html	written
+749	choy26a	SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation	https://proceedings.mlr.press/v306/choy26a.html	written
+750	chrabaszcz26a	Efficient LLM Moderation with Multi-Layer Latent Prototypes	https://proceedings.mlr.press/v306/chrabaszcz26a.html	written
+751	chu26a	Value Aggregation with Uncertainty in Online Decentralized MARL	https://proceedings.mlr.press/v306/chu26a.html	written
+752	chu26b	End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer	https://proceedings.mlr.press/v306/chu26b.html	written
+753	chua26a	Balancing Plasticity and Stability with Fast and Slow Successor Features	https://proceedings.mlr.press/v306/chua26a.html	written
+754	chuang26a	The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space	https://proceedings.mlr.press/v306/chuang26a.html	written
+755	chun26a	Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents	https://proceedings.mlr.press/v306/chun26a.html	written
+756	chung26a	Global Geometry Is Not Enough for Vision Representations	https://proceedings.mlr.press/v306/chung26a.html	written
+757	chung26b	Offline Reinforcement Learning with Universal Horizon Models	https://proceedings.mlr.press/v306/chung26b.html	written
+758	chung26c	Many-Shot CoT-ICL: Making In-Context Learning Truly Learn	https://proceedings.mlr.press/v306/chung26c.html	written
+759	chung26d	Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation	https://proceedings.mlr.press/v306/chung26d.html	written
+760	ciernik26a	Attentive Multi-Layer Fusion for Vision Transformers	https://proceedings.mlr.press/v306/ciernik26a.html	written
+761	clarke26a	Conformal Prediction for Early Stopping in Mixed Integer Optimization	https://proceedings.mlr.press/v306/clarke26a.html	written
+762	clarkson26a	Transformer Circuits Can Realize Clustering Algorithms	https://proceedings.mlr.press/v306/clarkson26a.html	written
+763	coester26a	Learning-Augmented Online Minimization with Dual Predictions	https://proceedings.mlr.press/v306/coester26a.html	written
+764	cohen26a	Adaptively Robust Resettable Streaming	https://proceedings.mlr.press/v306/cohen26a.html	written
+765	cohen26b	Realizable Bayes-Consistency for General Metric Losses	https://proceedings.mlr.press/v306/cohen26b.html	written
+766	cohen26c	Improved Distribution Estimation in $\ell_∞$	https://proceedings.mlr.press/v306/cohen26c.html	written
+767	cohen26d	MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models	https://proceedings.mlr.press/v306/cohen26d.html	written
+768	cohen26e	Barriers to Counterfactual Credit Attribution for Autoregressive Models	https://proceedings.mlr.press/v306/cohen26e.html	written
+769	cohen-addad26a	Active Learning with Low-Rank Structure for Data Selection	https://proceedings.mlr.press/v306/cohen-addad26a.html	written
+770	colaco26a	Unifying Stacking and Cascading for Efficient Ensemble Inference	https://proceedings.mlr.press/v306/colaco26a.html	written
+771	colamonaco26a	Prototype-Grounded Concept Models for Verifiable Concept Alignment	https://proceedings.mlr.press/v306/colamonaco26a.html	written
+772	colini-baldeschi26a	Multicalibration Yields Better Matchings	https://proceedings.mlr.press/v306/colini-baldeschi26a.html	written
+773	collart26a	Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems	https://proceedings.mlr.press/v306/collart26a.html	written
+774	collina26a	Emergent Alignment via Competition	https://proceedings.mlr.press/v306/collina26a.html	written
+775	cong26a	RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models	https://proceedings.mlr.press/v306/cong26a.html	written
+776	conrad26a	Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles	https://proceedings.mlr.press/v306/conrad26a.html	written
+777	consens26a	Predicting evolutionary rate as a pretraining task improves genome language model representations	https://proceedings.mlr.press/v306/consens26a.html	written
+778	cooper26a	Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models	https://proceedings.mlr.press/v306/cooper26a.html	written
+779	corso26a	Fast Mixing Steady-State Control in Markov Decision Processes	https://proceedings.mlr.press/v306/corso26a.html	written
+780	cortes26a	Beyond Binary: Continuous State Optimization with Graph-Structured Objectives	https://proceedings.mlr.press/v306/cortes26a.html	written
 781	cortes26b	Optimized Deferral for Imbalanced Settings	https://proceedings.mlr.press/v306/cortes26b.html	pending
 782	cortes26c	A Theoretical Framework for Modular Learning of Robust Generative Models	https://proceedings.mlr.press/v306/cortes26c.html	pending
 783	coscia26a	BLIPs: Bayesian Learned Interatomic Potentials	https://proceedings.mlr.press/v306/coscia26a.html	pending

@@ -25,6 +25,7 @@ The linked short insights are available in Chinese.
 | [Independent Component Discovery in Temporal Count Data](https://proceedings.mlr.press/v306/chaussard26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chaussard26a-architecture) |
 | [CoGenCast: A Coupled Autoregressive–Flow Generative Framework for Time Series Forecasting](https://proceedings.mlr.press/v306/cheng26h.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26h-architecture) |
 | [KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables](https://proceedings.mlr.press/v306/cheng26t.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26t-architecture) |
+| [Transformer Circuits Can Realize Clustering Algorithms](https://proceedings.mlr.press/v306/clarkson26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#clarkson26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -43,6 +44,7 @@ The linked short insights are available in Chinese.
 | [Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](https://proceedings.mlr.press/v306/cao26af.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26af-modules) |
 | [The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](https://proceedings.mlr.press/v306/chaudhry26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chaudhry26a-modules) |
 | [Riemannian Networks over Full-Rank Correlation Matrices](https://proceedings.mlr.press/v306/chen26fb.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26fb-modules) |
+| [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](https://proceedings.mlr.press/v306/chong26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#chong26c-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -113,6 +115,12 @@ The linked short insights are available in Chinese.
 | [JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning](https://proceedings.mlr.press/v306/chen26fz.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26fz-optimization) |
 | [Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](https://proceedings.mlr.press/v306/chen26gg.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26gg-optimization) |
 | [Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask](https://proceedings.mlr.press/v306/cheng26f.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26f-optimization) |
+| [Parameter Decorrelation via Transition-Variance Alignment for Multivariate Time-series Forecasting](https://proceedings.mlr.press/v306/choi26j.html) | [Read insight (中文)](../../papers/ml-foundations.md#choi26j-optimization) |
+| [Learning Unanimously Acceptable Lotteries via Queries](https://proceedings.mlr.press/v306/choo26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#choo26b-optimization) |
+| [Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation](https://proceedings.mlr.press/v306/chung26d.html) | [Read insight (中文)](../../papers/ml-foundations.md#chung26d-optimization) |
+| [Conformal Prediction for Early Stopping in Mixed Integer Optimization](https://proceedings.mlr.press/v306/clarke26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#clarke26a-optimization) |
+| [Learning-Augmented Online Minimization with Dual Predictions](https://proceedings.mlr.press/v306/coester26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#coester26a-optimization) |
+| [Beyond Binary: Continuous State Optimization with Graph-Structured Objectives](https://proceedings.mlr.press/v306/cortes26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cortes26a-optimization) |
 
 <a id="by-training-strategies"></a>
 
@@ -150,6 +158,8 @@ The linked short insights are available in Chinese.
 | [Causal Preference Elicitation](https://proceedings.mlr.press/v306/bonilla26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#bonilla26a-data-strategies) |
 | [Probably Approximately Correct Labels](https://proceedings.mlr.press/v306/candes26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#candes26a-data-strategies) |
 | [Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning](https://proceedings.mlr.press/v306/chen26ac.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ac-data-strategies) |
+| [Unifying and Optimizing Data Values for Selection via Sequential Decision-Making](https://proceedings.mlr.press/v306/chi26d.html) | [Read insight (中文)](../../papers/ml-foundations.md#chi26d-data-strategies) |
+| [Active Learning with Low-Rank Structure for Data Selection](https://proceedings.mlr.press/v306/cohen-addad26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cohen-addad26a-data-strategies) |
 
 <a id="by-inference"></a>
 
@@ -162,6 +172,8 @@ The linked short insights are available in Chinese.
 | [Conditional Diffusion Sampling](https://proceedings.mlr.press/v306/castro-maci-as26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#castro-maci-as26a-inference) |
 | [Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators](https://proceedings.mlr.press/v306/chen26f.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26f-inference) |
 | [FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://proceedings.mlr.press/v306/chen26g.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26g-inference) |
+| [Reinforced Sequential Monte Carlo for Amortised Sampling](https://proceedings.mlr.press/v306/choi26l.html) | [Read insight (中文)](../../papers/ml-foundations.md#choi26l-inference) |
+| [Unifying Stacking and Cascading for Efficient Ensemble Inference](https://proceedings.mlr.press/v306/colaco26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#colaco26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -283,4 +295,16 @@ The linked short insights are available in Chinese.
 | [Towards Optimal Robustness in Learning-Augmented Paging](https://proceedings.mlr.press/v306/chen26gt.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26gt-theory-statistics) |
 | [Theoretical Challenges in Learning for Branch-and-Cut](https://proceedings.mlr.press/v306/cheng26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26a-theory-statistics) |
 | [Domain Adaptation with Adaptive $f$-Divergence: Tighter Variational Representation and Generalization Bounds](https://proceedings.mlr.press/v306/cheng26r.html) | [Read insight (中文)](../../papers/ml-foundations.md#cheng26r-theory-statistics) |
+| [Entropic Mirror Monte Carlo](https://proceedings.mlr.press/v306/cherradi26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cherradi26a-theory-statistics) |
+| [Quadratically Regularized Optimal Transport: Localization Bounds and Affine Case Analysis](https://proceedings.mlr.press/v306/chi26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#chi26c-theory-statistics) |
+| [Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States](https://proceedings.mlr.press/v306/chien26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chien26a-theory-statistics) |
+| [Modeling Covariate Transition for Efficient Estimation of Longitudinal Treatment Effects in Randomized Experiments](https://proceedings.mlr.press/v306/chihara26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chihara26a-theory-statistics) |
+| [Efficient and Minimax Optimal In-context Nonparametric Regression with Transformers](https://proceedings.mlr.press/v306/ching26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#ching26a-theory-statistics) |
+| [GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function](https://proceedings.mlr.press/v306/cho26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#cho26c-theory-statistics) |
+| [Approximate Proportionality in Online Fair Division](https://proceedings.mlr.press/v306/choo26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#choo26a-theory-statistics) |
+| [Adaptively Robust Resettable Streaming](https://proceedings.mlr.press/v306/cohen26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cohen26a-theory-statistics) |
+| [Realizable Bayes-Consistency for General Metric Losses](https://proceedings.mlr.press/v306/cohen26b.html) | [Read insight (中文)](../../papers/ml-foundations.md#cohen26b-theory-statistics) |
+| [Improved Distribution Estimation in $\ell_∞$](https://proceedings.mlr.press/v306/cohen26c.html) | [Read insight (中文)](../../papers/ml-foundations.md#cohen26c-theory-statistics) |
+| [Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles](https://proceedings.mlr.press/v306/conrad26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#conrad26a-theory-statistics) |
+| [Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](https://proceedings.mlr.press/v306/cooper26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#cooper26a-theory-statistics) |
 <!-- classification:end -->

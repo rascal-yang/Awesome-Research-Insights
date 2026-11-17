@@ -46,6 +46,15 @@
 - [语言模型 SVD 压缩的分级秩分配](../papers/llm.md#chen26ge-inference) · CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression
 - [风险聚合引导的解码回滚](../papers/llm.md#chen26ha-inference) · RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control
 - [代码文档的依赖感知搜索](../papers/llm.md#cheng26c-inference) · Escaping Whack-a-Mole: Optimizing Documentation as Repo-Specific Playbooks for Coding Agents
+- [MXFP4 的溢出感知缩放](../papers/llm.md#chhugani26a-inference) · Unveiling the Potential of Quantization with MXFP4: Strategies for Quantization Error Reduction
+- [证据排列混合的拒答门控](../papers/llm.md#chlon26a-inference) · Predictable Compression Failures: Order Sensitivity and Information Budgeting for Evidence-Grounded Binary Adjudication
+- [主奇异子空间保留后再量化](../papers/llm.md#cho26e-inference) · Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs
+- [相关筛选与干预验证的 SAE 引导](../papers/llm.md#cho26h-inference) · CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features
+- [低延迟分词的绑核与轮询](../papers/llm.md#choi26b-inference) · PinTok: Tokenizers Deserve Dedicated Pinned CPU-Compute and Memory
+- [同谱系模型的上下文忠实性门控](../papers/llm.md#choi26e-inference) · The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages
+- [RAG 段落注意力方差过滤](../papers/llm.md#choudhary26b-inference) · Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG
+- [多层原型输入审核](../papers/llm.md#chrabaszcz26a-inference) · Efficient LLM Moderation with Multi-Layer Latent Prototypes
+- [长上下文思维链示例排序](../papers/llm.md#chung26c-inference) · Many-Shot CoT-ICL: Making In-Context Learning Truly Learn
 
 ### 计算机视觉
 
@@ -65,12 +74,17 @@
 - [自回归图像采样的轨迹剪枝](../papers/computer-vision.md#chen26fc-inference) · ScalingAR: Scaling Confidence for Autoregressive Image Generation
 - [桥式生成模型的分频先验引导](../papers/computer-vision.md#chen26fq-inference) · GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance
 - [图像到点云配准的动态交互深度](../papers/computer-vision.md#cheng26b-inference) · FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth
+- [扩散采样的切向增量放大](../papers/computer-vision.md#cho26a-inference) · TAG: Tangential Amplifying Guidance for Hallucination-Resistant Sampling
+- [扩散注意力的反对称分量调节](../papers/computer-vision.md#cho26d-inference) · Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective
+- [扩散负引导的阈值投影](../papers/computer-vision.md#choi26m-inference) · Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling
+- [扩散 Transformer 激活稀疏推理](../papers/computer-vision.md#cong26a-inference) · RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models
 
 ### 自然语言处理
 
 - [排序与检索](../papers/nlp.md#agrawal26d-inference) · BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs
 - [文本水印](../papers/nlp.md#ai26b-inference) · PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks
 - [句子级水印](../papers/nlp.md#an26a-inference) · IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection
+- [全双工语音的异步检索](../papers/nlp.md#chien26b-inference) · MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models
 
 ### 强化学习
 
@@ -85,6 +99,10 @@
 - [移动操作站位](../papers/robotics.md#chai26a-inference) · N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout
 - [概率场景图导航](../papers/robotics.md#chen26i-inference) · PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making
 - [长程机器人轨迹采样](../papers/robotics.md#chen26co-inference) · Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning
+- [多智能体协作的反事实规划](../papers/robotics.md#chi26b-inference) · EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning
+- [VLA 不确定性调节感知与动作](../papers/robotics.md#choi26a-inference) · SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models
+- [机器人技能代码的局部重绑定](../papers/robotics.md#choi26c-inference) · Efficient Skill Grounding via Code Refactoring with Small Language Models
+- [函数级 KV 缓存拼接与修补](../papers/robotics.md#chun26a-inference) · Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents
 
 ### 多模态学习
 
@@ -101,6 +119,7 @@
 - [双编码器视觉幻觉校正](../papers/multimodal.md#chen26dz-inference) · Beyond Blind Noising: Disentangled Visual Rectification for Hallucination Mitigation in MLLMs
 - [图像生成的潜空间推理调度](../papers/multimodal.md#chen26fv-inference) · Show, Don’t Tell: Morphing Latent Reasoning into Image Generation
 - [视觉语言模型注意力通路门控](../papers/multimodal.md#cheng26d-inference) · Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating
+- [视觉词元删减后的注意力校准](../papers/multimodal.md#cho26b-inference) · Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference
 
 ### 机器学习基础与统计
 
@@ -109,6 +128,8 @@
 - [条件扩散采样](../papers/ml-foundations.md#castro-maci-as26a-inference) · Conditional Diffusion Sampling
 - [贝叶斯逆问题采样](../papers/ml-foundations.md#chen26f-inference) · Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators
 - [分块扩散注意力缓存](../papers/ml-foundations.md#chen26g-inference) · FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion
+- [摊销采样器与粒子采样互训](../papers/ml-foundations.md#choi26l-inference) · Reinforced Sequential Monte Carlo for Amortised Sampling
+- [动态集成的路径聚合与早退](../papers/ml-foundations.md#colaco26a-inference) · Unifying Stacking and Cascading for Efficient Ensemble Inference
 
 ### 图学习与推荐
 

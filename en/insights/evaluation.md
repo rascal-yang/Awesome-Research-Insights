@@ -72,6 +72,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](../../papers/llm.md#chen26fa-evaluation) · 中文
 - [Scaling Law for Quantization-Aware Training](../../papers/llm.md#chen26gl-evaluation) · 中文
 - [IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL](../../papers/llm.md#cheng26n-evaluation) · 中文
+- [When AI Agents Compete for Jobs: Strategic Capabilities and Economic Dynamics of AI Labour Markets](../../papers/llm.md#chiu26a-evaluation) · 中文
+- [Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms](../../papers/llm.md#cho26g-evaluation) · 中文
+- [Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory](../../papers/llm.md#choi26n-evaluation) · 中文
+- [Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation](../../papers/llm.md#chong26b-evaluation) · 中文
 
 ### Computer Vision
 
@@ -82,6 +86,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../../papers/computer-vision.md#braun26b-evaluation) · 中文
 - [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](../../papers/computer-vision.md#chen26az-evaluation) · 中文
 - [Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](../../papers/computer-vision.md#chen26gw-evaluation) · 中文
+- [Global Geometry Is Not Enough for Vision Representations](../../papers/computer-vision.md#chung26a-evaluation) · 中文
 
 ### Natural Language Processing
 
@@ -93,6 +98,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 ### Reinforcement Learning
 
 - [Beyond Rewards in RL for Cyber Defence](../../papers/reinforcement-learning.md#bates26a-evaluation) · 中文
+- [KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](../../papers/reinforcement-learning.md#cherepanov26a-evaluation) · 中文
 
 ### Robotics
 
@@ -112,6 +118,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](../../papers/multimodal.md#chen26en-evaluation) · 中文
 - [BabyVision: Visual Reasoning Beyond Language](../../papers/multimodal.md#chen26fj-evaluation) · 中文
 - [HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing](../../papers/multimodal.md#chen26gz-evaluation) · 中文
+- [Visual Persuasion: What Influences Decisions of Vision-Language Models?](../../papers/multimodal.md#cherep26a-evaluation) · 中文
+- [GameDevBench: Evaluating Agentic Capabilities Through Game Development](../../papers/multimodal.md#chi26a-evaluation) · 中文
+- [MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models](../../papers/multimodal.md#cohen26d-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 

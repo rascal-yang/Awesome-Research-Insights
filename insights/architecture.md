@@ -21,6 +21,7 @@
 - [少样本布局生成](../papers/computer-vision.md#bao26f-architecture) · Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation
 - [按空间分组的同位词元预测](../papers/computer-vision.md#chen26du-architecture) · Autoregression with Self-Token Prediction
 - [压缩成像的连续光谱先验](../papers/computer-vision.md#chen26ga-architecture) · Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging
+- [开放词汇三维实例分割](../papers/computer-vision.md#choy26a-architecture) · SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation
 
 ### 强化学习
 
@@ -30,6 +31,7 @@
 
 - [VLA 潜空间推理](../papers/robotics.md#bai26h-architecture) · Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models
 - [频域分层动作策略](../papers/robotics.md#cao26u-architecture) · Hierarchical Policy Learning via Spectral Decomposition
+- [SE(3) 位姿扩散策略](../papers/robotics.md#chuang26a-architecture) · The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space
 
 ### 多模态学习
 
@@ -48,6 +50,7 @@
 - [时序计数分解](../papers/ml-foundations.md#chaussard26a-architecture) · Independent Component Discovery in Temporal Count Data
 - [自回归与流匹配耦合预测](../papers/ml-foundations.md#cheng26h-architecture) · CoGenCast: A Coupled Autoregressive–Flow Generative Framework for Time Series Forecasting
 - [外生时序的历史条件生成](../papers/ml-foundations.md#cheng26t-architecture) · KITE: Knowledge-Guided Probabilistic Modeling for Time Series Forecasting with Exogenous Variables
+- [用 Transformer 电路实现 Lloyd 迭代](../papers/ml-foundations.md#clarkson26a-architecture) · Transformer Circuits Can Realize Clustering Algorithms
 
 ### 图学习与推荐
 
@@ -72,4 +75,5 @@
 - [对流风暴短时预报](../papers/scientific-ml.md#chen26aa-architecture) · StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution
 - [电子密度条件分子生成](../papers/scientific-ml.md#chen26ai-architecture) · From Holo Pockets to Electron Density: GPT-style Drug Design with Density
 - [功能条件蛋白质共生成](../papers/scientific-ml.md#chen26cu-architecture) · Co-Generative De Novo Functional Protein Design
+- [基因组性状到土壤碳动力学](../papers/scientific-ml.md#collart26a-architecture) · Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems
 <!-- classification:end -->

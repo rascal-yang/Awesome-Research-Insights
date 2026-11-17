@@ -38,6 +38,7 @@
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
 | <a id="banayeeanzade26a-data-strategies"></a>[EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://proceedings.mlr.press/v306/banayeeanzade26a.html) | 差分隐私合成数据 | 只提取和净化一次私有数据相对公共先验的激活偏移向量，之后用它引导解码。重复合成样本属于后处理，无需重复消耗隐私预算。 |
+| <a id="cho26i-data-strategies"></a>[Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://proceedings.mlr.press/v306/cho26i.html) | 临床文本改写的专家约束 | 先让轻量医学专家模型标出临床笔记中必须保留语义的词项，再把原文和词项约束交给通用模型改写，沿用原始标签。实验同时检查词元和医学概念，测量改写对关键内容的保留及幻觉引入。 |
 
 <a id="by-inference"></a>
 
@@ -48,6 +49,7 @@
 | <a id="agrawal26d-inference"></a>[BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](https://proceedings.mlr.press/v306/agrawal26d.html) | 排序与检索 | 把一次多项排序转换成多条比较边，用传递闭包复用查询结果，再围绕前 k 名继续查询。循环偏好可合成同一档。 |
 | <a id="ai26b-inference"></a>[PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://proceedings.mlr.press/v306/ai26b.html) | 文本水印 | 把水印放到语义簇层，通过密钥与语义历史同步随机性，让释义改写后仍可在语义层检测水印。 |
 | <a id="an26a-inference"></a>[IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](https://proceedings.mlr.press/v306/an26a.html) | 句子级水印 | 按模型和用户组织分层水印标识，用语义及句法信号筛选句子候选，再用分层检索缩小溯源检测范围。 |
+| <a id="chien26b-inference"></a>[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](https://proceedings.mlr.press/v306/chien26b.html) | 全双工语音的异步检索 | 语音模型用特殊词元决定是否检索，把流式转录交给后台后继续生成。利用开始应答到说出关键信息的时间差，把返回的检索文本编码后注入后续生成，兼顾语音交互时延与事实性。 |
 
 <a id="by-representation-learning"></a>
 

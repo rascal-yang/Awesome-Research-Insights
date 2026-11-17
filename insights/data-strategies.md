@@ -34,6 +34,7 @@
 ### 自然语言处理
 
 - [差分隐私合成数据](../papers/nlp.md#banayeeanzade26a-data-strategies) · EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors
+- [临床文本改写的专家约束](../papers/nlp.md#cho26i-data-strategies) · Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration
 
 ### 强化学习
 
@@ -45,6 +46,7 @@
 - [双臂仿真数据生成](../papers/robotics.md#chen26j-data-strategies) · RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation
 - [物理可用的桌面场景](../papers/robotics.md#chen26ab-data-strategies) · PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation
 - [固定预算下的机器人示范分配](../papers/robotics.md#chen26cy-data-strategies) · Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation
+- [具身动作风险的组合数据构造](../papers/robotics.md#choi26i-data-strategies) · EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents
 
 ### 多模态学习
 
@@ -62,6 +64,8 @@
 - [主动因果发现](../papers/ml-foundations.md#bonilla26a-data-strategies) · Causal Preference Elicitation
 - [带保证的自动标注](../papers/ml-foundations.md#candes26a-data-strategies) · Probably Approximately Correct Labels
 - [稀疏多类标注聚合](../papers/ml-foundations.md#chen26ac-data-strategies) · Let the Prototype Guide You: Robust Aggregation of Sparse Multi-Class Annotations via Annotator Prototype Learning
+- [训练样本选择的二部图覆盖](../papers/ml-foundations.md#chi26d-data-strategies) · Unifying and Optimizing Data Values for Selection via Sequential Decision-Making
+- [低秩数据子集的残差采样](../papers/ml-foundations.md#cohen-addad26a-data-strategies) · Active Learning with Low-Rank Structure for Data Selection
 
 ### 图学习与推荐
 

@@ -72,6 +72,10 @@
 - [分块低比特量化格式比较](../papers/llm.md#chen26fa-evaluation) · INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats
 - [量化感知训练的激活异常值诊断](../papers/llm.md#chen26gl-evaluation) · Scaling Law for Quantization-Aware Training
 - [语言模型强化学习的采样预算分配](../papers/llm.md#cheng26n-evaluation) · IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL
+- [智能体劳务市场的策略诊断](../papers/llm.md#chiu26a-evaluation) · When AI Agents Compete for Jobs: Strategic Capabilities and Economic Dynamics of AI Labour Markets
+- [续写分布的语义与机制聚类](../papers/llm.md#cho26g-evaluation) · Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms
+- [语言模型评委的潜在质量诊断](../papers/llm.md#choi26n-evaluation) · Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory
+- [冻结演化轨迹的反馈归因](../papers/llm.md#chong26b-evaluation) · Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation
 
 ### 计算机视觉
 
@@ -82,6 +86,7 @@
 - [扩散模型概念遗忘](../papers/computer-vision.md#braun26b-evaluation) · Erased but Not Forgotten: How Backdoors Compromise Concept Erasure
 - [生成模型后门评测](../papers/computer-vision.md#chen26az-evaluation) · Semantic-level Backdoor Attack against Text-to-Image Diffusion Models
 - [人脸数据集内在质量估计](../papers/computer-vision.md#chen26gw-evaluation) · Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets
+- [视觉表征的组合绑定诊断](../papers/computer-vision.md#chung26a-evaluation) · Global Geometry Is Not Enough for Vision Representations
 
 ### 自然语言处理
 
@@ -93,6 +98,7 @@
 ### 强化学习
 
 - [防御强化学习奖励](../papers/reinforcement-learning.md#bates26a-evaluation) · Beyond Rewards in RL for Cyber Defence
+- [像素策略的单因素泛化评测](../papers/reinforcement-learning.md#cherepanov26a-evaluation) · KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning
 
 ### 机器人学
 
@@ -112,6 +118,9 @@
 - [文生图工具链越狱评测](../papers/multimodal.md#chen26en-evaluation) · OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing
 - [基础视觉推理诊断](../papers/multimodal.md#chen26fj-evaluation) · BabyVision: Visual Reasoning Beyond Language
 - [文生图人口属性多样性评测](../papers/multimodal.md#chen26gz-evaluation) · HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing
+- [视觉语言模型的选择偏好审计](../papers/multimodal.md#cherep26a-evaluation) · Visual Persuasion: What Influences Decisions of Vision-Language Models?
+- [游戏开发智能体的运行时反馈](../papers/multimodal.md#chi26a-evaluation) · GameDevBench: Evaluating Agentic Capabilities Through Game Development
+- [视觉实体追踪的感知与推理解耦](../papers/multimodal.md#cohen26d-evaluation) · MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models
 
 ### 机器学习基础与统计
 

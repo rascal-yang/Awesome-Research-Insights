@@ -68,6 +68,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers](../../papers/llm.md#chen26aw-modules) · 中文
 - [SimpleGPT: Improving GPT via A Simple Normalization Strategy](../../papers/llm.md#chen26dj-modules) · 中文
 - [Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance](../../papers/llm.md#chen26dw-modules) · 中文
+- [Learning When to Attend: Conditional Memory Access for Long-Context LLMs](../../papers/llm.md#choudhary26a-modules) · 中文
 
 ### Computer Vision
 
@@ -77,6 +78,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](../../papers/computer-vision.md#cao26n-modules) · 中文
 - [StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](../../papers/computer-vision.md#cao26ab-modules) · 中文
 - [WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder](../../papers/computer-vision.md#chen26ce-modules) · 中文
+- [Attentive Multi-Layer Fusion for Vision Transformers](../../papers/computer-vision.md#ciernik26a-modules) · 中文
+- [Prototype-Grounded Concept Models for Verifiable Concept Alignment](../../papers/computer-vision.md#colamonaco26a-modules) · 中文
 - [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../insights/modules.md#widen-the-student-distillation-interface)
 
 ### Natural Language Processing
@@ -106,12 +109,14 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](../../papers/ml-foundations.md#cao26af-modules) · 中文
 - [The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](../../papers/ml-foundations.md#chaudhry26a-modules) · 中文
 - [Riemannian Networks over Full-Rank Correlation Matrices](../../papers/ml-foundations.md#chen26fb-modules) · 中文
+- [Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](../../papers/ml-foundations.md#chong26c-modules) · 中文
 
 ### Graph Learning and Recommendation
 
 - [GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](../../papers/graph-and-recommendation.md#bai26i-modules) · 中文
 - [Message Passing on the Edge: Towards Scalable and Expressive GNNs](../../papers/graph-and-recommendation.md#barcelo26a-modules) · 中文
 - [Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](../../papers/graph-and-recommendation.md#chen26gm-modules) · 中文
+- [Gauge-Equivariant Graph Networks via Self-Interference Cancellation](../../papers/graph-and-recommendation.md#choi26d-modules) · 中文
 
 ### Scientific Machine Learning
 

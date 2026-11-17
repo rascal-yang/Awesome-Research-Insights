@@ -46,6 +46,15 @@ Decoding, test-time adaptation, and efficient execution.
 - [CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression](../../papers/llm.md#chen26ge-inference) · 中文
 - [RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control](../../papers/llm.md#chen26ha-inference) · 中文
 - [Escaping Whack-a-Mole: Optimizing Documentation as Repo-Specific Playbooks for Coding Agents](../../papers/llm.md#cheng26c-inference) · 中文
+- [Unveiling the Potential of Quantization with MXFP4: Strategies for Quantization Error Reduction](../../papers/llm.md#chhugani26a-inference) · 中文
+- [Predictable Compression Failures: Order Sensitivity and Information Budgeting for Evidence-Grounded Binary Adjudication](../../papers/llm.md#chlon26a-inference) · 中文
+- [Preserve-Then-Quantize: Balancing Rank Budgets for Quantization Error Reconstruction in LLMs](../../papers/llm.md#cho26e-inference) · 中文
+- [CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features](../../papers/llm.md#cho26h-inference) · 中文
+- [PinTok: Tokenizers Deserve Dedicated Pinned CPU-Compute and Memory](../../papers/llm.md#choi26b-inference) · 中文
+- [The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages](../../papers/llm.md#choi26e-inference) · 中文
+- [Through the Stealth Lens: Attention-Aware Defenses Against Poisoning in RAG](../../papers/llm.md#choudhary26b-inference) · 中文
+- [Efficient LLM Moderation with Multi-Layer Latent Prototypes](../../papers/llm.md#chrabaszcz26a-inference) · 中文
+- [Many-Shot CoT-ICL: Making In-Context Learning Truly Learn](../../papers/llm.md#chung26c-inference) · 中文
 
 ### Computer Vision
 
@@ -65,12 +74,17 @@ Decoding, test-time adaptation, and efficient execution.
 - [ScalingAR: Scaling Confidence for Autoregressive Image Generation](../../papers/computer-vision.md#chen26fc-inference) · 中文
 - [GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](../../papers/computer-vision.md#chen26fq-inference) · 中文
 - [FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth](../../papers/computer-vision.md#cheng26b-inference) · 中文
+- [TAG: Tangential Amplifying Guidance for Hallucination-Resistant Sampling](../../papers/computer-vision.md#cho26a-inference) · 中文
+- [Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective](../../papers/computer-vision.md#cho26d-inference) · 中文
+- [Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling](../../papers/computer-vision.md#choi26m-inference) · 中文
+- [RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models](../../papers/computer-vision.md#cong26a-inference) · 中文
 
 ### Natural Language Processing
 
 - [BlitzRank: Principled Zero-shot Ranking Agents with Tournament Graphs](../../papers/nlp.md#agrawal26d-inference) · 中文
 - [PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](../../papers/nlp.md#ai26b-inference) · 中文
 - [IPMark: A Sentence-Level Watermark for LLMs with Hierarchical Personalization and Efficient Detection](../../papers/nlp.md#an26a-inference) · 中文
+- [MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](../../papers/nlp.md#chien26b-inference) · 中文
 
 ### Reinforcement Learning
 
@@ -85,6 +99,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](../../papers/robotics.md#chai26a-inference) · 中文
 - [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](../../papers/robotics.md#chen26i-inference) · 中文
 - [Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](../../papers/robotics.md#chen26co-inference) · 中文
+- [EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning](../../papers/robotics.md#chi26b-inference) · 中文
+- [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](../../papers/robotics.md#choi26a-inference) · 中文
+- [Efficient Skill Grounding via Code Refactoring with Small Language Models](../../papers/robotics.md#choi26c-inference) · 中文
+- [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](../../papers/robotics.md#chun26a-inference) · 中文
 
 ### Multimodal Learning
 
@@ -101,6 +119,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Beyond Blind Noising: Disentangled Visual Rectification for Hallucination Mitigation in MLLMs](../../papers/multimodal.md#chen26dz-inference) · 中文
 - [Show, Don’t Tell: Morphing Latent Reasoning into Image Generation](../../papers/multimodal.md#chen26fv-inference) · 中文
 - [Mitigating Hallucinations in Large Vision-Language Models via Causal Route Gating](../../papers/multimodal.md#cheng26d-inference) · 中文
+- [Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](../../papers/multimodal.md#cho26b-inference) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -109,6 +128,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Conditional Diffusion Sampling](../../papers/ml-foundations.md#castro-maci-as26a-inference) · 中文
 - [Proximal-IMH: Proximal Posterior Proposals for Independent Metropolis–Hastings with Approximate Operators](../../papers/ml-foundations.md#chen26f-inference) · 中文
 - [FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](../../papers/ml-foundations.md#chen26g-inference) · 中文
+- [Reinforced Sequential Monte Carlo for Amortised Sampling](../../papers/ml-foundations.md#choi26l-inference) · 中文
+- [Unifying Stacking and Cascading for Efficient Ensemble Inference](../../papers/ml-foundations.md#colaco26a-inference) · 中文
 
 ### Graph Learning and Recommendation
 

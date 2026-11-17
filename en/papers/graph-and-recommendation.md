@@ -27,6 +27,7 @@ The linked short insights are available in Chinese.
 | [GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](https://proceedings.mlr.press/v306/bai26i.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bai26i-modules) |
 | [Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://proceedings.mlr.press/v306/barcelo26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#barcelo26a-modules) |
 | [Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs](https://proceedings.mlr.press/v306/chen26gm.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26gm-modules) |
+| [Gauge-Equivariant Graph Networks via Self-Interference Cancellation](https://proceedings.mlr.press/v306/choi26d.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#choi26d-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -96,6 +97,7 @@ The linked short insights are available in Chinese.
 | [CONTEXTOR: Contextualized High-order Contrastive Learning](https://proceedings.mlr.press/v306/cai26f.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#cai26f-representation-learning) |
 | [SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://proceedings.mlr.press/v306/chen26ak.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ak-representation-learning) |
 | [Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://proceedings.mlr.press/v306/chen26fu.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26fu-representation-learning) |
+| [Computationally-efficient Graph Modeling with Refined Graph Random Features](https://proceedings.mlr.press/v306/choromanski26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#choromanski26a-representation-learning) |
 
 <a id="by-evaluation"></a>
 
@@ -117,4 +119,5 @@ The linked short insights are available in Chinese.
 | [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](https://proceedings.mlr.press/v306/badanidiyuru26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) |
 | [On the Theoretical Limitations of Embedding-based Link Prediction](https://proceedings.mlr.press/v306/badreddine26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) |
 | [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](https://proceedings.mlr.press/v306/charpenay26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) |
+| [Multicalibration Yields Better Matchings](https://proceedings.mlr.press/v306/colini-baldeschi26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) |
 <!-- classification:end -->

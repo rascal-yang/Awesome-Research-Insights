@@ -29,6 +29,7 @@
 - [拒答引导的激活对抗训练](../papers/llm.md#chen26em-training-strategies) · Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation
 - [代码风险节点的树式自对弈](../papers/llm.md#chen26gc-training-strategies) · Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs
 - [多智能体的隐私偏好构造](../papers/llm.md#cheng26o-training-strategies) · PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training
+- [按梯度冲突拆分指令微调](../papers/llm.md#choi26g-training-strategies) · Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging
 
 ### 计算机视觉
 
@@ -39,6 +40,7 @@
 - [视图一致的三维 VAE 稀疏训练](../papers/computer-vision.md#chen26cn-training-strategies) · Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training
 - [高斯泼溅的瞬态区域筛除](../papers/computer-vision.md#chen26dm-training-strategies) · 3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification
 - [长上下文视频蒸馏](../papers/computer-vision.md#chen26eu-training-strategies) · Context Forcing: Consistent Autoregressive Video Generation with Long Context
+- [图像词元化与生成联合训练](../papers/computer-vision.md#chu26b-training-strategies) · End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer
 
 ### 机器人学
 
@@ -87,4 +89,5 @@
 - [变构蛋白结合物生成](../papers/scientific-ml.md#cao26r-training-strategies) · TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation
 - [层级仿真推断](../papers/scientific-ml.md#charles26a-training-strategies) · Tokenised Flow Matching for Hierarchical Simulation Based Inference
 - [长时天气预测](../papers/scientific-ml.md#chen26ao-training-strategies) · EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting
+- [基因组模型的进化速率监督](../papers/scientific-ml.md#consens26a-training-strategies) · Predicting evolutionary rate as a pretraining task improves genome language model representations
 <!-- classification:end -->

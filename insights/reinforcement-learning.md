@@ -61,12 +61,14 @@
 - [动态检索规划与执行联合训练](../papers/llm.md#chen26gh-reinforcement-learning) · JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG
 - [多智能体检索的角色信用分配](../papers/llm.md#chen26gp-reinforcement-learning) · DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning
 - [智能体轨迹的图信用分配](../papers/llm.md#cheng26e-reinforcement-learning) · Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning
+- [代码修复的锚定自博弈](../papers/llm.md#choi26f-reinforcement-learning) · Anchored Self-Play for Code Repair
 
 ### 计算机视觉
 
 - [多奖励生成优化](../papers/computer-vision.md#ba26a-reinforcement-learning) · Pareto-Guided Optimal Transport for Multi-Reward Alignment
 - [流匹配测试时优化](../papers/computer-vision.md#chen26as-reinforcement-learning) · Test-Time Reinforcement Learning for Flow Matching
 - [目标跟踪定位策略](../papers/computer-vision.md#chen26ea-reinforcement-learning) · RELO: Reinforcement Learning to Localize for Visual Object Tracking
+- [扩散强化学习的样本似然估计](../papers/computer-vision.md#choi26o-reinforcement-learning) · Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design
 
 ### 自然语言处理
 
@@ -96,11 +98,17 @@
 - [价值一致性约束的离线世界模型](../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) · VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning
 - [增广拉格朗日引导安全动作去噪](../papers/reinforcement-learning.md#cheng26q-reinforcement-learning) · How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?
 - [对抗 MDP 的混合反馈遗憾控制](../papers/reinforcement-learning.md#cheng26s-reinforcement-learning) · Hybrid Reinforcement Learning in Adversarial Markov Decision Processes
+- [部分可观测双线性老虎机](../papers/reinforcement-learning.md#cho26f-reinforcement-learning) · Bilinear Bandits with Partially Observable Features
+- [离线策略的潜子目标链](../papers/reinforcement-learning.md#choi26k-reinforcement-learning) · Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL
+- [去中心化 Q 值的不确定性聚合](../papers/reinforcement-learning.md#chu26a-reinforcement-learning) · Value Aggregation with Uncertainty in Online Decentralized MARL
+- [持续漂移下的多时间尺度巩固](../papers/reinforcement-learning.md#chua26a-reinforcement-learning) · Balancing Plasticity and Stability with Fast and Slow Successor Features
+- [任意步长的离线强化学习模型](../papers/reinforcement-learning.md#chung26b-reinforcement-learning) · Offline Reinforcement Learning with Universal Horizon Models
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
 
 - [规划与强化学习](../papers/robotics.md#aichmuller26a-reinforcement-learning) · Learning to Search and Searching to Learn for Generalization in Planning
+- [按关键帧分配语言反馈奖励](../papers/robotics.md#chowdhury26a-reinforcement-learning) · LAGEA: Language Guided Embodied Agents for Robotic Manipulation
 
 ### 多模态学习
 

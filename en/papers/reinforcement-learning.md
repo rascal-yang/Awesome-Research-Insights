@@ -31,6 +31,14 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Continuity-Regularized Flow Matching for Offline Reinforcement Learning](https://proceedings.mlr.press/v306/chen26ep.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26ep-loss-functions) |
 
+<a id="by-optimization"></a>
+
+### Optimization
+
+| Paper | Insight |
+| :--- | :--- |
+| [Fast Mixing Steady-State Control in Markov Decision Processes](https://proceedings.mlr.press/v306/corso26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#corso26a-optimization) |
+
 <a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning Methods
@@ -59,6 +67,11 @@ The linked short insights are available in Chinese.
 | [VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning](https://proceedings.mlr.press/v306/chen26fn.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) |
 | [How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](https://proceedings.mlr.press/v306/cheng26q.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cheng26q-reinforcement-learning) |
 | [Hybrid Reinforcement Learning in Adversarial Markov Decision Processes](https://proceedings.mlr.press/v306/cheng26s.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cheng26s-reinforcement-learning) |
+| [Bilinear Bandits with Partially Observable Features](https://proceedings.mlr.press/v306/cho26f.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cho26f-reinforcement-learning) |
+| [Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL](https://proceedings.mlr.press/v306/choi26k.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#choi26k-reinforcement-learning) |
+| [Value Aggregation with Uncertainty in Online Decentralized MARL](https://proceedings.mlr.press/v306/chu26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chu26a-reinforcement-learning) |
+| [Balancing Plasticity and Stability with Fast and Slow Successor Features](https://proceedings.mlr.press/v306/chua26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chua26a-reinforcement-learning) |
+| [Offline Reinforcement Learning with Universal Horizon Models](https://proceedings.mlr.press/v306/chung26b.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#chung26b-reinforcement-learning) |
 | [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · [Full entry](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -94,6 +107,7 @@ The linked short insights are available in Chinese.
 | Paper | Insight |
 | :--- | :--- |
 | [Beyond Rewards in RL for Cyber Defence](https://proceedings.mlr.press/v306/bates26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#bates26a-evaluation) |
+| [KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning](https://proceedings.mlr.press/v306/cherepanov26a.html) | [Read insight (中文)](../../papers/reinforcement-learning.md#cherepanov26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

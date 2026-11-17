@@ -21,6 +21,11 @@
 - [遥测反馈驱动内核调优](../papers/llm.md#chen26ex-optimization) · QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment
 - [偏好更新的梯度激励校准](../papers/llm.md#chen26fe-optimization) · Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner
 - [求解器程序树进化](../papers/llm.md#chen26hb-optimization) · $A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees
+- [低秩二值权重量化](../papers/llm.md#chong26a-optimization) · NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models
+
+### 强化学习
+
+- [目标稳态分布约束下的快速混合](../papers/reinforcement-learning.md#corso26a-optimization) · Fast Mixing Steady-State Control in Markov Decision Processes
 
 ### 机器人学
 
@@ -78,6 +83,12 @@
 - [持续学习的 LoRA 梯度修正](../papers/ml-foundations.md#chen26fz-optimization) · JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning
 - [集合元素污染的鲁棒优化](../papers/ml-foundations.md#chen26gg-optimization) · Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption
 - [结构鲁棒的 Gromov–Wasserstein 对齐](../papers/ml-foundations.md#cheng26f-optimization) · Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask
+- [按梯度噪声调节更新方差](../papers/ml-foundations.md#choi26j-optimization) · Parameter Decorrelation via Transition-Variance Alignment for Multivariate Time-series Forecasting
+- [一致可接受的随机方案查询](../papers/ml-foundations.md#choo26b-optimization) · Learning Unanimously Acceptable Lotteries via Queries
+- [距离算子的凸最优传输](../papers/ml-foundations.md#chung26d-optimization) · Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation
+- [混合整数求解的共形提前停止](../papers/ml-foundations.md#clarke26a-optimization) · Conformal Prediction for Early Stopping in Mixed Integer Optimization
+- [在线最小化的对偶预测](../papers/ml-foundations.md#coester26a-optimization) · Learning-Augmented Online Minimization with Dual Predictions
+- [带移动成本的图结构连续优化](../papers/ml-foundations.md#cortes26a-optimization) · Beyond Binary: Continuous State Optimization with Graph-Structured Objectives
 
 ### 图学习与推荐
 

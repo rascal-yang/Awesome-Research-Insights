@@ -39,6 +39,7 @@
 - [关节与片段级动作文本对齐](../papers/multimodal.md#chen26cx-representation-learning) · Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning
 - [利用地理邻接的半监督街景对比学习](../papers/multimodal.md#chen26fo-representation-learning) · MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction
 - [结构化代理的跨模态哈希](../papers/multimodal.md#cheng26k-representation-learning) · Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval
+- [可稀疏选择的多模态专家表征](../papers/multimodal.md#choi26h-representation-learning) · Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts
 
 ### 机器学习基础与统计
 
@@ -60,6 +61,7 @@
 - [高阶关系表征](../papers/graph-and-recommendation.md#cai26f-representation-learning) · CONTEXTOR: Contextualized High-order Contrastive Learning
 - [跨模态生成式推荐](../papers/graph-and-recommendation.md#chen26ak-representation-learning) · SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation
 - [图节点边界的自适应对比更新](../papers/graph-and-recommendation.md#chen26fu-representation-learning) · Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement
+- [短随机游走拼接图特征](../papers/graph-and-recommendation.md#choromanski26a-representation-learning) · Computationally-efficient Graph Modeling with Refined Graph Random Features
 
 ### 科学机器学习
 

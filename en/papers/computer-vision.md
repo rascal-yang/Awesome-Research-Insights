@@ -26,6 +26,7 @@ The linked short insights are available in Chinese.
 | [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | [Read insight (中文)](../../papers/computer-vision.md#bao26f-architecture) |
 | [Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26du-architecture) |
 | [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](https://proceedings.mlr.press/v306/chen26ga.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ga-architecture) |
+| [SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](https://proceedings.mlr.press/v306/choy26a.html) | [Read insight (中文)](../../papers/computer-vision.md#choy26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -39,6 +40,8 @@ The linked short insights are available in Chinese.
 | [LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution](https://proceedings.mlr.press/v306/cao26n.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26n-modules) |
 | [StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation](https://proceedings.mlr.press/v306/cao26ab.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26ab-modules) |
 | [WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder](https://proceedings.mlr.press/v306/chen26ce.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ce-modules) |
+| [Attentive Multi-Layer Fusion for Vision Transformers](https://proceedings.mlr.press/v306/ciernik26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ciernik26a-modules) |
+| [Prototype-Grounded Concept Models for Verifiable Concept Alignment](https://proceedings.mlr.press/v306/colamonaco26a.html) | [Read insight (中文)](../../papers/computer-vision.md#colamonaco26a-modules) |
 | [From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](https://proceedings.mlr.press/v306/tian26k.html) | [Read insight (中文)](../../papers/computer-vision.md#tian26k-modules) · [Full entry](../insights/modules.md#widen-the-student-distillation-interface) |
 
 <a id="by-loss-functions"></a>
@@ -59,6 +62,7 @@ The linked short insights are available in Chinese.
 | [Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://proceedings.mlr.press/v306/ba26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ba26a-reinforcement-learning) |
 | [Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26as-reinforcement-learning) |
 | [RELO: Reinforcement Learning to Localize for Visual Object Tracking](https://proceedings.mlr.press/v306/chen26ea.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ea-reinforcement-learning) |
+| [Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://proceedings.mlr.press/v306/choi26o.html) | [Read insight (中文)](../../papers/computer-vision.md#choi26o-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -73,6 +77,7 @@ The linked short insights are available in Chinese.
 | [Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](https://proceedings.mlr.press/v306/chen26cn.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26cn-training-strategies) |
 | [3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification](https://proceedings.mlr.press/v306/chen26dm.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26dm-training-strategies) |
 | [Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://proceedings.mlr.press/v306/chen26eu.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26eu-training-strategies) |
+| [End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer](https://proceedings.mlr.press/v306/chu26b.html) | [Read insight (中文)](../../papers/computer-vision.md#chu26b-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -107,6 +112,10 @@ The linked short insights are available in Chinese.
 | [ScalingAR: Scaling Confidence for Autoregressive Image Generation](https://proceedings.mlr.press/v306/chen26fc.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26fc-inference) |
 | [GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](https://proceedings.mlr.press/v306/chen26fq.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26fq-inference) |
 | [FS-I2P: A Hierarchical Focus–Sweep Registration Network with Dynamically Allocated Depth](https://proceedings.mlr.press/v306/cheng26b.html) | [Read insight (中文)](../../papers/computer-vision.md#cheng26b-inference) |
+| [TAG: Tangential Amplifying Guidance for Hallucination-Resistant Sampling](https://proceedings.mlr.press/v306/cho26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cho26a-inference) |
+| [Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective](https://proceedings.mlr.press/v306/cho26d.html) | [Read insight (中文)](../../papers/computer-vision.md#cho26d-inference) |
+| [Concept Removal Guidance: Evidence-Calibrated Negative Guidance for Safe Diffusion Sampling](https://proceedings.mlr.press/v306/choi26m.html) | [Read insight (中文)](../../papers/computer-vision.md#choi26m-inference) |
+| [RT-Lynx: Putting GEMM Sparsity in the Right Place for Diffusion Models](https://proceedings.mlr.press/v306/cong26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cong26a-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -137,6 +146,7 @@ The linked short insights are available in Chinese.
 | [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://proceedings.mlr.press/v306/braun26b.html) | [Read insight (中文)](../../papers/computer-vision.md#braun26b-evaluation) |
 | [Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://proceedings.mlr.press/v306/chen26az.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26az-evaluation) |
 | [Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://proceedings.mlr.press/v306/chen26gw.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26gw-evaluation) |
+| [Global Geometry Is Not Enough for Vision Representations](https://proceedings.mlr.press/v306/chung26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chung26a-evaluation) |
 
 <a id="by-theory-statistics"></a>
 

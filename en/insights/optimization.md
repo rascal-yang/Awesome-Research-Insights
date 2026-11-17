@@ -21,6 +21,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment](../../papers/llm.md#chen26ex-optimization) · 中文
 - [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](../../papers/llm.md#chen26fe-optimization) · 中文
 - [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](../../papers/llm.md#chen26hb-optimization) · 中文
+- [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](../../papers/llm.md#chong26a-optimization) · 中文
+
+### Reinforcement Learning
+
+- [Fast Mixing Steady-State Control in Markov Decision Processes](../../papers/reinforcement-learning.md#corso26a-optimization) · 中文
 
 ### Robotics
 
@@ -78,6 +83,12 @@ Gradient updates, parameterization, and optimization dynamics.
 - [JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning](../../papers/ml-foundations.md#chen26fz-optimization) · 中文
 - [Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](../../papers/ml-foundations.md#chen26gg-optimization) · 中文
 - [Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask](../../papers/ml-foundations.md#cheng26f-optimization) · 中文
+- [Parameter Decorrelation via Transition-Variance Alignment for Multivariate Time-series Forecasting](../../papers/ml-foundations.md#choi26j-optimization) · 中文
+- [Learning Unanimously Acceptable Lotteries via Queries](../../papers/ml-foundations.md#choo26b-optimization) · 中文
+- [Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation](../../papers/ml-foundations.md#chung26d-optimization) · 中文
+- [Conformal Prediction for Early Stopping in Mixed Integer Optimization](../../papers/ml-foundations.md#clarke26a-optimization) · 中文
+- [Learning-Augmented Online Minimization with Dual Predictions](../../papers/ml-foundations.md#coester26a-optimization) · 中文
+- [Beyond Binary: Continuous State Optimization with Graph-Structured Objectives](../../papers/ml-foundations.md#cortes26a-optimization) · 中文
 
 ### Graph Learning and Recommendation
 

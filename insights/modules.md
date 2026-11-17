@@ -72,6 +72,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [MoE 持续学习](../papers/llm.md#chen26aw-modules) · Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers
 - [线性投影后的局部归一化](../papers/llm.md#chen26dj-modules) · SimpleGPT: Improving GPT via A Simple Normalization Strategy
 - [独立价值空间的桥接词元](../papers/llm.md#chen26dw-modules) · Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance
+- [逐词元全局注意力路由](../papers/llm.md#choudhary26a-modules) · Learning When to Attend: Conditional Memory Access for Long-Context LLMs
 
 ### 计算机视觉
 
@@ -81,6 +82,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [轻量视频超分](../papers/computer-vision.md#cao26n-modules) · LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution
 - [结构化图像生成](../papers/computer-vision.md#cao26ab-modules) · StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation
 - [视频超分的小波编码前端](../papers/computer-vision.md#chen26ce-modules) · WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder
+- [ViT 多层注意力探针](../papers/computer-vision.md#ciernik26a-modules) · Attentive Multi-Layer Fusion for Vision Transformers
+- [视觉概念瓶颈的原型证据](../papers/computer-vision.md#colamonaco26a-modules) · Prototype-Grounded Concept Models for Verifiable Concept Alignment
 - [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 ### 自然语言处理
@@ -110,12 +113,14 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [多实例部分标签](../papers/ml-foundations.md#cao26af-modules) · Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product
 - [自监督投影头](../papers/ml-foundations.md#chaudhry26a-modules) · The Geometry of Projection Heads: Conditioning, Invariance, and Collapse
 - [相关矩阵流形全连接层](../papers/ml-foundations.md#chen26fb-modules) · Riemannian Networks over Full-Rank Correlation Matrices
+- [时间序列的后续轨迹检索](../papers/ml-foundations.md#chong26c-modules) · Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting
 
 ### 图学习与推荐
 
 - [图卷积](../papers/graph-and-recommendation.md#bai26i-modules) · GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification
 - [图神经网络表达力](../papers/graph-and-recommendation.md#barcelo26a-modules) · Message Passing on the Edge: Towards Scalable and Expressive GNNs
 - [兼顾图拓扑与因果顺序的注意力](../papers/graph-and-recommendation.md#chen26gm-modules) · Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs
+- [异配图消息的自成分消除](../papers/graph-and-recommendation.md#choi26d-modules) · Gauge-Equivariant Graph Networks via Self-Interference Cancellation
 
 ### 科学机器学习
 

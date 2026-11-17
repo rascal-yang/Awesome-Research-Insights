@@ -31,6 +31,7 @@ The linked short insights are available in Chinese.
 | [StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](https://proceedings.mlr.press/v306/chen26aa.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26aa-architecture) |
 | [From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://proceedings.mlr.press/v306/chen26ai.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ai-architecture) |
 | [Co-Generative De Novo Functional Protein Design](https://proceedings.mlr.press/v306/chen26cu.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26cu-architecture) |
+| [Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems](https://proceedings.mlr.press/v306/collart26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#collart26a-architecture) |
 
 <a id="by-modules"></a>
 
@@ -56,6 +57,7 @@ The linked short insights are available in Chinese.
 | [SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](https://proceedings.mlr.press/v306/chen26y.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26y-loss-functions) |
 | [FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](https://proceedings.mlr.press/v306/chen26at.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26at-loss-functions) |
 | [Self-Supervised Dynamical System Representations for Physiological Time-Series](https://proceedings.mlr.press/v306/chen26fk.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fk-loss-functions) |
+| [S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation](https://proceedings.mlr.press/v306/chowdhury26b.html) | [Read insight (中文)](../../papers/scientific-ml.md#chowdhury26b-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -86,6 +88,7 @@ The linked short insights are available in Chinese.
 | [TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](https://proceedings.mlr.press/v306/cao26r.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26r-training-strategies) |
 | [Tokenised Flow Matching for Hierarchical Simulation Based Inference](https://proceedings.mlr.press/v306/charles26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#charles26a-training-strategies) |
 | [EMFormer: Efficient Multi-Scale Transformer for Accumulative Context Weather Forecasting](https://proceedings.mlr.press/v306/chen26ao.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26ao-training-strategies) |
+| [Predicting evolutionary rate as a pretraining task improves genome language model representations](https://proceedings.mlr.press/v306/consens26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#consens26a-training-strategies) |
 
 <a id="by-data-strategies"></a>
 

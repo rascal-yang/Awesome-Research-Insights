@@ -121,4 +121,5 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](../../papers/scientific-ml.md#chen26y-loss-functions) · 中文
 - [FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](../../papers/scientific-ml.md#chen26at-loss-functions) · 中文
 - [Self-Supervised Dynamical System Representations for Physiological Time-Series](../../papers/scientific-ml.md#chen26fk-loss-functions) · 中文
+- [S2M-Net: Spectral-Spatial Mixing with Morphology-Aware Adaptive Loss for Medical Image Segmentation](../../papers/scientific-ml.md#chowdhury26b-loss-functions) · 中文
 <!-- classification:end -->
