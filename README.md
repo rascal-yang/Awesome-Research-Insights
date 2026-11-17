@@ -16,7 +16,7 @@
 
 <a id="conference-sources"></a>
 
-**最新筛选 · 2026-11-18** · [ICML 2026 · 3,727 / 6,552 篇已筛选 · 收录 3,908 篇](conferences/icml-2026/README.md)
+**最新筛选 · 2026-11-18** · [ICML 2026 · 3,747 / 6,552 篇已筛选 · 收录 3,907 篇](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -30,11 +30,11 @@
 | <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 264 | 交互决策、奖励、策略学习与博弈。 |
 | <a id="robotics"></a>[机器人学](papers/robotics.md) | 138 | 机器人感知、策略学习、规划与控制。 |
 | <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 398 | 跨视觉、文本、音频等模态的学习与推理。 |
-| <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 954 | 通用学习方法、优化、学习理论与统计推断。 |
+| <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 953 | 通用学习方法、优化、学习理论与统计推断。 |
 | <a id="graph-and-recommendation"></a>[图学习与推荐](papers/graph-and-recommendation.md) | 155 | 图模型、知识图谱与推荐系统。 |
 | <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 382 | 物理、医学、生物与工程中的机器学习。 |
 
-**共 3,909 篇论文、3,910 个技术机制。**
+**共 3,908 篇论文、3,909 个技术机制。**
 
 <a id="insights-by-technical-category"></a>
 
@@ -45,7 +45,7 @@
 | <a id="architectures"></a>[模型架构](insights/architecture.md) | 344 | 整体架构与信息流。 |
 | <a id="computer-vision-modules"></a><a id="modules"></a>[模块](insights/modules.md) | 162 | 局部组件、连接与参数化。 |
 | <a id="loss-functions"></a>[损失函数](insights/loss-functions.md) | 162 | 训练目标、辅助监督与正则化。 |
-| <a id="optimization"></a>[优化](insights/optimization.md) | 392 | 梯度更新、求解器与优化过程。 |
+| <a id="optimization"></a>[优化](insights/optimization.md) | 391 | 梯度更新、求解器与优化过程。 |
 | <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 393 | 奖励、探索、信用分配与策略更新。 |
 | <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 352 | 训练日程、微调、蒸馏与迁移。 |
 | <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 159 | 数据构造、筛选、标注与采样。 |
@@ -58,11 +58,11 @@
 
 ## 最近更新
 
+- **2026-11-18** · 筛选 ICML 2026 编号 2811–2820，同步更新收录索引。
+
+- **2026-11-18** · 筛选 ICML 2026 编号 2801–2810，同步更新收录索引。
+
 - **2026-11-18** · 复核 4 张 ICML 2026 论文卡，移除 3 张。
-
-- **2026-11-18** · 复核 255 张 ICML 2026 论文卡，移除 15 张。
-
-- **2026-11-18** · 复核 250 张 ICML 2026 论文卡，移除 15 张。
 
 <a id="icml-2026-first-batch"></a>
 

@@ -317,7 +317,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SAGE-NAS: Synergizing LLM-Based Semantic Agent with Graph-Based Evaluator for Neural Architecture Search](../../conferences/icml-2026/cards/2701-2800.md#lin26ac-optimization) · 中文
 - [A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers](../../conferences/icml-2026/cards/2701-2800.md#linghu26b-optimization) · 中文
 - [Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases](../../conferences/icml-2026/cards/2801-2900.md#liu26ad-optimization) · 中文
-- [Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming](../../conferences/icml-2026/cards/2801-2900.md#liu26al-optimization) · 中文
 - [Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26bv-optimization) · 中文
 - [Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set](../../conferences/icml-2026/cards/2801-2900.md#liu26cd-optimization) · 中文
 - [PASO: Step Parallel Stochastic Optimization](../../conferences/icml-2026/cards/3001-3100.md#lu26h-optimization) · 中文

@@ -318,7 +318,6 @@
 - <a id="lin26ac-optimization"></a>[SAGE-NAS: Synergizing LLM-Based Semantic Agent with Graph-Based Evaluator for Neural Architecture Search](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ac)
 - <a id="linghu26b-optimization"></a>[A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers](../conferences/icml-2026/cards/2701-2800.md#paper-linghu26b)
 - <a id="liu26ad-optimization"></a>[Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ad)
-- <a id="liu26al-optimization"></a>[Minimizing Upper Confidence Bounds: A Data-Driven Framework for Stochastic Programming](../conferences/icml-2026/cards/2801-2900.md#paper-liu26al)
 - <a id="liu26bv-optimization"></a>[Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bv)
 - <a id="liu26cd-optimization"></a>[Hom-PGD$^+$: Fast Reparameterized Optimization over Non-convex Ball-Homeomorphic Set](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cd)
 - <a id="lu26h-optimization"></a>[PASO: Step Parallel Stochastic Optimization](../conferences/icml-2026/cards/3001-3100.md#paper-lu26h)
