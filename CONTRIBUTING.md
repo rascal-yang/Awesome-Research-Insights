@@ -2,40 +2,22 @@
 
 [首页](README.md) · [English](en/CONTRIBUTING.md)
 
-欢迎通过 Pull Request 提交新的技术条目或修正。也可以先开 Issue 推荐论文或讨论分类。
+欢迎通过 Pull Request 补充论文或修正已有条目。论文应有至少一种可从原文核实的机制、成立条件、反例或失败经验。用[六字段论文卡模板](templates/paper-card-template.md)记录比较、适用范围和证据。
 
-## 收录标准
+## 新增或修订论文卡
 
-一条可独立讲清、可回原文核实的 Insight 即可支持收录。可以是一种有效做法、一个成立条件、一个反例，或一条有证据支持的失败经验。每篇论文另有一张[六字段论文卡](templates/paper-card-template.md)，汇集论文层面的比较与证据。
+1. 按题名和论文编号查重。预印本与会议版属于同一工作时，更新同一张卡的来源。
+2. 依据原文填六字段。专门的机制解读可作为卡内小节，并注明验证范围。缺项标为「未报告」，迁移设想明确标注。
+3. 在主领域索引放一个论文卡入口，技术索引链接到卡内对应机制。中英文索引使用同一张卡。
 
-## 新增 Insight
+ICML 2026 按官方论文集顺序整理。从仓库根目录运行以下命令新增一批论文卡。
 
-1. 阅读原文，定位能支撑技术描述的小节、公式、图或代码位置。
-2. 选择一个主技术分类，照 [Insight 模板](templates/insight-template.md) 新增条目。H2 是方法族，H3 是一条具体 Insight。条目标题尽量写出做法。
-3. 照[论文卡模板](templates/paper-card-template.md)记录六个字段，再照[论文索引模板](templates/paper-template.md)更新主领域索引。论文卡和 Insight 互链。一篇论文可对应多条 Insight。
-4. 同一批变更中同步英文索引和条目。中英文条目使用相同的英文锚点。合并前同步更新 [中文首页](README.md#recent-updates) 和 [英文首页](README.en.md#recent-updates) 的收录记录。
+```text
+python conferences/icml-2026/append_batch.py <批次.tsv> --date YYYY-MM-DD --paper-cards <论文卡.tsv>
+```
 
-### 提交前检查
+批次表头依次为 `number`、`pmlr_id`、`domain`、`technique`、`topic`、`insight`。沿用[分类清单](conferences/icml-2026/classification.tsv)中的分类，两张 TSV 的论文 ID 必须一致。脚本写入论文卡、更新索引并同步首页计数。
 
-- 读者能从来源跳到技术细节。
-- 条目讲清楚改了哪里、依赖哪些输入或监督、作者为什么这么改。
-- 说明原文的证据支持什么结论。若提供迁移设想，单独标注。
-- 两种语言的相对链接和标题锚点都能跳转。
+修订六字段时，运行 `python conferences/icml-2026/paper_cards.py <论文卡.tsv>`。更正卡内机制时，编辑对应小节并保留链接锚点。
 
-## 更新机制
-
-ICML 2026 的逐篇条目还需在 [分类清单](conferences/icml-2026/classification.tsv) 中记录论文的主领域和 Insight 的主技术类型。更新对应领域页的技术小节和跨领域技术索引，再核对两版首页的论文数和 Insight 数。英文索引可链接到中文短条目。
-
-批量更新时，从仓库根目录运行 `python conferences/icml-2026/append_batch.py <批次.tsv> --date YYYY-MM-DD`。批次文件的表头依次为 `number`、`pmlr_id`、`domain`、`technique`、`topic`、`insight`。分类值沿用现有清单。脚本检查编号并刷新索引，每条 Insight 由贡献者根据原文撰写。
-
-同批新增论文卡时附加 `--paper-cards <论文卡.tsv>`。补充或修订已有论文卡时，运行 `python conferences/icml-2026/paper_cards.py <论文卡.tsv>`。字段顺序见[论文卡模板](templates/paper-card-template.md)。
-
-按主领域索引中的论文条目计数。同一篇论文拆出的多条 Insight 仍计为一篇，跨领域引用也不另计。增删或移动论文时，同步更新中英文首页的领域收录数。
-
-| 节奏 | 维护事项 |
-| :--- | :--- |
-| 随 PR 收录 | 用合并日期更新「最新收录」。两版首页的「最近更新」保留最近三批，较早的变更可以从 PR 历史查到。 |
-| 随时修正 | 回到主条目修正技术表述、出处或失效链接。重要更正在首页留一行。移动或改名时，在同一 PR 更新入链。 |
-| 每月核查 | 核对当月新增和收到反馈的条目，检查证据、链接、重复收录与分类。完成后同步更新两版首页的「最近核查」日期和范围。 |
-
-每篇论文维护一个主索引条目，每个 Insight 在主技术分类维护正文。英文版与中文主条目同步。
+合并前检查原文定位、评测条件、论文 ID、分类、链接和中英文首页计数。每篇论文计一次，卡内各机制按技术分类分别计数。

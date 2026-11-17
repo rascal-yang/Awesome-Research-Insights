@@ -1,11 +1,9 @@
-# Paper Entry Template
+# Paper Index Template
 
 [简体中文](../../templates/paper-template.md)
 
-Add a row under the relevant research theme in the paper's primary field. Record the first public release as YYYY-MM-DD and cite the venue when confirmed.
+Add a single row in the primary domain. Link the title to the existing card. Record the date, original paper, and author resources in the card.
 
 ```markdown
-| Paper | First public / venue | Transferable insights | Resources |
-| :--- | :--- | :--- | :--- |
-| **Short name**<br><sub>Author et al., Full title</sub> | YYYY-MM-DD<br><sub>[Venue](https://example.org/proceedings)</sub> | [Insight title](../insights/category.md#insight-title) | [Paper](https://example.org/paper) · [Code](https://example.org/code) |
+- [Paper title](../../path/to/card.md#paper-id)
 ```

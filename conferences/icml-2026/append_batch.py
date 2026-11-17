@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add human- or model-written insights and refresh the ICML 2026 indexes."""
+"""Add a batch of paper cards and refresh the ICML 2026 indexes."""
 
 import argparse
 from collections import Counter
@@ -8,7 +8,10 @@ from datetime import date
 from pathlib import Path
 import re
 
-from paper_cards import CARD_LINK, load_card_rows, read_tsv, refresh_card_links, write_cards
+from paper_cards import (
+    CONFERENCE, MECHANISM, RECONVLA, card_href, card_locations, card_page, catalog as card_catalog,
+    load_card_rows, read_tsv, refresh_card_index, write_cards,
+)
 
 DOMAINS = {
     'L': ('llm', '大语言模型', 'Large Language Models', '语言模型、工具调用与智能体。', 'Language models, tool use, and agents.'),
@@ -34,6 +37,13 @@ TYPES = {
     'e': ('evaluation', '评测与诊断', 'Evaluation and Diagnostics', '基准、评测协议、消融与失效诊断。', 'Benchmarks, evaluation protocols, ablations, and failure diagnosis.'),
     'h': ('theory-statistics', '理论与统计', 'Theory and Statistics', '学习保证、反例、估计与统计检验。', 'Learning guarantees, counterexamples, estimation, and statistical tests.'),
 }
+LEGACY_MECHANISM_ANCHORS = {
+    'reconvla-loss-functions': ('target-region-reconstruction-as-auxiliary-supervision', 'auxiliary-visual-supervision'),
+    'reconvla-modules': ('instruction-prefixes-for-causal-visual-grounding', 'multimodal-token-layout'),
+    'liu26aa-reinforcement-learning': ('normalize-each-reward-before-aggregation', 'multi-reward-advantage-estimation'),
+    'liu26bl-loss-functions': ('align-action-features-with-latent-actions', 'latent-action-alignment'),
+    'tian26k-modules': ('widen-the-student-distillation-interface', 'distillation-interface-design'),
+}
 
 def base_text(path):
     text = path.read_text(encoding='utf-8') if path.exists() else ''
@@ -42,7 +52,8 @@ def base_text(path):
 def apply_block(path, content):
     head = base_text(path)
     head = re.sub(r'\n\n(?:欢迎贡献首批条目。|This index is open for contributions\.)$', '', head)
-    path.write_text(head + '\n\n<!-- classification:start -->\n' + content.strip() + '\n<!-- classification:end -->\n', encoding='utf-8')
+    path.write_text(head + '\n\n<!-- classification:start -->\n' + content.strip() + '\n<!-- classification:end -->\n',
+                    encoding='utf-8')
 
 def title_anchor(key, tech):
     return f'{key}-{TYPES[tech][0]}'
@@ -57,8 +68,8 @@ def new_page(path, collection, slug, label, scope, english):
     path.write_text(f'# {label}\n\n[{home_label}]({home}) · [{other_label}]({other})\n\n{scope}\n', encoding='utf-8')
 
 
-def add_batch(batch_path, date, paper_cards=None):
-    conference = Path('conferences/icml-2026')
+def add_batch(batch_path, date, paper_cards):
+    conference = CONFERENCE
     manifest = conference / 'papers.tsv'
     classifications = conference / 'classification.tsv'
     records = read_tsv(manifest)
@@ -73,8 +84,8 @@ def add_batch(batch_path, date, paper_cards=None):
     batch = read_tsv(batch_path)
     if not batch:
         raise ValueError('Batch is empty.')
-    cards = load_card_rows(paper_cards) if paper_cards else []
-    if cards and {row['pmlr_id'] for row in cards} != {row['pmlr_id'] for row in batch}:
+    cards = load_card_rows(paper_cards)
+    if {row['pmlr_id'] for row in cards} != {row['pmlr_id'] for row in batch}:
         raise ValueError('Provide one paper card for each paper in this Insight batch.')
     numbers = [int(row['number']) for row in batch]
     last = numbers[-1]
@@ -91,35 +102,23 @@ def add_batch(batch_path, date, paper_cards=None):
     assert len(pmlr_order) == total and len(mapping) == len(old_mapping) == old_count
     assert mapping.keys() == set(range(1, total + 1)) - pending
 
-    pages = {}
+    mechanisms = {}
     for number, item in zip(numbers, batch):
         record = records[number - 1]
         key, domain, technique, topic, insight = (item[field] for field in ('pmlr_id', 'domain', 'technique', 'topic', 'insight'))
         if (key != record['pmlr_id'] or domain not in by_code or technique not in technique_code
-                or not topic.strip() or not insight.strip() or '|' in topic or '\n' in topic or '\n' in insight):
+                or not topic.strip() or not insight.strip() or re.search(r'[\r\n|]', topic)
+                or re.search(r'[\r\n]', insight)):
             raise ValueError(f'Check ID, classification and text for paper {number}.')
         mapping[number] = by_code[domain] + technique_code[technique]
         record['insight_status'] = 'written'
-        page_start = ((number - 1) // 100) * 100 + 1
-        title = record['title'].replace('|', '\\|')
-        insight = insight.replace('|', '\\|')
-        row = f"| {number} | [{title}]({record['paper_url']}) | {topic} | {insight} |"
-        pages.setdefault(page_start, []).append(row)
+        mechanisms[key] = technique, topic.strip(), insight.strip()
+
+    indexed = card_catalog()
+    if card_locations(indexed).keys() != indexed.keys():
+        raise ValueError('Existing papers must have cards before appending a new batch.')
 
     catalog = {int(row['number']): row for row in records if row['insight_status'] == 'written'}
-    existing_id = re.compile(r'^\| (\d+) \|', re.M)
-    for start, new_rows in pages.items():
-        end = min(start + 99, total)
-        page = conference / f'{start:04d}-{end:04d}.md'
-        heading = f'# ICML 2026 · 第 {start}–{min(end, last)} 篇'
-        if page.exists():
-            body = page.read_text(encoding='utf-8').split('\n', 1)[1]
-        else:
-            body = '\n[返回会议索引](README.md)\n\n| 序号 | 论文 | 技术主题 | Insight |\n| ---: | --- | --- | --- |\n'
-        known = {int(n) for n in existing_id.findall(body)}
-        # Rows for the three featured papers stay in the conference index.
-        assert known.isdisjoint(numbers)
-        page.write_text(heading + '\n' + body.rstrip() + '\n' + '\n'.join(new_rows) + '\n', encoding='utf-8')
     with manifest.open('w', encoding='utf-8', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=list(records[0]), delimiter='\t', lineterminator='\n')
         writer.writeheader()
@@ -130,57 +129,63 @@ def add_batch(batch_path, date, paper_cards=None):
         for number, (domain, technique) in sorted(mapping.items()):
             writer.writerow([catalog[number]['pmlr_id'], DOMAINS[domain][0], TYPES[technique][0]])
 
-    index = conference / 'README.md'
-    text = index.read_text(encoding='utf-8')
     outstanding = pending - set(numbers)
     continuous = min(outstanding) - 1 if outstanding else total
+    write_cards(cards, mechanisms)
+    render_conference_index(catalog, continuous, total)
+    render_indexes(catalog, mapping, old_count, total, first, last, date)
+    refresh_card_index()
+
+
+def render_conference_index(catalog, continuous, total):
+    index = CONFERENCE / 'README.md'
+    text = index.read_text(encoding='utf-8')
     progress = f'**已整理 {len(catalog):,} / {total:,} 篇。** 连续整理到第 {continuous:,} 篇。'
-    if outstanding:
+    if continuous < total:
         progress += f'下一篇从第 {continuous + 1:,} 篇开始。'
     text, updated = re.subn(r'^\*\*已整理 .*?底册的 ', progress + '底册的 ', text, flags=re.M)
     assert updated == 1
     page_links = []
-    for page in sorted(conference.glob('[0-9][0-9][0-9][0-9]-*.md')):
-        first_line = page.read_text(encoding='utf-8').splitlines()[0]
-        page_links.append(f"- [{first_line.removeprefix('# ICML 2026 · ')}]({page.name})")
-    text, updated = re.subn(r'(## 按目录浏览\n\n)(?:- \[第 [^\n]+\n)+',
-                            lambda match: match[1] + '\n'.join(page_links) + '\n', text)
+    for start in range(1, continuous + 1, 100):
+        end = min(start + 99, continuous)
+        name = card_page(catalog[start]).name
+        page_links.append(f'- [第 {start}–{end} 篇](cards/{name})')
+    other = sorted(n for n in catalog if n > continuous)
+    extra = ['<a id="此前收录"></a>']
+    if other:
+        extra += ['', '## 已收录的其他编号', '']
+        for number in other:
+            paper = catalog[number]
+            target = card_href(index, paper, f"paper-{paper['pmlr_id']}")
+            extra.append(f"- [{number} · {paper['title']}]({target})")
+    contents = '\n\n'.join(['\n'.join(page_links), '\n'.join(extra)])
+    text, updated = re.subn(r'(## 按论文编号浏览\n\n).*?(?=\n\n\[逐篇分类清单)',
+                            lambda match: match[1] + contents, text, flags=re.S)
     assert updated == 1
     index.write_text(text, encoding='utf-8')
-    render_indexes(conference, catalog, mapping, old_count, total, first, last, date)
-    if cards:
-        write_cards(cards)
-    refresh_card_links()
 
-def render_indexes(conference, catalog, mapping, old_count, total, first, last, date):
+def render_indexes(catalog, mapping, old_count, total, first=None, last=None, date=None):
     papers = {}
-    notes = {}
-    for file in sorted(conference.glob('*.md')):
-        for line in file.read_text(encoding='utf-8').splitlines():
-            line = CARD_LINK.sub('', line)
-            match = re.match(r'^\| (\d+) \| .*?\((https://proceedings\.mlr\.press/v306/[\w-]+\.html)\) \| (.*?) \| (.*) \|$', line)
-            if match:
-                n = int(match[1])
-                assert n not in notes and match[2] == catalog[n]['paper_url']
-                notes[n] = match[3], match[4].split(' [专题解读]')[0]
-    assert notes.keys() == catalog.keys()
-    details = {
-        2807: 'reinforcement-learning.md#normalize-each-reward-before-aggregation',
-        2844: 'loss-functions.md#align-action-features-with-latent-actions',
-        4451: 'modules.md#widen-the-student-distillation-interface',
-    }
+    titles = {}
+    for path in set(card_locations(card_catalog()).values()):
+        for anchor, title in MECHANISM.findall(path.read_text(encoding='utf-8')):
+            if anchor in titles:
+                raise ValueError(f'Duplicate mechanism: {anchor}')
+            titles[anchor] = title
     for n, record in sorted(catalog.items()):
         key = record['pmlr_id']
         domain, technique = mapping[n]
-        topic, insight = notes[n]
-        papers[key] = (domain, record['title'].replace('|', r'\|'), record['paper_url'], [(technique, topic, insight, details.get(n))])
-    papers['reconvla'] = ('B', 'ReconVLA', 'https://arxiv.org/abs/2508.10333', [
-        ('l', '目标区域重建', '用目标物体裁剪区域的潜变量重建，给策略表征增加训练监督。', 'loss-functions.md#target-region-reconstruction-as-auxiliary-supervision'),
-        ('m', '指令前缀', '把指令 token 放在图像 token 前，使视觉隐藏状态通过因果注意力读取任务信息。', 'modules.md#instruction-prefixes-for-causal-visual-grounding'),
-    ])
+        papers[key] = domain, record['title'], record, [technique]
+    papers['reconvla'] = 'B', 'ReconVLA', RECONVLA, ['l', 'm']
     domain_count = Counter(domain for domain, *_ in papers.values())
-    domain_tech = Counter((domain, technique) for domain, _, _, insights in papers.values() for technique, *_ in insights)
-    tech_count = Counter({tech: sum(domain_tech[domain, tech] for domain in DOMAINS) for tech in TYPES})
+    primary_techniques = {(domain, techniques[0]) for domain, _, _, techniques in papers.values()}
+    domain_tech = Counter((domain, technique) for domain, _, _, techniques in papers.values() for technique in techniques)
+    tech_count = Counter(technique for _, _, _, techniques in papers.values() for technique in techniques)
+    domain_aliases = {
+        ('V', 'm'): ('vision-model-distillation',),
+        ('R', 'r'): ('group-relative-policy-optimization',),
+        ('B', 'l'): ('vision-language-action-models',),
+    }
     for english in (False, True):
         prefix = Path('en') if english else Path('.')
         language = 2 if english else 1
@@ -190,32 +195,21 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
             path = prefix / 'papers' / f'{slug}.md'
             new_page(path, 'papers', slug, info[language], info[scope_col], english)
             heading = 'Browse by Technique' if english else '按技术类型浏览'
-            block = [f'## {heading}']
-            if english:
-                block += ['', 'The linked short insights are available in Chinese.']
-            for technique, tinfo in TYPES.items():
-                if not domain_tech[domain, technique]:
-                    continue
+            available = [
+                (technique, tinfo) for technique, tinfo in TYPES.items()
+                if (domain, technique) in primary_techniques
+            ]
+            contents = ' · '.join(f'[{info[language]}](#by-{info[0]})' for _, info in available)
+            block = [f'## {heading}', '', contents]
+            for technique, tinfo in available:
                 tech_slug, category = tinfo[0], tinfo[language]
-                block += ['', f'<a id="by-{tech_slug}"></a>', '', f'### {category}', '']
-                if english:
-                    block += ['| Paper | Insight |', '| :--- | :--- |']
-                else:
-                    block += ['| 论文 | 技术主题 | Insight |', '| :--- | :--- | :--- |']
-                for key, (paper_domain, title, url, insights) in papers.items():
-                    if paper_domain != domain:
-                        continue
-                    for tech, topic, insight, detail in insights:
-                        if tech != technique:
-                            continue
-                        anchor = title_anchor(key, tech)
-                        if english:
-                            destination = f'../../papers/{slug}.md#{anchor}'
-                            full = f' · [Full entry](../insights/{detail})' if detail else ''
-                            block.append(f'| [{title}]({url}) | [Read insight (中文)]({destination}){full} |')
-                        else:
-                            full = f' [详细解读](../insights/{detail})' if detail else ''
-                            block.append(f'| <a id="{anchor}"></a>[{title}]({url}) | {topic} | {insight}{full} |')
+                anchors = (f'by-{tech_slug}', *domain_aliases.get((domain, technique), ()))
+                block += ['', ''.join(f'<a id="{anchor}"></a>' for anchor in anchors), '', f'### {category}', '']
+                for key, (paper_domain, title, paper, techniques) in papers.items():
+                    if paper_domain == domain and technique == techniques[0]:
+                        anchors = ''.join(f'<a id="{title_anchor(key, tech)}"></a>' for tech in techniques)
+                        target = card_href(path, paper, f'paper-{key}')
+                        block.append(f'- {anchors}[{title}]({target})')
             apply_block(path, '\n'.join(block))
 
         for technique, info in TYPES.items():
@@ -223,27 +217,29 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
             path = prefix / 'insights' / f'{slug}.md'
             new_page(path, 'insights', slug, info[language], info[scope_col], english)
             heading = 'Browse by Research Domain' if english else '按研究领域浏览'
-            block = [f'## {heading}']
+            contents = ' · '.join(
+                f'[{dinfo[language]}](#by-{dinfo[0]})'
+                for domain, dinfo in DOMAINS.items() if domain_tech[domain, technique]
+            )
+            block = [f'## {heading}', '', contents]
             for domain, dinfo in DOMAINS.items():
                 if not domain_tech[domain, technique]:
                     continue
                 domain_slug, domain_label = dinfo[0], dinfo[language]
-                block += ['', f'### {domain_label}', '']
-                for key, (paper_domain, title, _, insights) in papers.items():
-                    if paper_domain != domain:
-                        continue
-                    for tech, topic, _, detail in insights:
-                        if tech != technique:
-                            continue
+                block += ['', f'<a id="by-{domain_slug}"></a>', '', f'### {domain_label}', '']
+                for key, (paper_domain, title, paper, techniques) in papers.items():
+                    if paper_domain == domain and technique in techniques:
+                        anchor = title_anchor(key, technique)
+                        target = card_href(path, paper, anchor)
+                        aliases = ''.join(f'<a id="{old}"></a>' for old in LEGACY_MECHANISM_ANCHORS.get(anchor, ()))
                         if english:
-                            target = f'../insights/{detail}' if detail else f'../../papers/{domain_slug}.md#{title_anchor(key, tech)}'
-                            note = '' if detail else ' · 中文'
-                            block.append(f'- [{title}]({target}){note}')
+                            block.append(f'- {aliases}[{title}]({target}) · 中文')
                         else:
-                            target = f'../papers/{domain_slug}.md#{title_anchor(key, tech)}'
-                            block.append(f'- [{topic}]({target}) · {title}')
+                            block.append(f'- {aliases}[{titles[anchor]}]({target}) · {title}')
             apply_block(path, '\n'.join(block))
 
+        if date is None:
+            continue
         home = Path('README.en.md' if english else 'README.md')
         text = home.read_text(encoding='utf-8')
         before = f'{old_count:,} / {total:,}'
@@ -251,39 +247,21 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
         assert text.count(before) == 1
         text = text.replace(before, after)
         done = (
-            f'{old_count + 1:,} papers · {old_count + 2:,} insights'
-            if english else f'{old_count + 1:,} 篇论文、{old_count + 2:,} 条 Insight'
+            f'{old_count + 1:,} papers · {old_count + 2:,} mechanisms'
+            if english else f'{old_count + 1:,} 篇论文、{old_count + 2:,} 个技术机制'
         )
         now = (
-            f'{sum(domain_count.values()):,} papers · {sum(tech_count.values()):,} insights'
-            if english else f'{sum(domain_count.values()):,} 篇论文、{sum(tech_count.values()):,} 条 Insight'
+            f'{sum(domain_count.values()):,} papers · {sum(tech_count.values()):,} mechanisms'
+            if english else f'{sum(domain_count.values()):,} 篇论文、{sum(tech_count.values()):,} 个技术机制'
         )
         assert text.count(done) == 1
         text = text.replace(done, now)
         for domain, info in DOMAINS.items():
-            slug, name = info[0], info[language]
-            pattern = rf'^(\| \[{re.escape(name)}\]\(#[^\n]+?\) \| )\d+( \|)'
+            slug = info[0]
+            target = (prefix / 'papers' / f'{slug}.md').as_posix()
+            pattern = rf'^(\| .*?\]\({re.escape(target)}\) \| )\d+( \|)'
             text, inserted = re.subn(pattern, rf'\g<1>{domain_count[domain]}\g<2>', text, flags=re.M)
             assert inserted == 1, (home, slug)
-            target = (prefix / 'papers' / f'{slug}.md').as_posix()
-            pattern = rf'^\[(?:All papers|全部论文) \(\d+\)\]\({re.escape(target)}\)\n\n[^\n]+'
-            match = re.search(pattern, text, re.M)
-            assert match, (home, target)
-            previous_line = match[0].splitlines()[-1]
-            aliases = {
-                anchor[2]: anchor[1]
-                for anchor in re.finditer(r'((?:<a id="[\w-]+"></a>)+)\[[^\]\n]+\]\(([^)]+)\)', previous_line)
-            }
-            links = []
-            for technique, tech_info in TYPES.items():
-                count = domain_tech[domain, technique]
-                if not count:
-                    continue
-                final = f'{target}#by-{tech_info[0]}'
-                links.append(f'{aliases.get(final, "")}[{tech_info[language]} ({count})]({final})')
-            all_label = 'All papers' if english else '全部论文'
-            replacement = f'[{all_label} ({domain_count[domain]})]({target})\n\n' + ' · '.join(links)
-            text = text[:match.start()] + replacement + text[match.end():]
         for technique, info in TYPES.items():
             target = (prefix / 'insights' / f'{info[0]}.md').as_posix()
             expression = rf'^(\| .*?\]\({re.escape(target)}\) \| )\d+( \|)'
@@ -291,9 +269,9 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
             assert inserted == 1, (home, target)
         marker = '## Recent Updates\n\n' if english else '## 最近更新\n\n'
         new_update = (
-            f'- **{date}** · Added insights for ICML 2026 papers {first}–{last} and indexed them by domain and technique. [Conference index](conferences/icml-2026/README.md)'
+            f'- **{date}** · Added and classified ICML 2026 paper cards {first}–{last}.'
             if english else
-            f'- **{date}** · 收录并分类整理 ICML 2026 第 {first}–{last} 篇的 Insight。[会议索引](conferences/icml-2026/README.md)'
+            f'- **{date}** · 收录并分类整理 ICML 2026 第 {first}–{last} 篇的论文卡。'
         )
         assert text.count(marker) == 1
         head, _, tail = text.partition(marker)
@@ -310,12 +288,13 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
         assert replaced == 1 and '| Insight |' not in text
         home.write_text(text, encoding='utf-8')
 
-    print(f'Added {len(catalog) - old_count} insights. ICML progress: {len(catalog):,} / {total:,}.')
+    if date is not None:
+        print(f'Added {len(catalog) - old_count} cards. ICML progress: {len(catalog):,} / {total:,}.')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('batch', type=Path, help='TSV with number, pmlr_id, domain, technique, topic, and insight columns')
     parser.add_argument('--date', required=True, type=date.fromisoformat, help='Publication date (YYYY-MM-DD)')
-    parser.add_argument('--paper-cards', type=Path, help='Optional matching TSV of six-field paper cards')
+    parser.add_argument('--paper-cards', type=Path, required=True, help='Matching TSV of six-field paper cards')
     args = parser.parse_args()
     add_batch(args.batch, args.date, args.paper_cards)

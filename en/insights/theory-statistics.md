@@ -7,268 +7,288 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 <!-- classification:start -->
 ## Browse by Research Domain
 
+[Large Language Models](#by-llm) · [Computer Vision](#by-computer-vision) · [Natural Language Processing](#by-nlp) · [Reinforcement Learning](#by-reinforcement-learning) · [Robotics](#by-robotics) · [Multimodal Learning](#by-multimodal) · [Machine Learning Foundations and Statistics](#by-ml-foundations) · [Graph Learning and Recommendation](#by-graph-and-recommendation) · [Scientific Machine Learning](#by-scientific-ml)
+
+<a id="by-llm"></a>
+
 ### Large Language Models
 
-- [How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off](../../papers/llm.md#azizian26a-theory-statistics) · 中文
-- [Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment](../../papers/llm.md#bakman26a-theory-statistics) · 中文
-- [Belief Dynamics Reveal the Dual Nature of In-Context Learning and Activation Steering](../../papers/llm.md#bigelow26a-theory-statistics) · 中文
-- [Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction](../../papers/llm.md#blondel26a-theory-statistics) · 中文
-- [Deriving Neural Scaling Laws from the Statistics of Natural Language](../../papers/llm.md#cagnetta26a-theory-statistics) · 中文
-- [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](../../papers/llm.md#cai26p-theory-statistics) · 中文
-- [Chain-of-Thought Gradient Descent](../../papers/llm.md#chen26ae-theory-statistics) · 中文
-- [Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression](../../papers/llm.md#chen26cs-theory-statistics) · 中文
-- [Barriers to Counterfactual Credit Attribution for Autoregressive Models](../../papers/llm.md#cohen26e-theory-statistics) · 中文
-- [Emergent Alignment via Competition](../../papers/llm.md#collina26a-theory-statistics) · 中文
-- [Innovation: An Almost Characterization of Hallucination](../../papers/llm.md#das26c-theory-statistics) · 中文
-- [Quantifying Biases in LLM-as-a-Judge Evaluations](../../papers/llm.md#dubois26a-theory-statistics) · 中文
-- [Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control](../../papers/llm.md#farzaneh26a-theory-statistics) · 中文
-- [Nonparametric LLM Evaluation from Preference Data](../../papers/llm.md#frauen26a-theory-statistics) · 中文
-- [The Cylindrical Representation Hypothesis for Language Model Steering](../../papers/llm.md#gao26al-theory-statistics) · 中文
-- [Equivalence of Context and Parameter Updates in Modern Transformer Blocks](../../papers/llm.md#goldwaser26a-theory-statistics) · 中文
-- [Anytime-Valid Inference for Online Ranking of Large Language Models](../../papers/llm.md#gu26l-theory-statistics) · 中文
-- [Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing](../../papers/llm.md#guo26j-theory-statistics) · 中文
-- [Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](../../papers/llm.md#halder26a-theory-statistics) · 中文
+- [How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off](../../conferences/icml-2026/cards/0101-0200.md#azizian26a-theory-statistics) · 中文
+- [Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment](../../conferences/icml-2026/cards/0101-0200.md#bakman26a-theory-statistics) · 中文
+- [Belief Dynamics Reveal the Dual Nature of In-Context Learning and Activation Steering](../../conferences/icml-2026/cards/0201-0300.md#bigelow26a-theory-statistics) · 中文
+- [Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction](../../conferences/icml-2026/cards/0301-0400.md#blondel26a-theory-statistics) · 中文
+- [Deriving Neural Scaling Laws from the Statistics of Natural Language](../../conferences/icml-2026/cards/0301-0400.md#cagnetta26a-theory-statistics) · 中文
+- [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](../../conferences/icml-2026/cards/0301-0400.md#cai26p-theory-statistics) · 中文
+- [Chain-of-Thought Gradient Descent](../../conferences/icml-2026/cards/0401-0500.md#chen26ae-theory-statistics) · 中文
+- [Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression](../../conferences/icml-2026/cards/0501-0600.md#chen26cs-theory-statistics) · 中文
+- [Barriers to Counterfactual Credit Attribution for Autoregressive Models](../../conferences/icml-2026/cards/0701-0800.md#cohen26e-theory-statistics) · 中文
+- [Emergent Alignment via Competition](../../conferences/icml-2026/cards/0701-0800.md#collina26a-theory-statistics) · 中文
+- [Innovation: An Almost Characterization of Hallucination](../../conferences/icml-2026/cards/0801-0900.md#das26c-theory-statistics) · 中文
+- [Quantifying Biases in LLM-as-a-Judge Evaluations](../../conferences/icml-2026/cards/0901-1000.md#dubois26a-theory-statistics) · 中文
+- [Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control](../../conferences/icml-2026/cards/1001-1100.md#farzaneh26a-theory-statistics) · 中文
+- [Nonparametric LLM Evaluation from Preference Data](../../conferences/icml-2026/cards/1101-1200.md#frauen26a-theory-statistics) · 中文
+- [The Cylindrical Representation Hypothesis for Language Model Steering](../../conferences/icml-2026/cards/1201-1300.md#gao26al-theory-statistics) · 中文
+- [Equivalence of Context and Parameter Updates in Modern Transformer Blocks](../../conferences/icml-2026/cards/1201-1300.md#goldwaser26a-theory-statistics) · 中文
+- [Anytime-Valid Inference for Online Ranking of Large Language Models](../../conferences/icml-2026/cards/1301-1400.md#gu26l-theory-statistics) · 中文
+- [Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing](../../conferences/icml-2026/cards/1301-1400.md#guo26j-theory-statistics) · 中文
+- [Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](../../conferences/icml-2026/cards/1401-1500.md#halder26a-theory-statistics) · 中文
+
+<a id="by-computer-vision"></a>
 
 ### Computer Vision
 
-- [Local Mechanisms of Compositional Generalization in Conditional Diffusion](../../papers/computer-vision.md#bradley26a-theory-statistics) · 中文
-- [Is Generation Required for Data-Efficient Perception?](../../papers/computer-vision.md#brady26b-theory-statistics) · 中文
+- [Local Mechanisms of Compositional Generalization in Conditional Diffusion](../../conferences/icml-2026/cards/0301-0400.md#bradley26a-theory-statistics) · 中文
+- [Is Generation Required for Data-Efficient Perception?](../../conferences/icml-2026/cards/0301-0400.md#brady26b-theory-statistics) · 中文
+
+<a id="by-nlp"></a>
 
 ### Natural Language Processing
 
-- [Efficient Mismatch-Tolerant Coding for Model-Driven Compression](../../papers/nlp.md#adler26b-theory-statistics) · 中文
-- [Language Generation in the Limit: Complexity Barriers and Implications for Learning](../../papers/nlp.md#arenas26a-theory-statistics) · 中文
-- [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](../../papers/nlp.md#ashrafi26a-theory-statistics) · 中文
-- [Adversarially Robust Approximate Furthest Neighbor](../../papers/nlp.md#banihashem26b-theory-statistics) · 中文
-- [Text Has Curvature](../../papers/nlp.md#grover26b-theory-statistics) · 中文
+- [Efficient Mismatch-Tolerant Coding for Model-Driven Compression](../../conferences/icml-2026/cards/0001-0100.md#adler26b-theory-statistics) · 中文
+- [Language Generation in the Limit: Complexity Barriers and Implications for Learning](../../conferences/icml-2026/cards/0101-0200.md#arenas26a-theory-statistics) · 中文
+- [The Crowded Embedding Space: A Mean-Field Mechanism for Emergent Marginalization in Retrieval-Augmented Agents](../../conferences/icml-2026/cards/0101-0200.md#ashrafi26a-theory-statistics) · 中文
+- [Adversarially Robust Approximate Furthest Neighbor](../../conferences/icml-2026/cards/0201-0300.md#banihashem26b-theory-statistics) · 中文
+- [Text Has Curvature](../../conferences/icml-2026/cards/1301-1400.md#grover26b-theory-statistics) · 中文
+
+<a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning
 
-- [What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](../../papers/reinforcement-learning.md#abbadi26a-theory-statistics) · 中文
-- [(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](../../papers/reinforcement-learning.md#anagnostides26b-theory-statistics) · 中文
-- [The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](../../papers/reinforcement-learning.md#anderson26a-theory-statistics) · 中文
-- [Generalized Linear Bandits with Memory](../../papers/reinforcement-learning.md#ann26a-theory-statistics) · 中文
-- [Minimax-Optimal Policy Regret in Partially Observable Markov Games](../../papers/reinforcement-learning.md#arora26b-theory-statistics) · 中文
-- [Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](../../papers/reinforcement-learning.md#balagopalan26a-theory-statistics) · 中文
-- [Learning in Structured Stackelberg Games](../../papers/reinforcement-learning.md#balcan26a-theory-statistics) · 中文
-- [Bandit Social Learning with Exploration Episodes](../../papers/reinforcement-learning.md#banihashem26a-theory-statistics) · 中文
-- [Optimal Rates for Feasible Payoff Set Estimation in Games](../../papers/reinforcement-learning.md#barbara26a-theory-statistics) · 中文
-- [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](../../papers/reinforcement-learning.md#benyamine26a-theory-statistics) · 中文
-- [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](../../papers/reinforcement-learning.md#bollini26a-theory-statistics) · 中文
-- [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) · 中文
-- [Understanding Behavior Cloning with Action Quantization](../../papers/reinforcement-learning.md#cao26x-theory-statistics) · 中文
-- [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](../../papers/reinforcement-learning.md#carr26a-theory-statistics) · 中文
-- [Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](../../papers/reinforcement-learning.md#chen26dy-theory-statistics) · 中文
-- [A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](../../papers/reinforcement-learning.md#chen26ef-theory-statistics) · 中文
-- [Offline Two-Player Zero-Sum Markov Games with KL Regularization](../../papers/reinforcement-learning.md#chen26gk-theory-statistics) · 中文
-- [Online Compatible Reward Identification from Preference Feedback](../../papers/reinforcement-learning.md#drago26a-theory-statistics) · 中文
-- [Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access](../../papers/reinforcement-learning.md#ebi26a-theory-statistics) · 中文
-- [When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs](../../papers/reinforcement-learning.md#escamilla26a-theory-statistics) · 中文
-- [Local Policies for Graph-Structured Markov Decision Processes](../../papers/reinforcement-learning.md#faizal26a-theory-statistics) · 中文
-- [Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](../../papers/reinforcement-learning.md#flynn26b-theory-statistics) · 中文
-- [Anytime Detection of Strategic Deviations in Multi-Agent Systems](../../papers/reinforcement-learning.md#gauthier26a-theory-statistics) · 中文
-- [On the Role of Computation in Reinforcement Learning](../../papers/reinforcement-learning.md#ghugare26a-theory-statistics) · 中文
-- [Impact of Connectivity on Laplacian Representations in Reinforcement Learning](../../papers/reinforcement-learning.md#giorgi26a-theory-statistics) · 中文
-- [The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](../../papers/reinforcement-learning.md#gong26i-theory-statistics) · 中文
+- [What Preferences Can—and Cannot—Predict in Multi-Agent Online Learning](../../conferences/icml-2026/cards/0001-0100.md#abbadi26a-theory-statistics) · 中文
+- [(Doubly) Exponential Lower Bounds for Follow the Regularized Leader in Potential Games](../../conferences/icml-2026/cards/0001-0100.md#anagnostides26b-theory-statistics) · 中文
+- [The Value Function Semi-Algebraic Set in Partially Observable Markov Decision Processes](../../conferences/icml-2026/cards/0001-0100.md#anderson26a-theory-statistics) · 中文
+- [Generalized Linear Bandits with Memory](../../conferences/icml-2026/cards/0001-0100.md#ann26a-theory-statistics) · 中文
+- [Minimax-Optimal Policy Regret in Partially Observable Markov Games](../../conferences/icml-2026/cards/0101-0200.md#arora26b-theory-statistics) · 中文
+- [Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](../../conferences/icml-2026/cards/0101-0200.md#balagopalan26a-theory-statistics) · 中文
+- [Learning in Structured Stackelberg Games](../../conferences/icml-2026/cards/0101-0200.md#balcan26a-theory-statistics) · 中文
+- [Bandit Social Learning with Exploration Episodes](../../conferences/icml-2026/cards/0201-0300.md#banihashem26a-theory-statistics) · 中文
+- [Optimal Rates for Feasible Payoff Set Estimation in Games](../../conferences/icml-2026/cards/0201-0300.md#barbara26a-theory-statistics) · 中文
+- [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](../../conferences/icml-2026/cards/0201-0300.md#benyamine26a-theory-statistics) · 中文
+- [Learning in Bayesian Stackelberg Games With Unknown Follower’s Types](../../conferences/icml-2026/cards/0301-0400.md#bollini26a-theory-statistics) · 中文
+- [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](../../conferences/icml-2026/cards/0301-0400.md#braverman26a-theory-statistics) · 中文
+- [Understanding Behavior Cloning with Action Quantization](../../conferences/icml-2026/cards/0401-0500.md#cao26x-theory-statistics) · 中文
+- [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](../../conferences/icml-2026/cards/0401-0500.md#carr26a-theory-statistics) · 中文
+- [Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](../../conferences/icml-2026/cards/0501-0600.md#chen26dy-theory-statistics) · 中文
+- [A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](../../conferences/icml-2026/cards/0601-0700.md#chen26ef-theory-statistics) · 中文
+- [Offline Two-Player Zero-Sum Markov Games with KL Regularization](../../conferences/icml-2026/cards/0601-0700.md#chen26gk-theory-statistics) · 中文
+- [Online Compatible Reward Identification from Preference Feedback](../../conferences/icml-2026/cards/0901-1000.md#drago26a-theory-statistics) · 中文
+- [Informed Asymmetric Actor-Critic: Leveraging Privileged Signals Beyond Full-State Access](../../conferences/icml-2026/cards/1001-1100.md#ebi26a-theory-statistics) · 中文
+- [When Can You Poison Rewards? A Tight Characterization of Reward Poisoning in Linear MDPs](../../conferences/icml-2026/cards/1001-1100.md#escamilla26a-theory-statistics) · 中文
+- [Local Policies for Graph-Structured Markov Decision Processes](../../conferences/icml-2026/cards/1001-1100.md#faizal26a-theory-statistics) · 中文
+- [Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces](../../conferences/icml-2026/cards/1101-1200.md#flynn26b-theory-statistics) · 中文
+- [Anytime Detection of Strategic Deviations in Multi-Agent Systems](../../conferences/icml-2026/cards/1201-1300.md#gauthier26a-theory-statistics) · 中文
+- [On the Role of Computation in Reinforcement Learning](../../conferences/icml-2026/cards/1201-1300.md#ghugare26a-theory-statistics) · 中文
+- [Impact of Connectivity on Laplacian Representations in Reinforcement Learning](../../conferences/icml-2026/cards/1201-1300.md#giorgi26a-theory-statistics) · 中文
+- [The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](../../conferences/icml-2026/cards/1301-1400.md#gong26i-theory-statistics) · 中文
+
+<a id="by-robotics"></a>
 
 ### Robotics
 
-- [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](../../papers/robotics.md#francis-meretzki26a-theory-statistics) · 中文
+- [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](../../conferences/icml-2026/cards/1101-1200.md#francis-meretzki26a-theory-statistics) · 中文
+
+<a id="by-multimodal"></a>
 
 ### Multimodal Learning
 
-- [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](../../papers/multimodal.md#cai26o-theory-statistics) · 中文
-- [Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](../../papers/multimodal.md#delattre26a-theory-statistics) · 中文
+- [The Geometric Mechanics of Contrastive Representation Learning: Alignment Potentials, Entropic Dispersion, and Cross-Modal Divergence](../../conferences/icml-2026/cards/0301-0400.md#cai26o-theory-statistics) · 中文
+- [Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](../../conferences/icml-2026/cards/0801-0900.md#delattre26a-theory-statistics) · 中文
+
+<a id="by-ml-foundations"></a>
 
 ### Machine Learning Foundations and Statistics
 
-- [Efficient Bayesian Inference from Noisy Pairwise Comparisons](../../papers/ml-foundations.md#aczel26a-theory-statistics) · 中文
-- [A Capacity-Based Rationale for Multi-Head Attention](../../papers/ml-foundations.md#adler26a-theory-statistics) · 中文
-- [Fast Reconstruction of Mixtures of Bernoulli Product Distributions](../../papers/ml-foundations.md#agarwal26b-theory-statistics) · 中文
-- [Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](../../papers/ml-foundations.md#agarwal26c-theory-statistics) · 中文
-- [A Theoretical Framework for Statistical Evaluability of Generative Models](../../papers/ml-foundations.md#aiyer26a-theory-statistics) · 中文
-- [Solving Stochastic Variational Inequalities without the Bounded Variance Assumption](../../papers/ml-foundations.md#alacaoglu26a-theory-statistics) · 中文
-- [Set-Preserving Calibration from Conformal P-Values to E-Values](../../papers/ml-foundations.md#alami26a-theory-statistics) · 中文
-- [Attention’s forward pass and Frank-Wolfe](../../papers/ml-foundations.md#alcalde26a-theory-statistics) · 中文
-- [Robust Strategic Classification under Decision-Dependent Cost Uncertainty](../../papers/ml-foundations.md#alhanouti26a-theory-statistics) · 中文
-- [Asymmetric conformal prediction with penalized kernel sum-of-squares](../../papers/ml-foundations.md#allain26a-theory-statistics) · 中文
-- [Perceptrons and Localization of Attention’s Mean-Field Landscape](../../papers/ml-foundations.md#alvarez-lopez26a-theory-statistics) · 中文
-- [Likelihood over Estimation: Robust Quadratic Discriminant Analysis for Heavy-Tailed Distributions with Theory and Evidence](../../papers/ml-foundations.md#ambadi26a-theory-statistics) · 中文
-- [Learning-Augmented Online Covering Problems](../../papers/ml-foundations.md#ameli26a-theory-statistics) · 中文
-- [On the Computational Complexity of Performative Prediction](../../papers/ml-foundations.md#anagnostides26a-theory-statistics) · 中文
-- [A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning](../../papers/ml-foundations.md#anguita26a-theory-statistics) · 中文
-- [Rank-Learner: Orthogonal Ranking of Treatment Effects](../../papers/ml-foundations.md#arno26a-theory-statistics) · 中文
-- [Provable Accuracy Collapse in Embedding-Based Representations under Dimensionality Mismatch](../../papers/ml-foundations.md#arvanitakis26a-theory-statistics) · 中文
-- [Why DDIM Hallucinates More Than DDPM: A Theoretical Analysis of Reverse Dynamics](../../papers/ml-foundations.md#ashiq26a-theory-statistics) · 中文
-- [Robust Bayes-Assisted Conformal Prediction](../../papers/ml-foundations.md#ashouritaklimi26a-theory-statistics) · 中文
-- [Fast and Near-Optimal Algorithms for Private Hypothesis Selection](../../papers/ml-foundations.md#asi26a-theory-statistics) · 中文
-- [Learning Partial Concept Classes and Universal Rates Under Massart Noise](../../papers/ml-foundations.md#avital26a-theory-statistics) · 中文
-- [Fair Transit Stop Placement: A Clustering Perspective and Beyond](../../papers/ml-foundations.md#aziz26a-theory-statistics) · 中文
-- [Regret-Based Federated Causal Discovery with Unknown Interventions](../../papers/ml-foundations.md#baldo26a-theory-statistics) · 中文
-- [Matroid Algorithms Under Size-Sensitive Independence Oracles](../../papers/ml-foundations.md#banihashem26d-theory-statistics) · 中文
-- [Conformal C2ST: Turning weak classifiers into strong two-sample tests](../../papers/ml-foundations.md#bansal26a-theory-statistics) · 中文
-- [A theory of learning data statistics in diffusion models, from easy to hard](../../papers/ml-foundations.md#bardone26a-theory-statistics) · 中文
-- [On the Origin of Neural Scaling Laws: from Random Graphs to Natural Language](../../papers/ml-foundations.md#barkeshli26a-theory-statistics) · 中文
-- [General Synthetic-Powered Inference](../../papers/ml-foundations.md#bashari26a-theory-statistics) · 中文
-- [Networked Information Aggregation for Binary Classification](../../papers/ml-foundations.md#bateni26a-theory-statistics) · 中文
-- [A unified theory of feature learning in RNNs and DNNs](../../papers/ml-foundations.md#bauer26a-theory-statistics) · 中文
-- [The Relative Instability of Model Comparison with Cross-validation](../../papers/ml-foundations.md#bayle26a-theory-statistics) · 中文
-- [Stronger Benchmarks for Prediction as a Service with Constraints](../../papers/ml-foundations.md#bechavod26a-theory-statistics) · 中文
-- [Symmetries in PAC-Bayesian Learning](../../papers/ml-foundations.md#beck26a-theory-statistics) · 中文
-- [Efficient Public Verification of Private ML via Regularization](../../papers/ml-foundations.md#bell26b-theory-statistics) · 中文
-- [Fair Decisions from Calibrated Scores: Achieving Optimal Classification While Satisfying Sufficiency](../../papers/ml-foundations.md#benger26a-theory-statistics) · 中文
-- [RSA-CP: Efficient Conformal Prediction in Small-Sample Regimes via Random Score Alignment](../../papers/ml-foundations.md#bhagwat26a-theory-statistics) · 中文
-- [Dynamic High-Dimensional Facility Location with Low Recourse](../../papers/ml-foundations.md#bhattacharya26a-theory-statistics) · 中文
-- [Provably Learning Attention with Queries](../../papers/ml-foundations.md#bhattamishra26a-theory-statistics) · 中文
-- [Optimal Transport under Group Fairness Constraints](../../papers/ml-foundations.md#bleistein26a-theory-statistics) · 中文
-- [On Contraction of Sequential and Offset Rademacher Complexities](../../papers/ml-foundations.md#block26b-theory-statistics) · 中文
-- [Statistically Undetectable Backdoors in Deep Neural Networks](../../papers/ml-foundations.md#bogdanov26a-theory-statistics) · 中文
-- [Token Sample Complexity of Attention](../../papers/ml-foundations.md#bohbot26a-theory-statistics) · 中文
-- [Online Contract Design With Unknown Technology](../../papers/ml-foundations.md#bollini26b-theory-statistics) · 中文
-- [Persuasive Privacy](../../papers/ml-foundations.md#bon26a-theory-statistics) · 中文
-- [Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws](../../papers/ml-foundations.md#boncoraglio26a-theory-statistics) · 中文
-- [Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning](../../papers/ml-foundations.md#boudou26a-theory-statistics) · 中文
-- [Softmax as Linear Attention in the Large-Prompt Regime: a Measure-based Perspective](../../papers/ml-foundations.md#boursier26a-theory-statistics) · 中文
-- [Provable Bounds for the Learnability of Sample-Compressible Families from Noisy Samples](../../papers/ml-foundations.md#boushehrian26a-theory-statistics) · 中文
-- [The Expressive Power of Low Precision Softmax Transformers with (Summarized) Chain-of-Thought](../../papers/ml-foundations.md#brosamle26a-theory-statistics) · 中文
-- [Beyond Structural Symmetries: Linear Mode Connectivity via Neuron Identifiability](../../papers/ml-foundations.md#burgin26a-theory-statistics) · 中文
-- [All ERMs Can Fail in Stochastic Convex Optimization Lower Bounds in Linear Dimension](../../papers/ml-foundations.md#burla26a-theory-statistics) · 中文
-- [Robust Human-AI Complementarity under Uncertainty](../../papers/ml-foundations.md#byun26b-theory-statistics) · 中文
-- [Privacy-Aware Data Integration for Enhanced Quantile Inference under Heterogeneity](../../papers/ml-foundations.md#cai26e-theory-statistics) · 中文
-- [Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements](../../papers/ml-foundations.md#cai26l-theory-statistics) · 中文
-- [On the Robustness of Langevin Dynamics to Score Function Error](../../papers/ml-foundations.md#cao26b-theory-statistics) · 中文
-- [A Control-Theoretic View of Mamba on Stability and Robustness](../../papers/ml-foundations.md#cao26l-theory-statistics) · 中文
-- [A Unifying View of Variational Generative Wasserstein Flows](../../papers/ml-foundations.md#caucheteux26a-theory-statistics) · 中文
-- [Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe](../../papers/ml-foundations.md#chan26b-theory-statistics) · 中文
-- [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](../../papers/ml-foundations.md#chang26f-theory-statistics) · 中文
-- [High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions](../../papers/ml-foundations.md#chen26p-theory-statistics) · 中文
-- [Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity](../../papers/ml-foundations.md#chen26af-theory-statistics) · 中文
-- [How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs](../../papers/ml-foundations.md#chen26bc-theory-statistics) · 中文
-- [Stationary MMD Points](../../papers/ml-foundations.md#chen26be-theory-statistics) · 中文
-- [Focus and Dilution: The Multi-stage Learning Process of Attention](../../papers/ml-foundations.md#chen26by-theory-statistics) · 中文
-- [Efficient Inference for Noisy LLM-as-a-Judge Evaluation](../../papers/ml-foundations.md#chen26cq-theory-statistics) · 中文
-- [Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality](../../papers/ml-foundations.md#chen26dc-theory-statistics) · 中文
-- [Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings](../../papers/ml-foundations.md#chen26df-theory-statistics) · 中文
-- [Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference](../../papers/ml-foundations.md#chen26ds-theory-statistics) · 中文
-- [Mixtures of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces](../../papers/ml-foundations.md#chen26eb-theory-statistics) · 中文
-- [A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework](../../papers/ml-foundations.md#chen26eh-theory-statistics) · 中文
-- [Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise](../../papers/ml-foundations.md#chen26ev-theory-statistics) · 中文
-- [General Quantification of Covariate and Concept Shifts](../../papers/ml-foundations.md#chen26fg-theory-statistics) · 中文
-- [Nonlinear Covariate Balance in Experimental Design](../../papers/ml-foundations.md#chen26gn-theory-statistics) · 中文
-- [Towards Optimal Robustness in Learning-Augmented Paging](../../papers/ml-foundations.md#chen26gt-theory-statistics) · 中文
-- [Theoretical Challenges in Learning for Branch-and-Cut](../../papers/ml-foundations.md#cheng26a-theory-statistics) · 中文
-- [Domain Adaptation with Adaptive $f$-Divergence: Tighter Variational Representation and Generalization Bounds](../../papers/ml-foundations.md#cheng26r-theory-statistics) · 中文
-- [Entropic Mirror Monte Carlo](../../papers/ml-foundations.md#cherradi26a-theory-statistics) · 中文
-- [Quadratically Regularized Optimal Transport: Localization Bounds and Affine Case Analysis](../../papers/ml-foundations.md#chi26c-theory-statistics) · 中文
-- [Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States](../../papers/ml-foundations.md#chien26a-theory-statistics) · 中文
-- [Modeling Covariate Transition for Efficient Estimation of Longitudinal Treatment Effects in Randomized Experiments](../../papers/ml-foundations.md#chihara26a-theory-statistics) · 中文
-- [Efficient and Minimax Optimal In-context Nonparametric Regression with Transformers](../../papers/ml-foundations.md#ching26a-theory-statistics) · 中文
-- [GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function](../../papers/ml-foundations.md#cho26c-theory-statistics) · 中文
-- [Approximate Proportionality in Online Fair Division](../../papers/ml-foundations.md#choo26a-theory-statistics) · 中文
-- [Adaptively Robust Resettable Streaming](../../papers/ml-foundations.md#cohen26a-theory-statistics) · 中文
-- [Realizable Bayes-Consistency for General Metric Losses](../../papers/ml-foundations.md#cohen26b-theory-statistics) · 中文
-- [Improved Distribution Estimation in $\ell_∞$](../../papers/ml-foundations.md#cohen26c-theory-statistics) · 中文
-- [Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles](../../papers/ml-foundations.md#conrad26a-theory-statistics) · 中文
-- [Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](../../papers/ml-foundations.md#cooper26a-theory-statistics) · 中文
-- [A Theoretical Framework for Modular Learning of Robust Generative Models](../../papers/ml-foundations.md#cortes26c-theory-statistics) · 中文
-- [Extending Prediction-Powered Inference through Conformal Prediction](../../papers/ml-foundations.md#csillag26a-theory-statistics) · 中文
-- [Ski Rental with Distributional Predictions of Unknown Quality](../../papers/ml-foundations.md#cui26a-theory-statistics) · 中文
-- [A General Framework for Fair and Robust Regression](../../papers/ml-foundations.md#cui26d-theory-statistics) · 中文
-- [Asymptotic Theory of Iterated Empirical Risk Minimization, with Applications to Active Learning](../../papers/ml-foundations.md#cui26e-theory-statistics) · 中文
-- [Deep Single-Index Fréchet Regression](../../papers/ml-foundations.md#cui26l-theory-statistics) · 中文
-- [Optimal Regularization for Performative Learning](../../papers/ml-foundations.md#cyffers26a-theory-statistics) · 中文
-- [Induction Heads Interpolate N-Grams](../../papers/ml-foundations.md#d-angelo26a-theory-statistics) · 中文
-- [Causal Modeling of Selection in Evolution](../../papers/ml-foundations.md#dai26i-theory-statistics) · 中文
-- [Explaining Data Mixing Scaling Laws](../../papers/ml-foundations.md#dai26l-theory-statistics) · 中文
-- [Interventional Processes For Causal Uncertainty Quantification](../../papers/ml-foundations.md#dance26a-theory-statistics) · 中文
-- [Optimal Unconstrained Self-Distillation in Ridge Regression: Strict Improvements, Precise Asymptotics, and One-Shot Tuning](../../papers/ml-foundations.md#dang26b-theory-statistics) · 中文
-- [Deep Networks Learn Deep Hierarchical Models](../../papers/ml-foundations.md#daniely26a-theory-statistics) · 中文
-- [Sharp Concentration Bounds for Bundle-Valued Statistics on Manifolds](../../papers/ml-foundations.md#das26b-theory-statistics) · 中文
-- [On the Expressive Power of Permutation-Equivariant Weight-Space Networks](../../papers/ml-foundations.md#dayan26a-theory-statistics) · 中文
-- [Beyond First-order Asymptotics in Sequential Mean Testing](../../papers/ml-foundations.md#deep26a-theory-statistics) · 中文
-- [A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models](../../papers/ml-foundations.md#defilippis26a-theory-statistics) · 中文
-- [Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing](../../papers/ml-foundations.md#della-vecchia26a-theory-statistics) · 中文
-- [Uncovering Bias Mechanisms in Observational Studies](../../papers/ml-foundations.md#demirel26a-theory-statistics) · 中文
-- [A proximal ADMM for multiblock problems with block anti-upper triangular constraints](../../papers/ml-foundations.md#deng26s-theory-statistics) · 中文
-- [Sample Complexity Bounds for Robust Mean Estimation with Mean-Shift Contamination](../../papers/ml-foundations.md#diakonikolas26a-theory-statistics) · 中文
-- [Understanding Private Learning From Feature Perspective](../../papers/ml-foundations.md#ding26g-theory-statistics) · 中文
-- [Towards Understanding the Dynamics of Low-Rank Adaptation](../../papers/ml-foundations.md#ding26k-theory-statistics) · 中文
-- [The Fisher Dimension: Instance-Dependent Complexity for Causal Discovery](../../papers/ml-foundations.md#doan26a-theory-statistics) · 中文
-- [Universal Learning of Nonlinear Dynamics](../../papers/ml-foundations.md#dogariu26a-theory-statistics) · 中文
-- [Identifying Partially Observed Causal Models from Heterogeneous/Nonstationary Data](../../papers/ml-foundations.md#dong26a-theory-statistics) · 中文
-- [Why ReLU? A Bit-Model Dichotomy for Deep Network Training](../../papers/ml-foundations.md#doron-arad26a-theory-statistics) · 中文
-- [Conformal Calibration Transfer](../../papers/ml-foundations.md#doula26a-theory-statistics) · 中文
-- [Feasible Fusion: Constrained Joint Estimation under Structural Non-Overlap](../../papers/ml-foundations.md#du26s-theory-statistics) · 中文
-- [Tightening the Score Matching Gap for Diffusion Models](../../papers/ml-foundations.md#dupuis26a-theory-statistics) · 中文
-- [From Welfare to Utility: Generalized Objectives in Budget-Feasible Procurement](../../papers/ml-foundations.md#eden26a-theory-statistics) · 中文
-- [Desirable Effort Fairness and Optimality Trade-offs in Strategic Learning](../../papers/ml-foundations.md#efthymiou26a-theory-statistics) · 中文
-- [Relational Structural Causal Models](../../papers/ml-foundations.md#ejaz26a-theory-statistics) · 中文
-- [Keeping a Secret Requires a Good Memory: Unconditional Streaming Lower-Bounds for Differentially Private Algorithms](../../papers/ml-foundations.md#epasto26a-theory-statistics) · 中文
-- [Width Independent Bounds for the Local Lipschitz Constant of Deep Neural Networks at Random Initialization and after Lazy Training](../../papers/ml-foundations.md#evangelidis26a-theory-statistics) · 中文
-- [Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks](../../papers/ml-foundations.md#evans26b-theory-statistics) · 中文
-- [Enhancing Conformal Prediction via Class Similarity](../../papers/ml-foundations.md#fargion26a-theory-statistics) · 中文
-- [Clustering in Deep Stochastic Transformers](../../papers/ml-foundations.md#fedorov26a-theory-statistics) · 中文
-- [Efficient privacy loss accounting for subsampling and random allocation](../../papers/ml-foundations.md#feldman26a-theory-statistics) · 中文
-- [Distributionally Robust Causal Abstractions](../../papers/ml-foundations.md#felekis26a-theory-statistics) · 中文
-- [Understanding Dynamics of Adam in Zero-Sum Games: An ODE Approach](../../papers/ml-foundations.md#feng26k-theory-statistics) · 中文
-- [Adaptive Personalized Federated Learning via Multi-task Averaging of Kernel Mean Embeddings](../../papers/ml-foundations.md#fermanian26a-theory-statistics) · 中文
-- [Exact Functional ANOVA Decomposition for Categorical Inputs Models](../../papers/ml-foundations.md#ferrere26a-theory-statistics) · 中文
-- [Complexity Bounds for Dirichlet Process Slice Samplers](../../papers/ml-foundations.md#franzolini26a-theory-statistics) · 中文
-- [Toward Scalable and Valid Conditional Independence Testing with Spectral Representations](../../papers/ml-foundations.md#frohlich26a-theory-statistics) · 中文
-- [Noise-Robust Density Estimation for Tabular Data Anomaly Detection](../../papers/ml-foundations.md#fu26w-theory-statistics) · 中文
-- [Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation](../../papers/ml-foundations.md#fuchs26a-theory-statistics) · 中文
-- [An Odd Estimator for Shapley Values](../../papers/ml-foundations.md#fumagalli26a-theory-statistics) · 中文
-- [Approximation Theory for Lipschitz Continuous Transformers](../../papers/ml-foundations.md#furuya26a-theory-statistics) · 中文
-- [Information-Theoretic Generalization Bounds for VAEs: A Role of Encoder and Latent Variable](../../papers/ml-foundations.md#futami26a-theory-statistics) · 中文
-- [PCA of Probability Measures: Sparse and Dense Sampling Regimes](../../papers/ml-foundations.md#gachon26a-theory-statistics) · 中文
-- [The Cost of Learning Under Multiple Change Points](../../papers/ml-foundations.md#gafni26a-theory-statistics) · 中文
-- [Gateways to Tractability for Satisfiability in Pearl’s Causal Hierarchy](../../papers/ml-foundations.md#ganian26a-theory-statistics) · 中文
-- [Causal-EPIG: Causally Aligned Active CATE Estimation](../../papers/ml-foundations.md#gao26i-theory-statistics) · 中文
-- [Optimal structure learning and conditional independence testing](../../papers/ml-foundations.md#gao26ab-theory-statistics) · 中文
-- [The Implicit Bias of Depth: From Neural Collapse to Softmax Codes](../../papers/ml-foundations.md#garrod26a-theory-statistics) · 中文
-- [Unifying Low Dimensional Spectra in Deep Learning](../../papers/ml-foundations.md#garrod26b-theory-statistics) · 中文
-- [Sampling and Identity-Testing Without Approximate Tensorization of Entropy](../../papers/ml-foundations.md#gay26a-theory-statistics) · 中文
-- [Hard labels sampled from sparse targets mislead rotation invariant algorithms](../../papers/ml-foundations.md#ghosh26c-theory-statistics) · 中文
-- [Optimal Top-$k$ Identification from Pairwise Comparisons](../../papers/ml-foundations.md#goldberger26a-theory-statistics) · 中文
-- [Knowing Who, Not How Much: Learning-Augmented Mechanisms for Consumer Utility Maximization](../../papers/ml-foundations.md#goldner26a-theory-statistics) · 中文
-- [Compact Conformal Subgraphs](../../papers/ml-foundations.md#gollapudi26a-theory-statistics) · 中文
-- [Identifying Common Hubs in Multiple Gaussian Graphical Models](../../papers/ml-foundations.md#gomez26a-theory-statistics) · 中文
-- [Safety-Efficacy Trade Off: Robustness against Data-Poisoning](../../papers/ml-foundations.md#granziol26a-theory-statistics) · 中文
-- [Approximating Drift-Diffusion Models for User Decisions under Nudging and External Information](../../papers/ml-foundations.md#grivol26a-theory-statistics) · 中文
-- [The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks](../../papers/ml-foundations.md#gronich26a-theory-statistics) · 中文
-- [An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems](../../papers/ml-foundations.md#gronlund26a-theory-statistics) · 中文
-- [Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data](../../papers/ml-foundations.md#gu26p-theory-statistics) · 中文
-- [On the Coordination of Value-Maximizing Bidders](../../papers/ml-foundations.md#guan26k-theory-statistics) · 中文
-- [Finite-Width Neural Tangent Kernels from Feynman Diagrams](../../papers/ml-foundations.md#guillen26a-theory-statistics) · 中文
-- [Axiomatic Atlas: A Prescriptive Framework for Neural Architecture Design](../../papers/ml-foundations.md#guo26n-theory-statistics) · 中文
-- [Front-Loaded Robust Conformal Prediction: Heavy Calibration, Minimal Test-Time Cost](../../papers/ml-foundations.md#h-zargarbashi26a-theory-statistics) · 中文
-- [Why Deep Jacobian Spectra Separate: Depth-Induced Scaling and Singular-Vector Alignment](../../papers/ml-foundations.md#haas26a-theory-statistics) · 中文
-- [Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions](../../papers/ml-foundations.md#habring26a-theory-statistics) · 中文
-- [Formalizing and Falsifying Causal Pathways of Rare Events](../../papers/ml-foundations.md#haghighat26a-theory-statistics) · 中文
-- [Lower Bounds for Frank-Wolfe on Strongly Convex Sets](../../papers/ml-foundations.md#halbey26a-theory-statistics) · 中文
+- [Efficient Bayesian Inference from Noisy Pairwise Comparisons](../../conferences/icml-2026/cards/0001-0100.md#aczel26a-theory-statistics) · 中文
+- [A Capacity-Based Rationale for Multi-Head Attention](../../conferences/icml-2026/cards/0001-0100.md#adler26a-theory-statistics) · 中文
+- [Fast Reconstruction of Mixtures of Bernoulli Product Distributions](../../conferences/icml-2026/cards/0001-0100.md#agarwal26b-theory-statistics) · 中文
+- [Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](../../conferences/icml-2026/cards/0001-0100.md#agarwal26c-theory-statistics) · 中文
+- [A Theoretical Framework for Statistical Evaluability of Generative Models](../../conferences/icml-2026/cards/0001-0100.md#aiyer26a-theory-statistics) · 中文
+- [Solving Stochastic Variational Inequalities without the Bounded Variance Assumption](../../conferences/icml-2026/cards/0001-0100.md#alacaoglu26a-theory-statistics) · 中文
+- [Set-Preserving Calibration from Conformal P-Values to E-Values](../../conferences/icml-2026/cards/0001-0100.md#alami26a-theory-statistics) · 中文
+- [Attention’s forward pass and Frank-Wolfe](../../conferences/icml-2026/cards/0001-0100.md#alcalde26a-theory-statistics) · 中文
+- [Robust Strategic Classification under Decision-Dependent Cost Uncertainty](../../conferences/icml-2026/cards/0001-0100.md#alhanouti26a-theory-statistics) · 中文
+- [Asymmetric conformal prediction with penalized kernel sum-of-squares](../../conferences/icml-2026/cards/0001-0100.md#allain26a-theory-statistics) · 中文
+- [Perceptrons and Localization of Attention’s Mean-Field Landscape](../../conferences/icml-2026/cards/0001-0100.md#alvarez-lopez26a-theory-statistics) · 中文
+- [Likelihood over Estimation: Robust Quadratic Discriminant Analysis for Heavy-Tailed Distributions with Theory and Evidence](../../conferences/icml-2026/cards/0001-0100.md#ambadi26a-theory-statistics) · 中文
+- [Learning-Augmented Online Covering Problems](../../conferences/icml-2026/cards/0001-0100.md#ameli26a-theory-statistics) · 中文
+- [On the Computational Complexity of Performative Prediction](../../conferences/icml-2026/cards/0001-0100.md#anagnostides26a-theory-statistics) · 中文
+- [A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning](../../conferences/icml-2026/cards/0001-0100.md#anguita26a-theory-statistics) · 中文
+- [Rank-Learner: Orthogonal Ranking of Treatment Effects](../../conferences/icml-2026/cards/0101-0200.md#arno26a-theory-statistics) · 中文
+- [Provable Accuracy Collapse in Embedding-Based Representations under Dimensionality Mismatch](../../conferences/icml-2026/cards/0101-0200.md#arvanitakis26a-theory-statistics) · 中文
+- [Why DDIM Hallucinates More Than DDPM: A Theoretical Analysis of Reverse Dynamics](../../conferences/icml-2026/cards/0101-0200.md#ashiq26a-theory-statistics) · 中文
+- [Robust Bayes-Assisted Conformal Prediction](../../conferences/icml-2026/cards/0101-0200.md#ashouritaklimi26a-theory-statistics) · 中文
+- [Fast and Near-Optimal Algorithms for Private Hypothesis Selection](../../conferences/icml-2026/cards/0101-0200.md#asi26a-theory-statistics) · 中文
+- [Learning Partial Concept Classes and Universal Rates Under Massart Noise](../../conferences/icml-2026/cards/0101-0200.md#avital26a-theory-statistics) · 中文
+- [Fair Transit Stop Placement: A Clustering Perspective and Beyond](../../conferences/icml-2026/cards/0101-0200.md#aziz26a-theory-statistics) · 中文
+- [Regret-Based Federated Causal Discovery with Unknown Interventions](../../conferences/icml-2026/cards/0101-0200.md#baldo26a-theory-statistics) · 中文
+- [Matroid Algorithms Under Size-Sensitive Independence Oracles](../../conferences/icml-2026/cards/0201-0300.md#banihashem26d-theory-statistics) · 中文
+- [Conformal C2ST: Turning weak classifiers into strong two-sample tests](../../conferences/icml-2026/cards/0201-0300.md#bansal26a-theory-statistics) · 中文
+- [A theory of learning data statistics in diffusion models, from easy to hard](../../conferences/icml-2026/cards/0201-0300.md#bardone26a-theory-statistics) · 中文
+- [On the Origin of Neural Scaling Laws: from Random Graphs to Natural Language](../../conferences/icml-2026/cards/0201-0300.md#barkeshli26a-theory-statistics) · 中文
+- [General Synthetic-Powered Inference](../../conferences/icml-2026/cards/0201-0300.md#bashari26a-theory-statistics) · 中文
+- [Networked Information Aggregation for Binary Classification](../../conferences/icml-2026/cards/0201-0300.md#bateni26a-theory-statistics) · 中文
+- [A unified theory of feature learning in RNNs and DNNs](../../conferences/icml-2026/cards/0201-0300.md#bauer26a-theory-statistics) · 中文
+- [The Relative Instability of Model Comparison with Cross-validation](../../conferences/icml-2026/cards/0201-0300.md#bayle26a-theory-statistics) · 中文
+- [Stronger Benchmarks for Prediction as a Service with Constraints](../../conferences/icml-2026/cards/0201-0300.md#bechavod26a-theory-statistics) · 中文
+- [Symmetries in PAC-Bayesian Learning](../../conferences/icml-2026/cards/0201-0300.md#beck26a-theory-statistics) · 中文
+- [Efficient Public Verification of Private ML via Regularization](../../conferences/icml-2026/cards/0201-0300.md#bell26b-theory-statistics) · 中文
+- [Fair Decisions from Calibrated Scores: Achieving Optimal Classification While Satisfying Sufficiency](../../conferences/icml-2026/cards/0201-0300.md#benger26a-theory-statistics) · 中文
+- [RSA-CP: Efficient Conformal Prediction in Small-Sample Regimes via Random Score Alignment](../../conferences/icml-2026/cards/0201-0300.md#bhagwat26a-theory-statistics) · 中文
+- [Dynamic High-Dimensional Facility Location with Low Recourse](../../conferences/icml-2026/cards/0201-0300.md#bhattacharya26a-theory-statistics) · 中文
+- [Provably Learning Attention with Queries](../../conferences/icml-2026/cards/0201-0300.md#bhattamishra26a-theory-statistics) · 中文
+- [Optimal Transport under Group Fairness Constraints](../../conferences/icml-2026/cards/0201-0300.md#bleistein26a-theory-statistics) · 中文
+- [On Contraction of Sequential and Offset Rademacher Complexities](../../conferences/icml-2026/cards/0201-0300.md#block26b-theory-statistics) · 中文
+- [Statistically Undetectable Backdoors in Deep Neural Networks](../../conferences/icml-2026/cards/0301-0400.md#bogdanov26a-theory-statistics) · 中文
+- [Token Sample Complexity of Attention](../../conferences/icml-2026/cards/0301-0400.md#bohbot26a-theory-statistics) · 中文
+- [Online Contract Design With Unknown Technology](../../conferences/icml-2026/cards/0301-0400.md#bollini26b-theory-statistics) · 中文
+- [Persuasive Privacy](../../conferences/icml-2026/cards/0301-0400.md#bon26a-theory-statistics) · 中文
+- [Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws](../../conferences/icml-2026/cards/0301-0400.md#boncoraglio26a-theory-statistics) · 中文
+- [Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning](../../conferences/icml-2026/cards/0301-0400.md#boudou26a-theory-statistics) · 中文
+- [Softmax as Linear Attention in the Large-Prompt Regime: a Measure-based Perspective](../../conferences/icml-2026/cards/0301-0400.md#boursier26a-theory-statistics) · 中文
+- [Provable Bounds for the Learnability of Sample-Compressible Families from Noisy Samples](../../conferences/icml-2026/cards/0301-0400.md#boushehrian26a-theory-statistics) · 中文
+- [The Expressive Power of Low Precision Softmax Transformers with (Summarized) Chain-of-Thought](../../conferences/icml-2026/cards/0301-0400.md#brosamle26a-theory-statistics) · 中文
+- [Beyond Structural Symmetries: Linear Mode Connectivity via Neuron Identifiability](../../conferences/icml-2026/cards/0301-0400.md#burgin26a-theory-statistics) · 中文
+- [All ERMs Can Fail in Stochastic Convex Optimization Lower Bounds in Linear Dimension](../../conferences/icml-2026/cards/0301-0400.md#burla26a-theory-statistics) · 中文
+- [Robust Human-AI Complementarity under Uncertainty](../../conferences/icml-2026/cards/0301-0400.md#byun26b-theory-statistics) · 中文
+- [Privacy-Aware Data Integration for Enhanced Quantile Inference under Heterogeneity](../../conferences/icml-2026/cards/0301-0400.md#cai26e-theory-statistics) · 中文
+- [Column Thresholding for Sparse Spiked Wigner Models: Improved Signal Strength Requirements](../../conferences/icml-2026/cards/0301-0400.md#cai26l-theory-statistics) · 中文
+- [On the Robustness of Langevin Dynamics to Score Function Error](../../conferences/icml-2026/cards/0301-0400.md#cao26b-theory-statistics) · 中文
+- [A Control-Theoretic View of Mamba on Stability and Robustness](../../conferences/icml-2026/cards/0301-0400.md#cao26l-theory-statistics) · 中文
+- [A Unifying View of Variational Generative Wasserstein Flows](../../conferences/icml-2026/cards/0401-0500.md#caucheteux26a-theory-statistics) · 中文
+- [Continual Learning With Participation Privacy: An Auditable Buffering-Aggregation Recipe](../../conferences/icml-2026/cards/0401-0500.md#chan26b-theory-statistics) · 中文
+- [Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](../../conferences/icml-2026/cards/0401-0500.md#chang26f-theory-statistics) · 中文
+- [High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions](../../conferences/icml-2026/cards/0401-0500.md#chen26p-theory-statistics) · 中文
+- [Split Group Knockoffs: Controlling False Discovery Rate in Transformational Group Sparsity](../../conferences/icml-2026/cards/0401-0500.md#chen26af-theory-statistics) · 中文
+- [How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs](../../conferences/icml-2026/cards/0501-0600.md#chen26bc-theory-statistics) · 中文
+- [Stationary MMD Points](../../conferences/icml-2026/cards/0501-0600.md#chen26be-theory-statistics) · 中文
+- [Focus and Dilution: The Multi-stage Learning Process of Attention](../../conferences/icml-2026/cards/0501-0600.md#chen26by-theory-statistics) · 中文
+- [Efficient Inference for Noisy LLM-as-a-Judge Evaluation](../../conferences/icml-2026/cards/0501-0600.md#chen26cq-theory-statistics) · 中文
+- [Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality](../../conferences/icml-2026/cards/0501-0600.md#chen26dc-theory-statistics) · 中文
+- [Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings](../../conferences/icml-2026/cards/0501-0600.md#chen26df-theory-statistics) · 中文
+- [Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference](../../conferences/icml-2026/cards/0501-0600.md#chen26ds-theory-statistics) · 中文
+- [Mixtures of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces](../../conferences/icml-2026/cards/0501-0600.md#chen26eb-theory-statistics) · 中文
+- [A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework](../../conferences/icml-2026/cards/0601-0700.md#chen26eh-theory-statistics) · 中文
+- [Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise](../../conferences/icml-2026/cards/0601-0700.md#chen26ev-theory-statistics) · 中文
+- [General Quantification of Covariate and Concept Shifts](../../conferences/icml-2026/cards/0601-0700.md#chen26fg-theory-statistics) · 中文
+- [Nonlinear Covariate Balance in Experimental Design](../../conferences/icml-2026/cards/0601-0700.md#chen26gn-theory-statistics) · 中文
+- [Towards Optimal Robustness in Learning-Augmented Paging](../../conferences/icml-2026/cards/0601-0700.md#chen26gt-theory-statistics) · 中文
+- [Theoretical Challenges in Learning for Branch-and-Cut](../../conferences/icml-2026/cards/0601-0700.md#cheng26a-theory-statistics) · 中文
+- [Domain Adaptation with Adaptive $f$-Divergence: Tighter Variational Representation and Generalization Bounds](../../conferences/icml-2026/cards/0601-0700.md#cheng26r-theory-statistics) · 中文
+- [Entropic Mirror Monte Carlo](../../conferences/icml-2026/cards/0701-0800.md#cherradi26a-theory-statistics) · 中文
+- [Quadratically Regularized Optimal Transport: Localization Bounds and Affine Case Analysis](../../conferences/icml-2026/cards/0701-0800.md#chi26c-theory-statistics) · 中文
+- [Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States](../../conferences/icml-2026/cards/0701-0800.md#chien26a-theory-statistics) · 中文
+- [Modeling Covariate Transition for Efficient Estimation of Longitudinal Treatment Effects in Randomized Experiments](../../conferences/icml-2026/cards/0701-0800.md#chihara26a-theory-statistics) · 中文
+- [Efficient and Minimax Optimal In-context Nonparametric Regression with Transformers](../../conferences/icml-2026/cards/0701-0800.md#ching26a-theory-statistics) · 中文
+- [GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function](../../conferences/icml-2026/cards/0701-0800.md#cho26c-theory-statistics) · 中文
+- [Approximate Proportionality in Online Fair Division](../../conferences/icml-2026/cards/0701-0800.md#choo26a-theory-statistics) · 中文
+- [Adaptively Robust Resettable Streaming](../../conferences/icml-2026/cards/0701-0800.md#cohen26a-theory-statistics) · 中文
+- [Realizable Bayes-Consistency for General Metric Losses](../../conferences/icml-2026/cards/0701-0800.md#cohen26b-theory-statistics) · 中文
+- [Improved Distribution Estimation in $\ell_∞$](../../conferences/icml-2026/cards/0701-0800.md#cohen26c-theory-statistics) · 中文
+- [Geometric Conformal Prediction with Spatial Ranks and Multivariate Quantiles](../../conferences/icml-2026/cards/0701-0800.md#conrad26a-theory-statistics) · 中文
+- [Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](../../conferences/icml-2026/cards/0701-0800.md#cooper26a-theory-statistics) · 中文
+- [A Theoretical Framework for Modular Learning of Robust Generative Models](../../conferences/icml-2026/cards/0701-0800.md#cortes26c-theory-statistics) · 中文
+- [Extending Prediction-Powered Inference through Conformal Prediction](../../conferences/icml-2026/cards/0701-0800.md#csillag26a-theory-statistics) · 中文
+- [Ski Rental with Distributional Predictions of Unknown Quality](../../conferences/icml-2026/cards/0701-0800.md#cui26a-theory-statistics) · 中文
+- [A General Framework for Fair and Robust Regression](../../conferences/icml-2026/cards/0701-0800.md#cui26d-theory-statistics) · 中文
+- [Asymptotic Theory of Iterated Empirical Risk Minimization, with Applications to Active Learning](../../conferences/icml-2026/cards/0701-0800.md#cui26e-theory-statistics) · 中文
+- [Deep Single-Index Fréchet Regression](../../conferences/icml-2026/cards/0801-0900.md#cui26l-theory-statistics) · 中文
+- [Optimal Regularization for Performative Learning](../../conferences/icml-2026/cards/0801-0900.md#cyffers26a-theory-statistics) · 中文
+- [Induction Heads Interpolate N-Grams](../../conferences/icml-2026/cards/0801-0900.md#d-angelo26a-theory-statistics) · 中文
+- [Causal Modeling of Selection in Evolution](../../conferences/icml-2026/cards/0801-0900.md#dai26i-theory-statistics) · 中文
+- [Explaining Data Mixing Scaling Laws](../../conferences/icml-2026/cards/0801-0900.md#dai26l-theory-statistics) · 中文
+- [Interventional Processes For Causal Uncertainty Quantification](../../conferences/icml-2026/cards/0801-0900.md#dance26a-theory-statistics) · 中文
+- [Optimal Unconstrained Self-Distillation in Ridge Regression: Strict Improvements, Precise Asymptotics, and One-Shot Tuning](../../conferences/icml-2026/cards/0801-0900.md#dang26b-theory-statistics) · 中文
+- [Deep Networks Learn Deep Hierarchical Models](../../conferences/icml-2026/cards/0801-0900.md#daniely26a-theory-statistics) · 中文
+- [Sharp Concentration Bounds for Bundle-Valued Statistics on Manifolds](../../conferences/icml-2026/cards/0801-0900.md#das26b-theory-statistics) · 中文
+- [On the Expressive Power of Permutation-Equivariant Weight-Space Networks](../../conferences/icml-2026/cards/0801-0900.md#dayan26a-theory-statistics) · 中文
+- [Beyond First-order Asymptotics in Sequential Mean Testing](../../conferences/icml-2026/cards/0801-0900.md#deep26a-theory-statistics) · 中文
+- [A Noise Sensitivity Exponent Controls Large Statistical-to-Computational Gaps in Single- and Multi-Index Models](../../conferences/icml-2026/cards/0801-0900.md#defilippis26a-theory-statistics) · 中文
+- [Error Propagation in Dynamic Programming: From Stochastic Control to American Option Pricing](../../conferences/icml-2026/cards/0801-0900.md#della-vecchia26a-theory-statistics) · 中文
+- [Uncovering Bias Mechanisms in Observational Studies](../../conferences/icml-2026/cards/0801-0900.md#demirel26a-theory-statistics) · 中文
+- [A proximal ADMM for multiblock problems with block anti-upper triangular constraints](../../conferences/icml-2026/cards/0801-0900.md#deng26s-theory-statistics) · 中文
+- [Sample Complexity Bounds for Robust Mean Estimation with Mean-Shift Contamination](../../conferences/icml-2026/cards/0801-0900.md#diakonikolas26a-theory-statistics) · 中文
+- [Understanding Private Learning From Feature Perspective](../../conferences/icml-2026/cards/0901-1000.md#ding26g-theory-statistics) · 中文
+- [Towards Understanding the Dynamics of Low-Rank Adaptation](../../conferences/icml-2026/cards/0901-1000.md#ding26k-theory-statistics) · 中文
+- [The Fisher Dimension: Instance-Dependent Complexity for Causal Discovery](../../conferences/icml-2026/cards/0901-1000.md#doan26a-theory-statistics) · 中文
+- [Universal Learning of Nonlinear Dynamics](../../conferences/icml-2026/cards/0901-1000.md#dogariu26a-theory-statistics) · 中文
+- [Identifying Partially Observed Causal Models from Heterogeneous/Nonstationary Data](../../conferences/icml-2026/cards/0901-1000.md#dong26a-theory-statistics) · 中文
+- [Why ReLU? A Bit-Model Dichotomy for Deep Network Training](../../conferences/icml-2026/cards/0901-1000.md#doron-arad26a-theory-statistics) · 中文
+- [Conformal Calibration Transfer](../../conferences/icml-2026/cards/0901-1000.md#doula26a-theory-statistics) · 中文
+- [Feasible Fusion: Constrained Joint Estimation under Structural Non-Overlap](../../conferences/icml-2026/cards/0901-1000.md#du26s-theory-statistics) · 中文
+- [Tightening the Score Matching Gap for Diffusion Models](../../conferences/icml-2026/cards/0901-1000.md#dupuis26a-theory-statistics) · 中文
+- [From Welfare to Utility: Generalized Objectives in Budget-Feasible Procurement](../../conferences/icml-2026/cards/1001-1100.md#eden26a-theory-statistics) · 中文
+- [Desirable Effort Fairness and Optimality Trade-offs in Strategic Learning](../../conferences/icml-2026/cards/1001-1100.md#efthymiou26a-theory-statistics) · 中文
+- [Relational Structural Causal Models](../../conferences/icml-2026/cards/1001-1100.md#ejaz26a-theory-statistics) · 中文
+- [Keeping a Secret Requires a Good Memory: Unconditional Streaming Lower-Bounds for Differentially Private Algorithms](../../conferences/icml-2026/cards/1001-1100.md#epasto26a-theory-statistics) · 中文
+- [Width Independent Bounds for the Local Lipschitz Constant of Deep Neural Networks at Random Initialization and after Lazy Training](../../conferences/icml-2026/cards/1001-1100.md#evangelidis26a-theory-statistics) · 中文
+- [Theory of Minimal Weight Perturbations in Deep Networks and its Applications for Low-Rank Activated Backdoor Attacks](../../conferences/icml-2026/cards/1001-1100.md#evans26b-theory-statistics) · 中文
+- [Enhancing Conformal Prediction via Class Similarity](../../conferences/icml-2026/cards/1001-1100.md#fargion26a-theory-statistics) · 中文
+- [Clustering in Deep Stochastic Transformers](../../conferences/icml-2026/cards/1001-1100.md#fedorov26a-theory-statistics) · 中文
+- [Efficient privacy loss accounting for subsampling and random allocation](../../conferences/icml-2026/cards/1001-1100.md#feldman26a-theory-statistics) · 中文
+- [Distributionally Robust Causal Abstractions](../../conferences/icml-2026/cards/1001-1100.md#felekis26a-theory-statistics) · 中文
+- [Understanding Dynamics of Adam in Zero-Sum Games: An ODE Approach](../../conferences/icml-2026/cards/1101-1200.md#feng26k-theory-statistics) · 中文
+- [Adaptive Personalized Federated Learning via Multi-task Averaging of Kernel Mean Embeddings](../../conferences/icml-2026/cards/1101-1200.md#fermanian26a-theory-statistics) · 中文
+- [Exact Functional ANOVA Decomposition for Categorical Inputs Models](../../conferences/icml-2026/cards/1101-1200.md#ferrere26a-theory-statistics) · 中文
+- [Complexity Bounds for Dirichlet Process Slice Samplers](../../conferences/icml-2026/cards/1101-1200.md#franzolini26a-theory-statistics) · 中文
+- [Toward Scalable and Valid Conditional Independence Testing with Spectral Representations](../../conferences/icml-2026/cards/1101-1200.md#frohlich26a-theory-statistics) · 中文
+- [Noise-Robust Density Estimation for Tabular Data Anomaly Detection](../../conferences/icml-2026/cards/1101-1200.md#fu26w-theory-statistics) · 中文
+- [Amortized Variational Inference for Partial-Label Learning: A Probabilistic Approach to Label Disambiguation](../../conferences/icml-2026/cards/1101-1200.md#fuchs26a-theory-statistics) · 中文
+- [An Odd Estimator for Shapley Values](../../conferences/icml-2026/cards/1101-1200.md#fumagalli26a-theory-statistics) · 中文
+- [Approximation Theory for Lipschitz Continuous Transformers](../../conferences/icml-2026/cards/1101-1200.md#furuya26a-theory-statistics) · 中文
+- [Information-Theoretic Generalization Bounds for VAEs: A Role of Encoder and Latent Variable](../../conferences/icml-2026/cards/1101-1200.md#futami26a-theory-statistics) · 中文
+- [PCA of Probability Measures: Sparse and Dense Sampling Regimes](../../conferences/icml-2026/cards/1101-1200.md#gachon26a-theory-statistics) · 中文
+- [The Cost of Learning Under Multiple Change Points](../../conferences/icml-2026/cards/1101-1200.md#gafni26a-theory-statistics) · 中文
+- [Gateways to Tractability for Satisfiability in Pearl’s Causal Hierarchy](../../conferences/icml-2026/cards/1201-1300.md#ganian26a-theory-statistics) · 中文
+- [Causal-EPIG: Causally Aligned Active CATE Estimation](../../conferences/icml-2026/cards/1201-1300.md#gao26i-theory-statistics) · 中文
+- [Optimal structure learning and conditional independence testing](../../conferences/icml-2026/cards/1201-1300.md#gao26ab-theory-statistics) · 中文
+- [The Implicit Bias of Depth: From Neural Collapse to Softmax Codes](../../conferences/icml-2026/cards/1201-1300.md#garrod26a-theory-statistics) · 中文
+- [Unifying Low Dimensional Spectra in Deep Learning](../../conferences/icml-2026/cards/1201-1300.md#garrod26b-theory-statistics) · 中文
+- [Sampling and Identity-Testing Without Approximate Tensorization of Entropy](../../conferences/icml-2026/cards/1201-1300.md#gay26a-theory-statistics) · 中文
+- [Hard labels sampled from sparse targets mislead rotation invariant algorithms](../../conferences/icml-2026/cards/1201-1300.md#ghosh26c-theory-statistics) · 中文
+- [Optimal Top-$k$ Identification from Pairwise Comparisons](../../conferences/icml-2026/cards/1201-1300.md#goldberger26a-theory-statistics) · 中文
+- [Knowing Who, Not How Much: Learning-Augmented Mechanisms for Consumer Utility Maximization](../../conferences/icml-2026/cards/1201-1300.md#goldner26a-theory-statistics) · 中文
+- [Compact Conformal Subgraphs](../../conferences/icml-2026/cards/1201-1300.md#gollapudi26a-theory-statistics) · 中文
+- [Identifying Common Hubs in Multiple Gaussian Graphical Models](../../conferences/icml-2026/cards/1301-1400.md#gomez26a-theory-statistics) · 中文
+- [Safety-Efficacy Trade Off: Robustness against Data-Poisoning](../../conferences/icml-2026/cards/1301-1400.md#granziol26a-theory-statistics) · 中文
+- [Approximating Drift-Diffusion Models for User Decisions under Nudging and External Information](../../conferences/icml-2026/cards/1301-1400.md#grivol26a-theory-statistics) · 中文
+- [The Implicit Bias of Adam and Muon on Smooth Homogeneous Neural Networks](../../conferences/icml-2026/cards/1301-1400.md#gronich26a-theory-statistics) · 中文
+- [An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems](../../conferences/icml-2026/cards/1301-1400.md#gronlund26a-theory-statistics) · 中文
+- [Power-Boosted Granger-Causal Discovery for Large Heterogeneous Panel Data](../../conferences/icml-2026/cards/1301-1400.md#gu26p-theory-statistics) · 中文
+- [On the Coordination of Value-Maximizing Bidders](../../conferences/icml-2026/cards/1301-1400.md#guan26k-theory-statistics) · 中文
+- [Finite-Width Neural Tangent Kernels from Feynman Diagrams](../../conferences/icml-2026/cards/1301-1400.md#guillen26a-theory-statistics) · 中文
+- [Axiomatic Atlas: A Prescriptive Framework for Neural Architecture Design](../../conferences/icml-2026/cards/1301-1400.md#guo26n-theory-statistics) · 中文
+- [Front-Loaded Robust Conformal Prediction: Heavy Calibration, Minimal Test-Time Cost](../../conferences/icml-2026/cards/1401-1500.md#h-zargarbashi26a-theory-statistics) · 中文
+- [Why Deep Jacobian Spectra Separate: Depth-Induced Scaling and Singular-Vector Alignment](../../conferences/icml-2026/cards/1401-1500.md#haas26a-theory-statistics) · 中文
+- [Forward-KL Convergence of Time-Inhomogeneous Langevin Diffusions](../../conferences/icml-2026/cards/1401-1500.md#habring26a-theory-statistics) · 中文
+- [Formalizing and Falsifying Causal Pathways of Rare Events](../../conferences/icml-2026/cards/1401-1500.md#haghighat26a-theory-statistics) · 中文
+- [Lower Bounds for Frank-Wolfe on Strongly Convex Sets](../../conferences/icml-2026/cards/1401-1500.md#halbey26a-theory-statistics) · 中文
+
+<a id="by-graph-and-recommendation"></a>
 
 ### Graph Learning and Recommendation
 
-- [Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](../../papers/graph-and-recommendation.md#adriaens26a-theory-statistics) · 中文
-- [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](../../papers/graph-and-recommendation.md#amran26a-theory-statistics) · 中文
-- [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](../../papers/graph-and-recommendation.md#badanidiyuru26a-theory-statistics) · 中文
-- [On the Theoretical Limitations of Embedding-based Link Prediction](../../papers/graph-and-recommendation.md#badreddine26a-theory-statistics) · 中文
-- [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](../../papers/graph-and-recommendation.md#charpenay26a-theory-statistics) · 中文
-- [Multicalibration Yields Better Matchings](../../papers/graph-and-recommendation.md#colini-baldeschi26a-theory-statistics) · 中文
-- [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](../../papers/graph-and-recommendation.md#fan26c-theory-statistics) · 中文
-- [Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](../../papers/graph-and-recommendation.md#fetrat-qharabagh26a-theory-statistics) · 中文
-- [Understanding Truncated Positional Encodings for Graph Neural Networks](../../papers/graph-and-recommendation.md#flora26a-theory-statistics) · 中文
-- [Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series](../../papers/graph-and-recommendation.md#guo26d-theory-statistics) · 中文
+- [Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](../../conferences/icml-2026/cards/0001-0100.md#adriaens26a-theory-statistics) · 中文
+- [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](../../conferences/icml-2026/cards/0001-0100.md#amran26a-theory-statistics) · 中文
+- [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](../../conferences/icml-2026/cards/0101-0200.md#badanidiyuru26a-theory-statistics) · 中文
+- [On the Theoretical Limitations of Embedding-based Link Prediction](../../conferences/icml-2026/cards/0101-0200.md#badreddine26a-theory-statistics) · 中文
+- [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](../../conferences/icml-2026/cards/0401-0500.md#charpenay26a-theory-statistics) · 中文
+- [Multicalibration Yields Better Matchings](../../conferences/icml-2026/cards/0701-0800.md#colini-baldeschi26a-theory-statistics) · 中文
+- [Graph-Preference Learning: Debiasing Network-Sampled Human Feedback for Target Welfare Estimation](../../conferences/icml-2026/cards/1001-1100.md#fan26c-theory-statistics) · 中文
+- [Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](../../conferences/icml-2026/cards/1101-1200.md#fetrat-qharabagh26a-theory-statistics) · 中文
+- [Understanding Truncated Positional Encodings for Graph Neural Networks](../../conferences/icml-2026/cards/1101-1200.md#flora26a-theory-statistics) · 中文
+- [Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series](../../conferences/icml-2026/cards/1301-1400.md#guo26d-theory-statistics) · 中文
+
+<a id="by-scientific-ml"></a>
 
 ### Scientific Machine Learning
 
-- [Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](../../papers/scientific-ml.md#antipov26a-theory-statistics) · 中文
-- [Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](../../papers/scientific-ml.md#bao26a-theory-statistics) · 中文
-- [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../papers/scientific-ml.md#berman26a-theory-statistics) · 中文
-- [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../../papers/scientific-ml.md#ding26c-theory-statistics) · 中文
-- [Learning Treatment Allocations with Risk Control Under Partial Identifiability](../../papers/scientific-ml.md#ek26a-theory-statistics) · 中文
-- [Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](../../papers/scientific-ml.md#fu26i-theory-statistics) · 中文
-- [Principled Confidence Estimation for Deep Computed Tomography](../../papers/scientific-ml.md#gatzner26a-theory-statistics) · 中文
-- [Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../papers/scientific-ml.md#gloeckler26a-theory-statistics) · 中文
-- [A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](../../papers/scientific-ml.md#guan26a-theory-statistics) · 中文
+- [Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](../../conferences/icml-2026/cards/0101-0200.md#antipov26a-theory-statistics) · 中文
+- [Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](../../conferences/icml-2026/cards/0201-0300.md#bao26a-theory-statistics) · 中文
+- [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../conferences/icml-2026/cards/0201-0300.md#berman26a-theory-statistics) · 中文
+- [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../../conferences/icml-2026/cards/0901-1000.md#ding26c-theory-statistics) · 中文
+- [Learning Treatment Allocations with Risk Control Under Partial Identifiability](../../conferences/icml-2026/cards/1001-1100.md#ek26a-theory-statistics) · 中文
+- [Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](../../conferences/icml-2026/cards/1101-1200.md#fu26i-theory-statistics) · 中文
+- [Principled Confidence Estimation for Deep Computed Tomography](../../conferences/icml-2026/cards/1201-1300.md#gatzner26a-theory-statistics) · 中文
+- [Scalable Simulation-Based Model Inference with Test-Time Complexity Control](../../conferences/icml-2026/cards/1201-1300.md#gloeckler26a-theory-statistics) · 中文
+- [A Call to Lagrangian Action: Learning Population Mechanics from Temporal Snapshots](../../conferences/icml-2026/cards/1301-1400.md#guan26a-theory-statistics) · 中文
 <!-- classification:end -->

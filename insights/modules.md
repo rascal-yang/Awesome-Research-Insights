@@ -4,161 +4,123 @@
 
 可复用组件与局部连接方式。
 
-## 多模态 token 排列
-
-<a id="instruction-prefixes-for-causal-visual-grounding"></a>
-
-### 用指令前缀让视觉表征感知任务
-
-**来源**
-
-ReconVLA（Song 等，AAAI 2026） · [§3.2、图 3 与因果注意力说明](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883#page=4) · [论文索引](../papers/robotics.md#vision-language-action-models) · [论文卡](../papers/reconvla.md#paper-reconvla)
-
-**核心思路**
-
-如果下游模块读取因果解码器里的图像 token，把任务指令放在图像 token 前面，使这些视觉隐藏状态能读到指令。
-
-**实现机制**
-
-在标准因果掩码下，一个位置只能读取自己与此前位置。ReconVLA 把指令 token 放在图像 token 前面，让用于给重建分支提供条件的视觉状态能融合任务信息。顺序调整发生在多模态解码器中，视觉编码器仍单独处理图像。
-
-**设计动机**
-
-同一张图里可能有多个可操作物体。重建分支要恢复指令指定的物体，读到的视觉状态需要带有区分当前目标的信息。
-
-**潜在应用**
-
-- **论文用法 · 语言条件重建。** ReconVLA 在重建流程中使用这一顺序。论文对该设计的结论来自完整系统，单独改变 token 顺序对策略成功率的影响待验证。
-- **迁移设想 · 仅解码器式视觉语言策略。** 如果辅助头读取图像 token 的隐藏状态，可以把目标指令或问题移到图像 token 之前。迁移前看清注意力掩码和读出位置。若读出位置本来就在指令之后，两种排列都可能让辅助头读到指令。
-
-相关 Insight · [用目标区域重建做辅助监督](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)
-
-## 蒸馏接口设计
-
-<a id="widen-the-student-distillation-interface"></a>
-
-### 只加宽学生模型的蒸馏接口
-
-**来源**
-
-[Lift / WideLast](https://proceedings.mlr.press/v306/tian26k.html) (Huiyuan Tian 等, ICML 2026) · [§2.1–2.3](https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26k/tian26k.pdf#page=4) · [§3.1–3.3、表 2](https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26k/tian26k.pdf#page=6) · [表 8](https://raw.githubusercontent.com/mlresearch/v306/main/assets/tian26k/tian26k.pdf#page=9) · [论文索引](../papers/computer-vision.md#vision-model-distillation) · [论文卡](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
-
-**核心思路**
-
-学生 ViT 大幅缩窄时，可以只扩大与教师特征对齐的末端通道，保留前面的大部分窄层。
-
-**实现机制**
-
-Lift 在学生末层之后给每个 token 加线性升维，分类头读取升维后的特征，推理时也保留这层。WideLast 则只把最后一个 Transformer 块加宽到教师宽度。两种情况下都可以对蒸馏接口加特征损失。
-
-**设计动机**
-
-单张图的教师特征即使是低秩，不同图像也可能占据不同子空间。跨图像的共享 PCA 比逐图 SVD 更能检验一个固定窄接口是否覆盖得住教师特征。
-
-**潜在应用**
-
-- **论文证据** · 在 ImageNet-1K 上，CaiT-S24 蒸馏到 DeiT-Tiny 时，原学生 Top-1 为 74.86%，Lift 和 WideLast 的最佳配置分别为 77.53% 和 78.23%（表 2）。加宽在没有蒸馏时也有收益（表 8）。
-- **迁移设想** · 可用于小型视觉编码器的特征蒸馏。对比「只加宽」和「加宽加蒸馏」，同时记录部署开销，以区分额外容量和教师监督的作用。
-
 <!-- classification:start -->
 ## 按研究领域浏览
 
+[大语言模型](#by-llm) · [计算机视觉](#by-computer-vision) · [自然语言处理](#by-nlp) · [机器人学](#by-robotics) · [多模态学习](#by-multimodal) · [机器学习基础与统计](#by-ml-foundations) · [图学习与推荐](#by-graph-and-recommendation) · [科学机器学习](#by-scientific-ml)
+
+<a id="by-llm"></a>
+
 ### 大语言模型
 
-- [线性注意力记忆](../papers/llm.md#bonnet26a-modules) · Learning to Remember, Learn, and Forget in Attention-Based Models
-- [归一化替换](../papers/llm.md#byun26a-modules) · Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models
-- [深层 Transformer 归一化](../papers/llm.md#chao26b-modules) · SpanNorm: Reconciling Training Stability and Performance in Deep Transformers
-- [上下文转 LoRA](../papers/llm.md#charakorn26a-modules) · Doc-to-LoRA: Learning to Instantly Internalize Contexts
-- [MoE 持续学习](../papers/llm.md#chen26aw-modules) · Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers
-- [线性投影后的局部归一化](../papers/llm.md#chen26dj-modules) · SimpleGPT: Improving GPT via A Simple Normalization Strategy
-- [独立价值空间的桥接词元](../papers/llm.md#chen26dw-modules) · Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance
-- [逐词元全局注意力路由](../papers/llm.md#choudhary26a-modules) · Learning When to Attend: Conditional Memory Access for Long-Context LLMs
-- [连分式因果 token 混合](../papers/llm.md#dhurandhar26a-modules) · CoFrGeNet: Continued Fraction Architectures for Language Generation
-- [基于专家权重谱的免训练路由](../papers/llm.md#do26a-modules) · Eigenvectors of Experts are Training-free Non-collapsing Routers
-- [键相似度预调节注意力](../papers/llm.md#duvvuri26a-modules) · LUCID: Attention with Preconditioned Representations
-- [逐解码步的潜空间经验检索](../papers/llm.md#feng26i-modules) · ExpWeaver: LLM Agents Learn from Experience via Latent RAG
-- [MoE 专家输出的有向图聚合](../papers/llm.md#feng26v-modules) · DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts
-- [Softplus 注意力的两阶段重加权](../papers/llm.md#gao26y-modules) · Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models
-- [稀疏 entmax 的直方图阈值初始化](../papers/llm.md#goncalves26a-modules) · AdaSplash-2: Faster Differentiable Sparse Attention
+- [线性注意力记忆](../conferences/icml-2026/cards/0301-0400.md#bonnet26a-modules) · Learning to Remember, Learn, and Forget in Attention-Based Models
+- [归一化替换](../conferences/icml-2026/cards/0301-0400.md#byun26a-modules) · Bounded Hyperbolic Tangent: A Stable and Efficient Alternative to Pre-Layer Normalization in Large Language Models
+- [深层 Transformer 归一化](../conferences/icml-2026/cards/0401-0500.md#chao26b-modules) · SpanNorm: Reconciling Training Stability and Performance in Deep Transformers
+- [上下文转 LoRA](../conferences/icml-2026/cards/0401-0500.md#charakorn26a-modules) · Doc-to-LoRA: Learning to Instantly Internalize Contexts
+- [MoE 持续学习](../conferences/icml-2026/cards/0501-0600.md#chen26aw-modules) · Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers
+- [线性投影后的局部归一化](../conferences/icml-2026/cards/0501-0600.md#chen26dj-modules) · SimpleGPT: Improving GPT via A Simple Normalization Strategy
+- [独立价值空间的桥接词元](../conferences/icml-2026/cards/0501-0600.md#chen26dw-modules) · Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance
+- [逐词元全局注意力路由](../conferences/icml-2026/cards/0701-0800.md#choudhary26a-modules) · Learning When to Attend: Conditional Memory Access for Long-Context LLMs
+- [连分式因果 token 混合](../conferences/icml-2026/cards/0801-0900.md#dhurandhar26a-modules) · CoFrGeNet: Continued Fraction Architectures for Language Generation
+- [基于专家权重谱的免训练路由](../conferences/icml-2026/cards/0901-1000.md#do26a-modules) · Eigenvectors of Experts are Training-free Non-collapsing Routers
+- [键相似度预调节注意力](../conferences/icml-2026/cards/1001-1100.md#duvvuri26a-modules) · LUCID: Attention with Preconditioned Representations
+- [逐解码步的潜空间经验检索](../conferences/icml-2026/cards/1101-1200.md#feng26i-modules) · ExpWeaver: LLM Agents Learn from Experience via Latent RAG
+- [MoE 专家输出的有向图聚合](../conferences/icml-2026/cards/1101-1200.md#feng26v-modules) · DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts
+- [Softplus 注意力的两阶段重加权](../conferences/icml-2026/cards/1201-1300.md#gao26y-modules) · Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models
+- [稀疏 entmax 的直方图阈值初始化](../conferences/icml-2026/cards/1301-1400.md#goncalves26a-modules) · AdaSplash-2: Faster Differentiable Sparse Attention
+
+<a id="by-computer-vision"></a>
 
 ### 计算机视觉
 
-- [主动视觉分辨率](../papers/computer-vision.md#blauch26a-modules) · FOVI: A biologically-inspired foveated interface for deep vision models
-- [小型视觉 Transformer](../papers/computer-vision.md#candogan26a-modules) · Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers
-- [分层三维语义分割](../papers/computer-vision.md#cao26j-modules) · Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation
-- [轻量视频超分](../papers/computer-vision.md#cao26n-modules) · LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution
-- [结构化图像生成](../papers/computer-vision.md#cao26ab-modules) · StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation
-- [视频超分的小波编码前端](../papers/computer-vision.md#chen26ce-modules) · WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder
-- [ViT 多层注意力探针](../papers/computer-vision.md#ciernik26a-modules) · Attentive Multi-Layer Fusion for Vision Transformers
-- [视觉概念瓶颈的原型证据](../papers/computer-vision.md#colamonaco26a-modules) · Prototype-Grounded Concept Models for Verifiable Concept Alignment
-- [卷积权重与特征的双空间扰动](../papers/computer-vision.md#dhar26a-modules) · Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?
-- [偏振物理先验的透明物体深度](../papers/computer-vision.md#dong26i-modules) · PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors
-- [红外可见光融合的卷积分支折叠](../papers/computer-vision.md#duan26a-modules) · MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization
-- [人体视频的非对称身份注意力](../papers/computer-vision.md#guo26ad-modules) · WildActor: Unconstrained Identity-Preserving Video Generation
-- [超分辨率的跨尺度词元前缀](../papers/computer-vision.md#hadji26a-modules) · Hierarchical Image Tokenization for Multi-Scale Image Super Resolution
-- [视觉特征蒸馏](../papers/computer-vision.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
+- [主动视觉分辨率](../conferences/icml-2026/cards/0201-0300.md#blauch26a-modules) · FOVI: A biologically-inspired foveated interface for deep vision models
+- [小型视觉 Transformer](../conferences/icml-2026/cards/0301-0400.md#candogan26a-modules) · Spatial Priors via Space Filling Curves for Small and Limited Data Vision Transformers
+- [分层三维语义分割](../conferences/icml-2026/cards/0301-0400.md#cao26j-modules) · Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation
+- [轻量视频超分](../conferences/icml-2026/cards/0301-0400.md#cao26n-modules) · LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution
+- [结构化图像生成](../conferences/icml-2026/cards/0401-0500.md#cao26ab-modules) · StructMAR: Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation
+- [视频超分的小波编码前端](../conferences/icml-2026/cards/0501-0600.md#chen26ce-modules) · WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder
+- [ViT 多层注意力探针](../conferences/icml-2026/cards/0701-0800.md#ciernik26a-modules) · Attentive Multi-Layer Fusion for Vision Transformers
+- [视觉概念瓶颈的原型证据](../conferences/icml-2026/cards/0701-0800.md#colamonaco26a-modules) · Prototype-Grounded Concept Models for Verifiable Concept Alignment
+- [卷积权重与特征的双空间扰动](../conferences/icml-2026/cards/0801-0900.md#dhar26a-modules) · Does a Hybrid Space-Aware Randomized Defense Improve Empirical and Certified Adversarial Robustness?
+- [偏振物理先验的透明物体深度](../conferences/icml-2026/cards/0901-1000.md#dong26i-modules) · PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors
+- [红外可见光融合的卷积分支折叠](../conferences/icml-2026/cards/0901-1000.md#duan26a-modules) · MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization
+- [人体视频的非对称身份注意力](../conferences/icml-2026/cards/1401-1500.md#guo26ad-modules) · WildActor: Unconstrained Identity-Preserving Video Generation
+- [超分辨率的跨尺度词元前缀](../conferences/icml-2026/cards/1401-1500.md#hadji26a-modules) · Hierarchical Image Tokenization for Multi-Scale Image Super Resolution
+- <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
+
+<a id="by-nlp"></a>
 
 ### 自然语言处理
 
-- [Agent 词表适配](../papers/nlp.md#bian26c-modules) · AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents
+- [Agent 词表适配](../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents
+
+<a id="by-robotics"></a>
 
 ### 机器人学
 
-- [视觉动作策略的连续网格采样](../papers/robotics.md#feng26x-modules) · See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model
-- [视觉动作模型的通道相关门控](../papers/robotics.md#fu26x-modules) · StableVLA: Towards Robust Vision-Language-Action Models without Extra Data
-- [精密操作的点云傅里叶编码](../papers/robotics.md#gyenes26a-modules) · Fourier Features Let Agents Learn High Precision Policies with Imitation Learning
-- [指令前缀](../papers/robotics.md#reconvla-modules) · ReconVLA
+- [视觉动作策略的连续网格采样](../conferences/icml-2026/cards/1101-1200.md#feng26x-modules) · See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model
+- [视觉动作模型的通道相关门控](../conferences/icml-2026/cards/1101-1200.md#fu26x-modules) · StableVLA: Towards Robust Vision-Language-Action Models without Extra Data
+- [精密操作的点云傅里叶编码](../conferences/icml-2026/cards/1401-1500.md#gyenes26a-modules) · Fourier Features Let Agents Learn High Precision Policies with Imitation Learning
+- <a id="instruction-prefixes-for-causal-visual-grounding"></a><a id="multimodal-token-layout"></a>[用指令前缀让视觉表征感知任务](../papers/reconvla.md#reconvla-modules) · ReconVLA
+
+<a id="by-multimodal"></a>
 
 ### 多模态学习
 
-- [细粒度视觉定位](../papers/multimodal.md#barrios26a-modules) · MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs
-- [非对称 RGB-D 特征融合](../papers/multimodal.md#chen26ch-modules) · Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance
-- [缺失模态的结构化提示](../papers/multimodal.md#chen26dv-modules) · SPR: A Structured Prompt Refinement Network for Modality Missing
-- [音视频非对称 token 压缩](../papers/multimodal.md#ding26e-modules) · OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
-- [视听稀疏采样的 RoPE 抗混叠](../papers/multimodal.md#gong26g-modules) · EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs
-- [用位置编码绑定人物与音色](../papers/multimodal.md#guo26af-modules) · DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation
+- [细粒度视觉定位](../conferences/icml-2026/cards/0201-0300.md#barrios26a-modules) · MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs
+- [非对称 RGB-D 特征融合](../conferences/icml-2026/cards/0501-0600.md#chen26ch-modules) · Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance
+- [缺失模态的结构化提示](../conferences/icml-2026/cards/0501-0600.md#chen26dv-modules) · SPR: A Structured Prompt Refinement Network for Modality Missing
+- [音视频非对称 token 压缩](../conferences/icml-2026/cards/0901-1000.md#ding26e-modules) · OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
+- [视听稀疏采样的 RoPE 抗混叠](../conferences/icml-2026/cards/1301-1400.md#gong26g-modules) · EchoingPixels: Aliasing-Resistant Joint Token Reduction for Audio-Visual LLMs
+- [用位置编码绑定人物与音色](../conferences/icml-2026/cards/1401-1500.md#guo26af-modules) · DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation
+
+<a id="by-ml-foundations"></a>
 
 ### 机器学习基础与统计
 
-- [注意力参数化](../papers/ml-foundations.md#bae26d-modules) · Affine-Scaled Attention: Towards Flexible and Stable Transformer Attention
-- [克罗内克适配器](../papers/ml-foundations.md#bai26l-modules) · Diving into Kronecker Adapters: Component Design Matters
-- [稠密模型转 MoE](../papers/ml-foundations.md#bamba26a-modules) · DOT-MoE: Differentiable Optimal Transport for MoEfication
-- [连续深度模型](../papers/ml-foundations.md#banerjee26b-modules) · Efficient Continuous-Depth Modeling with GRU Equivalents
-- [循环模型长程记忆](../papers/ml-foundations.md#behrouz26a-modules) · Memory Caching: RNNs with Growing Memory
-- [测试时记忆更新](../papers/ml-foundations.md#behrouz26b-modules) · ATLAS: Learning to Optimally Memorize the Context at Test Time
-- [时间序列预测](../papers/ml-foundations.md#brachet26a-modules) · Time Series Forecasting Through the Lens of Dynamics
-- [低功耗循环网络](../papers/ml-foundations.md#brandoit26a-modules) · Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications
-- [多实例部分标签](../papers/ml-foundations.md#cao26af-modules) · Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product
-- [自监督投影头](../papers/ml-foundations.md#chaudhry26a-modules) · The Geometry of Projection Heads: Conditioning, Invariance, and Collapse
-- [相关矩阵流形全连接层](../papers/ml-foundations.md#chen26fb-modules) · Riemannian Networks over Full-Rank Correlation Matrices
-- [时间序列的后续轨迹检索](../papers/ml-foundations.md#chong26c-modules) · Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting
-- [无需旧样本的持续学习适配器](../papers/ml-foundations.md#cosentino26a-modules) · PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning
-- [词元与专家的联合稀疏路由](../papers/ml-foundations.md#do26b-modules) · Rethinking Sparse Mixture of Experts from a Unified Perspective
-- [GPU 友好的块置换随机投影](../papers/ml-foundations.md#dwaraknath26a-modules) · FlashSketch: Sketch-Kernel Co-Design for Fast Sparse Sketching on GPUs
-- [可微的逐样本特征选择](../papers/ml-foundations.md#ellinson26a-modules) · Hide&Seek: Learning to Explain in an End-to-End Differentiable Network
-- [局部坐标对齐的向量丛注意力](../papers/ml-foundations.md#fang26q-modules) · VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning
-- [跨数据集时序谱结构对齐](../papers/ml-foundations.md#fei26b-modules) · Olivia: Harmonizing Time Series Foundation Models with Power Spectral Density
-- [时序分类的定长词元生成](../papers/ml-foundations.md#feofanov26a-modules) · Mantis: Lightweight Foundation Model for Time Series Classification
-- [显著性变速的多项式记忆](../papers/ml-foundations.md#goffinet26a-modules) · HiPPO Zoo: Explicit Memory Mechanisms for Interpretable State Space Models
-- [位置与内容分离的极坐标编码](../papers/ml-foundations.md#gopalakrishnan26a-modules) · Decoupling The "What" and "Where" With Polar Coordinate Positional Embedding
-- [时序预测的可变长模式词元](../papers/ml-foundations.md#gotz26a-modules) · Byte Pair Encoding for Efficient Time Series Forecasting
-- [ANN 到 SNN 的递推时序编码](../papers/ml-foundations.md#gu26d-modules) · Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion
-- [高维表格的相关特征分组压缩](../papers/ml-foundations.md#habib26a-modules) · GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data
+- [注意力参数化](../conferences/icml-2026/cards/0101-0200.md#bae26d-modules) · Affine-Scaled Attention: Towards Flexible and Stable Transformer Attention
+- [克罗内克适配器](../conferences/icml-2026/cards/0101-0200.md#bai26l-modules) · Diving into Kronecker Adapters: Component Design Matters
+- [稠密模型转 MoE](../conferences/icml-2026/cards/0201-0300.md#bamba26a-modules) · DOT-MoE: Differentiable Optimal Transport for MoEfication
+- [连续深度模型](../conferences/icml-2026/cards/0201-0300.md#banerjee26b-modules) · Efficient Continuous-Depth Modeling with GRU Equivalents
+- [循环模型长程记忆](../conferences/icml-2026/cards/0201-0300.md#behrouz26a-modules) · Memory Caching: RNNs with Growing Memory
+- [测试时记忆更新](../conferences/icml-2026/cards/0201-0300.md#behrouz26b-modules) · ATLAS: Learning to Optimally Memorize the Context at Test Time
+- [时间序列预测](../conferences/icml-2026/cards/0301-0400.md#brachet26a-modules) · Time Series Forecasting Through the Lens of Dynamics
+- [低功耗循环网络](../conferences/icml-2026/cards/0301-0400.md#brandoit26a-modules) · Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications
+- [多实例部分标签](../conferences/icml-2026/cards/0401-0500.md#cao26af-modules) · Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product
+- [自监督投影头](../conferences/icml-2026/cards/0401-0500.md#chaudhry26a-modules) · The Geometry of Projection Heads: Conditioning, Invariance, and Collapse
+- [相关矩阵流形全连接层](../conferences/icml-2026/cards/0601-0700.md#chen26fb-modules) · Riemannian Networks over Full-Rank Correlation Matrices
+- [时间序列的后续轨迹检索](../conferences/icml-2026/cards/0701-0800.md#chong26c-modules) · Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting
+- [无需旧样本的持续学习适配器](../conferences/icml-2026/cards/0701-0800.md#cosentino26a-modules) · PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning
+- [词元与专家的联合稀疏路由](../conferences/icml-2026/cards/0901-1000.md#do26b-modules) · Rethinking Sparse Mixture of Experts from a Unified Perspective
+- [GPU 友好的块置换随机投影](../conferences/icml-2026/cards/1001-1100.md#dwaraknath26a-modules) · FlashSketch: Sketch-Kernel Co-Design for Fast Sparse Sketching on GPUs
+- [可微的逐样本特征选择](../conferences/icml-2026/cards/1001-1100.md#ellinson26a-modules) · Hide&Seek: Learning to Explain in an End-to-End Differentiable Network
+- [局部坐标对齐的向量丛注意力](../conferences/icml-2026/cards/1001-1100.md#fang26q-modules) · VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning
+- [跨数据集时序谱结构对齐](../conferences/icml-2026/cards/1001-1100.md#fei26b-modules) · Olivia: Harmonizing Time Series Foundation Models with Power Spectral Density
+- [时序分类的定长词元生成](../conferences/icml-2026/cards/1101-1200.md#feofanov26a-modules) · Mantis: Lightweight Foundation Model for Time Series Classification
+- [显著性变速的多项式记忆](../conferences/icml-2026/cards/1201-1300.md#goffinet26a-modules) · HiPPO Zoo: Explicit Memory Mechanisms for Interpretable State Space Models
+- [位置与内容分离的极坐标编码](../conferences/icml-2026/cards/1301-1400.md#gopalakrishnan26a-modules) · Decoupling The "What" and "Where" With Polar Coordinate Positional Embedding
+- [时序预测的可变长模式词元](../conferences/icml-2026/cards/1301-1400.md#gotz26a-modules) · Byte Pair Encoding for Efficient Time Series Forecasting
+- [ANN 到 SNN 的递推时序编码](../conferences/icml-2026/cards/1301-1400.md#gu26d-modules) · Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion
+- [高维表格的相关特征分组压缩](../conferences/icml-2026/cards/1401-1500.md#habib26a-modules) · GOTabPFN: From Feature Ordering to Compact Tokenization for Tabular Foundation Models on High-Dimensional Data
+
+<a id="by-graph-and-recommendation"></a>
 
 ### 图学习与推荐
 
-- [图卷积](../papers/graph-and-recommendation.md#bai26i-modules) · GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification
-- [图神经网络表达力](../papers/graph-and-recommendation.md#barcelo26a-modules) · Message Passing on the Edge: Towards Scalable and Expressive GNNs
-- [兼顾图拓扑与因果顺序的注意力](../papers/graph-and-recommendation.md#chen26gm-modules) · Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs
-- [异配图消息的自成分消除](../papers/graph-and-recommendation.md#choi26d-modules) · Gauge-Equivariant Graph Networks via Self-Interference Cancellation
-- [有向带属性图的酉卷积](../papers/graph-and-recommendation.md#fesser26b-modules) · Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs
+- [图卷积](../conferences/icml-2026/cards/0101-0200.md#bai26i-modules) · GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification
+- [图神经网络表达力](../conferences/icml-2026/cards/0201-0300.md#barcelo26a-modules) · Message Passing on the Edge: Towards Scalable and Expressive GNNs
+- [兼顾图拓扑与因果顺序的注意力](../conferences/icml-2026/cards/0601-0700.md#chen26gm-modules) · Weaving Graph over Tokens: Contextualizing Structured Sequences for LLMs
+- [异配图消息的自成分消除](../conferences/icml-2026/cards/0701-0800.md#choi26d-modules) · Gauge-Equivariant Graph Networks via Self-Interference Cancellation
+- [有向带属性图的酉卷积](../conferences/icml-2026/cards/1101-1200.md#fesser26b-modules) · Unitary Convolutions for Message-passing and Positional Encodings on Directed Graphs
+
+<a id="by-scientific-ml"></a>
 
 ### 科学机器学习
 
-- [网格动力学平滑](../papers/scientific-ml.md#berman26d-modules) · Smoothness Errors in Dynamics Models and How to Avoid Them
-- [医学视觉定位](../papers/scientific-ml.md#chang26b-modules) · MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models
-- [口袋与配体双向融合](../papers/scientific-ml.md#chen26bw-modules) · TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion
-- [脑电信号的复数频谱细化](../papers/scientific-ml.md#chen26fr-modules) · PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding
-- [原子间势的自适应贝叶斯失活](../papers/scientific-ml.md#coscia26a-modules) · BLIPs: Bayesian Learned Interatomic Potentials
-- [用虚拟三跳路径编码蛋白交互先验](../papers/scientific-ml.md#gao26ap-modules) · Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach
+- [网格动力学平滑](../conferences/icml-2026/cards/0201-0300.md#berman26d-modules) · Smoothness Errors in Dynamics Models and How to Avoid Them
+- [医学视觉定位](../conferences/icml-2026/cards/0401-0500.md#chang26b-modules) · MedSIGHT: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models
+- [口袋与配体双向融合](../conferences/icml-2026/cards/0501-0600.md#chen26bw-modules) · TSMGen: Target-Specific Molecule Generation via Higher-Order Structural Dependencies and Context-Aware Bidirectional Fusion
+- [脑电信号的复数频谱细化](../conferences/icml-2026/cards/0601-0700.md#chen26fr-modules) · PCRNet: Phase-aware Complex Refinement Network for EEG-based Auditory Attention Decoding
+- [原子间势的自适应贝叶斯失活](../conferences/icml-2026/cards/0701-0800.md#coscia26a-modules) · BLIPs: Bayesian Learned Interatomic Potentials
+- [用虚拟三跳路径编码蛋白交互先验](../conferences/icml-2026/cards/1201-1300.md#gao26ap-modules) · Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach
 <!-- classification:end -->

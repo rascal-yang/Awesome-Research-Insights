@@ -4,191 +4,182 @@
 
 奖励、探索、信用分配与策略改进。
 
-## 多奖励优势估计
-
-<a id="normalize-each-reward-before-aggregation"></a>
-
-### 多奖励先分别归一化再聚合
-
-**来源**
-
-[GDPO](https://proceedings.mlr.press/v306/liu26aa.html) (Shih-Yang Liu 等, ICML 2026) · [§3.1、式 4–6](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=4) · [§4.1、表 1](https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26aa/liu26aa.pdf#page=5) · [论文索引](../papers/reinforcement-learning.md#group-relative-policy-optimization) · [论文卡](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
-
-**核心思路**
-
-计算 GRPO 优势时，先比较同组轨迹在每项奖励上的得分，再聚合各项优势。
-
-**实现机制**
-
-同一输入采样一组 rollout，分别对每个奖励分量做组内中心化和标准差归一化。把各分量优势相加，再对整个训练批次做一次归一化，把结果用于策略更新。论文也讨论了如何在聚合时对各项优势赋权。
-
-**设计动机**
-
-先合并奖励再做组内归一化，不同的奖励组合可能得到相同的优势，例如成功与格式合规互相抵消时。分项处理可以保留更多有区别的更新信号。
-
-**潜在应用**
-
-- **论文证据** · BFCL-v3 上，Qwen2.5-Instruct-1.5B 的五次运行平均工具调用准确率由 GRPO 的 30.18% 提升到 32.81%，格式正确率由 76.33% 到 80.66%（表 1）。
-- **迁移设想** · 可以在同一初始场景的多条机器人 rollout 上分别比较成功、进度和约束奖励。前提是组内奖励可比且有变化。某个奖励在整组里都相同时，归一化无法为该项创造区分信号。真机效果待验证。
-
 <!-- classification:start -->
 ## 按研究领域浏览
 
+[大语言模型](#by-llm) · [计算机视觉](#by-computer-vision) · [自然语言处理](#by-nlp) · [强化学习](#by-reinforcement-learning) · [机器人学](#by-robotics) · [多模态学习](#by-multimodal) · [图学习与推荐](#by-graph-and-recommendation) · [科学机器学习](#by-scientific-ml)
+
+<a id="by-llm"></a>
+
 ### 大语言模型
 
-- [奖励优化](../papers/llm.md#ackermann26a-reinforcement-learning) · Gradient Regularization Mitigates Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards
-- [Agent 后训练](../papers/llm.md#agarwal26e-reinforcement-learning) · Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use
-- [多目标偏好优化](../papers/llm.md#agnihotri26a-reinforcement-learning) · Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models
-- [LLM 强化学习](../papers/llm.md#arnal26a-reinforcement-learning) · Efficient RL Training for LLMs with Experience Replay
-- [测试时推理](../papers/llm.md#baek26a-reinforcement-learning) · D-FUSEr: Diverse Failure, Unified Success via Error-Distribution Shaping in LLM Reasoning
-- [异步强化学习](../papers/llm.md#bai26k-reinforcement-learning) · D-ARL: A Distribution-Matched Asynchronous Reinforcement Learning Framework for Language Reasoning
-- [生成安全对齐](../papers/llm.md#ball26b-reinforcement-learning) · Don’t Walk the Line: Boundary Guidance for Filtered Generation
-- [GRPO 探索](../papers/llm.md#bamba26b-reinforcement-learning) · XRPO: Pushing the Limits of GRPO with Targeted Exploration and Exploitation
-- [可验证奖励强化学习](../papers/llm.md#bi26a-reinforcement-learning) · EchoRL: Reinforcement Learning via Rollout Echoing
-- [多领域推理强化学习](../papers/llm.md#bi26c-reinforcement-learning) · Reward and Guidance through Rubrics: Promoting Exploration to Improve Multi-Domain Reasoning
-- [Agent 测试时记忆](../papers/llm.md#cai26b-reinforcement-learning) · From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory
-- [策略更新几何](../papers/llm.md#cai26c-reinforcement-learning) · Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization
-- [示范驱动的逆强化学习](../papers/llm.md#cai26k-reinforcement-learning) · Escaping the Verifier: Learning to Reason via Demonstrations
-- [形式逻辑过程奖励](../papers/llm.md#cao26y-reinforcement-learning) · Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models
-- [跨语言代码强化学习](../papers/llm.md#chai26c-reinforcement-learning) · GXPO: Group Cross-Lingual Relative Policy Optimization for Code Generation
-- [事实性二元奖励](../papers/llm.md#chen26a-reinforcement-learning) · Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations
-- [无监督强化学习分布匹配](../papers/llm.md#chen26k-reinforcement-learning) · PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching
-- [语言模型状态价值估计](../papers/llm.md#chen26w-reinforcement-learning) · Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning
-- [长回答事实性奖励](../papers/llm.md#chen26bh-reinforcement-learning) · Learning to Reason for Factuality
-- [生成式数值回归的奖励与蒸馏](../papers/llm.md#chen26ec-reinforcement-learning) · Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning
-- [生成与自验证交替训练](../papers/llm.md#chen26es-reinforcement-learning) · Learning to Self-Verify Makes Language Models Better Reasoners
-- [领域强化学习中的教师退出](../papers/llm.md#chen26fi-reinforcement-learning) · OnePO: Direct One-stage Policy Optimization for SFT-free Domain Adaptation
-- [动态检索规划与执行联合训练](../papers/llm.md#chen26gh-reinforcement-learning) · JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG
-- [多智能体检索的角色信用分配](../papers/llm.md#chen26gp-reinforcement-learning) · DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning
-- [智能体轨迹的图信用分配](../papers/llm.md#cheng26e-reinforcement-learning) · Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning
-- [代码修复的锚定自博弈](../papers/llm.md#choi26f-reinforcement-learning) · Anchored Self-Play for Code Repair
-- [按问答效果训练上下文压缩](../papers/llm.md#cui26i-reinforcement-learning) · Less Is More: Elevating RAG via Performance-Driven Context Compression
-- [端到端词元边界学习](../papers/llm.md#dauncey26a-reinforcement-learning) · You Can Learn Tokenization End-to-End with Reinforcement Learning
-- [搜索智能体的动作似然保护](../papers/llm.md#deng26k-reinforcement-learning) · On Group Relative Policy Optimization Collapse in Agent Search: The Lazy Likelihood-Displacement
-- [以真实目标的似然增益奖励澄清](../papers/llm.md#deng26l-reinforcement-learning) · Uncertainty-Aware Clarification in LLM Agents with Information Gain
-- [序列锚定的 token 策略更新](../papers/llm.md#ding26i-reinforcement-learning) · TGPO: Efficient Policy Optimization through Sequence Anchor and Information Gating
-- [面向答案的信息流信用分配](../papers/llm.md#dong26f-reinforcement-learning) · How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs
-- [高层计划引导逐步推理](../papers/llm.md#dou26c-reinforcement-learning) · Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning
-- [贝叶斯非负因子奖励建模](../papers/llm.md#duan26c-reinforcement-learning) · Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling
-- [端云推理的自主求助奖励](../papers/llm.md#fang26d-reinforcement-learning) · Bridging On-Device and Cloud LLMs for Collaborative Reasoning: A Unified Methodology for Local Routing and Post-Training
-- [示例编程的推理步骤奖励](../papers/llm.md#fang26j-reinforcement-learning) · PRM-PBE: Process Reward Model for Reinforcement Learning in Programming-by-Example
-- [并行智能体共享记忆的写入控制](../papers/llm.md#fioresi26a-reinforcement-learning) · Learning to Share: Selective Memory for Efficient Parallel Agentic Systems
-- [按正确性分开平滑推理轨迹](../papers/llm.md#gai26a-reinforcement-learning) · Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning
-- [正确与错误轨迹驱动的熵调度](../papers/llm.md#gai26b-reinforcement-learning) · Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling
-- [由终局标签学习前缀价值](../papers/llm.md#gao26f-reinforcement-learning) · Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization
-- [客服多轮决策的成本优势估计](../papers/llm.md#gao26aj-reinforcement-learning) · Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue
-- [从论文提取研究计划的评分奖励](../papers/llm.md#goel26b-reinforcement-learning) · Training AI Co-Scientists Using Rubric Rewards
-- [黑盒提示优化的模仿到探索课程](../papers/llm.md#gong26d-reinforcement-learning) · Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models
-- [按搜索成本训练选择性求助](../papers/llm.md#gul26a-reinforcement-learning) · MASH: Modeling Abstention via Selective Help-Seeking
-- [在线强化学习的多语言采样路由](../papers/llm.md#guo26v-reinforcement-learning) · Learning to Route Languages for Multilingual Policy Optimization
-- [代码水印的位置与词表策略](../papers/llm.md#guo26am-reinforcement-learning) · Adaptive Code Watermarking Through Reinforcement Learning
-- [用 L1 约束语言模型策略改变量](../papers/llm.md#han26r-reinforcement-learning) · MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints
+- [奖励优化](../conferences/icml-2026/cards/0001-0100.md#ackermann26a-reinforcement-learning) · Gradient Regularization Mitigates Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards
+- [Agent 后训练](../conferences/icml-2026/cards/0001-0100.md#agarwal26e-reinforcement-learning) · Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use
+- [多目标偏好优化](../conferences/icml-2026/cards/0001-0100.md#agnihotri26a-reinforcement-learning) · Multi-Objective Preference Optimization: Improving Human Alignment of Generative Models
+- [LLM 强化学习](../conferences/icml-2026/cards/0101-0200.md#arnal26a-reinforcement-learning) · Efficient RL Training for LLMs with Experience Replay
+- [测试时推理](../conferences/icml-2026/cards/0101-0200.md#baek26a-reinforcement-learning) · D-FUSEr: Diverse Failure, Unified Success via Error-Distribution Shaping in LLM Reasoning
+- [异步强化学习](../conferences/icml-2026/cards/0101-0200.md#bai26k-reinforcement-learning) · D-ARL: A Distribution-Matched Asynchronous Reinforcement Learning Framework for Language Reasoning
+- [生成安全对齐](../conferences/icml-2026/cards/0201-0300.md#ball26b-reinforcement-learning) · Don’t Walk the Line: Boundary Guidance for Filtered Generation
+- [GRPO 探索](../conferences/icml-2026/cards/0201-0300.md#bamba26b-reinforcement-learning) · XRPO: Pushing the Limits of GRPO with Targeted Exploration and Exploitation
+- [可验证奖励强化学习](../conferences/icml-2026/cards/0201-0300.md#bi26a-reinforcement-learning) · EchoRL: Reinforcement Learning via Rollout Echoing
+- [多领域推理强化学习](../conferences/icml-2026/cards/0201-0300.md#bi26c-reinforcement-learning) · Reward and Guidance through Rubrics: Promoting Exploration to Improve Multi-Domain Reasoning
+- [Agent 测试时记忆](../conferences/icml-2026/cards/0301-0400.md#cai26b-reinforcement-learning) · From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory
+- [策略更新几何](../conferences/icml-2026/cards/0301-0400.md#cai26c-reinforcement-learning) · Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization
+- [示范驱动的逆强化学习](../conferences/icml-2026/cards/0301-0400.md#cai26k-reinforcement-learning) · Escaping the Verifier: Learning to Reason via Demonstrations
+- [形式逻辑过程奖励](../conferences/icml-2026/cards/0401-0500.md#cao26y-reinforcement-learning) · Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models
+- [跨语言代码强化学习](../conferences/icml-2026/cards/0401-0500.md#chai26c-reinforcement-learning) · GXPO: Group Cross-Lingual Relative Policy Optimization for Code Generation
+- [事实性二元奖励](../conferences/icml-2026/cards/0401-0500.md#chen26a-reinforcement-learning) · Train for Truth, Keep the Skills: Binary Retrieval-Augmented Reward Mitigates Hallucinations
+- [无监督强化学习分布匹配](../conferences/icml-2026/cards/0401-0500.md#chen26k-reinforcement-learning) · PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching
+- [语言模型状态价值估计](../conferences/icml-2026/cards/0401-0500.md#chen26w-reinforcement-learning) · Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning
+- [长回答事实性奖励](../conferences/icml-2026/cards/0501-0600.md#chen26bh-reinforcement-learning) · Learning to Reason for Factuality
+- [生成式数值回归的奖励与蒸馏](../conferences/icml-2026/cards/0501-0600.md#chen26ec-reinforcement-learning) · Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning
+- [生成与自验证交替训练](../conferences/icml-2026/cards/0601-0700.md#chen26es-reinforcement-learning) · Learning to Self-Verify Makes Language Models Better Reasoners
+- [领域强化学习中的教师退出](../conferences/icml-2026/cards/0601-0700.md#chen26fi-reinforcement-learning) · OnePO: Direct One-stage Policy Optimization for SFT-free Domain Adaptation
+- [动态检索规划与执行联合训练](../conferences/icml-2026/cards/0601-0700.md#chen26gh-reinforcement-learning) · JADE: Bridging the Strategic-Operational Gap in Dynamic Agentic RAG
+- [多智能体检索的角色信用分配](../conferences/icml-2026/cards/0601-0700.md#chen26gp-reinforcement-learning) · DECOR: Learning to Decompose and Collaborate in Deep Search via Multi-Agent Reinforcement Learning
+- [智能体轨迹的图信用分配](../conferences/icml-2026/cards/0601-0700.md#cheng26e-reinforcement-learning) · Beyond Trajectory-Level Attribution: Graph-Based Credit Assignment for Agentic Reinforcement Learning
+- [代码修复的锚定自博弈](../conferences/icml-2026/cards/0701-0800.md#choi26f-reinforcement-learning) · Anchored Self-Play for Code Repair
+- [按问答效果训练上下文压缩](../conferences/icml-2026/cards/0801-0900.md#cui26i-reinforcement-learning) · Less Is More: Elevating RAG via Performance-Driven Context Compression
+- [端到端词元边界学习](../conferences/icml-2026/cards/0801-0900.md#dauncey26a-reinforcement-learning) · You Can Learn Tokenization End-to-End with Reinforcement Learning
+- [搜索智能体的动作似然保护](../conferences/icml-2026/cards/0801-0900.md#deng26k-reinforcement-learning) · On Group Relative Policy Optimization Collapse in Agent Search: The Lazy Likelihood-Displacement
+- [以真实目标的似然增益奖励澄清](../conferences/icml-2026/cards/0801-0900.md#deng26l-reinforcement-learning) · Uncertainty-Aware Clarification in LLM Agents with Information Gain
+- [序列锚定的 token 策略更新](../conferences/icml-2026/cards/0901-1000.md#ding26i-reinforcement-learning) · TGPO: Efficient Policy Optimization through Sequence Anchor and Information Gating
+- [面向答案的信息流信用分配](../conferences/icml-2026/cards/0901-1000.md#dong26f-reinforcement-learning) · How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs
+- [高层计划引导逐步推理](../conferences/icml-2026/cards/0901-1000.md#dou26c-reinforcement-learning) · Plan Then Action: High-Level Planning Guidance Reinforcement Learning for LLM Reasoning
+- [贝叶斯非负因子奖励建模](../conferences/icml-2026/cards/0901-1000.md#duan26c-reinforcement-learning) · Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling
+- [端云推理的自主求助奖励](../conferences/icml-2026/cards/1001-1100.md#fang26d-reinforcement-learning) · Bridging On-Device and Cloud LLMs for Collaborative Reasoning: A Unified Methodology for Local Routing and Post-Training
+- [示例编程的推理步骤奖励](../conferences/icml-2026/cards/1001-1100.md#fang26j-reinforcement-learning) · PRM-PBE: Process Reward Model for Reinforcement Learning in Programming-by-Example
+- [并行智能体共享记忆的写入控制](../conferences/icml-2026/cards/1101-1200.md#fioresi26a-reinforcement-learning) · Learning to Share: Selective Memory for Efficient Parallel Agentic Systems
+- [按正确性分开平滑推理轨迹](../conferences/icml-2026/cards/1101-1200.md#gai26a-reinforcement-learning) · Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning
+- [正确与错误轨迹驱动的熵调度](../conferences/icml-2026/cards/1101-1200.md#gai26b-reinforcement-learning) · Demystifying Entropy Control in LLM RL Training: Theoretical Analysis and Dynamic Scheduling
+- [由终局标签学习前缀价值](../conferences/icml-2026/cards/1201-1300.md#gao26f-reinforcement-learning) · Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization
+- [客服多轮决策的成本优势估计](../conferences/icml-2026/cards/1201-1300.md#gao26aj-reinforcement-learning) · Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue
+- [从论文提取研究计划的评分奖励](../conferences/icml-2026/cards/1201-1300.md#goel26b-reinforcement-learning) · Training AI Co-Scientists Using Rubric Rewards
+- [黑盒提示优化的模仿到探索课程](../conferences/icml-2026/cards/1301-1400.md#gong26d-reinforcement-learning) · Curriculum Reinforcement Learning for Black-Box Prompt Tuning via Large Language Models
+- [按搜索成本训练选择性求助](../conferences/icml-2026/cards/1301-1400.md#gul26a-reinforcement-learning) · MASH: Modeling Abstention via Selective Help-Seeking
+- [在线强化学习的多语言采样路由](../conferences/icml-2026/cards/1301-1400.md#guo26v-reinforcement-learning) · Learning to Route Languages for Multilingual Policy Optimization
+- [代码水印的位置与词表策略](../conferences/icml-2026/cards/1401-1500.md#guo26am-reinforcement-learning) · Adaptive Code Watermarking Through Reinforcement Learning
+- [用 L1 约束语言模型策略改变量](../conferences/icml-2026/cards/1401-1500.md#han26r-reinforcement-learning) · MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints
+
+<a id="by-computer-vision"></a>
 
 ### 计算机视觉
 
-- [多奖励生成优化](../papers/computer-vision.md#ba26a-reinforcement-learning) · Pareto-Guided Optimal Transport for Multi-Reward Alignment
-- [流匹配测试时优化](../papers/computer-vision.md#chen26as-reinforcement-learning) · Test-Time Reinforcement Learning for Flow Matching
-- [目标跟踪定位策略](../papers/computer-vision.md#chen26ea-reinforcement-learning) · RELO: Reinforcement Learning to Localize for Visual Object Tracking
-- [扩散强化学习的样本似然估计](../papers/computer-vision.md#choi26o-reinforcement-learning) · Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design
-- [显著物体排序的多轨迹奖励](../papers/computer-vision.md#guo26h-reinforcement-learning) · Probabilistic Salient Object Ranking
-- [扩散模型的局部文本概念擦除](../papers/computer-vision.md#han26o-reinforcement-learning) · ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models
+- [多奖励生成优化](../conferences/icml-2026/cards/0101-0200.md#ba26a-reinforcement-learning) · Pareto-Guided Optimal Transport for Multi-Reward Alignment
+- [流匹配测试时优化](../conferences/icml-2026/cards/0501-0600.md#chen26as-reinforcement-learning) · Test-Time Reinforcement Learning for Flow Matching
+- [目标跟踪定位策略](../conferences/icml-2026/cards/0501-0600.md#chen26ea-reinforcement-learning) · RELO: Reinforcement Learning to Localize for Visual Object Tracking
+- [扩散强化学习的样本似然估计](../conferences/icml-2026/cards/0701-0800.md#choi26o-reinforcement-learning) · Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design
+- [显著物体排序的多轨迹奖励](../conferences/icml-2026/cards/1301-1400.md#guo26h-reinforcement-learning) · Probabilistic Salient Object Ranking
+- [扩散模型的局部文本概念擦除](../conferences/icml-2026/cards/1401-1500.md#han26o-reinforcement-learning) · ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models
+
+<a id="by-nlp"></a>
 
 ### 自然语言处理
 
-- [多跳事实核查](../papers/nlp.md#bu26e-reinforcement-learning) · Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization
+- [多跳事实核查](../conferences/icml-2026/cards/0301-0400.md#bu26e-reinforcement-learning) · Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization
+
+<a id="by-reinforcement-learning"></a>
 
 ### 强化学习
 
-- [价值函数学习](../papers/reinforcement-learning.md#agrawalla26a-reinforcement-learning) · What Does Flow-Matching Bring to TD-Learning?
-- [分布强化学习](../papers/reinforcement-learning.md#akgul26a-reinforcement-learning) · Distributional Active Inference
-- [多来源在线学习](../papers/reinforcement-learning.md#anand26a-reinforcement-learning) · Data-Source Adaptive Online Learning under Heteroscedastic Noise
-- [离策略学习](../papers/reinforcement-learning.md#aouali26a-reinforcement-learning) · Off-Policy Learning in Large Action Spaces: Optimization Matters More Than Estimation
-- [零样本离策略学习](../papers/reinforcement-learning.md#asadulaev26b-reinforcement-learning) · Zero-Shot Off-Policy Learning
-- [长任务信用分配](../papers/reinforcement-learning.md#auzina26a-reinforcement-learning) · Intrinsic Credit Assignment for Long Horizon Interaction
-- [神经逻辑老虎机](../papers/reinforcement-learning.md#bae26a-reinforcement-learning) · Neural Logistic Bandits
-- [多智能体通信](../papers/reinforcement-learning.md#bae26c-reinforcement-learning) · LLM-Guided Communication for Cooperative Multi-Agent Reinforcement Learning
-- [目标条件测试时 RL](../papers/reinforcement-learning.md#bagatella26a-reinforcement-learning) · Test-time Offline Reinforcement Learning on Goal-related Experience
-- [部署反馈下的强化学习](../papers/reinforcement-learning.md#basu26a-reinforcement-learning) · Performative Policy Gradient: Optimality in Performative Reinforcement Learning
-- [多反馈奖励学习](../papers/reinforcement-learning.md#baur26a-reinforcement-learning) · MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference
-- [安全策略优化](../papers/reinforcement-learning.md#belouadah26a-reinforcement-learning) · CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning
-- [低数据模仿学习](../papers/reinforcement-learning.md#blonde26a-reinforcement-learning) · Noise-Guided Transport: Imitation Learning from Random Priors
-- [因果元强化学习](../papers/reinforcement-learning.md#bo26c-reinforcement-learning) · Counterfactual Bootstrap for Robust Meta-Reinforcement Learning
-- [离线到在线强化学习](../papers/reinforcement-learning.md#bui26a-reinforcement-learning) · Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning
-- [流匹配策略优化](../papers/reinforcement-learning.md#cao26f-reinforcement-learning) · Direct Flow Q-Learning
-- [重尾损失下的占用度量更新](../papers/reinforcement-learning.md#chen26cc-reinforcement-learning) · Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes
-- [次模团队奖励的贪心策略](../papers/reinforcement-learning.md#chen26dk-reinforcement-learning) · Multi-Agent Reinforcement Learning with Submodular Reward
-- [离线强化学习的对抗动力学适配](../papers/reinforcement-learning.md#chen26fl-reinforcement-learning) · Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning
-- [价值一致性约束的离线世界模型](../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) · VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning
-- [增广拉格朗日引导安全动作去噪](../papers/reinforcement-learning.md#cheng26q-reinforcement-learning) · How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?
-- [对抗 MDP 的混合反馈遗憾控制](../papers/reinforcement-learning.md#cheng26s-reinforcement-learning) · Hybrid Reinforcement Learning in Adversarial Markov Decision Processes
-- [部分可观测双线性老虎机](../papers/reinforcement-learning.md#cho26f-reinforcement-learning) · Bilinear Bandits with Partially Observable Features
-- [离线策略的潜子目标链](../papers/reinforcement-learning.md#choi26k-reinforcement-learning) · Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL
-- [去中心化 Q 值的不确定性聚合](../papers/reinforcement-learning.md#chu26a-reinforcement-learning) · Value Aggregation with Uncertainty in Online Decentralized MARL
-- [持续漂移下的多时间尺度巩固](../papers/reinforcement-learning.md#chua26a-reinforcement-learning) · Balancing Plasticity and Stability with Fast and Slow Successor Features
-- [任意步长的离线强化学习模型](../papers/reinforcement-learning.md#chung26b-reinforcement-learning) · Offline Reinforcement Learning with Universal Horizon Models
-- [最优传输老虎机的熵正则探索](../papers/reinforcement-learning.md#croissant26a-reinforcement-learning) · Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport
-- [离线到在线的动作梯度匹配](../papers/reinforcement-learning.md#de-lara26a-reinforcement-learning) · SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer
-- [多元回报分布的切片差异](../papers/reinforcement-learning.md#debes26a-reinforcement-learning) · Multivariate Distributional Reinforcement Learning Using Sliced Divergences
-- [贝叶斯回归树的 Thompson 采样](../papers/reinforcement-learning.md#deng26b-reinforcement-learning) · BFTS: Thompson Sampling with Bayesian Additive Regression Trees
-- [多智能体通信的稀疏选边](../papers/reinforcement-learning.md#deng26n-reinforcement-learning) · Sparse Topology-Aware Pairwise Scoring for Large-Scale Multi-Agent Reinforcement Learning
-- [评论家引导的扩散策略回归](../papers/reinforcement-learning.md#ding26z-reinforcement-learning) · Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance
-- [信赖域逆强化学习的对偶更新](../papers/reinforcement-learning.md#diwan26a-reinforcement-learning) · Trust Region Inverse Reinforcement Learning: Explicit Dual Ascent using Local Policy Updates
-- [大规模 Q 网络的注意力熵控制](../papers/reinforcement-learning.md#dong26d-reinforcement-learning) · TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse
-- [少步 MeanFlow 策略优化](../papers/reinforcement-learning.md#dong26m-reinforcement-learning) · Mean Flow Policy Optimization
-- [流策略的中间状态价值优化](../papers/reinforcement-learning.md#doo26a-reinforcement-learning) · Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy
-- [PPO 的潜空间新颖性奖励](../papers/reinforcement-learning.md#du26b-reinforcement-learning) · Stabilizing PPO via Latent-Space Regularization and KDE-Driven Exploration
-- [去中心化探索与共识的原始对偶调节](../papers/reinforcement-learning.md#du26p-reinforcement-learning) · IEC: When Information-Driven Exploration Meets Spectral Consensus via Primal–Dual Reward Regularization in Decentralized MARL
-- [状态聚合下的动作承诺 Q 学习](../papers/reinforcement-learning.md#eberhard26b-reinforcement-learning) · Commit to the Bit: Reactive Reinforcement Learning Done Right
-- [基于矩匹配的少步动作采样](../papers/reinforcement-learning.md#edgar26a-reinforcement-learning) · Moment Matching Q-Learning
-- [参数噪声下的方差自适应探索](../papers/reinforcement-learning.md#ezer26a-reinforcement-learning) · Stochastic Linear Bandits with Parameter Noise
-- [跨尺度状态占用的策略组合](../papers/reinforcement-learning.md#farebrother26a-reinforcement-learning) · Compositional Planning with Jumpy World Models
-- [用随机奖励定位探索瓶颈](../papers/reinforcement-learning.md#fei26a-reinforcement-learning) · Learning Interpretable Options by Identifying Reward Diffusion Bottlenecks in Reinforcement Learning
-- [离线策略的生成 ODE 解映射](../papers/reinforcement-learning.md#feng26q-reinforcement-learning) · Offline Reinforcement Learning with Generative Trajectory Policies
-- [价值引导的规划分布传输](../papers/reinforcement-learning.md#fu26b-reinforcement-learning) · FlowMAP: Flow Matching for Generalizable Agent Planning
-- [多智能体共享权重的尺度分离](../papers/reinforcement-learning.md#fu26k-reinforcement-learning) · HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning
-- [生成式离线策略的下尾风险约束](../papers/reinforcement-learning.md#fukazawa26a-reinforcement-learning) · RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization
-- [无全局时钟的匹配探索](../papers/reinforcement-learning.md#gao26ak-reinforcement-learning) · Decentralized Bandits without Global Clock for Dynamic Matching Market
-- [未知价值包的限期调度](../papers/reinforcement-learning.md#genalti26a-reinforcement-learning) · Online Packet Scheduling with Deadlines and Learning
-- [分段平稳老虎机的检测式重启](../papers/reinforcement-learning.md#gerogiannis26a-reinforcement-learning) · DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits
-- [在线稳健 Bellman 的对偶拟合](../papers/reinforcement-learning.md#ghosh26a-reinforcement-learning) · Online Robust Reinforcement Learning with General Function Approximation
-- [有限更新的组合 GLM 赌博机](../papers/reinforcement-learning.md#goyal26a-reinforcement-learning) · Contextual Slate GLM Bandits with Limited Adaptivity
-- [由环境后验控制仿真到现实的策略风险](../papers/reinforcement-learning.md#han26i-reinforcement-learning) · Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment
-- [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+- [价值函数学习](../conferences/icml-2026/cards/0001-0100.md#agrawalla26a-reinforcement-learning) · What Does Flow-Matching Bring to TD-Learning?
+- [分布强化学习](../conferences/icml-2026/cards/0001-0100.md#akgul26a-reinforcement-learning) · Distributional Active Inference
+- [多来源在线学习](../conferences/icml-2026/cards/0001-0100.md#anand26a-reinforcement-learning) · Data-Source Adaptive Online Learning under Heteroscedastic Noise
+- [离策略学习](../conferences/icml-2026/cards/0101-0200.md#aouali26a-reinforcement-learning) · Off-Policy Learning in Large Action Spaces: Optimization Matters More Than Estimation
+- [零样本离策略学习](../conferences/icml-2026/cards/0101-0200.md#asadulaev26b-reinforcement-learning) · Zero-Shot Off-Policy Learning
+- [长任务信用分配](../conferences/icml-2026/cards/0101-0200.md#auzina26a-reinforcement-learning) · Intrinsic Credit Assignment for Long Horizon Interaction
+- [神经逻辑老虎机](../conferences/icml-2026/cards/0101-0200.md#bae26a-reinforcement-learning) · Neural Logistic Bandits
+- [多智能体通信](../conferences/icml-2026/cards/0101-0200.md#bae26c-reinforcement-learning) · LLM-Guided Communication for Cooperative Multi-Agent Reinforcement Learning
+- [目标条件测试时 RL](../conferences/icml-2026/cards/0101-0200.md#bagatella26a-reinforcement-learning) · Test-time Offline Reinforcement Learning on Goal-related Experience
+- [部署反馈下的强化学习](../conferences/icml-2026/cards/0201-0300.md#basu26a-reinforcement-learning) · Performative Policy Gradient: Optimality in Performative Reinforcement Learning
+- [多反馈奖励学习](../conferences/icml-2026/cards/0201-0300.md#baur26a-reinforcement-learning) · MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference
+- [安全策略优化](../conferences/icml-2026/cards/0201-0300.md#belouadah26a-reinforcement-learning) · CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning
+- [低数据模仿学习](../conferences/icml-2026/cards/0201-0300.md#blonde26a-reinforcement-learning) · Noise-Guided Transport: Imitation Learning from Random Priors
+- [因果元强化学习](../conferences/icml-2026/cards/0301-0400.md#bo26c-reinforcement-learning) · Counterfactual Bootstrap for Robust Meta-Reinforcement Learning
+- [离线到在线强化学习](../conferences/icml-2026/cards/0301-0400.md#bui26a-reinforcement-learning) · Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning
+- [流匹配策略优化](../conferences/icml-2026/cards/0301-0400.md#cao26f-reinforcement-learning) · Direct Flow Q-Learning
+- [重尾损失下的占用度量更新](../conferences/icml-2026/cards/0501-0600.md#chen26cc-reinforcement-learning) · Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes
+- [次模团队奖励的贪心策略](../conferences/icml-2026/cards/0501-0600.md#chen26dk-reinforcement-learning) · Multi-Agent Reinforcement Learning with Submodular Reward
+- [离线强化学习的对抗动力学适配](../conferences/icml-2026/cards/0601-0700.md#chen26fl-reinforcement-learning) · Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning
+- [价值一致性约束的离线世界模型](../conferences/icml-2026/cards/0601-0700.md#chen26fn-reinforcement-learning) · VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning
+- [增广拉格朗日引导安全动作去噪](../conferences/icml-2026/cards/0601-0700.md#cheng26q-reinforcement-learning) · How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?
+- [对抗 MDP 的混合反馈遗憾控制](../conferences/icml-2026/cards/0601-0700.md#cheng26s-reinforcement-learning) · Hybrid Reinforcement Learning in Adversarial Markov Decision Processes
+- [部分可观测双线性老虎机](../conferences/icml-2026/cards/0701-0800.md#cho26f-reinforcement-learning) · Bilinear Bandits with Partially Observable Features
+- [离线策略的潜子目标链](../conferences/icml-2026/cards/0701-0800.md#choi26k-reinforcement-learning) · Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL
+- [去中心化 Q 值的不确定性聚合](../conferences/icml-2026/cards/0701-0800.md#chu26a-reinforcement-learning) · Value Aggregation with Uncertainty in Online Decentralized MARL
+- [持续漂移下的多时间尺度巩固](../conferences/icml-2026/cards/0701-0800.md#chua26a-reinforcement-learning) · Balancing Plasticity and Stability with Fast and Slow Successor Features
+- [任意步长的离线强化学习模型](../conferences/icml-2026/cards/0701-0800.md#chung26b-reinforcement-learning) · Offline Reinforcement Learning with Universal Horizon Models
+- [最优传输老虎机的熵正则探索](../conferences/icml-2026/cards/0701-0800.md#croissant26a-reinforcement-learning) · Linear Bandits beyond Inner Product Spaces, the case of Bandit Optimal Transport
+- [离线到在线的动作梯度匹配](../conferences/icml-2026/cards/0801-0900.md#de-lara26a-reinforcement-learning) · SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer
+- [多元回报分布的切片差异](../conferences/icml-2026/cards/0801-0900.md#debes26a-reinforcement-learning) · Multivariate Distributional Reinforcement Learning Using Sliced Divergences
+- [贝叶斯回归树的 Thompson 采样](../conferences/icml-2026/cards/0801-0900.md#deng26b-reinforcement-learning) · BFTS: Thompson Sampling with Bayesian Additive Regression Trees
+- [多智能体通信的稀疏选边](../conferences/icml-2026/cards/0801-0900.md#deng26n-reinforcement-learning) · Sparse Topology-Aware Pairwise Scoring for Large-Scale Multi-Agent Reinforcement Learning
+- [评论家引导的扩散策略回归](../conferences/icml-2026/cards/0901-1000.md#ding26z-reinforcement-learning) · Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance
+- [信赖域逆强化学习的对偶更新](../conferences/icml-2026/cards/0901-1000.md#diwan26a-reinforcement-learning) · Trust Region Inverse Reinforcement Learning: Explicit Dual Ascent using Local Policy Updates
+- [大规模 Q 网络的注意力熵控制](../conferences/icml-2026/cards/0901-1000.md#dong26d-reinforcement-learning) · TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse
+- [少步 MeanFlow 策略优化](../conferences/icml-2026/cards/0901-1000.md#dong26m-reinforcement-learning) · Mean Flow Policy Optimization
+- [流策略的中间状态价值优化](../conferences/icml-2026/cards/0901-1000.md#doo26a-reinforcement-learning) · Q-Flow: Stable and Expressive Reinforcement Learning with Flow-based Policy
+- [PPO 的潜空间新颖性奖励](../conferences/icml-2026/cards/0901-1000.md#du26b-reinforcement-learning) · Stabilizing PPO via Latent-Space Regularization and KDE-Driven Exploration
+- [去中心化探索与共识的原始对偶调节](../conferences/icml-2026/cards/0901-1000.md#du26p-reinforcement-learning) · IEC: When Information-Driven Exploration Meets Spectral Consensus via Primal–Dual Reward Regularization in Decentralized MARL
+- [状态聚合下的动作承诺 Q 学习](../conferences/icml-2026/cards/1001-1100.md#eberhard26b-reinforcement-learning) · Commit to the Bit: Reactive Reinforcement Learning Done Right
+- [基于矩匹配的少步动作采样](../conferences/icml-2026/cards/1001-1100.md#edgar26a-reinforcement-learning) · Moment Matching Q-Learning
+- [参数噪声下的方差自适应探索](../conferences/icml-2026/cards/1001-1100.md#ezer26a-reinforcement-learning) · Stochastic Linear Bandits with Parameter Noise
+- [跨尺度状态占用的策略组合](../conferences/icml-2026/cards/1001-1100.md#farebrother26a-reinforcement-learning) · Compositional Planning with Jumpy World Models
+- [用随机奖励定位探索瓶颈](../conferences/icml-2026/cards/1001-1100.md#fei26a-reinforcement-learning) · Learning Interpretable Options by Identifying Reward Diffusion Bottlenecks in Reinforcement Learning
+- [离线策略的生成 ODE 解映射](../conferences/icml-2026/cards/1101-1200.md#feng26q-reinforcement-learning) · Offline Reinforcement Learning with Generative Trajectory Policies
+- [价值引导的规划分布传输](../conferences/icml-2026/cards/1101-1200.md#fu26b-reinforcement-learning) · FlowMAP: Flow Matching for Generalizable Agent Planning
+- [多智能体共享权重的尺度分离](../conferences/icml-2026/cards/1101-1200.md#fu26k-reinforcement-learning) · HPS: Hyperspherical Parameter Sharing for Efficient Multi-Agent Reinforcement Learning
+- [生成式离线策略的下尾风险约束](../conferences/icml-2026/cards/1101-1200.md#fukazawa26a-reinforcement-learning) · RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization
+- [无全局时钟的匹配探索](../conferences/icml-2026/cards/1201-1300.md#gao26ak-reinforcement-learning) · Decentralized Bandits without Global Clock for Dynamic Matching Market
+- [未知价值包的限期调度](../conferences/icml-2026/cards/1201-1300.md#genalti26a-reinforcement-learning) · Online Packet Scheduling with Deadlines and Learning
+- [分段平稳老虎机的检测式重启](../conferences/icml-2026/cards/1201-1300.md#gerogiannis26a-reinforcement-learning) · DAL: A Practical Prior-Free Black-Box Framework for Piecewise Stationary Bandits
+- [在线稳健 Bellman 的对偶拟合](../conferences/icml-2026/cards/1201-1300.md#ghosh26a-reinforcement-learning) · Online Robust Reinforcement Learning with General Function Approximation
+- [有限更新的组合 GLM 赌博机](../conferences/icml-2026/cards/1301-1400.md#goyal26a-reinforcement-learning) · Contextual Slate GLM Bandits with Limited Adaptivity
+- [由环境后验控制仿真到现实的策略风险](../conferences/icml-2026/cards/1401-1500.md#han26i-reinforcement-learning) · Transferable Reinforcement Learning via Probabilistic Latent Embeddings and Dynamic Policy Adaptation for Sim-to-Real Deployment
+- <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+
+<a id="by-robotics"></a>
 
 ### 机器人学
 
-- [规划与强化学习](../papers/robotics.md#aichmuller26a-reinforcement-learning) · Learning to Search and Searching to Learn for Generalization in Planning
-- [按关键帧分配语言反馈奖励](../papers/robotics.md#chowdhury26a-reinforcement-learning) · LAGEA: Language Guided Embodied Agents for Robotic Manipulation
-- [以专家动态奖励后训练视频预测](../papers/robotics.md#ge26a-reinforcement-learning) · Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics
-- [碰撞预测驱动的驾驶动作自纠正](../papers/robotics.md#guo26ae-reinforcement-learning) · CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving
+- [规划与强化学习](../conferences/icml-2026/cards/0001-0100.md#aichmuller26a-reinforcement-learning) · Learning to Search and Searching to Learn for Generalization in Planning
+- [按关键帧分配语言反馈奖励](../conferences/icml-2026/cards/0701-0800.md#chowdhury26a-reinforcement-learning) · LAGEA: Language Guided Embodied Agents for Robotic Manipulation
+- [以专家动态奖励后训练视频预测](../conferences/icml-2026/cards/1201-1300.md#ge26a-reinforcement-learning) · Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics
+- [碰撞预测驱动的驾驶动作自纠正](../conferences/icml-2026/cards/1401-1500.md#guo26ae-reinforcement-learning) · CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving
+
+<a id="by-multimodal"></a>
 
 ### 多模态学习
 
-- [长视频推理奖励](../papers/multimodal.md#cao26m-reinforcement-learning) · VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning
-- [分层评分规则的强化学习课程](../papers/multimodal.md#chen26bk-reinforcement-learning) · RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning
-- [音视频联合推理奖励](../papers/multimodal.md#chen26ed-reinforcement-learning) · OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention
-- [视频分割的像素级策略反馈](../papers/multimodal.md#dai26j-reinforcement-learning) · VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation
-- [主动空间推理的可执行中间奖励](../papers/multimodal.md#deng26x-reinforcement-learning) · Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models
-- [错到对的自纠正轨迹重组](../papers/multimodal.md#ding26m-reinforcement-learning) · Learning Self-Correction in Vision–Language Models via Rollout Augmentation
-- [长尾回归的批级一致相关奖励](../papers/multimodal.md#du26j-reinforcement-learning) · Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression
-- [图像诱发情绪的排序奖励](../papers/multimodal.md#gao26l-reinforcement-learning) · EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment
-- [多模态推理的分段策略优化](../papers/multimodal.md#gao26n-reinforcement-learning) · Segment-Aligned Policy Optimization for Multi-Modal Reasoning
-- [多模态遗忘的拒答边界](../papers/multimodal.md#guang26a-reinforcement-learning) · ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models
-- [以自监督扰动构造视觉强化奖励](../papers/multimodal.md#guo26ak-reinforcement-learning) · SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning
+- [长视频推理奖励](../conferences/icml-2026/cards/0301-0400.md#cao26m-reinforcement-learning) · VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning
+- [分层评分规则的强化学习课程](../conferences/icml-2026/cards/0501-0600.md#chen26bk-reinforcement-learning) · RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning
+- [音视频联合推理奖励](../conferences/icml-2026/cards/0601-0700.md#chen26ed-reinforcement-learning) · OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention
+- [视频分割的像素级策略反馈](../conferences/icml-2026/cards/0801-0900.md#dai26j-reinforcement-learning) · VideoSEG-O3: A Multi-turn Reinforcement Learning Framework for Reasoning Video Object Segmentation
+- [主动空间推理的可执行中间奖励](../conferences/icml-2026/cards/0801-0900.md#deng26x-reinforcement-learning) · Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models
+- [错到对的自纠正轨迹重组](../conferences/icml-2026/cards/0901-1000.md#ding26m-reinforcement-learning) · Learning Self-Correction in Vision–Language Models via Rollout Augmentation
+- [长尾回归的批级一致相关奖励](../conferences/icml-2026/cards/0901-1000.md#du26j-reinforcement-learning) · Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression
+- [图像诱发情绪的排序奖励](../conferences/icml-2026/cards/1201-1300.md#gao26l-reinforcement-learning) · EEmo-Logic: A Unified Dataset and Multi-Stage Framework for Comprehensive Image-Evoked Emotion Assessment
+- [多模态推理的分段策略优化](../conferences/icml-2026/cards/1201-1300.md#gao26n-reinforcement-learning) · Segment-Aligned Policy Optimization for Multi-Modal Reasoning
+- [多模态遗忘的拒答边界](../conferences/icml-2026/cards/1301-1400.md#guang26a-reinforcement-learning) · ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models
+- [以自监督扰动构造视觉强化奖励](../conferences/icml-2026/cards/1401-1500.md#guo26ak-reinforcement-learning) · SSL4RL: Revisiting Self-supervised Learning as Intrinsic Reward for Visual-Language Reasoning
+
+<a id="by-graph-and-recommendation"></a>
 
 ### 图学习与推荐
 
-- [在线影响力最大化](../papers/graph-and-recommendation.md#agarwal26a-reinforcement-learning) · Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback
-- [推荐曝光控制](../papers/graph-and-recommendation.md#bisht26a-reinforcement-learning) · CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems
+- [在线影响力最大化](../conferences/icml-2026/cards/0001-0100.md#agarwal26a-reinforcement-learning) · Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback
+- [推荐曝光控制](../conferences/icml-2026/cards/0201-0300.md#bisht26a-reinforcement-learning) · CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems
+
+<a id="by-scientific-ml"></a>
 
 ### 科学机器学习
 
-- [科学方程发现](../papers/scientific-ml.md#behzadifar26a-reinforcement-learning) · DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery
-- [数学反例搜索](../papers/scientific-ml.md#butbaia26a-reinforcement-learning) · Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra
-- [逆合成搜索工具选择](../papers/scientific-ml.md#chang26g-reinforcement-learning) · RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models
-- [医学视觉定位与稀疏推理](../papers/scientific-ml.md#chen26gv-reinforcement-learning) · Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning
-- [连续物理场重建的主动传感](../papers/scientific-ml.md#deng26y-reinforcement-learning) · LASER: Learning Active Sensing for Continuum Field Reconstruction
-- [遗传电路代码的分层验证奖励](../papers/scientific-ml.md#flynn26a-reinforcement-learning) · GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design
-- [序贯诊断的分角色奖励](../papers/scientific-ml.md#gao26c-reinforcement-learning) · Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning
-- [学生认知图的分层去噪奖励](../papers/scientific-ml.md#gu26b-reinforcement-learning) · CSG: Cognitive Structure Generation for Intelligent Education
+- [科学方程发现](../conferences/icml-2026/cards/0201-0300.md#behzadifar26a-reinforcement-learning) · DecAEvolve: Decompose, Adapt, and Evolve for Effective LLM-based Scientific Equation Discovery
+- [数学反例搜索](../conferences/icml-2026/cards/0301-0400.md#butbaia26a-reinforcement-learning) · Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra
+- [逆合成搜索工具选择](../conferences/icml-2026/cards/0401-0500.md#chang26g-reinforcement-learning) · RetrOrchestrator: A Multi-Step Retrosynthesis Agent Dynamically Orchestrating Single-Step Transition Models
+- [医学视觉定位与稀疏推理](../conferences/icml-2026/cards/0601-0700.md#chen26gv-reinforcement-learning) · Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning
+- [连续物理场重建的主动传感](../conferences/icml-2026/cards/0801-0900.md#deng26y-reinforcement-learning) · LASER: Learning Active Sensing for Continuum Field Reconstruction
+- [遗传电路代码的分层验证奖励](../conferences/icml-2026/cards/1101-1200.md#flynn26a-reinforcement-learning) · GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design
+- [序贯诊断的分角色奖励](../conferences/icml-2026/cards/1201-1300.md#gao26c-reinforcement-learning) · Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning
+- [学生认知图的分层去噪奖励](../conferences/icml-2026/cards/1301-1400.md#gu26b-reinforcement-learning) · CSG: Cognitive Structure Generation for Intelligent Education
 <!-- classification:end -->

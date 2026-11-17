@@ -4,142 +4,112 @@
 
 Robot perception, policy learning, planning, and control.
 
-## Vision-Language-Action Models
-
-| Paper | First public / venue | Transferable insights | Resources |
-| :--- | :--- | :--- | :--- |
-| **ReconVLA**<br>Song et al., *ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver* | 2025-08-14<br><sub>[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/download/38921/42883)</sub> | [Target-Region Reconstruction as Auxiliary Supervision](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) · [Instruction Prefixes for Causal Visual Grounding](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) | [Paper](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) · [Project](https://zionchow.github.io/ReconVLA/) · [Code](https://github.com/OpenHelix-Team/ReconVLA) |
-| [**LARA**](https://proceedings.mlr.press/v306/liu26bl.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl)<br><sub>Mengya Liu et al., LARA: Latent Action Representation Alignment for Vision-Language-Action Models</sub> | [2026-06-05](https://arxiv.org/abs/2606.07100)<br><sub>[ICML 2026](https://proceedings.mlr.press/v306/liu26bl.html)</sub> | [Align Action-Expert Features with Latent Actions](../insights/loss-functions.md#align-action-features-with-latent-actions) | [PMLR](https://proceedings.mlr.press/v306/liu26bl.html) · [arXiv](https://arxiv.org/abs/2606.07100) · [Code](https://github.com/lmy1001/LARA) |
-
 <!-- classification:start -->
 ## Browse by Technique
 
-The linked short insights are available in Chinese.
+[Architectures](#by-architecture) · [Modules](#by-modules) · [Loss Functions](#by-loss-functions) · [Optimization](#by-optimization) · [Reinforcement Learning Methods](#by-reinforcement-learning) · [Training Strategies](#by-training-strategies) · [Data Strategies](#by-data-strategies) · [Inference Strategies](#by-inference) · [Representation Learning](#by-representation-learning) · [Evaluation and Diagnostics](#by-evaluation) · [Theory and Statistics](#by-theory-statistics)
 
 <a id="by-architecture"></a>
 
 ### Architectures
 
-| Paper | Insight |
-| :--- | :--- |
-| [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26h) | [Read insight (中文)](../../papers/robotics.md#bai26h-architecture) |
-| [Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-cao26u) | [Read insight (中文)](../../papers/robotics.md#cao26u-architecture) |
-| [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chuang26a) | [Read insight (中文)](../../papers/robotics.md#chuang26a-architecture) |
-| [Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](https://proceedings.mlr.press/v306/ding26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26x) | [Read insight (中文)](../../papers/robotics.md#ding26x-architecture) |
+- <a id="bai26h-architecture"></a>[Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26h)
+- <a id="cao26u-architecture"></a>[Hierarchical Policy Learning via Spectral Decomposition](../../conferences/icml-2026/cards/0401-0500.md#paper-cao26u)
+- <a id="chuang26a-architecture"></a>[The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](../../conferences/icml-2026/cards/0701-0800.md#paper-chuang26a)
+- <a id="ding26x-architecture"></a>[Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26x)
 
 <a id="by-modules"></a>
 
 ### Modules
 
-| Paper | Insight |
-| :--- | :--- |
-| [See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](https://proceedings.mlr.press/v306/feng26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26x) | [Read insight (中文)](../../papers/robotics.md#feng26x-modules) |
-| [StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://proceedings.mlr.press/v306/fu26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26x) | [Read insight (中文)](../../papers/robotics.md#fu26x-modules) |
-| [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://proceedings.mlr.press/v306/gyenes26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-gyenes26a) | [Read insight (中文)](../../papers/robotics.md#gyenes26a-modules) |
-| [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-modules) · [Full entry](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding) |
+- <a id="feng26x-modules"></a>[See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26x)
+- <a id="fu26x-modules"></a>[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26x)
+- <a id="gyenes26a-modules"></a>[Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../../conferences/icml-2026/cards/1401-1500.md#paper-gyenes26a)
 
-<a id="by-loss-functions"></a>
+<a id="by-loss-functions"></a><a id="vision-language-action-models"></a>
 
 ### Loss Functions
 
-| Paper | Insight |
-| :--- | :--- |
-| [DT²: Decision-Targeted Digital Twins](https://proceedings.mlr.press/v306/amad26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-amad26a) | [Read insight (中文)](../../papers/robotics.md#amad26a-loss-functions) |
-| [OMP: One-step Meanflow Policy with Directional Alignment](https://proceedings.mlr.press/v306/fang26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26h) | [Read insight (中文)](../../papers/robotics.md#fang26h-loss-functions) |
-| [LARA: Latent Action Representation Alignment for Vision-Language-Action Models](https://proceedings.mlr.press/v306/liu26bl.html) · [Paper card (中文)](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl) | [Read insight (中文)](../../papers/robotics.md#liu26bl-loss-functions) · [Full entry](../insights/loss-functions.md#align-action-features-with-latent-actions) |
-| [ReconVLA](https://arxiv.org/abs/2508.10333) · [Paper card (中文)](../../papers/reconvla.md#paper-reconvla) | [Read insight (中文)](../../papers/robotics.md#reconvla-loss-functions) · [Full entry](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision) |
+- <a id="amad26a-loss-functions"></a>[DT²: Decision-Targeted Digital Twins](../../conferences/icml-2026/cards/0001-0100.md#paper-amad26a)
+- <a id="fang26h-loss-functions"></a>[OMP: One-step Meanflow Policy with Directional Alignment](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26h)
+- <a id="liu26bl-loss-functions"></a>[LARA: Latent Action Representation Alignment for Vision-Language-Action Models](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bl)
+- <a id="reconvla-loss-functions"></a><a id="reconvla-modules"></a>[ReconVLA](../../papers/reconvla.md#paper-reconvla)
 
 <a id="by-optimization"></a>
 
 ### Optimization
 
-| Paper | Insight |
-| :--- | :--- |
-| [Blending Neural Control Density Functions for Stabilization and Safety](https://proceedings.mlr.press/v306/chaudhary26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chaudhary26a) | [Read insight (中文)](../../papers/robotics.md#chaudhary26a-optimization) |
-| [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](https://proceedings.mlr.press/v306/fan26g.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26g) | [Read insight (中文)](../../papers/robotics.md#fan26g-optimization) |
+- <a id="chaudhary26a-optimization"></a>[Blending Neural Control Density Functions for Stabilization and Safety](../../conferences/icml-2026/cards/0401-0500.md#paper-chaudhary26a)
+- <a id="fan26g-optimization"></a>[De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26g)
 
 <a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning Methods
 
-| Paper | Insight |
-| :--- | :--- |
-| [Learning to Search and Searching to Learn for Generalization in Planning](https://proceedings.mlr.press/v306/aichmuller26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aichmuller26a) | [Read insight (中文)](../../papers/robotics.md#aichmuller26a-reinforcement-learning) |
-| [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://proceedings.mlr.press/v306/chowdhury26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chowdhury26a) | [Read insight (中文)](../../papers/robotics.md#chowdhury26a-reinforcement-learning) |
-| [Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](https://proceedings.mlr.press/v306/ge26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-ge26a) | [Read insight (中文)](../../papers/robotics.md#ge26a-reinforcement-learning) |
-| [CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](https://proceedings.mlr.press/v306/guo26ae.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ae) | [Read insight (中文)](../../papers/robotics.md#guo26ae-reinforcement-learning) |
+- <a id="aichmuller26a-reinforcement-learning"></a>[Learning to Search and Searching to Learn for Generalization in Planning](../../conferences/icml-2026/cards/0001-0100.md#paper-aichmuller26a)
+- <a id="chowdhury26a-reinforcement-learning"></a>[LAGEA: Language Guided Embodied Agents for Robotic Manipulation](../../conferences/icml-2026/cards/0701-0800.md#paper-chowdhury26a)
+- <a id="ge26a-reinforcement-learning"></a>[Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](../../conferences/icml-2026/cards/1201-1300.md#paper-ge26a)
+- <a id="guo26ae-reinforcement-learning"></a>[CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ae)
 
 <a id="by-training-strategies"></a>
 
 ### Training Strategies
 
-| Paper | Insight |
-| :--- | :--- |
-| [NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](https://proceedings.mlr.press/v306/chen26d.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26d) | [Read insight (中文)](../../papers/robotics.md#chen26d-training-strategies) |
-| [Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](https://proceedings.mlr.press/v306/chen26fw.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw) | [Read insight (中文)](../../papers/robotics.md#chen26fw-training-strategies) |
-| [Knowledge Diversion for Efficient Morphology Control and Policy Transfer](https://proceedings.mlr.press/v306/feng26n.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26n) | [Read insight (中文)](../../papers/robotics.md#feng26n-training-strategies) |
-| [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://proceedings.mlr.press/v306/guo26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26i) | [Read insight (中文)](../../papers/robotics.md#guo26i-training-strategies) |
+- <a id="chen26d-training-strategies"></a>[NOMAD: Lifelong Trajectory Planning via Non-Parametric Bayesian Memory-Adaptive Diffusion Experts](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26d)
+- <a id="chen26fw-training-strategies"></a>[Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26fw)
+- <a id="feng26n-training-strategies"></a>[Knowledge Diversion for Efficient Morphology Control and Policy Transfer](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26n)
+- <a id="guo26i-training-strategies"></a>[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26i)
 
 <a id="by-data-strategies"></a>
 
 ### Data Strategies
 
-| Paper | Insight |
-| :--- | :--- |
-| [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26j) | [Read insight (中文)](../../papers/robotics.md#chen26j-data-strategies) |
-| [PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](https://proceedings.mlr.press/v306/chen26ab.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26ab) | [Read insight (中文)](../../papers/robotics.md#chen26ab-data-strategies) |
-| [Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](https://proceedings.mlr.press/v306/chen26cy.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26cy) | [Read insight (中文)](../../papers/robotics.md#chen26cy-data-strategies) |
-| [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://proceedings.mlr.press/v306/choi26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26i) | [Read insight (中文)](../../papers/robotics.md#choi26i-data-strategies) |
-| [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://proceedings.mlr.press/v306/fan26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26b) | [Read insight (中文)](../../papers/robotics.md#fan26b-data-strategies) |
-| [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://proceedings.mlr.press/v306/gao26q.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26q) | [Read insight (中文)](../../papers/robotics.md#gao26q-data-strategies) |
-| [LIMMT: Less Is More for Motion Tracking](https://proceedings.mlr.press/v306/guan26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26f) | [Read insight (中文)](../../papers/robotics.md#guan26f-data-strategies) |
+- <a id="chen26j-data-strategies"></a>[RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26j)
+- <a id="chen26ab-data-strategies"></a>[PhyScene3D: Physically Consistent Interactive 3D Tabletop Scene Generation](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26ab)
+- <a id="chen26cy-data-strategies"></a>[Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26cy)
+- <a id="choi26i-data-strategies"></a>[EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26i)
+- <a id="fan26b-data-strategies"></a>[Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26b)
+- <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26q)
+- <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26f)
 
 <a id="by-inference"></a>
 
 ### Inference Strategies
 
-| Paper | Insight |
-| :--- | :--- |
-| [PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](https://proceedings.mlr.press/v306/aissi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0001-0100.md#paper-aissi26a) | [Read insight (中文)](../../papers/robotics.md#aissi26a-inference) |
-| [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](https://proceedings.mlr.press/v306/balim26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-balim26a) | [Read insight (中文)](../../papers/robotics.md#balim26a-inference) |
-| [Motion Planning in Compressed Representation Spaces](https://proceedings.mlr.press/v306/beyer26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-beyer26a) | [Read insight (中文)](../../papers/robotics.md#beyer26a-inference) |
-| [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](https://proceedings.mlr.press/v306/chai26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chai26a) | [Read insight (中文)](../../papers/robotics.md#chai26a-inference) |
-| [PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](https://proceedings.mlr.press/v306/chen26i.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26i) | [Read insight (中文)](../../papers/robotics.md#chen26i-inference) |
-| [Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](https://proceedings.mlr.press/v306/chen26co.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26co) | [Read insight (中文)](../../papers/robotics.md#chen26co-inference) |
-| [EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning](https://proceedings.mlr.press/v306/chi26b.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chi26b) | [Read insight (中文)](../../papers/robotics.md#chi26b-inference) |
-| [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](https://proceedings.mlr.press/v306/choi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26a) | [Read insight (中文)](../../papers/robotics.md#choi26a-inference) |
-| [Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26c) | [Read insight (中文)](../../papers/robotics.md#choi26c-inference) |
-| [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chun26a) | [Read insight (中文)](../../papers/robotics.md#chun26a-inference) |
-| [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26r) | [Read insight (中文)](../../papers/robotics.md#ding26r-inference) |
-| [Reflex: Real-Time Vision-Language-Action Control through Streaming Inference](https://proceedings.mlr.press/v306/guo26l.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26l) | [Read insight (中文)](../../papers/robotics.md#guo26l-inference) |
+- <a id="aissi26a-inference"></a>[PRISM: Perception Reasoning Interleaved for Sequential Decision Making.](../../conferences/icml-2026/cards/0001-0100.md#paper-aissi26a)
+- <a id="balim26a-inference"></a>[Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](../../conferences/icml-2026/cards/0201-0300.md#paper-balim26a)
+- <a id="beyer26a-inference"></a>[Motion Planning in Compressed Representation Spaces](../../conferences/icml-2026/cards/0201-0300.md#paper-beyer26a)
+- <a id="chai26a-inference"></a>[N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](../../conferences/icml-2026/cards/0401-0500.md#paper-chai26a)
+- <a id="chen26i-inference"></a>[PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26i)
+- <a id="chen26co-inference"></a>[Rethinking Instruction Drift as a Sampling Error: SNR-Aware Power Distributions for Long-Horizon Robotic Planning](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26co)
+- <a id="chi26b-inference"></a>[EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning](../../conferences/icml-2026/cards/0701-0800.md#paper-chi26b)
+- <a id="choi26a-inference"></a>[SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26a)
+- <a id="choi26c-inference"></a>[Efficient Skill Grounding via Code Refactoring with Small Language Models](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26c)
+- <a id="chun26a-inference"></a>[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](../../conferences/icml-2026/cards/0701-0800.md#paper-chun26a)
+- <a id="ding26r-inference"></a>[AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26r)
+- <a id="guo26l-inference"></a>[Reflex: Real-Time Vision-Language-Action Control through Streaming Inference](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26l)
 
 <a id="by-representation-learning"></a>
 
 ### Representation Learning
 
-| Paper | Insight |
-| :--- | :--- |
-| [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://proceedings.mlr.press/v306/fan26f.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26f) | [Read insight (中文)](../../papers/robotics.md#fan26f-representation-learning) |
-| [Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](https://proceedings.mlr.press/v306/habashy26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1401-1500.md#paper-habashy26a) | [Read insight (中文)](../../papers/robotics.md#habashy26a-representation-learning) |
+- <a id="fan26f-representation-learning"></a>[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](../../conferences/icml-2026/cards/1001-1100.md#paper-fan26f)
+- <a id="habashy26a-representation-learning"></a>[Geodesic Flow Matching for Denoising High-Dimensional Structured Representations](../../conferences/icml-2026/cards/1401-1500.md#paper-habashy26a)
 
 <a id="by-evaluation"></a>
 
 ### Evaluation and Diagnostics
 
-| Paper | Insight |
-| :--- | :--- |
-| [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](https://proceedings.mlr.press/v306/bai26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26e) | [Read insight (中文)](../../papers/robotics.md#bai26e-evaluation) |
-| [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-cao26w) | [Read insight (中文)](../../papers/robotics.md#cao26w-evaluation) |
-| [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dai26c) | [Read insight (中文)](../../papers/robotics.md#dai26c-evaluation) |
-| [Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26r) | [Read insight (中文)](../../papers/robotics.md#deng26r-evaluation) |
-| [Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab) | [Read insight (中文)](../../papers/robotics.md#feng26ab-evaluation) |
-| [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26u) | [Read insight (中文)](../../papers/robotics.md#fu26u-evaluation) |
+- <a id="bai26e-evaluation"></a>[SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26e)
+- <a id="cao26w-evaluation"></a>[DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](../../conferences/icml-2026/cards/0401-0500.md#paper-cao26w)
+- <a id="dai26c-evaluation"></a>[RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](../../conferences/icml-2026/cards/0801-0900.md#paper-dai26c)
+- <a id="deng26r-evaluation"></a>[Rethinking Video Generation Model for the Embodied World](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26r)
+- <a id="feng26ab-evaluation"></a>[Demystifying Action Space Design for Robotic Manipulation Policies](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26ab)
+- <a id="fu26u-evaluation"></a>[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26u)
 
 <a id="by-theory-statistics"></a>
 
 ### Theory and Statistics
 
-| Paper | Insight |
-| :--- | :--- |
-| [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](https://proceedings.mlr.press/v306/francis-meretzki26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/1101-1200.md#paper-francis-meretzki26a) | [Read insight (中文)](../../papers/robotics.md#francis-meretzki26a-theory-statistics) |
+- <a id="francis-meretzki26a-theory-statistics"></a>[Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](../../conferences/icml-2026/cards/1101-1200.md#paper-francis-meretzki26a)
 <!-- classification:end -->

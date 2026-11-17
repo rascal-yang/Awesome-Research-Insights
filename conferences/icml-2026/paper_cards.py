@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add evidence-backed paper cards and link them from the existing indexes."""
+"""Maintain the six fields and attached mechanisms of each paper card."""
 
 import argparse
 from collections import defaultdict
@@ -28,7 +28,8 @@ COLUMNS = ['pmlr_id', *FIELDS, 'evidence']
 CARD_ANCHOR = re.compile(r'^<a id="paper-([\w-]+)"></a>$', re.M)
 SOURCE_LINK = re.compile(r'\[[^\]\n]+\]\(https://[^\s()]+\)')
 EVIDENCE_PAGE_LINK = re.compile(r'\[([^\]\n]+)\]\((https://[^\s()]+#page=(\d+))\)')
-CARD_LINK = re.compile(r' · \[(?:论文卡|Paper card \(中文\))\]\([^\n)]+\)')
+MECHANISM = re.compile(r'^<a id="([\w-]+)"></a>\n\n(?:### |\*\*技术主题\*\* · )([^\n]+)$', re.M)
+TOPIC = re.compile(r'^<a id="[\w-]+"></a>\n\n\*\*技术主题\*\* · [^\n]+\n\n', re.M)
 
 
 def read_tsv(path):
@@ -103,18 +104,11 @@ def label_evidence_pages(evidence):
     return EVIDENCE_PAGE_LINK.sub(label, evidence)
 
 
-def render_card(path, paper, row, classification):
+def render_card(paper, row, topic=''):
     key = paper['pmlr_id']
     if key == 'reconvla':
-        mechanisms = (
-            '[用目标区域重建做辅助监督](../insights/loss-functions.md#target-region-reconstruction-as-auxiliary-supervision)'
-            ' · [用指令前缀让视觉表征感知任务](../insights/modules.md#instruction-prefixes-for-causal-visual-grounding)'
-        )
         title = paper['title']
     else:
-        domain, technique = classification[key]
-        index = relative_link(path, Path('papers') / f'{domain}.md')
-        mechanisms = f'[关联 Insight]({index}#{key}-{technique})'
         title = f"{paper['number']} · {paper['title']}"
     labels = [f'- **{label}** · {row[field]}' for field, label in FIELDS.items()]
     return '\n'.join([
@@ -122,9 +116,9 @@ def render_card(path, paper, row, classification):
         '',
         f'## {title}',
         '',
-        f"[原文]({paper['paper_url']}) · {mechanisms}",
+        f"[原文]({paper['paper_url']})",
         '',
-        *labels,
+        topic + '\n'.join(labels),
         '',
         f"**原文定位** · {label_evidence_pages(row['evidence'])}",
     ])
@@ -136,12 +130,8 @@ def write_if_changed(path, content):
         path.write_text(content, encoding='utf-8')
 
 
-def write_cards(rows):
+def write_cards(rows, mechanisms=None):
     papers = catalog()
-    classification = {
-        row['pmlr_id']: (row['domain'], row['technique'])
-        for row in read_tsv(CONFERENCE / 'classification.tsv')
-    }
     locations = card_locations(papers)
     updates = defaultdict(dict)
     for row in rows:
@@ -149,83 +139,64 @@ def write_cards(rows):
         if key not in papers:
             raise ValueError(f'Paper {key} does not have an Insight in the catalog.')
         path = card_page(papers[key])
-        updates[path][key] = render_card(path, papers[key], row, classification)
+        updates[path][key] = row
     for path, new_cards in updates.items():
         body = path.read_text(encoding='utf-8') if path in locations.values() else ''
         matches = list(CARD_ANCHOR.finditer(body))
         cards = {
             match[1]: body[match.start():next_match].strip()
             for match, next_match in zip(matches, [*(m.start() for m in matches[1:]), len(body)])
-        } | new_cards
+        }
+        for key, row in new_cards.items():
+            topic = ''
+            suffix = ''
+            if key in cards:
+                match = TOPIC.search(cards[key])
+                topic = match[0] if match else ''
+                evidence = re.search(r'^\*\*原文定位\*\* · .+$', cards[key], re.M)
+                if evidence is None:
+                    raise ValueError(f'Paper card {key} has no evidence line.')
+                suffix = cards[key][evidence.end():]
+            if mechanisms and key in mechanisms:
+                technique, title, insight = mechanisms[key]
+                topic = render_topic(key, technique, title)
+                suffix = f'\n\n**可复用机制** · {insight}'
+            cards[key] = render_card(papers[key], row, topic) + suffix
         if path == RECONVLA_PAGE:
             heading = '# ReconVLA 论文卡\n\n[机器人学索引](robotics.md)'
         else:
             start, end = map(int, path.stem.split('-'))
-            heading = f'# ICML 2026 · 第 {start}–{end} 篇论文卡\n\n[论文卡索引](README.md) · [会议索引](../README.md)'
+            heading = f'# ICML 2026 · 第 {start}–{end} 篇论文卡\n\n[会议索引](../README.md)'
         keys = sorted(cards, key=lambda key: int(papers[key].get('number', 0)))
         write_if_changed(path, heading + '\n\n' + '\n\n'.join(cards[key] for key in keys) + '\n')
 
 
-def refresh_card_links():
+def render_topic(key, technique, topic):
+    return f'<a id="{key}-{technique}"></a>\n\n**技术主题** · {topic}\n\n'
+
+
+def card_href(index, paper, anchor):
+    return f'{relative_link(index, card_page(paper))}#{anchor}'
+
+
+def refresh_card_index():
     papers = catalog()
     locations = card_locations(papers)
     if not locations:
         return
-    urls = {papers[key]['paper_url']: (key, path) for key, path in locations.items()}
-    paper_link = re.compile(r'\]\((https://(?:proceedings\.mlr\.press/v306/[\w-]+\.html|arxiv\.org/abs/2508\.10333(?:v1)?))\)')
-    paths = [
-        *CONFERENCE.glob('*.md'),
-        *Path('papers').glob('*.md'),
-        *Path('en/papers').glob('*.md'),
-        *Path('insights').glob('*.md'),
-        *Path('en/insights').glob('*.md'),
-    ]
-    for path in paths:
-        if path == RECONVLA_PAGE:
-            continue
-        original = path.read_text(encoding='utf-8')
-        label = 'Paper card (中文)' if path.parts[0] == 'en' else '论文卡'
-        is_insight = path.parent.name == 'insights'
-        lines = original.splitlines(keepends=True)
-        for index, line in enumerate(lines):
-            line = CARD_LINK.sub('', line)
-            match = paper_link.search(line)
-            if is_insight and line.startswith(('ReconVLA（Song ', 'ReconVLA (Song ')):
-                url = RECONVLA['paper_url']
-            elif line.startswith(('| ', '[') if is_insight else '| ') and match:
-                url = match[1].removesuffix('v1')
-            else:
-                continue
-            if url in urls:
-                key, target = urls[url]
-                relative = relative_link(path, target)
-                link = f' · [{label}]({relative}#paper-{key})'
-                # Leave the full citation intact on detail pages.
-                insert = len(line.rstrip('\r\n')) if is_insight else match.end()
-                lines[index] = line[:insert] + link + line[insert:]
-        write_if_changed(path, ''.join(lines))
-    pages = defaultdict(int)
-    for path in locations.values():
-        if path != RECONVLA_PAGE:
-            pages[path] += 1
+    count = len(locations) - int(RECONVLA['pmlr_id'] in locations)
     index = [
         '# ICML 2026 论文卡', '',
-        '[会议索引](../README.md) · [仓库首页](../../../README.md)', '',
-        f'**已补充 {sum(pages.values()):,} / {len(papers) - 1:,} 篇已收录的 ICML 2026 论文。**',
-        '',
-        '每张论文卡汇集研究问题、方法、对照、评测、结果和适用边界，并链接原文与 Insight。',
-        '',
+        f'已补充 {count:,} / {len(papers) - 1:,} 篇已收录论文的六字段卡。', '',
+        '[按论文编号浏览](../README.md#按论文编号浏览)',
     ]
-    for path, count in sorted(pages.items()):
-        start, end = map(int, path.stem.split('-'))
-        index.append(f'- [第 {start}–{end} 篇]({path.name}) · {count} 张')
     write_if_changed(CARD_DIR / 'README.md', '\n'.join(index) + '\n')
 
 
 def add_cards(path):
     rows = load_card_rows(path)
     write_cards(rows)
-    refresh_card_links()
+    refresh_card_index()
     print(f'Updated {len(rows)} paper cards.')
 
 

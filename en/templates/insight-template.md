@@ -2,9 +2,11 @@
 
 [简体中文](../../templates/insight-template.md)
 
-Add the following under the appropriate H2 method family in the primary technical category.
+For a mechanism that needs more detail, add this section to the existing paper card. Link its anchor from the technique index.
 
 ```markdown
+<a id="insight-title"></a>
+
 ### Name the mechanism
 
 **Source**

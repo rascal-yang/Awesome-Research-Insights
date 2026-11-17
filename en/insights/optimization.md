@@ -7,183 +7,203 @@ Gradient updates, parameterization, and optimization dynamics.
 <!-- classification:start -->
 ## Browse by Research Domain
 
+[Large Language Models](#by-llm) · [Computer Vision](#by-computer-vision) · [Natural Language Processing](#by-nlp) · [Reinforcement Learning](#by-reinforcement-learning) · [Robotics](#by-robotics) · [Multimodal Learning](#by-multimodal) · [Machine Learning Foundations and Statistics](#by-ml-foundations) · [Graph Learning and Recommendation](#by-graph-and-recommendation) · [Scientific Machine Learning](#by-scientific-ml)
+
+<a id="by-llm"></a>
+
 ### Large Language Models
 
-- [Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](../../papers/llm.md#abbasi26a-optimization) · 中文
-- [AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](../../papers/llm.md#cai26a-optimization) · 中文
-- [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](../../papers/llm.md#castin26a-optimization) · 中文
-- [WUSH: Near-Optimal Adaptive Transforms for LLM Quantization](../../papers/llm.md#chen26z-optimization) · 中文
-- [SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection](../../papers/llm.md#chen26ba-optimization) · 中文
-- [Reward-free Alignment for Conflicting Objectives](../../papers/llm.md#chen26bl-optimization) · 中文
-- [BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models](../../papers/llm.md#chen26bt-optimization) · 中文
-- [Escaping the Subspace Trap: The Role of Optimizer Geometry in Model Width Expansion](../../papers/llm.md#chen26eq-optimization) · 中文
-- [SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search](../../papers/llm.md#chen26ew-optimization) · 中文
-- [QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment](../../papers/llm.md#chen26ex-optimization) · 中文
-- [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](../../papers/llm.md#chen26fe-optimization) · 中文
-- [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](../../papers/llm.md#chen26hb-optimization) · 中文
-- [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](../../papers/llm.md#chong26a-optimization) · 中文
-- [Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression](../../papers/llm.md#ding26q-optimization) · 中文
-- [CoCoQuant: Breaking the Bandwidth Wall via Co-Optimized Communication and Computation Quantization](../../papers/llm.md#duanmu26a-optimization) · 中文
-- [LOZO+: Provably Efficient Zeroth-Order Fine-Tuning via Greedy Low-Rank Subspace Selection](../../papers/llm.md#fang26k-optimization) · 中文
-- [Convex Optimization for Alignment and Preference Learning on a Single GPU](../../papers/llm.md#feng26l-optimization) · 中文
-- [Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization](../../papers/llm.md#feng26y-optimization) · 中文
-- [Memory-Efficient LLM Pretraining via Minimalist Optimizer Design](../../papers/llm.md#glentis26a-optimization) · 中文
-- [LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs](../../papers/llm.md#gordon26b-optimization) · 中文
+- [Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression](../../conferences/icml-2026/cards/0001-0100.md#abbasi26a-optimization) · 中文
+- [AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments](../../conferences/icml-2026/cards/0301-0400.md#cai26a-optimization) · 中文
+- [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](../../conferences/icml-2026/cards/0401-0500.md#castin26a-optimization) · 中文
+- [WUSH: Near-Optimal Adaptive Transforms for LLM Quantization](../../conferences/icml-2026/cards/0401-0500.md#chen26z-optimization) · 中文
+- [SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection](../../conferences/icml-2026/cards/0501-0600.md#chen26ba-optimization) · 中文
+- [Reward-free Alignment for Conflicting Objectives](../../conferences/icml-2026/cards/0501-0600.md#chen26bl-optimization) · 中文
+- [BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models](../../conferences/icml-2026/cards/0501-0600.md#chen26bt-optimization) · 中文
+- [Escaping the Subspace Trap: The Role of Optimizer Geometry in Model Width Expansion](../../conferences/icml-2026/cards/0601-0700.md#chen26eq-optimization) · 中文
+- [SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search](../../conferences/icml-2026/cards/0601-0700.md#chen26ew-optimization) · 中文
+- [QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment](../../conferences/icml-2026/cards/0601-0700.md#chen26ex-optimization) · 中文
+- [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](../../conferences/icml-2026/cards/0601-0700.md#chen26fe-optimization) · 中文
+- [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](../../conferences/icml-2026/cards/0601-0700.md#chen26hb-optimization) · 中文
+- [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](../../conferences/icml-2026/cards/0701-0800.md#chong26a-optimization) · 中文
+- [Attribution-Guided and Coverage-Maximized Pruning for Structural MoE Compression](../../conferences/icml-2026/cards/0901-1000.md#ding26q-optimization) · 中文
+- [CoCoQuant: Breaking the Bandwidth Wall via Co-Optimized Communication and Computation Quantization](../../conferences/icml-2026/cards/0901-1000.md#duanmu26a-optimization) · 中文
+- [LOZO+: Provably Efficient Zeroth-Order Fine-Tuning via Greedy Low-Rank Subspace Selection](../../conferences/icml-2026/cards/1001-1100.md#fang26k-optimization) · 中文
+- [Convex Optimization for Alignment and Preference Learning on a Single GPU](../../conferences/icml-2026/cards/1101-1200.md#feng26l-optimization) · 中文
+- [Lookahead-GCG: Improving Universal Multi-Model Optimization-Based Jailbreaking Attacks via Stochastic Nesterov Optimization](../../conferences/icml-2026/cards/1101-1200.md#feng26y-optimization) · 中文
+- [Memory-Efficient LLM Pretraining via Minimalist Optimizer Design](../../conferences/icml-2026/cards/1201-1300.md#glentis26a-optimization) · 中文
+- [LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs](../../conferences/icml-2026/cards/1301-1400.md#gordon26b-optimization) · 中文
+
+<a id="by-computer-vision"></a>
 
 ### Computer Vision
 
-- [Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy](../../papers/computer-vision.md#crane26a-optimization) · 中文
-- [TextMesh4D: Zero-shot Text-to-4D Mesh Generation](../../papers/computer-vision.md#dai26h-optimization) · 中文
-- [Trajectory Stitching for Solving Inverse Problems with Flow-Based Models](../../papers/computer-vision.md#denker26a-optimization) · 中文
-- [Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture](../../papers/computer-vision.md#ding26p-optimization) · 中文
+- [Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy](../../conferences/icml-2026/cards/0701-0800.md#crane26a-optimization) · 中文
+- [TextMesh4D: Zero-shot Text-to-4D Mesh Generation](../../conferences/icml-2026/cards/0801-0900.md#dai26h-optimization) · 中文
+- [Trajectory Stitching for Solving Inverse Problems with Flow-Based Models](../../conferences/icml-2026/cards/0801-0900.md#denker26a-optimization) · 中文
+- [Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture](../../conferences/icml-2026/cards/0901-1000.md#ding26p-optimization) · 中文
+
+<a id="by-nlp"></a>
 
 ### Natural Language Processing
 
-- [Convex Low-resource Accent-Robust Language Detection in Speech Recognition](../../papers/nlp.md#feng26p-optimization) · 中文
+- [Convex Low-resource Accent-Robust Language Detection in Speech Recognition](../../conferences/icml-2026/cards/1101-1200.md#feng26p-optimization) · 中文
+
+<a id="by-reinforcement-learning"></a>
 
 ### Reinforcement Learning
 
-- [Fast Mixing Steady-State Control in Markov Decision Processes](../../papers/reinforcement-learning.md#corso26a-optimization) · 中文
-- [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../papers/reinforcement-learning.md#dam26a-optimization) · 中文
+- [Fast Mixing Steady-State Control in Markov Decision Processes](../../conferences/icml-2026/cards/0701-0800.md#corso26a-optimization) · 中文
+- [Second-Order Smooth Planning with Optimal-Transport Bellman Smoothing](../../conferences/icml-2026/cards/0801-0900.md#dam26a-optimization) · 中文
+
+<a id="by-robotics"></a>
 
 ### Robotics
 
-- [Blending Neural Control Density Functions for Stabilization and Safety](../../papers/robotics.md#chaudhary26a-optimization) · 中文
-- [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../../papers/robotics.md#fan26g-optimization) · 中文
+- [Blending Neural Control Density Functions for Stabilization and Safety](../../conferences/icml-2026/cards/0401-0500.md#chaudhary26a-optimization) · 中文
+- [De4D-SLAM: Gradient-Isolated Static-Dynamic Decoupling for Monocular SLAM in Dynamic Environments](../../conferences/icml-2026/cards/1001-1100.md#fan26g-optimization) · 中文
+
+<a id="by-multimodal"></a>
 
 ### Multimodal Learning
 
-- [MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](../../papers/multimodal.md#gao26an-optimization) · 中文
-- [Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation](../../papers/multimodal.md#gu26i-optimization) · 中文
+- [MFH-NAS:A Hybrid Neural Architecture Search Framework for Multimodal Fusion Object Detection](../../conferences/icml-2026/cards/1201-1300.md#gao26an-optimization) · 中文
+- [Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation](../../conferences/icml-2026/cards/1301-1400.md#gu26i-optimization) · 中文
+
+<a id="by-ml-foundations"></a>
 
 ### Machine Learning Foundations and Statistics
 
-- [QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](../../papers/ml-foundations.md#abbas26a-optimization) · 中文
-- [Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](../../papers/ml-foundations.md#abe26a-optimization) · 中文
-- [Bridging Spherical Black-Box Optimizers](../../papers/ml-foundations.md#ackermann26b-optimization) · 中文
-- [SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](../../papers/ml-foundations.md#adnan26a-optimization) · 中文
-- [A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](../../papers/ml-foundations.md#afriat26a-optimization) · 中文
-- [An Efficient Joint Learning Approach for Item Response Theory](../../papers/ml-foundations.md#agarwal26d-optimization) · 中文
-- [Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](../../papers/ml-foundations.md#aguie26a-optimization) · 中文
-- [Why Do We Need Warm-up? A Theoretical Perspective](../../papers/ml-foundations.md#alimisis26a-optimization) · 中文
-- [Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems](../../papers/ml-foundations.md#amidzadeh26a-optimization) · 中文
-- [Diffusion Differentiable Resampling](../../papers/ml-foundations.md#andersson26b-optimization) · 中文
-- [Momentum Further Constrains Sharpness at the Edge of Stochastic Stability](../../papers/ml-foundations.md#andreyev26a-optimization) · 中文
-- [Taming Stochastic Gradient Descent: Almost Sure Convergence and Saddle-Point Avoidance under $(L_0,L_1)$-Smoothness](../../papers/ml-foundations.md#apidopoulos26a-optimization) · 中文
-- [High-Probability Convergence Guarantees of Decentralized SGD](../../papers/ml-foundations.md#armacki26a-optimization) · 中文
-- [Exploiting weight-space symmetries for approximating curvature](../../papers/ml-foundations.md#artemev26a-optimization) · 中文
-- [Learning Rate Annealing Improves Tuning Robustness in Stochastic Optimization](../../papers/ml-foundations.md#attia26a-optimization) · 中文
-- [Reducing Per-Sample Interference in Stochastic Optimization](../../papers/ml-foundations.md#avranas26a-optimization) · 中文
-- [Taking the GP Out of the Loop](../../papers/ml-foundations.md#bafna26a-optimization) · 中文
-- [Towards Understanding Adam Convergence on Highly Degenerate Polynomials](../../papers/ml-foundations.md#bai26m-optimization) · 中文
-- [Adaptive Preconditioners Trigger Loss Spikes in Adam](../../papers/ml-foundations.md#bai26o-optimization) · 中文
-- [Dimension-Free Multimodal Sampling via Preconditioned Annealed Langevin Dynamics](../../papers/ml-foundations.md#baldassari26a-optimization) · 中文
-- [Local-Minima-Preserving Polynomial Relaxation of Ising Problems](../../papers/ml-foundations.md#banerjee26a-optimization) · 中文
-- [Improved Dynamic Algorithm for Non-monotone Submodular Maximization under Cardinality Constraint](../../papers/ml-foundations.md#banihashem26c-optimization) · 中文
-- [CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings](../../papers/ml-foundations.md#bhatia26a-optimization) · 中文
-- [FedFit: Federated Dynamic Sparse Training via Fisher Information scoring](../../papers/ml-foundations.md#bi26b-optimization) · 中文
-- [Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers](../../papers/ml-foundations.md#blasingame26a-optimization) · 中文
-- [Batched First-Order Methods for Parallel LP Solving in MIP](../../papers/ml-foundations.md#blin26a-optimization) · 中文
-- [Variational inference via Gaussian interacting particles in the Bures-Wasserstein geometry](../../papers/ml-foundations.md#borghi26a-optimization) · 中文
-- [JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference](../../papers/ml-foundations.md#bracher26a-optimization) · 中文
-- [Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval](../../papers/ml-foundations.md#braun26a-optimization) · 中文
-- [Flatness-Aware Stochastic Gradient Langevin Dynamics](../../papers/ml-foundations.md#bruno26a-optimization) · 中文
-- [Fast Spectrally Sparse Signal Reconstruction via Jacobi-Preconditioned Gradient Descent](../../papers/ml-foundations.md#cai26j-optimization) · 中文
-- [Diversity-Aware Recursive Feature Multiple Kernel Learning](../../papers/ml-foundations.md#cao26ae-optimization) · 中文
-- [Bregman meets Lévy: Stochastic Mirror Descent with Heavy-Tailed Noise in Continuous and Discrete Time](../../papers/ml-foundations.md#cauvin26a-optimization) · 中文
-- [Geometric Convergence of Gauss–Newton for Neural Networks: Riemannian Geometry and Adaptive Damping](../../papers/ml-foundations.md#cayci26a-optimization) · 中文
-- [Efficient Online Variational Estimation via Monte Carlo Sampling](../../papers/ml-foundations.md#chagneux26a-optimization) · 中文
-- [Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes](../../papers/ml-foundations.md#chakraborty26c-optimization) · 中文
-- [Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem](../../papers/ml-foundations.md#chao26a-optimization) · 中文
-- [Iterated Population Based Training with Task-Agnostic Restarts](../../papers/ml-foundations.md#chebykin26a-optimization) · 中文
-- [Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity](../../papers/ml-foundations.md#chekalina26a-optimization) · 中文
-- [Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination](../../papers/ml-foundations.md#chen26e-optimization) · 中文
-- [Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching](../../papers/ml-foundations.md#chen26ah-optimization) · 中文
-- [IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation](../../papers/ml-foundations.md#chen26ax-optimization) · 中文
-- [Thinned Mean Field Langevin Dynamics](../../papers/ml-foundations.md#chen26bd-optimization) · 中文
-- [Understanding SAM through Minimax Perspective](../../papers/ml-foundations.md#chen26bo-optimization) · 中文
-- [How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](../../papers/ml-foundations.md#chen26de-optimization) · 中文
-- [Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning](../../papers/ml-foundations.md#chen26ei-optimization) · 中文
-- [HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation](../../papers/ml-foundations.md#chen26fd-optimization) · 中文
-- [JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning](../../papers/ml-foundations.md#chen26fz-optimization) · 中文
-- [Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](../../papers/ml-foundations.md#chen26gg-optimization) · 中文
-- [Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask](../../papers/ml-foundations.md#cheng26f-optimization) · 中文
-- [Parameter Decorrelation via Transition-Variance Alignment for Multivariate Time-series Forecasting](../../papers/ml-foundations.md#choi26j-optimization) · 中文
-- [Learning Unanimously Acceptable Lotteries via Queries](../../papers/ml-foundations.md#choo26b-optimization) · 中文
-- [Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation](../../papers/ml-foundations.md#chung26d-optimization) · 中文
-- [Conformal Prediction for Early Stopping in Mixed Integer Optimization](../../papers/ml-foundations.md#clarke26a-optimization) · 中文
-- [Learning-Augmented Online Minimization with Dual Predictions](../../papers/ml-foundations.md#coester26a-optimization) · 中文
-- [Beyond Binary: Continuous State Optimization with Graph-Structured Objectives](../../papers/ml-foundations.md#cortes26a-optimization) · 中文
-- [An Exploration of Non-Euclidean Gradient Descent: Muon and its Many Variants](../../papers/ml-foundations.md#crawshaw26a-optimization) · 中文
-- [Budget-Feasible Mechanisms for Submodular Welfare Maximization in Procurement Auctions](../../papers/ml-foundations.md#cui26b-optimization) · 中文
-- [Efficient Stochastic Optimisation via Sequential Monte Carlo](../../papers/ml-foundations.md#cuin26a-optimization) · 中文
-- [SVRG and Beyond via Posterior Correction](../../papers/ml-foundations.md#daheim26a-optimization) · 中文
-- [Convex Basins in Single-Index Model Loss Landscapes: Applications to Robust Recovery under Strong Adversarial Corruption](../../papers/ml-foundations.md#das26a-optimization) · 中文
-- [Variational Inference for Uncertain Optimal Transport via Sinkhorn Parametrization](../../papers/ml-foundations.md#de26a-optimization) · 中文
-- [Continual Learning through Control Minimization](../../papers/ml-foundations.md#de-haan26a-optimization) · 中文
-- [A Unified Density Operator View of Flow Control and Merging](../../papers/ml-foundations.md#de-santi26a-optimization) · 中文
-- [RMNP: Row-Momentum Normalized Preconditioning for Scalable Matrix-Based Optimization](../../papers/ml-foundations.md#deng26q-optimization) · 中文
-- [Operator Splitting with Hamilton-Jacobi-based Proximals](../../papers/ml-foundations.md#di26a-optimization) · 中文
-- [Near-Optimal and Efficient First-Order Algorithm for Multi-Task Learning with Shared Linear Representation](../../papers/ml-foundations.md#ding26b-optimization) · 中文
-- [DMCO: Budget-Aware Co-Optimization of Data Cleaning and AutoML](../../papers/ml-foundations.md#ding26l-optimization) · 中文
-- [Diffusion-based learning framework for Constrained Nonconvex Optimization with Weighted Bootstrapped Refinement](../../papers/ml-foundations.md#ding26aa-optimization) · 中文
-- [FIBER: A Differentially Private Optimizer with Filter-Aware Innovation Bias Correction](../../papers/ml-foundations.md#dm26a-optimization) · 中文
-- [Romberg-Extrapolated Zeroth-Order Gradient Estimator: Higher-Order Bias Reduction with Preserved Leading Directional Variance](../../papers/ml-foundations.md#dong26j-optimization) · 中文
-- [Algorithmic Recourse of In-Context Learning for Tabular Data](../../papers/ml-foundations.md#dong26n-optimization) · 中文
-- [Fast kernel methods: Sobolev, physics-informed, and additive models](../../papers/ml-foundations.md#doumeche26a-optimization) · 中文
-- [Meta-Black-Box Optimization Can Do Search Guidance for Expensive Constrained Multi-Objective Optimization](../../papers/ml-foundations.md#du26r-optimization) · 中文
-- [A General Framework for Dynamic Consistent Submodular Maximization](../../papers/ml-foundations.md#duetting26a-optimization) · 中文
-- [Mixtures Closest To A Given Measure: A Semidefinite Programming Approach](../../papers/ml-foundations.md#durasinovic26a-optimization) · 中文
-- [Variational Entropic Optimal Transport](../../papers/ml-foundations.md#dyachenko26a-optimization) · 中文
-- [Learning Permutation from Structure Without Supervision](../../papers/ml-foundations.md#eisenberg26a-optimization) · 中文
-- [TSP with Predictions: Heatmap to Tour with Provable Guarantees](../../papers/ml-foundations.md#elias26a-optimization) · 中文
-- [Solving Positive Linear Programs with Differential Privacy](../../papers/ml-foundations.md#ene26a-optimization) · 中文
-- [Learning Randomized Reductions](../../papers/ml-foundations.md#erata26a-optimization) · 中文
-- [Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](../../papers/ml-foundations.md#erickson26a-optimization) · 中文
-- [Robust Bayesian Optimisation with Unbounded Corruptions](../../papers/ml-foundations.md#ezzerg26a-optimization) · 中文
-- [ASAP: Exploiting the Satisficing Generalization Edge in Neural Combinatorial Optimization](../../papers/ml-foundations.md#fang26t-optimization) · 中文
-- [Solving the Offline and Online Min-Max Problem of Non-smooth Submodular-Concave Functions: A Zeroth-Order Approach](../../papers/ml-foundations.md#farzin26a-optimization) · 中文
-- [Dissecting Quantization Error: A Concentration-Alignment Perspective](../../papers/ml-foundations.md#federici26a-optimization) · 中文
-- [Learning in the Fisher Subspace: A Guided Initialization for LoRA Fine-Tuning](../../papers/ml-foundations.md#feng26h-optimization) · 中文
-- [Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching](../../papers/ml-foundations.md#feng26o-optimization) · 中文
-- [Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](../../papers/ml-foundations.md#feoktistov26a-optimization) · 中文
-- [CLASP: Online learning algorithms for Convex Losses And Squared Penalties](../../papers/ml-foundations.md#ferreira26a-optimization) · 中文
-- [Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms](../../papers/ml-foundations.md#gadekar26a-optimization) · 中文
-- [Flatland: The Adventures of Gradient Descent with Large Step Sizes](../../papers/ml-foundations.md#galli26a-optimization) · 中文
-- [Inference from Quantized Data via Normal Variance-Mean Mixtures](../../papers/ml-foundations.md#gao26ah-optimization) · 中文
-- [Projection-Free Algorithms for Minimax Problems](../../papers/ml-foundations.md#giang-tran26a-optimization) · 中文
-- [Improved Stochastic Optimization of LogSumExp](../../papers/ml-foundations.md#gladin26a-optimization) · 中文
-- [ePC: Fast and Deep Predictive Coding in Digital Simulation](../../papers/ml-foundations.md#goemaere26a-optimization) · 中文
-- [A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms](../../papers/ml-foundations.md#goldshlager26a-optimization) · 中文
-- [FlashOptim: Optimizers for Memory-Efficient Training](../../papers/ml-foundations.md#gonzalez-ortiz26a-optimization) · 中文
-- [Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning](../../papers/ml-foundations.md#goudet26a-optimization) · 中文
-- [Categorical Reparameterization with Denoising Diffusion Models](../../papers/ml-foundations.md#gourevitch26a-optimization) · 中文
-- [Multi-marginal temporal Schrödinger Bridge Matching from unpaired data](../../papers/ml-foundations.md#gravier26a-optimization) · 中文
-- [Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling](../../papers/ml-foundations.md#gruhlke26a-optimization) · 中文
-- [Mirror Mean-Field Langevin Dynamics](../../papers/ml-foundations.md#gu26e-optimization) · 中文
-- [Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning](../../papers/ml-foundations.md#gu26n-optimization) · 中文
-- [Constrained Bayesian Experimental Design via Online Planning](../../papers/ml-foundations.md#guo26g-optimization) · 中文
-- [Discrete Adjoint Schrödinger Bridge Sampler](../../papers/ml-foundations.md#guo26al-optimization) · 中文
-- [Maximin Relative Improvement: Fair Learning as a Bargaining Problem](../../papers/ml-foundations.md#han26a-optimization) · 中文
+- [QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](../../conferences/icml-2026/cards/0001-0100.md#abbas26a-optimization) · 中文
+- [Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](../../conferences/icml-2026/cards/0001-0100.md#abe26a-optimization) · 中文
+- [Bridging Spherical Black-Box Optimizers](../../conferences/icml-2026/cards/0001-0100.md#ackermann26b-optimization) · 中文
+- [SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](../../conferences/icml-2026/cards/0001-0100.md#adnan26a-optimization) · 中文
+- [A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](../../conferences/icml-2026/cards/0001-0100.md#afriat26a-optimization) · 中文
+- [An Efficient Joint Learning Approach for Item Response Theory](../../conferences/icml-2026/cards/0001-0100.md#agarwal26d-optimization) · 中文
+- [Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](../../conferences/icml-2026/cards/0001-0100.md#aguie26a-optimization) · 中文
+- [Why Do We Need Warm-up? A Theoretical Perspective](../../conferences/icml-2026/cards/0001-0100.md#alimisis26a-optimization) · 中文
+- [Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems](../../conferences/icml-2026/cards/0001-0100.md#amidzadeh26a-optimization) · 中文
+- [Diffusion Differentiable Resampling](../../conferences/icml-2026/cards/0001-0100.md#andersson26b-optimization) · 中文
+- [Momentum Further Constrains Sharpness at the Edge of Stochastic Stability](../../conferences/icml-2026/cards/0001-0100.md#andreyev26a-optimization) · 中文
+- [Taming Stochastic Gradient Descent: Almost Sure Convergence and Saddle-Point Avoidance under $(L_0,L_1)$-Smoothness](../../conferences/icml-2026/cards/0101-0200.md#apidopoulos26a-optimization) · 中文
+- [High-Probability Convergence Guarantees of Decentralized SGD](../../conferences/icml-2026/cards/0101-0200.md#armacki26a-optimization) · 中文
+- [Exploiting weight-space symmetries for approximating curvature](../../conferences/icml-2026/cards/0101-0200.md#artemev26a-optimization) · 中文
+- [Learning Rate Annealing Improves Tuning Robustness in Stochastic Optimization](../../conferences/icml-2026/cards/0101-0200.md#attia26a-optimization) · 中文
+- [Reducing Per-Sample Interference in Stochastic Optimization](../../conferences/icml-2026/cards/0101-0200.md#avranas26a-optimization) · 中文
+- [Taking the GP Out of the Loop](../../conferences/icml-2026/cards/0101-0200.md#bafna26a-optimization) · 中文
+- [Towards Understanding Adam Convergence on Highly Degenerate Polynomials](../../conferences/icml-2026/cards/0101-0200.md#bai26m-optimization) · 中文
+- [Adaptive Preconditioners Trigger Loss Spikes in Adam](../../conferences/icml-2026/cards/0101-0200.md#bai26o-optimization) · 中文
+- [Dimension-Free Multimodal Sampling via Preconditioned Annealed Langevin Dynamics](../../conferences/icml-2026/cards/0101-0200.md#baldassari26a-optimization) · 中文
+- [Local-Minima-Preserving Polynomial Relaxation of Ising Problems](../../conferences/icml-2026/cards/0201-0300.md#banerjee26a-optimization) · 中文
+- [Improved Dynamic Algorithm for Non-monotone Submodular Maximization under Cardinality Constraint](../../conferences/icml-2026/cards/0201-0300.md#banihashem26c-optimization) · 中文
+- [CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings](../../conferences/icml-2026/cards/0201-0300.md#bhatia26a-optimization) · 中文
+- [FedFit: Federated Dynamic Sparse Training via Fisher Information scoring](../../conferences/icml-2026/cards/0201-0300.md#bi26b-optimization) · 中文
+- [Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers](../../conferences/icml-2026/cards/0201-0300.md#blasingame26a-optimization) · 中文
+- [Batched First-Order Methods for Parallel LP Solving in MIP](../../conferences/icml-2026/cards/0201-0300.md#blin26a-optimization) · 中文
+- [Variational inference via Gaussian interacting particles in the Bures-Wasserstein geometry](../../conferences/icml-2026/cards/0301-0400.md#borghi26a-optimization) · 中文
+- [JADAI: Jointly Amortizing Adaptive Design and Bayesian Inference](../../conferences/icml-2026/cards/0301-0400.md#bracher26a-optimization) · 中文
+- [Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval](../../conferences/icml-2026/cards/0301-0400.md#braun26a-optimization) · 中文
+- [Flatness-Aware Stochastic Gradient Langevin Dynamics](../../conferences/icml-2026/cards/0301-0400.md#bruno26a-optimization) · 中文
+- [Fast Spectrally Sparse Signal Reconstruction via Jacobi-Preconditioned Gradient Descent](../../conferences/icml-2026/cards/0301-0400.md#cai26j-optimization) · 中文
+- [Diversity-Aware Recursive Feature Multiple Kernel Learning](../../conferences/icml-2026/cards/0401-0500.md#cao26ae-optimization) · 中文
+- [Bregman meets Lévy: Stochastic Mirror Descent with Heavy-Tailed Noise in Continuous and Discrete Time](../../conferences/icml-2026/cards/0401-0500.md#cauvin26a-optimization) · 中文
+- [Geometric Convergence of Gauss–Newton for Neural Networks: Riemannian Geometry and Adaptive Damping](../../conferences/icml-2026/cards/0401-0500.md#cayci26a-optimization) · 中文
+- [Efficient Online Variational Estimation via Monte Carlo Sampling](../../conferences/icml-2026/cards/0401-0500.md#chagneux26a-optimization) · 中文
+- [Randomized Feasibility Methods for Constrained Optimization with Adaptive Step Sizes](../../conferences/icml-2026/cards/0401-0500.md#chakraborty26c-optimization) · 中文
+- [Last-iterate Convergence of ADMM on Multi-affine Quadratic Equality Constrained Problem](../../conferences/icml-2026/cards/0401-0500.md#chao26a-optimization) · 中文
+- [Iterated Population Based Training with Task-Agnostic Restarts](../../conferences/icml-2026/cards/0401-0500.md#chebykin26a-optimization) · 中文
+- [Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity](../../conferences/icml-2026/cards/0401-0500.md#chekalina26a-optimization) · 中文
+- [Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination](../../conferences/icml-2026/cards/0401-0500.md#chen26e-optimization) · 中文
+- [Data-driven Mixed Integer Optimization through Probabilistic Multi-variable Branching](../../conferences/icml-2026/cards/0501-0600.md#chen26ah-optimization) · 中文
+- [IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation](../../conferences/icml-2026/cards/0501-0600.md#chen26ax-optimization) · 中文
+- [Thinned Mean Field Langevin Dynamics](../../conferences/icml-2026/cards/0501-0600.md#chen26bd-optimization) · 中文
+- [Understanding SAM through Minimax Perspective](../../conferences/icml-2026/cards/0501-0600.md#chen26bo-optimization) · 中文
+- [How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](../../conferences/icml-2026/cards/0501-0600.md#chen26de-optimization) · 中文
+- [Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning](../../conferences/icml-2026/cards/0601-0700.md#chen26ei-optimization) · 中文
+- [HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation](../../conferences/icml-2026/cards/0601-0700.md#chen26fd-optimization) · 中文
+- [JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning](../../conferences/icml-2026/cards/0601-0700.md#chen26fz-optimization) · 中文
+- [Distributionally Robust Set Representation Learning Under Inference-Time Element Corruption](../../conferences/icml-2026/cards/0601-0700.md#chen26gg-optimization) · 中文
+- [Achieving Structurally Robust Gromov Wasserstein Distance via Adaptive Dual-Mask](../../conferences/icml-2026/cards/0601-0700.md#cheng26f-optimization) · 中文
+- [Parameter Decorrelation via Transition-Variance Alignment for Multivariate Time-series Forecasting](../../conferences/icml-2026/cards/0701-0800.md#choi26j-optimization) · 中文
+- [Learning Unanimously Acceptable Lotteries via Queries](../../conferences/icml-2026/cards/0701-0800.md#choo26b-optimization) · 中文
+- [Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation](../../conferences/icml-2026/cards/0701-0800.md#chung26d-optimization) · 中文
+- [Conformal Prediction for Early Stopping in Mixed Integer Optimization](../../conferences/icml-2026/cards/0701-0800.md#clarke26a-optimization) · 中文
+- [Learning-Augmented Online Minimization with Dual Predictions](../../conferences/icml-2026/cards/0701-0800.md#coester26a-optimization) · 中文
+- [Beyond Binary: Continuous State Optimization with Graph-Structured Objectives](../../conferences/icml-2026/cards/0701-0800.md#cortes26a-optimization) · 中文
+- [An Exploration of Non-Euclidean Gradient Descent: Muon and its Many Variants](../../conferences/icml-2026/cards/0701-0800.md#crawshaw26a-optimization) · 中文
+- [Budget-Feasible Mechanisms for Submodular Welfare Maximization in Procurement Auctions](../../conferences/icml-2026/cards/0701-0800.md#cui26b-optimization) · 中文
+- [Efficient Stochastic Optimisation via Sequential Monte Carlo](../../conferences/icml-2026/cards/0801-0900.md#cuin26a-optimization) · 中文
+- [SVRG and Beyond via Posterior Correction](../../conferences/icml-2026/cards/0801-0900.md#daheim26a-optimization) · 中文
+- [Convex Basins in Single-Index Model Loss Landscapes: Applications to Robust Recovery under Strong Adversarial Corruption](../../conferences/icml-2026/cards/0801-0900.md#das26a-optimization) · 中文
+- [Variational Inference for Uncertain Optimal Transport via Sinkhorn Parametrization](../../conferences/icml-2026/cards/0801-0900.md#de26a-optimization) · 中文
+- [Continual Learning through Control Minimization](../../conferences/icml-2026/cards/0801-0900.md#de-haan26a-optimization) · 中文
+- [A Unified Density Operator View of Flow Control and Merging](../../conferences/icml-2026/cards/0801-0900.md#de-santi26a-optimization) · 中文
+- [RMNP: Row-Momentum Normalized Preconditioning for Scalable Matrix-Based Optimization](../../conferences/icml-2026/cards/0801-0900.md#deng26q-optimization) · 中文
+- [Operator Splitting with Hamilton-Jacobi-based Proximals](../../conferences/icml-2026/cards/0801-0900.md#di26a-optimization) · 中文
+- [Near-Optimal and Efficient First-Order Algorithm for Multi-Task Learning with Shared Linear Representation](../../conferences/icml-2026/cards/0901-1000.md#ding26b-optimization) · 中文
+- [DMCO: Budget-Aware Co-Optimization of Data Cleaning and AutoML](../../conferences/icml-2026/cards/0901-1000.md#ding26l-optimization) · 中文
+- [Diffusion-based learning framework for Constrained Nonconvex Optimization with Weighted Bootstrapped Refinement](../../conferences/icml-2026/cards/0901-1000.md#ding26aa-optimization) · 中文
+- [FIBER: A Differentially Private Optimizer with Filter-Aware Innovation Bias Correction](../../conferences/icml-2026/cards/0901-1000.md#dm26a-optimization) · 中文
+- [Romberg-Extrapolated Zeroth-Order Gradient Estimator: Higher-Order Bias Reduction with Preserved Leading Directional Variance](../../conferences/icml-2026/cards/0901-1000.md#dong26j-optimization) · 中文
+- [Algorithmic Recourse of In-Context Learning for Tabular Data](../../conferences/icml-2026/cards/0901-1000.md#dong26n-optimization) · 中文
+- [Fast kernel methods: Sobolev, physics-informed, and additive models](../../conferences/icml-2026/cards/0901-1000.md#doumeche26a-optimization) · 中文
+- [Meta-Black-Box Optimization Can Do Search Guidance for Expensive Constrained Multi-Objective Optimization](../../conferences/icml-2026/cards/0901-1000.md#du26r-optimization) · 中文
+- [A General Framework for Dynamic Consistent Submodular Maximization](../../conferences/icml-2026/cards/0901-1000.md#duetting26a-optimization) · 中文
+- [Mixtures Closest To A Given Measure: A Semidefinite Programming Approach](../../conferences/icml-2026/cards/0901-1000.md#durasinovic26a-optimization) · 中文
+- [Variational Entropic Optimal Transport](../../conferences/icml-2026/cards/1001-1100.md#dyachenko26a-optimization) · 中文
+- [Learning Permutation from Structure Without Supervision](../../conferences/icml-2026/cards/1001-1100.md#eisenberg26a-optimization) · 中文
+- [TSP with Predictions: Heatmap to Tour with Provable Guarantees](../../conferences/icml-2026/cards/1001-1100.md#elias26a-optimization) · 中文
+- [Solving Positive Linear Programs with Differential Privacy](../../conferences/icml-2026/cards/1001-1100.md#ene26a-optimization) · 中文
+- [Learning Randomized Reductions](../../conferences/icml-2026/cards/1001-1100.md#erata26a-optimization) · 中文
+- [Clipping Makes Distributed and Federated Asynchronous SGD Robust to Stragglers](../../conferences/icml-2026/cards/1001-1100.md#erickson26a-optimization) · 中文
+- [Robust Bayesian Optimisation with Unbounded Corruptions](../../conferences/icml-2026/cards/1001-1100.md#ezzerg26a-optimization) · 中文
+- [ASAP: Exploiting the Satisficing Generalization Edge in Neural Combinatorial Optimization](../../conferences/icml-2026/cards/1001-1100.md#fang26t-optimization) · 中文
+- [Solving the Offline and Online Min-Max Problem of Non-smooth Submodular-Concave Functions: A Zeroth-Order Approach](../../conferences/icml-2026/cards/1001-1100.md#farzin26a-optimization) · 中文
+- [Dissecting Quantization Error: A Concentration-Alignment Perspective](../../conferences/icml-2026/cards/1001-1100.md#federici26a-optimization) · 中文
+- [Learning in the Fisher Subspace: A Guided Initialization for LoRA Fine-Tuning](../../conferences/icml-2026/cards/1101-1200.md#feng26h-optimization) · 中文
+- [Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching](../../conferences/icml-2026/cards/1101-1200.md#feng26o-optimization) · 中文
+- [Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](../../conferences/icml-2026/cards/1101-1200.md#feoktistov26a-optimization) · 中文
+- [CLASP: Online learning algorithms for Convex Losses And Squared Penalties](../../conferences/icml-2026/cards/1101-1200.md#ferreira26a-optimization) · 中文
+- [Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms](../../conferences/icml-2026/cards/1101-1200.md#gadekar26a-optimization) · 中文
+- [Flatland: The Adventures of Gradient Descent with Large Step Sizes](../../conferences/icml-2026/cards/1101-1200.md#galli26a-optimization) · 中文
+- [Inference from Quantized Data via Normal Variance-Mean Mixtures](../../conferences/icml-2026/cards/1201-1300.md#gao26ah-optimization) · 中文
+- [Projection-Free Algorithms for Minimax Problems](../../conferences/icml-2026/cards/1201-1300.md#giang-tran26a-optimization) · 中文
+- [Improved Stochastic Optimization of LogSumExp](../../conferences/icml-2026/cards/1201-1300.md#gladin26a-optimization) · 中文
+- [ePC: Fast and Deep Predictive Coding in Digital Simulation](../../conferences/icml-2026/cards/1201-1300.md#goemaere26a-optimization) · 中文
+- [A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms](../../conferences/icml-2026/cards/1201-1300.md#goldshlager26a-optimization) · 中文
+- [FlashOptim: Optimizers for Memory-Efficient Training](../../conferences/icml-2026/cards/1301-1400.md#gonzalez-ortiz26a-optimization) · 中文
+- [Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning](../../conferences/icml-2026/cards/1301-1400.md#goudet26a-optimization) · 中文
+- [Categorical Reparameterization with Denoising Diffusion Models](../../conferences/icml-2026/cards/1301-1400.md#gourevitch26a-optimization) · 中文
+- [Multi-marginal temporal Schrödinger Bridge Matching from unpaired data](../../conferences/icml-2026/cards/1301-1400.md#gravier26a-optimization) · 中文
+- [Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling](../../conferences/icml-2026/cards/1301-1400.md#gruhlke26a-optimization) · 中文
+- [Mirror Mean-Field Langevin Dynamics](../../conferences/icml-2026/cards/1301-1400.md#gu26e-optimization) · 中文
+- [Parameter-Masked Decoupled Optimization for Cross-Domain Class-Incremental Learning](../../conferences/icml-2026/cards/1301-1400.md#gu26n-optimization) · 中文
+- [Constrained Bayesian Experimental Design via Online Planning](../../conferences/icml-2026/cards/1301-1400.md#guo26g-optimization) · 中文
+- [Discrete Adjoint Schrödinger Bridge Sampler](../../conferences/icml-2026/cards/1401-1500.md#guo26al-optimization) · 中文
+- [Maximin Relative Improvement: Fair Learning as a Bargaining Problem](../../conferences/icml-2026/cards/1401-1500.md#han26a-optimization) · 中文
+
+<a id="by-graph-and-recommendation"></a>
 
 ### Graph Learning and Recommendation
 
-- [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](../../papers/graph-and-recommendation.md#bai26g-optimization) · 中文
-- [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](../../papers/graph-and-recommendation.md#chakraborty26b-optimization) · 中文
-- [Differentially Private Range Subgraph Counting](../../papers/graph-and-recommendation.md#chen26b-optimization) · 中文
-- [What Makes a Desired Graph for Relational Deep Learning?](../../papers/graph-and-recommendation.md#cheng26j-optimization) · 中文
-- [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../../papers/graph-and-recommendation.md#gupta26b-optimization) · 中文
+- [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](../../conferences/icml-2026/cards/0101-0200.md#bai26g-optimization) · 中文
+- [Fairness in Aggregation: Optimal Top-$k$ and Improved Full Ranking](../../conferences/icml-2026/cards/0401-0500.md#chakraborty26b-optimization) · 中文
+- [Differentially Private Range Subgraph Counting](../../conferences/icml-2026/cards/0401-0500.md#chen26b-optimization) · 中文
+- [What Makes a Desired Graph for Relational Deep Learning?](../../conferences/icml-2026/cards/0601-0700.md#cheng26j-optimization) · 中文
+- [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../../conferences/icml-2026/cards/1401-1500.md#gupta26b-optimization) · 中文
+
+<a id="by-scientific-ml"></a>
 
 ### Scientific Machine Learning
 
-- [Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](../../papers/scientific-ml.md#chen26ck-optimization) · 中文
-- [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](../../papers/scientific-ml.md#chen26fx-optimization) · 中文
-- [Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](../../papers/scientific-ml.md#du26n-optimization) · 中文
-- [Automatic Construction of Clinical Scoring Systems with LLM Agents](../../papers/scientific-ml.md#estevez26a-optimization) · 中文
-- [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../../papers/scientific-ml.md#fink26a-optimization) · 中文
-- [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](../../papers/scientific-ml.md#gao26j-optimization) · 中文
-- [Torus Graphs for Large Scale Neural Phase Analysis](../../papers/scientific-ml.md#goffinet26b-optimization) · 中文
-- [Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](../../papers/scientific-ml.md#guoze26a-optimization) · 中文
-- [Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](../../papers/scientific-ml.md#gutjahr26a-optimization) · 中文
-- [Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../../papers/scientific-ml.md#haddadnia26a-optimization) · 中文
+- [Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](../../conferences/icml-2026/cards/0501-0600.md#chen26ck-optimization) · 中文
+- [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](../../conferences/icml-2026/cards/0601-0700.md#chen26fx-optimization) · 中文
+- [Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](../../conferences/icml-2026/cards/0901-1000.md#du26n-optimization) · 中文
+- [Automatic Construction of Clinical Scoring Systems with LLM Agents](../../conferences/icml-2026/cards/1001-1100.md#estevez26a-optimization) · 中文
+- [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../../conferences/icml-2026/cards/1101-1200.md#fink26a-optimization) · 中文
+- [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](../../conferences/icml-2026/cards/1201-1300.md#gao26j-optimization) · 中文
+- [Torus Graphs for Large Scale Neural Phase Analysis](../../conferences/icml-2026/cards/1201-1300.md#goffinet26b-optimization) · 中文
+- [Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](../../conferences/icml-2026/cards/1401-1500.md#guoze26a-optimization) · 中文
+- [Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](../../conferences/icml-2026/cards/1401-1500.md#gutjahr26a-optimization) · 中文
+- [Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../../conferences/icml-2026/cards/1401-1500.md#haddadnia26a-optimization) · 中文
 <!-- classification:end -->
