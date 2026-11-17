@@ -99,6 +99,7 @@ Training schedules, curricula, and task or stage composition.
 - [TodoEvolve: Learning to Architect Agent Planning Systems](../../conferences/icml-2026/cards/2901-3000.md#liu26fz-training-strategies) · 中文
 - [Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought](../../conferences/icml-2026/cards/3001-3100.md#lu26q-training-strategies) · 中文
 - [Context Tuning for In-Context Optimization](../../conferences/icml-2026/cards/3001-3100.md#lu26ag-training-strategies) · 中文
+- [Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs](../../conferences/icml-2026/cards/3101-3200.md#lyu26j-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -149,6 +150,8 @@ Training schedules, curricula, and task or stage composition.
 - [Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs](../../conferences/icml-2026/cards/3001-3100.md#lu26ai-training-strategies) · 中文
 - [ACO-MoE-LoRA: Evolving-while-Training for Adapting Segment Anything Model 2 to Specialized Domains](../../conferences/icml-2026/cards/3001-3100.md#luo26y-training-strategies) · 中文
 - [SABER: Continual Learning with Representation Conflict Management](../../conferences/icml-2026/cards/3001-3100.md#luo26ag-training-strategies) · 中文
+- [Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model](../../conferences/icml-2026/cards/3101-3200.md#ma26b-training-strategies) · 中文
+- [Domain Adaptive Object Detection via Dynamic Causal Refinement](../../conferences/icml-2026/cards/3101-3200.md#ma26n-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -221,6 +224,7 @@ Training schedules, curricula, and task or stage composition.
 - [Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](../../conferences/icml-2026/cards/2601-2700.md#li26im-training-strategies) · 中文
 - [Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../conferences/icml-2026/cards/2701-2800.md#liang26ac-training-strategies) · 中文
 - [Hyperbolic Multimodal Continual Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26dq-training-strategies) · 中文
+- [Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26h-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -159,6 +159,7 @@
 - <a id="lin26s-representation-learning"></a>[From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26s)
 - <a id="lou26a-representation-learning"></a>[Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask](../conferences/icml-2026/cards/2901-3000.md#paper-lou26a)
 - <a id="lyu26a-representation-learning"></a>[General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26a)
+- <a id="lyu26b-representation-learning"></a>[LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26b)
 
 <a id="by-evaluation"></a>
 

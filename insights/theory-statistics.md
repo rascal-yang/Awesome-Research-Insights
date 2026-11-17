@@ -59,6 +59,7 @@
 
 - [扩散组合泛化](../conferences/icml-2026/cards/0301-0400.md#bradley26a-theory-statistics) · Local Mechanisms of Compositional Generalization in Conditional Diffusion
 - [低数据视觉泛化](../conferences/icml-2026/cards/0301-0400.md#brady26b-theory-statistics) · Is Generation Required for Data-Efficient Perception?
+- [递归探测图像表征的空间组合能力](../conferences/icml-2026/cards/3101-3200.md#lyu26g-theory-statistics) · On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning
 
 <a id="by-nlp"></a>
 
@@ -126,6 +127,7 @@
 - [可重配置环境双层控制](../conferences/icml-2026/cards/3001-3100.md#lu26m-theory-statistics) · Learn to change the world: Multi-level reinforcement learning with model-changing actions
 - [用深组合目标认证智能体的局部转移模型](../conferences/icml-2026/cards/3001-3100.md#lu26ao-theory-statistics) · World Models in Pieces: Structural Certification for General Agents
 - [纯探索决策方差分配](../conferences/icml-2026/cards/3001-3100.md#luong26a-theory-statistics) · Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments
+- [未知误差转移先验的乐观镜像下降](../conferences/icml-2026/cards/3101-3200.md#lyu26e-theory-statistics) · Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors
 
 <a id="by-robotics"></a>
 
@@ -448,6 +450,10 @@
 - [少样本迁移方向坍缩](../conferences/icml-2026/cards/3001-3100.md#luthra26a-theory-statistics) · Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning
 - [上下文分类对称机制](../conferences/icml-2026/cards/3001-3100.md#lutz26a-theory-statistics) · Symmetry Reveals Layerwise Dynamics: How Transformers Perform In-Context Classification
 - [基于参照点的策略分类](../conferences/icml-2026/cards/3101-3200.md#lv26f-theory-statistics) · Beyond Rational Illusion: Behaviorally Realistic Strategic Classification
+- [过程奖励和监督标签的稀疏布尔学习差异](../conferences/icml-2026/cards/3101-3200.md#lyu26d-theory-statistics) · Transformers with RL or SFT Provably Learn Sparse Boolean Functions, But Differently
+- [以稀疏校正归因条件标签漂移](../conferences/icml-2026/cards/3101-3200.md#lyu26i-theory-statistics) · Explaining Concept Shift with Interpretable Feature Attribution
+- [门控单元的核谱条件与收敛阶段](../conferences/icml-2026/cards/3101-3200.md#lyu26k-theory-statistics) · The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?
+- [用近期样本学习受漂移和有界标签噪声影响的半空间](../conferences/icml-2026/cards/3101-3200.md#ma26c-theory-statistics) · Efficiently Learning Drifting Halfspaces with Massart Noise
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -498,4 +504,5 @@
 - [用最坏潜混杂强度给基因发现做敏感性分析](../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders
 - [从 SDE 增量学漂移扩散再找李生成元](../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems
 - [用序列条件突变率近似抗体逐步演化](../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · Conditionally Site-Independent Neural Evolution of Antibody Sequences
+- [双重优化并行拟合纵向处理的各时点效应](../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · DeepBlip: Estimating Conditional Average Treatment Effects Over Time
 <!-- classification:end -->

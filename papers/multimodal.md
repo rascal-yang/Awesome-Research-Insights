@@ -176,6 +176,7 @@
 - <a id="li26im-training-strategies"></a>[Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation](../conferences/icml-2026/cards/2601-2700.md#paper-li26im)
 - <a id="liang26ac-training-strategies"></a>[Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../conferences/icml-2026/cards/2701-2800.md#paper-liang26ac)
 - <a id="liu26dq-training-strategies"></a>[Hyperbolic Multimodal Continual Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26dq)
+- <a id="ma26h-training-strategies"></a>[Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26h)
 
 <a id="by-data-strategies"></a>
 

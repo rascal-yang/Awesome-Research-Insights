@@ -55,6 +55,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](../../conferences/icml-2026/cards/3001-3100.md#lu26a-data-strategies) · 中文
 - [FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](../../conferences/icml-2026/cards/3001-3100.md#lu26ab-data-strategies) · 中文
 - [TarGATE: Target-Aware Data Selection via Token-Attenuation Gates](../../conferences/icml-2026/cards/3001-3100.md#luo26m-data-strategies) · 中文
+- [AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining](../../conferences/icml-2026/cards/3101-3200.md#ma26i-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

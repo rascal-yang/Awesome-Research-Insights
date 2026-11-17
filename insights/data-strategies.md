@@ -55,6 +55,7 @@
 - [从开放文本构造可核验强化学习题](../conferences/icml-2026/cards/3001-3100.md#lu26a-data-strategies) · Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text
 - [从可运行全栈仓库反推训练任务与测试](../conferences/icml-2026/cards/3001-3100.md#lu26ab-data-strategies) · FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation
 - [用目标条件的 token 保留率给微调样本排序](../conferences/icml-2026/cards/3001-3100.md#luo26m-data-strategies) · TarGATE: Target-Aware Data Selection via Token-Attenuation Gates
+- [用 Actor–Critic 动态选择预训练域权重](../conferences/icml-2026/cards/3101-3200.md#ma26i-data-strategies) · AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining
 
 <a id="by-computer-vision"></a>
 

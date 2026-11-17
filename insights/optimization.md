@@ -78,6 +78,8 @@
 - [先选功能因子再生成架构搜索补丁](../conferences/icml-2026/cards/2801-2900.md#liu26cm-optimization) · Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search
 - [窄域微调退化的谱方向诊断](../conferences/icml-2026/cards/2801-2900.md#liu26cs-optimization) · The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation
 - [分层进化共享元启发式和各任务程序](../conferences/icml-2026/cards/2901-3000.md#liu26ge-optimization) · Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs
+- [预训练中联合诱导稀疏与低秩权重](../conferences/icml-2026/cards/3101-3200.md#ma26a-optimization) · SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference
+- [用持续梯度白化保护顺序编辑中的旧知识](../conferences/icml-2026/cards/3101-3200.md#ma26f-optimization) · More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing
 
 <a id="by-computer-vision"></a>
 
@@ -314,6 +316,7 @@
 - [用历史曲率偏置修正联邦平坦度失配](../conferences/icml-2026/cards/3001-3100.md#lu26ap-optimization) · FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning
 - [先聚组父模型神经元再拟合融合模型的内部表示](../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · Model Fusion via Retrofitting
 - [凸差正则后验采样](../conferences/icml-2026/cards/3001-3100.md#luu26b-optimization) · DC-LA: Difference-of-Convex Langevin Algorithm
+- [复制扩宽模型并用 μP 对齐噪声和学习率](../conferences/icml-2026/cards/3101-3200.md#ma26d-optimization) · $μ$pscaling small models: Principled warm starts and hyperparameter transfer
 
 <a id="by-graph-and-recommendation"></a>
 

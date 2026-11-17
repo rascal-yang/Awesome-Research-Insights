@@ -66,6 +66,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification](../../conferences/icml-2026/cards/2901-3000.md#liu26fr-representation-learning) · 中文
 - [DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion](../../conferences/icml-2026/cards/3001-3100.md#lu26c-representation-learning) · 中文
 - [Knowing the Unknown: Interpretable Open-World Object Detection via Concept Decomposition Model](../../conferences/icml-2026/cards/3101-3200.md#lv26k-representation-learning) · 中文
+- [Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26g-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -90,6 +91,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions](../../conferences/icml-2026/cards/1801-1900.md#je-gal26a-representation-learning) · 中文
 - [Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2001-2100.md#kang26f-representation-learning) · 中文
 - [Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](../../conferences/icml-2026/cards/2101-2200.md#kim26x-representation-learning) · 中文
+- [Debiased Model-based Representations for Sample-efficient Continuous Control](../../conferences/icml-2026/cards/3101-3200.md#lyu26f-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -104,6 +106,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models](../../conferences/icml-2026/cards/2701-2800.md#lin26s-representation-learning) · 中文
 - [Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask](../../conferences/icml-2026/cards/2901-3000.md#lou26a-representation-learning) · 中文
 - [General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling](../../conferences/icml-2026/cards/3101-3200.md#lyu26a-representation-learning) · 中文
+- [LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment](../../conferences/icml-2026/cards/3101-3200.md#lyu26b-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 

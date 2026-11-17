@@ -181,6 +181,7 @@
 - <a id="je-gal26a-representation-learning"></a>[Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions](../conferences/icml-2026/cards/1801-1900.md#paper-je-gal26a)
 - <a id="kang26f-representation-learning"></a>[Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning](../conferences/icml-2026/cards/2001-2100.md#paper-kang26f)
 - <a id="kim26x-representation-learning"></a>[Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning](../conferences/icml-2026/cards/2101-2200.md#paper-kim26x)
+- <a id="lyu26f-representation-learning"></a>[Debiased Model-based Representations for Sample-efficient Continuous Control](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26f)
 
 <a id="by-evaluation"></a>
 
@@ -250,4 +251,5 @@
 - <a id="lu26m-theory-statistics"></a>[Learn to change the world: Multi-level reinforcement learning with model-changing actions](../conferences/icml-2026/cards/3001-3100.md#paper-lu26m)
 - <a id="lu26ao-theory-statistics"></a>[World Models in Pieces: Structural Certification for General Agents](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ao)
 - <a id="luong26a-theory-statistics"></a>[Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments](../conferences/icml-2026/cards/3001-3100.md#paper-luong26a)
+- <a id="lyu26e-theory-statistics"></a>[Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26e)
 <!-- classification:end -->

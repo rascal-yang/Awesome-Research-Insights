@@ -220,6 +220,7 @@
 - [按解掩码置信度滑动扩缩扩散模型解码块](../conferences/icml-2026/cards/3001-3100.md#luo26o-inference) · DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs
 - [按答案部件投票并用任务历史校准提前停止](../conferences/icml-2026/cards/3001-3100.md#luo26q-inference) · Task-and-Model-Aware Fractal-Consistency for Efficient LLM Reasoning
 - [掩码解码空洞调度](../conferences/icml-2026/cards/3101-3200.md#luxembourg26a-inference) · Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models
+- [从模拟市场自博弈中让代理构造与复用数值工具](../conferences/icml-2026/cards/3101-3200.md#ma26m-inference) · Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets
 
 <a id="by-computer-vision"></a>
 
@@ -517,4 +518,5 @@
 - [从正常与病理病例同时检索证据](../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · Evidential Reasoning Advances Interpretable Real-World Disease Screening
 - [模拟电路测试台的神经符号生成](../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification
 - [用弱结合分布的反向梯度引导表位生成](../conferences/icml-2026/cards/3001-3100.md#luan26b-inference) · EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance
+- [按规格局部信息生成和调试 Verilog](../conferences/icml-2026/cards/3101-3200.md#lyu26c-inference) · QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation
 <!-- classification:end -->

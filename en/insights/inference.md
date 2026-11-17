@@ -220,6 +220,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs](../../conferences/icml-2026/cards/3001-3100.md#luo26o-inference) · 中文
 - [Task-and-Model-Aware Fractal-Consistency for Efficient LLM Reasoning](../../conferences/icml-2026/cards/3001-3100.md#luo26q-inference) · 中文
 - [Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](../../conferences/icml-2026/cards/3101-3200.md#luxembourg26a-inference) · 中文
+- [Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets](../../conferences/icml-2026/cards/3101-3200.md#ma26m-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -517,4 +518,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Evidential Reasoning Advances Interpretable Real-World Disease Screening](../../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · 中文
 - [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · 中文
 - [EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance](../../conferences/icml-2026/cards/3001-3100.md#luan26b-inference) · 中文
+- [QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation](../../conferences/icml-2026/cards/3101-3200.md#lyu26c-inference) · 中文
 <!-- classification:end -->

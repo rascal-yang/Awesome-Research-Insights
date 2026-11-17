@@ -66,6 +66,7 @@
 - [沿分辨率相关方向校正低清行人嵌入](../conferences/icml-2026/cards/2901-3000.md#liu26fr-representation-learning) · Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification
 - [沿共享扩散轨迹对齐相机与雷达步态](../conferences/icml-2026/cards/3001-3100.md#lu26c-representation-learning) · DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion
 - [用共享物体概念识别未知](../conferences/icml-2026/cards/3101-3200.md#lv26k-representation-learning) · Knowing the Unknown: Interpretable Open-World Object Detection via Concept Decomposition Model
+- [用模板拓扑传播与多视图融合指导三维变形](../conferences/icml-2026/cards/3101-3200.md#ma26g-representation-learning) · Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning
 
 <a id="by-nlp"></a>
 
@@ -90,6 +91,7 @@
 - [将可迁移调度原则拆成单变量和交互项](../conferences/icml-2026/cards/1801-1900.md#je-gal26a-representation-learning) · Factorized Scheduling Principle: Learning Interpretable and Transferable Policies via Structured Additive Functions
 - [用不对称潜距离约束目标价值泛化](../conferences/icml-2026/cards/2001-2100.md#kang26f-representation-learning) · Latent Representation Alignment for Offline Goal-Conditioned Reinforcement Learning
 - [用时距差表示可跨情境复用的动作变化](../conferences/icml-2026/cards/2101-2200.md#kim26x-representation-learning) · Compositional Transduction with Latent Analogies for Offline Goal-Conditioned Reinforcement Learning
+- [动力学互信息与经验时效的联合去偏](../conferences/icml-2026/cards/3101-3200.md#lyu26f-representation-learning) · Debiased Model-based Representations for Sample-efficient Continuous Control
 
 <a id="by-robotics"></a>
 
@@ -104,6 +106,7 @@
 - [按操作任务区分图像与动作潜变量监督](../conferences/icml-2026/cards/2701-2800.md#lin26s-representation-learning) · From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models
 - [预测未来语义掩码让世界模型只保留控制相关结构](../conferences/icml-2026/cards/2901-3000.md#lou26a-representation-learning) · Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask
 - [分开表示机器人路径形状与速度](../conferences/icml-2026/cards/3101-3200.md#lyu26a-representation-learning) · General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling
+- [以李代数和局部白化量化机器人动作](../conferences/icml-2026/cards/3101-3200.md#lyu26b-representation-learning) · LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment
 
 <a id="by-multimodal"></a>
 

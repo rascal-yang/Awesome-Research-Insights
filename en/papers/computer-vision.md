@@ -216,6 +216,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="lu26ai-training-strategies"></a>[Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ai)
 - <a id="luo26y-training-strategies"></a>[ACO-MoE-LoRA: Evolving-while-Training for Adapting Segment Anything Model 2 to Specialized Domains](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26y)
 - <a id="luo26ag-training-strategies"></a>[SABER: Continual Learning with Representation Conflict Management](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ag)
+- <a id="ma26b-training-strategies"></a>[Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26b)
+- <a id="ma26n-training-strategies"></a>[Domain Adaptive Object Detection via Dynamic Causal Refinement](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26n)
 
 <a id="by-data-strategies"></a>
 
@@ -363,6 +365,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="liu26fr-representation-learning"></a>[Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fr)
 - <a id="lu26c-representation-learning"></a>[DiffCrossGait: Trajectory-Level Alignment for 2D-3D Cross-Modal Gait Recognition via Latent Diffusion](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26c)
 - <a id="lv26k-representation-learning"></a>[Knowing the Unknown: Interpretable Open-World Object Detection via Concept Decomposition Model](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26k)
+- <a id="ma26g-representation-learning"></a>[Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26g)
 
 <a id="by-evaluation"></a>
 
@@ -417,4 +420,5 @@ Visual representation, recognition, reconstruction, and generation.
 
 - <a id="bradley26a-theory-statistics"></a>[Local Mechanisms of Compositional Generalization in Conditional Diffusion](../../conferences/icml-2026/cards/0301-0400.md#paper-bradley26a)
 - <a id="brady26b-theory-statistics"></a>[Is Generation Required for Data-Efficient Perception?](../../conferences/icml-2026/cards/0301-0400.md#paper-brady26b)
+- <a id="lyu26g-theory-statistics"></a>[On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26g)
 <!-- classification:end -->

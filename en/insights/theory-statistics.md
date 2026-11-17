@@ -59,6 +59,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 
 - [Local Mechanisms of Compositional Generalization in Conditional Diffusion](../../conferences/icml-2026/cards/0301-0400.md#bradley26a-theory-statistics) · 中文
 - [Is Generation Required for Data-Efficient Perception?](../../conferences/icml-2026/cards/0301-0400.md#brady26b-theory-statistics) · 中文
+- [On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning](../../conferences/icml-2026/cards/3101-3200.md#lyu26g-theory-statistics) · 中文
 
 <a id="by-nlp"></a>
 
@@ -126,6 +127,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learn to change the world: Multi-level reinforcement learning with model-changing actions](../../conferences/icml-2026/cards/3001-3100.md#lu26m-theory-statistics) · 中文
 - [World Models in Pieces: Structural Certification for General Agents](../../conferences/icml-2026/cards/3001-3100.md#lu26ao-theory-statistics) · 中文
 - [Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments](../../conferences/icml-2026/cards/3001-3100.md#luong26a-theory-statistics) · 中文
+- [Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors](../../conferences/icml-2026/cards/3101-3200.md#lyu26e-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -448,6 +450,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning](../../conferences/icml-2026/cards/3001-3100.md#luthra26a-theory-statistics) · 中文
 - [Symmetry Reveals Layerwise Dynamics: How Transformers Perform In-Context Classification](../../conferences/icml-2026/cards/3001-3100.md#lutz26a-theory-statistics) · 中文
 - [Beyond Rational Illusion: Behaviorally Realistic Strategic Classification](../../conferences/icml-2026/cards/3101-3200.md#lv26f-theory-statistics) · 中文
+- [Transformers with RL or SFT Provably Learn Sparse Boolean Functions, But Differently](../../conferences/icml-2026/cards/3101-3200.md#lyu26d-theory-statistics) · 中文
+- [Explaining Concept Shift with Interpretable Feature Attribution](../../conferences/icml-2026/cards/3101-3200.md#lyu26i-theory-statistics) · 中文
+- [The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?](../../conferences/icml-2026/cards/3101-3200.md#lyu26k-theory-statistics) · 中文
+- [Efficiently Learning Drifting Halfspaces with Massart Noise](../../conferences/icml-2026/cards/3101-3200.md#ma26c-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -498,4 +504,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders](../../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · 中文
 - [LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems](../../conferences/icml-2026/cards/2801-2900.md#liu26aq-theory-statistics) · 中文
 - [Conditionally Site-Independent Neural Evolution of Antibody Sequences](../../conferences/icml-2026/cards/3001-3100.md#lu26ah-theory-statistics) · 中文
+- [DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../../conferences/icml-2026/cards/3101-3200.md#ma26j-theory-statistics) · 中文
 <!-- classification:end -->

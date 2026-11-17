@@ -99,6 +99,7 @@
 - [用执行结果训练生成可组合的规划架构](../conferences/icml-2026/cards/2901-3000.md#liu26fz-training-strategies) · TodoEvolve: Learning to Architect Agent Planning Systems
 - [推理轨迹几何水印](../conferences/icml-2026/cards/3001-3100.md#lu26q-training-strategies) · Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought
 - [从任务演示初始化可优化的上下文缓存](../conferences/icml-2026/cards/3001-3100.md#lu26ag-training-strategies) · Context Tuning for In-Context Optimization
+- [按学生首个错误蒸馏工具推理](../conferences/icml-2026/cards/3101-3200.md#lyu26j-training-strategies) · Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -149,6 +150,8 @@
 - [在偏好样本中保留优劣图像的真实初始噪声](../conferences/icml-2026/cards/3001-3100.md#lu26ai-training-strategies) · Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs
 - [随训练演化的分割低秩专家](../conferences/icml-2026/cards/3001-3100.md#luo26y-training-strategies) · ACO-MoE-LoRA: Evolving-while-Training for Adapting Segment Anything Model 2 to Specialized Domains
 - [持续学习低秩知识合成](../conferences/icml-2026/cards/3001-3100.md#luo26ag-training-strategies) · SABER: Continual Learning with Representation Conflict Management
+- [沿帧轴和去噪轴切换视频扩散粒度](../conferences/icml-2026/cards/3101-3200.md#ma26b-training-strategies) · Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model
+- [以预测不一致驱动频谱扰动抑制跨域检测捷径](../conferences/icml-2026/cards/3101-3200.md#ma26n-training-strategies) · Domain Adaptive Object Detection via Dynamic Causal Refinement
 
 <a id="by-nlp"></a>
 
@@ -221,6 +224,7 @@
 - [优先蒸馏教师可靠且师生分歧大的在线轨迹](../conferences/icml-2026/cards/2601-2700.md#li26im-training-strategies) · Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation
 - [把语言多选题分布蒸馏为视觉类别概念签名](../conferences/icml-2026/cards/2701-2800.md#liang26ac-training-strategies) · Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge
 - [持续学习中用共享双曲等距约束保护图文层级](../conferences/icml-2026/cards/2901-3000.md#liu26dq-training-strategies) · Hyperbolic Multimodal Continual Learning
+- [客户端和服务器分别训练图像与文本编码器](../conferences/icml-2026/cards/3101-3200.md#ma26h-training-strategies) · Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning
 
 <a id="by-ml-foundations"></a>
 

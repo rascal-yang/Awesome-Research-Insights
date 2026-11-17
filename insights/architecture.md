@@ -222,6 +222,7 @@
 - [用可调平稳噪声核统一掩码与均匀扩散](../conferences/icml-2026/cards/2901-3000.md#liu26gi-architecture) · Balancing Understanding and Generation in Discrete Diffusion Models
 - [逐段扩展直接时序预测](../conferences/icml-2026/cards/3001-3100.md#lu26w-architecture) · ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters
 - [用独立特征嵌入与组 Lasso 强化表格轴归纳](../conferences/icml-2026/cards/3001-3100.md#lui26a-architecture) · LassoFlexNet: a Flexible Neural Architecture for Tabular Data
+- [用 LUT 卷积与可学习分组连接构造无权重神经网络](../conferences/icml-2026/cards/3101-3200.md#ma26e-architecture) · Convolutional Learnable-Group Weightless Neural Network
 
 <a id="by-graph-and-recommendation"></a>
 

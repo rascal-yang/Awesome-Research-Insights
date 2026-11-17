@@ -251,6 +251,7 @@
 - <a id="lian26e-inference"></a>[Evidential Reasoning Advances Interpretable Real-World Disease Screening](../conferences/icml-2026/cards/2601-2700.md#paper-lian26e)
 - <a id="liu26en-inference"></a>[AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../conferences/icml-2026/cards/2901-3000.md#paper-liu26en)
 - <a id="luan26b-inference"></a>[EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance](../conferences/icml-2026/cards/3001-3100.md#paper-luan26b)
+- <a id="lyu26c-inference"></a>[QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26c)
 
 <a id="by-representation-learning"></a>
 
@@ -363,4 +364,5 @@
 - <a id="lin26v-theory-statistics"></a>[High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders](../conferences/icml-2026/cards/2701-2800.md#paper-lin26v)
 - <a id="liu26aq-theory-statistics"></a>[LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aq)
 - <a id="lu26ah-theory-statistics"></a>[Conditionally Site-Independent Neural Evolution of Antibody Sequences](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ah)
+- <a id="ma26j-theory-statistics"></a>[DeepBlip: Estimating Conditional Average Treatment Effects Over Time](../conferences/icml-2026/cards/3101-3200.md#paper-ma26j)
 <!-- classification:end -->

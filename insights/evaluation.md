@@ -234,6 +234,8 @@
 - [超长程隐藏规则探索](../conferences/icml-2026/cards/3001-3100.md#luo26ai-evaluation) · UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios
 - [可执行漏洞修复任务构建](../conferences/icml-2026/cards/3001-3100.md#luo26aj-evaluation) · CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability
 - [协作拦截与心智理论](../conferences/icml-2026/cards/3001-3100.md#lupu26a-evaluation) · The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind
+- [配对评测降低最佳模型识别成本](../conferences/icml-2026/cards/3101-3200.md#lyu26h-evaluation) · Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm That Provably Exploits Model Similarity
+- [用实际工作负载与原生测试衡量仓库级性能补丁](../conferences/icml-2026/cards/3101-3200.md#ma26l-evaluation) · SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?
 
 <a id="by-computer-vision"></a>
 
@@ -452,6 +454,7 @@
 - [分别控制训练样本和任务重叠以测表征相似性](../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · Causes and Consequences of Representational Similarity in Machine Learning Models
 - [共同检验共形预测集大小与下游群体结果](../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · Beyond Procedure: Substantive Fairness in Conformal Prediction
 - [把 AI 缺陷报告转成可分发的结构化记录](../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · FLARE-AI: Flaw Reporting for AI
+- [把联邦后门检测的重点放到聚合后的持续性](../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning
 
 <a id="by-graph-and-recommendation"></a>
 

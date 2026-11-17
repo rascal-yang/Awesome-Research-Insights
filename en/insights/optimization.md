@@ -78,6 +78,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](../../conferences/icml-2026/cards/2801-2900.md#liu26cm-optimization) · 中文
 - [The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation](../../conferences/icml-2026/cards/2801-2900.md#liu26cs-optimization) · 中文
 - [Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs](../../conferences/icml-2026/cards/2901-3000.md#liu26ge-optimization) · 中文
+- [SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference](../../conferences/icml-2026/cards/3101-3200.md#ma26a-optimization) · 中文
+- [More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](../../conferences/icml-2026/cards/3101-3200.md#ma26f-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -314,6 +316,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26ap-optimization) · 中文
 - [Model Fusion via Retrofitting](../../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · 中文
 - [DC-LA: Difference-of-Convex Langevin Algorithm](../../conferences/icml-2026/cards/3001-3100.md#luu26b-optimization) · 中文
+- [$μ$pscaling small models: Principled warm starts and hyperparameter transfer](../../conferences/icml-2026/cards/3101-3200.md#ma26d-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

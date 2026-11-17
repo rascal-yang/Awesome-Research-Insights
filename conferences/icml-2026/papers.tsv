@@ -3115,30 +3115,30 @@ number	pmlr_id	title	paper_url	insight_status
 3114	lv26m	NaviCache: Test-Time Self-Calibration Caching for Video Generation	https://proceedings.mlr.press/v306/lv26m.html	written
 3115	lydike26a	Faster Activation Functions at the Edge for Post-Training Speedups	https://proceedings.mlr.press/v306/lydike26a.html	written
 3116	lyu26a	General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling	https://proceedings.mlr.press/v306/lyu26a.html	written
-3117	lyu26b	LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment	https://proceedings.mlr.press/v306/lyu26b.html	pending
-3118	lyu26c	QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation	https://proceedings.mlr.press/v306/lyu26c.html	pending
-3119	lyu26d	Transformers with RL or SFT Provably Learn Sparse Boolean Functions, But Differently	https://proceedings.mlr.press/v306/lyu26d.html	pending
-3120	lyu26e	Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors	https://proceedings.mlr.press/v306/lyu26e.html	pending
-3121	lyu26f	Debiased Model-based Representations for Sample-efficient Continuous Control	https://proceedings.mlr.press/v306/lyu26f.html	pending
-3122	lyu26g	On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning	https://proceedings.mlr.press/v306/lyu26g.html	pending
-3123	lyu26h	Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm That Provably Exploits Model Similarity	https://proceedings.mlr.press/v306/lyu26h.html	pending
-3124	lyu26i	Explaining Concept Shift with Interpretable Feature Attribution	https://proceedings.mlr.press/v306/lyu26i.html	pending
-3125	lyu26j	Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs	https://proceedings.mlr.press/v306/lyu26j.html	pending
-3126	lyu26k	The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?	https://proceedings.mlr.press/v306/lyu26k.html	pending
-3127	ma26a	SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference	https://proceedings.mlr.press/v306/ma26a.html	pending
-3128	ma26b	Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model	https://proceedings.mlr.press/v306/ma26b.html	pending
-3129	ma26c	Efficiently Learning Drifting Halfspaces with Massart Noise	https://proceedings.mlr.press/v306/ma26c.html	pending
-3130	ma26d	$μ$pscaling small models: Principled warm starts and hyperparameter transfer	https://proceedings.mlr.press/v306/ma26d.html	pending
-3131	ma26e	Convolutional Learnable-Group Weightless Neural Network	https://proceedings.mlr.press/v306/ma26e.html	pending
-3132	ma26f	More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing	https://proceedings.mlr.press/v306/ma26f.html	pending
-3133	ma26g	Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning	https://proceedings.mlr.press/v306/ma26g.html	pending
-3134	ma26h	Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning	https://proceedings.mlr.press/v306/ma26h.html	pending
-3135	ma26i	AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining	https://proceedings.mlr.press/v306/ma26i.html	pending
-3136	ma26j	DeepBlip: Estimating Conditional Average Treatment Effects Over Time	https://proceedings.mlr.press/v306/ma26j.html	pending
-3137	ma26k	Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning	https://proceedings.mlr.press/v306/ma26k.html	pending
-3138	ma26l	SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?	https://proceedings.mlr.press/v306/ma26l.html	pending
-3139	ma26m	Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets	https://proceedings.mlr.press/v306/ma26m.html	pending
-3140	ma26n	Domain Adaptive Object Detection via Dynamic Causal Refinement	https://proceedings.mlr.press/v306/ma26n.html	pending
+3117	lyu26b	LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment	https://proceedings.mlr.press/v306/lyu26b.html	written
+3118	lyu26c	QiMeng-ChipV-RTL: Exploiting Information Locality for IP-level Verilog Generation	https://proceedings.mlr.press/v306/lyu26c.html	written
+3119	lyu26d	Transformers with RL or SFT Provably Learn Sparse Boolean Functions, But Differently	https://proceedings.mlr.press/v306/lyu26d.html	written
+3120	lyu26e	Efficiently Solving Discounted MDPs via Predictions with Unknown Prediction Errors	https://proceedings.mlr.press/v306/lyu26e.html	written
+3121	lyu26f	Debiased Model-based Representations for Sample-efficient Continuous Control	https://proceedings.mlr.press/v306/lyu26f.html	written
+3122	lyu26g	On the Intrinsic Limits of Transformer Image Embeddings in Non-Solvable Spatial Reasoning	https://proceedings.mlr.press/v306/lyu26g.html	written
+3123	lyu26h	Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm That Provably Exploits Model Similarity	https://proceedings.mlr.press/v306/lyu26h.html	written
+3124	lyu26i	Explaining Concept Shift with Interpretable Feature Attribution	https://proceedings.mlr.press/v306/lyu26i.html	written
+3125	lyu26j	Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs	https://proceedings.mlr.press/v306/lyu26j.html	written
+3126	lyu26k	The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?	https://proceedings.mlr.press/v306/lyu26k.html	written
+3127	ma26a	SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference	https://proceedings.mlr.press/v306/ma26a.html	written
+3128	ma26b	Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model	https://proceedings.mlr.press/v306/ma26b.html	written
+3129	ma26c	Efficiently Learning Drifting Halfspaces with Massart Noise	https://proceedings.mlr.press/v306/ma26c.html	written
+3130	ma26d	$μ$pscaling small models: Principled warm starts and hyperparameter transfer	https://proceedings.mlr.press/v306/ma26d.html	written
+3131	ma26e	Convolutional Learnable-Group Weightless Neural Network	https://proceedings.mlr.press/v306/ma26e.html	written
+3132	ma26f	More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing	https://proceedings.mlr.press/v306/ma26f.html	written
+3133	ma26g	Geometry-Guided Modeling of Foundation Features Enables Generalizable Object Shape Deformation Learning	https://proceedings.mlr.press/v306/ma26g.html	written
+3134	ma26h	Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning	https://proceedings.mlr.press/v306/ma26h.html	written
+3135	ma26i	AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining	https://proceedings.mlr.press/v306/ma26i.html	written
+3136	ma26j	DeepBlip: Estimating Conditional Average Treatment Effects Over Time	https://proceedings.mlr.press/v306/ma26j.html	written
+3137	ma26k	Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning	https://proceedings.mlr.press/v306/ma26k.html	written
+3138	ma26l	SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?	https://proceedings.mlr.press/v306/ma26l.html	written
+3139	ma26m	Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets	https://proceedings.mlr.press/v306/ma26m.html	written
+3140	ma26n	Domain Adaptive Object Detection via Dynamic Causal Refinement	https://proceedings.mlr.press/v306/ma26n.html	written
 3141	ma26o	Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge	https://proceedings.mlr.press/v306/ma26o.html	pending
 3142	ma26p	Episodic Memory-Guided Controllable Experience Synthesis for Reinforcement Learning	https://proceedings.mlr.press/v306/ma26p.html	pending
 3143	ma26q	FIRE: Learning to Navigate and Act on Real-World Files via Stateful Reinforcement Learning	https://proceedings.mlr.press/v306/ma26q.html	pending

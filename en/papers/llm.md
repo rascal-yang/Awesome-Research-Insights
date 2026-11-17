@@ -186,6 +186,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26cm-optimization"></a>[Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cm)
 - <a id="liu26cs-optimization"></a>[The Geometry of Narrow Fine-Tuning Degradation: Trajectory Lock-in and Spectral Bifurcation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cs)
 - <a id="liu26ge-optimization"></a>[Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ge)
+- <a id="ma26a-optimization"></a>[SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26a)
+- <a id="ma26f-optimization"></a>[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26f)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -395,6 +397,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26fz-training-strategies"></a>[TodoEvolve: Learning to Architect Agent Planning Systems](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fz)
 - <a id="lu26q-training-strategies"></a>[Echoes within the Reasoning: Stealthy and Effective Watermarking via Chain of Thought](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26q)
 - <a id="lu26ag-training-strategies"></a>[Context Tuning for In-Context Optimization](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ag)
+- <a id="lyu26j-training-strategies"></a>[Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26j)
 
 <a id="by-data-strategies"></a>
 
@@ -442,6 +445,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lu26a-data-strategies"></a>[Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26a)
 - <a id="lu26ab-data-strategies"></a>[FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ab)
 - <a id="luo26m-data-strategies"></a>[TarGATE: Target-Aware Data Selection via Token-Attenuation Gates](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26m)
+- <a id="ma26i-data-strategies"></a>[AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26i)
 
 <a id="by-inference"></a>
 
@@ -654,6 +658,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="luo26o-inference"></a>[DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26o)
 - <a id="luo26q-inference"></a>[Task-and-Model-Aware Fractal-Consistency for Efficient LLM Reasoning](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26q)
 - <a id="luxembourg26a-inference"></a>[Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](../../conferences/icml-2026/cards/3101-3200.md#paper-luxembourg26a)
+- <a id="ma26m-inference"></a>[Evolving Quantitative Reasoning through Self-Play in Digital Twin Markets](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26m)
 
 <a id="by-representation-learning"></a>
 
@@ -894,6 +899,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="luo26ai-evaluation"></a>[UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ai)
 - <a id="luo26aj-evaluation"></a>[CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26aj)
 - <a id="lupu26a-evaluation"></a>[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](../../conferences/icml-2026/cards/3001-3100.md#paper-lupu26a)
+- <a id="lyu26h-evaluation"></a>[Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm That Provably Exploits Model Similarity](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26h)
+- <a id="ma26l-evaluation"></a>[SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26l)
 
 <a id="by-theory-statistics"></a>
 

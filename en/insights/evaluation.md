@@ -234,6 +234,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios](../../conferences/icml-2026/cards/3001-3100.md#luo26ai-evaluation) · 中文
 - [CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability](../../conferences/icml-2026/cards/3001-3100.md#luo26aj-evaluation) · 中文
 - [The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](../../conferences/icml-2026/cards/3001-3100.md#lupu26a-evaluation) · 中文
+- [Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm That Provably Exploits Model Similarity](../../conferences/icml-2026/cards/3101-3200.md#lyu26h-evaluation) · 中文
+- [SWE-fficiency: Can Language Models Optimize Real-World Repositories on Real Workloads?](../../conferences/icml-2026/cards/3101-3200.md#ma26l-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -452,6 +454,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Causes and Consequences of Representational Similarity in Machine Learning Models](../../conferences/icml-2026/cards/2501-2600.md#li26gf-evaluation) · 中文
 - [Beyond Procedure: Substantive Fairness in Conformal Prediction](../../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · 中文
 - [FLARE-AI: Flaw Reporting for AI](../../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · 中文
+- [Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

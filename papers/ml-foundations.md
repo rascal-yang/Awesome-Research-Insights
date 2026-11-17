@@ -54,6 +54,7 @@
 - <a id="liu26gi-architecture"></a>[Balancing Understanding and Generation in Discrete Diffusion Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gi)
 - <a id="lu26w-architecture"></a>[ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters](../conferences/icml-2026/cards/3001-3100.md#paper-lu26w)
 - <a id="lui26a-architecture"></a>[LassoFlexNet: a Flexible Neural Architecture for Tabular Data](../conferences/icml-2026/cards/3001-3100.md#paper-lui26a)
+- <a id="ma26e-architecture"></a>[Convolutional Learnable-Group Weightless Neural Network](../conferences/icml-2026/cards/3101-3200.md#paper-ma26e)
 
 <a id="by-modules"></a>
 
@@ -299,6 +300,7 @@
 - <a id="lu26ap-optimization"></a>[FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ap)
 - <a id="luenam26a-optimization"></a>[Model Fusion via Retrofitting](../conferences/icml-2026/cards/3001-3100.md#paper-luenam26a)
 - <a id="luu26b-optimization"></a>[DC-LA: Difference-of-Convex Langevin Algorithm](../conferences/icml-2026/cards/3001-3100.md#paper-luu26b)
+- <a id="ma26d-optimization"></a>[$μ$pscaling small models: Principled warm starts and hyperparameter transfer](../conferences/icml-2026/cards/3101-3200.md#paper-ma26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -510,6 +512,7 @@
 - <a id="li26gf-evaluation"></a>[Causes and Consequences of Representational Similarity in Machine Learning Models](../conferences/icml-2026/cards/2501-2600.md#paper-li26gf)
 - <a id="liu26fp-evaluation"></a>[Beyond Procedure: Substantive Fairness in Conformal Prediction](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fp)
 - <a id="longpre26a-evaluation"></a>[FLARE-AI: Flaw Reporting for AI](../conferences/icml-2026/cards/2901-3000.md#paper-longpre26a)
+- <a id="ma26k-evaluation"></a>[Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26k)
 
 <a id="by-theory-statistics"></a>
 
@@ -819,4 +822,8 @@
 - <a id="luthra26a-theory-statistics"></a>[Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning](../conferences/icml-2026/cards/3001-3100.md#paper-luthra26a)
 - <a id="lutz26a-theory-statistics"></a>[Symmetry Reveals Layerwise Dynamics: How Transformers Perform In-Context Classification](../conferences/icml-2026/cards/3001-3100.md#paper-lutz26a)
 - <a id="lv26f-theory-statistics"></a>[Beyond Rational Illusion: Behaviorally Realistic Strategic Classification](../conferences/icml-2026/cards/3101-3200.md#paper-lv26f)
+- <a id="lyu26d-theory-statistics"></a>[Transformers with RL or SFT Provably Learn Sparse Boolean Functions, But Differently](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26d)
+- <a id="lyu26i-theory-statistics"></a>[Explaining Concept Shift with Interpretable Feature Attribution](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26i)
+- <a id="lyu26k-theory-statistics"></a>[The Devil is in the Condition Numbers: Why is GLU Better than non-GLU Structure?](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26k)
+- <a id="ma26c-theory-statistics"></a>[Efficiently Learning Drifting Halfspaces with Massart Noise](../conferences/icml-2026/cards/3101-3200.md#paper-ma26c)
 <!-- classification:end -->
