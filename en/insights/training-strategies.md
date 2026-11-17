@@ -62,6 +62,7 @@ Training schedules, curricula, and task or stage composition.
 - [Post-Hoc Merging is Not Enough: Many-Shot Model Merging with Loss-Gap Balancing](../../conferences/icml-2026/cards/1801-1900.md#im26b-training-strategies) · 中文
 - [Global Merger-Arbitrage Forecasting with Language Models](../../conferences/icml-2026/cards/1801-1900.md#jajal26a-training-strategies) · 中文
 - [Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs](../../conferences/icml-2026/cards/1801-1900.md#jang26a-training-strategies) · 中文
+- [Hyperparameter Transfer with Mixture-of-Experts Layers](../../conferences/icml-2026/cards/1901-2000.md#jiang26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -127,6 +128,7 @@ Training schedules, curricula, and task or stage composition.
 - [Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought](../../conferences/icml-2026/cards/1701-1800.md#huo26a-training-strategies) · 中文
 - [Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#hwang26g-training-strategies) · 中文
 - [Efficient Distributed MLLM Training with Cornstarch](../../conferences/icml-2026/cards/1801-1900.md#jang26g-training-strategies) · 中文
+- [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](../../conferences/icml-2026/cards/1801-1900.md#jia26c-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -172,6 +174,7 @@ Training schedules, curricula, and task or stage composition.
 - [Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation](../../conferences/icml-2026/cards/1501-1600.md#hong26e-training-strategies) · 中文
 - [From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../../conferences/icml-2026/cards/1501-1600.md#horoi26a-training-strategies) · 中文
 - [Continual Learning of Domain-Invariant Representations](../../conferences/icml-2026/cards/1801-1900.md#janetzky26a-training-strategies) · 中文
+- [MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](../../conferences/icml-2026/cards/1901-2000.md#jiang26c-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

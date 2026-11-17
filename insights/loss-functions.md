@@ -134,4 +134,5 @@
 - [自一致控制训练扩散桥](../conferences/icml-2026/cards/1601-1700.md#howard26b-loss-functions) · Control Consistency Losses for Diffusion Bridges
 - [用对抗正交隔开坐标变化与动力学修正](../conferences/icml-2026/cards/1701-1800.md#huh26a-loss-functions) · Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality
 - [将路径结构和尾部风险直接接进配置策略](../conferences/icml-2026/cards/1701-1800.md#hwang26j-loss-functions) · Signature-Informed Transformer for Asset Allocation
+- [把物理残差监督送到扩散中间层](../conferences/icml-2026/cards/1801-1900.md#jia26j-loss-functions) · Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment
 <!-- classification:end -->

@@ -1871,50 +1871,50 @@ number	pmlr_id	title	paper_url	insight_status
 1870	jeong26a	Towards Functional Correctness of Code Models with Selective Generation	https://proceedings.mlr.press/v306/jeong26a.html	written
 1871	jeong26b	When Do Diffusion Models Learn to Generate Multiple Objects?	https://proceedings.mlr.press/v306/jeong26b.html	written
 1872	jerad26a	Context-free Recognition with Transformers	https://proceedings.mlr.press/v306/jerad26a.html	written
-1873	jerzak26a	MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification	https://proceedings.mlr.press/v306/jerzak26a.html	pending
-1874	ji26a	Tiny Brains, Giant Impact: Uncovering the Keystone Neurons of LLM with Just a Few Prompts	https://proceedings.mlr.press/v306/ji26a.html	pending
-1875	ji26b	ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning	https://proceedings.mlr.press/v306/ji26b.html	pending
-1876	ji26c	TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering	https://proceedings.mlr.press/v306/ji26c.html	pending
-1877	ji26d	Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents	https://proceedings.mlr.press/v306/ji26d.html	pending
-1878	ji26e	Recovering Hidden Reward in Diffusion-Based Policies	https://proceedings.mlr.press/v306/ji26e.html	pending
-1879	ji26f	Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles	https://proceedings.mlr.press/v306/ji26f.html	pending
-1880	ji26g	OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning	https://proceedings.mlr.press/v306/ji26g.html	pending
-1881	ji26h	DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing	https://proceedings.mlr.press/v306/ji26h.html	pending
-1882	ji26i	Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM	https://proceedings.mlr.press/v306/ji26i.html	pending
-1883	ji26j	Scalable Power Sampling: Unlocking Efficient, Training-Free Reasoning for LLMs via Distribution Sharpening	https://proceedings.mlr.press/v306/ji26j.html	pending
-1884	ji26k	HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control	https://proceedings.mlr.press/v306/ji26k.html	pending
-1885	ji26l	Zero-Shot Text-to-Motion Evaluation using Video Language Models	https://proceedings.mlr.press/v306/ji26l.html	pending
-1886	ji26m	SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling	https://proceedings.mlr.press/v306/ji26m.html	pending
-1887	ji26n	Near-Optimal Regret for KL-Regularized Multi-Armed Bandits	https://proceedings.mlr.press/v306/ji26n.html	pending
-1888	ji26o	Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning	https://proceedings.mlr.press/v306/ji26o.html	pending
-1889	jia26a	VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning	https://proceedings.mlr.press/v306/jia26a.html	pending
-1890	jia26b	Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning	https://proceedings.mlr.press/v306/jia26b.html	pending
-1891	jia26c	From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models	https://proceedings.mlr.press/v306/jia26c.html	pending
-1892	jia26d	EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models	https://proceedings.mlr.press/v306/jia26d.html	pending
-1893	jia26e	MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation	https://proceedings.mlr.press/v306/jia26e.html	pending
-1894	jia26f	DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving	https://proceedings.mlr.press/v306/jia26f.html	pending
-1895	jia26g	Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance	https://proceedings.mlr.press/v306/jia26g.html	pending
-1896	jia26h	Text Generation as Continuous Latent Dynamics via Reinforcement Learning	https://proceedings.mlr.press/v306/jia26h.html	pending
-1897	jia26i	CoD-Lite: Real-Time Diffusion-Based Generative Image Compression	https://proceedings.mlr.press/v306/jia26i.html	pending
-1898	jia26j	Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment	https://proceedings.mlr.press/v306/jia26j.html	pending
-1899	jia26k	Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance	https://proceedings.mlr.press/v306/jia26k.html	pending
-1900	jia26l	Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization	https://proceedings.mlr.press/v306/jia26l.html	pending
-1901	jiachen26a	SC-FAGC: Size Constrained Fast Anchor Graph Clustering	https://proceedings.mlr.press/v306/jiachen26a.html	pending
-1902	jiang26a	Hyperparameter Transfer with Mixture-of-Experts Layers	https://proceedings.mlr.press/v306/jiang26a.html	pending
-1903	jiang26b	Efficient Synthetic Network Generation via Latent Embedding Reconstruction	https://proceedings.mlr.press/v306/jiang26b.html	pending
-1904	jiang26c	MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification	https://proceedings.mlr.press/v306/jiang26c.html	pending
-1905	jiang26d	Collaborative Disagreement Resolution for Scalable Oversight	https://proceedings.mlr.press/v306/jiang26d.html	pending
-1906	jiang26e	PRISM: Parallel Residual Iterative Sequence Model	https://proceedings.mlr.press/v306/jiang26e.html	pending
-1907	jiang26f	CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation	https://proceedings.mlr.press/v306/jiang26f.html	pending
-1908	jiang26g	DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution	https://proceedings.mlr.press/v306/jiang26g.html	pending
-1909	jiang26h	Distributed Direct Preference Optimization	https://proceedings.mlr.press/v306/jiang26h.html	pending
-1910	jiang26i	Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers	https://proceedings.mlr.press/v306/jiang26i.html	pending
-1911	jiang26j	Contrastive Weak-to-Strong Generalization	https://proceedings.mlr.press/v306/jiang26j.html	pending
-1912	jiang26k	OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration	https://proceedings.mlr.press/v306/jiang26k.html	pending
-1913	jiang26l	Incremental BPE Tokenization	https://proceedings.mlr.press/v306/jiang26l.html	pending
-1914	jiang26m	Olaf-World: Orienting Latent Actions for Video World Modeling	https://proceedings.mlr.press/v306/jiang26m.html	pending
-1915	jiang26n	DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes	https://proceedings.mlr.press/v306/jiang26n.html	pending
-1916	jiang26o	Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs	https://proceedings.mlr.press/v306/jiang26o.html	pending
+1873	jerzak26a	MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification	https://proceedings.mlr.press/v306/jerzak26a.html	written
+1874	ji26a	Tiny Brains, Giant Impact: Uncovering the Keystone Neurons of LLM with Just a Few Prompts	https://proceedings.mlr.press/v306/ji26a.html	written
+1875	ji26b	ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning	https://proceedings.mlr.press/v306/ji26b.html	written
+1876	ji26c	TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering	https://proceedings.mlr.press/v306/ji26c.html	written
+1877	ji26d	Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents	https://proceedings.mlr.press/v306/ji26d.html	written
+1878	ji26e	Recovering Hidden Reward in Diffusion-Based Policies	https://proceedings.mlr.press/v306/ji26e.html	written
+1879	ji26f	Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles	https://proceedings.mlr.press/v306/ji26f.html	written
+1880	ji26g	OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning	https://proceedings.mlr.press/v306/ji26g.html	written
+1881	ji26h	DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing	https://proceedings.mlr.press/v306/ji26h.html	written
+1882	ji26i	Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM	https://proceedings.mlr.press/v306/ji26i.html	written
+1883	ji26j	Scalable Power Sampling: Unlocking Efficient, Training-Free Reasoning for LLMs via Distribution Sharpening	https://proceedings.mlr.press/v306/ji26j.html	written
+1884	ji26k	HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control	https://proceedings.mlr.press/v306/ji26k.html	written
+1885	ji26l	Zero-Shot Text-to-Motion Evaluation using Video Language Models	https://proceedings.mlr.press/v306/ji26l.html	written
+1886	ji26m	SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling	https://proceedings.mlr.press/v306/ji26m.html	written
+1887	ji26n	Near-Optimal Regret for KL-Regularized Multi-Armed Bandits	https://proceedings.mlr.press/v306/ji26n.html	written
+1888	ji26o	Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning	https://proceedings.mlr.press/v306/ji26o.html	written
+1889	jia26a	VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning	https://proceedings.mlr.press/v306/jia26a.html	written
+1890	jia26b	Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning	https://proceedings.mlr.press/v306/jia26b.html	written
+1891	jia26c	From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models	https://proceedings.mlr.press/v306/jia26c.html	written
+1892	jia26d	EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models	https://proceedings.mlr.press/v306/jia26d.html	written
+1893	jia26e	MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation	https://proceedings.mlr.press/v306/jia26e.html	written
+1894	jia26f	DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving	https://proceedings.mlr.press/v306/jia26f.html	written
+1895	jia26g	Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance	https://proceedings.mlr.press/v306/jia26g.html	written
+1896	jia26h	Text Generation as Continuous Latent Dynamics via Reinforcement Learning	https://proceedings.mlr.press/v306/jia26h.html	written
+1897	jia26i	CoD-Lite: Real-Time Diffusion-Based Generative Image Compression	https://proceedings.mlr.press/v306/jia26i.html	written
+1898	jia26j	Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment	https://proceedings.mlr.press/v306/jia26j.html	written
+1899	jia26k	Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance	https://proceedings.mlr.press/v306/jia26k.html	written
+1900	jia26l	Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization	https://proceedings.mlr.press/v306/jia26l.html	written
+1901	jiachen26a	SC-FAGC: Size Constrained Fast Anchor Graph Clustering	https://proceedings.mlr.press/v306/jiachen26a.html	written
+1902	jiang26a	Hyperparameter Transfer with Mixture-of-Experts Layers	https://proceedings.mlr.press/v306/jiang26a.html	written
+1903	jiang26b	Efficient Synthetic Network Generation via Latent Embedding Reconstruction	https://proceedings.mlr.press/v306/jiang26b.html	written
+1904	jiang26c	MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification	https://proceedings.mlr.press/v306/jiang26c.html	written
+1905	jiang26d	Collaborative Disagreement Resolution for Scalable Oversight	https://proceedings.mlr.press/v306/jiang26d.html	written
+1906	jiang26e	PRISM: Parallel Residual Iterative Sequence Model	https://proceedings.mlr.press/v306/jiang26e.html	written
+1907	jiang26f	CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation	https://proceedings.mlr.press/v306/jiang26f.html	written
+1908	jiang26g	DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution	https://proceedings.mlr.press/v306/jiang26g.html	written
+1909	jiang26h	Distributed Direct Preference Optimization	https://proceedings.mlr.press/v306/jiang26h.html	written
+1910	jiang26i	Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers	https://proceedings.mlr.press/v306/jiang26i.html	written
+1911	jiang26j	Contrastive Weak-to-Strong Generalization	https://proceedings.mlr.press/v306/jiang26j.html	written
+1912	jiang26k	OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration	https://proceedings.mlr.press/v306/jiang26k.html	written
+1913	jiang26l	Incremental BPE Tokenization	https://proceedings.mlr.press/v306/jiang26l.html	written
+1914	jiang26m	Olaf-World: Orienting Latent Actions for Video World Modeling	https://proceedings.mlr.press/v306/jiang26m.html	written
+1915	jiang26n	DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes	https://proceedings.mlr.press/v306/jiang26n.html	written
+1916	jiang26o	Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs	https://proceedings.mlr.press/v306/jiang26o.html	written
 1917	jiang26p	TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution	https://proceedings.mlr.press/v306/jiang26p.html	pending
 1918	jiang26q	Dissecting Post-Training: Uncovering the Complementary Roles of SFT and RL for Document Parsing	https://proceedings.mlr.press/v306/jiang26q.html	pending
 1919	jiang26r	ADHD Disease Detection Based on Short- and Long-Term Brain Function Encoding and Memory Graph Network	https://proceedings.mlr.press/v306/jiang26r.html	pending

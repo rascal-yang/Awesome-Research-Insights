@@ -126,6 +126,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Steering at the Source: Style Modulation Heads for Robust Persona Control](../../conferences/icml-2026/cards/1801-1900.md#izawa26a-inference) · 中文
 - [LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents](../../conferences/icml-2026/cards/1801-1900.md#jeon26b-inference) · 中文
 - [Towards Functional Correctness of Code Models with Selective Generation](../../conferences/icml-2026/cards/1801-1900.md#jeong26a-inference) · 中文
+- [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents](../../conferences/icml-2026/cards/1801-1900.md#ji26d-inference) · 中文
+- [Scalable Power Sampling: Unlocking Efficient, Training-Free Reasoning for LLMs via Distribution Sharpening](../../conferences/icml-2026/cards/1801-1900.md#ji26j-inference) · 中文
+- [SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling](../../conferences/icml-2026/cards/1801-1900.md#ji26m-inference) · 中文
+- [CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation](../../conferences/icml-2026/cards/1901-2000.md#jiang26f-inference) · 中文
+- [OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration](../../conferences/icml-2026/cards/1901-2000.md#jiang26k-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -181,6 +186,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Measurement-Consistent Langevin Corrector for Stabilizing Latent Diffusion Inverse Problem Solvers](../../conferences/icml-2026/cards/1801-1900.md#hyoseok26a-inference) · 中文
 - [DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/1801-1900.md#issachar26a-inference) · 中文
 - [Self-Refining Video Sampling](../../conferences/icml-2026/cards/1801-1900.md#jang26d-inference) · 中文
+- [Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance](../../conferences/icml-2026/cards/1801-1900.md#jia26g-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -194,6 +200,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](../../conferences/icml-2026/cards/1301-1400.md#guo26x-inference) · 中文
 - [RAG without Forgetting: Continual Query-Infused Key Memory](../../conferences/icml-2026/cards/1601-1700.md#hu26ac-inference) · 中文
 - [LEMUR: Learned Multi-Vector Retrieval](../../conferences/icml-2026/cards/1801-1900.md#jaasaari26a-inference) · 中文
+- [Incremental BPE Tokenization](../../conferences/icml-2026/cards/1901-2000.md#jiang26l-inference) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -227,6 +234,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models](../../conferences/icml-2026/cards/1601-1700.md#huang26h-inference) · 中文
 - [SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning](../../conferences/icml-2026/cards/1701-1800.md#huang26t-inference) · 中文
 - [Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](../../conferences/icml-2026/cards/1801-1900.md#jayasinghe26a-inference) · 中文
+- [Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](../../conferences/icml-2026/cards/1801-1900.md#ji26o-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -270,6 +278,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering](../../conferences/icml-2026/cards/1601-1700.md#hu26ay-inference) · 中文
 - [Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth](../../conferences/icml-2026/cards/1701-1800.md#huang26ad-inference) · 中文
 - [Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](../../conferences/icml-2026/cards/1701-1800.md#huang26ag-inference) · 中文
+- [DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing](../../conferences/icml-2026/cards/1801-1900.md#ji26h-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -328,4 +337,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/1401-1500.md#han26g-inference) · 中文
 - [From Feasible to Practical: Pareto-Optimal Synthesis Planning](../../conferences/icml-2026/cards/1401-1500.md#hastedt26a-inference) · 中文
 - [Score Based Error Correcting Code Decoder](../../conferences/icml-2026/cards/1501-1600.md#helvits26a-inference) · 中文
+- [MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation](../../conferences/icml-2026/cards/1801-1900.md#jia26e-inference) · 中文
 <!-- classification:end -->

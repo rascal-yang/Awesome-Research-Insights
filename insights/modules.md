@@ -31,6 +31,7 @@
 - [把重遮盖位置的高熵表征留给下轮去噪](../conferences/icml-2026/cards/1601-1700.md#hu26as-modules) · Residual Context Diffusion Language Models
 - [在自回归推理中保存耗散的连续隐状态](../conferences/icml-2026/cards/1601-1700.md#huang26m-modules) · Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning
 - [以分块偏置校准抑制压缩误差累积](../conferences/icml-2026/cards/1701-1800.md#huang26q-modules) · Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition
+- [让超网络按文本调节前馈门控斜率](../conferences/icml-2026/cards/1801-1900.md#ji26i-modules) · Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM
 
 <a id="by-computer-vision"></a>
 
@@ -117,6 +118,7 @@
 - [用高阶随机草图补足线性原型注意力](../conferences/icml-2026/cards/1701-1800.md#huang26ao-modules) · PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching
 - [只在稀疏路由决策边界引入连续过渡](../conferences/icml-2026/cards/1701-1800.md#huu26a-modules) · Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts
 - [从输入块预估累加部分和的量化尺度](../conferences/icml-2026/cards/1701-1800.md#hwang26a-modules) · PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference
+- [把目标偏好写进边注意力](../conferences/icml-2026/cards/1801-1900.md#jia26l-modules) · Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

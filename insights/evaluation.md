@@ -155,6 +155,10 @@
 - [用随机记分标签设置污染检验上限](../conferences/icml-2026/cards/1801-1900.md#ishida26a-evaluation) · CapBencher: Give Your LLM Benchmark a Built-in Alarm for Test-Set Overfitting
 - [用独立方式区分能力缺失和探索受抑](../conferences/icml-2026/cards/1801-1900.md#jang26b-evaluation) · Exploration Hacking: Can LLMs Learn to Resist RL Training?
 - [以语义干扰下的预测稳定度校准置信](../conferences/icml-2026/cards/1801-1900.md#jawad26a-evaluation) · CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction
+- [用跨能力激活交集定位关键神经元](../conferences/icml-2026/cards/1801-1900.md#ji26a-evaluation) · Tiny Brains, Giant Impact: Uncovering the Keystone Neurons of LLM with Just a Few Prompts
+- [分开检验表格预测的意图识别与模型构造](../conferences/icml-2026/cards/1801-1900.md#ji26c-evaluation) · TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering
+- [把多模型分歧浓缩成可核验争点](../conferences/icml-2026/cards/1901-2000.md#jiang26d-evaluation) · Collaborative Disagreement Resolution for Scalable Oversight
+- [按路由干预诊断 MoE 安全集中性](../conferences/icml-2026/cards/1901-2000.md#jiang26o-evaluation) · Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -181,6 +185,7 @@
 - [按异常对象分配覆盖与误报代价](../conferences/icml-2026/cards/1801-1900.md#iqbal26a-evaluation) · Formally Exploring Visual Anomaly Detection Evaluation Metrics
 - [从分布内几何挑选马氏检测的径向缩放](../conferences/icml-2026/cards/1801-1900.md#janiak26a-evaluation) · A Geometry-Based View of Mahalanobis OOD Detection
 - [分别打乱概念频率与保留组合来定位生成失败](../conferences/icml-2026/cards/1801-1900.md#jeong26b-evaluation) · When Do Diffusion Models Learn to Generate Multiple Objects?
+- [按观测锚点密度判断弱先验是否够用](../conferences/icml-2026/cards/1801-1900.md#jia26k-evaluation) · Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance
 
 <a id="by-nlp"></a>
 
@@ -257,6 +262,8 @@
 - [用文字属性两端构造多模态排序轴](../conferences/icml-2026/cards/1801-1900.md#hyeon-woo26a-evaluation) · Zero-Shot Rankability: Revealing Latent Ordinal Structure in Multimodal Large Language Models via Language
 - [拆开语音安全评审的模态贡献](../conferences/icml-2026/cards/1801-1900.md#ivry26a-evaluation) · LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues
 - [通过跨模态共享分区标识绑定证据](../conferences/icml-2026/cards/1801-1900.md#izadi26a-evaluation) · Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding
+- [按视频评判熵筛动作渲染](../conferences/icml-2026/cards/1801-1900.md#ji26l-evaluation) · Zero-Shot Text-to-Motion Evaluation using Video Language Models
+- [用逐模态移除辨别融合干扰](../conferences/icml-2026/cards/1801-1900.md#jia26a-evaluation) · VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning
 
 <a id="by-ml-foundations"></a>
 
@@ -291,6 +298,7 @@
 - [把图结构比较与免通道对齐的权重比较结合](../conferences/icml-2026/cards/1601-1700.md#hu26ap-evaluation) · An In-Depth Study on Deep Learning Model Cloning
 - [按估分与找失败的目标分配测试](../conferences/icml-2026/cards/1701-1800.md#huang26bw-evaluation) · ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation
 - [用全局兼容性筛查局部因果陈述](../conferences/icml-2026/cards/1801-1900.md#jahn26a-evaluation) · Evaluating Bivariate Causal Statements Based on Mutual Compatibility
+- [把预文本假设拆成三种可测失效](../conferences/icml-2026/cards/1801-1900.md#jia26b-evaluation) · Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning
 
 <a id="by-graph-and-recommendation"></a>
 

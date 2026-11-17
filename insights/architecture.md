@@ -34,6 +34,7 @@
 - [把局部相似 token 压成概念后再做重计算](../conferences/icml-2026/cards/1701-1800.md#huang26cl-architecture) · ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation
 - [从分项语义差异生成跨语言反例测试](../conferences/icml-2026/cards/1801-1900.md#ibrahimzada26a-architecture) · MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair
 - [把无上下文前馈支路预计算为词表](../conferences/icml-2026/cards/1801-1900.md#jaiswal26a-architecture) · MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers
+- [让离散发词策略读取连续演化状态](../conferences/icml-2026/cards/1801-1900.md#jia26h-architecture) · Text Generation as Continuous Latent Dynamics via Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -59,6 +60,7 @@
 - [让卷积滤波器随观察角连续变化](../conferences/icml-2026/cards/1701-1800.md#hwang26f-architecture) · Continuous Viewpoint Adaptation for Single View 3D Object Reconstruction
 - [把相机射线变成可共同去噪的像素](../conferences/icml-2026/cards/1801-1900.md#jang26f-architecture) · Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories
 - [级联空间边界与频域全局信息做杂乱分割](../conferences/icml-2026/cards/1801-1900.md#javaid26a-architecture) · Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background
+- [给轻量扩散编解码器预训练重建任务](../conferences/icml-2026/cards/1801-1900.md#jia26i-architecture) · CoD-Lite: Real-Time Diffusion-Based Generative Image Compression
 
 <a id="by-nlp"></a>
 
@@ -87,6 +89,8 @@
 - [把长演示学习的行为原型按在线阶段实例化](../conferences/icml-2026/cards/1601-1700.md#hu26ad-architecture) · From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model
 - [在同一软体仿真状态接入环境力和动作](../conferences/icml-2026/cards/1701-1800.md#huang26bh-architecture) · SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-Body Manipulation
 - [让高频动作复用低频理解注意力缓存](../conferences/icml-2026/cards/1701-1800.md#huang26cb-architecture) · AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving
+- [按子任务进展触发规划并整理长期记忆](../conferences/icml-2026/cards/1801-1900.md#ji26k-architecture) · HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control
+- [用动作条件潜状态评价驾驶计划](../conferences/icml-2026/cards/1801-1900.md#jia26f-architecture) · DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving
 
 <a id="by-multimodal"></a>
 
@@ -130,6 +134,7 @@
 - [并行建模同类型元素和跨类型约束](../conferences/icml-2026/cards/1701-1800.md#huang26bl-architecture) · A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention
 - [训练注意力密度估计器来复用跨分布核行为](../conferences/icml-2026/cards/1801-1900.md#ilin26a-architecture) · DiScoFormer: Plug-In Density and Score Estimation with Transformers
 - [把几何对称落实为注意力参考系共享](../conferences/icml-2026/cards/1801-1900.md#islam26a-architecture) · Platonic Transformers: A Solid Choice For Equivariance
+- [用并行代理写入近似迭代状态更新](../conferences/icml-2026/cards/1901-2000.md#jiang26e-architecture) · PRISM: Parallel Residual Iterative Sequence Model
 
 <a id="by-graph-and-recommendation"></a>
 

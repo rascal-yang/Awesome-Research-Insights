@@ -46,6 +46,7 @@
 - [用时序活动筛选脉冲网络突触](../conferences/icml-2026/cards/1501-1600.md#hong26j-representation-learning) · Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning
 - [未知类分布下用关系共识与固定几何锚定位](../conferences/icml-2026/cards/1601-1700.md#hou26e-representation-learning) · Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning
 - [按标签几何为视觉原型分配容量](../conferences/icml-2026/cards/1601-1700.md#hu26z-representation-learning) · AURA: Visually Interpretable Affective Understanding via Robust Archetypes
+- [用跨帧语义变化为潜动作建立共同坐标](../conferences/icml-2026/cards/1901-2000.md#jiang26m-representation-learning) · Olaf-World: Orienting Latent Actions for Video World Modeling
 
 <a id="by-nlp"></a>
 
@@ -137,6 +138,7 @@
 - [共同更新原特征空间中的多级锚点](../conferences/icml-2026/cards/1601-1700.md#hu26x-representation-learning) · Hierarchical Anchor Graph Learning for Multi-View Clustering
 - [让共识锚的超边和缺失权重共同决定聚类](../conferences/icml-2026/cards/1601-1700.md#hu26ag-representation-learning) · A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering
 - [把程序扩展特性和危险子结构写进图](../conferences/icml-2026/cards/1701-1800.md#huang26bs-representation-learning) · Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection
+- [先重建节点潜空间再采样新图](../conferences/icml-2026/cards/1901-2000.md#jiang26b-representation-learning) · Efficient Synthetic Network Generation via Latent Embedding Reconstruction
 
 <a id="by-scientific-ml"></a>
 
@@ -165,4 +167,5 @@
 - [用导联投影约束心电潜变量](../conferences/icml-2026/cards/1701-1800.md#huang26ci-representation-learning) · LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space
 - [在固定正交模态系数中做概率超分](../conferences/icml-2026/cards/1801-1900.md#jadhav26a-representation-learning) · PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution
 - [用进化替换相关性构造小数据蛋白核](../conferences/icml-2026/cards/1801-1900.md#jankowiak26a-representation-learning) · Flexible Kernels for Protein Property Prediction
+- [让 EEG 专家按样本贡献表征](../conferences/icml-2026/cards/1801-1900.md#jia26d-representation-learning) · EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models
 <!-- classification:end -->

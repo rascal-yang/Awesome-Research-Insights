@@ -35,6 +35,7 @@
 - [用多步代理更新估计样本的后续价值](../conferences/icml-2026/cards/1401-1500.md#hao26b-data-strategies) · BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining
 - [交替由学生写风格和教师补解法](../conferences/icml-2026/cards/1701-1800.md#huang26bq-data-strategies) · How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data
 - [把短题答案串成可验收的长链](../conferences/icml-2026/cards/1801-1900.md#ivanova26a-data-strategies) · h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning
+- [用同一教师对齐前后差异筛选监督](../conferences/icml-2026/cards/1901-2000.md#jiang26j-data-strategies) · Contrastive Weak-to-Strong Generalization
 
 <a id="by-computer-vision"></a>
 
@@ -79,6 +80,7 @@
 - [人类视频的潜动作监督](../conferences/icml-2026/cards/1201-1300.md#gao26q-data-strategies) · DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
 - [人形运动跟踪的可行性与难度选样](../conferences/icml-2026/cards/1301-1400.md#guan26f-data-strategies) · LIMMT: Less Is More for Motion Tracking
 - [固定动作几何并按覆盖选择模拟视频改写](../conferences/icml-2026/cards/1701-1800.md#hui26b-data-strategies) · Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation
+- [以仿真重放跨机器人改写同一示范](../conferences/icml-2026/cards/1801-1900.md#ji26g-data-strategies) · OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning
 
 <a id="by-multimodal"></a>
 
@@ -115,6 +117,7 @@
 - [治疗效应估计的主动随机试验](../conferences/icml-2026/cards/1201-1300.md#gao26z-data-strategies) · Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data
 - [用全局模型的相对信心在客户端重分配标签](../conferences/icml-2026/cards/1601-1700.md#hu26ao-data-strategies) · FedReLa: Imbalanced Federated Learning via Re-Labeling
 - [用参考模型权重方向估计样本效用](../conferences/icml-2026/cards/1601-1700.md#huang26c-data-strategies) · Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights
+- [用梯度投影贡献分配联邦客户端预算](../conferences/icml-2026/cards/1801-1900.md#ji26b-data-strategies) · ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning
 
 <a id="by-graph-and-recommendation"></a>
 

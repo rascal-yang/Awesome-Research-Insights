@@ -31,6 +31,7 @@ Reusable components and local changes to model inputs or connections.
 - [Residual Context Diffusion Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26as-modules) · 中文
 - [Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning](../../conferences/icml-2026/cards/1601-1700.md#huang26m-modules) · 中文
 - [Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition](../../conferences/icml-2026/cards/1701-1800.md#huang26q-modules) · 中文
+- [Learn-to-learn on Arbitrary Textual Conditioning: A Hypernetwork-Driven Meta-gated LLM](../../conferences/icml-2026/cards/1801-1900.md#ji26i-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -117,6 +118,7 @@ Reusable components and local changes to model inputs or connections.
 - [PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching](../../conferences/icml-2026/cards/1701-1800.md#huang26ao-modules) · 中文
 - [Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts](../../conferences/icml-2026/cards/1701-1800.md#huu26a-modules) · 中文
 - [PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference](../../conferences/icml-2026/cards/1701-1800.md#hwang26a-modules) · 中文
+- [Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization](../../conferences/icml-2026/cards/1801-1900.md#jia26l-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -7,7 +7,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 <!-- classification:start -->
 ## Browse by Research Domain
 
-[Large Language Models](#by-llm) · [Computer Vision](#by-computer-vision) · [Natural Language Processing](#by-nlp) · [Reinforcement Learning](#by-reinforcement-learning) · [Robotics](#by-robotics) · [Multimodal Learning](#by-multimodal) · [Graph Learning and Recommendation](#by-graph-and-recommendation) · [Scientific Machine Learning](#by-scientific-ml)
+[Large Language Models](#by-llm) · [Computer Vision](#by-computer-vision) · [Natural Language Processing](#by-nlp) · [Reinforcement Learning](#by-reinforcement-learning) · [Robotics](#by-robotics) · [Multimodal Learning](#by-multimodal) · [Machine Learning Foundations and Statistics](#by-ml-foundations) · [Graph Learning and Recommendation](#by-graph-and-recommendation) · [Scientific Machine Learning](#by-scientific-ml)
 
 <a id="by-llm"></a>
 
@@ -178,6 +178,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](../../conferences/icml-2026/cards/1401-1500.md#guo26ae-reinforcement-learning) · 中文
 - [Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands](../../conferences/icml-2026/cards/1501-1600.md#heald26a-reinforcement-learning) · 中文
 - [Learning Anisotropic Value Geometry with Finsler Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hossain26a-reinforcement-learning) · 中文
+- [Recovering Hidden Reward in Diffusion-Based Policies](../../conferences/icml-2026/cards/1801-1900.md#ji26e-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -201,6 +202,12 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Faithful Mobile GUI Agents with Guided Advantage Estimator](../../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · 中文
 - [Find, Fix, Reason: Context Repair for Video Reasoning](../../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · 中文
 - [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward](../../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · 中文
+
+<a id="by-ml-foundations"></a>
+
+### Machine Learning Foundations and Statistics
+
+- [DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes](../../conferences/icml-2026/cards/1901-2000.md#jiang26n-reinforcement-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

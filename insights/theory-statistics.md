@@ -92,6 +92,7 @@
 - [用反事实动作价值消除阻止更新的激励](../conferences/icml-2026/cards/1701-1800.md#hudson26a-theory-statistics) · Corrigibility Transformation: Constructing Goals That Accept Updates
 - [用三路分流平衡大量候选的覆盖与复测](../conferences/icml-2026/cards/1701-1800.md#hwang26c-theory-statistics) · Box Thirding: Anytime Best Arm Identification under Insufficient Sampling
 - [用条件偏离限制低成交价](../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions
+- [按正则强度切换老虎机遗憾分析](../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · Near-Optimal Regret for KL-Regularized Multi-Armed Bandits
 
 <a id="by-robotics"></a>
 
@@ -315,6 +316,8 @@
 - [检验条件处理效应的整个分布](../conferences/icml-2026/cards/1801-1900.md#jain26a-theory-statistics) · Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing
 - [按基座可解性区分监督和回报数据](../conferences/icml-2026/cards/1801-1900.md#javanmard26a-theory-statistics) · Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models
 - [用循环深度和填充槽位实现并行句法分析](../conferences/icml-2026/cards/1801-1900.md#jerad26a-theory-statistics) · Context-free Recognition with Transformers
+- [用因素化策略从随机偏好推断对抗均衡](../conferences/icml-2026/cards/1801-1900.md#jerzak26a-theory-statistics) · MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification
+- [把下层条件数嵌入两层零链以刻画查询障碍](../conferences/icml-2026/cards/1801-1900.md#ji26f-theory-statistics) · Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles
 
 <a id="by-graph-and-recommendation"></a>
 

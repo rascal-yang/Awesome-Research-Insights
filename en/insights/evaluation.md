@@ -155,6 +155,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CapBencher: Give Your LLM Benchmark a Built-in Alarm for Test-Set Overfitting](../../conferences/icml-2026/cards/1801-1900.md#ishida26a-evaluation) · 中文
 - [Exploration Hacking: Can LLMs Learn to Resist RL Training?](../../conferences/icml-2026/cards/1801-1900.md#jang26b-evaluation) · 中文
 - [CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction](../../conferences/icml-2026/cards/1801-1900.md#jawad26a-evaluation) · 中文
+- [Tiny Brains, Giant Impact: Uncovering the Keystone Neurons of LLM with Just a Few Prompts](../../conferences/icml-2026/cards/1801-1900.md#ji26a-evaluation) · 中文
+- [TopBench: A Benchmark for Implicit Predictive Reasoning in Tabular Question Answering](../../conferences/icml-2026/cards/1801-1900.md#ji26c-evaluation) · 中文
+- [Collaborative Disagreement Resolution for Scalable Oversight](../../conferences/icml-2026/cards/1901-2000.md#jiang26d-evaluation) · 中文
+- [Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs](../../conferences/icml-2026/cards/1901-2000.md#jiang26o-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -181,6 +185,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Formally Exploring Visual Anomaly Detection Evaluation Metrics](../../conferences/icml-2026/cards/1801-1900.md#iqbal26a-evaluation) · 中文
 - [A Geometry-Based View of Mahalanobis OOD Detection](../../conferences/icml-2026/cards/1801-1900.md#janiak26a-evaluation) · 中文
 - [When Do Diffusion Models Learn to Generate Multiple Objects?](../../conferences/icml-2026/cards/1801-1900.md#jeong26b-evaluation) · 中文
+- [Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance](../../conferences/icml-2026/cards/1801-1900.md#jia26k-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -257,6 +262,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Zero-Shot Rankability: Revealing Latent Ordinal Structure in Multimodal Large Language Models via Language](../../conferences/icml-2026/cards/1801-1900.md#hyeon-woo26a-evaluation) · 中文
 - [LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues](../../conferences/icml-2026/cards/1801-1900.md#ivry26a-evaluation) · 中文
 - [Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding](../../conferences/icml-2026/cards/1801-1900.md#izadi26a-evaluation) · 中文
+- [Zero-Shot Text-to-Motion Evaluation using Video Language Models](../../conferences/icml-2026/cards/1801-1900.md#ji26l-evaluation) · 中文
+- [VT-Bench: A Unified Benchmark for Visual-Tabular Multi-Modal Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -291,6 +298,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [An In-Depth Study on Deep Learning Model Cloning](../../conferences/icml-2026/cards/1601-1700.md#hu26ap-evaluation) · 中文
 - [ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](../../conferences/icml-2026/cards/1701-1800.md#huang26bw-evaluation) · 中文
 - [Evaluating Bivariate Causal Statements Based on Mutual Compatibility](../../conferences/icml-2026/cards/1801-1900.md#jahn26a-evaluation) · 中文
+- [Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26b-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -7,7 +7,7 @@
 <!-- classification:start -->
 ## 按研究领域浏览
 
-[大语言模型](#by-llm) · [计算机视觉](#by-computer-vision) · [自然语言处理](#by-nlp) · [强化学习](#by-reinforcement-learning) · [机器人学](#by-robotics) · [多模态学习](#by-multimodal) · [图学习与推荐](#by-graph-and-recommendation) · [科学机器学习](#by-scientific-ml)
+[大语言模型](#by-llm) · [计算机视觉](#by-computer-vision) · [自然语言处理](#by-nlp) · [强化学习](#by-reinforcement-learning) · [机器人学](#by-robotics) · [多模态学习](#by-multimodal) · [机器学习基础与统计](#by-ml-foundations) · [图学习与推荐](#by-graph-and-recommendation) · [科学机器学习](#by-scientific-ml)
 
 <a id="by-llm"></a>
 
@@ -178,6 +178,7 @@
 - [碰撞预测驱动的驾驶动作自纠正](../conferences/icml-2026/cards/1401-1500.md#guo26ae-reinforcement-learning) · CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving
 - [从关节动力学选可控的低维动作](../conferences/icml-2026/cards/1501-1600.md#heald26a-reinforcement-learning) · Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands
 - [以有方向的运动代价和尾部风险训练策略](../conferences/icml-2026/cards/1501-1600.md#hossain26a-reinforcement-learning) · Learning Anisotropic Value Geometry with Finsler Reinforcement Learning
+- [将动作去噪向量场限制为标量能量梯度](../conferences/icml-2026/cards/1801-1900.md#ji26e-reinforcement-learning) · Recovering Hidden Reward in Diffusion-Based Policies
 
 <a id="by-multimodal"></a>
 
@@ -201,6 +202,12 @@
 - [为同奖惩组保留正确的优势方向](../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · Faithful Mobile GUI Agents with Guided Advantage Estimator
 - [用最小证据补丁修复观察后再做策略更新](../conferences/icml-2026/cards/1701-1800.md#huang26aq-reinforcement-learning) · Find, Fix, Reason: Context Repair for Video Reasoning
 - [将生成反馈拆成可验证的具体问题](../conferences/icml-2026/cards/1701-1800.md#huang26bm-reinforcement-learning) · AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward
+
+<a id="by-ml-foundations"></a>
+
+### 机器学习基础与统计
+
+- [用发射预测误差信号估计离散状态](../conferences/icml-2026/cards/1901-2000.md#jiang26n-reinforcement-learning) · DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes
 
 <a id="by-graph-and-recommendation"></a>
 

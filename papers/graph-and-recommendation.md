@@ -120,6 +120,7 @@
 - <a id="hu26x-representation-learning"></a>[Hierarchical Anchor Graph Learning for Multi-View Clustering](../conferences/icml-2026/cards/1601-1700.md#paper-hu26x)
 - <a id="hu26ag-representation-learning"></a>[A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering](../conferences/icml-2026/cards/1601-1700.md#paper-hu26ag)
 - <a id="huang26bs-representation-learning"></a>[Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bs)
+- <a id="jiang26b-representation-learning"></a>[Efficient Synthetic Network Generation via Latent Embedding Reconstruction](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26b)
 
 <a id="by-evaluation"></a>
 

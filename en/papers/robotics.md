@@ -20,6 +20,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="hu26ad-architecture"></a>[From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ad)
 - <a id="huang26bh-architecture"></a>[SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-Body Manipulation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bh)
 - <a id="huang26cb-architecture"></a>[AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cb)
+- <a id="ji26k-architecture"></a>[HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26k)
+- <a id="jia26f-architecture"></a>[DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26f)
 
 <a id="by-modules"></a>
 
@@ -56,6 +58,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="guo26ae-reinforcement-learning"></a>[CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ae)
 - <a id="heald26a-reinforcement-learning"></a>[Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands](../../conferences/icml-2026/cards/1501-1600.md#paper-heald26a)
 - <a id="hossain26a-reinforcement-learning"></a>[Learning Anisotropic Value Geometry with Finsler Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hossain26a)
+- <a id="ji26e-reinforcement-learning"></a>[Recovering Hidden Reward in Diffusion-Based Policies](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26e)
 
 <a id="by-training-strategies"></a>
 
@@ -81,6 +84,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="gao26q-data-strategies"></a>[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26q)
 - <a id="guan26f-data-strategies"></a>[LIMMT: Less Is More for Motion Tracking](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26f)
 - <a id="hui26b-data-strategies"></a>[Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](../../conferences/icml-2026/cards/1701-1800.md#paper-hui26b)
+- <a id="ji26g-data-strategies"></a>[OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26g)
 
 <a id="by-inference"></a>
 
@@ -103,6 +107,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="huang26h-inference"></a>[EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26h)
 - <a id="huang26t-inference"></a>[SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26t)
 - <a id="jayasinghe26a-inference"></a>[Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation](../../conferences/icml-2026/cards/1801-1900.md#paper-jayasinghe26a)
+- <a id="ji26o-inference"></a>[Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning](../../conferences/icml-2026/cards/1801-1900.md#paper-ji26o)
 
 <a id="by-representation-learning"></a>
 

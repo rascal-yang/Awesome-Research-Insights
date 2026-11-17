@@ -46,6 +46,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Deterministic Differentiable Structured Pruning for Large Language Models](../../conferences/icml-2026/cards/1701-1800.md#huang26cg-optimization) · 中文
 - [CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](../../conferences/icml-2026/cards/1801-1900.md#ikram26a-optimization) · 中文
 - [Stabilizing Native Low-Rank LLM Pretraining](../../conferences/icml-2026/cards/1801-1900.md#janson26a-optimization) · 中文
+- [DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution](../../conferences/icml-2026/cards/1901-2000.md#jiang26g-optimization) · 中文
+- [Distributed Direct Preference Optimization](../../conferences/icml-2026/cards/1901-2000.md#jiang26h-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -60,6 +62,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing](../../conferences/icml-2026/cards/1501-1600.md#hong26c-optimization) · 中文
 - [3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](../../conferences/icml-2026/cards/1601-1700.md#hsiao26a-optimization) · 中文
 - [Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation](../../conferences/icml-2026/cards/1701-1800.md#hwang26h-optimization) · 中文
+- [Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](../../conferences/icml-2026/cards/1901-2000.md#jiang26i-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -224,6 +227,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data](../../conferences/icml-2026/cards/1801-1900.md#inane26a-optimization) · 中文
 - [On the Role of Batch Size in Stochastic Conditional Gradient Methods](../../conferences/icml-2026/cards/1801-1900.md#islamov26b-optimization) · 中文
 - [An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale](../../conferences/icml-2026/cards/1801-1900.md#javaloy26a-optimization) · 中文
+- [SC-FAGC: Size Constrained Fast Anchor Graph Clustering](../../conferences/icml-2026/cards/1901-2000.md#jiachen26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

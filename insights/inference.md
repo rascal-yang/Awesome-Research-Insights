@@ -126,6 +126,11 @@
 - [定位风格注意力头后再做人格引导](../conferences/icml-2026/cards/1801-1900.md#izawa26a-inference) · Steering at the Source: Style Modulation Heads for Robust Persona Control
 - [按共享底座与适配器分解代理缓存](../conferences/icml-2026/cards/1801-1900.md#jeon26b-inference) · LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents
 - [用动态测试校准代码回答的接受阈值](../conferences/icml-2026/cards/1801-1900.md#jeong26a-inference) · Towards Functional Correctness of Code Models with Selective Generation
+- [按新证据逐步重建代理记忆](../conferences/icml-2026/cards/1801-1900.md#ji26d-inference) · Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents
+- [用续写路径的概率集中度校正局部低温采样](../conferences/icml-2026/cards/1801-1900.md#ji26j-inference) · Scalable Power Sampling: Unlocking Efficient, Training-Free Reasoning for LLMs via Distribution Sharpening
+- [用低位分数预筛可跳过的注意力块](../conferences/icml-2026/cards/1801-1900.md#ji26m-inference) · SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling
+- [把逐句引证核验写成多重检验](../conferences/icml-2026/cards/1901-2000.md#jiang26f-inference) · CiteGuard: Conformal False-Discovery Control for Faithful Retrieval-Augmented Generation
+- [按实时请求组合切换异构模型部署](../conferences/icml-2026/cards/1901-2000.md#jiang26k-inference) · OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration
 
 <a id="by-computer-vision"></a>
 
@@ -181,6 +186,7 @@
 - [将逆问题先验修正限制在测量梯度的正交方向](../conferences/icml-2026/cards/1801-1900.md#hyoseok26a-inference) · Measurement-Consistent Langevin Corrector for Stabilizing Latent Diffusion Inverse Problem Solvers
 - [随去噪阶段伸缩高分辨率位置编码](../conferences/icml-2026/cards/1801-1900.md#issachar26a-inference) · DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion
 - [由视频生成器自校正高不确定区域](../conferences/icml-2026/cards/1801-1900.md#jang26d-inference) · Self-Refining Video Sampling
+- [按局部度量预条件扩散引导](../conferences/icml-2026/cards/1801-1900.md#jia26g-inference) · Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance
 
 <a id="by-nlp"></a>
 
@@ -194,6 +200,7 @@
 - [稀疏编码的多向量倒排检索](../conferences/icml-2026/cards/1301-1400.md#guo26x-inference) · No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval
 - [把经过正确性验证的查询扩展逐项写回检索键](../conferences/icml-2026/cards/1601-1700.md#hu26ac-inference) · RAG without Forgetting: Continual Query-Infused Key Memory
 - [把晚交互打分蒸馏成可索引相似度](../conferences/icml-2026/cards/1801-1900.md#jaasaari26a-inference) · LEMUR: Learned Multi-Vector Retrieval
+- [用词元后缀路径维护流式 BPE 前沿](../conferences/icml-2026/cards/1901-2000.md#jiang26l-inference) · Incremental BPE Tokenization
 
 <a id="by-reinforcement-learning"></a>
 
@@ -227,6 +234,7 @@
 - [按环境变化异步更新动作模型通道稀疏度](../conferences/icml-2026/cards/1601-1700.md#huang26h-inference) · EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models
 - [在生成时间加入轨迹约束控制](../conferences/icml-2026/cards/1701-1800.md#huang26t-inference) · SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning
 - [将部署故障校正放进受限的局部残差](../conferences/icml-2026/cards/1801-1900.md#jayasinghe26a-inference) · Cerebellar-Inspired Residual Control for Fault Recovery: From Inference-Time Adaptation to Structural Consolidation
+- [按当前观察预测整条去噪剪枝图](../conferences/icml-2026/cards/1801-1900.md#ji26o-inference) · Sparse ActionGen: Accelerating Diffusion Policy with Real-time Pruning
 
 <a id="by-multimodal"></a>
 
@@ -270,6 +278,7 @@
 - [以实体名称绑定视觉检索](../conferences/icml-2026/cards/1601-1700.md#hu26ay-inference) · EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering
 - [按局部刚度自适应扩散求解的时间带宽](../conferences/icml-2026/cards/1701-1800.md#huang26ad-inference) · Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth
 - [向先验动态收缩低置信类别的测试时估计](../conferences/icml-2026/cards/1701-1800.md#huang26ag-inference) · Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction
+- [让流式生成随音频变化调节历史依赖](../conferences/icml-2026/cards/1801-1900.md#ji26h-inference) · DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing
 
 <a id="by-ml-foundations"></a>
 
@@ -328,4 +337,5 @@
 - [原子势的平滑动态截断](../conferences/icml-2026/cards/1401-1500.md#han26g-inference) · Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials
 - [在共享逆合成搜索图上自适应采样目标权重](../conferences/icml-2026/cards/1401-1500.md#hastedt26a-inference) · From Feasible to Practical: Pareto-Optimal Synthesis Planning
 - [保留信道符号来积分连续解码场](../conferences/icml-2026/cards/1501-1600.md#helvits26a-inference) · Score Based Error Correcting Code Decoder
+- [把谱峰基序证据带入分段去噪搜索](../conferences/icml-2026/cards/1801-1900.md#jia26e-inference) · MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation
 <!-- classification:end -->

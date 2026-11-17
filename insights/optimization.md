@@ -46,6 +46,8 @@
 - [用确定性门优化结构化剪枝](../conferences/icml-2026/cards/1701-1800.md#huang26cg-optimization) · Deterministic Differentiable Structured Pruning for Large Language Models
 - [将知识编辑梯度投影到能力损失的低曲率方向](../conferences/icml-2026/cards/1801-1900.md#ikram26a-optimization) · CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing
 - [在低秩因子空间限制合成权重的谱更新](../conferences/icml-2026/cards/1801-1900.md#janson26a-optimization) · Stabilizing Native Low-Rank LLM Pretraining
+- [把程序搜索历史压缩为可复用的语义差量](../conferences/icml-2026/cards/1901-2000.md#jiang26g-optimization) · DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution
+- [把偏好异质性与通信混合拆进 DPO 收敛](../conferences/icml-2026/cards/1901-2000.md#jiang26h-optimization) · Distributed Direct Preference Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -60,6 +62,7 @@
 - [先在渲染平面约束扰动，再把结果拟合回三维](../conferences/icml-2026/cards/1501-1600.md#hong26c-optimization) · AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing
 - [对角曲率配合高斯参数信赖域](../conferences/icml-2026/cards/1601-1700.md#hsiao26a-optimization) · 3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting
 - [把奖励梯度投影成保持噪声统计的方向](../conferences/icml-2026/cards/1701-1800.md#hwang26h-optimization) · Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation
+- [在共享参数的单流生成器解耦擦除更新](../conferences/icml-2026/cards/1901-2000.md#jiang26i-optimization) · Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers
 
 <a id="by-nlp"></a>
 
@@ -224,6 +227,7 @@
 - [共享公开集稀释删除扰动](../conferences/icml-2026/cards/1801-1900.md#inane26a-optimization) · Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data
 - [按噪声与更新频率一起调批量](../conferences/icml-2026/cards/1801-1900.md#islamov26b-optimization) · On the Role of Batch Size in Stochastic Conditional Gradient Methods
 - [用近流形回缩包装自适应优化器](../conferences/icml-2026/cards/1801-1900.md#javaloy26a-optimization) · An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale
+- [在锚图传输子问题中约束簇大小](../conferences/icml-2026/cards/1901-2000.md#jiachen26a-optimization) · SC-FAGC: Size Constrained Fast Anchor Graph Clustering
 
 <a id="by-graph-and-recommendation"></a>
 

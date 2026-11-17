@@ -92,6 +92,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Corrigibility Transformation: Constructing Goals That Accept Updates](../../conferences/icml-2026/cards/1701-1800.md#hudson26a-theory-statistics) · 中文
 - [Box Thirding: Anytime Best Arm Identification under Insufficient Sampling](../../conferences/icml-2026/cards/1701-1800.md#hwang26c-theory-statistics) · 中文
 - [Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · 中文
+- [Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -315,6 +316,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing](../../conferences/icml-2026/cards/1801-1900.md#jain26a-theory-statistics) · 中文
 - [Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models](../../conferences/icml-2026/cards/1801-1900.md#javanmard26a-theory-statistics) · 中文
 - [Context-free Recognition with Transformers](../../conferences/icml-2026/cards/1801-1900.md#jerad26a-theory-statistics) · 中文
+- [MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification](../../conferences/icml-2026/cards/1801-1900.md#jerzak26a-theory-statistics) · 中文
+- [Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles](../../conferences/icml-2026/cards/1801-1900.md#ji26f-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

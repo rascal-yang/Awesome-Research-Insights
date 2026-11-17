@@ -71,6 +71,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="guo26x-inference"></a>[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26x)
 - <a id="hu26ac-inference"></a>[RAG without Forgetting: Continual Query-Infused Key Memory](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ac)
 - <a id="jaasaari26a-inference"></a>[LEMUR: Learned Multi-Vector Retrieval](../../conferences/icml-2026/cards/1801-1900.md#paper-jaasaari26a)
+- <a id="jiang26l-inference"></a>[Incremental BPE Tokenization](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26l)
 
 <a id="by-representation-learning"></a>
 

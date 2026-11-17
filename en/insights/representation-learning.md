@@ -46,6 +46,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning](../../conferences/icml-2026/cards/1501-1600.md#hong26j-representation-learning) · 中文
 - [Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](../../conferences/icml-2026/cards/1601-1700.md#hou26e-representation-learning) · 中文
 - [AURA: Visually Interpretable Affective Understanding via Robust Archetypes](../../conferences/icml-2026/cards/1601-1700.md#hu26z-representation-learning) · 中文
+- [Olaf-World: Orienting Latent Actions for Video World Modeling](../../conferences/icml-2026/cards/1901-2000.md#jiang26m-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -137,6 +138,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Hierarchical Anchor Graph Learning for Multi-View Clustering](../../conferences/icml-2026/cards/1601-1700.md#hu26x-representation-learning) · 中文
 - [A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1601-1700.md#hu26ag-representation-learning) · 中文
 - [Exploring Motif-based Heterogeneous Graph Learning for ReDoS Detection](../../conferences/icml-2026/cards/1701-1800.md#huang26bs-representation-learning) · 中文
+- [Efficient Synthetic Network Generation via Latent Embedding Reconstruction](../../conferences/icml-2026/cards/1901-2000.md#jiang26b-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -165,4 +167,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space](../../conferences/icml-2026/cards/1701-1800.md#huang26ci-representation-learning) · 中文
 - [PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution](../../conferences/icml-2026/cards/1801-1900.md#jadhav26a-representation-learning) · 中文
 - [Flexible Kernels for Protein Property Prediction](../../conferences/icml-2026/cards/1801-1900.md#jankowiak26a-representation-learning) · 中文
+- [EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](../../conferences/icml-2026/cards/1801-1900.md#jia26d-representation-learning) · 中文
 <!-- classification:end -->

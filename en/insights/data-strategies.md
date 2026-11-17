@@ -35,6 +35,7 @@ Data selection, annotation, augmentation, and sampling.
 - [BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining](../../conferences/icml-2026/cards/1401-1500.md#hao26b-data-strategies) · 中文
 - [How to Fine-Tune a Reasoning Model? A Teacher–Student Cooperation Framework to Synthesize Student-Consistent SFT Data](../../conferences/icml-2026/cards/1701-1800.md#huang26bq-data-strategies) · 中文
 - [h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning](../../conferences/icml-2026/cards/1801-1900.md#ivanova26a-data-strategies) · 中文
+- [Contrastive Weak-to-Strong Generalization](../../conferences/icml-2026/cards/1901-2000.md#jiang26j-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -79,6 +80,7 @@ Data selection, annotation, augmentation, and sampling.
 - [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](../../conferences/icml-2026/cards/1201-1300.md#gao26q-data-strategies) · 中文
 - [LIMMT: Less Is More for Motion Tracking](../../conferences/icml-2026/cards/1301-1400.md#guan26f-data-strategies) · 中文
 - [Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation](../../conferences/icml-2026/cards/1701-1800.md#hui26b-data-strategies) · 中文
+- [OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning](../../conferences/icml-2026/cards/1801-1900.md#ji26g-data-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -115,6 +117,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data](../../conferences/icml-2026/cards/1201-1300.md#gao26z-data-strategies) · 中文
 - [FedReLa: Imbalanced Federated Learning via Re-Labeling](../../conferences/icml-2026/cards/1601-1700.md#hu26ao-data-strategies) · 中文
 - [Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](../../conferences/icml-2026/cards/1601-1700.md#huang26c-data-strategies) · 中文
+- [ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning](../../conferences/icml-2026/cards/1801-1900.md#ji26b-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

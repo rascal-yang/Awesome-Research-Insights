@@ -134,4 +134,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Control Consistency Losses for Diffusion Bridges](../../conferences/icml-2026/cards/1601-1700.md#howard26b-loss-functions) · 中文
 - [Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality](../../conferences/icml-2026/cards/1701-1800.md#huh26a-loss-functions) · 中文
 - [Signature-Informed Transformer for Asset Allocation](../../conferences/icml-2026/cards/1701-1800.md#hwang26j-loss-functions) · 中文
+- [Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](../../conferences/icml-2026/cards/1801-1900.md#jia26j-loss-functions) · 中文
 <!-- classification:end -->

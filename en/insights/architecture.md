@@ -34,6 +34,7 @@ Model-wide design and information flow.
 - [ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation](../../conferences/icml-2026/cards/1701-1800.md#huang26cl-architecture) · 中文
 - [MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](../../conferences/icml-2026/cards/1801-1900.md#ibrahimzada26a-architecture) · 中文
 - [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](../../conferences/icml-2026/cards/1801-1900.md#jaiswal26a-architecture) · 中文
+- [Text Generation as Continuous Latent Dynamics via Reinforcement Learning](../../conferences/icml-2026/cards/1801-1900.md#jia26h-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -59,6 +60,7 @@ Model-wide design and information flow.
 - [Continuous Viewpoint Adaptation for Single View 3D Object Reconstruction](../../conferences/icml-2026/cards/1701-1800.md#hwang26f-architecture) · 中文
 - [Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories](../../conferences/icml-2026/cards/1801-1900.md#jang26f-architecture) · 中文
 - [Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background](../../conferences/icml-2026/cards/1801-1900.md#javaid26a-architecture) · 中文
+- [CoD-Lite: Real-Time Diffusion-Based Generative Image Compression](../../conferences/icml-2026/cards/1801-1900.md#jia26i-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -87,6 +89,8 @@ Model-wide design and information flow.
 - [From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](../../conferences/icml-2026/cards/1601-1700.md#hu26ad-architecture) · 中文
 - [SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-Body Manipulation](../../conferences/icml-2026/cards/1701-1800.md#huang26bh-architecture) · 中文
 - [AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture -of-Transformers for End-to-End Autonomous Driving](../../conferences/icml-2026/cards/1701-1800.md#huang26cb-architecture) · 中文
+- [HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control](../../conferences/icml-2026/cards/1801-1900.md#ji26k-architecture) · 中文
+- [DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving](../../conferences/icml-2026/cards/1801-1900.md#jia26f-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -130,6 +134,7 @@ Model-wide design and information flow.
 - [A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](../../conferences/icml-2026/cards/1701-1800.md#huang26bl-architecture) · 中文
 - [DiScoFormer: Plug-In Density and Score Estimation with Transformers](../../conferences/icml-2026/cards/1801-1900.md#ilin26a-architecture) · 中文
 - [Platonic Transformers: A Solid Choice For Equivariance](../../conferences/icml-2026/cards/1801-1900.md#islam26a-architecture) · 中文
+- [PRISM: Parallel Residual Iterative Sequence Model](../../conferences/icml-2026/cards/1901-2000.md#jiang26e-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

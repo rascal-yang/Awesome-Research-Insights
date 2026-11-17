@@ -174,4 +174,5 @@
 - <a id="hudson26a-theory-statistics"></a>[Corrigibility Transformation: Constructing Goals That Accept Updates](../conferences/icml-2026/cards/1701-1800.md#paper-hudson26a)
 - <a id="hwang26c-theory-statistics"></a>[Box Thirding: Anytime Best Arm Identification under Insufficient Sampling](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26c)
 - <a id="ipsen26a-theory-statistics"></a>[Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../conferences/icml-2026/cards/1801-1900.md#paper-ipsen26a)
+- <a id="ji26n-theory-statistics"></a>[Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../conferences/icml-2026/cards/1801-1900.md#paper-ji26n)
 <!-- classification:end -->

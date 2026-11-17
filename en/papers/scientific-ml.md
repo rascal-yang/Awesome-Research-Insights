@@ -75,6 +75,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="howard26b-loss-functions"></a>[Control Consistency Losses for Diffusion Bridges](../../conferences/icml-2026/cards/1601-1700.md#paper-howard26b)
 - <a id="huh26a-loss-functions"></a>[Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality](../../conferences/icml-2026/cards/1701-1800.md#paper-huh26a)
 - <a id="hwang26j-loss-functions"></a>[Signature-Informed Transformer for Asset Allocation](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26j)
+- <a id="jia26j-loss-functions"></a>[Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26j)
 
 <a id="by-optimization"></a>
 
@@ -166,6 +167,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="han26g-inference"></a>[Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/1401-1500.md#paper-han26g)
 - <a id="hastedt26a-inference"></a>[From Feasible to Practical: Pareto-Optimal Synthesis Planning](../../conferences/icml-2026/cards/1401-1500.md#paper-hastedt26a)
 - <a id="helvits26a-inference"></a>[Score Based Error Correcting Code Decoder](../../conferences/icml-2026/cards/1501-1600.md#paper-helvits26a)
+- <a id="jia26e-inference"></a>[MAST: Motif-Augmented Diffusion with Search Tree for Spectroscopic Molecular Structure Elucidation](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26e)
 
 <a id="by-representation-learning"></a>
 
@@ -194,6 +196,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="huang26ci-representation-learning"></a>[LVCG: Learning ECG Representations in the Latent Vectorcardiogram Space](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26ci)
 - <a id="jadhav26a-representation-learning"></a>[PODiff: Latent Diffusion in Proper Orthogonal Decomposition Space for Scientific Super-Resolution](../../conferences/icml-2026/cards/1801-1900.md#paper-jadhav26a)
 - <a id="jankowiak26a-representation-learning"></a>[Flexible Kernels for Protein Property Prediction](../../conferences/icml-2026/cards/1801-1900.md#paper-jankowiak26a)
+- <a id="jia26d-representation-learning"></a>[EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26d)
 
 <a id="by-evaluation"></a>
 

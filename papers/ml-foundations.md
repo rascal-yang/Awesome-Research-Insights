@@ -7,7 +7,7 @@
 <!-- classification:start -->
 ## 按技术类型浏览
 
-[模型架构](#by-architecture) · [模块](#by-modules) · [损失函数](#by-loss-functions) · [优化](#by-optimization) · [训练策略](#by-training-strategies) · [数据策略](#by-data-strategies) · [推理策略](#by-inference) · [表征学习](#by-representation-learning) · [评测与诊断](#by-evaluation) · [理论与统计](#by-theory-statistics)
+[模型架构](#by-architecture) · [模块](#by-modules) · [损失函数](#by-loss-functions) · [优化](#by-optimization) · [强化学习方法](#by-reinforcement-learning) · [训练策略](#by-training-strategies) · [数据策略](#by-data-strategies) · [推理策略](#by-inference) · [表征学习](#by-representation-learning) · [评测与诊断](#by-evaluation) · [理论与统计](#by-theory-statistics)
 
 <a id="by-architecture"></a>
 
@@ -37,6 +37,7 @@
 - <a id="huang26bl-architecture"></a>[A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bl)
 - <a id="ilin26a-architecture"></a>[DiScoFormer: Plug-In Density and Score Estimation with Transformers](../conferences/icml-2026/cards/1801-1900.md#paper-ilin26a)
 - <a id="islam26a-architecture"></a>[Platonic Transformers: A Solid Choice For Equivariance](../conferences/icml-2026/cards/1801-1900.md#paper-islam26a)
+- <a id="jiang26e-architecture"></a>[PRISM: Parallel Residual Iterative Sequence Model](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26e)
 
 <a id="by-modules"></a>
 
@@ -70,6 +71,7 @@
 - <a id="huang26ao-modules"></a>[PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching](../conferences/icml-2026/cards/1701-1800.md#paper-huang26ao)
 - <a id="huu26a-modules"></a>[Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts](../conferences/icml-2026/cards/1701-1800.md#paper-huu26a)
 - <a id="hwang26a-modules"></a>[PsumQuant: In-line Post-training Partial Sum Quantizer for Energy Efficient NPU Inference](../conferences/icml-2026/cards/1701-1800.md#paper-hwang26a)
+- <a id="jia26l-modules"></a>[Preference-Modulated Structural Attention for Multi-Objective Combinatorial Optimization](../conferences/icml-2026/cards/1801-1900.md#paper-jia26l)
 
 <a id="by-loss-functions"></a>
 
@@ -227,6 +229,13 @@
 - <a id="inane26a-optimization"></a>[Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data](../conferences/icml-2026/cards/1801-1900.md#paper-inane26a)
 - <a id="islamov26b-optimization"></a>[On the Role of Batch Size in Stochastic Conditional Gradient Methods](../conferences/icml-2026/cards/1801-1900.md#paper-islamov26b)
 - <a id="javaloy26a-optimization"></a>[An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale](../conferences/icml-2026/cards/1801-1900.md#paper-javaloy26a)
+- <a id="jiachen26a-optimization"></a>[SC-FAGC: Size Constrained Fast Anchor Graph Clustering](../conferences/icml-2026/cards/1901-2000.md#paper-jiachen26a)
+
+<a id="by-reinforcement-learning"></a>
+
+### 强化学习方法
+
+- <a id="jiang26n-reinforcement-learning"></a>[DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26n)
 
 <a id="by-training-strategies"></a>
 
@@ -272,6 +281,7 @@
 - <a id="hong26e-training-strategies"></a>[Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation](../conferences/icml-2026/cards/1501-1600.md#paper-hong26e)
 - <a id="horoi26a-training-strategies"></a>[From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../conferences/icml-2026/cards/1501-1600.md#paper-horoi26a)
 - <a id="janetzky26a-training-strategies"></a>[Continual Learning of Domain-Invariant Representations](../conferences/icml-2026/cards/1801-1900.md#paper-janetzky26a)
+- <a id="jiang26c-training-strategies"></a>[MetaMoE: Diversity-Aware Proxy Selection for Privacy-Preserving Mixture-of-Experts Unification](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26c)
 
 <a id="by-data-strategies"></a>
 
@@ -288,6 +298,7 @@
 - <a id="gao26z-data-strategies"></a>[Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data](../conferences/icml-2026/cards/1201-1300.md#paper-gao26z)
 - <a id="hu26ao-data-strategies"></a>[FedReLa: Imbalanced Federated Learning via Re-Labeling](../conferences/icml-2026/cards/1601-1700.md#paper-hu26ao)
 - <a id="huang26c-data-strategies"></a>[Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](../conferences/icml-2026/cards/1601-1700.md#paper-huang26c)
+- <a id="ji26b-data-strategies"></a>[ShapCCS: Shapley-Driven Client Coreset Selection in Federated Learning](../conferences/icml-2026/cards/1801-1900.md#paper-ji26b)
 
 <a id="by-inference"></a>
 
@@ -371,6 +382,7 @@
 - <a id="hu26ap-evaluation"></a>[An In-Depth Study on Deep Learning Model Cloning](../conferences/icml-2026/cards/1601-1700.md#paper-hu26ap)
 - <a id="huang26bw-evaluation"></a>[ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](../conferences/icml-2026/cards/1701-1800.md#paper-huang26bw)
 - <a id="jahn26a-evaluation"></a>[Evaluating Bivariate Causal Statements Based on Mutual Compatibility](../conferences/icml-2026/cards/1801-1900.md#paper-jahn26a)
+- <a id="jia26b-evaluation"></a>[Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning](../conferences/icml-2026/cards/1801-1900.md#paper-jia26b)
 
 <a id="by-theory-statistics"></a>
 
@@ -581,4 +593,6 @@
 - <a id="jain26a-theory-statistics"></a>[Conditional Distributional Treatment Effects: Doubly Robust Estimation and Testing](../conferences/icml-2026/cards/1801-1900.md#paper-jain26a)
 - <a id="javanmard26a-theory-statistics"></a>[Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models](../conferences/icml-2026/cards/1801-1900.md#paper-javanmard26a)
 - <a id="jerad26a-theory-statistics"></a>[Context-free Recognition with Transformers](../conferences/icml-2026/cards/1801-1900.md#paper-jerad26a)
+- <a id="jerzak26a-theory-statistics"></a>[MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification](../conferences/icml-2026/cards/1801-1900.md#paper-jerzak26a)
+- <a id="ji26f-theory-statistics"></a>[Lower Complexity Bounds for Nonconvex-Strongly-Convex Bilevel Optimization with First-Order Oracles](../conferences/icml-2026/cards/1801-1900.md#paper-ji26f)
 <!-- classification:end -->

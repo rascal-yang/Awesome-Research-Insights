@@ -33,6 +33,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hwang26f-architecture"></a>[Continuous Viewpoint Adaptation for Single View 3D Object Reconstruction](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26f)
 - <a id="jang26f-architecture"></a>[Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26f)
 - <a id="javaid26a-architecture"></a>[Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background](../../conferences/icml-2026/cards/1801-1900.md#paper-javaid26a)
+- <a id="jia26i-architecture"></a>[CoD-Lite: Real-Time Diffusion-Based Generative Image Compression](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26i)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -83,6 +84,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hong26c-optimization"></a>[AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26c)
 - <a id="hsiao26a-optimization"></a>[3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](../../conferences/icml-2026/cards/1601-1700.md#paper-hsiao26a)
 - <a id="hwang26h-optimization"></a>[Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation](../../conferences/icml-2026/cards/1701-1800.md#paper-hwang26h)
+- <a id="jiang26i-optimization"></a>[Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26i)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -189,6 +191,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hyoseok26a-inference"></a>[Measurement-Consistent Langevin Corrector for Stabilizing Latent Diffusion Inverse Problem Solvers](../../conferences/icml-2026/cards/1801-1900.md#paper-hyoseok26a)
 - <a id="issachar26a-inference"></a>[DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/1801-1900.md#paper-issachar26a)
 - <a id="jang26d-inference"></a>[Self-Refining Video Sampling](../../conferences/icml-2026/cards/1801-1900.md#paper-jang26d)
+- <a id="jia26g-inference"></a>[Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26g)
 
 <a id="by-representation-learning"></a>
 
@@ -216,6 +219,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="hong26j-representation-learning"></a>[Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26j)
 - <a id="hou26e-representation-learning"></a>[Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26e)
 - <a id="hu26z-representation-learning"></a>[AURA: Visually Interpretable Affective Understanding via Robust Archetypes](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26z)
+- <a id="jiang26m-representation-learning"></a>[Olaf-World: Orienting Latent Actions for Video World Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jiang26m)
 
 <a id="by-evaluation"></a>
 
@@ -242,6 +246,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="iqbal26a-evaluation"></a>[Formally Exploring Visual Anomaly Detection Evaluation Metrics](../../conferences/icml-2026/cards/1801-1900.md#paper-iqbal26a)
 - <a id="janiak26a-evaluation"></a>[A Geometry-Based View of Mahalanobis OOD Detection](../../conferences/icml-2026/cards/1801-1900.md#paper-janiak26a)
 - <a id="jeong26b-evaluation"></a>[When Do Diffusion Models Learn to Generate Multiple Objects?](../../conferences/icml-2026/cards/1801-1900.md#paper-jeong26b)
+- <a id="jia26k-evaluation"></a>[Weak Diffusion Priors Can Still Achieve Strong Inverse-Problem Performance](../../conferences/icml-2026/cards/1801-1900.md#paper-jia26k)
 
 <a id="by-theory-statistics"></a>
 
