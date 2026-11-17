@@ -16,7 +16,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest screening · 2026-11-18** · [ICML 2026 · 1,920 / 6,552 screened · 4,046 included](conferences/icml-2026/README.md)
+**Latest screening · 2026-11-18** · [ICML 2026 · 1,925 / 6,552 screened · 4,045 included](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -29,12 +29,12 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="natural-language-processing"></a>[Natural Language Processing](en/papers/nlp.md) | 75 | Language, speech, retrieval, and text processing. |
 | <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 270 | Sequential decisions, rewards, policy learning, and games. |
 | <a id="robotics"></a>[Robotics](en/papers/robotics.md) | 138 | Robot perception, policy learning, planning, and control. |
-| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 417 | Learning and reasoning across vision, text, audio, and other modalities. |
+| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 416 | Learning and reasoning across vision, text, audio, and other modalities. |
 | <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 994 | General learning methods, optimization, learning theory, and inference. |
 | <a id="graph-and-recommendation"></a>[Graph Learning and Recommendation](en/papers/graph-and-recommendation.md) | 158 | Graph models, knowledge graphs, and recommender systems. |
 | <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 404 | Machine learning for physics, medicine, biology, and engineering. |
 
-**4,047 papers · 4,048 mechanisms.**
+**4,046 papers · 4,047 mechanisms.**
 
 <a id="insights-by-technical-category"></a>
 
@@ -42,7 +42,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 | Technique | Mechanisms | Scope |
 | :--- | ---: | :--- |
-| <a id="architectures"></a>[Architectures](en/insights/architecture.md) | 350 | Model-wide design and information flow. |
+| <a id="architectures"></a>[Architectures](en/insights/architecture.md) | 349 | Model-wide design and information flow. |
 | <a id="computer-vision-modules"></a><a id="modules"></a><a id="modules-1"></a>[Modules](en/insights/modules.md) | 162 | Components, connections, and parameterizations. |
 | <a id="loss-functions"></a>[Loss Functions](en/insights/loss-functions.md) | 163 | Objectives, auxiliary supervision, and regularization. |
 | <a id="optimization"></a>[Optimization](en/insights/optimization.md) | 404 | Gradient updates, solvers, and optimization dynamics. |
@@ -56,11 +56,11 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 ## Recent Updates
 
+- **2026-11-18** · Reviewed 5 ICML 2026 cards and removed 1.
+
 - **2026-11-18** · Reviewed 5 ICML 2026 cards and removed 0.
 
 - **2026-11-18** · Screened ICML 2026 papers 3585 and updated the indexes.
-
-- **2026-11-18** · Reviewed 8 ICML 2026 cards and removed 8.
 
 <a id="icml-2026-first-batch"></a>
 

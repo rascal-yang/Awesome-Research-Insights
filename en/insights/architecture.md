@@ -197,7 +197,6 @@ Model-wide design and information flow.
 - [JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · 中文
 - [CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · 中文
 - [MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts](../../conferences/icml-2026/cards/2901-3000.md#lou26h-architecture) · 中文
-- [SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering](../../conferences/icml-2026/cards/3201-3300.md#melechovsky26a-architecture) · 中文
 - [Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration](../../conferences/icml-2026/cards/3201-3300.md#meng26a-architecture) · 中文
 - [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../../conferences/icml-2026/cards/3201-3300.md#mi26b-architecture) · 中文
 - [Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../../conferences/icml-2026/cards/3601-3700.md#peng26k-architecture) · 中文

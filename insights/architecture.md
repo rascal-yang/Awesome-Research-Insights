@@ -197,7 +197,6 @@
 - [联合 RGB-D 和神经声强向量定位三维声源](../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments
 - [移动界面阶段专家](../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning
 - [语音和文本的分组加共享专家路由](../conferences/icml-2026/cards/2901-3000.md#lou26h-architecture) · MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts
-- [文本控制音乐修复与母带](../conferences/icml-2026/cards/3201-3300.md#melechovsky26a-architecture) · SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering
 - [跨模态消息门控](../conferences/icml-2026/cards/3201-3300.md#meng26a-architecture) · Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration
 - [按实际效用维护可组合的界面操作记忆](../conferences/icml-2026/cards/3201-3300.md#mi26b-architecture) · Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution
 - [生成码原位参与后续推理](../conferences/icml-2026/cards/3601-3700.md#peng26k-architecture) · Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification

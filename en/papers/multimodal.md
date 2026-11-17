@@ -36,7 +36,6 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26ea-architecture"></a>[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ea)
 - <a id="liu26fc-architecture"></a>[CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fc)
 - <a id="lou26h-architecture"></a>[MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26h)
-- <a id="melechovsky26a-architecture"></a>[SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering](../../conferences/icml-2026/cards/3201-3300.md#paper-melechovsky26a)
 - <a id="meng26a-architecture"></a>[Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration](../../conferences/icml-2026/cards/3201-3300.md#paper-meng26a)
 - <a id="mi26b-architecture"></a>[Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](../../conferences/icml-2026/cards/3201-3300.md#paper-mi26b)
 - <a id="peng26k-architecture"></a>[Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26k)

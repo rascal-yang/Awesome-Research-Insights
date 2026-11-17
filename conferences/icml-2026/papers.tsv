@@ -3250,16 +3250,16 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3249	mei26a	Head-in-Head in Linear Attention	https://proceedings.mlr.press/v306/mei26a.html		written
 3250	meister26a	What Language is This? Ask Your Tokenizer.	https://proceedings.mlr.press/v306/meister26a.html	具体改变多语训练数据清洗中的语言识别方案：固定共享词表，逐语言用EM估unigram分布及似然，新增语言无需重训既有语言模型。PDF第3–5页给出概率与推断过程，第6页控制训练数据对照fastText，第7页说明低资源标签的假阳性会污染大规模语料并比较FPR，第9页限定忽略长程依赖和按语言线性存储成本。简单统计机制也可独立用于深度模型数据筛选，不因非神经网络或NLP任务排除。	written
 3251	mejia26a	Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation	https://proceedings.mlr.press/v306/mejia26a.html		written
-3252	melechovsky26a	SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering	https://proceedings.mlr.press/v306/melechovsky26a.html		written
+3252	melechovsky26a	SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering	https://proceedings.mlr.press/v306/melechovsky26a.html	PDF第3–5页将19种音乐劣化配文本提示，沿用Stable Audio VAE、FLAN-T5、MM-DiT/DiT及条件流匹配完成恢复；第6–7页主要验证合并处理和文本控制的效果。可带走候选为劣化配对、通用条件恢复和短干净音频提示，但未区分出超出已有条件流匹配/音频编辑的独立通用新设计或训练规律；架构、求解器和提示消融仍针对音乐母带任务。无法指出其改变具身或相关深度学习技术选择的具体新增依据，按专用应用/集成排除，不因音乐领域本身删除。	excluded
 3253	melikidze26a	ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning	https://proceedings.mlr.press/v306/melikidze26a.html		written
 3254	melnychuk26a	Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference	https://proceedings.mlr.press/v306/melnychuk26a.html		written
-3255	melo26a	Learning to Emulate Chaos: Adversarial Optimal Transport Regularization	https://proceedings.mlr.press/v306/melo26a.html		written
+3255	melo26a	Learning to Emulate Chaos: Adversarial Optimal Transport Regularization	https://proceedings.mlr.press/v306/melo26a.html	具体改变混沌动力学模拟器的训练目标：保留单步MSE，再让摘要映射最大化真/模拟轨迹的Wasserstein差异、模拟器最小化该差异，避免只匹配手工统计。PDF第2页说明对抗摘要，第3–5页给WGAN/Sinkhorn实现与约束，第5–8页比较长期统计和噪声；独立机制是共同学习统计量与模拟器，不能把统计吻合等同逐时刻轨迹可预测。	written
 3256	meloux26a	Mechanistic Interpretability as Statistical Estimation: A Variance Analysis	https://proceedings.mlr.press/v306/meloux26a.html		written
 3257	men26a	FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival	https://proceedings.mlr.press/v306/men26a.html		written
 3258	menadjiev26a	DistMatch: Adaptive Binning via Distribution Matching for Robust Sequential Conformal Prediction	https://proceedings.mlr.press/v306/menadjiev26a.html		written
 3259	mendes26a	A Solvable High-Dimensional Model Where Nonlinear Autoencoders Learn Structure Invisible to PCA While Test Loss Misaligns With Generalization	https://proceedings.mlr.press/v306/mendes26a.html		written
 3260	mendes26b	Making Expert Reasoning Learnable with Self-Distillation	https://proceedings.mlr.press/v306/mendes26b.html		written
-3261	mendez26a	Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling	https://proceedings.mlr.press/v306/mendez26a.html		written
+3261	mendez26a	Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling	https://proceedings.mlr.press/v306/mendez26a.html	具体改变冻结视觉/文本编码器的对齐锚点来源：将监督分类头行权重与类别名称文本嵌入配对，训练后置映射，无需为所有锚点重采图像；也可与真实图文对混合。PDF第3–4页定义两种接口，第5–8页对照不同后置对齐与图文样本设置。独立可复用的是分类头权重回收而非仅增大图文对，依赖标签语义与兼容编码器。	written
 3262	menezes26a	GHOST: Unmasking Phantom States in Mamba2 via Grouped Hidden-state Output-aware Selection & Truncation	https://proceedings.mlr.press/v306/menezes26a.html		written
 3263	meng26a	Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration	https://proceedings.mlr.press/v306/meng26a.html		written
 3264	meng26b	Watermarking LLM Agent Trajectories	https://proceedings.mlr.press/v306/meng26b.html		written
@@ -3267,8 +3267,8 @@ number	pmlr_id	title	paper_url	screening_reason	insight_status
 3266	meng26d	DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios	https://proceedings.mlr.press/v306/meng26d.html		written
 3267	meng26e	Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence	https://proceedings.mlr.press/v306/meng26e.html		written
 3268	meng26f	PhenoBrain: Phenotype-Conditioned Long-Range Communication for Multi-Modal Brain Network Analysis	https://proceedings.mlr.press/v306/meng26f.html		written
-3269	meng26g	Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention	https://proceedings.mlr.press/v306/meng26g.html		written
-3270	meng26h	WhisperSplat: Lossless Steganography in 3D Gaussian Splatting	https://proceedings.mlr.press/v306/meng26h.html		written
+3269	meng26g	Norm$\times$Direction: Restoring the Missing Query Norm in Vision Linear Attention	https://proceedings.mlr.press/v306/meng26g.html	具体改变线性注意力核：PDF第3–4页指出归一化消去query范数、非负化丢符号交互，采用范数条件化核与余弦方向映射分别修补；第9页组件和QK-Norm对照支持独立设计选择。可用于决定恢复查询范数还是修改非负特征映射，不能把分类/分割提升直接当所有模型保证。	written
+3270	meng26h	WhisperSplat: Lossless Steganography in 3D Gaussian Splatting	https://proceedings.mlr.press/v306/meng26h.html	具体改变3DGS可控渲染改动的参数位置：冻结原模型，仅在指定视角调用时向球谐特征注入单独优化的key；PDF第4–5页给接口及早期拉离原渲染、后期重建/SSIM的渐变损失，第6–8页对照修改原权重方案的干净视图保真。独立机制是分离原模型与条件残差，属于相关深度表示的可用选择，不将隐写业务本身视为具身贡献；无key保真不等于面对攻击或泄漏的安全保证。	written
 3271	meng26i	Deep Coupling Learning for Solving PDEs	https://proceedings.mlr.press/v306/meng26i.html		written
 3272	meng26j	Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization	https://proceedings.mlr.press/v306/meng26j.html		written
 3273	meng26k	Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting	https://proceedings.mlr.press/v306/meng26k.html		written
