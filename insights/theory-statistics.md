@@ -125,6 +125,7 @@
 - [Q 值截断的鲁棒算子](../conferences/icml-2026/cards/2901-3000.md#liu26fb-theory-statistics) · Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator
 - [可重配置环境双层控制](../conferences/icml-2026/cards/3001-3100.md#lu26m-theory-statistics) · Learn to change the world: Multi-level reinforcement learning with model-changing actions
 - [用深组合目标认证智能体的局部转移模型](../conferences/icml-2026/cards/3001-3100.md#lu26ao-theory-statistics) · World Models in Pieces: Structural Certification for General Agents
+- [纯探索决策方差分配](../conferences/icml-2026/cards/3001-3100.md#luong26a-theory-statistics) · Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments
 
 <a id="by-robotics"></a>
 
@@ -440,6 +441,13 @@
 - [将生成注释作为统计协变量并校正人工残差](../conferences/icml-2026/cards/3001-3100.md#lu26am-theory-statistics) · Generative Augmented Inference
 - [专家只增不减时用置信下界约束过度探索](../conferences/icml-2026/cards/3001-3100.md#lunghi26a-theory-statistics) · Regret Minimization With a Crowd of Awakening Experts
 - [先积累盈利再学习全期预算下的价格分布](../conferences/icml-2026/cards/3001-3100.md#lunghi26b-theory-statistics) · A Stronger Benchmark for Online Bilateral Trade: From Fixed Prices to Distributions
+- [微调前预测的风险分解与停探规则](../conferences/icml-2026/cards/3001-3100.md#luo26w-theory-statistics) · A Risk Decomposition Framework for Pre-hoc Fine-tuning Prediction
+- [低秩泊松强度变化的在线检测](../conferences/icml-2026/cards/3001-3100.md#luo26z-theory-statistics) · Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series
+- [以配置覆盖度确定蒸馏数据规模](../conferences/icml-2026/cards/3001-3100.md#luo26aa-theory-statistics) · Utility Boundary of Dataset Distillation: Scaling and Coverage Laws
+- [多处理因果矩阵补全](../conferences/icml-2026/cards/3001-3100.md#luo26ae-theory-statistics) · Causal Matrix Completion under Multiple Treatments via Mixed Synthetic Nearest Neighbors
+- [少样本迁移方向坍缩](../conferences/icml-2026/cards/3001-3100.md#luthra26a-theory-statistics) · Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning
+- [上下文分类对称机制](../conferences/icml-2026/cards/3001-3100.md#lutz26a-theory-statistics) · Symmetry Reveals Layerwise Dynamics: How Transformers Perform In-Context Classification
+- [基于参照点的策略分类](../conferences/icml-2026/cards/3101-3200.md#lv26f-theory-statistics) · Beyond Rational Illusion: Behaviorally Realistic Strategic Classification
 
 <a id="by-graph-and-recommendation"></a>
 

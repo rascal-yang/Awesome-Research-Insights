@@ -105,6 +105,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Unlocking the Potential of Continual Model Merging: An ODE Perspective](../../conferences/icml-2026/cards/2701-2800.md#lin26o-optimization) · 中文
 - [FairMerging: Rethinking Model Merging through the Lens of Fairness](../../conferences/icml-2026/cards/2801-2900.md#liu26dl-optimization) · 中文
 - [Condition Number Based Low-Bit Quantization for Image Super-Resolution](../../conferences/icml-2026/cards/2901-3000.md#liu26eh-optimization) · 中文
+- [SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization](../../conferences/icml-2026/cards/3101-3200.md#lv26j-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -312,6 +313,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [An Exterior Method for Nonnegative Matrix Factorization](../../conferences/icml-2026/cards/3001-3100.md#lu26x-optimization) · 中文
 - [FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26ap-optimization) · 中文
 - [Model Fusion via Retrofitting](../../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · 中文
+- [DC-LA: Difference-of-Convex Langevin Algorithm](../../conferences/icml-2026/cards/3001-3100.md#luu26b-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

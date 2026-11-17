@@ -229,6 +229,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#liu26dw-evaluation) · 中文
 - [Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26fq-evaluation) · 中文
 - [Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving](../../conferences/icml-2026/cards/2901-3000.md#liu26gl-evaluation) · 中文
+- [TuneAhead: Predicting Fine-tuning Performance Before Full Training Begins](../../conferences/icml-2026/cards/3001-3100.md#luo26r-evaluation) · 中文
+- [CentaurEval: Benchmarking Human-in-the-Loop Value in Agentic Coding](../../conferences/icml-2026/cards/3001-3100.md#luo26t-evaluation) · 中文
+- [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios](../../conferences/icml-2026/cards/3001-3100.md#luo26ai-evaluation) · 中文
+- [CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability](../../conferences/icml-2026/cards/3001-3100.md#luo26aj-evaluation) · 中文
+- [The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](../../conferences/icml-2026/cards/3001-3100.md#lupu26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -275,6 +280,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective](../../conferences/icml-2026/cards/2601-2700.md#lian26a-evaluation) · 中文
 - [Geometric Decoupling: Diagnosing the Structural Instability of Latent](../../conferences/icml-2026/cards/2601-2700.md#liang26d-evaluation) · 中文
 - [SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models](../../conferences/icml-2026/cards/3001-3100.md#lu26f-evaluation) · 中文
+- [MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing](../../conferences/icml-2026/cards/3001-3100.md#luo26ak-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -397,6 +403,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Rethinking Multimodal Time-Series Forecasting Evaluation](../../conferences/icml-2026/cards/2901-3000.md#liu26go-evaluation) · 中文
 - [Textual Supervision Enhances Geospatial Representations in Vision-Language Models](../../conferences/icml-2026/cards/2901-3000.md#locatelli26a-evaluation) · 中文
 - [PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios](../../conferences/icml-2026/cards/3001-3100.md#lu26o-evaluation) · 中文
+- [AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](../../conferences/icml-2026/cards/3001-3100.md#luo26k-evaluation) · 中文
+- [Vision Language Models Cannot Reason About Physical Transformation](../../conferences/icml-2026/cards/3001-3100.md#luo26n-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -492,4 +500,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](../../conferences/icml-2026/cards/2801-2900.md#liu26cy-evaluation) · 中文
 - [From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures](../../conferences/icml-2026/cards/2801-2900.md#liu26df-evaluation) · 中文
 - [ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · 中文
+- [AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · 中文
 <!-- classification:end -->

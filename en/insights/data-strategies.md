@@ -54,6 +54,7 @@ Data selection, annotation, augmentation, and sampling.
 - [MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](../../conferences/icml-2026/cards/2901-3000.md#liu26ez-data-strategies) · 中文
 - [Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](../../conferences/icml-2026/cards/3001-3100.md#lu26a-data-strategies) · 中文
 - [FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](../../conferences/icml-2026/cards/3001-3100.md#lu26ab-data-strategies) · 中文
+- [TarGATE: Target-Aware Data Selection via Token-Attenuation Gates](../../conferences/icml-2026/cards/3001-3100.md#luo26m-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +74,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](../../conferences/icml-2026/cards/2501-2600.md#li26ec-data-strategies) · 中文
 - [On Revisiting Entropy for Identifying Mislabeled Images](../../conferences/icml-2026/cards/2601-2700.md#li26ju-data-strategies) · 中文
 - [Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation](../../conferences/icml-2026/cards/3001-3100.md#lu26k-data-strategies) · 中文
+- [SCalDA: Semantics-Calibrated and Diffusion-Enhanced Data Augmentation](../../conferences/icml-2026/cards/3101-3200.md#lv26c-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

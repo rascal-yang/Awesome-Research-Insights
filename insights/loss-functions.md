@@ -36,6 +36,8 @@
 - [对同一正确推理内的冗余段做掩码偏好](../conferences/icml-2026/cards/2801-2900.md#liu26dp-loss-functions) · ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning
 - [中续训练用分散损失解除小模型嵌入锥化](../conferences/icml-2026/cards/2901-3000.md#liu26dy-loss-functions) · Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models
 - [在反嵌入前锚定有害查询表征](../conferences/icml-2026/cards/3001-3100.md#lu26ac-loss-functions) · Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks
+- [偏好优化的对比互信息](../conferences/icml-2026/cards/3101-3200.md#lv26a-loss-functions) · The Hidden Link between RLHF and Contrastive Learning
+- [把比较器的平局纳入偏好学习](../conferences/icml-2026/cards/3101-3200.md#lv26l-loss-functions) · When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning
 
 <a id="by-computer-vision"></a>
 
@@ -79,6 +81,7 @@
 - [约束 critic 的动作梯度来平滑策略](../conferences/icml-2026/cards/2301-2400.md#lee26aj-loss-functions) · Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods
 - [在视觉强化学习中从部分帧预测回合回报](../conferences/icml-2026/cards/3001-3100.md#lu26al-loss-functions) · Return-Critic: Bridging Goal Discrepancy for Efficient Visual Reinforcement Learning
 - [用对数重要性比的高斯权重复用旧轨迹](../conferences/icml-2026/cards/3001-3100.md#lu26at-loss-functions) · GIPO: Gaussian Importance Sampling Policy Optimization
+- [混合专家谱可塑性](../conferences/icml-2026/cards/3001-3100.md#luo26ah-loss-functions) · SPHERE: Mitigating the Loss of Spectral Plasticity in Mixture-of-Experts for Deep Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -179,4 +182,5 @@
 - [随机抽 Hessian 列监督势能曲率](../conferences/icml-2026/cards/2101-2200.md#koker26a-loss-functions) · PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials
 - [只对预测均值施加 PDE 残差并重抽配点](../conferences/icml-2026/cards/2501-2600.md#li26dg-loss-functions) · Bias-Spectrum Neural Processes for Parametric PDEs: Architecture Priors Meet PDE Constraints
 - [迭代神经算子逐步加权高频残差](../conferences/icml-2026/cards/2801-2900.md#liu26dm-loss-functions) · Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation
+- [PINN 边界与残差对齐](../conferences/icml-2026/cards/3001-3100.md#luo26am-loss-functions) · Mitigating Gradient Pathology in PINNs through Aligned Constraint
 <!-- classification:end -->

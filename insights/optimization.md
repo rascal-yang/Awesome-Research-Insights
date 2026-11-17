@@ -105,6 +105,7 @@
 - [沿损失障碍修正的参数路径选择合并点](../conferences/icml-2026/cards/2701-2800.md#lin26o-optimization) · Unlocking the Potential of Continual Model Merging: An ODE Perspective
 - [在任务向量合并前降低目标子群敏感性](../conferences/icml-2026/cards/2801-2900.md#liu26dl-optimization) · FairMerging: Rethinking Model Merging through the Lens of Fairness
 - [用权重条件数降低低比特激活误差](../conferences/icml-2026/cards/2901-3000.md#liu26eh-optimization) · Condition Number Based Low-Bit Quantization for Image Super-Resolution
+- [沿预测敏感方向补偿量化误差](../conferences/icml-2026/cards/3101-3200.md#lv26j-optimization) · SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization
 
 <a id="by-nlp"></a>
 
@@ -312,6 +313,7 @@
 - [非负分解外部寻优](../conferences/icml-2026/cards/3001-3100.md#lu26x-optimization) · An Exterior Method for Nonnegative Matrix Factorization
 - [用历史曲率偏置修正联邦平坦度失配](../conferences/icml-2026/cards/3001-3100.md#lu26ap-optimization) · FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning
 - [先聚组父模型神经元再拟合融合模型的内部表示](../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · Model Fusion via Retrofitting
+- [凸差正则后验采样](../conferences/icml-2026/cards/3001-3100.md#luu26b-optimization) · DC-LA: Difference-of-Convex Langevin Algorithm
 
 <a id="by-graph-and-recommendation"></a>
 

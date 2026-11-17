@@ -124,6 +124,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [De-attribute to Forget for LLM Unlearning](../../conferences/icml-2026/cards/3001-3100.md#lu26z-reinforcement-learning) · 中文
 - [Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/3001-3100.md#lu26aj-reinforcement-learning) · 中文
 - [Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luo26c-reinforcement-learning) · 中文
+- [IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luo26p-reinforcement-learning) · 中文
+- [Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](../../conferences/icml-2026/cards/3001-3100.md#luo26x-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -138,6 +140,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Embedding-perturbed Exploration Preference Optimization for Flow Models](../../conferences/icml-2026/cards/1601-1700.md#hu26j-reinforcement-learning) · 中文
 - [Optimizing Visual Generative Models via Distribution-wise Rewards](../../conferences/icml-2026/cards/2601-2700.md#li26hw-reinforcement-learning) · 中文
 - [Distillation Models are Good Samplers for Diffusion Reinforcement Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ev-reinforcement-learning) · 中文
+- [TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward](../../conferences/icml-2026/cards/3001-3100.md#luo26j-reinforcement-learning) · 中文
+- [Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#luo26u-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -246,6 +250,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels](../../conferences/icml-2026/cards/2901-3000.md#low26a-reinforcement-learning) · 中文
 - [COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space](../../conferences/icml-2026/cards/3001-3100.md#luan26a-reinforcement-learning) · 中文
 - [Boosting CVaR Policy Optimization with Quantile Gradients](../../conferences/icml-2026/cards/3001-3100.md#luo26b-reinforcement-learning) · 中文
+- [Ratio-Variance Regularized Policy Optimization](../../conferences/icml-2026/cards/3001-3100.md#luo26h-reinforcement-learning) · 中文
+- [FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching](../../conferences/icml-2026/cards/3101-3200.md#lv26d-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -264,6 +270,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization](../../conferences/icml-2026/cards/2701-2800.md#lin26af-reinforcement-learning) · 中文
 - [TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance](../../conferences/icml-2026/cards/2901-3000.md#liu26et-reinforcement-learning) · 中文
 - [Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies](../../conferences/icml-2026/cards/2901-3000.md#longhini26a-reinforcement-learning) · 中文
+- [DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](../../conferences/icml-2026/cards/3001-3100.md#luo26v-reinforcement-learning) · 中文
+- [Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luu26a-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 

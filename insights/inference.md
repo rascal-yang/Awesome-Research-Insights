@@ -215,6 +215,11 @@
 - [共享 GPU 的一对多权重预热](../conferences/icml-2026/cards/2901-3000.md#lou26f-inference) · WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving
 - [推理链内模式切换](../conferences/icml-2026/cards/3001-3100.md#lu26e-inference) · MixReasoning: Switching Modes to Think
 - [助手人格轴稳定化](../conferences/icml-2026/cards/3001-3100.md#lu26g-inference) · The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models
+- [用因果信念图和状态机约束溯因诊断](../conferences/icml-2026/cards/3001-3100.md#luo26f-inference) · Graph of States: Solving Abductive Tasks with Large Language Models
+- [预测下一步查询并异步筛选 token 级 KV](../conferences/icml-2026/cards/3001-3100.md#luo26g-inference) · AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding
+- [按解掩码置信度滑动扩缩扩散模型解码块](../conferences/icml-2026/cards/3001-3100.md#luo26o-inference) · DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs
+- [按答案部件投票并用任务历史校准提前停止](../conferences/icml-2026/cards/3001-3100.md#luo26q-inference) · Task-and-Model-Aware Fractal-Consistency for Efficient LLM Reasoning
+- [掩码解码空洞调度](../conferences/icml-2026/cards/3101-3200.md#luxembourg26a-inference) · Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -295,6 +300,9 @@
 - [在边云切分时查找由特征到决策的表示转折](../conferences/icml-2026/cards/2901-3000.md#liu26gq-inference) · Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference
 - [语义编辑的尺度窗积分](../conferences/icml-2026/cards/3001-3100.md#lu26j-inference) · Semantic Granularity Navigation in Image Editing
 - [离线量每层可剪稀疏率并在线共同聚类 Q/K](../conferences/icml-2026/cards/3001-3100.md#luo26a-inference) · Attention Sparsity is Input-Stable: Training-Free Sparse Attention for Video Generation via Offline Sparsity Profiling and Online QK Co-Clustering
+- [扫描兼容的视觉 token 压缩](../conferences/icml-2026/cards/3101-3200.md#lv26e-inference) · Spatial-Aware Reduction Framework: Towards Efficient and Faithful Visual State Space Models
+- [按生成块分配视频注意力](../conferences/icml-2026/cards/3101-3200.md#lv26i-inference) · Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention
+- [用累计漂移触发缓存刷新](../conferences/icml-2026/cards/3101-3200.md#lv26m-inference) · NaviCache: Test-Time Self-Calibration Caching for Video Generation
 
 <a id="by-nlp"></a>
 
@@ -356,6 +364,7 @@
 - [按场景图检索经验并验证下一步](../conferences/icml-2026/cards/2601-2700.md#li26id-inference) · Embodied Task Planning via Graph-Informed Action Generation with Large Language Models
 - [优先解高置信动作并重开不稳位置](../conferences/icml-2026/cards/2601-2700.md#liang26l-inference) · Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies
 - [把实时重规划做成带时限的预算控制](../conferences/icml-2026/cards/2901-3000.md#liu26fo-inference) · When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents
+- [逐阶段语义生成与物理位姿校正](../conferences/icml-2026/cards/3001-3100.md#luo26ab-inference) · STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics–Physics Dual System
 
 <a id="by-multimodal"></a>
 
@@ -427,6 +436,7 @@
 - [高分辨率问答的语义去噪与布局保留](../conferences/icml-2026/cards/2801-2900.md#liu26bc-inference) · HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling
 - [按邻域均匀保留视觉 token 并沿用原位置](../conferences/icml-2026/cards/2901-3000.md#liu26gt-inference) · Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation
 - [分别调节视觉注意力选择与内容的频谱](../conferences/icml-2026/cards/3001-3100.md#lu26ae-inference) · Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery
+- [同时去除跨域检索内容和分类先验的样式偏差](../conferences/icml-2026/cards/3001-3100.md#luo26i-inference) · D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -461,6 +471,8 @@
 - [让轻量变体与显存布局共同参与实时调度](../conferences/icml-2026/cards/2501-2600.md#li26fq-inference) · RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs
 - [用 Stein 散度校正大步长扩散轨迹](../conferences/icml-2026/cards/2601-2700.md#li26ix-inference) · Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization
 - [以投影检验和反馈缓冲减少图索引的距离调用](../conferences/icml-2026/cards/3001-3100.md#lu26y-inference) · Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach
+- [用策略响应对齐上下文](../conferences/icml-2026/cards/3101-3200.md#lv26g-inference) · When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach
+- [编译期间合并激活近似](../conferences/icml-2026/cards/3101-3200.md#lydike26a-inference) · Faster Activation Functions at the Edge for Post-Training Speedups
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -475,6 +487,7 @@
 - [用目标图的有标注和无标注节点适配提示](../conferences/icml-2026/cards/1901-2000.md#jiang26al-inference) · GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning
 - [逐步预算下的动态交互求解](../conferences/icml-2026/cards/2501-2600.md#li26gz-inference) · LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers
 - [图扩散信息几何步进](../conferences/icml-2026/cards/3001-3100.md#lu26s-inference) · Information-Geometric Adaptive Sampling for Graph Diffusion
+- [离散图流的端点概率修正](../conferences/icml-2026/cards/3001-3100.md#luo26s-inference) · SimGFM: Simplifying Discrete Flow Matching for Graph Generation
 
 <a id="by-scientific-ml"></a>
 

@@ -274,6 +274,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26bc-inference"></a>[HiDe: Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26bc)
 - <a id="liu26gt-inference"></a>[Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gt)
 - <a id="lu26ae-inference"></a>[Beyond Attention Imbalance: Mitigating Hallucinations via Spectral Surgery](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ae)
+- <a id="luo26i-inference"></a>[D$^2$O: A Dual Debiasing Operator for Training-Free Test-Time Adaptation of Vision–Language Models](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26i)
 
 <a id="by-representation-learning"></a>
 
@@ -381,6 +382,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26go-evaluation"></a>[Rethinking Multimodal Time-Series Forecasting Evaluation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26go)
 - <a id="locatelli26a-evaluation"></a>[Textual Supervision Enhances Geospatial Representations in Vision-Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-locatelli26a)
 - <a id="lu26o-evaluation"></a>[PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26o)
+- <a id="luo26k-evaluation"></a>[AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26k)
+- <a id="luo26n-evaluation"></a>[Vision Language Models Cannot Reason About Physical Transformation](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26n)
 
 <a id="by-theory-statistics"></a>
 

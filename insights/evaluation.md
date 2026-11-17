@@ -229,6 +229,11 @@
 - [用协议状态假设驱动多代理发现一致性缺陷](../conferences/icml-2026/cards/2901-3000.md#liu26dw-evaluation) · Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents
 - [用证据清单评测无预设查询的数据探索](../conferences/icml-2026/cards/2901-3000.md#liu26fq-evaluation) · Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models
 - [将未知答案设为 Lean 元变量并附证明义务](../conferences/icml-2026/cards/2901-3000.md#liu26gl-evaluation) · Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving
+- [用廉价探测筛选语言模型微调](../conferences/icml-2026/cards/3001-3100.md#luo26r-evaluation) · TuneAhead: Predicting Fine-tuning Performance Before Full Training Begins
+- [用最小干预区分编码代理的流程与推理失败](../conferences/icml-2026/cards/3001-3100.md#luo26t-evaluation) · CentaurEval: Benchmarking Human-in-the-Loop Value in Agentic Coding
+- [超长程隐藏规则探索](../conferences/icml-2026/cards/3001-3100.md#luo26ai-evaluation) · UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios
+- [可执行漏洞修复任务构建](../conferences/icml-2026/cards/3001-3100.md#luo26aj-evaluation) · CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability
+- [协作拦截与心智理论](../conferences/icml-2026/cards/3001-3100.md#lupu26a-evaluation) · The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind
 
 <a id="by-computer-vision"></a>
 
@@ -275,6 +280,7 @@
 - [用频率对照检验扩散模型的成员泄漏](../conferences/icml-2026/cards/2601-2700.md#lian26a-evaluation) · Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective
 - [诊断潜空间曲率与可见细节失配](../conferences/icml-2026/cards/2601-2700.md#liang26d-evaluation) · Geometric Decoupling: Diagnosing the Structural Instability of Latent
 - [扩散数据贡献者归因](../conferences/icml-2026/cards/3001-3100.md#lu26f-evaluation) · SurrogateSHAP: Training-Free Contributor Attribution for Text-to-Image (T2I) Models
+- [多参考视觉创作编辑评测](../conferences/icml-2026/cards/3001-3100.md#luo26ak-evaluation) · MICE-Bench: A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing
 
 <a id="by-nlp"></a>
 
@@ -397,6 +403,8 @@
 - [用事发时间与知识截止点检查时序预测泄露](../conferences/icml-2026/cards/2901-3000.md#liu26go-evaluation) · Rethinking Multimodal Time-Series Forecasting Evaluation
 - [按图像可定位程度比较语言监督与纯视觉地理表征](../conferences/icml-2026/cards/2901-3000.md#locatelli26a-evaluation) · Textual Supervision Enhances Geospatial Representations in Vision-Language Models
 - [移动音视流回答时机](../conferences/icml-2026/cards/3001-3100.md#lu26o-evaluation) · PhoStream: Benchmarking Real-World Streaming for Omnimodal Assistants in Mobile Scenarios
+- [把提示设计者与文生图底座分开做可控评测](../conferences/icml-2026/cards/3001-3100.md#luo26k-evaluation) · AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters
+- [用成对守恒与非守恒条件剥离物理判断的文本先验](../conferences/icml-2026/cards/3001-3100.md#luo26n-evaluation) · Vision Language Models Cannot Reason About Physical Transformation
 
 <a id="by-ml-foundations"></a>
 
@@ -492,4 +500,5 @@
 - [生物安全能力的自动评分与实证校验](../conferences/icml-2026/cards/2801-2900.md#liu26cy-evaluation) · ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity
 - [用键长扫描的势能面平滑度指导原子势架构](../conferences/icml-2026/cards/2801-2900.md#liu26df-evaluation) · From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures
 - [同时测蛋白结合体设计的验证口径、产量和结构多样性](../conferences/icml-2026/cards/2801-2900.md#liu26di-evaluation) · ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation
+- [晶体结构操作评测](../conferences/icml-2026/cards/3101-3200.md#lv26b-evaluation) · AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures
 <!-- classification:end -->

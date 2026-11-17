@@ -89,6 +89,8 @@
 - <a id="lou26d-architecture"></a>[Cello: A Universal Cell-wise Feature Aggregation framework for Reliable Pathology Images Analysis](../conferences/icml-2026/cards/2901-3000.md#paper-lou26d)
 - <a id="lu26d-architecture"></a>[Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion](../conferences/icml-2026/cards/3001-3100.md#paper-lu26d)
 - <a id="lu26u-architecture"></a>[Interpretable Functional Koopman Learning with Non-Markovian Closure for Spatiotemporal Systems](../conferences/icml-2026/cards/3001-3100.md#paper-lu26u)
+- <a id="luo26l-architecture"></a>[Physically-Guided Data-Space Rectified Flow for Precipitation Nowcasting](../conferences/icml-2026/cards/3001-3100.md#paper-luo26l)
+- <a id="luo26ac-architecture"></a>[ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](../conferences/icml-2026/cards/3001-3100.md#paper-luo26ac)
 
 <a id="by-modules"></a>
 
@@ -125,6 +127,7 @@
 - <a id="koker26a-loss-functions"></a>[PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials](../conferences/icml-2026/cards/2101-2200.md#paper-koker26a)
 - <a id="li26dg-loss-functions"></a>[Bias-Spectrum Neural Processes for Parametric PDEs: Architecture Priors Meet PDE Constraints](../conferences/icml-2026/cards/2501-2600.md#paper-li26dg)
 - <a id="liu26dm-loss-functions"></a>[Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26dm)
+- <a id="luo26am-loss-functions"></a>[Mitigating Gradient Pathology in PINNs through Aligned Constraint](../conferences/icml-2026/cards/3001-3100.md#paper-luo26am)
 
 <a id="by-optimization"></a>
 
@@ -297,6 +300,7 @@
 - <a id="liu26fg-representation-learning"></a>[M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fg)
 - <a id="liu26gc-representation-learning"></a>[Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gc)
 - <a id="lu26ak-representation-learning"></a>[SI-IGCL: Subject Invariance-aware Inverse Graph Contrastive Learning for Psychiatric Disorder Identification](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ak)
+- <a id="lv26h-representation-learning"></a>[Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection](../conferences/icml-2026/cards/3101-3200.md#paper-lv26h)
 
 <a id="by-evaluation"></a>
 
@@ -332,6 +336,7 @@
 - <a id="liu26cy-evaluation"></a>[ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](../conferences/icml-2026/cards/2801-2900.md#paper-liu26cy)
 - <a id="liu26df-evaluation"></a>[From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide ML Interatomic Potential Architectures](../conferences/icml-2026/cards/2801-2900.md#paper-liu26df)
 - <a id="liu26di-evaluation"></a>[ProtDBench: A Unified Benchmark of Protein Binder Design and Evaluation](../conferences/icml-2026/cards/2801-2900.md#paper-liu26di)
+- <a id="lv26b-evaluation"></a>[AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures](../conferences/icml-2026/cards/3101-3200.md#paper-lv26b)
 
 <a id="by-theory-statistics"></a>
 

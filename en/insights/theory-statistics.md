@@ -125,6 +125,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](../../conferences/icml-2026/cards/2901-3000.md#liu26fb-theory-statistics) · 中文
 - [Learn to change the world: Multi-level reinforcement learning with model-changing actions](../../conferences/icml-2026/cards/3001-3100.md#lu26m-theory-statistics) · 中文
 - [World Models in Pieces: Structural Certification for General Agents](../../conferences/icml-2026/cards/3001-3100.md#lu26ao-theory-statistics) · 中文
+- [Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments](../../conferences/icml-2026/cards/3001-3100.md#luong26a-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -440,6 +441,13 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Generative Augmented Inference](../../conferences/icml-2026/cards/3001-3100.md#lu26am-theory-statistics) · 中文
 - [Regret Minimization With a Crowd of Awakening Experts](../../conferences/icml-2026/cards/3001-3100.md#lunghi26a-theory-statistics) · 中文
 - [A Stronger Benchmark for Online Bilateral Trade: From Fixed Prices to Distributions](../../conferences/icml-2026/cards/3001-3100.md#lunghi26b-theory-statistics) · 中文
+- [A Risk Decomposition Framework for Pre-hoc Fine-tuning Prediction](../../conferences/icml-2026/cards/3001-3100.md#luo26w-theory-statistics) · 中文
+- [Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series](../../conferences/icml-2026/cards/3001-3100.md#luo26z-theory-statistics) · 中文
+- [Utility Boundary of Dataset Distillation: Scaling and Coverage Laws](../../conferences/icml-2026/cards/3001-3100.md#luo26aa-theory-statistics) · 中文
+- [Causal Matrix Completion under Multiple Treatments via Mixed Synthetic Nearest Neighbors](../../conferences/icml-2026/cards/3001-3100.md#luo26ae-theory-statistics) · 中文
+- [Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning](../../conferences/icml-2026/cards/3001-3100.md#luthra26a-theory-statistics) · 中文
+- [Symmetry Reveals Layerwise Dynamics: How Transformers Perform In-Context Classification](../../conferences/icml-2026/cards/3001-3100.md#lutz26a-theory-statistics) · 中文
+- [Beyond Rational Illusion: Behaviorally Realistic Strategic Classification](../../conferences/icml-2026/cards/3101-3200.md#lv26f-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

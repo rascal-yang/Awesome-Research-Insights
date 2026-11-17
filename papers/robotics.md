@@ -79,6 +79,8 @@
 - <a id="lin26af-reinforcement-learning"></a>[DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization](../conferences/icml-2026/cards/2701-2800.md#paper-lin26af)
 - <a id="liu26et-reinforcement-learning"></a>[TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance](../conferences/icml-2026/cards/2901-3000.md#paper-liu26et)
 - <a id="longhini26a-reinforcement-learning"></a>[Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies](../conferences/icml-2026/cards/2901-3000.md#paper-longhini26a)
+- <a id="luo26v-reinforcement-learning"></a>[DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning](../conferences/icml-2026/cards/3001-3100.md#paper-luo26v)
+- <a id="luu26a-reinforcement-learning"></a>[Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](../conferences/icml-2026/cards/3001-3100.md#paper-luu26a)
 
 <a id="by-training-strategies"></a>
 
@@ -142,6 +144,7 @@
 - <a id="li26id-inference"></a>[Embodied Task Planning via Graph-Informed Action Generation with Large Language Models](../conferences/icml-2026/cards/2601-2700.md#paper-li26id)
 - <a id="liang26l-inference"></a>[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](../conferences/icml-2026/cards/2601-2700.md#paper-liang26l)
 - <a id="liu26fo-inference"></a>[When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fo)
+- <a id="luo26ab-inference"></a>[STABLE: Simulation-Ready Tabletop Layout Generation via a Semantics–Physics Dual System](../conferences/icml-2026/cards/3001-3100.md#paper-luo26ab)
 
 <a id="by-representation-learning"></a>
 
@@ -155,6 +158,7 @@
 - <a id="li26jf-representation-learning"></a>[From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation](../conferences/icml-2026/cards/2601-2700.md#paper-li26jf)
 - <a id="lin26s-representation-learning"></a>[From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26s)
 - <a id="lou26a-representation-learning"></a>[Predicting What Matters: Robust Generalist Robot Policy Learning via Future Semantic Mask](../conferences/icml-2026/cards/2901-3000.md#paper-lou26a)
+- <a id="lyu26a-representation-learning"></a>[General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling](../conferences/icml-2026/cards/3101-3200.md#paper-lyu26a)
 
 <a id="by-evaluation"></a>
 

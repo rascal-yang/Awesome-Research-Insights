@@ -101,6 +101,8 @@
 - [用边分解三角候选和固定步偏移替代测试时优化](../conferences/icml-2026/cards/2901-3000.md#liu26gs-architecture) · FastSESR: Fast Scene-level Explicit Surface Reconstruction
 - [从原视频到去物视频直接学习随机桥](../conferences/icml-2026/cards/2901-3000.md#lou26b-architecture) · Learning Stochastic Bridges for Video Object Removal via Video-to-Video Translation
 - [用两级路由将长序列任务接入不同专家](../conferences/icml-2026/cards/2901-3000.md#lou26c-architecture) · Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts
+- [稀疏动作的逐尺度自回归](../conferences/icml-2026/cards/3001-3100.md#luo26af-architecture) · MotionMAR: Multi-scale Auto-Regressive Human Motion Reconstruction from Sparse Observations
+- [单目四维几何运动查询](../conferences/icml-2026/cards/3001-3100.md#luo26al-architecture) · 4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere
 
 <a id="by-nlp"></a>
 
@@ -321,4 +323,6 @@
 - [细胞分子监督与病理多尺度证据](../conferences/icml-2026/cards/2901-3000.md#lou26d-architecture) · Cello: A Universal Cell-wise Feature Aggregation framework for Reliable Pathology Images Analysis
 - [用目标掩码切换脑图文编解码任务](../conferences/icml-2026/cards/3001-3100.md#lu26d-architecture) · Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion
 - [函数 Koopman 记忆闭合](../conferences/icml-2026/cards/3001-3100.md#lu26u-architecture) · Interpretable Functional Koopman Learning with Non-Markovian Closure for Spatiotemporal Systems
+- [在数据空间预测干净雷达图并用弱平流稳住降水输运](../conferences/icml-2026/cards/3001-3100.md#luo26l-architecture) · Physically-Guided Data-Space Rectified Flow for Precipitation Nowcasting
+- [可追溯病灶概念的多视角分级](../conferences/icml-2026/cards/3001-3100.md#luo26ac-architecture) · ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis
 <!-- classification:end -->

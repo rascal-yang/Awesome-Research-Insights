@@ -101,6 +101,8 @@ Model-wide design and information flow.
 - [FastSESR: Fast Scene-level Explicit Surface Reconstruction](../../conferences/icml-2026/cards/2901-3000.md#liu26gs-architecture) · 中文
 - [Learning Stochastic Bridges for Video Object Removal via Video-to-Video Translation](../../conferences/icml-2026/cards/2901-3000.md#lou26b-architecture) · 中文
 - [Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts](../../conferences/icml-2026/cards/2901-3000.md#lou26c-architecture) · 中文
+- [MotionMAR: Multi-scale Auto-Regressive Human Motion Reconstruction from Sparse Observations](../../conferences/icml-2026/cards/3001-3100.md#luo26af-architecture) · 中文
+- [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](../../conferences/icml-2026/cards/3001-3100.md#luo26al-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -321,4 +323,6 @@ Model-wide design and information flow.
 - [Cello: A Universal Cell-wise Feature Aggregation framework for Reliable Pathology Images Analysis](../../conferences/icml-2026/cards/2901-3000.md#lou26d-architecture) · 中文
 - [Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion](../../conferences/icml-2026/cards/3001-3100.md#lu26d-architecture) · 中文
 - [Interpretable Functional Koopman Learning with Non-Markovian Closure for Spatiotemporal Systems](../../conferences/icml-2026/cards/3001-3100.md#lu26u-architecture) · 中文
+- [Physically-Guided Data-Space Rectified Flow for Precipitation Nowcasting](../../conferences/icml-2026/cards/3001-3100.md#luo26l-architecture) · 中文
+- [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](../../conferences/icml-2026/cards/3001-3100.md#luo26ac-architecture) · 中文
 <!-- classification:end -->

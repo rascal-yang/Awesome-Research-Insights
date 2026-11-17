@@ -54,6 +54,7 @@
 - [Lean 缺失经验引理挖掘](../conferences/icml-2026/cards/2901-3000.md#liu26ez-data-strategies) · MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics
 - [从开放文本构造可核验强化学习题](../conferences/icml-2026/cards/3001-3100.md#lu26a-data-strategies) · Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text
 - [从可运行全栈仓库反推训练任务与测试](../conferences/icml-2026/cards/3001-3100.md#lu26ab-data-strategies) · FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation
+- [用目标条件的 token 保留率给微调样本排序](../conferences/icml-2026/cards/3001-3100.md#luo26m-data-strategies) · TarGATE: Target-Aware Data Selection via Token-Attenuation Gates
 
 <a id="by-computer-vision"></a>
 
@@ -73,6 +74,7 @@
 - [按最差分类间隔蒸馏数据](../conferences/icml-2026/cards/2501-2600.md#li26ec-data-strategies) · Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?
 - [用带符号熵轨迹识别错误图像标签](../conferences/icml-2026/cards/2601-2700.md#li26ju-data-strategies) · On Revisiting Entropy for Identifying Mislabeled Images
 - [单目数据立体反遮挡](../conferences/icml-2026/cards/3001-3100.md#lu26k-data-strategies) · Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation
+- [语义校准局部扩散增强](../conferences/icml-2026/cards/3101-3200.md#lv26c-data-strategies) · SCalDA: Semantics-Calibrated and Diffusion-Enhanced Data Augmentation
 
 <a id="by-nlp"></a>
 

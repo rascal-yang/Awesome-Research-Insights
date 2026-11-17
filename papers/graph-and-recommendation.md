@@ -126,6 +126,7 @@
 - <a id="jiang26al-inference"></a>[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26al)
 - <a id="li26gz-inference"></a>[LoRe: Adaptive Interaction-Evaluation Routing with Per-step Interaction Budgets for Iterative Graph Solvers](../conferences/icml-2026/cards/2501-2600.md#paper-li26gz)
 - <a id="lu26s-inference"></a>[Information-Geometric Adaptive Sampling for Graph Diffusion](../conferences/icml-2026/cards/3001-3100.md#paper-lu26s)
+- <a id="luo26s-inference"></a>[SimGFM: Simplifying Discrete Flow Matching for Graph Generation](../conferences/icml-2026/cards/3001-3100.md#paper-luo26s)
 
 <a id="by-representation-learning"></a>
 

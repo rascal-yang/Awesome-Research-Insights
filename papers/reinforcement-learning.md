@@ -30,6 +30,7 @@
 - <a id="lee26aj-loss-functions"></a>[Stabilizing the Q-Gradient Field for Policy Smoothness in Actor-Critic Methods](../conferences/icml-2026/cards/2301-2400.md#paper-lee26aj)
 - <a id="lu26al-loss-functions"></a>[Return-Critic: Bridging Goal Discrepancy for Efficient Visual Reinforcement Learning](../conferences/icml-2026/cards/3001-3100.md#paper-lu26al)
 - <a id="lu26at-loss-functions"></a>[GIPO: Gaussian Importance Sampling Policy Optimization](../conferences/icml-2026/cards/3001-3100.md#paper-lu26at)
+- <a id="luo26ah-loss-functions"></a>[SPHERE: Mitigating the Loss of Spectral Plasticity in Mixture-of-Experts for Deep Reinforcement Learning](../conferences/icml-2026/cards/3001-3100.md#paper-luo26ah)
 
 <a id="by-optimization"></a>
 
@@ -138,6 +139,8 @@
 - <a id="low26a-reinforcement-learning"></a>[TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels](../conferences/icml-2026/cards/2901-3000.md#paper-low26a)
 - <a id="luan26a-reinforcement-learning"></a>[COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space](../conferences/icml-2026/cards/3001-3100.md#paper-luan26a)
 - <a id="luo26b-reinforcement-learning"></a>[Boosting CVaR Policy Optimization with Quantile Gradients](../conferences/icml-2026/cards/3001-3100.md#paper-luo26b)
+- <a id="luo26h-reinforcement-learning"></a>[Ratio-Variance Regularized Policy Optimization](../conferences/icml-2026/cards/3001-3100.md#paper-luo26h)
+- <a id="lv26d-reinforcement-learning"></a>[FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching](../conferences/icml-2026/cards/3101-3200.md#paper-lv26d)
 
 <a id="by-training-strategies"></a>
 
@@ -246,4 +249,5 @@
 - <a id="liu26fb-theory-statistics"></a>[Clipped Q-Learning: Your Value Clipping Is Secretly A Robust Operator](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fb)
 - <a id="lu26m-theory-statistics"></a>[Learn to change the world: Multi-level reinforcement learning with model-changing actions](../conferences/icml-2026/cards/3001-3100.md#paper-lu26m)
 - <a id="lu26ao-theory-statistics"></a>[World Models in Pieces: Structural Certification for General Agents](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ao)
+- <a id="luong26a-theory-statistics"></a>[Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments](../conferences/icml-2026/cards/3001-3100.md#paper-luong26a)
 <!-- classification:end -->

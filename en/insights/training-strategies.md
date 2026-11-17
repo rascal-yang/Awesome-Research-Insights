@@ -147,6 +147,8 @@ Training schedules, curricula, and task or stage composition.
 - [CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors](../../conferences/icml-2026/cards/2801-2900.md#liu26bj-training-strategies) · 中文
 - [Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection](../../conferences/icml-2026/cards/2901-3000.md#liu26fj-training-strategies) · 中文
 - [Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs](../../conferences/icml-2026/cards/3001-3100.md#lu26ai-training-strategies) · 中文
+- [ACO-MoE-LoRA: Evolving-while-Training for Adapting Segment Anything Model 2 to Specialized Domains](../../conferences/icml-2026/cards/3001-3100.md#luo26y-training-strategies) · 中文
+- [SABER: Continual Learning with Representation Conflict Management](../../conferences/icml-2026/cards/3001-3100.md#luo26ag-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

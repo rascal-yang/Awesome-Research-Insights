@@ -124,6 +124,8 @@
 - [以待遗忘来源的归因分数作为更新反馈](../conferences/icml-2026/cards/3001-3100.md#lu26z-reinforcement-learning) · De-attribute to Forget for LLM Unlearning
 - [用训练动态估计 rollout 复用价值](../conferences/icml-2026/cards/3001-3100.md#lu26aj-reinforcement-learning) · Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards
 - [把知识超图检索训练成多轮代理策略](../conferences/icml-2026/cards/3001-3100.md#luo26c-reinforcement-learning) · Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning
+- [训练长程研究代理在执行前主动澄清用户意图](../conferences/icml-2026/cards/3001-3100.md#luo26p-reinforcement-learning) · IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning
+- [推理隐状态与输出的安全一致性](../conferences/icml-2026/cards/3001-3100.md#luo26x-reinforcement-learning) · Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations
 
 <a id="by-computer-vision"></a>
 
@@ -138,6 +140,8 @@
 - [扰动文本嵌入维持组内探索](../conferences/icml-2026/cards/1601-1700.md#hu26j-reinforcement-learning) · Embedding-perturbed Exploration Preference Optimization for Flow Models
 - [用参考集合的分布变化奖励生成](../conferences/icml-2026/cards/2601-2700.md#li26hw-reinforcement-learning) · Optimizing Visual Generative Models via Distribution-wise Rewards
 - [扩散强化学习快速采样](../conferences/icml-2026/cards/2901-3000.md#liu26ev-reinforcement-learning) · Distillation Models are Good Samplers for Diffusion Reinforcement Learning
+- [学习可微替代奖励把非可微反馈分配到少步生成轨迹](../conferences/icml-2026/cards/3001-3100.md#luo26j-reinforcement-learning) · TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward
+- [按去噪动态分块优化图像生成策略](../conferences/icml-2026/cards/3001-3100.md#luo26u-reinforcement-learning) · Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization
 
 <a id="by-nlp"></a>
 
@@ -246,6 +250,8 @@
 - [以轨迹接受标签学习逐步安全代价](../conferences/icml-2026/cards/2901-3000.md#low26a-reinforcement-learning) · TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels
 - [在连贯技能空间用近邻传播稀疏人类反馈](../conferences/icml-2026/cards/3001-3100.md#luan26a-reinforcement-learning) · COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space
 - [用分位数梯度回收 CVaR 尾部之外的采样信息](../conferences/icml-2026/cards/3001-3100.md#luo26b-reinforcement-learning) · Boosting CVaR Policy Optimization with Quantile Gradients
+- [用策略比率方差保留高价值但偏离较大的更新](../conferences/icml-2026/cards/3001-3100.md#luo26h-reinforcement-learning) · Ratio-Variance Regularized Policy Optimization
+- [控制隐式策略的生成路径](../conferences/icml-2026/cards/3101-3200.md#lv26d-reinforcement-learning) · FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching
 
 <a id="by-robotics"></a>
 
@@ -264,6 +270,8 @@
 - [多任务机器人策略的残差专家路由](../conferences/icml-2026/cards/2701-2800.md#lin26af-reinforcement-learning) · DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization
 - [被动视频稠密奖励](../conferences/icml-2026/cards/2901-3000.md#liu26et-reinforcement-learning) · TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance
 - [用无监督行为模式互信息保留生成策略多样性](../conferences/icml-2026/cards/2901-3000.md#longhini26a-reinforcement-learning) · Behavioral Mode Discovery for Fine-tuning Multimodal Generative Policies
+- [用扩散候选和价值分歧引导探索](../conferences/icml-2026/cards/3001-3100.md#luo26v-reinforcement-learning) · DF-ExpEnse: Diffusion Filtered Exploration for Sample Efficient Finetuning
+- [视频最优传输偏好传播](../conferences/icml-2026/cards/3001-3100.md#luu26a-reinforcement-learning) · Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning
 
 <a id="by-multimodal"></a>
 

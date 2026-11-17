@@ -114,6 +114,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26dp-loss-functions"></a>[ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dp)
 - <a id="liu26dy-loss-functions"></a>[Dispersion Loss Counteracts Embedding Condensation and Improves Generalization in Small Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dy)
 - <a id="lu26ac-loss-functions"></a>[Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ac)
+- <a id="lv26a-loss-functions"></a>[The Hidden Link between RLHF and Contrastive Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26a)
+- <a id="lv26l-loss-functions"></a>[When Labelers Stay Silent: The Power of Ties in Cost-Effective Preference Learning](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26l)
 
 <a id="by-optimization"></a>
 
@@ -300,6 +302,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lu26z-reinforcement-learning"></a>[De-attribute to Forget for LLM Unlearning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26z)
 - <a id="lu26aj-reinforcement-learning"></a>[Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26aj)
 - <a id="luo26c-reinforcement-learning"></a>[Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26c)
+- <a id="luo26p-reinforcement-learning"></a>[IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26p)
+- <a id="luo26x-reinforcement-learning"></a>[Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26x)
 
 <a id="by-training-strategies"></a>
 
@@ -437,6 +441,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26ez-data-strategies"></a>[MathlibLemma: Folklore Lemma Generation and Benchmark for Formal Mathematics](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ez)
 - <a id="lu26a-data-strategies"></a>[Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26a)
 - <a id="lu26ab-data-strategies"></a>[FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ab)
+- <a id="luo26m-data-strategies"></a>[TarGATE: Target-Aware Data Selection via Token-Attenuation Gates](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26m)
 
 <a id="by-inference"></a>
 
@@ -644,6 +649,11 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lou26f-inference"></a>[WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26f)
 - <a id="lu26e-inference"></a>[MixReasoning: Switching Modes to Think](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26e)
 - <a id="lu26g-inference"></a>[The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26g)
+- <a id="luo26f-inference"></a>[Graph of States: Solving Abductive Tasks with Large Language Models](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26f)
+- <a id="luo26g-inference"></a>[AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26g)
+- <a id="luo26o-inference"></a>[DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26o)
+- <a id="luo26q-inference"></a>[Task-and-Model-Aware Fractal-Consistency for Efficient LLM Reasoning](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26q)
+- <a id="luxembourg26a-inference"></a>[Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](../../conferences/icml-2026/cards/3101-3200.md#paper-luxembourg26a)
 
 <a id="by-representation-learning"></a>
 
@@ -657,6 +667,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="hu26c-representation-learning"></a>[Towards Atoms of Large Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26c)
 - <a id="li26fj-representation-learning"></a>[SemRep : Generative Code Representation Learning with Code Transformations](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fj)
 - <a id="luo26d-representation-learning"></a>[Learning a Generative Meta-Model of LLM Activations](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26d)
+- <a id="luo26ad-representation-learning"></a>[Closing the Loop: Universal Repository Representation with RPG-Encoder](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ad)
 
 <a id="by-evaluation"></a>
 
@@ -878,6 +889,11 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26dw-evaluation"></a>[Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26dw)
 - <a id="liu26fq-evaluation"></a>[Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fq)
 - <a id="liu26gl-evaluation"></a>[Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gl)
+- <a id="luo26r-evaluation"></a>[TuneAhead: Predicting Fine-tuning Performance Before Full Training Begins](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26r)
+- <a id="luo26t-evaluation"></a>[CentaurEval: Benchmarking Human-in-the-Loop Value in Agentic Coding](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26t)
+- <a id="luo26ai-evaluation"></a>[UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ai)
+- <a id="luo26aj-evaluation"></a>[CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26aj)
+- <a id="lupu26a-evaluation"></a>[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](../../conferences/icml-2026/cards/3001-3100.md#paper-lupu26a)
 
 <a id="by-theory-statistics"></a>
 

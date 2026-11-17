@@ -147,6 +147,8 @@
 - [稀疏相机控制的三维几何蒸馏](../conferences/icml-2026/cards/2801-2900.md#liu26bj-training-strategies) · CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors
 - [以热扩散伪掩码和样本权重双层更新检测器](../conferences/icml-2026/cards/2901-3000.md#liu26fj-training-strategies) · Diffuse to Detect: Bi-Level Sample Rebalancing with Pseudo-Label Diffusion for Point-Supervised Infrared Small-Target Detection
 - [在偏好样本中保留优劣图像的真实初始噪声](../conferences/icml-2026/cards/3001-3100.md#lu26ai-training-strategies) · Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs
+- [随训练演化的分割低秩专家](../conferences/icml-2026/cards/3001-3100.md#luo26y-training-strategies) · ACO-MoE-LoRA: Evolving-while-Training for Adapting Segment Anything Model 2 to Specialized Domains
+- [持续学习低秩知识合成](../conferences/icml-2026/cards/3001-3100.md#luo26ag-training-strategies) · SABER: Continual Learning with Representation Conflict Management
 
 <a id="by-nlp"></a>
 

@@ -298,6 +298,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lu26x-optimization"></a>[An Exterior Method for Nonnegative Matrix Factorization](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26x)
 - <a id="lu26ap-optimization"></a>[FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ap)
 - <a id="luenam26a-optimization"></a>[Model Fusion via Retrofitting](../../conferences/icml-2026/cards/3001-3100.md#paper-luenam26a)
+- <a id="luu26b-optimization"></a>[DC-LA: Difference-of-Convex Langevin Algorithm](../../conferences/icml-2026/cards/3001-3100.md#paper-luu26b)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -419,6 +420,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26fq-inference"></a>[RTInfer: Real-Time Inference of Multiple DNNs on Edge GPUs](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fq)
 - <a id="li26ix-inference"></a>[Mitigating the Contractivity Trap in Diffusion ODEs via Stein Stabilization](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ix)
 - <a id="lu26y-inference"></a>[Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26y)
+- <a id="lv26g-inference"></a>[When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26g)
+- <a id="lydike26a-inference"></a>[Faster Activation Functions at the Edge for Post-Training Speedups](../../conferences/icml-2026/cards/3101-3200.md#paper-lydike26a)
 
 <a id="by-representation-learning"></a>
 
@@ -809,4 +812,11 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lu26am-theory-statistics"></a>[Generative Augmented Inference](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26am)
 - <a id="lunghi26a-theory-statistics"></a>[Regret Minimization With a Crowd of Awakening Experts](../../conferences/icml-2026/cards/3001-3100.md#paper-lunghi26a)
 - <a id="lunghi26b-theory-statistics"></a>[A Stronger Benchmark for Online Bilateral Trade: From Fixed Prices to Distributions](../../conferences/icml-2026/cards/3001-3100.md#paper-lunghi26b)
+- <a id="luo26w-theory-statistics"></a>[A Risk Decomposition Framework for Pre-hoc Fine-tuning Prediction](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26w)
+- <a id="luo26z-theory-statistics"></a>[Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26z)
+- <a id="luo26aa-theory-statistics"></a>[Utility Boundary of Dataset Distillation: Scaling and Coverage Laws](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26aa)
+- <a id="luo26ae-theory-statistics"></a>[Causal Matrix Completion under Multiple Treatments via Mixed Synthetic Nearest Neighbors](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ae)
+- <a id="luthra26a-theory-statistics"></a>[Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-luthra26a)
+- <a id="lutz26a-theory-statistics"></a>[Symmetry Reveals Layerwise Dynamics: How Transformers Perform In-Context Classification](../../conferences/icml-2026/cards/3001-3100.md#paper-lutz26a)
+- <a id="lv26f-theory-statistics"></a>[Beyond Rational Illusion: Behaviorally Realistic Strategic Classification](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26f)
 <!-- classification:end -->
