@@ -438,6 +438,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [DataGuard: A Non-intrusive Dataset Auditing Framework via Differential Information Forensics](../../conferences/icml-2026/cards/2901-3000.md#lou26g-theory-statistics) · 中文
 - [Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets](../../conferences/icml-2026/cards/3001-3100.md#lu26p-theory-statistics) · 中文
 - [Generative Augmented Inference](../../conferences/icml-2026/cards/3001-3100.md#lu26am-theory-statistics) · 中文
+- [Regret Minimization With a Crowd of Awakening Experts](../../conferences/icml-2026/cards/3001-3100.md#lunghi26a-theory-statistics) · 中文
+- [A Stronger Benchmark for Online Bilateral Trade: From Fixed Prices to Distributions](../../conferences/icml-2026/cards/3001-3100.md#lunghi26b-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

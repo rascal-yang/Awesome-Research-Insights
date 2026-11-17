@@ -74,6 +74,7 @@
 - <a id="kataria26a-optimization"></a>[GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../conferences/icml-2026/cards/2001-2100.md#paper-kataria26a)
 - <a id="li26kb-optimization"></a>[COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../conferences/icml-2026/cards/2601-2700.md#paper-li26kb)
 - <a id="lu26ad-optimization"></a>[On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ad)
+- <a id="luderssen26a-optimization"></a>[Instance-Specific Approximation Ratios for Correlation Clustering and Max-Cut](../conferences/icml-2026/cards/3001-3100.md#paper-luderssen26a)
 
 <a id="by-reinforcement-learning"></a>
 

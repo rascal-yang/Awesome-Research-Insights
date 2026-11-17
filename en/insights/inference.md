@@ -294,6 +294,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation](../../conferences/icml-2026/cards/2901-3000.md#liu26gh-inference) · 中文
 - [Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference](../../conferences/icml-2026/cards/2901-3000.md#liu26gq-inference) · 中文
 - [Semantic Granularity Navigation in Image Editing](../../conferences/icml-2026/cards/3001-3100.md#lu26j-inference) · 中文
+- [Attention Sparsity is Input-Stable: Training-Free Sparse Attention for Video Generation via Offline Sparsity Profiling and Online QK Co-Clustering](../../conferences/icml-2026/cards/3001-3100.md#luo26a-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -502,4 +503,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](../../conferences/icml-2026/cards/2401-2500.md#li26cf-inference) · 中文
 - [Evidential Reasoning Advances Interpretable Real-World Disease Screening](../../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · 中文
 - [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · 中文
+- [EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance](../../conferences/icml-2026/cards/3001-3100.md#luan26b-inference) · 中文
 <!-- classification:end -->

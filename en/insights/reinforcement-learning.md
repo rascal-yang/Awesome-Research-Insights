@@ -123,6 +123,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Experience Augmented Policy Optimization for LLM Reasoning](../../conferences/icml-2026/cards/3001-3100.md#lu26n-reinforcement-learning) · 中文
 - [De-attribute to Forget for LLM Unlearning](../../conferences/icml-2026/cards/3001-3100.md#lu26z-reinforcement-learning) · 中文
 - [Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/3001-3100.md#lu26aj-reinforcement-learning) · 中文
+- [Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#luo26c-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -244,6 +245,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 - [TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels](../../conferences/icml-2026/cards/2901-3000.md#low26a-reinforcement-learning) · 中文
 - [COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space](../../conferences/icml-2026/cards/3001-3100.md#luan26a-reinforcement-learning) · 中文
+- [Boosting CVaR Policy Optimization with Quantile Gradients](../../conferences/icml-2026/cards/3001-3100.md#luo26b-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

@@ -311,6 +311,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Dynamic Stratified Contrastive Learning with Upstream Augmentation for MILP Branching](../../conferences/icml-2026/cards/3001-3100.md#lu26v-optimization) · 中文
 - [An Exterior Method for Nonnegative Matrix Factorization](../../conferences/icml-2026/cards/3001-3100.md#lu26x-optimization) · 中文
 - [FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning](../../conferences/icml-2026/cards/3001-3100.md#lu26ap-optimization) · 中文
+- [Model Fusion via Retrofitting](../../conferences/icml-2026/cards/3001-3100.md#luenam26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -333,6 +334,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [GraphFLEx: Unsupervised Structure Learning $\underline\textF$ramework for $\underline\textL$arge $\underline\textEx$panding $\underline\textGraph$s](../../conferences/icml-2026/cards/2001-2100.md#kataria26a-optimization) · 中文
 - [COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · 中文
 - [On Densest $k$-Subgraph Mining and Diagonal Loading: Optimization Landscape and Finite-Step Exact Convergence Analysis](../../conferences/icml-2026/cards/3001-3100.md#lu26ad-optimization) · 中文
+- [Instance-Specific Approximation Ratios for Correlation Clustering and Max-Cut](../../conferences/icml-2026/cards/3001-3100.md#luderssen26a-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 

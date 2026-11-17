@@ -247,6 +247,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26cf-inference"></a>[$\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cf)
 - <a id="lian26e-inference"></a>[Evidential Reasoning Advances Interpretable Real-World Disease Screening](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26e)
 - <a id="liu26en-inference"></a>[AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26en)
+- <a id="luan26b-inference"></a>[EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance](../../conferences/icml-2026/cards/3001-3100.md#paper-luan26b)
 
 <a id="by-representation-learning"></a>
 

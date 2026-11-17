@@ -307,6 +307,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="liu26gh-inference"></a>[SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gh)
 - <a id="liu26gq-inference"></a>[Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26gq)
 - <a id="lu26j-inference"></a>[Semantic Granularity Navigation in Image Editing](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26j)
+- <a id="luo26a-inference"></a>[Attention Sparsity is Input-Stable: Training-Free Sparse Attention for Video Generation via Offline Sparsity Profiling and Online QK Co-Clustering](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26a)
 
 <a id="by-representation-learning"></a>
 

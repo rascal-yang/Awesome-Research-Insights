@@ -20,6 +20,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection](../../conferences/icml-2026/cards/1501-1600.md#he26z-representation-learning) · 中文
 - [Towards Atoms of Large Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26c-representation-learning) · 中文
 - [SemRep : Generative Code Representation Learning with Code Transformations](../../conferences/icml-2026/cards/2501-2600.md#li26fj-representation-learning) · 中文
+- [Learning a Generative Meta-Model of LLM Activations](../../conferences/icml-2026/cards/3001-3100.md#luo26d-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -176,6 +177,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Dual-stage Contrastive Learning-enhanced Multi-view Variational Clustering](../../conferences/icml-2026/cards/2801-2900.md#liu26ay-representation-learning) · 中文
 - [TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series](../../conferences/icml-2026/cards/2801-2900.md#liu26bp-representation-learning) · 中文
 - [Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering](../../conferences/icml-2026/cards/2901-3000.md#liu26eq-representation-learning) · 中文
+- [ECSEL: Explainable Classification via Signomial Equation Learning](../../conferences/icml-2026/cards/3001-3100.md#lumadjeng26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

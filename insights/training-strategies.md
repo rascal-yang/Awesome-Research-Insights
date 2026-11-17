@@ -180,6 +180,7 @@
 - [用视觉先验与语言后验分离动作信号](../conferences/icml-2026/cards/2601-2700.md#lian26d-training-strategies) · LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
 - [把符号级失败修复蒸馏成 VLA 的执行策略](../conferences/icml-2026/cards/2801-2900.md#liu26am-training-strategies) · NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning
 - [先让动作符合骨干接口再学连续执行](../conferences/icml-2026/cards/2801-2900.md#liu26bx-training-strategies) · RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization
+- [用大规模人手视频预训练可转移的动作指令模型](../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · Vision-Language-Action Pretraining from Large-Scale Human Videos
 
 <a id="by-multimodal"></a>
 

@@ -438,6 +438,8 @@
 - [以非训练样本匹配模型审计对照](../conferences/icml-2026/cards/2901-3000.md#lou26g-theory-statistics) · DataGuard: A Non-intrusive Dataset Auditing Framework via Differential Information Forensics
 - [在线非单调次模上线性化](../conferences/icml-2026/cards/3001-3100.md#lu26p-theory-statistics) · Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets
 - [将生成注释作为统计协变量并校正人工残差](../conferences/icml-2026/cards/3001-3100.md#lu26am-theory-statistics) · Generative Augmented Inference
+- [专家只增不减时用置信下界约束过度探索](../conferences/icml-2026/cards/3001-3100.md#lunghi26a-theory-statistics) · Regret Minimization With a Crowd of Awakening Experts
+- [先积累盈利再学习全期预算下的价格分布](../conferences/icml-2026/cards/3001-3100.md#lunghi26b-theory-statistics) · A Stronger Benchmark for Online Bilateral Trade: From Fixed Prices to Distributions
 
 <a id="by-graph-and-recommendation"></a>
 

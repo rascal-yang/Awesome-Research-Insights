@@ -53,6 +53,7 @@
 - <a id="liu26fm-architecture"></a>[TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fm)
 - <a id="liu26gi-architecture"></a>[Balancing Understanding and Generation in Discrete Diffusion Models](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gi)
 - <a id="lu26w-architecture"></a>[ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters](../conferences/icml-2026/cards/3001-3100.md#paper-lu26w)
+- <a id="lui26a-architecture"></a>[LassoFlexNet: a Flexible Neural Architecture for Tabular Data](../conferences/icml-2026/cards/3001-3100.md#paper-lui26a)
 
 <a id="by-modules"></a>
 
@@ -296,6 +297,7 @@
 - <a id="lu26v-optimization"></a>[Dynamic Stratified Contrastive Learning with Upstream Augmentation for MILP Branching](../conferences/icml-2026/cards/3001-3100.md#paper-lu26v)
 - <a id="lu26x-optimization"></a>[An Exterior Method for Nonnegative Matrix Factorization](../conferences/icml-2026/cards/3001-3100.md#paper-lu26x)
 - <a id="lu26ap-optimization"></a>[FedScar: Correcting Geometric Bias for Flatness-Consistent Federated Learning](../conferences/icml-2026/cards/3001-3100.md#paper-lu26ap)
+- <a id="luenam26a-optimization"></a>[Model Fusion via Retrofitting](../conferences/icml-2026/cards/3001-3100.md#paper-luenam26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -457,6 +459,7 @@
 - <a id="liu26ay-representation-learning"></a>[Dual-stage Contrastive Learning-enhanced Multi-view Variational Clustering](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ay)
 - <a id="liu26bp-representation-learning"></a>[TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series](../conferences/icml-2026/cards/2801-2900.md#paper-liu26bp)
 - <a id="liu26eq-representation-learning"></a>[Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering](../conferences/icml-2026/cards/2901-3000.md#paper-liu26eq)
+- <a id="lumadjeng26a-representation-learning"></a>[ECSEL: Explainable Classification via Signomial Equation Learning](../conferences/icml-2026/cards/3001-3100.md#paper-lumadjeng26a)
 
 <a id="by-evaluation"></a>
 
@@ -804,4 +807,6 @@
 - <a id="lou26g-theory-statistics"></a>[DataGuard: A Non-intrusive Dataset Auditing Framework via Differential Information Forensics](../conferences/icml-2026/cards/2901-3000.md#paper-lou26g)
 - <a id="lu26p-theory-statistics"></a>[Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets](../conferences/icml-2026/cards/3001-3100.md#paper-lu26p)
 - <a id="lu26am-theory-statistics"></a>[Generative Augmented Inference](../conferences/icml-2026/cards/3001-3100.md#paper-lu26am)
+- <a id="lunghi26a-theory-statistics"></a>[Regret Minimization With a Crowd of Awakening Experts](../conferences/icml-2026/cards/3001-3100.md#paper-lunghi26a)
+- <a id="lunghi26b-theory-statistics"></a>[A Stronger Benchmark for Online Bilateral Trade: From Fixed Prices to Distributions](../conferences/icml-2026/cards/3001-3100.md#paper-lunghi26b)
 <!-- classification:end -->

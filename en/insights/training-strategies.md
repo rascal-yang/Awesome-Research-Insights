@@ -180,6 +180,7 @@ Training schedules, curricula, and task or stage composition.
 - [LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries](../../conferences/icml-2026/cards/2601-2700.md#lian26d-training-strategies) · 中文
 - [NeurVLA: Unleashing Failure-Handling Capability of Vision-Language-Action Models via Neural-Symbolic Reasoning](../../conferences/icml-2026/cards/2801-2900.md#liu26am-training-strategies) · 中文
 - [RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization](../../conferences/icml-2026/cards/2801-2900.md#liu26bx-training-strategies) · 中文
+- [Vision-Language-Action Pretraining from Large-Scale Human Videos](../../conferences/icml-2026/cards/3001-3100.md#luo26e-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

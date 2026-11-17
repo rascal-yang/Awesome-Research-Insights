@@ -294,6 +294,7 @@
 - [测试时用单样本结构与可靠子空间替代单一熵选择](../conferences/icml-2026/cards/2901-3000.md#liu26gh-inference) · SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation
 - [在边云切分时查找由特征到决策的表示转折](../conferences/icml-2026/cards/2901-3000.md#liu26gq-inference) · Partitioning for Intrinsic Model Inversion Resistance in Collaborative Inference
 - [语义编辑的尺度窗积分](../conferences/icml-2026/cards/3001-3100.md#lu26j-inference) · Semantic Granularity Navigation in Image Editing
+- [离线量每层可剪稀疏率并在线共同聚类 Q/K](../conferences/icml-2026/cards/3001-3100.md#luo26a-inference) · Attention Sparsity is Input-Stable: Training-Free Sparse Attention for Video Generation via Offline Sparsity Profiling and Online QK Co-Clustering
 
 <a id="by-nlp"></a>
 
@@ -502,4 +503,5 @@
 - [融合分子图的单次消费边计算减少显存访问](../conferences/icml-2026/cards/2401-2500.md#li26cf-inference) · $\textttFlashSchNet$: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics
 - [从正常与病理病例同时检索证据](../conferences/icml-2026/cards/2601-2700.md#lian26e-inference) · Evidential Reasoning Advances Interpretable Real-World Disease Screening
 - [模拟电路测试台的神经符号生成](../conferences/icml-2026/cards/2901-3000.md#liu26en-inference) · AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification
+- [用弱结合分布的反向梯度引导表位生成](../conferences/icml-2026/cards/3001-3100.md#luan26b-inference) · EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance
 <!-- classification:end -->

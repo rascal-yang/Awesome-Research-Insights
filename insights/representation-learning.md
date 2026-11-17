@@ -20,6 +20,7 @@
 - [用升维二值码本细调权重位宽](../conferences/icml-2026/cards/1501-1600.md#he26z-representation-learning) · LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection
 - [以重建和跨样本稳定性共同选表征单位](../conferences/icml-2026/cards/1601-1700.md#hu26c-representation-learning) · Towards Atoms of Large Language Models
 - [用保语义代码变换作为生成式中间表示](../conferences/icml-2026/cards/2501-2600.md#li26fj-representation-learning) · SemRep : Generative Code Representation Learning with Code Transformations
+- [把生成式激活先验用于修复表示干预](../conferences/icml-2026/cards/3001-3100.md#luo26d-representation-learning) · Learning a Generative Meta-Model of LLM Activations
 
 <a id="by-computer-vision"></a>
 
@@ -176,6 +177,7 @@
 - [先跨视角对齐再单独处理后验不确定样本](../conferences/icml-2026/cards/2801-2900.md#liu26ay-representation-learning) · Dual-stage Contrastive Learning-enhanced Multi-view Variational Clustering
 - [从多变量状态蒸馏单变量邻域](../conferences/icml-2026/cards/2801-2900.md#liu26bp-representation-learning) · TopoDistill: Distilling Global System Topology for Causal Discovery in Multivariate Time Series
 - [公平多视图聚类](../conferences/icml-2026/cards/2901-3000.md#liu26eq-representation-learning) · Causal Disentangled Anchor Learning for Scalable Fair Multi-view Clustering
+- [直接学习可解释分类的符号幂乘积方程](../conferences/icml-2026/cards/3001-3100.md#lumadjeng26a-representation-learning) · ECSEL: Explainable Classification via Signomial Equation Learning
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -299,6 +299,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lu26n-reinforcement-learning"></a>[Experience Augmented Policy Optimization for LLM Reasoning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26n)
 - <a id="lu26z-reinforcement-learning"></a>[De-attribute to Forget for LLM Unlearning](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26z)
 - <a id="lu26aj-reinforcement-learning"></a>[Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26aj)
+- <a id="luo26c-reinforcement-learning"></a>[Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26c)
 
 <a id="by-training-strategies"></a>
 
@@ -655,6 +656,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="he26z-representation-learning"></a>[LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection](../../conferences/icml-2026/cards/1501-1600.md#paper-he26z)
 - <a id="hu26c-representation-learning"></a>[Towards Atoms of Large Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26c)
 - <a id="li26fj-representation-learning"></a>[SemRep : Generative Code Representation Learning with Code Transformations](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fj)
+- <a id="luo26d-representation-learning"></a>[Learning a Generative Meta-Model of LLM Activations](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26d)
 
 <a id="by-evaluation"></a>
 

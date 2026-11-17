@@ -219,6 +219,7 @@ Model-wide design and information flow.
 - [TabSwift: An Efficient Tabular Foundation Model with Row-Wise Attention](../../conferences/icml-2026/cards/2901-3000.md#liu26fm-architecture) · 中文
 - [Balancing Understanding and Generation in Discrete Diffusion Models](../../conferences/icml-2026/cards/2901-3000.md#liu26gi-architecture) · 中文
 - [ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters](../../conferences/icml-2026/cards/3001-3100.md#lu26w-architecture) · 中文
+- [LassoFlexNet: a Flexible Neural Architecture for Tabular Data](../../conferences/icml-2026/cards/3001-3100.md#lui26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

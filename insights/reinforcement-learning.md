@@ -123,6 +123,7 @@
 - [推理关键动作经验复用](../conferences/icml-2026/cards/3001-3100.md#lu26n-reinforcement-learning) · Experience Augmented Policy Optimization for LLM Reasoning
 - [以待遗忘来源的归因分数作为更新反馈](../conferences/icml-2026/cards/3001-3100.md#lu26z-reinforcement-learning) · De-attribute to Forget for LLM Unlearning
 - [用训练动态估计 rollout 复用价值](../conferences/icml-2026/cards/3001-3100.md#lu26aj-reinforcement-learning) · Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards
+- [把知识超图检索训练成多轮代理策略](../conferences/icml-2026/cards/3001-3100.md#luo26c-reinforcement-learning) · Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -244,6 +245,7 @@
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 - [以轨迹接受标签学习逐步安全代价](../conferences/icml-2026/cards/2901-3000.md#low26a-reinforcement-learning) · TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels
 - [在连贯技能空间用近邻传播稀疏人类反馈](../conferences/icml-2026/cards/3001-3100.md#luan26a-reinforcement-learning) · COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space
+- [用分位数梯度回收 CVaR 尾部之外的采样信息](../conferences/icml-2026/cards/3001-3100.md#luo26b-reinforcement-learning) · Boosting CVaR Policy Optimization with Quantile Gradients
 
 <a id="by-robotics"></a>
 

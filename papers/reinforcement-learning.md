@@ -137,6 +137,7 @@
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 - <a id="low26a-reinforcement-learning"></a>[TraCeS: Learning Per-Timestep Constraint-Violation Credit from Sparse Trajectory-Level Labels](../conferences/icml-2026/cards/2901-3000.md#paper-low26a)
 - <a id="luan26a-reinforcement-learning"></a>[COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space](../conferences/icml-2026/cards/3001-3100.md#paper-luan26a)
+- <a id="luo26b-reinforcement-learning"></a>[Boosting CVaR Policy Optimization with Quantile Gradients](../conferences/icml-2026/cards/3001-3100.md#paper-luo26b)
 
 <a id="by-training-strategies"></a>
 
