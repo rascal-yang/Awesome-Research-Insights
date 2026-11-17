@@ -354,7 +354,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Adaptive Sharpness-Aware Minimization with a Polyak-type Step size: A Theory-Grounded Scheduler](../../conferences/icml-2026/cards/3501-3600.md#oikonomou26b-optimization) · 中文
 - [Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients](../../conferences/icml-2026/cards/3501-3600.md#oikonomou26c-optimization) · 中文
 - [Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation](../../conferences/icml-2026/cards/3501-3600.md#otsuka26a-optimization) · 中文
-- [Adaptive Multi-Round Allocation with Stochastic Arrivals](../../conferences/icml-2026/cards/3501-3600.md#pan26c-optimization) · 中文
 - [Sharpness-Aware Minimization Can Hallucinate Minimizers](../../conferences/icml-2026/cards/3501-3600.md#park26e-optimization) · 中文
 - [Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning](../../conferences/icml-2026/cards/3501-3600.md#park26g-optimization) · 中文
 - [SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients](../../conferences/icml-2026/cards/3601-3700.md#paulus26a-optimization) · 中文

@@ -354,7 +354,6 @@
 - [扰动点 Polyak 步长](../conferences/icml-2026/cards/3501-3600.md#oikonomou26b-optimization) · Adaptive Sharpness-Aware Minimization with a Polyak-type Step size: A Theory-Grounded Scheduler
 - [次梯度分母保护](../conferences/icml-2026/cards/3501-3600.md#oikonomou26c-optimization) · Safeguarded Stochastic Polyak Step Sizes for Non-smooth Optimization: Robust Performance Without Small (Sub)Gradients
 - [用衰减的缓存动量稳定部分参与聚合](../conferences/icml-2026/cards/3501-3600.md#otsuka26a-optimization) · Delayed Momentum Aggregation: Communication-efficient Byzantine-robust Federated Learning with Partial Participation
-- [随机转介预算规划](../conferences/icml-2026/cards/3501-3600.md#pan26c-optimization) · Adaptive Multi-Round Allocation with Stochastic Arrivals
 - [同时监测 SAM 原点和扰动点梯度](../conferences/icml-2026/cards/3501-3600.md#park26e-optimization) · Sharpness-Aware Minimization Can Hallucinate Minimizers
 - [在客户端用分组归一动量平衡稀类](../conferences/icml-2026/cards/3501-3600.md#park26g-optimization) · Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning
 - [硬操作的软梯度与软索引](../conferences/icml-2026/cards/3601-3700.md#paulus26a-optimization) · SoftJAX & SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients

@@ -2604,7 +2604,6 @@ li26ix	ml-foundations	inference
 li26iy	ml-foundations	optimization
 li26iz	computer-vision	loss-functions
 li26ja	reinforcement-learning	reinforcement-learning
-li26jb	ml-foundations	theory-statistics
 li26jc	llm	reinforcement-learning
 li26jd	scientific-ml	architecture
 li26je	llm	optimization
@@ -2672,7 +2671,6 @@ liao26b	multimodal	representation-learning
 liao26c	llm	inference
 liao26d	multimodal	evaluation
 liao26e	scientific-ml	architecture
-liaw26a	ml-foundations	theory-statistics
 lifar26a	llm	optimization
 lifshitz26a	ml-foundations	optimization
 lijing26a	computer-vision	inference
@@ -2709,7 +2707,6 @@ lin26z	llm	evaluation
 lin26aa	multimodal	evaluation
 lin26ab	robotics	architecture
 lin26ac	ml-foundations	optimization
-lin26ad	ml-foundations	theory-statistics
 lin26ae	llm	theory-statistics
 lin26af	robotics	reinforcement-learning
 lin26ag	multimodal	reinforcement-learning
@@ -3369,7 +3366,6 @@ nehme26b	scientific-ml	representation-learning
 nehzati26a	ml-foundations	theory-statistics
 nelson26a	ml-foundations	representation-learning
 neogi26a	multimodal	training-strategies
-neoh26a	ml-foundations	theory-statistics
 ng26a	ml-foundations	theory-statistics
 nguyen26a	scientific-ml	architecture
 nguyen26b	robotics	training-strategies
@@ -3452,7 +3448,6 @@ oikonomou26b	ml-foundations	optimization
 oikonomou26c	ml-foundations	optimization
 okawa26a	llm	evaluation
 okawa26b	llm	evaluation
-oki26a	ml-foundations	theory-statistics
 oko26a	llm	theory-statistics
 olausson26a	graph-and-recommendation	inference
 olmedo26a	llm	evaluation
@@ -3486,7 +3481,6 @@ ozyilkan26a	ml-foundations	architecture
 pach26a	computer-vision	representation-learning
 pachebat26a	ml-foundations	training-strategies
 padmanabhan26a	llm	training-strategies
-paes-leme26a	ml-foundations	theory-statistics
 paillard26a	ml-foundations	evaluation
 pakman26a	ml-foundations	evaluation
 pal26a	ml-foundations	modules
@@ -3494,7 +3488,6 @@ palasamudram26a	reinforcement-learning	theory-statistics
 palla26a	scientific-ml	architecture
 pan26a	llm	evaluation
 pan26b	multimodal	reinforcement-learning
-pan26c	ml-foundations	optimization
 pan26d	multimodal	modules
 pan26e	llm	inference
 pan26f	llm	optimization
@@ -3524,7 +3517,6 @@ pang26f	scientific-ml	optimization
 pappu26a	llm	evaluation
 paraperas-papantoniou26a	multimodal	training-strategies
 parashar26a	llm	training-strategies
-pardeshi26a	ml-foundations	theory-statistics
 park26a	ml-foundations	representation-learning
 park26b	llm	training-strategies
 park26c	multimodal	evaluation
