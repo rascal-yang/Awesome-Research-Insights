@@ -23,8 +23,11 @@ Describe what to change, where it connects, and what data or conditions it needs
 
 Describe the limitation or observation that prompted the technique.
 
-**Potential Applications**
+**Evidence and Conditions**
 
-- **Paper evidence · Setting.** State what was evaluated and what the comparison supports.
-- **Transfer hypothesis · New setting.** Describe one concrete application and the conditions it would require.
+Summarize the relevant experiment, theorem, or counterexample. State the setting, assumptions, and scope of the conclusion.
+
+**Transfer Hypothesis (Optional)**
+
+If you have a concrete application in mind, describe the conditions it would require.
 ```

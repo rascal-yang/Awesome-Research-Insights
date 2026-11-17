@@ -118,7 +118,9 @@ The initial collection prioritizes **main-conference papers from the 2025 and 20
 | Robot learning and systems | CoRL, RSS | Policy learning, imitation learning, planning, and manipulation |
 | Topic-specific sources | EMNLP, ECCV, ICRA, IROS | Language and multimodal methods, perception and control, contact, and physical robot execution |
 
-We screen papers by technical topic when a conference publishes its official main-conference acceptance list or proceedings. To include an insight, we look for an accessible full paper, a traceable source for the method, and a concrete transfer scenario. Batches follow conference announcements.
+We update in batches after conferences publish their official main-conference acceptance lists or proceedings. For ICML 2026, we review papers individually in proceedings order.
+
+**Inclusion criterion.** One clear, independently explainable insight supported by the paper is enough to include it. Record the conditions under which it holds and what the experiment, theorem, or counterexample establishes. Transfer scenarios are optional.
 
 ## Recent Updates
 

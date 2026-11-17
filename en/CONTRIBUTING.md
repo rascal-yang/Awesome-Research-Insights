@@ -4,6 +4,10 @@
 
 Propose an insight or a correction in a pull request. You can use a GitHub issue to suggest a paper or discuss where a technique belongs.
 
+## Inclusion Criteria
+
+A paper qualifies if it offers one independently explainable insight that readers can verify in the original. This can be a working technique, a condition under which a result holds, a counterexample, or an evidenced failure mode. State the evidence and its scope. Transfer scenarios are optional.
+
 ## Add an Insight
 
 1. Find the original paper and locate the relevant section, figure, equation, or code.
@@ -15,7 +19,7 @@ Propose an insight or a correction in a pull request. You can use a GitHub issue
 
 - The source is easy to locate and supports the mechanism described.
 - The insight explains what changes, what inputs or supervision it needs, and why the authors introduced it.
-- Paper evidence and transfer hypotheses are labeled separately.
+- State what the paper’s evidence supports. Label any transfer hypothesis separately.
 - Relative links resolve, including links into individual insight headings.
 
 ## Keep the Index Current
