@@ -608,7 +608,6 @@
 - <a id="chen26gf-evaluation"></a>[Leaderboard Incentives: Model Rankings under Strategic Post-Training](../conferences/icml-2026/cards/0601-0700.md#paper-chen26gf)
 - <a id="cheng26i-evaluation"></a>[Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization](../conferences/icml-2026/cards/0601-0700.md#paper-cheng26i)
 - <a id="disselhoff26a-evaluation"></a>[Probing the Inductive Bias of Neural Networks through Learning Random Cellular Automata](../conferences/icml-2026/cards/0901-1000.md#paper-disselhoff26a)
-- <a id="durani26a-evaluation"></a>[CHB: A Diagnostic Toolkit for Hardness-Aware Clustering Evaluation](../conferences/icml-2026/cards/0901-1000.md#paper-durani26a)
 - <a id="ebrahimi26a-evaluation"></a>[On the "Induction Bias" in Sequence Models](../conferences/icml-2026/cards/1001-1100.md#paper-ebrahimi26a)
 - <a id="eichin26a-evaluation"></a>[ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior](../conferences/icml-2026/cards/1001-1100.md#paper-eichin26a)
 - <a id="feng26u-evaluation"></a>[Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](../conferences/icml-2026/cards/1101-1200.md#paper-feng26u)

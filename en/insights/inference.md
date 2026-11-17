@@ -626,7 +626,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling](../../conferences/icml-2026/cards/0301-0400.md#cao26c-inference) · 中文
 - [Towards Docking-oriented De Novo Ligand Design via Gradient Inversion](../../conferences/icml-2026/cards/0501-0600.md#chen26bu-inference) · 中文
 - [Coarse-Grained Boltzmann Generators](../../conferences/icml-2026/cards/0601-0700.md#chen26gs-inference) · 中文
-- [Agentic Framework for Epidemiological Modeling](../../conferences/icml-2026/cards/0801-0900.md#datta26a-inference) · 中文
 - [Generative Inverse Design with Abstention via Diagonal Flow Matching](../../conferences/icml-2026/cards/0801-0900.md#de-campos26a-inference) · 中文
 - [Listening Through the Noise: Cauchy-Driven Diffusion Bridges for Robust Gastrointestinal Auscultation and Clinical Benchmarking](../../conferences/icml-2026/cards/0901-1000.md#ding26a-inference) · 中文
 - [Physics-Informed Diffusion Models in Spectral Space](../../conferences/icml-2026/cards/1101-1200.md#gallon26a-inference) · 中文

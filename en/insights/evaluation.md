@@ -68,7 +68,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](../../conferences/icml-2026/cards/0601-0700.md#chen26fa-evaluation) · 中文
 - [Scaling Law for Quantization-Aware Training](../../conferences/icml-2026/cards/0601-0700.md#chen26gl-evaluation) · 中文
 - [IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL](../../conferences/icml-2026/cards/0601-0700.md#cheng26n-evaluation) · 中文
-- [When AI Agents Compete for Jobs: Strategic Capabilities and Economic Dynamics of AI Labour Markets](../../conferences/icml-2026/cards/0701-0800.md#chiu26a-evaluation) · 中文
 - [Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms](../../conferences/icml-2026/cards/0701-0800.md#cho26g-evaluation) · 中文
 - [Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory](../../conferences/icml-2026/cards/0701-0800.md#choi26n-evaluation) · 中文
 - [Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation](../../conferences/icml-2026/cards/0701-0800.md#chong26b-evaluation) · 中文
@@ -428,7 +427,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](../../conferences/icml-2026/cards/0501-0600.md#chen26dh-evaluation) · 中文
 - [DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs](../../conferences/icml-2026/cards/0501-0600.md#chen26dl-evaluation) · 中文
 - [OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](../../conferences/icml-2026/cards/0601-0700.md#chen26en-evaluation) · 中文
-- [BabyVision: Visual Reasoning Beyond Language](../../conferences/icml-2026/cards/0601-0700.md#chen26fj-evaluation) · 中文
 - [HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing](../../conferences/icml-2026/cards/0601-0700.md#chen26gz-evaluation) · 中文
 - [Visual Persuasion: What Influences Decisions of Vision-Language Models?](../../conferences/icml-2026/cards/0701-0800.md#cherep26a-evaluation) · 中文
 - [MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models](../../conferences/icml-2026/cards/0701-0800.md#cohen26d-evaluation) · 中文
@@ -519,7 +517,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Leaderboard Incentives: Model Rankings under Strategic Post-Training](../../conferences/icml-2026/cards/0601-0700.md#chen26gf-evaluation) · 中文
 - [Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization](../../conferences/icml-2026/cards/0601-0700.md#cheng26i-evaluation) · 中文
 - [Probing the Inductive Bias of Neural Networks through Learning Random Cellular Automata](../../conferences/icml-2026/cards/0901-1000.md#disselhoff26a-evaluation) · 中文
-- [CHB: A Diagnostic Toolkit for Hardness-Aware Clustering Evaluation](../../conferences/icml-2026/cards/0901-1000.md#durani26a-evaluation) · 中文
 - [On the "Induction Bias" in Sequence Models](../../conferences/icml-2026/cards/1001-1100.md#ebrahimi26a-evaluation) · 中文
 - [ExPLAIND: Unifying Model, Data, and Training Attribution to Study Model Behavior](../../conferences/icml-2026/cards/1001-1100.md#eichin26a-evaluation) · 中文
 - [Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](../../conferences/icml-2026/cards/1101-1200.md#feng26u-evaluation) · 中文

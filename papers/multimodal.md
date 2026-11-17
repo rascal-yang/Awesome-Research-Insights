@@ -392,7 +392,6 @@
 - <a id="chen26dh-evaluation"></a>[MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](../conferences/icml-2026/cards/0501-0600.md#paper-chen26dh)
 - <a id="chen26dl-evaluation"></a>[DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs](../conferences/icml-2026/cards/0501-0600.md#paper-chen26dl)
 - <a id="chen26en-evaluation"></a>[OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](../conferences/icml-2026/cards/0601-0700.md#paper-chen26en)
-- <a id="chen26fj-evaluation"></a>[BabyVision: Visual Reasoning Beyond Language](../conferences/icml-2026/cards/0601-0700.md#paper-chen26fj)
 - <a id="chen26gz-evaluation"></a>[HoloFair: Unified T2I Fairness Evaluation and Fair-GRPO Debiasing](../conferences/icml-2026/cards/0601-0700.md#paper-chen26gz)
 - <a id="cherep26a-evaluation"></a>[Visual Persuasion: What Influences Decisions of Vision-Language Models?](../conferences/icml-2026/cards/0701-0800.md#paper-cherep26a)
 - <a id="cohen26d-evaluation"></a>[MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models](../conferences/icml-2026/cards/0701-0800.md#paper-cohen26d)

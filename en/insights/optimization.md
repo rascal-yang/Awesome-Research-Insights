@@ -22,7 +22,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models](../../conferences/icml-2026/cards/0501-0600.md#chen26bt-optimization) · 中文
 - [Escaping the Subspace Trap: The Role of Optimizer Geometry in Model Width Expansion](../../conferences/icml-2026/cards/0601-0700.md#chen26eq-optimization) · 中文
 - [SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search](../../conferences/icml-2026/cards/0601-0700.md#chen26ew-optimization) · 中文
-- [QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment](../../conferences/icml-2026/cards/0601-0700.md#chen26ex-optimization) · 中文
 - [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](../../conferences/icml-2026/cards/0601-0700.md#chen26fe-optimization) · 中文
 - [$A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](../../conferences/icml-2026/cards/0601-0700.md#chen26hb-optimization) · 中文
 - [NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models](../../conferences/icml-2026/cards/0701-0800.md#chong26a-optimization) · 中文
@@ -417,7 +416,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers](../../conferences/icml-2026/cards/0501-0600.md#chen26ck-optimization) · 中文
 - [LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation](../../conferences/icml-2026/cards/0601-0700.md#chen26fx-optimization) · 中文
 - [Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction](../../conferences/icml-2026/cards/0901-1000.md#du26n-optimization) · 中文
-- [Automatic Construction of Clinical Scoring Systems with LLM Agents](../../conferences/icml-2026/cards/1001-1100.md#estevez26a-optimization) · 中文
 - [RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](../../conferences/icml-2026/cards/1101-1200.md#fink26a-optimization) · 中文
 - [Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State](../../conferences/icml-2026/cards/1201-1300.md#gao26j-optimization) · 中文
 - [Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](../../conferences/icml-2026/cards/1401-1500.md#guoze26a-optimization) · 中文

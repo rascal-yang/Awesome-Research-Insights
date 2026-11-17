@@ -22,7 +22,6 @@
 - [可变网格低比特量化](../conferences/icml-2026/cards/0501-0600.md#chen26bt-optimization) · BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models
 - [宽度扩展后的优化器几何](../conferences/icml-2026/cards/0601-0700.md#chen26eq-optimization) · Escaping the Subspace Trap: The Role of Optimizer Geometry in Model Width Expansion
 - [MoE 专家组合剪枝](../conferences/icml-2026/cards/0601-0700.md#chen26ew-optimization) · SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search
-- [遥测反馈驱动内核调优](../conferences/icml-2026/cards/0601-0700.md#chen26ex-optimization) · QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment
 - [偏好更新的梯度激励校准](../conferences/icml-2026/cards/0601-0700.md#chen26fe-optimization) · Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner
 - [求解器程序树进化](../conferences/icml-2026/cards/0601-0700.md#chen26hb-optimization) · $A_2$DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees
 - [低秩二值权重量化](../conferences/icml-2026/cards/0701-0800.md#chong26a-optimization) · NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models
@@ -417,7 +416,6 @@
 - [广义特征值积分轮廓](../conferences/icml-2026/cards/0501-0600.md#chen26ck-optimization) · Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers
 - [语言模型预测与真实实验的门控](../conferences/icml-2026/cards/0601-0700.md#chen26fx-optimization) · LABO: LLM-Accelerated Bayesian Optimization through Broad Exploration and Selective Experimentation
 - [扩散重建的对偶反馈与频谱均衡](../conferences/icml-2026/cards/0901-1000.md#du26n-optimization) · Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction
-- [临床二元规则的等权清单搜索](../conferences/icml-2026/cards/1001-1100.md#estevez26a-optimization) · Automatic Construction of Clinical Scoring Systems with LLM Agents
 - [代数多重网格的稀疏粗层修正](../conferences/icml-2026/cards/1101-1200.md#fink26a-optimization) · RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections
 - [量子激发态的多态重要性采样](../conferences/icml-2026/cards/1201-1300.md#gao26j-optimization) · Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State
 - [几何潜变量到 PDE 场的可微优化](../conferences/icml-2026/cards/1401-1500.md#guoze26a-optimization) · Geometry-Aware Neural Optimizer for Shape Optimization and Inversion

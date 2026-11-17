@@ -606,7 +606,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 605	chen26eh	3	3	3	3	60		共同内容与评分变异的条件先验/多模态VI，模型具体，但Bayes潜变量构件成熟且评分场景专门。（原文：§3.1–3.2 贝叶斯推断（PDF 第 4 页））	scored
 606	chen26ei	4	5	5	5	93		按宽度、秩、初始化追踪最大特征更新，推导LoRA跨秩及到全微调的学习率传递；明确可用尺度规则。（原文：§3 初始化（PDF 第 3 页））	scored
 607	chen26ej	4	4	4	4	80		轨迹蒸馏稠密奖励仅负责剪枝/优先逆采样，训练仍用真实终奖，防代理误差改变GFN目标。（原文：§3.1 边奖励（PDF 第 4 页））	scored
-608	chen26ek	2	3	3	2	50		线性自表示跨视图传递再一致分配，主要多视图共识学习常规组合。（原文：§3.3–3.4 表征和一致性（PDF 第 4 页））	scored
+608	chen26ek							复核§3.3–3.4式3–10（PDF第3–5页）：自表示H=HA、attention邻域加权、各视图分配平均取argmax为伪标签、逐视图CE和引用Xu等2022的边际熵平衡。均可执行，但新工作主要将既有自表示/多视图共识聚类操作串接到多骨干特征；未找到独立的新伪标签接受、可靠性或重建约束，非因卡片缺细节排除。	rule-excluded
 609	chen26el	4	5	4	4	86		离散Esscher小步倾斜将新解掩后验写成奖励加权矩，CE匹配加控制变量；独立可用离散生成对齐更新。（原文：§3.1–3.3（PDF 第 4 页））	scored
 610	chen26em	4	4	4	3	77		拒答潜方向模拟越狱内循环，外学势函数转向场恢复拒答且保正常行为；区别只沿固定均值方向加向量。（原文：§4–5（PDF 第 4 页））	scored
 611	chen26en	3	3	4	2	61		从成功编排抽模式并定向fuzz提示，工具代理威胁具体，主要模糊测试/经验重用管线。（原文：§4.1–4.2（PDF 第 4 页））	scored
@@ -619,7 +619,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 618	chen26eu	4	4	4	3	77		长历史教师上下文分布匹配和模型误差历史再训练，新增context forcing而非只短滑窗自蒸馏；缓存设计部分重叠。（原文：§3.1–3.2（PDF 第 4 页））	scored
 619	chen26ev	4	2	3	4	64		重尾截断中心偏差与梯度稳定性导总体梯度界，理论细化真实但操作仍裁剪/归一/动量常用族。（原文：表 1（PDF 第 2 页））	scored
 620	chen26ew	4	4	4	4	80		Schur补可采纳界给专家子集A*最优重建搜索，Cholesky增量与层预算拐点，区别贪心重要度剪枝。（原文：§3.1–3.2（PDF 第 3 页））	scored
-621	chen26ex	2	3	3	2	50		遥测语义指纹、双层树剪枝和优轨迹推理反馈，主要OS优化代理工程编排。（原文：图 2 闭环调参（PDF 第 3 页））	scored
+621	chen26ex							复核§3.2–3.4（PDF第4–5页）：具体为top-v热点栈加后k项的语义多样性筛选、模板压缩、目录当前选项+子目录摘要、惰性缓存和精英配置复查。方法不是空泛，但这些是既有频率/多样性采样、层级摘要搜索与运行反馈的组合，未给独立新目标/搜索准则；OS工作负载应用验证不足区别普通编排。	rule-excluded
 622	chen26ey	3	4	4	3	70		将DINO语义图按目标视角投影，并由中间去噪交替更新条件，空间语义反馈明确但主组件成熟。（原文：图 2 语义融合（PDF 第 4 页））	scored
 623	chen26ez	4	3	4	3	71		推导ε不敏感排序区，用伪负例虚拟参照补未对齐对比信号，针对推荐reward hacking的可执行修正。（原文：定理 3.5（PDF 第 4 页））	scored
 624	chen26fa	3	4	4	3	70		格式对照外以对称裁剪消整数梯度偏差有具体训练技巧；其余峰值因子/SNR比较主要评测。（原文：图 3 信噪比（PDF 第 5 页））	scored
@@ -629,9 +629,9 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 628	chen26fe	4	4	5	4	84		分解winner/loser梯度与激励，在线奖励校准系数进可解缠带，直接抑loser而保winner概率。（原文：表 1、定理 3.1（PDF 第 4 页））	scored
 629	chen26ff	3	3	4	3	64		限微批首阶段并多方向填泡、批梯度更新控制一优化步内陈旧，算法细节有用但主要并行调度工程。（原文：定理 3.2（PDF 第 4 页））	scored
 630	chen26fg	4	4	4	4	80		以协变量OT耦合定义概念偏移而非任意匹配标签，再分解/界定两偏移量，给可核的数据漂移定义。（原文：定理 3.7（PDF 第 4 页））	scored
-631	chen26fh	2	2	3	2	44		复数幅相对比、量子证据和多视图融合用于不确定模式分类，主要多组件拼装，量子对象增量难独立带走。（原文：图 1 模型（PDF 第 3 页））	scored
+631	chen26fh							复核§2.3–2.5（PDF第4–6页）：相位圆投影明确承接Yang&Yan2022；类别原型Weibull尾重权明确承接Bendale&Boult2016(OpenMax)，额外OOD维汇集被折扣激活，再用既有GQECR融合独立种子。新颖部分主要为这些操作的复数证据分类组合，而非新的相位不确定性/融合规则，已有来源已在原文点明。	rule-excluded
 632	chen26fi	4	4	4	3	77		概率下限/重权使低概率教师token可学，达奖励门槛停示范；区别固定SFT→RL的阶段信号控制。（原文：图 2 教师退出（PDF 第 4 页））	scored
-633	chen26fj	1	2	4	1	38		细节/轨迹/空间题和可验证生成扩展，主要视觉推理基准覆盖。（原文：图 1 人类对照（PDF 第 2 页））	scored
+633	chen26fj							复核§4.1–4.2及§6.1（PDF第6、8–9页）：BabyVision-Gen是把同题子集改成原图最小覆盖标注，三图给VLM比较、儿童/模型对照并分类失败；未定义独立训练/生成推理机制，verbalization bottleneck仍是定性解释，跨不同模型输出比较未隔离因果。不能由‘视觉题很难’泛化出新技术。	rule-excluded
 634	chen26fk	3	3	4	3	64		系统信息跨窗共享重建、时变状态与噪声分离，结构明确但接近潜状态/自监督系统识别。（原文：图 3 跨重建（PDF 第 4 页））	scored
 635	chen26fl	4	4	4	3	77		策略—世界模型maximin及Stackelberg更新，Fisher/Woodbury可实现响应梯度；不同于独立拟合后悲观规划。（原文：定理 5.1、耦合更新（PDF 第 5 页））	scored
 636	chen26fm	4	4	5	4	84		token时间局部性维护草稿步词表、异步权重投影且目标验证不变；新草稿瓶颈削减粒度。（原文：图 2 动态词表（PDF 第 4 页））	scored
@@ -711,7 +711,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 710	chien26b	2	3	4	2	54		知识触发异步LLM/搜索、过渡语等待后接证据，主要全双工语音检索调度工程。（原文：图 3（PDF 第 3 页））	scored
 711	chihara26a	4	4	3	4	76		协变量转移核前向积分回归调整并正交/交叉拟合，利用随机实验纵向状态信息改进效应估计。（原文：§4 动态调整（PDF 第 3 页））	scored
 712	ching26a	4	4	3	4	76		Transformer构造局部多项式核与迭代LS并给minimax率，明确ICL非参数回归的可实现计算/样本条件。（原文：§2.4 架构（PDF 第 4 页））	scored
-713	chiu26a	1	2	4	1	38		多轮工作竞标/评分/技能投入模拟及自评提示，主要市场基准与常规规划提示。（原文：市场机制（PDF 第 3 页））	scored
+713	chiu26a							复核§4.2–4.5（PDF第6–7页）：SSA新增是让提示依次自评技能、分析竞争者、长期投资的通用推理scaffold，受控市场实验肯定有结果，但未新增技能估计、对手学习或投资优化规则；普通规划提示在劳动力模拟的应用不足单列。	rule-excluded
 714	chlon26a	3	3	3	3	60		顺序换位波动与信息预算下界后概率混排拒答，构造明确但阈值/二元判决条件专门。（原文：图 1–3（PDF 第 2 页））	scored
 715	cho26a	4	4	4	4	80		估中间态径/切方向、只放大切向更新，无额外NFE；独立于引导类型的几何修正算子。（原文：定理 4.1（PDF 第 5 页））	scored
 716	cho26b	4	4	4	3	77		被删token相对位置补保留token注意力、代表性/冗余选合并锚，补偿失真机制具体，压缩同类较多。（原文：图 3、锚点（PDF 第 5 页））	scored
@@ -771,7 +771,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 770	colaco26a	4	4	4	4	80		模型调用MDP值迭代找常见轨迹，只训前缀融合器并证据达阈停，将stacking和cascade联动。（原文：§3.1（PDF 第 4 页））	scored
 771	colamonaco26a	3	3	4	2	61		分割部件原型、概念映射表与原型编辑，验证接口好用但主体原型CBM机制成熟。（原文：图 2–3（PDF 第 3 页））	scored
 772	colini-baldeschi26a	4	4	3	4	76		匹配规则诱导子群上多校准更新边预测，保证新预测最优匹配对规则类收益，明确预测校准到决策收益桥。（原文：图 1（PDF 第 3 页））	scored
-773	collart26a	1	2	4	1	38		功能性状NN映生态模型参数并约束范围/动力，主要混合模型的土壤过程应用。（原文：§3（PDF 第 3 页））	scored
+773	collart26a							复核§3.2式2–5及表1（PDF第3–5页）：既有土壤ODE接MLP参数预测、sigmoid区间约束与生态不等式相对ReLU罚。隐藏状态现实性控制有用，但核心仍是常规受约束神经ODE的领域实例化，独立新增为土壤先验/数据而非不同于既有方法的学习规则。	rule-excluded
 774	collina26a	4	4	3	4	76		多领导者竞争均衡在代理效用近凸包覆盖用户效用下诱发对齐，给多轮竞争有效条件而非泛称竞争更好。（原文：博弈定义（PDF 第 6 页））	scored
 775	cong26a	3	3	4	3	64		N:M稀疏移在线激活，范数补偿/LoRA/跳过配融合核，主要硬件稀疏落点与误差控制工程。（原文：§4（PDF 第 4 页））	scored
 776	conrad26a	4	4	4	4	80		条件几何分位校有符号距离、向量分数径向秩各给多元区域，区别标量逐维拼区间。（原文：§4 两种校准（PDF 第 5 页））	scored
@@ -836,7 +836,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 835	das26b	4	3	3	4	70		纤维平行输运后Hilbert集中并用曲率×环路面积控歧义，提供流形统计可用误差项，几何条件专门。（原文：定理1–2 集中界（PDF 第 4 页））	scored
 836	das26c	4	3	3	4	70		世界模型稀疏/事实规则性下创新概率近刻画幻觉率，理论边界清楚，但n-gram/世界假设限制外推。（原文：定理3.3 与4.1（PDF 第 6 页））	scored
 837	dasgupta26a	4	4	5	4	84		topK+剩余质量KL与归一尾KL解耦并归一尾权重，直接避免小概率教师信号被淹没，非扩大蒸馏数据。（原文：§2（PDF 第 2 页））	scored
-838	datta26a	1	2	4	1	38		场景→流图→领域检查→编译模拟校准/反馈重生，主要流行病代理工具管线。（原文：图 2、§4（PDF 第 4 页））	scored
+838	datta26a							复核§4.2–4.5（PDF第4–5页）：显式流图IR、图/代码一致、非负/人口守恒、数值稳定与LLM反馈再生成均具体可执行；但方法为通用IR→约束验证→编译→校准闭环的流行病移植，未新增图编译、参数更新或验证算法，领域机制解释不足取代独立技术增量。	rule-excluded
 839	datta26b	2	3	4	2	54		键到局部质心欧氏离群保留，径角信息可解释但属于廉价几何KV评分变体。（原文：§3（PDF 第 4 页））	scored
 840	dauncey26a	4	5	4	4	86		字节下采样边界策略REINFORCE、控制变量/时间折扣及率约束，端到端离散分词优化机制完整。（原文：§2.2（PDF 第 2 页））	scored
 841	davidov26a	4	4	5	4	84		拒答纳入RL动作，价值低于拒答奖即停，逐步探针近似价值；决策阈值有目标推导而非任意confidence停。（原文：§3.2（PDF 第 4 页））	scored
@@ -964,7 +964,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 963	drago26a	4	4	3	4	76		偏好RL可识别兼容奖励集而非任意点奖，按轨迹查询基底/方差自适应估计，查询设计与可辨条件明确。（原文：§3（PDF 第 4 页））	scored
 964	du26a	4	4	4	4	80		反向事实可学T²=I的Householder映射并等变对齐，固定实体库反射检索；具体关系几何修复，不是只逆序增广。（原文：§4.1、式 6（PDF 第 4 页））	scored
 965	du26b	2	3	4	2	54		PPO加critic CKA、actor翻转罚和KDE新颖奖，主要多稳定/探索目标拼装。（原文：§3 正则与塑形（PDF 第 3 页））	scored
-966	du26c	1	2	4	1	38		摄影七维动作规划SFT/GRPO加条件编辑器，专门内容产品管线，无法独立改变具身技术选择。（原文：图3 两阶段（PDF 第 4 页））	scored
+966	du26c							复核§4.2–4.3式2–8（PDF第5–6页）：logit期望评分明确承接已有方法，动作奖励是格式/参考语义/创造性分数相加，编辑器仍按既有rectified-flow对(poor,good,action)微调。未发现新的可微奖励接口——规划与编辑仍分阶段；独立新增主要为摄影七维动作/对齐数据和应用管线，不能把‘logit可读’误称新设计。	rule-excluded
 967	du26d	3	3	4	2	61		个性多尺度专家+共享专家按谱扩缩容量，主要联邦MoE/动态容量组件。（原文：§3 专家方法（PDF 第 3 页））	scored
 968	du26e	4	4	4	3	77		缓存分配可用RL探针学生成质量敏感头，关键头全历史其余sink+local；具体可部署头级保留结构。（原文：§3 头选择（PDF 第 3 页））	scored
 969	du26f	2	3	3	2	50		频段幅相对齐和样本归一用于生物跨主体，主要频谱/域适应组件迁移。（原文：§4.2–4.3 频带及归一化（PDF 第 4 页））	scored
@@ -995,7 +995,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 994	duetting26a	4	4	3	4	76		动态子模可维护多抗删coreset并随机错峰重算/过渡合解，给稳定低recourse机制；适合动态训练子集但对象假设专门。（原文：技术概览（PDF 第 3 页））	scored
 995	dufour26a	4	4	4	3	77		T2I预训可保所有样本、奖励码共同条件化，推断高低码引导作软倾斜；区别硬删低分数据。（原文：§2（PDF 第 2 页））	scored
 996	dupuis26a	4	4	3	4	76		扩散loss噪声时间权重可按单侧Lipschitz/耗散下最终KL/W界选择，纠高噪score误差贡献，条件明确。（原文：定理 3.10、4.3（PDF 第 6 页））	scored
-997	durani26a	2	3	4	2	54		分离/凝聚/异质/PH难度向量及Gaussian零基准，主要聚类评测诊断指标组合。（原文：表 1–2（PDF 第 3 页））	scored
+997	durani26a							复核§3.2、§5.1及§6.1–6.5（PDF第3–9页）：确有分离gate和拓扑/尺度不同失效解释，但§6.1先按标签NMI挑每数据集最佳表示，再以难度坐标追溯分组变化，§8明确需参考标签诊断。现有证据主要为多指标分组看分与后验归因，没有独立的新聚类/修复操作或前瞻验证的选择规则，不把描述性regime包装普遍机制。	rule-excluded
 998	durasinovic26a	4	2	3	4	64		混合分布moment-SOS SDP层次求W2/TV最邻并抽成分，可选kmeans/EM初始化但紧半代数条件和成本强。（原文：图 1、定理 3.1（PDF 第 5 页））	scored
 999	dutta26a	4	4	5	4	84		InfoNCE batch可按子模难度且不撞正例贪心组、缓存重排，选择实际交互负例而非独立hard mining。（原文：定理 5.11（PDF 第 5 页））	scored
 1000	dutta26b	4	4	4	3	77		传感表征可用通道文本条件时序卷积/门控且保通道置换等变，在JEPA共享稳定语义，面向传感接口有具体结构。（原文：图 1（PDF 第 3 页））	scored
@@ -1033,7 +1033,7 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 1032	es-sebbani26a	1	2	4	1	38		参数化2CNF隔离backbone/桥接/对称难点并验SAT见证，主要推理稳健性基准。（原文：§3（PDF 第 3 页））	scored
 1033	escamilla26a	4	4	3	4	76		线性MDP奖励投毒可行性用统一正Q间隙QP判定并给成本，明确奖励通道何时能被防/攻。（原文：定理 4.2（PDF 第 3 页））	scored
 1034	esteves26a	4	4	4	4	80		图像扩散可据功率谱定有效噪声两端及频率/功率混合logSNR，选择数据适配调度而非固定SNR。（原文：图 2（PDF 第 3 页））	scored
-1035	estevez26a	1	2	4	1	38		LLM临床二元规则、可执行验证、大小权重/多样性搜索，主要专门评分系统管线。（原文：表 1（PDF 第 4 页））	scored
+1035	estevez26a							复核§4算法1（PDF第5–6页）：语法限定LLM提规则、工具算AUROC、按正例覆盖Jaccard去冗余、再组紧凑单位权重清单，真实步骤完整；但属于常规语义提案/统计过滤/子集组装用于临床checklist，未辨认独立的新搜索、接受准则或神经学习规则，不能仅有可执行步骤就算新机制。	rule-excluded
 1036	estevez26b	3	3	3	3	60		细胞表达几何与LR交互结构对齐后flow端点，结构耦合具体但具身/DL新选择未独立于生物对象，相关性另列。（原文：图 1、§4.1（PDF 第 4 页））	scored
 1037	evangelidis26a	4	4	3	4	76		初始化/lazy网络局部Lipschitz可用宽度无关Jacobian谱界认证，直接改变稳健性估界而非放宽宽度。（原文：表 1（PDF 第 2 页））	scored
 1038	evans26a	3	3	4	2	61		按next-token熵调分支宽并剪候选，易用但常规不确定性搜索预算启发式。（原文：§3（PDF 第 3 页））	scored

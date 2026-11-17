@@ -69,7 +69,6 @@ Model-wide design and information flow.
 - [Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging](../../conferences/icml-2026/cards/0601-0700.md#chen26ga-architecture) · 中文
 - [SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation](../../conferences/icml-2026/cards/0701-0800.md#choy26a-architecture) · 中文
 - [Native Spatio-Temporal 4D Variational Autoencoder](../../conferences/icml-2026/cards/0901-1000.md#ding26u-architecture) · 中文
-- [AesFormer: Transform Everyday Photos into Beautiful Memories](../../conferences/icml-2026/cards/0901-1000.md#du26c-architecture) · 中文
 - [Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](../../conferences/icml-2026/cards/0901-1000.md#duan26e-architecture) · 中文
 - [CODiff: One-Step Diffusion Model for Camouflaged Object Detection](../../conferences/icml-2026/cards/1101-1200.md#fu26l-architecture) · 中文
 - [DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation](../../conferences/icml-2026/cards/1201-1300.md#gao26aq-architecture) · 中文
@@ -314,7 +313,6 @@ Model-wide design and information flow.
 - [StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution](../../conferences/icml-2026/cards/0401-0500.md#chen26aa-architecture) · 中文
 - [From Holo Pockets to Electron Density: GPT-style Drug Design with Density](../../conferences/icml-2026/cards/0501-0600.md#chen26ai-architecture) · 中文
 - [Co-Generative De Novo Functional Protein Design](../../conferences/icml-2026/cards/0501-0600.md#chen26cu-architecture) · 中文
-- [Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems](../../conferences/icml-2026/cards/0701-0800.md#collart26a-architecture) · 中文
 - [SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles](../../conferences/icml-2026/cards/0701-0800.md#cretu26a-architecture) · 中文
 - [Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](../../conferences/icml-2026/cards/0801-0900.md#dagli26a-architecture) · 中文
 - [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](../../conferences/icml-2026/cards/0801-0900.md#dai26a-architecture) · 中文

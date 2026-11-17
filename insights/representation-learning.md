@@ -39,8 +39,6 @@
 - [细粒度类别发现](../conferences/icml-2026/cards/0401-0500.md#cendra26a-representation-learning) · PartCo: Part-Level Correspondence Priors Enhance Category Discovery
 - [球面旋转不变水印](../conferences/icml-2026/cards/0501-0600.md#chen26ca-representation-learning) · Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling
 - [动态点云的参考与残差表征](../conferences/icml-2026/cards/0601-0700.md#chen26ee-representation-learning) · DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds
-- [异构视觉表征的聚类共识](../conferences/icml-2026/cards/0601-0700.md#chen26ek-representation-learning) · Multiview Self-Representation Learning across Heterogeneous Views
-- [复数表征的分布外识别](../conferences/icml-2026/cards/0601-0700.md#chen26fh-representation-learning) · TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification
 - [概率门控的非负对比表征](../conferences/icml-2026/cards/0801-0900.md#cui26k-representation-learning) · Bayesian Gated Non-Negative Contrastive Learning
 - [基元场重写局部视觉 token](../conferences/icml-2026/cards/0801-0900.md#dai26b-representation-learning) · Identifying Latent Concepts and Structures for Generalized Category Discovery
 - [用 SVM 边界精炼视觉表征](../conferences/icml-2026/cards/0901-1000.md#ding26f-representation-learning) · DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization

@@ -626,7 +626,6 @@
 - [蛋白结合物设计](../conferences/icml-2026/cards/0301-0400.md#cao26c-inference) · Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
 - [对接预测梯度反演](../conferences/icml-2026/cards/0501-0600.md#chen26bu-inference) · Towards Docking-oriented De Novo Ligand Design via Gradient Inversion
 - [粗粒化玻尔兹曼重要性采样](../conferences/icml-2026/cards/0601-0700.md#chen26gs-inference) · Coarse-Grained Boltzmann Generators
-- [流行病模拟器的流图验证](../conferences/icml-2026/cards/0801-0900.md#datta26a-inference) · Agentic Framework for Epidemiological Modeling
 - [逆设计流的零锚定置信度](../conferences/icml-2026/cards/0801-0900.md#de-campos26a-inference) · Generative Inverse Design with Abstention via Diagonal Flow Matching
 - [重尾扩散桥的肠鸣音分离](../conferences/icml-2026/cards/0901-1000.md#ding26a-inference) · Listening Through the Noise: Cauchy-Driven Diffusion Bridges for Robust Gastrointestinal Auscultation and Clinical Benchmarking
 - [谱空间扩散的 PDE 后验引导](../conferences/icml-2026/cards/1101-1200.md#gallon26a-inference) · Physics-Informed Diffusion Models in Spectral Space

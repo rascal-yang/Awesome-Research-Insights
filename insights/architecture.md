@@ -69,7 +69,6 @@
 - [压缩成像的连续光谱先验](../conferences/icml-2026/cards/0601-0700.md#chen26ga-architecture) · Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Spectral Super-Resolution for Snapshot Compressive Imaging
 - [开放词汇三维实例分割](../conferences/icml-2026/cards/0701-0800.md#choy26a-architecture) · SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation
 - [原生四维体素自编码](../conferences/icml-2026/cards/0901-1000.md#ding26u-architecture) · Native Spatio-Temporal 4D Variational Autoencoder
-- [照片结构重构的动作条件编辑](../conferences/icml-2026/cards/0901-1000.md#du26c-architecture) · AesFormer: Transform Everyday Photos into Beautiful Memories
 - [病理去焦模糊的局部积分算子](../conferences/icml-2026/cards/0901-1000.md#duan26e-architecture) · Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring
 - [单步伪装物体掩码预测](../conferences/icml-2026/cards/1101-1200.md#fu26l-architecture) · CODiff: One-Step Diffusion Model for Camouflaged Object Detection
 - [按类别难度隔离位姿学习梯度](../conferences/icml-2026/cards/1201-1300.md#gao26aq-architecture) · DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation
@@ -314,7 +313,6 @@
 - [对流风暴短时预报](../conferences/icml-2026/cards/0401-0500.md#chen26aa-architecture) · StormInsight: Hierarchical Environmental Forcing and Vertical Coupling for Convective Systems Evolution
 - [电子密度条件分子生成](../conferences/icml-2026/cards/0501-0600.md#chen26ai-architecture) · From Holo Pockets to Electron Density: GPT-style Drug Design with Density
 - [功能条件蛋白质共生成](../conferences/icml-2026/cards/0501-0600.md#chen26cu-architecture) · Co-Generative De Novo Functional Protein Design
-- [基因组性状到土壤碳动力学](../conferences/icml-2026/cards/0701-0800.md#collart26a-architecture) · Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems
 - [分子构象与合成路线的联合潜空间](../conferences/icml-2026/cards/0701-0800.md#cretu26a-architecture) · SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles
 - [机械属性场的自适应稀疏体素](../conferences/icml-2026/cards/0801-0900.md#dagli26a-architecture) · Adaptive Volumetric Mechanical Property Fields Invariant to Resolution
 - [时间驱动空间网络参数](../conferences/icml-2026/cards/0801-0900.md#dai26a-architecture) · TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs

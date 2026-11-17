@@ -39,8 +39,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [PartCo: Part-Level Correspondence Priors Enhance Category Discovery](../../conferences/icml-2026/cards/0401-0500.md#cendra26a-representation-learning) · 中文
 - [Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling](../../conferences/icml-2026/cards/0501-0600.md#chen26ca-representation-learning) · 中文
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](../../conferences/icml-2026/cards/0601-0700.md#chen26ee-representation-learning) · 中文
-- [Multiview Self-Representation Learning across Heterogeneous Views](../../conferences/icml-2026/cards/0601-0700.md#chen26ek-representation-learning) · 中文
-- [TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification](../../conferences/icml-2026/cards/0601-0700.md#chen26fh-representation-learning) · 中文
 - [Bayesian Gated Non-Negative Contrastive Learning](../../conferences/icml-2026/cards/0801-0900.md#cui26k-representation-learning) · 中文
 - [Identifying Latent Concepts and Structures for Generalized Category Discovery](../../conferences/icml-2026/cards/0801-0900.md#dai26b-representation-learning) · 中文
 - [DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization](../../conferences/icml-2026/cards/0901-1000.md#ding26f-representation-learning) · 中文
