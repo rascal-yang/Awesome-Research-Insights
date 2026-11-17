@@ -643,9 +643,7 @@
 - [用持久同调控制分子环闭合](../conferences/icml-2026/cards/3101-3200.md#maksymiuk26a-inference) · MacroGuide: Topological Guidance for Macrocycle Generation
 - [用粒子重采样引导 PDE 扩散求解](../conferences/icml-2026/cards/3301-3400.md#millard26a-inference) · Particle-Guided Diffusion Models for Partial Differential Equations
 - [用机理后验不确定性分配疫情扩散引导](../conferences/icml-2026/cards/3301-3400.md#min26b-inference) · Bridging Dynamics and Data: A Unified Diffusion Framework for Mechanistically-Informed Epidemic Forecasting
-- [用真实路径算子约束降雨扩散后验](../conferences/icml-2026/cards/3301-3400.md#moufad26a-inference) · Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors
 - [按结局和预测窗融合病历时间尺度](../conferences/icml-2026/cards/3501-3600.md#oufattole26a-inference) · MoRGen: Mixture-of-Resolutions Generative Forecasting for Irregularly Sampled Medical Time-Series Data
-- [用保守位点约束蛋白模板的闭环修改](../conferences/icml-2026/cards/3501-3600.md#ouyang26a-inference) · PDAgent: An LLM-Driven Autonomous Agent Framework Towards *In Silico* Protein Design via Directed Mutation
 - [用谱预测和正则伪逆实现单步采样](../conferences/icml-2026/cards/3501-3600.md#ouyang26c-inference) · Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion
 - [把组合分子筛选压成合成片段加法](../conferences/icml-2026/cards/3601-3700.md#pedawi26a-inference) · APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries
 - [稀疏观测双引导同化](../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation

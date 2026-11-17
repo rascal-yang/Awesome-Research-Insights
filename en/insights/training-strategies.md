@@ -276,7 +276,6 @@ Training schedules, curricula, and task or stage composition.
 - [Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](../../conferences/icml-2026/cards/3301-3400.md#mo26c-training-strategies) · 中文
 - [Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA](../../conferences/icml-2026/cards/3301-3400.md#mozaffari26a-training-strategies) · 中文
 - [DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](../../conferences/icml-2026/cards/3401-3500.md#neogi26a-training-strategies) · 中文
-- [UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis](../../conferences/icml-2026/cards/3401-3500.md#ning26d-training-strategies) · 中文
 - [From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](../../conferences/icml-2026/cards/3401-3500.md#oi26a-training-strategies) · 中文
 - [Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](../../conferences/icml-2026/cards/3501-3600.md#pang26b-training-strategies) · 中文
 - [STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits](../../conferences/icml-2026/cards/3501-3600.md#paraperas-papantoniou26a-training-strategies) · 中文
@@ -401,7 +400,6 @@ Training schedules, curricula, and task or stage composition.
 - [DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home](../../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · 中文
 - [From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding](../../conferences/icml-2026/cards/2901-3000.md#liu26em-training-strategies) · 中文
 - [Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis](../../conferences/icml-2026/cards/3201-3300.md#meng26c-training-strategies) · 中文
-- [Latent Diffusion Pretraining for Crystal Property Prediction](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26b-training-strategies) · 中文
 - [TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](../../conferences/icml-2026/cards/3401-3500.md#nguyen26g-training-strategies) · 中文
 - [Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling](../../conferences/icml-2026/cards/3701-3800.md#qiu26r-training-strategies) · 中文
 - [Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics](../../conferences/icml-2026/cards/3801-3900.md#ripken26a-training-strategies) · 中文

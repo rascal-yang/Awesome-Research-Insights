@@ -643,9 +643,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [MacroGuide: Topological Guidance for Macrocycle Generation](../../conferences/icml-2026/cards/3101-3200.md#maksymiuk26a-inference) · 中文
 - [Particle-Guided Diffusion Models for Partial Differential Equations](../../conferences/icml-2026/cards/3301-3400.md#millard26a-inference) · 中文
 - [Bridging Dynamics and Data: A Unified Diffusion Framework for Mechanistically-Informed Epidemic Forecasting](../../conferences/icml-2026/cards/3301-3400.md#min26b-inference) · 中文
-- [Bayesian Rain Field Reconstruction using Commercial Microwave Links and Diffusion Model Priors](../../conferences/icml-2026/cards/3301-3400.md#moufad26a-inference) · 中文
 - [MoRGen: Mixture-of-Resolutions Generative Forecasting for Irregularly Sampled Medical Time-Series Data](../../conferences/icml-2026/cards/3501-3600.md#oufattole26a-inference) · 中文
-- [PDAgent: An LLM-Driven Autonomous Agent Framework Towards *In Silico* Protein Design via Directed Mutation](../../conferences/icml-2026/cards/3501-3600.md#ouyang26a-inference) · 中文
 - [Primal-Spectral Generative Modeling: Fast Analytical Generation via Pseudoinverse Lévy Inversion](../../conferences/icml-2026/cards/3501-3600.md#ouyang26c-inference) · 中文
 - [APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries](../../conferences/icml-2026/cards/3601-3700.md#pedawi26a-inference) · 中文
 - [LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation](../../conferences/icml-2026/cards/3601-3700.md#peng26d-inference) · 中文

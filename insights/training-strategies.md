@@ -276,7 +276,6 @@
 - [三维关系推理蒸馏](../conferences/icml-2026/cards/3301-3400.md#mo26c-training-strategies) · Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs
 - [用预期问答效用路由并汇总持续 VQA 专家](../conferences/icml-2026/cards/3301-3400.md#mozaffari26a-training-strategies) · Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA
 - [文档定位推理验证](../conferences/icml-2026/cards/3401-3500.md#neogi26a-training-strategies) · DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA
-- [用渐进多模态训练共享医学理解和生成模型](../conferences/icml-2026/cards/3401-3500.md#ning26d-training-strategies) · UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis
 - [多图视角动作推理](../conferences/icml-2026/cards/3401-3500.md#oi26a-training-strategies) · From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models
 - [在词义和声学冲突时学习用声学作答](../conferences/icml-2026/cards/3501-3600.md#pang26b-training-strategies) · Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox
 - [解耦语音动作和肖像视角训练](../conferences/icml-2026/cards/3501-3600.md#paraperas-papantoniou26a-training-strategies) · STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits
@@ -401,7 +400,6 @@
 - [为多任务健康模型组合共享和条件适配](../conferences/icml-2026/cards/2801-2900.md#liu26br-training-strategies) · DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home
 - [无线信号扩散中的可学习物理信道](../conferences/icml-2026/cards/2901-3000.md#liu26em-training-strategies) · From Denoising to De-Channeling: Integrating Physical Channel Priors into Diffusion Models for Radio Signal Understanding
 - [用亚群原型路由联邦专家](../conferences/icml-2026/cards/3201-3300.md#meng26c-training-strategies) · Fair-FedMOE: Group-Fair One-Shot Federated Learning via Prototype-Guided Experts for Medical Imaging Analysis
-- [在晶体潜空间上预训练扩散性质编码器](../conferences/icml-2026/cards/3301-3400.md#mukherjee26b-training-strategies) · Latent Diffusion Pretraining for Crystal Property Prediction
 - [按通道构建时序后门防御的可信池](../conferences/icml-2026/cards/3401-3500.md#nguyen26g-training-strategies) · TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting
 - [让分子结构与序列的生成时钟学习最优耦合](../conferences/icml-2026/cards/3701-3800.md#qiu26r-training-strategies) · Demystifying Multimodal Biomolecular Co-design With Intrinsic Geodesic Coupling
 - [只用瞬时力学习大步长动力学](../conferences/icml-2026/cards/3801-3900.md#ripken26a-training-strategies) · Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics

@@ -205,7 +205,6 @@
 - <a id="mo26c-training-strategies"></a>[Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](../conferences/icml-2026/cards/3301-3400.md#paper-mo26c)
 - <a id="mozaffari26a-training-strategies"></a>[Calibrated Knowledge Aggregation in Bayesian Mixture-of-Experts for Continual VQA](../conferences/icml-2026/cards/3301-3400.md#paper-mozaffari26a)
 - <a id="neogi26a-training-strategies"></a>[DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA](../conferences/icml-2026/cards/3401-3500.md#paper-neogi26a)
-- <a id="ning26d-training-strategies"></a>[UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis](../conferences/icml-2026/cards/3401-3500.md#paper-ning26d)
 - <a id="oi26a-training-strategies"></a>[From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](../conferences/icml-2026/cards/3401-3500.md#paper-oi26a)
 - <a id="pang26b-training-strategies"></a>[Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](../conferences/icml-2026/cards/3501-3600.md#paper-pang26b)
 - <a id="paraperas-papantoniou26a-training-strategies"></a>[STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits](../conferences/icml-2026/cards/3501-3600.md#paper-paraperas-papantoniou26a)
