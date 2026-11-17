@@ -452,7 +452,6 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="luo26k-evaluation"></a>[AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26k)
 - <a id="luo26n-evaluation"></a>[Vision Language Models Cannot Reason About Physical Transformation](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26n)
 - <a id="ma26t-evaluation"></a>[The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26t)
-- <a id="ma26am-evaluation"></a>[CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26am)
 - <a id="ma26as-evaluation"></a>[What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26as)
 - <a id="mao26b-evaluation"></a>[BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26b)
 - <a id="mao26j-evaluation"></a>[STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26j)

@@ -496,7 +496,6 @@
 - [把提示设计者与文生图底座分开做可控评测](../conferences/icml-2026/cards/3001-3100.md#luo26k-evaluation) · AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters
 - [用成对守恒与非守恒条件剥离物理判断的文本先验](../conferences/icml-2026/cards/3001-3100.md#luo26n-evaluation) · Vision Language Models Cannot Reason About Physical Transformation
 - [按样本的跨模态差异评估联邦成员推断暴露](../conferences/icml-2026/cards/3101-3200.md#ma26t-evaluation) · The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance
-- [组合指令音乐奖励评测](../conferences/icml-2026/cards/3101-3200.md#ma26am-evaluation) · CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction
 - [视觉工具强化学习收益归因](../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom
 - [将语音函数调用拆成转录与端到端两套可执行测试](../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · BFCL Audio: An Audio Function Calling Evaluation for Large Language Models
 - [按去噪时段诊断多模态红队风险](../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack

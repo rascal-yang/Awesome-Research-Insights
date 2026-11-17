@@ -496,7 +496,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](../../conferences/icml-2026/cards/3001-3100.md#luo26k-evaluation) · 中文
 - [Vision Language Models Cannot Reason About Physical Transformation](../../conferences/icml-2026/cards/3001-3100.md#luo26n-evaluation) · 中文
 - [The Hidden Risk: Membership Inference Attacks on Multimodal Federated Learning via Modality Imbalance](../../conferences/icml-2026/cards/3101-3200.md#ma26t-evaluation) · 中文
-- [CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../../conferences/icml-2026/cards/3101-3200.md#ma26am-evaluation) · 中文
 - [What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · 中文
 - [BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · 中文
 - [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · 中文
