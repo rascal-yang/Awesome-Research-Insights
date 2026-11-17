@@ -2092,7 +2092,6 @@ kobalczyk26a	ml-foundations	optimization
 kobanda26a	reinforcement-learning	reinforcement-learning
 kobayashi26a	ml-foundations	data-strategies
 koc26a	ml-foundations	optimization
-kock26a	reinforcement-learning	theory-statistics
 koeppe26a	reinforcement-learning	architecture
 koh26a	multimodal	architecture
 koke26a	graph-and-recommendation	theory-statistics
@@ -2145,7 +2144,6 @@ kuang26b	computer-vision	loss-functions
 kuang26c	ml-foundations	theory-statistics
 kuang26d	scientific-ml	evaluation
 kubaty26a	ml-foundations	inference
-kulkarni26a	ml-foundations	theory-statistics
 kulkarni26b	ml-foundations	theory-statistics
 kulkarni26c	llm	evaluation
 kumar26a	computer-vision	training-strategies
@@ -2348,7 +2346,6 @@ li26as	ml-foundations	optimization
 li26at	multimodal	reinforcement-learning
 li26au	llm	reinforcement-learning
 li26av	llm	data-strategies
-li26aw	ml-foundations	theory-statistics
 li26ax	llm	optimization
 li26ay	robotics	modules
 li26az	llm	training-strategies

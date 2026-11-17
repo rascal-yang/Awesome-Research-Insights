@@ -126,7 +126,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions](../../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · 中文
 - [Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](../../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · 中文
 - [Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality](../../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · 中文
-- [Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems](../../conferences/icml-2026/cards/2101-2200.md#kock26a-theory-statistics) · 中文
 - [Refined Analysis of Entropy-Regularized Actor-Critic](../../conferences/icml-2026/cards/2201-2300.md#labbi26a-theory-statistics) · 中文
 - [Population-Aware Imitation Learning in Mean-field Games with Common Noise](../../conferences/icml-2026/cards/2201-2300.md#lambrecht26a-theory-statistics) · 中文
 - [Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes](../../conferences/icml-2026/cards/2301-2400.md#lederer26a-theory-statistics) · 中文
@@ -405,7 +404,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit](../../conferences/icml-2026/cards/2201-2300.md#koyuncu26a-theory-statistics) · 中文
 - [Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues](../../conferences/icml-2026/cards/2201-2300.md#kramp26a-theory-statistics) · 中文
 - [SCORE: A Unified Framework for Overshoot Refund in Online FDR Control](../../conferences/icml-2026/cards/2201-2300.md#kuang26c-theory-statistics) · 中文
-- [How to Price Data: A Market Equilibrium Based Approach](../../conferences/icml-2026/cards/2201-2300.md#kulkarni26a-theory-statistics) · 中文
 - [Differentially Private Geodesic Regression](../../conferences/icml-2026/cards/2201-2300.md#kulkarni26b-theory-statistics) · 中文
 - [Combinatorial Sparse PCA Beyond the Spiked Identity Model](../../conferences/icml-2026/cards/2201-2300.md#kumar26g-theory-statistics) · 中文
 - [Quantifying the noise sensitivity of the Wasserstein metric for images](../../conferences/icml-2026/cards/2201-2300.md#lager26a-theory-statistics) · 中文
@@ -424,7 +422,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks](../../conferences/icml-2026/cards/2301-2400.md#lei26f-theory-statistics) · 中文
 - [Dimension-free convergence of diffusion models for approximate Gaussian mixtures](../../conferences/icml-2026/cards/2301-2400.md#li26e-theory-statistics) · 中文
 - [Convergence Rate Analysis of the AdamW-Style Shampoo: Unifying One-Sided and Two-Sided Preconditioning](../../conferences/icml-2026/cards/2401-2500.md#li26ai-theory-statistics) · 中文
-- [Selling Data as a Digital Good with Scaling Valuations](../../conferences/icml-2026/cards/2401-2500.md#li26aw-theory-statistics) · 中文
 - [Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift](../../conferences/icml-2026/cards/2401-2500.md#li26bd-theory-statistics) · 中文
 - [Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables](../../conferences/icml-2026/cards/2401-2500.md#li26bz-theory-statistics) · 中文
 - [Mean-Shift PCA by Knockoff Mean](../../conferences/icml-2026/cards/2401-2500.md#li26cl-theory-statistics) · 中文

@@ -126,7 +126,6 @@
 - [用条件偏离限制低成交价](../conferences/icml-2026/cards/1801-1900.md#ipsen26a-theory-statistics) · Revenue Guarantees of No-Swap-Regret Dynamics in First Price Auctions
 - [按正则强度切换老虎机遗憾分析](../conferences/icml-2026/cards/1801-1900.md#ji26n-theory-statistics) · Near-Optimal Regret for KL-Regularized Multi-Armed Bandits
 - [用排序损失差直接近似探索概率](../conferences/icml-2026/cards/2101-2200.md#kim26ar-theory-statistics) · Follow-the-Perturbed-Leader for Decoupled Bandits: Best-of-Both-Worlds and Practicality
-- [用单边偏离收益验证独立学习者是否到均衡](../conferences/icml-2026/cards/2101-2200.md#kock26a-theory-statistics) · Deep Reinforcement Learning Finds Bayes-Nash Equilibrium in Competitive Newsvendor Problems
 - [用准确 critic 让随机策略梯度的方差随梯度消失](../conferences/icml-2026/cards/2201-2300.md#labbi26a-theory-statistics) · Refined Analysis of Entropy-Regularized Actor-Critic
 - [共同噪声下的人群感知模仿](../conferences/icml-2026/cards/2201-2300.md#lambrecht26a-theory-statistics) · Population-Aware Imitation Learning in Mean-field Games with Common Noise
 - [把逐步时序差分作为策略搜索的高斯过程观测](../conferences/icml-2026/cards/2301-2400.md#lederer26a-theory-statistics) · Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes
@@ -405,7 +404,6 @@
 - [用部分和完整计算的相关性估算退化](../conferences/icml-2026/cards/2201-2300.md#koyuncu26a-theory-statistics) · Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit
 - [用核谱模态分解学习曲线](../conferences/icml-2026/cards/2201-2300.md#kramp26a-theory-statistics) · Dynamics of neural scaling laws in random feature regression with powerlaw-distributed kernel eigenvalues
 - [把 e 值超额证据返还在线检验预算](../conferences/icml-2026/cards/2201-2300.md#kuang26c-theory-statistics) · SCORE: A Unified Framework for Overshoot Refund in Online FDR Control
-- [用最优响应偏离图分析数据定价](../conferences/icml-2026/cards/2201-2300.md#kulkarni26a-theory-statistics) · How to Price Data: A Market Equilibrium Based Approach
 - [按流形曲率校准测地回归隐私噪声](../conferences/icml-2026/cards/2201-2300.md#kulkarni26b-theory-statistics) · Differentially Private Geodesic Regression
 - [为一般协方差下的截断幂法构造初始化](../conferences/icml-2026/cards/2201-2300.md#kumar26g-theory-statistics) · Combinatorial Sparse PCA Beyond the Spiked Identity Model
 - [用像素网格的多尺度质量配平界估计噪声敏感度](../conferences/icml-2026/cards/2201-2300.md#lager26a-theory-statistics) · Quantifying the noise sensitivity of the Wasserstein metric for images
@@ -424,7 +422,6 @@
 - [附加发布物的隐私风险](../conferences/icml-2026/cards/2301-2400.md#lei26f-theory-statistics) · A Statistical Framework for Analyzing Specification Resistance to Learnware-Inversion Risks
 - [用高斯混合逼近分解扩散采样误差](../conferences/icml-2026/cards/2301-2400.md#li26e-theory-statistics) · Dimension-free convergence of diffusion models for approximate Gaussian mixtures
 - [把矩阵 Shampoo 的单双侧预条件放进同一谱范数分析](../conferences/icml-2026/cards/2401-2500.md#li26ai-theory-statistics) · Convergence Rate Analysis of the AdamW-Style Shampoo: Unifying One-Sided and Two-Sided Preconditioning
-- [规模收益下的数据生产与定价](../conferences/icml-2026/cards/2401-2500.md#li26aw-theory-statistics) · Selling Data as a Digital Good with Scaling Valuations
 - [域偏移下的蒸馏泛化](../conferences/icml-2026/cards/2401-2500.md#li26bd-theory-statistics) · Quantifying Cross-Domain Knowledge Distillation in the Presence of Domain Shift
 - [用外生噪声可分性界定因果候选效应](../conferences/icml-2026/cards/2401-2500.md#li26bz-theory-statistics) · Causal Effect Identifiability in the Presence of Latent Confounders Without Auxiliary Variables
 - [通过受控均值扰动鉴别主成分](../conferences/icml-2026/cards/2401-2500.md#li26cl-theory-statistics) · Mean-Shift PCA by Knockoff Mean
