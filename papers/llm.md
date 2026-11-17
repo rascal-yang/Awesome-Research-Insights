@@ -153,6 +153,8 @@
 - <a id="tang26ab-loss-functions"></a>[RSPO: Regularized Self-Play Alignment of Large Language Models](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ab)
 - <a id="ustaomeroglu26a-loss-functions"></a>[BLOCK-EM: Preventing Emergent Misalignment via Latent Blocking](../conferences/icml-2026/cards/4501-4600.md#paper-ustaomeroglu26a)
 - <a id="vuong26b-loss-functions"></a>[$f$-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models](../conferences/icml-2026/cards/4501-4600.md#paper-vuong26b)
+- <a id="wang26fa-loss-functions"></a>[Unbiased Alignment for Large Language Models with Noisy Preferences](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fa)
+- <a id="wang26fi-loss-functions"></a>[Rooted Absorbed Prefix Trajectory Balance with Submodular Replay for GFlowNet Training](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fi)
 
 <a id="by-optimization"></a>
 
@@ -244,6 +246,7 @@
 - <a id="wang26z-optimization"></a>[CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26z)
 - <a id="wang26dr-optimization"></a>[CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dr)
 - <a id="wang26el-optimization"></a>[TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization](../conferences/icml-2026/cards/4701-4800.md#paper-wang26el)
+- <a id="wang26ew-optimization"></a>[MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ew)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -935,6 +938,7 @@
 - <a id="wang26cu-inference"></a>[AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cu)
 - <a id="wang26ea-inference"></a>[CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ea)
 - <a id="wang26eb-inference"></a>[Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective](../conferences/icml-2026/cards/4701-4800.md#paper-wang26eb)
+- <a id="wang26ev-inference"></a>[Inference Time Optimization with Confidence Dynamics](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ev)
 
 <a id="by-representation-learning"></a>
 

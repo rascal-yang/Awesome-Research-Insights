@@ -577,6 +577,7 @@
 - [U统计量的投影残差采样](../conferences/icml-2026/cards/4601-4700.md#wang26cl-theory-statistics) · Learning $U$-Statistics with Active Inference
 - [源空间引导的L²误差边界](../conferences/icml-2026/cards/4601-4700.md#wang26da-theory-statistics) · Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions
 - [frequency-aligned-matrix-sign](../conferences/icml-2026/cards/4701-4800.md#wang26dx-theory-statistics) · Muon in Associative Memory Learning: Training Dynamics and Scaling Laws
+- [干扰网络下的策略值区间](../conferences/icml-2026/cards/4701-4800.md#wang26ez-theory-statistics) · Partial Identification of Policy Values under Network Interference
 
 <a id="by-graph-and-recommendation"></a>
 

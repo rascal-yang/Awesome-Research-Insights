@@ -163,6 +163,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26dl-loss-functions"></a>[One Coin Has Two Sides: Single Positive Multi Label Learning from Salient Annotations](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dl)
 - <a id="wang26ef-loss-functions"></a>[Preference-Calibrated Optimization with Score-Level Distribution Alignment for Text-to-Image Diffusion Model Unlearning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ef)
 - <a id="wang26eo-loss-functions"></a>[Fleet: Few Shots Lead Effective AI-generated Image Detection](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eo)
+- <a id="wang26eu-loss-functions"></a>[EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eu)
 
 <a id="by-optimization"></a>
 
@@ -219,6 +220,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="sun26l-reinforcement-learning"></a>[Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26l)
 - <a id="wang26an-reinforcement-learning"></a>[UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26an)
 - <a id="wang26bs-reinforcement-learning"></a>[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bs)
+- <a id="wang26fj-reinforcement-learning"></a>[TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fj)
 
 <a id="by-training-strategies"></a>
 

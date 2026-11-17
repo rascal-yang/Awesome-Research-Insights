@@ -16,7 +16,7 @@
 
 <a id="conference-sources"></a>
 
-**最新筛选 · 2026-11-18** · [ICML 2026 · 4,731 / 6,552 篇已筛选 · 收录 4,366 篇](conferences/icml-2026/README.md)
+**最新筛选 · 2026-11-18** · [ICML 2026 · 4,751 / 6,552 篇已筛选 · 收录 4,378 篇](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -24,17 +24,17 @@
 
 | 领域 | 收录论文 | 收录范围 |
 | :--- | ---: | :--- |
-| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 1280 | 语言模型、工具调用与智能体。 |
-| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 504 | 视觉识别、表征学习与生成。 |
+| <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 1284 | 语言模型、工具调用与智能体。 |
+| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 506 | 视觉识别、表征学习与生成。 |
 | <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 76 | 语言、语音、检索与文本处理。 |
 | <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 290 | 交互决策、奖励、策略学习与博弈。 |
 | <a id="robotics"></a>[机器人学](papers/robotics.md) | 172 | 机器人感知、策略学习、规划与控制。 |
-| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 449 | 跨视觉、文本、音频等模态的学习与推理。 |
-| <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 1042 | 通用学习方法、优化、学习理论与统计推断。 |
+| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 451 | 跨视觉、文本、音频等模态的学习与推理。 |
+| <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 1045 | 通用学习方法、优化、学习理论与统计推断。 |
 | <a id="graph-and-recommendation"></a>[图学习与推荐](papers/graph-and-recommendation.md) | 165 | 图模型、知识图谱与推荐系统。 |
-| <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 389 | 物理、医学、生物与工程中的机器学习。 |
+| <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 390 | 物理、医学、生物与工程中的机器学习。 |
 
-**共 4,367 篇论文、4,368 个技术机制。**
+**共 4,379 篇论文、4,380 个技术机制。**
 
 <a id="insights-by-technical-category"></a>
 
@@ -44,25 +44,25 @@
 | :--- | ---: | :--- |
 | <a id="architectures"></a>[模型架构](insights/architecture.md) | 371 | 整体架构与信息流。 |
 | <a id="computer-vision-modules"></a><a id="modules"></a>[模块](insights/modules.md) | 199 | 局部组件、连接与参数化。 |
-| <a id="loss-functions"></a>[损失函数](insights/loss-functions.md) | 214 | 训练目标、辅助监督与正则化。 |
-| <a id="optimization"></a>[优化](insights/optimization.md) | 426 | 梯度更新、求解器与优化过程。 |
-| <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 422 | 奖励、探索、信用分配与策略更新。 |
+| <a id="loss-functions"></a>[损失函数](insights/loss-functions.md) | 217 | 训练目标、辅助监督与正则化。 |
+| <a id="optimization"></a>[优化](insights/optimization.md) | 430 | 梯度更新、求解器与优化过程。 |
+| <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 424 | 奖励、探索、信用分配与策略更新。 |
 | <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 393 | 训练日程、微调、蒸馏与迁移。 |
 | <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 187 | 数据构造、筛选、标注与采样。 |
-| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 668 | 解码、搜索、推理时适配与高效执行。 |
+| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 669 | 解码、搜索、推理时适配与高效执行。 |
 | [表征学习](insights/representation-learning.md) | 308 | 表征提取、对齐、迁移与解耦。 |
-| [评测与诊断](insights/evaluation.md) | 601 | 基准、评测协议、消融与失效诊断。 |
-| [理论与统计](insights/theory-statistics.md) | 579 | 学习保证、反例、估计与统计检验。 |
+| [评测与诊断](insights/evaluation.md) | 602 | 基准、评测协议、消融与失效诊断。 |
+| [理论与统计](insights/theory-statistics.md) | 580 | 学习保证、反例、估计与统计检验。 |
 
 <a id="recent-updates"></a>
 
 ## 最近更新
 
+- **2026-11-18** · 筛选 ICML 2026 编号 4732–4751，同步更新收录索引。
+
 - **2026-11-18** · 筛选 ICML 2026 编号 4712–4731，同步更新收录索引。
 
 - **2026-11-18** · 筛选 ICML 2026 编号 4692–4711，同步更新收录索引。
-
-- **2026-11-18** · 复核 2 张 ICML 2026 论文卡，移除 2 张。
 
 <a id="icml-2026-first-batch"></a>
 

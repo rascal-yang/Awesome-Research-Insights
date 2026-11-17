@@ -53,6 +53,8 @@ Objectives, auxiliary supervision, and regularization.
 - [RSPO: Regularized Self-Play Alignment of Large Language Models](../../conferences/icml-2026/cards/4301-4400.md#tang26ab-loss-functions) · 中文
 - [BLOCK-EM: Preventing Emergent Misalignment via Latent Blocking](../../conferences/icml-2026/cards/4501-4600.md#ustaomeroglu26a-loss-functions) · 中文
 - [$f$-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models](../../conferences/icml-2026/cards/4501-4600.md#vuong26b-loss-functions) · 中文
+- [Unbiased Alignment for Large Language Models with Noisy Preferences](../../conferences/icml-2026/cards/4701-4800.md#wang26fa-loss-functions) · 中文
+- [Rooted Absorbed Prefix Trajectory Balance with Submodular Replay for GFlowNet Training](../../conferences/icml-2026/cards/4701-4800.md#wang26fi-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -93,6 +95,7 @@ Objectives, auxiliary supervision, and regularization.
 - [One Coin Has Two Sides: Single Positive Multi Label Learning from Salient Annotations](../../conferences/icml-2026/cards/4601-4700.md#wang26dl-loss-functions) · 中文
 - [Preference-Calibrated Optimization with Score-Level Distribution Alignment for Text-to-Image Diffusion Model Unlearning](../../conferences/icml-2026/cards/4701-4800.md#wang26ef-loss-functions) · 中文
 - [Fleet: Few Shots Lead Effective AI-generated Image Detection](../../conferences/icml-2026/cards/4701-4800.md#wang26eo-loss-functions) · 中文
+- [EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition](../../conferences/icml-2026/cards/4701-4800.md#wang26eu-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

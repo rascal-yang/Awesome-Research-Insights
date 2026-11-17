@@ -185,6 +185,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="sun26am-reinforcement-learning"></a>[ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26am)
 - <a id="uscidda26a-reinforcement-learning"></a>[The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning](../../conferences/icml-2026/cards/4501-4600.md#paper-uscidda26a)
 - <a id="wang26ep-reinforcement-learning"></a>[VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ep)
+- <a id="wang26fe-reinforcement-learning"></a>[Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fe)
 
 <a id="by-training-strategies"></a>
 
@@ -503,6 +504,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="uselis26b-evaluation"></a>[How can embedding models bind concepts?](../../conferences/icml-2026/cards/4501-4600.md#paper-uselis26b)
 - <a id="wan26m-evaluation"></a>[Multimodal Fact-Level Attribution for Verifiable Reasoning](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26m)
 - <a id="wang26cf-evaluation"></a>[Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cf)
+- <a id="wang26fm-evaluation"></a>[Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fm)
 
 <a id="by-theory-statistics"></a>
 

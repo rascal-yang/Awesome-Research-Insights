@@ -208,6 +208,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="real26a-optimization"></a>[AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](../../conferences/icml-2026/cards/3801-3900.md#paper-real26a)
 - <a id="rubbi26a-optimization"></a>[Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments](../../conferences/icml-2026/cards/3901-4000.md#paper-rubbi26a)
 - <a id="saveliev26a-optimization"></a>[Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback](../../conferences/icml-2026/cards/3901-4000.md#paper-saveliev26a)
+- <a id="wang26ey-optimization"></a>[JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ey)
 
 <a id="by-reinforcement-learning"></a>
 

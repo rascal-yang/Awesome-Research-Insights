@@ -198,6 +198,7 @@
 - [终局奖励分布作短段回报](../conferences/icml-2026/cards/4201-4300.md#sun26l-reinforcement-learning) · Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function
 - [前向重加噪声轨迹的GRPO](../conferences/icml-2026/cards/4601-4700.md#wang26an-reinforcement-learning) · UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models
 - [几何奖励与动态约束轮换](../conferences/icml-2026/cards/4601-4700.md#wang26bs-reinforcement-learning) · World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
+- [跨轨迹正负锚对齐](../conferences/icml-2026/cards/4701-4800.md#wang26fj-reinforcement-learning) · TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment
 
 <a id="by-nlp"></a>
 
@@ -434,6 +435,7 @@
 - [正确性校准工具奖励](../conferences/icml-2026/cards/4301-4400.md#sun26am-reinforcement-learning) · ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning
 - [minimal-consistency-matching](../conferences/icml-2026/cards/4501-4600.md#uscidda26a-reinforcement-learning) · The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning
 - [证据更新收益激励视觉奖励模型](../conferences/icml-2026/cards/4701-4800.md#wang26ep-reinforcement-learning) · VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning
+- [执行修改后再计算奖励](../conferences/icml-2026/cards/4701-4800.md#wang26fe-reinforcement-learning) · Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation
 
 <a id="by-ml-foundations"></a>
 

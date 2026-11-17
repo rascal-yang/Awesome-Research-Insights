@@ -198,6 +198,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Value-as-Return: A Two-Stage Framework to Align on the Optimal Score Function](../../conferences/icml-2026/cards/4201-4300.md#sun26l-reinforcement-learning) · 中文
 - [UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#wang26an-reinforcement-learning) · 中文
 - [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](../../conferences/icml-2026/cards/4601-4700.md#wang26bs-reinforcement-learning) · 中文
+- [TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment](../../conferences/icml-2026/cards/4701-4800.md#wang26fj-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -434,6 +435,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning](../../conferences/icml-2026/cards/4301-4400.md#sun26am-reinforcement-learning) · 中文
 - [The Art of Interrogation: Consistency Amplifies Factuality in Spatial Reasoning](../../conferences/icml-2026/cards/4501-4600.md#uscidda26a-reinforcement-learning) · 中文
 - [VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26ep-reinforcement-learning) · 中文
+- [Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation](../../conferences/icml-2026/cards/4701-4800.md#wang26fe-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -321,6 +321,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](../../conferences/icml-2026/cards/4601-4700.md#wang26cu-inference) · 中文
 - [CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG](../../conferences/icml-2026/cards/4701-4800.md#wang26ea-inference) · 中文
 - [Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective](../../conferences/icml-2026/cards/4701-4800.md#wang26eb-inference) · 中文
+- [Inference Time Optimization with Confidence Dynamics](../../conferences/icml-2026/cards/4701-4800.md#wang26ev-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

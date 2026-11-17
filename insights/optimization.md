@@ -99,6 +99,7 @@
 - [CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../conferences/icml-2026/cards/4601-4700.md#wang26z-optimization) · CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning
 - [soft-ternary-proxy](../conferences/icml-2026/cards/4701-4800.md#wang26dr-optimization) · CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs
 - [双分支四位子空间校准](../conferences/icml-2026/cards/4701-4800.md#wang26el-optimization) · TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization
+- [联合提示优化与过期分数刷新](../conferences/icml-2026/cards/4701-4800.md#wang26ew-optimization) · MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems
 
 <a id="by-computer-vision"></a>
 
@@ -417,6 +418,8 @@
 - [private-ridge-curvature-guard](../conferences/icml-2026/cards/4501-4600.md#wang26f-optimization) · Decoupling Regularization and Privacy in Differentially Private Ridge Regression and ERM
 - [临界RNN的局部闭环教学信号](../conferences/icml-2026/cards/4601-4700.md#wang26be-optimization) · Global Credit Assignment via Dynamical Criticality
 - [tensor-history-clipping](../conferences/icml-2026/cards/4601-4700.md#wang26dg-optimization) · AdaGC: Enhancing LLM Pretraining Stability via Adaptive Gradient Clipping
+- [损失预算确定SAM扰动半径](../conferences/icml-2026/cards/4701-4800.md#wang26ex-optimization) · Fix the Loss, Not the Radius: Rethinking the Adversarial Perturbation of Sharpness-Aware Minimization
+- [不确定精英权重的条件期望](../conferences/icml-2026/cards/4701-4800.md#wang26ff-optimization) · Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -479,4 +482,5 @@
 - [分离算术结构搜索与误差认证](../conferences/icml-2026/cards/3801-3900.md#real26a-optimization) · AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions
 - [按过阈概率选择后续实验](../conferences/icml-2026/cards/3901-4000.md#rubbi26a-optimization) · Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments
 - [逐项影响反馈驱动的符号回归](../conferences/icml-2026/cards/3901-4000.md#saveliev26a-optimization) · Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback
+- [二阶训练的对称折叠流水线](../conferences/icml-2026/cards/4701-4800.md#wang26ey-optimization) · JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials
 <!-- classification:end -->

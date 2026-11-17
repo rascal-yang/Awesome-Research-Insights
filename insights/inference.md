@@ -321,6 +321,7 @@
 - [外部调用状态感知的时空调度](../conferences/icml-2026/cards/4601-4700.md#wang26cu-inference) · AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving
 - [跨模块图检索门](../conferences/icml-2026/cards/4701-4800.md#wang26ea-inference) · CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG
 - [有界奖励的自洽阈值整形](../conferences/icml-2026/cards/4701-4800.md#wang26eb-inference) · Reward Shaping for (Inference-Time) Alignment: A Stackelberg Game Perspective
+- [置信变化指导多样本选择](../conferences/icml-2026/cards/4701-4800.md#wang26ev-inference) · Inference Time Optimization with Confidence Dynamics
 
 <a id="by-computer-vision"></a>
 

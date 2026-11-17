@@ -541,6 +541,7 @@
 - [binding-vs-unimodal-recoverability](../conferences/icml-2026/cards/4501-4600.md#uselis26b-evaluation) · How can embedding models bind concepts?
 - [atomic-multimodal-attribution](../conferences/icml-2026/cards/4501-4600.md#wan26m-evaluation) · Multimodal Fact-Level Attribution for Verifiable Reasoning
 - [无害音频的跨模态安全干扰](../conferences/icml-2026/cards/4601-4700.md#wang26cf-evaluation) · Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models
+- [视觉压缩的安全与效用权衡](../conferences/icml-2026/cards/4701-4800.md#wang26fm-evaluation) · Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs
 
 <a id="by-ml-foundations"></a>
 

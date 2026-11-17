@@ -99,6 +99,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#wang26z-optimization) · 中文
 - [CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26dr-optimization) · 中文
 - [TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization](../../conferences/icml-2026/cards/4701-4800.md#wang26el-optimization) · 中文
+- [MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](../../conferences/icml-2026/cards/4701-4800.md#wang26ew-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -417,6 +418,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Decoupling Regularization and Privacy in Differentially Private Ridge Regression and ERM](../../conferences/icml-2026/cards/4501-4600.md#wang26f-optimization) · 中文
 - [Global Credit Assignment via Dynamical Criticality](../../conferences/icml-2026/cards/4601-4700.md#wang26be-optimization) · 中文
 - [AdaGC: Enhancing LLM Pretraining Stability via Adaptive Gradient Clipping](../../conferences/icml-2026/cards/4601-4700.md#wang26dg-optimization) · 中文
+- [Fix the Loss, Not the Radius: Rethinking the Adversarial Perturbation of Sharpness-Aware Minimization](../../conferences/icml-2026/cards/4701-4800.md#wang26ex-optimization) · 中文
+- [Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies](../../conferences/icml-2026/cards/4701-4800.md#wang26ff-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -479,4 +482,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](../../conferences/icml-2026/cards/3801-3900.md#real26a-optimization) · 中文
 - [Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments](../../conferences/icml-2026/cards/3901-4000.md#rubbi26a-optimization) · 中文
 - [Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback](../../conferences/icml-2026/cards/3901-4000.md#saveliev26a-optimization) · 中文
+- [JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/4701-4800.md#wang26ey-optimization) · 中文
 <!-- classification:end -->

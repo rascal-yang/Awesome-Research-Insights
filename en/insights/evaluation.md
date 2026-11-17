@@ -541,6 +541,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [How can embedding models bind concepts?](../../conferences/icml-2026/cards/4501-4600.md#uselis26b-evaluation) · 中文
 - [Multimodal Fact-Level Attribution for Verifiable Reasoning](../../conferences/icml-2026/cards/4501-4600.md#wan26m-evaluation) · 中文
 - [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26cf-evaluation) · 中文
+- [Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26fm-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
