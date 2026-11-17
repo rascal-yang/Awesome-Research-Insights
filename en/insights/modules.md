@@ -28,6 +28,8 @@ Reusable components and local changes to model inputs or connections.
 - [DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts](../../conferences/icml-2026/cards/1101-1200.md#feng26v-modules) · 中文
 - [Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models](../../conferences/icml-2026/cards/1201-1300.md#gao26y-modules) · 中文
 - [AdaSplash-2: Faster Differentiable Sparse Attention](../../conferences/icml-2026/cards/1301-1400.md#goncalves26a-modules) · 中文
+- [Residual Context Diffusion Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26as-modules) · 中文
+- [Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning](../../conferences/icml-2026/cards/1601-1700.md#huang26m-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -48,6 +50,7 @@ Reusable components and local changes to model inputs or connections.
 - [Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](../../conferences/icml-2026/cards/1401-1500.md#hadji26a-modules) · 中文
 - [Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization](../../conferences/icml-2026/cards/1401-1500.md#han26ab-modules) · 中文
 - [Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration](../../conferences/icml-2026/cards/1501-1600.md#he26an-modules) · 中文
+- [Interactive Segmentation with Elaborate Focus Prior](../../conferences/icml-2026/cards/1601-1700.md#hu26au-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -78,6 +81,7 @@ Reusable components and local changes to model inputs or connections.
 - [Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport](../../conferences/icml-2026/cards/1401-1500.md#han26aa-modules) · 中文
 - [Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](../../conferences/icml-2026/cards/1401-1500.md#he26b-modules) · 中文
 - [Unified Multimodal Visual Tracking with Dual Mixture-of-Experts](../../conferences/icml-2026/cards/1501-1600.md#hong26g-modules) · 中文
+- [TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](../../conferences/icml-2026/cards/1601-1700.md#hu26ba-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

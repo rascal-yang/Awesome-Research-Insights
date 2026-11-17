@@ -48,6 +48,7 @@
 ### 训练策略
 
 - <a id="geng26c-training-strategies"></a>[Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models](../conferences/icml-2026/cards/1201-1300.md#paper-geng26c)
+- <a id="hu26an-training-strategies"></a>[ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control](../conferences/icml-2026/cards/1601-1700.md#paper-hu26an)
 
 <a id="by-data-strategies"></a>
 
@@ -67,6 +68,7 @@
 - <a id="chien26b-inference"></a>[MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models](../conferences/icml-2026/cards/0701-0800.md#paper-chien26b)
 - <a id="du26i-inference"></a>[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](../conferences/icml-2026/cards/0901-1000.md#paper-du26i)
 - <a id="guo26x-inference"></a>[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](../conferences/icml-2026/cards/1301-1400.md#paper-guo26x)
+- <a id="hu26ac-inference"></a>[RAG without Forgetting: Continual Query-Infused Key Memory](../conferences/icml-2026/cards/1601-1700.md#paper-hu26ac)
 
 <a id="by-representation-learning"></a>
 
@@ -91,6 +93,7 @@
 - <a id="ghaffari26a-evaluation"></a>[BAT: Better Audio Transformer Guided by Convex Gated Probing](../conferences/icml-2026/cards/1201-1300.md#paper-ghaffari26a)
 - <a id="guo26w-evaluation"></a>[On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](../conferences/icml-2026/cards/1301-1400.md#paper-guo26w)
 - <a id="han26u-evaluation"></a>[MusicDET: Zero-Shot AI-Generated Music Detection](../conferences/icml-2026/cards/1401-1500.md#paper-han26u)
+- <a id="hu26t-evaluation"></a>[SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text](../conferences/icml-2026/cards/1601-1700.md#paper-hu26t)
 
 <a id="by-theory-statistics"></a>
 

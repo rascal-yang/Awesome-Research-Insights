@@ -46,6 +46,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](../../conferences/icml-2026/cards/1001-1100.md#fang26s-data-strategies) · 中文
 - [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](../../conferences/icml-2026/cards/1101-1200.md#gan26d-data-strategies) · 中文
 - [Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery](../../conferences/icml-2026/cards/1601-1700.md#hou26a-data-strategies) · 中文
+- [VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection](../../conferences/icml-2026/cards/1601-1700.md#hu26bk-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -109,6 +110,8 @@ Data selection, annotation, augmentation, and sampling.
 - [On the Difficulty of Learning a Meta-network for Training Data Selection](../../conferences/icml-2026/cards/0901-1000.md#du26u-data-strategies) · 中文
 - [Curated Synthetic Data Doesn’t Have to Collapse: A Theoretical Study of Generative Retraining with Pluralistic Preferences](../../conferences/icml-2026/cards/1001-1100.md#falahati26a-data-strategies) · 中文
 - [Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data](../../conferences/icml-2026/cards/1201-1300.md#gao26z-data-strategies) · 中文
+- [FedReLa: Imbalanced Federated Learning via Re-Labeling](../../conferences/icml-2026/cards/1601-1700.md#hu26ao-data-strategies) · 中文
+- [Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](../../conferences/icml-2026/cards/1601-1700.md#huang26c-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

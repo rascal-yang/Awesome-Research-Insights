@@ -1619,86 +1619,86 @@ number	pmlr_id	title	paper_url	insight_status
 1618	hsin-ying26a	MotiMotion: Motion-Controlled Video Generation with Visual Reasoning	https://proceedings.mlr.press/v306/hsin-ying26a.html	written
 1619	hsu26a	The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning	https://proceedings.mlr.press/v306/hsu26a.html	written
 1620	hu26a	ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding	https://proceedings.mlr.press/v306/hu26a.html	written
-1621	hu26b	Steal the Patch Size: Adversarially Manipulate Vision Language Models	https://proceedings.mlr.press/v306/hu26b.html	pending
-1622	hu26c	Towards Atoms of Large Language Models	https://proceedings.mlr.press/v306/hu26c.html	pending
-1623	hu26d	Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization	https://proceedings.mlr.press/v306/hu26d.html	pending
-1624	hu26e	Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations	https://proceedings.mlr.press/v306/hu26e.html	pending
-1625	hu26f	Finite-time Convergence Analysis of Actor-Critic with Evolving Reward	https://proceedings.mlr.press/v306/hu26f.html	pending
-1626	hu26g	Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces	https://proceedings.mlr.press/v306/hu26g.html	pending
-1627	hu26h	In-Context Universal Approximation, Compositional Generalization, and Algorithm Emulation	https://proceedings.mlr.press/v306/hu26h.html	pending
-1628	hu26i	InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate	https://proceedings.mlr.press/v306/hu26i.html	pending
-1629	hu26j	Embedding-perturbed Exploration Preference Optimization for Flow Models	https://proceedings.mlr.press/v306/hu26j.html	pending
-1630	hu26k	Faithful Mobile GUI Agents with Guided Advantage Estimator	https://proceedings.mlr.press/v306/hu26k.html	pending
-1631	hu26l	Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward	https://proceedings.mlr.press/v306/hu26l.html	pending
-1632	hu26m	PrivGate: Steering Contextual Integrity in LLMs via Latent Space Geometry	https://proceedings.mlr.press/v306/hu26m.html	pending
-1633	hu26n	Theory of Continual Learning Against Data Poisoning Attacks	https://proceedings.mlr.press/v306/hu26n.html	pending
-1634	hu26o	The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning	https://proceedings.mlr.press/v306/hu26o.html	pending
-1635	hu26p	DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation	https://proceedings.mlr.press/v306/hu26p.html	pending
-1636	hu26q	RVAS: Referring Video Active Exploration and Segmentation	https://proceedings.mlr.press/v306/hu26q.html	pending
-1637	hu26r	Online Learning and Inference for Cox Proportional Hazards Models Using Renewable Sieve Estimation	https://proceedings.mlr.press/v306/hu26r.html	pending
-1638	hu26s	See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition	https://proceedings.mlr.press/v306/hu26s.html	pending
-1639	hu26t	SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text	https://proceedings.mlr.press/v306/hu26t.html	pending
-1640	hu26u	MoVie: Multimodal Video Compression with Text Guidance	https://proceedings.mlr.press/v306/hu26u.html	pending
-1641	hu26v	SmartThinker: Progressive Chain-of-Thought Length Calibration for Efficient Large Language Model Reasoning	https://proceedings.mlr.press/v306/hu26v.html	pending
-1642	hu26w	Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation	https://proceedings.mlr.press/v306/hu26w.html	pending
-1643	hu26x	Hierarchical Anchor Graph Learning for Multi-View Clustering	https://proceedings.mlr.press/v306/hu26x.html	pending
-1644	hu26y	LightningRL: Breaking the Accuracy–Parallelism Trade-off of Block-wise dLLMs via Reinforcement Learning	https://proceedings.mlr.press/v306/hu26y.html	pending
-1645	hu26z	AURA: Visually Interpretable Affective Understanding via Robust Archetypes	https://proceedings.mlr.press/v306/hu26z.html	pending
-1646	hu26aa	Fast and Accurate Causal Parallel Decoding using Jacobi Forcing	https://proceedings.mlr.press/v306/hu26aa.html	pending
-1647	hu26ab	EAKV: An Entropy-Driven Adaptive KV Compression Framework for Long Video Understanding	https://proceedings.mlr.press/v306/hu26ab.html	pending
-1648	hu26ac	RAG without Forgetting: Continual Query-Infused Key Memory	https://proceedings.mlr.press/v306/hu26ac.html	pending
-1649	hu26ad	From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model	https://proceedings.mlr.press/v306/hu26ad.html	pending
-1650	hu26ae	Censoring with Plausible Deniability: Asymmetric Local Privacy for Multi-Category CDF Estimation	https://proceedings.mlr.press/v306/hu26ae.html	pending
-1651	hu26af	Universal Approximation with Softmax Attention	https://proceedings.mlr.press/v306/hu26af.html	pending
-1652	hu26ag	A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering	https://proceedings.mlr.press/v306/hu26ag.html	pending
-1653	hu26ah	BroRL: Scaling Reinforcement Learning via Broadened Exploration	https://proceedings.mlr.press/v306/hu26ah.html	pending
-1654	hu26ai	DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution	https://proceedings.mlr.press/v306/hu26ai.html	pending
-1655	hu26aj	Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded Orthogonal Inference	https://proceedings.mlr.press/v306/hu26aj.html	pending
-1656	hu26ak	Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence	https://proceedings.mlr.press/v306/hu26ak.html	pending
-1657	hu26al	CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning	https://proceedings.mlr.press/v306/hu26al.html	pending
-1658	hu26am	Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning	https://proceedings.mlr.press/v306/hu26am.html	pending
-1659	hu26an	ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control	https://proceedings.mlr.press/v306/hu26an.html	pending
-1660	hu26ao	FedReLa: Imbalanced Federated Learning via Re-Labeling	https://proceedings.mlr.press/v306/hu26ao.html	pending
-1661	hu26ap	An In-Depth Study on Deep Learning Model Cloning	https://proceedings.mlr.press/v306/hu26ap.html	pending
-1662	hu26aq	Respecting Modality Gap in Post-hoc Out-of-distribution Detection with Pre-trained Vision-Language Models	https://proceedings.mlr.press/v306/hu26aq.html	pending
-1663	hu26ar	ECHO: Elastic Speculative Decoding with Sparse Gating for High-Concurrency Scenarios	https://proceedings.mlr.press/v306/hu26ar.html	pending
-1664	hu26as	Residual Context Diffusion Language Models	https://proceedings.mlr.press/v306/hu26as.html	pending
-1665	hu26at	MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology	https://proceedings.mlr.press/v306/hu26at.html	pending
-1666	hu26au	Interactive Segmentation with Elaborate Focus Prior	https://proceedings.mlr.press/v306/hu26au.html	pending
-1667	hu26av	Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling	https://proceedings.mlr.press/v306/hu26av.html	pending
-1668	hu26aw	DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs	https://proceedings.mlr.press/v306/hu26aw.html	pending
-1669	hu26ax	Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection	https://proceedings.mlr.press/v306/hu26ax.html	pending
-1670	hu26ay	EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering	https://proceedings.mlr.press/v306/hu26ay.html	pending
-1671	hu26az	Parameter Manifold Purification	https://proceedings.mlr.press/v306/hu26az.html	pending
-1672	hu26ba	TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding	https://proceedings.mlr.press/v306/hu26ba.html	pending
-1673	hu26bb	Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models	https://proceedings.mlr.press/v306/hu26bb.html	pending
-1674	hu26bc	Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs	https://proceedings.mlr.press/v306/hu26bc.html	pending
-1675	hu26bd	Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion	https://proceedings.mlr.press/v306/hu26bd.html	pending
-1676	hu26be	On Structured State-Space Duality	https://proceedings.mlr.press/v306/hu26be.html	pending
-1677	hu26bf	TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling	https://proceedings.mlr.press/v306/hu26bf.html	pending
-1678	hu26bg	EvoMAS: Evolutionary Generation of Multi-Agent Systems	https://proceedings.mlr.press/v306/hu26bg.html	pending
-1679	hu26bh	OSCS: Online Selection with Provable FAR Control for LLM Safety	https://proceedings.mlr.press/v306/hu26bh.html	pending
-1680	hu26bi	Learning the Best Under Constraints: A Duality-Based Framework	https://proceedings.mlr.press/v306/hu26bi.html	pending
-1681	hu26bj	RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models	https://proceedings.mlr.press/v306/hu26bj.html	pending
-1682	hu26bk	VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection	https://proceedings.mlr.press/v306/hu26bk.html	pending
-1683	hua26a	VecMol: Vector-Field Representations for 3D Molecule Generation	https://proceedings.mlr.press/v306/hua26a.html	pending
-1684	hua26b	Gram2Token: Enabling Run-time GPU-Native Grammar-Constrained Decoding for LLMs	https://proceedings.mlr.press/v306/hua26b.html	pending
-1685	hua26c	Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization	https://proceedings.mlr.press/v306/hua26c.html	pending
-1686	huan26a	Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning	https://proceedings.mlr.press/v306/huan26a.html	pending
-1687	huang26a	Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics	https://proceedings.mlr.press/v306/huang26a.html	pending
-1688	huang26b	Discovering Interpretable Algorithms by Decompiling Transformers to RASP	https://proceedings.mlr.press/v306/huang26b.html	pending
-1689	huang26c	Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights	https://proceedings.mlr.press/v306/huang26c.html	pending
-1690	huang26d	Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy	https://proceedings.mlr.press/v306/huang26d.html	pending
-1691	huang26e	Rapid Poison: Practical Poisoning Attacks Against the Rapid Response Framework	https://proceedings.mlr.press/v306/huang26e.html	pending
-1692	huang26f	LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration	https://proceedings.mlr.press/v306/huang26f.html	pending
-1693	huang26g	Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling	https://proceedings.mlr.press/v306/huang26g.html	pending
-1694	huang26h	EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models	https://proceedings.mlr.press/v306/huang26h.html	pending
-1695	huang26i	SD-MoE: Spectral Decomposition for Effective Expert Specialization	https://proceedings.mlr.press/v306/huang26i.html	pending
-1696	huang26j	Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming	https://proceedings.mlr.press/v306/huang26j.html	pending
-1697	huang26k	Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning	https://proceedings.mlr.press/v306/huang26k.html	pending
-1698	huang26l	Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning	https://proceedings.mlr.press/v306/huang26l.html	pending
-1699	huang26m	Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning	https://proceedings.mlr.press/v306/huang26m.html	pending
-1700	huang26n	Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring	https://proceedings.mlr.press/v306/huang26n.html	pending
+1621	hu26b	Steal the Patch Size: Adversarially Manipulate Vision Language Models	https://proceedings.mlr.press/v306/hu26b.html	written
+1622	hu26c	Towards Atoms of Large Language Models	https://proceedings.mlr.press/v306/hu26c.html	written
+1623	hu26d	Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization	https://proceedings.mlr.press/v306/hu26d.html	written
+1624	hu26e	Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations	https://proceedings.mlr.press/v306/hu26e.html	written
+1625	hu26f	Finite-time Convergence Analysis of Actor-Critic with Evolving Reward	https://proceedings.mlr.press/v306/hu26f.html	written
+1626	hu26g	Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces	https://proceedings.mlr.press/v306/hu26g.html	written
+1627	hu26h	In-Context Universal Approximation, Compositional Generalization, and Algorithm Emulation	https://proceedings.mlr.press/v306/hu26h.html	written
+1628	hu26i	InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate	https://proceedings.mlr.press/v306/hu26i.html	written
+1629	hu26j	Embedding-perturbed Exploration Preference Optimization for Flow Models	https://proceedings.mlr.press/v306/hu26j.html	written
+1630	hu26k	Faithful Mobile GUI Agents with Guided Advantage Estimator	https://proceedings.mlr.press/v306/hu26k.html	written
+1631	hu26l	Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward	https://proceedings.mlr.press/v306/hu26l.html	written
+1632	hu26m	PrivGate: Steering Contextual Integrity in LLMs via Latent Space Geometry	https://proceedings.mlr.press/v306/hu26m.html	written
+1633	hu26n	Theory of Continual Learning Against Data Poisoning Attacks	https://proceedings.mlr.press/v306/hu26n.html	written
+1634	hu26o	The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning	https://proceedings.mlr.press/v306/hu26o.html	written
+1635	hu26p	DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation	https://proceedings.mlr.press/v306/hu26p.html	written
+1636	hu26q	RVAS: Referring Video Active Exploration and Segmentation	https://proceedings.mlr.press/v306/hu26q.html	written
+1637	hu26r	Online Learning and Inference for Cox Proportional Hazards Models Using Renewable Sieve Estimation	https://proceedings.mlr.press/v306/hu26r.html	written
+1638	hu26s	See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition	https://proceedings.mlr.press/v306/hu26s.html	written
+1639	hu26t	SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text	https://proceedings.mlr.press/v306/hu26t.html	written
+1640	hu26u	MoVie: Multimodal Video Compression with Text Guidance	https://proceedings.mlr.press/v306/hu26u.html	written
+1641	hu26v	SmartThinker: Progressive Chain-of-Thought Length Calibration for Efficient Large Language Model Reasoning	https://proceedings.mlr.press/v306/hu26v.html	written
+1642	hu26w	Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation	https://proceedings.mlr.press/v306/hu26w.html	written
+1643	hu26x	Hierarchical Anchor Graph Learning for Multi-View Clustering	https://proceedings.mlr.press/v306/hu26x.html	written
+1644	hu26y	LightningRL: Breaking the Accuracy–Parallelism Trade-off of Block-wise dLLMs via Reinforcement Learning	https://proceedings.mlr.press/v306/hu26y.html	written
+1645	hu26z	AURA: Visually Interpretable Affective Understanding via Robust Archetypes	https://proceedings.mlr.press/v306/hu26z.html	written
+1646	hu26aa	Fast and Accurate Causal Parallel Decoding using Jacobi Forcing	https://proceedings.mlr.press/v306/hu26aa.html	written
+1647	hu26ab	EAKV: An Entropy-Driven Adaptive KV Compression Framework for Long Video Understanding	https://proceedings.mlr.press/v306/hu26ab.html	written
+1648	hu26ac	RAG without Forgetting: Continual Query-Infused Key Memory	https://proceedings.mlr.press/v306/hu26ac.html	written
+1649	hu26ad	From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model	https://proceedings.mlr.press/v306/hu26ad.html	written
+1650	hu26ae	Censoring with Plausible Deniability: Asymmetric Local Privacy for Multi-Category CDF Estimation	https://proceedings.mlr.press/v306/hu26ae.html	written
+1651	hu26af	Universal Approximation with Softmax Attention	https://proceedings.mlr.press/v306/hu26af.html	written
+1652	hu26ag	A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering	https://proceedings.mlr.press/v306/hu26ag.html	written
+1653	hu26ah	BroRL: Scaling Reinforcement Learning via Broadened Exploration	https://proceedings.mlr.press/v306/hu26ah.html	written
+1654	hu26ai	DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution	https://proceedings.mlr.press/v306/hu26ai.html	written
+1655	hu26aj	Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded Orthogonal Inference	https://proceedings.mlr.press/v306/hu26aj.html	written
+1656	hu26ak	Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence	https://proceedings.mlr.press/v306/hu26ak.html	written
+1657	hu26al	CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning	https://proceedings.mlr.press/v306/hu26al.html	written
+1658	hu26am	Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning	https://proceedings.mlr.press/v306/hu26am.html	written
+1659	hu26an	ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control	https://proceedings.mlr.press/v306/hu26an.html	written
+1660	hu26ao	FedReLa: Imbalanced Federated Learning via Re-Labeling	https://proceedings.mlr.press/v306/hu26ao.html	written
+1661	hu26ap	An In-Depth Study on Deep Learning Model Cloning	https://proceedings.mlr.press/v306/hu26ap.html	written
+1662	hu26aq	Respecting Modality Gap in Post-hoc Out-of-distribution Detection with Pre-trained Vision-Language Models	https://proceedings.mlr.press/v306/hu26aq.html	written
+1663	hu26ar	ECHO: Elastic Speculative Decoding with Sparse Gating for High-Concurrency Scenarios	https://proceedings.mlr.press/v306/hu26ar.html	written
+1664	hu26as	Residual Context Diffusion Language Models	https://proceedings.mlr.press/v306/hu26as.html	written
+1665	hu26at	MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology	https://proceedings.mlr.press/v306/hu26at.html	written
+1666	hu26au	Interactive Segmentation with Elaborate Focus Prior	https://proceedings.mlr.press/v306/hu26au.html	written
+1667	hu26av	Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling	https://proceedings.mlr.press/v306/hu26av.html	written
+1668	hu26aw	DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs	https://proceedings.mlr.press/v306/hu26aw.html	written
+1669	hu26ax	Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection	https://proceedings.mlr.press/v306/hu26ax.html	written
+1670	hu26ay	EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering	https://proceedings.mlr.press/v306/hu26ay.html	written
+1671	hu26az	Parameter Manifold Purification	https://proceedings.mlr.press/v306/hu26az.html	written
+1672	hu26ba	TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding	https://proceedings.mlr.press/v306/hu26ba.html	written
+1673	hu26bb	Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models	https://proceedings.mlr.press/v306/hu26bb.html	written
+1674	hu26bc	Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs	https://proceedings.mlr.press/v306/hu26bc.html	written
+1675	hu26bd	Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion	https://proceedings.mlr.press/v306/hu26bd.html	written
+1676	hu26be	On Structured State-Space Duality	https://proceedings.mlr.press/v306/hu26be.html	written
+1677	hu26bf	TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling	https://proceedings.mlr.press/v306/hu26bf.html	written
+1678	hu26bg	EvoMAS: Evolutionary Generation of Multi-Agent Systems	https://proceedings.mlr.press/v306/hu26bg.html	written
+1679	hu26bh	OSCS: Online Selection with Provable FAR Control for LLM Safety	https://proceedings.mlr.press/v306/hu26bh.html	written
+1680	hu26bi	Learning the Best Under Constraints: A Duality-Based Framework	https://proceedings.mlr.press/v306/hu26bi.html	written
+1681	hu26bj	RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models	https://proceedings.mlr.press/v306/hu26bj.html	written
+1682	hu26bk	VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection	https://proceedings.mlr.press/v306/hu26bk.html	written
+1683	hua26a	VecMol: Vector-Field Representations for 3D Molecule Generation	https://proceedings.mlr.press/v306/hua26a.html	written
+1684	hua26b	Gram2Token: Enabling Run-time GPU-Native Grammar-Constrained Decoding for LLMs	https://proceedings.mlr.press/v306/hua26b.html	written
+1685	hua26c	Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization	https://proceedings.mlr.press/v306/hua26c.html	written
+1686	huan26a	Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning	https://proceedings.mlr.press/v306/huan26a.html	written
+1687	huang26a	Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics	https://proceedings.mlr.press/v306/huang26a.html	written
+1688	huang26b	Discovering Interpretable Algorithms by Decompiling Transformers to RASP	https://proceedings.mlr.press/v306/huang26b.html	written
+1689	huang26c	Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights	https://proceedings.mlr.press/v306/huang26c.html	written
+1690	huang26d	Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy	https://proceedings.mlr.press/v306/huang26d.html	written
+1691	huang26e	Rapid Poison: Practical Poisoning Attacks Against the Rapid Response Framework	https://proceedings.mlr.press/v306/huang26e.html	written
+1692	huang26f	LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration	https://proceedings.mlr.press/v306/huang26f.html	written
+1693	huang26g	Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling	https://proceedings.mlr.press/v306/huang26g.html	written
+1694	huang26h	EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models	https://proceedings.mlr.press/v306/huang26h.html	written
+1695	huang26i	SD-MoE: Spectral Decomposition for Effective Expert Specialization	https://proceedings.mlr.press/v306/huang26i.html	written
+1696	huang26j	Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming	https://proceedings.mlr.press/v306/huang26j.html	written
+1697	huang26k	Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning	https://proceedings.mlr.press/v306/huang26k.html	written
+1698	huang26l	Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning	https://proceedings.mlr.press/v306/huang26l.html	written
+1699	huang26m	Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning	https://proceedings.mlr.press/v306/huang26m.html	written
+1700	huang26n	Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring	https://proceedings.mlr.press/v306/huang26n.html	written
 1701	huang26o	ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization	https://proceedings.mlr.press/v306/huang26o.html	pending
 1702	huang26p	E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory	https://proceedings.mlr.press/v306/huang26p.html	pending
 1703	huang26q	Representation Drift Compensation: A Near-Zero Inference Cost Enhancement for LLM Decomposition	https://proceedings.mlr.press/v306/huang26q.html	pending

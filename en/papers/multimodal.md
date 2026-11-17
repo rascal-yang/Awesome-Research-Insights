@@ -19,6 +19,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="forhad26a-architecture"></a>[Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](../../conferences/icml-2026/cards/1101-1200.md#paper-forhad26a)
 - <a id="gao26am-architecture"></a>[DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26am)
 - <a id="he26ac-architecture"></a>[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ac)
+- <a id="hu26q-architecture"></a>[RVAS: Referring Video Active Exploration and Segmentation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26q)
+- <a id="hu26u-architecture"></a>[MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26u)
 
 <a id="by-modules"></a>
 
@@ -33,6 +35,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="han26aa-modules"></a>[Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport](../../conferences/icml-2026/cards/1401-1500.md#paper-han26aa)
 - <a id="he26b-modules"></a>[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](../../conferences/icml-2026/cards/1401-1500.md#paper-he26b)
 - <a id="hong26g-modules"></a>[Unified Multimodal Visual Tracking with Dual Mixture-of-Experts](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26g)
+- <a id="hu26ba-modules"></a>[TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ba)
 
 <a id="by-loss-functions"></a>
 
@@ -51,6 +54,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="guan26g-loss-functions"></a>[Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26g)
 - <a id="hasny26a-loss-functions"></a>[No Data? No Problem: Robust Vision-Tabular Learning with Missing Values](../../conferences/icml-2026/cards/1401-1500.md#paper-hasny26a)
 - <a id="he26ai-loss-functions"></a>[Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ai)
+- <a id="hu26aw-loss-functions"></a>[DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26aw)
 
 <a id="by-optimization"></a>
 
@@ -78,6 +82,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="he26e-reinforcement-learning"></a>[DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#paper-he26e)
 - <a id="he26j-reinforcement-learning"></a>[Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization](../../conferences/icml-2026/cards/1501-1600.md#paper-he26j)
 - <a id="he26av-reinforcement-learning"></a>[RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation](../../conferences/icml-2026/cards/1501-1600.md#paper-he26av)
+- <a id="hu26k-reinforcement-learning"></a>[Faithful Mobile GUI Agents with Guided Advantage Estimator](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26k)
 
 <a id="by-training-strategies"></a>
 
@@ -152,6 +157,10 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="he26g-inference"></a>[Self-Prophetic Decoding to Unlock Visual Search in LVLMs](../../conferences/icml-2026/cards/1401-1500.md#paper-he26g)
 - <a id="hong26k-inference"></a>[Mitigating Mask Prior Drift and Positional Attention Collapse in Large Diffusion Vision-Language Models](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26k)
 - <a id="hsin-ying26a-inference"></a>[MotiMotion: Motion-Controlled Video Generation with Visual Reasoning](../../conferences/icml-2026/cards/1601-1700.md#paper-hsin-ying26a)
+- <a id="hu26ab-inference"></a>[EAKV: An Entropy-Driven Adaptive KV Compression Framework for Long Video Understanding](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ab)
+- <a id="hu26ai-inference"></a>[DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ai)
+- <a id="hu26aq-inference"></a>[Respecting Modality Gap in Post-hoc Out-of-distribution Detection with Pre-trained Vision-Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26aq)
+- <a id="hu26ay-inference"></a>[EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ay)
 
 <a id="by-representation-learning"></a>
 
@@ -203,6 +212,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="he26n-evaluation"></a>[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](../../conferences/icml-2026/cards/1501-1600.md#paper-he26n)
 - <a id="hoang26b-evaluation"></a>[The Abstraction Gap in Vision-Language Causal Reasoning](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26b)
 - <a id="hou26h-evaluation"></a>[When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26h)
+- <a id="hu26b-evaluation"></a>[Steal the Patch Size: Adversarially Manipulate Vision Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26b)
 
 <a id="by-theory-statistics"></a>
 

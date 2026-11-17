@@ -26,6 +26,8 @@
 - [仅对困难词元启动隐空间迭代](../conferences/icml-2026/cards/1101-1200.md#fu26t-architecture) · Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning
 - [频域乘法实现因果序列混合](../conferences/icml-2026/cards/1101-1200.md#gan26c-architecture) · Caracal: Causal Architecture via Spectral Mixing
 - [用独立执行验证连接漏洞发现与代理记忆](../conferences/icml-2026/cards/1501-1600.md#he26i-architecture) · Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents
+- [为 MoE 解耦共用主谱与专家剩余分量](../conferences/icml-2026/cards/1601-1700.md#huang26i-architecture) · SD-MoE: Spectral Decomposition for Effective Expert Specialization
+- [通过带噪吸引子迭代扩展潜空间推理](../conferences/icml-2026/cards/1601-1700.md#huang26l-architecture) · Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -71,6 +73,7 @@
 - [频域分层动作策略](../conferences/icml-2026/cards/0401-0500.md#cao26u-architecture) · Hierarchical Policy Learning via Spectral Decomposition
 - [SE(3) 位姿扩散策略](../conferences/icml-2026/cards/0701-0800.md#chuang26a-architecture) · The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space
 - [第一视角三维检测的时序记忆](../conferences/icml-2026/cards/0901-1000.md#ding26x-architecture) · Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views
+- [把长演示学习的行为原型按在线阶段实例化](../conferences/icml-2026/cards/1601-1700.md#hu26ad-architecture) · From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model
 
 <a id="by-multimodal"></a>
 
@@ -82,6 +85,8 @@
 - [持续学习专家的置信加权协作](../conferences/icml-2026/cards/1101-1200.md#forhad26a-architecture) · Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning
 - [交替状态与转移的视觉世界模型](../conferences/icml-2026/cards/1201-1300.md#gao26am-architecture) · DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics
 - [用去噪轨迹保留视觉推理状态](../conferences/icml-2026/cards/1501-1600.md#he26ac-architecture) · DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models
+- [用轻量状态判断何时重做视频推理](../conferences/icml-2026/cards/1601-1700.md#hu26q-architecture) · RVAS: Referring Video Active Exploration and Segmentation
+- [把语义提示留在视频编码侧](../conferences/icml-2026/cards/1601-1700.md#hu26u-architecture) · MoVie: Multimodal Video Compression with Text Guidance
 
 <a id="by-ml-foundations"></a>
 
@@ -107,6 +112,7 @@
 - [时序预测的可调连续时间基](../conferences/icml-2026/cards/1301-1400.md#graf26a-architecture) · FlowState: Sampling-Rate-Equivariant Time-Series Forecasting
 - [连续秩噪声配合前缀条件的排列采样](../conferences/icml-2026/cards/1501-1600.md#he26ax-architecture) · Learning Permutation Distributions via Reflected Diffusion on Ranks
 - [以样条局部支撑减少片上单样本更新](../conferences/icml-2026/cards/1501-1600.md#hoang26a-architecture) · Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks
+- [按周期尺度掩码并门控辅助通道](../conferences/icml-2026/cards/1601-1700.md#hu26bf-architecture) · TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -154,4 +160,5 @@
 - [飞行器拓扑与连续参数的层级扩散](../conferences/icml-2026/cards/1201-1300.md#ghiglino26a-architecture) · "Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design
 - [点云到气动场的跨层解码](../conferences/icml-2026/cards/1401-1500.md#hagnberger26a-architecture) · SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model
 - [分距离层覆盖稠密原子相互作用](../conferences/icml-2026/cards/1501-1600.md#hong26h-architecture) · Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing
+- [按局部组织形态路由生成速度场](../conferences/icml-2026/cards/1601-1700.md#hu26at-architecture) · MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology
 <!-- classification:end -->

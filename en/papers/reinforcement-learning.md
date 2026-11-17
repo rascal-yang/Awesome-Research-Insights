@@ -93,6 +93,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="he26aa-reinforcement-learning"></a>[Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-he26aa)
 - <a id="henaff26a-reinforcement-learning"></a>[Scalable Option Learning in High-Throughput Environments](../../conferences/icml-2026/cards/1501-1600.md#paper-henaff26a)
 - <a id="hoang26c-reinforcement-learning"></a>[DualCOIL: Offline Imitation Learning from Contrasting Demonstrations](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26c)
+- <a id="hu26am-reinforcement-learning"></a>[Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26am)
+- <a id="hu26bd-reinforcement-learning"></a>[Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bd)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>
@@ -161,4 +163,6 @@ Learning from interaction, feedback, and offline experience.
 - <a id="gong26i-theory-statistics"></a>[The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26i)
 - <a id="han26z-theory-statistics"></a>[Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator](../../conferences/icml-2026/cards/1401-1500.md#paper-han26z)
 - <a id="hopkins26b-theory-statistics"></a>[From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hopkins26b)
+- <a id="hu26f-theory-statistics"></a>[Finite-time Convergence Analysis of Actor-Critic with Evolving Reward](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26f)
+- <a id="hu26bc-theory-statistics"></a>[Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bc)
 <!-- classification:end -->

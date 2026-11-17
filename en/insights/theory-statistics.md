@@ -33,6 +33,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing](../../conferences/icml-2026/cards/1301-1400.md#guo26j-theory-statistics) · 中文
 - [Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](../../conferences/icml-2026/cards/1401-1500.md#halder26a-theory-statistics) · 中文
 - [Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling](../../conferences/icml-2026/cards/1501-1600.md#hilton-jones26a-theory-statistics) · 中文
+- [Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence](../../conferences/icml-2026/cards/1601-1700.md#hu26ak-theory-statistics) · 中文
+- [OSCS: Online Selection with Provable FAR Control for LLM Safety](../../conferences/icml-2026/cards/1601-1700.md#hu26bh-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -83,6 +85,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](../../conferences/icml-2026/cards/1301-1400.md#gong26i-theory-statistics) · 中文
 - [Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator](../../conferences/icml-2026/cards/1401-1500.md#han26z-theory-statistics) · 中文
 - [From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hopkins26b-theory-statistics) · 中文
+- [Finite-time Convergence Analysis of Actor-Critic with Evolving Reward](../../conferences/icml-2026/cards/1601-1700.md#hu26f-theory-statistics) · 中文
+- [Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs](../../conferences/icml-2026/cards/1601-1700.md#hu26bc-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -278,6 +282,14 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Interplay Between Interpolation and Aggregation in Regression: Optimal Sample Complexity](../../conferences/icml-2026/cards/1501-1600.md#hogsgaard26a-theory-statistics) · 中文
 - [The Optimal Sample Complexity of Linear Contracts](../../conferences/icml-2026/cards/1501-1600.md#hogsgaard26b-theory-statistics) · 中文
 - [The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning](../../conferences/icml-2026/cards/1601-1700.md#hsu26a-theory-statistics) · 中文
+- [In-Context Universal Approximation, Compositional Generalization, and Algorithm Emulation](../../conferences/icml-2026/cards/1601-1700.md#hu26h-theory-statistics) · 中文
+- [Theory of Continual Learning Against Data Poisoning Attacks](../../conferences/icml-2026/cards/1601-1700.md#hu26n-theory-statistics) · 中文
+- [The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26o-theory-statistics) · 中文
+- [Online Learning and Inference for Cox Proportional Hazards Models Using Renewable Sieve Estimation](../../conferences/icml-2026/cards/1601-1700.md#hu26r-theory-statistics) · 中文
+- [Censoring with Plausible Deniability: Asymmetric Local Privacy for Multi-Category CDF Estimation](../../conferences/icml-2026/cards/1601-1700.md#hu26ae-theory-statistics) · 中文
+- [Universal Approximation with Softmax Attention](../../conferences/icml-2026/cards/1601-1700.md#hu26af-theory-statistics) · 中文
+- [On Structured State-Space Duality](../../conferences/icml-2026/cards/1601-1700.md#hu26be-theory-statistics) · 中文
+- [Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics](../../conferences/icml-2026/cards/1601-1700.md#huang26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

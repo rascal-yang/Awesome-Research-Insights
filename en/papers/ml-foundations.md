@@ -33,6 +33,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="graf26a-architecture"></a>[FlowState: Sampling-Rate-Equivariant Time-Series Forecasting](../../conferences/icml-2026/cards/1301-1400.md#paper-graf26a)
 - <a id="he26ax-architecture"></a>[Learning Permutation Distributions via Reflected Diffusion on Ranks](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ax)
 - <a id="hoang26a-architecture"></a>[Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26a)
+- <a id="hu26bf-architecture"></a>[TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bf)
 
 <a id="by-modules"></a>
 
@@ -204,6 +205,9 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="hikri26a-optimization"></a>[Ambiguous Strategic Classification](../../conferences/icml-2026/cards/1501-1600.md#paper-hikri26a)
 - <a id="hood26a-optimization"></a>[Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization](../../conferences/icml-2026/cards/1501-1600.md#paper-hood26a)
 - <a id="houry26a-optimization"></a>[Gromov-Wasserstein at Scale, Beyond Squared Norms](../../conferences/icml-2026/cards/1601-1700.md#paper-houry26a)
+- <a id="hu26g-optimization"></a>[Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26g)
+- <a id="hu26bi-optimization"></a>[Learning the Best Under Constraints: A Duality-Based Framework](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bi)
+- <a id="huang26j-optimization"></a>[Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26j)
 
 <a id="by-training-strategies"></a>
 
@@ -262,6 +266,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="du26u-data-strategies"></a>[On the Difficulty of Learning a Meta-network for Training Data Selection](../../conferences/icml-2026/cards/0901-1000.md#paper-du26u)
 - <a id="falahati26a-data-strategies"></a>[Curated Synthetic Data Doesn’t Have to Collapse: A Theoretical Study of Generative Retraining with Pluralistic Preferences](../../conferences/icml-2026/cards/1001-1100.md#paper-falahati26a)
 - <a id="gao26z-data-strategies"></a>[Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26z)
+- <a id="hu26ao-data-strategies"></a>[FedReLa: Imbalanced Federated Learning via Re-Labeling](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ao)
+- <a id="huang26c-data-strategies"></a>[Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26c)
 
 <a id="by-inference"></a>
 
@@ -308,6 +314,9 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="guo26an-representation-learning"></a>[Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26an)
 - <a id="heo26a-representation-learning"></a>[What Linear Probes Miss: Multi-View Probing for Weight-Space Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-heo26a)
 - <a id="hromadka26a-representation-learning"></a>[Maximum-Likelihood Learning of Latent Dynamics Without Reconstruction](../../conferences/icml-2026/cards/1601-1700.md#paper-hromadka26a)
+- <a id="hu26e-representation-learning"></a>[Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26e)
+- <a id="hu26i-representation-learning"></a>[InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26i)
+- <a id="hu26az-representation-learning"></a>[Parameter Manifold Purification](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26az)
 
 <a id="by-evaluation"></a>
 
@@ -339,6 +348,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="groger26a-evaluation"></a>[Revisiting the Platonic Representation Hypothesis: An Aristotelian View](../../conferences/icml-2026/cards/1301-1400.md#paper-groger26a)
 - <a id="guo26u-evaluation"></a>[Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26u)
 - <a id="han26d-evaluation"></a>[TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](../../conferences/icml-2026/cards/1401-1500.md#paper-han26d)
+- <a id="hu26ap-evaluation"></a>[An In-Depth Study on Deep Learning Model Cloning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ap)
 
 <a id="by-theory-statistics"></a>
 
@@ -521,4 +531,12 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="hogsgaard26a-theory-statistics"></a>[The Interplay Between Interpolation and Aggregation in Regression: Optimal Sample Complexity](../../conferences/icml-2026/cards/1501-1600.md#paper-hogsgaard26a)
 - <a id="hogsgaard26b-theory-statistics"></a>[The Optimal Sample Complexity of Linear Contracts](../../conferences/icml-2026/cards/1501-1600.md#paper-hogsgaard26b)
 - <a id="hsu26a-theory-statistics"></a>[The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hsu26a)
+- <a id="hu26h-theory-statistics"></a>[In-Context Universal Approximation, Compositional Generalization, and Algorithm Emulation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26h)
+- <a id="hu26n-theory-statistics"></a>[Theory of Continual Learning Against Data Poisoning Attacks](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26n)
+- <a id="hu26o-theory-statistics"></a>[The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26o)
+- <a id="hu26r-theory-statistics"></a>[Online Learning and Inference for Cox Proportional Hazards Models Using Renewable Sieve Estimation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26r)
+- <a id="hu26ae-theory-statistics"></a>[Censoring with Plausible Deniability: Asymmetric Local Privacy for Multi-Category CDF Estimation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ae)
+- <a id="hu26af-theory-statistics"></a>[Universal Approximation with Softmax Attention](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26af)
+- <a id="hu26be-theory-statistics"></a>[On Structured State-Space Duality](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26be)
+- <a id="huang26a-theory-statistics"></a>[Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26a)
 <!-- classification:end -->

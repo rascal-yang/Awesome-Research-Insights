@@ -17,6 +17,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="cao26u-architecture"></a>[Hierarchical Policy Learning via Spectral Decomposition](../../conferences/icml-2026/cards/0401-0500.md#paper-cao26u)
 - <a id="chuang26a-architecture"></a>[The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](../../conferences/icml-2026/cards/0701-0800.md#paper-chuang26a)
 - <a id="ding26x-architecture"></a>[Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26x)
+- <a id="hu26ad-architecture"></a>[From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ad)
 
 <a id="by-modules"></a>
 
@@ -92,6 +93,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="ding26r-inference"></a>[AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26r)
 - <a id="guo26l-inference"></a>[Reflex: Real-Time Vision-Language-Action Control through Streaming Inference](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26l)
 - <a id="hoshino26a-inference"></a>[Training-Free Guided Diffusion for Planning: A Unified Framework via Doob’s h-Transform with Safety Guarantees](../../conferences/icml-2026/cards/1501-1600.md#paper-hoshino26a)
+- <a id="hu26w-inference"></a>[Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26w)
+- <a id="huang26h-inference"></a>[EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26h)
 
 <a id="by-representation-learning"></a>
 

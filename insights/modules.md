@@ -28,6 +28,8 @@
 - [MoE 专家输出的有向图聚合](../conferences/icml-2026/cards/1101-1200.md#feng26v-modules) · DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts
 - [Softplus 注意力的两阶段重加权](../conferences/icml-2026/cards/1201-1300.md#gao26y-modules) · Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models
 - [稀疏 entmax 的直方图阈值初始化](../conferences/icml-2026/cards/1301-1400.md#goncalves26a-modules) · AdaSplash-2: Faster Differentiable Sparse Attention
+- [把重遮盖位置的高熵表征留给下轮去噪](../conferences/icml-2026/cards/1601-1700.md#hu26as-modules) · Residual Context Diffusion Language Models
+- [在自回归推理中保存耗散的连续隐状态](../conferences/icml-2026/cards/1601-1700.md#huang26m-modules) · Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -48,6 +50,7 @@
 - [超分辨率的跨尺度词元前缀](../conferences/icml-2026/cards/1401-1500.md#hadji26a-modules) · Hierarchical Image Tokenization for Multi-Scale Image Super Resolution
 - [用三维表面坐标连接跨姿态参考](../conferences/icml-2026/cards/1401-1500.md#han26ab-modules) · Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization
 - [用局部退化控制分块采样与回写](../conferences/icml-2026/cards/1501-1600.md#he26an-modules) · Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration
+- [把修正点击变成连通误差区](../conferences/icml-2026/cards/1601-1700.md#hu26au-modules) · Interactive Segmentation with Elaborate Focus Prior
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -78,6 +81,7 @@
 - [放松传输边缘约束以减少不可靠视图的影响](../conferences/icml-2026/cards/1401-1500.md#han26aa-modules) · Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport
 - [分开抽取实例和文本角色来推断假设编辑](../conferences/icml-2026/cards/1401-1500.md#he26b-modules) · Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning
 - [将追踪专家与模态专家分工](../conferences/icml-2026/cards/1501-1600.md#hong26g-modules) · Unified Multimodal Visual Tracking with Dual Mixture-of-Experts
+- [让推理过程主动发起稀疏查证](../conferences/icml-2026/cards/1601-1700.md#hu26ba-modules) · TVI-CoT: Text-Visual Interleaved Chain-of-Thought Reasoning for Multimodal Understanding
 
 <a id="by-ml-foundations"></a>
 

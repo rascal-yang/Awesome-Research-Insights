@@ -64,6 +64,12 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation](../../conferences/icml-2026/cards/1501-1600.md#he26ae-reinforcement-learning) · 中文
 - [IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning](../../conferences/icml-2026/cards/1501-1600.md#he26ba-reinforcement-learning) · 中文
 - [Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/1501-1600.md#heckel26a-reinforcement-learning) · 中文
+- [Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward](../../conferences/icml-2026/cards/1601-1700.md#hu26l-reinforcement-learning) · 中文
+- [SmartThinker: Progressive Chain-of-Thought Length Calibration for Efficient Large Language Model Reasoning](../../conferences/icml-2026/cards/1601-1700.md#hu26v-reinforcement-learning) · 中文
+- [LightningRL: Breaking the Accuracy–Parallelism Trade-off of Block-wise dLLMs via Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26y-reinforcement-learning) · 中文
+- [BroRL: Scaling Reinforcement Learning via Broadened Exploration](../../conferences/icml-2026/cards/1601-1700.md#hu26ah-reinforcement-learning) · 中文
+- [Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](../../conferences/icml-2026/cards/1601-1700.md#hua26c-reinforcement-learning) · 中文
+- [Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](../../conferences/icml-2026/cards/1601-1700.md#huang26g-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -75,6 +81,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](../../conferences/icml-2026/cards/0701-0800.md#choi26o-reinforcement-learning) · 中文
 - [Probabilistic Salient Object Ranking](../../conferences/icml-2026/cards/1301-1400.md#guo26h-reinforcement-learning) · 中文
 - [ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models](../../conferences/icml-2026/cards/1401-1500.md#han26o-reinforcement-learning) · 中文
+- [Embedding-perturbed Exploration Preference Optimization for Flow Models](../../conferences/icml-2026/cards/1601-1700.md#hu26j-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -147,6 +154,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#he26aa-reinforcement-learning) · 中文
 - [Scalable Option Learning in High-Throughput Environments](../../conferences/icml-2026/cards/1501-1600.md#henaff26a-reinforcement-learning) · 中文
 - [DualCOIL: Offline Imitation Learning from Contrasting Demonstrations](../../conferences/icml-2026/cards/1501-1600.md#hoang26c-reinforcement-learning) · 中文
+- [Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26am-reinforcement-learning) · 中文
+- [Time-Consistent Robust Multi-Objective Reinforcement Learning via a Bellman–Isaacs Weight-Adversary Recursion](../../conferences/icml-2026/cards/1601-1700.md#hu26bd-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -179,6 +188,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models](../../conferences/icml-2026/cards/1401-1500.md#he26e-reinforcement-learning) · 中文
 - [Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization](../../conferences/icml-2026/cards/1501-1600.md#he26j-reinforcement-learning) · 中文
 - [RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation](../../conferences/icml-2026/cards/1501-1600.md#he26av-reinforcement-learning) · 中文
+- [Faithful Mobile GUI Agents with Guided Advantage Estimator](../../conferences/icml-2026/cards/1601-1700.md#hu26k-reinforcement-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -202,4 +212,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [CSG: Cognitive Structure Generation for Intelligent Education](../../conferences/icml-2026/cards/1301-1400.md#gu26b-reinforcement-learning) · 中文
 - [ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education](../../conferences/icml-2026/cards/1501-1600.md#he26as-reinforcement-learning) · 中文
 - [Open Materials Generation with Inference-Time Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hollmer26a-reinforcement-learning) · 中文
+- [CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#hu26al-reinforcement-learning) · 中文
 <!-- classification:end -->

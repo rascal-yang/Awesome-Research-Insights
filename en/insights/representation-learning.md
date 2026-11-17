@@ -18,6 +18,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](../../conferences/icml-2026/cards/0601-0700.md#chen26gy-representation-learning) · 中文
 - [Ensembling Sparse Autoencoders](../../conferences/icml-2026/cards/1101-1200.md#gadgil26a-representation-learning) · 中文
 - [LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection](../../conferences/icml-2026/cards/1501-1600.md#he26z-representation-learning) · 中文
+- [Towards Atoms of Large Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26c-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -44,6 +45,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [A Flat Vocabulary or a Rich Hierarchy? Re-introducing Intrinsic Structure Transforms the Autoregressive Image Generation](../../conferences/icml-2026/cards/1501-1600.md#he26az-representation-learning) · 中文
 - [Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning](../../conferences/icml-2026/cards/1501-1600.md#hong26j-representation-learning) · 中文
 - [Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](../../conferences/icml-2026/cards/1601-1700.md#hou26e-representation-learning) · 中文
+- [AURA: Visually Interpretable Affective Understanding via Robust Archetypes](../../conferences/icml-2026/cards/1601-1700.md#hu26z-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -105,6 +107,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](../../conferences/icml-2026/cards/1401-1500.md#guo26an-representation-learning) · 中文
 - [What Linear Probes Miss: Multi-View Probing for Weight-Space Learning](../../conferences/icml-2026/cards/1501-1600.md#heo26a-representation-learning) · 中文
 - [Maximum-Likelihood Learning of Latent Dynamics Without Reconstruction](../../conferences/icml-2026/cards/1601-1700.md#hromadka26a-representation-learning) · 中文
+- [Coordinated Disentanglement with Iterative Mode Discovery Under Hidden Correlations](../../conferences/icml-2026/cards/1601-1700.md#hu26e-representation-learning) · 中文
+- [InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate](../../conferences/icml-2026/cards/1601-1700.md#hu26i-representation-learning) · 中文
+- [Parameter Manifold Purification](../../conferences/icml-2026/cards/1601-1700.md#hu26az-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -122,6 +127,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Structure-Centric Graph Foundation Model via Geometric Bases](../../conferences/icml-2026/cards/1501-1600.md#he26l-representation-learning) · 中文
 - [GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](../../conferences/icml-2026/cards/1501-1600.md#he26af-representation-learning) · 中文
 - [A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs](../../conferences/icml-2026/cards/1501-1600.md#he26at-representation-learning) · 中文
+- [Hierarchical Anchor Graph Learning for Multi-View Clustering](../../conferences/icml-2026/cards/1601-1700.md#hu26x-representation-learning) · 中文
+- [A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1601-1700.md#hu26ag-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -143,4 +150,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning Permutation-invariant Macroscopic Dynamics](../../conferences/icml-2026/cards/1401-1500.md#han26f-representation-learning) · 中文
 - [Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs](../../conferences/icml-2026/cards/1501-1600.md#he26w-representation-learning) · 中文
 - [Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization](../../conferences/icml-2026/cards/1501-1600.md#hosseini26a-representation-learning) · 中文
+- [See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition](../../conferences/icml-2026/cards/1601-1700.md#hu26s-representation-learning) · 中文
+- [Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded Orthogonal Inference](../../conferences/icml-2026/cards/1601-1700.md#hu26aj-representation-learning) · 中文
+- [VecMol: Vector-Field Representations for 3D Molecule Generation](../../conferences/icml-2026/cards/1601-1700.md#hua26a-representation-learning) · 中文
 <!-- classification:end -->

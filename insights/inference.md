@@ -114,6 +114,10 @@
 - [按前向轮次和层位置淘汰 MoE 专家](../conferences/icml-2026/cards/1501-1600.md#hoang26d-inference) · SpecMD: A Comprehensive Study On Speculative Expert Prefetching
 - [以解掩位置选择编码文本水印](../conferences/icml-2026/cards/1501-1600.md#hong26i-inference) · dgMARK: Decoding-Guided Watermarking for Diffusion Language Models
 - [在已偏转的残差流上学习后续人格方向](../conferences/icml-2026/cards/1501-1600.md#hoppe26a-inference) · Controllable and Explainable Personality Sliders for LLMs at Inference Time
+- [用残差流风险信号有条件地启用慢推理](../conferences/icml-2026/cards/1601-1700.md#hu26m-inference) · PrivGate: Steering Contextual Integrity in LLMs via Latent Space Geometry
+- [稀疏门控后在同批请求间重分配验证预算](../conferences/icml-2026/cards/1601-1700.md#hu26ar-inference) · ECHO: Elastic Speculative Decoding with Sparse Gating for High-Concurrency Scenarios
+- [用隐状态偏移触发短程去迎合](../conferences/icml-2026/cards/1601-1700.md#hu26bb-inference) · Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models
+- [预编译词元等价类供约束解码查表](../conferences/icml-2026/cards/1601-1700.md#hua26b-inference) · Gram2Token: Enabling Run-time GPU-Native Grammar-Constrained Decoding for LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -162,6 +166,8 @@
 - [用两步视频生成约束后续运动相位](../conferences/icml-2026/cards/1401-1500.md#han26l-inference) · Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them
 - [蒸馏全注意力的块级结构](../conferences/icml-2026/cards/1401-1500.md#han26y-inference) · Veda: Scalable Video Diffusion via Distilled Sparse Attention
 - [以一步随机后验映射并行估计生成价值](../conferences/icml-2026/cards/1501-1600.md#holderrieth26a-inference) · Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps
+- [重排视频词元再分层选择稀疏块](../conferences/icml-2026/cards/1601-1700.md#hu26p-inference) · DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation
+- [用少量上下文样本低秩校正扩散缓存](../conferences/icml-2026/cards/1601-1700.md#huang26f-inference) · LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration
 
 <a id="by-nlp"></a>
 
@@ -173,6 +179,7 @@
 - [全双工语音的异步检索](../conferences/icml-2026/cards/0701-0800.md#chien26b-inference) · MoshiRAG: Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models
 - [语音情感的稀疏特征干预](../conferences/icml-2026/cards/0901-1000.md#du26i-inference) · Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech
 - [稀疏编码的多向量倒排检索](../conferences/icml-2026/cards/1301-1400.md#guo26x-inference) · No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval
+- [把经过正确性验证的查询扩展逐项写回检索键](../conferences/icml-2026/cards/1601-1700.md#hu26ac-inference) · RAG without Forgetting: Continual Query-Infused Key Memory
 
 <a id="by-reinforcement-learning"></a>
 
@@ -202,6 +209,8 @@
 - [导航中的熵驱动推理](../conferences/icml-2026/cards/0901-1000.md#ding26r-inference) · AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation
 - [视觉动作模型的流式分区缓存](../conferences/icml-2026/cards/1301-1400.md#guo26l-inference) · Reflex: Real-Time Vision-Language-Action Control through Streaming Inference
 - [用未来去噪路径的终局成本引导当前步](../conferences/icml-2026/cards/1501-1600.md#hoshino26a-inference) · Training-Free Guided Diffusion for Planning: A Unified Framework via Doob’s h-Transform with Safety Guarantees
+- [把过往测试时适配保存为可插值提示](../conferences/icml-2026/cards/1601-1700.md#hu26w-inference) · Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation
+- [按环境变化异步更新动作模型通道稀疏度](../conferences/icml-2026/cards/1601-1700.md#huang26h-inference) · EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models
 
 <a id="by-multimodal"></a>
 
@@ -239,6 +248,10 @@
 - [以双模型概率一致性接入单步视觉草稿](../conferences/icml-2026/cards/1401-1500.md#he26g-inference) · Self-Prophetic Decoding to Unlock Visual Search in LVLMs
 - [在解码时削弱掩码先验并调整位置频率](../conferences/icml-2026/cards/1501-1600.md#hong26k-inference) · Mitigating Mask Prior Drift and Positional Attention Collapse in Large Diffusion Vision-Language Models
 - [先推理次级运动，再按置信度调节轨迹引导](../conferences/icml-2026/cards/1601-1700.md#hsin-ying26a-inference) · MotiMotion: Motion-Controlled Video Generation with Visual Reasoning
+- [为各注意力头保底，再按熵分配弹性缓存](../conferences/icml-2026/cards/1601-1700.md#hu26ab-inference) · EAKV: An Entropy-Driven Adaptive KV Compression Framework for Long Video Understanding
+- [并行准备草稿和目标回退，用证据比率决定提交](../conferences/icml-2026/cards/1601-1700.md#hu26ai-inference) · DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution
+- [用测试流的软预测将文本原型校准到视觉空间](../conferences/icml-2026/cards/1601-1700.md#hu26aq-inference) · Respecting Modality Gap in Post-hoc Out-of-distribution Detection with Pre-trained Vision-Language Models
+- [以实体名称绑定视觉检索](../conferences/icml-2026/cards/1601-1700.md#hu26ay-inference) · EntRAG: Entity-Centric Retrieval-Augmented Generation for Knowledge-based Visual Question Answering
 
 <a id="by-ml-foundations"></a>
 

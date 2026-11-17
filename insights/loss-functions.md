@@ -24,6 +24,7 @@
 - [推理链去偏的后缀优化](../conferences/icml-2026/cards/1101-1200.md#feng26z-loss-functions) · Self-correcting for Debiasing Large Language Models
 - [注意力汇的门控与负载均衡](../conferences/icml-2026/cards/1101-1200.md#fu26v-loss-functions) · Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse
 - [拆分语言模型的双端泄漏防护](../conferences/icml-2026/cards/1301-1400.md#gu26o-loss-functions) · From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models
+- [分别约束同层分工与跨层专家路径](../conferences/icml-2026/cards/1601-1700.md#hu26d-loss-functions) · Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization
 
 <a id="by-computer-vision"></a>
 
@@ -76,6 +77,7 @@
 - [CAD 参数词元的三维点监督](../conferences/icml-2026/cards/1301-1400.md#guan26g-loss-functions) · Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation
 - [让新增可信表格字段在训练中带来收益](../conferences/icml-2026/cards/1401-1500.md#hasny26a-loss-functions) · No Data? No Problem: Robust Vision-Tabular Learning with Missing Values
 - [以径向蕴涵与球面角距分工表示分类树](../conferences/icml-2026/cards/1501-1600.md#he26ai-loss-functions) · Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models
+- [跨模型对齐多视图特征分布](../conferences/icml-2026/cards/1601-1700.md#hu26aw-loss-functions) · DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs
 
 <a id="by-ml-foundations"></a>
 

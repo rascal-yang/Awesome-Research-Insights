@@ -26,6 +26,8 @@ Model-wide design and information flow.
 - [Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](../../conferences/icml-2026/cards/1101-1200.md#fu26t-architecture) · 中文
 - [Caracal: Causal Architecture via Spectral Mixing](../../conferences/icml-2026/cards/1101-1200.md#gan26c-architecture) · 中文
 - [Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](../../conferences/icml-2026/cards/1501-1600.md#he26i-architecture) · 中文
+- [SD-MoE: Spectral Decomposition for Effective Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#huang26i-architecture) · 中文
+- [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](../../conferences/icml-2026/cards/1601-1700.md#huang26l-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -71,6 +73,7 @@ Model-wide design and information flow.
 - [Hierarchical Policy Learning via Spectral Decomposition](../../conferences/icml-2026/cards/0401-0500.md#cao26u-architecture) · 中文
 - [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](../../conferences/icml-2026/cards/0701-0800.md#chuang26a-architecture) · 中文
 - [Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](../../conferences/icml-2026/cards/0901-1000.md#ding26x-architecture) · 中文
+- [From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](../../conferences/icml-2026/cards/1601-1700.md#hu26ad-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -82,6 +85,8 @@ Model-wide design and information flow.
 - [Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning](../../conferences/icml-2026/cards/1101-1200.md#forhad26a-architecture) · 中文
 - [DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics](../../conferences/icml-2026/cards/1201-1300.md#gao26am-architecture) · 中文
 - [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](../../conferences/icml-2026/cards/1501-1600.md#he26ac-architecture) · 中文
+- [RVAS: Referring Video Active Exploration and Segmentation](../../conferences/icml-2026/cards/1601-1700.md#hu26q-architecture) · 中文
+- [MoVie: Multimodal Video Compression with Text Guidance](../../conferences/icml-2026/cards/1601-1700.md#hu26u-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -107,6 +112,7 @@ Model-wide design and information flow.
 - [FlowState: Sampling-Rate-Equivariant Time-Series Forecasting](../../conferences/icml-2026/cards/1301-1400.md#graf26a-architecture) · 中文
 - [Learning Permutation Distributions via Reflected Diffusion on Ranks](../../conferences/icml-2026/cards/1501-1600.md#he26ax-architecture) · 中文
 - [Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/1501-1600.md#hoang26a-architecture) · 中文
+- [TeamWork: Multivariate Time Series Anomaly Detection via Asymmetric Role-aware Channel Modeling](../../conferences/icml-2026/cards/1601-1700.md#hu26bf-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -154,4 +160,5 @@ Model-wide design and information flow.
 - ["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](../../conferences/icml-2026/cards/1201-1300.md#ghiglino26a-architecture) · 中文
 - [SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](../../conferences/icml-2026/cards/1401-1500.md#hagnberger26a-architecture) · 中文
 - [Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing](../../conferences/icml-2026/cards/1501-1600.md#hong26h-architecture) · 中文
+- [MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology](../../conferences/icml-2026/cards/1601-1700.md#hu26at-architecture) · 中文
 <!-- classification:end -->

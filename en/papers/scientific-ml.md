@@ -41,6 +41,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ghiglino26a-architecture"></a>["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](../../conferences/icml-2026/cards/1201-1300.md#paper-ghiglino26a)
 - <a id="hagnberger26a-architecture"></a>[SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](../../conferences/icml-2026/cards/1401-1500.md#paper-hagnberger26a)
 - <a id="hong26h-architecture"></a>[Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26h)
+- <a id="hu26at-architecture"></a>[MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26at)
 
 <a id="by-modules"></a>
 
@@ -86,6 +87,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="haddadnia26a-optimization"></a>[Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../../conferences/icml-2026/cards/1401-1500.md#paper-haddadnia26a)
 - <a id="he26bb-optimization"></a>[Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search](../../conferences/icml-2026/cards/1501-1600.md#paper-he26bb)
 - <a id="hou26d-optimization"></a>[LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26d)
+- <a id="hu26av-optimization"></a>[Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26av)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -101,6 +103,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="gu26b-reinforcement-learning"></a>[CSG: Cognitive Structure Generation for Intelligent Education](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26b)
 - <a id="he26as-reinforcement-learning"></a>[ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education](../../conferences/icml-2026/cards/1501-1600.md#paper-he26as)
 - <a id="hollmer26a-reinforcement-learning"></a>[Open Materials Generation with Inference-Time Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hollmer26a)
+- <a id="hu26al-reinforcement-learning"></a>[CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26al)
 
 <a id="by-training-strategies"></a>
 
@@ -174,6 +177,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="han26f-representation-learning"></a>[Learning Permutation-invariant Macroscopic Dynamics](../../conferences/icml-2026/cards/1401-1500.md#paper-han26f)
 - <a id="he26w-representation-learning"></a>[Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs](../../conferences/icml-2026/cards/1501-1600.md#paper-he26w)
 - <a id="hosseini26a-representation-learning"></a>[Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization](../../conferences/icml-2026/cards/1501-1600.md#paper-hosseini26a)
+- <a id="hu26s-representation-learning"></a>[See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26s)
+- <a id="hu26aj-representation-learning"></a>[Exploring Accurate and Transparent Domain Adaptation in Predictive Healthcare via Concept-Grounded Orthogonal Inference](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26aj)
+- <a id="hua26a-representation-learning"></a>[VecMol: Vector-Field Representations for 3D Molecule Generation](../../conferences/icml-2026/cards/1601-1700.md#paper-hua26a)
 
 <a id="by-evaluation"></a>
 

@@ -33,6 +33,8 @@
 - [事实记忆的率失真界](../conferences/icml-2026/cards/1301-1400.md#guo26j-theory-statistics) · Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing
 - [裁判误设下的最优推理采样数](../conferences/icml-2026/cards/1401-1500.md#halder26a-theory-statistics) · Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling
 - [用对数概率比监测长上下文注意力的尾部结构](../conferences/icml-2026/cards/1501-1600.md#hilton-jones26a-theory-statistics) · Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling
+- [用答案方向的残差投影判断重复提示的极限](../conferences/icml-2026/cards/1601-1700.md#hu26ak-theory-statistics) · Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence
+- [从线上混合分布估计接收集风险](../conferences/icml-2026/cards/1601-1700.md#hu26bh-theory-statistics) · OSCS: Online Selection with Provable FAR Control for LLM Safety
 
 <a id="by-computer-vision"></a>
 
@@ -83,6 +85,8 @@
 - [付费观测的免费预算相变](../conferences/icml-2026/cards/1301-1400.md#gong26i-theory-statistics) · The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations
 - [最优点附近的策略梯度信噪比](../conferences/icml-2026/cards/1401-1500.md#han26z-theory-statistics) · Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator
 - [可复现探索先筛掉低可达状态](../conferences/icml-2026/cards/1501-1600.md#hopkins26b-theory-statistics) · From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning
+- [控制奖励漂移以维持策略与价值跟踪](../conferences/icml-2026/cards/1601-1700.md#hu26f-theory-statistics) · Finite-time Convergence Analysis of Actor-Critic with Evolving Reward
+- [用坐标置信度覆盖连续偏好](../conferences/icml-2026/cards/1601-1700.md#hu26bc-theory-statistics) · Near-Minimax Multi-Objective RL under Predictable Adversarial Preferences and Preference-Free Exploration in Linear MDPs
 
 <a id="by-robotics"></a>
 
@@ -278,6 +282,14 @@
 - [用独立三插值器的中位数获得最优阈值风险阶](../conferences/icml-2026/cards/1501-1600.md#hogsgaard26a-theory-statistics) · The Interplay Between Interpolation and Aggregation in Regression: Optimal Sample Complexity
 - [用单调响应的网格获得线性合同一致效用界](../conferences/icml-2026/cards/1501-1600.md#hogsgaard26b-theory-statistics) · The Optimal Sample Complexity of Linear Contracts
 - [用近优模型集合衡量攻击后切换与泄漏](../conferences/icml-2026/cards/1601-1700.md#hsu26a-theory-statistics) · The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning
+- [把提示当作固定解释器的程序参数](../conferences/icml-2026/cards/1601-1700.md#hu26h-theory-statistics) · In-Context Universal Approximation, Compositional Generalization, and Algorithm Emulation
+- [按攻击频次和是否移位选择持续学习防御](../conferences/icml-2026/cards/1601-1700.md#hu26n-theory-statistics) · Theory of Continual Learning Against Data Poisoning Attacks
+- [在持续训练中分开核算保留和遗忘](../conferences/icml-2026/cards/1601-1700.md#hu26o-theory-statistics) · The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning
+- [预存高阶曲率支持在线升阶](../conferences/icml-2026/cards/1601-1700.md#hu26r-theory-statistics) · Online Learning and Inference for Cox Proportional Hazards Models Using Renewable Sieve Estimation
+- [用随机阈值和删失报告恢复多类别子分布](../conferences/icml-2026/cards/1601-1700.md#hu26ae-theory-statistics) · Censoring with Plausible Deniability: Asymmetric Local Privacy for Multi-Category CDF Estimation
+- [用注意力插值构造可组合的广义激活基](../conferences/icml-2026/cards/1601-1700.md#hu26af-theory-statistics) · Universal Approximation with Softmax Attention
+- [以新增记忆方向判定单掩码对偶](../conferences/icml-2026/cards/1601-1700.md#hu26be-theory-statistics) · On Structured State-Space Duality
+- [利用晋升助益设计多级努力阈值](../conferences/icml-2026/cards/1601-1700.md#huang26a-theory-statistics) · Multi-Level Strategic Classification: Incentivizing Improvement through Promotion and Relegation Dynamics
 
 <a id="by-graph-and-recommendation"></a>
 

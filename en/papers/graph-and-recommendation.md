@@ -54,6 +54,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="cheng26j-optimization"></a>[What Makes a Desired Graph for Relational Deep Learning?](../../conferences/icml-2026/cards/0601-0700.md#paper-cheng26j)
 - <a id="gupta26b-optimization"></a>[Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../../conferences/icml-2026/cards/1401-1500.md#paper-gupta26b)
 - <a id="hosseini26b-optimization"></a>[Neural Dispersion on Graphs](../../conferences/icml-2026/cards/1601-1700.md#paper-hosseini26b)
+- <a id="huang26k-optimization"></a>[Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26k)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -110,6 +111,8 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="he26l-representation-learning"></a>[Structure-Centric Graph Foundation Model via Geometric Bases](../../conferences/icml-2026/cards/1501-1600.md#paper-he26l)
 - <a id="he26af-representation-learning"></a>[GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](../../conferences/icml-2026/cards/1501-1600.md#paper-he26af)
 - <a id="he26at-representation-learning"></a>[A Graph Foundation Model with Cross-Modal Alignment and Modality-Aware Expert Fusion for Multi-Modal Graphs](../../conferences/icml-2026/cards/1501-1600.md#paper-he26at)
+- <a id="hu26x-representation-learning"></a>[Hierarchical Anchor Graph Learning for Multi-View Clustering](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26x)
+- <a id="hu26ag-representation-learning"></a>[A Consensus Anchor-guided Hypergraph Framework for Incomplete Multi-view Clustering](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ag)
 
 <a id="by-evaluation"></a>
 

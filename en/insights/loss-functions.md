@@ -24,6 +24,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Self-correcting for Debiasing Large Language Models](../../conferences/icml-2026/cards/1101-1200.md#feng26z-loss-functions) · 中文
 - [Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse](../../conferences/icml-2026/cards/1101-1200.md#fu26v-loss-functions) · 中文
 - [From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models](../../conferences/icml-2026/cards/1301-1400.md#gu26o-loss-functions) · 中文
+- [Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#hu26d-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -76,6 +77,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Bridging Tokens and Geometry: Token-wise 3D Supervision for CAD Generation](../../conferences/icml-2026/cards/1301-1400.md#guan26g-loss-functions) · 中文
 - [No Data? No Problem: Robust Vision-Tabular Learning with Missing Values](../../conferences/icml-2026/cards/1401-1500.md#hasny26a-loss-functions) · 中文
 - [Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models](../../conferences/icml-2026/cards/1501-1600.md#he26ai-loss-functions) · 中文
+- [DART: Distribution-Aware Adaptive Relational Transfer for Adversarial Attacks against Closed-Source MLLMs](../../conferences/icml-2026/cards/1601-1700.md#hu26aw-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

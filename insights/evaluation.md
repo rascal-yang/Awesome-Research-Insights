@@ -140,6 +140,10 @@
 - [按专家实际写入残差的贡献做解释](../conferences/icml-2026/cards/1501-1600.md#herbst26a-evaluation) · The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level
 - [将注入执行和原文保真分别评测](../conferences/icml-2026/cards/1501-1600.md#hermon26a-evaluation) · Security–Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense
 - [放大推理任务向量进行白盒审计](../conferences/icml-2026/cards/1501-1600.md#hopkins26a-evaluation) · Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets
+- [从因果激活轨迹识别拒答失稳](../conferences/icml-2026/cards/1601-1700.md#hu26ax-evaluation) · Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection
+- [把采样来源与训练损失交叉消融](../conferences/icml-2026/cards/1601-1700.md#huan26a-evaluation) · Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning
+- [先精确反编译再按因果效应剪枝](../conferences/icml-2026/cards/1601-1700.md#huang26b-evaluation) · Discovering Interpretable Algorithms by Decompiling Transformers to RASP
+- [审计安全数据自动增广的污染传播](../conferences/icml-2026/cards/1601-1700.md#huang26e-evaluation) · Rapid Poison: Practical Poisoning Attacks Against the Rapid Response Framework
 
 <a id="by-computer-vision"></a>
 
@@ -160,6 +164,7 @@
 - [用条件熵定位扩散的语义形成窗口](../conferences/icml-2026/cards/1401-1500.md#handke26a-evaluation) · The Entropic Signature of Class Speciation in Diffusion Models
 - [插入抑制证据解释缺席概念](../conferences/icml-2026/cards/1501-1600.md#hesse26a-evaluation) · What is Missing? Explaining Neurons Activated by Absent Concepts
 - [用人工定位上界区分小物体编辑和评审失败](../conferences/icml-2026/cards/1501-1600.md#hong26a-evaluation) · DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model
+- [跨训练阶段检验持续学习的后门持久性](../conferences/icml-2026/cards/1601-1700.md#huang26n-evaluation) · Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring
 
 <a id="by-nlp"></a>
 
@@ -176,6 +181,7 @@
 - [音频自监督表征的凸门控探测](../conferences/icml-2026/cards/1201-1300.md#ghaffari26a-evaluation) · BAT: Better Audio Transformer Guided by Convex Gated Probing
 - [基于低概率词位的不确定性检测](../conferences/icml-2026/cards/1301-1400.md#guo26w-evaluation) · On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective
 - [基于真实音乐密度的生成检测](../conferences/icml-2026/cards/1401-1500.md#han26u-evaluation) · MusicDET: Zero-Shot AI-Generated Music Detection
+- [把模式归纳约束为可审计的类型图](../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text
 
 <a id="by-reinforcement-learning"></a>
 
@@ -229,6 +235,7 @@
 - [网站开发的交互工作流验证](../conferences/icml-2026/cards/1501-1600.md#he26n-evaluation) · Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification
 - [对同一因果问题分别评估叙述和显式链](../conferences/icml-2026/cards/1501-1600.md#hoang26b-evaluation) · The Abstraction Gap in Vision-Language Causal Reasoning
 - [在图像编辑评估中覆盖视觉指令](../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models
+- [从任务失败周期诊断隐藏视觉分块](../conferences/icml-2026/cards/1601-1700.md#hu26b-evaluation) · Steal the Patch Size: Adversarially Manipulate Vision Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -260,6 +267,7 @@
 - [表征相似度的置换零校准](../conferences/icml-2026/cards/1301-1400.md#groger26a-evaluation) · Revisiting the Platonic Representation Hypothesis: An Aristotelian View
 - [按决策收益度量解释价值](../conferences/icml-2026/cards/1301-1400.md#guo26u-evaluation) · Explanations are a Means to an End: Decision Theoretic Explanation Evaluation
 - [时间序列预测的频域稳健性评测](../conferences/icml-2026/cards/1401-1500.md#han26d-evaluation) · TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting
+- [把图结构比较与免通道对齐的权重比较结合](../conferences/icml-2026/cards/1601-1700.md#hu26ap-evaluation) · An In-Depth Study on Deep Learning Model Cloning
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -140,6 +140,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level](../../conferences/icml-2026/cards/1501-1600.md#herbst26a-evaluation) · 中文
 - [Security–Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense](../../conferences/icml-2026/cards/1501-1600.md#hermon26a-evaluation) · 中文
 - [Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets](../../conferences/icml-2026/cards/1501-1600.md#hopkins26a-evaluation) · 中文
+- [Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection](../../conferences/icml-2026/cards/1601-1700.md#hu26ax-evaluation) · 中文
+- [Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](../../conferences/icml-2026/cards/1601-1700.md#huan26a-evaluation) · 中文
+- [Discovering Interpretable Algorithms by Decompiling Transformers to RASP](../../conferences/icml-2026/cards/1601-1700.md#huang26b-evaluation) · 中文
+- [Rapid Poison: Practical Poisoning Attacks Against the Rapid Response Framework](../../conferences/icml-2026/cards/1601-1700.md#huang26e-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -160,6 +164,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Entropic Signature of Class Speciation in Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#handke26a-evaluation) · 中文
 - [What is Missing? Explaining Neurons Activated by Absent Concepts](../../conferences/icml-2026/cards/1501-1600.md#hesse26a-evaluation) · 中文
 - [DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model](../../conferences/icml-2026/cards/1501-1600.md#hong26a-evaluation) · 中文
+- [Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring](../../conferences/icml-2026/cards/1601-1700.md#huang26n-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -176,6 +181,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [BAT: Better Audio Transformer Guided by Convex Gated Probing](../../conferences/icml-2026/cards/1201-1300.md#ghaffari26a-evaluation) · 中文
 - [On the Salience of Low-Probability Tokens for AI-Generated Text Detection: A Multiscale Uncertainty Perspective](../../conferences/icml-2026/cards/1301-1400.md#guo26w-evaluation) · 中文
 - [MusicDET: Zero-Shot AI-Generated Music Detection](../../conferences/icml-2026/cards/1401-1500.md#han26u-evaluation) · 中文
+- [SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text](../../conferences/icml-2026/cards/1601-1700.md#hu26t-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -229,6 +235,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](../../conferences/icml-2026/cards/1501-1600.md#he26n-evaluation) · 中文
 - [The Abstraction Gap in Vision-Language Causal Reasoning](../../conferences/icml-2026/cards/1501-1600.md#hoang26b-evaluation) · 中文
 - [When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · 中文
+- [Steal the Patch Size: Adversarially Manipulate Vision Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26b-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -260,6 +267,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Revisiting the Platonic Representation Hypothesis: An Aristotelian View](../../conferences/icml-2026/cards/1301-1400.md#groger26a-evaluation) · 中文
 - [Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](../../conferences/icml-2026/cards/1301-1400.md#guo26u-evaluation) · 中文
 - [TSFAdv: Frequency-Guided Black-Box Adversarial Attacks on Time Series Forecasting](../../conferences/icml-2026/cards/1401-1500.md#han26d-evaluation) · 中文
+- [An In-Depth Study on Deep Learning Model Cloning](../../conferences/icml-2026/cards/1601-1700.md#hu26ap-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

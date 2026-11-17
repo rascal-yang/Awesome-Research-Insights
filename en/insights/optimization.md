@@ -37,6 +37,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](../../conferences/icml-2026/cards/1501-1600.md#he26ak-optimization) · 中文
 - [Factored Gossip DiLoCo: Reducing Blocking Communication in DiLoCo](../../conferences/icml-2026/cards/1501-1600.md#hewa-koneputugodage26a-optimization) · 中文
 - [MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks](../../conferences/icml-2026/cards/1501-1600.md#hong26l-optimization) · 中文
+- [EvoMAS: Evolutionary Generation of Multi-Agent Systems](../../conferences/icml-2026/cards/1601-1700.md#hu26bg-optimization) · 中文
+- [RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models](../../conferences/icml-2026/cards/1601-1700.md#hu26bj-optimization) · 中文
+- [Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy](../../conferences/icml-2026/cards/1601-1700.md#huang26d-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -198,6 +201,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Ambiguous Strategic Classification](../../conferences/icml-2026/cards/1501-1600.md#hikri26a-optimization) · 中文
 - [Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization](../../conferences/icml-2026/cards/1501-1600.md#hood26a-optimization) · 中文
 - [Gromov-Wasserstein at Scale, Beyond Squared Norms](../../conferences/icml-2026/cards/1601-1700.md#houry26a-optimization) · 中文
+- [Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces](../../conferences/icml-2026/cards/1601-1700.md#hu26g-optimization) · 中文
+- [Learning the Best Under Constraints: A Duality-Based Framework](../../conferences/icml-2026/cards/1601-1700.md#hu26bi-optimization) · 中文
+- [Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming](../../conferences/icml-2026/cards/1601-1700.md#huang26j-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -209,6 +215,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [What Makes a Desired Graph for Relational Deep Learning?](../../conferences/icml-2026/cards/0601-0700.md#cheng26j-optimization) · 中文
 - [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../../conferences/icml-2026/cards/1401-1500.md#gupta26b-optimization) · 中文
 - [Neural Dispersion on Graphs](../../conferences/icml-2026/cards/1601-1700.md#hosseini26b-optimization) · 中文
+- [Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning](../../conferences/icml-2026/cards/1601-1700.md#huang26k-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -226,4 +233,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../../conferences/icml-2026/cards/1401-1500.md#haddadnia26a-optimization) · 中文
 - [Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search](../../conferences/icml-2026/cards/1501-1600.md#he26bb-optimization) · 中文
 - [LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs](../../conferences/icml-2026/cards/1601-1700.md#hou26d-optimization) · 中文
+- [Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling](../../conferences/icml-2026/cards/1601-1700.md#hu26av-optimization) · 中文
 <!-- classification:end -->

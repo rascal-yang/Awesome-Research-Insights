@@ -55,6 +55,7 @@
 - [先对齐混合学生隐状态，再蒸馏并合并专家](../conferences/icml-2026/cards/1401-1500.md#hauzenberger26a-training-strategies) · Effective Distillation to Hybrid xLSTM Architectures
 - [蒸馏投影的激活感知初始化](../conferences/icml-2026/cards/1501-1600.md#he26aj-training-strategies) · Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization
 - [用可微共形流程学习断言评分，再切回硬校准](../conferences/icml-2026/cards/1501-1600.md#hittesdorf26a-training-strategies) · Differentiable Conformal Training for LLM Reasoning Factuality
+- [从自身 Jacobi 轨迹蒸馏保持因果的多词元预测](../conferences/icml-2026/cards/1601-1700.md#hu26aa-training-strategies) · Fast and Accurate Causal Parallel Decoding using Jacobi Forcing
 
 <a id="by-computer-vision"></a>
 
@@ -85,6 +86,7 @@
 ### 自然语言处理
 
 - [低资源语音的多温度自对齐](../conferences/icml-2026/cards/1201-1300.md#geng26c-training-strategies) · Bridging the Stability-Expressivity Gap: Synthetic Data Scaling and Preference Alignment for Low-Resource Spoken Language Models
+- [以合成数据监督锚抑制属性奖励投机](../conferences/icml-2026/cards/1601-1700.md#hu26an-training-strategies) · ACTG-ARL: Differentially Private Conditional Text Generation with RL-Boosted Control
 
 <a id="by-robotics"></a>
 

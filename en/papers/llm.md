@@ -26,6 +26,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="fu26t-architecture"></a>[Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26t)
 - <a id="gan26c-architecture"></a>[Caracal: Causal Architecture via Spectral Mixing](../../conferences/icml-2026/cards/1101-1200.md#paper-gan26c)
 - <a id="he26i-architecture"></a>[Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](../../conferences/icml-2026/cards/1501-1600.md#paper-he26i)
+- <a id="huang26i-architecture"></a>[SD-MoE: Spectral Decomposition for Effective Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26i)
+- <a id="huang26l-architecture"></a>[Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26l)
 
 <a id="by-modules"></a>
 
@@ -46,6 +48,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="feng26v-modules"></a>[DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26v)
 - <a id="gao26y-modules"></a>[Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26y)
 - <a id="goncalves26a-modules"></a>[AdaSplash-2: Faster Differentiable Sparse Attention](../../conferences/icml-2026/cards/1301-1400.md#paper-goncalves26a)
+- <a id="hu26as-modules"></a>[Residual Context Diffusion Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26as)
+- <a id="huang26m-modules"></a>[Thinking in Flow: A Dissipative Stabilization Operator for Robust Autoregressive Reasoning](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26m)
 
 <a id="by-loss-functions"></a>
 
@@ -62,6 +66,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="feng26z-loss-functions"></a>[Self-correcting for Debiasing Large Language Models](../../conferences/icml-2026/cards/1101-1200.md#paper-feng26z)
 - <a id="fu26v-loss-functions"></a>[Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse](../../conferences/icml-2026/cards/1101-1200.md#paper-fu26v)
 - <a id="gu26o-loss-functions"></a>[From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26o)
+- <a id="hu26d-loss-functions"></a>[Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26d)
 
 <a id="by-optimization"></a>
 
@@ -91,6 +96,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="he26ak-optimization"></a>[One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ak)
 - <a id="hewa-koneputugodage26a-optimization"></a>[Factored Gossip DiLoCo: Reducing Blocking Communication in DiLoCo](../../conferences/icml-2026/cards/1501-1600.md#paper-hewa-koneputugodage26a)
 - <a id="hong26l-optimization"></a>[MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26l)
+- <a id="hu26bg-optimization"></a>[EvoMAS: Evolutionary Generation of Multi-Agent Systems](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bg)
+- <a id="hu26bj-optimization"></a>[RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bj)
+- <a id="huang26d-optimization"></a>[Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -147,6 +155,12 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="he26ae-reinforcement-learning"></a>[Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ae)
 - <a id="he26ba-reinforcement-learning"></a>[IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ba)
 - <a id="heckel26a-reinforcement-learning"></a>[Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/1501-1600.md#paper-heckel26a)
+- <a id="hu26l-reinforcement-learning"></a>[Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26l)
+- <a id="hu26v-reinforcement-learning"></a>[SmartThinker: Progressive Chain-of-Thought Length Calibration for Efficient Large Language Model Reasoning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26v)
+- <a id="hu26y-reinforcement-learning"></a>[LightningRL: Breaking the Accuracy–Parallelism Trade-off of Block-wise dLLMs via Reinforcement Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26y)
+- <a id="hu26ah-reinforcement-learning"></a>[BroRL: Scaling Reinforcement Learning via Broadened Exploration](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ah)
+- <a id="hua26c-reinforcement-learning"></a>[Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization](../../conferences/icml-2026/cards/1601-1700.md#paper-hua26c)
+- <a id="huang26g-reinforcement-learning"></a>[Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26g)
 
 <a id="by-training-strategies"></a>
 
@@ -194,6 +208,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="hauzenberger26a-training-strategies"></a>[Effective Distillation to Hybrid xLSTM Architectures](../../conferences/icml-2026/cards/1401-1500.md#paper-hauzenberger26a)
 - <a id="he26aj-training-strategies"></a>[Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization](../../conferences/icml-2026/cards/1501-1600.md#paper-he26aj)
 - <a id="hittesdorf26a-training-strategies"></a>[Differentiable Conformal Training for LLM Reasoning Factuality](../../conferences/icml-2026/cards/1501-1600.md#paper-hittesdorf26a)
+- <a id="hu26aa-training-strategies"></a>[Fast and Accurate Causal Parallel Decoding using Jacobi Forcing](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26aa)
 
 <a id="by-data-strategies"></a>
 
@@ -325,6 +340,10 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="hoang26d-inference"></a>[SpecMD: A Comprehensive Study On Speculative Expert Prefetching](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26d)
 - <a id="hong26i-inference"></a>[dgMARK: Decoding-Guided Watermarking for Diffusion Language Models](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26i)
 - <a id="hoppe26a-inference"></a>[Controllable and Explainable Personality Sliders for LLMs at Inference Time](../../conferences/icml-2026/cards/1501-1600.md#paper-hoppe26a)
+- <a id="hu26m-inference"></a>[PrivGate: Steering Contextual Integrity in LLMs via Latent Space Geometry](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26m)
+- <a id="hu26ar-inference"></a>[ECHO: Elastic Speculative Decoding with Sparse Gating for High-Concurrency Scenarios](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ar)
+- <a id="hu26bb-inference"></a>[Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bb)
+- <a id="hua26b-inference"></a>[Gram2Token: Enabling Run-time GPU-Native Grammar-Constrained Decoding for LLMs](../../conferences/icml-2026/cards/1601-1700.md#paper-hua26b)
 
 <a id="by-representation-learning"></a>
 
@@ -335,6 +354,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="chen26gy-representation-learning"></a>[ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model](../../conferences/icml-2026/cards/0601-0700.md#paper-chen26gy)
 - <a id="gadgil26a-representation-learning"></a>[Ensembling Sparse Autoencoders](../../conferences/icml-2026/cards/1101-1200.md#paper-gadgil26a)
 - <a id="he26z-representation-learning"></a>[LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection](../../conferences/icml-2026/cards/1501-1600.md#paper-he26z)
+- <a id="hu26c-representation-learning"></a>[Towards Atoms of Large Language Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26c)
 
 <a id="by-evaluation"></a>
 
@@ -467,6 +487,10 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="herbst26a-evaluation"></a>[The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level](../../conferences/icml-2026/cards/1501-1600.md#paper-herbst26a)
 - <a id="hermon26a-evaluation"></a>[Security–Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense](../../conferences/icml-2026/cards/1501-1600.md#paper-hermon26a)
 - <a id="hopkins26a-evaluation"></a>[Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets](../../conferences/icml-2026/cards/1501-1600.md#paper-hopkins26a)
+- <a id="hu26ax-evaluation"></a>[Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ax)
+- <a id="huan26a-evaluation"></a>[Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](../../conferences/icml-2026/cards/1601-1700.md#paper-huan26a)
+- <a id="huang26b-evaluation"></a>[Discovering Interpretable Algorithms by Decompiling Transformers to RASP](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26b)
+- <a id="huang26e-evaluation"></a>[Rapid Poison: Practical Poisoning Attacks Against the Rapid Response Framework](../../conferences/icml-2026/cards/1601-1700.md#paper-huang26e)
 
 <a id="by-theory-statistics"></a>
 
@@ -492,4 +516,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="guo26j-theory-statistics"></a>[Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26j)
 - <a id="halder26a-theory-statistics"></a>[Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](../../conferences/icml-2026/cards/1401-1500.md#paper-halder26a)
 - <a id="hilton-jones26a-theory-statistics"></a>[Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling](../../conferences/icml-2026/cards/1501-1600.md#paper-hilton-jones26a)
+- <a id="hu26ak-theory-statistics"></a>[Not All Answers Are Contextually Persuadable: Inference Dynamics in Large Language Models under Contextual Influence](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26ak)
+- <a id="hu26bh-theory-statistics"></a>[OSCS: Online Selection with Provable FAR Control for LLM Safety](../../conferences/icml-2026/cards/1601-1700.md#paper-hu26bh)
 <!-- classification:end -->

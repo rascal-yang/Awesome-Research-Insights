@@ -46,6 +46,7 @@
 - [生成视频检测的质量分布配对](../conferences/icml-2026/cards/1001-1100.md#fang26s-data-strategies) · Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection
 - [扩散数据蒸馏的集合耦合引导](../conferences/icml-2026/cards/1101-1200.md#gan26d-data-strategies) · Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation
 - [分别约束插入物的布局、照明和边界纹理](../conferences/icml-2026/cards/1601-1700.md#hou26a-data-strategies) · Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery
+- [以细粒度隐私标注驱动频带适配](../conferences/icml-2026/cards/1601-1700.md#hu26bk-data-strategies) · VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection
 
 <a id="by-nlp"></a>
 
@@ -109,6 +110,8 @@
 - [元学习选样的低信噪比](../conferences/icml-2026/cards/0901-1000.md#du26u-data-strategies) · On the Difficulty of Learning a Meta-network for Training Data Selection
 - [合成递归训练的多偏好筛选](../conferences/icml-2026/cards/1001-1100.md#falahati26a-data-strategies) · Curated Synthetic Data Doesn’t Have to Collapse: A Theoretical Study of Generative Retraining with Pluralistic Preferences
 - [治疗效应估计的主动随机试验](../conferences/icml-2026/cards/1201-1300.md#gao26z-data-strategies) · Budgeted Active Experimentation for Treatment Effect Estimation from Observational and Randomized Data
+- [用全局模型的相对信心在客户端重分配标签](../conferences/icml-2026/cards/1601-1700.md#hu26ao-data-strategies) · FedReLa: Imbalanced Federated Learning via Re-Labeling
+- [用参考模型权重方向估计样本效用](../conferences/icml-2026/cards/1601-1700.md#huang26c-data-strategies) · Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights
 
 <a id="by-graph-and-recommendation"></a>
 

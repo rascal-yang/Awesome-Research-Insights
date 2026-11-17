@@ -37,6 +37,9 @@
 - [用权重谱分配逐层学习率](../conferences/icml-2026/cards/1501-1600.md#he26ak-optimization) · One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs
 - [把同步拆成可重叠的混合和按需阻塞校准](../conferences/icml-2026/cards/1501-1600.md#hewa-koneputugodage26a-optimization) · Factored Gossip DiLoCo: Reducing Blocking Communication in DiLoCo
 - [固定代理图上的不确定性感知提示搜索](../conferences/icml-2026/cards/1501-1600.md#hong26l-optimization) · MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks
+- [从执行轨迹进化代理协作图](../conferences/icml-2026/cards/1601-1700.md#hu26bg-optimization) · EvoMAS: Evolutionary Generation of Multi-Agent Systems
+- [按有效秩跨层分配专家保留额](../conferences/icml-2026/cards/1601-1700.md#hu26bj-optimization) · RaGEP: Rank-aware Geometric Expert Pruning for Mixture-of-Experts Language Models
+- [跟踪并抑制主导梯度谱方向](../conferences/icml-2026/cards/1601-1700.md#huang26d-optimization) · Spectra: Rethinking Optimizers for LLMs Under Spectral Anisotropy
 
 <a id="by-computer-vision"></a>
 
@@ -198,6 +201,9 @@
 - [把披露集合引发的用户响应写进分类损失](../conferences/icml-2026/cards/1501-1600.md#hikri26a-optimization) · Ambiguous Strategic Classification
 - [由张量收缩和损失分解生成非负更新](../conferences/icml-2026/cards/1501-1600.md#hood26a-optimization) · Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization
 - [在提升特征空间迭代匹配几何结构](../conferences/icml-2026/cards/1601-1700.md#houry26a-optimization) · Gromov-Wasserstein at Scale, Beyond Squared Norms
+- [用平均分数编码采样的访问历史](../conferences/icml-2026/cards/1601-1700.md#hu26g-optimization) · Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces
+- [用两类备择调度带约束测量](../conferences/icml-2026/cards/1601-1700.md#hu26bi-optimization) · Learning the Best Under Constraints: A Duality-Based Framework
+- [只用学习求解器采样整数变量](../conferences/icml-2026/cards/1601-1700.md#huang26j-optimization) · Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -209,6 +215,7 @@
 - [关系数据库的任务感知图结构优化](../conferences/icml-2026/cards/0601-0700.md#cheng26j-optimization) · What Makes a Desired Graph for Relational Deep Learning?
 - [演化图的粗化映射增量更新](../conferences/icml-2026/cards/1401-1500.md#gupta26b-optimization) · Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening
 - [用生成轨迹累积结构互斥的候选图](../conferences/icml-2026/cards/1601-1700.md#hosseini26b-optimization) · Neural Dispersion on Graphs
+- [先按同配性归组再修正组间联邦梯度](../conferences/icml-2026/cards/1601-1700.md#huang26k-optimization) · Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning
 
 <a id="by-scientific-ml"></a>
 
@@ -226,4 +233,5 @@
 - [分区赌博机分配化学筛选预算](../conferences/icml-2026/cards/1401-1500.md#haddadnia26a-optimization) · Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space
 - [在相近架构间评估共享权重的排名](../conferences/icml-2026/cards/1501-1600.md#he26bb-optimization) · Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search
 - [用实际求解反馈优化语言模型生成的分支骨架](../conferences/icml-2026/cards/1601-1700.md#hou26d-optimization) · LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs
+- [分开探索候选谱系和编辑规则](../conferences/icml-2026/cards/1601-1700.md#hu26av-optimization) · Steering Large Language Models through the DMTA Cycle: Structure-Based Drug Design via Knowledge-Driven Bi-Level Thompson Sampling
 <!-- classification:end -->

@@ -50,6 +50,7 @@
 - <a id="hadji26a-modules"></a>[Hierarchical Image Tokenization for Multi-Scale Image Super Resolution](../conferences/icml-2026/cards/1401-1500.md#paper-hadji26a)
 - <a id="han26ab-modules"></a>[Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization](../conferences/icml-2026/cards/1401-1500.md#paper-han26ab)
 - <a id="he26an-modules"></a>[Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration](../conferences/icml-2026/cards/1501-1600.md#paper-he26an)
+- <a id="hu26au-modules"></a>[Interactive Segmentation with Elaborate Focus Prior](../conferences/icml-2026/cards/1601-1700.md#paper-hu26au)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -86,6 +87,7 @@
 - <a id="choi26o-reinforcement-learning"></a>[Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](../conferences/icml-2026/cards/0701-0800.md#paper-choi26o)
 - <a id="guo26h-reinforcement-learning"></a>[Probabilistic Salient Object Ranking](../conferences/icml-2026/cards/1301-1400.md#paper-guo26h)
 - <a id="han26o-reinforcement-learning"></a>[ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models](../conferences/icml-2026/cards/1401-1500.md#paper-han26o)
+- <a id="hu26j-reinforcement-learning"></a>[Embedding-perturbed Exploration Preference Optimization for Flow Models](../conferences/icml-2026/cards/1601-1700.md#paper-hu26j)
 
 <a id="by-training-strategies"></a>
 
@@ -123,6 +125,7 @@
 - <a id="fang26s-data-strategies"></a>[Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](../conferences/icml-2026/cards/1001-1100.md#paper-fang26s)
 - <a id="gan26d-data-strategies"></a>[Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](../conferences/icml-2026/cards/1101-1200.md#paper-gan26d)
 - <a id="hou26a-data-strategies"></a>[Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery](../conferences/icml-2026/cards/1601-1700.md#paper-hou26a)
+- <a id="hu26bk-data-strategies"></a>[VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection](../conferences/icml-2026/cards/1601-1700.md#paper-hu26bk)
 
 <a id="by-inference"></a>
 
@@ -171,6 +174,8 @@
 - <a id="han26l-inference"></a>[Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them](../conferences/icml-2026/cards/1401-1500.md#paper-han26l)
 - <a id="han26y-inference"></a>[Veda: Scalable Video Diffusion via Distilled Sparse Attention](../conferences/icml-2026/cards/1401-1500.md#paper-han26y)
 - <a id="holderrieth26a-inference"></a>[Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps](../conferences/icml-2026/cards/1501-1600.md#paper-holderrieth26a)
+- <a id="hu26p-inference"></a>[DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation](../conferences/icml-2026/cards/1601-1700.md#paper-hu26p)
+- <a id="huang26f-inference"></a>[LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration](../conferences/icml-2026/cards/1601-1700.md#paper-huang26f)
 
 <a id="by-representation-learning"></a>
 
@@ -197,6 +202,7 @@
 - <a id="he26az-representation-learning"></a>[A Flat Vocabulary or a Rich Hierarchy? Re-introducing Intrinsic Structure Transforms the Autoregressive Image Generation](../conferences/icml-2026/cards/1501-1600.md#paper-he26az)
 - <a id="hong26j-representation-learning"></a>[Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning](../conferences/icml-2026/cards/1501-1600.md#paper-hong26j)
 - <a id="hou26e-representation-learning"></a>[Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](../conferences/icml-2026/cards/1601-1700.md#paper-hou26e)
+- <a id="hu26z-representation-learning"></a>[AURA: Visually Interpretable Affective Understanding via Robust Archetypes](../conferences/icml-2026/cards/1601-1700.md#paper-hu26z)
 
 <a id="by-evaluation"></a>
 
@@ -217,6 +223,7 @@
 - <a id="handke26a-evaluation"></a>[The Entropic Signature of Class Speciation in Diffusion Models](../conferences/icml-2026/cards/1401-1500.md#paper-handke26a)
 - <a id="hesse26a-evaluation"></a>[What is Missing? Explaining Neurons Activated by Absent Concepts](../conferences/icml-2026/cards/1501-1600.md#paper-hesse26a)
 - <a id="hong26a-evaluation"></a>[DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model](../conferences/icml-2026/cards/1501-1600.md#paper-hong26a)
+- <a id="huang26n-evaluation"></a>[Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring](../conferences/icml-2026/cards/1601-1700.md#paper-huang26n)
 
 <a id="by-theory-statistics"></a>
 
