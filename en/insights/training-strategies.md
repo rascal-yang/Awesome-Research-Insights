@@ -88,6 +88,7 @@ Training schedules, curricula, and task or stage composition.
 - [Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment](../../conferences/icml-2026/cards/2601-2700.md#li26hh-training-strategies) · 中文
 - [Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](../../conferences/icml-2026/cards/2601-2700.md#li26ik-training-strategies) · 中文
 - [Can Large Language Models Generalize Procedures Across Representations?](../../conferences/icml-2026/cards/2701-2800.md#lin26k-training-strategies) · 中文
+- [ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26ap-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -129,6 +130,8 @@ Training schedules, curricula, and task or stage composition.
 - [AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation](../../conferences/icml-2026/cards/2601-2700.md#li26iw-training-strategies) · 中文
 - [TransLight: Image-Guided Customized Lighting Control with Generative Decoupling](../../conferences/icml-2026/cards/2601-2700.md#li26ka-training-strategies) · 中文
 - [World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing](../../conferences/icml-2026/cards/2601-2700.md#liang26m-training-strategies) · 中文
+- [DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](../../conferences/icml-2026/cards/2701-2800.md#lin26ah-training-strategies) · 中文
+- [GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26aj-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -144,6 +147,7 @@ Training schedules, curricula, and task or stage composition.
 ### Reinforcement Learning
 
 - [CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26ai-training-strategies) · 中文
+- [Active Curriculum Refinement for Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#liu26j-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -250,6 +254,7 @@ Training schedules, curricula, and task or stage composition.
 - [FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training](../../conferences/icml-2026/cards/2401-2500.md#li26ae-training-strategies) · 中文
 - [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](../../conferences/icml-2026/cards/2501-2600.md#li26ep-training-strategies) · 中文
 - [SURF: Separation via Unsupervised Remixing Flow](../../conferences/icml-2026/cards/2501-2600.md#li26fa-training-strategies) · 中文
+- [Consistency Deep Equilibrium Models](../../conferences/icml-2026/cards/2701-2800.md#lin26w-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -263,6 +268,7 @@ Training schedules, curricula, and task or stage composition.
 - [Feedback Control for Multi-Objective Graph Self-Supervision](../../conferences/icml-2026/cards/1301-1400.md#grover26a-training-strategies) · 中文
 - [FedRGL: Robust Federated Graph Learning under Label Noise](../../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · 中文
 - [Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task](../../conferences/icml-2026/cards/2601-2700.md#li26ih-training-strategies) · 中文
+- [FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space](../../conferences/icml-2026/cards/2701-2800.md#liu26b-training-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

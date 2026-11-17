@@ -52,6 +52,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#lee26k-loss-functions) · 中文
 - [Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements](../../conferences/icml-2026/cards/2301-2400.md#levac26a-loss-functions) · 中文
 - [Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction](../../conferences/icml-2026/cards/2601-2700.md#li26iz-loss-functions) · 中文
+- [Adversarial Flow Models](../../conferences/icml-2026/cards/2701-2800.md#lin26ao-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -102,6 +103,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models](../../conferences/icml-2026/cards/2501-2600.md#li26er-loss-functions) · 中文
 - [DenseMLLM: Standard Multimodal LLMs for Dense Prediction](../../conferences/icml-2026/cards/2501-2600.md#li26fg-loss-functions) · 中文
 - [Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment](../../conferences/icml-2026/cards/2601-2700.md#li26jy-loss-functions) · 中文
+- [GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](../../conferences/icml-2026/cards/2701-2800.md#liu26e-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -128,6 +130,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data](../../conferences/icml-2026/cards/2301-2400.md#lee26aq-loss-functions) · 中文
 - [Contrastive Order Learning: A General Framework for Ordinal Regression](../../conferences/icml-2026/cards/2301-2400.md#lee26bd-loss-functions) · 中文
 - [Trajectory Consistency for One-Step Generation on Euler Mean Flows](../../conferences/icml-2026/cards/2501-2600.md#li26fn-loss-functions) · 中文
+- [When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer](../../conferences/icml-2026/cards/2701-2800.md#liu26g-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

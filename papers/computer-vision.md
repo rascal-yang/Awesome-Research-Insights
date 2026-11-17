@@ -85,6 +85,8 @@
 - <a id="li26fi-modules"></a>[NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams](../conferences/icml-2026/cards/2501-2600.md#paper-li26fi)
 - <a id="liang26z-modules"></a>[SceneDirector: Bridging Explicit Geometry and Generative Priors for Unified Driving Scene Editing](../conferences/icml-2026/cards/2701-2800.md#paper-liang26z)
 - <a id="lim26c-modules"></a>[GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting](../conferences/icml-2026/cards/2701-2800.md#paper-lim26c)
+- <a id="lin26y-modules"></a>[X-MoGe: A Cross-Modal Adaptation Framework with Mixture-of-Experts and Geometry Guidance for Heterogeneous Collaborative Perception](../conferences/icml-2026/cards/2701-2800.md#paper-lin26y)
+- <a id="liu26v-modules"></a>[GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](../conferences/icml-2026/cards/2801-2900.md#paper-liu26v)
 - <a id="tian26k-modules"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../conferences/icml-2026/cards/4401-4500.md#paper-tian26k)
 
 <a id="by-loss-functions"></a>
@@ -106,6 +108,7 @@
 - <a id="lee26k-loss-functions"></a>[Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26k)
 - <a id="levac26a-loss-functions"></a>[Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements](../conferences/icml-2026/cards/2301-2400.md#paper-levac26a)
 - <a id="li26iz-loss-functions"></a>[Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction](../conferences/icml-2026/cards/2601-2700.md#paper-li26iz)
+- <a id="lin26ao-loss-functions"></a>[Adversarial Flow Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ao)
 
 <a id="by-optimization"></a>
 
@@ -130,6 +133,7 @@
 - <a id="lee26ak-optimization"></a>[UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ak)
 - <a id="lee26as-optimization"></a>[Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization](../conferences/icml-2026/cards/2301-2400.md#paper-lee26as)
 - <a id="li26gy-optimization"></a>[Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation](../conferences/icml-2026/cards/2501-2600.md#paper-li26gy)
+- <a id="lin26o-optimization"></a>[Unlocking the Potential of Continual Model Merging: An ODE Perspective](../conferences/icml-2026/cards/2701-2800.md#paper-lin26o)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -184,6 +188,8 @@
 - <a id="li26iw-training-strategies"></a>[AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation](../conferences/icml-2026/cards/2601-2700.md#paper-li26iw)
 - <a id="li26ka-training-strategies"></a>[TransLight: Image-Guided Customized Lighting Control with Generative Decoupling](../conferences/icml-2026/cards/2601-2700.md#paper-li26ka)
 - <a id="liang26m-training-strategies"></a>[World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing](../conferences/icml-2026/cards/2601-2700.md#paper-liang26m)
+- <a id="lin26ah-training-strategies"></a>[DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ah)
+- <a id="lin26aj-training-strategies"></a>[GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning](../conferences/icml-2026/cards/2701-2800.md#paper-lin26aj)
 
 <a id="by-data-strategies"></a>
 
@@ -271,6 +277,7 @@
 - <a id="li26iv-inference"></a>[DiFA: Inference-Time Forward-Process Alignment for Diffusion Models](../conferences/icml-2026/cards/2601-2700.md#paper-li26iv)
 - <a id="li26jw-inference"></a>[Multi-Label Test-Time Adaptation with Bayesian Conditional Priors](../conferences/icml-2026/cards/2601-2700.md#paper-li26jw)
 - <a id="lijing26a-inference"></a>[KIStego: Key-Independent Secure Image Distribution via Bipartite Structural Invariants](../conferences/icml-2026/cards/2701-2800.md#paper-lijing26a)
+- <a id="liu26a-inference"></a>[AdaEraser: Training-Free Object Removal via Adaptive Attention Suppression](../conferences/icml-2026/cards/2701-2800.md#paper-liu26a)
 
 <a id="by-representation-learning"></a>
 
@@ -310,6 +317,7 @@
 - <a id="liang26h-representation-learning"></a>[CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization](../conferences/icml-2026/cards/2601-2700.md#paper-liang26h)
 - <a id="liang26w-representation-learning"></a>[VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](../conferences/icml-2026/cards/2701-2800.md#paper-liang26w)
 - <a id="lin26f-representation-learning"></a>[Planar Symmetric Pattern Generation](../conferences/icml-2026/cards/2701-2800.md#paper-lin26f)
+- <a id="liu26t-representation-learning"></a>[Risk-Bounded Distribution Reconstruction: Stable Statistic Calibration for Long-Tailed Recognition](../conferences/icml-2026/cards/2701-2800.md#paper-liu26t)
 
 <a id="by-evaluation"></a>
 

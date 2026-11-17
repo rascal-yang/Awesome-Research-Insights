@@ -71,6 +71,9 @@
 - [压缩激活时保留主方向并无偏估计谱尾部](../conferences/icml-2026/cards/2601-2700.md#li26je-optimization) · PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training
 - [在效用零空间内跨语种编辑安全方向](../conferences/icml-2026/cards/2701-2800.md#liang26x-optimization) · Multilingual Safety Alignment Via Sparse Weight Editing
 - [激活协方差引导的线性层量化](../conferences/icml-2026/cards/2701-2800.md#lifar26a-optimization) · WaterSIC: Information-Theoretically (Near) Optimal Linear Layer Quantization
+- [固定尺度先解析零点再搜索量化初值](../conferences/icml-2026/cards/2701-2800.md#lin26l-optimization) · NeUQI: Near-Optimal Uniform Quantization Parameter Initialization for Low-Bit LLMs
+- [按层保存低比特激活并在高精度归约梯度](../conferences/icml-2026/cards/2701-2800.md#lin26m-optimization) · AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs
+- [将零阶扰动限制在输入激活张成的子空间](../conferences/icml-2026/cards/2701-2800.md#lin26n-optimization) · AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning
 
 <a id="by-computer-vision"></a>
 
@@ -95,6 +98,7 @@
 - [放松传输边际并用观测似然约束反演](../conferences/icml-2026/cards/2301-2400.md#lee26ak-optimization) · UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems
 - [按感受野位置调节三维大卷积核的梯度](../conferences/icml-2026/cards/2301-2400.md#lee26as-optimization) · Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization
 - [按视觉生成轨迹初始化稀疏专家](../conferences/icml-2026/cards/2501-2600.md#li26gy-optimization) · Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation
+- [沿损失障碍修正的参数路径选择合并点](../conferences/icml-2026/cards/2701-2800.md#lin26o-optimization) · Unlocking the Potential of Continual Model Merging: An ODE Perspective
 
 <a id="by-nlp"></a>
 
@@ -291,6 +295,8 @@
 - [在低精度优化中配合尺度与加法更新](../conferences/icml-2026/cards/2701-2800.md#liang26p-optimization) · M+Adam: Low-Precision Training via Additive–Multiplicative Optimization
 - [用衰减梯度缓冲复用循环坐标差分](../conferences/icml-2026/cards/2701-2800.md#liang26u-optimization) · Turning Stale Gradients into Stable Gradients: Coherent Coordinate Descent with Implicit Landscape Smoothing for Lightweight Zeroth-Order Optimization
 - [保留正半定结构的可学习拟牛顿预条件](../conferences/icml-2026/cards/2701-2800.md#lifshitz26a-optimization) · L-SR1: Learned Symmetric-Rank-One Preconditioning
+- [语义提议和图评估协同的网络搜索](../conferences/icml-2026/cards/2701-2800.md#lin26ac-optimization) · SAGE-NAS: Synergizing LLM-Based Semantic Agent with Graph-Based Evaluator for Neural Architecture Search
+- [用罚函数 Hessian 给黑盒 QP 反传](../conferences/icml-2026/cards/2701-2800.md#linghu26b-optimization) · A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -337,4 +343,5 @@
 - [用两条流拆分分子生成与完成概率](../conferences/icml-2026/cards/2001-2100.md#kim26j-optimization) · LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition
 - [用局部消元三元组限制稀疏填充](../conferences/icml-2026/cards/2501-2600.md#li26el-optimization) · Causal Structure Learning for Sparse Matrix Fill-in Reduction
 - [用残差预测稀疏线性校正子空间](../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems
+- [用零点约束稳定符号回归的稀疏路径](../conferences/icml-2026/cards/2701-2800.md#liu26n-optimization) · Stabilizing Equation Learning via Zero-Point Constraints
 <!-- classification:end -->

@@ -43,6 +43,7 @@ Reusable components and local changes to model inputs or connections.
 - [Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers](../../conferences/icml-2026/cards/2601-2700.md#li26hj-modules) · 中文
 - [SpikingLM: Towards Fully Spiking Language Model](../../conferences/icml-2026/cards/2701-2800.md#liang26ae-modules) · 中文
 - [Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26j-modules) · 中文
+- [You Need Better Attention Priors](../../conferences/icml-2026/cards/2701-2800.md#litman26a-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -75,6 +76,8 @@ Reusable components and local changes to model inputs or connections.
 - [NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams](../../conferences/icml-2026/cards/2501-2600.md#li26fi-modules) · 中文
 - [SceneDirector: Bridging Explicit Geometry and Generative Priors for Unified Driving Scene Editing](../../conferences/icml-2026/cards/2701-2800.md#liang26z-modules) · 中文
 - [GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting](../../conferences/icml-2026/cards/2701-2800.md#lim26c-modules) · 中文
+- [X-MoGe: A Cross-Modal Adaptation Framework with Mixture-of-Experts and Geometry Guidance for Heterogeneous Collaborative Perception](../../conferences/icml-2026/cards/2701-2800.md#lin26y-modules) · 中文
+- [GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth](../../conferences/icml-2026/cards/2801-2900.md#liu26v-modules) · 中文
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers](../../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · 中文
 
 <a id="by-nlp"></a>
@@ -153,6 +156,7 @@ Reusable components and local changes to model inputs or connections.
 - [Dynamic Relational Priming Improves Transformer in Multivariate Time Series](../../conferences/icml-2026/cards/2301-2400.md#lee26h-modules) · 中文
 - [Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting](../../conferences/icml-2026/cards/2401-2500.md#li26bu-modules) · 中文
 - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../../conferences/icml-2026/cards/2601-2700.md#li26hn-modules) · 中文
+- [Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification](../../conferences/icml-2026/cards/2701-2800.md#liu26r-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

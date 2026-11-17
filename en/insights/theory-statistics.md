@@ -45,6 +45,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Understanding Generalization and Forgetting in In-Context Continual Learning](../../conferences/icml-2026/cards/2401-2500.md#li26ag-theory-statistics) · 中文
 - [Predicting Large Model Test Losses with a Noisy Quadratic System](../../conferences/icml-2026/cards/2501-2600.md#li26ed-theory-statistics) · 中文
 - [An Information-Theoretic Criterion for Efficient Data Synthesis](../../conferences/icml-2026/cards/2501-2600.md#li26fp-theory-statistics) · 中文
+- [Domain-Shift-Aware Conformal Prediction for Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26t-theory-statistics) · 中文
+- [Omitted Variable Bias in Language Models Under Distribution Shift](../../conferences/icml-2026/cards/2701-2800.md#lin26ae-theory-statistics) · 中文
+- [A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula](../../conferences/icml-2026/cards/2801-2900.md#liu26ab-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -413,6 +416,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Causal Representation Learning with Optimal Compression under Complex Treatments](../../conferences/icml-2026/cards/2601-2700.md#liang26f-theory-statistics) · 中文
 - [Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding](../../conferences/icml-2026/cards/2701-2800.md#liaw26a-theory-statistics) · 中文
 - [Empirical Gaussian Processes](../../conferences/icml-2026/cards/2701-2800.md#lin26b-theory-statistics) · 中文
+- [Adaptive Bandit Algorithms for Contextual Matching Markets](../../conferences/icml-2026/cards/2701-2800.md#lin26ad-theory-statistics) · 中文
+- [Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry](../../conferences/icml-2026/cards/2701-2800.md#lindon26a-theory-statistics) · 中文
+- [Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad](../../conferences/icml-2026/cards/2701-2800.md#liu26f-theory-statistics) · 中文
+- [Online Conformal Prediction via Universal Portfolio Algorithms](../../conferences/icml-2026/cards/2801-2900.md#liu26y-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -434,6 +441,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](../../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · 中文
 - [Graph Neural Networks Are Not Continuous Across Graph Resolutions](../../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · 中文
 - [A Unifying Relational Perspective on Expressive Lottery Tickets](../../conferences/icml-2026/cards/2201-2300.md#kummer26a-theory-statistics) · 中文
+- [Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration](../../conferences/icml-2026/cards/2701-2800.md#lin26as-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -456,4 +464,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution](../../conferences/icml-2026/cards/2201-2300.md#large26a-theory-statistics) · 中文
 - [When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control](../../conferences/icml-2026/cards/2301-2400.md#leclerc26a-theory-statistics) · 中文
 - [Causal Discovery for Irregularly Time Series with Consistency Guarantees](../../conferences/icml-2026/cards/2401-2500.md#li26cj-theory-statistics) · 中文
+- [Learning Treatment Representations for Downstream Instrumental Variable Regression](../../conferences/icml-2026/cards/2701-2800.md#lin26q-theory-statistics) · 中文
+- [High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders](../../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · 中文
 <!-- classification:end -->

@@ -59,6 +59,7 @@
 - [按关系不确定性稀疏化场景图](../conferences/icml-2026/cards/2601-2700.md#liang26h-representation-learning) · CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization
 - [用持久节点上的稀疏状态差分生成矢量动画](../conferences/icml-2026/cards/2701-2800.md#liang26w-representation-learning) · VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation
 - [用高对称连续系数和低对称基组合壁纸群表示](../conferences/icml-2026/cards/2701-2800.md#lin26f-representation-learning) · Planar Symmetric Pattern Generation
+- [沿竞争类别方向校准尾类特征分布](../conferences/icml-2026/cards/2701-2800.md#liu26t-representation-learning) · Risk-Bounded Distribution Reconstruction: Stable Statistic Calibration for Long-Tailed Recognition
 
 <a id="by-nlp"></a>
 
@@ -94,6 +95,7 @@
 - [用观察变化学习跨形态潜动作](../conferences/icml-2026/cards/1701-1800.md#huang26bv-representation-learning) · Cross-Embodiment Robot Foundation World Models with Latent Actions
 - [让一台相机编码的动作能预测另一台相机的未来](../conferences/icml-2026/cards/2301-2400.md#lee26am-representation-learning) · MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction
 - [从想象视频中反解多个模态的潜在动作](../conferences/icml-2026/cards/2601-2700.md#li26jf-representation-learning) · From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation
+- [按操作任务区分图像与动作潜变量监督](../conferences/icml-2026/cards/2701-2800.md#lin26s-representation-learning) · From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models
 
 <a id="by-multimodal"></a>
 

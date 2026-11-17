@@ -131,6 +131,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="liang26s-reinforcement-learning"></a>[Implicit Action Chunking for Smooth Continuous Control](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26s)
 - <a id="lin26a-reinforcement-learning"></a>[Action Manifold Smoothing: A Lipschitz Pathway Perspective on High-Dimensional Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26a)
 - <a id="lin26d-reinforcement-learning"></a>[Implicit Safety Alignment from Crowd Preferences](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26d)
+- <a id="lin26am-reinforcement-learning"></a>[Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26am)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-training-strategies"></a>
@@ -138,6 +139,7 @@ Learning from interaction, feedback, and offline experience.
 ### Training Strategies
 
 - <a id="lee26ai-training-strategies"></a>[CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ai)
+- <a id="liu26j-training-strategies"></a>[Active Curriculum Refinement for Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26j)
 
 <a id="by-data-strategies"></a>
 
@@ -181,6 +183,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="jing26d-evaluation"></a>[Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../../conferences/icml-2026/cards/1901-2000.md#paper-jing26d)
 - <a id="lazri26a-evaluation"></a>[MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../../conferences/icml-2026/cards/2201-2300.md#paper-lazri26a)
 - <a id="lee26az-evaluation"></a>[TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26az)
+- <a id="liu26w-evaluation"></a>[Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26w)
 
 <a id="by-theory-statistics"></a>
 

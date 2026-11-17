@@ -190,6 +190,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [FOCUS: DLLMs Know How to Tame Their Compute Bound](../../conferences/icml-2026/cards/2701-2800.md#liang26v-inference) · 中文
 - [AlphaRouter: Token-level Routing Between SLM and LLM with Reinforcement Learning and Tree Search](../../conferences/icml-2026/cards/2701-2800.md#liao26c-inference) · 中文
 - [OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization](../../conferences/icml-2026/cards/2701-2800.md#lin26i-inference) · 中文
+- [A Unified Sparse Attention via Multi-Granularity Compression](../../conferences/icml-2026/cards/2701-2800.md#liu26h-inference) · 中文
+- [MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation](../../conferences/icml-2026/cards/2701-2800.md#liu26l-inference) · 中文
+- [Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees](../../conferences/icml-2026/cards/2801-2900.md#liu26z-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -259,6 +262,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DiFA: Inference-Time Forward-Process Alignment for Diffusion Models](../../conferences/icml-2026/cards/2601-2700.md#li26iv-inference) · 中文
 - [Multi-Label Test-Time Adaptation with Bayesian Conditional Priors](../../conferences/icml-2026/cards/2601-2700.md#li26jw-inference) · 中文
 - [KIStego: Key-Independent Secure Image Distribution via Bipartite Structural Invariants](../../conferences/icml-2026/cards/2701-2800.md#lijing26a-inference) · 中文
+- [AdaEraser: Training-Free Object Removal via Adaptive Attention Suppression](../../conferences/icml-2026/cards/2701-2800.md#liu26a-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -381,6 +385,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](../../conferences/icml-2026/cards/2601-2700.md#li26ht-inference) · 中文
 - [PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models](../../conferences/icml-2026/cards/2601-2700.md#li26hv-inference) · 中文
 - [Reliable Thinking with Images](../../conferences/icml-2026/cards/2601-2700.md#li26ii-inference) · 中文
+- [SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](../../conferences/icml-2026/cards/2701-2800.md#lin26u-inference) · 中文
+- [World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition](../../conferences/icml-2026/cards/2701-2800.md#liu26o-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

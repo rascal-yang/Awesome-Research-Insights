@@ -217,6 +217,11 @@
 - [把端到端语言模型微调做成有反馈的代理任务](../conferences/icml-2026/cards/2601-2700.md#li26jl-evaluation) · FT-Dojo: Towards Autonomous LLM Fine-Tuning with Language Agents
 - [沿对话轨迹诊断安全状态的累积漂移](../conferences/icml-2026/cards/2601-2700.md#li26jo-evaluation) · State-Dependent Safety Failures in Multi-Turn Language Model Interaction
 - [分别核验事实错误与改写语义](../conferences/icml-2026/cards/2701-2800.md#liang26q-evaluation) · REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations
+- [按工具使用场景构造隐私泄露安全评估](../conferences/icml-2026/cards/2701-2800.md#lin26r-evaluation) · SOPE: Situation-Aware and Statistically Indistinguishable Privacy Exfiltration for MCP-enabled Agents
+- [开放任务的证据依赖评分](../conferences/icml-2026/cards/2701-2800.md#lin26z-evaluation) · JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks
+- [用价值状态和行为双轨测量教育模拟](../conferences/icml-2026/cards/2701-2800.md#lin26aq-evaluation) · EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+- [用激活干预测试候选推理原语](../conferences/icml-2026/cards/2701-2800.md#lippl26a-evaluation) · AlgoTrace: Algorithmic Primitives and Compositional Geometry of Reasoning in Language Models
+- [用多条正确轨迹的结构共识定位推理错误](../conferences/icml-2026/cards/2801-2900.md#liu26u-evaluation) · Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution
 
 <a id="by-computer-vision"></a>
 
@@ -297,6 +302,7 @@
 - [持续记录新队友和新布局中的上下文适应](../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork
 - [在整条多机构轨迹上评估公平干预](../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems
 - [可重配置的高吞吐多智能体仿真](../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning
+- [用外部训练对手的交互路径检验强化学习后门](../conferences/icml-2026/cards/2801-2900.md#liu26w-evaluation) · Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -371,6 +377,9 @@
 - [把图表编辑拆为局部样式与全局数据变换](../conferences/icml-2026/cards/2501-2600.md#li26fr-evaluation) · ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing
 - [视觉语言模型的联合图文红队评估](../conferences/icml-2026/cards/2701-2800.md#liao26d-evaluation) · VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models
 - [把三维场景问答转成可严格打分的断言验证](../conferences/icml-2026/cards/2701-2800.md#lin26h-evaluation) · 3D Scene Assertion Verification
+- [视觉语言模型的道德线索归因](../conferences/icml-2026/cards/2701-2800.md#lin26aa-evaluation) · MORALISE: A Structured Benchmark for Moral Alignment in Visual Language Models
+- [桌面智能体奖励的异质提示一致投票](../conferences/icml-2026/cards/2701-2800.md#lin26ai-evaluation) · CUARewardBench: A Benchmark for Evaluating Reward Models for Computer-Using Agents
+- [测视觉骨干暴露时的目标语义偏移](../conferences/icml-2026/cards/2701-2800.md#liu26c-evaluation) · Attacking Gray-Box Large Vision-Language Models with Adaptive SVD-Structured Adversarial Alignment
 
 <a id="by-ml-foundations"></a>
 

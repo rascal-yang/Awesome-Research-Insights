@@ -79,6 +79,7 @@
 - <a id="li26hj-modules"></a>[Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers](../conferences/icml-2026/cards/2601-2700.md#paper-li26hj)
 - <a id="liang26ae-modules"></a>[SpikingLM: Towards Fully Spiking Language Model](../conferences/icml-2026/cards/2701-2800.md#paper-liang26ae)
 - <a id="lin26j-modules"></a>[Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26j)
+- <a id="litman26a-modules"></a>[You Need Better Attention Priors](../conferences/icml-2026/cards/2701-2800.md#paper-litman26a)
 
 <a id="by-loss-functions"></a>
 
@@ -166,6 +167,9 @@
 - <a id="li26je-optimization"></a>[PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training](../conferences/icml-2026/cards/2601-2700.md#paper-li26je)
 - <a id="liang26x-optimization"></a>[Multilingual Safety Alignment Via Sparse Weight Editing](../conferences/icml-2026/cards/2701-2800.md#paper-liang26x)
 - <a id="lifar26a-optimization"></a>[WaterSIC: Information-Theoretically (Near) Optimal Linear Layer Quantization](../conferences/icml-2026/cards/2701-2800.md#paper-lifar26a)
+- <a id="lin26l-optimization"></a>[NeUQI: Near-Optimal Uniform Quantization Parameter Initialization for Low-Bit LLMs](../conferences/icml-2026/cards/2701-2800.md#paper-lin26l)
+- <a id="lin26m-optimization"></a>[AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs](../conferences/icml-2026/cards/2701-2800.md#paper-lin26m)
+- <a id="lin26n-optimization"></a>[AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning](../conferences/icml-2026/cards/2701-2800.md#paper-lin26n)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -271,6 +275,9 @@
 - <a id="li26jc-reinforcement-learning"></a>[StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](../conferences/icml-2026/cards/2601-2700.md#paper-li26jc)
 - <a id="li26jk-reinforcement-learning"></a>[SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning](../conferences/icml-2026/cards/2601-2700.md#paper-li26jk)
 - <a id="lian26b-reinforcement-learning"></a>[ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models](../conferences/icml-2026/cards/2601-2700.md#paper-lian26b)
+- <a id="lin26ak-reinforcement-learning"></a>[ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ak)
+- <a id="liu26i-reinforcement-learning"></a>[ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering](../conferences/icml-2026/cards/2701-2800.md#paper-liu26i)
+- <a id="liu26k-reinforcement-learning"></a>[Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](../conferences/icml-2026/cards/2701-2800.md#paper-liu26k)
 
 <a id="by-training-strategies"></a>
 
@@ -351,6 +358,7 @@
 - <a id="li26hh-training-strategies"></a>[Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment](../conferences/icml-2026/cards/2601-2700.md#paper-li26hh)
 - <a id="li26ik-training-strategies"></a>[Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](../conferences/icml-2026/cards/2601-2700.md#paper-li26ik)
 - <a id="lin26k-training-strategies"></a>[Can Large Language Models Generalize Procedures Across Representations?](../conferences/icml-2026/cards/2701-2800.md#paper-lin26k)
+- <a id="lin26ap-training-strategies"></a>[ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ap)
 
 <a id="by-data-strategies"></a>
 
@@ -389,6 +397,8 @@
 - <a id="li26av-data-strategies"></a>[Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../conferences/icml-2026/cards/2401-2500.md#paper-li26av)
 - <a id="li26hl-data-strategies"></a>[Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](../conferences/icml-2026/cards/2601-2700.md#paper-li26hl)
 - <a id="li26jt-data-strategies"></a>[Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](../conferences/icml-2026/cards/2601-2700.md#paper-li26jt)
+- <a id="liu26d-data-strategies"></a>[Opt-Miner: Empowering Information-Seeking Agent with Tree-Guided Data Synthesis for Optimization Modeling](../conferences/icml-2026/cards/2701-2800.md#paper-liu26d)
+- <a id="liu26m-data-strategies"></a>[Data Difficulty and the Generalization–Extrapolation Tradeoff in LLM Fine-Tuning](../conferences/icml-2026/cards/2701-2800.md#paper-liu26m)
 
 <a id="by-inference"></a>
 
@@ -571,6 +581,9 @@
 - <a id="liang26v-inference"></a>[FOCUS: DLLMs Know How to Tame Their Compute Bound](../conferences/icml-2026/cards/2701-2800.md#paper-liang26v)
 - <a id="liao26c-inference"></a>[AlphaRouter: Token-level Routing Between SLM and LLM with Reinforcement Learning and Tree Search](../conferences/icml-2026/cards/2701-2800.md#paper-liao26c)
 - <a id="lin26i-inference"></a>[OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization](../conferences/icml-2026/cards/2701-2800.md#paper-lin26i)
+- <a id="liu26h-inference"></a>[A Unified Sparse Attention via Multi-Granularity Compression](../conferences/icml-2026/cards/2701-2800.md#paper-liu26h)
+- <a id="liu26l-inference"></a>[MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation](../conferences/icml-2026/cards/2701-2800.md#paper-liu26l)
+- <a id="liu26z-inference"></a>[Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees](../conferences/icml-2026/cards/2801-2900.md#paper-liu26z)
 
 <a id="by-representation-learning"></a>
 
@@ -792,6 +805,11 @@
 - <a id="li26jl-evaluation"></a>[FT-Dojo: Towards Autonomous LLM Fine-Tuning with Language Agents](../conferences/icml-2026/cards/2601-2700.md#paper-li26jl)
 - <a id="li26jo-evaluation"></a>[State-Dependent Safety Failures in Multi-Turn Language Model Interaction](../conferences/icml-2026/cards/2601-2700.md#paper-li26jo)
 - <a id="liang26q-evaluation"></a>[REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations](../conferences/icml-2026/cards/2701-2800.md#paper-liang26q)
+- <a id="lin26r-evaluation"></a>[SOPE: Situation-Aware and Statistically Indistinguishable Privacy Exfiltration for MCP-enabled Agents](../conferences/icml-2026/cards/2701-2800.md#paper-lin26r)
+- <a id="lin26z-evaluation"></a>[JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks](../conferences/icml-2026/cards/2701-2800.md#paper-lin26z)
+- <a id="lin26aq-evaluation"></a>[EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation](../conferences/icml-2026/cards/2701-2800.md#paper-lin26aq)
+- <a id="lippl26a-evaluation"></a>[AlgoTrace: Algorithmic Primitives and Compositional Geometry of Reasoning in Language Models](../conferences/icml-2026/cards/2701-2800.md#paper-lippl26a)
+- <a id="liu26u-evaluation"></a>[Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution](../conferences/icml-2026/cards/2801-2900.md#paper-liu26u)
 
 <a id="by-theory-statistics"></a>
 
@@ -829,4 +847,7 @@
 - <a id="li26ag-theory-statistics"></a>[Understanding Generalization and Forgetting in In-Context Continual Learning](../conferences/icml-2026/cards/2401-2500.md#paper-li26ag)
 - <a id="li26ed-theory-statistics"></a>[Predicting Large Model Test Losses with a Noisy Quadratic System](../conferences/icml-2026/cards/2501-2600.md#paper-li26ed)
 - <a id="li26fp-theory-statistics"></a>[An Information-Theoretic Criterion for Efficient Data Synthesis](../conferences/icml-2026/cards/2501-2600.md#paper-li26fp)
+- <a id="lin26t-theory-statistics"></a>[Domain-Shift-Aware Conformal Prediction for Large Language Models](../conferences/icml-2026/cards/2701-2800.md#paper-lin26t)
+- <a id="lin26ae-theory-statistics"></a>[Omitted Variable Bias in Language Models Under Distribution Shift](../conferences/icml-2026/cards/2701-2800.md#paper-lin26ae)
+- <a id="liu26ab-theory-statistics"></a>[A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula](../conferences/icml-2026/cards/2801-2900.md#paper-liu26ab)
 <!-- classification:end -->

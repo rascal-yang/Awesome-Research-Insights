@@ -113,6 +113,9 @@
 - [用真实执行与细项规则联合训练 GPU 编码代理](../conferences/icml-2026/cards/2601-2700.md#li26jc-reinforcement-learning) · StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning
 - [用轨迹对集合多样性的边际贡献塑造策略优势](../conferences/icml-2026/cards/2601-2700.md#li26jk-reinforcement-learning) · SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning
 - [可学习的推理分叉与汇合](../conferences/icml-2026/cards/2601-2700.md#lian26b-reinforcement-learning) · ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models
+- [只加强偏离成功子空间的负令牌](../conferences/icml-2026/cards/2701-2800.md#lin26ak-reinforcement-learning) · ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning
+- [把机器学习实验反馈按执行步骤归一为奖励](../conferences/icml-2026/cards/2701-2800.md#liu26i-reinforcement-learning) · ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering
+- [为长时域去中心化协作使用训练期集中评论家](../conferences/icml-2026/cards/2701-2800.md#liu26k-reinforcement-learning) · Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic
 
 <a id="by-computer-vision"></a>
 
@@ -229,6 +232,7 @@
 - [让价值更新与动作承诺窗口同长](../conferences/icml-2026/cards/2701-2800.md#liang26s-reinforcement-learning) · Implicit Action Chunking for Smooth Continuous Control
 - [对正交邻域动作平均 TD 目标](../conferences/icml-2026/cards/2701-2800.md#lin26a-reinforcement-learning) · Action Manifold Smoothing: A Lipschitz Pathway Perspective on High-Dimensional Reinforcement Learning
 - [把群体偏好里的共通安全约束蒸馏成技能](../conferences/icml-2026/cards/2701-2800.md#lin26d-reinforcement-learning) · Implicit Safety Alignment from Crowd Preferences
+- [用动力学预测下尾稳住离线价值学习](../conferences/icml-2026/cards/2701-2800.md#lin26am-reinforcement-learning) · Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -245,6 +249,7 @@
 - [动作策略的潜在推理](../conferences/icml-2026/cards/2301-2400.md#lei26e-reinforcement-learning) · Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models
 - [根据飞控与导航的联合运行反馈调度任务](../conferences/icml-2026/cards/2601-2700.md#li26jr-reinforcement-learning) · UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning
 - [面向导航目标的鸟瞰地图学习](../conferences/icml-2026/cards/2601-2700.md#lian26c-reinforcement-learning) · MapDream: Task-Driven Map Learning for Vision-Language Navigation
+- [多任务机器人策略的残差专家路由](../conferences/icml-2026/cards/2701-2800.md#lin26af-reinforcement-learning) · DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization
 
 <a id="by-multimodal"></a>
 
@@ -279,6 +284,9 @@
 - [在临床长视频中按证据收益调用粗到细工具](../conferences/icml-2026/cards/2601-2700.md#li26jj-reinforcement-learning) · MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling
 - [扩散多模态策略的引导采样与互补掩码](../conferences/icml-2026/cards/2601-2700.md#li26jz-reinforcement-learning) · Lavida-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models
 - [先查证开放事实再提示视频分割](../conferences/icml-2026/cards/2601-2700.md#liang26g-reinforcement-learning) · Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search
+- [放射报告的解剖级轨迹奖励](../conferences/icml-2026/cards/2701-2800.md#lin26ag-reinforcement-learning) · Regulating Anatomy-Aware Rewards via Trajectory-Integral Feedback for Volumetric Computed Tomography Analysis
+- [直接用三维几何误差奖励视频定位](../conferences/icml-2026/cards/2701-2800.md#linghu26a-reinforcement-learning) · 3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding
+- [把标注加入可验证奖励轨迹并校准相对优势](../conferences/icml-2026/cards/2701-2800.md#liu26p-reinforcement-learning) · ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -319,4 +327,5 @@
 - [把物理引导移到分子扩散后训练](../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields
 - [对齐 Best-of-N 的蛋白质设计策略](../conferences/icml-2026/cards/2401-2500.md#li26ch-reinforcement-learning) · FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization
 - [化学候选空间中的可纠错逆合成推理](../conferences/icml-2026/cards/2501-2600.md#li26gs-reinforcement-learning) · Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis
+- [将医学图像几何转成可验证的强化学习任务](../conferences/icml-2026/cards/2701-2800.md#liu26q-reinforcement-learning) · Med-Scout: Curing MLLMs’ Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training
 <!-- classification:end -->

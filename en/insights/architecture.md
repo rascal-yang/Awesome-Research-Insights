@@ -128,6 +128,7 @@ Model-wide design and information flow.
 - [DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter](../../conferences/icml-2026/cards/2501-2600.md#li26fs-architecture) · 中文
 - [Structured 4D Latent Predictive Model for Robot Planning](../../conferences/icml-2026/cards/2601-2700.md#li26hk-architecture) · 中文
 - [RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](../../conferences/icml-2026/cards/2701-2800.md#lin26g-architecture) · 中文
+- [MSP: Probabilistically Consistent Multi-Scale Action Generation](../../conferences/icml-2026/cards/2701-2800.md#lin26ab-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -151,6 +152,8 @@ Model-wide design and information flow.
 - [Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](../../conferences/icml-2026/cards/2501-2600.md#li26dv-architecture) · 中文
 - [SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks](../../conferences/icml-2026/cards/2601-2700.md#liang26i-architecture) · 中文
 - [AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference](../../conferences/icml-2026/cards/2601-2700.md#liang26k-architecture) · 中文
+- [TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](../../conferences/icml-2026/cards/2701-2800.md#lin26al-architecture) · 中文
+- [Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26an-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -208,6 +211,7 @@ Model-wide design and information flow.
 - [GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation](../../conferences/icml-2026/cards/1701-1800.md#huang26cj-architecture) · 中文
 - [Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling](../../conferences/icml-2026/cards/1901-2000.md#jin26d-architecture) · 中文
 - [VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../../conferences/icml-2026/cards/1901-2000.md#johnson26a-architecture) · 中文
+- [Learning Graph Foundation Models on Riemannian Graph-of-Graphs](../../conferences/icml-2026/cards/2801-2900.md#liu26x-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -274,4 +278,8 @@ Model-wide design and information flow.
 - [Frequency Matching in Spiking Neural Networks for mmWave Sensing](../../conferences/icml-2026/cards/2701-2800.md#liao26e-architecture) · 中文
 - [Flow Equivariant World Models: Structured Memory for Dynamic Environments](../../conferences/icml-2026/cards/2701-2800.md#lillemark26a-architecture) · 中文
 - [Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](../../conferences/icml-2026/cards/2701-2800.md#lin26e-architecture) · 中文
+- [BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation](../../conferences/icml-2026/cards/2701-2800.md#lin26x-architecture) · 中文
+- [Periodic Bayesian Flow Networks with Additive Accuracy](../../conferences/icml-2026/cards/2701-2800.md#lin26ar-architecture) · 中文
+- [LangPrecip: Language-Aware Multimodal Precipitation Nowcasting](../../conferences/icml-2026/cards/2701-2800.md#ling26a-architecture) · 中文
+- [Solving Time-Dependent Differential Equations with Physical Dynamical Systems](../../conferences/icml-2026/cards/2701-2800.md#liu26s-architecture) · 中文
 <!-- classification:end -->

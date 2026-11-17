@@ -27,6 +27,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="li26fs-architecture"></a>[DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fs)
 - <a id="li26hk-architecture"></a>[Structured 4D Latent Predictive Model for Robot Planning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hk)
 - <a id="lin26g-architecture"></a>[RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26g)
+- <a id="lin26ab-architecture"></a>[MSP: Probabilistically Consistent Multi-Scale Action Generation](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ab)
 
 <a id="by-modules"></a>
 
@@ -71,6 +72,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="lei26e-reinforcement-learning"></a>[Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26e)
 - <a id="li26jr-reinforcement-learning"></a>[UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jr)
 - <a id="lian26c-reinforcement-learning"></a>[MapDream: Task-Driven Map Learning for Vision-Language Navigation](../../conferences/icml-2026/cards/2601-2700.md#paper-lian26c)
+- <a id="lin26af-reinforcement-learning"></a>[DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26af)
 
 <a id="by-training-strategies"></a>
 
@@ -141,6 +143,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="huang26bv-representation-learning"></a>[Cross-Embodiment Robot Foundation World Models with Latent Actions](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26bv)
 - <a id="lee26am-representation-learning"></a>[MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26am)
 - <a id="li26jf-representation-learning"></a>[From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jf)
+- <a id="lin26s-representation-learning"></a>[From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26s)
 
 <a id="by-evaluation"></a>
 

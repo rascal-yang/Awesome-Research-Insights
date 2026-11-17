@@ -43,6 +43,7 @@
 - [只对专家选择建模贝叶斯不确定性](../conferences/icml-2026/cards/2601-2700.md#li26hj-modules) · Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers
 - [用激活缩放和位移竞争构建脉冲注意力](../conferences/icml-2026/cards/2701-2800.md#liang26ae-modules) · SpikingLM: Towards Fully Spiking Language Model
 - [把 LoRA 权重增量写成稀疏高斯过程后验](../conferences/icml-2026/cards/2701-2800.md#lin26j-modules) · Bayesian-LoRA: Probabilistic Low-Rank Adaptation of Large Language Models
+- [把结构先验从注意力语义键中拆出](../conferences/icml-2026/cards/2701-2800.md#litman26a-modules) · You Need Better Attention Priors
 
 <a id="by-computer-vision"></a>
 
@@ -75,6 +76,8 @@
 - [惯性补全与脉冲置信门联合修复退化感知](../conferences/icml-2026/cards/2501-2600.md#li26fi-modules) · NeuroMamba: A Universal Spatiotemporal Module for Robust Perception in Degraded Sensory Streams
 - [按几何置信度调节驾驶视频编辑的纹理参考](../conferences/icml-2026/cards/2701-2800.md#liang26z-modules) · SceneDirector: Bridging Explicit Geometry and Generative Priors for Unified Driving Scene Editing
 - [用可变形采样找回错位的多视图渲染线索](../conferences/icml-2026/cards/2701-2800.md#lim26c-modules) · GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting
+- [异构车路感知的逐像素对齐](../conferences/icml-2026/cards/2701-2800.md#lin26y-modules) · X-MoGe: A Cross-Modal Adaptation Framework with Mixture-of-Experts and Geometry Guidance for Heterogeneous Collaborative Perception
+- [用相机位姿引导时空深度特征匹配](../conferences/icml-2026/cards/2801-2900.md#liu26v-modules) · GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth
 - <a id="widen-the-student-distillation-interface"></a><a id="distillation-interface-design"></a>[只加宽学生模型的蒸馏接口](../conferences/icml-2026/cards/4401-4500.md#tian26k-modules) · From Per-Image Low-Rank to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers
 
 <a id="by-nlp"></a>
@@ -153,6 +156,7 @@
 - [用关系条件调制注意力投影](../conferences/icml-2026/cards/2301-2400.md#lee26h-modules) · Dynamic Relational Priming Improves Transformer in Multivariate Time Series
 - [在冻结时序模型上学习域条件通道关系](../conferences/icml-2026/cards/2401-2500.md#li26bu-modules) · Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting
 - [用单纯形频率构造多维旋转位置编码](../conferences/icml-2026/cards/2601-2700.md#li26hn-modules) · nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
+- [先消除视图尺度再按不确定性融合证据](../conferences/icml-2026/cards/2701-2800.md#liu26r-modules) · Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -31,6 +31,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26dv-architecture"></a>[Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dv)
 - <a id="liang26i-architecture"></a>[SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26i)
 - <a id="liang26k-architecture"></a>[AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26k)
+- <a id="lin26al-architecture"></a>[TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26al)
+- <a id="lin26an-architecture"></a>[Deep Residual Injection for Full-Spectrum Forensic Signal Perception in Multimodal Large Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26an)
 
 <a id="by-modules"></a>
 
@@ -73,6 +75,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26er-loss-functions"></a>[Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models](../../conferences/icml-2026/cards/2501-2600.md#paper-li26er)
 - <a id="li26fg-loss-functions"></a>[DenseMLLM: Standard Multimodal LLMs for Dense Prediction](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fg)
 - <a id="li26jy-loss-functions"></a>[Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jy)
+- <a id="liu26e-loss-functions"></a>[GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26e)
 
 <a id="by-optimization"></a>
 
@@ -117,6 +120,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26jj-reinforcement-learning"></a>[MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jj)
 - <a id="li26jz-reinforcement-learning"></a>[Lavida-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](../../conferences/icml-2026/cards/2601-2700.md#paper-li26jz)
 - <a id="liang26g-reinforcement-learning"></a>[Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26g)
+- <a id="lin26ag-reinforcement-learning"></a>[Regulating Anatomy-Aware Rewards via Trajectory-Integral Feedback for Volumetric Computed Tomography Analysis](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ag)
+- <a id="linghu26a-reinforcement-learning"></a>[3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](../../conferences/icml-2026/cards/2701-2800.md#paper-linghu26a)
+- <a id="liu26p-reinforcement-learning"></a>[ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26p)
 
 <a id="by-training-strategies"></a>
 
@@ -243,6 +249,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26ht-inference"></a>[Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ht)
 - <a id="li26hv-inference"></a>[PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hv)
 - <a id="li26ii-inference"></a>[Reliable Thinking with Images](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ii)
+- <a id="lin26u-inference"></a>[SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26u)
+- <a id="liu26o-inference"></a>[World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26o)
 
 <a id="by-representation-learning"></a>
 
@@ -329,6 +337,9 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="li26fr-evaluation"></a>[ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fr)
 - <a id="liao26d-evaluation"></a>[VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26d)
 - <a id="lin26h-evaluation"></a>[3D Scene Assertion Verification](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26h)
+- <a id="lin26aa-evaluation"></a>[MORALISE: A Structured Benchmark for Moral Alignment in Visual Language Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26aa)
+- <a id="lin26ai-evaluation"></a>[CUARewardBench: A Benchmark for Evaluating Reward Models for Computer-Using Agents](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ai)
+- <a id="liu26c-evaluation"></a>[Attacking Gray-Box Large Vision-Language Models with Adaptive SVD-Structured Adversarial Alignment](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26c)
 
 <a id="by-theory-statistics"></a>
 

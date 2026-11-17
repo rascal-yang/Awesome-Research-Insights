@@ -217,6 +217,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [FT-Dojo: Towards Autonomous LLM Fine-Tuning with Language Agents](../../conferences/icml-2026/cards/2601-2700.md#li26jl-evaluation) · 中文
 - [State-Dependent Safety Failures in Multi-Turn Language Model Interaction](../../conferences/icml-2026/cards/2601-2700.md#li26jo-evaluation) · 中文
 - [REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations](../../conferences/icml-2026/cards/2701-2800.md#liang26q-evaluation) · 中文
+- [SOPE: Situation-Aware and Statistically Indistinguishable Privacy Exfiltration for MCP-enabled Agents](../../conferences/icml-2026/cards/2701-2800.md#lin26r-evaluation) · 中文
+- [JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks](../../conferences/icml-2026/cards/2701-2800.md#lin26z-evaluation) · 中文
+- [EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation](../../conferences/icml-2026/cards/2701-2800.md#lin26aq-evaluation) · 中文
+- [AlgoTrace: Algorithmic Primitives and Compositional Geometry of Reasoning in Language Models](../../conferences/icml-2026/cards/2701-2800.md#lippl26a-evaluation) · 中文
+- [Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution](../../conferences/icml-2026/cards/2801-2900.md#liu26u-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -297,6 +302,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork](../../conferences/icml-2026/cards/1901-2000.md#jing26d-evaluation) · 中文
 - [MAFE: Enabling Equitable Algorithm Design in Multi-Agent Multi-Stage Decision-Making Systems](../../conferences/icml-2026/cards/2201-2300.md#lazri26a-evaluation) · 中文
 - [TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26az-evaluation) · 中文
+- [Fox in the Henhouse: Supply-Chain Backdoor Attacks Against Reinforcement Learning](../../conferences/icml-2026/cards/2801-2900.md#liu26w-evaluation) · 中文
 
 <a id="by-robotics"></a>
 
@@ -371,6 +377,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ChartE$^3$: A Comprehensive Benchmark for End-to-End Chart Editing](../../conferences/icml-2026/cards/2501-2600.md#li26fr-evaluation) · 中文
 - [VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models](../../conferences/icml-2026/cards/2701-2800.md#liao26d-evaluation) · 中文
 - [3D Scene Assertion Verification](../../conferences/icml-2026/cards/2701-2800.md#lin26h-evaluation) · 中文
+- [MORALISE: A Structured Benchmark for Moral Alignment in Visual Language Models](../../conferences/icml-2026/cards/2701-2800.md#lin26aa-evaluation) · 中文
+- [CUARewardBench: A Benchmark for Evaluating Reward Models for Computer-Using Agents](../../conferences/icml-2026/cards/2701-2800.md#lin26ai-evaluation) · 中文
+- [Attacking Gray-Box Large Vision-Language Models with Adaptive SVD-Structured Adversarial Alignment](../../conferences/icml-2026/cards/2701-2800.md#liu26c-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

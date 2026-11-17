@@ -113,6 +113,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26jc-reinforcement-learning) · 中文
 - [SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning](../../conferences/icml-2026/cards/2601-2700.md#li26jk-reinforcement-learning) · 中文
 - [ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models](../../conferences/icml-2026/cards/2601-2700.md#lian26b-reinforcement-learning) · 中文
+- [ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26ak-reinforcement-learning) · 中文
+- [ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering](../../conferences/icml-2026/cards/2701-2800.md#liu26i-reinforcement-learning) · 中文
+- [Learning Decentralized LLM Collaboration with Multi-Agent Actor Critic](../../conferences/icml-2026/cards/2701-2800.md#liu26k-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -229,6 +232,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Implicit Action Chunking for Smooth Continuous Control](../../conferences/icml-2026/cards/2701-2800.md#liang26s-reinforcement-learning) · 中文
 - [Action Manifold Smoothing: A Lipschitz Pathway Perspective on High-Dimensional Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26a-reinforcement-learning) · 中文
 - [Implicit Safety Alignment from Crowd Preferences](../../conferences/icml-2026/cards/2701-2800.md#lin26d-reinforcement-learning) · 中文
+- [Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief](../../conferences/icml-2026/cards/2701-2800.md#lin26am-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
@@ -245,6 +249,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../../conferences/icml-2026/cards/2301-2400.md#lei26e-reinforcement-learning) · 中文
 - [UAV$^2$: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning](../../conferences/icml-2026/cards/2601-2700.md#li26jr-reinforcement-learning) · 中文
 - [MapDream: Task-Driven Map Learning for Vision-Language Navigation](../../conferences/icml-2026/cards/2601-2700.md#lian26c-reinforcement-learning) · 中文
+- [DyGRO-VLA: Cross-Task Scaling of Vision–Language–Action Models via Dynamic Grouped Residual Optimization](../../conferences/icml-2026/cards/2701-2800.md#lin26af-reinforcement-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -279,6 +284,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling](../../conferences/icml-2026/cards/2601-2700.md#li26jj-reinforcement-learning) · 中文
 - [Lavida-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](../../conferences/icml-2026/cards/2601-2700.md#li26jz-reinforcement-learning) · 中文
 - [Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search](../../conferences/icml-2026/cards/2601-2700.md#liang26g-reinforcement-learning) · 中文
+- [Regulating Anatomy-Aware Rewards via Trajectory-Integral Feedback for Volumetric Computed Tomography Analysis](../../conferences/icml-2026/cards/2701-2800.md#lin26ag-reinforcement-learning) · 中文
+- [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](../../conferences/icml-2026/cards/2701-2800.md#linghu26a-reinforcement-learning) · 中文
+- [ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large Vision-and-Language Models](../../conferences/icml-2026/cards/2701-2800.md#liu26p-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -319,4 +327,5 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](../../conferences/icml-2026/cards/2401-2500.md#li26bp-reinforcement-learning) · 中文
 - [FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26ch-reinforcement-learning) · 中文
 - [Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis](../../conferences/icml-2026/cards/2501-2600.md#li26gs-reinforcement-learning) · 中文
+- [Med-Scout: Curing MLLMs’ Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](../../conferences/icml-2026/cards/2701-2800.md#liu26q-reinforcement-learning) · 中文
 <!-- classification:end -->

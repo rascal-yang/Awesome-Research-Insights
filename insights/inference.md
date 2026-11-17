@@ -190,6 +190,9 @@
 - [用早层注意力筛出本步可提交的扩散词元](../conferences/icml-2026/cards/2701-2800.md#liang26v-inference) · FOCUS: DLLMs Know How to Tame Their Compute Bound
 - [大小语言模型的分歧词元路由](../conferences/icml-2026/cards/2701-2800.md#liao26c-inference) · AlphaRouter: Token-level Routing Between SLM and LLM with Reinforcement Learning and Tree Search
 - [用可执行验证代码和有向图探索优化候选](../conferences/icml-2026/cards/2701-2800.md#lin26i-inference) · OptMaster: A DAG-Based Framework for Formulation and Heuristic Discovery in Optimization
+- [以多粒度复合词元代理选取原分辨率注意力块](../conferences/icml-2026/cards/2701-2800.md#liu26h-inference) · A Unified Sparse Attention via Multi-Granularity Compression
+- [按主题采样并排序科研构思工作流](../conferences/icml-2026/cards/2701-2800.md#liu26l-inference) · MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation
+- [用算子树定位并局部修复 Lean 翻译](../conferences/icml-2026/cards/2801-2900.md#liu26z-inference) · Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees
 
 <a id="by-computer-vision"></a>
 
@@ -259,6 +262,7 @@
 - [按信噪比对齐扩散历史并保留当前残差](../conferences/icml-2026/cards/2601-2700.md#li26iv-inference) · DiFA: Inference-Time Forward-Process Alignment for Diffusion Models
 - [由在线标签共现构造贝叶斯先验](../conferences/icml-2026/cards/2601-2700.md#li26jw-inference) · Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
 - [结构份额引导的扩散隐图恢复](../conferences/icml-2026/cards/2701-2800.md#lijing26a-inference) · KIStego: Key-Independent Secure Image Distribution via Bipartite Structural Invariants
+- [按残余目标信号放开被遮区域](../conferences/icml-2026/cards/2701-2800.md#liu26a-inference) · AdaEraser: Training-Free Object Removal via Adaptive Attention Suppression
 
 <a id="by-nlp"></a>
 
@@ -381,6 +385,8 @@
 - [用剧情侧证修正短台词归属](../conferences/icml-2026/cards/2601-2700.md#li26ht-inference) · Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas
 - [在融合前后分层压缩音视频令牌](../conferences/icml-2026/cards/2601-2700.md#li26hv-inference) · PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models
 - [分开筛查采图与文字推理的轨迹](../conferences/icml-2026/cards/2601-2700.md#li26ii-inference) · Reliable Thinking with Images
+- [将安全子空间从音频模型的拒绝方向剔除](../conferences/icml-2026/cards/2701-2800.md#lin26u-inference) · SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering
+- [先删冗余再放大多模态情绪证据](../conferences/icml-2026/cards/2701-2800.md#liu26o-inference) · World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition
 
 <a id="by-ml-foundations"></a>
 

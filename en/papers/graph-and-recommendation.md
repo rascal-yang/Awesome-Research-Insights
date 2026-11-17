@@ -26,6 +26,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="huang26cj-architecture"></a>[GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation](../../conferences/icml-2026/cards/1701-1800.md#paper-huang26cj)
 - <a id="jin26d-architecture"></a>[Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling](../../conferences/icml-2026/cards/1901-2000.md#paper-jin26d)
 - <a id="johnson26a-architecture"></a>[VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../../conferences/icml-2026/cards/1901-2000.md#paper-johnson26a)
+- <a id="liu26x-architecture"></a>[Learning Graph Foundation Models on Riemannian Graph-of-Graphs](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26x)
 
 <a id="by-modules"></a>
 
@@ -93,6 +94,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="grover26a-training-strategies"></a>[Feedback Control for Multi-Objective Graph Self-Supervision](../../conferences/icml-2026/cards/1301-1400.md#paper-grover26a)
 - <a id="li26fv-training-strategies"></a>[FedRGL: Robust Federated Graph Learning under Label Noise](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fv)
 - <a id="li26ih-training-strategies"></a>[Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task](../../conferences/icml-2026/cards/2601-2700.md#paper-li26ih)
+- <a id="liu26b-training-strategies"></a>[FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26b)
 
 <a id="by-data-strategies"></a>
 
@@ -178,4 +180,5 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="keriven26a-theory-statistics"></a>[Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?](../../conferences/icml-2026/cards/2001-2100.md#paper-keriven26a)
 - <a id="koke26a-theory-statistics"></a>[Graph Neural Networks Are Not Continuous Across Graph Resolutions](../../conferences/icml-2026/cards/2101-2200.md#paper-koke26a)
 - <a id="kummer26a-theory-statistics"></a>[A Unifying Relational Perspective on Expressive Lottery Tickets](../../conferences/icml-2026/cards/2201-2300.md#paper-kummer26a)
+- <a id="lin26as-theory-statistics"></a>[Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26as)
 <!-- classification:end -->

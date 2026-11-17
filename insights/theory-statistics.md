@@ -45,6 +45,9 @@
 - [把一段多任务提示的误差拆为噪声与任务干扰](../conferences/icml-2026/cards/2401-2500.md#li26ag-theory-statistics) · Understanding Generalization and Forgetting in In-Context Continual Learning
 - [分开批大小与更新步数的损失预测](../conferences/icml-2026/cards/2501-2600.md#li26ed-theory-statistics) · Predicting Large Model Test Losses with a Noisy Quadratic System
 - [用外部条件互信息诊断合成数据闭环](../conferences/icml-2026/cards/2501-2600.md#li26fp-theory-statistics) · An Information-Theoretic Criterion for Efficient Data Synthesis
+- [按目标提示密度比重新加权保形校准](../conferences/icml-2026/cards/2701-2800.md#lin26t-theory-statistics) · Domain-Shift-Aware Conformal Prediction for Large Language Models
+- [语言分布漂移的遗漏变量敏感性](../conferences/icml-2026/cards/2701-2800.md#lin26ae-theory-statistics) · Omitted Variable Bias in Language Models Under Distribution Shift
+- [按可验证样本的接受率安排自训练难度](../conferences/icml-2026/cards/2801-2900.md#liu26ab-theory-statistics) · A Task-centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula
 
 <a id="by-computer-vision"></a>
 
@@ -413,6 +416,10 @@
 - [把多处理平衡变成联合依赖约束](../conferences/icml-2026/cards/2601-2700.md#liang26f-theory-statistics) · Causal Representation Learning with Optimal Compression under Complex Treatments
 - [多均衡自动竞价的诚实申报判据](../conferences/icml-2026/cards/2701-2800.md#liaw26a-theory-statistics) · Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding
 - [从独立历史函数样本估计高斯过程先验](../conferences/icml-2026/cards/2701-2800.md#lin26b-theory-statistics) · Empirical Gaussian Processes
+- [情境匹配市场的自适应探索](../conferences/icml-2026/cards/2701-2800.md#lin26ad-theory-statistics) · Adaptive Bandit Algorithms for Contextual Matching Markets
+- [用事件时间分臂监控延迟干预](../conferences/icml-2026/cards/2701-2800.md#lindon26a-theory-statistics) · Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry
+- [按尾指数和目标范围区分 AdaGrad 收敛条件](../conferences/icml-2026/cards/2701-2800.md#liu26f-theory-statistics) · Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad
+- [用在线线性化遗憾导出预测区间覆盖](../conferences/icml-2026/cards/2801-2900.md#liu26y-theory-statistics) · Online Conformal Prediction via Universal Portfolio Algorithms
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -434,6 +441,7 @@
 - [同时监测深层图网络的前后向过平滑](../conferences/icml-2026/cards/2001-2100.md#keriven26a-theory-statistics) · Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?
 - [用图拉普拉斯扩散传播保持跨分辨率连续](../conferences/icml-2026/cards/2101-2200.md#koke26a-theory-statistics) · Graph Neural Networks Are Not Continuous Across Graph Resolutions
 - [用关系图上的可区分性预筛随机剪枝掩码](../conferences/icml-2026/cards/2201-2300.md#kummer26a-theory-statistics) · A Unifying Relational Perspective on Expressive Lottery Tickets
+- [整查询校准多跳图推理路径](../conferences/icml-2026/cards/2701-2800.md#lin26as-theory-statistics) · Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration
 
 <a id="by-scientific-ml"></a>
 
@@ -456,4 +464,6 @@
 - [蛋白质插入删除的嵌套生灭模型](../conferences/icml-2026/cards/2201-2300.md#large26a-theory-statistics) · Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution
 - [用少量探针估计量子门适配何时值得](../conferences/icml-2026/cards/2301-2400.md#leclerc26a-theory-statistics) · When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control
 - [不规则时间序列的结构感知补全](../conferences/icml-2026/cards/2401-2500.md#li26cj-theory-statistics) · Causal Discovery for Irregularly Time Series with Consistency Guarantees
+- [用工具变量指导高维处理的表征压缩](../conferences/icml-2026/cards/2701-2800.md#lin26q-theory-statistics) · Learning Treatment Representations for Downstream Instrumental Variable Regression
+- [用最坏潜混杂强度给基因发现做敏感性分析](../conferences/icml-2026/cards/2701-2800.md#lin26v-theory-statistics) · High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders
 <!-- classification:end -->

@@ -71,6 +71,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [PRAC: Principal-Random Subspace for LLM Activation Compression and Memory-Efficient Training](../../conferences/icml-2026/cards/2601-2700.md#li26je-optimization) · 中文
 - [Multilingual Safety Alignment Via Sparse Weight Editing](../../conferences/icml-2026/cards/2701-2800.md#liang26x-optimization) · 中文
 - [WaterSIC: Information-Theoretically (Near) Optimal Linear Layer Quantization](../../conferences/icml-2026/cards/2701-2800.md#lifar26a-optimization) · 中文
+- [NeUQI: Near-Optimal Uniform Quantization Parameter Initialization for Low-Bit LLMs](../../conferences/icml-2026/cards/2701-2800.md#lin26l-optimization) · 中文
+- [AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs](../../conferences/icml-2026/cards/2701-2800.md#lin26m-optimization) · 中文
+- [AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning](../../conferences/icml-2026/cards/2701-2800.md#lin26n-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -95,6 +98,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [UOTIP: Unbalanced Optimal Transport Map for Unpaired Inverse Problems](../../conferences/icml-2026/cards/2301-2400.md#lee26ak-optimization) · 中文
 - [Spatially-Adaptive Gradient Re-parameterization for 3D Large Kernel Optimization](../../conferences/icml-2026/cards/2301-2400.md#lee26as-optimization) · 中文
 - [Prism-MoE: Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation](../../conferences/icml-2026/cards/2501-2600.md#li26gy-optimization) · 中文
+- [Unlocking the Potential of Continual Model Merging: An ODE Perspective](../../conferences/icml-2026/cards/2701-2800.md#lin26o-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -291,6 +295,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [M+Adam: Low-Precision Training via Additive–Multiplicative Optimization](../../conferences/icml-2026/cards/2701-2800.md#liang26p-optimization) · 中文
 - [Turning Stale Gradients into Stable Gradients: Coherent Coordinate Descent with Implicit Landscape Smoothing for Lightweight Zeroth-Order Optimization](../../conferences/icml-2026/cards/2701-2800.md#liang26u-optimization) · 中文
 - [L-SR1: Learned Symmetric-Rank-One Preconditioning](../../conferences/icml-2026/cards/2701-2800.md#lifshitz26a-optimization) · 中文
+- [SAGE-NAS: Synergizing LLM-Based Semantic Agent with Graph-Based Evaluator for Neural Architecture Search](../../conferences/icml-2026/cards/2701-2800.md#lin26ac-optimization) · 中文
+- [A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers](../../conferences/icml-2026/cards/2701-2800.md#linghu26b-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -337,4 +343,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition](../../conferences/icml-2026/cards/2001-2100.md#kim26j-optimization) · 中文
 - [Causal Structure Learning for Sparse Matrix Fill-in Reduction](../../conferences/icml-2026/cards/2501-2600.md#li26el-optimization) · 中文
 - [G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../../conferences/icml-2026/cards/2701-2800.md#liao26a-optimization) · 中文
+- [Stabilizing Equation Learning via Zero-Point Constraints](../../conferences/icml-2026/cards/2701-2800.md#liu26n-optimization) · 中文
 <!-- classification:end -->

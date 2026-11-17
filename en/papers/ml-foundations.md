@@ -86,6 +86,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lee26h-modules"></a>[Dynamic Relational Priming Improves Transformer in Multivariate Time Series](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26h)
 - <a id="li26bu-modules"></a>[Channel Adapter for Time Series Foundation Models in Zero-Shot Multivariate Forecasting](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bu)
 - <a id="li26hn-modules"></a>[nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../../conferences/icml-2026/cards/2601-2700.md#paper-li26hn)
+- <a id="liu26r-modules"></a>[Beyond Magnitude: Scale-Invariant Evidential Fusion for Multi-View Classification](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26r)
 
 <a id="by-loss-functions"></a>
 
@@ -112,6 +113,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="lee26aq-loss-functions"></a>[Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26aq)
 - <a id="lee26bd-loss-functions"></a>[Contrastive Order Learning: A General Framework for Ordinal Regression](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bd)
 - <a id="li26fn-loss-functions"></a>[Trajectory Consistency for One-Step Generation on Euler Mean Flows](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fn)
+- <a id="liu26g-loss-functions"></a>[When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26g)
 
 <a id="by-optimization"></a>
 
@@ -276,6 +278,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="liang26p-optimization"></a>[M+Adam: Low-Precision Training via Additive–Multiplicative Optimization](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26p)
 - <a id="liang26u-optimization"></a>[Turning Stale Gradients into Stable Gradients: Coherent Coordinate Descent with Implicit Landscape Smoothing for Lightweight Zeroth-Order Optimization](../../conferences/icml-2026/cards/2701-2800.md#paper-liang26u)
 - <a id="lifshitz26a-optimization"></a>[L-SR1: Learned Symmetric-Rank-One Preconditioning](../../conferences/icml-2026/cards/2701-2800.md#paper-lifshitz26a)
+- <a id="lin26ac-optimization"></a>[SAGE-NAS: Synergizing LLM-Based Semantic Agent with Graph-Based Evaluator for Neural Architecture Search](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ac)
+- <a id="linghu26b-optimization"></a>[A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers](../../conferences/icml-2026/cards/2701-2800.md#paper-linghu26b)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -338,6 +342,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="li26ae-training-strategies"></a>[FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ae)
 - <a id="li26ep-training-strategies"></a>[When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](../../conferences/icml-2026/cards/2501-2600.md#paper-li26ep)
 - <a id="li26fa-training-strategies"></a>[SURF: Separation via Unsupervised Remixing Flow](../../conferences/icml-2026/cards/2501-2600.md#paper-li26fa)
+- <a id="lin26w-training-strategies"></a>[Consistency Deep Equilibrium Models](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26w)
 
 <a id="by-data-strategies"></a>
 
@@ -359,6 +364,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="kumar26e-data-strategies"></a>[$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation](../../conferences/icml-2026/cards/2201-2300.md#paper-kumar26e)
 - <a id="lee26af-data-strategies"></a>[Monotonic Variational Gaussian Process for Efficient Data Collection](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26af)
 - <a id="li26cr-data-strategies"></a>[GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cr)
+- <a id="lin26p-data-strategies"></a>[ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26p)
 
 <a id="by-inference"></a>
 
@@ -758,4 +764,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="liang26f-theory-statistics"></a>[Causal Representation Learning with Optimal Compression under Complex Treatments](../../conferences/icml-2026/cards/2601-2700.md#paper-liang26f)
 - <a id="liaw26a-theory-statistics"></a>[Risk-Averse and Optimistic Advertiser Incentive Compatibility in Auto-bidding](../../conferences/icml-2026/cards/2701-2800.md#paper-liaw26a)
 - <a id="lin26b-theory-statistics"></a>[Empirical Gaussian Processes](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26b)
+- <a id="lin26ad-theory-statistics"></a>[Adaptive Bandit Algorithms for Contextual Matching Markets](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ad)
+- <a id="lindon26a-theory-statistics"></a>[Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry](../../conferences/icml-2026/cards/2701-2800.md#paper-lindon26a)
+- <a id="liu26f-theory-statistics"></a>[Can Adaptive Gradient Methods Converge under Heavy-Tailed Noise? A Case Study of AdaGrad](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26f)
+- <a id="liu26y-theory-statistics"></a>[Online Conformal Prediction via Universal Portfolio Algorithms](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26y)
 <!-- classification:end -->

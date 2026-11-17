@@ -52,6 +52,7 @@
 - [用正负条件分数校正扩散软提示](../conferences/icml-2026/cards/2301-2400.md#lee26k-loss-functions) · Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models
 - [用幅度等变把去噪监督迁移至低噪区](../conferences/icml-2026/cards/2301-2400.md#levac26a-loss-functions) · Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements
 - [让高斯基元的颜色歧义反过来指导表面修复](../conferences/icml-2026/cards/2601-2700.md#li26iz-loss-functions) · Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction
+- [用运输代价固定对抗生成的映射](../conferences/icml-2026/cards/2701-2800.md#lin26ao-loss-functions) · Adversarial Flow Models
 
 <a id="by-nlp"></a>
 
@@ -102,6 +103,7 @@
 - [用双重归一化限制错标梯度](../conferences/icml-2026/cards/2501-2600.md#li26er-loss-functions) · Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision–Language Models
 - [用相关负类监督视觉词元做密集预测](../conferences/icml-2026/cards/2501-2600.md#li26fg-loss-functions) · DenseMLLM: Standard Multimodal LLMs for Dense Prediction
 - [未量化潜变量对语音解码器的自指导](../conferences/icml-2026/cards/2601-2700.md#li26jy-loss-functions) · Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment
+- [对可能翻转偏好的市场条件单独监督敏感性](../conferences/icml-2026/cards/2701-2800.md#liu26e-loss-functions) · GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction
 
 <a id="by-ml-foundations"></a>
 
@@ -128,6 +130,7 @@
 - [把带噪等级变成可比较的概率序](../conferences/icml-2026/cards/2301-2400.md#lee26aq-loss-functions) · Stochastic Order Learning: An Approach to Rank Estimation Using Noisy Data
 - [连续秩差的对比学习](../conferences/icml-2026/cards/2301-2400.md#lee26bd-loss-functions) · Contrastive Order Learning: A General Framework for Ordinal Regression
 - [用半群导出的线性代理监督流映射](../conferences/icml-2026/cards/2501-2600.md#li26fn-loss-functions) · Trajectory Consistency for One-Step Generation on Euler Mean Flows
+- [用逐样本正确性约束候选专家的训练竞争](../conferences/icml-2026/cards/2701-2800.md#liu26g-loss-functions) · When More Experts Hurt: Underfitting in Multi-Expert Learning to Defer
 
 <a id="by-graph-and-recommendation"></a>
 

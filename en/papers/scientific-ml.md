@@ -74,6 +74,10 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liao26e-architecture"></a>[Frequency Matching in Spiking Neural Networks for mmWave Sensing](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26e)
 - <a id="lillemark26a-architecture"></a>[Flow Equivariant World Models: Structured Memory for Dynamic Environments](../../conferences/icml-2026/cards/2701-2800.md#paper-lillemark26a)
 - <a id="lin26e-architecture"></a>[Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26e)
+- <a id="lin26x-architecture"></a>[BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26x)
+- <a id="lin26ar-architecture"></a>[Periodic Bayesian Flow Networks with Additive Accuracy](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26ar)
+- <a id="ling26a-architecture"></a>[LangPrecip: Language-Aware Multimodal Precipitation Nowcasting](../../conferences/icml-2026/cards/2701-2800.md#paper-ling26a)
+- <a id="liu26s-architecture"></a>[Solving Time-Dependent Differential Equations with Physical Dynamical Systems](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26s)
 
 <a id="by-modules"></a>
 
@@ -134,6 +138,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="kim26j-optimization"></a>[LeakGFN: Robust Molecular Generation in Generative Flow Networks via Flow Decomposition](../../conferences/icml-2026/cards/2001-2100.md#paper-kim26j)
 - <a id="li26el-optimization"></a>[Causal Structure Learning for Sparse Matrix Fill-in Reduction](../../conferences/icml-2026/cards/2501-2600.md#paper-li26el)
 - <a id="liao26a-optimization"></a>[G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems](../../conferences/icml-2026/cards/2701-2800.md#paper-liao26a)
+- <a id="liu26n-optimization"></a>[Stabilizing Equation Learning via Zero-Point Constraints](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26n)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -157,6 +162,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26bp-reinforcement-learning"></a>[Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learning Force Fields](../../conferences/icml-2026/cards/2401-2500.md#paper-li26bp)
 - <a id="li26ch-reinforcement-learning"></a>[FIDIA: Function-Informed Sequence Design via Inference-Aligned Policy Optimization](../../conferences/icml-2026/cards/2401-2500.md#paper-li26ch)
 - <a id="li26gs-reinforcement-learning"></a>[Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis](../../conferences/icml-2026/cards/2501-2600.md#paper-li26gs)
+- <a id="liu26q-reinforcement-learning"></a>[Med-Scout: Curing MLLMs’ Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](../../conferences/icml-2026/cards/2701-2800.md#paper-liu26q)
 
 <a id="by-training-strategies"></a>
 
@@ -320,4 +326,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="large26a-theory-statistics"></a>[Nested birth-death processes are competitive with neural networks as time-dependent models of protein evolution](../../conferences/icml-2026/cards/2201-2300.md#paper-large26a)
 - <a id="leclerc26a-theory-statistics"></a>[When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control](../../conferences/icml-2026/cards/2301-2400.md#paper-leclerc26a)
 - <a id="li26cj-theory-statistics"></a>[Causal Discovery for Irregularly Time Series with Consistency Guarantees](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cj)
+- <a id="lin26q-theory-statistics"></a>[Learning Treatment Representations for Downstream Instrumental Variable Regression](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26q)
+- <a id="lin26v-theory-statistics"></a>[High-Dimensional Sensitivity Analysis for Genomic Studies: An Adversarial Framework for Learning Worst-Case Latent Confounders](../../conferences/icml-2026/cards/2701-2800.md#paper-lin26v)
 <!-- classification:end -->

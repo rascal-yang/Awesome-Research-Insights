@@ -46,6 +46,8 @@
 - [容量感知的数据配比定律](../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization
 - [瞄准稀疏字典中的数据空缺](../conferences/icml-2026/cards/2601-2700.md#li26hl-data-strategies) · Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders
 - [用合并成分模型评估预训练数据配比](../conferences/icml-2026/cards/2601-2700.md#li26jt-data-strategies) · Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training
+- [用实体与约束子树合成知识密集建模任务](../conferences/icml-2026/cards/2701-2800.md#liu26d-data-strategies) · Opt-Miner: Empowering Information-Seeking Agent with Tree-Guided Data Synthesis for Optimization Modeling
+- [联合调节微调数据预算与推理难度](../conferences/icml-2026/cards/2701-2800.md#liu26m-data-strategies) · Data Difficulty and the Generalization–Extrapolation Tradeoff in LLM Fine-Tuning
 
 <a id="by-computer-vision"></a>
 
@@ -144,6 +146,7 @@
 - [先复用加密边缘统计再发布私有合成数据](../conferences/icml-2026/cards/2201-2300.md#kumar26e-data-strategies) · $\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation
 - [用单调学习曲线和预期缺口决定采集量](../conferences/icml-2026/cards/2301-2400.md#lee26af-data-strategies) · Monotonic Variational Gaussian Process for Efficient Data Collection
 - [梯度筛查与特征校正的噪声标签净化](../conferences/icml-2026/cards/2401-2500.md#li26cr-data-strategies) · GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception
+- [用预测相关性奖励训练少样本表格生成器](../conferences/icml-2026/cards/2701-2800.md#lin26p-data-strategies) · ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning
 
 <a id="by-graph-and-recommendation"></a>
 

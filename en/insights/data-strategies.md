@@ -46,6 +46,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](../../conferences/icml-2026/cards/2401-2500.md#li26av-data-strategies) · 中文
 - [Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](../../conferences/icml-2026/cards/2601-2700.md#li26hl-data-strategies) · 中文
 - [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](../../conferences/icml-2026/cards/2601-2700.md#li26jt-data-strategies) · 中文
+- [Opt-Miner: Empowering Information-Seeking Agent with Tree-Guided Data Synthesis for Optimization Modeling](../../conferences/icml-2026/cards/2701-2800.md#liu26d-data-strategies) · 中文
+- [Data Difficulty and the Generalization–Extrapolation Tradeoff in LLM Fine-Tuning](../../conferences/icml-2026/cards/2701-2800.md#liu26m-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -144,6 +146,7 @@ Data selection, annotation, augmentation, and sampling.
 - [$\textttFHAIM$: Fully Homomorphic AIM for Private Tabular Synthetic Data Generation](../../conferences/icml-2026/cards/2201-2300.md#kumar26e-data-strategies) · 中文
 - [Monotonic Variational Gaussian Process for Efficient Data Collection](../../conferences/icml-2026/cards/2301-2400.md#lee26af-data-strategies) · 中文
 - [GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception](../../conferences/icml-2026/cards/2401-2500.md#li26cr-data-strategies) · 中文
+- [ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning](../../conferences/icml-2026/cards/2701-2800.md#lin26p-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

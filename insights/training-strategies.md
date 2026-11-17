@@ -88,6 +88,7 @@
 - [用无角色预测稳定安全决策](../conferences/icml-2026/cards/2601-2700.md#li26hh-training-strategies) · Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment
 - [先保持对话连续抽取激活再混合训练](../conferences/icml-2026/cards/2601-2700.md#li26ik-training-strategies) · Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models
 - [先从符号任务学程序再用自然语言适配](../conferences/icml-2026/cards/2701-2800.md#lin26k-training-strategies) · Can Large Language Models Generalize Procedures Across Representations?
+- [在零空间内重定向需要遗忘的事实](../conferences/icml-2026/cards/2701-2800.md#lin26ap-training-strategies) · ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -129,6 +130,8 @@
 - [用双向视频判别器约束单步因果生成](../conferences/icml-2026/cards/2601-2700.md#li26iw-training-strategies) · AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation
 - [图像光效迁移的内容—光效拆分](../conferences/icml-2026/cards/2601-2700.md#li26ka-training-strategies) · TransLight: Image-Guided Customized Lighting Control with Generative Decoupling
 - [按纬度监督全景编辑的形状](../conferences/icml-2026/cards/2601-2700.md#liang26m-training-strategies) · World-Shaper: A Unified Framework for 360\textdegree Panoramic Editing
+- [长视频的语义记忆与运动监督](../conferences/icml-2026/cards/2701-2800.md#lin26ah-training-strategies) · DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors
+- [把正交投影丢掉的梯度送到任务分支](../conferences/icml-2026/cards/2701-2800.md#lin26aj-training-strategies) · GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning
 
 <a id="by-nlp"></a>
 
@@ -144,6 +147,7 @@
 ### 强化学习
 
 - [按宽度与深度缩放策略网络的参数和更新](../conferences/icml-2026/cards/2301-2400.md#lee26ai-training-strategies) · CompleteP for RL: Maintaining Feature Learning When Scaling Deep Reinforcement Learning
+- [先覆盖有先修关系的课程图再训练前沿](../conferences/icml-2026/cards/2701-2800.md#liu26j-training-strategies) · Active Curriculum Refinement for Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -250,6 +254,7 @@
 - [用排队预测决定每轮联邦训练做多少本地工作](../conferences/icml-2026/cards/2401-2500.md#li26ae-training-strategies) · FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training
 - [合并模型时校准共享方向的幅值](../conferences/icml-2026/cards/2501-2600.md#li26ep-training-strategies) · When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging
 - [用教师估计源重混合训练生成式分离器](../conferences/icml-2026/cards/2501-2600.md#li26fa-training-strategies) · SURF: Separation via Unsupervised Remixing Flow
+- [沿固定点轨迹蒸馏少步平衡求解器](../conferences/icml-2026/cards/2701-2800.md#lin26w-training-strategies) · Consistency Deep Equilibrium Models
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -263,6 +268,7 @@
 - [图自监督任务的反馈式预算调度](../conferences/icml-2026/cards/1301-1400.md#grover26a-training-strategies) · Feedback Control for Multi-Objective Graph Self-Supervision
 - [从全局模型和本地图邻居两侧找噪声标签](../conferences/icml-2026/cards/2501-2600.md#li26fv-training-strategies) · FedRGL: Robust Federated Graph Learning under Label Noise
 - [以对比聚类进行路段到车道迁移](../conferences/icml-2026/cards/2601-2700.md#li26ih-training-strategies) · Being More Lightweight and Practical: Mini-sized Contrastive Learning Pre-trained Models for Fine-grained Traffic Task
+- [各客户端保留曲率并共享类空更新](../conferences/icml-2026/cards/2701-2800.md#liu26b-training-strategies) · FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space
 
 <a id="by-scientific-ml"></a>
 
