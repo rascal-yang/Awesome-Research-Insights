@@ -77,6 +77,7 @@ Training schedules, curricula, and task or stage composition.
 - [SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs](../../conferences/icml-2026/cards/2301-2400.md#lee26c-training-strategies) · 中文
 - [ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training](../../conferences/icml-2026/cards/2301-2400.md#lee26an-training-strategies) · 中文
 - [LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs](../../conferences/icml-2026/cards/2301-2400.md#lee26bi-training-strategies) · 中文
+- [Multiple Choice Learning of Low-Rank Adapters for Language Modeling](../../conferences/icml-2026/cards/2301-2400.md#letzelter26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

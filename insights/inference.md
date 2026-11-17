@@ -162,6 +162,7 @@
 - [将注意力的 KV 读取转成有界抽样预算](../conferences/icml-2026/cards/2301-2400.md#lee26j-inference) · Stochastic Sparse Attention for Memory-Bound Inference
 - [用扩散模型自身的不确定性筛解掩路径](../conferences/icml-2026/cards/2301-2400.md#lee26ab-inference) · Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models
 - [无标签的验证器集成选答](../conferences/icml-2026/cards/2301-2400.md#lee26av-inference) · FUSE: Ensembling Verifiers with Zero Labeled Data
+- [用授权模型反馈校准提示的可移植性](../conferences/icml-2026/cards/2301-2400.md#li26d-inference) · PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts
 
 <a id="by-computer-vision"></a>
 
@@ -327,6 +328,7 @@
 - [从弱相似视觉补丁恢复指代区域](../conferences/icml-2026/cards/2301-2400.md#lee26e-inference) · CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models
 - [按表征跨层变化为视觉区域分配裁剪预算](../conferences/icml-2026/cards/2301-2400.md#lee26ap-inference) · SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models
 - [高分辨率界面的主动定位](../conferences/icml-2026/cards/2301-2400.md#lei26h-inference) · GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding
+- [把组内视频推理优势写成可检索经验](../conferences/icml-2026/cards/2301-2400.md#leng26c-inference) · Linguistic Relative Policy Optimization for Video Anomaly Reasoning
 
 <a id="by-ml-foundations"></a>
 

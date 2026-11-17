@@ -302,6 +302,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lee26c-training-strategies"></a>[SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26c)
 - <a id="lee26an-training-strategies"></a>[ReQAT: Achieving Full-Precision Reasoning Accuracy with 4-bit Floating-Point Quantization-Aware Training](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26an)
 - <a id="lee26bi-training-strategies"></a>[LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bi)
+- <a id="letzelter26a-training-strategies"></a>[Multiple Choice Learning of Low-Rank Adapters for Language Modeling](../../conferences/icml-2026/cards/2301-2400.md#paper-letzelter26a)
 
 <a id="by-data-strategies"></a>
 
@@ -336,6 +337,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="kao26a-data-strategies"></a>[Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment](../../conferences/icml-2026/cards/2001-2100.md#paper-kao26a)
 - <a id="kim26o-data-strategies"></a>[Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26o)
 - <a id="lee26u-data-strategies"></a>[From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26u)
+- <a id="levi26a-data-strategies"></a>[Toward Cybersecurity-Expert Small Language Models](../../conferences/icml-2026/cards/2301-2400.md#paper-levi26a)
 
 <a id="by-inference"></a>
 
@@ -490,6 +492,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lee26j-inference"></a>[Stochastic Sparse Attention for Memory-Bound Inference](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26j)
 - <a id="lee26ab-inference"></a>[Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26ab)
 - <a id="lee26av-inference"></a>[FUSE: Ensembling Verifiers with Zero Labeled Data](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26av)
+- <a id="li26d-inference"></a>[PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts](../../conferences/icml-2026/cards/2301-2400.md#paper-li26d)
 
 <a id="by-representation-learning"></a>
 
@@ -686,6 +689,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lee26bh-evaluation"></a>[The Efficiency Gap in Byte Modeling](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bh)
 - <a id="lee26bj-evaluation"></a>[Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook](../../conferences/icml-2026/cards/2301-2400.md#paper-lee26bj)
 - <a id="lei26c-evaluation"></a>[A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors](../../conferences/icml-2026/cards/2301-2400.md#paper-lei26c)
+- <a id="letson26a-evaluation"></a>[SorryDB: Can AI Provers Complete Real-World Lean Theorems?](../../conferences/icml-2026/cards/2301-2400.md#paper-letson26a)
+- <a id="li26c-evaluation"></a>[Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure](../../conferences/icml-2026/cards/2301-2400.md#paper-li26c)
 
 <a id="by-theory-statistics"></a>
 

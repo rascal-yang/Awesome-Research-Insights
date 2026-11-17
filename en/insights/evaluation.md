@@ -193,6 +193,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Efficiency Gap in Byte Modeling](../../conferences/icml-2026/cards/2301-2400.md#lee26bh-evaluation) · 中文
 - [Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook](../../conferences/icml-2026/cards/2301-2400.md#lee26bj-evaluation) · 中文
 - [A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors](../../conferences/icml-2026/cards/2301-2400.md#lei26c-evaluation) · 中文
+- [SorryDB: Can AI Provers Complete Real-World Lean Theorems?](../../conferences/icml-2026/cards/2301-2400.md#letson26a-evaluation) · 中文
+- [Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure](../../conferences/icml-2026/cards/2301-2400.md#li26c-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

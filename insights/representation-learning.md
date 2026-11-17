@@ -66,6 +66,7 @@
 - [用带标签的稀疏嵌入作为文档分析坐标](../conferences/icml-2026/cards/1901-2000.md#jiang26ar-representation-learning) · Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit
 - [从共现核的平移对称预估嵌入几何](../conferences/icml-2026/cards/2001-2100.md#karkada26a-representation-learning) · Symmetry in language statistics shapes the geometry of model representations
 - [给浮点数单独的单位置编码通道](../conferences/icml-2026/cards/2201-2300.md#kreitner26a-representation-learning) · Efficient Numeracy in Language Models through Single-Token Number Encodings
+- [用提示条件词表分布监督短文主题重建](../conferences/icml-2026/cards/2301-2400.md#li26a-representation-learning) · Improving Topic Modeling by Distilling Soft Labels from Language Models
 
 <a id="by-reinforcement-learning"></a>
 

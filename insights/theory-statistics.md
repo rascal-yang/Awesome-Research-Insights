@@ -107,6 +107,8 @@
 - [从延迟扩展状态中分离真正未知的动力学](../conferences/icml-2026/cards/2301-2400.md#lee26o-theory-statistics) · Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning
 - [对抗信号中的组合通信涌现](../conferences/icml-2026/cards/2301-2400.md#lee26bf-theory-statistics) · Emergent Communication Under Misinformation
 - [依模型误差来源选择重规划频率](../conferences/icml-2026/cards/2301-2400.md#lefebvre26a-theory-statistics) · The Cost of Commitment in Option-Based Hierarchical RL
+- [用反事实历史动作概率分配赌博机探索奖金](../conferences/icml-2026/cards/2301-2400.md#levy26a-theory-statistics) · Optimal Regret for Policy Optimization in Contextual Bandits
+- [以估计占用率控制上下文 MDP 的双重误差](../conferences/icml-2026/cards/2301-2400.md#levy26b-theory-statistics) · Near-Optimal Regret for Policy Optimization in Contextual MDPs with General Offline Function Approximation
 
 <a id="by-robotics"></a>
 

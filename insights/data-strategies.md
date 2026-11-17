@@ -42,6 +42,7 @@
 - [按边际安全收益选择最小增强集](../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment
 - [用模型自己的解掩顺序生成训练掩码](../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training
 - [将端侧偏好记忆压缩为可检索指令](../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG
+- [先定义专家推理步骤再用证据改写监督](../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · Toward Cybersecurity-Expert Small Language Models
 
 <a id="by-computer-vision"></a>
 

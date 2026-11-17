@@ -66,6 +66,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](../../conferences/icml-2026/cards/1901-2000.md#jiang26ar-representation-learning) · 中文
 - [Symmetry in language statistics shapes the geometry of model representations](../../conferences/icml-2026/cards/2001-2100.md#karkada26a-representation-learning) · 中文
 - [Efficient Numeracy in Language Models through Single-Token Number Encodings](../../conferences/icml-2026/cards/2201-2300.md#kreitner26a-representation-learning) · 中文
+- [Improving Topic Modeling by Distilling Soft Labels from Language Models](../../conferences/icml-2026/cards/2301-2400.md#li26a-representation-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

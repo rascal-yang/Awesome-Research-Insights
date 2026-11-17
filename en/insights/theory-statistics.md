@@ -107,6 +107,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26o-theory-statistics) · 中文
 - [Emergent Communication Under Misinformation](../../conferences/icml-2026/cards/2301-2400.md#lee26bf-theory-statistics) · 中文
 - [The Cost of Commitment in Option-Based Hierarchical RL](../../conferences/icml-2026/cards/2301-2400.md#lefebvre26a-theory-statistics) · 中文
+- [Optimal Regret for Policy Optimization in Contextual Bandits](../../conferences/icml-2026/cards/2301-2400.md#levy26a-theory-statistics) · 中文
+- [Near-Optimal Regret for Policy Optimization in Contextual MDPs with General Offline Function Approximation](../../conferences/icml-2026/cards/2301-2400.md#levy26b-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 

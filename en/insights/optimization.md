@@ -267,6 +267,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Decision-Focused Learning via Tangent-Space Projection of Prediction Error](../../conferences/icml-2026/cards/2301-2400.md#lee26q-optimization) · 中文
 - [Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](../../conferences/icml-2026/cards/2301-2400.md#lee26ba-optimization) · 中文
 - [Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks](../../conferences/icml-2026/cards/2301-2400.md#lee26bg-optimization) · 中文
+- [Near-Optimal Private Linear Regression via Iterative Hessian Mixing](../../conferences/icml-2026/cards/2301-2400.md#lev26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

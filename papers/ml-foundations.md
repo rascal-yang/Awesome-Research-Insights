@@ -260,6 +260,7 @@
 - <a id="lee26q-optimization"></a>[Decision-Focused Learning via Tangent-Space Projection of Prediction Error](../conferences/icml-2026/cards/2301-2400.md#paper-lee26q)
 - <a id="lee26ba-optimization"></a>[Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ba)
 - <a id="lee26bg-optimization"></a>[Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bg)
+- <a id="lev26a-optimization"></a>[Near-Optimal Private Linear Regression via Iterative Hessian Mixing](../conferences/icml-2026/cards/2301-2400.md#paper-lev26a)
 
 <a id="by-reinforcement-learning"></a>
 

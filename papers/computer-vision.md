@@ -85,6 +85,7 @@
 - <a id="koromilas26b-loss-functions"></a>[Neural Collapse by Design: Learning Class Prototypes on the Hypersphere](../conferences/icml-2026/cards/2201-2300.md#paper-koromilas26b)
 - <a id="kuang26b-loss-functions"></a>[Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations](../conferences/icml-2026/cards/2201-2300.md#paper-kuang26b)
 - <a id="lee26k-loss-functions"></a>[Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26k)
+- <a id="levac26a-loss-functions"></a>[Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements](../conferences/icml-2026/cards/2301-2400.md#paper-levac26a)
 
 <a id="by-optimization"></a>
 

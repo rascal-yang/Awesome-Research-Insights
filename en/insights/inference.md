@@ -162,6 +162,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Stochastic Sparse Attention for Memory-Bound Inference](../../conferences/icml-2026/cards/2301-2400.md#lee26j-inference) · 中文
 - [Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26ab-inference) · 中文
 - [FUSE: Ensembling Verifiers with Zero Labeled Data](../../conferences/icml-2026/cards/2301-2400.md#lee26av-inference) · 中文
+- [PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts](../../conferences/icml-2026/cards/2301-2400.md#li26d-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -327,6 +328,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26e-inference) · 中文
 - [SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models](../../conferences/icml-2026/cards/2301-2400.md#lee26ap-inference) · 中文
 - [GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](../../conferences/icml-2026/cards/2301-2400.md#lei26h-inference) · 中文
+- [Linguistic Relative Policy Optimization for Video Anomaly Reasoning](../../conferences/icml-2026/cards/2301-2400.md#leng26c-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

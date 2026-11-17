@@ -193,6 +193,8 @@
 - [用每字节损失比较不同分词的算力前沿](../conferences/icml-2026/cards/2301-2400.md#lee26bh-evaluation) · The Efficiency Gap in Byte Modeling
 - [先提炼价值表达再比较文本分布](../conferences/icml-2026/cards/2301-2400.md#lee26bj-evaluation) · Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook
 - [开放式行为模拟评估](../conferences/icml-2026/cards/2301-2400.md#lei26c-evaluation) · A Computational Framework for Evaluating Human-likeness in LLMs’ Open-ended Human Behaviors
+- [用活跃形式化项目的待证明空位滚动评测](../conferences/icml-2026/cards/2301-2400.md#letson26a-evaluation) · SorryDB: Can AI Provers Complete Real-World Lean Theorems?
+- [以逐步干预和双重读出区分潜在推理承诺](../conferences/icml-2026/cards/2301-2400.md#li26c-evaluation) · Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure
 
 <a id="by-computer-vision"></a>
 

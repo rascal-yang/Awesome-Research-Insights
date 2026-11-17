@@ -203,6 +203,7 @@
 - <a id="lee26e-inference"></a>[CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26e)
 - <a id="lee26ap-inference"></a>[SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ap)
 - <a id="lei26h-inference"></a>[GUI-Spotlight: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](../conferences/icml-2026/cards/2301-2400.md#paper-lei26h)
+- <a id="leng26c-inference"></a>[Linguistic Relative Policy Optimization for Video Anomaly Reasoning](../conferences/icml-2026/cards/2301-2400.md#paper-leng26c)
 
 <a id="by-representation-learning"></a>
 

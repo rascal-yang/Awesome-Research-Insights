@@ -195,6 +195,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26s-reinforcement-learning) · 中文
 - [Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning](../../conferences/icml-2026/cards/2301-2400.md#lee26t-reinforcement-learning) · 中文
 - [Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity](../../conferences/icml-2026/cards/2301-2400.md#lee26ae-reinforcement-learning) · 中文
+- [Scaling Multi-Agent Environment Co-Design with Diffusion Models](../../conferences/icml-2026/cards/2301-2400.md#li26b-reinforcement-learning) · 中文
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>

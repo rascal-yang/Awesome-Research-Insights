@@ -195,6 +195,7 @@
 - [按跨组互信息构造协作中断训练样本](../conferences/icml-2026/cards/2301-2400.md#lee26s-reinforcement-learning) · Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning
 - [用单步流锚点约束噪声条件价值学习](../conferences/icml-2026/cards/2301-2400.md#lee26t-reinforcement-learning) · Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning
 - [用量子最小值搜索替换鲁棒 Bellman 内层枚举](../conferences/icml-2026/cards/2301-2400.md#lee26ae-reinforcement-learning) · Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity
+- [用当前策略价值引导可行环境扩散](../conferences/icml-2026/cards/2301-2400.md#li26b-reinforcement-learning) · Scaling Multi-Agent Environment Co-Design with Diffusion Models
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>

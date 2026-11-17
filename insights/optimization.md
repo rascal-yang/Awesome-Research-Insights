@@ -267,6 +267,7 @@
 - [把预测误差投影到活跃约束的切空间](../conferences/icml-2026/cards/2301-2400.md#lee26q-optimization) · Decision-Focused Learning via Tangent-Space Projection of Prediction Error
 - [多项 Logit 组合试验的最优设计](../conferences/icml-2026/cards/2301-2400.md#lee26ba-optimization) · Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification
 - [可微逻辑门的两阶段常量绑定](../conferences/icml-2026/cards/2301-2400.md#lee26bg-optimization) · Two-Stage Unit Tying for Simplifying Differentiable Logic Gate Networks
+- [用多轮私有 Hessian 草图修正回归参数](../conferences/icml-2026/cards/2301-2400.md#lev26a-optimization) · Near-Optimal Private Linear Regression via Iterative Hessian Mixing
 
 <a id="by-graph-and-recommendation"></a>
 

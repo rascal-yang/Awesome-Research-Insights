@@ -42,6 +42,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Submodular Optimization for Minimal Augmentation in Robust Language Model Alignment](../../conferences/icml-2026/cards/2001-2100.md#kao26a-data-strategies) · 中文
 - [Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](../../conferences/icml-2026/cards/2101-2200.md#kim26o-data-strategies) · 中文
 - [From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG](../../conferences/icml-2026/cards/2301-2400.md#lee26u-data-strategies) · 中文
+- [Toward Cybersecurity-Expert Small Language Models](../../conferences/icml-2026/cards/2301-2400.md#levi26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -91,6 +91,7 @@
 - <a id="jiang26ar-representation-learning"></a>[Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26ar)
 - <a id="karkada26a-representation-learning"></a>[Symmetry in language statistics shapes the geometry of model representations](../conferences/icml-2026/cards/2001-2100.md#paper-karkada26a)
 - <a id="kreitner26a-representation-learning"></a>[Efficient Numeracy in Language Models through Single-Token Number Encodings](../conferences/icml-2026/cards/2201-2300.md#paper-kreitner26a)
+- <a id="li26a-representation-learning"></a>[Improving Topic Modeling by Distilling Soft Labels from Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-li26a)
 
 <a id="by-evaluation"></a>
 

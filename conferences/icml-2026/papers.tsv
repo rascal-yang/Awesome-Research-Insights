@@ -2383,18 +2383,18 @@ number	pmlr_id	title	paper_url	insight_status
 2382	lei26j	Budget-Constrained Step-Level Diffusion Caching	https://proceedings.mlr.press/v306/lei26j.html	written
 2383	leng26a	Towards Trustworthy Video Anomaly Understanding: A Class-Guided Chain-of-Evaluation Metric and An Anomaly-focused Meta-Benchmark	https://proceedings.mlr.press/v306/leng26a.html	written
 2384	leng26b	LEGO-FL: Learning Heterogeneous Federated Models as a LEGO Assembly Games	https://proceedings.mlr.press/v306/leng26b.html	written
-2385	leng26c	Linguistic Relative Policy Optimization for Video Anomaly Reasoning	https://proceedings.mlr.press/v306/leng26c.html	pending
-2386	letson26a	SorryDB: Can AI Provers Complete Real-World Lean Theorems?	https://proceedings.mlr.press/v306/letson26a.html	pending
-2387	letzelter26a	Multiple Choice Learning of Low-Rank Adapters for Language Modeling	https://proceedings.mlr.press/v306/letzelter26a.html	pending
-2388	lev26a	Near-Optimal Private Linear Regression via Iterative Hessian Mixing	https://proceedings.mlr.press/v306/lev26a.html	pending
-2389	levac26a	Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements	https://proceedings.mlr.press/v306/levac26a.html	pending
-2390	levi26a	Toward Cybersecurity-Expert Small Language Models	https://proceedings.mlr.press/v306/levi26a.html	pending
-2391	levy26a	Optimal Regret for Policy Optimization in Contextual Bandits	https://proceedings.mlr.press/v306/levy26a.html	pending
-2392	levy26b	Near-Optimal Regret for Policy Optimization in Contextual MDPs with General Offline Function Approximation	https://proceedings.mlr.press/v306/levy26b.html	pending
-2393	li26a	Improving Topic Modeling by Distilling Soft Labels from Language Models	https://proceedings.mlr.press/v306/li26a.html	pending
-2394	li26b	Scaling Multi-Agent Environment Co-Design with Diffusion Models	https://proceedings.mlr.press/v306/li26b.html	pending
-2395	li26c	Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure	https://proceedings.mlr.press/v306/li26c.html	pending
-2396	li26d	PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts	https://proceedings.mlr.press/v306/li26d.html	pending
+2385	leng26c	Linguistic Relative Policy Optimization for Video Anomaly Reasoning	https://proceedings.mlr.press/v306/leng26c.html	written
+2386	letson26a	SorryDB: Can AI Provers Complete Real-World Lean Theorems?	https://proceedings.mlr.press/v306/letson26a.html	written
+2387	letzelter26a	Multiple Choice Learning of Low-Rank Adapters for Language Modeling	https://proceedings.mlr.press/v306/letzelter26a.html	written
+2388	lev26a	Near-Optimal Private Linear Regression via Iterative Hessian Mixing	https://proceedings.mlr.press/v306/lev26a.html	written
+2389	levac26a	Normalization-equivariant Diffusion Models: Learning Posterior Samplers From Noisy And Partial Measurements	https://proceedings.mlr.press/v306/levac26a.html	written
+2390	levi26a	Toward Cybersecurity-Expert Small Language Models	https://proceedings.mlr.press/v306/levi26a.html	written
+2391	levy26a	Optimal Regret for Policy Optimization in Contextual Bandits	https://proceedings.mlr.press/v306/levy26a.html	written
+2392	levy26b	Near-Optimal Regret for Policy Optimization in Contextual MDPs with General Offline Function Approximation	https://proceedings.mlr.press/v306/levy26b.html	written
+2393	li26a	Improving Topic Modeling by Distilling Soft Labels from Language Models	https://proceedings.mlr.press/v306/li26a.html	written
+2394	li26b	Scaling Multi-Agent Environment Co-Design with Diffusion Models	https://proceedings.mlr.press/v306/li26b.html	written
+2395	li26c	Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure	https://proceedings.mlr.press/v306/li26c.html	written
+2396	li26d	PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts	https://proceedings.mlr.press/v306/li26d.html	written
 2397	li26e	Dimension-free convergence of diffusion models for approximate Gaussian mixtures	https://proceedings.mlr.press/v306/li26e.html	pending
 2398	li26f	MetaphorVU: Towards Metaphorical Video Understanding	https://proceedings.mlr.press/v306/li26f.html	pending
 2399	li26g	“Someone Hid It!”: Query-Agnostic Black-Box Attacks on LLM-Based Retrieval	https://proceedings.mlr.press/v306/li26g.html	pending

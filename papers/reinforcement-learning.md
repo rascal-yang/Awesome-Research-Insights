@@ -114,6 +114,7 @@
 - <a id="lee26s-reinforcement-learning"></a>[Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent Reinforcement Learning](../conferences/icml-2026/cards/2301-2400.md#paper-lee26s)
 - <a id="lee26t-reinforcement-learning"></a>[Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning](../conferences/icml-2026/cards/2301-2400.md#paper-lee26t)
 - <a id="lee26ae-reinforcement-learning"></a>[Quantum Robust Inner Minimization for Reinforcement Learning with Quadratic Speed-Up in Query Complexity](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ae)
+- <a id="li26b-reinforcement-learning"></a>[Scaling Multi-Agent Environment Co-Design with Diffusion Models](../conferences/icml-2026/cards/2301-2400.md#paper-li26b)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-training-strategies"></a>
@@ -212,4 +213,6 @@
 - <a id="lee26o-theory-statistics"></a>[Minimax Optimal Strategy for Delayed Observations in Online Reinforcement Learning](../conferences/icml-2026/cards/2301-2400.md#paper-lee26o)
 - <a id="lee26bf-theory-statistics"></a>[Emergent Communication Under Misinformation](../conferences/icml-2026/cards/2301-2400.md#paper-lee26bf)
 - <a id="lefebvre26a-theory-statistics"></a>[The Cost of Commitment in Option-Based Hierarchical RL](../conferences/icml-2026/cards/2301-2400.md#paper-lefebvre26a)
+- <a id="levy26a-theory-statistics"></a>[Optimal Regret for Policy Optimization in Contextual Bandits](../conferences/icml-2026/cards/2301-2400.md#paper-levy26a)
+- <a id="levy26b-theory-statistics"></a>[Near-Optimal Regret for Policy Optimization in Contextual MDPs with General Offline Function Approximation](../conferences/icml-2026/cards/2301-2400.md#paper-levy26b)
 <!-- classification:end -->
