@@ -57,6 +57,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="kim26ak-training-strategies"></a>[Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26ak)
 - <a id="kim26bm-training-strategies"></a>[Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bm)
 - <a id="liu26dd-training-strategies"></a>[Post-Training Language Models for Crosslingual Consistency](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dd)
+- <a id="marone26a-training-strategies"></a>[mmBERT: A Modern Multilingual Encoder with Annealed Language Learning](../../conferences/icml-2026/cards/3201-3300.md#paper-marone26a)
 
 <a id="by-data-strategies"></a>
 
@@ -97,6 +98,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="kreitner26a-representation-learning"></a>[Efficient Numeracy in Language Models through Single-Token Number Encodings](../../conferences/icml-2026/cards/2201-2300.md#paper-kreitner26a)
 - <a id="li26a-representation-learning"></a>[Improving Topic Modeling by Distilling Soft Labels from Language Models](../../conferences/icml-2026/cards/2301-2400.md#paper-li26a)
 - <a id="madhu26a-representation-learning"></a>[HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation](../../conferences/icml-2026/cards/3101-3200.md#paper-madhu26a)
+- <a id="meister26a-representation-learning"></a>[What Language is This? Ask Your Tokenizer.](../../conferences/icml-2026/cards/3201-3300.md#paper-meister26a)
 
 <a id="by-evaluation"></a>
 

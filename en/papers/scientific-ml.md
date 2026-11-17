@@ -91,6 +91,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lu26u-architecture"></a>[Interpretable Functional Koopman Learning with Non-Markovian Closure for Spatiotemporal Systems](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26u)
 - <a id="luo26l-architecture"></a>[Physically-Guided Data-Space Rectified Flow for Precipitation Nowcasting](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26l)
 - <a id="luo26ac-architecture"></a>[ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26ac)
+- <a id="mccabe26a-architecture"></a>[Walrus: A Cross-domain Foundation Model for Continuum Dynamics](../../conferences/icml-2026/cards/3201-3300.md#paper-mccabe26a)
 
 <a id="by-modules"></a>
 
@@ -103,6 +104,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="coscia26a-modules"></a>[BLIPs: Bayesian Learned Interatomic Potentials](../../conferences/icml-2026/cards/0701-0800.md#paper-coscia26a)
 - <a id="gao26ap-modules"></a>[Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ap)
 - <a id="li26cu-modules"></a>[Graph Rewiring based on Flow Alignment for Improving Fluid Simulation](../../conferences/icml-2026/cards/2401-2500.md#paper-li26cu)
+- <a id="mehouachi26a-modules"></a>[Fractional is Better: Learnable Derivative Orders in Neural Operator Learning](../../conferences/icml-2026/cards/3201-3300.md#paper-mehouachi26a)
 
 <a id="by-loss-functions"></a>
 
@@ -128,6 +130,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="li26dg-loss-functions"></a>[Bias-Spectrum Neural Processes for Parametric PDEs: Architecture Priors Meet PDE Constraints](../../conferences/icml-2026/cards/2501-2600.md#paper-li26dg)
 - <a id="liu26dm-loss-functions"></a>[Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dm)
 - <a id="luo26am-loss-functions"></a>[Mitigating Gradient Pathology in PINNs through Aligned Constraint](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26am)
+- <a id="mejia26a-loss-functions"></a>[Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation](../../conferences/icml-2026/cards/3201-3300.md#paper-mejia26a)
 
 <a id="by-optimization"></a>
 
@@ -157,6 +160,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="liu26cn-optimization"></a>[UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cn)
 - <a id="lotlikar26a-optimization"></a>[Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation](../../conferences/icml-2026/cards/2901-3000.md#paper-lotlikar26a)
 - <a id="lu26ar-optimization"></a>[HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26ar)
+- <a id="maoutsa26a-optimization"></a>[From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#paper-maoutsa26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -307,6 +311,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="lv26h-representation-learning"></a>[Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection](../../conferences/icml-2026/cards/3101-3200.md#paper-lv26h)
 - <a id="mahns26a-representation-learning"></a>[Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../../conferences/icml-2026/cards/3101-3200.md#paper-mahns26a)
 - <a id="mao26h-representation-learning"></a>[SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26h)
+- <a id="medvedev26b-representation-learning"></a>[BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models](../../conferences/icml-2026/cards/3201-3300.md#paper-medvedev26b)
 
 <a id="by-evaluation"></a>
 

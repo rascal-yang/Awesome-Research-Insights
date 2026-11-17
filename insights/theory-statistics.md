@@ -52,6 +52,7 @@
 - [以动力学时间拟合尖峰输出的训练损失](../conferences/icml-2026/cards/2801-2900.md#liu26cl-theory-statistics) · Universal One-third Time Scaling in Learning Peaked Distributions
 - [漂移下在线共形事实性](../conferences/icml-2026/cards/2901-3000.md#liu26eu-theory-statistics) · Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality
 - [用已知非成员校准训练数据集合识别](../conferences/icml-2026/cards/2901-3000.md#liu26ft-theory-statistics) · Provable Training Data Identification for Large Language Models
+- [混合专家的活跃参数与路由统计代价](../conferences/icml-2026/cards/3201-3300.md#mayaki26a-theory-statistics) · Generalization and Scaling Laws for Mixture-of-ExpertsTransformers
 
 <a id="by-computer-vision"></a>
 
@@ -461,6 +462,12 @@
 - [从系数平衡校正训练公平约束](../conferences/icml-2026/cards/3101-3200.md#mai26a-theory-statistics) · Correcting Overparameterization Effects in Fair Empirical Risk Minimization
 - [以反事实偏离能力分析算法定价](../conferences/icml-2026/cards/3101-3200.md#maiti26a-theory-statistics) · Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners
 - [用有限样本相关阈值决定是否引入伪标签](../conferences/icml-2026/cards/3201-3300.md#mani26b-theory-statistics) · No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference
+- [用有限群乘积揭示深度如何利用结合律](../conferences/icml-2026/cards/3201-3300.md#marchetti26a-theory-statistics) · Sequential Group Composition: A Window into the Mechanics of Deep Learning
+- [对有界变量的方差构造渐近锐利的经验 Bernstein 界](../conferences/icml-2026/cards/3201-3300.md#martinez-taboada26a-theory-statistics) · Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables
+- [稳定性边缘的参数范数与尖锐度权衡](../conferences/icml-2026/cards/3201-3300.md#matveev26a-theory-statistics) · Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization
+- [利用高温训练误差估计插值模型的泛化界](../conferences/icml-2026/cards/3201-3300.md#maurer26a-theory-statistics) · Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime
+- [正向协变量偏移可学性](../conferences/icml-2026/cards/3201-3300.md#medvedev26a-theory-statistics) · Positive Distribution Shift as a Framework for Understanding Tractable Learning
+- [因果 PFN 后验频率校准](../conferences/icml-2026/cards/3201-3300.md#melnychuk26a-theory-statistics) · Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -485,6 +492,7 @@
 - [整查询校准多跳图推理路径](../conferences/icml-2026/cards/2701-2800.md#lin26as-theory-statistics) · Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration
 - [节点到达流中的相关聚类代价估计](../conferences/icml-2026/cards/2901-3000.md#liu26ed-theory-statistics) · Estimating Correlation Clustering Cost in Node-Arrival Stream
 - [按可学习顺序分解排名后验](../conferences/icml-2026/cards/2901-3000.md#liu26ee-theory-statistics) · Pseudo-Mallows for Efficient Probabilistic Preference Learning
+- [在面偏序的等变向量丛上统一图和层网络](../conferences/icml-2026/cards/3201-3300.md#maruyama26a-theory-statistics) · Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks
 
 <a id="by-scientific-ml"></a>
 

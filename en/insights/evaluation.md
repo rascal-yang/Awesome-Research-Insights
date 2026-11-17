@@ -243,6 +243,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings](../../conferences/icml-2026/cards/3101-3200.md#malay26a-evaluation) · 中文
 - [The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes](../../conferences/icml-2026/cards/3201-3300.md#mancoridis26a-evaluation) · 中文
 - [FrontierCS: Evolving Challenges for Evolving Intelligence](../../conferences/icml-2026/cards/3201-3300.md#mang26a-evaluation) · 中文
+- [Quantifying Frontier LLM Capabilities for Container Sandbox Escape](../../conferences/icml-2026/cards/3201-3300.md#marchand26a-evaluation) · 中文
+- [Benchmarking at the Edge of Comprehension](../../conferences/icml-2026/cards/3201-3300.md#marro26a-evaluation) · 中文
+- [Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement](../../conferences/icml-2026/cards/3201-3300.md#marwah26a-evaluation) · 中文
+- [A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior](../../conferences/icml-2026/cards/3201-3300.md#mayne26a-evaluation) · 中文
+- [Endogenous Resistance to Activation Steering in Language Models](../../conferences/icml-2026/cards/3201-3300.md#mckenzie26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -421,6 +426,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../../conferences/icml-2026/cards/3101-3200.md#ma26am-evaluation) · 中文
 - [What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · 中文
 - [BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · 中文
+- [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -469,6 +475,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Beyond Procedure: Substantive Fairness in Conformal Prediction](../../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · 中文
 - [FLARE-AI: Flaw Reporting for AI](../../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · 中文
 - [Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · 中文
+- [OC-space: a Unifying Perspective on Verification of Tree Ensembles](../../conferences/icml-2026/cards/3201-3300.md#martens26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

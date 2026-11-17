@@ -230,6 +230,7 @@
 - [将工作流约束变成粒子重采样点](../conferences/icml-2026/cards/3201-3300.md#mandel26a-inference) · PPDL: LLM-Based Flows as Probabilistic Programs
 - [用旋转前查询键统计和三角级数做长推理缓存保留](../conferences/icml-2026/cards/3201-3300.md#mao26e-inference) · TriAttention: Efficient Long Reasoning with Trigonometric KV Compression
 - [将长文档合成问答微调进短上下文模型](../conferences/icml-2026/cards/3201-3300.md#mao26g-inference) · LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning
+- [跨层平均平滑预填充 token 排序](../conferences/icml-2026/cards/3201-3300.md#mcdanel26a-inference) · CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill
 
 <a id="by-computer-vision"></a>
 

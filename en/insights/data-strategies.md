@@ -57,6 +57,8 @@ Data selection, annotation, augmentation, and sampling.
 - [TarGATE: Target-Aware Data Selection via Token-Attenuation Gates](../../conferences/icml-2026/cards/3001-3100.md#luo26m-data-strategies) · 中文
 - [AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining](../../conferences/icml-2026/cards/3101-3200.md#ma26i-data-strategies) · 中文
 - [Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](../../conferences/icml-2026/cards/3101-3200.md#ma26o-data-strategies) · 中文
+- [BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate](../../conferences/icml-2026/cards/3201-3300.md#mazza26a-data-strategies) · 中文
+- [ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning](../../conferences/icml-2026/cards/3201-3300.md#melikidze26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

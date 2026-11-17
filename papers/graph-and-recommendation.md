@@ -28,6 +28,7 @@
 - <a id="johnson26a-architecture"></a>[VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../conferences/icml-2026/cards/1901-2000.md#paper-johnson26a)
 - <a id="liu26x-architecture"></a>[Learning Graph Foundation Models on Riemannian Graph-of-Graphs](../conferences/icml-2026/cards/2801-2900.md#paper-liu26x)
 - <a id="liu26ep-architecture"></a>[Ramba: Selective State-Space Models for Relational Deep Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ep)
+- <a id="marcoccia26a-architecture"></a>[NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies](../conferences/icml-2026/cards/3201-3300.md#paper-marcoccia26a)
 
 <a id="by-modules"></a>
 
@@ -195,4 +196,5 @@
 - <a id="lin26as-theory-statistics"></a>[Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration](../conferences/icml-2026/cards/2701-2800.md#paper-lin26as)
 - <a id="liu26ed-theory-statistics"></a>[Estimating Correlation Clustering Cost in Node-Arrival Stream](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ed)
 - <a id="liu26ee-theory-statistics"></a>[Pseudo-Mallows for Efficient Probabilistic Preference Learning](../conferences/icml-2026/cards/2901-3000.md#paper-liu26ee)
+- <a id="maruyama26a-theory-statistics"></a>[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](../conferences/icml-2026/cards/3201-3300.md#paper-maruyama26a)
 <!-- classification:end -->

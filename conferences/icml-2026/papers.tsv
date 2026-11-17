@@ -3219,40 +3219,40 @@ number	pmlr_id	title	paper_url	insight_status
 3218	mao26g	LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning	https://proceedings.mlr.press/v306/mao26g.html	written
 3219	mao26h	SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment	https://proceedings.mlr.press/v306/mao26h.html	written
 3220	mao26i	Revealing Behavioral Plasticity in Large Language Models: A Token-Conditional Perspective	https://proceedings.mlr.press/v306/mao26i.html	written
-3221	mao26j	STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack	https://proceedings.mlr.press/v306/mao26j.html	pending
-3222	maoutsa26a	From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints	https://proceedings.mlr.press/v306/maoutsa26a.html	pending
-3223	marchand26a	Quantifying Frontier LLM Capabilities for Container Sandbox Escape	https://proceedings.mlr.press/v306/marchand26a.html	pending
-3224	marchetti26a	Sequential Group Composition: A Window into the Mechanics of Deep Learning	https://proceedings.mlr.press/v306/marchetti26a.html	pending
-3225	marcoccia26a	NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies	https://proceedings.mlr.press/v306/marcoccia26a.html	pending
-3226	marincione26a	PHALAR: Phasors for Learned Musical Audio Representations	https://proceedings.mlr.press/v306/marincione26a.html	pending
-3227	marone26a	mmBERT: A Modern Multilingual Encoder with Annealed Language Learning	https://proceedings.mlr.press/v306/marone26a.html	pending
-3228	marro26a	Benchmarking at the Edge of Comprehension	https://proceedings.mlr.press/v306/marro26a.html	pending
-3229	martens26a	OC-space: a Unifying Perspective on Verification of Tree Ensembles	https://proceedings.mlr.press/v306/martens26a.html	pending
-3230	martinez-taboada26a	Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables	https://proceedings.mlr.press/v306/martinez-taboada26a.html	pending
-3231	maruyama26a	Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks	https://proceedings.mlr.press/v306/maruyama26a.html	pending
-3232	marwah26a	Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement	https://proceedings.mlr.press/v306/marwah26a.html	pending
-3233	marzo26a	This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic	https://proceedings.mlr.press/v306/marzo26a.html	pending
-3234	maskey26a	1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization	https://proceedings.mlr.press/v306/maskey26a.html	pending
-3235	matthews26a	Goal-Conditioned Agents that Learn Everything All at Once	https://proceedings.mlr.press/v306/matthews26a.html	pending
-3236	matveev26a	Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization	https://proceedings.mlr.press/v306/matveev26a.html	pending
-3237	maurer26a	Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime	https://proceedings.mlr.press/v306/maurer26a.html	pending
-3238	mayaki26a	Generalization and Scaling Laws for Mixture-of-ExpertsTransformers	https://proceedings.mlr.press/v306/mayaki26a.html	pending
-3239	mayne26a	A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior	https://proceedings.mlr.press/v306/mayne26a.html	pending
-3240	mazza26a	BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate	https://proceedings.mlr.press/v306/mazza26a.html	pending
-3241	mccabe26a	Walrus: A Cross-domain Foundation Model for Continuum Dynamics	https://proceedings.mlr.press/v306/mccabe26a.html	pending
-3242	mcdanel26a	CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill	https://proceedings.mlr.press/v306/mcdanel26a.html	pending
-3243	mcginnis26a	Optimizing Rank for High-Fidelity Implicit Neural Representations	https://proceedings.mlr.press/v306/mcginnis26a.html	pending
-3244	mckenzie26a	Endogenous Resistance to Activation Steering in Language Models	https://proceedings.mlr.press/v306/mckenzie26a.html	pending
-3245	medvedev26a	Positive Distribution Shift as a Framework for Understanding Tractable Learning	https://proceedings.mlr.press/v306/medvedev26a.html	pending
-3246	medvedev26b	BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models	https://proceedings.mlr.press/v306/medvedev26b.html	pending
-3247	mehouachi26a	Fractional is Better: Learnable Derivative Orders in Neural Operator Learning	https://proceedings.mlr.press/v306/mehouachi26a.html	pending
-3248	mehrpanah26a	Improving Adversarial Robustness of Attribution via Implicit Regularization	https://proceedings.mlr.press/v306/mehrpanah26a.html	pending
-3249	mei26a	Head-in-Head in Linear Attention	https://proceedings.mlr.press/v306/mei26a.html	pending
-3250	meister26a	What Language is This? Ask Your Tokenizer.	https://proceedings.mlr.press/v306/meister26a.html	pending
-3251	mejia26a	Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation	https://proceedings.mlr.press/v306/mejia26a.html	pending
-3252	melechovsky26a	SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering	https://proceedings.mlr.press/v306/melechovsky26a.html	pending
-3253	melikidze26a	ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning	https://proceedings.mlr.press/v306/melikidze26a.html	pending
-3254	melnychuk26a	Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference	https://proceedings.mlr.press/v306/melnychuk26a.html	pending
+3221	mao26j	STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack	https://proceedings.mlr.press/v306/mao26j.html	written
+3222	maoutsa26a	From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints	https://proceedings.mlr.press/v306/maoutsa26a.html	written
+3223	marchand26a	Quantifying Frontier LLM Capabilities for Container Sandbox Escape	https://proceedings.mlr.press/v306/marchand26a.html	written
+3224	marchetti26a	Sequential Group Composition: A Window into the Mechanics of Deep Learning	https://proceedings.mlr.press/v306/marchetti26a.html	written
+3225	marcoccia26a	NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies	https://proceedings.mlr.press/v306/marcoccia26a.html	written
+3226	marincione26a	PHALAR: Phasors for Learned Musical Audio Representations	https://proceedings.mlr.press/v306/marincione26a.html	written
+3227	marone26a	mmBERT: A Modern Multilingual Encoder with Annealed Language Learning	https://proceedings.mlr.press/v306/marone26a.html	written
+3228	marro26a	Benchmarking at the Edge of Comprehension	https://proceedings.mlr.press/v306/marro26a.html	written
+3229	martens26a	OC-space: a Unifying Perspective on Verification of Tree Ensembles	https://proceedings.mlr.press/v306/martens26a.html	written
+3230	martinez-taboada26a	Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables	https://proceedings.mlr.press/v306/martinez-taboada26a.html	written
+3231	maruyama26a	Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks	https://proceedings.mlr.press/v306/maruyama26a.html	written
+3232	marwah26a	Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement	https://proceedings.mlr.press/v306/marwah26a.html	written
+3233	marzo26a	This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic	https://proceedings.mlr.press/v306/marzo26a.html	written
+3234	maskey26a	1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization	https://proceedings.mlr.press/v306/maskey26a.html	written
+3235	matthews26a	Goal-Conditioned Agents that Learn Everything All at Once	https://proceedings.mlr.press/v306/matthews26a.html	written
+3236	matveev26a	Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization	https://proceedings.mlr.press/v306/matveev26a.html	written
+3237	maurer26a	Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime	https://proceedings.mlr.press/v306/maurer26a.html	written
+3238	mayaki26a	Generalization and Scaling Laws for Mixture-of-ExpertsTransformers	https://proceedings.mlr.press/v306/mayaki26a.html	written
+3239	mayne26a	A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior	https://proceedings.mlr.press/v306/mayne26a.html	written
+3240	mazza26a	BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate	https://proceedings.mlr.press/v306/mazza26a.html	written
+3241	mccabe26a	Walrus: A Cross-domain Foundation Model for Continuum Dynamics	https://proceedings.mlr.press/v306/mccabe26a.html	written
+3242	mcdanel26a	CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill	https://proceedings.mlr.press/v306/mcdanel26a.html	written
+3243	mcginnis26a	Optimizing Rank for High-Fidelity Implicit Neural Representations	https://proceedings.mlr.press/v306/mcginnis26a.html	written
+3244	mckenzie26a	Endogenous Resistance to Activation Steering in Language Models	https://proceedings.mlr.press/v306/mckenzie26a.html	written
+3245	medvedev26a	Positive Distribution Shift as a Framework for Understanding Tractable Learning	https://proceedings.mlr.press/v306/medvedev26a.html	written
+3246	medvedev26b	BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models	https://proceedings.mlr.press/v306/medvedev26b.html	written
+3247	mehouachi26a	Fractional is Better: Learnable Derivative Orders in Neural Operator Learning	https://proceedings.mlr.press/v306/mehouachi26a.html	written
+3248	mehrpanah26a	Improving Adversarial Robustness of Attribution via Implicit Regularization	https://proceedings.mlr.press/v306/mehrpanah26a.html	written
+3249	mei26a	Head-in-Head in Linear Attention	https://proceedings.mlr.press/v306/mei26a.html	written
+3250	meister26a	What Language is This? Ask Your Tokenizer.	https://proceedings.mlr.press/v306/meister26a.html	written
+3251	mejia26a	Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation	https://proceedings.mlr.press/v306/mejia26a.html	written
+3252	melechovsky26a	SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering	https://proceedings.mlr.press/v306/melechovsky26a.html	written
+3253	melikidze26a	ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning	https://proceedings.mlr.press/v306/melikidze26a.html	written
+3254	melnychuk26a	Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference	https://proceedings.mlr.press/v306/melnychuk26a.html	written
 3255	melo26a	Learning to Emulate Chaos: Adversarial Optimal Transport Regularization	https://proceedings.mlr.press/v306/melo26a.html	pending
 3256	meloux26a	Mechanistic Interpretability as Statistical Estimation: A Variance Analysis	https://proceedings.mlr.press/v306/meloux26a.html	pending
 3257	men26a	FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival	https://proceedings.mlr.press/v306/men26a.html	pending

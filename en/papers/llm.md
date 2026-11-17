@@ -50,6 +50,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26ek-architecture"></a>[SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ek)
 - <a id="lu26aq-architecture"></a>[HyperMLP: An Integrated Perspective for Sequence Modeling](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26aq)
 - <a id="lu26au-architecture"></a>[Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26au)
+- <a id="mei26a-architecture"></a>[Head-in-Head in Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#paper-mei26a)
 
 <a id="by-modules"></a>
 
@@ -408,6 +409,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="lyu26j-training-strategies"></a>[Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs](../../conferences/icml-2026/cards/3101-3200.md#paper-lyu26j)
 - <a id="ma26ad-training-strategies"></a>[Non-Monotonic Autoregressive Sequence Model](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26ad)
 - <a id="magakyan26a-training-strategies"></a>[Collaborative and Efficient Fine-tuning: Leveraging Task Similarity](../../conferences/icml-2026/cards/3101-3200.md#paper-magakyan26a)
+- <a id="maskey26a-training-strategies"></a>[1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization](../../conferences/icml-2026/cards/3201-3300.md#paper-maskey26a)
 
 <a id="by-data-strategies"></a>
 
@@ -457,6 +459,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="luo26m-data-strategies"></a>[TarGATE: Target-Aware Data Selection via Token-Attenuation Gates](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26m)
 - <a id="ma26i-data-strategies"></a>[AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26i)
 - <a id="ma26o-data-strategies"></a>[Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26o)
+- <a id="mazza26a-data-strategies"></a>[BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate](../../conferences/icml-2026/cards/3201-3300.md#paper-mazza26a)
+- <a id="melikidze26a-data-strategies"></a>[ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning](../../conferences/icml-2026/cards/3201-3300.md#paper-melikidze26a)
 
 <a id="by-inference"></a>
 
@@ -679,6 +683,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="mandel26a-inference"></a>[PPDL: LLM-Based Flows as Probabilistic Programs](../../conferences/icml-2026/cards/3201-3300.md#paper-mandel26a)
 - <a id="mao26e-inference"></a>[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26e)
 - <a id="mao26g-inference"></a>[LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26g)
+- <a id="mcdanel26a-inference"></a>[CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill](../../conferences/icml-2026/cards/3201-3300.md#paper-mcdanel26a)
 
 <a id="by-representation-learning"></a>
 
@@ -928,6 +933,11 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="malay26a-evaluation"></a>[EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings](../../conferences/icml-2026/cards/3101-3200.md#paper-malay26a)
 - <a id="mancoridis26a-evaluation"></a>[The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes](../../conferences/icml-2026/cards/3201-3300.md#paper-mancoridis26a)
 - <a id="mang26a-evaluation"></a>[FrontierCS: Evolving Challenges for Evolving Intelligence](../../conferences/icml-2026/cards/3201-3300.md#paper-mang26a)
+- <a id="marchand26a-evaluation"></a>[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](../../conferences/icml-2026/cards/3201-3300.md#paper-marchand26a)
+- <a id="marro26a-evaluation"></a>[Benchmarking at the Edge of Comprehension](../../conferences/icml-2026/cards/3201-3300.md#paper-marro26a)
+- <a id="marwah26a-evaluation"></a>[Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement](../../conferences/icml-2026/cards/3201-3300.md#paper-marwah26a)
+- <a id="mayne26a-evaluation"></a>[A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior](../../conferences/icml-2026/cards/3201-3300.md#paper-mayne26a)
+- <a id="mckenzie26a-evaluation"></a>[Endogenous Resistance to Activation Steering in Language Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mckenzie26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -972,4 +982,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="liu26cl-theory-statistics"></a>[Universal One-third Time Scaling in Learning Peaked Distributions](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26cl)
 - <a id="liu26eu-theory-statistics"></a>[Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26eu)
 - <a id="liu26ft-theory-statistics"></a>[Provable Training Data Identification for Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ft)
+- <a id="mayaki26a-theory-statistics"></a>[Generalization and Scaling Laws for Mixture-of-ExpertsTransformers](../../conferences/icml-2026/cards/3201-3300.md#paper-mayaki26a)
 <!-- classification:end -->

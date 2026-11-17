@@ -102,6 +102,7 @@ Training schedules, curricula, and task or stage composition.
 - [Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs](../../conferences/icml-2026/cards/3101-3200.md#lyu26j-training-strategies) · 中文
 - [Non-Monotonic Autoregressive Sequence Model](../../conferences/icml-2026/cards/3101-3200.md#ma26ad-training-strategies) · 中文
 - [Collaborative and Efficient Fine-tuning: Leveraging Task Similarity](../../conferences/icml-2026/cards/3101-3200.md#magakyan26a-training-strategies) · 中文
+- [1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization](../../conferences/icml-2026/cards/3201-3300.md#maskey26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -166,6 +167,7 @@ Training schedules, curricula, and task or stage composition.
 - [Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages](../../conferences/icml-2026/cards/2101-2200.md#kim26ak-training-strategies) · 中文
 - [Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · 中文
 - [Post-Training Language Models for Crosslingual Consistency](../../conferences/icml-2026/cards/2801-2900.md#liu26dd-training-strategies) · 中文
+- [mmBERT: A Modern Multilingual Encoder with Annealed Language Learning](../../conferences/icml-2026/cards/3201-3300.md#marone26a-training-strategies) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

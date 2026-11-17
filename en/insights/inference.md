@@ -230,6 +230,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [PPDL: LLM-Based Flows as Probabilistic Programs](../../conferences/icml-2026/cards/3201-3300.md#mandel26a-inference) · 中文
 - [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](../../conferences/icml-2026/cards/3201-3300.md#mao26e-inference) · 中文
 - [LIFT: A Novel Framework for Enhancing Long-Context Understanding of LLMs via Long Input Fine-Tuning](../../conferences/icml-2026/cards/3201-3300.md#mao26g-inference) · 中文
+- [CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill](../../conferences/icml-2026/cards/3201-3300.md#mcdanel26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

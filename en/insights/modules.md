@@ -185,4 +185,5 @@ Reusable components and local changes to model inputs or connections.
 - [BLIPs: Bayesian Learned Interatomic Potentials](../../conferences/icml-2026/cards/0701-0800.md#coscia26a-modules) · 中文
 - [Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](../../conferences/icml-2026/cards/1201-1300.md#gao26ap-modules) · 中文
 - [Graph Rewiring based on Flow Alignment for Improving Fluid Simulation](../../conferences/icml-2026/cards/2401-2500.md#li26cu-modules) · 中文
+- [Fractional is Better: Learnable Derivative Orders in Neural Operator Learning](../../conferences/icml-2026/cards/3201-3300.md#mehouachi26a-modules) · 中文
 <!-- classification:end -->

@@ -243,6 +243,11 @@
 - [在持久企业状态中验证任务结果](../conferences/icml-2026/cards/3101-3200.md#malay26a-evaluation) · EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings
 - [联合测量自我裁决和错误复现](../conferences/icml-2026/cards/3201-3300.md#mancoridis26a-evaluation) · The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes
 - [用可执行评分度量开放式算法进步](../conferences/icml-2026/cards/3201-3300.md#mang26a-evaluation) · FrontierCS: Evolving Challenges for Evolving Intelligence
+- [用嵌套容器和外层旗标测代理隔离逃逸能力](../conferences/icml-2026/cards/3201-3300.md#marchand26a-evaluation) · Quantifying Frontier LLM Capabilities for Container Sandbox Escape
+- [由局部可判的挑战给困难数学问题的作答排名](../conferences/icml-2026/cards/3201-3300.md#marro26a-evaluation) · Benchmarking at the Edge of Comprehension
+- [用提示注意、表示漂移和熵联合监测生成退化](../conferences/icml-2026/cards/3201-3300.md#marwah26a-evaluation) · Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement
+- [用反事实增量测自我解释的预测价值](../conferences/icml-2026/cards/3201-3300.md#mayne26a-evaluation) · A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior
+- [持续激活干预下区分重试和有效纠正](../conferences/icml-2026/cards/3201-3300.md#mckenzie26a-evaluation) · Endogenous Resistance to Activation Steering in Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -421,6 +426,7 @@
 - [组合指令音乐奖励评测](../conferences/icml-2026/cards/3101-3200.md#ma26am-evaluation) · CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction
 - [视觉工具强化学习收益归因](../conferences/icml-2026/cards/3101-3200.md#ma26as-evaluation) · What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom
 - [将语音函数调用拆成转录与端到端两套可执行测试](../conferences/icml-2026/cards/3201-3300.md#mao26b-evaluation) · BFCL Audio: An Audio Function Calling Evaluation for Large Language Models
+- [按去噪时段诊断多模态红队风险](../conferences/icml-2026/cards/3201-3300.md#mao26j-evaluation) · STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack
 
 <a id="by-ml-foundations"></a>
 
@@ -469,6 +475,7 @@
 - [共同检验共形预测集大小与下游群体结果](../conferences/icml-2026/cards/2901-3000.md#liu26fp-evaluation) · Beyond Procedure: Substantive Fairness in Conformal Prediction
 - [把 AI 缺陷报告转成可分发的结构化记录](../conferences/icml-2026/cards/2901-3000.md#longpre26a-evaluation) · FLARE-AI: Flaw Reporting for AI
 - [把联邦后门检测的重点放到聚合后的持续性](../conferences/icml-2026/cards/3101-3200.md#ma26k-evaluation) · Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning
+- [预枚举树集成可实现输出组合以复用验证索引](../conferences/icml-2026/cards/3201-3300.md#martens26a-evaluation) · OC-space: a Unifying Perspective on Verification of Tree Ensembles
 
 <a id="by-graph-and-recommendation"></a>
 

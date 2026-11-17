@@ -20,6 +20,7 @@
 - <a id="lei26g-architecture"></a>[QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL](../conferences/icml-2026/cards/2301-2400.md#paper-lei26g)
 - <a id="ma26an-architecture"></a>[ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26an)
 - <a id="ma26az-architecture"></a>[Scalable Traffic Signal Control with Shared Policy Framework](../conferences/icml-2026/cards/3101-3200.md#paper-ma26az)
+- <a id="marzo26a-architecture"></a>[This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic](../conferences/icml-2026/cards/3201-3300.md#paper-marzo26a)
 
 <a id="by-loss-functions"></a>
 
@@ -146,6 +147,7 @@
 - <a id="ma26s-reinforcement-learning"></a>[What Makes Value Learning Efficient in Residual Reinforcement Learning?](../conferences/icml-2026/cards/3101-3200.md#paper-ma26s)
 - <a id="ma26aa-reinforcement-learning"></a>[Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces](../conferences/icml-2026/cards/3101-3200.md#paper-ma26aa)
 - <a id="maity26a-reinforcement-learning"></a>[Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates](../conferences/icml-2026/cards/3101-3200.md#paper-maity26a)
+- <a id="matthews26a-reinforcement-learning"></a>[Goal-Conditioned Agents that Learn Everything All at Once](../conferences/icml-2026/cards/3201-3300.md#paper-matthews26a)
 
 <a id="by-training-strategies"></a>
 

@@ -52,6 +52,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Universal One-third Time Scaling in Learning Peaked Distributions](../../conferences/icml-2026/cards/2801-2900.md#liu26cl-theory-statistics) · 中文
 - [Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality](../../conferences/icml-2026/cards/2901-3000.md#liu26eu-theory-statistics) · 中文
 - [Provable Training Data Identification for Large Language Models](../../conferences/icml-2026/cards/2901-3000.md#liu26ft-theory-statistics) · 中文
+- [Generalization and Scaling Laws for Mixture-of-ExpertsTransformers](../../conferences/icml-2026/cards/3201-3300.md#mayaki26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -461,6 +462,12 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Correcting Overparameterization Effects in Fair Empirical Risk Minimization](../../conferences/icml-2026/cards/3101-3200.md#mai26a-theory-statistics) · 中文
 - [Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](../../conferences/icml-2026/cards/3101-3200.md#maiti26a-theory-statistics) · 中文
 - [No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference](../../conferences/icml-2026/cards/3201-3300.md#mani26b-theory-statistics) · 中文
+- [Sequential Group Composition: A Window into the Mechanics of Deep Learning](../../conferences/icml-2026/cards/3201-3300.md#marchetti26a-theory-statistics) · 中文
+- [Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables](../../conferences/icml-2026/cards/3201-3300.md#martinez-taboada26a-theory-statistics) · 中文
+- [Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization](../../conferences/icml-2026/cards/3201-3300.md#matveev26a-theory-statistics) · 中文
+- [Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime](../../conferences/icml-2026/cards/3201-3300.md#maurer26a-theory-statistics) · 中文
+- [Positive Distribution Shift as a Framework for Understanding Tractable Learning](../../conferences/icml-2026/cards/3201-3300.md#medvedev26a-theory-statistics) · 中文
+- [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](../../conferences/icml-2026/cards/3201-3300.md#melnychuk26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -485,6 +492,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration](../../conferences/icml-2026/cards/2701-2800.md#lin26as-theory-statistics) · 中文
 - [Estimating Correlation Clustering Cost in Node-Arrival Stream](../../conferences/icml-2026/cards/2901-3000.md#liu26ed-theory-statistics) · 中文
 - [Pseudo-Mallows for Efficient Probabilistic Preference Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ee-theory-statistics) · 中文
+- [Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](../../conferences/icml-2026/cards/3201-3300.md#maruyama26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

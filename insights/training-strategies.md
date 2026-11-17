@@ -102,6 +102,7 @@
 - [按学生首个错误蒸馏工具推理](../conferences/icml-2026/cards/3101-3200.md#lyu26j-training-strategies) · Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs
 - [通过撤销标记学习可回退的自回归生成](../conferences/icml-2026/cards/3101-3200.md#ma26ad-training-strategies) · Non-Monotonic Autoregressive Sequence Model
 - [按任务相似度共享适配器子空间](../conferences/icml-2026/cards/3101-3200.md#magakyan26a-training-strategies) · Collaborative and Efficient Fine-tuning: Leveraging Task Similarity
+- [用非均匀质心做极低位宽量化训练](../conferences/icml-2026/cards/3201-3300.md#maskey26a-training-strategies) · 1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization
 
 <a id="by-computer-vision"></a>
 
@@ -166,6 +167,7 @@
 - [用对话答复构造改写偏好](../conferences/icml-2026/cards/2101-2200.md#kim26ak-training-strategies) · Breaking the Reference Bottleneck via Learning to Rewrite Conversational Queries without Gold Reference Passages
 - [用同语义跨时间的文档构造检索偏好](../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · Temporal Preference Optimization for Unsupervised Retrieval
 - [跨语种回答分布的一致性对齐](../conferences/icml-2026/cards/2801-2900.md#liu26dd-training-strategies) · Post-Training Language Models for Crosslingual Consistency
+- [在学习率衰减期引入稀有语种以减轻重复](../conferences/icml-2026/cards/3201-3300.md#marone26a-training-strategies) · mmBERT: A Modern Multilingual Encoder with Annealed Language Learning
 
 <a id="by-reinforcement-learning"></a>
 

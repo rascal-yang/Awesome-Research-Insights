@@ -263,6 +263,7 @@
 - [用基策略经验给残差 critic 热启动并恢复动作尺度](../conferences/icml-2026/cards/3101-3200.md#ma26s-reinforcement-learning) · What Makes Value Learning Efficient in Residual Reinforcement Learning?
 - [以镜像下降目标训练组合动作扩散策略](../conferences/icml-2026/cards/3101-3200.md#ma26aa-reinforcement-learning) · Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces
 - [用访问历史过滤被污染的奖励](../conferences/icml-2026/cards/3101-3200.md#maity26a-reinforcement-learning) · Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates
+- [全目标并行更新与目标条件策略](../conferences/icml-2026/cards/3201-3300.md#matthews26a-reinforcement-learning) · Goal-Conditioned Agents that Learn Everything All at Once
 
 <a id="by-robotics"></a>
 

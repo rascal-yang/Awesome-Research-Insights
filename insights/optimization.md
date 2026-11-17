@@ -321,6 +321,8 @@
 - [动态图上用一阶推拉做双层优化](../conferences/icml-2026/cards/3101-3200.md#ma26ak-optimization) · FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs
 - [用层级二分简化类别分布的梯度几何](../conferences/icml-2026/cards/3201-3300.md#manenti26a-optimization) · Beyond Softmax: A Natural Parameterization for Categorical Random Variables
 - [用历史试验的辅助时序提高设计搜索效率](../conferences/icml-2026/cards/3201-3300.md#mani26a-optimization) · Few-Shot Design Optimization by Exploiting Auxiliary Information
+- [正交权重更新缓解隐式表征的低秩限制](../conferences/icml-2026/cards/3201-3300.md#mcginnis26a-optimization) · Optimizing Rank for High-Fidelity Implicit Neural Representations
+- [梯度归因隐式曲率正则](../conferences/icml-2026/cards/3201-3300.md#mehrpanah26a-optimization) · Improving Adversarial Robustness of Attribution via Implicit Regularization
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -373,4 +375,5 @@
 - [用几何扰动期望稳定代理驱动的形状优化](../conferences/icml-2026/cards/2801-2900.md#liu26cn-optimization) · UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics
 - [用细胞外多电极记录拟合刺激响应的生物物理参数](../conferences/icml-2026/cards/2901-3000.md#lotlikar26a-optimization) · Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation
 - [按树突结构调度 GPU 仿真并推导梯度](../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks
+- [用不变密度的测地结构补足稀疏随机轨迹](../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints
 <!-- classification:end -->

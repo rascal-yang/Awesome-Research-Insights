@@ -57,6 +57,8 @@
 - [用目标条件的 token 保留率给微调样本排序](../conferences/icml-2026/cards/3001-3100.md#luo26m-data-strategies) · TarGATE: Target-Aware Data Selection via Token-Attenuation Gates
 - [用 Actor–Critic 动态选择预训练域权重](../conferences/icml-2026/cards/3101-3200.md#ma26i-data-strategies) · AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining
 - [补少量实体恒等句让自回归模型学反向关联](../conferences/icml-2026/cards/3101-3200.md#ma26o-data-strategies) · Breaking the Reversal Curse in Autoregressive Language Models via Identity Bridge
+- [用非对称辩论验证定制守卫训练样本](../conferences/icml-2026/cards/3201-3300.md#mazza26a-data-strategies) · BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate
+- [主动偏好对选择](../conferences/icml-2026/cards/3201-3300.md#melikidze26a-data-strategies) · ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning
 
 <a id="by-computer-vision"></a>
 

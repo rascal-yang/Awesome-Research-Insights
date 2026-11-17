@@ -50,6 +50,7 @@ Model-wide design and information flow.
 - [SHINE: A Scalable In-Context Hypernetwork for Mapping Context to LoRA in a Single Pass](../../conferences/icml-2026/cards/2901-3000.md#liu26ek-architecture) · 中文
 - [HyperMLP: An Integrated Perspective for Sequence Modeling](../../conferences/icml-2026/cards/3001-3100.md#lu26aq-architecture) · 中文
 - [Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts](../../conferences/icml-2026/cards/3001-3100.md#lu26au-architecture) · 中文
+- [Head-in-Head in Linear Attention](../../conferences/icml-2026/cards/3201-3300.md#mei26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -127,6 +128,7 @@ Model-wide design and information flow.
 - [QHyer: Q-conditioned Hybrid Attention-mamba Transformer for Offline Goal-conditioned RL](../../conferences/icml-2026/cards/2301-2400.md#lei26g-architecture) · 中文
 - [ScaleMoE: Mixture-of-Experts for Scalable Continuous Control in Actor-Critic Reinforcement Learning](../../conferences/icml-2026/cards/3101-3200.md#ma26an-architecture) · 中文
 - [Scalable Traffic Signal Control with Shared Policy Framework](../../conferences/icml-2026/cards/3101-3200.md#ma26az-architecture) · 中文
+- [This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic](../../conferences/icml-2026/cards/3201-3300.md#marzo26a-architecture) · 中文
 
 <a id="by-robotics"></a>
 
@@ -181,6 +183,7 @@ Model-wide design and information flow.
 - [JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#liu26ea-architecture) · 中文
 - [CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#liu26fc-architecture) · 中文
 - [MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts](../../conferences/icml-2026/cards/2901-3000.md#lou26h-architecture) · 中文
+- [SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering](../../conferences/icml-2026/cards/3201-3300.md#melechovsky26a-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -248,6 +251,7 @@ Model-wide design and information flow.
 - [VDW-GNNs: Vector diffusion wavelets for geometric graph neural networks](../../conferences/icml-2026/cards/1901-2000.md#johnson26a-architecture) · 中文
 - [Learning Graph Foundation Models on Riemannian Graph-of-Graphs](../../conferences/icml-2026/cards/2801-2900.md#liu26x-architecture) · 中文
 - [Ramba: Selective State-Space Models for Relational Deep Learning](../../conferences/icml-2026/cards/2901-3000.md#liu26ep-architecture) · 中文
+- [NetDiff: Graph Diffusion with Improved Global Capabilities to Generate and Update Mobile Network Topologies](../../conferences/icml-2026/cards/3201-3300.md#marcoccia26a-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -331,4 +335,5 @@ Model-wide design and information flow.
 - [Interpretable Functional Koopman Learning with Non-Markovian Closure for Spatiotemporal Systems](../../conferences/icml-2026/cards/3001-3100.md#lu26u-architecture) · 中文
 - [Physically-Guided Data-Space Rectified Flow for Precipitation Nowcasting](../../conferences/icml-2026/cards/3001-3100.md#luo26l-architecture) · 中文
 - [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](../../conferences/icml-2026/cards/3001-3100.md#luo26ac-architecture) · 中文
+- [Walrus: A Cross-domain Foundation Model for Continuum Dynamics](../../conferences/icml-2026/cards/3201-3300.md#mccabe26a-architecture) · 中文
 <!-- classification:end -->

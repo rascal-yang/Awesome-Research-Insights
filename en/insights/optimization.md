@@ -321,6 +321,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs](../../conferences/icml-2026/cards/3101-3200.md#ma26ak-optimization) · 中文
 - [Beyond Softmax: A Natural Parameterization for Categorical Random Variables](../../conferences/icml-2026/cards/3201-3300.md#manenti26a-optimization) · 中文
 - [Few-Shot Design Optimization by Exploiting Auxiliary Information](../../conferences/icml-2026/cards/3201-3300.md#mani26a-optimization) · 中文
+- [Optimizing Rank for High-Fidelity Implicit Neural Representations](../../conferences/icml-2026/cards/3201-3300.md#mcginnis26a-optimization) · 中文
+- [Improving Adversarial Robustness of Attribution via Implicit Regularization](../../conferences/icml-2026/cards/3201-3300.md#mehrpanah26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -373,4 +375,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [UniDrag: Unified Multi-Field Prediction and Robust Shape Optimization for Vehicle Aerodynamics](../../conferences/icml-2026/cards/2801-2900.md#liu26cn-optimization) · 中文
 - [Learning Biophysical Models of Large-Scale Multineuronal Data To Enable Precise Neurostimulation](../../conferences/icml-2026/cards/2901-3000.md#lotlikar26a-optimization) · 中文
 - [HelioX: A GPU-Native Framework for Simulation and Training of Biophysically Detailed Networks](../../conferences/icml-2026/cards/3001-3100.md#lu26ar-optimization) · 中文
+- [From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](../../conferences/icml-2026/cards/3201-3300.md#maoutsa26a-optimization) · 中文
 <!-- classification:end -->

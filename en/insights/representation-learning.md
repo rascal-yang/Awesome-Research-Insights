@@ -81,6 +81,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Efficient Numeracy in Language Models through Single-Token Number Encodings](../../conferences/icml-2026/cards/2201-2300.md#kreitner26a-representation-learning) · 中文
 - [Improving Topic Modeling by Distilling Soft Labels from Language Models](../../conferences/icml-2026/cards/2301-2400.md#li26a-representation-learning) · 中文
 - [HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation](../../conferences/icml-2026/cards/3101-3200.md#madhu26a-representation-learning) · 中文
+- [What Language is This? Ask Your Tokenizer.](../../conferences/icml-2026/cards/3201-3300.md#meister26a-representation-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -145,6 +146,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [AffIn-Space: Learning Affine-Invariant Representations for 3D Spatial Understanding with MLLMs](../../conferences/icml-2026/cards/3001-3100.md#lu26r-representation-learning) · 中文
 - [DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](../../conferences/icml-2026/cards/3001-3100.md#lu26as-representation-learning) · 中文
 - [SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment](../../conferences/icml-2026/cards/3201-3300.md#mao26d-representation-learning) · 中文
+- [PHALAR: Phasors for Learned Musical Audio Representations](../../conferences/icml-2026/cards/3201-3300.md#marincione26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -272,4 +274,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Hierarchical ODE: Learning Continuous-Time Physical Prototypes for Early Link Failure Detection](../../conferences/icml-2026/cards/3101-3200.md#lv26h-representation-learning) · 中文
 - [Joint-Embedding Predictive Learning of Latent Market States in U.S. Equities](../../conferences/icml-2026/cards/3101-3200.md#mahns26a-representation-learning) · 中文
 - [SAEs-BrainMap: Unveiling the Emergence of Specialized Concepts in Deep Models via Brain Alignment](../../conferences/icml-2026/cards/3201-3300.md#mao26h-representation-learning) · 中文
+- [BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models](../../conferences/icml-2026/cards/3201-3300.md#medvedev26b-representation-learning) · 中文
 <!-- classification:end -->

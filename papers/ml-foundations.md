@@ -304,6 +304,8 @@
 - <a id="ma26ak-optimization"></a>[FAB: A First-Order AB-based Gradient Algorithm for Distributed Bilevel Optimization over Time-Varying Directed Graphs](../conferences/icml-2026/cards/3101-3200.md#paper-ma26ak)
 - <a id="manenti26a-optimization"></a>[Beyond Softmax: A Natural Parameterization for Categorical Random Variables](../conferences/icml-2026/cards/3201-3300.md#paper-manenti26a)
 - <a id="mani26a-optimization"></a>[Few-Shot Design Optimization by Exploiting Auxiliary Information](../conferences/icml-2026/cards/3201-3300.md#paper-mani26a)
+- <a id="mcginnis26a-optimization"></a>[Optimizing Rank for High-Fidelity Implicit Neural Representations](../conferences/icml-2026/cards/3201-3300.md#paper-mcginnis26a)
+- <a id="mehrpanah26a-optimization"></a>[Improving Adversarial Robustness of Attribution via Implicit Regularization](../conferences/icml-2026/cards/3201-3300.md#paper-mehrpanah26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -521,6 +523,7 @@
 - <a id="liu26fp-evaluation"></a>[Beyond Procedure: Substantive Fairness in Conformal Prediction](../conferences/icml-2026/cards/2901-3000.md#paper-liu26fp)
 - <a id="longpre26a-evaluation"></a>[FLARE-AI: Flaw Reporting for AI](../conferences/icml-2026/cards/2901-3000.md#paper-longpre26a)
 - <a id="ma26k-evaluation"></a>[Coupled Trigger Optimization and Vulnerable Parameter Alignment for Persistent Backdoor Attacks on Federated Learning](../conferences/icml-2026/cards/3101-3200.md#paper-ma26k)
+- <a id="martens26a-evaluation"></a>[OC-space: a Unifying Perspective on Verification of Tree Ensembles](../conferences/icml-2026/cards/3201-3300.md#paper-martens26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -838,4 +841,10 @@
 - <a id="mai26a-theory-statistics"></a>[Correcting Overparameterization Effects in Fair Empirical Risk Minimization](../conferences/icml-2026/cards/3101-3200.md#paper-mai26a)
 - <a id="maiti26a-theory-statistics"></a>[Revisiting the Bertrand Paradox via Equilibrium Analysis of No-regret Learners](../conferences/icml-2026/cards/3101-3200.md#paper-maiti26a)
 - <a id="mani26b-theory-statistics"></a>[No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference](../conferences/icml-2026/cards/3201-3300.md#paper-mani26b)
+- <a id="marchetti26a-theory-statistics"></a>[Sequential Group Composition: A Window into the Mechanics of Deep Learning](../conferences/icml-2026/cards/3201-3300.md#paper-marchetti26a)
+- <a id="martinez-taboada26a-theory-statistics"></a>[Sharp Empirical Bernstein Inequalities for the Variance of Bounded Random Variables](../conferences/icml-2026/cards/3201-3300.md#paper-martinez-taboada26a)
+- <a id="matveev26a-theory-statistics"></a>[Conflicting Biases at the Edge of Stability: Norm versus Sharpness Regularization](../conferences/icml-2026/cards/3201-3300.md#paper-matveev26a)
+- <a id="maurer26a-theory-statistics"></a>[Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime](../conferences/icml-2026/cards/3201-3300.md#paper-maurer26a)
+- <a id="medvedev26a-theory-statistics"></a>[Positive Distribution Shift as a Framework for Understanding Tractable Learning](../conferences/icml-2026/cards/3201-3300.md#paper-medvedev26a)
+- <a id="melnychuk26a-theory-statistics"></a>[Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](../conferences/icml-2026/cards/3201-3300.md#paper-melnychuk26a)
 <!-- classification:end -->

@@ -37,6 +37,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="liu26ea-architecture"></a>[JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26ea)
 - <a id="liu26fc-architecture"></a>[CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](../../conferences/icml-2026/cards/2901-3000.md#paper-liu26fc)
 - <a id="lou26h-architecture"></a>[MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts](../../conferences/icml-2026/cards/2901-3000.md#paper-lou26h)
+- <a id="melechovsky26a-architecture"></a>[SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering](../../conferences/icml-2026/cards/3201-3300.md#paper-melechovsky26a)
 
 <a id="by-modules"></a>
 
@@ -319,6 +320,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="lu26r-representation-learning"></a>[AffIn-Space: Learning Affine-Invariant Representations for 3D Spatial Understanding with MLLMs](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26r)
 - <a id="lu26as-representation-learning"></a>[DIVA: Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement](../../conferences/icml-2026/cards/3001-3100.md#paper-lu26as)
 - <a id="mao26d-representation-learning"></a>[SEPS: Semantic-Enhanced Patch Slimming Framework for Fine-Grained Cross-Modal Alignment](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26d)
+- <a id="marincione26a-representation-learning"></a>[PHALAR: Phasors for Learned Musical Audio Representations](../../conferences/icml-2026/cards/3201-3300.md#paper-marincione26a)
 
 <a id="by-evaluation"></a>
 
@@ -396,6 +398,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ma26am-evaluation"></a>[CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26am)
 - <a id="ma26as-evaluation"></a>[What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26as)
 - <a id="mao26b-evaluation"></a>[BFCL Audio: An Audio Function Calling Evaluation for Large Language Models](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26b)
+- <a id="mao26j-evaluation"></a>[STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](../../conferences/icml-2026/cards/3201-3300.md#paper-mao26j)
 
 <a id="by-theory-statistics"></a>
 

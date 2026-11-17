@@ -263,6 +263,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [What Makes Value Learning Efficient in Residual Reinforcement Learning?](../../conferences/icml-2026/cards/3101-3200.md#ma26s-reinforcement-learning) · 中文
 - [Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces](../../conferences/icml-2026/cards/3101-3200.md#ma26aa-reinforcement-learning) · 中文
 - [Corruption-Tolerant Asynchronous Q-Learning with Near-Optimal Rates](../../conferences/icml-2026/cards/3101-3200.md#maity26a-reinforcement-learning) · 中文
+- [Goal-Conditioned Agents that Learn Everything All at Once](../../conferences/icml-2026/cards/3201-3300.md#matthews26a-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
