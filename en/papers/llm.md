@@ -376,6 +376,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shao26d-reinforcement-learning"></a>[Spurious Rewards: Rethinking Training Signals in RLVR](../../conferences/icml-2026/cards/4001-4100.md#paper-shao26d)
 - <a id="shen26c-reinforcement-learning"></a>[From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26c)
 - <a id="sheng26b-reinforcement-learning"></a>[When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](../../conferences/icml-2026/cards/4001-4100.md#paper-sheng26b)
+- <a id="singh26c-reinforcement-learning"></a>[RL with Learnable Textual Feedback: A Bilevel Approach](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26c)
 
 <a id="by-training-strategies"></a>
 
@@ -497,6 +498,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shen26v-training-strategies"></a>[Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26v)
 - <a id="shenfeld26a-training-strategies"></a>[Self-Distillation Enables Continual Learning](../../conferences/icml-2026/cards/4001-4100.md#paper-shenfeld26a)
 - <a id="shi26c-training-strategies"></a>[Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26c)
+- <a id="singh26a-training-strategies"></a>[Curriculum-Guided Layer Scaling for Language Model Pretraining](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26a)
 
 <a id="by-data-strategies"></a>
 
@@ -846,6 +848,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shi26w-inference"></a>[RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26w)
 - <a id="shi26ab-inference"></a>[Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26ab)
 - <a id="shi26af-inference"></a>[AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26af)
+- <a id="singh26b-inference"></a>[V1: Unifying Generation and Self-Verification for Parallel Reasoners](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26b)
+- <a id="skifstad26a-inference"></a>[Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](../../conferences/icml-2026/cards/4101-4200.md#paper-skifstad26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1147,6 +1151,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shihab26a-evaluation"></a>[CGRiC: Compositional Risk Certification for Structured LLM Outputs](../../conferences/icml-2026/cards/4101-4200.md#paper-shihab26a)
 - <a id="si26b-evaluation"></a>[Towards Execution-Grounded Automated AI Research](../../conferences/icml-2026/cards/4101-4200.md#paper-si26b)
 - <a id="simhi26a-evaluation"></a>[Old Habits Die Hard: How Conversational History Geometrically Traps LLMs](../../conferences/icml-2026/cards/4101-4200.md#paper-simhi26a)
+- <a id="singh26d-evaluation"></a>[DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26d)
+- <a id="siu26a-evaluation"></a>[SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives](../../conferences/icml-2026/cards/4101-4200.md#paper-siu26a)
 
 <a id="by-theory-statistics"></a>
 

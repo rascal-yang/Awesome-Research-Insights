@@ -160,6 +160,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Probabilistic Performance Guarantees for Multi-Task Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#schnitzer26a-theory-statistics) · 中文
 - [The Pareto-optimal Trade-off between Regret and Statistical Inference in Linear Stochastic Bandits under Safety Constraints](../../conferences/icml-2026/cards/4001-4100.md#shao26c-theory-statistics) · 中文
 - [Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO](../../conferences/icml-2026/cards/4101-4200.md#shi26s-theory-statistics) · 中文
+- [Holonomy Grid Codes for Generalisation Under Directed Actions](../../conferences/icml-2026/cards/4101-4200.md#singh26e-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 

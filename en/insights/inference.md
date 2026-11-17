@@ -294,6 +294,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling](../../conferences/icml-2026/cards/4101-4200.md#shi26w-inference) · 中文
 - [Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning](../../conferences/icml-2026/cards/4101-4200.md#shi26ab-inference) · 中文
 - [AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#shi26af-inference) · 中文
+- [V1: Unifying Generation and Self-Verification for Parallel Reasoners](../../conferences/icml-2026/cards/4101-4200.md#singh26b-inference) · 中文
+- [Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control](../../conferences/icml-2026/cards/4101-4200.md#skifstad26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

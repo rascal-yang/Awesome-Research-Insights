@@ -129,6 +129,7 @@
 - [把各目标保留为共享主干上的独立头](../conferences/icml-2026/cards/4001-4100.md#shen26v-training-strategies) · Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards
 - [让带示例的同一模型指导学生轨迹](../conferences/icml-2026/cards/4001-4100.md#shenfeld26a-training-strategies) · Self-Distillation Enables Continual Learning
 - [在每个新任务开始前重选训练提示](../conferences/icml-2026/cards/4101-4200.md#shi26c-training-strategies) · Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning
+- [同步增加数据难度与深度](../conferences/icml-2026/cards/4101-4200.md#singh26a-training-strategies) · Curriculum-Guided Layer Scaling for Language Model Pretraining
 
 <a id="by-computer-vision"></a>
 

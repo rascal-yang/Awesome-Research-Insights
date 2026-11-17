@@ -230,6 +230,7 @@
 - [上下文子空间张量绑定](../conferences/icml-2026/cards/3601-3700.md#pence26a-representation-learning) · Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories
 - [从重叠子窗学习时序表征](../conferences/icml-2026/cards/4001-4100.md#shamba26a-representation-learning) · Divide and Contrast: Learning Robust Temporal Features without Augmentation
 - [解耦需同时约束局部雅可比和全局支持](../conferences/icml-2026/cards/4101-4200.md#simon26b-representation-learning) · Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability
+- [双重重建防止不变潜变量失效](../conferences/icml-2026/cards/4101-4200.md#slavutsky26a-representation-learning) · Variational Learning of Disentangled Representations
 
 <a id="by-graph-and-recommendation"></a>
 

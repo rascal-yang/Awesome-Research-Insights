@@ -69,6 +69,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="ren26j-architecture"></a>[Scalable Event Cloud Network for Event-based Classification](../../conferences/icml-2026/cards/3801-3900.md#paper-ren26j)
 - <a id="schnepf26a-architecture"></a>[SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion](../../conferences/icml-2026/cards/3901-4000.md#paper-schnepf26a)
 - <a id="shen26l-architecture"></a>[TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26l)
+- <a id="sinha26a-architecture"></a>[Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#paper-sinha26a)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -481,6 +482,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="safonov26a-evaluation"></a>[Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions](../../conferences/icml-2026/cards/3901-4000.md#paper-safonov26a)
 - <a id="salvy26a-evaluation"></a>[GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation](../../conferences/icml-2026/cards/3901-4000.md#paper-salvy26a)
 - <a id="shen26a-evaluation"></a>[DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26a)
+- <a id="singh26f-evaluation"></a>[Evaluating Object-Centric Models beyond Object Discovery](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26f)
 
 <a id="by-theory-statistics"></a>
 

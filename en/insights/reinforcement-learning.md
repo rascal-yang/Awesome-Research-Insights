@@ -162,6 +162,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Spurious Rewards: Rethinking Training Signals in RLVR](../../conferences/icml-2026/cards/4001-4100.md#shao26d-reinforcement-learning) · 中文
 - [From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs](../../conferences/icml-2026/cards/4001-4100.md#shen26c-reinforcement-learning) · 中文
 - [When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](../../conferences/icml-2026/cards/4001-4100.md#sheng26b-reinforcement-learning) · 中文
+- [RL with Learnable Textual Feedback: A Bilevel Approach](../../conferences/icml-2026/cards/4101-4200.md#singh26c-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

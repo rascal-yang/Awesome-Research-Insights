@@ -382,6 +382,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Training Deep Spiking Neural Networks without Normalization](../../conferences/icml-2026/cards/4101-4200.md#shi26ae-optimization) · 中文
 - [General Analysis of LMO-based Optimizers: Beyond Bounded Variance](../../conferences/icml-2026/cards/4101-4200.md#shulgin26a-optimization) · 中文
 - [Understanding MARS: When Scaling Momentum Correction Provably Helps](../../conferences/icml-2026/cards/4101-4200.md#shulgin26b-optimization) · 中文
+- [Divide and Learn: Multi-Objective Combinatorial Optimization at Scale](../../conferences/icml-2026/cards/4101-4200.md#singh26h-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

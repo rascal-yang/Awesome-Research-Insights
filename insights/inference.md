@@ -294,6 +294,8 @@
 - [把函数参数作为共享前缀的并行流](../conferences/icml-2026/cards/4101-4200.md#shi26w-inference) · RealtimeTool: Parallel Decoding for Real-Time LLM Function Calling
 - [隔离受影响工具的规划上下文](../conferences/icml-2026/cards/4101-4200.md#shi26ab-inference) · Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning
 - [质量深宽联合工作流剪枝](../conferences/icml-2026/cards/4101-4200.md#shi26af-inference) · AgentXRay: White-Boxing Agentic Systems via Workflow Reconstruction
+- [覆盖与近平局配对验证](../conferences/icml-2026/cards/4101-4200.md#singh26b-inference) · V1: Unifying Generation and Self-Verification for Parallel Reasoners
+- [离线线性化与在线反馈steering](../conferences/icml-2026/cards/4101-4200.md#skifstad26a-inference) · Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control
 
 <a id="by-computer-vision"></a>
 

@@ -178,6 +178,7 @@ Objectives, auxiliary supervision, and regularization.
 - [From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees](../../conferences/icml-2026/cards/4001-4100.md#sheng26a-loss-functions) · 中文
 - [CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures](../../conferences/icml-2026/cards/4101-4200.md#shihab26b-loss-functions) · 中文
 - [Domain Transfer Becomes Identifiable via a Single Alignment](../../conferences/icml-2026/cards/4101-4200.md#shrestha26a-loss-functions) · 中文
+- [Calibrating Generative Models to Distributional Constraints](../../conferences/icml-2026/cards/4101-4200.md#smith26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

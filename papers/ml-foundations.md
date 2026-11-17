@@ -121,6 +121,7 @@
 - <a id="nguyen26t-modules"></a>[MuonSSM: Orthogonalizing State Space Models for Sequence Modeling](../conferences/icml-2026/cards/3401-3500.md#paper-nguyen26t)
 - <a id="pal26a-modules"></a>[DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers](../conferences/icml-2026/cards/3501-3600.md#paper-pal26a)
 - <a id="pertigkiozoglou26a-modules"></a>[Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data](../conferences/icml-2026/cards/3601-3700.md#paper-pertigkiozoglou26a)
+- <a id="slupinski26a-modules"></a>[RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models](../conferences/icml-2026/cards/4101-4200.md#paper-slupinski26a)
 
 <a id="by-loss-functions"></a>
 
@@ -162,6 +163,7 @@
 - <a id="sheng26a-loss-functions"></a>[From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees](../conferences/icml-2026/cards/4001-4100.md#paper-sheng26a)
 - <a id="shihab26b-loss-functions"></a>[CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures](../conferences/icml-2026/cards/4101-4200.md#paper-shihab26b)
 - <a id="shrestha26a-loss-functions"></a>[Domain Transfer Becomes Identifiable via a Single Alignment](../conferences/icml-2026/cards/4101-4200.md#paper-shrestha26a)
+- <a id="smith26a-loss-functions"></a>[Calibrating Generative Models to Distributional Constraints](../conferences/icml-2026/cards/4101-4200.md#paper-smith26a)
 
 <a id="by-optimization"></a>
 
@@ -388,6 +390,7 @@
 - <a id="shi26ae-optimization"></a>[Training Deep Spiking Neural Networks without Normalization](../conferences/icml-2026/cards/4101-4200.md#paper-shi26ae)
 - <a id="shulgin26a-optimization"></a>[General Analysis of LMO-based Optimizers: Beyond Bounded Variance](../conferences/icml-2026/cards/4101-4200.md#paper-shulgin26a)
 - <a id="shulgin26b-optimization"></a>[Understanding MARS: When Scaling Momentum Correction Provably Helps](../conferences/icml-2026/cards/4101-4200.md#paper-shulgin26b)
+- <a id="singh26h-optimization"></a>[Divide and Learn: Multi-Objective Combinatorial Optimization at Scale](../conferences/icml-2026/cards/4101-4200.md#paper-singh26h)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -600,6 +603,7 @@
 - <a id="pence26a-representation-learning"></a>[Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories](../conferences/icml-2026/cards/3601-3700.md#paper-pence26a)
 - <a id="shamba26a-representation-learning"></a>[Divide and Contrast: Learning Robust Temporal Features without Augmentation](../conferences/icml-2026/cards/4001-4100.md#paper-shamba26a)
 - <a id="simon26b-representation-learning"></a>[Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability](../conferences/icml-2026/cards/4101-4200.md#paper-simon26b)
+- <a id="slavutsky26a-representation-learning"></a>[Variational Learning of Disentangled Representations](../conferences/icml-2026/cards/4101-4200.md#paper-slavutsky26a)
 
 <a id="by-evaluation"></a>
 

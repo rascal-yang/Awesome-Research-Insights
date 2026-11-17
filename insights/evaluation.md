@@ -290,6 +290,8 @@
 - [逐声明风险与局部修复](../conferences/icml-2026/cards/4101-4200.md#shihab26a-evaluation) · CGRiC: Compositional Risk Certification for Structured LLM Outputs
 - [把研究代理的平均奖励和上尾质量分开监控](../conferences/icml-2026/cards/4101-4200.md#si26b-evaluation) · Towards Execution-Grounded Automated AI Research
 - [评测多轮惯性时控制话题结构与历史长度](../conferences/icml-2026/cards/4101-4200.md#simhi26a-evaluation) · Old Habits Die Hard: How Conversational History Geometrically Traps LLMs
+- [扩散骨干与长度外推的受控边界](../conferences/icml-2026/cards/4101-4200.md#singh26d-evaluation) · DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone
+- [steering副作用须跨维度测量](../conferences/icml-2026/cards/4101-4200.md#siu26a-evaluation) · SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives
 
 <a id="by-computer-vision"></a>
 
@@ -345,6 +347,7 @@
 - [按手机和观看条件校准视频质量排序](../conferences/icml-2026/cards/3901-4000.md#safonov26a-evaluation) · Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions
 - [用多尺度近邻距离重标定缓解生成评价的 hubness](../conferences/icml-2026/cards/3901-4000.md#salvy26a-evaluation) · GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation
 - [用组合触发测试 ViT 检查点供应链防御](../conferences/icml-2026/cards/4001-4100.md#shen26a-evaluation) · DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers
+- [归因感知的物体表示评测](../conferences/icml-2026/cards/4101-4200.md#singh26f-evaluation) · Evaluating Object-Centric Models beyond Object Discovery
 
 <a id="by-nlp"></a>
 

@@ -65,6 +65,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="qian26m-modules"></a>[UGround: Towards Unified Visual Grounding with Unrolled Transformers](../../conferences/icml-2026/cards/3701-3800.md#paper-qian26m)
 - <a id="shao26k-modules"></a>[LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention](../../conferences/icml-2026/cards/4001-4100.md#paper-shao26k)
 - <a id="shi26u-modules"></a>[SAM Audio: Segment Anything in Audio](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26u)
+- <a id="singh26g-modules"></a>[VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion](../../conferences/icml-2026/cards/4101-4200.md#paper-singh26g)
 
 <a id="by-loss-functions"></a>
 

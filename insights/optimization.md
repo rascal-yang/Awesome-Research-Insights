@@ -382,6 +382,7 @@
 - [脉冲网络双向初始化](../conferences/icml-2026/cards/4101-4200.md#shi26ae-optimization) · Training Deep Spiking Neural Networks without Normalization
 - [按梯度噪声的状态依赖性联合调批量和动量](../conferences/icml-2026/cards/4101-4200.md#shulgin26a-optimization) · General Analysis of LMO-based Optimizers: Beyond Bounded Variance
 - [缩小动量梯度差修正需要权衡剩余误差](../conferences/icml-2026/cards/4101-4200.md#shulgin26b-optimization) · Understanding MARS: When Scaling Momentum Correction Provably Helps
+- [分解bandit协调昂贵设计搜索](../conferences/icml-2026/cards/4101-4200.md#singh26h-optimization) · Divide and Learn: Multi-Objective Combinatorial Optimization at Scale
 
 <a id="by-graph-and-recommendation"></a>
 

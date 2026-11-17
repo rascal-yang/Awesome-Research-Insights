@@ -162,6 +162,7 @@
 - [用随机奖励对照识别底座能力放大](../conferences/icml-2026/cards/4001-4100.md#shao26d-reinforcement-learning) · Spurious Rewards: Rethinking Training Signals in RLVR
 - [用模型自述异常诱因支持后门隔离与检测](../conferences/icml-2026/cards/4001-4100.md#shen26c-reinforcement-learning) · From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs
 - [分别学习是否写记忆和是否继续读](../conferences/icml-2026/cards/4001-4100.md#sheng26b-reinforcement-learning) · When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning
+- [反馈按策略学习效果优化](../conferences/icml-2026/cards/4101-4200.md#singh26c-reinforcement-learning) · RL with Learnable Textual Feedback: A Bilevel Approach
 
 <a id="by-computer-vision"></a>
 

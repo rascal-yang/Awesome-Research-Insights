@@ -230,6 +230,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Recursive Binding on a Budget: Subspace Carving in Order-$p$ Tensor Memories](../../conferences/icml-2026/cards/3601-3700.md#pence26a-representation-learning) · 中文
 - [Divide and Contrast: Learning Robust Temporal Features without Augmentation](../../conferences/icml-2026/cards/4001-4100.md#shamba26a-representation-learning) · 中文
 - [Unsupervised Disentanglement Without Compromises : How Functional Orthogonality Enforces Identifiability](../../conferences/icml-2026/cards/4101-4200.md#simon26b-representation-learning) · 中文
+- [Variational Learning of Disentangled Representations](../../conferences/icml-2026/cards/4101-4200.md#slavutsky26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

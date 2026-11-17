@@ -129,6 +129,7 @@ Training schedules, curricula, and task or stage composition.
 - [Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards](../../conferences/icml-2026/cards/4001-4100.md#shen26v-training-strategies) · 中文
 - [Self-Distillation Enables Continual Learning](../../conferences/icml-2026/cards/4001-4100.md#shenfeld26a-training-strategies) · 中文
 - [Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning](../../conferences/icml-2026/cards/4101-4200.md#shi26c-training-strategies) · 中文
+- [Curriculum-Guided Layer Scaling for Language Model Pretraining](../../conferences/icml-2026/cards/4101-4200.md#singh26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

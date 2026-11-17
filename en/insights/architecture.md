@@ -119,6 +119,7 @@ Model-wide design and information flow.
 - [Scalable Event Cloud Network for Event-based Classification](../../conferences/icml-2026/cards/3801-3900.md#ren26j-architecture) · 中文
 - [SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion](../../conferences/icml-2026/cards/3901-4000.md#schnepf26a-architecture) · 中文
 - [TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](../../conferences/icml-2026/cards/4001-4100.md#shen26l-architecture) · 中文
+- [Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#sinha26a-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -406,4 +407,5 @@ Model-wide design and information flow.
 - [SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models](../../conferences/icml-2026/cards/4001-4100.md#shang26a-architecture) · 中文
 - [Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations](../../conferences/icml-2026/cards/4101-4200.md#shi26i-architecture) · 中文
 - [FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction](../../conferences/icml-2026/cards/4101-4200.md#si26a-architecture) · 中文
+- [Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](../../conferences/icml-2026/cards/4101-4200.md#sittoni26a-architecture) · 中文
 <!-- classification:end -->

@@ -178,6 +178,7 @@
 - [把判别梯度与置信校准分开](../conferences/icml-2026/cards/4001-4100.md#sheng26a-loss-functions) · From Individual Calibration to Reliable Classifiers: ALD Parameterization with mPAIC Guarantees
 - [把可靠性先验写入不确定性下界](../conferences/icml-2026/cards/4101-4200.md#shihab26b-loss-functions) · CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures
 - [稀疏雅可比与少量锚点配准](../conferences/icml-2026/cards/4101-4200.md#shrestha26a-loss-functions) · Domain Transfer Becomes Identifiable via a Single Alignment
+- [分布约束校准与无偏矩损失](../conferences/icml-2026/cards/4101-4200.md#smith26a-loss-functions) · Calibrating Generative Models to Distributional Constraints
 
 <a id="by-graph-and-recommendation"></a>
 

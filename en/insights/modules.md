@@ -145,6 +145,7 @@ Reusable components and local changes to model inputs or connections.
 - [UGround: Towards Unified Visual Grounding with Unrolled Transformers](../../conferences/icml-2026/cards/3701-3800.md#qian26m-modules) · 中文
 - [LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention](../../conferences/icml-2026/cards/4001-4100.md#shao26k-modules) · 中文
 - [SAM Audio: Segment Anything in Audio](../../conferences/icml-2026/cards/4101-4200.md#shi26u-modules) · 中文
+- [VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion](../../conferences/icml-2026/cards/4101-4200.md#singh26g-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -192,6 +193,7 @@ Reusable components and local changes to model inputs or connections.
 - [MuonSSM: Orthogonalizing State Space Models for Sequence Modeling](../../conferences/icml-2026/cards/3401-3500.md#nguyen26t-modules) · 中文
 - [DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers](../../conferences/icml-2026/cards/3501-3600.md#pal26a-modules) · 中文
 - [Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data](../../conferences/icml-2026/cards/3601-3700.md#pertigkiozoglou26a-modules) · 中文
+- [RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models](../../conferences/icml-2026/cards/4101-4200.md#slupinski26a-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

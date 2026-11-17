@@ -119,6 +119,7 @@
 - [在极性感知事件点云上用傅里叶层缩减时空特征开销](../conferences/icml-2026/cards/3801-3900.md#ren26j-architecture) · Scalable Event Cloud Network for Event-based Classification
 - [用调和深度补齐相邻全景间空隙](../conferences/icml-2026/cards/3901-4000.md#schnepf26a-architecture) · SphericalDreamer: Generating Navigable Immersive 3D Worlds with Panorama Fusion
 - [脉冲 Transformer 的双向时间融合](../conferences/icml-2026/cards/4001-4100.md#shen26l-architecture) · TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers
+- [冻结参考与对称非扩张去噪](../conferences/icml-2026/cards/4101-4200.md#sinha26a-architecture) · Trainable Nonexpansive Denoisers for Contractive Image Reconstruction
 
 <a id="by-nlp"></a>
 
@@ -406,4 +407,5 @@
 - [逐表达元素融合的空间转录组去噪](../conferences/icml-2026/cards/4001-4100.md#shang26a-architecture) · SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models
 - [把驱动噪声编码为Wick特征再学随机解算子](../conferences/icml-2026/cards/4101-4200.md#shi26i-architecture) · Expanding the Chaos: Neural Operator for Stochastic (Partial) Differential Equations
 - [高维节点与相关性边联合扩散的失败边界](../conferences/icml-2026/cards/4101-4200.md#si26a-architecture) · FLAG: Foundation model representation with Latent diffusion Alignment via Graph for spatial gene expression prediction
+- [分层半可分神经算子](../conferences/icml-2026/cards/4101-4200.md#sittoni26a-architecture) · Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver
 <!-- classification:end -->

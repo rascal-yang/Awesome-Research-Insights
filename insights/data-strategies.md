@@ -102,6 +102,7 @@
 - [差分隐私合成数据](../conferences/icml-2026/cards/0201-0300.md#banayeeanzade26a-data-strategies) · EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors
 - [对比学习的困难负例组批](../conferences/icml-2026/cards/0901-1000.md#dutta26a-data-strategies) · HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training
 - [用结构化属性生成可审计的隐私文书](../conferences/icml-2026/cards/2101-2200.md#kim26az-data-strategies) · Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch
+- [固定生成机制再干预任务频次](../conferences/icml-2026/cards/4101-4200.md#snaebjarnarson26a-data-strategies) · Causally Evaluating the Learnability of Formal Language Tasks
 
 <a id="by-reinforcement-learning"></a>
 

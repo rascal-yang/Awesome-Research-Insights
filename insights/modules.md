@@ -145,6 +145,7 @@
 - [分割词元跨层选择空间热图](../conferences/icml-2026/cards/3701-3800.md#qian26m-modules) · UGround: Towards Unified Visual Grounding with Unrolled Transformers
 - [按查询近似风险调注意力算量](../conferences/icml-2026/cards/4001-4100.md#shao26k-modules) · LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention
 - [用时间片段补充音源语义](../conferences/icml-2026/cards/4101-4200.md#shi26u-modules) · SAM Audio: Segment Anything in Audio
+- [运动同步度调节场景条件强度](../conferences/icml-2026/cards/4101-4200.md#singh26g-modules) · VIBE: Disentangling Social Dynamics via Kinematics-Informed Variational Inference for Behavioral Emotion
 
 <a id="by-ml-foundations"></a>
 
@@ -192,6 +193,7 @@
 - [在状态注入端做动量和谱调节](../conferences/icml-2026/cards/3401-3500.md#nguyen26t-modules) · MuonSSM: Orthogonalizing State Space Models for Sequence Modeling
 - [以可微析取投影嵌入硬规则](../conferences/icml-2026/cards/3501-3600.md#pal26a-modules) · DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers
 - [按中间分布调节等变](../conferences/icml-2026/cards/3601-3700.md#pertigkiozoglou26a-modules) · Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data
+- [用观察值调节显式状态时长](../conferences/icml-2026/cards/4101-4200.md#slupinski26a-modules) · RED-HDP-HMM: Observation-Dependent Durations for Bayesian Nonparametric Sequential Models
 
 <a id="by-graph-and-recommendation"></a>
 

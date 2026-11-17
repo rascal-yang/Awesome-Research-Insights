@@ -290,6 +290,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CGRiC: Compositional Risk Certification for Structured LLM Outputs](../../conferences/icml-2026/cards/4101-4200.md#shihab26a-evaluation) · 中文
 - [Towards Execution-Grounded Automated AI Research](../../conferences/icml-2026/cards/4101-4200.md#si26b-evaluation) · 中文
 - [Old Habits Die Hard: How Conversational History Geometrically Traps LLMs](../../conferences/icml-2026/cards/4101-4200.md#simhi26a-evaluation) · 中文
+- [DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone](../../conferences/icml-2026/cards/4101-4200.md#singh26d-evaluation) · 中文
+- [SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives](../../conferences/icml-2026/cards/4101-4200.md#siu26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -345,6 +347,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Learning Flexible Generalization in Video Quality Assessment by Bringing Device and Viewing Condition Distributions](../../conferences/icml-2026/cards/3901-4000.md#safonov26a-evaluation) · 中文
 - [GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation](../../conferences/icml-2026/cards/3901-4000.md#salvy26a-evaluation) · 中文
 - [DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers](../../conferences/icml-2026/cards/4001-4100.md#shen26a-evaluation) · 中文
+- [Evaluating Object-Centric Models beyond Object Discovery](../../conferences/icml-2026/cards/4101-4200.md#singh26f-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

@@ -102,6 +102,7 @@ Data selection, annotation, augmentation, and sampling.
 - [EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](../../conferences/icml-2026/cards/0201-0300.md#banayeeanzade26a-data-strategies) · 中文
 - [HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](../../conferences/icml-2026/cards/0901-1000.md#dutta26a-data-strategies) · 中文
 - [Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch](../../conferences/icml-2026/cards/2101-2200.md#kim26az-data-strategies) · 中文
+- [Causally Evaluating the Learnability of Formal Language Tasks](../../conferences/icml-2026/cards/4101-4200.md#snaebjarnarson26a-data-strategies) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
