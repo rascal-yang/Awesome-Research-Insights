@@ -25,7 +25,7 @@ The linked short insights are available in Chinese.
 | [Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models](https://proceedings.mlr.press/v306/bai26h.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26h) | [Read insight (中文)](../../papers/robotics.md#bai26h-architecture) |
 | [Hierarchical Policy Learning via Spectral Decomposition](https://proceedings.mlr.press/v306/cao26u.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-cao26u) | [Read insight (中文)](../../papers/robotics.md#cao26u-architecture) |
 | [The Lie We Tell: Correcting the Euclidean Fallacy in Vision Language Action Policies via Score Matching on Tangent Space](https://proceedings.mlr.press/v306/chuang26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chuang26a) | [Read insight (中文)](../../papers/robotics.md#chuang26a-architecture) |
-| [Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](https://proceedings.mlr.press/v306/ding26x.html) | [Read insight (中文)](../../papers/robotics.md#ding26x-architecture) |
+| [Embodied-DETR: End-to-End Temporal 3D Object Detection in Egocentric Views](https://proceedings.mlr.press/v306/ding26x.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26x) | [Read insight (中文)](../../papers/robotics.md#ding26x-architecture) |
 
 <a id="by-modules"></a>
 
@@ -110,7 +110,7 @@ The linked short insights are available in Chinese.
 | [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](https://proceedings.mlr.press/v306/choi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26a) | [Read insight (中文)](../../papers/robotics.md#choi26a-inference) |
 | [Efficient Skill Grounding via Code Refactoring with Small Language Models](https://proceedings.mlr.press/v306/choi26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-choi26c) | [Read insight (中文)](../../papers/robotics.md#choi26c-inference) |
 | [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://proceedings.mlr.press/v306/chun26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0701-0800.md#paper-chun26a) | [Read insight (中文)](../../papers/robotics.md#chun26a-inference) |
-| [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) | [Read insight (中文)](../../papers/robotics.md#ding26r-inference) |
+| [AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](https://proceedings.mlr.press/v306/ding26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26r) | [Read insight (中文)](../../papers/robotics.md#ding26r-inference) |
 | [Reflex: Real-Time Vision-Language-Action Control through Streaming Inference](https://proceedings.mlr.press/v306/guo26l.html) | [Read insight (中文)](../../papers/robotics.md#guo26l-inference) |
 
 <a id="by-representation-learning"></a>
@@ -131,7 +131,7 @@ The linked short insights are available in Chinese.
 | [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](https://proceedings.mlr.press/v306/bai26e.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0101-0200.md#paper-bai26e) | [Read insight (中文)](../../papers/robotics.md#bai26e-evaluation) |
 | [DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://proceedings.mlr.press/v306/cao26w.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0401-0500.md#paper-cao26w) | [Read insight (中文)](../../papers/robotics.md#cao26w-evaluation) |
 | [RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies](https://proceedings.mlr.press/v306/dai26c.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dai26c) | [Read insight (中文)](../../papers/robotics.md#dai26c-evaluation) |
-| [Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) | [Read insight (中文)](../../papers/robotics.md#deng26r-evaluation) |
+| [Rethinking Video Generation Model for the Embodied World](https://proceedings.mlr.press/v306/deng26r.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26r) | [Read insight (中文)](../../papers/robotics.md#deng26r-evaluation) |
 | [Demystifying Action Space Design for Robotic Manipulation Policies](https://proceedings.mlr.press/v306/feng26ab.html) | [Read insight (中文)](../../papers/robotics.md#feng26ab-evaluation) |
 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) | [Read insight (中文)](../../papers/robotics.md#fu26u-evaluation) |
 

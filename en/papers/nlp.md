@@ -15,7 +15,7 @@ The linked short insights are available in Chinese.
 
 | Paper | Insight |
 | :--- | :--- |
-| [Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) | [Read insight (中文)](../../papers/nlp.md#dervishi26a-architecture) |
+| [Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dervishi26a) | [Read insight (中文)](../../papers/nlp.md#dervishi26a-architecture) |
 | [Scaling Transformers for End-to-End Discrete Audio Tokenization](https://proceedings.mlr.press/v306/gong26c.html) | [Read insight (中文)](../../papers/nlp.md#gong26c-architecture) |
 
 <a id="by-modules"></a>
@@ -101,7 +101,7 @@ The linked short insights are available in Chinese.
 | [VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0201-0300.md#paper-basha26a) | [Read insight (中文)](../../papers/nlp.md#basha26a-evaluation) |
 | [Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26av) | [Read insight (中文)](../../papers/nlp.md#chen26av-evaluation) |
 | [Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26bf) | [Read insight (中文)](../../papers/nlp.md#chen26bf-evaluation) |
-| [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | [Read insight (中文)](../../papers/nlp.md#dehdashtian26a-evaluation) |
+| [FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) · [Paper card (中文)](../../conferences/icml-2026/cards/0801-0900.md#paper-dehdashtian26a) | [Read insight (中文)](../../papers/nlp.md#dehdashtian26a-evaluation) |
 | [Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | [Read insight (中文)](../../papers/nlp.md#duarte26a-evaluation) |
 | [How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | [Read insight (中文)](../../papers/nlp.md#fernandez26b-evaluation) |
 | [FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) | [Read insight (中文)](../../papers/nlp.md#gao26af-evaluation) |

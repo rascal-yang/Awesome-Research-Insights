@@ -13,7 +13,7 @@
 
 | 论文 | 技术主题 | Insight |
 | :--- | :--- | :--- |
-| <a id="dervishi26a-architecture"></a>[Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) | 文本编码与掩码重建解耦 | 让编码器表示可见 token，由独立预测器读取表示并重建被遮蔽 token。用互补掩码构造同一句子的两份视图，各视图彼此隔离，两次预测合计能覆盖所有 token，并支持较高掩码率。 |
+| <a id="dervishi26a-architecture"></a>[Separating Representation from Reconstruction Enables Scalable Text Encoders](https://proceedings.mlr.press/v306/dervishi26a.html) · [论文卡](../conferences/icml-2026/cards/0801-0900.md#paper-dervishi26a) | 文本编码与掩码重建解耦 | 让编码器表示可见 token，由独立预测器读取表示并重建被遮蔽 token。用互补掩码构造同一句子的两份视图，各视图彼此隔离，两次预测合计能覆盖所有 token，并支持较高掩码率。 |
 | <a id="gong26c-architecture"></a>[Scaling Transformers for End-to-End Discrete Audio Tokenization](https://proceedings.mlr.press/v306/gong26c.html) | 纯因果 Transformer 的音频分词 | 用交错的波形分块与因果 Transformer 编码层逐步降采样，经残差向量量化得到离散 token，再由对称解码器重建波形。编码器、量化器和解码器可端到端联合训练，也支持流式编解码。 |
 
 <a id="by-modules"></a>
@@ -99,7 +99,7 @@
 | <a id="basha26a-evaluation"></a>[VocSim A Training-free Benchmark for Zero-shot Content Identity in Single-source Audio](https://proceedings.mlr.press/v306/basha26a.html) · [论文卡](../conferences/icml-2026/cards/0201-0300.md#paper-basha26a) | 音频表征评测 | 只用单声源片段测冻结嵌入的几何，并以置换基线校准近邻纯度与全局分离率，可单独暴露低资源语言的表示差距。 |
 | <a id="chen26av-evaluation"></a>[Eyes-on-Me: Scalable RAG Poisoning through Transferable Attention-Steering Attractors](https://proceedings.mlr.press/v306/chen26av.html) · [论文卡](../conferences/icml-2026/cards/0501-0600.md#paper-chen26av) | 检索增强生成安全评测 | 文档中的注意力集中机制可以在不同检索器和生成器之间迁移。做投毒压力测试时，可单独评估复用型污染对检索排序和生成内容的影响。 |
 | <a id="chen26bf-evaluation"></a>[Black-Box Detection of LLM-Generated Text Using Generalized Jensen Shannon Divergence](https://proceedings.mlr.press/v306/chen26bf.html) · [论文卡](../conferences/icml-2026/cards/0501-0600.md#paper-chen26bf) | 生成文本的惊异度转移检测 | 用代理语言模型单次前向计算词元的负对数条件概率，将其离散为状态，再统计相邻状态的转移。用广义 Jensen–Shannon 散度比较测试文本与预先建立的人类和机器文本转移矩阵。 |
-| <a id="dehdashtian26a-evaluation"></a>[FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) | 音频深伪检测的多样性压力测试 | 在黑盒红队评测中同时把检测器反馈和候选音频间的多样性反馈放进上下文，令测试覆盖更多错误模式。论文在所测检测器上确认了部分失效跨模型迁移，且回收测试样本做微调能提高检测稳健性。 |
+| <a id="dehdashtian26a-evaluation"></a>[FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors](https://proceedings.mlr.press/v306/dehdashtian26a.html) · [论文卡](../conferences/icml-2026/cards/0801-0900.md#paper-dehdashtian26a) | 音频深伪检测的多样性压力测试 | 在黑盒红队评测中同时把检测器反馈和候选音频间的多样性反馈放进上下文，令测试覆盖更多错误模式。论文在所测检测器上确认了部分失效跨模型迁移，且回收测试样本做微调能提高检测稳健性。 |
 | <a id="duarte26a-evaluation"></a>[Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews](https://proceedings.mlr.press/v306/duarte26a.html) | 同行评审来源的声明级检测 | 为目标评审配对同一论文、总体评分相同的多份 AI 参考评审，比较评价意见、建设建议等声明的最佳语义匹配，再加文本特征训练三分类器。在论文数据中，经 AI 润色的人类评审仍常保留有辨识度的判断内容。 |
 | <a id="fernandez26b-evaluation"></a>[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://proceedings.mlr.press/v306/fernandez26b.html) | 重写式事后文本水印评测 | 用带水印的解码器改写已有文本，联合测量水印可检测性和语义保真。论文比较显示，开放文本可通过束搜索改善折中，但代码的强水印往往伴随功能正确率下降。 |
 | <a id="gao26af-evaluation"></a>[FiRE: Fine-grained Ranking Evaluation for Machine Translation](https://proceedings.mlr.press/v306/gao26af.html) | 机器翻译的无参考成对排序 | 给裁判提供源句和两份译文，分别判断忠实度、流畅度与风格一致性。分项成对判断可用人工排序分别校验，并揭示总分掩盖的译文优缺点。 |
