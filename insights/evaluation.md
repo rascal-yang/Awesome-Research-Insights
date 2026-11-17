@@ -17,7 +17,6 @@
 - [表征分析](../conferences/icml-2026/cards/0001-0100.md#acevedo26a-evaluation) · Differential syntactic and semantic encoding in LLMs
 - [分阶段评测](../conferences/icml-2026/cards/0001-0100.md#acharya26a-evaluation) · CauSciBench: Can LLMs Automate Causal Inference in Real-World Scientific Research?
 - [一致性训练](../conferences/icml-2026/cards/0001-0100.md#africa26a-evaluation) · Consistency Training Can Entrench Misalignment
-- [Agent 合规评测](../conferences/icml-2026/cards/0001-0100.md#aka26a-evaluation) · Evaluating Contextual Illegality: AI Compliance in Corporate Law Scenarios
 - [基准饱和](../conferences/icml-2026/cards/0001-0100.md#akhtar26a-evaluation) · When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 - [提示攻击检测](../conferences/icml-2026/cards/0001-0100.md#alshaalan26a-evaluation) · Detecting Fluent Optimization-Based Adversarial Prompts via Sequential Entropy Changes
 - [长文本不确定性评测](../conferences/icml-2026/cards/0001-0100.md#amit26a-evaluation) · Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth
@@ -433,7 +432,6 @@
 ### 多模态学习
 
 - [视觉语言安全评测](../conferences/icml-2026/cards/0101-0200.md#azulay26a-evaluation) · Jailbreaking Vision-Language Models Through the Visual Modality
-- [文档 Agent 评测](../conferences/icml-2026/cards/0301-0400.md#borchmann26a-evaluation) · Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections
 - [视觉语言模型量化](../conferences/icml-2026/cards/0301-0400.md#bouguerra26a-evaluation) · Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy
 - [图像感知评测](../conferences/icml-2026/cards/0301-0400.md#cao26i-evaluation) · UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 - [音视频生成评测](../conferences/icml-2026/cards/0401-0500.md#cao26v-evaluation) · T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation
@@ -594,7 +592,6 @@
 ### 科学机器学习
 
 - [格密码机器学习分析](../conferences/icml-2026/cards/0001-0100.md#alfarano26a-evaluation) · Improving ML Attacks on LWE with Data Repetition and Stepwise Regression
-- [恶意软件谱系重建](../conferences/icml-2026/cards/0001-0100.md#amalan26a-evaluation) · MalTree: Tracing Malware Evolution from Embeddings at Scale
 - [生存模型评测](../conferences/icml-2026/cards/0101-0200.md#bahrini26a-evaluation) · When Can We Trust Survival Model Evaluation ?
 - [CAD 操作评测](../conferences/icml-2026/cards/0101-0200.md#bai26a-evaluation) · Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation
 - [仿真 Agent 成本评测](../conferences/icml-2026/cards/0301-0400.md#cao26g-evaluation) · SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs

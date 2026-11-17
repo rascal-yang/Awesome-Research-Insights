@@ -97,7 +97,6 @@
 - [带动作记忆的老虎机](../conferences/icml-2026/cards/0001-0100.md#ann26a-theory-statistics) · Generalized Linear Bandits with Memory
 - [部分可观测博弈](../conferences/icml-2026/cards/0101-0200.md#arora26b-theory-statistics) · Minimax-Optimal Policy Regret in Partially Observable Markov Games
 - [最优臂识别](../conferences/icml-2026/cards/0101-0200.md#balagopalan26a-theory-statistics) · Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors
-- [结构化 Stackelberg 博弈](../conferences/icml-2026/cards/0101-0200.md#balcan26a-theory-statistics) · Learning in Structured Stackelberg Games
 - [社会学习探索](../conferences/icml-2026/cards/0201-0300.md#banihashem26a-theory-statistics) · Bandit Social Learning with Exploration Episodes
 - [逆博弈估计](../conferences/icml-2026/cards/0201-0300.md#barbara26a-theory-statistics) · Optimal Rates for Feasible Payoff Set Estimation in Games
 - [不确定 MDP](../conferences/icml-2026/cards/0201-0300.md#benyamine26a-theory-statistics) · Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes
@@ -185,7 +184,6 @@
 
 - [偏好标注](../conferences/icml-2026/cards/0001-0100.md#aczel26a-theory-statistics) · Efficient Bayesian Inference from Noisy Pairwise Comparisons
 - [注意力容量](../conferences/icml-2026/cards/0001-0100.md#adler26a-theory-statistics) · A Capacity-Based Rationale for Multi-Head Attention
-- [潜变量模型](../conferences/icml-2026/cards/0001-0100.md#agarwal26b-theory-statistics) · Fast Reconstruction of Mixtures of Bernoulli Product Distributions
 - [因果推断](../conferences/icml-2026/cards/0001-0100.md#agarwal26c-theory-statistics) · Sinkhorn Treatment Effects: A Causal Optimal Transport Measure
 - [生成模型评测](../conferences/icml-2026/cards/0001-0100.md#aiyer26a-theory-statistics) · A Theoretical Framework for Statistical Evaluability of Generative Models
 - [随机变分不等式](../conferences/icml-2026/cards/0001-0100.md#alacaoglu26a-theory-statistics) · Solving Stochastic Variational Inequalities without the Bounded Variance Assumption
@@ -204,7 +202,6 @@
 - [鲁棒共形预测](../conferences/icml-2026/cards/0101-0200.md#ashouritaklimi26a-theory-statistics) · Robust Bayes-Assisted Conformal Prediction
 - [差分隐私假设选择](../conferences/icml-2026/cards/0101-0200.md#asi26a-theory-statistics) · Fast and Near-Optimal Algorithms for Private Hypothesis Selection
 - [带噪 PAC 学习](../conferences/icml-2026/cards/0101-0200.md#avital26a-theory-statistics) · Learning Partial Concept Classes and Universal Rates Under Massart Noise
-- [公平选址](../conferences/icml-2026/cards/0101-0200.md#aziz26a-theory-statistics) · Fair Transit Stop Placement: A Clustering Perspective and Beyond
 - [联邦因果发现](../conferences/icml-2026/cards/0101-0200.md#baldo26a-theory-statistics) · Regret-Based Federated Causal Discovery with Unknown Interventions
 - [拟阵算法成本](../conferences/icml-2026/cards/0201-0300.md#banihashem26d-theory-statistics) · Matroid Algorithms Under Size-Sensitive Independence Oracles
 - [两样本检验](../conferences/icml-2026/cards/0201-0300.md#bansal26a-theory-statistics) · Conformal C2ST: Turning weak classifiers into strong two-sample tests
@@ -225,7 +222,6 @@
 - [统计复杂度收缩](../conferences/icml-2026/cards/0201-0300.md#block26b-theory-statistics) · On Contraction of Sequential and Offset Rademacher Complexities
 - [模型后门理论](../conferences/icml-2026/cards/0301-0400.md#bogdanov26a-theory-statistics) · Statistically Undetectable Backdoors in Deep Neural Networks
 - [注意力理论](../conferences/icml-2026/cards/0301-0400.md#bohbot26a-theory-statistics) · Token Sample Complexity of Attention
-- [在线机制设计](../conferences/icml-2026/cards/0301-0400.md#bollini26b-theory-statistics) · Online Contract Design With Unknown Technology
 - [隐私定义](../conferences/icml-2026/cards/0301-0400.md#bon26a-theory-statistics) · Persuasive Privacy
 - [注意力谱分析](../conferences/icml-2026/cards/0301-0400.md#boncoraglio26a-theory-statistics) · Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws
 - [鲁棒分布式学习](../conferences/icml-2026/cards/0301-0400.md#boudou26a-theory-statistics) · Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning
@@ -588,9 +584,7 @@
 
 ### 图学习与推荐
 
-- [相关聚类](../conferences/icml-2026/cards/0001-0100.md#adriaens26a-theory-statistics) · Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering
 - [图神经网络理论](../conferences/icml-2026/cards/0001-0100.md#amran26a-theory-statistics) · A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation
-- [拍卖中的预测改进](../conferences/icml-2026/cards/0101-0200.md#badanidiyuru26a-theory-statistics) · Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?
 - [知识图谱链路预测](../conferences/icml-2026/cards/0101-0200.md#badreddine26a-theory-statistics) · On the Theoretical Limitations of Embedding-based Link Prediction
 - [关系嵌入表达力](../conferences/icml-2026/cards/0401-0500.md#charpenay26a-theory-statistics) · Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models
 - [用匹配决策约束边权多重校准](../conferences/icml-2026/cards/0701-0800.md#colini-baldeschi26a-theory-statistics) · Multicalibration Yields Better Matchings
@@ -617,7 +611,6 @@
 ### 科学机器学习
 
 - [密度比估计](../conferences/icml-2026/cards/0101-0200.md#antipov26a-theory-statistics) · Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics
-- [量子稀疏依赖学习](../conferences/icml-2026/cards/0201-0300.md#bao26a-theory-statistics) · Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits
 - [群体动力学反演](../conferences/icml-2026/cards/0201-0300.md#berman26a-theory-statistics) · Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems
 - [多病风险的贝叶斯超图](../conferences/icml-2026/cards/0901-1000.md#ding26c-theory-statistics) · Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference
 - [部分可识别的治疗分配风险](../conferences/icml-2026/cards/1001-1100.md#ek26a-theory-statistics) · Learning Treatment Allocations with Risk Control Under Partial Identifiability

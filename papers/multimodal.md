@@ -388,7 +388,6 @@
 ### 评测与诊断
 
 - <a id="azulay26a-evaluation"></a>[Jailbreaking Vision-Language Models Through the Visual Modality](../conferences/icml-2026/cards/0101-0200.md#paper-azulay26a)
-- <a id="borchmann26a-evaluation"></a>[Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](../conferences/icml-2026/cards/0301-0400.md#paper-borchmann26a)
 - <a id="bouguerra26a-evaluation"></a>[Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](../conferences/icml-2026/cards/0301-0400.md#paper-bouguerra26a)
 - <a id="cao26i-evaluation"></a>[UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](../conferences/icml-2026/cards/0301-0400.md#paper-cao26i)
 - <a id="cao26v-evaluation"></a>[T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](../conferences/icml-2026/cards/0401-0500.md#paper-cao26v)

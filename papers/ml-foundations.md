@@ -162,12 +162,10 @@
 
 ### 优化
 
-- <a id="abbas26a-optimization"></a>[QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](../conferences/icml-2026/cards/0001-0100.md#paper-abbas26a)
 - <a id="abe26a-optimization"></a>[Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](../conferences/icml-2026/cards/0001-0100.md#paper-abe26a)
 - <a id="ackermann26b-optimization"></a>[Bridging Spherical Black-Box Optimizers](../conferences/icml-2026/cards/0001-0100.md#paper-ackermann26b)
 - <a id="adnan26a-optimization"></a>[SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](../conferences/icml-2026/cards/0001-0100.md#paper-adnan26a)
 - <a id="afriat26a-optimization"></a>[A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](../conferences/icml-2026/cards/0001-0100.md#paper-afriat26a)
-- <a id="agarwal26d-optimization"></a>[An Efficient Joint Learning Approach for Item Response Theory](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26d)
 - <a id="aguie26a-optimization"></a>[Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](../conferences/icml-2026/cards/0001-0100.md#paper-aguie26a)
 - <a id="alimisis26a-optimization"></a>[Why Do We Need Warm-up? A Theoretical Perspective](../conferences/icml-2026/cards/0001-0100.md#paper-alimisis26a)
 - <a id="amidzadeh26a-optimization"></a>[Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems](../conferences/icml-2026/cards/0001-0100.md#paper-amidzadeh26a)
@@ -659,7 +657,6 @@
 
 - <a id="aczel26a-theory-statistics"></a>[Efficient Bayesian Inference from Noisy Pairwise Comparisons](../conferences/icml-2026/cards/0001-0100.md#paper-aczel26a)
 - <a id="adler26a-theory-statistics"></a>[A Capacity-Based Rationale for Multi-Head Attention](../conferences/icml-2026/cards/0001-0100.md#paper-adler26a)
-- <a id="agarwal26b-theory-statistics"></a>[Fast Reconstruction of Mixtures of Bernoulli Product Distributions](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26b)
 - <a id="agarwal26c-theory-statistics"></a>[Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26c)
 - <a id="aiyer26a-theory-statistics"></a>[A Theoretical Framework for Statistical Evaluability of Generative Models](../conferences/icml-2026/cards/0001-0100.md#paper-aiyer26a)
 - <a id="alacaoglu26a-theory-statistics"></a>[Solving Stochastic Variational Inequalities without the Bounded Variance Assumption](../conferences/icml-2026/cards/0001-0100.md#paper-alacaoglu26a)
@@ -678,7 +675,6 @@
 - <a id="ashouritaklimi26a-theory-statistics"></a>[Robust Bayes-Assisted Conformal Prediction](../conferences/icml-2026/cards/0101-0200.md#paper-ashouritaklimi26a)
 - <a id="asi26a-theory-statistics"></a>[Fast and Near-Optimal Algorithms for Private Hypothesis Selection](../conferences/icml-2026/cards/0101-0200.md#paper-asi26a)
 - <a id="avital26a-theory-statistics"></a>[Learning Partial Concept Classes and Universal Rates Under Massart Noise](../conferences/icml-2026/cards/0101-0200.md#paper-avital26a)
-- <a id="aziz26a-theory-statistics"></a>[Fair Transit Stop Placement: A Clustering Perspective and Beyond](../conferences/icml-2026/cards/0101-0200.md#paper-aziz26a)
 - <a id="baldo26a-theory-statistics"></a>[Regret-Based Federated Causal Discovery with Unknown Interventions](../conferences/icml-2026/cards/0101-0200.md#paper-baldo26a)
 - <a id="banihashem26d-theory-statistics"></a>[Matroid Algorithms Under Size-Sensitive Independence Oracles](../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26d)
 - <a id="bansal26a-theory-statistics"></a>[Conformal C2ST: Turning weak classifiers into strong two-sample tests](../conferences/icml-2026/cards/0201-0300.md#paper-bansal26a)
@@ -699,7 +695,6 @@
 - <a id="block26b-theory-statistics"></a>[On Contraction of Sequential and Offset Rademacher Complexities](../conferences/icml-2026/cards/0201-0300.md#paper-block26b)
 - <a id="bogdanov26a-theory-statistics"></a>[Statistically Undetectable Backdoors in Deep Neural Networks](../conferences/icml-2026/cards/0301-0400.md#paper-bogdanov26a)
 - <a id="bohbot26a-theory-statistics"></a>[Token Sample Complexity of Attention](../conferences/icml-2026/cards/0301-0400.md#paper-bohbot26a)
-- <a id="bollini26b-theory-statistics"></a>[Online Contract Design With Unknown Technology](../conferences/icml-2026/cards/0301-0400.md#paper-bollini26b)
 - <a id="bon26a-theory-statistics"></a>[Persuasive Privacy](../conferences/icml-2026/cards/0301-0400.md#paper-bon26a)
 - <a id="boncoraglio26a-theory-statistics"></a>[Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws](../conferences/icml-2026/cards/0301-0400.md#paper-boncoraglio26a)
 - <a id="boudou26a-theory-statistics"></a>[Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning](../conferences/icml-2026/cards/0301-0400.md#paper-boudou26a)

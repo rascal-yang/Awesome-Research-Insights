@@ -164,12 +164,10 @@
 
 ### 机器学习基础与统计
 
-- [约束优化](../conferences/icml-2026/cards/0001-0100.md#abbas26a-optimization) · QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses
 - [极小极大优化](../conferences/icml-2026/cards/0001-0100.md#abe26a-optimization) · Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization
 - [黑盒优化](../conferences/icml-2026/cards/0001-0100.md#ackermann26b-optimization) · Bridging Spherical Black-Box Optimizers
 - [动态稀疏训练](../conferences/icml-2026/cards/0001-0100.md#adnan26a-optimization) · SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training
 - [一次性剪枝](../conferences/icml-2026/cards/0001-0100.md#afriat26a-optimization) · A Robust Optimization Guided Pruning Framework for Vision and Large Language Models
-- [项目反应理论](../conferences/icml-2026/cards/0001-0100.md#agarwal26d-optimization) · An Efficient Joint Learning Approach for Item Response Theory
 - [分布式主成分分析](../conferences/icml-2026/cards/0001-0100.md#aguie26a-optimization) · Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA
 - [学习率预热](../conferences/icml-2026/cards/0001-0100.md#alimisis26a-optimization) · Why Do We Need Warm-up? A Theoretical Perspective
 - [时变随机优化](../conferences/icml-2026/cards/0001-0100.md#amidzadeh26a-optimization) · Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems

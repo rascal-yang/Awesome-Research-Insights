@@ -400,7 +400,6 @@
 ### 评测与诊断
 
 - <a id="alfarano26a-evaluation"></a>[Improving ML Attacks on LWE with Data Repetition and Stepwise Regression](../conferences/icml-2026/cards/0001-0100.md#paper-alfarano26a)
-- <a id="amalan26a-evaluation"></a>[MalTree: Tracing Malware Evolution from Embeddings at Scale](../conferences/icml-2026/cards/0001-0100.md#paper-amalan26a)
 - <a id="bahrini26a-evaluation"></a>[When Can We Trust Survival Model Evaluation ?](../conferences/icml-2026/cards/0101-0200.md#paper-bahrini26a)
 - <a id="bai26a-evaluation"></a>[Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](../conferences/icml-2026/cards/0101-0200.md#paper-bai26a)
 - <a id="cao26g-evaluation"></a>[SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](../conferences/icml-2026/cards/0301-0400.md#paper-cao26g)
@@ -442,7 +441,6 @@
 ### 理论与统计
 
 - <a id="antipov26a-theory-statistics"></a>[Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](../conferences/icml-2026/cards/0101-0200.md#paper-antipov26a)
-- <a id="bao26a-theory-statistics"></a>[Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](../conferences/icml-2026/cards/0201-0300.md#paper-bao26a)
 - <a id="berman26a-theory-statistics"></a>[Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../conferences/icml-2026/cards/0201-0300.md#paper-berman26a)
 - <a id="ding26c-theory-statistics"></a>[Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../conferences/icml-2026/cards/0901-1000.md#paper-ding26c)
 - <a id="ek26a-theory-statistics"></a>[Learning Treatment Allocations with Risk Control Under Partial Identifiability](../conferences/icml-2026/cards/1001-1100.md#paper-ek26a)

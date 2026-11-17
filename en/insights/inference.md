@@ -19,7 +19,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [Compute Where it Counts: Self Optimizing Language Models](../../conferences/icml-2026/cards/0001-0100.md#akhauri26a-inference) · 中文
 - [Scaling Small Agents Through Strategy Auctions](../../conferences/icml-2026/cards/0001-0100.md#alazraki26a-inference) · 中文
 - [LLM Self-Recognition: Steering and Retrieving Activation Signatures](../../conferences/icml-2026/cards/0101-0200.md#ardoin26a-inference) · 中文
-- [RedDebate: Safer Responses Through Multi-Agent Red Teaming Debates](../../conferences/icml-2026/cards/0101-0200.md#asad26a-inference) · 中文
 - [PRISM: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](../../conferences/icml-2026/cards/0101-0200.md#bai26f-inference) · 中文
 - [Alignment-Aware Decoding](../../conferences/icml-2026/cards/0201-0300.md#berdoz26a-inference) · 中文
 - [STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control](../../conferences/icml-2026/cards/0201-0300.md#bhatnagar26a-inference) · 中文

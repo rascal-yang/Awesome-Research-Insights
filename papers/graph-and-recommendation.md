@@ -198,9 +198,7 @@
 
 ### 理论与统计
 
-- <a id="adriaens26a-theory-statistics"></a>[Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](../conferences/icml-2026/cards/0001-0100.md#paper-adriaens26a)
 - <a id="amran26a-theory-statistics"></a>[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](../conferences/icml-2026/cards/0001-0100.md#paper-amran26a)
-- <a id="badanidiyuru26a-theory-statistics"></a>[Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](../conferences/icml-2026/cards/0101-0200.md#paper-badanidiyuru26a)
 - <a id="badreddine26a-theory-statistics"></a>[On the Theoretical Limitations of Embedding-based Link Prediction](../conferences/icml-2026/cards/0101-0200.md#paper-badreddine26a)
 - <a id="charpenay26a-theory-statistics"></a>[Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](../conferences/icml-2026/cards/0401-0500.md#paper-charpenay26a)
 - <a id="colini-baldeschi26a-theory-statistics"></a>[Multicalibration Yields Better Matchings](../conferences/icml-2026/cards/0701-0800.md#paper-colini-baldeschi26a)

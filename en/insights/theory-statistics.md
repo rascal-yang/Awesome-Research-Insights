@@ -97,7 +97,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Generalized Linear Bandits with Memory](../../conferences/icml-2026/cards/0001-0100.md#ann26a-theory-statistics) · 中文
 - [Minimax-Optimal Policy Regret in Partially Observable Markov Games](../../conferences/icml-2026/cards/0101-0200.md#arora26b-theory-statistics) · 中文
 - [Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](../../conferences/icml-2026/cards/0101-0200.md#balagopalan26a-theory-statistics) · 中文
-- [Learning in Structured Stackelberg Games](../../conferences/icml-2026/cards/0101-0200.md#balcan26a-theory-statistics) · 中文
 - [Bandit Social Learning with Exploration Episodes](../../conferences/icml-2026/cards/0201-0300.md#banihashem26a-theory-statistics) · 中文
 - [Optimal Rates for Feasible Payoff Set Estimation in Games](../../conferences/icml-2026/cards/0201-0300.md#barbara26a-theory-statistics) · 中文
 - [Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](../../conferences/icml-2026/cards/0201-0300.md#benyamine26a-theory-statistics) · 中文
@@ -185,7 +184,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 
 - [Efficient Bayesian Inference from Noisy Pairwise Comparisons](../../conferences/icml-2026/cards/0001-0100.md#aczel26a-theory-statistics) · 中文
 - [A Capacity-Based Rationale for Multi-Head Attention](../../conferences/icml-2026/cards/0001-0100.md#adler26a-theory-statistics) · 中文
-- [Fast Reconstruction of Mixtures of Bernoulli Product Distributions](../../conferences/icml-2026/cards/0001-0100.md#agarwal26b-theory-statistics) · 中文
 - [Sinkhorn Treatment Effects: A Causal Optimal Transport Measure](../../conferences/icml-2026/cards/0001-0100.md#agarwal26c-theory-statistics) · 中文
 - [A Theoretical Framework for Statistical Evaluability of Generative Models](../../conferences/icml-2026/cards/0001-0100.md#aiyer26a-theory-statistics) · 中文
 - [Solving Stochastic Variational Inequalities without the Bounded Variance Assumption](../../conferences/icml-2026/cards/0001-0100.md#alacaoglu26a-theory-statistics) · 中文
@@ -204,7 +202,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Robust Bayes-Assisted Conformal Prediction](../../conferences/icml-2026/cards/0101-0200.md#ashouritaklimi26a-theory-statistics) · 中文
 - [Fast and Near-Optimal Algorithms for Private Hypothesis Selection](../../conferences/icml-2026/cards/0101-0200.md#asi26a-theory-statistics) · 中文
 - [Learning Partial Concept Classes and Universal Rates Under Massart Noise](../../conferences/icml-2026/cards/0101-0200.md#avital26a-theory-statistics) · 中文
-- [Fair Transit Stop Placement: A Clustering Perspective and Beyond](../../conferences/icml-2026/cards/0101-0200.md#aziz26a-theory-statistics) · 中文
 - [Regret-Based Federated Causal Discovery with Unknown Interventions](../../conferences/icml-2026/cards/0101-0200.md#baldo26a-theory-statistics) · 中文
 - [Matroid Algorithms Under Size-Sensitive Independence Oracles](../../conferences/icml-2026/cards/0201-0300.md#banihashem26d-theory-statistics) · 中文
 - [Conformal C2ST: Turning weak classifiers into strong two-sample tests](../../conferences/icml-2026/cards/0201-0300.md#bansal26a-theory-statistics) · 中文
@@ -225,7 +222,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On Contraction of Sequential and Offset Rademacher Complexities](../../conferences/icml-2026/cards/0201-0300.md#block26b-theory-statistics) · 中文
 - [Statistically Undetectable Backdoors in Deep Neural Networks](../../conferences/icml-2026/cards/0301-0400.md#bogdanov26a-theory-statistics) · 中文
 - [Token Sample Complexity of Attention](../../conferences/icml-2026/cards/0301-0400.md#bohbot26a-theory-statistics) · 中文
-- [Online Contract Design With Unknown Technology](../../conferences/icml-2026/cards/0301-0400.md#bollini26b-theory-statistics) · 中文
 - [Persuasive Privacy](../../conferences/icml-2026/cards/0301-0400.md#bon26a-theory-statistics) · 中文
 - [Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws](../../conferences/icml-2026/cards/0301-0400.md#boncoraglio26a-theory-statistics) · 中文
 - [Tight Stability Bounds for Robust Distributed Learning: Byzantine Failures Hurt Generalization More than Data Poisoning](../../conferences/icml-2026/cards/0301-0400.md#boudou26a-theory-statistics) · 中文
@@ -588,9 +584,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 
 ### Graph Learning and Recommendation
 
-- [Simple Algorithms for Bad Triangle Transversals with Applications to Correlation Clustering](../../conferences/icml-2026/cards/0001-0100.md#adriaens26a-theory-statistics) · 中文
 - [A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](../../conferences/icml-2026/cards/0001-0100.md#amran26a-theory-statistics) · 中文
-- [Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?](../../conferences/icml-2026/cards/0101-0200.md#badanidiyuru26a-theory-statistics) · 中文
 - [On the Theoretical Limitations of Embedding-based Link Prediction](../../conferences/icml-2026/cards/0101-0200.md#badreddine26a-theory-statistics) · 中文
 - [Faithful Relational Reasoning with Region-based Embeddings: Expressivity of Convex Coordinate-wise Models](../../conferences/icml-2026/cards/0401-0500.md#charpenay26a-theory-statistics) · 中文
 - [Multicalibration Yields Better Matchings](../../conferences/icml-2026/cards/0701-0800.md#colini-baldeschi26a-theory-statistics) · 中文
@@ -617,7 +611,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 ### Scientific Machine Learning
 
 - [Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics](../../conferences/icml-2026/cards/0101-0200.md#antipov26a-theory-statistics) · 中文
-- [Learning Junta Distributions, Quantum Junta States, and QAC$^0$ Circuits](../../conferences/icml-2026/cards/0201-0300.md#bao26a-theory-statistics) · 中文
 - [Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems](../../conferences/icml-2026/cards/0201-0300.md#berman26a-theory-statistics) · 中文
 - [Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference](../../conferences/icml-2026/cards/0901-1000.md#ding26c-theory-statistics) · 中文
 - [Learning Treatment Allocations with Risk Control Under Partial Identifiability](../../conferences/icml-2026/cards/1001-1100.md#ek26a-theory-statistics) · 中文

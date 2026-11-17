@@ -19,7 +19,6 @@
 - [动态推理预算](../conferences/icml-2026/cards/0001-0100.md#akhauri26a-inference) · Compute Where it Counts: Self Optimizing Language Models
 - [小模型 Agent 路由](../conferences/icml-2026/cards/0001-0100.md#alazraki26a-inference) · Scaling Small Agents Through Strategy Auctions
 - [模型文本溯源](../conferences/icml-2026/cards/0101-0200.md#ardoin26a-inference) · LLM Self-Recognition: Steering and Retrieving Activation Signatures
-- [多 Agent 红队](../conferences/icml-2026/cards/0101-0200.md#asad26a-inference) · RedDebate: Safer Responses Through Multi-Agent Red Teaming Debates
 - [离散扩散搜索](../conferences/icml-2026/cards/0101-0200.md#bai26f-inference) · PRISM: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models
 - [偏好对齐解码](../conferences/icml-2026/cards/0201-0300.md#berdoz26a-inference) · Alignment-Aware Decoding
 - [KV 缓存压缩](../conferences/icml-2026/cards/0201-0300.md#bhatnagar26a-inference) · STAR-KV: Low-Rank KV Cache Compression via Soft Thresholding for Adaptive Rank Control

@@ -17,7 +17,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Differential syntactic and semantic encoding in LLMs](../../conferences/icml-2026/cards/0001-0100.md#acevedo26a-evaluation) · 中文
 - [CauSciBench: Can LLMs Automate Causal Inference in Real-World Scientific Research?](../../conferences/icml-2026/cards/0001-0100.md#acharya26a-evaluation) · 中文
 - [Consistency Training Can Entrench Misalignment](../../conferences/icml-2026/cards/0001-0100.md#africa26a-evaluation) · 中文
-- [Evaluating Contextual Illegality: AI Compliance in Corporate Law Scenarios](../../conferences/icml-2026/cards/0001-0100.md#aka26a-evaluation) · 中文
 - [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](../../conferences/icml-2026/cards/0001-0100.md#akhtar26a-evaluation) · 中文
 - [Detecting Fluent Optimization-Based Adversarial Prompts via Sequential Entropy Changes](../../conferences/icml-2026/cards/0001-0100.md#alshaalan26a-evaluation) · 中文
 - [Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth](../../conferences/icml-2026/cards/0001-0100.md#amit26a-evaluation) · 中文
@@ -433,7 +432,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 ### Multimodal Learning
 
 - [Jailbreaking Vision-Language Models Through the Visual Modality](../../conferences/icml-2026/cards/0101-0200.md#azulay26a-evaluation) · 中文
-- [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](../../conferences/icml-2026/cards/0301-0400.md#borchmann26a-evaluation) · 中文
 - [Less Precise Can Be More Reliable: A Systematic Evaluation of Quantization’s Impact on VLMs Beyond Accuracy](../../conferences/icml-2026/cards/0301-0400.md#bouguerra26a-evaluation) · 中文
 - [UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](../../conferences/icml-2026/cards/0301-0400.md#cao26i-evaluation) · 中文
 - [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](../../conferences/icml-2026/cards/0401-0500.md#cao26v-evaluation) · 中文
@@ -594,7 +592,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 ### Scientific Machine Learning
 
 - [Improving ML Attacks on LWE with Data Repetition and Stepwise Regression](../../conferences/icml-2026/cards/0001-0100.md#alfarano26a-evaluation) · 中文
-- [MalTree: Tracing Malware Evolution from Embeddings at Scale](../../conferences/icml-2026/cards/0001-0100.md#amalan26a-evaluation) · 中文
 - [When Can We Trust Survival Model Evaluation ?](../../conferences/icml-2026/cards/0101-0200.md#bahrini26a-evaluation) · 中文
 - [Op-CAD: Benchmarking and Investigating Operation-oriented CAD Generation](../../conferences/icml-2026/cards/0101-0200.md#bai26a-evaluation) · 中文
 - [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](../../conferences/icml-2026/cards/0301-0400.md#cao26g-evaluation) · 中文

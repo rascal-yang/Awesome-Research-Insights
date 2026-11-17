@@ -267,7 +267,6 @@
 - <a id="ann26a-theory-statistics"></a>[Generalized Linear Bandits with Memory](../conferences/icml-2026/cards/0001-0100.md#paper-ann26a)
 - <a id="arora26b-theory-statistics"></a>[Minimax-Optimal Policy Regret in Partially Observable Markov Games](../conferences/icml-2026/cards/0101-0200.md#paper-arora26b)
 - <a id="balagopalan26a-theory-statistics"></a>[Fixed Budget is No Harder Than Fixed Confidence in Best-Arm Identification up to Logarithmic Factors](../conferences/icml-2026/cards/0101-0200.md#paper-balagopalan26a)
-- <a id="balcan26a-theory-statistics"></a>[Learning in Structured Stackelberg Games](../conferences/icml-2026/cards/0101-0200.md#paper-balcan26a)
 - <a id="banihashem26a-theory-statistics"></a>[Bandit Social Learning with Exploration Episodes](../conferences/icml-2026/cards/0201-0300.md#paper-banihashem26a)
 - <a id="barbara26a-theory-statistics"></a>[Optimal Rates for Feasible Payoff Set Estimation in Games](../conferences/icml-2026/cards/0201-0300.md#paper-barbara26a)
 - <a id="benyamine26a-theory-statistics"></a>[Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](../conferences/icml-2026/cards/0201-0300.md#paper-benyamine26a)

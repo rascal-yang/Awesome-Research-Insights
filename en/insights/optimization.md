@@ -164,12 +164,10 @@ Gradient updates, parameterization, and optimization dynamics.
 
 ### Machine Learning Foundations and Statistics
 
-- [QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](../../conferences/icml-2026/cards/0001-0100.md#abbas26a-optimization) · 中文
 - [Asymmetric Perturbation in Solving Bilinear Saddle-Point Optimization](../../conferences/icml-2026/cards/0001-0100.md#abe26a-optimization) · 中文
 - [Bridging Spherical Black-Box Optimizers](../../conferences/icml-2026/cards/0001-0100.md#ackermann26b-optimization) · 中文
 - [SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training](../../conferences/icml-2026/cards/0001-0100.md#adnan26a-optimization) · 中文
 - [A Robust Optimization Guided Pruning Framework for Vision and Large Language Models](../../conferences/icml-2026/cards/0001-0100.md#afriat26a-optimization) · 中文
-- [An Efficient Joint Learning Approach for Item Response Theory](../../conferences/icml-2026/cards/0001-0100.md#agarwal26d-optimization) · 中文
 - [Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA](../../conferences/icml-2026/cards/0001-0100.md#aguie26a-optimization) · 中文
 - [Why Do We Need Warm-up? A Theoretical Perspective](../../conferences/icml-2026/cards/0001-0100.md#alimisis26a-optimization) · 中文
 - [Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems](../../conferences/icml-2026/cards/0001-0100.md#amidzadeh26a-optimization) · 中文
