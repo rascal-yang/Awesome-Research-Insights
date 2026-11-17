@@ -32,6 +32,7 @@
 - <a id="guo26af-modules"></a>[DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](../conferences/icml-2026/cards/1401-1500.md#paper-guo26af)
 - <a id="han26aa-modules"></a>[Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport](../conferences/icml-2026/cards/1401-1500.md#paper-han26aa)
 - <a id="he26b-modules"></a>[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](../conferences/icml-2026/cards/1401-1500.md#paper-he26b)
+- <a id="hong26g-modules"></a>[Unified Multimodal Visual Tracking with Dual Mixture-of-Experts](../conferences/icml-2026/cards/1501-1600.md#paper-hong26g)
 
 <a id="by-loss-functions"></a>
 
@@ -76,6 +77,7 @@
 - <a id="han26ac-reinforcement-learning"></a>[Omni-Perception Policy Optimization for Multimodal Emotion Reasoning](../conferences/icml-2026/cards/1401-1500.md#paper-han26ac)
 - <a id="he26e-reinforcement-learning"></a>[DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models](../conferences/icml-2026/cards/1401-1500.md#paper-he26e)
 - <a id="he26j-reinforcement-learning"></a>[Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization](../conferences/icml-2026/cards/1501-1600.md#paper-he26j)
+- <a id="he26av-reinforcement-learning"></a>[RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation](../conferences/icml-2026/cards/1501-1600.md#paper-he26av)
 
 <a id="by-training-strategies"></a>
 
@@ -92,6 +94,7 @@
 - <a id="feng26m-training-strategies"></a>[Multimodal Nested Learning for Decoupled and Coordinated Optimization](../conferences/icml-2026/cards/1101-1200.md#paper-feng26m)
 - <a id="guan26c-training-strategies"></a>[From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](../conferences/icml-2026/cards/1301-1400.md#paper-guan26c)
 - <a id="guo26aj-training-strategies"></a>[ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](../conferences/icml-2026/cards/1401-1500.md#paper-guo26aj)
+- <a id="hong26b-training-strategies"></a>[Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness](../conferences/icml-2026/cards/1501-1600.md#paper-hong26b)
 
 <a id="by-data-strategies"></a>
 
@@ -147,6 +150,8 @@
 - <a id="hasanebrahimi26a-inference"></a>[Density-Aware Translation of Spurious Correlations in Zero-Shot VLMs](../conferences/icml-2026/cards/1401-1500.md#paper-hasanebrahimi26a)
 - <a id="he26c-inference"></a>[VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding](../conferences/icml-2026/cards/1401-1500.md#paper-he26c)
 - <a id="he26g-inference"></a>[Self-Prophetic Decoding to Unlock Visual Search in LVLMs](../conferences/icml-2026/cards/1401-1500.md#paper-he26g)
+- <a id="hong26k-inference"></a>[Mitigating Mask Prior Drift and Positional Attention Collapse in Large Diffusion Vision-Language Models](../conferences/icml-2026/cards/1501-1600.md#paper-hong26k)
+- <a id="hsin-ying26a-inference"></a>[MotiMotion: Motion-Controlled Video Generation with Visual Reasoning](../conferences/icml-2026/cards/1601-1700.md#paper-hsin-ying26a)
 
 <a id="by-representation-learning"></a>
 
@@ -161,6 +166,9 @@
 - <a id="fu26p-representation-learning"></a>[ObjEmbed: Towards Universal Multimodal Object Embeddings](../conferences/icml-2026/cards/1101-1200.md#paper-fu26p)
 - <a id="guan26e-representation-learning"></a>[TimeOmni-VL: Unified Models for Time Series Understanding and Generation](../conferences/icml-2026/cards/1301-1400.md#paper-guan26e)
 - <a id="he26s-representation-learning"></a>[DSGCR: Decomposed Spectral Geometry-Aware Cross-Modal Semantic Representation for 3D Visual Grounding](../conferences/icml-2026/cards/1501-1600.md#paper-he26s)
+- <a id="heinrich26a-representation-learning"></a>[RADIO1D: Elastic Representations for Condensed Vision Modeling](../conferences/icml-2026/cards/1501-1600.md#paper-heinrich26a)
+- <a id="hong26d-representation-learning"></a>[TextME: Bridging Unseen Modalities Through Text Descriptions](../conferences/icml-2026/cards/1501-1600.md#paper-hong26d)
+- <a id="hu26a-representation-learning"></a>[ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding](../conferences/icml-2026/cards/1601-1700.md#paper-hu26a)
 
 <a id="by-evaluation"></a>
 
@@ -193,6 +201,8 @@
 - <a id="gong26a-evaluation"></a>[VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](../conferences/icml-2026/cards/1301-1400.md#paper-gong26a)
 - <a id="guo26q-evaluation"></a>[CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](../conferences/icml-2026/cards/1301-1400.md#paper-guo26q)
 - <a id="he26n-evaluation"></a>[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](../conferences/icml-2026/cards/1501-1600.md#paper-he26n)
+- <a id="hoang26b-evaluation"></a>[The Abstraction Gap in Vision-Language Causal Reasoning](../conferences/icml-2026/cards/1501-1600.md#paper-hoang26b)
+- <a id="hou26h-evaluation"></a>[When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../conferences/icml-2026/cards/1601-1700.md#paper-hou26h)
 
 <a id="by-theory-statistics"></a>
 

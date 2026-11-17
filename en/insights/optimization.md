@@ -35,6 +35,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs](../../conferences/icml-2026/cards/1301-1400.md#gordon26b-optimization) · 中文
 - [OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability](../../conferences/icml-2026/cards/1401-1500.md#he26a-optimization) · 中文
 - [One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](../../conferences/icml-2026/cards/1501-1600.md#he26ak-optimization) · 中文
+- [Factored Gossip DiLoCo: Reducing Blocking Communication in DiLoCo](../../conferences/icml-2026/cards/1501-1600.md#hewa-koneputugodage26a-optimization) · 中文
+- [MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks](../../conferences/icml-2026/cards/1501-1600.md#hong26l-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -46,6 +48,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture](../../conferences/icml-2026/cards/0901-1000.md#ding26p-optimization) · 中文
 - [Navigating the Flatlands: Dual Adaptive Sharpness-Aware Minimization for Domain Generalization](../../conferences/icml-2026/cards/1501-1600.md#he26m-optimization) · 中文
 - [Newton-coupled Dual-Teacher Semi-supervised Learning Framework](../../conferences/icml-2026/cards/1501-1600.md#he26ad-optimization) · 中文
+- [AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing](../../conferences/icml-2026/cards/1501-1600.md#hong26c-optimization) · 中文
+- [3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](../../conferences/icml-2026/cards/1601-1700.md#hsiao26a-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -190,6 +194,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning](../../conferences/icml-2026/cards/1401-1500.md#hata26a-optimization) · 中文
 - [Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching](../../conferences/icml-2026/cards/1401-1500.md#haxholli26a-optimization) · 中文
 - [Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](../../conferences/icml-2026/cards/1501-1600.md#he26h-optimization) · 中文
+- [From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets](../../conferences/icml-2026/cards/1501-1600.md#heile26a-optimization) · 中文
+- [Ambiguous Strategic Classification](../../conferences/icml-2026/cards/1501-1600.md#hikri26a-optimization) · 中文
+- [Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization](../../conferences/icml-2026/cards/1501-1600.md#hood26a-optimization) · 中文
+- [Gromov-Wasserstein at Scale, Beyond Squared Norms](../../conferences/icml-2026/cards/1601-1700.md#houry26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -200,6 +208,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Differentially Private Range Subgraph Counting](../../conferences/icml-2026/cards/0401-0500.md#chen26b-optimization) · 中文
 - [What Makes a Desired Graph for Relational Deep Learning?](../../conferences/icml-2026/cards/0601-0700.md#cheng26j-optimization) · 中文
 - [Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../../conferences/icml-2026/cards/1401-1500.md#gupta26b-optimization) · 中文
+- [Neural Dispersion on Graphs](../../conferences/icml-2026/cards/1601-1700.md#hosseini26b-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -215,4 +224,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](../../conferences/icml-2026/cards/1401-1500.md#guoze26a-optimization) · 中文
 - [Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](../../conferences/icml-2026/cards/1401-1500.md#gutjahr26a-optimization) · 中文
 - [Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../../conferences/icml-2026/cards/1401-1500.md#haddadnia26a-optimization) · 中文
+- [Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search](../../conferences/icml-2026/cards/1501-1600.md#he26bb-optimization) · 中文
+- [LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs](../../conferences/icml-2026/cards/1601-1700.md#hou26d-optimization) · 中文
 <!-- classification:end -->

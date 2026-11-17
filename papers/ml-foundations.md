@@ -31,6 +31,8 @@
 - <a id="freinschlag26a-architecture"></a>[Symbol-Equivariant Recurrent Reasoning Models](../conferences/icml-2026/cards/1101-1200.md#paper-freinschlag26a)
 - <a id="gerdes26a-architecture"></a>[Analytic Bijections for Smooth and Interpretable Normalizing Flows](../conferences/icml-2026/cards/1201-1300.md#paper-gerdes26a)
 - <a id="graf26a-architecture"></a>[FlowState: Sampling-Rate-Equivariant Time-Series Forecasting](../conferences/icml-2026/cards/1301-1400.md#paper-graf26a)
+- <a id="he26ax-architecture"></a>[Learning Permutation Distributions via Reflected Diffusion on Ranks](../conferences/icml-2026/cards/1501-1600.md#paper-he26ax)
+- <a id="hoang26a-architecture"></a>[Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks](../conferences/icml-2026/cards/1501-1600.md#paper-hoang26a)
 
 <a id="by-modules"></a>
 
@@ -198,6 +200,10 @@
 - <a id="hata26a-optimization"></a>[Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning](../conferences/icml-2026/cards/1401-1500.md#paper-hata26a)
 - <a id="haxholli26a-optimization"></a>[Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching](../conferences/icml-2026/cards/1401-1500.md#paper-haxholli26a)
 - <a id="he26h-optimization"></a>[Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](../conferences/icml-2026/cards/1501-1600.md#paper-he26h)
+- <a id="heile26a-optimization"></a>[From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets](../conferences/icml-2026/cards/1501-1600.md#paper-heile26a)
+- <a id="hikri26a-optimization"></a>[Ambiguous Strategic Classification](../conferences/icml-2026/cards/1501-1600.md#paper-hikri26a)
+- <a id="hood26a-optimization"></a>[Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization](../conferences/icml-2026/cards/1501-1600.md#paper-hood26a)
+- <a id="houry26a-optimization"></a>[Gromov-Wasserstein at Scale, Beyond Squared Norms](../conferences/icml-2026/cards/1601-1700.md#paper-houry26a)
 
 <a id="by-training-strategies"></a>
 
@@ -240,6 +246,8 @@
 - <a id="han26x-training-strategies"></a>[$\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers](../conferences/icml-2026/cards/1401-1500.md#paper-han26x)
 - <a id="he26f-training-strategies"></a>[Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning](../conferences/icml-2026/cards/1401-1500.md#paper-he26f)
 - <a id="he26p-training-strategies"></a>[FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping](../conferences/icml-2026/cards/1501-1600.md#paper-he26p)
+- <a id="hong26e-training-strategies"></a>[Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation](../conferences/icml-2026/cards/1501-1600.md#paper-hong26e)
+- <a id="horoi26a-training-strategies"></a>[From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../conferences/icml-2026/cards/1501-1600.md#paper-horoi26a)
 
 <a id="by-data-strategies"></a>
 
@@ -276,6 +284,8 @@
 - <a id="gieselmann26a-inference"></a>[Efficient Test-time Inference for Generative Planning Models with OCL Search](../conferences/icml-2026/cards/1201-1300.md#paper-gieselmann26a)
 - <a id="gu26j-inference"></a>[Precision-Induced Miscalibration: Understanding and Correcting Confidence Distortion in Quantized Neural Networks](../conferences/icml-2026/cards/1301-1400.md#paper-gu26j)
 - <a id="guo26m-inference"></a>[FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology](../conferences/icml-2026/cards/1301-1400.md#paper-guo26m)
+- <a id="hiranaka26a-inference"></a>[Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization](../conferences/icml-2026/cards/1501-1600.md#paper-hiranaka26a)
+- <a id="hirth26a-inference"></a>[Denoising without Diffusion: Fixed-Noise Denoiser Anomaly Detection in Tabular Data](../conferences/icml-2026/cards/1501-1600.md#paper-hirth26a)
 
 <a id="by-representation-learning"></a>
 
@@ -296,6 +306,8 @@
 - <a id="girrbach26a-representation-learning"></a>[Sparse Autoencoders are Topic Models](../conferences/icml-2026/cards/1201-1300.md#paper-girrbach26a)
 - <a id="gogl26a-representation-learning"></a>[Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture – Bridging Predictive and Generative Self-Supervised Learning](../conferences/icml-2026/cards/1201-1300.md#paper-gogl26a)
 - <a id="guo26an-representation-learning"></a>[Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](../conferences/icml-2026/cards/1401-1500.md#paper-guo26an)
+- <a id="heo26a-representation-learning"></a>[What Linear Probes Miss: Multi-View Probing for Weight-Space Learning](../conferences/icml-2026/cards/1501-1600.md#paper-heo26a)
+- <a id="hromadka26a-representation-learning"></a>[Maximum-Likelihood Learning of Latent Dynamics Without Reconstruction](../conferences/icml-2026/cards/1601-1700.md#paper-hromadka26a)
 
 <a id="by-evaluation"></a>
 
@@ -503,4 +515,10 @@
 - <a id="he26q-theory-statistics"></a>[The Accumulation of Score Estimation Error in Diffusion Models](../conferences/icml-2026/cards/1501-1600.md#paper-he26q)
 - <a id="he26t-theory-statistics"></a>[Approximation Error Upper and Lower Bounds for Hölder Class with Transformers](../conferences/icml-2026/cards/1501-1600.md#paper-he26t)
 - <a id="he26ah-theory-statistics"></a>[Sequential Kernel-based Conditional Independence Testing via Adaptive Betting](../conferences/icml-2026/cards/1501-1600.md#paper-he26ah)
+- <a id="hehl26a-theory-statistics"></a>[Neural Feature Geometry Evolves as Discrete Ricci Flow](../conferences/icml-2026/cards/1501-1600.md#paper-hehl26a)
+- <a id="heurtebise26a-theory-statistics"></a>[Multi-View Causal Discovery without Non-Gaussianity: Identifiability and Algorithms](../conferences/icml-2026/cards/1501-1600.md#paper-heurtebise26a)
+- <a id="hieu26a-theory-statistics"></a>[A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning](../conferences/icml-2026/cards/1501-1600.md#paper-hieu26a)
+- <a id="hogsgaard26a-theory-statistics"></a>[The Interplay Between Interpolation and Aggregation in Regression: Optimal Sample Complexity](../conferences/icml-2026/cards/1501-1600.md#paper-hogsgaard26a)
+- <a id="hogsgaard26b-theory-statistics"></a>[The Optimal Sample Complexity of Linear Contracts](../conferences/icml-2026/cards/1501-1600.md#paper-hogsgaard26b)
+- <a id="hsu26a-theory-statistics"></a>[The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning](../conferences/icml-2026/cards/1601-1700.md#paper-hsu26a)
 <!-- classification:end -->

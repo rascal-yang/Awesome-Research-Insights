@@ -136,6 +136,10 @@
 - [从真实补丁提取可复现的代码提速任务](../conferences/icml-2026/cards/1501-1600.md#he26y-evaluation) · SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?
 - [分层测量剪枝造成的生成漂移](../conferences/icml-2026/cards/1501-1600.md#he26ag-evaluation) · Demystifying When Pruning Works via Representation Hierarchies
 - [用跨会话任务检验记忆能否指导行动](../conferences/icml-2026/cards/1501-1600.md#he26am-evaluation) · Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks
+- [用旧模型回答推断新模型基准分](../conferences/icml-2026/cards/1501-1600.md#helm26a-evaluation) · Query-efficient model evaluation using cached responses
+- [按专家实际写入残差的贡献做解释](../conferences/icml-2026/cards/1501-1600.md#herbst26a-evaluation) · The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level
+- [将注入执行和原文保真分别评测](../conferences/icml-2026/cards/1501-1600.md#hermon26a-evaluation) · Security–Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense
+- [放大推理任务向量进行白盒审计](../conferences/icml-2026/cards/1501-1600.md#hopkins26a-evaluation) · Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets
 
 <a id="by-computer-vision"></a>
 
@@ -154,6 +158,8 @@
 - [交互世界模型的统一动作编码](../conferences/icml-2026/cards/1001-1100.md#fang26l-evaluation) · iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework
 - [高斯泼溅资产的变换溯源](../conferences/icml-2026/cards/1401-1500.md#han26t-evaluation) · GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning
 - [用条件熵定位扩散的语义形成窗口](../conferences/icml-2026/cards/1401-1500.md#handke26a-evaluation) · The Entropic Signature of Class Speciation in Diffusion Models
+- [插入抑制证据解释缺席概念](../conferences/icml-2026/cards/1501-1600.md#hesse26a-evaluation) · What is Missing? Explaining Neurons Activated by Absent Concepts
+- [用人工定位上界区分小物体编辑和评审失败](../conferences/icml-2026/cards/1501-1600.md#hong26a-evaluation) · DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model
 
 <a id="by-nlp"></a>
 
@@ -221,6 +227,8 @@
 - [手机 GUI 代理的分能力诊断](../conferences/icml-2026/cards/1301-1400.md#gong26a-evaluation) · VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics
 - [图文一致的训练数据后门评测](../conferences/icml-2026/cards/1301-1400.md#guo26q-evaluation) · CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models
 - [网站开发的交互工作流验证](../conferences/icml-2026/cards/1501-1600.md#he26n-evaluation) · Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification
+- [对同一因果问题分别评估叙述和显式链](../conferences/icml-2026/cards/1501-1600.md#hoang26b-evaluation) · The Abstraction Gap in Vision-Language Causal Reasoning
+- [在图像编辑评估中覆盖视觉指令](../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models
 
 <a id="by-ml-foundations"></a>
 
@@ -262,6 +270,7 @@
 - [缺失节点特征的压力测试](../conferences/icml-2026/cards/1101-1200.md#ferrini26a-evaluation) · Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution
 - [图 Mixup 插值质量诊断](../conferences/icml-2026/cards/1101-1200.md#forbat26a-evaluation) · Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods
 - [多模态推荐的同步污染诊断](../conferences/icml-2026/cards/1301-1400.md#guan26b-evaluation) · VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems
+- [用图对齐替身摊薄重复归因开销](../conferences/icml-2026/cards/1501-1600.md#heidari26a-evaluation) · TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions
 
 <a id="by-scientific-ml"></a>
 
@@ -285,4 +294,5 @@
 - [多语言医疗模型的分维度可信评测](../conferences/icml-2026/cards/1201-1300.md#ghosh26b-evaluation) · CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare
 - [视觉皮层映射的神经样本缩放](../conferences/icml-2026/cards/1201-1300.md#gokce26a-evaluation) · Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex
 - [站点天气预报的物理与业务对照](../conferences/icml-2026/cards/1401-1500.md#han26v-evaluation) · Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting
+- [同时核对反演代理的物理耦合和速度](../conferences/icml-2026/cards/1501-1600.md#he26ay-evaluation) · MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition
 <!-- classification:end -->

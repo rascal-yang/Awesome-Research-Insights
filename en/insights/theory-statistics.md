@@ -32,6 +32,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Anytime-Valid Inference for Online Ranking of Large Language Models](../../conferences/icml-2026/cards/1301-1400.md#gu26l-theory-statistics) · 中文
 - [Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing](../../conferences/icml-2026/cards/1301-1400.md#guo26j-theory-statistics) · 中文
 - [Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](../../conferences/icml-2026/cards/1401-1500.md#halder26a-theory-statistics) · 中文
+- [Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling](../../conferences/icml-2026/cards/1501-1600.md#hilton-jones26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -81,6 +82,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Impact of Connectivity on Laplacian Representations in Reinforcement Learning](../../conferences/icml-2026/cards/1201-1300.md#giorgi26a-theory-statistics) · 中文
 - [The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](../../conferences/icml-2026/cards/1301-1400.md#gong26i-theory-statistics) · 中文
 - [Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator](../../conferences/icml-2026/cards/1401-1500.md#han26z-theory-statistics) · 中文
+- [From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#hopkins26b-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -270,6 +272,12 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [The Accumulation of Score Estimation Error in Diffusion Models](../../conferences/icml-2026/cards/1501-1600.md#he26q-theory-statistics) · 中文
 - [Approximation Error Upper and Lower Bounds for Hölder Class with Transformers](../../conferences/icml-2026/cards/1501-1600.md#he26t-theory-statistics) · 中文
 - [Sequential Kernel-based Conditional Independence Testing via Adaptive Betting](../../conferences/icml-2026/cards/1501-1600.md#he26ah-theory-statistics) · 中文
+- [Neural Feature Geometry Evolves as Discrete Ricci Flow](../../conferences/icml-2026/cards/1501-1600.md#hehl26a-theory-statistics) · 中文
+- [Multi-View Causal Discovery without Non-Gaussianity: Identifiability and Algorithms](../../conferences/icml-2026/cards/1501-1600.md#heurtebise26a-theory-statistics) · 中文
+- [A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning](../../conferences/icml-2026/cards/1501-1600.md#hieu26a-theory-statistics) · 中文
+- [The Interplay Between Interpolation and Aggregation in Regression: Optimal Sample Complexity](../../conferences/icml-2026/cards/1501-1600.md#hogsgaard26a-theory-statistics) · 中文
+- [The Optimal Sample Complexity of Linear Contracts](../../conferences/icml-2026/cards/1501-1600.md#hogsgaard26b-theory-statistics) · 中文
+- [The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning](../../conferences/icml-2026/cards/1601-1700.md#hsu26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

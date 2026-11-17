@@ -41,6 +41,9 @@
 - [扩散自编码的非对称语义蒸馏](../conferences/icml-2026/cards/1201-1300.md#gao26ad-representation-learning) · ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning
 - [真实视频中的连续潜动作](../conferences/icml-2026/cards/1201-1300.md#garrido26a-representation-learning) · Learning Latent Action World Models in the Wild
 - [以生成模型适配器编码视频](../conferences/icml-2026/cards/1301-1400.md#guo26e-representation-learning) · Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models
+- [沿码本流形聚合视觉词元](../conferences/icml-2026/cards/1501-1600.md#he26az-representation-learning) · A Flat Vocabulary or a Rich Hierarchy? Re-introducing Intrinsic Structure Transforms the Autoregressive Image Generation
+- [用时序活动筛选脉冲网络突触](../conferences/icml-2026/cards/1501-1600.md#hong26j-representation-learning) · Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning
+- [未知类分布下用关系共识与固定几何锚定位](../conferences/icml-2026/cards/1601-1700.md#hou26e-representation-learning) · Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning
 
 <a id="by-nlp"></a>
 
@@ -77,6 +80,9 @@
 - [对象检索的语义与定位质量嵌入](../conferences/icml-2026/cards/1101-1200.md#fu26p-representation-learning) · ObjEmbed: Towards Universal Multimodal Object Embeddings
 - [时序与图像之间的双向保真映射](../conferences/icml-2026/cards/1301-1400.md#guan26e-representation-learning) · TimeOmni-VL: Unified Models for Time Series Understanding and Generation
 - [将三维成对关系拆为奇偶谱分量](../conferences/icml-2026/cards/1501-1600.md#he26s-representation-learning) · DSGCR: Decomposed Spectral Geometry-Aware Cross-Modal Semantic Representation for 3D Visual Grounding
+- [用随机前缀长度训练弹性视觉表征](../conferences/icml-2026/cards/1501-1600.md#heinrich26a-representation-learning) · RADIO1D: Elastic Representations for Condensed Vision Modeling
+- [用未配对质心偏移把文本投影转给新模态](../conferences/icml-2026/cards/1501-1600.md#hong26d-representation-learning) · TextME: Bridging Unseen Modalities Through Text Descriptions
+- [用软多实例聚合实现词元与区域弱对齐](../conferences/icml-2026/cards/1601-1700.md#hu26a-representation-learning) · ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding
 
 <a id="by-ml-foundations"></a>
 
@@ -97,6 +103,8 @@
 - [稀疏自编码器的主题原子](../conferences/icml-2026/cards/1201-1300.md#girrbach26a-representation-learning) · Sparse Autoencoders are Topic Models
 - [JEPA 的变分潜空间目标](../conferences/icml-2026/cards/1201-1300.md#gogl26a-representation-learning) · Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture – Bridging Predictive and Generative Self-Supervised Learning
 - [缺失视图补全的邻域条件扩散](../conferences/icml-2026/cards/1401-1500.md#guo26an-representation-learning) · Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion
+- [用双轴 Gram 探针消除权重指纹歧义](../conferences/icml-2026/cards/1501-1600.md#heo26a-representation-learning) · What Linear Probes Miss: Multi-View Probing for Weight-Space Learning
+- [只用识别模型向潜状态提供观测证据](../conferences/icml-2026/cards/1601-1700.md#hromadka26a-representation-learning) · Maximum-Likelihood Learning of Latent Dynamics Without Reconstruction
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -134,4 +142,5 @@
 - [脉搏波词元的语义一致量化](../conferences/icml-2026/cards/1301-1400.md#guo26a-representation-learning) · SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model
 - [无序微观系统的宏观状态表征](../conferences/icml-2026/cards/1401-1500.md#han26f-representation-learning) · Learning Permutation-invariant Macroscopic Dynamics
 - [存储混合偏导的哈希网格](../conferences/icml-2026/cards/1501-1600.md#he26w-representation-learning) · Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs
+- [用脑图谱统一跨个体钙成像 token](../conferences/icml-2026/cards/1501-1600.md#hosseini26a-representation-learning) · Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization
 <!-- classification:end -->

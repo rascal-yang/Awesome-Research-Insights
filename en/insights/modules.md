@@ -77,6 +77,7 @@ Reusable components and local changes to model inputs or connections.
 - [DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](../../conferences/icml-2026/cards/1401-1500.md#guo26af-modules) · 中文
 - [Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport](../../conferences/icml-2026/cards/1401-1500.md#han26aa-modules) · 中文
 - [Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](../../conferences/icml-2026/cards/1401-1500.md#he26b-modules) · 中文
+- [Unified Multimodal Visual Tracking with Dual Mixture-of-Experts](../../conferences/icml-2026/cards/1501-1600.md#hong26g-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

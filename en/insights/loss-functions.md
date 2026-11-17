@@ -34,12 +34,14 @@ Objectives, auxiliary supervision, and regularization.
 - [Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](../../conferences/icml-2026/cards/0801-0900.md#deng26e-loss-functions) · 中文
 - [BiRQA: Bidirectional Robust Quality Assessment for Images](../../conferences/icml-2026/cards/1401-1500.md#gushchin26a-loss-functions) · 中文
 - [Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](../../conferences/icml-2026/cards/1401-1500.md#ha26b-loss-functions) · 中文
+- [SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly](../../conferences/icml-2026/cards/1501-1600.md#heck26a-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
 ### Natural Language Processing
 
 - [ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](../../conferences/icml-2026/cards/0301-0400.md#cai26d-loss-functions) · 中文
+- [SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection](../../conferences/icml-2026/cards/1501-1600.md#hidekel26a-loss-functions) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -121,4 +123,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation](../../conferences/icml-2026/cards/0901-1000.md#ding26w-loss-functions) · 中文
 - [Derivative Informed Learning of Exchange-Correlation Functionals](../../conferences/icml-2026/cards/1001-1100.md#eberhard26a-loss-functions) · 中文
 - [CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](../../conferences/icml-2026/cards/1001-1100.md#estevez26b-loss-functions) · 中文
+- [Control Consistency Losses for Diffusion Bridges](../../conferences/icml-2026/cards/1601-1700.md#howard26b-loss-functions) · 中文
 <!-- classification:end -->

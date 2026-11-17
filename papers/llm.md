@@ -89,6 +89,8 @@
 - <a id="gordon26b-optimization"></a>[LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs](../conferences/icml-2026/cards/1301-1400.md#paper-gordon26b)
 - <a id="he26a-optimization"></a>[OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability](../conferences/icml-2026/cards/1401-1500.md#paper-he26a)
 - <a id="he26ak-optimization"></a>[One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs](../conferences/icml-2026/cards/1501-1600.md#paper-he26ak)
+- <a id="hewa-koneputugodage26a-optimization"></a>[Factored Gossip DiLoCo: Reducing Blocking Communication in DiLoCo](../conferences/icml-2026/cards/1501-1600.md#paper-hewa-koneputugodage26a)
+- <a id="hong26l-optimization"></a>[MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks](../conferences/icml-2026/cards/1501-1600.md#paper-hong26l)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -143,6 +145,8 @@
 - <a id="han26r-reinforcement-learning"></a>[MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints](../conferences/icml-2026/cards/1401-1500.md#paper-han26r)
 - <a id="he26o-reinforcement-learning"></a>[Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration](../conferences/icml-2026/cards/1501-1600.md#paper-he26o)
 - <a id="he26ae-reinforcement-learning"></a>[Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation](../conferences/icml-2026/cards/1501-1600.md#paper-he26ae)
+- <a id="he26ba-reinforcement-learning"></a>[IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning](../conferences/icml-2026/cards/1501-1600.md#paper-he26ba)
+- <a id="heckel26a-reinforcement-learning"></a>[Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards](../conferences/icml-2026/cards/1501-1600.md#paper-heckel26a)
 
 <a id="by-training-strategies"></a>
 
@@ -189,6 +193,7 @@
 - <a id="han26s-training-strategies"></a>[ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind](../conferences/icml-2026/cards/1401-1500.md#paper-han26s)
 - <a id="hauzenberger26a-training-strategies"></a>[Effective Distillation to Hybrid xLSTM Architectures](../conferences/icml-2026/cards/1401-1500.md#paper-hauzenberger26a)
 - <a id="he26aj-training-strategies"></a>[Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization](../conferences/icml-2026/cards/1501-1600.md#paper-he26aj)
+- <a id="hittesdorf26a-training-strategies"></a>[Differentiable Conformal Training for LLM Reasoning Factuality](../conferences/icml-2026/cards/1501-1600.md#paper-hittesdorf26a)
 
 <a id="by-data-strategies"></a>
 
@@ -315,6 +320,11 @@
 - <a id="he26r-inference"></a>[Efficient Multi-round LLM Inference over Disaggregated Serving](../conferences/icml-2026/cards/1501-1600.md#paper-he26r)
 - <a id="he26ab-inference"></a>[Understand and Accelerate Memory Processing Pipeline for Large Language Model Inference](../conferences/icml-2026/cards/1501-1600.md#paper-he26ab)
 - <a id="he26ar-inference"></a>[On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility](../conferences/icml-2026/cards/1501-1600.md#paper-he26ar)
+- <a id="hersche26a-inference"></a>[Locally Coherent Parallel Decoding in Diffusion Language Models](../conferences/icml-2026/cards/1501-1600.md#paper-hersche26a)
+- <a id="heyman26a-inference"></a>[Steer Like the LLM: Activation Steering that Mimics Prompting](../conferences/icml-2026/cards/1501-1600.md#paper-heyman26a)
+- <a id="hoang26d-inference"></a>[SpecMD: A Comprehensive Study On Speculative Expert Prefetching](../conferences/icml-2026/cards/1501-1600.md#paper-hoang26d)
+- <a id="hong26i-inference"></a>[dgMARK: Decoding-Guided Watermarking for Diffusion Language Models](../conferences/icml-2026/cards/1501-1600.md#paper-hong26i)
+- <a id="hoppe26a-inference"></a>[Controllable and Explainable Personality Sliders for LLMs at Inference Time](../conferences/icml-2026/cards/1501-1600.md#paper-hoppe26a)
 
 <a id="by-representation-learning"></a>
 
@@ -453,6 +463,10 @@
 - <a id="he26y-evaluation"></a>[SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?](../conferences/icml-2026/cards/1501-1600.md#paper-he26y)
 - <a id="he26ag-evaluation"></a>[Demystifying When Pruning Works via Representation Hierarchies](../conferences/icml-2026/cards/1501-1600.md#paper-he26ag)
 - <a id="he26am-evaluation"></a>[Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](../conferences/icml-2026/cards/1501-1600.md#paper-he26am)
+- <a id="helm26a-evaluation"></a>[Query-efficient model evaluation using cached responses](../conferences/icml-2026/cards/1501-1600.md#paper-helm26a)
+- <a id="herbst26a-evaluation"></a>[The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level](../conferences/icml-2026/cards/1501-1600.md#paper-herbst26a)
+- <a id="hermon26a-evaluation"></a>[Security–Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense](../conferences/icml-2026/cards/1501-1600.md#paper-hermon26a)
+- <a id="hopkins26a-evaluation"></a>[Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets](../conferences/icml-2026/cards/1501-1600.md#paper-hopkins26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -477,4 +491,5 @@
 - <a id="gu26l-theory-statistics"></a>[Anytime-Valid Inference for Online Ranking of Large Language Models](../conferences/icml-2026/cards/1301-1400.md#paper-gu26l)
 - <a id="guo26j-theory-statistics"></a>[Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing](../conferences/icml-2026/cards/1301-1400.md#paper-guo26j)
 - <a id="halder26a-theory-statistics"></a>[Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](../conferences/icml-2026/cards/1401-1500.md#paper-halder26a)
+- <a id="hilton-jones26a-theory-statistics"></a>[Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling](../conferences/icml-2026/cards/1501-1600.md#paper-hilton-jones26a)
 <!-- classification:end -->

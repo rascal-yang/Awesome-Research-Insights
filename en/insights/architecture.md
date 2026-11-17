@@ -47,6 +47,7 @@ Model-wide design and information flow.
 - [OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild](../../conferences/icml-2026/cards/1401-1500.md#guo26ag-architecture) · 中文
 - [Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction](../../conferences/icml-2026/cards/1401-1500.md#han26c-architecture) · 中文
 - [ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters](../../conferences/icml-2026/cards/1401-1500.md#hansen-estruch26a-architecture) · 中文
+- [Partial Ring Scan: Revisiting Scan Order in Vision State Space Models](../../conferences/icml-2026/cards/1601-1700.md#hsieh26a-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -54,6 +55,7 @@ Model-wide design and information flow.
 
 - [Separating Representation from Reconstruction Enables Scalable Text Encoders](../../conferences/icml-2026/cards/0801-0900.md#dervishi26a-architecture) · 中文
 - [Scaling Transformers for End-to-End Discrete Audio Tokenization](../../conferences/icml-2026/cards/1301-1400.md#gong26c-architecture) · 中文
+- [Unifying Masked Diffusion Models with Various Generation Orders and Beyond](../../conferences/icml-2026/cards/1501-1600.md#hong26f-architecture) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -103,6 +105,8 @@ Model-wide design and information flow.
 - [Symbol-Equivariant Recurrent Reasoning Models](../../conferences/icml-2026/cards/1101-1200.md#freinschlag26a-architecture) · 中文
 - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../../conferences/icml-2026/cards/1201-1300.md#gerdes26a-architecture) · 中文
 - [FlowState: Sampling-Rate-Equivariant Time-Series Forecasting](../../conferences/icml-2026/cards/1301-1400.md#graf26a-architecture) · 中文
+- [Learning Permutation Distributions via Reflected Diffusion on Ranks](../../conferences/icml-2026/cards/1501-1600.md#he26ax-architecture) · 中文
+- [Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/1501-1600.md#hoang26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -116,6 +120,7 @@ Model-wide design and information flow.
 - [L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](../../conferences/icml-2026/cards/1101-1200.md#fernandez26a-architecture) · 中文
 - [Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](../../conferences/icml-2026/cards/1101-1200.md#gailhard26a-architecture) · 中文
 - [SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](../../conferences/icml-2026/cards/1201-1300.md#gantes26a-architecture) · 中文
+- [Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation](../../conferences/icml-2026/cards/1601-1700.md#hossen26a-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -148,4 +153,5 @@ Model-wide design and information flow.
 - [Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](../../conferences/icml-2026/cards/1101-1200.md#friedl26a-architecture) · 中文
 - ["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](../../conferences/icml-2026/cards/1201-1300.md#ghiglino26a-architecture) · 中文
 - [SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](../../conferences/icml-2026/cards/1401-1500.md#hagnberger26a-architecture) · 中文
+- [Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing](../../conferences/icml-2026/cards/1501-1600.md#hong26h-architecture) · 中文
 <!-- classification:end -->

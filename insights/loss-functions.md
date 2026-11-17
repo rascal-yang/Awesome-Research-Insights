@@ -34,12 +34,14 @@
 - [单步超分辨率的全路径对齐](../conferences/icml-2026/cards/0801-0900.md#deng26e-loss-functions) · Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution
 - [全参考画质的锚定对抗训练](../conferences/icml-2026/cards/1401-1500.md#gushchin26a-loss-functions) · BiRQA: Bidirectional Robust Quality Assessment for Images
 - [类别遗忘的邻域保护与表征分散](../conferences/icml-2026/cards/1401-1500.md#ha26b-loss-functions) · Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack
+- [在商空间中去掉物体重组的整体刚体自由度](../conferences/icml-2026/cards/1501-1600.md#heck26a-loss-functions) · SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly
 
 <a id="by-nlp"></a>
 
 ### 自然语言处理
 
 - [检索器生成正则](../conferences/icml-2026/cards/0301-0400.md#cai26d-loss-functions) · ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization
+- [按真假标签约束语音内容与高频残差的一致程度](../conferences/icml-2026/cards/1501-1600.md#hidekel26a-loss-functions) · SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection
 
 <a id="by-reinforcement-learning"></a>
 
@@ -121,4 +123,5 @@
 - [固定边界等离子体平衡监督](../conferences/icml-2026/cards/0901-1000.md#ding26w-loss-functions) · Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation
 - [交换关联泛函的导数监督](../conferences/icml-2026/cards/1001-1100.md#eberhard26a-loss-functions) · Derivative Informed Learning of Exchange-Correlation Functionals
 - [保留配体受体关系的细胞传输](../conferences/icml-2026/cards/1001-1100.md#estevez26b-loss-functions) · CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment
+- [自一致控制训练扩散桥](../conferences/icml-2026/cards/1601-1700.md#howard26b-loss-functions) · Control Consistency Losses for Diffusion Bridges
 <!-- classification:end -->

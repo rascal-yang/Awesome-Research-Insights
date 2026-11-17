@@ -62,6 +62,8 @@
 - [用 L1 约束语言模型策略改变量](../conferences/icml-2026/cards/1401-1500.md#han26r-reinforcement-learning) · MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints
 - [在失败证据处截断再搜索](../conferences/icml-2026/cards/1501-1600.md#he26o-reinforcement-learning) · Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration
 - [为同质奖励组补虚拟分值](../conferences/icml-2026/cards/1501-1600.md#he26ae-reinforcement-learning) · Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation
+- [按对答案的增量信息分配词元优势](../conferences/icml-2026/cards/1501-1600.md#he26ba-reinforcement-learning) · IAPO: Information-Aware Policy Optimization for Token-Efficient Reasoning
+- [按成功率给困难提示非对称权重](../conferences/icml-2026/cards/1501-1600.md#heckel26a-reinforcement-learning) · Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards
 
 <a id="by-computer-vision"></a>
 
@@ -79,6 +81,7 @@
 ### 自然语言处理
 
 - [多跳事实核查](../conferences/icml-2026/cards/0301-0400.md#bu26e-reinforcement-learning) · Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization
+- [用下游推理给时间序列描述打分](../conferences/icml-2026/cards/1601-1700.md#hou26i-reinforcement-learning) · Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning
 
 <a id="by-reinforcement-learning"></a>
 
@@ -142,6 +145,8 @@
 - [把博弈推演质量纳入组级优势](../conferences/icml-2026/cards/1501-1600.md#he26u-reinforcement-learning) · Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games
 - [已掌握任务转入模仿巩固](../conferences/icml-2026/cards/1501-1600.md#he26v-reinforcement-learning) · HyMTRL: A Hybrid Multi-Task Reinforcement Learning Framework via Phased Policy Evolution
 - [同时约束软策略与鲁棒转移](../conferences/icml-2026/cards/1501-1600.md#he26aa-reinforcement-learning) · Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning
+- [把高低层策略统一放进批量轨迹](../conferences/icml-2026/cards/1501-1600.md#henaff26a-reinforcement-learning) · Scalable Option Learning in High-Throughput Environments
+- [用差分散度同时模仿专家与排斥坏示范](../conferences/icml-2026/cards/1501-1600.md#hoang26c-reinforcement-learning) · DualCOIL: Offline Imitation Learning from Contrasting Demonstrations
 - <a id="normalize-each-reward-before-aggregation"></a><a id="multi-reward-advantage-estimation"></a>[多奖励先分别归一化再聚合](../conferences/icml-2026/cards/2801-2900.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 <a id="by-robotics"></a>
@@ -152,6 +157,8 @@
 - [按关键帧分配语言反馈奖励](../conferences/icml-2026/cards/0701-0800.md#chowdhury26a-reinforcement-learning) · LAGEA: Language Guided Embodied Agents for Robotic Manipulation
 - [以专家动态奖励后训练视频预测](../conferences/icml-2026/cards/1201-1300.md#ge26a-reinforcement-learning) · Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics
 - [碰撞预测驱动的驾驶动作自纠正](../conferences/icml-2026/cards/1401-1500.md#guo26ae-reinforcement-learning) · CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving
+- [从关节动力学选可控的低维动作](../conferences/icml-2026/cards/1501-1600.md#heald26a-reinforcement-learning) · Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands
+- [以有方向的运动代价和尾部风险训练策略](../conferences/icml-2026/cards/1501-1600.md#hossain26a-reinforcement-learning) · Learning Anisotropic Value Geometry with Finsler Reinforcement Learning
 
 <a id="by-multimodal"></a>
 
@@ -171,6 +178,7 @@
 - [遮掉模态检验证据是否来自该通道](../conferences/icml-2026/cards/1401-1500.md#han26ac-reinforcement-learning) · Omni-Perception Policy Optimization for Multimodal Emotion Reasoning
 - [用第二轮重述验证第一轮推理是否自足](../conferences/icml-2026/cards/1401-1500.md#he26e-reinforcement-learning) · DR$^2$Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models
 - [让视频扩散 GRPO 的组内样本共享同一个时间步](../conferences/icml-2026/cards/1501-1600.md#he26j-reinforcement-learning) · Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization
+- [把分割掩码反馈给下一轮定位](../conferences/icml-2026/cards/1501-1600.md#he26av-reinforcement-learning) · RSAgent: Learning to Reason and Act via Multi-Turn Tool Invocations for Text-Guided Segmentation
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -178,6 +186,7 @@
 
 - [在线影响力最大化](../conferences/icml-2026/cards/0001-0100.md#agarwal26a-reinforcement-learning) · Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback
 - [推荐曝光控制](../conferences/icml-2026/cards/0201-0300.md#bisht26a-reinforcement-learning) · CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems
+- [按位置校正推荐路径的策略梯度](../conferences/icml-2026/cards/1601-1700.md#hou26g-reinforcement-learning) · ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation
 
 <a id="by-scientific-ml"></a>
 
@@ -192,4 +201,5 @@
 - [序贯诊断的分角色奖励](../conferences/icml-2026/cards/1201-1300.md#gao26c-reinforcement-learning) · Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning
 - [学生认知图的分层去噪奖励](../conferences/icml-2026/cards/1301-1400.md#gu26b-reinforcement-learning) · CSG: Cognitive Structure Generation for Intelligent Education
 - [将个体学情和群体进度纳入同一教学奖励](../conferences/icml-2026/cards/1501-1600.md#he26as-reinforcement-learning) · ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education
+- [用带随机扰动的速度场学习晶体生成退火](../conferences/icml-2026/cards/1501-1600.md#hollmer26a-reinforcement-learning) · Open Materials Generation with Inference-Time Reinforcement Learning
 <!-- classification:end -->

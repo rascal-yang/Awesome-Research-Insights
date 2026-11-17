@@ -47,6 +47,7 @@
 - [内容伪迹分离的生成图像鉴别](../conferences/icml-2026/cards/1401-1500.md#guo26ag-architecture) · OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild
 - [压缩高光谱重建的局部与全局协调](../conferences/icml-2026/cards/1401-1500.md#han26c-architecture) · Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction
 - [按下游生成容量选择视觉潜通道](../conferences/icml-2026/cards/1401-1500.md#hansen-estruch26a-architecture) · ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters
+- [沿同心环聚合后做短径向状态扫描](../conferences/icml-2026/cards/1601-1700.md#hsieh26a-architecture) · Partial Ring Scan: Revisiting Scan Order in Vision State Space Models
 
 <a id="by-nlp"></a>
 
@@ -54,6 +55,7 @@
 
 - [文本编码与掩码重建解耦](../conferences/icml-2026/cards/0801-0900.md#dervishi26a-architecture) · Separating Representation from Reconstruction Enables Scalable Text Encoders
 - [纯因果 Transformer 的音频分词](../conferences/icml-2026/cards/1301-1400.md#gong26c-architecture) · Scaling Transformers for End-to-End Discrete Audio Tokenization
+- [去噪网络与解掩顺序共同训练](../conferences/icml-2026/cards/1501-1600.md#hong26f-architecture) · Unifying Masked Diffusion Models with Various Generation Orders and Beyond
 
 <a id="by-reinforcement-learning"></a>
 
@@ -103,6 +105,8 @@
 - [符号置换等变的循环推理](../conferences/icml-2026/cards/1101-1200.md#freinschlag26a-architecture) · Symbol-Equivariant Recurrent Reasoning Models
 - [可解析径向归一化流](../conferences/icml-2026/cards/1201-1300.md#gerdes26a-architecture) · Analytic Bijections for Smooth and Interpretable Normalizing Flows
 - [时序预测的可调连续时间基](../conferences/icml-2026/cards/1301-1400.md#graf26a-architecture) · FlowState: Sampling-Rate-Equivariant Time-Series Forecasting
+- [连续秩噪声配合前缀条件的排列采样](../conferences/icml-2026/cards/1501-1600.md#he26ax-architecture) · Learning Permutation Distributions via Reflected Diffusion on Ranks
+- [以样条局部支撑减少片上单样本更新](../conferences/icml-2026/cards/1501-1600.md#hoang26a-architecture) · Ultrafast On-Chip Online Learning via Spline Locality in Kolmogorov–Arnold Networks
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -116,6 +120,7 @@
 - [图傅里叶变换的柯西分解](../conferences/icml-2026/cards/1101-1200.md#fernandez26a-architecture) · L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations
 - [超图生成的多尺度展开](../conferences/icml-2026/cards/1101-1200.md#gailhard26a-architecture) · Feature-Aware (Hyper)graph Generation via Next-Scale Prediction
 - [以分层极大团表示超边](../conferences/icml-2026/cards/1201-1300.md#gantes26a-architecture) · SuperHype: Hypergraph Generation via Graph-Superposition Decomposition
+- [异配图的有符号分层 Haar 滤波](../conferences/icml-2026/cards/1601-1700.md#hossen26a-architecture) · Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation
 
 <a id="by-scientific-ml"></a>
 
@@ -148,4 +153,5 @@
 - [辛降维的 Hamilton 动力学](../conferences/icml-2026/cards/1101-1200.md#friedl26a-architecture) · Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach
 - [飞行器拓扑与连续参数的层级扩散](../conferences/icml-2026/cards/1201-1300.md#ghiglino26a-architecture) · "Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design
 - [点云到气动场的跨层解码](../conferences/icml-2026/cards/1401-1500.md#hagnberger26a-architecture) · SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model
+- [分距离层覆盖稠密原子相互作用](../conferences/icml-2026/cards/1501-1600.md#hong26h-architecture) · Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing
 <!-- classification:end -->

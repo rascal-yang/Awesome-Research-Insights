@@ -77,6 +77,7 @@
 - [用位置编码绑定人物与音色](../conferences/icml-2026/cards/1401-1500.md#guo26af-modules) · DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation
 - [放松传输边缘约束以减少不可靠视图的影响](../conferences/icml-2026/cards/1401-1500.md#han26aa-modules) · Robust Multi-View Fusion via Prototype-Anchored Unbalanced Optimal Transport
 - [分开抽取实例和文本角色来推断假设编辑](../conferences/icml-2026/cards/1401-1500.md#he26b-modules) · Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning
+- [将追踪专家与模态专家分工](../conferences/icml-2026/cards/1501-1600.md#hong26g-modules) · Unified Multimodal Visual Tracking with Dual Mixture-of-Experts
 
 <a id="by-ml-foundations"></a>
 

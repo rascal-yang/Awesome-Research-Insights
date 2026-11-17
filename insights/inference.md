@@ -109,6 +109,11 @@
 - [按延迟余量路由增量预填充](../conferences/icml-2026/cards/1501-1600.md#he26r-inference) · Efficient Multi-round LLM Inference over Disaggregated Serving
 - [按算子特征拆分推理记忆流水线](../conferences/icml-2026/cards/1501-1600.md#he26ab-inference) · Understand and Accelerate Memory Processing Pipeline for Large Language Model Inference
 - [按章节状态调节长文解码](../conferences/icml-2026/cards/1501-1600.md#he26ar-inference) · On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility
+- [扩散并行规划配合局部自回归解码](../conferences/icml-2026/cards/1501-1600.md#hersche26a-inference) · Locally Coherent Parallel Decoding in Diffusion Language Models
+- [让引导强度由当前词元激活决定](../conferences/icml-2026/cards/1501-1600.md#heyman26a-inference) · Steer Like the LLM: Activation Steering that Mimics Prompting
+- [按前向轮次和层位置淘汰 MoE 专家](../conferences/icml-2026/cards/1501-1600.md#hoang26d-inference) · SpecMD: A Comprehensive Study On Speculative Expert Prefetching
+- [以解掩位置选择编码文本水印](../conferences/icml-2026/cards/1501-1600.md#hong26i-inference) · dgMARK: Decoding-Guided Watermarking for Diffusion Language Models
+- [在已偏转的残差流上学习后续人格方向](../conferences/icml-2026/cards/1501-1600.md#hoppe26a-inference) · Controllable and Explainable Personality Sliders for LLMs at Inference Time
 
 <a id="by-computer-vision"></a>
 
@@ -156,6 +161,7 @@
 - [多扩散模型的公平区域分工](../conferences/icml-2026/cards/1401-1500.md#gupta26a-inference) · Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models
 - [用两步视频生成约束后续运动相位](../conferences/icml-2026/cards/1401-1500.md#han26l-inference) · Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them
 - [蒸馏全注意力的块级结构](../conferences/icml-2026/cards/1401-1500.md#han26y-inference) · Veda: Scalable Video Diffusion via Distilled Sparse Attention
+- [以一步随机后验映射并行估计生成价值](../conferences/icml-2026/cards/1501-1600.md#holderrieth26a-inference) · Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps
 
 <a id="by-nlp"></a>
 
@@ -177,6 +183,7 @@
 - [离线竞价的候选生成与价值筛选](../conferences/icml-2026/cards/0701-0800.md#cui26h-inference) · DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation
 - [空域避碰策略的运动学约束](../conferences/icml-2026/cards/1301-1400.md#gu26a-inference) · SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace
 - [为离线控制检索可达高回报子目标](../conferences/icml-2026/cards/1301-1400.md#guo26r-inference) · RAD: Retrieval High-quality Demonstrations to Enhance Decision-making
+- [用先验扩树后从叶向根统一重估](../conferences/icml-2026/cards/1601-1700.md#howard26a-inference) · Recursive Monte-Carlo Tree Search
 
 <a id="by-robotics"></a>
 
@@ -194,6 +201,7 @@
 - [函数级 KV 缓存拼接与修补](../conferences/icml-2026/cards/0701-0800.md#chun26a-inference) · Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents
 - [导航中的熵驱动推理](../conferences/icml-2026/cards/0901-1000.md#ding26r-inference) · AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation
 - [视觉动作模型的流式分区缓存](../conferences/icml-2026/cards/1301-1400.md#guo26l-inference) · Reflex: Real-Time Vision-Language-Action Control through Streaming Inference
+- [用未来去噪路径的终局成本引导当前步](../conferences/icml-2026/cards/1501-1600.md#hoshino26a-inference) · Training-Free Guided Diffusion for Planning: A Unified Framework via Doob’s h-Transform with Safety Guarantees
 
 <a id="by-multimodal"></a>
 
@@ -229,6 +237,8 @@
 - [用组内局部密度校正零样本相似度](../conferences/icml-2026/cards/1401-1500.md#hasanebrahimi26a-inference) · Density-Aware Translation of Spurious Correlations in Zero-Shot VLMs
 - [按层刷新视觉缓存并用相邻帧降低重算成本](../conferences/icml-2026/cards/1401-1500.md#he26c-inference) · VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding
 - [以双模型概率一致性接入单步视觉草稿](../conferences/icml-2026/cards/1401-1500.md#he26g-inference) · Self-Prophetic Decoding to Unlock Visual Search in LVLMs
+- [在解码时削弱掩码先验并调整位置频率](../conferences/icml-2026/cards/1501-1600.md#hong26k-inference) · Mitigating Mask Prior Drift and Positional Attention Collapse in Large Diffusion Vision-Language Models
+- [先推理次级运动，再按置信度调节轨迹引导](../conferences/icml-2026/cards/1601-1700.md#hsin-ying26a-inference) · MotiMotion: Motion-Controlled Video Generation with Visual Reasoning
 
 <a id="by-ml-foundations"></a>
 
@@ -251,6 +261,8 @@
 - [生成式规划的按深度分桶搜索](../conferences/icml-2026/cards/1201-1300.md#gieselmann26a-inference) · Efficient Test-time Inference for Generative Planning Models with OCL Search
 - [量化置信度的样本自适应缩放](../conferences/icml-2026/cards/1301-1400.md#gu26j-inference) · Precision-Induced Miscalibration: Understanding and Correcting Confidence Distortion in Quantized Neural Networks
 - [联邦测试时的原型拓扑扩散](../conferences/icml-2026/cards/1301-1400.md#guo26m-inference) · FedPAT: Federated Test-Time Adaptation via Prototype Affinity Topology
+- [先定位知识组件，再生成最小范围的纠正](../conferences/icml-2026/cards/1501-1600.md#hiranaka26a-inference) · Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization
+- [以同一样本多次受扰后的去噪偏差衡量异常](../conferences/icml-2026/cards/1501-1600.md#hirth26a-inference) · Denoising without Diffusion: Fixed-Noise Denoiser Anomaly Detection in Tabular Data
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -284,4 +296,5 @@
 - [稀疏传感条件下的城市风场扩散](../conferences/icml-2026/cards/1201-1300.md#giral26a-inference) · GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance
 - [原子势的平滑动态截断](../conferences/icml-2026/cards/1401-1500.md#han26g-inference) · Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials
 - [在共享逆合成搜索图上自适应采样目标权重](../conferences/icml-2026/cards/1401-1500.md#hastedt26a-inference) · From Feasible to Practical: Pareto-Optimal Synthesis Planning
+- [保留信道符号来积分连续解码场](../conferences/icml-2026/cards/1501-1600.md#helvits26a-inference) · Score Based Error Correcting Code Decoder
 <!-- classification:end -->

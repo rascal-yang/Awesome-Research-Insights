@@ -54,6 +54,7 @@ Training schedules, curricula, and task or stage composition.
 - [ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind](../../conferences/icml-2026/cards/1401-1500.md#han26s-training-strategies) · 中文
 - [Effective Distillation to Hybrid xLSTM Architectures](../../conferences/icml-2026/cards/1401-1500.md#hauzenberger26a-training-strategies) · 中文
 - [Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization](../../conferences/icml-2026/cards/1501-1600.md#he26aj-training-strategies) · 中文
+- [Differentiable Conformal Training for LLM Reasoning Factuality](../../conferences/icml-2026/cards/1501-1600.md#hittesdorf26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -76,6 +77,8 @@ Training schedules, curricula, and task or stage composition.
 - [Spectrally-Guided Diffusion Noise Schedules](../../conferences/icml-2026/cards/1001-1100.md#esteves26a-training-strategies) · 中文
 - [Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](../../conferences/icml-2026/cards/1301-1400.md#gong26j-training-strategies) · 中文
 - [CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal](../../conferences/icml-2026/cards/1501-1600.md#he26al-training-strategies) · 中文
+- [Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion](../../conferences/icml-2026/cards/1501-1600.md#he26aw-training-strategies) · 中文
+- [Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels](../../conferences/icml-2026/cards/1601-1700.md#hou26b-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -108,6 +111,7 @@ Training schedules, curricula, and task or stage composition.
 - [Multimodal Nested Learning for Decoupled and Coordinated Optimization](../../conferences/icml-2026/cards/1101-1200.md#feng26m-training-strategies) · 中文
 - [From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](../../conferences/icml-2026/cards/1301-1400.md#guan26c-training-strategies) · 中文
 - [ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning](../../conferences/icml-2026/cards/1401-1500.md#guo26aj-training-strategies) · 中文
+- [Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness](../../conferences/icml-2026/cards/1501-1600.md#hong26b-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -150,6 +154,8 @@ Training schedules, curricula, and task or stage composition.
 - [$\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers](../../conferences/icml-2026/cards/1401-1500.md#han26x-training-strategies) · 中文
 - [Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning](../../conferences/icml-2026/cards/1401-1500.md#he26f-training-strategies) · 中文
 - [FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping](../../conferences/icml-2026/cards/1501-1600.md#he26p-training-strategies) · 中文
+- [Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation](../../conferences/icml-2026/cards/1501-1600.md#hong26e-training-strategies) · 中文
+- [From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging](../../conferences/icml-2026/cards/1501-1600.md#horoi26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -179,4 +185,5 @@ Training schedules, curricula, and task or stage composition.
 - [Federated Multi-view Clustering for Remote Sensing Data](../../conferences/icml-2026/cards/1301-1400.md#guan26j-training-strategies) · 中文
 - [MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](../../conferences/icml-2026/cards/1301-1400.md#guo26c-training-strategies) · 中文
 - [Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](../../conferences/icml-2026/cards/1401-1500.md#han26j-training-strategies) · 中文
+- [MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction](../../conferences/icml-2026/cards/1601-1700.md#hou26f-training-strategies) · 中文
 <!-- classification:end -->

@@ -35,6 +35,8 @@
 - [微缩放量化的可逆仿射校准](../conferences/icml-2026/cards/1301-1400.md#gordon26b-optimization) · LATMiX: Learnable Affine Transformations for Microscaling Quantization of LLMs
 - [以自生成上下文任务作为模型合并的搜索代理](../conferences/icml-2026/cards/1401-1500.md#he26a-optimization) · OPIC: Enhancing Language Model Merging via Optimizing In-Context Capability
 - [用权重谱分配逐层学习率](../conferences/icml-2026/cards/1501-1600.md#he26ak-optimization) · One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs
+- [把同步拆成可重叠的混合和按需阻塞校准](../conferences/icml-2026/cards/1501-1600.md#hewa-koneputugodage26a-optimization) · Factored Gossip DiLoCo: Reducing Blocking Communication in DiLoCo
+- [固定代理图上的不确定性感知提示搜索](../conferences/icml-2026/cards/1501-1600.md#hong26l-optimization) · MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks
 
 <a id="by-computer-vision"></a>
 
@@ -46,6 +48,8 @@
 - [动态高斯属性平均](../conferences/icml-2026/cards/0901-1000.md#ding26p-optimization) · Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture
 - [按域损失缩放并探测多方向尖锐度](../conferences/icml-2026/cards/1501-1600.md#he26m-optimization) · Navigating the Flatlands: Dual Adaptive Sharpness-Aware Minimization for Domain Generalization
 - [双教师置信度融合的曲率预条件](../conferences/icml-2026/cards/1501-1600.md#he26ad-optimization) · Newton-coupled Dual-Teacher Semi-supervised Learning Framework
+- [先在渲染平面约束扰动，再把结果拟合回三维](../conferences/icml-2026/cards/1501-1600.md#hong26c-optimization) · AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing
+- [对角曲率配合高斯参数信赖域](../conferences/icml-2026/cards/1601-1700.md#hsiao26a-optimization) · 3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting
 
 <a id="by-nlp"></a>
 
@@ -190,6 +194,10 @@
 - [把异质网络的节点放置分成环排序和跨步调整](../conferences/icml-2026/cards/1401-1500.md#hata26a-optimization) · Bottleneck Communication Delay Minimization for Communication-Efficient Decentralized Learning
 - [用小批量最优传输为离散流选择低跳数配对](../conferences/icml-2026/cards/1401-1500.md#haxholli26a-optimization) · Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching
 - [在共享低秩坐标内直接合并多个 LoRA](../conferences/icml-2026/cards/1501-1600.md#he26h-optimization) · Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter
+- [以代理补全搜索近优树集合](../conferences/icml-2026/cards/1501-1600.md#heile26a-optimization) · From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets
+- [把披露集合引发的用户响应写进分类损失](../conferences/icml-2026/cards/1501-1600.md#hikri26a-optimization) · Ambiguous Strategic Classification
+- [由张量收缩和损失分解生成非负更新](../conferences/icml-2026/cards/1501-1600.md#hood26a-optimization) · Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization
+- [在提升特征空间迭代匹配几何结构](../conferences/icml-2026/cards/1601-1700.md#houry26a-optimization) · Gromov-Wasserstein at Scale, Beyond Squared Norms
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -200,6 +208,7 @@
 - [隐私图查询](../conferences/icml-2026/cards/0401-0500.md#chen26b-optimization) · Differentially Private Range Subgraph Counting
 - [关系数据库的任务感知图结构优化](../conferences/icml-2026/cards/0601-0700.md#cheng26j-optimization) · What Makes a Desired Graph for Relational Deep Learning?
 - [演化图的粗化映射增量更新](../conferences/icml-2026/cards/1401-1500.md#gupta26b-optimization) · Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening
+- [用生成轨迹累积结构互斥的候选图](../conferences/icml-2026/cards/1601-1700.md#hosseini26b-optimization) · Neural Dispersion on Graphs
 
 <a id="by-scientific-ml"></a>
 
@@ -215,4 +224,6 @@
 - [几何潜变量到 PDE 场的可微优化](../conferences/icml-2026/cards/1401-1500.md#guoze26a-optimization) · Geometry-Aware Neural Optimizer for Shape Optimization and Inversion
 - [约束分子生成的顺序微调](../conferences/icml-2026/cards/1401-1500.md#gutjahr26a-optimization) · Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design
 - [分区赌博机分配化学筛选预算](../conferences/icml-2026/cards/1401-1500.md#haddadnia26a-optimization) · Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space
+- [在相近架构间评估共享权重的排名](../conferences/icml-2026/cards/1501-1600.md#he26bb-optimization) · Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search
+- [用实际求解反馈优化语言模型生成的分支骨架](../conferences/icml-2026/cards/1601-1700.md#hou26d-optimization) · LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs
 <!-- classification:end -->

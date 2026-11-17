@@ -32,6 +32,7 @@
 - [在线语言模型排名的任意时推断](../conferences/icml-2026/cards/1301-1400.md#gu26l-theory-statistics) · Anytime-Valid Inference for Online Ranking of Large Language Models
 - [事实记忆的率失真界](../conferences/icml-2026/cards/1301-1400.md#guo26j-theory-statistics) · Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing
 - [裁判误设下的最优推理采样数](../conferences/icml-2026/cards/1401-1500.md#halder26a-theory-statistics) · Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling
+- [用对数概率比监测长上下文注意力的尾部结构](../conferences/icml-2026/cards/1501-1600.md#hilton-jones26a-theory-statistics) · Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling
 
 <a id="by-computer-vision"></a>
 
@@ -81,6 +82,7 @@
 - [状态图谱特征的价值误差分解](../conferences/icml-2026/cards/1201-1300.md#giorgi26a-theory-statistics) · Impact of Connectivity on Laplacian Representations in Reinforcement Learning
 - [付费观测的免费预算相变](../conferences/icml-2026/cards/1301-1400.md#gong26i-theory-statistics) · The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations
 - [最优点附近的策略梯度信噪比](../conferences/icml-2026/cards/1401-1500.md#han26z-theory-statistics) · Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator
+- [可复现探索先筛掉低可达状态](../conferences/icml-2026/cards/1501-1600.md#hopkins26b-theory-statistics) · From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -270,6 +272,12 @@
 - [按后续曲率加权的扩散分数误差](../conferences/icml-2026/cards/1501-1600.md#he26q-theory-statistics) · The Accumulation of Score Estimation Error in Diffusion Models
 - [用 VC 维约束标准 Transformer 的近似深度](../conferences/icml-2026/cards/1501-1600.md#he26t-theory-statistics) · Approximation Error Upper and Lower Bounds for Hölder Class with Transformers
 - [以截断和平移校准序贯核检验](../conferences/icml-2026/cards/1501-1600.md#he26ah-theory-statistics) · Sequential Kernel-based Conditional Independence Testing via Adaptive Betting
+- [用局部曲率诊断深层表征的收缩扩张](../conferences/icml-2026/cards/1501-1600.md#hehl26a-theory-statistics) · Neural Feature Geometry Evolves as Discrete Ricci Flow
+- [用配对多视图二阶相关识别因果顺序](../conferences/icml-2026/cards/1501-1600.md#heurtebise26a-theory-statistics) · Multi-View Causal Discovery without Non-Gaussianity: Identifiability and Algorithms
+- [以总体碰撞率估计有限池中的无碰撞对比风险](../conferences/icml-2026/cards/1501-1600.md#hieu26a-theory-statistics) · A Refined Generalization Analysis for Extreme Multi-class Supervised Contrastive Representation Learning
+- [用独立三插值器的中位数获得最优阈值风险阶](../conferences/icml-2026/cards/1501-1600.md#hogsgaard26a-theory-statistics) · The Interplay Between Interpolation and Aggregation in Regression: Optimal Sample Complexity
+- [用单调响应的网格获得线性合同一致效用界](../conferences/icml-2026/cards/1501-1600.md#hogsgaard26b-theory-statistics) · The Optimal Sample Complexity of Linear Contracts
+- [用近优模型集合衡量攻击后切换与泄漏](../conferences/icml-2026/cards/1601-1700.md#hsu26a-theory-statistics) · The Double-Edged Nature of the Rashomon Set for Trustworthy Machine Learning
 
 <a id="by-graph-and-recommendation"></a>
 

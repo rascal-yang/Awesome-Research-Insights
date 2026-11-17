@@ -91,6 +91,8 @@ Learning from interaction, feedback, and offline experience.
 - <a id="he26u-reinforcement-learning"></a>[Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games](../../conferences/icml-2026/cards/1501-1600.md#paper-he26u)
 - <a id="he26v-reinforcement-learning"></a>[HyMTRL: A Hybrid Multi-Task Reinforcement Learning Framework via Phased Policy Evolution](../../conferences/icml-2026/cards/1501-1600.md#paper-he26v)
 - <a id="he26aa-reinforcement-learning"></a>[Doubly Regularized Markov Decision Processes for Robust Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-he26aa)
+- <a id="henaff26a-reinforcement-learning"></a>[Scalable Option Learning in High-Throughput Environments](../../conferences/icml-2026/cards/1501-1600.md#paper-henaff26a)
+- <a id="hoang26c-reinforcement-learning"></a>[DualCOIL: Offline Imitation Learning from Contrasting Demonstrations](../../conferences/icml-2026/cards/1501-1600.md#paper-hoang26c)
 - <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26aa)
 
 <a id="by-data-strategies"></a>
@@ -111,6 +113,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="cui26h-inference"></a>[DRIVE: Distributional and Retrieval-Augmented Bidding with Value Evaluation](../../conferences/icml-2026/cards/0701-0800.md#paper-cui26h)
 - <a id="gu26a-inference"></a>[SARL: Structure-Aligned Reinforcement Learning for Bridging the Perception-Action Gap in Airspace](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26a)
 - <a id="guo26r-inference"></a>[RAD: Retrieval High-quality Demonstrations to Enhance Decision-making](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26r)
+- <a id="howard26a-inference"></a>[Recursive Monte-Carlo Tree Search](../../conferences/icml-2026/cards/1601-1700.md#paper-howard26a)
 
 <a id="by-representation-learning"></a>
 
@@ -157,4 +160,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="giorgi26a-theory-statistics"></a>[Impact of Connectivity on Laplacian Representations in Reinforcement Learning](../../conferences/icml-2026/cards/1201-1300.md#paper-giorgi26a)
 - <a id="gong26i-theory-statistics"></a>[The Cost of Information: Phase Transitions in Contextual Bandits with Paid Observations](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26i)
 - <a id="han26z-theory-statistics"></a>[Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator](../../conferences/icml-2026/cards/1401-1500.md#paper-han26z)
+- <a id="hopkins26b-theory-statistics"></a>[From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hopkins26b)
 <!-- classification:end -->

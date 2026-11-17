@@ -40,6 +40,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="friedl26a-architecture"></a>[Learning Hamiltonian Dynamics at Scale: A Differential-Geometric Approach](../../conferences/icml-2026/cards/1101-1200.md#paper-friedl26a)
 - <a id="ghiglino26a-architecture"></a>["Do Diffusion Models Dream of Electric Planes?" Discrete and Continuous Simulation-Based Inference for Aircraft Design](../../conferences/icml-2026/cards/1201-1300.md#paper-ghiglino26a)
 - <a id="hagnberger26a-architecture"></a>[SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](../../conferences/icml-2026/cards/1401-1500.md#paper-hagnberger26a)
+- <a id="hong26h-architecture"></a>[Large-Scale Molecular Dynamics Simulation: Direct Interatomic Modeling with Dilated Message Passing](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26h)
 
 <a id="by-modules"></a>
 
@@ -67,6 +68,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ding26w-loss-functions"></a>[Physics-informed Neural Operator Learning for Nonlinear Grad-Shafranov Equation](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26w)
 - <a id="eberhard26a-loss-functions"></a>[Derivative Informed Learning of Exchange-Correlation Functionals](../../conferences/icml-2026/cards/1001-1100.md#paper-eberhard26a)
 - <a id="estevez26b-loss-functions"></a>[CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](../../conferences/icml-2026/cards/1001-1100.md#paper-estevez26b)
+- <a id="howard26b-loss-functions"></a>[Control Consistency Losses for Diffusion Bridges](../../conferences/icml-2026/cards/1601-1700.md#paper-howard26b)
 
 <a id="by-optimization"></a>
 
@@ -82,6 +84,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="guoze26a-optimization"></a>[Geometry-Aware Neural Optimizer for Shape Optimization and Inversion](../../conferences/icml-2026/cards/1401-1500.md#paper-guoze26a)
 - <a id="gutjahr26a-optimization"></a>[Constrained Flow Optimization via Sequential Fine-Tuning for Molecular Design](../../conferences/icml-2026/cards/1401-1500.md#paper-gutjahr26a)
 - <a id="haddadnia26a-optimization"></a>[Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space](../../conferences/icml-2026/cards/1401-1500.md#paper-haddadnia26a)
+- <a id="he26bb-optimization"></a>[Optimizing Network Simulation: Enhancing Performance Prediction Accuracy via Neural Architecture Search](../../conferences/icml-2026/cards/1501-1600.md#paper-he26bb)
+- <a id="hou26d-optimization"></a>[LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -96,6 +100,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="gao26c-reinforcement-learning"></a>[Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26c)
 - <a id="gu26b-reinforcement-learning"></a>[CSG: Cognitive Structure Generation for Intelligent Education](../../conferences/icml-2026/cards/1301-1400.md#paper-gu26b)
 - <a id="he26as-reinforcement-learning"></a>[ClinTutor-R1: Advancing Scalable and Robust One-to-Many Alignment in Clinical Socratic Education](../../conferences/icml-2026/cards/1501-1600.md#paper-he26as)
+- <a id="hollmer26a-reinforcement-learning"></a>[Open Materials Generation with Inference-Time Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hollmer26a)
 
 <a id="by-training-strategies"></a>
 
@@ -114,6 +119,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="guan26j-training-strategies"></a>[Federated Multi-view Clustering for Remote Sensing Data](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26j)
 - <a id="guo26c-training-strategies"></a>[MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26c)
 - <a id="han26j-training-strategies"></a>[Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM](../../conferences/icml-2026/cards/1401-1500.md#paper-han26j)
+- <a id="hou26f-training-strategies"></a>[MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26f)
 
 <a id="by-data-strategies"></a>
 
@@ -146,6 +152,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="giral26a-inference"></a>[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](../../conferences/icml-2026/cards/1201-1300.md#paper-giral26a)
 - <a id="han26g-inference"></a>[Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/1401-1500.md#paper-han26g)
 - <a id="hastedt26a-inference"></a>[From Feasible to Practical: Pareto-Optimal Synthesis Planning](../../conferences/icml-2026/cards/1401-1500.md#paper-hastedt26a)
+- <a id="helvits26a-inference"></a>[Score Based Error Correcting Code Decoder](../../conferences/icml-2026/cards/1501-1600.md#paper-helvits26a)
 
 <a id="by-representation-learning"></a>
 
@@ -166,6 +173,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="guo26a-representation-learning"></a>[SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26a)
 - <a id="han26f-representation-learning"></a>[Learning Permutation-invariant Macroscopic Dynamics](../../conferences/icml-2026/cards/1401-1500.md#paper-han26f)
 - <a id="he26w-representation-learning"></a>[Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs](../../conferences/icml-2026/cards/1501-1600.md#paper-he26w)
+- <a id="hosseini26a-representation-learning"></a>[Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization](../../conferences/icml-2026/cards/1501-1600.md#paper-hosseini26a)
 
 <a id="by-evaluation"></a>
 
@@ -189,6 +197,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="ghosh26b-evaluation"></a>[CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare](../../conferences/icml-2026/cards/1201-1300.md#paper-ghosh26b)
 - <a id="gokce26a-evaluation"></a>[Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](../../conferences/icml-2026/cards/1201-1300.md#paper-gokce26a)
 - <a id="han26v-evaluation"></a>[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](../../conferences/icml-2026/cards/1401-1500.md#paper-han26v)
+- <a id="he26ay-evaluation"></a>[MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ay)
 
 <a id="by-theory-statistics"></a>
 

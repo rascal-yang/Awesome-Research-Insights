@@ -136,6 +136,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?](../../conferences/icml-2026/cards/1501-1600.md#he26y-evaluation) · 中文
 - [Demystifying When Pruning Works via Representation Hierarchies](../../conferences/icml-2026/cards/1501-1600.md#he26ag-evaluation) · 中文
 - [Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](../../conferences/icml-2026/cards/1501-1600.md#he26am-evaluation) · 中文
+- [Query-efficient model evaluation using cached responses](../../conferences/icml-2026/cards/1501-1600.md#helm26a-evaluation) · 中文
+- [The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level](../../conferences/icml-2026/cards/1501-1600.md#herbst26a-evaluation) · 中文
+- [Security–Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense](../../conferences/icml-2026/cards/1501-1600.md#hermon26a-evaluation) · 中文
+- [Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets](../../conferences/icml-2026/cards/1501-1600.md#hopkins26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -154,6 +158,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](../../conferences/icml-2026/cards/1001-1100.md#fang26l-evaluation) · 中文
 - [GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning](../../conferences/icml-2026/cards/1401-1500.md#han26t-evaluation) · 中文
 - [The Entropic Signature of Class Speciation in Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#handke26a-evaluation) · 中文
+- [What is Missing? Explaining Neurons Activated by Absent Concepts](../../conferences/icml-2026/cards/1501-1600.md#hesse26a-evaluation) · 中文
+- [DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model](../../conferences/icml-2026/cards/1501-1600.md#hong26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -221,6 +227,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](../../conferences/icml-2026/cards/1301-1400.md#gong26a-evaluation) · 中文
 - [CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models](../../conferences/icml-2026/cards/1301-1400.md#guo26q-evaluation) · 中文
 - [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](../../conferences/icml-2026/cards/1501-1600.md#he26n-evaluation) · 中文
+- [The Abstraction Gap in Vision-Language Causal Reasoning](../../conferences/icml-2026/cards/1501-1600.md#hoang26b-evaluation) · 中文
+- [When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../conferences/icml-2026/cards/1601-1700.md#hou26h-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -262,6 +270,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](../../conferences/icml-2026/cards/1101-1200.md#ferrini26a-evaluation) · 中文
 - [Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](../../conferences/icml-2026/cards/1101-1200.md#forbat26a-evaluation) · 中文
 - [VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](../../conferences/icml-2026/cards/1301-1400.md#guan26b-evaluation) · 中文
+- [TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions](../../conferences/icml-2026/cards/1501-1600.md#heidari26a-evaluation) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -285,4 +294,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CLINIC : Evaluating Multilingual Trustworthiness in Language Models for Healthcare](../../conferences/icml-2026/cards/1201-1300.md#ghosh26b-evaluation) · 中文
 - [Multimodal Scaling Laws for Task & Data-Optimized Models of Visual Cortex](../../conferences/icml-2026/cards/1201-1300.md#gokce26a-evaluation) · 中文
 - [Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](../../conferences/icml-2026/cards/1401-1500.md#han26v-evaluation) · 中文
+- [MMPD-Bench: Bridging Multimodal Fission with Multi-Polarimetric Modalities Decomposition](../../conferences/icml-2026/cards/1501-1600.md#he26ay-evaluation) · 中文
 <!-- classification:end -->

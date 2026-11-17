@@ -29,6 +29,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="guo26ag-architecture"></a>[OmniAID: Decoupling Semantics and Artifacts for Universal AI-Generated Image Detection in the Wild](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ag)
 - <a id="han26c-architecture"></a>[Bridging Local–Global Dissonance: Learning from Compressive Measurements for Hyperspectral Reconstruction](../../conferences/icml-2026/cards/1401-1500.md#paper-han26c)
 - <a id="hansen-estruch26a-architecture"></a>[ViTok-v2: Scaling Native Resolution Autoencoders to 5 Billion Parameters](../../conferences/icml-2026/cards/1401-1500.md#paper-hansen-estruch26a)
+- <a id="hsieh26a-architecture"></a>[Partial Ring Scan: Revisiting Scan Order in Vision State Space Models](../../conferences/icml-2026/cards/1601-1700.md#paper-hsieh26a)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -60,6 +61,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="deng26e-loss-functions"></a>[Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution](../../conferences/icml-2026/cards/0801-0900.md#paper-deng26e)
 - <a id="gushchin26a-loss-functions"></a>[BiRQA: Bidirectional Robust Quality Assessment for Images](../../conferences/icml-2026/cards/1401-1500.md#paper-gushchin26a)
 - <a id="ha26b-loss-functions"></a>[Unlearning’s Blind Spots: Over-Unlearning and Prototypical Relearning Attack](../../conferences/icml-2026/cards/1401-1500.md#paper-ha26b)
+- <a id="heck26a-loss-functions"></a>[SE(n)-Invariant Flow Matching: A General Framework with Application to Object Reassembly](../../conferences/icml-2026/cards/1501-1600.md#paper-heck26a)
 
 <a id="by-optimization"></a>
 
@@ -71,6 +73,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="ding26p-optimization"></a>[Improving Explicit Dynamic Gaussian Splatting Optimization via Update Mixture](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26p)
 - <a id="he26m-optimization"></a>[Navigating the Flatlands: Dual Adaptive Sharpness-Aware Minimization for Domain Generalization](../../conferences/icml-2026/cards/1501-1600.md#paper-he26m)
 - <a id="he26ad-optimization"></a>[Newton-coupled Dual-Teacher Semi-supervised Learning Framework](../../conferences/icml-2026/cards/1501-1600.md#paper-he26ad)
+- <a id="hong26c-optimization"></a>[AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26c)
+- <a id="hsiao26a-optimization"></a>[3DGS$^2$-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](../../conferences/icml-2026/cards/1601-1700.md#paper-hsiao26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -104,6 +108,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="esteves26a-training-strategies"></a>[Spectrally-Guided Diffusion Noise Schedules](../../conferences/icml-2026/cards/1001-1100.md#paper-esteves26a)
 - <a id="gong26j-training-strategies"></a>[Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26j)
 - <a id="he26al-training-strategies"></a>[CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal](../../conferences/icml-2026/cards/1501-1600.md#paper-he26al)
+- <a id="he26aw-training-strategies"></a>[Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion](../../conferences/icml-2026/cards/1501-1600.md#paper-he26aw)
+- <a id="hou26b-training-strategies"></a>[Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26b)
 
 <a id="by-data-strategies"></a>
 
@@ -116,6 +122,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="cui26f-data-strategies"></a>[Geometry-Aware Dataset Condensation for Diffusion Model Training](../../conferences/icml-2026/cards/0701-0800.md#paper-cui26f)
 - <a id="fang26s-data-strategies"></a>[Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26s)
 - <a id="gan26d-data-strategies"></a>[Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](../../conferences/icml-2026/cards/1101-1200.md#paper-gan26d)
+- <a id="hou26a-data-strategies"></a>[Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26a)
 
 <a id="by-inference"></a>
 
@@ -163,6 +170,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="gupta26a-inference"></a>[Divide-and-Denoise: A Game-Theoretic Method for Fairly Composing Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#paper-gupta26a)
 - <a id="han26l-inference"></a>[Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them](../../conferences/icml-2026/cards/1401-1500.md#paper-han26l)
 - <a id="han26y-inference"></a>[Veda: Scalable Video Diffusion via Distilled Sparse Attention](../../conferences/icml-2026/cards/1401-1500.md#paper-han26y)
+- <a id="holderrieth26a-inference"></a>[Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps](../../conferences/icml-2026/cards/1501-1600.md#paper-holderrieth26a)
 
 <a id="by-representation-learning"></a>
 
@@ -186,6 +194,9 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="gao26ad-representation-learning"></a>[ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning](../../conferences/icml-2026/cards/1201-1300.md#paper-gao26ad)
 - <a id="garrido26a-representation-learning"></a>[Learning Latent Action World Models in the Wild](../../conferences/icml-2026/cards/1201-1300.md#paper-garrido26a)
 - <a id="guo26e-representation-learning"></a>[Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26e)
+- <a id="he26az-representation-learning"></a>[A Flat Vocabulary or a Rich Hierarchy? Re-introducing Intrinsic Structure Transforms the Autoregressive Image Generation](../../conferences/icml-2026/cards/1501-1600.md#paper-he26az)
+- <a id="hong26j-representation-learning"></a>[Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26j)
+- <a id="hou26e-representation-learning"></a>[Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26e)
 
 <a id="by-evaluation"></a>
 
@@ -204,6 +215,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="fang26l-evaluation"></a>[iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](../../conferences/icml-2026/cards/1001-1100.md#paper-fang26l)
 - <a id="han26t-evaluation"></a>[GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning](../../conferences/icml-2026/cards/1401-1500.md#paper-han26t)
 - <a id="handke26a-evaluation"></a>[The Entropic Signature of Class Speciation in Diffusion Models](../../conferences/icml-2026/cards/1401-1500.md#paper-handke26a)
+- <a id="hesse26a-evaluation"></a>[What is Missing? Explaining Neurons Activated by Absent Concepts](../../conferences/icml-2026/cards/1501-1600.md#paper-hesse26a)
+- <a id="hong26a-evaluation"></a>[DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -45,6 +45,7 @@
 - [扩散训练子集的单边部分传输](../conferences/icml-2026/cards/0701-0800.md#cui26f-data-strategies) · Geometry-Aware Dataset Condensation for Diffusion Model Training
 - [生成视频检测的质量分布配对](../conferences/icml-2026/cards/1001-1100.md#fang26s-data-strategies) · Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection
 - [扩散数据蒸馏的集合耦合引导](../conferences/icml-2026/cards/1101-1200.md#gan26d-data-strategies) · Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation
+- [分别约束插入物的布局、照明和边界纹理](../conferences/icml-2026/cards/1601-1700.md#hou26a-data-strategies) · Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery
 
 <a id="by-nlp"></a>
 
@@ -116,6 +117,7 @@
 - [图数据增强](../conferences/icml-2026/cards/0101-0200.md#azizpour26a-data-strategies) · From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning
 - [联邦文本图证据凝缩](../conferences/icml-2026/cards/0501-0600.md#chen26cr-data-strategies) · DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs
 - [图基础模型的合成预训练先验](../conferences/icml-2026/cards/1001-1100.md#eremeev26a-data-strategies) · GraphPFN: A Prior-Data Fitted Graph Foundation Model
+- [选取同时覆盖特征与超图传播的标注节点](../conferences/icml-2026/cards/1601-1700.md#hou26c-data-strategies) · HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization
 
 <a id="by-scientific-ml"></a>
 

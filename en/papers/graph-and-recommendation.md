@@ -21,6 +21,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="fernandez26a-architecture"></a>[L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations](../../conferences/icml-2026/cards/1101-1200.md#paper-fernandez26a)
 - <a id="gailhard26a-architecture"></a>[Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](../../conferences/icml-2026/cards/1101-1200.md#paper-gailhard26a)
 - <a id="gantes26a-architecture"></a>[SuperHype: Hypergraph Generation via Graph-Superposition Decomposition](../../conferences/icml-2026/cards/1201-1300.md#paper-gantes26a)
+- <a id="hossen26a-architecture"></a>[Hierarchical Multi Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation](../../conferences/icml-2026/cards/1601-1700.md#paper-hossen26a)
 
 <a id="by-modules"></a>
 
@@ -52,6 +53,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="chen26b-optimization"></a>[Differentially Private Range Subgraph Counting](../../conferences/icml-2026/cards/0401-0500.md#paper-chen26b)
 - <a id="cheng26j-optimization"></a>[What Makes a Desired Graph for Relational Deep Learning?](../../conferences/icml-2026/cards/0601-0700.md#paper-cheng26j)
 - <a id="gupta26b-optimization"></a>[Adapting to Evolving Graphs: A Scalable Framework for Dynamic Coarsening](../../conferences/icml-2026/cards/1401-1500.md#paper-gupta26b)
+- <a id="hosseini26b-optimization"></a>[Neural Dispersion on Graphs](../../conferences/icml-2026/cards/1601-1700.md#paper-hosseini26b)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -59,6 +61,7 @@ Graph models, knowledge graphs, and recommender systems.
 
 - <a id="agarwal26a-reinforcement-learning"></a>[Efficient Online Influence Maximization under the Independent Cascade Model with Node-Level Feedback](../../conferences/icml-2026/cards/0001-0100.md#paper-agarwal26a)
 - <a id="bisht26a-reinforcement-learning"></a>[CORAL: Uncertainty-Aware Regulation of Exposure Concentration in Recommender Systems](../../conferences/icml-2026/cards/0201-0300.md#paper-bisht26a)
+- <a id="hou26g-reinforcement-learning"></a>[ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26g)
 
 <a id="by-training-strategies"></a>
 
@@ -78,6 +81,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="azizpour26a-data-strategies"></a>[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](../../conferences/icml-2026/cards/0101-0200.md#paper-azizpour26a)
 - <a id="chen26cr-data-strategies"></a>[DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](../../conferences/icml-2026/cards/0501-0600.md#paper-chen26cr)
 - <a id="eremeev26a-data-strategies"></a>[GraphPFN: A Prior-Data Fitted Graph Foundation Model](../../conferences/icml-2026/cards/1001-1100.md#paper-eremeev26a)
+- <a id="hou26c-data-strategies"></a>[HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26c)
 
 <a id="by-inference"></a>
 
@@ -116,6 +120,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="ferrini26a-evaluation"></a>[Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](../../conferences/icml-2026/cards/1101-1200.md#paper-ferrini26a)
 - <a id="forbat26a-evaluation"></a>[Is Graph Mixup Beneficial? Investigating Interpolation And Empirical Performance of Graph Mixup Methods](../../conferences/icml-2026/cards/1101-1200.md#paper-forbat26a)
 - <a id="guan26b-evaluation"></a>[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](../../conferences/icml-2026/cards/1301-1400.md#paper-guan26b)
+- <a id="heidari26a-evaluation"></a>[TN-SHAP-G: Graph-Structured Tensor Network Surrogates for Shapley Values and Interactions](../../conferences/icml-2026/cards/1501-1600.md#paper-heidari26a)
 
 <a id="by-theory-statistics"></a>
 

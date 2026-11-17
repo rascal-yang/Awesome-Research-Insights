@@ -50,6 +50,8 @@ Robot perception, policy learning, planning, and control.
 - <a id="chowdhury26a-reinforcement-learning"></a>[LAGEA: Language Guided Embodied Agents for Robotic Manipulation](../../conferences/icml-2026/cards/0701-0800.md#paper-chowdhury26a)
 - <a id="ge26a-reinforcement-learning"></a>[Dyn-VPP: Video Prediction Policy Optimization for Improved Visual Dynamics](../../conferences/icml-2026/cards/1201-1300.md#paper-ge26a)
 - <a id="guo26ae-reinforcement-learning"></a>[CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving](../../conferences/icml-2026/cards/1401-1500.md#paper-guo26ae)
+- <a id="heald26a-reinforcement-learning"></a>[Joint-Space Empowerment for Dexterous Coordination in Tendon-Driven Hands](../../conferences/icml-2026/cards/1501-1600.md#paper-heald26a)
+- <a id="hossain26a-reinforcement-learning"></a>[Learning Anisotropic Value Geometry with Finsler Reinforcement Learning](../../conferences/icml-2026/cards/1501-1600.md#paper-hossain26a)
 
 <a id="by-training-strategies"></a>
 
@@ -89,6 +91,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="chun26a-inference"></a>[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](../../conferences/icml-2026/cards/0701-0800.md#paper-chun26a)
 - <a id="ding26r-inference"></a>[AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation](../../conferences/icml-2026/cards/0901-1000.md#paper-ding26r)
 - <a id="guo26l-inference"></a>[Reflex: Real-Time Vision-Language-Action Control through Streaming Inference](../../conferences/icml-2026/cards/1301-1400.md#paper-guo26l)
+- <a id="hoshino26a-inference"></a>[Training-Free Guided Diffusion for Planning: A Unified Framework via Doob’s h-Transform with Safety Guarantees](../../conferences/icml-2026/cards/1501-1600.md#paper-hoshino26a)
 
 <a id="by-representation-learning"></a>
 

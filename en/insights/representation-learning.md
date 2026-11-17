@@ -41,6 +41,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ArcDAE: Asymmetric Rectified Contrastive Diffusion Autoencoder for Unified Representation Learning](../../conferences/icml-2026/cards/1201-1300.md#gao26ad-representation-learning) · 中文
 - [Learning Latent Action World Models in the Wild](../../conferences/icml-2026/cards/1201-1300.md#garrido26a-representation-learning) · 中文
 - [Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](../../conferences/icml-2026/cards/1301-1400.md#guo26e-representation-learning) · 中文
+- [A Flat Vocabulary or a Rich Hierarchy? Re-introducing Intrinsic Structure Transforms the Autoregressive Image Generation](../../conferences/icml-2026/cards/1501-1600.md#he26az-representation-learning) · 中文
+- [Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning](../../conferences/icml-2026/cards/1501-1600.md#hong26j-representation-learning) · 中文
+- [Beyond Distribution Estimation: Simplex Anchored Structural Inference Towards Universal Semi-Supervised Learning](../../conferences/icml-2026/cards/1601-1700.md#hou26e-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -77,6 +80,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ObjEmbed: Towards Universal Multimodal Object Embeddings](../../conferences/icml-2026/cards/1101-1200.md#fu26p-representation-learning) · 中文
 - [TimeOmni-VL: Unified Models for Time Series Understanding and Generation](../../conferences/icml-2026/cards/1301-1400.md#guan26e-representation-learning) · 中文
 - [DSGCR: Decomposed Spectral Geometry-Aware Cross-Modal Semantic Representation for 3D Visual Grounding](../../conferences/icml-2026/cards/1501-1600.md#he26s-representation-learning) · 中文
+- [RADIO1D: Elastic Representations for Condensed Vision Modeling](../../conferences/icml-2026/cards/1501-1600.md#heinrich26a-representation-learning) · 中文
+- [TextME: Bridging Unseen Modalities Through Text Descriptions](../../conferences/icml-2026/cards/1501-1600.md#hong26d-representation-learning) · 中文
+- [ExpAlign: Expectation-Guided Vision–Language Alignment for Open-Vocabulary Grounding](../../conferences/icml-2026/cards/1601-1700.md#hu26a-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -97,6 +103,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Sparse Autoencoders are Topic Models](../../conferences/icml-2026/cards/1201-1300.md#girrbach26a-representation-learning) · 中文
 - [Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture – Bridging Predictive and Generative Self-Supervised Learning](../../conferences/icml-2026/cards/1201-1300.md#gogl26a-representation-learning) · 中文
 - [Incomplete Multi-View Clustering via Neighborhood-Conditioned Diffusion](../../conferences/icml-2026/cards/1401-1500.md#guo26an-representation-learning) · 中文
+- [What Linear Probes Miss: Multi-View Probing for Weight-Space Learning](../../conferences/icml-2026/cards/1501-1600.md#heo26a-representation-learning) · 中文
+- [Maximum-Likelihood Learning of Latent Dynamics Without Reconstruction](../../conferences/icml-2026/cards/1601-1700.md#hromadka26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -134,4 +142,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SIGMA-PPG: Statistical-prior Informed Generative Masking Architecture for PPG Foundation Model](../../conferences/icml-2026/cards/1301-1400.md#guo26a-representation-learning) · 中文
 - [Learning Permutation-invariant Macroscopic Dynamics](../../conferences/icml-2026/cards/1401-1500.md#han26f-representation-learning) · 中文
 - [Hermite-NGP: Gradient-Augmented Hash Encoding for Learning PDEs](../../conferences/icml-2026/cards/1501-1600.md#he26w-representation-learning) · 中文
+- [Cross-Subject Modeling for Widefield Calcium Imaging via Atlas-Aligned Spatiotemporal Tokenization](../../conferences/icml-2026/cards/1501-1600.md#hosseini26a-representation-learning) · 中文
 <!-- classification:end -->

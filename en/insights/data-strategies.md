@@ -45,6 +45,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Geometry-Aware Dataset Condensation for Diffusion Model Training](../../conferences/icml-2026/cards/0701-0800.md#cui26f-data-strategies) · 中文
 - [Real Data Lies: Unveiling and Closing the Quality Shortcut in Generalizable AI-Generated Video Detection](../../conferences/icml-2026/cards/1001-1100.md#fang26s-data-strategies) · 中文
 - [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](../../conferences/icml-2026/cards/1101-1200.md#gan26d-data-strategies) · 中文
+- [Plan, Decouple, Assimilate: Physics-Aware Object Insertion in Remote Sensing Imagery](../../conferences/icml-2026/cards/1601-1700.md#hou26a-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -116,6 +117,7 @@ Data selection, annotation, augmentation, and sampling.
 - [From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](../../conferences/icml-2026/cards/0101-0200.md#azizpour26a-data-strategies) · 中文
 - [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](../../conferences/icml-2026/cards/0501-0600.md#chen26cr-data-strategies) · 中文
 - [GraphPFN: A Prior-Data Fitted Graph Foundation Model](../../conferences/icml-2026/cards/1001-1100.md#eremeev26a-data-strategies) · 中文
+- [HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](../../conferences/icml-2026/cards/1601-1700.md#hou26c-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

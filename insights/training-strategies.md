@@ -54,6 +54,7 @@
 - [对话中的反对意见建模](../conferences/icml-2026/cards/1401-1500.md#han26s-training-strategies) · ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind
 - [先对齐混合学生隐状态，再蒸馏并合并专家](../conferences/icml-2026/cards/1401-1500.md#hauzenberger26a-training-strategies) · Effective Distillation to Hybrid xLSTM Architectures
 - [蒸馏投影的激活感知初始化](../conferences/icml-2026/cards/1501-1600.md#he26aj-training-strategies) · Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization
+- [用可微共形流程学习断言评分，再切回硬校准](../conferences/icml-2026/cards/1501-1600.md#hittesdorf26a-training-strategies) · Differentiable Conformal Training for LLM Reasoning Factuality
 
 <a id="by-computer-vision"></a>
 
@@ -76,6 +77,8 @@
 - [由图像功率谱确定扩散日程](../conferences/icml-2026/cards/1001-1100.md#esteves26a-training-strategies) · Spectrally-Guided Diffusion Noise Schedules
 - [物理平面光照监督的补光条件](../conferences/icml-2026/cards/1301-1400.md#gong26j-training-strategies) · Light Up Your Face: A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement
 - [用配对视频差分监督遮挡先验](../conferences/icml-2026/cards/1501-1600.md#he26al-training-strategies) · CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal
+- [先筛稳定样本再削弱纹理捷径](../conferences/icml-2026/cards/1501-1600.md#he26aw-training-strategies) · Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion
+- [直接预测标签以积累跨轮不一致性](../conferences/icml-2026/cards/1601-1700.md#hou26b-training-strategies) · Just Y-Prediction: Enabling Historical Cumulative Inconsistency in Label Diffusion for Learning with Noisy Labels
 
 <a id="by-nlp"></a>
 
@@ -108,6 +111,7 @@
 - [多模态编码与融合的嵌套优化](../conferences/icml-2026/cards/1101-1200.md#feng26m-training-strategies) · Multimodal Nested Learning for Decoupled and Coordinated Optimization
 - [长视频内容的一次性参数蒸馏](../conferences/icml-2026/cards/1301-1400.md#guan26c-training-strategies) · From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations
 - [隐蔽文字识别的能力边界训练](../conferences/icml-2026/cards/1401-1500.md#guo26aj-training-strategies) · ImpText: A Benchmark and Tool-Augmented Framework for Implicit Text Reasoning
+- [按实际梯度曝光量控制多模态尾部压力](../conferences/icml-2026/cards/1501-1600.md#hong26b-training-strategies) · Coverage $\not =$ Exposure: Auditable Control of Same-Support Tail Failures under Multimodal Missingness
 
 <a id="by-ml-foundations"></a>
 
@@ -150,6 +154,8 @@
 - [蒸馏专家搜索的候选分布](../conferences/icml-2026/cards/1401-1500.md#han26x-training-strategies) · $\textttMetaDistill$: Unlocking the Performance Ceiling for Pretrained Optimizers
 - [按投影能量拆分持续学习的共享与专用更新](../conferences/icml-2026/cards/1401-1500.md#he26f-training-strategies) · Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning
 - [联邦低秩更新的选择聚合与尾部投影](../conferences/icml-2026/cards/1501-1600.md#he26p-training-strategies) · FedPissa: Towards Federated Personalized Adaptation of Foundation Models via LoRA Subspace Mapping
+- [异构时序教师的结构与点预测分开蒸馏](../conferences/icml-2026/cards/1501-1600.md#hong26e-training-strategies) · Beyond Point Predictions: Manifold Expansion and Dual Alignment for Robust Time Series Distillation
+- [面向合并结果选择专家停止点](../conferences/icml-2026/cards/1501-1600.md#horoi26a-training-strategies) · From Memorization to Parameter Interference: How Overtraining Experts Harms Model Merging
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -179,4 +185,5 @@
 - [遥感多视图聚类的原型对齐](../conferences/icml-2026/cards/1301-1400.md#guan26j-training-strategies) · Federated Multi-view Clustering for Remote Sensing Data
 - [蛋白突变的多源相对偏好蒸馏](../conferences/icml-2026/cards/1301-1400.md#guo26c-training-strategies) · MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects
 - [用性能偏好训练单元版图脚本生成](../conferences/icml-2026/cards/1401-1500.md#han26j-training-strategies) · Expert-level Leaf Cell Layout Generation via Preference-Optimized LLM
+- [按分子去噪表现选择化学振动扰动](../conferences/icml-2026/cards/1601-1700.md#hou26f-training-strategies) · MOES-Pred: Molecular Structural Representation Learning by Adaptive Energy-Sentinel Vibration for Generalized Property Prediction
 <!-- classification:end -->

@@ -15,6 +15,7 @@ Language processing methods, including structured prediction and retrieval.
 
 - <a id="dervishi26a-architecture"></a>[Separating Representation from Reconstruction Enables Scalable Text Encoders](../../conferences/icml-2026/cards/0801-0900.md#paper-dervishi26a)
 - <a id="gong26c-architecture"></a>[Scaling Transformers for End-to-End Discrete Audio Tokenization](../../conferences/icml-2026/cards/1301-1400.md#paper-gong26c)
+- <a id="hong26f-architecture"></a>[Unifying Masked Diffusion Models with Various Generation Orders and Beyond](../../conferences/icml-2026/cards/1501-1600.md#paper-hong26f)
 
 <a id="by-modules"></a>
 
@@ -27,6 +28,7 @@ Language processing methods, including structured prediction and retrieval.
 ### Loss Functions
 
 - <a id="cai26d-loss-functions"></a>[ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](../../conferences/icml-2026/cards/0301-0400.md#paper-cai26d)
+- <a id="hidekel26a-loss-functions"></a>[SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection](../../conferences/icml-2026/cards/1501-1600.md#paper-hidekel26a)
 
 <a id="by-optimization"></a>
 
@@ -39,6 +41,7 @@ Language processing methods, including structured prediction and retrieval.
 ### Reinforcement Learning Methods
 
 - <a id="bu26e-reinforcement-learning"></a>[Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](../../conferences/icml-2026/cards/0301-0400.md#paper-bu26e)
+- <a id="hou26i-reinforcement-learning"></a>[Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning](../../conferences/icml-2026/cards/1601-1700.md#paper-hou26i)
 
 <a id="by-training-strategies"></a>
 
