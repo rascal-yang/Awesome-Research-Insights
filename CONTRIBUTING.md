@@ -2,7 +2,26 @@
 
 [首页](README.md) · [English](en/CONTRIBUTING.md)
 
-欢迎通过 Pull Request 补充论文或修正已有条目。论文应有至少一种可从原文核实的机制、成立条件、反例或失败经验。用[六字段论文卡模板](templates/paper-card-template.md)记录比较、适用范围和证据。
+欢迎通过 Pull Request 补充论文或修正已有条目。用[六字段论文卡模板](templates/paper-card-template.md)记录比较、适用范围和证据。
+
+## 收录标准
+
+所有领域和会议采用同一标准。只收录有可复用价值、能从原文核实的技术 Insight。论文质量、会议级别、实验分数和是否达到 SOTA 都不影响收录判断。
+
+可收录的 Insight 包括以下四类。一个简单的辅助损失、奖励设计或训练技巧，只要符合标准，也值得收录。
+
+- **新机制**。可独立复用的模块、算法、损失、奖励函数或优化策略。
+- **新思路**。可迁移到其他任务或领域的方法设计。
+- **新规律**。由实验或理论揭示的训练、优化规律或反直觉结论。
+- **失败经验**。有普遍参考价值的失败原因、方法局限或负面结果。
+
+逐篇依次回答三个问题，全部回答「是」才收录。
+
+1. 原文是否有值得提取的技术机制、思路、规律或失败经验？
+2. 能否脱离原论文，独立理解并使用这条 Insight？
+3. 能否指出具体的迁移、改造或启发价值？
+
+任一回答为「否」即不收录。仅把已有方法应用于新任务或新数据集、扩大模型或数据与计算规模、集成现有组件、报告性能提升，或提出几乎无法迁移的场景专用创新时，先检查原文是否另有符合三问的 Insight。证据不足时留待复核。
 
 ## 新增或修订论文卡
 
@@ -13,10 +32,12 @@
 ICML 2026 按官方论文集顺序整理。从仓库根目录运行以下命令新增一批论文卡。
 
 ```text
-python conferences/icml-2026/append_batch.py <批次.tsv> --date YYYY-MM-DD --paper-cards <论文卡.tsv>
+python conferences/icml-2026/append_batch.py <批次.tsv> --date YYYY-MM-DD --paper-cards <论文卡.tsv> --screening <筛选.tsv>
 ```
 
-批次表头依次为 `number`、`pmlr_id`、`domain`、`technique`、`topic`、`insight`。沿用[分类清单](conferences/icml-2026/classification.tsv)中的分类，两张 TSV 的论文 ID 必须一致。脚本写入论文卡、更新索引并同步首页计数。
+筛选表依次使用 `number`、`pmlr_id`、`decision`、`reason`。对每篇待筛选论文按官方顺序记录 `keep` 或 `exclude`。收录理由写明具体可迁移之处，排除理由写明无法提取可复用 Insight 的依据和原文章节或 PDF 页码。
+
+批次表头依次为 `number`、`pmlr_id`、`domain`、`technique`、`topic`、`insight`。沿用[分类清单](conferences/icml-2026/classification.tsv)中的分类，只为 `keep` 的论文提供 Insight 和论文卡。全批排除时只提供 `--date` 和 `--screening`。复核已发布的旧卡时加 `--review-existing`，同样只需日期和筛选表。脚本同步论文卡、索引和首页的已筛选与收录计数。
 
 修订六字段时，运行 `python conferences/icml-2026/paper_cards.py <论文卡.tsv>`。更正卡内机制时，编辑对应小节并保留链接锚点。
 

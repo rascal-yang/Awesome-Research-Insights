@@ -16,7 +16,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest additions · 2026-11-17** · [ICML 2026 · 4,105 / 6,552 papers reviewed](conferences/icml-2026/README.md)
+**Latest screening · 2026-11-17** · [ICML 2026 · 700 / 6,552 screened · 4,105 included](conferences/icml-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -56,11 +56,11 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 ## Recent Updates
 
+- **2026-11-17** · Screened ICML 2026 papers 1–700 and updated the indexes.
+
 - **2026-11-17** · Added and classified ICML 2026 paper cards 4059–4104.
 
 - **2026-11-17** · Added and classified ICML 2026 paper cards 4007–4058.
-
-- **2026-11-17** · Added and classified ICML 2026 paper cards 3927–4006.
 
 <a id="icml-2026-first-batch"></a>
 
