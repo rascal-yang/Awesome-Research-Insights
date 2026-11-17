@@ -35,6 +35,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models](../../papers/llm.md#chen26ci-inference) · 中文
 - [MALICE: Memory-aware Loop Invariants Generation on Symbolic Execution Traces](../../papers/llm.md#chen26cm-inference) · 中文
 - [RADAR: Defending RAG Dynamically against Retrieval Corruption](../../papers/llm.md#chen26cw-inference) · 中文
+- [SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection](../../papers/llm.md#chen26dt-inference) · 中文
+- [Do LLMs Signal When They’re Right? Evidence from Neuron Agreement](../../papers/llm.md#chen26eo-inference) · 中文
+- [Certain Head, Uncertain Tail: Expert-Sample for Test-Time Scaling in Fine-Grained MoE](../../papers/llm.md#chen26er-inference) · 中文
+- [From Extraction to Deduction: Resolving Functional Misalignment in RAG via a Collaborative Critic-Reasoner Framework](../../papers/llm.md#chen26et-inference) · 中文
+- [NanoSpec: Accelerating Speculative Decoding using Minimalist In-Context Vocabularies](../../papers/llm.md#chen26fm-inference) · 中文
 
 ### Computer Vision
 
@@ -49,6 +54,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](../../papers/computer-vision.md#chen26v-inference) · 中文
 - [Normalizing Flows with Iterative Denoising](../../papers/computer-vision.md#chen26aj-inference) · 中文
 - [Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](../../papers/computer-vision.md#chen26bp-inference) · 中文
+- [XSpecMesh: Quality-Preserving Auto-Regressive Mesh Generation Acceleration via Multi-Head Speculative Decoding](../../papers/computer-vision.md#chen26dn-inference) · 中文
+- [SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis](../../papers/computer-vision.md#chen26ey-inference) · 中文
+- [ScalingAR: Scaling Confidence for Autoregressive Image Generation](../../papers/computer-vision.md#chen26fc-inference) · 中文
+- [GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](../../papers/computer-vision.md#chen26fq-inference) · 中文
 
 ### Natural Language Processing
 
@@ -81,6 +90,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking](../../papers/multimodal.md#bi26d-inference) · 中文
 - [Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning](../../papers/multimodal.md#chen26m-inference) · 中文
 - [Code2Video: A Code-centric Paradigm for Educational Video Creation](../../papers/multimodal.md#chen26bx-inference) · 中文
+- [Beyond Logits: Coherent Hallucination Mitigation via Attention Contrastive Decoding](../../papers/multimodal.md#chen26dx-inference) · 中文
+- [Beyond Blind Noising: Disentangled Visual Rectification for Hallucination Mitigation in MLLMs](../../papers/multimodal.md#chen26dz-inference) · 中文
 
 ### Machine Learning Foundations and Statistics
 

@@ -25,6 +25,8 @@
 - [监督微调与强化学习协同](../papers/llm.md#chen26an-training-strategies) · Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning
 - [知识纠错与置信校准](../papers/llm.md#chen26ap-training-strategies) · Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models
 - [4 位训练权重振荡](../papers/llm.md#chen26cl-training-strategies) · TetraJet-v2: Accurate NVFP4 Training for Large Language Models with Oscillation Suppression and Outlier Control
+- [后训练的近似在策略数据](../papers/llm.md#chen26do-training-strategies) · Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting
+- [拒答引导的激活对抗训练](../papers/llm.md#chen26em-training-strategies) · Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation
 
 ### 计算机视觉
 
@@ -33,6 +35,8 @@
 - [动态参数高效微调](../papers/computer-vision.md#cao26o-training-strategies) · Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers
 - [端侧文生图蒸馏](../papers/computer-vision.md#chavhan26a-training-strategies) · NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices
 - [视图一致的三维 VAE 稀疏训练](../papers/computer-vision.md#chen26cn-training-strategies) · Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training
+- [高斯泼溅的瞬态区域筛除](../papers/computer-vision.md#chen26dm-training-strategies) · 3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification
+- [长上下文视频蒸馏](../papers/computer-vision.md#chen26eu-training-strategies) · Context Forcing: Consistent Autoregressive Video Generation with Long Context
 
 ### 机器人学
 
@@ -61,6 +65,8 @@
 - [测试时因果结构学习](../papers/ml-foundations.md#chen26t-training-strategies) · Test-Time Learning of Causal Structure from Interventional Data
 - [存内计算权重抗扰训练](../papers/ml-foundations.md#chen26bq-training-strategies) · Diversity-aware Weight Perturbation Promotes Robust Adaptation
 - [多层联邦个性化建模](../papers/ml-foundations.md#chen26cp-training-strategies) · Personalized Additive Modeling for Multi-level Federated Learning
+- [离线 GFlowNet 的边奖励引导](../papers/ml-foundations.md#chen26ej-training-strategies) · Beyond the Proxy: Trajectory-Distilled Guidance for Offline GFlowNet Training
+- [多方向异步流水线训练](../papers/ml-foundations.md#chen26ff-training-strategies) · AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training
 
 ### 图学习与推荐
 

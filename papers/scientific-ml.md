@@ -52,6 +52,7 @@
 | <a id="chasmai26a-loss-functions"></a>[MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | 生物声学辅助监督 | 把录音已有的时间和位置元数据作为辅助学习目标，借物种与环境的相关性塑造表征，并分别测地理和声学域偏移。 |
 | <a id="chen26y-loss-functions"></a>[SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](https://proceedings.mlr.press/v306/chen26y.html) | 心电与报告对齐 | 分别用 Stein 核约束单条心电与报告的匹配及跨样本的整体分布，再用难例匹配细化边界，弥补单一对比损失只监督样本对的不足。 |
 | <a id="chen26at-loss-functions"></a>[FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](https://proceedings.mlr.press/v306/chen26at.html) | 共病多标签表征 | 让同一局部视觉证据以模糊隶属度支持多个疾病概念，再按共病关系组织概念锚点，避免硬分类边界抹掉可共享的病征。 |
+| <a id="chen26fk-loss-functions"></a>[Self-Supervised Dynamical System Representations for Physiological Time-Series](https://proceedings.mlr.press/v306/chen26fk.html) | 生理时序的跨窗重建监督 | 用同一动力过程的一个窗口估计系统表征，再让该表征参与重建另一个窗口。跨窗共享的生成规律可以帮助重建，各窗口独有的初值和过程噪声难以迁移，从而促使编码器保留可迁移信息。 |
 
 <a id="by-optimization"></a>
 
@@ -132,6 +133,7 @@
 | <a id="becktepe26a-evaluation"></a>[Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://proceedings.mlr.press/v306/becktepe26a.html) | 流体控制强化学习 | 把可微 GPU 流体求解器和环境统一在 PyTorch 栈内，固定观测、执行和评测口径，让 PPO、SAC 与可微控制能直接对照。 |
 | <a id="cao26g-evaluation"></a>[SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://proceedings.mlr.press/v306/cao26g.html) | 仿真 Agent 成本评测 | 在测参成功率之外，把仿真器调用成本独立记账，并与固定扫描基线比较。论文中，多轮交互提高成功率的同时仍可能更耗时。 |
 | <a id="chandok26a-evaluation"></a>[A Systematic Study of Behavioral Cloning for Scientific Data Annotation](https://proceedings.mlr.press/v306/chandok26a.html) | 科学标注行为克隆 | 用模拟的专家导航、纠错和验证轨迹研究标注策略，分开测界面操作与任务决策。多任务预训练可提升少样本新标注任务的微调效果。 |
+| <a id="chen26fp-evaluation"></a>[Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](https://proceedings.mlr.press/v306/chen26fp.html) | 自然感官数据的跨刺激神经预测 | 用真实环境采样训练无监督模型，再用学得的特征预测刺激诱发的皮层响应。仅用普通话训练的模型可预测英语刺激下的听觉响应，用婴儿头戴相机视频训练的模型可预测成年人观看物体图像时的视觉响应。 |
 
 <a id="by-theory-statistics"></a>
 

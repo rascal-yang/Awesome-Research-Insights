@@ -67,6 +67,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units](../../papers/llm.md#chen26cv-evaluation) · 中文
 - [How can we assess human-agent interactions? Case studies in software agent design](../../papers/llm.md#chen26da-evaluation) · 中文
 - [Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens](../../papers/llm.md#chen26di-evaluation) · 中文
+- [Scam2Prompt: A Scalable Framework for Auditing Malicious Scam Endpoints in Production LLMs](../../papers/llm.md#chen26dp-evaluation) · 中文
+- [AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use](../../papers/llm.md#chen26eg-evaluation) · 中文
+- [INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats](../../papers/llm.md#chen26fa-evaluation) · 中文
 
 ### Computer Vision
 
@@ -102,6 +105,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](../../papers/multimodal.md#cao26v-evaluation) · 中文
 - [FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](../../papers/multimodal.md#chen26ad-evaluation) · 中文
 - [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](../../papers/multimodal.md#chen26dh-evaluation) · 中文
+- [DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs](../../papers/multimodal.md#chen26dl-evaluation) · 中文
+- [OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](../../papers/multimodal.md#chen26en-evaluation) · 中文
+- [BabyVision: Visual Reasoning Beyond Language](../../papers/multimodal.md#chen26fj-evaluation) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -132,4 +138,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](../../papers/scientific-ml.md#becktepe26a-evaluation) · 中文
 - [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](../../papers/scientific-ml.md#cao26g-evaluation) · 中文
 - [A Systematic Study of Behavioral Cloning for Scientific Data Annotation](../../papers/scientific-ml.md#chandok26a-evaluation) · 中文
+- [Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](../../papers/scientific-ml.md#chen26fp-evaluation) · 中文
 <!-- classification:end -->

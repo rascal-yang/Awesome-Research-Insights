@@ -40,6 +40,7 @@ The linked short insights are available in Chinese.
 | [Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications](https://proceedings.mlr.press/v306/brandoit26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#brandoit26a-modules) |
 | [Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](https://proceedings.mlr.press/v306/cao26af.html) | [Read insight (中文)](../../papers/ml-foundations.md#cao26af-modules) |
 | [The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](https://proceedings.mlr.press/v306/chaudhry26a.html) | [Read insight (中文)](../../papers/ml-foundations.md#chaudhry26a-modules) |
+| [Riemannian Networks over Full-Rank Correlation Matrices](https://proceedings.mlr.press/v306/chen26fb.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26fb-modules) |
 
 <a id="by-loss-functions"></a>
 
@@ -105,6 +106,8 @@ The linked short insights are available in Chinese.
 | [Thinned Mean Field Langevin Dynamics](https://proceedings.mlr.press/v306/chen26bd.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26bd-optimization) |
 | [Understanding SAM through Minimax Perspective](https://proceedings.mlr.press/v306/chen26bo.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26bo-optimization) |
 | [How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](https://proceedings.mlr.press/v306/chen26de.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26de-optimization) |
+| [Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning](https://proceedings.mlr.press/v306/chen26ei.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ei-optimization) |
+| [HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation](https://proceedings.mlr.press/v306/chen26fd.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26fd-optimization) |
 
 <a id="by-training-strategies"></a>
 
@@ -126,6 +129,8 @@ The linked short insights are available in Chinese.
 | [Test-Time Learning of Causal Structure from Interventional Data](https://proceedings.mlr.press/v306/chen26t.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26t-training-strategies) |
 | [Diversity-aware Weight Perturbation Promotes Robust Adaptation](https://proceedings.mlr.press/v306/chen26bq.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26bq-training-strategies) |
 | [Personalized Additive Modeling for Multi-level Federated Learning](https://proceedings.mlr.press/v306/chen26cp.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26cp-training-strategies) |
+| [Beyond the Proxy: Trajectory-Distilled Guidance for Offline GFlowNet Training](https://proceedings.mlr.press/v306/chen26ej.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ej-training-strategies) |
+| [AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training](https://proceedings.mlr.press/v306/chen26ff.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ff-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -259,4 +264,9 @@ The linked short insights are available in Chinese.
 | [Efficient Inference for Noisy LLM-as-a-Judge Evaluation](https://proceedings.mlr.press/v306/chen26cq.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26cq-theory-statistics) |
 | [Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality](https://proceedings.mlr.press/v306/chen26dc.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26dc-theory-statistics) |
 | [Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings](https://proceedings.mlr.press/v306/chen26df.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26df-theory-statistics) |
+| [Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference](https://proceedings.mlr.press/v306/chen26ds.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ds-theory-statistics) |
+| [Mixtures of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces](https://proceedings.mlr.press/v306/chen26eb.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26eb-theory-statistics) |
+| [A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework](https://proceedings.mlr.press/v306/chen26eh.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26eh-theory-statistics) |
+| [Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise](https://proceedings.mlr.press/v306/chen26ev.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26ev-theory-statistics) |
+| [General Quantification of Covariate and Concept Shifts](https://proceedings.mlr.press/v306/chen26fg.html) | [Read insight (中文)](../../papers/ml-foundations.md#chen26fg-theory-statistics) |
 <!-- classification:end -->

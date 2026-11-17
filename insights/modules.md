@@ -70,6 +70,8 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [深层 Transformer 归一化](../papers/llm.md#chao26b-modules) · SpanNorm: Reconciling Training Stability and Performance in Deep Transformers
 - [上下文转 LoRA](../papers/llm.md#charakorn26a-modules) · Doc-to-LoRA: Learning to Instantly Internalize Contexts
 - [MoE 持续学习](../papers/llm.md#chen26aw-modules) · Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers
+- [线性投影后的局部归一化](../papers/llm.md#chen26dj-modules) · SimpleGPT: Improving GPT via A Simple Normalization Strategy
+- [独立价值空间的桥接词元](../papers/llm.md#chen26dw-modules) · Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance
 
 ### 计算机视觉
 
@@ -93,6 +95,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 
 - [细粒度视觉定位](../papers/multimodal.md#barrios26a-modules) · MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs
 - [非对称 RGB-D 特征融合](../papers/multimodal.md#chen26ch-modules) · Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance
+- [缺失模态的结构化提示](../papers/multimodal.md#chen26dv-modules) · SPR: A Structured Prompt Refinement Network for Modality Missing
 
 ### 机器学习基础与统计
 
@@ -106,6 +109,7 @@ Lift 在学生末层之后给每个 token 加线性升维，分类头读取升�
 - [低功耗循环网络](../papers/ml-foundations.md#brandoit26a-modules) · Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications
 - [多实例部分标签](../papers/ml-foundations.md#cao26af-modules) · Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product
 - [自监督投影头](../papers/ml-foundations.md#chaudhry26a-modules) · The Geometry of Projection Heads: Conditioning, Invariance, and Collapse
+- [相关矩阵流形全连接层](../papers/ml-foundations.md#chen26fb-modules) · Riemannian Networks over Full-Rank Correlation Matrices
 
 ### 图学习与推荐
 

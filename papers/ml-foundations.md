@@ -38,6 +38,7 @@
 | <a id="brandoit26a-modules"></a>[Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications](https://proceedings.mlr.press/v306/brandoit26a.html) | 低功耗循环网络 | 将离散记忆状态改为累积更新，使梯度能沿时间跳连传播。在保持量化记忆和迟滞特性的同时，可减轻早期训练对初始化的敏感性。 |
 | <a id="cao26af-modules"></a>[Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](https://proceedings.mlr.press/v306/cao26af.html) | 多实例部分标签 | 用包级预测的平均梯度外积找出对判别最敏感的特征方向，并据此重加权实例注意力，辅助识别被错误候选标签淹没的关键实例。 |
 | <a id="chaudhry26a-modules"></a>[The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](https://proceedings.mlr.press/v306/chaudhry26a.html) | 自监督投影头 | 线性投影头可做隐式白化，而平滑非线性头可在表征坍缩点引入负曲率。投影头的深度和激活函数因此会影响主干保留的信息。 |
+| <a id="chen26fb-modules"></a>[Riemannian Networks over Full-Rank Correlation Matrices](https://proceedings.mlr.press/v306/chen26fb.html) | 相关矩阵流形全连接层 | 把全连接层的每个输出坐标写成带符号的超平面距离，再用相关矩阵流形的度量和对应的逆映射合成输出，使层的输入和输出都保持满秩相关矩阵结构。 |
 
 <a id="by-loss-functions"></a>
 
@@ -103,6 +104,8 @@
 | <a id="chen26bd-optimization"></a>[Thinned Mean Field Langevin Dynamics](https://proceedings.mlr.press/v306/chen26bd.html) | 核稀疏化的朗之万更新 | 每步用核稀疏化从 N 个粒子中选出约 √N 个代表粒子，所有粒子仅用这组代表计算漂移。单步成本降至 O(N³ᐟ²)，在论文给定的正则条件下，有限粒子误差只增加对数因子。 |
 | <a id="chen26bo-optimization"></a>[Understanding SAM through Minimax Perspective](https://proceedings.mlr.press/v306/chen26bo.html) | 多步 SAM 邻域搜索 | 固定参数，在半径约束下反复以扰动点的归一化梯度更新内层扰动，再用最终扰动点的梯度更新参数。内层映射满足收缩条件时，增加内步数可按几何速率降低相应的轨迹误差项。 |
 | <a id="chen26de-optimization"></a>[How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](https://proceedings.mlr.press/v306/chen26de.html) | 受遗忘进度约束的模型更新 | 用遗忘损失与保留损失的梯度关系衡量目标冲突，在满足指定遗忘进度的约束下选择保留代价较小的更新方向。冲突过强时可据此判断继续更新是否会损害保留效用。 |
+| <a id="chen26ei-optimization"></a>[Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning](https://proceedings.mlr.press/v306/chen26ei.html) | LoRA 学习率的秩缩放 | 在论文的更新模型下，若 LoRA 的 A 随机、B 置零且适配器乘数为 1，固定宽度时稳定学习率与秩的平方根成反比。改为 B 随机、A 置零后，学习率与秩无关，且与全量微调有相同的宽度缩放规律。 |
+| <a id="chen26fd-optimization"></a>[HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation](https://proceedings.mlr.press/v306/chen26fd.html) | 分割联邦学习的混阶更新 | 服务端正常反传，客户端只做参数扰动后的前向计算，把切分层激活差投影到服务端返回的激活梯度上。服务端聚合这些标量，并用共享扰动方向重建更新，聚合消息大小与客户端参数维数解耦。 |
 
 <a id="by-training-strategies"></a>
 
@@ -124,6 +127,8 @@
 | <a id="chen26t-training-strategies"></a>[Test-Time Learning of Causal Structure from Interventional Data](https://proceedings.mlr.press/v306/chen26t.html) | 测试时因果结构学习 | 对每个新干预设定做实例级自增强，再依联合因果推断分阶段学习因果结构和干预目标，减少训练环境与实际干预不一致造成的偏移。 |
 | <a id="chen26bq-training-strategies"></a>[Diversity-aware Weight Perturbation Promotes Robust Adaptation](https://proceedings.mlr.press/v306/chen26bq.html) | 存内计算权重抗扰训练 | 对同一批样本施加多组乘性高斯权重扰动，以不同扰动间预测 logits 的平均余弦相似度给各扰动损失加权，再与干净权重的任务损失联合训练。预测越接近扰动集合共识，该扰动损失的权重越大。 |
 | <a id="chen26cp-training-strategies"></a>[Personalized Additive Modeling for Multi-level Federated Learning](https://proceedings.mlr.press/v306/chen26cp.html) | 多层联邦个性化建模 | 每个客户端从各层至多选一个模型，将全局、子群和个体层的预测相加，由细粒度模型补偿粗粒度模型留下的残差。每轮只训练一层，控制多模型带来的开销。 |
+| <a id="chen26ej-training-strategies"></a>[Beyond the Proxy: Trajectory-Distilled Guidance for Offline GFlowNet Training](https://proceedings.mlr.press/v306/chen26ej.html) | 离线 GFlowNet 的边奖励引导 | 从离线轨迹逆向学习状态转移的边奖励，用它裁剪低分边并从离线终点优先向后采样。策略损失只使用数据记录的真实终点奖励，避免将估计边奖励的误差直接带入训练目标。 |
+| <a id="chen26ff-training-strategies"></a>[AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training](https://proceedings.mlr.press/v306/chen26ff.html) | 多方向异步流水线训练 | 限制每条流水线的首阶段最多连续前向处理两个小批次，再用并发流水线填补空闲。跨小批次积累梯度后统一更新，把受影响前向和反向所用参数的差异限制在一次更新内。 |
 
 <a id="by-data-strategies"></a>
 
@@ -257,4 +262,9 @@
 | <a id="chen26cq-theory-statistics"></a>[Efficient Inference for Noisy LLM-as-a-Judge Evaluation](https://proceedings.mlr.press/v306/chen26cq.html) | 有噪语言模型裁判的均值估计 | 用少量人工金标校正自动裁判评分的预测残差。在裁判具有判别力的二元误分类模型中，预测驱动推断的渐近方差小于直接误分类率校正，最优加权后可达到半参数效率界。 |
 | <a id="chen26dc-theory-statistics"></a>[Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality](https://proceedings.mlr.press/v306/chen26dc.html) | 异质任务的正交估计与自适应融合 | 根据各任务的初步参数估计给两两融合惩罚分配权重，同时用 Neyman 正交损失减弱干扰参数估计误差。在论文的分离和正则条件下，可恢复潜在任务簇并获得簇内合并估计的渐近效率。 |
 | <a id="chen26df-theory-statistics"></a>[Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings](https://proceedings.mlr.press/v306/chen26df.html) | 纵向干预策略的联合效应估计 | 用核均值嵌入刻画多种动态策略的相似性，通过共享的策略编码器联合估计条件期望，再做纵向目标最大似然校正。共享表征约束了二阶余项，在近似策略的对比中可降低半合成实验的估计误差。 |
+| <a id="chen26ds-theory-statistics"></a>[Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference](https://proceedings.mlr.press/v306/chen26ds.html) | 对抗序列的在线尾部风险控制 | 用 Rockafellar–Uryasev 表示把条件风险价值化为阈值优化，内层在线学习阈值，外层按代理损失与风险目标之差调整控制量。在有界损失下，任意对抗序列的经验风险上界与目标相差 O(T⁻¹ᐟ²)。 |
+| <a id="chen26eb-theory-statistics"></a>[Mixtures of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces](https://proceedings.mlr.press/v306/chen26eb.html) | 流形上的测地因子混合 | 为黎曼齐性空间中的每个混合分量设置低维切空间因子，用指数映射把因子位移送回流形，再围绕所得位置加黎曼噪声。这使不同分量能各自表达沿特定测地方向的各向异性。 |
+| <a id="chen26eh-theory-statistics"></a>[A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework](https://proceedings.mlr.press/v306/chen26eh.html) | 单次主观评分的不确定性估计 | 以共享潜变量解释主观评分与客观辅助数据的共同成分，再为每个评分项引入加性不确定变量，用辅助数据预测其先验协方差。该模型在合成实验中从单次配对观测恢复了设定的不确定性。 |
+| <a id="chen26ev-theory-statistics"></a>[Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise](https://proceedings.mlr.press/v306/chen26ev.html) | 重尾梯度噪声下的泛化界 | 当梯度噪声只有有限的 p 阶中心矩且 1＜p≤2 时，可在证明中把误差分成截断主体和尾部，用梯度稳定性控制主体、用矩条件控制尾部，从而界定非凸优化的梯度泛化误差。 |
+| <a id="chen26fg-theory-statistics"></a>[General Quantification of Covariate and Concept Shifts](https://proceedings.mlr.press/v306/chen26fg.html) | 支持集不重合时的概念漂移 | 先用熵正则最优传输耦合源域与目标域协变量，再对配对点的条件标签分布计算 Wasserstein 距离并求期望。即使两域支持集不同，也可在同一泛化误差界中计入协变量变化与标注规律变化。 |
 <!-- classification:end -->

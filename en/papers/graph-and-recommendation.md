@@ -27,6 +27,14 @@ The linked short insights are available in Chinese.
 | [GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](https://proceedings.mlr.press/v306/bai26i.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#bai26i-modules) |
 | [Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://proceedings.mlr.press/v306/barcelo26a.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#barcelo26a-modules) |
 
+<a id="by-loss-functions"></a>
+
+### Loss Functions
+
+| Paper | Insight |
+| :--- | :--- |
+| [Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](https://proceedings.mlr.press/v306/chen26ez.html) | [Read insight (中文)](../../papers/graph-and-recommendation.md#chen26ez-loss-functions) |
+
 <a id="by-optimization"></a>
 
 ### Optimization

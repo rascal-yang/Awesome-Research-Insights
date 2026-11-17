@@ -16,6 +16,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection](../../papers/llm.md#chen26ba-optimization) · 中文
 - [Reward-free Alignment for Conflicting Objectives](../../papers/llm.md#chen26bl-optimization) · 中文
 - [BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models](../../papers/llm.md#chen26bt-optimization) · 中文
+- [Escaping the Subspace Trap: The Role of Optimizer Geometry in Model Width Expansion](../../papers/llm.md#chen26eq-optimization) · 中文
+- [SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search](../../papers/llm.md#chen26ew-optimization) · 中文
+- [QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment](../../papers/llm.md#chen26ex-optimization) · 中文
+- [Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner](../../papers/llm.md#chen26fe-optimization) · 中文
 
 ### Robotics
 
@@ -68,6 +72,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Thinned Mean Field Langevin Dynamics](../../papers/ml-foundations.md#chen26bd-optimization) · 中文
 - [Understanding SAM through Minimax Perspective](../../papers/ml-foundations.md#chen26bo-optimization) · 中文
 - [How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning](../../papers/ml-foundations.md#chen26de-optimization) · 中文
+- [Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning](../../papers/ml-foundations.md#chen26ei-optimization) · 中文
+- [HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation](../../papers/ml-foundations.md#chen26fd-optimization) · 中文
 
 ### Graph Learning and Recommendation
 

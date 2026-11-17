@@ -67,6 +67,9 @@
 - [可解释注意力头的训练数据归因](../papers/llm.md#chen26cv-evaluation) · Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units
 - [人机协作智能体评测](../papers/llm.md#chen26da-evaluation) · How can we assess human-agent interactions? Case studies in software agent design
 - [用逐层预测变化衡量推理投入](../papers/llm.md#chen26di-evaluation) · Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens
+- [代码生成的诈骗链接审计](../papers/llm.md#chen26dp-evaluation) · Scam2Prompt: A Scalable Framework for Auditing Malicious Scam Endpoints in Production LLMs
+- [工具智能体的用户交互评测](../papers/llm.md#chen26eg-evaluation) · AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use
+- [分块低比特量化格式比较](../papers/llm.md#chen26fa-evaluation) · INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats
 
 ### 计算机视觉
 
@@ -102,6 +105,9 @@
 - [音视频生成评测](../papers/multimodal.md#cao26v-evaluation) · T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation
 - [音视频未来预测评测](../papers/multimodal.md#chen26ad-evaluation) · FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs
 - [误导视觉线索的配对评测](../papers/multimodal.md#chen26dh-evaluation) · MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs
+- [基于物体提示的幻觉检测](../papers/multimodal.md#chen26dl-evaluation) · DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs
+- [文生图工具链越狱评测](../papers/multimodal.md#chen26en-evaluation) · OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing
+- [基础视觉推理诊断](../papers/multimodal.md#chen26fj-evaluation) · BabyVision: Visual Reasoning Beyond Language
 
 ### 机器学习基础与统计
 
@@ -132,4 +138,5 @@
 - [流体控制强化学习](../papers/scientific-ml.md#becktepe26a-evaluation) · Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control
 - [仿真 Agent 成本评测](../papers/scientific-ml.md#cao26g-evaluation) · SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs
 - [科学标注行为克隆](../papers/scientific-ml.md#chandok26a-evaluation) · A Systematic Study of Behavioral Cloning for Scientific Data Annotation
+- [自然感官数据的跨刺激神经预测](../papers/scientific-ml.md#chen26fp-evaluation) · Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli
 <!-- classification:end -->

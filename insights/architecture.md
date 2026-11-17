@@ -19,6 +19,7 @@
 - [视频分词](../papers/computer-vision.md#atanov26a-architecture) · VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization
 - [像素空间扩散](../papers/computer-vision.md#baade26a-architecture) · Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation
 - [少样本布局生成](../papers/computer-vision.md#bao26f-architecture) · Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation
+- [按空间分组的同位词元预测](../papers/computer-vision.md#chen26du-architecture) · Autoregression with Self-Token Prediction
 
 ### 强化学习
 

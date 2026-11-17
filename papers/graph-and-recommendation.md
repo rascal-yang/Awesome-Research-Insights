@@ -25,6 +25,14 @@
 | <a id="bai26i-modules"></a>[GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](https://proceedings.mlr.press/v306/bai26i.html) | 图卷积 | 用 Dominant Set 迭代估计全图节点的重要性，在每层局部消息传播前重加权，令邻域卷积也能利用非邻接节点的关联。 |
 | <a id="barcelo26a-modules"></a>[Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://proceedings.mlr.press/v306/barcelo26a.html) | 图神经网络表达力 | 把消息传播的中心从点移到边，并沿三角形交换信息，可区分更多图结构，在论文考虑的实际图负载上仍保持近线性开销。 |
 
+<a id="by-loss-functions"></a>
+
+### 损失函数
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="chen26ez-loss-functions"></a>[Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](https://proceedings.mlr.press/v306/chen26ez.html) | 推荐排序的伪负例偏好优化 | 两两偏好更新可能几乎不改变正例和未采样负例的相对次序。加入带锚定奖励的伪负例作为额外比较对象，可为这些容易被原有梯度忽略的排序关系补充监督。 |
+
 <a id="by-optimization"></a>
 
 ### 优化

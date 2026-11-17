@@ -46,6 +46,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](../../papers/reinforcement-learning.md#braverman26a-theory-statistics) · 中文
 - [Understanding Behavior Cloning with Action Quantization](../../papers/reinforcement-learning.md#cao26x-theory-statistics) · 中文
 - [Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](../../papers/reinforcement-learning.md#carr26a-theory-statistics) · 中文
+- [Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](../../papers/reinforcement-learning.md#chen26dy-theory-statistics) · 中文
+- [A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](../../papers/reinforcement-learning.md#chen26ef-theory-statistics) · 中文
 
 ### Multimodal Learning
 
@@ -120,6 +122,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Efficient Inference for Noisy LLM-as-a-Judge Evaluation](../../papers/ml-foundations.md#chen26cq-theory-statistics) · 中文
 - [Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality](../../papers/ml-foundations.md#chen26dc-theory-statistics) · 中文
 - [Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings](../../papers/ml-foundations.md#chen26df-theory-statistics) · 中文
+- [Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference](../../papers/ml-foundations.md#chen26ds-theory-statistics) · 中文
+- [Mixtures of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces](../../papers/ml-foundations.md#chen26eb-theory-statistics) · 中文
+- [A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework](../../papers/ml-foundations.md#chen26eh-theory-statistics) · 中文
+- [Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise](../../papers/ml-foundations.md#chen26ev-theory-statistics) · 中文
+- [General Quantification of Covariate and Concept Shifts](../../papers/ml-foundations.md#chen26fg-theory-statistics) · 中文
 
 ### Graph Learning and Recommendation
 

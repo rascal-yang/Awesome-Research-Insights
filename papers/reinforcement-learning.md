@@ -23,6 +23,14 @@
 | :--- | :--- | :--- |
 | <a id="bian26a-architecture"></a>[RN-D: Discretized Categorical Actors for On-Policy Reinforcement Learning](https://proceedings.mlr.press/v306/bian26a.html) | 连续控制动作表示 | 将每个连续动作维度分箱，用分类分布代替高斯策略，并搭配正则化网络，可改善论文所测的 on-policy 控制任务。 |
 
+<a id="by-loss-functions"></a>
+
+### 损失函数
+
+| 论文 | 技术主题 | Insight |
+| :--- | :--- | :--- |
+| <a id="chen26ep-loss-functions"></a>[Continuity-Regularized Flow Matching for Offline Reinforcement Learning](https://proceedings.mlr.press/v306/chen26ep.html) | 离线强化学习流策略正则 | 从连续性方程导出对动作速度场雅可比矩阵的正则项，用随机雅可比向量积估计范数，再用 Beta 分布加密中间流时刻的采样，约束从噪声到动作的生成路径。 |
+
 <a id="by-reinforcement-learning"></a>
 
 ### 强化学习方法
@@ -46,6 +54,9 @@
 | <a id="bui26a-reinforcement-learning"></a>[Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](https://proceedings.mlr.press/v306/bui26a.html) | 离线到在线强化学习 | 离线从扩散模型蒸馏快采样 actor 和转移模型，在线以 Laplace 近似和状态偏移判断不确定性，帮助在分布变动时调节探索。 |
 | <a id="cao26f-reinforcement-learning"></a>[Direct Flow Q-Learning](https://proceedings.mlr.press/v306/cao26f.html) | 流匹配策略优化 | 用最终动作的 Q 值梯度构造每一步速度场的引导项，直接训练多步流策略，避免通过全部采样步骤反传或蒸馏成单步。 |
 | <a id="chen26cc-reinforcement-learning"></a>[Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes](https://proceedings.mlr.press/v306/chen26cc.html) | 重尾损失下的占用度量更新 | 已知转移时，用随状态动作占用概率变化的阈值跳过极端损失，再用跳过补偿项修正估计并更新 FTRL 策略。在论文的有限 α 阶矩假设下，该估计支持对抗情形的次线性遗憾及满足自约束条件的随机情形的对数遗憾。 |
+| <a id="chen26dk-reinforcement-learning"></a>[Multi-Agent Reinforcement Learning with Submodular Reward](https://proceedings.mlr.press/v306/chen26dk.html) | 次模团队奖励的贪心策略 | 固定前面智能体的局部策略，把新智能体带来的团队奖励增量作为它的奖励，再求解单智能体策略。在独立转移、单调次模奖励且动力学已知的设定下，所得策略达到最优价值的一半减去有限采样误差。 |
+| <a id="chen26fl-reinforcement-learning"></a>[Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning](https://proceedings.mlr.press/v306/chen26fl.html) | 离线强化学习的对抗动力学适配 | 在受离线转移数据约束的范围内，把世界模型更新为降低当前策略回报的响应，并用 Stackelberg 学习让策略更新考虑这一模型响应。在加噪的 MuJoCo 和随机托卡马克控制任务中，所得策略更稳健。 |
+| <a id="chen26fn-reinforcement-learning"></a>[VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning](https://proceedings.mlr.press/v306/chen26fn.html) | 价值一致性约束的离线世界模型 | 在转移拟合之外，再惩罚模型内估计的价值与离线数据直接估计的价值之间的差异，使世界模型的训练兼顾对决策回报有影响的误差。 |
 | <a id="liu26aa-reinforcement-learning"></a>[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://proceedings.mlr.press/v306/liu26aa.html) | 多奖励策略优化 | 先在同一轨迹组内分别归一化各项奖励，再合并优势，避免量级大的奖励淹没其余维度。 [详细解读](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation) |
 
 <a id="by-data-strategies"></a>
@@ -101,4 +112,6 @@
 | <a id="braverman26a-theory-statistics"></a>[Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits](https://proceedings.mlr.press/v306/braverman26a.html) | 流式多臂老虎机 | 只允许在最近到达的臂里选择时，有限存储使精确找最佳臂困难，近似最佳臂则可用更少内存；可用这一区别决定要保证哪种精度。 |
 | <a id="cao26x-theory-statistics"></a>[Understanding Behavior Cloning with Action Quantization](https://proceedings.mlr.press/v306/cao26x.html) | 行为克隆动作量化 | 当动力学稳定且策略满足概率平滑条件时，离散动作上的对数损失可保持最优样本复杂度；量化误差随时域至多多项式放大。 |
 | <a id="carr26a-theory-statistics"></a>[Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems](https://proceedings.mlr.press/v306/carr26a.html) | 长期偏好强化学习 | 将轨迹成对偏好建成马尔可夫竞赛，在该设定下可用定常马尔可夫策略达到依赖完整历史的策略所能达到的表现。 |
+| <a id="chen26dy-theory-statistics"></a>[Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity](https://proceedings.mlr.press/v306/chen26dy.html) | 重置噪声与有效折扣 | 若每步以概率 1−α 从固定分布重置，且重置概率和分布均与当前状态及动作无关，则折扣为 γ 的含噪 MDP 与折扣为 αγ 的原 MDP 共享最优策略。有效规划范围因此可由保留原转移的概率刻画。 |
+| <a id="chen26ef-theory-statistics"></a>[A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits](https://proceedings.mlr.press/v306/chen26ef.html) | 因果公平约束下的上下文老虎机 | 分别约束受保护属性的反事实直接、间接及伪关联效应，用在线估计和探索补偿项近似可行域，再把镜像下降得到的策略投影进去。在论文的因果识别和约束可行条件下，累积遗憾和约束违反均可次线性增长。 |
 <!-- classification:end -->

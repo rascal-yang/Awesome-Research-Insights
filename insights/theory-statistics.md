@@ -46,6 +46,8 @@
 - [流式多臂老虎机](../papers/reinforcement-learning.md#braverman26a-theory-statistics) · Online Learning with Recency: Algorithms for Sliding-window Streaming Multi-armed Bandits
 - [行为克隆动作量化](../papers/reinforcement-learning.md#cao26x-theory-statistics) · Understanding Behavior Cloning with Action Quantization
 - [长期偏好强化学习](../papers/reinforcement-learning.md#carr26a-theory-statistics) · Reinforcement Learning with Pairwise Preferences in Long-Term Decision Problems
+- [重置噪声与有效折扣](../papers/reinforcement-learning.md#chen26dy-theory-statistics) · Noise as a Natural Regularizer in Markov Decision Processes: Connecting Environmental Stochasticity and Policy Simplicity
+- [因果公平约束下的上下文老虎机](../papers/reinforcement-learning.md#chen26ef-theory-statistics) · A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits
 
 ### 多模态学习
 
@@ -120,6 +122,11 @@
 - [有噪语言模型裁判的均值估计](../papers/ml-foundations.md#chen26cq-theory-statistics) · Efficient Inference for Noisy LLM-as-a-Judge Evaluation
 - [异质任务的正交估计与自适应融合](../papers/ml-foundations.md#chen26dc-theory-statistics) · Adaptive Estimation and Inference in Semi-parametric Heterogeneous Clustered Multitask Learning via Neyman Orthogonality
 - [纵向干预策略的联合效应估计](../papers/ml-foundations.md#chen26df-theory-statistics) · Smooth Multi-Policy Causal Effect Estimation in Longitudinal Settings
+- [对抗序列的在线尾部风险控制](../papers/ml-foundations.md#chen26ds-theory-statistics) · Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference
+- [流形上的测地因子混合](../papers/ml-foundations.md#chen26eb-theory-statistics) · Mixtures of Geodesic Factor Analyzers on Riemannian Homogeneous Spaces
+- [单次主观评分的不确定性估计](../papers/ml-foundations.md#chen26eh-theory-statistics) · A Bayesian Approach to Quantify the Uncertainty of Human Ratings in a Single-Instance Multimodal Framework
+- [重尾梯度噪声下的泛化界](../papers/ml-foundations.md#chen26ev-theory-statistics) · Stability and Generalization of Nonconvex Optimization with Heavy-Tailed Noise
+- [支持集不重合时的概念漂移](../papers/ml-foundations.md#chen26fg-theory-statistics) · General Quantification of Covariate and Concept Shifts
 
 ### 图学习与推荐
 

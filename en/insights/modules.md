@@ -66,6 +66,8 @@ Teacher features can be low rank for each image while occupying different subspa
 - [SpanNorm: Reconciling Training Stability and Performance in Deep Transformers](../../papers/llm.md#chao26b-modules) · 中文
 - [Doc-to-LoRA: Learning to Instantly Internalize Contexts](../../papers/llm.md#charakorn26a-modules) · 中文
 - [Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers](../../papers/llm.md#chen26aw-modules) · 中文
+- [SimpleGPT: Improving GPT via A Simple Normalization Strategy](../../papers/llm.md#chen26dj-modules) · 中文
+- [Toward Stable Value Alignment: Introducing Independent Modules for Consistent Value Guidance](../../papers/llm.md#chen26dw-modules) · 中文
 
 ### Computer Vision
 
@@ -89,6 +91,7 @@ Teacher features can be low rank for each image while occupying different subspa
 
 - [MoDA: Modulation Adapter for Fine-Grained Visual Understanding in Instructional MLLMs](../../papers/multimodal.md#barrios26a-modules) · 中文
 - [Hamiltonian Asymmetric Fusion: One-Way Safe Directed Refinement under Modality Imbalance](../../papers/multimodal.md#chen26ch-modules) · 中文
+- [SPR: A Structured Prompt Refinement Network for Modality Missing](../../papers/multimodal.md#chen26dv-modules) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -102,6 +105,7 @@ Teacher features can be low rank for each image while occupying different subspa
 - [Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications](../../papers/ml-foundations.md#brandoit26a-modules) · 中文
 - [Enhanced Multi-Instance Partial Label Learning via Average Gradient Outer Product](../../papers/ml-foundations.md#cao26af-modules) · 中文
 - [The Geometry of Projection Heads: Conditioning, Invariance, and Collapse](../../papers/ml-foundations.md#chaudhry26a-modules) · 中文
+- [Riemannian Networks over Full-Rank Correlation Matrices](../../papers/ml-foundations.md#chen26fb-modules) · 中文
 
 ### Graph Learning and Recommendation
 

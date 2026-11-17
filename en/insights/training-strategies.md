@@ -25,6 +25,8 @@ Training schedules, curricula, and task or stage composition.
 - [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](../../papers/llm.md#chen26an-training-strategies) · 中文
 - [Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models](../../papers/llm.md#chen26ap-training-strategies) · 中文
 - [TetraJet-v2: Accurate NVFP4 Training for Large Language Models with Oscillation Suppression and Outlier Control](../../papers/llm.md#chen26cl-training-strategies) · 中文
+- [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](../../papers/llm.md#chen26do-training-strategies) · 中文
+- [Steering Beyond the Support: Adversarial Training on Unsupervised Jailbroken Activation Simulation](../../papers/llm.md#chen26em-training-strategies) · 中文
 
 ### Computer Vision
 
@@ -33,6 +35,8 @@ Training schedules, curricula, and task or stage composition.
 - [Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](../../papers/computer-vision.md#cao26o-training-strategies) · 中文
 - [NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](../../papers/computer-vision.md#chavhan26a-training-strategies) · 中文
 - [Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](../../papers/computer-vision.md#chen26cn-training-strategies) · 中文
+- [3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification](../../papers/computer-vision.md#chen26dm-training-strategies) · 中文
+- [Context Forcing: Consistent Autoregressive Video Generation with Long Context](../../papers/computer-vision.md#chen26eu-training-strategies) · 中文
 
 ### Robotics
 
@@ -61,6 +65,8 @@ Training schedules, curricula, and task or stage composition.
 - [Test-Time Learning of Causal Structure from Interventional Data](../../papers/ml-foundations.md#chen26t-training-strategies) · 中文
 - [Diversity-aware Weight Perturbation Promotes Robust Adaptation](../../papers/ml-foundations.md#chen26bq-training-strategies) · 中文
 - [Personalized Additive Modeling for Multi-level Federated Learning](../../papers/ml-foundations.md#chen26cp-training-strategies) · 中文
+- [Beyond the Proxy: Trajectory-Distilled Guidance for Offline GFlowNet Training](../../papers/ml-foundations.md#chen26ej-training-strategies) · 中文
+- [AMDP: Asynchronous Multi-Directional Pipeline Parallelism for Large-Scale Models Training](../../papers/ml-foundations.md#chen26ff-training-strategies) · 中文
 
 ### Graph Learning and Recommendation
 

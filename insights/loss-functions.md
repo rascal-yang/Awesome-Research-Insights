@@ -69,6 +69,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [异质偏好学习](../papers/llm.md#aouad26a-loss-functions) · The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity
 - [潜在思维链的重建监督](../papers/llm.md#chen26bi-loss-functions) · What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis
 - [MoE 软路由负载均衡](../papers/llm.md#chen26br-loss-functions) · $φ$-Balancing for Mixture-of-Experts Training
+- [离散扩散的奖励倾斜匹配](../papers/llm.md#chen26el-loss-functions) · Discrete Tilt Matching
 
 ### 计算机视觉
 
@@ -78,6 +79,10 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 ### 自然语言处理
 
 - [检索器生成正则](../papers/nlp.md#cai26d-loss-functions) · ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization
+
+### 强化学习
+
+- [离线强化学习流策略正则](../papers/reinforcement-learning.md#chen26ep-loss-functions) · Continuity-Regularized Flow Matching for Offline Reinforcement Learning
 
 ### 机器人学
 
@@ -90,6 +95,7 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [自监督流匹配](../papers/multimodal.md#chefer26a-loss-functions) · Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis
 - [多模态提示泛化](../papers/multimodal.md#chen26au-loss-functions) · Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks
 - [视觉指令微调的语言偏差正则](../papers/multimodal.md#chen26bn-loss-functions) · Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation
+- [多轮音频编辑的独立加噪](../papers/multimodal.md#chen26dq-loss-functions) · AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing
 
 ### 机器学习基础与统计
 
@@ -100,6 +106,10 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [单步条件采样](../papers/ml-foundations.md#chatterjee26a-loss-functions) · One-shot Conditional Sampling: MMD meets Nearest Neighbors
 - [密度加权的分位数回归](../papers/ml-foundations.md#chen26bm-loss-functions) · Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction
 
+### 图学习与推荐
+
+- [推荐排序的伪负例偏好优化](../papers/graph-and-recommendation.md#chen26ez-loss-functions) · Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach
+
 ### 科学机器学习
 
 - [鲁棒损失](../papers/scientific-ml.md#abijuru26b-loss-functions) · Heavy-tailed Physics-Informed Neural Networks
@@ -108,4 +118,5 @@ ReconVLA（Song 等，AAAI 2026） · [§§3.2–3.3、图 3 与公式 3](https:
 - [生物声学辅助监督](../papers/scientific-ml.md#chasmai26a-loss-functions) · MetaPerch: Learning from metadata for bioacoustics foundation models
 - [心电与报告对齐](../papers/scientific-ml.md#chen26y-loss-functions) · SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning
 - [共病多标签表征](../papers/scientific-ml.md#chen26at-loss-functions) · FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis
+- [生理时序的跨窗重建监督](../papers/scientific-ml.md#chen26fk-loss-functions) · Self-Supervised Dynamical System Representations for Physiological Time-Series
 <!-- classification:end -->

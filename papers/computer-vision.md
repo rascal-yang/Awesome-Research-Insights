@@ -24,6 +24,7 @@
 | <a id="atanov26a-architecture"></a>[VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](https://proceedings.mlr.press/v306/atanov26a.html) | 视频分词 | 让视频 token 按粗到细排列，前面少量 token 保留语义与运动，尾部补充细节。生成式解码器可以在不同截断长度重建视频。 |
 | <a id="baade26a-architecture"></a>[Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://proceedings.mlr.press/v306/baade26a.html) | 像素空间扩散 | 给潜变量和像素安排不同噪声日程，使模型先形成可作中间计算的潜表示，再补出高频像素细节。 |
 | <a id="bao26f-architecture"></a>[Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | 少样本布局生成 | 用类别锚点保留对象身份，将局部视觉细节编码成可重组原语，缓解小样本非典型布局生成中的语义碎裂。 |
+| <a id="chen26du-architecture"></a>[Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | 按空间分组的同位词元预测 | 把图像词元按空间顺序分组，用已生成组构造与当前组位置对齐的输入。当前组输入内部可做全注意力，并行预测对应位置，组间掩码保证预测只依赖先前生成的真实词元。 |
 
 <a id="by-modules"></a>
 
@@ -56,6 +57,7 @@
 | :--- | :--- | :--- |
 | <a id="ba26a-reinforcement-learning"></a>[Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://proceedings.mlr.press/v306/ba26a.html) | 多奖励生成优化 | 对同一个提示构造样本的 Pareto 前沿，再用最优传输把被支配样本推向前沿，降低整个数据集共用一个加权奖励所带来的投机空间。 |
 | <a id="chen26as-reinforcement-learning"></a>[Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) | 流匹配测试时优化 | 把中间潜变量看作待选择状态，在同一速度场中用随机 rollout 探索。先按高噪声阶段的奖励差稳定结构，再用组相对优势调整低噪声细节。 |
+| <a id="chen26ea-reinforcement-learning"></a>[RELO: Reinforcement Learning to Localize for Visual Object Tracking](https://proceedings.mlr.press/v306/chen26ea.html) | 目标跟踪定位策略 | 先预热边界框回归头，再把特征图上的位置作为动作，用采样位置对应的预测框计算逐帧 IoU 和序列 AUC 奖励，以 actor-critic 更新定位策略，使训练能直接利用跟踪评测指标。 |
 
 <a id="by-training-strategies"></a>
 
@@ -68,6 +70,8 @@
 | <a id="cao26o-training-strategies"></a>[Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | 动态参数高效微调 | 定期重测视觉 Transformer 各处的敏感性，把学过的适配模块冻结，再将可训练参数额度分给新出现的敏感位置。 |
 | <a id="chavhan26a-training-strategies"></a>[NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | 端侧文生图蒸馏 | 分阶段裁剪扩散 Transformer，并只让中间块用降采样 token；再用去噪器早期层的视觉信号蒸馏文本编码器，把压缩分摊到多个环节。 |
 | <a id="chen26cn-training-strategies"></a>[Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](https://proceedings.mlr.press/v306/chen26cn.html) | 视图一致的三维 VAE 稀疏训练 | 训练时将潜体素投影到当前视角，用真值网格的渲染深度筛除远离可见表面的体素，并保留命中体素的邻域，使解码和注意力的开销集中在当前渲染损失可监督的区域。 |
+| <a id="chen26dm-training-strategies"></a>[3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification](https://proceedings.mlr.press/v306/chen26dm.html) | 高斯泼溅的瞬态区域筛除 | 以规则图像块为单位汇总训练图与渲染图之间的误差。用 RGB 差异估计静态区域比例，再据此约束感知误差的筛除阈值，减少把纹理弱的静态区域误判成瞬态干扰。 |
+| <a id="chen26eu-training-strategies"></a>[Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://proceedings.mlr.press/v306/chen26eu.html) | 长上下文视频蒸馏 | 让教师和学生都读取长视频历史，避免短窗口教师给出的监督只覆盖局部时序。缓存用滚动队列保留近期帧，并按相邻键向量的差异挑选有新信息的词元长期保留。 |
 
 <a id="by-data-strategies"></a>
 
@@ -97,6 +101,10 @@
 | <a id="chen26v-inference"></a>[PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](https://proceedings.mlr.press/v306/chen26v.html) | 免训练视频异常检测 | 利用冻结多模态嵌入，在特征空间做差分放大和白化，抑制正常背景共有成分，从而用低开销提高异常信号的可辨识度。 |
 | <a id="chen26aj-inference"></a>[Normalizing Flows with Iterative Denoising](https://proceedings.mlr.press/v306/chen26aj.html) | 归一化流采样 | 保持训练端到端最大似然，采样时在自回归输出后追加迭代去噪，从而把精确似然训练与多步图像细化结合。 |
 | <a id="chen26bp-inference"></a>[Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](https://proceedings.mlr.press/v306/chen26bp.html) | 流匹配的双锚点积分 | 用冻结主干确定积分区间两端的速度，再由轻量旁路网络从两个方向批量估计区间内速度并做高阶数值积分。在 ImageNet-256 实验中，用 10 次主干评估达到与百步欧拉法相近的生成质量。 |
+| <a id="chen26dn-inference"></a>[XSpecMesh: Quality-Preserving Auto-Regressive Mesh Generation Acceleration via Multi-Head Speculative Decoding](https://proceedings.mlr.press/v306/chen26dn.html) | 网格词元的投机解码 | 让轻量多头并行预测后续网格词元，主干用一次带因果掩码的前向计算核验。保留主干赋予概率达到阈值的连续前缀，从第一个未通过的位置重新采样。 |
+| <a id="chen26ey-inference"></a>[SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis](https://proceedings.mlr.press/v306/chen26ey.html) | 新视角扩散的语义条件 | 逐步去噪时，在有观测覆盖的像素用从输入视图变换过来的语义特征，在其余像素从当前预测的干净图中提取 DINO 特征，让相机位移较大时仍有语义条件可用。 |
+| <a id="chen26fc-inference"></a>[ScalingAR: Scaling Confidence for Autoregressive Image Generation](https://proceedings.mlr.press/v306/chen26fc.html) | 自回归图像采样的轨迹剪枝 | 用视觉 token 的预测熵与条件信号评估正在生成的轨迹，并随置信度调整条件引导强度、提前停止低分轨迹。这样可在潜 token 空间分配采样预算，省去中途解码图像和调用外部评分器。 |
+| <a id="chen26fq-inference"></a>[GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](https://proceedings.mlr.press/v306/chen26fq.html) | 桥式生成模型的分频先验引导 | 对输入先验做模糊等退化构造弱版本，每步外推强弱先验下的去噪结果。按桥采样两端信噪比较高的特点，在早段和末段加强高频引导，低频引导则贯穿整个轨迹。 |
 
 <a id="by-representation-learning"></a>
 
@@ -110,6 +118,9 @@
 | <a id="cassano26a-representation-learning"></a>[SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://proceedings.mlr.press/v306/cassano26a.html) | 扩散概念遗忘 | 用标签训练稀疏自编码器，将每个概念的激活集中在单个可解释神经元，便于有针对性地擦除并依次处理多个概念。 |
 | <a id="cendra26a-representation-learning"></a>[PartCo: Part-Level Correspondence Priors Enhance Category Discovery](https://proceedings.mlr.press/v306/cendra26a.html) | 细粒度类别发现 | 用图像局部部件之间的特征对应为类别聚类补充先验，可以区分全局语义相近、只在局部有差异的类别。 |
 | <a id="chen26ca-representation-learning"></a>[Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling](https://proceedings.mlr.press/v306/chen26ca.html) | 球面旋转不变水印 | 对球谐系数做三阶张量耦合并投影到 SO(3) 的平凡表示，构造保留相对相位信息的旋转不变双谱。可在高阶球谐系数中嵌入水印，再从双谱标量中解码全景图的水印。 |
+| <a id="chen26ee-representation-learning"></a>[DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](https://proceedings.mlr.press/v306/chen26ee.html) | 动态点云的参考与残差表征 | 把逐帧不完整点云编码成固定数量的 token 并跨帧聚合，以首帧为共享参考，用潜空间残差表示各帧变化。条件流匹配解码器利用两者重建完整点云，训练只需要各帧完整点云监督，无需点对应或运动标签。 |
+| <a id="chen26ek-representation-learning"></a>[Multiview Self-Representation Learning across Heterogeneous Views](https://proceedings.mlr.press/v306/chen26ek.html) | 异构视觉表征的聚类共识 | 对同一张无标签图像，各预训练模型的特征分别经对应视图模型预测簇分配概率。对这些概率取平均并选概率最高的簇作伪标签，再用它监督所有视图，使一致性约束建立在共同的簇空间上。 |
+| <a id="chen26fh-representation-learning"></a>[TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification](https://proceedings.mlr.press/v306/chen26fh.html) | 复数表征的分布外识别 | 用监督对比损失同时约束复数特征的幅值和相位，使同类样本靠近，再将特征转换为含未知类状态的证据幅，并融合多个视图的证据。在所测遥感数据上，联合使用幅相信息可改善分布外识别。 |
 
 <a id="by-evaluation"></a>
 

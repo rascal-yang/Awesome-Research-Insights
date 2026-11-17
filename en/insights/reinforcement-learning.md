@@ -53,11 +53,15 @@ Aggregating rewards before group normalization can map different combinations to
 - [PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching](../../papers/llm.md#chen26k-reinforcement-learning) · 中文
 - [Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning](../../papers/llm.md#chen26w-reinforcement-learning) · 中文
 - [Learning to Reason for Factuality](../../papers/llm.md#chen26bh-reinforcement-learning) · 中文
+- [Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning](../../papers/llm.md#chen26ec-reinforcement-learning) · 中文
+- [Learning to Self-Verify Makes Language Models Better Reasoners](../../papers/llm.md#chen26es-reinforcement-learning) · 中文
+- [OnePO: Direct One-stage Policy Optimization for SFT-free Domain Adaptation](../../papers/llm.md#chen26fi-reinforcement-learning) · 中文
 
 ### Computer Vision
 
 - [Pareto-Guided Optimal Transport for Multi-Reward Alignment](../../papers/computer-vision.md#ba26a-reinforcement-learning) · 中文
 - [Test-Time Reinforcement Learning for Flow Matching](../../papers/computer-vision.md#chen26as-reinforcement-learning) · 中文
+- [RELO: Reinforcement Learning to Localize for Visual Object Tracking](../../papers/computer-vision.md#chen26ea-reinforcement-learning) · 中文
 
 ### Natural Language Processing
 
@@ -82,6 +86,9 @@ Aggregating rewards before group normalization can map different combinations to
 - [Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning](../../papers/reinforcement-learning.md#bui26a-reinforcement-learning) · 中文
 - [Direct Flow Q-Learning](../../papers/reinforcement-learning.md#cao26f-reinforcement-learning) · 中文
 - [Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes](../../papers/reinforcement-learning.md#chen26cc-reinforcement-learning) · 中文
+- [Multi-Agent Reinforcement Learning with Submodular Reward](../../papers/reinforcement-learning.md#chen26dk-reinforcement-learning) · 中文
+- [Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning](../../papers/reinforcement-learning.md#chen26fl-reinforcement-learning) · 中文
+- [VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning](../../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) · 中文
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](../insights/reinforcement-learning.md#normalize-each-reward-before-aggregation)
 
 ### Robotics
@@ -92,6 +99,7 @@ Aggregating rewards before group normalization can map different combinations to
 
 - [VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning](../../papers/multimodal.md#cao26m-reinforcement-learning) · 中文
 - [RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning](../../papers/multimodal.md#chen26bk-reinforcement-learning) · 中文
+- [OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](../../papers/multimodal.md#chen26ed-reinforcement-learning) · 中文
 
 ### Graph Learning and Recommendation
 

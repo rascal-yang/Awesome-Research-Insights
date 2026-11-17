@@ -19,6 +19,7 @@ Model-wide design and information flow.
 - [VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](../../papers/computer-vision.md#atanov26a-architecture) · 中文
 - [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](../../papers/computer-vision.md#baade26a-architecture) · 中文
 - [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](../../papers/computer-vision.md#bao26f-architecture) · 中文
+- [Autoregression with Self-Token Prediction](../../papers/computer-vision.md#chen26du-architecture) · 中文
 
 ### Reinforcement Learning
 

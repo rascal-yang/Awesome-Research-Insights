@@ -10,6 +10,7 @@
 ### 大语言模型
 
 - [代码性能预测](../papers/llm.md#akhauri26b-representation-learning) · Regression Language Models for Code
+- [面向监测的行为表征解耦](../papers/llm.md#chen26dr-representation-learning) · Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring
 
 ### 计算机视觉
 
@@ -19,6 +20,9 @@
 - [扩散概念遗忘](../papers/computer-vision.md#cassano26a-representation-learning) · SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders
 - [细粒度类别发现](../papers/computer-vision.md#cendra26a-representation-learning) · PartCo: Part-Level Correspondence Priors Enhance Category Discovery
 - [球面旋转不变水印](../papers/computer-vision.md#chen26ca-representation-learning) · Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling
+- [动态点云的参考与残差表征](../papers/computer-vision.md#chen26ee-representation-learning) · DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds
+- [异构视觉表征的聚类共识](../papers/computer-vision.md#chen26ek-representation-learning) · Multiview Self-Representation Learning across Heterogeneous Views
+- [复数表征的分布外识别](../papers/computer-vision.md#chen26fh-representation-learning) · TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification
 
 ### 自然语言处理
 
@@ -32,6 +36,7 @@
 
 - [不完整多视图聚类](../papers/multimodal.md#chen26ag-representation-learning) · Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering
 - [关节与片段级动作文本对齐](../papers/multimodal.md#chen26cx-representation-learning) · Beyond Global Alignment: Fine-Grained Motion-Language Retrieval via Pyramidal Shapley-Taylor Learning
+- [利用地理邻接的半监督街景对比学习](../papers/multimodal.md#chen26fo-representation-learning) · MetaStreet: Semi-Supervised Multimodal Learning for Street-Level Socioeconomic Prediction
 
 ### 机器学习基础与统计
 

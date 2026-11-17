@@ -35,6 +35,11 @@
 - [扩散语言模型解码](../papers/llm.md#chen26ci-inference) · Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models
 - [堆内存循环不变量生成](../papers/llm.md#chen26cm-inference) · MALICE: Memory-aware Loop Invariants Generation on Symbolic Execution Traces
 - [动态检索抗投毒](../papers/llm.md#chen26cw-inference) · RADAR: Defending RAG Dynamically against Retrieval Corruption
+- [指令与上下文示例联合选择](../papers/llm.md#chen26dt-inference) · SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection
+- [神经元一致性解码](../papers/llm.md#chen26eo-inference) · Do LLMs Signal When They’re Right? Evidence from Neuron Agreement
+- [细粒度 MoE 专家采样](../papers/llm.md#chen26er-inference) · Certain Head, Uncertain Tail: Expert-Sample for Test-Time Scaling in Fine-Grained MoE
+- [检索证据净化与推导](../papers/llm.md#chen26et-inference) · From Extraction to Deduction: Resolving Functional Misalignment in RAG via a Collaborative Critic-Reasoner Framework
+- [投机解码的动态草稿词表](../papers/llm.md#chen26fm-inference) · NanoSpec: Accelerating Speculative Decoding using Minimalist In-Context Vocabularies
 
 ### 计算机视觉
 
@@ -49,6 +54,10 @@
 - [免训练视频异常检测](../papers/computer-vision.md#chen26v-inference) · PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling
 - [归一化流采样](../papers/computer-vision.md#chen26aj-inference) · Normalizing Flows with Iterative Denoising
 - [流匹配的双锚点积分](../papers/computer-vision.md#chen26bp-inference) · Bi-Anchor Interpolation Solver for Accelerating Generative Modeling
+- [网格词元的投机解码](../papers/computer-vision.md#chen26dn-inference) · XSpecMesh: Quality-Preserving Auto-Regressive Mesh Generation Acceleration via Multi-Head Speculative Decoding
+- [新视角扩散的语义条件](../papers/computer-vision.md#chen26ey-inference) · SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis
+- [自回归图像采样的轨迹剪枝](../papers/computer-vision.md#chen26fc-inference) · ScalingAR: Scaling Confidence for Autoregressive Image Generation
+- [桥式生成模型的分频先验引导](../papers/computer-vision.md#chen26fq-inference) · GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance
 
 ### 自然语言处理
 
@@ -81,6 +90,8 @@
 - [视觉语言推理控制](../papers/multimodal.md#bi26d-inference) · Does Reasoning Improve Seeing? Understanding When Vision-Language Models Benefit from Thinking
 - [多模态上下文记忆](../papers/multimodal.md#chen26m-inference) · Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning
 - [教学视频布局修正](../papers/multimodal.md#chen26bx-inference) · Code2Video: A Code-centric Paradigm for Educational Video Creation
+- [注意力层对比解码](../papers/multimodal.md#chen26dx-inference) · Beyond Logits: Coherent Hallucination Mitigation via Attention Contrastive Decoding
+- [双编码器视觉幻觉校正](../papers/multimodal.md#chen26dz-inference) · Beyond Blind Noising: Disentangled Visual Rectification for Hallucination Mitigation in MLLMs
 
 ### 机器学习基础与统计
 

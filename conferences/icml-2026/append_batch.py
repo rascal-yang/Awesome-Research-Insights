@@ -291,7 +291,15 @@ def render_indexes(conference, catalog, mapping, old_count, total, first, last, 
             f'- **{date}** · 收录并分类整理 ICML 2026 第 {first}–{last} 篇的 Insight。[会议索引](conferences/icml-2026/README.md)'
         )
         assert text.count(marker) == 1
-        text = text.replace(marker, marker + new_update + '\n\n')
+        head, _, tail = text.partition(marker)
+        footer = '## Contributing\n\n' if english else '<a id="contributing"></a>\n\n## 参与贡献\n\n'
+        updates, separator, rest = tail.partition(footer)
+        assert separator
+        recent = [line for line in updates.splitlines() if line.startswith('- **')][:2]
+        archive = 'Earlier updates' if english else '更早的更新'
+        history_url = 'https://github.com/rascal-yang/Awesome-Research-Insights/commits/main/'
+        history_link = f'<a id="icml-2026-first-batch"></a>\n\n[{archive}]({history_url}{home.name})'
+        text = head + marker + '\n\n'.join([new_update, *recent, history_link]) + '\n\n' + footer + rest
         latest = re.compile(r'^(\*\*(?:最新收录|Latest additions) · )\d{4}-\d{2}-\d{2}', re.M)
         text, replaced = latest.subn(lambda match: match[1] + date.isoformat(), text)
         assert replaced == 1 and '| Insight |' not in text

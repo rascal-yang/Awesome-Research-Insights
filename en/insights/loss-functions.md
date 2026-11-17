@@ -67,6 +67,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [The Sign Estimator: Preference Modeling for LLM Alignment under Heterogeneity](../../papers/llm.md#aouad26a-loss-functions) · 中文
 - [What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis](../../papers/llm.md#chen26bi-loss-functions) · 中文
 - [$φ$-Balancing for Mixture-of-Experts Training](../../papers/llm.md#chen26br-loss-functions) · 中文
+- [Discrete Tilt Matching](../../papers/llm.md#chen26el-loss-functions) · 中文
 
 ### Computer Vision
 
@@ -76,6 +77,10 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 ### Natural Language Processing
 
 - [ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](../../papers/nlp.md#cai26d-loss-functions) · 中文
+
+### Reinforcement Learning
+
+- [Continuity-Regularized Flow Matching for Offline Reinforcement Learning](../../papers/reinforcement-learning.md#chen26ep-loss-functions) · 中文
 
 ### Robotics
 
@@ -88,6 +93,7 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](../../papers/multimodal.md#chefer26a-loss-functions) · 中文
 - [Do-Prompt: Causal Interventions Meet Variational Prompt Bottlenecks](../../papers/multimodal.md#chen26au-loss-functions) · 中文
 - [Language Bias in LVLMs: From In-Depth Analysis to Simple and Effective Mitigation](../../papers/multimodal.md#chen26bn-loss-functions) · 中文
+- [AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing](../../papers/multimodal.md#chen26dq-loss-functions) · 中文
 
 ### Machine Learning Foundations and Statistics
 
@@ -98,6 +104,10 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [One-shot Conditional Sampling: MMD meets Nearest Neighbors](../../papers/ml-foundations.md#chatterjee26a-loss-functions) · 中文
 - [Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction](../../papers/ml-foundations.md#chen26bm-loss-functions) · 中文
 
+### Graph Learning and Recommendation
+
+- [Mitigating Reward Hacking in LLM-based Recommendation: A Preference Optimization Approach](../../papers/graph-and-recommendation.md#chen26ez-loss-functions) · 中文
+
 ### Scientific Machine Learning
 
 - [Heavy-tailed Physics-Informed Neural Networks](../../papers/scientific-ml.md#abijuru26b-loss-functions) · 中文
@@ -106,4 +116,5 @@ Video reconstruction can encode nuisance changes such as lighting. Behavior clon
 - [MetaPerch: Learning from metadata for bioacoustics foundation models](../../papers/scientific-ml.md#chasmai26a-loss-functions) · 中文
 - [SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](../../papers/scientific-ml.md#chen26y-loss-functions) · 中文
 - [FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](../../papers/scientific-ml.md#chen26at-loss-functions) · 中文
+- [Self-Supervised Dynamical System Representations for Physiological Time-Series](../../papers/scientific-ml.md#chen26fk-loss-functions) · 中文
 <!-- classification:end -->

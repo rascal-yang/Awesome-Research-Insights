@@ -55,11 +55,15 @@
 - [无监督强化学习分布匹配](../papers/llm.md#chen26k-reinforcement-learning) · PowerFlow: Unlocking the Dual Nature of LLMs via Principled Distribution Matching
 - [语言模型状态价值估计](../papers/llm.md#chen26w-reinforcement-learning) · Hista and Numca: Estimate State Value Effectively for Large Language Model Reinforcement Learning
 - [长回答事实性奖励](../papers/llm.md#chen26bh-reinforcement-learning) · Learning to Reason for Factuality
+- [生成式数值回归的奖励与蒸馏](../papers/llm.md#chen26ec-reinforcement-learning) · Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning
+- [生成与自验证交替训练](../papers/llm.md#chen26es-reinforcement-learning) · Learning to Self-Verify Makes Language Models Better Reasoners
+- [领域强化学习中的教师退出](../papers/llm.md#chen26fi-reinforcement-learning) · OnePO: Direct One-stage Policy Optimization for SFT-free Domain Adaptation
 
 ### 计算机视觉
 
 - [多奖励生成优化](../papers/computer-vision.md#ba26a-reinforcement-learning) · Pareto-Guided Optimal Transport for Multi-Reward Alignment
 - [流匹配测试时优化](../papers/computer-vision.md#chen26as-reinforcement-learning) · Test-Time Reinforcement Learning for Flow Matching
+- [目标跟踪定位策略](../papers/computer-vision.md#chen26ea-reinforcement-learning) · RELO: Reinforcement Learning to Localize for Visual Object Tracking
 
 ### 自然语言处理
 
@@ -84,6 +88,9 @@
 - [离线到在线强化学习](../papers/reinforcement-learning.md#bui26a-reinforcement-learning) · Efficient and Uncertainty-Aware Diffusion Framework for Offline-to-Online Reinforcement Learning
 - [流匹配策略优化](../papers/reinforcement-learning.md#cao26f-reinforcement-learning) · Direct Flow Q-Learning
 - [重尾损失下的占用度量更新](../papers/reinforcement-learning.md#chen26cc-reinforcement-learning) · Best-of-Both-Worlds for Heavy-Tailed Markov Decision Processes
+- [次模团队奖励的贪心策略](../papers/reinforcement-learning.md#chen26dk-reinforcement-learning) · Multi-Agent Reinforcement Learning with Submodular Reward
+- [离线强化学习的对抗动力学适配](../papers/reinforcement-learning.md#chen26fl-reinforcement-learning) · Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning
+- [价值一致性约束的离线世界模型](../papers/reinforcement-learning.md#chen26fn-reinforcement-learning) · VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning
 - [多奖励策略优化](../papers/reinforcement-learning.md#liu26aa-reinforcement-learning) · GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ### 机器人学
@@ -94,6 +101,7 @@
 
 - [长视频推理奖励](../papers/multimodal.md#cao26m-reinforcement-learning) · VideoTrace-R1: Long Video-based Retrieval-Augmented Generation via Reinforcement Learning
 - [分层评分规则的强化学习课程](../papers/multimodal.md#chen26bk-reinforcement-learning) · RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning
+- [音视频联合推理奖励](../papers/multimodal.md#chen26ed-reinforcement-learning) · OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention
 
 ### 图学习与推荐
 

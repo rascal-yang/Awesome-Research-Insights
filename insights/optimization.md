@@ -16,6 +16,10 @@
 - [有约束的安全微调](../papers/llm.md#chen26ba-optimization) · SPARD: Defending Harmful Fine-Tuning Attack via Safety Projection with Relevance–Diversity Data Selection
 - [多目标偏好梯度裁剪](../papers/llm.md#chen26bl-optimization) · Reward-free Alignment for Conflicting Objectives
 - [可变网格低比特量化](../papers/llm.md#chen26bt-optimization) · BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models
+- [宽度扩展后的优化器几何](../papers/llm.md#chen26eq-optimization) · Escaping the Subspace Trap: The Role of Optimizer Geometry in Model Width Expansion
+- [MoE 专家组合剪枝](../papers/llm.md#chen26ew-optimization) · SCHUR-A*: Layer-wise Optimal Expert Pruning for MoEs via Schur-Complement Guided A* Search
+- [遥测反馈驱动内核调优](../papers/llm.md#chen26ex-optimization) · QiMeng-PerceptOS: Semantic-Aware Kernel Optimization for OS-Intensive Workloads via Hardware-Software Alignment
+- [偏好更新的梯度激励校准](../papers/llm.md#chen26fe-optimization) · Towards Disentangled Preference Optimization Dynamics: Suppress the Loser, Preserve the Winner
 
 ### 机器人学
 
@@ -68,6 +72,8 @@
 - [核稀疏化的朗之万更新](../papers/ml-foundations.md#chen26bd-optimization) · Thinned Mean Field Langevin Dynamics
 - [多步 SAM 邻域搜索](../papers/ml-foundations.md#chen26bo-optimization) · Understanding SAM through Minimax Perspective
 - [受遗忘进度约束的模型更新](../papers/ml-foundations.md#chen26de-optimization) · How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning
+- [LoRA 学习率的秩缩放](../papers/ml-foundations.md#chen26ei-optimization) · Learning Rate Scaling across LoRA Ranks and Transfer to Full Finetuning
+- [分割联邦学习的混阶更新](../papers/ml-foundations.md#chen26fd-optimization) · HO-SFL: Hybrid-Order Split Federated Learning with Backprop-Free Clients and Dimension-Free Aggregation
 
 ### 图学习与推荐
 

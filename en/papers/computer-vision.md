@@ -24,6 +24,7 @@ The linked short insights are available in Chinese.
 | [VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](https://proceedings.mlr.press/v306/atanov26a.html) | [Read insight (中文)](../../papers/computer-vision.md#atanov26a-architecture) |
 | [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](https://proceedings.mlr.press/v306/baade26a.html) | [Read insight (中文)](../../papers/computer-vision.md#baade26a-architecture) |
 | [Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation](https://proceedings.mlr.press/v306/bao26f.html) | [Read insight (中文)](../../papers/computer-vision.md#bao26f-architecture) |
+| [Autoregression with Self-Token Prediction](https://proceedings.mlr.press/v306/chen26du.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26du-architecture) |
 
 <a id="by-modules"></a>
 
@@ -56,6 +57,7 @@ The linked short insights are available in Chinese.
 | :--- | :--- |
 | [Pareto-Guided Optimal Transport for Multi-Reward Alignment](https://proceedings.mlr.press/v306/ba26a.html) | [Read insight (中文)](../../papers/computer-vision.md#ba26a-reinforcement-learning) |
 | [Test-Time Reinforcement Learning for Flow Matching](https://proceedings.mlr.press/v306/chen26as.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26as-reinforcement-learning) |
+| [RELO: Reinforcement Learning to Localize for Visual Object Tracking](https://proceedings.mlr.press/v306/chen26ea.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ea-reinforcement-learning) |
 
 <a id="by-training-strategies"></a>
 
@@ -68,6 +70,8 @@ The linked short insights are available in Chinese.
 | [Beyond Static Allocation: Dynamic Sensitivity-Aware Fine-Tuning for Vision Transformers](https://proceedings.mlr.press/v306/cao26o.html) | [Read insight (中文)](../../papers/computer-vision.md#cao26o-training-strategies) |
 | [NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices](https://proceedings.mlr.press/v306/chavhan26a.html) | [Read insight (中文)](../../papers/computer-vision.md#chavhan26a-training-strategies) |
 | [Focusing: View-Consistent Sparse Voxels for Efficient 3D VAE Training](https://proceedings.mlr.press/v306/chen26cn.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26cn-training-strategies) |
+| [3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification](https://proceedings.mlr.press/v306/chen26dm.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26dm-training-strategies) |
+| [Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://proceedings.mlr.press/v306/chen26eu.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26eu-training-strategies) |
 
 <a id="by-data-strategies"></a>
 
@@ -97,6 +101,10 @@ The linked short insights are available in Chinese.
 | [PRISM: Training-Free Video Anomaly Detection via Intrinsic Statistical Modeling](https://proceedings.mlr.press/v306/chen26v.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26v-inference) |
 | [Normalizing Flows with Iterative Denoising](https://proceedings.mlr.press/v306/chen26aj.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26aj-inference) |
 | [Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](https://proceedings.mlr.press/v306/chen26bp.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26bp-inference) |
+| [XSpecMesh: Quality-Preserving Auto-Regressive Mesh Generation Acceleration via Multi-Head Speculative Decoding](https://proceedings.mlr.press/v306/chen26dn.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26dn-inference) |
+| [SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis](https://proceedings.mlr.press/v306/chen26ey.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ey-inference) |
+| [ScalingAR: Scaling Confidence for Autoregressive Image Generation](https://proceedings.mlr.press/v306/chen26fc.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26fc-inference) |
+| [GuidedBridge: Training-freely Improving Bridge Models with Prior Guidance](https://proceedings.mlr.press/v306/chen26fq.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26fq-inference) |
 
 <a id="by-representation-learning"></a>
 
@@ -110,6 +118,9 @@ The linked short insights are available in Chinese.
 | [SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://proceedings.mlr.press/v306/cassano26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cassano26a-representation-learning) |
 | [PartCo: Part-Level Correspondence Priors Enhance Category Discovery](https://proceedings.mlr.press/v306/cendra26a.html) | [Read insight (中文)](../../papers/computer-vision.md#cendra26a-representation-learning) |
 | [Rotation-Invariant Spherical Watermarking via Third-Order SO(3) Representation Coupling](https://proceedings.mlr.press/v306/chen26ca.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ca-representation-learning) |
+| [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](https://proceedings.mlr.press/v306/chen26ee.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ee-representation-learning) |
+| [Multiview Self-Representation Learning across Heterogeneous Views](https://proceedings.mlr.press/v306/chen26ek.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26ek-representation-learning) |
+| [TrustworthyQENN: A Quantum Evidential Neural Network Based on Complex-Valued Contrastive Learning for Uncertainty Pattern Classification](https://proceedings.mlr.press/v306/chen26fh.html) | [Read insight (中文)](../../papers/computer-vision.md#chen26fh-representation-learning) |
 
 <a id="by-evaluation"></a>
 

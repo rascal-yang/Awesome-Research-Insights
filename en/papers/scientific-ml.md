@@ -54,6 +54,7 @@ The linked short insights are available in Chinese.
 | [MetaPerch: Learning from metadata for bioacoustics foundation models](https://proceedings.mlr.press/v306/chasmai26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chasmai26a-loss-functions) |
 | [SGERA: Stein-Guided ECG-Report Alignment for ECG Representation Learning](https://proceedings.mlr.press/v306/chen26y.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26y-loss-functions) |
 | [FACT: Fuzzy Alignment with Comorbidity Topology for Reliable Multi-Label Medical Image Diagnosis](https://proceedings.mlr.press/v306/chen26at.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26at-loss-functions) |
+| [Self-Supervised Dynamical System Representations for Physiological Time-Series](https://proceedings.mlr.press/v306/chen26fk.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fk-loss-functions) |
 
 <a id="by-optimization"></a>
 
@@ -134,6 +135,7 @@ The linked short insights are available in Chinese.
 | [Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://proceedings.mlr.press/v306/becktepe26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#becktepe26a-evaluation) |
 | [SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs](https://proceedings.mlr.press/v306/cao26g.html) | [Read insight (中文)](../../papers/scientific-ml.md#cao26g-evaluation) |
 | [A Systematic Study of Behavioral Cloning for Scientific Data Annotation](https://proceedings.mlr.press/v306/chandok26a.html) | [Read insight (中文)](../../papers/scientific-ml.md#chandok26a-evaluation) |
+| [Real-World Unsupervised Models Generalize to Predict Brain Responses to Out-of-Distribution Stimuli](https://proceedings.mlr.press/v306/chen26fp.html) | [Read insight (中文)](../../papers/scientific-ml.md#chen26fp-evaluation) |
 
 <a id="by-theory-statistics"></a>
 
