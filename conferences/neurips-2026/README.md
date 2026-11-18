@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2309** 篇，暂收录 **2148** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2369** 篇，暂收录 **2206** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2156,3 +2156,61 @@
 | 大语言模型 | 零阶优化 | [Dominant-Layer ZO: A Single Layer Dominates Zeroth-Order Fine-Tuning of LLMs](cards-0004.md#paper-153447) | 先查激活离群层再分配零阶微调预算 |
 | 多智能体 | 博弈理论 | [Domination-Avoiding Learning Agents Cannot Collude](cards-0004.md#paper-152226) | 选择避开被支配策略的更新规则作为防串谋条件 |
 | 多模态学习 | 缺失模态鲁棒性 | [Do More Modalities Always Help? A Geometric Perspective on Missing-Modality Robustness](cards-0004.md#paper-153401) | 在单模态部署时保留单模态参照并检验子空间偏转 |
+| 多模态学习 | 空间推理 | [Do multimodal models imagine electric sheep?](cards-0004.md#paper-154838) | 为动作序列加入少量视觉状态 token。 |
+| 机器人学 | 终止评测 | [Done, But Not Sure: Disentangling World Completion from Self-Termination in Embodied Agents](cards-0004.md#paper-152489) | 独立评分任务完成与智能体主动结束。 |
+| 机器学习 | 稳健训练 | [Do Not Let Spikes Flip: Margin-Resculpted Learning for Robust Spiking Neural Networks](cards-0004.md#paper-152693) | 用阈值附近占用率约束脉冲不稳定。 |
+| 大语言模型 | 集成选择 | [Don't Always Pick the Highest-Performing Model: An Information Theoretic View of LLM Ensemble Selection](cards-0004.md#paper-150011) | 固定调用预算时用新增标签信息选成员。 |
+| Agent | 泛化评测 | [Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability — Diverse Evaluation Is Required](cards-0004.md#paper-179728) | 用不同代码任务验证榜单提分能否迁移。 |
+| 大语言模型 | 蒸馏 | [Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation](cards-0004.md#paper-153136) | 按提示通过率与教师置信筛选历史 RL 轨迹。 |
+| 大语言模型 | 模块 | [Don’t Learn What You Can Compute: Arithmetic Residual Blocks for Exact Arithmetic in Transformers](cards-0004.md#paper-153913) | 把可精确计算的函数冻结为残差模块。 |
+| 强化学习 | 优势估计 | [Don’t Let Gains FADE: Breaking Down Policy Gradient Weights in RL](cards-0004.md#paper-152022) | 分别审计优势函数的正负梯度质量与总量。 |
+| 大语言模型 | 表示干预 | [Don't Lose Focus: Activation Steering via Key-Orthogonal Projections](cards-0004.md#paper-154186) | 保持重要上下文注意力以验证干预效用。 |
+| 统计学习 | 分布匹配 | [Don't Match the Noise: Distribution Matching under Unknown Measurement Error with an Audit Sample](cards-0004.md#paper-153320) | 用少量随机审计真值校正核比较。 |
+| 多模态学习 | 流式评测 | [Don't Pause! Every prediction matters in a streaming video](cards-0004.md#paper-139366) | 连续评估回复时间、误触发与漏答。 |
+| 自然语言处理 | 注意力初始化 | [Don't Pay Attention, PLANT It: Pretraining Attention via Learning-to-Rank](cards-0004.md#paper-153443) | 用标签专属排序结果初始化注意力。 |
+| 优化 | 组合搜索 | [Don't Waste Population: Post-Anneal Refinement for Combinatorial Optimization](cards-0004.md#paper-155562) | 退火结束后在不同优质解盆地间搜索。 |
+| 机器学习系统 | 推理剖析 | [Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation](cards-0004.md#paper-153452) | 按请求维度和模型固定维度拆分性能缓存。 |
+| 计算机视觉 | 标注诊断 | [Doomed to Re-Annotate, Forever: The ImageNet Story](cards-0004.md#paper-139569) | 用多标签重标验证排行榜对标注噪声的敏感性。 |
+| 科学机器学习 | 表征诊断 | [Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations](cards-0004.md#paper-151068) | 用观察数据中的顺序结构解释少样本表现。 |
+| 计算机视觉 | 分层评测 | [DopplerWild: A Doppler Dataset and Benchmark for Human Kinematic Understanding in the Wild](cards-0004.md#paper-139019) | 按遮挡和旁人干扰拆解雷达运动识别误差。 |
+| 生成模型 | 持续微调 | [D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models](cards-0004.md#paper-153949) | 在学生自身生成轨迹上蒸馏目标图像条件教师。 |
+| 机器学习系统 | 异步调度 | [DORA: A Scalable Asynchronous Reinforcement Learning System for Language Model Training](cards-0004.md#paper-154440) | 并行服务多策略版本，保留长尾轨迹。 |
+| Agent 安全 | 长上下文评测 | [Do Reasoning LLMs Refuse What They Infer in Long Contexts?](cards-0004.md#paper-149897) | 分别测意图理解和拒答 |
+| 多模态 | 幻觉诊断 | [Do Robust LVLMs Hallucinate More? Uncovering Robustness-Induced Hallucination in Large Vision-Language Models](cards-0004.md#paper-153848) | 鲁棒训练后检查 token 同质化 |
+| 语言模型 | 效度分析 | [Do Semantic Distance Tests Actually Predict Creativity in Large Language Models?](cards-0004.md#paper-152073) | 按创造构念验证语义距离 |
+| 可解释性 | 层级诊断 | [Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?](cards-0004.md#paper-152493) | 测试软吸收对 SAE 层级的影响 |
+| 科学机器学习 | 神经解码 | [Do Speech BCIs Need Larger Models? Rethinking Neural Decoding beyond Scaling](cards-0004.md#paper-154135) | 优先验证跨模态对齐而非扩规模 |
+| 语言模型 | 安全诊断 | [Do Thinking Tokens Help with Safety?](cards-0004.md#paper-150945) | 延长思考前验证边际收益 |
+| 优化 | 分布式训练 | [Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods](cards-0004.md#paper-155336) | 先比较等待部分工人的同步更新 |
+| 视觉 | 生成检测 | [Do We Really Need Diffusion for Generative Object Detection? A Minimal Prototype Perspective](cards-0004.md#paper-153340) | 先改善候选覆盖与去噪头 |
+| 可解释性 | 跨域表征 | [Do You CARE to Generalize? Extracting Robust Concept Directions from LLMs](cards-0004.md#paper-155908) | 拆分稳定概念方向与环境残差 |
+| 语言模型 | 推测解码 | [D-PACE: Dynamic Position-Aware Cross-Entropy for Parallel Speculative Drafting](cards-0004.md#paper-152718) | 按期望接收长度更新训练位置权重 |
+| 优化 | 去中心化训练 | [DPA: Decentralized Primal Averaging with Quasi-Global Momentum for Highly Heterogeneous Data](cards-0004.md#paper-155094) | 从连续混合迭代估计网络感知动量 |
+| 隐私机器学习 | 差分隐私 | [DP-EGGROLL: Centered Fitness-Vector Privatization for Backprop-Free Differentially Private Optimization](cards-0004.md#paper-149051) | 裁剪前逐样本去除候选损失的公共偏移 |
+| 软件工程 | 维护流程 | [DPIAgent: Divide, Protocol, Isolate for Agentic Reproduction Test Generation](cards-0004.md#paper-150275) | 分离普通缺陷诊断和回归测试 |
+| 表示学习 | 长尾聚类 | [DPLC: Dirichlet Process Guided Long-tail Clustering](cards-0004.md#paper-154167) | 用软子簇作为重平衡信号 |
+| 视觉 | 位姿编码 | [DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers](cards-0004.md#paper-150092) | 分离旋转与平移的值向量维度 |
+| 隐私机器学习 | 推理评测 | [DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy](cards-0004.md#paper-138927) | 分开评估常见机制与复杂隐私保证 |
+| 多模态 | 视觉量化 | [dRAE: Representation Autoencoder with Hyper-Spherical Codes](cards-0004.md#paper-148680) | 按角度选码字以隔离模长 |
+| 视觉 | 图像编辑 | [Drag as Evidence: Motion-Grounded Latent Recomposition for Drag-Based Editing](cards-0004.md#paper-149674) | 早期注入粗运动后做语义细化 |
+| 多模态 | 证据评测 | [DRAGON : A Benchmark for Evidence-Grounded Visual Reasoning over Diagrams](cards-0004.md#paper-139496) | 把图中证据定位与答题准确率分开 |
+| 多模态 | 推理加速 | [DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models](cards-0004.md#paper-149812) | 剪除低相关视觉 token 并在注意力稳定后停止 |
+| 视觉 / CAD | 结构化生成 | [DrawingsDreamer: A Unified Multi-View Engineering Drawings Generation Model](cards-0004.md#paper-149006) | 先编码局部几何再标注语义边界 |
+| 生成模型 | 体素生成 | [Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes](cards-0004.md#paper-139806) | 直接以可编辑体素块训练生成器 |
+| 计算机视觉 | 结构化预测 | [DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images](cards-0004.md#paper-149257) | 先归一化图像姿态，再预测可编辑二维结构 |
+| 推荐系统 | 混合专家 | [Drift-Aware Multimodal User Representation Learning via Multi-Scale Temporal Modeling and Sparse Mixture-of-Experts](cards-0004.md#paper-156057) | 分开训练时序骨干、兴趣专家和路由器 |
+| 生成模型 | 流匹配 | [Drift Flow Matching](cards-0004.md#paper-155776) | 部署预算可变时比较同一模型的一步与多步采样 |
+| 强化学习 | 策略更新 | [Drifting Field Policy: Wasserstein Gradient Flow on Policy Space for Offline-to-Online RL](cards-0004.md#paper-151871) | 用价值提升与锚策略匹配共同约束在线微调 |
+| 生成模型 / 理论 | 目标几何 | [Drifting Fields are not Conservative](cards-0004.md#paper-155051) | 将漂移训练写为标量损失前先检查向量场保守性 |
+| 强化学习 | 离线策略学习 | [Drift Q-Learning](cards-0004.md#paper-152901) | 用吸引与排斥同时约束高价值动作 |
+| 机器人学 | 世界模型 | [Drift-Resistant Navigation World Model with Anchored Epipolar Guidance](cards-0004.md#paper-149468) | 先生成稀疏未来锚帧再补中间帧 |
+| 生成模型 | 权重生成 | [DriftWeight: Repulsive Drift in Mean-Flow Space for Neural Network Weight Generation](cards-0004.md#paper-153675) | 把多样性约束与一步采样边界的准确性分开校验 |
+| 机器人学 / 强化学习 | 世界模型训练 | [DRILL: Training World Models to Improve Policies, Not Predict Pixels](cards-0004.md#paper-148289) | 用想象更新后的策略回报选择世界模型 |
+| 自动驾驶 | 联合预测 | [DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning](cards-0004.md#paper-149539) | 在视频预测与规划之间增加显式深度监督 |
+| 机器学习基础 | 样本重加权 | [DRIVE: Fine-tuning via Data Contribution- and Diversity-aware Weighting with Prior Regularization](cards-0004.md#paper-151453) | 在无预训练数据时分别衡量样本对保持与适配的贡献 |
+| 自动驾驶 | 预测条件规划 | [DriveFuture: Future-Aware Latent World Models for Autonomous Driving](cards-0004.md#paper-149040) | 将预测未来状态显式送入规划器 |
+| 自动驾驶 / 多模态 | 分层评测 | [DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution](cards-0004.md#paper-139730) | 分开测基础场景理解与闭环执行 |
+| 自动驾驶 | 信念更新 | [DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving](cards-0004.md#paper-155869) | 将多个场景解释保留到新证据到来 |
+| 计算机视觉 | 注意力建模 | [Driver Attention as Competitive Allocation: A Scene--Task-Aware Dual-Branch Framework](cards-0004.md#paper-153047) | 按场景任务需求和控制紧迫度调节注意力集中程度 |
+| 多模态学习 | 空间评测 | [DriveSpatial: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving](cards-0004.md#paper-139711) | 用动态场景图保证问题确实需要跨视角与时间信息 |
+| 多模态学习 | 流式评测 | [DriveStreamBench: Evaluating User-Conditioned Watch-and-Notify in Streaming Driving Video](cards-0004.md#paper-139662) | 验收提醒系统时只给此前视频帧并检查提醒时机 |

@@ -2267,66 +2267,66 @@ poster_id	title	paper_url	status	reason
 153447	Dominant-Layer ZO: A Single Layer Dominates Zeroth-Order Fine-Tuning of LLMs	https://neurips.cc/virtual/2026/poster/153447	included	先查激活离群层再分配零阶微调预算
 152226	Domination-Avoiding Learning Agents Cannot Collude	https://neurips.cc/virtual/2026/poster/152226	included	选择避开被支配策略的更新规则作为防串谋条件
 153401	Do More Modalities Always Help? A Geometric Perspective on Missing-Modality Robustness	https://neurips.cc/virtual/2026/poster/153401	included	在单模态部署时保留单模态参照并检验子空间偏转
-154838	Do multimodal models imagine electric sheep?	https://neurips.cc/virtual/2026/poster/154838	pending	-
-152489	Done, But Not Sure: Disentangling World Completion from Self-Termination in Embodied Agents	https://neurips.cc/virtual/2026/poster/152489	pending	-
-152693	Do Not Let Spikes Flip: Margin-Resculpted Learning for Robust Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/152693	pending	-
-150011	Don't Always Pick the Highest-Performing Model: An Information Theoretic View of LLM Ensemble Selection	https://neurips.cc/virtual/2026/poster/150011	pending	-
-179728	Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability — Diverse Evaluation Is Required	https://neurips.cc/virtual/2026/poster/179728	pending	-
-140050	Don't Deploy Fine-Tuned Genomic Foundation Models Without Privacy Evaluation: Reconstruction Vulnerability Is Unpredictable Without Empirical Measurement	https://neurips.cc/virtual/2026/poster/140050	pending	-
-153136	Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation	https://neurips.cc/virtual/2026/poster/153136	pending	-
-153913	Don’t Learn What You Can Compute: Arithmetic Residual Blocks for Exact Arithmetic in Transformers	https://neurips.cc/virtual/2026/poster/153913	pending	-
-152022	Don’t Let Gains FADE: Breaking Down Policy Gradient Weights in RL	https://neurips.cc/virtual/2026/poster/152022	pending	-
-154186	Don't Lose Focus: Activation Steering via Key-Orthogonal Projections	https://neurips.cc/virtual/2026/poster/154186	pending	-
-153320	Don't Match the Noise: Distribution Matching under Unknown Measurement Error with an Audit Sample	https://neurips.cc/virtual/2026/poster/153320	pending	-
-139366	Don't Pause! Every prediction matters in a streaming video	https://neurips.cc/virtual/2026/poster/139366	pending	-
-153443	Don't Pay Attention, PLANT It: Pretraining Attention via Learning-to-Rank	https://neurips.cc/virtual/2026/poster/153443	pending	-
-155562	Don't Waste Population: Post-Anneal Refinement for Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/155562	pending	-
-153452	Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation	https://neurips.cc/virtual/2026/poster/153452	pending	-
-139569	Doomed to Re-Annotate, Forever: The ImageNet Story	https://neurips.cc/virtual/2026/poster/139569	pending	-
-151068	Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations	https://neurips.cc/virtual/2026/poster/151068	pending	-
-139019	DopplerWild: A Doppler Dataset and Benchmark for Human Kinematic Understanding in the Wild	https://neurips.cc/virtual/2026/poster/139019	pending	-
-153949	D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models	https://neurips.cc/virtual/2026/poster/153949	pending	-
-154440	DORA: A Scalable Asynchronous Reinforcement Learning System for Language Model Training	https://neurips.cc/virtual/2026/poster/154440	pending	-
-149897	Do Reasoning LLMs Refuse What They Infer in Long Contexts?	https://neurips.cc/virtual/2026/poster/149897	pending	-
-153848	Do Robust LVLMs Hallucinate More? Uncovering Robustness-Induced Hallucination in Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/153848	pending	-
-152073	Do Semantic Distance Tests Actually Predict Creativity in Large Language Models?	https://neurips.cc/virtual/2026/poster/152073	pending	-
-152493	Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?	https://neurips.cc/virtual/2026/poster/152493	pending	-
-154135	Do Speech BCIs Need Larger Models? Rethinking Neural Decoding beyond Scaling	https://neurips.cc/virtual/2026/poster/154135	pending	-
-150945	Do Thinking Tokens Help with Safety?	https://neurips.cc/virtual/2026/poster/150945	pending	-
-155336	Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods	https://neurips.cc/virtual/2026/poster/155336	pending	-
-153340	Do We Really Need Diffusion for Generative Object Detection? A Minimal Prototype Perspective	https://neurips.cc/virtual/2026/poster/153340	pending	-
-155908	Do You CARE to Generalize? Extracting Robust Concept Directions from LLMs	https://neurips.cc/virtual/2026/poster/155908	pending	-
-152718	D-PACE: Dynamic Position-Aware Cross-Entropy for Parallel Speculative Drafting	https://neurips.cc/virtual/2026/poster/152718	pending	-
-155094	DPA: Decentralized Primal Averaging with Quasi-Global Momentum for Highly Heterogeneous Data	https://neurips.cc/virtual/2026/poster/155094	pending	-
-149051	DP-EGGROLL: Centered Fitness-Vector Privatization for Backprop-Free Differentially Private Optimization	https://neurips.cc/virtual/2026/poster/149051	pending	-
-150275	DPIAgent: Divide, Protocol, Isolate for Agentic Reproduction Test Generation	https://neurips.cc/virtual/2026/poster/150275	pending	-
-154167	DPLC: Dirichlet Process Guided Long-tail Clustering	https://neurips.cc/virtual/2026/poster/154167	pending	-
-150092	DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers	https://neurips.cc/virtual/2026/poster/150092	pending	-
-138927	DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy	https://neurips.cc/virtual/2026/poster/138927	pending	-
-148680	dRAE: Representation Autoencoder with Hyper-Spherical Codes	https://neurips.cc/virtual/2026/poster/148680	pending	-
-149674	Drag as Evidence: Motion-Grounded Latent Recomposition for Drag-Based Editing	https://neurips.cc/virtual/2026/poster/149674	pending	-
-139496	DRAGON : A Benchmark for Evidence-Grounded Visual Reasoning over Diagrams	https://neurips.cc/virtual/2026/poster/139496	pending	-
-149812	DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/149812	pending	-
-149006	DrawingsDreamer: A Unified Multi-View Engineering Drawings Generation Model	https://neurips.cc/virtual/2026/poster/149006	pending	-
-139806	Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes	https://neurips.cc/virtual/2026/poster/139806	pending	-
-149257	DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images	https://neurips.cc/virtual/2026/poster/149257	pending	-
-156057	Drift-Aware Multimodal User Representation Learning via Multi-Scale Temporal Modeling and Sparse Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/156057	pending	-
-155776	Drift Flow Matching	https://neurips.cc/virtual/2026/poster/155776	pending	-
-151871	Drifting Field Policy: Wasserstein Gradient Flow on Policy Space for Offline-to-Online RL	https://neurips.cc/virtual/2026/poster/151871	pending	-
-155051	Drifting Fields are not Conservative	https://neurips.cc/virtual/2026/poster/155051	pending	-
-152901	Drift Q-Learning	https://neurips.cc/virtual/2026/poster/152901	pending	-
-154432	Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields	https://neurips.cc/virtual/2026/poster/154432	pending	-
-149468	Drift-Resistant Navigation World Model with Anchored Epipolar Guidance	https://neurips.cc/virtual/2026/poster/149468	pending	-
-153675	DriftWeight: Repulsive Drift in Mean-Flow Space for Neural Network Weight Generation	https://neurips.cc/virtual/2026/poster/153675	pending	-
-148289	DRILL: Training World Models to Improve Policies, Not Predict Pixels	https://neurips.cc/virtual/2026/poster/148289	pending	-
-149539	DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning	https://neurips.cc/virtual/2026/poster/149539	pending	-
-151453	DRIVE: Fine-tuning via Data Contribution- and Diversity-aware Weighting with Prior Regularization	https://neurips.cc/virtual/2026/poster/151453	pending	-
-149040	DriveFuture: Future-Aware Latent World Models for Autonomous Driving	https://neurips.cc/virtual/2026/poster/149040	pending	-
-139730	DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution	https://neurips.cc/virtual/2026/poster/139730	pending	-
-155869	DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving	https://neurips.cc/virtual/2026/poster/155869	pending	-
-153047	Driver Attention as Competitive Allocation: A Scene--Task-Aware Dual-Branch Framework	https://neurips.cc/virtual/2026/poster/153047	pending	-
-139711	DriveSpatial: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving	https://neurips.cc/virtual/2026/poster/139711	pending	-
-139662	DriveStreamBench: Evaluating User-Conditioned Watch-and-Notify in Streaming Driving Video	https://neurips.cc/virtual/2026/poster/139662	pending	-
+154838	Do multimodal models imagine electric sheep?	https://neurips.cc/virtual/2026/poster/154838	included	为动作序列加入少量视觉状态 token。
+152489	Done, But Not Sure: Disentangling World Completion from Self-Termination in Embodied Agents	https://neurips.cc/virtual/2026/poster/152489	included	独立评分任务完成与智能体主动结束。
+152693	Do Not Let Spikes Flip: Margin-Resculpted Learning for Robust Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/152693	included	用阈值附近占用率约束脉冲不稳定。
+150011	Don't Always Pick the Highest-Performing Model: An Information Theoretic View of LLM Ensemble Selection	https://neurips.cc/virtual/2026/poster/150011	included	固定调用预算时用新增标签信息选成员。
+179728	Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability — Diverse Evaluation Is Required	https://neurips.cc/virtual/2026/poster/179728	included	用不同代码任务验证榜单提分能否迁移。
+140050	Don't Deploy Fine-Tuned Genomic Foundation Models Without Privacy Evaluation: Reconstruction Vulnerability Is Unpredictable Without Empirical Measurement	https://neurips.cc/virtual/2026/poster/140050	excluded	主要提出隐私审计立场并综合已有证据，摘要未给出独立验证的防御机制。
+153136	Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation	https://neurips.cc/virtual/2026/poster/153136	included	按提示通过率与教师置信筛选历史 RL 轨迹。
+153913	Don’t Learn What You Can Compute: Arithmetic Residual Blocks for Exact Arithmetic in Transformers	https://neurips.cc/virtual/2026/poster/153913	included	把可精确计算的函数冻结为残差模块。
+152022	Don’t Let Gains FADE: Breaking Down Policy Gradient Weights in RL	https://neurips.cc/virtual/2026/poster/152022	included	分别审计优势函数的正负梯度质量与总量。
+154186	Don't Lose Focus: Activation Steering via Key-Orthogonal Projections	https://neurips.cc/virtual/2026/poster/154186	included	保持重要上下文注意力以验证干预效用。
+153320	Don't Match the Noise: Distribution Matching under Unknown Measurement Error with an Audit Sample	https://neurips.cc/virtual/2026/poster/153320	included	用少量随机审计真值校正核比较。
+139366	Don't Pause! Every prediction matters in a streaming video	https://neurips.cc/virtual/2026/poster/139366	included	连续评估回复时间、误触发与漏答。
+153443	Don't Pay Attention, PLANT It: Pretraining Attention via Learning-to-Rank	https://neurips.cc/virtual/2026/poster/153443	included	用标签专属排序结果初始化注意力。
+155562	Don't Waste Population: Post-Anneal Refinement for Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/155562	included	退火结束后在不同优质解盆地间搜索。
+153452	Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation	https://neurips.cc/virtual/2026/poster/153452	included	按请求维度和模型固定维度拆分性能缓存。
+139569	Doomed to Re-Annotate, Forever: The ImageNet Story	https://neurips.cc/virtual/2026/poster/139569	included	用多标签重标验证排行榜对标注噪声的敏感性。
+151068	Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations	https://neurips.cc/virtual/2026/poster/151068	included	用观察数据中的顺序结构解释少样本表现。
+139019	DopplerWild: A Doppler Dataset and Benchmark for Human Kinematic Understanding in the Wild	https://neurips.cc/virtual/2026/poster/139019	included	按遮挡和旁人干扰拆解雷达运动识别误差。
+153949	D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models	https://neurips.cc/virtual/2026/poster/153949	included	在学生自身生成轨迹上蒸馏目标图像条件教师。
+154440	DORA: A Scalable Asynchronous Reinforcement Learning System for Language Model Training	https://neurips.cc/virtual/2026/poster/154440	included	并行服务多策略版本，保留长尾轨迹。
+149897	Do Reasoning LLMs Refuse What They Infer in Long Contexts?	https://neurips.cc/virtual/2026/poster/149897	included	分别测意图理解和拒答
+153848	Do Robust LVLMs Hallucinate More? Uncovering Robustness-Induced Hallucination in Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/153848	included	鲁棒训练后检查 token 同质化
+152073	Do Semantic Distance Tests Actually Predict Creativity in Large Language Models?	https://neurips.cc/virtual/2026/poster/152073	included	按创造构念验证语义距离
+152493	Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?	https://neurips.cc/virtual/2026/poster/152493	included	测试软吸收对 SAE 层级的影响
+154135	Do Speech BCIs Need Larger Models? Rethinking Neural Decoding beyond Scaling	https://neurips.cc/virtual/2026/poster/154135	included	优先验证跨模态对齐而非扩规模
+150945	Do Thinking Tokens Help with Safety?	https://neurips.cc/virtual/2026/poster/150945	included	延长思考前验证边际收益
+155336	Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods	https://neurips.cc/virtual/2026/poster/155336	included	先比较等待部分工人的同步更新
+153340	Do We Really Need Diffusion for Generative Object Detection? A Minimal Prototype Perspective	https://neurips.cc/virtual/2026/poster/153340	included	先改善候选覆盖与去噪头
+155908	Do You CARE to Generalize? Extracting Robust Concept Directions from LLMs	https://neurips.cc/virtual/2026/poster/155908	included	拆分稳定概念方向与环境残差
+152718	D-PACE: Dynamic Position-Aware Cross-Entropy for Parallel Speculative Drafting	https://neurips.cc/virtual/2026/poster/152718	included	按期望接收长度更新训练位置权重
+155094	DPA: Decentralized Primal Averaging with Quasi-Global Momentum for Highly Heterogeneous Data	https://neurips.cc/virtual/2026/poster/155094	included	从连续混合迭代估计网络感知动量
+149051	DP-EGGROLL: Centered Fitness-Vector Privatization for Backprop-Free Differentially Private Optimization	https://neurips.cc/virtual/2026/poster/149051	included	裁剪前逐样本去除候选损失的公共偏移
+150275	DPIAgent: Divide, Protocol, Isolate for Agentic Reproduction Test Generation	https://neurips.cc/virtual/2026/poster/150275	included	分离普通缺陷诊断和回归测试
+154167	DPLC: Dirichlet Process Guided Long-tail Clustering	https://neurips.cc/virtual/2026/poster/154167	included	用软子簇作为重平衡信号
+150092	DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers	https://neurips.cc/virtual/2026/poster/150092	included	分离旋转与平移的值向量维度
+138927	DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy	https://neurips.cc/virtual/2026/poster/138927	included	分开评估常见机制与复杂隐私保证
+148680	dRAE: Representation Autoencoder with Hyper-Spherical Codes	https://neurips.cc/virtual/2026/poster/148680	included	按角度选码字以隔离模长
+149674	Drag as Evidence: Motion-Grounded Latent Recomposition for Drag-Based Editing	https://neurips.cc/virtual/2026/poster/149674	included	早期注入粗运动后做语义细化
+139496	DRAGON : A Benchmark for Evidence-Grounded Visual Reasoning over Diagrams	https://neurips.cc/virtual/2026/poster/139496	included	把图中证据定位与答题准确率分开
+149812	DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/149812	included	剪除低相关视觉 token 并在注意力稳定后停止
+149006	DrawingsDreamer: A Unified Multi-View Engineering Drawings Generation Model	https://neurips.cc/virtual/2026/poster/149006	included	先编码局部几何再标注语义边界
+139806	Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes	https://neurips.cc/virtual/2026/poster/139806	included	直接以可编辑体素块训练生成器
+149257	DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images	https://neurips.cc/virtual/2026/poster/149257	included	先归一化图像姿态，再预测可编辑二维结构
+156057	Drift-Aware Multimodal User Representation Learning via Multi-Scale Temporal Modeling and Sparse Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/156057	included	分开训练时序骨干、兴趣专家和路由器
+155776	Drift Flow Matching	https://neurips.cc/virtual/2026/poster/155776	included	部署预算可变时比较同一模型的一步与多步采样
+151871	Drifting Field Policy: Wasserstein Gradient Flow on Policy Space for Offline-to-Online RL	https://neurips.cc/virtual/2026/poster/151871	included	用价值提升与锚策略匹配共同约束在线微调
+155051	Drifting Fields are not Conservative	https://neurips.cc/virtual/2026/poster/155051	included	将漂移训练写为标量损失前先检查向量场保守性
+152901	Drift Q-Learning	https://neurips.cc/virtual/2026/poster/152901	included	用吸引与排斥同时约束高价值动作
+154432	Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields	https://neurips.cc/virtual/2026/poster/154432	excluded	摘要贡献集中于化学反应路径生成，本批仅登记筛选决定。
+149468	Drift-Resistant Navigation World Model with Anchored Epipolar Guidance	https://neurips.cc/virtual/2026/poster/149468	included	先生成稀疏未来锚帧再补中间帧
+153675	DriftWeight: Repulsive Drift in Mean-Flow Space for Neural Network Weight Generation	https://neurips.cc/virtual/2026/poster/153675	included	把多样性约束与一步采样边界的准确性分开校验
+148289	DRILL: Training World Models to Improve Policies, Not Predict Pixels	https://neurips.cc/virtual/2026/poster/148289	included	用想象更新后的策略回报选择世界模型
+149539	DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning	https://neurips.cc/virtual/2026/poster/149539	included	在视频预测与规划之间增加显式深度监督
+151453	DRIVE: Fine-tuning via Data Contribution- and Diversity-aware Weighting with Prior Regularization	https://neurips.cc/virtual/2026/poster/151453	included	在无预训练数据时分别衡量样本对保持与适配的贡献
+149040	DriveFuture: Future-Aware Latent World Models for Autonomous Driving	https://neurips.cc/virtual/2026/poster/149040	included	将预测未来状态显式送入规划器
+139730	DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution	https://neurips.cc/virtual/2026/poster/139730	included	分开测基础场景理解与闭环执行
+155869	DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving	https://neurips.cc/virtual/2026/poster/155869	included	将多个场景解释保留到新证据到来
+153047	Driver Attention as Competitive Allocation: A Scene--Task-Aware Dual-Branch Framework	https://neurips.cc/virtual/2026/poster/153047	included	按场景任务需求和控制紧迫度调节注意力集中程度
+139711	DriveSpatial: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving	https://neurips.cc/virtual/2026/poster/139711	included	用动态场景图保证问题确实需要跨视角与时间信息
+139662	DriveStreamBench: Evaluating User-Conditioned Watch-and-Notify in Streaming Driving Video	https://neurips.cc/virtual/2026/poster/139662	included	验收提醒系统时只给此前视频帧并检查提醒时机
 152058	Drive vs. Decay: On the Training Dynamics of Joint-Embedding Predictive Architectures	https://neurips.cc/virtual/2026/poster/152058	pending	-
 150338	DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving	https://neurips.cc/virtual/2026/poster/150338	pending	-
 139692	Driving on Memory	https://neurips.cc/virtual/2026/poster/139692	pending	-
