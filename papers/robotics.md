@@ -167,6 +167,7 @@
 - <a id="van-huffel26a-data-strategies"></a>[Neural Low-Discrepancy Sequences](../conferences/icml-2026/cards/4501-4600.md#paper-van-huffel26a)
 - <a id="zhang26b-data-strategies"></a>[BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories under Spatio-Temporal Vector Fields](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26b)
 - <a id="zhou26aj-data-strategies"></a>[SMD: Multi-view Safety-Critical Driving Video Generation in the Real-world Domain](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26aj)
+- <a id="zhu26s-data-strategies"></a>[Making Learner Weakness Actionable for Learning from Demonstration with Novice Teachers](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26s)
 
 <a id="by-inference"></a>
 

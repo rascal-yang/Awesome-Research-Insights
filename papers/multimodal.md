@@ -143,6 +143,7 @@
 - <a id="zhou26ae-loss-functions"></a>[Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ae)
 - <a id="zhou26aw-loss-functions"></a>[Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26aw)
 - <a id="zhou26br-loss-functions"></a>[Mitigating the Modality Gap in Vision–Language Models with Fractal Spectral Geometry](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26br)
+- <a id="zhu26a-loss-functions"></a>[Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26a)
 
 <a id="by-optimization"></a>
 

@@ -76,6 +76,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Syntax vs. Semantics: How Transformers Learn Deep Dependencies](../../conferences/icml-2026/cards/6001-6100.md#zhao26h-loss-functions) · 中文
 - [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26be-loss-functions) · 中文
 - [Don’t Force the Fit: Bounded Log-Likelihood Loss for Enhanced Reasoning in Large Language Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26bz-loss-functions) · 中文
+- [From Guessing to Placeholding: A Cost-Theoretic Framework for Uncertainty-Aware Code Completion](../../conferences/icml-2026/cards/6201-6300.md#zhu26h-loss-functions) · 中文
+- [Simple Denoising Diffusion Language Models](../../conferences/icml-2026/cards/6201-6300.md#zhu26i-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -146,6 +148,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting](../../conferences/icml-2026/cards/6101-6200.md#zhou26q-loss-functions) · 中文
 - [SpecPL: Disentangling Spectral Granularity for Prompt Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26r-loss-functions) · 中文
 - [Segment Anything with Robust Uncertainty-Accuracy Correlation](../../conferences/icml-2026/cards/6101-6200.md#zhou26ar-loss-functions) · 中文
+- [EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation](../../conferences/icml-2026/cards/6201-6300.md#zhu26p-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -266,6 +269,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification](../../conferences/icml-2026/cards/6101-6200.md#zhou26ae-loss-functions) · 中文
 - [Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration](../../conferences/icml-2026/cards/6201-6300.md#zhou26aw-loss-functions) · 中文
 - [Mitigating the Modality Gap in Vision–Language Models with Fractal Spectral Geometry](../../conferences/icml-2026/cards/6201-6300.md#zhou26br-loss-functions) · 中文
+- [Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](../../conferences/icml-2026/cards/6201-6300.md#zhu26a-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

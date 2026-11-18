@@ -209,6 +209,8 @@
 - [按置信度调clip并重分配token优势](../conferences/icml-2026/cards/6001-6100.md#zhao26bn-reinforcement-learning) · ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning
 - [对含噪重要性比作上截断后自归一化](../conferences/icml-2026/cards/6101-6200.md#zhong26q-reinforcement-learning) · Stabilizing Reinforcement Learning for Diffusion Language Models
 - [中难度乘置信度的RL算力重分配](../conferences/icml-2026/cards/6101-6200.md#zhou26ah-reinforcement-learning) · The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning
+- [按tool次数分层的优势混合](../conferences/icml-2026/cards/6201-6300.md#zhu26f-reinforcement-learning) · Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents
+- [reward倾斜权重的负梯度baseline](../conferences/icml-2026/cards/6201-6300.md#zhu26o-reinforcement-learning) · Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -508,6 +510,7 @@
 - [按位置校正推荐路径的策略梯度](../conferences/icml-2026/cards/1601-1700.md#hou26g-reinforcement-learning) · ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation
 - [给被选条目而不是整个候选集分配梯度](../conferences/icml-2026/cards/2101-2200.md#kiyohara26a-reinforcement-learning) · Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking
 - [先用安全推荐筹集探索样本，再校准 gap 采样](../conferences/icml-2026/cards/2401-2500.md#li26w-reinforcement-learning) · Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System
+- [离散graph flow的解析单步策略概率](../conferences/icml-2026/cards/6201-6300.md#zhu26b-reinforcement-learning) · Graph-GRPO: Training Graph Flow Models with Reinforcement Learning
 
 <a id="by-scientific-ml"></a>
 

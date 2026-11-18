@@ -393,6 +393,7 @@
 - [质量与重复饱和的经验配方缩放律](../conferences/icml-2026/cards/6101-6200.md#zhou26af-evaluation) · InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition
 - [逐层逐前缀探测层级解析信息](../conferences/icml-2026/cards/6201-6300.md#zhou26at-evaluation) · How Transformers Represent Hierarchies: A Local-to-Global Mechanism
 - [否定处理的晚层attention捷径诊断](../conferences/icml-2026/cards/6201-6300.md#zhou26bq-evaluation) · How Language Models Process Negation
+- [调度熵的短程拟合与context扰动](../conferences/icml-2026/cards/6201-6300.md#zhu26g-evaluation) · Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems
 
 <a id="by-computer-vision"></a>
 

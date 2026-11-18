@@ -537,6 +537,7 @@
 - [动态子空间恢复的测量校正与晚期去噪](../conferences/icml-2026/cards/6101-6200.md#zheng26f-inference) · Image Restoration via Diffusion Models with Dynamic Resolution
 - [相机工作集驱动的分层Gaussian训练缓存](../conferences/icml-2026/cards/6101-6200.md#zhong26o-inference) · TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization
 - [激活监督采样与自然性偏移对照](../conferences/icml-2026/cards/6101-6200.md#zhou26ai-inference) · A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle
+- [遮挡区prior速度与attention logit平滑](../conferences/icml-2026/cards/6201-6300.md#zhu26m-inference) · RelaxFlow: Text-Driven Amodal 3D Generation
 
 <a id="by-nlp"></a>
 

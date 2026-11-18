@@ -393,6 +393,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition](../../conferences/icml-2026/cards/6101-6200.md#zhou26af-evaluation) · 中文
 - [How Transformers Represent Hierarchies: A Local-to-Global Mechanism](../../conferences/icml-2026/cards/6201-6300.md#zhou26at-evaluation) · 中文
 - [How Language Models Process Negation](../../conferences/icml-2026/cards/6201-6300.md#zhou26bq-evaluation) · 中文
+- [Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems](../../conferences/icml-2026/cards/6201-6300.md#zhu26g-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -677,6 +677,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [$\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function](../../conferences/icml-2026/cards/6101-6200.md#zhou26ac-theory-statistics) · 中文
 - [Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach](../../conferences/icml-2026/cards/6101-6200.md#zhou26am-theory-statistics) · 中文
 - [On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective](../../conferences/icml-2026/cards/6201-6300.md#zhou26be-theory-statistics) · 中文
+- [Prior Diffusiveness and Regret in the Linear-Gaussian Bandit](../../conferences/icml-2026/cards/6201-6300.md#zhu26k-theory-statistics) · 中文
+- [A Short and Unified Convergence Analysis of the SAG, SAGA, and IAG Algorithms](../../conferences/icml-2026/cards/6201-6300.md#zhu26r-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -705,6 +707,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models](../../conferences/icml-2026/cards/4301-4400.md#taing26a-theory-statistics) · 中文
 - [Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors](../../conferences/icml-2026/cards/4501-4600.md#turan26a-theory-statistics) · 中文
 - [Which Algorithms Can Graph Neural Networks Learn?](../../conferences/icml-2026/cards/4901-5000.md#wittig26a-theory-statistics) · 中文
+- [When Do Graph Foundation Models Transfer? A Data-Centric Theory](../../conferences/icml-2026/cards/6201-6300.md#zhu26e-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

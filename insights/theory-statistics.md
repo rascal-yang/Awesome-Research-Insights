@@ -677,6 +677,8 @@
 - [Wasserstein稳定集合函数的logN宽度](../conferences/icml-2026/cards/6101-6200.md#zhou26ac-theory-statistics) · $\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function
 - [归一化核距离检验数据对是否超出容忍差异](../conferences/icml-2026/cards/6101-6200.md#zhou26am-theory-statistics) · Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach
 - [按代理对齐和时序相关选择TTA恢复预算](../conferences/icml-2026/cards/6201-6300.md#zhou26be-theory-statistics) · On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective
+- [线性TS的prior burn-in与长期regret解耦](../conferences/icml-2026/cards/6201-6300.md#zhu26k-theory-statistics) · Prior Diffusiveness and Regret in the Linear-Gaussian Bandit
+- [用最大梯度陈旧度统一选择步长](../conferences/icml-2026/cards/6201-6300.md#zhu26r-theory-statistics) · A Short and Unified Convergence Analysis of the SAG, SAGA, and IAG Algorithms
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -705,6 +707,7 @@
 - [spectral-dimension-misspecification](../conferences/icml-2026/cards/4301-4400.md#taing26a-theory-statistics) · On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models
 - [activation-bifurcation-boundaries](../conferences/icml-2026/cards/4501-4600.md#turan26a-theory-statistics) · Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors
 - [固定步数图算法的外推证书](../conferences/icml-2026/cards/4901-5000.md#wittig26a-theory-statistics) · Which Algorithms Can Graph Neural Networks Learn?
+- [图迁移的采样误差与域差分解](../conferences/icml-2026/cards/6201-6300.md#zhu26e-theory-statistics) · When Do Graph Foundation Models Transfer? A Data-Centric Theory
 
 <a id="by-scientific-ml"></a>
 

@@ -184,6 +184,7 @@
 - [优化整个序列的前缀差异度](../conferences/icml-2026/cards/4501-4600.md#van-huffel26a-data-strategies) · Neural Low-Discrepancy Sequences
 - [按被动移动轨迹评估传感器部署](../conferences/icml-2026/cards/5701-5800.md#zhang26b-data-strategies) · BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories under Spatio-Temporal Vector Fields
 - [固定周车轨迹将碰撞种子转为近险规避](../conferences/icml-2026/cards/6101-6200.md#zhou26aj-data-strategies) · SMD: Multi-view Safety-Critical Driving Video Generation in the Real-world Domain
+- [示范锚定区域的困难与非冗余选样](../conferences/icml-2026/cards/6201-6300.md#zhu26s-data-strategies) · Making Learner Weakness Actionable for Learning from Demonstration with Novice Teachers
 
 <a id="by-multimodal"></a>
 

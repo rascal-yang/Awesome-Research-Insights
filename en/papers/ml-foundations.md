@@ -1339,4 +1339,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhou26ac-theory-statistics"></a>[$\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ac)
 - <a id="zhou26am-theory-statistics"></a>[Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26am)
 - <a id="zhou26be-theory-statistics"></a>[On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26be)
+- <a id="zhu26k-theory-statistics"></a>[Prior Diffusiveness and Regret in the Linear-Gaussian Bandit](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26k)
+- <a id="zhu26r-theory-statistics"></a>[A Short and Unified Convergence Analysis of the SAG, SAGA, and IAG Algorithms](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26r)
 <!-- classification:end -->

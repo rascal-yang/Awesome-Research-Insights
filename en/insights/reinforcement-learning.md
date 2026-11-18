@@ -209,6 +209,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](../../conferences/icml-2026/cards/6001-6100.md#zhao26bn-reinforcement-learning) · 中文
 - [Stabilizing Reinforcement Learning for Diffusion Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhong26q-reinforcement-learning) · 中文
 - [The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ah-reinforcement-learning) · 中文
+- [Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents](../../conferences/icml-2026/cards/6201-6300.md#zhu26f-reinforcement-learning) · 中文
+- [Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization](../../conferences/icml-2026/cards/6201-6300.md#zhu26o-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -508,6 +510,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](../../conferences/icml-2026/cards/1601-1700.md#hou26g-reinforcement-learning) · 中文
 - [Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking](../../conferences/icml-2026/cards/2101-2200.md#kiyohara26a-reinforcement-learning) · 中文
 - [Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System](../../conferences/icml-2026/cards/2401-2500.md#li26w-reinforcement-learning) · 中文
+- [Graph-GRPO: Training Graph Flow Models with Reinforcement Learning](../../conferences/icml-2026/cards/6201-6300.md#zhu26b-reinforcement-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 

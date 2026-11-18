@@ -211,6 +211,7 @@
 - <a id="zhou26q-loss-functions"></a>[Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26q)
 - <a id="zhou26r-loss-functions"></a>[SpecPL: Disentangling Spectral Granularity for Prompt Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26r)
 - <a id="zhou26ar-loss-functions"></a>[Segment Anything with Robust Uncertainty-Accuracy Correlation](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ar)
+- <a id="zhu26p-loss-functions"></a>[EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26p)
 
 <a id="by-optimization"></a>
 
@@ -548,6 +549,7 @@
 - <a id="zheng26f-inference"></a>[Image Restoration via Diffusion Models with Dynamic Resolution](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26f)
 - <a id="zhong26o-inference"></a>[TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26o)
 - <a id="zhou26ai-inference"></a>[A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ai)
+- <a id="zhu26m-inference"></a>[RelaxFlow: Text-Driven Amodal 3D Generation](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26m)
 
 <a id="by-representation-learning"></a>
 

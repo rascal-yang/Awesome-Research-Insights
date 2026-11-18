@@ -194,6 +194,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhao26h-loss-functions"></a>[Syntax vs. Semantics: How Transformers Learn Deep Dependencies](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26h)
 - <a id="zhao26be-loss-functions"></a>[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26be)
 - <a id="zhao26bz-loss-functions"></a>[Don’t Force the Fit: Bounded Log-Likelihood Loss for Enhanced Reasoning in Large Language Models](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bz)
+- <a id="zhu26h-loss-functions"></a>[From Guessing to Placeholding: A Cost-Theoretic Framework for Uncertainty-Aware Code Completion](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26h)
+- <a id="zhu26i-loss-functions"></a>[Simple Denoising Diffusion Language Models](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26i)
 
 <a id="by-optimization"></a>
 
@@ -511,6 +513,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhao26bn-reinforcement-learning"></a>[ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bn)
 - <a id="zhong26q-reinforcement-learning"></a>[Stabilizing Reinforcement Learning for Diffusion Language Models](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26q)
 - <a id="zhou26ah-reinforcement-learning"></a>[The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ah)
+- <a id="zhu26f-reinforcement-learning"></a>[Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26f)
+- <a id="zhu26o-reinforcement-learning"></a>[Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26o)
 
 <a id="by-training-strategies"></a>
 
@@ -1563,6 +1567,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhou26af-evaluation"></a>[InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26af)
 - <a id="zhou26at-evaluation"></a>[How Transformers Represent Hierarchies: A Local-to-Global Mechanism](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26at)
 - <a id="zhou26bq-evaluation"></a>[How Language Models Process Negation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bq)
+- <a id="zhu26g-evaluation"></a>[Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26g)
 
 <a id="by-theory-statistics"></a>
 

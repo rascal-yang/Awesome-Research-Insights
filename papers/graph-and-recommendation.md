@@ -111,6 +111,7 @@
 - <a id="hou26g-reinforcement-learning"></a>[ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](../conferences/icml-2026/cards/1601-1700.md#paper-hou26g)
 - <a id="kiyohara26a-reinforcement-learning"></a>[Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking](../conferences/icml-2026/cards/2101-2200.md#paper-kiyohara26a)
 - <a id="li26w-reinforcement-learning"></a>[Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System](../conferences/icml-2026/cards/2401-2500.md#paper-li26w)
+- <a id="zhu26b-reinforcement-learning"></a>[Graph-GRPO: Training Graph Flow Models with Reinforcement Learning](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26b)
 
 <a id="by-training-strategies"></a>
 
@@ -252,4 +253,5 @@
 - <a id="taing26a-theory-statistics"></a>[On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models](../conferences/icml-2026/cards/4301-4400.md#paper-taing26a)
 - <a id="turan26a-theory-statistics"></a>[Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors](../conferences/icml-2026/cards/4501-4600.md#paper-turan26a)
 - <a id="wittig26a-theory-statistics"></a>[Which Algorithms Can Graph Neural Networks Learn?](../conferences/icml-2026/cards/4901-5000.md#paper-wittig26a)
+- <a id="zhu26e-theory-statistics"></a>[When Do Graph Foundation Models Transfer? A Data-Centric Theory](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26e)
 <!-- classification:end -->
