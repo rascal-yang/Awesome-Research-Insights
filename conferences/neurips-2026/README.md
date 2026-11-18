@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1229** 篇，暂收录 **1123** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1289** 篇，暂收录 **1180** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1131,3 +1131,60 @@
 | 多模态学习 | 细粒度微调 | [C2FT: Enhancing Fine-Grained Perception in MLLMs via Confuse-then-Contrast Fine-Tuning](cards-0002.md#paper-151433) | 按目标模型的具体混淆组织多图对照监督。 |
 | 强化学习 | 分层控制评测 | [C2G-BENCH: A Cyber-Physical Evaluation Benchmark for Hierarchical Reinforcement Learning in Grid-Interactive Hyperscale Data Centers](cards-0002.md#paper-139076) | 用耦合的双时间尺度测试上层计划与下层控制。 |
 | 智能体 | 角色记忆 | [C3: Long-Horizon Character Consistency via Causal-Continuous State Dynamics and Memory Rewriting](cards-0002.md#paper-151786) | 用连续状态和滞回更新角色，并按当前关系重释事件。 |
+| 医学影像 | 压力测试 | [C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance](cards-0002.md#paper-139182) | 按已知形变强度分层评估位姿估计。 |
+| 生成模型 | 数值采样 | [CAB: Accelerating Flow and Diffusion Sampling via Rectification and Corrected Adams-Bashforth](cards-0002.md#paper-150465) | 低步数采样时比较带历史速度校正的多步积分。 |
+| 计算机视觉 | 奖励建模 | [CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating](cards-0002.md#paper-153622) | 为视频奖励模型监督异常所在时间和空间。 |
+| Agent | 缓存通信 | [CacheMAS: Cache Communication for Single-Pass, Jointly-Optimized Multi-Agent Systems](cards-0002.md#paper-154215) | 让多个角色通过预填充缓存共享状态，最终角色一次生成。 |
+| 生成模型 | 推理缓存 | [Cache the Future: Training-Free Self-Revision for Diffusion Transformer Acceleration](cards-0002.md#paper-149314) | 用稀疏计算的后续状态修订此前跳过的时间步。 |
+| 生成模型 | 覆盖诊断 | [CADMA: Capacity-Aware Recall Decomposition for Generative Model Assessment](cards-0002.md#paper-139801) | 用一对一局部分配评估生成分布的有效覆盖。 |
+| 表格学习 | 特征构造 | [CAFE: Causally-Guided Automated Feature Engineering with Multi-Agent Reinforcement Learning](cards-0002.md#paper-151842) | 用软因果结构先验约束特征搜索，而非硬删除候选。 |
+| 多模态学习 | 拓扑注意力 | [CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models](cards-0002.md#paper-151831) | 给多房间场景按物体和房间两层建立信息路径。 |
+| 视频理解 | 比较式评估 | [CA-Judge: Teach Large Models to Judge Anomalies via Comparison for Video Anomaly Detection](cards-0002.md#paper-153516) | 用少数有信息量的参考比较代替绝对异常打分。 |
+| 统计学习 | 校准评测 | [CalArena: A Large Scale Post-Hoc Calibration Benchmark](cards-0002.md#paper-139709) | 用恰当评分规则的改善度同时监测校准收益和预测质量。 |
+| 统计学习 | 半监督估计 | [Calibeating Prediction-Powered Inference](cards-0002.md#paper-150100) | 先用小标注集校准预测分数，再用全量协变量估计均值。 |
+| 强化学习 | 安全策略改进 | [Calibrated Safe Policy Improvement for Continuous Offline Reinforcement Learning](cards-0002.md#paper-148367) | 用校准的一步模型误差证书限制连续域搜索。 |
+| 优化 | 曲率估计 | [Calibrated Target Noise Recovers Curvature from the Gradients](cards-0002.md#paper-154444) | 只有批梯度时用校准目标扰动估计曲率。 |
+| 医学人工智能 | 概率校准 | [Calibrating Agentic LLMs for Clinical Prediction](cards-0002.md#paper-149149) | 临床预测 Agent 的验证同时检查风险概率校准和区分能力。 |
+| 大语言模型 | 语义校准 | [Calibrating LLMs with Semantic-level Reward](cards-0002.md#paper-154784) | 通过答案语义一致性训练校准，减少置信度措辞影响。 |
+| 科学机器学习 | 不确定性估计 | [Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention](cards-0002.md#paper-153839) | 固定模型，通过随机注意力生成集合预测。 |
+| Agent | 干预决策 | [Calibration Is Not Control: Intervention Advantage for LLM-Agent Oversight](cards-0002.md#paper-149357) | 从同一轨迹前缀比较继续和采取干预的预期效用。 |
+| 统计学习 | 无标签校准 | [Calibration without Ground Truth](cards-0002.md#paper-152525) | 检查主模型和参考模型是否相互可校准，再决定是否转移校准信息。 |
+| 统计学习 | 统计校准 | [Calibration without labels in multiple testing](cards-0002.md#paper-150447) | 校准局部错误率时用伪标签代替真实标签 |
+| Agent | 隔离防御 | [CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents](cards-0002.md#paper-155134) | 将可信规划与界面感知隔离 |
+| 多模态 | 记忆机制 | [CAM: Question Answering on Entity-Centric Videos with Continuous Extraction and Adaptive Querying](cards-0002.md#paper-150537) | 将实体级长期摘要和按问题回查原始视频结合 |
+| 视觉 | 记忆评测 | [Can 4D Foundation Models Remember?](cards-0002.md#paper-139573) | 用全景参考评估物体离开视野后的记忆 |
+| Agent | 流程评测 | [Can Agents Price a Reaction? Evaluating LLMs on Chemical Cost Reasoning](cards-0002.md#paper-139478) | 用冻结价格快照和阶段分数评估工具代理 |
+| Agent | 证据评测 | [Can AI Agents Synthesize Scientific Conclusions?](cards-0002.md#paper-139077) | 科学结论评估隔离答案泄漏并测事实级覆盖 |
+| 法律AI | 证据归因 | [Can an LLM Reason Like a Lawyer? Benchmarking the ability of LLMs to map the facts of a case to the elements of the applicable legal rule](cards-0002.md#paper-139058) | 对法律模型测试事实到规则要件的显式归因 |
+| 隐私 | 编码 | [Can Bits Seal Language?](cards-0002.md#paper-153783) | 把输入离散编码的隐私与效用一起比较 |
+| 学习理论 | 鲁棒评测 | [Can Circuit Alignment Predict OOD Generalization?](cards-0002.md#paper-155822) | 用计算路径对齐而非仅激活相似度估计跨域性能 |
+| 推荐 | 图表示 | [Can Complementary Signals Bridge Similarity Islands?  Manifold-Augmented Graph Embedding for Multimodal Recommendation](cards-0002.md#paper-155124) | 显式区分互补关系与相似替代关系 |
+| Agent | 约束设计 | [CANDO: Cooperative Agentic Network for Layout Design Optimization](cards-0002.md#paper-153174) | 以场地约束验证器指导布局迭代 |
+| 优化 | 梯度估计 | [Can Entry-Wise Clipping Give Spectral Control of Stochastic Gradients?](cards-0002.md#paper-154679) | 梯度噪声重尾时试验逐元素平滑收缩 |
+| 系统 | 并行规划 | [Can Hybrid-Parallel Planning Support Alternating Model–Strategy Design? Dependency-Keyed Per-Layer Primitives for Re-Planning](cards-0002.md#paper-149399) | 并行策略重算时仅复用依赖签名一致的层级原语 |
+| 公平性 | 排序诊断 | [Can Ideologues Agree on Quality? From Non-identifiable Latent Factors to Collective Outcomes](cards-0002.md#paper-154284) | 众包评分模型中明示何谓中立评价者 |
+| 强化学习 | 探索奖励 | [Can In-Context Learning Support Intrinsic Curiosity?](cards-0002.md#paper-151481) | 按任务是否有时间依赖决定用上下文预测误差近似学习进展 |
+| 大语言模型 | 长上下文 | [Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale](cards-0002.md#paper-153028) | 百万 token 检索单独诊断注意力归一化稀释 |
+| Agent | 风险评测 | [Can Large Language Models Develop Gambling Addiction?](cards-0002.md#paper-149163) | 分别测试下注自主权和目标自主权的风险 |
+| 多模态 | 表征适配 | [Can Linguistic Reasoning Vectors Enhance Multimodal Reasoning Ability?](cards-0002.md#paper-155152) | 从基础语言模型抽取推理方向辅助视觉语言模型 |
+| Agent | 工具评测 | [Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations](cards-0002.md#paper-139774) | 将地理工具代理的工具选择和参数定位分开评估 |
+| 可解释性 | 行为诊断 | [Can LLMs explain themselves truthfully with code?](cards-0002.md#paper-150242) | 用留出输入上的行为一致性验证自解释。 |
+| 大语言模型 | 数学评测 | [Can LLMs Reliably Grade Olympiad Proofs? A Controlled Study of Mathematical Verification with LLMs](cards-0002.md#paper-153381) | 将证明评分视为离散评分选择并报告序数一致性。 |
+| 大语言模型 | 检索校准 | [Can LLMs Take Retrieved Information with a Grain of Salt?](cards-0002.md#paper-148640) | 衡量模型在来源不确定时是否调整回答置信。 |
+| 统计学习 | 多源校准 | [Can Metadata Fix the Gauge? Calibration Turns Sparse Multi-Source Learning from Sparse PCA into Sparse Mean Recovery](cards-0002.md#paper-152833) | 优先采集可验证的相对坐标信息，再合并来源。 |
+| 机器学习系统 | 分布式训练 | [Can Model Merging Improve Aggregation in DiLoCo?](cards-0002.md#paper-154543) | 局部训练间隔较长时对比合并式聚合和伪梯度平均。 |
+| 深度学习 | 稀疏训练 | [Cannistraci-Hebb Channel-wise Dynamic Sparse Training of Convolutional Neural Networks with Contextual Modulation](cards-0002.md#paper-149797) | 按卷积通道构建拓扑并更新稀疏连接。 |
+| 学习理论 | 条件预测 | [Canonical Predictive Quotients: A Theory of Prediction under Hidden Predictive State Uncertainty with ICL Implications](cards-0002.md#paper-154631) | 只恢复会改变当前最优预测的隐状态区别。 |
+| 机器学习系统 | 推理调度 | [Canopy: Tree-Aware Rollout Scheduling for Agent Reinforcement Learning](cards-0002.md#paper-154204) | 把 rollout 树结构传给调度与 KV 缓存管理。 |
+| 计算机视觉 | 来源验证 | [Can Pixels Alone Reveal Image Origin? Minimax Limits and Learnable Interfaces for Passive Provenance](cards-0002.md#paper-154460) | 分别验证来源统计可分性与接口暴露带来的风险。 |
+| 多模态学习 | 反事实评测 | [Can the Parts Fool the Test? Counterfactual Pairing Cycles for Relational OOD](cards-0002.md#paper-149781) | 保持图和文字成分不变，仅更换配对测试关系绑定。 |
+| 视频生成 | 采样调度 | [CanvasMAR: Improving Masked Autoregressive Video Prediction With Canvas](cards-0002.md#paper-148170) | 先提供全局未来帧粗预测，再逐区补细节。 |
+| 计算机视觉 | 主动感知 | [CanViT: Toward Active-Vision Foundation Models](cards-0002.md#paper-151128) | 将局部感知骨干与可持续更新的场景记忆分离。 |
+| 具身智能 | 安全评测 | [Can VLMs Reason When to Stop for Human Safety?](cards-0002.md#paper-139187) | 对同一任务构造应停止和可继续的配对场景。 |
+| 计算机视觉 | 伪影定位 | [Can We Model the Artifacts Explicitly? Disentangle Artifacts via Pairwise Edit Relations for Image Manipulation Localization](cards-0002.md#paper-155638) | 用同源编辑之间的关系监督潜在伪影表征。 |
+| 统计学习 | 评测诊断 | [Can We Trust Item Response Theory for AI Evaluation?](cards-0002.md#paper-139287) | 使用 IRT 前按模型数量和能力分布做仿真校准。 |
+| 大语言模型 | 知识编辑 | [Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing](cards-0002.md#paper-148802) | 在求目标隐态时约束稀疏度，减少多次编辑干扰。 |
+| 优化 | 延迟反馈 | [Capacity-Constrained Online Convex Optimization with Delayed Feedback](cards-0002.md#paper-151561) | 用随机调度和重要性权重管理有限反馈追踪预算。 |
+| 自然语言处理 | 过程监督 | [CAPER: Clause-Aligned Process Supervision for Text-to-SQL](cards-0002.md#paper-149623) | 将 SQL 语义子句作为奖励和故障定位单元。 |
+| Agent | 约束优化 | [CAPO: A Primal-Dual Framework for Constraint-Aware Prompt Optimization](cards-0002.md#paper-149769) | 为工具使用和输出要求设显式阈值后优化系统提示。 |
+| 机器学习系统 | 隐私推理 | [Capricorn: Highly Efficient and Secure Mixture of Experts Inference Framework](cards-0002.md#paper-152572) | 分别优化安全 MoE 路由与激活的通信开销。 |

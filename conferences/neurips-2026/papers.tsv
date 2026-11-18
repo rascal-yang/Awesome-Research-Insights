@@ -1182,66 +1182,66 @@ poster_id	title	paper_url	status	reason
 139076	C2G-BENCH: A Cyber-Physical Evaluation Benchmark for Hierarchical Reinforcement Learning in Grid-Interactive Hyperscale Data Centers	https://neurips.cc/virtual/2026/poster/139076	included	用耦合的双时间尺度测试上层计划与下层控制。
 152807	C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems	https://neurips.cc/virtual/2026/poster/152807	excluded	摘要主要提出针对推荐系统的操纵方法，本批排除。
 151786	C3: Long-Horizon Character Consistency via Causal-Continuous State Dynamics and Memory Rewriting	https://neurips.cc/virtual/2026/poster/151786	included	用连续状态和滞回更新角色，并按当前关系重释事件。
-156046	C3P: Contrastive promoter-protein pretraining yields representations capturing bacterial gene regulation	https://neurips.cc/virtual/2026/poster/156046	pending	-
-139182	C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance	https://neurips.cc/virtual/2026/poster/139182	pending	-
-150465	CAB: Accelerating Flow and Diffusion Sampling via Rectification and Corrected Adams-Bashforth	https://neurips.cc/virtual/2026/poster/150465	pending	-
-153622	CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating	https://neurips.cc/virtual/2026/poster/153622	pending	-
-154215	CacheMAS: Cache Communication for Single-Pass, Jointly-Optimized Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/154215	pending	-
-149314	Cache the Future: Training-Free Self-Revision for Diffusion Transformer Acceleration	https://neurips.cc/virtual/2026/poster/149314	pending	-
-139801	CADMA: Capacity-Aware Recall Decomposition for Generative Model Assessment	https://neurips.cc/virtual/2026/poster/139801	pending	-
-151842	CAFE: Causally-Guided Automated Feature Engineering with Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151842	pending	-
-151831	CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models	https://neurips.cc/virtual/2026/poster/151831	pending	-
-153516	CA-Judge: Teach Large Models to Judge Anomalies via Comparison for Video Anomaly Detection	https://neurips.cc/virtual/2026/poster/153516	pending	-
-139709	CalArena: A Large Scale Post-Hoc Calibration Benchmark	https://neurips.cc/virtual/2026/poster/139709	pending	-
-150100	Calibeating Prediction-Powered Inference	https://neurips.cc/virtual/2026/poster/150100	pending	-
-148367	Calibrated Safe Policy Improvement for Continuous Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148367	pending	-
-154444	Calibrated Target Noise Recovers Curvature from the Gradients	https://neurips.cc/virtual/2026/poster/154444	pending	-
-149149	Calibrating Agentic LLMs for Clinical Prediction	https://neurips.cc/virtual/2026/poster/149149	pending	-
-148368	Calibrating Generative Models to Feature Distributions with MMD Finetuning	https://neurips.cc/virtual/2026/poster/148368	pending	-
-154784	Calibrating LLMs with Semantic-level Reward	https://neurips.cc/virtual/2026/poster/154784	pending	-
-153839	Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention	https://neurips.cc/virtual/2026/poster/153839	pending	-
-149357	Calibration Is Not Control: Intervention Advantage for LLM-Agent Oversight	https://neurips.cc/virtual/2026/poster/149357	pending	-
-152525	Calibration without Ground Truth	https://neurips.cc/virtual/2026/poster/152525	pending	-
-150447	Calibration without labels in multiple testing	https://neurips.cc/virtual/2026/poster/150447	pending	-
-155134	CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents	https://neurips.cc/virtual/2026/poster/155134	pending	-
-150537	CAM: Question Answering on Entity-Centric Videos with Continuous Extraction and Adaptive Querying	https://neurips.cc/virtual/2026/poster/150537	pending	-
-139573	Can 4D Foundation Models Remember?	https://neurips.cc/virtual/2026/poster/139573	pending	-
-139478	Can Agents Price a Reaction? Evaluating LLMs on Chemical Cost Reasoning	https://neurips.cc/virtual/2026/poster/139478	pending	-
-139077	Can AI Agents Synthesize Scientific Conclusions?	https://neurips.cc/virtual/2026/poster/139077	pending	-
-139058	Can an LLM Reason Like a Lawyer? Benchmarking the ability of LLMs to map the facts of a case to the elements of the applicable legal rule	https://neurips.cc/virtual/2026/poster/139058	pending	-
-153783	Can Bits Seal Language?	https://neurips.cc/virtual/2026/poster/153783	pending	-
-155822	Can Circuit Alignment Predict OOD Generalization?	https://neurips.cc/virtual/2026/poster/155822	pending	-
-155124	Can Complementary Signals Bridge Similarity Islands?  Manifold-Augmented Graph Embedding for Multimodal Recommendation	https://neurips.cc/virtual/2026/poster/155124	pending	-
-153174	CANDO: Cooperative Agentic Network for Layout Design Optimization	https://neurips.cc/virtual/2026/poster/153174	pending	-
-154679	Can Entry-Wise Clipping Give Spectral Control of Stochastic Gradients?	https://neurips.cc/virtual/2026/poster/154679	pending	-
-139745	Can Folding Models Tell Binders from Bluffers? Evidence from POISK: The Patent-Derived Antibody Dataset	https://neurips.cc/virtual/2026/poster/139745	pending	-
-149399	Can Hybrid-Parallel Planning Support Alternating Model–Strategy Design? Dependency-Keyed Per-Layer Primitives for Re-Planning	https://neurips.cc/virtual/2026/poster/149399	pending	-
-154284	Can Ideologues Agree on Quality? From Non-identifiable Latent Factors to Collective Outcomes	https://neurips.cc/virtual/2026/poster/154284	pending	-
-151481	Can In-Context Learning Support Intrinsic Curiosity?	https://neurips.cc/virtual/2026/poster/151481	pending	-
-153028	Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale	https://neurips.cc/virtual/2026/poster/153028	pending	-
-149163	Can Large Language Models Develop Gambling Addiction?	https://neurips.cc/virtual/2026/poster/149163	pending	-
-155152	Can Linguistic Reasoning Vectors Enhance Multimodal Reasoning Ability?	https://neurips.cc/virtual/2026/poster/155152	pending	-
-139774	Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations	https://neurips.cc/virtual/2026/poster/139774	pending	-
-150242	Can LLMs explain themselves truthfully with code?	https://neurips.cc/virtual/2026/poster/150242	pending	-
-153381	Can LLMs Reliably Grade Olympiad Proofs? A Controlled Study of Mathematical Verification with LLMs	https://neurips.cc/virtual/2026/poster/153381	pending	-
-148640	Can LLMs Take Retrieved Information with a Grain of Salt?	https://neurips.cc/virtual/2026/poster/148640	pending	-
-152833	Can Metadata Fix the Gauge? Calibration Turns Sparse Multi-Source Learning from Sparse PCA into Sparse Mean Recovery	https://neurips.cc/virtual/2026/poster/152833	pending	-
-154543	Can Model Merging Improve Aggregation in DiLoCo?	https://neurips.cc/virtual/2026/poster/154543	pending	-
-149797	Cannistraci-Hebb Channel-wise Dynamic Sparse Training of Convolutional Neural Networks with Contextual Modulation	https://neurips.cc/virtual/2026/poster/149797	pending	-
-154631	Canonical Predictive Quotients: A Theory of Prediction under Hidden Predictive State Uncertainty with ICL Implications	https://neurips.cc/virtual/2026/poster/154631	pending	-
-154204	Canopy: Tree-Aware Rollout Scheduling for Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154204	pending	-
-154460	Can Pixels Alone Reveal Image Origin? Minimax Limits and Learnable Interfaces for Passive Provenance	https://neurips.cc/virtual/2026/poster/154460	pending	-
-149781	Can the Parts Fool the Test? Counterfactual Pairing Cycles for Relational OOD	https://neurips.cc/virtual/2026/poster/149781	pending	-
-148170	CanvasMAR: Improving Masked Autoregressive Video Prediction With Canvas	https://neurips.cc/virtual/2026/poster/148170	pending	-
-151128	CanViT: Toward Active-Vision Foundation Models	https://neurips.cc/virtual/2026/poster/151128	pending	-
-139187	Can VLMs Reason When to Stop for Human Safety?	https://neurips.cc/virtual/2026/poster/139187	pending	-
-155638	Can We Model the Artifacts Explicitly? Disentangle Artifacts via Pairwise Edit Relations for Image Manipulation Localization	https://neurips.cc/virtual/2026/poster/155638	pending	-
-139287	Can We Trust Item Response Theory for AI Evaluation?	https://neurips.cc/virtual/2026/poster/139287	pending	-
-148802	Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing	https://neurips.cc/virtual/2026/poster/148802	pending	-
-151561	Capacity-Constrained Online Convex Optimization with Delayed Feedback	https://neurips.cc/virtual/2026/poster/151561	pending	-
-149623	CAPER: Clause-Aligned Process Supervision for Text-to-SQL	https://neurips.cc/virtual/2026/poster/149623	pending	-
-149769	CAPO: A Primal-Dual Framework for Constraint-Aware Prompt Optimization	https://neurips.cc/virtual/2026/poster/149769	pending	-
-152572	Capricorn: Highly Efficient and Secure Mixture of Experts Inference Framework	https://neurips.cc/virtual/2026/poster/152572	pending	-
+156046	C3P: Contrastive promoter-protein pretraining yields representations capturing bacterial gene regulation	https://neurips.cc/virtual/2026/poster/156046	excluded	摘要聚焦细菌调控序列表征，当前未提取独立于该应用的安全复用证据。
+139182	C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance	https://neurips.cc/virtual/2026/poster/139182	included	按已知形变强度分层评估位姿估计。
+150465	CAB: Accelerating Flow and Diffusion Sampling via Rectification and Corrected Adams-Bashforth	https://neurips.cc/virtual/2026/poster/150465	included	低步数采样时比较带历史速度校正的多步积分。
+153622	CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating	https://neurips.cc/virtual/2026/poster/153622	included	为视频奖励模型监督异常所在时间和空间。
+154215	CacheMAS: Cache Communication for Single-Pass, Jointly-Optimized Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/154215	included	让多个角色通过预填充缓存共享状态，最终角色一次生成。
+149314	Cache the Future: Training-Free Self-Revision for Diffusion Transformer Acceleration	https://neurips.cc/virtual/2026/poster/149314	included	用稀疏计算的后续状态修订此前跳过的时间步。
+139801	CADMA: Capacity-Aware Recall Decomposition for Generative Model Assessment	https://neurips.cc/virtual/2026/poster/139801	included	用一对一局部分配评估生成分布的有效覆盖。
+151842	CAFE: Causally-Guided Automated Feature Engineering with Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151842	included	用软因果结构先验约束特征搜索，而非硬删除候选。
+151831	CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models	https://neurips.cc/virtual/2026/poster/151831	included	给多房间场景按物体和房间两层建立信息路径。
+153516	CA-Judge: Teach Large Models to Judge Anomalies via Comparison for Video Anomaly Detection	https://neurips.cc/virtual/2026/poster/153516	included	用少数有信息量的参考比较代替绝对异常打分。
+139709	CalArena: A Large Scale Post-Hoc Calibration Benchmark	https://neurips.cc/virtual/2026/poster/139709	included	用恰当评分规则的改善度同时监测校准收益和预测质量。
+150100	Calibeating Prediction-Powered Inference	https://neurips.cc/virtual/2026/poster/150100	included	先用小标注集校准预测分数，再用全量协变量估计均值。
+148367	Calibrated Safe Policy Improvement for Continuous Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148367	included	用校准的一步模型误差证书限制连续域搜索。
+154444	Calibrated Target Noise Recovers Curvature from the Gradients	https://neurips.cc/virtual/2026/poster/154444	included	只有批梯度时用校准目标扰动估计曲率。
+149149	Calibrating Agentic LLMs for Clinical Prediction	https://neurips.cc/virtual/2026/poster/149149	included	临床预测 Agent 的验证同时检查风险概率校准和区分能力。
+148368	Calibrating Generative Models to Feature Distributions with MMD Finetuning	https://neurips.cc/virtual/2026/poster/148368	excluded	作者证据集中在敏感生物与分子生成应用，当前未提取有独立验证的安全通用条目。
+154784	Calibrating LLMs with Semantic-level Reward	https://neurips.cc/virtual/2026/poster/154784	included	通过答案语义一致性训练校准，减少置信度措辞影响。
+153839	Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention	https://neurips.cc/virtual/2026/poster/153839	included	固定模型，通过随机注意力生成集合预测。
+149357	Calibration Is Not Control: Intervention Advantage for LLM-Agent Oversight	https://neurips.cc/virtual/2026/poster/149357	included	从同一轨迹前缀比较继续和采取干预的预期效用。
+152525	Calibration without Ground Truth	https://neurips.cc/virtual/2026/poster/152525	included	检查主模型和参考模型是否相互可校准，再决定是否转移校准信息。
+150447	Calibration without labels in multiple testing	https://neurips.cc/virtual/2026/poster/150447	included	校准局部错误率时用伪标签代替真实标签
+155134	CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents	https://neurips.cc/virtual/2026/poster/155134	included	将可信规划与界面感知隔离
+150537	CAM: Question Answering on Entity-Centric Videos with Continuous Extraction and Adaptive Querying	https://neurips.cc/virtual/2026/poster/150537	included	将实体级长期摘要和按问题回查原始视频结合
+139573	Can 4D Foundation Models Remember?	https://neurips.cc/virtual/2026/poster/139573	included	用全景参考评估物体离开视野后的记忆
+139478	Can Agents Price a Reaction? Evaluating LLMs on Chemical Cost Reasoning	https://neurips.cc/virtual/2026/poster/139478	included	用冻结价格快照和阶段分数评估工具代理
+139077	Can AI Agents Synthesize Scientific Conclusions?	https://neurips.cc/virtual/2026/poster/139077	included	科学结论评估隔离答案泄漏并测事实级覆盖
+139058	Can an LLM Reason Like a Lawyer? Benchmarking the ability of LLMs to map the facts of a case to the elements of the applicable legal rule	https://neurips.cc/virtual/2026/poster/139058	included	对法律模型测试事实到规则要件的显式归因
+153783	Can Bits Seal Language?	https://neurips.cc/virtual/2026/poster/153783	included	把输入离散编码的隐私与效用一起比较
+155822	Can Circuit Alignment Predict OOD Generalization?	https://neurips.cc/virtual/2026/poster/155822	included	用计算路径对齐而非仅激活相似度估计跨域性能
+155124	Can Complementary Signals Bridge Similarity Islands?  Manifold-Augmented Graph Embedding for Multimodal Recommendation	https://neurips.cc/virtual/2026/poster/155124	included	显式区分互补关系与相似替代关系
+153174	CANDO: Cooperative Agentic Network for Layout Design Optimization	https://neurips.cc/virtual/2026/poster/153174	included	以场地约束验证器指导布局迭代
+154679	Can Entry-Wise Clipping Give Spectral Control of Stochastic Gradients?	https://neurips.cc/virtual/2026/poster/154679	included	梯度噪声重尾时试验逐元素平滑收缩
+139745	Can Folding Models Tell Binders from Bluffers? Evidence from POISK: The Patent-Derived Antibody Dataset	https://neurips.cc/virtual/2026/poster/139745	excluded	重点是抗体筛选与结合预测能力，保留底册记录。
+149399	Can Hybrid-Parallel Planning Support Alternating Model–Strategy Design? Dependency-Keyed Per-Layer Primitives for Re-Planning	https://neurips.cc/virtual/2026/poster/149399	included	并行策略重算时仅复用依赖签名一致的层级原语
+154284	Can Ideologues Agree on Quality? From Non-identifiable Latent Factors to Collective Outcomes	https://neurips.cc/virtual/2026/poster/154284	included	众包评分模型中明示何谓中立评价者
+151481	Can In-Context Learning Support Intrinsic Curiosity?	https://neurips.cc/virtual/2026/poster/151481	included	按任务是否有时间依赖决定用上下文预测误差近似学习进展
+153028	Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale	https://neurips.cc/virtual/2026/poster/153028	included	百万 token 检索单独诊断注意力归一化稀释
+149163	Can Large Language Models Develop Gambling Addiction?	https://neurips.cc/virtual/2026/poster/149163	included	分别测试下注自主权和目标自主权的风险
+155152	Can Linguistic Reasoning Vectors Enhance Multimodal Reasoning Ability?	https://neurips.cc/virtual/2026/poster/155152	included	从基础语言模型抽取推理方向辅助视觉语言模型
+139774	Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations	https://neurips.cc/virtual/2026/poster/139774	included	将地理工具代理的工具选择和参数定位分开评估
+150242	Can LLMs explain themselves truthfully with code?	https://neurips.cc/virtual/2026/poster/150242	included	用留出输入上的行为一致性验证自解释。
+153381	Can LLMs Reliably Grade Olympiad Proofs? A Controlled Study of Mathematical Verification with LLMs	https://neurips.cc/virtual/2026/poster/153381	included	将证明评分视为离散评分选择并报告序数一致性。
+148640	Can LLMs Take Retrieved Information with a Grain of Salt?	https://neurips.cc/virtual/2026/poster/148640	included	衡量模型在来源不确定时是否调整回答置信。
+152833	Can Metadata Fix the Gauge? Calibration Turns Sparse Multi-Source Learning from Sparse PCA into Sparse Mean Recovery	https://neurips.cc/virtual/2026/poster/152833	included	优先采集可验证的相对坐标信息，再合并来源。
+154543	Can Model Merging Improve Aggregation in DiLoCo?	https://neurips.cc/virtual/2026/poster/154543	included	局部训练间隔较长时对比合并式聚合和伪梯度平均。
+149797	Cannistraci-Hebb Channel-wise Dynamic Sparse Training of Convolutional Neural Networks with Contextual Modulation	https://neurips.cc/virtual/2026/poster/149797	included	按卷积通道构建拓扑并更新稀疏连接。
+154631	Canonical Predictive Quotients: A Theory of Prediction under Hidden Predictive State Uncertainty with ICL Implications	https://neurips.cc/virtual/2026/poster/154631	included	只恢复会改变当前最优预测的隐状态区别。
+154204	Canopy: Tree-Aware Rollout Scheduling for Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154204	included	把 rollout 树结构传给调度与 KV 缓存管理。
+154460	Can Pixels Alone Reveal Image Origin? Minimax Limits and Learnable Interfaces for Passive Provenance	https://neurips.cc/virtual/2026/poster/154460	included	分别验证来源统计可分性与接口暴露带来的风险。
+149781	Can the Parts Fool the Test? Counterfactual Pairing Cycles for Relational OOD	https://neurips.cc/virtual/2026/poster/149781	included	保持图和文字成分不变，仅更换配对测试关系绑定。
+148170	CanvasMAR: Improving Masked Autoregressive Video Prediction With Canvas	https://neurips.cc/virtual/2026/poster/148170	included	先提供全局未来帧粗预测，再逐区补细节。
+151128	CanViT: Toward Active-Vision Foundation Models	https://neurips.cc/virtual/2026/poster/151128	included	将局部感知骨干与可持续更新的场景记忆分离。
+139187	Can VLMs Reason When to Stop for Human Safety?	https://neurips.cc/virtual/2026/poster/139187	included	对同一任务构造应停止和可继续的配对场景。
+155638	Can We Model the Artifacts Explicitly? Disentangle Artifacts via Pairwise Edit Relations for Image Manipulation Localization	https://neurips.cc/virtual/2026/poster/155638	included	用同源编辑之间的关系监督潜在伪影表征。
+139287	Can We Trust Item Response Theory for AI Evaluation?	https://neurips.cc/virtual/2026/poster/139287	included	使用 IRT 前按模型数量和能力分布做仿真校准。
+148802	Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing	https://neurips.cc/virtual/2026/poster/148802	included	在求目标隐态时约束稀疏度，减少多次编辑干扰。
+151561	Capacity-Constrained Online Convex Optimization with Delayed Feedback	https://neurips.cc/virtual/2026/poster/151561	included	用随机调度和重要性权重管理有限反馈追踪预算。
+149623	CAPER: Clause-Aligned Process Supervision for Text-to-SQL	https://neurips.cc/virtual/2026/poster/149623	included	将 SQL 语义子句作为奖励和故障定位单元。
+149769	CAPO: A Primal-Dual Framework for Constraint-Aware Prompt Optimization	https://neurips.cc/virtual/2026/poster/149769	included	为工具使用和输出要求设显式阈值后优化系统提示。
+152572	Capricorn: Highly Efficient and Secure Mixture of Experts Inference Framework	https://neurips.cc/virtual/2026/poster/152572	included	分别优化安全 MoE 路由与激活的通信开销。
 138881	CapTrack: Multifaceted Evaluation of Forgetting in LLM Post-Training	https://neurips.cc/virtual/2026/poster/138881	pending	-
 149094	Capturing In-Context Learning Dynamics with Task Operators	https://neurips.cc/virtual/2026/poster/149094	pending	-
 148906	Capturing LLM Capabilities via Evidence-Calibrated Query Clustering	https://neurips.cc/virtual/2026/poster/148906	pending	-
