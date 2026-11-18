@@ -455,6 +455,8 @@
 - <a id="xie26o-reinforcement-learning"></a>[TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination](../conferences/icml-2026/cards/5101-5200.md#paper-xie26o)
 - <a id="xu26bn-reinforcement-learning"></a>[D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bn)
 - <a id="yang26s-reinforcement-learning"></a>[Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration](../conferences/icml-2026/cards/5301-5400.md#paper-yang26s)
+- <a id="yang26ay-reinforcement-learning"></a>[One-Way Policy Optimization for Self-Evolving LLMs](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ay)
+- <a id="yang26az-reinforcement-learning"></a>[Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals](../conferences/icml-2026/cards/5401-5500.md#paper-yang26az)
 
 <a id="by-training-strategies"></a>
 
@@ -606,6 +608,8 @@
 - <a id="xu26bp-training-strategies"></a>[LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bp)
 - <a id="yang26h-training-strategies"></a>[Concept Concentration for Faithful Representation Intervention](../conferences/icml-2026/cards/5301-5400.md#paper-yang26h)
 - <a id="yang26r-training-strategies"></a>[Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning](../conferences/icml-2026/cards/5301-5400.md#paper-yang26r)
+- <a id="yang26bb-training-strategies"></a>[Batched Contextual Reinforcement](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bb)
+- <a id="yang26bg-training-strategies"></a>[Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bg)
 
 <a id="by-data-strategies"></a>
 
@@ -1061,6 +1065,7 @@
 - <a id="tan26c-representation-learning"></a>[Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure](../conferences/icml-2026/cards/4301-4400.md#paper-tan26c)
 - <a id="wang26bh-representation-learning"></a>[Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bh)
 - <a id="wang26cm-representation-learning"></a>[The Truth Lies Somewhere in the Middle (of the Generated Tokens)](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cm)
+- <a id="yang26aw-representation-learning"></a>[Step-Level Sparse Autoencoder for Reasoning Process Interpretation](../conferences/icml-2026/cards/5301-5400.md#paper-yang26aw)
 
 <a id="by-evaluation"></a>
 

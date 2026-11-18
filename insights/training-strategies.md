@@ -159,6 +159,8 @@
 - [截断在线影响传播并校准残差噪声](../conferences/icml-2026/cards/5201-5300.md#xu26bp-training-strategies) · LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation
 - [先训练概念识别再做表示干预](../conferences/icml-2026/cards/5301-5400.md#yang26h-training-strategies) · Concept Concentration for Faithful Representation Intervention
 - [在折叠上下文环境中训练自摘要](../conferences/icml-2026/cards/5301-5400.md#yang26r-training-strategies) · Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning
+- [共享上下文预算训练多题推理](../conferences/icml-2026/cards/5401-5500.md#yang26bb-training-strategies) · Batched Contextual Reinforcement
+- [量化误差补偿时加入安全子空间约束](../conferences/icml-2026/cards/5401-5500.md#yang26bg-training-strategies) · Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation
 
 <a id="by-computer-vision"></a>
 

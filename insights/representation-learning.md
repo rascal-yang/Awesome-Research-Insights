@@ -30,6 +30,7 @@
 - [无需原语料的局部几何遗忘](../conferences/icml-2026/cards/4301-4400.md#tan26c-representation-learning) · Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure
 - [按激活主子空间初始化稀疏字典](../conferences/icml-2026/cards/4601-4700.md#wang26bh-representation-learning) · Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning
 - [生成轨迹池化的适用边界](../conferences/icml-2026/cards/4601-4700.md#wang26cm-representation-learning) · The Truth Lies Somewhere in the Middle (of the Generated Tokens)
+- [用上下文重建提取步骤增量特征](../conferences/icml-2026/cards/5301-5400.md#yang26aw-representation-learning) · Step-Level Sparse Autoencoder for Reasoning Process Interpretation
 
 <a id="by-computer-vision"></a>
 

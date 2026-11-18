@@ -178,6 +178,7 @@
 - [把长程规划中间状态设为并行变量](../conferences/icml-2026/cards/3601-3700.md#psenka26a-optimization) · Parallel Stochastic Gradient-Based Planning for World Models
 - [用模拟器裁决形态与奖励的多智能体辩论](../conferences/icml-2026/cards/3701-3800.md#qiu26c-optimization) · Debate2Create: Robot Co-design via Multi-Agent LLM Debate
 - [分支依赖平衡序列代理伴随](../conferences/icml-2026/cards/4401-4500.md#tong26j-optimization) · Neural Control: Adjoint Learning Through Equilibrium Constraints
+- [以任务分布几何学习自适应更新](../conferences/icml-2026/cards/5401-5500.md#yang26bh-optimization) · Wasserstein Geometry-Aware Adaptive Control via Meta-Learning
 
 <a id="by-multimodal"></a>
 
@@ -449,6 +450,7 @@
 - [条件最坏分布的输运与反应采样](../conferences/icml-2026/cards/5301-5400.md#xu26cr-optimization) · Gradient Flow Sampler-based Distributionally Robust Optimization
 - [单差分压缩的动量控制变量FL](../conferences/icml-2026/cards/5301-5400.md#yan26x-optimization) · Robust Federated Learning Against Adaptive Compression
 - [用近端平滑替代直接联邦对抗更新](../conferences/icml-2026/cards/5301-5400.md#yang26f-optimization) · Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability
+- [在强凸内层复用二阶超目标信息](../conferences/icml-2026/cards/5301-5400.md#yang26au-optimization) · Second-Order Bilevel Optimization with Accelerated Convergence Rates
 
 <a id="by-graph-and-recommendation"></a>
 

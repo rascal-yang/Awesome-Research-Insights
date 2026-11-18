@@ -159,6 +159,7 @@
 - [公共历史共享的结构策略梯度](../conferences/icml-2026/cards/4901-5000.md#wibault26a-architecture) · Recurrent Structural Policy Gradient for Partially Observable Mean Field Games
 - [重建残差逐层上送的世界模型](../conferences/icml-2026/cards/5201-5300.md#xu26ak-architecture) · Self-supervised Hierarchical Visual Reasoning with World Model
 - [局部后验监督联合想象先验](../conferences/icml-2026/cards/5301-5400.md#xue26e-architecture) · Learning Disentangled Multi-Agent World Model for Decentralized Control
+- [用多跳谓词状态驱动连续时间事件生成](../conferences/icml-2026/cards/5401-5500.md#yang26bi-architecture) · Forward-Chaining Temporal Point Process
 
 <a id="by-robotics"></a>
 

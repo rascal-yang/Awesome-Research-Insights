@@ -192,6 +192,8 @@
 - [用中间团队分布评估顺序更新](../conferences/icml-2026/cards/5101-5200.md#xie26o-reinforcement-learning) · TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination
 - [熵项替代退化组优势](../conferences/icml-2026/cards/5201-5300.md#xu26bn-reinforcement-learning) · D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use
 - [用难度补采样而非统一扩rollout](../conferences/icml-2026/cards/5301-5400.md#yang26s-reinforcement-learning) · Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration
+- [让参考策略仅调节优势更新幅度](../conferences/icml-2026/cards/5401-5500.md#yang26ay-reinforcement-learning) · One-Way Policy Optimization for Self-Evolving LLMs
+- [随机救回clip边界外的小部分更新](../conferences/icml-2026/cards/5401-5500.md#yang26az-reinforcement-learning) · Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals
 
 <a id="by-computer-vision"></a>
 

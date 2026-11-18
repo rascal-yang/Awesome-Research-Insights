@@ -114,6 +114,8 @@
 - [对语义配对真假样本限制过分分离](../conferences/icml-2026/cards/5201-5300.md#xu26s-loss-functions) · BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning
 - [有符号优势加权的匹配后训练](../conferences/icml-2026/cards/5301-5400.md#xue26c-loss-functions) · Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models
 - [SIM2频谱运动残差正则](../conferences/icml-2026/cards/5301-5400.md#xue26d-loss-functions) · Physics-Guided Motion Loss for Video Generation Model
+- [用稀疏概念索引监督图像tokenizer](../conferences/icml-2026/cards/5301-5400.md#yang26as-loss-functions) · Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation
+- [抑制类固有特征以校准异常检测统计](../conferences/icml-2026/cards/5401-5500.md#yang26bc-loss-functions) · Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization
 
 <a id="by-nlp"></a>
 
@@ -163,6 +165,7 @@
 - [Temporal Straightening for Latent Planning](../conferences/icml-2026/cards/4501-4600.md#wang26n-loss-functions) · Temporal Straightening for Latent Planning
 - [morphology-routing-diversity](../conferences/icml-2026/cards/4601-4700.md#wang26dk-loss-functions) · ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots
 - [counterfactual-affordance-cones](../conferences/icml-2026/cards/4701-4800.md#wang26dy-loss-functions) · Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding
+- [分开约束可见交集和遮挡缺失区](../conferences/icml-2026/cards/5301-5400.md#yang26ax-loss-functions) · Counterfactual Occlusion-Aware Learning via Visibility Intervention for LiDAR Anomaly Detection
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[用目标区域重建做辅助监督](../papers/reconvla.md#reconvla-loss-functions) · ReconVLA
 
 <a id="by-multimodal"></a>

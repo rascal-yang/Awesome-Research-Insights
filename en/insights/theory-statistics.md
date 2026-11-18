@@ -198,6 +198,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](../../conferences/icml-2026/cards/0801-0900.md#delattre26a-theory-statistics) · 中文
 - [Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling](../../conferences/icml-2026/cards/3101-3200.md#madaan26a-theory-statistics) · 中文
 - [Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing](../../conferences/icml-2026/cards/3701-3800.md#qi26i-theory-statistics) · 中文
+- [Semantic Robustness Certification for Vision-Language Models](../../conferences/icml-2026/cards/5401-5500.md#yang26bd-theory-statistics) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -619,6 +620,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis](../../conferences/icml-2026/cards/5301-5400.md#yanagisawa26a-theory-statistics) · 中文
 - [Preconditioning Neural Tangent Kernel for Adaptive Optimization](../../conferences/icml-2026/cards/5301-5400.md#yang26b-theory-statistics) · 中文
 - [Length Generalization Bounds for Transformers](../../conferences/icml-2026/cards/5301-5400.md#yang26c-theory-statistics) · 中文
+- [One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data](../../conferences/icml-2026/cards/5401-5500.md#yang26bf-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

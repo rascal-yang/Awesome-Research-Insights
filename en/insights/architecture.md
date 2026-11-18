@@ -159,6 +159,7 @@ Model-wide design and information flow.
 - [Recurrent Structural Policy Gradient for Partially Observable Mean Field Games](../../conferences/icml-2026/cards/4901-5000.md#wibault26a-architecture) · 中文
 - [Self-supervised Hierarchical Visual Reasoning with World Model](../../conferences/icml-2026/cards/5201-5300.md#xu26ak-architecture) · 中文
 - [Learning Disentangled Multi-Agent World Model for Decentralized Control](../../conferences/icml-2026/cards/5301-5400.md#xue26e-architecture) · 中文
+- [Forward-Chaining Temporal Point Process](../../conferences/icml-2026/cards/5401-5500.md#yang26bi-architecture) · 中文
 
 <a id="by-robotics"></a>
 

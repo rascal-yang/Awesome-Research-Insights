@@ -198,6 +198,7 @@
 - [离散与连续扰动的联合认证](../conferences/icml-2026/cards/0801-0900.md#delattre26a-theory-statistics) · Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing
 - [缺失模态预测影响](../conferences/icml-2026/cards/3101-3200.md#madaan26a-theory-statistics) · Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling
 - [按层平坦度分配水印认证噪声](../conferences/icml-2026/cards/3701-3800.md#qi26i-theory-statistics) · Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing
+- [沿指定语义嵌入圆弧解析认证](../conferences/icml-2026/cards/5401-5500.md#yang26bd-theory-statistics) · Semantic Robustness Certification for Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -619,6 +620,7 @@
 - [区间概率诚实性与潜时间校准分离](../conferences/icml-2026/cards/5301-5400.md#yanagisawa26a-theory-statistics) · A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis
 - [按优化器改造局部切线相似度](../conferences/icml-2026/cards/5301-5400.md#yang26b-theory-statistics) · Preconditioning Neural Tangent Kernel for Adaptive Optimization
 - [按精度与语法限制长度证书](../conferences/icml-2026/cards/5301-5400.md#yang26c-theory-statistics) · Length Generalization Bounds for Transformers
+- [按局部缺失特征映射作一轮分位回归聚合](../conferences/icml-2026/cards/5401-5500.md#yang26bf-theory-statistics) · One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data
 
 <a id="by-graph-and-recommendation"></a>
 

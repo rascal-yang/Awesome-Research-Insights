@@ -559,4 +559,5 @@
 - <a id="delattre26a-theory-statistics"></a>[Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing](../conferences/icml-2026/cards/0801-0900.md#paper-delattre26a)
 - <a id="madaan26a-theory-statistics"></a>[Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling](../conferences/icml-2026/cards/3101-3200.md#paper-madaan26a)
 - <a id="qi26i-theory-statistics"></a>[Cert-LAS: Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing](../conferences/icml-2026/cards/3701-3800.md#paper-qi26i)
+- <a id="yang26bd-theory-statistics"></a>[Semantic Robustness Certification for Vision-Language Models](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bd)
 <!-- classification:end -->

@@ -459,6 +459,7 @@
 - <a id="xu26cr-optimization"></a>[Gradient Flow Sampler-based Distributionally Robust Optimization](../conferences/icml-2026/cards/5301-5400.md#paper-xu26cr)
 - <a id="yan26x-optimization"></a>[Robust Federated Learning Against Adaptive Compression](../conferences/icml-2026/cards/5301-5400.md#paper-yan26x)
 - <a id="yang26f-optimization"></a>[Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability](../conferences/icml-2026/cards/5301-5400.md#paper-yang26f)
+- <a id="yang26au-optimization"></a>[Second-Order Bilevel Optimization with Accelerated Convergence Rates](../conferences/icml-2026/cards/5301-5400.md#paper-yang26au)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1215,4 +1216,5 @@
 - <a id="yanagisawa26a-theory-statistics"></a>[A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis](../conferences/icml-2026/cards/5301-5400.md#paper-yanagisawa26a)
 - <a id="yang26b-theory-statistics"></a>[Preconditioning Neural Tangent Kernel for Adaptive Optimization](../conferences/icml-2026/cards/5301-5400.md#paper-yang26b)
 - <a id="yang26c-theory-statistics"></a>[Length Generalization Bounds for Transformers](../conferences/icml-2026/cards/5301-5400.md#paper-yang26c)
+- <a id="yang26bf-theory-statistics"></a>[One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bf)
 <!-- classification:end -->

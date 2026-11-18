@@ -192,6 +192,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination](../../conferences/icml-2026/cards/5101-5200.md#xie26o-reinforcement-learning) · 中文
 - [D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use](../../conferences/icml-2026/cards/5201-5300.md#xu26bn-reinforcement-learning) · 中文
 - [Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration](../../conferences/icml-2026/cards/5301-5400.md#yang26s-reinforcement-learning) · 中文
+- [One-Way Policy Optimization for Self-Evolving LLMs](../../conferences/icml-2026/cards/5401-5500.md#yang26ay-reinforcement-learning) · 中文
+- [Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals](../../conferences/icml-2026/cards/5401-5500.md#yang26az-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

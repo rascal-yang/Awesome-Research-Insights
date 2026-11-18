@@ -178,6 +178,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Parallel Stochastic Gradient-Based Planning for World Models](../../conferences/icml-2026/cards/3601-3700.md#psenka26a-optimization) · 中文
 - [Debate2Create: Robot Co-design via Multi-Agent LLM Debate](../../conferences/icml-2026/cards/3701-3800.md#qiu26c-optimization) · 中文
 - [Neural Control: Adjoint Learning Through Equilibrium Constraints](../../conferences/icml-2026/cards/4401-4500.md#tong26j-optimization) · 中文
+- [Wasserstein Geometry-Aware Adaptive Control via Meta-Learning](../../conferences/icml-2026/cards/5401-5500.md#yang26bh-optimization) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -449,6 +450,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Gradient Flow Sampler-based Distributionally Robust Optimization](../../conferences/icml-2026/cards/5301-5400.md#xu26cr-optimization) · 中文
 - [Robust Federated Learning Against Adaptive Compression](../../conferences/icml-2026/cards/5301-5400.md#yan26x-optimization) · 中文
 - [Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability](../../conferences/icml-2026/cards/5301-5400.md#yang26f-optimization) · 中文
+- [Second-Order Bilevel Optimization with Accelerated Convergence Rates](../../conferences/icml-2026/cards/5301-5400.md#yang26au-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

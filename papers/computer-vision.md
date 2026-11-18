@@ -185,6 +185,8 @@
 - <a id="xu26s-loss-functions"></a>[BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26s)
 - <a id="xue26c-loss-functions"></a>[Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models](../conferences/icml-2026/cards/5301-5400.md#paper-xue26c)
 - <a id="xue26d-loss-functions"></a>[Physics-Guided Motion Loss for Video Generation Model](../conferences/icml-2026/cards/5301-5400.md#paper-xue26d)
+- <a id="yang26as-loss-functions"></a>[Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation](../conferences/icml-2026/cards/5301-5400.md#paper-yang26as)
+- <a id="yang26bc-loss-functions"></a>[Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bc)
 
 <a id="by-optimization"></a>
 

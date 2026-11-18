@@ -114,6 +114,8 @@ Objectives, auxiliary supervision, and regularization.
 - [BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26s-loss-functions) · 中文
 - [Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#xue26c-loss-functions) · 中文
 - [Physics-Guided Motion Loss for Video Generation Model](../../conferences/icml-2026/cards/5301-5400.md#xue26d-loss-functions) · 中文
+- [Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation](../../conferences/icml-2026/cards/5301-5400.md#yang26as-loss-functions) · 中文
+- [Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization](../../conferences/icml-2026/cards/5401-5500.md#yang26bc-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -163,6 +165,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Temporal Straightening for Latent Planning](../../conferences/icml-2026/cards/4501-4600.md#wang26n-loss-functions) · 中文
 - [ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots](../../conferences/icml-2026/cards/4601-4700.md#wang26dk-loss-functions) · 中文
 - [Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding](../../conferences/icml-2026/cards/4701-4800.md#wang26dy-loss-functions) · 中文
+- [Counterfactual Occlusion-Aware Learning via Visibility Intervention for LiDAR Anomaly Detection](../../conferences/icml-2026/cards/5301-5400.md#yang26ax-loss-functions) · 中文
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[ReconVLA](../../papers/reconvla.md#reconvla-loss-functions) · 中文
 
 <a id="by-multimodal"></a>

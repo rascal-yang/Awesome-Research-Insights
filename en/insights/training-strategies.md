@@ -159,6 +159,8 @@ Training schedules, curricula, and task or stage composition.
 - [LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](../../conferences/icml-2026/cards/5201-5300.md#xu26bp-training-strategies) · 中文
 - [Concept Concentration for Faithful Representation Intervention](../../conferences/icml-2026/cards/5301-5400.md#yang26h-training-strategies) · 中文
 - [Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning](../../conferences/icml-2026/cards/5301-5400.md#yang26r-training-strategies) · 中文
+- [Batched Contextual Reinforcement](../../conferences/icml-2026/cards/5401-5500.md#yang26bb-training-strategies) · 中文
+- [Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation](../../conferences/icml-2026/cards/5401-5500.md#yang26bg-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

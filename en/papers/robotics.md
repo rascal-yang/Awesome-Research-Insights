@@ -70,6 +70,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="wang26n-loss-functions"></a>[Temporal Straightening for Latent Planning](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26n)
 - <a id="wang26dk-loss-functions"></a>[ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dk)
 - <a id="wang26dy-loss-functions"></a>[Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dy)
+- <a id="yang26ax-loss-functions"></a>[Counterfactual Occlusion-Aware Learning via Visibility Intervention for LiDAR Anomaly Detection](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ax)
 - <a id="reconvla-loss-functions"></a><a id="reconvla-modules"></a>[ReconVLA](../../papers/reconvla.md#paper-reconvla)
 
 <a id="by-optimization"></a>
@@ -82,6 +83,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="psenka26a-optimization"></a>[Parallel Stochastic Gradient-Based Planning for World Models](../../conferences/icml-2026/cards/3601-3700.md#paper-psenka26a)
 - <a id="qiu26c-optimization"></a>[Debate2Create: Robot Co-design via Multi-Agent LLM Debate](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26c)
 - <a id="tong26j-optimization"></a>[Neural Control: Adjoint Learning Through Equilibrium Constraints](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26j)
+- <a id="yang26bh-optimization"></a>[Wasserstein Geometry-Aware Adaptive Control via Meta-Learning](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bh)
 
 <a id="by-reinforcement-learning"></a>
 
