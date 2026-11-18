@@ -1960,5 +1960,13 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Learning the Signature of Memorization in Autoregressive Language Models](../../conferences/neurips-2026/cards-0007.md#paper-148889)
 - [Learning through Internalization](../../conferences/neurips-2026/cards-0007.md#paper-150503)
 - [Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration](../../conferences/neurips-2026/cards-0007.md#paper-148711)
+- [Learning to Commit: Next-Commit Prediction via Online Supervised Contrastive Reflection](../../conferences/neurips-2026/cards-0007.md#paper-150227)
+- [Learning to Follow In-Context Watermark Instructions via Self-Distillation](../../conferences/neurips-2026/cards-0007.md#paper-150382)
+- [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](../../conferences/neurips-2026/cards-0007.md#paper-154435)
+- [Learning to Read Out: Unembedding Dynamics in Language Model Pretraining](../../conferences/neurips-2026/cards-0007.md#paper-154168)
+- [Learning to Surpass: Training Tool-Using Agents with Anchored Feedback](../../conferences/neurips-2026/cards-0007.md#paper-150337)
+- [Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance](../../conferences/neurips-2026/cards-0007.md#paper-152546)
+- [Learning What to Remember: Test-Time Training via Context Distillation](../../conferences/neurips-2026/cards-0007.md#paper-153696)
+- [Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment](../../conferences/neurips-2026/cards-0007.md#paper-153014)
 
 <!-- conference-classification:end -->

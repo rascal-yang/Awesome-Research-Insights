@@ -306,5 +306,7 @@ Graph models, knowledge graphs, and recommender systems.
 - [Large-Scale Pretraining unlocks Few-Shot Prediction for Relational Data](../../conferences/neurips-2026/cards-0007.md#paper-149169)
 - [Learnable Diffusion-based Positional Encodings for Link Prediction](../../conferences/neurips-2026/cards-0007.md#paper-152946)
 - [Learning Global Temporal Dynamics in Sparse Networks via Cycle Counts](../../conferences/neurips-2026/cards-0007.md#paper-149950)
+- [Learning to Search, Searching to Learn: A Closed-Loop Framework for Large-Scale Vehicle Routing](../../conferences/neurips-2026/cards-0007.md#paper-150054)
+- [Learning Transferable Representations from Operating System Entities via Provenance Graph Distillation](../../conferences/neurips-2026/cards-0007.md#paper-151915)
 
 <!-- conference-classification:end -->

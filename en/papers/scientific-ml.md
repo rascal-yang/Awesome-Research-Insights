@@ -539,5 +539,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Learning Reusable Motor Motifs for Continuous Animal Behavior Modeling](../../conferences/neurips-2026/cards-0007.md#paper-152170)
 - [Learning Sparse Semantic-Cortical Atoms for Multisubject Naturalistic fMRI Encoding](../../conferences/neurips-2026/cards-0007.md#paper-151712)
 - [Learning the Committor Function using Weighted Ensemble Simulations](../../conferences/neurips-2026/cards-0007.md#paper-152881)
+- [Learning Transferable Cross-Day Representations for Few-Shot Neural Decoding](../../conferences/neurips-2026/cards-0007.md#paper-149445)
+- [Learning What's Real: Disentangling Signals and Measurement Artifacts in Multi-Sensor Data, with Applications to Astrophysics](../../conferences/neurips-2026/cards-0007.md#paper-154825)
+- [Learning When Visual Context Matters for Mouse Behavior Analysis](../../conferences/neurips-2026/cards-0007.md#paper-151213)
 
 <!-- conference-classification:end -->

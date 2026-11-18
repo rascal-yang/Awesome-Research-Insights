@@ -904,5 +904,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems](../../conferences/neurips-2026/cards-0007.md#paper-149636)
 - [Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction](../../conferences/neurips-2026/cards-0007.md#paper-152697)
 - [Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval](../../conferences/neurips-2026/cards-0007.md#paper-150225)
+- [Learning to Correct Geometry in Generated Videos](../../conferences/neurips-2026/cards-0007.md#paper-154269)
+- [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](../../conferences/neurips-2026/cards-0007.md#paper-150258)
+- [Learning to Generate Multiple Objects from Dense and Occluded Layouts](../../conferences/neurips-2026/cards-0007.md#paper-153553)
+- [Learning-to-Memorize: Dynamic Context Management for Long-Horizon Autoregressive Video Generation](../../conferences/neurips-2026/cards-0007.md#paper-154562)
+- [Learning to Sample From Diffusion Models via Inverse Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-154984)
+- [Learning to Solve Generative ODEs Beyond the Linear Span](../../conferences/neurips-2026/cards-0007.md#paper-155573)
+- [Learning When to Denoise: Optimizing Asynchronous Schedules for Latent Diffusion](../../conferences/neurips-2026/cards-0007.md#paper-149435)
 
 <!-- conference-classification:end -->

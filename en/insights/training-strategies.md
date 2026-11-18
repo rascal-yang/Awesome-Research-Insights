@@ -691,5 +691,17 @@ Training schedules, curricula, and task or stage composition.
 - [Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction](../../conferences/neurips-2026/cards-0007.md#paper-152697)
 - [Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models](../../conferences/neurips-2026/cards-0007.md#paper-150616)
 - [Learning through Internalization](../../conferences/neurips-2026/cards-0007.md#paper-150503)
+- [Learning to Commit: Next-Commit Prediction via Online Supervised Contrastive Reflection](../../conferences/neurips-2026/cards-0007.md#paper-150227)
+- [Learning to Follow In-Context Watermark Instructions via Self-Distillation](../../conferences/neurips-2026/cards-0007.md#paper-150382)
+- [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](../../conferences/neurips-2026/cards-0007.md#paper-154435)
+- [Learning-to-Memorize: Dynamic Context Management for Long-Horizon Autoregressive Video Generation](../../conferences/neurips-2026/cards-0007.md#paper-154562)
+- [Learning Transferable Cross-Day Representations for Few-Shot Neural Decoding](../../conferences/neurips-2026/cards-0007.md#paper-149445)
+- [Learning Transferable Representations from Operating System Entities via Provenance Graph Distillation](../../conferences/neurips-2026/cards-0007.md#paper-151915)
+- [Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance](../../conferences/neurips-2026/cards-0007.md#paper-152546)
+- [Learning What to Predict: Downstream-Guided Task Design for Continued Pretraining](../../conferences/neurips-2026/cards-0007.md#paper-149814)
+- [Learning What to Remember: Test-Time Training via Context Distillation](../../conferences/neurips-2026/cards-0007.md#paper-153696)
+- [Learning When to Denoise: Optimizing Asynchronous Schedules for Latent Diffusion](../../conferences/neurips-2026/cards-0007.md#paper-149435)
+- [Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-149100)
+- [Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration](../../conferences/neurips-2026/cards-0007.md#paper-149394)
 
 <!-- conference-classification:end -->

@@ -2152,5 +2152,18 @@
 - [Learning Survival Models with Right-Censored Reporting Delays](../conferences/neurips-2026/cards-0007.md#paper-152038)
 - [Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models](../conferences/neurips-2026/cards-0007.md#paper-150616)
 - [Learning Theory of Transformers: Local-to-Global Approximation via Softmax Partition of Unity](../conferences/neurips-2026/cards-0007.md#paper-152703)
+- [Learning to Audit ML Models with Theory of Mind](../conferences/neurips-2026/cards-0007.md#paper-155783)
+- [Learning to Bid in Repeated Second-Price Auctions with  Dynamic Values and  Aggregated Feedback](../conferences/neurips-2026/cards-0007.md#paper-149706)
+- [Learning to Complete Extremal Mathematical Structures](../conferences/neurips-2026/cards-0007.md#paper-155731)
+- [Learning to Cut: Reinforcement Learning for Benders Decomposition](../conferences/neurips-2026/cards-0007.md#paper-151771)
+- [Learning to Deaggregate: Large-scale Trajectory Generation with Spatial Priors](../conferences/neurips-2026/cards-0007.md#paper-152772)
+- [Learning to Decide with AI Assistance under Human-Alignment](../conferences/neurips-2026/cards-0007.md#paper-152462)
+- [Learning to Discover Iterative Spectral Algorithms](../conferences/neurips-2026/cards-0007.md#paper-148403)
+- [Learning Unbiased Permutations via Flow Matching](../conferences/neurips-2026/cards-0007.md#paper-155726)
+- [Learning under Localized Minority Imbalance](../conferences/neurips-2026/cards-0007.md#paper-148554)
+- [Learning What Evaluators Value: A Reliable Approach to Modeling Evaluator Preferences](../conferences/neurips-2026/cards-0007.md#paper-154896)
+- [Learning What Not to Impute: An Uncertainty-Aware Diffusion Framework for Meaningful Missingness](../conferences/neurips-2026/cards-0007.md#paper-154580)
+- [Learning What to Predict: Downstream-Guided Task Design for Continued Pretraining](../conferences/neurips-2026/cards-0007.md#paper-149814)
+- [Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration](../conferences/neurips-2026/cards-0007.md#paper-149394)
 
 <!-- conference-classification:end -->

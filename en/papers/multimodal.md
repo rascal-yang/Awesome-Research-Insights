@@ -710,5 +710,11 @@ Learning across modalities such as images, text, audio, and video.
 - [LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?](../../conferences/neurips-2026/cards-0007.md#paper-148232)
 - [Learning a Task-Adaptive Low-Dimensional Semantic Space for Improved Visual Classification](../../conferences/neurips-2026/cards-0007.md#paper-151661)
 - [Learning Semantic Consistency for Open-Vocabulary Dense Perception](../../conferences/neurips-2026/cards-0007.md#paper-149492)
+- [Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs](../../conferences/neurips-2026/cards-0007.md#paper-150990)
+- [Learning to Group and Order: Cross-Instance Self-Supervised RL for Vision-Centric MLLMs](../../conferences/neurips-2026/cards-0007.md#paper-153627)
+- [Learning to See Through Language: An Exploration of Language Modeling's Effect on Visual Representations](../../conferences/neurips-2026/cards-0007.md#paper-152283)
+- [Learning Visual Speech Representations via Cross-Modal Distillation and Joint Face-Lip Modeling](../../conferences/neurips-2026/cards-0007.md#paper-149522)
+- [Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-149100)
+- [Learning Where to Look: Observation Policy Optimization for Thinking with Images](../../conferences/neurips-2026/cards-0007.md#paper-150969)
 
 <!-- conference-classification:end -->

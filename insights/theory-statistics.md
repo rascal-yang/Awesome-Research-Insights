@@ -919,5 +919,8 @@
 - [Learning Sparse Compositional Functions with Norm-Constrained Neural Networks](../conferences/neurips-2026/cards-0007.md#paper-155615)
 - [Learning Survival Models with Right-Censored Reporting Delays](../conferences/neurips-2026/cards-0007.md#paper-152038)
 - [Learning Theory of Transformers: Local-to-Global Approximation via Softmax Partition of Unity](../conferences/neurips-2026/cards-0007.md#paper-152703)
+- [Learning to Decide with AI Assistance under Human-Alignment](../conferences/neurips-2026/cards-0007.md#paper-152462)
+- [Learning Weakly Communicating Average-Reward CMDPs: Strong Duality and Improved Regret](../conferences/neurips-2026/cards-0007.md#paper-151237)
+- [Learning What Evaluators Value: A Reliable Approach to Modeling Evaluator Preferences](../conferences/neurips-2026/cards-0007.md#paper-154896)
 
 <!-- conference-classification:end -->

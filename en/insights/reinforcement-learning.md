@@ -558,5 +558,11 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning From Failures: Efficient Reinforcement Learning Control with Episodic Memory](../../conferences/neurips-2026/cards-0007.md#paper-154904)
 - [Learning in Context, Guided by Choice: A Reward-Free Paradigm for Reinforcement Learning with Transformers](../../conferences/neurips-2026/cards-0007.md#paper-152897)
 - [Learning Process Rewards via Visitation Matching for Efficient RL](../../conferences/neurips-2026/cards-0007.md#paper-150545)
+- [Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards](../../conferences/neurips-2026/cards-0007.md#paper-154785)
+- [Learning to Group and Order: Cross-Instance Self-Supervised RL for Vision-Centric MLLMs](../../conferences/neurips-2026/cards-0007.md#paper-153627)
+- [Learning to Surpass: Training Tool-Using Agents with Anchored Feedback](../../conferences/neurips-2026/cards-0007.md#paper-150337)
+- [Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shift](../../conferences/neurips-2026/cards-0007.md#paper-155084)
+- [Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment](../../conferences/neurips-2026/cards-0007.md#paper-153014)
+- [Learning Where to Look: Observation Policy Optimization for Thinking with Images](../../conferences/neurips-2026/cards-0007.md#paper-150969)
 
 <!-- conference-classification:end -->

@@ -576,5 +576,10 @@
 - [Learning POMDP World Models from Observations with Language-Model Priors](../conferences/neurips-2026/cards-0007.md#paper-155829)
 - [Learning Process Rewards via Visitation Matching for Efficient RL](../conferences/neurips-2026/cards-0007.md#paper-150545)
 - [Learning Reusable Options by Decomposing Neural Policies](../conferences/neurips-2026/cards-0007.md#paper-151089)
+- [Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards](../conferences/neurips-2026/cards-0007.md#paper-154785)
+- [Learning to Undo: Transfer Reinforcement Learning under State Space Transformations](../conferences/neurips-2026/cards-0007.md#paper-149546)
+- [Learning Weakly Communicating Average-Reward CMDPs: Strong Duality and Improved Regret](../conferences/neurips-2026/cards-0007.md#paper-151237)
+- [Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shift](../conferences/neurips-2026/cards-0007.md#paper-155084)
+- [Learning When to Think: Adaptive Internal Computation for Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-153029)
 
 <!-- conference-classification:end -->

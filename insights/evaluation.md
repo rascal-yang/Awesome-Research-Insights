@@ -1314,5 +1314,8 @@
 - [Learning interpretable Schur forms of recurrent weight matrices](../conferences/neurips-2026/cards-0007.md#paper-155071)
 - [Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning](../conferences/neurips-2026/cards-0007.md#paper-148585)
 - [Learning the Signature of Memorization in Autoregressive Language Models](../conferences/neurips-2026/cards-0007.md#paper-148889)
+- [Learning to Audit ML Models with Theory of Mind](../conferences/neurips-2026/cards-0007.md#paper-155783)
+- [Learning to Read Out: Unembedding Dynamics in Language Model Pretraining](../conferences/neurips-2026/cards-0007.md#paper-154168)
+- [Learning to See Through Language: An Exploration of Language Modeling's Effect on Visual Representations](../conferences/neurips-2026/cards-0007.md#paper-152283)
 
 <!-- conference-classification:end -->

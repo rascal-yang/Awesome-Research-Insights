@@ -396,5 +396,8 @@
 - [Learning Menu-Based Mechanisms for Truthful Budget-Feasible Procurement](../conferences/neurips-2026/cards-0007.md#paper-155310)
 - [Learning Options for Compositional Motor Control with Adapter Banks](../conferences/neurips-2026/cards-0007.md#paper-149390)
 - [Learning POMDP World Models from Observations with Language-Model Priors](../conferences/neurips-2026/cards-0007.md#paper-155829)
+- [Learning to Deaggregate: Large-scale Trajectory Generation with Spatial Priors](../conferences/neurips-2026/cards-0007.md#paper-152772)
+- [Learning Visual Feature-Based World Models via Residual Latent Action](../conferences/neurips-2026/cards-0007.md#paper-148146)
+- [Learning When to Think: Adaptive Internal Computation for Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-153029)
 
 <!-- conference-classification:end -->

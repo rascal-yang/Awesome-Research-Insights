@@ -503,5 +503,10 @@
 - [Learning Sparse Semantic-Cortical Atoms for Multisubject Naturalistic fMRI Encoding](../conferences/neurips-2026/cards-0007.md#paper-151712)
 - [Learning Task-Centric World Models from Visual Foundations](../conferences/neurips-2026/cards-0007.md#paper-149351)
 - [Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval](../conferences/neurips-2026/cards-0007.md#paper-150225)
+- [Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs](../conferences/neurips-2026/cards-0007.md#paper-150990)
+- [Learning to Undo: Transfer Reinforcement Learning under State Space Transformations](../conferences/neurips-2026/cards-0007.md#paper-149546)
+- [Learning Visual Speech Representations via Cross-Modal Distillation and Joint Face-Lip Modeling](../conferences/neurips-2026/cards-0007.md#paper-149522)
+- [Learning What Not to Impute: An Uncertainty-Aware Diffusion Framework for Meaningful Missingness](../conferences/neurips-2026/cards-0007.md#paper-154580)
+- [Learning What's Real: Disentangling Signals and Measurement Artifacts in Multi-Sensor Data, with Applications to Astrophysics](../conferences/neurips-2026/cards-0007.md#paper-154825)
 
 <!-- conference-classification:end -->

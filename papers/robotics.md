@@ -725,5 +725,6 @@
 - [Learning Joint Semantic-Geometric Uncertainty for Structured Prediction with Closed-Loop Calibration](../conferences/neurips-2026/cards-0007.md#paper-149933)
 - [Learning Options for Compositional Motor Control with Adapter Banks](../conferences/neurips-2026/cards-0007.md#paper-149390)
 - [Learning Task-Centric World Models from Visual Foundations](../conferences/neurips-2026/cards-0007.md#paper-149351)
+- [Learning Visual Feature-Based World Models via Residual Latent Action](../conferences/neurips-2026/cards-0007.md#paper-148146)
 
 <!-- conference-classification:end -->

@@ -435,3 +435,48 @@
 | 大语言模型 | 训练策略 | [Learning through Internalization](cards-0007.md#paper-150503) | 外显步骤蒸馏进权重时同时监控域外泛化。 |
 | 计算机视觉 | 表征学习 | [Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval](cards-0007.md#paper-150225) | 细粒度检索用可逆外观先验保留类内变化。 |
 | 大语言模型 | 推理策略 | [Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration](cards-0007.md#paper-148711) | 端云协同时把询问时机和最少披露内容作为可学决定。 |
+| 机器学习基础与统计 | 评测与诊断 | [Learning to Audit ML Models with Theory of Mind](cards-0007.md#paper-155783) | 模型审计按已发现的错误动态选择下一测试。 |
+| 机器学习基础与统计 | 优化 | [Learning to Bid in Repeated Second-Price Auctions with  Dynamic Values and  Aggregated Feedback](cards-0007.md#paper-149706) | 投标价值受历史影响时联合估计环境与长期机会成本。 |
+| 大语言模型 | 训练策略 | [Learning to Commit: Next-Commit Prediction via Online Supervised Contrastive Reflection](cards-0007.md#paper-150227) | 仓库级代理用历史提交的真实差异做对比反思。 |
+| 机器学习基础与统计 | 优化 | [Learning to Complete Extremal Mathematical Structures](cards-0007.md#paper-155731) | 极值组合搜索保留已有可行核心，仅修补不确定部件。 |
+| 计算机视觉 | 数据策略 | [Learning to Correct Geometry in Generated Videos](cards-0007.md#paper-154269) | 用同一视频的几何正确版本与合成畸变训练后置校正。 |
+| 机器学习基础与统计 | 优化 | [Learning to Cut: Reinforcement Learning for Benders Decomposition](cards-0007.md#paper-151771) | Benders 分解按当前状态学习选择割，而非收集所有割。 |
+| 机器学习基础与统计 | 模型架构 | [Learning to Deaggregate: Large-scale Trajectory Generation with Spatial Priors](cards-0007.md#paper-152772) | 跨区轨迹生成将地点分布与时序移动规律解耦。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning to Decide with AI Assistance under Human-Alignment](cards-0007.md#paper-152462) | 用人机置信的相对关系决定何时信任辅助。 |
+| 机器学习基础与统计 | 优化 | [Learning to Discover Iterative Spectral Algorithms](cards-0007.md#paper-148403) | 迭代矩阵算法根据输入粗谱选择短递推系数。 |
+| 计算机视觉 | 损失函数 | [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](cards-0007.md#paper-150258) | 混域深度学习将场景结构从语境表征中单列。 |
+| 多模态学习 | 表征学习 | [Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs](cards-0007.md#paper-150990) | 用动作条件图编辑预测活动如何改变环境。 |
+| 强化学习 | 强化学习方法 | [Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards](cards-0007.md#paper-154785) | 探索同一轨迹保持参数扰动一致，再校正偏策略。 |
+| 大语言模型 | 训练策略 | [Learning to Follow In-Context Watermark Instructions via Self-Distillation](cards-0007.md#paper-150382) | 可验证水印指令用受控同模型教师播种能力。 |
+| 大语言模型 | 训练策略 | [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](cards-0007.md#paper-154435) | 蒸馏早期方向稳定时沿更新方向外推。 |
+| 计算机视觉 | 损失函数 | [Learning to Generate Multiple Objects from Dense and Occluded Layouts](cards-0007.md#paper-153553) | 拥挤生成同时减少实例混注意并提高遮挡对象权重。 |
+| 多模态学习 | 强化学习方法 | [Learning to Group and Order: Cross-Instance Self-Supervised RL for Vision-Centric MLLMs](cards-0007.md#paper-153627) | 自监督视觉奖励同时要求跨样本分组和样本内排序。 |
+| 计算机视觉 | 训练策略 | [Learning-to-Memorize: Dynamic Context Management for Long-Horizon Autoregressive Video Generation](cards-0007.md#paper-154562) | 连续视频场景发生变化时，在固定缓存下让高价值新帧替换过时锚帧。 |
+| 大语言模型 | 评测与诊断 | [Learning to Read Out: Unembedding Dynamics in Language Model Pretraining](cards-0007.md#paper-154168) | 判断预训练能力何时出现时，把隐态信息与输出头是否读出拆开。 |
+| 计算机视觉 | 推理策略 | [Learning to Sample From Diffusion Models via Inverse Reinforcement Learning](cards-0007.md#paper-154984) | 去噪器已固定时，将采样设置变成逐步决策，以匹配目标采样行为代替全量网格搜索。 |
+| 图学习 | 推理策略 | [Learning to Search, Searching to Learn: A Closed-Loop Framework for Large-Scale Vehicle Routing](cards-0007.md#paper-150054) | 神经模型给组合求解器建议时，让改进后的候选继续反馈给模型。 |
+| 多模态学习 | 评测与诊断 | [Learning to See Through Language: An Exploration of Language Modeling's Effect on Visual Representations](cards-0007.md#paper-152283) | 复用多模态模型视觉层前，按任务区分语义和细粒度几何并尝试跨层融合。 |
+| 计算机视觉 | 推理策略 | [Learning to Solve Generative ODEs Beyond the Linear Span](cards-0007.md#paper-155573) | 少步生成 ODE 的误差落在历史速度张成空间之外时，学习空间残差算子。 |
+| 大语言模型 | 强化学习方法 | [Learning to Surpass: Training Tool-Using Agents with Anchored Feedback](cards-0007.md#paper-150337) | 只有高质量终局方案时，按同格式比较候选和参考并明确检查硬约束。 |
+| 强化学习 | 表征学习 | [Learning to Undo: Transfer Reinforcement Learning under State Space Transformations](cards-0007.md#paper-149546) | 源目标环境的差异主要来自状态变换时，通过状态特征匹配学习逆映射后复用策略。 |
+| 科学机器学习 | 训练策略 | [Learning Transferable Cross-Day Representations for Few-Shot Neural Decoding](cards-0007.md#paper-149445) | 跨会话极少标注适配时，先学不依赖会话专用输入层的主干，再冻结后学习快速校准。 |
+| 图学习 | 训练策略 | [Learning Transferable Representations from Operating System Entities via Provenance Graph Distillation](cards-0007.md#paper-151915) | 端点检测无法实时访问溯源图时，训练期用图教师蒸馏实体文本编码器。 |
+| 机器学习基础与统计 | 优化 | [Learning Unbiased Permutations via Flow Matching](cards-0007.md#paper-155726) | 排序或匹配存在多个同样合理的答案时，在约束子空间建多峰分布。 |
+| 机器学习基础与统计 | 数据策略 | [Learning under Localized Minority Imbalance](cards-0007.md#paper-148554) | 当少数类可见性随特征变化时先分层并用无偏测试集。 |
+| 机器人学 | 模型架构 | [Learning Visual Feature-Based World Models via Residual Latent Action](cards-0007.md#paper-148146) | 视觉世界模型在 DINO 残差的动作潜空间做条件生成。 |
+| 多模态学习 | 表征学习 | [Learning Visual Speech Representations via Cross-Modal Distillation and Joint Face-Lip Modeling](cards-0007.md#paper-149522) | 唇读应同时保留局部发音细节与全脸动态。 |
+| 强化学习 | 理论与统计 | [Learning Weakly Communicating Average-Reward CMDPs: Strong Duality and Improved Regret](cards-0007.md#paper-151237) | 弱通信平均奖励约束问题用占用几何检查对偶性。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning What Evaluators Value: A Reliable Approach to Modeling Evaluator Preferences](cards-0007.md#paper-154896) | 评价者权重未知时先检验偏好函数是否只能假设单调。 |
+| 机器学习基础与统计 | 表征学习 | [Learning What Not to Impute: An Uncertainty-Aware Diffusion Framework for Meaningful Missingness](cards-0007.md#paper-154580) | 插补时区分结构性缺失与漏观测。 |
+| 科学机器学习 | 表征学习 | [Learning What's Real: Disentangling Signals and Measurement Artifacts in Multi-Sensor Data, with Applications to Astrophysics](cards-0007.md#paper-154825) | 多仪器同一对象重叠观测用于拆分物理信号和传感器特有因素。 |
+| 大语言模型 | 训练策略 | [Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance](cards-0007.md#paper-152546) | 选择性遗忘用与保留目标的冲突决定词元权重。 |
+| 机器学习基础与统计 | 训练策略 | [Learning What to Predict: Downstream-Guided Task Design for Continued Pretraining](cards-0007.md#paper-149814) | 持续预训练可由少量下游样本给目标设计器提供更新级反馈。 |
+| 大语言模型 | 训练策略 | [Learning What to Remember: Test-Time Training via Context Distillation](cards-0007.md#paper-153696) | 长上下文在线记忆用长窗教师隐藏态监督短窗模型的快速权重。 |
+| 计算机视觉 | 训练策略 | [Learning When to Denoise: Optimizing Asynchronous Schedules for Latent Diffusion](cards-0007.md#paper-149435) | 多表示扩散用短探针学习满足先后约束的时间表。 |
+| 强化学习 | 强化学习方法 | [Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shift](cards-0007.md#paper-155084) | 环境动力学变化时让模仿策略能停，并分开评价完备性和可靠性。 |
+| 强化学习 | 模型架构 | [Learning When to Think: Adaptive Internal Computation for Reinforcement Learning](cards-0007.md#paper-153029) | 检验策略是否真把额外计算分配给困难状态。 |
+| 多模态学习 | 训练策略 | [Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning](cards-0007.md#paper-149100) | 快答和慢推理分别建离线参考策略。 |
+| 机器学习基础与统计 | 训练策略 | [Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration](cards-0007.md#paper-149394) | 模型先验先进入候选，再由折外验证统计筛选其影响。 |
+| 科学机器学习 | 推理策略 | [Learning When Visual Context Matters for Mouse Behavior Analysis](cards-0007.md#paper-151213) | 根据姿态编码量化残差分配昂贵视觉上下文。 |
+| 大语言模型 | 强化学习方法 | [Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment](cards-0007.md#paper-153014) | 偏好对在局部共同压力下不稳时降低权重。 |
+| 多模态学习 | 强化学习方法 | [Learning Where to Look: Observation Policy Optimization for Thinking with Images](cards-0007.md#paper-150969) | 视觉工具调用单独计算观测动作的证据信用。 |

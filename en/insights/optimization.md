@@ -606,5 +606,10 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Learning Lotteries with Minimal Violations from Membership Queries](../../conferences/neurips-2026/cards-0007.md#paper-151848)
 - [Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport](../../conferences/neurips-2026/cards-0007.md#paper-154723)
 - [Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty](../../conferences/neurips-2026/cards-0007.md#paper-148281)
+- [Learning to Bid in Repeated Second-Price Auctions with  Dynamic Values and  Aggregated Feedback](../../conferences/neurips-2026/cards-0007.md#paper-149706)
+- [Learning to Complete Extremal Mathematical Structures](../../conferences/neurips-2026/cards-0007.md#paper-155731)
+- [Learning to Cut: Reinforcement Learning for Benders Decomposition](../../conferences/neurips-2026/cards-0007.md#paper-151771)
+- [Learning to Discover Iterative Spectral Algorithms](../../conferences/neurips-2026/cards-0007.md#paper-148403)
+- [Learning Unbiased Permutations via Flow Matching](../../conferences/neurips-2026/cards-0007.md#paper-155726)
 
 <!-- conference-classification:end -->

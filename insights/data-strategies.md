@@ -320,5 +320,7 @@
 - [LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation](../conferences/neurips-2026/cards-0007.md#paper-149142)
 - [LCD$^3$: Layout-Conditioned Diffusion for Dataset Distillation in Object Detection](../conferences/neurips-2026/cards-0007.md#paper-150456)
 - [Learning the Committor Function using Weighted Ensemble Simulations](../conferences/neurips-2026/cards-0007.md#paper-152881)
+- [Learning to Correct Geometry in Generated Videos](../conferences/neurips-2026/cards-0007.md#paper-154269)
+- [Learning under Localized Minority Imbalance](../conferences/neurips-2026/cards-0007.md#paper-148554)
 
 <!-- conference-classification:end -->

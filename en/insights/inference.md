@@ -1127,5 +1127,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Learning Minimal Sufficient Evidence Graphs for GraphRAG via Nash-Guided Optimization](../../conferences/neurips-2026/cards-0007.md#paper-154710)
 - [Learning Planning Budgets in Real-Time RL](../../conferences/neurips-2026/cards-0007.md#paper-151126)
 - [Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration](../../conferences/neurips-2026/cards-0007.md#paper-148711)
+- [Learning to Sample From Diffusion Models via Inverse Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-154984)
+- [Learning to Search, Searching to Learn: A Closed-Loop Framework for Large-Scale Vehicle Routing](../../conferences/neurips-2026/cards-0007.md#paper-150054)
+- [Learning to Solve Generative ODEs Beyond the Linear Span](../../conferences/neurips-2026/cards-0007.md#paper-155573)
+- [Learning When Visual Context Matters for Mouse Behavior Analysis](../../conferences/neurips-2026/cards-0007.md#paper-151213)
 
 <!-- conference-classification:end -->
