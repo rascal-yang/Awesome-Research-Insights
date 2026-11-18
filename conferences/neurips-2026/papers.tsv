@@ -1242,66 +1242,66 @@ poster_id	title	paper_url	status	reason
 149623	CAPER: Clause-Aligned Process Supervision for Text-to-SQL	https://neurips.cc/virtual/2026/poster/149623	included	将 SQL 语义子句作为奖励和故障定位单元。
 149769	CAPO: A Primal-Dual Framework for Constraint-Aware Prompt Optimization	https://neurips.cc/virtual/2026/poster/149769	included	为工具使用和输出要求设显式阈值后优化系统提示。
 152572	Capricorn: Highly Efficient and Secure Mixture of Experts Inference Framework	https://neurips.cc/virtual/2026/poster/152572	included	分别优化安全 MoE 路由与激活的通信开销。
-138881	CapTrack: Multifaceted Evaluation of Forgetting in LLM Post-Training	https://neurips.cc/virtual/2026/poster/138881	pending	-
-149094	Capturing In-Context Learning Dynamics with Task Operators	https://neurips.cc/virtual/2026/poster/149094	pending	-
-148906	Capturing LLM Capabilities via Evidence-Calibrated Query Clustering	https://neurips.cc/virtual/2026/poster/148906	pending	-
-149091	Capturing Membrane Dynamics and Spike Timing of Human Neurons at Scale using Neural Operators	https://neurips.cc/virtual/2026/poster/149091	pending	-
-150315	Cardinality-Decomposed Loss for Heterogeneous GNNs	https://neurips.cc/virtual/2026/poster/150315	pending	-
-152838	CARD: Internalizing Expert Critique into Reinforcement Learning for Deep Search	https://neurips.cc/virtual/2026/poster/152838	pending	-
-139679	CardioLens: Revealing the Clinical Reality Gap of MLLMs via Multi-Sequence Cardiac MRI Evaluations	https://neurips.cc/virtual/2026/poster/139679	pending	-
-139329	CAREBench: Evaluating LLMs' Emotion Understanding by Assessing Cognitive Appraisal Reasoning	https://neurips.cc/virtual/2026/poster/139329	pending	-
-151526	CARVE: Counterfactual Video Editing for Auditing and Hardening Video Detectors	https://neurips.cc/virtual/2026/poster/151526	pending	-
-152013	CASAM: Consistency-Anchored Sharpness-Aware Minimization for Improved Model Generalization	https://neurips.cc/virtual/2026/poster/152013	pending	-
-151133	Cascaded Sparse Autoencoders LearnMulti-Level Visual Concepts in Multimodal LLMs	https://neurips.cc/virtual/2026/poster/151133	pending	-
-153097	CasePlay: Self-Play Reinforcement Learning from Case Reports for Medical Reasoning	https://neurips.cc/virtual/2026/poster/153097	pending	-
-149923	CASL: Concept-Aligned Sparse Latents for Interpreting Diffusion Models	https://neurips.cc/virtual/2026/poster/149923	pending	-
-150313	CASL-VAE: Learning Structured Latent Variables from Unpaired Data for Semi-supervised Clustering and Paired Sample Generation	https://neurips.cc/virtual/2026/poster/150313	pending	-
-149782	Casper: A Projection-Based Neurosymbolic Layer for Scalable & Guaranteed Constraint Satisfaction	https://neurips.cc/virtual/2026/poster/149782	pending	-
-150932	CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring	https://neurips.cc/virtual/2026/poster/150932	pending	-
-155565	CASQRec: Collaborative-Adaptive Semantic Quantization for Multimodal Recommendation	https://neurips.cc/virtual/2026/poster/155565	pending	-
-155150	CAST: Causal Anchored Simplex Transport for Distribution-Valued Time Series	https://neurips.cc/virtual/2026/poster/155150	pending	-
-151249	CAST: Certifiable Aggregation of Smoothed Teachers for Robust Policy Adaptation	https://neurips.cc/virtual/2026/poster/151249	pending	-
-139489	Castle-in-the-Air: Probing the Foundational Visual Deficits of MLLMs via Bottom-Up Cognitive Factors	https://neurips.cc/virtual/2026/poster/139489	pending	-
-151014	Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization	https://neurips.cc/virtual/2026/poster/151014	pending	-
-152630	Catch Your Breath: Adaptive Computation for Self-Paced Sequence Production	https://neurips.cc/virtual/2026/poster/152630	pending	-
-151048	Cat-DPO: Category-Adaptive Safety Alignment	https://neurips.cc/virtual/2026/poster/151048	pending	-
-153212	Categorical Bayes filtering for computational phenotyping in adaptive learning	https://neurips.cc/virtual/2026/poster/153212	pending	-
-148837	Caterpillar GNN: Replacing Message Passing with Graph-Level Aggregation	https://neurips.cc/virtual/2026/poster/148837	pending	-
-154883	CATS: Acceptance-Oriented Critical Token Adaptive Selection for Multimodal Speculative Decoding	https://neurips.cc/virtual/2026/poster/154883	pending	-
-148993	Cauchy Scientific Networks: Loss–Architecture Alignment and Its Limit	https://neurips.cc/virtual/2026/poster/148993	pending	-
-153629	Causal Abstractions, Categorically Unified	https://neurips.cc/virtual/2026/poster/153629	pending	-
-148159	CausalAffect: Causally Guided Learning of Psychology-Aligned Facial Affect Relations	https://neurips.cc/virtual/2026/poster/148159	pending	-
-155095	Causal Attribution via Activation Patching	https://neurips.cc/virtual/2026/poster/155095	pending	-
-140040	Causal Benchmarks for Multimodal AI Should Measure Categorical Difference, Not Capability Gap	https://neurips.cc/virtual/2026/poster/140040	pending	-
-149915	Causal Bias Detection in Generative Artifical Intelligence	https://neurips.cc/virtual/2026/poster/149915	pending	-
-151296	CausalBind: Causal Modeling and Learning for Protein-Molecule Virtual Screening	https://neurips.cc/virtual/2026/poster/151296	pending	-
-154338	CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives	https://neurips.cc/virtual/2026/poster/154338	pending	-
-139526	CausalCompass: Evaluating the Robustness of  Time-Series Causal Discovery in Misspecified Scenarios	https://neurips.cc/virtual/2026/poster/139526	pending	-
-149967	Causal Concept Explanations for Deep Neural Models	https://neurips.cc/virtual/2026/poster/149967	pending	-
-139553	CausalConflictBench: Can Multimodal Models Follow Local Mechanisms That Conflict with Commonsense?	https://neurips.cc/virtual/2026/poster/139553	pending	-
-151347	Causal Discovery from Unseen Environments	https://neurips.cc/virtual/2026/poster/151347	pending	-
-140029	Causal discovery needs explicit epistemic standards	https://neurips.cc/virtual/2026/poster/140029	pending	-
-152473	Causal Discovery over Clusters of Variables in Non-Markovian Systems	https://neurips.cc/virtual/2026/poster/152473	pending	-
-153240	Causal Discovery Under Hard Selection Bias: A New Robust Score-Matching Approach	https://neurips.cc/virtual/2026/poster/153240	pending	-
-152445	Causal Discovery under Time-Varying Delays	https://neurips.cc/virtual/2026/poster/152445	pending	-
-149402	Causal Discovery via Transformed Low-Rank Quantile Surfaces	https://neurips.cc/virtual/2026/poster/149402	pending	-
-151569	Causal Discovery with False Positive Error Control	https://neurips.cc/virtual/2026/poster/151569	pending	-
-139161	CausalDriveBench: Evaluating Causal Reasoning in Vision-Language-Action Models for Autonomous Driving	https://neurips.cc/virtual/2026/poster/139161	pending	-
-153668	Causal Edit Serialization	https://neurips.cc/virtual/2026/poster/153668	pending	-
-149771	Causal Effect Identification with a Single Agnostic Proxy	https://neurips.cc/virtual/2026/poster/149771	pending	-
-149288	Causal Effects with Unobserved Unit Types in Interacting Human–AI Systems	https://neurips.cc/virtual/2026/poster/149288	pending	-
-154373	Causal Evaluation of Membership Inference Attacks	https://neurips.cc/virtual/2026/poster/154373	pending	-
-155379	Causal-Geo: Neuro-Symbolic Spatial Grounding for Situated Agent Planning	https://neurips.cc/virtual/2026/poster/155379	pending	-
-148981	Causal Gradient Steering: Exposing Shortcut Gradients by Destroying Causal Signal	https://neurips.cc/virtual/2026/poster/148981	pending	-
-151770	Causal heteroscedastic structure learning from incomplete temporal data	https://neurips.cc/virtual/2026/poster/151770	pending	-
-149757	Causal Inference for Sequential Settings under Interference and Latent Confounding	https://neurips.cc/virtual/2026/poster/149757	pending	-
-140063	Causality can systematically address the monsters under the bench(marks)	https://neurips.cc/virtual/2026/poster/140063	pending	-
-148923	Causal learning with the invariance principle	https://neurips.cc/virtual/2026/poster/148923	pending	-
-148792	Causally Structured Differential Network Modeling for Single-Cell Perturbation Prediction	https://neurips.cc/virtual/2026/poster/148792	pending	-
-154762	CausalMix: Data Mixture as Causal Inference for Language Model Training	https://neurips.cc/virtual/2026/poster/154762	pending	-
-153237	Causal Multi-Task Demand Learning	https://neurips.cc/virtual/2026/poster/153237	pending	-
-148689	Causal pieces: analysing and improving spiking neural networks piece by piece	https://neurips.cc/virtual/2026/poster/148689	pending	-
-148867	Causal Representation Learning for Generalisable Recommendation	https://neurips.cc/virtual/2026/poster/148867	pending	-
+138881	CapTrack: Multifaceted Evaluation of Forgetting in LLM Post-Training	https://neurips.cc/virtual/2026/poster/138881	included	按能力拆分后训练漂移
+149094	Capturing In-Context Learning Dynamics with Task Operators	https://neurips.cc/virtual/2026/poster/149094	included	用输入相关算子代替固定任务向量
+148906	Capturing LLM Capabilities via Evidence-Calibrated Query Clustering	https://neurips.cc/virtual/2026/poster/148906	included	按模型表现校准语义聚类
+149091	Capturing Membrane Dynamics and Spike Timing of Human Neurons at Scale using Neural Operators	https://neurips.cc/virtual/2026/poster/149091	included	同类神经元共享条件算子
+150315	Cardinality-Decomposed Loss for Heterogeneous GNNs	https://neurips.cc/virtual/2026/poster/150315	included	按关系基数配置训练损失
+152838	CARD: Internalizing Expert Critique into Reinforcement Learning for Deep Search	https://neurips.cc/virtual/2026/poster/152838	included	对被反馈真正改写的步骤提高权重
+139679	CardioLens: Revealing the Clinical Reality Gap of MLLMs via Multi-Sequence Cardiac MRI Evaluations	https://neurips.cc/virtual/2026/poster/139679	included	按完整影像流程分层验收
+139329	CAREBench: Evaluating LLMs' Emotion Understanding by Assessing Cognitive Appraisal Reasoning	https://neurips.cc/virtual/2026/poster/139329	included	把情绪推断过程与终局标签分开测
+151526	CARVE: Counterfactual Video Editing for Auditing and Hardening Video Detectors	https://neurips.cc/virtual/2026/poster/151526	included	正交干预环境和事件来诊断检测捷径
+152013	CASAM: Consistency-Anchored Sharpness-Aware Minimization for Improved Model Generalization	https://neurips.cc/virtual/2026/poster/152013	included	用样本与批梯度的一致性分配训练权重
+151133	Cascaded Sparse Autoencoders LearnMulti-Level Visual Concepts in Multimodal LLMs	https://neurips.cc/virtual/2026/poster/151133	included	用特征字典训练上层稀疏编码器
+153097	CasePlay: Self-Play Reinforcement Learning from Case Reports for Medical Reasoning	https://neurips.cc/virtual/2026/poster/153097	included	用信息点覆盖和题目质量分别约束自博弈
+149923	CASL: Concept-Aligned Sparse Latents for Interpreting Diffusion Models	https://neurips.cc/virtual/2026/poster/149923	included	先训练稀疏字典再以少量概念标签建立映射
+150313	CASL-VAE: Learning Structured Latent Variables from Unpaired Data for Semi-supervised Clustering and Paired Sample Generation	https://neurips.cc/virtual/2026/poster/150313	included	把共享变化和目标群体内部变化分解
+149782	Casper: A Projection-Based Neurosymbolic Layer for Scalable & Guaranteed Constraint Satisfaction	https://neurips.cc/virtual/2026/poster/149782	included	把可行性作为可微输出层
+150932	CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring	https://neurips.cc/virtual/2026/poster/150932	included	合并多渠道信号识别异常传播
+155565	CASQRec: Collaborative-Adaptive Semantic Quantization for Multimodal Recommendation	https://neurips.cc/virtual/2026/poster/155565	included	让协同行为监督语义码分配
+155150	CAST: Causal Anchored Simplex Transport for Distribution-Valued Time Series	https://neurips.cc/virtual/2026/poster/155150	included	用上下文区分同状态下的不同转移规律
+151249	CAST: Certifiable Aggregation of Smoothed Teachers for Robust Policy Adaptation	https://neurips.cc/virtual/2026/poster/151249	included	聚合带证书的源策略并复查目标侧保证
+139489	Castle-in-the-Air: Probing the Foundational Visual Deficits of MLLMs via Bottom-Up Cognitive Factors	https://neurips.cc/virtual/2026/poster/139489	included	在高层问答之外测可控难度的基础视觉
+151014	Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization	https://neurips.cc/virtual/2026/poster/151014	included	检验授权与未知模型的效用差距
+152630	Catch Your Breath: Adaptive Computation for Self-Paced Sequence Production	https://neurips.cc/virtual/2026/poster/152630	included	让模型学习何时暂停和继续
+151048	Cat-DPO: Category-Adaptive Safety Alignment	https://neurips.cc/virtual/2026/poster/151048	included	按风险类别分别调节训练边际
+153212	Categorical Bayes filtering for computational phenotyping in adaptive learning	https://neurips.cc/virtual/2026/poster/153212	included	用可微分网格替代随机外层粒子
+148837	Caterpillar GNN: Replacing Message Passing with Graph-Level Aggregation	https://neurips.cc/virtual/2026/poster/148837	included	按任务需求限制图网络表达力
+154883	CATS: Acceptance-Oriented Critical Token Adaptive Selection for Multimodal Speculative Decoding	https://neurips.cc/virtual/2026/poster/154883	included	优先对齐视觉依赖或高拒绝率 token
+148993	Cauchy Scientific Networks: Loss–Architecture Alignment and Its Limit	https://neurips.cc/virtual/2026/poster/148993	included	交叉消融损失与激活函数
+153629	Causal Abstractions, Categorically Unified	https://neurips.cc/virtual/2026/poster/153629	included	分开验证图兼容与变量聚合
+148159	CausalAffect: Causally Guided Learning of Psychology-Aligned Facial Affect Relations	https://neurips.cc/virtual/2026/poster/148159	included	将全局关系与样本关系分开拟合
+155095	Causal Attribution via Activation Patching	https://neurips.cc/virtual/2026/poster/155095	included	在中间层直接检验图块表征贡献
+140040	Causal Benchmarks for Multimodal AI Should Measure Categorical Difference, Not Capability Gap	https://neurips.cc/virtual/2026/poster/140040	excluded	立场论文提出指标构想，但摘要仅有初步观察，尚不足以判断测量有效性。
+149915	Causal Bias Detection in Generative Artifical Intelligence	https://neurips.cc/virtual/2026/poster/149915	included	审计生成模型时区分路径效应和机制替换效应
+151296	CausalBind: Causal Modeling and Learning for Protein-Molecule Virtual Screening	https://neurips.cc/virtual/2026/poster/151296	excluded	主要贡献为生物分子虚拟筛选，未提取可独立验证的通用技术卡。
+154338	CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives	https://neurips.cc/virtual/2026/poster/154338	included	跨镜头视频按内容相关性选缓存
+139526	CausalCompass: Evaluating the Robustness of  Time-Series Causal Discovery in Misspecified Scenarios	https://neurips.cc/virtual/2026/poster/139526	included	把标准化与假设违背分别做对照
+149967	Causal Concept Explanations for Deep Neural Models	https://neurips.cc/virtual/2026/poster/149967	included	用必要性、充分性和独立性约束概念嵌入
+139553	CausalConflictBench: Can Multimodal Models Follow Local Mechanisms That Conflict with Commonsense?	https://neurips.cc/virtual/2026/poster/139553	included	用违背常识的局部规则测试规则遵循
+151347	Causal Discovery from Unseen Environments	https://neurips.cc/virtual/2026/poster/151347	included	无环境标签时先以合并数据测试 ICA-LiNGAM
+140029	Causal discovery needs explicit epistemic standards	https://neurips.cc/virtual/2026/poster/140029	excluded	立场论文提出审查假设的原则，摘要未给出已验证的技术对照或可复核的新规律。
+152473	Causal Discovery over Clusters of Variables in Non-Markovian Systems	https://neurips.cc/virtual/2026/poster/152473	included	聚簇变量存在潜混杂时采用容纳隐变量的等价类
+153240	Causal Discovery Under Hard Selection Bias: A New Robust Score-Matching Approach	https://neurips.cc/virtual/2026/poster/153240	included	用分数及其雅可比恢复硬筛选数据中的因果结构
+152445	Causal Discovery under Time-Varying Delays	https://neurips.cc/virtual/2026/poster/152445	included	显式允许因果时延随时间改变
+149402	Causal Discovery via Transformed Low-Rank Quantile Surfaces	https://neurips.cc/virtual/2026/poster/149402	included	用变换后条件分位曲面的秩比较双变量因果方向
+151569	Causal Discovery with False Positive Error Control	https://neurips.cc/virtual/2026/poster/151569	included	保留方向不确定标记并同时约束假边与错方向
+139161	CausalDriveBench: Evaluating Causal Reasoning in Vision-Language-Action Models for Autonomous Driving	https://neurips.cc/virtual/2026/poster/139161	included	分开评估因果解释与动作轨迹是否响应同一反事实
+153668	Causal Edit Serialization	https://neurips.cc/virtual/2026/poster/153668	included	区分生成位置与源内容地址来学习显式编辑
+149771	Causal Effect Identification with a Single Agnostic Proxy	https://neurips.cc/virtual/2026/poster/149771	included	以候选集加独立性检验替代单代理闭式估计
+149288	Causal Effects with Unobserved Unit Types in Interacting Human–AI Systems	https://neurips.cc/virtual/2026/poster/149288	included	以预期人类占比和干预暴露差异恢复人群平均效应
+154373	Causal Evaluation of Membership Inference Attacks	https://neurips.cc/virtual/2026/poster/154373	included	把训练数据隐私审计中的训练干扰和评测分布差异分开记录
+155379	Causal-Geo: Neuro-Symbolic Spatial Grounding for Situated Agent Planning	https://neurips.cc/virtual/2026/poster/155379	included	让语义偏好调整路径代价，几何层单独约束可行性
+148981	Causal Gradient Steering: Exposing Shortcut Gradients by Destroying Causal Signal	https://neurips.cc/virtual/2026/poster/148981	included	用移除语义证据后的配对样本估计捷径梯度
+151770	Causal heteroscedastic structure learning from incomplete temporal data	https://neurips.cc/virtual/2026/poster/151770	included	联合校正插补和估计因果图
+149757	Causal Inference for Sequential Settings under Interference and Latent Confounding	https://neurips.cc/virtual/2026/poster/149757	included	在序列干预估计中同时建模邻接依赖和低秩隐混杂
+140063	Causality can systematically address the monsters under the bench(marks)	https://neurips.cc/virtual/2026/poster/140063	excluded	观点文提供抽象因果图和案例讨论；摘要不足以确定可独立复用且有对照验证的评测机制。
+148923	Causal learning with the invariance principle	https://neurips.cc/virtual/2026/poster/148923	included	依据多个环境中保持不变的因果机制识别图
+148792	Causally Structured Differential Network Modeling for Single-Cell Perturbation Prediction	https://neurips.cc/virtual/2026/poster/148792	excluded	摘要的主要贡献围绕生物干预工程，暂不提取实施型机制；安全的独立通用证据尚待确认。
+154762	CausalMix: Data Mixture as Causal Inference for Language Model Training	https://neurips.cc/virtual/2026/poster/154762	included	让配比随数据池状态变化，用小模型试验估计条件收益
+153237	Causal Multi-Task Demand Learning	https://neurips.cc/virtual/2026/poster/153237	included	用价格序列处理跨任务混杂，同时保留局部外生监督
+148689	Causal pieces: analysing and improving spiking neural networks piece by piece	https://neurips.cc/virtual/2026/poster/148689	included	用单脉冲网络激活子网的分区数诊断初始化
+148867	Causal Representation Learning for Generalisable Recommendation	https://neurips.cc/virtual/2026/poster/148867	included	用因果解耦训练项提升从旧日志向上线候选分布迁移
 138913	CausalSpatial: A Benchmark for Object-Centric Causal Spatial Reasoning	https://neurips.cc/virtual/2026/poster/138913	pending	-
 153856	Causal Survival Forests with Negative Controls	https://neurips.cc/virtual/2026/poster/153856	pending	-
 150884	CausalTab: Pretraining Across Causal Environments for Tabular Causal Discovery	https://neurips.cc/virtual/2026/poster/150884	pending	-

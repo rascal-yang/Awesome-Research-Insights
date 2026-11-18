@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1289** 篇，暂收录 **1180** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1349** 篇，暂收录 **1235** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1188,3 +1188,58 @@
 | 自然语言处理 | 过程监督 | [CAPER: Clause-Aligned Process Supervision for Text-to-SQL](cards-0002.md#paper-149623) | 将 SQL 语义子句作为奖励和故障定位单元。 |
 | Agent | 约束优化 | [CAPO: A Primal-Dual Framework for Constraint-Aware Prompt Optimization](cards-0002.md#paper-149769) | 为工具使用和输出要求设显式阈值后优化系统提示。 |
 | 机器学习系统 | 隐私推理 | [Capricorn: Highly Efficient and Secure Mixture of Experts Inference Framework](cards-0002.md#paper-152572) | 分别优化安全 MoE 路由与激活的通信开销。 |
+| 大语言模型 | 遗忘评测 | [CapTrack: Multifaceted Evaluation of Forgetting in LLM Post-Training](cards-0002.md#paper-138881) | 按能力拆分后训练漂移 |
+| 大语言模型 | 上下文蒸馏 | [Capturing In-Context Learning Dynamics with Task Operators](cards-0002.md#paper-149094) | 用输入相关算子代替固定任务向量 |
+| 大语言模型 | 能力评测 | [Capturing LLM Capabilities via Evidence-Calibrated Query Clustering](cards-0002.md#paper-148906) | 按模型表现校准语义聚类 |
+| 科学机器学习 | 算子学习 | [Capturing Membrane Dynamics and Spike Timing of Human Neurons at Scale using Neural Operators](cards-0002.md#paper-149091) | 同类神经元共享条件算子 |
+| 推荐系统 | 多关系损失 | [Cardinality-Decomposed Loss for Heterogeneous GNNs](cards-0002.md#paper-150315) | 按关系基数配置训练损失 |
+| Agent | 强化学习 | [CARD: Internalizing Expert Critique into Reinforcement Learning for Deep Search](cards-0002.md#paper-152838) | 对被反馈真正改写的步骤提高权重 |
+| 医疗多模态 | 评测诊断 | [CardioLens: Revealing the Clinical Reality Gap of MLLMs via Multi-Sequence Cardiac MRI Evaluations](cards-0002.md#paper-139679) | 按完整影像流程分层验收 |
+| 大语言模型 | 过程评测 | [CAREBench: Evaluating LLMs' Emotion Understanding by Assessing Cognitive Appraisal Reasoning](cards-0002.md#paper-139329) | 把情绪推断过程与终局标签分开测 |
+| 计算机视觉 | 反事实评测 | [CARVE: Counterfactual Video Editing for Auditing and Hardening Video Detectors](cards-0002.md#paper-151526) | 正交干预环境和事件来诊断检测捷径 |
+| 优化 | 泛化正则 | [CASAM: Consistency-Anchored Sharpness-Aware Minimization for Improved Model Generalization](cards-0002.md#paper-152013) | 用样本与批梯度的一致性分配训练权重 |
+| 多模态学习 | 解释性 | [Cascaded Sparse Autoencoders LearnMulti-Level Visual Concepts in Multimodal LLMs](cards-0002.md#paper-151133) | 用特征字典训练上层稀疏编码器 |
+| 大语言模型 | 自博弈 | [CasePlay: Self-Play Reinforcement Learning from Case Reports for Medical Reasoning](cards-0002.md#paper-153097) | 用信息点覆盖和题目质量分别约束自博弈 |
+| 生成模型 | 可解释性 | [CASL: Concept-Aligned Sparse Latents for Interpreting Diffusion Models](cards-0002.md#paper-149923) | 先训练稀疏字典再以少量概念标签建立映射 |
+| 统计学习 | 结构化潜变量 | [CASL-VAE: Learning Structured Latent Variables from Unpaired Data for Semi-supervised Clustering and Paired Sample Generation](cards-0002.md#paper-150313) | 把共享变化和目标群体内部变化分解 |
+| 神经符号学习 | 约束投影 | [Casper: A Projection-Based Neurosymbolic Layer for Scalable & Guaranteed Constraint Satisfaction](cards-0002.md#paper-149782) | 把可行性作为可微输出层 |
+| Agent | 防御监测 | [CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring](cards-0002.md#paper-150932) | 合并多渠道信号识别异常传播 |
+| 推荐系统 | 离散表征 | [CASQRec: Collaborative-Adaptive Semantic Quantization for Multimodal Recommendation](cards-0002.md#paper-155565) | 让协同行为监督语义码分配 |
+| 时间序列 | 分布预测 | [CAST: Causal Anchored Simplex Transport for Distribution-Valued Time Series](cards-0002.md#paper-155150) | 用上下文区分同状态下的不同转移规律 |
+| 强化学习 | 稳健迁移 | [CAST: Certifiable Aggregation of Smoothed Teachers for Robust Policy Adaptation](cards-0002.md#paper-151249) | 聚合带证书的源策略并复查目标侧保证 |
+| 多模态学习 | 能力诊断 | [Castle-in-the-Air: Probing the Foundational Visual Deficits of MLLMs via Bottom-Up Cognitive Factors](cards-0002.md#paper-139489) | 在高层问答之外测可控难度的基础视觉 |
+| 按授权模型评估数据重编码 | 数据授权 | [Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization](cards-0002.md#paper-151014) | 检验授权与未知模型的效用差距 |
+| 语言模型 | 自适应计算 | [Catch Your Breath: Adaptive Computation for Self-Paced Sequence Production](cards-0002.md#paper-152630) | 让模型学习何时暂停和继续 |
+| 语言模型安全 | 偏好优化 | [Cat-DPO: Category-Adaptive Safety Alignment](cards-0002.md#paper-151048) | 按风险类别分别调节训练边际 |
+| 认知建模 | 状态估计 | [Categorical Bayes filtering for computational phenotyping in adaptive learning](cards-0002.md#paper-153212) | 用可微分网格替代随机外层粒子 |
+| 图学习 | 归纳偏置 | [Caterpillar GNN: Replacing Message Passing with Graph-Level Aggregation](cards-0002.md#paper-148837) | 按任务需求限制图网络表达力 |
+| 多模态学习 | 推理加速 | [CATS: Acceptance-Oriented Critical Token Adaptive Selection for Multimodal Speculative Decoding](cards-0002.md#paper-154883) | 优先对齐视觉依赖或高拒绝率 token |
+| 科学机器学习 | 消融设计 | [Cauchy Scientific Networks: Loss–Architecture Alignment and Its Limit](cards-0002.md#paper-148993) | 交叉消融损失与激活函数 |
+| 因果学习 | 理论 | [Causal Abstractions, Categorically Unified](cards-0002.md#paper-153629) | 分开验证图兼容与变量聚合 |
+| 计算机视觉 | 结构监督 | [CausalAffect: Causally Guided Learning of Psychology-Aligned Facial Affect Relations](cards-0002.md#paper-148159) | 将全局关系与样本关系分开拟合 |
+| 计算机视觉 | 可解释性 | [Causal Attribution via Activation Patching](cards-0002.md#paper-155095) | 在中间层直接检验图块表征贡献 |
+| 公平性 | 因果分解 | [Causal Bias Detection in Generative Artifical Intelligence](cards-0002.md#paper-149915) | 审计生成模型时区分路径效应和机制替换效应 |
+| 计算机视觉 | 记忆路由 | [CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives](cards-0002.md#paper-154338) | 跨镜头视频按内容相关性选缓存 |
+| 因果学习 | 鲁棒评测 | [CausalCompass: Evaluating the Robustness of  Time-Series Causal Discovery in Misspecified Scenarios](cards-0002.md#paper-139526) | 把标准化与假设违背分别做对照 |
+| 可解释性 | 概念监督 | [Causal Concept Explanations for Deep Neural Models](cards-0003.md#paper-149967) | 用必要性、充分性和独立性约束概念嵌入 |
+| 多模态学习 | 诊断基准 | [CausalConflictBench: Can Multimodal Models Follow Local Mechanisms That Conflict with Commonsense?](cards-0003.md#paper-139553) | 用违背常识的局部规则测试规则遵循 |
+| 因果学习 | 图发现 | [Causal Discovery from Unseen Environments](cards-0003.md#paper-151347) | 无环境标签时先以合并数据测试 ICA-LiNGAM |
+| 因果学习 | 图发现 | [Causal Discovery over Clusters of Variables in Non-Markovian Systems](cards-0003.md#paper-152473) | 聚簇变量存在潜混杂时采用容纳隐变量的等价类 |
+| 因果学习 | 截断分布 | [Causal Discovery Under Hard Selection Bias: A New Robust Score-Matching Approach](cards-0003.md#paper-153240) | 用分数及其雅可比恢复硬筛选数据中的因果结构 |
+| 因果学习 | 时间序列 | [Causal Discovery under Time-Varying Delays](cards-0003.md#paper-152445) | 显式允许因果时延随时间改变 |
+| 因果学习 | 方向辨识 | [Causal Discovery via Transformed Low-Rank Quantile Surfaces](cards-0003.md#paper-149402) | 用变换后条件分位曲面的秩比较双变量因果方向 |
+| 因果学习 | 错误发现控制 | [Causal Discovery with False Positive Error Control](cards-0003.md#paper-151569) | 保留方向不确定标记并同时约束假边与错方向 |
+| 具身智能 | 反事实评测 | [CausalDriveBench: Evaluating Causal Reasoning in Vision-Language-Action Models for Autonomous Driving](cards-0003.md#paper-139161) | 分开评估因果解释与动作轨迹是否响应同一反事实 |
+| 大语言模型 | 编辑表示 | [Causal Edit Serialization](cards-0003.md#paper-153668) | 区分生成位置与源内容地址来学习显式编辑 |
+| 因果学习 | 潜在混杂 | [Causal Effect Identification with a Single Agnostic Proxy](cards-0003.md#paper-149771) | 以候选集加独立性检验替代单代理闭式估计 |
+| 因果学习 / Agent | 网络干预 | [Causal Effects with Unobserved Unit Types in Interacting Human–AI Systems](cards-0003.md#paper-149288) | 以预期人类占比和干预暴露差异恢复人群平均效应 |
+| 隐私与可靠性 | 防御评测 | [Causal Evaluation of Membership Inference Attacks](cards-0003.md#paper-154373) | 把训练数据隐私审计中的训练干扰和评测分布差异分开记录 |
+| 具身智能 / Agent | 几何规划 | [Causal-Geo: Neuro-Symbolic Spatial Grounding for Situated Agent Planning](cards-0003.md#paper-155379) | 让语义偏好调整路径代价，几何层单独约束可行性 |
+| 计算机视觉 | 捷径抑制 | [Causal Gradient Steering: Exposing Shortcut Gradients by Destroying Causal Signal](cards-0003.md#paper-148981) | 用移除语义证据后的配对样本估计捷径梯度 |
+| 因果学习 | 缺失时间序列 | [Causal heteroscedastic structure learning from incomplete temporal data](cards-0003.md#paper-151770) | 联合校正插补和估计因果图 |
+| 因果学习 | 面板干预 | [Causal Inference for Sequential Settings under Interference and Latent Confounding](cards-0003.md#paper-149757) | 在序列干预估计中同时建模邻接依赖和低秩隐混杂 |
+| 因果学习 | 环境不变性 | [Causal learning with the invariance principle](cards-0003.md#paper-148923) | 依据多个环境中保持不变的因果机制识别图 |
+| 大语言模型 | 训练数据配比 | [CausalMix: Data Mixture as Causal Inference for Language Model Training](cards-0003.md#paper-154762) | 让配比随数据池状态变化，用小模型试验估计条件收益 |
+| 因果学习 | 迁移设计 | [Causal Multi-Task Demand Learning](cards-0003.md#paper-153237) | 用价格序列处理跨任务混杂，同时保留局部外生监督 |
+| 神经网络理论 | 训练诊断 | [Causal pieces: analysing and improving spiking neural networks piece by piece](cards-0003.md#paper-148689) | 用单脉冲网络激活子网的分区数诊断初始化 |
+| 推荐系统 | 分布偏移 | [Causal Representation Learning for Generalisable Recommendation](cards-0003.md#paper-148867) | 用因果解耦训练项提升从旧日志向上线候选分布迁移 |
