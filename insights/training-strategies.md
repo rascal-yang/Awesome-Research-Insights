@@ -156,6 +156,7 @@
 - [按时间与mask状态校准量化](../conferences/icml-2026/cards/5201-5300.md#xu26h-training-strategies) · DLLMQuant: A Post-Training Quantization Framework Tailored for Diffusion-Based Large Language Models
 - [预先蒸馏并缓存固定MoE路由](../conferences/icml-2026/cards/5201-5300.md#xu26t-training-strategies) · Grouter: Decoupling Routing from Representation for Accelerated MoE Training
 - [先更新裁判再更新rubric的交替训练](../conferences/icml-2026/cards/5201-5300.md#xu26ai-training-strategies) · Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training
+- [截断在线影响传播并校准残差噪声](../conferences/icml-2026/cards/5201-5300.md#xu26bp-training-strategies) · LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation
 
 <a id="by-computer-vision"></a>
 

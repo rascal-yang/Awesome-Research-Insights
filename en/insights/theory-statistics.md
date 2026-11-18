@@ -179,6 +179,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](../../conferences/icml-2026/cards/4601-4700.md#wang26ci-theory-statistics) · 中文
 - [Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random](../../conferences/icml-2026/cards/4901-5000.md#wei26v-theory-statistics) · 中文
 - [Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding](../../conferences/icml-2026/cards/5201-5300.md#xu26o-theory-statistics) · 中文
+- [Doubly Robust Distributionally Robust Offline Contextual Pricing](../../conferences/icml-2026/cards/5201-5300.md#xu26bz-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -612,6 +613,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26aq-theory-statistics) · 中文
 - [Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26ba-theory-statistics) · 中文
 - [To Grok Grokking: Provable Grokking in Ridge Regression](../../conferences/icml-2026/cards/5201-5300.md#xu26bd-theory-statistics) · 中文
+- [Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers](../../conferences/icml-2026/cards/5201-5300.md#xu26bu-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

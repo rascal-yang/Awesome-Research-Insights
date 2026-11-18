@@ -194,6 +194,7 @@
 - <a id="xie26b-loss-functions"></a>[Sobolev Regularized Score Difference Estimation in Diffusion Models](../conferences/icml-2026/cards/5101-5200.md#paper-xie26b)
 - <a id="xie26l-loss-functions"></a>[FedUSD: Unbiased Synthetic Data for Federated Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xie26l)
 - <a id="xu26i-loss-functions"></a>[Discretized Density-Guided Source-Free Domain Adaptation for Regression](../conferences/icml-2026/cards/5201-5300.md#paper-xu26i)
+- <a id="xu26by-loss-functions"></a>[Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition](../conferences/icml-2026/cards/5201-5300.md#paper-xu26by)
 
 <a id="by-optimization"></a>
 
@@ -449,6 +450,7 @@
 - <a id="xiao26i-optimization"></a>[Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26i)
 - <a id="xin26b-optimization"></a>[FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xin26b)
 - <a id="xu26as-optimization"></a>[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](../conferences/icml-2026/cards/5201-5300.md#paper-xu26as)
+- <a id="xu26bx-optimization"></a>[Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bx)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -635,6 +637,8 @@
 - <a id="xiang26d-inference"></a>[MOD-SR: Unifying Multimodal Learning and Direct Optimization with Gradient-Guided Diffusion Model for Symbolic Regression](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26d)
 - <a id="xie26c-inference"></a>[Cost-aware Stopping for Bayesian Optimization](../conferences/icml-2026/cards/5101-5200.md#paper-xie26c)
 - <a id="xu26av-inference"></a>[Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26av)
+- <a id="xu26bq-inference"></a>[Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bq)
+- <a id="xu26cf-inference"></a>[LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cf)
 
 <a id="by-representation-learning"></a>
 
@@ -1189,4 +1193,5 @@
 - <a id="xu26aq-theory-statistics"></a>[Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization](../conferences/icml-2026/cards/5201-5300.md#paper-xu26aq)
 - <a id="xu26ba-theory-statistics"></a>[Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ba)
 - <a id="xu26bd-theory-statistics"></a>[To Grok Grokking: Provable Grokking in Ridge Regression](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bd)
+- <a id="xu26bu-theory-statistics"></a>[Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bu)
 <!-- classification:end -->

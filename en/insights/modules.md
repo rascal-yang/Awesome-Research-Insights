@@ -180,6 +180,7 @@ Reusable components and local changes to model inputs or connections.
 - [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](../../conferences/icml-2026/cards/4601-4700.md#wang26cj-modules) · 中文
 - [Multimodal Fusion via Self-Consistent Task-Gradient Fields](../../conferences/icml-2026/cards/5201-5300.md#xiong26m-modules) · 中文
 - [TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing](../../conferences/icml-2026/cards/5201-5300.md#xu26bi-modules) · 中文
+- [Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation](../../conferences/icml-2026/cards/5201-5300.md#xu26bt-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

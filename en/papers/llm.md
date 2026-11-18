@@ -449,6 +449,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wu26ai-reinforcement-learning"></a>[Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ai)
 - <a id="wu26az-reinforcement-learning"></a>[Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26az)
 - <a id="xie26o-reinforcement-learning"></a>[TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26o)
+- <a id="xu26bn-reinforcement-learning"></a>[D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bn)
 
 <a id="by-training-strategies"></a>
 
@@ -597,6 +598,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xu26h-training-strategies"></a>[DLLMQuant: A Post-Training Quantization Framework Tailored for Diffusion-Based Large Language Models](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26h)
 - <a id="xu26t-training-strategies"></a>[Grouter: Decoupling Routing from Representation for Accelerated MoE Training](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26t)
 - <a id="xu26ai-training-strategies"></a>[Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ai)
+- <a id="xu26bp-training-strategies"></a>[LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bp)
 
 <a id="by-data-strategies"></a>
 
@@ -1025,6 +1027,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xu26al-inference"></a>[DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26al)
 - <a id="xu26au-inference"></a>[A Bi-metric Framework for Efficient Nearest Neighbor Search](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26au)
 - <a id="xu26bc-inference"></a>[BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bc)
+- <a id="xu26bw-inference"></a>[Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bw)
+- <a id="xu26cg-inference"></a>[SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cg)
 
 <a id="by-representation-learning"></a>
 
@@ -1393,6 +1397,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xu26c-evaluation"></a>[Information Flow Reveals When to Trust Language Models](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26c)
 - <a id="xu26ax-evaluation"></a>[When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ax)
 - <a id="xu26bb-evaluation"></a>[A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bb)
+- <a id="xu26cb-evaluation"></a>[How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cb)
+- <a id="xu26cd-evaluation"></a>[Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cd)
 
 <a id="by-theory-statistics"></a>
 

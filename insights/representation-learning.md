@@ -311,6 +311,7 @@
 - [polarity-invariant-equivariant-decomposition](../conferences/icml-2026/cards/4301-4400.md#sun26ab-representation-learning) · Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs
 - [sample-local-node-identities](../conferences/icml-2026/cards/4401-4500.md#truong26a-representation-learning) · Plain Transformers are Surprisingly Powerful Link Predictors
 - [图特征结构与联合信号分离](../conferences/icml-2026/cards/4701-4800.md#wang26gl-representation-learning) · What Information Matters? Graph Out-of-Distribution Detection via Tri-Component Information Decomposition
+- [把无标签RDB压缩限制在同列同路径](../conferences/icml-2026/cards/5201-5300.md#xu26ce-representation-learning) · No Need to Train Your RDB Foundation Model
 
 <a id="by-scientific-ml"></a>
 
@@ -379,4 +380,5 @@
 - [用共同噪声连接未配对物理快照](../conferences/icml-2026/cards/3901-4000.md#schwerdtner26a-representation-learning) · Two-Parameter Flows for Learning Population Dynamics of Physical Systems
 - [复频域声场与色散约束](../conferences/icml-2026/cards/4301-4400.md#takawale26a-representation-learning) · INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments
 - [沿合成轨迹预测几何的预训练](../conferences/icml-2026/cards/5001-5100.md#wu26s-representation-learning) · GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training
+- [控制架构后比较球与笛卡尔张量](../conferences/icml-2026/cards/5201-5300.md#xu26br-representation-learning) · A Cartesian-3j Framework for Machine Learning Interatomic Potentials
 <!-- classification:end -->

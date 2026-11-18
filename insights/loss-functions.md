@@ -206,6 +206,7 @@
 - [在文本侧排斥近邻描述](../conferences/icml-2026/cards/5101-5200.md#xie26y-loss-functions) · FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model
 - [按轮熵连续重加权GRPO优势](../conferences/icml-2026/cards/5101-5200.md#xing26g-loss-functions) · Native Active Perception as Reasoning for Omni-Modal Understanding
 - [同区域多问题的潜表示一致奖励](../conferences/icml-2026/cards/5201-5300.md#xu26aw-loss-functions) · Semantic-Enriched Latent Visual Reasoning
+- [多事件定位同时奖励覆盖和计数](../conferences/icml-2026/cards/5201-5300.md#xu26cc-loss-functions) · Towards One-to-Many Temporal Grounding
 
 <a id="by-ml-foundations"></a>
 
@@ -261,6 +262,7 @@
 - [对密度比梯度的Sobolev正则](../conferences/icml-2026/cards/5101-5200.md#xie26b-loss-functions) · Sobolev Regularized Score Difference Estimation in Diffusion Models
 - [按主方向与方差匹配合成数据](../conferences/icml-2026/cards/5101-5200.md#xie26l-loss-functions) · FedUSD: Unbiased Synthetic Data for Federated Learning
 - [用分箱密度头精炼回归伪标签](../conferences/icml-2026/cards/5201-5300.md#xu26i-loss-functions) · Discretized Density-Guided Source-Free Domain Adaptation for Regression
+- [按teacher不确定性选择反向交叉熵](../conferences/icml-2026/cards/5201-5300.md#xu26by-loss-functions) · Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition
 
 <a id="by-graph-and-recommendation"></a>
 

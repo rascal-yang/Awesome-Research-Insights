@@ -311,6 +311,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Unsat Core Prediction through Polarity-Aware Representation Learning over Clause-Literal Hypergraphs](../../conferences/icml-2026/cards/4301-4400.md#sun26ab-representation-learning) · 中文
 - [Plain Transformers are Surprisingly Powerful Link Predictors](../../conferences/icml-2026/cards/4401-4500.md#truong26a-representation-learning) · 中文
 - [What Information Matters? Graph Out-of-Distribution Detection via Tri-Component Information Decomposition](../../conferences/icml-2026/cards/4701-4800.md#wang26gl-representation-learning) · 中文
+- [No Need to Train Your RDB Foundation Model](../../conferences/icml-2026/cards/5201-5300.md#xu26ce-representation-learning) · 中文
 
 <a id="by-scientific-ml"></a>
 
@@ -379,4 +380,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Two-Parameter Flows for Learning Population Dynamics of Physical Systems](../../conferences/icml-2026/cards/3901-4000.md#schwerdtner26a-representation-learning) · 中文
 - [INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments](../../conferences/icml-2026/cards/4301-4400.md#takawale26a-representation-learning) · 中文
 - [GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training](../../conferences/icml-2026/cards/5001-5100.md#wu26s-representation-learning) · 中文
+- [A Cartesian-3j Framework for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/5201-5300.md#xu26br-representation-learning) · 中文
 <!-- classification:end -->

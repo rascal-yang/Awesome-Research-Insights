@@ -76,6 +76,7 @@
 - <a id="wang26cj-modules"></a>[TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cj)
 - <a id="xiong26m-modules"></a>[Multimodal Fusion via Self-Consistent Task-Gradient Fields](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26m)
 - <a id="xu26bi-modules"></a>[TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bi)
+- <a id="xu26bt-modules"></a>[Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bt)
 
 <a id="by-loss-functions"></a>
 
@@ -124,6 +125,7 @@
 - <a id="xie26y-loss-functions"></a>[FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](../conferences/icml-2026/cards/5101-5200.md#paper-xie26y)
 - <a id="xing26g-loss-functions"></a>[Native Active Perception as Reasoning for Omni-Modal Understanding](../conferences/icml-2026/cards/5101-5200.md#paper-xing26g)
 - <a id="xu26aw-loss-functions"></a>[Semantic-Enriched Latent Visual Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26aw)
+- <a id="xu26cc-loss-functions"></a>[Towards One-to-Many Temporal Grounding](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cc)
 
 <a id="by-optimization"></a>
 

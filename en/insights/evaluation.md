@@ -354,6 +354,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Information Flow Reveals When to Trust Language Models](../../conferences/icml-2026/cards/5201-5300.md#xu26c-evaluation) · 中文
 - [When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems](../../conferences/icml-2026/cards/5201-5300.md#xu26ax-evaluation) · 中文
 - [A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](../../conferences/icml-2026/cards/5201-5300.md#xu26bb-evaluation) · 中文
+- [How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26cb-evaluation) · 中文
+- [Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs](../../conferences/icml-2026/cards/5201-5300.md#xu26cd-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -179,6 +179,7 @@
 - [GRPO采样维度方差不对称](../conferences/icml-2026/cards/4601-4700.md#wang26ci-theory-statistics) · Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO
 - [奖励MNAR的桥式评估](../conferences/icml-2026/cards/4901-5000.md#wei26v-theory-statistics) · Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random
 - [阈值lookahead的有限目标控制](../conferences/icml-2026/cards/5201-5300.md#xu26o-theory-statistics) · Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding
+- [连续动作DRO用局部双稳健矩](../conferences/icml-2026/cards/5201-5300.md#xu26bz-theory-statistics) · Doubly Robust Distributionally Robust Offline Contextual Pricing
 
 <a id="by-robotics"></a>
 
@@ -612,6 +613,7 @@
 - [受限子集效应的后选择置信界](../conferences/icml-2026/cards/5201-5300.md#xu26aq-theory-statistics) · Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization
 - [私有minimax值函数的无Hessian鞍点逃逸](../conferences/icml-2026/cards/5201-5300.md#xu26ba-theory-statistics) · Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization
 - [冻结特征下的初始化遗忘时标](../conferences/icml-2026/cards/5201-5300.md#xu26bd-theory-statistics) · To Grok Grokking: Provable Grokking in Ridge Regression
+- [先相似性后属性的课程非对称](../conferences/icml-2026/cards/5201-5300.md#xu26bu-theory-statistics) · Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers
 
 <a id="by-graph-and-recommendation"></a>
 

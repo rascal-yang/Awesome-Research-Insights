@@ -156,6 +156,7 @@ Training schedules, curricula, and task or stage composition.
 - [DLLMQuant: A Post-Training Quantization Framework Tailored for Diffusion-Based Large Language Models](../../conferences/icml-2026/cards/5201-5300.md#xu26h-training-strategies) · 中文
 - [Grouter: Decoupling Routing from Representation for Accelerated MoE Training](../../conferences/icml-2026/cards/5201-5300.md#xu26t-training-strategies) · 中文
 - [Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#xu26ai-training-strategies) · 中文
+- [LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](../../conferences/icml-2026/cards/5201-5300.md#xu26bp-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

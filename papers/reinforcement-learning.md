@@ -373,4 +373,5 @@
 - <a id="wang26ci-theory-statistics"></a>[Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ci)
 - <a id="wei26v-theory-statistics"></a>[Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random](../conferences/icml-2026/cards/4901-5000.md#paper-wei26v)
 - <a id="xu26o-theory-statistics"></a>[Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding](../conferences/icml-2026/cards/5201-5300.md#paper-xu26o)
+- <a id="xu26bz-theory-statistics"></a>[Doubly Robust Distributionally Robust Offline Contextual Pricing](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bz)
 <!-- classification:end -->

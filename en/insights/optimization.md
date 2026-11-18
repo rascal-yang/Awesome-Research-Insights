@@ -441,6 +441,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](../../conferences/icml-2026/cards/5101-5200.md#xiao26i-optimization) · 中文
 - [FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#xin26b-optimization) · 中文
 - [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26as-optimization) · 中文
+- [Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate](../../conferences/icml-2026/cards/5201-5300.md#xu26bx-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

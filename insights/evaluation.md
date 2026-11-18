@@ -354,6 +354,8 @@
 - [贡献路径与检索相关性的联合置信](../conferences/icml-2026/cards/5201-5300.md#xu26c-evaluation) · Information Flow Reveals When to Trust Language Models
 - [局部激活防御与异步评测](../conferences/icml-2026/cards/5201-5300.md#xu26ax-evaluation) · When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems
 - [双层并行与候选选择的成本边界](../conferences/icml-2026/cards/5201-5300.md#xu26bb-evaluation) · A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems
+- [以局部可解码性限制CoT全局计划解释](../conferences/icml-2026/cards/5201-5300.md#xu26cb-evaluation) · How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning
+- [遗忘评估同时测恢复和保留能力](../conferences/icml-2026/cards/5201-5300.md#xu26cd-evaluation) · Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs
 
 <a id="by-computer-vision"></a>
 

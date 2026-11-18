@@ -393,6 +393,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="schwerdtner26a-representation-learning"></a>[Two-Parameter Flows for Learning Population Dynamics of Physical Systems](../../conferences/icml-2026/cards/3901-4000.md#paper-schwerdtner26a)
 - <a id="takawale26a-representation-learning"></a>[INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments](../../conferences/icml-2026/cards/4301-4400.md#paper-takawale26a)
 - <a id="wu26s-representation-learning"></a>[GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26s)
+- <a id="xu26br-representation-learning"></a>[A Cartesian-3j Framework for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26br)
 
 <a id="by-evaluation"></a>
 

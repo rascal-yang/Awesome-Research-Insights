@@ -206,6 +206,7 @@ Objectives, auxiliary supervision, and regularization.
 - [FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](../../conferences/icml-2026/cards/5101-5200.md#xie26y-loss-functions) · 中文
 - [Native Active Perception as Reasoning for Omni-Modal Understanding](../../conferences/icml-2026/cards/5101-5200.md#xing26g-loss-functions) · 中文
 - [Semantic-Enriched Latent Visual Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26aw-loss-functions) · 中文
+- [Towards One-to-Many Temporal Grounding](../../conferences/icml-2026/cards/5201-5300.md#xu26cc-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -261,6 +262,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Sobolev Regularized Score Difference Estimation in Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#xie26b-loss-functions) · 中文
 - [FedUSD: Unbiased Synthetic Data for Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#xie26l-loss-functions) · 中文
 - [Discretized Density-Guided Source-Free Domain Adaptation for Regression](../../conferences/icml-2026/cards/5201-5300.md#xu26i-loss-functions) · 中文
+- [Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition](../../conferences/icml-2026/cards/5201-5300.md#xu26by-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

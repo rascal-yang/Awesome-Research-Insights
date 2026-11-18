@@ -190,6 +190,7 @@
 - [保持分支语义的并行轨迹训练](../conferences/icml-2026/cards/5001-5100.md#wu26ai-reinforcement-learning) · Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning
 - [按不同答案去频率偏置选伪标签](../conferences/icml-2026/cards/5001-5100.md#wu26az-reinforcement-learning) · Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning
 - [用中间团队分布评估顺序更新](../conferences/icml-2026/cards/5101-5200.md#xie26o-reinforcement-learning) · TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination
+- [熵项替代退化组优势](../conferences/icml-2026/cards/5201-5300.md#xu26bn-reinforcement-learning) · D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use
 
 <a id="by-computer-vision"></a>
 

@@ -180,6 +180,7 @@
 - [相似特征的非对称最优传输](../conferences/icml-2026/cards/4601-4700.md#wang26cj-modules) · TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection
 - [共享分量循环交换的重建融合](../conferences/icml-2026/cards/5201-5300.md#xiong26m-modules) · Multimodal Fusion via Self-Consistent Task-Gradient Fields
 - [CP编辑因子兼作专家路由](../conferences/icml-2026/cards/5201-5300.md#xu26bi-modules) · TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing
+- [分离对齐与反对齐的跨模态补偿](../conferences/icml-2026/cards/5201-5300.md#xu26bt-modules) · Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation
 
 <a id="by-ml-foundations"></a>
 
