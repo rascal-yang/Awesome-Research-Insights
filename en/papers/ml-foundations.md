@@ -622,6 +622,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26ao-data-strategies"></a>[ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ao)
 - <a id="yang26bq-data-strategies"></a>[Data Agent: Learning to Select Data via End-to-End Dynamic Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bq)
 - <a id="yu26aq-data-strategies"></a>[AvAtar: Learning to Align via Active Optimal Transport](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26aq)
+- <a id="zhang26bv-data-strategies"></a>[MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bv)
 
 <a id="by-inference"></a>
 
@@ -1286,4 +1287,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26ad-theory-statistics"></a>[Dimension-Independent Convergence of Underdamped Langevin Monte Carlo in KL Divergence](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ad)
 - <a id="zhang26af-theory-statistics"></a>[Benign Overfitting in Adversarial Training for Vision Transformers](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26af)
 - <a id="zhang26ay-theory-statistics"></a>[Higher-Order Certified Robustness for Regression](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ay)
+- <a id="zhang26bg-theory-statistics"></a>[Efficient Distributionally Robust Assortment Optimization in MNL Bandits](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bg)
 <!-- classification:end -->

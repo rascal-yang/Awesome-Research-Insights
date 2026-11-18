@@ -129,6 +129,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Temporal Difference Learning for Diffusion Models](../../conferences/icml-2026/cards/5501-5600.md#ying26a-loss-functions) · 中文
 - [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](../../conferences/icml-2026/cards/5501-5600.md#yu26p-loss-functions) · 中文
 - [Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection](../../conferences/icml-2026/cards/5701-5800.md#zeng26c-loss-functions) · 中文
+- [FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection](../../conferences/icml-2026/cards/5701-5800.md#zhang26bi-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -238,6 +239,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Towards Uniformity and Alignment for Multimodal Representation Learning](../../conferences/icml-2026/cards/5501-5600.md#yin26n-loss-functions) · 中文
 - [Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](../../conferences/icml-2026/cards/5501-5600.md#yoon26f-loss-functions) · 中文
 - [CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26at-loss-functions) · 中文
+- [UniFast-HGR: Scalable and Efficient Maximal Correlation for Multimodal Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26bp-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

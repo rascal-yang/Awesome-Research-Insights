@@ -31,6 +31,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26bh-representation-learning) · 中文
 - [The Truth Lies Somewhere in the Middle (of the Generated Tokens)](../../conferences/icml-2026/cards/4601-4700.md#wang26cm-representation-learning) · 中文
 - [Step-Level Sparse Autoencoder for Reasoning Process Interpretation](../../conferences/icml-2026/cards/5301-5400.md#yang26aw-representation-learning) · 中文
+- [Harnessing Reasoning Trajectories for Hallucination Detection via Answer-agreement Representation Shaping](../../conferences/icml-2026/cards/5701-5800.md#zhang26bd-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

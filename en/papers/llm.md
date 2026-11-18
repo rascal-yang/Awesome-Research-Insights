@@ -485,6 +485,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zeng26z-reinforcement-learning"></a>[Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26z)
 - <a id="zhan26c-reinforcement-learning"></a>[Simple Policy Gradients for Reasoning with Diffusion Language Models](../../conferences/icml-2026/cards/5701-5800.md#paper-zhan26c)
 - <a id="zhang26r-reinforcement-learning"></a>[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26r)
+- <a id="zhang26bw-reinforcement-learning"></a>[Reinforcement-aware Knowledge Distillation for LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bw)
 
 <a id="by-training-strategies"></a>
 
@@ -1121,6 +1122,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26bh-representation-learning"></a>[Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bh)
 - <a id="wang26cm-representation-learning"></a>[The Truth Lies Somewhere in the Middle (of the Generated Tokens)](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cm)
 - <a id="yang26aw-representation-learning"></a>[Step-Level Sparse Autoencoder for Reasoning Process Interpretation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26aw)
+- <a id="zhang26bd-representation-learning"></a>[Harnessing Reasoning Trajectories for Hallucination Detection via Answer-agreement Representation Shaping](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bd)
 
 <a id="by-evaluation"></a>
 
@@ -1486,6 +1488,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yulong26a-evaluation"></a>[Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection](../../conferences/icml-2026/cards/5601-5700.md#paper-yulong26a)
 - <a id="zeng26x-evaluation"></a>[ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26x)
 - <a id="zhang26u-evaluation"></a>[The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26u)
+- <a id="zhang26bj-evaluation"></a>[Learning More from Less: Unlocking Internal Representations for Benchmark Compression](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bj)
 
 <a id="by-theory-statistics"></a>
 

@@ -129,6 +129,7 @@
 - [运动加权梯度的数据归因](../conferences/icml-2026/cards/5001-5100.md#wu26aq-data-strategies) · Motion Attribution for Video Generation
 - [蒸馏图像的扩散后恢复](../conferences/icml-2026/cards/5101-5200.md#xia26g-data-strategies) · DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery
 - [按像素足迹归因的高斯剪枝救回](../conferences/icml-2026/cards/5101-5200.md#xiao26u-data-strategies) · CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos
+- [分开控制合成场景密度与边界细节](../conferences/icml-2026/cards/5701-5800.md#zhang26be-data-strategies) · What Makes Synthetic Data Effective in Image Segmentation
 
 <a id="by-nlp"></a>
 
@@ -247,6 +248,7 @@
 - [时间与潜态原型反馈的选择性增强](../conferences/icml-2026/cards/5301-5400.md#yang26ao-data-strategies) · ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning
 - [loss与entropy方差配权的在线选样](../conferences/icml-2026/cards/5401-5500.md#yang26bq-data-strategies) · Data Agent: Learning to Select Data via End-to-End Dynamic Optimization
 - [按全局transport效用梯度主动询问对应](../conferences/icml-2026/cards/5601-5700.md#yu26aq-data-strategies) · AvAtar: Learning to Align via Active Optimal Transport
+- [用票数margin后验分配重复标注预算](../conferences/icml-2026/cards/5801-5900.md#zhang26bv-data-strategies) · MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing
 
 <a id="by-graph-and-recommendation"></a>
 

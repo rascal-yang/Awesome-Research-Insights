@@ -373,6 +373,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection](../../conferences/icml-2026/cards/5601-5700.md#yulong26a-evaluation) · 中文
 - [ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26x-evaluation) · 中文
 - [The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms](../../conferences/icml-2026/cards/5701-5800.md#zhang26u-evaluation) · 中文
+- [Learning More from Less: Unlocking Internal Representations for Benchmark Compression](../../conferences/icml-2026/cards/5701-5800.md#zhang26bj-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -446,6 +447,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Reconstructing Template-Memorized Images from Natural Prompts](../../conferences/icml-2026/cards/5501-5600.md#yarkoni26a-evaluation) · 中文
 - [Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain](../../conferences/icml-2026/cards/5601-5700.md#yu26ag-evaluation) · 中文
 - [MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](../../conferences/icml-2026/cards/5601-5700.md#yu26bn-evaluation) · 中文
+- [T-measure: A Topology-Consistent Metric for Binary Segmentation](../../conferences/icml-2026/cards/5801-5900.md#zhang26br-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

@@ -203,6 +203,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/5701-5800.md#zeng26z-reinforcement-learning) · 中文
 - [Simple Policy Gradients for Reasoning with Diffusion Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhan26c-reinforcement-learning) · 中文
 - [ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](../../conferences/icml-2026/cards/5701-5800.md#zhang26r-reinforcement-learning) · 中文
+- [Reinforcement-aware Knowledge Distillation for LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#zhang26bw-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -475,6 +476,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence](../../conferences/icml-2026/cards/5501-5600.md#yin26f-reinforcement-learning) · 中文
 - [POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26b-reinforcement-learning) · 中文
 - [AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](../../conferences/icml-2026/cards/5701-5800.md#zhang26aw-reinforcement-learning) · 中文
+- [How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning](../../conferences/icml-2026/cards/5801-5900.md#zhang26bt-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

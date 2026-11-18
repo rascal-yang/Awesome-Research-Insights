@@ -653,6 +653,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Dimension-Independent Convergence of Underdamped Langevin Monte Carlo in KL Divergence](../../conferences/icml-2026/cards/5701-5800.md#zhang26ad-theory-statistics) · 中文
 - [Benign Overfitting in Adversarial Training for Vision Transformers](../../conferences/icml-2026/cards/5701-5800.md#zhang26af-theory-statistics) · 中文
 - [Higher-Order Certified Robustness for Regression](../../conferences/icml-2026/cards/5701-5800.md#zhang26ay-theory-statistics) · 中文
+- [Efficient Distributionally Robust Assortment Optimization in MNL Bandits](../../conferences/icml-2026/cards/5701-5800.md#zhang26bg-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

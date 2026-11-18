@@ -197,6 +197,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="ying26a-loss-functions"></a>[Temporal Difference Learning for Diffusion Models](../../conferences/icml-2026/cards/5501-5600.md#paper-ying26a)
 - <a id="yu26p-loss-functions"></a>[Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26p)
 - <a id="zeng26c-loss-functions"></a>[Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26c)
+- <a id="zhang26bi-loss-functions"></a>[FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bi)
 
 <a id="by-optimization"></a>
 
@@ -375,6 +376,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wu26aq-data-strategies"></a>[Motion Attribution for Video Generation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26aq)
 - <a id="xia26g-data-strategies"></a>[DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26g)
 - <a id="xiao26u-data-strategies"></a>[CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26u)
+- <a id="zhang26be-data-strategies"></a>[What Makes Synthetic Data Effective in Image Segmentation](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26be)
 
 <a id="by-inference"></a>
 
@@ -649,6 +651,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yarkoni26a-evaluation"></a>[Reconstructing Template-Memorized Images from Natural Prompts](../../conferences/icml-2026/cards/5501-5600.md#paper-yarkoni26a)
 - <a id="yu26ag-evaluation"></a>[Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ag)
 - <a id="yu26bn-evaluation"></a>[MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bn)
+- <a id="zhang26br-evaluation"></a>[T-measure: A Topology-Consistent Metric for Binary Segmentation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26br)
 
 <a id="by-theory-statistics"></a>
 

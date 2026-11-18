@@ -136,6 +136,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yin26n-loss-functions"></a>[Towards Uniformity and Alignment for Multimodal Representation Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26n)
 - <a id="yoon26f-loss-functions"></a>[Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](../../conferences/icml-2026/cards/5501-5600.md#paper-yoon26f)
 - <a id="yu26at-loss-functions"></a>[CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26at)
+- <a id="zhang26bp-loss-functions"></a>[UniFast-HGR: Scalable and Efficient Maximal Correlation for Multimodal Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bp)
 
 <a id="by-optimization"></a>
 
@@ -216,6 +217,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yin26f-reinforcement-learning"></a>[MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26f)
 - <a id="zeng26b-reinforcement-learning"></a>[POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26b)
 - <a id="zhang26aw-reinforcement-learning"></a>[AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26aw)
+- <a id="zhang26bt-reinforcement-learning"></a>[How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bt)
 
 <a id="by-training-strategies"></a>
 
@@ -283,6 +285,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yang26cv-training-strategies"></a>[SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cv)
 - <a id="yuan26n-training-strategies"></a>[Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26n)
 - <a id="zeng26y-training-strategies"></a>[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26y)
+- <a id="zhang26bo-training-strategies"></a>[Stable Spectral Copula Alignment for Robust Multimodal Learning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bo)
 
 <a id="by-data-strategies"></a>
 

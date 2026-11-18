@@ -374,6 +374,7 @@
 - [混合音频的随机双源离散目标](../conferences/icml-2026/cards/5401-5500.md#yang26cv-training-strategies) · SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations
 - [融合浅层特征时隔离skip梯度](../conferences/icml-2026/cards/5601-5700.md#yuan26n-training-strategies) · Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR
 - [按工具规划和作答阶段屏蔽不同视频上下文](../conferences/icml-2026/cards/5701-5800.md#zeng26y-training-strategies) · Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning
+- [仅在可诊断的单调漂移范围更新对齐](../conferences/icml-2026/cards/5801-5900.md#zhang26bo-training-strategies) · Stable Spectral Copula Alignment for Robust Multimodal Learning
 
 <a id="by-ml-foundations"></a>
 

@@ -373,6 +373,7 @@
 - [用跨语境一致性辅助审计异常低能力](../conferences/icml-2026/cards/5601-5700.md#yulong26a-evaluation) · Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection
 - [分开度量推理动作模仿与问题分解收益](../conferences/icml-2026/cards/5701-5800.md#zeng26x-evaluation) · ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning
 - [记忆匹配后的近远迁移剖面](../conferences/icml-2026/cards/5701-5800.md#zhang26u-evaluation) · The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms
+- [从少量source模型隐状态构造benchmark小集](../conferences/icml-2026/cards/5701-5800.md#zhang26bj-evaluation) · Learning More from Less: Unlocking Internal Representations for Benchmark Compression
 
 <a id="by-computer-vision"></a>
 
@@ -446,6 +447,7 @@
 - [隐私审计应检测模板结构而非只查逐像素拷贝](../conferences/icml-2026/cards/5501-5600.md#yarkoni26a-evaluation) · Reconstructing Template-Memorized Images from Natural Prompts
 - [用局部而非全局维度诊断表示对齐](../conferences/icml-2026/cards/5601-5700.md#yu26ag-evaluation) · Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain
 - [时间注意力低秩与运动衰退的诊断](../conferences/icml-2026/cards/5601-5700.md#yu26bn-evaluation) · MEDUSA: Motion Elimination in Diffusion Using Spectral Attack
+- [把连通碎裂显式接入分割评分](../conferences/icml-2026/cards/5801-5900.md#zhang26br-evaluation) · T-measure: A Topology-Consistent Metric for Binary Segmentation
 
 <a id="by-nlp"></a>
 

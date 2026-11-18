@@ -129,6 +129,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Motion Attribution for Video Generation](../../conferences/icml-2026/cards/5001-5100.md#wu26aq-data-strategies) · 中文
 - [DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery](../../conferences/icml-2026/cards/5101-5200.md#xia26g-data-strategies) · 中文
 - [CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos](../../conferences/icml-2026/cards/5101-5200.md#xiao26u-data-strategies) · 中文
+- [What Makes Synthetic Data Effective in Image Segmentation](../../conferences/icml-2026/cards/5701-5800.md#zhang26be-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -247,6 +248,7 @@ Data selection, annotation, augmentation, and sampling.
 - [ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning](../../conferences/icml-2026/cards/5301-5400.md#yang26ao-data-strategies) · 中文
 - [Data Agent: Learning to Select Data via End-to-End Dynamic Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26bq-data-strategies) · 中文
 - [AvAtar: Learning to Align via Active Optimal Transport](../../conferences/icml-2026/cards/5601-5700.md#yu26aq-data-strategies) · 中文
+- [MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](../../conferences/icml-2026/cards/5801-5900.md#zhang26bv-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
