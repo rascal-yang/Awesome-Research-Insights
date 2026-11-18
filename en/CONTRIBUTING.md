@@ -47,6 +47,12 @@ Use integer scores from 0 to 5. Scores 1, 2, and 4 describe intermediate cases. 
 
 Select by total score. Break ties by added contribution, reuse, usability, and distinctness, in that order. Reassess any remaining tie at the cutoff and record the final selection reason. Record exclusions in the manifest, naming representatives for redundant mechanisms and identifying ranking-based exclusions explicitly.
 
+### Cross-domain screening for multimodal learning, agents, and embodied intelligence
+
+Screen CoRL, CVPR, NeurIPS, and AAAI by title and abstract first. Before a full read, identify the technical choice the paper could change, the inputs and assumptions required for transfer, and a baseline, metric, and possible failure condition. Theory and negative results qualify if they change an experiment or rule out a technical choice.
+
+Scientific deep learning papers enter full review when the abstract identifies a shared bottleneck and a concrete transfer path. Check for duplicate papers and mechanisms across venues. Keep a separate card only if it adds an application condition, conflicting evidence, or a more informative control. Apply the inclusion criteria before scoring and treat the top 50% as a cap.
+
 ## Add or revise a card
 
 1. Search by paper title and identifier. When a preprint and proceedings paper describe the same work, update the sources in its existing card.
