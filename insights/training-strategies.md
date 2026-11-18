@@ -240,6 +240,7 @@
 - [用动作分布漂移动态调节在线 RL 批大小](../conferences/icml-2026/cards/3501-3600.md#park26w-training-strategies) · Scalable Reinforcement Learning via Adaptive Batch Scaling
 - [用未来状态把多解动作拆成条件选择](../conferences/icml-2026/cards/3901-4000.md#schafer26a-training-strategies) · When Does Predictive Inverse Dynamics Outperform Behavior Cloning?
 - [有置信门控的奖励补全](../conferences/icml-2026/cards/4101-4200.md#shihab26d-training-strategies) · What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion
+- [TD误差累计均值的平方根熵调度](../conferences/icml-2026/cards/4801-4900.md#wang26jc-training-strategies) · Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -321,6 +322,7 @@
 - [answer-coupled-video-localization](../conferences/icml-2026/cards/4501-4600.md#wang26e-training-strategies) · Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning
 - [Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../conferences/icml-2026/cards/4601-4700.md#wang26u-training-strategies) · Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding
 - [参考视觉视野对齐作为课程和奖励](../conferences/icml-2026/cards/4701-4800.md#wang26gt-training-strategies) · Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment
+- [共享前缀的局部视频候选排名](../conferences/icml-2026/cards/4801-4900.md#wang26iu-training-strategies) · WorldCompass: Reinforcement Learning for Long-Horizon World Models
 
 <a id="by-ml-foundations"></a>
 

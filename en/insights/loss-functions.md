@@ -127,6 +127,7 @@ Objectives, auxiliary supervision, and regularization.
 - [SVL: Goal-Conditioned Reinforcement Learning as Survival Learning](../../conferences/icml-2026/cards/4401-4500.md#tiofack26a-loss-functions) · 中文
 - [Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction](../../conferences/icml-2026/cards/4701-4800.md#wang26dp-loss-functions) · 中文
 - [Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning](../../conferences/icml-2026/cards/4801-4900.md#wang26if-loss-functions) · 中文
+- [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](../../conferences/icml-2026/cards/4801-4900.md#wang26jf-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -182,6 +183,8 @@ Objectives, auxiliary supervision, and regularization.
 - [IBMA: Information Bottleneck-Based Multimodal Alignment](../../conferences/icml-2026/cards/4601-4700.md#wang26at-loss-functions) · 中文
 - [Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling](../../conferences/icml-2026/cards/4601-4700.md#wang26de-loss-functions) · 中文
 - [Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26di-loss-functions) · 中文
+- [REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation](../../conferences/icml-2026/cards/4801-4900.md#wang26iv-loss-functions) · 中文
+- [Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](../../conferences/icml-2026/cards/4801-4900.md#wang26ja-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

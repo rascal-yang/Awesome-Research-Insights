@@ -422,6 +422,7 @@
 - <a id="wang26hl-reinforcement-learning"></a>[d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hl)
 - <a id="wang26hy-reinforcement-learning"></a>[Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hy)
 - <a id="wang26in-reinforcement-learning"></a>[Reward Modeling from Natural Language Human Feedback](../conferences/icml-2026/cards/4801-4900.md#paper-wang26in)
+- <a id="wang26jg-reinforcement-learning"></a>[On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jg)
 
 <a id="by-training-strategies"></a>
 
@@ -957,6 +958,8 @@
 - <a id="wang26hn-inference"></a>[SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hn)
 - <a id="wang26hz-inference"></a>[Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hz)
 - <a id="wang26ic-inference"></a>[Prism: Spectral-Aware Block-Sparse Attention](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ic)
+- <a id="wang26ir-inference"></a>[Sparser Block-Sparse Attention via Token Permutation](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ir)
+- <a id="wang26iw-inference"></a>[SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iw)
 
 <a id="by-representation-learning"></a>
 

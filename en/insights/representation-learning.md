@@ -92,6 +92,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26aa-representation-learning) · 中文
 - [PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation](../../conferences/icml-2026/cards/4601-4700.md#wang26cn-representation-learning) · 中文
 - [FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](../../conferences/icml-2026/cards/4701-4800.md#wang26gp-representation-learning) · 中文
+- [Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection](../../conferences/icml-2026/cards/4801-4900.md#wang26it-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -258,6 +259,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SCOUT: Cyclic Causal Discovery Under Soft Interventions with Unknown Targets](../../conferences/icml-2026/cards/4501-4600.md#turkoglu26a-representation-learning) · 中文
 - [Robust Causal Discovery in Real-World Time Series with Power-Laws](../../conferences/icml-2026/cards/4501-4600.md#tusoni26a-representation-learning) · 中文
 - [Zero-Flow Encoders](../../conferences/icml-2026/cards/4801-4900.md#wang26ie-representation-learning) · 中文
+- [Mixing Configurations for Downstream Prediction](../../conferences/icml-2026/cards/4801-4900.md#wang26iz-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

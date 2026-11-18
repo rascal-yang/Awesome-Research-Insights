@@ -422,6 +422,7 @@
 - [不确定精英权重的条件期望](../conferences/icml-2026/cards/4701-4800.md#wang26ff-optimization) · Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies
 - [正交化之后取符号的矩阵更新](../conferences/icml-2026/cards/4701-4800.md#wang26gq-optimization) · OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases
 - [公平共享梯度的逐步混入](../conferences/icml-2026/cards/4801-4900.md#wang26ii-optimization) · FedEBA+: Towards Fair and Effective Federated Learning via Entropy-Based Model
+- [有符号幂梯度的噪声依赖选参](../conferences/icml-2026/cards/4801-4900.md#wang26is-optimization) · GradPower: Powering Gradients for Faster Language Model Pre-Training
 
 <a id="by-graph-and-recommendation"></a>
 

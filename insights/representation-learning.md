@@ -92,6 +92,7 @@
 - [DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../conferences/icml-2026/cards/4601-4700.md#wang26aa-representation-learning) · DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning
 - [复数相位跨模态对齐](../conferences/icml-2026/cards/4601-4700.md#wang26cn-representation-learning) · PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation
 - [类别特征梯度匹配的联邦多原型](../conferences/icml-2026/cards/4701-4800.md#wang26gp-representation-learning) · FedHPro: Federated Hyper-Prototype Learning via Gradient Matching
+- [实图离散锚点的法向残差](../conferences/icml-2026/cards/4801-4900.md#wang26it-representation-learning) · Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection
 
 <a id="by-nlp"></a>
 
@@ -258,6 +259,7 @@
 - [soft-intervention-cyclic-discovery](../conferences/icml-2026/cards/4501-4600.md#turkoglu26a-representation-learning) · SCOUT: Cyclic Causal Discovery Under Soft Interventions with Unknown Targets
 - [spectral-causal-features](../conferences/icml-2026/cards/4501-4600.md#tusoni26a-representation-learning) · Robust Causal Discovery in Real-World Time Series with Power-Laws
 - [中点速度约束的表示学习](../conferences/icml-2026/cards/4801-4900.md#wang26ie-representation-learning) · Zero-Flow Encoders
+- [能量统计引导的多分辨率聚类混合](../conferences/icml-2026/cards/4801-4900.md#wang26iz-representation-learning) · Mixing Configurations for Downstream Prediction
 
 <a id="by-graph-and-recommendation"></a>
 

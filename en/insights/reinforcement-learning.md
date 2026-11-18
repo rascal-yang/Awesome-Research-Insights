@@ -180,6 +180,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation](../../conferences/icml-2026/cards/4801-4900.md#wang26hl-reinforcement-learning) · 中文
 - [Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26hy-reinforcement-learning) · 中文
 - [Reward Modeling from Natural Language Human Feedback](../../conferences/icml-2026/cards/4801-4900.md#wang26in-reinforcement-learning) · 中文
+- [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26jg-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -443,6 +444,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26ep-reinforcement-learning) · 中文
 - [Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation](../../conferences/icml-2026/cards/4701-4800.md#wang26fe-reinforcement-learning) · 中文
 - [Reason with Thumbnails, Answer with Focus: An Efficient and Effective Paradigm for Multimodal Grounded Visual Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26hh-reinforcement-learning) · 中文
+- [Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](../../conferences/icml-2026/cards/4801-4900.md#wang26ip-reinforcement-learning) · 中文
+- [Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/4801-4900.md#wang26ji-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

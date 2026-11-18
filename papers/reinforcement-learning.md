@@ -49,6 +49,7 @@
 - <a id="tiofack26a-loss-functions"></a>[SVL: Goal-Conditioned Reinforcement Learning as Survival Learning](../conferences/icml-2026/cards/4401-4500.md#paper-tiofack26a)
 - <a id="wang26dp-loss-functions"></a>[Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dp)
 - <a id="wang26if-loss-functions"></a>[Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26if)
+- <a id="wang26jf-loss-functions"></a>[RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jf)
 
 <a id="by-optimization"></a>
 
@@ -209,6 +210,7 @@
 - <a id="park26w-training-strategies"></a>[Scalable Reinforcement Learning via Adaptive Batch Scaling](../conferences/icml-2026/cards/3501-3600.md#paper-park26w)
 - <a id="schafer26a-training-strategies"></a>[When Does Predictive Inverse Dynamics Outperform Behavior Cloning?](../conferences/icml-2026/cards/3901-4000.md#paper-schafer26a)
 - <a id="shihab26d-training-strategies"></a>[What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion](../conferences/icml-2026/cards/4101-4200.md#paper-shihab26d)
+- <a id="wang26jc-training-strategies"></a>[Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jc)
 
 <a id="by-data-strategies"></a>
 

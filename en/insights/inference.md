@@ -327,6 +327,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation](../../conferences/icml-2026/cards/4801-4900.md#wang26hn-inference) · 中文
 - [Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](../../conferences/icml-2026/cards/4801-4900.md#wang26hz-inference) · 中文
 - [Prism: Spectral-Aware Block-Sparse Attention](../../conferences/icml-2026/cards/4801-4900.md#wang26ic-inference) · 中文
+- [Sparser Block-Sparse Attention via Token Permutation](../../conferences/icml-2026/cards/4801-4900.md#wang26ir-inference) · 中文
+- [SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving](../../conferences/icml-2026/cards/4801-4900.md#wang26iw-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -441,6 +443,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Training-Free Rate-Distortion-Perception Traversal With Diffusion](../../conferences/icml-2026/cards/4501-4600.md#wang26i-inference) · 中文
 - [Elastic Diffusion Transformer](../../conferences/icml-2026/cards/4601-4700.md#wang26dd-inference) · 中文
 - [CSD: Content-aware Speculative Decoding for Efficient Image Generation](../../conferences/icml-2026/cards/4701-4800.md#wang26gi-inference) · 中文
+- [ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation](../../conferences/icml-2026/cards/4801-4900.md#wang26ix-inference) · 中文
 
 <a id="by-nlp"></a>
 

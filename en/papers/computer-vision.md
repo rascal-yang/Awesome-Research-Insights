@@ -125,6 +125,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26cx-modules"></a>[EvReflection: Event-Driven Micro-Dynamics for Reflection Removal](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cx)
 - <a id="wang26hr-modules"></a>[Degradation-Aware Metric Prompting for Hyperspectral Image Restoration](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hr)
 - <a id="wang26hx-modules"></a>[Butterworth as Attention: Anisotropic Spectral Gating for Pansharpening](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hx)
+- <a id="wang26iy-modules"></a>[Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26iy)
 
 <a id="by-loss-functions"></a>
 
@@ -439,6 +440,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26i-inference"></a>[Training-Free Rate-Distortion-Perception Traversal With Diffusion](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26i)
 - <a id="wang26dd-inference"></a>[Elastic Diffusion Transformer](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dd)
 - <a id="wang26gi-inference"></a>[CSD: Content-aware Speculative Decoding for Efficient Image Generation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gi)
+- <a id="wang26ix-inference"></a>[ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ix)
 
 <a id="by-representation-learning"></a>
 
@@ -501,6 +503,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26aa-representation-learning"></a>[DiL: Discrete-anchored Representation Alignment for Semi-Supervised Continual Learning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26aa)
 - <a id="wang26cn-representation-learning"></a>[PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cn)
 - <a id="wang26gp-representation-learning"></a>[FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gp)
+- <a id="wang26it-representation-learning"></a>[Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26it)
 
 <a id="by-evaluation"></a>
 

@@ -579,6 +579,7 @@
 - [frequency-aligned-matrix-sign](../conferences/icml-2026/cards/4701-4800.md#wang26dx-theory-statistics) · Muon in Associative Memory Learning: Training Dynamics and Scaling Laws
 - [干扰网络下的策略值区间](../conferences/icml-2026/cards/4701-4800.md#wang26ez-theory-statistics) · Partial Identification of Policy Values under Network Interference
 - [固定步长的稳态近似误差](../conferences/icml-2026/cards/4801-4900.md#wang26il-theory-statistics) · Steady-State Behavior of Constant-Stepsize Stochastic Approximation: Gaussian Approximation and Tail Bounds
+- [视频动力学的同水平三斜率条件](../conferences/icml-2026/cards/4801-4900.md#wang26iq-theory-statistics) · Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions
 
 <a id="by-graph-and-recommendation"></a>
 

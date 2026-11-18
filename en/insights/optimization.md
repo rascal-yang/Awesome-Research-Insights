@@ -422,6 +422,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Depth over Fidelity in Fixed-Budget Noisy Evolution Strategies](../../conferences/icml-2026/cards/4701-4800.md#wang26ff-optimization) · 中文
 - [OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases](../../conferences/icml-2026/cards/4701-4800.md#wang26gq-optimization) · 中文
 - [FedEBA+: Towards Fair and Effective Federated Learning via Entropy-Based Model](../../conferences/icml-2026/cards/4801-4900.md#wang26ii-optimization) · 中文
+- [GradPower: Powering Gradients for Faster Language Model Pre-Training](../../conferences/icml-2026/cards/4801-4900.md#wang26is-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

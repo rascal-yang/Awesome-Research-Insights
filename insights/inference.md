@@ -327,6 +327,8 @@
 - [句级固定核心神经元](../conferences/icml-2026/cards/4801-4900.md#wang26hn-inference) · SparseInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation
 - [句边界编辑与干预预算](../conferences/icml-2026/cards/4801-4900.md#wang26hz-inference) · Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories
 - [频带分离的注意力块选择](../conferences/icml-2026/cards/4801-4900.md#wang26ic-inference) · Prism: Spectral-Aware Block-Sparse Attention
+- [段内重排重键以提高块稀疏度](../conferences/icml-2026/cards/4801-4900.md#wang26ir-inference) · Sparser Block-Sparse Attention via Token Permutation
+- [可预测证明状态与纯空间拆分](../conferences/icml-2026/cards/4801-4900.md#wang26iw-inference) · SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving
 
 <a id="by-computer-vision"></a>
 
@@ -441,6 +443,7 @@
 - [score-scaled-compression-decoder](../conferences/icml-2026/cards/4501-4600.md#wang26i-inference) · Training-Free Rate-Distortion-Perception Traversal With Diffusion
 - [路由边界触发的残差缓存](../conferences/icml-2026/cards/4601-4700.md#wang26dd-inference) · Elastic Diffusion Transformer
 - [熵与分布差共同控制投机接受](../conferences/icml-2026/cards/4701-4800.md#wang26gi-inference) · CSD: Content-aware Speculative Decoding for Efficient Image Generation
+- [跨尺度与位通道选择性擦除](../conferences/icml-2026/cards/4801-4900.md#wang26ix-inference) · ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation
 
 <a id="by-nlp"></a>
 

@@ -240,6 +240,7 @@ Training schedules, curricula, and task or stage composition.
 - [Scalable Reinforcement Learning via Adaptive Batch Scaling](../../conferences/icml-2026/cards/3501-3600.md#park26w-training-strategies) · 中文
 - [When Does Predictive Inverse Dynamics Outperform Behavior Cloning?](../../conferences/icml-2026/cards/3901-4000.md#schafer26a-training-strategies) · 中文
 - [What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion](../../conferences/icml-2026/cards/4101-4200.md#shihab26d-training-strategies) · 中文
+- [Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26jc-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -321,6 +322,7 @@ Training schedules, curricula, and task or stage composition.
 - [Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning](../../conferences/icml-2026/cards/4501-4600.md#wang26e-training-strategies) · 中文
 - [Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../../conferences/icml-2026/cards/4601-4700.md#wang26u-training-strategies) · 中文
 - [Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment](../../conferences/icml-2026/cards/4701-4800.md#wang26gt-training-strategies) · 中文
+- [WorldCompass: Reinforcement Learning for Long-Horizon World Models](../../conferences/icml-2026/cards/4801-4900.md#wang26iu-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

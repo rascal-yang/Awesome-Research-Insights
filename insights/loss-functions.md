@@ -127,6 +127,7 @@
 - [删失轨迹的生存价值学习](../conferences/icml-2026/cards/4401-4500.md#tiofack26a-loss-functions) · SVL: Goal-Conditioned Reinforcement Learning as Survival Learning
 - [distributional-error-weighting](../conferences/icml-2026/cards/4701-4800.md#wang26dp-loss-functions) · Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction
 - [持续时间排序的多尺度潜空间](../conferences/icml-2026/cards/4801-4900.md#wang26if-loss-functions) · Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning
+- [结果与过程一致性的评价器奖励](../conferences/icml-2026/cards/4801-4900.md#wang26jf-loss-functions) · RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System
 
 <a id="by-robotics"></a>
 
@@ -182,6 +183,8 @@
 - [各模态自身的信息瓶颈对齐](../conferences/icml-2026/cards/4601-4700.md#wang26at-loss-functions) · IBMA: Information Bottleneck-Based Multimodal Alignment
 - [低熵视图单向指导高熵视图](../conferences/icml-2026/cards/4601-4700.md#wang26de-loss-functions) · Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling
 - [wasserstein-group-variance](../conferences/icml-2026/cards/4601-4700.md#wang26di-loss-functions) · Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models
+- [因果学生的逐帧流速度蒸馏](../conferences/icml-2026/cards/4801-4900.md#wang26iv-loss-functions) · REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation
+- [生成跨模态锚点约束遗忘边界](../conferences/icml-2026/cards/4801-4900.md#wang26ja-loss-functions) · Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning
 
 <a id="by-ml-foundations"></a>
 

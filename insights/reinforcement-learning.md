@@ -180,6 +180,7 @@
 - [扩散揭示轨迹的似然估计](../conferences/icml-2026/cards/4801-4900.md#wang26hl-reinforcement-learning) · d2: Improving Reasoning in Diffusion Language Models via Trajectory Likelihood Estimation
 - [行为逆频率奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26hy-reinforcement-learning) · Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning
 - [结果门控的核心批评奖励](../conferences/icml-2026/cards/4801-4900.md#wang26in-reinforcement-learning) · Reward Modeling from Natural Language Human Feedback
+- [按局部熵变化判别量裁剪token](../conferences/icml-2026/cards/4801-4900.md#wang26jg-reinforcement-learning) · On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -443,6 +444,8 @@
 - [证据更新收益激励视觉奖励模型](../conferences/icml-2026/cards/4701-4800.md#wang26ep-reinforcement-learning) · VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning
 - [执行修改后再计算奖励](../conferences/icml-2026/cards/4701-4800.md#wang26fe-reinforcement-learning) · Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation
 - [正确且免工具的条件效率奖励](../conferences/icml-2026/cards/4701-4800.md#wang26hh-reinforcement-learning) · Reason with Thumbnails, Answer with Focus: An Efficient and Effective Paradigm for Multimodal Grounded Visual Reasoning
+- [图路径与证据标签控制梯度屏蔽](../conferences/icml-2026/cards/4801-4900.md#wang26ip-reinforcement-learning) · Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph
+- [盲文本解题代理的模态奖励路由](../conferences/icml-2026/cards/4801-4900.md#wang26ji-reinforcement-learning) · Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning
 
 <a id="by-ml-foundations"></a>
 

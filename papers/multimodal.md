@@ -113,6 +113,8 @@
 - <a id="wang26at-loss-functions"></a>[IBMA: Information Bottleneck-Based Multimodal Alignment](../conferences/icml-2026/cards/4601-4700.md#paper-wang26at)
 - <a id="wang26de-loss-functions"></a>[Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling](../conferences/icml-2026/cards/4601-4700.md#paper-wang26de)
 - <a id="wang26di-loss-functions"></a>[Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26di)
+- <a id="wang26iv-loss-functions"></a>[REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iv)
+- <a id="wang26ja-loss-functions"></a>[Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ja)
 
 <a id="by-optimization"></a>
 
@@ -187,6 +189,8 @@
 - <a id="wang26ep-reinforcement-learning"></a>[VR-Thinker: Boosting Video Reward Models through Think-with-Image Reasoning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ep)
 - <a id="wang26fe-reinforcement-learning"></a>[Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fe)
 - <a id="wang26hh-reinforcement-learning"></a>[Reason with Thumbnails, Answer with Focus: An Efficient and Effective Paradigm for Multimodal Grounded Visual Reasoning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26hh)
+- <a id="wang26ip-reinforcement-learning"></a>[Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ip)
+- <a id="wang26ji-reinforcement-learning"></a>[Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ji)
 
 <a id="by-training-strategies"></a>
 
@@ -246,6 +250,7 @@
 - <a id="wang26e-training-strategies"></a>[Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning](../conferences/icml-2026/cards/4501-4600.md#paper-wang26e)
 - <a id="wang26u-training-strategies"></a>[Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../conferences/icml-2026/cards/4601-4700.md#paper-wang26u)
 - <a id="wang26gt-training-strategies"></a>[Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gt)
+- <a id="wang26iu-training-strategies"></a>[WorldCompass: Reinforcement Learning for Long-Horizon World Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iu)
 
 <a id="by-data-strategies"></a>
 
