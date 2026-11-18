@@ -31,8 +31,8 @@ number	openreview_id	title	paper_url	reason	status
 30	qKU6lifnPU	CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts	https://openreview.net/forum?id=qKU6lifnPU	分开用传感器可用性与任务意图路由专家	included
 31	3M39Fmw8Mx	FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models	https://openreview.net/forum?id=3M39Fmw8Mx	按预测交互阶段调整全局相机与腕部相机的权重	included
 32	X2mRYIgshj	DualSpace-VLA: Coupling Cartesian-Space Motion Intent with Joint-Space Execution in Vision-Language-Action Policies	https://openreview.net/forum?id=X2mRYIgshj	用末端位移监督动作意图并直接生成关节轨迹	included
-33	HvKifHMHcM	GeomVLA: Unifying Scene, Motion, and Action in 3D	https://openreview.net/forum?id=HvKifHMHcM		pending
-34	Z04KxYWC6V	SAGE-3D: Semantic-Aware 3D Representations for Generalizable Vision-Language-Action Models	https://openreview.net/forum?id=Z04KxYWC6V		pending
+33	HvKifHMHcM	GeomVLA: Unifying Scene, Motion, and Action in 3D	https://openreview.net/forum?id=HvKifHMHcM	让场景、未来运动和动作共用机器人坐标系	included
+34	Z04KxYWC6V	SAGE-3D: Semantic-Aware 3D Representations for Generalizable Vision-Language-Action Models	https://openreview.net/forum?id=Z04KxYWC6V	用任务语义组织深度特征再调制动作头	included
 35	mG3eBTsBiG	X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Model Pretraining	https://openreview.net/forum?id=mG3eBTsBiG	按量化层区分动作意图与运动细节	included
 36	uhnmcdamCa	NAC: Neural Action Codec for Vision-Language-Action Models	https://openreview.net/forum?id=uhnmcdamCa	借用神经音频编解码结构时按运动信号重选重建损失	included
 37	wRLEgpRnVR	ActionCodec: What Makes for Good Action Tokenizers	https://openreview.net/forum?id=wRLEgpRnVR	用下游训练难度和闭环指标一起选动作 tokenizer	included
