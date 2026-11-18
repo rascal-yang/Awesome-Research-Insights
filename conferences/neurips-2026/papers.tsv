@@ -22,7 +22,7 @@ poster_id	title	paper_url	status	reason
 151818	$\textbf{EchMo}$: End-to-End Radar Echo Segmentation	https://neurips.cc/virtual/2026/poster/151818	included	把雷达处理阶段参数化成可微模块，联合优化分割。
 151747	$\text{PartConcepts}$: A Unified Mechanism for Fine-Grained Part Localization and Generation	https://neurips.cc/virtual/2026/poster/151747	included	训练部件专用 token 提高细粒度属性绑定。
 148783	$\texttt{bispectrum}$: Selective $G$-Bispectra Made Practical	https://neurips.cc/virtual/2026/poster/148783	included	在已知对称群的任务中测试选择性双谱池化。
-151375	$\texttt{RNAGenScape}$: property-guided, optimized generation of mRNA sequences with manifold Langevin dynamics	https://neurips.cc/virtual/2026/poster/151375	pending	-
+151375	$\texttt{RNAGenScape}$: property-guided, optimized generation of mRNA sequences with manifold Langevin dynamics	https://neurips.cc/virtual/2026/poster/151375	excluded	摘要核心是优化生物序列的设计流程，未提取适合公开入库的独立技术卡。
 154745	$\varphi$TD: Distributional Reinforcement Learning using Characteristic Functions	https://neurips.cc/virtual/2026/poster/154745	included	需要连续多峰回报时用特征函数损失。
 154751	2D Spatial Reasoning with Adaptive Neural Cellular Automata	https://neurips.cc/virtual/2026/poster/154751	included	把固定局部传播改成可动态改变感受野的迭代推理。
 150442	2-Step Agent: How a Bayesian Decision Maker Learns from AI-Decision Support	https://neurips.cc/virtual/2026/poster/150442	included	评估模型辅助时扫描用户先验与真实参数的错配。
@@ -32,7 +32,7 @@ poster_id	title	paper_url	status	reason
 152512	3D Consistency Tokens	https://neurips.cc/virtual/2026/poster/152512	included	将跨视图匹配建立在共享三维位置上。
 155228	3D Fresnel Volumizing for Efficient Implicit Velocity Field Reconstruction	https://neurips.cc/virtual/2026/poster/155228	included	把沿射线的稀疏梯度扩展到物理相关的邻域。
 156149	3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields	https://neurips.cc/virtual/2026/poster/156149	included	对高斯颜色施加连续场约束，减轻颜色对几何错误的补偿。
-156034	3D Molecule Generation from Rigid Motifs via $\mathrm{SE}(3)$ Flows	https://neurips.cc/virtual/2026/poster/156034	pending	-
+156034	3D Molecule Generation from Rigid Motifs via $\mathrm{SE}(3)$ Flows	https://neurips.cc/virtual/2026/poster/156034	included	比较刚性片段和单原子两种建模粒度。
 148954	3D-PLOT-LLM: Part-Level Object Tokens for 3D Large Language Models	https://neurips.cc/virtual/2026/poster/148954	included	用可引用词表槽位把部件作为语言模型输入和输出中的实体。
 151080	3D Point Splatting for mmWave Radar Novel View Synthesis	https://neurips.cc/virtual/2026/poster/151080	included	保留复相位再派生雷达产品
 152761	3D Skew Normal Splatting	https://neurips.cc/virtual/2026/poster/152761	included	在非对称边界用可学习偏斜原语
@@ -48,7 +48,7 @@ poster_id	title	paper_url	status	reason
 148310	ABC-Align: Prediction-Powered Alignment with Adaptive Bias Control	https://neurips.cc/virtual/2026/poster/148310	included	按偏差与方差动态调节人工纠偏强度
 150308	ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space	https://neurips.cc/virtual/2026/poster/150308	included	把扩散推进时间与物理时间对齐
 139047	A Benchmark for Omni-Modal Reasoning in Long Videos	https://neurips.cc/virtual/2026/poster/139047	included	用分项证据量表区分视觉、语音和环境声失败
-152550	AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion	https://neurips.cc/virtual/2026/poster/152550	pending	-
+152550	AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion	https://neurips.cc/virtual/2026/poster/152550	excluded	研究聚焦抗体序列和靶标结合优化。本批未形成可单独收录的通用技术卡。
 139180	ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective	https://neurips.cc/virtual/2026/poster/139180	included	用匹配场景检验旁观判断能否预测作为行动者的选择
 151803	A Biconvex Formulation for Stable Transport of Mixture Models with a Unique Solution	https://neurips.cc/virtual/2026/poster/151803	included	将传输基本单位换成子群而非样本。
 155947	A Bitter Lesson for Data Filtering	https://neurips.cc/virtual/2026/poster/155947	included	在高算力且数据稀缺时，把不过滤作为等预算预训练对照。
@@ -75,7 +75,7 @@ poster_id	title	paper_url	status	reason
 150094	ACD-GS: Asymmetric Curvature-aware Densification for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/150094	included	按深度曲率决定高斯克隆与分裂
 154537	ACDP: Architecture-aware Cross-Dataset Performance Predictor for NAS	https://neurips.cc/virtual/2026/poster/154537	included	让架构特征决定数据集的表征方式
 154560	ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence	https://neurips.cc/virtual/2026/poster/154560	included	用形式化世界检验智能体选实验、保留证据及停止的能力
-151500	ACER: Towards Generalizable Protein-ligand Co-folding	https://neurips.cc/virtual/2026/poster/151500	pending	-
+151500	ACER: Towards Generalizable Protein-ligand Co-folding	https://neurips.cc/virtual/2026/poster/151500	excluded	研究聚焦蛋白质与配体结合界面的预测改进。本批未形成可单独收录的通用技术卡。
 148646	A Characterization of Latent Variable Causal Models Consistent with Observational Data	https://neurips.cc/virtual/2026/poster/148646	included	在整个潜变量因果等价类上优化反事实范围
 154129	Achieve Latency-Efficient Temporal-Coding  Spiking LLMs via Discretization-Aware Conversion	https://neurips.cc/virtual/2026/poster/154129	included	以静态量化误差分析离散首次脉冲时间编码
 156739	Achieving adaptivity and optimality for multi-armed bandits using Exponential-Kullback Leibler Maillard Sampling	https://neurips.cc/virtual/2026/poster/156739	included	分布属于单参数指数族时同时考察多种遗憾标准
@@ -91,39 +91,39 @@ poster_id	title	paper_url	status	reason
 152347	A Constrained Bi-level Optimization Framework for Constrained Preference-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152347	included	从反馈同时学习奖励与约束成本，而非预设约束成本
 154268	A Control-Theoretic Approximation to Predictive Coding Dynamics	https://neurips.cc/virtual/2026/poster/154268	included	在接近平衡时用集中反馈近似预测编码
 139542	AcousticBench: Measuring Acoustic Perception in Large Audio Language Models	https://neurips.cc/virtual/2026/poster/139542	included	用无词汇声学对照隔离听觉能力
-154964	ACQueReLlo: Alignment-Aware Constrained Quantization via Reinforcement Learning for Large Language Models	https://neurips.cc/virtual/2026/poster/154964	pending	-
+154964	ACQueReLlo: Alignment-Aware Constrained Quantization via Reinforcement Learning for Large Language Models	https://neurips.cc/virtual/2026/poster/154964	included	选择混合位宽时同时约束能力、拒答与误拒。
 150320	A Critical $\beta$-Scale for Posterior Collapse in Dirichlet $\beta$-VAEs	https://neurips.cc/virtual/2026/poster/150320	included	先估计坍塌阈值再搜索正则
-148925	A Cross-Interaction Neural Architecture for Submodular Functions	https://neurips.cc/virtual/2026/poster/148925	pending	-
+148925	A Cross-Interaction Neural Architecture for Submodular Functions	https://neurips.cc/virtual/2026/poster/148925	included	在保留单调次模性的同时显式建模成对交互。
 139556	Acting without Knowing: Planning, Prediction, and Transfer Dissociate in Interactive Visual Physics	https://neurips.cc/virtual/2026/poster/139556	included	同一场景分别测行动、预测和迁移
-155358	Actionable Hallucination Detection: Translating Latent Uncertainty into Agentic Critique	https://neurips.cc/virtual/2026/poster/155358	pending	-
+155358	Actionable Hallucination Detection: Translating Latent Uncertainty into Agentic Critique	https://neurips.cc/virtual/2026/poster/155358	included	用并行小型诊断头输出错误位置及原因以支持执行前纠偏。
 154625	Action Chunking Proximal Policy Optimization with Feedback Correction	https://neurips.cc/virtual/2026/poster/154625	included	用标准状态价值并在块内闭环纠偏
-150968	Action Images: End-to-End Policy Learning via Multiview Video Generation	https://neurips.cc/virtual/2026/poster/150968	pending	-
+150968	Action Images: End-to-End Policy Learning via Multiview Video Generation	https://neurips.cc/virtual/2026/poster/150968	included	把控制轨迹渲染为多视角动作图像，使视频骨干直接预测控制。
 153538	Action-Level Behavior Policy Optimization for Variance-Reduced Policy Gradients	https://neurips.cc/virtual/2026/poster/153538	included	固定状态分布后改行动提议分布
-148195	Action-On-Item Preference Flow: A Shared Event Schema for Predictive and Generative Personalization	https://neurips.cc/virtual/2026/poster/148195	pending	-
-149076	ActionUNet: Improving Robustness of VLA Models with Efficient Multi-scale Fine-tuning	https://neurips.cc/virtual/2026/poster/149076	pending	-
-150979	Activation Functions Shape Token Synchronization in Stochastic Transformer Dynamics	https://neurips.cc/virtual/2026/poster/150979	pending	-
-150198	Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control	https://neurips.cc/virtual/2026/poster/150198	pending	-
+148195	Action-On-Item Preference Flow: A Shared Event Schema for Predictive and Generative Personalization	https://neurips.cc/virtual/2026/poster/148195	included	把多任务交互写成统一事件并分开维护长期、短期和情节痕迹。
+149076	ActionUNet: Improving Robustness of VLA Models with Efficient Multi-scale Fine-tuning	https://neurips.cc/virtual/2026/poster/149076	included	多尺度融合后用连续动作解码约束二阶平滑。
+150979	Activation Functions Shape Token Synchronization in Stochastic Transformer Dynamics	https://neurips.cc/virtual/2026/poster/150979	included	在模型深度增长时检查激活选择是否改变 token 表示同步。
+150198	Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control	https://neurips.cc/virtual/2026/poster/150198	included	按生成过程的反馈约束干预幅度，兼顾内容安全与视频质量。
 151058	Active Context Selection Improves Simple Regret in Contextual Bandits	https://neurips.cc/virtual/2026/poster/151058	included	主动抽样按目标人群权重的三分之二次幂分配
-153257	Active Corpus Selection for Training Subgraph Retrievers Using OOD Queries	https://neurips.cc/virtual/2026/poster/153257	pending	-
-148624	Active Flow Expansion for Out-of-Distribution Discovery: from Theory to Molecules	https://neurips.cc/virtual/2026/poster/148624	pending	-
+153257	Active Corpus Selection for Training Subgraph Retrievers Using OOD Queries	https://neurips.cc/virtual/2026/poster/153257	included	在精确匹配预算极低且正例稀少时优先获取正例标签。
+148624	Active Flow Expansion for Out-of-Distribution Discovery: from Theory to Molecules	https://neurips.cc/virtual/2026/poster/148624	excluded	摘要中的主要实证聚焦扩展生物分子设计空间，本批未提取可独立核实的通用安全应用。
 152553	Active Learning as Nullspace Regulation: A Spectral Representation Perspective	https://neurips.cc/virtual/2026/poster/152553	included	选择跨轮次仍处在标注表示弱覆盖方向的样本。
-149778	Active Learning for Conditional Generative Compressed Sensing	https://neurips.cc/virtual/2026/poster/149778	pending	-
-152717	Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights	https://neurips.cc/virtual/2026/poster/152717	pending	-
-154434	Active Learning From Positive and Unlabeled Examples	https://neurips.cc/virtual/2026/poster/154434	pending	-
-151935	Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel	https://neurips.cc/virtual/2026/poster/151935	pending	-
-156770	Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval	https://neurips.cc/virtual/2026/poster/156770	pending	-
-148250	Active Memory Feedback Loop for Fast–Slow Dynamics in Liquid Neural Networks	https://neurips.cc/virtual/2026/poster/148250	pending	-
+149778	Active Learning for Conditional Generative Compressed Sensing	https://neurips.cc/virtual/2026/poster/149778	included	分别选定用于测量设计和用于逆问题重建的提示。
+152717	Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights	https://neurips.cc/virtual/2026/poster/152717	included	当评测权重依赖未知响应时，按推断的目标分布选择查询。
+154434	Active Learning From Positive and Unlabeled Examples	https://neurips.cc/virtual/2026/poster/154434	included	把仅有部分正例能得到确认的查询与标准主动学习分开分析。
+151935	Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel	https://neurips.cc/virtual/2026/poster/151935	included	输出为分布时按均值和形状的不确定性共同挑选输入。
+156770	Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval	https://neurips.cc/virtual/2026/poster/156770	included	按候选对分类器的影响进行批内贪心标注。
+148250	Active Memory Feedback Loop for Fast–Slow Dynamics in Liquid Neural Networks	https://neurips.cc/virtual/2026/poster/148250	included	让关联记忆影响下一步 recurrent 更新，而非只扩充输出头。
 149573	Active Probabilistic Reasoning in Humans and LLMs	https://neurips.cc/virtual/2026/poster/149573	included	分别测证据收集与证据整合
-149590	ActO: Extracting Action Representations from MLLM Embeddings for Video World Models	https://neurips.cc/virtual/2026/poster/149590	pending	-
-155769	Actor-Accelerated Policy Dual Averaging for Reinforcement Learning in Continuous Action Spaces	https://neurips.cc/virtual/2026/poster/155769	pending	-
+149590	ActO: Extracting Action Representations from MLLM Embeddings for Video World Models	https://neurips.cc/virtual/2026/poster/149590	included	优先适配预训练视频语言表征，并直接评估动作与场景分离。
+155769	Actor-Accelerated Policy Dual Averaging for Reinforcement Learning in Continuous Action Spaces	https://neurips.cc/virtual/2026/poster/155769	included	用学习型 actor 近似在线优化。
 155159	ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155159	included	按动作敏感度分配位宽和张量内尺度
 153013	Act, Validate, Adapt: Closing the Causal Discovery-Control Loop	https://neurips.cc/virtual/2026/poster/153013	included	用干预验证图结构而非只重新拟合系数
-154417	ActWorld: From Explorable to Interactive World Model via Action-Aware Memory	https://neurips.cc/virtual/2026/poster/154417	pending	-
+154417	ActWorld: From Explorable to Interactive World Model via Action-Aware Memory	https://neurips.cc/virtual/2026/poster/154417	included	按交互事件价值保留历史。
 153574	A Curvature Phase Transition Governs Coherence Penalty Efficiency Against Feature Absorption in SAEs	https://neurips.cc/virtual/2026/poster/153574	included	根据吸收态附近的分裂曲率选 coherence 惩罚的幂指数。
 155735	AdaAlloc: Adaptive Visual Token Allocation for Long-Video Question Answering	https://neurips.cc/virtual/2026/poster/155735	included	在同一 token 预算内动态分配全局和局部证据
 155964	AdaCal: Adaptive Calibration for Robust Sparse Attention in Long-Context LLMs	https://neurips.cc/virtual/2026/poster/155964	included	用轻量探针决定哪些注意力头需要补充远距离覆盖。
 148821	AdaCodec: A Predictive Visual Code for Video MLLMs	https://neurips.cc/virtual/2026/poster/148821	included	用关键帧和预测残差取代重复编码邻帧
-156754	AdaCubic: An Adaptive Cubic Regularization Optimizer for Deep Learning	https://neurips.cc/virtual/2026/poster/156754	pending	-
+156754	AdaCubic: An Adaptive Cubic Regularization Optimizer for Deep Learning	https://neurips.cc/virtual/2026/poster/156754	included	动态调节三次牛顿正则权重。
 153261	AdaKVQ: Adaptive Mixed-Precision KV Cache Quantization For Efficient Reasoning Models	https://neurips.cc/virtual/2026/poster/153261	included	观察注意距离再分配缓存精度
 155834	AdaMAP: Learning Adaptive Multi-Action Prediction with Grounded Dreaming Guidance	https://neurips.cc/virtual/2026/poster/155834	included	让动作块自行决定何时重新观察
 148211	AdaM-Rec: Adaptive Modality Routing for Multimodal Recommendation	https://neurips.cc/virtual/2026/poster/148211	included	按查询选择视觉或文本证据
@@ -231,7 +231,7 @@ poster_id	title	paper_url	status	reason
 152110	A Faster Algorithm for the Half-Trek Criterion in Structural Causal Models	https://neurips.cc/virtual/2026/poster/152110	included	用等价边级判据加速可识别性检查
 152991	A Favorable Regime Between ODE and SDE for Few-Step Diffusion Sampling	https://neurips.cc/virtual/2026/poster/152991	included	少步生成选择有界且中等扩散强度的驱动
 150832	A Few Teacher Steps Go a Long Way: Cost-Efficient On-Policy Data Augmentation for Agent Post-Training	https://neurips.cc/virtual/2026/poster/150832	included	在学生到达的状态采样短教师续写。
-149766	AffectGPT-RL: Revealing Roles of Reinforcement Learning in Open-Vocabulary Emotion Recognition	https://neurips.cc/virtual/2026/poster/149766	pending	-
+149766	AffectGPT-RL: Revealing Roles of Reinforcement Learning in Open-Vocabulary Emotion Recognition	https://neurips.cc/virtual/2026/poster/149766	included	直接用不可微情绪评价构造训练奖励。
 150286	Affine-Image Propagation for Tight and Scalable $\ell_{2}$ Neural Network Verification	https://neurips.cc/virtual/2026/poster/150286	included	在层间传播仿射几何，减少欧氏扰动集放松带来的损失。
 150741	Affine-invariant Cubic Newton with Weak Learners	https://neurips.cc/virtual/2026/poster/150741	included	用优化路径的方向质量评价弱学习器的二阶步。
 150970	Affine Tracing: A New Paradigm for Probabilistic Linear Solvers	https://neurips.cc/virtual/2026/poster/150970	included	将迭代求解器自动转换成可传播不确定性的仿射迭代。
@@ -248,26 +248,26 @@ poster_id	title	paper_url	status	reason
 155447	Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback	https://neurips.cc/virtual/2026/poster/155447	included	以交互式执行验证生成的符号世界模型。
 139558	AgentAbstain: Do LLM Agents Know When Not to Act?	https://neurips.cc/virtual/2026/poster/139558	included	构造同任务的应执行与应拒绝成对变体。
 149790	AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent	https://neurips.cc/virtual/2026/poster/149790	included	以训练期蒸馏替换部署时的多智能体过程。
-148366	AgentBrew: Offline Tool-Use Agent Learning from Raw Real-World Trajectories	https://neurips.cc/virtual/2026/poster/148366	pending	-
-155417	AgentCBO: Causal Belief Routing for Bayesian Optimization under Unknown Graphs	https://neurips.cc/virtual/2026/poster/155417	pending	-
-139450	AgentCollabBench: Diagnosing When Good Agents Make Bad Collaborators	https://neurips.cc/virtual/2026/poster/139450	pending	-
-151150	Agent Explorative Policy Optimization for Agentic Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/151150	pending	-
-151949	AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/151949	pending	-
-153633	AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems	https://neurips.cc/virtual/2026/poster/153633	pending	-
-139240	AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Scientific Question Answering	https://neurips.cc/virtual/2026/poster/139240	pending	-
-150912	Agentic Abstention: Do Agents Know When to Stop Instead of Act?	https://neurips.cc/virtual/2026/poster/150912	pending	-
-139999	Agentic AI Design Should be Mediated to Promote Social Welfare	https://neurips.cc/virtual/2026/poster/139999	pending	-
-155334	Agentic AI-Empowered Dynamic Survey Framework	https://neurips.cc/virtual/2026/poster/155334	pending	-
-140033	Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery	https://neurips.cc/virtual/2026/poster/140033	pending	-
-148892	Agentic Geometry Problem Solving via Human-like Parallel Bidirectional Reasoning	https://neurips.cc/virtual/2026/poster/148892	pending	-
-154318	Agentic-imodels: Evolving agentic interpretability tools via autoresearch	https://neurips.cc/virtual/2026/poster/154318	pending	-
-138948	Agentick: A Unified Benchmark for General Sequential Decision-Making Agents	https://neurips.cc/virtual/2026/poster/138948	pending	-
-149499	Agentic Multi-Turn Reasoning: A Fairness Approach	https://neurips.cc/virtual/2026/poster/149499	pending	-
+148366	AgentBrew: Offline Tool-Use Agent Learning from Raw Real-World Trajectories	https://neurips.cc/virtual/2026/poster/148366	included	按动作对事后任务的贡献加权原始轨迹。
+155417	AgentCBO: Causal Belief Routing for Bayesian Optimization under Unknown Graphs	https://neurips.cc/virtual/2026/poster/155417	included	优先校正会改变干预选择的图结构。
+139450	AgentCollabBench: Diagnosing When Good Agents Make Bad Collaborators	https://neurips.cc/virtual/2026/poster/139450	included	比较信息在不同协作拓扑下的保留。
+151150	Agent Explorative Policy Optimization for Agentic Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/151150	included	对全错工具分支冻结思考前缀并重采样。
+151949	AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/151949	included	只用当前前缀检测最早决定性错误。
+153633	AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems	https://neurips.cc/virtual/2026/poster/153633	included	先以单代理干预定位失败来源，再按语义归类反馈。
+139240	AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Scientific Question Answering	https://neurips.cc/virtual/2026/poster/139240	included	在同一资源预算下拆分检索和综合表现。
+150912	Agentic Abstention: Do Agents Know When to Stop Instead of Act?	https://neurips.cc/virtual/2026/poster/150912	included	把及时弃权与最终弃权分开测量。
+139999	Agentic AI Design Should be Mediated to Promote Social Welfare	https://neurips.cc/virtual/2026/poster/139999	excluded	摘要以立场与治理框架为主，尚未给出可独立复用的技术机制或可识别干预收益的实验对照。
+155334	Agentic AI-Empowered Dynamic Survey Framework	https://neurips.cc/virtual/2026/poster/155334	excluded	摘要主要描述增量综述更新流程，未给出能与已有文档维护方法区分的机制或可复用对照结果。
+140033	Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery	https://neurips.cc/virtual/2026/poster/140033	excluded	摘要提出科学智能体设计主张与研究议程，未给出检验所提机制的理论或实验结果。
+148892	Agentic Geometry Problem Solving via Human-like Parallel Bidirectional Reasoning	https://neurips.cc/virtual/2026/poster/148892	included	把前推和目标反解复用同一套可验证定理接口。
+154318	Agentic-imodels: Evolving agentic interpretability tools via autoresearch	https://neurips.cc/virtual/2026/poster/154318	included	把模型文本能否支持正确行为预测纳入选择。
+138948	Agentick: A Unified Benchmark for General Sequential Decision-Making Agents	https://neurips.cc/virtual/2026/poster/138948	included	在统一任务下同时报告能力维度与观测格式差异。
+149499	Agentic Multi-Turn Reasoning: A Fairness Approach	https://neurips.cc/virtual/2026/poster/149499	included	把多轮信用分配和罕见轨迹失衡纳入同一目标。
 154949	Agentic Neural Architecture Search	https://neurips.cc/virtual/2026/poster/154949	included	让语言模型输出可替换模块槽，再由搜索算法局部优化。
 153107	AgenticOCR: Parsing Only What You Need for Efficient Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/153107	included	检索后只解析与查询相关的视觉区域。
-155392	Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction	https://neurips.cc/virtual/2026/poster/155392	pending	-
+155392	Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction	https://neurips.cc/virtual/2026/poster/155392	included	轨迹证据不足时才让验证器探查环境状态。
 139672	AgenticVBench: Can AI Agents Complete Real-World Video Production Tasks?	https://neurips.cc/virtual/2026/poster/139672	included	将程序化检查与专家质评结合评估视频生产。
-149555	Agentic Video Editing from Underspecified Requests	https://neurips.cc/virtual/2026/poster/149555	pending	-
+149555	Agentic Video Editing from Underspecified Requests	https://neurips.cc/virtual/2026/poster/149555	included	先把模糊编辑请求转成生成器可执行条件。
 139376	AgentKernelArena: Benchmarking Performance and Generalization of AI Coding Agents on GPU Kernels Optimization	https://neurips.cc/virtual/2026/poster/139376	included	先验证编译和数值正确性，再测未见配置的速度。
 155404	AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems	https://neurips.cc/virtual/2026/poster/155404	included	按结构化记忆单元校正复用的 KV 缓存。
 138951	AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation	https://neurips.cc/virtual/2026/poster/138951	included	将测试通过率与轨迹质量分开
@@ -310,27 +310,27 @@ poster_id	title	paper_url	status	reason
 137855	AI and Data Science for Her: Training the Next Generation of High School Girls in Nigeria	https://neurips.cc/virtual/2026/poster/137855	excluded	与 137831 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137873	AI and Data Science for Her: Training the Next Generation of High School Girls in Nigeria	https://neurips.cc/virtual/2026/poster/137873	excluded	与 137831 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137825	AI and Data Science for Her: Training the Next Generation of High School Girls in Nigeria	https://neurips.cc/virtual/2026/poster/137825	excluded	与 137831 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
-152625	AI-Assisted Classification under Correlation Neglect and Trust	https://neurips.cc/virtual/2026/poster/152625	pending	-
-140019	AI Behavioral Evaluation Should Be Grounded in Psychophysics Across Marr’s Levels	https://neurips.cc/virtual/2026/poster/140019	pending	-
-139045	AI Construct Lexis: An Ontology of the Hidden Assumptions in AI Evaluation	https://neurips.cc/virtual/2026/poster/139045	pending	-
-151011	AI Control for Sandbagging on Fuzzy Tasks	https://neurips.cc/virtual/2026/poster/151011	pending	-
-140079	AI Evaluation Should Require Standardized Item-Level Data Releases	https://neurips.cc/virtual/2026/poster/140079	pending	-
-140017	AI for Drug Discovery Models Often Do Not Learn as Expected and How to Diagnose These Failure Modes	https://neurips.cc/virtual/2026/poster/140017	pending	-
-138879	AI GAMESTORE: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games	https://neurips.cc/virtual/2026/poster/138879	pending	-
-140027	AI-Generated Content Should Be Evaluated by Its Substance, Not Its Source	https://neurips.cc/virtual/2026/poster/140027	pending	-
-140009	AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence	https://neurips.cc/virtual/2026/poster/140009	pending	-
-152673	AIM: Adaptive Interaction in Multi-Agent Debate for Multimodal LLM Inference	https://neurips.cc/virtual/2026/poster/152673	pending	-
-155808	AI-Mediated Communication Can Steer Collective Opinion	https://neurips.cc/virtual/2026/poster/155808	pending	-
-149974	AI Models Can Provably Hide Arbitrary Capabilities	https://neurips.cc/virtual/2026/poster/149974	pending	-
-152980	AIRA 2: Overcoming Bottlenecks in AI Research Agents	https://neurips.cc/virtual/2026/poster/152980	pending	-
-152477	AIRA-Compose: Agentic Discovery of Neural Architectures	https://neurips.cc/virtual/2026/poster/152477	pending	-
-153593	AirIAD: Agentic Iterative Reasoning for Industrial Anomaly Detection	https://neurips.cc/virtual/2026/poster/153593	pending	-
-154614	AirMPA: A Meteorology-to-Pollution Adapter for Global Air Quality Forecasting	https://neurips.cc/virtual/2026/poster/154614	pending	-
-151241	AIR: Rethinking Image-Text Offset Alignment in Multimodal Contrastive  Representation Space	https://neurips.cc/virtual/2026/poster/151241	pending	-
-140074	AI Safety Evaluations Need More Human-AI Experiments	https://neurips.cc/virtual/2026/poster/140074	pending	-
-140059	AIs with Secret Loyalties are a Serious but Addressable Threat	https://neurips.cc/virtual/2026/poster/140059	pending	-
-151235	A Kernel Nonconformity Score for Multivariate Conformal Prediction	https://neurips.cc/virtual/2026/poster/151235	pending	-
-148953	AKTD: FDR Control for LLM Training Data Detection under Approximate Exchangeability	https://neurips.cc/virtual/2026/poster/148953	pending	-
+152625	AI-Assisted Classification under Correlation Neglect and Trust	https://neurips.cc/virtual/2026/poster/152625	included	上线前分别估计信号重叠和用户信任。
+140019	AI Behavioral Evaluation Should Be Grounded in Psychophysics Across Marr’s Levels	https://neurips.cc/virtual/2026/poster/140019	excluded	摘要提供跨层级分类与研究议程，未报告可复现对照来验证该分类改善评测结论。
+139045	AI Construct Lexis: An Ontology of the Hidden Assumptions in AI Evaluation	https://neurips.cc/virtual/2026/poster/139045	included	发布基准时显式记录指标与声称测量概念的关系。
+151011	AI Control for Sandbagging on Fuzzy Tasks	https://neurips.cc/virtual/2026/poster/151011	included	用独立强判据检查弱评审器是否掩盖质量下跌。
+140079	AI Evaluation Should Require Standardized Item-Level Data Releases	https://neurips.cc/virtual/2026/poster/140079	included	保留逐题输出以验证汇总分数的含义。
+140017	AI for Drug Discovery Models Often Do Not Learn as Expected and How to Diagnose These Failure Modes	https://neurips.cc/virtual/2026/poster/140017	included	验证模型是否学到目标因素时加入故意错位的对照。
+138879	AI GAMESTORE: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games	https://neurips.cc/virtual/2026/poster/138879	included	用开放游戏集和等经验的人类对照分开衡量能力。
+140027	AI-Generated Content Should Be Evaluated by Its Substance, Not Its Source	https://neurips.cc/virtual/2026/poster/140027	included	跨文风验收文本来源判断，并将事实验证单列。
+140009	AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence	https://neurips.cc/virtual/2026/poster/140009	included	分别审计推理能力、外部知识访问与执行权限。
+152673	AIM: Adaptive Interaction in Multi-Agent Debate for Multimodal LLM Inference	https://neurips.cc/virtual/2026/poster/152673	included	按实例选择文本、结构或原模态局部证据传递。
+155808	AI-Mediated Communication Can Steer Collective Opinion	https://neurips.cc/virtual/2026/poster/155808	included	上线文本编辑器前评估细小偏差在多轮网络交流中的累积。
+149974	AI Models Can Provably Hide Arbitrary Capabilities	https://neurips.cc/virtual/2026/poster/149974	excluded	摘要主要讨论模型能力隐匿与规避审计，未提供独立验证的防御机制。
+152980	AIRA 2: Overcoming Bottlenecks in AI Research Agents	https://neurips.cc/virtual/2026/poster/152980	included	让搜索并发提速时同时提高候选选择评估的一致性。
+152477	AIRA-Compose: Agentic Discovery of Neural Architectures	https://neurips.cc/virtual/2026/poster/152477	included	用小规模候选粗排，再以固定预算扩大模型复验。
+153593	AirIAD: Agentic Iterative Reasoning for Industrial Anomaly Detection	https://neurips.cc/virtual/2026/poster/153593	included	诊断时按需补取局部图像与知识并相互核验。
+154614	AirMPA: A Meteorology-to-Pollution Adapter for Global Air Quality Forecasting	https://neurips.cc/virtual/2026/poster/154614	included	将外部气象预报作为可替换的污染物预测条件。
+151241	AIR: Rethinking Image-Text Offset Alignment in Multimodal Contrastive  Representation Space	https://neurips.cc/virtual/2026/poster/151241	included	先测概念距离导致的偏移失配，再调整文本方向。
+140074	AI Safety Evaluations Need More Human-AI Experiments	https://neurips.cc/virtual/2026/poster/140074	excluded	摘要主要倡议采用以人为中心的安全评测，未报告可验证的实证对照或技术增量。
+140059	AIs with Secret Loyalties are a Serious but Addressable Threat	https://neurips.cc/virtual/2026/poster/140059	excluded	作者摘要主要提出威胁定义与研究议程，尚未给出可独立复用、且有对照验证的防御机制。
+151235	A Kernel Nonconformity Score for Multivariate Conformal Prediction	https://neurips.cc/virtual/2026/poster/151235	included	多维残差呈非椭圆形时，用核分数校准联合预测区间。
+148953	AKTD: FDR Control for LLM Training Data Detection under Approximate Exchangeability	https://neurips.cc/virtual/2026/poster/148953	included	用独立的未入训样本估计审计统计量的不对称，再校准发现阈值。
 152511	ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/152511	pending	-
 139194	A Large-Scale Multi-Source Dataset Linking Hacker Community Discourse to the CVE Vulnerability Lifecycle	https://neurips.cc/virtual/2026/poster/139194	pending	-
 148187	A latent control model for realistic rodent motion	https://neurips.cc/virtual/2026/poster/148187	pending	-

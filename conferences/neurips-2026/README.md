@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **317** 篇，暂收录 **271** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **380** 篇，暂收录 **323** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -279,3 +279,55 @@
 | 计算机视觉 / 数据策略 | 主动学习 | [Active Learning as Nullspace Regulation: A Spectral Representation Perspective](cards.md#paper-152553) | 选择跨轮次仍处在标注表示弱覆盖方向的样本。 |
 | 可解释性 | 正则化 | [A Curvature Phase Transition Governs Coherence Penalty Efficiency Against Feature Absorption in SAEs](cards.md#paper-153574) | 根据吸收态附近的分裂曲率选 coherence 惩罚的幂指数。 |
 | 大语言模型 | 稀疏推理 | [AdaCal: Adaptive Calibration for Robust Sparse Attention in Long-Context LLMs](cards.md#paper-155964) | 用轻量探针决定哪些注意力头需要补充远距离覆盖。 |
+| 科学机器学习 | 等变生成 | [3D Molecule Generation from Rigid Motifs via $\mathrm{SE}(3)$ Flows](cards.md#paper-156034) | 比较刚性片段和单原子两种建模粒度。 |
+| 大语言模型 | 量化 | [ACQueReLlo: Alignment-Aware Constrained Quantization via Reinforcement Learning for Large Language Models](cards.md#paper-154964) | 选择混合位宽时同时约束能力、拒答与误拒。 |
+| 学习理论 | 结构约束 | [A Cross-Interaction Neural Architecture for Submodular Functions](cards.md#paper-148925) | 在保留单调次模性的同时显式建模成对交互。 |
+| Agent | 错误定位 | [Actionable Hallucination Detection: Translating Latent Uncertainty into Agentic Critique](cards.md#paper-155358) | 用并行小型诊断头输出错误位置及原因以支持执行前纠偏。 |
+| 具身智能 | 动作表示 | [Action Images: End-to-End Policy Learning via Multiview Video Generation](cards.md#paper-150968) | 把控制轨迹渲染为多视角动作图像，使视频骨干直接预测控制。 |
+| 推荐系统 | 时序记忆 | [Action-On-Item Preference Flow: A Shared Event Schema for Predictive and Generative Personalization](cards.md#paper-148195) | 把多任务交互写成统一事件并分开维护长期、短期和情节痕迹。 |
+| 具身智能 | 连续控制 | [ActionUNet: Improving Robustness of VLA Models with Efficient Multi-scale Fine-tuning](cards.md#paper-149076) | 多尺度融合后用连续动作解码约束二阶平滑。 |
+| 学习理论 | 表示动力学 | [Activation Functions Shape Token Synchronization in Stochastic Transformer Dynamics](cards.md#paper-150979) | 在模型深度增长时检查激活选择是否改变 token 表示同步。 |
+| 生成模型 | 安全控制 | [Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control](cards.md#paper-150198) | 按生成过程的反馈约束干预幅度，兼顾内容安全与视频质量。 |
+| 图学习 | 主动采样 | [Active Corpus Selection for Training Subgraph Retrievers Using OOD Queries](cards.md#paper-153257) | 在精确匹配预算极低且正例稀少时优先获取正例标签。 |
+| 计算成像 | 压缩感知 | [Active Learning for Conditional Generative Compressed Sensing](cards.md#paper-149778) | 分别选定用于测量设计和用于逆问题重建的提示。 |
+| 主动学习 | 概率建模 | [Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights](cards.md#paper-152717) | 当评测权重依赖未知响应时，按推断的目标分布选择查询。 |
+| 学习理论 | 弱监督 | [Active Learning From Positive and Unlabeled Examples](cards.md#paper-154434) | 把仅有部分正例能得到确认的查询与标准主动学习分开分析。 |
+| 主动学习 | 分布预测 | [Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel](cards.md#paper-151935) | 输出为分布时按均值和形状的不确定性共同挑选输入。 |
+| 计算机视觉 | 主动检索 | [Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval](cards.md#paper-156770) | 按候选对分类器的影响进行批内贪心标注。 |
+| 时序建模 | 记忆机制 | [Active Memory Feedback Loop for Fast–Slow Dynamics in Liquid Neural Networks](cards.md#paper-148250) | 让关联记忆影响下一步 recurrent 更新，而非只扩充输出头。 |
+| 具身智能 | 视频动作表征 | [ActO: Extracting Action Representations from MLLM Embeddings for Video World Models](cards.md#paper-149590) | 优先适配预训练视频语言表征，并直接评估动作与场景分离。 |
+| 强化学习 | 连续控制 | [Actor-Accelerated Policy Dual Averaging for Reinforcement Learning in Continuous Action Spaces](cards.md#paper-155769) | 用学习型 actor 近似在线优化。 |
+| 世界模型 | 记忆更新 | [ActWorld: From Explorable to Interactive World Model via Action-Aware Memory](cards.md#paper-154417) | 按交互事件价值保留历史。 |
+| 优化 | 自适应正则 | [AdaCubic: An Adaptive Cubic Regularization Optimizer for Deep Learning](cards.md#paper-156754) | 动态调节三次牛顿正则权重。 |
+| 多模态学习 | 目标对齐 | [AffectGPT-RL: Revealing Roles of Reinforcement Learning in Open-Vocabulary Emotion Recognition](cards.md#paper-149766) | 直接用不可微情绪评价构造训练奖励。 |
+| Agent | 离线信用分配 | [AgentBrew: Offline Tool-Use Agent Learning from Raw Real-World Trajectories](cards.md#paper-148366) | 按动作对事后任务的贡献加权原始轨迹。 |
+| 优化 | 因果贝叶斯优化 | [AgentCBO: Causal Belief Routing for Bayesian Optimization under Unknown Graphs](cards.md#paper-155417) | 优先校正会改变干预选择的图结构。 |
+| Agent | 过程评测 | [AgentCollabBench: Diagnosing When Good Agents Make Bad Collaborators](cards.md#paper-139450) | 比较信息在不同协作拓扑下的保留。 |
+| 多模态学习 | 强化学习 | [Agent Explorative Policy Optimization for Agentic Multimodal Reasoning](cards.md#paper-151150) | 对全错工具分支冻结思考前缀并重采样。 |
+| Agent | 在线审计 | [AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems](cards.md#paper-151949) | 只用当前前缀检测最早决定性错误。 |
+| Agent | 提示优化 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](cards.md#paper-153633) | 先以单代理干预定位失败来源，再按语义归类反馈。 |
+| Agent | 评测诊断 | [AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Scientific Question Answering](cards.md#paper-139240) | 在同一资源预算下拆分检索和综合表现。 |
+| Agent | 停止决策 | [Agentic Abstention: Do Agents Know When to Stop Instead of Act?](cards.md#paper-150912) | 把及时弃权与最终弃权分开测量。 |
+| 推理 | 神经符号验证 | [Agentic Geometry Problem Solving via Human-like Parallel Bidirectional Reasoning](cards.md#paper-148892) | 把前推和目标反解复用同一套可验证定理接口。 |
+| 可解释性 | 模型选择 | [Agentic-imodels: Evolving agentic interpretability tools via autoresearch](cards.md#paper-154318) | 把模型文本能否支持正确行为预测纳入选择。 |
+| 强化学习 / Agent | 交互评测 | [Agentick: A Unified Benchmark for General Sequential Decision-Making Agents](cards.md#paper-138948) | 在统一任务下同时报告能力维度与观测格式差异。 |
+| Agent | 偏好优化 | [Agentic Multi-Turn Reasoning: A Fairness Approach](cards.md#paper-149499) | 把多轮信用分配和罕见轨迹失衡纳入同一目标。 |
+| Agent | 奖励验证 | [Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction](cards.md#paper-155392) | 轨迹证据不足时才让验证器探查环境状态。 |
+| 视觉 / Agent | 条件规划 | [Agentic Video Editing from Underspecified Requests](cards.md#paper-149555) | 先把模糊编辑请求转成生成器可执行条件。 |
+| 人机协作 | 决策建模 | [AI-Assisted Classification under Correlation Neglect and Trust](cards.md#paper-152625) | 上线前分别估计信号重叠和用户信任。 |
+| 评测 | 测量本体 | [AI Construct Lexis: An Ontology of the Hidden Assumptions in AI Evaluation](cards.md#paper-139045) | 发布基准时显式记录指标与声称测量概念的关系。 |
+| 可靠性 | 审计设计 | [AI Control for Sandbagging on Fuzzy Tasks](cards.md#paper-151011) | 用独立强判据检查弱评审器是否掩盖质量下跌。 |
+| 评测 | 逐题分析 | [AI Evaluation Should Require Standardized Item-Level Data Releases](cards.md#paper-140079) | 保留逐题输出以验证汇总分数的含义。 |
+| 科学机器学习 | 捷径诊断 | [AI for Drug Discovery Models Often Do Not Learn as Expected and How to Diagnose These Failure Modes](cards.md#paper-140017) | 验证模型是否学到目标因素时加入故意错位的对照。 |
+| 多模态 / Agent | 开放评测 | [AI GAMESTORE: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games](cards.md#paper-138879) | 用开放游戏集和等经验的人类对照分开衡量能力。 |
+| 可靠性 | 分布偏移 | [AI-Generated Content Should Be Evaluated by Its Substance, Not Its Source](cards.md#paper-140027) | 跨文风验收文本来源判断，并将事实验证单列。 |
+| 安全治理 | 能力评测 | [AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence](cards.md#paper-140009) | 分别审计推理能力、外部知识访问与执行权限。 |
+| 多模态 / Agent | 通信路由 | [AIM: Adaptive Interaction in Multi-Agent Debate for Multimodal LLM Inference](cards.md#paper-152673) | 按实例选择文本、结构或原模态局部证据传递。 |
+| 人机交互 | 群体影响评测 | [AI-Mediated Communication Can Steer Collective Opinion](cards.md#paper-155808) | 上线文本编辑器前评估细小偏差在多轮网络交流中的累积。 |
+| Agent | 实验调度 | [AIRA 2: Overcoming Bottlenecks in AI Research Agents](cards.md#paper-152980) | 让搜索并发提速时同时提高候选选择评估的一致性。 |
+| 架构搜索 | 多保真搜索 | [AIRA-Compose: Agentic Discovery of Neural Architectures](cards.md#paper-152477) | 用小规模候选粗排，再以固定预算扩大模型复验。 |
+| 视觉 / Agent | 主动核验 | [AirIAD: Agentic Iterative Reasoning for Industrial Anomaly Detection](cards.md#paper-153593) | 诊断时按需补取局部图像与知识并相互核验。 |
+| 科学机器学习 | 条件预报 | [AirMPA: A Meteorology-to-Pollution Adapter for Global Air Quality Forecasting](cards.md#paper-154614) | 将外部气象预报作为可替换的污染物预测条件。 |
+| 多模态学习 | 表征对齐 | [AIR: Rethinking Image-Text Offset Alignment in Multimodal Contrastive  Representation Space](cards.md#paper-151241) | 先测概念距离导致的偏移失配，再调整文本方向。 |
+| 统计学习 | 不确定性校准 | [A Kernel Nonconformity Score for Multivariate Conformal Prediction](cards.md#paper-151235) | 多维残差呈非椭圆形时，用核分数校准联合预测区间。 |
+| 大语言模型 / 统计学习 | 审计校准 | [AKTD: FDR Control for LLM Training Data Detection under Approximate Exchangeability](cards.md#paper-148953) | 用独立的未入训样本估计审计统计量的不对称，再校准发现阈值。 |
