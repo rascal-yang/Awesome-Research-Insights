@@ -1202,5 +1202,15 @@ Visual representation, recognition, reconstruction, and generation.
 - [Uncertainty as an Underconstrained Axis in Lossy Compression](../../conferences/neurips-2026/cards-0012.md#paper-156038)
 - [Uncertainty-Aware Listwise Reinforcement Fine-Tuning for Fine-Grained Visual Classification](../../conferences/neurips-2026/cards-0012.md#paper-154574)
 - [Uncertainty Estimation for Pretrained Medical Image Registration Models via Transformation Equivariance](../../conferences/neurips-2026/cards-0012.md#paper-148713)
+- [UniCon3R: Unified Contact-aware 4D Human-Scene Reconstruction from Monocular Video](../../conferences/neurips-2026/cards-0012.md#paper-154503)
+- [Unified Forensic Preference Learning for Generalizable Synthetic Image Detection](../../conferences/neurips-2026/cards-0012.md#paper-150807)
+- [Unified Loss-Aware Density Control for 3D Gaussian Splatting](../../conferences/neurips-2026/cards-0012.md#paper-150948)
+- [Unified Panoramic Geometry Estimation via Multi-View Foundation Models](../../conferences/neurips-2026/cards-0012.md#paper-149348)
+- [UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering](../../conferences/neurips-2026/cards-0012.md#paper-152723)
+- [Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification](../../conferences/neurips-2026/cards-0012.md#paper-149845)
+- [Unsupervised Domain Adaptation for Semantic Segmentation Based on Instance Spatial Geometry](../../conferences/neurips-2026/cards-0012.md#paper-153211)
+- [Unsupervised Physics Informed Decomposition of Incomplete Time-Resolved Spectroscopy](../../conferences/neurips-2026/cards-0012.md#paper-154646)
+- [Unveiling the Value of Motion for Cinematic Camera Trajectories](../../conferences/neurips-2026/cards-0012.md#paper-154123)
+- [USAD: Uncertainty-aware Statistical Adversarial Detection](../../conferences/neurips-2026/cards-0012.md#paper-154348)
 
 <!-- conference-classification:end -->

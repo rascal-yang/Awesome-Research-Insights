@@ -734,5 +734,13 @@ Learning from interaction, feedback, and offline experience.
 - [Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback](../../conferences/neurips-2026/cards-0012.md#paper-149046)
 - [Understanding Goal Generalisation in Sequential Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-150898)
 - [Understanding Reasoning from Pretraining to Post-Training: Chess as a Controlled Testbed](../../conferences/neurips-2026/cards-0012.md#paper-152950)
+- [Understanding the Effects of Neuron Dominance in Deep Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-156752)
+- [Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization](../../conferences/neurips-2026/cards-0012.md#paper-153300)
+- [Unifying Partner and Environment Diversity to Improve Human-AI Coordination](../../conferences/neurips-2026/cards-0012.md#paper-151901)
+- [Unleashing the Power of Intrinsic-Entropy-Driven Exploration for Off-Policy Generative RL](../../conferences/neurips-2026/cards-0012.md#paper-150470)
+- [Utility-Constrained Policy Optimization](../../conferences/neurips-2026/cards-0012.md#paper-151319)
+- [Value-Priced Uncertainty: A Family of PPO-Compatible Exploration Bonuses](../../conferences/neurips-2026/cards-0012.md#paper-149802)
+- [Variance-Averse n-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments](../../conferences/neurips-2026/cards-0012.md#paper-154788)
+- [Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards](../../conferences/neurips-2026/cards-0012.md#paper-151544)
 
 <!-- conference-classification:end -->

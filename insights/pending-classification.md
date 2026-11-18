@@ -1285,5 +1285,18 @@
 - [UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction](../conferences/neurips-2026/cards-0012.md#paper-153643)
 - [U-MVP: Encode Locally, Decode Globally for Feed-Forward 3D Gaussian Splatting](../conferences/neurips-2026/cards-0012.md#paper-155292)
 - [Unaligned Image Guided Denoising via Cross-modal Conditional Flow Matching](../conferences/neurips-2026/cards-0012.md#paper-148480)
+- [UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image](../conferences/neurips-2026/cards-0012.md#paper-148284)
+- [UniCon3R: Unified Contact-aware 4D Human-Scene Reconstruction from Monocular Video](../conferences/neurips-2026/cards-0012.md#paper-154503)
+- [UniCustom: Unified Visual Conditioning for Multi-reference Image Generation](../conferences/neurips-2026/cards-0012.md#paper-155407)
+- [Unified Loss-Aware Density Control for 3D Gaussian Splatting](../conferences/neurips-2026/cards-0012.md#paper-150948)
+- [Unified Panoramic Geometry Estimation via Multi-View Foundation Models](../conferences/neurips-2026/cards-0012.md#paper-149348)
+- [UniVer: A Unified Perspective for Multi-step and Multi-draft Speculative Decoding](../conferences/neurips-2026/cards-0012.md#paper-155949)
+- [Unleashing the Power of Intrinsic-Entropy-Driven Exploration for Off-Policy Generative RL](../conferences/neurips-2026/cards-0012.md#paper-150470)
+- [Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification](../conferences/neurips-2026/cards-0012.md#paper-149845)
+- [Unlocking the Duality between Flow and Field Matching](../conferences/neurips-2026/cards-0012.md#paper-151730)
+- [Unrestrained Simplex Denoising for Discrete Data. A Generative Method Applied to Graphs.](../conferences/neurips-2026/cards-0012.md#paper-154200)
+- [Unsupervised Physics Informed Decomposition of Incomplete Time-Resolved Spectroscopy](../conferences/neurips-2026/cards-0012.md#paper-154646)
+- [Untrusted Content Masking for Web Agents with Security Guarantees](../conferences/neurips-2026/cards-0012.md#paper-150501)
+- [Value-Aware Stochastic KV Cache Eviction for Reasoning Models](../conferences/neurips-2026/cards-0012.md#paper-152707)
 
 <!-- conference-classification:end -->

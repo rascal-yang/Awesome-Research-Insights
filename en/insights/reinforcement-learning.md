@@ -778,5 +778,13 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [TrustFlow: Adaptive Trust Calibration for Language Model Guided Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-149919)
 - [Ultra-DPO: Reimagining LLM Alignment as a Semi-Supervised Task](../../conferences/neurips-2026/cards-0012.md#paper-156029)
 - [Uncertainty-Aware Listwise Reinforcement Fine-Tuning for Fine-Grained Visual Classification](../../conferences/neurips-2026/cards-0012.md#paper-154574)
+- [Unified Forensic Preference Learning for Generalizable Synthetic Image Detection](../../conferences/neurips-2026/cards-0012.md#paper-150807)
+- [Unified Noise Steering for Efficient Human-Guided VLA Adaptation](../../conferences/neurips-2026/cards-0012.md#paper-152531)
+- [Unveiling Entropy-Performance Decoupling in Agentic RL for Tool-Integrated Reasoning](../../conferences/neurips-2026/cards-0012.md#paper-150606)
+- [Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation](../../conferences/neurips-2026/cards-0012.md#paper-153467)
+- [Utility-Constrained Policy Optimization](../../conferences/neurips-2026/cards-0012.md#paper-151319)
+- [Value-Priced Uncertainty: A Family of PPO-Compatible Exploration Bonuses](../../conferences/neurips-2026/cards-0012.md#paper-149802)
+- [Variance-Averse n-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments](../../conferences/neurips-2026/cards-0012.md#paper-154788)
+- [Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards](../../conferences/neurips-2026/cards-0012.md#paper-151544)
 
 <!-- conference-classification:end -->

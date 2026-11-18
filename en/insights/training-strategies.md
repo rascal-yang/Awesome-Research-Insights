@@ -1010,5 +1010,17 @@ Training schedules, curricula, and task or stage composition.
 - [U-MOF: Uncertainty-Guided Parameter-Efficient Multi-Objective Fine-Tuning for Long-Tailed Recognition](../../conferences/neurips-2026/cards-0012.md#paper-150452)
 - [Understanding the Convergence of Direct Training of SNNs with Surrogate Gradients](../../conferences/neurips-2026/cards-0012.md#paper-152782)
 - [Understanding the Curse of Unrolling](../../conferences/neurips-2026/cards-0012.md#paper-149289)
+- [Understanding the Effects of Neuron Dominance in Deep Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-156752)
+- [Understanding the Interplay between Memorization and Learning in Large Language Models](../../conferences/neurips-2026/cards-0012.md#paper-139043)
+- [Understanding the Surprising Generalization Properties of Tabular Foundation Models](../../conferences/neurips-2026/cards-0012.md#paper-150354)
+- [Unified Synthesis of Compositional Speech and Sound from Free-Form Text Prompts](../../conferences/neurips-2026/cards-0012.md#paper-154811)
+- [Unifying Contrastive and Generative Objectives for Visual Understanding and Text-to-Image Generation](../../conferences/neurips-2026/cards-0012.md#paper-150380)
+- [Unlearning Diffusion Policies via Relative Fisher Forgetting](../../conferences/neurips-2026/cards-0012.md#paper-153227)
+- [UnlearningSoup: Is Repeated Tuning Necessary for Large Language Model Unlearning?](../../conferences/neurips-2026/cards-0012.md#paper-150776)
+- [Unlocking Any-Order Generation in Pretrained Autoregressive Image Models](../../conferences/neurips-2026/cards-0012.md#paper-152247)
+- [Unlocking Compositional Generalization in Continual Few-Shot Learning](../../conferences/neurips-2026/cards-0012.md#paper-153657)
+- [Unlocking Fine-Grained Perception in CLIP via Structurally-Aware Latent Masked Modeling](../../conferences/neurips-2026/cards-0012.md#paper-151938)
+- [UtoMe: Observation-Uncertainty-Guided Token Merging for Weather Foundation Models](../../conferences/neurips-2026/cards-0012.md#paper-153247)
+- [Variance Reduction for Expectations with Diffusion Teachers](../../conferences/neurips-2026/cards-0012.md#paper-153246)
 
 <!-- conference-classification:end -->

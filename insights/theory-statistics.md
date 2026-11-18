@@ -1170,5 +1170,10 @@
 - [UMAS: System-Level Uncertainty Quantification for Multi-Agent LLM Systems](../conferences/neurips-2026/cards-0012.md#paper-148275)
 - [Uncertainty as an Underconstrained Axis in Lossy Compression](../conferences/neurips-2026/cards-0012.md#paper-156038)
 - [Understanding axial attention in TSFMs through single location regression](../conferences/neurips-2026/cards-0012.md#paper-153180)
+- [UniDBO: A Unified Dual-Branch One-Step Denoising Framework for Autonomous Driving Scenario Generation](../conferences/neurips-2026/cards-0012.md#paper-149995)
+- [Unified Approach for Weakly Supervised Multicalibration](../conferences/neurips-2026/cards-0012.md#paper-153710)
+- [Unified Generative-Predictive Modeling for 4D Scene Understanding](../conferences/neurips-2026/cards-0012.md#paper-155625)
+- [Uniform Diffusion Models revisited: Leave-One-Out Denoiser and Absorbing State Reformulation](../conferences/neurips-2026/cards-0012.md#paper-153715)
+- [Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization](../conferences/neurips-2026/cards-0012.md#paper-153300)
 
 <!-- conference-classification:end -->

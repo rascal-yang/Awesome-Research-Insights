@@ -478,5 +478,6 @@
 - [TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG](../conferences/neurips-2026/cards-0012.md#paper-155841)
 - [UGO: Unified Architecture for General Multi-Object Tracking by Segmentation](../conferences/neurips-2026/cards-0012.md#paper-152769)
 - [Unbounded Streaming Text-To-Speech with Prefixed Sliding Window Attention](../conferences/neurips-2026/cards-0012.md#paper-149144)
+- [Understanding the Effects of Hyper-Connections on Self-Attention Dynamics: A Bifurcation Analysis](../conferences/neurips-2026/cards-0012.md#paper-151454)
 
 <!-- conference-classification:end -->

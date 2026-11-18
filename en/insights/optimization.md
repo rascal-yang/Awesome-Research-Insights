@@ -804,5 +804,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning](../../conferences/neurips-2026/cards-0012.md#paper-151603)
 - [Unbiased First-Order Randomized Smoothing for Differentiable Simulation](../../conferences/neurips-2026/cards-0012.md#paper-150375)
 - [Uncertainty Aware SURE Transfer Learning for Classification Problems](../../conferences/neurips-2026/cards-0012.md#paper-149259)
+- [Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA](../../conferences/neurips-2026/cards-0012.md#paper-151601)
+- [Unifying Sparsity and Discreteness: One-Shot Pruning for Quantized LLMs via Discrete Optimization](../../conferences/neurips-2026/cards-0012.md#paper-151050)
 
 <!-- conference-classification:end -->

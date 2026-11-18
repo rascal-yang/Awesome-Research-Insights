@@ -900,5 +900,13 @@ Robot perception, policy learning, planning, and control.
 - [TwinFlux: One-Step Discrete-Continuous Flow for End-to-End Autonomous Driving](../../conferences/neurips-2026/cards-0012.md#paper-155650)
 - [Unbiased First-Order Randomized Smoothing for Differentiable Simulation](../../conferences/neurips-2026/cards-0012.md#paper-150375)
 - [Understanding Multimodal Failure in Action-Chunking Behavioral Cloning](../../conferences/neurips-2026/cards-0012.md#paper-149297)
+- [UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image](../../conferences/neurips-2026/cards-0012.md#paper-148284)
+- [Unified Noise Steering for Efficient Human-Guided VLA Adaptation](../../conferences/neurips-2026/cards-0012.md#paper-152531)
+- [UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Affordance Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-155665)
+- [UniT:  Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](../../conferences/neurips-2026/cards-0012.md#paper-148811)
+- [UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation](../../conferences/neurips-2026/cards-0012.md#paper-152503)
+- [Unlearning Diffusion Policies via Relative Fisher Forgetting](../../conferences/neurips-2026/cards-0012.md#paper-153227)
+- [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](../../conferences/neurips-2026/cards-0012.md#paper-149965)
+- [URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets](../../conferences/neurips-2026/cards-0012.md#paper-150077)
 
 <!-- conference-classification:end -->

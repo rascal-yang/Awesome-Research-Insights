@@ -323,3 +323,84 @@
 | 智能体 | 评测与诊断 | [Understanding the Challenges in Iterative Generative Optimization with LLMs](cards-0012.md#paper-148898) | 迭代生成优化按领域单独调初始解和保留轨迹 |
 | 机器学习基础与统计 | 训练与优化 | [Understanding the Convergence of Direct Training of SNNs with Surrogate Gradients](cards-0012.md#paper-152782) | 脉冲网络诊断替代梯度时检查阈值附近的占比 |
 | 机器学习基础与统计 | 训练与优化 | [Understanding the Curse of Unrolling](cards-0012.md#paper-149289) | 元学习展开梯度可丢掉早期反传步骤 |
+| 深度学习 | 注意力机制 | [Understanding the Effects of Hyper-Connections on Self-Attention Dynamics: A Bifurcation Analysis](cards-0012.md#paper-151454) | 超连接残差调参时测局部稳定性。 |
+| 强化学习 | 训练策略 | [Understanding the Effects of Neuron Dominance in Deep Reinforcement Learning](cards-0012.md#paper-156752) | 可塑性下降时诊断主导激活及下层休眠。 |
+| 大语言模型 | 训练策略 | [Understanding the Interplay between Memorization and Learning in Large Language Models](cards-0012.md#paper-139043) | 语料抽样按上下文记忆程度动态降采样。 |
+| 大语言模型 | 评测与诊断 | [Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs](cards-0012.md#paper-154527) | 长 CoT 外推测单步状态更新能否复用。 |
+| 深度学习 | 预训练 | [Understanding the Surprising Generalization Properties of Tabular Foundation Models](cards-0012.md#paper-150354) | 表格语料优先按列质量并重视特征数。 |
+| 具身智能与机器人 | 三维视觉 | [UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image](cards-0012.md#paper-148284) | 遮挡铰接结构用动作视频先验提候选。 |
+| 多模态学习 | 表征学习 | [Uni-Cheb: A Basis-Agnostic Learnable Chebyshev Filter for Multimodal Spectral Modulation](cards-0012.md#paper-148454) | 频域模块按任务选变换基，保共享滤波形式。 |
+| 智能体与工具使用 | 评测与诊断 | [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](cards-0012.md#paper-139060) | 主动代理在隔离容器用隐藏逐步验收。 |
+| 多模态学习 | 表征学习 | [UNICOM: Unified Multimodal Modeling via Compressed Continuous Semantic Representations](cards-0012.md#paper-156067) | 共享理解生成潜表示先沿通道压缩。 |
+| 计算机视觉 | 三维视觉 | [UniCon3R: Unified Contact-aware 4D Human-Scene Reconstruction from Monocular Video](cards-0012.md#paper-154503) | 单目场景重建以接触约束人体/背景几何。 |
+| 生成模型 | 图像编辑 | [UniCustom: Unified Visual Conditioning for Multi-reference Image Generation](cards-0012.md#paper-155407) | 多参考每槽组合同对象的高低层特征。 |
+| 生成模型 | 世界模型 | [UniDBO: A Unified Dual-Branch One-Step Denoising Framework for Autonomous Driving Scenario Generation](cards-0012.md#paper-149995) | 自驾场景一步推理用不同噪声分支应对开闭环。 |
+| 生成模型 | 数据增强 | [UniDG: Universal Defect Generation via Defect-Context Editing](cards-0012.md#paper-154905) | 缺陷样本合成分多样性学习和局部一致性再训练。 |
+| 机器学习理论 | 不确定性估计 | [Unified Approach for Weakly Supervised Multicalibration](cards-0012.md#paper-153710) | 弱标签下校准显式纠正污染转移。 |
+| 计算机视觉 | 偏好优化 | [Unified Forensic Preference Learning for Generalizable Synthetic Image Detection](cards-0012.md#paper-150807) | 跨生成器验检测器时将证据作图像特定偏好。 |
+| 生成模型 | 世界模型 | [Unified Generative-Predictive Modeling for 4D Scene Understanding](cards-0012.md#paper-155625) | 4D 任务用统一联合模型处理不同可见模态。 |
+| 计算机视觉 | 三维视觉 | [Unified Loss-Aware Density Control for 3D Gaussian Splatting](cards-0012.md#paper-150948) | 3DGS 密度更新以克隆是否真降低重构损失决定。 |
+| 具身智能与机器人 | 强化学习 | [Unified Noise Steering for Efficient Human-Guided VLA Adaptation](cards-0012.md#paper-152531) | 将人类动作纠正和策略试错汇到同一潜噪空间。 |
+| 计算机视觉 | 三维视觉 | [Unified Panoramic Geometry Estimation via Multi-View Foundation Models](cards-0012.md#paper-149348) | 全景几何继续使用透视模型的三维先验。 |
+| 大语言模型 | 推理策略 | [Unified Resource-Grounded Coordination Protocol for Orchestrator-Free Heterogeneous Multi-Agent Systems](cards-0012.md#paper-148666) | 异构代理交接需明确可用资源并保留验证与有限修复角色。 |
+| 多模态学习 | 训练策略 | [Unified Synthesis of Compositional Speech and Sound from Free-Form Text Prompts](cards-0012.md#paper-154811) | 合成语音和环境声音前用语义潜计划组织组合。 |
+| 多模态学习 | 模型架构 | [UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities](cards-0012.md#paper-151328) | 跨模态音频生成保留独立的输入融合和统一的流输出。 |
+| 大语言模型 | 理论与统计 | [Uniform Diffusion Models revisited: Leave-One-Out Denoiser and Absorbing State Reformulation](cards-0012.md#paper-153715) | 均匀离散扩散的插入式参数化应在训练目标中排除当前位置观测。 |
+| 机器学习基础与统计 | 优化 | [Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA](cards-0012.md#paper-151601) | 低秩适配的优化收益可用乘积谱的各方向增速诊断。 |
+| 机器人学 | 推理策略 | [UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Affordance Segmentation](cards-0012.md#paper-155665) | 三维可供性分割让视觉模型先粗略定位，再主动选择细视角。 |
+| 多模态学习 | 训练策略 | [Unifying Contrastive and Generative Objectives for Visual Understanding and Text-to-Image Generation](cards-0012.md#paper-150380) | 共享理解生成编码器让高低遮盖样本在每一步共存。 |
+| 强化学习 | 理论与统计 | [Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization](cards-0012.md#paper-153300) | 选择无监督技能预训练前明确下游可达性衡量方式。 |
+| 强化学习 | 数据策略 | [Unifying Partner and Environment Diversity to Improve Human-AI Coordination](cards-0012.md#paper-151901) | 协作训练同时改变伙伴和场地，再测试新组合。 |
+| 机器学习基础与统计 | 推理策略 | [Unifying Reasoning and Planning through Energy Minimization](cards-0012.md#paper-154954) | 约束满足和规划可用一个静态能量函数作直接优化。 |
+| 大语言模型 | 优化 | [Unifying Sparsity and Discreteness: One-Shot Pruning for Quantized LLMs via Discrete Optimization](cards-0012.md#paper-151050) | 直接在量化格点上联合剪枝，不用浮点稀疏后再量化。 |
+| 计算机视觉 | 表征学习 | [UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering](cards-0012.md#paper-152723) | 高斯渲染的深度和法向应从原语几何面计算。 |
+| 多模态学习 | 模型架构 | [UniMoE-World: A Unified Mixture-of-Experts Architecture for Scalable Multi-Control Video Generation World Modeling](cards-0012.md#paper-152667) | 世界模型对异构控制信号使用条件专家。 |
+| 多模态学习 | 推理策略 | [UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning](cards-0012.md#paper-153352) | 对每个视觉语言任务自适应选择理解与生成的顺序。 |
+| 大语言模型 | 推理策略 | [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](cards-0012.md#paper-152106) | 给混合结构长提示做块级动态稀疏，避免只加速全注意力。 |
+| 具身智能与机器人 | 模型与架构 | [UniT:  Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](cards-0012.md#paper-148811) | 人类示范与 humanoid 控制学习共享物理表示 |
+| 大语言模型 | 效率与系统 | [UniVer: A Unified Perspective for Multi-step and Multi-draft Speculative Decoding](cards-0012.md#paper-155949) | 统一验证多个草稿和多个推测步 |
+| 大语言模型 | 模型与架构 | [Universal Byte-Level Encoding: UTF-8/UTF-16 Routing to Reduce Cross-Script Token-Budget Disparities](cards-0012.md#paper-152902) | 多语字节词元化按书写系统路由编码 |
+| 机器学习基础与统计 | 生成与扩散 | [Universal Time Series Generation with Neural Controlled Differential Equations](cards-0012.md#paper-150341) | 不规则观测用连续路径流建模 |
+| 具身智能与机器人 | 模型与架构 | [UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation](cards-0012.md#paper-152503) | 视频和动作共训练但推理按需生成 |
+| 视觉与多模态 | 生成与扩散 | [UniVL: Unified Vision-Language Embedding for Spatially Grounded Contextual Image Generation](cards-0012.md#paper-154331) | 空间条件生成尝试统一视觉语言条件 |
+| 具身智能与机器人 | 训练与优化 | [Unlearning Diffusion Policies via Relative Fisher Forgetting](cards-0012.md#paper-153227) | 扩散策略遗忘同时约束保留任务 |
+| 大语言模型 | 模型合并 | [UnlearningSoup: Is Repeated Tuning Necessary for Large Language Model Unlearning?](cards-0012.md#paper-150776) | 遗忘超参反复调时先比较多运行权重内插。 |
+| 大语言模型 | 损失函数 | [Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs](cards-0012.md#paper-149440) | 遗忘和保留都比较 Jensen–Shannon 与 KL。 |
+| 强化学习 | 流匹配 | [Unleashing the Power of Intrinsic-Entropy-Driven Exploration for Off-Policy Generative RL](cards-0012.md#paper-150470) | 生成式离策略探索用可精确计算的扩展动作熵。 |
+| 计算机视觉 | 三维视觉 | [Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification](cards-0012.md#paper-149845) | 单目深度修正使用空间局部仿射场。 |
+| 生成模型 | 训练策略 | [Unlocking Any-Order Generation in Pretrained Autoregressive Image Models](cards-0012.md#paper-152247) | 把光栅生成改任意顺序时加入部署目标位置与课程。 |
+| 深度学习 | 持续学习 | [Unlocking Compositional Generalization in Continual Few-Shot Learning](cards-0012.md#paper-153657) | 持续少样本将部件组合留给推理，训练全局身份。 |
+| 多模态学习 | 自监督学习 | [Unlocking Fine-Grained Perception in CLIP via Structurally-Aware Latent Masked Modeling](cards-0012.md#paper-151938) | CLIP 密集适配同时约束关系矩阵和激活强度。 |
+| 生成模型 | 流匹配 | [Unlocking the Duality between Flow and Field Matching](cards-0012.md#paper-151730) | 流和场建模可按需要的作用范围选择。 |
+| 深度学习 | 可解释性 | [Unpacking the Evaluators: How Configuration Shapes the Evaluation of Alignment in Explainable AI](cards-0012.md#paper-139846) | 解释对齐测试独立消融真值格式和阈值。 |
+| 多模态学习 | 表征学习 | [Unpaired Canonical Correlation Analysis](cards-0012.md#paper-149273) | 完全不配对时检查能否恢复共享线性空间。 |
+| 生成模型 | 扩散模型 | [Unrestrained Simplex Denoising for Discrete Data. A Generative Method Applied to Graphs.](cards-0012.md#paper-154200) | 离散图生成可以概率单纯形承接去噪。 |
+| 深度学习 | 损失函数 | [Unrolled gradients in disguise: bridging interpolation-based and Jacobian regularization for stable neural dynamics](cards-0012.md#paper-154498) | 稳定动力学训练可近似 unroll 梯度，避免完整展开。 |
+| 生成模型 | 表征学习 | [Unsupervised Concept Discovery with Dirichlet Concept Diffusion Models](cards-0012.md#paper-151439) | 在扩散原生目标里学习可解释原型。 |
+| 计算机视觉 | 表征学习 | [Unsupervised Domain Adaptation for Semantic Segmentation Based on Instance Spatial Geometry](cards-0012.md#paper-153211) | 分割域迁移使用实例间方向而非仅深度。 |
+| 计算机视觉 | 时序建模 | [Unsupervised Physics Informed Decomposition of Incomplete Time-Resolved Spectroscopy](cards-0012.md#paper-154646) | 不完整谱分离利用短时间动力学而非等完整衰减。 |
+| 智能体与工具使用 | 模型鲁棒性 | [Untrusted Content Masking for Web Agents with Security Guarantees](cards-0012.md#paper-150501) | 网页代理的任务规划与不受信内容处理做权限隔离。 |
+| 智能体与工具使用 | 强化学习 | [Unveiling Entropy-Performance Decoupling in Agentic RL for Tool-Integrated Reasoning](cards-0012.md#paper-150606) | 工具 RL 熵升而任务停时检查无效重试。 |
+| 多模态学习 | 评测与诊断 | [Unveiling Fine-Grained Visual Traces: Evaluating MultiModal Interleaved Reasoning Chains in Multimodal STEM Tasks](cards-0012.md#paper-149067) | 视觉推理题应保留图文互补，并用步骤级评测分辨使用了哪个模态。 |
+| 大语言模型 | 强化学习方法 | [Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation](cards-0012.md#paper-153467) | GRPO 稀疏探索需监控组优势的正负对称和难度分布。 |
+| 机器学习基础与统计 | 评测与诊断 | [Unveiling Memorization–Generalization Coexistence: A Case Study on Arithmetic Tasks with Label Noise](cards-0012.md#paper-148534) | 带噪标签训练中分开观察内部规律和输出规律。 |
+| 计算机视觉 | 表征学习 | [Unveiling the Value of Motion for Cinematic Camera Trajectories](cards-0012.md#paper-154123) | 电影运动轨迹拆为方向和速度，而非仅编码逐帧位姿。 |
+| 大语言模型 | 模型架构 | [UpSafe℃: Upcycling for Controllable Safety in Large Language Models](cards-0012.md#paper-151223) | 在安全相关层部署独立可稀疏激活的防护专家。 |
+| 机器人学 | 推理策略 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](cards-0012.md#paper-149965) | 大场景定位将主动选择观察视角作为连续决策。 |
+| 机器人学 | 模型架构 | [URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets](cards-0012.md#paper-150077) | 二维图像生成仿真资产时共同生成几何与部件关节。 |
+| 多模态学习 | 推理策略 | [Urgency-Aware Autoregressive VLMs for Unanticipated Healthcare Occurrences](cards-0012.md#paper-149641) | 流式视觉模型在输出时并行判断新事件是否应打断。 |
+| 计算机视觉 | 评测与诊断 | [USAD: Uncertainty-aware Statistical Adversarial Detection](cards-0012.md#paper-154348) | 防御检测同时考虑样本群体方差及单样本稳定性。 |
+| 大语言模型 | 评测与诊断 | [Useful Memories Become Faulty When Continuously Updated by LLMs](cards-0012.md#paper-148715) | 保留原始经验并延迟抽象，测抽象记忆会不会损害已会任务。 |
+| 机器学习基础与统计 | 表征学习 | [User Embeddings are Superpositions of Interpretable Behavioral Modes](cards-0012.md#paper-155845) | 用户向量可拆成不同的稀疏行为模式以供独立分析。 |
+| 强化学习 | 强化学习方法 | [Utility-Constrained Policy Optimization](cards-0012.md#paper-151319) | 安全策略将风险敏感效用作为约束，再看是否保留普通回报。 |
+| 机器学习基础与统计 | 数据策略 | [Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution](cards-0012.md#paper-154062) | 联邦聚类按客户端对各类的边际效用，而非只用向量相似性。 |
+| 科学机器学习 | 训练策略 | [UtoMe: Observation-Uncertainty-Guided Token Merging for Weather Foundation Models](cards-0012.md#paper-153247) | token 合并同时看动力学显著性和测量不确定度。 |
+| 多模态学习 | 推理策略 | [UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression](cards-0012.md#paper-153858) | 第一视角视频依据头动估计重叠，再按注视区域保留证据。 |
+| 多模态学习 | 表征学习 | [V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](cards-0012.md#paper-152475) | 跨模态同步可对齐事件变化幅度与时间，无需语义逐项对齐。 |
+| 机器学习基础与统计 | 评测与诊断 | [Validating Causal Abstraction Metrics on Simulated Complex Systems](cards-0012.md#paper-149449) | 高层因果解释通过干预效应验收 |
+| 大语言模型 | 评测与诊断 | [Valid Best-Model Identification for LLM Evaluation via Low-Rank Factorization](cards-0012.md#paper-155274) | 比较多模型减少题数时保留选择有效性 |
+| 大语言模型 | 效率与系统 | [Value-Aware Stochastic KV Cache Eviction for Reasoning Models](cards-0012.md#paper-152707) | 推理缓存淘汰需兼顾价值和静态容量 |
+| 强化学习与决策 | 强化学习与奖励 | [Value-Priced Uncertainty: A Family of PPO-Compatible Exploration Bonuses](cards-0012.md#paper-149802) | 探索奖励按状态不确定性是否影响价值定价 |
+| 强化学习与决策 | 强化学习与奖励 | [Variance-Averse n-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments](cards-0012.md#paper-154788) | 稀疏长程离线 RL 对高方差回报保守改权 |
+| 强化学习与决策 | 强化学习与奖励 | [Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards](cards-0012.md#paper-151544) | 有真值的 RL 可把新采样预算重分配给高方差前缀 |
+| 视觉与多模态 | 训练与优化 | [Variance Reduction for Expectations with Diffusion Teachers](cards-0012.md#paper-153246) | 多次调用扩散教师用复用和分层降方差 |

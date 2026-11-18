@@ -406,5 +406,7 @@ Objectives, auxiliary supervision, and regularization.
 - [TILT: Target-induced loss tilting under covariate shift](../../conferences/neurips-2026/cards-0012.md#paper-155899)
 - [Trainable Topology Supervision under Structurally Unreliable Pseudo Supervision](../../conferences/neurips-2026/cards-0012.md#paper-150633)
 - [Uncertainty-Aware Probabilistic Constrained Clustering from Entangled Pairwise Supervision](../../conferences/neurips-2026/cards-0012.md#paper-154307)
+- [Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs](../../conferences/neurips-2026/cards-0012.md#paper-149440)
+- [Unrolled gradients in disguise: bridging interpolation-based and Jacobian regularization for stable neural dynamics](../../conferences/neurips-2026/cards-0012.md#paper-154498)
 
 <!-- conference-classification:end -->

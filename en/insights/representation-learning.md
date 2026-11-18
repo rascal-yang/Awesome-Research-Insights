@@ -646,5 +646,14 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Umbilic Multinomial Logistic Regression](../../conferences/neurips-2026/cards-0012.md#paper-150927)
 - [Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models](../../conferences/neurips-2026/cards-0012.md#paper-148612)
 - [Uncovering the latent structure of interwoven population and temporal codes](../../conferences/neurips-2026/cards-0012.md#paper-152608)
+- [Uni-Cheb: A Basis-Agnostic Learnable Chebyshev Filter for Multimodal Spectral Modulation](../../conferences/neurips-2026/cards-0012.md#paper-148454)
+- [UNICOM: Unified Multimodal Modeling via Compressed Continuous Semantic Representations](../../conferences/neurips-2026/cards-0012.md#paper-156067)
+- [UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering](../../conferences/neurips-2026/cards-0012.md#paper-152723)
+- [Unpaired Canonical Correlation Analysis](../../conferences/neurips-2026/cards-0012.md#paper-149273)
+- [Unsupervised Concept Discovery with Dirichlet Concept Diffusion Models](../../conferences/neurips-2026/cards-0012.md#paper-151439)
+- [Unsupervised Domain Adaptation for Semantic Segmentation Based on Instance Spatial Geometry](../../conferences/neurips-2026/cards-0012.md#paper-153211)
+- [Unveiling the Value of Motion for Cinematic Camera Trajectories](../../conferences/neurips-2026/cards-0012.md#paper-154123)
+- [User Embeddings are Superpositions of Interpretable Behavioral Modes](../../conferences/neurips-2026/cards-0012.md#paper-155845)
+- [V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](../../conferences/neurips-2026/cards-0012.md#paper-152475)
 
 <!-- conference-classification:end -->

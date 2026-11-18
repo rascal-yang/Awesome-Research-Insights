@@ -621,5 +621,12 @@
 - [Two Layers of Attention Stability: A Koopman-Operator Analysis of Linear and Softmax Attention](../conferences/neurips-2026/cards-0012.md#paper-153140)
 - [Understanding Layer Patching in Model Size Interpolation](../conferences/neurips-2026/cards-0012.md#paper-152284)
 - [Understanding Multimodal Failure in Action-Chunking Behavioral Cloning](../conferences/neurips-2026/cards-0012.md#paper-149297)
+- [UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities](../conferences/neurips-2026/cards-0012.md#paper-151328)
+- [UniMoE-World: A Unified Mixture-of-Experts Architecture for Scalable Multi-Control Video Generation World Modeling](../conferences/neurips-2026/cards-0012.md#paper-152667)
+- [UniT:  Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](../conferences/neurips-2026/cards-0012.md#paper-148811)
+- [Universal Byte-Level Encoding: UTF-8/UTF-16 Routing to Reduce Cross-Script Token-Budget Disparities](../conferences/neurips-2026/cards-0012.md#paper-152902)
+- [UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation](../conferences/neurips-2026/cards-0012.md#paper-152503)
+- [UpSafe℃: Upcycling for Controllable Safety in Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-151223)
+- [URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets](../conferences/neurips-2026/cards-0012.md#paper-150077)
 
 <!-- conference-classification:end -->

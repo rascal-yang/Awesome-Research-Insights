@@ -8542,126 +8542,126 @@ poster_id	title	paper_url	status	reason
 149325	Understanding the Co-evolutionary Solution Exchange of the MOEA/D: Minimal Communication Gives Maximal Speed-Ups	https://neurips.cc/virtual/2026/poster/149325	excluded	主要为特定多目标进化算法的理论运行界。
 152782	Understanding the Convergence of Direct Training of SNNs with Surrogate Gradients	https://neurips.cc/virtual/2026/poster/152782	included	脉冲网络诊断替代梯度时检查阈值附近的占比
 149289	Understanding the Curse of Unrolling	https://neurips.cc/virtual/2026/poster/149289	included	元学习展开梯度可丢掉早期反传步骤
-151454	Understanding the Effects of Hyper-Connections on Self-Attention Dynamics: A Bifurcation Analysis	https://neurips.cc/virtual/2026/poster/151454	pending	-
-156752	Understanding the Effects of Neuron Dominance in Deep Reinforcement Learning	https://neurips.cc/virtual/2026/poster/156752	pending	-
-139043	Understanding the Interplay between Memorization and Learning in Large Language Models	https://neurips.cc/virtual/2026/poster/139043	pending	-
-154527	Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs	https://neurips.cc/virtual/2026/poster/154527	pending	-
-150354	Understanding the Surprising Generalization Properties of Tabular Foundation Models	https://neurips.cc/virtual/2026/poster/150354	pending	-
-148284	UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image	https://neurips.cc/virtual/2026/poster/148284	pending	-
-148454	Uni-Cheb: A Basis-Agnostic Learnable Chebyshev Filter for Multimodal Spectral Modulation	https://neurips.cc/virtual/2026/poster/148454	pending	-
-139060	UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks	https://neurips.cc/virtual/2026/poster/139060	pending	-
-156067	UNICOM: Unified Multimodal Modeling via Compressed Continuous Semantic Representations	https://neurips.cc/virtual/2026/poster/156067	pending	-
-154503	UniCon3R: Unified Contact-aware 4D Human-Scene Reconstruction from Monocular Video	https://neurips.cc/virtual/2026/poster/154503	pending	-
-155407	UniCustom: Unified Visual Conditioning for Multi-reference Image Generation	https://neurips.cc/virtual/2026/poster/155407	pending	-
-149995	UniDBO: A Unified Dual-Branch One-Step Denoising Framework for Autonomous Driving Scenario Generation	https://neurips.cc/virtual/2026/poster/149995	pending	-
-154905	UniDG: Universal Defect Generation via Defect-Context Editing	https://neurips.cc/virtual/2026/poster/154905	pending	-
-153710	Unified Approach for Weakly Supervised Multicalibration	https://neurips.cc/virtual/2026/poster/153710	pending	-
-150807	Unified Forensic Preference Learning for Generalizable Synthetic Image Detection	https://neurips.cc/virtual/2026/poster/150807	pending	-
-155625	Unified Generative-Predictive Modeling for 4D Scene Understanding	https://neurips.cc/virtual/2026/poster/155625	pending	-
-150668	Unified High-Probability Analysis of Stochastic Variance-Reduced Estimation	https://neurips.cc/virtual/2026/poster/150668	pending	-
-150948	Unified Loss-Aware Density Control for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/150948	pending	-
-152531	Unified Noise Steering for Efficient Human-Guided VLA Adaptation	https://neurips.cc/virtual/2026/poster/152531	pending	-
-149348	Unified Panoramic Geometry Estimation via Multi-View Foundation Models	https://neurips.cc/virtual/2026/poster/149348	pending	-
-148666	Unified Resource-Grounded Coordination Protocol for Orchestrator-Free Heterogeneous Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/148666	pending	-
-154811	Unified Synthesis of Compositional Speech and Sound from Free-Form Text Prompts	https://neurips.cc/virtual/2026/poster/154811	pending	-
-151328	UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities	https://neurips.cc/virtual/2026/poster/151328	pending	-
-148336	UniFlowDock: Flexible Docking with Complete Equivariant Velocity Fields	https://neurips.cc/virtual/2026/poster/148336	pending	-
-153715	Uniform Diffusion Models revisited: Leave-One-Out Denoiser and Absorbing State Reformulation	https://neurips.cc/virtual/2026/poster/153715	pending	-
-154794	Uniform-in-Time Weak Propagation of Chaos in Shallow Neural Networks	https://neurips.cc/virtual/2026/poster/154794	pending	-
-153759	UniForm: Segment-Aware GRPO for Joint Punctuation Restoration and Inverse Text Normalization	https://neurips.cc/virtual/2026/poster/153759	pending	-
-151601	Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA	https://neurips.cc/virtual/2026/poster/151601	pending	-
-155017	Uniform Stability and Generalization Error of GD and SGD on Fixed-Point Parameters	https://neurips.cc/virtual/2026/poster/155017	pending	-
-155665	UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Affordance Segmentation	https://neurips.cc/virtual/2026/poster/155665	pending	-
-154814	Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis	https://neurips.cc/virtual/2026/poster/154814	pending	-
-150380	Unifying Contrastive and Generative Objectives for Visual Understanding and Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/150380	pending	-
-153300	Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization	https://neurips.cc/virtual/2026/poster/153300	pending	-
-151901	Unifying Partner and Environment Diversity to Improve Human-AI Coordination	https://neurips.cc/virtual/2026/poster/151901	pending	-
-154954	Unifying Reasoning and Planning through Energy Minimization	https://neurips.cc/virtual/2026/poster/154954	pending	-
-151050	Unifying Sparsity and Discreteness: One-Shot Pruning for Quantized LLMs via Discrete Optimization	https://neurips.cc/virtual/2026/poster/151050	pending	-
-152723	UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering	https://neurips.cc/virtual/2026/poster/152723	pending	-
-152667	UniMoE-World: A Unified Mixture-of-Experts Architecture for Scalable Multi-Control Video Generation World Modeling	https://neurips.cc/virtual/2026/poster/152667	pending	-
-153352	UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/153352	pending	-
-152106	UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification	https://neurips.cc/virtual/2026/poster/152106	pending	-
-154671	UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation	https://neurips.cc/virtual/2026/poster/154671	pending	-
-152871	UniRank: Unified List-wise Reranking via Confidence-Ordered Denoising	https://neurips.cc/virtual/2026/poster/152871	pending	-
-154184	UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception	https://neurips.cc/virtual/2026/poster/154184	pending	-
-149011	UniReFP: Robust Unified Fingerprinting for Vision Models against Cross-Task Repurposing Attacks	https://neurips.cc/virtual/2026/poster/149011	pending	-
-148426	UniSHARP: Universal Sharp Monocular View Synthesis	https://neurips.cc/virtual/2026/poster/148426	pending	-
-152486	Uni-Synergy: Bridging Understanding and Generation for Personalized Reasoning	https://neurips.cc/virtual/2026/poster/152486	pending	-
-148811	UniT:  Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling	https://neurips.cc/virtual/2026/poster/148811	pending	-
-155949	UniVer: A Unified Perspective for Multi-step and Multi-draft Speculative Decoding	https://neurips.cc/virtual/2026/poster/155949	pending	-
-149234	Universal Adaptive Proximal Gradient Methods via Gradient Mapping Accumulation	https://neurips.cc/virtual/2026/poster/149234	pending	-
-155577	Universal and Efficient Computation with 2D Attention	https://neurips.cc/virtual/2026/poster/155577	pending	-
-153723	Universal Approximation Theorems for Dynamical Systems with Infinite-Time Horizon Guarantees	https://neurips.cc/virtual/2026/poster/153723	pending	-
-152902	Universal Byte-Level Encoding: UTF-8/UTF-16 Routing to Reduce Cross-Script Token-Budget Disparities	https://neurips.cc/virtual/2026/poster/152902	pending	-
-154705	Universal Cross-Prompt Adversarial Attacks on Promptable Concept Segmentation	https://neurips.cc/virtual/2026/poster/154705	pending	-
-150341	Universal Time Series Generation with Neural Controlled Differential Equations	https://neurips.cc/virtual/2026/poster/150341	pending	-
-152652	UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation	https://neurips.cc/virtual/2026/poster/152652	pending	-
-152503	UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation	https://neurips.cc/virtual/2026/poster/152503	pending	-
-156120	UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs	https://neurips.cc/virtual/2026/poster/156120	pending	-
-154331	UniVL: Unified Vision-Language Embedding for Spatially Grounded Contextual Image Generation	https://neurips.cc/virtual/2026/poster/154331	pending	-
-153590	UniVR: Thinking in Visual Space for Unified Visual Reasoning	https://neurips.cc/virtual/2026/poster/153590	pending	-
-153227	Unlearning Diffusion Policies via Relative Fisher Forgetting	https://neurips.cc/virtual/2026/poster/153227	pending	-
-150776	UnlearningSoup: Is Repeated Tuning Necessary for Large Language Model Unlearning?	https://neurips.cc/virtual/2026/poster/150776	pending	-
-149440	Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs	https://neurips.cc/virtual/2026/poster/149440	pending	-
-150470	Unleashing the Power of Intrinsic-Entropy-Driven Exploration for Off-Policy Generative RL	https://neurips.cc/virtual/2026/poster/150470	pending	-
-149845	Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification	https://neurips.cc/virtual/2026/poster/149845	pending	-
-152247	Unlocking Any-Order Generation in Pretrained Autoregressive Image Models	https://neurips.cc/virtual/2026/poster/152247	pending	-
-153657	Unlocking Compositional Generalization in Continual Few-Shot Learning	https://neurips.cc/virtual/2026/poster/153657	pending	-
-151938	Unlocking Fine-Grained Perception in CLIP via Structurally-Aware Latent Masked Modeling	https://neurips.cc/virtual/2026/poster/151938	pending	-
-152735	Unlocking LLM Creativity in Science through Analogical Reasoning	https://neurips.cc/virtual/2026/poster/152735	pending	-
-151730	Unlocking the Duality between Flow and Field Matching	https://neurips.cc/virtual/2026/poster/151730	pending	-
-153824	Unlocking Volition: Proactive Intention Decoding via Interpretable Graph Learning of Multi-Region ECoG	https://neurips.cc/virtual/2026/poster/153824	pending	-
-139846	Unpacking the Evaluators: How Configuration Shapes the Evaluation of Alignment in Explainable AI	https://neurips.cc/virtual/2026/poster/139846	pending	-
-149273	Unpaired Canonical Correlation Analysis	https://neurips.cc/virtual/2026/poster/149273	pending	-
-154200	Unrestrained Simplex Denoising for Discrete Data. A Generative Method Applied to Graphs.	https://neurips.cc/virtual/2026/poster/154200	pending	-
-154498	Unrolled gradients in disguise: bridging interpolation-based and Jacobian regularization for stable neural dynamics	https://neurips.cc/virtual/2026/poster/154498	pending	-
-151439	Unsupervised Concept Discovery with Dirichlet Concept Diffusion Models	https://neurips.cc/virtual/2026/poster/151439	pending	-
-153211	Unsupervised Domain Adaptation for Semantic Segmentation Based on Instance Spatial Geometry	https://neurips.cc/virtual/2026/poster/153211	pending	-
-154646	Unsupervised Physics Informed Decomposition of Incomplete Time-Resolved Spectroscopy	https://neurips.cc/virtual/2026/poster/154646	pending	-
-150104	Unsupervised Unlearnable Segmentation via Semantic Structure Disruption	https://neurips.cc/virtual/2026/poster/150104	pending	-
-150501	Untrusted Content Masking for Web Agents with Security Guarantees	https://neurips.cc/virtual/2026/poster/150501	pending	-
-150606	Unveiling Entropy-Performance Decoupling in Agentic RL for Tool-Integrated Reasoning	https://neurips.cc/virtual/2026/poster/150606	pending	-
-149067	Unveiling Fine-Grained Visual Traces: Evaluating MultiModal Interleaved Reasoning Chains in Multimodal STEM Tasks	https://neurips.cc/virtual/2026/poster/149067	pending	-
-153467	Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation	https://neurips.cc/virtual/2026/poster/153467	pending	-
-148534	Unveiling Memorization–Generalization Coexistence: A Case Study on Arithmetic Tasks with Label Noise	https://neurips.cc/virtual/2026/poster/148534	pending	-
-154123	Unveiling the Value of Motion for Cinematic Camera Trajectories	https://neurips.cc/virtual/2026/poster/154123	pending	-
-151223	UpSafe℃: Upcycling for Controllable Safety in Large Language Models	https://neurips.cc/virtual/2026/poster/151223	pending	-
-149965	Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes	https://neurips.cc/virtual/2026/poster/149965	pending	-
-150077	URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets	https://neurips.cc/virtual/2026/poster/150077	pending	-
-149641	Urgency-Aware Autoregressive VLMs for Unanticipated Healthcare Occurrences	https://neurips.cc/virtual/2026/poster/149641	pending	-
-139807	URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment	https://neurips.cc/virtual/2026/poster/139807	pending	-
-154348	USAD: Uncertainty-aware Statistical Adversarial Detection	https://neurips.cc/virtual/2026/poster/154348	pending	-
-148715	Useful Memories Become Faulty When Continuously Updated by LLMs	https://neurips.cc/virtual/2026/poster/148715	pending	-
-155845	User Embeddings are Superpositions of Interpretable Behavioral Modes	https://neurips.cc/virtual/2026/poster/155845	pending	-
-151319	Utility-Constrained Policy Optimization	https://neurips.cc/virtual/2026/poster/151319	pending	-
-154062	Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution	https://neurips.cc/virtual/2026/poster/154062	pending	-
-153247	UtoMe: Observation-Uncertainty-Guided Token Merging for Weather Foundation Models	https://neurips.cc/virtual/2026/poster/153247	pending	-
-153858	UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression	https://neurips.cc/virtual/2026/poster/153858	pending	-
-149506	UxSID: Semantic-Aware User Interests Modeling for Ultra-Long Sequence	https://neurips.cc/virtual/2026/poster/149506	pending	-
-155997	V1-Inspired Dynamic Vision System: A Bio-Plausible Video Embedding Framework with Decoupled Shape–Color Pathways and Long-Range Spatiotemporal Perception	https://neurips.cc/virtual/2026/poster/155997	pending	-
-152475	V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation	https://neurips.cc/virtual/2026/poster/152475	pending	-
-153740	V2VFusion: Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion	https://neurips.cc/virtual/2026/poster/153740	pending	-
-139409	VAANI: Capturing the language landscape for an inclusive digital India	https://neurips.cc/virtual/2026/poster/139409	pending	-
-149386	VACE: Learning Geometrically Structured Representations for Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/149386	pending	-
-149449	Validating Causal Abstraction Metrics on Simulated Complex Systems	https://neurips.cc/virtual/2026/poster/149449	pending	-
-155274	Valid Best-Model Identification for LLM Evaluation via Low-Rank Factorization	https://neurips.cc/virtual/2026/poster/155274	pending	-
-151755	VALOR: Vector-Aware Low-Rank Restructuring of Neural Networks for RISC-V Inference	https://neurips.cc/virtual/2026/poster/151755	pending	-
-152707	Value-Aware Stochastic KV Cache Eviction for Reasoning Models	https://neurips.cc/virtual/2026/poster/152707	pending	-
-150575	Value Entanglement: Conflation Between Different Kinds of Good In (Some) Large Language Models	https://neurips.cc/virtual/2026/poster/150575	pending	-
-149802	Value-Priced Uncertainty: A Family of PPO-Compatible Exploration Bonuses	https://neurips.cc/virtual/2026/poster/149802	pending	-
-149851	Value-Rectified Distillation for Flow-based Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149851	pending	-
-154170	Values Are Not Single Labels: Distributional Value Profiling Across Groups and Contexts	https://neurips.cc/virtual/2026/poster/154170	pending	-
-153366	Values as Style: Disentangling Values from Semantics with One-Way Mixing for Low-Damage LLM Steering	https://neurips.cc/virtual/2026/poster/153366	pending	-
-154357	ValuSpec: Plug-and-Play Candidate Valuation before Target Verification for Tree-Based Speculative Decoding	https://neurips.cc/virtual/2026/poster/154357	pending	-
-149952	VAMIRec: Value-Aware Memory Intervention for Continual Recommendation	https://neurips.cc/virtual/2026/poster/149952	pending	-
-148169	Variable-Length Generative Protein Design via Generalized Poisson Flow	https://neurips.cc/virtual/2026/poster/148169	pending	-
-152614	Variance-Adaptive Optimal Algorithm for Reinforcement Learning with MNL Function Approximation	https://neurips.cc/virtual/2026/poster/152614	pending	-
-154788	Variance-Averse n-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments	https://neurips.cc/virtual/2026/poster/154788	pending	-
-151544	Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/151544	pending	-
-153246	Variance Reduction for Expectations with Diffusion Teachers	https://neurips.cc/virtual/2026/poster/153246	pending	-
-154622	Variational Active Flow Matching for Discrete Online Black-Box Optimization	https://neurips.cc/virtual/2026/poster/154622	pending	-
-155166	Variational Approach to Optimal IPS Estimator for Multi-logger Off-Policy Evaluation	https://neurips.cc/virtual/2026/poster/155166	pending	-
+151454	Understanding the Effects of Hyper-Connections on Self-Attention Dynamics: A Bifurcation Analysis	https://neurips.cc/virtual/2026/poster/151454	included	超连接残差调参时测局部稳定性。
+156752	Understanding the Effects of Neuron Dominance in Deep Reinforcement Learning	https://neurips.cc/virtual/2026/poster/156752	included	可塑性下降时诊断主导激活及下层休眠。
+139043	Understanding the Interplay between Memorization and Learning in Large Language Models	https://neurips.cc/virtual/2026/poster/139043	included	语料抽样按上下文记忆程度动态降采样。
+154527	Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs	https://neurips.cc/virtual/2026/poster/154527	included	长 CoT 外推测单步状态更新能否复用。
+150354	Understanding the Surprising Generalization Properties of Tabular Foundation Models	https://neurips.cc/virtual/2026/poster/150354	included	表格语料优先按列质量并重视特征数。
+148284	UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image	https://neurips.cc/virtual/2026/poster/148284	included	遮挡铰接结构用动作视频先验提候选。
+148454	Uni-Cheb: A Basis-Agnostic Learnable Chebyshev Filter for Multimodal Spectral Modulation	https://neurips.cc/virtual/2026/poster/148454	included	频域模块按任务选变换基，保共享滤波形式。
+139060	UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks	https://neurips.cc/virtual/2026/poster/139060	included	主动代理在隔离容器用隐藏逐步验收。
+156067	UNICOM: Unified Multimodal Modeling via Compressed Continuous Semantic Representations	https://neurips.cc/virtual/2026/poster/156067	included	共享理解生成潜表示先沿通道压缩。
+154503	UniCon3R: Unified Contact-aware 4D Human-Scene Reconstruction from Monocular Video	https://neurips.cc/virtual/2026/poster/154503	included	单目场景重建以接触约束人体/背景几何。
+155407	UniCustom: Unified Visual Conditioning for Multi-reference Image Generation	https://neurips.cc/virtual/2026/poster/155407	included	多参考每槽组合同对象的高低层特征。
+149995	UniDBO: A Unified Dual-Branch One-Step Denoising Framework for Autonomous Driving Scenario Generation	https://neurips.cc/virtual/2026/poster/149995	included	自驾场景一步推理用不同噪声分支应对开闭环。
+154905	UniDG: Universal Defect Generation via Defect-Context Editing	https://neurips.cc/virtual/2026/poster/154905	included	缺陷样本合成分多样性学习和局部一致性再训练。
+153710	Unified Approach for Weakly Supervised Multicalibration	https://neurips.cc/virtual/2026/poster/153710	included	弱标签下校准显式纠正污染转移。
+150807	Unified Forensic Preference Learning for Generalizable Synthetic Image Detection	https://neurips.cc/virtual/2026/poster/150807	included	跨生成器验检测器时将证据作图像特定偏好。
+155625	Unified Generative-Predictive Modeling for 4D Scene Understanding	https://neurips.cc/virtual/2026/poster/155625	included	4D 任务用统一联合模型处理不同可见模态。
+150668	Unified High-Probability Analysis of Stochastic Variance-Reduced Estimation	https://neurips.cc/virtual/2026/poster/150668	excluded	主要贡献是维度无关浓缩界与随机方差缩减的一般理论，摘要未明确目标设计取舍。
+150948	Unified Loss-Aware Density Control for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/150948	included	3DGS 密度更新以克隆是否真降低重构损失决定。
+152531	Unified Noise Steering for Efficient Human-Guided VLA Adaptation	https://neurips.cc/virtual/2026/poster/152531	included	将人类动作纠正和策略试错汇到同一潜噪空间。
+149348	Unified Panoramic Geometry Estimation via Multi-View Foundation Models	https://neurips.cc/virtual/2026/poster/149348	included	全景几何继续使用透视模型的三维先验。
+148666	Unified Resource-Grounded Coordination Protocol for Orchestrator-Free Heterogeneous Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/148666	included	异构代理交接需明确可用资源并保留验证与有限修复角色。
+154811	Unified Synthesis of Compositional Speech and Sound from Free-Form Text Prompts	https://neurips.cc/virtual/2026/poster/154811	included	合成语音和环境声音前用语义潜计划组织组合。
+151328	UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities	https://neurips.cc/virtual/2026/poster/151328	included	跨模态音频生成保留独立的输入融合和统一的流输出。
+148336	UniFlowDock: Flexible Docking with Complete Equivariant Velocity Fields	https://neurips.cc/virtual/2026/poster/148336	excluded	以分子结合构象优化为主，未记录相关设计机制。
+153715	Uniform Diffusion Models revisited: Leave-One-Out Denoiser and Absorbing State Reformulation	https://neurips.cc/virtual/2026/poster/153715	included	均匀离散扩散的插入式参数化应在训练目标中排除当前位置观测。
+154794	Uniform-in-Time Weak Propagation of Chaos in Shallow Neural Networks	https://neurips.cc/virtual/2026/poster/154794	excluded	浅网络无噪均值场的长期理论未提供面向核心方向的具体验证。
+153759	UniForm: Segment-Aware GRPO for Joint Punctuation Restoration and Inverse Text Normalization	https://neurips.cc/virtual/2026/poster/153759	excluded	主要是标点与文本规范化场景，摘要不能隔离可迁移的分段奖励贡献。
+151601	Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA	https://neurips.cc/virtual/2026/poster/151601	included	低秩适配的优化收益可用乘积谱的各方向增速诊断。
+155017	Uniform Stability and Generalization Error of GD and SGD on Fixed-Point Parameters	https://neurips.cc/virtual/2026/poster/155017	excluded	固定点训练的稳定性理论主要是特定舍入设定，摘要未给工程实证。
+155665	UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Affordance Segmentation	https://neurips.cc/virtual/2026/poster/155665	included	三维可供性分割让视觉模型先粗略定位，再主动选择细视角。
+154814	Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis	https://neurips.cc/virtual/2026/poster/154814	excluded	搜证、改写和生成主要是组合管线，摘要未给独立迁移对照。
+150380	Unifying Contrastive and Generative Objectives for Visual Understanding and Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/150380	included	共享理解生成编码器让高低遮盖样本在每一步共存。
+153300	Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization	https://neurips.cc/virtual/2026/poster/153300	included	选择无监督技能预训练前明确下游可达性衡量方式。
+151901	Unifying Partner and Environment Diversity to Improve Human-AI Coordination	https://neurips.cc/virtual/2026/poster/151901	included	协作训练同时改变伙伴和场地，再测试新组合。
+154954	Unifying Reasoning and Planning through Energy Minimization	https://neurips.cc/virtual/2026/poster/154954	included	约束满足和规划可用一个静态能量函数作直接优化。
+151050	Unifying Sparsity and Discreteness: One-Shot Pruning for Quantized LLMs via Discrete Optimization	https://neurips.cc/virtual/2026/poster/151050	included	直接在量化格点上联合剪枝，不用浮点稀疏后再量化。
+152723	UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering	https://neurips.cc/virtual/2026/poster/152723	included	高斯渲染的深度和法向应从原语几何面计算。
+152667	UniMoE-World: A Unified Mixture-of-Experts Architecture for Scalable Multi-Control Video Generation World Modeling	https://neurips.cc/virtual/2026/poster/152667	included	世界模型对异构控制信号使用条件专家。
+153352	UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/153352	included	对每个视觉语言任务自适应选择理解与生成的顺序。
+152106	UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification	https://neurips.cc/virtual/2026/poster/152106	included	给混合结构长提示做块级动态稀疏，避免只加速全注意力。
+154671	UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation	https://neurips.cc/virtual/2026/poster/154671	excluded	主要为医疗分割管线，摘要未单列可迁移机制。
+152871	UniRank: Unified List-wise Reranking via Confidence-Ordered Denoising	https://neurips.cc/virtual/2026/poster/152871	excluded	主要为推荐重排专项，摘要未给去噪排序的独立迁移对照。
+154184	UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception	https://neurips.cc/virtual/2026/poster/154184	excluded	摘要主要展示统一物理感知多任务效果，未分离关键建模机制。
+149011	UniReFP: Robust Unified Fingerprinting for Vision Models against Cross-Task Repurposing Attacks	https://neurips.cc/virtual/2026/poster/149011	excluded	主要为模型版权指纹专项，摘要未验证当前研究重点用例。
+148426	UniSHARP: Universal Sharp Monocular View Synthesis	https://neurips.cc/virtual/2026/poster/148426	excluded	主要是跨视角数据集和重建方案，用于其他感知的独立证据不足。
+152486	Uni-Synergy: Bridging Understanding and Generation for Personalized Reasoning	https://neurips.cc/virtual/2026/poster/152486	excluded	个性化理解生成训练多部件共同报结果，摘要未拆出机制。
+148811	UniT:  Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling	https://neurips.cc/virtual/2026/poster/148811	included	人类示范与 humanoid 控制学习共享物理表示
+155949	UniVer: A Unified Perspective for Multi-step and Multi-draft Speculative Decoding	https://neurips.cc/virtual/2026/poster/155949	included	统一验证多个草稿和多个推测步
+149234	Universal Adaptive Proximal Gradient Methods via Gradient Mapping Accumulation	https://neurips.cc/virtual/2026/poster/149234	excluded	主要为近端优化的复杂度理论，未验证当前深度任务。
+155577	Universal and Efficient Computation with 2D Attention	https://neurips.cc/virtual/2026/poster/155577	excluded	主要为将程序编译进权重的形式构造，未给实际模型选型证据。
+153723	Universal Approximation Theorems for Dynamical Systems with Infinite-Time Horizon Guarantees	https://neurips.cc/virtual/2026/poster/153723	excluded	主要是无穷时域近似理论，摘要未验证真实世界模型控制。
+152902	Universal Byte-Level Encoding: UTF-8/UTF-16 Routing to Reduce Cross-Script Token-Budget Disparities	https://neurips.cc/virtual/2026/poster/152902	included	多语字节词元化按书写系统路由编码
+154705	Universal Cross-Prompt Adversarial Attacks on Promptable Concept Segmentation	https://neurips.cc/virtual/2026/poster/154705	excluded	主要为可迁移攻击，无独立非操作性防护结论。
+150341	Universal Time Series Generation with Neural Controlled Differential Equations	https://neurips.cc/virtual/2026/poster/150341	included	不规则观测用连续路径流建模
+152652	UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation	https://neurips.cc/virtual/2026/poster/152652	excluded	主要在遥感传感器适配，摘要未独立验证其他多模态系统。
+152503	UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation	https://neurips.cc/virtual/2026/poster/152503	included	视频和动作共训练但推理按需生成
+156120	UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs	https://neurips.cc/virtual/2026/poster/156120	excluded	摘要未具体给视觉潜推理内部机制的独立控制。
+154331	UniVL: Unified Vision-Language Embedding for Spatially Grounded Contextual Image Generation	https://neurips.cc/virtual/2026/poster/154331	included	空间条件生成尝试统一视觉语言条件
+153590	UniVR: Thinking in Visual Space for Unified Visual Reasoning	https://neurips.cc/virtual/2026/poster/153590	excluded	摘要报告统一视觉能力但未展示足够的独立迁移机制。
+153227	Unlearning Diffusion Policies via Relative Fisher Forgetting	https://neurips.cc/virtual/2026/poster/153227	included	扩散策略遗忘同时约束保留任务
+150776	UnlearningSoup: Is Repeated Tuning Necessary for Large Language Model Unlearning?	https://neurips.cc/virtual/2026/poster/150776	included	遗忘超参反复调时先比较多运行权重内插。
+149440	Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs	https://neurips.cc/virtual/2026/poster/149440	included	遗忘和保留都比较 Jensen–Shannon 与 KL。
+150470	Unleashing the Power of Intrinsic-Entropy-Driven Exploration for Off-Policy Generative RL	https://neurips.cc/virtual/2026/poster/150470	included	生成式离策略探索用可精确计算的扩展动作熵。
+149845	Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification	https://neurips.cc/virtual/2026/poster/149845	included	单目深度修正使用空间局部仿射场。
+152247	Unlocking Any-Order Generation in Pretrained Autoregressive Image Models	https://neurips.cc/virtual/2026/poster/152247	included	把光栅生成改任意顺序时加入部署目标位置与课程。
+153657	Unlocking Compositional Generalization in Continual Few-Shot Learning	https://neurips.cc/virtual/2026/poster/153657	included	持续少样本将部件组合留给推理，训练全局身份。
+151938	Unlocking Fine-Grained Perception in CLIP via Structurally-Aware Latent Masked Modeling	https://neurips.cc/virtual/2026/poster/151938	included	CLIP 密集适配同时约束关系矩阵和激活强度。
+152735	Unlocking LLM Creativity in Science through Analogical Reasoning	https://neurips.cc/virtual/2026/poster/152735	excluded	摘要用生物方向生成研究方案和实验验证，核心应用涉及生物设计，不提炼相关工作流。
+151730	Unlocking the Duality between Flow and Field Matching	https://neurips.cc/virtual/2026/poster/151730	included	流和场建模可按需要的作用范围选择。
+153824	Unlocking Volition: Proactive Intention Decoding via Interpretable Graph Learning of Multi-Region ECoG	https://neurips.cc/virtual/2026/poster/153824	excluded	摘要主要为狨猴 ECoG 解码应用，缺独立且跨域验证的机制。
+139846	Unpacking the Evaluators: How Configuration Shapes the Evaluation of Alignment in Explainable AI	https://neurips.cc/virtual/2026/poster/139846	included	解释对齐测试独立消融真值格式和阈值。
+149273	Unpaired Canonical Correlation Analysis	https://neurips.cc/virtual/2026/poster/149273	included	完全不配对时检查能否恢复共享线性空间。
+154200	Unrestrained Simplex Denoising for Discrete Data. A Generative Method Applied to Graphs.	https://neurips.cc/virtual/2026/poster/154200	included	离散图生成可以概率单纯形承接去噪。
+154498	Unrolled gradients in disguise: bridging interpolation-based and Jacobian regularization for stable neural dynamics	https://neurips.cc/virtual/2026/poster/154498	included	稳定动力学训练可近似 unroll 梯度，避免完整展开。
+151439	Unsupervised Concept Discovery with Dirichlet Concept Diffusion Models	https://neurips.cc/virtual/2026/poster/151439	included	在扩散原生目标里学习可解释原型。
+153211	Unsupervised Domain Adaptation for Semantic Segmentation Based on Instance Spatial Geometry	https://neurips.cc/virtual/2026/poster/153211	included	分割域迁移使用实例间方向而非仅深度。
+154646	Unsupervised Physics Informed Decomposition of Incomplete Time-Resolved Spectroscopy	https://neurips.cc/virtual/2026/poster/154646	included	不完整谱分离利用短时间动力学而非等完整衰减。
+150104	Unsupervised Unlearnable Segmentation via Semantic Structure Disruption	https://neurips.cc/virtual/2026/poster/150104	excluded	核心是生成会破坏分割训练的输入扰动，排除相关方法。
+150501	Untrusted Content Masking for Web Agents with Security Guarantees	https://neurips.cc/virtual/2026/poster/150501	included	网页代理的任务规划与不受信内容处理做权限隔离。
+150606	Unveiling Entropy-Performance Decoupling in Agentic RL for Tool-Integrated Reasoning	https://neurips.cc/virtual/2026/poster/150606	included	工具 RL 熵升而任务停时检查无效重试。
+149067	Unveiling Fine-Grained Visual Traces: Evaluating MultiModal Interleaved Reasoning Chains in Multimodal STEM Tasks	https://neurips.cc/virtual/2026/poster/149067	included	视觉推理题应保留图文互补，并用步骤级评测分辨使用了哪个模态。
+153467	Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation	https://neurips.cc/virtual/2026/poster/153467	included	GRPO 稀疏探索需监控组优势的正负对称和难度分布。
+148534	Unveiling Memorization–Generalization Coexistence: A Case Study on Arithmetic Tasks with Label Noise	https://neurips.cc/virtual/2026/poster/148534	included	带噪标签训练中分开观察内部规律和输出规律。
+154123	Unveiling the Value of Motion for Cinematic Camera Trajectories	https://neurips.cc/virtual/2026/poster/154123	included	电影运动轨迹拆为方向和速度，而非仅编码逐帧位姿。
+151223	UpSafe℃: Upcycling for Controllable Safety in Large Language Models	https://neurips.cc/virtual/2026/poster/151223	included	在安全相关层部署独立可稀疏激活的防护专家。
+149965	Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes	https://neurips.cc/virtual/2026/poster/149965	included	大场景定位将主动选择观察视角作为连续决策。
+150077	URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets	https://neurips.cc/virtual/2026/poster/150077	included	二维图像生成仿真资产时共同生成几何与部件关节。
+149641	Urgency-Aware Autoregressive VLMs for Unanticipated Healthcare Occurrences	https://neurips.cc/virtual/2026/poster/149641	included	流式视觉模型在输出时并行判断新事件是否应打断。
+139807	URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment	https://neurips.cc/virtual/2026/poster/139807	excluded	重点是反应路线可行性量化，未录入合成规划操作。
+154348	USAD: Uncertainty-aware Statistical Adversarial Detection	https://neurips.cc/virtual/2026/poster/154348	included	防御检测同时考虑样本群体方差及单样本稳定性。
+148715	Useful Memories Become Faulty When Continuously Updated by LLMs	https://neurips.cc/virtual/2026/poster/148715	included	保留原始经验并延迟抽象，测抽象记忆会不会损害已会任务。
+155845	User Embeddings are Superpositions of Interpretable Behavioral Modes	https://neurips.cc/virtual/2026/poster/155845	included	用户向量可拆成不同的稀疏行为模式以供独立分析。
+151319	Utility-Constrained Policy Optimization	https://neurips.cc/virtual/2026/poster/151319	included	安全策略将风险敏感效用作为约束，再看是否保留普通回报。
+154062	Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution	https://neurips.cc/virtual/2026/poster/154062	included	联邦聚类按客户端对各类的边际效用，而非只用向量相似性。
+153247	UtoMe: Observation-Uncertainty-Guided Token Merging for Weather Foundation Models	https://neurips.cc/virtual/2026/poster/153247	included	token 合并同时看动力学显著性和测量不确定度。
+153858	UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression	https://neurips.cc/virtual/2026/poster/153858	included	第一视角视频依据头动估计重叠，再按注视区域保留证据。
+149506	UxSID: Semantic-Aware User Interests Modeling for Ultra-Long Sequence	https://neurips.cc/virtual/2026/poster/149506	excluded	长用户序列和广告指标主要针对推荐部署，摘要未给通用记忆机制证据。
+155997	V1-Inspired Dynamic Vision System: A Bio-Plausible Video Embedding Framework with Decoupled Shape–Color Pathways and Long-Range Spatiotemporal Perception	https://neurips.cc/virtual/2026/poster/155997	excluded	具有生物启发的多路视频编码，但摘要未给单个结构的迁移效应。
+152475	V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation	https://neurips.cc/virtual/2026/poster/152475	included	跨模态同步可对齐事件变化幅度与时间，无需语义逐项对齐。
+153740	V2VFusion: Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion	https://neurips.cc/virtual/2026/poster/153740	excluded	主要是多种视频退化与融合任务的集成，摘要未给独立迁移组件。
+139409	VAANI: Capturing the language landscape for an inclusive digital India	https://neurips.cc/virtual/2026/poster/139409	excluded	主要为语音资源与覆盖率，摘要未给具体可复用技术机制。
+149386	VACE: Learning Geometrically Structured Representations for Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/149386	excluded	主要在单一时序异常基准验证位置速度分数，独立应用边界不明。
+149449	Validating Causal Abstraction Metrics on Simulated Complex Systems	https://neurips.cc/virtual/2026/poster/149449	included	高层因果解释通过干预效应验收
+155274	Valid Best-Model Identification for LLM Evaluation via Low-Rank Factorization	https://neurips.cc/virtual/2026/poster/155274	included	比较多模型减少题数时保留选择有效性
+151755	VALOR: Vector-Aware Low-Rank Restructuring of Neural Networks for RISC-V Inference	https://neurips.cc/virtual/2026/poster/151755	excluded	主要为专用 RISC-V 向量处理器重构，摘要未论证重点任务。
+152707	Value-Aware Stochastic KV Cache Eviction for Reasoning Models	https://neurips.cc/virtual/2026/poster/152707	included	推理缓存淘汰需兼顾价值和静态容量
+150575	Value Entanglement: Conflation Between Different Kinds of Good In (Some) Large Language Models	https://neurips.cc/virtual/2026/poster/150575	excluded	核心涉及修改价值行为的内部操作，摘要未单列可独立收录的安全诊断验证。
+149802	Value-Priced Uncertainty: A Family of PPO-Compatible Exploration Bonuses	https://neurips.cc/virtual/2026/poster/149802	included	探索奖励按状态不确定性是否影响价值定价
+149851	Value-Rectified Distillation for Flow-based Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149851	excluded	摘要描述两种价值修正组件，未给决定何时选择的独立证据。
+154170	Values Are Not Single Labels: Distributional Value Profiling Across Groups and Contexts	https://neurips.cc/virtual/2026/poster/154170	excluded	价值分布控制的结果缺少可单列的安全非操作性检验。
+153366	Values as Style: Disentangling Values from Semantics with One-Way Mixing for Low-Damage LLM Steering	https://neurips.cc/virtual/2026/poster/153366	excluded	摘要突出内部价值控制方式，缺少非操作性的通用独立证据。
+154357	ValuSpec: Plug-and-Play Candidate Valuation before Target Verification for Tree-Based Speculative Decoding	https://neurips.cc/virtual/2026/poster/154357	excluded	与附近推测解码预筛选择重叠，摘要未展开特有估值及边界。
+149952	VAMIRec: Value-Aware Memory Intervention for Continual Recommendation	https://neurips.cc/virtual/2026/poster/149952	excluded	主要为推荐任务的记忆决策，摘要未在重点方向验证。
+148169	Variable-Length Generative Protein Design via Generalized Poisson Flow	https://neurips.cc/virtual/2026/poster/148169	excluded	核心为蛋白功能设计与生成，摘要未单列安全通用证据。
+152614	Variance-Adaptive Optimal Algorithm for Reinforcement Learning with MNL Function Approximation	https://neurips.cc/virtual/2026/poster/152614	excluded	主要为特定 MNL 函数近似的理论界和数值模拟。
+154788	Variance-Averse n-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments	https://neurips.cc/virtual/2026/poster/154788	included	稀疏长程离线 RL 对高方差回报保守改权
+151544	Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/151544	included	有真值的 RL 可把新采样预算重分配给高方差前缀
+153246	Variance Reduction for Expectations with Diffusion Teachers	https://neurips.cc/virtual/2026/poster/153246	included	多次调用扩散教师用复用和分层降方差
+154622	Variational Active Flow Matching for Discrete Online Black-Box Optimization	https://neurips.cc/virtual/2026/poster/154622	excluded	核心为蛋白和小分子设计优化，没有独立安全通用验证。
+155166	Variational Approach to Optimal IPS Estimator for Multi-logger Off-Policy Evaluation	https://neurips.cc/virtual/2026/poster/155166	excluded	主要为多日志离策略估计方差理论，摘要未在重点任务验证。
 149599	Variational Consequence-Driven Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149599	pending	-
 149566	Variational Cover Modification Steganography	https://neurips.cc/virtual/2026/poster/149566	pending	-
 152888	Variational Inference via Entropic Transport Descent	https://neurips.cc/virtual/2026/poster/152888	pending	-

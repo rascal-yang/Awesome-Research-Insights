@@ -1903,5 +1903,14 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Understanding Multi-View Transformers](../../conferences/neurips-2026/cards-0012.md#paper-152537)
 - [Understanding Reasoning from Pretraining to Post-Training: Chess as a Controlled Testbed](../../conferences/neurips-2026/cards-0012.md#paper-152950)
 - [Understanding the Challenges in Iterative Generative Optimization with LLMs](../../conferences/neurips-2026/cards-0012.md#paper-148898)
+- [Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs](../../conferences/neurips-2026/cards-0012.md#paper-154527)
+- [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](../../conferences/neurips-2026/cards-0012.md#paper-139060)
+- [Unpacking the Evaluators: How Configuration Shapes the Evaluation of Alignment in Explainable AI](../../conferences/neurips-2026/cards-0012.md#paper-139846)
+- [Unveiling Fine-Grained Visual Traces: Evaluating MultiModal Interleaved Reasoning Chains in Multimodal STEM Tasks](../../conferences/neurips-2026/cards-0012.md#paper-149067)
+- [Unveiling Memorization–Generalization Coexistence: A Case Study on Arithmetic Tasks with Label Noise](../../conferences/neurips-2026/cards-0012.md#paper-148534)
+- [USAD: Uncertainty-aware Statistical Adversarial Detection](../../conferences/neurips-2026/cards-0012.md#paper-154348)
+- [Useful Memories Become Faulty When Continuously Updated by LLMs](../../conferences/neurips-2026/cards-0012.md#paper-148715)
+- [Validating Causal Abstraction Metrics on Simulated Complex Systems](../../conferences/neurips-2026/cards-0012.md#paper-149449)
+- [Valid Best-Model Identification for LLM Evaluation via Low-Rank Factorization](../../conferences/neurips-2026/cards-0012.md#paper-155274)
 
 <!-- conference-classification:end -->

@@ -1489,5 +1489,15 @@
 - [TwinFlux: One-Step Discrete-Continuous Flow for End-to-End Autonomous Driving](../conferences/neurips-2026/cards-0012.md#paper-155650)
 - [Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion](../conferences/neurips-2026/cards-0012.md#paper-149214)
 - [UltraFlash: Accelerating Megapixel Visual Synthesis](../conferences/neurips-2026/cards-0012.md#paper-154462)
+- [Unified Resource-Grounded Coordination Protocol for Orchestrator-Free Heterogeneous Multi-Agent Systems](../conferences/neurips-2026/cards-0012.md#paper-148666)
+- [UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Affordance Segmentation](../conferences/neurips-2026/cards-0012.md#paper-155665)
+- [Unifying Reasoning and Planning through Energy Minimization](../conferences/neurips-2026/cards-0012.md#paper-154954)
+- [UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning](../conferences/neurips-2026/cards-0012.md#paper-153352)
+- [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](../conferences/neurips-2026/cards-0012.md#paper-152106)
+- [Universal Time Series Generation with Neural Controlled Differential Equations](../conferences/neurips-2026/cards-0012.md#paper-150341)
+- [UniVL: Unified Vision-Language Embedding for Spatially Grounded Contextual Image Generation](../conferences/neurips-2026/cards-0012.md#paper-154331)
+- [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](../conferences/neurips-2026/cards-0012.md#paper-149965)
+- [Urgency-Aware Autoregressive VLMs for Unanticipated Healthcare Occurrences](../conferences/neurips-2026/cards-0012.md#paper-149641)
+- [UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression](../conferences/neurips-2026/cards-0012.md#paper-153858)
 
 <!-- conference-classification:end -->

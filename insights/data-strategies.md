@@ -420,5 +420,8 @@
 - [TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision](../conferences/neurips-2026/cards-0012.md#paper-148753)
 - [UGGRH: Unsupervised Generative Completion and Graph-attention Refinement for Incomplete Cross-modal Hashing](../conferences/neurips-2026/cards-0012.md#paper-154876)
 - [Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback](../conferences/neurips-2026/cards-0012.md#paper-149046)
+- [UniDG: Universal Defect Generation via Defect-Context Editing](../conferences/neurips-2026/cards-0012.md#paper-154905)
+- [Unifying Partner and Environment Diversity to Improve Human-AI Coordination](../conferences/neurips-2026/cards-0012.md#paper-151901)
+- [Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution](../conferences/neurips-2026/cards-0012.md#paper-154062)
 
 <!-- conference-classification:end -->
