@@ -1061,67 +1061,67 @@ poster_id	title	paper_url	status	reason
 149073	BlendCast: Teaching Vision-Language Model to Anticipate Member Skill in Weather Ensembles	https://neurips.cc/virtual/2026/poster/149073	included	按变量和大气状态预估成员权重
 151100	BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs	https://neurips.cc/virtual/2026/poster/151100	included	按场景状态差异为3D编辑生成可验证奖励
 150222	Blind-Window Forecasting: Real-Time Benchmarking and Multimodal Reconstruction for Tropical Cyclones	https://neurips.cc/virtual/2026/poster/150222	included	按推理时真实可获得的时间戳构造预报测试
-148271	Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization	https://neurips.cc/virtual/2026/poster/148271	pending	-
-153580	BlockFormer: Transformer-based inference from interaction maps	https://neurips.cc/virtual/2026/poster/153580	pending	-
-152355	Block-OBS-GS: Exact Per-Block Joint Brain Surgery with Gauss–Seidel Refinement for LLM Pruning	https://neurips.cc/virtual/2026/poster/152355	pending	-
-151108	Block Optimism for Nonstationary Bandits with Latent Linear Dynamics	https://neurips.cc/virtual/2026/poster/151108	pending	-
-139480	Block-R1: Rethinking the Role of Block Size in Multi-domain Reinforcement Learning for Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/139480	pending	-
-155122	Block Sparse Flash Attention	https://neurips.cc/virtual/2026/poster/155122	pending	-
-152314	Block Sphere Vector Quantization	https://neurips.cc/virtual/2026/poster/152314	pending	-
-155973	Block-Wise Differentiable Sinkhorn Attention: Tail-Refinement Gradients with a Gap-Aware Dustbin Bridge	https://neurips.cc/virtual/2026/poster/155973	pending	-
-148566	Blur Issue Matters for Thermal Novel View Synthesis: A Floating Gaussian Suppression Approach	https://neurips.cc/virtual/2026/poster/148566	pending	-
-152092	BMAttn: Block-Aligned Mixed-Precision Attention Quantization for LLM Inference	https://neurips.cc/virtual/2026/poster/152092	pending	-
-139541	BoardGameArena: A Multi-Dimensional Benchmark for Strategic Reasoning of LLMs in Board Games	https://neurips.cc/virtual/2026/poster/139541	pending	-
-138938	BO-Arena: An Evolving Benchmark for High-Dimensional Bayesian Optimisation	https://neurips.cc/virtual/2026/poster/138938	pending	-
-139845	BodyBench: Evaluating Adversarial Image Defenses Against AI Nudification Inpainting	https://neurips.cc/virtual/2026/poster/139845	pending	-
-149825	Bonobo: Efficient Library-Scale Generation for De Novo Antibody Design	https://neurips.cc/virtual/2026/poster/149825	pending	-
-155059	BONSAI: Bayesian Optimization with Natural Simplicity and Interpretability	https://neurips.cc/virtual/2026/poster/155059	pending	-
-154738	Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation	https://neurips.cc/virtual/2026/poster/154738	pending	-
-151362	Boosting Graph Contrastive Learning via Manifold-Guided Representation Disentanglement	https://neurips.cc/virtual/2026/poster/151362	pending	-
-149759	Boosting Inference with Guided Reasoning: Stochastic Exploration for Recursive Models	https://neurips.cc/virtual/2026/poster/149759	pending	-
-153592	Boosting LLM Reasoning via Human-Inspired Reward Shaping	https://neurips.cc/virtual/2026/poster/153592	pending	-
-149143	Boosting Multiagent Reinforcement Learning at High Replay Ratios with Ensemble Reset	https://neurips.cc/virtual/2026/poster/149143	pending	-
-154959	Boosting Off-Policy RLVR with Data-Centric Replay	https://neurips.cc/virtual/2026/poster/154959	pending	-
-152409	Boosting Text-to-Image Diffusion Models via Core Token Attention-Based Seed Selection	https://neurips.cc/virtual/2026/poster/152409	pending	-
-152078	BOOST: Power-Optimal Strong-FWER Testing for Block-Structured Multiplicity	https://neurips.cc/virtual/2026/poster/152078	pending	-
-154872	Boost Reasoning Evolution via Responsive Rollout Difficulty Manipulation	https://neurips.cc/virtual/2026/poster/154872	pending	-
-151994	BootstrapAgent: Turning Repository Setup into Reusable Agent Knowledge	https://neurips.cc/virtual/2026/poster/151994	pending	-
-155139	Bootstrapped Bipartite Actor-Critic for Diffusion RL	https://neurips.cc/virtual/2026/poster/155139	pending	-
-155261	Borda-Based Fair Multi-User Dueling Bandit in Tabular and Generalized Linear Settings	https://neurips.cc/virtual/2026/poster/155261	pending	-
-139737	Bottleneck Benchmark: Sequence Compression Under Controlled Difficulty and Fixed Latent Size	https://neurips.cc/virtual/2026/poster/139737	pending	-
-151781	Boule or Baguette? A Study on Task Topology, Length Generalization, and the Benefit of Reasoning Trace	https://neurips.cc/virtual/2026/poster/151781	pending	-
-155598	Boundary-Induced Forgetting in Large Language Model Tool Chains: Measuring Field-Routing Failures	https://neurips.cc/virtual/2026/poster/155598	pending	-
-149689	Boundary Mass in Feature Space as a Label-Budget Diagnostic for Representations	https://neurips.cc/virtual/2026/poster/149689	pending	-
-149342	Bound-Conditioned Latent Inference for Progressive Image Compression	https://neurips.cc/virtual/2026/poster/149342	pending	-
-148822	Bounding Global and Local Compression Error of Signal Parameterizations	https://neurips.cc/virtual/2026/poster/148822	pending	-
-153578	Bounds on Extrapolation across Phase Transitions with Generalized Regression	https://neurips.cc/virtual/2026/poster/153578	pending	-
-149433	BoxTuning: Object-Aware Visual Prompting for  Multimodal Model Fine-Tuning	https://neurips.cc/virtual/2026/poster/149433	pending	-
-149729	BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning	https://neurips.cc/virtual/2026/poster/149729	pending	-
-150021	BRACE: Bipolar Reference-Aware Calibration and Estimation for Incomplete Multimodal Learning	https://neurips.cc/virtual/2026/poster/150021	pending	-
-148803	Brain2voice 2.0: High-performance voice synthesis brain-computer interface	https://neurips.cc/virtual/2026/poster/148803	pending	-
-155614	BrainCoT: A Multi-Task Zero-Shot Brain Signal Foundation Model with Neurometric-Anchored Chain-of-Thought Reasoning	https://neurips.cc/virtual/2026/poster/155614	pending	-
-153903	Brain Economy-Aligned Graph Transformers	https://neurips.cc/virtual/2026/poster/153903	pending	-
-139121	BrainEM: A Large-Scale and Diverse Benchmark for EM Neuron Segmentation in Connectomics	https://neurips.cc/virtual/2026/poster/139121	pending	-
-155505	Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG	https://neurips.cc/virtual/2026/poster/155505	pending	-
-139162	BrainTRACE: Tracing Longitudinal, Multimodal, and Volumetric Evidence in Brain MRI Clinical Reasoning	https://neurips.cc/virtual/2026/poster/139162	pending	-
-153166	BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction	https://neurips.cc/virtual/2026/poster/153166	pending	-
-155029	BrainWhisperer: Leveraging Whisper for Speech Decoding in Neuroprosthetics	https://neurips.cc/virtual/2026/poster/155029	pending	-
-155412	BrainWorld: A Structural-Prior-Conditioned Generative Model for Whole-Brain 4D fMRI Dynamics	https://neurips.cc/virtual/2026/poster/155412	pending	-
-155589	Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions	https://neurips.cc/virtual/2026/poster/155589	pending	-
-139549	BraveATA: Benchmarking Broad and Verifiable End-to-End Automated Theoretical Analysis of Large Language Models	https://neurips.cc/virtual/2026/poster/139549	pending	-
-148431	BRAVO: Bridge Matching for Autoregressive Video Generation	https://neurips.cc/virtual/2026/poster/148431	pending	-
-150737	Breadcrumbing Search Agents: Per-Turn Scheming Over Long-Horizon Trajectories	https://neurips.cc/virtual/2026/poster/150737	pending	-
+148271	Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization	https://neurips.cc/virtual/2026/poster/148271	included	用退火块大小实现离散约束的局部大步修正
+153580	BlockFormer: Transformer-based inference from interaction maps	https://neurips.cc/virtual/2026/poster/153580	included	让交互图逆推模型兼容实体数量和大小变化
+152355	Block-OBS-GS: Exact Per-Block Joint Brain Surgery with Gauss–Seidel Refinement for LLM Pruning	https://neurips.cc/virtual/2026/poster/152355	included	固定剪枝掩码后精确求块内权重并做跨块校正
+151108	Block Optimism for Nonstationary Bandits with Latent Linear Dynamics	https://neurips.cc/virtual/2026/poster/151108	included	潜状态受动作影响时按有限记忆块做乐观探索
+139480	Block-R1: Rethinking the Role of Block Size in Multi-domain Reinforcement Learning for Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/139480	included	训练扩散语言模型时按样本选 rollout 块大小
+155122	Block Sparse Flash Attention	https://neurips.cc/virtual/2026/poster/155122	included	在计算精确查询键分数后按块阈值省去低价值计算
+152314	Block Sphere Vector Quantization	https://neurips.cc/virtual/2026/poster/152314	included	根据重建或检索目标选择量化准则
+155973	Block-Wise Differentiable Sinkhorn Attention: Tail-Refinement Gradients with a Gap-Aware Dustbin Bridge	https://neurips.cc/virtual/2026/poster/155973	included	只对迭代求解器的短精修尾部求导，以降低存储
+148566	Blur Issue Matters for Thermal Novel View Synthesis: A Floating Gaussian Suppression Approach	https://neurips.cc/virtual/2026/poster/148566	included	识别单通道成像中亮度和透明度相互补偿
+152092	BMAttn: Block-Aligned Mixed-Precision Attention Quantization for LLM Inference	https://neurips.cc/virtual/2026/poster/152092	included	分块分配精度以兼顾重要性和 GPU 规则访存
+139541	BoardGameArena: A Multi-Dimensional Benchmark for Strategic Reasoning of LLMs in Board Games	https://neurips.cc/virtual/2026/poster/139541	included	分别测试合法走子和实际策略选择
+138938	BO-Arena: An Evolving Benchmark for High-Dimensional Bayesian Optimisation	https://neurips.cc/virtual/2026/poster/138938	included	用公共实现和简单 GP 对照检验高维优化新方法
+139845	BodyBench: Evaluating Adversarial Image Defenses Against AI Nudification Inpainting	https://neurips.cc/virtual/2026/poster/139845	included	以实际危害指标验证隐私防护
+149825	Bonobo: Efficient Library-Scale Generation for De Novo Antibody Design	https://neurips.cc/virtual/2026/poster/149825	excluded	工作聚焦专用抗体工程，未提取可独立复用的安全技术结论。
+155059	BONSAI: Bayesian Optimization with Natural Simplicity and Interpretability	https://neurips.cc/virtual/2026/poster/155059	included	在限制采集效用损失时尽量保留默认配置
+154738	Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation	https://neurips.cc/virtual/2026/poster/154738	included	按数据来源调节合成与真实观测的训练配比
+151362	Boosting Graph Contrastive Learning via Manifold-Guided Representation Disentanglement	https://neurips.cc/virtual/2026/poster/151362	included	对增强视图只在共享子空间约束一致性
+149759	Boosting Inference with Guided Reasoning: Stochastic Exploration for Recursive Models	https://neurips.cc/virtual/2026/poster/149759	included	仅在停止头能区分好轨迹时用随机推理搜索
+153592	Boosting LLM Reasoning via Human-Inspired Reward Shaping	https://neurips.cc/virtual/2026/poster/153592	included	错误阶段鼓励探索，成功后再惩罚冗长
+149143	Boosting Multiagent Reinforcement Learning at High Replay Ratios with Ensemble Reset	https://neurips.cc/virtual/2026/poster/149143	included	高回放比下监控休眠神经元并周期重置价值集成
+154959	Boosting Off-Policy RLVR with Data-Centric Replay	https://neurips.cc/virtual/2026/poster/154959	included	控制轨迹陈旧度
+152409	Boosting Text-to-Image Diffusion Models via Core Token Attention-Based Seed Selection	https://neurips.cc/virtual/2026/poster/152409	included	按早期注意力挑种子
+152078	BOOST: Power-Optimal Strong-FWER Testing for Block-Structured Multiplicity	https://neurips.cc/virtual/2026/poster/152078	included	按块分配检验预算
+154872	Boost Reasoning Evolution via Responsive Rollout Difficulty Manipulation	https://neurips.cc/virtual/2026/poster/154872	included	按单题成功率调整提示长度
+151994	BootstrapAgent: Turning Repository Setup into Reusable Agent Knowledge	https://neurips.cc/virtual/2026/poster/151994	included	把安装与诊断记录为可冷启动复验的契约
+155139	Bootstrapped Bipartite Actor-Critic for Diffusion RL	https://neurips.cc/virtual/2026/poster/155139	included	用动作Q差为成对偏好加权
+155261	Borda-Based Fair Multi-User Dueling Bandit in Tabular and Generalized Linear Settings	https://neurips.cc/virtual/2026/poster/155261	included	按用户Borda效用构建纳什福利
+139737	Bottleneck Benchmark: Sequence Compression Under Controlled Difficulty and Fixed Latent Size	https://neurips.cc/virtual/2026/poster/139737	included	固定潜变量尺寸再扫任务难度
+151781	Boule or Baguette? A Study on Task Topology, Length Generalization, and the Benefit of Reasoning Trace	https://neurips.cc/virtual/2026/poster/151781	included	分开测证明深度和任务广度
+155598	Boundary-Induced Forgetting in Large Language Model Tool Chains: Measuring Field-Routing Failures	https://neurips.cc/virtual/2026/poster/155598	included	按字段依赖测跨工具传播
+149689	Boundary Mass in Feature Space as a Label-Budget Diagnostic for Representations	https://neurips.cc/virtual/2026/poster/149689	included	测边界附近的特征质量判断标注需求
+149342	Bound-Conditioned Latent Inference for Progressive Image Compression	https://neurips.cc/virtual/2026/poster/149342	included	用已解码符号约束连续潜变量
+148822	Bounding Global and Local Compression Error of Signal Parameterizations	https://neurips.cc/virtual/2026/poster/148822	included	用不同压缩级预测之差估计误差
+153578	Bounds on Extrapolation across Phase Transitions with Generalized Regression	https://neurips.cc/virtual/2026/poster/153578	included	用广义特征值问题估计跨相外推风险
+149433	BoxTuning: Object-Aware Visual Prompting for  Multimodal Model Fine-Tuning	https://neurips.cc/virtual/2026/poster/149433	included	在视频帧中直接绘制物体空间状态
+149729	BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning	https://neurips.cc/virtual/2026/poster/149729	included	用二值适配器替代半精度适配器
+150021	BRACE: Bipolar Reference-Aware Calibration and Estimation for Incomplete Multimodal Learning	https://neurips.cc/virtual/2026/poster/150021	included	利用上下参考群判断修正方向
+148803	Brain2voice 2.0: High-performance voice synthesis brain-computer interface	https://neurips.cc/virtual/2026/poster/148803	included	联合监督连续声学、离散声学和音素
+155614	BrainCoT: A Multi-Task Zero-Shot Brain Signal Foundation Model with Neurometric-Anchored Chain-of-Thought Reasoning	https://neurips.cc/virtual/2026/poster/155614	included	将神经指标作为可核对的预测依据
+153903	Brain Economy-Aligned Graph Transformers	https://neurips.cc/virtual/2026/poster/153903	included	把结构成本注入连接而非节点
+139121	BrainEM: A Large-Scale and Diverse Benchmark for EM Neuron Segmentation in Connectomics	https://neurips.cc/virtual/2026/poster/139121	included	分开测目标域少量标注与纯跨源复用。
+155505	Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG	https://neurips.cc/virtual/2026/poster/155505	included	共享专家与模态专属专家分工。
+139162	BrainTRACE: Tracing Longitudinal, Multimodal, and Volumetric Evidence in Brain MRI Clinical Reasoning	https://neurips.cc/virtual/2026/poster/139162	included	把纵向综合结论拆为可核查的证据链。
+153166	BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction	https://neurips.cc/virtual/2026/poster/153166	included	把刺激输入对齐到预测查询，并切断未来信息。
+155029	BrainWhisperer: Leveraging Whisper for Speech Decoding in Neuroprosthetics	https://neurips.cc/virtual/2026/poster/155029	included	将会话漂移交给分层低秩投影。
+155412	BrainWorld: A Structural-Prior-Conditioned Generative Model for Whole-Brain 4D fMRI Dynamics	https://neurips.cc/virtual/2026/poster/155412	included	用受试者的静态结构条件约束动态生成。
+155589	Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions	https://neurips.cc/virtual/2026/poster/155589	excluded	主要实验聚焦分子与生物分子生成，未提取经安全核查且有独立验证的非生物应用机制。
+139549	BraveATA: Benchmarking Broad and Verifiable End-to-End Automated Theoretical Analysis of Large Language Models	https://neurips.cc/virtual/2026/poster/139549	included	拆测理论发现、建模和证明。
+148431	BRAVO: Bridge Matching for Autoregressive Video Generation	https://neurips.cc/virtual/2026/poster/148431	included	从上一帧出发学习相邻帧运输。
+150737	Breadcrumbing Search Agents: Per-Turn Scheming Over Long-Horizon Trajectories	https://neurips.cc/virtual/2026/poster/150737	excluded	主要贡献侧重进攻性代理操纵，摘要未说明有独立验证的防御机制。
 148644	Breakeven complexity: A new perspective on neural partial differential equation solvers	https://neurips.cc/virtual/2026/poster/148644	included	按同误差的数值解算器计算盈亏平衡求解次数。
-150356	Breaking $\textit{Winner-Takes-All}$: Cooperative Policy Optimization Improves Diverse LLM Reasoning	https://neurips.cc/virtual/2026/poster/150356	pending	-
-153915	Breaking Adversarial Transferability in Fine-Tuned Speech Recognition	https://neurips.cc/virtual/2026/poster/153915	pending	-
-148208	Breaking BAD: Heterogeneous Byzantine-Robust Federated Learning via Gather and Scatter Scores	https://neurips.cc/virtual/2026/poster/148208	pending	-
-154130	Breaking Curse of Dimensionality for Mutual Information Estimation with Vine Copulas	https://neurips.cc/virtual/2026/poster/154130	pending	-
-155178	Breaking feature collapse in self-supervised time series encoder	https://neurips.cc/virtual/2026/poster/155178	pending	-
-155451	Breaking Information Islands in Sparse Tuning via Small-World Connectivity	https://neurips.cc/virtual/2026/poster/155451	pending	-
-153382	Breaking Modality Heterogeneity in Low-Bit Quantization for Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/153382	pending	-
-153415	Breaking Noise Shortcuts in Self-Supervised Learning via Noise-Aligned View Generation	https://neurips.cc/virtual/2026/poster/153415	pending	-
-152679	Breaking the $\sqrt{d}$ Communication Barrier in Federated Sampling with Adaptive Hamiltonian Monte Carlo	https://neurips.cc/virtual/2026/poster/152679	pending	-
-154531	Breaking the Bias Barrier in Concave Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154531	pending	-
+150356	Breaking $\textit{Winner-Takes-All}$: Cooperative Policy Optimization Improves Diverse LLM Reasoning	https://neurips.cc/virtual/2026/poster/150356	included	按对有效解集合的边际贡献分奖励。
+153915	Breaking Adversarial Transferability in Fine-Tuned Speech Recognition	https://neurips.cc/virtual/2026/poster/153915	included	部署前验证公开底座的风险是否残留在微调模型。
+148208	Breaking BAD: Heterogeneous Byzantine-Robust Federated Learning via Gather and Scatter Scores	https://neurips.cc/virtual/2026/poster/148208	included	同时检查更新的局部聚集与整体离散。
+154130	Breaking Curse of Dimensionality for Mutual Information Estimation with Vine Copulas	https://neurips.cc/virtual/2026/poster/154130	included	依赖复杂时比较藤 copula 与神经互信息估计。
+155178	Breaking feature collapse in self-supervised time series encoder	https://neurips.cc/virtual/2026/poster/155178	included	以表示空间约束补充掩码重建。
+155451	Breaking Information Islands in Sparse Tuning via Small-World Connectivity	https://neurips.cc/virtual/2026/poster/155451	included	相同参数预算下改善跨块连接。
+153382	Breaking Modality Heterogeneity in Low-Bit Quantization for Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/153382	included	将模态特有的离群通道分开校准。
+153415	Breaking Noise Shortcuts in Self-Supervised Learning via Noise-Aligned View Generation	https://neurips.cc/virtual/2026/poster/153415	included	对同图的两个自监督视图重采样独立噪声。
+152679	Breaking the $\sqrt{d}$ Communication Barrier in Federated Sampling with Adaptive Hamiltonian Monte Carlo	https://neurips.cc/virtual/2026/poster/152679	included	按客户端偏移调整同步频率。
+154531	Breaking the Bias Barrier in Concave Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154531	included	检查效用平滑性后决定是否用多层蒙特卡洛。
 154778	Breaking the Exactness Barrier: Interleaved DeepSeek Sparse Attention for Efficient Long Context Reasoning	https://neurips.cc/virtual/2026/poster/154778	pending	-
 151813	Breaking the Grid: Distance-Guided Reinforcement Learning in Large Discrete Action Spaces	https://neurips.cc/virtual/2026/poster/151813	pending	-
 151566	Breaking the Group Size Barrier: Parameter-Efficient Group Dance Generation with Chain-of-Dancers	https://neurips.cc/virtual/2026/poster/151566	pending	-

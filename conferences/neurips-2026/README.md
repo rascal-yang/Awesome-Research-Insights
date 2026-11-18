@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1109** 篇，暂收录 **1010** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1169** 篇，暂收录 **1067** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1018,3 +1018,60 @@
 | 科学机器学习 | 集合预报 | [BlendCast: Teaching Vision-Language Model to Anticipate Member Skill in Weather Ensembles](cards-0002.md#paper-149073) | 按变量和大气状态预估成员权重 |
 | 多模态 | 可验证智能体 | [BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs](cards-0002.md#paper-151100) | 按场景状态差异为3D编辑生成可验证奖励 |
 | 科学机器学习 | 预报评测 | [Blind-Window Forecasting: Real-Time Benchmarking and Multimodal Reconstruction for Tropical Cyclones](cards-0002.md#paper-150222) | 按推理时真实可获得的时间戳构造预报测试 |
+| 优化 | 块重采样 | [Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization](cards-0002.md#paper-148271) | 用退火块大小实现离散约束的局部大步修正 |
+| 科学机器学习 | 逆问题 | [BlockFormer: Transformer-based inference from interaction maps](cards-0002.md#paper-153580) | 让交互图逆推模型兼容实体数量和大小变化 |
+| 大语言模型 | 剪枝 | [Block-OBS-GS: Exact Per-Block Joint Brain Surgery with Gauss–Seidel Refinement for LLM Pruning](cards-0002.md#paper-152355) | 固定剪枝掩码后精确求块内权重并做跨块校正 |
+| 强化学习 | 遗憾分析 | [Block Optimism for Nonstationary Bandits with Latent Linear Dynamics](cards-0002.md#paper-151108) | 潜状态受动作影响时按有限记忆块做乐观探索 |
+| 大语言模型 | 强化学习后训练 | [Block-R1: Rethinking the Role of Block Size in Multi-domain Reinforcement Learning for Diffusion Large Language Models](cards-0002.md#paper-139480) | 训练扩散语言模型时按样本选 rollout 块大小 |
+| 大语言模型 | 稀疏注意力 | [Block Sparse Flash Attention](cards-0002.md#paper-155122) | 在计算精确查询键分数后按块阈值省去低价值计算 |
+| 高效机器学习 | 向量量化 | [Block Sphere Vector Quantization](cards-0002.md#paper-152314) | 根据重建或检索目标选择量化准则 |
+| 高效机器学习 | 注意力求导 | [Block-Wise Differentiable Sinkhorn Attention: Tail-Refinement Gradients with a Gap-Aware Dustbin Bridge](cards-0002.md#paper-155973) | 只对迭代求解器的短精修尾部求导，以降低存储 |
+| 计算机视觉 | 三维重建 | [Blur Issue Matters for Thermal Novel View Synthesis: A Floating Gaussian Suppression Approach](cards-0002.md#paper-148566) | 识别单通道成像中亮度和透明度相互补偿 |
+| 大语言模型 | 注意力量化 | [BMAttn: Block-Aligned Mixed-Precision Attention Quantization for LLM Inference](cards-0002.md#paper-152092) | 分块分配精度以兼顾重要性和 GPU 规则访存 |
+| 大语言模型 | 推理评测 | [BoardGameArena: A Multi-Dimensional Benchmark for Strategic Reasoning of LLMs in Board Games](cards-0002.md#paper-139541) | 分别测试合法走子和实际策略选择 |
+| 优化 | 基准审计 | [BO-Arena: An Evolving Benchmark for High-Dimensional Bayesian Optimisation](cards-0002.md#paper-138938) | 用公共实现和简单 GP 对照检验高维优化新方法 |
+| 可信机器学习 | 防御评测 | [BodyBench: Evaluating Adversarial Image Defenses Against AI Nudification Inpainting](cards-0002.md#paper-139845) | 以实际危害指标验证隐私防护 |
+| 优化 | 稀疏决策 | [BONSAI: Bayesian Optimization with Natural Simplicity and Interpretability](cards-0002.md#paper-155059) | 在限制采集效用损失时尽量保留默认配置 |
+| 神经科学 / 多模态 | 数据增强 | [Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation](cards-0002.md#paper-154738) | 按数据来源调节合成与真实观测的训练配比 |
+| 图学习 | 对比表征 | [Boosting Graph Contrastive Learning via Manifold-Guided Representation Disentanglement](cards-0002.md#paper-151362) | 对增强视图只在共享子空间约束一致性 |
+| 大语言模型 | 递归推理 | [Boosting Inference with Guided Reasoning: Stochastic Exploration for Recursive Models](cards-0002.md#paper-149759) | 仅在停止头能区分好轨迹时用随机推理搜索 |
+| 大语言模型 | 奖励塑形 | [Boosting LLM Reasoning via Human-Inspired Reward Shaping](cards-0002.md#paper-153592) | 错误阶段鼓励探索，成功后再惩罚冗长 |
+| 强化学习 | 经验回放 | [Boosting Multiagent Reinforcement Learning at High Replay Ratios with Ensemble Reset](cards-0002.md#paper-149143) | 高回放比下监控休眠神经元并周期重置价值集成 |
+| 强化学习 | 经验回放 | [Boosting Off-Policy RLVR with Data-Centric Replay](cards-0002.md#paper-154959) | 控制轨迹陈旧度 |
+| 视觉生成 | 推理筛选 | [Boosting Text-to-Image Diffusion Models via Core Token Attention-Based Seed Selection](cards-0002.md#paper-152409) | 按早期注意力挑种子 |
+| 统计学习 | 多重检验 | [BOOST: Power-Optimal Strong-FWER Testing for Block-Structured Multiplicity](cards-0002.md#paper-152078) | 按块分配检验预算 |
+| 强化学习 | 课程设计 | [Boost Reasoning Evolution via Responsive Rollout Difficulty Manipulation](cards-0002.md#paper-154872) | 按单题成功率调整提示长度 |
+| Agent | 开发环境 | [BootstrapAgent: Turning Repository Setup into Reusable Agent Knowledge](cards-0002.md#paper-151994) | 把安装与诊断记录为可冷启动复验的契约 |
+| 强化学习 | 生成策略 | [Bootstrapped Bipartite Actor-Critic for Diffusion RL](cards-0002.md#paper-155139) | 用动作Q差为成对偏好加权 |
+| 学习理论 | 偏好决策 | [Borda-Based Fair Multi-User Dueling Bandit in Tabular and Generalized Linear Settings](cards-0002.md#paper-155261) | 按用户Borda效用构建纳什福利 |
+| 表征学习 | 压缩评测 | [Bottleneck Benchmark: Sequence Compression Under Controlled Difficulty and Fixed Latent Size](cards-0002.md#paper-139737) | 固定潜变量尺寸再扫任务难度 |
+| 大语言模型 | 推理诊断 | [Boule or Baguette? A Study on Task Topology, Length Generalization, and the Benefit of Reasoning Trace](cards-0002.md#paper-151781) | 分开测证明深度和任务广度 |
+| Agent | 工具链诊断 | [Boundary-Induced Forgetting in Large Language Model Tool Chains: Measuring Field-Routing Failures](cards-0002.md#paper-155598) | 按字段依赖测跨工具传播 |
+| 表征学习 | 数据效率 | [Boundary Mass in Feature Space as a Label-Budget Diagnostic for Representations](cards-0002.md#paper-149689) | 测边界附近的特征质量判断标注需求 |
+| 计算机视觉 | 渐进压缩 | [Bound-Conditioned Latent Inference for Progressive Image Compression](cards-0002.md#paper-149342) | 用已解码符号约束连续潜变量 |
+| 计算成像 | 误差估计 | [Bounding Global and Local Compression Error of Signal Parameterizations](cards-0002.md#paper-148822) | 用不同压缩级预测之差估计误差 |
+| 科学机器学习 | 外推诊断 | [Bounds on Extrapolation across Phase Transitions with Generalized Regression](cards-0002.md#paper-153578) | 用广义特征值问题估计跨相外推风险 |
+| 多模态学习 | 视觉提示 | [BoxTuning: Object-Aware Visual Prompting for  Multimodal Model Fine-Tuning](cards-0002.md#paper-149433) | 在视频帧中直接绘制物体空间状态 |
+| 大语言模型 | 量化微调 | [BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning](cards-0002.md#paper-149729) | 用二值适配器替代半精度适配器 |
+| 多模态学习 | 缺失模态 | [BRACE: Bipolar Reference-Aware Calibration and Estimation for Incomplete Multimodal Learning](cards-0002.md#paper-150021) | 利用上下参考群判断修正方向 |
+| 神经科学 | 语音解码 | [Brain2voice 2.0: High-performance voice synthesis brain-computer interface](cards-0002.md#paper-148803) | 联合监督连续声学、离散声学和音素 |
+| 神经科学 | 证据监督 | [BrainCoT: A Multi-Task Zero-Shot Brain Signal Foundation Model with Neurometric-Anchored Chain-of-Thought Reasoning](cards-0002.md#paper-155614) | 将神经指标作为可核对的预测依据 |
+| 神经科学 | 图注意力 | [Brain Economy-Aligned Graph Transformers](cards-0002.md#paper-153903) | 把结构成本注入连接而非节点 |
+| 科学机器学习 | 评测 | [BrainEM: A Large-Scale and Diverse Benchmark for EM Neuron Segmentation in Connectomics](cards-0002.md#paper-139121) | 分开测目标域少量标注与纯跨源复用。 |
+| 多模态学习 | 时频预训练 | [Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG](cards-0002.md#paper-155505) | 共享专家与模态专属专家分工。 |
+| 多模态学习 | 证据评测 | [BrainTRACE: Tracing Longitudinal, Multimodal, and Volumetric Evidence in Brain MRI Clinical Reasoning](cards-0002.md#paper-139162) | 把纵向综合结论拆为可核查的证据链。 |
+| 科学机器学习 | 时序预测 | [BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction](cards-0002.md#paper-153166) | 把刺激输入对齐到预测查询，并切断未来信息。 |
+| 多模态学习 | 迁移适配 | [BrainWhisperer: Leveraging Whisper for Speech Decoding in Neuroprosthetics](cards-0002.md#paper-155029) | 将会话漂移交给分层低秩投影。 |
+| 科学机器学习 | 条件生成 | [BrainWorld: A Structural-Prior-Conditioned Generative Model for Whole-Brain 4D fMRI Dynamics](cards-0002.md#paper-155412) | 用受试者的静态结构条件约束动态生成。 |
+| 大语言模型 | 形式化评测 | [BraveATA: Benchmarking Broad and Verifiable End-to-End Automated Theoretical Analysis of Large Language Models](cards-0002.md#paper-139549) | 拆测理论发现、建模和证明。 |
+| 计算机视觉 | 生成 | [BRAVO: Bridge Matching for Autoregressive Video Generation](cards-0002.md#paper-148431) | 从上一帧出发学习相邻帧运输。 |
+| 强化学习 | 信用分配 | [Breaking $\textit{Winner-Takes-All}$: Cooperative Policy Optimization Improves Diverse LLM Reasoning](cards-0002.md#paper-150356) | 按对有效解集合的边际贡献分奖励。 |
+| 语音识别 | 鲁棒微调 | [Breaking Adversarial Transferability in Fine-Tuned Speech Recognition](cards-0002.md#paper-153915) | 部署前验证公开底座的风险是否残留在微调模型。 |
+| 联邦学习 | 鲁棒聚合 | [Breaking BAD: Heterogeneous Byzantine-Robust Federated Learning via Gather and Scatter Scores](cards-0002.md#paper-148208) | 同时检查更新的局部聚集与整体离散。 |
+| 统计学习 | 信息估计 | [Breaking Curse of Dimensionality for Mutual Information Estimation with Vine Copulas](cards-0002.md#paper-154130) | 依赖复杂时比较藤 copula 与神经互信息估计。 |
+| 时序学习 | 自监督 | [Breaking feature collapse in self-supervised time series encoder](cards-0002.md#paper-155178) | 以表示空间约束补充掩码重建。 |
+| 深度学习 | 稀疏微调 | [Breaking Information Islands in Sparse Tuning via Small-World Connectivity](cards-0002.md#paper-155451) | 相同参数预算下改善跨块连接。 |
+| 多模态学习 | 量化 | [Breaking Modality Heterogeneity in Low-Bit Quantization for Large Vision-Language Models](cards-0002.md#paper-153382) | 将模态特有的离群通道分开校准。 |
+| 科学机器学习 | 数据增强 | [Breaking Noise Shortcuts in Self-Supervised Learning via Noise-Aligned View Generation](cards-0002.md#paper-153415) | 对同图的两个自监督视图重采样独立噪声。 |
+| 统计学习 | 联邦采样 | [Breaking the $\sqrt{d}$ Communication Barrier in Federated Sampling with Adaptive Hamiltonian Monte Carlo](cards-0002.md#paper-152679) | 按客户端偏移调整同步频率。 |
+| 强化学习 | 梯度估计 | [Breaking the Bias Barrier in Concave Multi-Objective Reinforcement Learning](cards-0002.md#paper-154531) | 检查效用平滑性后决定是否用多层蒙特卡洛。 |
