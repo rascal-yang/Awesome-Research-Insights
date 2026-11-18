@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **37 / 687** 篇，当前收录 **37** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **40 / 687** 篇，当前收录 **40** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -43,3 +43,6 @@
 | 具身智能 / 多模态 | 三维表征 | [SAGE-3D](cards.md#paper-z04kxywc6v) | 用任务语义组织深度特征再调制动作头 |
 | 具身智能 / 多模态 | 动作生成 | [TBD-VLA](cards.md#paper-vy6u0drx88) | 块间按时间自回归，块内并行生成离散动作 |
 | 具身智能 / Agent | 动作规划 | [Coarse-to-Control](cards.md#paper-tegllxbrcu) | 先在执行词表内预测粗动作计划，再细化为可执行动作 |
+| 具身智能 / Agent | 动作规划 | [ThinkingVLA](cards.md#paper-fgwkovhmqe) | 先预测子目标画面，再根据画面推断如何达到它 |
+| 具身智能 / 多模态 | 世界模型 | [Unified Motion Action Model](cards.md#paper-efgcnzgmvn) | 用可切换的掩码统一物体运动预测与机器人控制 |
+| 具身智能 / 多模态 | 动作表示 | [ELA](cards.md#paper-iy5oceldef) | 用下游控制与解码目标一起训练视频潜动作 |

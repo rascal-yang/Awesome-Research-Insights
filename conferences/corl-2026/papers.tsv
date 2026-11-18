@@ -38,9 +38,9 @@ number	openreview_id	title	paper_url	reason	status
 37	wRLEgpRnVR	ActionCodec: What Makes for Good Action Tokenizers	https://openreview.net/forum?id=wRLEgpRnVR	用下游训练难度和闭环指标一起选动作 tokenizer	included
 38	VY6U0drX88	TBD-VLA: Temporal Block Diffusion Vision Language Action Model	https://openreview.net/forum?id=VY6U0drX88	块间按时间自回归，块内并行生成离散动作	included
 39	tegLlXBRCU	Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models	https://openreview.net/forum?id=tegLlXBRCU	先在执行词表内预测粗动作计划，再细化为可执行动作	included
-40	fGWkovHMQE	ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation	https://openreview.net/forum?id=fGWkovHMQE		pending
-41	EfgCnZgmvN	Unified Motion-Action Modeling for Heterogeneous Robot Learning	https://openreview.net/forum?id=EfgCnZgmvN		pending
-42	iy5oCeLdEF	ELA: End-to-End Latent Action Policy Learning from Video Demonstrations	https://openreview.net/forum?id=iy5oCeLdEF		pending
+40	fGWkovHMQE	ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation	https://openreview.net/forum?id=fGWkovHMQE	先预测子目标画面，再根据画面推断如何达到它	included
+41	EfgCnZgmvN	Unified Motion-Action Modeling for Heterogeneous Robot Learning	https://openreview.net/forum?id=EfgCnZgmvN	用可切换的掩码统一物体运动预测与机器人控制	included
+42	iy5oCeLdEF	ELA: End-to-End Latent Action Policy Learning from Video Demonstrations	https://openreview.net/forum?id=iy5oCeLdEF	用下游控制与解码目标一起训练视频潜动作	included
 43	ghx1d6PQUR	HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model	https://openreview.net/forum?id=ghx1d6PQUR		pending
 44	yNHgrgATuY	FIBERTUNE: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning	https://openreview.net/forum?id=yNHgrgATuY		pending
 45	Y55iJjxMsh	Compositional Diffusion Policy for Vision–Language–Action Agents	https://openreview.net/forum?id=Y55iJjxMsh		pending
