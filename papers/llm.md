@@ -1946,5 +1946,10 @@
 - [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](../conferences/neurips-2026/cards-0007.md#paper-149326)
 - [LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving](../conferences/neurips-2026/cards-0007.md#paper-155461)
 - [LEAP: Library-driven Evolutionary Abstraction Paradigm for Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-154619)
+- [Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](../conferences/neurips-2026/cards-0007.md#paper-154509)
+- [Learning Evidence Highlighting for Frozen LLMs](../conferences/neurips-2026/cards-0007.md#paper-148164)
+- [Learning from Disagreement: Maximum Divergence Knowledge Distillation](../conferences/neurips-2026/cards-0007.md#paper-155838)
+- [Learning from Language Feedback via Variational Policy Distillation](../conferences/neurips-2026/cards-0007.md#paper-152357)
+- [Learning from the Self-future: On-policy Self-distillation for dLLMs](../conferences/neurips-2026/cards-0007.md#paper-153722)
 
 <!-- conference-classification:end -->

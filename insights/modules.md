@@ -364,5 +364,7 @@
 - [LAPLEX: The FFT of Learnable Laplace Kernels](../conferences/neurips-2026/cards-0007.md#paper-155528)
 - [LaSA-Net: A Language-Guided Network for Outdoor Generalized 3D Referring Expression Segmentation](../conferences/neurips-2026/cards-0007.md#paper-153716)
 - [Latent-Lens: Visual Perception in Small Language Models Through Latent Communication](../conferences/neurips-2026/cards-0007.md#paper-155307)
+- [Learnable Low-Rank Polynomial Sketch for Effective Linear Attention](../conferences/neurips-2026/cards-0007.md#paper-149962)
+- [Learnable Spectral Activations](../conferences/neurips-2026/cards-0007.md#paper-151899)
 
 <!-- conference-classification:end -->

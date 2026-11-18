@@ -896,5 +896,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [Latent Video Prediction for World Modeling: An Evaluation Uncovering Intriguing Favorable Evidence](../../conferences/neurips-2026/cards-0007.md#paper-139786)
 - [LCD$^3$: Layout-Conditioned Diffusion for Dataset Distillation in Object Detection](../../conferences/neurips-2026/cards-0007.md#paper-150456)
 - [LDM-is-AE: Latent Diffusion is an Intrinsic Auto-Encoder for End-to-End Image Generation](../../conferences/neurips-2026/cards-0007.md#paper-155308)
+- [Learning a Maximum Entropy Model for Visual Textures using Diffusion](../../conferences/neurips-2026/cards-0007.md#paper-154116)
+- [Learning Better Certified Models from Empirically-Robust Teachers](../../conferences/neurips-2026/cards-0007.md#paper-155696)
+- [Learning Cultural Vectors for Cross-Cultural Generation](../../conferences/neurips-2026/cards-0007.md#paper-155934)
+- [Learning Dynamic Evidence Routes for Vision Transformer Probing](../../conferences/neurips-2026/cards-0007.md#paper-156006)
 
 <!-- conference-classification:end -->

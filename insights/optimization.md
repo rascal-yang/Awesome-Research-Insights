@@ -597,5 +597,9 @@
 - [Layerwise LQR for Geometry-Aware Optimization of Deep Networks](../conferences/neurips-2026/cards-0007.md#paper-148444)
 - [LDD-RFM: Learnable Domain Decomposition for Random Feature Models via Variable Projection](../conferences/neurips-2026/cards-0007.md#paper-152971)
 - [LEAP: Library-driven Evolutionary Abstraction Paradigm for Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-154619)
+- [Learned Lagrangian Models of PDEs via Euler–Lagrange Residual Minimization](../conferences/neurips-2026/cards-0007.md#paper-151132)
+- [Learning Acceptable Lotteries via Queries: Minimizing Aggregated Violation Distances](../conferences/neurips-2026/cards-0007.md#paper-155546)
+- [Learning-Augmented Approximation for Unrelated-Machines Makespan Scheduling](../conferences/neurips-2026/cards-0007.md#paper-153033)
+- [Learning Digital Twins under Drift: Optimal Tracking Rates for Non-Stationary Dynamical Systems](../conferences/neurips-2026/cards-0007.md#paper-152808)
 
 <!-- conference-classification:end -->

@@ -341,5 +341,6 @@ Objectives, auxiliary supervision, and regularization.
 - [It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs](../../conferences/neurips-2026/cards-0007.md#paper-149725)
 - [Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise](../../conferences/neurips-2026/cards-0007.md#paper-148725)
 - [Knowledge-Level Consistency Reinforcement Learning: Dual-Fact Alignment for Long-Form Factuality](../../conferences/neurips-2026/cards-0007.md#paper-152984)
+- [Learning Energy-Based Models from Stochastic Interpolants using Spatiotemporal Differences](../../conferences/neurips-2026/cards-0007.md#paper-152730)
 
 <!-- conference-classification:end -->

@@ -899,5 +899,15 @@
 - [Large language models suffer from a curse of ambiguity](../conferences/neurips-2026/cards-0007.md#paper-150511)
 - [Latent Process Generator Matching](../conferences/neurips-2026/cards-0007.md#paper-155816)
 - [Leaner transformers can easily learn to cluster](../conferences/neurips-2026/cards-0007.md#paper-151648)
+- [Learn from your own latents and not from tokens: A sample-complexity theory](../conferences/neurips-2026/cards-0007.md#paper-151709)
+- [Learning-Augmented Coordination Mechanisms](../conferences/neurips-2026/cards-0007.md#paper-151549)
+- [Learning-Augmented Mechanism Design for Facility Location under $L_p$-Norm Social Costs](../conferences/neurips-2026/cards-0007.md#paper-149389)
+- [Learning Chance-Constrained MDPs with Bellman Distributional Certificates](../conferences/neurips-2026/cards-0007.md#paper-154689)
+- [Learning Deployable Causal Action Geometry under Temporal Non-Stationarity](../conferences/neurips-2026/cards-0007.md#paper-154378)
+- [Learning Distributions from Multiple Data Providers](../conferences/neurips-2026/cards-0007.md#paper-154089)
+- [Learning Fractional-Order Dynamics from a Single Trajectory](../conferences/neurips-2026/cards-0007.md#paper-148968)
+- [Learning from Ranking Feedback: Improved Regret Bounds via Independence Preserving Rank Breaking](../conferences/neurips-2026/cards-0007.md#paper-153500)
+- [Learning Gaussian Conditional Distributions using Neural Ratio Estimation is Hard](../conferences/neurips-2026/cards-0007.md#paper-149465)
+- [Learning Global Temporal Dynamics in Sparse Networks via Cycle Counts](../conferences/neurips-2026/cards-0007.md#paper-149950)
 
 <!-- conference-classification:end -->

@@ -531,5 +531,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Layout Before Pixels: Topology-Anchored Transcriptome-to-Histology Generation](../../conferences/neurips-2026/cards-0007.md#paper-152155)
 - [LDD-RFM: Learnable Domain Decomposition for Random Feature Models via Variable Projection](../../conferences/neurips-2026/cards-0007.md#paper-152971)
 - [Leak-CURBER: A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks](../../conferences/neurips-2026/cards-0007.md#paper-139384)
+- [Learned Lagrangian Models of PDEs via Euler–Lagrange Residual Minimization](../../conferences/neurips-2026/cards-0007.md#paper-151132)
+- [Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivariance](../../conferences/neurips-2026/cards-0007.md#paper-150499)
+- [Learning Event-to-Field Operators Without Interpolation](../../conferences/neurips-2026/cards-0007.md#paper-155189)
+- [Learning Fractional-Order Dynamics from a Single Trajectory](../../conferences/neurips-2026/cards-0007.md#paper-148968)
 
 <!-- conference-classification:end -->

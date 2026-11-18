@@ -1119,5 +1119,9 @@
 - [LDPCache: Locally Differentially Private Multi-Query Processing with Cache Optimization for Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-155246)
 - [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](../conferences/neurips-2026/cards-0007.md#paper-149326)
 - [LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving](../conferences/neurips-2026/cards-0007.md#paper-155461)
+- [Learnable Chernoff Baselines for Provable Inference-Time Alignment](../conferences/neurips-2026/cards-0007.md#paper-148994)
+- [Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](../conferences/neurips-2026/cards-0007.md#paper-154509)
+- [Learning Evidence Highlighting for Frozen LLMs](../conferences/neurips-2026/cards-0007.md#paper-148164)
+- [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](../conferences/neurips-2026/cards-0007.md#paper-151101)
 
 <!-- conference-classification:end -->

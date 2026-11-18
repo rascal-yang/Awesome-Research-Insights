@@ -491,5 +491,9 @@
 - [KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure](../conferences/neurips-2026/cards-0007.md#paper-156049)
 - [LACE: Latent Alignment via Counterfactual Embeddings](../conferences/neurips-2026/cards-0007.md#paper-153001)
 - [Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models](../conferences/neurips-2026/cards-0007.md#paper-152188)
+- [Learnable Diffusion-based Positional Encodings for Link Prediction](../conferences/neurips-2026/cards-0007.md#paper-152946)
+- [Learning a Maximum Entropy Model for Visual Textures using Diffusion](../conferences/neurips-2026/cards-0007.md#paper-154116)
+- [Learning a Task-Adaptive Low-Dimensional Semantic Space for Improved Visual Classification](../conferences/neurips-2026/cards-0007.md#paper-151661)
+- [Learning a Unified Cross-Model Semantic Dictionary via Gated Bottleneck Sparse Autoencoders](../conferences/neurips-2026/cards-0007.md#paper-149262)
 
 <!-- conference-classification:end -->

@@ -382,5 +382,11 @@
 - [Latent Generative Solvers for Generalizable Long-Term Physics Simulation](../conferences/neurips-2026/cards-0007.md#paper-152793)
 - [Layout Before Pixels: Topology-Anchored Transcriptome-to-Histology Generation](../conferences/neurips-2026/cards-0007.md#paper-152155)
 - [LDM-is-AE: Latent Diffusion is an Intrinsic Auto-Encoder for End-to-End Image Generation](../conferences/neurips-2026/cards-0007.md#paper-155308)
+- [Learning Agentic World Vision-Language-Action Models for Autonomous Driving](../conferences/neurips-2026/cards-0007.md#paper-150102)
+- [Learning a Trajectory-Geometric Condition from Reasoning for VLA Planning](../conferences/neurips-2026/cards-0007.md#paper-153125)
+- [Learning Causal Orderings for In-Context Tabular Prediction](../conferences/neurips-2026/cards-0007.md#paper-153895)
+- [Learning Compositional Latent Structure with Vector Networks](../conferences/neurips-2026/cards-0007.md#paper-154634)
+- [Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivariance](../conferences/neurips-2026/cards-0007.md#paper-150499)
+- [Learning Event-to-Field Operators Without Interpolation](../conferences/neurips-2026/cards-0007.md#paper-155189)
 
 <!-- conference-classification:end -->

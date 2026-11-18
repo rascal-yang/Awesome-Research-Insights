@@ -676,5 +676,13 @@
 - [Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks](../conferences/neurips-2026/cards-0007.md#paper-150400)
 - [LeAct: Learning to Reason from Expert Actions](../conferences/neurips-2026/cards-0007.md#paper-155705)
 - [LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning](../conferences/neurips-2026/cards-0007.md#paper-152914)
+- [Learn from the Gap: Differential-Aware Advantage Pruning with Adaptive Rollout Sampling for GRPO](../conferences/neurips-2026/cards-0007.md#paper-153498)
+- [Learning Better Certified Models from Empirically-Robust Teachers](../conferences/neurips-2026/cards-0007.md#paper-155696)
+- [Learning Cultural Vectors for Cross-Cultural Generation](../conferences/neurips-2026/cards-0007.md#paper-155934)
+- [Learning Domain Trajectories with Flow Matching for Gradual Domain Adaptation](../conferences/neurips-2026/cards-0007.md#paper-154474)
+- [Learning from Disagreement: Maximum Divergence Knowledge Distillation](../conferences/neurips-2026/cards-0007.md#paper-155838)
+- [Learning from Disagreement: Multi-Teacher Distillation for Chinese Spelling Correction](../conferences/neurips-2026/cards-0007.md#paper-151148)
+- [Learning from Language Feedback via Variational Policy Distillation](../conferences/neurips-2026/cards-0007.md#paper-152357)
+- [Learning from the Self-future: On-policy Self-distillation for dLLMs](../conferences/neurips-2026/cards-0007.md#paper-153722)
 
 <!-- conference-classification:end -->

@@ -304,5 +304,7 @@ Graph models, knowledge graphs, and recommender systems.
 - [k-th Order Deep Homomorphism Networks](../../conferences/neurips-2026/cards-0007.md#paper-152796)
 - [Large Language Models as Graph Computational Solvers via Topology-aware Residual Attention](../../conferences/neurips-2026/cards-0007.md#paper-149081)
 - [Large-Scale Pretraining unlocks Few-Shot Prediction for Relational Data](../../conferences/neurips-2026/cards-0007.md#paper-149169)
+- [Learnable Diffusion-based Positional Encodings for Link Prediction](../../conferences/neurips-2026/cards-0007.md#paper-152946)
+- [Learning Global Temporal Dynamics in Sparse Networks via Cycle Counts](../../conferences/neurips-2026/cards-0007.md#paper-149950)
 
 <!-- conference-classification:end -->

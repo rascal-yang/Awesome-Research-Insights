@@ -563,5 +563,10 @@ Learning from interaction, feedback, and offline experience.
 - [LASER: Latent Space Adjoint Matching for Support Constrained Entropy Regularized Offline RL](../../conferences/neurips-2026/cards-0007.md#paper-149822)
 - [Latency-Conditioned Selection Bias in RLHF](../../conferences/neurips-2026/cards-0007.md#paper-148493)
 - [Latent Q-Barrier Shielding for Safe In-Context Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-150569)
+- [Learn from the Gap: Differential-Aware Advantage Pruning with Adaptive Rollout Sampling for GRPO](../../conferences/neurips-2026/cards-0007.md#paper-153498)
+- [Learning Agentic Policy from Action Guidance](../../conferences/neurips-2026/cards-0007.md#paper-148912)
+- [Learning Chance-Constrained MDPs with Bellman Distributional Certificates](../../conferences/neurips-2026/cards-0007.md#paper-154689)
+- [Learning Contextual Causal Dynamics for Robust Exploration in Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-154910)
+- [Learning from Ranking Feedback: Improved Regret Bounds via Independence Preserving Rank Breaking](../../conferences/neurips-2026/cards-0007.md#paper-153500)
 
 <!-- conference-classification:end -->

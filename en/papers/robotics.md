@@ -716,5 +716,10 @@ Robot perception, policy learning, planning, and control.
 - [LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-154258)
 - [LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](../../conferences/neurips-2026/cards-0007.md#paper-148177)
 - [Latent Barrier Steering: Hierarchical Safety for Generative Planning](../../conferences/neurips-2026/cards-0007.md#paper-155636)
+- [Learning Actionable Information Landscapes for Multimodal Active Sensing in Hawkmoths](../../conferences/neurips-2026/cards-0007.md#paper-155592)
+- [Learning Agentic World Vision-Language-Action Models for Autonomous Driving](../../conferences/neurips-2026/cards-0007.md#paper-150102)
+- [Learning a Trajectory-Geometric Condition from Reasoning for VLA Planning](../../conferences/neurips-2026/cards-0007.md#paper-153125)
+- [Learning From Failures: Efficient Reinforcement Learning Control with Episodic Memory](../../conferences/neurips-2026/cards-0007.md#paper-154904)
+- [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](../../conferences/neurips-2026/cards-0007.md#paper-151101)
 
 <!-- conference-classification:end -->

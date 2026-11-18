@@ -552,5 +552,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-154258)
 - [Latent Q-Barrier Shielding for Safe In-Context Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-150569)
 - [LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models](../../conferences/neurips-2026/cards-0007.md#paper-149222)
+- [Learning Actionable Information Landscapes for Multimodal Active Sensing in Hawkmoths](../../conferences/neurips-2026/cards-0007.md#paper-155592)
+- [Learning Agentic Policy from Action Guidance](../../conferences/neurips-2026/cards-0007.md#paper-148912)
+- [Learning Contextual Causal Dynamics for Robust Exploration in Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-154910)
+- [Learning From Failures: Efficient Reinforcement Learning Control with Episodic Memory](../../conferences/neurips-2026/cards-0007.md#paper-154904)
 
 <!-- conference-classification:end -->

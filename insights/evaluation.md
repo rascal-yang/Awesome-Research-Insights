@@ -1309,5 +1309,7 @@
 - [Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation](../conferences/neurips-2026/cards-0007.md#paper-152085)
 - [Leak-CURBER: A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks](../conferences/neurips-2026/cards-0007.md#paper-139384)
 - [Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](../conferences/neurips-2026/cards-0007.md#paper-153964)
+- [Learning Dynamic Evidence Routes for Vision Transformer Probing](../conferences/neurips-2026/cards-0007.md#paper-156006)
+- [Learning Global Probabilistic Explanations](../conferences/neurips-2026/cards-0007.md#paper-151220)
 
 <!-- conference-classification:end -->
