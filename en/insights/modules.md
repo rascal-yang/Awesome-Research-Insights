@@ -61,6 +61,7 @@ Reusable components and local changes to model inputs or connections.
 - [Inner-layer Token Self-modulation as Another Scaling Axis for LLMs](../../conferences/icml-2026/cards/5401-5500.md#yang26cj-modules) · 中文
 - [SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs](../../conferences/icml-2026/cards/5601-5700.md#zasada26a-modules) · 中文
 - [KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices](../../conferences/icml-2026/cards/6101-6200.md#zhou26k-modules) · 中文
+- [MixFP4: Enhancing NVFP4 with Adaptive FP4/INT4 Block Representations](../../conferences/icml-2026/cards/6301-6400.md#zou26d-modules) · 中文
 
 <a id="by-computer-vision"></a>
 

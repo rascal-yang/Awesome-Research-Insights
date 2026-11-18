@@ -81,6 +81,8 @@ Objectives, auxiliary supervision, and regularization.
 - [ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](../../conferences/icml-2026/cards/6201-6300.md#zhu26ab-loss-functions) · 中文
 - [Hybrid Policy Distillation for LLMs](../../conferences/icml-2026/cards/6201-6300.md#zhu26av-loss-functions) · 中文
 - [Conflict-Aware Adaptive Alignment for LLM Hallucination Mitigation](../../conferences/icml-2026/cards/6301-6400.md#zong26a-loss-functions) · 中文
+- [Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance](../../conferences/icml-2026/cards/6301-6400.md#zou26i-loss-functions) · 中文
+- [Predicting the Order of Upcoming Tokens Improves Language Modeling](../../conferences/icml-2026/cards/6301-6400.md#zuhri26a-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

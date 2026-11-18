@@ -510,6 +510,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhou26bl-optimization"></a>[BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bl)
 - <a id="zhu26am-optimization"></a>[ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26am)
 - <a id="zihan26a-optimization"></a>[Can local learning match self-supervised backpropagation?](../../conferences/icml-2026/cards/6301-6400.md#paper-zihan26a)
+- <a id="zou26n-optimization"></a>[SlaClip: Gradient Norm Slacks can be Indicator for Adaptive Clipping in DP-SGD](../../conferences/icml-2026/cards/6301-6400.md#paper-zou26n)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1348,4 +1349,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhu26z-theory-statistics"></a>[Conformal Risk-Averse Decision Making with Action Conditional Guarantee](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26z)
 - <a id="zhu26aa-theory-statistics"></a>[Sparse Bayesian Deep Functional Learning with Structured Region Selection](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26aa)
 - <a id="zhu26ax-theory-statistics"></a>[Stochastic Gradient Methods under Heavy-Tailed Noises in Weakly Convex Optimization](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ax)
+- <a id="zou26f-theory-statistics"></a>[Generalization Bounds for Out-of-distribution Generalization](../../conferences/icml-2026/cards/6301-6400.md#paper-zou26f)
 <!-- classification:end -->

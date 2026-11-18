@@ -235,6 +235,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zhao26c-reinforcement-learning"></a>[Learning GUI Grounding with Spatial Reasoning from Visual Feedback](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26c)
 - <a id="zhao26ab-reinforcement-learning"></a>[PyVision-RL: Forging Open Agentic Vision Models via RL](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ab)
 - <a id="zheng26ah-reinforcement-learning"></a>[Context-Aware Reasoner: Enhancing Contextual Reasoning in Multimodal Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ah)
+- <a id="zou26h-reinforcement-learning"></a>[VideoBrain: Learning Adaptive Frame Sampling for Long Video Understanding](../../conferences/icml-2026/cards/6301-6400.md#paper-zou26h)
 
 <a id="by-training-strategies"></a>
 
@@ -455,6 +456,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zheng26m-inference"></a>[HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26m)
 - <a id="zhong26m-inference"></a>[FlowNar: Scalable Streaming Narration for Long-Form Videos](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26m)
 - <a id="zhuang26c-inference"></a>[Mitigating Manifold Departure: Uncertainty-Aware Subspace Rectification for Trustworthy MLLM Decoding](../../conferences/icml-2026/cards/6201-6300.md#paper-zhuang26c)
+- <a id="zou26e-inference"></a>[Adaptive Residual-Update Steering for Low-Overhead Hallucination Mitigation in Large Vision-Language Models](../../conferences/icml-2026/cards/6301-6400.md#paper-zou26e)
 
 <a id="by-representation-learning"></a>
 

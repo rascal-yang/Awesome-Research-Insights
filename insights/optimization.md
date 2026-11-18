@@ -501,6 +501,7 @@
 - [块级norm比例调sign动量更新](../conferences/icml-2026/cards/6201-6300.md#zhou26bl-optimization) · BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training
 - [按类梯度方向一致性分流积分提升与比例抑制](../conferences/icml-2026/cards/6201-6300.md#zhu26am-optimization) · ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control
 - [以末层反馈与空间依赖逼近局部SSL梯度](../conferences/icml-2026/cards/6301-6400.md#zihan26a-optimization) · Can local learning match self-supervised backpropagation?
+- [利用未用norm预算联合发布DP梯度CDF](../conferences/icml-2026/cards/6301-6400.md#zou26n-optimization) · SlaClip: Gradient Norm Slacks can be Indicator for Adaptive Clipping in DP-SGD
 
 <a id="by-graph-and-recommendation"></a>
 

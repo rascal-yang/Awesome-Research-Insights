@@ -293,6 +293,7 @@
 - [用BC对数概率预热AIL奖励](../conferences/icml-2026/cards/5201-5300.md#xu26j-training-strategies) · Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning
 - [合成潜在起点与relay价值训练](../conferences/icml-2026/cards/5201-5300.md#xu26cp-training-strategies) · Mind Dreamer: Untethering Imagination via Active Causal Intervention on Latent Manifolds
 - [交替优化latent policy并把改进蒸馏到固定prior decoder](../conferences/icml-2026/cards/5901-6000.md#zhang26fu-training-strategies) · Generative Online Reinforcement Learning
+- [按behavior偏离重分配保守/在线loss角色](../conferences/icml-2026/cards/6301-6400.md#zu26a-training-strategies) · From Static Constraints to Dynamic Adaptation: Sample-Level Constraint Relaxation for Offline-to-Online Reinforcement Learning
 
 <a id="by-robotics"></a>
 

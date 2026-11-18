@@ -755,6 +755,7 @@
 - [Hilbert序的连续块稀疏与层间滑动](../conferences/icml-2026/cards/6101-6200.md#zheng26m-inference) · HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data
 - [流式视觉缓存清理与训练mask对齐](../conferences/icml-2026/cards/6101-6200.md#zhong26m-inference) · FlowNar: Scalable Streaming Narration for Long-Form Videos
 - [blind子空间的熵门控投影衰减](../conferences/icml-2026/cards/6201-6300.md#zhuang26c-inference) · Mitigating Manifold Departure: Uncertainty-Aware Subspace Rectification for Trustworthy MLLM Decoding
+- [prefill attention更新池化作动态steering方向](../conferences/icml-2026/cards/6301-6400.md#zou26e-inference) · Adaptive Residual-Update Steering for Low-Overhead Hallucination Mitigation in Large Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

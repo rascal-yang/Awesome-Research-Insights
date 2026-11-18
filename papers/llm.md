@@ -126,6 +126,7 @@
 - <a id="yang26cj-modules"></a>[Inner-layer Token Self-modulation as Another Scaling Axis for LLMs](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cj)
 - <a id="zasada26a-modules"></a>[SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs](../conferences/icml-2026/cards/5601-5700.md#paper-zasada26a)
 - <a id="zhou26k-modules"></a>[KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26k)
+- <a id="zou26d-modules"></a>[MixFP4: Enhancing NVFP4 with Adaptive FP4/INT4 Block Representations](../conferences/icml-2026/cards/6301-6400.md#paper-zou26d)
 
 <a id="by-loss-functions"></a>
 
@@ -199,6 +200,8 @@
 - <a id="zhu26ab-loss-functions"></a>[ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ab)
 - <a id="zhu26av-loss-functions"></a>[Hybrid Policy Distillation for LLMs](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26av)
 - <a id="zong26a-loss-functions"></a>[Conflict-Aware Adaptive Alignment for LLM Hallucination Mitigation](../conferences/icml-2026/cards/6301-6400.md#paper-zong26a)
+- <a id="zou26i-loss-functions"></a>[Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance](../conferences/icml-2026/cards/6301-6400.md#paper-zou26i)
+- <a id="zuhri26a-loss-functions"></a>[Predicting the Order of Upcoming Tokens Improves Language Modeling](../conferences/icml-2026/cards/6301-6400.md#paper-zuhri26a)
 
 <a id="by-optimization"></a>
 
@@ -519,6 +522,7 @@
 - <a id="zhou26ah-reinforcement-learning"></a>[The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ah)
 - <a id="zhu26f-reinforcement-learning"></a>[Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26f)
 - <a id="zhu26o-reinforcement-learning"></a>[Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26o)
+- <a id="zou26b-reinforcement-learning"></a>[On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents](../conferences/icml-2026/cards/6301-6400.md#paper-zou26b)
 
 <a id="by-training-strategies"></a>
 

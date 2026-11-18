@@ -61,6 +61,7 @@
 - [token索引的逐层残差调制向量](../conferences/icml-2026/cards/5401-5500.md#yang26cj-modules) · Inner-layer Token Self-modulation as Another Scaling Axis for LLMs
 - [软topk预算与跨层激活分配](../conferences/icml-2026/cards/5601-5700.md#zasada26a-modules) · SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs
 - [用小双随机矩阵Kronecker积混合残差流](../conferences/icml-2026/cards/6101-6200.md#zhou26k-modules) · KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices
+- [复用block-scale符号位的双FP4码本](../conferences/icml-2026/cards/6301-6400.md#zou26d-modules) · MixFP4: Enhancing NVFP4 with Adaptive FP4/INT4 Block Representations
 
 <a id="by-computer-vision"></a>
 

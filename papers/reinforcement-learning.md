@@ -244,6 +244,7 @@
 - <a id="xu26j-training-strategies"></a>[Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26j)
 - <a id="xu26cp-training-strategies"></a>[Mind Dreamer: Untethering Imagination via Active Causal Intervention on Latent Manifolds](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cp)
 - <a id="zhang26fu-training-strategies"></a>[Generative Online Reinforcement Learning](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fu)
+- <a id="zu26a-training-strategies"></a>[From Static Constraints to Dynamic Adaptation: Sample-Level Constraint Relaxation for Offline-to-Online Reinforcement Learning](../conferences/icml-2026/cards/6301-6400.md#paper-zu26a)
 
 <a id="by-data-strategies"></a>
 

@@ -683,6 +683,7 @@
 - [按最终动作校准风险厌恶决策集合](../conferences/icml-2026/cards/6201-6300.md#zhu26z-theory-statistics) · Conformal Risk-Averse Decision Making with Action Conditional Guarantee
 - [以局部基支撑连接神经输入选择和函数区域](../conferences/icml-2026/cards/6201-6300.md#zhu26aa-theory-statistics) · Sparse Bayesian Deep Functional Learning with Structured Region Selection
 - [重尾弱凸目标选择是否裁剪及阈值增长](../conferences/icml-2026/cards/6201-6300.md#zhu26ax-theory-statistics) · Stochastic Gradient Methods under Heavy-Tailed Noises in Weakly Convex Optimization
+- [共同最优条件下优先检验分域平均ERM](../conferences/icml-2026/cards/6301-6400.md#zou26f-theory-statistics) · Generalization Bounds for Out-of-distribution Generalization
 
 <a id="by-graph-and-recommendation"></a>
 

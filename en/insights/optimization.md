@@ -501,6 +501,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/6201-6300.md#zhou26bl-optimization) · 中文
 - [ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control](../../conferences/icml-2026/cards/6201-6300.md#zhu26am-optimization) · 中文
 - [Can local learning match self-supervised backpropagation?](../../conferences/icml-2026/cards/6301-6400.md#zihan26a-optimization) · 中文
+- [SlaClip: Gradient Norm Slacks can be Indicator for Adaptive Clipping in DP-SGD](../../conferences/icml-2026/cards/6301-6400.md#zou26n-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

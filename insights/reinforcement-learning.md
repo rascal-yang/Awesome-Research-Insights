@@ -211,6 +211,7 @@
 - [中难度乘置信度的RL算力重分配](../conferences/icml-2026/cards/6101-6200.md#zhou26ah-reinforcement-learning) · The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning
 - [按tool次数分层的优势混合](../conferences/icml-2026/cards/6201-6300.md#zhu26f-reinforcement-learning) · Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents
 - [reward倾斜权重的负梯度baseline](../conferences/icml-2026/cards/6201-6300.md#zhu26o-reinforcement-learning) · Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization
+- [用轨迹内方向critique调整局部advantage](../conferences/icml-2026/cards/6301-6400.md#zou26b-reinforcement-learning) · On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents
 
 <a id="by-computer-vision"></a>
 
@@ -492,6 +493,7 @@
 - [把坐标grounding变为带cursor反馈的迭代定位](../conferences/icml-2026/cards/6001-6100.md#zhao26c-reinforcement-learning) · Learning GUI Grounding with Spatial Reasoning from Visual Feedback
 - [正确门控的工具计数奖励与方差选组](../conferences/icml-2026/cards/6001-6100.md#zhao26ab-reinforcement-learning) · PyVision-RL: Forging Open Agentic Vision Models via RL
 - [把上下文分析重新解题验证并分层归一奖励](../conferences/icml-2026/cards/6101-6200.md#zheng26ah-reinforcement-learning) · Context-Aware Reasoner: Enhancing Contextual Reasoning in Multimodal Large Language Models
+- [按是否需要追加视觉证据塑造工具reward](../conferences/icml-2026/cards/6301-6400.md#zou26h-reinforcement-learning) · VideoBrain: Learning Adaptive Frame Sampling for Long Video Understanding
 
 <a id="by-ml-foundations"></a>
 

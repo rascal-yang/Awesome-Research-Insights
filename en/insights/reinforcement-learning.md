@@ -211,6 +211,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ah-reinforcement-learning) · 中文
 - [Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents](../../conferences/icml-2026/cards/6201-6300.md#zhu26f-reinforcement-learning) · 中文
 - [Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization](../../conferences/icml-2026/cards/6201-6300.md#zhu26o-reinforcement-learning) · 中文
+- [On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents](../../conferences/icml-2026/cards/6301-6400.md#zou26b-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -492,6 +493,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning GUI Grounding with Spatial Reasoning from Visual Feedback](../../conferences/icml-2026/cards/6001-6100.md#zhao26c-reinforcement-learning) · 中文
 - [PyVision-RL: Forging Open Agentic Vision Models via RL](../../conferences/icml-2026/cards/6001-6100.md#zhao26ab-reinforcement-learning) · 中文
 - [Context-Aware Reasoner: Enhancing Contextual Reasoning in Multimodal Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#zheng26ah-reinforcement-learning) · 中文
+- [VideoBrain: Learning Adaptive Frame Sampling for Long Video Understanding](../../conferences/icml-2026/cards/6301-6400.md#zou26h-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

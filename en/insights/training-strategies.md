@@ -293,6 +293,7 @@ Training schedules, curricula, and task or stage composition.
 - [Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26j-training-strategies) · 中文
 - [Mind Dreamer: Untethering Imagination via Active Causal Intervention on Latent Manifolds](../../conferences/icml-2026/cards/5201-5300.md#xu26cp-training-strategies) · 中文
 - [Generative Online Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26fu-training-strategies) · 中文
+- [From Static Constraints to Dynamic Adaptation: Sample-Level Constraint Relaxation for Offline-to-Online Reinforcement Learning](../../conferences/icml-2026/cards/6301-6400.md#zu26a-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 

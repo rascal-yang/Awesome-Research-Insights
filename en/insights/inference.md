@@ -755,6 +755,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data](../../conferences/icml-2026/cards/6101-6200.md#zheng26m-inference) · 中文
 - [FlowNar: Scalable Streaming Narration for Long-Form Videos](../../conferences/icml-2026/cards/6101-6200.md#zhong26m-inference) · 中文
 - [Mitigating Manifold Departure: Uncertainty-Aware Subspace Rectification for Trustworthy MLLM Decoding](../../conferences/icml-2026/cards/6201-6300.md#zhuang26c-inference) · 中文
+- [Adaptive Residual-Update Steering for Low-Overhead Hallucination Mitigation in Large Vision-Language Models](../../conferences/icml-2026/cards/6301-6400.md#zou26e-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
