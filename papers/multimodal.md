@@ -670,5 +670,15 @@
 - [Grounding Multimodal Reasoning with Evidence-Ablated Negatives](../conferences/neurips-2026/cards-0006.md#paper-154493)
 - [Half-Truths Break Similarity-Based Retrieval](../conferences/neurips-2026/cards-0006.md#paper-154568)
 - [HALMES: Knowing When to Intervene in LVLM Hallucination Mitigation](../conferences/neurips-2026/cards-0006.md#paper-153080)
+- [Harnessing Textual Refusal Directions for Multimodal Safety](../conferences/neurips-2026/cards-0006.md#paper-155291)
+- [Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models](../conferences/neurips-2026/cards-0006.md#paper-148545)
+- [Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO](../conferences/neurips-2026/cards-0006.md#paper-148254)
+- [Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-visual LLMs](../conferences/neurips-2026/cards-0006.md#paper-154862)
+- [HEED: Density-Weighted Residual Alignment for Hybrid Vision-Language Model Distillation](../conferences/neurips-2026/cards-0006.md#paper-150667)
+- [Heterogeneous Parallelism for Multimodal Large Language Model Training](../conferences/neurips-2026/cards-0006.md#paper-154158)
+- [Hidden Forgetting in Continual Multimodal Learning: When Accuracy Survives but Grounding Fails](../conferences/neurips-2026/cards-0006.md#paper-153314)
+- [Hider–Seeker Self-Play: Geometry-Verifiable Process Rewards for Long-Horizon Visual Search](../conferences/neurips-2026/cards-0006.md#paper-149113)
+- [Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation](../conferences/neurips-2026/cards-0006.md#paper-149574)
+- [Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](../conferences/neurips-2026/cards-0006.md#paper-149193)
 
 <!-- conference-classification:end -->

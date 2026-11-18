@@ -511,5 +511,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning](../../conferences/neurips-2026/cards-0006.md#paper-155771)
 - [Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning](../../conferences/neurips-2026/cards-0006.md#paper-149985)
 - [G-Zero: Self-Play for Open-Ended Generation from Zero Data](../../conferences/neurips-2026/cards-0006.md#paper-152249)
+- [HDCS: Hierarchy Discovery and Critic Shaping for Reinforcement Learning with Automaton Specification](../../conferences/neurips-2026/cards-0006.md#paper-156745)
+- [H-GenPO: Hierarchical Generative Policy Optimization via the Option-Critic Framework](../../conferences/neurips-2026/cards-0006.md#paper-148440)
+- [Hider–Seeker Self-Play: Geometry-Verifiable Process Rewards for Long-Horizon Visual Search](../../conferences/neurips-2026/cards-0006.md#paper-149113)
+- [Hide to Guide: Learning via Semantic Masking](../../conferences/neurips-2026/cards-0006.md#paper-154951)
 
 <!-- conference-classification:end -->

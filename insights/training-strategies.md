@@ -616,5 +616,13 @@
 - [GUARD: Scalable Gradient-based Unlearning with Adversarial Robustness Defense](../conferences/neurips-2026/cards-0006.md#paper-152204)
 - [GUI-Libra: Data-Efficient Post-Training for Reliable Reasoning-and-Acting in Native GUI Agents](../conferences/neurips-2026/cards-0006.md#paper-153725)
 - [HARC: Coupling Harmfulness and Refusal Capabilities for Robust Safety Alignment](../conferences/neurips-2026/cards-0006.md#paper-150177)
+- [Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration](../conferences/neurips-2026/cards-0006.md#paper-151124)
+- [Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue](../conferences/neurips-2026/cards-0006.md#paper-153222)
+- [HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs](../conferences/neurips-2026/cards-0006.md#paper-148592)
+- [Heterogeneous Parallelism for Multimodal Large Language Model Training](../conferences/neurips-2026/cards-0006.md#paper-154158)
+- [Hidden Forgetting in Continual Multimodal Learning: When Accuracy Survives but Grounding Fails](../conferences/neurips-2026/cards-0006.md#paper-153314)
+- [Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation](../conferences/neurips-2026/cards-0006.md#paper-149574)
+- [HIDRA: Hierarchical Dual-Routing Attention for Replay-Free Lifelong Imitation Learning](../conferences/neurips-2026/cards-0006.md#paper-154222)
+- [Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](../conferences/neurips-2026/cards-0006.md#paper-149193)
 
 <!-- conference-classification:end -->

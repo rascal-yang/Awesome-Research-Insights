@@ -1196,5 +1196,17 @@
 - [HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models](../conferences/neurips-2026/cards-0006.md#paper-139204)
 - [Handwriting decoding as a challenging motor task for EEG Foundation Models](../conferences/neurips-2026/cards-0006.md#paper-139358)
 - [Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks](../conferences/neurips-2026/cards-0006.md#paper-153984)
+- [Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents](../conferences/neurips-2026/cards-0006.md#paper-138958)
+- [Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision](../conferences/neurips-2026/cards-0006.md#paper-155018)
+- [HDL-RepoBench: Multi-Paradigm Repository-Level Code Completion for Hardware Design Languages](../conferences/neurips-2026/cards-0006.md#paper-139340)
+- [Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models](../conferences/neurips-2026/cards-0006.md#paper-148545)
+- [Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO](../conferences/neurips-2026/cards-0006.md#paper-148254)
+- [HearSayBench: Can LLMs Navigate from Abstract Human Rights to Lived Lives?](../conferences/neurips-2026/cards-0006.md#paper-139278)
+- [HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice](../conferences/neurips-2026/cards-0006.md#paper-138892)
+- [HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning](../conferences/neurips-2026/cards-0006.md#paper-139360)
+- [Heuresis: Evaluating Search Strategies for Autonomous Machine Learning Research Agents](../conferences/neurips-2026/cards-0006.md#paper-155111)
+- [Hidden Measurement Error in LLM Pipelines Distorts Annotation, Evaluation, and Benchmarking](../conferences/neurips-2026/cards-0006.md#paper-148222)
+- [Hidden Positives: Why Code Retrieval Benchmarks Underestimate Model Quality](../conferences/neurips-2026/cards-0006.md#paper-139499)
+- [Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](../conferences/neurips-2026/cards-0006.md#paper-150396)
 
 <!-- conference-classification:end -->

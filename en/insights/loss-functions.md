@@ -326,5 +326,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Generative Cross-Entropy: A Strictly Proper Loss for Data-Efficient Classification](../../conferences/neurips-2026/cards-0006.md#paper-154926)
 - [Graph-Regularized Sparse Autoencoders for LLM Safety Steering](../../conferences/neurips-2026/cards-0006.md#paper-152847)
 - [Half-Truths Break Similarity-Based Retrieval](../../conferences/neurips-2026/cards-0006.md#paper-154568)
+- [HEED: Density-Weighted Residual Alignment for Hybrid Vision-Language Model Distillation](../../conferences/neurips-2026/cards-0006.md#paper-150667)
+- [Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment](../../conferences/neurips-2026/cards-0006.md#paper-153644)
 
 <!-- conference-classification:end -->

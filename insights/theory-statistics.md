@@ -832,5 +832,10 @@
 - [GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs](../conferences/neurips-2026/cards-0006.md#paper-149829)
 - [Halt Fast! Early Stopping for Certified Robustness](../conferences/neurips-2026/cards-0006.md#paper-155955)
 - [Hard Attention Transformers and BSS-Machines](../conferences/neurips-2026/cards-0006.md#paper-148913)
+- [HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data](../conferences/neurips-2026/cards-0006.md#paper-139720)
+- [Heterogeneous Judge-Aware Ranking with Sensitivity, Disagreement, and Confidence](../conferences/neurips-2026/cards-0006.md#paper-152031)
+- [Hidden Tails: Certifying Tail-Risk Claims under Selective Labels](../conferences/neurips-2026/cards-0006.md#paper-154165)
+- [Hierarchical Concept Geometry in Language Representations Emerges from Word Co-occurrence](../conferences/neurips-2026/cards-0006.md#paper-151722)
+- [Hierarchical Conformal Classification](../conferences/neurips-2026/cards-0006.md#paper-150172)
 
 <!-- conference-classification:end -->

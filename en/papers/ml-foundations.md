@@ -1980,5 +1980,16 @@ General learning methods, optimization, learning theory, and inference.
 - [HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Acoustic Anomaly Detection](../../conferences/neurips-2026/cards-0006.md#paper-155727)
 - [Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference](../../conferences/neurips-2026/cards-0006.md#paper-149186)
 - [Harnessing Data Asymmetry in Manifold Learning](../../conferences/neurips-2026/cards-0006.md#paper-151645)
+- [Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision](../../conferences/neurips-2026/cards-0006.md#paper-155018)
+- [HCInfer: An Efficient Inference System via Heterogeneous Error Compensation for Resource-Constrained Devices](../../conferences/neurips-2026/cards-0006.md#paper-151377)
+- [Heavy-Tailed Flow Matching via Random Clocks](../../conferences/neurips-2026/cards-0006.md#paper-154575)
+- [HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning](../../conferences/neurips-2026/cards-0006.md#paper-139360)
+- [HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data](../../conferences/neurips-2026/cards-0006.md#paper-139720)
+- [Hessian-Dependent Sample Complexity in Zeroth-Order Stochastic Optimization: Suboptimality of Convex-Support Sampling and Optimal Sample Complexity](../../conferences/neurips-2026/cards-0006.md#paper-153326)
+- [Heterogeneous Judge-Aware Ranking with Sensitivity, Disagreement, and Confidence](../../conferences/neurips-2026/cards-0006.md#paper-152031)
+- [Hidden Tails: Certifying Tail-Risk Claims under Selective Labels](../../conferences/neurips-2026/cards-0006.md#paper-154165)
+- [Hierarchical Agglomerative Clustering via Relaxed Representatives](../../conferences/neurips-2026/cards-0006.md#paper-154138)
+- [Hierarchical Conformal Classification](../../conferences/neurips-2026/cards-0006.md#paper-150172)
+- [Hierarchical Variational Policies for Reward-Guided Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-154863)
 
 <!-- conference-classification:end -->

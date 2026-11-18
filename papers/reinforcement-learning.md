@@ -523,5 +523,7 @@
 - [Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning](../conferences/neurips-2026/cards-0006.md#paper-155771)
 - [Hadamard Representation: Scaffolding Performance Across Model-free RL](../conferences/neurips-2026/cards-0006.md#paper-152185)
 - [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](../conferences/neurips-2026/cards-0006.md#paper-151714)
+- [HDCS: Hierarchy Discovery and Critic Shaping for Reinforcement Learning with Automaton Specification](../conferences/neurips-2026/cards-0006.md#paper-156745)
+- [H-GenPO: Hierarchical Generative Policy Optimization via the Option-Critic Framework](../conferences/neurips-2026/cards-0006.md#paper-148440)
 
 <!-- conference-classification:end -->

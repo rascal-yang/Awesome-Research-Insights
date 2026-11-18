@@ -337,5 +337,9 @@ Model-wide design and information flow.
 - [HAI: Hierarchical Anchored Interaction for Multi-View Bimanual World Models](../../conferences/neurips-2026/cards-0006.md#paper-152516)
 - [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](../../conferences/neurips-2026/cards-0006.md#paper-151714)
 - [Harmonic Torsional Diffusion for Flexible Protein-Ligand Docking](../../conferences/neurips-2026/cards-0006.md#paper-153661)
+- [Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-visual LLMs](../../conferences/neurips-2026/cards-0006.md#paper-154862)
+- [Heavy-Tailed Flow Matching via Random Clocks](../../conferences/neurips-2026/cards-0006.md#paper-154575)
+- [Hierarchical Denoising For Multi-Step Visual Reasoning](../../conferences/neurips-2026/cards-0006.md#paper-151418)
+- [Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs](../../conferences/neurips-2026/cards-0006.md#paper-150192)
 
 <!-- conference-classification:end -->

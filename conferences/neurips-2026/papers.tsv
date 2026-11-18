@@ -3603,66 +3603,66 @@ poster_id	title	paper_url	status	reason
 149186	Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference	https://neurips.cc/virtual/2026/poster/149186	included	高速流处理让廉价学习过滤器同时提供阈值调整信号。
 156126	Harnessing Agentic Evolution	https://neurips.cc/virtual/2026/poster/156126	included	长程候选搜索增设可评估的搜索策略调整层。
 151645	Harnessing Data Asymmetry in Manifold Learning	https://neurips.cc/virtual/2026/poster/151645	included	密度层级重要时检验对称距离是否抹去方向差异。
-151124	Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration	https://neurips.cc/virtual/2026/poster/151124	pending	-
-152564	Harnessing Streaming Video in the Wild	https://neurips.cc/virtual/2026/poster/152564	pending	-
-155291	Harnessing Textual Refusal Directions for Multimodal Safety	https://neurips.cc/virtual/2026/poster/155291	pending	-
-138958	Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents	https://neurips.cc/virtual/2026/poster/138958	pending	-
-150693	HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation	https://neurips.cc/virtual/2026/poster/150693	pending	-
-155018	Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision	https://neurips.cc/virtual/2026/poster/155018	pending	-
-151377	HCInfer: An Efficient Inference System via Heterogeneous Error Compensation for Resource-Constrained Devices	https://neurips.cc/virtual/2026/poster/151377	pending	-
-156745	HDCS: Hierarchy Discovery and Critic Shaping for Reinforcement Learning with Automaton Specification	https://neurips.cc/virtual/2026/poster/156745	pending	-
-139340	HDL-RepoBench: Multi-Paradigm Repository-Level Code Completion for Hardware Design Languages	https://neurips.cc/virtual/2026/poster/139340	pending	-
-148545	Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models	https://neurips.cc/virtual/2026/poster/148545	pending	-
-148254	Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO	https://neurips.cc/virtual/2026/poster/148254	pending	-
-153222	Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue	https://neurips.cc/virtual/2026/poster/153222	pending	-
-154862	Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-visual LLMs	https://neurips.cc/virtual/2026/poster/154862	pending	-
-139278	HearSayBench: Can LLMs Navigate from Abstract Human Rights to Lived Lives?	https://neurips.cc/virtual/2026/poster/139278	pending	-
-156063	HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models	https://neurips.cc/virtual/2026/poster/156063	pending	-
-149898	HeatKV: Head-tuned KV-cache Compression for Visual Autoregressive Modeling	https://neurips.cc/virtual/2026/poster/149898	pending	-
-154575	Heavy-Tailed Flow Matching via Random Clocks	https://neurips.cc/virtual/2026/poster/154575	pending	-
-150667	HEED: Density-Weighted Residual Alignment for Hybrid Vision-Language Model Distillation	https://neurips.cc/virtual/2026/poster/150667	pending	-
-150881	HELICS: Biobank-scale Conditional Synthetic Genome Generation via Latent Flow Matching	https://neurips.cc/virtual/2026/poster/150881	pending	-
-138892	HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice	https://neurips.cc/virtual/2026/poster/138892	pending	-
-148497	HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse	https://neurips.cc/virtual/2026/poster/148497	pending	-
-149780	Hermes: A Multi-Scale Spatial-Temporal Hypergraph Network for Stock Time Series Forecasting	https://neurips.cc/virtual/2026/poster/149780	pending	-
-139360	HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning	https://neurips.cc/virtual/2026/poster/139360	pending	-
-139720	HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data	https://neurips.cc/virtual/2026/poster/139720	pending	-
-153326	Hessian-Dependent Sample Complexity in Zeroth-Order Stochastic Optimization: Suboptimality of Convex-Support Sampling and Optimal Sample Complexity	https://neurips.cc/virtual/2026/poster/153326	pending	-
-148592	HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs	https://neurips.cc/virtual/2026/poster/148592	pending	-
-151408	HetCCL: Efficient LLM Training on Heterogeneous Vendor GPUs	https://neurips.cc/virtual/2026/poster/151408	pending	-
-155355	Heterogeneity-aware Distillation for Federated Continual Learning	https://neurips.cc/virtual/2026/poster/155355	pending	-
-148552	Heterogeneous Agent Collaborative Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148552	pending	-
-148359	Heterogeneous Graph Federated Learning with Structure-Aware Data-Free Distillation	https://neurips.cc/virtual/2026/poster/148359	pending	-
-152031	Heterogeneous Judge-Aware Ranking with Sensitivity, Disagreement, and Confidence	https://neurips.cc/virtual/2026/poster/152031	pending	-
-154158	Heterogeneous Parallelism for Multimodal Large Language Model Training	https://neurips.cc/virtual/2026/poster/154158	pending	-
-150666	Heteroscedastic TrueSkill: Modeling Match Noise and Player Consistency	https://neurips.cc/virtual/2026/poster/150666	pending	-
-156040	Heteroscedastic Variational Last Layers	https://neurips.cc/virtual/2026/poster/156040	pending	-
-156084	HeterSEED: Semantics–Structure Decoupling for Heterogeneous Graph Learning under Heterophily	https://neurips.cc/virtual/2026/poster/156084	pending	-
-155111	Heuresis: Evaluating Search Strategies for Autonomous Machine Learning Research Agents	https://neurips.cc/virtual/2026/poster/155111	pending	-
-154441	H-Flow: Self-supervised Human Scene Flow via Physics-inspired Joint Multi-modal Learning	https://neurips.cc/virtual/2026/poster/154441	pending	-
-148440	H-GenPO: Hierarchical Generative Policy Optimization via the Option-Critic Framework	https://neurips.cc/virtual/2026/poster/148440	pending	-
-153314	Hidden Forgetting in Continual Multimodal Learning: When Accuracy Survives but Grounding Fails	https://neurips.cc/virtual/2026/poster/153314	pending	-
-148222	Hidden Measurement Error in LLM Pipelines Distorts Annotation, Evaluation, and Benchmarking	https://neurips.cc/virtual/2026/poster/148222	pending	-
-139751	HiddenPathQA: A Benchmark for Knowledge Graph Question Answering When Questions Hide Their Paths	https://neurips.cc/virtual/2026/poster/139751	pending	-
-139499	Hidden Positives: Why Code Retrieval Benchmarks Underestimate Model Quality	https://neurips.cc/virtual/2026/poster/139499	pending	-
-154165	Hidden Tails: Certifying Tail-Risk Claims under Selective Labels	https://neurips.cc/virtual/2026/poster/154165	pending	-
-150396	Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring	https://neurips.cc/virtual/2026/poster/150396	pending	-
-149113	Hider–Seeker Self-Play: Geometry-Verifiable Process Rewards for Long-Horizon Visual Search	https://neurips.cc/virtual/2026/poster/149113	pending	-
-154951	Hide to Guide: Learning via Semantic Masking	https://neurips.cc/virtual/2026/poster/154951	pending	-
-149574	Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation	https://neurips.cc/virtual/2026/poster/149574	pending	-
-154222	HIDRA: Hierarchical Dual-Routing Attention for Replay-Free Lifelong Imitation Learning	https://neurips.cc/virtual/2026/poster/154222	pending	-
-151004	Hierarchical Adaptive Frame Sampling For Video Understanding	https://neurips.cc/virtual/2026/poster/151004	pending	-
-154138	Hierarchical Agglomerative Clustering via Relaxed Representatives	https://neurips.cc/virtual/2026/poster/154138	pending	-
-151722	Hierarchical Concept Geometry in Language Representations Emerges from Word Co-occurrence	https://neurips.cc/virtual/2026/poster/151722	pending	-
-150172	Hierarchical Conformal Classification	https://neurips.cc/virtual/2026/poster/150172	pending	-
-153644	Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment	https://neurips.cc/virtual/2026/poster/153644	pending	-
-151418	Hierarchical Denoising For Multi-Step Visual Reasoning	https://neurips.cc/virtual/2026/poster/151418	pending	-
-154207	Hierarchical Graph Alignment for Cross-Modal 3D Scene Grounding	https://neurips.cc/virtual/2026/poster/154207	pending	-
-154034	Hierarchical Graph Representation Learning with Pooling-Induced Substructures	https://neurips.cc/virtual/2026/poster/154034	pending	-
-150192	Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs	https://neurips.cc/virtual/2026/poster/150192	pending	-
-149193	Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/149193	pending	-
-153333	Hierarchical Task Network Planning with LLM-Generated Heuristics	https://neurips.cc/virtual/2026/poster/153333	pending	-
-154863	Hierarchical Variational Policies for Reward-Guided Diffusion	https://neurips.cc/virtual/2026/poster/154863	pending	-
+151124	Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration	https://neurips.cc/virtual/2026/poster/151124	included	将修复细节的随机性沿运动传播。
+152564	Harnessing Streaming Video in the Wild	https://neurips.cc/virtual/2026/poster/152564	excluded	摘要将能力归因于数据、目标和系统集成，但未交代目标或运行机制的具体操作，暂缺可独立复用证据。
+155291	Harnessing Textual Refusal Directions for Multimodal Safety	https://neurips.cc/virtual/2026/poster/155291	included	使用文本拒答方向做防护时，先校正跨模态中心。
+138958	Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents	https://neurips.cc/virtual/2026/poster/138958	included	根据任务类型和历史长度路由记忆后端。
+150693	HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation	https://neurips.cc/virtual/2026/poster/150693	included	将用户和物品画像相似度提前用于召回。
+155018	Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision	https://neurips.cc/virtual/2026/poster/155018	included	为新加速器按优化能力写可复用微测试。
+151377	HCInfer: An Efficient Inference System via Heterogeneous Error Compensation for Resource-Constrained Devices	https://neurips.cc/virtual/2026/poster/151377	included	将稀疏调用的误差补偿与主干分开部署。
+156745	HDCS: Hierarchy Discovery and Critic Shaping for Reinforcement Learning with Automaton Specification	https://neurips.cc/virtual/2026/poster/156745	included	从任务前置关系构造自动机，再用 critic 塑形。
+139340	HDL-RepoBench: Multi-Paradigm Repository-Level Code Completion for Hardware Design Languages	https://neurips.cc/virtual/2026/poster/139340	included	硬件代码补全先与无检索基线比较，再决定上下文长度。
+148545	Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models	https://neurips.cc/virtual/2026/poster/148545	included	用注意力读入和残差写出共同筛选图像检索头。
+148254	Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO	https://neurips.cc/virtual/2026/poster/148254	included	在音频评估中单独测证据稳定性和合理纠正。
+153222	Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue	https://neurips.cc/virtual/2026/poster/153222	included	部署只能见对话时，用模拟器额外状态作训练教师。
+154862	Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-visual LLMs	https://neurips.cc/virtual/2026/poster/154862	included	有双耳信号时将声源空间信息显式纳入视听推理。
+139278	HearSayBench: Can LLMs Navigate from Abstract Human Rights to Lived Lives?	https://neurips.cc/virtual/2026/poster/139278	included	评估建议时把理解处境与判断可执行选项分开评分。
+156063	HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models	https://neurips.cc/virtual/2026/poster/156063	included	文本条件编辑按球面测地线修改嵌入。
+149898	HeatKV: Head-tuned KV-cache Compression for Visual Autoregressive Modeling	https://neurips.cc/virtual/2026/poster/149898	included	视觉自回归的旧尺度缓存按注意力头差异分配。
+154575	Heavy-Tailed Flow Matching via Random Clocks	https://neurips.cc/virtual/2026/poster/154575	included	长尾数据生成时以随机时钟控制源分布尾部。
+150667	HEED: Density-Weighted Residual Alignment for Hybrid Vision-Language Model Distillation	https://neurips.cc/virtual/2026/poster/150667	included	蒸馏时加权对齐稀疏高信息图块的残差。
+150881	HELICS: Biobank-scale Conditional Synthetic Genome Generation via Latent Flow Matching	https://neurips.cc/virtual/2026/poster/150881	excluded	工作主要围绕可条件控制的全基因组生成，当前不提取领域专用操作机制。
+138892	HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice	https://neurips.cc/virtual/2026/poster/138892	included	技术求助评测同时量化事实准确、语气和情境适配。
+148497	HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse	https://neurips.cc/virtual/2026/poster/148497	included	动态记忆推理时只重算受更新影响的 KV 状态。
+149780	Hermes: A Multi-Scale Spatial-Temporal Hypergraph Network for Stock Time Series Forecasting	https://neurips.cc/virtual/2026/poster/149780	excluded	股票行业超图的滑窗聚合和跨尺度信息融合偏场景绑定，摘要未拆分其独立作用。
+139360	HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning	https://neurips.cc/virtual/2026/poster/139360	included	联邦持续学习分别扫描数据偏斜和任务顺序不一致，并报告尾部客户端表现。
+139720	HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data	https://neurips.cc/virtual/2026/poster/139720	included	评估预算紧张时，利用历史金标校准低成本标注，并用历史协变量降低新一轮估计方差。
+153326	Hessian-Dependent Sample Complexity in Zeroth-Order Stochastic Optimization: Suboptimality of Convex-Support Sampling and Optimal Sample Complexity	https://neurips.cc/virtual/2026/poster/153326	included	梯度不可用且局部曲率明显各向异性时，比较谱分组非凸采样与凸集采样。
+148592	HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs	https://neurips.cc/virtual/2026/poster/148592	included	极低比特量化训练遇到离散更新停滞时，软化实际量化码本并按张量曲率退火。
+151408	HetCCL: Efficient LLM Training on Heterogeneous Vendor GPUs	https://neurips.cc/virtual/2026/poster/151408	excluded	跨厂商通信库有系统价值，但摘要未公开两项独立机制的技术内容。
+155355	Heterogeneity-aware Distillation for Federated Continual Learning	https://neurips.cc/virtual/2026/poster/155355	excluded	将公开锚蒸馏与历史正则组合，摘要不足以建立两类蒸馏各自适用的边界。
+148552	Heterogeneous Agent Collaborative Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148552	excluded	异构互助训练方向有价值，但摘要未说明四项机制如何修正分布差异，暂不建卡。
+148359	Heterogeneous Graph Federated Learning with Structure-Aware Data-Free Distillation	https://neurips.cc/virtual/2026/poster/148359	excluded	摘要描述生成器与模型的对抗蒸馏，缺少结构如何决定知识可靠性的可复用细节。
+152031	Heterogeneous Judge-Aware Ranking with Sensitivity, Disagreement, and Confidence	https://neurips.cc/virtual/2026/poster/152031	included	多评委成对比较排序时，将共识、评委敏感度和结构化分歧分别拟合。
+154158	Heterogeneous Parallelism for Multimodal Large Language Model Training	https://neurips.cc/virtual/2026/poster/154158	included	编码器与语言模型输入规模相差大时，分别选择并行布局并在模块边界变换张量。
+150666	Heteroscedastic TrueSkill: Modeling Match Noise and Player Consistency	https://neurips.cc/virtual/2026/poster/150666	excluded	按比赛或玩家拆分方差适用评分系统，但摘要不足以区分其相对现有稳健比较模型的新机制。
+156040	Heteroscedastic Variational Last Layers	https://neurips.cc/virtual/2026/poster/156040	excluded	异方差变分末层具候选价值，摘要缺少解析界结构、应用对照与适用条件。
+156084	HeterSEED: Semantics–Structure Decoupling for Heterogeneous Graph Learning under Heterophily	https://neurips.cc/virtual/2026/poster/156084	excluded	异配拆分与自适应融合的整体证据较强，摘要未分离元路径权重与伪标分组的收益。
+155111	Heuresis: Evaluating Search Strategies for Autonomous Machine Learning Research Agents	https://neurips.cc/virtual/2026/poster/155111	included	评估研究代理的实验搜索时，同时记录新颖性、多样性和效果，并核查先例。
+154441	H-Flow: Self-supervised Human Scene Flow via Physics-inspired Joint Multi-modal Learning	https://neurips.cc/virtual/2026/poster/154441	excluded	单目姿态、深度、流联合监督摘要未描述具体跨模态约束操作，暂不单列。
+148440	H-GenPO: Hierarchical Generative Policy Optimization via the Option-Critic Framework	https://neurips.cc/virtual/2026/poster/148440	included	需要持续执行同一行为模式时，让离散选项决定共享生成策略的条件。
+153314	Hidden Forgetting in Continual Multimodal Learning: When Accuracy Survives but Grounding Fails	https://neurips.cc/virtual/2026/poster/153314	included	持续学习保留旧能力时，除预测一致外还约束证据通道依赖。
+148222	Hidden Measurement Error in LLM Pipelines Distorts Annotation, Evaluation, and Benchmarking	https://neurips.cc/virtual/2026/poster/148222	included	LLM 评委评测前用小样本试验估计模型、提示及温度变动带来的误差。
+139751	HiddenPathQA: A Benchmark for Knowledge Graph Question Answering When Questions Hide Their Paths	https://neurips.cc/virtual/2026/poster/139751	included	问题不直接点名关系时用完整候选链评分。
+139499	Hidden Positives: Why Code Retrieval Benchmarks Underestimate Model Quality	https://neurips.cc/virtual/2026/poster/139499	included	检索评测要复核替代实现的漏标率。
+154165	Hidden Tails: Certifying Tail-Risk Claims under Selective Labels	https://neurips.cc/virtual/2026/poster/154165	included	选择性标注下按尾部识别价值优先补标签。
+150396	Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring	https://neurips.cc/virtual/2026/poster/150396	included	仅用轨迹级失败标签定位运行时异常动作。
+149113	Hider–Seeker Self-Play: Geometry-Verifiable Process Rewards for Long-Horizon Visual Search	https://neurips.cc/virtual/2026/poster/149113	included	搜索奖励拆开目标进展、覆盖和重复约束。
+154951	Hide to Guide: Learning via Semantic Masking	https://neurips.cc/virtual/2026/poster/154951	included	专家引导保留计划，遮住能直接验证的答案相关内容。
+149574	Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation	https://neurips.cc/virtual/2026/poster/149574	included	蒸馏时按预测位点遮盖过强文本提示，促使学生使用图像证据。
+154222	HIDRA: Hierarchical Dual-Routing Attention for Replay-Free Lifelong Imitation Learning	https://neurips.cc/virtual/2026/poster/154222	included	单遍持续模仿中分离指令检索与情境细化。
+151004	Hierarchical Adaptive Frame Sampling For Video Understanding	https://neurips.cc/virtual/2026/poster/151004	excluded	与上一批 GridProbe 同属按问题证据自适应分配长视频帧预算；摘要未提供同预算或按局部全局题型拆开的实证，暂不足以证明独立保留的价值。
+154138	Hierarchical Agglomerative Clustering via Relaxed Representatives	https://neurips.cc/virtual/2026/poster/154138	included	层次聚类要同时控制代表计算成本与树状图倒置。
+151722	Hierarchical Concept Geometry in Language Representations Emerges from Word Co-occurrence	https://neurips.cc/virtual/2026/poster/151722	included	将共现谱作为概念层级分析的零假设。
+150172	Hierarchical Conformal Classification	https://neurips.cc/virtual/2026/poster/150172	included	带标签树的保形预测可以输出多粒度集合。
+153644	Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment	https://neurips.cc/virtual/2026/poster/153644	included	部件原型拆分为跨类父原型和类内子原型。
+151418	Hierarchical Denoising For Multi-Step Visual Reasoning	https://neurips.cc/virtual/2026/poster/151418	included	流式视频推理先在低频层维护全局假设，再精化可见步骤。
+154207	Hierarchical Graph Alignment for Cross-Modal 3D Scene Grounding	https://neurips.cc/virtual/2026/poster/154207	excluded	摘要主要支持实例、关系、全局三路编码加已有坐标回归的组合；单数据集总提升未区分独立机制收益。
+154034	Hierarchical Graph Representation Learning with Pooling-Induced Substructures	https://neurips.cc/virtual/2026/poster/154034	included	图池化后继续显式处理池化得到的子结构。
+150192	Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs	https://neurips.cc/virtual/2026/poster/150192	included	分离系统级离散工况和节点级连续动态。
+149193	Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/149193	included	增量学习时用类别树锚定特征，再用历史特征零空间约束更新。
+153333	Hierarchical Task Network Planning with LLM-Generated Heuristics	https://neurips.cc/virtual/2026/poster/153333	excluded	基于已有语言模型启发式生成流程切换到 HTN；摘要未给生成机制区别，也未指出何种任务结构驱动收益。
+154863	Hierarchical Variational Policies for Reward-Guided Diffusion	https://neurips.cc/virtual/2026/poster/154863	included	用训练出的低成本策略摊销扩散的信息引导，必要时再做少量在线修正。
 155510	Hierarchical World Models with Implicit Dynamics	https://neurips.cc/virtual/2026/poster/155510	pending	-
 149679	HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation	https://neurips.cc/virtual/2026/poster/149679	pending	-
 151568	HierRR: Enhancing Instruction Alignment in Open-Vocabulary Indoor Scene Synthesis via Agentic Hierarchical Reasoning and Reflection	https://neurips.cc/virtual/2026/poster/151568	pending	-

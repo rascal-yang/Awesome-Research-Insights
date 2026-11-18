@@ -1796,5 +1796,15 @@
 - [Harder the Task, Sparser the Representation: Sparsity as a Learning Signature of Capability in LLMs](../conferences/neurips-2026/cards-0006.md#paper-151167)
 - [Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks](../conferences/neurips-2026/cards-0006.md#paper-153984)
 - [Harnessing Agentic Evolution](../conferences/neurips-2026/cards-0006.md#paper-156126)
+- [Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents](../conferences/neurips-2026/cards-0006.md#paper-138958)
+- [HDL-RepoBench: Multi-Paradigm Repository-Level Code Completion for Hardware Design Languages](../conferences/neurips-2026/cards-0006.md#paper-139340)
+- [Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue](../conferences/neurips-2026/cards-0006.md#paper-153222)
+- [HearSayBench: Can LLMs Navigate from Abstract Human Rights to Lived Lives?](../conferences/neurips-2026/cards-0006.md#paper-139278)
+- [HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice](../conferences/neurips-2026/cards-0006.md#paper-138892)
+- [HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs](../conferences/neurips-2026/cards-0006.md#paper-148592)
+- [Heuresis: Evaluating Search Strategies for Autonomous Machine Learning Research Agents](../conferences/neurips-2026/cards-0006.md#paper-155111)
+- [Hidden Measurement Error in LLM Pipelines Distorts Annotation, Evaluation, and Benchmarking](../conferences/neurips-2026/cards-0006.md#paper-148222)
+- [Hidden Positives: Why Code Retrieval Benchmarks Underestimate Model Quality](../conferences/neurips-2026/cards-0006.md#paper-139499)
+- [Hide to Guide: Learning via Semantic Masking](../conferences/neurips-2026/cards-0006.md#paper-154951)
 
 <!-- conference-classification:end -->

@@ -834,5 +834,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [HALO-VGGT: Heterogeneity-Aware Lightweight Online Compression Allocator for Efficient VGGT](../../conferences/neurips-2026/cards-0006.md#paper-148613)
 - [Handwritten Text Recognition Lives in the High-Pixel Variance Subspace](../../conferences/neurips-2026/cards-0006.md#paper-153384)
 - [Hardware-Friendly Token-Group Activation Quantization for Low-Bit Mamba Super-Resolution](../../conferences/neurips-2026/cards-0006.md#paper-155635)
+- [Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration](../../conferences/neurips-2026/cards-0006.md#paper-151124)
+- [HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models](../../conferences/neurips-2026/cards-0006.md#paper-156063)
+- [HeatKV: Head-tuned KV-cache Compression for Visual Autoregressive Modeling](../../conferences/neurips-2026/cards-0006.md#paper-149898)
+- [Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment](../../conferences/neurips-2026/cards-0006.md#paper-153644)
+- [Hierarchical Denoising For Multi-Step Visual Reasoning](../../conferences/neurips-2026/cards-0006.md#paper-151418)
 
 <!-- conference-classification:end -->

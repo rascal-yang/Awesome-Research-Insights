@@ -340,3 +340,49 @@
 | 机器学习基础与统计 | 推理策略 | [Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference](cards-0006.md#paper-149186) | 高速流处理让廉价学习过滤器同时提供阈值调整信号。 |
 | 大语言模型 | 优化 | [Harnessing Agentic Evolution](cards-0006.md#paper-156126) | 长程候选搜索增设可评估的搜索策略调整层。 |
 | 机器学习基础与统计 | 表征学习 | [Harnessing Data Asymmetry in Manifold Learning](cards-0006.md#paper-151645) | 密度层级重要时检验对称距离是否抹去方向差异。 |
+| 计算机视觉 | 训练策略 | [Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration](cards-0006.md#paper-151124) | 将修复细节的随机性沿运动传播。 |
+| 多模态学习 | 推理策略 | [Harnessing Textual Refusal Directions for Multimodal Safety](cards-0006.md#paper-155291) | 使用文本拒答方向做防护时，先校正跨模态中心。 |
+| 大语言模型 | 评测与诊断 | [Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents](cards-0006.md#paper-138958) | 根据任务类型和历史长度路由记忆后端。 |
+| 图学习与推荐 | 推理策略 | [HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation](cards-0006.md#paper-150693) | 将用户和物品画像相似度提前用于召回。 |
+| 机器学习基础与统计 | 评测与诊断 | [Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision](cards-0006.md#paper-155018) | 为新加速器按优化能力写可复用微测试。 |
+| 机器学习基础与统计 | 推理策略 | [HCInfer: An Efficient Inference System via Heterogeneous Error Compensation for Resource-Constrained Devices](cards-0006.md#paper-151377) | 将稀疏调用的误差补偿与主干分开部署。 |
+| 强化学习 | 强化学习方法 | [HDCS: Hierarchy Discovery and Critic Shaping for Reinforcement Learning with Automaton Specification](cards-0006.md#paper-156745) | 从任务前置关系构造自动机，再用 critic 塑形。 |
+| 大语言模型 | 评测与诊断 | [HDL-RepoBench: Multi-Paradigm Repository-Level Code Completion for Hardware Design Languages](cards-0006.md#paper-139340) | 硬件代码补全先与无检索基线比较，再决定上下文长度。 |
+| 多模态学习 | 评测与诊断 | [Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models](cards-0006.md#paper-148545) | 用注意力读入和残差写出共同筛选图像检索头。 |
+| 多模态学习 | 评测与诊断 | [Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO](cards-0006.md#paper-148254) | 在音频评估中单独测证据稳定性和合理纠正。 |
+| 大语言模型 | 训练策略 | [Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue](cards-0006.md#paper-153222) | 部署只能见对话时，用模拟器额外状态作训练教师。 |
+| 多模态学习 | 模型架构 | [Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-visual LLMs](cards-0006.md#paper-154862) | 有双耳信号时将声源空间信息显式纳入视听推理。 |
+| 大语言模型 | 评测与诊断 | [HearSayBench: Can LLMs Navigate from Abstract Human Rights to Lived Lives?](cards-0006.md#paper-139278) | 评估建议时把理解处境与判断可执行选项分开评分。 |
+| 计算机视觉 | 推理策略 | [HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models](cards-0006.md#paper-156063) | 文本条件编辑按球面测地线修改嵌入。 |
+| 计算机视觉 | 推理策略 | [HeatKV: Head-tuned KV-cache Compression for Visual Autoregressive Modeling](cards-0006.md#paper-149898) | 视觉自回归的旧尺度缓存按注意力头差异分配。 |
+| 机器学习基础与统计 | 模型架构 | [Heavy-Tailed Flow Matching via Random Clocks](cards-0006.md#paper-154575) | 长尾数据生成时以随机时钟控制源分布尾部。 |
+| 多模态学习 | 损失函数 | [HEED: Density-Weighted Residual Alignment for Hybrid Vision-Language Model Distillation](cards-0006.md#paper-150667) | 蒸馏时加权对齐稀疏高信息图块的残差。 |
+| 大语言模型 | 评测与诊断 | [HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice](cards-0006.md#paper-138892) | 技术求助评测同时量化事实准确、语气和情境适配。 |
+| 机器人学 | 推理策略 | [HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse](cards-0006.md#paper-148497) | 动态记忆推理时只重算受更新影响的 KV 状态。 |
+| 机器学习基础与统计 | 评测与诊断 | [HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning](cards-0006.md#paper-139360) | 联邦持续学习分别扫描数据偏斜和任务顺序不一致，并报告尾部客户端表现。 |
+| 机器学习基础与统计 | 理论与统计 | [HERO: Improving the Reliability and Sensitivity of Generative Model Evaluation Using Historical Data](cards-0006.md#paper-139720) | 评估预算紧张时，利用历史金标校准低成本标注，并用历史协变量降低新一轮估计方差。 |
+| 机器学习基础与统计 | 优化 | [Hessian-Dependent Sample Complexity in Zeroth-Order Stochastic Optimization: Suboptimality of Convex-Support Sampling and Optimal Sample Complexity](cards-0006.md#paper-153326) | 梯度不可用且局部曲率明显各向异性时，比较谱分组非凸采样与凸集采样。 |
+| 大语言模型 | 训练策略 | [HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs](cards-0006.md#paper-148592) | 极低比特量化训练遇到离散更新停滞时，软化实际量化码本并按张量曲率退火。 |
+| 机器学习基础与统计 | 理论与统计 | [Heterogeneous Judge-Aware Ranking with Sensitivity, Disagreement, and Confidence](cards-0006.md#paper-152031) | 多评委成对比较排序时，将共识、评委敏感度和结构化分歧分别拟合。 |
+| 多模态学习 | 训练策略 | [Heterogeneous Parallelism for Multimodal Large Language Model Training](cards-0006.md#paper-154158) | 编码器与语言模型输入规模相差大时，分别选择并行布局并在模块边界变换张量。 |
+| 大语言模型 | 评测与诊断 | [Heuresis: Evaluating Search Strategies for Autonomous Machine Learning Research Agents](cards-0006.md#paper-155111) | 评估研究代理的实验搜索时，同时记录新颖性、多样性和效果，并核查先例。 |
+| 强化学习 | 强化学习方法 | [H-GenPO: Hierarchical Generative Policy Optimization via the Option-Critic Framework](cards-0006.md#paper-148440) | 需要持续执行同一行为模式时，让离散选项决定共享生成策略的条件。 |
+| 多模态学习 | 训练策略 | [Hidden Forgetting in Continual Multimodal Learning: When Accuracy Survives but Grounding Fails](cards-0006.md#paper-153314) | 持续学习保留旧能力时，除预测一致外还约束证据通道依赖。 |
+| 大语言模型 | 评测与诊断 | [Hidden Measurement Error in LLM Pipelines Distorts Annotation, Evaluation, and Benchmarking](cards-0006.md#paper-148222) | LLM 评委评测前用小样本试验估计模型、提示及温度变动带来的误差。 |
+| 图学习与推荐 | 推理策略 | [HiddenPathQA: A Benchmark for Knowledge Graph Question Answering When Questions Hide Their Paths](cards-0006.md#paper-139751) | 问题不直接点名关系时用完整候选链评分。 |
+| 大语言模型 | 评测与诊断 | [Hidden Positives: Why Code Retrieval Benchmarks Underestimate Model Quality](cards-0006.md#paper-139499) | 检索评测要复核替代实现的漏标率。 |
+| 机器学习基础与统计 | 理论与统计 | [Hidden Tails: Certifying Tail-Risk Claims under Selective Labels](cards-0006.md#paper-154165) | 选择性标注下按尾部识别价值优先补标签。 |
+| 机器人学 | 评测与诊断 | [Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](cards-0006.md#paper-150396) | 仅用轨迹级失败标签定位运行时异常动作。 |
+| 多模态学习 | 强化学习方法 | [Hider–Seeker Self-Play: Geometry-Verifiable Process Rewards for Long-Horizon Visual Search](cards-0006.md#paper-149113) | 搜索奖励拆开目标进展、覆盖和重复约束。 |
+| 大语言模型 | 强化学习方法 | [Hide to Guide: Learning via Semantic Masking](cards-0006.md#paper-154951) | 专家引导保留计划，遮住能直接验证的答案相关内容。 |
+| 多模态学习 | 训练策略 | [Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation](cards-0006.md#paper-149574) | 蒸馏时按预测位点遮盖过强文本提示，促使学生使用图像证据。 |
+| 机器人学 | 训练策略 | [HIDRA: Hierarchical Dual-Routing Attention for Replay-Free Lifelong Imitation Learning](cards-0006.md#paper-154222) | 单遍持续模仿中分离指令检索与情境细化。 |
+| 机器学习基础与统计 | 优化 | [Hierarchical Agglomerative Clustering via Relaxed Representatives](cards-0006.md#paper-154138) | 层次聚类要同时控制代表计算成本与树状图倒置。 |
+| 自然语言处理 | 理论与统计 | [Hierarchical Concept Geometry in Language Representations Emerges from Word Co-occurrence](cards-0006.md#paper-151722) | 将共现谱作为概念层级分析的零假设。 |
+| 机器学习基础与统计 | 理论与统计 | [Hierarchical Conformal Classification](cards-0006.md#paper-150172) | 带标签树的保形预测可以输出多粒度集合。 |
+| 计算机视觉 | 损失函数 | [Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment](cards-0006.md#paper-153644) | 部件原型拆分为跨类父原型和类内子原型。 |
+| 计算机视觉 | 模型架构 | [Hierarchical Denoising For Multi-Step Visual Reasoning](cards-0006.md#paper-151418) | 流式视频推理先在低频层维护全局假设，再精化可见步骤。 |
+| 图学习与推荐 | 表征学习 | [Hierarchical Graph Representation Learning with Pooling-Induced Substructures](cards-0006.md#paper-154034) | 图池化后继续显式处理池化得到的子结构。 |
+| 图学习与推荐 | 模型架构 | [Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs](cards-0006.md#paper-150192) | 分离系统级离散工况和节点级连续动态。 |
+| 多模态学习 | 训练策略 | [Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](cards-0006.md#paper-149193) | 增量学习时用类别树锚定特征，再用历史特征零空间约束更新。 |
+| 机器学习基础与统计 | 推理策略 | [Hierarchical Variational Policies for Reward-Guided Diffusion](cards-0006.md#paper-154863) | 用训练出的低成本策略摊销扩散的信息引导，必要时再做少量在线修正。 |

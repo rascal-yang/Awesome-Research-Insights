@@ -463,5 +463,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Harder the Task, Sparser the Representation: Sparsity as a Learning Signature of Capability in LLMs](../../conferences/neurips-2026/cards-0006.md#paper-151167)
 - [HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Acoustic Anomaly Detection](../../conferences/neurips-2026/cards-0006.md#paper-155727)
 - [Harnessing Data Asymmetry in Manifold Learning](../../conferences/neurips-2026/cards-0006.md#paper-151645)
+- [Hierarchical Graph Representation Learning with Pooling-Induced Substructures](../../conferences/neurips-2026/cards-0006.md#paper-154034)
 
 <!-- conference-classification:end -->

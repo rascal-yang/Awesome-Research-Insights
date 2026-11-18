@@ -556,5 +556,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Guaranteed Nonconvex Low-Rank Tensor Estimation via Scaled Gradient Descent](../../conferences/neurips-2026/cards-0006.md#paper-156668)
 - [HALO: Heterogeneous-Aware LoRA Optimization via Rank Allocation and Client-Aware Projection](../../conferences/neurips-2026/cards-0006.md#paper-154108)
 - [Harnessing Agentic Evolution](../../conferences/neurips-2026/cards-0006.md#paper-156126)
+- [Hessian-Dependent Sample Complexity in Zeroth-Order Stochastic Optimization: Suboptimality of Convex-Support Sampling and Optimal Sample Complexity](../../conferences/neurips-2026/cards-0006.md#paper-153326)
+- [Hierarchical Agglomerative Clustering via Relaxed Representatives](../../conferences/neurips-2026/cards-0006.md#paper-154138)
 
 <!-- conference-classification:end -->

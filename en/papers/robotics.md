@@ -685,5 +685,8 @@ Robot perception, policy learning, planning, and control.
 - [HAI: Hierarchical Anchored Interaction for Multi-View Bimanual World Models](../../conferences/neurips-2026/cards-0006.md#paper-152516)
 - [Hallucination in World Models is Predictable and Preventable](../../conferences/neurips-2026/cards-0006.md#paper-155605)
 - [HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields](../../conferences/neurips-2026/cards-0006.md#paper-149700)
+- [HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse](../../conferences/neurips-2026/cards-0006.md#paper-148497)
+- [Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](../../conferences/neurips-2026/cards-0006.md#paper-150396)
+- [HIDRA: Hierarchical Dual-Routing Attention for Replay-Free Lifelong Imitation Learning](../../conferences/neurips-2026/cards-0006.md#paper-154222)
 
 <!-- conference-classification:end -->

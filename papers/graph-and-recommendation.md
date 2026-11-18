@@ -282,5 +282,9 @@
 - [GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs](../conferences/neurips-2026/cards-0006.md#paper-149829)
 - [Graph Learning from Label Proportions using Topology-Aware Pseudo Labeling and Aggregation](../conferences/neurips-2026/cards-0006.md#paper-156071)
 - [GraphUAT: Uncertainty Attribution in Graph Neural Networks](../conferences/neurips-2026/cards-0006.md#paper-149147)
+- [HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation](../conferences/neurips-2026/cards-0006.md#paper-150693)
+- [HiddenPathQA: A Benchmark for Knowledge Graph Question Answering When Questions Hide Their Paths](../conferences/neurips-2026/cards-0006.md#paper-139751)
+- [Hierarchical Graph Representation Learning with Pooling-Induced Substructures](../conferences/neurips-2026/cards-0006.md#paper-154034)
+- [Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs](../conferences/neurips-2026/cards-0006.md#paper-150192)
 
 <!-- conference-classification:end -->

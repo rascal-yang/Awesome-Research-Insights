@@ -1047,5 +1047,13 @@ Decoding, test-time adaptation, and efficient execution.
 - [HAPS: Hierarchical LLM Routing with Joint Architecture and Parameter Search](../../conferences/neurips-2026/cards-0006.md#paper-154482)
 - [Hardware-Friendly Token-Group Activation Quantization for Low-Bit Mamba Super-Resolution](../../conferences/neurips-2026/cards-0006.md#paper-155635)
 - [Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference](../../conferences/neurips-2026/cards-0006.md#paper-149186)
+- [Harnessing Textual Refusal Directions for Multimodal Safety](../../conferences/neurips-2026/cards-0006.md#paper-155291)
+- [HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation](../../conferences/neurips-2026/cards-0006.md#paper-150693)
+- [HCInfer: An Efficient Inference System via Heterogeneous Error Compensation for Resource-Constrained Devices](../../conferences/neurips-2026/cards-0006.md#paper-151377)
+- [HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models](../../conferences/neurips-2026/cards-0006.md#paper-156063)
+- [HeatKV: Head-tuned KV-cache Compression for Visual Autoregressive Modeling](../../conferences/neurips-2026/cards-0006.md#paper-149898)
+- [HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse](../../conferences/neurips-2026/cards-0006.md#paper-148497)
+- [HiddenPathQA: A Benchmark for Knowledge Graph Question Answering When Questions Hide Their Paths](../../conferences/neurips-2026/cards-0006.md#paper-139751)
+- [Hierarchical Variational Policies for Reward-Guided Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-154863)
 
 <!-- conference-classification:end -->
