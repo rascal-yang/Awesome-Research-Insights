@@ -188,6 +188,7 @@
 - [按要保的行为结构选择状态抽象条件](../conferences/icml-2026/cards/5801-5900.md#zhang26dy-theory-statistics) · Compositional Behavioral Semantics for State Abstraction in Reinforcement Learning
 - [用风险和熵正则条件选择可收敛actor-critic目标](../conferences/icml-2026/cards/5801-5900.md#zhang26ei-theory-statistics) · Provably Convergent Actor-Critic for MARL through Risk-aversion
 - [按近确定性transition选择线性logit记忆](../conferences/icml-2026/cards/6001-6100.md#zhao26j-theory-statistics) · Why Linear Recurrent Memory Works in Partially Observable Reinforcement Learning
+- [连续时间RL的密度置信集和测量日程](../conferences/icml-2026/cards/6001-6100.md#zhao26br-theory-statistics) · Instance-Dependent Continuous-Time Reinforcement Learning via Maximum Likelihood Estimation
 
 <a id="by-robotics"></a>
 

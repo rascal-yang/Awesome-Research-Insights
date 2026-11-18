@@ -137,6 +137,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Rethinking Low-Confidence Pseudo Labels: Influence-Aware Semi-Supervised Fine-Tuning for Hyperspectral Change Detection](../../conferences/icml-2026/cards/6001-6100.md#zhao26w-data-strategies) · 中文
 - [Exploring 3D Dataset Pruning](../../conferences/icml-2026/cards/6001-6100.md#zhao26ao-data-strategies) · 中文
 - [Anti-Backdoor Coreset Selection via Cumulative Entropy](../../conferences/icml-2026/cards/6001-6100.md#zhao26ba-data-strategies) · 中文
+- [Class-Conditional Distribution Balancing for Group Robust Classification](../../conferences/icml-2026/cards/6001-6100.md#zhao26bt-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

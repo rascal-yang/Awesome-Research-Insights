@@ -499,6 +499,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26ir-optimization"></a>[Optimal Transport with Symmetry Groups](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ir)
 - <a id="zhang26is-optimization"></a>[Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26is)
 - <a id="zhao26ah-optimization"></a>[A Fully First-Order Layer for Differentiable Optimization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ah)
+- <a id="zhao26bj-optimization"></a>[Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bj)
 
 <a id="by-reinforcement-learning"></a>
 

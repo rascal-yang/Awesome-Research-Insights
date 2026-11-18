@@ -206,6 +206,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reinforcement-aware Knowledge Distillation for LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#zhang26bw-reinforcement-learning) · 中文
 - [D$^2$Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning](../../conferences/icml-2026/cards/5801-5900.md#zhang26cm-reinforcement-learning) · 中文
 - [Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs](../../conferences/icml-2026/cards/5901-6000.md#zhang26io-reinforcement-learning) · 中文
+- [ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](../../conferences/icml-2026/cards/6001-6100.md#zhao26bn-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

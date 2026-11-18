@@ -206,6 +206,7 @@
 - [让teacher进入advantage加权概率比](../conferences/icml-2026/cards/5801-5900.md#zhang26bw-reinforcement-learning) · Reinforcement-aware Knowledge Distillation for LLM Reasoning
 - [问答双侧难度带的自演化奖励](../conferences/icml-2026/cards/5801-5900.md#zhang26cm-reinforcement-learning) · D$^2$Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning
 - [修订增益回传到原回答的奖励](../conferences/icml-2026/cards/5901-6000.md#zhang26io-reinforcement-learning) · Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs
+- [按置信度调clip并重分配token优势](../conferences/icml-2026/cards/6001-6100.md#zhao26bn-reinforcement-learning) · ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 

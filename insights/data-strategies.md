@@ -137,6 +137,7 @@
 - [低置信伪标签的预测位移筛选](../conferences/icml-2026/cards/6001-6100.md#zhao26w-data-strategies) · Rethinking Low-Confidence Pseudo Labels: Influence-Aware Semi-Supervised Fine-Tuning for Hyperspectral Change Detection
 - [按评测先验审计3D pruning信号](../conferences/icml-2026/cards/6001-6100.md#zhao26ao-data-strategies) · Exploring 3D Dataset Pruning
 - [累计不确定性筛防御训练子集](../conferences/icml-2026/cards/6001-6100.md#zhao26ba-data-strategies) · Anti-Backdoor Coreset Selection via Cumulative Entropy
+- [按类条件矩匹配学习去偏样本权重](../conferences/icml-2026/cards/6001-6100.md#zhao26bt-data-strategies) · Class-Conditional Distribution Balancing for Group Robust Classification
 
 <a id="by-nlp"></a>
 

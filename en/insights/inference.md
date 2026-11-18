@@ -618,6 +618,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency](../../conferences/icml-2026/cards/5201-5300.md#xiong26o-inference) · 中文
 - [Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](../../conferences/icml-2026/cards/5201-5300.md#xu26u-inference) · 中文
 - [Langevin Rollout Optimization for Modelic Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26gi-inference) · 中文
+- [TapSampling: Inference-Time Sampling with a Task-Progress-Understanding Verifier for Robotic Manipulation](../../conferences/icml-2026/cards/6001-6100.md#zhao26by-inference) · 中文
 
 <a id="by-multimodal"></a>
 

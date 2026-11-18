@@ -138,6 +138,7 @@
 - <a id="yin26a-modules"></a>[PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](../conferences/icml-2026/cards/5501-5600.md#paper-yin26a)
 - <a id="yoshimura26a-modules"></a>[SF-Mamba: Rethinking State Space Model for Vision](../conferences/icml-2026/cards/5501-5600.md#paper-yoshimura26a)
 - <a id="yu26bp-modules"></a>[PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bp)
+- <a id="zhao26bl-modules"></a>[Smoothing Slot Attention Iterations and Recurrences](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bl)
 
 <a id="by-loss-functions"></a>
 
@@ -355,6 +356,7 @@
 - <a id="zhang26hk-training-strategies"></a>[BTSP-CAM: A Brain-Inspired Geometric Memory for Class-Incremental Learning](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hk)
 - <a id="zhang26hl-training-strategies"></a>[Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hl)
 - <a id="zhang26iw-training-strategies"></a>[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iw)
+- <a id="zhao26bx-training-strategies"></a>[Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bx)
 
 <a id="by-data-strategies"></a>
 
@@ -392,6 +394,7 @@
 - <a id="zhao26w-data-strategies"></a>[Rethinking Low-Confidence Pseudo Labels: Influence-Aware Semi-Supervised Fine-Tuning for Hyperspectral Change Detection](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26w)
 - <a id="zhao26ao-data-strategies"></a>[Exploring 3D Dataset Pruning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ao)
 - <a id="zhao26ba-data-strategies"></a>[Anti-Backdoor Coreset Selection via Cumulative Entropy](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ba)
+- <a id="zhao26bt-data-strategies"></a>[Class-Conditional Distribution Balancing for Group Robust Classification](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bt)
 
 <a id="by-inference"></a>
 
@@ -602,6 +605,7 @@
 - <a id="xing26i-representation-learning"></a>[Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics](../conferences/icml-2026/cards/5101-5200.md#paper-xing26i)
 - <a id="yang26co-representation-learning"></a>[A Hypertoroidal Covering for Perfect Color Equivariance](../conferences/icml-2026/cards/5401-5500.md#paper-yang26co)
 - <a id="zhao26t-representation-learning"></a>[Learning Sparse Visual Representations via Spatial-Semantic Factorization](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26t)
+- <a id="zhao26bw-representation-learning"></a>[LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bw)
 
 <a id="by-evaluation"></a>
 

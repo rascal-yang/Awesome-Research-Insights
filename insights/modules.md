@@ -123,6 +123,7 @@
 - [全景球面距离与轨迹条件注意力](../conferences/icml-2026/cards/5501-5600.md#yin26a-modules) · PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion
 - [单扫描交换摘要并折叠短序列batch](../conferences/icml-2026/cards/5501-5600.md#yoshimura26a-modules) · SF-Mamba: Rethinking State Space Model for Vision
 - [随机子空间补投影的压缩扩张层](../conferences/icml-2026/cards/5601-5700.md#yu26bp-modules) · PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$
+- [槽注意力冷启动预热与帧别迭代](../conferences/icml-2026/cards/6001-6100.md#zhao26bl-modules) · Smoothing Slot Attention Iterations and Recurrences
 
 <a id="by-nlp"></a>
 

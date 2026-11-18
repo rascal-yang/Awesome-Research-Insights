@@ -384,6 +384,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Random Scaling of Emergent Capabilities](../../conferences/icml-2026/cards/6001-6100.md#zhao26al-evaluation) · 中文
 - [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](../../conferences/icml-2026/cards/6001-6100.md#zhao26aq-evaluation) · 中文
 - [Large Language Model Agents Are Not Always Faithful Self-Evolvers](../../conferences/icml-2026/cards/6001-6100.md#zhao26aw-evaluation) · 中文
+- [AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms](../../conferences/icml-2026/cards/6001-6100.md#zhao26bm-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

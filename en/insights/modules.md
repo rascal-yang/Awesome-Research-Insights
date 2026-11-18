@@ -123,6 +123,7 @@ Reusable components and local changes to model inputs or connections.
 - [PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](../../conferences/icml-2026/cards/5501-5600.md#yin26a-modules) · 中文
 - [SF-Mamba: Rethinking State Space Model for Vision](../../conferences/icml-2026/cards/5501-5600.md#yoshimura26a-modules) · 中文
 - [PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$](../../conferences/icml-2026/cards/5601-5700.md#yu26bp-modules) · 中文
+- [Smoothing Slot Attention Iterations and Recurrences](../../conferences/icml-2026/cards/6001-6100.md#zhao26bl-modules) · 中文
 
 <a id="by-nlp"></a>
 

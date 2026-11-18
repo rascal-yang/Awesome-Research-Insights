@@ -122,6 +122,7 @@
 - [在共享rank坐标的LoRA因子sketch上合并](../conferences/icml-2026/cards/5901-6000.md#zhang26hx-optimization) · Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms
 - [RLVR下拆开奇异方向与幅度](../conferences/icml-2026/cards/6001-6100.md#zhang26jm-optimization) · Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR
 - [约束子集概率的MoE路由代理](../conferences/icml-2026/cards/6001-6100.md#zhao26ap-optimization) · ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts
+- [三值PTQ与相邻层激活精度耦合](../conferences/icml-2026/cards/6001-6100.md#zhao26bi-optimization) · TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization
 
 <a id="by-computer-vision"></a>
 
@@ -484,6 +485,7 @@
 - [从代价模式恢复对称轨道的OT压缩](../conferences/icml-2026/cards/5901-6000.md#zhang26ir-optimization) · Optimal Transport with Symmetry Groups
 - [双PL条件的无二阶分布式bilevel](../conferences/icml-2026/cards/5901-6000.md#zhang26is-optimization) · Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization
 - [识别活跃约束后的扰动式超梯度](../conferences/icml-2026/cards/6001-6100.md#zhao26ah-optimization) · A Fully First-Order Layer for Differentiable Optimization
+- [自界定有效网格搜索范围](../conferences/icml-2026/cards/6001-6100.md#zhao26bj-optimization) · Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis
 
 <a id="by-graph-and-recommendation"></a>
 

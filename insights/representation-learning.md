@@ -100,6 +100,7 @@
 - [语义表征与光度细节的选择权衡](../conferences/icml-2026/cards/5101-5200.md#xing26i-representation-learning) · Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics
 - [有界颜色通道的周期提升与反射作用](../conferences/icml-2026/cards/5401-5500.md#yang26co-representation-learning) · A Hypertoroidal Covering for Perfect Color Equivariance
 - [把稀疏semantictokens与dense位置系数一同保留](../conferences/icml-2026/cards/6001-6100.md#zhao26t-representation-learning) · Learning Sparse Visual Representations via Spatial-Semantic Factorization
+- [顶点位移场编码网格拓扑](../conferences/icml-2026/cards/6001-6100.md#zhao26bw-representation-learning) · LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents
 
 <a id="by-nlp"></a>
 

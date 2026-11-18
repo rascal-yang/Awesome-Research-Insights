@@ -618,6 +618,7 @@
 - [保留转弯与共享锚帧的分图SLAM](../conferences/icml-2026/cards/5201-5300.md#xiong26o-inference) · VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency
 - [跨控制步保留脉冲残余电位](../conferences/icml-2026/cards/5201-5300.md#xu26u-inference) · Error Amplification Limits ANN-to-SNN Conversion in Continuous Control
 - [蒸馏rollout return梯度供Langevin规划](../conferences/icml-2026/cards/5901-6000.md#zhang26gi-inference) · Langevin Rollout Optimization for Modelic Reinforcement Learning
+- [轨迹进度差验证动作与后验候选](../conferences/icml-2026/cards/6001-6100.md#zhao26by-inference) · TapSampling: Inference-Time Sampling with a Task-Progress-Understanding Verifier for Robotic Manipulation
 
 <a id="by-multimodal"></a>
 

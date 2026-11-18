@@ -122,6 +122,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms](../../conferences/icml-2026/cards/5901-6000.md#zhang26hx-optimization) · 中文
 - [Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR](../../conferences/icml-2026/cards/6001-6100.md#zhang26jm-optimization) · 中文
 - [ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts](../../conferences/icml-2026/cards/6001-6100.md#zhao26ap-optimization) · 中文
+- [TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../../conferences/icml-2026/cards/6001-6100.md#zhao26bi-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -484,6 +485,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Optimal Transport with Symmetry Groups](../../conferences/icml-2026/cards/5901-6000.md#zhang26ir-optimization) · 中文
 - [Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization](../../conferences/icml-2026/cards/5901-6000.md#zhang26is-optimization) · 中文
 - [A Fully First-Order Layer for Differentiable Optimization](../../conferences/icml-2026/cards/6001-6100.md#zhao26ah-optimization) · 中文
+- [Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis](../../conferences/icml-2026/cards/6001-6100.md#zhao26bj-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

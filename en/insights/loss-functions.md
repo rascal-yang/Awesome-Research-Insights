@@ -75,6 +75,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Think in Latent, Explain in Language: Self-Explainable Latent Reasoning](../../conferences/icml-2026/cards/6001-6100.md#zhao26a-loss-functions) · 中文
 - [Syntax vs. Semantics: How Transformers Learn Deep Dependencies](../../conferences/icml-2026/cards/6001-6100.md#zhao26h-loss-functions) · 中文
 - [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26be-loss-functions) · 中文
+- [Don’t Force the Fit: Bounded Log-Likelihood Loss for Enhanced Reasoning in Large Language Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26bz-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

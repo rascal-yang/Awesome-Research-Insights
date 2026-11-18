@@ -75,6 +75,7 @@
 - [让同一latent-reasoning模型兼学文字解码](../conferences/icml-2026/cards/6001-6100.md#zhao26a-loss-functions) · Think in Latent, Explain in Language: Self-Explainable Latent Reasoning
 - [对已知依赖边直接加attentionmargin监督](../conferences/icml-2026/cards/6001-6100.md#zhao26h-loss-functions) · Syntax vs. Semantics: How Transformers Learn Deep Dependencies
 - [特权自蒸馏中裁剪词表贡献](../conferences/icml-2026/cards/6001-6100.md#zhao26be-loss-functions) · Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models
+- [用有界似然抑制低概率示范token](../conferences/icml-2026/cards/6001-6100.md#zhao26bz-loss-functions) · Don’t Force the Fit: Bounded Log-Likelihood Loss for Enhanced Reasoning in Large Language Models
 
 <a id="by-computer-vision"></a>
 

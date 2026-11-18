@@ -257,6 +257,7 @@ Training schedules, curricula, and task or stage composition.
 - [BTSP-CAM: A Brain-Inspired Geometric Memory for Class-Incremental Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hk-training-strategies) · 中文
 - [Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection](../../conferences/icml-2026/cards/5901-6000.md#zhang26hl-training-strategies) · 中文
 - [Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](../../conferences/icml-2026/cards/5901-6000.md#zhang26iw-training-strategies) · 中文
+- [Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26bx-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

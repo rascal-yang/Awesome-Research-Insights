@@ -190,6 +190,7 @@
 - <a id="zhao26a-loss-functions"></a>[Think in Latent, Explain in Language: Self-Explainable Latent Reasoning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26a)
 - <a id="zhao26h-loss-functions"></a>[Syntax vs. Semantics: How Transformers Learn Deep Dependencies](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26h)
 - <a id="zhao26be-loss-functions"></a>[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26be)
+- <a id="zhao26bz-loss-functions"></a>[Don’t Force the Fit: Bounded Log-Likelihood Loss for Enhanced Reasoning in Large Language Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bz)
 
 <a id="by-optimization"></a>
 
@@ -304,6 +305,7 @@
 - <a id="zhang26hx-optimization"></a>[Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hx)
 - <a id="zhang26jm-optimization"></a>[Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR](../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jm)
 - <a id="zhao26ap-optimization"></a>[ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ap)
+- <a id="zhao26bi-optimization"></a>[TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bi)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -502,6 +504,7 @@
 - <a id="zhang26bw-reinforcement-learning"></a>[Reinforcement-aware Knowledge Distillation for LLM Reasoning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bw)
 - <a id="zhang26cm-reinforcement-learning"></a>[D$^2$Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cm)
 - <a id="zhang26io-reinforcement-learning"></a>[Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26io)
+- <a id="zhao26bn-reinforcement-learning"></a>[ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bn)
 
 <a id="by-training-strategies"></a>
 
@@ -1534,6 +1537,7 @@
 - <a id="zhao26al-evaluation"></a>[Random Scaling of Emergent Capabilities](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26al)
 - <a id="zhao26aq-evaluation"></a>[CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26aq)
 - <a id="zhao26aw-evaluation"></a>[Large Language Model Agents Are Not Always Faithful Self-Evolvers](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26aw)
+- <a id="zhao26bm-evaluation"></a>[AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bm)
 
 <a id="by-theory-statistics"></a>
 

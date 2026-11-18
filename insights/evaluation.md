@@ -384,6 +384,7 @@
 - [跨seed双峰导致的表观能力跃迁](../conferences/icml-2026/cards/6001-6100.md#zhao26al-evaluation) · Random Scaling of Emergent Capabilities
 - [在相关judge中选条件独立视图](../conferences/icml-2026/cards/6001-6100.md#zhao26aq-evaluation) · CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
 - [分开审计原始轨迹和压缩经验](../conferences/icml-2026/cards/6001-6100.md#zhao26aw-evaluation) · Large Language Model Agents Are Not Always Faithful Self-Evolvers
+- [区分形式验证通过和算法语义遵循](../conferences/icml-2026/cards/6001-6100.md#zhao26bm-evaluation) · AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms
 
 <a id="by-computer-vision"></a>
 
