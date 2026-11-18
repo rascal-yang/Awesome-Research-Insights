@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **749** 篇，暂收录 **668** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **809** 篇，暂收录 **725** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -676,3 +676,60 @@
 | 多语言学习 | 水印评测 | [Auditing Cross-Lingual Fairness in Language Model Watermarking](cards-0002.md#paper-138923) | 对不同语言分别校准阈值并测阈值无关区分度。 |
 | 科研计量 | 证据审计 | [Auditing Evidence Framing at NeurIPS: A Decade-Scale Study of Accepted Papers](cards-0002.md#paper-139236) | 对会议证据风格的时间趋势按主题调整。 |
 | 隐私评测 | 表征审计 | [Auditing Privacy Leakage in Tabular Foundation Model Embeddings](cards-0002.md#paper-149397) | 共享嵌入前评估辅助信息存在时的联合泄漏。 |
+| 科研可靠性 | 防御审计 | [Auditing Sabotage Bench: A Benchmark for Detecting and Fixing Research Sabotage in ML Codebases](cards-0002.md#paper-139641) | 在科研复现中分别验收检测和修复。 |
+| 表征学习 | 部署评测 | [Auditing Single-Query Recoverability in Self-Supervised Representations](cards-0002.md#paper-152886) | 单输入系统按单输入验收。 |
+| 大语言模型 | 评审校准 | [Auditing the Judge: Human-Grounded Bias Discovery, Quantification, and Mitigation in LLM Judges](cards-0002.md#paper-153728) | 用人机分歧发现偏差，再用受控改写测量偏差。 |
+| 大语言模型 | 身份核验 | [Auditor-Assisted Summary-Channel Verification for Hosted LLM Identity Substitution](cards-0002.md#paper-154384) | 以公开推理摘要作为托管模型身份的审计信号。 |
+| 计算机视觉 | 输入增强 | [AuGhostmentation: The Eyes Never Stand Still—$\textit{Why Should CNNs?}$](cards-0002.md#paper-152194) | 将弱位移副本叠到原图增强扰动鲁棒性。 |
+| 医学影像 | 几何等变 | [Augmented Equivariant Mesh Networks for Anatomical Segmentation](cards-0002.md#paper-153175) | 分别评估网格在标准位姿和旋转扰动下的分割。 |
+| 强化学习 | 约束优化 | [Augmented Lagrangian Method for Last-Iterate Convergence for Constrained MDPs](cards-0002.md#paper-155499) | 单策略部署时检验最终迭代收敛。 |
+| 优化 | 局部学习 | [Augmented Lagrangian Predictive Coding](cards-0002.md#paper-154623) | 用逐层对偶变量累积预测约束误差。 |
+| 统计学习 | 最优传输 | [A Unified Approach for Computing Wasserstein Barycenters of Discrete and Continuous Measures](cards-0002.md#paper-154277) | 混合点云和密度输入时使用统一的重心求解。 |
+| 多模态学习 | 音频标记化 | [A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization](cards-0002.md#paper-154205) | 将语言可表达信息与波形保真信息分开编码。 |
+| 隐私 | 风险界 | [A Unified Framework for Adversary-Aware Differential Privacy Bounds](cards-0002.md#paper-153636) | 评估差分隐私时将无输出时的先验成功率纳入比较。 |
+| 计算机视觉 | 条件生成 | [A Unified Framework for Image-to-3D Part Generation via Variable Granularity](cards-0002.md#paper-150141) | 在单模型内比较点、框和掩码三种控制。 |
+| 机制设计 | 资源分配 | [A Unified Framework for Uniform-Price Resource Allocation Mechanisms](cards-0002.md#paper-154380) | 采用比例式分配时比较统一价格规则。 |
+| 图学习 | 跨域对齐 | [A Unified Graph Language Model for Multi-Domain Multi-Task Graph Alignment Instruction Tuning](cards-0002.md#paper-148900) | 按图数据和指令的对齐难度组织训练。 |
+| 多模态学习 | 时空编码 | [A Unified Image and Video Encoder for Multimodal LLMs](cards-0002.md#paper-154993) | 把低层时序建模前移到视觉编码器。 |
+| 优化 | 学习率迁移 | [A Unified Merge Calculus for Learning-Rate Scaling on Neural Computation Graphs](cards-0002.md#paper-152315) | 按计算图合并方式而非只按深度迁移学习率。 |
+| 统计学习 | 结构约束 | [A Unified Neural Architecture for Variable-Wise Shape Constraints](cards-0002.md#paper-149870) | 用结构保证逐变量单调性或曲率。 |
+| 图学习 | 域适应 | [A unified pairwise distribution matching framework for graph domain adaptation under structure shift](cards-0002.md#paper-154823) | 边结构变化时对齐连接节点对的分布。 |
+| 评测 | 稳健性审计 | [A Unified Perturbation Framework for Analyzing Leaderboard Stability and Manipulation](cards-0002.md#paper-148880) | 给成对偏好排行榜同时报告名次集合、全序和置信区间稳定性。 |
+| 优化 | 稀疏求解 | [A Unified Semismooth Newton Approach to Multitask and Multivariate Square-Root Lasso Problems](cards-0002.md#paper-151762) | 多响应平方根 Lasso 用降维半光滑牛顿法。 |
+| 多模态 | 目标函数 | [A Unified Spectral Theory of Multimodal Losses](cards-0002.md#paper-155760) | 单侧噪声重时优先检验定向生成 |
+| 学习理论 | 上下文学习 | [A Unified Theoretical Framework for Task Recognition and Task Learning in In-Context Learning](cards-0002.md#paper-149830) | 按任务频率分组测提示长度收益 |
+| 图学习 | 不确定性 | [A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion](cards-0002.md#paper-151405) | 共享随机嵌入并为校准与 OOD 分设读出 |
+| 可解释性 | 组合表示 | [A Unifying Perspective on Language Model Interpretability](cards-0002.md#paper-148396) | 用共同的张量积假设交叉检验探针与干预 |
+| 优化 | 算子正则 | [A Unifying View of Anchoring via Operator-Side Tikhonov Regularization](cards-0002.md#paper-153667) | 在算子查询端加入消失的正则以复用原更新 |
+| 视觉 / Agent | 闭环工具 | [AURA: An Autonomous Retouching Agent with Photographic Visual Thinking](cards-0002.md#paper-148451) | 长程编辑每步回读图像再决定局部工具操作 |
+| 视频生成 | 结构化控制 | [Auteur: Language-Driven Cinematographic Framing for Human-Centric Video Generation](cards-0002.md#paper-155137) | 用相对演员的镜头语言生成关键帧 |
+| 大语言模型 | 数据管线评测 | [AutoDataBench: How Far Are LLM Agents from Autonomously Engineering Post-Training Data Pipelines?](cards-0002.md#paper-139001) | 固定学生模型，以训练后的效果检验数据管线 |
+| Agent | 离线记忆 | [Auto-Dreamer: Learning Offline Memory Consolidation for Language Agents](cards-0002.md#paper-152534) | 把即时记忆采集和跨会话压缩拆成两个阶段 |
+| 计算机视觉 | 标注迁移 | [AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines](cards-0002.md#paper-139399) | 把专家标注规范作为少样本跨模态评测输入 |
+| 信息检索 | 多跳推理 | [Autofocus Retrieval: An Effective Pipeline for Multi-Hop Question Answering With Semi-Structured Knowledge](cards-0002.md#paper-156757) | 先提取关系约束，再逐步扩大候选范围 |
+| AI 安全 | 防御评测 | [AutoHoney: Automating, Deploying, and Evaluating Scheming Honeypots Across Production Codebases](cards-0002.md#paper-139153) | 分开测任务范围和评测知情状态对审计结果的影响 |
+| 可视分析 | 算法选型 | [AutoManifold: Agentic Design of Data Visualisation Algorithms via Manifold Embedding](cards-0002.md#paper-154589) | 按用户的结构保留目标评测嵌入算法 |
+| Agent | 故障检测 | [Automata from Agent Traces: Failure and Next-Step Prediction](cards-0002.md#paper-148996) | 跨轨迹建有限状态机并监控各状态失败信号 |
+| 因果推断 | 方法搜索 | [Automated Causal Effect Estimation through Self-Evolving AI](cards-0002.md#paper-150563) | 有代理回报时分别评估代理和真实效应误差 |
+| 数据质量 | 标注诊断 | [Automated Hypothesis Discovery for Characterizing Annotation Disagreement](cards-0002.md#paper-139723) | 留出验证用于筛选生成的分歧假设 |
+| 优化 | 核设计 | [Automated Kernel Discovery Towards Understanding High-dimensional Bayesian Optimization](cards-0002.md#paper-149210) | 用留一概率评分选核并分离数学提案和实现 |
+| 优化 / Agent | 经验记忆 | [Automated Reformulation of Robust Optimization via Memory-Augmented Large Language Models](cards-0002.md#paper-148230) | 把失败推导整理成可跨底座移植的重写经验 |
+| 软件工程 | 规则优化 | [Automatically Refining Coding Rules for AI Coding Agents](cards-0002.md#paper-153609) | 用留出功能测试筛选自动变异的编程规则 |
+| 强化学习 | 约束优化 | [Automatic Constraint Policy Optimization based on Continuous Constraint Interpolation Framework for Offline Reinforcement Learning](cards-0002.md#paper-151401) | 用验证反馈自调离线策略约束类型。 |
+| Agent / 科学机器学习 | 研究评测 | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](cards-0002.md#paper-139352) | 区分智能体的工程调参与领域创新。 |
+| Agent | 记忆学习 | [AUTOMEM: Automated Learning of Memory as a Cognitive Skill](cards-0002.md#paper-150660) | 把文件记忆决策与任务动作分开优化。 |
+| 多模态 | 状态评测 | [Automotive-ENV: Benchmarking Multimodal Models in Automotive Cockpit Environments](cards-0002.md#paper-139849) | 用环境状态验收 GUI 行为。 |
+| Agent | 持续适配 | [Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents](cards-0002.md#paper-154225) | 用上一轮反馈生成贴近当前能力的课程。 |
+| 科学机器学习 | 假设检验 | [Autonomous Scientific Discovery via Iterative Meta-Reflection](cards-0002.md#paper-149249) | 将已验证的发现作为下一轮假设生成输入。 |
+| 计算机视觉 | 动态表征 | [Autoregressive Appearance Prediction for 3D Gaussian Avatars](cards-0002.md#paper-154526) | 用历史外观隐状态解释同姿态不同外观。 |
+| Agent | 离线评估 | [Autoregressive Diffusion World Models for Off-Policy Evaluation of LLM Agents](cards-0002.md#paper-153481) | 让目标策略在每个模拟转移后重新行动。 |
+| 学习理论 | 自回归估计 | [Autoregressive Learning in Joint KL: Sharp Oracle Bounds and Lower Bounds](cards-0002.md#paper-154406) | 用联合 KL 区分错设近似与序列估计误差。 |
+| 多模态 | 奖励分解 | [Auto-Rubric as Reward: From Implicit Preference to Explicit Generative Criteria](cards-0002.md#paper-151565) | 比较输出前先生成任务特定的质量细则。 |
+| Agent | 执行迭代 | [AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces](cards-0002.md#paper-151256) | 用留出任务检验从失败轨迹提出的配置修订。 |
+| Agent | 协作管理 | [AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](cards-0002.md#paper-151734) | 在固定预算下比较共享实验状态和固定中央分工。 |
+| 数学推理 | 数据合成 | [AuxGeoAgent: Synthesizing Challenging Geometry Proving Data via Planning and Symbolic Deduction](cards-0002.md#paper-139298) | 按是否需要辅助构造定向生成练习。 |
+| 多模态 | 强化学习 | [Auxiliary Clues Aware’s Geometry Problem Solving](cards-0002.md#paper-149037) | 按图形线索对证明推理的贡献加权。 |
+| 多模态 | 编辑评测 | [AVENUE: Audio-Video Editing Understanding and Evaluation](cards-0002.md#paper-138887) | 逐样本记录目标改动及应保留模态。 |
+| 脑科学 | 混杂控制 | [AVID: A 5T fMRI Dataset for Benchmarking Auditory-induced Visual Mental Imagery Decoding](cards-0002.md#paper-139564) | 用听觉诱发想象控制视觉刺激混杂。 |
+| 多模态 | 传感融合 | [AVI-HT: Adaptive Vision-IMU Fusion for 3D Hand Tracking](cards-0002.md#paper-154518) | 遮挡条件下按传感器动态调节可信度。 |
+| 多模态 | 推理预算 | [AVIS: Adaptive Test-Time Scaling for Vision–Language Models](cards-0002.md#paper-150182) | 联合分配视觉 token 和推理采样次数。 |

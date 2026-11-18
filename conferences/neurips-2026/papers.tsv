@@ -700,66 +700,66 @@ poster_id	title	paper_url	status	reason
 155145	Auditing Instruction Robustness in Vision-Language-Action Models via Diversity-Aware Red Teaming	https://neurips.cc/virtual/2026/poster/155145	excluded	摘要主要贡献是自动构造诱发机器人执行失败的攻击流程，未提供独立可采用的防御机制。
 140075	Auditing is not Evaluating: LLM Audit Requires Dynamic, Contextual, Budget-aware and Reliable Evidence	https://neurips.cc/virtual/2026/poster/140075	excluded	文章提出审计原则与组件框架；摘要没有给出可与现有流程比较的验证机制或实证结果。
 149397	Auditing Privacy Leakage in Tabular Foundation Model Embeddings	https://neurips.cc/virtual/2026/poster/149397	included	共享嵌入前评估辅助信息存在时的联合泄漏。
-139641	Auditing Sabotage Bench: A Benchmark for Detecting and Fixing Research Sabotage in ML Codebases	https://neurips.cc/virtual/2026/poster/139641	pending	-
-152886	Auditing Single-Query Recoverability in Self-Supervised Representations	https://neurips.cc/virtual/2026/poster/152886	pending	-
-153728	Auditing the Judge: Human-Grounded Bias Discovery, Quantification, and Mitigation in LLM Judges	https://neurips.cc/virtual/2026/poster/153728	pending	-
-154384	Auditor-Assisted Summary-Channel Verification for Hosted LLM Identity Substitution	https://neurips.cc/virtual/2026/poster/154384	pending	-
-152194	AuGhostmentation: The Eyes Never Stand Still—$\textit{Why Should CNNs?}$	https://neurips.cc/virtual/2026/poster/152194	pending	-
-153175	Augmented Equivariant Mesh Networks for Anatomical Segmentation	https://neurips.cc/virtual/2026/poster/153175	pending	-
-155499	Augmented Lagrangian Method for Last-Iterate Convergence for Constrained MDPs	https://neurips.cc/virtual/2026/poster/155499	pending	-
-154623	Augmented Lagrangian Predictive Coding	https://neurips.cc/virtual/2026/poster/154623	pending	-
-154277	A Unified Approach for Computing Wasserstein Barycenters of Discrete and Continuous Measures	https://neurips.cc/virtual/2026/poster/154277	pending	-
-154205	A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization	https://neurips.cc/virtual/2026/poster/154205	pending	-
-153636	A Unified Framework for Adversary-Aware Differential Privacy Bounds	https://neurips.cc/virtual/2026/poster/153636	pending	-
-150141	A Unified Framework for Image-to-3D Part Generation via Variable Granularity	https://neurips.cc/virtual/2026/poster/150141	pending	-
-154380	A Unified Framework for Uniform-Price Resource Allocation Mechanisms	https://neurips.cc/virtual/2026/poster/154380	pending	-
-148900	A Unified Graph Language Model for Multi-Domain Multi-Task Graph Alignment Instruction Tuning	https://neurips.cc/virtual/2026/poster/148900	pending	-
-154993	A Unified Image and Video Encoder for Multimodal LLMs	https://neurips.cc/virtual/2026/poster/154993	pending	-
-152315	A Unified Merge Calculus for Learning-Rate Scaling on Neural Computation Graphs	https://neurips.cc/virtual/2026/poster/152315	pending	-
-149870	A Unified Neural Architecture for Variable-Wise Shape Constraints	https://neurips.cc/virtual/2026/poster/149870	pending	-
-154823	A unified pairwise distribution matching framework for graph domain adaptation under structure shift	https://neurips.cc/virtual/2026/poster/154823	pending	-
-148880	A Unified Perturbation Framework for Analyzing Leaderboard Stability and Manipulation	https://neurips.cc/virtual/2026/poster/148880	pending	-
-151762	A Unified Semismooth Newton Approach to Multitask and Multivariate Square-Root Lasso Problems	https://neurips.cc/virtual/2026/poster/151762	pending	-
-155760	A Unified Spectral Theory of Multimodal Losses	https://neurips.cc/virtual/2026/poster/155760	pending	-
-149830	A Unified Theoretical Framework for Task Recognition and Task Learning in In-Context Learning	https://neurips.cc/virtual/2026/poster/149830	pending	-
-151405	A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion	https://neurips.cc/virtual/2026/poster/151405	pending	-
-148396	A Unifying Perspective on Language Model Interpretability	https://neurips.cc/virtual/2026/poster/148396	pending	-
-153667	A Unifying View of Anchoring via Operator-Side Tikhonov Regularization	https://neurips.cc/virtual/2026/poster/153667	pending	-
-148451	AURA: An Autonomous Retouching Agent with Photographic Visual Thinking	https://neurips.cc/virtual/2026/poster/148451	pending	-
-155137	Auteur: Language-Driven Cinematographic Framing for Human-Centric Video Generation	https://neurips.cc/virtual/2026/poster/155137	pending	-
-139001	AutoDataBench: How Far Are LLM Agents from Autonomously Engineering Post-Training Data Pipelines?	https://neurips.cc/virtual/2026/poster/139001	pending	-
-152534	Auto-Dreamer: Learning Offline Memory Consolidation for Language Agents	https://neurips.cc/virtual/2026/poster/152534	pending	-
-139399	AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines	https://neurips.cc/virtual/2026/poster/139399	pending	-
-156757	Autofocus Retrieval: An Effective Pipeline for Multi-Hop Question Answering With Semi-Structured Knowledge	https://neurips.cc/virtual/2026/poster/156757	pending	-
-150745	AutoformBot: Formalizing Mathematics at Scale	https://neurips.cc/virtual/2026/poster/150745	pending	-
-139153	AutoHoney: Automating, Deploying, and Evaluating Scheming Honeypots Across Production Codebases	https://neurips.cc/virtual/2026/poster/139153	pending	-
-154589	AutoManifold: Agentic Design of Data Visualisation Algorithms via Manifold Embedding	https://neurips.cc/virtual/2026/poster/154589	pending	-
-148996	Automata from Agent Traces: Failure and Next-Step Prediction	https://neurips.cc/virtual/2026/poster/148996	pending	-
-150563	Automated Causal Effect Estimation through Self-Evolving AI	https://neurips.cc/virtual/2026/poster/150563	pending	-
-139723	Automated Hypothesis Discovery for Characterizing Annotation Disagreement	https://neurips.cc/virtual/2026/poster/139723	pending	-
-149210	Automated Kernel Discovery Towards Understanding High-dimensional Bayesian Optimization	https://neurips.cc/virtual/2026/poster/149210	pending	-
-148230	Automated Reformulation of Robust Optimization via Memory-Augmented Large Language Models	https://neurips.cc/virtual/2026/poster/148230	pending	-
-153609	Automatically Refining Coding Rules for AI Coding Agents	https://neurips.cc/virtual/2026/poster/153609	pending	-
-151401	Automatic Constraint Policy Optimization based on Continuous Constraint Interpolation Framework for Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151401	pending	-
-151060	Automatic Textbook Formalization	https://neurips.cc/virtual/2026/poster/151060	pending	-
-139352	Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?	https://neurips.cc/virtual/2026/poster/139352	pending	-
-150660	AUTOMEM: Automated Learning of Memory as a Cognitive Skill	https://neurips.cc/virtual/2026/poster/150660	pending	-
-139849	Automotive-ENV: Benchmarking Multimodal Models in Automotive Cockpit Environments	https://neurips.cc/virtual/2026/poster/139849	pending	-
-154225	Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents	https://neurips.cc/virtual/2026/poster/154225	pending	-
-140088	Autonomous Driving Research Requires a Community-Driven Data Paradigm	https://neurips.cc/virtual/2026/poster/140088	pending	-
-149249	Autonomous Scientific Discovery via Iterative Meta-Reflection	https://neurips.cc/virtual/2026/poster/149249	pending	-
-154526	Autoregressive Appearance Prediction for 3D Gaussian Avatars	https://neurips.cc/virtual/2026/poster/154526	pending	-
-153481	Autoregressive Diffusion World Models for Off-Policy Evaluation of LLM Agents	https://neurips.cc/virtual/2026/poster/153481	pending	-
-154406	Autoregressive Learning in Joint KL: Sharp Oracle Bounds and Lower Bounds	https://neurips.cc/virtual/2026/poster/154406	pending	-
-151565	Auto-Rubric as Reward: From Implicit Preference to Explicit Generative Criteria	https://neurips.cc/virtual/2026/poster/151565	pending	-
-151256	AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces	https://neurips.cc/virtual/2026/poster/151256	pending	-
-151734	AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation	https://neurips.cc/virtual/2026/poster/151734	pending	-
-139298	AuxGeoAgent: Synthesizing Challenging Geometry Proving Data via Planning and Symbolic Deduction	https://neurips.cc/virtual/2026/poster/139298	pending	-
-149037	Auxiliary Clues Aware’s Geometry Problem Solving	https://neurips.cc/virtual/2026/poster/149037	pending	-
-138887	AVENUE: Audio-Video Editing Understanding and Evaluation	https://neurips.cc/virtual/2026/poster/138887	pending	-
-139564	AVID: A 5T fMRI Dataset for Benchmarking Auditory-induced Visual Mental Imagery Decoding	https://neurips.cc/virtual/2026/poster/139564	pending	-
-154518	AVI-HT: Adaptive Vision-IMU Fusion for 3D Hand Tracking	https://neurips.cc/virtual/2026/poster/154518	pending	-
-150182	AVIS: Adaptive Test-Time Scaling for Vision–Language Models	https://neurips.cc/virtual/2026/poster/150182	pending	-
+139641	Auditing Sabotage Bench: A Benchmark for Detecting and Fixing Research Sabotage in ML Codebases	https://neurips.cc/virtual/2026/poster/139641	included	在科研复现中分别验收检测和修复。
+152886	Auditing Single-Query Recoverability in Self-Supervised Representations	https://neurips.cc/virtual/2026/poster/152886	included	单输入系统按单输入验收。
+153728	Auditing the Judge: Human-Grounded Bias Discovery, Quantification, and Mitigation in LLM Judges	https://neurips.cc/virtual/2026/poster/153728	included	用人机分歧发现偏差，再用受控改写测量偏差。
+154384	Auditor-Assisted Summary-Channel Verification for Hosted LLM Identity Substitution	https://neurips.cc/virtual/2026/poster/154384	included	以公开推理摘要作为托管模型身份的审计信号。
+152194	AuGhostmentation: The Eyes Never Stand Still—$\textit{Why Should CNNs?}$	https://neurips.cc/virtual/2026/poster/152194	included	将弱位移副本叠到原图增强扰动鲁棒性。
+153175	Augmented Equivariant Mesh Networks for Anatomical Segmentation	https://neurips.cc/virtual/2026/poster/153175	included	分别评估网格在标准位姿和旋转扰动下的分割。
+155499	Augmented Lagrangian Method for Last-Iterate Convergence for Constrained MDPs	https://neurips.cc/virtual/2026/poster/155499	included	单策略部署时检验最终迭代收敛。
+154623	Augmented Lagrangian Predictive Coding	https://neurips.cc/virtual/2026/poster/154623	included	用逐层对偶变量累积预测约束误差。
+154277	A Unified Approach for Computing Wasserstein Barycenters of Discrete and Continuous Measures	https://neurips.cc/virtual/2026/poster/154277	included	混合点云和密度输入时使用统一的重心求解。
+154205	A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization	https://neurips.cc/virtual/2026/poster/154205	included	将语言可表达信息与波形保真信息分开编码。
+153636	A Unified Framework for Adversary-Aware Differential Privacy Bounds	https://neurips.cc/virtual/2026/poster/153636	included	评估差分隐私时将无输出时的先验成功率纳入比较。
+150141	A Unified Framework for Image-to-3D Part Generation via Variable Granularity	https://neurips.cc/virtual/2026/poster/150141	included	在单模型内比较点、框和掩码三种控制。
+154380	A Unified Framework for Uniform-Price Resource Allocation Mechanisms	https://neurips.cc/virtual/2026/poster/154380	included	采用比例式分配时比较统一价格规则。
+148900	A Unified Graph Language Model for Multi-Domain Multi-Task Graph Alignment Instruction Tuning	https://neurips.cc/virtual/2026/poster/148900	included	按图数据和指令的对齐难度组织训练。
+154993	A Unified Image and Video Encoder for Multimodal LLMs	https://neurips.cc/virtual/2026/poster/154993	included	把低层时序建模前移到视觉编码器。
+152315	A Unified Merge Calculus for Learning-Rate Scaling on Neural Computation Graphs	https://neurips.cc/virtual/2026/poster/152315	included	按计算图合并方式而非只按深度迁移学习率。
+149870	A Unified Neural Architecture for Variable-Wise Shape Constraints	https://neurips.cc/virtual/2026/poster/149870	included	用结构保证逐变量单调性或曲率。
+154823	A unified pairwise distribution matching framework for graph domain adaptation under structure shift	https://neurips.cc/virtual/2026/poster/154823	included	边结构变化时对齐连接节点对的分布。
+148880	A Unified Perturbation Framework for Analyzing Leaderboard Stability and Manipulation	https://neurips.cc/virtual/2026/poster/148880	included	给成对偏好排行榜同时报告名次集合、全序和置信区间稳定性。
+151762	A Unified Semismooth Newton Approach to Multitask and Multivariate Square-Root Lasso Problems	https://neurips.cc/virtual/2026/poster/151762	included	多响应平方根 Lasso 用降维半光滑牛顿法。
+155760	A Unified Spectral Theory of Multimodal Losses	https://neurips.cc/virtual/2026/poster/155760	included	单侧噪声重时优先检验定向生成
+149830	A Unified Theoretical Framework for Task Recognition and Task Learning in In-Context Learning	https://neurips.cc/virtual/2026/poster/149830	included	按任务频率分组测提示长度收益
+151405	A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion	https://neurips.cc/virtual/2026/poster/151405	included	共享随机嵌入并为校准与 OOD 分设读出
+148396	A Unifying Perspective on Language Model Interpretability	https://neurips.cc/virtual/2026/poster/148396	included	用共同的张量积假设交叉检验探针与干预
+153667	A Unifying View of Anchoring via Operator-Side Tikhonov Regularization	https://neurips.cc/virtual/2026/poster/153667	included	在算子查询端加入消失的正则以复用原更新
+148451	AURA: An Autonomous Retouching Agent with Photographic Visual Thinking	https://neurips.cc/virtual/2026/poster/148451	included	长程编辑每步回读图像再决定局部工具操作
+155137	Auteur: Language-Driven Cinematographic Framing for Human-Centric Video Generation	https://neurips.cc/virtual/2026/poster/155137	included	用相对演员的镜头语言生成关键帧
+139001	AutoDataBench: How Far Are LLM Agents from Autonomously Engineering Post-Training Data Pipelines?	https://neurips.cc/virtual/2026/poster/139001	included	固定学生模型，以训练后的效果检验数据管线
+152534	Auto-Dreamer: Learning Offline Memory Consolidation for Language Agents	https://neurips.cc/virtual/2026/poster/152534	included	把即时记忆采集和跨会话压缩拆成两个阶段
+139399	AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines	https://neurips.cc/virtual/2026/poster/139399	included	把专家标注规范作为少样本跨模态评测输入
+156757	Autofocus Retrieval: An Effective Pipeline for Multi-Hop Question Answering With Semi-Structured Knowledge	https://neurips.cc/virtual/2026/poster/156757	included	先提取关系约束，再逐步扩大候选范围
+150745	AutoformBot: Formalizing Mathematics at Scale	https://neurips.cc/virtual/2026/poster/150745	excluded	摘要主要报告大规模形式化产物与工程编排，缺少能隔离调度或协同策略贡献的对照。
+139153	AutoHoney: Automating, Deploying, and Evaluating Scheming Honeypots Across Production Codebases	https://neurips.cc/virtual/2026/poster/139153	included	分开测任务范围和评测知情状态对审计结果的影响
+154589	AutoManifold: Agentic Design of Data Visualisation Algorithms via Manifold Embedding	https://neurips.cc/virtual/2026/poster/154589	included	按用户的结构保留目标评测嵌入算法
+148996	Automata from Agent Traces: Failure and Next-Step Prediction	https://neurips.cc/virtual/2026/poster/148996	included	跨轨迹建有限状态机并监控各状态失败信号
+150563	Automated Causal Effect Estimation through Self-Evolving AI	https://neurips.cc/virtual/2026/poster/150563	included	有代理回报时分别评估代理和真实效应误差
+139723	Automated Hypothesis Discovery for Characterizing Annotation Disagreement	https://neurips.cc/virtual/2026/poster/139723	included	留出验证用于筛选生成的分歧假设
+149210	Automated Kernel Discovery Towards Understanding High-dimensional Bayesian Optimization	https://neurips.cc/virtual/2026/poster/149210	included	用留一概率评分选核并分离数学提案和实现
+148230	Automated Reformulation of Robust Optimization via Memory-Augmented Large Language Models	https://neurips.cc/virtual/2026/poster/148230	included	把失败推导整理成可跨底座移植的重写经验
+153609	Automatically Refining Coding Rules for AI Coding Agents	https://neurips.cc/virtual/2026/poster/153609	included	用留出功能测试筛选自动变异的编程规则
+151401	Automatic Constraint Policy Optimization based on Continuous Constraint Interpolation Framework for Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151401	included	用验证反馈自调离线策略约束类型。
+151060	Automatic Textbook Formalization	https://neurips.cc/virtual/2026/poster/151060	excluded	主要展示大规模并行形式化案例，摘要未给出与规模扩张独立的可复用机制或等预算对照。
+139352	Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?	https://neurips.cc/virtual/2026/poster/139352	included	区分智能体的工程调参与领域创新。
+150660	AUTOMEM: Automated Learning of Memory as a Cognitive Skill	https://neurips.cc/virtual/2026/poster/150660	included	把文件记忆决策与任务动作分开优化。
+139849	Automotive-ENV: Benchmarking Multimodal Models in Automotive Cockpit Environments	https://neurips.cc/virtual/2026/poster/139849	included	用环境状态验收 GUI 行为。
+154225	Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents	https://neurips.cc/virtual/2026/poster/154225	included	用上一轮反馈生成贴近当前能力的课程。
+140088	Autonomous Driving Research Requires a Community-Driven Data Paradigm	https://neurips.cc/virtual/2026/poster/140088	excluded	数据生态倡议提出协作原则，但摘要没有验证独立的复用机制或因果对照。
+149249	Autonomous Scientific Discovery via Iterative Meta-Reflection	https://neurips.cc/virtual/2026/poster/149249	included	将已验证的发现作为下一轮假设生成输入。
+154526	Autoregressive Appearance Prediction for 3D Gaussian Avatars	https://neurips.cc/virtual/2026/poster/154526	included	用历史外观隐状态解释同姿态不同外观。
+153481	Autoregressive Diffusion World Models for Off-Policy Evaluation of LLM Agents	https://neurips.cc/virtual/2026/poster/153481	included	让目标策略在每个模拟转移后重新行动。
+154406	Autoregressive Learning in Joint KL: Sharp Oracle Bounds and Lower Bounds	https://neurips.cc/virtual/2026/poster/154406	included	用联合 KL 区分错设近似与序列估计误差。
+151565	Auto-Rubric as Reward: From Implicit Preference to Explicit Generative Criteria	https://neurips.cc/virtual/2026/poster/151565	included	比较输出前先生成任务特定的质量细则。
+151256	AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces	https://neurips.cc/virtual/2026/poster/151256	included	用留出任务检验从失败轨迹提出的配置修订。
+151734	AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation	https://neurips.cc/virtual/2026/poster/151734	included	在固定预算下比较共享实验状态和固定中央分工。
+139298	AuxGeoAgent: Synthesizing Challenging Geometry Proving Data via Planning and Symbolic Deduction	https://neurips.cc/virtual/2026/poster/139298	included	按是否需要辅助构造定向生成练习。
+149037	Auxiliary Clues Aware’s Geometry Problem Solving	https://neurips.cc/virtual/2026/poster/149037	included	按图形线索对证明推理的贡献加权。
+138887	AVENUE: Audio-Video Editing Understanding and Evaluation	https://neurips.cc/virtual/2026/poster/138887	included	逐样本记录目标改动及应保留模态。
+139564	AVID: A 5T fMRI Dataset for Benchmarking Auditory-induced Visual Mental Imagery Decoding	https://neurips.cc/virtual/2026/poster/139564	included	用听觉诱发想象控制视觉刺激混杂。
+154518	AVI-HT: Adaptive Vision-IMU Fusion for 3D Hand Tracking	https://neurips.cc/virtual/2026/poster/154518	included	遮挡条件下按传感器动态调节可信度。
+150182	AVIS: Adaptive Test-Time Scaling for Vision–Language Models	https://neurips.cc/virtual/2026/poster/150182	included	联合分配视觉 token 和推理采样次数。
 153311	AVO: Agentic Variation Operators for Autonomous Evolutionary Search	https://neurips.cc/virtual/2026/poster/153311	pending	-
 154191	AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression	https://neurips.cc/virtual/2026/poster/154191	pending	-
 150833	Avoiding Feature Collapse in Graph ODEs via Hysteretic Topology Evolution	https://neurips.cc/virtual/2026/poster/150833	pending	-
