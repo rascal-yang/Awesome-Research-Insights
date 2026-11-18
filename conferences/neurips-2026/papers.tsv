@@ -1122,66 +1122,66 @@ poster_id	title	paper_url	status	reason
 153415	Breaking Noise Shortcuts in Self-Supervised Learning via Noise-Aligned View Generation	https://neurips.cc/virtual/2026/poster/153415	included	对同图的两个自监督视图重采样独立噪声。
 152679	Breaking the $\sqrt{d}$ Communication Barrier in Federated Sampling with Adaptive Hamiltonian Monte Carlo	https://neurips.cc/virtual/2026/poster/152679	included	按客户端偏移调整同步频率。
 154531	Breaking the Bias Barrier in Concave Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154531	included	检查效用平滑性后决定是否用多层蒙特卡洛。
-154778	Breaking the Exactness Barrier: Interleaved DeepSeek Sparse Attention for Efficient Long Context Reasoning	https://neurips.cc/virtual/2026/poster/154778	pending	-
-151813	Breaking the Grid: Distance-Guided Reinforcement Learning in Large Discrete Action Spaces	https://neurips.cc/virtual/2026/poster/151813	pending	-
-151566	Breaking the Group Size Barrier: Parameter-Efficient Group Dance Generation with Chain-of-Dancers	https://neurips.cc/virtual/2026/poster/151566	pending	-
-152928	Breaking the Quality–Privacy Tradeoff in Tabular Data Generation via In-Context Learning	https://neurips.cc/virtual/2026/poster/152928	pending	-
-151142	Breaking the Second Barrier: Sub-Second Timestamped Omni-Modal Captioning	https://neurips.cc/virtual/2026/poster/151142	pending	-
-152353	Breaking the Static: Dynamic Text Conditioning for Diverse Image Generation	https://neurips.cc/virtual/2026/poster/152353	pending	-
-150360	Breaking the Synthesis Barrier for AI-Designed DNA Libraries	https://neurips.cc/virtual/2026/poster/150360	pending	-
-152515	Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE	https://neurips.cc/virtual/2026/poster/152515	pending	-
-150618	BReD: Block Replay Dithering for Stable Low-Bit EMA Optimizer States	https://neurips.cc/virtual/2026/poster/150618	pending	-
-152709	Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning	https://neurips.cc/virtual/2026/poster/152709	pending	-
-154364	BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization	https://neurips.cc/virtual/2026/poster/154364	pending	-
-149112	Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding	https://neurips.cc/virtual/2026/poster/149112	pending	-
-151991	BrickFlow: Connectivity-Guided Brick Reconstruction	https://neurips.cc/virtual/2026/poster/151991	pending	-
-155233	BRIDGE: Brain-Vision Representation Integration through Depth and Granularity Encoding	https://neurips.cc/virtual/2026/poster/155233	pending	-
-148153	Bridge Graphical Models: Coupling, Projection, and Current-Preserving Dynamics for Generative Modeling	https://neurips.cc/virtual/2026/poster/148153	pending	-
-151655	BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion	https://neurips.cc/virtual/2026/poster/151655	pending	-
-151085	BridgeTwist: Twisting Schrödinger Bridges for Training-Free Conditional Sampling	https://neurips.cc/virtual/2026/poster/151085	pending	-
-156144	Bridging 1D, 2D, and 3D with Any-to-Any Multimodal Modeling	https://neurips.cc/virtual/2026/poster/156144	pending	-
-139018	Bridging Academia and Industry: A Comprehensive Benchmark for Attributed Graph Clustering	https://neurips.cc/virtual/2026/poster/139018	pending	-
-152887	Bridging CLIP with DINO: Cross-Modal Information Maximization for Online Test-Time Adaptation	https://neurips.cc/virtual/2026/poster/152887	pending	-
-155350	Bridging Compute- and Data-Optimal Pretraining	https://neurips.cc/virtual/2026/poster/155350	pending	-
-155931	Bridging Diffusion and Autoregression for Flexible Time Series Synthesis	https://neurips.cc/virtual/2026/poster/155931	pending	-
-151656	Bridging Graph Worlds: Neural Approximation of Gromov-Wasserstein Distances	https://neurips.cc/virtual/2026/poster/151656	pending	-
-153651	Bridging Image Restoration and Recognition via Causal Mediated Unrolling	https://neurips.cc/virtual/2026/poster/153651	pending	-
-156072	Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning	https://neurips.cc/virtual/2026/poster/156072	pending	-
-150549	Bridging Risk Approximation Gaps in Model Predictive Task Sampling via In-Context Modeling	https://neurips.cc/virtual/2026/poster/150549	pending	-
-150431	Bridging Safety and Performance in Autonomous Systems using Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150431	pending	-
-151833	Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation	https://neurips.cc/virtual/2026/poster/151833	pending	-
-156127	Bridging Sequence and Structure with Unified Domain Adaptation for Drug-Target Interaction Prediction	https://neurips.cc/virtual/2026/poster/156127	pending	-
-151850	Bridging Simulation and Reality: Geometry and Decision Alignment for Autonomous Driving	https://neurips.cc/virtual/2026/poster/151850	pending	-
-151879	Bridging Structure and Language: Graph-Based Visual Reasoning for Autonomous Road Understanding	https://neurips.cc/virtual/2026/poster/151879	pending	-
-152825	Bridging Textual Profiles and Latent User Embeddings for Personalization	https://neurips.cc/virtual/2026/poster/152825	pending	-
-149662	Bridging the Gap Between Harmfulness Belief and Refusal Behavior for Safety Alignment	https://neurips.cc/virtual/2026/poster/149662	pending	-
-152513	Bridging the Gap: Position-Independent Cache Reuse for Hybrid SSM-Attention Architectures	https://neurips.cc/virtual/2026/poster/152513	pending	-
-150709	Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining	https://neurips.cc/virtual/2026/poster/150709	pending	-
-151598	Bridging the Simulation-to-Experiment Gap with Adversarial Distribution Alignment	https://neurips.cc/virtual/2026/poster/151598	pending	-
-139284	Brittlebench: Quantifying LLM robustness via prompt sensitivity	https://neurips.cc/virtual/2026/poster/139284	pending	-
-149705	BROS: Bias-Corrected Randomized Subspaces for Memory-Efficient Single-Loop Bilevel Optimization	https://neurips.cc/virtual/2026/poster/149705	pending	-
-155344	Brute-Force Jailbreaks and Codon-Aware Watermarking for DNA Foundation Models	https://neurips.cc/virtual/2026/poster/155344	pending	-
-156078	BSO: Safety Alignment Is Density Ratio Matching	https://neurips.cc/virtual/2026/poster/156078	pending	-
-151140	BSTabDiff: Block-Subunit Diffusion Priors for High-Dimensional Tabular Data Generation	https://neurips.cc/virtual/2026/poster/151140	pending	-
-148238	BucpTSF: Breaking the Uniform Computation Paradigm in Time-Series Forecasting	https://neurips.cc/virtual/2026/poster/148238	pending	-
-150613	Budget-Conditioned Clipping Policies for Differentially Private Federated Learning	https://neurips.cc/virtual/2026/poster/150613	pending	-
-155643	Budgeted Multi-Source Counterfactual Annotation for Off-Policy Evaluation	https://neurips.cc/virtual/2026/poster/155643	pending	-
-152994	Budgeted Quotient-Residual Guidance for Frozen Pocket-Conditioned Molecular Diffusion	https://neurips.cc/virtual/2026/poster/152994	pending	-
-153217	Budgeting Discretion: Theory and Evidence on Street-Level Decision-Making	https://neurips.cc/virtual/2026/poster/153217	pending	-
-148823	BudSplat: Feed-forward 3D Gaussian Splatting under a Rendering Budget	https://neurips.cc/virtual/2026/poster/148823	pending	-
-149709	Bug or Feature$^2$: Weight Drift, Activation Sparsity, and Spikes	https://neurips.cc/virtual/2026/poster/149709	pending	-
-138900	Build-and-Find: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases	https://neurips.cc/virtual/2026/poster/138900	pending	-
-151412	Building Transformation Layers for Riemannian Neural Networks	https://neurips.cc/virtual/2026/poster/151412	pending	-
-148329	BuresTomFlow: Bures-Geometric Flow Matching for Posterior Quantum Tomography	https://neurips.cc/virtual/2026/poster/148329	pending	-
-151890	Busemannformer: Horospherical Self-Attention for Hyperbolic Graph Transformers	https://neurips.cc/virtual/2026/poster/151890	pending	-
-151123	BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation	https://neurips.cc/virtual/2026/poster/151123	pending	-
-139598	B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data	https://neurips.cc/virtual/2026/poster/139598	pending	-
-156083	Bypassing PC1 Makes SAEs More Reproducible	https://neurips.cc/virtual/2026/poster/156083	pending	-
-149633	ByteDistill: Cross-Tokenizer Distillation via Chunk-wise Byte-Level Distribution Alignment	https://neurips.cc/virtual/2026/poster/149633	pending	-
-151433	C2FT: Enhancing Fine-Grained Perception in MLLMs via Confuse-then-Contrast Fine-Tuning	https://neurips.cc/virtual/2026/poster/151433	pending	-
-139076	C2G-BENCH: A Cyber-Physical Evaluation Benchmark for Hierarchical Reinforcement Learning in Grid-Interactive Hyperscale Data Centers	https://neurips.cc/virtual/2026/poster/139076	pending	-
-152807	C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems	https://neurips.cc/virtual/2026/poster/152807	pending	-
-151786	C3: Long-Horizon Character Consistency via Causal-Continuous State Dynamics and Memory Rewriting	https://neurips.cc/virtual/2026/poster/151786	pending	-
+154778	Breaking the Exactness Barrier: Interleaved DeepSeek Sparse Attention for Efficient Long Context Reasoning	https://neurips.cc/virtual/2026/poster/154778	included	按设备交错切分上下文并用放宽的局部排名替代精确全局排名。
+151813	Breaking the Grid: Distance-Guided Reinforcement Learning in Large Discrete Action Spaces	https://neurips.cc/virtual/2026/poster/151813	included	按动作距离抽样邻域而非遍历整个动作空间。
+151566	Breaking the Group Size Barrier: Parameter-Efficient Group Dance Generation with Chain-of-Dancers	https://neurips.cc/virtual/2026/poster/151566	included	冻结单体生成器，按个体顺序生成并聚合已生成同伴。
+152928	Breaking the Quality–Privacy Tradeoff in Tabular Data Generation via In-Context Learning	https://neurips.cc/virtual/2026/poster/152928	included	小样本表格合成优先比较上下文适配和逐表训练。
+151142	Breaking the Second Barrier: Sub-Second Timestamped Omni-Modal Captioning	https://neurips.cc/virtual/2026/poster/151142	included	分别给字幕结构片段分配语义与时间奖励。
+152353	Breaking the Static: Dynamic Text Conditioning for Diverse Image Generation	https://neurips.cc/virtual/2026/poster/152353	included	初段只保留低频语义，后段逐步恢复完整提示。
+150360	Breaking the Synthesis Barrier for AI-Designed DNA Libraries	https://neurips.cc/virtual/2026/poster/150360	excluded	条目聚焦于 DNA 合成库工程，未提取适合公共知识库的独立通用机制。
+152515	Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE	https://neurips.cc/virtual/2026/poster/152515	included	视频 MoE 给语义专家与通用专家分工，避免强制全局均匀路由。
+150618	BReD: Block Replay Dithering for Stable Low-Bit EMA Optimizer States	https://neurips.cc/virtual/2026/poster/150618	included	为反复量化的 EMA 状态控制舍入偏差与方差。
+152709	Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning	https://neurips.cc/virtual/2026/poster/152709	included	用运输映射的循环单调性检查分布鲁棒目标。
+154364	BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization	https://neurips.cc/virtual/2026/poster/154364	included	用局部连接树替代仅按空间坐标排列的生成序列。
+149112	Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding	https://neurips.cc/virtual/2026/poster/149112	included	用包围曝光捕获条纹随曝光变化的特征。
+151991	BrickFlow: Connectivity-Guided Brick Reconstruction	https://neurips.cc/virtual/2026/poster/151991	included	推理时加解析连接场修正生成的部件位姿。
+155233	BRIDGE: Brain-Vision Representation Integration through Depth and Granularity Encoding	https://neurips.cc/virtual/2026/poster/155233	included	让视觉教师提供跨层表示，并分阶段池化脑信号。
+148153	Bridge Graphical Models: Coupling, Projection, and Current-Preserving Dynamics for Generative Modeling	https://neurips.cc/virtual/2026/poster/148153	included	先用桥速度的条件方差筛选耦合，再投入长时间训练。
+151655	BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion	https://neurips.cc/virtual/2026/poster/151655	included	让单目先验和多视角几何双向校准并跨尺度传递。
+151085	BridgeTwist: Twisting Schrödinger Bridges for Training-Free Conditional Sampling	https://neurips.cc/virtual/2026/poster/151085	included	冻结桥生成器，以端点估计和退火重要性权重做条件采样。
+156144	Bridging 1D, 2D, and 3D with Any-to-Any Multimodal Modeling	https://neurips.cc/virtual/2026/poster/156144	included	用离散 token 和共同掩码任务联训不同三维表示。
+139018	Bridging Academia and Industry: A Comprehensive Benchmark for Attributed Graph Clustering	https://neurips.cc/virtual/2026/poster/139018	included	按规模、同配性和标签可得性验证图聚类。
+152887	Bridging CLIP with DINO: Cross-Modal Information Maximization for Online Test-Time Adaptation	https://neurips.cc/virtual/2026/poster/152887	included	将文本原型投影到冻结自监督视觉空间，并过滤不可靠样本梯度。
+155350	Bridging Compute- and Data-Optimal Pretraining	https://neurips.cc/virtual/2026/poster/155350	included	按新鲜数据约束分配训练预算
+155931	Bridging Diffusion and Autoregression for Flexible Time Series Synthesis	https://neurips.cc/virtual/2026/poster/155931	included	跨块自回归、块内联合去噪
+151656	Bridging Graph Worlds: Neural Approximation of Gromov-Wasserstein Distances	https://neurips.cc/virtual/2026/poster/151656	included	用学习代理批量比较图结构
+153651	Bridging Image Restoration and Recognition via Causal Mediated Unrolling	https://neurips.cc/virtual/2026/poster/153651	included	把识别信号和自然图像先验分步施加
+156072	Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning	https://neurips.cc/virtual/2026/poster/156072	included	长视频同时索引局部证据与跨时段叙事
+150549	Bridging Risk Approximation Gaps in Model Predictive Task Sampling via In-Context Modeling	https://neurips.cc/virtual/2026/poster/150549	included	按下一次策略更新后的难度选任务
+150431	Bridging Safety and Performance in Autonomous Systems using Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150431	included	将安全约束写入状态可行域而非仅作软惩罚
+151833	Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation	https://neurips.cc/virtual/2026/poster/151833	included	将生成阶段学到的运动编码器与视觉编码器一同迁移
+156127	Bridging Sequence and Structure with Unified Domain Adaptation for Drug-Target Interaction Prediction	https://neurips.cc/virtual/2026/poster/156127	included	推迟使用目标域伪标签，先校准预测
+151850	Bridging Simulation and Reality: Geometry and Decision Alignment for Autonomous Driving	https://neurips.cc/virtual/2026/poster/151850	included	同时检查几何对齐与策略行为对齐
+151879	Bridging Structure and Language: Graph-Based Visual Reasoning for Autonomous Road Understanding	https://neurips.cc/virtual/2026/poster/151879	included	用可执行图查询生成有可验证落点的问答
+152825	Bridging Textual Profiles and Latent User Embeddings for Personalization	https://neurips.cc/virtual/2026/poster/152825	included	按检索效用训练可读用户画像
+149662	Bridging the Gap Between Harmfulness Belief and Refusal Behavior for Safety Alignment	https://neurips.cc/virtual/2026/poster/149662	included	分开测风险判断与最终拒答
+152513	Bridging the Gap: Position-Independent Cache Reuse for Hybrid SSM-Attention Architectures	https://neurips.cc/virtual/2026/poster/152513	included	统一混合注意力和状态空间层的跨位置缓存粒度
+150709	Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining	https://neurips.cc/virtual/2026/poster/150709	included	训练时以配对观测改造投影层，部署只用图像
+151598	Bridging the Simulation-to-Experiment Gap with Adversarial Distribution Alignment	https://neurips.cc/virtual/2026/poster/151598	included	用真实部分观测校准完整仿真的生成模型
+139284	Brittlebench: Quantifying LLM robustness via prompt sensitivity	https://neurips.cc/virtual/2026/poster/139284	included	以语义等价改写测试排行榜稳定性
+149705	BROS: Bias-Corrected Randomized Subspaces for Memory-Efficient Single-Loop Bilevel Optimization	https://neurips.cc/virtual/2026/poster/149705	included	用随机子空间估计 Hessian 作用节省内存
+155344	Brute-Force Jailbreaks and Codon-Aware Watermarking for DNA Foundation Models	https://neurips.cc/virtual/2026/poster/155344	excluded	论文包含高风险序列生成的操作性分析，本批不提取其技术流程。
+156078	BSO: Safety Alignment Is Density Ratio Matching	https://neurips.cc/virtual/2026/poster/156078	included	把安全偏好优化定义成比率匹配
+151140	BSTabDiff: Block-Subunit Diffusion Priors for High-Dimensional Tabular Data Generation	https://neurips.cc/virtual/2026/poster/151140	included	用块级潜变量替代高维联合密度建模。
+148238	BucpTSF: Breaking the Uniform Computation Paradigm in Time-Series Forecasting	https://neurips.cc/virtual/2026/poster/148238	included	按信息密度、频带和预测跨度分配计算。
+150613	Budget-Conditioned Clipping Policies for Differentially Private Federated Learning	https://neurips.cc/virtual/2026/poster/150613	included	在公开代理上学习预算与轮次到裁剪阈值的映射后冻结。
+155643	Budgeted Multi-Source Counterfactual Annotation for Off-Policy Evaluation	https://neurips.cc/virtual/2026/poster/155643	included	按成本与误差分配有限的反事实标注。
+152994	Budgeted Quotient-Residual Guidance for Frozen Pocket-Conditioned Molecular Diffusion	https://neurips.cc/virtual/2026/poster/152994	excluded	主要贡献服务于分子结构生成与优化，本批排除。
+153217	Budgeting Discretion: Theory and Evidence on Street-Level Decision-Making	https://neurips.cc/virtual/2026/poster/153217	included	依据收益分布尾部形态决定保留多少人工覆盖额度。
+148823	BudSplat: Feed-forward 3D Gaussian Splatting under a Rendering Budget	https://neurips.cc/virtual/2026/poster/148823	included	按细节重要性和渲染贡献共同分配高斯。
+149709	Bug or Feature$^2$: Weight Drift, Activation Sparsity, and Spikes	https://neurips.cc/virtual/2026/poster/149709	included	修改激活函数时同时监控稀疏度与异常尖峰。
+138900	Build-and-Find: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases	https://neurips.cc/virtual/2026/poster/138900	included	只有意图可可靠找回时才比较代码库检索开销。
+151412	Building Transformation Layers for Riemannian Neural Networks	https://neurips.cc/virtual/2026/poster/151412	included	在相同层构造框架下比较不同流形。
+148329	BuresTomFlow: Bures-Geometric Flow Matching for Posterior Quantum Tomography	https://neurips.cc/virtual/2026/poster/148329	included	在保真度几何中学习量子态后验而非仅估点。
+151890	Busemannformer: Horospherical Self-Attention for Hyperbolic Graph Transformers	https://neurips.cc/virtual/2026/poster/151890	included	按任务对称性和标签的层级属性选几何打分。
+151123	BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation	https://neurips.cc/virtual/2026/poster/151123	included	把检测泛化和解释质量分开评估。
+139598	B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data	https://neurips.cc/virtual/2026/poster/139598	included	用已知理由验证图解释而不仅依赖数据代理分数。
+156083	Bypassing PC1 Makes SAEs More Reproducible	https://neurips.cc/virtual/2026/poster/156083	included	训练稀疏自编码器时旁路主成分再在推理加回。
+149633	ByteDistill: Cross-Tokenizer Distillation via Chunk-wise Byte-Level Distribution Alignment	https://neurips.cc/virtual/2026/poster/149633	included	跨分词器时对齐下一个可观测字节的分布。
+151433	C2FT: Enhancing Fine-Grained Perception in MLLMs via Confuse-then-Contrast Fine-Tuning	https://neurips.cc/virtual/2026/poster/151433	included	按目标模型的具体混淆组织多图对照监督。
+139076	C2G-BENCH: A Cyber-Physical Evaluation Benchmark for Hierarchical Reinforcement Learning in Grid-Interactive Hyperscale Data Centers	https://neurips.cc/virtual/2026/poster/139076	included	用耦合的双时间尺度测试上层计划与下层控制。
+152807	C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems	https://neurips.cc/virtual/2026/poster/152807	excluded	摘要主要提出针对推荐系统的操纵方法，本批排除。
+151786	C3: Long-Horizon Character Consistency via Causal-Continuous State Dynamics and Memory Rewriting	https://neurips.cc/virtual/2026/poster/151786	included	用连续状态和滞回更新角色，并按当前关系重释事件。
 156046	C3P: Contrastive promoter-protein pretraining yields representations capturing bacterial gene regulation	https://neurips.cc/virtual/2026/poster/156046	pending	-
 139182	C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance	https://neurips.cc/virtual/2026/poster/139182	pending	-
 150465	CAB: Accelerating Flow and Diffusion Sampling via Rectification and Corrected Adams-Bashforth	https://neurips.cc/virtual/2026/poster/150465	pending	-

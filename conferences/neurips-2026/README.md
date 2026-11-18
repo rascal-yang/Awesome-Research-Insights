@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1169** 篇，暂收录 **1067** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1229** 篇，暂收录 **1123** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1075,3 +1075,59 @@
 | 科学机器学习 | 数据增强 | [Breaking Noise Shortcuts in Self-Supervised Learning via Noise-Aligned View Generation](cards-0002.md#paper-153415) | 对同图的两个自监督视图重采样独立噪声。 |
 | 统计学习 | 联邦采样 | [Breaking the $\sqrt{d}$ Communication Barrier in Federated Sampling with Adaptive Hamiltonian Monte Carlo](cards-0002.md#paper-152679) | 按客户端偏移调整同步频率。 |
 | 强化学习 | 梯度估计 | [Breaking the Bias Barrier in Concave Multi-Objective Reinforcement Learning](cards-0002.md#paper-154531) | 检查效用平滑性后决定是否用多层蒙特卡洛。 |
+| 推理系统 | 稀疏注意力 | [Breaking the Exactness Barrier: Interleaved DeepSeek Sparse Attention for Efficient Long Context Reasoning](cards-0002.md#paper-154778) | 按设备交错切分上下文并用放宽的局部排名替代精确全局排名。 |
+| 强化学习 | 动作搜索 | [Breaking the Grid: Distance-Guided Reinforcement Learning in Large Discrete Action Spaces](cards-0002.md#paper-151813) | 按动作距离抽样邻域而非遍历整个动作空间。 |
+| 生成模型 | 多体生成 | [Breaking the Group Size Barrier: Parameter-Efficient Group Dance Generation with Chain-of-Dancers](cards-0002.md#paper-151566) | 冻结单体生成器，按个体顺序生成并聚合已生成同伴。 |
+| 统计学习 | 隐私评测 | [Breaking the Quality–Privacy Tradeoff in Tabular Data Generation via In-Context Learning](cards-0002.md#paper-152928) | 小样本表格合成优先比较上下文适配和逐表训练。 |
+| 多模态学习 | 时序信用分配 | [Breaking the Second Barrier: Sub-Second Timestamped Omni-Modal Captioning](cards-0002.md#paper-151142) | 分别给字幕结构片段分配语义与时间奖励。 |
+| 生成模型 | 条件调度 | [Breaking the Static: Dynamic Text Conditioning for Diverse Image Generation](cards-0002.md#paper-152353) | 初段只保留低频语义，后段逐步恢复完整提示。 |
+| 生成模型 | 专家路由 | [Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE](cards-0002.md#paper-152515) | 视频 MoE 给语义专家与通用专家分工，避免强制全局均匀路由。 |
+| 训练系统 | 优化器量化 | [BReD: Block Replay Dithering for Stable Low-Bit EMA Optimizer States](cards-0002.md#paper-150618) | 为反复量化的 EMA 状态控制舍入偏差与方差。 |
+| 优化 | 分布稳健训练 | [Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning](cards-0002.md#paper-152709) | 用运输映射的循环单调性检查分布鲁棒目标。 |
+| 生成模型 | 结构化解码 | [BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization](cards-0002.md#paper-154364) | 用局部连接树替代仅按空间坐标排列的生成序列。 |
+| 计算机视觉 | 成像恢复 | [Bricker to BRACE: A Bracket Exposure RAW Dataset and Restoration Model for Flicker-Banding](cards-0002.md#paper-149112) | 用包围曝光捕获条纹随曝光变化的特征。 |
+| 计算机视觉 | 约束引导 | [BrickFlow: Connectivity-Guided Brick Reconstruction](cards-0002.md#paper-151991) | 推理时加解析连接场修正生成的部件位姿。 |
+| 多模态学习 | 时序对齐 | [BRIDGE: Brain-Vision Representation Integration through Depth and Granularity Encoding](cards-0002.md#paper-155233) | 让视觉教师提供跨层表示，并分阶段池化脑信号。 |
+| 生成模型 | 训练前诊断 | [Bridge Graphical Models: Coupling, Projection, and Current-Preserving Dynamics for Generative Modeling](cards-0002.md#paper-148153) | 先用桥速度的条件方差筛选耦合，再投入长时间训练。 |
+| 计算机视觉 | 深度融合 | [BridgeMVS: Bridging Multi-View Stereo and Monodepth via Bidirectional Dynamic Fusion](cards-0002.md#paper-151655) | 让单目先验和多视角几何双向校准并跨尺度传递。 |
+| 生成模型 | 条件采样 | [BridgeTwist: Twisting Schrödinger Bridges for Training-Free Conditional Sampling](cards-0002.md#paper-151085) | 冻结桥生成器，以端点估计和退火重要性权重做条件采样。 |
+| 多模态学习 | 三维建模 | [Bridging 1D, 2D, and 3D with Any-to-Any Multimodal Modeling](cards-0002.md#paper-156144) | 用离散 token 和共同掩码任务联训不同三维表示。 |
+| 图学习 | 可扩展评测 | [Bridging Academia and Industry: A Comprehensive Benchmark for Attributed Graph Clustering](cards-0002.md#paper-139018) | 按规模、同配性和标签可得性验证图聚类。 |
+| 多模态学习 | 测试时适配 | [Bridging CLIP with DINO: Cross-Modal Information Maximization for Online Test-Time Adaptation](cards-0002.md#paper-152887) | 将文本原型投影到冻结自监督视觉空间，并过滤不可靠样本梯度。 |
+| 语言模型 | 缩放律 | [Bridging Compute- and Data-Optimal Pretraining](cards-0002.md#paper-155350) | 按新鲜数据约束分配训练预算 |
+| 时间序列 | 生成架构 | [Bridging Diffusion and Autoregression for Flexible Time Series Synthesis](cards-0002.md#paper-155931) | 跨块自回归、块内联合去噪 |
+| 图学习 | 距离近似 | [Bridging Graph Worlds: Neural Approximation of Gromov-Wasserstein Distances](cards-0002.md#paper-151656) | 用学习代理批量比较图结构 |
+| 计算机视觉 | 交替优化 | [Bridging Image Restoration and Recognition via Causal Mediated Unrolling](cards-0002.md#paper-153651) | 把识别信号和自然图像先验分步施加 |
+| 多模态 Agent | 结构化记忆 | [Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning](cards-0002.md#paper-156072) | 长视频同时索引局部证据与跨时段叙事 |
+| 强化学习 | 课程采样 | [Bridging Risk Approximation Gaps in Model Predictive Task Sampling via In-Context Modeling](cards-0002.md#paper-150549) | 按下一次策略更新后的难度选任务 |
+| 强化学习 | 约束学习 | [Bridging Safety and Performance in Autonomous Systems using Offline Reinforcement Learning](cards-0002.md#paper-150431) | 将安全约束写入状态可行域而非仅作软惩罚 |
+| 自动驾驶 | 表征迁移 | [Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation](cards-0002.md#paper-151833) | 将生成阶段学到的运动编码器与视觉编码器一同迁移 |
+| 通用机器学习 | 域适配 | [Bridging Sequence and Structure with Unified Domain Adaptation for Drug-Target Interaction Prediction](cards-0002.md#paper-156127) | 推迟使用目标域伪标签，先校准预测 |
+| 自动驾驶 | 域对齐 | [Bridging Simulation and Reality: Geometry and Decision Alignment for Autonomous Driving](cards-0002.md#paper-151850) | 同时检查几何对齐与策略行为对齐 |
+| 多模态学习 | 可追溯监督 | [Bridging Structure and Language: Graph-Based Visual Reasoning for Autonomous Road Understanding](cards-0002.md#paper-151879) | 用可执行图查询生成有可验证落点的问答 |
+| 推荐系统 | 表示对齐 | [Bridging Textual Profiles and Latent User Embeddings for Personalization](cards-0002.md#paper-152825) | 按检索效用训练可读用户画像 |
+| 语言模型 | 安全对齐 | [Bridging the Gap Between Harmfulness Belief and Refusal Behavior for Safety Alignment](cards-0002.md#paper-149662) | 分开测风险判断与最终拒答 |
+| 语言模型 | 缓存复用 | [Bridging the Gap: Position-Independent Cache Reuse for Hybrid SSM-Attention Architectures](cards-0002.md#paper-152513) | 统一混合注意力和状态空间层的跨位置缓存粒度 |
+| 医学影像 | 跨模态蒸馏 | [Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](cards-0002.md#paper-150709) | 训练时以配对观测改造投影层，部署只用图像 |
+| 科学机器学习 | 分布校准 | [Bridging the Simulation-to-Experiment Gap with Adversarial Distribution Alignment](cards-0002.md#paper-151598) | 用真实部分观测校准完整仿真的生成模型 |
+| 语言模型 | 稳健评测 | [Brittlebench: Quantifying LLM robustness via prompt sensitivity](cards-0002.md#paper-139284) | 以语义等价改写测试排行榜稳定性 |
+| 优化 | 双层优化 | [BROS: Bias-Corrected Randomized Subspaces for Memory-Efficient Single-Loop Bilevel Optimization](cards-0002.md#paper-149705) | 用随机子空间估计 Hessian 作用节省内存 |
+| 语言模型 | 安全优化 | [BSO: Safety Alignment Is Density Ratio Matching](cards-0002.md#paper-156078) | 把安全偏好优化定义成比率匹配 |
+| 表格生成 | 分块扩散 | [BSTabDiff: Block-Subunit Diffusion Priors for High-Dimensional Tabular Data Generation](cards-0002.md#paper-151140) | 用块级潜变量替代高维联合密度建模。 |
+| 时间序列 | 计算分配 | [BucpTSF: Breaking the Uniform Computation Paradigm in Time-Series Forecasting](cards-0002.md#paper-148238) | 按信息密度、频带和预测跨度分配计算。 |
+| 联邦学习 | 隐私训练 | [Budget-Conditioned Clipping Policies for Differentially Private Federated Learning](cards-0002.md#paper-150613) | 在公开代理上学习预算与轮次到裁剪阈值的映射后冻结。 |
+| 强化学习 | 离策略估计 | [Budgeted Multi-Source Counterfactual Annotation for Off-Policy Evaluation](cards-0002.md#paper-155643) | 按成本与误差分配有限的反事实标注。 |
+| 决策理论 | 预算分配 | [Budgeting Discretion: Theory and Evidence on Street-Level Decision-Making](cards-0002.md#paper-153217) | 依据收益分布尾部形态决定保留多少人工覆盖额度。 |
+| 计算机视觉 | 三维高斯剪枝 | [BudSplat: Feed-forward 3D Gaussian Splatting under a Rendering Budget](cards-0002.md#paper-148823) | 按细节重要性和渲染贡献共同分配高斯。 |
+| 深度学习 | 训练动力学 | [Bug or Feature$^2$: Weight Drift, Activation Sparsity, and Spikes](cards-0002.md#paper-149709) | 修改激活函数时同时监控稀疏度与异常尖峰。 |
+| 智能体 | 代码工件评测 | [Build-and-Find: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases](cards-0002.md#paper-138900) | 只有意图可可靠找回时才比较代码库检索开销。 |
+| 几何深度学习 | 流形层 | [Building Transformation Layers for Riemannian Neural Networks](cards-0002.md#paper-151412) | 在相同层构造框架下比较不同流形。 |
+| 量子机器学习 | 后验生成 | [BuresTomFlow: Bures-Geometric Flow Matching for Posterior Quantum Tomography](cards-0002.md#paper-148329) | 在保真度几何中学习量子态后验而非仅估点。 |
+| 图学习 | 双曲注意力 | [Busemannformer: Horospherical Self-Attention for Hyperbolic Graph Transformers](cards-0002.md#paper-151890) | 按任务对称性和标签的层级属性选几何打分。 |
+| 多模态学习 | 视频取证 | [BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation](cards-0002.md#paper-151123) | 把检测泛化和解释质量分开评估。 |
+| 图学习 | 解释评测 | [B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data](cards-0002.md#paper-139598) | 用已知理由验证图解释而不仅依赖数据代理分数。 |
+| 可解释性 | 特征复现 | [Bypassing PC1 Makes SAEs More Reproducible](cards-0002.md#paper-156083) | 训练稀疏自编码器时旁路主成分再在推理加回。 |
+| 语言模型 | 蒸馏 | [ByteDistill: Cross-Tokenizer Distillation via Chunk-wise Byte-Level Distribution Alignment](cards-0002.md#paper-149633) | 跨分词器时对齐下一个可观测字节的分布。 |
+| 多模态学习 | 细粒度微调 | [C2FT: Enhancing Fine-Grained Perception in MLLMs via Confuse-then-Contrast Fine-Tuning](cards-0002.md#paper-151433) | 按目标模型的具体混淆组织多图对照监督。 |
+| 强化学习 | 分层控制评测 | [C2G-BENCH: A Cyber-Physical Evaluation Benchmark for Hierarchical Reinforcement Learning in Grid-Interactive Hyperscale Data Centers](cards-0002.md#paper-139076) | 用耦合的双时间尺度测试上层计划与下层控制。 |
+| 智能体 | 角色记忆 | [C3: Long-Horizon Character Consistency via Causal-Continuous State Dynamics and Memory Rewriting](cards-0002.md#paper-151786) | 用连续状态和滞回更新角色，并按当前关系重释事件。 |
