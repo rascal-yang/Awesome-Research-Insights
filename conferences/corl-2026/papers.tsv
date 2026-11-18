@@ -54,7 +54,7 @@ number	openreview_id	title	paper_url	reason	status
 53	rcE4amkjBq	GeoProp: Grounding Robot State in Vision for Generalist Manipulation	https://openreview.net/forum?id=rcE4amkjBq	用运动学投影把本体状态对准同位置的视觉特征	included
 54	1uKIsrjCvt	Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies	https://openreview.net/forum?id=1uKIsrjCvt	用当前本体状态在 CNN 中间特征上选择性汇聚	included
 55	Afq9dTKP09	Attention from Action, for Action: Emergent Visual Bottlenecks for Policy Learning	https://openreview.net/forum?id=Afq9dTKP09	用动作监督学习随任务进度变化的感兴趣区域	included
-56	PEWWDUL10X	OmniGuide: Universal Spatial Guidance Fields for Enhancing Generalist Robot Policies	https://openreview.net/forum?id=PEWWDUL10X		pending
+56	PEWWDUL10X	OmniGuide: Universal Spatial Guidance Fields for Enhancing Generalist Robot Policies	https://openreview.net/forum?id=PEWWDUL10X	用统一三维能量接口接入不同来源的空间引导	included
 57	wKRawikMuG	Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models	https://openreview.net/forum?id=wKRawikMuG	为力觉、触觉与力矩建立独立传感流并预测未来反馈	included
 58	0HnCTHL4fw	Towards Human-like Physical Intelligence: Lifelong Vision-Language-Action Learning for Robotic Manipulation	https://openreview.net/forum?id=0HnCTHL4fw	分开短期适配和长期巩固并限制回放存储	included
 59	0PThTAIwPD	Trust-Calibrated VLA Policy Post-Training with Evolving Imagination	https://openreview.net/forum?id=0PThTAIwPD		pending
@@ -118,7 +118,7 @@ number	openreview_id	title	paper_url	reason	status
 117	4dqRAd2sNp	When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies	https://openreview.net/forum?id=4dqRAd2sNp	部署前先试同一流策略的一步积分再决定是否蒸馏	included
 118	qd6clCx6QY	Scalable Behavior Cloning with Open Data, Training, and Evaluation	https://openreview.net/forum?id=qd6clCx6QY		pending
 119	jnEHLRyWTZ	Learning Beyond What Humans Can Demonstrate	https://openreview.net/forum?id=jnEHLRyWTZ	从采集失败归纳状态约束并在部署阶段复用	included
-120	P8H2WZH2Tw	Predictive Representation Learning for Manipulation via Streaming Egocentric 3D Hand Forecasting	https://openreview.net/forum?id=P8H2WZH2Tw		pending
+120	P8H2WZH2Tw	Predictive Representation Learning for Manipulation via Streaming Egocentric 3D Hand Forecasting	https://openreview.net/forum?id=P8H2WZH2Tw	用人手未来三维运动作为人类视频的预训练监督	included
 121	bLQynefrlp	Bimanual Robot Manipulation via Multi-Agent In-Context Learning	https://openreview.net/forum?id=bLQynefrlp	把双臂预测拆为有条件的先后决策	included
 122	f5329HhijI	Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation	https://openreview.net/forum?id=f5329HhijI		pending
 123	qHndjmxgs1	GeoHAT: Geometry-Adaptive Hybrid Action Transformer for Mobile Manipulation	https://openreview.net/forum?id=qHndjmxgs1		pending

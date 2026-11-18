@@ -16,7 +16,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest screening · 2026-11-18** · [ICML 2026 · 6,552 / 6,552 screened · 3,276 included](conferences/icml-2026/README.md) · [CoRL 2026 · 99 / 687 screened · 98 included](conferences/corl-2026/README.md)
+**Latest screening · 2026-11-18** · [ICML 2026 · 6,552 / 6,552 screened · 3,276 included](conferences/icml-2026/README.md) · [CoRL 2026 · 101 / 687 screened · 100 included](conferences/corl-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
