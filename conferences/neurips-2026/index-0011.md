@@ -315,3 +315,77 @@
 | 大语言模型 | 记忆与检索 | [State-Resolving Attention for Length-Extrapolating Transformers](cards-0011.md#paper-148318) | 长上下文先定匹配内容再判哪个时间版本有效 |
 | 智能体 | 强化学习与奖励 | [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](cards-0011.md#paper-151920) | 长程记忆训练以短对话生成可验证树型追踪 |
 | 具身智能与机器人 | 效率与系统 | [Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models](cards-0011.md#paper-149986) | 多帧 VLA 给静态和运动信息不同缓存策略 |
+| 大语言模型 | 模型鲁棒性 | [Statistical Estimation of Adversarial Risk in Large Language Models under Best-of-N Sampling](cards-0011.md#paper-148477) | 安全评估按尝试预算报告风险。 |
+| 机器学习理论 | 因果推断 | [Statistical Inference in Causal Partial Identification under Smooth Densities](cards-0011.md#paper-152254) | 缺少联合观测时给效果集合置信范围。 |
+| 机器学习理论 | 模型鲁棒性 | [Statistical Limits of Affine Equivariant Estimation](cards-0011.md#paper-148436) | 高维稳健定位避免无条件要求仿射等变。 |
+| 生成模型 | 流匹配 | [Statistical Matching via Schr\"odinger Bridge beyond Conditional Independence](cards-0011.md#paper-155896) | 缺失联表用依赖感知桥替代条件独立填补。 |
+| 深度学习 | 时序建模 | [Statistical Mixing Guarantees for Contractive Echo State Networks](cards-0011.md#paper-153102) | 需要快速遗忘混合时选可验证收缩的储备池。 |
+| 计算机视觉 | 图像编辑 | [StatLUT: Statistical Feature-Driven Multimodal 3D LUT Generation for Photorealistic Style Transfer](cards-0011.md#paper-153359) | 可控色彩迁移单独建颜色分布。 |
+| 生成模型 | 模型鲁棒性 | [Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales](cards-0011.md#paper-149045) | 公平评测对 guidance scale 单独扫描。 |
+| 多模态学习 | 检索增强 | [ST-Bridge: Bridging Sketch and Text with Large Language Models for Coarse-to-Fine Image Retrieval](cards-0011.md#paper-153362) | 草图及文字检索先以语义桥生成草图语义再做细匹配。 |
+| 大语言模型 | 采样与推理 | [STDec: Spatio-Temporal Stability Guided Decoding for dLLMs](cards-0011.md#paper-149419) | 扩散文本解码按位置和时间稳定性选择提交。 |
+| 生成模型 | 评测与诊断 | [ST-DiffEye: Diffusion-based Continuous Gaze Generation via Joint Scanpath-Trajectory Modeling](cards-0011.md#paper-155473) | 多轨迹生成用既验精度也验多样性的 proper score。 |
+| 大语言模型 | 偏好优化 | [SteadyThought: Mitigating LLM Under-Thinking via Thought-Level Preference Optimization](cards-0011.md#paper-148435) | 推理选择在 thought 级做偏好，不按总长度一刀切。 |
+| 大语言模型 | 可解释性 | [Steer2Edit: From Activation Steering to Component-Level Editing](cards-0011.md#paper-153124) | 先以激活方向识别组件再做低秩编辑。 |
+| 深度学习 | 检索增强 | [SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](cards-0011.md#paper-154457) | 时序外域不微调时用近邻轨迹引导潜状态。 |
+| 生成模型 | 模型鲁棒性 | [Steering Away from Memorization: Reachability-Constrained Reinforcement Learning for Text-to-Image Diffusion](cards-0011.md#paper-149209) | 反记忆采样用可达约束保护质量。 |
+| 大语言模型 | 模型鲁棒性 | [Steering Externalities: Benign Activation Steering Unintentionally Increases Jailbreak Risk for Large Language Models](cards-0011.md#paper-156102) | 任何推理激活定制都回归安全。 |
+| 生成模型 | 采样与推理 | [Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond](cards-0011.md#paper-148355) | 安全采样动态调方向而非用全程固定向量。 |
+| 大语言模型 | 推理策略 | [Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing](cards-0011.md#paper-149849) | 按效用和安全的共同相似性共享提示路由反馈。 |
+| 计算机视觉 | 训练策略 | [Steering Optimisation Trajectories in Diffusion Representation Learning](cards-0011.md#paper-149680) | 扩散表征学习可控制早期噪声暴露和捷径连接。 |
+| 大语言模型 | 训练策略 | [Steering Vectors as a Training Signal in LLM Post-Training](cards-0011.md#paper-150277) | 用表示方向给监督训练或无方差奖励组补偿。 |
+| 多模态学习 | 训练策略 | [Steering Visual Generation in Unified Multimodal Models with Understanding Supervision](cards-0011.md#paper-155743) | 以理解任务监督生成表征的语义和结构。 |
+| 机器人学 | 推理策略 | [STEER: Route-Aware Adaptive Reasoning for  Autonomous Driving](cards-0011.md#paper-150589) | 用环境回报决定何时给驾驶策略追加推理。 |
+| 机器学习基础与统计 | 模型架构 | [Stein Transport for Generative Modeling](cards-0011.md#paper-154118) | 仅目标样本可用时，用 OU 路径和核空间学习输运。 |
+| 多模态学习 | 评测与诊断 | [StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning](cards-0011.md#paper-139814) | 同一视觉题分别测感知、规则与正确实例绑定。 |
+| 大语言模型 | 推理策略 | [StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning](cards-0011.md#paper-149117) | 推理修订从预计首错位置附近重采样后缀。 |
+| 大语言模型 | 强化学习方法 | [Step-by-Step Optimization-like Reasoning in LLMs over Expanding Search Spaces](cards-0011.md#paper-153635) | 搜索问题有求解器时给局部决策提供部分状态价值。 |
+| 计算机视觉 | 推理策略 | [StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search](cards-0011.md#paper-149665) | 生成形状程序时将可执行中间几何作为反馈。 |
+| 大语言模型 | 推理策略 | [Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference](cards-0011.md#paper-155406) | 扩散解码分阶段刷新稀疏注意力，并按头分配稀疏度。 |
+| 大语言模型 | 强化学习方法 | [Stepwise Penalization for Length-Efficient Chain-of-Thought Reasoning](cards-0011.md#paper-148969) | 对推理步骤按估计贡献分配长度惩罚。 |
+| 大语言模型 | 强化学习方法 | [Step-wise Rubric Rewards for LLM Reasoning](cards-0011.md#paper-151384) | 评价标准和时间位置应保留到过程奖励中。 |
+| 大语言模型 | 评测与诊断 | [StereoTales: A Multilingual Framework for Open-Ended Stereotype Discovery in LLMs](cards-0011.md#paper-139613) | 跨语言偏见审计用本地群体和语境 |
+| 机器学习基础与统计 | 生成与扩散 | [Sticky Jump Diffusions: A Unifying Framework for Discrete, Continuous, and Hybrid Diffusion](cards-0011.md#paper-152342) | 跨模态去噪将腐化结构和承诺日程分开 |
+| 大语言模型 | 效率与系统 | [STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](cards-0011.md#paper-149260) | 线性化语言模型每层只保留部分精确注意 token |
+| 视觉与多模态 | 训练与优化 | [StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing](cards-0011.md#paper-152828) | 图像编辑迁移深度先验时按层检测梯度冲突 |
+| 视觉与多模态 | 生成与扩散 | [Stitched Value Model for Diffusion Alignment](cards-0011.md#paper-149632) | 重复扩散对齐将噪声潜态价值计算摊销 |
+| 机器学习基础与统计 | 评测与诊断 | [Stochastic Grouping Conformal Prediction for Effective Subgroup Reliability](cards-0011.md#paper-149803) | 总体保覆盖时按相似校准行为借邻域统计 |
+| 大语言模型 | 推理与搜索 | [Stop or Restart? Principled Inference Control for Large Reasoning Models via the Pandora's Box](cards-0011.md#paper-149605) | 推理预算按继续、停止和重启的边际价值动态分配 |
+| 机器学习理论 | 采样与推理 | [Stop the Sampler! Classifier-Based Adaptive Stopping for Sampling Kernels](cards-0011.md#paper-148260) | MCMC 轨迹停止规则可学习，但需守细致平衡。 |
+| 计算机视觉 | 三维视觉 | [StoSplat: Ray-Aligned Stochastic Preconditioning for Feed-Forward 3D Gaussian Splatting](cards-0011.md#paper-155026) | 前馈 3DGS 中心沿观测射线加退火噪声。 |
+| 模型效率与系统 | 评测与诊断 | [STParOpt: An End-to-End Framework for Execution-Aware Parallelism Inference and Optimized CUDA Migration](cards-0011.md#paper-149431) | 并行迁移中将静态分析歧义标给执行反馈。 |
+| 深度学习 | 评测与诊断 | [STRABLE: Benchmarking Tabular Machine Learning with Strings](cards-0011.md#paper-139430) | 自然字符串表先用简单嵌入配强表格模型。 |
+| 计算机视觉 | 评测与诊断 | [Stranger Things: When Objects Appear Without Their Typical Neighbours](cards-0011.md#paper-139618) | 识别评测按对象共现稀有度分层。 |
+| 智能体与工具使用 | 强化学习 | [StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](cards-0011.md#paper-152317) | 技能策略先显式表达轨迹级意图。 |
+| 机器学习理论 | 因果推断 | [Strategic Causal Policy Learning: Welfare, Safety, and Fairness Thresholds](cards-0011.md#paper-151459) | 阈值分配须评被选对象如何反应。 |
+| 机器学习理论 | 优化算法 | [Strategic Decision Focused Learning](cards-0011.md#paper-156150) | 当模型输出改变用户行动时直接评价均衡收益。 |
+| 智能体与工具使用 | 模型路由 | [Strategic Decision Support for AI Agents](cards-0011.md#paper-149381) | 助手调用根据遗漏有效支持的概率校准。 |
+| 大语言模型 | 评测与诊断 | [Strategic Evaluation: Incentivizing AI Capability Coverage with Private Benchmarks](cards-0011.md#paper-139431) | 私有随机评估用于降低固定榜的策略特化。 |
+| 深度学习 | 表征学习 | [Strategic Feature Selection and Regularization](cards-0011.md#paper-154371) | 特征可能被人为影响时不要只按可操控性删。 |
+| 智能体与工具使用 | 搜索与规划 | [Strategist: Designing Agentic Reasoning at Scale](cards-0011.md#paper-150241) | 自动设计推理流程应在少量任务上真实执行与回修。 |
+| 多模态学习 | 评测与诊断 | [StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos](cards-0011.md#paper-139777) | 流式代理测试是否能将视线变成恰当预测。 |
+| 多模态学习 | 数据增强 | [Streaming Interventions: Can Video LLMs Correct Mistakes as They Occur?](cards-0011.md#paper-138994) | 实时纠错训练可从非交互视频补反事实提醒。 |
+| 多模态学习 | 记忆机制 | [StreamMind: Dynamic Streaming Cognition for Online Video Understanding](cards-0011.md#paper-151287) | 流视频在相干片段边界触发推理。 |
+| 多模态学习 | 记忆机制 | [StreamOV: Streaming Omni-Video Understanding via Evidence-Guided Memory and Response Triggering](cards-0011.md#paper-150068) | 流式音视频用有限预算保存证据并主动回应。 |
+| 科学机器学习 | 模型架构 | [StreamPhy: Streaming Inference of High-Dimensional Physical Dynamics via  State Space Models](cards-0011.md#paper-149743) | 流式物理场重建用结构状态空间模型在线更新不规则传感历史。 |
+| 机器人学 | 模型架构 | [StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models](cards-0011.md#paper-154290) | 每个观测指令对内双向融合，对之间按时序因果处理。 |
+| 计算机视觉 | 表征学习 | [STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation](cards-0011.md#paper-149538) | 生成中用预训练特征作为潜空间时比较直接画像条件和特征条件塌缩。 |
+| 大语言模型 | 强化学习方法 | [Strengthening LLMs for Tabular Prediction with Structural Priors](cards-0011.md#paper-149527) | 把输入结构的标签不变变换纳入组相对优势。 |
+| 大语言模型 | 评测与诊断 | [Stress Testing Chain-of-Thought Monitoring Against Covert Misalignment](cards-0011.md#paper-155256) | 代理轨迹防护要联合全局任务上下文与局部监控。 |
+| 机器学习基础与统计 | 评测与诊断 | [Stress-Testing Neural Network Verifiers with Provably Robust Instances](cards-0011.md#paper-139653) | 神经验证器应先用具有解析鲁棒真值的样例做回归测试。 |
+| 大语言模型 | 训练策略 | [STRIDE: Learnable Stepwise Language Feedback for LLM Reasoning](cards-0011.md#paper-148237) | 推理过程失败时训练批评器给可执行语言重定向。 |
+| 多模态学习 | 训练策略 | [Strong Helps Weak: Directional Cross-Modal Alignment Transfer in Multi-modal LLMs](cards-0011.md#paper-153529) | 低资源模态可从高资源模态转移对齐方向，而非直接混合该模态权重。 |
+| 机器学习基础与统计 | 模型架构 | [Strong Stochastic Flow Maps](cards-0011.md#paper-149475) | 若预测需要保留随机过程路径而非仅边缘，训练强解映射。 |
+| 大语言模型 | 训练策略 | [Strong Teacher Not Needed? On Distillation in LLM Pretraining](cards-0011.md#paper-153838) | 预训练蒸馏同时选教师规模与监督损失比例。 |
+| 大语言模型 | 评测与诊断 | [StructLens: A Structural Lens for Language Models via Maximum Spanning Trees](cards-0011.md#paper-155008) | 用 token 表征的最大生成树追踪语言结构在训练各阶段形成。 |
+| 科学机器学习 | 评测与诊断 | [Structural Blindness in Latent Data Assimilation: Representation Geometry Misleads Sensor Design](cards-0011.md#paper-152860) | 设计传感器时用全滤波流程验证候选，不只比较解码器 Fisher 分数。 |
+| 机器学习基础与统计 | 理论与统计 | [Structural Causal Bottleneck Models](cards-0011.md#paper-155742) | 用可识别的因果瓶颈保留效应估计必需信息。 |
+| 强化学习与决策 | 强化学习与奖励 | [Structural Entropy Optimized Communication for Multi-Agent Reinforcement Learning](cards-0011.md#paper-149682) | 多智能体分别约束通信图和消息内容 |
+| 大语言模型 | 训练与优化 | [Structural Rationale Distillation via Reasoning Space Compression](cards-0011.md#paper-152271) | 推理蒸馏把教师轨迹限制在可重用路径库 |
+| 视觉与多模态 | 训练与优化 | [Structural Self-Teaching for Compositional Generation in Unified Multimodal Models](cards-0011.md#paper-155187) | 让统一多模态模型以理解通道监督生成结构 |
+| 机器学习基础与统计 | 训练与优化 | [Structure-agnostic Causal Representation Learning](cards-0011.md#paper-155070) | 域泛化不确定因果结构时对候选不变性软选择 |
+| 机器学习基础与统计 | 记忆与检索 | [Structured Sparse Memory for Recurrent Reasoning](cards-0011.md#paper-149635) | 循环推理同时消融任务记忆、合成数据与学习视野 |
+| 视觉与多模态 | 生成与扩散 | [Structured State-Space Regularization for Generation-Friendly Image Tokenization](cards-0011.md#paper-151619) | 图像分词验收同时看可生成性和重建 |
+| 大语言模型 | 效率与系统 | [Structured Transforms for Low-Overhead Quantization of Language Models](cards-0011.md#paper-152193) | 低比特权重量化用结构正交变换降开销 |
+| 视觉与多模态 | 模型与架构 | [Structure-Guided Masked Autoencoders for Ultra-High Resolution Scientific Image Understanding](cards-0011.md#paper-150156) | 超大图像 token 预算按结构分配 |
+| 视觉与多模态 | 训练与优化 | [Structure Over Scale: Learning Visual Reasoning from Pedagogical Video](cards-0011.md#paper-153531) | 视频推理选具提示、停顿与回答对齐的教学段落 |

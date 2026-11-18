@@ -1206,5 +1206,16 @@
 - [Stable3R: Streaming 3D Reconstruction with Stable Geometric References](../../conferences/neurips-2026/cards-0011.md#paper-154907)
 - [StableAvatar: Ultra-Long Audio-Driven Avatar Video Generation](../../conferences/neurips-2026/cards-0011.md#paper-154759)
 - [Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models](../../conferences/neurips-2026/cards-0011.md#paper-149986)
+- [Statistical Estimation of Adversarial Risk in Large Language Models under Best-of-N Sampling](../../conferences/neurips-2026/cards-0011.md#paper-148477)
+- [Statistical Limits of Affine Equivariant Estimation](../../conferences/neurips-2026/cards-0011.md#paper-148436)
+- [Statistical Matching via Schr\"odinger Bridge beyond Conditional Independence](../../conferences/neurips-2026/cards-0011.md#paper-155896)
+- [Statistical Mixing Guarantees for Contractive Echo State Networks](../../conferences/neurips-2026/cards-0011.md#paper-153102)
+- [StatLUT: Statistical Feature-Driven Multimodal 3D LUT Generation for Photorealistic Style Transfer](../../conferences/neurips-2026/cards-0011.md#paper-153359)
+- [Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales](../../conferences/neurips-2026/cards-0011.md#paper-149045)
+- [Steering Away from Memorization: Reachability-Constrained Reinforcement Learning for Text-to-Image Diffusion](../../conferences/neurips-2026/cards-0011.md#paper-149209)
+- [Steering Externalities: Benign Activation Steering Unintentionally Increases Jailbreak Risk for Large Language Models](../../conferences/neurips-2026/cards-0011.md#paper-156102)
+- [STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](../../conferences/neurips-2026/cards-0011.md#paper-149260)
+- [StoSplat: Ray-Aligned Stochastic Preconditioning for Feed-Forward 3D Gaussian Splatting](../../conferences/neurips-2026/cards-0011.md#paper-155026)
+- [Structured Transforms for Low-Overhead Quantization of Language Models](../../conferences/neurips-2026/cards-0011.md#paper-152193)
 
 <!-- conference-classification:end -->

@@ -458,5 +458,9 @@
 - [Spectral Measures of Mamba Conductances Predict and Shape Effective Receptive Fields](../conferences/neurips-2026/cards-0011.md#paper-153177)
 - [StateLedger: Path-Addressed External Memory for Persistent Multi-Agent Systems](../conferences/neurips-2026/cards-0011.md#paper-151469)
 - [State-Resolving Attention for Length-Extrapolating Transformers](../conferences/neurips-2026/cards-0011.md#paper-148318)
+- [Strategic Decision Support for AI Agents](../conferences/neurips-2026/cards-0011.md#paper-149381)
+- [StreamMind: Dynamic Streaming Cognition for Online Video Understanding](../conferences/neurips-2026/cards-0011.md#paper-151287)
+- [StreamOV: Streaming Omni-Video Understanding via Evidence-Guided Memory and Response Triggering](../conferences/neurips-2026/cards-0011.md#paper-150068)
+- [Structured Sparse Memory for Recurrent Reasoning](../conferences/neurips-2026/cards-0011.md#paper-149635)
 
 <!-- conference-classification:end -->

@@ -728,5 +728,12 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Stable and Granular Policy Optimization for Generative Recommendation](../../conferences/neurips-2026/cards-0011.md#paper-153504)
 - [STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens](../../conferences/neurips-2026/cards-0011.md#paper-148439)
 - [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-151920)
+- [SteadyThought: Mitigating LLM Under-Thinking via Thought-Level Preference Optimization](../../conferences/neurips-2026/cards-0011.md#paper-148435)
+- [Step-by-Step Optimization-like Reasoning in LLMs over Expanding Search Spaces](../../conferences/neurips-2026/cards-0011.md#paper-153635)
+- [Stepwise Penalization for Length-Efficient Chain-of-Thought Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-148969)
+- [Step-wise Rubric Rewards for LLM Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-151384)
+- [StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](../../conferences/neurips-2026/cards-0011.md#paper-152317)
+- [Strengthening LLMs for Tabular Prediction with Structural Priors](../../conferences/neurips-2026/cards-0011.md#paper-149527)
+- [Structural Entropy Optimized Communication for Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-149682)
 
 <!-- conference-classification:end -->

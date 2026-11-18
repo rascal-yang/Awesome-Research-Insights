@@ -587,5 +587,10 @@
 - [Stable Partial Order Constraints for Temporal Causal Structure Learning](../conferences/neurips-2026/cards-0011.md#paper-148586)
 - [STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation](../conferences/neurips-2026/cards-0011.md#paper-153469)
 - [StarWM:  Self-Supervised Trained Attention Routing for Robust World Models](../conferences/neurips-2026/cards-0011.md#paper-148796)
+- [Stein Transport for Generative Modeling](../conferences/neurips-2026/cards-0011.md#paper-154118)
+- [StreamPhy: Streaming Inference of High-Dimensional Physical Dynamics via  State Space Models](../conferences/neurips-2026/cards-0011.md#paper-149743)
+- [StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models](../conferences/neurips-2026/cards-0011.md#paper-154290)
+- [Strong Stochastic Flow Maps](../conferences/neurips-2026/cards-0011.md#paper-149475)
+- [Structure-Guided Masked Autoencoders for Ultra-High Resolution Scientific Image Understanding](../conferences/neurips-2026/cards-0011.md#paper-150156)
 
 <!-- conference-classification:end -->

@@ -774,5 +774,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Split Then Select: Moment-Preserving Density Control for Generalized Primitive Splatting](../../conferences/neurips-2026/cards-0011.md#paper-155773)
 - [Stable and Scalable Probabilistic Numerical Solvers for Stiff and High-Dimensional ODEs](../../conferences/neurips-2026/cards-0011.md#paper-150122)
 - [Stable Max Coverage Under a Cardinality Constraint](../../conferences/neurips-2026/cards-0011.md#paper-156002)
+- [Strategic Decision Focused Learning](../../conferences/neurips-2026/cards-0011.md#paper-156150)
 
 <!-- conference-classification:end -->

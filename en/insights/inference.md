@@ -1410,5 +1410,18 @@ Decoding, test-time adaptation, and efficient execution.
 - [Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping](../../conferences/neurips-2026/cards-0011.md#paper-152714)
 - [Stabilizing RL+Search for Imperfect-Information Extensive-Form Games](../../conferences/neurips-2026/cards-0011.md#paper-153095)
 - [State Augmented Flows](../../conferences/neurips-2026/cards-0011.md#paper-149218)
+- [STDec: Spatio-Temporal Stability Guided Decoding for dLLMs](../../conferences/neurips-2026/cards-0011.md#paper-149419)
+- [Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond](../../conferences/neurips-2026/cards-0011.md#paper-148355)
+- [Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing](../../conferences/neurips-2026/cards-0011.md#paper-149849)
+- [STEER: Route-Aware Adaptive Reasoning for  Autonomous Driving](../../conferences/neurips-2026/cards-0011.md#paper-150589)
+- [StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-149117)
+- [StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search](../../conferences/neurips-2026/cards-0011.md#paper-149665)
+- [Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference](../../conferences/neurips-2026/cards-0011.md#paper-155406)
+- [Sticky Jump Diffusions: A Unifying Framework for Discrete, Continuous, and Hybrid Diffusion](../../conferences/neurips-2026/cards-0011.md#paper-152342)
+- [Stitched Value Model for Diffusion Alignment](../../conferences/neurips-2026/cards-0011.md#paper-149632)
+- [Stop or Restart? Principled Inference Control for Large Reasoning Models via the Pandora's Box](../../conferences/neurips-2026/cards-0011.md#paper-149605)
+- [Stop the Sampler! Classifier-Based Adaptive Stopping for Sampling Kernels](../../conferences/neurips-2026/cards-0011.md#paper-148260)
+- [Strategist: Designing Agentic Reasoning at Scale](../../conferences/neurips-2026/cards-0011.md#paper-150241)
+- [Structured State-Space Regularization for Generation-Friendly Image Tokenization](../../conferences/neurips-2026/cards-0011.md#paper-151619)
 
 <!-- conference-classification:end -->

@@ -613,5 +613,7 @@
 - [Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks](../conferences/neurips-2026/cards-0011.md#paper-156130)
 - [Stabilizing Few-Shot Object Detection with Language-Conditioned Probabilistic Prototypes](../conferences/neurips-2026/cards-0011.md#paper-149495)
 - [StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video](../conferences/neurips-2026/cards-0011.md#paper-155198)
+- [Strategic Feature Selection and Regularization](../conferences/neurips-2026/cards-0011.md#paper-154371)
+- [STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation](../conferences/neurips-2026/cards-0011.md#paper-149538)
 
 <!-- conference-classification:end -->

@@ -1146,5 +1146,11 @@
 - [Stable3R: Streaming 3D Reconstruction with Stable Geometric References](../conferences/neurips-2026/cards-0011.md#paper-154907)
 - [StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video](../conferences/neurips-2026/cards-0011.md#paper-155198)
 - [StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training](../conferences/neurips-2026/cards-0011.md#paper-151809)
+- [StatLUT: Statistical Feature-Driven Multimodal 3D LUT Generation for Photorealistic Style Transfer](../conferences/neurips-2026/cards-0011.md#paper-153359)
+- [Steering Optimisation Trajectories in Diffusion Representation Learning](../conferences/neurips-2026/cards-0011.md#paper-149680)
+- [StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search](../conferences/neurips-2026/cards-0011.md#paper-149665)
+- [StoSplat: Ray-Aligned Stochastic Preconditioning for Feed-Forward 3D Gaussian Splatting](../conferences/neurips-2026/cards-0011.md#paper-155026)
+- [Stranger Things: When Objects Appear Without Their Typical Neighbours](../conferences/neurips-2026/cards-0011.md#paper-139618)
+- [STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation](../conferences/neurips-2026/cards-0011.md#paper-149538)
 
 <!-- conference-classification:end -->

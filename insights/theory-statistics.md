@@ -1141,5 +1141,8 @@
 - [SpatialVAM: Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy](../conferences/neurips-2026/cards-0011.md#paper-151702)
 - [Spectral Degeneration of Softmax Attention under Isotropic Score Geometry](../conferences/neurips-2026/cards-0011.md#paper-154061)
 - [Spectral Identifiability for World Models: Polynomial Projectors, Resolvent Stability, and a Krylov Bottleneck](../conferences/neurips-2026/cards-0011.md#paper-149561)
+- [Statistical Inference in Causal Partial Identification under Smooth Densities](../conferences/neurips-2026/cards-0011.md#paper-152254)
+- [Strategic Causal Policy Learning: Welfare, Safety, and Fairness Thresholds](../conferences/neurips-2026/cards-0011.md#paper-151459)
+- [Structural Causal Bottleneck Models](../conferences/neurips-2026/cards-0011.md#paper-155742)
 
 <!-- conference-classification:end -->

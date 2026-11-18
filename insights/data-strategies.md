@@ -389,5 +389,8 @@
 - [Social Choice Foundations for Simulation-Augmented Generation](../conferences/neurips-2026/cards-0011.md#paper-148453)
 - [SODA: Selective Optimization with Deferred BN Alignment for Efficient Dataset Distillation](../conferences/neurips-2026/cards-0011.md#paper-150571)
 - [Spherical Interpolation for Backward-Compatible Multimodal Representations](../conferences/neurips-2026/cards-0011.md#paper-148719)
+- [ST-Bridge: Bridging Sketch and Text with Large Language Models for Coarse-to-Fine Image Retrieval](../conferences/neurips-2026/cards-0011.md#paper-153362)
+- [SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](../conferences/neurips-2026/cards-0011.md#paper-154457)
+- [Streaming Interventions: Can Video LLMs Correct Mistakes as They Occur?](../conferences/neurips-2026/cards-0011.md#paper-138994)
 
 <!-- conference-classification:end -->

@@ -688,5 +688,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators](../../conferences/neurips-2026/cards-0011.md#paper-154652)
 - [Stable Resolution-Invariant Emulation in Entropically Controlled Kinetic Methods](../../conferences/neurips-2026/cards-0011.md#paper-152770)
 - [Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation](../../conferences/neurips-2026/cards-0011.md#paper-150310)
+- [StreamPhy: Streaming Inference of High-Dimensional Physical Dynamics via  State Space Models](../../conferences/neurips-2026/cards-0011.md#paper-149743)
+- [Structural Blindness in Latent Data Assimilation: Representation Geometry Misleads Sensor Design](../../conferences/neurips-2026/cards-0011.md#paper-152860)
 
 <!-- conference-classification:end -->

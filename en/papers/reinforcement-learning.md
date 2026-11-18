@@ -699,5 +699,6 @@ Learning from interaction, feedback, and offline experience.
 - [Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation](../../conferences/neurips-2026/cards-0011.md#paper-152147)
 - [Stabilizing RL+Search for Imperfect-Information Extensive-Form Games](../../conferences/neurips-2026/cards-0011.md#paper-153095)
 - [Stable GFlowNets with Probabilistic Guarantees](../../conferences/neurips-2026/cards-0011.md#paper-150233)
+- [Structural Entropy Optimized Communication for Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-149682)
 
 <!-- conference-classification:end -->

@@ -939,5 +939,16 @@ Training schedules, curricula, and task or stage composition.
 - [STAC-R: Subspace-Tracked Activation Compression with Residuals](../../conferences/neurips-2026/cards-0011.md#paper-148748)
 - [Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation](../../conferences/neurips-2026/cards-0011.md#paper-149801)
 - [Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation](../../conferences/neurips-2026/cards-0011.md#paper-150310)
+- [Steering Optimisation Trajectories in Diffusion Representation Learning](../../conferences/neurips-2026/cards-0011.md#paper-149680)
+- [Steering Vectors as a Training Signal in LLM Post-Training](../../conferences/neurips-2026/cards-0011.md#paper-150277)
+- [Steering Visual Generation in Unified Multimodal Models with Understanding Supervision](../../conferences/neurips-2026/cards-0011.md#paper-155743)
+- [StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing](../../conferences/neurips-2026/cards-0011.md#paper-152828)
+- [STRIDE: Learnable Stepwise Language Feedback for LLM Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-148237)
+- [Strong Helps Weak: Directional Cross-Modal Alignment Transfer in Multi-modal LLMs](../../conferences/neurips-2026/cards-0011.md#paper-153529)
+- [Strong Teacher Not Needed? On Distillation in LLM Pretraining](../../conferences/neurips-2026/cards-0011.md#paper-153838)
+- [Structural Rationale Distillation via Reasoning Space Compression](../../conferences/neurips-2026/cards-0011.md#paper-152271)
+- [Structural Self-Teaching for Compositional Generation in Unified Multimodal Models](../../conferences/neurips-2026/cards-0011.md#paper-155187)
+- [Structure-agnostic Causal Representation Learning](../../conferences/neurips-2026/cards-0011.md#paper-155070)
+- [Structure Over Scale: Learning Visual Reasoning from Pedagogical Video](../../conferences/neurips-2026/cards-0011.md#paper-153531)
 
 <!-- conference-classification:end -->

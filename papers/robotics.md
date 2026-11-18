@@ -879,5 +879,7 @@
 - [SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction](../conferences/neurips-2026/cards-0011.md#paper-153943)
 - [StarWM:  Self-Supervised Trained Attention Routing for Robust World Models](../conferences/neurips-2026/cards-0011.md#paper-148796)
 - [Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models](../conferences/neurips-2026/cards-0011.md#paper-149986)
+- [STEER: Route-Aware Adaptive Reasoning for  Autonomous Driving](../conferences/neurips-2026/cards-0011.md#paper-150589)
+- [StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models](../conferences/neurips-2026/cards-0011.md#paper-154290)
 
 <!-- conference-classification:end -->
