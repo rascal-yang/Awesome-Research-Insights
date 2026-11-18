@@ -473,3 +473,58 @@
 | 学习理论 | 流匹配 | [Flow Matching from Viewpoint of Proximal Operators](cards-0005.md#paper-149878) | 用近端算子解释传输向量场。 |
 | 强化学习 | 策略优化 | [Flow Matching Policy Optimization with Mirror Descent and Entropy Constraints](cards-0005.md#paper-148142) | 用优势加权流匹配实现镜像下降。 |
 | 强化学习 | 训练部署迁移 | [Flow Matching Reinforcement Learning via SDE Inference](cards-0005.md#paper-153016) | 训练采用随机推理，部署采用确定性推理。 |
+| 科学机器学习 | 条件生成 | [Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics](cards-0005.md#paper-153623) | 用留出任务组合测试文本条件能否替代类别标签。 |
+| 计算机视觉 | 异常检测 | [Flow Mismatching: Unsupervised Anomaly Detection via Velocity Discrepancies in Flow Matching Models](cards-0005.md#paper-148833) | 对照重建误差和场速度偏差，检查异常是否被过强生成器掩盖。 |
+| 计算机视觉 | 时序生成 | [FlowMoP: Stochastic Multi-Person Motion Prediction](cards-0005.md#paper-150215) | 比较联合预测和逐人独立预测时同时报告误差及样本覆盖。 |
+| 统计学习 | 随机估计 | [Flow Perturbation++: Multi-Step Unbiased Jacobian Estimation for High-Dimensional Boltzmann Sampling](cards-0005.md#paper-152021) | 在同计算预算下比较单次估计和分步估计的方差及有效样本量。 |
+| 自动驾驶 | 条件策略 | [FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning](cards-0005.md#paper-148780) | 在固定候选数量下对照奖赏条件生成和生成后打分。 |
+| Agent | 工作流构建 | [FlowSteer: Towards Agents Designing Agentic Workflows via Reinforced Progressive Canvas Editing](cards-0005.md#paper-152705) | 在同执行预算下比较原子编辑与一次性生成，记录修复成功率。 |
+| 计算机视觉 | 视频编辑 | [FlowTrack: Controlling Edit-Signal Execution in Inversion-Free Flow Video Editing](cards-0005.md#paper-152250) | 以相同编辑信号比较直接注入与有记忆控制，分测语义和运动保持。 |
+| 统计学习 | 贝叶斯推断 | [Flow-Transformed Implicit Processes for Function-Space Variational Inference](cards-0005.md#paper-152012) | 区分基函数不足与权重分布不足，再决定扩大基还是改用流。 |
+| 大语言模型 | 稀疏推理 | [Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference](cards-0005.md#paper-154703) | 同时测算量和墙钟时间，避免忽略不均衡的同步成本。 |
+| 科学机器学习 | 图像逆问题 | [FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution](cards-0005.md#paper-151841) | 科研重建同时验证像素细节和新增信号是否受原观测支持。 |
+| 统计学习 | 纵向建模 | [FLUX: Geometry-Aware Longitudinal Flow Matching with Mixture of Experts](cards-0005.md#paper-154945) | 对不配对时间切片分别检验轨迹几何和机制切换，避免将任一拟合当作因果证据。 |
+| 生成模型 | 采样 | [FluxLite: Inference-Time Proposal Control for Discrete Diffusion Models](cards-0005.md#paper-152301) | 同时报告权重方差和有效样本量，区分目标正确与有限预算下的效率。 |
+| 机器学习系统 | 数据调度 | [Flux: Online, Fine-Grained Data Scheduling for Training Machine Learning Interatomic Potentials](cards-0005.md#paper-151170) | 按真实计算负载而非样本数做分布式均衡。 |
+| 科学机器学习 | 泛化评测 | [Fluxtrapolation: A benchmark on extrapolating ecosystem fluxes](cards-0005.md#paper-139401) | 按偏移类型拆分验证并同时报告尾部和总体误差。 |
+| Agent | 证据评测 | [FlyAOC: Evaluating Agentic Ontology Curation of Drosophila Scientific Knowledge Bases](cards-0005.md#paper-139748) | 让代理提交可回溯证据，并分开测检索和结构化输出。 |
+| 计算机视觉 | 尺度评测 | [FlyingDrones: A Dataset and Benchmark for Optical Flow Estimation from UAV motion](cards-0005.md#paper-138996) | 固定任务按目标尺寸与分辨率拆分报告光流误差。 |
+| 计算机视觉 | 变化检测 | [FM-ChangeNet: Learning Change through Pathwise Feature Transport](cards-0005.md#paper-149587) | 比较路径监督和端点监督在配准误差、光照变化下的稳健性。 |
+| Agent | 检索策略评测 | [FML-bench: A Controlled Study of AI Research Agent Strategies from the Perspective of Search Dynamics](cards-0005.md#paper-139220) | 固定基础设施和等预算，对照策略时记录探索过程而非只看终分。 |
+| 统计学习 | 信息量估计 | [FMMI: Flow Matching Mutual Information Estimation](cards-0005.md#paper-148155) | 在已知信息量的合成数据中对照分类和运输估计，验证误差是否随维数放大。 |
+| 可解释性 | 跨层字典 | [fmxcoders: Factorized Masked Crosscoders for Cross-Layer Feature Discovery](cards-0005.md#paper-154897) | 用功能一致性验证跨层特征 |
+| 脑信号建模 | 迁移评测 | [fNIRSAtlas: A Large-Scale Benchmark for Functional Near-Infrared Spectroscopy Classification](cards-0005.md#paper-139300) | 分别测跨被试与被试内分类 |
+| 强化学习 | 奖励聚合 | [Focal Reward: Balanced Reinforcement Learning under Rubric-Based Rewards](cards-0005.md#paper-150481) | 按当前准则饱和程度动态分配奖励权重 |
+| 计算机视觉 | 深度估计 | [Focusable Monocular Depth Estimation](cards-0005.md#paper-153419) | 用提示为特定区域分配深度估计能力 |
+| 多模态学习 | 时序重建 | [Focus, Align, and Diffuse: Time-Series-Aware Keyframe Diffusion for Cardiac Dynamic Synthesis from Sparse Observations](cards-0005.md#paper-149269) | 先重建兼顾可恢复与可对齐的关键帧 |
+| 医学影像 | 跨域评测 | [FOCUS: Benchmarking Retinal Model Generalization from Foundation Vision Encoders to Multimodal LLMs](cards-0005.md#paper-139808) | 将排序能力与校准分开测试 |
+| 可靠性 | 形式验证 | [FocusBranch: Combinatorial Branch-and-Bound for $\ell_0$ Neural Network Robustness Verification](cards-0005.md#paper-152059) | 按局部错误预算组织可验证子问题 |
+| 视频生成 | 缓存优化 | [Focused Forcing: Content-Aware Per-Frame KV Selection for Efficient Autoregressive Video Diffusion](cards-0005.md#paper-148676) | 按生成帧和注意力头分配历史缓存 |
+| 强化学习 | 协作探索 | [Focusing Influence Mechanism for Multi-Agent Reinforcement Learning](cards-0005.md#paper-155238) | 把协作探索持续集中在欠覆盖状态 |
+| 多模态学习 | 幻觉诊断 | [Focus Matters: Attention-Value Dynamics for Hallucination Mitigation in Vision-Language Models](cards-0005.md#paper-155092) | 检查低注意力位置的值向量对幻觉的作用 |
+| 具身智能 | 导航监督 | [FocusNav: Learning Task-directed Perception via Action-Aware Future Reconstruction in Vision-and-Language Navigation](cards-0005.md#paper-149699) | 给感知增加动作条件的未来视觉监督 |
+| 联邦学习 | 优化 | [Focus on Where You Aggregate: Restricted SAM for Non-IID Federated Learning](cards-0005.md#paper-150522) | 把平坦化限制在参数实际聚合区域 |
+| 计算机视觉 | 物理渲染 | [FogGS: Physics-Grounded 3D Foggy Effects](cards-0005.md#paper-154923) | 将雾作为可编辑的光传输场与几何合成 |
+| 优化 | 梯度干扰 | [FOGO: Forgetting-aware Orthogonalization Optimizer](cards-0005.md#paper-152816) | 用历史方向识别当前更新对稀有模式的干扰 |
+| 具身智能 | 闭环评测 | [Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following](cards-0005.md#paper-139022) | 联合测跟随中的身份保持、遮挡恢复和舒适距离 |
+| 生成模型 | 流匹配 | [Follow the Mean: Reference-Guided Flow Matching](cards-0005.md#paper-150971) | 换参考集而不重训模型以控制生成属性 |
+| 优化 | 收敛反例 | [Follow the Regularized Leader Does Not Converge in Constrained Optimization](cards-0005.md#paper-150986) | 同时监测目标值和 KKT 残差 |
+| 强化学习 | 策略更新 | [Follow the Winners: Conservative Policy Improvement with the Cross-Entropy Method for Critic-Free RFT](cards-0005.md#paper-148167) | 用回报排序的多项式集中控制无评论器微调 |
+| 机器学习基础 | 多目标优化 | [FoMEMO: Towards Foundation Models for Expensive Multi-objective Optimization](cards-0005.md#paper-154247) | 按偏好拆解后验学习 |
+| 计算机视觉 | 质量评测 | [FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance](cards-0005.md#paper-152890) | 用扩散分叉时刻生成感知距离标注 |
+| 机器人学 | 不确定性监督 | [ForceBody: Force-Paired Parametric Body Motion with Torque Uncertainty](cards-0005.md#paper-138956) | 用标签不确定度加权逆动力学监督 |
+| 大语言模型 | 基准诊断 | [Forced Orders: What LLM Leaderboards Hide About Model Comparisons](cards-0005.md#paper-139069) | 用能力分层表达榜单无法支持的精细排序 |
+| 机器人学 | 力觉控制 | [ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching](cards-0005.md#paper-151896) | 分别建模视觉接近与力觉接触 |
+| 机器人学 | 特权蒸馏 | [ForceLDM: A Force-aware Latent Dynamics Model for Contact-Rich Manipulation](cards-0005.md#paper-156065) | 用未来力觉教当前观测策略预测接触 |
+| Agent | 记忆 | [ForecastCompass: Guiding Agentic Forecasting with Adaptive Factor Memory](cards-0005.md#paper-153936) | 分开存预测因子和概率校准经验 |
+| 大语言模型 | 代理评测 | [Forecasting Downstream Performance of LLMs With Proxy Metrics](cards-0005.md#paper-152033) | 用专家解答上的分布统计预测模型下游能力 |
+| 科学机器学习 | 预测评测 | [Forecasting Microbial Dynamics: Evaluation Protocol and Prior-Spectrum Benchmark](cards-0005.md#paper-139668) | 按样本量和预测跨度比较时间序列先验 |
+| 机器人学 | 流匹配 | [ForesightFlow: Self-Guided Flow Matching for Improving Vision-Language-Action Models](cards-0005.md#paper-151608) | 把动作改进加权与成功评分校准分开 |
+| 图学习与推荐 | 证据检索 | [Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering](cards-0005.md#paper-150820) | 用远端证据反馈修正局部路径剪枝 |
+| 多模态学习 | 流形对齐 | [Forest-Guided Semantic Transport for Label-Supervised Manifold Alignment](cards-0005.md#paper-150137) | 用标签指导的森林邻近性替换欧氏距离 |
+| 多模态学习 | 防御检测 | [Forgery Evidence Peaks Mid-Stack: Forensic Evidence Relay for Multimodal Forgery Detection](cards-0005.md#paper-153986) | 按逐层证据探针选择检测特征读出层 |
+| 机器学习基础 | 遗忘评测 | [Forgetting Has Neighbors: Localized Collateral Forgetting in Machine Unlearning](cards-0005.md#paper-152962) | 在删除集合邻域单独衡量遗忘副作用 |
+| Agent | 防御修复 | [Forgetting is Not Always Bad: A Neuro-Inspired Memory Repair Mechanism for Poisoned LLM Agents](cards-0005.md#paper-155114) | 对异常记忆进行选择性抑制并验证正常任务保持 |
+| 统计学习 | 数据筛选 | [Forgetting to Improve: Principled Data Removal in Active Learning](cards-0005.md#paper-148637) | 模型失配时检验删除有害样本能否改进目标任务 |
+| 大语言模型 | 证明评测 | [Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics](cards-0005.md#paper-139299) | 用冻结的 Lean 开放猜想与已解任务分别测证明和形式化 |
+| 机器学习基础 | 主动特征获取 | [Forward Shapley Scoring for Non-Myopic Active Feature Acquisition](cards-0005.md#paper-149516) | 用组合边际价值选择当前查询 |

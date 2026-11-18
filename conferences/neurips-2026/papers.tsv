@@ -3062,67 +3062,67 @@ poster_id	title	paper_url	status	reason
 149878	Flow Matching from Viewpoint of Proximal Operators	https://neurips.cc/virtual/2026/poster/149878	included	用近端算子解释传输向量场。
 148142	Flow Matching Policy Optimization with Mirror Descent and Entropy Constraints	https://neurips.cc/virtual/2026/poster/148142	included	用优势加权流匹配实现镜像下降。
 153016	Flow Matching Reinforcement Learning via SDE Inference	https://neurips.cc/virtual/2026/poster/153016	included	训练采用随机推理，部署采用确定性推理。
-153623	Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics	https://neurips.cc/virtual/2026/poster/153623	pending	-
-148833	Flow Mismatching: Unsupervised Anomaly Detection via Velocity Discrepancies in Flow Matching Models	https://neurips.cc/virtual/2026/poster/148833	pending	-
-150215	FlowMoP: Stochastic Multi-Person Motion Prediction	https://neurips.cc/virtual/2026/poster/150215	pending	-
-152021	Flow Perturbation++: Multi-Step Unbiased Jacobian Estimation for High-Dimensional Boltzmann Sampling	https://neurips.cc/virtual/2026/poster/152021	pending	-
-148780	FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning	https://neurips.cc/virtual/2026/poster/148780	pending	-
-149787	FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems	https://neurips.cc/virtual/2026/poster/149787	pending	-
-152705	FlowSteer: Towards Agents Designing Agentic Workflows via Reinforced Progressive Canvas Editing	https://neurips.cc/virtual/2026/poster/152705	pending	-
-152250	FlowTrack: Controlling Edit-Signal Execution in Inversion-Free Flow Video Editing	https://neurips.cc/virtual/2026/poster/152250	pending	-
-152012	Flow-Transformed Implicit Processes for Function-Space Variational Inference	https://neurips.cc/virtual/2026/poster/152012	pending	-
-154703	Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference	https://neurips.cc/virtual/2026/poster/154703	pending	-
-151841	FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution	https://neurips.cc/virtual/2026/poster/151841	pending	-
-154945	FLUX: Geometry-Aware Longitudinal Flow Matching with Mixture of Experts	https://neurips.cc/virtual/2026/poster/154945	pending	-
-152301	FluxLite: Inference-Time Proposal Control for Discrete Diffusion Models	https://neurips.cc/virtual/2026/poster/152301	pending	-
-151170	Flux: Online, Fine-Grained Data Scheduling for Training Machine Learning Interatomic Potentials	https://neurips.cc/virtual/2026/poster/151170	pending	-
-139401	Fluxtrapolation: A benchmark on extrapolating ecosystem fluxes	https://neurips.cc/virtual/2026/poster/139401	pending	-
-139748	FlyAOC: Evaluating Agentic Ontology Curation of Drosophila Scientific Knowledge Bases	https://neurips.cc/virtual/2026/poster/139748	pending	-
-138996	FlyingDrones: A Dataset and Benchmark for Optical Flow Estimation from UAV motion	https://neurips.cc/virtual/2026/poster/138996	pending	-
-149587	FM-ChangeNet: Learning Change through Pathwise Feature Transport	https://neurips.cc/virtual/2026/poster/149587	pending	-
-139220	FML-bench: A Controlled Study of AI Research Agent Strategies from the Perspective of Search Dynamics	https://neurips.cc/virtual/2026/poster/139220	pending	-
-148155	FMMI: Flow Matching Mutual Information Estimation	https://neurips.cc/virtual/2026/poster/148155	pending	-
-154897	fmxcoders: Factorized Masked Crosscoders for Cross-Layer Feature Discovery	https://neurips.cc/virtual/2026/poster/154897	pending	-
-139300	fNIRSAtlas: A Large-Scale Benchmark for Functional Near-Infrared Spectroscopy Classification	https://neurips.cc/virtual/2026/poster/139300	pending	-
+153623	Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics	https://neurips.cc/virtual/2026/poster/153623	included	用留出任务组合测试文本条件能否替代类别标签。
+148833	Flow Mismatching: Unsupervised Anomaly Detection via Velocity Discrepancies in Flow Matching Models	https://neurips.cc/virtual/2026/poster/148833	included	对照重建误差和场速度偏差，检查异常是否被过强生成器掩盖。
+150215	FlowMoP: Stochastic Multi-Person Motion Prediction	https://neurips.cc/virtual/2026/poster/150215	included	比较联合预测和逐人独立预测时同时报告误差及样本覆盖。
+152021	Flow Perturbation++: Multi-Step Unbiased Jacobian Estimation for High-Dimensional Boltzmann Sampling	https://neurips.cc/virtual/2026/poster/152021	included	在同计算预算下比较单次估计和分步估计的方差及有效样本量。
+148780	FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning	https://neurips.cc/virtual/2026/poster/148780	included	在固定候选数量下对照奖赏条件生成和生成后打分。
+149787	FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems	https://neurips.cc/virtual/2026/poster/149787	excluded	主要贡献是针对多智能体工作流的攻击，未独立验证可复用的防御机制。
+152705	FlowSteer: Towards Agents Designing Agentic Workflows via Reinforced Progressive Canvas Editing	https://neurips.cc/virtual/2026/poster/152705	included	在同执行预算下比较原子编辑与一次性生成，记录修复成功率。
+152250	FlowTrack: Controlling Edit-Signal Execution in Inversion-Free Flow Video Editing	https://neurips.cc/virtual/2026/poster/152250	included	以相同编辑信号比较直接注入与有记忆控制，分测语义和运动保持。
+152012	Flow-Transformed Implicit Processes for Function-Space Variational Inference	https://neurips.cc/virtual/2026/poster/152012	included	区分基函数不足与权重分布不足，再决定扩大基还是改用流。
+154703	Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference	https://neurips.cc/virtual/2026/poster/154703	included	同时测算量和墙钟时间，避免忽略不均衡的同步成本。
+151841	FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution	https://neurips.cc/virtual/2026/poster/151841	included	科研重建同时验证像素细节和新增信号是否受原观测支持。
+154945	FLUX: Geometry-Aware Longitudinal Flow Matching with Mixture of Experts	https://neurips.cc/virtual/2026/poster/154945	included	对不配对时间切片分别检验轨迹几何和机制切换，避免将任一拟合当作因果证据。
+152301	FluxLite: Inference-Time Proposal Control for Discrete Diffusion Models	https://neurips.cc/virtual/2026/poster/152301	included	同时报告权重方差和有效样本量，区分目标正确与有限预算下的效率。
+151170	Flux: Online, Fine-Grained Data Scheduling for Training Machine Learning Interatomic Potentials	https://neurips.cc/virtual/2026/poster/151170	included	按真实计算负载而非样本数做分布式均衡。
+139401	Fluxtrapolation: A benchmark on extrapolating ecosystem fluxes	https://neurips.cc/virtual/2026/poster/139401	included	按偏移类型拆分验证并同时报告尾部和总体误差。
+139748	FlyAOC: Evaluating Agentic Ontology Curation of Drosophila Scientific Knowledge Bases	https://neurips.cc/virtual/2026/poster/139748	included	让代理提交可回溯证据，并分开测检索和结构化输出。
+138996	FlyingDrones: A Dataset and Benchmark for Optical Flow Estimation from UAV motion	https://neurips.cc/virtual/2026/poster/138996	included	固定任务按目标尺寸与分辨率拆分报告光流误差。
+149587	FM-ChangeNet: Learning Change through Pathwise Feature Transport	https://neurips.cc/virtual/2026/poster/149587	included	比较路径监督和端点监督在配准误差、光照变化下的稳健性。
+139220	FML-bench: A Controlled Study of AI Research Agent Strategies from the Perspective of Search Dynamics	https://neurips.cc/virtual/2026/poster/139220	included	固定基础设施和等预算，对照策略时记录探索过程而非只看终分。
+148155	FMMI: Flow Matching Mutual Information Estimation	https://neurips.cc/virtual/2026/poster/148155	included	在已知信息量的合成数据中对照分类和运输估计，验证误差是否随维数放大。
+154897	fmxcoders: Factorized Masked Crosscoders for Cross-Layer Feature Discovery	https://neurips.cc/virtual/2026/poster/154897	included	用功能一致性验证跨层特征
+139300	fNIRSAtlas: A Large-Scale Benchmark for Functional Near-Infrared Spectroscopy Classification	https://neurips.cc/virtual/2026/poster/139300	included	分别测跨被试与被试内分类
 149122	FOAM: Factored One-sided Adam-Moment for Practical and Scalable SOAP	https://neurips.cc/virtual/2026/poster/149122	pending	-
-150481	Focal Reward: Balanced Reinforcement Learning under Rubric-Based Rewards	https://neurips.cc/virtual/2026/poster/150481	pending	-
-153419	Focusable Monocular Depth Estimation	https://neurips.cc/virtual/2026/poster/153419	pending	-
-149269	Focus, Align, and Diffuse: Time-Series-Aware Keyframe Diffusion for Cardiac Dynamic Synthesis from Sparse Observations	https://neurips.cc/virtual/2026/poster/149269	pending	-
-139808	FOCUS: Benchmarking Retinal Model Generalization from Foundation Vision Encoders to Multimodal LLMs	https://neurips.cc/virtual/2026/poster/139808	pending	-
-152059	FocusBranch: Combinatorial Branch-and-Bound for $\ell_0$ Neural Network Robustness Verification	https://neurips.cc/virtual/2026/poster/152059	pending	-
-148676	Focused Forcing: Content-Aware Per-Frame KV Selection for Efficient Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/148676	pending	-
-155238	Focusing Influence Mechanism for Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155238	pending	-
-155092	Focus Matters: Attention-Value Dynamics for Hallucination Mitigation in Vision-Language Models	https://neurips.cc/virtual/2026/poster/155092	pending	-
-149699	FocusNav: Learning Task-directed Perception via Action-Aware Future Reconstruction in Vision-and-Language Navigation	https://neurips.cc/virtual/2026/poster/149699	pending	-
-150522	Focus on Where You Aggregate: Restricted SAM for Non-IID Federated Learning	https://neurips.cc/virtual/2026/poster/150522	pending	-
-149765	FocusVLA: Hijacking Attention to Break Visual Token Pruning in Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/149765	pending	-
-154923	FogGS: Physics-Grounded 3D Foggy Effects	https://neurips.cc/virtual/2026/poster/154923	pending	-
-152816	FOGO: Forgetting-aware Orthogonalization Optimizer	https://neurips.cc/virtual/2026/poster/152816	pending	-
-149721	FoldAbS: Repurposing the Protein Folding Model as a Foundation Encoder for Antibody Screening	https://neurips.cc/virtual/2026/poster/149721	pending	-
-139022	Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following	https://neurips.cc/virtual/2026/poster/139022	pending	-
-150971	Follow the Mean: Reference-Guided Flow Matching	https://neurips.cc/virtual/2026/poster/150971	pending	-
-150986	Follow the Regularized Leader Does Not Converge in Constrained Optimization	https://neurips.cc/virtual/2026/poster/150986	pending	-
-148167	Follow the Winners: Conservative Policy Improvement with the Cross-Entropy Method for Critic-Free RFT	https://neurips.cc/virtual/2026/poster/148167	pending	-
-154247	FoMEMO: Towards Foundation Models for Expensive Multi-objective Optimization	https://neurips.cc/virtual/2026/poster/154247	pending	-
-152890	FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance	https://neurips.cc/virtual/2026/poster/152890	pending	-
-138956	ForceBody: Force-Paired Parametric Body Motion with Torque Uncertainty	https://neurips.cc/virtual/2026/poster/138956	pending	-
-150914	Forced Deferral: Manipulating Routing Decisions in Multimodal LLM Cascades	https://neurips.cc/virtual/2026/poster/150914	pending	-
-139069	Forced Orders: What LLM Leaderboards Hide About Model Comparisons	https://neurips.cc/virtual/2026/poster/139069	pending	-
-151896	ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching	https://neurips.cc/virtual/2026/poster/151896	pending	-
-156065	ForceLDM: A Force-aware Latent Dynamics Model for Contact-Rich Manipulation	https://neurips.cc/virtual/2026/poster/156065	pending	-
-153936	ForecastCompass: Guiding Agentic Forecasting with Adaptive Factor Memory	https://neurips.cc/virtual/2026/poster/153936	pending	-
-152033	Forecasting Downstream Performance of LLMs With Proxy Metrics	https://neurips.cc/virtual/2026/poster/152033	pending	-
-139668	Forecasting Microbial Dynamics: Evaluation Protocol and Prior-Spectrum Benchmark	https://neurips.cc/virtual/2026/poster/139668	pending	-
-151608	ForesightFlow: Self-Guided Flow Matching for Improving Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/151608	pending	-
-150820	Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering	https://neurips.cc/virtual/2026/poster/150820	pending	-
-150137	Forest-Guided Semantic Transport for Label-Supervised Manifold Alignment	https://neurips.cc/virtual/2026/poster/150137	pending	-
-153986	Forgery Evidence Peaks Mid-Stack: Forensic Evidence Relay for Multimodal Forgery Detection	https://neurips.cc/virtual/2026/poster/153986	pending	-
-152962	Forgetting Has Neighbors: Localized Collateral Forgetting in Machine Unlearning	https://neurips.cc/virtual/2026/poster/152962	pending	-
-155114	Forgetting is Not Always Bad: A Neuro-Inspired Memory Repair Mechanism for Poisoned LLM Agents	https://neurips.cc/virtual/2026/poster/155114	pending	-
-148637	Forgetting to Improve: Principled Data Removal in Active Learning	https://neurips.cc/virtual/2026/poster/148637	pending	-
-139299	Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics	https://neurips.cc/virtual/2026/poster/139299	pending	-
-149516	Forward Shapley Scoring for Non-Myopic Active Feature Acquisition	https://neurips.cc/virtual/2026/poster/149516	pending	-
-150383	Foundation Model Informed Acquisition Functions for Molecular Discovery	https://neurips.cc/virtual/2026/poster/150383	pending	-
+150481	Focal Reward: Balanced Reinforcement Learning under Rubric-Based Rewards	https://neurips.cc/virtual/2026/poster/150481	included	按当前准则饱和程度动态分配奖励权重
+153419	Focusable Monocular Depth Estimation	https://neurips.cc/virtual/2026/poster/153419	included	用提示为特定区域分配深度估计能力
+149269	Focus, Align, and Diffuse: Time-Series-Aware Keyframe Diffusion for Cardiac Dynamic Synthesis from Sparse Observations	https://neurips.cc/virtual/2026/poster/149269	included	先重建兼顾可恢复与可对齐的关键帧
+139808	FOCUS: Benchmarking Retinal Model Generalization from Foundation Vision Encoders to Multimodal LLMs	https://neurips.cc/virtual/2026/poster/139808	included	将排序能力与校准分开测试
+152059	FocusBranch: Combinatorial Branch-and-Bound for $\ell_0$ Neural Network Robustness Verification	https://neurips.cc/virtual/2026/poster/152059	included	按局部错误预算组织可验证子问题
+148676	Focused Forcing: Content-Aware Per-Frame KV Selection for Efficient Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/148676	included	按生成帧和注意力头分配历史缓存
+155238	Focusing Influence Mechanism for Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155238	included	把协作探索持续集中在欠覆盖状态
+155092	Focus Matters: Attention-Value Dynamics for Hallucination Mitigation in Vision-Language Models	https://neurips.cc/virtual/2026/poster/155092	included	检查低注意力位置的值向量对幻觉的作用
+149699	FocusNav: Learning Task-directed Perception via Action-Aware Future Reconstruction in Vision-and-Language Navigation	https://neurips.cc/virtual/2026/poster/149699	included	给感知增加动作条件的未来视觉监督
+150522	Focus on Where You Aggregate: Restricted SAM for Non-IID Federated Learning	https://neurips.cc/virtual/2026/poster/150522	included	把平坦化限制在参数实际聚合区域
+149765	FocusVLA: Hijacking Attention to Break Visual Token Pruning in Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/149765	excluded	主要贡献为破坏模型推理的攻击机制，未提取独立的防御方法。
+154923	FogGS: Physics-Grounded 3D Foggy Effects	https://neurips.cc/virtual/2026/poster/154923	included	将雾作为可编辑的光传输场与几何合成
+152816	FOGO: Forgetting-aware Orthogonalization Optimizer	https://neurips.cc/virtual/2026/poster/152816	included	用历史方向识别当前更新对稀有模式的干扰
+149721	FoldAbS: Repurposing the Protein Folding Model as a Foundation Encoder for Antibody Screening	https://neurips.cc/virtual/2026/poster/149721	excluded	贡献集中在特定生物分子筛选，未提取独立的通用研究机制。
+139022	Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following	https://neurips.cc/virtual/2026/poster/139022	included	联合测跟随中的身份保持、遮挡恢复和舒适距离
+150971	Follow the Mean: Reference-Guided Flow Matching	https://neurips.cc/virtual/2026/poster/150971	included	换参考集而不重训模型以控制生成属性
+150986	Follow the Regularized Leader Does Not Converge in Constrained Optimization	https://neurips.cc/virtual/2026/poster/150986	included	同时监测目标值和 KKT 残差
+148167	Follow the Winners: Conservative Policy Improvement with the Cross-Entropy Method for Critic-Free RFT	https://neurips.cc/virtual/2026/poster/148167	included	用回报排序的多项式集中控制无评论器微调
+154247	FoMEMO: Towards Foundation Models for Expensive Multi-objective Optimization	https://neurips.cc/virtual/2026/poster/154247	included	按偏好拆解后验学习
+152890	FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance	https://neurips.cc/virtual/2026/poster/152890	included	用扩散分叉时刻生成感知距离标注
+138956	ForceBody: Force-Paired Parametric Body Motion with Torque Uncertainty	https://neurips.cc/virtual/2026/poster/138956	included	用标签不确定度加权逆动力学监督
+150914	Forced Deferral: Manipulating Routing Decisions in Multimodal LLM Cascades	https://neurips.cc/virtual/2026/poster/150914	excluded	摘要重点是操纵级联模型路由，缺少独立验证的防御技术。
+139069	Forced Orders: What LLM Leaderboards Hide About Model Comparisons	https://neurips.cc/virtual/2026/poster/139069	included	用能力分层表达榜单无法支持的精细排序
+151896	ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching	https://neurips.cc/virtual/2026/poster/151896	included	分别建模视觉接近与力觉接触
+156065	ForceLDM: A Force-aware Latent Dynamics Model for Contact-Rich Manipulation	https://neurips.cc/virtual/2026/poster/156065	included	用未来力觉教当前观测策略预测接触
+153936	ForecastCompass: Guiding Agentic Forecasting with Adaptive Factor Memory	https://neurips.cc/virtual/2026/poster/153936	included	分开存预测因子和概率校准经验
+152033	Forecasting Downstream Performance of LLMs With Proxy Metrics	https://neurips.cc/virtual/2026/poster/152033	included	用专家解答上的分布统计预测模型下游能力
+139668	Forecasting Microbial Dynamics: Evaluation Protocol and Prior-Spectrum Benchmark	https://neurips.cc/virtual/2026/poster/139668	included	按样本量和预测跨度比较时间序列先验
+151608	ForesightFlow: Self-Guided Flow Matching for Improving Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/151608	included	把动作改进加权与成功评分校准分开
+150820	Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering	https://neurips.cc/virtual/2026/poster/150820	included	用远端证据反馈修正局部路径剪枝
+150137	Forest-Guided Semantic Transport for Label-Supervised Manifold Alignment	https://neurips.cc/virtual/2026/poster/150137	included	用标签指导的森林邻近性替换欧氏距离
+153986	Forgery Evidence Peaks Mid-Stack: Forensic Evidence Relay for Multimodal Forgery Detection	https://neurips.cc/virtual/2026/poster/153986	included	按逐层证据探针选择检测特征读出层
+152962	Forgetting Has Neighbors: Localized Collateral Forgetting in Machine Unlearning	https://neurips.cc/virtual/2026/poster/152962	included	在删除集合邻域单独衡量遗忘副作用
+155114	Forgetting is Not Always Bad: A Neuro-Inspired Memory Repair Mechanism for Poisoned LLM Agents	https://neurips.cc/virtual/2026/poster/155114	included	对异常记忆进行选择性抑制并验证正常任务保持
+148637	Forgetting to Improve: Principled Data Removal in Active Learning	https://neurips.cc/virtual/2026/poster/148637	included	模型失配时检验删除有害样本能否改进目标任务
+139299	Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics	https://neurips.cc/virtual/2026/poster/139299	included	用冻结的 Lean 开放猜想与已解任务分别测证明和形式化
+149516	Forward Shapley Scoring for Non-Myopic Active Feature Acquisition	https://neurips.cc/virtual/2026/poster/149516	included	用组合边际价值选择当前查询
+150383	Foundation Model Informed Acquisition Functions for Molecular Discovery	https://neurips.cc/virtual/2026/poster/150383	excluded	主要证据和应用集中于分子发现，暂不提炼应用方法。
 150902	Foundation Models for Particle Accelerators	https://neurips.cc/virtual/2026/poster/150902	pending	-
 150940	Foundation Pareto Flow Policy for Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150940	pending	-
 150485	Foundations of Categorical Equivariant Deep Learning	https://neurips.cc/virtual/2026/poster/150485	pending	-
