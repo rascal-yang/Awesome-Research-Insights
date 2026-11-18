@@ -3,8 +3,8 @@ number	openreview_id	title	paper_url	reason	status
 2	2Z8xQxrlsY	EmbodiSteer: Steering Embodiment-Agnostic Visuomotor Policies with Joint-Space Guidance for Zero-Shot Cross-Embodiment Deployment	https://openreview.net/forum?id=2Z8xQxrlsY	对照采样后逆解与采样内关节引导，评估全身碰撞与任务成功。	included
 3	z47bcul4Zk	Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering	https://openreview.net/forum?id=z47bcul4Zk	在冻结 VLA 外用校准后的干预门槛选择闭环改写或回退原指令。	included
 4	5TiiTY1fK3	MEM: Multi-Scale Embodied Memory for Vision Language Action Models	https://openreview.net/forum?id=5TiiTY1fK3	将短时运动和遮挡信息保留在视频记忆，把已完成的长时语义事件写入摘要。	included
-5	Q6xWLHyg6x	MolmoAct2: Action Reasoning Models for Real-World Deployment	https://openreview.net/forum?id=Q6xWLHyg6x		pending
-6	QwpnI3BlwT	PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations	https://openreview.net/forum?id=QwpnI3BlwT		pending
+5	Q6xWLHyg6x	MolmoAct2: Action Reasoning Models for Real-World Deployment	https://openreview.net/forum?id=Q6xWLHyg6x	按区域变化决定何时重算深度 token	included
+6	QwpnI3BlwT	PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations	https://openreview.net/forum?id=QwpnI3BlwT	把离线轨迹的目标可达性作为 VLA 辅助目标	included
 7	YTw6LOO9C5	Semantic Anchoring for Robotic Action Representations	https://openreview.net/forum?id=YTw6LOO9C5	微调时分开保护可迁移语义与动作专有信息	included
 8	HmdwOezjlQ	When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs	https://openreview.net/forum?id=HmdwOezjlQ	固定场景替换可执行指令，分测语言落地与任务成功；对照有无无条件动作预测的引导。	included
 9	4RLjGPEfpH	ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation	https://openreview.net/forum?id=4RLjGPEfpH	跨本体零样本评测应分开报告目标机器人完全未见和仅预训练已见两种协议。	included
