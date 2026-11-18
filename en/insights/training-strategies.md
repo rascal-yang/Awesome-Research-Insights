@@ -259,6 +259,7 @@ Training schedules, curricula, and task or stage composition.
 - [Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26jc-training-strategies) · 中文
 - [The Role of Target Update Frequencies in Q-Learning](../../conferences/icml-2026/cards/4901-5000.md#weissmann26a-training-strategies) · 中文
 - [Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26j-training-strategies) · 中文
+- [Mind Dreamer: Untethering Imagination via Active Causal Intervention on Latent Manifolds](../../conferences/icml-2026/cards/5201-5300.md#xu26cp-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 

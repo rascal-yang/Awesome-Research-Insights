@@ -259,6 +259,7 @@
 - [TD误差累计均值的平方根熵调度](../conferences/icml-2026/cards/4801-4900.md#wang26jc-training-strategies) · Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning
 - [几何增长的目标网络冻结周期](../conferences/icml-2026/cards/4901-5000.md#weissmann26a-training-strategies) · The Role of Target Update Frequencies in Q-Learning
 - [用BC对数概率预热AIL奖励](../conferences/icml-2026/cards/5201-5300.md#xu26j-training-strategies) · Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning
+- [合成潜在起点与relay价值训练](../conferences/icml-2026/cards/5201-5300.md#xu26cp-training-strategies) · Mind Dreamer: Untethering Imagination via Active Causal Intervention on Latent Manifolds
 
 <a id="by-robotics"></a>
 

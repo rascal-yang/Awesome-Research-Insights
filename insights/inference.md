@@ -670,6 +670,7 @@
 - [纠错对比向量的区域指代注入](../conferences/icml-2026/cards/5101-5200.md#xing26e-inference) · Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering
 - [模态内纠正量与跨模态残差门控](../conferences/icml-2026/cards/5201-5300.md#xiong26n-inference) · Geometry-based Schrödinger Bridges for Trustworthy Multimodal Fusion
 - [按解码步的视觉attention分配token预算](../conferences/icml-2026/cards/5201-5300.md#xu26w-inference) · VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning
+- [任务分布间隔决定模态路由权重](../conferences/icml-2026/cards/5201-5300.md#xu26cj-inference) · Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning
 
 <a id="by-ml-foundations"></a>
 

@@ -670,6 +670,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering](../../conferences/icml-2026/cards/5101-5200.md#xing26e-inference) · 中文
 - [Geometry-based Schrödinger Bridges for Trustworthy Multimodal Fusion](../../conferences/icml-2026/cards/5201-5300.md#xiong26n-inference) · 中文
 - [VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26w-inference) · 中文
+- [Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning](../../conferences/icml-2026/cards/5201-5300.md#xu26cj-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

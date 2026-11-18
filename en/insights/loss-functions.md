@@ -111,6 +111,8 @@ Objectives, auxiliary supervision, and regularization.
 - [PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward](../../conferences/icml-2026/cards/5001-5100.md#wu26ay-loss-functions) · 中文
 - [CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26bm-loss-functions) · 中文
 - [BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26s-loss-functions) · 中文
+- [Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#xue26c-loss-functions) · 中文
+- [Physics-Guided Motion Loss for Video Generation Model](../../conferences/icml-2026/cards/5301-5400.md#xue26d-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -143,6 +145,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Distributional Inverse Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26ch-loss-functions) · 中文
 - [Offline Multi-agent Continual Cooperation via Skill Partition and Reuse](../../conferences/icml-2026/cards/5101-5200.md#xiao26v-loss-functions) · 中文
 - [Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism](../../conferences/icml-2026/cards/5201-5300.md#xu26bk-loss-functions) · 中文
+- [Path-Coupled Bellman Flows for Distributional Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#xu26ct-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

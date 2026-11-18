@@ -442,6 +442,7 @@
 - [最大密度间隔选择联邦邻域](../conferences/icml-2026/cards/5101-5200.md#xin26b-optimization) · FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning
 - [随机方向差分驱动的步长阻尼](../conferences/icml-2026/cards/5201-5300.md#xu26as-optimization) · Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization
 - [分离稀疏隐式偏置与过零动力学](../conferences/icml-2026/cards/5201-5300.md#xu26bx-optimization) · Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate
+- [条件最坏分布的输运与反应采样](../conferences/icml-2026/cards/5301-5400.md#xu26cr-optimization) · Gradient Flow Sampler-based Distributionally Robust Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

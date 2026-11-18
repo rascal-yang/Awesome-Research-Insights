@@ -116,6 +116,7 @@
 - [非稀疏视频head的帧块原型复用](../conferences/icml-2026/cards/5101-5200.md#xia26c-modules) · EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Video Generation
 - [两时间源特征的三维编辑引导](../conferences/icml-2026/cards/5101-5200.md#xia26h-modules) · Towards Scalable and Consistent 3D Editing
 - [逐层同步的相位注意力](../conferences/icml-2026/cards/5101-5200.md#xiao26r-modules) · Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency
+- [按维度KL预算约束的随机码本量化](../conferences/icml-2026/cards/5201-5300.md#xu26cn-modules) · Training-Free Vector Quantization via Gaussian VAEs
 
 <a id="by-nlp"></a>
 

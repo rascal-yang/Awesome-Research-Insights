@@ -401,6 +401,7 @@
 - <a id="xing26e-inference"></a>[Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering](../conferences/icml-2026/cards/5101-5200.md#paper-xing26e)
 - <a id="xiong26n-inference"></a>[Geometry-based Schrödinger Bridges for Trustworthy Multimodal Fusion](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26n)
 - <a id="xu26w-inference"></a>[VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26w)
+- <a id="xu26cj-inference"></a>[Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cj)
 
 <a id="by-representation-learning"></a>
 

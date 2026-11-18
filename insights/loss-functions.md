@@ -111,6 +111,8 @@
 - [负样本反射目标的偏好训练](../conferences/icml-2026/cards/5001-5100.md#wu26ay-loss-functions) · PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward
 - [按回报分支施加区域约束](../conferences/icml-2026/cards/5001-5100.md#wu26bm-loss-functions) · CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning
 - [对语义配对真假样本限制过分分离](../conferences/icml-2026/cards/5201-5300.md#xu26s-loss-functions) · BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning
+- [有符号优势加权的匹配后训练](../conferences/icml-2026/cards/5301-5400.md#xue26c-loss-functions) · Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models
+- [SIM2频谱运动残差正则](../conferences/icml-2026/cards/5301-5400.md#xue26d-loss-functions) · Physics-Guided Motion Loss for Video Generation Model
 
 <a id="by-nlp"></a>
 
@@ -143,6 +145,7 @@
 - [随机占优约束的分布式逆强化学习](../conferences/icml-2026/cards/5001-5100.md#wu26ch-loss-functions) · Distributional Inverse Reinforcement Learning
 - [状态密度控制的技能复用优势](../conferences/icml-2026/cards/5101-5200.md#xiao26v-loss-functions) · Offline Multi-agent Continual Cooperation via Skill Partition and Reuse
 - [把Bellman可行性施加到在线状态](../conferences/icml-2026/cards/5201-5300.md#xu26bk-loss-functions) · Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism
+- [保持源边界的Bellman路径耦合](../conferences/icml-2026/cards/5301-5400.md#xu26ct-loss-functions) · Path-Coupled Bellman Flows for Distributional Reinforcement Learning
 
 <a id="by-robotics"></a>
 

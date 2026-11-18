@@ -131,6 +131,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xia26c-modules"></a>[EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Video Generation](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26c)
 - <a id="xia26h-modules"></a>[Towards Scalable and Consistent 3D Editing](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26h)
 - <a id="xiao26r-modules"></a>[Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26r)
+- <a id="xu26cn-modules"></a>[Training-Free Vector Quantization via Gaussian VAEs](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cn)
 
 <a id="by-loss-functions"></a>
 
@@ -181,6 +182,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wu26ay-loss-functions"></a>[PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ay)
 - <a id="wu26bm-loss-functions"></a>[CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26bm)
 - <a id="xu26s-loss-functions"></a>[BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26s)
+- <a id="xue26c-loss-functions"></a>[Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26c)
+- <a id="xue26d-loss-functions"></a>[Physics-Guided Motion Loss for Video Generation Model](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26d)
 
 <a id="by-optimization"></a>
 

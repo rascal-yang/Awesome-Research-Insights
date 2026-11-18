@@ -156,6 +156,7 @@ Model-wide design and information flow.
 - [Path-dependent Discrete Amortized Inference](../../conferences/icml-2026/cards/4101-4200.md#silva26a-architecture) · 中文
 - [Recurrent Structural Policy Gradient for Partially Observable Mean Field Games](../../conferences/icml-2026/cards/4901-5000.md#wibault26a-architecture) · 中文
 - [Self-supervised Hierarchical Visual Reasoning with World Model](../../conferences/icml-2026/cards/5201-5300.md#xu26ak-architecture) · 中文
+- [Learning Disentangled Multi-Agent World Model for Decentralized Control](../../conferences/icml-2026/cards/5301-5400.md#xue26e-architecture) · 中文
 
 <a id="by-robotics"></a>
 

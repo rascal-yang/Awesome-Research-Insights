@@ -614,6 +614,7 @@
 - [私有minimax值函数的无Hessian鞍点逃逸](../conferences/icml-2026/cards/5201-5300.md#xu26ba-theory-statistics) · Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization
 - [冻结特征下的初始化遗忘时标](../conferences/icml-2026/cards/5201-5300.md#xu26bd-theory-statistics) · To Grok Grokking: Provable Grokking in Ridge Regression
 - [先相似性后属性的课程非对称](../conferences/icml-2026/cards/5201-5300.md#xu26bu-theory-statistics) · Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers
+- [部分标签补全的可学习性边界](../conferences/icml-2026/cards/5301-5400.md#xu26cs-theory-statistics) · On Learnability and Disambiguation of Multiclass Partial Concept Classes
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -442,6 +442,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#xin26b-optimization) · 中文
 - [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26as-optimization) · 中文
 - [Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate](../../conferences/icml-2026/cards/5201-5300.md#xu26bx-optimization) · 中文
+- [Gradient Flow Sampler-based Distributionally Robust Optimization](../../conferences/icml-2026/cards/5301-5400.md#xu26cr-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

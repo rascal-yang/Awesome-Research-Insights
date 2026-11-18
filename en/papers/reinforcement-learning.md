@@ -24,6 +24,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="silva26a-architecture"></a>[Path-dependent Discrete Amortized Inference](../../conferences/icml-2026/cards/4101-4200.md#paper-silva26a)
 - <a id="wibault26a-architecture"></a>[Recurrent Structural Policy Gradient for Partially Observable Mean Field Games](../../conferences/icml-2026/cards/4901-5000.md#paper-wibault26a)
 - <a id="xu26ak-architecture"></a>[Self-supervised Hierarchical Visual Reasoning with World Model](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ak)
+- <a id="xue26e-architecture"></a>[Learning Disentangled Multi-Agent World Model for Decentralized Control](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26e)
 
 <a id="by-modules"></a>
 
@@ -56,6 +57,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="wu26ch-loss-functions"></a>[Distributional Inverse Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ch)
 - <a id="xiao26v-loss-functions"></a>[Offline Multi-agent Continual Cooperation via Skill Partition and Reuse](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26v)
 - <a id="xu26bk-loss-functions"></a>[Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bk)
+- <a id="xu26ct-loss-functions"></a>[Path-Coupled Bellman Flows for Distributional Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-xu26ct)
 
 <a id="by-optimization"></a>
 
@@ -221,6 +223,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="wang26jc-training-strategies"></a>[Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jc)
 - <a id="weissmann26a-training-strategies"></a>[The Role of Target Update Frequencies in Q-Learning](../../conferences/icml-2026/cards/4901-5000.md#paper-weissmann26a)
 - <a id="xu26j-training-strategies"></a>[Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26j)
+- <a id="xu26cp-training-strategies"></a>[Mind Dreamer: Untethering Imagination via Active Causal Intervention on Latent Manifolds](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cp)
 
 <a id="by-data-strategies"></a>
 

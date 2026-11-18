@@ -5290,26 +5290,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5289	xu26ce	4	4	3	4	76		初筛，原文与先例核查待补：暂定评分依据：冻结单表ICL模型前处理关系数据库时，可先按原始列×meta-path分别聚合，再交ICL根据labels筛选相关列，避免无监督跨列混合使少量相关特征难以恢复。；边界：假设encoder无任务labels/metadata，历史labels或LLM schema知识可改选择；列/path数扩张与aggregation信息损失仍有成本，parameter-free非无限expressive，任务表名/同算量比较待核。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26ce/xu26ce.pdf#page=3)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26ce/xu26ce.pdf#page=5)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26ce/xu26ce.pdf#page=7)	scored
 5290	xu26cf	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：LLM kernel优化可先按source module隔离子图、缓存同构实现，再以已验证子计划提出全/部分融合；每次选实测延迟最小者，而非一次扁平生成。；边界：source hierarchy是heuristic限制非全局最优；Bellman成本加法未囊括所有launch/cache交互。验证只覆盖测试shape/input不等语义全保证；agent并行硬件和token开销需计入。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26cf/xu26cf.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26cf/xu26cf.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26cf/xu26cf.pdf#page=6)	scored
 5291	xu26cg	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：分段speculative reasoning可在target同次前向接安全head，以安全优先的accept/regenerate/recover路由替代额外外部分类调用；仍需同时衡量误拒和unsafe漏判。；边界：质量阈值接受不是精确token speculative分布保持；安全head是经验分类非证书，多样本安全概率需独立/有safe支持假设。反思和多采样成本、训练数据泄漏及head OOD校准待核。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26cg/xu26cg.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26cg/xu26cg.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26cg/xu26cg.pdf#page=6)	scored
-5292	xu26ch							待原文复核评分	pending
-5293	xu26ci							待原文复核评分	pending
-5294	xu26cj							待原文复核评分	pending
-5295	xu26ck							待原文复核评分	pending
-5296	xu26cl							待原文复核评分	pending
-5297	xu26cm							待原文复核评分	pending
-5298	xu26cn							待原文复核评分	pending
-5299	xu26co							待原文复核评分	pending
-5300	xu26cp							待原文复核评分	pending
-5301	xu26cq							待原文复核评分	pending
-5302	xu26cr							待原文复核评分	pending
-5303	xu26cs							待原文复核评分	pending
-5304	xu26ct							待原文复核评分	pending
-5305	xue26a							待原文复核评分	pending
-5306	xue26b							待原文复核评分	pending
-5307	xue26c							待原文复核评分	pending
-5308	xue26d							待原文复核评分	pending
-5309	xue26e							待原文复核评分	pending
-5310	xue26f							待原文复核评分	pending
-5311	xue26g							待原文复核评分	pending
+5292	xu26ch							初筛，原文与先例核查待补：第4–5/7页采用长尾样本router、现有多模态检索与用triplet IoU监督reranker做ICL；当前未识别超出成熟选择性检索示例学习/相似度监督的独立规则，不能仅因新手术场景或长尾提升保留。	rule-excluded
+5293	xu26ci							初筛，原文与先例核查待补：第4–5/7页单通道tokenizer与神经元/时间双轴自回归、会话embedding适配为成熟架构组合；当前未识别脱离新记录模态后独立的新目标/推理操作，不以多会话预训练和下游跑分作为新增量。	rule-excluded
+5294	xu26cj	3	4	3	3	66		初筛，原文与先例核查待补：任务分布间隔决定模态路由权重给出局部操作或条件性边界，新增量暂3、复用4、使用性3、独特性3；第4、5、6、7页。最近先例、控制和全库重复待统一核查。	scored
+5295	xu26ck							初筛，原文与先例核查待补：仅依据摘要及已有高层贡献描述：候选通用部分为跨模态对齐、多分辨率条件化和异质聚合，当前未识别能脱离专用生物/化学条件独立改变神经设计的新操作。以高度专用及缺明确独立通用技术选择初筛排除，不声称已核全部专用方法或其先例。	rule-excluded
+5296	xu26cl							初筛，原文与先例核查待补：第4–5/7页统一检测/修复专家与diagnose-then-repair多步自校正课程，当前主要是成熟多任务/工具式纠错组合及新配对数据；未识别独立新目标或控制规律，不能按闭环流程命名保留。	rule-excluded
+5297	xu26cm							初筛，原文与先例核查待补：第4–5/7页先模拟离散问答/评分联合分布，再用标准EIG挑问卷并固定评分，是成熟主动测量用于rubric构造。当前未识别新的EIG估计/选择操作；一致性改善和新主观评测场景不足以建立独立新增量，granularity规律的匹配控制待核实。	rule-excluded
+5298	xu26cn	3	4	4	4	73		初筛，原文与先例核查待补：按维度KL预算约束的随机码本量化给出局部操作或条件性边界，新增量暂3、复用4、使用性4、独特性4；第3、4、5、7页。最近先例、控制和全库重复待统一核查。	scored
+5299	xu26co							初筛，原文与先例核查待补：第4–5/7页构建生成/反例测试/修复benchmark并使用已有OJ原生验证与test-time scaling；当前未识别独立训练/推理规则。新任务覆盖和完整分数程序仍能被反例击穿的现象本身不足以与成熟测试生成经验区分。	rule-excluded
+5300	xu26cp	3	4	3	3	66		初筛，原文与先例核查待补：合成潜在起点与relay价值训练给出局部操作或条件性边界，新增量暂3、复用4、使用性3、独特性3；第4、5、7、8页。最近先例、控制和全库重复待统一核查。	scored
+5301	xu26cq							初筛，原文与先例核查待补：第5页明确用同动力学参数分组的标准多正样本InfoNCE（Khosla2020）叠加VAE上下文与RL；当前未识别超出成熟监督对比域编码的新操作。有限样本对比损失不自动控制全局encoder Lipschitz，理论强条件需后核，不能用该承诺建立新增量。	rule-excluded
+5302	xu26cr	3	4	3	3	66		初筛，原文与先例核查待补：条件最坏分布的输运与反应采样给出局部操作或条件性边界，新增量暂3、复用4、使用性3、独特性3；第4、5、7、8、9页。最近先例、控制和全库重复待统一核查。	scored
+5303	xu26cs	3	3	2	3	56		初筛，原文与先例核查待补：部分标签补全的可学习性边界给出局部操作或条件性边界，新增量暂3、复用3、使用性2、独特性3；第4、5、7、8页。最近先例、控制和全库重复待统一核查。	scored
+5304	xu26ct	3	4	4	4	73		初筛，原文与先例核查待补：保持源边界的Bellman路径耦合给出局部操作或条件性边界，新增量暂3、复用4、使用性4、独特性4；第4、5、7、8、9页。最近先例、控制和全库重复待统一核查。	scored
+5305	xue26a							初筛，原文与先例核查待补：第4–5/7页权重SVD rank1分解、按目标贡献选子空间及重建/删减/缩放消融均为成熟谱分析操作；当前未识别超出旧SVD解释/剪枝的新关系量。权重精确分解不等非线性网络机制完整保真或严格直接因果归因。	rule-excluded
+5306	xue26b							初筛，原文与先例核查待补：第4–5/7页频率非均匀压缩、时频多尺度卷积/门控双分支及免训练后处理构成语音增强组合；当前未识别独立新通用目标或受控选择规律，不能按新模块缩写/轻量跑分保留，lossless boosting也不是严格无损保证。	rule-excluded
+5307	xue26c	3	4	4	4	73		初筛，原文与先例核查待补：有符号优势加权的匹配后训练给出局部操作或条件性边界，新增量暂3、复用4、使用性4、独特性4；第4、5、6、7页。最近先例、控制和全库重复待统一核查。	scored
+5308	xue26d	3	4	3	3	66		初筛，原文与先例核查待补：SIM2频谱运动残差正则给出局部操作或条件性边界，新增量暂3、复用4、使用性3、独特性3；第4、5、6、7页。最近先例、控制和全库重复待统一核查。	scored
+5309	xue26e	3	4	3	3	66		初筛，原文与先例核查待补：局部后验监督联合想象先验给出局部操作或条件性边界，新增量暂3、复用4、使用性3、独特性3；第4、5、7页。最近先例、控制和全库重复待统一核查。	scored
+5310	xue26f							初筛，原文与先例核查待补：第4–5/7页构造安全配对、SVD不良子空间投影并在安全空间微调codebook，是成熟概念擦除/投影与自训练迁至视觉码本；当前未识别独立新操作，安全指标降低不单独证明新增量或完整安全。	rule-excluded
+5311	xue26g							初筛，原文与先例核查待补：第4–5/7页物理一致惯性用既有pseudo-inertia/Cholesky随机化，语义关节padding明确沿用已有映射，再加形态条件策略；当前未识别超出成熟域随机化/对齐接口的新规则或独立控制规律，不以12模拟/7真机规模自动保留。	rule-excluded
 5312	xue26h							待原文复核评分	pending
 5313	xue26i							待原文复核评分	pending
 5314	xue26j							待原文复核评分	pending
