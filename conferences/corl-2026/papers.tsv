@@ -41,8 +41,8 @@ number	openreview_id	title	paper_url	reason	status
 40	fGWkovHMQE	ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation	https://openreview.net/forum?id=fGWkovHMQE	先预测子目标画面，再根据画面推断如何达到它	included
 41	EfgCnZgmvN	Unified Motion-Action Modeling for Heterogeneous Robot Learning	https://openreview.net/forum?id=EfgCnZgmvN	用可切换的掩码统一物体运动预测与机器人控制	included
 42	iy5oCeLdEF	ELA: End-to-End Latent Action Policy Learning from Video Demonstrations	https://openreview.net/forum?id=iy5oCeLdEF	用下游控制与解码目标一起训练视频潜动作	included
-43	ghx1d6PQUR	HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model	https://openreview.net/forum?id=ghx1d6PQUR		pending
-44	yNHgrgATuY	FIBERTUNE: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning	https://openreview.net/forum?id=yNHgrgATuY		pending
+43	ghx1d6PQUR	HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model	https://openreview.net/forum?id=ghx1d6PQUR	用少量配对示范对齐人机视觉后再混训潜动作	included
+44	yNHgrgATuY	FIBERTUNE: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning	https://openreview.net/forum?id=yNHgrgATuY	将动作可预测方向滤除后再蒸馏视觉残差	included
 45	Y55iJjxMsh	Compositional Diffusion Policy for Vision–Language–Action Agents	https://openreview.net/forum?id=Y55iJjxMsh		pending
 46	03qRtmw4qx	Learning Additively Compositional Latent Actions for Embodied AI	https://openreview.net/forum?id=03qRtmw4qx		pending
 47	JKoP9L6myQ	PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning	https://openreview.net/forum?id=JKoP9L6myQ		pending
