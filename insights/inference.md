@@ -355,6 +355,9 @@
 - [模型与输出长度预算联合路由](../conferences/icml-2026/cards/5301-5400.md#xue26h-inference) · R2-Router: A New Paradigm for LLM Routing with Reasoning
 - [草稿模型多信号推理早停](../conferences/icml-2026/cards/5301-5400.md#yang26a-inference) · SpecExit: Accelerating Large Reasoning Model via Speculative Exit
 - [被逐出KV另存残差记忆](../conferences/icml-2026/cards/5301-5400.md#yang26p-inference) · IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference
+- [Top-p校准与head缓存物理重排](../conferences/icml-2026/cards/5401-5500.md#yang26bj-inference) · HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression
+- [历史query重权的value leverage淘汰](../conferences/icml-2026/cards/5401-5500.md#yang26bv-inference) · Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective
+- [候选后继entropy驱动的mask解码](../conferences/icml-2026/cards/5401-5500.md#yang26bx-inference) · Improving Sampling for Masked Diffusion Models via Information Gain
 
 <a id="by-computer-vision"></a>
 

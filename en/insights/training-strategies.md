@@ -161,6 +161,7 @@ Training schedules, curricula, and task or stage composition.
 - [Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning](../../conferences/icml-2026/cards/5301-5400.md#yang26r-training-strategies) · 中文
 - [Batched Contextual Reinforcement](../../conferences/icml-2026/cards/5401-5500.md#yang26bb-training-strategies) · 中文
 - [Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation](../../conferences/icml-2026/cards/5401-5500.md#yang26bg-training-strategies) · 中文
+- [AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure](../../conferences/icml-2026/cards/5401-5500.md#yang26bo-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -237,6 +238,8 @@ Training schedules, curricula, and task or stage composition.
 - [VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos](../../conferences/icml-2026/cards/5001-5100.md#wu26cg-training-strategies) · 中文
 - [SHERPA: Fine-tuning Segment Anything Models with Task-relevant Guidance](../../conferences/icml-2026/cards/5101-5200.md#xie26g-training-strategies) · 中文
 - [PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation](../../conferences/icml-2026/cards/5201-5300.md#xu26bm-training-strategies) · 中文
+- [Diffusion Controller: Framework, Algorithms and Parameterization](../../conferences/icml-2026/cards/5401-5500.md#yang26bk-training-strategies) · 中文
+- [Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](../../conferences/icml-2026/cards/5401-5500.md#yang26bn-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

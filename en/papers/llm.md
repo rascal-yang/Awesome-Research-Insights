@@ -66,6 +66,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26gr-architecture"></a>[Dynamic Linear Attention](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gr)
 - <a id="wei26h-architecture"></a>[RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26h)
 - <a id="xue26k-architecture"></a>[Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26k)
+- <a id="yang26bp-architecture"></a>[Recursive Models for Long-Horizon Reasoning](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bp)
 
 <a id="by-modules"></a>
 
@@ -271,6 +272,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xiong26k-optimization"></a>[Principled SVD-based Delta Compression via Quantization Error Minimization](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26k)
 - <a id="xu26am-optimization"></a>[Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26am)
 - <a id="yan26q-optimization"></a>[PLoRA: Efficient Concurrent LoRA Training for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26q)
+- <a id="yang26bm-optimization"></a>[Orthogonal Model Merging](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bm)
+- <a id="yang26bw-optimization"></a>[Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bw)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -610,6 +613,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26r-training-strategies"></a>[Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26r)
 - <a id="yang26bb-training-strategies"></a>[Batched Contextual Reinforcement](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bb)
 - <a id="yang26bg-training-strategies"></a>[Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bg)
+- <a id="yang26bo-training-strategies"></a>[AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bo)
 
 <a id="by-data-strategies"></a>
 
@@ -1043,6 +1047,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xue26h-inference"></a>[R2-Router: A New Paradigm for LLM Routing with Reasoning](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26h)
 - <a id="yang26a-inference"></a>[SpecExit: Accelerating Large Reasoning Model via Speculative Exit](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26a)
 - <a id="yang26p-inference"></a>[IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26p)
+- <a id="yang26bj-inference"></a>[HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bj)
+- <a id="yang26bv-inference"></a>[Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bv)
+- <a id="yang26bx-inference"></a>[Improving Sampling for Masked Diffusion Models via Information Gain](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bx)
 
 <a id="by-representation-learning"></a>
 

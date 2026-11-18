@@ -66,6 +66,7 @@ Model-wide design and information flow.
 - [Dynamic Linear Attention](../../conferences/icml-2026/cards/4701-4800.md#wang26gr-architecture) · 中文
 - [RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference](../../conferences/icml-2026/cards/4901-5000.md#wei26h-architecture) · 中文
 - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../../conferences/icml-2026/cards/5301-5400.md#xue26k-architecture) · 中文
+- [Recursive Models for Long-Horizon Reasoning](../../conferences/icml-2026/cards/5401-5500.md#yang26bp-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -303,6 +304,7 @@ Model-wide design and information flow.
 - [mHC: Manifold-Constrained Hyper-Connections](../../conferences/icml-2026/cards/5101-5200.md#xie26aa-architecture) · 中文
 - [Arboreal Neural Network](../../conferences/icml-2026/cards/5301-5400.md#yan26o-architecture) · 中文
 - [Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks](../../conferences/icml-2026/cards/5301-5400.md#yang26ag-architecture) · 中文
+- [Branching Diffusion for Point Processes in Time and Space](../../conferences/icml-2026/cards/5401-5500.md#yang26bl-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

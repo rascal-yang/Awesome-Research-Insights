@@ -355,6 +355,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [R2-Router: A New Paradigm for LLM Routing with Reasoning](../../conferences/icml-2026/cards/5301-5400.md#xue26h-inference) · 中文
 - [SpecExit: Accelerating Large Reasoning Model via Speculative Exit](../../conferences/icml-2026/cards/5301-5400.md#yang26a-inference) · 中文
 - [IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference](../../conferences/icml-2026/cards/5301-5400.md#yang26p-inference) · 中文
+- [HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression](../../conferences/icml-2026/cards/5401-5500.md#yang26bj-inference) · 中文
+- [Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective](../../conferences/icml-2026/cards/5401-5500.md#yang26bv-inference) · 中文
+- [Improving Sampling for Masked Diffusion Models via Information Gain](../../conferences/icml-2026/cards/5401-5500.md#yang26bx-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

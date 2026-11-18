@@ -109,6 +109,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Principled SVD-based Delta Compression via Quantization Error Minimization](../../conferences/icml-2026/cards/5101-5200.md#xiong26k-optimization) · 中文
 - [Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#xu26am-optimization) · 中文
 - [PLoRA: Efficient Concurrent LoRA Training for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#yan26q-optimization) · 中文
+- [Orthogonal Model Merging](../../conferences/icml-2026/cards/5401-5500.md#yang26bm-optimization) · 中文
+- [Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control](../../conferences/icml-2026/cards/5401-5500.md#yang26bw-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -451,6 +453,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Robust Federated Learning Against Adaptive Compression](../../conferences/icml-2026/cards/5301-5400.md#yan26x-optimization) · 中文
 - [Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability](../../conferences/icml-2026/cards/5301-5400.md#yang26f-optimization) · 中文
 - [Second-Order Bilevel Optimization with Accelerated Convergence Rates](../../conferences/icml-2026/cards/5301-5400.md#yang26au-optimization) · 中文
+- [DecFus: Decentralized Layer-wise Fusion with Dynamic Exploration and Exploitation](../../conferences/icml-2026/cards/5401-5500.md#yang26br-optimization) · 中文
+- [PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training](../../conferences/icml-2026/cards/5401-5500.md#yang26ca-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

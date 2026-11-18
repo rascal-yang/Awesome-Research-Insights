@@ -66,6 +66,7 @@
 - [信息漂移分段的有界多状态记忆](../conferences/icml-2026/cards/4701-4800.md#wang26gr-architecture) · Dynamic Linear Attention
 - [密集稀疏联合循环注意力](../conferences/icml-2026/cards/4901-5000.md#wei26h-architecture) · RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference
 - [同decoder骨干的任意顺序建模](../conferences/icml-2026/cards/5301-5400.md#xue26k-architecture) · Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture
+- [活跃上下文与递归栈的分离](../conferences/icml-2026/cards/5401-5500.md#yang26bp-architecture) · Recursive Models for Long-Horizon Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -303,6 +304,7 @@
 - [双随机残差流混合](../conferences/icml-2026/cards/5101-5200.md#xie26aa-architecture) · mHC: Manifold-Constrained Hyper-Connections
 - [树路径拓扑的全叶softmax路由](../conferences/icml-2026/cards/5301-5400.md#yan26o-architecture) · Arboreal Neural Network
 - [递归复制与跨块连接的DAG生成](../conferences/icml-2026/cards/5301-5400.md#yang26ag-architecture) · Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks
+- [可变事件数的集合扩散](../conferences/icml-2026/cards/5401-5500.md#yang26bl-architecture) · Branching Diffusion for Point Processes in Time and Space
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -83,6 +83,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xie26aa-architecture"></a>[mHC: Manifold-Constrained Hyper-Connections](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26aa)
 - <a id="yan26o-architecture"></a>[Arboreal Neural Network](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26o)
 - <a id="yang26ag-architecture"></a>[Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ag)
+- <a id="yang26bl-architecture"></a>[Branching Diffusion for Point Processes in Time and Space](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bl)
 
 <a id="by-modules"></a>
 
@@ -460,6 +461,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yan26x-optimization"></a>[Robust Federated Learning Against Adaptive Compression](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26x)
 - <a id="yang26f-optimization"></a>[Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26f)
 - <a id="yang26au-optimization"></a>[Second-Order Bilevel Optimization with Accelerated Convergence Rates](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26au)
+- <a id="yang26br-optimization"></a>[DecFus: Decentralized Layer-wise Fusion with Dynamic Exploration and Exploitation](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26br)
+- <a id="yang26ca-optimization"></a>[PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ca)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -590,6 +593,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xu26ab-data-strategies"></a>[Taming the Recent-Data Bias: Towards Robust Time Series Forecasting with Global Context](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ab)
 - <a id="yang26ac-data-strategies"></a>[Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ac)
 - <a id="yang26ao-data-strategies"></a>[ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ao)
+- <a id="yang26bq-data-strategies"></a>[Data Agent: Learning to Select Data via End-to-End Dynamic Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bq)
 
 <a id="by-inference"></a>
 
@@ -1217,4 +1221,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26b-theory-statistics"></a>[Preconditioning Neural Tangent Kernel for Adaptive Optimization](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26b)
 - <a id="yang26c-theory-statistics"></a>[Length Generalization Bounds for Transformers](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26c)
 - <a id="yang26bf-theory-statistics"></a>[One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bf)
+- <a id="yang26bz-theory-statistics"></a>[Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bz)
 <!-- classification:end -->

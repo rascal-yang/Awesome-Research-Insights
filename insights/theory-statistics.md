@@ -621,6 +621,7 @@
 - [按优化器改造局部切线相似度](../conferences/icml-2026/cards/5301-5400.md#yang26b-theory-statistics) · Preconditioning Neural Tangent Kernel for Adaptive Optimization
 - [按精度与语法限制长度证书](../conferences/icml-2026/cards/5301-5400.md#yang26c-theory-statistics) · Length Generalization Bounds for Transformers
 - [按局部缺失特征映射作一轮分位回归聚合](../conferences/icml-2026/cards/5401-5500.md#yang26bf-theory-statistics) · One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data
+- [两次梯度的高阶Langevin离散化](../conferences/icml-2026/cards/5401-5500.md#yang26bz-theory-statistics) · Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity
 
 <a id="by-graph-and-recommendation"></a>
 

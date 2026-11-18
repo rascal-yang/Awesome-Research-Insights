@@ -109,6 +109,8 @@
 - [SVD因子量化的校准误差预算分配](../conferences/icml-2026/cards/5101-5200.md#xiong26k-optimization) · Principled SVD-based Delta Compression via Quantization Error Minimization
 - [均值配分近似的隐式混合正则](../conferences/icml-2026/cards/5201-5300.md#xu26am-optimization) · Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training
 - [共享基座的LoRA训练打包](../conferences/icml-2026/cards/5301-5400.md#yan26q-optimization) · PLoRA: Efficient Concurrent LoRA Training for Large Language Models
+- [Cayley空间的范数补偿模型合并](../conferences/icml-2026/cards/5401-5500.md#yang26bm-optimization) · Orthogonal Model Merging
+- [线性probe选子空间的偏好SAM](../conferences/icml-2026/cards/5401-5500.md#yang26bw-optimization) · Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control
 
 <a id="by-computer-vision"></a>
 
@@ -451,6 +453,8 @@
 - [单差分压缩的动量控制变量FL](../conferences/icml-2026/cards/5301-5400.md#yan26x-optimization) · Robust Federated Learning Against Adaptive Compression
 - [用近端平滑替代直接联邦对抗更新](../conferences/icml-2026/cards/5301-5400.md#yang26f-optimization) · Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability
 - [在强凸内层复用二阶超目标信息](../conferences/icml-2026/cards/5301-5400.md#yang26au-optimization) · Second-Order Bilevel Optimization with Accelerated Convergence Rates
+- [邻域稳定度驱动的层交换到平均](../conferences/icml-2026/cards/5401-5500.md#yang26br-optimization) · DecFus: Decentralized Layer-wise Fusion with Dynamic Exploration and Exploitation
+- [sketch残差拟合的自适应矩阵迭代](../conferences/icml-2026/cards/5401-5500.md#yang26ca-optimization) · PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training
 
 <a id="by-graph-and-recommendation"></a>
 

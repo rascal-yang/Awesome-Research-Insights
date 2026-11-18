@@ -161,6 +161,7 @@
 - [在折叠上下文环境中训练自摘要](../conferences/icml-2026/cards/5301-5400.md#yang26r-training-strategies) · Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning
 - [共享上下文预算训练多题推理](../conferences/icml-2026/cards/5401-5500.md#yang26bb-training-strategies) · Batched Contextual Reinforcement
 - [量化误差补偿时加入安全子空间约束](../conferences/icml-2026/cards/5401-5500.md#yang26bg-training-strategies) · Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation
+- [语义边效用代理驱动的廉价剪图](../conferences/icml-2026/cards/5401-5500.md#yang26bo-training-strategies) · AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure
 
 <a id="by-computer-vision"></a>
 
@@ -237,6 +238,8 @@
 - [可丢弃外观适配器的运动迁移](../conferences/icml-2026/cards/5001-5100.md#wu26cg-training-strategies) · VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos
 - [在任务判别子空间施加小模型指导](../conferences/icml-2026/cards/5101-5200.md#xie26g-training-strategies) · SHERPA: Fine-tuning Segment Anything Models with Task-relevant Guidance
 - [点图x预测与纯噪声端点训练](../conferences/icml-2026/cards/5201-5300.md#xu26bm-training-strategies) · PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
+- [冻结扩散骨干的控制侧网络](../conferences/icml-2026/cards/5401-5500.md#yang26bk-training-strategies) · Diffusion Controller: Framework, Algorithms and Parameterization
+- [干净扰动配对的路径选择与权重变换](../conferences/icml-2026/cards/5401-5500.md#yang26bn-training-strategies) · Suppress and Diversify: Refining Robust Pathways for Corruption Robustness
 
 <a id="by-nlp"></a>
 

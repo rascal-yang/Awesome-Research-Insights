@@ -326,6 +326,8 @@
 - <a id="wu26cg-training-strategies"></a>[VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cg)
 - <a id="xie26g-training-strategies"></a>[SHERPA: Fine-tuning Segment Anything Models with Task-relevant Guidance](../conferences/icml-2026/cards/5101-5200.md#paper-xie26g)
 - <a id="xu26bm-training-strategies"></a>[PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bm)
+- <a id="yang26bk-training-strategies"></a>[Diffusion Controller: Framework, Algorithms and Parameterization](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bk)
+- <a id="yang26bn-training-strategies"></a>[Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bn)
 
 <a id="by-data-strategies"></a>
 

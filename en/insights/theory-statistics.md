@@ -621,6 +621,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Preconditioning Neural Tangent Kernel for Adaptive Optimization](../../conferences/icml-2026/cards/5301-5400.md#yang26b-theory-statistics) · 中文
 - [Length Generalization Bounds for Transformers](../../conferences/icml-2026/cards/5301-5400.md#yang26c-theory-statistics) · 中文
 - [One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data](../../conferences/icml-2026/cards/5401-5500.md#yang26bf-theory-statistics) · 中文
+- [Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity](../../conferences/icml-2026/cards/5401-5500.md#yang26bz-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

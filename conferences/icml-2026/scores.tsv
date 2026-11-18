@@ -5410,26 +5410,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5409	yang26bg	3	4	2	4	65		初筛，原文与先例核查待补：暂定评分依据：QAF可把LoftQ式误差分解与安全activation子空间的输出投影一起选择，并训练后重投影adapter；必须核实初始化最终是否仍满足投影约束。；边界：activation主方向不是已证安全专属subspace，投影可伤utility且不能消除base量化误差。PSD Hessian Taylor只局部非负项，交叉项可能抵消，不证明QAF必更危险；算法约束保持和quantization总误差需核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bg/yang26bg.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bg/yang26bg.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bg/yang26bg.pdf#page=6)	scored
 5410	yang26bh	3	4	2	3	62		初筛，原文与先例核查待补：暂定评分依据：非线性控制meta-learning可联合feature、control gain与parameter-particle kernel几何，使在线adaptation由tracking loss训练；应与同feature/gain的欧式更新比较。；边界：参考measure/first variation与Wasserstein gradient实现关系待核，kernel加权不自动是精确OT最优步。线性可参数化disturbance、nominal Lyapunov条件及ensemble失配实质；simulation无硬件稳定性保证。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bh/yang26bh.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bh/yang26bh.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bh/yang26bh.pdf#page=6)	scored
 5411	yang26bi	3	4	2	3	62		初筛，原文与先例核查待补：暂定评分依据：动作事件生成可在每个event后把GRU状态映射为predicate scores，再做H跳规则更新供TPP decoder；需区分软规则引导与严格constraint satisfaction。；边界：finiteH非逻辑closure，softmin未normalize时可负，不自动保持[0,1]belief；nearest-anchor argmax非处处可微。规则错误可被decoder忽略或传播，训练/采样soft指导不等hard约束保证。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bi/yang26bi.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bi/yang26bi.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26bi/yang26bi.pdf#page=6)	scored
-5412	yang26bj							待原文复核评分	pending
-5413	yang26bk							待原文复核评分	pending
-5414	yang26bl							待原文复核评分	pending
-5415	yang26bm							待原文复核评分	pending
-5416	yang26bn							待原文复核评分	pending
-5417	yang26bo							待原文复核评分	pending
-5418	yang26bp							待原文复核评分	pending
-5419	yang26bq							待原文复核评分	pending
-5420	yang26br							待原文复核评分	pending
-5421	yang26bs							待原文复核评分	pending
-5422	yang26bt							待原文复核评分	pending
-5423	yang26bu							待原文复核评分	pending
-5424	yang26bv							待原文复核评分	pending
-5425	yang26bw							待原文复核评分	pending
-5426	yang26bx							待原文复核评分	pending
-5427	yang26by							待原文复核评分	pending
-5428	yang26bz							待原文复核评分	pending
-5429	yang26ca							待原文复核评分	pending
-5430	yang26cb							待原文复核评分	pending
-5431	yang26cc							待原文复核评分	pending
+5412	yang26bj	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按Top-p校准与head缓存物理重排，最近方法差异见baseline且待核；复用5：动态KV预算可先按head校准异质importance logits，再把碎片索引重写成连续物理布局；以prepare+compute总时间判断是否值得重排。 可用4受三层softmax合并只对当前保存/凝聚表示精确，非原完整KV精确；相同p不认证相同任务信息。rewrite有额外显存带宽，生成长度改变也影响吞吐，端到端同预算与校准数据泛化待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5413	yang26bk	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按冻结扩散骨干的控制侧网络，最近方法差异见baseline且待核；复用5：只有扩散中间预测接口时，可固定原score，把控制修正放在接收reverse mean的轻量侧网络；选择reward weighting时需区分KL等价目标与一般f的代理。 可用3受一般f的最优终端加权分布不等于逐步正则控制最优；侧网动机不证明有限网络精确实现最优score。暴露接口、额外调用/NFE、reward过拟合与同训练成本待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/6/7/8页。	scored
+5414	yang26bl	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按可变事件数的集合扩散，最近方法差异见baseline且待核；复用5：生成时空事件集合可把坐标扰动和事件数birth/death分开建模，再用非平衡OT监督集合denoising；需检验count与联合时空依赖，不能只看intensity匹配。 可用3受强度PDE只描述一阶统计，不唯一决定完整点过程相关律；实际global schedule不是未知intensity的精确WFR drift。反向branching是否精确时间逆、UOT时间空间尺度和极端count成本待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/6/7/8页。	scored
+5415	yang26bm	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按Cayley空间的范数补偿模型合并，最近方法差异见baseline且待核；复用5：合并OFT专家可先逆Cayley到反对称矩阵、平均后补偿范数再映回；非OFT专家先Procrustes拆旋转与残差，各自合并。 可用3受范数补偿在ΣQi≈0时不稳，只保持Q范数非R距离或任务能力；Cayley chart不含−1特征值。正交分量保几何不意味加残差后的全权重保几何，Procrustes分块/O(d³)和量化成本待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/6/7页。	scored
+5416	yang26bn	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按干净扰动配对的路径选择与权重变换，最近方法差异见baseline且待核；复用5：自然腐蚀鲁棒训练可在epoch间按干净/扰动feature稳定度选择路径，再对保留权重作受限变换补容量；应同时看clean accuracy和腐蚀误差，不能只引鲁棒均值。 可用3受kernel翻转/channel shuffle若未协调邻层不自动保持网络函数/图像几何symmetry；所谓parameter-free仍有K/λ/变换选择。阶段常数项不依候选内容，不能单独认证discriminability；额外epoch间计算/选择数据待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6页。	scored
+5417	yang26bo	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按语义边效用代理驱动的廉价剪图，最近方法差异见baseline且待核；复用5：多agent通信剪枝可先收集消息对最终汇总的语义贡献代理，再训练小预测器在不调用LLM的虚拟执行中调图；应验证最终任务而非只优化汇总一致。 可用3受语义相似/汇总贡献不等于正确性或因果边效用；EPN是reward surrogate非传统value critic。按字面L1 edge logits收缩到0对应p.5，不直接促稀疏，最终剪枝另控制；虚拟误差累积与等预算待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/6/7页。	scored
+5418	yang26bp	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按活跃上下文与递归栈的分离，最近方法差异见baseline且待核；复用5：长程组合搜索可训练模型用call/return递归隔离子任务，把仅当前frame送入attention；评测必须分活跃context、悬挂栈和总生成token。 可用3受总栈/重复子调用可巨大，非总内存或walltime节省；输入读取仍需装入/检索。固定深度不超单context空间上界，PSPACE与EXPTIME严格分离并未由此证明；真实模型可实现性与同训练控制待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/8页。	scored
+5419	yang26bq	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按loss与entropy方差配权的在线选样，最近方法差异见baseline且待核；复用5：动态训练子集可用小PPO selector，按batch内loss和预测entropy的相对方差混合奖励，持续重选topk；同时计未入选样本打分forward成本。 可用3受loss梯度范数还依feature/Jacobian，entropy不等于真实epistemic信息增益；variance配权不保证单调early→late课程且受量纲影响。topk离散action概率/PPO对应、全候选评估和reward同数据偏差待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6页。	scored
+5420	yang26br	4	4	3	4	76		初筛，原文与先例核查待补：新增4暂按邻域稳定度驱动的层交换到平均，最近方法差异见baseline且待核；复用4：去中心训练可先对不相似层做邻居交换，再随邻域loss方差稳定逐步转平均；需监控交换带来的突变和最终一致性。 可用3受不需doubly stochastic不等于任意拓扑/无限交换都收敛；理论还需impermanent exchange/smoothness/variance。表述consensus界不直接认证无偏全局最优；交换是否一一匹配/保均值、跨层置换对齐和通信成本待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/6/7/8页。	scored
+5421	yang26bs							初筛，原文与先例核查待补：现有PDF第3–6页主体为residual/semantic watermark任务标签与评分模板，再以分类/回归SFT→解释cold-start→标准GRPO的format/长度/准确奖励训练专用VLM；当前材料未隔离超出成熟quality/security rubric和judge蒸馏的独立可复用机制。新水印评测集合与跑分不足单独成立，最近latent-distribution指标原作待统一核查。	rule-excluded
+5422	yang26bt							初筛，原文与先例核查待补：现有PDF第3–6页用LLM合成typed source-level Z3查询、验证counterexample、区分错误/不归纳再改invariant，并按blocked CEX数量排序；文中承认PDR与AutoVerus等来源。对opaque SMT输出的source解释有工程价值，但当前未显示超出成熟CEGIS/PDR反例引导与LLM修复工作流的新独立优化/验证规则，按流程实例暂排，原作统一核查后可重判。	rule-excluded
+5423	yang26bu							初筛，原文与先例核查待补：现有摘要及PDF第3–4/6页是denoising→结构定位/模板检索→约束重建→MatterSim验证和rollback/retry的领域工具controller；分支按质量阈值启用与失败重试均成熟。当前未分离新通用inverse推断目标/主动实验准则，450样本基准及物理工具组合不单独建立独立机制；按专用工作流暂排。	rule-excluded
+5424	yang26bv	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按历史query重权的value leverage淘汰，最近方法差异见baseline且待核；复用5：KV淘汰可在历史query重要性之外加入value方向的ridge leverage，兼顾相关性和冗余；一轮topk只是logdet启发近似，应和迭代多样性选择区分。 可用4受取ui=vi忽略WO一般不保各向异性多样性；future queryGaussian/cov假设不等真实attention。单次topk无自动1−1/e选择保证，score用完整A不等精确marginal；O(Nd²+d³)成本/历史query偏移待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5425	yang26bw	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按线性probe选子空间的偏好SAM，最近方法差异见baseline且待核；复用5：偏好训练可仅在probe关联的少数value方向做SAM扰动，而第二步更新全部参数；与全参数SAM和纯数据鲁棒目标作预算匹配控制。 可用3受probe相关性不认证真正causal safety subspace，signed topk可能漏负向重要单元；双pass是局部最坏近似非全局安全。reward依外部模型非免偏差，跨域/噪声具体量与同compute/周期调度待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6页。	scored
+5426	yang26bx	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按候选后继entropy驱动的mask解码，最近方法差异见baseline且待核；复用5：mask扩散解码可比较多组填词动作对其余mask entropy的影响，再减当前动作不确定性选后继；按候选数匹配总计算，不把单个batch当单样本forward成本。 可用4受平均entropy差不是一般mutual information，删除高entropy位置本身可改变均值；与sum cost单位/长度敏感。采样只搜有限候选，single batched forward仍需N候选FLOPs/显存，bypass和cache控制待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6页。	scored
+5427	yang26by							初筛，原文与先例核查待补：现有材料尚未显示可脱离特定应用独立复用的通用技术增量，暂不收录，统一复核时重判。	rule-excluded
+5428	yang26bz	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按两次梯度的高阶Langevin离散化，最近方法差异见baseline且待核；复用5：为光滑posterior采样可用两gradient的强1.5阶随机Runge-Kutta替代三gradient版本；先确认高阶光滑、耗散和W2混合条件，不能仅凭非log-concave标题用于任意多峰网络。 可用4受Hessian-free不等于免高阶正则性；非logconcave目标未必有维数无关混合常数，深网分段激活常不满足C4。相关噪声构造、同gradient/墙钟预算及真实neural posterior迁移待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/8页。	scored
+5429	yang26ca	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按sketch残差拟合的自适应矩阵迭代，最近方法差异见baseline且待核；复用5：Muon/Shampoo矩阵函数可保留低阶多项式系数，只用小sketch残差least-squares调最高阶系数；按总墙钟与训练质量选择迭代数。 可用4受严格保证主要d1多项式、归一化A²对称与足够sketch宽度；经验p5/d2不自动继承。rank亏矩阵polar残差需限定有效子空间；正文NS示例系数/随机sketch均值表述与实现待核，不按笔误自动否定方法。 独特4暂定，全库替代性待统一核查；PDF第3/4/6/7/8/9页。	scored
+5430	yang26cb							初筛，原文与先例核查待补：现有PDF第3–4页安全可分的统计目标为同已知group标签配对的标准监督对比loss，另用温度cosine近邻分配熵最小化对齐未标记数据；这些是成熟SupCon/半监督低熵训练，当前未见独立通用目标或已隔离的迁移条件增量。按已有标签替代人工augmentation的领域应用暂排，不提取基因/细胞工程设计或操作。	rule-excluded
+5431	yang26cc							初筛，原文与先例核查待补：现有PDF第3–4/6–7页实际算法为input gate加权多个线性up kernels、一次共同非线性与shared down projection，配已有load-balance loss；它是成熟CondConv/soft linear MoE结构，并非稀疏选择整LLM流。作者FLOPs为(N+1)ddff随N增长，bounded-N同阶不等固定计算独立扩容量规律。当前未见超出标准dynamic-conv应用的新操作或严谨受控law，按成熟机制变体暂排。	rule-excluded
 5432	yang26cd							待原文复核评分	pending
 5433	yang26ce							待原文复核评分	pending
 5434	yang26cf							待原文复核评分	pending
