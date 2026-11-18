@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2069** 篇，暂收录 **1915** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2129** 篇，暂收录 **1971** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1923,3 +1923,59 @@
 | 计算机视觉 | 几何监督 | [DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images](cards-0004.md#paper-149698) | 以重叠透视块和对应一致性统一全景深度。 |
 | 语言模型 | 深度循环 | [Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves](cards-0004.md#paper-150663) | 用序列、深度和专家注意力共用单层循环。 |
 | 语音识别 | 参数共享 | [Depth through Recurrence: Towards Ultra-Efficient On-Device ASR](cards-0004.md#paper-149074) | 依据层表示相似度选择可复用的循环块。 |
+| 科学机器学习 | 导数监督 | [Derivative-Informed Training of Neural Operators On-the-Fly via Sketched Tangent Consistency](cards-0004.md#paper-152655) | 用在线切线残差代替离线导数标签 |
+| 科学机器学习 | 状态表示 | [Derived Fields Preserve Fine-Scale Detail in Budgeted Neural Simulators](cards-0004.md#paper-152570) | 固定存储预算时优先选携带的物理状态 |
+| 优化 | 超参缩放 | [Deriving Hyperparameter Scaling Laws via Modern Optimization Theory](cards-0004.md#paper-154887) | 据预算联调批量、动量和学习率 |
+| 强化学习 | 监督设计 | [Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL](cards-0004.md#paper-153178) | 独立验收训练监控器的实际风险抑制效果 |
+| 多模态学习 | 数据归因 | [Designing Kernel Surrogate Models for Multimodal Attribution](cards-0004.md#paper-154581) | 用非加性代理衡量样本间的模态互补 |
+| 生成模型 | 扩散强化学习 | [Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View](cards-0004.md#paper-155438) | 把前向匹配与反向轨迹更新放在同一方差对照中 |
+| 多模态学习 | 空间编码 | [Despa: Resolving Spatial Collapse in VLMs via Depth-Grounded Geometry](cards-0004.md#paper-155220) | 将深度几何写入视觉位置编码 |
+| 计算机视觉 | 蒸馏 | [DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation](cards-0004.md#paper-151134) | 在局部细节生成中蒸馏参考和目标双分支 |
+| 计算机视觉 | 信用分配 | [Detect Anything in Graphic Design: Element-Level Rewards for Autoregressive Detection](cards-0004.md#paper-150451) | 按图层顺序解码并按元素给奖励 |
+| 时间序列 | 诊断评测 | [Detect, Explain, Interpret: An End-to-End Benchmark for Time Series Anomaly Detection, Explainability and Interpretability.](cards-0004.md#paper-139119) | 分开度量告警正确、维度归因与语义解释 |
+| 机器学习系统 | 防御评测 | [Detecting Hidden ML Training With Zero-Overhead Telemetry](cards-0004.md#paper-155937) | 分开报告常规与未知 GPU 工作负载的监测准确率 |
+| 大语言模型 | 污染诊断 | [Detecting RLVR Training Data via Structural Convergence of Reasoning](cards-0004.md#paper-155181) | 在已知训练集划分上检查推理输出多样性是否收缩 |
+| 统计学习 | 风险校准 | [Detection and Classification in Latent Spaces: High-Dimensional Analysis and Validation](cards-0004.md#paper-150861) | 按潜维度和样本比率校准误报和漏检 |
+| 计算机视觉 | 防御检测 | [DetectViT: Test-time Backdoor Detection for Vision Transformers via Inter-Head Attention Discrepancy](cards-0004.md#paper-151934) | 用头间注意模式做外部视觉权重的运行时审计 |
+| 多模态学习 | 空间指代 | [Detect What You Need: Chain-of-Causal Reasoning for 3D Intent Grounding](cards-0004.md#paper-153726) | 先把抽象意图拆成功能要求再选三维物体 |
+| 科学机器学习 | 噪声建模 | [DETS: An Interval-Censored Evidential Sampling Framework for Cross-Domain Scientific Discovery](cards-0004.md#paper-148978) | 对有容差的观测拟合区间质量 |
+| 多模态学习 | 训练课程 | [Developmental Visual Experience Scaffolds Grounded Concept Acquisition in Vision-Language Models](cards-0004.md#paper-148931) | 先呈现低频和弱色彩信号再恢复清晰图像 |
+| 具身智能 | 仿真迁移 | [DexMirror: Real-to-Sim Scene Mirroring for Sim-to-Real Dexterous Manipulation](cards-0004.md#paper-153302) | 把机器人与重建场景的对齐误差作为独立验收量 |
+| 具身智能 | 位姿估计 | [DexOPE: 6D Object Pose Estimation in Dexterous Manipulation](cards-0004.md#paper-151955) | 遮挡时保留多峰位姿并用接触约束筛选 |
+| 具身智能 | 无监督技能 | [Dexterous Skill Discovery via Topology-Aware Wasserstein Dependency](cards-0004.md#paper-154902) | 按物体位姿变化而非机械手自身运动衡量技能多样性 |
+| 计算机视觉 | 数据增强 | [D-GAP: Improving Out-of-Domain Robustness via Dataset-Agnostic and Gradient-Guided Augmentation in Amplitude and Pixel Spaces](cards-0004.md#paper-153375) | 根据任务梯度选择扰动频段和像素 |
+| 强化学习 | 风险控制 | [DGRAF: Observation-Quality-Aware Reinforcement Learning for Dynamic Reconfigurable Batteries](cards-0004.md#paper-155974) | 让决策保守度随缺失观测的重建质量变化 |
+| 计算机视觉 | 视频适配 | [DiA: Directional Adapter](cards-0004.md#paper-148763) | 分别建模动作发生前和发生后的线索 |
+| Agent / 软件工程 | 评测诊断 | [DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents](cards-0004.md#paper-151898) | 软件交互失败后，根据历史定位可区分评测器失误和功能缺陷的检查 |
+| 科学机器学习 | 球面神经算子 | [DIAGNO: Diagonal Spherical Neural Operators for Heterogeneous Earth Dynamics Modeling](cards-0004.md#paper-154008) | 容许球面频域模态交换以表示地球空间异质性 |
+| 多模态学习 | 证据诊断 | [Diagnosing and Correcting Bias in MLLM for Long Video Understanding](cards-0004.md#paper-154288) | 把完整视频、仅问题和局部显著片段作为证据对照 |
+| 多模态学习 | 鲁棒评测 | [Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models](cards-0004.md#paper-153711) | 只改变与任务无关的模态来测模态干扰 |
+| 多模态学习 | 视觉依赖诊断 | [Diagnosing and Repairing Visual Collapse in Compact Medical Multimodal LLMs](cards-0004.md#paper-149438) | 用视觉与文本残差的独立消融判断模型是否真的使用图像 |
+| 大语言模型 | 规则诊断 | [DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules](cards-0004.md#paper-139853) | 用配对改写检测模型是否稳定依据符号规则作判断 |
+| 学习理论 | 优化动力学 | [Diagonalizing the Softmax: Hadamard Initialization for Tractable Cross-Entropy Dynamics](cards-0004.md#paper-152327) | 用结构化初始化剥离交叉熵训练中特有的耦合 |
+| 大语言模型 | 结构化奖励 | [DiagSQL: A Diagnostic Validator for Text-to-SQL with Reward Allocation and Co-occurrence Shaping](cards-0004.md#paper-155455) | 对结构化验证输出按组成部分分配信用 |
+| Agent | 推理预算 | [DialBandit: Adaptive Sequential Search with Tunable Evaluation Fidelity](cards-0004.md#paper-149867) | 在级联中联合选择查询模型、评估精度和停止时机 |
+| 语音 | 低资源增强 | [Dialect ASR based on Multi-View Pseudo-Parallel Augmentation and Noise-Robust Contrastive Learning](cards-0004.md#paper-155164) | 用伪平行多视图和分层对比学习区分共享语义与方言 |
+| 自然语言处理 | 方言数据 | [DialectLLM: A Dialect-Aware Dialog[ue] Generation Framework Beyond Standard American English](cards-0004.md#paper-153135) | 对用户话语和助手回答分别选择方言特征 |
+| Agent / 安全 | 防御评测 | [DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections](cards-0004.md#paper-139390) | 单独核验移动代理的选择是否满足指令约束 |
+| Agent / 教育 | 反事实评测 | [DICE: Decoupling Capability from Intervention Necessity in LLM Tutoring](cards-0004.md#paper-151451) | 根据干预相对不干预的收益决定是否回应 |
+| 大语言模型 | 量化 | [DICEQuant: Distortion-Compensated Rounding with Dual-Ended Shrinkage for LLM Quantization](cards-0004.md#paper-148173) | 按下游敏感度补偿舍入误差 |
+| 大语言模型 | 模型压缩 | [DictLLM: Post-training Compression of Large Language Model with Dictionary Kernels](cards-0004.md#paper-151096) | 为成组层共享字典 |
+| 计算机视觉 | 三维生成 | [DiDE: Direct Injection with Color-Texture DEcoupling for 3D Stylization](cards-0004.md#paper-152453) | 用独立参考控制颜色和纹理 |
+| 计算机视觉 | 三维重建 | [Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty Aware Differentiable Optimization](cards-0004.md#paper-155720) | 训练专为测试时求解设计的初始化 |
+| 多模态学习 | 生成引导 | [Diff-Aid: Inference-time Adaptive Interaction Denoising for Rectified Text-to-Image Generation](cards-0004.md#paper-149887) | 按层和步调节逐 token 图文交互 |
+| 科学机器学习 | 张量表示 | [DiffATS: Diffusion in Aligned Tensor Space](cards-0004.md#paper-150268) | 先消除低秩分解坐标歧义再学分布 |
+| 多模态学习 | 奖励设计 | [DiffCap-RL: Differential QA Rewards for Dense Image and Video Captioning](cards-0004.md#paper-152243) | 对当前采样分歧动态出题 |
+| 计算机视觉 | 因子分解 | [Diff-CA: Separating Common and Salient Factors with Diffusion Models](cards-0004.md#paper-152753) | 分别编辑共享属性与组间特异属性 |
+| 科学机器学习 | 约束生成 | [DiffCool: Label-Free Synthesis of Chip-Tailored Heat Sinks via Thermal-Aware Diffusion](cards-0004.md#paper-152390) | 将制造约束写进采样状态转移 |
+| 计算机视觉 | 监督采样 | [Diffeomoprhism-Informed 3D Gaussian Splattings via Screen-Space Optimal Transport (OT)](cards-0004.md#paper-151447) | 降采样前把监督预算移向细节区域 |
+| 机器人学 | 多智能体控制 | [DiffeoMorph: Learning to Morph 3D Shapes Using Differentiable Agent-Based Simulations](cards-0004.md#paper-155314) | 以连续形状分布监督模拟机器人群 |
+| 优化 | 分布优化 | [Difference of Convex Programming in the Wasserstein Space with Applications to MMD Optimization](cards-0004.md#paper-148506) | 对非凸分布目标测试凸差更新 |
+| 时间序列 | 扩散预测 | [Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting](cards-0004.md#paper-154330) | 沿去噪时钟调整差分结构 |
+| 多智能体强化学习 | 信念建模 | [Differentiable Belief-based Opponent Shaping](cards-0004.md#paper-154944) | 在封闭博弈中用估计信念研究策略协作 |
+| 大语言模型 | 模型压缩 | [Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression](cards-0004.md#paper-148406) | 允许统一训练学出零位宽从而剪除成分 |
+| 图学习 | 时序聚类 | [Differentiable Cluster Discovery in Temporal Graphs](cards-0004.md#paper-156759) | 联合更新时序表示与离散分组 |
+| 学习理论 | 算法学习 | [Differentiable Exact Learning of Algorithms](cards-0004.md#paper-148538) | 用外部执行轨迹监督控制器而无需专家内部状态 |
+| 优化 | 可微组合选择 | [Differentiable Knapsack and Top-k Operators via Dynamic Programming](cards-0004.md#paper-153641) | 直接平滑动态规划递推 |
+| 规划 | 符号学习 | [Differentiable Learning of Lifted Action Schemas for Classical Planning](cards-0004.md#paper-153043) | 把动作参数识别和模式归纳一起学习 |
+| 控制 | 隐式微分 | [Differentiable Nonlinear Model Predictive Control](cards-0004.md#paper-153003) | 从求解器最优性条件提取灵敏度 |

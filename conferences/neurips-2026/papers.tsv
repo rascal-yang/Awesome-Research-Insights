@@ -2026,66 +2026,66 @@ poster_id	title	paper_url	status	reason
 149698	DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images	https://neurips.cc/virtual/2026/poster/149698	included	以重叠透视块和对应一致性统一全景深度。
 150663	Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves	https://neurips.cc/virtual/2026/poster/150663	included	用序列、深度和专家注意力共用单层循环。
 149074	Depth through Recurrence: Towards Ultra-Efficient On-Device ASR	https://neurips.cc/virtual/2026/poster/149074	included	依据层表示相似度选择可复用的循环块。
-152655	Derivative-Informed Training of Neural Operators On-the-Fly via Sketched Tangent Consistency	https://neurips.cc/virtual/2026/poster/152655	pending	-
-152570	Derived Fields Preserve Fine-Scale Detail in Budgeted Neural Simulators	https://neurips.cc/virtual/2026/poster/152570	pending	-
-154887	Deriving Hyperparameter Scaling Laws via Modern Optimization Theory	https://neurips.cc/virtual/2026/poster/154887	pending	-
-155302	Designing Cell-Type-Specific Regulatory DNA with Guided Discrete Diffusion	https://neurips.cc/virtual/2026/poster/155302	pending	-
-153178	Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL	https://neurips.cc/virtual/2026/poster/153178	pending	-
-154581	Designing Kernel Surrogate Models for Multimodal Attribution	https://neurips.cc/virtual/2026/poster/154581	pending	-
-155438	Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View	https://neurips.cc/virtual/2026/poster/155438	pending	-
-155220	Despa: Resolving Spatial Collapse in VLMs via Depth-Grounded Geometry	https://neurips.cc/virtual/2026/poster/155220	pending	-
-151134	DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation	https://neurips.cc/virtual/2026/poster/151134	pending	-
-150451	Detect Anything in Graphic Design: Element-Level Rewards for Autoregressive Detection	https://neurips.cc/virtual/2026/poster/150451	pending	-
-139119	Detect, Explain, Interpret: An End-to-End Benchmark for Time Series Anomaly Detection, Explainability and Interpretability.	https://neurips.cc/virtual/2026/poster/139119	pending	-
-155937	Detecting Hidden ML Training With Zero-Overhead Telemetry	https://neurips.cc/virtual/2026/poster/155937	pending	-
-155181	Detecting RLVR Training Data via Structural Convergence of Reasoning	https://neurips.cc/virtual/2026/poster/155181	pending	-
-150861	Detection and Classification in Latent Spaces: High-Dimensional Analysis and Validation	https://neurips.cc/virtual/2026/poster/150861	pending	-
-151934	DetectViT: Test-time Backdoor Detection for Vision Transformers via Inter-Head Attention Discrepancy	https://neurips.cc/virtual/2026/poster/151934	pending	-
-153726	Detect What You Need: Chain-of-Causal Reasoning for 3D Intent Grounding	https://neurips.cc/virtual/2026/poster/153726	pending	-
-148978	DETS: An Interval-Censored Evidential Sampling Framework for Cross-Domain Scientific Discovery	https://neurips.cc/virtual/2026/poster/148978	pending	-
-148931	Developmental Visual Experience Scaffolds Grounded Concept Acquisition in Vision-Language Models	https://neurips.cc/virtual/2026/poster/148931	pending	-
-153302	DexMirror: Real-to-Sim Scene Mirroring for Sim-to-Real Dexterous Manipulation	https://neurips.cc/virtual/2026/poster/153302	pending	-
-151955	DexOPE: 6D Object Pose Estimation in Dexterous Manipulation	https://neurips.cc/virtual/2026/poster/151955	pending	-
-154902	Dexterous Skill Discovery via Topology-Aware Wasserstein Dependency	https://neurips.cc/virtual/2026/poster/154902	pending	-
-153375	D-GAP: Improving Out-of-Domain Robustness via Dataset-Agnostic and Gradient-Guided Augmentation in Amplitude and Pixel Spaces	https://neurips.cc/virtual/2026/poster/153375	pending	-
-155974	DGRAF: Observation-Quality-Aware Reinforcement Learning for Dynamic Reconfigurable Batteries	https://neurips.cc/virtual/2026/poster/155974	pending	-
-148763	DiA: Directional Adapter	https://neurips.cc/virtual/2026/poster/148763	pending	-
-151898	DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents	https://neurips.cc/virtual/2026/poster/151898	pending	-
-154008	DIAGNO: Diagonal Spherical Neural Operators for Heterogeneous Earth Dynamics Modeling	https://neurips.cc/virtual/2026/poster/154008	pending	-
-154288	Diagnosing and Correcting Bias in MLLM for Long Video Understanding	https://neurips.cc/virtual/2026/poster/154288	pending	-
-153711	Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/153711	pending	-
-153428	Diagnosing and Repairing Citation Failures in Generative Engine Optimization	https://neurips.cc/virtual/2026/poster/153428	pending	-
-149438	Diagnosing and Repairing Visual Collapse in Compact Medical Multimodal LLMs	https://neurips.cc/virtual/2026/poster/149438	pending	-
-139853	DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules	https://neurips.cc/virtual/2026/poster/139853	pending	-
-152327	Diagonalizing the Softmax: Hadamard Initialization for Tractable Cross-Entropy Dynamics	https://neurips.cc/virtual/2026/poster/152327	pending	-
-155455	DiagSQL: A Diagnostic Validator for Text-to-SQL with Reward Allocation and Co-occurrence Shaping	https://neurips.cc/virtual/2026/poster/155455	pending	-
-150583	DIAL: A Bounded-Monotone Adapter with Closed-Form Residual $L_\infty$ Bounds for Scalar-Controlled Refusal Modulation	https://neurips.cc/virtual/2026/poster/150583	pending	-
-149867	DialBandit: Adaptive Sequential Search with Tunable Evaluation Fidelity	https://neurips.cc/virtual/2026/poster/149867	pending	-
-155164	Dialect ASR based on Multi-View Pseudo-Parallel Augmentation and Noise-Robust Contrastive Learning	https://neurips.cc/virtual/2026/poster/155164	pending	-
-153268	Dialectics of Alignment: Harnessing Unsafe Knowledge for Dynamic Safety Routing	https://neurips.cc/virtual/2026/poster/153268	pending	-
-153135	DialectLLM: A Dialect-Aware Dialog[ue] Generation Framework Beyond Standard American English	https://neurips.cc/virtual/2026/poster/153135	pending	-
-139390	DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections	https://neurips.cc/virtual/2026/poster/139390	pending	-
-151451	DICE: Decoupling Capability from Intervention Necessity in LLM Tutoring	https://neurips.cc/virtual/2026/poster/151451	pending	-
-148173	DICEQuant: Distortion-Compensated Rounding with Dual-Ended Shrinkage for LLM Quantization	https://neurips.cc/virtual/2026/poster/148173	pending	-
-151096	DictLLM: Post-training Compression of Large Language Model with Dictionary Kernels	https://neurips.cc/virtual/2026/poster/151096	pending	-
-152453	DiDE: Direct Injection with Color-Texture DEcoupling for 3D Stylization	https://neurips.cc/virtual/2026/poster/152453	pending	-
-155720	Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty Aware Differentiable Optimization	https://neurips.cc/virtual/2026/poster/155720	pending	-
-149887	Diff-Aid: Inference-time Adaptive Interaction Denoising for Rectified Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/149887	pending	-
-150268	DiffATS: Diffusion in Aligned Tensor Space	https://neurips.cc/virtual/2026/poster/150268	pending	-
-152243	DiffCap-RL: Differential QA Rewards for Dense Image and Video Captioning	https://neurips.cc/virtual/2026/poster/152243	pending	-
-152753	Diff-CA: Separating Common and Salient Factors with Diffusion Models	https://neurips.cc/virtual/2026/poster/152753	pending	-
-152390	DiffCool: Label-Free Synthesis of Chip-Tailored Heat Sinks via Thermal-Aware Diffusion	https://neurips.cc/virtual/2026/poster/152390	pending	-
-151447	Diffeomoprhism-Informed 3D Gaussian Splattings via Screen-Space Optimal Transport (OT)	https://neurips.cc/virtual/2026/poster/151447	pending	-
-155314	DiffeoMorph: Learning to Morph 3D Shapes Using Differentiable Agent-Based Simulations	https://neurips.cc/virtual/2026/poster/155314	pending	-
-148506	Difference of Convex Programming in the Wasserstein Space with Applications to MMD Optimization	https://neurips.cc/virtual/2026/poster/148506	pending	-
-154330	Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154330	pending	-
-154944	Differentiable Belief-based Opponent Shaping	https://neurips.cc/virtual/2026/poster/154944	pending	-
-148406	Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression	https://neurips.cc/virtual/2026/poster/148406	pending	-
-156759	Differentiable Cluster Discovery in Temporal Graphs	https://neurips.cc/virtual/2026/poster/156759	pending	-
-148538	Differentiable Exact Learning of Algorithms	https://neurips.cc/virtual/2026/poster/148538	pending	-
-153641	Differentiable Knapsack and Top-k Operators via Dynamic Programming	https://neurips.cc/virtual/2026/poster/153641	pending	-
-153043	Differentiable Learning of Lifted Action Schemas for Classical Planning	https://neurips.cc/virtual/2026/poster/153043	pending	-
-153003	Differentiable Nonlinear Model Predictive Control	https://neurips.cc/virtual/2026/poster/153003	pending	-
+152655	Derivative-Informed Training of Neural Operators On-the-Fly via Sketched Tangent Consistency	https://neurips.cc/virtual/2026/poster/152655	included	用在线切线残差代替离线导数标签
+152570	Derived Fields Preserve Fine-Scale Detail in Budgeted Neural Simulators	https://neurips.cc/virtual/2026/poster/152570	included	固定存储预算时优先选携带的物理状态
+154887	Deriving Hyperparameter Scaling Laws via Modern Optimization Theory	https://neurips.cc/virtual/2026/poster/154887	included	据预算联调批量、动量和学习率
+155302	Designing Cell-Type-Specific Regulatory DNA with Guided Discrete Diffusion	https://neurips.cc/virtual/2026/poster/155302	excluded	论文核心是功能性调控 DNA 设计，本批不提取序列工程机制。
+153178	Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL	https://neurips.cc/virtual/2026/poster/153178	included	独立验收训练监控器的实际风险抑制效果
+154581	Designing Kernel Surrogate Models for Multimodal Attribution	https://neurips.cc/virtual/2026/poster/154581	included	用非加性代理衡量样本间的模态互补
+155438	Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View	https://neurips.cc/virtual/2026/poster/155438	included	把前向匹配与反向轨迹更新放在同一方差对照中
+155220	Despa: Resolving Spatial Collapse in VLMs via Depth-Grounded Geometry	https://neurips.cc/virtual/2026/poster/155220	included	将深度几何写入视觉位置编码
+151134	DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation	https://neurips.cc/virtual/2026/poster/151134	included	在局部细节生成中蒸馏参考和目标双分支
+150451	Detect Anything in Graphic Design: Element-Level Rewards for Autoregressive Detection	https://neurips.cc/virtual/2026/poster/150451	included	按图层顺序解码并按元素给奖励
+139119	Detect, Explain, Interpret: An End-to-End Benchmark for Time Series Anomaly Detection, Explainability and Interpretability.	https://neurips.cc/virtual/2026/poster/139119	included	分开度量告警正确、维度归因与语义解释
+155937	Detecting Hidden ML Training With Zero-Overhead Telemetry	https://neurips.cc/virtual/2026/poster/155937	included	分开报告常规与未知 GPU 工作负载的监测准确率
+155181	Detecting RLVR Training Data via Structural Convergence of Reasoning	https://neurips.cc/virtual/2026/poster/155181	included	在已知训练集划分上检查推理输出多样性是否收缩
+150861	Detection and Classification in Latent Spaces: High-Dimensional Analysis and Validation	https://neurips.cc/virtual/2026/poster/150861	included	按潜维度和样本比率校准误报和漏检
+151934	DetectViT: Test-time Backdoor Detection for Vision Transformers via Inter-Head Attention Discrepancy	https://neurips.cc/virtual/2026/poster/151934	included	用头间注意模式做外部视觉权重的运行时审计
+153726	Detect What You Need: Chain-of-Causal Reasoning for 3D Intent Grounding	https://neurips.cc/virtual/2026/poster/153726	included	先把抽象意图拆成功能要求再选三维物体
+148978	DETS: An Interval-Censored Evidential Sampling Framework for Cross-Domain Scientific Discovery	https://neurips.cc/virtual/2026/poster/148978	included	对有容差的观测拟合区间质量
+148931	Developmental Visual Experience Scaffolds Grounded Concept Acquisition in Vision-Language Models	https://neurips.cc/virtual/2026/poster/148931	included	先呈现低频和弱色彩信号再恢复清晰图像
+153302	DexMirror: Real-to-Sim Scene Mirroring for Sim-to-Real Dexterous Manipulation	https://neurips.cc/virtual/2026/poster/153302	included	把机器人与重建场景的对齐误差作为独立验收量
+151955	DexOPE: 6D Object Pose Estimation in Dexterous Manipulation	https://neurips.cc/virtual/2026/poster/151955	included	遮挡时保留多峰位姿并用接触约束筛选
+154902	Dexterous Skill Discovery via Topology-Aware Wasserstein Dependency	https://neurips.cc/virtual/2026/poster/154902	included	按物体位姿变化而非机械手自身运动衡量技能多样性
+153375	D-GAP: Improving Out-of-Domain Robustness via Dataset-Agnostic and Gradient-Guided Augmentation in Amplitude and Pixel Spaces	https://neurips.cc/virtual/2026/poster/153375	included	根据任务梯度选择扰动频段和像素
+155974	DGRAF: Observation-Quality-Aware Reinforcement Learning for Dynamic Reconfigurable Batteries	https://neurips.cc/virtual/2026/poster/155974	included	让决策保守度随缺失观测的重建质量变化
+148763	DiA: Directional Adapter	https://neurips.cc/virtual/2026/poster/148763	included	分别建模动作发生前和发生后的线索
+151898	DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents	https://neurips.cc/virtual/2026/poster/151898	included	软件交互失败后，根据历史定位可区分评测器失误和功能缺陷的检查
+154008	DIAGNO: Diagonal Spherical Neural Operators for Heterogeneous Earth Dynamics Modeling	https://neurips.cc/virtual/2026/poster/154008	included	容许球面频域模态交换以表示地球空间异质性
+154288	Diagnosing and Correcting Bias in MLLM for Long Video Understanding	https://neurips.cc/virtual/2026/poster/154288	included	把完整视频、仅问题和局部显著片段作为证据对照
+153711	Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/153711	included	只改变与任务无关的模态来测模态干扰
+153428	Diagnosing and Repairing Citation Failures in Generative Engine Optimization	https://neurips.cc/virtual/2026/poster/153428	excluded	重点是操纵生成引擎的内容可见性，摘要未提供独立验证的防御机制。
+149438	Diagnosing and Repairing Visual Collapse in Compact Medical Multimodal LLMs	https://neurips.cc/virtual/2026/poster/149438	included	用视觉与文本残差的独立消融判断模型是否真的使用图像
+139853	DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules	https://neurips.cc/virtual/2026/poster/139853	included	用配对改写检测模型是否稳定依据符号规则作判断
+152327	Diagonalizing the Softmax: Hadamard Initialization for Tractable Cross-Entropy Dynamics	https://neurips.cc/virtual/2026/poster/152327	included	用结构化初始化剥离交叉熵训练中特有的耦合
+155455	DiagSQL: A Diagnostic Validator for Text-to-SQL with Reward Allocation and Co-occurrence Shaping	https://neurips.cc/virtual/2026/poster/155455	included	对结构化验证输出按组成部分分配信用
+150583	DIAL: A Bounded-Monotone Adapter with Closed-Form Residual $L_\infty$ Bounds for Scalar-Controlled Refusal Modulation	https://neurips.cc/virtual/2026/poster/150583	excluded	主要验证对拒答行为的可调干预，当前摘要不足以提取可独立验证的防御贡献。
+149867	DialBandit: Adaptive Sequential Search with Tunable Evaluation Fidelity	https://neurips.cc/virtual/2026/poster/149867	included	在级联中联合选择查询模型、评估精度和停止时机
+155164	Dialect ASR based on Multi-View Pseudo-Parallel Augmentation and Noise-Robust Contrastive Learning	https://neurips.cc/virtual/2026/poster/155164	included	用伪平行多视图和分层对比学习区分共享语义与方言
+153268	Dialectics of Alignment: Harnessing Unsafe Knowledge for Dynamic Safety Routing	https://neurips.cc/virtual/2026/poster/153268	excluded	主要设计依赖高风险语料训练与调用，暂未提取可单独核验的安全贡献。
+153135	DialectLLM: A Dialect-Aware Dialog[ue] Generation Framework Beyond Standard American English	https://neurips.cc/virtual/2026/poster/153135	included	对用户话语和助手回答分别选择方言特征
+139390	DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections	https://neurips.cc/virtual/2026/poster/139390	included	单独核验移动代理的选择是否满足指令约束
+151451	DICE: Decoupling Capability from Intervention Necessity in LLM Tutoring	https://neurips.cc/virtual/2026/poster/151451	included	根据干预相对不干预的收益决定是否回应
+148173	DICEQuant: Distortion-Compensated Rounding with Dual-Ended Shrinkage for LLM Quantization	https://neurips.cc/virtual/2026/poster/148173	included	按下游敏感度补偿舍入误差
+151096	DictLLM: Post-training Compression of Large Language Model with Dictionary Kernels	https://neurips.cc/virtual/2026/poster/151096	included	为成组层共享字典
+152453	DiDE: Direct Injection with Color-Texture DEcoupling for 3D Stylization	https://neurips.cc/virtual/2026/poster/152453	included	用独立参考控制颜色和纹理
+155720	Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty Aware Differentiable Optimization	https://neurips.cc/virtual/2026/poster/155720	included	训练专为测试时求解设计的初始化
+149887	Diff-Aid: Inference-time Adaptive Interaction Denoising for Rectified Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/149887	included	按层和步调节逐 token 图文交互
+150268	DiffATS: Diffusion in Aligned Tensor Space	https://neurips.cc/virtual/2026/poster/150268	included	先消除低秩分解坐标歧义再学分布
+152243	DiffCap-RL: Differential QA Rewards for Dense Image and Video Captioning	https://neurips.cc/virtual/2026/poster/152243	included	对当前采样分歧动态出题
+152753	Diff-CA: Separating Common and Salient Factors with Diffusion Models	https://neurips.cc/virtual/2026/poster/152753	included	分别编辑共享属性与组间特异属性
+152390	DiffCool: Label-Free Synthesis of Chip-Tailored Heat Sinks via Thermal-Aware Diffusion	https://neurips.cc/virtual/2026/poster/152390	included	将制造约束写进采样状态转移
+151447	Diffeomoprhism-Informed 3D Gaussian Splattings via Screen-Space Optimal Transport (OT)	https://neurips.cc/virtual/2026/poster/151447	included	降采样前把监督预算移向细节区域
+155314	DiffeoMorph: Learning to Morph 3D Shapes Using Differentiable Agent-Based Simulations	https://neurips.cc/virtual/2026/poster/155314	included	以连续形状分布监督模拟机器人群
+148506	Difference of Convex Programming in the Wasserstein Space with Applications to MMD Optimization	https://neurips.cc/virtual/2026/poster/148506	included	对非凸分布目标测试凸差更新
+154330	Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154330	included	沿去噪时钟调整差分结构
+154944	Differentiable Belief-based Opponent Shaping	https://neurips.cc/virtual/2026/poster/154944	included	在封闭博弈中用估计信念研究策略协作
+148406	Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression	https://neurips.cc/virtual/2026/poster/148406	included	允许统一训练学出零位宽从而剪除成分
+156759	Differentiable Cluster Discovery in Temporal Graphs	https://neurips.cc/virtual/2026/poster/156759	included	联合更新时序表示与离散分组
+148538	Differentiable Exact Learning of Algorithms	https://neurips.cc/virtual/2026/poster/148538	included	用外部执行轨迹监督控制器而无需专家内部状态
+153641	Differentiable Knapsack and Top-k Operators via Dynamic Programming	https://neurips.cc/virtual/2026/poster/153641	included	直接平滑动态规划递推
+153043	Differentiable Learning of Lifted Action Schemas for Classical Planning	https://neurips.cc/virtual/2026/poster/153043	included	把动作参数识别和模式归纳一起学习
+153003	Differentiable Nonlinear Model Predictive Control	https://neurips.cc/virtual/2026/poster/153003	included	从求解器最优性条件提取灵敏度
 149856	Differentiable Range-Partition Entropy for Entropy-Sensitive Geometric Algorithms	https://neurips.cc/virtual/2026/poster/149856	pending	-
 152229	Differentiable Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation	https://neurips.cc/virtual/2026/poster/152229	pending	-
 156105	Differentiable Systematic Resampling for Variational Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/156105	pending	-
