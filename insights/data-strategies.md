@@ -90,6 +90,7 @@
 - [前缀支持的交错披露](../conferences/icml-2026/cards/4901-5000.md#wei26i-data-strategies) · When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning
 - [单轨迹首尾状态差筛样](../conferences/icml-2026/cards/5001-5100.md#wu26d-data-strategies) · Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection
 - [错误反馈与不可解状态的轨迹增强](../conferences/icml-2026/cards/5001-5100.md#wu26al-data-strategies) · Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use
+- [用可判分的仓库交互辅助任务训练](../conferences/icml-2026/cards/5101-5200.md#xie26p-data-strategies) · Hybrid-Gym: Training Coding Agents to Generalize Across Tasks
 
 <a id="by-computer-vision"></a>
 

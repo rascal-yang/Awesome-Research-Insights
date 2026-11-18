@@ -234,6 +234,7 @@
 - [双曲Karcher流关联记忆](../conferences/icml-2026/cards/5001-5100.md#wu26x-modules) · Hyperbolic neural population geometry benefits computation
 - [依赖图引导的因果token排序](../conferences/icml-2026/cards/5001-5100.md#wu26ci-modules) · LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting
 - [在适应基系数中求解attention](../conferences/icml-2026/cards/5101-5200.md#xiao26f-modules) · Functional Attention: From Pairwise Affinities to Functional Correspondences
+- [用向量球谐补全快速张量积](../conferences/icml-2026/cards/5101-5200.md#xie26h-modules) · Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -225,6 +225,7 @@ Training schedules, curricula, and task or stage composition.
 - [Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration](../../conferences/icml-2026/cards/4501-4600.md#tu26d-training-strategies) · 中文
 - [LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution](../../conferences/icml-2026/cards/5001-5100.md#wu26g-training-strategies) · 中文
 - [VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos](../../conferences/icml-2026/cards/5001-5100.md#wu26cg-training-strategies) · 中文
+- [SHERPA: Fine-tuning Segment Anything Models with Task-relevant Guidance](../../conferences/icml-2026/cards/5101-5200.md#xie26g-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

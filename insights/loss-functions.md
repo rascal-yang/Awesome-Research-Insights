@@ -201,6 +201,7 @@
 - [安全偏好样本的对比梯度修正](../conferences/icml-2026/cards/5001-5100.md#wu26w-loss-functions) · Towards Seed-Robust Safety Alignment in Text-to-Image Models
 - [共享模型文本引导视觉推理](../conferences/icml-2026/cards/5001-5100.md#xi26c-loss-functions) · Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression
 - [最终正确性门控的检索奖励](../conferences/icml-2026/cards/5101-5200.md#xie26e-loss-functions) · Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding
+- [在文本侧排斥近邻描述](../conferences/icml-2026/cards/5101-5200.md#xie26y-loss-functions) · FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model
 
 <a id="by-ml-foundations"></a>
 
@@ -254,6 +255,7 @@
 - [校准应检查路由后的聚合](../conferences/icml-2026/cards/4901-5000.md#wong26a-loss-functions) · Toward Calibrated Mixture-of-Experts Under Distribution Shift
 - [流形流映射的停止目标回归](../conferences/icml-2026/cards/4901-5000.md#woo26a-loss-functions) · Riemannian MeanFlow
 - [对密度比梯度的Sobolev正则](../conferences/icml-2026/cards/5101-5200.md#xie26b-loss-functions) · Sobolev Regularized Score Difference Estimation in Diffusion Models
+- [按主方向与方差匹配合成数据](../conferences/icml-2026/cards/5101-5200.md#xie26l-loss-functions) · FedUSD: Unbiased Synthetic Data for Federated Learning
 
 <a id="by-graph-and-recommendation"></a>
 

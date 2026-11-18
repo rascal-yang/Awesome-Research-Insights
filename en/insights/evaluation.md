@@ -349,6 +349,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching](../../conferences/icml-2026/cards/5101-5200.md#xiao26g-evaluation) · 中文
 - [Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns](../../conferences/icml-2026/cards/5101-5200.md#xiao26l-evaluation) · 中文
 - [A Narrowing Geometry in Contaminated Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xie26d-evaluation) · 中文
+- [Rethinking Code Complexity Through the Lens of Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#xie26j-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

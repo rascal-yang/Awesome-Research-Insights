@@ -342,6 +342,7 @@
 - [有损三级验证的共享子模型](../conferences/icml-2026/cards/5101-5200.md#xian26a-inference) · VIA-SD: Verification via Intra-Model Routing for Speculative Decoding
 - [保留上下文的局部重验](../conferences/icml-2026/cards/5101-5200.md#xiang26e-inference) · Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding
 - [保留已证子目标的可编辑证明结构](../conferences/icml-2026/cards/5101-5200.md#xiao26q-inference) · Editable Proof Sketch for Automated Theorem Proving
+- [用全轨迹最大不确定性校准早停](../conferences/icml-2026/cards/5101-5200.md#xie26z-inference) · Statistical Early Stopping for Reasoning Models
 
 <a id="by-computer-vision"></a>
 
@@ -650,6 +651,7 @@
 - [正交方向与单层风险门控](../conferences/icml-2026/cards/5001-5100.md#wu26at-inference) · REVIS: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models
 - [以attention后验混合位置偏置](../conferences/icml-2026/cards/5101-5200.md#xian26c-inference) · Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration
 - [模型反馈优化的反事实视频视图](../conferences/icml-2026/cards/5101-5200.md#xiao26w-inference) · MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs
+- [用层间attention差提取视觉证据](../conferences/icml-2026/cards/5101-5200.md#xie26m-inference) · Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy
 
 <a id="by-ml-foundations"></a>
 

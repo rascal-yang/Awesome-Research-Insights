@@ -225,6 +225,7 @@
 - [uncertainty-modulated-bridge](../conferences/icml-2026/cards/4501-4600.md#tu26d-training-strategies) · Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration
 - [按激活方差分配量化校准预算](../conferences/icml-2026/cards/5001-5100.md#wu26g-training-strategies) · LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution
 - [可丢弃外观适配器的运动迁移](../conferences/icml-2026/cards/5001-5100.md#wu26cg-training-strategies) · VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos
+- [在任务判别子空间施加小模型指导](../conferences/icml-2026/cards/5101-5200.md#xie26g-training-strategies) · SHERPA: Fine-tuning Segment Anything Models with Task-relevant Guidance
 
 <a id="by-nlp"></a>
 

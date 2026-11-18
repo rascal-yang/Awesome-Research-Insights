@@ -189,6 +189,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [HumanLM: Simulating Users with State Alignment Beats Response Imitation](../../conferences/icml-2026/cards/5001-5100.md#wu26k-reinforcement-learning) · 中文
 - [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26ai-reinforcement-learning) · 中文
 - [Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26az-reinforcement-learning) · 中文
+- [TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination](../../conferences/icml-2026/cards/5101-5200.md#xie26o-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

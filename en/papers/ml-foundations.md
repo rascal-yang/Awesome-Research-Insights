@@ -137,6 +137,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wu26x-modules"></a>[Hyperbolic neural population geometry benefits computation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26x)
 - <a id="wu26ci-modules"></a>[LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ci)
 - <a id="xiao26f-modules"></a>[Functional Attention: From Pairwise Affinities to Functional Correspondences](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26f)
+- <a id="xie26h-modules"></a>[Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26h)
 
 <a id="by-loss-functions"></a>
 
@@ -190,6 +191,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wong26a-loss-functions"></a>[Toward Calibrated Mixture-of-Experts Under Distribution Shift](../../conferences/icml-2026/cards/4901-5000.md#paper-wong26a)
 - <a id="woo26a-loss-functions"></a>[Riemannian MeanFlow](../../conferences/icml-2026/cards/4901-5000.md#paper-woo26a)
 - <a id="xie26b-loss-functions"></a>[Sobolev Regularized Score Difference Estimation in Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26b)
+- <a id="xie26l-loss-functions"></a>[FedUSD: Unbiased Synthetic Data for Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26l)
 
 <a id="by-optimization"></a>
 

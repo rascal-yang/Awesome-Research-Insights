@@ -263,6 +263,7 @@
 - <a id="wen26h-optimization"></a>[FOAM: Blocked State Folding for Memory-Efficient LLM Training](../conferences/icml-2026/cards/4901-5000.md#paper-wen26h)
 - <a id="xi26g-optimization"></a>[Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows](../conferences/icml-2026/cards/5101-5200.md#paper-xi26g)
 - <a id="xiao26t-optimization"></a>[Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26t)
+- <a id="xie26r-optimization"></a>[Controlled LLM Training on Spectral Sphere](../conferences/icml-2026/cards/5101-5200.md#paper-xie26r)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -444,6 +445,7 @@
 - <a id="wu26k-reinforcement-learning"></a>[HumanLM: Simulating Users with State Alignment Beats Response Imitation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26k)
 - <a id="wu26ai-reinforcement-learning"></a>[Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ai)
 - <a id="wu26az-reinforcement-learning"></a>[Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26az)
+- <a id="xie26o-reinforcement-learning"></a>[TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination](../conferences/icml-2026/cards/5101-5200.md#paper-xie26o)
 
 <a id="by-training-strategies"></a>
 
@@ -669,6 +671,7 @@
 - <a id="wei26i-data-strategies"></a>[When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning](../conferences/icml-2026/cards/4901-5000.md#paper-wei26i)
 - <a id="wu26d-data-strategies"></a>[Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection](../conferences/icml-2026/cards/5001-5100.md#paper-wu26d)
 - <a id="wu26al-data-strategies"></a>[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](../conferences/icml-2026/cards/5001-5100.md#paper-wu26al)
+- <a id="xie26p-data-strategies"></a>[Hybrid-Gym: Training Coding Agents to Generalize Across Tasks](../conferences/icml-2026/cards/5101-5200.md#paper-xie26p)
 
 <a id="by-inference"></a>
 
@@ -1003,6 +1006,7 @@
 - <a id="xian26a-inference"></a>[VIA-SD: Verification via Intra-Model Routing for Speculative Decoding](../conferences/icml-2026/cards/5101-5200.md#paper-xian26a)
 - <a id="xiang26e-inference"></a>[Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26e)
 - <a id="xiao26q-inference"></a>[Editable Proof Sketch for Automated Theorem Proving](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26q)
+- <a id="xie26z-inference"></a>[Statistical Early Stopping for Reasoning Models](../conferences/icml-2026/cards/5101-5200.md#paper-xie26z)
 
 <a id="by-representation-learning"></a>
 
@@ -1366,6 +1370,7 @@
 - <a id="xiao26g-evaluation"></a>[How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26g)
 - <a id="xiao26l-evaluation"></a>[Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26l)
 - <a id="xie26d-evaluation"></a>[A Narrowing Geometry in Contaminated Reasoning](../conferences/icml-2026/cards/5101-5200.md#paper-xie26d)
+- <a id="xie26j-evaluation"></a>[Rethinking Code Complexity Through the Lens of Large Language Models](../conferences/icml-2026/cards/5101-5200.md#paper-xie26j)
 
 <a id="by-theory-statistics"></a>
 

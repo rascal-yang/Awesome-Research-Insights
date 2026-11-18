@@ -349,6 +349,7 @@
 - [定位语言维持与语义检索的竞争](../conferences/icml-2026/cards/5101-5200.md#xiao26g-evaluation) · How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching
 - [跨模型正确性历史与跨数据校准](../conferences/icml-2026/cards/5101-5200.md#xiao26l-evaluation) · Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns
 - [污染推理的谱收缩与子空间干预](../conferences/icml-2026/cards/5101-5200.md#xie26d-evaluation) · A Narrowing Geometry in Contaminated Reasoning
+- [控制长度后评估代码语义复杂度](../conferences/icml-2026/cards/5101-5200.md#xie26j-evaluation) · Rethinking Code Complexity Through the Lens of Large Language Models
 
 <a id="by-computer-vision"></a>
 

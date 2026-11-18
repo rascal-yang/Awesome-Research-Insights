@@ -215,6 +215,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26al-optimization"></a>[Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26al)
 - <a id="wang26kh-optimization"></a>[AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kh)
 - <a id="wu26i-optimization"></a>[Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26i)
+- <a id="xie26q-optimization"></a>[Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26q)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -313,6 +314,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="tu26d-training-strategies"></a>[Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration](../../conferences/icml-2026/cards/4501-4600.md#paper-tu26d)
 - <a id="wu26g-training-strategies"></a>[LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26g)
 - <a id="wu26cg-training-strategies"></a>[VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26cg)
+- <a id="xie26g-training-strategies"></a>[SHERPA: Fine-tuning Segment Anything Models with Task-relevant Guidance](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26g)
 
 <a id="by-data-strategies"></a>
 

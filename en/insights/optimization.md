@@ -105,6 +105,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FOAM: Blocked State Folding for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/4901-5000.md#wen26h-optimization) · 中文
 - [Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows](../../conferences/icml-2026/cards/5101-5200.md#xi26g-optimization) · 中文
 - [Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling](../../conferences/icml-2026/cards/5101-5200.md#xiao26t-optimization) · 中文
+- [Controlled LLM Training on Spectral Sphere](../../conferences/icml-2026/cards/5101-5200.md#xie26r-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -140,6 +141,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#wang26al-optimization) · 中文
 - [AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction](../../conferences/icml-2026/cards/4801-4900.md#wang26kh-optimization) · 中文
 - [Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints](../../conferences/icml-2026/cards/5001-5100.md#wu26i-optimization) · 中文
+- [Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#xie26q-optimization) · 中文
 
 <a id="by-nlp"></a>
 

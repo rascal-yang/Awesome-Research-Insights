@@ -342,6 +342,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [VIA-SD: Verification via Intra-Model Routing for Speculative Decoding](../../conferences/icml-2026/cards/5101-5200.md#xian26a-inference) · 中文
 - [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](../../conferences/icml-2026/cards/5101-5200.md#xiang26e-inference) · 中文
 - [Editable Proof Sketch for Automated Theorem Proving](../../conferences/icml-2026/cards/5101-5200.md#xiao26q-inference) · 中文
+- [Statistical Early Stopping for Reasoning Models](../../conferences/icml-2026/cards/5101-5200.md#xie26z-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -650,6 +651,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [REVIS: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](../../conferences/icml-2026/cards/5001-5100.md#wu26at-inference) · 中文
 - [Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration](../../conferences/icml-2026/cards/5101-5200.md#xian26c-inference) · 中文
 - [MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs](../../conferences/icml-2026/cards/5101-5200.md#xiao26w-inference) · 中文
+- [Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy](../../conferences/icml-2026/cards/5101-5200.md#xie26m-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -105,6 +105,7 @@
 - [分块矩共享与即时残差](../conferences/icml-2026/cards/4901-5000.md#wen26h-optimization) · FOAM: Blocked State Folding for Memory-Efficient LLM Training
 - [逆列能量的自适应LoRA收缩](../conferences/icml-2026/cards/5101-5200.md#xi26g-optimization) · Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows
 - [稀疏重生参数的局部Adam暖启动](../conferences/icml-2026/cards/5101-5200.md#xiao26t-optimization) · Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling
+- [在光谱球切空间做矩阵更新](../conferences/icml-2026/cards/5101-5200.md#xie26r-optimization) · Controlled LLM Training on Spectral Sphere
 
 <a id="by-computer-vision"></a>
 
@@ -140,6 +141,7 @@
 - [先解阈值再尾风险微调](../conferences/icml-2026/cards/4601-4700.md#wang26al-optimization) · Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning
 - [梯度熵与冲突软融合](../conferences/icml-2026/cards/4801-4900.md#wang26kh-optimization) · AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction
 - [联合优化采样时间掩码与去噪器](../conferences/icml-2026/cards/5001-5100.md#wu26i-optimization) · Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints
+- [以可分离性联合搜索擦除层](../conferences/icml-2026/cards/5101-5200.md#xie26q-optimization) · Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models
 
 <a id="by-nlp"></a>
 

@@ -201,6 +201,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Towards Seed-Robust Safety Alignment in Text-to-Image Models](../../conferences/icml-2026/cards/5001-5100.md#wu26w-loss-functions) · 中文
 - [Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression](../../conferences/icml-2026/cards/5001-5100.md#xi26c-loss-functions) · 中文
 - [Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](../../conferences/icml-2026/cards/5101-5200.md#xie26e-loss-functions) · 中文
+- [FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](../../conferences/icml-2026/cards/5101-5200.md#xie26y-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -254,6 +255,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Toward Calibrated Mixture-of-Experts Under Distribution Shift](../../conferences/icml-2026/cards/4901-5000.md#wong26a-loss-functions) · 中文
 - [Riemannian MeanFlow](../../conferences/icml-2026/cards/4901-5000.md#woo26a-loss-functions) · 中文
 - [Sobolev Regularized Score Difference Estimation in Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#xie26b-loss-functions) · 中文
+- [FedUSD: Unbiased Synthetic Data for Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#xie26l-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
