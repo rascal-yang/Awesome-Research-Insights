@@ -110,6 +110,7 @@ Reusable components and local changes to model inputs or connections.
 - [Degradation-Aware Metric Prompting for Hyperspectral Image Restoration](../../conferences/icml-2026/cards/4801-4900.md#wang26hr-modules) · 中文
 - [Butterworth as Attention: Anisotropic Spectral Gating for Pansharpening](../../conferences/icml-2026/cards/4801-4900.md#wang26hx-modules) · 中文
 - [Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](../../conferences/icml-2026/cards/4801-4900.md#wang26iy-modules) · 中文
+- [Return of Frustratingly Easy Unsupervised Video Domain Adaptation](../../conferences/icml-2026/cards/4901-5000.md#wei26y-modules) · 中文
 
 <a id="by-nlp"></a>
 

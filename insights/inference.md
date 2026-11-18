@@ -332,6 +332,7 @@
 - [基础与对齐模型路由](../conferences/icml-2026/cards/4801-4900.md#wang26jo-inference) · Optimizing Diversity and Quality through Base-Aligned Model Collaboration
 - [仿射整数格的结构化向量量化](../conferences/icml-2026/cards/4901-5000.md#wang26lg-inference) · UniSVQ: 2-bit Unified Scalar-Vector Quantization
 - [计算受限解码按头与KV页分配预算](../conferences/icml-2026/cards/4901-5000.md#wang26lx-inference) · TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding
+- [扩散MoE冷热路由](../conferences/icml-2026/cards/4901-5000.md#wei26r-inference) · TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration
 
 <a id="by-computer-vision"></a>
 

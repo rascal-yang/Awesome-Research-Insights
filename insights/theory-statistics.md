@@ -170,6 +170,7 @@
 - [independent-chain-average-td](../conferences/icml-2026/cards/4401-4500.md#tian26b-theory-statistics) · Bridging the Gap Between Average and Discounted TD Learning
 - [多智能体模仿的特征覆盖与交互选择](../conferences/icml-2026/cards/4501-4600.md#viano26a-theory-statistics) · Multi-agent imitation learning with function approximation: linear Markov games and beyond
 - [GRPO采样维度方差不对称](../conferences/icml-2026/cards/4601-4700.md#wang26ci-theory-statistics) · Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO
+- [奖励MNAR的桥式评估](../conferences/icml-2026/cards/4901-5000.md#wei26v-theory-statistics) · Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random
 
 <a id="by-robotics"></a>
 
@@ -588,6 +589,7 @@
 - [因果分类的拒绝预算与正交尾部风险](../conferences/icml-2026/cards/4901-5000.md#wang26ly-theory-statistics) · Treatment Responder Classification with Abstention
 - [按基准Pareto边界收缩少样本模型选择](../conferences/icml-2026/cards/4901-5000.md#wegel26a-theory-statistics) · Hedging on the Frontier: Learning New Tasks with Few Samples
 - [按维数与隐私参数选择径向噪声](../conferences/icml-2026/cards/4901-5000.md#wei26a-theory-statistics) · Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy
+- [回溯训练数据的条件分离](../conferences/icml-2026/cards/4901-5000.md#wei26o-theory-statistics) · Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently
 
 <a id="by-graph-and-recommendation"></a>
 

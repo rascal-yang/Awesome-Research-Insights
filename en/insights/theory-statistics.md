@@ -170,6 +170,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Bridging the Gap Between Average and Discounted TD Learning](../../conferences/icml-2026/cards/4401-4500.md#tian26b-theory-statistics) · 中文
 - [Multi-agent imitation learning with function approximation: linear Markov games and beyond](../../conferences/icml-2026/cards/4501-4600.md#viano26a-theory-statistics) · 中文
 - [Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](../../conferences/icml-2026/cards/4601-4700.md#wang26ci-theory-statistics) · 中文
+- [Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random](../../conferences/icml-2026/cards/4901-5000.md#wei26v-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -588,6 +589,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Treatment Responder Classification with Abstention](../../conferences/icml-2026/cards/4901-5000.md#wang26ly-theory-statistics) · 中文
 - [Hedging on the Frontier: Learning New Tasks with Few Samples](../../conferences/icml-2026/cards/4901-5000.md#wegel26a-theory-statistics) · 中文
 - [Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy](../../conferences/icml-2026/cards/4901-5000.md#wei26a-theory-statistics) · 中文
+- [Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](../../conferences/icml-2026/cards/4901-5000.md#wei26o-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

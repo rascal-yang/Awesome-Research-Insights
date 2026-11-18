@@ -668,6 +668,7 @@
 - <a id="wang26ie-representation-learning"></a>[Zero-Flow Encoders](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ie)
 - <a id="wang26iz-representation-learning"></a>[Mixing Configurations for Downstream Prediction](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iz)
 - <a id="wei26d-representation-learning"></a>[Dynamic Compression Flows for Neuroscience Data](../conferences/icml-2026/cards/4901-5000.md#paper-wei26d)
+- <a id="wei26s-representation-learning"></a>[Deep neural networks divide and conquer dihedral multiplication](../conferences/icml-2026/cards/4901-5000.md#paper-wei26s)
 
 <a id="by-evaluation"></a>
 
@@ -1132,4 +1133,5 @@
 - <a id="wang26ly-theory-statistics"></a>[Treatment Responder Classification with Abstention](../conferences/icml-2026/cards/4901-5000.md#paper-wang26ly)
 - <a id="wegel26a-theory-statistics"></a>[Hedging on the Frontier: Learning New Tasks with Few Samples](../conferences/icml-2026/cards/4901-5000.md#paper-wegel26a)
 - <a id="wei26a-theory-statistics"></a>[Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy](../conferences/icml-2026/cards/4901-5000.md#paper-wei26a)
+- <a id="wei26o-theory-statistics"></a>[Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](../conferences/icml-2026/cards/4901-5000.md#paper-wei26o)
 <!-- classification:end -->

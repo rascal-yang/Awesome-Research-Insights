@@ -64,6 +64,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tseng26a-architecture"></a>[$L^3$: Large Lookup Layers](../../conferences/icml-2026/cards/4401-4500.md#paper-tseng26a)
 - <a id="tumma26a-architecture"></a>[Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences](../../conferences/icml-2026/cards/4501-4600.md#paper-tumma26a)
 - <a id="wang26gr-architecture"></a>[Dynamic Linear Attention](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gr)
+- <a id="wei26h-architecture"></a>[RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26h)
 
 <a id="by-modules"></a>
 
@@ -569,6 +570,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26gy-training-strategies"></a>[AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gy)
 - <a id="wang26lk-training-strategies"></a>[AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lk)
 - <a id="watts26a-training-strategies"></a>[Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting](../../conferences/icml-2026/cards/4901-5000.md#paper-watts26a)
+- <a id="wei26x-training-strategies"></a>[Toward Training Superintelligent Software Agents through Self-Play SWE-RL](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26x)
 
 <a id="by-data-strategies"></a>
 
@@ -648,6 +650,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26hi-data-strategies"></a>[MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hi)
 - <a id="wang26hk-data-strategies"></a>[Target-Oriented Pretraining Data Selection via Neuron-Activated Graph](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hk)
 - <a id="wang26ik-data-strategies"></a>[Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ik)
+- <a id="wei26i-data-strategies"></a>[When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26i)
 
 <a id="by-inference"></a>
 
@@ -972,6 +975,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26jo-inference"></a>[Optimizing Diversity and Quality through Base-Aligned Model Collaboration](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jo)
 - <a id="wang26lg-inference"></a>[UniSVQ: 2-bit Unified Scalar-Vector Quantization](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lg)
 - <a id="wang26lx-inference"></a>[TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lx)
+- <a id="wei26r-inference"></a>[TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26r)
 
 <a id="by-representation-learning"></a>
 

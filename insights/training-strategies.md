@@ -147,6 +147,7 @@
 - [按序列拆分多token输出头以平衡流水](../conferences/icml-2026/cards/4701-4800.md#wang26gy-training-strategies) · AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism
 - [逐头长度温度与位置校准时机](../conferences/icml-2026/cards/4901-5000.md#wang26lk-training-strategies) · AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally
 - [预训练末期平坦化改善学习遗忘前沿](../conferences/icml-2026/cards/4901-5000.md#watts26a-training-strategies) · Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting
+- [可执行任务的自博弈验证](../conferences/icml-2026/cards/4901-5000.md#wei26x-training-strategies) · Toward Training Superintelligent Software Agents through Self-Play SWE-RL
 
 <a id="by-computer-vision"></a>
 

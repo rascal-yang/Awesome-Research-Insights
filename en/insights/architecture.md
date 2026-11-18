@@ -64,6 +64,7 @@ Model-wide design and information flow.
 - [$L^3$: Large Lookup Layers](../../conferences/icml-2026/cards/4401-4500.md#tseng26a-architecture) · 中文
 - [Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences](../../conferences/icml-2026/cards/4501-4600.md#tumma26a-architecture) · 中文
 - [Dynamic Linear Attention](../../conferences/icml-2026/cards/4701-4800.md#wang26gr-architecture) · 中文
+- [RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference](../../conferences/icml-2026/cards/4901-5000.md#wei26h-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 

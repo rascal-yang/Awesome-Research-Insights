@@ -87,6 +87,7 @@
 - [模型合并代理数据混合比例](../conferences/icml-2026/cards/4701-4800.md#wang26hi-data-strategies) · MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging
 - [目标神经元激活集合筛选数据](../conferences/icml-2026/cards/4801-4900.md#wang26hk-data-strategies) · Target-Oriented Pretraining Data Selection via Neuron-Activated Graph
 - [跨模型迭代构造偏好对](../conferences/icml-2026/cards/4801-4900.md#wang26ik-data-strategies) · Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future
+- [前缀支持的交错披露](../conferences/icml-2026/cards/4901-5000.md#wei26i-data-strategies) · When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -182,6 +183,7 @@
 - [用跨模态对齐轨迹选择指令样本](../conferences/icml-2026/cards/3401-3500.md#naharas26a-data-strategies) · Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories
 - [用自生成图注增加可利用的跨模态冗余](../conferences/icml-2026/cards/3901-4000.md#ryan26a-data-strategies) · Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models
 - [任务分布一致性与相关性联合剪枝](../conferences/icml-2026/cards/4601-4700.md#wang26cz-data-strategies) · ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis
+- [局部教师全图学生](../conferences/icml-2026/cards/4901-5000.md#wei26j-data-strategies) · Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception
 
 <a id="by-ml-foundations"></a>
 

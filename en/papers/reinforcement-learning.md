@@ -362,4 +362,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="tian26b-theory-statistics"></a>[Bridging the Gap Between Average and Discounted TD Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26b)
 - <a id="viano26a-theory-statistics"></a>[Multi-agent imitation learning with function approximation: linear Markov games and beyond](../../conferences/icml-2026/cards/4501-4600.md#paper-viano26a)
 - <a id="wang26ci-theory-statistics"></a>[Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ci)
+- <a id="wei26v-theory-statistics"></a>[Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26v)
 <!-- classification:end -->

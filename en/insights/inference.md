@@ -332,6 +332,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Optimizing Diversity and Quality through Base-Aligned Model Collaboration](../../conferences/icml-2026/cards/4801-4900.md#wang26jo-inference) · 中文
 - [UniSVQ: 2-bit Unified Scalar-Vector Quantization](../../conferences/icml-2026/cards/4901-5000.md#wang26lg-inference) · 中文
 - [TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding](../../conferences/icml-2026/cards/4901-5000.md#wang26lx-inference) · 中文
+- [TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](../../conferences/icml-2026/cards/4901-5000.md#wei26r-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

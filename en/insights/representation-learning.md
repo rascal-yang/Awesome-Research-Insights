@@ -264,6 +264,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Zero-Flow Encoders](../../conferences/icml-2026/cards/4801-4900.md#wang26ie-representation-learning) · 中文
 - [Mixing Configurations for Downstream Prediction](../../conferences/icml-2026/cards/4801-4900.md#wang26iz-representation-learning) · 中文
 - [Dynamic Compression Flows for Neuroscience Data](../../conferences/icml-2026/cards/4901-5000.md#wei26d-representation-learning) · 中文
+- [Deep neural networks divide and conquer dihedral multiplication](../../conferences/icml-2026/cards/4901-5000.md#wei26s-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

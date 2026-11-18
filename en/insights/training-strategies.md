@@ -147,6 +147,7 @@ Training schedules, curricula, and task or stage composition.
 - [AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism](../../conferences/icml-2026/cards/4701-4800.md#wang26gy-training-strategies) · 中文
 - [AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](../../conferences/icml-2026/cards/4901-5000.md#wang26lk-training-strategies) · 中文
 - [Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting](../../conferences/icml-2026/cards/4901-5000.md#watts26a-training-strategies) · 中文
+- [Toward Training Superintelligent Software Agents through Self-Play SWE-RL](../../conferences/icml-2026/cards/4901-5000.md#wei26x-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

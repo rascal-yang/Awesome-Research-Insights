@@ -110,6 +110,7 @@
 - [可测退化指标路由修复专家](../conferences/icml-2026/cards/4801-4900.md#wang26hr-modules) · Degradation-Aware Metric Prompting for Hyperspectral Image Restoration
 - [输入条件化各向异性频域门](../conferences/icml-2026/cards/4801-4900.md#wang26hx-modules) · Butterworth as Attention: Anisotropic Spectral Gating for Pansharpening
 - [饱和局部像素差作为编辑痕迹](../conferences/icml-2026/cards/4801-4900.md#wang26iy-modules) · Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization
+- [静态不变分支相减](../conferences/icml-2026/cards/4901-5000.md#wei26y-modules) · Return of Frustratingly Easy Unsupervised Video Domain Adaptation
 
 <a id="by-nlp"></a>
 

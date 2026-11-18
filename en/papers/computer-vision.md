@@ -126,6 +126,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26hr-modules"></a>[Degradation-Aware Metric Prompting for Hyperspectral Image Restoration](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hr)
 - <a id="wang26hx-modules"></a>[Butterworth as Attention: Anisotropic Spectral Gating for Pansharpening](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hx)
 - <a id="wang26iy-modules"></a>[Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26iy)
+- <a id="wei26y-modules"></a>[Return of Frustratingly Easy Unsupervised Video Domain Adaptation](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26y)
 
 <a id="by-loss-functions"></a>
 

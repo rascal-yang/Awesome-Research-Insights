@@ -280,6 +280,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="naharas26a-data-strategies"></a>[Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](../../conferences/icml-2026/cards/3401-3500.md#paper-naharas26a)
 - <a id="ryan26a-data-strategies"></a>[Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#paper-ryan26a)
 - <a id="wang26cz-data-strategies"></a>[ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cz)
+- <a id="wei26j-data-strategies"></a>[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26j)
 
 <a id="by-inference"></a>
 
