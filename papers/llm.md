@@ -474,6 +474,7 @@
 - <a id="yao26a-reinforcement-learning"></a>[Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization](../conferences/icml-2026/cards/5401-5500.md#paper-yao26a)
 - <a id="ye26j-reinforcement-learning"></a>[UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](../conferences/icml-2026/cards/5501-5600.md#paper-ye26j)
 - <a id="yu26br-reinforcement-learning"></a>[PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26br)
+- <a id="yue26b-reinforcement-learning"></a>[Mem-T: Densifying Rewards for Long-Horizon Memory Agents](../conferences/icml-2026/cards/5601-5700.md#paper-yue26b)
 
 <a id="by-training-strategies"></a>
 
@@ -1076,6 +1077,7 @@
 - <a id="ye26r-inference"></a>[Select to Think: Unlocking SLM Potential with Local Sufficiency](../conferences/icml-2026/cards/5501-5600.md#paper-ye26r)
 - <a id="yu26v-inference"></a>[Multi-Adapter Representation Interventions via Energy Calibration](../conferences/icml-2026/cards/5501-5600.md#paper-yu26v)
 - <a id="yu26bl-inference"></a>[Training-Free Hashing-Based Attention via Binary Principal Components](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bl)
+- <a id="yue26a-inference"></a>[Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention](../conferences/icml-2026/cards/5601-5700.md#paper-yue26a)
 
 <a id="by-representation-learning"></a>
 

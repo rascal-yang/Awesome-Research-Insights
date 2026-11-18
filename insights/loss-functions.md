@@ -299,6 +299,7 @@
 - [残差Gamma似然与固定噪声BNN交替训练](../conferences/icml-2026/cards/5501-5600.md#yi26a-loss-functions) · Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties
 - [用条件质量路径匹配非守恒分布](../conferences/icml-2026/cards/5501-5600.md#ying26b-loss-functions) · Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots
 - [耦合样本簇状态与锚点簇计数的目标](../conferences/icml-2026/cards/5601-5700.md#yu26ad-loss-functions) · Fine-to-Coarse Fairness-Informed Multi-View Clustering
+- [以模型分歧除重建误差奖励时序增强](../conferences/icml-2026/cards/5601-5700.md#yuan26i-loss-functions) · ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning
 
 <a id="by-graph-and-recommendation"></a>
 

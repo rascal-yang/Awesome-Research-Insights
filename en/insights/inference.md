@@ -364,6 +364,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Select to Think: Unlocking SLM Potential with Local Sufficiency](../../conferences/icml-2026/cards/5501-5600.md#ye26r-inference) · 中文
 - [Multi-Adapter Representation Interventions via Energy Calibration](../../conferences/icml-2026/cards/5501-5600.md#yu26v-inference) · 中文
 - [Training-Free Hashing-Based Attention via Binary Principal Components](../../conferences/icml-2026/cards/5601-5700.md#yu26bl-inference) · 中文
+- [Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention](../../conferences/icml-2026/cards/5601-5700.md#yue26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -764,6 +765,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts](../../conferences/icml-2026/cards/5501-5600.md#yavlovich26a-inference) · 中文
 - [MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../../conferences/icml-2026/cards/5601-5700.md#yu26ae-inference) · 中文
 - [FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models](../../conferences/icml-2026/cards/5601-5700.md#yu26au-inference) · 中文
+- [Markov Chain Monte Carlo without Evaluating the Target: an Auxiliary Variable Approach](../../conferences/icml-2026/cards/5601-5700.md#yuan26j-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -638,6 +638,8 @@
 - [用维数诊断时同时计tail敏感性与信息丢失](../conferences/icml-2026/cards/5601-5700.md#yu26ap-theory-statistics) · Understanding Generalization from Embedding Dimension and Distributional Convergence
 - [按坐标历史差分的bandit变化界](../conferences/icml-2026/cards/5601-5700.md#yu26bh-theory-statistics) · Improved Dimension Dependence for Bandit Convex Optimization with Gradient Variation
 - [单调分位曲线投影与固定不对称比](../conferences/icml-2026/cards/5601-5700.md#yu26by-theory-statistics) · Conditional Quantile Adjusted Conformal Prediction for Time Series
+- [按时间依赖条件使用精确稀疏回归](../conferences/icml-2026/cards/5601-5700.md#yuan26a-theory-statistics) · Sparse Regression with $\ell_0$ Constraints for $α$-Mixing Time Series: Algorithms and Guarantees
+- [在高召回排序候选内做局部CI验证](../conferences/icml-2026/cards/5601-5700.md#yuan26g-theory-statistics) · Global Directional Priors with Local Statistical Validation for Scalable Causal Discovery
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -368,6 +368,7 @@
 - [全双工听觉期间的潜在推理蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26bx-training-strategies) · The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning
 - [结构与语义目标的参数路由](../conferences/icml-2026/cards/5301-5400.md#yang26ae-training-strategies) · MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality
 - [混合音频的随机双源离散目标](../conferences/icml-2026/cards/5401-5500.md#yang26cv-training-strategies) · SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations
+- [融合浅层特征时隔离skip梯度](../conferences/icml-2026/cards/5601-5700.md#yuan26n-training-strategies) · Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR
 
 <a id="by-ml-foundations"></a>
 
@@ -469,6 +470,7 @@
 - [组合问题分布元学习](../conferences/icml-2026/cards/3501-3600.md#pan26h-training-strategies) · Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation
 - [用低秩局部遗忘和排序校准删除推荐交互](../conferences/icml-2026/cards/3601-3700.md#prakash26c-training-strategies) · Obliviate: Efficient Unlearning in Recommender Systems
 - [随机增删边后对齐推理消息期望](../conferences/icml-2026/cards/3901-4000.md#saber26a-training-strategies) · RADE: Random Add-Drop Edge as a Regularizer
+- [低频重传播隐藏状态保留预传播训练效率](../conferences/icml-2026/cards/5601-5700.md#yue26c-training-strategies) · Revisiting Pre-Propagation GNNs: Robust Diffusion Operators and Hidden-State Re-Propagation
 
 <a id="by-scientific-ml"></a>
 

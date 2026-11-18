@@ -368,6 +368,7 @@ Training schedules, curricula, and task or stage composition.
 - [The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26bx-training-strategies) · 中文
 - [MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality](../../conferences/icml-2026/cards/5301-5400.md#yang26ae-training-strategies) · 中文
 - [SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations](../../conferences/icml-2026/cards/5401-5500.md#yang26cv-training-strategies) · 中文
+- [Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](../../conferences/icml-2026/cards/5601-5700.md#yuan26n-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -469,6 +470,7 @@ Training schedules, curricula, and task or stage composition.
 - [Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation](../../conferences/icml-2026/cards/3501-3600.md#pan26h-training-strategies) · 中文
 - [Obliviate: Efficient Unlearning in Recommender Systems](../../conferences/icml-2026/cards/3601-3700.md#prakash26c-training-strategies) · 中文
 - [RADE: Random Add-Drop Edge as a Regularizer](../../conferences/icml-2026/cards/3901-4000.md#saber26a-training-strategies) · 中文
+- [Revisiting Pre-Propagation GNNs: Robust Diffusion Operators and Hidden-State Re-Propagation](../../conferences/icml-2026/cards/5601-5700.md#yue26c-training-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

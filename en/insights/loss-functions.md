@@ -299,6 +299,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties](../../conferences/icml-2026/cards/5501-5600.md#yi26a-loss-functions) · 中文
 - [Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../../conferences/icml-2026/cards/5501-5600.md#ying26b-loss-functions) · 中文
 - [Fine-to-Coarse Fairness-Informed Multi-View Clustering](../../conferences/icml-2026/cards/5601-5700.md#yu26ad-loss-functions) · 中文
+- [ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yuan26i-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

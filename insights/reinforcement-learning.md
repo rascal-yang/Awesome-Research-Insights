@@ -197,6 +197,7 @@
 - [连续用户请求与提前耗尽的分离奖励](../conferences/icml-2026/cards/5401-5500.md#yao26a-reinforcement-learning) · Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization
 - [用邻域边际效用训练可迁移记忆](../conferences/icml-2026/cards/5501-5600.md#ye26j-reinforcement-learning) · UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory
 - [同种子分支与分阶段优势的设计RL](../conferences/icml-2026/cards/5601-5700.md#yu26br-reinforcement-learning) · PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning
+- [将检索结果信用回传到源记忆写操作](../conferences/icml-2026/cards/5601-5700.md#yue26b-reinforcement-learning) · Mem-T: Densifying Rewards for Long-Horizon Memory Agents
 
 <a id="by-computer-vision"></a>
 

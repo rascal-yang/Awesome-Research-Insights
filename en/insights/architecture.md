@@ -237,6 +237,7 @@ Model-wide design and information flow.
 - [LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer](../../conferences/icml-2026/cards/4001-4100.md#shen26w-architecture) · 中文
 - [Visual Para-Thinker: Divide-and-Conquer Reasoning for Visual Comprehension](../../conferences/icml-2026/cards/5201-5300.md#xu26bh-architecture) · 中文
 - [Deep Pre-Alignment for VLMs](../../conferences/icml-2026/cards/5501-5600.md#yu26j-architecture) · 中文
+- [Towards Multimodal Large Language Models with Both Training and Inference Efficiency](../../conferences/icml-2026/cards/5601-5700.md#yuan26c-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 

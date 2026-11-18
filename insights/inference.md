@@ -364,6 +364,7 @@
 - [蒸馏学生候选集上的逐token选择](../conferences/icml-2026/cards/5501-5600.md#ye26r-inference) · Select to Think: Unlocking SLM Potential with Local Sufficiency
 - [用小探针传播响应决定是否施加表示干预](../conferences/icml-2026/cards/5501-5600.md#yu26v-inference) · Multi-Adapter Representation Interventions via Energy Calibration
 - [二值残差分解的非对称KV检索](../conferences/icml-2026/cards/5601-5700.md#yu26bl-inference) · Training-Free Hashing-Based Attention via Binary Principal Components
+- [复用验证logits选择自推测草稿KV](../conferences/icml-2026/cards/5601-5700.md#yue26a-inference) · Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention
 
 <a id="by-computer-vision"></a>
 
@@ -764,6 +765,7 @@
 - [神经预测dual后投影可行再交精确匹配器](../conferences/icml-2026/cards/5501-5600.md#yavlovich26a-inference) · Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts
 - [缓存低精度高覆盖规则再映射细化](../conferences/icml-2026/cards/5601-5700.md#yu26ae-inference) · MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation
 - [把低保真预测分布作为残差ICL输入](../conferences/icml-2026/cards/5601-5700.md#yu26au-inference) · FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models
+- [联合校正辅助变量提议与接受率](../conferences/icml-2026/cards/5601-5700.md#yuan26j-inference) · Markov Chain Monte Carlo without Evaluating the Target: an Auxiliary Variable Approach
 
 <a id="by-graph-and-recommendation"></a>
 

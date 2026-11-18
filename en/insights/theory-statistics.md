@@ -638,6 +638,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Understanding Generalization from Embedding Dimension and Distributional Convergence](../../conferences/icml-2026/cards/5601-5700.md#yu26ap-theory-statistics) · 中文
 - [Improved Dimension Dependence for Bandit Convex Optimization with Gradient Variation](../../conferences/icml-2026/cards/5601-5700.md#yu26bh-theory-statistics) · 中文
 - [Conditional Quantile Adjusted Conformal Prediction for Time Series](../../conferences/icml-2026/cards/5601-5700.md#yu26by-theory-statistics) · 中文
+- [Sparse Regression with $\ell_0$ Constraints for $α$-Mixing Time Series: Algorithms and Guarantees](../../conferences/icml-2026/cards/5601-5700.md#yuan26a-theory-statistics) · 中文
+- [Global Directional Priors with Local Statistical Validation for Scalable Causal Discovery](../../conferences/icml-2026/cards/5601-5700.md#yuan26g-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

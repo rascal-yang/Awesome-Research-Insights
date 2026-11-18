@@ -125,6 +125,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="pan26h-training-strategies"></a>[Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation](../../conferences/icml-2026/cards/3501-3600.md#paper-pan26h)
 - <a id="prakash26c-training-strategies"></a>[Obliviate: Efficient Unlearning in Recommender Systems](../../conferences/icml-2026/cards/3601-3700.md#paper-prakash26c)
 - <a id="saber26a-training-strategies"></a>[RADE: Random Add-Drop Edge as a Regularizer](../../conferences/icml-2026/cards/3901-4000.md#paper-saber26a)
+- <a id="yue26c-training-strategies"></a>[Revisiting Pre-Propagation GNNs: Robust Diffusion Operators and Hidden-State Re-Propagation](../../conferences/icml-2026/cards/5601-5700.md#paper-yue26c)
 
 <a id="by-data-strategies"></a>
 

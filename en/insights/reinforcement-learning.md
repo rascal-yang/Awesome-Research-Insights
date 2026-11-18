@@ -197,6 +197,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization](../../conferences/icml-2026/cards/5401-5500.md#yao26a-reinforcement-learning) · 中文
 - [UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](../../conferences/icml-2026/cards/5501-5600.md#ye26j-reinforcement-learning) · 中文
 - [PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26br-reinforcement-learning) · 中文
+- [Mem-T: Densifying Rewards for Long-Horizon Memory Agents](../../conferences/icml-2026/cards/5601-5700.md#yue26b-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

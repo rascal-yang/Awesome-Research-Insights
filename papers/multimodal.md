@@ -42,6 +42,7 @@
 - <a id="shen26w-architecture"></a>[LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer](../conferences/icml-2026/cards/4001-4100.md#paper-shen26w)
 - <a id="xu26bh-architecture"></a>[Visual Para-Thinker: Divide-and-Conquer Reasoning for Visual Comprehension](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bh)
 - <a id="yu26j-architecture"></a>[Deep Pre-Alignment for VLMs](../conferences/icml-2026/cards/5501-5600.md#paper-yu26j)
+- <a id="yuan26c-architecture"></a>[Towards Multimodal Large Language Models with Both Training and Inference Efficiency](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26c)
 
 <a id="by-modules"></a>
 
@@ -278,6 +279,7 @@
 - <a id="wu26bx-training-strategies"></a>[The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bx)
 - <a id="yang26ae-training-strategies"></a>[MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ae)
 - <a id="yang26cv-training-strategies"></a>[SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cv)
+- <a id="yuan26n-training-strategies"></a>[Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26n)
 
 <a id="by-data-strategies"></a>
 

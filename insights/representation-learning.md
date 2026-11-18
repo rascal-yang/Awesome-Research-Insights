@@ -280,6 +280,7 @@
 - [任意分支树的正交logratio坐标](../conferences/icml-2026/cards/5301-5400.md#yamada26a-representation-learning) · Tree-Structured Orthonormal Decomposition of the Aitchison Simplex
 - [按覆盖与残差方向控制embedding翻译](../conferences/icml-2026/cards/5301-5400.md#yang26e-representation-learning) · Generalizable and Composable Multi-Model Embedding Translation
 - [用同环境few-shot上下文替代固定环境标签](../conferences/icml-2026/cards/5501-5600.md#ye26p-representation-learning) · Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments
+- [直接优化可由SDE诱导的离散后验参数](../conferences/icml-2026/cards/5601-5700.md#yuan26h-representation-learning) · Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference
 
 <a id="by-graph-and-recommendation"></a>
 

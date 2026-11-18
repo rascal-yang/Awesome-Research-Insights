@@ -237,6 +237,7 @@
 - [按流匹配时间分配 Transformer 层组](../conferences/icml-2026/cards/4001-4100.md#shen26w-architecture) · LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer
 - [路径隔离与视觉分区的并行推理](../conferences/icml-2026/cards/5201-5300.md#xu26bh-architecture) · Visual Para-Thinker: Divide-and-Conquer Reasoning for Visual Comprehension
 - [以小VLM为感知前端时不只追求其独立分数](../conferences/icml-2026/cards/5501-5600.md#yu26j-architecture) · Deep Pre-Alignment for VLMs
+- [只让文本query访问分层对齐的视觉输入](../conferences/icml-2026/cards/5601-5700.md#yuan26c-architecture) · Towards Multimodal Large Language Models with Both Training and Inference Efficiency
 
 <a id="by-ml-foundations"></a>
 

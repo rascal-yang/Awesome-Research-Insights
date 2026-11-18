@@ -146,6 +146,7 @@
 - <a id="ye26k-modules"></a>[Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model](../conferences/icml-2026/cards/5501-5600.md#paper-ye26k)
 - <a id="you26f-modules"></a>[Latent Laplace Diffusion for Irregular Multivariate Time Series](../conferences/icml-2026/cards/5501-5600.md#paper-you26f)
 - <a id="yu26y-modules"></a>[Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames](../conferences/icml-2026/cards/5501-5600.md#paper-yu26y)
+- <a id="yuan26e-modules"></a>[Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26e)
 
 <a id="by-loss-functions"></a>
 
@@ -211,6 +212,7 @@
 - <a id="yi26a-loss-functions"></a>[Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties](../conferences/icml-2026/cards/5501-5600.md#paper-yi26a)
 - <a id="ying26b-loss-functions"></a>[Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../conferences/icml-2026/cards/5501-5600.md#paper-ying26b)
 - <a id="yu26ad-loss-functions"></a>[Fine-to-Coarse Fairness-Informed Multi-View Clustering](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ad)
+- <a id="yuan26i-loss-functions"></a>[ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26i)
 
 <a id="by-optimization"></a>
 
@@ -678,6 +680,7 @@
 - <a id="yavlovich26a-inference"></a>[Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts](../conferences/icml-2026/cards/5501-5600.md#paper-yavlovich26a)
 - <a id="yu26ae-inference"></a>[MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ae)
 - <a id="yu26au-inference"></a>[FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models](../conferences/icml-2026/cards/5601-5700.md#paper-yu26au)
+- <a id="yuan26j-inference"></a>[Markov Chain Monte Carlo without Evaluating the Target: an Auxiliary Variable Approach](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26j)
 
 <a id="by-representation-learning"></a>
 
@@ -750,6 +753,7 @@
 - <a id="yamada26a-representation-learning"></a>[Tree-Structured Orthonormal Decomposition of the Aitchison Simplex](../conferences/icml-2026/cards/5301-5400.md#paper-yamada26a)
 - <a id="yang26e-representation-learning"></a>[Generalizable and Composable Multi-Model Embedding Translation](../conferences/icml-2026/cards/5301-5400.md#paper-yang26e)
 - <a id="ye26p-representation-learning"></a>[Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments](../conferences/icml-2026/cards/5501-5600.md#paper-ye26p)
+- <a id="yuan26h-representation-learning"></a>[Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26h)
 
 <a id="by-evaluation"></a>
 
@@ -1257,4 +1261,6 @@
 - <a id="yu26ap-theory-statistics"></a>[Understanding Generalization from Embedding Dimension and Distributional Convergence](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ap)
 - <a id="yu26bh-theory-statistics"></a>[Improved Dimension Dependence for Bandit Convex Optimization with Gradient Variation](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bh)
 - <a id="yu26by-theory-statistics"></a>[Conditional Quantile Adjusted Conformal Prediction for Time Series](../conferences/icml-2026/cards/5601-5700.md#paper-yu26by)
+- <a id="yuan26a-theory-statistics"></a>[Sparse Regression with $\ell_0$ Constraints for $α$-Mixing Time Series: Algorithms and Guarantees](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26a)
+- <a id="yuan26g-theory-statistics"></a>[Global Directional Priors with Local Statistical Validation for Scalable Causal Discovery](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26g)
 <!-- classification:end -->

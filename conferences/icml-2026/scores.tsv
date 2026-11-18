@@ -5650,26 +5650,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5649	yu26bw	3	4	3	3	66		初筛，原文与先例核查待补：新增3暂按后门组件稀疏但需要联合移除，最近方法差异见baseline且待核；复用4：后门审计应比较小组件集联合移除与单组件影响，不能以probe可分或一个head的输出概率变化断言完成修复；同时测干净能力与未见触发条件。 可用3受跨样本meanactivation不消除全部语义混杂，干预有outofdistribution效应；probability归因和生成ASR不等。已知poisonpaired样本与whitebox访问限制部署，干净能力损失及未见trigger覆盖必须核，不视作通用消毒保证。 独特3暂定，全库替代性待统一核查；PDF第3/4/6/7页。	scored
 5650	yu26bx	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按冻结与微调双视图的稳健分解，最近方法差异见baseline且待核；复用5：有源域混杂的微调可保留冻结模型作第二视图，学稳定共同表示并将低层局部线索边际化；两视图相同则失去分解信号，应与简单权重平均同台比较。 可用3受SCM是识别scaffold非真实textDGP，C只是proxy非恢复groundtruthcause；算法是否满足两视图独立变化/mediation假设待核。平均Φ是所设干预目标，不保证任何testdistribution最优，frozen训练额外内存/梯度成本待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
 5651	yu26by	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按单调分位曲线投影与固定不对称比，最近方法差异见baseline且待核；复用5：时序区间可将多level条件分位估计投影到低阶CF曲线并加单调约束，再固定跨置信度的左右tail分配比，避免各α独立最短区间互相交叉。 可用4受conditionalcoverage仅渐近，需中心概率区间、smoothness、design良态与投影一致；不认证任意dependence有限样本。gridmonotonic到全curve的约束实现、CV对noisybase而非truth的偏好、极端tail外推与MSE gain条件待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
-5652	yuan26a							待原文复核评分	pending
-5653	yuan26b							待原文复核评分	pending
-5654	yuan26c							待原文复核评分	pending
-5655	yuan26d							待原文复核评分	pending
-5656	yuan26e							待原文复核评分	pending
-5657	yuan26f							待原文复核评分	pending
-5658	yuan26g							待原文复核评分	pending
-5659	yuan26h							待原文复核评分	pending
-5660	yuan26i							待原文复核评分	pending
-5661	yuan26j							待原文复核评分	pending
-5662	yuan26k							待原文复核评分	pending
-5663	yuan26l							待原文复核评分	pending
-5664	yuan26m							待原文复核评分	pending
-5665	yuan26n							待原文复核评分	pending
-5666	yuan26o							待原文复核评分	pending
-5667	yuan26p							待原文复核评分	pending
-5668	yue26a							待原文复核评分	pending
-5669	yue26b							待原文复核评分	pending
-5670	yue26c							待原文复核评分	pending
-5671	yue26d							待原文复核评分	pending
+5652	yuan26a	3	4	3	3	66		初筛，原文与先例核查待补：按时间依赖条件使用精确稀疏回归：新增量暂3，相关模型复用4，当前操作性3，独特区别3；第4、5、7页，完整假设、最近先例和匹配预算待核。	scored
+5653	yuan26b							初筛，原文与先例核查待补：现有摘要为专家skills与工具编排的spatial-proteomics agent及SP-Bench；没有明确可分离的新通用神经操作。按成熟agent工作流应用与独立增量不足初排，未深入专用分析步骤，不因生物名称排除。	rule-excluded
+5654	yuan26c	3	4	4	3	70		初筛，原文与先例核查待补：只让文本query访问分层对齐的视觉输入：新增量暂3，相关模型复用4，当前操作性4，独特区别3；第4、5、6页，完整假设、最近先例和匹配预算待核。	scored
+5655	yuan26d							初筛，原文与先例核查待补：仅依现有摘要的安全可分离高层描述，候选是Hilbert空间中的分布嵌入与functional diffusion；当前尚未识别足以独立改变通用神经设计/训练选择的新算子或有条件规律，专用预测增益不能替代独立证据。未整理细胞干预建模操作，也不声称所有专用构造旧。	rule-excluded
+5656	yuan26e	3	4	3	3	66		初筛，原文与先例核查待补：用脉冲算术原语替换Transformer非线性：新增量暂3，相关模型复用4，当前操作性3，独特区别3；第4、5、6、8页，完整假设、最近先例和匹配预算待核。	scored
+5657	yuan26f							初筛，原文与先例核查待补：第4–5页主要为逻辑类型分类、1188题数据构建和多模型评测；thinking/RL能力差异在当前材料下尚不足形成控制混杂后的独立选型规律，任务覆盖和榜单不足作为机制新增。	rule-excluded
+5658	yuan26g	3	4	3	3	66		初筛，原文与先例核查待补：在高召回排序候选内做局部CI验证：新增量暂3，相关模型复用4，当前操作性3，独特区别3；第3、4、5、6页，完整假设、最近先例和匹配预算待核。	scored
+5659	yuan26h	3	4	3	3	66		初筛，原文与先例核查待补：直接优化可由SDE诱导的离散后验参数：新增量暂3，相关模型复用4，当前操作性3，独特区别3；第4、5、6、7页，完整假设、最近先例和匹配预算待核。	scored
+5660	yuan26i	3	4	3	3	66		初筛，原文与先例核查待补：以模型分歧除重建误差奖励时序增强：新增量暂3，相关模型复用4，当前操作性3，独特区别3；第4、5、6页，完整假设、最近先例和匹配预算待核。	scored
+5661	yuan26j	4	4	3	4	76		初筛，原文与先例核查待补：联合校正辅助变量提议与接受率：新增量暂4，相关模型复用4，当前操作性3，独特区别4；第4、5、6、8页，完整假设、最近先例和匹配预算待核。	scored
+5662	yuan26k							初筛，原文与先例核查待补：第3–4页为阻尼振荡场/事件概率驱动、运行能量均值方差阈值及persistence gating后调用ALM；当前是成熟resonator/anomaly/change检测与事件触发推理组合，未见独立于音频任务的受控新规则，神经启发名称不构成新增。	rule-excluded
+5663	yuan26l							初筛，原文与先例核查待补：第4–5页为mount namespace/chroot、私有目录和环境预缓存替代逐实例容器；属于成熟Linux隔离/缓存的SWE训练部署配置，没有独立神经算法或新资源选择规律，资源节约本身不足；也不能把chroot直接当所有容器安全属性等价。	rule-excluded
+5664	yuan26m							初筛，原文与先例核查待补：第4–5页为central/local InfoNCE表示蒸馏、重建与LLM角色标签后普通offline policy训练；成熟CTDE蒸馏和语义角色监督迁移meta-MARL，当前未见独立新目标；近似互信息表达不自动保证task-role识别解耦。	rule-excluded
+5665	yuan26n	3	4	4	3	70		初筛，原文与先例核查待补：融合浅层特征时隔离skip梯度：新增量暂3，相关模型复用4，当前操作性4，独特区别3；第3、4、5、7、8页，完整假设、最近先例和匹配预算待核。	scored
+5666	yuan26o							初筛，原文与先例核查待补：第4–5页以临时策略更新的平方参数变化作level score，再沿用PLR rank/staleness replay；当前本质为成熟梯度/参数变化学习进展代理用于UED，未见独立新更新或控制规律。该范数受步长、优化器/坐标影响，不是实际泛化进展保证。	rule-excluded
+5667	yuan26p							初筛，原文与先例核查待补：现有摘要为先clarifier问缺失/冲突规格，再由SFT coding agent写CadQuery；属于成熟clarify-before-act双agent流程应用，当前没有独立新澄清策略目标或受控通用规律，不以CAD跑分和数据构建收录。	rule-excluded
+5668	yue26a	4	4	4	4	80		初筛，原文与先例核查待补：复用验证logits选择自推测草稿KV：新增量暂4，相关模型复用4，当前操作性4，独特区别4；第4、5、7页，完整假设、最近先例和匹配预算待核。	scored
+5669	yue26b	3	4	3	3	66		初筛，原文与先例核查待补：将检索结果信用回传到源记忆写操作：新增量暂3，相关模型复用4，当前操作性3，独特区别3；第4、5、6、7页，完整假设、最近先例和匹配预算待核。	scored
+5670	yue26c	3	4	3	3	66		初筛，原文与先例核查待补：低频重传播隐藏状态保留预传播训练效率：新增量暂3，相关模型复用4，当前操作性3，独特区别3；第4、5、6、7页，完整假设、最近先例和匹配预算待核。	scored
+5671	yue26d							初筛，原文与先例核查待补：第4–6页为RPN/stack primitives编译agent图，再以安全/功能reward训练GFlowNet trajectory balance并配textual反馈；当前是成熟DSL搜索、GFlowNet与prompt refinement组合，没有明确独立新优化规则，不以鲁棒榜单或安全primitive集合保留。	rule-excluded
 5672	yueh-han26a							待原文复核评分	pending
 5673	yufeng26a							待原文复核评分	pending
 5674	yuksekgonul26a							待原文复核评分	pending
