@@ -1542,68 +1542,68 @@ poster_id	title	paper_url	status	reason
 151682	Compositional Training-Free Diffusion Planning for Long-Horizon Multiple Reach-Avoid Tasks	https://neurips.cc/virtual/2026/poster/151682	included	拼接任务无关短程先验并逐段校验约束
 148886	Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models	https://neurips.cc/virtual/2026/poster/148886	included	把已饱和的可验提示组合成更难的新题
 150918	COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression	https://neurips.cc/virtual/2026/poster/150918	included	用正交字典和分层预算替代所有层共享的低秩假设
-154300	Compressible Representations: Functional Spines in Deep Neural Networks	https://neurips.cc/virtual/2026/poster/154300	pending	-
-150720	Compressing Collections of Trees with Decision Equivalence	https://neurips.cc/virtual/2026/poster/150720	pending	-
-150194	Computational Depth Predicts Quantization Sensitivity in Multimodal Models	https://neurips.cc/virtual/2026/poster/150194	pending	-
-153891	Computational Dynamic Mechanism Design	https://neurips.cc/virtual/2026/poster/153891	pending	-
-150028	Computationally Efficient Replicable Learning of Parities and Applications	https://neurips.cc/virtual/2026/poster/150028	pending	-
-155651	Computationally sufficient statistics for Ising models	https://neurips.cc/virtual/2026/poster/155651	pending	-
-153933	Compute Aligned Training: Optimizing for Test Time Inference	https://neurips.cc/virtual/2026/poster/153933	pending	-
-152439	Compute Allocation Under Model-Provider Competition	https://neurips.cc/virtual/2026/poster/152439	pending	-
-148716	Compute Efficiency and Serial Runtime Tradeoffs for Stochastic Momentum Methods	https://neurips.cc/virtual/2026/poster/148716	pending	-
-151246	Compute-optimal data scaling for neural surrogates via multi-fidelity training	https://neurips.cc/virtual/2026/poster/151246	pending	-
-152040	Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Flow	https://neurips.cc/virtual/2026/poster/152040	pending	-
-140060	Computer Science Conferences Should Require Nonrepudiable Experimental Results	https://neurips.cc/virtual/2026/poster/140060	pending	-
-151946	Computer Use at the Edge of the Statistical Precipice	https://neurips.cc/virtual/2026/poster/151946	pending	-
-155133	Computing All Optimal Partial $p$-Wasserstein Matchings on the Line	https://neurips.cc/virtual/2026/poster/155133	pending	-
-150647	Computing Thiele Rules on Interval Elections and their Generalizations	https://neurips.cc/virtual/2026/poster/150647	pending	-
-150908	Conceal, Reconstruct, Jailbreak: Exploiting the Reconstruction--Concealment Tradeoff in MLLMs	https://neurips.cc/virtual/2026/poster/150908	pending	-
-154350	Concentrated Gradients Amplify Forgetting: Dominant-direction Projection for Continual Multimodal Learning	https://neurips.cc/virtual/2026/poster/154350	pending	-
-149192	Concept-Aware Wasserstein Routing with Vision-Language Guidance for Few-Shot WSI Classification	https://neurips.cc/virtual/2026/poster/149192	pending	-
-140034	Concept-Based Mechanistic Interpretability Needs a Concrete Evaluation Paradigm	https://neurips.cc/virtual/2026/poster/140034	pending	-
-149108	Concept frustration: Aligning human concepts and machine representations	https://neurips.cc/virtual/2026/poster/149108	pending	-
-150809	Concept-Localized Generative Representations	https://neurips.cc/virtual/2026/poster/150809	pending	-
-153542	Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation	https://neurips.cc/virtual/2026/poster/153542	pending	-
-151556	Concepts in Motion: Temporal Concept Bottleneck Model for Interpretable Video Classification	https://neurips.cc/virtual/2026/poster/151556	pending	-
-151925	Concepts Worth Having: Refining VLM-Guided Concept Bottleneck Models with Minimal Annotations	https://neurips.cc/virtual/2026/poster/151925	pending	-
-152103	Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models	https://neurips.cc/virtual/2026/poster/152103	pending	-
-151507	Concise Reasoning Through the Lens of Lagrangian Optimization	https://neurips.cc/virtual/2026/poster/151507	pending	-
-155212	Conclusions from Circuit Extraction Depend on the Level of Description: A Controlled Comparison	https://neurips.cc/virtual/2026/poster/155212	pending	-
-150148	Concorde: Geometry-Aware Link Prediction via Decoupled Energy Minimization	https://neurips.cc/virtual/2026/poster/150148	pending	-
-154365	Concord-SLAM: Cross-Render Concordance for Boundary-Native Semantic Gaussian SLAM	https://neurips.cc/virtual/2026/poster/154365	pending	-
-153436	Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models	https://neurips.cc/virtual/2026/poster/153436	pending	-
-154281	Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Process	https://neurips.cc/virtual/2026/poster/154281	pending	-
-149245	CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA	https://neurips.cc/virtual/2026/poster/149245	pending	-
-152006	Conditional Counterfactual Mean Embeddings: Doubly Robust Estimation and Learning Rates	https://neurips.cc/virtual/2026/poster/152006	pending	-
-153992	Conditional Evaluation of Language Models with Cheap Auxiliary Signals	https://neurips.cc/virtual/2026/poster/153992	pending	-
-153084	Conditional independence and graphical models for rankings	https://neurips.cc/virtual/2026/poster/153084	pending	-
-151278	Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers	https://neurips.cc/virtual/2026/poster/151278	pending	-
-139151	Conditional Multi-Event Temporal Grounding in Long-Form Video	https://neurips.cc/virtual/2026/poster/139151	pending	-
-153803	Conditional Optimal Bridge for Riemannian Activation Steering	https://neurips.cc/virtual/2026/poster/153803	pending	-
-155789	Conditioning Gaussian Processes on Almost Anything	https://neurips.cc/virtual/2026/poster/155789	pending	-
-151261	ConfDet: Learning Reliable Confidence for MLLM-based Detection	https://neurips.cc/virtual/2026/poster/151261	pending	-
-151802	Confidence-Based Decoding is Provably Efficient for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/151802	pending	-
-153379	Confidence-Based Diffusion Sampling with Geometric Readiness Awareness for Accelerated Structure-based Drug Design	https://neurips.cc/virtual/2026/poster/153379	pending	-
+154300	Compressible Representations: Functional Spines in Deep Neural Networks	https://neurips.cc/virtual/2026/poster/154300	included	按下游敏感性选投影方向
+150720	Compressing Collections of Trees with Decision Equivalence	https://neurips.cc/virtual/2026/poster/150720	included	按决策边界去重树集合
+150194	Computational Depth Predicts Quantization Sensitivity in Multimodal Models	https://neurips.cc/virtual/2026/poster/150194	included	用浅探针预测深任务量化退化
+153891	Computational Dynamic Mechanism Design	https://neurips.cc/virtual/2026/poster/153891	included	把动态激励相容检验放入双层优化
+150028	Computationally Efficient Replicable Learning of Parities and Applications	https://neurips.cc/virtual/2026/poster/150028	included	区分统计可学与计算可学
+155651	Computationally sufficient statistics for Ising models	https://neurips.cc/virtual/2026/poster/155651	included	按可观测统计阶数分析 Ising 辨识
+153933	Compute Aligned Training: Optimizing for Test Time Inference	https://neurips.cc/virtual/2026/poster/153933	included	按部署时聚合规则定义后训练损失
+152439	Compute Allocation Under Model-Provider Competition	https://neurips.cc/virtual/2026/poster/152439	included	将延迟和需求拥塞纳入分配模型
+148716	Compute Efficiency and Serial Runtime Tradeoffs for Stochastic Momentum Methods	https://neurips.cc/virtual/2026/poster/148716	included	同时比较迭代数与总梯度开销
+151246	Compute-optimal data scaling for neural surrogates via multi-fidelity training	https://neurips.cc/virtual/2026/poster/151246	included	联合选择样本量和数值保真度
+152040	Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Flow	https://neurips.cc/virtual/2026/poster/152040	included	按下游几何选预训练切换点
+140060	Computer Science Conferences Should Require Nonrepudiable Experimental Results	https://neurips.cc/virtual/2026/poster/140060	included	让报告数值绑定到可核验的执行
+151946	Computer Use at the Edge of the Statistical Precipice	https://neurips.cc/virtual/2026/poster/151946	included	在静态电脑使用基准加入不看屏幕的对照
+155133	Computing All Optimal Partial $p$-Wasserstein Matchings on the Line	https://neurips.cc/virtual/2026/poster/155133	included	在一维部分传输中复用平衡区间计算
+150647	Computing Thiele Rules on Interval Elections and their Generalizations	https://neurips.cc/virtual/2026/poster/150647	included	按候选者区间和选民区间分别设计算法
+150908	Conceal, Reconstruct, Jailbreak: Exploiting the Reconstruction--Concealment Tradeoff in MLLMs	https://neurips.cc/virtual/2026/poster/150908	excluded	论文的核心是规避多模态模型安全限制，摘要未给出独立验证的防御机制。
+154350	Concentrated Gradients Amplify Forgetting: Dominant-direction Projection for Continual Multimodal Learning	https://neurips.cc/virtual/2026/poster/154350	included	约束梯度主方向而非只保护共享参数
+149192	Concept-Aware Wasserstein Routing with Vision-Language Guidance for Few-Shot WSI Classification	https://neurips.cc/virtual/2026/poster/149192	included	在弱监督切片分类中让图块匹配多个语义概念
+140034	Concept-Based Mechanistic Interpretability Needs a Concrete Evaluation Paradigm	https://neurips.cc/virtual/2026/poster/140034	excluded	作者摘要主要论证现有指标的不足并提出研究议程，未说明经验证的独立评测方法。
+149108	Concept frustration: Aligning human concepts and machine representations	https://neurips.cc/virtual/2026/poster/149108	included	以任务相关几何检查模型概念关系是否超出人类本体
+150809	Concept-Localized Generative Representations	https://neurips.cc/virtual/2026/poster/150809	included	显式区分概念与残差潜变量
+153542	Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation	https://neurips.cc/virtual/2026/poster/153542	included	分开验证观测域识别与未见属性外推
+151556	Concepts in Motion: Temporal Concept Bottleneck Model for Interpretable Video Classification	https://neurips.cc/virtual/2026/poster/151556	included	让每个概念分别建模出现时间
+151925	Concepts Worth Having: Refining VLM-Guided Concept Bottleneck Models with Minimal Annotations	https://neurips.cc/virtual/2026/poster/151925	included	以少量密集人工概念标注修正视觉语言伪标签
+152103	Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models	https://neurips.cc/virtual/2026/poster/152103	included	联合校准概念和类标签并修正逻辑冲突
+151507	Concise Reasoning Through the Lens of Lagrangian Optimization	https://neurips.cc/virtual/2026/poster/151507	included	用准确率下限约束推理长度
+155212	Conclusions from Circuit Extraction Depend on the Level of Description: A Controlled Comparison	https://neurips.cc/virtual/2026/poster/155212	included	按注意力头和精确边分别检验电路稳定性
+150148	Concorde: Geometry-Aware Link Prediction via Decoupled Energy Minimization	https://neurips.cc/virtual/2026/poster/150148	included	把稳定拓扑锚点与学习的几何残差分离
+154365	Concord-SLAM: Cross-Render Concordance for Boundary-Native Semantic Gaussian SLAM	https://neurips.cc/virtual/2026/poster/154365	included	用同一地图的语义、深度和法线分歧指导边界更新
+153436	Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models	https://neurips.cc/virtual/2026/poster/153436	included	联合寻找全局去噪需求与语义分支出现的时间窗
+154281	Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Process	https://neurips.cc/virtual/2026/poster/154281	included	让图文同一步内交换置信度并允许撤回决定
+149245	CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA	https://neurips.cc/virtual/2026/poster/149245	included	将多帧历史压入固定数量的可学习槽
+152006	Conditional Counterfactual Mean Embeddings: Doubly Robust Estimation and Learning Rates	https://neurips.cc/virtual/2026/poster/152006	included	异质效应分析中估计完整的反事实分布
+153992	Conditional Evaluation of Language Models with Cheap Auxiliary Signals	https://neurips.cc/virtual/2026/poster/153992	included	用目标区域内中心化的廉价信号降低人评成本
+153084	Conditional independence and graphical models for rankings	https://neurips.cc/virtual/2026/poster/153084	included	在相对顺序表示上表达排名的条件独立
+151278	Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers	https://neurips.cc/virtual/2026/poster/151278	included	用多样部署语境复核后训练安全干预效果
+139151	Conditional Multi-Event Temporal Grounding in Long-Form Video	https://neurips.cc/virtual/2026/poster/139151	included	联合测全部满足条件的事件定位、计数和拒答
+153803	Conditional Optimal Bridge for Riemannian Activation Steering	https://neurips.cc/virtual/2026/poster/153803	included	按当前激活选择内容质量引导方向
+155789	Conditioning Gaussian Processes on Almost Anything	https://neurips.cc/virtual/2026/poster/155789	included	用同一高斯过程推断框架接入非共轭观测
+151261	ConfDet: Learning Reliable Confidence for MLLM-based Detection	https://neurips.cc/virtual/2026/poster/151261	included	把检测置信度作为显式输出训练和校准
+151802	Confidence-Based Decoding is Provably Efficient for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/151802	included	按累计熵决定解掩码数量
+153379	Confidence-Based Diffusion Sampling with Geometric Readiness Awareness for Accelerated Structure-based Drug Design	https://neurips.cc/virtual/2026/poster/153379	excluded	摘要核心集中在生物分子结构生成或工程优化，未单独收录应用机制。
 155179	Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning	https://neurips.cc/virtual/2026/poster/155179	included	分别校准接受、回退和扩展后的成功概率，再按净收益分配算力。
-148424	Confidence Estimation via Decoupled Smoothing for Dynamic LLM Routing and Aggregation	https://neurips.cc/virtual/2026/poster/148424	pending	-
-152508	Conflict-Aware Logit Adapters for Utility-Preserving Anti-Distillation	https://neurips.cc/virtual/2026/poster/152508	pending	-
-148415	Conflict-Suppressed RAG: A Simple Decoding-Time Framework for Faithful Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/148415	pending	-
-151557	ConforFlux: Particle-Guided Trunk Repulsion for Diverse Protein Conformations	https://neurips.cc/virtual/2026/poster/151557	pending	-
-150722	Conformal Agent Error Attribution	https://neurips.cc/virtual/2026/poster/150722	pending	-
-150311	Conformal Cache: Reliable Proxy-Discrepancy Caching for Fast Generative Inference	https://neurips.cc/virtual/2026/poster/150311	pending	-
-150795	Conformal Language Modeling via Posterior Sampling	https://neurips.cc/virtual/2026/poster/150795	pending	-
-155524	Conformal Prediction for Distribution-to-Distribution Regression	https://neurips.cc/virtual/2026/poster/155524	pending	-
-150920	Conformal Prediction for Time-Dependent PDEs	https://neurips.cc/virtual/2026/poster/150920	pending	-
-152533	Conformal Prediction with Paraphrase-Aware Scoring for LLM Uncertainty Quantification	https://neurips.cc/virtual/2026/poster/152533	pending	-
-148731	Conformal Selective Acting: Anytime-Valid Risk Control for RLVR-Trained LLMs	https://neurips.cc/virtual/2026/poster/148731	pending	-
-149343	Confounding-Aware Client Selection in Federated Learning via Causal Mediation Analysis	https://neurips.cc/virtual/2026/poster/149343	pending	-
-139242	ConnectomeBench2: A Unified Benchmark for Automated Connectomic Proofreading	https://neurips.cc/virtual/2026/poster/139242	pending	-
+148424	Confidence Estimation via Decoupled Smoothing for Dynamic LLM Routing and Aggregation	https://neurips.cc/virtual/2026/poster/148424	included	按查询选择路由或集成
+152508	Conflict-Aware Logit Adapters for Utility-Preserving Anti-Distillation	https://neurips.cc/virtual/2026/poster/152508	included	比较训练时保护与解码时干预
+148415	Conflict-Suppressed RAG: A Simple Decoding-Time Framework for Faithful Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/148415	included	检索与参数知识冲突时测试解码干预
+151557	ConforFlux: Particle-Guided Trunk Repulsion for Diverse Protein Conformations	https://neurips.cc/virtual/2026/poster/151557	excluded	摘要核心集中在生物分子结构生成或工程优化，未单独收录应用机制。
+150722	Conformal Agent Error Attribution	https://neurips.cc/virtual/2026/poster/150722	included	预测可回滚的连续故障窗口
+150311	Conformal Cache: Reliable Proxy-Discrepancy Caching for Fast Generative Inference	https://neurips.cc/virtual/2026/poster/150311	included	对缓存误差代理做单侧校准
+150795	Conformal Language Modeling via Posterior Sampling	https://neurips.cc/virtual/2026/poster/150795	included	把置信控制放入条件生成
+155524	Conformal Prediction for Distribution-to-Distribution Regression	https://neurips.cc/virtual/2026/poster/155524	included	在正交基上构造可抽样的预测集合
+150920	Conformal Prediction for Time-Dependent PDEs	https://neurips.cc/virtual/2026/poster/150920	included	按网格精度和时间跨度检查覆盖
+152533	Conformal Prediction with Paraphrase-Aware Scoring for LLM Uncertainty Quantification	https://neurips.cc/virtual/2026/poster/152533	included	用等义改写集合代替单提示计分
+148731	Conformal Selective Acting: Anytime-Valid Risk Control for RLVR-Trained LLMs	https://neurips.cc/virtual/2026/poster/148731	included	为自适应部署使用逐轮有效的选择风险控制
+149343	Confounding-Aware Client Selection in Federated Learning via Causal Mediation Analysis	https://neurips.cc/virtual/2026/poster/149343	included	区分报价驱动的选择与数据贡献
+139242	ConnectomeBench2: A Unified Benchmark for Automated Connectomic Proofreading	https://neurips.cc/virtual/2026/poster/139242	included	用分布距离筛查神经影像校对的失准
 151137	ConQuR: Corner Aligned Activation Quantization via Optimized Rotations for LLMs	https://neurips.cc/virtual/2026/poster/151137	included	按激活方向校准正交旋转，降低低比特误差和校准成本。
-152592	Conservation Laws for Diffusion Models	https://neurips.cc/virtual/2026/poster/152592	pending	-
-149132	Conservatism Controllable Compositional Guidance for Offline Safe Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149132	pending	-
-150543	Conservative Continuous-Time Treatment Optimization	https://neurips.cc/virtual/2026/poster/150543	pending	-
-155960	Conservative neural posterior estimation via distributionally robust training	https://neurips.cc/virtual/2026/poster/155960	pending	-
-152985	Conservative Pareto Set Amortization for Offline Multi-Objective Optimization	https://neurips.cc/virtual/2026/poster/152985	pending	-
+152592	Conservation Laws for Diffusion Models	https://neurips.cc/virtual/2026/poster/152592	included	有限容量下按局部后验难度比较噪声路径
+149132	Conservatism Controllable Compositional Guidance for Offline Safe Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149132	included	部署时分开调节奖励与安全引导
+150543	Conservative Continuous-Time Treatment Optimization	https://neurips.cc/virtual/2026/poster/150543	included	对离线连续控制惩罚预测轨迹超出观测支持
+155960	Conservative neural posterior estimation via distributionally robust training	https://neurips.cc/virtual/2026/poster/155960	included	低仿真预算下用分布鲁棒损失训练后验
+152985	Conservative Pareto Set Amortization for Offline Multi-Objective Optimization	https://neurips.cc/virtual/2026/poster/152985	included	按偏好直接查询单个设计
 153648	Consilience for Verifier-Free Test-Time Scaling	https://neurips.cc/virtual/2026/poster/153648	pending	-
 155880	Consistency as a Testable Property: Statistical Methods to Evaluate AI Agent Reliability	https://neurips.cc/virtual/2026/poster/155880	pending	-
 151483	Consistency-Preserving Concept Erasure via Unsafe–Safe Pairing and Directional Fisher-weighted Adaptation	https://neurips.cc/virtual/2026/poster/151483	pending	-

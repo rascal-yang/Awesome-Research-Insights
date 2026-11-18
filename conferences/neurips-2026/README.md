@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1589** 篇，暂收录 **1458** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1649** 篇，暂收录 **1514** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1466,3 +1466,59 @@
 | 具身智能 | 轨迹规划 | [Compositional Training-Free Diffusion Planning for Long-Horizon Multiple Reach-Avoid Tasks](cards-0003.md#paper-151682) | 拼接任务无关短程先验并逐段校验约束 |
 | 大语言模型 | 课程设计 | [Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models](cards-0003.md#paper-148886) | 把已饱和的可验提示组合成更难的新题 |
 | 大语言模型 | 模型压缩 | [COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression](cards-0003.md#paper-150918) | 用正交字典和分层预算替代所有层共享的低秩假设 |
+| 表征学习 | 功能压缩 | [Compressible Representations: Functional Spines in Deep Neural Networks](cards-0003.md#paper-154300) | 按下游敏感性选投影方向 |
+| 机器学习 | 等价化简 | [Compressing Collections of Trees with Decision Equivalence](cards-0003.md#paper-150720) | 按决策边界去重树集合 |
+| 多模态学习 | 量化诊断 | [Computational Depth Predicts Quantization Sensitivity in Multimodal Models](cards-0003.md#paper-150194) | 用浅探针预测深任务量化退化 |
+| 学习理论 | 机制设计 | [Computational Dynamic Mechanism Design](cards-0003.md#paper-153891) | 把动态激励相容检验放入双层优化 |
+| 学习理论 | 可复现学习 | [Computationally Efficient Replicable Learning of Parities and Applications](cards-0003.md#paper-150028) | 区分统计可学与计算可学 |
+| 统计学习 | 参数辨识 | [Computationally sufficient statistics for Ising models](cards-0003.md#paper-155651) | 按可观测统计阶数分析 Ising 辨识 |
+| 大语言模型 | 训练目标 | [Compute Aligned Training: Optimizing for Test Time Inference](cards-0003.md#paper-153933) | 按部署时聚合规则定义后训练损失 |
+| 机器学习系统 | 算力分配 | [Compute Allocation Under Model-Provider Competition](cards-0003.md#paper-152439) | 将延迟和需求拥塞纳入分配模型 |
+| 优化 | 动量分析 | [Compute Efficiency and Serial Runtime Tradeoffs for Stochastic Momentum Methods](cards-0003.md#paper-148716) | 同时比较迭代数与总梯度开销 |
+| 科学机器学习 | 数据预算 | [Compute-optimal data scaling for neural surrogates via multi-fidelity training](cards-0003.md#paper-151246) | 联合选择样本量和数值保真度 |
+| 学习理论 | 训练预算 | [Compute-Optimal Pretrain--Fine-tune in Ridge Gradient Flow](cards-0003.md#paper-152040) | 按下游几何选预训练切换点 |
+| 可靠性 | 实验审计 | [Computer Science Conferences Should Require Nonrepudiable Experimental Results](cards-0003.md#paper-140060) | 让报告数值绑定到可核验的执行 |
+| Agent | 评测诊断 | [Computer Use at the Edge of the Statistical Precipice](cards-0003.md#paper-151946) | 在静态电脑使用基准加入不看屏幕的对照 |
+| 优化 | 最优传输 | [Computing All Optimal Partial $p$-Wasserstein Matchings on the Line](cards-0003.md#paper-155133) | 在一维部分传输中复用平衡区间计算 |
+| 学习理论 | 组合算法 | [Computing Thiele Rules on Interval Elections and their Generalizations](cards-0003.md#paper-150647) | 按候选者区间和选民区间分别设计算法 |
+| 多模态学习 | 持续学习 | [Concentrated Gradients Amplify Forgetting: Dominant-direction Projection for Continual Multimodal Learning](cards-0003.md#paper-154350) | 约束梯度主方向而非只保护共享参数 |
+| 医学影像 | 多模态路由 | [Concept-Aware Wasserstein Routing with Vision-Language Guidance for Few-Shot WSI Classification](cards-0003.md#paper-149192) | 在弱监督切片分类中让图块匹配多个语义概念 |
+| 可解释性 | 表征诊断 | [Concept frustration: Aligning human concepts and machine representations](cards-0003.md#paper-149108) | 以任务相关几何检查模型概念关系是否超出人类本体 |
+| 表征学习 | 概念解耦 | [Concept-Localized Generative Representations](cards-0003.md#paper-150809) | 显式区分概念与残差潜变量 |
+| 学习理论 | 可识别性 | [Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation](cards-0003.md#paper-153542) | 分开验证观测域识别与未见属性外推 |
+| 计算机视觉 | 概念瓶颈 | [Concepts in Motion: Temporal Concept Bottleneck Model for Interpretable Video Classification](cards-0003.md#paper-151556) | 让每个概念分别建模出现时间 |
+| 多模态学习 | 弱监督 | [Concepts Worth Having: Refining VLM-Guided Concept Bottleneck Models with Minimal Annotations](cards-0003.md#paper-151925) | 以少量密集人工概念标注修正视觉语言伪标签 |
+| 统计学习 | 共形预测 | [Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models](cards-0003.md#paper-152103) | 联合校准概念和类标签并修正逻辑冲突 |
+| 大语言模型 | 约束优化 | [Concise Reasoning Through the Lens of Lagrangian Optimization](cards-0003.md#paper-151507) | 用准确率下限约束推理长度 |
+| 可解释性 | 电路诊断 | [Conclusions from Circuit Extraction Depend on the Level of Description: A Controlled Comparison](cards-0003.md#paper-155212) | 按注意力头和精确边分别检验电路稳定性 |
+| 图学习 | 几何表示 | [Concorde: Geometry-Aware Link Prediction via Decoupled Energy Minimization](cards-0003.md#paper-150148) | 把稳定拓扑锚点与学习的几何残差分离 |
+| 机器人学 | 三维建图 | [Concord-SLAM: Cross-Render Concordance for Boundary-Native Semantic Gaussian SLAM](cards-0003.md#paper-154365) | 用同一地图的语义、深度和法线分歧指导边界更新 |
+| 生成模型 | 采样诊断 | [Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models](cards-0003.md#paper-153436) | 联合寻找全局去噪需求与语义分支出现的时间窗 |
+| 多模态学习 | 联合采样 | [Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Process](cards-0003.md#paper-154281) | 让图文同一步内交换置信度并允许撤回决定 |
+| 具身智能 | 时序表示 | [CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA](cards-0003.md#paper-149245) | 将多帧历史压入固定数量的可学习槽 |
+| 因果学习 | 分布估计 | [Conditional Counterfactual Mean Embeddings: Doubly Robust Estimation and Learning Rates](cards-0003.md#paper-152006) | 异质效应分析中估计完整的反事实分布 |
+| 大语言模型 | 评测校准 | [Conditional Evaluation of Language Models with Cheap Auxiliary Signals](cards-0003.md#paper-153992) | 用目标区域内中心化的廉价信号降低人评成本 |
+| 统计学习 | 图模型 | [Conditional independence and graphical models for rankings](cards-0003.md#paper-153084) | 在相对顺序表示上表达排名的条件独立 |
+| 大语言模型 | 安全评测 | [Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers](cards-0003.md#paper-151278) | 用多样部署语境复核后训练安全干预效果 |
+| 多模态学习 | 视频评测 | [Conditional Multi-Event Temporal Grounding in Long-Form Video](cards-0003.md#paper-139151) | 联合测全部满足条件的事件定位、计数和拒答 |
+| 大语言模型 | 测试时引导 | [Conditional Optimal Bridge for Riemannian Activation Steering](cards-0003.md#paper-153803) | 按当前激活选择内容质量引导方向 |
+| 概率建模 | 条件采样 | [Conditioning Gaussian Processes on Almost Anything](cards-0003.md#paper-155789) | 用同一高斯过程推断框架接入非共轭观测 |
+| 多模态学习 | 置信度校准 | [ConfDet: Learning Reliable Confidence for MLLM-based Detection](cards-0003.md#paper-151261) | 把检测置信度作为显式输出训练和校准 |
+| 语言模型 | 并行解码 | [Confidence-Based Decoding is Provably Efficient for Diffusion Language Models](cards-0003.md#paper-151802) | 按累计熵决定解掩码数量 |
+| 大语言模型 | 模型路由 | [Confidence Estimation via Decoupled Smoothing for Dynamic LLM Routing and Aggregation](cards-0003.md#paper-148424) | 按查询选择路由或集成 |
+| 大语言模型 | 模型保护 | [Conflict-Aware Logit Adapters for Utility-Preserving Anti-Distillation](cards-0003.md#paper-152508) | 比较训练时保护与解码时干预 |
+| 大语言模型 | 检索增强 | [Conflict-Suppressed RAG: A Simple Decoding-Time Framework for Faithful Retrieval-Augmented Generation](cards-0003.md#paper-148415) | 检索与参数知识冲突时测试解码干预 |
+| Agent | 故障归因 | [Conformal Agent Error Attribution](cards-0003.md#paper-150722) | 预测可回滚的连续故障窗口 |
+| 生成模型 | 缓存校准 | [Conformal Cache: Reliable Proxy-Discrepancy Caching for Fast Generative Inference](cards-0003.md#paper-150311) | 对缓存误差代理做单侧校准 |
+| 大语言模型 | 共形生成 | [Conformal Language Modeling via Posterior Sampling](cards-0003.md#paper-150795) | 把置信控制放入条件生成 |
+| 统计学习 | 分布回归 | [Conformal Prediction for Distribution-to-Distribution Regression](cards-0003.md#paper-155524) | 在正交基上构造可抽样的预测集合 |
+| 科学机器学习 | 时序校准 | [Conformal Prediction for Time-Dependent PDEs](cards-0003.md#paper-150920) | 按网格精度和时间跨度检查覆盖 |
+| 大语言模型 | 不确定性校准 | [Conformal Prediction with Paraphrase-Aware Scoring for LLM Uncertainty Quantification](cards-0003.md#paper-152533) | 用等义改写集合代替单提示计分 |
+| 大语言模型 | 选择性决策 | [Conformal Selective Acting: Anytime-Valid Risk Control for RLVR-Trained LLMs](cards-0003.md#paper-148731) | 为自适应部署使用逐轮有效的选择风险控制 |
+| 联邦学习 | 客户端选择 | [Confounding-Aware Client Selection in Federated Learning via Causal Mediation Analysis](cards-0003.md#paper-149343) | 区分报价驱动的选择与数据贡献 |
+| 科学机器学习 | 校准诊断 | [ConnectomeBench2: A Unified Benchmark for Automated Connectomic Proofreading](cards-0003.md#paper-139242) | 用分布距离筛查神经影像校对的失准 |
+| 生成模型 | 似然理论 | [Conservation Laws for Diffusion Models](cards-0003.md#paper-152592) | 有限容量下按局部后验难度比较噪声路径 |
+| 强化学习 | 约束策略 | [Conservatism Controllable Compositional Guidance for Offline Safe Reinforcement Learning](cards-0003.md#paper-149132) | 部署时分开调节奖励与安全引导 |
+| 统计学习 | 稳健控制 | [Conservative Continuous-Time Treatment Optimization](cards-0003.md#paper-150543) | 对离线连续控制惩罚预测轨迹超出观测支持 |
+| 统计学习 | 后验校准 | [Conservative neural posterior estimation via distributionally robust training](cards-0003.md#paper-155960) | 低仿真预算下用分布鲁棒损失训练后验 |
+| 优化 | 多目标决策 | [Conservative Pareto Set Amortization for Offline Multi-Objective Optimization](cards-0003.md#paper-152985) | 按偏好直接查询单个设计 |
