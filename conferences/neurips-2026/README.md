@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2249** 篇，暂收录 **2088** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2309** 篇，暂收录 **2148** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2096,3 +2096,63 @@
 | 大语言模型 | 偏好优化 | [Distributionally Robust Listwise Preference Optimization](cards-0004.md#paper-154214) | 在候选列表内部对排名噪声加稳健损失。 |
 | 大语言模型 | 专家训练 | [Distributionally Robust Mixture-of-Experts Training](cards-0004.md#paper-150482) | 提高高损失可选专家的训练权重。 |
 | 强化学习 | 任务采样 | [Distributionally Robust Multi-Task Reinforcement Learning via Adaptive Task Sampling](cards-0004.md#paper-152819) | 按目标回报差调整各任务交互预算。 |
+| 因果学习 | 稳健策略 | [Distributionally-Robust Policy Learning from Observational Data](cards-0004.md#paper-151620) | 将交叉拟合双稳健分数接入散度球最坏值优化，再以对偶分样本校正偏差 |
+| 大语言模型 | 强化学习 | [Distributionally Robust Token Optimization in RLHF](cards-0004.md#paper-154916) | 在跨度级 actor 损失上构造散度邻域以强调困难片段 |
+| 强化学习 | 离线策略 | [Distribution Corrected Decision Transformer for Offline Reinforcement Learning with Imbalanced Datasets](cards-0004.md#paper-150474) | 由对偶求分布校正权重，以双 KL 维持支持，再同时加权 TD 与 DT 训练 |
+| 统计学习 | 风险估计 | [Distribution-First Framework for Learning Risk-Sensitive Individualized Treatment Rules](cards-0004.md#paper-148521) | 先估各条件结果分布，再以插件方式切换分位数和尾部风险等准则 |
+| 学习理论 | 性质检验 | [Distribution Free Fourier Sparsity Testing](cards-0004.md#paper-151679) | 联合函数查询和未知输入分布样本做非自适应稀疏性检验 |
+| 生成模型 | 蒸馏 | [Distribution Matching Distillation without Fake Score Network](cards-0004.md#paper-151363) | 用流映射生成器的端点伪速度替代独立 fake-score 网络 |
+| 统计学习 | 数据策略 | [Distribution Shift in Missing Data Imputation: A Risk-Based Perspective and Importance-Weighted Correction under MAR](cards-0004.md#paper-155709) | 对观测数据的重要性加权以恢复全分布风险目标 |
+| 具身智能 | 推理策略 | [DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](cards-0004.md#paper-153594) | 读取视频 DiT 固定流时间步隐藏特征并直接驱动动作 DiT |
+| 强化学习 | 探索策略 | [DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement](cards-0004.md#paper-154452) | 用代理质量门控多样性奖励，随课程扩大布局序列长度 |
+| 统计学习 | 模型选择 | [Diverse Representative Rashomon Sets for Sparse Generalized Additive Models](cards-0004.md#paper-149888) | 从近最优模型集合中按多样性采样不同特征子集的稀疏 GAM |
+| 大语言模型 | 推理预算 | [Diversity Combining for Multi-Path LLM Reasoning](cards-0004.md#paper-151364) | 用四路径试运行估计相关性，再选择投票路径数与提示多样性 |
+| 图学习 | 图表征 | [Diversity Curves for Graph Representation Learning](cards-0004.md#paper-154536) | 在边收缩各层记录度量空间 spread 曲线 |
+| 优化 | 组合算法 | [Diversity Maximization: Algorithms for Distant $k$-Subsets](cards-0004.md#paper-150500) | 按一般度量与低维欧氏情形选择距离最大化算法 |
+| 统计学习 | 概率校准 | [Divide et Calibra: Multiclass Local Calibration via Vector Quantization](cards-0004.md#paper-153210) | 在量化表示分区间共享 Dirichlet 校准因子 |
+| 多模态学习 | 监督策略 | [Diving-R1: Empowering Multimodal LLMs with Traceable Progressive Reasoning for Interpretable Diving Action Quality Assessment](cards-0004.md#paper-149978) | 以子动作证据构造分阶段监督，逐步放宽标注要求 |
+| 大语言模型 | 专家路由 | [DivMoE: Fine-Grained MoE Upcycling via Cross-Domain Expert Composition](cards-0004.md#paper-153517) | 以各领域微调模型初始化专家，路由每个领域最多选一个专家 |
+| 大语言模型 | 并行解码 | [DMax: Aggressive Parallel Decoding for dLLMs](cards-0004.md#paper-152646) | 在掩码和预测词嵌入间软插值，训练恢复自身错误预测 |
+| 大语言模型 | 专家路由 | [dMoE: dLLMs with Learnable Block Experts](cards-0004.md#paper-153054) | 聚合块内 token 路由分布，再用共享块分布引导专家选择 |
+| 生成模型 | 表格建模 | [DN-Flow: Driver–Navigator Structured Flow Matching for Mixed-Type Tabular Data Generation](cards-0004.md#paper-151485) | 将速度场拆成全局输运与端点修正，用按列软选择控制修正 |
+| 统计学习 | 不确定性建模 | [DnNP: Denoising Input Uncertainty in Neural Processes](cards-0004.md#paper-149321) | 用变分推断把输入去噪纳入神经过程元学习 |
+| 科学机器学习 | 时序正则 | [DNS-Calibrated Local Stochastic Transition Closure for PDE-Free Long-Horizon Turbulence Diffusion](cards-0004.md#paper-151224) | 以统计转移而非单帧外观校验长滚动。 |
+| 统计学习 | 证据标准化 | [DoAtlas-1: A Causal Compilation Paradigm for Clinical AI](cards-0004.md#paper-152826) | 把研究结论转为有适用条件的可审计效应对象。 |
+| 多模态学习 | 文档记忆 | [DocAtlas: Long-Document Understanding as Mutable-State Interaction](cards-0004.md#paper-148605) | 允许长文档代理更新笔记和检索状态。 |
+| Agent | 评测完整性 | [Do Coding Agents Deceive Us? Detecting and Preventing Cheating via Capped Evaluation with Randomized Tests](cards-0004.md#paper-148548) | 用预设的合理分数上限审计异常高分。 |
+| 多模态学习 | 捷径诊断 | [Do Composed Image Retrieval Benchmarks Require Multimodal Composition?](cards-0004.md#paper-139137) | 分别跑图像、文本与联合输入，再审核剩余样本。 |
+| 多模态学习 | 分布偏移评测 | [DocPTBench: Benchmarking End-to-End Photographed Document Parsing and Translation](cards-0004.md#paper-151757) | 将拍摄文档单列为解析和翻译验收集。 |
+| 多模态学习 | 证据链评测 | [DocScope: Benchmarking Verifiable Reasoning for Trustworthy Long-Document Understanding](cards-0004.md#paper-139349) | 把正确答案与可复核证据分开评分。 |
+| 学习理论 | 优化诊断 | [Do Deep Networks Forget Initialization? A Forgetting-Time View of Practical Inductive Bias](cards-0004.md#paper-152903) | 在匹配训练准确率时扫描初始化尺度和优化器。 |
+| 机器人学 | 安全策略学习 | [Dodge-It: Learning Collision-Aware VLA Models for Robotic Manipulation](cards-0004.md#paper-150761) | 把碰撞反馈与任务成功共同用于策略更新。 |
+| 计算机视觉 | 生成评测 | [Do Diffusion Models Learn to Generalize Basic Visual Skills?](cards-0004.md#paper-151086) | 以显式规则扫外推距离和训练组合覆盖率。 |
+| Agent | 分布漂移诊断 | [Do Enterprise Systems Need Learned World Models? The Importance of Context to Infer Dynamics](cards-0004.md#paper-152978) | 规则可读时对照运行时规则读取与离线动力学拟合。 |
+| 学习理论 | 赌博机 | [Does 1/2-Tsallis-INF Also Work Well for Best-Arm Identification?](cards-0004.md#paper-150443) | 将累计遗憾和最终选臂准确性分开验收。 |
+| 学习理论 | 泛化诊断 | [Does Compression Imply Generalization? A Minimum Description Length Perspective](cards-0004.md#paper-151042) | 用训练轨迹的序贯遗憾作为复杂度信号。 |
+| 科学机器学习 | 表征迁移 | [Does Cross-Panel Pretraining Transfer Under Marker Heterogeneity? A Large-Scale Empirical Study in Clinical Flow Cytometry](cards-0004.md#paper-153804) | 冻结编码器并按输入特征集合重叠程度验收。 |
+| 多模态学习 | 视频证据评测 | [Does Inference-Time Reasoning Really Improve Video Understanding?](cards-0004.md#paper-154086) | 要求正确答复同时定位证据时间段。 |
+| 学习理论 | 重采样 | [Does Mixed Label Imbalance Matter to Minority Collapse in Imbalanced Learning?](cards-0004.md#paper-156069) | 对 mixup 后的混合标签也实行平衡采样。 |
+| 多模态学习 | 强化训练 | [Does Seeing More Mean Knowing More? Mono-Anchored Advantage Normalization for Multi-Source Visual Reasoning](cards-0004.md#paper-153810) | 以单源奖励作多源融合优势的动态参照。 |
+| 学习理论 | 泛化保证 | [Does Sparse Connectivity Improve Generalization? Convolutional Networks Below the Edge of Stability](cards-0004.md#paper-153905) | 用训练图块结构而非原输入维数判断稀疏网络的有效约束。 |
+| 时间序列 | 数据增强诊断 | [Does Synthetic Data Help? Empirical Evidence from Deep Learning Time Series Forecasters](cards-0004.md#paper-154722) | 按模型是否混合通道分别决定是否加合成数据。 |
+| 多模态学习 | 数据筛选 | [Does the Question Really Matter? Training-Free Data Selection for Vision-Language SFT](cards-0004.md#paper-150111) | 用有无问题条件时模型对答案有效性的变化选训练样本。 |
+| 优化 | 梯度筛选 | [Does This Gradient Spark Joy?](cards-0004.md#paper-149741) | 用优势乘惊讶度评估反传价值 |
+| 学习理论 | 训练动力学 | [Does Weight Decay Enhance Training Stability?](cards-0004.md#paper-154047) | 按架构分析权重衰减与尖锐度 |
+| 大语言模型 | 推理预算 | [Does Your Large Language Model Have An Intuitive Sense of The Difficulty of A Question?](cards-0004.md#paper-149184) | 先读隐状态再分配推理时间 |
+| 学习理论 | 外推诊断 | [Does Your Neural Network Extrapolate? Feature Engineering as Identifiability Bias for OOD Generalization](cards-0004.md#paper-155236) | 明确表示、标签映射和模型族的外推假设 |
+| 计算机视觉 | 查表推理 | [DoFP-Aligned Lookup Tables for Real-Time Polarization Demosaicking](cards-0004.md#paper-149291) | 将传感器专属残差预编译为低维查表 |
+| 计算机视觉 | 行为审计 | [Do Glimpse Policies See Like Humans? A Behavioral Audit Reveals Dissociated Viewing Priors in Classification-Trained Active Vision](cards-0004.md#paper-154112) | 用中心偏置和扫视统计检验主动视觉拟人性 |
+| 图学习 | 算法诊断 | [Do Graph Neural Networks Learn Generalizable Algorithms for Clustering Graphs?](cards-0004.md#paper-151157) | 跨图规模与图族测聚类策略 |
+| Agent | 置信校准 | [DoG: Sniffing Out Overconfidence in LLM Agents via Post-hoc Trajectory Restructuring](cards-0004.md#paper-152263) | 用依赖图替代线性步骤做置信估计 |
+| 生成模型 | 噪声设定 | [Do Heavy Tails Help Diffusion? On the Subtle Trade-off Between Initialization and Training](cards-0004.md#paper-153349) | 为生成器选择噪声时同时评估估计误差 |
+| 计算机视觉 | 物理一致性评测 | [Do Image Editing Models Understand Lighting?](cards-0004.md#paper-139308) | 使用真实光源开关配对校验编辑 |
+| 多模态学习 | 物理一致性评测 | [Do Joint Audio-Video Generation Models Understand Physics?](cards-0004.md#paper-139141) | 分开评估稳态、事件和环境转变 |
+| 大语言模型 | 机制诊断 | [Do Latent-CoT Models Think Step-by-Step? A Mechanistic Study on Sequential Reasoning Tasks](cards-0004.md#paper-153454) | 用已知中间状态测试潜思维是否保持完整滚动 |
+| 决策学习 | 人工复核 | [Do Less, Decide Better: Optimal Human Dispatching in AI-Assisted Decisions](cards-0004.md#paper-148862) | 按预测相关性与条件剩余不确定性决定人工复核维度 |
+| 大语言模型 | 记忆诊断 | [Do LLMs Bind Episodes? Probing Cross-Episode Parametric Retrieval Through Shared Cues](cards-0004.md#paper-150394) | 联合自由生成、单事实与多选探针测跨事件绑定 |
+| 大语言模型 | 偏差审计 | [Do LLMs Feel Social Pressure? Locating and Steering Social Desirability Bias in LLMs](cards-0004.md#paper-149415) | 用配对场景区分社会期许偏差的来源 |
+| 计算机视觉 | 长尾诊断 | [Domain-Conditioned Class Imbalance: Why Global Class Balance Fails Across Domains](cards-0004.md#paper-154451) | 固定边际分布，扫描类别与域的联合失衡 |
+| 生成模型 | 策略内监督 | [DOME: Drift-Adaptive On-Policy Motion Erasure in Video Diffusion Transformers](cards-0004.md#paper-148171) | 在编辑后模型实际访问的轨迹上布置监督 |
+| 大语言模型 | 零阶优化 | [Dominant-Layer ZO: A Single Layer Dominates Zeroth-Order Fine-Tuning of LLMs](cards-0004.md#paper-153447) | 先查激活离群层再分配零阶微调预算 |
+| 多智能体 | 博弈理论 | [Domination-Avoiding Learning Agents Cannot Collude](cards-0004.md#paper-152226) | 选择避开被支配策略的更新规则作为防串谋条件 |
+| 多模态学习 | 缺失模态鲁棒性 | [Do More Modalities Always Help? A Geometric Perspective on Missing-Modality Robustness](cards-0004.md#paper-153401) | 在单模态部署时保留单模态参照并检验子空间偏转 |
