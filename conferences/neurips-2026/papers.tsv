@@ -8662,126 +8662,126 @@ poster_id	title	paper_url	status	reason
 153246	Variance Reduction for Expectations with Diffusion Teachers	https://neurips.cc/virtual/2026/poster/153246	included	多次调用扩散教师用复用和分层降方差
 154622	Variational Active Flow Matching for Discrete Online Black-Box Optimization	https://neurips.cc/virtual/2026/poster/154622	excluded	核心为蛋白和小分子设计优化，没有独立安全通用验证。
 155166	Variational Approach to Optimal IPS Estimator for Multi-logger Off-Policy Evaluation	https://neurips.cc/virtual/2026/poster/155166	excluded	主要为多日志离策略估计方差理论，摘要未在重点任务验证。
-149599	Variational Consequence-Driven Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149599	pending	-
-149566	Variational Cover Modification Steganography	https://neurips.cc/virtual/2026/poster/149566	pending	-
-152888	Variational Inference via Entropic Transport Descent	https://neurips.cc/virtual/2026/poster/152888	pending	-
-152810	Variational Monte Carlo for Quantum Excited States via Nested Low-Rank Approximation	https://neurips.cc/virtual/2026/poster/152810	pending	-
-153361	Variational Trajectory Optimization of Anisotropic Diffusion Schedules	https://neurips.cc/virtual/2026/poster/153361	pending	-
-148294	Variational Wasserstein Model on Riemannian Manifolds for Image Segmentation	https://neurips.cc/virtual/2026/poster/148294	pending	-
-151186	VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation	https://neurips.cc/virtual/2026/poster/151186	pending	-
-152719	VASR: Variance-Aware Systematic Resampling for Diffusion Models	https://neurips.cc/virtual/2026/poster/152719	pending	-
-155578	V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models	https://neurips.cc/virtual/2026/poster/155578	pending	-
-152275	VC-OPD: Visual Counterfactual On-Policy Distillation for Grounded Vision-Language Reasoning	https://neurips.cc/virtual/2026/poster/152275	pending	-
-155491	VCR: Learning Valid Contextual Representation for Incomplete Wearable Signals	https://neurips.cc/virtual/2026/poster/155491	pending	-
-149708	VDE: Verifiable Dynamic Evaluation of Mathematical Reasoning via Typed Bipartite Graphs	https://neurips.cc/virtual/2026/poster/149708	pending	-
-139354	VecDBLens: A Modular Framework for Diagnosing Vector Databases  Retrieval Pipelines	https://neurips.cc/virtual/2026/poster/139354	pending	-
-156076	VecUQ-OT: Aggregating Uncertainty Measures via Multivariate Ranks	https://neurips.cc/virtual/2026/poster/156076	pending	-
-139316	VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design	https://neurips.cc/virtual/2026/poster/139316	pending	-
-150521	Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching	https://neurips.cc/virtual/2026/poster/150521	pending	-
-148308	Velocity-Space 3D Asset Editing	https://neurips.cc/virtual/2026/poster/148308	pending	-
-148885	Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection	https://neurips.cc/virtual/2026/poster/148885	pending	-
-139699	VeriContest: A Competitive-Programming Benchmark for Verifiable Code Generation	https://neurips.cc/virtual/2026/poster/139699	pending	-
-152908	Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization	https://neurips.cc/virtual/2026/poster/152908	pending	-
-148504	Verifiable LLM-Guided Focal SMT Solving for Quantified Arrays	https://neurips.cc/virtual/2026/poster/148504	pending	-
-149396	Verification-Aware Training for Speculative Decoding	https://neurips.cc/virtual/2026/poster/149396	pending	-
-155607	Verification-Guided Abstraction Generation with Large Language Models for Generalized Planning	https://neurips.cc/virtual/2026/poster/155607	pending	-
-150614	Verified-Source Authority Is Not Generic Sycophancy: Cue-Family Decomposition of LLM Compliance	https://neurips.cc/virtual/2026/poster/150614	pending	-
-148814	Verifier-Backed Hard Problem Generation for Mathematical Reasoning	https://neurips.cc/virtual/2026/poster/148814	pending	-
-138925	Verifier Choice is a Benchmark Design Variable: Auditing Structural Counting Evaluation in Text-to-Image Models	https://neurips.cc/virtual/2026/poster/138925	pending	-
-155211	Verifiers in the Loop: Decoding Time Verification for Code Translation	https://neurips.cc/virtual/2026/poster/155211	pending	-
-138973	Verify0: Can AI Agents Build Formally Verified Software Repositories?	https://neurips.cc/virtual/2026/poster/138973	pending	-
-139856	Verifying Agents in Rubric-Graded Environments	https://neurips.cc/virtual/2026/poster/139856	pending	-
-152311	Verifying Neural Networks with Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152311	pending	-
-149921	VerifyMAS: Hypothesis Verification for Failure Attribution in LLM Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/149921	pending	-
-139424	VerifyThisBench: Joint Evaluation of Code, Specifications, and Proof	https://neurips.cc/virtual/2026/poster/139424	pending	-
-152112	Verigrad: Verification-Driven Multi-Agent GPU Kernel Generation for High-Order MLIP Derivatives	https://neurips.cc/virtual/2026/poster/152112	pending	-
-151870	VeriGraph: Towards Verifiable Data-Analytic Agents	https://neurips.cc/virtual/2026/poster/151870	pending	-
-138988	VeriScope: Measuring Verification-Ready Verilog Artifacts	https://neurips.cc/virtual/2026/poster/138988	pending	-
-151369	Veri-Sure: Multi-Agent RTL Code Generation with Temporal Tracing, Slicing and Formal Verification	https://neurips.cc/virtual/2026/poster/151369	pending	-
-148411	VERITAS: Veracity-Enhanced Robust Identification of LLM-generated Text Against Style-shifts	https://neurips.cc/virtual/2026/poster/148411	pending	-
-139167	VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora	https://neurips.cc/virtual/2026/poster/139167	pending	-
-138888	VeriVul: A Verification-Guided Framework for Generating Realistic Vulnerability Benchmarks	https://neurips.cc/virtual/2026/poster/138888	pending	-
-139095	VeriWorld: A Verifiable Visual SWE-Bench for Spatial Reasoning in 3D Environments	https://neurips.cc/virtual/2026/poster/139095	pending	-
-156143	Vermeer: Autoregressive generative modeling of microscopy predicts protein localization	https://neurips.cc/virtual/2026/poster/156143	pending	-
-153885	VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation	https://neurips.cc/virtual/2026/poster/153885	pending	-
-139178	VeruSAGE-Bench: A Benchmark Suite for Rust System Verification	https://neurips.cc/virtual/2026/poster/139178	pending	-
-154252	Very Fast Bayesian Additive Regression Trees on GPU	https://neurips.cc/virtual/2026/poster/154252	pending	-
-155242	VESPO: Variational Sequence-level Soft Policy Optimization for Off-Policy LLM Training	https://neurips.cc/virtual/2026/poster/155242	pending	-
-151435	VESTA: Visual Exploration with Statistical Tool Agents	https://neurips.cc/virtual/2026/poster/151435	pending	-
-149823	VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/149823	pending	-
-138909	VEX-Bench: Benchmarking Verification Complexity of LLM-Generated Misinformation	https://neurips.cc/virtual/2026/poster/138909	pending	-
-155312	vExpert: Virtualizing Expert Storage for Adaptive Load Balancing in Distributed MoE Inference	https://neurips.cc/virtual/2026/poster/155312	pending	-
-138880	VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models	https://neurips.cc/virtual/2026/poster/138880	pending	-
-155107	VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing	https://neurips.cc/virtual/2026/poster/155107	pending	-
-149423	V-GIFT: Boosting Visual Instruction Tuning with Self-Supervised Guidance	https://neurips.cc/virtual/2026/poster/149423	pending	-
-139008	VI-Bench: Benchmarking Prompt Inversion from AIGC Videos	https://neurips.cc/virtual/2026/poster/139008	pending	-
-154655	Vibe-Spike: An Energy-Preserving EEG Foundation Model Through the Landscape of Neural Coherence	https://neurips.cc/virtual/2026/poster/154655	pending	-
-155979	VicEdit: Learning to Edit Videos from Visual In-Context Examples	https://neurips.cc/virtual/2026/poster/155979	pending	-
-150712	ViCO: A Training Strategy towards Semantic Aware Dynamic High-Resolution	https://neurips.cc/virtual/2026/poster/150712	pending	-
-154516	ViCoR: Estimating Visual Necessity via Counterfactual Residuals for Multimodal Medical Data Selection	https://neurips.cc/virtual/2026/poster/154516	pending	-
-151290	VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning	https://neurips.cc/virtual/2026/poster/151290	pending	-
-155000	VI-CuRL: Stabilizing Verifier-Independent RL Reasoning via Confidence-Guided Variance Reduction	https://neurips.cc/virtual/2026/poster/155000	pending	-
-155230	Video-FLAIR: Not Whether to Reason, But How	https://neurips.cc/virtual/2026/poster/155230	pending	-
-149484	Video Forensic Self-Descriptions: Leveraging Temporally Distributed Forensic Microstructures for Zero-Shot Detection of AI-Generated Videos	https://neurips.cc/virtual/2026/poster/149484	pending	-
-139996	Video Generation Research Needs a Legally Sustainable Data Infrastructure	https://neurips.cc/virtual/2026/poster/139996	pending	-
-148674	VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Tokens	https://neurips.cc/virtual/2026/poster/148674	pending	-
-154317	VideoMDM: Towards 3D Human Motion Generation From 2D Supervision	https://neurips.cc/virtual/2026/poster/154317	pending	-
-156098	Video-Mirai: Autoregressive Video Diffusion Models Need Foresight	https://neurips.cc/virtual/2026/poster/156098	pending	-
-153411	VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/153411	pending	-
-153418	Video Models Can Reason with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/153418	pending	-
-139576	VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding	https://neurips.cc/virtual/2026/poster/139576	pending	-
-148818	VideoSailor: Navigating Video Deep Research via Trajectory-to-Policy Flywheel	https://neurips.cc/virtual/2026/poster/148818	pending	-
-149002	VideoSleuth: A Narrative-Centric Agentic System with Video-Audio Native MLLM for Long-Form Video Understanding	https://neurips.cc/virtual/2026/poster/149002	pending	-
-152442	VideoSTF: Stress-Testing Output Repetition in Video Large Language Models	https://neurips.cc/virtual/2026/poster/152442	pending	-
-154835	Video Stitching from Multiple Moving Cameras	https://neurips.cc/virtual/2026/poster/154835	pending	-
-151423	Video-Zero: Self-Evolution Video Understanding	https://neurips.cc/virtual/2026/poster/151423	pending	-
-153093	VidHalluDoctor: Learning Video Differences to Mitigate Hallucinations in Vision-Language Models	https://neurips.cc/virtual/2026/poster/153093	pending	-
-139291	ViDiC: Video Difference Captioning	https://neurips.cc/virtual/2026/poster/139291	pending	-
-149056	VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks	https://neurips.cc/virtual/2026/poster/149056	pending	-
-153091	VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval	https://neurips.cc/virtual/2026/poster/153091	pending	-
-152008	View Confidence Perception-Driven Incremental Prediction for Incomplete Multi-view Multi-label Learning	https://neurips.cc/virtual/2026/poster/152008	pending	-
-149984	ViewRec3D: Learning to Recommend 3D Viewpoints for AI Photography	https://neurips.cc/virtual/2026/poster/149984	pending	-
-154079	ViewSAM: Learning View-aware Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking	https://neurips.cc/virtual/2026/poster/154079	pending	-
-153176	View-Spectral Reconciliation Learning for Text-based Multispectral Aerial–Ground Person Re-Identification	https://neurips.cc/virtual/2026/poster/153176	pending	-
-138905	VIGOR: Benchmarking Visual Rationale Correctness in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/138905	pending	-
-155830	VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models	https://neurips.cc/virtual/2026/poster/155830	pending	-
-153294	VIGOR: Zero-Shot Visual Generalization via Latent-Space Consistency in Model-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153294	pending	-
-150312	ViLo: LiDAR Localization with Vision-Language Priors	https://neurips.cc/virtual/2026/poster/150312	pending	-
-138897	ViMU: Benchmarking Video Metaphorical Understanding	https://neurips.cc/virtual/2026/poster/138897	pending	-
-152863	VINCIE-NExT: Unlocking Video Editing from Images via In-Context Modeling	https://neurips.cc/virtual/2026/poster/152863	pending	-
-139249	VIPBench: A Human-Aligned Benchmark for Voice Identity Perception in the Age of Voice Cloning	https://neurips.cc/virtual/2026/poster/139249	pending	-
-139742	VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology	https://neurips.cc/virtual/2026/poster/139742	pending	-
-139039	ViroGym: Realistic Large-Scale Benchmarks for Evaluating Viral Proteins	https://neurips.cc/virtual/2026/poster/139039	pending	-
-152359	Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along	https://neurips.cc/virtual/2026/poster/152359	pending	-
-151716	Virtual-Flow: Virtual Microphone-based Speech Enhancement via Unsupervised Flow Matching	https://neurips.cc/virtual/2026/poster/151716	pending	-
-155297	Virtual Head Attention	https://neurips.cc/virtual/2026/poster/155297	pending	-
-154323	Virtual Task Prompting for Multi-Task Scene Understanding	https://neurips.cc/virtual/2026/poster/154323	pending	-
-154414	VISD: Enhancing Video Reasoning via Structured Self-Distillation	https://neurips.cc/virtual/2026/poster/154414	pending	-
-139221	VisEditBench: A Benchmark for Vector-Format Diagram Editing with Visual Instructions	https://neurips.cc/virtual/2026/poster/139221	pending	-
-139809	VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents	https://neurips.cc/virtual/2026/poster/139809	pending	-
-148995	VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries	https://neurips.cc/virtual/2026/poster/148995	pending	-
-152069	Vision Correlators: Correlation-Driven Visual Understanding with Hypergraphs	https://neurips.cc/virtual/2026/poster/152069	pending	-
-148251	VisionCreator-R1: A Reflection-Enhanced Native Visual-Generation Agentic Model	https://neurips.cc/virtual/2026/poster/148251	pending	-
-148183	VisionCreator-S1: Evolving Visual-Generation Agents via Skill-GRPO Optimization	https://neurips.cc/virtual/2026/poster/148183	pending	-
-155938	Vision-Language Grounding as Bidirectional Concept Correspondence	https://neurips.cc/virtual/2026/poster/155938	pending	-
-140095	Vision-Language Models Should Commit to a Cézannian Specification	https://neurips.cc/virtual/2026/poster/140095	pending	-
-151295	Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation	https://neurips.cc/virtual/2026/poster/151295	pending	-
-149669	Vision to Geometry: 3D Spatial Memory for Sequential Embodied MLLM Reasoning and Exploration	https://neurips.cc/virtual/2026/poster/149669	pending	-
-152195	Vision Token Pruning via Query-Vision Interaction Decomposition	https://neurips.cc/virtual/2026/poster/152195	pending	-
-149421	Vision Transformers Learn Gestalt-Like Figure-Ground Cues from Natural Images	https://neurips.cc/virtual/2026/poster/149421	pending	-
-139833	VistaQA: Benchmarking Joint Visual Question Answering and Pixel-Level Evidence	https://neurips.cc/virtual/2026/poster/139833	pending	-
-148918	VISTA: Support-Anchored Value Targeting for Fast Flow-Based Vision-Language-Action Policies	https://neurips.cc/virtual/2026/poster/148918	pending	-
-149701	Visual-Advantage On-Policy Distillation for Vision-Language Models	https://neurips.cc/virtual/2026/poster/149701	pending	-
-151190	Visual Anchoring for Scenario-Guided Forecasting	https://neurips.cc/virtual/2026/poster/151190	pending	-
-152883	Visual Enhanced Depth Scaling for Multimodal Latent Reasoning	https://neurips.cc/virtual/2026/poster/152883	pending	-
-150941	Visual-ERM: Reward Modeling for Visual Equivalence	https://neurips.cc/virtual/2026/poster/150941	pending	-
-151613	Visual Expert Skipping for MoE-MLLMs via K-Armed Bandit based Expert Estimation	https://neurips.cc/virtual/2026/poster/151613	pending	-
-150125	Visual Grounding First, Multimodal In-context Learning Follows	https://neurips.cc/virtual/2026/poster/150125	pending	-
-153471	Visual Harness: Grounding Multimodal Reasoning in Physics Engines	https://neurips.cc/virtual/2026/poster/153471	pending	-
-150518	Visual Instruction Tuning Aligns Modalities through Abstraction	https://neurips.cc/virtual/2026/poster/150518	pending	-
-152643	Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs	https://neurips.cc/virtual/2026/poster/152643	pending	-
-148225	Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/148225	pending	-
-150417	Visual Reinforcement Fine-Tuning via Bootstrapped Medical Reasoning	https://neurips.cc/virtual/2026/poster/150417	pending	-
+149599	Variational Consequence-Driven Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149599	included	离线 RL 以行为的潜后果而非原动作限制偏移。
+149566	Variational Cover Modification Steganography	https://neurips.cc/virtual/2026/poster/149566	excluded	摘要核心是改进隐蔽信息传输，缺少目标领域独立防御或研究设计。
+152888	Variational Inference via Entropic Transport Descent	https://neurips.cc/virtual/2026/poster/152888	included	后验无 score 时用粒子间协同输运。
+152810	Variational Monte Carlo for Quantum Excited States via Nested Low-Rank Approximation	https://neurips.cc/virtual/2026/poster/152810	excluded	核心是量子激发态专用求解，摘要未明确目标深度学习技术选择。
+153361	Variational Trajectory Optimization of Anisotropic Diffusion Schedules	https://neurips.cc/virtual/2026/poster/153361	included	扩散调度按子空间分配噪声而非统一标量。
+148294	Variational Wasserstein Model on Riemannian Manifolds for Image Segmentation	https://neurips.cc/virtual/2026/poster/148294	included	分割前后台颜色重合时匹配内蕴特征分布。
+151186	VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation	https://neurips.cc/virtual/2026/poster/151186	included	视觉 AR 的 KV 量化以缓存异质轴分组。
+152719	VASR: Variance-Aware Systematic Resampling for Diffusion Models	https://neurips.cc/virtual/2026/poster/152719	included	扩散 SMC 区分延续随机性与重采样变差。
+155578	V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models	https://neurips.cc/virtual/2026/poster/155578	included	视频 token 裁剪保证时间覆盖和位置绑定。
+152275	VC-OPD: Visual Counterfactual On-Policy Distillation for Grounded Vision-Language Reasoning	https://neurips.cc/virtual/2026/poster/152275	included	对图像证据真正敏感的 token 优先给蒸馏。
+155491	VCR: Learning Valid Contextual Representation for Incomplete Wearable Signals	https://neurips.cc/virtual/2026/poster/155491	included	缺失传感器训练时让专家显式感到可用组合。
+149708	VDE: Verifiable Dynamic Evaluation of Mathematical Reasoning via Typed Bipartite Graphs	https://neurips.cc/virtual/2026/poster/149708	included	可核数学评测用类型图动态组合。
+139354	VecDBLens: A Modular Framework for Diagnosing Vector Databases  Retrieval Pipelines	https://neurips.cc/virtual/2026/poster/139354	included	检索排障区分嵌入上限、索引损失和执行成本。
+156076	VecUQ-OT: Aggregating Uncertainty Measures via Multivariate Ranks	https://neurips.cc/virtual/2026/poster/156076	included	无标签组合多个不确定性分数先做多元秩匹配。
+139316	VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design	https://neurips.cc/virtual/2026/poster/139316	included	工程设计代理按角色测验收而非一个综合分。
+150521	Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching	https://neurips.cc/virtual/2026/poster/150521	included	流匹配的时间步采样只追可降误差。
+148308	Velocity-Space 3D Asset Editing	https://neurips.cc/virtual/2026/poster/148308	included	原生 3D 编辑直接在采样速度空间干预。
+148885	Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection	https://neurips.cc/virtual/2026/poster/148885	included	离群按移除后数据多样性变化判断。
+139699	VeriContest: A Competitive-Programming Benchmark for Verifiable Code Generation	https://neurips.cc/virtual/2026/poster/139699	included	可验证代码分别验规格、实现和证明。
+152908	Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization	https://neurips.cc/virtual/2026/poster/152908	included	可验证环境通过递归语义组合增复杂度。
+148504	Verifiable LLM-Guided Focal SMT Solving for Quantified Arrays	https://neurips.cc/virtual/2026/poster/148504	included	语言模型提出聚焦条件，由传统求解器负责验收。
+149396	Verification-Aware Training for Speculative Decoding	https://neurips.cc/virtual/2026/poster/149396	included	在训练草稿模型时模拟最终验证。
+155607	Verification-Guided Abstraction Generation with Large Language Models for Generalized Planning	https://neurips.cc/virtual/2026/poster/155607	included	用符号反例纠正跨实例规划抽象。
+150614	Verified-Source Authority Is Not Generic Sycophancy: Cue-Family Decomposition of LLM Compliance	https://neurips.cc/virtual/2026/poster/150614	included	把来源权威和普通用户迎合分开测试。
+148814	Verifier-Backed Hard Problem Generation for Mathematical Reasoning	https://neurips.cc/virtual/2026/poster/148814	included	自生成难题时独立验证题目合法性。
+138925	Verifier Choice is a Benchmark Design Variable: Auditing Structural Counting Evaluation in Text-to-Image Models	https://neurips.cc/virtual/2026/poster/138925	included	将自动评审选择视为图像计数基准的变量。
+155211	Verifiers in the Loop: Decoding Time Verification for Code Translation	https://neurips.cc/virtual/2026/poster/155211	included	代码翻译在结构边界即时验证前缀。
+138973	Verify0: Can AI Agents Build Formally Verified Software Repositories?	https://neurips.cc/virtual/2026/poster/138973	excluded	主要是多模块证明和实现基准，摘要未给独立技术机制。
+139856	Verifying Agents in Rubric-Graded Environments	https://neurips.cc/virtual/2026/poster/139856	included	用已有任务细则反推评审工具必须访问的证据。
+152311	Verifying Neural Networks with Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152311	included	以长期搜索成本学习修正验证器分支启发式。
+149921	VerifyMAS: Hypothesis Verification for Failure Attribution in LLM Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/149921	included	多代理归因先提出错误假设，再从轨迹验证。
+139424	VerifyThisBench: Joint Evaluation of Code, Specifications, and Proof	https://neurips.cc/virtual/2026/poster/139424	included	形式化代码同时测规格意图和实现证明。
+152112	Verigrad: Verification-Driven Multi-Agent GPU Kernel Generation for High-Order MLIP Derivatives	https://neurips.cc/virtual/2026/poster/152112	excluded	高阶 GPU 导数生成有参考价值，摘要未给合同分解的独立迁移证据。
+151870	VeriGraph: Towards Verifiable Data-Analytic Agents	https://neurips.cc/virtual/2026/poster/151870	included	数据分析把计算、来源和推导联为可审计证据图。
+138988	VeriScope: Measuring Verification-Ready Verilog Artifacts	https://neurips.cc/virtual/2026/poster/138988	excluded	主要面向 Verilog 验收分项，摘要未给区分通用评价方法的独立证据。
+151369	Veri-Sure: Multi-Agent RTL Code Generation with Temporal Tracing, Slicing and Formal Verification	https://neurips.cc/virtual/2026/poster/151369	excluded	硬件生成由多种验证和修复协同，摘要未隔离通用机制。
+148411	VERITAS: Veracity-Enhanced Robust Identification of LLM-generated Text Against Style-shifts	https://neurips.cc/virtual/2026/poster/148411	included	文本检测必须控制风格变化并报告稳健性。
+139167	VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora	https://neurips.cc/virtual/2026/poster/139167	excluded	主要提供旅行规划基准，摘要未给独立可复用机制。
+138888	VeriVul: A Verification-Guided Framework for Generating Realistic Vulnerability Benchmarks	https://neurips.cc/virtual/2026/poster/138888	excluded	聚焦构造漏洞基准，不提取漏洞生成和复现机制。
+139095	VeriWorld: A Verifiable Visual SWE-Bench for Spatial Reasoning in 3D Environments	https://neurips.cc/virtual/2026/poster/139095	included	空间代理用同一任务的视觉、结构和联合输入区分感知失败。
+156143	Vermeer: Autoregressive generative modeling of microscopy predicts protein localization	https://neurips.cc/virtual/2026/poster/156143	excluded	主要涉及蛋白质显微位置建模，摘要未单列安全通用验证。
+153885	VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation	https://neurips.cc/virtual/2026/poster/153885	included	多相机策略先融合场景再给原动作骨干
+139178	VeruSAGE-Bench: A Benchmark Suite for Rust System Verification	https://neurips.cc/virtual/2026/poster/139178	excluded	主要为系统验证基准和成本测量，未定位可迁移模型机制。
+154252	Very Fast Bayesian Additive Regression Trees on GPU	https://neurips.cc/virtual/2026/poster/154252	excluded	主要是既有 BART 算法 GPU 工程移植。
+155242	VESPO: Variational Sequence-level Soft Policy Optimization for Off-Policy LLM Training	https://neurips.cc/virtual/2026/poster/155242	included	异步策略训练将轨迹陈旧性直接纳入权重
+151435	VESTA: Visual Exploration with Statistical Tool Agents	https://neurips.cc/virtual/2026/poster/151435	excluded	摘要主要描述视觉专家工具编排，对动态工具机制缺少独立可核验设置。
+149823	VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/149823	excluded	主要为零样本时序异常中视觉表示组合，未单列迁移对照。
+138909	VEX-Bench: Benchmarking Verification Complexity of LLM-Generated Misinformation	https://neurips.cc/virtual/2026/poster/138909	excluded	主要量化误导内容的低成本和核验困难，摘要未分离安全防御机制。
+155312	vExpert: Virtualizing Expert Storage for Adaptive Load Balancing in Distributed MoE Inference	https://neurips.cc/virtual/2026/poster/155312	excluded	主要为专家存储管理工程，摘要未核对通用深度模型机制。
+138880	VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models	https://neurips.cc/virtual/2026/poster/138880	excluded	主要为 SVG 图形专门数据及课程，摘要未隔离可迁移奖励作用。
+155107	VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing	https://neurips.cc/virtual/2026/poster/155107	included	掩码扩散搜索保留重新掩码以纠错
+149423	V-GIFT: Boosting Visual Instruction Tuning with Self-Supervised Guidance	https://neurips.cc/virtual/2026/poster/149423	included	指令微调混入少量视觉自监督题
+139008	VI-Bench: Benchmarking Prompt Inversion from AIGC Videos	https://neurips.cc/virtual/2026/poster/139008	excluded	主要是视频提示重建数据与分层评估，未提出独立机制。
+154655	Vibe-Spike: An Energy-Preserving EEG Foundation Model Through the Landscape of Neural Coherence	https://neurips.cc/virtual/2026/poster/154655	excluded	主要为 EEG 专项与神经解释，摘要未验证通用时序设置。
+155979	VicEdit: Learning to Edit Videos from Visual In-Context Examples	https://neurips.cc/virtual/2026/poster/155979	excluded	主要为视频编辑范例的双路条件组合，缺少独立控制。
+150712	ViCO: A Training Strategy towards Semantic Aware Dynamic High-Resolution	https://neurips.cc/virtual/2026/poster/150712	excluded	摘要未给语义分配机制与固定分辨的独立取舍条件。
+154516	ViCoR: Estimating Visual Necessity via Counterfactual Residuals for Multimodal Medical Data Selection	https://neurips.cc/virtual/2026/poster/154516	included	多模态采样优先保留必须看图才能解的题
+151290	VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning	https://neurips.cc/virtual/2026/poster/151290	included	视觉推理课程可修改视觉场景而非只改文字
+155000	VI-CuRL: Stabilizing Verifier-Independent RL Reasoning via Confidence-Guided Variance Reduction	https://neurips.cc/virtual/2026/poster/155000	excluded	摘要未具体给置信方差估计的独立效果和核验边界。
+155230	Video-FLAIR: Not Whether to Reason, But How	https://neurips.cc/virtual/2026/poster/155230	included	训练视频助手为当前证据选择推理方式和长度
+149484	Video Forensic Self-Descriptions: Leveraging Temporally Distributed Forensic Microstructures for Zero-Shot Detection of AI-Generated Videos	https://neurips.cc/virtual/2026/poster/149484	included	生成视频检测单测随时间分布的细微结构。
+139996	Video Generation Research Needs a Legally Sustainable Data Infrastructure	https://neurips.cc/virtual/2026/poster/139996	excluded	摘要主要讨论数据法律和治理基础设施，未给独立可复用技术机制。
+148674	VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Tokens	https://neurips.cc/virtual/2026/poster/148674	included	分块视频 matting 同时保存局部输出和全局参考。
+154317	VideoMDM: Towards 3D Human Motion Generation From 2D Supervision	https://neurips.cc/virtual/2026/poster/154317	included	缺 3D 动作真值时测加权重投影能否替代。
+156098	Video-Mirai: Autoregressive Video Diffusion Models Need Foresight	https://neurips.cc/virtual/2026/poster/156098	included	视频训练让教师看完成轨迹，学生仍按因果生成。
+153411	VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/153411	included	视频 MLA 实测瓶颈秩而非只看初始化能谱。
+153418	Video Models Can Reason with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/153418	included	视频推理训练用可执行规则拆局部奖励。
+139576	VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding	https://neurips.cc/virtual/2026/poster/139576	included	超长视频评测要求证据真正跨时段。
+148818	VideoSailor: Navigating Video Deep Research via Trajectory-to-Policy Flywheel	https://neurips.cc/virtual/2026/poster/148818	included	视频研究代理把生成轨迹迭代筛为离策略引导。
+149002	VideoSleuth: A Narrative-Centric Agentic System with Video-Audio Native MLLM for Long-Form Video Understanding	https://neurips.cc/virtual/2026/poster/149002	excluded	摘要可见的方法主要是面向长视频的叙事和原生音视频系统组合，尚未识别独立经验证机制。
+152442	VideoSTF: Stress-Testing Output Repetition in Video Large Language Models	https://neurips.cc/virtual/2026/poster/152442	included	视频问答除正确率外监控重复循环。
+154835	Video Stitching from Multiple Moving Cameras	https://neurips.cc/virtual/2026/poster/154835	included	多路移动相机拼接用联合时序配准。
+151423	Video-Zero: Self-Evolution Video Understanding	https://neurips.cc/virtual/2026/poster/151423	included	视频问答自演化要求问题对应时间段证据。
+153093	VidHalluDoctor: Learning Video Differences to Mitigate Hallucinations in Vision-Language Models	https://neurips.cc/virtual/2026/poster/153093	included	视频幻觉训练增加近邻差异与反事实配对。
+139291	ViDiC: Video Difference Captioning	https://neurips.cc/virtual/2026/poster/139291	included	比较两视频时分开验相同和不同事实。
+149056	VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks	https://neurips.cc/virtual/2026/poster/149056	included	多模态训练数据按下游增益动态再平衡。
+153091	VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval	https://neurips.cc/virtual/2026/poster/153091	included	现有视频 MLLM 先试中间层及校准头作检索器。
+152008	View Confidence Perception-Driven Incremental Prediction for Incomplete Multi-view Multi-label Learning	https://neurips.cc/virtual/2026/poster/152008	included	多视图预测给弱支路独立评质量和容量。
+149984	ViewRec3D: Learning to Recommend 3D Viewpoints for AI Photography	https://neurips.cc/virtual/2026/poster/149984	included	相机取景推荐可用逐射线编辑监督。
+154079	ViewSAM: Learning View-aware Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking	https://neurips.cc/virtual/2026/poster/154079	included	跨视角指代跟踪不可靠时先把通基座用作弱标签。
+153176	View-Spectral Reconciliation Learning for Text-based Multispectral Aerial–Ground Person Re-Identification	https://neurips.cc/virtual/2026/poster/153176	excluded	多光谱跨视角行人检索主要依赖任务特征，摘要未给独立迁移验证。
+138905	VIGOR: Benchmarking Visual Rationale Correctness in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/138905	included	视觉解释将低层属性、对象部件和关系分别对齐到证据。
+155830	VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models	https://neurips.cc/virtual/2026/poster/155830	included	按视觉证据带来的额外置信决定何时解除掩码。
+153294	VIGOR: Zero-Shot Visual Generalization via Latent-Space Consistency in Model-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153294	included	对视觉干扰使用潜状态的一致性训练，抑制滚动误差。
+150312	ViLo: LiDAR Localization with Vision-Language Priors	https://neurips.cc/virtual/2026/poster/150312	excluded	LiDAR 与语言先验方案以专用模块验证为主，摘要缺少独立方法贡献。
+138897	ViMU: Benchmarking Video Metaphorical Understanding	https://neurips.cc/virtual/2026/poster/138897	excluded	视频隐喻测评较专门，摘要未给能改变核心任务训练的结论。
+152863	VINCIE-NExT: Unlocking Video Editing from Images via In-Context Modeling	https://neurips.cc/virtual/2026/poster/152863	included	视频编辑可以经由图像编辑桥接以使用大量静态训练数据。
+139249	VIPBench: A Human-Aligned Benchmark for Voice Identity Perception in the Age of Voice Cloning	https://neurips.cc/virtual/2026/poster/139249	included	声音身份模型应在真实与合成条件上核对人类判断。
+139742	VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology	https://neurips.cc/virtual/2026/poster/139742	excluded	兽医病理问答资料具有特定临床范围，摘要未提炼独立研究机制。
+139039	ViroGym: Realistic Large-Scale Benchmarks for Evaluating Viral Proteins	https://neurips.cc/virtual/2026/poster/139039	excluded	聚焦病毒蛋白功能和预测评测，不抽取病毒优化相关模型或实验信息。
+152359	Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along	https://neurips.cc/virtual/2026/poster/152359	included	新生成博弈策略可用时间平均对手估计其历史表现。
+151716	Virtual-Flow: Virtual Microphone-based Speech Enhancement via Unsupervised Flow Matching	https://neurips.cc/virtual/2026/poster/151716	included	缺少虚拟传感器标签时可用实录条件及下游一致性学习缺失观测。
+155297	Virtual Head Attention	https://neurips.cc/virtual/2026/poster/155297	included	用查询组内轻量线性映射补回数量缩减的有效注意力头。
+154323	Virtual Task Prompting for Multi-Task Scene Understanding	https://neurips.cc/virtual/2026/poster/154323	included	在多任务每层学习读写共享的虚拟任务，表示任务组成。
+154414	VISD: Enhancing Video Reasoning via Structured Self-Distillation	https://neurips.cc/virtual/2026/poster/154414	included	视频自蒸馏使用可诊断的多个教师评价维度。
+139221	VisEditBench: A Benchmark for Vector-Format Diagram Editing with Visual Instructions	https://neurips.cc/virtual/2026/poster/139221	excluded	主要是视觉指导的 TikZ 编辑基准，摘要没有独立可复用机制。
+139809	VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents	https://neurips.cc/virtual/2026/poster/139809	included	在交互基准中单独改变输入表示、反馈和规划长度。
+148995	VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries	https://neurips.cc/virtual/2026/poster/148995	included	模糊可视化请求需要分开验证生成代码和实际图表。
+152069	Vision Correlators: Correlation-Driven Visual Understanding with Hypergraphs	https://neurips.cc/virtual/2026/poster/152069	included	视觉相关结构需表达多元组合时先验证超边消息。
+148251	VisionCreator-R1: A Reflection-Enhanced Native Visual-Generation Agentic Model	https://neurips.cc/virtual/2026/poster/148251	included	反思和规划的奖励质量不同，先分开训练再联合。
+148183	VisionCreator-S1: Evolving Visual-Generation Agents via Skill-GRPO Optimization	https://neurips.cc/virtual/2026/poster/148183	excluded	主要为技能策略联合更新，摘要未给可据以选择技能增量的分项规则。
+155938	Vision-Language Grounding as Bidirectional Concept Correspondence	https://neurips.cc/virtual/2026/poster/155938	included	视觉定位同时检查文本哪部分有真实区域对应
+140095	Vision-Language Models Should Commit to a Cézannian Specification	https://neurips.cc/virtual/2026/poster/140095	excluded	主要是结构 vs 捷径的立场主张，缺少新机制验证。
+151295	Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation	https://neurips.cc/virtual/2026/poster/151295	included	训练细节识读时给教师高分裁图，部署不用工具
+149669	Vision to Geometry: 3D Spatial Memory for Sequential Embodied MLLM Reasoning and Exploration	https://neurips.cc/virtual/2026/poster/149669	excluded	摘要给空间记忆整体结果及基准，未列可复核的独立机制对照。
+152195	Vision Token Pruning via Query-Vision Interaction Decomposition	https://neurips.cc/virtual/2026/poster/152195	excluded	与其他问题引导视觉压缩结论重叠，摘要未展开语义分解的额外边界。
+149421	Vision Transformers Learn Gestalt-Like Figure-Ground Cues from Natural Images	https://neurips.cc/virtual/2026/poster/149421	included	图形背景分离的对称线索要跨纹理检查
+139833	VistaQA: Benchmarking Joint Visual Question Answering and Pixel-Level Evidence	https://neurips.cc/virtual/2026/poster/139833	included	视觉问答使用答案与区域证据的联合逐题分
+148918	VISTA: Support-Anchored Value Targeting for Fast Flow-Based Vision-Language-Action Policies	https://neurips.cc/virtual/2026/poster/148918	included	快速流策略蒸馏只强化在数据支持的高值动作
+149701	Visual-Advantage On-Policy Distillation for Vision-Language Models	https://neurips.cc/virtual/2026/poster/149701	excluded	摘要未说明视觉优势如何独立提高监督质量。
+151190	Visual Anchoring for Scenario-Guided Forecasting	https://neurips.cc/virtual/2026/poster/151190	included	场景条件时序预测把情景与历史直接对齐
+152883	Visual Enhanced Depth Scaling for Multimodal Latent Reasoning	https://neurips.cc/virtual/2026/poster/152883	excluded	摘要未详细给潜在深度预算与课程各自验证。
+150941	Visual-ERM: Reward Modeling for Visual Equivalence	https://neurips.cc/virtual/2026/poster/150941	excluded	摘要主要为结构视觉任务的奖励数据及评价，对必要性与充分性未明确适用范围。
+151613	Visual Expert Skipping for MoE-MLLMs via K-Armed Bandit based Expert Estimation	https://neurips.cc/virtual/2026/poster/151613	excluded	主要是专家跳过的动态框架，摘要未分离 bandit 估计的性能代价边界。
+150125	Visual Grounding First, Multimodal In-context Learning Follows	https://neurips.cc/virtual/2026/poster/150125	excluded	摘要没有给视觉先验与新示例证据的独立训练条件。
+153471	Visual Harness: Grounding Multimodal Reasoning in Physics Engines	https://neurips.cc/virtual/2026/poster/153471	excluded	主要为物理工具多步系统，摘要未隔离改进相对其他地图工具的来源。
+150518	Visual Instruction Tuning Aligns Modalities through Abstraction	https://neurips.cc/virtual/2026/poster/150518	included	视觉指令微调先试只更新中间层
+152643	Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs	https://neurips.cc/virtual/2026/poster/152643	excluded	摘要的潜态干预未证明概率集中与视觉证据忠实之间的独立关系。
+148225	Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/148225	included	并行视觉推理每轮优先解互补视觉位置
+150417	Visual Reinforcement Fine-Tuning via Bootstrapped Medical Reasoning	https://neurips.cc/virtual/2026/poster/150417	excluded	主要为医学视觉问答和病灶任务的专项奖励组合。
 139189	Visual Robustness and Neural Alignment in a Shared Foraging Task: The Mouse vs. AI Benchmark	https://neurips.cc/virtual/2026/poster/139189	pending	-
 155749	Visual Text Compression as Measure Transport	https://neurips.cc/virtual/2026/poster/155749	pending	-
 155329	Visual-to-Executable Procedural Reconstruction of Buildings.	https://neurips.cc/virtual/2026/poster/155329	pending	-

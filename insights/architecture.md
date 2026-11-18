@@ -628,5 +628,10 @@
 - [UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation](../conferences/neurips-2026/cards-0012.md#paper-152503)
 - [UpSafe℃: Upcycling for Controllable Safety in Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-151223)
 - [URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets](../conferences/neurips-2026/cards-0012.md#paper-150077)
+- [VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation](../conferences/neurips-2026/cards-0012.md#paper-153885)
+- [Virtual-Flow: Virtual Microphone-based Speech Enhancement via Unsupervised Flow Matching](../conferences/neurips-2026/cards-0012.md#paper-151716)
+- [Virtual Head Attention](../conferences/neurips-2026/cards-0012.md#paper-155297)
+- [Virtual Task Prompting for Multi-Task Scene Understanding](../conferences/neurips-2026/cards-0012.md#paper-154323)
+- [Vision Correlators: Correlation-Driven Visual Understanding with Hypergraphs](../conferences/neurips-2026/cards-0012.md#paper-152069)
 
 <!-- conference-classification:end -->

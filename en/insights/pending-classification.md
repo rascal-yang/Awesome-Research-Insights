@@ -1298,5 +1298,12 @@
 - [Unsupervised Physics Informed Decomposition of Incomplete Time-Resolved Spectroscopy](../../conferences/neurips-2026/cards-0012.md#paper-154646)
 - [Untrusted Content Masking for Web Agents with Security Guarantees](../../conferences/neurips-2026/cards-0012.md#paper-150501)
 - [Value-Aware Stochastic KV Cache Eviction for Reasoning Models](../../conferences/neurips-2026/cards-0012.md#paper-152707)
+- [Variational Trajectory Optimization of Anisotropic Diffusion Schedules](../../conferences/neurips-2026/cards-0012.md#paper-153361)
+- [Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching](../../conferences/neurips-2026/cards-0012.md#paper-150521)
+- [Velocity-Space 3D Asset Editing](../../conferences/neurips-2026/cards-0012.md#paper-148308)
+- [Video Forensic Self-Descriptions: Leveraging Temporally Distributed Forensic Microstructures for Zero-Shot Detection of AI-Generated Videos](../../conferences/neurips-2026/cards-0012.md#paper-149484)
+- [VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Tokens](../../conferences/neurips-2026/cards-0012.md#paper-148674)
+- [Video Stitching from Multiple Moving Cameras](../../conferences/neurips-2026/cards-0012.md#paper-154835)
+- [ViewRec3D: Learning to Recommend 3D Viewpoints for AI Photography](../../conferences/neurips-2026/cards-0012.md#paper-149984)
 
 <!-- conference-classification:end -->

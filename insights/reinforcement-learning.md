@@ -786,5 +786,9 @@
 - [Value-Priced Uncertainty: A Family of PPO-Compatible Exploration Bonuses](../conferences/neurips-2026/cards-0012.md#paper-149802)
 - [Variance-Averse n-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments](../conferences/neurips-2026/cards-0012.md#paper-154788)
 - [Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards](../conferences/neurips-2026/cards-0012.md#paper-151544)
+- [VESPO: Variational Sequence-level Soft Policy Optimization for Off-Policy LLM Training](../conferences/neurips-2026/cards-0012.md#paper-155242)
+- [VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning](../conferences/neurips-2026/cards-0012.md#paper-151290)
+- [Video Models Can Reason with Verifiable Rewards](../conferences/neurips-2026/cards-0012.md#paper-153418)
+- [VISTA: Support-Anchored Value Targeting for Fast Flow-Based Vision-Language-Action Policies](../conferences/neurips-2026/cards-0012.md#paper-148918)
 
 <!-- conference-classification:end -->

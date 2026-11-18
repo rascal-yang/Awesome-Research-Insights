@@ -404,3 +404,82 @@
 | 强化学习与决策 | 强化学习与奖励 | [Variance-Averse n-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments](cards-0012.md#paper-154788) | 稀疏长程离线 RL 对高方差回报保守改权 |
 | 强化学习与决策 | 强化学习与奖励 | [Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards](cards-0012.md#paper-151544) | 有真值的 RL 可把新采样预算重分配给高方差前缀 |
 | 视觉与多模态 | 训练与优化 | [Variance Reduction for Expectations with Diffusion Teachers](cards-0012.md#paper-153246) | 多次调用扩散教师用复用和分层降方差 |
+| 强化学习 | 约束优化 | [Variational Consequence-Driven Offline Reinforcement Learning](cards-0012.md#paper-149599) | 离线 RL 以行为的潜后果而非原动作限制偏移。 |
+| 机器学习理论 | 采样与推理 | [Variational Inference via Entropic Transport Descent](cards-0012.md#paper-152888) | 后验无 score 时用粒子间协同输运。 |
+| 生成模型 | 扩散模型 | [Variational Trajectory Optimization of Anisotropic Diffusion Schedules](cards-0012.md#paper-153361) | 扩散调度按子空间分配噪声而非统一标量。 |
+| 计算机视觉 | 最优传输 | [Variational Wasserstein Model on Riemannian Manifolds for Image Segmentation](cards-0012.md#paper-148294) | 分割前后台颜色重合时匹配内蕴特征分布。 |
+| 模型效率与系统 | 量化 | [VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation](cards-0012.md#paper-151186) | 视觉 AR 的 KV 量化以缓存异质轴分组。 |
+| 生成模型 | 采样与推理 | [VASR: Variance-Aware Systematic Resampling for Diffusion Models](cards-0012.md#paper-152719) | 扩散 SMC 区分延续随机性与重采样变差。 |
+| 多模态学习 | 剪枝与稀疏化 | [V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models](cards-0012.md#paper-155578) | 视频 token 裁剪保证时间覆盖和位置绑定。 |
+| 多模态学习 | 知识蒸馏 | [VC-OPD: Visual Counterfactual On-Policy Distillation for Grounded Vision-Language Reasoning](cards-0012.md#paper-152275) | 对图像证据真正敏感的 token 优先给蒸馏。 |
+| 多模态学习 | 多模态融合 | [VCR: Learning Valid Contextual Representation for Incomplete Wearable Signals](cards-0012.md#paper-155491) | 缺失传感器训练时让专家显式感到可用组合。 |
+| 大语言模型 | 评测与诊断 | [VDE: Verifiable Dynamic Evaluation of Mathematical Reasoning via Typed Bipartite Graphs](cards-0012.md#paper-149708) | 可核数学评测用类型图动态组合。 |
+| 模型效率与系统 | 评测与诊断 | [VecDBLens: A Modular Framework for Diagnosing Vector Databases  Retrieval Pipelines](cards-0012.md#paper-139354) | 检索排障区分嵌入上限、索引损失和执行成本。 |
+| 深度学习 | 不确定性估计 | [VecUQ-OT: Aggregating Uncertainty Measures via Multivariate Ranks](cards-0012.md#paper-156076) | 无标签组合多个不确定性分数先做多元秩匹配。 |
+| 智能体与工具使用 | 评测与诊断 | [VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design](cards-0012.md#paper-139316) | 工程设计代理按角色测验收而非一个综合分。 |
+| 生成模型 | 流匹配 | [Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching](cards-0012.md#paper-150521) | 流匹配的时间步采样只追可降误差。 |
+| 生成模型 | 图像编辑 | [Velocity-Space 3D Asset Editing](cards-0012.md#paper-148308) | 原生 3D 编辑直接在采样速度空间干预。 |
+| 深度学习 | 异常检测 | [Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection](cards-0012.md#paper-148885) | 离群按移除后数据多样性变化判断。 |
+| 智能体与工具使用 | 评测与诊断 | [VeriContest: A Competitive-Programming Benchmark for Verifiable Code Generation](cards-0012.md#paper-139699) | 可验证代码分别验规格、实现和证明。 |
+| 大语言模型 | 训练策略 | [Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization](cards-0012.md#paper-152908) | 可验证环境通过递归语义组合增复杂度。 |
+| 大语言模型 | 推理策略 | [Verifiable LLM-Guided Focal SMT Solving for Quantified Arrays](cards-0012.md#paper-148504) | 语言模型提出聚焦条件，由传统求解器负责验收。 |
+| 大语言模型 | 训练策略 | [Verification-Aware Training for Speculative Decoding](cards-0012.md#paper-149396) | 在训练草稿模型时模拟最终验证。 |
+| 大语言模型 | 推理策略 | [Verification-Guided Abstraction Generation with Large Language Models for Generalized Planning](cards-0012.md#paper-155607) | 用符号反例纠正跨实例规划抽象。 |
+| 大语言模型 | 评测与诊断 | [Verified-Source Authority Is Not Generic Sycophancy: Cue-Family Decomposition of LLM Compliance](cards-0012.md#paper-150614) | 把来源权威和普通用户迎合分开测试。 |
+| 大语言模型 | 训练策略 | [Verifier-Backed Hard Problem Generation for Mathematical Reasoning](cards-0012.md#paper-148814) | 自生成难题时独立验证题目合法性。 |
+| 计算机视觉 | 评测与诊断 | [Verifier Choice is a Benchmark Design Variable: Auditing Structural Counting Evaluation in Text-to-Image Models](cards-0012.md#paper-138925) | 将自动评审选择视为图像计数基准的变量。 |
+| 大语言模型 | 推理策略 | [Verifiers in the Loop: Decoding Time Verification for Code Translation](cards-0012.md#paper-155211) | 代码翻译在结构边界即时验证前缀。 |
+| 大语言模型 | 评测与诊断 | [Verifying Agents in Rubric-Graded Environments](cards-0012.md#paper-139856) | 用已有任务细则反推评审工具必须访问的证据。 |
+| 机器学习基础与统计 | 优化 | [Verifying Neural Networks with Reinforcement Learning](cards-0012.md#paper-152311) | 以长期搜索成本学习修正验证器分支启发式。 |
+| 大语言模型 | 评测与诊断 | [VerifyMAS: Hypothesis Verification for Failure Attribution in LLM Multi-Agent Systems](cards-0012.md#paper-149921) | 多代理归因先提出错误假设，再从轨迹验证。 |
+| 大语言模型 | 评测与诊断 | [VerifyThisBench: Joint Evaluation of Code, Specifications, and Proof](cards-0012.md#paper-139424) | 形式化代码同时测规格意图和实现证明。 |
+| 大语言模型 | 推理策略 | [VeriGraph: Towards Verifiable Data-Analytic Agents](cards-0012.md#paper-151870) | 数据分析把计算、来源和推导联为可审计证据图。 |
+| 大语言模型 | 评测与诊断 | [VERITAS: Veracity-Enhanced Robust Identification of LLM-generated Text Against Style-shifts](cards-0012.md#paper-148411) | 文本检测必须控制风格变化并报告稳健性。 |
+| 多模态学习 | 评测与诊断 | [VeriWorld: A Verifiable Visual SWE-Bench for Spatial Reasoning in 3D Environments](cards-0012.md#paper-139095) | 空间代理用同一任务的视觉、结构和联合输入区分感知失败。 |
+| 具身智能与机器人 | 模型与架构 | [VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation](cards-0012.md#paper-153885) | 多相机策略先融合场景再给原动作骨干 |
+| 大语言模型 | 强化学习与奖励 | [VESPO: Variational Sequence-level Soft Policy Optimization for Off-Policy LLM Training](cards-0012.md#paper-155242) | 异步策略训练将轨迹陈旧性直接纳入权重 |
+| 大语言模型 | 生成与扩散 | [VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing](cards-0012.md#paper-155107) | 掩码扩散搜索保留重新掩码以纠错 |
+| 视觉与多模态 | 训练与优化 | [V-GIFT: Boosting Visual Instruction Tuning with Self-Supervised Guidance](cards-0012.md#paper-149423) | 指令微调混入少量视觉自监督题 |
+| 视觉与多模态 | 训练与优化 | [ViCoR: Estimating Visual Necessity via Counterfactual Residuals for Multimodal Medical Data Selection](cards-0012.md#paper-154516) | 多模态采样优先保留必须看图才能解的题 |
+| 视觉与多模态 | 强化学习与奖励 | [VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning](cards-0012.md#paper-151290) | 视觉推理课程可修改视觉场景而非只改文字 |
+| 视觉与多模态 | 评测与诊断 | [Video-FLAIR: Not Whether to Reason, But How](cards-0012.md#paper-155230) | 训练视频助手为当前证据选择推理方式和长度 |
+| 计算机视觉 | 视频建模 | [Video Forensic Self-Descriptions: Leveraging Temporally Distributed Forensic Microstructures for Zero-Shot Detection of AI-Generated Videos](cards-0012.md#paper-149484) | 生成视频检测单测随时间分布的细微结构。 |
+| 计算机视觉 | 视频建模 | [VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Tokens](cards-0012.md#paper-148674) | 分块视频 matting 同时保存局部输出和全局参考。 |
+| 生成模型 | 损失函数 | [VideoMDM: Towards 3D Human Motion Generation From 2D Supervision](cards-0012.md#paper-154317) | 缺 3D 动作真值时测加权重投影能否替代。 |
+| 生成模型 | 知识蒸馏 | [Video-Mirai: Autoregressive Video Diffusion Models Need Foresight](cards-0012.md#paper-156098) | 视频训练让教师看完成轨迹，学生仍按因果生成。 |
+| 模型效率与系统 | 注意力机制 | [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](cards-0012.md#paper-153411) | 视频 MLA 实测瓶颈秩而非只看初始化能谱。 |
+| 生成模型 | 奖励设计 | [Video Models Can Reason with Verifiable Rewards](cards-0012.md#paper-153418) | 视频推理训练用可执行规则拆局部奖励。 |
+| 多模态学习 | 评测与诊断 | [VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding](cards-0012.md#paper-139576) | 超长视频评测要求证据真正跨时段。 |
+| 智能体与工具使用 | 训练策略 | [VideoSailor: Navigating Video Deep Research via Trajectory-to-Policy Flywheel](cards-0012.md#paper-148818) | 视频研究代理把生成轨迹迭代筛为离策略引导。 |
+| 多模态学习 | 评测与诊断 | [VideoSTF: Stress-Testing Output Repetition in Video Large Language Models](cards-0012.md#paper-152442) | 视频问答除正确率外监控重复循环。 |
+| 计算机视觉 | 三维视觉 | [Video Stitching from Multiple Moving Cameras](cards-0012.md#paper-154835) | 多路移动相机拼接用联合时序配准。 |
+| 多模态学习 | 自监督学习 | [Video-Zero: Self-Evolution Video Understanding](cards-0012.md#paper-151423) | 视频问答自演化要求问题对应时间段证据。 |
+| 多模态学习 | 数据增强 | [VidHalluDoctor: Learning Video Differences to Mitigate Hallucinations in Vision-Language Models](cards-0012.md#paper-153093) | 视频幻觉训练增加近邻差异与反事实配对。 |
+| 多模态学习 | 评测与诊断 | [ViDiC: Video Difference Captioning](cards-0012.md#paper-139291) | 比较两视频时分开验相同和不同事实。 |
+| 智能体与工具使用 | 数据选择 | [VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks](cards-0012.md#paper-149056) | 多模态训练数据按下游增益动态再平衡。 |
+| 多模态学习 | 检索增强 | [VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval](cards-0012.md#paper-153091) | 现有视频 MLLM 先试中间层及校准头作检索器。 |
+| 多模态学习 | 多模态融合 | [View Confidence Perception-Driven Incremental Prediction for Incomplete Multi-view Multi-label Learning](cards-0012.md#paper-152008) | 多视图预测给弱支路独立评质量和容量。 |
+| 计算机视觉 | 三维视觉 | [ViewRec3D: Learning to Recommend 3D Viewpoints for AI Photography](cards-0012.md#paper-149984) | 相机取景推荐可用逐射线编辑监督。 |
+| 计算机视觉 | 多模态融合 | [ViewSAM: Learning View-aware Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking](cards-0012.md#paper-154079) | 跨视角指代跟踪不可靠时先把通基座用作弱标签。 |
+| 多模态学习 | 评测与诊断 | [VIGOR: Benchmarking Visual Rationale Correctness in Multimodal Large Language Models](cards-0012.md#paper-138905) | 视觉解释将低层属性、对象部件和关系分别对齐到证据。 |
+| 多模态学习 | 推理策略 | [VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models](cards-0012.md#paper-155830) | 按视觉证据带来的额外置信决定何时解除掩码。 |
+| 强化学习 | 表征学习 | [VIGOR: Zero-Shot Visual Generalization via Latent-Space Consistency in Model-Based Reinforcement Learning](cards-0012.md#paper-153294) | 对视觉干扰使用潜状态的一致性训练，抑制滚动误差。 |
+| 多模态学习 | 训练策略 | [VINCIE-NExT: Unlocking Video Editing from Images via In-Context Modeling](cards-0012.md#paper-152863) | 视频编辑可以经由图像编辑桥接以使用大量静态训练数据。 |
+| 多模态学习 | 评测与诊断 | [VIPBench: A Human-Aligned Benchmark for Voice Identity Perception in the Age of Voice Cloning](cards-0012.md#paper-139249) | 声音身份模型应在真实与合成条件上核对人类判断。 |
+| 强化学习 | 优化 | [Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along](cards-0012.md#paper-152359) | 新生成博弈策略可用时间平均对手估计其历史表现。 |
+| 多模态学习 | 模型架构 | [Virtual-Flow: Virtual Microphone-based Speech Enhancement via Unsupervised Flow Matching](cards-0012.md#paper-151716) | 缺少虚拟传感器标签时可用实录条件及下游一致性学习缺失观测。 |
+| 大语言模型 | 模型架构 | [Virtual Head Attention](cards-0012.md#paper-155297) | 用查询组内轻量线性映射补回数量缩减的有效注意力头。 |
+| 计算机视觉 | 模型架构 | [Virtual Task Prompting for Multi-Task Scene Understanding](cards-0012.md#paper-154323) | 在多任务每层学习读写共享的虚拟任务，表示任务组成。 |
+| 多模态学习 | 训练策略 | [VISD: Enhancing Video Reasoning via Structured Self-Distillation](cards-0012.md#paper-154414) | 视频自蒸馏使用可诊断的多个教师评价维度。 |
+| 多模态学习 | 评测与诊断 | [VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](cards-0012.md#paper-139809) | 在交互基准中单独改变输入表示、反馈和规划长度。 |
+| 多模态学习 | 评测与诊断 | [VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries](cards-0012.md#paper-148995) | 模糊可视化请求需要分开验证生成代码和实际图表。 |
+| 计算机视觉 | 模型架构 | [Vision Correlators: Correlation-Driven Visual Understanding with Hypergraphs](cards-0012.md#paper-152069) | 视觉相关结构需表达多元组合时先验证超边消息。 |
+| 多模态学习 | 训练策略 | [VisionCreator-R1: A Reflection-Enhanced Native Visual-Generation Agentic Model](cards-0012.md#paper-148251) | 反思和规划的奖励质量不同，先分开训练再联合。 |
+| 视觉与多模态 | 评测与诊断 | [Vision-Language Grounding as Bidirectional Concept Correspondence](cards-0012.md#paper-155938) | 视觉定位同时检查文本哪部分有真实区域对应 |
+| 视觉与多模态 | 训练与优化 | [Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation](cards-0012.md#paper-151295) | 训练细节识读时给教师高分裁图，部署不用工具 |
+| 视觉与多模态 | 评测与诊断 | [Vision Transformers Learn Gestalt-Like Figure-Ground Cues from Natural Images](cards-0012.md#paper-149421) | 图形背景分离的对称线索要跨纹理检查 |
+| 视觉与多模态 | 评测与诊断 | [VistaQA: Benchmarking Joint Visual Question Answering and Pixel-Level Evidence](cards-0012.md#paper-139833) | 视觉问答使用答案与区域证据的联合逐题分 |
+| 具身智能与机器人 | 强化学习与奖励 | [VISTA: Support-Anchored Value Targeting for Fast Flow-Based Vision-Language-Action Policies](cards-0012.md#paper-148918) | 快速流策略蒸馏只强化在数据支持的高值动作 |
+| 视觉与多模态 | 评测与诊断 | [Visual Anchoring for Scenario-Guided Forecasting](cards-0012.md#paper-151190) | 场景条件时序预测把情景与历史直接对齐 |
+| 视觉与多模态 | 训练与优化 | [Visual Instruction Tuning Aligns Modalities through Abstraction](cards-0012.md#paper-150518) | 视觉指令微调先试只更新中间层 |
+| 视觉与多模态 | 生成与扩散 | [Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models](cards-0012.md#paper-148225) | 并行视觉推理每轮优先解互补视觉位置 |

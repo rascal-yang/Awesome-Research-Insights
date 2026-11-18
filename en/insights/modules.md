@@ -479,5 +479,9 @@ Reusable components and local changes to model inputs or connections.
 - [UGO: Unified Architecture for General Multi-Object Tracking by Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-152769)
 - [Unbounded Streaming Text-To-Speech with Prefixed Sliding Window Attention](../../conferences/neurips-2026/cards-0012.md#paper-149144)
 - [Understanding the Effects of Hyper-Connections on Self-Attention Dynamics: A Bifurcation Analysis](../../conferences/neurips-2026/cards-0012.md#paper-151454)
+- [VCR: Learning Valid Contextual Representation for Incomplete Wearable Signals](../../conferences/neurips-2026/cards-0012.md#paper-155491)
+- [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](../../conferences/neurips-2026/cards-0012.md#paper-153411)
+- [View Confidence Perception-Driven Incremental Prediction for Incomplete Multi-view Multi-label Learning](../../conferences/neurips-2026/cards-0012.md#paper-152008)
+- [ViewSAM: Learning View-aware Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking](../../conferences/neurips-2026/cards-0012.md#paper-154079)
 
 <!-- conference-classification:end -->

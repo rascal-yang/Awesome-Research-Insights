@@ -1175,5 +1175,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Unified Generative-Predictive Modeling for 4D Scene Understanding](../../conferences/neurips-2026/cards-0012.md#paper-155625)
 - [Uniform Diffusion Models revisited: Leave-One-Out Denoiser and Absorbing State Reformulation](../../conferences/neurips-2026/cards-0012.md#paper-153715)
 - [Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization](../../conferences/neurips-2026/cards-0012.md#paper-153300)
+- [VecUQ-OT: Aggregating Uncertainty Measures via Multivariate Ranks](../../conferences/neurips-2026/cards-0012.md#paper-156076)
 
 <!-- conference-classification:end -->

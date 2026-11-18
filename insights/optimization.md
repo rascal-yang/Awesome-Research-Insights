@@ -806,5 +806,9 @@
 - [Uncertainty Aware SURE Transfer Learning for Classification Problems](../conferences/neurips-2026/cards-0012.md#paper-149259)
 - [Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA](../conferences/neurips-2026/cards-0012.md#paper-151601)
 - [Unifying Sparsity and Discreteness: One-Shot Pruning for Quantized LLMs via Discrete Optimization](../conferences/neurips-2026/cards-0012.md#paper-151050)
+- [Variational Consequence-Driven Offline Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-149599)
+- [Variational Wasserstein Model on Riemannian Manifolds for Image Segmentation](../conferences/neurips-2026/cards-0012.md#paper-148294)
+- [Verifying Neural Networks with Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-152311)
+- [Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along](../conferences/neurips-2026/cards-0012.md#paper-152359)
 
 <!-- conference-classification:end -->

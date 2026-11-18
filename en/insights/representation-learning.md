@@ -655,5 +655,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Unveiling the Value of Motion for Cinematic Camera Trajectories](../../conferences/neurips-2026/cards-0012.md#paper-154123)
 - [User Embeddings are Superpositions of Interpretable Behavioral Modes](../../conferences/neurips-2026/cards-0012.md#paper-155845)
 - [V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](../../conferences/neurips-2026/cards-0012.md#paper-152475)
+- [VIGOR: Zero-Shot Visual Generalization via Latent-Space Consistency in Model-Based Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-153294)
 
 <!-- conference-classification:end -->

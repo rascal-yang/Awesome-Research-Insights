@@ -1499,5 +1499,16 @@ Decoding, test-time adaptation, and efficient execution.
 - [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](../../conferences/neurips-2026/cards-0012.md#paper-149965)
 - [Urgency-Aware Autoregressive VLMs for Unanticipated Healthcare Occurrences](../../conferences/neurips-2026/cards-0012.md#paper-149641)
 - [UTOPI: Efficient Egocentric Long-Video Understanding in AR via User-Guided Token Pre-Compression](../../conferences/neurips-2026/cards-0012.md#paper-153858)
+- [Variational Inference via Entropic Transport Descent](../../conferences/neurips-2026/cards-0012.md#paper-152888)
+- [VAR-Q: Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation](../../conferences/neurips-2026/cards-0012.md#paper-151186)
+- [VASR: Variance-Aware Systematic Resampling for Diffusion Models](../../conferences/neurips-2026/cards-0012.md#paper-152719)
+- [V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models](../../conferences/neurips-2026/cards-0012.md#paper-155578)
+- [Verifiable LLM-Guided Focal SMT Solving for Quantified Arrays](../../conferences/neurips-2026/cards-0012.md#paper-148504)
+- [Verification-Guided Abstraction Generation with Large Language Models for Generalized Planning](../../conferences/neurips-2026/cards-0012.md#paper-155607)
+- [Verifiers in the Loop: Decoding Time Verification for Code Translation](../../conferences/neurips-2026/cards-0012.md#paper-155211)
+- [VeriGraph: Towards Verifiable Data-Analytic Agents](../../conferences/neurips-2026/cards-0012.md#paper-151870)
+- [VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing](../../conferences/neurips-2026/cards-0012.md#paper-155107)
+- [VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models](../../conferences/neurips-2026/cards-0012.md#paper-155830)
+- [Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models](../../conferences/neurips-2026/cards-0012.md#paper-148225)
 
 <!-- conference-classification:end -->

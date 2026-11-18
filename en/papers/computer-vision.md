@@ -1212,5 +1212,14 @@ Visual representation, recognition, reconstruction, and generation.
 - [Unsupervised Physics Informed Decomposition of Incomplete Time-Resolved Spectroscopy](../../conferences/neurips-2026/cards-0012.md#paper-154646)
 - [Unveiling the Value of Motion for Cinematic Camera Trajectories](../../conferences/neurips-2026/cards-0012.md#paper-154123)
 - [USAD: Uncertainty-aware Statistical Adversarial Detection](../../conferences/neurips-2026/cards-0012.md#paper-154348)
+- [Variational Wasserstein Model on Riemannian Manifolds for Image Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-148294)
+- [Verifier Choice is a Benchmark Design Variable: Auditing Structural Counting Evaluation in Text-to-Image Models](../../conferences/neurips-2026/cards-0012.md#paper-138925)
+- [Video Forensic Self-Descriptions: Leveraging Temporally Distributed Forensic Microstructures for Zero-Shot Detection of AI-Generated Videos](../../conferences/neurips-2026/cards-0012.md#paper-149484)
+- [VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Tokens](../../conferences/neurips-2026/cards-0012.md#paper-148674)
+- [Video Stitching from Multiple Moving Cameras](../../conferences/neurips-2026/cards-0012.md#paper-154835)
+- [ViewRec3D: Learning to Recommend 3D Viewpoints for AI Photography](../../conferences/neurips-2026/cards-0012.md#paper-149984)
+- [ViewSAM: Learning View-aware Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking](../../conferences/neurips-2026/cards-0012.md#paper-154079)
+- [Virtual Task Prompting for Multi-Task Scene Understanding](../../conferences/neurips-2026/cards-0012.md#paper-154323)
+- [Vision Correlators: Correlation-Driven Visual Understanding with Hypergraphs](../../conferences/neurips-2026/cards-0012.md#paper-152069)
 
 <!-- conference-classification:end -->

@@ -423,5 +423,8 @@ Data selection, annotation, augmentation, and sampling.
 - [UniDG: Universal Defect Generation via Defect-Context Editing](../../conferences/neurips-2026/cards-0012.md#paper-154905)
 - [Unifying Partner and Environment Diversity to Improve Human-AI Coordination](../../conferences/neurips-2026/cards-0012.md#paper-151901)
 - [Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution](../../conferences/neurips-2026/cards-0012.md#paper-154062)
+- [VidHalluDoctor: Learning Video Differences to Mitigate Hallucinations in Vision-Language Models](../../conferences/neurips-2026/cards-0012.md#paper-153093)
+- [VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks](../../conferences/neurips-2026/cards-0012.md#paper-149056)
+- [VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval](../../conferences/neurips-2026/cards-0012.md#paper-153091)
 
 <!-- conference-classification:end -->

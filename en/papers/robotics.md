@@ -908,5 +908,7 @@ Robot perception, policy learning, planning, and control.
 - [Unlearning Diffusion Policies via Relative Fisher Forgetting](../../conferences/neurips-2026/cards-0012.md#paper-153227)
 - [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](../../conferences/neurips-2026/cards-0012.md#paper-149965)
 - [URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets](../../conferences/neurips-2026/cards-0012.md#paper-150077)
+- [VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation](../../conferences/neurips-2026/cards-0012.md#paper-153885)
+- [VISTA: Support-Anchored Value Targeting for Fast Flow-Based Vision-Language-Action Policies](../../conferences/neurips-2026/cards-0012.md#paper-148918)
 
 <!-- conference-classification:end -->

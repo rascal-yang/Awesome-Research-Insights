@@ -742,5 +742,8 @@ Learning from interaction, feedback, and offline experience.
 - [Value-Priced Uncertainty: A Family of PPO-Compatible Exploration Bonuses](../../conferences/neurips-2026/cards-0012.md#paper-149802)
 - [Variance-Averse n-Step Offline Reinforcement Learning for Sparse Long-Horizon Environments](../../conferences/neurips-2026/cards-0012.md#paper-154788)
 - [Variance-Optimal State Resampling for Reinforcement Learning with Verifiable Rewards](../../conferences/neurips-2026/cards-0012.md#paper-151544)
+- [Variational Consequence-Driven Offline Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-149599)
+- [VIGOR: Zero-Shot Visual Generalization via Latent-Space Consistency in Model-Based Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-153294)
+- [Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along](../../conferences/neurips-2026/cards-0012.md#paper-152359)
 
 <!-- conference-classification:end -->
