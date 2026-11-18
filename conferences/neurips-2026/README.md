@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1769** 篇，暂收录 **1631** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1829** 篇，暂收录 **1689** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1639,3 +1639,61 @@
 | 大语言模型 | 偏好优化 | [Correct, Route, Calibrate: Efficient Preference Optimization from Noisy, Heterogeneous Human Feedback](cards-0003.md#paper-152258) | 把标注噪声、任务分配和标注员评分联合考虑。 |
 | 机器学习基础与统计 | 隐私训练 | [Correlating Cross-Iteration Noise for DP-SGD using Model Curvature](cards-0003.md#paper-151628) | 按损失曲率设计跨迭代隐私噪声相关性。 |
 | 强化学习 | 模型路由 | [Correlation-Aware Contextual Bandits with Surrogate Rewards for LLM Routing](cards-0003.md#paper-149327) | 代理反馈可能偏差时分开训练真实奖励与代理估计器。 |
+| 计算机视觉 | 注意力监督 | [Correpondence Alignment For Improved Virtual Try-On](cards-0003.md#paper-151032) | 在虚拟试衣中直接监督衣物与人体的 QK 对应。 |
+| 计算机视觉 | 匹配过滤 | [Correspondence Pruning by Iterative Structural Rectification](cards-0003.md#paper-155477) | 逐层重估匹配结构，并以冻结结构作为消融。 |
+| 强化学习 | 多智能体协调 | [CorridorLight: Cooperation as Task Negotiation with Causal Gating for Traffic Signal Control](cards-0003.md#paper-155914) | 用少量走廊级子任务协调快速本地控制。 |
+| Agent / 安全 | 防御评测 | [Corrupted Plans, Clean Traces: What Planning-Execution Decoupling Reveals About CoT Monitoring](cards-0003.md#paper-152688) | 独立评估过程监察的漏报与推理预算。 |
+| 学习理论 | 鲁棒学习 | [Corruptions of Supervised Learning Problems: Typology and Mitigations](cards-0003.md#paper-156659) | 先区分标签扰动与属性扰动，再决定是否只修正损失。 |
+| 科学机器学习 | 跨模态迁移 | [CORTEG: Foundation Models Enable Cross-Modality Representation Transfer from Scalp to Intracranial Brain Recordings](cards-0003.md#paper-154557) | 以空间适配和双频词元接入已预训练的另一种传感器模型。 |
+| 科学机器学习 | 时序表征 | [Cortically-Resolved Recurrent Architecture for fMRI](cards-0003.md#paper-152414) | 为每个空间区域学习独立时间整合窗口。 |
+| Agent | 上下文管理 | [CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents](cards-0003.md#paper-149092) | 将文件读取动作和可更新文件内容分离。 |
+| 强化学习 | 信用分配 | [COSAC: Counterfactual Credit Assignment in Sequential Cooperative Teams](cards-0003.md#paper-150611) | 用共享奖励回归与假想后续替代逐智能体环境重放。 |
+| 计算机视觉 | 序列化 | [CoScan: Multi-Scale Content-Adaptive Space-Filling Scans for Causal State-Space Image Restoration](cards-0003.md#paper-151869) | 对视觉状态空间模型按图像内容生成扫描路径。 |
+| 计算机视觉 | 评测诊断 | [Cosine is Human: The Reproducibility Ceiling of Perceptual Similarity](cards-0003.md#paper-139285) | 按人类投票一致性分层并估计重测上限。 |
+| 科学机器学习 | 缺失模态 | [COSMIO: A Benchmark for Cross-Survey Modality Imputation](cards-0003.md#paper-139351) | 同时验证罕见事件补全和下游检出。 |
+| 统计学习 | 成本敏感评估 | [Cost-Aware Best-LLM Identification using Dueling Feedback](cards-0003.md#paper-151916) | 按成对判断的证据价值和费用选下一组待比较模型。 |
+| 优化 | 采样策略 | [Cost-Aware Learning](cards-0003.md#paper-151093) | 按梯度贡献及样本代价选择有限和优化的采样分布。 |
+| 统计学习 | 公平审计 | [Cost Efficient Fairness Audit Under Partial Feedback](cards-0003.md#paper-153329) | 在仅观察正向分配结果时按标注成本选择补采。 |
+| Agent / 安全 | 防御监察 | [CoT-Guard: Small Models for Strong Monitoring](cards-0003.md#paper-149885) | 蒸馏小型监察模型，并对分布外异常单独评估。 |
+| 大语言模型 | 蒸馏 | [CoTrek: Toward Scalable On-Policy Distillation for Long Chain-of-Thought Reasoning](cards-0003.md#paper-154397) | 在推理偏离后蒸馏短修复段，并随恢复能力增加深度。 |
+| 大语言模型 | 推理分析 | [CoTs as Probabilistic Programs: A Programmatic View of Thinking Step-by-Step in Language Models](cards-0003.md#paper-151761) | 用可执行概率程序区分轨迹似然和答案证据。 |
+| 具身智能 / 世界模型 | 失效归因 | [Counterfactual Debugging the World Model Transfer Gap](cards-0003.md#paper-155458) | 优先修正对策略得分有反事实影响的状态或奖励偏差。 |
+| Agent | 经验蒸馏 | [Counterfactual Distillation: Internalizing Reflective Experience into LLM Agent](cards-0003.md#paper-154297) | 将反馈驱动的修正动作蒸馏回原始决策状态。 |
+| 因果学习 | 分布校正 | [Counterfactual Estimation under Composite Treatments via Progressive Distribution Alignment](cards-0003.md#paper-151311) | 按已知因果图逐分量对齐干预分布。 |
+| 时间序列 | 反事实生成 | [Counterfactual Explanations for Time-Series Classification via Constrained Flow Matching](cards-0003.md#paper-155627) | 用硬标签约束通用生成器。 |
+| 具身智能 | 对比监督 | [Counterfactual Instruction Grounding for Vision-Language-Action Models](cards-0003.md#paper-152584) | 让动作轨迹能辨认原指令。 |
+| 可解释性 | 近邻查询 | [Counterfactual Maps: What They Are and How to Find Them](cards-0003.md#paper-153015) | 将树集成反事实转成最近区域搜索。 |
+| 统计学习 | 在线校准 | [Counterfactual Online Conformal Prediction Under Adaptive Logging](cards-0003.md#paper-150109) | 对行动选择造成的记录偏差做倾向加权。 |
+| 学习理论 | 状态压缩 | [Counterfactual Predictive State Representations: The Intrinsic Dimension of Partial-Information Games](cards-0003.md#paper-148259) | 用反事实预测查询的秩选择状态维数。 |
+| Agent | 信用分配 | [Counterfactual Rollout Replay: Forkable Environments as Free Process Rewards for Software Engineering Agents](cards-0003.md#paper-151386) | 在可复原的软件任务状态比较备选操作的回报。 |
+| 可解释性 | 约束生成 | [CounterFlowNet: From Minimal Changes to Meaningful Counterfactual Explanations](cards-0003.md#paper-148627) | 在反事实解码时屏蔽不可行动作。 |
+| 世界模型 | 多视角评测 | [CounterStrike-1K: A Multi-Perspective Dataset of Professional Gameplay for World Modeling](cards-0003.md#paper-139606) | 用同步参与者视图验证共享状态一致性。 |
+| 计算机视觉 | 抗噪监督 | [Counting without Scale: Scale-Consistent Error Correction for Crowd Counting](cards-0003.md#paper-150435) | 并用尺度一致和标注误差校正损失。 |
+| 科学机器学习 | 耦合算子 | [CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs](cards-0003.md#paper-155294) | 用全系统状态条件化各物理过程的传输速度。 |
+| 生成模型 | 推理引导 | [Coupled Guidance for Flow Matching](cards-0003.md#paper-153836) | 对流匹配按训练耦合推导引导。 |
+| 科学机器学习 | 积分约束 | [Coupled Integral PINN for Discontinuity](cards-0003.md#paper-153205) | 激波附近用积分守恒监督。 |
+| 强化学习 | 图协同 | [Coupling-Aware Reinforcement Learning for Co-Evolving Graph Games](cards-0003.md#paper-154400) | 只读取结构耦合节点并限制策略漂移。 |
+| 生成模型 | 一步解码 | [Coupling Models for One-Step Discrete Generation](cards-0003.md#paper-154013) | 学习数据与噪声的耦合再一次解码。 |
+| 因果学习 | 面板反事实 | [Covariate-Adjusted Deep Causal Learning for Heterogeneous Panel Data Models](cards-0003.md#paper-153186) | 分离非线性协变量和时序潜因子。 |
+| 计算机视觉 | 持续适配 | [COVD: Continual Open-Vocabulary Object Detection with Novel Concept Injection](cards-0003.md#paper-155540) | 冻结视觉编码，仅调整少量文本参数引入概念。 |
+| 大语言模型 | 量化校准 | [Coverage-Based Calibration for Post-Training Quantization via Weighted Maximum Coverage over Outlier Channels](cards-0003.md#paper-154675) | 用带权覆盖挑选校准文本。 |
+| 大语言模型 | 稀疏解码 | [Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding](cards-0003.md#paper-155083) | 只恢复覆盖不足的注意力头。 |
+| 多模态学习 | 图像融合 | [CoVisIT: Cross-modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation](cards-0003.md#paper-152458) | 将结构与热测量分别交给各自可靠的输入。 |
+| 具身智能 | 世界模型 | [CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving](cards-0003.md#paper-156015) | 以分工世界表征直接条件化轨迹生成 |
+| 大语言模型 | 低精度训练 | [CPA: Efficient and Stable FP4 RL Training via Cross-Precision Alignment](cards-0003.md#paper-150296) | 对齐真实低精度采样和高精度训练的概率 |
+| 学习理论 | 模型架构 | [CP-MLPs: A Tensor-Rank Theory of Tied and Untied MLP Blocks](cards-0003.md#paper-151658) | 按目标交互对称性选择门控共享 |
+| 计算机视觉 | 失效诊断 | [Cracks in the Foundation: A Civil Infrastructure Dataset to Challenge Vision Foundation Models](cards-0003.md#paper-139052) | 在低纹理结构表面独立验证缺陷分割 |
+| 多模态学习 | 因果诊断 | [CRAFT: Causal Responsibility and Failure Tracing in Medical Vision Language Models](cards-0003.md#paper-149960) | 分别验证冲突证据裁决和证据不足时的拒答 |
+| 联邦学习 | 优化 | [CRAFT: Conflict-Resolved Aggregation for Federated Training](cards-0003.md#paper-152651) | 约束全局更新不反向冲突参与客户端 |
+| 强化学习 | 策略优化 | [CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies](cards-0003.md#paper-150208) | 用稠密代理配合真实闭环残差做后训练 |
+| 具身智能 | 技能组合 | [CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter](cards-0003.md#paper-139437) | 在轻量沙箱验证层级技能是否改善长程任务 |
+| Agent | 研究复现 | [Crafter: Towards Automated Reproducible Machine Learning via Agentic Code Generation](cards-0003.md#paper-151168) | 先核对证据规格再生成、执行和修复实现 |
+| Agent | 权重合并 | [CRANE: Constrained Reasoning Injection for Code Agents via Nullspace Editing](cards-0003.md#paper-155462) | 在授权代码维护中分别验证推理增量与工具协议 |
+| 强化学习 | 信用分配 | [Credit Assignment with Resets in Language Model Reasoning](cards-0003.md#paper-151001) | 从中间状态重采样后缀定位推理错误 |
+| 时间序列 | 评测诊断 | [CREF: Forecasting Benchmarks for the Age of Agents](cards-0003.md#paper-139433) | 冻结预测后等未来数据发布再评分 |
+| 计算机视觉 | 位置编码 | [CRePE: Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation](cards-0003.md#paper-149844) | 在广角视频中将深度分布写入射线编码 |
+| 自然语言处理 | 流式推理 | [CRESiST: Self-Enhancing Exploritive Policy Learning for Simultaneous Speech Translation](cards-0003.md#paper-149613) | 交织输入和输出以保留缓存并学习何时读写 |
+| 多模态学习 | 诊断评测 | [CRISP: Compositional Reasoning over Images via Stackable Programs for VLMs](cards-0003.md#paper-139787) | 同时评分视觉推理步骤和最终答案 |
+| 计算机视觉 | 解码器 | [CRISP: Fixing Flying Pixels in Latent LiDAR Generation via Diffusion Decoding](cards-0003.md#paper-153441) | 冻结潜变量模型，只更换解码器验证深度边缘错误 |
+| 数据策略 | 元数据验证 | [Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets](cards-0003.md#paper-139027) | 通过本地格式处理器产生可验证元数据 |
+| Agent | 结构化评测 | [CroissantMiner: Automated Extraction and Validation of Croissant Metadata for ML Datasets](cards-0003.md#paper-139073) | 对跨章节字段比较单次全局抽取与多 Agent 分解 |

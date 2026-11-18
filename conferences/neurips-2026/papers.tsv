@@ -1724,66 +1724,66 @@ poster_id	title	paper_url	status	reason
 152258	Correct, Route, Calibrate: Efficient Preference Optimization from Noisy, Heterogeneous Human Feedback	https://neurips.cc/virtual/2026/poster/152258	included	把标注噪声、任务分配和标注员评分联合考虑。
 151628	Correlating Cross-Iteration Noise for DP-SGD using Model Curvature	https://neurips.cc/virtual/2026/poster/151628	included	按损失曲率设计跨迭代隐私噪声相关性。
 149327	Correlation-Aware Contextual Bandits with Surrogate Rewards for LLM Routing	https://neurips.cc/virtual/2026/poster/149327	included	代理反馈可能偏差时分开训练真实奖励与代理估计器。
-151032	Correpondence Alignment For Improved Virtual Try-On	https://neurips.cc/virtual/2026/poster/151032	pending	-
-155477	Correspondence Pruning by Iterative Structural Rectification	https://neurips.cc/virtual/2026/poster/155477	pending	-
-155914	CorridorLight: Cooperation as Task Negotiation with Causal Gating for Traffic Signal Control	https://neurips.cc/virtual/2026/poster/155914	pending	-
-152688	Corrupted Plans, Clean Traces: What Planning-Execution Decoupling Reveals About CoT Monitoring	https://neurips.cc/virtual/2026/poster/152688	pending	-
-156659	Corruptions of Supervised Learning Problems: Typology and Mitigations	https://neurips.cc/virtual/2026/poster/156659	pending	-
-154557	CORTEG: Foundation Models Enable Cross-Modality Representation Transfer from Scalp to Intracranial Brain Recordings	https://neurips.cc/virtual/2026/poster/154557	pending	-
-152414	Cortically-Resolved Recurrent Architecture for fMRI	https://neurips.cc/virtual/2026/poster/152414	pending	-
-149092	CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents	https://neurips.cc/virtual/2026/poster/149092	pending	-
-150611	COSAC: Counterfactual Credit Assignment in Sequential Cooperative Teams	https://neurips.cc/virtual/2026/poster/150611	pending	-
-151869	CoScan: Multi-Scale Content-Adaptive Space-Filling Scans for Causal State-Space Image Restoration	https://neurips.cc/virtual/2026/poster/151869	pending	-
-139285	Cosine is Human: The Reproducibility Ceiling of Perceptual Similarity	https://neurips.cc/virtual/2026/poster/139285	pending	-
-139351	COSMIO: A Benchmark for Cross-Survey Modality Imputation	https://neurips.cc/virtual/2026/poster/139351	pending	-
-151916	Cost-Aware Best-LLM Identification using Dueling Feedback	https://neurips.cc/virtual/2026/poster/151916	pending	-
-151093	Cost-Aware Learning	https://neurips.cc/virtual/2026/poster/151093	pending	-
-153329	Cost Efficient Fairness Audit Under Partial Feedback	https://neurips.cc/virtual/2026/poster/153329	pending	-
-149885	CoT-Guard: Small Models for Strong Monitoring	https://neurips.cc/virtual/2026/poster/149885	pending	-
-154397	CoTrek: Toward Scalable On-Policy Distillation for Long Chain-of-Thought Reasoning	https://neurips.cc/virtual/2026/poster/154397	pending	-
-151761	CoTs as Probabilistic Programs: A Programmatic View of Thinking Step-by-Step in Language Models	https://neurips.cc/virtual/2026/poster/151761	pending	-
-155458	Counterfactual Debugging the World Model Transfer Gap	https://neurips.cc/virtual/2026/poster/155458	pending	-
-154297	Counterfactual Distillation: Internalizing Reflective Experience into LLM Agent	https://neurips.cc/virtual/2026/poster/154297	pending	-
-151311	Counterfactual Estimation under Composite Treatments via Progressive Distribution Alignment	https://neurips.cc/virtual/2026/poster/151311	pending	-
-155627	Counterfactual Explanations for Time-Series Classification via Constrained Flow Matching	https://neurips.cc/virtual/2026/poster/155627	pending	-
-152584	Counterfactual Instruction Grounding for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/152584	pending	-
-153015	Counterfactual Maps: What They Are and How to Find Them	https://neurips.cc/virtual/2026/poster/153015	pending	-
-150109	Counterfactual Online Conformal Prediction Under Adaptive Logging	https://neurips.cc/virtual/2026/poster/150109	pending	-
-148259	Counterfactual Predictive State Representations: The Intrinsic Dimension of Partial-Information Games	https://neurips.cc/virtual/2026/poster/148259	pending	-
-151386	Counterfactual Rollout Replay: Forkable Environments as Free Process Rewards for Software Engineering Agents	https://neurips.cc/virtual/2026/poster/151386	pending	-
-148627	CounterFlowNet: From Minimal Changes to Meaningful Counterfactual Explanations	https://neurips.cc/virtual/2026/poster/148627	pending	-
-139606	CounterStrike-1K: A Multi-Perspective Dataset of Professional Gameplay for World Modeling	https://neurips.cc/virtual/2026/poster/139606	pending	-
-150435	Counting without Scale: Scale-Consistent Error Correction for Crowd Counting	https://neurips.cc/virtual/2026/poster/150435	pending	-
-155294	CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs	https://neurips.cc/virtual/2026/poster/155294	pending	-
-153836	Coupled Guidance for Flow Matching	https://neurips.cc/virtual/2026/poster/153836	pending	-
-153205	Coupled Integral PINN for Discontinuity	https://neurips.cc/virtual/2026/poster/153205	pending	-
-154400	Coupling-Aware Reinforcement Learning for Co-Evolving Graph Games	https://neurips.cc/virtual/2026/poster/154400	pending	-
-154013	Coupling Models for One-Step Discrete Generation	https://neurips.cc/virtual/2026/poster/154013	pending	-
-153186	Covariate-Adjusted Deep Causal Learning for Heterogeneous Panel Data Models	https://neurips.cc/virtual/2026/poster/153186	pending	-
-155540	COVD: Continual Open-Vocabulary Object Detection with Novel Concept Injection	https://neurips.cc/virtual/2026/poster/155540	pending	-
-154675	Coverage-Based Calibration for Post-Training Quantization via Weighted Maximum Coverage over Outlier Channels	https://neurips.cc/virtual/2026/poster/154675	pending	-
-155083	Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding	https://neurips.cc/virtual/2026/poster/155083	pending	-
-152458	CoVisIT: Cross-modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation	https://neurips.cc/virtual/2026/poster/152458	pending	-
-156015	CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving	https://neurips.cc/virtual/2026/poster/156015	pending	-
-150296	CPA: Efficient and Stable FP4 RL Training via Cross-Precision Alignment	https://neurips.cc/virtual/2026/poster/150296	pending	-
-151658	CP-MLPs: A Tensor-Rank Theory of Tied and Untied MLP Blocks	https://neurips.cc/virtual/2026/poster/151658	pending	-
-139000	CPSea2: Composing Terminal Geometries for Structurally Diverse Cyclic Peptide Binder Design	https://neurips.cc/virtual/2026/poster/139000	pending	-
-139052	Cracks in the Foundation: A Civil Infrastructure Dataset to Challenge Vision Foundation Models	https://neurips.cc/virtual/2026/poster/139052	pending	-
-149960	CRAFT: Causal Responsibility and Failure Tracing in Medical Vision Language Models	https://neurips.cc/virtual/2026/poster/149960	pending	-
-152651	CRAFT: Conflict-Resolved Aggregation for Federated Training	https://neurips.cc/virtual/2026/poster/152651	pending	-
-150208	CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies	https://neurips.cc/virtual/2026/poster/150208	pending	-
-139437	CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter	https://neurips.cc/virtual/2026/poster/139437	pending	-
-151168	Crafter: Towards Automated Reproducible Machine Learning via Agentic Code Generation	https://neurips.cc/virtual/2026/poster/151168	pending	-
-155280	Crafting Reversible SFT Behaviors in Large Language Models	https://neurips.cc/virtual/2026/poster/155280	pending	-
-155462	CRANE: Constrained Reasoning Injection for Code Agents via Nullspace Editing	https://neurips.cc/virtual/2026/poster/155462	pending	-
-151001	Credit Assignment with Resets in Language Model Reasoning	https://neurips.cc/virtual/2026/poster/151001	pending	-
-139433	CREF: Forecasting Benchmarks for the Age of Agents	https://neurips.cc/virtual/2026/poster/139433	pending	-
-149844	CRePE: Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation	https://neurips.cc/virtual/2026/poster/149844	pending	-
-149613	CRESiST: Self-Enhancing Exploritive Policy Learning for Simultaneous Speech Translation	https://neurips.cc/virtual/2026/poster/149613	pending	-
-139787	CRISP: Compositional Reasoning over Images via Stackable Programs for VLMs	https://neurips.cc/virtual/2026/poster/139787	pending	-
-153441	CRISP: Fixing Flying Pixels in Latent LiDAR Generation via Diffusion Decoding	https://neurips.cc/virtual/2026/poster/153441	pending	-
-139027	Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets	https://neurips.cc/virtual/2026/poster/139027	pending	-
-139073	CroissantMiner: Automated Extraction and Validation of Croissant Metadata for ML Datasets	https://neurips.cc/virtual/2026/poster/139073	pending	-
+151032	Correpondence Alignment For Improved Virtual Try-On	https://neurips.cc/virtual/2026/poster/151032	included	在虚拟试衣中直接监督衣物与人体的 QK 对应。
+155477	Correspondence Pruning by Iterative Structural Rectification	https://neurips.cc/virtual/2026/poster/155477	included	逐层重估匹配结构，并以冻结结构作为消融。
+155914	CorridorLight: Cooperation as Task Negotiation with Causal Gating for Traffic Signal Control	https://neurips.cc/virtual/2026/poster/155914	included	用少量走廊级子任务协调快速本地控制。
+152688	Corrupted Plans, Clean Traces: What Planning-Execution Decoupling Reveals About CoT Monitoring	https://neurips.cc/virtual/2026/poster/152688	included	独立评估过程监察的漏报与推理预算。
+156659	Corruptions of Supervised Learning Problems: Typology and Mitigations	https://neurips.cc/virtual/2026/poster/156659	included	先区分标签扰动与属性扰动，再决定是否只修正损失。
+154557	CORTEG: Foundation Models Enable Cross-Modality Representation Transfer from Scalp to Intracranial Brain Recordings	https://neurips.cc/virtual/2026/poster/154557	included	以空间适配和双频词元接入已预训练的另一种传感器模型。
+152414	Cortically-Resolved Recurrent Architecture for fMRI	https://neurips.cc/virtual/2026/poster/152414	included	为每个空间区域学习独立时间整合窗口。
+149092	CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents	https://neurips.cc/virtual/2026/poster/149092	included	将文件读取动作和可更新文件内容分离。
+150611	COSAC: Counterfactual Credit Assignment in Sequential Cooperative Teams	https://neurips.cc/virtual/2026/poster/150611	included	用共享奖励回归与假想后续替代逐智能体环境重放。
+151869	CoScan: Multi-Scale Content-Adaptive Space-Filling Scans for Causal State-Space Image Restoration	https://neurips.cc/virtual/2026/poster/151869	included	对视觉状态空间模型按图像内容生成扫描路径。
+139285	Cosine is Human: The Reproducibility Ceiling of Perceptual Similarity	https://neurips.cc/virtual/2026/poster/139285	included	按人类投票一致性分层并估计重测上限。
+139351	COSMIO: A Benchmark for Cross-Survey Modality Imputation	https://neurips.cc/virtual/2026/poster/139351	included	同时验证罕见事件补全和下游检出。
+151916	Cost-Aware Best-LLM Identification using Dueling Feedback	https://neurips.cc/virtual/2026/poster/151916	included	按成对判断的证据价值和费用选下一组待比较模型。
+151093	Cost-Aware Learning	https://neurips.cc/virtual/2026/poster/151093	included	按梯度贡献及样本代价选择有限和优化的采样分布。
+153329	Cost Efficient Fairness Audit Under Partial Feedback	https://neurips.cc/virtual/2026/poster/153329	included	在仅观察正向分配结果时按标注成本选择补采。
+149885	CoT-Guard: Small Models for Strong Monitoring	https://neurips.cc/virtual/2026/poster/149885	included	蒸馏小型监察模型，并对分布外异常单独评估。
+154397	CoTrek: Toward Scalable On-Policy Distillation for Long Chain-of-Thought Reasoning	https://neurips.cc/virtual/2026/poster/154397	included	在推理偏离后蒸馏短修复段，并随恢复能力增加深度。
+151761	CoTs as Probabilistic Programs: A Programmatic View of Thinking Step-by-Step in Language Models	https://neurips.cc/virtual/2026/poster/151761	included	用可执行概率程序区分轨迹似然和答案证据。
+155458	Counterfactual Debugging the World Model Transfer Gap	https://neurips.cc/virtual/2026/poster/155458	included	优先修正对策略得分有反事实影响的状态或奖励偏差。
+154297	Counterfactual Distillation: Internalizing Reflective Experience into LLM Agent	https://neurips.cc/virtual/2026/poster/154297	included	将反馈驱动的修正动作蒸馏回原始决策状态。
+151311	Counterfactual Estimation under Composite Treatments via Progressive Distribution Alignment	https://neurips.cc/virtual/2026/poster/151311	included	按已知因果图逐分量对齐干预分布。
+155627	Counterfactual Explanations for Time-Series Classification via Constrained Flow Matching	https://neurips.cc/virtual/2026/poster/155627	included	用硬标签约束通用生成器。
+152584	Counterfactual Instruction Grounding for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/152584	included	让动作轨迹能辨认原指令。
+153015	Counterfactual Maps: What They Are and How to Find Them	https://neurips.cc/virtual/2026/poster/153015	included	将树集成反事实转成最近区域搜索。
+150109	Counterfactual Online Conformal Prediction Under Adaptive Logging	https://neurips.cc/virtual/2026/poster/150109	included	对行动选择造成的记录偏差做倾向加权。
+148259	Counterfactual Predictive State Representations: The Intrinsic Dimension of Partial-Information Games	https://neurips.cc/virtual/2026/poster/148259	included	用反事实预测查询的秩选择状态维数。
+151386	Counterfactual Rollout Replay: Forkable Environments as Free Process Rewards for Software Engineering Agents	https://neurips.cc/virtual/2026/poster/151386	included	在可复原的软件任务状态比较备选操作的回报。
+148627	CounterFlowNet: From Minimal Changes to Meaningful Counterfactual Explanations	https://neurips.cc/virtual/2026/poster/148627	included	在反事实解码时屏蔽不可行动作。
+139606	CounterStrike-1K: A Multi-Perspective Dataset of Professional Gameplay for World Modeling	https://neurips.cc/virtual/2026/poster/139606	included	用同步参与者视图验证共享状态一致性。
+150435	Counting without Scale: Scale-Consistent Error Correction for Crowd Counting	https://neurips.cc/virtual/2026/poster/150435	included	并用尺度一致和标注误差校正损失。
+155294	CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs	https://neurips.cc/virtual/2026/poster/155294	included	用全系统状态条件化各物理过程的传输速度。
+153836	Coupled Guidance for Flow Matching	https://neurips.cc/virtual/2026/poster/153836	included	对流匹配按训练耦合推导引导。
+153205	Coupled Integral PINN for Discontinuity	https://neurips.cc/virtual/2026/poster/153205	included	激波附近用积分守恒监督。
+154400	Coupling-Aware Reinforcement Learning for Co-Evolving Graph Games	https://neurips.cc/virtual/2026/poster/154400	included	只读取结构耦合节点并限制策略漂移。
+154013	Coupling Models for One-Step Discrete Generation	https://neurips.cc/virtual/2026/poster/154013	included	学习数据与噪声的耦合再一次解码。
+153186	Covariate-Adjusted Deep Causal Learning for Heterogeneous Panel Data Models	https://neurips.cc/virtual/2026/poster/153186	included	分离非线性协变量和时序潜因子。
+155540	COVD: Continual Open-Vocabulary Object Detection with Novel Concept Injection	https://neurips.cc/virtual/2026/poster/155540	included	冻结视觉编码，仅调整少量文本参数引入概念。
+154675	Coverage-Based Calibration for Post-Training Quantization via Weighted Maximum Coverage over Outlier Channels	https://neurips.cc/virtual/2026/poster/154675	included	用带权覆盖挑选校准文本。
+155083	Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding	https://neurips.cc/virtual/2026/poster/155083	included	只恢复覆盖不足的注意力头。
+152458	CoVisIT: Cross-modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation	https://neurips.cc/virtual/2026/poster/152458	included	将结构与热测量分别交给各自可靠的输入。
+156015	CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving	https://neurips.cc/virtual/2026/poster/156015	included	以分工世界表征直接条件化轨迹生成
+150296	CPA: Efficient and Stable FP4 RL Training via Cross-Precision Alignment	https://neurips.cc/virtual/2026/poster/150296	included	对齐真实低精度采样和高精度训练的概率
+151658	CP-MLPs: A Tensor-Rank Theory of Tied and Untied MLP Blocks	https://neurips.cc/virtual/2026/poster/151658	included	按目标交互对称性选择门控共享
+139000	CPSea2: Composing Terminal Geometries for Structurally Diverse Cyclic Peptide Binder Design	https://neurips.cc/virtual/2026/poster/139000	excluded	主要贡献涉及生物分子工程，未提取可单独入库的通用结论。
+139052	Cracks in the Foundation: A Civil Infrastructure Dataset to Challenge Vision Foundation Models	https://neurips.cc/virtual/2026/poster/139052	included	在低纹理结构表面独立验证缺陷分割
+149960	CRAFT: Causal Responsibility and Failure Tracing in Medical Vision Language Models	https://neurips.cc/virtual/2026/poster/149960	included	分别验证冲突证据裁决和证据不足时的拒答
+152651	CRAFT: Conflict-Resolved Aggregation for Federated Training	https://neurips.cc/virtual/2026/poster/152651	included	约束全局更新不反向冲突参与客户端
+150208	CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies	https://neurips.cc/virtual/2026/poster/150208	included	用稠密代理配合真实闭环残差做后训练
+139437	CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter	https://neurips.cc/virtual/2026/poster/139437	included	在轻量沙箱验证层级技能是否改善长程任务
+151168	Crafter: Towards Automated Reproducible Machine Learning via Agentic Code Generation	https://neurips.cc/virtual/2026/poster/151168	included	先核对证据规格再生成、执行和修复实现
+155280	Crafting Reversible SFT Behaviors in Large Language Models	https://neurips.cc/virtual/2026/poster/155280	excluded	主要结果涉及逆转模型既有行为约束，未提取独立且经过验证的防御机制。
+155462	CRANE: Constrained Reasoning Injection for Code Agents via Nullspace Editing	https://neurips.cc/virtual/2026/poster/155462	included	在授权代码维护中分别验证推理增量与工具协议
+151001	Credit Assignment with Resets in Language Model Reasoning	https://neurips.cc/virtual/2026/poster/151001	included	从中间状态重采样后缀定位推理错误
+139433	CREF: Forecasting Benchmarks for the Age of Agents	https://neurips.cc/virtual/2026/poster/139433	included	冻结预测后等未来数据发布再评分
+149844	CRePE: Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation	https://neurips.cc/virtual/2026/poster/149844	included	在广角视频中将深度分布写入射线编码
+149613	CRESiST: Self-Enhancing Exploritive Policy Learning for Simultaneous Speech Translation	https://neurips.cc/virtual/2026/poster/149613	included	交织输入和输出以保留缓存并学习何时读写
+139787	CRISP: Compositional Reasoning over Images via Stackable Programs for VLMs	https://neurips.cc/virtual/2026/poster/139787	included	同时评分视觉推理步骤和最终答案
+153441	CRISP: Fixing Flying Pixels in Latent LiDAR Generation via Diffusion Decoding	https://neurips.cc/virtual/2026/poster/153441	included	冻结潜变量模型，只更换解码器验证深度边缘错误
+139027	Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets	https://neurips.cc/virtual/2026/poster/139027	included	通过本地格式处理器产生可验证元数据
+139073	CroissantMiner: Automated Extraction and Validation of Croissant Metadata for ML Datasets	https://neurips.cc/virtual/2026/poster/139073	included	对跨章节字段比较单次全局抽取与多 Agent 分解
 151354	Cross-Architecture Transferability is Width-Confounded:Diagnosis and Subspace Correction	https://neurips.cc/virtual/2026/poster/151354	pending	-
 149084	Cross-Attentive Bayesian Low-Rank Adaptation for Multimodal Uncertainty Estimation	https://neurips.cc/virtual/2026/poster/149084	pending	-
 139089	Cross-Cell-Line Perturbation Prediction Needs Controls	https://neurips.cc/virtual/2026/poster/139089	pending	-
