@@ -642,5 +642,8 @@
 - [Optimistic Q-value Adaptation for Offline-to-Online Reinforcement Learning](../conferences/neurips-2026/cards-0009.md#paper-155898)
 - [Ordinal Geometry Complements Reconstruction: Diagnosing Planning with Compressed Value Functions](../conferences/neurips-2026/cards-0009.md#paper-152754)
 - [Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data](../conferences/neurips-2026/cards-0009.md#paper-151111)
+- [Parameter Exploration for RLVR via Variational Learning](../conferences/neurips-2026/cards-0009.md#paper-149580)
+- [Persistent-Transient Policy Evaluation for Markov Chains via Minimal Peripheral Quotients](../conferences/neurips-2026/cards-0009.md#paper-148512)
+- [Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning](../conferences/neurips-2026/cards-0009.md#paper-151379)
 
 <!-- conference-classification:end -->

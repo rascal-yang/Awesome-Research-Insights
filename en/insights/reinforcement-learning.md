@@ -613,5 +613,11 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Oracle-Robust Online Alignment for Large Language Models](../../conferences/neurips-2026/cards-0009.md#paper-150636)
 - [Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning](../../conferences/neurips-2026/cards-0009.md#paper-151854)
 - [PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models](../../conferences/neurips-2026/cards-0009.md#paper-149215)
+- [Parameter Exploration for RLVR via Variational Learning](../../conferences/neurips-2026/cards-0009.md#paper-149580)
+- [ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-151385)
+- [ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control](../../conferences/neurips-2026/cards-0009.md#paper-154172)
+- [Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Spatial Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-154683)
+- [Perception Without Engagement: Dissecting the Causal Discovery Deficit in LMMs](../../conferences/neurips-2026/cards-0009.md#paper-154291)
+- [Performance-Driven Policy Optimization for Speculative Decoding with Adaptive Windowing](../../conferences/neurips-2026/cards-0009.md#paper-150209)
 
 <!-- conference-classification:end -->

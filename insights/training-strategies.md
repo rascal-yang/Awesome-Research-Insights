@@ -802,5 +802,11 @@
 - [Overcoming Rank Collapse in Feedback Alignment](../conferences/neurips-2026/cards-0009.md#paper-152172)
 - [PaLoRA: Paced Low-Rank Adaptation for Continual Learning](../conferences/neurips-2026/cards-0009.md#paper-150774)
 - [Pan-FM: A Pan-Organ Foundation Model with Saliency-Guided Masking for Missing Robustness](../conferences/neurips-2026/cards-0009.md#paper-154817)
+- [Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-148849)
+- [Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation](../conferences/neurips-2026/cards-0009.md#paper-154505)
+- [PARI: Policy-Driven Active Residual Intervention for Weakly Supervised Point Cloud Segmentation](../conferences/neurips-2026/cards-0009.md#paper-155621)
+- [PercepCap: Video Captioner with Structured Spatio-Temporal Perception](../conferences/neurips-2026/cards-0009.md#paper-150126)
+- [Perturb, Repair, Verify: Self-Play Vision-Language Verifiers for Compositional Understanding](../conferences/neurips-2026/cards-0009.md#paper-150547)
+- [Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning](../conferences/neurips-2026/cards-0009.md#paper-151379)
 
 <!-- conference-classification:end -->

@@ -1246,5 +1246,14 @@
 - [Pacing Branch Parallelism in LLM Serving](../conferences/neurips-2026/cards-0009.md#paper-149213)
 - [Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation](../conferences/neurips-2026/cards-0009.md#paper-148290)
 - [ParaLin: Accelerating Parallel Diffusion Integrator via Intrinsic Partially Linear Structure](../conferences/neurips-2026/cards-0009.md#paper-155812)
+- [Parameterized Stripe Attention for Efficient Video Generation](../conferences/neurips-2026/cards-0009.md#paper-149296)
+- [ParaPC-FM: Accelerating Parallel Sampling via Principled Initialization](../conferences/neurips-2026/cards-0009.md#paper-150049)
+- [PARE: Pruning and Adaptive Routing for Efficient Video Generation](../conferences/neurips-2026/cards-0009.md#paper-151968)
+- [PatchKV: Weight Space Compensation of KV Cache](../conferences/neurips-2026/cards-0009.md#paper-150775)
+- [PatternBloom: Empowering Agentic RAG with Externalized RL-Distilled Graph Patterns](../conferences/neurips-2026/cards-0009.md#paper-152560)
+- [P-EAGLE: Parallel-Drafting EAGLE with Scalable Training](../conferences/neurips-2026/cards-0009.md#paper-152869)
+- [PEARL: Solver-in-the-Loop Interactive Optimization Modeling from Natural Language](../conferences/neurips-2026/cards-0009.md#paper-152032)
+- [PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents](../conferences/neurips-2026/cards-0009.md#paper-154336)
+- [PEEK: One-Step Look-Ahead Exposure Bias Correction for Diffusion Sampling](../conferences/neurips-2026/cards-0009.md#paper-150622)
 
 <!-- conference-classification:end -->

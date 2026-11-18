@@ -656,5 +656,13 @@
 - [OroPrecipBench: a km-scale benchmark for spatial precipitation downscaling over complex terrain](../conferences/neurips-2026/cards-0009.md#paper-139041)
 - [OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems](../conferences/neurips-2026/cards-0009.md#paper-154438)
 - [Pan-FM: A Pan-Organ Foundation Model with Saliency-Guided Masking for Missing Robustness](../conferences/neurips-2026/cards-0009.md#paper-154817)
+- [Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-148849)
+- [Parametric Meets Non-parametric: Bridging Dual Prediction Spaces for Semi-supervised Medical Image Segmentation](../conferences/neurips-2026/cards-0009.md#paper-152318)
+- [PCFBench: How Far Can Large Vision-Language Models Go in Physics-aware Photonic Inverse Design?](../conferences/neurips-2026/cards-0009.md#paper-139614)
+- [PDE-PFN: Prior-Data Fitted Neural PDE Solver](../conferences/neurips-2026/cards-0009.md#paper-155714)
+- [PepSpecBench: A Unified Evaluation Benchmark for Peptide Tandem Mass Spectrometry Prediction](../conferences/neurips-2026/cards-0009.md#paper-139229)
+- [Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-150682)
+- [PG-LRF: Physiology-Guided Latent Rectified Flow for Electro-Hemodynamic PPG-to-ECG Generation](../conferences/neurips-2026/cards-0009.md#paper-150392)
+- [Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences](../conferences/neurips-2026/cards-0009.md#paper-151387)
 
 <!-- conference-classification:end -->

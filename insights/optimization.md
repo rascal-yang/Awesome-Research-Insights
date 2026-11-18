@@ -711,5 +711,13 @@
 - [PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization](../conferences/neurips-2026/cards-0009.md#paper-149179)
 - [PACO: Partial-order-Augmented Continuous Optimization for Differentiable Causal Discovery](../conferences/neurips-2026/cards-0009.md#paper-155276)
 - [Parallel Broyden methods for efficiently evaluating nonlinear state space models](../conferences/neurips-2026/cards-0009.md#paper-150574)
+- [Parallel-in-Time Variational Inference for Latent Stochastic Differential Equations](../conferences/neurips-2026/cards-0009.md#paper-151152)
+- [ParetoM$^3$: Learning on the Pareto Set under Preference Guidance via Min-Max-Min Optimization](../conferences/neurips-2026/cards-0009.md#paper-155972)
+- [Past, Future, All at Once: Breaking Stability-Plasticity Dilemma via Post-hoc JANUS Rectification](../conferences/neurips-2026/cards-0009.md#paper-151428)
+- [PATCH: Learnable Tile-Level Hybrid Sparsity for LLMs](../conferences/neurips-2026/cards-0009.md#paper-154882)
+- [Penalty-Based First-Order Methods for Bilevel Optimization with Minimax and Constrained Lower-Level Problems](../conferences/neurips-2026/cards-0009.md#paper-153613)
+- [Perfect Parallelization in Mini-Batch SGD with Classical Momentum Acceleration](../conferences/neurips-2026/cards-0009.md#paper-155684)
+- [Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-150682)
+- [PermuQuant: Lowering Per-Group Quantization Error by Reordering Channels for Diffusion Models](../conferences/neurips-2026/cards-0009.md#paper-151313)
 
 <!-- conference-classification:end -->

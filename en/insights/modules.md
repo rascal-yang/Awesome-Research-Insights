@@ -400,5 +400,8 @@ Reusable components and local changes to model inputs or connections.
 - [Panoptic Saliency Ranking](../../conferences/neurips-2026/cards-0009.md#paper-152142)
 - [PanoWorld: Towards Spatial Supersensing in 360◦ Panorama World](../../conferences/neurips-2026/cards-0009.md#paper-150495)
 - [Parabolic Position Encoding: Vision-Centric, Principled, Extrapolatable, General](../../conferences/neurips-2026/cards-0009.md#paper-151484)
+- [Patch4Patch: Restoring Structural Connectivity in Patch-based Vision Encoders](../../conferences/neurips-2026/cards-0009.md#paper-154566)
+- [PDE-SSM: A Spectral State Space Approach to Spatial Mixing in Diffusion Transformers](../../conferences/neurips-2026/cards-0009.md#paper-149720)
+- [Phase-Adaptive Fusion: Spatio-Temporal Modulation for VLA Models](../../conferences/neurips-2026/cards-0009.md#paper-155415)
 
 <!-- conference-classification:end -->

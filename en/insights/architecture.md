@@ -499,5 +499,15 @@ Model-wide design and information flow.
 - [OT-Robust3DVLA: A Wasserstein Barycenter is the Right Inductive Bias for Robust Multi-View 3D Vision-Language-Action Policies](../../conferences/neurips-2026/cards-0009.md#paper-150253)
 - [PAAC: Privacy-Aware Agentic Device-Cloud Collaboration](../../conferences/neurips-2026/cards-0009.md#paper-149491)
 - [Panoptic Scene Program Diffusion Transformer](../../conferences/neurips-2026/cards-0009.md#paper-150762)
+- [Parallel Fixed-Point Spiking Neurons for Efficient Training of Spiking Neural Networks](../../conferences/neurips-2026/cards-0009.md#paper-151458)
+- [Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation](../../conferences/neurips-2026/cards-0009.md#paper-151064)
+- [Patching Up Circuit Learning on Images](../../conferences/neurips-2026/cards-0009.md#paper-152498)
+- [PCDFusion: Proposal-Context-Detail Bayesian Rendering for Infrared-Visible Image Fusion](../../conferences/neurips-2026/cards-0009.md#paper-152664)
+- [PDE-PFN: Prior-Data Fitted Neural PDE Solver](../../conferences/neurips-2026/cards-0009.md#paper-155714)
+- [PDHFormer: Progressive Dual-Head Transformer for Behavioral Choice Prediction](../../conferences/neurips-2026/cards-0009.md#paper-155287)
+- [Perceive-then-Plan: Layout-as-Policy for Monocular 3D Scene Layout Estimation](../../conferences/neurips-2026/cards-0009.md#paper-150178)
+- [PerQ: Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation](../../conferences/neurips-2026/cards-0009.md#paper-149271)
+- [PF-SGS: Pose-Free Streaming 3D Gaussian Splatting for Large-Scale Scene Reconstruction](../../conferences/neurips-2026/cards-0009.md#paper-152045)
+- [PG-LRF: Physiology-Guided Latent Rectified Flow for Electro-Hemodynamic PPG-to-ECG Generation](../../conferences/neurips-2026/cards-0009.md#paper-150392)
 
 <!-- conference-classification:end -->

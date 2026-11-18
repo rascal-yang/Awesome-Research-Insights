@@ -559,5 +559,14 @@
 - [Optimal Representation Size: High-Dimensional Analysis of Pretraining and Linear Probing](../conferences/neurips-2026/cards-0009.md#paper-152669)
 - [Orthogonal Origin Parking: Decoupling Lorentz Manifolds for Robust OOD Generalization](../conferences/neurips-2026/cards-0009.md#paper-150309)
 - [Orthogonal Sparse Subgraph Alignment for Structure-Function Coupling in Brain Networks](../conferences/neurips-2026/cards-0009.md#paper-155965)
+- [Pattern-Based Matrix Analysis Under Permutations](../conferences/neurips-2026/cards-0009.md#paper-148683)
+- [PDF-HR: Pose Distance Fields for Humanoid Robots](../conferences/neurips-2026/cards-0009.md#paper-149876)
+- [Persistent Planar Memory for Video World Models](../conferences/neurips-2026/cards-0009.md#paper-150672)
+- [PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization](../conferences/neurips-2026/cards-0009.md#paper-152738)
+- [PGMS: Pyramidal Gaussian Mixture Splatting for 3DGS Compression](../conferences/neurips-2026/cards-0009.md#paper-148213)
+- [PGSB: Pretrained-Guided Shared Basis for LoRA Model Merging](../conferences/neurips-2026/cards-0009.md#paper-152671)
+- [Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences](../conferences/neurips-2026/cards-0009.md#paper-151387)
+- [PhaseDance: Capturing Rhythm and Expressivity in Dance Modeling](../conferences/neurips-2026/cards-0009.md#paper-153947)
+- [Phase-DGS: Phase-Guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](../conferences/neurips-2026/cards-0009.md#paper-154774)
 
 <!-- conference-classification:end -->

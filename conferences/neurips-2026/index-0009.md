@@ -371,3 +371,90 @@
 | 机器学习基础与统计 | 推理策略 | [ParaLin: Accelerating Parallel Diffusion Integrator via Intrinsic Partially Linear Structure](cards-0009.md#paper-155812) | 并行扩散将线性依赖部分直接求解，再修正非线性。 |
 | 机器学习基础与统计 | 优化 | [Parallel Broyden methods for efficiently evaluating nonlinear state space models](cards-0009.md#paper-150574) | 非线性递推并行求根用低秩校正捕捉跨状态作用。 |
 | 机器学习基础与统计 | 理论与统计 | [Parallel Computation Algorithms and Convergence Guarantees for Mean-Field Langevin Dynamics](cards-0009.md#paper-153482) | 平均场 Langevin 的并行性需分开计顺序轮和并行工作量。 |
+| 机器学习基础与统计 | 模型架构 | [Parallel Fixed-Point Spiking Neurons for Efficient Training of Spiking Neural Networks](cards-0009.md#paper-151458) | 脉冲计算改写为跨时段可并行的固定点。 |
+| 科学机器学习 | 训练策略 | [Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction](cards-0009.md#paper-148849) | 非线性重建在长时间尺度数据上使用并行非线性扫描。 |
+| 机器学习基础与统计 | 优化 | [Parallel-in-Time Variational Inference for Latent Stochastic Differential Equations](cards-0009.md#paper-151152) | 潜 SDE 变分后验让噪声历史直接预测局部增量。 |
+| 大语言模型 | 评测与诊断 | [ParallelKernelBench: Can LLMs Write Fast Multi-GPU Kernels?](cards-0009.md#paper-139064) | 生成多 GPU 内核分别验正确性和通信重叠。 |
+| 计算机视觉 | 训练策略 | [Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation](cards-0009.md#paper-154505) | 像素自回归以廉价并行草案模拟自己的前缀。 |
+| 强化学习 | 强化学习方法 | [Parameter Exploration for RLVR via Variational Learning](cards-0009.md#paper-149580) | 参数探索时同一问题可采多个策略实例并共同估优势。 |
+| 机器学习基础与统计 | 理论与统计 | [Parameterized Complexity of Stationarity Testing for Piecewise-Affine Functions and Shallow CNN Losses](cards-0009.md#paper-155237) | ReLU 非光滑驻点认证前检查局部维数。 |
+| 计算机视觉 | 推理策略 | [Parameterized Stripe Attention for Efficient Video Generation](cards-0009.md#paper-149296) | 视频注意力稀疏掩码按头拟合时空条纹。 |
+| 机器学习基础与统计 | 评测与诊断 | [Parameter symmetries determine representational geometry in overparameterized nonlinear networks](cards-0009.md#paper-150568) | 表示相似度比较前控制函数等价的参数变换。 |
+| 科学机器学习 | 损失函数 | [Parametric Meets Non-parametric: Bridging Dual Prediction Spaces for Semi-supervised Medical Image Segmentation](cards-0009.md#paper-152318) | 伪标签只在至少一类预测有信心时相互对齐。 |
+| 计算机视觉 | 推理策略 | [ParaPC-FM: Accelerating Parallel Sampling via Principled Initialization](cards-0009.md#paper-150049) | 并行生成以既有速度轨迹初始化未来状态。 |
+| 大语言模型 | 评测与诊断 | [Parasite Features: Causal Abstraction Through Spurious Pathways](cards-0009.md#paper-149518) | 机制解释用与真实计算无关的控制路径排除伪因果。 |
+| 多模态学习 | 强化学习方法 | [ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning](cards-0009.md#paper-151385) | 并行视频工具强化分别保护语法和调用价值。 |
+| 计算机视觉 | 推理策略 | [PARE: Pruning and Adaptive Routing for Efficient Video Generation](cards-0009.md#paper-151968) | 扩散剪枝保留运动注意头并动态选深度。 |
+| 机器学习基础与统计 | 评测与诊断 | [Pareto DNN Verification: Fast for Most Queries](cards-0009.md#paper-151618) | 鲁棒验证按提前退出的可访问路径拆分。 |
+| 机器学习基础与统计 | 优化 | [ParetoM$^3$: Learning on the Pareto Set under Preference Guidance via Min-Max-Min Optimization](cards-0009.md#paper-155972) | 有明确偏好时在弱 Pareto 约束下再选具体折中。 |
+| 计算机视觉 | 强化学习方法 | [ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control](cards-0009.md#paper-154172) | 多目标扩散将奖励权重作为运行时用户条件。 |
+| 计算机视觉 | 训练策略 | [PARI: Policy-Driven Active Residual Intervention for Weakly Supervised Point Cloud Segmentation](cards-0009.md#paper-155621) | 极稀点云标签下只对高风险预测做主动残差修复。 |
+| 机器学习基础与统计 | 理论与统计 | [Partially Performative Prediction](cards-0009.md#paper-153061) | 重复重训同时诊断部署反馈和外部漂移。 |
+| 多模态学习 | 模型架构 | [Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation](cards-0009.md#paper-151064) | 把长语音动作的慢风格与快运动分开建模。 |
+| 机器学习基础与统计 | 优化 | [Past, Future, All at Once: Breaking Stability-Plasticity Dilemma via Post-hoc JANUS Rectification](cards-0009.md#paper-151428) | 微调后用旧任务雅可比零空间修复更新干扰。 |
+| 多模态学习 | 模块 | [Patch4Patch: Restoring Structural Connectivity in Patch-based Vision Encoders](cards-0009.md#paper-154566) | 用桥接 token 恢复跨视觉分区结构。 |
+| 大语言模型 | 评测与诊断 | [PatchBench: Measuring Collateral Damage in Activation Patching](cards-0009.md#paper-139148) | 验收防护补丁时，分别衡量相邻良性误拒和未见危险任务的安全。 |
+| 计算机视觉 | 模型架构 | [Patching Up Circuit Learning on Images](cards-0009.md#paper-152498) | 概率电路要扩展到高维图像时，尝试跨块递归共享而不假设独立。 |
+| 大语言模型 | 推理策略 | [PatchKV: Weight Space Compensation of KV Cache](cards-0009.md#paper-150775) | 同一上下文多次查询时，以一次性的权重补偿修复压缩损失。 |
+| 大语言模型 | 优化 | [PATCH: Learnable Tile-Level Hybrid Sparsity for LLMs](cards-0009.md#paper-154882) | 逐瓦片混用稠密和 2:4 稀疏，选择符合实际 GPU 延迟的比例。 |
+| 机器学习基础与统计 | 理论与统计 | [Path-independent Flow Matching for Multi-parameter Generative Dynamics](cards-0009.md#paper-154920) | 多参数生成编辑需要顺序无关时，对流显式加入路径一致条件。 |
+| 多模态学习 | 评测与诊断 | [Pathways of Visual Information Flow in Vision-Language Models](cards-0009.md#paper-153514) | 视觉流诊断应区分图像词直读与文字中继。 |
+| 机器学习基础与统计 | 表征学习 | [Pattern-Based Matrix Analysis Under Permutations](cards-0009.md#paper-148683) | 矩阵压缩同时测试低秩和重排后结构。 |
+| 大语言模型 | 推理策略 | [PatternBloom: Empowering Agentic RAG with Externalized RL-Distilled Graph Patterns](cards-0009.md#paper-152560) | 检索增强除了内容索引，还可在良性问答复用抽象证据路径。 |
+| 大语言模型 | 评测与诊断 | [Pause and Reflect: Conformal Aggregation for Chain-of-Thought Reasoning](cards-0009.md#paper-155647) | 多路径答案用有权汇总并校准错误作答上限。 |
+| 多模态学习 | 评测与诊断 | [PAVE: Prefill-Conditioned Activation Editing for Hallucination Mitigation in LVLMs](cards-0009.md#paper-150489) | 幻觉缓解按输入图像条件校正，而非只用统一方向。 |
+| 机器学习基础与统计 | 理论与统计 | [Payoff-Aware Prediction of Population Game Dynamics](cards-0009.md#paper-151122) | 群体动态外推时显式分离收益和共享响应。 |
+| 机器学习基础与统计 | 理论与统计 | [Payoff-Only Learning in Games via Best-Response Differential Inclusions](cards-0009.md#paper-156012) | 仅观察自身回报时用固定策略的长周期降低估计漂移。 |
+| 大语言模型 | 评测与诊断 | [PBT-Bench: Benchmarking AI Agents on Property-Based Testing](cards-0009.md#paper-138920) | 自有库属性测试分开检验语义不变量和采样覆盖。 |
+| 机器学习基础与统计 | 评测与诊断 | [PCBInnoBench: Benchmarking LLM Agents on Real-World PCB Design](cards-0009.md#paper-139034) | 工程助手评测把流程发现和执行分开。 |
+| 机器学习基础与统计 | 评测与诊断 | [PCBSchemaGen: Reward-Guided LLM Code Synthesis for Printed Circuit Boards (PCB) Schematic Design with Structured Verification](cards-0009.md#paper-149018) | 无标准答案的电路生成可先验结构再比较功能。 |
+| 计算机视觉 | 模型架构 | [PCDFusion: Proposal-Context-Detail Bayesian Rendering for Infrared-Visible Image Fusion](cards-0009.md#paper-152664) | 可见光与红外融合按局部可靠性选来源。 |
+| 机器学习基础与统计 | 评测与诊断 | [PCEval: A Benchmark for Evaluating Physical Computing Capabilities of Large Language Models](cards-0009.md#paper-138916) | 硬件任务分别验代码、逻辑图和物理布局。 |
+| 科学机器学习 | 评测与诊断 | [PCFBench: How Far Can Large Vision-Language Models Go in Physics-aware Photonic Inverse Design?](cards-0009.md#paper-139614) | 物理设计评测拆开视觉识别和受约束设计。 |
+| 科学机器学习 | 模型架构 | [PDE-PFN: Prior-Data Fitted Neural PDE Solver](cards-0009.md#paper-155714) | PDE 上下文学习可把带误差的现有求解器输出当训练先验。 |
+| 计算机视觉 | 模块 | [PDE-SSM: A Spectral State Space Approach to Spatial Mixing in Diffusion Transformers](cards-0009.md#paper-149720) | 视觉扩散可用多维 PDE 做全局空间混合。 |
+| 机器人学 | 表征学习 | [PDF-HR: Pose Distance Fields for Humanoid Robots](cards-0009.md#paper-149876) | 人形姿态先验可用连续距离评分接入优化。 |
+| 机器学习基础与统计 | 模型架构 | [PDHFormer: Progressive Dual-Head Transformer for Behavioral Choice Prediction](cards-0009.md#paper-155287) | 耦合两决策时比较前一预测是否应条件化后一头。 |
+| 大语言模型 | 推理策略 | [P-EAGLE: Parallel-Drafting EAGLE with Scalable Training](cards-0009.md#paper-152869) | 推测解码草案用共享状态并行预测并在单序列内部累积梯度。 |
+| 大语言模型 | 推理策略 | [PEARL: Solver-in-the-Loop Interactive Optimization Modeling from Natural Language](cards-0009.md#paper-152032) | 自然语言建模在生成中测试局部可行性而非等整稿。 |
+| 大语言模型 | 推理策略 | [PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents](cards-0009.md#paper-154336) | 反复访问同一外部语料时缓存导航地图而非原始轨迹。 |
+| 计算机视觉 | 推理策略 | [PEEK: One-Step Look-Ahead Exposure Bias Correction for Diffusion Sampling](cards-0009.md#paper-150622) | 扩散抽样在选定步骤用一步前瞻纠正曝光偏差。 |
+| 机器学习基础与统计 | 损失函数 | [PEIRA: Learning Predictive Encoders through Inter-View Regressor Alignment](cards-0009.md#paper-153191) | 非对比自监督比较跨视图回归器的稳定平衡。 |
+| 大语言模型 | 评测与诊断 | [Penalize to Verify: A Multi-Domain Benchmark for Trustworthy LLM Evaluation](cards-0009.md#paper-139171) | 模型裁判允许弃权，但对高风险误判单设代价。 |
+| 机器学习基础与统计 | 优化 | [Penalty-Based First-Order Methods for Bilevel Optimization with Minimax and Constrained Lower-Level Problems](cards-0009.md#paper-153613) | 下层有约束时考虑对偶化到双层极小极大。 |
+| 机器学习基础与统计 | 损失函数 | [PENEX: AdaBoost-Inspired Neural Network Regularization](cards-0009.md#paper-149347) | 少样本分类试带惩罚的多类指数间隔损失。 |
+| 科学机器学习 | 评测与诊断 | [PepSpecBench: A Unified Evaluation Benchmark for Peptide Tandem Mass Spectrometry Prediction](cards-0009.md#paper-139229) | 质谱预测用互不重叠的序列骨架做泛化划分。 |
+| 多模态学习 | 强化学习方法 | [Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Spatial Reasoning](cards-0009.md#paper-154683) | 空间推理将证据读出与可执行视觉检查分为不同工具。 |
+| 计算机视觉 | 模型架构 | [Perceive-then-Plan: Layout-as-Policy for Monocular 3D Scene Layout Estimation](cards-0009.md#paper-150178) | 单目布局估计先定位，再将几何修正写成离散动作。 |
+| 多模态学习 | 训练策略 | [PercepCap: Video Captioner with Structured Spatio-Temporal Perception](cards-0009.md#paper-150126) | 视频标题前先生成可验的时空感知轨迹。 |
+| 机器人学 | 损失函数 | [Perception for Action in Latent World Models](cards-0009.md#paper-153770) | 动作世界模型用逆动力学约束抑制潜表示坍塌。 |
+| 多模态学习 | 评测与诊断 | [Perception, Not Reasoning, Limits Visual Theory of Mind](cards-0009.md#paper-138922) | 视觉心智任务保持推理相同、只替换感知输入。 |
+| 多模态学习 | 强化学习方法 | [Perception Without Engagement: Dissecting the Causal Discovery Deficit in LMMs](cards-0009.md#paper-154291) | 因果视频推理用失去视觉证据的反事实作负向对照。 |
+| 机器学习基础与统计 | 优化 | [Perfect Parallelization in Mini-Batch SGD with Classical Momentum Acceleration](cards-0009.md#paper-155684) | 大批动量扩大前确认仍在样本并行收益区间。 |
+| 大语言模型 | 强化学习方法 | [Performance-Driven Policy Optimization for Speculative Decoding with Adaptive Windowing](cards-0009.md#paper-150209) | 推测草案直接优化连续可接受前缀而非各词元独立精度。 |
+| 机器学习基础与统计 | 理论与统计 | [Performative Prediction with Selective Labels](cards-0009.md#paper-155604) | 模型决策会限制后续可见标签时，不应只用获接纳样本直接重训。 |
+| 科学机器学习 | 优化 | [Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks](cards-0009.md#paper-150682) | 为 PINN 改梯度前先定位持续方向冲突、大小不均或短暂冲突。 |
+| 计算机视觉 | 优化 | [PermuQuant: Lowering Per-Group Quantization Error by Reordering Channels for Diffusion Models](cards-0009.md#paper-151313) | 低比特分组量化前，依据权重和激活尺度对通道排序。 |
+| 多模态学习 | 评测与诊断 | [Permutation Sensitivity in t-SVD-based Multi-view Clustering](cards-0009.md#paper-154178) | 多视图 t-SVD 聚类验收中，对样本排列做受控随机反复。 |
+| 多模态学习 | 损失函数 | [Permute-then-Adapt: Weak-to-Strong Contrastive Image--Text Adaptation](cards-0009.md#paper-150368) | 对比学习要找漏标正对时，使用置换零分布校准弱教师分数。 |
+| 计算机视觉 | 模型架构 | [PerQ: Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation](cards-0009.md#paper-149271) | 图像压缩感知重建时，让生成补偿限制在随码率变的误差单元内。 |
+| 机器人学 | 表征学习 | [Persistent Planar Memory for Video World Models](cards-0009.md#paper-150672) | 视频世界模型长期保持场景结构时，测试以平面作为持续三维记忆。 |
+| 强化学习 | 理论与统计 | [Persistent-Transient Policy Evaluation for Markov Chains via Minimal Peripheral Quotients](cards-0009.md#paper-148512) | 评估可能周期或可约的链时，区分持续相位行为和瞬态成本。 |
+| 大语言模型 | 评测与诊断 | [Persona-Model Collapse in Emergent Misalignment](cards-0009.md#paper-153612) | 训练安全回归同时测角色间区分和同角色稳定。 |
+| 大语言模型 | 评测与诊断 | [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](cards-0009.md#paper-152713) | 用固定行为探针审查训练后是否新出现不期望特征。 |
+| 机器学习基础与统计 | 理论与统计 | [Per-Starting-Point Plausibility and Diversity Bounds for Score-Based Diffusion Models](cards-0009.md#paper-154674) | 固定起点扩散在保留差异与趋向数据分布间折中。 |
+| 机器学习基础与统计 | 理论与统计 | [Persuasive Prediction via Decision Calibration](cards-0009.md#paper-152558) | 预测引发决策时按实际响应条件做校准。 |
+| 机器学习基础与统计 | 评测与诊断 | [Perturb and Correct: Post-Hoc Ensembles using Affine Redundancy](cards-0009.md#paper-148703) | 单模型后处理集成约束域内一致，允许域外分歧。 |
+| 多模态学习 | 训练策略 | [Perturb, Repair, Verify: Self-Play Vision-Language Verifiers for Compositional Understanding](cards-0009.md#paper-150547) | 图文核验可用有真值的可纠正不一致做学习反馈。 |
+| 机器学习基础与统计 | 理论与统计 | [PE-SHAP: Causally Interpretable Path-Wise Shapley Explanations](cards-0009.md#paper-155303) | 因果路径归因要与已知中介效应定义对齐。 |
+| 强化学习 | 训练策略 | [Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning](cards-0009.md#paper-151379) | 离线元学习训练时覆盖域外任务潜变量，并按不确定降权。 |
+| 计算机视觉 | 模型架构 | [PF-SGS: Pose-Free Streaming 3D Gaussian Splatting for Large-Scale Scene Reconstruction](cards-0009.md#paper-152045) | 流式三维重建可用受限前视延迟提交几何。 |
+| 计算机视觉 | 表征学习 | [PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization](cards-0009.md#paper-152738) | 定位可直接以平面图元代替高密度专用地图。 |
+| 计算机视觉 | 评测与诊断 | [PGID: Progressive Guided Inversion and Denoising for Robust Watermark Detection](cards-0009.md#paper-153527) | 图像来源水印应同时验证削弱后的漏检与错误归属。 |
+| 科学机器学习 | 模型架构 | [PG-LRF: Physiology-Guided Latent Rectified Flow for Electro-Hemodynamic PPG-to-ECG Generation](cards-0009.md#paper-150392) | 跨生理传感生成用可解释前向关系校验输出。 |
+| 计算机视觉 | 表征学习 | [PGMS: Pyramidal Gaussian Mixture Splatting for 3DGS Compression](cards-0009.md#paper-148213) | 压缩三维高斯时根据尺度共享不同属性。 |
+| 机器学习基础与统计 | 表征学习 | [PGSB: Pretrained-Guided Shared Basis for LoRA Model Merging](cards-0009.md#paper-152671) | 多任务 LoRA 合并前提取共享方向，再参考原模型权重校正。 |
+| 科学机器学习 | 表征学习 | [Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences](cards-0009.md#paper-151387) | 科学场词元保留形状与连续物理量尺度。 |
+| 机器人学 | 模块 | [Phase-Adaptive Fusion: Spatio-Temporal Modulation for VLA Models](cards-0009.md#paper-155415) | 具身视觉融合应在任务的对位阶段增强视觉证据。 |
+| 计算机视觉 | 表征学习 | [PhaseDance: Capturing Rhythm and Expressivity in Dance Modeling](cards-0009.md#paper-153947) | 音乐到动作对齐应同时测局部拍和全局周期。 |
+| 计算机视觉 | 表征学习 | [Phase-DGS: Phase-Guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](cards-0009.md#paper-154774) | 多视角周期动作不同步时比较相同动作相位而非帧号。 |

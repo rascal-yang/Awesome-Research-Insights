@@ -371,5 +371,10 @@ Objectives, auxiliary supervision, and regularization.
 - [OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems](../../conferences/neurips-2026/cards-0009.md#paper-154438)
 - [Overcoming the Resolution Limit: Significance-Aware Regularization for Intersectional Fairness](../../conferences/neurips-2026/cards-0009.md#paper-151945)
 - [PanoWorld: Geometry-Consistent Panoramic Video World Modeling](../../conferences/neurips-2026/cards-0009.md#paper-148684)
+- [Parametric Meets Non-parametric: Bridging Dual Prediction Spaces for Semi-supervised Medical Image Segmentation](../../conferences/neurips-2026/cards-0009.md#paper-152318)
+- [PEIRA: Learning Predictive Encoders through Inter-View Regressor Alignment](../../conferences/neurips-2026/cards-0009.md#paper-153191)
+- [PENEX: AdaBoost-Inspired Neural Network Regularization](../../conferences/neurips-2026/cards-0009.md#paper-149347)
+- [Perception for Action in Latent World Models](../../conferences/neurips-2026/cards-0009.md#paper-153770)
+- [Permute-then-Adapt: Weak-to-Strong Contrastive Image--Text Adaptation](../../conferences/neurips-2026/cards-0009.md#paper-150368)
 
 <!-- conference-classification:end -->

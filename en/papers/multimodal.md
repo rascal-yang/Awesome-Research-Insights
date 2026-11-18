@@ -810,5 +810,17 @@ Learning across modalities such as images, text, audio, and video.
 - [Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning](../../conferences/neurips-2026/cards-0009.md#paper-151854)
 - [P$^3$-VLM: A Point-based Alternative for Grounded 3D Vision-Language Models](../../conferences/neurips-2026/cards-0009.md#paper-151816)
 - [PanoWorld: Towards Spatial Supersensing in 360◦ Panorama World](../../conferences/neurips-2026/cards-0009.md#paper-150495)
+- [ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-151385)
+- [Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation](../../conferences/neurips-2026/cards-0009.md#paper-151064)
+- [Patch4Patch: Restoring Structural Connectivity in Patch-based Vision Encoders](../../conferences/neurips-2026/cards-0009.md#paper-154566)
+- [Pathways of Visual Information Flow in Vision-Language Models](../../conferences/neurips-2026/cards-0009.md#paper-153514)
+- [PAVE: Prefill-Conditioned Activation Editing for Hallucination Mitigation in LVLMs](../../conferences/neurips-2026/cards-0009.md#paper-150489)
+- [Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Spatial Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-154683)
+- [PercepCap: Video Captioner with Structured Spatio-Temporal Perception](../../conferences/neurips-2026/cards-0009.md#paper-150126)
+- [Perception, Not Reasoning, Limits Visual Theory of Mind](../../conferences/neurips-2026/cards-0009.md#paper-138922)
+- [Perception Without Engagement: Dissecting the Causal Discovery Deficit in LMMs](../../conferences/neurips-2026/cards-0009.md#paper-154291)
+- [Permutation Sensitivity in t-SVD-based Multi-view Clustering](../../conferences/neurips-2026/cards-0009.md#paper-154178)
+- [Permute-then-Adapt: Weak-to-Strong Contrastive Image--Text Adaptation](../../conferences/neurips-2026/cards-0009.md#paper-150368)
+- [Perturb, Repair, Verify: Self-Play Vision-Language Verifiers for Compositional Understanding](../../conferences/neurips-2026/cards-0009.md#paper-150547)
 
 <!-- conference-classification:end -->

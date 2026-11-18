@@ -772,5 +772,9 @@
 - [OxyGen: Unified KV Cache Management for VLA Inference under Multi-Task Parallelism](../conferences/neurips-2026/cards-0009.md#paper-149556)
 - [PACE: Phase-Aware Chunk Execution for Robot Policies with Action Chunking](../conferences/neurips-2026/cards-0009.md#paper-149859)
 - [PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models](../conferences/neurips-2026/cards-0009.md#paper-149215)
+- [PDF-HR: Pose Distance Fields for Humanoid Robots](../conferences/neurips-2026/cards-0009.md#paper-149876)
+- [Perception for Action in Latent World Models](../conferences/neurips-2026/cards-0009.md#paper-153770)
+- [Persistent Planar Memory for Video World Models](../conferences/neurips-2026/cards-0009.md#paper-150672)
+- [Phase-Adaptive Fusion: Spatio-Temporal Modulation for VLA Models](../conferences/neurips-2026/cards-0009.md#paper-155415)
 
 <!-- conference-classification:end -->

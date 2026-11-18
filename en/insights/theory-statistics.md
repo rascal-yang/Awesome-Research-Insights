@@ -1078,5 +1078,15 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [PAIR-CI: Calibrated Conditional Independence Testing for Causal Discovery with Incomplete Data](../../conferences/neurips-2026/cards-0009.md#paper-155370)
 - [Paradoxes of Game Theoretic Equilibria and Price of Anarchy](../../conferences/neurips-2026/cards-0009.md#paper-150825)
 - [Parallel Computation Algorithms and Convergence Guarantees for Mean-Field Langevin Dynamics](../../conferences/neurips-2026/cards-0009.md#paper-153482)
+- [Parameterized Complexity of Stationarity Testing for Piecewise-Affine Functions and Shallow CNN Losses](../../conferences/neurips-2026/cards-0009.md#paper-155237)
+- [Partially Performative Prediction](../../conferences/neurips-2026/cards-0009.md#paper-153061)
+- [Path-independent Flow Matching for Multi-parameter Generative Dynamics](../../conferences/neurips-2026/cards-0009.md#paper-154920)
+- [Payoff-Aware Prediction of Population Game Dynamics](../../conferences/neurips-2026/cards-0009.md#paper-151122)
+- [Payoff-Only Learning in Games via Best-Response Differential Inclusions](../../conferences/neurips-2026/cards-0009.md#paper-156012)
+- [Performative Prediction with Selective Labels](../../conferences/neurips-2026/cards-0009.md#paper-155604)
+- [Persistent-Transient Policy Evaluation for Markov Chains via Minimal Peripheral Quotients](../../conferences/neurips-2026/cards-0009.md#paper-148512)
+- [Per-Starting-Point Plausibility and Diversity Bounds for Score-Based Diffusion Models](../../conferences/neurips-2026/cards-0009.md#paper-154674)
+- [Persuasive Prediction via Decision Calibration](../../conferences/neurips-2026/cards-0009.md#paper-152558)
+- [PE-SHAP: Causally Interpretable Path-Wise Shapley Explanations](../../conferences/neurips-2026/cards-0009.md#paper-155303)
 
 <!-- conference-classification:end -->
