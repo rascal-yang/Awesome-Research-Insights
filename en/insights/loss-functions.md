@@ -338,5 +338,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Independent Latents, Robust Neural Operators](../../conferences/neurips-2026/cards-0007.md#paper-148392)
 - [InfoSFT: Learn More and Forget Less with Information-Aware Token Weighting](../../conferences/neurips-2026/cards-0007.md#paper-155588)
 - [Intervention-Guided Image-Free Classifier Expansion for Fine-Grained Recognition](../../conferences/neurips-2026/cards-0007.md#paper-148473)
+- [It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs](../../conferences/neurips-2026/cards-0007.md#paper-149725)
+- [Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise](../../conferences/neurips-2026/cards-0007.md#paper-148725)
 
 <!-- conference-classification:end -->

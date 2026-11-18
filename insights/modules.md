@@ -357,5 +357,7 @@
 - [IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting](../conferences/neurips-2026/cards-0007.md#paper-154661)
 - [Inline Critic Steers Image Editing](../conferences/neurips-2026/cards-0007.md#paper-152644)
 - [Interleaved Head Attention](../conferences/neurips-2026/cards-0007.md#paper-154807)
+- [KernelDNA: Cross-Layer Kernel Sharing via Decoupled Neural Adapters](../conferences/neurips-2026/cards-0007.md#paper-153535)
+- [Knocking-Heads Attention: Drop-in Shared Projections for Cross-Head Coordination](../conferences/neurips-2026/cards-0007.md#paper-155835)
 
 <!-- conference-classification:end -->

@@ -658,5 +658,8 @@
 - [IRIS: Interpolative Rényi Iterative Self-play for Large Language Model Fine-Tuning](../conferences/neurips-2026/cards-0007.md#paper-148291)
 - [It Just Takes Two: Scaling Amortized Inference to Large Sets](../conferences/neurips-2026/cards-0007.md#paper-150804)
 - [ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining](../conferences/neurips-2026/cards-0007.md#paper-152157)
+- [Joint Sequence--Vocabulary Selection for Efficient LLM Distillation](../conferences/neurips-2026/cards-0007.md#paper-152047)
+- [KiteNorm: Variance Regularisation for Stable and Scalable Post-LN Transformers](../conferences/neurips-2026/cards-0007.md#paper-152670)
+- [KL for a KL: On-Policy Distillation with Control Variate Baseline](../conferences/neurips-2026/cards-0007.md#paper-149290)
 
 <!-- conference-classification:end -->

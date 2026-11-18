@@ -554,5 +554,8 @@
 - [Iterative Gumbel Planning for Continuous Control](../conferences/neurips-2026/cards-0007.md#paper-150597)
 - [Iterative Latent Refinement for Value Learning in Offline Goal-Conditioned RL](../conferences/neurips-2026/cards-0007.md#paper-154947)
 - [Iterative Scarcity-Guided Exploration: Bootstrapping Generative Auto-bidding from Narrow Support](../conferences/neurips-2026/cards-0007.md#paper-154982)
+- [Joint Adaptive Neighborhood Constraint for Offline Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-149793)
+- [Jump Start Your Policy Learning with Lessons from 145,000 Training Runs](../conferences/neurips-2026/cards-0007.md#paper-155981)
+- [Kernel Value Regression in Offline Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-148489)
 
 <!-- conference-classification:end -->

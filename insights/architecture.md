@@ -372,5 +372,7 @@
 - [Isotropic Activation Functions Enable Deindividuated Neurons and Adaptive Topologies](../conferences/neurips-2026/cards-0007.md#paper-154076)
 - [Iterative Latent Refinement for Value Learning in Offline Goal-Conditioned RL](../conferences/neurips-2026/cards-0007.md#paper-154947)
 - [Iterative Nonlinear Computation Underlying Abstract Reasoning](../conferences/neurips-2026/cards-0007.md#paper-151990)
+- [JODA: Composable Joint Dynamics for Articulated Objects](../conferences/neurips-2026/cards-0007.md#paper-148410)
+- [KerONet: A Single Softmax Readout Suffices for Physics-Informed Operator Learning](../conferences/neurips-2026/cards-0007.md#paper-150115)
 
 <!-- conference-classification:end -->

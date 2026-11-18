@@ -4083,66 +4083,66 @@ poster_id	title	paper_url	status	reason
 150804	It Just Takes Two: Scaling Amortized Inference to Large Sets	https://neurips.cc/virtual/2026/poster/150804	included	大规模集合后验将小集合表示训练和大集合推理头训练解耦。
 152722	Itô maps for any-step SDEs	https://neurips.cc/virtual/2026/poster/152722	included	随机动力学蒸馏时将随机路径与中间状态共同作为映射输入。
 152157	ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining	https://neurips.cc/virtual/2026/poster/152157	included	图文双编码器可训练时融合、部署时删掉融合头。
-139703	ITPEval: Benchmarking Formal Translation Across Interactive Theorem Provers	https://neurips.cc/virtual/2026/poster/139703	pending	-
-155341	It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs	https://neurips.cc/virtual/2026/poster/155341	pending	-
-149725	It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs	https://neurips.cc/virtual/2026/poster/149725	pending	-
-154209	Jacobian Descent for Multi-Objective Optimization	https://neurips.cc/virtual/2026/poster/154209	pending	-
-148556	Jacobian Scopes: A Unified Geometric Framework for Token-Level LLM Attributions	https://neurips.cc/virtual/2026/poster/148556	pending	-
-148765	Jaguar: Fast Private CNN Inference with Power-of-Two Homomorphic Arithmetic	https://neurips.cc/virtual/2026/poster/148765	pending	-
-153236	JailBound: A FOL-Guided Jailbreak Evaluation Framework for Revealing Safety Boundaries of LLMs	https://neurips.cc/virtual/2026/poster/153236	pending	-
-153034	Jailbreak susceptibility prediction and mitigation via the behavioral geometry of models	https://neurips.cc/virtual/2026/poster/153034	pending	-
-138895	JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces	https://neurips.cc/virtual/2026/poster/138895	pending	-
-149602	JaSpec-LID: Local Intrinsic Dimension Estimation via Jacobian Spectra of ODE-based Generative Models	https://neurips.cc/virtual/2026/poster/149602	pending	-
-139790	JAXtari: High-Throughput and Easy-to-Modify Arcade Learning Environment	https://neurips.cc/virtual/2026/poster/139790	pending	-
-148992	JEDI: Real-Time Jailbreak Defense for LLMs via In-Generation Detection and Intervention	https://neurips.cc/virtual/2026/poster/148992	pending	-
-150014	JEPAWG: Interpretable Hypernetworks for Weight-Space Physics	https://neurips.cc/virtual/2026/poster/150014	pending	-
-155612	Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE	https://neurips.cc/virtual/2026/poster/155612	pending	-
-139030	JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation	https://neurips.cc/virtual/2026/poster/139030	pending	-
-138930	JobBench: Aligning Agent Work With Human Will	https://neurips.cc/virtual/2026/poster/138930	pending	-
-148410	JODA: Composable Joint Dynamics for Articulated Objects	https://neurips.cc/virtual/2026/poster/148410	pending	-
-149793	Joint Adaptive Neighborhood Constraint for Offline Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149793	pending	-
-152626	Joint Certification for Attributed Graphs: Beyond Topology-Only Robustness	https://neurips.cc/virtual/2026/poster/152626	pending	-
-153898	Joint Confounder Selection for Causal Mediation Analysis in High Dimensions	https://neurips.cc/virtual/2026/poster/153898	pending	-
-152018	Joint Consistency: A Unified Test-Time Aggregation Framework via Energy Minimization	https://neurips.cc/virtual/2026/poster/152018	pending	-
-155136	Joint EM Image Super-Resolution and Segmentation with Semantic and Structural Priors	https://neurips.cc/virtual/2026/poster/155136	pending	-
-149966	Joint Learning of Hierarchical Neural Options and Abstract World Model	https://neurips.cc/virtual/2026/poster/149966	pending	-
-153781	Jointly Reinforcing Diversity and Quality in Language Model Generations	https://neurips.cc/virtual/2026/poster/153781	pending	-
-148725	Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise	https://neurips.cc/virtual/2026/poster/148725	pending	-
-155013	Joint Optimization of Tool Creation and Use for Large Language Model Agents	https://neurips.cc/virtual/2026/poster/155013	pending	-
-155038	Joint protein, mRNA, DNA sequence design and optimization with nucleotide-level Potts models	https://neurips.cc/virtual/2026/poster/155038	pending	-
-152047	Joint Sequence--Vocabulary Selection for Efficient LLM Distillation	https://neurips.cc/virtual/2026/poster/152047	pending	-
-150903	Joint Treatment Effect Estimation from Incomplete Healthcare Data: Temporal Causal Normalizing Flows with LLM-driven Evolutionary MNAR Imputation	https://neurips.cc/virtual/2026/poster/150903	pending	-
-139326	JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments	https://neurips.cc/virtual/2026/poster/139326	pending	-
-139683	JudgmentBench: Comparing Rubric and Preference Evaluation for Quality Assessment	https://neurips.cc/virtual/2026/poster/139683	pending	-
-139486	JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors	https://neurips.cc/virtual/2026/poster/139486	pending	-
-155981	Jump Start Your Policy Learning with Lessons from 145,000 Training Runs	https://neurips.cc/virtual/2026/poster/155981	pending	-
-155554	Justitia: Fair and Efficient Scheduling of Task-parallel LLM Agents with Selective Pampering	https://neurips.cc/virtual/2026/poster/155554	pending	-
-151245	Just Ramp-Up: Debiasing Regression-based Estimator for A/B Tests under Network Interference	https://neurips.cc/virtual/2026/poster/151245	pending	-
-139669	K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs	https://neurips.cc/virtual/2026/poster/139669	pending	-
-139544	K9-Bench: Evaluating Multimodal LLMs on Canine-Centric Videos	https://neurips.cc/virtual/2026/poster/139544	pending	-
-153129	Kairos: Toward Adaptive and Parameter-Efficient Time Series Foundation Models	https://neurips.cc/virtual/2026/poster/153129	pending	-
-139673	KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards	https://neurips.cc/virtual/2026/poster/139673	pending	-
-155484	KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Task	https://neurips.cc/virtual/2026/poster/155484	pending	-
-152066	Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/152066	pending	-
-152245	Keep or Preempt? Termination-Aware Scheduling for LLM Serving with Speculative Decoding	https://neurips.cc/virtual/2026/poster/152245	pending	-
-149005	Kernel-based guarantees for nonlinear parametric models in Bayesian optimization	https://neurips.cc/virtual/2026/poster/149005	pending	-
-153535	KernelDNA: Cross-Layer Kernel Sharing via Decoupled Neural Adapters	https://neurips.cc/virtual/2026/poster/153535	pending	-
-151352	Kernel-Gradient Drifting Models	https://neurips.cc/virtual/2026/poster/151352	pending	-
-153634	Kernel Granger Component Analysis for Nonlinear Directed Component Discovery	https://neurips.cc/virtual/2026/poster/153634	pending	-
-154267	Kernelized Activation Steering	https://neurips.cc/virtual/2026/poster/154267	pending	-
-153658	Kernel Selection is Model Selection: A Unified Complexity-Penalised Approach for MMD Two-Sample Tests	https://neurips.cc/virtual/2026/poster/153658	pending	-
-152240	Kernel Token Contradiction: a Fast and Principled Approach for LLM Claim Uncertainty Quantification	https://neurips.cc/virtual/2026/poster/152240	pending	-
-148489	Kernel Value Regression in Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148489	pending	-
-150115	KerONet: A Single Softmax Readout Suffices for Physics-Informed Operator Learning	https://neurips.cc/virtual/2026/poster/150115	pending	-
-152526	KG-Guard: Graph-Based Hallucination Detection for Knowledge Base Question Answering	https://neurips.cc/virtual/2026/poster/152526	pending	-
-156049	KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure	https://neurips.cc/virtual/2026/poster/156049	pending	-
-154147	Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech	https://neurips.cc/virtual/2026/poster/154147	pending	-
-152670	KiteNorm: Variance Regularisation for Stable and Scalable Post-LN Transformers	https://neurips.cc/virtual/2026/poster/152670	pending	-
-149290	KL for a KL: On-Policy Distillation with Control Variate Baseline	https://neurips.cc/virtual/2026/poster/149290	pending	-
-139272	KNN Implementation Details Can Dramatically Change Performance: An Example from Cover Trees	https://neurips.cc/virtual/2026/poster/139272	pending	-
-155835	Knocking-Heads Attention: Drop-in Shared Projections for Cross-Head Coordination	https://neurips.cc/virtual/2026/poster/155835	pending	-
-138972	KNOT: A Knowledge Entanglement Benchmark for Robust Unlearning Evaluation	https://neurips.cc/virtual/2026/poster/138972	pending	-
-154305	KnowEvo: Knowledge Evolution for Protein Optimization	https://neurips.cc/virtual/2026/poster/154305	pending	-
+139703	ITPEval: Benchmarking Formal Translation Across Interactive Theorem Provers	https://neurips.cc/virtual/2026/poster/139703	included	证明翻译按逻辑难度与真实库依赖分层。
+155341	It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs	https://neurips.cc/virtual/2026/poster/155341	included	用可溯源的知识种子扩写合成语料，而非只扩大抓取规模。
+149725	It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs	https://neurips.cc/virtual/2026/poster/149725	included	隐私训练用独立教师分别约束任务效用和适当披露。
+154209	Jacobian Descent for Multi-Objective Optimization	https://neurips.cc/virtual/2026/poster/154209	included	冲突多目标用 Jacobian 梯度投影求共享更新。
+148556	Jacobian Scopes: A Unified Geometric Framework for Token-Level LLM Attributions	https://neurips.cc/virtual/2026/poster/148556	included	词元归因明确区分目标词、全分布形状和置信度。
+148765	Jaguar: Fast Private CNN Inference with Power-of-Two Homomorphic Arithmetic	https://neurips.cc/virtual/2026/poster/148765	included	私密 CNN 联合设计密文算术与非线性前后的位宽。
+153236	JailBound: A FOL-Guided Jailbreak Evaluation Framework for Revealing Safety Boundaries of LLMs	https://neurips.cc/virtual/2026/poster/153236	excluded	主要技术增量是自动寻找并迁移可绕过语言模型安全边界的输入，未提取操作机制。
+153034	Jailbreak susceptibility prediction and mitigation via the behavioral geometry of models	https://neurips.cc/virtual/2026/poster/153034	included	用已评系统的行为相似性安排防护复评。
+138895	JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces	https://neurips.cc/virtual/2026/poster/138895	included	长期个性化用逐级记忆输入对照检验收益。
+149602	JaSpec-LID: Local Intrinsic Dimension Estimation via Jacobian Spectra of ODE-based Generative Models	https://neurips.cc/virtual/2026/poster/149602	included	只有速度场的生成器用其 Jacobian 谱估局部维数。
+139790	JAXtari: High-Throughput and Easy-to-Modify Arcade Learning Environment	https://neurips.cc/virtual/2026/poster/139790	excluded	主要贡献为 Atari 环境重实现、GPU 并行及对象接口，摘要未给出可独立移植的算法或训练规律。
+148992	JEDI: Real-Time Jailbreak Defense for LLMs via In-Generation Detection and Intervention	https://neurips.cc/virtual/2026/poster/148992	included	流式生成以累积风险而非单词判定触发安全干预。
+150014	JEPAWG: Interpretable Hypernetworks for Weight-Space Physics	https://neurips.cc/virtual/2026/poster/150014	included	用已知连续规律验证超网络在权重空间学到的结构。
+155612	Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE	https://neurips.cc/virtual/2026/poster/155612	included	长上下文将局部原始 RoPE 与动态远距缩放分开。
+139030	JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation	https://neurips.cc/virtual/2026/poster/139030	included	对同一道题做配对移图，隔离图像带来的因果差异。
+138930	JobBench: Aligning Agent Work With Human Will	https://neurips.cc/virtual/2026/poster/138930	excluded	主要给出职业任务基准及总体分数，摘要未交代可单独复用的技术机制或更细的失败规律。
+148410	JODA: Composable Joint Dynamics for Articulated Objects	https://neurips.cc/virtual/2026/poster/148410	included	关节模拟将保守力、干摩擦与阻尼写为可组合独立场。
+149793	Joint Adaptive Neighborhood Constraint for Offline Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149793	included	离线协作显式限制联合动作而非逐代理独立限制。
+152626	Joint Certification for Attributed Graphs: Beyond Topology-Only Robustness	https://neurips.cc/virtual/2026/poster/152626	included	图模型鲁棒性证书同时保护拓扑及节点属性。
+153898	Joint Confounder Selection for Causal Mediation Analysis in High Dimensions	https://neurips.cc/virtual/2026/poster/153898	included	因果中介用跨暴露、中介、结局模型的共同稀疏先验选变量。
+152018	Joint Consistency: A Unified Test-Time Aggregation Framework via Energy Minimization	https://neurips.cc/virtual/2026/poster/152018	included	多条推理迹线汇总时，将答案得票以外的两两比较作为独立信号。
+155136	Joint EM Image Super-Resolution and Segmentation with Semantic and Structural Priors	https://neurips.cc/virtual/2026/poster/155136	excluded	电子显微超分与分割联合方案偏任务绑定，摘要未独立量化部分加噪先验的通用收益。
+149966	Joint Learning of Hierarchical Neural Options and Abstract World Model	https://neurips.cc/virtual/2026/poster/149966	excluded	选项与抽象世界模型联合学习值得复核，但摘要缺少可独立说明如何实现联合抽象的具体操作。
+153781	Jointly Reinforcing Diversity and Quality in Language Model Generations	https://neurips.cc/virtual/2026/poster/153781	included	在线后训练既追求正确又需要探索时，对语义多样性明确给奖励。
+148725	Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise	https://neurips.cc/virtual/2026/poster/148725	included	敏感属性与目标标签同时有噪声时，分别校正两个通路再优化人口统计公平。
+155013	Joint Optimization of Tool Creation and Use for Large Language Model Agents	https://neurips.cc/virtual/2026/poster/155013	included	Agent 会写工具却不会稳定调用时，共同训练工具创建和持出调用，并分别奖励契约、实现和结果。
+155038	Joint protein, mRNA, DNA sequence design and optimization with nucleotide-level Potts models	https://neurips.cc/virtual/2026/poster/155038	excluded	暂不收录跨分子序列的专项设计与优化内容。
+152047	Joint Sequence--Vocabulary Selection for Efficient LLM Distillation	https://neurips.cc/virtual/2026/poster/152047	included	蒸馏 logits 带宽紧时，联合选择位置与词项而不是各自截断。
+150903	Joint Treatment Effect Estimation from Incomplete Healthcare Data: Temporal Causal Normalizing Flows with LLM-driven Evolutionary MNAR Imputation	https://neurips.cc/virtual/2026/poster/150903	excluded	补全与时间因果估计的整体集成有应用价值，但摘要未给出足够独立的缺失机制识别条件。
+139326	JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments	https://neurips.cc/virtual/2026/poster/139326	included	有行动预算的视觉问答中，分别评估有没有实际看见证据和最终答对了没有。
+139683	JudgmentBench: Comparing Rubric and Preference Evaluation for Quality Assessment	https://neurips.cc/virtual/2026/poster/139683	included	收集高专业度偏好标签前，用相同评审和输出比较逐项量表与成对比较。
+139486	JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors	https://neurips.cc/virtual/2026/poster/139486	excluded	本地文化错判是明确现象，当前摘要尚不能提供独立可复用的评委纠错或校准手段。
+155981	Jump Start Your Policy Learning with Lessons from 145,000 Training Runs	https://neurips.cc/virtual/2026/poster/155981	included	比较离线策略算法前，用充分调参与数据集分层推翻未经调参的算法排名。
+155554	Justitia: Fair and Efficient Scheduling of Task-parallel LLM Agents with Selective Pampering	https://neurips.cc/virtual/2026/poster/155554	excluded	调度摘要未给出内存成本预测与分配规则如何在公平界下交互，暂不提取。
+151245	Just Ramp-Up: Debiasing Regression-based Estimator for A/B Tests under Network Interference	https://neurips.cc/virtual/2026/poster/151245	included	存在网络干扰的 A/B 实验可联合利用不同处理比例阶段的数据来拟合效应。
+139669	K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs	https://neurips.cc/virtual/2026/poster/139669	excluded	教材关系图及训练数据有教育应用价值，但摘要未证明机制在其他结构教学设置可独立迁移。
+139544	K9-Bench: Evaluating Multimodal LLMs on Canine-Centric Videos	https://neurips.cc/virtual/2026/poster/139544	excluded	犬类视频基准的现象侧重特定场景，摘要未说明数据偏差缓解策略的可复用细节。
+153129	Kairos: Toward Adaptive and Parameter-Efficient Time Series Foundation Models	https://neurips.cc/virtual/2026/poster/153129	included	处理采样密度或周期异质的时序时，让局部信息量决定 patch 大小，再按实例频谱调位置编码。
+139673	KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards	https://neurips.cc/virtual/2026/poster/139673	excluded	该候选的核心是训练真实网络安全工具命令生成，暂不收录其操作流程。
+155484	KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Task	https://neurips.cc/virtual/2026/poster/155484	excluded	持续技能归纳、修订和路由偏系统集成，摘要缺少这些模块各自的净贡献与跨领域边界。
+152066	Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/152066	included	图像生成安全要分别测防护覆盖与邻近正常提示失真。
+152245	Keep or Preempt? Termination-Aware Scheduling for LLM Serving with Speculative Decoding	https://neurips.cc/virtual/2026/poster/152245	included	推测解码调度预测剩余验证轮次，同时计抢占成本。
+149005	Kernel-based guarantees for nonlinear parametric models in Bayesian optimization	https://neurips.cc/virtual/2026/poster/149005	included	自适应贝叶斯优化可从参数空间核构造非线性置信界。
+153535	KernelDNA: Cross-Layer Kernel Sharing via Decoupled Neural Adapters	https://neurips.cc/virtual/2026/poster/153535	included	依据阶段内核相似度共享卷积母核，动态门与可融合静态调制分开。
+151352	Kernel-Gradient Drifting Models	https://neurips.cc/virtual/2026/poster/151352	included	非欧几何数据的一步生成应选与底层空间一致的相似度。
+153634	Kernel Granger Component Analysis for Nonlinear Directed Component Discovery	https://neurips.cc/virtual/2026/poster/153634	included	非线性有向时间结构用时间反转和独立过程作反证。
+154267	Kernelized Activation Steering	https://neurips.cc/virtual/2026/poster/154267	excluded	论文同一核心机制直接用于绕过语言模型安全对齐；本轮不抽取该机制，摘要未给独立的防御技术选择。
+153658	Kernel Selection is Model Selection: A Unified Complexity-Penalised Approach for MMD Two-Sample Tests	https://neurips.cc/virtual/2026/poster/153658	included	自适应选两样本检验核时将搜索复杂度计入统计量。
+152240	Kernel Token Contradiction: a Fast and Principled Approach for LLM Claim Uncertainty Quantification	https://neurips.cc/virtual/2026/poster/152240	included	低延迟主张不确定性可用候选词相互矛盾度和概率构造谱指标。
+148489	Kernel Value Regression in Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148489	included	离线 critic 的外推偏置可通过核值回归控制。
+150115	KerONet: A Single Softmax Readout Suffices for Physics-Informed Operator Learning	https://neurips.cc/virtual/2026/poster/150115	included	物理算子需要局部混合时先试一层 softmax 查询读出。
+152526	KG-Guard: Graph-Based Hallucination Detection for Knowledge Base Question Answering	https://neurips.cc/virtual/2026/poster/152526	included	知识图谱问答先做候选答案节点的证据校验。
+156049	KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure	https://neurips.cc/virtual/2026/poster/156049	included	表示去敏感属性可先在随机特征空间建群体原型再投影。
+154147	Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech	https://neurips.cc/virtual/2026/poster/154147	included	离散流采样分别优化路径时间表和每步跳变误差。
+152670	KiteNorm: Variance Regularisation for Stable and Scalable Post-LN Transformers	https://neurips.cc/virtual/2026/poster/152670	included	后置归一化用隐藏态方差和支路尺度共同约束训练。
+149290	KL for a KL: On-Policy Distillation with Control Variate Baseline	https://neurips.cc/virtual/2026/poster/149290	included	在线蒸馏以已计算的师生分布构造方差控制项。
+139272	KNN Implementation Details Can Dramatically Change Performance: An Example from Cover Trees	https://neurips.cc/virtual/2026/poster/139272	included	近邻检索基准分开 k 值、持出查询与数据集调优。
+155835	Knocking-Heads Attention: Drop-in Shared Projections for Cross-Head Coordination	https://neurips.cc/virtual/2026/poster/155835	included	用所有注意头共同训练的投影协调参数，而不在注意图上增加在线混合。
+138972	KNOT: A Knowledge Entanglement Benchmark for Robust Unlearning Evaluation	https://neurips.cc/virtual/2026/poster/138972	included	遗忘评估加入应保留与应移除知识之间的重叠边界。
+154305	KnowEvo: Knowledge Evolution for Protein Optimization	https://neurips.cc/virtual/2026/poster/154305	excluded	摘要主要验证蛋白优化，尚未将可复用知识组织的收益与目标优化流程分开验证。
 149691	Knowing What is Missing: Efficient Conversational Memory via Explicit Evidence-Gap Tracking	https://neurips.cc/virtual/2026/poster/149691	pending	-
 154761	Knowing When Multivariate Forecasts Are Wrong	https://neurips.cc/virtual/2026/poster/154761	pending	-
 149224	Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use	https://neurips.cc/virtual/2026/poster/149224	pending	-

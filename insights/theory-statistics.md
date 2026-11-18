@@ -886,5 +886,12 @@
 - [Inverting the Bellman Equation: From $Q$-Values to World Models](../conferences/neurips-2026/cards-0007.md#paper-153840)
 - [Is Dimensionality a Barrier for Retrieval Models?](../conferences/neurips-2026/cards-0007.md#paper-148654)
 - [Iterative Chow Filtering for Learning with Distribution Shift](../conferences/neurips-2026/cards-0007.md#paper-152685)
+- [Joint Certification for Attributed Graphs: Beyond Topology-Only Robustness](../conferences/neurips-2026/cards-0007.md#paper-152626)
+- [Joint Confounder Selection for Causal Mediation Analysis in High Dimensions](../conferences/neurips-2026/cards-0007.md#paper-153898)
+- [Just Ramp-Up: Debiasing Regression-based Estimator for A/B Tests under Network Interference](../conferences/neurips-2026/cards-0007.md#paper-151245)
+- [Kernel-based guarantees for nonlinear parametric models in Bayesian optimization](../conferences/neurips-2026/cards-0007.md#paper-149005)
+- [Kernel-Gradient Drifting Models](../conferences/neurips-2026/cards-0007.md#paper-151352)
+- [Kernel Granger Component Analysis for Nonlinear Directed Component Discovery](../conferences/neurips-2026/cards-0007.md#paper-153634)
+- [Kernel Selection is Model Selection: A Unified Complexity-Penalised Approach for MMD Two-Sample Tests](../conferences/neurips-2026/cards-0007.md#paper-153658)
 
 <!-- conference-classification:end -->

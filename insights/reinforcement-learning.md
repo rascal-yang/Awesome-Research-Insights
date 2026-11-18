@@ -541,5 +541,9 @@
 - [Is the Importance Ratio Necessary for Stable Reinforcement Learning in LLMs?](../conferences/neurips-2026/cards-0007.md#paper-152454)
 - [Iterative Gumbel Planning for Continuous Control](../conferences/neurips-2026/cards-0007.md#paper-150597)
 - [Iterative Scarcity-Guided Exploration: Bootstrapping Generative Auto-bidding from Narrow Support](../conferences/neurips-2026/cards-0007.md#paper-154982)
+- [Joint Adaptive Neighborhood Constraint for Offline Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-149793)
+- [Jointly Reinforcing Diversity and Quality in Language Model Generations](../conferences/neurips-2026/cards-0007.md#paper-153781)
+- [Joint Optimization of Tool Creation and Use for Large Language Model Agents](../conferences/neurips-2026/cards-0007.md#paper-155013)
+- [Kernel Value Regression in Offline Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-148489)
 
 <!-- conference-classification:end -->

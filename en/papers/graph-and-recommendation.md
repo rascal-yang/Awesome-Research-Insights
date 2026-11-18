@@ -299,5 +299,7 @@ Graph models, knowledge graphs, and recommender systems.
 - [Interactive Combinatorial Reinforcement Learning for Knowledge Graph Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-155091)
 - [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](../../conferences/neurips-2026/cards-0007.md#paper-152947)
 - [Invariant Hyperbolic Unfolding: Radial Canonicalization for Label-Free Cross-Graph Link Prediction](../../conferences/neurips-2026/cards-0007.md#paper-152389)
+- [Joint Certification for Attributed Graphs: Beyond Topology-Only Robustness](../../conferences/neurips-2026/cards-0007.md#paper-152626)
+- [KG-Guard: Graph-Based Hallucination Detection for Knowledge Base Question Answering](../../conferences/neurips-2026/cards-0007.md#paper-152526)
 
 <!-- conference-classification:end -->

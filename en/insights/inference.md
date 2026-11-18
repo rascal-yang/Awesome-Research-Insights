@@ -1093,5 +1093,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [I-PTC: Interactive Programmatic Tool Calling for Stateful Tool-Augmented Agents](../../conferences/neurips-2026/cards-0007.md#paper-153721)
 - [Iterative Critique-and-Routing Controller for Multi-Agent Systems with Heterogeneous LLMs](../../conferences/neurips-2026/cards-0007.md#paper-148385)
 - [Itô maps for any-step SDEs](../../conferences/neurips-2026/cards-0007.md#paper-152722)
+- [Jaguar: Fast Private CNN Inference with Power-of-Two Homomorphic Arithmetic](../../conferences/neurips-2026/cards-0007.md#paper-148765)
+- [JEDI: Real-Time Jailbreak Defense for LLMs via In-Generation Detection and Intervention](../../conferences/neurips-2026/cards-0007.md#paper-148992)
+- [Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE](../../conferences/neurips-2026/cards-0007.md#paper-155612)
+- [Joint Consistency: A Unified Test-Time Aggregation Framework via Energy Minimization](../../conferences/neurips-2026/cards-0007.md#paper-152018)
+- [Keep or Preempt? Termination-Aware Scheduling for LLM Serving with Speculative Decoding](../../conferences/neurips-2026/cards-0007.md#paper-152245)
+- [Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech](../../conferences/neurips-2026/cards-0007.md#paper-154147)
 
 <!-- conference-classification:end -->

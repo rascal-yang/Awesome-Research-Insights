@@ -589,5 +589,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Is Backpropagation Optimal? When Synthetic Gradients Improve Sample Efficiency](../../conferences/neurips-2026/cards-0007.md#paper-152783)
 - [It Cancels: O(r²) Cholesky Updates for Whitened Operators](../../conferences/neurips-2026/cards-0007.md#paper-154420)
 - [Iterative ILP with Update-Size Control for Reducing Surrogate-Task Mismatch in Bit-Width Selection](../../conferences/neurips-2026/cards-0007.md#paper-151893)
+- [Jacobian Descent for Multi-Objective Optimization](../../conferences/neurips-2026/cards-0007.md#paper-154209)
 
 <!-- conference-classification:end -->

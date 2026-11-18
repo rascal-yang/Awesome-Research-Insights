@@ -315,5 +315,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation](../../conferences/neurips-2026/cards-0007.md#paper-155244)
 - [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](../../conferences/neurips-2026/cards-0007.md#paper-152947)
 - [Irreducible Supervision Enables Compositional Generalization in Post-Training](../../conferences/neurips-2026/cards-0007.md#paper-149659)
+- [It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs](../../conferences/neurips-2026/cards-0007.md#paper-155341)
 
 <!-- conference-classification:end -->

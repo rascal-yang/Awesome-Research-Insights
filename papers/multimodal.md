@@ -702,5 +702,6 @@
 - [Intervene3D: Intervention-Based Controlled Inference for Multimodal Perception under Partial Observability](../conferences/neurips-2026/cards-0007.md#paper-154481)
 - [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](../conferences/neurips-2026/cards-0007.md#paper-148810)
 - [ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining](../conferences/neurips-2026/cards-0007.md#paper-152157)
+- [JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation](../conferences/neurips-2026/cards-0007.md#paper-139030)
 
 <!-- conference-classification:end -->

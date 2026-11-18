@@ -2085,5 +2085,18 @@
 - [Iterative ILP with Update-Size Control for Reducing Surrogate-Task Mismatch in Bit-Width Selection](../conferences/neurips-2026/cards-0007.md#paper-151893)
 - [It Just Takes Two: Scaling Amortized Inference to Large Sets](../conferences/neurips-2026/cards-0007.md#paper-150804)
 - [Itô maps for any-step SDEs](../conferences/neurips-2026/cards-0007.md#paper-152722)
+- [Jacobian Descent for Multi-Objective Optimization](../conferences/neurips-2026/cards-0007.md#paper-154209)
+- [Jaguar: Fast Private CNN Inference with Power-of-Two Homomorphic Arithmetic](../conferences/neurips-2026/cards-0007.md#paper-148765)
+- [JaSpec-LID: Local Intrinsic Dimension Estimation via Jacobian Spectra of ODE-based Generative Models](../conferences/neurips-2026/cards-0007.md#paper-149602)
+- [Joint Confounder Selection for Causal Mediation Analysis in High Dimensions](../conferences/neurips-2026/cards-0007.md#paper-153898)
+- [Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise](../conferences/neurips-2026/cards-0007.md#paper-148725)
+- [Just Ramp-Up: Debiasing Regression-based Estimator for A/B Tests under Network Interference](../conferences/neurips-2026/cards-0007.md#paper-151245)
+- [Kairos: Toward Adaptive and Parameter-Efficient Time Series Foundation Models](../conferences/neurips-2026/cards-0007.md#paper-153129)
+- [Kernel-based guarantees for nonlinear parametric models in Bayesian optimization](../conferences/neurips-2026/cards-0007.md#paper-149005)
+- [Kernel-Gradient Drifting Models](../conferences/neurips-2026/cards-0007.md#paper-151352)
+- [Kernel Granger Component Analysis for Nonlinear Directed Component Discovery](../conferences/neurips-2026/cards-0007.md#paper-153634)
+- [Kernel Selection is Model Selection: A Unified Complexity-Penalised Approach for MMD Two-Sample Tests](../conferences/neurips-2026/cards-0007.md#paper-153658)
+- [KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure](../conferences/neurips-2026/cards-0007.md#paper-156049)
+- [KNN Implementation Details Can Dramatically Change Performance: An Example from Cover Trees](../conferences/neurips-2026/cards-0007.md#paper-139272)
 
 <!-- conference-classification:end -->

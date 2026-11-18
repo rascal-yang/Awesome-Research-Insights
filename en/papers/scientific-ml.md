@@ -524,5 +524,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction](../../conferences/neurips-2026/cards-0007.md#paper-155706)
 - [Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling](../../conferences/neurips-2026/cards-0007.md#paper-154449)
 - [Inverse Modeling of Neural Recordings via Differentiable Biophysical Simulation](../../conferences/neurips-2026/cards-0007.md#paper-153595)
+- [JEPAWG: Interpretable Hypernetworks for Weight-Space Physics](../../conferences/neurips-2026/cards-0007.md#paper-150014)
+- [KerONet: A Single Softmax Readout Suffices for Physics-Informed Operator Learning](../../conferences/neurips-2026/cards-0007.md#paper-150115)
 
 <!-- conference-classification:end -->

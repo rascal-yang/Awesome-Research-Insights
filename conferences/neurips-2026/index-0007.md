@@ -205,3 +205,48 @@
 | 机器学习基础与统计 | 训练策略 | [It Just Takes Two: Scaling Amortized Inference to Large Sets](cards-0007.md#paper-150804) | 大规模集合后验将小集合表示训练和大集合推理头训练解耦。 |
 | 机器学习基础与统计 | 推理策略 | [Itô maps for any-step SDEs](cards-0007.md#paper-152722) | 随机动力学蒸馏时将随机路径与中间状态共同作为映射输入。 |
 | 多模态学习 | 训练策略 | [ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining](cards-0007.md#paper-152157) | 图文双编码器可训练时融合、部署时删掉融合头。 |
+| 大语言模型 | 评测与诊断 | [ITPEval: Benchmarking Formal Translation Across Interactive Theorem Provers](cards-0007.md#paper-139703) | 证明翻译按逻辑难度与真实库依赖分层。 |
+| 大语言模型 | 数据策略 | [It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs](cards-0007.md#paper-155341) | 用可溯源的知识种子扩写合成语料，而非只扩大抓取规模。 |
+| 大语言模型 | 损失函数 | [It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs](cards-0007.md#paper-149725) | 隐私训练用独立教师分别约束任务效用和适当披露。 |
+| 机器学习基础与统计 | 优化 | [Jacobian Descent for Multi-Objective Optimization](cards-0007.md#paper-154209) | 冲突多目标用 Jacobian 梯度投影求共享更新。 |
+| 大语言模型 | 评测与诊断 | [Jacobian Scopes: A Unified Geometric Framework for Token-Level LLM Attributions](cards-0007.md#paper-148556) | 词元归因明确区分目标词、全分布形状和置信度。 |
+| 机器学习基础与统计 | 推理策略 | [Jaguar: Fast Private CNN Inference with Power-of-Two Homomorphic Arithmetic](cards-0007.md#paper-148765) | 私密 CNN 联合设计密文算术与非线性前后的位宽。 |
+| 大语言模型 | 评测与诊断 | [Jailbreak susceptibility prediction and mitigation via the behavioral geometry of models](cards-0007.md#paper-153034) | 用已评系统的行为相似性安排防护复评。 |
+| 大语言模型 | 评测与诊断 | [JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces](cards-0007.md#paper-138895) | 长期个性化用逐级记忆输入对照检验收益。 |
+| 机器学习基础与统计 | 评测与诊断 | [JaSpec-LID: Local Intrinsic Dimension Estimation via Jacobian Spectra of ODE-based Generative Models](cards-0007.md#paper-149602) | 只有速度场的生成器用其 Jacobian 谱估局部维数。 |
+| 大语言模型 | 推理策略 | [JEDI: Real-Time Jailbreak Defense for LLMs via In-Generation Detection and Intervention](cards-0007.md#paper-148992) | 流式生成以累积风险而非单词判定触发安全干预。 |
+| 科学机器学习 | 表征学习 | [JEPAWG: Interpretable Hypernetworks for Weight-Space Physics](cards-0007.md#paper-150014) | 用已知连续规律验证超网络在权重空间学到的结构。 |
+| 大语言模型 | 推理策略 | [Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE](cards-0007.md#paper-155612) | 长上下文将局部原始 RoPE 与动态远距缩放分开。 |
+| 多模态学习 | 评测与诊断 | [JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation](cards-0007.md#paper-139030) | 对同一道题做配对移图，隔离图像带来的因果差异。 |
+| 机器人学 | 模型架构 | [JODA: Composable Joint Dynamics for Articulated Objects](cards-0007.md#paper-148410) | 关节模拟将保守力、干摩擦与阻尼写为可组合独立场。 |
+| 强化学习 | 强化学习方法 | [Joint Adaptive Neighborhood Constraint for Offline Multi-Agent Reinforcement Learning](cards-0007.md#paper-149793) | 离线协作显式限制联合动作而非逐代理独立限制。 |
+| 图学习与推荐 | 理论与统计 | [Joint Certification for Attributed Graphs: Beyond Topology-Only Robustness](cards-0007.md#paper-152626) | 图模型鲁棒性证书同时保护拓扑及节点属性。 |
+| 机器学习基础与统计 | 理论与统计 | [Joint Confounder Selection for Causal Mediation Analysis in High Dimensions](cards-0007.md#paper-153898) | 因果中介用跨暴露、中介、结局模型的共同稀疏先验选变量。 |
+| 大语言模型 | 推理策略 | [Joint Consistency: A Unified Test-Time Aggregation Framework via Energy Minimization](cards-0007.md#paper-152018) | 多条推理迹线汇总时，将答案得票以外的两两比较作为独立信号。 |
+| 大语言模型 | 强化学习方法 | [Jointly Reinforcing Diversity and Quality in Language Model Generations](cards-0007.md#paper-153781) | 在线后训练既追求正确又需要探索时，对语义多样性明确给奖励。 |
+| 机器学习基础与统计 | 损失函数 | [Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise](cards-0007.md#paper-148725) | 敏感属性与目标标签同时有噪声时，分别校正两个通路再优化人口统计公平。 |
+| 大语言模型 | 强化学习方法 | [Joint Optimization of Tool Creation and Use for Large Language Model Agents](cards-0007.md#paper-155013) | Agent 会写工具却不会稳定调用时，共同训练工具创建和持出调用，并分别奖励契约、实现和结果。 |
+| 大语言模型 | 训练策略 | [Joint Sequence--Vocabulary Selection for Efficient LLM Distillation](cards-0007.md#paper-152047) | 蒸馏 logits 带宽紧时，联合选择位置与词项而不是各自截断。 |
+| 机器人学 | 评测与诊断 | [JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments](cards-0007.md#paper-139326) | 有行动预算的视觉问答中，分别评估有没有实际看见证据和最终答对了没有。 |
+| 大语言模型 | 评测与诊断 | [JudgmentBench: Comparing Rubric and Preference Evaluation for Quality Assessment](cards-0007.md#paper-139683) | 收集高专业度偏好标签前，用相同评审和输出比较逐项量表与成对比较。 |
+| 强化学习 | 评测与诊断 | [Jump Start Your Policy Learning with Lessons from 145,000 Training Runs](cards-0007.md#paper-155981) | 比较离线策略算法前，用充分调参与数据集分层推翻未经调参的算法排名。 |
+| 机器学习基础与统计 | 理论与统计 | [Just Ramp-Up: Debiasing Regression-based Estimator for A/B Tests under Network Interference](cards-0007.md#paper-151245) | 存在网络干扰的 A/B 实验可联合利用不同处理比例阶段的数据来拟合效应。 |
+| 机器学习基础与统计 | 表征学习 | [Kairos: Toward Adaptive and Parameter-Efficient Time Series Foundation Models](cards-0007.md#paper-153129) | 处理采样密度或周期异质的时序时，让局部信息量决定 patch 大小，再按实例频谱调位置编码。 |
+| 计算机视觉 | 评测与诊断 | [Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation](cards-0007.md#paper-152066) | 图像生成安全要分别测防护覆盖与邻近正常提示失真。 |
+| 大语言模型 | 推理策略 | [Keep or Preempt? Termination-Aware Scheduling for LLM Serving with Speculative Decoding](cards-0007.md#paper-152245) | 推测解码调度预测剩余验证轮次，同时计抢占成本。 |
+| 机器学习基础与统计 | 理论与统计 | [Kernel-based guarantees for nonlinear parametric models in Bayesian optimization](cards-0007.md#paper-149005) | 自适应贝叶斯优化可从参数空间核构造非线性置信界。 |
+| 计算机视觉 | 模块 | [KernelDNA: Cross-Layer Kernel Sharing via Decoupled Neural Adapters](cards-0007.md#paper-153535) | 依据阶段内核相似度共享卷积母核，动态门与可融合静态调制分开。 |
+| 机器学习基础与统计 | 理论与统计 | [Kernel-Gradient Drifting Models](cards-0007.md#paper-151352) | 非欧几何数据的一步生成应选与底层空间一致的相似度。 |
+| 机器学习基础与统计 | 理论与统计 | [Kernel Granger Component Analysis for Nonlinear Directed Component Discovery](cards-0007.md#paper-153634) | 非线性有向时间结构用时间反转和独立过程作反证。 |
+| 机器学习基础与统计 | 理论与统计 | [Kernel Selection is Model Selection: A Unified Complexity-Penalised Approach for MMD Two-Sample Tests](cards-0007.md#paper-153658) | 自适应选两样本检验核时将搜索复杂度计入统计量。 |
+| 大语言模型 | 评测与诊断 | [Kernel Token Contradiction: a Fast and Principled Approach for LLM Claim Uncertainty Quantification](cards-0007.md#paper-152240) | 低延迟主张不确定性可用候选词相互矛盾度和概率构造谱指标。 |
+| 强化学习 | 强化学习方法 | [Kernel Value Regression in Offline Reinforcement Learning](cards-0007.md#paper-148489) | 离线 critic 的外推偏置可通过核值回归控制。 |
+| 科学机器学习 | 模型架构 | [KerONet: A Single Softmax Readout Suffices for Physics-Informed Operator Learning](cards-0007.md#paper-150115) | 物理算子需要局部混合时先试一层 softmax 查询读出。 |
+| 图学习与推荐 | 评测与诊断 | [KG-Guard: Graph-Based Hallucination Detection for Knowledge Base Question Answering](cards-0007.md#paper-152526) | 知识图谱问答先做候选答案节点的证据校验。 |
+| 机器学习基础与统计 | 表征学习 | [KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure](cards-0007.md#paper-156049) | 表示去敏感属性可先在随机特征空间建群体原型再投影。 |
+| 自然语言处理 | 推理策略 | [Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech](cards-0007.md#paper-154147) | 离散流采样分别优化路径时间表和每步跳变误差。 |
+| 大语言模型 | 训练策略 | [KiteNorm: Variance Regularisation for Stable and Scalable Post-LN Transformers](cards-0007.md#paper-152670) | 后置归一化用隐藏态方差和支路尺度共同约束训练。 |
+| 大语言模型 | 训练策略 | [KL for a KL: On-Policy Distillation with Control Variate Baseline](cards-0007.md#paper-149290) | 在线蒸馏以已计算的师生分布构造方差控制项。 |
+| 机器学习基础与统计 | 评测与诊断 | [KNN Implementation Details Can Dramatically Change Performance: An Example from Cover Trees](cards-0007.md#paper-139272) | 近邻检索基准分开 k 值、持出查询与数据集调优。 |
+| 大语言模型 | 模块 | [Knocking-Heads Attention: Drop-in Shared Projections for Cross-Head Coordination](cards-0007.md#paper-155835) | 用所有注意头共同训练的投影协调参数，而不在注意图上增加在线混合。 |
+| 大语言模型 | 评测与诊断 | [KNOT: A Knowledge Entanglement Benchmark for Robust Unlearning Evaluation](cards-0007.md#paper-138972) | 遗忘评估加入应保留与应移除知识之间的重叠边界。 |

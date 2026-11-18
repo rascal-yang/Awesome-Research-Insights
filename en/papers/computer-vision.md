@@ -887,5 +887,7 @@ Visual representation, recognition, reconstruction, and generation.
 - [Invertible Logits Transformation for Accuracy-Preserving Post-Hoc Uncertainty Calibration](../../conferences/neurips-2026/cards-0007.md#paper-153997)
 - [Is a Linear Probe Evidence of a Linear Representation?](../../conferences/neurips-2026/cards-0007.md#paper-151738)
 - [Is Complex Training Necessary for Long-Tailed OOD Detection? A Re-think from Feature Geometry](../../conferences/neurips-2026/cards-0007.md#paper-152780)
+- [Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation](../../conferences/neurips-2026/cards-0007.md#paper-152066)
+- [KernelDNA: Cross-Layer Kernel Sharing via Decoupled Neural Adapters](../../conferences/neurips-2026/cards-0007.md#paper-153535)
 
 <!-- conference-classification:end -->

@@ -707,5 +707,7 @@ Robot perception, policy learning, planning, and control.
 - [InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction](../../conferences/neurips-2026/cards-0007.md#paper-152598)
 - [InfoNav: A Unified Value Framework Integrating Semantic Relevance and Information Gain for Zero-Shot Object Goal Navigation](../../conferences/neurips-2026/cards-0007.md#paper-149947)
 - [Interaction-Aligned Robot Learning from Human Videos with Structured Graph Modeling](../../conferences/neurips-2026/cards-0007.md#paper-155579)
+- [JODA: Composable Joint Dynamics for Articulated Objects](../../conferences/neurips-2026/cards-0007.md#paper-148410)
+- [JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments](../../conferences/neurips-2026/cards-0007.md#paper-139326)
 
 <!-- conference-classification:end -->
