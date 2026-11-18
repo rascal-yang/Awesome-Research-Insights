@@ -492,3 +492,80 @@
 | 机器学习基础与统计 | 优化 | [Multiobjective Submodular Maximization with Concave Aggregation](cards-0008.md#paper-154609) | 多目标选集合以凹聚合平衡最差项与整体收益。 |
 | 科学机器学习 | 评测与诊断 | [Multi-Oracle Agreement Reveals the Limits of Self-Consistency Evaluation in RNA Design](cards-0008.md#paper-139186) | 评测模型与训练目标共享时应引入独立证据。 |
 | 计算机视觉 | 表征学习 | [Multi-Part Object Representations via Graph Structures and Co-Part Discovery](cards-0008.md#paper-150151) | 多部件对象用显式关系图提高遮挡下识别。 |
+| 机器学习基础与统计 | 理论与统计 | [Multiple Descent of Generalization Curve for Optimally Regularized Ridge Regression](cards-0008.md#paper-153409) | 岭回归的样本规模实验不要预设风险只有一个峰。 |
+| 机器学习基础与统计 | 模块 | [Multiple Instance Verification](cards-0008.md#paper-156670) | 验证一个对象和候选集合时按查询改变池化。 |
+| 科学机器学习 | 表征学习 | [Multiscale Microenvironment Vector Space Projection for Uncovering Diverse Pathological Biomarker](cards-0008.md#paper-156107) | 病理空间分组按局部同质程度生长，不预设半径。 |
+| 科学机器学习 | 模型架构 | [Multi-Scale Representation Learning for Single-Cell Multi-Omics](cards-0008.md#paper-150703) | 多组学先分解到不同尺度，再为各尺度建交互。 |
+| 科学机器学习 | 评测与诊断 | [Multi-site PPG: An In-the-Wild Physiological Dataset from Emerging Multi-Site Wearables](cards-0008.md#paper-139177) | 生理监测模型按佩戴部位及运动程度分层。 |
+| 机器学习基础与统计 | 模型架构 | [Multistage Defer Trees for Hybrid Interpretability: If at First You Can't Succeed, Tree Again](cards-0008.md#paper-151253) | 需要解释的预测尽量用稀疏树，困难例按级推迟。 |
+| 强化学习 | 评测与诊断 | [Multi-Stage Planning from Single-Stage Data: Reinforcement Learning Helps Composition but Requires Anchoring](cards-0008.md#paper-154469) | 长程规划验收分开测合法、跨阶段和正确停在目标。 |
+| 机器学习基础与统计 | 理论与统计 | [Multi-step Consistency Models: A Complete Error Theory and Optimal Step Selection](cards-0008.md#paper-153683) | 一致性采样步数按局部误差与放大率选择。 |
+| 强化学习 | 强化学习方法 | [Multi-Step Likelihood-Ratio Correction for Reinforcement Learning with Verifiable Rewards](cards-0008.md#paper-152849) | 策略梯度可用短前向轨迹连接局部代理与真实比率。 |
+| 机器人学 | 评测与诊断 | [MultiSTEVE-1s: A Model Zoo and Interpretability Suite for Instruction-Following Vision Agents](cards-0008.md#paper-149156) | 行为安全回归使用多随机种及极小初始化扰动。 |
+| 大语言模型 | 推理策略 | [Multi-Token Residual Prediction](cards-0008.md#paper-154026) | 扩散语言模型预测下一去噪步相对本步的 logit 残差。 |
+| 大语言模型 | 强化学习方法 | [Multi-Turn RL Makes Small Language Model Competitive for Optimization Modeling](cards-0008.md#paper-152943) | 自然语言优化建模将求解器结果用于迭代修订。 |
+| 机器学习基础与统计 | 理论与统计 | [Multi-Variable Conformal Prediction: Optimizing Prediction Sets without Data Splitting](cards-0008.md#paper-152406) | 共形预测形状与覆盖阈值联合校准。 |
+| 机器学习基础与统计 | 损失函数 | [Multivariate Time Series Forecasting needs Cross Variable Loss](cards-0008.md#paper-150730) | 多变量预测显式惩罚预测残差的跨通道不一致。 |
+| 多模态学习 | 损失函数 | [Multi-view Relational Distillation for Spatial Reasoning with Vision-Language Models](cards-0008.md#paper-152091) | 跨视图几何知识蒸馏匹配相似关系而非教师向量。 |
+| 多模态学习 | 模型架构 | [MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation](cards-0008.md#paper-154839) | 多模态联合生成用共享随机潜变量连接不同子集条件。 |
+| 机器学习基础与统计 | 理论与统计 | [Muon Does Not Converge on Convex Lipschitz Functions](cards-0008.md#paper-155248) | 对非光滑目标使用 Muon 前做收敛与实用性能的独立对照。 |
+| 机器学习基础与统计 | 理论与统计 | [Muon Dynamics as a Spectral Wasserstein Flow](cards-0008.md#paper-149106) | 比较谱归一化对训练的隐式运输几何影响。 |
+| 大语言模型 | 强化学习方法 | [MURPHY: Feedback-Aware GRPO with Retrospective Credit Assignment for Multi-Turn Code Generation](cards-0008.md#paper-151688) | 给多轮修复中的较早尝试分配后来成功的信用。 |
+| 大语言模型 | 推理策略 | [Mutable Transcripts: Mitigating Context Pollution through Editable Conversation State](cards-0008.md#paper-153229) | 用户撤回或替换约束时，允许修订早期上下文以减少陈旧指令影响。 |
+| 机器学习基础与统计 | 表征学习 | [Mutual Predictability Decomposition: Learning Interpretable Cross-Set Structure via Bi-Directional Prediction](cards-0008.md#paper-148650) | 诊断多视图关系时，单列不可被预测但对预测另一侧必要的变量。 |
+| 大语言模型 | 训练策略 | [MUX: Continuous Reasoning via Multiplexed Tokens](cards-0008.md#paper-151022) | 潜推理压缩前，为目标混合表示设计可恢复性的测试。 |
+| 计算机视觉 | 表征学习 | [MvFFN: Multi-view Floor-Plan Feed-Forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction](cards-0008.md#paper-153655) | 全局室内布局难以直接监督时，输出重叠局部墙顺序并确定性拼接。 |
+| 计算机视觉 | 推理策略 | [MVPISplat: Multi-View Photometric Inconsistency for Defending 3D Gaussian Splatting Attacks](cards-0008.md#paper-153526) | 多视角重建需去除异常贡献时，按跨视图光度一致性而非全局不透明度筛选。 |
+| 大语言模型 | 数据策略 | [NADS: Navigator-Guided Data Selection for Mitigating Catastrophic Forgetting in Fine-Tuning](cards-0008.md#paper-148869) | 新任务微调时，用先试跑后的能力漂移选择哪些合成样本值得蒸馏。 |
+| 科学机器学习 | 优化 | [NAGO: Noise-Aware Generative Operator via Flow Matching](cards-0008.md#paper-149607) | 函数空间采样先匹配基础噪声和目标场的正则度。 |
+| 计算机视觉 | 模型架构 | [NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis](cards-0008.md#paper-151031) | 稀疏视角合成时，比较跨视图并行的粗到细生成与逐步去噪。 |
+| 大语言模型 | 评测与诊断 | [Narrowing the Collaboration Gap, Probably](cards-0008.md#paper-155517) | 协作时交换经过校准的行动概率。 |
+| 强化学习 | 损失函数 | [NASDAQ: Normalized Observation Space Dynamics-Augmented Q-Learning](cards-0008.md#paper-151396) | 观测预测按维度归一，避免不同数值单位控制梯度。 |
+| 强化学习 | 模型架构 | [NashDreamer: Model-Based Reinforcement Learning for Zero-Sum Imperfect-Information Games](cards-0008.md#paper-151300) | 不完全信息博弈将动力学与对手对观测的作用分开。 |
+| 强化学习 | 理论与统计 | [Nash Social Welfare for Multi Armed Bandits: Trajectory-wise Expected and High Probability Regret](cards-0008.md#paper-149815) | 公平老虎机按完整轨迹算几何收益。 |
+| 多模态学习 | 模型架构 | [Native Audio-Visual Alignment for Generation](cards-0008.md#paper-148987) | 先对齐声音与画面，再用外部语义条件控制。 |
+| 机器学习基础与统计 | 模块 | [Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions](cards-0008.md#paper-151760) | 高维长程模型保留原生几何。 |
+| 计算机视觉 | 评测与诊断 | [Natural Jammers: When Non-Robust Features Become Antagonistic](cards-0008.md#paper-149318) | 自然鲁棒性需统计修复与新错误。 |
+| 大语言模型 | 强化学习方法 | [Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space](cards-0008.md#paper-150763) | 离线良性推理可验证语言价值反馈。 |
+| 强化学习 | 理论与统计 | [Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework](cards-0008.md#paper-148265) | 用平滑 Bellman 框架分析自然策略梯度。 |
+| 机器学习基础与统计 | 评测与诊断 | [Natural Synthesis: Outperforming Reactive Synthesis Tools with Large Reasoning Models](cards-0008.md#paper-152164) | 良性硬件综合用模型检查分别验证规格和实现。 |
+| 大语言模型 | 评测与诊断 | [Navigating by Old Maps: The Pitfalls of Static Mechanistic Localization in LLM Post-Training](cards-0008.md#paper-149853) | 定位再微调需要跨检查点复核电路。 |
+| 机器人学 | 数据策略 | [NavOCR: A Dataset Generator for Navigation-Relevant Text Detection in Mobile Robots](cards-0008.md#paper-139357) | 导航文字按是否能标识地点筛标签。 |
+| 机器人学 | 推理策略 | [NDPP-Grasp: Non-Differentiable Physical Plausibility Constraint-Guided Task-Oriented Dexterous Grasp Generation](cards-0008.md#paper-154479) | 灵巧抓取将物理可行性放进生成过程验收。 |
+| 机器学习基础与统计 | 理论与统计 | [Nearest-Neighbor Radii under Dependent Sampling](cards-0008.md#paper-150949) | 时间依赖下最近邻误差分析使用局部内在维数。 |
+| 机器学习基础与统计 | 优化 | [Near-Linear Time Generalized Sinkhorn Algorithms for Bounded Genus Graphs](cards-0008.md#paper-155409) | 测地距离运输优先以图分隔器压缩乘法。 |
+| 机器学习基础与统计 | 优化 | [Nearly-Optimal Algorithm for Adversarial Kernelized Bandits](cards-0008.md#paper-155486) | 对抗核 bandit 可用信息增益选择近似预算。 |
+| 机器学习基础与统计 | 理论与统计 | [Nearly Optimal Attention Coresets](cards-0008.md#paper-149541) | 压缩注意缓存前按查询范数评估可统一保真的子集大小。 |
+| 机器学习基础与统计 | 优化 | [Nearly Optimal Bounds for Orthogonal Trace-Sum Maximization](cards-0008.md#paper-152603) | 正交迹和在噪声允许时比较幂法与凸松弛。 |
+| 机器学习基础与统计 | 优化 | [Nearly Optimal Fixed-Confidence Best-Arm Identification with 1-Bit Feedback](cards-0008.md#paper-155304) | 单比特选臂以自适应裁剪把观测分辨率对准当前差距。 |
+| 机器学习基础与统计 | 理论与统计 | [Nearly Optimal Robust Covariance and Scatter Matrix Estimation Beyond Gaussians](cards-0008.md#paper-149150) | 椭圆重尾协方差先估角向结构再校验径向。 |
+| 机器学习基础与统计 | 优化 | [Near-Optimal Best-of-Both-Worlds Algorithms for Decoupled Exploration and Exploitation in Multi-armed Bandits](cards-0008.md#paper-155826) | 可独立探测时分开选行动臂与观测臂。 |
+| 机器学习基础与统计 | 优化 | [Near-Optimal Decentralized Stochastic Convex Optimization over Networks](cards-0008.md#paper-149643) | 分布式随机优化按网络谱隙设置可用工作者规模。 |
+| 机器学习基础与统计 | 理论与统计 | [Near-optimal Explainable $k$-means Clustering under $\ell_p$ Norm](cards-0008.md#paper-152118) | 可解释聚类验收多给少量叶子的几何代价。 |
+| 强化学习 | 优化 | [Near-Optimal Last-Iterate Convergence for Zero-Sum Games with Bandit Feedback and Opponent Actions](cards-0008.md#paper-154870) | 零和博弈记录对手动作可显著改善末策略保证。 |
+| 机器学习基础与统计 | 优化 | [Near-Optimal Learning in Parametric Bandits with Action-Dependent Coarsened Feedback](cards-0008.md#paper-148628) | 反馈粗细受所选行动影响时按任务共享置信集。 |
+| 机器学习基础与统计 | 优化 | [Near-Optimal Regret in Adversarial Kernel Bandits](cards-0008.md#paper-150353) | 对抗核 bandit 显式补偿正则估计偏差。 |
+| 机器学习基础与统计 | 理论与统计 | [Near-Optimal Stochastic Linear Bandits with Delay](cards-0008.md#paper-149837) | 先区分反馈延迟是否依赖当次结果，再选在线学习方法。 |
+| 大语言模型 | 评测与诊断 | [Necessary but Not Sufficient: Spectral Tests for Value-Linear Attention Surrogates](cards-0008.md#paper-153539) | 用注意矩阵的谱下界先拒绝状态太小的替代递推。 |
+| 大语言模型 | 强化学习方法 | [Need-Aware Multi-Objective Reinforcement Learning for Emotionally Intelligent LLM Agents](cards-0008.md#paper-150564) | 多目标对话用当前状态改变奖励权重并独立测延迟效果。 |
+| 大语言模型 | 数据策略 | [Negation Neglect: When models fail to learn negations in training](cards-0008.md#paper-149048) | 知识纠错训练应把否定写入命题内部。 |
+| 强化学习 | 强化学习方法 | [Negative-Only Policy Optimization for One-Sided Verifiable Rewards](cards-0008.md#paper-152610) | 只会否证的验证器不应奖励未否证项。 |
+| 强化学习 | 理论与统计 | [Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](cards-0008.md#paper-153134) | 用强化策略与参考之间的动作概率比做进展诊断。 |
+| 大语言模型 | 强化学习方法 | [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](cards-0008.md#paper-155022) | 训练域的验证延迟和响应长度差异大时，比较逐域强化与混域批处理。 |
+| 计算机视觉 | 优化 | [NeRFix: fixing subtle mistakes in the quadrature of the NeRF volumetric integral](cards-0008.md#paper-153568) | NeRF 体渲染出现收敛偏差时，检查离散求积实现。 |
+| 机器学习基础与统计 | 优化 | [Nerve-Skeleton Message Passing for Federated Optimization with Overlapping Parameters](cards-0008.md#paper-149655) | 局部变量只与相邻客户端重叠时，按重叠结构做两阶段消元。 |
+| 机器人学 | 模型架构 | [NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Model](cards-0008.md#paper-152507) | 独立学成的技能因参数冲突难合并时，按任务生成适配参数。 |
+| 强化学习 | 训练策略 | [NestRL: A Nested Training Regime for Mutual Adaptation in Human–AI Teaming](cards-0008.md#paper-151397) | 训练协作代理时，用会适应的较低层搭档取代只随机抽静态伙伴。 |
+| 图学习 | 优化 | [Network Learning with Semi-relaxed Gromov-Wasserstein](cards-0008.md#paper-155105) | 未知节点对应的网络生成结构估计中，用概率耦合松弛难解指派。 |
+| 机器学习基础与统计 | 训练策略 | [Network of Theseus (Like the ship)](cards-0008.md#paper-151706) | 希望换成更便于部署的架构时，逐模块替换而非直接从头重训。 |
+| 机器学习基础与统计 | 理论与统计 | [Neural Backward Filtering Forward Guiding](cards-0008.md#paper-153704) | 树上随机过程平滑中，用线性代理后向滤波引导，再学习非线性残差。 |
+| 机器学习基础与统计 | 推理策略 | [Neural Bayesian Filtering](cards-0008.md#paper-154508) | 长程贝叶斯过滤粒子退化时，从压缩分布嵌入重新生成粒子。 |
+| 机器学习基础与统计 | 理论与统计 | [Neural Causal Models under Markov Equivalence](cards-0008.md#paper-150107) | 观测数据只能确定 Markov 等价类时，报告介入效应范围而非任选一个图。 |
+| 科学机器学习 | 模型架构 | [Neural Circuit Architectural Priors for Rat Locomotion](cards-0008.md#paper-149313) | 具身神经模拟应单独比较神经到机械的接口。 |
+| 机器学习基础与统计 | 优化 | [Neural Compression of Long ADMM Trajectory for Multiparametric Quadratic Program](cards-0008.md#paper-149158) | 实时约束求解用少量可验证的迭代细化神经热启动。 |
+| 大语言模型 | 模型架构 | [Neural Continuous-Time Markov Chain: Discrete Diffusion via Decoupled Jump Timing and Direction](cards-0008.md#paper-156096) | 离散扩散分解状态何时跳转与跳到哪里。 |
+| 科学机器学习 | 模型架构 | [Neural-Corrected Operator Learning for Homogenization and Inverse Design](cards-0008.md#paper-154855) | 下游逆设计需要可靠敏感度时，在解析核上学习残差。 |
+| 科学机器学习 | 表征学习 | [Neural-DISCO: Source-Conditioned Counterfactual Editing of Neural Population Activity](cards-0008.md#paper-151844) | 验证条件反事实时保留源样本未标注残差。 |
+| 机器学习基础与统计 | 优化 | [Neural Dual Bounds: Valid-by-Construction JGLP Warm-Starts for MAP and Constrained MAP](cards-0008.md#paper-150753) | 图模型 MAP 热启动输出可行的对偶消息。 |
+| 机器学习基础与统计 | 评测与诊断 | [Neural Expansion: A Unified Mechanism for How Deep Neural Network Generalize](cards-0008.md#paper-153306) | 用方向稳定区间观察泛化如何增长。 |
+| 科学机器学习 | 理论与统计 | [NeuralFieldManifold: Reconstruction of LFP manifold with Lag Embedding](cards-0008.md#paper-155903) | 多振荡信号的时延嵌入可保留低维周期几何。 |

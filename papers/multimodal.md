@@ -778,5 +778,8 @@
 - [MSCR: Jointly Balancing Modality Utilization and Discovering Synergistic Information](../conferences/neurips-2026/cards-0008.md#paper-150032)
 - [MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data](../conferences/neurips-2026/cards-0008.md#paper-150756)
 - [Multimodal AI Detection In Two Words](../conferences/neurips-2026/cards-0008.md#paper-148150)
+- [Multi-view Relational Distillation for Spatial Reasoning with Vision-Language Models](../conferences/neurips-2026/cards-0008.md#paper-152091)
+- [MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation](../conferences/neurips-2026/cards-0008.md#paper-154839)
+- [Native Audio-Visual Alignment for Generation](../conferences/neurips-2026/cards-0008.md#paper-148987)
 
 <!-- conference-classification:end -->

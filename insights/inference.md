@@ -1207,5 +1207,10 @@
 - [MotionCFG: Boosting Motion Dynamics via Semantic Motion Sharpening](../conferences/neurips-2026/cards-0008.md#paper-150155)
 - [MPQ: A Message-Passing View of Post-Training Quantization](../conferences/neurips-2026/cards-0008.md#paper-148188)
 - [Multilevel and Sequential Monte Carlo for Training-Free Diffusion Guidance](../conferences/neurips-2026/cards-0008.md#paper-152830)
+- [Multi-Token Residual Prediction](../conferences/neurips-2026/cards-0008.md#paper-154026)
+- [Mutable Transcripts: Mitigating Context Pollution through Editable Conversation State](../conferences/neurips-2026/cards-0008.md#paper-153229)
+- [MVPISplat: Multi-View Photometric Inconsistency for Defending 3D Gaussian Splatting Attacks](../conferences/neurips-2026/cards-0008.md#paper-153526)
+- [NDPP-Grasp: Non-Differentiable Physical Plausibility Constraint-Guided Task-Oriented Dexterous Grasp Generation](../conferences/neurips-2026/cards-0008.md#paper-154479)
+- [Neural Bayesian Filtering](../conferences/neurips-2026/cards-0008.md#paper-154508)
 
 <!-- conference-classification:end -->

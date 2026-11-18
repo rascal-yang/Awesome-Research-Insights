@@ -1455,5 +1455,16 @@
 - [Multimodal AI Detection In Two Words](../conferences/neurips-2026/cards-0008.md#paper-148150)
 - [Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](../conferences/neurips-2026/cards-0008.md#paper-152201)
 - [Multi-Oracle Agreement Reveals the Limits of Self-Consistency Evaluation in RNA Design](../conferences/neurips-2026/cards-0008.md#paper-139186)
+- [Multi-site PPG: An In-the-Wild Physiological Dataset from Emerging Multi-Site Wearables](../conferences/neurips-2026/cards-0008.md#paper-139177)
+- [Multi-Stage Planning from Single-Stage Data: Reinforcement Learning Helps Composition but Requires Anchoring](../conferences/neurips-2026/cards-0008.md#paper-154469)
+- [MultiSTEVE-1s: A Model Zoo and Interpretability Suite for Instruction-Following Vision Agents](../conferences/neurips-2026/cards-0008.md#paper-149156)
+- [Narrowing the Collaboration Gap, Probably](../conferences/neurips-2026/cards-0008.md#paper-155517)
+- [Natural Jammers: When Non-Robust Features Become Antagonistic](../conferences/neurips-2026/cards-0008.md#paper-149318)
+- [Natural Synthesis: Outperforming Reactive Synthesis Tools with Large Reasoning Models](../conferences/neurips-2026/cards-0008.md#paper-152164)
+- [Navigating by Old Maps: The Pitfalls of Static Mechanistic Localization in LLM Post-Training](../conferences/neurips-2026/cards-0008.md#paper-149853)
+- [Necessary but Not Sufficient: Spectral Tests for Value-Linear Attention Surrogates](../conferences/neurips-2026/cards-0008.md#paper-153539)
+- [Neural Expansion: A Unified Mechanism for How Deep Neural Network Generalize](../conferences/neurips-2026/cards-0008.md#paper-153306)
+- [Neural networks are more modular than single neurons suggest](../conferences/neurips-2026/cards-0009.md#paper-155584)
+- [Neural Neural Scaling Laws](../conferences/neurips-2026/cards-0009.md#paper-154166)
 
 <!-- conference-classification:end -->

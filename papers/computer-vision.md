@@ -985,5 +985,10 @@
 - [Multilevel and Sequential Monte Carlo for Training-Free Diffusion Guidance](../conferences/neurips-2026/cards-0008.md#paper-152830)
 - [Multimodal Context-Aware Human Motion Generation with Language, Vision, and Object](../conferences/neurips-2026/cards-0008.md#paper-151367)
 - [Multi-Part Object Representations via Graph Structures and Co-Part Discovery](../conferences/neurips-2026/cards-0008.md#paper-150151)
+- [MvFFN: Multi-view Floor-Plan Feed-Forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction](../conferences/neurips-2026/cards-0008.md#paper-153655)
+- [MVPISplat: Multi-View Photometric Inconsistency for Defending 3D Gaussian Splatting Attacks](../conferences/neurips-2026/cards-0008.md#paper-153526)
+- [NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis](../conferences/neurips-2026/cards-0008.md#paper-151031)
+- [Natural Jammers: When Non-Robust Features Become Antagonistic](../conferences/neurips-2026/cards-0008.md#paper-149318)
+- [NeRFix: fixing subtle mistakes in the quadrature of the NeRF volumetric integral](../conferences/neurips-2026/cards-0008.md#paper-153568)
 
 <!-- conference-classification:end -->

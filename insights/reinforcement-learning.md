@@ -591,5 +591,13 @@
 - [Mitigating Retaliatory Algorithmic Collusion in Repeated Games](../conferences/neurips-2026/cards-0008.md#paper-149336)
 - [Mode-Controlled Policy Optimization: A Geometry-Aware Recipe for LLM Post-Training](../conferences/neurips-2026/cards-0008.md#paper-150744)
 - [Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution](../conferences/neurips-2026/cards-0008.md#paper-154005)
+- [Multi-Step Likelihood-Ratio Correction for Reinforcement Learning with Verifiable Rewards](../conferences/neurips-2026/cards-0008.md#paper-152849)
+- [Multi-Turn RL Makes Small Language Model Competitive for Optimization Modeling](../conferences/neurips-2026/cards-0008.md#paper-152943)
+- [MURPHY: Feedback-Aware GRPO with Retrospective Credit Assignment for Multi-Turn Code Generation](../conferences/neurips-2026/cards-0008.md#paper-151688)
+- [Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space](../conferences/neurips-2026/cards-0008.md#paper-150763)
+- [Need-Aware Multi-Objective Reinforcement Learning for Emotionally Intelligent LLM Agents](../conferences/neurips-2026/cards-0008.md#paper-150564)
+- [Negative-Only Policy Optimization for One-Sided Verifiable Rewards](../conferences/neurips-2026/cards-0008.md#paper-152610)
+- [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](../conferences/neurips-2026/cards-0008.md#paper-155022)
+- [Neural Garbage Collection: Learning to Forget while Learning to Reason](../conferences/neurips-2026/cards-0009.md#paper-151937)
 
 <!-- conference-classification:end -->

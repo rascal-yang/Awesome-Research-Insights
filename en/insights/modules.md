@@ -383,5 +383,7 @@ Reusable components and local changes to model inputs or connections.
 - [MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup](../../conferences/neurips-2026/cards-0008.md#paper-154940)
 - [MoT3DVG: A Benchmark for Outdoor 3D Visual Grounding with Motion-Aware Descriptions and Temporal Cues](../../conferences/neurips-2026/cards-0008.md#paper-139417)
 - [MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling](../../conferences/neurips-2026/cards-0008.md#paper-151404)
+- [Multiple Instance Verification](../../conferences/neurips-2026/cards-0008.md#paper-156670)
+- [Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions](../../conferences/neurips-2026/cards-0008.md#paper-151760)
 
 <!-- conference-classification:end -->

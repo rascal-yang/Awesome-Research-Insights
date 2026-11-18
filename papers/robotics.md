@@ -750,5 +750,9 @@
 - [MorphoGen: Free-Form XML Evolution for Robot Morphology Design](../conferences/neurips-2026/cards-0008.md#paper-150325)
 - [Motion Cues from Image-based Point Tracking for LiDAR Scene Flow Estimation](../conferences/neurips-2026/cards-0008.md#paper-152171)
 - [MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding](../conferences/neurips-2026/cards-0008.md#paper-154831)
+- [MultiSTEVE-1s: A Model Zoo and Interpretability Suite for Instruction-Following Vision Agents](../conferences/neurips-2026/cards-0008.md#paper-149156)
+- [NavOCR: A Dataset Generator for Navigation-Relevant Text Detection in Mobile Robots](../conferences/neurips-2026/cards-0008.md#paper-139357)
+- [NDPP-Grasp: Non-Differentiable Physical Plausibility Constraint-Guided Task-Oriented Dexterous Grasp Generation](../conferences/neurips-2026/cards-0008.md#paper-154479)
+- [NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Model](../conferences/neurips-2026/cards-0008.md#paper-152507)
 
 <!-- conference-classification:end -->

@@ -605,5 +605,18 @@
 - [MOVEBENCH: A Benchmark for Global-Scale Wildlife Movement Forecasting](../conferences/neurips-2026/cards-0008.md#paper-139749)
 - [Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](../conferences/neurips-2026/cards-0008.md#paper-152201)
 - [Multi-Oracle Agreement Reveals the Limits of Self-Consistency Evaluation in RNA Design](../conferences/neurips-2026/cards-0008.md#paper-139186)
+- [Multiscale Microenvironment Vector Space Projection for Uncovering Diverse Pathological Biomarker](../conferences/neurips-2026/cards-0008.md#paper-156107)
+- [Multi-Scale Representation Learning for Single-Cell Multi-Omics](../conferences/neurips-2026/cards-0008.md#paper-150703)
+- [Multi-site PPG: An In-the-Wild Physiological Dataset from Emerging Multi-Site Wearables](../conferences/neurips-2026/cards-0008.md#paper-139177)
+- [NAGO: Noise-Aware Generative Operator via Flow Matching](../conferences/neurips-2026/cards-0008.md#paper-149607)
+- [Neural Circuit Architectural Priors for Rat Locomotion](../conferences/neurips-2026/cards-0008.md#paper-149313)
+- [Neural-Corrected Operator Learning for Homogenization and Inverse Design](../conferences/neurips-2026/cards-0008.md#paper-154855)
+- [Neural-DISCO: Source-Conditioned Counterfactual Editing of Neural Population Activity](../conferences/neurips-2026/cards-0008.md#paper-151844)
+- [NeuralFieldManifold: Reconstruction of LFP manifold with Lag Embedding](../conferences/neurips-2026/cards-0008.md#paper-155903)
+- [Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation](../conferences/neurips-2026/cards-0009.md#paper-149376)
+- [Neural Fractional Stochastic Differential Equations](../conferences/neurips-2026/cards-0009.md#paper-150228)
+- [Neural Harmonic Measure Operator](../conferences/neurips-2026/cards-0009.md#paper-151113)
+- [Neural Modal Decomposition: Architectural Priors from Observables](../conferences/neurips-2026/cards-0009.md#paper-149285)
+- [Neural Operator-based Curriculum Learning for Physics-Informed Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-151141)
 
 <!-- conference-classification:end -->

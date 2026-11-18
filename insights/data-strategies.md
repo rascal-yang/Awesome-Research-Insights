@@ -343,5 +343,8 @@
 - [Model Distribution-Aware Multimodal Dataset Distillation](../conferences/neurips-2026/cards-0008.md#paper-148787)
 - [MoRe-DVC: Motion Retrieval-Augmented Generation for Detailed Video Captioning](../conferences/neurips-2026/cards-0008.md#paper-152051)
 - [MosaicMRI: A Diverse Dataset and Benchmark for Raw Musculoskeletal MRI](../conferences/neurips-2026/cards-0008.md#paper-139818)
+- [NADS: Navigator-Guided Data Selection for Mitigating Catastrophic Forgetting in Fine-Tuning](../conferences/neurips-2026/cards-0008.md#paper-148869)
+- [NavOCR: A Dataset Generator for Navigation-Relevant Text Detection in Mobile Robots](../conferences/neurips-2026/cards-0008.md#paper-139357)
+- [Negation Neglect: When models fail to learn negations in training](../conferences/neurips-2026/cards-0008.md#paper-149048)
 
 <!-- conference-classification:end -->

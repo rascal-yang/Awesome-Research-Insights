@@ -537,5 +537,9 @@
 - [MOSAIC: Concept Bottlenecks via Text-Anchored Optimal Transport](../conferences/neurips-2026/cards-0008.md#paper-151875)
 - [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](../conferences/neurips-2026/cards-0008.md#paper-153679)
 - [Multi-Part Object Representations via Graph Structures and Co-Part Discovery](../conferences/neurips-2026/cards-0008.md#paper-150151)
+- [Multiscale Microenvironment Vector Space Projection for Uncovering Diverse Pathological Biomarker](../conferences/neurips-2026/cards-0008.md#paper-156107)
+- [Mutual Predictability Decomposition: Learning Interpretable Cross-Set Structure via Bi-Directional Prediction](../conferences/neurips-2026/cards-0008.md#paper-148650)
+- [MvFFN: Multi-view Floor-Plan Feed-Forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction](../conferences/neurips-2026/cards-0008.md#paper-153655)
+- [Neural-DISCO: Source-Conditioned Counterfactual Editing of Neural Population Activity](../conferences/neurips-2026/cards-0008.md#paper-151844)
 
 <!-- conference-classification:end -->

@@ -359,5 +359,8 @@
 - [MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer](../conferences/neurips-2026/cards-0008.md#paper-153439)
 - [MSCR: Jointly Balancing Modality Utilization and Discovering Synergistic Information](../conferences/neurips-2026/cards-0008.md#paper-150032)
 - [Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems](../conferences/neurips-2026/cards-0008.md#paper-149537)
+- [Multivariate Time Series Forecasting needs Cross Variable Loss](../conferences/neurips-2026/cards-0008.md#paper-150730)
+- [Multi-view Relational Distillation for Spatial Reasoning with Vision-Language Models](../conferences/neurips-2026/cards-0008.md#paper-152091)
+- [NASDAQ: Normalized Observation Space Dynamics-Augmented Q-Learning](../conferences/neurips-2026/cards-0008.md#paper-151396)
 
 <!-- conference-classification:end -->

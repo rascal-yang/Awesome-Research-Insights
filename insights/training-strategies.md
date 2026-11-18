@@ -764,5 +764,9 @@
 - [Multi-Agent Coordination via Support-Preserving Distillation](../conferences/neurips-2026/cards-0008.md#paper-152690)
 - [Multilingual Safety Alignment via Self-Distillation](../conferences/neurips-2026/cards-0008.md#paper-151163)
 - [Multimodal Context-Aware Human Motion Generation with Language, Vision, and Object](../conferences/neurips-2026/cards-0008.md#paper-151367)
+- [MUX: Continuous Reasoning via Multiplexed Tokens](../conferences/neurips-2026/cards-0008.md#paper-151022)
+- [NestRL: A Nested Training Regime for Mutual Adaptation in Human–AI Teaming](../conferences/neurips-2026/cards-0008.md#paper-151397)
+- [Network of Theseus (Like the ship)](../conferences/neurips-2026/cards-0008.md#paper-151706)
+- [Neural Operator-based Curriculum Learning for Physics-Informed Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-151141)
 
 <!-- conference-classification:end -->

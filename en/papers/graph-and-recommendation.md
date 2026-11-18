@@ -319,5 +319,6 @@ Graph models, knowledge graphs, and recommender systems.
 - [Module-Aware Optimization for Graph Neural Networks](../../conferences/neurips-2026/cards-0008.md#paper-149961)
 - [Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems](../../conferences/neurips-2026/cards-0008.md#paper-149537)
 - [Multilateral Resistance-Guided Graph Message Passing for Trade Flow Prediction](../../conferences/neurips-2026/cards-0008.md#paper-154787)
+- [Network Learning with Semi-relaxed Gromov-Wasserstein](../../conferences/neurips-2026/cards-0008.md#paper-155105)
 
 <!-- conference-classification:end -->

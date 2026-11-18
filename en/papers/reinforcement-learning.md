@@ -611,5 +611,15 @@ Learning from interaction, feedback, and offline experience.
 - [Multi-Environment POMDPs with Finite-Horizon Objectives](../../conferences/neurips-2026/cards-0008.md#paper-155767)
 - [Multi-Objective Causal Bandits: Minimal Intervention Space and Policy-Level Learning](../../conferences/neurips-2026/cards-0008.md#paper-150149)
 - [Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution](../../conferences/neurips-2026/cards-0008.md#paper-154005)
+- [Multi-Stage Planning from Single-Stage Data: Reinforcement Learning Helps Composition but Requires Anchoring](../../conferences/neurips-2026/cards-0008.md#paper-154469)
+- [Multi-Step Likelihood-Ratio Correction for Reinforcement Learning with Verifiable Rewards](../../conferences/neurips-2026/cards-0008.md#paper-152849)
+- [NASDAQ: Normalized Observation Space Dynamics-Augmented Q-Learning](../../conferences/neurips-2026/cards-0008.md#paper-151396)
+- [NashDreamer: Model-Based Reinforcement Learning for Zero-Sum Imperfect-Information Games](../../conferences/neurips-2026/cards-0008.md#paper-151300)
+- [Nash Social Welfare for Multi Armed Bandits: Trajectory-wise Expected and High Probability Regret](../../conferences/neurips-2026/cards-0008.md#paper-149815)
+- [Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework](../../conferences/neurips-2026/cards-0008.md#paper-148265)
+- [Near-Optimal Last-Iterate Convergence for Zero-Sum Games with Bandit Feedback and Opponent Actions](../../conferences/neurips-2026/cards-0008.md#paper-154870)
+- [Negative-Only Policy Optimization for One-Sided Verifiable Rewards](../../conferences/neurips-2026/cards-0008.md#paper-152610)
+- [Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](../../conferences/neurips-2026/cards-0008.md#paper-153134)
+- [NestRL: A Nested Training Regime for Mutual Adaptation in Human–AI Teaming](../../conferences/neurips-2026/cards-0008.md#paper-151397)
 
 <!-- conference-classification:end -->
