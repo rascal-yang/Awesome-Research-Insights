@@ -1345,4 +1345,5 @@
 - <a id="zhu26r-theory-statistics"></a>[A Short and Unified Convergence Analysis of the SAG, SAGA, and IAG Algorithms](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26r)
 - <a id="zhu26z-theory-statistics"></a>[Conformal Risk-Averse Decision Making with Action Conditional Guarantee](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26z)
 - <a id="zhu26aa-theory-statistics"></a>[Sparse Bayesian Deep Functional Learning with Structured Region Selection](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26aa)
+- <a id="zhu26ax-theory-statistics"></a>[Stochastic Gradient Methods under Heavy-Tailed Noises in Weakly Convex Optimization](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ax)
 <!-- classification:end -->

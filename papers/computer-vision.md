@@ -76,6 +76,7 @@
 - <a id="yu26z-architecture"></a>[Autoregressive Image Generation with Masked Bit Modeling](../conferences/icml-2026/cards/5501-5600.md#paper-yu26z)
 - <a id="zhang26jj-architecture"></a>[Transform Trained Transformer for Accelerating Native 4K Video Generation](../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jj)
 - <a id="zhu26v-architecture"></a>[Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26v)
+- <a id="zhu26az-architecture"></a>[PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26az)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -366,6 +367,7 @@
 - <a id="zhang26iw-training-strategies"></a>[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iw)
 - <a id="zhao26bx-training-strategies"></a>[Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bx)
 - <a id="zhou26g-training-strategies"></a>[SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26g)
+- <a id="zhu26bf-training-strategies"></a>[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26bf)
 
 <a id="by-data-strategies"></a>
 

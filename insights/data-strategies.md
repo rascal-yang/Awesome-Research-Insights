@@ -102,6 +102,7 @@
 - [用固定token替换实验拆分code与结构推理数据](../conferences/icml-2026/cards/6001-6100.md#zhao26k-data-strategies) · What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code
 - [按奖励偏好方向共识筛rollout](../conferences/icml-2026/cards/6101-6200.md#zhou26ad-data-strategies) · GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning
 - [固定词表扩充合并token时保护merge依赖](../conferences/icml-2026/cards/6201-6300.md#zhu26af-data-strategies) · From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction
+- [RLVR先缩短rollout上限再回长的条件经验](../conferences/icml-2026/cards/6201-6300.md#zhu26bb-data-strategies) · DRIVE: Best Data Scheduling Practices for Reinforcement Learning with Verifiable Reward in Competitive Code Generation
 
 <a id="by-computer-vision"></a>
 

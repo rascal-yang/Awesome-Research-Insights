@@ -174,6 +174,7 @@
 - [压缩视图训练与原始字节推理](../conferences/icml-2026/cards/6101-6200.md#zheng26e-training-strategies) · Proxy Compression for Language Modeling
 - [先测扰动均值偏移再校正分类logit](../conferences/icml-2026/cards/6101-6200.md#zhou26a-training-strategies) · Harnessing Non-Adversarial Robustness in Large Language Models
 - [学习SFT/RL/丢弃的逐样本策略门控](../conferences/icml-2026/cards/6201-6300.md#zhou26bs-training-strategies) · Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models
+- [用相反初始判决训练选择性反思](../conferences/icml-2026/cards/6201-6300.md#zhu26aw-training-strategies) · CAMEL: Confidence-Gated Reflection for Reward Modeling
 
 <a id="by-computer-vision"></a>
 
@@ -262,6 +263,7 @@
 - [先语义压缩再放开像素梯度](../conferences/icml-2026/cards/5901-6000.md#zhang26iw-training-strategies) · Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing
 - [用区间平均速度指导flow蒸馏](../conferences/icml-2026/cards/6001-6100.md#zhao26bx-training-strategies) · Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models
 - [配对spike与surrogate原函数通路做SSL](../conferences/icml-2026/cards/6101-6200.md#zhou26g-training-strategies) · SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks
+- [AR diffusion学生的ODE初始化匹配条件信息](../conferences/icml-2026/cards/6201-6300.md#zhu26bf-training-strategies) · Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation
 
 <a id="by-nlp"></a>
 

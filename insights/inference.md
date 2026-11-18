@@ -582,6 +582,7 @@
 - [按状态到达概率组合预训练GFlowNet](../conferences/icml-2026/cards/5501-5600.md#yoon26a-inference) · Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation
 - [按奖励梯度冲突混合近似与学习引导](../conferences/icml-2026/cards/5501-5600.md#yu26a-inference) · Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards
 - [奖励参数少更新而Gram探索逐步更新](../conferences/icml-2026/cards/5601-5700.md#yu26an-inference) · Practical and Optimal Algorithm for Linear Contextual Bandits with Rare Parameter Updates
+- [用转移score估计不可微奖励的Doob修正](../conferences/icml-2026/cards/6201-6300.md#zhu26ay-inference) · Training-Free Adaptation of Diffusion Models via Doob’s $h$-Transform
 
 <a id="by-robotics"></a>
 

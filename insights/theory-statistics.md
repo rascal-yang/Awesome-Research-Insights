@@ -682,6 +682,7 @@
 - [用最大梯度陈旧度统一选择步长](../conferences/icml-2026/cards/6201-6300.md#zhu26r-theory-statistics) · A Short and Unified Convergence Analysis of the SAG, SAGA, and IAG Algorithms
 - [按最终动作校准风险厌恶决策集合](../conferences/icml-2026/cards/6201-6300.md#zhu26z-theory-statistics) · Conformal Risk-Averse Decision Making with Action Conditional Guarantee
 - [以局部基支撑连接神经输入选择和函数区域](../conferences/icml-2026/cards/6201-6300.md#zhu26aa-theory-statistics) · Sparse Bayesian Deep Functional Learning with Structured Region Selection
+- [重尾弱凸目标选择是否裁剪及阈值增长](../conferences/icml-2026/cards/6201-6300.md#zhu26ax-theory-statistics) · Stochastic Gradient Methods under Heavy-Tailed Noises in Weakly Convex Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

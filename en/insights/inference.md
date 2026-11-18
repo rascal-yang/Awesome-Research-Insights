@@ -582,6 +582,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../../conferences/icml-2026/cards/5501-5600.md#yoon26a-inference) · 中文
 - [Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards](../../conferences/icml-2026/cards/5501-5600.md#yu26a-inference) · 中文
 - [Practical and Optimal Algorithm for Linear Contextual Bandits with Rare Parameter Updates](../../conferences/icml-2026/cards/5601-5700.md#yu26an-inference) · 中文
+- [Training-Free Adaptation of Diffusion Models via Doob’s $h$-Transform](../../conferences/icml-2026/cards/6201-6300.md#zhu26ay-inference) · 中文
 
 <a id="by-robotics"></a>
 

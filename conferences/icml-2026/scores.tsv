@@ -6270,26 +6270,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6269	zhu26ak	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：图像到图像生成可在同latent Transformer骨干下扫缺失程度和训练数据量比较具体diffusion bridge与线性CFM；要同时看FID/LPIPS与像素误差，不能由较低控制代价推导所有FM不如桥。；边界：同骨干不自动同NFE/训练compute，噪声路径/conditioning需配平。改变DB漂移后controller cost不等总速度能量；CFM的单样本恒速不代表学得marginal场恒速，McCann路径同为线性系数，不接受“t/1−t失效”普遍结论。；初筛整理，原文与先例尚未统一核查。[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26ak/zhu26ak.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26ak/zhu26ak.pdf#page=6)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26ak/zhu26ak.pdf#page=7)	scored
 6270	zhu26al	3	4	4	3	70		初筛，原文与先例核查待补：暂定评分依据：少步生成可用||vcond−vuncond||/||vuncond||而非仅time设置CFG，将高相对差分的样本用指数衰减降guidance；需与现有rescale/APG类幅值规则配平。；边界：r分母是无条件预测范数，近零需稳定化且不是轨迹误差界；α/wmax仍需校准。纯noise独立假设仅理想endpoint不能直接覆盖近endpoint网络，norm比不自动随维数增大；语义/质量指标可能偏好特定guidance。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26al/zhu26al.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26al/zhu26al.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26al/zhu26al.pdf#page=6)	scored
 6271	zhu26am	4	4	3	4	76		初筛，原文与先例核查待补：暂定评分依据：长尾与噪声混合训练可由历史类梯度幅值和方向集中度决定调权：方向一致但弱的类积分积累补量，方向混乱的类比例抑制；用延迟统计避免当前batch调权与噪声直接相关。；边界：单类单调下降定理需有效自身梯度幅度压过所有其他类总干扰且步长足够小，controller不保证任意时刻满足，Imax会限幅。vMF需方向规范化/有效样本，EMA范数非纯集中度；低一致性也可能真类多样性，高一致性错标不一定被识别。；初筛整理，原文与先例尚未统一核查。[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26am/zhu26am.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26am/zhu26am.pdf#page=6)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26am/zhu26am.pdf#page=8)	scored
-6272	zhu26an							待原文复核评分	pending
-6273	zhu26ao							待原文复核评分	pending
-6274	zhu26ap							待原文复核评分	pending
-6275	zhu26aq							待原文复核评分	pending
-6276	zhu26ar							待原文复核评分	pending
-6277	zhu26as							待原文复核评分	pending
-6278	zhu26at							待原文复核评分	pending
-6279	zhu26au							待原文复核评分	pending
-6280	zhu26av							待原文复核评分	pending
-6281	zhu26aw							待原文复核评分	pending
-6282	zhu26ax							待原文复核评分	pending
-6283	zhu26ay							待原文复核评分	pending
-6284	zhu26az							待原文复核评分	pending
-6285	zhu26ba							待原文复核评分	pending
-6286	zhu26bb							待原文复核评分	pending
-6287	zhu26bc							待原文复核评分	pending
-6288	zhu26bd							待原文复核评分	pending
-6289	zhu26be							待原文复核评分	pending
-6290	zhu26bf							待原文复核评分	pending
-6291	zhu26bg							待原文复核评分	pending
+6272	zhu26an							初筛，原文与先例核查待补：两层随机剪枝的inverse-inclusion重加权属于成熟importance/Horvitz–Thompson估计，窗口greedy packing也成熟；当前缓存未隔离超出通用采样校正的新可复用操作。理论明确先略KL/clip、依正inclusion；实作随机保留数与全组advantage的处理待核，不能称已保证完整GRPO不变。PDF3–6。	rule-excluded
+6273	zhu26ao							初筛，原文与先例核查待补：当前K选型结论依summable路由δ_t，而假设每个dense gate权重≤δ_t/M、权重和1即δ_t≥1，不能同时全时域可求和；固定预算bound不是实际loss最优K保证。去掉适用性存疑理论后，增加K与每步成本折中属既有MoE经验，尚无独立可用选择规律。PDF5–6，属初筛疑点待统一核。	rule-excluded
+6274	zhu26ap							初筛，原文与先例核查待补：I-frame/motion-vector/residual三流、motion warp alignment与gated fusion为成熟compressed-domain video表示和融合；换成AIGV判别及整体mAP/提速尚不足独立新通用机制或匹配条件规律。PDF1摘要及缓存方法，最近compressed-video原作待核。	rule-excluded
+6275	zhu26aq							初筛，原文与先例核查待补：activation-covariance加权SVD及按已压缩上游输出重估统计属于成熟sequential/data-aware compression方向，LoRA初始化也为既有加权谱构造；当前材料未明确超出现有SVD-LLM更新的独立操作。局部isotropy不保证全网累计误差更小，式17由两上界直接相减也不足成立。PDF3–5；最近原作待核。	rule-excluded
+6276	zhu26ar							初筛，原文与先例核查待补：SafeSci主要新增风险分类/问答benchmark和训练数据，标准fine-tuning与知识/风险分类尚不独立改变神经模型操作；数据规模和安全领域本身不构成新增机制。仅摘要与高层贡献判定，不提取专用风险内容。	rule-excluded
+6277	zhu26as							初筛，原文与先例核查待补：teacher EMA、NR-IQA改进才更新pseudo库及degraded-input作negative的patch contrastive loss，与成熟restoration contrastive regularization/可靠伪标注同操作；当前未见独立新关系量或受控选择规律。线性attention和门控卷积组合不足。PDF4–5。	rule-excluded
+6278	zhu26at							初筛，原文与先例核查待补：Pareto-set surrogate、preference梯度更新、energy OOD步长抑制及IGD/HV组合均属成熟离线MOO工具；以offline front平移替代IGD reference尚未建立独立可迁移的神经训练选择规律，整体平均rank不足归因新模块。PDF5–6；最近PSL/IGD原作待核。	rule-excluded
+6279	zhu26au							初筛，原文与先例核查待补：augmentation分布与text prototypes作entropic OT、低熵cache加Orthogonal Procrustes为成熟transport prompt adaptation/缓存方法组合；Gaussian Bures分解不保证任意empirical增广分布抗扰动。当前未见超出OT应用的独立新目标或受控取舍。PDF4–5，先例待核。	rule-excluded
+6280	zhu26av	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：蒸馏时按teacher/student概率差有条件开启expert前向项，并仅惩罚student采到的过估计non-expert token；不用固定双KL混合。；GT prefix上逐token采样不是完整on-policy state分布；负权重、q依赖权重是否stop-gradient及近似估计偏差需核。baseline采用单token近似而非完整KL；teacher再训练/GRPO成本、各组件独立效应待核。 PDF3,4,5页。	scored
+6281	zhu26aw	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：训练reward judge时每个pair强制A/B两种初始判决，仅对后续反思和最终判断给RL credit；推理再用判决logprob margin门控反思。；confidence与正确率相关不是校准/可靠性保证；gated各项低于always-reflect，不称质量与成本均严格优。forced verdict训练与自然初判分布不同，阈值5跨域适用及prefix增广独立控制待核；表/正文数值口径冲突需统一。 PDF3,4,5页。	scored
+6282	zhu26ax	4	4	3	4	76		初筛，原文与先例核查待补：暂定新增4/复用4/使用3/独特4：对弱凸非光滑且真subgradient有界的目标，若只有有限p阶中心矩且需高概率稳定，可用随t增长的norm clipping；sub-Weibull更强尾条件下可分析普通SGD。；f弱凸、G-Lipschitz、下有界、无偏stochastic subgradient，p/σ/G已知schedule；不是所有深网全局保证。理论平均Moreau梯度不等实验平均iterate的subgradient，也非last-iterate保证；momentum实验不被无momentum定理直接覆盖，不采minimax最优推断。 PDF3,4,7,8页。	scored
+6283	zhu26ay	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：diffusion推理若reward不可微，可通过Gaussian转移logdensity梯度与终点reward权重的MC比值估计Doob correction，避免对reward反传。；高概率分布逼近声明针对完整rollout Proto和正则/截断/误差条件，不自动覆盖Practical或任意目标；小h对应高方差/截断bias。条件均值送入非线性reward与真实平均reward不同，复用score带额外近似；zero NFE不等零额外时延。 PDF4,5,7页。	scored
+6284	zhu26az	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：octree entropy模型可仅用已解码祖先/坐标一次计算非因果窗口backbone，再让轻量head注入同层已解码occupancy；用同参数切换stage数控制码率与延迟。；非因果只允许对解码前已知信息，若当前occupancy泄漏就破坏codec；head训练覆盖stage与部署一致性需核。beam离散还原依赖intrinsics/量化误差，非完全无损；ancestral depth、窗口和stage变化影响bitrate。 PDF4,5,6页。	scored
+6285	zhu26ba	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：将MLLM改作retriever时，优先测试最后attention后的状态并绕过最后MLP；同时单独控制提问/判决token framing，避免把词表偏置误当语义相似。；相似度probe是相关证据，不证明MLP普遍删除语义；中间层选取已有，最相近embedding原作待核。framing多词选项/语义表述同时变化不等仅token先验因果；跨backbone/任务最优层和rerank额外预算待核。 PDF3,4,5页。	scored
+6286	zhu26bb	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：代码RLVR中测试先把rollout上限降到SFT以下、再恢复长上限并集中hard prompts；不要仅凭stage1即时accuracy选择长度。；stage2同时换数据难度、rollout数与长度，无法把整体收益因果归于长度；完整两阶段32k→32k同预算控制待核。V6含训练题不能当独立泛化，weekly小样本与总token/steps预算限制外推，entropy高不自动更多有效探索。 PDF3,4,6页。	scored
+6287	zhu26bc							初筛，原文与先例核查待补：label监督edge heterophily后指数下权、Beta spectral filters及curvature manifold routing为成熟edge reweight/heterophily GNN/mixed-curvature组合；当前无独立新增操作或预算匹配规律。需明确依标签构edge监督，谱[0,2]是标准normalized Laplacian性质。PDF4–5。	rule-excluded
+6288	zhu26bd							初筛，原文与先例核查待补：跨trajectory用结构化摘要记录evidence/failure/plan，再条件后续搜索与SFT，属于成熟Reflexion/episodic memory/context compression；BrowseComp收益和轮次toolcalls下降未隔离独立新记忆更新规则。摘要/缓存高层流程。	rule-excluded
+6289	zhu26be							初筛，原文与先例核查待补：NIW evidential Student-t head、error×evidence惩罚、gated residual mean和smoothing均为成熟evidential regression/残差适配；点云任务与ranking改善不足证明新通用机制。预测分布有概率形式不等真实校准或epistemic识别，gate也不严格界定均值改变量。PDF4–5。	rule-excluded
+6290	zhu26bf	4	4	3	4	76		初筛，原文与先例核查待补：暂定新增4/复用4/使用3/独特4：将双向video diffusion蒸馏为因果学生时，先用teacher-forced AR teacher生成同clean prefix条件的ODE pairs，再做既有SelfForcing DMD；检查学生可见信息是否足以确定teacher目标。；必须以完整学生信息含history分析conditional variance；仅依当前frame的证明不能自动覆盖history学生，连续样本存在同值不等正概率碰撞。MSE条件均值不自动推出所有图像模糊或生成分布错误；teacher forcing仍有真实prefix与selfprefix偏移，DMD缓解不保证消除。 PDF4,5,6,7页。	scored
+6291	zhu26bg							初筛，原文与先例核查待补：prompt bank/softmax router/reliability gate与PPO选择routing bias/温度及mask refine菜单，属于成熟contextual policy/动态模块选择；双action命名和检出/IoU联合reward未见独立新学习规则或匹配预算规律。PDF4–5。	rule-excluded
 6292	zhu26bh							待原文复核评分	pending
 6293	zhu26bi							待原文复核评分	pending
 6294	zhu26bj							待原文复核评分	pending

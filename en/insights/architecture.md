@@ -141,6 +141,7 @@ Model-wide design and information flow.
 - [Autoregressive Image Generation with Masked Bit Modeling](../../conferences/icml-2026/cards/5501-5600.md#yu26z-architecture) · 中文
 - [Transform Trained Transformer for Accelerating Native 4K Video Generation](../../conferences/icml-2026/cards/6001-6100.md#zhang26jj-architecture) · 中文
 - [Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation](../../conferences/icml-2026/cards/6201-6300.md#zhu26v-architecture) · 中文
+- [PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression](../../conferences/icml-2026/cards/6201-6300.md#zhu26az-architecture) · 中文
 
 <a id="by-nlp"></a>
 

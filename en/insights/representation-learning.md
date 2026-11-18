@@ -218,6 +218,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [MiVE: Multiscale Vision-language features for reference-guided video Editing](../../conferences/icml-2026/cards/4901-5000.md#wang26lv-representation-learning) · 中文
 - [Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering](../../conferences/icml-2026/cards/5201-5300.md#xu26az-representation-learning) · 中文
 - [CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping](../../conferences/icml-2026/cards/6001-6100.md#zhao26l-representation-learning) · 中文
+- [FreeRet: MLLMs as Training-Free Retrievers](../../conferences/icml-2026/cards/6201-6300.md#zhu26ba-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

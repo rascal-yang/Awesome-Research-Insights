@@ -511,6 +511,7 @@
 - <a id="wang26lv-representation-learning"></a>[MiVE: Multiscale Vision-language features for reference-guided video Editing](../conferences/icml-2026/cards/4901-5000.md#paper-wang26lv)
 - <a id="xu26az-representation-learning"></a>[Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering](../conferences/icml-2026/cards/5201-5300.md#paper-xu26az)
 - <a id="zhao26l-representation-learning"></a>[CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26l)
+- <a id="zhu26ba-representation-learning"></a>[FreeRet: MLLMs as Training-Free Retrievers](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ba)
 
 <a id="by-evaluation"></a>
 

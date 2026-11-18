@@ -218,6 +218,7 @@
 - [浅深VLM特征共同条件视频编辑](../conferences/icml-2026/cards/4901-5000.md#wang26lv-representation-learning) · MiVE: Multiscale Vision-language features for reference-guided video Editing
 - [学习相关误差的高斯视图融合](../conferences/icml-2026/cards/5201-5300.md#xu26az-representation-learning) · Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering
 - [用camera几何流构造时序相关noise条件](../conferences/icml-2026/cards/6001-6100.md#zhao26l-representation-learning) · CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping
+- [检索embedding绕过最后MLP](../conferences/icml-2026/cards/6201-6300.md#zhu26ba-representation-learning) · FreeRet: MLLMs as Training-Free Retrievers
 
 <a id="by-ml-foundations"></a>
 

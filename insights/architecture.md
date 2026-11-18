@@ -141,6 +141,7 @@
 - [用条件掩码bit头建模大码本内依赖](../conferences/icml-2026/cards/5501-5600.md#yu26z-architecture) · Autoregressive Image Generation with Masked Bit Modeling
 - [共享投影的多尺度窗口改造](../conferences/icml-2026/cards/6001-6100.md#zhang26jj-architecture) · Transform Trained Transformer for Accelerating Native 4K Video Generation
 - [视频VAE按分辨率与时间上采样位置替换算子](../conferences/icml-2026/cards/6201-6300.md#zhu26v-architecture) · Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation
+- [已解码祖先backbone与轻量因果head分离](../conferences/icml-2026/cards/6201-6300.md#zhu26az-architecture) · PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression
 
 <a id="by-nlp"></a>
 

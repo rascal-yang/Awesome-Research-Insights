@@ -174,6 +174,7 @@ Training schedules, curricula, and task or stage composition.
 - [Proxy Compression for Language Modeling](../../conferences/icml-2026/cards/6101-6200.md#zheng26e-training-strategies) · 中文
 - [Harnessing Non-Adversarial Robustness in Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhou26a-training-strategies) · 中文
 - [Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models](../../conferences/icml-2026/cards/6201-6300.md#zhou26bs-training-strategies) · 中文
+- [CAMEL: Confidence-Gated Reflection for Reward Modeling](../../conferences/icml-2026/cards/6201-6300.md#zhu26aw-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -262,6 +263,7 @@ Training schedules, curricula, and task or stage composition.
 - [Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](../../conferences/icml-2026/cards/5901-6000.md#zhang26iw-training-strategies) · 中文
 - [Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26bx-training-strategies) · 中文
 - [SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks](../../conferences/icml-2026/cards/6101-6200.md#zhou26g-training-strategies) · 中文
+- [Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](../../conferences/icml-2026/cards/6201-6300.md#zhu26bf-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

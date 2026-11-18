@@ -279,6 +279,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="yoon26a-inference"></a>[Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../../conferences/icml-2026/cards/5501-5600.md#paper-yoon26a)
 - <a id="yu26a-inference"></a>[Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26a)
 - <a id="yu26an-inference"></a>[Practical and Optimal Algorithm for Linear Contextual Bandits with Rare Parameter Updates](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26an)
+- <a id="zhu26ay-inference"></a>[Training-Free Adaptation of Diffusion Models via Doob’s $h$-Transform](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ay)
 
 <a id="by-representation-learning"></a>
 

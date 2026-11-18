@@ -197,6 +197,7 @@
 - <a id="zhu26h-loss-functions"></a>[From Guessing to Placeholding: A Cost-Theoretic Framework for Uncertainty-Aware Code Completion](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26h)
 - <a id="zhu26i-loss-functions"></a>[Simple Denoising Diffusion Language Models](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26i)
 - <a id="zhu26ab-loss-functions"></a>[ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ab)
+- <a id="zhu26av-loss-functions"></a>[Hybrid Policy Distillation for LLMs](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26av)
 
 <a id="by-optimization"></a>
 
@@ -682,6 +683,7 @@
 - <a id="zheng26e-training-strategies"></a>[Proxy Compression for Language Modeling](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26e)
 - <a id="zhou26a-training-strategies"></a>[Harnessing Non-Adversarial Robustness in Large Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26a)
 - <a id="zhou26bs-training-strategies"></a>[Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bs)
+- <a id="zhu26aw-training-strategies"></a>[CAMEL: Confidence-Gated Reflection for Reward Modeling](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26aw)
 
 <a id="by-data-strategies"></a>
 
@@ -776,6 +778,7 @@
 - <a id="zhao26k-data-strategies"></a>[What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26k)
 - <a id="zhou26ad-data-strategies"></a>[GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ad)
 - <a id="zhu26af-data-strategies"></a>[From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26af)
+- <a id="zhu26bb-data-strategies"></a>[DRIVE: Best Data Scheduling Practices for Reinforcement Learning with Verifiable Reward in Competitive Code Generation](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26bb)
 
 <a id="by-inference"></a>
 
