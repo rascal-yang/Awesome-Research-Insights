@@ -98,9 +98,9 @@ number	openreview_id	title	paper_url	reason	status
 97	ar3eWq6mh4	UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning	https://openreview.net/forum?id=ar3eWq6mh4	用近期价值趋势触发恢复，并从历史干预中找恢复目标	included
 98	TPeVwyCt8w	Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation	https://openreview.net/forum?id=TPeVwyCt8w	给人工接管前的低效片段重新分配回报	included
 99	kCeFEyLOuW	PAWN: Preference-Aware Semantic NFT for Online Reinforcement Learning of Flow-based VLAs	https://openreview.net/forum?id=kCeFEyLOuW		pending
-100	PNSqN6Bng7	Decision-Centric Counterfactual Preference Optimization for Vision-Language-Action Post-Training	https://openreview.net/forum?id=PNSqN6Bng7		pending
-101	ZDnuAR0GMn	TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics	https://openreview.net/forum?id=ZDnuAR0GMn		pending
-102	AAn8ouEHwO	RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation	https://openreview.net/forum?id=AAn8ouEHwO		pending
+100	PNSqN6Bng7	Decision-Centric Counterfactual Preference Optimization for Vision-Language-Action Post-Training	https://openreview.net/forum?id=PNSqN6Bng7	固定同一观测前缀，只替换第一动作块来形成局部偏好	included
+101	ZDnuAR0GMn	TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics	https://openreview.net/forum?id=ZDnuAR0GMn	用视频语言模型的完成判断概率作为零样本进度信号	included
+102	AAn8ouEHwO	RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation	https://openreview.net/forum?id=AAn8ouEHwO	按单条参考示范匹配进度并在低置信时抑制奖励	included
 103	DBLXUxxslN	FlashRFCL: Demonstration-Efficient Sparse Reward RL via Reverse-Forward Curriculum Learning in High-Throughput GPU Simulation	https://openreview.net/forum?id=DBLXUxxslN		pending
 104	0ua1KHFIUD	HiRE: Hindsight Reward Editing for Policy Finetuning	https://openreview.net/forum?id=0ua1KHFIUD		pending
 105	U3Nmrhun8B	EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models	https://openreview.net/forum?id=U3Nmrhun8B		pending
