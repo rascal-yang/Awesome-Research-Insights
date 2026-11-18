@@ -1482,66 +1482,66 @@ poster_id	title	paper_url	status	reason
 138874	ColdDDI: Evaluating Knowledge Utilization in Cold-Start Drug-Drug Interaction Prediction	https://neurips.cc/virtual/2026/poster/138874	included	用输入遮蔽区分知识可用性和实际使用
 152076	Collaborative Reasoning Distillation via Cross-Feedback and Coherent Curation	https://neurips.cc/virtual/2026/poster/152076	included	在教师答案拼接之前验证过程正确性
 149957	CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models	https://neurips.cc/virtual/2026/poster/149957	included	按局部失败类型分配视频重试预算
-154459	Collapse Hunter: Tackling the Dimensional Degeneration in Generative Ranking	https://neurips.cc/virtual/2026/poster/154459	pending	-
-149747	COLLAR: Cascaded Object-Level Latent Refinement for High-Fidelity Conditional Generation	https://neurips.cc/virtual/2026/poster/149747	pending	-
-154861	Collective Supervision for Unified Biomolecular Conformation and Dynamics Modeling with CoDyna	https://neurips.cc/virtual/2026/poster/154861	pending	-
-139721	ColorConceptBench: A Benchmark for Probabilistic Color-Concept Understanding in Text-to-Image Models	https://neurips.cc/virtual/2026/poster/139721	pending	-
-148997	Colored Noise Diffusion Sampling	https://neurips.cc/virtual/2026/poster/148997	pending	-
-138980	Colosseum: Auditing Collusion in Cooperative Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/138980	pending	-
-151062	Colour me shocked: Exact Molecular Hessians from MLIPs in O(N) time using sparse differentiation!	https://neurips.cc/virtual/2026/poster/151062	pending	-
-154180	CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization	https://neurips.cc/virtual/2026/poster/154180	pending	-
-152926	Combating Camouflage and Forgetting: Spatio-Temporal Dual Denoising for Money Laundering Detection	https://neurips.cc/virtual/2026/poster/152926	pending	-
-148553	Combating Catastrophic Forgetting in Continual Domain Adaptation via Knowledge Recasting	https://neurips.cc/virtual/2026/poster/148553	pending	-
-155652	Combating Data Laundering in LLM Training	https://neurips.cc/virtual/2026/poster/155652	pending	-
-150690	COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection	https://neurips.cc/virtual/2026/poster/150690	pending	-
-151624	CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation	https://neurips.cc/virtual/2026/poster/151624	pending	-
-152607	COMET: Decoupled Distillation, Routing, and Capacity Control for Task-Agnostic Continual Vision--Language Learning	https://neurips.cc/virtual/2026/poster/152607	pending	-
-153350	CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support	https://neurips.cc/virtual/2026/poster/153350	pending	-
-151110	Commit Then Explore: Reasoning Models Diversify, Not Converge	https://neurips.cc/virtual/2026/poster/151110	pending	-
-151353	Communication-Efficient Federated Learning of Latent Patient Representations from Multi-Institutional EHRs	https://neurips.cc/virtual/2026/poster/151353	pending	-
-153942	Communication-Efficient LLM Adaptation over Decentralized GPU Meshes	https://neurips.cc/virtual/2026/poster/153942	pending	-
-150059	Communication-Efficient Personalized Adaptation via Federated-Local Model Merging	https://neurips.cc/virtual/2026/poster/150059	pending	-
-140008	Community-Centered AI is Feasible and Beneficial for Impacted Communities	https://neurips.cc/virtual/2026/poster/140008	pending	-
-154739	CommunityKV: Efficient Long-Context Decoding via Graph Partitioning	https://neurips.cc/virtual/2026/poster/154739	pending	-
-156037	Commutator Memory: Sparse, Path-Local Reading and Steering in Language Models	https://neurips.cc/virtual/2026/poster/156037	pending	-
-153373	Comp$^2$VLM: A Hybrid Framework Combining Quantization and Lossless Compression for Efficient Vision-Language Models	https://neurips.cc/virtual/2026/poster/153373	pending	-
-153990	CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection	https://neurips.cc/virtual/2026/poster/153990	pending	-
-152227	Compact Representations of Impact-Based Fair-Ranking Policies	https://neurips.cc/virtual/2026/poster/152227	pending	-
-154865	Compact SO(3) Equivariant Atomistic Foundation Models via Structural Pruning	https://neurips.cc/virtual/2026/poster/154865	pending	-
-155667	CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction	https://neurips.cc/virtual/2026/poster/155667	pending	-
-139995	Comparing Explanations is not Enough,Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models	https://neurips.cc/virtual/2026/poster/139995	pending	-
-153164	Comparing Linear Regions in ReLU-Type Networks: Theory and Monte Carlo Methods	https://neurips.cc/virtual/2026/poster/153164	pending	-
-154270	Comparing Transformers and Hybrid Models at the Token Level	https://neurips.cc/virtual/2026/poster/154270	pending	-
-150292	COMPASS: Composable Policy-Amortized Structured Search for LLM-Based Optimization Modeling	https://neurips.cc/virtual/2026/poster/150292	pending	-
-150283	Compatible Likelihoods for Flow Matching on Manifolds	https://neurips.cc/virtual/2026/poster/150283	pending	-
-150873	Competing Event Models: Next Event Prediction Under Interventions	https://neurips.cc/virtual/2026/poster/150873	pending	-
-153264	CompilerKV: Risk-Adaptive KV Cache Compression via Offline Experience Compilation	https://neurips.cc/virtual/2026/poster/153264	pending	-
-148734	CompJudge: Fine-Grained Comparative Evaluation using Multimodal LLM for Subject-Driven Generation	https://neurips.cc/virtual/2026/poster/148734	pending	-
-151298	Complementary Cache Guidance with Gradient Disentanglement for Continuous Test-Time Adaptation	https://neurips.cc/virtual/2026/poster/151298	pending	-
-151156	Complementing DINO Features with Image Structure for Part Discovery	https://neurips.cc/virtual/2026/poster/151156	pending	-
-155305	Complete or Sparse: A Tale of Two Identifiabilities	https://neurips.cc/virtual/2026/poster/155305	pending	-
-138965	CompleteRXN: Toward Completing Open Chemical Reaction Databases	https://neurips.cc/virtual/2026/poster/138965	pending	-
-155902	Complexity Aware Continuous Level of Details for Gaussian Splatting	https://neurips.cc/virtual/2026/poster/155902	pending	-
-151019	Complexity-Aware LoRA Aggregation for Modality-Heterogeneous Federated Person Re-identification	https://neurips.cc/virtual/2026/poster/151019	pending	-
-148201	Complexity-guided Regularization for Generalizable Human Gaussian Splatting	https://neurips.cc/virtual/2026/poster/148201	pending	-
-153053	Complexity of Classical Acceleration for $\ell_1$-Regularized PageRank	https://neurips.cc/virtual/2026/poster/153053	pending	-
-153126	Complexity of Differentially Private Selection via Federated APIs	https://neurips.cc/virtual/2026/poster/153126	pending	-
-155127	Complex Optimization Modeling via Multiagent Fine-Tuning and Skill-Augmented Reasoning	https://neurips.cc/virtual/2026/poster/155127	pending	-
-153202	Complex Schrödinger Bridges	https://neurips.cc/virtual/2026/poster/153202	pending	-
-155547	COMPLLLM: Fine-tuning LLMs to Discover Complementary Signals for Decision-making	https://neurips.cc/virtual/2026/poster/155547	pending	-
-148274	Component-Based Out-of-Distribution Detection	https://neurips.cc/virtual/2026/poster/148274	pending	-
-139605	Composable Causality: A Toolkit for Systematic Time-Series Causal Discovery and Treatment-Effect Benchmarking	https://neurips.cc/virtual/2026/poster/139605	pending	-
-151315	COMPOSE: Composing Future Theorems from Citations and Formal Structure	https://neurips.cc/virtual/2026/poster/151315	pending	-
-150956	COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation	https://neurips.cc/virtual/2026/poster/150956	pending	-
-151739	ComPose: When to Trust Hands for Object Pose Tracking	https://neurips.cc/virtual/2026/poster/151739	pending	-
-149600	Compose Your Oracles: Off Policy Improvement with Aggregated Guidance	https://neurips.cc/virtual/2026/poster/149600	pending	-
-152144	Composing Diffusion Priors with Explicit Physical Context via Generative Gibbs Sampling	https://neurips.cc/virtual/2026/poster/152144	pending	-
-152239	Compositional Generalization Certificates via the Van Kampen Theorem	https://neurips.cc/virtual/2026/poster/152239	pending	-
-149110	Compositional Policy Optimization with Language Models	https://neurips.cc/virtual/2026/poster/149110	pending	-
-155613	Compositional Reasoning in Language Models under Reinforcement Learning Post-Training	https://neurips.cc/virtual/2026/poster/155613	pending	-
-151682	Compositional Training-Free Diffusion Planning for Long-Horizon Multiple Reach-Avoid Tasks	https://neurips.cc/virtual/2026/poster/151682	pending	-
-148886	Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models	https://neurips.cc/virtual/2026/poster/148886	pending	-
-150918	COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression	https://neurips.cc/virtual/2026/poster/150918	pending	-
+154459	Collapse Hunter: Tackling the Dimensional Degeneration in Generative Ranking	https://neurips.cc/virtual/2026/poster/154459	included	先定位交互通道再加非线性
+149747	COLLAR: Cascaded Object-Level Latent Refinement for High-Fidelity Conditional Generation	https://neurips.cc/virtual/2026/poster/149747	included	先扩局部视野再融合全图
+154861	Collective Supervision for Unified Biomolecular Conformation and Dynamics Modeling with CoDyna	https://neurips.cc/virtual/2026/poster/154861	excluded	摘要核心为生物分子构象与动态生成，本条仅保留目录记录。
+139721	ColorConceptBench: A Benchmark for Probabilistic Color-Concept Understanding in Text-to-Image Models	https://neurips.cc/virtual/2026/poster/139721	included	用颜色分布评估隐式语义
+148997	Colored Noise Diffusion Sampling	https://neurips.cc/virtual/2026/poster/148997	included	按时间和频带分配随机噪声
+138980	Colosseum: Auditing Collusion in Cooperative Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/138980	included	分别审计讨论与实际行为
+151062	Colour me shocked: Exact Molecular Hessians from MLIPs in O(N) time using sparse differentiation!	https://neurips.cc/virtual/2026/poster/151062	included	用已知稀疏图压缩二阶求导
+154180	CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization	https://neurips.cc/virtual/2026/poster/154180	included	对中间表征施加对比约束而非硬匹配
+152926	Combating Camouflage and Forgetting: Spatio-Temporal Dual Denoising for Money Laundering Detection	https://neurips.cc/virtual/2026/poster/152926	included	分开处理邻域噪声和时间漂移
+148553	Combating Catastrophic Forgetting in Continual Domain Adaptation via Knowledge Recasting	https://neurips.cc/virtual/2026/poster/148553	included	将新域例子转写成已有技能可复用的程序
+155652	Combating Data Laundering in LLM Training	https://neurips.cc/virtual/2026/poster/155652	included	测试版权审计是否对训练文本形式差异敏感
+150690	COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection	https://neurips.cc/virtual/2026/poster/150690	included	仅用可靠正常样本在线刷新原型
+151624	CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation	https://neurips.cc/virtual/2026/poster/151624	included	将语境歧义和可接受答案数量分开估计
+152607	COMET: Decoupled Distillation, Routing, and Capacity Control for Task-Agnostic Continual Vision--Language Learning	https://neurips.cc/virtual/2026/poster/152607	included	把保持特征关系、专家路由和容量增减拆开
+153350	CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support	https://neurips.cc/virtual/2026/poster/153350	included	将分区代理贡献显式量化以便追查
+151110	Commit Then Explore: Reasoning Models Diversify, Not Converge	https://neurips.cc/virtual/2026/poster/151110	included	先测答案在推理前段是否已可读出，再决定延长预算
+151353	Communication-Efficient Federated Learning of Latent Patient Representations from Multi-Institutional EHRs	https://neurips.cc/virtual/2026/poster/151353	included	先判断低秩边缘统计能否替代多轮共享
+153942	Communication-Efficient LLM Adaptation over Decentralized GPU Meshes	https://neurips.cc/virtual/2026/poster/153942	included	将快速压缩更新和低频高保真锚点分开
+150059	Communication-Efficient Personalized Adaptation via Federated-Local Model Merging	https://neurips.cc/virtual/2026/poster/150059	included	用任务损失上界选择全局与本地模型的混合权重
+140008	Community-Centered AI is Feasible and Beneficial for Impacted Communities	https://neurips.cc/virtual/2026/poster/140008	excluded	立场论文主要提出社区参与框架与研究议程，摘要未给出可复用技术机制或独立验证。
+154739	CommunityKV: Efficient Long-Context Decoding via Graph Partitioning	https://neurips.cc/virtual/2026/poster/154739	included	用预填充注意力图静态分组，再局部更新。
+156037	Commutator Memory: Sparse, Path-Local Reading and Steering in Language Models	https://neurips.cc/virtual/2026/poster/156037	included	按 token 追踪后训练换序影响。
+153373	Comp$^2$VLM: A Hybrid Framework Combining Quantization and Lossless Compression for Efficient Vision-Language Models	https://neurips.cc/virtual/2026/poster/153373	included	联合选择量化尺度和便于并行解码的编码。
+153990	CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection	https://neurips.cc/virtual/2026/poster/153990	included	把稀疏掩码转为分页 KV 块表。
+152227	Compact Representations of Impact-Based Fair-Ranking Policies	https://neurips.cc/virtual/2026/poster/152227	included	以物品索引对偶向量替代每用户排序混合。
+154865	Compact SO(3) Equivariant Atomistic Foundation Models via Structural Pruning	https://neurips.cc/virtual/2026/poster/154865	included	按完整不可约表示块剪枝。
+155667	CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction	https://neurips.cc/virtual/2026/poster/155667	included	根据纹理和区域复杂度分配高斯。
+139995	Comparing Explanations is not Enough,Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models	https://neurips.cc/virtual/2026/poster/139995	excluded	主要提出比较式解释的规范和初步示例，摘要未明确可独立验证的解释算法。
+153164	Comparing Linear Regions in ReLU-Type Networks: Theory and Monte Carlo Methods	https://neurips.cc/virtual/2026/poster/153164	included	用线性模式 Monte Carlo 比较层宽配置。
+154270	Comparing Transformers and Hybrid Models at the Token Level	https://neurips.cc/virtual/2026/poster/154270	included	按 token 类型测混合架构相对纯注意力的收益。
+150292	COMPASS: Composable Policy-Amortized Structured Search for LLM-Based Optimization Modeling	https://neurips.cc/virtual/2026/poster/150292	included	让求解反馈训练模板图的遍历策略。
+150283	Compatible Likelihoods for Flow Matching on Manifolds	https://neurips.cc/virtual/2026/poster/150283	included	先验证总体最优速度是否复现边缘速度。
+150873	Competing Event Models: Next Event Prediction Under Interventions	https://neurips.cc/virtual/2026/poster/150873	included	分别建模各事件的潜在等待时间。
+153264	CompilerKV: Risk-Adaptive KV Cache Compression via Offline Experience Compilation	https://neurips.cc/virtual/2026/poster/153264	included	离线估计注意力头可靠性后用于运行时压缩。
+148734	CompJudge: Fine-Grained Comparative Evaluation using Multimodal LLM for Subject-Driven Generation	https://neurips.cc/virtual/2026/poster/148734	included	用配对比较重新校准生成图像身份保持打分。
+151298	Complementary Cache Guidance with Gradient Disentanglement for Continuous Test-Time Adaptation	https://neurips.cc/virtual/2026/poster/151298	included	分开短期与长期缓存，并隔离梯度方向。
+151156	Complementing DINO Features with Image Structure for Part Discovery	https://neurips.cc/virtual/2026/poster/151156	included	先按边界分区再池化冻结特征。
+155305	Complete or Sparse: A Tale of Two Identifiabilities	https://neurips.cc/virtual/2026/poster/155305	included	按表征维数及因果方向选择潜变量恢复约束。
+138965	CompleteRXN: Toward Completing Open Chemical Reaction Databases	https://neurips.cc/virtual/2026/poster/138965	included	用未策展数据验证缺失补全能否迁移。
+155902	Complexity Aware Continuous Level of Details for Gaussian Splatting	https://neurips.cc/virtual/2026/poster/155902	included	按场景复杂度训练及保留原语，并测不同预算。
+151019	Complexity-Aware LoRA Aggregation for Modality-Heterogeneous Federated Person Re-identification	https://neurips.cc/virtual/2026/poster/151019	included	按任务复杂度聚合低秩更新
+148201	Complexity-guided Regularization for Generalizable Human Gaussian Splatting	https://neurips.cc/virtual/2026/poster/148201	included	给复杂区域增配高斯及监督
+153053	Complexity of Classical Acceleration for $\ell_1$-Regularized PageRank	https://neurips.cc/virtual/2026/poster/153053	included	按节点活跃边界判断是否启用加速
+153126	Complexity of Differentially Private Selection via Federated APIs	https://neurips.cc/virtual/2026/poster/153126	included	需要私有选优时比较聚合与稀疏向量接口
+155127	Complex Optimization Modeling via Multiagent Fine-Tuning and Skill-Augmented Reasoning	https://neurips.cc/virtual/2026/poster/155127	included	给建模流程的中间角色分配反事实反馈
+153202	Complex Schrödinger Bridges	https://neurips.cc/virtual/2026/poster/153202	included	给分布转换显式引入几何先验
+155547	COMPLLLM: Fine-tuning LLMs to Discover Complementary Signals for Decision-making	https://neurips.cc/virtual/2026/poster/155547	included	按对下游决策的新增信息训练助手
+148274	Component-Based Out-of-Distribution Detection	https://neurips.cc/virtual/2026/poster/148274	included	分别测组件外观漂移和组合不一致
+139605	Composable Causality: A Toolkit for Systematic Time-Series Causal Discovery and Treatment-Effect Benchmarking	https://neurips.cc/virtual/2026/poster/139605	included	固定其他生成因素单独扫描缺失机制
+151315	COMPOSE: Composing Future Theorems from Citations and Formal Structure	https://neurips.cc/virtual/2026/poster/151315	included	生成数学研究假说时同时检索引用与形式依赖
+150956	COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation	https://neurips.cc/virtual/2026/poster/150956	included	用高阶关联代替逐视角匹配
+151739	ComPose: When to Trust Hands for Object Pose Tracking	https://neurips.cc/virtual/2026/poster/151739	included	物体被手遮挡时引入选择性的手部运动证据
+149600	Compose Your Oracles: Off Policy Improvement with Aggregated Guidance	https://neurips.cc/virtual/2026/poster/149600	included	按来源估值筛选互补专家的候选动作
+152144	Composing Diffusion Priors with Explicit Physical Context via Generative Gibbs Sampling	https://neurips.cc/virtual/2026/poster/152144	included	将冻结先验同显式物理约束用交替推断组合
+152239	Compositional Generalization Certificates via the Van Kampen Theorem	https://neurips.cc/virtual/2026/poster/152239	included	检查模块交叠处是否处于正确表示分支
+149110	Compositional Policy Optimization with Language Models	https://neurips.cc/virtual/2026/poster/149110	included	根据后续子任务表现确定前一技能的参数
+155613	Compositional Reasoning in Language Models under Reinforcement Learning Post-Training	https://neurips.cc/virtual/2026/poster/155613	included	训练完整组合任务与仅训练组件作双向迁移对照
+151682	Compositional Training-Free Diffusion Planning for Long-Horizon Multiple Reach-Avoid Tasks	https://neurips.cc/virtual/2026/poster/151682	included	拼接任务无关短程先验并逐段校验约束
+148886	Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models	https://neurips.cc/virtual/2026/poster/148886	included	把已饱和的可验提示组合成更难的新题
+150918	COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression	https://neurips.cc/virtual/2026/poster/150918	included	用正交字典和分层预算替代所有层共享的低秩假设
 154300	Compressible Representations: Functional Spines in Deep Neural Networks	https://neurips.cc/virtual/2026/poster/154300	pending	-
 150720	Compressing Collections of Trees with Decision Equivalence	https://neurips.cc/virtual/2026/poster/150720	pending	-
 150194	Computational Depth Predicts Quantization Sensitivity in Multimodal Models	https://neurips.cc/virtual/2026/poster/150194	pending	-

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1529** 篇，暂收录 **1401** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1589** 篇，暂收录 **1458** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1409,3 +1409,60 @@
 | 医学机器学习 | 证据审计 | [ColdDDI: Evaluating Knowledge Utilization in Cold-Start Drug-Drug Interaction Prediction](cards-0003.md#paper-138874) | 用输入遮蔽区分知识可用性和实际使用 |
 | 大语言模型 | 推理蒸馏 | [Collaborative Reasoning Distillation via Cross-Feedback and Coherent Curation](cards-0003.md#paper-152076) | 在教师答案拼接之前验证过程正确性 |
 | 多模态学习 | 闭环推理 | [CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models](cards-0003.md#paper-149957) | 按局部失败类型分配视频重试预算 |
+| 推荐系统 | 表征学习 | [Collapse Hunter: Tackling the Dimensional Degeneration in Generative Ranking](cards-0003.md#paper-154459) | 先定位交互通道再加非线性 |
+| 计算机视觉 | 条件生成 | [COLLAR: Cascaded Object-Level Latent Refinement for High-Fidelity Conditional Generation](cards-0003.md#paper-149747) | 先扩局部视野再融合全图 |
+| 多模态学习 | 基准诊断 | [ColorConceptBench: A Benchmark for Probabilistic Color-Concept Understanding in Text-to-Image Models](cards-0003.md#paper-139721) | 用颜色分布评估隐式语义 |
+| 计算机视觉 | 扩散采样 | [Colored Noise Diffusion Sampling](cards-0003.md#paper-148997) | 按时间和频带分配随机噪声 |
+| Agent | 防御评测 | [Colosseum: Auditing Collusion in Cooperative Multi-Agent Systems](cards-0003.md#paper-138980) | 分别审计讨论与实际行为 |
+| 科学机器学习 | 稀疏自动微分 | [Colour me shocked: Exact Molecular Hessians from MLIPs in O(N) time using sparse differentiation!](cards-0003.md#paper-151062) | 用已知稀疏图压缩二阶求导 |
+| 多模态学习 | 潜变量推理 | [CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization](cards-0003.md#paper-154180) | 对中间表征施加对比约束而非硬匹配 |
+| 图学习 | 异常检测 | [Combating Camouflage and Forgetting: Spatio-Temporal Dual Denoising for Money Laundering Detection](cards-0003.md#paper-152926) | 分开处理邻域噪声和时间漂移 |
+| 大语言模型 | 持续学习 | [Combating Catastrophic Forgetting in Continual Domain Adaptation via Knowledge Recasting](cards-0003.md#paper-148553) | 将新域例子转写成已有技能可复用的程序 |
+| 大语言模型 | 防御审计 | [Combating Data Laundering in LLM Training](cards-0003.md#paper-155652) | 测试版权审计是否对训练文本形式差异敏感 |
+| 时间序列 | 异常检测 | [COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection](cards-0003.md#paper-150690) | 仅用可靠正常样本在线刷新原型 |
+| 多模态学习 | 不确定性 | [CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation](cards-0003.md#paper-151624) | 将语境歧义和可接受答案数量分开估计 |
+| 多模态学习 | 持续学习 | [COMET: Decoupled Distillation, Routing, and Capacity Control for Task-Agnostic Continual Vision--Language Learning](cards-0003.md#paper-152607) | 把保持特征关系、专家路由和容量增减拆开 |
+| 医疗人工智能 | 多智能体评测 | [CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support](cards-0003.md#paper-153350) | 将分区代理贡献显式量化以便追查 |
+| 大语言模型 | 推理诊断 | [Commit Then Explore: Reasoning Models Diversify, Not Converge](cards-0003.md#paper-151110) | 先测答案在推理前段是否已可读出，再决定延长预算 |
+| 医疗人工智能 | 联邦统计 | [Communication-Efficient Federated Learning of Latent Patient Representations from Multi-Institutional EHRs](cards-0003.md#paper-151353) | 先判断低秩边缘统计能否替代多轮共享 |
+| 机器学习系统 | 通信压缩 | [Communication-Efficient LLM Adaptation over Decentralized GPU Meshes](cards-0003.md#paper-153942) | 将快速压缩更新和低频高保真锚点分开 |
+| 联邦学习 | 模型合并 | [Communication-Efficient Personalized Adaptation via Federated-Local Model Merging](cards-0003.md#paper-150059) | 用任务损失上界选择全局与本地模型的混合权重 |
+| 大语言模型 | KV 检索 | [CommunityKV: Efficient Long-Context Decoding via Graph Partitioning](cards-0003.md#paper-154739) | 用预填充注意力图静态分组，再局部更新。 |
+| 大语言模型 | 归因诊断 | [Commutator Memory: Sparse, Path-Local Reading and Steering in Language Models](cards-0003.md#paper-156037) | 按 token 追踪后训练换序影响。 |
+| 多模态学习 | 压缩 | [Comp$^2$VLM: A Hybrid Framework Combining Quantization and Lossless Compression for Efficient Vision-Language Models](cards-0003.md#paper-153373) | 联合选择量化尺度和便于并行解码的编码。 |
+| 大语言模型 | 稀疏注意力 | [CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection](cards-0003.md#paper-153990) | 把稀疏掩码转为分页 KV 块表。 |
+| 推荐系统 | 策略压缩 | [Compact Representations of Impact-Based Fair-Ranking Policies](cards-0003.md#paper-152227) | 以物品索引对偶向量替代每用户排序混合。 |
+| 科学机器学习 | 结构剪枝 | [Compact SO(3) Equivariant Atomistic Foundation Models via Structural Pruning](cards-0003.md#paper-154865) | 按完整不可约表示块剪枝。 |
+| 计算机视觉 | 三维重建 | [CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction](cards-0003.md#paper-155667) | 根据纹理和区域复杂度分配高斯。 |
+| 学习理论 | 架构诊断 | [Comparing Linear Regions in ReLU-Type Networks: Theory and Monte Carlo Methods](cards-0003.md#paper-153164) | 用线性模式 Monte Carlo 比较层宽配置。 |
+| 大语言模型 | 架构诊断 | [Comparing Transformers and Hybrid Models at the Token Level](cards-0003.md#paper-154270) | 按 token 类型测混合架构相对纯注意力的收益。 |
+| Agent / 优化 | 模板检索 | [COMPASS: Composable Policy-Amortized Structured Search for LLM-Based Optimization Modeling](cards-0003.md#paper-150292) | 让求解反馈训练模板图的遍历策略。 |
+| 生成模型 | 流匹配 | [Compatible Likelihoods for Flow Matching on Manifolds](cards-0003.md#paper-150283) | 先验证总体最优速度是否复现边缘速度。 |
+| 时序建模 | 事件预测 | [Competing Event Models: Next Event Prediction Under Interventions](cards-0003.md#paper-150873) | 分别建模各事件的潜在等待时间。 |
+| 大语言模型 | KV 压缩 | [CompilerKV: Risk-Adaptive KV Cache Compression via Offline Experience Compilation](cards-0003.md#paper-153264) | 离线估计注意力头可靠性后用于运行时压缩。 |
+| 多模态学习 | 评测校准 | [CompJudge: Fine-Grained Comparative Evaluation using Multimodal LLM for Subject-Driven Generation](cards-0003.md#paper-148734) | 用配对比较重新校准生成图像身份保持打分。 |
+| 多模态学习 | 测试时适配 | [Complementary Cache Guidance with Gradient Disentanglement for Continuous Test-Time Adaptation](cards-0003.md#paper-151298) | 分开短期与长期缓存，并隔离梯度方向。 |
+| 计算机视觉 | 部件发现 | [Complementing DINO Features with Image Structure for Part Discovery](cards-0003.md#paper-151156) | 先按边界分区再池化冻结特征。 |
+| 学习理论 | 可辨识性 | [Complete or Sparse: A Tale of Two Identifiabilities](cards-0003.md#paper-155305) | 按表征维数及因果方向选择潜变量恢复约束。 |
+| 科学机器学习 | 数据评测 | [CompleteRXN: Toward Completing Open Chemical Reaction Databases](cards-0003.md#paper-138965) | 用未策展数据验证缺失补全能否迁移。 |
+| 计算机视觉 | 多细节渲染 | [Complexity Aware Continuous Level of Details for Gaussian Splatting](cards-0003.md#paper-155902) | 按场景复杂度训练及保留原语，并测不同预算。 |
+| 多模态学习 | 联邦适配 | [Complexity-Aware LoRA Aggregation for Modality-Heterogeneous Federated Person Re-identification](cards-0003.md#paper-151019) | 按任务复杂度聚合低秩更新 |
+| 计算机视觉 | 几何正则 | [Complexity-guided Regularization for Generalizable Human Gaussian Splatting](cards-0003.md#paper-148201) | 给复杂区域增配高斯及监督 |
+| 图学习 | 复杂度分析 | [Complexity of Classical Acceleration for $\ell_1$-Regularized PageRank](cards-0003.md#paper-153053) | 按节点活跃边界判断是否启用加速 |
+| 统计学习 | 差分隐私 | [Complexity of Differentially Private Selection via Federated APIs](cards-0003.md#paper-153126) | 需要私有选优时比较聚合与稀疏向量接口 |
+| Agent | 信用分配 | [Complex Optimization Modeling via Multiagent Fine-Tuning and Skill-Augmented Reasoning](cards-0003.md#paper-155127) | 给建模流程的中间角色分配反事实反馈 |
+| 生成模型 | 扩散桥 | [Complex Schrödinger Bridges](cards-0003.md#paper-153202) | 给分布转换显式引入几何先验 |
+| Agent | 互补奖励 | [COMPLLLM: Fine-tuning LLMs to Discover Complementary Signals for Decision-making](cards-0003.md#paper-155547) | 按对下游决策的新增信息训练助手 |
+| 计算机视觉 | 分布外检测 | [Component-Based Out-of-Distribution Detection](cards-0003.md#paper-148274) | 分别测组件外观漂移和组合不一致 |
+| 因果学习 | 仿真评测 | [Composable Causality: A Toolkit for Systematic Time-Series Causal Discovery and Treatment-Effect Benchmarking](cards-0003.md#paper-139605) | 固定其他生成因素单独扫描缺失机制 |
+| 大语言模型 | 条件生成 | [COMPOSE: Composing Future Theorems from Citations and Formal Structure](cards-0003.md#paper-151315) | 生成数学研究假说时同时检索引用与形式依赖 |
+| 计算机视觉 | 多视角关联 | [COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation](cards-0003.md#paper-150956) | 用高阶关联代替逐视角匹配 |
+| 具身智能 | 位姿跟踪 | [ComPose: When to Trust Hands for Object Pose Tracking](cards-0003.md#paper-151739) | 物体被手遮挡时引入选择性的手部运动证据 |
+| 强化学习 | 多源行为引导 | [Compose Your Oracles: Off Policy Improvement with Aggregated Guidance](cards-0003.md#paper-149600) | 按来源估值筛选互补专家的候选动作 |
+| 科学机器学习 | 约束采样 | [Composing Diffusion Priors with Explicit Physical Context via Generative Gibbs Sampling](cards-0003.md#paper-152144) | 将冻结先验同显式物理约束用交替推断组合 |
+| 学习理论 | 组合泛化 | [Compositional Generalization Certificates via the Van Kampen Theorem](cards-0003.md#paper-152239) | 检查模块交叠处是否处于正确表示分支 |
+| 具身智能 | 技能组合 | [Compositional Policy Optimization with Language Models](cards-0003.md#paper-149110) | 根据后续子任务表现确定前一技能的参数 |
+| 大语言模型 | 组合训练 | [Compositional Reasoning in Language Models under Reinforcement Learning Post-Training](cards-0003.md#paper-155613) | 训练完整组合任务与仅训练组件作双向迁移对照 |
+| 具身智能 | 轨迹规划 | [Compositional Training-Free Diffusion Planning for Long-Horizon Multiple Reach-Avoid Tasks](cards-0003.md#paper-151682) | 拼接任务无关短程先验并逐段校验约束 |
+| 大语言模型 | 课程设计 | [Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models](cards-0003.md#paper-148886) | 把已饱和的可验提示组合成更难的新题 |
+| 大语言模型 | 模型压缩 | [COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression](cards-0003.md#paper-150918) | 用正交字典和分层预算替代所有层共享的低秩假设 |
