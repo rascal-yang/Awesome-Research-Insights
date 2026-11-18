@@ -786,5 +786,9 @@
 - [Point Tracking Improves World Action Models](../conferences/neurips-2026/cards-0009.md#paper-149146)
 - [PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics](../conferences/neurips-2026/cards-0009.md#paper-149391)
 - [Policy-DRIFT: Dynamic Reward-Informed Flow Trajectory Steering](../conferences/neurips-2026/cards-0009.md#paper-154425)
+- [PO-PDDL: Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty](../conferences/neurips-2026/cards-0009.md#paper-151838)
+- [PoSafeNet: Structured Safety Learning via Compositional Projection](../conferences/neurips-2026/cards-0009.md#paper-155227)
+- [Pose6DAug: Physically Plausible Multi-View Object Swapping for Robot Data Augmentation](../conferences/neurips-2026/cards-0009.md#paper-155020)
+- [Predictive but Not Plannable: RC-aux for Latent World Models](../conferences/neurips-2026/cards-0009.md#paper-151013)
 
 <!-- conference-classification:end -->

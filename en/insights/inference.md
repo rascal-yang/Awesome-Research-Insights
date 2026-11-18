@@ -1264,5 +1264,17 @@ Decoding, test-time adaptation, and efficient execution.
 - [Plan2Sense: Open-World Task Planning in Epistemic States via Interleaved Ontic and Sensing Actions](../../conferences/neurips-2026/cards-0009.md#paper-150699)
 - [Planning Persuasion, Not Utterances: Profile-Conditioned Open-Loop Search for Dialogue Strategy](../../conferences/neurips-2026/cards-0009.md#paper-153963)
 - [PolyMind: Exploring Width Scaling for Reflective Reasoning in Language Agents](../../conferences/neurips-2026/cards-0009.md#paper-153141)
+- [PO-PDDL: Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty](../../conferences/neurips-2026/cards-0009.md#paper-151838)
+- [POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models](../../conferences/neurips-2026/cards-0009.md#paper-154370)
+- [PosePlaner: Denoising Any Feedforward Pose Predictor from Pairwise Planar Geometry](../../conferences/neurips-2026/cards-0009.md#paper-148270)
+- [Posterior-First Neural PDE Simulation: Inferring Hidden Problem State from a Single Field](../../conferences/neurips-2026/cards-0009.md#paper-155188)
+- [PRECISE: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models](../../conferences/neurips-2026/cards-0009.md#paper-154105)
+- [Precision As You Need: Stochastic Computing Is a Dense Adaptive Quantizer](../../conferences/neurips-2026/cards-0009.md#paper-155380)
+- [Precision-Pyramid: Towards real-time neural decoding for fault-tolerant quantum computing](../../conferences/neurips-2026/cards-0009.md#paper-155454)
+- [Preconditioned Implicit Midpoint Langevin Sampling for Non-Smooth Bayesian Imaging](../../conferences/neurips-2026/cards-0009.md#paper-155272)
+- [Predicting and improving test-time scaling laws via reward tail-guided search](../../conferences/neurips-2026/cards-0009.md#paper-151815)
+- [Predicting Quantization Price for Selecting PTQ Configurations Before Deployment](../../conferences/neurips-2026/cards-0009.md#paper-153413)
+- [Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](../../conferences/neurips-2026/cards-0009.md#paper-156090)
+- [Prefill-Guided Trace Allocation for Sample-Efficient Test-Time Scaling](../../conferences/neurips-2026/cards-0009.md#paper-154693)
 
 <!-- conference-classification:end -->

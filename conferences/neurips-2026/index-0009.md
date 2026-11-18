@@ -528,3 +528,68 @@
 | 智能体 | 推理与搜索 | [PolyMind: Exploring Width Scaling for Reflective Reasoning in Language Agents](cards-0009.md#paper-153141) | 固定反思预算下比较并行分工与串行重试 |
 | 视觉与多模态 | 模型与架构 | [PolyVision: Conditional Visual Scaling Via Dynamic Expert Routing For Vision-Centric MLLMs](cards-0009.md#paper-151361) | 局部视觉输入按需求选择异构编码器 |
 | 大语言模型 | 训练与优化 | [POME: Post Optimization Model Edit via Muon-Style Projection](cards-0009.md#paper-148262) | 用微调前后权重差做无额外数据的模型编辑 |
+| 机器学习理论 | 训练策略 | [Pooling Versus Ensembling for Ridge Regression Under Covariate Shift](cards-0009.md#paper-154987) | 协变量漂移时比较合并与分组。 |
+| 具身智能与机器人 | 搜索与规划 | [PO-PDDL: Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty](cards-0009.md#paper-151838) | 部分可观测任务学习显式信念。 |
+| 模型效率与系统 | 剪枝与稀疏化 | [POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models](cards-0009.md#paper-154370) | 预填充筛候选，解码再局部剪枝。 |
+| 智能体与工具使用 | 采样与数据选择 | [Population-Aligned Persona Generation for LLM-based Social Simulation](cards-0009.md#paper-149049) | 模拟前校正角色集合分布。 |
+| 智能体与工具使用 | 奖励设计 | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](cards-0009.md#paper-155506) | 用共享前缀的分支分配工具调用信用。 |
+| 大语言模型 | 偏好优化 | [PORT: Preference Optimization via Robust Token-Level Reweighting](cards-0009.md#paper-151657) | 对含局部错误的偏好样本用 token 权重。 |
+| 具身智能与机器人 | 约束优化 | [PoSafeNet: Structured Safety Learning via Compositional Projection](cards-0009.md#paper-155227) | 安全约束冲突时显式指定可覆盖关系。 |
+| 具身智能与机器人 | 数据增强 | [Pose6DAug: Physically Plausible Multi-View Object Swapping for Robot Data Augmentation](cards-0009.md#paper-155020) | 失败对象优先做跨视角一致替换。 |
+| 计算机视觉 | 表征学习 | [PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition](cards-0009.md#paper-154017) | 骨架对齐前保留姿态估计的中间语义。 |
+| 计算机视觉 | 注意力机制 | [Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement](cards-0009.md#paper-154608) | 遮挡下保护重建锚点，再注入候选证据。 |
+| 计算机视觉 | 生成建模 | [PosePlaner: Denoising Any Feedforward Pose Predictor from Pairwise Planar Geometry](cards-0009.md#paper-148270) | 流式位姿预测器旁挂几何精化器。 |
+| 大语言模型 | 位置编码 | [Positional Encoding and Prompt-Order Sensitivity in In-Context Learning](cards-0009.md#paper-151605) | 提示重排实验同时控制扰动比例和任务顺序性。 |
+| 深度学习 | 训练策略 | [Positional Encoding Is All You Need For Scalable Equivariance Constraint Relaxation](cards-0009.md#paper-151164) | 训练时软破坏对称性，结束恢复严格等变。 |
+| 大语言模型 | 注意力机制 | [Positional LSH: Binary Block Matrix Approximation for Attention with Linear Biases](cards-0009.md#paper-148423) | 用随机连续分块近似长上下文 ALiBi。 |
+| 大语言模型 | 可解释性 | [Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization](cards-0009.md#paper-152427) | 长度泛化诊断区分符号头与位置头。 |
+| 机器学习基础与统计 | 评测与诊断 | [Position-aware eXplanation: A Model-Agnostic Framework for Positional Attributions](cards-0009.md#paper-155520) | 模型对特征位置敏感时，分开测特征内容与移动位置引起的预测差异。 |
+| 多模态学习 | 评测与诊断 | [Position: Telic Errors Make VLMs Unreliable Annotators in Sensitive Contexts](cards-0009.md#paper-140068) | 文化敏感的图像标注失误，分别测图像描述和提供标签后的解释。 |
+| 大语言模型 | 评测与诊断 | [Position Without Positional Embeddings: A Directional Mechanism in NoPE Transformers](cards-0009.md#paper-152488) | 解释无位置嵌入模型时，检查归一后仍存在的位置方向而非只看模长。 |
+| 多模态学习 | 训练策略 | [Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation](cards-0009.md#paper-154826) | 报告不全时，将没有提到发现视为未标注，而不是否定。 |
+| 机器学习基础与统计 | 理论与统计 | [Post-ADC Inference: Valid Inference After Active Data Collection](cards-0009.md#paper-151721) | 主动采样后的事后推断要同时校正采样和选目标 |
+| 视觉与多模态 | 评测与诊断 | [Posterior Alternative Calibration in Ambiguous Inverse Problems](cards-0009.md#paper-154341) | 歧义重建报告替代解概率误差 |
+| 机器学习基础与统计 | 生成与扩散 | [Posterior-First Neural PDE Simulation: Inferring Hidden Problem State from a Single Field](cards-0009.md#paper-155188) | 隐状态不唯一时先估计后验再做前推 |
+| 视觉与多模态 | 评测与诊断 | [Post-hoc Selective Classification for Reliable Synthetic Image Detection](cards-0009.md#paper-151954) | 分布漂移时用多层置信度决定是否拒答 |
+| 视觉与多模态 | 模型与架构 | [POST: Progressive Object-Slot Tokenization for Multimodal Large Language Models](cards-0009.md#paper-153877) | 视觉 token 压缩可改用对象槽汇聚 |
+| 机器学习基础与统计 | 理论与统计 | [Post-Selection Distributional Model Evaluation](cards-0009.md#paper-154748) | 配置筛选后用覆盖控制来评估指标分布 |
+| 视觉与多模态 | 效率与系统 | [Post-Training Quantization with Gradient-Projected Fisher Approximation for Vision Transformers](cards-0009.md#paper-151584) | ViT 低比特量化保留跨维耦合 |
+| 大语言模型 | 评测与诊断 | [PotARCin: Multi-Dimensional Evaluation of Skill Acquisition in Abstract Reasoning Tasks](cards-0009.md#paper-139746) | 同一规则要跨逆推、编辑与生成验证 |
+| 大语言模型 | 强化学习与奖励 | [Power Distribution Bridges Sampling, Self-Reward RL, and Self-Distillation](cards-0009.md#paper-154816) | 在自奖励锐化前实测与任务奖励的协方差 |
+| 机器学习基础与统计 | 训练与优化 | [Powering Up Zeroth-Order Training via Subspace Gradient Orthogonalization](cards-0009.md#paper-153339) | 零阶优化先在子空间正交化噪声更新 |
+| 机器学习理论 | 评测与诊断 | [Practical Estimation of the Bayes Optimal Fairness-Accuracy Tradeoff with Soft Labels](cards-0009.md#paper-150128) | 在优化公平模型前先估计可达前沿。 |
+| 深度学习 | 图学习 | [Practical Non-Stationary Graph Gaussian Processes](cards-0009.md#paper-150089) | 图传播先区分局部方差是信号还是噪声。 |
+| 智能体与工具使用 | 评测与诊断 | [Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning](cards-0009.md#paper-152264) | 评审模块同时测意见命中和采纳。 |
+| 大语言模型 | 评测与诊断 | [Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?](cards-0009.md#paper-139017) | 代码修复评估新增必要编辑精度。 |
+| 生成模型 | 采样与推理 | [PRECISE: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models](cards-0009.md#paper-154105) | 流匹配强化学习同时调探索与离散化。 |
+| 模型效率与系统 | 量化 | [Precision As You Need: Stochastic Computing Is a Dense Adaptive Quantizer](cards-0009.md#paper-155380) | 在相同平均预算下逐行选择精度。 |
+| 机器学习理论 | 记忆机制 | [Precision-Aware Hopfield Retrieval: Unifying Population Codes and Memory Retrieval with Information Optimization](cards-0009.md#paper-149371) | 联想检索温度随编码的估计精度变化。 |
+| 模型效率与系统 | 量化 | [Precision-Pyramid: Towards real-time neural decoding for fault-tolerant quantum computing](cards-0009.md#paper-155454) | 把高精度留给轻量最终判决。 |
+| 智能体与工具使用 | 记忆机制 | [PreCoMem: Predictive Cognitive Memory for Self-Evolving Long-Term Dialogue Agents](cards-0009.md#paper-149030) | 长期记忆新增待确认状态。 |
+| 生成模型 | 优化算法 | [Preconditioned Flow Matching](cards-0009.md#paper-153969) | 流匹配训练前检查路径协方差。 |
+| 机器学习理论 | 采样与推理 | [Preconditioned Implicit Midpoint Langevin Sampling for Non-Smooth Bayesian Imaging](cards-0009.md#paper-155272) | 用矩阵预条件时同时更换 Langevin 积分器。 |
+| 大语言模型 | 搜索与规划 | [Predicting and improving test-time scaling laws via reward tail-guided search](cards-0009.md#paper-151815) | 用奖励上尾而非均值给搜索枝分配预算。 |
+| 大语言模型 | 评测与诊断 | [Predicting Human-Gain Curves under Local Proxy Optimization from Repeated Ratings](cards-0009.md#paper-150880) | 优化评分代理前估计人评收益随强度的变化。 |
+| 计算机视觉 | 评测与诊断 | [Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation](cards-0009.md#paper-139254) | 间歇出现的目标用跨时间掩码评价。 |
+| 深度学习 | 信息瓶颈 | [Predicting Only from Selected Evidence: A Tempered Product-of-Experts Bottleneck for Auditable EEG Diagnosis](cards-0009.md#paper-150685) | 证据可审计分类把选择门放进预测路径。 |
+| 深度学习 | 持续学习 | [Predicting Plasticity in Deep Continual Learning: A Theoretical Perspective](cards-0009.md#paper-151631) | 选择可适应的检查点时估计短步优化收益。 |
+| 模型效率与系统 | 量化 | [Predicting Quantization Price for Selecting PTQ Configurations Before Deployment](cards-0009.md#paper-153413) | 在同一预算表中比较格式、粒度、码本和变换。 |
+| 大语言模型 | 模型架构 | [Predicting What Changes: Causal Delta World Models for Risk-Aware LLM Agent Planning](cards-0009.md#paper-154820) | 规划不可逆操作前优先预测结构化状态差量及可逆性。 |
+| 机器学习基础与统计 | 理论与统计 | [Prediction-Augmented Trees for Reliable Statistical Inference](cards-0009.md#paper-150796) | 若黑箱预测残差随输入变化，可按特征分区做推断校正。 |
+| 机器学习基础与统计 | 评测与诊断 | [Prediction-Powered Active Testing](cards-0009.md#paper-155200) | 标签昂贵的测试池中，用廉价预测减少风险估计的方差并指导复核抽样。 |
+| 机器学习基础与统计 | 理论与统计 | [Prediction-Powered Inference Across Many Tasks for AI Evaluations and Social Science Research](cards-0009.md#paper-149115) | 多个相关任务各有少量标签时，跨任务学非线性代理，同时在任务内部校正。 |
+| 机器人学 | 损失函数 | [Predictive but Not Plannable: RC-aux for Latent World Models](cards-0009.md#paper-151013) | 训练世界模型用于规划时，给表示加入随规划步数变化的可达性。 |
+| 大语言模型 | 评测与诊断 | [Predictive Geometry of Hidden Trajectories in Transformers](cards-0009.md#paper-155827) | 归因 token 影响时，比较下游损失敏感性和单层注意力大小。 |
+| 科学机器学习 | 推理策略 | [Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](cards-0009.md#paper-156090) | 预训练扩散输出要满足硬约束时，将投影和重新加噪嵌入每层校正。 |
+| 强化学习 | 强化学习方法 | [Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization](cards-0009.md#paper-149722) | 多个回报冲突时，在稳定各目标更新后再按偏好聚合。 |
+| 视觉与多模态 | 训练与优化 | [Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement](cards-0009.md#paper-154181) | 用局部提示分歧挑选低成本偏好标注 |
+| 大语言模型 | 推理与搜索 | [Prefill-Guided Trace Allocation for Sample-Efficient Test-Time Scaling](cards-0009.md#paper-154693) | 完成所有候选前按 prefill 状态分配采样 |
+| 智能体 | 评测与诊断 | [Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success](cards-0009.md#paper-139170) | 工具链验收同时测终局与每段可执行性 |
+| 大语言模型 | 效率与系统 | [PreFT: Prefill-only finetuning for inference efficiency](cards-0009.md#paper-151570) | 多用户适配器只在 prefill 生效 |
+| 智能体 | 记忆与检索 | [PREPING: Building Agent Memory without Tasks](cards-0009.md#paper-153705) | 部署前用可验证合成轨迹引导记忆 |
+| 大语言模型 | 强化学习与奖励 | [Preserving Exploration for LLM Reasoning via Mean Order-Statistic Alignment](cards-0009.md#paper-154128) | 用排序后的概率谱维持探索 |
+| 视觉与多模态 | 训练与优化 | [Pretext Reasoning: Scaling the Building Blocks of Interleaved Multimodal Reasoning](cards-0009.md#paper-148179) | 先练可复用视觉状态操作再做任务指令微调 |
+| 大语言模型 | 评测与诊断 | [Pretraining Data Statistics Shape the Phases of Learning Entity Comparison in Language Models](cards-0009.md#paper-151759) | 主动调整预训练实体频率并观测错误学习阶段 |
+| 强化学习与决策 | 强化学习与奖励 | [Prevailing Bisimulation Metric Learning Is Biased: Implicit Regularization and Its Remedy](cards-0009.md#paper-150570) | 随机控制中的双模拟表征要审计采样损失偏差 |
+| 智能体 | 记忆与检索 | [Preventing Error Cascades in Long-Horizon Multimodal Agents with Edge-Reliability Graph Memory](cards-0009.md#paper-149654) | 多步记忆给证据复用边打分 |
+| 大语言模型 | 训练与优化 | [PriFT: Prior-Support Guided Token Reweighting for Supervised Fine-Tuning](cards-0009.md#paper-153837) | SFT token 权重使用冻结基座的统计 |

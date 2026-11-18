@@ -833,5 +833,13 @@ Learning across modalities such as images, text, audio, and video.
 - [Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction](../../conferences/neurips-2026/cards-0009.md#paper-154712)
 - [Polar Transformers: $SO(2)^K$-Equivariant Angular Attention for Cryo-EM Image-Set Processing](../../conferences/neurips-2026/cards-0009.md#paper-156031)
 - [PolyVision: Conditional Visual Scaling Via Dynamic Expert Routing For Vision-Centric MLLMs](../../conferences/neurips-2026/cards-0009.md#paper-151361)
+- [Position: Telic Errors Make VLMs Unreliable Annotators in Sensitive Contexts](../../conferences/neurips-2026/cards-0009.md#paper-140068)
+- [Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation](../../conferences/neurips-2026/cards-0009.md#paper-154826)
+- [Posterior Alternative Calibration in Ambiguous Inverse Problems](../../conferences/neurips-2026/cards-0009.md#paper-154341)
+- [Post-hoc Selective Classification for Reliable Synthetic Image Detection](../../conferences/neurips-2026/cards-0009.md#paper-151954)
+- [POST: Progressive Object-Slot Tokenization for Multimodal Large Language Models](../../conferences/neurips-2026/cards-0009.md#paper-153877)
+- [Post-Training Quantization with Gradient-Projected Fisher Approximation for Vision Transformers](../../conferences/neurips-2026/cards-0009.md#paper-151584)
+- [Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement](../../conferences/neurips-2026/cards-0009.md#paper-154181)
+- [Pretext Reasoning: Scaling the Building Blocks of Interleaved Multimodal Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-148179)
 
 <!-- conference-classification:end -->

@@ -649,5 +649,7 @@ Learning from interaction, feedback, and offline experience.
 - [PLATO: Pointer Learner for Agent and Task Openness](../../conferences/neurips-2026/cards-0009.md#paper-150534)
 - [Policy-Level Exploration for Coordinated Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-154020)
 - [Policy Optimization in Hybrid Discrete-Continuous Action Spaces via Mixed Gradients](../../conferences/neurips-2026/cards-0009.md#paper-151120)
+- [Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization](../../conferences/neurips-2026/cards-0009.md#paper-149722)
+- [Prevailing Bisimulation Metric Learning Is Biased: Implicit Regularization and Its Remedy](../../conferences/neurips-2026/cards-0009.md#paper-150570)
 
 <!-- conference-classification:end -->

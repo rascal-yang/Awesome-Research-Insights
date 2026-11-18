@@ -520,5 +520,7 @@ Model-wide design and information flow.
 - [Point Tracking Improves World Action Models](../../conferences/neurips-2026/cards-0009.md#paper-149146)
 - [Polar Transformers: $SO(2)^K$-Equivariant Angular Attention for Cryo-EM Image-Set Processing](../../conferences/neurips-2026/cards-0009.md#paper-156031)
 - [PolyVision: Conditional Visual Scaling Via Dynamic Expert Routing For Vision-Centric MLLMs](../../conferences/neurips-2026/cards-0009.md#paper-151361)
+- [POST: Progressive Object-Slot Tokenization for Multimodal Large Language Models](../../conferences/neurips-2026/cards-0009.md#paper-153877)
+- [Predicting What Changes: Causal Delta World Models for Risk-Aware LLM Agent Planning](../../conferences/neurips-2026/cards-0009.md#paper-154820)
 
 <!-- conference-classification:end -->

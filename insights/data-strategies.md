@@ -361,5 +361,7 @@
 - [Optimal Real-Data Allocation for Synthetic-Data-Augmented Inference](../conferences/neurips-2026/cards-0009.md#paper-148327)
 - [Optimal Transport Reweighting for Robust Learning under Spurious Correlations and Label Noise](../conferences/neurips-2026/cards-0009.md#paper-149217)
 - [Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation](../conferences/neurips-2026/cards-0009.md#paper-148535)
+- [Population-Aligned Persona Generation for LLM-based Social Simulation](../conferences/neurips-2026/cards-0009.md#paper-149049)
+- [Pose6DAug: Physically Plausible Multi-View Object Swapping for Robot Data Augmentation](../conferences/neurips-2026/cards-0009.md#paper-155020)
 
 <!-- conference-classification:end -->

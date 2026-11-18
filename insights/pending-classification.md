@@ -1100,5 +1100,9 @@
 - [GoT: A Game-Theoretic Approach to the Game of Twenty Questions](../conferences/neurips-2026/cards-0006.md#paper-150838)
 - [PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers](../conferences/neurips-2026/cards-0009.md#paper-150938)
 - [Polestar: Drift-Aware Cache Calibration and Token Commitment for Efficient Inference of Diffusion LLMs](../conferences/neurips-2026/cards-0009.md#paper-154799)
+- [Post-Training Quantization with Gradient-Projected Fisher Approximation for Vision Transformers](../conferences/neurips-2026/cards-0009.md#paper-151584)
+- [Practical Non-Stationary Graph Gaussian Processes](../conferences/neurips-2026/cards-0009.md#paper-150089)
+- [Predicting Only from Selected Evidence: A Tempered Product-of-Experts Bottleneck for Auditable EEG Diagnosis](../conferences/neurips-2026/cards-0009.md#paper-150685)
+- [PreFT: Prefill-only finetuning for inference efficiency](../conferences/neurips-2026/cards-0009.md#paper-151570)
 
 <!-- conference-classification:end -->

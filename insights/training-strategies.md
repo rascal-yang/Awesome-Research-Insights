@@ -817,5 +817,13 @@
 - [PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics](../conferences/neurips-2026/cards-0009.md#paper-149391)
 - [POISE: Instance-Specific Prompt Tuning under Latent Mixture Target Distributions](../conferences/neurips-2026/cards-0009.md#paper-154048)
 - [POME: Post Optimization Model Edit via Muon-Style Projection](../conferences/neurips-2026/cards-0009.md#paper-148262)
+- [Pooling Versus Ensembling for Ridge Regression Under Covariate Shift](../conferences/neurips-2026/cards-0009.md#paper-154987)
+- [Positional Encoding Is All You Need For Scalable Equivariance Constraint Relaxation](../conferences/neurips-2026/cards-0009.md#paper-151164)
+- [Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation](../conferences/neurips-2026/cards-0009.md#paper-154826)
+- [Powering Up Zeroth-Order Training via Subspace Gradient Orthogonalization](../conferences/neurips-2026/cards-0009.md#paper-153339)
+- [Predicting Plasticity in Deep Continual Learning: A Theoretical Perspective](../conferences/neurips-2026/cards-0009.md#paper-151631)
+- [Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement](../conferences/neurips-2026/cards-0009.md#paper-154181)
+- [Pretext Reasoning: Scaling the Building Blocks of Interleaved Multimodal Reasoning](../conferences/neurips-2026/cards-0009.md#paper-148179)
+- [PriFT: Prior-Support Guided Token Reweighting for Supervised Fine-Tuning](../conferences/neurips-2026/cards-0009.md#paper-153837)
 
 <!-- conference-classification:end -->

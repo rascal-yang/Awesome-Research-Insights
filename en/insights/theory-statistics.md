@@ -1094,5 +1094,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation](../../conferences/neurips-2026/cards-0009.md#paper-150211)
 - [PLLS-CP: Unsupervised Hallucination Detection with Layer Selection and Cross-Domain Conformal Guarantees](../../conferences/neurips-2026/cards-0009.md#paper-151476)
 - [PoEM: Predicting New RL Outcomes from Existing Policies](../../conferences/neurips-2026/cards-0009.md#paper-154423)
+- [Post-ADC Inference: Valid Inference After Active Data Collection](../../conferences/neurips-2026/cards-0009.md#paper-151721)
+- [Post-Selection Distributional Model Evaluation](../../conferences/neurips-2026/cards-0009.md#paper-154748)
+- [Prediction-Augmented Trees for Reliable Statistical Inference](../../conferences/neurips-2026/cards-0009.md#paper-150796)
+- [Prediction-Powered Inference Across Many Tasks for AI Evaluations and Social Science Research](../../conferences/neurips-2026/cards-0009.md#paper-149115)
 
 <!-- conference-classification:end -->

@@ -625,5 +625,11 @@
 - [Policy-DRIFT: Dynamic Reward-Informed Flow Trajectory Steering](../conferences/neurips-2026/cards-0009.md#paper-154425)
 - [Policy-Level Exploration for Coordinated Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0009.md#paper-154020)
 - [Policy Optimization in Hybrid Discrete-Continuous Action Spaces via Mixed Gradients](../conferences/neurips-2026/cards-0009.md#paper-151120)
+- [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](../conferences/neurips-2026/cards-0009.md#paper-155506)
+- [PORT: Preference Optimization via Robust Token-Level Reweighting](../conferences/neurips-2026/cards-0009.md#paper-151657)
+- [Power Distribution Bridges Sampling, Self-Reward RL, and Self-Distillation](../conferences/neurips-2026/cards-0009.md#paper-154816)
+- [Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization](../conferences/neurips-2026/cards-0009.md#paper-149722)
+- [Preserving Exploration for LLM Reasoning via Mean Order-Statistic Alignment](../conferences/neurips-2026/cards-0009.md#paper-154128)
+- [Prevailing Bisimulation Metric Learning Is Biased: Implicit Regularization and Its Remedy](../conferences/neurips-2026/cards-0009.md#paper-150570)
 
 <!-- conference-classification:end -->

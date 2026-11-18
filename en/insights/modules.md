@@ -404,5 +404,11 @@ Reusable components and local changes to model inputs or connections.
 - [PDE-SSM: A Spectral State Space Approach to Spatial Mixing in Diffusion Transformers](../../conferences/neurips-2026/cards-0009.md#paper-149720)
 - [Phase-Adaptive Fusion: Spatio-Temporal Modulation for VLA Models](../../conferences/neurips-2026/cards-0009.md#paper-155415)
 - [PIVOT: A Unified Agentic Framework for Streaming Long-Video Understanding](../../conferences/neurips-2026/cards-0009.md#paper-152042)
+- [Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement](../../conferences/neurips-2026/cards-0009.md#paper-154608)
+- [Positional LSH: Binary Block Matrix Approximation for Attention with Linear Biases](../../conferences/neurips-2026/cards-0009.md#paper-148423)
+- [Precision-Aware Hopfield Retrieval: Unifying Population Codes and Memory Retrieval with Information Optimization](../../conferences/neurips-2026/cards-0009.md#paper-149371)
+- [PreCoMem: Predictive Cognitive Memory for Self-Evolving Long-Term Dialogue Agents](../../conferences/neurips-2026/cards-0009.md#paper-149030)
+- [PREPING: Building Agent Memory without Tasks](../../conferences/neurips-2026/cards-0009.md#paper-153705)
+- [Preventing Error Cascades in Long-Horizon Multimodal Agents with Edge-Reliability Graph Memory](../../conferences/neurips-2026/cards-0009.md#paper-149654)
 
 <!-- conference-classification:end -->

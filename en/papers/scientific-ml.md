@@ -673,5 +673,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry](../../conferences/neurips-2026/cards-0009.md#paper-148860)
 - [Plausibility Is Not Prediction: Contrastive Evidence for LLM-Based Cellular Perturbation Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-152410)
 - [Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators](../../conferences/neurips-2026/cards-0009.md#paper-153208)
+- [Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](../../conferences/neurips-2026/cards-0009.md#paper-156090)
 
 <!-- conference-classification:end -->

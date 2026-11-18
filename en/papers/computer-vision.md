@@ -1065,5 +1065,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [PLACE: Patch-Level Agnostic Concept Extraction](../../conferences/neurips-2026/cards-0009.md#paper-155100)
 - [PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction](../../conferences/neurips-2026/cards-0009.md#paper-150984)
 - [Point4D: Long-range 4D Motion Reconstruction](../../conferences/neurips-2026/cards-0009.md#paper-155736)
+- [PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition](../../conferences/neurips-2026/cards-0009.md#paper-154017)
+- [Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement](../../conferences/neurips-2026/cards-0009.md#paper-154608)
+- [PosePlaner: Denoising Any Feedforward Pose Predictor from Pairwise Planar Geometry](../../conferences/neurips-2026/cards-0009.md#paper-148270)
+- [Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation](../../conferences/neurips-2026/cards-0009.md#paper-139254)
 
 <!-- conference-classification:end -->

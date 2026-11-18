@@ -380,5 +380,6 @@ Objectives, auxiliary supervision, and regularization.
 - [PhysDNet: Physics-Driven Gradient Amplification for Real-Time Image Dehazing](../../conferences/neurips-2026/cards-0009.md#paper-152574)
 - [Physics-Informed Optimal Control by Control-Only Supervision with Error Guarantees on Value and Policy](../../conferences/neurips-2026/cards-0009.md#paper-154719)
 - [PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion](../../conferences/neurips-2026/cards-0009.md#paper-153886)
+- [Predictive but Not Plannable: RC-aux for Latent World Models](../../conferences/neurips-2026/cards-0009.md#paper-151013)
 
 <!-- conference-classification:end -->

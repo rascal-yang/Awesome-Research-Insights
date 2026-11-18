@@ -573,5 +573,7 @@
 - [Platonic Task Arithmetic](../conferences/neurips-2026/cards-0009.md#paper-155058)
 - [Point4D: Long-range 4D Motion Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-155736)
 - [Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators](../conferences/neurips-2026/cards-0009.md#paper-153208)
+- [PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition](../conferences/neurips-2026/cards-0009.md#paper-154017)
+- [Positional Encoding and Prompt-Order Sensitivity in In-Context Learning](../conferences/neurips-2026/cards-0009.md#paper-151605)
 
 <!-- conference-classification:end -->
