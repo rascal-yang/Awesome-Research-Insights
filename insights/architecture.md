@@ -324,6 +324,7 @@
 - [联合生成样本与NCDE混合动力学参数](../conferences/icml-2026/cards/5701-5800.md#zhang26ab-architecture) · Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations
 - [用复数倒数乘积单元拟合尖锐有理结构](../conferences/icml-2026/cards/5801-5900.md#zhang26cy-architecture) · CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions
 - [可训练零空间的约束候选选择](../conferences/icml-2026/cards/6001-6100.md#zhao26v-architecture) · CAffNet: Hard Constraint-Affine Neural Networks
+- [latent条件Phase-Type decoder的有限尾部拟合](../conferences/icml-2026/cards/6301-6400.md#ziani26a-architecture) · Phase-Type Variational Autoencoders for Heavy-Tailed Data
 
 <a id="by-graph-and-recommendation"></a>
 

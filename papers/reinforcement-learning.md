@@ -67,6 +67,8 @@
 - <a id="zhang26fp-loss-functions"></a>[HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fp)
 - <a id="zhao26ai-loss-functions"></a>[SPAR: Support-Preserving Action Rectification](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ai)
 - <a id="zhong26k-loss-functions"></a>[Reparameterization Flow Policy Optimization](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26k)
+- <a id="zhuang26b-loss-functions"></a>[Geometric Control of Out-of-Distribution Shift in Safe Offline RL](../conferences/icml-2026/cards/6201-6300.md#paper-zhuang26b)
+- <a id="zitouni26a-loss-functions"></a>[PAC-Bayesian Reinforcement Learning Trains Generalizable Policies](../conferences/icml-2026/cards/6301-6400.md#paper-zitouni26a)
 
 <a id="by-optimization"></a>
 

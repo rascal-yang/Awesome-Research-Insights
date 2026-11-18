@@ -214,6 +214,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhou26r-loss-functions"></a>[SpecPL: Disentangling Spectral Granularity for Prompt Learning](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26r)
 - <a id="zhou26ar-loss-functions"></a>[Segment Anything with Robust Uncertainty-Accuracy Correlation](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ar)
 - <a id="zhu26p-loss-functions"></a>[EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26p)
+- <a id="zilberstein26b-loss-functions"></a>[Learning Normalized Energy Models for Linear Inverse Problems](../../conferences/icml-2026/cards/6301-6400.md#paper-zilberstein26b)
 
 <a id="by-optimization"></a>
 
@@ -625,6 +626,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yang26co-representation-learning"></a>[A Hypertoroidal Covering for Perfect Color Equivariance](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26co)
 - <a id="zhao26t-representation-learning"></a>[Learning Sparse Visual Representations via Spatial-Semantic Factorization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26t)
 - <a id="zhao26bw-representation-learning"></a>[LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bw)
+- <a id="zielinski26a-representation-learning"></a>[Affine-Equivariant Kernel Space Encoding for NeRF Editing](../../conferences/icml-2026/cards/6301-6400.md#paper-zielinski26a)
 
 <a id="by-evaluation"></a>
 

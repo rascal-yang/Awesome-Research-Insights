@@ -395,6 +395,7 @@
 - [否定处理的晚层attention捷径诊断](../conferences/icml-2026/cards/6201-6300.md#zhou26bq-evaluation) · How Language Models Process Negation
 - [调度熵的短程拟合与context扰动](../conferences/icml-2026/cards/6201-6300.md#zhu26g-evaluation) · Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems
 - [合作率要结合监控结构与策略收益判断](../conferences/icml-2026/cards/6201-6300.md#zhu26ac-evaluation) · Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents
+- [拆开token碎片化与字符噪声的鲁棒评价](../conferences/icml-2026/cards/6201-6300.md#zhuo26b-evaluation) · Understanding the Ability of LLMs to Handle Character-Level Perturbation
 
 <a id="by-computer-vision"></a>
 
@@ -644,6 +645,7 @@
 - [情绪头的中层选择性与深层共享性](../conferences/icml-2026/cards/5901-6000.md#zhang26fi-evaluation) · Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow
 - [词汇相近时的关系完整性防御评测](../conferences/icml-2026/cards/5901-6000.md#zhang26fr-evaluation) · TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models
 - [准确率上升时的推理一致性漂移](../conferences/icml-2026/cards/6001-6100.md#zhao26am-evaluation) · On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs
+- [位置与复述混杂后的幻觉校准](../conferences/icml-2026/cards/6301-6400.md#zohrabi26a-evaluation) · HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

@@ -88,6 +88,7 @@
 - <a id="zhang26ab-architecture"></a>[Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ab)
 - <a id="zhang26cy-architecture"></a>[CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cy)
 - <a id="zhao26v-architecture"></a>[CAffNet: Hard Constraint-Affine Neural Networks](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26v)
+- <a id="ziani26a-architecture"></a>[Phase-Type Variational Autoencoders for Heavy-Tailed Data](../conferences/icml-2026/cards/6301-6400.md#paper-ziani26a)
 
 <a id="by-modules"></a>
 
@@ -508,6 +509,7 @@
 - <a id="zhou26ak-optimization"></a>[DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ak)
 - <a id="zhou26bl-optimization"></a>[BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bl)
 - <a id="zhu26am-optimization"></a>[ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26am)
+- <a id="zihan26a-optimization"></a>[Can local learning match self-supervised backpropagation?](../conferences/icml-2026/cards/6301-6400.md#paper-zihan26a)
 
 <a id="by-reinforcement-learning"></a>
 

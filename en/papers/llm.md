@@ -198,6 +198,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhu26i-loss-functions"></a>[Simple Denoising Diffusion Language Models](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26i)
 - <a id="zhu26ab-loss-functions"></a>[ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ab)
 - <a id="zhu26av-loss-functions"></a>[Hybrid Policy Distillation for LLMs](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26av)
+- <a id="zong26a-loss-functions"></a>[Conflict-Aware Adaptive Alignment for LLM Hallucination Mitigation](../../conferences/icml-2026/cards/6301-6400.md#paper-zong26a)
 
 <a id="by-optimization"></a>
 
@@ -314,6 +315,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhao26ap-optimization"></a>[ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ap)
 - <a id="zhao26bi-optimization"></a>[TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bi)
 - <a id="zhou26av-optimization"></a>[Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26av)
+- <a id="zmushko26a-optimization"></a>[One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining](../../conferences/icml-2026/cards/6301-6400.md#paper-zmushko26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1161,6 +1163,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zheng26ae-inference"></a>[Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ae)
 - <a id="zheng26ai-inference"></a>[DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ai)
 - <a id="zhiren26a-inference"></a>[SubspacePath Pruner: Inference-time Pruning via Probe-based Representation–Parameter Coupling](../../conferences/icml-2026/cards/6101-6200.md#paper-zhiren26a)
+- <a id="zhuang26a-inference"></a>[The Geometric Reasoner: Manifold-Informed Latent Foresight Search for Long-Context Reasoning](../../conferences/icml-2026/cards/6201-6300.md#paper-zhuang26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1574,6 +1577,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhou26bq-evaluation"></a>[How Language Models Process Negation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bq)
 - <a id="zhu26g-evaluation"></a>[Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26g)
 - <a id="zhu26ac-evaluation"></a>[Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ac)
+- <a id="zhuo26b-evaluation"></a>[Understanding the Ability of LLMs to Handle Character-Level Perturbation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhuo26b)
 
 <a id="by-theory-statistics"></a>
 

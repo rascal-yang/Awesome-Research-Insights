@@ -324,6 +324,7 @@ Model-wide design and information flow.
 - [Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations](../../conferences/icml-2026/cards/5701-5800.md#zhang26ab-architecture) · 中文
 - [CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](../../conferences/icml-2026/cards/5801-5900.md#zhang26cy-architecture) · 中文
 - [CAffNet: Hard Constraint-Affine Neural Networks](../../conferences/icml-2026/cards/6001-6100.md#zhao26v-architecture) · 中文
+- [Phase-Type Variational Autoencoders for Heavy-Tailed Data](../../conferences/icml-2026/cards/6301-6400.md#ziani26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

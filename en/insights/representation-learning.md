@@ -102,6 +102,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [A Hypertoroidal Covering for Perfect Color Equivariance](../../conferences/icml-2026/cards/5401-5500.md#yang26co-representation-learning) · 中文
 - [Learning Sparse Visual Representations via Spatial-Semantic Factorization](../../conferences/icml-2026/cards/6001-6100.md#zhao26t-representation-learning) · 中文
 - [LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents](../../conferences/icml-2026/cards/6001-6100.md#zhao26bw-representation-learning) · 中文
+- [Affine-Equivariant Kernel Space Encoding for NeRF Editing](../../conferences/icml-2026/cards/6301-6400.md#zielinski26a-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

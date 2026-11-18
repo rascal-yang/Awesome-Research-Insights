@@ -124,6 +124,7 @@
 - [约束子集概率的MoE路由代理](../conferences/icml-2026/cards/6001-6100.md#zhao26ap-optimization) · ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts
 - [三值PTQ与相邻层激活精度耦合](../conferences/icml-2026/cards/6001-6100.md#zhao26bi-optimization) · TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization
 - [沿合并checkpoint主方向外推并验证选点](../conferences/icml-2026/cards/6201-6300.md#zhou26av-optimization) · Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training
+- [一拍延迟的update级外推纠正](../conferences/icml-2026/cards/6301-6400.md#zmushko26a-optimization) · One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining
 
 <a id="by-computer-vision"></a>
 
@@ -499,6 +500,7 @@
 - [联邦多目标同时控制客户端漂移与权重映射敏感性](../conferences/icml-2026/cards/6101-6200.md#zhou26ak-optimization) · DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning
 - [块级norm比例调sign动量更新](../conferences/icml-2026/cards/6201-6300.md#zhou26bl-optimization) · BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training
 - [按类梯度方向一致性分流积分提升与比例抑制](../conferences/icml-2026/cards/6201-6300.md#zhu26am-optimization) · ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control
+- [以末层反馈与空间依赖逼近局部SSL梯度](../conferences/icml-2026/cards/6301-6400.md#zihan26a-optimization) · Can local learning match self-supervised backpropagation?
 
 <a id="by-graph-and-recommendation"></a>
 

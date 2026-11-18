@@ -102,6 +102,7 @@
 - [有界颜色通道的周期提升与反射作用](../conferences/icml-2026/cards/5401-5500.md#yang26co-representation-learning) · A Hypertoroidal Covering for Perfect Color Equivariance
 - [把稀疏semantictokens与dense位置系数一同保留](../conferences/icml-2026/cards/6001-6100.md#zhao26t-representation-learning) · Learning Sparse Visual Representations via Spatial-Semantic Factorization
 - [顶点位移场编码网格拓扑](../conferences/icml-2026/cards/6001-6100.md#zhao26bw-representation-learning) · LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents
+- [Mahalanobis核邻域的可编辑feature场](../conferences/icml-2026/cards/6301-6400.md#zielinski26a-representation-learning) · Affine-Equivariant Kernel Space Encoding for NeRF Editing
 
 <a id="by-nlp"></a>
 

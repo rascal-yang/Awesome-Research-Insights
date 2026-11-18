@@ -219,6 +219,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="xu26u-inference"></a>[Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26u)
 - <a id="zhang26gi-inference"></a>[Langevin Rollout Optimization for Modelic Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gi)
 - <a id="zhao26by-inference"></a>[TapSampling: Inference-Time Sampling with a Task-Progress-Understanding Verifier for Robotic Manipulation](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26by)
+- <a id="zhu26bj-inference"></a>[ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26bj)
 
 <a id="by-representation-learning"></a>
 

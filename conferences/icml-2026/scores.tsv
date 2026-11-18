@@ -6290,26 +6290,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6289	zhu26be							初筛，原文与先例核查待补：NIW evidential Student-t head、error×evidence惩罚、gated residual mean和smoothing均为成熟evidential regression/残差适配；点云任务与ranking改善不足证明新通用机制。预测分布有概率形式不等真实校准或epistemic识别，gate也不严格界定均值改变量。PDF4–5。	rule-excluded
 6290	zhu26bf	4	4	3	4	76		初筛，原文与先例核查待补：暂定新增4/复用4/使用3/独特4：将双向video diffusion蒸馏为因果学生时，先用teacher-forced AR teacher生成同clean prefix条件的ODE pairs，再做既有SelfForcing DMD；检查学生可见信息是否足以确定teacher目标。；必须以完整学生信息含history分析conditional variance；仅依当前frame的证明不能自动覆盖history学生，连续样本存在同值不等正概率碰撞。MSE条件均值不自动推出所有图像模糊或生成分布错误；teacher forcing仍有真实prefix与selfprefix偏移，DMD缓解不保证消除。 PDF4,5,6,7页。	scored
 6291	zhu26bg							初筛，原文与先例核查待补：prompt bank/softmax router/reliability gate与PPO选择routing bias/温度及mask refine菜单，属于成熟contextual policy/动态模块选择；双action命名和检出/IoU联合reward未见独立新学习规则或匹配预算规律。PDF4–5。	rule-excluded
-6292	zhu26bh							待原文复核评分	pending
-6293	zhu26bi							待原文复核评分	pending
-6294	zhu26bj							待原文复核评分	pending
-6295	zhuang26a							待原文复核评分	pending
-6296	zhuang26b							待原文复核评分	pending
-6297	zhuang26c							待原文复核评分	pending
-6298	zhuang26d							待原文复核评分	pending
-6299	zhuo26a							待原文复核评分	pending
-6300	zhuo26b							待原文复核评分	pending
-6301	zhuo26c							待原文复核评分	pending
-6302	zhuo26d							待原文复核评分	pending
-6303	ziani26a							待原文复核评分	pending
-6304	zielinski26a							待原文复核评分	pending
-6305	zihan26a							待原文复核评分	pending
-6306	zilberstein26a							待原文复核评分	pending
-6307	zilberstein26b							待原文复核评分	pending
-6308	zitouni26a							待原文复核评分	pending
-6309	zmushko26a							待原文复核评分	pending
-6310	zohrabi26a							待原文复核评分	pending
-6311	zong26a							待原文复核评分	pending
+6292	zhu26bh							初筛，原文与先例核查待补：现有PDF第3–5页为27人图片描述真假判断的EEG/ERP观察，对HalluCorrect/NoHallu/HalluWrong做现有ROI/时间窗统计。研究可说明人类辨别差异，但当前未给可复用神经训练/解码/评价控制规则，ERP相关差异不识别因果fact-checking pathway；未形成具身/相关DL具体新技术选择，暂排，并非因neuroimaging主题。	rule-excluded
+6293	zhu26bi							初筛，原文与先例核查待补：现有PDF第5–8页以GRPO训crop proposal、同MLLM或GDINO/SAM执行，reward为格式/低overlap/面积/GT coverage及AP/AR/mIoU加权。当前属于成熟regionproposal RL、sensing-action模块化与任务reward组合，未分离新的几何/信息采集目标或预算分配规则；pureRL无SFT和更好小目标分数不足独立机制，暂排。	rule-excluded
+6294	zhu26bj	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按按线程混合熵选择协作动作，最近方法差异见baseline且待核；复用5：协作agent有正确task DAG时，可在合法候选中选使human/robot线程混合熵最小的下一步，鼓励分工而非模仿人类下步；这是协调代价代理，不保证最短完工。 可用4受线程熵偏好历史分工并不直接估duration/资源冲突，任务图合法不等物理执行安全；从predicted取交集会丢合法好动作。训练同类contrastive负例可能语义相同；baseline采样与本模型greedy不同、视频级split含同task和额外训练预算待核。 独特3暂定，全库替代性待统一核查；PDF第4/5/6/7/8页。	scored
+6295	zhuang26a	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按chunk锚点的前瞻与软几何评分，最近方法差异见baseline且待核；复用5：长推理KV受限时可保最近token与unit hidden锚，局部扰动锚点并以短rollout置信度、二阶hidden差和相邻锚排斥评分；锚语义和正确性都只是代理。 可用3受平均自采logp是低熵偏好非verifier正确性，hidden二阶差非语义curvature，排斥一个前anchor不保证跨sample多样性。固定projection/injection接口和EOC未训有效性待核；KV有界不等完整上下文压缩无损，tokens是否含全部候选lookahead与re-prefill成本待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+6296	zhuang26b	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按flow base空间的可行加权形状与refiner正则，最近方法差异见baseline且待核；复用5：safe offline RL可冻结flow+decoder，把可行高价值动作集中到Gaussian base中心，再分别训练reward/safety refiner并加体积/近端正则；几何界只管条件分布偏移，不是零违规证书。 可用3受KL分解需baseprior与真实behavior的有界density ratio及support，C(s)并非可自动忽略；Wasserstein还需Lipschitz/矩条件。实际Lreg明确只是KL surrogate，reward/safety前置非可逆更新未计全密度，critic可行不等真实可行，有限cost实测不认证安全保证。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+6297	zhuang26c	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按blind子空间的熵门控投影衰减，最近方法差异见baseline且待核；复用5：MLLM解码可离线SVD blind hidden构prior子空间，在线仅衰减其投影，强度随token熵和投影夹角变化；保存正交分量是代数性质，不保证保存全部语义。 可用4受blind SVD空间含正常语义不等因果language prior；orthogonal残差保留不等全部非prior语义不变。对正交projection，cos≥0所以gate有界依非零向量，zero分支需核；距离到hgt改善还需prior-aligned residual和适合步长，非无条件回manifold保证。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6页。	scored
+6298	zhuang26d							初筛，原文与先例核查待补：现有PDF第3–6页以IRT能力估计路径上的subset/full梯度差训练个性化selector，是成熟gradient/trajectory matching从全空间改有限路径的应用；理论还要求路径ε覆盖整个Θ，不是一般优化轨迹自动满足。当前未分离超出既有dataset distillation/gradient subset matching的新独立目标，教育选题减少20%不足单独成立，暂排。	rule-excluded
+6299	zhuo26a							初筛，原文与先例核查待补：现有PDF第4–6页以已有anchor双向attention、hard assignment和local edge pruning实现block prior，核心正则是Laplacian最小g特征值之和，属于成熟谱聚类连通分量约束。当前未分离新的block识别/传播原则，假定class block理想对heterophily也有限；linear cost只固定anchor数，暂按成熟组件组合排除。	rule-excluded
+6300	zhuo26b	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按拆开token碎片化与字符噪声的鲁棒评价，最近方法差异见baseline且待核；复用5：文本鲁棒性测试应把重分词与真实字符噪声分开，并控制无关prefix长度；模型能读字符级tokens不等能稳定去噪，长上下文噪声可能另成瓶颈。 可用4受仅GSM数学内容和固定prompt，不泛化任意语言/代码；字符信息破坏与token预算仍可能混杂。输出能纠错不证明内部唯一去噪机制；explicit CoT改变compute和答案提取，需同token预算、噪声强度及分词器覆盖复核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6页。	scored
+6301	zhuo26c							初筛，原文与先例核查待补：现有PDF第3–5页主要提供658可执行CTF环境、自动container化、验证轨迹和hint辅助数据采集，再标准SFT训练agent。当前新意在环境/数据工程，未隔离新通用更新目标或可复用决策机制；486轨迹与benchmark提升不足单独成立，按工作流/数据资源暂排。	rule-excluded
+6302	zhuo26d							初筛，原文与先例核查待补：现有PDF第4–6页以nodewise MLP先分区，再absolute topology的normalized-cut/orthogonality regularizer及SᵀHSᵀAS differentiable pooling，主要属于成熟MLP/mincutpool结构。低通encoder的谱假设不覆盖所有GNN/GT，避免smoothing也不保证可表达真实分区；未见超出既有投影加结构loss的独立操作，脑分类应用不足，暂排。	rule-excluded
+6303	ziani26a	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按latent条件Phase-Type decoder的有限尾部拟合，最近方法差异见baseline且待核；复用5：正值heavy-tail数据可把VAE Gaussian decoder换成latent条件PH吸收时间分布，直接采decoder而非只画均值，并以tail-KS/高分位误差调phase数；有限尾部拟合不认证渐近tail index。 可用4受每个有限PH conditional是轻尾，shared latent混合可能更丰富但不自动有正确渐近正则变化；结论限观测范围。正值support与transform需匹配，matrix exp/截断precision、极端rate和phase数优化不稳；全混合tail dependence非仅conditional独立即可保证。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+6304	zielinski26a	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按Mahalanobis核邻域的可编辑feature场，最近方法差异见baseline且待核；复用5：可编辑NeRF可用各Gaussian covariance定义的Mahalanobis邻域插值latent，并在训练时由hashgrid中心取feature、推理固化到kernels；共同affine变换下的特征等变与独立局部编辑须区分。 可用3受Mahalanobis不变需query/所有kernels同可逆affine及covariance一致变换，单独不同局部变形无同一全局保证；完整radianceMLP非自动affine-equivariant。icosahedra近似/固定topK边界仍可能换邻居，hashgrid联合sampling不等固定teacher蒸馏，内存/搜索成本待核。 独特3暂定，全库替代性待统一核查；PDF第4/5/6/7页。	scored
+6305	zihan26a	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按以末层反馈与空间依赖逼近局部SSL梯度，最近方法差异见baseline且待核；复用5：局部SSL可用末层活动作reference并令反馈投影依空间位置，以更接近全局BP；严格同更新只在线性、正交与反馈快速最优条件下成立，不可称普通CNN完全无需BP等价。 可用3受严格条件需square orthonormal W及最优B/时间尺度分离，ReLU/normalization/一般conv破等价。理想Δ°训练本身用BP不是部署local规则；DFB有跨层通信，2D反馈可能高成本，生物locality与硬件优势未认证。 独特4暂定，全库替代性待统一核查；PDF第4/5/6/7/8页。	scored
+6306	zilberstein26a							初筛，原文与先例核查待补：现有PDF第3–5页以offline节点capacitated clustering/coarsening结合stochastic b-matching给dynamic allocation界。该online matching本身可能有独立算法价值，但缓存未给相关DL训练/推理/具身具体技术接口，不能只以应用分配模拟或笼统learning联系纳入，暂按范围不满足排除，不因理论或医疗主题。	rule-excluded
+6307	zilberstein26b	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按covariance score约束的跨退化能量归一，最近方法差异见baseline且待核；复用5：线性inverse solver若要比较不同退化的posterior evidence，可同时学习image-score和covariance-score，将各noise条件energy常数对齐；归一精确性仍依理想score与高噪声边界。 可用3受H⁻¹转colored-noise只对可逆operator直接成立，inpainting/superres需极限/广义逆处理；finite covariance/training range与数值energy误差使normalized posterior仅近似。MH至多纠正到学习目标而非真实posterior，证据自评不能独立认证校准；CSM高阶autodiff和采样成本待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+6308	zitouni26a	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按mixing与参数KL驱动的posterior RL正则，最近方法差异见baseline且待核；复用5：offpolicy SAC可对policy参数分布优化经验return和mixing-scaled KL复杂度，并以fresh rollout更新posterior探索；实际自相关估计下的bound曲线只能暂作诊断代理。 可用3受weighted reward有界、data-independent/合法处理prior、正确mixing上界是理论条件；clip对非负return可给保守loss但改target，负reward需另处理。reward/state自相关不证明全chain总变差mixing上界；动态moving prior与adaptive数据、trajectory权重随transition变化的bounded difference需核，暂不认证formal performance guarantee。 独特3暂定，全库替代性待统一核查；PDF第4/5/6/7/8/9页。	scored
+6309	zmushko26a	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按一拍延迟的update级外推纠正，最近方法差异见baseline且待核；复用5：固定一拍gradient delay的pipeline预训练可先选高momentum/Muon，再以2u(t−1)−u(t−2)的update外推纠正；需保optimizer state与计额外模型大小buffer，不能泛化任意异步delay。 可用4受一拍delay与sync模拟实验不等实cluster无通信瓶颈；变delay/pipeline depth需另证。理论smooth/noise/decay条件不认证神经非凸到globaloptimum，外推可放大噪声且多存model-sized buffer；Muon理论与实际数值NS近似、全部tokens/hardware吞吐匹配待核。 独特4暂定，全库替代性待统一核查；PDF第4/5/6/7/8页。	scored
+6310	zohrabi26a	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按位置与复述混杂后的幻觉校准，最近方法差异见baseline且待核；复用5：用visual attention检测caption幻觉前，应按token位置和对象是否首提分层；可训练external-feature条件平衡的内部probe，再加真实class prior恢复posterior，避免只学caption结构捷径。 可用4受prior恢复需重采样仅改p(y|xe)、保p(xi|y,xe)且两net校准；域移/caption风格变破条件。对象标签对未提及真物体不直接评价，去对象可能损细节；外部editor和beam额外算力，按位置相关不识别attention因果作用。 独特4暂定，全库替代性待统一核查；PDF第4/5/6/7/8页。	scored
+6311	zong26a	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按真诚与有用冲突的pair自适应DPO margin，最近方法差异见baseline且待核；复用5：真实性排序的偏好对可按truth增益加负help差缩减非负margin，降低冲突对相对优化强度；这是有具体clamp的margin目标，不能称保证多目标Pareto最优。 可用4受margin0仍有DPO更新，不等停止冲突训练；固定正margin在同当前logit增梯度强度，需注意与sampleweight不同。score差尺度/噪声、truth标签选pair以及judge共享偏差，Δ依离线分数非真实知识缺失检测，拒答率低不自动好；全库相似margin法待核。 独特3暂定，全库替代性待统一核查；PDF第4/5/6/7/8页。	scored
 6312	zong26b							待原文复核评分	pending
 6313	zoroddu26a							待原文复核评分	pending
 6314	zou26a							待原文复核评分	pending

@@ -395,6 +395,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [How Language Models Process Negation](../../conferences/icml-2026/cards/6201-6300.md#zhou26bq-evaluation) · 中文
 - [Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems](../../conferences/icml-2026/cards/6201-6300.md#zhu26g-evaluation) · 中文
 - [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](../../conferences/icml-2026/cards/6201-6300.md#zhu26ac-evaluation) · 中文
+- [Understanding the Ability of LLMs to Handle Character-Level Perturbation](../../conferences/icml-2026/cards/6201-6300.md#zhuo26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -644,6 +645,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](../../conferences/icml-2026/cards/5901-6000.md#zhang26fi-evaluation) · 中文
 - [TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26fr-evaluation) · 中文
 - [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](../../conferences/icml-2026/cards/6001-6100.md#zhao26am-evaluation) · 中文
+- [HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](../../conferences/icml-2026/cards/6301-6400.md#zohrabi26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

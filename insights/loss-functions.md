@@ -80,6 +80,7 @@
 - [仅错换token去噪与反uniform正则](../conferences/icml-2026/cards/6201-6300.md#zhu26i-loss-functions) · Simple Denoising Diffusion Language Models
 - [仅微调router将专家cache局部性内化](../conferences/icml-2026/cards/6201-6300.md#zhu26ab-loss-functions) · ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference
 - [离线prefix上的非对称蒸馏权重](../conferences/icml-2026/cards/6201-6300.md#zhu26av-loss-functions) · Hybrid Policy Distillation for LLMs
+- [真诚与有用冲突的pair自适应DPO margin](../conferences/icml-2026/cards/6301-6400.md#zong26a-loss-functions) · Conflict-Aware Adaptive Alignment for LLM Hallucination Mitigation
 
 <a id="by-computer-vision"></a>
 
@@ -151,6 +152,7 @@
 - [细粒度置换标签的prompt辅助监督](../conferences/icml-2026/cards/6101-6200.md#zhou26r-loss-functions) · SpecPL: Disentangling Spectral Granularity for Prompt Learning
 - [分离误差与不确定度通道生成失配样本](../conferences/icml-2026/cards/6101-6200.md#zhou26ar-loss-functions) · Segment Anything with Robust Uncertainty-Accuracy Correlation
 - [实例相似邻域的语义一致性正则](../conferences/icml-2026/cards/6201-6300.md#zhu26p-loss-functions) · EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation
+- [covariance score约束的跨退化能量归一](../conferences/icml-2026/cards/6301-6400.md#zilberstein26b-loss-functions) · Learning Normalized Energy Models for Linear Inverse Problems
 
 <a id="by-nlp"></a>
 
@@ -192,6 +194,8 @@
 - [辅助potential投影的TD更新](../conferences/icml-2026/cards/5901-6000.md#zhang26fp-loss-functions) · HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments
 - [冻结BC锚点上的潜变量自模仿](../conferences/icml-2026/cards/6001-6100.md#zhao26ai-loss-functions) · SPAR: Support-Preserving Action Rectification
 - [flow路径梯度更新的近期动作与均匀CFM约束](../conferences/icml-2026/cards/6101-6200.md#zhong26k-loss-functions) · Reparameterization Flow Policy Optimization
+- [flow base空间的可行加权形状与refiner正则](../conferences/icml-2026/cards/6201-6300.md#zhuang26b-loss-functions) · Geometric Control of Out-of-Distribution Shift in Safe Offline RL
+- [mixing与参数KL驱动的posterior RL正则](../conferences/icml-2026/cards/6301-6400.md#zitouni26a-loss-functions) · PAC-Bayesian Reinforcement Learning Trains Generalizable Policies
 
 <a id="by-robotics"></a>
 

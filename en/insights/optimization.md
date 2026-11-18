@@ -124,6 +124,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts](../../conferences/icml-2026/cards/6001-6100.md#zhao26ap-optimization) · 中文
 - [TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../../conferences/icml-2026/cards/6001-6100.md#zhao26bi-optimization) · 中文
 - [Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training](../../conferences/icml-2026/cards/6201-6300.md#zhou26av-optimization) · 中文
+- [One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining](../../conferences/icml-2026/cards/6301-6400.md#zmushko26a-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -499,6 +500,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ak-optimization) · 中文
 - [BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/6201-6300.md#zhou26bl-optimization) · 中文
 - [ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control](../../conferences/icml-2026/cards/6201-6300.md#zhu26am-optimization) · 中文
+- [Can local learning match self-supervised backpropagation?](../../conferences/icml-2026/cards/6301-6400.md#zihan26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

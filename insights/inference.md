@@ -390,6 +390,7 @@
 - [按截断长度分布的尾部风险调度](../conferences/icml-2026/cards/6101-6200.md#zheng26ae-inference) · Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions
 - [按通信粒度选择tile调度与collective](../conferences/icml-2026/cards/6101-6200.md#zheng26ai-inference) · DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs
 - [由场景probe组合缓存head轴能量](../conferences/icml-2026/cards/6101-6200.md#zhiren26a-inference) · SubspacePath Pruner: Inference-time Pruning via Probe-based Representation–Parameter Coupling
+- [chunk锚点的前瞻与软几何评分](../conferences/icml-2026/cards/6201-6300.md#zhuang26a-inference) · The Geometric Reasoner: Manifold-Informed Latent Foresight Search for Long-Context Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -634,6 +635,7 @@
 - [跨控制步保留脉冲残余电位](../conferences/icml-2026/cards/5201-5300.md#xu26u-inference) · Error Amplification Limits ANN-to-SNN Conversion in Continuous Control
 - [蒸馏rollout return梯度供Langevin规划](../conferences/icml-2026/cards/5901-6000.md#zhang26gi-inference) · Langevin Rollout Optimization for Modelic Reinforcement Learning
 - [轨迹进度差验证动作与后验候选](../conferences/icml-2026/cards/6001-6100.md#zhao26by-inference) · TapSampling: Inference-Time Sampling with a Task-Progress-Understanding Verifier for Robotic Manipulation
+- [按线程混合熵选择协作动作](../conferences/icml-2026/cards/6201-6300.md#zhu26bj-inference) · ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response
 
 <a id="by-multimodal"></a>
 
@@ -752,6 +754,7 @@
 - [先保图像问题分支再融合RAG文本](../conferences/icml-2026/cards/6001-6100.md#zhao26g-inference) · When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs
 - [Hilbert序的连续块稀疏与层间滑动](../conferences/icml-2026/cards/6101-6200.md#zheng26m-inference) · HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data
 - [流式视觉缓存清理与训练mask对齐](../conferences/icml-2026/cards/6101-6200.md#zhong26m-inference) · FlowNar: Scalable Streaming Narration for Long-Form Videos
+- [blind子空间的熵门控投影衰减](../conferences/icml-2026/cards/6201-6300.md#zhuang26c-inference) · Mitigating Manifold Departure: Uncertainty-Aware Subspace Rectification for Trustworthy MLLM Decoding
 
 <a id="by-ml-foundations"></a>
 

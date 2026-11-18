@@ -80,6 +80,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Simple Denoising Diffusion Language Models](../../conferences/icml-2026/cards/6201-6300.md#zhu26i-loss-functions) · 中文
 - [ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](../../conferences/icml-2026/cards/6201-6300.md#zhu26ab-loss-functions) · 中文
 - [Hybrid Policy Distillation for LLMs](../../conferences/icml-2026/cards/6201-6300.md#zhu26av-loss-functions) · 中文
+- [Conflict-Aware Adaptive Alignment for LLM Hallucination Mitigation](../../conferences/icml-2026/cards/6301-6400.md#zong26a-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -151,6 +152,7 @@ Objectives, auxiliary supervision, and regularization.
 - [SpecPL: Disentangling Spectral Granularity for Prompt Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26r-loss-functions) · 中文
 - [Segment Anything with Robust Uncertainty-Accuracy Correlation](../../conferences/icml-2026/cards/6101-6200.md#zhou26ar-loss-functions) · 中文
 - [EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation](../../conferences/icml-2026/cards/6201-6300.md#zhu26p-loss-functions) · 中文
+- [Learning Normalized Energy Models for Linear Inverse Problems](../../conferences/icml-2026/cards/6301-6400.md#zilberstein26b-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -192,6 +194,8 @@ Objectives, auxiliary supervision, and regularization.
 - [HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments](../../conferences/icml-2026/cards/5901-6000.md#zhang26fp-loss-functions) · 中文
 - [SPAR: Support-Preserving Action Rectification](../../conferences/icml-2026/cards/6001-6100.md#zhao26ai-loss-functions) · 中文
 - [Reparameterization Flow Policy Optimization](../../conferences/icml-2026/cards/6101-6200.md#zhong26k-loss-functions) · 中文
+- [Geometric Control of Out-of-Distribution Shift in Safe Offline RL](../../conferences/icml-2026/cards/6201-6300.md#zhuang26b-loss-functions) · 中文
+- [PAC-Bayesian Reinforcement Learning Trains Generalizable Policies](../../conferences/icml-2026/cards/6301-6400.md#zitouni26a-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
