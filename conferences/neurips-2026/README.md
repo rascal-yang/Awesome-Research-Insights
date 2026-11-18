@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **380** 篇，暂收录 **323** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **443** 篇，暂收录 **382** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -331,3 +331,62 @@
 | 多模态学习 | 表征对齐 | [AIR: Rethinking Image-Text Offset Alignment in Multimodal Contrastive  Representation Space](cards.md#paper-151241) | 先测概念距离导致的偏移失配，再调整文本方向。 |
 | 统计学习 | 不确定性校准 | [A Kernel Nonconformity Score for Multivariate Conformal Prediction](cards.md#paper-151235) | 多维残差呈非椭圆形时，用核分数校准联合预测区间。 |
 | 大语言模型 / 统计学习 | 审计校准 | [AKTD: FDR Control for LLM Training Data Detection under Approximate Exchangeability](cards.md#paper-148953) | 用独立的未入训样本估计审计统计量的不对称，再校准发现阈值。 |
+| 具身智能 | 潜动作 | [ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models](cards.md#paper-152511) | 用可组合转移作为动作生成的辅助目标 |
+| 安全评测 | 数据泄漏诊断 | [A Large-Scale Multi-Source Dataset Linking Hacker Community Discourse to the CVE Vulnerability Lifecycle](cards.md#paper-139194) | 以时间和事件 ID 双重隔离验证防御性情报分类 |
+| 神经科学 / 强化学习 | 探索先验 | [A latent control model for realistic rodent motion](cards.md#paper-148187) | 把控制用运动先验和随机探索先验分开 |
+| 大语言模型 / Agent | 可靠性 | [A Latent-Load Framework for Reliability Analysis and Intervention Design in LLM Pipelines](cards.md#paper-154404) | 按估计的错误传播收益配置有限检查点 |
+| 具身智能 | 潜世界模型 | [A Latent World-Action Model with Jointly Aligned Reasoning](cards.md#paper-149267) | 用训练期未来视觉指导可部署的潜查询 |
+| 科学机器学习 | 评测 | [ALETHEIA: A Multi-Frequency Eddy Current Pulsed Thermography Dataset for Neural Operator Learning in Nondestructive Testing](cards.md#paper-139797) | 按激励频率、网格和仿真到实测拆分神经算子测试 |
+| 学习理论 | 代数学习 | [Algebraic Machine Learning: learning as computing subsets of the subdirect decomposition from Abstract Algebra](cards.md#paper-150997) | 用同一公理接口表示训练样本和形式约束 |
+| 大语言模型 | 推理路由 | [AlgoPilot: Cross-Paradigm Reasoning in Language Models via Strategy Selection and Guidance](cards.md#paper-154391) | 将范式选择和形式化指导与执行模型分离 |
+| 强化学习 | 队列调度 | [Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret](cards.md#paper-151449) | 用预设截止点停止随机探索，后段只用置信探索 |
+| 对齐 / 社会选择 | 福利优化 | [Algorithmic Impact Reveals the Hidden Structure of Alignment](cards.md#paper-150980) | 将群体对齐规则比较转成后果与外部性约束的优化 |
+| 优化 | 迭代诊断 | [Algorithms for Linear Equations with Min and Max Operators Under (Absolutely) Halting Condition](cards.md#paper-155929) | 按停止条件区分能安全使用的值迭代和策略迭代 |
+| 计算机视觉 | 逆问题 | [Align $\&$ Invert: Solving Inverse Problems with Diffusion and Flow-based Models via Representation Alignment](cards.md#paper-148851) | 用近似目标的语义特征引导预训练生成先验 |
+| 视觉 / 多模态 | 模态对齐 | [Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection](cards.md#paper-152960) | 渲染与真实 RGB 保持独立提示并进行对齐 |
+| 计算机视觉 | 评测 | [Align and Distill: Unifying and Improving Domain Adaptive Object Detection](cards.md#paper-156740) | 先统一训练协议并增强基线，再比较域适应方法 |
+| 科学机器学习 | 条件生成 | [Align as You Couple: Learning Spatial Resolved Inference from H&E Images with Mollified Flow Matching](cards.md#paper-149664) | 用输入相关序列先验替代各向同性噪声作为流匹配起点 |
+| 大语言模型 | 联邦学习 | [Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks](cards.md#paper-154308) | 下发不同秩前先对齐客户端与全局参考的前缀基 |
+| 具身智能 | 轨迹规划 | [AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving](cards.md#paper-152098) | 先定横向路径，再沿路径预测纵向位移 |
+| 具身智能 | 世界模型 | [Aligned Delta-Triplane Transformers as Occupancy World Models](cards.md#paper-152382) | 先补偿自运动，再预测占据变化 |
+| 大语言模型 | 联邦学习 | [Aligned LoRA Updates via Intrinsic Geometry for Federated Low-Rank Adaptation](cards.md#paper-150662) | 测量客户端更新子空间冲突再选择聚合和本地约束 |
+| 大语言模型 / Agent | 可靠性 | [Aligning AI Teams](cards.md#paper-154600) | 指定系统级安全负责人并记录可检查的规格 |
+| 生成模型 / 强化学习 | 生成对齐 | [Aligning Few-Step Generative Model via Amortizing Sample-Based Variational Inference](cards.md#paper-155747) | 用样本粒子更新替代依赖似然的少步生成后训练。 |
+| 强化学习 | 策略适配 | [Aligning Flow Map Policies with Optimal $Q$-Guidance](cards.md#paper-149374) | 在保持离线策略信赖域的同时，用评论器解析目标适配单步生成。 |
+| 多模态学习 | 局部对齐 | [Aligning Forest and Trees in Images & Long Captions for Visually Grounded Understanding](cards.md#paper-155656) | 在中间层对齐文本片段和区域，在终层对齐整图和长描述。 |
+| 序列建模 | 初始化 | [Aligning Inductive Bias for Data-Efficient Generalization in State Space Models](cards.md#paper-150462) | 按任务信号的功率谱初始化状态空间模型。 |
+| 大语言模型 | 评测设计 | [Aligning Language Model Benchmarks with Pairwise Preferences](cards.md#paper-139753) | 用历史模型的下游成对排序重新加权静态题目。 |
+| 大语言模型 | 选择性预测 | [Aligning Language Models with Selective Prediction](cards.md#paper-148722) | 将风险覆盖曲线面积作为后训练目标。 |
+| 大语言模型 / Agent | 信用分配 | [Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative RLHF](cards.md#paper-151436) | 用对话级 Q 估计作为单轮 GRPO 的奖励。 |
+| 大语言模型 | 数据重加权 | [Aligning LLMs with Biomedical Knowledge using Balanced Fine-Tuning](cards.md#paper-149582) | 区分集中出现的知识不确定性和孤立风格不确定性，再分配训练预算。 |
+| 多模态学习 | 理由监督 | [Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions](cards.md#paper-152778) | 以人的行为维度标注相似性判断理由。 |
+| 大语言模型 | 部署安全评测 | [Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation](cards.md#paper-150322) | 把对齐回归加入 KV 缓存量化验收。 |
+| 大语言模型 | 训练诊断 | [Alignment Dynamics in LLM Fine-Tuning](cards.md#paper-150384) | 在连续微调时监测对齐反转与再接触后的恢复速度。 |
+| 自然语言处理 | 生成文本检测 | [Alignment Imprint: Zero-Shot AI-Generated Text Detection via Provable Preference Discrepancy](cards.md#paper-151776) | 用对齐模型与基础模型的标准化似然差替代单模型似然。 |
+| 可信人工智能 | 医疗评测 | [Alignment Is Not Enough for Safe Medical LLM Evaluation](cards.md#paper-140065) | 在总体专家一致性之外增加临床错误分层和提示稳定性检查。 |
+| 时间序列 | 检索对齐 | [Align-RAG: Alignment Is All You Need for TSFM In-Context Learning](cards.md#paper-152416) | 给冻结预测器使用检索示例前先闭式对齐振幅和相位。 |
+| 推荐系统 | 持续遗忘 | [ALIGN-Rec: Continual Recommendation under Heterogeneous Unlearning Requests](cards.md#paper-153461) | 在未来学习更新时监控已删除信号是否恢复。 |
+| 机器学习理论 | 稳健优化 | [A Little Robustness Is All You Need: Leveraging Predictions for Contextual Optimization](cards.md#paper-150467) | 低预测误差仍不可直接跟随预测时，在预测邻域做稳健选策。 |
+| 生成模型 | 高效推理 | [All-Addition Spiking Diffusion Models with Attention Enhancement](cards.md#paper-154963) | 把扩散网络的注意力和捷径一并改造成可加推理。 |
+| 大语言模型 | 推理干预 | [Alleviating Hallucination with Training-Free Uncertainty-Guided Steering](cards.md#paper-148795) | 让现成置信度估计参与推理修正，再分别验证准确率和校准。 |
+| 计算机视觉 | 图像复原 | [All-in-one Adverse Weather Removal via Prior-modulated and Velocity-constrained Rectified Flow](cards.md#paper-149069) | 用软退化估计条件化复原，并以残差流细化。 |
+| 多模态 | 坐标变换 | [Allocentric Perceiver: Disentangling Allocentric Reasoning from Egocentric Visual Priors via Frame Instantiation](cards.md#paper-153797) | 把视角转换交给几何工具 |
+| 多模态 | 工具推理 | [AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models](cards.md#paper-154004) | 为需要持续查询的空间推理维护外部结构 |
+| Agent 安全 | 组合评测 | [Alloy Agents Can Be More Dangerous Than Either Model Alone](cards.md#paper-153761) | 在封闭评测中分别检查单步和持续多步风险 |
+| 具身智能 | 探索规划 | [All Roads Lead to Rome: Flow-driven Multi-Anchor Exploration for Open-Environment Active 3D Mapping](cards.md#paper-151339) | 部分可观测时保留多个长程探索候选 |
+| 强化学习 | 收敛理论 | [Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features](cards.md#paper-156657) | 把参数可辨识性和价值预测一致性分开 |
+| 强化学习 | 随机逼近 | [Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift](cards.md#paper-151239) | 在马尔可夫噪声下比较步长衰减 |
+| 表示学习 | 局部优化 | [A Local Geometric Analysis of Maximal Coding Rate Reduction via Error Bounds](cards.md#paper-155476) | 用梯度范数诊断编码率目标的局部收敛 |
+| 量子机器学习 | 自然梯度 | [A Locality-Aware Surrogate for Natural-Gradient Descent in Quantum Optimization](cards.md#paper-155416) | 在有限测量预算下保留部分跨块耦合 |
+| 时间序列 | 来源校验 | [A Locally Tokenized Generative Model for Robust Time-Series Watermarking](cards.md#paper-150316) | 用局部编码减少常规编辑对来源检验的影响 |
+| 强化学习 | 多目标搜索 | [AlphaPareto: Formulaic Alpha Discovery with LLM-Guided Multi-Objective Reinforcement Learning](cards.md#paper-153971) | 变化的候选集合也应作为策略状态 |
+| 优化 | 结构化搜索 | [AlphaPROBE: Alpha Mining via principled retriveval and on-graph biased evolution](cards.md#paper-150234) | 用候选的演化图去重并选择下一轮种子 |
+| 大语言模型 | 量化 | [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](cards.md#paper-150665) | 缺少校准数据时用权重谱分配专家精度 |
+| 大语言模型 | 时序评测 | [ALTER: An Allen's Algebra-Based Evaluation Framework for Temporal Reasoning of LLMs](cards.md#paper-139265) | 随机改叙述顺序来排查时序捷径 |
+| 持续学习 | 表示诊断 | [A Mahalanobis Margin \texorpdfstring{$\gamma_{\min}$}{gamma\_min} Bound on Task Confusion in Pretrained Class-Incremental Learning: From Infeasibility to Exponential Attenuation](cards.md#paper-151690) | 用最差任务间 Mahalanobis 间隔预测类别混淆 |
+| 计算机视觉 | 数据评测 | [AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI](cards.md#paper-139345) | 把物理可用性与语义检索分开验收资产 |
+| 大语言模型 | 低秩适配 | [A Margin Perspective on LoRA: Robustness to Catastrophic Forgetting and Adapter Merging (MaLoRA)](cards.md#paper-155103) | 沿正则强度观察旧任务和新任务分类间隔 |
+| 大语言模型 | 模型合并 | [AMARIS: Merging Generalist and Specialist LLMs via Adaptive Subspace Inheritance](cards.md#paper-154547) | 按激活方向选择性继承专家更新 |
+| 多模态学习 | 数据审计 | [A Matched-Budget Audit Framework for Recaptioned Image-Text Supervision Distributions](cards.md#paper-139543) | 固定描述预算，比较重写图文数据的内容覆盖与图像支持度。 |
+| 学习理论 | 泛化诊断 | [A mathematical theory of balancing relational generalization and memorization](cards.md#paper-153152) | 同时用新关系组合和显式反例测试规则外推。 |
+| 大语言模型 / 教育 | 人机评测 | [A Matter of Interest: Understanding Interestingness Judgments of Math Problems in Humans and Language Models](cards.md#paper-153251) | 用分群评分分布和理由对齐评估模型能否代替人评数学题。 |

@@ -331,69 +331,69 @@ poster_id	title	paper_url	status	reason
 140059	AIs with Secret Loyalties are a Serious but Addressable Threat	https://neurips.cc/virtual/2026/poster/140059	excluded	作者摘要主要提出威胁定义与研究议程，尚未给出可独立复用、且有对照验证的防御机制。
 151235	A Kernel Nonconformity Score for Multivariate Conformal Prediction	https://neurips.cc/virtual/2026/poster/151235	included	多维残差呈非椭圆形时，用核分数校准联合预测区间。
 148953	AKTD: FDR Control for LLM Training Data Detection under Approximate Exchangeability	https://neurips.cc/virtual/2026/poster/148953	included	用独立的未入训样本估计审计统计量的不对称，再校准发现阈值。
-152511	ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/152511	pending	-
-139194	A Large-Scale Multi-Source Dataset Linking Hacker Community Discourse to the CVE Vulnerability Lifecycle	https://neurips.cc/virtual/2026/poster/139194	pending	-
-148187	A latent control model for realistic rodent motion	https://neurips.cc/virtual/2026/poster/148187	pending	-
-154404	A Latent-Load Framework for Reliability Analysis and Intervention Design in LLM Pipelines	https://neurips.cc/virtual/2026/poster/154404	pending	-
-149267	A Latent World-Action Model with Jointly Aligned Reasoning	https://neurips.cc/virtual/2026/poster/149267	pending	-
-139797	ALETHEIA: A Multi-Frequency Eddy Current Pulsed Thermography Dataset for Neural Operator Learning in Nondestructive Testing	https://neurips.cc/virtual/2026/poster/139797	pending	-
-150997	Algebraic Machine Learning: learning as computing subsets of the subdirect decomposition from Abstract Algebra	https://neurips.cc/virtual/2026/poster/150997	pending	-
-154391	AlgoPilot: Cross-Paradigm Reasoning in Language Models via Strategy Selection and Guidance	https://neurips.cc/virtual/2026/poster/154391	pending	-
-151449	Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret	https://neurips.cc/virtual/2026/poster/151449	pending	-
-150980	Algorithmic Impact Reveals the Hidden Structure of Alignment	https://neurips.cc/virtual/2026/poster/150980	pending	-
-155929	Algorithms for Linear Equations with Min and Max Operators Under (Absolutely) Halting Condition	https://neurips.cc/virtual/2026/poster/155929	pending	-
-148851	Align $\&$ Invert: Solving Inverse Problems with Diffusion and Flow-based Models via Representation Alignment	https://neurips.cc/virtual/2026/poster/148851	pending	-
-152960	Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection	https://neurips.cc/virtual/2026/poster/152960	pending	-
-156740	Align and Distill: Unifying and Improving Domain Adaptive Object Detection	https://neurips.cc/virtual/2026/poster/156740	pending	-
-149664	Align as You Couple: Learning Spatial Resolved Inference from H&E Images with Mollified Flow Matching	https://neurips.cc/virtual/2026/poster/149664	pending	-
-154308	Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks	https://neurips.cc/virtual/2026/poster/154308	pending	-
-152098	AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving	https://neurips.cc/virtual/2026/poster/152098	pending	-
-152382	Aligned Delta-Triplane Transformers as Occupancy World Models	https://neurips.cc/virtual/2026/poster/152382	pending	-
-150662	Aligned LoRA Updates via Intrinsic Geometry for Federated Low-Rank Adaptation	https://neurips.cc/virtual/2026/poster/150662	pending	-
-154600	Aligning AI Teams	https://neurips.cc/virtual/2026/poster/154600	pending	-
-155747	Aligning Few-Step Generative Model via Amortizing Sample-Based Variational Inference	https://neurips.cc/virtual/2026/poster/155747	pending	-
-149374	Aligning Flow Map Policies with Optimal $Q$-Guidance	https://neurips.cc/virtual/2026/poster/149374	pending	-
-155656	Aligning Forest and Trees in Images & Long Captions for Visually Grounded Understanding	https://neurips.cc/virtual/2026/poster/155656	pending	-
-150462	Aligning Inductive Bias for Data-Efficient Generalization in State Space Models	https://neurips.cc/virtual/2026/poster/150462	pending	-
-139753	Aligning Language Model Benchmarks with Pairwise Preferences	https://neurips.cc/virtual/2026/poster/139753	pending	-
-148722	Aligning Language Models with Selective Prediction	https://neurips.cc/virtual/2026/poster/148722	pending	-
-151436	Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative RLHF	https://neurips.cc/virtual/2026/poster/151436	pending	-
-149582	Aligning LLMs with Biomedical Knowledge using Balanced Fine-Tuning	https://neurips.cc/virtual/2026/poster/149582	pending	-
-152778	Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions	https://neurips.cc/virtual/2026/poster/152778	pending	-
-150322	Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation	https://neurips.cc/virtual/2026/poster/150322	pending	-
-150384	Alignment Dynamics in LLM Fine-Tuning	https://neurips.cc/virtual/2026/poster/150384	pending	-
-151776	Alignment Imprint: Zero-Shot AI-Generated Text Detection via Provable Preference Discrepancy	https://neurips.cc/virtual/2026/poster/151776	pending	-
-140065	Alignment Is Not Enough for Safe Medical LLM Evaluation	https://neurips.cc/virtual/2026/poster/140065	pending	-
-140117	Alignment Needs 'Cognitive Control': On The Role of Regularization in LLM Alignment	https://neurips.cc/virtual/2026/poster/140117	pending	-
-152416	Align-RAG: Alignment Is All You Need for TSFM In-Context Learning	https://neurips.cc/virtual/2026/poster/152416	pending	-
-153461	ALIGN-Rec: Continual Recommendation under Heterogeneous Unlearning Requests	https://neurips.cc/virtual/2026/poster/153461	pending	-
-150467	A Little Robustness Is All You Need: Leveraging Predictions for Contextual Optimization	https://neurips.cc/virtual/2026/poster/150467	pending	-
-154963	All-Addition Spiking Diffusion Models with Attention Enhancement	https://neurips.cc/virtual/2026/poster/154963	pending	-
-148795	Alleviating Hallucination with Training-Free Uncertainty-Guided Steering	https://neurips.cc/virtual/2026/poster/148795	pending	-
-149069	All-in-one Adverse Weather Removal via Prior-modulated and Velocity-constrained Rectified Flow	https://neurips.cc/virtual/2026/poster/149069	pending	-
-140077	Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking	https://neurips.cc/virtual/2026/poster/140077	pending	-
-153797	Allocentric Perceiver: Disentangling Allocentric Reasoning from Egocentric Visual Priors via Frame Instantiation	https://neurips.cc/virtual/2026/poster/153797	pending	-
-151299	AlloGen: Conformation-Selective Binder Design with Differential State Scoring	https://neurips.cc/virtual/2026/poster/151299	pending	-
-154004	AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models	https://neurips.cc/virtual/2026/poster/154004	pending	-
-153761	Alloy Agents Can Be More Dangerous Than Either Model Alone	https://neurips.cc/virtual/2026/poster/153761	pending	-
-151339	All Roads Lead to Rome: Flow-driven Multi-Anchor Exploration for Open-Environment Active 3D Mapping	https://neurips.cc/virtual/2026/poster/151339	pending	-
-156657	Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features	https://neurips.cc/virtual/2026/poster/156657	pending	-
-151239	Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift	https://neurips.cc/virtual/2026/poster/151239	pending	-
-155476	A Local Geometric Analysis of Maximal Coding Rate Reduction via Error Bounds	https://neurips.cc/virtual/2026/poster/155476	pending	-
-155416	A Locality-Aware Surrogate for Natural-Gradient Descent in Quantum Optimization	https://neurips.cc/virtual/2026/poster/155416	pending	-
-150316	A Locally Tokenized Generative Model for Robust Time-Series Watermarking	https://neurips.cc/virtual/2026/poster/150316	pending	-
-154415	A low-rank decoder bottleneck bounds reliability in foundation-model perturbation prediction	https://neurips.cc/virtual/2026/poster/154415	pending	-
-153971	AlphaPareto: Formulaic Alpha Discovery with LLM-Guided Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153971	pending	-
-150234	AlphaPROBE: Alpha Mining via principled retriveval and on-graph biased evolution	https://neurips.cc/virtual/2026/poster/150234	pending	-
-150665	AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization	https://neurips.cc/virtual/2026/poster/150665	pending	-
-139265	ALTER: An Allen's Algebra-Based Evaluation Framework for Temporal Reasoning of LLMs	https://neurips.cc/virtual/2026/poster/139265	pending	-
-151690	A Mahalanobis Margin \texorpdfstring{$\gamma_{\min}$}{gamma\_min} Bound on Task Confusion in Pretrained Class-Incremental Learning: From Infeasibility to Exponential Attenuation	https://neurips.cc/virtual/2026/poster/151690	pending	-
-139345	AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI	https://neurips.cc/virtual/2026/poster/139345	pending	-
-155103	A Margin Perspective on LoRA: Robustness to Catastrophic Forgetting and Adapter Merging (MaLoRA)	https://neurips.cc/virtual/2026/poster/155103	pending	-
-154547	AMARIS: Merging Generalist and Specialist LLMs via Adaptive Subspace Inheritance	https://neurips.cc/virtual/2026/poster/154547	pending	-
-139543	A Matched-Budget Audit Framework for Recaptioned Image-Text Supervision Distributions	https://neurips.cc/virtual/2026/poster/139543	pending	-
-153152	A mathematical theory of balancing relational generalization and memorization	https://neurips.cc/virtual/2026/poster/153152	pending	-
-153251	A Matter of Interest: Understanding Interestingness Judgments of Math Problems in Humans and Language Models	https://neurips.cc/virtual/2026/poster/153251	pending	-
+152511	ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/152511	included	用可组合转移作为动作生成的辅助目标
+139194	A Large-Scale Multi-Source Dataset Linking Hacker Community Discourse to the CVE Vulnerability Lifecycle	https://neurips.cc/virtual/2026/poster/139194	included	以时间和事件 ID 双重隔离验证防御性情报分类
+148187	A latent control model for realistic rodent motion	https://neurips.cc/virtual/2026/poster/148187	included	把控制用运动先验和随机探索先验分开
+154404	A Latent-Load Framework for Reliability Analysis and Intervention Design in LLM Pipelines	https://neurips.cc/virtual/2026/poster/154404	included	按估计的错误传播收益配置有限检查点
+149267	A Latent World-Action Model with Jointly Aligned Reasoning	https://neurips.cc/virtual/2026/poster/149267	included	用训练期未来视觉指导可部署的潜查询
+139797	ALETHEIA: A Multi-Frequency Eddy Current Pulsed Thermography Dataset for Neural Operator Learning in Nondestructive Testing	https://neurips.cc/virtual/2026/poster/139797	included	按激励频率、网格和仿真到实测拆分神经算子测试
+150997	Algebraic Machine Learning: learning as computing subsets of the subdirect decomposition from Abstract Algebra	https://neurips.cc/virtual/2026/poster/150997	included	用同一公理接口表示训练样本和形式约束
+154391	AlgoPilot: Cross-Paradigm Reasoning in Language Models via Strategy Selection and Guidance	https://neurips.cc/virtual/2026/poster/154391	included	将范式选择和形式化指导与执行模型分离
+151449	Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret	https://neurips.cc/virtual/2026/poster/151449	included	用预设截止点停止随机探索，后段只用置信探索
+150980	Algorithmic Impact Reveals the Hidden Structure of Alignment	https://neurips.cc/virtual/2026/poster/150980	included	将群体对齐规则比较转成后果与外部性约束的优化
+155929	Algorithms for Linear Equations with Min and Max Operators Under (Absolutely) Halting Condition	https://neurips.cc/virtual/2026/poster/155929	included	按停止条件区分能安全使用的值迭代和策略迭代
+148851	Align $\&$ Invert: Solving Inverse Problems with Diffusion and Flow-based Models via Representation Alignment	https://neurips.cc/virtual/2026/poster/148851	included	用近似目标的语义特征引导预训练生成先验
+152960	Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection	https://neurips.cc/virtual/2026/poster/152960	included	渲染与真实 RGB 保持独立提示并进行对齐
+156740	Align and Distill: Unifying and Improving Domain Adaptive Object Detection	https://neurips.cc/virtual/2026/poster/156740	included	先统一训练协议并增强基线，再比较域适应方法
+149664	Align as You Couple: Learning Spatial Resolved Inference from H&E Images with Mollified Flow Matching	https://neurips.cc/virtual/2026/poster/149664	included	用输入相关序列先验替代各向同性噪声作为流匹配起点
+154308	Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks	https://neurips.cc/virtual/2026/poster/154308	included	下发不同秩前先对齐客户端与全局参考的前缀基
+152098	AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving	https://neurips.cc/virtual/2026/poster/152098	included	先定横向路径，再沿路径预测纵向位移
+152382	Aligned Delta-Triplane Transformers as Occupancy World Models	https://neurips.cc/virtual/2026/poster/152382	included	先补偿自运动，再预测占据变化
+150662	Aligned LoRA Updates via Intrinsic Geometry for Federated Low-Rank Adaptation	https://neurips.cc/virtual/2026/poster/150662	included	测量客户端更新子空间冲突再选择聚合和本地约束
+154600	Aligning AI Teams	https://neurips.cc/virtual/2026/poster/154600	included	指定系统级安全负责人并记录可检查的规格
+155747	Aligning Few-Step Generative Model via Amortizing Sample-Based Variational Inference	https://neurips.cc/virtual/2026/poster/155747	included	用样本粒子更新替代依赖似然的少步生成后训练。
+149374	Aligning Flow Map Policies with Optimal $Q$-Guidance	https://neurips.cc/virtual/2026/poster/149374	included	在保持离线策略信赖域的同时，用评论器解析目标适配单步生成。
+155656	Aligning Forest and Trees in Images & Long Captions for Visually Grounded Understanding	https://neurips.cc/virtual/2026/poster/155656	included	在中间层对齐文本片段和区域，在终层对齐整图和长描述。
+150462	Aligning Inductive Bias for Data-Efficient Generalization in State Space Models	https://neurips.cc/virtual/2026/poster/150462	included	按任务信号的功率谱初始化状态空间模型。
+139753	Aligning Language Model Benchmarks with Pairwise Preferences	https://neurips.cc/virtual/2026/poster/139753	included	用历史模型的下游成对排序重新加权静态题目。
+148722	Aligning Language Models with Selective Prediction	https://neurips.cc/virtual/2026/poster/148722	included	将风险覆盖曲线面积作为后训练目标。
+151436	Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative RLHF	https://neurips.cc/virtual/2026/poster/151436	included	用对话级 Q 估计作为单轮 GRPO 的奖励。
+149582	Aligning LLMs with Biomedical Knowledge using Balanced Fine-Tuning	https://neurips.cc/virtual/2026/poster/149582	included	区分集中出现的知识不确定性和孤立风格不确定性，再分配训练预算。
+152778	Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions	https://neurips.cc/virtual/2026/poster/152778	included	以人的行为维度标注相似性判断理由。
+150322	Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation	https://neurips.cc/virtual/2026/poster/150322	included	把对齐回归加入 KV 缓存量化验收。
+150384	Alignment Dynamics in LLM Fine-Tuning	https://neurips.cc/virtual/2026/poster/150384	included	在连续微调时监测对齐反转与再接触后的恢复速度。
+151776	Alignment Imprint: Zero-Shot AI-Generated Text Detection via Provable Preference Discrepancy	https://neurips.cc/virtual/2026/poster/151776	included	用对齐模型与基础模型的标准化似然差替代单模型似然。
+140065	Alignment Is Not Enough for Safe Medical LLM Evaluation	https://neurips.cc/virtual/2026/poster/140065	included	在总体专家一致性之外增加临床错误分层和提示稳定性检查。
+140117	Alignment Needs 'Cognitive Control': On The Role of Regularization in LLM Alignment	https://neurips.cc/virtual/2026/poster/140117	excluded	摘要以认知控制类比倡议参考正则化，未给出可独立复用的新机制或检验这一主张的对照研究。
+152416	Align-RAG: Alignment Is All You Need for TSFM In-Context Learning	https://neurips.cc/virtual/2026/poster/152416	included	给冻结预测器使用检索示例前先闭式对齐振幅和相位。
+153461	ALIGN-Rec: Continual Recommendation under Heterogeneous Unlearning Requests	https://neurips.cc/virtual/2026/poster/153461	included	在未来学习更新时监控已删除信号是否恢复。
+150467	A Little Robustness Is All You Need: Leveraging Predictions for Contextual Optimization	https://neurips.cc/virtual/2026/poster/150467	included	低预测误差仍不可直接跟随预测时，在预测邻域做稳健选策。
+154963	All-Addition Spiking Diffusion Models with Attention Enhancement	https://neurips.cc/virtual/2026/poster/154963	included	把扩散网络的注意力和捷径一并改造成可加推理。
+148795	Alleviating Hallucination with Training-Free Uncertainty-Guided Steering	https://neurips.cc/virtual/2026/poster/148795	included	让现成置信度估计参与推理修正，再分别验证准确率和校准。
+149069	All-in-one Adverse Weather Removal via Prior-modulated and Velocity-constrained Rectified Flow	https://neurips.cc/virtual/2026/poster/149069	included	用软退化估计条件化复原，并以残差流细化。
+140077	Allocate Marginal Reviews to Borderline Papers Using LLM Comparative Ranking	https://neurips.cc/virtual/2026/poster/140077	excluded	作者提出审稿分配倡议，影响估算来自回顾性数据，摘要没有前瞻对照验证。
+153797	Allocentric Perceiver: Disentangling Allocentric Reasoning from Egocentric Visual Priors via Frame Instantiation	https://neurips.cc/virtual/2026/poster/153797	included	把视角转换交给几何工具
+151299	AlloGen: Conformation-Selective Binder Design with Differential State Scoring	https://neurips.cc/virtual/2026/poster/151299	excluded	摘要涉及选择性蛋白结合物工程，当前未提取合适的独立收录内容。
+154004	AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models	https://neurips.cc/virtual/2026/poster/154004	included	为需要持续查询的空间推理维护外部结构
+153761	Alloy Agents Can Be More Dangerous Than Either Model Alone	https://neurips.cc/virtual/2026/poster/153761	included	在封闭评测中分别检查单步和持续多步风险
+151339	All Roads Lead to Rome: Flow-driven Multi-Anchor Exploration for Open-Environment Active 3D Mapping	https://neurips.cc/virtual/2026/poster/151339	included	部分可观测时保留多个长程探索候选
+156657	Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features	https://neurips.cc/virtual/2026/poster/156657	included	把参数可辨识性和价值预测一致性分开
+151239	Almost Sure Convergence Rates of Stochastic Approximation and Reinforcement Learning via a Poisson-Moreau Drift	https://neurips.cc/virtual/2026/poster/151239	included	在马尔可夫噪声下比较步长衰减
+155476	A Local Geometric Analysis of Maximal Coding Rate Reduction via Error Bounds	https://neurips.cc/virtual/2026/poster/155476	included	用梯度范数诊断编码率目标的局部收敛
+155416	A Locality-Aware Surrogate for Natural-Gradient Descent in Quantum Optimization	https://neurips.cc/virtual/2026/poster/155416	included	在有限测量预算下保留部分跨块耦合
+150316	A Locally Tokenized Generative Model for Robust Time-Series Watermarking	https://neurips.cc/virtual/2026/poster/150316	included	用局部编码减少常规编辑对来源检验的影响
+154415	A low-rank decoder bottleneck bounds reliability in foundation-model perturbation prediction	https://neurips.cc/virtual/2026/poster/154415	excluded	当前研究筛选未提取适合单独公开整理的可复用技术内容。
+153971	AlphaPareto: Formulaic Alpha Discovery with LLM-Guided Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153971	included	变化的候选集合也应作为策略状态
+150234	AlphaPROBE: Alpha Mining via principled retriveval and on-graph biased evolution	https://neurips.cc/virtual/2026/poster/150234	included	用候选的演化图去重并选择下一轮种子
+150665	AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization	https://neurips.cc/virtual/2026/poster/150665	included	缺少校准数据时用权重谱分配专家精度
+139265	ALTER: An Allen's Algebra-Based Evaluation Framework for Temporal Reasoning of LLMs	https://neurips.cc/virtual/2026/poster/139265	included	随机改叙述顺序来排查时序捷径
+151690	A Mahalanobis Margin \texorpdfstring{$\gamma_{\min}$}{gamma\_min} Bound on Task Confusion in Pretrained Class-Incremental Learning: From Infeasibility to Exponential Attenuation	https://neurips.cc/virtual/2026/poster/151690	included	用最差任务间 Mahalanobis 间隔预测类别混淆
+139345	AmaraSpatial-10K: A Spatially and Semantically Aligned 3D Dataset for Spatial Computing and Embodied AI	https://neurips.cc/virtual/2026/poster/139345	included	把物理可用性与语义检索分开验收资产
+155103	A Margin Perspective on LoRA: Robustness to Catastrophic Forgetting and Adapter Merging (MaLoRA)	https://neurips.cc/virtual/2026/poster/155103	included	沿正则强度观察旧任务和新任务分类间隔
+154547	AMARIS: Merging Generalist and Specialist LLMs via Adaptive Subspace Inheritance	https://neurips.cc/virtual/2026/poster/154547	included	按激活方向选择性继承专家更新
+139543	A Matched-Budget Audit Framework for Recaptioned Image-Text Supervision Distributions	https://neurips.cc/virtual/2026/poster/139543	included	固定描述预算，比较重写图文数据的内容覆盖与图像支持度。
+153152	A mathematical theory of balancing relational generalization and memorization	https://neurips.cc/virtual/2026/poster/153152	included	同时用新关系组合和显式反例测试规则外推。
+153251	A Matter of Interest: Understanding Interestingness Judgments of Math Problems in Humans and Language Models	https://neurips.cc/virtual/2026/poster/153251	included	用分群评分分布和理由对齐评估模型能否代替人评数学题。
 150438	A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks	https://neurips.cc/virtual/2026/poster/150438	pending	-
 139661	AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment	https://neurips.cc/virtual/2026/poster/139661	pending	-
 152593	AmbientFM: A Foundation Model for Ambient Sensing	https://neurips.cc/virtual/2026/poster/152593	pending	-
