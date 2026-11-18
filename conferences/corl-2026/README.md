@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **179 / 687** 篇，当前收录 **172** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **183 / 687** 篇，当前收录 **176** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -178,3 +178,7 @@
 | 具身智能 / 多智能体 | 特征融合 | [CoLA: Robust Collaborative Perception with Linear Global Spatial Alignment](cards.md#paper-ffiovlfrqn) | 位姿和延迟误差可能超出局部融合窗口时，比较线性复杂度的全局对齐。 |
 | 具身智能 / 视觉 | 监督去偏 | [OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes](cards.md#paper-7bckvvmpuj) | 对已知会失效的传感器区域，引入干净几何监督而非直接拟合传感器读数。 |
 | 具身智能 / 视觉 | 物体表示 | [3PTv2: Zero-Shot 3D-Object Perception Transformer for Robotics](cards.md#paper-wnz4dr57js) | 用贯穿网络的物体 token 联合检测、分割与位姿估计，减少框级级联误差。 |
+| 具身智能 / 多模态 | 跨模态生成 | [Cyclops: LiDAR as a Camera That Dreams in Color](cards.md#paper-mnggg9cnbh) | 低照度时测试由 LiDAR 合成 RGB 后复用现有视觉模型是否可靠。 |
+| 具身智能 / 定位 | 状态估计 | [MaD-PF: Modular and Differentiable Particle Filter for Cross-Environment SE(3) LiDAR Localization](cards.md#paper-l8atlvewkt) | 保留粒子多假设，分别评估可微运动、观测及重采样模块的迁移和耗时。 |
+| 具身智能 / 视觉 | 自动标注 | [AmodalBox: Automated 3D Bounding Box Annotation under Partial Visibility](cards.md#paper-0o1c1xxn1m) | 稀疏点云只覆盖局部时，以图像生成的完整几何作为伪标签先验。 |
+| 具身智能 / 定位 | 场景图 | [Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs](cards.md#paper-9gwuac6oum) | 在线积累物体功能关系，将稳定拓扑作为额外闭环线索。 |

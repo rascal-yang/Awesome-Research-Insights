@@ -2581,3 +2581,63 @@
 - **适用条件 / 局限** · 依赖三维物体提示；提示质量和少视角遮挡的影响未在摘要量化。
 
 **可复用机制** · 对同一物体的多个预测任务，比较贯穿共享查询与显式框中转，联合测遮挡场景性能和推理延时。
+
+<a id="paper-mnggg9cnbh"></a>
+
+## Cyclops: LiDAR as a Camera That Dreams in Color
+
+[会议记录](https://openreview.net/forum?id=Mnggg9cnbh) · [原文](https://openreview.net/pdf?id=Mnggg9cnbh)
+
+- **问题 / 瓶颈** · 稀疏单通道 LiDAR 强度与 RGB 模型预训练分布相差较大。
+- **核心创新 / 方法** · 先用冻结模型密化强度，以潜空间桥匹配生成 RGB；用前帧注意力减少闪烁，并沿 ODE 轨迹反传终点保真损失。
+- **Baseline** · 比较 LiDAR 基线和普通相机；摘要未列名称。
+- **Benchmark** · 多种照明条件下测语义分割、车道检测和点云着色。
+- **关键结果 / 消融** · 作者报告合成 RGB 在近暗等条件带来下游改善；摘要未给幅度和独立消融。
+- **适用条件 / 局限** · 依赖非重复扫描 LiDAR 强度，生成纹理及颜色可能失真。
+
+**可复用机制** · 在传感器失效场景同时测合成图的时序稳定性和下游任务，避免仅凭感知画质选方案。
+
+<a id="paper-l8atlvewkt"></a>
+
+## MaD-PF: Modular and Differentiable Particle Filter for Cross-Environment SE(3) LiDAR Localization
+
+[会议记录](https://openreview.net/forum?id=L8ATlveWKT) · [原文](https://openreview.net/pdf?id=L8ATlveWKT)
+
+- **问题 / 瓶颈** · 手工滤波模型难端到端训练，已有可微方法的状态空间或平台验证受限。
+- **核心创新 / 方法** · 用单位对偶四元数处理 SE(3)，对三维 LiDAR 的运动、观测和重采样模块做可微设计。
+- **Baseline** · 比较不同滤波子模块与学习式定位系统；摘要未列名称。
+- **Benchmark** · 真实 LiDAR 数据，零样本跨环境、跨平台或同时偏移；测定位 RMSE、延迟和训练耗时。
+- **关键结果 / 消融** · 作者报告零样本 RMSE 为 0.398 米或更低，观测模型延迟降低 89%。
+- **适用条件 / 局限** · 依赖地图和 LiDAR 观测质量；摘要未给不同平台的误差分布。
+
+**可复用机制** · 在同一滤波骨架替换观测与运动模块，分别测跨域误差、推理延迟和训练开销。
+
+<a id="paper-0o1c1xxn1m"></a>
+
+## AmodalBox: Automated 3D Bounding Box Annotation under Partial Visibility
+
+[会议记录](https://openreview.net/forum?id=0o1c1Xxn1m) · [原文](https://openreview.net/pdf?id=0o1c1Xxn1m)
+
+- **问题 / 瓶颈** · 部分可见物体的点云不足以估计完整边界。
+- **核心创新 / 方法** · 匹配输入图像与生成三维资产的渲染视角，将完整几何对齐到世界坐标点云；动态目标传播锚点对齐，静态目标叠加多帧证据。
+- **Baseline** · 与强自动标注方法比较；摘要未列名称。
+- **Benchmark** · nuScenes 与 Waymo Open Dataset，用生成标注训练三维检测器，测检测 mAP。
+- **关键结果 / 消融** · 作者报告 nuScenes 提升 14.1 mAP，Waymo 车辆类在 IoU 0.5 下提升 12.45 mAP。
+- **适用条件 / 局限** · 依赖生成资产形状和视图对应质量；特殊形状的先验误差可能写入伪标签。
+
+**可复用机制** · 按可见程度分桶比较几何先验与仅用观测点的伪标签，并以固定检测器测下游影响。
+
+<a id="paper-9gwuac6oum"></a>
+
+## Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs
+
+[会议记录](https://openreview.net/forum?id=9gWuAC6Oum) · [原文](https://openreview.net/pdf?id=9gWuAC6Oum)
+
+- **问题 / 瓶颈** · 外观重复或纹理退化会使视觉闭环候选不可靠，离线功能图也难服务实时交互。
+- **核心创新 / 方法** · 用锚定关键帧及功能上下文维持节点，跨帧证据稳定后提交边，再用功能拓扑补充闭环。
+- **Baseline** · 比较离线功能建图和其他 SLAM 方法；摘要未给名称。
+- **Benchmark** · 评估在线建图时间、功能图精度及位姿精度；摘要未列数据集或指标细节。
+- **关键结果 / 消融** · 作者报告在线构图更快、精度可比，加入功能拓扑后位姿改善；摘要未报告幅度。
+- **适用条件 / 局限** · 需要关系可跨时间重识别，关系变化可能诱发错误闭环。
+
+**可复用机制** · 在视觉易混淆路线对照是否使用功能拓扑，统计闭环误报和累计位姿误差。

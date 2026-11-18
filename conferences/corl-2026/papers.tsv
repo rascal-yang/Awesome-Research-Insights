@@ -186,10 +186,10 @@ number	openreview_id	title	paper_url	reason	status
 185	ffIOVlfRQN	CoLA: Robust Collaborative Perception with Linear Global Spatial Alignment	https://openreview.net/forum?id=ffIOVlfRQN	位姿和延迟误差可能超出局部融合窗口时，比较线性复杂度的全局对齐。	included
 186	7BCkvvmpuj	OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes	https://openreview.net/forum?id=7BCkvvmpuj	对已知会失效的传感器区域，引入干净几何监督而非直接拟合传感器读数。	included
 187	WNZ4Dr57JS	3PTv2: Zero-Shot 3D-Object Perception Transformer for Robotics	https://openreview.net/forum?id=WNZ4Dr57JS	用贯穿网络的物体 token 联合检测、分割与位姿估计，减少框级级联误差。	included
-188	Mnggg9cnbh	Cyclops: LiDAR as a Camera That Dreams in Color	https://openreview.net/forum?id=Mnggg9cnbh		pending
-189	L8ATlveWKT	MaD-PF: Modular and Differentiable Particle Filter for Cross-Environment SE(3) LiDAR Localization	https://openreview.net/forum?id=L8ATlveWKT		pending
-190	0o1c1Xxn1m	AmodalBox: Automated 3D Bounding Box Annotation under Partial Visibility	https://openreview.net/forum?id=0o1c1Xxn1m		pending
-191	9gWuAC6Oum	Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs	https://openreview.net/forum?id=9gWuAC6Oum		pending
+188	Mnggg9cnbh	Cyclops: LiDAR as a Camera That Dreams in Color	https://openreview.net/forum?id=Mnggg9cnbh	低照度时测试由 LiDAR 合成 RGB 后复用现有视觉模型是否可靠。	included
+189	L8ATlveWKT	MaD-PF: Modular and Differentiable Particle Filter for Cross-Environment SE(3) LiDAR Localization	https://openreview.net/forum?id=L8ATlveWKT	保留粒子多假设，分别评估可微运动、观测及重采样模块的迁移和耗时。	included
+190	0o1c1Xxn1m	AmodalBox: Automated 3D Bounding Box Annotation under Partial Visibility	https://openreview.net/forum?id=0o1c1Xxn1m	稀疏点云只覆盖局部时，以图像生成的完整几何作为伪标签先验。	included
+191	9gWuAC6Oum	Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs	https://openreview.net/forum?id=9gWuAC6Oum	在线积累物体功能关系，将稳定拓扑作为额外闭环线索。	included
 192	1j0Hw81jY9	RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping via Exposure-Integrated Motion Blur	https://openreview.net/forum?id=1j0Hw81jY9		pending
 193	4uXhlSOnz5	Learning Contact Representation for Leg Odometry	https://openreview.net/forum?id=4uXhlSOnz5		pending
 194	nl8iBTm3Mt	GINIO: A Geometric SO(3)-Equivariant Interface for Neural Inertial Odometry	https://openreview.net/forum?id=nl8iBTm3Mt		pending
