@@ -73,6 +73,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="tang26j-architecture"></a>[PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26j)
 - <a id="wu26v-architecture"></a>[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26v)
 - <a id="yan26v-architecture"></a>[Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26v)
+- <a id="yu26z-architecture"></a>[Autoregressive Image Generation with Masked Bit Modeling](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26z)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -640,6 +641,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xu26bf-evaluation"></a>[Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bf)
 - <a id="yan26j-evaluation"></a>[Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26j)
 - <a id="yarkoni26a-evaluation"></a>[Reconstructing Template-Memorized Images from Natural Prompts](../../conferences/icml-2026/cards/5501-5600.md#paper-yarkoni26a)
+- <a id="yu26ag-evaluation"></a>[Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ag)
 
 <a id="by-theory-statistics"></a>
 

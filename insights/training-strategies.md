@@ -448,6 +448,7 @@
 - [带任意类索引的噪声域对齐](../conferences/icml-2026/cards/5401-5500.md#yao26m-training-strategies) · Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain
 - [在等训练风险停止点扫描特征学习强度](../conferences/icml-2026/cards/5501-5600.md#yeom26a-training-strategies) · Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization
 - [同时限制观测影响与新状态创建](../conferences/icml-2026/cards/5501-5600.md#yiu26a-training-strategies) · Doubly Outlier-Robust Online Infinite Hidden Markov Model
+- [在近参数量匹配下先扫天气模型宽深比](../conferences/icml-2026/cards/5501-5600.md#yu26r-training-strategies) · Scaling Laws of Global Weather Models
 
 <a id="by-graph-and-recommendation"></a>
 

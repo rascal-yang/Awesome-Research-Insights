@@ -145,6 +145,7 @@
 - <a id="yamauchi26a-modules"></a>[Quaternion Self-Attention with Shared Scores](../conferences/icml-2026/cards/5301-5400.md#paper-yamauchi26a)
 - <a id="ye26k-modules"></a>[Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model](../conferences/icml-2026/cards/5501-5600.md#paper-ye26k)
 - <a id="you26f-modules"></a>[Latent Laplace Diffusion for Irregular Multivariate Time Series](../conferences/icml-2026/cards/5501-5600.md#paper-you26f)
+- <a id="yu26y-modules"></a>[Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames](../conferences/icml-2026/cards/5501-5600.md#paper-yu26y)
 
 <a id="by-loss-functions"></a>
 
@@ -209,6 +210,7 @@
 - <a id="ye26q-loss-functions"></a>[Depth-Progressive Monotonic Learning without Global Backpropagation](../conferences/icml-2026/cards/5501-5600.md#paper-ye26q)
 - <a id="yi26a-loss-functions"></a>[Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties](../conferences/icml-2026/cards/5501-5600.md#paper-yi26a)
 - <a id="ying26b-loss-functions"></a>[Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../conferences/icml-2026/cards/5501-5600.md#paper-ying26b)
+- <a id="yu26ad-loss-functions"></a>[Fine-to-Coarse Fairness-Informed Multi-View Clustering](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ad)
 
 <a id="by-optimization"></a>
 
@@ -566,6 +568,7 @@
 - <a id="yao26m-training-strategies"></a>[Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](../conferences/icml-2026/cards/5401-5500.md#paper-yao26m)
 - <a id="yeom26a-training-strategies"></a>[Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization](../conferences/icml-2026/cards/5501-5600.md#paper-yeom26a)
 - <a id="yiu26a-training-strategies"></a>[Doubly Outlier-Robust Online Infinite Hidden Markov Model](../conferences/icml-2026/cards/5501-5600.md#paper-yiu26a)
+- <a id="yu26r-training-strategies"></a>[Scaling Laws of Global Weather Models](../conferences/icml-2026/cards/5501-5600.md#paper-yu26r)
 
 <a id="by-data-strategies"></a>
 
@@ -672,6 +675,7 @@
 - <a id="yajima26a-inference"></a>[PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence](../conferences/icml-2026/cards/5301-5400.md#paper-yajima26a)
 - <a id="yang26af-inference"></a>[Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition](../conferences/icml-2026/cards/5301-5400.md#paper-yang26af)
 - <a id="yavlovich26a-inference"></a>[Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts](../conferences/icml-2026/cards/5501-5600.md#paper-yavlovich26a)
+- <a id="yu26ae-inference"></a>[MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ae)
 
 <a id="by-representation-learning"></a>
 
@@ -1246,4 +1250,5 @@
 - <a id="yarotsky26a-theory-statistics"></a>[Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions](../conferences/icml-2026/cards/5501-5600.md#paper-yarotsky26a)
 - <a id="yin26g-theory-statistics"></a>[Overcoming the Incentive Collapse Paradox](../conferences/icml-2026/cards/5501-5600.md#paper-yin26g)
 - <a id="yu26d-theory-statistics"></a>[Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets](../conferences/icml-2026/cards/5501-5600.md#paper-yu26d)
+- <a id="yu26s-theory-statistics"></a>[Mirror Descent Under Generalized Smoothness](../conferences/icml-2026/cards/5501-5600.md#paper-yu26s)
 <!-- classification:end -->

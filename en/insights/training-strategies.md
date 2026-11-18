@@ -448,6 +448,7 @@ Training schedules, curricula, and task or stage composition.
 - [Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](../../conferences/icml-2026/cards/5401-5500.md#yao26m-training-strategies) · 中文
 - [Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization](../../conferences/icml-2026/cards/5501-5600.md#yeom26a-training-strategies) · 中文
 - [Doubly Outlier-Robust Online Infinite Hidden Markov Model](../../conferences/icml-2026/cards/5501-5600.md#yiu26a-training-strategies) · 中文
+- [Scaling Laws of Global Weather Models](../../conferences/icml-2026/cards/5501-5600.md#yu26r-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -281,6 +281,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yan26q-optimization"></a>[PLoRA: Efficient Concurrent LoRA Training for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26q)
 - <a id="yang26bm-optimization"></a>[Orthogonal Model Merging](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bm)
 - <a id="yang26bw-optimization"></a>[Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bw)
+- <a id="yu26ah-optimization"></a>[SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ah)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1068,6 +1069,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26dj-inference"></a>[Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dj)
 - <a id="yang26ds-inference"></a>[ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ds)
 - <a id="ye26r-inference"></a>[Select to Think: Unlocking SLM Potential with Local Sufficiency](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26r)
+- <a id="yu26v-inference"></a>[Multi-Adapter Representation Interventions via Energy Calibration](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26v)
 
 <a id="by-representation-learning"></a>
 

@@ -111,6 +111,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [PLoRA: Efficient Concurrent LoRA Training for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#yan26q-optimization) · 中文
 - [Orthogonal Model Merging](../../conferences/icml-2026/cards/5401-5500.md#yang26bm-optimization) · 中文
 - [Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control](../../conferences/icml-2026/cards/5401-5500.md#yang26bw-optimization) · 中文
+- [SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26ah-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 

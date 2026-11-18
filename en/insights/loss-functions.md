@@ -295,6 +295,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Depth-Progressive Monotonic Learning without Global Backpropagation](../../conferences/icml-2026/cards/5501-5600.md#ye26q-loss-functions) · 中文
 - [Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties](../../conferences/icml-2026/cards/5501-5600.md#yi26a-loss-functions) · 中文
 - [Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../../conferences/icml-2026/cards/5501-5600.md#ying26b-loss-functions) · 中文
+- [Fine-to-Coarse Fairness-Informed Multi-View Clustering](../../conferences/icml-2026/cards/5601-5700.md#yu26ad-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

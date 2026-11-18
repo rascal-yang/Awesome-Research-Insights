@@ -362,6 +362,7 @@
 - [跨头统一选token并跨层复用](../conferences/icml-2026/cards/5401-5500.md#yang26dj-inference) · Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention
 - [指数位分拆压缩与状态感知调度](../conferences/icml-2026/cards/5401-5500.md#yang26ds-inference) · ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling
 - [蒸馏学生候选集上的逐token选择](../conferences/icml-2026/cards/5501-5600.md#ye26r-inference) · Select to Think: Unlocking SLM Potential with Local Sufficiency
+- [用小探针传播响应决定是否施加表示干预](../conferences/icml-2026/cards/5501-5600.md#yu26v-inference) · Multi-Adapter Representation Interventions via Energy Calibration
 
 <a id="by-computer-vision"></a>
 
@@ -759,6 +760,7 @@
 - [分布区域内精确等价的树剪枝](../conferences/icml-2026/cards/5301-5400.md#yajima26a-inference) · PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence
 - [采样Pareto前沿的最大间隙定向](../conferences/icml-2026/cards/5301-5400.md#yang26af-inference) · Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition
 - [神经预测dual后投影可行再交精确匹配器](../conferences/icml-2026/cards/5501-5600.md#yavlovich26a-inference) · Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts
+- [缓存低精度高覆盖规则再映射细化](../conferences/icml-2026/cards/5601-5700.md#yu26ae-inference) · MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation
 
 <a id="by-graph-and-recommendation"></a>
 

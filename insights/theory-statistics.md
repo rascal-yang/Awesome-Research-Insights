@@ -633,6 +633,7 @@
 - [联合宽度与初始化判断CP学习regime](../conferences/icml-2026/cards/5501-5600.md#yarotsky26a-theory-statistics) · Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions
 - [人工复核激励与主动采样联合预算](../conferences/icml-2026/cards/5501-5600.md#yin26g-theory-statistics) · Overcoming the Incentive Collapse Paradox
 - [残差分支按深度缩放并联动早停](../conferences/icml-2026/cards/5501-5600.md#yu26d-theory-statistics) · Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets
+- [用对偶梯度控制选择镜像下降步长](../conferences/icml-2026/cards/5501-5600.md#yu26s-theory-statistics) · Mirror Descent Under Generalized Smoothness
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -438,6 +438,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting](../../conferences/icml-2026/cards/5201-5300.md#xu26bf-evaluation) · 中文
 - [Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?](../../conferences/icml-2026/cards/5301-5400.md#yan26j-evaluation) · 中文
 - [Reconstructing Template-Memorized Images from Natural Prompts](../../conferences/icml-2026/cards/5501-5600.md#yarkoni26a-evaluation) · 中文
+- [Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain](../../conferences/icml-2026/cards/5601-5700.md#yu26ag-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

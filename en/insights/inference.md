@@ -362,6 +362,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](../../conferences/icml-2026/cards/5401-5500.md#yang26dj-inference) · 中文
 - [ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling](../../conferences/icml-2026/cards/5401-5500.md#yang26ds-inference) · 中文
 - [Select to Think: Unlocking SLM Potential with Local Sufficiency](../../conferences/icml-2026/cards/5501-5600.md#ye26r-inference) · 中文
+- [Multi-Adapter Representation Interventions via Energy Calibration](../../conferences/icml-2026/cards/5501-5600.md#yu26v-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -759,6 +760,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence](../../conferences/icml-2026/cards/5301-5400.md#yajima26a-inference) · 中文
 - [Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition](../../conferences/icml-2026/cards/5301-5400.md#yang26af-inference) · 中文
 - [Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts](../../conferences/icml-2026/cards/5501-5600.md#yavlovich26a-inference) · 中文
+- [MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../../conferences/icml-2026/cards/5601-5700.md#yu26ae-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

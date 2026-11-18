@@ -111,6 +111,7 @@
 - [共享基座的LoRA训练打包](../conferences/icml-2026/cards/5301-5400.md#yan26q-optimization) · PLoRA: Efficient Concurrent LoRA Training for Large Language Models
 - [Cayley空间的范数补偿模型合并](../conferences/icml-2026/cards/5401-5500.md#yang26bm-optimization) · Orthogonal Model Merging
 - [线性probe选子空间的偏好SAM](../conferences/icml-2026/cards/5401-5500.md#yang26bw-optimization) · Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control
+- [扩宽时只重置新通道状态并独立重热身](../conferences/icml-2026/cards/5601-5700.md#yu26ah-optimization) · SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning
 
 <a id="by-computer-vision"></a>
 

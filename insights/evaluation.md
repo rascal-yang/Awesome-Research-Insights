@@ -438,6 +438,7 @@
 - [标签重映射下的组指纹一致性](../conferences/icml-2026/cards/5201-5300.md#xu26bf-evaluation) · Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting
 - [按下游任务分配像素预训练算力](../conferences/icml-2026/cards/5301-5400.md#yan26j-evaluation) · Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?
 - [隐私审计应检测模板结构而非只查逐像素拷贝](../conferences/icml-2026/cards/5501-5600.md#yarkoni26a-evaluation) · Reconstructing Template-Memorized Images from Natural Prompts
+- [用局部而非全局维度诊断表示对齐](../conferences/icml-2026/cards/5601-5700.md#yu26ag-evaluation) · Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain
 
 <a id="by-nlp"></a>
 

@@ -248,6 +248,7 @@
 - [四元数分量共享实值注意力](../conferences/icml-2026/cards/5301-5400.md#yamauchi26a-modules) · Quaternion Self-Attention with Shared Scores
 - [两步膜电位捷径与周期遗忘](../conferences/icml-2026/cards/5501-5600.md#ye26k-modules) · Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model
 - [用稳定模态参数生成不规则时间轨迹](../conferences/icml-2026/cards/5501-5600.md#you26f-modules) · Latent Laplace Diffusion for Irregular Multivariate Time Series
+- [在局部SO2表示中融合高阶特征再映回](../conferences/icml-2026/cards/5501-5600.md#yu26y-modules) · Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames
 
 <a id="by-graph-and-recommendation"></a>
 
