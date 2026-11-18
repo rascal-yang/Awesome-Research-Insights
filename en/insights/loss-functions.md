@@ -345,5 +345,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems](../../conferences/neurips-2026/cards-0007.md#paper-149636)
 - [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](../../conferences/neurips-2026/cards-0007.md#paper-150258)
 - [Learning to Generate Multiple Objects from Dense and Occluded Layouts](../../conferences/neurips-2026/cards-0007.md#paper-153553)
+- [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](../../conferences/neurips-2026/cards-0007.md#paper-150076)
 
 <!-- conference-classification:end -->

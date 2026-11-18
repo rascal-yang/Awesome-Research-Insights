@@ -564,5 +564,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shift](../../conferences/neurips-2026/cards-0007.md#paper-155084)
 - [Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment](../../conferences/neurips-2026/cards-0007.md#paper-153014)
 - [Learning Where to Look: Observation Policy Optimization for Thinking with Images](../../conferences/neurips-2026/cards-0007.md#paper-150969)
+- [Leveraging Error Diversity in Group Rollouts for Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-154049)
+- [LiFT: Likelihood-Free Tree-Structured Policy Optimization for Flow-Based VLAs](../../conferences/neurips-2026/cards-0007.md#paper-151131)
+- [Likelihood-Free Generative Policy Optimization](../../conferences/neurips-2026/cards-0007.md#paper-151534)
 
 <!-- conference-classification:end -->

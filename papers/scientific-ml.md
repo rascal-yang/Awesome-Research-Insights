@@ -542,5 +542,12 @@
 - [Learning Transferable Cross-Day Representations for Few-Shot Neural Decoding](../conferences/neurips-2026/cards-0007.md#paper-149445)
 - [Learning What's Real: Disentangling Signals and Measurement Artifacts in Multi-Sensor Data, with Applications to Astrophysics](../conferences/neurips-2026/cards-0007.md#paper-154825)
 - [Learning When Visual Context Matters for Mouse Behavior Analysis](../conferences/neurips-2026/cards-0007.md#paper-151213)
+- [Learning Where to Simulate: Generative Active Sampling for Online PDE Surrogate Training](../conferences/neurips-2026/cards-0007.md#paper-151676)
+- [LeCellModel: Interpretable Density Estimation over the Gene Expression Manifold](../conferences/neurips-2026/cards-0007.md#paper-153391)
+- [LEMON-ZEST: Evolution-Informed Tokenization for Efficient Protein Language Modeling](../conferences/neurips-2026/cards-0007.md#paper-153755)
+- [Less Evidence, Better Answering: Gain-Aware Minimal Evidence Subset Selection for Medical QA](../conferences/neurips-2026/cards-0007.md#paper-152857)
+- [LEVDA: Latent Ensemble Variational Data Assimilation via Differentiable Dynamics](../conferences/neurips-2026/cards-0007.md#paper-153297)
+- [Lie Generator Networks for Nonlinear Partial Differential Equations](../conferences/neurips-2026/cards-0007.md#paper-155016)
+- [LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators](../conferences/neurips-2026/cards-0007.md#paper-149185)
 
 <!-- conference-classification:end -->

@@ -1968,5 +1968,16 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance](../../conferences/neurips-2026/cards-0007.md#paper-152546)
 - [Learning What to Remember: Test-Time Training via Context Distillation](../../conferences/neurips-2026/cards-0007.md#paper-153696)
 - [Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment](../../conferences/neurips-2026/cards-0007.md#paper-153014)
+- [Ledger: A Path-Validated, Database-Grounded Benchmark for Enterprise Web Agents](../../conferences/neurips-2026/cards-0007.md#paper-139511)
+- [Leech Lattice Vector Quantization for Efficient LLM Compression](../../conferences/neurips-2026/cards-0007.md#paper-149021)
+- [Lemon: Evidence-Risk-Aware Adaptive Organization for Long-Horizon LLM Agents](../../conferences/neurips-2026/cards-0007.md#paper-155165)
+- [Length Generalization for Transformers via Compression](../../conferences/neurips-2026/cards-0007.md#paper-150600)
+- [LensCT: Fine-Grained AI-Involved Text Detection via Temporal-Hierarchical Tomograms of LLM Internals](../../conferences/neurips-2026/cards-0007.md#paper-151027)
+- [Leveraging Error Diversity in Group Rollouts for Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-154049)
+- [Leviathan: Decoupling Input and Output Representations in Language Models](../../conferences/neurips-2026/cards-0007.md#paper-148755)
+- [LG-Bench: A Graph-Structured Evaluation Benchmark for Life Science](../../conferences/neurips-2026/cards-0007.md#paper-139764)
+- [Liars' Bench: Evaluating Lie Detectors for Language Models](../../conferences/neurips-2026/cards-0007.md#paper-139686)
+- [LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models](../../conferences/neurips-2026/cards-0007.md#paper-139459)
+- [LightMoE: Reducing Mixture-of-Experts Redundancy through Expert Replacing](../../conferences/neurips-2026/cards-0007.md#paper-155806)
 
 <!-- conference-classification:end -->

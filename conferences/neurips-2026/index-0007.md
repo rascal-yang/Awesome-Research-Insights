@@ -480,3 +480,48 @@
 | 科学机器学习 | 推理策略 | [Learning When Visual Context Matters for Mouse Behavior Analysis](cards-0007.md#paper-151213) | 根据姿态编码量化残差分配昂贵视觉上下文。 |
 | 大语言模型 | 强化学习方法 | [Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment](cards-0007.md#paper-153014) | 偏好对在局部共同压力下不稳时降低权重。 |
 | 多模态学习 | 强化学习方法 | [Learning Where to Look: Observation Policy Optimization for Thinking with Images](cards-0007.md#paper-150969) | 视觉工具调用单独计算观测动作的证据信用。 |
+| 科学机器学习 | 数据策略 | [Learning Where to Simulate: Generative Active Sampling for Online PDE Surrogate Training](cards-0007.md#paper-151676) | 在线代理训练按预测困难度挑选下一次数值模拟。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning with Multiple Correct Answers - Regret Bounds under Different Feedback Models](cards-0007.md#paper-153993) | 多正确答案任务优先设计能支持低遗憾的反馈形式。 |
+| 机器学习基础与统计 | 训练策略 | [Learning with Synthetic Data via SGD in High-Dimensional Linear Regression](cards-0007.md#paper-148876) | 错配合成数据优先用于前阶段，后阶段回到真实数据。 |
+| 机器学习基础与统计 | 推理策略 | [Learn Locally, Recurse Globally: Neural Circuit Synthesis Beyond Training Depth](cards-0007.md#paper-155721) | 深结构推理用可验证的外循环调用浅层专才。 |
+| 多模态学习 | 训练策略 | [Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](cards-0007.md#paper-155839) | GUI 定位蒸馏给教师软区域提示，并按坐标数字意义定权。 |
+| 科学机器学习 | 评测与诊断 | [LeCellModel: Interpretable Density Estimation over the Gene Expression Manifold](cards-0007.md#paper-153391) | 单细胞表示诊断分开测标签可分性与状态典型性。 |
+| 大语言模型 | 评测与诊断 | [Ledger: A Path-Validated, Database-Grounded Benchmark for Enterprise Web Agents](cards-0007.md#paper-139511) | 事务代理以数据库字段差异验收，并保留后端操作轨迹。 |
+| 大语言模型 | 推理策略 | [Leech Lattice Vector Quantization for Efficient LLM Compression](cards-0007.md#paper-149021) | 向量量化用结构化格索引避免显式码本。 |
+| 多模态学习 | 模型架构 | [LEGO: Sizing Rules for Budget-Aware Dense-to-MoE Conversion of Vision-Language Models](cards-0007.md#paper-152122) | 稠密模型转 MoE 用激活 FFN 宽度与隐藏宽度之比选候选。 |
+| 大语言模型 | 推理策略 | [Lemon: Evidence-Risk-Aware Adaptive Organization for Long-Horizon LLM Agents](cards-0007.md#paper-155165) | 长时代理压缩上下文时保留可回查证据，并以风险调度验证。 |
+| 科学机器学习 | 表征学习 | [LEMON-ZEST: Evolution-Informed Tokenization for Efficient Protein Language Modeling](cards-0007.md#paper-153755) | 远缘同源识别将保守片段先验纳入序列分词。 |
+| 大语言模型 | 理论与统计 | [Length Generalization for Transformers via Compression](cards-0007.md#paper-150600) | 分析长度泛化时用压缩重复串表达同一输入结构。 |
+| 大语言模型 | 评测与诊断 | [LensCT: Fine-Grained AI-Involved Text Detection via Temporal-Hierarchical Tomograms of LLM Internals](cards-0007.md#paper-151027) | 细粒度 AI 文本参与度检测保留位置与层级二维证据。 |
+| 计算机视觉 | 推理策略 | [LENS: Low-Frequency Eigen Noise Shaping for Efficient Diffusion Sampling](cards-0007.md#paper-152345) | 蒸馏扩散模型的噪声调整只作用于低频子空间。 |
+| 多模态学习 | 推理策略 | [LensVLM: Selective Context Expansion for Compressed Visual Representation of Text](cards-0007.md#paper-151754) | 压缩长文本时先扫视觉概览，再按需展开原文。 |
+| 计算机视觉 | 模型架构 | [Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](cards-0007.md#paper-152848) | 为学可迁移三维表征限制新视角解码器能力。 |
+| 科学机器学习 | 推理策略 | [Less Evidence, Better Answering: Gain-Aware Minimal Evidence Subset Selection for Medical QA](cards-0007.md#paper-152857) | 证据问答在词元预算内选边际收益最高的组合。 |
+| 计算机视觉 | 训练策略 | [Less is More: Compact-Token Masked Feature Learning for Skeleton Representation Learning](cards-0007.md#paper-153560) | 骨架预训练需要稀疏 token 时，把目标改为教师特征预测而非逐坐标重建。 |
+| 机器人学 | 数据策略 | [Less Language, More Latents: Annotation-Efficient VLAs for Driving](cards-0007.md#paper-149160) | 有大量观测轨迹但指令少时，先学动作码本，再用少量语言连接码本。 |
+| 机器人学 | 表征学习 | [LessMimic: Versatile Humanoid-Object Interaction with Unified Distance Field Representations](cards-0007.md#paper-149455) | 对象尺寸变化大时，用局部表面几何表示接触需求，测试时从参考动作改为根命令与交互类型。 |
+| 计算机视觉 | 训练策略 | [Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](cards-0007.md#paper-153981) | 图像编辑取证时，像素掩码不可靠可用图级标签与重建误差来定位。 |
+| 计算机视觉 | 模型架构 | [LESSViT: Robust Hyperspectral Representation Learning under Spectral Configuration Shift](cards-0007.md#paper-154948) | 高光谱模型跨传感器部署时，按真实波长而非固定通道编号编码，并分解空间光谱交互。 |
+| 图学习 | 评测与诊断 | [Lethe: Link Inference Attacks For Evaluation of Edge Unlearning Methods](cards-0007.md#paper-139781) | 图边遗忘验收时，增加与被删边残余信息直接相关的防护评估，并和重训计时。 |
+| 科学机器学习 | 优化 | [LEVDA: Latent Ensemble Variational Data Assimilation via Differentiable Dynamics](cards-0007.md#paper-153297) | 稀疏不规则观测同化时，在可微动力学的低维集合子空间优化整条轨迹。 |
+| 机器学习基础与统计 | 数据策略 | [Leveraging Data Symmetries to Select an Optimal Subset of Training Data under Label Noise](cards-0007.md#paper-151105) | 有标签噪声且样本距离不可靠时，先构造不变特征再用近邻筛洁净样本。 |
+| 大语言模型 | 强化学习方法 | [Leveraging Error Diversity in Group Rollouts for Reinforcement Learning](cards-0007.md#paper-154049) | 可验证奖励中同组错误重复时，对错误频率调优势而非同罚所有失败。 |
+| 多模态学习 | 评测与诊断 | [Leveraging Latent Visual Reasoning in Silence](cards-0007.md#paper-152244) | 采用潜视觉推理时，分别检验潜 token 是否帮助学习以及是否必须实际生成。 |
+| 大语言模型 | 模型架构 | [Leviathan: Decoupling Input and Output Representations in Language Models](cards-0007.md#paper-148755) | 共享词嵌入可能伤低频词时，对比连续输入嵌入和独立输出头。 |
+| 机器人学 | 损失函数 | [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](cards-0007.md#paper-150076) | 端到端像素 JEPA 的表示防塌缩时，比较高斯分布正则加下一潜态预测能否替代复杂训练组合。 |
+| 大语言模型 | 评测与诊断 | [LG-Bench: A Graph-Structured Evaluation Benchmark for Life Science](cards-0007.md#paper-139764) | 问答评估按语义邻域报告一致性和错误聚集。 |
+| 大语言模型 | 评测与诊断 | [Liars' Bench: Evaluating Lie Detectors for Language Models](cards-0007.md#paper-139686) | 真实性检测单列仅凭可见记录无法判断的情形。 |
+| 机器人学 | 评测与诊断 | [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](cards-0007.md#paper-139040) | 个性化操作以有无偏好配对和布局变化区分偏好学习与技能学习。 |
+| 大语言模型 | 评测与诊断 | [LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models](cards-0007.md#paper-139459) | 代码推荐中给目标版本文档，并分别测稳定和演变 API。 |
+| 计算机视觉 | 模型架构 | [LiBrA-Net: Lie-Algebraic Bilateral Affine Fields for Real-Time 4K Video Dehazing](cards-0007.md#paper-154860) | 视频去雾用低分辨率双边仿射场生成全分辨率映射。 |
+| 科学机器学习 | 模型架构 | [Lie Generator Networks for Nonlinear Partial Differential Equations](cards-0007.md#paper-155016) | 稳定潜动态可把保守耦合和耗散显式分离。 |
+| 多模态学习 | 推理策略 | [LifeStream: Token Life-Cycle Modeling for Training-Free Online Video Understanding](cards-0007.md#paper-150799) | 视频流压缩按视觉词元生命周期区分短期保留和长期汇总。 |
+| 科学机器学习 | 模型架构 | [LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators](cards-0007.md#paper-149185) | 用切片轨迹约束二维生成器的跨层一致性。 |
+| 机器人学 | 强化学习方法 | [LiFT: Likelihood-Free Tree-Structured Policy Optimization for Flow-Based VLAs](cards-0007.md#paper-151131) | 流策略以共享历史的动作块分支作结果信用。 |
+| 机器人学 | 训练策略 | [Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models](cards-0007.md#paper-154150) | 人类视频预训练除了轨迹，还可蒸馏中间三维几何特征。 |
+| 大语言模型 | 训练策略 | [LightMoE: Reducing Mixture-of-Experts Redundancy through Expert Replacing](cards-0007.md#paper-155806) | 压缩 MoE 时将冗余专家替换为小模块后恢复，而非直接删除。 |
+| 强化学习 | 强化学习方法 | [Likelihood-Free Generative Policy Optimization](cards-0007.md#paper-151534) | 生成策略先学习改进信号，再蒸馏入原生成器。 |
+| 图学习与推荐 | 模型架构 | [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](cards-0007.md#paper-153393) | 把用户历史与候选交互分解，可预计算共用注意分量。 |
+| 机器学习基础与统计 | 理论与统计 | [Limits and Potential of Score-Based Data Valuation: Redundancy, Complementarity, and Non-Monotonicity](cards-0007.md#paper-149315) | 先查冗余、互补与非单调，再用标量分数选数据。 |
+| 机器学习基础与统计 | 优化 | [LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing](cards-0007.md#paper-148664) | 构造路线时把确定的局部代价显式打分。 |
+| 机器学习基础与统计 | 理论与统计 | [Linear approximations to HMM filtering](cards-0007.md#paper-155014) | 根据潜过程的耗散决定是否需非线性滤波模型。 |

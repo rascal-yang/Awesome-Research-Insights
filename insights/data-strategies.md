@@ -322,5 +322,8 @@
 - [Learning the Committor Function using Weighted Ensemble Simulations](../conferences/neurips-2026/cards-0007.md#paper-152881)
 - [Learning to Correct Geometry in Generated Videos](../conferences/neurips-2026/cards-0007.md#paper-154269)
 - [Learning under Localized Minority Imbalance](../conferences/neurips-2026/cards-0007.md#paper-148554)
+- [Learning Where to Simulate: Generative Active Sampling for Online PDE Surrogate Training](../conferences/neurips-2026/cards-0007.md#paper-151676)
+- [Less Language, More Latents: Annotation-Efficient VLAs for Driving](../conferences/neurips-2026/cards-0007.md#paper-149160)
+- [Leveraging Data Symmetries to Select an Optimal Subset of Training Data under Label Noise](../conferences/neurips-2026/cards-0007.md#paper-151105)
 
 <!-- conference-classification:end -->

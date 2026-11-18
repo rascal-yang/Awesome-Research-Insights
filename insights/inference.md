@@ -1131,5 +1131,12 @@
 - [Learning to Search, Searching to Learn: A Closed-Loop Framework for Large-Scale Vehicle Routing](../conferences/neurips-2026/cards-0007.md#paper-150054)
 - [Learning to Solve Generative ODEs Beyond the Linear Span](../conferences/neurips-2026/cards-0007.md#paper-155573)
 - [Learning When Visual Context Matters for Mouse Behavior Analysis](../conferences/neurips-2026/cards-0007.md#paper-151213)
+- [Learn Locally, Recurse Globally: Neural Circuit Synthesis Beyond Training Depth](../conferences/neurips-2026/cards-0007.md#paper-155721)
+- [Leech Lattice Vector Quantization for Efficient LLM Compression](../conferences/neurips-2026/cards-0007.md#paper-149021)
+- [Lemon: Evidence-Risk-Aware Adaptive Organization for Long-Horizon LLM Agents](../conferences/neurips-2026/cards-0007.md#paper-155165)
+- [LENS: Low-Frequency Eigen Noise Shaping for Efficient Diffusion Sampling](../conferences/neurips-2026/cards-0007.md#paper-152345)
+- [LensVLM: Selective Context Expansion for Compressed Visual Representation of Text](../conferences/neurips-2026/cards-0007.md#paper-151754)
+- [Less Evidence, Better Answering: Gain-Aware Minimal Evidence Subset Selection for Medical QA](../conferences/neurips-2026/cards-0007.md#paper-152857)
+- [LifeStream: Token Life-Cycle Modeling for Training-Free Online Video Understanding](../conferences/neurips-2026/cards-0007.md#paper-150799)
 
 <!-- conference-classification:end -->

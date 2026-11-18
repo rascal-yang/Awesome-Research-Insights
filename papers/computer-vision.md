@@ -911,5 +911,11 @@
 - [Learning to Sample From Diffusion Models via Inverse Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-154984)
 - [Learning to Solve Generative ODEs Beyond the Linear Span](../conferences/neurips-2026/cards-0007.md#paper-155573)
 - [Learning When to Denoise: Optimizing Asynchronous Schedules for Latent Diffusion](../conferences/neurips-2026/cards-0007.md#paper-149435)
+- [LENS: Low-Frequency Eigen Noise Shaping for Efficient Diffusion Sampling](../conferences/neurips-2026/cards-0007.md#paper-152345)
+- [Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](../conferences/neurips-2026/cards-0007.md#paper-152848)
+- [Less is More: Compact-Token Masked Feature Learning for Skeleton Representation Learning](../conferences/neurips-2026/cards-0007.md#paper-153560)
+- [Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](../conferences/neurips-2026/cards-0007.md#paper-153981)
+- [LESSViT: Robust Hyperspectral Representation Learning under Spectral Configuration Shift](../conferences/neurips-2026/cards-0007.md#paper-154948)
+- [LiBrA-Net: Lie-Algebraic Bilateral Affine Fields for Real-Time 4K Video Dehazing](../conferences/neurips-2026/cards-0007.md#paper-154860)
 
 <!-- conference-classification:end -->

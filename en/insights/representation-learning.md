@@ -508,5 +508,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning Visual Speech Representations via Cross-Modal Distillation and Joint Face-Lip Modeling](../../conferences/neurips-2026/cards-0007.md#paper-149522)
 - [Learning What Not to Impute: An Uncertainty-Aware Diffusion Framework for Meaningful Missingness](../../conferences/neurips-2026/cards-0007.md#paper-154580)
 - [Learning What's Real: Disentangling Signals and Measurement Artifacts in Multi-Sensor Data, with Applications to Astrophysics](../../conferences/neurips-2026/cards-0007.md#paper-154825)
+- [LEMON-ZEST: Evolution-Informed Tokenization for Efficient Protein Language Modeling](../../conferences/neurips-2026/cards-0007.md#paper-153755)
+- [LessMimic: Versatile Humanoid-Object Interaction with Unified Distance Field Representations](../../conferences/neurips-2026/cards-0007.md#paper-149455)
 
 <!-- conference-classification:end -->

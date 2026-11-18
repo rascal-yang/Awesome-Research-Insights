@@ -611,5 +611,7 @@
 - [Learning to Cut: Reinforcement Learning for Benders Decomposition](../conferences/neurips-2026/cards-0007.md#paper-151771)
 - [Learning to Discover Iterative Spectral Algorithms](../conferences/neurips-2026/cards-0007.md#paper-148403)
 - [Learning Unbiased Permutations via Flow Matching](../conferences/neurips-2026/cards-0007.md#paper-155726)
+- [LEVDA: Latent Ensemble Variational Data Assimilation via Differentiable Dynamics](../conferences/neurips-2026/cards-0007.md#paper-153297)
+- [LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing](../conferences/neurips-2026/cards-0007.md#paper-148664)
 
 <!-- conference-classification:end -->

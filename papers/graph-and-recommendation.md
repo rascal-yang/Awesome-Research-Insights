@@ -308,5 +308,7 @@
 - [Learning Global Temporal Dynamics in Sparse Networks via Cycle Counts](../conferences/neurips-2026/cards-0007.md#paper-149950)
 - [Learning to Search, Searching to Learn: A Closed-Loop Framework for Large-Scale Vehicle Routing](../conferences/neurips-2026/cards-0007.md#paper-150054)
 - [Learning Transferable Representations from Operating System Entities via Provenance Graph Distillation](../conferences/neurips-2026/cards-0007.md#paper-151915)
+- [Lethe: Link Inference Attacks For Evaluation of Edge Unlearning Methods](../conferences/neurips-2026/cards-0007.md#paper-139781)
+- [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](../conferences/neurips-2026/cards-0007.md#paper-153393)
 
 <!-- conference-classification:end -->

@@ -716,5 +716,10 @@
 - [Learning Visual Speech Representations via Cross-Modal Distillation and Joint Face-Lip Modeling](../conferences/neurips-2026/cards-0007.md#paper-149522)
 - [Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning](../conferences/neurips-2026/cards-0007.md#paper-149100)
 - [Learning Where to Look: Observation Policy Optimization for Thinking with Images](../conferences/neurips-2026/cards-0007.md#paper-150969)
+- [Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](../conferences/neurips-2026/cards-0007.md#paper-155839)
+- [LEGO: Sizing Rules for Budget-Aware Dense-to-MoE Conversion of Vision-Language Models](../conferences/neurips-2026/cards-0007.md#paper-152122)
+- [LensVLM: Selective Context Expansion for Compressed Visual Representation of Text](../conferences/neurips-2026/cards-0007.md#paper-151754)
+- [Leveraging Latent Visual Reasoning in Silence](../conferences/neurips-2026/cards-0007.md#paper-152244)
+- [LifeStream: Token Life-Cycle Modeling for Training-Free Online Video Understanding](../conferences/neurips-2026/cards-0007.md#paper-150799)
 
 <!-- conference-classification:end -->

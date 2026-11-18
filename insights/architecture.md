@@ -399,5 +399,13 @@
 - [Learning to Deaggregate: Large-scale Trajectory Generation with Spatial Priors](../conferences/neurips-2026/cards-0007.md#paper-152772)
 - [Learning Visual Feature-Based World Models via Residual Latent Action](../conferences/neurips-2026/cards-0007.md#paper-148146)
 - [Learning When to Think: Adaptive Internal Computation for Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-153029)
+- [LEGO: Sizing Rules for Budget-Aware Dense-to-MoE Conversion of Vision-Language Models](../conferences/neurips-2026/cards-0007.md#paper-152122)
+- [Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](../conferences/neurips-2026/cards-0007.md#paper-152848)
+- [LESSViT: Robust Hyperspectral Representation Learning under Spectral Configuration Shift](../conferences/neurips-2026/cards-0007.md#paper-154948)
+- [Leviathan: Decoupling Input and Output Representations in Language Models](../conferences/neurips-2026/cards-0007.md#paper-148755)
+- [LiBrA-Net: Lie-Algebraic Bilateral Affine Fields for Real-Time 4K Video Dehazing](../conferences/neurips-2026/cards-0007.md#paper-154860)
+- [Lie Generator Networks for Nonlinear Partial Differential Equations](../conferences/neurips-2026/cards-0007.md#paper-155016)
+- [LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators](../conferences/neurips-2026/cards-0007.md#paper-149185)
+- [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](../conferences/neurips-2026/cards-0007.md#paper-153393)
 
 <!-- conference-classification:end -->

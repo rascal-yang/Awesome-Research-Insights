@@ -726,5 +726,11 @@
 - [Learning Options for Compositional Motor Control with Adapter Banks](../conferences/neurips-2026/cards-0007.md#paper-149390)
 - [Learning Task-Centric World Models from Visual Foundations](../conferences/neurips-2026/cards-0007.md#paper-149351)
 - [Learning Visual Feature-Based World Models via Residual Latent Action](../conferences/neurips-2026/cards-0007.md#paper-148146)
+- [Less Language, More Latents: Annotation-Efficient VLAs for Driving](../conferences/neurips-2026/cards-0007.md#paper-149160)
+- [LessMimic: Versatile Humanoid-Object Interaction with Unified Distance Field Representations](../conferences/neurips-2026/cards-0007.md#paper-149455)
+- [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](../conferences/neurips-2026/cards-0007.md#paper-150076)
+- [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](../conferences/neurips-2026/cards-0007.md#paper-139040)
+- [LiFT: Likelihood-Free Tree-Structured Policy Optimization for Flow-Based VLAs](../conferences/neurips-2026/cards-0007.md#paper-151131)
+- [Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models](../conferences/neurips-2026/cards-0007.md#paper-154150)
 
 <!-- conference-classification:end -->

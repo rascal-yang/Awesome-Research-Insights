@@ -581,5 +581,6 @@
 - [Learning Weakly Communicating Average-Reward CMDPs: Strong Duality and Improved Regret](../conferences/neurips-2026/cards-0007.md#paper-151237)
 - [Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shift](../conferences/neurips-2026/cards-0007.md#paper-155084)
 - [Learning When to Think: Adaptive Internal Computation for Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-153029)
+- [Likelihood-Free Generative Policy Optimization](../conferences/neurips-2026/cards-0007.md#paper-151534)
 
 <!-- conference-classification:end -->

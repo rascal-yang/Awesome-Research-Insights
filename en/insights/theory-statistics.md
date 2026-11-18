@@ -922,5 +922,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning to Decide with AI Assistance under Human-Alignment](../../conferences/neurips-2026/cards-0007.md#paper-152462)
 - [Learning Weakly Communicating Average-Reward CMDPs: Strong Duality and Improved Regret](../../conferences/neurips-2026/cards-0007.md#paper-151237)
 - [Learning What Evaluators Value: A Reliable Approach to Modeling Evaluator Preferences](../../conferences/neurips-2026/cards-0007.md#paper-154896)
+- [Learning with Multiple Correct Answers - Regret Bounds under Different Feedback Models](../../conferences/neurips-2026/cards-0007.md#paper-153993)
+- [Length Generalization for Transformers via Compression](../../conferences/neurips-2026/cards-0007.md#paper-150600)
+- [Limits and Potential of Score-Based Data Valuation: Redundancy, Complementarity, and Non-Monotonicity](../../conferences/neurips-2026/cards-0007.md#paper-149315)
+- [Linear approximations to HMM filtering](../../conferences/neurips-2026/cards-0007.md#paper-155014)
 
 <!-- conference-classification:end -->

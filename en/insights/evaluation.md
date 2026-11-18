@@ -1317,5 +1317,14 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Learning to Audit ML Models with Theory of Mind](../../conferences/neurips-2026/cards-0007.md#paper-155783)
 - [Learning to Read Out: Unembedding Dynamics in Language Model Pretraining](../../conferences/neurips-2026/cards-0007.md#paper-154168)
 - [Learning to See Through Language: An Exploration of Language Modeling's Effect on Visual Representations](../../conferences/neurips-2026/cards-0007.md#paper-152283)
+- [LeCellModel: Interpretable Density Estimation over the Gene Expression Manifold](../../conferences/neurips-2026/cards-0007.md#paper-153391)
+- [Ledger: A Path-Validated, Database-Grounded Benchmark for Enterprise Web Agents](../../conferences/neurips-2026/cards-0007.md#paper-139511)
+- [LensCT: Fine-Grained AI-Involved Text Detection via Temporal-Hierarchical Tomograms of LLM Internals](../../conferences/neurips-2026/cards-0007.md#paper-151027)
+- [Lethe: Link Inference Attacks For Evaluation of Edge Unlearning Methods](../../conferences/neurips-2026/cards-0007.md#paper-139781)
+- [Leveraging Latent Visual Reasoning in Silence](../../conferences/neurips-2026/cards-0007.md#paper-152244)
+- [LG-Bench: A Graph-Structured Evaluation Benchmark for Life Science](../../conferences/neurips-2026/cards-0007.md#paper-139764)
+- [Liars' Bench: Evaluating Lie Detectors for Language Models](../../conferences/neurips-2026/cards-0007.md#paper-139686)
+- [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](../../conferences/neurips-2026/cards-0007.md#paper-139040)
+- [LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models](../../conferences/neurips-2026/cards-0007.md#paper-139459)
 
 <!-- conference-classification:end -->

@@ -2165,5 +2165,12 @@
 - [Learning What Not to Impute: An Uncertainty-Aware Diffusion Framework for Meaningful Missingness](../conferences/neurips-2026/cards-0007.md#paper-154580)
 - [Learning What to Predict: Downstream-Guided Task Design for Continued Pretraining](../conferences/neurips-2026/cards-0007.md#paper-149814)
 - [Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration](../conferences/neurips-2026/cards-0007.md#paper-149394)
+- [Learning with Multiple Correct Answers - Regret Bounds under Different Feedback Models](../conferences/neurips-2026/cards-0007.md#paper-153993)
+- [Learning with Synthetic Data via SGD in High-Dimensional Linear Regression](../conferences/neurips-2026/cards-0007.md#paper-148876)
+- [Learn Locally, Recurse Globally: Neural Circuit Synthesis Beyond Training Depth](../conferences/neurips-2026/cards-0007.md#paper-155721)
+- [Leveraging Data Symmetries to Select an Optimal Subset of Training Data under Label Noise](../conferences/neurips-2026/cards-0007.md#paper-151105)
+- [Limits and Potential of Score-Based Data Valuation: Redundancy, Complementarity, and Non-Monotonicity](../conferences/neurips-2026/cards-0007.md#paper-149315)
+- [LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing](../conferences/neurips-2026/cards-0007.md#paper-148664)
+- [Linear approximations to HMM filtering](../conferences/neurips-2026/cards-0007.md#paper-155014)
 
 <!-- conference-classification:end -->

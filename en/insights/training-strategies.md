@@ -703,5 +703,11 @@ Training schedules, curricula, and task or stage composition.
 - [Learning When to Denoise: Optimizing Asynchronous Schedules for Latent Diffusion](../../conferences/neurips-2026/cards-0007.md#paper-149435)
 - [Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-149100)
 - [Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration](../../conferences/neurips-2026/cards-0007.md#paper-149394)
+- [Learning with Synthetic Data via SGD in High-Dimensional Linear Regression](../../conferences/neurips-2026/cards-0007.md#paper-148876)
+- [Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](../../conferences/neurips-2026/cards-0007.md#paper-155839)
+- [Less is More: Compact-Token Masked Feature Learning for Skeleton Representation Learning](../../conferences/neurips-2026/cards-0007.md#paper-153560)
+- [Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](../../conferences/neurips-2026/cards-0007.md#paper-153981)
+- [Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models](../../conferences/neurips-2026/cards-0007.md#paper-154150)
+- [LightMoE: Reducing Mixture-of-Experts Redundancy through Expert Replacing](../../conferences/neurips-2026/cards-0007.md#paper-155806)
 
 <!-- conference-classification:end -->
